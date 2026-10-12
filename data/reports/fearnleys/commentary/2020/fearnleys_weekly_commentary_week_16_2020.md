@@ -6,7 +6,7 @@ week: 16
 date_range: "2020-04-14 to 2020-04-16"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 16:51:08"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 16, 2020
@@ -91,14 +91,22 @@ Owners and charterers have had to respond quickly and aggressively in some insta
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-04-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Despite the crude slumped this week, swap value came up drastically with anticipation on Saudi cuts for May term liftings. May Propane CP has traded at $314 at the time of writing and the spread between Butane narrowed down to flattish or $2 only. Due to front strength, May/June backwardation has enlarged to around $20.   FAR EAST: Active bids in window this week again but only one parcel of 23kt propane for 2h May delivery has been traded at May FEI plus $19. Comparatively, a flurry of deals were concluded into China this week.  One full cargo propane for 2h May delivery reported sold into China at May FEI plus 20ish. And several evenly split cargos were sold at May CP plus 40ish. Despite the premium softening to 30ish level into India and Indonesia this week, the household demands from both regions continuously lend support to the EAST market. India has announced further lockdown and players expect its June purchase requests. Indonesia Pertamina issued several tenders this week to secure evenly split cargos from End May to July delivery, with requests on fixed price for June/July tons. Taiwan CPC issued buy tender for end May/early June 11/11 but limited offers received.
+MEG:
+Despite the crude slumped this week, swap value came up drastically with anticipation on Saudi cuts for May term liftings. May Propane CP has traded at $314 at the time of writing and the spread between Butane narrowed down to flattish or $2 only. Due to front strength, May/June backwardation has enlarged to around $20.
+ 
+FAR EAST:
+Active bids in window this week again but only one parcel of 23kt propane for 2h May delivery has been traded at May FEI plus $19.
+Comparatively, a flurry of deals were concluded into China this week.  One full cargo propane for 2h May delivery reported sold into China at May FEI plus 20ish. And several evenly split cargos were sold at May CP plus 40ish.
+Despite the premium softening to 30ish level into India and Indonesia this week, the household demands from both regions continuously lend support to the EAST market. India has announced further lockdown and players expect its June purchase requests. Indonesia Pertamina issued several tenders this week to secure evenly split cargos from End May to July delivery, with requests on fixed price for June/July tons.
+Taiwan CPC issued buy tender for end May/early June 11/11 but limited offers received.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-04-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: April is shaping up to be a record setting month for exports from the US. This large export program coupled with the reduced imports from Canada has extended the demand season for propane.  Normally by the end of March builds are seen in the inventories but that is not the case this year, even with daily production being sustained over the 2 million barrels per day. With the strong exports, freight has made a recovery, which is putting pressure on the arb, but strong worldwide demand seems poised to keep arb open. In the Southern hemisphere seasonal demand is coming into play with Petrobras becoming an active buyer for US cargos and other buyers preparing to do the same.
+AMERICAS:
+April is shaping up to be a record setting month for exports from the US. This large export program coupled with the reduced imports from Canada has extended the demand season for propane.  Normally by the end of March builds are seen in the inventories but that is not the case this year, even with daily production being sustained over the 2 million barrels per day. With the strong exports, freight has made a recovery, which is putting pressure on the arb, but strong worldwide demand seems poised to keep arb open. In the Southern hemisphere seasonal demand is coming into play with Petrobras becoming an active buyer for US cargos and other buyers preparing to do the same.
 
 ---
 
@@ -106,13 +114,21 @@ AMERICAS: April is shaping up to be a record setting month for exports from the 
 ### SnP Weekly Comment
 **Date:** 2020-04-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Cheap oil all around with storage play still providing impetus to buying interest for older VLCC’s in particular.  It’s all about presenting candidates at one of the very few places where inspection can be conducted and with prompt delivery on offer.  Tellingly, a 1998 built VLCC is understood to be working firm at region Usd 25 mill basis prompt delivery Singapore. The 2005 built VLCC TAKASAKI was inspected in Singapore by six buyers this week with a sale expected to be concluded in a week’s time.  There are unconfirmed reports that Middle Eastern buyers are in the process of  acquiring the three VLCC’s RENE built 2005 Imabari, MAERA built 2002 Mitsui and KELLY built 2000 Mitsui but we await further details.    Euronav announced the sale of its 2001 built Suezmax CAP DIAMANT at Usd 20.8 mill.  The deal was concluded some time back and the vessel has already been delivered to its new owner.  There are a large number of Aframax tankers for sale built early-to-late 2000 however sales activity has failed to ignite this time around.  The bid/ask spread has proved difficult to bridge with potential sellers opting to ride the wave while it lasts.  Tangible bulker deals remain few and far between but the sale of handysize IKAN LANDUK built 2013 Onomichi is a rare exception.  The price reported is very much in line with our value estimates.
+Cheap oil all around with storage play still providing impetus to buying interest for older VLCC’s in particular.  It’s all about presenting candidates at one of the very few places where inspection can be conducted and with prompt delivery on offer.  Tellingly, a 1998 built VLCC is understood to be working firm at region Usd 25 mill basis prompt delivery Singapore. The 2005 built VLCC TAKASAKI was inspected in Singapore by six buyers this week with a sale expected to be concluded in a week’s time.  There are unconfirmed reports that Middle Eastern buyers are in the process of  acquiring the three VLCC’s RENE built 2005 Imabari, MAERA built 2002 Mitsui and KELLY built 2000 Mitsui but we await further details.  
+
+Euronav announced the sale of its 2001 built Suezmax CAP DIAMANT at Usd 20.8 mill.  The deal was concluded some time back and the vessel has already been delivered to its new owner.  There are a large number of Aframax tankers for sale built early-to-late 2000 however sales activity has failed to ignite this time around.  The bid/ask spread has proved difficult to bridge with potential sellers opting to ride the wave while it lasts.
+
+Tangible bulker deals remain few and far between but the sale of handysize IKAN LANDUK built 2013 Onomichi is a rare exception.  The price reported is very much in line with our value estimates.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-04-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST In the East this week, rates have begun to strengthen on the back of more inquiries ex MEG. One consequence of this has been the decision by some to keep vessels East in order to avoid getting caught out by a strengthening market. Looking into May, freight looks much shorter than it has done over the last couple of weeks and so it would not be unreasonable to expect more strength in the short term. With that said, the OPEC+ decision to cut a handful of cargoes in May is one factor which could put pressure on rates. Given strong Indian and Indonesian demand, it is likely this shortfall will have to be made up for with tonnes from the US, NWE and elsewhere, and this should be bullish for freight in the longer term.  WEST The West has also firmed up this week, particularly since activity in the East has removed some western candidates from position lists. Looking ahead, the West looks to remain fairly tight; ships aren’t that many in number (around 10 remain for the rest of May) and are mostly owner controlled. American producers have pushed back on Trump’s proposed cuts which should mean demand for freight is maintained at least in the near term. Finally, the West and East are broadly equal on a Baltic basis, and this should stop too many players from flooding the Western market with additional tonnage.
+EAST
+In the East this week, rates have begun to strengthen on the back of more inquiries ex MEG. One consequence of this has been the decision by some to keep vessels East in order to avoid getting caught out by a strengthening market. Looking into May, freight looks much shorter than it has done over the last couple of weeks and so it would not be unreasonable to expect more strength in the short term. With that said, the OPEC+ decision to cut a handful of cargoes in May is one factor which could put pressure on rates. Given strong Indian and Indonesian demand, it is likely this shortfall will have to be made up for with tonnes from the US, NWE and elsewhere, and this should be bullish for freight in the longer term.
+
+WEST
+The West has also firmed up this week, particularly since activity in the East has removed some western candidates from position lists. Looking ahead, the West looks to remain fairly tight; ships aren’t that many in number (around 10 remain for the rest of May) and are mostly owner controlled. American producers have pushed back on Trump’s proposed cuts which should mean demand for freight is maintained at least in the near term. Finally, the West and East are broadly equal on a Baltic basis, and this should stop too many players from flooding the Western market with additional tonnage.
 
 ---

@@ -6,7 +6,7 @@ week: 22
 date_range: "2020-05-26 to 2020-05-27"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 16:51:08"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 22, 2020
@@ -84,21 +84,30 @@ In the North Sea and Baltic market, we have seen a significant downward correcti
 ### LNG Market Report
 **Date:** 2020-05-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Spot shipping rates are mostly unchanged from last week and sentiment remains soft. Another round of US cargo cancelations, although perhaps not as large as some participants feared, has nonetheless dampened hopes of an improved summer market. Some charterers are testing the market for opportunities to take winter coverage at reduced rates. However, as of this week, there exists a stand-off with independent owners reluctant to fix the traditionally stronger winter months in today’s soft market. While there aren’t many encouraging signs for owners in the immediate future, cautious optimism will endure as uncertainty hangs over second half of the year. Much will depend on the cargo market and in particular regional gas pricing; for example, high gas storage and low pricing in Europe may support the emergence of reloads. While this might not support the levels seen in recent winters, it would be an encouraging sign for utilisation.   Again, no large LNG newbuilding orders to report this week, but DSME did report a notable large Q-Max type FSRU by a Far East owner for German terminal project. There are also a few second-hand transactions in the pipeline.
+Spot shipping rates are mostly unchanged from last week and sentiment remains soft. Another round of US cargo cancelations, although perhaps not as large as some participants feared, has nonetheless dampened hopes of an improved summer market. Some charterers are testing the market for opportunities to take winter coverage at reduced rates. However, as of this week, there exists a stand-off with independent owners reluctant to fix the traditionally stronger winter months in today’s soft market. While there aren’t many encouraging signs for owners in the immediate future, cautious optimism will endure as uncertainty hangs over second half of the year. Much will depend on the cargo market and in particular regional gas pricing; for example, high gas storage and low pricing in Europe may support the emergence of reloads. While this might not support the levels seen in recent winters, it would be an encouraging sign for utilisation. 
+
+Again, no large LNG newbuilding orders to report this week, but DSME did report a notable large Q-Max type FSRU by a Far East owner for German terminal project. There are also a few second-hand transactions in the pipeline.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-05-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: 1st round June CP recommendation ranged widely from $300-$370 for Propane with majority at $330-340, in line with swap value. Butane was recommended at parity to propane or $10-15 less. Saudi Aramco is reported to have a heavy butane spot cargo for June lifting. And other AG producers including QP and ADNOC are also said to have spots avail. This adds on more volume to an oversupplied market, which revealed a reason why June/Jul CP backwardation has enlarged from $10 to $30 now.   FAR EAST: With a bunch of June arrival cargos unabsorbed, front still appears long amid lukewarm demand and Jul price discussion is edging down. One full cargo propane for 1h Jul arrival was reported sold at Jul FEI minus $4 while another equal ratio for Jul arrival was at even lower minus $7 reportedly. Asian importers are still hesitant to move for July spot amid high inventory.  Despite the narrowing Arb, there is no June cancellations so far. And lifters are said now consider shipping cargos via CAPE instead of Houston Channel to avoid the depressed Jul market and capture the contango into Aug.
+MEG:
+1st round June CP recommendation ranged widely from $300-$370 for Propane with majority at $330-340, in line with swap value. Butane was recommended at parity to propane or $10-15 less.
+Saudi Aramco is reported to have a heavy butane spot cargo for June lifting. And other AG producers including QP and ADNOC are also said to have spots avail. This adds on more volume to an oversupplied market, which revealed a reason why June/Jul CP backwardation has enlarged from $10 to $30 now. 
+
+FAR EAST:
+With a bunch of June arrival cargos unabsorbed, front still appears long amid lukewarm demand and Jul price discussion is edging down. One full cargo propane for 1h Jul arrival was reported sold at Jul FEI minus $4 while another equal ratio for Jul arrival was at even lower minus $7 reportedly. Asian importers are still hesitant to move for July spot amid high inventory. 
+Despite the narrowing Arb, there is no June cancellations so far. And lifters are said now consider shipping cargos via CAPE instead of Houston Channel to avoid the depressed Jul market and capture the contango into Aug.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-05-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: On Thursday, The EIA reported a 1.5 million barrel inventory build which did very little to buoy the US/FEI arb-that has come off close to $40/ton since the start of the month. If not for crashing freight rates (Houston-Chiba last done at $67/ton on Wednesday and now being discussed at USD 60/mt)  it is likely we would have seen June cargo cancellations from the US Gulf-though none have been reported as of yet. A lot of talk in the US propane market is orbiting around considerable product tightness come the end of 3q and 4q of 2020. Covid related demand lapses have led to considerable cutbacks on the part of crude producers in the Marcellus, Uttica, Permian and Midland basins. Some 600mb/d of production have been cutback this month-as producers wait for demand in Jet fuel, motor oil and other crude demand drivers to wake back up before turning the tap back on. As we are still building inventories, per usual this time of year, the propane production cutbacks are not yet felt in full force although there are certainly warning lights flashing.
+AMERICAS:
+On Thursday, The EIA reported a 1.5 million barrel inventory build which did very little to buoy the US/FEI arb-that has come off close to $40/ton since the start of the month. If not for crashing freight rates (Houston-Chiba last done at $67/ton on Wednesday and now being discussed at USD 60/mt)  it is likely we would have seen June cargo cancellations from the US Gulf-though none have been reported as of yet. A lot of talk in the US propane market is orbiting around considerable product tightness come the end of 3q and 4q of 2020. Covid related demand lapses have led to considerable cutbacks on the part of crude producers in the Marcellus, Uttica, Permian and Midland basins. Some 600mb/d of production have been cutback this month-as producers wait for demand in Jet fuel, motor oil and other crude demand drivers to wake back up before turning the tap back on. As we are still building inventories, per usual this time of year, the propane production cutbacks are not yet felt in full force although there are certainly warning lights flashing.
 
 ---
 
@@ -106,13 +115,21 @@ AMERICAS: On Thursday, The EIA reported a 1.5 million barrel inventory build whi
 ### SnP Weekly Comment
 **Date:** 2020-05-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-A pickup in activity this week, with a number of countries around the world returning to some form of relative normality. In the tanker space, the majority of vessels changing hands remain those of older vintage, whereas mentioned last week sellers are more lenient and willing to go meet buyers at levels below the last done that were set over the past stronger weeks. On the more modern side of the spectrum, the stand-off remains with the few remaining potential sellers still holding off for levels set at the peak of the aforementioned market.   As expected, following the recent increase of Buying enquiries, the dry SnP markets are seeing a number of transactions taking place with new benchmarks being set. A number of potential sellers have now got clearer visibility on the potential bids and are willing to test the market by making candidates available for inspections.  Although the panamax and post-panamax segments have seen a couple of units being sold this week there still is a notable lack of activity in the capesize market rendering it difficult to assess where pricing currently lies. This price dislocation being particularly well illustrated by the Taiwanese controlled MV “NEW STAGE” (176,877 dwt built 2008 Namura) which was withdrawn after seeing a top offer of Usd 14m against sellers expectation of Usd 16m.
+A pickup in activity this week, with a number of countries around the world returning to some form of relative normality. In the tanker space, the majority of vessels changing hands remain those of older vintage, whereas mentioned last week sellers are more lenient and willing to go meet buyers at levels below the last done that were set over the past stronger weeks. On the more modern side of the spectrum, the stand-off remains with the few remaining potential sellers still holding off for levels set at the peak of the aforementioned market. 
+
+As expected, following the recent increase of Buying enquiries, the dry SnP markets are seeing a number of transactions taking place with new benchmarks being set. A number of potential sellers have now got clearer visibility on the potential bids and are willing to test the market by making candidates available for inspections.  Although the panamax and post-panamax segments have seen a couple of units being sold this week there still is a notable lack of activity in the capesize market rendering it difficult to assess where pricing currently lies. This price dislocation being particularly well illustrated by the Taiwanese controlled MV “NEW STAGE” (176,877 dwt built 2008 Namura) which was withdrawn after seeing a top offer of Usd 14m against sellers expectation of Usd 16m.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-05-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST: The week got off to a quiet start with several countries on public holiday on Monday. But since then we have seen a few ships being fixed away for 2nd decade June loading in the Middle East. All of these deals have been reported in the lower USD 30s Baltic, and with a continuous lengthy list of available ships in the East, freight rates will continue to be under pressure. As this trend seem set to continue for current and next fixing window, some owners have decided to send more ships back West via Cape hoping for better freight returns there. Meanwhile, there are talks of a few more uncovered cargos from Indian majors during mid and 2nd half of June, but time of writing it remains to be seen how many of these that can actually be firmed up.  WEST: Activity at the start of this week was limited, with most of the West having a public holiday on Monday. A handful of fixtures and FOB transactions has meant that the positions list is now marginally shorter than it was. In addition, a decent build in US stats should theoretically be a supportive factor for freight rates.   However, despite the fact that fixing for June should be largely over with, freight remains on the long side with a combination of owner-controlled ships and trader relets available throughout the month. There is still a slightly bearish sentiment as a consequence, and it is difficult to come up with reasons why this would change any time soon.
+EAST:
+The week got off to a quiet start with several countries on public holiday on Monday. But since then we have seen a few ships being fixed away for 2nd decade June loading in the Middle East. All of these deals have been reported in the lower USD 30s Baltic, and with a continuous lengthy list of available ships in the East, freight rates will continue to be under pressure. As this trend seem set to continue for current and next fixing window, some owners have decided to send more ships back West via Cape hoping for better freight returns there. Meanwhile, there are talks of a few more uncovered cargos from Indian majors during mid and 2nd half of June, but time of writing it remains to be seen how many of these that can actually be firmed up.
+
+WEST:
+Activity at the start of this week was limited, with most of the West having a public holiday on Monday. A handful of fixtures and FOB transactions has meant that the positions list is now marginally shorter than it was. In addition, a decent build in US stats should theoretically be a supportive factor for freight rates. 
+
+However, despite the fact that fixing for June should be largely over with, freight remains on the long side with a combination of owner-controlled ships and trader relets available throughout the month. There is still a slightly bearish sentiment as a consequence, and it is difficult to come up with reasons why this would change any time soon.
 
 ---

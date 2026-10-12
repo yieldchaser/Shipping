@@ -6,7 +6,7 @@ week: 33
 date_range: "2025-08-13 to 2025-08-14"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 16:51:14"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 33, 2025
@@ -48,14 +48,23 @@ Having been on an upward trajectory through the whole of last week MEG/East rate
 ### Suezmax Weekly Comment
 **Date:** 2025-08-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-Despite not many FOC boats, 9–10 vessels are safe to work today for West Africa, i.e. berthed or firm prospects to sail by the weekend. Given we are virtually closed out for August West Africa volume, USG is unlikely to draw tonnage, and vessels ex-East are either committed to COGH or showing willingness; as a result, both supply and demand fundamentals have weakened. We did see TD20 test down to WS 112.5 yesterday - it seems likely quoting of September dates will see more losses realized.  CPC may however lend a hand - the number of CPC candidates isn’t particularly long, especially off early September. Expect vessels ex-UKC to be in contention given greater stability for the route compared to TD20.   The MEG also experienced a downward correction yesterday on an opts cargo. Tonnage remains healthy and owners will need more enquiry to end the week to lend stability.
+Despite not many FOC boats, 9–10 vessels are safe to work today for West Africa, i.e. berthed or firm prospects to sail by the weekend. Given we are virtually closed out for August West Africa volume, USG is unlikely to draw tonnage, and vessels ex-East are either committed to COGH or showing willingness; as a result, both supply and demand fundamentals have weakened. We did see TD20 test down to WS 112.5 yesterday - it seems likely quoting of September dates will see more losses realized.
+
+CPC may however lend a hand - the number of CPC candidates isn’t particularly long, especially off early September. Expect vessels ex-UKC to be in contention given greater stability for the route compared to TD20. 
+
+The MEG also experienced a downward correction yesterday on an opts cargo. Tonnage remains healthy and owners will need more enquiry to end the week to lend stability.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2025-08-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-NORTH SEA The list has been thinned on the early side with tonnage leaving the area and some quiet fixing taking out tonnage and stems into the 3rd decade. Downside on rates is limited with viable alternatives coming into play.  The projected list does show a few relets coming back into position which may limit the market activity out toward the end of the month.   MEDITERRANEAN The available tonnage on paper looks plentiful for demand out to the end of August, but on closer inspection there are a number of vessels that wont be favorable for a number of cargoes and charterers.  Rates sideways, but date and voyage sensitivity will come into play.
+NORTH SEA
+The list has been thinned on the early side with tonnage leaving the area and some quiet fixing taking out tonnage and stems into the 3rd decade.
+Downside on rates is limited with viable alternatives coming into play.  The projected list does show a few relets coming back into position which may limit the market activity out toward the end of the month.
+ 
+MEDITERRANEAN
+The available tonnage on paper looks plentiful for demand out to the end of August, but on closer inspection there are a number of vessels that wont be favorable for a number of cargoes and charterers.  Rates sideways, but date and voyage sensitivity will come into play.
 
 ---
 
@@ -63,21 +72,30 @@ NORTH SEA The list has been thinned on the early side with tonnage leaving the a
 ### LNG Market Report
 **Date:** 2025-08-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Spot activity has eased off slightly over the past week, as could be expected after breakneck speed with which requirements were covered during July. Atlantic fixtures have continued to trickle through with little direction or movement on charter rates and whilst availabilities look patchier further forward, charterers are in no hurry expecting redeliveries to repopulate position lists in due course. The Pacific has remained quiet, and rates have come under further pressure with a single spot fixture for early September seeing plenty of offers.   Whilst we may have finally reached holiday mode on the spot, the long-awaited summer lull has not killed longer term discussions. Preparations are being made for some structural shorts next year, against growing availability profile from independent owners looking to take short term coverage before anticipated tightening later in the decade. Fresh newbuilding orders remain muted year-to-date though yards are comfortable with large orderbooks and a healthy pipeline of prospective requirements from the LNG space and other segments alike.
+Spot activity has eased off slightly over the past week, as could be expected after breakneck speed with which requirements were covered during July. Atlantic fixtures have continued to trickle through with little direction or movement on charter rates and whilst availabilities look patchier further forward, charterers are in no hurry expecting redeliveries to repopulate position lists in due course. The Pacific has remained quiet, and rates have come under further pressure with a single spot fixture for early September seeing plenty of offers.
+ 
+Whilst we may have finally reached holiday mode on the spot, the long-awaited summer lull has not killed longer term discussions. Preparations are being made for some structural shorts next year, against growing availability profile from independent owners looking to take short term coverage before anticipated tightening later in the decade. Fresh newbuilding orders remain muted year-to-date though yards are comfortable with large orderbooks and a healthy pipeline of prospective requirements from the LNG space and other segments alike.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-08-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG FOB discounts for September lifting remain steady at CP minus $20s due to soaring freight costs, with minimal new deal activity reported. By the time of writing, September CP is traded at $520, while C3/C4 at $23, and Sep/Oct C3 CP at $13 contango.   FAR EAST  Cash differential improved with 23/0 parcels for both 1h and 2h Sep delivery basis Chiba were traded at Sep FEI minus $9 in window. As Us and China extend tariff truce by another 90 days, Chinese importers returned to consider US stems. Kingfa was reported to procure a non-Us 4/0 basis Panjin at Sep CP plus 50s, and two parcels of US 2/0 basis Ningbo at Sep FEI minus low mid-teens. Whereas another Chinese Major importer canceled their tender as offers hover at Sep CP plus 50s seeming unattractive. Other than Propane, Butane is relatively active with a handful of 2/2 cargos placed into NChina, at Sep CP plus high 40s and Sep FEI plus 20s reportedly. FPCC also issued buy tender for 23kt butane on 2h Sep delivery into Mailiao.
+MEG
+FOB discounts for September lifting remain steady at CP minus $20s due to soaring freight costs, with minimal new deal activity reported. By the time of writing, September CP is traded at $520, while C3/C4 at $23, and Sep/Oct C3 CP at $13 contango. 
+
+FAR EAST 
+Cash differential improved with 23/0 parcels for both 1h and 2h Sep delivery basis Chiba were traded at Sep FEI minus $9 in window. As Us and China extend tariff truce by another 90 days, Chinese importers returned to consider US stems. Kingfa was reported to procure a non-Us 4/0 basis Panjin at Sep CP plus 50s, and two parcels of US 2/0 basis Ningbo at Sep FEI minus low mid-teens. Whereas another Chinese Major importer canceled their tender as offers hover at Sep CP plus 50s seeming unattractive. Other than Propane, Butane is relatively active with a handful of 2/2 cargos placed into NChina, at Sep CP plus high 40s and Sep FEI plus 20s reportedly. FPCC also issued buy tender for 23kt butane on 2h Sep delivery into Mailiao.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2025-08-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-US The market is largely inactive due to a couple of industry outings, and the holiday schedule is now fully engaged.  That said, the few who remain in office are eyeing a buy/sell range of 4.75-5.75cpg for FOB USGC spot parcels. Cancellation talk has been growing in the meanwhile, as the freight market continues to absorb any uptick in the arb, leaving the terminal fee market perilously close engagement. The EIA yesterday reported a well-received 3.9mmbbl build, which brought overall US propane stock levels to 88.60mmbbls, or about 98% of both last year and two years ago.  The US inventory levels are poised to reach the upper 90mmbbl level by end Oct, which would be satisfactory in terms of both domestic winter supplies and exports, which at this point are being well supported by domestic US production levels.
+US
+The market is largely inactive due to a couple of industry outings, and the holiday schedule is now fully engaged.  That said, the few who remain in office are eyeing a buy/sell range of 4.75-5.75cpg for FOB USGC spot parcels.
+Cancellation talk has been growing in the meanwhile, as the freight market continues to absorb any uptick in the arb, leaving the terminal fee market perilously close engagement.
+The EIA yesterday reported a well-received 3.9mmbbl build, which brought overall US propane stock levels to 88.60mmbbls, or about 98% of both last year and two years ago.  The US inventory levels are poised to reach the upper 90mmbbl level by end Oct, which would be satisfactory in terms of both domestic winter supplies and exports, which at this point are being well supported by domestic US production levels.
 
 ---
 
@@ -85,6 +103,11 @@ US The market is largely inactive due to a couple of industry outings, and the h
 ### Chartering Weekly Comment
 **Date:** 2025-08-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST There have been very few fixtures into India for August, which could result in a heavier concentration of spot activity early September. Aramco acceptances are still pending, and we will likely hear more Monday. While the position list may appear long, it may be somewhat misleading. A number of vessels currently listed are ballasting via the Cape, which could significantly reduce actual availability. One fixture ex AG this week bringing the total number of Aug fixtures from the Middle East (inc. Yanbu) to 28, rates have remained flat at $89 excluding one fixture out of Yanbu at $115 which carries a risk premium for GOA passage.  WEST 21 deals registered ex US thus far in September (6 / 9 / 6 by decade), versus an average of 29 deals/month year to date. The first open ships bss USG currently from 18th September onwards, however this could potentially change if / when ship schedules gets affected by northbound Panama transits.  We’ve seen a handful of deals concluded in the 3rd decade of September this week with last done ranging from $152-153 HCvP. Activity on shipping has otherwise been quiet as we await market direction post Aramco’s acceptances for September.
+EAST
+There have been very few fixtures into India for August, which could result in a heavier concentration of spot activity early September. Aramco acceptances are still pending, and we will likely hear more Monday. While the position list may appear long, it may be somewhat misleading. A number of vessels currently listed are ballasting via the Cape, which could significantly reduce actual availability. One fixture ex AG this week bringing the total number of Aug fixtures from the Middle East (inc. Yanbu) to 28, rates have remained flat at $89 excluding one fixture out of Yanbu at $115 which carries a risk premium for GOA passage.
+
+WEST
+21 deals registered ex US thus far in September (6 / 9 / 6 by decade), versus an average of 29 deals/month year to date. The first open ships bss USG currently from 18th September onwards, however this could potentially change if / when ship schedules gets affected by northbound Panama transits. 
+We’ve seen a handful of deals concluded in the 3rd decade of September this week with last done ranging from $152-153 HCvP. Activity on shipping has otherwise been quiet as we await market direction post Aramco’s acceptances for September.
 
 ---

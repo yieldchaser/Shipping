@@ -6,7 +6,7 @@ week: 23
 date_range: "2026-06-03 to 2026-06-05"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 23, 2026
@@ -55,7 +55,11 @@ High off market activity pruned lists, primarily characterised by Mediterranean/
 ### Aframax Weekly Comment
 **Date:** 2026-06-03 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea The majority of the first decade stems are now covered with little in the way of actual market activity. Rates fell to WS 145 at the end of last week but with US and Mediterranean markets picking up the North Sea should have stabilized and with tonnage expected to ballast away may have bottomed. With some Norwegian field maintenance now over the 2nd half of June on paper looks to be busier than the first half which should give owners some optimism.   Mediterranean The end of last week was very busy with charterers fixing both ahead in dates and ahead of Posidonia. This week has remained active with a mixture of new business and some replacement business which has pushed the market up over 40 points very quickly. The list is on the tighter side of balanced for good itinerary tonnage and some ports are experiencing some delays which is helping to keep it balanced. Sentiment is firm from owners. We may see some vessels ballast from the North Sea but probably not enough to change the momentum for this week at least.
+North Sea
+The majority of the first decade stems are now covered with little in the way of actual market activity. Rates fell to WS 145 at the end of last week but with US and Mediterranean markets picking up the North Sea should have stabilized and with tonnage expected to ballast away may have bottomed. With some Norwegian field maintenance now over the 2nd half of June on paper looks to be busier than the first half which should give owners some optimism.
+ 
+Mediterranean
+The end of last week was very busy with charterers fixing both ahead in dates and ahead of Posidonia. This week has remained active with a mixture of new business and some replacement business which has pushed the market up over 40 points very quickly. The list is on the tighter side of balanced for good itinerary tonnage and some ports are experiencing some delays which is helping to keep it balanced. Sentiment is firm from owners. We may see some vessels ballast from the North Sea but probably not enough to change the momentum for this week at least.
 
 ---
 
@@ -63,7 +67,15 @@ North Sea The majority of the first decade stems are now covered with little in 
 ### LNG Market Report
 **Date:** 2026-06-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Rates continue to stay buoyant across the basins, as both Atlantic and Pacific markets enjoy increased liquidity over spot and term periods.  Several competing requirements in the East for 2H June have made availability among TFDEs appear tight for the first time in some weeks, which is reflected by gently increasing headline rates.  The Atlantic market looks increasingly tight for July, driven mainly by a sustained arbitrage pulling ships out of the intra-basin trade flows to which we have become accustomed.  These patterns show little sign of slowing down, as both developing and firm requirements for 1H July have already hit the market.  Layer on to the current market dynamics the continuing difficulties resolving the conflict in the Middle East, and the firmness we're seeing today looks set to persist for the foreseeable future.
+Rates continue to stay buoyant across the basins, as both Atlantic and Pacific markets enjoy increased liquidity over spot and term periods.
+
+Several competing requirements in the East for 2H June have made availability among TFDEs appear tight for the first time in some weeks, which is reflected by gently increasing headline rates.
+
+The Atlantic market looks increasingly tight for July, driven mainly by a sustained arbitrage pulling ships out of the intra-basin trade flows to which we have become accustomed.
+
+These patterns show little sign of slowing down, as both developing and firm requirements for 1H July have already hit the market.
+
+Layer on to the current market dynamics the continuing difficulties resolving the conflict in the Middle East, and the firmness we're seeing today looks set to persist for the foreseeable future.
 
 ---
 
@@ -71,7 +83,9 @@ Rates continue to stay buoyant across the basins, as both Atlantic and Pacific m
 ### SnP Weekly Comment
 **Date:** 2026-06-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-No second-hand transactions are reported in the tanker market this week, though not due to any change in sentiment, which remains strong. Newbuilding continues to be the preferred outlet for investors in this sector, with activity particularly focused on larger crude tonnage.    Earnings across dry are in keeping with the overall buoyant shipping markets, with the lower than usual reported sales likely due to Posidonia 2026 taking place in Athens this week. SSDD due Supramax AE MARS (53K DWT Yangzhou Dayang 2006) was sold for USD 9.05M.
+No second-hand transactions are reported in the tanker market this week, though not due to any change in sentiment, which remains strong. Newbuilding continues to be the preferred outlet for investors in this sector, with activity particularly focused on larger crude tonnage. 
+ 
+Earnings across dry are in keeping with the overall buoyant shipping markets, with the lower than usual reported sales likely due to Posidonia 2026 taking place in Athens this week. SSDD due Supramax AE MARS (53K DWT Yangzhou Dayang 2006) was sold for USD 9.05M.
 
 ---
 

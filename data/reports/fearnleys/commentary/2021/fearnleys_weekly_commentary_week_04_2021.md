@@ -6,7 +6,7 @@ week: 4
 date_range: "2021-01-25 to 2021-01-27"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 16:51:09"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 04, 2021
@@ -69,14 +69,16 @@ The writing appears to be on the wall for Suezmax's this week, especially in Wes
 ### Aframax Weekly Comment
 **Date:** 2021-01-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The Nsea and Baltic markets have remained flat around bottom levels for yet another week. Owners are bravely putting up some resistance trying to push for a few extra points for cross-continent runs in order to achieve returns which give them break-even levels instead of negative returns. Some Owners are ballasting out of the area seeking alternatives elsewhere, but the tonnage list is still in charterers favour and we expect rates to persist at current levels, give or take a few points.  In the Med/Bsea increased activity combined with delays in key ports has resulted in a tighter tonnagelist and freight levels across the board have picked up about 10 points. One to watch is if momentum can be maintained in the next few days, bearing in mind additional ships coming into the area from surrounding weaker markets.
+The Nsea and Baltic markets have remained flat around bottom levels for yet another week. Owners are bravely putting up some resistance trying to push for a few extra points for cross-continent runs in order to achieve returns which give them break-even levels instead of negative returns. Some Owners are ballasting out of the area seeking alternatives elsewhere, but the tonnage list is still in charterers favour and we expect rates to persist at current levels, give or take a few points. 
+In the Med/Bsea increased activity combined with delays in key ports has resulted in a tighter tonnagelist and freight levels across the board have picked up about 10 points. One to watch is if momentum can be maintained in the next few days, bearing in mind additional ships coming into the area from surrounding weaker markets.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2021-01-25 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-The Nsea and Baltic markets have remained flat around bottom levels for yet another week. Owners are bravely putting up some resistance trying to push for a few extra points for cross-continent runs in order to achieve returns which give them break-even levels instead of negative returns. Some Owners are ballasting out of the area seeking alternatives elsewhere, but the tonnage list is still in charterers favour and we expect rates to persist at current levels, give or take a few points.  In the Med/Bsea increased activity combined with delays in key ports has resulted in a tighter tonnagelist and freight levels across the board have picked up about 10 points. One to watch is if momentum can be maintained in the next few days, bearing in mind additional ships coming into the area from surrounding weaker markets.
+The Nsea and Baltic markets have remained flat around bottom levels for yet another week. Owners are bravely putting up some resistance trying to push for a few extra points for cross-continent runs in order to achieve returns which give them break-even levels instead of negative returns. Some Owners are ballasting out of the area seeking alternatives elsewhere, but the tonnage list is still in charterers favour and we expect rates to persist at current levels, give or take a few points. 
+In the Med/Bsea increased activity combined with delays in key ports has resulted in a tighter tonnagelist and freight levels across the board have picked up about 10 points. One to watch is if momentum can be maintained in the next few days, bearing in mind additional ships coming into the area from surrounding weaker markets.
 
 ---
 
@@ -84,21 +86,27 @@ The Nsea and Baltic markets have remained flat around bottom levels for yet anot
 ### LNG Market Report
 **Date:** 2021-01-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Chartering activities remain muted for another week in both basins, as charterers pause to assess the market on the back the strong backwardation in LNG commodity prices ahead. Global availability has increased as a handful of sublets have appeared in the Atlantic, coupled with vessels redelivering from winter charters in the Pacific. These signs point to a typical seasonal LNG cycle, and an inevitable correction on spot rates into March – yet the year-on-year average looks higher this year than last. There is a balancing point ahead: utilisation should be relatively strong as end users seek to rebuild inventories that were depleted in this winter cycle, although vessel redeliveries and the uncommitted New Buildings coming to the market in the first half of 2021 are likely to keep some pressure on term rates moving forward. In the New Building market, Cosco Shipping was reported to have ordered three LNG carriers from Daewoo shipyard in Korea to serve the Arctic LNG II project.
+Chartering activities remain muted for another week in both basins, as charterers pause to assess the market on the back the strong backwardation in LNG commodity prices ahead. Global availability has increased as a handful of sublets have appeared in the Atlantic, coupled with vessels redelivering from winter charters in the Pacific. These signs point to a typical seasonal LNG cycle, and an inevitable correction on spot rates into March – yet the year-on-year average looks higher this year than last. There is a balancing point ahead: utilisation should be relatively strong as end users seek to rebuild inventories that were depleted in this winter cycle, although vessel redeliveries and the uncommitted New Buildings coming to the market in the first half of 2021 are likely to keep some pressure on term rates moving forward.
+In the New Building market, Cosco Shipping was reported to have ordered three LNG carriers from Daewoo shipyard in Korea to serve the Arctic LNG II project.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2021-01-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Swap market experienced another week of volatility. Feb CP was assessed at $595 at the time of writing, down by $30 compared to last week. 1st round CP recommendation ideas vary widely from lowest at $580 to highest $620, and butane was advised at 15-40$ cheaper. Despite the softening curve value, some players expect CP to be set above $600. One middle East producer was reported to sell their late Feb lifting evenly split cargo at over $20 discounts to Mar CP.   FAR EAST Less activities in the window this week with the focus shifted to 1h Mar delivery. Feb FEI/CP has declined sharply into $65 this week.  Off window, some Japanese are still exploring cargos for 2h Feb delivery, concerning potential shortage due to cancellations ex US for Feb liftings. Despite this, the cash differentials for 2h Feb delivery has turned into flattish and even negative territory, as one 23kt propane parcel was reported sold at Feb FEI minus $1. In the meantime, seeing the flat price and cash premium falling, Chinese Importers are also emerging and absorbing spot cargos for 2h Feb to 1h Mar delivery. Full propane cargo for such period was placed into China at Mar FEI plus around $30. One N.China Petchem importer secured via tender one evenly split cargo and one full propane cargo for 2h Feb to 1h Mar delivery. And following this, another E.China PDH user issued buy tender to purchase two 23/0 parcels for the same periods.
+MEG
+Swap market experienced another week of volatility. Feb CP was assessed at $595 at the time of writing, down by $30 compared to last week. 1st round CP recommendation ideas vary widely from lowest at $580 to highest $620, and butane was advised at 15-40$ cheaper. Despite the softening curve value, some players expect CP to be set above $600. One middle East producer was reported to sell their late Feb lifting evenly split cargo at over $20 discounts to Mar CP. 
+
+FAR EAST
+Less activities in the window this week with the focus shifted to 1h Mar delivery. Feb FEI/CP has declined sharply into $65 this week.  Off window, some Japanese are still exploring cargos for 2h Feb delivery, concerning potential shortage due to cancellations ex US for Feb liftings. Despite this, the cash differentials for 2h Feb delivery has turned into flattish and even negative territory, as one 23kt propane parcel was reported sold at Feb FEI minus $1. In the meantime, seeing the flat price and cash premium falling, Chinese Importers are also emerging and absorbing spot cargos for 2h Feb to 1h Mar delivery. Full propane cargo for such period was placed into China at Mar FEI plus around $30. One N.China Petchem importer secured via tender one evenly split cargo and one full propane cargo for 2h Feb to 1h Mar delivery. And following this, another E.China PDH user issued buy tender to purchase two 23/0 parcels for the same periods.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2021-01-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS The story of unfavorable Arb economics continues. Strong propane prices in the US markets and falling FEI numbers have hurt the Arb and until these items reverse we do not foresee much of a change.  In Mt Belvieu pad 3 inventories are dangerously low despite a warmer than normal start to Winter. This is a result of record exports and hence is reflected in the strong Belvieu price. However, with WTI above USD 50 per barrel ($52.41) increased production might be the white knight that saves the arb,  but for now the market is looking for cancellations. If cancellations do occur the issue then becomes how can Asia survive without US product. Hence cancellations might accomplish decreasing Belvieu and increasing the Fei but this may not happen until the second quarter. Freights have come off considerably, doing its part to help the arb, and shipowners are now wondering how low they must go to get the trade going again. In Mexico, Covid is still having an effect on demand thus causing slower discharges into their ports.
+AMERICAS
+The story of unfavorable Arb economics continues. Strong propane prices in the US markets and falling FEI numbers have hurt the Arb and until these items reverse we do not foresee much of a change.  In Mt Belvieu pad 3 inventories are dangerously low despite a warmer than normal start to Winter. This is a result of record exports and hence is reflected in the strong Belvieu price. However, with WTI above USD 50 per barrel ($52.41) increased production might be the white knight that saves the arb,  but for now the market is looking for cancellations. If cancellations do occur the issue then becomes how can Asia survive without US product. Hence cancellations might accomplish decreasing Belvieu and increasing the Fei but this may not happen until the second quarter. Freights have come off considerably, doing its part to help the arb, and shipowners are now wondering how low they must go to get the trade going again. In Mexico, Covid is still having an effect on demand thus causing slower discharges into their ports.
 
 ---
 
@@ -106,13 +114,19 @@ AMERICAS The story of unfavorable Arb economics continues. Strong propane prices
 ### SnP Weekly Comment
 **Date:** 2021-01-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Public-listed bellwethers continue to seize attractive buying opportunities in the crude sector. Following DHT’s well-timed acquisition of two 2016 DSME built VLCC tankers last week, Euronav came out on top in the competition for two Suezmax newbuildings at Daehan, both with delivery in January 2022. These were cancelled contracts and sold by the yard, not as resales but by entering into new contracts between the builder and Euronav with what we understand is 30% down-payment. Daehan invited offers on Tuesday and the deal was done the next day with several strong names in the running. We can confidently conclude that the bottom is behind us as far as values for very modern tankers goes. Big question now being who else will sell at these levels. As such we see an upside for the modern ones. Leading yards are also upping the prices.     The dry S&P market is powering. Whilst 2nd hand values moved sideways last year, strong demand now makes for a more dynamic pricing and values are up by abt 10% for the modern units and abt 20% for 15 year olds since Mid-December.
+Public-listed bellwethers continue to seize attractive buying opportunities in the crude sector. Following DHT’s well-timed acquisition of two 2016 DSME built VLCC tankers last week, Euronav came out on top in the competition for two Suezmax newbuildings at Daehan, both with delivery in January 2022. These were cancelled contracts and sold by the yard, not as resales but by entering into new contracts between the builder and Euronav with what we understand is 30% down-payment. Daehan invited offers on Tuesday and the deal was done the next day with several strong names in the running. We can confidently conclude that the bottom is behind us as far as values for very modern tankers goes. Big question now being who else will sell at these levels. As such we see an upside for the modern ones. Leading yards are also upping the prices.   
+
+The dry S&P market is powering. Whilst 2nd hand values moved sideways last year, strong demand now makes for a more dynamic pricing and values are up by abt 10% for the modern units and abt 20% for 15 year olds since Mid-December.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2021-01-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST The Baltic has continued its decline this week despite not seeing any real activity on shipping in the East. One cargo from an Indian major is currently being worked for mid-Feb load in AG, but otherwise, there is not much else to write home about. The general sentiment on freight remains bearish, however, tonnage availability for the second half of Feb is not looking as long as it was for the first half of the month.  WEST The West VLGC market is seeing some signs of increased activity. Fixed freight rates have proved difficult to close and appetite for Baltic average rates are sought for. Focus is shifting to that of early March dates but with a number of cancellations and FOB resale candidates during last decade February, we may see some fixtures done once freight and FOB prices match again.
+EAST
+The Baltic has continued its decline this week despite not seeing any real activity on shipping in the East. One cargo from an Indian major is currently being worked for mid-Feb load in AG, but otherwise, there is not much else to write home about. The general sentiment on freight remains bearish, however, tonnage availability for the second half of Feb is not looking as long as it was for the first half of the month.
+
+WEST
+The West VLGC market is seeing some signs of increased activity. Fixed freight rates have proved difficult to close and appetite for Baltic average rates are sought for. Focus is shifting to that of early March dates but with a number of cancellations and FOB resale candidates during last decade February, we may see some fixtures done once freight and FOB prices match again.
 
 ---

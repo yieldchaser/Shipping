@@ -6,7 +6,7 @@ week: 14
 date_range: "2025-04-02 to 2025-04-04"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:38"
+generated_at: "2026-10-12 16:51:14"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 14, 2025
@@ -48,14 +48,20 @@ It could be argued that the owning community has missed the opportunity on sever
 ### Suezmax Weekly Comment
 **Date:** 2025-04-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-The list stateside is still extremely thin and Afras are holding steady a little below us, approx the equivalent of 5 points or lump sum wise USD 170k basis last done levels. Thus, we have a positive supply side dynamic and a nice floor for the time being. However on the flip side, the VLCCs moved a lot for 3rd decade April, Liza fixed down 7.5 pts and we have UKCM vessels that will make better cash ballasting TA Vs fixing TD20 at WS 100. This dynamic for ballasters will hold even if we depress to Aframax levels for USG/TA. That being said, the number of vessels that can make end 2nd/early 3rd decade from UKCM is not too extensive so owners should not lose hope.   For TD20 fortunes are a little more sketchy. We don’t foresee owners in Europe that can play on USG cargoes to willingly dip below the WS 100 mark due to the aforementioned dynamic unless run and dates are well aligned. However, we have prompt local vessels and ballasters from the East that will be more competitive. Additionally, 2nd decade stems are all covered (more or less) which further plays into charterers hands as we approach the weekend.    The MEG has been a dead zone this week, day by day the list lengthens and it will only be a matter of time before levels depress from last done. We have, however, seen little volume moved for 2nd decade so it could just be the case that charterers are sitting back to allow the list to build.
+The list stateside is still extremely thin and Afras are holding steady a little below us, approx the equivalent of 5 points or lump sum wise USD 170k basis last done levels. Thus, we have a positive supply side dynamic and a nice floor for the time being. However on the flip side, the VLCCs moved a lot for 3rd decade April, Liza fixed down 7.5 pts and we have UKCM vessels that will make better cash ballasting TA Vs fixing TD20 at WS 100. This dynamic for ballasters will hold even if we depress to Aframax levels for USG/TA. That being said, the number of vessels that can make end 2nd/early 3rd decade from UKCM is not too extensive so owners should not lose hope. 
+
+For TD20 fortunes are a little more sketchy. We don’t foresee owners in Europe that can play on USG cargoes to willingly dip below the WS 100 mark due to the aforementioned dynamic unless run and dates are well aligned. However, we have prompt local vessels and ballasters from the East that will be more competitive. Additionally, 2nd decade stems are all covered (more or less) which further plays into charterers hands as we approach the weekend.  
+
+The MEG has been a dead zone this week, day by day the list lengthens and it will only be a matter of time before levels depress from last done. We have, however, seen little volume moved for 2nd decade so it could just be the case that charterers are sitting back to allow the list to build.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2025-04-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-Activity looks to have subsided after a push on rates last week in the North. Pressure has eased a little with both US and Mediterranean markets lacking the levels of activity seen recently. The natural window is now into the 2nd decade and freight levels are likely to be tested by charterers as we start to see enquiry for mid-month dates.  Market trend this week has been sideways with a softer tone as competition for Mediterranean requirement has increased as ballasters from UKC and Suezmaxes take out some volume. Rates look to be stable but with the fixing window moving ahead owners will be tempted to give up some points for firm employment. Disruptions in CPC are impacting Suezmax; whether it will affect the Afras as well remains to be seen.
+Activity looks to have subsided after a push on rates last week in the North. Pressure has eased a little with both US and Mediterranean markets lacking the levels of activity seen recently. The natural window is now into the 2nd decade and freight levels are likely to be tested by charterers as we start to see enquiry for mid-month dates.
+
+Market trend this week has been sideways with a softer tone as competition for Mediterranean requirement has increased as ballasters from UKC and Suezmaxes take out some volume. Rates look to be stable but with the fixing window moving ahead owners will be tempted to give up some points for firm employment. Disruptions in CPC are impacting Suezmax; whether it will affect the Afras as well remains to be seen.
 
 ---
 
@@ -70,14 +76,27 @@ As many market participants return from Eid holiday celebrations, the LNG shippi
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-04-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Spot differentials for May evenly split cargos still remained at teens discount level to Mar Cp amid muted discussions. May Cp was traded at $601 for C3 and C3/C4 at $15.   FAR EAST Cash premium was traded highest at $27 to May FEI for 1H May 23/0 parcel earlier this week, but bids softened to low 20s afterwards. Similar parcel for 2H May delivery was bid at $2 whereas offered at $20.   The surging premium has refrained buyer interests. Huatai canceled their buy tender for 4/0 for 1st decade May delivery into Ningbo as offers at FEI plus 30s level. A couple of PDHs decided to advance their turnaround plans as the higher feedstock costs eroded the margins.   Trump’s steep tariff gamble brings volatilities over political risks and concerns on potential economy recessions. Chinese importers are awaiting China government’s countermeasures before taking further actions.
+MEG
+Spot differentials for May evenly split cargos still remained at teens discount level to Mar Cp amid muted discussions. May Cp was traded at $601 for C3 and C3/C4 at $15. 
+
+FAR EAST
+Cash premium was traded highest at $27 to May FEI for 1H May 23/0 parcel earlier this week, but bids softened to low 20s afterwards. Similar parcel for 2H May delivery was bid at $2 whereas offered at $20. 
+
+The surging premium has refrained buyer interests. Huatai canceled their buy tender for 4/0 for 1st decade May delivery into Ningbo as offers at FEI plus 30s level. A couple of PDHs decided to advance their turnaround plans as the higher feedstock costs eroded the margins. 
+
+Trump’s steep tariff gamble brings volatilities over political risks and concerns on potential economy recessions. Chinese importers are awaiting China government’s countermeasures before taking further actions.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2025-04-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-US As if concerns about pending trade wars were insufficiently worrying, the full-scale enactment of (nearly) global tariffs by the U.S. instantly forced the markets into a tailspin, with WTI having declined immediately by over $4/bbl and – correspondingly – the MB propane markets by around a nickel since the start of trading.  The anticipated declines in propane market values which existed as a result of the surprising (and welcomed) inventory gains yesterday have now been not only exaggerated, but effectively rendered useless as the new trade policies have simultaneously impacted global markets, as well, and thus disallowed the arb from widening and fostering greater levels of trade.  Meanwhile, as for terminal fees, the market is dependent upon timing and ratio, since April trading is effectively concluded and butane product values have risen to exceed propane, thus giving cause for higher butane demand.  Thus, a 2:2 how commands a higher premium than a 4:0, though most have commented that this will likely be a short-lived phenomenon.
+US
+As if concerns about pending trade wars were insufficiently worrying, the full-scale enactment of (nearly) global tariffs by the U.S. instantly forced the markets into a tailspin, with WTI having declined immediately by over $4/bbl and – correspondingly – the MB propane markets by around a nickel since the start of trading.
+
+The anticipated declines in propane market values which existed as a result of the surprising (and welcomed) inventory gains yesterday have now been not only exaggerated, but effectively rendered useless as the new trade policies have simultaneously impacted global markets, as well, and thus disallowed the arb from widening and fostering greater levels of trade.
+
+Meanwhile, as for terminal fees, the market is dependent upon timing and ratio, since April trading is effectively concluded and butane product values have risen to exceed propane, thus giving cause for higher butane demand.  Thus, a 2:2 how commands a higher premium than a 4:0, though most have commented that this will likely be a short-lived phenomenon.
 
 ---
 
@@ -85,13 +104,21 @@ US As if concerns about pending trade wars were insufficiently worrying, the ful
 ### SnP Weekly Comment
 **Date:** 2025-04-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Despite only two tanker sales to report this week, plenty of discussions are ongoing. Uncertainty is of course all around and owners are contemplating their next moves. However, there is no sense of urgency to buy and values for Chinese built tankers remain very vulnerable in lieu of USTR and how that plays out in the end. Several Korean tankers built 2016-2018 are privately touted for sale but the bid/ask spread is quite wide at the moment.    Values for MRs and Handytankers continue to slide as seen by the sale of EASTERLY CANYON 36K DWT HMD 2009 at $16m. In comparison, a sistership was sold one year ago for $22m, representing almost 30% decline in one year.  In the dry sector we continue to see increased liquidity for older ships. 14 sales across the board with the bulk of transactions within Supramax and Kamsarmax segments; mostly Chinese buyers for older and non-eco vessels, transactions that reaffirm weakening in asset values. Western sellers are sitting on the fence or taking this opportunity to dispose of their older ships. A notable transaction in the illiquid Babycape segment, is JUBILANT DEVOTION 117K DWT 2016 SANOYAS sold to Alberta for $26.5m.
+Despite only two tanker sales to report this week, plenty of discussions are ongoing. Uncertainty is of course all around and owners are contemplating their next moves. However, there is no sense of urgency to buy and values for Chinese built tankers remain very vulnerable in lieu of USTR and how that plays out in the end. Several Korean tankers built 2016-2018 are privately touted for sale but the bid/ask spread is quite wide at the moment.  
+
+Values for MRs and Handytankers continue to slide as seen by the sale of EASTERLY CANYON 36K DWT HMD 2009 at $16m. In comparison, a sistership was sold one year ago for $22m, representing almost 30% decline in one year.
+
+In the dry sector we continue to see increased liquidity for older ships. 14 sales across the board with the bulk of transactions within Supramax and Kamsarmax segments; mostly Chinese buyers for older and non-eco vessels, transactions that reaffirm weakening in asset values. Western sellers are sitting on the fence or taking this opportunity to dispose of their older ships. A notable transaction in the illiquid Babycape segment, is JUBILANT DEVOTION 117K DWT 2016 SANOYAS sold to Alberta for $26.5m.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2025-04-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST Although no standard BLPG 1 fixtures was reported yesterday the index saw a $3 rise. Meanwhile, there are concerns of a lack of spot demand in second half of April in the Middle East. An Australia cargo and a West Africa Tender is so far helping to keep the market afloat. Earnings East/West is currently assessed at a theoretical parity.  WEST Freight rates for 1H May loading are currently yielding around USD 1.2 million timecharter equivalent for the owners, well above the commercial break even for the big owners. We are hearing reports of timecharters concluded for multiple years close to today’s spot levels, in line with the current freight curves on paper. April now looks done for spot fixtures after a very active month of 37 spot deals concluded, in addition to a Bonny NLNG tender which is yet to be awarded off 23-24 April dates. So far there has been 6 fixtures concluded spot 1st decade May and we see around 8-9 ships open for the same timing.
+EAST
+Although no standard BLPG 1 fixtures was reported yesterday the index saw a $3 rise. Meanwhile, there are concerns of a lack of spot demand in second half of April in the Middle East. An Australia cargo and a West Africa Tender is so far helping to keep the market afloat. Earnings East/West is currently assessed at a theoretical parity.
+
+WEST
+Freight rates for 1H May loading are currently yielding around USD 1.2 million timecharter equivalent for the owners, well above the commercial break even for the big owners. We are hearing reports of timecharters concluded for multiple years close to today’s spot levels, in line with the current freight curves on paper. April now looks done for spot fixtures after a very active month of 37 spot deals concluded, in addition to a Bonny NLNG tender which is yet to be awarded off 23-24 April dates. So far there has been 6 fixtures concluded spot 1st decade May and we see around 8-9 ships open for the same timing.
 
 ---

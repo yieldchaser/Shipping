@@ -6,7 +6,7 @@ week: 26
 date_range: "2020-06-22 to 2020-06-24"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 16:51:08"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 26, 2020
@@ -84,21 +84,30 @@ Aframaxes trading in the Nsea and Baltic continues to suffer from the lack of av
 ### LNG Market Report
 **Date:** 2020-06-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-There are plenty of permutations of possible events that could greatly influence the LNG shipping market in the months to come. Vessel availability at the moment is high, as expected as per the seasonal lack of gas demand during summer months where utility players generally have pockets of availability of sublets. This, further fuelled by cargo cancellations in the United States due to the drop of LNG demand caused by COVID-19 lockdowns, led to US lifters’ vessels being available in the spot market. Longer voyages are expected by the LNG fleet dedicated to LNG exporters when long term buyers defer the receipt of cargoes to manage their inventory levels, which could absorb shipping capacities but these have not been sufficient to manage the long tonnage situation. Geo-political events could yet again be the catalyst for volatile swings in shipping rates as international disputes could lead to possible sanctions, blockades, et cetera. While further progress on treatments and vaccines for COVID-19 could lead to added confidence on lifting of lockdowns worldwide, which could lead to rise in LNG demand. These are unpredictable times but as for this week, rates and sentiments remain flat.  No newbuilding orders to report this week.
+There are plenty of permutations of possible events that could greatly influence the LNG shipping market in the months to come. Vessel availability at the moment is high, as expected as per the seasonal lack of gas demand during summer months where utility players generally have pockets of availability of sublets. This, further fuelled by cargo cancellations in the United States due to the drop of LNG demand caused by COVID-19 lockdowns, led to US lifters’ vessels being available in the spot market. Longer voyages are expected by the LNG fleet dedicated to LNG exporters when long term buyers defer the receipt of cargoes to manage their inventory levels, which could absorb shipping capacities but these have not been sufficient to manage the long tonnage situation. Geo-political events could yet again be the catalyst for volatile swings in shipping rates as international disputes could lead to possible sanctions, blockades, et cetera. While further progress on treatments and vaccines for COVID-19 could lead to added confidence on lifting of lockdowns worldwide, which could lead to rise in LNG demand. These are unpredictable times but as for this week, rates and sentiments remain flat.
+
+No newbuilding orders to report this week.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-06-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Despite the crude rally and fall, Jul CP swap stabilized due to the coming CP announcement. Jul CP was traded at $341 but backwardation into Aug widened to $15 from previous $5. 1st round CP ideas varied widely. Majority recommend at $340-350 for C3 and $15-20 less for C4, with high end at $370 for both grades. Qatar Petroleum was said to sell one end July lifting full propane at CP minus $25. One early Jul lifting full propane was offered at $320 on Thursday, equates to $20 discounts to CP but yet to be traded.   FAR EAST:  Residential demand is still sluggish due to summer season, whereas cracking demand slowly recovered with a couple of butane parcels have been absorbed into Korea. One Korean petchem user secured an end Jul delivered 2/2 with propane at Jul FEI minus $10 and butane at Jul Mopj minus 50s via tender reportedly.  Other than this, one full propane for 1h Aug delivery was placed into NChina for PDH feedstock. Indonesia PERTAMINA issued buy tender to purchase one equal ratio cargo for mid Jul lifting ex US or to be delivered during end Aug, which is closed by this Friday. PERTAMINA had bought one early Jul lifting US 2/2 in its last tender.
+MEG:
+Despite the crude rally and fall, Jul CP swap stabilized due to the coming CP announcement. Jul CP was traded at $341 but backwardation into Aug widened to $15 from previous $5. 1st round CP ideas varied widely. Majority recommend at $340-350 for C3 and $15-20 less for C4, with high end at $370 for both grades.
+Qatar Petroleum was said to sell one end July lifting full propane at CP minus $25. One early Jul lifting full propane was offered at $320 on Thursday, equates to $20 discounts to CP but yet to be traded. 
+
+FAR EAST: 
+Residential demand is still sluggish due to summer season, whereas cracking demand slowly recovered with a couple of butane parcels have been absorbed into Korea. One Korean petchem user secured an end Jul delivered 2/2 with propane at Jul FEI minus $10 and butane at Jul Mopj minus 50s via tender reportedly. 
+Other than this, one full propane for 1h Aug delivery was placed into NChina for PDH feedstock. Indonesia PERTAMINA issued buy tender to purchase one equal ratio cargo for mid Jul lifting ex US or to be delivered during end Aug, which is closed by this Friday. PERTAMINA had bought one early Jul lifting US 2/2 in its last tender.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-06-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: The 2.36 million barrel weekly build along with tanking crude caused the July propane price at Mt. Belvieu to drop sharply (aprox 48cpg) - However, this did little to support the dwindling arb as the FEI and NWE prices came off considerably as well. Further discussions of cancellations, (two) are being reported, though unconfirmed, for US Gulf July FOB cargos, as freight shot up basis Houston/Chiba. That being said, exports increased week on week, as US production has come back online in a big way following COVID 19 related cuts. As it stands, FOB bid side interest in the gulf has dissipated, with offers around  4.5-5cpg.  In Latin America , Gasmar tendered for their third cargo of Southern Hemisphere Winter with offers due today for 44,000 mts propane basis delivery August 13-18.
+AMERICAS:
+The 2.36 million barrel weekly build along with tanking crude caused the July propane price at Mt. Belvieu to drop sharply (aprox 48cpg) - However, this did little to support the dwindling arb as the FEI and NWE prices came off considerably as well. Further discussions of cancellations, (two) are being reported, though unconfirmed, for US Gulf July FOB cargos, as freight shot up basis Houston/Chiba. That being said, exports increased week on week, as US production has come back online in a big way following COVID 19 related cuts. As it stands, FOB bid side interest in the gulf has dissipated, with offers around  4.5-5cpg.  In Latin America , Gasmar tendered for their third cargo of Southern Hemisphere Winter with offers due today for 44,000 mts propane basis delivery August 13-18.
 
 ---
 
@@ -106,13 +115,19 @@ AMERICAS: The 2.36 million barrel weekly build along with tanking crude caused t
 ### SnP Weekly Comment
 **Date:** 2020-06-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Dry markets continue to see the vast majority of sale and purchase activity with 8 sales to report this week. The panamax market have seen three 2005 built vessels change hands setting clear direction for 15 year old units, while the smaller segments have seen increased liquidity for more modern tonnage. Although new benchmarks have been set, consensus among most market players is that values are at or have passed the bottom and we should start seeing sellers showing a little more resistance by revising their expectations upwards. That being said, determined sellers now face a more receptive audience allowing an exit at numbers which was not realistic short time ago. Interesting times ahead in this sector.  Tankers are certainly not the flavor of the month and we are moving into uncertain territory for values with no transactions taking place.
+Dry markets continue to see the vast majority of sale and purchase activity with 8 sales to report this week. The panamax market have seen three 2005 built vessels change hands setting clear direction for 15 year old units, while the smaller segments have seen increased liquidity for more modern tonnage. Although new benchmarks have been set, consensus among most market players is that values are at or have passed the bottom and we should start seeing sellers showing a little more resistance by revising their expectations upwards. That being said, determined sellers now face a more receptive audience allowing an exit at numbers which was not realistic short time ago. Interesting times ahead in this sector.
+
+Tankers are certainly not the flavor of the month and we are moving into uncertain territory for values with no transactions taking place.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-06-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST There is not too much to write home about this week for the VLGC market in the East. Activity has been limited to a couple of requirements going into India, while freight remains long with available ships from both the main owners and the traders. We are probably not going to see too many new requirements from Indian majors for rest of July either, as spot demand for LPG into India continues to be slow, and they are still dealing with a big backlog of VLGCs currently waiting to discharge in both East and West coast of India. One international trader did also take a ship on subs at USD 25.50 Baltic for early July load in the Middle East, but this later failed.  WEST In contrast to the East, the West has shown the first signs of life this week, with multiple charterers entering the market to fix tonnage. Fundamentally, the market remains the same; arb economics are still just around cancellation territory and worldwide loading figures are lower than this time last year despite multiple newbuild deliveries over the same period. However, on the micro level, the number of players with open vessels ex USGC in July has been relatively low and there have been very few relets. As a result, we have seen a rapid tightening of the positions list, with freight rates in the West quickly looking stronger as we head into August. There is now a solid premium in the West, and this is likely to attract tonnage from the AG.
+EAST
+There is not too much to write home about this week for the VLGC market in the East. Activity has been limited to a couple of requirements going into India, while freight remains long with available ships from both the main owners and the traders. We are probably not going to see too many new requirements from Indian majors for rest of July either, as spot demand for LPG into India continues to be slow, and they are still dealing with a big backlog of VLGCs currently waiting to discharge in both East and West coast of India. One international trader did also take a ship on subs at USD 25.50 Baltic for early July load in the Middle East, but this later failed.
+
+WEST
+In contrast to the East, the West has shown the first signs of life this week, with multiple charterers entering the market to fix tonnage. Fundamentally, the market remains the same; arb economics are still just around cancellation territory and worldwide loading figures are lower than this time last year despite multiple newbuild deliveries over the same period. However, on the micro level, the number of players with open vessels ex USGC in July has been relatively low and there have been very few relets. As a result, we have seen a rapid tightening of the positions list, with freight rates in the West quickly looking stronger as we head into August. There is now a solid premium in the West, and this is likely to attract tonnage from the AG.
 
 ---

@@ -6,7 +6,7 @@ week: 52
 date_range: "2019-12-24 to 2019-12-24"
 comments_count: 1
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 16:51:07"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 52, 2019
@@ -25,7 +25,9 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### LNG Market Report
 **Date:** 2019-12-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-In the Atlantic, weather has caused some disruption in South Hook and strikes have created delays in France. These have started to ease, particularly in South Hook. So as Father Christmas loads his sleigh, LNG parcels are arriving thick and fast. The arbitrage has widened as the West sees a softening at a quicker pace than in the East. A cargo tender in the Middle East has kept players working this week whilst tight availability in the West sees many checking in to assess potential needs. Turning to the availability, the market remains balanced yet with the signs of additional length starting to appear in the East. With no profitable inter-basin arbitrage and limited independent Owners in the Atlantic, levels are likely to hold despite the lack of a flurry of obvious long-haul routes. Why? Portfolio tonnage makes up the majority of the availability and while these vessels flirt with the ideas of subletting they can quickly retreat to the portfolio for internal business leaving one or two players to negotiate it out.   The New build market saw a lot of activity as the contracts for the Shell NB program firmed up this week, resulting in more orders and leaving the number of available vessels untouched. Will we run out of yard space? unlikely at this moment in time and prices remain flat. Just leaves us just to say - we wish everyone a very pleasant break during this festive period and we will leave the sentimental commentary for next week as we look back on 2019 but more importantly forward to 2020.
+In the Atlantic, weather has caused some disruption in South Hook and strikes have created delays in France. These have started to ease, particularly in South Hook. So as Father Christmas loads his sleigh, LNG parcels are arriving thick and fast. The arbitrage has widened as the West sees a softening at a quicker pace than in the East. A cargo tender in the Middle East has kept players working this week whilst tight availability in the West sees many checking in to assess potential needs. Turning to the availability, the market remains balanced yet with the signs of additional length starting to appear in the East. With no profitable inter-basin arbitrage and limited independent Owners in the Atlantic, levels are likely to hold despite the lack of a flurry of obvious long-haul routes. Why? Portfolio tonnage makes up the majority of the availability and while these vessels flirt with the ideas of subletting they can quickly retreat to the portfolio for internal business leaving one or two players to negotiate it out. 
+
+The New build market saw a lot of activity as the contracts for the Shell NB program firmed up this week, resulting in more orders and leaving the number of available vessels untouched. Will we run out of yard space? unlikely at this moment in time and prices remain flat. Just leaves us just to say - we wish everyone a very pleasant break during this festive period and we will leave the sentimental commentary for next week as we look back on 2019 but more importantly forward to 2020.
 
 ---
 

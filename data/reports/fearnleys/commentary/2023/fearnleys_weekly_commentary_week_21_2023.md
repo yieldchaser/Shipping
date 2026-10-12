@@ -6,7 +6,7 @@ week: 21
 date_range: "2023-05-24 to 2023-05-26"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:36"
+generated_at: "2026-10-12 16:51:11"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 21, 2023
@@ -70,14 +70,35 @@ During the past week, a handful of vessels have been placed on subjects but supp
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2023-05-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: KPC was reported to award their sale tender for end Jun lifting 3/1 ratio at Jun CP minus low 40s. And there are a couple of late Jun and July lifting evenly split cargos were offered via window. Given the soaring freight, players are hesitant to take FOB positions and the FOB netback is much lower than recent tender levels.    Jun C3 CP was traded at $497 at the time of writing, and C4 CP at $10 less. Jun/Jul CP was traded at $8 backwardation at the moment.   FAR EAST:  Cash premium surged up for 23/0 delivered in 2h June, and a few traders covered such shorts at Jun FEI plus mid-teens, which mostly from Japan or Korean importers’ resales. Similar cargo for 1h Jul delivery was bid at Jul FEI plus $2, yet to entice interest. 46/0 for 1h Jul delivery was reported changed hand at Jul FEI minus small digits basis Chiba, or high single digit basis Ningbo.   One Korean importer was said to procure two propane cargos for 2h Jun and 1h Jul delivery, respectively. Another Korean importer also tendered to buy 23kt butane for 6-12 Jul delivery. One evenly split cargo was said placed into SChina at Jun FEI flat by a producer trading arm.  Petchem margins eroded as downstream consumption demand yet to recover, hence concerns over the PDH run rate cuts and demand for Jul delivery looming in the market. Some PDH was said to resell their Jun arrival propane, amid high inventories even.
+MEG:
+KPC was reported to award their sale tender for end Jun lifting 3/1 ratio at Jun CP minus low 40s. And there are a couple of late Jun and July lifting evenly split cargos were offered via window. Given the soaring freight, players are hesitant to take FOB positions and the FOB netback is much lower than recent tender levels.  
+
+Jun C3 CP was traded at $497 at the time of writing, and C4 CP at $10 less. Jun/Jul CP was traded at $8 backwardation at the moment. 
+
+FAR EAST: 
+Cash premium surged up for 23/0 delivered in 2h June, and a few traders covered such shorts at Jun FEI plus mid-teens, which mostly from Japan or Korean importers’ resales. Similar cargo for 1h Jul delivery was bid at Jul FEI plus $2, yet to entice interest. 46/0 for 1h Jul delivery was reported changed hand at Jul FEI minus small digits basis Chiba, or high single digit basis Ningbo. 
+
+One Korean importer was said to procure two propane cargos for 2h Jun and 1h Jul delivery, respectively. Another Korean importer also tendered to buy 23kt butane for 6-12 Jul delivery. One evenly split cargo was said placed into SChina at Jun FEI flat by a producer trading arm.
+
+Petchem margins eroded as downstream consumption demand yet to recover, hence concerns over the PDH run rate cuts and demand for Jul delivery looming in the market. Some PDH was said to resell their Jun arrival propane, amid high inventories even.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2023-05-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-NWE  TOT window saw some activity with a 1st decade June offer which equated to CIF ARA +$2.75/MT. Early June buying looked to be almost done in the region and the offer level was seen as more hopeful than actual market level. The main issue is that the petrochemical buyers are well supplied during that timeframe and retail buyers are adding minimal demand. The June propane naphtha spread is $175/MT, and continues to improve through propane’s weakness, so petchem buying will remain at a maximum. The East vs West spread of $85/MT is side so US spot cargoes will head East. Butane remains assessed at 75% naphtha with little buying interest.  MED  The region had seen a rise in butane buying interest early week due to naphtha’s strength propping up butane values. With crude oil values off today discussions are likely to stall until these settle.  US Mont Belvieu propane prices declined overnight on the weight of rapidly growing inventory levels, which the EIA yesterday reported to have reached 66.7mmbbls as of 19 May, 2023, or 144 and 151% more than the third-week of May 2022 and 2021, respectively.  The 3mmbbl build this week is the second largest since 2019 and well ahead of the 1.4mmbbl 5-year average.  In short, stock levels of propane are increasingly rapidly, which is then having a predictable impact on the pricing structure.  That said, the value of propane at Mont Belvieu has been – with a couple of notable exceptions - in decline since the start of 2022, loosely mirroring (but modestly outpacing) the softening crude oil market.  The propane-to-crude ratio has been descending all the while and has been hovering on either side of 37%, which is below the 2023 YTD average of 43%, and well off the 54% average established since Jan 2021.  In order to incentivize exports, propane prices will need to continue the existing downward trend, and thus the ratio to crude will continue to decline, perhaps to unprecedented levels.  With regards terminal fees, offers are on the table in June in the low 5cpg range, with July being offered in the mid-5cpg range.  August offers currently exist at between 5.50 to 6.00cpg
+NWE 
+TOT window saw some activity with a 1st decade June offer which equated to CIF ARA +$2.75/MT. Early June buying looked to be almost done in the region and the offer level was seen as more hopeful than actual market level. The main issue is that the petrochemical buyers are well supplied during that timeframe and retail buyers are adding minimal demand. The June propane naphtha spread is $175/MT, and continues to improve through propane’s weakness, so petchem buying will remain at a maximum. The East vs West spread of $85/MT is side so US spot cargoes will head East. Butane remains assessed at 75% naphtha with little buying interest.
+
+MED 
+The region had seen a rise in butane buying interest early week due to naphtha’s strength propping up butane values. With crude oil values off today discussions are likely to stall until these settle.
+
+US
+Mont Belvieu propane prices declined overnight on the weight of rapidly growing inventory levels, which the EIA yesterday reported to have reached 66.7mmbbls as of 19 May, 2023, or 144 and 151% more than the third-week of May 2022 and 2021, respectively.  The 3mmbbl build this week is the second largest since 2019 and well ahead of the 1.4mmbbl 5-year average.  In short, stock levels of propane are increasingly rapidly, which is then having a predictable impact on the pricing structure.
+
+That said, the value of propane at Mont Belvieu has been – with a couple of notable exceptions - in decline since the start of 2022, loosely mirroring (but modestly outpacing) the softening crude oil market.  The propane-to-crude ratio has been descending all the while and has been hovering on either side of 37%, which is below the 2023 YTD average of 43%, and well off the 54% average established since Jan 2021.  In order to incentivize exports, propane prices will need to continue the existing downward trend, and thus the ratio to crude will continue to decline, perhaps to unprecedented levels.
+
+With regards terminal fees, offers are on the table in June in the low 5cpg range, with July being offered in the mid-5cpg range.  August offers currently exist at between 5.50 to 6.00cpg
 
 ---
 
@@ -85,13 +106,19 @@ NWE  TOT window saw some activity with a 1st decade June offer which equated to 
 ### SnP Weekly Comment
 **Date:** 2023-05-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Vintage tanker plays are still making headlines with New Shipping doubling their investment on the VLCC GOOD NEWS (319K DWT SAMHO HI 2002) at USD 43M to undisclosed buyers. It is too soon to tell whether the flagging and insurance issues plaguing vintage tanker operator Gatik will impact the level of buying enquiry for older tanker tonnage, but it is worth monitoring, as registries and P&I clubs begin to scrutinize trading patterns of these older units.    Sentiment in the dry sector is waning at least in the short term, as global worries over Chinese demand increase. Nevertheless, despite more market players adopting a wait and see approach to second hand vessel acquisitions, there has been a steady stream of transactions reported this week. In the modern Ultramax sector TAURUS/ARIES CONFIDENCE  (63K DWT NEW DAYANG 2018) were sold to Spar Shipping for USD 28.5M per unit. With Chinese units generally much more available than their Japanese equivalents, it will be interesting to see whether this transaction sparks a run on the available Chinese built units in the market. Capesize BAO MAY (178K DWT SWS 2010) was sold for USD 25.5M, perhaps showing that slightly younger units are being considered by market players, following the recent spike in demand for vintage Capesize units.
+Vintage tanker plays are still making headlines with New Shipping doubling their investment on the VLCC GOOD NEWS (319K DWT SAMHO HI 2002) at USD 43M to undisclosed buyers. It is too soon to tell whether the flagging and insurance issues plaguing vintage tanker operator Gatik will impact the level of buying enquiry for older tanker tonnage, but it is worth monitoring, as registries and P&I clubs begin to scrutinize trading patterns of these older units. 
+ 
+Sentiment in the dry sector is waning at least in the short term, as global worries over Chinese demand increase. Nevertheless, despite more market players adopting a wait and see approach to second hand vessel acquisitions, there has been a steady stream of transactions reported this week. In the modern Ultramax sector TAURUS/ARIES CONFIDENCE  (63K DWT NEW DAYANG 2018) were sold to Spar Shipping for USD 28.5M per unit. With Chinese units generally much more available than their Japanese equivalents, it will be interesting to see whether this transaction sparks a run on the available Chinese built units in the market. Capesize BAO MAY (178K DWT SWS 2010) was sold for USD 25.5M, perhaps showing that slightly younger units are being considered by market players, following the recent spike in demand for vintage Capesize units.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2023-05-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST First half June spot cargoes are still being fixed and freight in this window is significantly higher than what is currently achievable in the second half of the month. Second half of the month is still facing some uncertainties on itineraries which could be part of the reason why less charterers have started to work these dates as of now. With a strong momentum spilling over from the early part of the month, we expect the fixing window to remain quite far out.  WEST Freight market keeps firm in the West with current fixing window concentrated around 1H July in US. Last done deals have been done at mid 150s H/C and mid 90s H/F. As freight has kept on rising one could start to see activity cool off at some point (as players try to manage their positions internally), but time of writing we have seen 5-6 deals fixed or on subs so far this week.
+EAST
+First half June spot cargoes are still being fixed and freight in this window is significantly higher than what is currently achievable in the second half of the month. Second half of the month is still facing some uncertainties on itineraries which could be part of the reason why less charterers have started to work these dates as of now. With a strong momentum spilling over from the early part of the month, we expect the fixing window to remain quite far out.
+
+WEST
+Freight market keeps firm in the West with current fixing window concentrated around 1H July in US. Last done deals have been done at mid 150s H/C and mid 90s H/F. As freight has kept on rising one could start to see activity cool off at some point (as players try to manage their positions internally), but time of writing we have seen 5-6 deals fixed or on subs so far this week.
 
 ---

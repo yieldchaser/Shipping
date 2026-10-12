@@ -6,7 +6,7 @@ week: 5
 date_range: "2019-01-28 to 2019-01-28"
 comments_count: 2
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 16:51:06"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 05, 2019
@@ -25,7 +25,11 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### LNG Market Report
 **Date:** 2019-01-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The shipping market continues to mark time and sentiment shifts to the downside. Pacific and Atlantic rate levels have continued their downward trajectory throughout the week despite the market seeing a pickup in vessel requirements, the impact on availability? Minimal as there are plenty of open ships.    Looking ahead, the market may see an upturn after the celebrations of Chinese New Year. Until then, the vessel availability list looks likely to continue to lengthen. In the Middle East, the odd requirement can be witnessed whilst in the Atlantic, portfolio players remain well serviced by vessels delivering into Europe, that said, there is interest from parties with specific needs. Turning to the Pacific, it looks mildly more optimistic for Owners, yet requirements fall short of the number of vessels sitting prompt and it’s probably fair to say idle time will mount up as requirements turn their focus to second half-Feb or even March.   Second hand prices remain flat as do New Build prices as we welcome two new high spec, fuel efficient vessels scheduled for delivery in 2021.
+The shipping market continues to mark time and sentiment shifts to the downside. Pacific and Atlantic rate levels have continued their downward trajectory throughout the week despite the market seeing a pickup in vessel requirements, the impact on availability? Minimal as there are plenty of open ships. 
+ 
+Looking ahead, the market may see an upturn after the celebrations of Chinese New Year. Until then, the vessel availability list looks likely to continue to lengthen. In the Middle East, the odd requirement can be witnessed whilst in the Atlantic, portfolio players remain well serviced by vessels delivering into Europe, that said, there is interest from parties with specific needs. Turning to the Pacific, it looks mildly more optimistic for Owners, yet requirements fall short of the number of vessels sitting prompt and it’s probably fair to say idle time will mount up as requirements turn their focus to second half-Feb or even March. 
+
+Second hand prices remain flat as do New Build prices as we welcome two new high spec, fuel efficient vessels scheduled for delivery in 2021.
 
 ---
 

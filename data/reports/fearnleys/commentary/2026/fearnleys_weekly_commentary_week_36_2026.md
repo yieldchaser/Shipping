@@ -6,7 +6,7 @@ week: 36
 date_range: "2026-09-02 to 2026-09-04"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 36, 2026
@@ -55,7 +55,11 @@ Despite Suezmaxes regaining competitiveness against VLCCs following last week’
 ### Aframax Weekly Comment
 **Date:** 2026-09-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea After a long weekend activity has been slow on the pick up. Natural dates 8-10 window but with a number of relets around and stems a little thin charterers are able to take their time. US market looks to have bottomed and with Mediterranean market looking softer we may see drive to ballast towards the US again after a quiet few days on that front. Slow but steady.  Mediterranean Activity stalled at the end of last week which has rebuilt the early part of the list. Activity has picked up again at the start of the week but the increased tonnage has changed the sentiment for now and charterers have managed to pushed the market down. Natural window pushing into the 2nd decade with tonnage to clear which in the short term may lead to some more weakening before we find the bottom.
+North Sea
+After a long weekend activity has been slow on the pick up. Natural dates 8-10 window but with a number of relets around and stems a little thin charterers are able to take their time. US market looks to have bottomed and with Mediterranean market looking softer we may see drive to ballast towards the US again after a quiet few days on that front. Slow but steady.
+
+Mediterranean
+Activity stalled at the end of last week which has rebuilt the early part of the list. Activity has picked up again at the start of the week but the increased tonnage has changed the sentiment for now and charterers have managed to pushed the market down. Natural window pushing into the 2nd decade with tonnage to clear which in the short term may lead to some more weakening before we find the bottom.
 
 ---
 
@@ -71,13 +75,21 @@ Summer holidays in Europe are over and chartering activity has returned, with Se
 ### SnP Weekly Comment
 **Date:** 2026-09-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Further flare ups in the USA-Iran conflict this week have only added to the disruption in the tanker market. This will help to sustain the current high earnings and valuations environment, and with no solution in sight, it is fair to say levels on both are likely to increase in the near term. While other modern units remain under discussion in the MR space, 12-year-old unit LVM AARON (50k dwt Dae Sun 2014) was the only sale in this subsector, selling to Besiktas for USD 35.5M. Elsewhere, Greek buyers are reported to have purchased scrubber fitted CABO SAN VINCENTE (63k dwt STX 2008)*Ice 1A for USD 22M.   Capesize bulkers are leading the way for dry tonnage, breaking through the USD 50k/day threshold on the spot market. Would-be sellers of capes are now likely to think twice before committing ships unless buyers can beat last done, given the bumper earnings are also bleeding into term rates. Such is displayed by scrubber fitted CAPE CONDOR (180k dwt Koyo 2010) selling this week for USD 39M, mere days after scrubber fitted ERATO (180k dwt Imabari 2010) was sold for USD 38M. Asset pricing across all sizes on dry remains firm, however there appears to be no shortage of buyers given the earnings on offer.
+Further flare ups in the USA-Iran conflict this week have only added to the disruption in the tanker market. This will help to sustain the current high earnings and valuations environment, and with no solution in sight, it is fair to say levels on both are likely to increase in the near term. While other modern units remain under discussion in the MR space, 12-year-old unit LVM AARON (50k dwt Dae Sun 2014) was the only sale in this subsector, selling to Besiktas for USD 35.5M. Elsewhere, Greek buyers are reported to have purchased scrubber fitted CABO SAN VINCENTE (63k dwt STX 2008)*Ice 1A for USD 22M. 
+
+Capesize bulkers are leading the way for dry tonnage, breaking through the USD 50k/day threshold on the spot market. Would-be sellers of capes are now likely to think twice before committing ships unless buyers can beat last done, given the bumper earnings are also bleeding into term rates. Such is displayed by scrubber fitted CAPE CONDOR (180k dwt Koyo 2010) selling this week for USD 39M, mere days after scrubber fitted ERATO (180k dwt Imabari 2010) was sold for USD 38M. Asset pricing across all sizes on dry remains firm, however there appears to be no shortage of buyers given the earnings on offer.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2026-09-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Inefficiencies in various parts of the shipping world continues to keep freight on a tight leash.  The strength is coming from a strong arb, tight shipping availability driven by Panama Canal restrictions and subsequently with both ballast and laden legs increasingly routed via Cape. TS Edouard's impact is reportedly limited to the Sabine Pass.  With August loadings complete, routing shows roughly 30 of 110 departures via Cape to discharge East, against Panama Canal auction fee levels and transit uncertainty.  Whilst there are only a couple September vessels left, fixing activity pivots to October. The October position list now shows 2 first-decade, 7 second-decade, 1 third-decade. In other words, very tight availability for spot shipping.
+Inefficiencies in various parts of the shipping world continues to keep freight on a tight leash.
+
+The strength is coming from a strong arb, tight shipping availability driven by Panama Canal restrictions and subsequently with both ballast and laden legs increasingly routed via Cape. TS Edouard's impact is reportedly limited to the Sabine Pass.
+
+With August loadings complete, routing shows roughly 30 of 110 departures via Cape to discharge East, against Panama Canal auction fee levels and transit uncertainty.
+
+Whilst there are only a couple September vessels left, fixing activity pivots to October. The October position list now shows 2 first-decade, 7 second-decade, 1 third-decade. In other words, very tight availability for spot shipping.
 
 ---

@@ -6,7 +6,7 @@ week: 47
 date_range: "2020-11-16 to 2020-11-17"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 16:51:08"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 47, 2020
@@ -33,7 +33,9 @@ The week started off on a positive note with fresh mineral cargoes entering the 
 ### Supramax Weekly Comment
 **Date:** 2020-11-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The week started quietly with limited offers. By mid week almost all routes were pushing up. Especially USG in Atl, where trip to Far east was paying close to USD22,000 and to Continent direction rates were closed to USD16,000. Grain runs from Brazil to China where concluded at USD12,000 + 400k bb on Ultramax.   Ships with fertz dop Cont to USG fixed at USD11-12,000 and usual scrap round could pay USD17,000. In Pacific basin all in all not many fresh orders. Vsls from South Africa to China went at USD12,000k + 200 k bb. Trip from AG to Bangladesh at USD12,500. Business from WCI to China was paying USD11,000 and steel run from ECI to China at low USD13,000 on ultra.  Less attractive trading on the period front where supras were covered at 8700 for 11-12 mos redel ww.
+The week started quietly with limited offers. By mid week almost all routes were pushing up. Especially USG in Atl, where trip to Far east was paying close to USD22,000 and to Continent direction rates were closed to USD16,000. Grain runs from Brazil to China where concluded at USD12,000 + 400k bb on Ultramax.   Ships with fertz dop Cont to USG fixed at USD11-12,000 and usual scrap round could pay USD17,000.
+In Pacific basin all in all not many fresh orders. Vsls from South Africa to China went at USD12,000k + 200 k bb. Trip from AG to Bangladesh at USD12,500. Business from WCI to China was paying USD11,000 and steel run from ECI to China at low USD13,000 on ultra. 
+Less attractive trading on the period front where supras were covered at 8700 for 11-12 mos redel ww.
 
 ---
 
@@ -84,21 +86,27 @@ With other surrounding markets offering a better alternative, we had quite a few
 ### LNG Market Report
 **Date:** 2020-11-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The LNG markets remain buoyant, with strong margins continuing to support the six-figure headline rates for prompt business we’ve seen in past weeks. Charterers enquiring for January loadings in the Atlantic are reluctant to move just yet as owners are showing no sign of softening their stance for spot business, and certainly the combination of a tight basin, delays through the Panama Canal and favourable trading economics for the first half of the month are in their favour. The situation in the East is more nuanced, as the fixing window is more prompt and limited availability is in owners’ favour today, but there are a number of vessels due to redeliver in the Pacific in December that may put pressure on levels. While owners continue to ride the winter wave, as these dynamics play out some will move away from spot business towards utilisation and we do expect more longer-term business in the weeks ahead. There have been no new orders placed at the yards this week.
+The LNG markets remain buoyant, with strong margins continuing to support the six-figure headline rates for prompt business we’ve seen in past weeks. Charterers enquiring for January loadings in the Atlantic are reluctant to move just yet as owners are showing no sign of softening their stance for spot business, and certainly the combination of a tight basin, delays through the Panama Canal and favourable trading economics for the first half of the month are in their favour. The situation in the East is more nuanced, as the fixing window is more prompt and limited availability is in owners’ favour today, but there are a number of vessels due to redeliver in the Pacific in December that may put pressure on levels. While owners continue to ride the winter wave, as these dynamics play out some will move away from spot business towards utilisation and we do expect more longer-term business in the weeks ahead.
+There have been no new orders placed at the yards this week.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-11-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Swap value collapsed on Thursday. At the time of writing, Dec Propane CP was traded at $428 and Butane at $14 higher. Dec/Jan backwardation narrowed down to $7, from last week’s $12. Saudi Aramco has released their Dec lifting schedule with two cargos cancelled reportedly and is said to be rich in butane for this month liftings. A plenty of equal ratio sellers and a couple of heavy propane sellers also emerged, and we are expecting FOBs discounts to slip further down into double digits.  FAR EAST Another week with loads of tenders floating in the market. Following last weeks’ hectic discussions, one traditional SChina importer called buy tender to purchase 11 parcels of 11/11 in 2021. Several buy tenders are entering into 2nd round negotiation, with some offer idea at CP plus 20s being heard into Schina for 23/0 parcel. Cash premiums are coming off this week for spot discussion, as importers are reselling earlier cargos in 2h Dec delivery and buy back later arrivals in Jan. A couple of full propane for 1h Jan delivery are concluded late last week at Jan FEI plus high single or $10. Same cargo for 2h Jan delivery were offered at high single digit, while buyer exploring at low single digit level.
+MEG
+Swap value collapsed on Thursday. At the time of writing, Dec Propane CP was traded at $428 and Butane at $14 higher. Dec/Jan backwardation narrowed down to $7, from last week’s $12. Saudi Aramco has released their Dec lifting schedule with two cargos cancelled reportedly and is said to be rich in butane for this month liftings. A plenty of equal ratio sellers and a couple of heavy propane sellers also emerged, and we are expecting FOBs discounts to slip further down into double digits.
+
+FAR EAST
+Another week with loads of tenders floating in the market. Following last weeks’ hectic discussions, one traditional SChina importer called buy tender to purchase 11 parcels of 11/11 in 2021. Several buy tenders are entering into 2nd round negotiation, with some offer idea at CP plus 20s being heard into Schina for 23/0 parcel. Cash premiums are coming off this week for spot discussion, as importers are reselling earlier cargos in 2h Dec delivery and buy back later arrivals in Jan. A couple of full propane for 1h Jan delivery are concluded late last week at Jan FEI plus high single or $10. Same cargo for 2h Jan delivery were offered at high single digit, while buyer exploring at low single digit level.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-11-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS Yesterday, the EIA reported a conventional draw of 2 million barrels for the week ended 13 November, exceeding, though directionally in line with market expectations. Almost the entirety of the draw can be traced to the US Gulf coast (1.9million barrels), as exports continued to rise to 1.22mn b/day. Contrarily, the midcontinent built 180,000barrels as mild temperature persists, effectively cutting into heating demand. As it stands, the arbitrage east (lst/fei) hovers around $157/ton. A forthcoming tender for a 1h December VLGC cargo- from a US Gulf terminal will provide insight as to truth of value, but as it stands, 1h December cargos are seen offered in the low 8cpg region, while bids are in the upper 7's/ just about 8cpg, a far cry from the double-digit levels seen concluded for December cargos in the weeks prior. With that said, second half December cargos carry a premium to the earlier barrels, and remain on offer in the 9-cent region. Freight basis Houston/ Chiba which was last done at $108/ton has effectively hampered what potential lifters can pay for spot cargos.
+AMERICAS
+Yesterday, the EIA reported a conventional draw of 2 million barrels for the week ended 13 November, exceeding, though directionally in line with market expectations. Almost the entirety of the draw can be traced to the US Gulf coast (1.9million barrels), as exports continued to rise to 1.22mn b/day. Contrarily, the midcontinent built 180,000barrels as mild temperature persists, effectively cutting into heating demand. As it stands, the arbitrage east (lst/fei) hovers around $157/ton. A forthcoming tender for a 1h December VLGC cargo- from a US Gulf terminal will provide insight as to truth of value, but as it stands, 1h December cargos are seen offered in the low 8cpg region, while bids are in the upper 7's/ just about 8cpg, a far cry from the double-digit levels seen concluded for December cargos in the weeks prior. With that said, second half December cargos carry a premium to the earlier barrels, and remain on offer in the 9-cent region. Freight basis Houston/ Chiba which was last done at $108/ton has effectively hampered what potential lifters can pay for spot cargos.
 
 ---
 
@@ -106,13 +114,20 @@ AMERICAS Yesterday, the EIA reported a conventional draw of 2 million barrels fo
 ### SnP Weekly Comment
 **Date:** 2020-11-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-This week has seen a flurry of transactions in the dry sale and purchase markets with vessels changing hands across all segments. The increased buying enquiry witnessed over the past weeks in the kamsarmax segment has met a flow of sales candidates with 7 units changing hands this week alone. Four of which were sold as part of Scorpios Bulks divestment programme. Off the back of this increased liquidity values remain well supported and we expect  them to remain flat as long as tonnage continues to be made available for sale.    Despite only a handful of sales to report  on the tanker front, activity remains high in the sector with a number of upcoming inspections and ongoing discussions. We expect further activity in the Aframax segment with four units inviting offers next week. This is following a number of sales which should give a clear idea of what direction values will take going forward.
+This week has seen a flurry of transactions in the dry sale and purchase markets with vessels changing hands across all segments. The increased buying enquiry witnessed over the past weeks in the kamsarmax segment has met a flow of sales candidates with 7 units changing hands this week alone. Four of which were sold as part of Scorpios Bulks divestment programme. Off the back of this increased liquidity values remain well supported and we expect 
+them to remain flat as long as tonnage continues to be made available for sale. 
+ 
+Despite only a handful of sales to report  on the tanker front, activity remains high in the sector with a number of upcoming inspections and ongoing discussions. We expect further activity in the Aframax segment with four units inviting offers next week. This is following a number of sales which should give a clear idea of what direction values will take going forward.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-11-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST The Eastern market has pretty much been in waiting mode for most of the week as awaiting the Aramco acceptances which were finally announced last night. We have since then seen a couple of ships taken out on subs for 1H December load in the AG, but there has not been an abundance of activity as some Owners were hoping for. Aramco is reported to be short propane in December and a few lifters have as a result gotten their cargoes deferred to the later part of the month. Meanwhile, we are still left with a couple of open trader relets within 1H December in the AG. But some of these ships may ultimately end up being programmed elsewhere unless finding employment out here in the East, and thus we do not expect freight rates to come off over the next deals done.  WEST West of Suez the market remains tight on vessel supply apart from a couple of first half December vessels. There are still some uncovered cargoes during last decade December that are yet to be sorted shipping-wise and early January has actually come into play. We are likely to see some early January fixtures concluded within this week, however, some of the vessels which are early January lifting candidates haven’t even loaded. Last done for an East only fixture ex US is USD 107-108 and although owners trying to pull the market further up towards USD 110, the momentum is currently not there yet.
+EAST
+The Eastern market has pretty much been in waiting mode for most of the week as awaiting the Aramco acceptances which were finally announced last night. We have since then seen a couple of ships taken out on subs for 1H December load in the AG, but there has not been an abundance of activity as some Owners were hoping for. Aramco is reported to be short propane in December and a few lifters have as a result gotten their cargoes deferred to the later part of the month. Meanwhile, we are still left with a couple of open trader relets within 1H December in the AG. But some of these ships may ultimately end up being programmed elsewhere unless finding employment out here in the East, and thus we do not expect freight rates to come off over the next deals done.
+
+WEST
+West of Suez the market remains tight on vessel supply apart from a couple of first half December vessels. There are still some uncovered cargoes during last decade December that are yet to be sorted shipping-wise and early January has actually come into play. We are likely to see some early January fixtures concluded within this week, however, some of the vessels which are early January lifting candidates haven’t even loaded. Last done for an East only fixture ex US is USD 107-108 and although owners trying to pull the market further up towards USD 110, the momentum is currently not there yet.
 
 ---

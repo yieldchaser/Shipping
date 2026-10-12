@@ -6,7 +6,7 @@ week: 3
 date_range: "2020-01-13 to 2020-01-15"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 16:51:07"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 03, 2020
@@ -91,14 +91,26 @@ As we hit mid-January, we are starting to see more action in the spot market; ho
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-01-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Swap price still stumbles this week. At the time of writing, Feb Propane CP weakened to $510 while Mar at deep backwardation at $452. However, butane CP has edged up due to tight MEG supply amid robust demand from India and Indonesia, currently traded at $550. Qatar Petroleum was reported to award their propane sale tender for 24/27th Feb lifting but the price is yet to know.  A bundle of Q2 lifting FOBs for equal ratio split were changing hand at loading month CP plus mid-single digit.   FAR EAST:  Far East market is strengthened due to the delay caused by foggy weather in US. Feb FEI/CP kept narrowing down from previous minus $20ish to minus $10. Bids on propane for 2h Feb were at Feb FEI plus mid-high 20s in window, while offers off window pegged at high 30s to $40.  Several Chinese PDH users are reported to have secured propane feedstock delivered in 2h Feb at the premium ranging from low-mid 80s to $90ish on Feb CP link, which equates to $20ish premium on FOB netback. Feb purchase has almost finished, and players started exploring on Mar arrival tons. Importers specialized in residential markets are quieter relatively, as domestic prices weakening with refinery destocking before CNY.   FPCC cancelled their buy tender for 22kt propane or 22/22 during end Feb delivery, and is expected to come out for Mar for better economy as widen spread between FEI and MOPJ in Mar than in Feb.   Indonesia PERTAMINA has issued tender to secure three equal ratio cargos delivered from end Feb to 1h Mar.
+MEG:
+Swap price still stumbles this week. At the time of writing, Feb Propane CP weakened to $510 while Mar at deep backwardation at $452. However, butane CP has edged up due to tight MEG supply amid robust demand from India and Indonesia, currently traded at $550.
+Qatar Petroleum was reported to award their propane sale tender for 24/27th Feb lifting but the price is yet to know.  A bundle of Q2 lifting FOBs for equal ratio split were changing hand at loading month CP plus mid-single digit. 
+
+FAR EAST: 
+Far East market is strengthened due to the delay caused by foggy weather in US. Feb FEI/CP kept narrowing down from previous minus $20ish to minus $10. Bids on propane for 2h Feb were at Feb FEI plus mid-high 20s in window, while offers off window pegged at high 30s to $40.
+
+Several Chinese PDH users are reported to have secured propane feedstock delivered in 2h Feb at the premium ranging from low-mid 80s to $90ish on Feb CP link, which equates to $20ish premium on FOB netback. Feb purchase has almost finished, and players started exploring on Mar arrival tons. Importers specialized in residential markets are quieter relatively, as domestic prices weakening with refinery destocking before CNY. 
+
+FPCC cancelled their buy tender for 22kt propane or 22/22 during end Feb delivery, and is expected to come out for Mar for better economy as widen spread between FEI and MOPJ in Mar than in Feb. 
+
+Indonesia PERTAMINA has issued tender to secure three equal ratio cargos delivered from end Feb to 1h Mar.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-01-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: Mt Belvieu propane has come back below 30%  of WTI which is where we expect it to stay. After a 947,000 barrel draw US inventories standing at 87.9 million barrels for the week ending January 10th 2020. The inventory draw or build seems to be dictated by the amount of exports / day as opposed to the domestic demand and production which are holding fairly steady. This is a healthy level, 30% higher than the same week last year. Export capacity increases were seen as the big threat to having enough barrels in stock to survive the winter but production seems to have calmed this threat. With East and West arbs wide open, we expect freight to remain strong and terminalling fees as well. Finally the biggest news of the week seems to be the lifting of LPG tariffs in China on US LPG which is now scheduled to take place in April.
+AMERICAS:
+Mt Belvieu propane has come back below 30%  of WTI which is where we expect it to stay. After a 947,000 barrel draw US inventories standing at 87.9 million barrels for the week ending January 10th 2020. The inventory draw or build seems to be dictated by the amount of exports / day as opposed to the domestic demand and production which are holding fairly steady. This is a healthy level, 30% higher than the same week last year. Export capacity increases were seen as the big threat to having enough barrels in stock to survive the winter but production seems to have calmed this threat. With East and West arbs wide open, we expect freight to remain strong and terminalling fees as well. Finally the biggest news of the week seems to be the lifting of LPG tariffs in China on US LPG which is now scheduled to take place in April.
 
 ---
 
@@ -106,13 +118,21 @@ AMERICAS: Mt Belvieu propane has come back below 30%  of WTI which is where we e
 ### SnP Weekly Comment
 **Date:** 2020-01-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-We finally have a reference sale for brand new scrubber fitted aframax tanker.  Minerva is reported to be paying region usd 55.5 mill for AQUAFREEDOM - delivered from Samsung in September 2019. This is in line with our value estimates. Rumours abound about another 2019 built VLCC being sold for region usd 107 mill but details are still sketchy. Several early 2000 built suezmaxes are in play in the usd 19-22 mill range and we expect to soon report more such sales.  Dry values are under pressure. There are many buyers waiting to strike but consensus seems to be that values have yet to reach its floor in the near to medium term. Tellingly, negotiations for the 2010 Japan built capesize CAPE AGNES was aborted as the sellers’ price idea of usd 22 mill was not met.  We understand the best bid came at region usd 19.5 mill.
+We finally have a reference sale for brand new scrubber fitted aframax tanker.  Minerva is reported to be paying region usd 55.5 mill for AQUAFREEDOM - delivered from Samsung in September 2019. This is in line with our value estimates. Rumours abound about another 2019 built VLCC being sold for region usd 107 mill but details are still sketchy. Several early 2000 built suezmaxes are in play in the usd 19-22 mill range and we expect to soon report more such sales.
+
+Dry values are under pressure. There are many buyers waiting to strike but consensus seems to be that values have yet to reach its floor in the near to medium term. Tellingly, negotiations for the 2010 Japan built capesize CAPE AGNES was aborted as the sellers’ price idea of usd 22 mill was not met.  We understand the best bid came at region usd 19.5 mill.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-01-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST This week saw a continuation of last week’s bullish sentiment, albeit with fewer fixtures. The reduced rate of transactions has been a consequence of limited supply of freight rather than a shortage of inquiries, which have remained relatively prolific. Positions lists are looking very short, and some players who came into the market this week to fix were unable to find ships to cover their cargoes. As a result, rates have strengthened rapidly, and owners are now looking for around 130 Houston/Chiba depending on where in 2H Feb the laycan lies. This has also been aided by the composition of the available tonnage, with the majority of it being controlled by the main shipowners.  Going forward, it is difficult to find reasons why the market will not remain strong. However, two possible speed bumps could be an influx of trader-owned tonnage as higher rates provide more of an incentive to relet and a weakening picture on the product side; netbacks have already come off a considerable amount since the highs seen in the first few days of 2020. Otherwise, all else being equal, freight looks incredibly strong as we approach prime fog season in the US Gulf - something which could turn the market into a perfect storm.   EAST The East also showed signs of increasing strength this week, as rates took a turn upwards towards 70 Ras Tanura/Chiba. A few candidates which had been open in the prompt and were thought to be ‘cheaper’ options are now fixed (at high rates relative to where the Baltic has been printing) or moved West, and trader relets are limited. Saudi acceptances are due tomorrow and it will be interesting to see what this means for freight moving forward; although it is thought that there will be cutbacks and delays given the situation with other Middle Eastern suppliers lately.
+WEST
+This week saw a continuation of last week’s bullish sentiment, albeit with fewer fixtures. The reduced rate of transactions has been a consequence of limited supply of freight rather than a shortage of inquiries, which have remained relatively prolific. Positions lists are looking very short, and some players who came into the market this week to fix were unable to find ships to cover their cargoes. As a result, rates have strengthened rapidly, and owners are now looking for around 130 Houston/Chiba depending on where in 2H Feb the laycan lies. This has also been aided by the composition of the available tonnage, with the majority of it being controlled by the main shipowners.
+
+Going forward, it is difficult to find reasons why the market will not remain strong. However, two possible speed bumps could be an influx of trader-owned tonnage as higher rates provide more of an incentive to relet and a weakening picture on the product side; netbacks have already come off a considerable amount since the highs seen in the first few days of 2020. Otherwise, all else being equal, freight looks incredibly strong as we approach prime fog season in the US Gulf - something which could turn the market into a perfect storm. 
+
+EAST
+The East also showed signs of increasing strength this week, as rates took a turn upwards towards 70 Ras Tanura/Chiba. A few candidates which had been open in the prompt and were thought to be ‘cheaper’ options are now fixed (at high rates relative to where the Baltic has been printing) or moved West, and trader relets are limited. Saudi acceptances are due tomorrow and it will be interesting to see what this means for freight moving forward; although it is thought that there will be cutbacks and delays given the situation with other Middle Eastern suppliers lately.
 
 ---

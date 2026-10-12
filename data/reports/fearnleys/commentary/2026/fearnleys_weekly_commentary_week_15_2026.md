@@ -6,7 +6,7 @@ week: 15
 date_range: "2026-04-08 to 2026-04-10"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 15, 2026
@@ -55,7 +55,11 @@ A temporary “ceasefire” has been agreed between Israel‑US and Iran, though
 ### Aframax Weekly Comment
 **Date:** 2026-04-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea A short week began with some relatively prompt replacement business with freight levels between WS 390 and 400 depending on voyage. Natural window should be pushing toward 15-20 by the end of the week with a few relets in the mix as well for that window. With the news concerning the situation in the MEG we wait to see what effect that will have on the western Aframax markets especially the US which has been the driver behind the very firm markets we have seen over the last few weeks.  Mediterranean Mediterranean corrected by 100p plus compared to last week, but activity picked up after this and owners have tried to establish new floor or even push a bit in certain occasions. We expect market to continue providing very strong returns as levels are still at all-time high while only a proper correction in the States will affect the Mediterranean.
+North Sea
+A short week began with some relatively prompt replacement business with freight levels between WS 390 and 400 depending on voyage. Natural window should be pushing toward 15-20 by the end of the week with a few relets in the mix as well for that window. With the news concerning the situation in the MEG we wait to see what effect that will have on the western Aframax markets especially the US which has been the driver behind the very firm markets we have seen over the last few weeks.
+
+Mediterranean
+Mediterranean corrected by 100p plus compared to last week, but activity picked up after this and owners have tried to establish new floor or even push a bit in certain occasions. We expect market to continue providing very strong returns as levels are still at all-time high while only a proper correction in the States will affect the Mediterranean.
 
 ---
 
@@ -70,7 +74,11 @@ After several weeks of attacks, counterattacks and increasingly heated threats, 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2026-04-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Crude price experienced high volatility amid ongoing uncertainties over ceasefire and persistent supply disruptions due to Middle East tensions. By the time of writing, May CP was traded at $680 for C3 and C4 was assessed at $30 higher as of tight supply.  Following crude movement, FEI/Lst fluctuates throughout the week. By the time of writing, FEI/Lst swap was assessed at $378 for May and $298 for Jun. Terminal fee for May liftings tumbled from previous mid-40s cpg to low-30s cpg, reflecting weakening netbacks as CFR market softened against soaring freight. Meanwhile, U.S. propane/propylene inventories rose by 570,000 barrels to 77.6 million barrels in the week ended 3rd Apr, leaving stocks remained 71% higher year on year.  A 46/0 lot for 1h May delivery basis Chiba was reportedly traded at Apr FEI plus 30s. 23/0 parcel for 2h May delivery was bid at May FEI plus $125 in the window however yet to entice offers. Outside tender, a total of 250k propane cargos for end Apr/1h May delivery were reportedly placed into China, which deal level concluded at May FEI plus 130s for US stems and plus 170-180s for non-US stems, with majority procured for petchem feedstock use. Additionally, Korean importers have issued a couple of tenders seeking May/Jun delivered butane but few heard awarded.
+Crude price experienced high volatility amid ongoing uncertainties over ceasefire and persistent supply disruptions due to Middle East tensions. By the time of writing, May CP was traded at $680 for C3 and C4 was assessed at $30 higher as of tight supply.
+
+Following crude movement, FEI/Lst fluctuates throughout the week. By the time of writing, FEI/Lst swap was assessed at $378 for May and $298 for Jun. Terminal fee for May liftings tumbled from previous mid-40s cpg to low-30s cpg, reflecting weakening netbacks as CFR market softened against soaring freight. Meanwhile, U.S. propane/propylene inventories rose by 570,000 barrels to 77.6 million barrels in the week ended 3rd Apr, leaving stocks remained 71% higher year on year.
+
+A 46/0 lot for 1h May delivery basis Chiba was reportedly traded at Apr FEI plus 30s. 23/0 parcel for 2h May delivery was bid at May FEI plus $125 in the window however yet to entice offers. Outside tender, a total of 250k propane cargos for end Apr/1h May delivery were reportedly placed into China, which deal level concluded at May FEI plus 130s for US stems and plus 170-180s for non-US stems, with majority procured for petchem feedstock use. Additionally, Korean importers have issued a couple of tenders seeking May/Jun delivered butane but few heard awarded.
 
 ---
 
@@ -78,7 +86,9 @@ Crude price experienced high volatility amid ongoing uncertainties over ceasefir
 ### SnP Weekly Comment
 **Date:** 2026-04-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-While a potentially positive step for global stability, the fragile ceasefire agreed between the US/Israel and Iran is still very much yet to be proven. The reality is that no universally agreed framework is in place to allow free passage of all vessels through the Strait of Hormuz, meaning that even with the optimistic headlines, nothing has really changed. Buyers are seemingly taking a step back this week, treading carefully as uncertainty reigns.  Dry is still providing liquidity to the second-hand space in general, with buyers being encouraged by robust earnings currently on offer. Scepticism remains however on the long-term prospects for the dry market, which would suffer in the event the war continues to drag on, and sustained higher oil prices lead to a larger macroeconomic demand slowdown. Secondhand liquidity is concentrated around the 15-year-old mark, with modern ships still hard to come by. This week post panamax OHSHU MARU (92K DWT Namura 2011) sold for USD 16.2M (SSDD due 06/26).
+While a potentially positive step for global stability, the fragile ceasefire agreed between the US/Israel and Iran is still very much yet to be proven. The reality is that no universally agreed framework is in place to allow free passage of all vessels through the Strait of Hormuz, meaning that even with the optimistic headlines, nothing has really changed. Buyers are seemingly taking a step back this week, treading carefully as uncertainty reigns.
+
+Dry is still providing liquidity to the second-hand space in general, with buyers being encouraged by robust earnings currently on offer. Scepticism remains however on the long-term prospects for the dry market, which would suffer in the event the war continues to drag on, and sustained higher oil prices lead to a larger macroeconomic demand slowdown. Secondhand liquidity is concentrated around the 15-year-old mark, with modern ships still hard to come by. This week post panamax OHSHU MARU (92K DWT Namura 2011) sold for USD 16.2M (SSDD due 06/26).
 
 ---
 

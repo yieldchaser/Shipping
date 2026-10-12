@@ -6,7 +6,7 @@ week: 1
 date_range: "2021-01-04 to 2021-01-08"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 16:51:08"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 01, 2021
@@ -91,14 +91,21 @@ In the first week of 2021, the LNG Shipping market picked up where it left it of
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2021-01-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Feb Propane CP has soared up to $596 following the crude jump, but Mar CP was traded at heavy backwardation of over $40. As Saudi pledged to cut oil output, Feb CP gained more support with expectations on potential shortage of propane. Meanwhile, Feb C3/C4 enlarged to $30, as propane is more favorable than butane in winter season. Qatar Petroleum issued tender to sell 24-25th Feb lifting equal ratio cargo.   FAR EAST This week a flurry of deals is concluded with solid heating demand in winter. Full cargo propane for 1h Feb delivery was concluded earlier in window at Jan FEI minus low teens, whilst half cargo parcels for 2h Feb delivery were traded at Feb FEI plus high 30s. Off window a handful of cargos have been placed into Japan and Korea also, with full propane for 1h Feb delivery done at Feb FEI plus around $30 and half parcel at around $40. Feb FEI/CP narrowed down to $40 but it’s resilient to narrow further against rising freight.    One SChina PDH canceled their buy tender again for 22k propane for 1h Feb delivery as the offers’ premium at Feb CP plus above 130$, which erodes profit margins to propylene. Last full cargo propane for similar timing delivery into China was sold at Feb CP plus around $100 at the week
+MEG
+Feb Propane CP has soared up to $596 following the crude jump, but Mar CP was traded at heavy backwardation of over $40. As Saudi pledged to cut oil output, Feb CP gained more support with expectations on potential shortage of propane. Meanwhile, Feb C3/C4 enlarged to $30, as propane is more favorable than butane in winter season. Qatar Petroleum issued tender to sell 24-25th Feb lifting equal ratio cargo. 
+
+FAR EAST
+This week a flurry of deals is concluded with solid heating demand in winter. Full cargo propane for 1h Feb delivery was concluded earlier in window at Jan FEI minus low teens, whilst half cargo parcels for 2h Feb delivery were traded at Feb FEI plus high 30s. Off window a handful of cargos have been placed into Japan and Korea also, with full propane for 1h Feb delivery done at Feb FEI plus around $30 and half parcel at around $40. Feb FEI/CP narrowed down to $40 but it’s resilient to narrow further against rising freight.  
+
+One SChina PDH canceled their buy tender again for 22k propane for 1h Feb delivery as the offers’ premium at Feb CP plus above 130$, which erodes profit margins to propylene. Last full cargo propane for similar timing delivery into China was sold at Feb CP plus around $100 at the week
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2021-01-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS A lesser than expected 2.4 million barrel draw occurred in US propane inventories for the week ended January 1st 2021. This was below expectations of 3 million barrels and importantly the export figure for the week was only just above 1 million barrels per day. The recent record level of LPG exports has renewed fears of insufficient domestic inventory to see out the winter. If draws averaging 3 million barrels a week occur until build season (1st week of April, 12 weeks) we will be left with 37 million barrels in inventories. Tight! This fear pushed Mt Belvieu propane up to 70% WTI before Saudi Aramco announced they would cut oil production by 1 million barrels per day from Feb 1st. Lack of VLGC availability is set to leave US export tons unsold in January. A double whammy of reducing export volumes and building inventories. The question is will Mt Belvieu propane value strengthen so much as to destroy demand, or will US inventories remain manageable  and keep propane arbs open?
+AMERICAS
+A lesser than expected 2.4 million barrel draw occurred in US propane inventories for the week ended January 1st 2021. This was below expectations of 3 million barrels and importantly the export figure for the week was only just above 1 million barrels per day. The recent record level of LPG exports has renewed fears of insufficient domestic inventory to see out the winter. If draws averaging 3 million barrels a week occur until build season (1st week of April, 12 weeks) we will be left with 37 million barrels in inventories. Tight! This fear pushed Mt Belvieu propane up to 70% WTI before Saudi Aramco announced they would cut oil production by 1 million barrels per day from Feb 1st. Lack of VLGC availability is set to leave US export tons unsold in January. A double whammy of reducing export volumes and building inventories. The question is will Mt Belvieu propane value strengthen so much as to destroy demand, or will US inventories remain manageable  and keep propane arbs open?
 
 ---
 
@@ -106,13 +113,19 @@ AMERICAS A lesser than expected 2.4 million barrel draw occurred in US propane i
 ### SnP Weekly Comment
 **Date:** 2021-01-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-New lockdowns are here but so are gradually vaccines, which hopefully means we may soon apply normal forecasting parameters again. All going well we expect decent average tanker earnings in 2021 based on a return of oil production and a turnaround in sentiment in 2nd half of the year. However the near term tanker outlook remains soft and 2nd hand values will remain under pressure. On that note, the year kicks off with a notable MR deal. Top Ships is reported to have sold three scrubberfitted MR newbuildings with delivery in February and March 2021 ex HMD. The price is reported to be just below Usd 34 mill each.  It’s a promising start of the year in the dry segments and the transaction volume remains steady across all segments. Capesize values may see an uptick on the back of an unexpected strong start.
+New lockdowns are here but so are gradually vaccines, which hopefully means we may soon apply normal forecasting parameters again. All going well we expect decent average tanker earnings in 2021 based on a return of oil production and a turnaround in sentiment in 2nd half of the year. However the near term tanker outlook remains soft and 2nd hand values will remain under pressure. On that note, the year kicks off with a notable MR deal. Top Ships is reported to have sold three scrubberfitted MR newbuildings with delivery in February and March 2021 ex HMD. The price is reported to be just below Usd 34 mill each.
+
+It’s a promising start of the year in the dry segments and the transaction volume remains steady across all segments. Capesize values may see an uptick on the back of an unexpected strong start.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2021-01-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST After a quiet Christmas the VLGC market is getting back to life in the AG with a few fixtures done both on end January and early February dates this week. January is now left with only one open vessel and availability for early Feb dates is becoming increasingly tight. It can be expected that Charterers will ask for early Feb lifting dates from their suppliers in view of the current backwardation in the FEI, potentially creating an even firmer market. Last done is now being reported around 115 and we see a clear upward trend in freight.  WEST As we embark on the new year, the West market is more or less halfway through Q1 already in terms of fixtures. Vessel availability is tight for February dates and slowly but surely the market players look set to start covering the second half of the month. Although most owners are preoccupied with making sure their commitments fixed at the end of last year for the first half of February, we have seen several deals done during the second decade at rates ranging from mid/low to mid/high USD 170's H/C basis. The fear of even the slightest delay in arriving and exiting the loadport may have severe effects and is keeping everyone on their toes. The short term market outlook is strong.
+EAST
+After a quiet Christmas the VLGC market is getting back to life in the AG with a few fixtures done both on end January and early February dates this week. January is now left with only one open vessel and availability for early Feb dates is becoming increasingly tight. It can be expected that Charterers will ask for early Feb lifting dates from their suppliers in view of the current backwardation in the FEI, potentially creating an even firmer market. Last done is now being reported around 115 and we see a clear upward trend in freight.
+
+WEST
+As we embark on the new year, the West market is more or less halfway through Q1 already in terms of fixtures. Vessel availability is tight for February dates and slowly but surely the market players look set to start covering the second half of the month. Although most owners are preoccupied with making sure their commitments fixed at the end of last year for the first half of February, we have seen several deals done during the second decade at rates ranging from mid/low to mid/high USD 170's H/C basis. The fear of even the slightest delay in arriving and exiting the loadport may have severe effects and is keeping everyone on their toes. The short term market outlook is strong.
 
 ---

@@ -6,7 +6,7 @@ week: 25
 date_range: "2026-06-17 to 2026-06-19"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 25, 2026
@@ -55,7 +55,11 @@ Fairly active start to the week in the West, with the East beginning to see incr
 ### Aframax Weekly Comment
 **Date:** 2026-06-17 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea North Sea market has taken a hit this week with WS 140 on subs for a North Sea – Baltic cargo and it feels like more to come. On paper relets should come back into the fixing window, and we expect a fair amount of programming to occur, as with all Western Aframax markets being softer, ballasting doesn’t necessarily give you an outlet, and reducing waiting times will be key.  Mediterranean Market has adjusted downwards after 1-2 market quotes, but we haven't seen it collapsing. There is still underground activity that is taking out tonnage quietly but at the same time there is a couple of vessels stuck prompt hoping for earlier dates. We are more or less done for Ceyhan June dates and Libya hasn't much cargoes left either, so owners need to think about their next move while there aren't many alternatives.
+North Sea
+North Sea market has taken a hit this week with WS 140 on subs for a North Sea – Baltic cargo and it feels like more to come. On paper relets should come back into the fixing window, and we expect a fair amount of programming to occur, as with all Western Aframax markets being softer, ballasting doesn’t necessarily give you an outlet, and reducing waiting times will be key.
+
+Mediterranean
+Market has adjusted downwards after 1-2 market quotes, but we haven't seen it collapsing. There is still underground activity that is taking out tonnage quietly but at the same time there is a couple of vessels stuck prompt hoping for earlier dates. We are more or less done for Ceyhan June dates and Libya hasn't much cargoes left either, so owners need to think about their next move while there aren't many alternatives.
 
 ---
 
@@ -63,7 +67,11 @@ North Sea North Sea market has taken a hit this week with WS 140 on subs for a N
 ### LNG Market Report
 **Date:** 2026-06-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-After weeks’ of “will they, won’t they” in the Middle East, an agreement to try to work towards an agreement has finally emerged and will be heavily scrutinised as more details emerge. It does appear that some of the key pillars should lead to the resumption of merchant traffic through the Strait of Hormuz (without tolls or hinderance); however, the devil will be in the detail and the detail is sorely lacking at this stage. One of the Articles refers to a resumption of traffic within 30 days, although the same Article does note there are challenges including mines that could impact that timeline, and of course there will be operational matters to handle in production itself.   Nonetheless, this is a welcome development and markets have reacted accordingly. Prices are already lower and the inter-basin arbitrage has been squeezed. How this will shape the LNG shipping market in the weeks and months to come remains to be seen, but we may expect some temporary disruptions and tightening East of Suez as scheduling is reworked to accommodate the additional volume while further out. Further out into winter, the competition between Europe and Asia for US volume should ease and lead to lower peak pricing and also to a softer market than we could have seen, yet while we work through the uncertainties and until we see more concrete steps it is unlikely there will be major changes to shipping strategies.  Thus, the markets in all basins have remained broadly steady. There are a number of multimonth requirements being worked and these should provide interesting data points for winter tonnage, although as mentioned last week there is a divergence of views for winter trading split between those pricing in weak freight fundamental versus a strong trading environment and we may see these plans revisited across the board in the days ahead.
+After weeks’ of “will they, won’t they” in the Middle East, an agreement to try to work towards an agreement has finally emerged and will be heavily scrutinised as more details emerge. It does appear that some of the key pillars should lead to the resumption of merchant traffic through the Strait of Hormuz (without tolls or hinderance); however, the devil will be in the detail and the detail is sorely lacking at this stage. One of the Articles refers to a resumption of traffic within 30 days, although the same Article does note there are challenges including mines that could impact that timeline, and of course there will be operational matters to handle in production itself. 
+
+Nonetheless, this is a welcome development and markets have reacted accordingly. Prices are already lower and the inter-basin arbitrage has been squeezed. How this will shape the LNG shipping market in the weeks and months to come remains to be seen, but we may expect some temporary disruptions and tightening East of Suez as scheduling is reworked to accommodate the additional volume while further out. Further out into winter, the competition between Europe and Asia for US volume should ease and lead to lower peak pricing and also to a softer market than we could have seen, yet while we work through the uncertainties and until we see more concrete steps it is unlikely there will be major changes to shipping strategies.
+
+Thus, the markets in all basins have remained broadly steady. There are a number of multimonth requirements being worked and these should provide interesting data points for winter tonnage, although as mentioned last week there is a divergence of views for winter trading split between those pricing in weak freight fundamental versus a strong trading environment and we may see these plans revisited across the board in the days ahead.
 
 ---
 
@@ -71,7 +79,9 @@ After weeks’ of “will they, won’t they” in the Middle East, an agreement
 ### SnP Weekly Comment
 **Date:** 2026-06-19 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-While not a full deal per se, the framework agreed and signed this week between USA and Iran will provide the tanker market with lower supply side risk, and hopefully some seldom seen stability. It is likely we will see a tug of war between owners and charterers over the next few weeks as the situation unfolds, though what is certain is that the market will be carefully watching the fortunes of laden crude tankers in their attempts to leave the Gulf. Buyers are still there to meet sellers’ lofty expectations on crude tonnage, seen in suezmax COSMO SAIL (159K dwt Hyundai Samho 2007) selling for USD 49.5M.   News coming from the Middle East will be positively received by the dry bulk market, hoping increased crude supply side security will keep oil prices at more sustained and manageable levels, allowing more general macro investment confidence and activity. Rates remain strong across dry and as usual there is a consistent stream of transactions. This week, MONT BLANC HAWK (81K dwt Imabari 2017) was sold for USD 32.2M.
+While not a full deal per se, the framework agreed and signed this week between USA and Iran will provide the tanker market with lower supply side risk, and hopefully some seldom seen stability. It is likely we will see a tug of war between owners and charterers over the next few weeks as the situation unfolds, though what is certain is that the market will be carefully watching the fortunes of laden crude tankers in their attempts to leave the Gulf. Buyers are still there to meet sellers’ lofty expectations on crude tonnage, seen in suezmax COSMO SAIL (159K dwt Hyundai Samho 2007) selling for USD 49.5M. 
+
+News coming from the Middle East will be positively received by the dry bulk market, hoping increased crude supply side security will keep oil prices at more sustained and manageable levels, allowing more general macro investment confidence and activity. Rates remain strong across dry and as usual there is a consistent stream of transactions. This week, MONT BLANC HAWK (81K dwt Imabari 2017) was sold for USD 32.2M.
 
 ---
 

@@ -6,7 +6,7 @@ week: 6
 date_range: "2026-02-04 to 2026-02-06"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 06, 2026
@@ -55,7 +55,11 @@ North of a dozen cargoes were worked in the West yesterday, with additional deta
 ### Aframax Weekly Comment
 **Date:** 2026-02-04 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea The weather has improved from last week but is still causing some issues with some vessels getting delayed and subsequent replacement requirements. Natural window has pushed into the 2nd decade and with a longer / firmer looking list market sentiment has cooled and softened with a correction in freight levels from the highs of last week. Surrounding areas have also softened which although still attractive to ballast now isn’t the sure thing it was.  Mediterranean Rates have moved sideways this past week but with a softer tone after some quiet days in the local Mediterranean market. Levels however are providing hefty returns for the owners still especially fixing on the right dates. With surrounding markets still providing decent support we might not see the Mediterranean market correcting too much more in the next couple of days.
+North Sea
+The weather has improved from last week but is still causing some issues with some vessels getting delayed and subsequent replacement requirements. Natural window has pushed into the 2nd decade and with a longer / firmer looking list market sentiment has cooled and softened with a correction in freight levels from the highs of last week. Surrounding areas have also softened which although still attractive to ballast now isn’t the sure thing it was.
+
+Mediterranean
+Rates have moved sideways this past week but with a softer tone after some quiet days in the local Mediterranean market. Levels however are providing hefty returns for the owners still especially fixing on the right dates. With surrounding markets still providing decent support we might not see the Mediterranean market correcting too much more in the next couple of days.
 
 ---
 
@@ -70,7 +74,13 @@ The LNG shipping market appears to have paused for breath after the highs and lo
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2026-02-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Cash differential for Mar lifting evenly split cargos is assessed lower at Mar CP minus teens amid thin trades, particularly with Mar/Apr CP being traded at $15 backwardation. By the time of writing, Mar CP swap was assessed at $535 for C3 and $527 for C4.   Mar ARB from US to FAR EAST maintained at $190s, however terminal fee declined in response to soaring freight. 46/0 parcel for 2h Mar lifting was changed hand at 6.5 cg reportedly, vs last week’s 8cpg. U.S. propane/propylene stocks declined by 6.2 million bbl to 82.7 million bbl on the week ended January 30, leaving inventory 34.7% higher on YOY basis.  A flurry of deals was concluded for 2/0 parcels on March delivery basis Chiba. 2/0 parcels for 1H March delivery were traded at March FEI plus the high $40s to mid $50s, while 2H March trades at Feb FEI plus $1 to $2.5. On Thurs window, 2/0 parcels for 1h and 2h Mar delivery were bid at Mar FEI plus $51 and $33 respectively, however no offers surfaced. 12/12 parcel was offered in window at Mar CP plus $81 basis Yantai, yet to entice buyer. Bal Feb/March spread widened from high $20s into the $40s, underscoring front-month strength.   Meanwhile, a couple of Us 46/0 cargoes for 2H March delivery were placed into EChina at March FEI plus the mid-high $30s to low $40s, while non-Us stem sold basis SChina at Mar CP plus $70s. One SChina based PDH are still inquiring for 23/0 parcel for Mar delivery while another NChina based PDH are procuring Mar and Apr lots. Additionally, some butane cargos were reportedly sold into South China at March CP plus $60s.
+Cash differential for Mar lifting evenly split cargos is assessed lower at Mar CP minus teens amid thin trades, particularly with Mar/Apr CP being traded at $15 backwardation. By the time of writing, Mar CP swap was assessed at $535 for C3 and $527 for C4. 
+
+Mar ARB from US to FAR EAST maintained at $190s, however terminal fee declined in response to soaring freight. 46/0 parcel for 2h Mar lifting was changed hand at 6.5 cg reportedly, vs last week’s 8cpg. U.S. propane/propylene stocks declined by 6.2 million bbl to 82.7 million bbl on the week ended January 30, leaving inventory 34.7% higher on YOY basis.
+
+A flurry of deals was concluded for 2/0 parcels on March delivery basis Chiba. 2/0 parcels for 1H March delivery were traded at March FEI plus the high $40s to mid $50s, while 2H March trades at Feb FEI plus $1 to $2.5. On Thurs window, 2/0 parcels for 1h and 2h Mar delivery were bid at Mar FEI plus $51 and $33 respectively, however no offers surfaced. 12/12 parcel was offered in window at Mar CP plus $81 basis Yantai, yet to entice buyer. Bal Feb/March spread widened from high $20s into the $40s, underscoring front-month strength. 
+
+Meanwhile, a couple of Us 46/0 cargoes for 2H March delivery were placed into EChina at March FEI plus the mid-high $30s to low $40s, while non-Us stem sold basis SChina at Mar CP plus $70s. One SChina based PDH are still inquiring for 23/0 parcel for Mar delivery while another NChina based PDH are procuring Mar and Apr lots. Additionally, some butane cargos were reportedly sold into South China at March CP plus $60s.
 
 ---
 
@@ -78,13 +88,19 @@ Cash differential for Mar lifting evenly split cargos is assessed lower at Mar C
 ### SnP Weekly Comment
 **Date:** 2026-02-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-This week’s sales are not representative of the raucous undercurrent of the present tanker market. The high level of enquiry and numerous ongoing discussions suggest that more second hand activity is to come. Pricing remains firm and shows no signs of respite, which may encourage prospective investors to seek better value down the newbuilding avenue. This week, scrubber fitted MARAN PYTHIA (158K DWT HHI 2009) was sold to Greek Buyers for USD 46M. The excitement isn’t limited to the crude space, MRs and LR1s have seen an uptick in demand, particularly in the mid age (rgn 15-year-old) bracket. SSDD passed sisters ELANDRA BALTIC/FJORD (51K DWT HMD 2011) were sold for USD 24.5M each en bloc.   A relatively quiet week in the dry market despite the strong start to the year. Predictably, China remains the source of much of the buying interest for ageing bulk carriers. Upcoming Lunar New Year may curtail this demand for the coming weeks, but this will likely be a temporary blip as appetite remains high across the range of sizes from Chinese buyers. In the only ECO transaction of the week, MGJ bought DARYA TAPTI (35K DWT Shikoku 2015) for USD 18.9M.
+This week’s sales are not representative of the raucous undercurrent of the present tanker market. The high level of enquiry and numerous ongoing discussions suggest that more second hand activity is to come. Pricing remains firm and shows no signs of respite, which may encourage prospective investors to seek better value down the newbuilding avenue. This week, scrubber fitted MARAN PYTHIA (158K DWT HHI 2009) was sold to Greek Buyers for USD 46M. The excitement isn’t limited to the crude space, MRs and LR1s have seen an uptick in demand, particularly in the mid age (rgn 15-year-old) bracket. SSDD passed sisters ELANDRA BALTIC/FJORD (51K DWT HMD 2011) were sold for USD 24.5M each en bloc. 
+
+A relatively quiet week in the dry market despite the strong start to the year. Predictably, China remains the source of much of the buying interest for ageing bulk carriers. Upcoming Lunar New Year may curtail this demand for the coming weeks, but this will likely be a temporary blip as appetite remains high across the range of sizes from Chinese buyers. In the only ECO transaction of the week, MGJ bought DARYA TAPTI (35K DWT Shikoku 2015) for USD 18.9M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2026-02-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST The daily Baltic print keeps rising to new highs on the back of a rock solid West market coupled with an ever slimming position list in the East due to same. Two Indian cargos was fixed yesterday at around 100 RT/C equivalent basis and two more Australian cargos are being worked at the time of writing. Market in the East is expected to remain firm with more near term upside.  WEST  Activity in the Western hemisphere has picked up again after a quiet start to the week, and a handful of vessels are reported on subs at rates higher than what we saw last week. Current fixing ideas are hovering around very high 150s to low 160s pmt HCvP. Laycans fixed are thus far focused around the first two decades of March, and within a week or two, we expect that the entire month will be done and dusted.
+EAST
+The daily Baltic print keeps rising to new highs on the back of a rock solid West market coupled with an ever slimming position list in the East due to same. Two Indian cargos was fixed yesterday at around 100 RT/C equivalent basis and two more Australian cargos are being worked at the time of writing. Market in the East is expected to remain firm with more near term upside.
+
+WEST 
+Activity in the Western hemisphere has picked up again after a quiet start to the week, and a handful of vessels are reported on subs at rates higher than what we saw last week. Current fixing ideas are hovering around very high 150s to low 160s pmt HCvP. Laycans fixed are thus far focused around the first two decades of March, and within a week or two, we expect that the entire month will be done and dusted.
 
 ---

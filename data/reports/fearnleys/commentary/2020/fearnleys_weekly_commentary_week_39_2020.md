@@ -6,7 +6,7 @@ week: 39
 date_range: "2020-09-22 to 2020-09-23"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 16:51:08"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 39, 2020
@@ -91,14 +91,19 @@ As we leave behind a difficult summer, we move forward into an autumn showing ca
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-09-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Oct Propane CP tumbled on the start of week but stabilized at $365 at the time of writing. 1st round CP idea some importers recommend propane at $370-380 and butane at $5-10 higher. Saudi Aramco released Oct acceptance with 3 cargos reportedly cancelled/deferred. KPC issued another tender to sell 21/22rd Oct lifting evenly split cargo, which is the 3rd spot for Oct loading.   FAR EAST Cash differentials for 2h Oct market has improved substantially, with a couple of 23kt propane for 2h Oct delivery traded at Oct FEI minus low teens, and following bid raised up to minus high single digit. Indian IOC is reported to secure two Nov delivery equal ratio cargos at Nov CP plus 30s via tender. Similarly, BPCL also awarded their buy tender for Nov delivery at Nov CP plus high 20s reportedly. One EChina importer issued buy tender to secure two parcels of 23k propane for Nov and Dec Delivery respectively. Other importers also start exploring Nov delivery cargos, for heavy propane mainly.
+MEG
+Oct Propane CP tumbled on the start of week but stabilized at $365 at the time of writing. 1st round CP idea some importers recommend propane at $370-380 and butane at $5-10 higher. Saudi Aramco released Oct acceptance with 3 cargos reportedly cancelled/deferred. KPC issued another tender to sell 21/22rd Oct lifting evenly split cargo, which is the 3rd spot for Oct loading. 
+
+FAR EAST
+Cash differentials for 2h Oct market has improved substantially, with a couple of 23kt propane for 2h Oct delivery traded at Oct FEI minus low teens, and following bid raised up to minus high single digit. Indian IOC is reported to secure two Nov delivery equal ratio cargos at Nov CP plus 30s via tender. Similarly, BPCL also awarded their buy tender for Nov delivery at Nov CP plus high 20s reportedly. One EChina importer issued buy tender to secure two parcels of 23k propane for Nov and Dec Delivery respectively. Other importers also start exploring Nov delivery cargos, for heavy propane mainly.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-09-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS The US propane supply is in very good shape heading into this Winter. In fact, with domestic storages at tank tops, if it is not a cold winter, the market will shift from comfortable to long. However,  what the traders are now concentrating on is the next winter. The generally feeling is that although this winter should be fine, the winter 2021/2022 looks very tight. International demand is growing at a rate that surpasses US production growth and in order to keep the world supplied, US exports will need to be at maximum levels. How this effects the relative price is what traders are trying to decipher but it looks certain exports will maintain at terminal capacity. In South America, the Brazilians have remained active despite their winter season winding down and we look to the other South American importers to begin contemplating the sale of their imports into the Northern Hemisphere winter markets.
+AMERICAS
+The US propane supply is in very good shape heading into this Winter. In fact, with domestic storages at tank tops, if it is not a cold winter, the market will shift from comfortable to long. However,  what the traders are now concentrating on is the next winter. The generally feeling is that although this winter should be fine, the winter 2021/2022 looks very tight. International demand is growing at a rate that surpasses US production growth and in order to keep the world supplied, US exports will need to be at maximum levels. How this effects the relative price is what traders are trying to decipher but it looks certain exports will maintain at terminal capacity. In South America, the Brazilians have remained active despite their winter season winding down and we look to the other South American importers to begin contemplating the sale of their imports into the Northern Hemisphere winter markets.
 
 ---
 
@@ -106,13 +111,19 @@ AMERICAS The US propane supply is in very good shape heading into this Winter. I
 ### SnP Weekly Comment
 **Date:** 2020-09-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Newbuilding contracting is becoming an increasingly attractive option spurred by much reduced yard prices. NAT this week announced contracts for two Suezmax newbuildings at Samsung at a price believed to be in the mid 50’s. The last time NAT placed Suezmax contracts at Samsung was in October 2016 at more or less same price.  Post-Lehman these represents to date the low-points in Suezmax prices from the Korean majors. Logic dictates that Chinese prices for such tankers should now be close to Usd 50 mill. We will not be surprised to see additional tanker orders coming to light in the near to medium term. In the present earnings climate, values for modern tankers are inevitably bench-marked to replacement cost and as such we have YTD a significant drop in values. A prompt resale Suezmax tanker from Korea was for instance at the outset of the year valued at region Usd 68 mill. No longer. Rumours abound all week related to the sale of a 2011 built VLCC, it appears to be Minerva’s PANTANASSA built 2011 HHI. The reported price of Usd 46 mill reaffirms softening prices.    Transactions of modern bulkcarriers have been few and far between so the sale of Tess-82 (Zosen) PRECIOUS SKY built 2015 with SS passed and BWTS installed is at Usd 22 mill a notable benchmark. Capesizes extended the earnings gains yesterday with rates gaining 23% to USD 22.8k/d. This should bode well for more action in the Capesize S&P market as well.
+Newbuilding contracting is becoming an increasingly attractive option spurred by much reduced yard prices. NAT this week announced contracts for two Suezmax newbuildings at Samsung at a price believed to be in the mid 50’s. The last time NAT placed Suezmax contracts at Samsung was in October 2016 at more or less same price.  Post-Lehman these represents to date the low-points in Suezmax prices from the Korean majors. Logic dictates that Chinese prices for such tankers should now be close to Usd 50 mill. We will not be surprised to see additional tanker orders coming to light in the near to medium term. In the present earnings climate, values for modern tankers are inevitably bench-marked to replacement cost and as such we have YTD a significant drop in values. A prompt resale Suezmax tanker from Korea was for instance at the outset of the year valued at region Usd 68 mill. No longer. Rumours abound all week related to the sale of a 2011 built VLCC, it appears to be Minerva’s PANTANASSA built 2011 HHI. The reported price of Usd 46 mill reaffirms softening prices.  
+
+Transactions of modern bulkcarriers have been few and far between so the sale of Tess-82 (Zosen) PRECIOUS SKY built 2015 with SS passed and BWTS installed is at Usd 22 mill a notable benchmark. Capesizes extended the earnings gains yesterday with rates gaining 23% to USD 22.8k/d. This should bode well for more action in the Capesize S&P market as well.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-09-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST Freight is strong in the US and trading at closer to mid USD 90's, which is a couple USD premium to Baltic. The shipping markets are currently experiencing inefficiencies due to bad weather in the Far East, up to a week of delays in Panama and Houston is at time of writing lagging 3-4 days in loadings. In October we see quite a few uncovered cargoes for the back end of the month and we could see freight rates strengthen more in the weeks ahead, although the arb West/East so far seems to keep a ceiling on freight before we experience three digit rates concluded.  EAST We continue to see more activity on freight in the east this week. Several ships have been taken out of the market for MEG load in October, while at the same time we are awaiting the result of a few different cargo tenders that could potentially need spot shipping coverage. Last done deals have all been around the usd 53-54 baltic range (as compared to usd high 50s – low 60s baltic on some of the deals from last week to Indian Majors). But with a stronger freight market in the West we do not expect that the Baltic will continue to come off, as Owners would be more inclined to sent their open ships out West while this trend continues.
+WEST
+Freight is strong in the US and trading at closer to mid USD 90's, which is a couple USD premium to Baltic. The shipping markets are currently experiencing inefficiencies due to bad weather in the Far East, up to a week of delays in Panama and Houston is at time of writing lagging 3-4 days in loadings. In October we see quite a few uncovered cargoes for the back end of the month and we could see freight rates strengthen more in the weeks ahead, although the arb West/East so far seems to keep a ceiling on freight before we experience three digit rates concluded.
+
+EAST
+We continue to see more activity on freight in the east this week. Several ships have been taken out of the market for MEG load in October, while at the same time we are awaiting the result of a few different cargo tenders that could potentially need spot shipping coverage. Last done deals have all been around the usd 53-54 baltic range (as compared to usd high 50s – low 60s baltic on some of the deals from last week to Indian Majors). But with a stronger freight market in the West we do not expect that the Baltic will continue to come off, as Owners would be more inclined to sent their open ships out West while this trend continues.
 
 ---

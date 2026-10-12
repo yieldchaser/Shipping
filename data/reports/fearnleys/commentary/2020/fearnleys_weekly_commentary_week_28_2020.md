@@ -6,7 +6,7 @@ week: 28
 date_range: "2020-07-06 to 2020-07-09"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 16:51:08"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 28, 2020
@@ -91,14 +91,22 @@ Over the past week we’ve seen a few signs of life in the spot market, with tho
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-07-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Despite the deteriorating FOB netback, Aug CP surged up to $348, up by $14 compared to last week. C3/C4 spread has narrowed down to $10 from previous $20, due to the improving butane cracking demand. QP has released their Aug acceptance with some advancements. It is also reported to award its sale tender for 4-7th Aug lifting 3/1 cargo at Aug FEI minus mid-30s, which equates to Aug CP minus 40ish. KPC failed to award the sale tender of 1/2nd Aug lifting 3/1 and retendered to 4/5th Aug lifting, which is due by this Friday. One Chinese importer is offering a mid Aug lifting full propane at Aug CP minus high teens but yet to attract bids.   FAR EAST  Aug delivered propane value is still under heavy discounts to Aug FEI, with offers for 1h Aug parcel at minus $17 while bid at minus $20.  Off window Aug buying inquiries are quite thin this week, except for Korean cracking use. One Korean petchem user purchased a late Aug delivery 23/0 at Aug FEI minus low teens reportedly. Another Korean importer tendered to buy monthly 23kt butane delivered from Oct 2020 to Mar 2021. One NChina importer issued a mini buy tender to secure two to four full propane cargo delivered during Aug 2020 till Dec 2021.  Although US FOB netbacks are into cancellation territory, some players still rather to lift tons and sit for contango with anticipation on recovery into Sep and Q4.
+MEG
+Despite the deteriorating FOB netback, Aug CP surged up to $348, up by $14 compared to last week. C3/C4 spread has narrowed down to $10 from previous $20, due to the improving butane cracking demand. QP has released their Aug acceptance with some advancements. It is also reported to award its sale tender for 4-7th Aug lifting 3/1 cargo at Aug FEI minus mid-30s, which equates to Aug CP minus 40ish. KPC failed to award the sale tender of 1/2nd Aug lifting 3/1 and retendered to 4/5th Aug lifting, which is due by this Friday. One Chinese importer is offering a mid Aug lifting full propane at Aug CP minus high teens but yet to attract bids. 
+
+FAR EAST 
+Aug delivered propane value is still under heavy discounts to Aug FEI, with offers for 1h Aug parcel at minus $17 while bid at minus $20. 
+Off window Aug buying inquiries are quite thin this week, except for Korean cracking use. One Korean petchem user purchased a late Aug delivery 23/0 at Aug FEI minus low teens reportedly. Another Korean importer tendered to buy monthly 23kt butane delivered from Oct 2020 to Mar 2021.
+One NChina importer issued a mini buy tender to secure two to four full propane cargo delivered during Aug 2020 till Dec 2021. 
+Although US FOB netbacks are into cancellation territory, some players still rather to lift tons and sit for contango with anticipation on recovery into Sep and Q4.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-07-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS The EIA reported a build of 2.2 million barrels this week, in line with expectation- all the while exports rose to 1.33mn b/d. As it stands, the butane arb to Europe looks better than propane, (around $80/ton) while the propane arb in that direction has come off. The LST/FEI spread last showed $83 lst/fei following the build, netting back just over 4cpg (when using low 60s for freight on a houston/chiba basis) where FOB discussion for August cargos now stand. Many participants have taken the view that the catalyst for higher netback values will come in the form of Indian demand -as China, South Korea and Japanese stocks seem well built at this time. US producers, notably in the Marcellus, Utica and Permian regions have pressed onward with their volume recovery as the crude price now sits in the low 40's following the mid april crash that subsequently choked out Marcus Hook export volumes.
+AMERICAS
+The EIA reported a build of 2.2 million barrels this week, in line with expectation- all the while exports rose to 1.33mn b/d. As it stands, the butane arb to Europe looks better than propane, (around $80/ton) while the propane arb in that direction has come off. The LST/FEI spread last showed $83 lst/fei following the build, netting back just over 4cpg (when using low 60s for freight on a houston/chiba basis) where FOB discussion for August cargos now stand. Many participants have taken the view that the catalyst for higher netback values will come in the form of Indian demand -as China, South Korea and Japanese stocks seem well built at this time. US producers, notably in the Marcellus, Utica and Permian regions have pressed onward with their volume recovery as the crude price now sits in the low 40's following the mid april crash that subsequently choked out Marcus Hook export volumes.
 
 ---
 
@@ -106,13 +114,21 @@ AMERICAS The EIA reported a build of 2.2 million barrels this week, in line with
 ### SnP Weekly Comment
 **Date:** 2020-07-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-As expected the increased level of buying enquiry in the dry sector has resulted in a notable pick up in activity with a number of inspections and negotiations taking place this week. Japanese owners invited inspection of the 2011 Sanoyas built Kamsarmax “KM YOKOHAMA” and up to 9 buyers are now outright with offers invited next week. This firm interest has inevitably driven additional sellers onto the market with new Kamsarmax units being placed for sale. We expect this increased competition to drive values upward and also activity to continue to spill over into other segments including the Supra-/Ultramax segment where we have seen 5 units change hands this week and a number of firm discussions are taking place. Although most reported sales are of more vintage units, this increased liquidity has provided extra support to values enabling potential sellers of more modern units to engage with renewed confidence.  The tanker sector remains subdued and unless sellers reduce their ideas substantially, we do not see much appetite to secure tonnage in the current market environment.
+As expected the increased level of buying enquiry in the dry sector has resulted in a notable pick up in activity with a number of inspections and negotiations taking place this week. Japanese owners invited inspection of the 2011 Sanoyas built Kamsarmax “KM YOKOHAMA” and up to 9 buyers are now outright with offers invited next week. This firm interest has inevitably driven additional sellers onto the market with new Kamsarmax units being placed for sale. We expect this increased competition to drive values upward and also activity to continue to spill over into other segments including the Supra-/Ultramax segment where we have seen 5 units change hands this week and a number of firm discussions are taking place. Although most reported sales are of more vintage units, this increased liquidity has provided extra support to values enabling potential sellers of more modern units to engage with renewed confidence.
+
+The tanker sector remains subdued and unless sellers reduce their ideas substantially, we do not see much appetite to secure tonnage in the current market environment.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-07-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST We are experiencing a relatively flat freight market as the shipping activity in the Middle East seems to have taken a breather so far this week. The handful of ships open on July dates, some of which are likely to slide into August, might potentially look for opportunities in the West. Lay of the land for August will be a bit more clear next week when both Adnoc and Saudi acceptances are expected out. Meanwhile, talks of Indian importers being long product for August might put a dampener on the recently climbing VLGC shipping market.  WEST West of Suez, the week started off quietly following a long weekend in the US. However, things are quickly beginning to look tighter for August ex US after a handful of fixtures and increased interest in freight against various FOB transactions. Only a small proportion of uncovered cargoes in August have had ships put against them so far.  Aside from the tightening micro picture, a notable number of ships have been routing via the Cape of Good Hope in recent months while owners have upped the number of vessels they are pointing towards drydocks. Looking at both micro and macro landscapes, there is the sense that rates will begin to edge higher from here as a result, particularly as we near the autumn months for the Northern Hemisphere.
+EAST
+We are experiencing a relatively flat freight market as the shipping activity in the Middle East seems to have taken a breather so far this week. The handful of ships open on July dates, some of which are likely to slide into August, might potentially look for opportunities in the West. Lay of the land for August will be a bit more clear next week when both Adnoc and Saudi acceptances are expected out. Meanwhile, talks of Indian importers being long product for August might put a dampener on the recently climbing VLGC shipping market.
+
+WEST
+West of Suez, the week started off quietly following a long weekend in the US. However, things are quickly beginning to look tighter for August ex US after a handful of fixtures and increased interest in freight against various FOB transactions. Only a small proportion of uncovered cargoes in August have had ships put against them so far.
+
+Aside from the tightening micro picture, a notable number of ships have been routing via the Cape of Good Hope in recent months while owners have upped the number of vessels they are pointing towards drydocks. Looking at both micro and macro landscapes, there is the sense that rates will begin to edge higher from here as a result, particularly as we near the autumn months for the Northern Hemisphere.
 
 ---

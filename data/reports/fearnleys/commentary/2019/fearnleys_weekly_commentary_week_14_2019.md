@@ -6,7 +6,7 @@ week: 14
 date_range: "2019-04-01 to 2019-04-03"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 16:51:06"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 14, 2019
@@ -69,14 +69,16 @@ Another challenging start to the week for owners in the Suezmax market. There wa
 ### Aframax Weekly Comment
 **Date:** 2019-04-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-Aframax rates in the North Sea and Baltic have hovered around bottom levels the past week. The only exception has been Owners fixing out of the port of Primorsk in the 12-16 April window. Maintenance on two berths have limited the availability of tonnage meeting the current physical restrictions combined with ice restrictions. However, going forward we expect the market to remain soft as there is an abundance of available tonnage that needs to get fixed before rates will improve.  In the Mediterranean and Black Sea, we have seen the market moving sideways the past week as Owners take a stand in order to maintain current levels for a cross-Med run. Activity from Charterers has been stable, and although prompt ships have rolled over from last week, we have seen few ships ballasting into the area, resulting in a downward correction. In the week to come we expect Owners to maintain their position, as the market is expected to remain soft.
+Aframax rates in the North Sea and Baltic have hovered around bottom levels the past week. The only exception has been Owners fixing out of the port of Primorsk in the 12-16 April window. Maintenance on two berths have limited the availability of tonnage meeting the current physical restrictions combined with ice restrictions. However, going forward we expect the market to remain soft as there is an abundance of available tonnage that needs to get fixed before rates will improve. 
+In the Mediterranean and Black Sea, we have seen the market moving sideways the past week as Owners take a stand in order to maintain current levels for a cross-Med run. Activity from Charterers has been stable, and although prompt ships have rolled over from last week, we have seen few ships ballasting into the area, resulting in a downward correction. In the week to come we expect Owners to maintain their position, as the market is expected to remain soft.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2019-04-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Aframax rates in the North Sea and Baltic have hovered around bottom levels the past week. The only exception has been Owners fixing out of the port of Primorsk in the 12-16 April window. Maintenance on two berths have limited the availability of tonnage meeting the current physical restrictions combined with ice restrictions. However, going forward we expect the market to remain soft as there is an abundance of available tonnage that needs to get fixed before rates will improve.  In the Mediterranean and Black Sea, we have seen the market moving sideways the past week as Owners take a stand in order to maintain current levels for a cross-Med run. Activity from Charterers has been stable, and although prompt ships have rolled over from last week, we have seen few ships ballasting into the area, resulting in a downward correction. In the week to come we expect Owners to maintain their position, as the market is expected to remain soft.
+Aframax rates in the North Sea and Baltic have hovered around bottom levels the past week. The only exception has been Owners fixing out of the port of Primorsk in the 12-16 April window. Maintenance on two berths have limited the availability of tonnage meeting the current physical restrictions combined with ice restrictions. However, going forward we expect the market to remain soft as there is an abundance of available tonnage that needs to get fixed before rates will improve. 
+In the Mediterranean and Black Sea, we have seen the market moving sideways the past week as Owners take a stand in order to maintain current levels for a cross-Med run. Activity from Charterers has been stable, and although prompt ships have rolled over from last week, we have seen few ships ballasting into the area, resulting in a downward correction. In the week to come we expect Owners to maintain their position, as the market is expected to remain soft.
 
 ---
 
@@ -91,7 +93,24 @@ LNG 19 in Shanghai is well underway and there is some exciting news being releas
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-04-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG： Qatar Petroleum released their May acceptances with some lifters experiencing 2-3 weeks’ delays, mainly for equal ratio cargoes which were nominated for early month lifting. QP is reportedly selling a 45 kt Propane cargo for 1st decade lifting at June CP plus around $10 premium, they may still be able to squeeze a full Propane spot cargo for end May or early June loading. The Baltic VLGC freight has soared by over $5 during the last few days (WOW) and is still climbing. With limited vessels open in the East until 1st decade May.  Traders with cargo length and not enough shipping, tends to resell their FOB tons to collect the premium instead of selling CFR delivery.  Saudi Aramco announced April CP over the weekend at $515 for Propane and $535 for Butane, up by $25 and $15 respectively. Since the April CP was announced, May CP has gained quickly and is $494 at the time of writing.  However the spread between May/June CP have widened from last week’s 20ish to $40. May FEI/CP also widened from previous -$8 to -$26, which reflects the front strength against forward length.    FAR EAST: The tightness in the front market didn’t see any relief during this week.  Although the Houston ship channel slowly started to resume to normal operation, lifters are still waiting for clearance on previous backlogs.  Limited or no sellers can commit cargoes with fixed arrival until the vessel has departed from US Gulf.  23kt Propane for 1H May arrival is bid at May FEI plus $48 while the offer is at $21 higher.  22+22 kt c3/c4 cargoes is in even shorter supply with buyer’s bidding at May CP plus $60 with no sellers to be seen.  23kt Propane for 2H May arrival is less tight  with value being about $25 less.  Off window discussions mostly ended up in deadlock.  Japanese and Korean importers are not willing to release AG origin cargoes without in return getting US origin cargoes back because of low inventory.  Very few trades was concluded within this week, as a consequence inquiries are outstanding ranging from 2h April to May delivery.  Indian IOC issued a buy tender for 22+22 kt c3/c4 with 2h May delivery into Ennore, and optional parcels for 15/15 kt or 20/20 kt delivered in June to Aug.
+MEG：
+Qatar Petroleum released their May acceptances with some lifters experiencing 2-3 weeks’ delays, mainly for equal ratio cargoes which were nominated for early month lifting. QP is reportedly selling a 45 kt Propane cargo for 1st decade lifting at June CP plus around $10 premium, they may still be able to squeeze a full Propane spot cargo for end May or early June loading. The Baltic VLGC freight has soared by over $5 during the last few days (WOW) and is still climbing. With limited vessels open in the East until 1st decade May. 
+Traders with cargo length and not enough shipping, tends to resell their FOB tons to collect the premium instead of selling CFR delivery. 
+Saudi Aramco announced April CP over the weekend at $515 for Propane and $535 for Butane, up by $25 and $15 respectively.
+Since the April CP was announced, May CP has gained quickly and is $494 at the time of writing. 
+However the spread between May/June CP have widened from last week’s 20ish to $40. May FEI/CP also widened from previous -$8 to -$26, which reflects the front strength against forward length. 
+
+FAR EAST:
+The tightness in the front market didn’t see any relief during this week. 
+Although the Houston ship channel slowly started to resume to normal operation, lifters are still waiting for clearance on previous backlogs. 
+Limited or no sellers can commit cargoes with fixed arrival until the vessel has departed from US Gulf. 
+23kt Propane for 1H May arrival is bid at May FEI plus $48 while the offer is at $21 higher. 
+22+22 kt c3/c4 cargoes is in even shorter supply with buyer’s bidding at May CP plus $60 with no sellers to be seen. 
+23kt Propane for 2H May arrival is less tight  with value being about $25 less. 
+Off window discussions mostly ended up in deadlock. 
+Japanese and Korean importers are not willing to release AG origin cargoes without in return getting US origin cargoes back because of low inventory. 
+Very few trades was concluded within this week, as a consequence inquiries are outstanding ranging from 2h April to May delivery. 
+Indian IOC issued a buy tender for 22+22 kt c3/c4 with 2h May delivery into Ennore, and optional parcels for 15/15 kt or 20/20 kt delivered in June to Aug.
 
 ---
 
@@ -106,6 +125,7 @@ Mt Belvieu propane prices weakened Wednesday following a larger than expected bu
 ### Chartering Weekly Comment
 **Date:** 2019-04-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The Eastern VLGC market has tightened up significantly over the past few days, as there are almost no available vessels until the early parts of May. We see more and more inquiries for early May liftings already, although so far only QP and KPC have announced their cargo acceptances so far. Even though QP gave quite some delays to their term lifters, it seems it has no effect to the rather tight vessel situation. The market is now awaiting ADNOC and Aramco acceptances, and only after this, they will decide on their position and whether they will need to charter in or potentially relet their tonnage. The current Baltic (Ras Tanura to Chiba) is closing in on 900,000 per month yesterday, and with the overall tight market situation, we do expect further increase of rates, and T/C/E will probably pass the 1-million-dollar-mark shortly. Last time similar levels were discussed is back in February 2016. In the West, the market is equally tight. This is also somewhat fuelled by the current problems with Fog in the US Gulf area, which creates significant delays that in turn eat up much of the shipping length. Although there are quite some people off attending an on-going industry function in Houston this week, it does not seem this have affected the market activity too much. We have seen a few fixtures this week for both mid- and end May loading, both out of the Gulf and the East coast. Levels have been steadily moving upwards, and as per last done rates, the ships in the West is currently trading in the high USD 900’s per month, reflecting a premium of about 8-10% on the transpacific route.
+The Eastern VLGC market has tightened up significantly over the past few days, as there are almost no available vessels until the early parts of May. We see more and more inquiries for early May liftings already, although so far only QP and KPC have announced their cargo acceptances so far. Even though QP gave quite some delays to their term lifters, it seems it has no effect to the rather tight vessel situation. The market is now awaiting ADNOC and Aramco acceptances, and only after this, they will decide on their position and whether they will need to charter in or potentially relet their tonnage. The current Baltic (Ras Tanura to Chiba) is closing in on 900,000 per month yesterday, and with the overall tight market situation, we do expect further increase of rates, and T/C/E will probably pass the 1-million-dollar-mark shortly. Last time similar levels were discussed is back in February 2016.
+In the West, the market is equally tight. This is also somewhat fuelled by the current problems with Fog in the US Gulf area, which creates significant delays that in turn eat up much of the shipping length. Although there are quite some people off attending an on-going industry function in Houston this week, it does not seem this have affected the market activity too much. We have seen a few fixtures this week for both mid- and end May loading, both out of the Gulf and the East coast. Levels have been steadily moving upwards, and as per last done rates, the ships in the West is currently trading in the high USD 900’s per month, reflecting a premium of about 8-10% on the transpacific route.
 
 ---

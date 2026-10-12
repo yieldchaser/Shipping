@@ -6,7 +6,7 @@ week: 10
 date_range: "2020-03-02 to 2020-03-04"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 16:51:07"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 10, 2020
@@ -91,14 +91,27 @@ The current market remains rather bearish with shipping rates seen dipping week 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-03-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Saudi Aramco has set Mar CP at $430 for Propane and $480 for Butane, down by 15% and 12% respectively compared to Feb.  April CP tumbled to 330s after Mar CP set, but edged up afterwards and at the moment traded at $370, with Butane at $45 higher. Whether April CP can continuously stand firm remains a question, as some Chinese has acquired tariff exemption to import US origin cargos.  Qatar Petroleum has released April acceptance with over two weeks’ delay being reported.  One early April equal ratio cargo is said to change hand at April CP plus small premium.   FAR EAST: Active window this week with plenty of bids for April delivery propane. One 23kt propane for 2h April delivery was traded at Apr FEI plus $19, equivalence at Apr CP plus $16. 1H April appears short as delays caused by foggy weather, and some sellers are holding back till have clear picture on shipping program.   Biggest news this week is Chinese has started applied for US tariff exemptions and at least 12 major players in China have already granted on such approval. We expect the discussing premium level to come off as of flexible import origin and less origin swap demand, except for freight saving otherwise.  Importers especially PDH users have started to inquire for April propane, which exerts the tightness on 1h April supply. One SChina PDH has bought 23k propane for mid-April delivery at Apr CP plus high 50s reportedly, and one EChina PDH tendered to buy 23k propane for early April delivery, which tender is yet to close.   Indonesia Pertamina has awarded buy tender for 22/22 mid-April delivery heard at April CP plus low 40s, and India IOC also tendered to buy two parcels of 22/22 for April delivery.
+MEG:
+Saudi Aramco has set Mar CP at $430 for Propane and $480 for Butane, down by 15% and 12% respectively compared to Feb. 
+April CP tumbled to 330s after Mar CP set, but edged up afterwards and at the moment traded at $370, with Butane at $45 higher. Whether April CP can continuously stand firm remains a question, as some Chinese has acquired tariff exemption to import US origin cargos. 
+Qatar Petroleum has released April acceptance with over two weeks’ delay being reported. 
+One early April equal ratio cargo is said to change hand at April CP plus small premium.
+
+FAR EAST:
+Active window this week with plenty of bids for April delivery propane. One 23kt propane for 2h April delivery was traded at Apr FEI plus $19, equivalence at Apr CP plus $16. 1H April appears short as delays caused by foggy weather, and some sellers are holding back till have clear picture on shipping program. 
+
+Biggest news this week is Chinese has started applied for US tariff exemptions and at least 12 major players in China have already granted on such approval. We expect the discussing premium level to come off as of flexible import origin and less origin swap demand, except for freight saving otherwise. 
+Importers especially PDH users have started to inquire for April propane, which exerts the tightness on 1h April supply. One SChina PDH has bought 23k propane for mid-April delivery at Apr CP plus high 50s reportedly, and one EChina PDH tendered to buy 23k propane for early April delivery, which tender is yet to close. 
+
+Indonesia Pertamina has awarded buy tender for 22/22 mid-April delivery heard at April CP plus low 40s, and India IOC also tendered to buy two parcels of 22/22 for April delivery.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-03-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: The 3.6 million barrel draw reported by the EIA did little to upset the Mt. Belvieu propane market Wednesday, following a volatile week. Discussions for April FOB cargos are now underway as the few remaining March spot cargos traded hands this week at levels reported as high as MB +13.5cpg. As freight for Houston /Chiba has come off, with fixtures being reported below the $100/t level April is shaping up to be actively traded- as demand in China has shown small signs of life following corona virus induced dormancy. High demand for US East coast tons, both propane and butane will garnish a lot of attention as Marcus Hook seller will begin to market their April cargos eminently. Even though US inventories stand at approximately 35 percent greater levels than last year, there is some discussion of tight Q3 and Q4 belvieu as production seems to have flattened out, a sentiment echoed around the NGL OPIS summit held in San Diego this week.
+AMERICAS:
+The 3.6 million barrel draw reported by the EIA did little to upset the Mt. Belvieu propane market Wednesday, following a volatile week. Discussions for April FOB cargos are now underway as the few remaining March spot cargos traded hands this week at levels reported as high as MB +13.5cpg. As freight for Houston /Chiba has come off, with fixtures being reported below the $100/t level April is shaping up to be actively traded- as demand in China has shown small signs of life following corona virus induced dormancy. High demand for US East coast tons, both propane and butane will garnish a lot of attention as Marcus Hook seller will begin to market their April cargos eminently. Even though US inventories stand at approximately 35 percent greater levels than last year, there is some discussion of tight Q3 and Q4 belvieu as production seems to have flattened out, a sentiment echoed around the NGL OPIS summit held in San Diego this week.
 
 ---
 
@@ -106,13 +119,21 @@ AMERICAS: The 3.6 million barrel draw reported by the EIA did little to upset th
 ### SnP Weekly Comment
 **Date:** 2020-03-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Euronav making another counter-cyclical move for a fourth newbuilding VLCC resale with delivery in Q1 2021.  This is an exact sister to the three newbuilding resales it recently acquired, and with the Covid-19 outbreak now edging closer to a global pandemic, such later delivery may prove to be an advantage.  The jury is still out as to how values for older crude tankers will develop but the sense of urgency to buy early-to-mid 2000 built units is temporarily gone.  Whilst there are still buyers around we see a downside risk for values.   For product tankers, values are mostly holding up and we will continue to see a steady flow of transactions.  Sellers of larger dry sizes are opting to take a step back amidst the prevailing wide bid/ask spread.  Ultra-/supramax and handysize values are more balanced with ditto higher transaction volume.
+Euronav making another counter-cyclical move for a fourth newbuilding VLCC resale with delivery in Q1 2021.  This is an exact sister to the three newbuilding resales it recently acquired, and with the Covid-19 outbreak now edging closer to a global pandemic, such later delivery may prove to be an advantage.  The jury is still out as to how values for older crude tankers will develop but the sense of urgency to buy early-to-mid 2000 built units is temporarily gone.  Whilst there are still buyers around we see a downside risk for values.   For product tankers, values are mostly holding up and we will continue to see a steady flow of transactions.
+
+Sellers of larger dry sizes are opting to take a step back amidst the prevailing wide bid/ask spread.  Ultra-/supramax and handysize values are more balanced with ditto higher transaction volume.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-03-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST This week saw the VLGC market in the West continue to weaken, with Houston/Chiba premiums coming off to a discount to the Baltic. Owners generally feel there should be a few more uncovered inquiries remaining in March in the USG, but with roughly 10 ships open in the rest of the month, it remains to be seen whether there will be as many cargoes to cull freight length before the April fixing window. Indeed, a few players have already begun tentative talks for April, so it seems there could be some continued pressure on rates moving forward.  On the other hand, there has reportedly been rapid progress this week with Chinese companies being granted waivers for importing US-origin product from as early as April. Provided the Chinese workforce returns to work sometime soon, this could be the impetus needed to clear out some of those open positions. At the same time, US East Coast output is expected to increase by a decent number of cargoes per month, and this could also be a factor in the potential firming of the market.   EAST We have started to see more activity in the East after some dull weeks, and a few ships were taken out for voyages into India, and some also disappearing under COAs. A couple of ships have been fixed to Indian majors, and this extra demand has been helpful to Owners. Nevertheless, we are still in a situation where each deal has been done at a discount to the other as shipping availability remains long. The market has struggled to find a floor, and we expect this trend to continue in the short term unless we see a significant change to vessel demand.
+WEST
+This week saw the VLGC market in the West continue to weaken, with Houston/Chiba premiums coming off to a discount to the Baltic. Owners generally feel there should be a few more uncovered inquiries remaining in March in the USG, but with roughly 10 ships open in the rest of the month, it remains to be seen whether there will be as many cargoes to cull freight length before the April fixing window. Indeed, a few players have already begun tentative talks for April, so it seems there could be some continued pressure on rates moving forward.
+
+On the other hand, there has reportedly been rapid progress this week with Chinese companies being granted waivers for importing US-origin product from as early as April. Provided the Chinese workforce returns to work sometime soon, this could be the impetus needed to clear out some of those open positions. At the same time, US East Coast output is expected to increase by a decent number of cargoes per month, and this could also be a factor in the potential firming of the market. 
+
+EAST
+We have started to see more activity in the East after some dull weeks, and a few ships were taken out for voyages into India, and some also disappearing under COAs. A couple of ships have been fixed to Indian majors, and this extra demand has been helpful to Owners. Nevertheless, we are still in a situation where each deal has been done at a discount to the other as shipping availability remains long. The market has struggled to find a floor, and we expect this trend to continue in the short term unless we see a significant change to vessel demand.
 
 ---

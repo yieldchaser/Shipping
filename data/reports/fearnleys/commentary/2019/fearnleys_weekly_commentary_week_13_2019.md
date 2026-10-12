@@ -6,7 +6,7 @@ week: 13
 date_range: "2019-03-27 to 2019-03-28"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 16:51:06"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 13, 2019
@@ -84,14 +84,23 @@ Aframax rates in the Nsea and Baltic took a big hit this week as activity slowed
 ### LNG Market Report
 **Date:** 2019-03-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Despite wider uncertainty in the short term outlook of the cargo market due to oversupply, with some referencing output shutdowns as a consequence, multi-month charter rates remain buoyant.  Record imports persist into Europe not only from the US but also from Middle East and Africa which are struggling to find demand in the Middle East, China and the Far East. Despite the weak voyage length fundamentals spot levels this week have risen modestly off the latest floor and may signal the first signs of an upward trend.  Owners and Charterers will convene in Shanghai next week at the LNG19 conference with many discussions focusing the forward outlook which sees a variety of influencing factors, shut-ins, commissioning, summer cargo demand and yard prices. 2019 has plenty of variable elements to consider and it is this backdrop that appears to be fueling an array of forward views. The order-book grew again this week by 1 with the quoted price at 191M USD, a tick up from last done and likely to continue. In summary, short term fundamentals look weak but improving throughout the year with potential for huge volatility.
+Despite wider uncertainty in the short term outlook of the cargo market due to oversupply, with some referencing output shutdowns as a consequence, multi-month charter rates remain buoyant.  Record imports persist into Europe not only from the US but also from Middle East and Africa which are struggling to find demand in the Middle East, China and the Far East. Despite the weak voyage length fundamentals spot levels this week have risen modestly off the latest floor and may signal the first signs of an upward trend. 
+Owners and Charterers will convene in Shanghai next week at the LNG19 conference with many discussions focusing the forward outlook which sees a variety of influencing factors, shut-ins, commissioning, summer cargo demand and yard prices. 2019 has plenty of variable elements to consider and it is this backdrop that appears to be fueling an array of forward views. The order-book grew again this week by 1 with the quoted price at 191M USD, a tick up from last done and likely to continue. In summary, short term fundamentals look weak but improving throughout the year with potential for huge volatility.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-03-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG： The intermonth CP value is still in a heavily backwardated structure. April/May remains at $45-50 while May/June now stands at $15-20.  At time of writing, April Propane CP is traded at 507$, and butane stands at $20 higher. Cargoes which can make within April delivery are being favored and discussed at teens premium. Freight has soared to above $40, as plenty of vessels are lining up outside US and limited tonnage showing open in the AG gulf.    FAR EAST: Front market is extremely tight, with a handful of cargoes being delayed due to the Houston ship channel closure. On Wednesday 23kt propane for 2h April arrival was traded at Apr FEI plus $50, and a similar cargo for 1h May arrival was concluded at May FEI plus $40. Some traders have continue trying to arrange time swaps to secure tons with delivery within April.  Indonesia’s Pertamina have issued tenders to secure two split-ratio cargoes for 1h May delivery, while BPCL also tendered to buy similar cargos for 1h/mid-May delivery. Results of these are yet to be known.   Most Chinese importers are exploring cargos for 1h May arrival, even so there are still some prompt inquiries for April delivery. Sellers are hesitant showing offers because of heavy backwardations.  As MEG supply is short, Chinese players have turned to some other origins. Our shiptrack shows around 500k tons Iranian origin cargoes discharge into China within the month of March, which is the highest on record in the recent past. April volume is expected to be slightly smaller as less floating cargoes are available.
+MEG：
+The intermonth CP value is still in a heavily backwardated structure. April/May remains at $45-50 while May/June now stands at $15-20. 
+At time of writing, April Propane CP is traded at 507$, and butane stands at $20 higher. Cargoes which can make within April delivery are being favored and discussed at teens premium. Freight has soared to above $40, as plenty of vessels are lining up outside US and limited tonnage showing open in the AG gulf. 
+
+FAR EAST:
+Front market is extremely tight, with a handful of cargoes being delayed due to the Houston ship channel closure. On Wednesday 23kt propane for 2h April arrival was traded at Apr FEI plus $50, and a similar cargo for 1h May arrival was concluded at May FEI plus $40. Some traders have continue trying to arrange time swaps to secure tons with delivery within April. 
+Indonesia’s Pertamina have issued tenders to secure two split-ratio cargoes for 1h May delivery, while BPCL also tendered to buy similar cargos for 1h/mid-May delivery. Results of these are yet to be known.  
+Most Chinese importers are exploring cargos for 1h May arrival, even so there are still some prompt inquiries for April delivery. Sellers are hesitant showing offers because of heavy backwardations. 
+As MEG supply is short, Chinese players have turned to some other origins. Our shiptrack shows around 500k tons Iranian origin cargoes discharge into China within the month of March, which is the highest on record in the recent past. April volume is expected to be slightly smaller as less floating cargoes are available.
 
 ---
 
@@ -106,6 +115,8 @@ The winter is over, the absolute price of propane is falling, and this combined 
 ### Chartering Weekly Comment
 **Date:** 2019-03-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The freight market in the Atlantic basin has continued its upward trend. Seemingly, April liftings are covered by now and as a result of scarce vessels availability going into May, we have seen a number of fixtures concluded for first half May at rates ranging from around USD 70 to high USD 70s per ton basis Houston/Chiba and around mid/high USD 30’s per ton basis Houston/Flushing. We expect this fixing trend to continue and more fixtures will be done in view of the upcoming industry event next week.  The bullish sentiment on freight from last week continues, as healthy shipping demand from the West is keeping the Eastern spot fleet availability tight. Last done deal in the MEG was done at very low $40 Baltic, and time of writing there are still a couple of uncovered cargos for last decade April loading. There is also an expectation of a few more requirements from Indian Charterers, and we expect the bullish sentiment on freight to continue into next month.
+The freight market in the Atlantic basin has continued its upward trend. Seemingly, April liftings are covered by now and as a result of scarce vessels availability going into May, we have seen a number of fixtures concluded for first half May at rates ranging from around USD 70 to high USD 70s per ton basis Houston/Chiba and around mid/high USD 30’s per ton basis Houston/Flushing. We expect this fixing trend to continue and more fixtures will be done in view of the upcoming industry event next week.
+
+The bullish sentiment on freight from last week continues, as healthy shipping demand from the West is keeping the Eastern spot fleet availability tight. Last done deal in the MEG was done at very low $40 Baltic, and time of writing there are still a couple of uncovered cargos for last decade April loading. There is also an expectation of a few more requirements from Indian Charterers, and we expect the bullish sentiment on freight to continue into next month.
 
 ---

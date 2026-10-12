@@ -6,7 +6,7 @@ week: 45
 date_range: "2025-11-05 to 2025-11-07"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 16:51:14"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 45, 2025
@@ -55,7 +55,13 @@ The West remains extremely short on tonnage, with this tightness reflected in ag
 ### Aframax Weekly Comment
 **Date:** 2025-11-05 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea  A small downward correction for the local North Sea runs was fixed yesterday as a market quote put a bit of pressure on the owners. More vessels are ballasting towards USG/ECC and some of them might keep an eye on any Mediterranean enquiries as well. Rates in the North Sea are expected to hover around last-done levels give or take some points depending on the voyage in question.   Mediterranean  Local runs in the Mediterranean have experienced a small downward correction this week. Dates keep being pushed forward as charterers are taking the chances on tight itineraries that can result in replacement jobs. Tonnage list remains balanced but at the same time there aren't that many candidates which are ticking all boxes, so sideways with a firm sentiment depending on cargo dates.
+North Sea
+
+A small downward correction for the local North Sea runs was fixed yesterday as a market quote put a bit of pressure on the owners. More vessels are ballasting towards USG/ECC and some of them might keep an eye on any Mediterranean enquiries as well. Rates in the North Sea are expected to hover around last-done levels give or take some points depending on the voyage in question. 
+
+Mediterranean
+
+Local runs in the Mediterranean have experienced a small downward correction this week. Dates keep being pushed forward as charterers are taking the chances on tight itineraries that can result in replacement jobs. Tonnage list remains balanced but at the same time there aren't that many candidates which are ticking all boxes, so sideways with a firm sentiment depending on cargo dates.
 
 ---
 
@@ -70,7 +76,13 @@ The bubbling momentum in the spot markets for loadings through the end of Novemb
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-11-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Despite limited spot trades, cash premium for Dec AG FOB, particularly 2/2 grade, stands firm. BPCL issued tender to buy Nov or Dec split cargo, either FOB or CFR, but was heard no Nov offer received but Dec stems only and asking at CP plus teens. By the time of writing, Nov CP was traded at $464 and Nov C3/C4 at $9.   Netbacks for FOB ex US on Dec lifting declined, with ARB to EAST narrowing down against soaring freight. Terminal fee for Dec spot was assessed at around 5cpg however under downward pressure, as CFR Asian market being traded at deep discounts.   A 23/0 parcel for 1h Dec delivery basis Chiba was traded in window at Dec MOPJ minus $86, which equates to Dec FEI minus $6. A 4/0 parcel for 1h Dec delivery was bid at Bal Nov FEI minus $7, which equates to Dec FEI minus around $15. Outside window a flurry of spot buy tenders for late Nov/Dec delivered propane are ongoing. Jinneng was reported to award two cargos, with one at Dec FEI minus mid high single for US origin, while the other at Dec FEI plus 30s for Non-US origin. FIC cancelled their buy tender for Ningbo PDH as offers are higher than expected in view of weakening downstream margins. Kingfa procured one cargo for 1h Dec delivery into Panjin at Dec FEI minus mid-single and issued another tender to secure 2/0 or 4/0 for 1h Dec delivery into Ningbo. The shrinking propane/propylene spread has led to some PDH shutdown or rate cuts, due to negative economics.   China has announced that it will suspend the additional 24% tariff imposed on US goods for one year, while maintaining 10% levies. Chinese importers have reconsidered taking US cargos in latest tenders, if the cost with 10% additional tariff levied is more competitive than non-us stems. Meanwhile, the global shipping market remained unsettled, as market players are still cautiously awaiting the official announcement on US-China port fee truce.
+Despite limited spot trades, cash premium for Dec AG FOB, particularly 2/2 grade, stands firm. BPCL issued tender to buy Nov or Dec split cargo, either FOB or CFR, but was heard no Nov offer received but Dec stems only and asking at CP plus teens. By the time of writing, Nov CP was traded at $464 and Nov C3/C4 at $9. 
+
+Netbacks for FOB ex US on Dec lifting declined, with ARB to EAST narrowing down against soaring freight. Terminal fee for Dec spot was assessed at around 5cpg however under downward pressure, as CFR Asian market being traded at deep discounts. 
+
+A 23/0 parcel for 1h Dec delivery basis Chiba was traded in window at Dec MOPJ minus $86, which equates to Dec FEI minus $6. A 4/0 parcel for 1h Dec delivery was bid at Bal Nov FEI minus $7, which equates to Dec FEI minus around $15. Outside window a flurry of spot buy tenders for late Nov/Dec delivered propane are ongoing. Jinneng was reported to award two cargos, with one at Dec FEI minus mid high single for US origin, while the other at Dec FEI plus 30s for Non-US origin. FIC cancelled their buy tender for Ningbo PDH as offers are higher than expected in view of weakening downstream margins. Kingfa procured one cargo for 1h Dec delivery into Panjin at Dec FEI minus mid-single and issued another tender to secure 2/0 or 4/0 for 1h Dec delivery into Ningbo. The shrinking propane/propylene spread has led to some PDH shutdown or rate cuts, due to negative economics. 
+
+China has announced that it will suspend the additional 24% tariff imposed on US goods for one year, while maintaining 10% levies. Chinese importers have reconsidered taking US cargos in latest tenders, if the cost with 10% additional tariff levied is more competitive than non-us stems. Meanwhile, the global shipping market remained unsettled, as market players are still cautiously awaiting the official announcement on US-China port fee truce.
 
 ---
 
@@ -78,13 +90,19 @@ Despite limited spot trades, cash premium for Dec AG FOB, particularly 2/2 grade
 ### SnP Weekly Comment
 **Date:** 2025-11-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Barhi week will take centre stage over the next week, and in general owners will be attending with smiles on their faces given the sustaining strength in the tanker market. Liquidity on modern ships has slowed yet continues, with Tankerska purchasing Scrubber fitted LR2 PLATANOS (114K DWT Namura 2019). Elsewhere in the product space, an active week for Scorpio with the announcement of the sale of 4x 2014 blt scrubber fitted MR units to Torm and the acquisition of 4x scrubber fitted MR resales from Jingjjiang Nanyang shipbuilding.    Much of the market were in Hamburg this week for Eisbein, where there is a mix of optimism and excitement for the next dry market run. Despite this optimism, there is still a disconnect between asset prices and earnings. New candidates in the market are expected to beat last done, and owners will not be rushed into accepting the first bid that comes their way. Competition is particularly rife within the c.15yo supramax sector, where eight sales were reported this week. Scrubber fitted Capesize SEAUNITY (181K DWT Koyo 2010) was sold for USD 30.5M, helping price an abundance of candidates in this area of the market.
+Barhi week will take centre stage over the next week, and in general owners will be attending with smiles on their faces given the sustaining strength in the tanker market. Liquidity on modern ships has slowed yet continues, with Tankerska purchasing Scrubber fitted LR2 PLATANOS (114K DWT Namura 2019). Elsewhere in the product space, an active week for Scorpio with the announcement of the sale of 4x 2014 blt scrubber fitted MR units to Torm and the acquisition of 4x scrubber fitted MR resales from Jingjjiang Nanyang shipbuilding. 
+ 
+Much of the market were in Hamburg this week for Eisbein, where there is a mix of optimism and excitement for the next dry market run. Despite this optimism, there is still a disconnect between asset prices and earnings. New candidates in the market are expected to beat last done, and owners will not be rushed into accepting the first bid that comes their way. Competition is particularly rife within the c.15yo supramax sector, where eight sales were reported this week. Scrubber fitted Capesize SEAUNITY (181K DWT Koyo 2010) was sold for USD 30.5M, helping price an abundance of candidates in this area of the market.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2025-11-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST Market activity has slowed noticeably since yesterday, with no new freight enquiries in the market. After last week’s sharp rate increases, we are now seeing signs of a stabilising market. East spot fixing for late November may still have a few uncovered cargoes in store, but the current spot count is trailing monthly averages by 7 to 8 fixtures. As it stands, November is shaping up to fall below average.  WEST Momentum from last week’s strong fixing activity has carried into this week, with 9 spot fixtures and 2 COA deals already concluded. Rates continue to firm, climbing another $12/mt, pushing TCE earnings to approximately $65,000/day on a standard VLGC. With only two vessels remaining open for November, the market is tight. We now count 36 spot fixtures for November and an impressive 17 already booked for December loading. Given the limited tonnage and sustained demand, market levels are expected to remain steady to firm in the near term.
+EAST
+Market activity has slowed noticeably since yesterday, with no new freight enquiries in the market. After last week’s sharp rate increases, we are now seeing signs of a stabilising market. East spot fixing for late November may still have a few uncovered cargoes in store, but the current spot count is trailing monthly averages by 7 to 8 fixtures. As it stands, November is shaping up to fall below average.
+
+WEST
+Momentum from last week’s strong fixing activity has carried into this week, with 9 spot fixtures and 2 COA deals already concluded. Rates continue to firm, climbing another $12/mt, pushing TCE earnings to approximately $65,000/day on a standard VLGC. With only two vessels remaining open for November, the market is tight. We now count 36 spot fixtures for November and an impressive 17 already booked for December loading. Given the limited tonnage and sustained demand, market levels are expected to remain steady to firm in the near term.
 
 ---

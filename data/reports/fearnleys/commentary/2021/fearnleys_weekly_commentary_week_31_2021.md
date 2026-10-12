@@ -6,7 +6,7 @@ week: 31
 date_range: "2021-08-02 to 2021-08-03"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:34"
+generated_at: "2026-10-12 16:51:09"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 31, 2021
@@ -84,21 +84,42 @@ Activity in the area was moderate for another week as bigger sizes and relets ha
 ### LNG Market Report
 **Date:** 2021-08-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-We have seen a slight increase in shipping activity this week as momentum starts to build up for winter.  Movements were predominately East of Suez and a decent amount of fixtures were concluded at rates in line with recent market levels.  On the contrary, the Atlantic remains relatively subdued as the lack of cargoes and close arbitrage restrict any potential West – East trades. Nevertheless, expectations leading towards Q4 and the lack of prompt availability in the West have also seen minimum changes on the recent Atlantic rates.  Furthermore, there are still ongoing discussions between market participants interested in securing multi months for winter coverage or short term. With limited ships available from independent Owners, stronger sentiments and rates are anticipated going forward.  We have increase our newbuild prices to USD 200 million as shipyards are reporting stronger activity. In recent reports, Newbuilding options were also exercised from previous orders.
+We have seen a slight increase in shipping activity this week as momentum starts to build up for winter. 
+Movements were predominately East of Suez and a decent amount of fixtures were concluded at rates in line with recent market levels. 
+On the contrary, the Atlantic remains relatively subdued as the lack of cargoes and close arbitrage restrict any potential West – East trades. Nevertheless, expectations leading towards Q4 and the lack of prompt availability in the West have also seen minimum changes on the recent Atlantic rates. 
+Furthermore, there are still ongoing discussions between market participants interested in securing multi months for winter coverage or short term. With limited ships available from independent Owners, stronger sentiments and rates are anticipated going forward. 
+We have increase our newbuild prices to USD 200 million as shipyards are reporting stronger activity. In recent reports, Newbuilding options were also exercised from previous orders.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2021-08-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Despite the drastic drop in oil price, Sep C3 CP was traded resiliently at $654, and C4 at $6 cheaper, reflecting the tightness in general supply, coupled by the delays caused by Panama congestion. Sep/Oct CP was traded at flattish to small contango. Qatar Petroleum issued sale tender for 1-5th Sep lifting 45k propane, which is due next week.  FAR EAST Earlier a handful of full cargo propane for 1h Sep delivery were changed hand at Sep FEI minus around $1 reportedly, while half cargo propane parcel for 2h Sep delivery was concluded at Sep FEI plus $1 at mid-week. Evenly split cargo was bid at higher premium, as 11/11 parcel was bid at Sep FEI plus $8 but yet to trigger sellers’ interests. Off window Petchem demand inquires remain robust, despite the poor margin. Several tenders were awarded reportedly for either PDH or cracking feedstock. One EChina PDH user was said to have purchased two lots of 23k propane parcels for 1h and mid Sep delivery into Ningbo at the value of CP plus low 30s. One Korean cracker user was reported to award their buy tender for 23k butane for 1h Sep delivery at Mopj plus high teens. A Vietnam based PDH user secured one full cargo propane for 11-25th Sep delivery at CP plus mid high 20s via tender reportedly.
+MEG
+Despite the drastic drop in oil price, Sep C3 CP was traded resiliently at $654, and C4 at $6 cheaper, reflecting the tightness in general supply, coupled by the delays caused by Panama congestion. Sep/Oct CP was traded at flattish to small contango. Qatar Petroleum issued sale tender for 1-5th Sep lifting 45k propane, which is due next week.
+
+FAR EAST
+Earlier a handful of full cargo propane for 1h Sep delivery were changed hand at Sep FEI minus around $1 reportedly, while half cargo propane parcel for 2h Sep delivery was concluded at Sep FEI plus $1 at mid-week. Evenly split cargo was bid at higher premium, as 11/11 parcel was bid at Sep FEI plus $8 but yet to trigger sellers’ interests. Off window Petchem demand inquires remain robust, despite the poor margin. Several tenders were awarded reportedly for either PDH or cracking feedstock. One EChina PDH user was said to have purchased two lots of 23k propane parcels for 1h and mid Sep delivery into Ningbo at the value of CP plus low 30s. One Korean cracker user was reported to award their buy tender for 23k butane for 1h Sep delivery at Mopj plus high teens. A Vietnam based PDH user secured one full cargo propane for 11-25th Sep delivery at CP plus mid high 20s via tender reportedly.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2021-08-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-NWE  An offer was seen in the window which equated to September CIF ARA -$2.5pmt. This was the first bit of action seen in over a week. The offer changed the view that the market is leaning towards being balanced rather than tight. On the back of VLGCs loaded in the US heading to the region in early Sept. Butane saw a bid in the window and is at 95% September naphtha, though this is a moving target due to crude volatility. Petchem demand has come off significantly due to planned maintenances being carried out and importantly forward pro/nap values go from a meagre -$18pmt September moving to an unfavorable +$2pmt by December. The temperatures are cooler than seasonal averages though this is not expected to create enough demand to change the market outlook in the short term.  MED The region has been starved of tons with the arb from the US remaining closed. This has helped drive demand for locally sourced tons, FOB Lavera values particularly strong for summer. Both the East and West Mediterranean are tight of LPG Mix and butane.  AMERICAS  With many out of the office on holiday, the MB propane market continues to trudge along in the 1.08-1.09/gal range, though all the while the level of concern related to propane stock levels in the U.S. is increasing.   Wednesday’s EIA report showed a 1.5mmbbl build, putting overall total US propane inventories at an even 66mmbbls.   This includes, though, a 300,000bbl decline in PADD III (Gulf Coast) stocks and puts this year at 76% of the 86.7mmbbls recorded at the same time in 2020, and 81% of the 79.3mmbbls achieved in early August 2019.   There are around 10 weeks remaining in the traditional stock ‘build’ season, and to reach 80mmbbls another 14mmbbls of inventory growth is needed – or 1.4mmbbls (on average) per week.   The overarching question – and the source of the concern – is whether this will be a sufficient volume to accommodate domestic needs (crop drying + res/com + petrochemical) and overwater export requirements.   Meanwhile, terminal fees continue sitting between 5.00 and 5.25cpg, depending on location, timing, and ratio.  A host of mixed-ratio re-sellers have begun to emerge, and while there are full-propane cargoes available, the Ethane/Propane pricing differential issue continues to dissuade the terminals themselves from entering the fray at competitive price levels.
+NWE 
+An offer was seen in the window which equated to September CIF ARA -$2.5pmt. This was the first bit of action seen in over a week. The offer changed the view that the market is leaning towards being balanced rather than tight. On the back of VLGCs loaded in the US heading to the region in early Sept. Butane saw a bid in the window and is at 95% September naphtha, though this is a moving target due to crude volatility. Petchem demand has come off significantly due to planned maintenances being carried out and importantly forward pro/nap values go from a meagre -$18pmt September moving to an unfavorable +$2pmt by December. The temperatures are cooler than seasonal averages though this is not expected to create enough demand to change the market outlook in the short term.
+
+MED
+The region has been starved of tons with the arb from the US remaining closed. This has helped drive demand for locally sourced tons, FOB Lavera values particularly strong for summer. Both the East and West Mediterranean are tight of LPG Mix and butane.
+
+AMERICAS 
+With many out of the office on holiday, the MB propane market continues to trudge along in the 1.08-1.09/gal range, though all the while the level of concern related to propane stock levels in the U.S. is increasing.
+ 
+Wednesday’s EIA report showed a 1.5mmbbl build, putting overall total US propane inventories at an even 66mmbbls.   This includes, though, a 300,000bbl decline in PADD III (Gulf Coast) stocks and puts this year at 76% of the 86.7mmbbls recorded at the same time in 2020, and 81% of the 79.3mmbbls achieved in early August 2019.
+ 
+There are around 10 weeks remaining in the traditional stock ‘build’ season, and to reach 80mmbbls another 14mmbbls of inventory growth is needed – or 1.4mmbbls (on average) per week.   The overarching question – and the source of the concern – is whether this will be a sufficient volume to accommodate domestic needs (crop drying + res/com + petrochemical) and overwater export requirements.
+ 
+Meanwhile, terminal fees continue sitting between 5.00 and 5.25cpg, depending on location, timing, and ratio.  A host of mixed-ratio re-sellers have begun to emerge, and while there are full-propane cargoes available, the Ethane/Propane pricing differential issue continues to dissuade the terminals themselves from entering the fray at competitive price levels.
 
 ---
 
@@ -106,6 +127,11 @@ NWE  An offer was seen in the window which equated to September CIF ARA -$2.5pmt
 ### Chartering Weekly Comment
 **Date:** 2021-08-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST We have seen close to 20 spot deals concluded from the Middle East in August which is well above the usual average seen in previous months. A majority of these deals have been done by Indian majors, but we have also seen various traders booking ships for last decade August since last week. Initially, some of these deals were done in the low 40s Baltic, but as the Western premium continue to rise on the back of a more active US market, owners are not there to consider anything less that mid-low 40s in the MEG at the moment. Time of writing there are 2 uncovered Indian cargos for end August, and meanwhile we are still waiting for further September acceptances before we can start to focus on next month’s program.  WEST In the Western hemisphere, vessel supply has cleared out for August and thus, all eyes are on September.  Freight rates are showing signs of improvement from last week’s concluded deals, albeit the September market is date dependant to some extent. Current rates are hovering around mid USD 80’s on Houston/Chiba basis and mid to mid/low USD 40s Houston/Flushing basis. Increasing waiting time for South- and Northbound transits through the Panama Canal seems to be putting a lid on freight. We are bound to see more deals concluded for September ex USG and there is potential for further increases in rates due to amongst others various inefficiencies, however, it all depends on the product market.
+EAST
+We have seen close to 20 spot deals concluded from the Middle East in August which is well above the usual average seen in previous months. A majority of these deals have been done by Indian majors, but we have also seen various traders booking ships for last decade August since last week. Initially, some of these deals were done in the low 40s Baltic, but as the Western premium continue to rise on the back of a more active US market, owners are not there to consider anything less that mid-low 40s in the MEG at the moment. Time of writing there are 2 uncovered Indian cargos for end August, and meanwhile we are still waiting for further September acceptances before we can start to focus on next month’s program.
+
+WEST
+In the Western hemisphere, vessel supply has cleared out for August and thus, all eyes are on September. 
+Freight rates are showing signs of improvement from last week’s concluded deals, albeit the September market is date dependant to some extent. Current rates are hovering around mid USD 80’s on Houston/Chiba basis and mid to mid/low USD 40s Houston/Flushing basis. Increasing waiting time for South- and Northbound transits through the Panama Canal seems to be putting a lid on freight. We are bound to see more deals concluded for September ex USG and there is potential for further increases in rates due to amongst others various inefficiencies, however, it all depends on the product market.
 
 ---

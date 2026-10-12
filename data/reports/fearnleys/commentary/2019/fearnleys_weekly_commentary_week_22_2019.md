@@ -6,7 +6,7 @@ week: 22
 date_range: "2019-05-27 to 2019-06-01"
 comments_count: 19
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 16:51:06"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 22, 2019
@@ -91,7 +91,20 @@ We are a few days away from June, which will mark the beginning of the Northern 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-05-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: The highlight of the week was the announcement of Saudi Contract Prices for June of $430 for Propane and $415 for Butane. At the time of announcement, this was more or less in line with expectations. However, as the week have moved on, it become obvious that there are/were substantial unsold FOB volumes still to be placed. These volumes are from producers and from traders as well Some of these have now been cleared but at large discounts to CP, ranging from high single digit to high teen’s. This price dive has been aided by the continued strength in the VLGC freights. Arriving in the office Monday morning, we were presented with a near contango situation for the balance of the year but this quickly changed whereby backwardation has once again reared it’s ugly head, especially so for Butane. It is reported that Iran LPG export volumes this month will reach 550 kt, or more.   FAR EAST: It has not really been an active trading week, tough some deals were concluded. A WAF origin cargo was sold into East China for 1st half July arrival and a window deal for 23 kt c3 1st half June at June FEI plus 8 was done. These deals are more or less representative of the market developments this week. While these deals point to a CP netback of lower than minus 20, it should not surprise anyone that this downward pressure on CFR values more than likely will continue for some time. The realization that slowing increase in demand from the 2 biggest import markets, combined with continued strong Iranian exports and new volumes from US, Canada and Australia, mean that Eastern markets are very well supplied.
+MEG:
+The highlight of the week was the announcement of Saudi Contract Prices for June of $430 for Propane and $415 for Butane.
+At the time of announcement, this was more or less in line with expectations.
+However, as the week have moved on, it become obvious that there are/were substantial unsold FOB volumes still to be placed. These volumes are from producers and from traders as well
+Some of these have now been cleared but at large discounts to CP, ranging from high single digit to high teen’s.
+This price dive has been aided by the continued strength in the VLGC freights.
+Arriving in the office Monday morning, we were presented with a near contango situation for the balance of the year but this quickly changed whereby backwardation has once again reared it’s ugly head, especially so for Butane.
+It is reported that Iran LPG export volumes this month will reach 550 kt, or more.
+
+FAR EAST:
+It has not really been an active trading week, tough some deals were concluded.
+A WAF origin cargo was sold into East China for 1st half July arrival and a window deal for 23 kt c3 1st half June at June FEI plus 8 was done. These deals are more or less representative of the market developments this week.
+While these deals point to a CP netback of lower than minus 20, it should not surprise anyone that this downward pressure on CFR values more than likely will continue for some time.
+The realization that slowing increase in demand from the 2 biggest import markets, combined with continued strong Iranian exports and new volumes from US, Canada and Australia, mean that Eastern markets are very well supplied.
 
 ---
 
@@ -106,7 +119,12 @@ The US propane inventories showed an unexpected drawdown today of 100,000 barrel
 ### Chartering Weekly Comment
 **Date:** 2019-05-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST  Shipping markets in the West has continued firming this week with freight rates now being concluded in the low USD 100’s pmt East and mid USD 50’s pmt West for end June and early July loadings.  The position list is dominated by the main Owners for 1st decade July so we expect freight to remain tight. The current high earnings for Owners seen over the last couple of months has caught the whole market by surprise, and nobody anticipated that we could be seeing above USD 1.5 million per month. But as long as the US Gulf terminals are experiencing challenging conditions with large delays, shipping will remain tight and freight rates will stay strong. Focus is now on 1st decade July as June is close to fully booked.  EAST East shipping availability is tight for June. A couple inquiries in 2nd decade June and some MEG FOB tenders received some attention. Thus, Baltic is now back to above the USD 60 pmt mark. We start to see more trader re-lets in 3rd decade June and subsequently, the question is how many cargoes are left for end June.
+WEST 
+Shipping markets in the West has continued firming this week with freight rates now being concluded in the low USD 100’s pmt East and mid USD 50’s pmt West for end June and early July loadings. 
+The position list is dominated by the main Owners for 1st decade July so we expect freight to remain tight. The current high earnings for Owners seen over the last couple of months has caught the whole market by surprise, and nobody anticipated that we could be seeing above USD 1.5 million per month. But as long as the US Gulf terminals are experiencing challenging conditions with large delays, shipping will remain tight and freight rates will stay strong. Focus is now on 1st decade July as June is close to fully booked.
+
+EAST
+East shipping availability is tight for June. A couple inquiries in 2nd decade June and some MEG FOB tenders received some attention. Thus, Baltic is now back to above the USD 60 pmt mark. We start to see more trader re-lets in 3rd decade June and subsequently, the question is how many cargoes are left for end June.
 
 ---
 

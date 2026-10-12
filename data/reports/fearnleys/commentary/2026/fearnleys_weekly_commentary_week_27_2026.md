@@ -6,7 +6,7 @@ week: 27
 date_range: "2026-07-01 to 2026-07-03"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 27, 2026
@@ -55,7 +55,11 @@ Whilst the Middle East remains opaque supply & demand in the West are all workin
 ### Aframax Weekly Comment
 **Date:** 2026-07-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea North Sea so far this week has seen almost no Aframax activity. The first decade of July is almost covered with a combination of Suez and relets taking what was on paper a light decade stem wise. Rates will be tested by charterers. Surrounding markets have been steady although not overly inspiring for owners. Ballasting out of the North Sea if you have missed the dates is still the option to take.  Mediterranean One step forward two steps back feels to be the situation for the Mediterranean market where activity remains healthy, tonnage list has shortened in a way but still a bunch of vessels prompt. Days keep pushing ahead and we slowly reaching mid-July dates for all ports. As a correction is expected or rumoured done already in the US market, the future doesn't look promising for European markets either.
+North Sea
+North Sea so far this week has seen almost no Aframax activity. The first decade of July is almost covered with a combination of Suez and relets taking what was on paper a light decade stem wise. Rates will be tested by charterers. Surrounding markets have been steady although not overly inspiring for owners. Ballasting out of the North Sea if you have missed the dates is still the option to take.
+
+Mediterranean
+One step forward two steps back feels to be the situation for the Mediterranean market where activity remains healthy, tonnage list has shortened in a way but still a bunch of vessels prompt. Days keep pushing ahead and we slowly reaching mid-July dates for all ports. As a correction is expected or rumoured done already in the US market, the future doesn't look promising for European markets either.
 
 ---
 
@@ -71,7 +75,9 @@ As many had feared, hopes for resumed safe passage through the Strait of Hormuz 
 ### SnP Weekly Comment
 **Date:** 2026-07-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The tanker market continues its watchful approach to the second-hand space in the aftermath of a fragile reopening of the Strait of Hormuz. Owners will be tested through the remainder of the 60-day MOU, where volumes are unlikely to move much. Rates in general are coming under downward pressure, with crude buyers not rushing to replenish in the short term. Across the clean market, particularly in the Atlantic, MR rates have returned to normal levels following an intensely profitable period, as lower volumes result in ships outweighing the number of cargoes available. This week Y/Knot emerged as buyers of LR2 JAG LOKESH (105K dwt HHI 2009) for USD 44.1M.   The dry market is providing the liquidity this week, albeit at levels that give a cautious feel. The global macro situation, despite a lower oil price potentially helping the outlook, is still very unpredictable. Rising interest rates and a much-speculated over-inflated stock market will cast some doubt into the minds of buyers, which could fuel a bearish feel to the market. That said there is still plenty of opportunity for those willing to invest at these levels. This week, ADNOC bought SS passed HAATO (61K dwt Shin Kasado 2011) for USD 23.5M.
+The tanker market continues its watchful approach to the second-hand space in the aftermath of a fragile reopening of the Strait of Hormuz. Owners will be tested through the remainder of the 60-day MOU, where volumes are unlikely to move much. Rates in general are coming under downward pressure, with crude buyers not rushing to replenish in the short term. Across the clean market, particularly in the Atlantic, MR rates have returned to normal levels following an intensely profitable period, as lower volumes result in ships outweighing the number of cargoes available. This week Y/Knot emerged as buyers of LR2 JAG LOKESH (105K dwt HHI 2009) for USD 44.1M.
+ 
+The dry market is providing the liquidity this week, albeit at levels that give a cautious feel. The global macro situation, despite a lower oil price potentially helping the outlook, is still very unpredictable. Rising interest rates and a much-speculated over-inflated stock market will cast some doubt into the minds of buyers, which could fuel a bearish feel to the market. That said there is still plenty of opportunity for those willing to invest at these levels. This week, ADNOC bought SS passed HAATO (61K dwt Shin Kasado 2011) for USD 23.5M.
 
 ---
 

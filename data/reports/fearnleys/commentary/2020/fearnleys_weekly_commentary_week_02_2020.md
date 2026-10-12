@@ -6,7 +6,7 @@ week: 2
 date_range: "2020-01-06 to 2020-01-08"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 16:51:07"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 02, 2020
@@ -91,14 +91,25 @@ It seems that the 2020 business year effectively only started this week as the m
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-01-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Swap price is riding a roller coaster, as new year starts with uncertainties between Iran and US.  Earlier this week, Feb CP spiked up to $565 but rapidly plunged to $505 on Thurs, following the crude.  Qatar Petroleum has released Feb acceptances with delays reported from 5 to 12 days. Since most lifters nominated for early Feb laycan to avoid heavy backwardations, which assessed at $50 at the time of writing. QP has tendered to sell a 24/27th Feb lifting full propane cargo, which due at 14th Jan.  Other than this, limited FOB offers were seen, as lifters concerning acceptances for Adnoc and Saudi. The FEB FOB value ranges from small discounts to teens premium, subject to the loading laycan and ratio.   FAR EAST:  A handful of propane delivered in Feb into Japan/Korea are concluded this week. Premium starts higher early this week, with deals traded at Feb FEI plus 53$ for 1H Feb and $45 for 2h Feb, later declined to $40 mid-week. Despite the softening premium, Far East market still appears strong with MB/FEI arb opens wide, which props up the discussions on terminal fee premium for US fob liftings.  Moreover, continued tightness in Non-Us origin supply has buoyed up market sentiments. Several Chinese PDHs have carried out or going to have maintenance, partly due to negative margins and partly in lack of feedstocks. Offers for equal ratio cargos during 2h Feb delivery into China were heard at Feb CP plus 90s, whilst propane offers barely seen.  Indian HPCL has a term inquiry for 6 plus 3 optional equal ratio cargoes for 2020, which is reportedly still under negotiation. BPCL has issued buy tender to secure 800kt 50/50 ratio cargos from Mar 2020 to 2021, close by 20th Jan.   Indonesia PERTAMINA issued buy tender to secure two equal ratio cargos delivered in mid FEB several times, with nothing being awarded reportedly.
+MEG:
+Swap price is riding a roller coaster, as new year starts with uncertainties between Iran and US.  Earlier this week, Feb CP spiked up to $565 but rapidly plunged to $505 on Thurs, following the crude. 
+Qatar Petroleum has released Feb acceptances with delays reported from 5 to 12 days. Since most lifters nominated for early Feb laycan to avoid heavy backwardations, which assessed at $50 at the time of writing. QP has tendered to sell a 24/27th Feb lifting full propane cargo, which due at 14th Jan. 
+Other than this, limited FOB offers were seen, as lifters concerning acceptances for Adnoc and Saudi. The FEB FOB value ranges from small discounts to teens premium, subject to the loading laycan and ratio. 
+
+FAR EAST: 
+A handful of propane delivered in Feb into Japan/Korea are concluded this week. Premium starts higher early this week, with deals traded at Feb FEI plus 53$ for 1H Feb and $45 for 2h Feb, later declined to $40 mid-week. Despite the softening premium, Far East market still appears strong with MB/FEI arb opens wide, which props up the discussions on terminal fee premium for US fob liftings.
+
+Moreover, continued tightness in Non-Us origin supply has buoyed up market sentiments. Several Chinese PDHs have carried out or going to have maintenance, partly due to negative margins and partly in lack of feedstocks. Offers for equal ratio cargos during 2h Feb delivery into China were heard at Feb CP plus 90s, whilst propane offers barely seen. 
+Indian HPCL has a term inquiry for 6 plus 3 optional equal ratio cargoes for 2020, which is reportedly still under negotiation. BPCL has issued buy tender to secure 800kt 50/50 ratio cargos from Mar 2020 to 2021, close by 20th Jan.  
+Indonesia PERTAMINA issued buy tender to secure two equal ratio cargos delivered in mid FEB several times, with nothing being awarded reportedly.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-01-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: Mt Belvieu propane prices remain at 30% of WTI. This is due to global uncertainty caused to the US-Iran situation. Which meant the unexpected build of 690 000 barrel in propane inventories did not have the bearish affect on Mt Belvieu prices you would usually expect to see. US inventories are now at 88.9 million, 29% above this week last year and 17% higher than the 5 year average. We have seen Mt Belvieu Non-LST January propane discounted by 2cpg to LST January propane. This disparity has been attributed to very high production, and export capacity constraints leading to a glut of product in the caverns. The stratospheric rise US terminalling fees over the past few months, with recent January and February FOB slots being sold above 30cpg, is showing signs of slowing down for the first time. The US-FEI arb has narrowed and this coupled with rising freight rates form the region has eroded netback values.
+AMERICAS:
+Mt Belvieu propane prices remain at 30% of WTI. This is due to global uncertainty caused to the US-Iran situation. Which meant the unexpected build of 690 000 barrel in propane inventories did not have the bearish affect on Mt Belvieu prices you would usually expect to see. US inventories are now at 88.9 million, 29% above this week last year and 17% higher than the 5 year average. We have seen Mt Belvieu Non-LST January propane discounted by 2cpg to LST January propane. This disparity has been attributed to very high production, and export capacity constraints leading to a glut of product in the caverns. The stratospheric rise US terminalling fees over the past few months, with recent January and February FOB slots being sold above 30cpg, is showing signs of slowing down for the first time. The US-FEI arb has narrowed and this coupled with rising freight rates form the region has eroded netback values.
 
 ---
 
@@ -106,13 +117,25 @@ AMERICAS: Mt Belvieu propane prices remain at 30% of WTI. This is due to global 
 ### SnP Weekly Comment
 **Date:** 2020-01-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The amazing earnings have ignited the tanker S&P market with particularly modern, scrubber fitted crude tankers hot commodity.   It comes as no surprise that sellers’ price ideas for modern/brand new tankers are finally being met.  Deal of the week being Hartree’s sale of a scrubber-fitted VLCC newbuilding with delivery ex DSME in January for usd 106 mill.  The buyer is reported to be a new joint venture between George Economou, Idan Ofer and the Norwegian investor Øystein Stray Spetalen.  One more VLCC resale is also rumoured sold by Hartree to Korean buyers at same level. The price is about 8% up on last done which was Hunter’s sale of a sister newbuilding to Korean buyers at usd 98 mill in June 2019. The last time VLCC’s were sold at similar levels was in 2014 when Gener8 acquired 4 newbuilding contracts from Scorpio at usd 105 mill each, albeit with delivery in 2016.  More deals for very modern, scrubber fitted tankers are in the making.  The dry case remains challenging and values are coming off.  Increased sales activity for supra- and panamax at lower levels with prices arguably down by usd 1-1.5 mill since December.   For capesize the present bid/ask spread is hampering sales activity.  CAPE AGNES 180k built 2010 Koyo is, for example, reported to have seen region usd 20 mill but sellers have yet to bite the bullet.
+The amazing earnings have ignited the tanker S&P market with particularly modern, scrubber fitted crude tankers hot commodity.   It comes as no surprise that sellers’ price ideas for modern/brand new tankers are finally being met.  Deal of the week being Hartree’s sale of a scrubber-fitted VLCC newbuilding with delivery ex DSME in January for usd 106 mill.  The buyer is reported to be a new joint venture between George Economou, Idan Ofer and the Norwegian investor Øystein Stray Spetalen.  One more VLCC resale is also rumoured sold by Hartree to Korean buyers at same level. The price is about 8% up on last done which was Hunter’s sale of a sister newbuilding to Korean buyers at usd 98 mill in June 2019. The last time VLCC’s were sold at similar levels was in 2014 when Gener8 acquired 4 newbuilding contracts from Scorpio at usd 105 mill each, albeit with delivery in 2016.  More deals for very modern, scrubber fitted tankers are in the making.
+
+The dry case remains challenging and values are coming off.  Increased sales activity for supra- and panamax at lower levels with prices arguably down by usd 1-1.5 mill since December.   For capesize the present bid/ask spread is hampering sales activity.  CAPE AGNES 180k built 2010 Koyo is, for example, reported to have seen region usd 20 mill but sellers have yet to bite the bullet.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-01-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST  Happy New Year!   It seems market participants have returned following the Christmas break reinvigorated and ready to tie up any loose ends from before the Christmas break. As such, the VLGC market has been much more active in the West this week than it has been over the final few weeks of 2019. Much of the freight length which had been open relatively prompt in Jan has been fixed out, and owners are beginning to feel emboldened to ask for higher rates which they believe to be justified by incredibly strong netbacks and a tightening freight market.   On the other hand, an increasing number of traders are looking to relet their tonnage, and it is possible this could prevent rates from running away too quickly. In addition, some players have already indicated that they will send their vessels west on the back of turbulence in the Middle East. It’s worth noting that, although this could put pressure on western rates in the short term, it will ultimately mean a longer tonne-mile and therefore is beneficial to those who own vessels.    EAST  We have seen a couple of January cargoes fixed this week all around latest Baltic, although recent developments in the Middle East has created a lot of uncertainty for the way forward. With that said, some players with tonnage currently positioned in the east are saying it is preferable to head west given the strong premium there and the risk of escalated conflict. The QP acceptances for February were announced end of last week where mostly seeing delays, and we expect dates from Adnoc and Aramco to be out next week. So we probably will not see much fixing activity for February program until next week onwards.
+WEST
+
+Happy New Year! 
+
+It seems market participants have returned following the Christmas break reinvigorated and ready to tie up any loose ends from before the Christmas break. As such, the VLGC market has been much more active in the West this week than it has been over the final few weeks of 2019. Much of the freight length which had been open relatively prompt in Jan has been fixed out, and owners are beginning to feel emboldened to ask for higher rates which they believe to be justified by incredibly strong netbacks and a tightening freight market. 
+
+On the other hand, an increasing number of traders are looking to relet their tonnage, and it is possible this could prevent rates from running away too quickly. In addition, some players have already indicated that they will send their vessels west on the back of turbulence in the Middle East. It’s worth noting that, although this could put pressure on western rates in the short term, it will ultimately mean a longer tonne-mile and therefore is beneficial to those who own vessels.  
+
+EAST
+
+We have seen a couple of January cargoes fixed this week all around latest Baltic, although recent developments in the Middle East has created a lot of uncertainty for the way forward. With that said, some players with tonnage currently positioned in the east are saying it is preferable to head west given the strong premium there and the risk of escalated conflict. The QP acceptances for February were announced end of last week where mostly seeing delays, and we expect dates from Adnoc and Aramco to be out next week. So we probably will not see much fixing activity for February program until next week onwards.
 
 ---

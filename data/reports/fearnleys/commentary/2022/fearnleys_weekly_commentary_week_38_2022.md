@@ -6,7 +6,7 @@ week: 38
 date_range: "2022-09-19 to 2022-09-23"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:36"
+generated_at: "2026-10-12 16:51:11"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 38, 2022
@@ -91,14 +91,27 @@ LNG prices remain elevated on the prompt but further down the curve, the contang
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2022-09-19 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Despite the crude rise, Oct C3 CP slumped to $602 and C4 at $569 at the time of writing. Oct C3/C4 narrowed down from last week’s close to $40 to low $30s this week. However, evenly split cargo is still oversupplied, especially we’ve seen a handful of spot cargos available from middle east producers.   FAR EAST Cash premium for Oct delivered have continuously improved for propane parcels. Several cargos for 2h Oct delivery were changed hand, with full cargo lot of 46kt traded at Oct FEI minus mid-teens, or Oct FEI minus mid high single digit into Echina, and half cargo lot of 23kt at Oct FEI minus $8ish. Subsequently, 23kt propane for 2h Oct delivery was offered at FEI minus $4. Nevertheless, butane cargos are less favored. We’ve seen trader offering 23kt butane for 2h Oct at Oct FEI minus high 30s in the window, and several Oct delivered evenly split cargos are struggling to find home into EAST.   Off window still quite active with several tenders been awarded. Taiwan CPC was reported to buy the last decade Oct delivered 11/11 parcel from a Chinese Major at Oct CP plus low 40s via tender. And one Vietnam PDH user was said to procure an Oct delivered full propane cargo from another Chinese Major at CP plus 30s. One NChina importer didn’t award their buy tender for 46kt propane for 10-31st Oct delivery reportedly. One European trader just tendered to buy a evenly split cargo for 2h Oct delivery into India. And outside tender, we’ve hearing another EChina importer are inquired privately for a 23kt propane for 2h Oct delivery.
+MEG
+Despite the crude rise, Oct C3 CP slumped to $602 and C4 at $569 at the time of writing. Oct C3/C4 narrowed down from last week’s close to $40 to low $30s this week. However, evenly split cargo is still oversupplied, especially we’ve seen a handful of spot cargos available from middle east producers.
+ 
+FAR EAST
+Cash premium for Oct delivered have continuously improved for propane parcels. Several cargos for 2h Oct delivery were changed hand, with full cargo lot of 46kt traded at Oct FEI minus mid-teens, or Oct FEI minus mid high single digit into Echina, and half cargo lot of 23kt at Oct FEI minus $8ish. Subsequently, 23kt propane for 2h Oct delivery was offered at FEI minus $4. Nevertheless, butane cargos are less favored. We’ve seen trader offering 23kt butane for 2h Oct at Oct FEI minus high 30s in the window, and several Oct delivered evenly split cargos are struggling to find home into EAST.
+ 
+Off window still quite active with several tenders been awarded. Taiwan CPC was reported to buy the last decade Oct delivered 11/11 parcel from a Chinese Major at Oct CP plus low 40s via tender. And one Vietnam PDH user was said to procure an Oct delivered full propane cargo from another Chinese Major at CP plus 30s. One NChina importer didn’t award their buy tender for 46kt propane for 10-31st Oct delivery reportedly. One European trader just tendered to buy a evenly split cargo for 2h Oct delivery into India. And outside tender, we’ve hearing another EChina importer are inquired privately for a 23kt propane for 2h Oct delivery.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2022-09-19 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS The US showed another large build of 3.3 million barrels in the weekly propane inventories putting the total above 80 million barrels for the first time this year. The 81.1 million barrels now in inventories should end any concern of having enough product to cover the upcoming winter demand. Unfortunately for US exporters the big price drop went hand in hand with NWE and Asian prices,  keeping the export market pegged to the 4 cent per gallon level for October. Going forward the ever increasing freight market combined with the lack luster Chinese market is keeping a floor on terminaling fees. In South America, Gasmar covered their November CFR requirement from a Turkish Trader at what was labeled “A very competitive offer.”  NWE  The sentiment in the NWE large cargo market has tightened some in the last week and many traders anticipate more is to come - sighting petrochemical demand and colder weather.  The increased demand has allowed European arb economics to beat levels shown by far east participants- as Asian PDH margins continue to flounder. The Butane price in Northwest Europe still sits at 100 percent of Naphtha- but has softened some week on week as Mediterranean buyers ( present in the market last week) have gone away.  MED October interest in them med has picked up steam- at least directionally- as Europe's limited refinery supplies will likely not be enough to satisfy all around demand as winter looms. However, it's understood that if and when the region does tighten up- US origin VLGC's will quickly fill the void, limiting how tight the market can really get.
+AMERICAS
+The US showed another large build of 3.3 million barrels in the weekly propane inventories putting the total above 80 million barrels for the first time this year. The 81.1 million barrels now in inventories should end any concern of having enough product to cover the upcoming winter demand. Unfortunately for US exporters the big price drop went hand in hand with NWE and Asian prices,  keeping the export market pegged to the 4 cent per gallon level for October. Going forward the ever increasing freight market combined with the lack luster Chinese market is keeping a floor on terminaling fees. In South America, Gasmar covered their November CFR requirement from a Turkish Trader at what was labeled “A very competitive offer.”
+
+NWE 
+The sentiment in the NWE large cargo market has tightened some in the last week and many traders anticipate more is to come - sighting petrochemical demand and colder weather.  The increased demand has allowed European arb economics to beat levels shown by far east participants- as Asian PDH margins continue to flounder. The Butane price in Northwest Europe still sits at 100 percent of Naphtha- but has softened some week on week as Mediterranean buyers ( present in the market last week) have gone away.
+
+MED
+October interest in them med has picked up steam- at least directionally- as Europe's limited refinery supplies will likely not be enough to satisfy all around demand as winter looms. However, it's understood that if and when the region does tighten up- US origin VLGC's will quickly fill the void, limiting how tight the market can really get.
 
 ---
 
@@ -106,13 +119,21 @@ AMERICAS The US showed another large build of 3.3 million barrels in the weekly 
 ### SnP Weekly Comment
 **Date:** 2022-09-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-A relatively quiet week in the dry market as sentiment remains largely unchanged, even with the sale of Capesize FRONTIER TRIUMPH 2012 Imabari at USD 30.0m to Chinese interests. Players in smaller segments are patiently waiting for a corrective sale, which would help price the increasing number of candidates being placed in the market. That said, owners are still enjoying a bump in earnings, so are in no rush to sell themselves short. The sale of Kamsarmax NORD CORONA 2019 Hantong for USD 29.0m will not go unnoticed, setting a renewed benchmark in the sector.  Tanker owners are still very much enjoying the upward momentum, particularly by those who perhaps took a position a few years ago at what is now considered a very attractive entry point on the price curve. More modern tonnage is attracting attention too with some owners entertaining the idea of a potential sale at substantially higher targets. A revision that is not yet met by buyers who are yet to feel comfortable with these fast-moving levels.
+A relatively quiet week in the dry market as sentiment remains largely unchanged, even with the sale of Capesize FRONTIER TRIUMPH 2012 Imabari at USD 30.0m to Chinese interests. Players in smaller segments are patiently waiting for a corrective sale, which would help price the increasing number of candidates being placed in the market. That said, owners are still enjoying a bump in earnings, so are in no rush to sell themselves short. The sale of Kamsarmax NORD CORONA 2019 Hantong for USD 29.0m will not go unnoticed, setting a renewed benchmark in the sector.
+
+Tanker owners are still very much enjoying the upward momentum, particularly by those who perhaps took a position a few years ago at what is now considered a very attractive entry point on the price curve. More modern tonnage is attracting attention too with some owners entertaining the idea of a potential sale at substantially higher targets. A revision that is not yet met by buyers who are yet to feel comfortable with these fast-moving levels.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2022-09-19 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST The Indian majors have been at the center of activity so far this week, but we are now seeing several other players moving on freight for dates further into both mid and end October on the back of rising freight rates. With last non-Indian deal done at mid/high-70s RT/C we are at the time of writing approximately 15 spot fixtures concluded for October dates. We expect Eastern freight rates to remain strong.   WEST This week we have seen freight rates continue to push upwards with last done deal concluded at mid 120 H/C and high 60s H/F for early November dates. Although focus have shifted towards this period there are still a few vessels left open in October as we have seen close to 40 spot fixtures for that month.    Going forward, vessel supply looks very tight and with bad weather both sides of US, in addition to Panama congestions increasing, it will make scheduling more difficult.
+EAST
+The Indian majors have been at the center of activity so far this week, but we are now seeing several other players moving on freight for dates further into both mid and end October on the back of rising freight rates. With last non-Indian deal done at mid/high-70s RT/C we are at the time of writing approximately 15 spot fixtures concluded for October dates. We expect Eastern freight rates to remain strong. 
+
+WEST
+This week we have seen freight rates continue to push upwards with last done deal concluded at mid 120 H/C and high 60s H/F for early November dates. Although focus have shifted towards this period there are still a few vessels left open in October as we have seen close to 40 spot fixtures for that month.  
+
+Going forward, vessel supply looks very tight and with bad weather both sides of US, in addition to Panama congestions increasing, it will make scheduling more difficult.
 
 ---

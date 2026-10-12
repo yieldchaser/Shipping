@@ -6,7 +6,7 @@ week: 12
 date_range: "2026-03-18 to 2026-03-20"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 12, 2026
@@ -55,7 +55,11 @@ West Africa supply remains nuanced, with a low ownership spread, several relets 
 ### Aframax Weekly Comment
 **Date:** 2026-03-18 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea After a brief correction last week North Sea bounced back almost straight away with a busy end to last week. Natural dates have moved towards end month with a limited amount left to cover in March. With US and Mediterranean markets remaining interesting, rates have remained steady in the North Sea, even with the limited activity we have seen so far this week. At the returns the Aframax markets are providing in the current window, waiting time is a big consideration and will also influence owners to ballast out for longer sustained returns whilst limiting downtime.  Mediterranean Market in the Mediterranean/Black Sea remains steady and firm with WS 340 being the go-to rate for medium-large local flat rates. Window has pushed out to end-month now and we will be sold-out of March cargo before the end of this week. The list remains thin but with ballasters from the North Sea expected to join the party. Steady as it goes rate wise with very healthy returns for owners.
+North Sea
+After a brief correction last week North Sea bounced back almost straight away with a busy end to last week. Natural dates have moved towards end month with a limited amount left to cover in March. With US and Mediterranean markets remaining interesting, rates have remained steady in the North Sea, even with the limited activity we have seen so far this week. At the returns the Aframax markets are providing in the current window, waiting time is a big consideration and will also influence owners to ballast out for longer sustained returns whilst limiting downtime.
+
+Mediterranean
+Market in the Mediterranean/Black Sea remains steady and firm with WS 340 being the go-to rate for medium-large local flat rates. Window has pushed out to end-month now and we will be sold-out of March cargo before the end of this week. The list remains thin but with ballasters from the North Sea expected to join the party. Steady as it goes rate wise with very healthy returns for owners.
 
 ---
 
@@ -70,7 +74,9 @@ Market volatility has eased this week, perhaps as the reality of a prolonged con
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2026-03-19 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Oil and gas prices surged amid escalating strikes on key energy infrastructure in the Middle East. At the time of writing, April CP was traded at $620 for C3, with the C3/C4 spread assessed at $5. FEI spiked up on heightened supply concerns after Targa declared force majeure, with delays reportedly ranging from 7 to 10 days. April FEI was traded at $1,010, with the April/May FEI spread at $160 latest. Following this, US-FAR EAST arbitrage widened significantly to over $500 for Apr and over $400 for May in extreme volatility. One late Apr lifting full propane cargo was reported being traded at 42 cpg.  U.S. propane/propylene inventories rose by 810,000 barrels to 72.5 million barrels in the week ended 13rd Mar, leaving stocks remained 67.2% higher year on year.  In window one 23/0 parcel for 1h May delivery basis Chiba was bid at Apr FEI plus $30, and similar parcel for 2h May bid at May FEI plus $130, while no offers seen. Several petchem players with term supply and spot supplement in existing inventory continue to maintain run, max out downstream yields, and captured front margins; while the others plan to carry out maintenance or take a wait-n-see approach before procuring spot in later Apr or May as downstream price yet to keep pace with the surge in feedstock costs.
+Oil and gas prices surged amid escalating strikes on key energy infrastructure in the Middle East. At the time of writing, April CP was traded at $620 for C3, with the C3/C4 spread assessed at $5. FEI spiked up on heightened supply concerns after Targa declared force majeure, with delays reportedly ranging from 7 to 10 days. April FEI was traded at $1,010, with the April/May FEI spread at $160 latest. Following this, US-FAR EAST arbitrage widened significantly to over $500 for Apr and over $400 for May in extreme volatility. One late Apr lifting full propane cargo was reported being traded at 42 cpg.  U.S. propane/propylene inventories rose by 810,000 barrels to 72.5 million barrels in the week ended 13rd Mar, leaving stocks remained 67.2% higher year on year.
+
+In window one 23/0 parcel for 1h May delivery basis Chiba was bid at Apr FEI plus $30, and similar parcel for 2h May bid at May FEI plus $130, while no offers seen. Several petchem players with term supply and spot supplement in existing inventory continue to maintain run, max out downstream yields, and captured front margins; while the others plan to carry out maintenance or take a wait-n-see approach before procuring spot in later Apr or May as downstream price yet to keep pace with the surge in feedstock costs.
 
 ---
 
@@ -78,7 +84,9 @@ Oil and gas prices surged amid escalating strikes on key energy infrastructure i
 ### SnP Weekly Comment
 **Date:** 2026-03-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-There is no such thing as an uneventful week in the tanker market at the moment, as this week it has emerged that MSC/Sinokor have dipped their toe into the Suezmax market. It is as yet unknown whether this is just a toe, or indeed if the ship owning giant is set to make a similar splash like it did in the VLCC market this year. The Suezmax space will be much more difficult to ‘corner’ due to its fragmented nature but given the aggressivity of MSC/Sinokor seen so far this year, it would be shortsighted to write off such a play. Elsewhere, vintage J19 BUM SHIN (19K DWT Shin Kurushima Akitsu 2003) was sold for USD 7.5M.  Activity across the dry second-hand market remains slightly subdued, with ever-increasing uncertainty in long term macro sentiment, so long as the conflict in the Middle East continues. That said, buyers are closely watching which vessels are made available for sale, with quality Japanese tonnage at the top of everyone’s wish lists. This week, buyers fought it out for MG MERCURY (84K DWT Imabari 2016) with a rumoured 6 names in the mix. The ship was eventually sold for USD 28.5M, basis surveys due in August 2026.
+There is no such thing as an uneventful week in the tanker market at the moment, as this week it has emerged that MSC/Sinokor have dipped their toe into the Suezmax market. It is as yet unknown whether this is just a toe, or indeed if the ship owning giant is set to make a similar splash like it did in the VLCC market this year. The Suezmax space will be much more difficult to ‘corner’ due to its fragmented nature but given the aggressivity of MSC/Sinokor seen so far this year, it would be shortsighted to write off such a play. Elsewhere, vintage J19 BUM SHIN (19K DWT Shin Kurushima Akitsu 2003) was sold for USD 7.5M.
+
+Activity across the dry second-hand market remains slightly subdued, with ever-increasing uncertainty in long term macro sentiment, so long as the conflict in the Middle East continues. That said, buyers are closely watching which vessels are made available for sale, with quality Japanese tonnage at the top of everyone’s wish lists. This week, buyers fought it out for MG MERCURY (84K DWT Imabari 2016) with a rumoured 6 names in the mix. The ship was eventually sold for USD 28.5M, basis surveys due in August 2026.
 
 ---
 

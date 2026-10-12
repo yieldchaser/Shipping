@@ -6,7 +6,7 @@ week: 37
 date_range: "2026-09-09 to 2026-09-11"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 37, 2026
@@ -33,7 +33,9 @@ After several weeks of steady gains the Panamax market has levelled off, with th
 ### Supramax Weekly Comment
 **Date:** 2026-09-09 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
 
-The Handy market remained stable, and even firmed up a touch, with a healthy balance between supply and demand. Activity was mainly focused on spot and short-period employment, with owners generally able to remain selective. Touch positive bias, provided grain programs and other minor bulk cargoes continue at current levels. Balanced tonnage availability should, however, keep freight gains measured.  The Supramax/Ultramax market showed a slightly firmer tone during the week, supported by improving activity in the Atlantic and steady demand in the Pacific. Owners remained selective, while charterers continued to show some resistance on rates. Overall sentiment is constructive but balanced. Recent gains suggest some tightening in the Atlantic, while adequate tonnage availability in Asia is limiting stronger upside.
+The Handy market remained stable, and even firmed up a touch, with a healthy balance between supply and demand. Activity was mainly focused on spot and short-period employment, with owners generally able to remain selective. Touch positive bias, provided grain programs and other minor bulk cargoes continue at current levels. Balanced tonnage availability should, however, keep freight gains measured.
+
+The Supramax/Ultramax market showed a slightly firmer tone during the week, supported by improving activity in the Atlantic and steady demand in the Pacific. Owners remained selective, while charterers continued to show some resistance on rates. Overall sentiment is constructive but balanced. Recent gains suggest some tightening in the Atlantic, while adequate tonnage availability in Asia is limiting stronger upside.
 
 ---
 
@@ -41,14 +43,14 @@ The Handy market remained stable, and even firmed up a touch, with a healthy bal
 ### VLCC Weekly Comment
 **Date:** 2026-09-09 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-The VLCC positions list is now so tight that no one would be too surprised if we see the W400 mark breached for a Fujairah/east for a prompt-ish position before the week is over, crazy as it may sound. Speed blindness does not even begin to describe the current mood. However, the oil still needs to get out through the Strait of Hormuz and Iranians have increased efforts to stop that from happening. It’s a fragile state of affairs. Atlantic/east rates have followed suit as refiners look for supply security regardless of higher oil prices. Ship values have also skyrocketed in tandem with the spot market with reports of new building resales at $200 million- and 16–17-year-olds more than half of that. Fasten seat belts.
+The VLCC positions list is now so tight that no one would be too surprised if we see the WS 400 mark breached for a Fujairah/East run off a prompt-ish position before long, crazy as it may sound. Speed blindness does not even begin to describe the current mood. However, the oil still needs to get out through the Strait of Hormuz and Iranians have increased efforts to stop that from happening. It’s a fragile state of affairs. Atlantic/East rates have followed suit as refiners look for supply security regardless of higher oil prices. Ship values have also skyrocketed in tandem with the spot market with reports of newbuilding resales at USD 200 million- and 16–17-year-olds more than half of that. Fasten seat belts.
 
 ---
 
 ### Suezmax Weekly Comment
 **Date:** 2026-09-09 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-* The majority of the publicly reported WAF cargoes have either fixed away or may have relets to utilise. As a result, we are likely pushing into the 27-30 September fixing window.  * However, despite this shift towards fixing closer to three weeks forward, there is little expectation that activity will slow, with adjacent sizes either already pulling their weight or primed to do so.  * Aframaxes are surging in the Med and, if the physical/paper dynamic is anything to go by, are expected to do the same stateside.  * In addition, and perhaps more significantly, the VLCC market is extremely busy ex-Fujairah and approaching our equivalent with the Atlantic also firming aggressively.  * Regardless of pricing, VLCCs remain under-fixed for the first decade of October ex-WAF, and with this surge in Eastern activity there may be very few units physically capable of interacting with this window, which could inevitably lead to cargo splitting and increased Suezmax utilisation. * To top it all off, CPC stems should be released imminently, and there are reports of attacks on terminal infrastructure and vessels, which will almost certainly result in higher premiums.
+The majority of the publicly reported West Africa cargoes have either fixed away or may have relets to utilise. As a result, we are likely pushing into the 27-30 September fixing window. However, despite this shift towards fixing closer to three weeks forward, there is little expectation that activity will slow, with adjacent sizes either already pulling their weight or primed to do so. Aframaxes are surging in the Mediterranean and, if the physical/paper dynamic is anything to go by, are expected to do the same stateside. In addition, and perhaps more significantly, the VLCC market is extremely busy ex-Fujairah and approaching our equivalent with the Atlantic also firming aggressively. Regardless of pricing, VLCCs remain under-fixed for the first decade of October ex-West Africa, and with this surge in Eastern activity there may be very few units physically capable of interacting with this window, which could inevitably lead to cargo splitting and increased Suezmax utilisation. To top it all off, CPC stems should be released imminently, and there are reports of attacks on terminal infrastructure and vessels, which will almost certainly result in higher premiums.
 
 ---
 
@@ -63,7 +65,9 @@ As North Sea Aframax loading dates are now moving into the third decade of Septe
 ### LNG Market Report
 **Date:** 2026-09-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The market has seen an increase in chartering activity across the basins, and this coupled with stronger delivered gas prices has provided some support to sentiment if not yet to rates. Attention is now shifting towards the October fixing window, a time when the market is typically firming rapidly. It is therefore unsurprising that some players seek to capitalize on the persistently weak market conditions to build winter coverage at levels that remain well below those seen earlier in the year. TFDE vessels have continued to face challenges in the spot market, struggling to compete on a UFC basis even for smaller cargo parcels, in part because of the prevalence of 2-stroke availability shown by portfolios.  There are some promising signs for the optimist to point to, including the recent transit of a laden LNGC from Qatar to Pakistan (and signs other Qatari vessels are ballasting towards the Gulf) and a likely uptick in vessels repositioning themselves back to the Atlantic for what lies in store during the Winter season. The outcome of the firm requirements being worked today may shed some light on whether the positive sentiment building will translate into significant rate gains despite the oversupply on fundamentals.
+The market has seen an increase in chartering activity across the basins, and this coupled with stronger delivered gas prices has provided some support to sentiment if not yet to rates. Attention is now shifting towards the October fixing window, a time when the market is typically firming rapidly. It is therefore unsurprising that some players seek to capitalize on the persistently weak market conditions to build winter coverage at levels that remain well below those seen earlier in the year. TFDE vessels have continued to face challenges in the spot market, struggling to compete on a UFC basis even for smaller cargo parcels, in part because of the prevalence of 2-stroke availability shown by portfolios.
+
+There are some promising signs for the optimist to point to, including the recent transit of a laden LNGC from Qatar to Pakistan (and signs other Qatari vessels are ballasting towards the Gulf) and a likely uptick in vessels repositioning themselves back to the Atlantic for what lies in store during the Winter season. The outcome of the firm requirements being worked today may shed some light on whether the positive sentiment building will translate into significant rate gains despite the oversupply on fundamentals.
 
 ---
 
@@ -71,13 +75,17 @@ The market has seen an increase in chartering activity across the basins, and th
 ### SnP Weekly Comment
 **Date:** 2026-09-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The tanker market bonanza continues this week with earnings on large crude tonnage consistently beating last done, sending asset values even further upwards. There is a scramble for prompt ships east of Suez, with willing sellers continuing to set ever higher benchmarks . ONEX have emerged as the latest buyer in this space, being linked to a number of transactions this week, details on which units will likely be uncovered in the coming weeks. Another buyer, KPC, have been reported purchasing scrubber fitted VLCC KALLISTA (317k dwt Hyundai 2010) for a sensational USD 130M. Elsewhere, Hercules picked up LR1 pair MARLIN HESTIA/HERA (74k dwt Sungdong 2017) for USD 49M apiece.   The dry space has been somewhat in the shadow of the tanker market but in continuation of the theme of late, impressive figures are being paid for available units. Owners may consider now a good time to sell, given some uncertainty on the horizon in 2027 from a global geopolitical and meteorological standpoint, as well as anticipated fleet growth. This week GESCO are reported to have bought scrubber fitted BW JAPAN (81k dwt Tsuneishi 2019) at USD 38.5M.
+The tanker market bonanza continues this week with earnings on large crude tonnage consistently beating last done, sending asset values even further upwards. There is a scramble for prompt ships east of Suez, with willing sellers continuing to set ever higher benchmarks . ONEX have emerged as the latest buyer in this space, being linked to a number of transactions this week, details on which units will likely be uncovered in the coming weeks. Another buyer, KPC, have been reported purchasing scrubber fitted VLCC KALLISTA (317k dwt Hyundai 2010) for a sensational USD 130M. Elsewhere, Hercules picked up LR1 pair MARLIN HESTIA/HERA (74k dwt Sungdong 2017) for USD 49M apiece. 
+
+The dry space has been somewhat in the shadow of the tanker market but in continuation of the theme of late, impressive figures are being paid for available units. Owners may consider now a good time to sell, given some uncertainty on the horizon in 2027 from a global geopolitical and meteorological standpoint, as well as anticipated fleet growth. This week GESCO are reported to have bought scrubber fitted BW JAPAN (81k dwt Tsuneishi 2019) at USD 38.5M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2026-09-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The week has been quiet, with events and travel on the agenda for many in the market, and only one fixture reported. While tensions in the Middle East are rising again, in the West the Panama Canal remains a problem, meaning LOTSA slots, Panamaxes and higher-ranking booking codes are increasingly important for secure passage. Cape-only options are also becoming more common as many avoid the passage risk altogether, and recently we have seen a convergence in routing, with Cape and Panama ballasting options now close to equal.   The position list still shows two ships for September dates. October carries 12 ships, split three, eight and one across the three decades. Fixing activity remains limited, but ideas vary between USD 265 and 275 for October dates. So far we have seen 11 fixtures for October, while September fixtures tally 33 to date, just three shy of August.
+The week has been quiet, with events and travel on the agenda for many in the market, and only one fixture reported. While tensions in the Middle East are rising again, in the West the Panama Canal remains a problem, meaning LOTSA slots, Panamaxes and higher-ranking booking codes are increasingly important for secure passage. Cape-only options are also becoming more common as many avoid the passage risk altogether, and recently we have seen a convergence in routing, with Cape and Panama ballasting options now close to equal.
+ 
+The position list still shows two ships for September dates. October carries 12 ships, split three, eight and one across the three decades. Fixing activity remains limited, but ideas vary between USD 265 and 275 for October dates. So far we have seen 11 fixtures for October, while September fixtures tally 33 to date, just three shy of August.
 
 ---

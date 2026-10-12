@@ -6,7 +6,7 @@ week: 6
 date_range: "2019-02-04 to 2019-02-04"
 comments_count: 12
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 16:51:06"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 06, 2019
@@ -84,7 +84,11 @@ As expected, Aframax rates in the N.Sea and Baltic came under downward pressure 
 ### LNG Market Report
 **Date:** 2019-02-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-LNG spot market activity remains muted as Lunar New Year festivities take place in most parts of Asia Pacific and with no arbitrage between the basins. Rates are continuing their descending trend on the back of limited requirements in all basins. In the East, availability keeps growing and although it would seem as a better place to be for an Owner, a few independent Owners are repositioning their open vessels to the Atlantic. In the West, availability is slowly growing as Independent Owners’ positions are joining the existing available sublets. But as a few projects will be commissioning cargoes during Q2, some more activity is indeed expected in the US Gulf. On other news, it is very encouraging for the LNG market to see another major US project getting its FID – Congratulations to the Golden Pass promoters. Yards may continue to be busy building LNG vessels. Second hand prices remain stable and there were no Newbuilding transactions recorded this week.  In the meantime, we wish everyone a Happy Lunar New Year!!
+LNG spot market activity remains muted as Lunar New Year festivities take place in most parts of Asia Pacific and with no arbitrage between the basins. Rates are continuing their descending trend on the back of limited requirements in all basins. In the East, availability keeps growing and although it would seem as a better place to be for an Owner, a few independent Owners are repositioning their open vessels to the Atlantic. In the West, availability is slowly growing as Independent Owners’ positions are joining the existing available sublets. But as a few projects will be commissioning cargoes during Q2, some more activity is indeed expected in the US Gulf.
+On other news, it is very encouraging for the LNG market to see another major US project getting its FID – Congratulations to the Golden Pass promoters. Yards may continue to be busy building LNG vessels.
+Second hand prices remain stable and there were no Newbuilding transactions recorded this week.
+
+In the meantime, we wish everyone a Happy Lunar New Year!!
 
 ---
 

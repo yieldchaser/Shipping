@@ -6,7 +6,7 @@ week: 50
 date_range: "2024-12-11 to 2024-12-13"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:38"
+generated_at: "2026-10-12 16:51:13"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 50, 2024
@@ -48,14 +48,18 @@ The VLCC market has gone from bad to worse in the week gone by with returns now 
 ### Suezmax Weekly Comment
 **Date:** 2024-12-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-Whilst it could be argued that healthy tonnage lists in the Atlantic have conspired to allow charterers a smoother path to competitive rates, an even more compelling argument to support this general lethargy, is the distinct lack of positive sentiment on the owning side. There are exceptions to this of course but unless there is a mad pre-Christmas rush, we envisage rates gently softening.  The East market has been peppered with dribs and drabs of enquiry from the Gulf, but nothing that would signal a reversal in fortunes for now. Steady/soft.
+Whilst it could be argued that healthy tonnage lists in the Atlantic have conspired to allow charterers a smoother path to competitive rates, an even more compelling argument to support this general lethargy, is the distinct lack of positive sentiment on the owning side. There are exceptions to this of course but unless there is a mad pre-Christmas rush, we envisage rates gently softening.
+
+The East market has been peppered with dribs and drabs of enquiry from the Gulf, but nothing that would signal a reversal in fortunes for now. Steady/soft.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2024-12-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-After the inclement weather last weekend, the early part of the week saw a fair amount of replacement activity. The prompt part of the list has been heavily depleted with tonnage ballasting to US markets. Even with the activity and depleted tonnage rates have remained relatively stable although good itinerary vessels are trying to push rate levels with WS 135 done as a replacement off prompt dates. Natural dates now pushing out to end 2nd/early 3rd decade.  An anticipated correction with rates for local Mediterranean runs breaking the floor of WS 140, as owners were on the lookout for opportunities after a couple of prompt vessels opened earlier in the week. Tonnage is looking more balanced now compared to the start of the week but still a healthy amount to choose from. Ballasters over to the States are limited and that seems to be adding a bit to the downward pressure.
+After the inclement weather last weekend, the early part of the week saw a fair amount of replacement activity. The prompt part of the list has been heavily depleted with tonnage ballasting to US markets. Even with the activity and depleted tonnage rates have remained relatively stable although good itinerary vessels are trying to push rate levels with WS 135 done as a replacement off prompt dates. Natural dates now pushing out to end 2nd/early 3rd decade.
+
+An anticipated correction with rates for local Mediterranean runs breaking the floor of WS 140, as owners were on the lookout for opportunities after a couple of prompt vessels opened earlier in the week. Tonnage is looking more balanced now compared to the start of the week but still a healthy amount to choose from. Ballasters over to the States are limited and that seems to be adding a bit to the downward pressure.
 
 ---
 
@@ -70,14 +74,27 @@ Spot chartering activity continues apace as we head into the final weeks of 2024
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2024-12-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG FOB discounts for Jan lifting evenly split cargos deepened further to minus $20, reflecting recent trade discussions with slim buying inquiries. Despite such, Jan CP swaps remained firm, which traded at $630 by the time of writing, and Jan C3/C4 at $5. Jan/Feb CP was traded at $10 backwardation.   FAR EAST Cash differentials for Jan discussion into FAR EAST has edged down to discounted level this week, with a handful of offers available against limited bids. 23/0 for 2h Jan delivery was once traded at Jan FEI minus $1, and it’s expected to slide further as of lengthy supply. 46/0 for 2h Jan delivery into Yantai was bid at Jan FEI minus $3 in window. Off window similar cargo was placed into Qingdao at Jan FEI minus small single digit reportedly, at the equivalence of CP minus mid-teens, as Jan FEI/CP traded at -$16.    A flurry of buy tenders issued this week but only partial awarded. FPCC was reported to cancel buy tender to procure one 46/0 for next Aug delivery into Taiwan, assuming discounts not favorable yet. One SChina PDH player only procured 11kt C3 for Jan delivery at Jan FEI minus low single, despite their original tender asking for 2/0 or 4/0. HTC issued tender to buy 11kt C3 for late Jan delivery. And CPC tendered to buy 11/11 for late Jan delivery as well.  Compared to normal stems, special origin cargos are reckoned to be discussed at least 20 bucks cheaper, especially with three cargos unsold from prompt delivery to 1st week of Jan basis SChina. From our shiptracks, exports into China this year maintained similar at close to 9mmt vs last year, however at more prompt discussion via spot tenders.
+MEG
+FOB discounts for Jan lifting evenly split cargos deepened further to minus $20, reflecting recent trade discussions with slim buying inquiries. Despite such, Jan CP swaps remained firm, which traded at $630 by the time of writing, and Jan C3/C4 at $5. Jan/Feb CP was traded at $10 backwardation. 
+
+FAR EAST
+Cash differentials for Jan discussion into FAR EAST has edged down to discounted level this week, with a handful of offers available against limited bids. 23/0 for 2h Jan delivery was once traded at Jan FEI minus $1, and it’s expected to slide further as of lengthy supply. 46/0 for 2h Jan delivery into Yantai was bid at Jan FEI minus $3 in window. Off window similar cargo was placed into Qingdao at Jan FEI minus small single digit reportedly, at the equivalence of CP minus mid-teens, as Jan FEI/CP traded at -$16.  
+
+A flurry of buy tenders issued this week but only partial awarded. FPCC was reported to cancel buy tender to procure one 46/0 for next Aug delivery into Taiwan, assuming discounts not favorable yet. One SChina PDH player only procured 11kt C3 for Jan delivery at Jan FEI minus low single, despite their original tender asking for 2/0 or 4/0. HTC issued tender to buy 11kt C3 for late Jan delivery. And CPC tendered to buy 11/11 for late Jan delivery as well.
+
+Compared to normal stems, special origin cargos are reckoned to be discussed at least 20 bucks cheaper, especially with three cargos unsold from prompt delivery to 1st week of Jan basis SChina. From our shiptracks, exports into China this year maintained similar at close to 9mmt vs last year, however at more prompt discussion via spot tenders.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2024-12-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS Spot FOB USGC terminal fees have found a range – at least temporarily – as the last known transactions have been right at/around 18cpg for 4:0 parcels.  Butane fees are vastly softer and assessed at around a nickel.  Therefore, a 2:2 cargo is valued in the +,- 12cpg range.  Few actual transactions are occurring, however.  As for Mont Belvieu, propane values have ebbed and flowed over the past 6 weeks, having taken a generally similar path as WTI, though as a percentage, there have been recent moments when propane has topped 50% of WTI.  Presently, however, the propane-to-WTI ratio is around the 46-47% level.  With regards propane inventories, the EIA yesterday reported a draw of 2.9mmbbls for an overall total of 93.10mmbbls.  or 97% of last year’s level, and 103% of two years ago.  Export volumes declined for the week ending 6th Dec, having been at 2.190mmbbls/day last week, but 1.611mmbbls in the more recent reporting period.  Production levels in the US continue to outperform and at 2.742mmbbls (as of 6 Dec) is above both the annual average (2.668mmbbls/day) and the Q4 average of 2.727mmbbls/day.
+AMERICAS
+Spot FOB USGC terminal fees have found a range – at least temporarily – as the last known transactions have been right at/around 18cpg for 4:0 parcels.  Butane fees are vastly softer and assessed at around a nickel.  Therefore, a 2:2 cargo is valued in the +,- 12cpg range.  Few actual transactions are occurring, however.
+
+As for Mont Belvieu, propane values have ebbed and flowed over the past 6 weeks, having taken a generally similar path as WTI, though as a percentage, there have been recent moments when propane has topped 50% of WTI.  Presently, however, the propane-to-WTI ratio is around the 46-47% level.
+
+With regards propane inventories, the EIA yesterday reported a draw of 2.9mmbbls for an overall total of 93.10mmbbls.  or 97% of last year’s level, and 103% of two years ago.  Export volumes declined for the week ending 6th Dec, having been at 2.190mmbbls/day last week, but 1.611mmbbls in the more recent reporting period.  Production levels in the US continue to outperform and at 2.742mmbbls (as of 6 Dec) is above both the annual average (2.668mmbbls/day) and the Q4 average of 2.727mmbbls/day.
 
 ---
 
@@ -85,13 +102,19 @@ AMERICAS Spot FOB USGC terminal fees have found a range – at least temporarily
 ### SnP Weekly Comment
 **Date:** 2024-12-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Scrubber fitted DHT SCANDINAVIA (317K DWT HHI Samho 2006) was sold in line with last done despite the dreary VLCC market. It is a winter of discontent so far, and most buyers on large crude tonnage are likely to wait for pricing to fall further before considering this segment.   Likely a result of busy social calendars across the market, and the inbound winter holidays, but the dry market has not provided its usual high liquidity this week. Capesizes though, are still proving popular. OTSL ARTEMIS (177K DWT Shanghai Jiangnan Changxing 2008) & OTSL ATHENA (174K DWT SWS 2007)*scrubber fitted, sold for USD 24.5M each, firm pricing considering recent sale of younger scrubber fitted CAPE DREAM (179K DWT HHI Ulsan 2011) at USD 28M. Elsewhere, Premuda sold FOUR NABUCCO (34K DWT SPP 2010) at USD 11.8M.
+Scrubber fitted DHT SCANDINAVIA (317K DWT HHI Samho 2006) was sold in line with last done despite the dreary VLCC market. It is a winter of discontent so far, and most buyers on large crude tonnage are likely to wait for pricing to fall further before considering this segment.
+ 
+Likely a result of busy social calendars across the market, and the inbound winter holidays, but the dry market has not provided its usual high liquidity this week. Capesizes though, are still proving popular. OTSL ARTEMIS (177K DWT Shanghai Jiangnan Changxing 2008) & OTSL ATHENA (174K DWT SWS 2007)*scrubber fitted, sold for USD 24.5M each, firm pricing considering recent sale of younger scrubber fitted CAPE DREAM (179K DWT HHI Ulsan 2011) at USD 28M. Elsewhere, Premuda sold FOUR NABUCCO (34K DWT SPP 2010) at USD 11.8M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2024-12-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST Increased activity in both East and West so far this week has pulled up freight in both regions. Adnoc acceptances for January was published on Tuesday, and while we still awaiting Saudi acceptances, we start to see more fixing into January already. While itineraries will be clearer, for January ships in the East, next week and as such we can expect more ships appearing on the list for this window as we go – currently it looks like there could be more upside to freight in the East as freight rates are still lagging behind West and the list does not look exceptionally long.  WEST Since Monday, over a dozen of vessels have been placed on subs in the Western hemisphere. The position list has been slimmed down and at the time of writing we only find 2 vessels left able to work 1H January dates in the USG – one of them being prompt open. Fixing in 2H January is also well underway, and vessel supply for this period appears relatively tight. Freight rates have been strengthened significantly the last few days as we find last done around mid $110s H/C.
+EAST
+Increased activity in both East and West so far this week has pulled up freight in both regions. Adnoc acceptances for January was published on Tuesday, and while we still awaiting Saudi acceptances, we start to see more fixing into January already. While itineraries will be clearer, for January ships in the East, next week and as such we can expect more ships appearing on the list for this window as we go – currently it looks like there could be more upside to freight in the East as freight rates are still lagging behind West and the list does not look exceptionally long.
+
+WEST
+Since Monday, over a dozen of vessels have been placed on subs in the Western hemisphere. The position list has been slimmed down and at the time of writing we only find 2 vessels left able to work 1H January dates in the USG – one of them being prompt open. Fixing in 2H January is also well underway, and vessel supply for this period appears relatively tight. Freight rates have been strengthened significantly the last few days as we find last done around mid $110s H/C.
 
 ---

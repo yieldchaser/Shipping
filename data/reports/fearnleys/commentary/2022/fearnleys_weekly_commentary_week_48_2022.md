@@ -6,7 +6,7 @@ week: 48
 date_range: "2022-11-29 to 2022-12-02"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:36"
+generated_at: "2026-10-12 16:51:11"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 48, 2022
@@ -91,14 +91,31 @@ Last week we commented “It’s long been understood that what goes up must eve
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2022-11-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Saudi Aramco raised Dec CP to $650 for both C3 and C4, which is in line with market expectations. Jan C3 CP was traded at $623 and C4 at parity at the time of writing. Evenly split cargo for Jan lifting was assessed at CP minus mid-teens discount reportedly. But due to the soaring freight, fob activities are limited relatively, except to cover demand into India and Indonesia.   FAR EAST Cash premium softens however still maintained the strength as of uncertainty in Panama transits. Earlier this week, 23kt propane for 1h Jan delivery was traded earlier at Dec FEI plus $5, which equates to Jan FEI plus $30. And 46kt parcel for same period was offered at Jan FEI plus $20 in the window. Similar 23kt parcel for 2h Jan delivery was offered at Jan FEI plus mid $20s but bid at $5 only.   Off window, one EChina cracker user secured 23kt propane for 1st decade Jan delivery at Jan FEI plus 30s. One SChina new PDH of 750kt/y issued private tender to buy 23kt or 46kt propane for 1-18th Jan delivery into Qinzhou. One AG producer was reported to fix six or more ships for dec lifting and was reported to have evenly split or heavy butane cargo can sell.
+MEG
+Saudi Aramco raised Dec CP to $650 for both C3 and C4, which is in line with market expectations. Jan C3 CP was traded at $623 and C4 at parity at the time of writing. Evenly split cargo for Jan lifting was assessed at CP minus mid-teens discount reportedly. But due to the soaring freight, fob activities are limited relatively, except to cover demand into India and Indonesia. 
+
+FAR EAST
+Cash premium softens however still maintained the strength as of uncertainty in Panama transits. Earlier this week, 23kt propane for 1h Jan delivery was traded earlier at Dec FEI plus $5, which equates to Jan FEI plus $30. And 46kt parcel for same period was offered at Jan FEI plus $20 in the window. Similar 23kt parcel for 2h Jan delivery was offered at Jan FEI plus mid $20s but bid at $5 only. 
+
+Off window, one EChina cracker user secured 23kt propane for 1st decade Jan delivery at Jan FEI plus 30s. One SChina new PDH of 750kt/y issued private tender to buy 23kt or 46kt propane for 1-18th Jan delivery into Qinzhou. One AG producer was reported to fix six or more ships for dec lifting and was reported to have evenly split or heavy butane cargo can sell.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2022-11-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS There exists at present contradictory factors in the domestic US market whereby rising crude values are having an upward impact on the pricing structure while simultaneously the weight of the now heightened inventory levels is having a downward effect.  At ~40% of crude (and barely that), propane prices should theoretically be poised to increase, but current stock levels weigh heavily, particularly since there has yet been little weather-related demand across North America.  The EIA on Wednesday released its findings for the week ending 25 Nov and showed a 1.6mmbbl increase from 89mmbbls in the week prior to current levels of 90.6mmbbls.  This puts current stocks at nearly 125% of last year and just under 100% of two years ago - and pushing well past the 5-year average of 80.30mmbls.  Terminal fees, meanwhile, saw a short-lived increase but have begun to relax again as a host of sellers have emerged.  Current FOB USGC offerings can be found in the low 5s, with room to improve.  Interest, however, is a bit muted – mostly due to the lack of weather-related demand and poor petchem economics.  NWE Many European traders discussed the state of the market heading into winter at a very well attended Christmas party in London last night. One of the major concerns were if US East Coast export volumes would be enough to substitute Russian LPG export volumes unavailable due to sanctions. For the time being US cargoes continue to be offered into the region as traders look to place their cargoes avoiding the Panama canal. Although with the December East / West spread at $100 most cargoes will continue heading East. The propane / Naphtha spread in the region was bolstered by a recovery in crude oil values. Which also strengthened butane which remains 91.5% December Naphtha. Demand in the region does not look set to jump just yet and is covered by term deliveries. The main concern is if demand jumps unexpectedly would European traders be able to find freight at the last minute to cover prompt shorts?  MED Sonatrach prices set at $580 for propane and $600 for butane a rise from November. Action in the region was quiet as traders assessed these posted prices before any cold weather-related demand has hit the region.
+AMERICAS
+There exists at present contradictory factors in the domestic US market whereby rising crude values are having an upward impact on the pricing structure while simultaneously the weight of the now heightened inventory levels is having a downward effect.  At ~40% of crude (and barely that), propane prices should theoretically be poised to increase, but current stock levels weigh heavily, particularly since there has yet been little weather-related demand across North America.
+
+The EIA on Wednesday released its findings for the week ending 25 Nov and showed a 1.6mmbbl increase from 89mmbbls in the week prior to current levels of 90.6mmbbls.  This puts current stocks at nearly 125% of last year and just under 100% of two years ago - and pushing well past the 5-year average of 80.30mmbls.
+
+Terminal fees, meanwhile, saw a short-lived increase but have begun to relax again as a host of sellers have emerged.  Current FOB USGC offerings can be found in the low 5s, with room to improve.  Interest, however, is a bit muted – mostly due to the lack of weather-related demand and poor petchem economics.
+
+NWE
+Many European traders discussed the state of the market heading into winter at a very well attended Christmas party in London last night. One of the major concerns were if US East Coast export volumes would be enough to substitute Russian LPG export volumes unavailable due to sanctions. For the time being US cargoes continue to be offered into the region as traders look to place their cargoes avoiding the Panama canal. Although with the December East / West spread at $100 most cargoes will continue heading East. The propane / Naphtha spread in the region was bolstered by a recovery in crude oil values. Which also strengthened butane which remains 91.5% December Naphtha. Demand in the region does not look set to jump just yet and is covered by term deliveries. The main concern is if demand jumps unexpectedly would European traders be able to find freight at the last minute to cover prompt shorts?
+
+MED
+Sonatrach prices set at $580 for propane and $600 for butane a rise from November. Action in the region was quiet as traders assessed these posted prices before any cold weather-related demand has hit the region.
 
 ---
 
@@ -106,13 +123,19 @@ AMERICAS There exists at present contradictory factors in the domestic US market
 ### SnP Weekly Comment
 **Date:** 2022-12-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Tanker market players must be running out of superlatives to describe the market, as another bullish week comes to a close. Ice class 1A Aframaxes SAMRAA ALKHALEEJ & ALHANI (114K DWT 2006/07 SAMSUNG HI) sold for USD 86m enbloc, representing an over 30% jump in price compared to the last done back in October (PAROSEA/BLUESEA 113K DWT 2006 SAMSUNG HI FOR USD 62.5m enbloc). Market players seem to be recognising the inflated price environment, as Marinakis’ Capital ship management penned orders at New Times for 2x 115K DWT LR2 Tankers at USD 60m each. Elsewhere, MR GWN2 (50K DWT 2020 SAMSUNG HI) sold for USD 38.5m to Japanese buyers in an internal sale.   The dry market will be buoyed by the news China are soon to be easing their long standing COVID restrictions, however, such effects from this easing will take time before reflecting in rates and values. More market jostling this week saw 2 transactions in the Kamsarmax sector LOWLANDS COMFORT (81K DWT 2016 TSUNEISHI CEBU) and DL CARNATION (81K DWT 2014 JIANGSU EASTERN HI), sold for USD 26.4m and USD 18.8m respectively.  In the modern Ultramax space, ITALIAN BULKER (63K DWT 2017 SHIN KASADO) was sold for USD 26m.
+Tanker market players must be running out of superlatives to describe the market, as another bullish week comes to a close. Ice class 1A Aframaxes SAMRAA ALKHALEEJ & ALHANI (114K DWT 2006/07 SAMSUNG HI) sold for USD 86m enbloc, representing an over 30% jump in price compared to the last done back in October (PAROSEA/BLUESEA 113K DWT 2006 SAMSUNG HI FOR USD 62.5m enbloc). Market players seem to be recognising the inflated price environment, as Marinakis’ Capital ship management penned orders at New Times for 2x 115K DWT LR2 Tankers at USD 60m each. Elsewhere, MR GWN2 (50K DWT 2020 SAMSUNG HI) sold for USD 38.5m to Japanese buyers in an internal sale. 
+
+The dry market will be buoyed by the news China are soon to be easing their long standing COVID restrictions, however, such effects from this easing will take time before reflecting in rates and values. More market jostling this week saw 2 transactions in the Kamsarmax sector LOWLANDS COMFORT (81K DWT 2016 TSUNEISHI CEBU) and DL CARNATION (81K DWT 2014 JIANGSU EASTERN HI), sold for USD 26.4m and USD 18.8m respectively.  In the modern Ultramax space, ITALIAN BULKER (63K DWT 2017 SHIN KASADO) was sold for USD 26m.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2022-11-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST We have seen 5 spot fixtures so far this week in MEG in addition to two Indian sub-fixtures still working. Last done deals done around mid-high USD 130s RT/C and most owners’ ideas now climbing towards USD 140 RT/C. We currently count 26 spot deals done for December in the Middle East compared to an average of about 30 deals per month for the last 4 months. With uncovered cargoes still in play, both in mid and end Dec, we expect freight rates to remain firm.   WEST At the time of writing we count 11 spot fixtures out of the USG for January with over half of them done this week. Freight continues looking very tight for early Jan and further into mid-month dates. We see the current US-position list being dominated by Panamaxes and vessels coming via Suez/Cape in 1H Jan as the Neo-canal still causing delays which is forcing some players to pay up big money in the auction to reach their laycans. Currently the projected waiting are 20 days northbound and 23 days southbound in the Neo Panama Canal for non-booked vessels. The last fixture concluded ex USG done at mid USD 200s H/C and we expect this to maintain.
+EAST
+We have seen 5 spot fixtures so far this week in MEG in addition to two Indian sub-fixtures still working. Last done deals done around mid-high USD 130s RT/C and most owners’ ideas now climbing towards USD 140 RT/C. We currently count 26 spot deals done for December in the Middle East compared to an average of about 30 deals per month for the last 4 months. With uncovered cargoes still in play, both in mid and end Dec, we expect freight rates to remain firm. 
+
+WEST
+At the time of writing we count 11 spot fixtures out of the USG for January with over half of them done this week. Freight continues looking very tight for early Jan and further into mid-month dates. We see the current US-position list being dominated by Panamaxes and vessels coming via Suez/Cape in 1H Jan as the Neo-canal still causing delays which is forcing some players to pay up big money in the auction to reach their laycans. Currently the projected waiting are 20 days northbound and 23 days southbound in the Neo Panama Canal for non-booked vessels. The last fixture concluded ex USG done at mid USD 200s H/C and we expect this to maintain.
 
 ---

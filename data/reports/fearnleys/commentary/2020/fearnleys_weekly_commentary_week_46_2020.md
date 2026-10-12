@@ -6,7 +6,7 @@ week: 46
 date_range: "2020-11-09 to 2020-11-12"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 16:51:08"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 46, 2020
@@ -84,21 +84,35 @@ In the North Sea and Baltic markets, Aframax rates have been steadily fixing aro
 ### LNG Market Report
 **Date:** 2020-11-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The past week saw an open Arbitrage between the East and the West, which prompted several opportunistic traders to take on tonnage for US Gulf loadings. With the Atlantic basin so tight vessels had to be taken from the East, which locked in full utilisation at round-trip economics or more for these fixtures. Such longer charters are currently attractive to owners, with the knock-on effect being an uptick in headline rates and continuing three-way economics for shorter, intra-basin business. Both owners and charterers are looking at the fundamentals carefully for directional signs in the weeks ahead, and with low prompt availability, high feed gas into the US terminals and positive developments on the Covid-19 front we do expect the current conditions to last in the short term. Further out, a number of vessels redeliver from mid-December, but coming off the West-to-East convey belt the global availability will likely remain unbalanced.
+The past week saw an open Arbitrage between the East and the West, which prompted several opportunistic traders to take on tonnage for US Gulf loadings. With the Atlantic basin so tight vessels had to be taken from the East, which locked in full utilisation at round-trip economics or more for these fixtures. Such longer charters are currently attractive to owners, with the knock-on effect being an uptick in headline rates and continuing three-way economics for shorter, intra-basin business.
+Both owners and charterers are looking at the fundamentals carefully for directional signs in the weeks ahead, and with low prompt availability, high feed gas into the US terminals and positive developments on the Covid-19 front we do expect the current conditions to last in the short term. Further out, a number of vessels redeliver from mid-December, but coming off the West-to-East convey belt the global availability will likely remain unbalanced.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-11-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Dec Propane CP surged up to $450 at the time of writing, gaining supports from front strong demand. Butane was traded at $10 higher. Dec/Jan CP traded at $12 backwardation, and it’s likely to enlarge further, with anticipation of forthcoming ARB volume into EAST. ADNOC released their Dec acceptances with some delays being reported, since majority tend to nominate early liftings to avoid backwardation into Jan.   KPC issued tender to sell one 11/11 loading 6/7th Dec. While QP tendered to sell one 21/25th Dec lifting 4/0 or 3/1. FOB discussions for Dec lifting equal ratio splits were at Dec CP minus around $10 while heavy propane cargo was bid at heavier discounts.   FAR EAST A flurry of bids was shown in/off window this week. Several 23kt propane parcels for 2h Dec delivery were traded Dec FEI plus $9/10. And outside window traders and importers are actively inquiring Dec delivery cargos, propane mainly. Evenly split cargos were slightly less favorable into NEA.   Other than spot discussions, intensive term negotiations are going on this week. Indian BPCL was reported to secure 90% of their term volumes at CP minus mid high single digits. One Schina traditional importer awarded their annual tender for 11/11 monthly at CP plus low 30s reportedly. Following this, another two petchem importers also issued term tender to secure heavy or full propane cargos for feedstock use.
+MEG
+Dec Propane CP surged up to $450 at the time of writing, gaining supports from front strong demand. Butane was traded at $10 higher. Dec/Jan CP traded at $12 backwardation, and it’s likely to enlarge further, with anticipation of forthcoming ARB volume into EAST. ADNOC released their Dec acceptances with some delays being reported, since majority tend to nominate early liftings to avoid backwardation into Jan. 
+
+KPC issued tender to sell one 11/11 loading 6/7th Dec. While QP tendered to sell one 21/25th Dec lifting 4/0 or 3/1. FOB discussions for Dec lifting equal ratio splits were at Dec CP minus around $10 while heavy propane cargo was bid at heavier discounts. 
+
+FAR EAST
+A flurry of bids was shown in/off window this week. Several 23kt propane parcels for 2h Dec delivery were traded Dec FEI plus $9/10. And outside window traders and importers are actively inquiring Dec delivery cargos, propane mainly. Evenly split cargos were slightly less favorable into NEA. 
+
+Other than spot discussions, intensive term negotiations are going on this week. Indian BPCL was reported to secure 90% of their term volumes at CP minus mid high single digits. One Schina traditional importer awarded their annual tender for 11/11 monthly at CP plus low 30s reportedly. Following this, another two petchem importers also issued term tender to secure heavy or full propane cargos for feedstock use.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-11-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS Per the EIA report of this morning (which was delayed by a day), US propane inventories fell from 95.828mmbbls at end Oct to 94.889mmbbls as of 06 Nov, a decline of 939,000bbls.  A build of 812,000bbls was achieved in PADD I (US East Coast), and an increase of 305,000bbls was seen in PADD II (Midwest).  The Gulf Coast, however, saw a draw of 2.033mmbbls, on the basis of both stronger petrochemical demand and swelling overwater export volumes.   November marks the 6th straight month of improved propane consumption, having steadily climbed from 184,000bbls/day in May to 324,000bbls/day in Nov.  Overwater exports, meanwhile, continue to dominate – with more than 4m tons of LPG’s exported from the US in Nov (3.5m tons propane and nearly 700,000mt of butane).  At present there are no signs that the trend will abate, as the December rosters are largely complete. Buyers are eager to engage as the arb to the East is open, but sellers (most of whom appear to be re-sellers), are holding at robust terminalling fee rates.   Weather-related demand in the US came early, but for the moment seems to have left early, as well.  NOAA updated its prognosis for North America which (again) shows a propensity for a warmer-than-average temperature forecast over the Nov/Dec/Jan period, which doesn’t necessarily preclude the possibility of cold spells, but indicates the likelihood of a generally warmer winter which could, in turn, lead to softer domestic values.  That, however, may be decided – at least in part, and on a short term basis – by the petchem sector and, most importantly, exports. Finally , strong demand from Mexico and Brasil is continuing and looks like that will be the case through the first quarter of 2021.
+AMERICAS
+Per the EIA report of this morning (which was delayed by a day), US propane inventories fell from 95.828mmbbls at end Oct to 94.889mmbbls as of 06 Nov, a decline of 939,000bbls.  A build of 812,000bbls was achieved in PADD I (US East Coast), and an increase of 305,000bbls was seen in PADD II (Midwest).  The Gulf Coast, however, saw a draw of 2.033mmbbls, on the basis of both stronger petrochemical demand and swelling overwater export volumes. 
+
+November marks the 6th straight month of improved propane consumption, having steadily climbed from 184,000bbls/day in May to 324,000bbls/day in Nov.  Overwater exports, meanwhile, continue to dominate – with more than 4m tons of LPG’s exported from the US in Nov (3.5m tons propane and nearly 700,000mt of butane).  At present there are no signs that the trend will abate, as the December rosters are largely complete. Buyers are eager to engage as the arb to the East is open, but sellers (most of whom appear to be re-sellers), are holding at robust terminalling fee rates.
+ 
+Weather-related demand in the US came early, but for the moment seems to have left early, as well.  NOAA updated its prognosis for North America which (again) shows a propensity for a warmer-than-average temperature forecast over the Nov/Dec/Jan period, which doesn’t necessarily preclude the possibility of cold spells, but indicates the likelihood of a generally warmer winter which could, in turn, lead to softer domestic values.  That, however, may be decided – at least in part, and on a short term basis – by the petchem sector and, most importantly, exports. Finally , strong demand from Mexico and Brasil is continuing and looks like that will be the case through the first quarter of 2021.
 
 ---
 
@@ -106,13 +120,21 @@ AMERICAS Per the EIA report of this morning (which was delayed by a day), US pro
 ### SnP Weekly Comment
 **Date:** 2020-11-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Whilst 2nd values for the older VLCC tankers are still holding up relatively nicely, the other crude segments are faring worse. The sale of Suezmax BACALIAROS built 2003 SHI at Usd 15.3 mill represents a 30% drop in values since the peak in February when a same age Korean built Suezmax was sold for Usd 22 mill. Also pressure on Aframax values as seen by this week’s sales. Offers are invited mid next week for tranche 2 of the Xihe creditor controlled sale of three VLCC’s built 2008, 2009 and 2013 (all China). We understand the latter has by far received most attention from potential buyers.  Finally some positive Covid-19 news with effective vaccines being announced. However the near term challenges for both the oil and  tanker markets will remain unchanged. IEA revises down 2021 oil demand by 0.1 mbpd, stating that “vaccines are unlikely to significantly boost demand until well into next year”.  We still expect relatively sluggish rate development for the rest of this year and during most of the first half of next year. Given our more positive outlook for the second half of the 2021 and into 2022, however, this should give some interesting S&P opportunities going forward.  The dry sector remains active with the majority of transactions being in the 10-15 year bracket. Prices are however still best case moving sideways in the majority of sectors.  An increasing number of 5-10 year old Kamsarmax candidates are coming for sale from Japan which could set new benchmarks going forward.
+Whilst 2nd values for the older VLCC tankers are still holding up relatively nicely, the other crude segments are faring worse. The sale of Suezmax BACALIAROS built 2003 SHI at Usd 15.3 mill represents a 30% drop in values since the peak in February when a same age Korean built Suezmax was sold for Usd 22 mill. Also pressure on Aframax values as seen by this week’s sales. Offers are invited mid next week for tranche 2 of the Xihe creditor controlled sale of three VLCC’s built 2008, 2009 and 2013 (all China). We understand the latter has by far received most attention from potential buyers.
+
+Finally some positive Covid-19 news with effective vaccines being announced. However the near term challenges for both the oil and  tanker markets will remain unchanged. IEA revises down 2021 oil demand by 0.1 mbpd, stating that “vaccines are unlikely to significantly boost demand until well into next year”.  We still expect relatively sluggish rate development for the rest of this year and during most of the first half of next year. Given our more positive outlook for the second half of the 2021 and into 2022, however, this should give some interesting S&P opportunities going forward.
+
+The dry sector remains active with the majority of transactions being in the 10-15 year bracket. Prices are however still best case moving sideways in the majority of sectors.  An increasing number of 5-10 year old Kamsarmax candidates are coming for sale from Japan which could set new benchmarks going forward.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-11-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST As cargo acceptances for next month gradually has started to come out, fixing focus in the East has shifted towards 1st decade December. One Oil Major did secure shipping for early December while talks of some receiving delayed ADNOC dates could mean less cargos from the supplier in the first half of December. That said, together with the release of Aramco dates which is expected early next week, the picture for next month will become more clear. Available tonnage is not in abundance, and as such we expect freight to remain stable to slightly increasing going forward.  WEST The West market continues in a similar fashion to what we have seen over the last couple of weeks; relatively tight vessel supply, a couple of owners largely in control of the majority of vessels and rates simmering somewhere between USD 103 and USD 106 per ton Houston/Chiba basis. As we are not yet done with all of the December fixing, it is likely that we are a couple of dollars away from the peak of the market.
+EAST
+As cargo acceptances for next month gradually has started to come out, fixing focus in the East has shifted towards 1st decade December. One Oil Major did secure shipping for early December while talks of some receiving delayed ADNOC dates could mean less cargos from the supplier in the first half of December. That said, together with the release of Aramco dates which is expected early next week, the picture for next month will become more clear. Available tonnage is not in abundance, and as such we expect freight to remain stable to slightly increasing going forward.
+
+WEST
+The West market continues in a similar fashion to what we have seen over the last couple of weeks; relatively tight vessel supply, a couple of owners largely in control of the majority of vessels and rates simmering somewhere between USD 103 and USD 106 per ton Houston/Chiba basis. As we are not yet done with all of the December fixing, it is likely that we are a couple of dollars away from the peak of the market.
 
 ---

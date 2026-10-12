@@ -6,7 +6,7 @@ week: 32
 date_range: "2026-08-05 to 2026-08-07"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 32, 2026
@@ -55,7 +55,11 @@ After yesterday's downward correction it comes as no surprise that we have a len
 ### Aframax Weekly Comment
 **Date:** 2026-08-05 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea Market has quietly been covering the 1st half of the month with freight levels remaining relatively steady. Ballasting has slowed with softer surrounding markets but is still attractive rather than accepting waiting time. The Suezmax market has softened which may rekindle charterers' appetite for larger vessels with Aframax activity potentially coming under pressure.  Market looks like it will remain steady/soft through mid month unless we see a jump in activity.  Mediterranean Very busy Mediterranean market after the corrections of last week. Rates have found a floor and are hovering around last-done levels, but the position list is slowly becoming thinner. Volumes are remaining high as Syria and Sidi are pumping additional volumes at the moment keeping the market interesting.
+North Sea
+Market has quietly been covering the 1st half of the month with freight levels remaining relatively steady. Ballasting has slowed with softer surrounding markets but is still attractive rather than accepting waiting time. The Suezmax market has softened which may rekindle charterers' appetite for larger vessels with Aframax activity potentially coming under pressure.  Market looks like it will remain steady/soft through mid month unless we see a jump in activity.
+
+Mediterranean
+Very busy Mediterranean market after the corrections of last week. Rates have found a floor and are hovering around last-done levels, but the position list is slowly becoming thinner. Volumes are remaining high as Syria and Sidi are pumping additional volumes at the moment keeping the market interesting.
 
 ---
 
@@ -71,7 +75,9 @@ Atlantic rates have come under considerable pressure, with a growing availabilit
 ### SnP Weekly Comment
 **Date:** 2026-08-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-ADNOC’s expansion of their fleet is once again the headline story, as more details emerge from their ongoing buying spree. An en bloc deal on two Frontline VLCCs FRONT HUMBER/VEFSNA (297/298k dwt Hyundai Samho/HHIC 2017) for USD 270M stands out for the sheer size of transaction, but importantly it shows that experienced owners are willing to sell units in this market in order to crystalise gains following the recent prolific rise in values. Regarding the earnings market, talks are open between Iran and Oman on a ‘Navigation Plan’ for Hormuz, so we could potentially see some easing of the vast inefficiencies being experienced by tanker owners and charterers, time will tell. Older units are still being sold for huge premiums, with this week GRIT (298k dwt Daewoo 2003) sold for USD 50M.  Dry remains a very open avenue for liquidity, with plenty of action in the 10–15-year-old age range. There is a precarious feel to macro fundamentals, however, which is likely to impact dry charter rates going forward. A sustained high energy cost scenario would potentially weaken the overall manufacturing space, and it feels we are a long way from any solution from the main cause of this (USA/Iran). Capesize values appear to be softening slightly, with SS passed ORANGE TIGER (181k dwt Imabari 2011) bought by Mercuria for USD 36.5M.
+ADNOC’s expansion of their fleet is once again the headline story, as more details emerge from their ongoing buying spree. An en bloc deal on two Frontline VLCCs FRONT HUMBER/VEFSNA (297/298k dwt Hyundai Samho/HHIC 2017) for USD 270M stands out for the sheer size of transaction, but importantly it shows that experienced owners are willing to sell units in this market in order to crystalise gains following the recent prolific rise in values. Regarding the earnings market, talks are open between Iran and Oman on a ‘Navigation Plan’ for Hormuz, so we could potentially see some easing of the vast inefficiencies being experienced by tanker owners and charterers, time will tell. Older units are still being sold for huge premiums, with this week GRIT (298k dwt Daewoo 2003) sold for USD 50M.
+
+Dry remains a very open avenue for liquidity, with plenty of action in the 10–15-year-old age range. There is a precarious feel to macro fundamentals, however, which is likely to impact dry charter rates going forward. A sustained high energy cost scenario would potentially weaken the overall manufacturing space, and it feels we are a long way from any solution from the main cause of this (USA/Iran). Capesize values appear to be softening slightly, with SS passed ORANGE TIGER (181k dwt Imabari 2011) bought by Mercuria for USD 36.5M.
 
 ---
 

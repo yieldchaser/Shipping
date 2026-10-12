@@ -6,7 +6,7 @@ week: 7
 date_range: "2020-02-10 to 2020-02-12"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 16:51:07"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 07, 2020
@@ -19,7 +19,8 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### Capesize Weekly Comment
 **Date:** 2020-02-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The market is still sliding with few signs of an imminent turnaround. Preliminary indicators of China's coal consumption, steel production and iron ore imports shows a complete collapse the last few weeks. On a positive note, Xi Jinping recently urged companies to resume work and the NDRC vowed to step up support to the economy in the wake of the virus impacts.  Further, Vale maintained their production guidance of 340-355 million tons for the year despite the recent floods, which implies a significant increase in Brazilian shipment volumes once China turns on again. In January, total iron ore exports from Brazil was only 20 million tons...
+The market is still sliding with few signs of an imminent turnaround. Preliminary indicators of China's coal consumption, steel production and iron ore imports shows a complete collapse the last few weeks. On a positive note, Xi Jinping recently urged companies to resume work and the NDRC vowed to step up support to the economy in the wake of the virus impacts. 
+Further, Vale maintained their production guidance of 340-355 million tons for the year despite the recent floods, which implies a significant increase in Brazilian shipment volumes once China turns on again. In January, total iron ore exports from Brazil was only 20 million tons...
 
 ---
 
@@ -33,7 +34,9 @@ This week the index has ticked up a bit, as many participants feels a bottom hav
 ### Supramax Weekly Comment
 **Date:** 2020-02-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-It was another horrifying week for owners. Many spot ships in Asia with owners refusing to take negative cost . Oversupply of tonnage in Atlantic and poor cargo supply pushed the market further down. Grain House L Dreyfus covered grain supra stem USD 2,000 pd for 56,000 DWT del Argentina for TCT to Med. USG remains weak but steady.  Modern Ultamax rumoured fixed USD 20,000 for TCT to Japan. Trips from USEC to India  fixed USD 18,000 pd on 57,000 DWT. South Africa remain under pressure with very week fixtures reported. MV Great Spring (61,438 2017) aps Richards Bay tct Puttalam usd 8,500 + 80,000 BB.  The Asian market suffers further loss and tonnage building up. For Pacific round voyages Tess 58 reported in the mid USD 5,000 pd and Ultramax for NOPAC loading delivery Busan redelivery Philippines, usd 6,000s.
+It was another horrifying week for owners. Many spot ships in Asia with owners refusing to take negative cost . Oversupply of tonnage in Atlantic and poor cargo supply pushed the market further down.
+Grain House L Dreyfus covered grain supra stem USD 2,000 pd for 56,000 DWT del Argentina for TCT to Med. USG remains weak but steady.  Modern Ultamax rumoured fixed USD 20,000 for TCT to Japan. Trips from USEC to India  fixed USD 18,000 pd on 57,000 DWT. South Africa remain under pressure with very week fixtures reported. MV Great Spring (61,438 2017) aps Richards Bay tct Puttalam usd 8,500 + 80,000 BB. 
+The Asian market suffers further loss and tonnage building up. For Pacific round voyages Tess 58 reported in the mid USD 5,000 pd and Ultramax for NOPAC loading delivery Busan redelivery Philippines, usd 6,000s.
 
 ---
 
@@ -91,7 +94,15 @@ The downward trends seen in recent weeks have continued, and by some measures ha
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-02-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Mar Propane Cp has surged up to $404, and butane remains at $35-37 higher. Kuwait has issued tender to sell one equal ratio cargo for 6/7th Mar loading and the result is yet to know. Fob discussions level has gradually declined from previous high single premium, to mid single digit, and still under downward pressure as of deep backwardation into April at $37. This being said, lifters would prefer to have later laycan instead of earlier dates if with later month pricing option.    Far East Market: Earlier this week in window, Propane for 2h Mar delivery has been traded at Mar Fei plus small premium. And due to the foggy weather in Houston Gulf, buying ideas is edging up to mid single digit on Thursday.  China still suffered from the coronavirus outbreak. Despite some enterprises has resumed activities, strict traffic control and road closures has still refrained logistics transportation. Some PDH has lowered down run rate as slackened demand on end products. Refineries also cut rates amid high product stock.  One Echina PDH has issued buy tender to secure propane for 2h Mar into May delivery, tender due on 18th Feb. And another Petchem company also tendered to buy 22kt butane for 1st decade Mar delivery.
+Mar Propane Cp has surged up to $404, and butane remains at $35-37 higher.
+Kuwait has issued tender to sell one equal ratio cargo for 6/7th Mar loading and the result is yet to know. Fob discussions level has gradually declined from previous high single premium, to mid single digit, and still under downward pressure as of deep backwardation into April at $37. This being said, lifters would prefer to have later laycan instead of earlier dates if with later month pricing option. 
+
+Far East Market:
+Earlier this week in window, Propane for 2h Mar delivery has been traded at Mar Fei plus small premium. And due to the foggy weather in Houston Gulf, buying ideas is edging up to mid single digit on Thursday.
+
+China still suffered from the coronavirus outbreak. Despite some enterprises has resumed activities, strict traffic control and road closures has still refrained logistics transportation. Some PDH has lowered down run rate as slackened demand on end products. Refineries also cut rates amid high product stock.
+
+One Echina PDH has issued buy tender to secure propane for 2h Mar into May delivery, tender due on 18th Feb. And another Petchem company also tendered to buy 22kt butane for 1st decade Mar delivery.
 
 ---
 
@@ -106,13 +117,19 @@ AMERICAS: The EIA reported a head-turning 6.2 million barrel draw for the week e
 ### SnP Weekly Comment
 **Date:** 2020-02-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Deal of the year to date being Euronav’s purchase of three scrubber fitted VLCC newbuildings from Sinokor with delivery ex DSME at the end of 2020 and early 2021.  The average price of Usd 93.5 mill each is a far cry from the Usd 106 mill recently paid for a sister VLCC newbuilding with very prompt delivery.  Latter deal was of course spurred by the very high spot earnings at the time.  The Usd 93.5 mill is more or less equal to assumed delivered cost for a similar newbuilding contract being placed today, albeit with a year’s later delivery in such case.  Whilst we doubt there are other sellers willing to exit at these numbers the Euronav transaction is a cold shower for values.  The sense of urgency to pay up for crude tankers with prompt delivery is waning and no one knows how long  the Corona virus will continue to affect world trade.  We are indeed in uncharted territory.    The dry market remains challenging and many offers in hand fail to meet the sellers’ price expectations. Following inspections by close to ten parties, the Tess-82 MAGNOLIA built 2011 had offers this week and we understand the highest was at region usd 16 mill versus the sellers’ price ideas of Usd 18 mill.  The good news is that recycling activity is picking up with three Capesize and one Newcastlemax  sold this week for about Usd 390-400 pldt.
+Deal of the year to date being Euronav’s purchase of three scrubber fitted VLCC newbuildings from Sinokor with delivery ex DSME at the end of 2020 and early 2021.  The average price of Usd 93.5 mill each is a far cry from the Usd 106 mill recently paid for a sister VLCC newbuilding with very prompt delivery.  Latter deal was of course spurred by the very high spot earnings at the time.  The Usd 93.5 mill is more or less equal to assumed delivered cost for a similar newbuilding contract being placed today, albeit with a year’s later delivery in such case.  Whilst we doubt there are other sellers willing to exit at these numbers the Euronav transaction is a cold shower for values.  The sense of urgency to pay up for crude tankers with prompt delivery is waning and no one knows how long  the Corona virus will continue to affect world trade.  We are indeed in uncharted territory.  
+
+The dry market remains challenging and many offers in hand fail to meet the sellers’ price expectations. Following inspections by close to ten parties, the Tess-82 MAGNOLIA built 2011 had offers this week and we understand the highest was at region usd 16 mill versus the sellers’ price ideas of Usd 18 mill.  The good news is that recycling activity is picking up with three Capesize and one Newcastlemax  sold this week for about Usd 390-400 pldt.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-02-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST The week has been quiet and only action on shipping was from an Indian major where the cargo is still trading time of writing. We still see open tonnage for February dates in the MEG, and its expected that these ships will slide into March as February program is coming to a close. This has added some pressure on freight rates. Acceptance dates from QP, KPC, Adgas and Adnoc are all out for March, but as Baltic continues to come off nobody seems to be in a huge rush to do anything on shipping, yet. There are also talk of higher inventory in Saudi, so we should expect to see less cuts and potentially more 1H March cargos once Aramco acceptances are out...  WEST The market in the West has been quiet again this week, with very little happening in the way of fixtures.  However. the general consensus appears to be that freight rates are set to weaken. This comes as a consequence of excess freight in the first decade of March, much of which could roll into later in the month and hence put pressure on rates. On the other hand, it remains to be seen whether cargoes are actually fully covered earlier in the month or whether charterers are feigning so to aid in the weakening of rates.
+EAST
+The week has been quiet and only action on shipping was from an Indian major where the cargo is still trading time of writing. We still see open tonnage for February dates in the MEG, and its expected that these ships will slide into March as February program is coming to a close. This has added some pressure on freight rates. Acceptance dates from QP, KPC, Adgas and Adnoc are all out for March, but as Baltic continues to come off nobody seems to be in a huge rush to do anything on shipping, yet. There are also talk of higher inventory in Saudi, so we should expect to see less cuts and potentially more 1H March cargos once Aramco acceptances are out...
+
+WEST
+The market in the West has been quiet again this week, with very little happening in the way of fixtures.  However. the general consensus appears to be that freight rates are set to weaken. This comes as a consequence of excess freight in the first decade of March, much of which could roll into later in the month and hence put pressure on rates. On the other hand, it remains to be seen whether cargoes are actually fully covered earlier in the month or whether charterers are feigning so to aid in the weakening of rates.
 
 ---

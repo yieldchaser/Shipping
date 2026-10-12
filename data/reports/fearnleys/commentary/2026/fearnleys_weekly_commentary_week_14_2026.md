@@ -6,7 +6,7 @@ week: 14
 date_range: "2026-04-01 to 2026-04-02"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 14, 2026
@@ -55,7 +55,11 @@ Another quiet day in the West, with few deals concluded above the surface. Sensi
 ### Aframax Weekly Comment
 **Date:** 2026-04-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea A slower week than we have seen for the last couple of weeks which considering it’s a lead into Easter is a little surprising. Natural dates are pushing into the 2nd decade which on paper looks a bit quieter stems wise. We have seen relets come back into the equation which has also taken some of the activity away. Sentiment a bit softer but rates are still very healthy for owners. We have seen a lot of vessels in the last couple of weeks make the decision to head TA and with the US markets expected to remain active through April, especially for lightering, we will continue to see vessels choose the US over North Sea.  Mediterranean Rates so far this week have remained at record high levels as none of the three Western markets have showed signals of a correction yet. More ballasters from Europe to the States are expected to negatively affect the market at some point but that might not be before we start working May dates over there. With the long weekend approaching, owners are on the lookout for a cargo to grab and disappear which might lead to a downward correction.
+North Sea
+A slower week than we have seen for the last couple of weeks which considering it’s a lead into Easter is a little surprising. Natural dates are pushing into the 2nd decade which on paper looks a bit quieter stems wise. We have seen relets come back into the equation which has also taken some of the activity away. Sentiment a bit softer but rates are still very healthy for owners. We have seen a lot of vessels in the last couple of weeks make the decision to head TA and with the US markets expected to remain active through April, especially for lightering, we will continue to see vessels choose the US over North Sea.
+
+Mediterranean
+Rates so far this week have remained at record high levels as none of the three Western markets have showed signals of a correction yet. More ballasters from Europe to the States are expected to negatively affect the market at some point but that might not be before we start working May dates over there. With the long weekend approaching, owners are on the lookout for a cargo to grab and disappear which might lead to a downward correction.
 
 ---
 
@@ -71,7 +75,9 @@ Just when we thought this market had run out of surprises, the world of LNG Ship
 ### SnP Weekly Comment
 **Date:** 2026-04-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-A handful of sales to report this week but in general tanker deals are a tough ask, particularly anything modern on the crude side due to the earnings possibility currently on the table. Scorpio have shown themselves to be proven sellers in recent times, taking advantage of the ongoing firming in tanker pricing, and this week selling scrubber fitted MR pair STI BROOKLYN/STI BLACK HAWK (49K DWT SPP/HMD 2015) for USD 35M each. It is worth noting that there are plenty of tanker buyers still out there, but the focus is more geared towards readying themselves for an easing of the disruption in the Persian Gulf and a subsequent softening in rates and pricing.   Converse to the tanker market, buyers seem to be readily finding an outlet for investment in the dry second-hand market, and it appears these buyers are aligning on two developing trends. The first of which is that the Handysize market, at current rates and Cal27 estimations of around the USD 12-13K/Day mark, is earning in line with the larger and more expensive supramax sector and thus is providing a lower price entry point and better financial return – hence the increased number of sales in this size range. The second trend is to do with energy security as a result of the ongoing conflict in the Middle East. Some players are backing a run on coal activity, as more and more energy importers seek alternatives to trapped LNG exports in the Persian Gulf. One such player is Bright Navigation, buyer of JOHN M CARRAS (82K DWT DSME 2012) for USD 18.2M.
+A handful of sales to report this week but in general tanker deals are a tough ask, particularly anything modern on the crude side due to the earnings possibility currently on the table. Scorpio have shown themselves to be proven sellers in recent times, taking advantage of the ongoing firming in tanker pricing, and this week selling scrubber fitted MR pair STI BROOKLYN/STI BLACK HAWK (49K DWT SPP/HMD 2015) for USD 35M each. It is worth noting that there are plenty of tanker buyers still out there, but the focus is more geared towards readying themselves for an easing of the disruption in the Persian Gulf and a subsequent softening in rates and pricing. 
+
+Converse to the tanker market, buyers seem to be readily finding an outlet for investment in the dry second-hand market, and it appears these buyers are aligning on two developing trends. The first of which is that the Handysize market, at current rates and Cal27 estimations of around the USD 12-13K/Day mark, is earning in line with the larger and more expensive supramax sector and thus is providing a lower price entry point and better financial return – hence the increased number of sales in this size range. The second trend is to do with energy security as a result of the ongoing conflict in the Middle East. Some players are backing a run on coal activity, as more and more energy importers seek alternatives to trapped LNG exports in the Persian Gulf. One such player is Bright Navigation, buyer of JOHN M CARRAS (82K DWT DSME 2012) for USD 18.2M.
 
 ---
 

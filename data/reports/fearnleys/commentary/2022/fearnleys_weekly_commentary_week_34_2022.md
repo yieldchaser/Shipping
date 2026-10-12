@@ -6,7 +6,7 @@ week: 34
 date_range: "2022-08-22 to 2022-08-23"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:35"
+generated_at: "2026-10-12 16:51:10"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 34, 2022
@@ -41,14 +41,18 @@ Supramax earnings remains the highest amongst all the dry bulk segments. However
 ### VLCC Weekly Comment
 **Date:** 2022-08-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-Some expectations charterers might sit on their hands and let some steam escape this week. However, this morning suggests otherwise, as a few quoted MEG cargoes coming in for early 2nd decade and owners will push the increased activity in their favor. A couple of quiet days (Friday and Monday) often leads to a wobble, and we saw a little profit taking by handicapped vessels (Ex dd/change of tech) as TCE’s remained healthy and owners did not want to miss the opportunity. However, we are back to the WS 80 level MEG/China with expectations of more.   The Atlantic taking a back seat after driving the market last week. Enquiry remains however and with a stronger MEG market, potential ballasters will have choice. Wafr remains quiet, but WS 80 is attainable to China and USG/Ningbo likely to rebound back towards the USD 9m level.
+Some expectations charterers might sit on their hands and let some steam escape this week. However, this morning suggests otherwise, as a few quoted MEG cargoes coming in for early 2nd decade and owners will push the increased activity in their favor. A couple of quiet days (Friday and Monday) often leads to a wobble, and we saw a little profit taking by handicapped vessels (Ex dd/change of tech) as TCE’s remained healthy and owners did not want to miss the opportunity. However, we are back to the WS 80 level MEG/China with expectations of more. 
+
+The Atlantic taking a back seat after driving the market last week. Enquiry remains however and with a stronger MEG market, potential ballasters will have choice. Wafr remains quiet, but WS 80 is attainable to China and USG/Ningbo likely to rebound back towards the USD 9m level.
 
 ---
 
 ### VLCC Weekly Comment
 **Date:** 2022-08-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Some expectations charterers might sit on their hands and let some steam escape this week. However, this morning suggests otherwise, as a few quoted MEG cargoes coming in for early 2nd decade and owners will push the increased activity in their favor. A couple of quiet days (Friday and Monday) often leads to a wobble, and we saw a little profit taking by handicapped vessels (Ex dd/change of tech) as TCE’s remained healthy and owners did not want to miss the opportunity. However, we are back to the WS 80 level MEG/China with expectations of more.   The Atlantic taking a back seat after driving the market last week. Enquiry remains however and with a stronger MEG market, potential ballasters will have choice. Wafr remains quiet, but WS 80 is attainable to China and USG/Ningbo likely to rebound back towards the USD 9m level.
+Some expectations charterers might sit on their hands and let some steam escape this week. However, this morning suggests otherwise, as a few quoted MEG cargoes coming in for early 2nd decade and owners will push the increased activity in their favor. A couple of quiet days (Friday and Monday) often leads to a wobble, and we saw a little profit taking by handicapped vessels (Ex dd/change of tech) as TCE’s remained healthy and owners did not want to miss the opportunity. However, we are back to the WS 80 level MEG/China with expectations of more. 
+
+The Atlantic taking a back seat after driving the market last week. Enquiry remains however and with a stronger MEG market, potential ballasters will have choice. Wafr remains quiet, but WS 80 is attainable to China and USG/Ningbo likely to rebound back towards the USD 9m level.
 
 ---
 
@@ -91,14 +95,29 @@ As we’ve watched LNG prices rise to previously unimaginable levels this week, 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2022-08-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Sep CP C3 was traded at $658 and C4 at $12 less. Market players expect C3/C4 spread to widen, due to long supply on butane against limited buying interests. 1st round Sep CP idea was heard ranged from $640 to $655 for C3 and $620 to $650 for C4. Sep/Oct C3 enlarged by $10 to $18 compared to last week. Qatar Petroleum was reported to have a prompt 1st decade Sep lifting heavy butane cargo can sell.   FAR EAST Cash premium for propane parcel on Sep arrival has improved slightly as few sellers outstanding and some sellers reschedule for a later arriving into Oct, seeing a healthy contango Sep/Oct FEI at $10. 23kt propane for 2h Sep delivery was offered at Sep FEI minus $5 but barely see any buyers remaining in window. And Earlier one 23kt Propane for 1h Oct delivery was traded at Sep FEI minus $3. Off window, one SChina importer awarded their buy tender to secure a 2h Sep arrival evenly split cargo. Another EChina cracker user also reported to award their buy tender for one full propane cargo for 2h Sep delivery at Sep FEI minus low teens reportedly. Last Friday FPCC also awarded their buy tender for a 22/22 at MOPJ minus high 20s. Indian IOC issued buy tender for one Oct FOB lifting 2/2 cargo, after they awarded their Q4-2022 strip for monthly one 2/2 last week.
+MEG
+Sep CP C3 was traded at $658 and C4 at $12 less. Market players expect C3/C4 spread to widen, due to long supply on butane against limited buying interests. 1st round Sep CP idea was heard ranged from $640 to $655 for C3 and $620 to $650 for C4. Sep/Oct C3 enlarged by $10 to $18 compared to last week. Qatar Petroleum was reported to have a prompt 1st decade Sep lifting heavy butane cargo can sell. 
+
+FAR EAST
+Cash premium for propane parcel on Sep arrival has improved slightly as few sellers outstanding and some sellers reschedule for a later arriving into Oct, seeing a healthy contango Sep/Oct FEI at $10. 23kt propane for 2h Sep delivery was offered at Sep FEI minus $5 but barely see any buyers remaining in window. And Earlier one 23kt Propane for 1h Oct delivery was traded at Sep FEI minus $3.
+Off window, one SChina importer awarded their buy tender to secure a 2h Sep arrival evenly split cargo. Another EChina cracker user also reported to award their buy tender for one full propane cargo for 2h Sep delivery at Sep FEI minus low teens reportedly. Last Friday FPCC also awarded their buy tender for a 22/22 at MOPJ minus high 20s. Indian IOC issued buy tender for one Oct FOB lifting 2/2 cargo, after they awarded their Q4-2022 strip for monthly one 2/2 last week.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2022-08-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS Per the latest EIA report, the U.S. propane stocks saw no changes, which remain at 68.00mmbbls.  This equates to 99% of last year and 75% of two years ago.  Robust export volumes over the previous week are the primary cause.  The market had been anticipating something on the order of a 1.6-1.7mmbbl build.  Still more surprising - is the fact that after the stock levels were revealed Mont Belvieu propane values saw a modest decline over the course of the day.  Current prices are just below 50% of crude at ~$1.1225/gal. Terminal fees remain subdued, with bids in the 4cpg range and offers in the upper 4cpg level.  As yet there are not known to have been any ‘buybacks’, and for September the number of cancellations is thought to be only a couple so far. It is anticipated that LatAm demand – specifically in Mexico - should begin to improve as Q4 nears and winter-related demand begins to appear.  NWE The region looks balanced to short, and CIF ARA has been strengthening this week, kept strong by the dual push of firming crude and disappointing unchanged US inventories. There is interest from Eastern traders to place cargoes in Europe, at this time European traders are managing term deliveries, and feel one extra VLGC heading into the region could tip the market to long. Petchem margins in the region are not looking good, but we are yet to see a serious reduction in demand. September Propane / Naphtha spread at a measly minus $4pmt, with October and November at minus $1pmt. Butane has been firm in anticipation on blending season, and is 92.5% August Naphtha, although open buying interest for October arrival is yet to be seen. The Rhine water levels have risen to 120cm at Kaub allowing some normality to barge market and propane to reach upstream demand.   MED Petroineos sold a 4KT C4 lot to Trafigura on Monday ex-Lavera, since then the market has been quiet. The expectation that Turkey would continue to import cargoes loaded in Ust-Luga was incorrect. We continue to see those handy vessels STS-ing into VLGCs and going East, with 2 VLGCs completing this operation in August.
+AMERICAS
+Per the latest EIA report, the U.S. propane stocks saw no changes, which remain at 68.00mmbbls.  This equates to 99% of last year and 75% of two years ago.  Robust export volumes over the previous week are the primary cause.  The market had been anticipating something on the order of a 1.6-1.7mmbbl build. 
+Still more surprising - is the fact that after the stock levels were revealed Mont Belvieu propane values saw a modest decline over the course of the day.  Current prices are just below 50% of crude at ~$1.1225/gal.
+Terminal fees remain subdued, with bids in the 4cpg range and offers in the upper 4cpg level.  As yet there are not known to have been any ‘buybacks’, and for September the number of cancellations is thought to be only a couple so far.
+It is anticipated that LatAm demand – specifically in Mexico - should begin to improve as Q4 nears and winter-related demand begins to appear.
+
+NWE
+The region looks balanced to short, and CIF ARA has been strengthening this week, kept strong by the dual push of firming crude and disappointing unchanged US inventories. There is interest from Eastern traders to place cargoes in Europe, at this time European traders are managing term deliveries, and feel one extra VLGC heading into the region could tip the market to long. Petchem margins in the region are not looking good, but we are yet to see a serious reduction in demand. September Propane / Naphtha spread at a measly minus $4pmt, with October and November at minus $1pmt. Butane has been firm in anticipation on blending season, and is 92.5% August Naphtha, although open buying interest for October arrival is yet to be seen. The Rhine water levels have risen to 120cm at Kaub allowing some normality to barge market and propane to reach upstream demand. 
+
+MED
+Petroineos sold a 4KT C4 lot to Trafigura on Monday ex-Lavera, since then the market has been quiet. The expectation that Turkey would continue to import cargoes loaded in Ust-Luga was incorrect. We continue to see those handy vessels STS-ing into VLGCs and going East, with 2 VLGCs completing this operation in August.
 
 ---
 
@@ -106,13 +125,21 @@ AMERICAS Per the latest EIA report, the U.S. propane stocks saw no changes, whic
 ### SnP Weekly Comment
 **Date:** 2022-08-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Tanker markets continue to occupy centre-stage with a flurry of sales to report this week. The Aframax segment is continuing its upward rally supported by strong levels of buying enquiry. Performance Shipping has confirmed its purchase of the “ALPINE AMALIA” (Abt 105k dwt built 2010 HHI). The scrubber fitted LR2 achieved a price of Usd 36.5m falling in line with the most recent appreciation in values in the sector. Similarly the sistership  “ARGO” (Abt 105k dwt built 2009 HHI) was sold at Usd 33.75m. Ridgebury Tankers has taken its tally of vessel disposals this summer to eight with “RIDGEBURY CAPTAIN DROGIN”  (Abt 166k dwt built 2007 HHI) sold at Usd 29m to Greek interests.    Similar dynamics also witnessed in the CPP segments with MR leading the charge. Notable transaction this week being the sale of the sisterships “ALAKIOS” & “ARCHON” (Abt 50k dwt built 2016 Sasmung Ningbo). They achieved a price of Usd 36.5m each reinforcing the positive trend witnessed in the segment. A trend that becomes particularly apparent when compared to the sale of 2016 SPP built LARGO SUN which only last month was sold at Usd 35m.  Also strong prices indeed for the older ones with EGD Shipholding achieving a firm Usd 16.8m for its eighteen year old "AGNES VICTORY" which recently completed DD including installation of BWTS.
+Tanker markets continue to occupy centre-stage with a flurry of sales to report this week. The Aframax segment is continuing its upward rally supported by strong levels of buying enquiry. Performance Shipping has confirmed its purchase of the “ALPINE AMALIA” (Abt 105k dwt built 2010 HHI). The scrubber fitted LR2 achieved a price of Usd 36.5m falling in line with the most recent appreciation in values in the sector. Similarly the sistership  “ARGO” (Abt 105k dwt built 2009 HHI) was sold at Usd 33.75m. Ridgebury Tankers has taken its tally of vessel disposals this summer to eight with “RIDGEBURY CAPTAIN DROGIN”  (Abt 166k dwt built 2007 HHI) sold at Usd 29m to Greek interests.  
+
+Similar dynamics also witnessed in the CPP segments with MR leading the charge. Notable transaction this week being the sale of the sisterships “ALAKIOS” & “ARCHON” (Abt 50k dwt built 2016 Sasmung Ningbo). They achieved a price of Usd 36.5m each reinforcing the positive trend witnessed in the segment. A trend that becomes particularly apparent when compared to the sale of 2016 SPP built LARGO SUN which only last month was sold at Usd 35m.  Also strong prices indeed for the older ones with EGD Shipholding achieving a firm Usd 16.8m for its eighteen year old "AGNES VICTORY" which recently completed DD including installation of BWTS.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2022-08-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST After an active week on shipping in the East the focus has shifted to the West. Last done MEG deal was concluded at a Baltic premium to an Indian major, but as the fixing window is now mainly concentrated on mid-2H September we do not expect this rate to be repeated for next deal(s). We see a variety of open tonnage from both the owners and the traders for this window, and thus expect freight ideas to be more stable.  WEST The US market has been very much alive this week. Several fixtures were concluded and the Houston/Chiba rates have entered into three digit territory on the back of tight shipping availability in the USG in the end of September.  The shipping market for first half September is basically under the control of one pure ship owner, however, to sustain further jumps in the freight rates, the product market needs to strengthen further. A few uncovered cargoes are still left in the last decade of September ex USG and a cargo ex Angola is being marketed for sale.
+EAST
+After an active week on shipping in the East the focus has shifted to the West. Last done MEG deal was concluded at a Baltic premium to an Indian major, but as the fixing window is now mainly concentrated on mid-2H September we do not expect this rate to be repeated for next deal(s). We see a variety of open tonnage from both the owners and the traders for this window, and thus expect freight ideas to be more stable.
+
+WEST
+The US market has been very much alive this week. Several fixtures were concluded and the Houston/Chiba rates have entered into three digit territory on the back of tight shipping availability in the USG in the end of September.
+
+The shipping market for first half September is basically under the control of one pure ship owner, however, to sustain further jumps in the freight rates, the product market needs to strengthen further. A few uncovered cargoes are still left in the last decade of September ex USG and a cargo ex Angola is being marketed for sale.
 
 ---

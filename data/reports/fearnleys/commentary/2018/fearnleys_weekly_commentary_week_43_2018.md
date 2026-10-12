@@ -6,7 +6,7 @@ week: 43
 date_range: "2018-10-25 to 2018-10-25"
 comments_count: 1
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 16:51:05"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 43, 2018
@@ -25,7 +25,8 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### Gas Market Report
 **Date:** 2018-10-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Even after the Saudi acceptance came out, the VLGC market in the East has remained rather lackluster - read more in the full report.
+Even after the Saudi acceptance came out, the VLGC market in the East
+has remained rather lackluster - read more in the full report.
 
 ---
 

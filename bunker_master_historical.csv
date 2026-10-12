@@ -496900,3 +496900,86 @@ observation_date,port_code,port_name,grade,delivery_term,price_usd,change_usd,hi
 2026-10-09,ZA DUR,Durban,MGO,Prompt,2304.5,,,,,USD/MT,ShipAndBunker_RPC
 2026-10-09,ZA DUR,Durban,VLSFO,Prompt,1268.0,,,,,USD/MT,ShipAndBunker_RPC
 2026-10-09,ZA RCB,Richards Bay,VLSFO,Prompt,1255.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,AN EUX,St Eustatius,IFO380,Prompt,750.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,AN EUX,St Eustatius,LSMGO,Prompt,1695.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,AN EUX,St Eustatius,VLSFO,Prompt,960.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,BE ANR,Antwerp,IFO380,Prompt,643.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,BE ANR,Antwerp,LSMGO,Prompt,1360.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,BE ANR,Antwerp,VLSFO,Prompt,716.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN HOK,Hong Kong,IFO380,Prompt,953.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN HOK,Hong Kong,LSMGO,Prompt,1271.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN HOK,Hong Kong,MGO,Prompt,1290.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN HOK,Hong Kong,VLSFO,Prompt,956.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN SHA,Shanghai,IFO380,Prompt,874.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN SHA,Shanghai,LSMGO,Prompt,1357.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN SHA,Shanghai,MGO,Prompt,1400.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN SHA,Shanghai,VLSFO,Prompt,942.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN ZOS,Zhoushan,IFO380,Prompt,881.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN ZOS,Zhoushan,LSMGO,Prompt,1349.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN ZOS,Zhoushan,MGO,Prompt,1395.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,CN ZOS,Zhoushan,VLSFO,Prompt,927.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,DE HAM,Hamburg,IFO380,Prompt,671.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,DE HAM,Hamburg,LSMGO,Prompt,1406.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,DE HAM,Hamburg,MGO,Prompt,1035.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,DE HAM,Hamburg,VLSFO,Prompt,713.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,DK SKW,Skaw,IFO380,Prompt,714.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,DK SKW,Skaw,LSMGO,Prompt,1461.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,DK SKW,Skaw,VLSFO,Prompt,764.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES ALG,Algeciras,BIO,Prompt,915.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES ALG,Algeciras,IFO380,Prompt,712.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES ALG,Algeciras,LSMGO,Prompt,1541.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES ALG,Algeciras,VLSFO,Prompt,734.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES HUV,Huelva,BIO,Prompt,915.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES HUV,Huelva,IFO380,Prompt,712.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES HUV,Huelva,LSMGO,Prompt,1541.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES HUV,Huelva,VLSFO,Prompt,734.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES LPA,Las Palmas,IFO380,Prompt,706.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES LPA,Las Palmas,LSMGO,Prompt,1532.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES LPA,Las Palmas,VLSFO,Prompt,753.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES SCT,Tenerife,IFO380,Prompt,703.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES SCT,Tenerife,LSMGO,Prompt,1534.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,ES SCT,Tenerife,VLSFO,Prompt,750.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,GR PIR,Piraeus,IFO380,Prompt,705.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,GR PIR,Piraeus,LSMGO,Prompt,1545.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,GR PIR,Piraeus,VLSFO,Prompt,830.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,IN BOM,Mumbai,IFO380,Prompt,821.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,IN BOM,Mumbai,LSMGO,Prompt,1747.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,IN BOM,Mumbai,VLSFO,Prompt,954.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,JP TYO,Tokyo,IFO380,Prompt,856.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,JP TYO,Tokyo,LSMGO,Prompt,1156.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,JP TYO,Tokyo,MGO,Prompt,1420.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,JP TYO,Tokyo,VLSFO,Prompt,993.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,KR PUS,Busan,IFO380,Prompt,907.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,KR PUS,Busan,LSMGO,Prompt,1335.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,KR PUS,Busan,MGO,Prompt,1320.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,KR PUS,Busan,VLSFO,Prompt,998.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,MT MLA,Valletta (Malta),IFO380,Prompt,640.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,MT MLA,Valletta (Malta),LSMGO,Prompt,1495.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,MT MLA,Valletta (Malta),VLSFO,Prompt,750.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,NL AMS,Amsterdam,IFO380,Prompt,680.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,NL AMS,Amsterdam,LSMGO,Prompt,1390.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,NL AMS,Amsterdam,VLSFO,Prompt,747.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,PA BLB,"Balboa, Panama",IFO380,Prompt,724.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,PA BLB,"Balboa, Panama",LSMGO,Prompt,1540.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,PA BLB,"Balboa, Panama",VLSFO,Prompt,801.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,PA CTB,"Cristobal, Panama",IFO380,Prompt,724.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,PA CTB,"Cristobal, Panama",LSMGO,Prompt,1540.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,PA CTB,"Cristobal, Panama",VLSFO,Prompt,801.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,SE GOT,Gothenburg,IFO380,Prompt,715.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,SE GOT,Gothenburg,LSMGO,Prompt,1440.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,SE GOT,Gothenburg,VLSFO,Prompt,775.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US LAX,LA / Long Beach,IFO380,Prompt,856.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US LAX,LA / Long Beach,LSMGO,Prompt,1574.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US LAX,LA / Long Beach,VLSFO,Prompt,988.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US MSY,New Orleans,IFO380,Prompt,782.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US MSY,New Orleans,LSMGO,Prompt,1495.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US MSY,New Orleans,VLSFO,Prompt,877.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US NYC,New York,IFO380,Prompt,582.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US NYC,New York,LSMGO,Prompt,1497.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US NYC,New York,VLSFO,Prompt,772.5,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US PHL,Philadelphia,IFO380,Prompt,560.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US PHL,Philadelphia,LSMGO,Prompt,1460.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US PHL,Philadelphia,VLSFO,Prompt,760.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US SEA,Seattle,IFO380,Prompt,814.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US SEA,Seattle,LSMGO,Prompt,1592.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-12,US SEA,Seattle,VLSFO,Prompt,995.0,,,,,USD/MT,ShipAndBunker_RPC

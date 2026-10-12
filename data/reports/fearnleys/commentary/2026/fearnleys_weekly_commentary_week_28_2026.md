@@ -6,7 +6,7 @@ week: 28
 date_range: "2026-07-08 to 2026-07-10"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 28, 2026
@@ -55,7 +55,11 @@ Outstanding West Africa volume for the third decade is likely nearing 10 mbbls, 
 ### Aframax Weekly Comment
 **Date:** 2026-07-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea The main headline this week has been vessels ballasting. Tonnage list in the North Sea has been trimmed with tonnage heading mainly to USG but by the middle of the week heading to the Mediterranean with the busy firming market becoming the destination of choice. North Sea has remained steady so far with not enough activity to be affected by the smaller tonnage list.  Natural dates should start to push towards 3rd decade.  Mediterranean We are slowly heading into 3rd decade of July and rates for local runs are close to the WS 200 mark. Multiple factors are positively affecting the market and the owners have built some proper summer sentiment for now. There are still outstanding cargoes for the 2nd decade and rates are expected to remain under further upward pressure.
+North Sea
+The main headline this week has been vessels ballasting. Tonnage list in the North Sea has been trimmed with tonnage heading mainly to USG but by the middle of the week heading to the Mediterranean with the busy firming market becoming the destination of choice. North Sea has remained steady so far with not enough activity to be affected by the smaller tonnage list.  Natural dates should start to push towards 3rd decade.
+
+Mediterranean
+We are slowly heading into 3rd decade of July and rates for local runs are close to the WS 200 mark. Multiple factors are positively affecting the market and the owners have built some proper summer sentiment for now. There are still outstanding cargoes for the 2nd decade and rates are expected to remain under further upward pressure.
 
 ---
 
@@ -71,7 +75,9 @@ Renewed hostilities in the Middle East have put LNG directly in the firing line,
 ### SnP Weekly Comment
 **Date:** 2026-07-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Strait of Hormuz crossings have almost ground to halt as USA and Iran trade blows once again, proving the fragility of the MOU. While disruption can boost earnings, tanker owners still need the free flow of cargo, and the new strikes are a cause for concern. This week, scrubber fitted GH HOLIDAY (157k dwt New Times 2016) was sold for USD 81M to GNMTC, setting a new benchmark in this sector.   Like on the wet, dry owners and charterers will be closely observing the deteriorating situation in Hormuz. Earnings in the meantime have remained consistent, and values too are strong, which will certainly keep owners happy. There is a “school’s out” feel in the market this week with less second-hand activity than usual, and buyers perhaps taking a step back in these complicated conditions. On the modern front, ultramax WF ARTEMIS (63k dwt Iwagi Zosen 2020) sold to Meghna for USD 36.5M.
+Strait of Hormuz crossings have almost ground to halt as USA and Iran trade blows once again, proving the fragility of the MOU. While disruption can boost earnings, tanker owners still need the free flow of cargo, and the new strikes are a cause for concern. This week, scrubber fitted GH HOLIDAY (157k dwt New Times 2016) was sold for USD 81M to GNMTC, setting a new benchmark in this sector. 
+
+Like on the wet, dry owners and charterers will be closely observing the deteriorating situation in Hormuz. Earnings in the meantime have remained consistent, and values too are strong, which will certainly keep owners happy. There is a “school’s out” feel in the market this week with less second-hand activity than usual, and buyers perhaps taking a step back in these complicated conditions. On the modern front, ultramax WF ARTEMIS (63k dwt Iwagi Zosen 2020) sold to Meghna for USD 36.5M.
 
 ---
 

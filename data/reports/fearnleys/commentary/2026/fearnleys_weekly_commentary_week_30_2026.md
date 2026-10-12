@@ -6,7 +6,7 @@ week: 30
 date_range: "2026-07-22 to 2026-07-24"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 16:51:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 30, 2026
@@ -55,7 +55,11 @@ Stronger USG Aframax rates are expected to improve the sentiment across the Atla
 ### Aframax Weekly Comment
 **Date:** 2026-07-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea North Sea and Mediterranean markets have settled down activity wise in the early part of the week after what had been a very active couple of weeks. The North Sea list remains on the thin side but natural dates now pushing into August with the potential for relets to come back into the frame. The list will be further depleted especially the early part with tonnage heading off to the very firm US markets. For a Summer market rates remain strong giving owners very healthy returns.  Mediterranean Rates in the Mediterranean continue in the high WS 300s with a bit of underground activity so far this week but slower compared to the chaos of last week. At first look tonnage list is long however delays in Trieste, vessels ballasting from the Red Sea-East and potentially ballasting towards USG might keep it more balanced. Returns are too good for owners to say 'no', if a small discount is required but sentiment remains strong. Black Sea disruptions are expected to negatively affect the rates if loadings will get cancelled.
+North Sea
+North Sea and Mediterranean markets have settled down activity wise in the early part of the week after what had been a very active couple of weeks. The North Sea list remains on the thin side but natural dates now pushing into August with the potential for relets to come back into the frame. The list will be further depleted especially the early part with tonnage heading off to the very firm US markets. For a Summer market rates remain strong giving owners very healthy returns.
+
+Mediterranean
+Rates in the Mediterranean continue in the high WS 300s with a bit of underground activity so far this week but slower compared to the chaos of last week. At first look tonnage list is long however delays in Trieste, vessels ballasting from the Red Sea-East and potentially ballasting towards USG might keep it more balanced. Returns are too good for owners to say 'no', if a small discount is required but sentiment remains strong. Black Sea disruptions are expected to negatively affect the rates if loadings will get cancelled.
 
 ---
 
@@ -63,7 +67,13 @@ North Sea North Sea and Mediterranean markets have settled down activity wise in
 ### LNG Market Report
 **Date:** 2026-07-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-High fixing activity has cleared the long list of active requirements seen over the past weeks in the Atlantic. As the market pauses for breath and the number of firm cargoes thins, headline rates have dipped slightly - while still maintaining a significant premium to the East. Availability has widened for mid/late-August laycans, but Charterers requiring worldwide redelivery flex will be constrained by Autumn backstops for most opening tonnage.  A slowdown in Pacific requirements and fixing activity has bolstered the TFDE availability lists in the East. Conversely, with 2-strokes being enticed West, securing larger tonnage for 2H August laycans proves more of a challenge. Competition for cargoes is putting downward pressure on TFDE rates, with 2-stroke owners also needing to sharpen to compete for smaller cargoes.  Delivered LNG price continues to rally, and this week saw the most expensive cargo per MMBtu since 2022, at USD 21.88. These levels are justifying charter rates at a significant premium to the levels otherwise expected in a market that is structurally oversupplied. With pricing unlikely to dip significantly as we head towards Northern Hemisphere winter, it will be a fascinating second half of the year.  Certain portfolio players continue to release tonnage on multi-month and 1-year bases, with fixing rates below current spot rates. This does signal bearish sentiment into next year, although it is not clear-cut yet how different trading strategies will play out in the coming months and thus whether there will be more demand building as LNG players shape up for winter.
+High fixing activity has cleared the long list of active requirements seen over the past weeks in the Atlantic. As the market pauses for breath and the number of firm cargoes thins, headline rates have dipped slightly - while still maintaining a significant premium to the East. Availability has widened for mid/late-August laycans, but Charterers requiring worldwide redelivery flex will be constrained by Autumn backstops for most opening tonnage.
+
+A slowdown in Pacific requirements and fixing activity has bolstered the TFDE availability lists in the East. Conversely, with 2-strokes being enticed West, securing larger tonnage for 2H August laycans proves more of a challenge. Competition for cargoes is putting downward pressure on TFDE rates, with 2-stroke owners also needing to sharpen to compete for smaller cargoes.
+
+Delivered LNG price continues to rally, and this week saw the most expensive cargo per MMBtu since 2022, at USD 21.88. These levels are justifying charter rates at a significant premium to the levels otherwise expected in a market that is structurally oversupplied. With pricing unlikely to dip significantly as we head towards Northern Hemisphere winter, it will be a fascinating second half of the year.
+
+Certain portfolio players continue to release tonnage on multi-month and 1-year bases, with fixing rates below current spot rates. This does signal bearish sentiment into next year, although it is not clear-cut yet how different trading strategies will play out in the coming months and thus whether there will be more demand building as LNG players shape up for winter.
 
 ---
 
@@ -71,13 +81,19 @@ High fixing activity has cleared the long list of active requirements seen over 
 ### SnP Weekly Comment
 **Date:** 2026-07-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Never a dull moment in the tanker market as this week oil eclipsed USD 100/bbl for the first time since May, amid renewed involvement in the general conflict by the Houthis. Threats and attacks against vessels transiting the Bab-el-Mandeb Strait mean that we are presented with a two-chokepoint problem, which would exacerbate the already extraordinary market conditions tankers (and global oil flows) are facing. Wider economic fears are shaking markets, with most hoping that a resolution can be found quickly so that we are not faced with a sustained high oil price environment. Buyers are cautiously watching the unfolding situation, with second-hand sales effectively grinding to a halt. This week STST J19 EVA HONGKONG (19k dwt Usuki 2017) sold for USD 30M.    Amid the headline grabbing tanker market, dry has remained consistent. Earnings have not budged for the past few weeks, and sellers of tonnage are largely able to set lofty price targets for any buyers willing to meet them. The allure of these earnings are enough for some buyers, as we are seeing a steady stream of sales. China remains one of the prime destinations for second hand capes as this week sisters AANYA/AASHNA (179k dwt HHIC 2012) sold for USD 75M en bloc to Chinese buyers. The sale that stole the show this week, however, is ultramax SEACON TOKYO (66k dwt Tsuneishi Zhoushan 2023) selling for USD 41.6M, a figure that will have owners and brokers rethinking their values.
+Never a dull moment in the tanker market as this week oil eclipsed USD 100/bbl for the first time since May, amid renewed involvement in the general conflict by the Houthis. Threats and attacks against vessels transiting the Bab-el-Mandeb Strait mean that we are presented with a two-chokepoint problem, which would exacerbate the already extraordinary market conditions tankers (and global oil flows) are facing. Wider economic fears are shaking markets, with most hoping that a resolution can be found quickly so that we are not faced with a sustained high oil price environment. Buyers are cautiously watching the unfolding situation, with second-hand sales effectively grinding to a halt. This week STST J19 EVA HONGKONG (19k dwt Usuki 2017) sold for USD 30M. 
+ 
+Amid the headline grabbing tanker market, dry has remained consistent. Earnings have not budged for the past few weeks, and sellers of tonnage are largely able to set lofty price targets for any buyers willing to meet them. The allure of these earnings are enough for some buyers, as we are seeing a steady stream of sales. China remains one of the prime destinations for second hand capes as this week sisters AANYA/AASHNA (179k dwt HHIC 2012) sold for USD 75M en bloc to Chinese buyers. The sale that stole the show this week, however, is ultramax SEACON TOKYO (66k dwt Tsuneishi Zhoushan 2023) selling for USD 41.6M, a figure that will have owners and brokers rethinking their values.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2026-07-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST The arb has been widening all week, and freight is following; where we saw ~250 $/mt end of last week, we now see last done at high 280s $/mt and Owners last ideas between 290 and 300+. US propane stocks rose by 6.3mn/b per EIA weekly stats. Fixing activity in the West has been focused in last decade August dates, with one first decade September fixture reported. There are still a handful of ships able to meet august dates.  EAST East activity continues to be limited with some owners still waiting for any change in the Strait transits.
+WEST
+The arb has been widening all week, and freight is following; where we saw ~250 $/mt end of last week, we now see last done at high 280s $/mt and Owners last ideas between 290 and 300+. US propane stocks rose by 6.3mn/b per EIA weekly stats. Fixing activity in the West has been focused in last decade August dates, with one first decade September fixture reported. There are still a handful of ships able to meet august dates.
+
+EAST
+East activity continues to be limited with some owners still waiting for any change in the Strait transits.
 
 ---

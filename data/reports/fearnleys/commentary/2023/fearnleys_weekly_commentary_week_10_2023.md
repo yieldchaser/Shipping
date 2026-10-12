@@ -6,7 +6,7 @@ week: 10
 date_range: "2023-03-06 to 2023-03-08"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:36"
+generated_at: "2026-10-12 16:51:11"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 10, 2023
@@ -91,14 +91,33 @@ As the spot market continues gaining momentum, we’re seeing a focus back in th
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2023-03-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG At the time of writing, Apr C3 Cp was traded at $636 and C4 at $3 higher only, with expectation on ample supply for butane after producers’ maintenance completion. Apr/May was traded at $40 backwardation.  FEA Window was quiet as most players travelling for Japan conference. Till Thursday we see two buyers bid for 23kt propane parcel for 1h And 2h Apr delivery with idea at FEI plus Low 20s.  Off window a handful of buy tenders from China petchem users emerged this week.  One EChina cracker user procured a 23kt propane for 1H Apr delivery into Ningbo at Apr FEI plus Low mid 30s reportedly. One SChina PDH user tendered to buy 10-25th Apr delivered 23kt or 46kt propane into Qinzhou and was reported awarded at Apr Cp plus Low mid 20. Another EChina PDH also tendered to buy similar cargo but for delivery into Ningbo in 2h Apr.
+MEG
+At the time of writing, Apr C3 Cp was traded at $636 and C4 at $3 higher only, with expectation on ample supply for butane after producers’ maintenance completion. Apr/May was traded at $40 backwardation.
+
+FEA
+Window was quiet as most players travelling for Japan conference. Till Thursday we see two buyers bid for 23kt propane parcel for 1h And 2h Apr delivery with idea at FEI plus Low 20s.
+
+Off window a handful of buy tenders from China petchem users emerged this week. 
+One EChina cracker user procured a 23kt propane for 1H Apr delivery into Ningbo at Apr FEI plus Low mid 30s reportedly. One SChina PDH user tendered to buy 10-25th Apr delivered 23kt or 46kt propane into Qinzhou and was reported awarded at Apr Cp plus Low mid 20. Another EChina PDH also tendered to buy similar cargo but for delivery into Ningbo in 2h Apr.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2023-03-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS  The trio of conferences scheduled for both this week and last has left the market dismally quiet with little to report other than a relatively small draw as calculated by the EIA.    Stock levels last week were recorded at 60.6mmbbls, where this week – the week ending 03 March - the overall total now stands at 60.1mmbbls, a decline of a half-million barrels where a minimum draw of 750,000bbls to as much as 2.3mmbbls was being forecast.  This puts inventories for the first week of March at 169% of last year and 145% of two years ago.  The 5-year average draw for this week – the 8th of the year – is 1.648mmbbls while the 5-year average stock level for the same period is 44.175mmbbls.   Terminal fees topped out in the low ‘teens’ for March and are backwardated well into the summer months, with April talked at 7cts, May just a bit lower, still, and June currently presumed in the mid-single digits.     NWE The market seems to have decided winter is over! March/April backwardation narrowed from $52/MT Friday to $35/MT at the close Wednesday, showing the a relaxing of the prompt tightness. This was coupled with the oturight drop in propane value in the region by 10% this week to below $600pmt. Though this may show more of the underlying market conditions as crude oil lost value early week. Additionallly over 300,000MT of US LPG is set to land in the region in March, as the end February and early March tightness pushed CIF ARA to a better netback than FEI. The propane nahptha spread remains favourable for propane at -$120/MT and with crude oil bouncing back today propane will remain preferable to naphtha. The TOT offer shown in the window was not renewed and the large cargo physical premium is assessed at March CIF ARA +$12.5/MT.   MED The region haas been quiet as North African butane stocks look to be enough to get through the remainder of winter. The large NorthWest European imports couple with North Sea production increasing has Medittareanean impoters waiting for offers rather than searching for cargoes.
+AMERICAS 
+The trio of conferences scheduled for both this week and last has left the market dismally quiet with little to report other than a relatively small draw as calculated by the EIA. 
+ 
+Stock levels last week were recorded at 60.6mmbbls, where this week – the week ending 03 March - the overall total now stands at 60.1mmbbls, a decline of a half-million barrels where a minimum draw of 750,000bbls to as much as 2.3mmbbls was being forecast.  This puts inventories for the first week of March at 169% of last year and 145% of two years ago.  The 5-year average draw for this week – the 8th of the year – is 1.648mmbbls while the 5-year average stock level for the same period is 44.175mmbbls.
+ 
+Terminal fees topped out in the low ‘teens’ for March and are backwardated well into the summer months, with April talked at 7cts, May just a bit lower, still, and June currently presumed in the mid-single digits.
+ 
+ 
+NWE
+The market seems to have decided winter is over! March/April backwardation narrowed from $52/MT Friday to $35/MT at the close Wednesday, showing the a relaxing of the prompt tightness. This was coupled with the oturight drop in propane value in the region by 10% this week to below $600pmt. Though this may show more of the underlying market conditions as crude oil lost value early week. Additionallly over 300,000MT of US LPG is set to land in the region in March, as the end February and early March tightness pushed CIF ARA to a better netback than FEI. The propane nahptha spread remains favourable for propane at -$120/MT and with crude oil bouncing back today propane will remain preferable to naphtha. The TOT offer shown in the window was not renewed and the large cargo physical premium is assessed at March CIF ARA +$12.5/MT. 
+
+MED
+The region haas been quiet as North African butane stocks look to be enough to get through the remainder of winter. The large NorthWest European imports couple with North Sea production increasing has Medittareanean impoters waiting for offers rather than searching for cargoes.
 
 ---
 
@@ -106,13 +125,19 @@ AMERICAS  The trio of conferences scheduled for both this week and last has left
 ### SnP Weekly Comment
 **Date:** 2023-03-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The tanker charter market roared back into life this week with the biggest intraday rate jump in recent memory seen yesterday. In the S&P space, healthy MR TC returns are proving too alluring to resist, with market players flocking to snap up units all along the age curve. MTM shed 3 units, MTM MANILA/YANGON/MUMBAI (46K DWT 2003 HMD) to Chinese buyers, while Norden and Ridgebury both offloaded one unit respectively in the form of scrubber fitted NORD SKATE (51K DWT 2009 STX) for USD 24.25M and RIDGEBURY MERCURY (46K DWT 2008 HMD) for USD 21M. Price ideas, particularly for late 2000s units are on the rise, with some prospective buyers beginning to rethink their intentions. In the larger sizes, all over the age curve, prices continue to rise with USD 35M now needed to purchase a 2004 blt Suezmax, seen in the form of KRITI DIAMOND (166K DWT 2004 BRODOSPLIT) to undisclosed buyers.  Elevated activity levels in the dry market have seemingly put the recent market misfortunes firmly in the rear-view mirror, as sentiment and momentum build. Quality designs and yards are in demand with Supramax IVS Pinehurst (58K DWT 2015 TSUNEISHI CEBU) being sold for USD 23.5M by Grindrod to Greek buyers, and Supramax IGNAZIO (58K DWT 2010 TSUNEISHI CEBU) being sold for USD 15M. Last week’s reported sale of Supramax SUPRA ONIKI (57K DWT 2010 QINGSHAN), has since failed at USD 13M, with increased levels likely to be required to develop a new transaction. Oldendorff made headlines on the sales of 4 modern Chinese built scrubber-fitted Ultramax units JAN/JONAS/JENS/JACOB OLDENDORFF (61K DWT 2019 NACKS/DACKS) at USD 32M per unit, market players are sure to be taking note of this in what is a very popular sub sector.
+The tanker charter market roared back into life this week with the biggest intraday rate jump in recent memory seen yesterday. In the S&P space, healthy MR TC returns are proving too alluring to resist, with market players flocking to snap up units all along the age curve. MTM shed 3 units, MTM MANILA/YANGON/MUMBAI (46K DWT 2003 HMD) to Chinese buyers, while Norden and Ridgebury both offloaded one unit respectively in the form of scrubber fitted NORD SKATE (51K DWT 2009 STX) for USD 24.25M and RIDGEBURY MERCURY (46K DWT 2008 HMD) for USD 21M. Price ideas, particularly for late 2000s units are on the rise, with some prospective buyers beginning to rethink their intentions. In the larger sizes, all over the age curve, prices continue to rise with USD 35M now needed to purchase a 2004 blt Suezmax, seen in the form of KRITI DIAMOND (166K DWT 2004 BRODOSPLIT) to undisclosed buyers.
+
+Elevated activity levels in the dry market have seemingly put the recent market misfortunes firmly in the rear-view mirror, as sentiment and momentum build. Quality designs and yards are in demand with Supramax IVS Pinehurst (58K DWT 2015 TSUNEISHI CEBU) being sold for USD 23.5M by Grindrod to Greek buyers, and Supramax IGNAZIO (58K DWT 2010 TSUNEISHI CEBU) being sold for USD 15M. Last week’s reported sale of Supramax SUPRA ONIKI (57K DWT 2010 QINGSHAN), has since failed at USD 13M, with increased levels likely to be required to develop a new transaction. Oldendorff made headlines on the sales of 4 modern Chinese built scrubber-fitted Ultramax units JAN/JONAS/JENS/JACOB OLDENDORFF (61K DWT 2019 NACKS/DACKS) at USD 32M per unit, market players are sure to be taking note of this in what is a very popular sub sector.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2023-03-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST With many players attending the Tokyo LPG conference the week got off to a slow start in both the East and the West. At the time of writing, we have seen a couple of spot fixtures in the Middle East with last done concluded at high 90s RT/C. Although April fixing in the East is already well underway, we still find a few open ships that can make end March laycans, but some of them might end up ballasting to the West. Currently the vessel supply in early April is looking tight, but it is likely we will see more ships appearing as discharge schedules are still not confirmed.    WEST The position list is looking tight at the front of April, but further into mid and end April there are more ships from both the Owners and the Traders. In total we have seen 18 spot fixtures concluded so far in April ex USG/USEC (6 first decade, 10 second decade and 2 last decade). For reference the monthly average for spot fixtures has been 28-29 the last three months. Using latest Baltic print we get a 15 dollar discount in the West before waiting in the Panama Canal which now is showing 18 days northbound for Neo-VLGCs. Last deal done ex USG concluded at around mid-140 H/C.
+EAST
+With many players attending the Tokyo LPG conference the week got off to a slow start in both the East and the West. At the time of writing, we have seen a couple of spot fixtures in the Middle East with last done concluded at high 90s RT/C. Although April fixing in the East is already well underway, we still find a few open ships that can make end March laycans, but some of them might end up ballasting to the West. Currently the vessel supply in early April is looking tight, but it is likely we will see more ships appearing as discharge schedules are still not confirmed.  
+
+WEST
+The position list is looking tight at the front of April, but further into mid and end April there are more ships from both the Owners and the Traders. In total we have seen 18 spot fixtures concluded so far in April ex USG/USEC (6 first decade, 10 second decade and 2 last decade). For reference the monthly average for spot fixtures has been 28-29 the last three months. Using latest Baltic print we get a 15 dollar discount in the West before waiting in the Panama Canal which now is showing 18 days northbound for Neo-VLGCs. Last deal done ex USG concluded at around mid-140 H/C.
 
 ---

@@ -6,7 +6,7 @@ week: 52
 date_range: "2021-12-29 to 2021-12-29"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:34"
+generated_at: "2026-10-12 16:51:10"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 52, 2021
@@ -69,14 +69,18 @@ The Suezmax market has been dead quiet over the Xmas holidays. Very few fixtures
 ### Aframax Weekly Comment
 **Date:** 2021-12-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-Christmas week was a quiet one with quite a few deals being done under the radar with people repeating last done levels. Charterers tried to fix as forward as possible, and supply of vessels look quite balanced for the time being. As we move forward we expect rates to move sideways. When the full Urals program is out it will be easier to get a better picture.  The Med/Bsea market has also been in the Christmas doldrums this week with very little cargo activity. As we move towards the end of the final week 2021 there is a buildup of prompt ships in the area, and the market needs a good test from a cross-Med or ex-Bsea voyage to see where we stand in terms of rate levels. Going into next week we expect the market to remain soft with little activity.
+Christmas week was a quiet one with quite a few deals being done under the radar with people repeating last done levels. Charterers tried to fix as forward as possible, and supply of vessels look quite balanced for the time being. As we move forward we expect rates to move sideways. When the full Urals program is out it will be easier to get a better picture.
+
+The Med/Bsea market has also been in the Christmas doldrums this week with very little cargo activity. As we move towards the end of the final week 2021 there is a buildup of prompt ships in the area, and the market needs a good test from a cross-Med or ex-Bsea voyage to see where we stand in terms of rate levels. Going into next week we expect the market to remain soft with little activity.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2021-12-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Christmas week was a quiet one with quite a few deals being done under the radar with people repeating last done levels. Charterers tried to fix as forward as possible, and supply of vessels look quite balanced for the time being. As we move forward we expect rates to move sideways. When the full Urals program is out it will be easier to get a better picture.  The Med/Bsea market has also been in the Christmas doldrums this week with very little cargo activity. As we move towards the end of the final week 2021 there is a buildup of prompt ships in the area, and the market needs a good test from a cross-Med or ex-Bsea voyage to see where we stand in terms of rate levels. Going into next week we expect the market to remain soft with little activity.
+Christmas week was a quiet one with quite a few deals being done under the radar with people repeating last done levels. Charterers tried to fix as forward as possible, and supply of vessels look quite balanced for the time being. As we move forward we expect rates to move sideways. When the full Urals program is out it will be easier to get a better picture.
+
+The Med/Bsea market has also been in the Christmas doldrums this week with very little cargo activity. As we move towards the end of the final week 2021 there is a buildup of prompt ships in the area, and the market needs a good test from a cross-Med or ex-Bsea voyage to see where we stand in terms of rate levels. Going into next week we expect the market to remain soft with little activity.
 
 ---
 
@@ -84,7 +88,13 @@ Christmas week was a quiet one with quite a few deals being done under the radar
 ### LNG Market Report
 **Date:** 2021-12-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-As we prepare to raise our glasses to the start of a New Year in LNG, it is only prudent to reflect on the year past. From baffling bouts of volatility giving way to landmark records across freight and LNG indices alike, to recent reversals in longstanding trade flows unexpectedly drawing us into uncharted territory, 2021 has been one heck of a year for our segment. Now, as we build off the momentum of this rollercoaster we can only look forward to another exciting 12 months.    What we can say in the leadup to this New Year is that the market finally seems to be catching a breather after an exhilaratingly tight and action-packed few months. With a number of portfolios and end-users closing out positions pre-holidays and limited activity across shipping and cargo markets since, we see a general softening of rates across the board. European gas remains at a premium to its Asian counterpart resulting in more and more ships diverting to Europe mid-voyage, setting the scene for an increase in tonnage in the West along with a decrease in tonne-miles for the LNG fleet given the pull from Europe persists into the New Year. However, even with this at the forefront our minds as we sink back into our sofas for Harry Potter marathons in reticent fashion, there is a general unspoken understanding among us LNG folk that nothing is for certain these days in LNG, one can only wait and see. Bring on 2022.   On the newbuilding front this week, prices remain firm while one order has been recorded at SHI.   Wishing all of our readers a very healthy, happy and prosperous New Year!
+As we prepare to raise our glasses to the start of a New Year in LNG, it is only prudent to reflect on the year past. From baffling bouts of volatility giving way to landmark records across freight and LNG indices alike, to recent reversals in longstanding trade flows unexpectedly drawing us into uncharted territory, 2021 has been one heck of a year for our segment. Now, as we build off the momentum of this rollercoaster we can only look forward to another exciting 12 months. 
+ 
+What we can say in the leadup to this New Year is that the market finally seems to be catching a breather after an exhilaratingly tight and action-packed few months. With a number of portfolios and end-users closing out positions pre-holidays and limited activity across shipping and cargo markets since, we see a general softening of rates across the board. European gas remains at a premium to its Asian counterpart resulting in more and more ships diverting to Europe mid-voyage, setting the scene for an increase in tonnage in the West along with a decrease in tonne-miles for the LNG fleet given the pull from Europe persists into the New Year. However, even with this at the forefront our minds as we sink back into our sofas for Harry Potter marathons in reticent fashion, there is a general unspoken understanding among us LNG folk that nothing is for certain these days in LNG, one can only wait and see. Bring on 2022.
+ 
+On the newbuilding front this week, prices remain firm while one order has been recorded at SHI.
+ 
+Wishing all of our readers a very healthy, happy and prosperous New Year!
 
 ---
 

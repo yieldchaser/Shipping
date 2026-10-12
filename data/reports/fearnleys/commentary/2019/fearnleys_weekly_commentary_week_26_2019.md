@@ -6,7 +6,7 @@ week: 26
 date_range: "2019-06-24 to 2019-06-25"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 16:51:06"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 26, 2019
@@ -84,14 +84,25 @@ The Aframax market in the North Sea and Baltic has continued to move sideways th
 ### LNG Market Report
 **Date:** 2019-06-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The overall sentiment in both basins remained steady, but shipping requirements saw a slight decline compared to the previous weeks. The fundamentals of the current trades in both East and West of Suez are still unchanged, as the handful of recent fixtures concluded were intra-basin businesses.  Shipping rates in the Pacific are taking a slight dip and the Atlantic has also seen lesser trades however not enough to justify a drop in rates due to shipping availability being limited and more balanced than the East. Despite the slowdown on the spot, the multi months, term and forward fixing requirements remain fairly strong with Owners standing firm and not submitting to pressure of the current market.  Nevertheless, with Brent prices picking up, more cargo tenders anticipated to come out for Q3-Q4 2019 and seasonal demand in preparation for winter, we expect to see spot activities increase again. Newbuild prices remain unchanged and no further reports of any new orders this week.
+The overall sentiment in both basins remained steady, but shipping requirements saw a slight decline compared to the previous weeks.
+The fundamentals of the current trades in both East and West of Suez are still unchanged, as the handful of recent fixtures concluded were intra-basin businesses. 
+Shipping rates in the Pacific are taking a slight dip and the Atlantic has also seen lesser trades however not enough to justify a drop in rates due to shipping availability being limited and more balanced than the East.
+Despite the slowdown on the spot, the multi months, term and forward fixing requirements remain fairly strong with Owners standing firm and not submitting to pressure of the current market. 
+Nevertheless, with Brent prices picking up, more cargo tenders anticipated to come out for Q3-Q4 2019 and seasonal demand in preparation for winter, we expect to see spot activities increase again.
+Newbuild prices remain unchanged and no further reports of any new orders this week.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-06-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Flat price spiked up from mid-week following the crude price rise, buoyed by the larger decline on crude stock and the concerns on oil supply over the tension between US-Tehran. At the time of writing, Jul CP traded at $376, while Jul FEI at $421. Aug swap number is being volatile, followed tightly at flattish level to July at the moment. But it seems too early to judge if it’s into a contango or backwadation structure, mirroring player’s sentiment on future uncertainties. Jul CP is expected to be announced by this Sunday, and Saudi Aramco is reported to have a mid/2h July lifting 2/2 cargo available.   FAR EAST: With the IHS conference held in HK this week, and the last week before July CP announced, window appears quiet.  On Tue 23kt propane for 1H Aug delivery is traded at Aug FEI plus 1.5$. One fob seller is offering 17-21 Jul lifting 2/2 at discount of 5$, however difficult to entice buyer’s interest as freight still hovering at high 70s level. And propane for 2h Jul was bid at Jul FEI plus $4 while 1h Aug at Aug fei flat only, reflecting the length in in forward market. One North China petchem user have purchased a full propane cargo for 1H Aug delivery reported at CP plus 70s. We expect into Aug China petchem demand to be robust as SP chemical cracker is stockpiling feedstock for the cracker, with all PDHs running at good margin, far better compared to the retailing demand. Indonesia Pertamina issued buy tender for a 3/1 cargo delivered to Kalbut at 9-11th Aug while result was yet to hear. Taiwan FPCC awarded their buy tender for 44kt C3 for 1-10th Aug delivery at Aug MOPJ minus $80.
+MEG:
+Flat price spiked up from mid-week following the crude price rise, buoyed by the larger decline on crude stock and the concerns on oil supply over the tension between US-Tehran. At the time of writing, Jul CP traded at $376, while Jul FEI at $421. Aug swap number is being volatile, followed tightly at flattish level to July at the moment. But it seems too early to judge if it’s into a contango or backwadation structure, mirroring player’s sentiment on future uncertainties. Jul CP is expected to be announced by this Sunday, and Saudi Aramco is reported to have a mid/2h July lifting 2/2 cargo available. 
+
+FAR EAST:
+With the IHS conference held in HK this week, and the last week before July CP announced, window appears quiet. 
+On Tue 23kt propane for 1H Aug delivery is traded at Aug FEI plus 1.5$. One fob seller is offering 17-21 Jul lifting 2/2 at discount of 5$, however difficult to entice buyer’s interest as freight still hovering at high 70s level. And propane for 2h Jul was bid at Jul FEI plus $4 while 1h Aug at Aug fei flat only, reflecting the length in in forward market.
+One North China petchem user have purchased a full propane cargo for 1H Aug delivery reported at CP plus 70s. We expect into Aug China petchem demand to be robust as SP chemical cracker is stockpiling feedstock for the cracker, with all PDHs running at good margin, far better compared to the retailing demand. Indonesia Pertamina issued buy tender for a 3/1 cargo delivered to Kalbut at 9-11th Aug while result was yet to hear. Taiwan FPCC awarded their buy tender for 44kt C3 for 1-10th Aug delivery at Aug MOPJ minus $80.
 
 ---
 
@@ -106,6 +117,10 @@ Mt Belvieu prices are still affected by the weekly stock numbers. This week Mt B
 ### Chartering Weekly Comment
 **Date:** 2019-06-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-In the VLGC market in the west, end July and early August vessel supply is rather tight ex-US Gulf, and we expect cargo lifters in need of vessels to come out sooner rather than later to cover their early August liftings.  A few relets have started to appear, however, nothing has been fixed at the time of writing for either end July or early August ex US so far. We do expect owners to keep pushing for Baltic equivalent rates on Houston/Chiba (via panama) basis, which over the last few days have started to slide.  In the Eastern Market, it seems the Baltic LPG index is struggling to find its feet due to lack of activity. Nevertheless, contrary to the drop in Baltic seen over the last couple of days, a few vessels have reportedly been fixed at rates starting with an 8.
+In the VLGC market in the west, end July and early August vessel supply is rather tight ex-US Gulf, and we expect cargo lifters in need of vessels to come out sooner rather than later to cover their early August liftings.
+
+A few relets have started to appear, however, nothing has been fixed at the time of writing for either end July or early August ex US so far. We do expect owners to keep pushing for Baltic equivalent rates on Houston/Chiba (via panama) basis, which over the last few days have started to slide.
+
+In the Eastern Market, it seems the Baltic LPG index is struggling to find its feet due to lack of activity. Nevertheless, contrary to the drop in Baltic seen over the last couple of days, a few vessels have reportedly been fixed at rates starting with an 8.
 
 ---

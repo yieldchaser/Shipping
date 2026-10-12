@@ -6,7 +6,7 @@ week: 30
 date_range: "2019-07-23 to 2019-07-26"
 comments_count: 17
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 16:51:07"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 30, 2019
@@ -19,7 +19,8 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### Capesize Weekly Comment
 **Date:** 2019-07-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The market is falling off currently on the back of abundant vessels in the Atlantic basin and a lack of fresh requirements. Some of the recent gains must be attributed to a shortage of vessels in the Atlantic due to low expectations for Vale volumes and as a few vessels were out for scrubber retrofitting.  Still, fundamentals are better, and expected to improve further in the coming months. So the remainder of the year should still see rates at levels giving good returns for owners...
+The market is falling off currently on the back of abundant vessels in the Atlantic basin and a lack of fresh requirements. Some of the recent gains must be attributed to a shortage of vessels in the Atlantic due to low expectations for Vale volumes and as a few vessels were out for scrubber retrofitting. 
+Still, fundamentals are better, and expected to improve further in the coming months. So the remainder of the year should still see rates at levels giving good returns for owners...
 
 ---
 
@@ -33,7 +34,9 @@ Nothing lasts forever, and indicators show that the market may take a breather f
 ### Supramax Weekly Comment
 **Date:** 2019-07-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The sentiment has remained the same over last 7 days , although the pace of rate increases slowed down . In the Atlantic the upward trend stopped today and USG to Continent pay again around 18500 . Back-hauls voyages to USA/SAM were slightly higher , average USD 500 more by comparison to last Wednesday levels . On the other hand North Continent /Baltic tonnage was in search of cargoes direction East Med/Black Sea , so spot cargoes to USG/SAM had to pay premium rates . Pacific rates stayed very healthy and rose last week by average of USD 1000, whilst Nopac voyages are paying now more or less USD 1000 a day more comparing to last Wednesday reports . The overall BSI index rose from  928 to 1019 , therefore all in all the bullish sentiment prevails in the market .
+The sentiment has remained the same over last 7 days , although the pace of rate increases slowed down .
+In the Atlantic the upward trend stopped today and USG to Continent pay again around 18500 . Back-hauls voyages to USA/SAM were slightly higher , average USD 500 more by comparison to last Wednesday levels . On the other hand North Continent /Baltic tonnage was in search of cargoes direction East Med/Black Sea , so spot cargoes to USG/SAM had to pay premium rates .
+Pacific rates stayed very healthy and rose last week by average of USD 1000, whilst Nopac voyages are paying now more or less USD 1000 a day more comparing to last Wednesday reports . The overall BSI index rose from  928 to 1019 , therefore all in all the bullish sentiment prevails in the market .
 
 ---
 
@@ -91,14 +94,23 @@ It has been another active week on the shipping side, as we have witnessed a num
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-07-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Despite the crude rise earlier this week and improved demand, August swaps was traded under pressure at $360, $15 less than our last report. September CP still maintains at $3-4 contango for the time being. FOB market appeared quiet this week, both for cargo and freight trades. Some players with shipping length are reportedly looking for possible spot cargoes to utilize their ships. With softening freight and improving premia in Eastern market, FOB discounts have narrowed and today one trader was seen offering their late Aug Yanbu lifting 2/2 ratio asking Aug CP plus $5 (Yanbu discount to apply), while the last deal for similar cargo was done at CP minus single digit.     FAR EAST:  Window bids/offers still roam at discount levels.  On Wednesday a 23k Propane for 2h August was traded at August FEI minus $4. A similar cargo for same period, today was offered at minus $2 and cargo for 1h Sep offers at minus $5 basis Sep FEI, yet no bids was seen.  Earlier this week, the strong MB and firm freight squeezed the arbitrage value but latest stock data with a considerable build has enable the economy to return again for Eastern trades.  Off window enquires have been rather active. One EChina PDH user awarded their buy tender for 23k Propane delivered in 2h Aug at Aug CP plus mid high $60s, in addition, an other EChina cracker user was reported to have awarded their buy tender for 22k Propane for delivery end Aug into Taixing at Aug CP plus $60s, even if their original tender demand was for upto 44k Propane.  FPCC has issued a spot tender to buy a 33/11 or 44/0 for delivery during 11-15th Sep, the result is not yet to known.  Pertamina reportedly awarded one 2/2 for their mid Sep demand into Teluk Semangka, and are still looking for one more.
+MEG:
+Despite the crude rise earlier this week and improved demand, August swaps was traded under pressure at $360, $15 less than our last report. September CP still maintains at $3-4 contango for the time being. FOB market appeared quiet this week, both for cargo and freight trades. Some players with shipping length are reportedly looking for possible spot cargoes to utilize their ships. With softening freight and improving premia in Eastern market, FOB discounts have narrowed and today one trader was seen offering their late Aug Yanbu lifting 2/2 ratio asking Aug CP plus $5 (Yanbu discount to apply), while the last deal for similar cargo was done at CP minus single digit.  
+
+FAR EAST: 
+Window bids/offers still roam at discount levels.  On Wednesday a 23k Propane for 2h August was traded at August FEI minus $4. A similar cargo for same period, today was offered at minus $2 and cargo for 1h Sep offers at minus $5 basis Sep FEI, yet no bids was seen. 
+Earlier this week, the strong MB and firm freight squeezed the arbitrage value but latest stock data with a considerable build has enable the economy to return again for Eastern trades. 
+Off window enquires have been rather active. One EChina PDH user awarded their buy tender for 23k Propane delivered in 2h Aug at Aug CP plus mid high $60s, in addition, an other EChina cracker user was reported to have awarded their buy tender for 22k Propane for delivery end Aug into Taixing at Aug CP plus $60s, even if their original tender demand was for upto 44k Propane. 
+FPCC has issued a spot tender to buy a 33/11 or 44/0 for delivery during 11-15th Sep, the result is not yet to known. 
+Pertamina reportedly awarded one 2/2 for their mid Sep demand into Teluk Semangka, and are still looking for one more.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2019-07-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERCIAS A 1.6 million barrel build has done what it can to help a US-FEI arb. Traders feel that US product inventories will approach 1 hundred million barrels before the start of the demand season . Terminal expansion discussions continue to ramp up, but in the current market the terminalling fee discussions are edging towards cancellation levels. This may or may not be affecting the speed of potential export growth which looks to have slowed. Product traders are looking at FOB opportunities, and unless they have their own freight , the arb does not make sense. Traders are hoping for an imminent freight decline to make arb cargo trades workable.
+AMERCIAS
+A 1.6 million barrel build has done what it can to help a US-FEI arb. Traders feel that US product inventories will approach 1 hundred million barrels before the start of the demand season . Terminal expansion discussions continue to ramp up, but in the current market the terminalling fee discussions are edging towards cancellation levels. This may or may not be affecting the speed of potential export growth which looks to have slowed. Product traders are looking at FOB opportunities, and unless they have their own freight , the arb does not make sense. Traders are hoping for an imminent freight decline to make arb cargo trades workable.
 
 ---
 
@@ -106,7 +118,15 @@ AMERCIAS A 1.6 million barrel build has done what it can to help a US-FEI arb. T
 ### Chartering Weekly Comment
 **Date:** 2019-07-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST  Most of this week has been quiet, with freight weakening. It will be interesting to see what impact US inventories will have later today.  Vessel availability has generally remained unchanged. It is a bit too late for cancellations in the first two decades in Aug, so we would expect players to need to come out to fix soon.  EAST   Baltic finally enters the stage of correction. Market decreases by about a dollar day by day, and daily TCE has decreased to lower than $60,000. Worldwide, less congestion means more vessel supply in the market, but lifting demand is limited so far. Indian demand is being sluggish from May onward and present physical contango set end month FOB lifting status. Even though freight is getting cheaper, we still see many traders relet for Aug in the Eastern market. Considering present Baltic falling speed and downward pressure from many relets, freight heads to $50,000 level as bottom line in a short term unless we see some bullish events such as Typhoon, Hurricane etc.
+WEST
+
+Most of this week has been quiet, with freight weakening. It will be interesting to see what impact US inventories will have later today.
+
+Vessel availability has generally remained unchanged. It is a bit too late for cancellations in the first two decades in Aug, so we would expect players to need to come out to fix soon.
+
+EAST 
+
+Baltic finally enters the stage of correction. Market decreases by about a dollar day by day, and daily TCE has decreased to lower than $60,000. Worldwide, less congestion means more vessel supply in the market, but lifting demand is limited so far. Indian demand is being sluggish from May onward and present physical contango set end month FOB lifting status. Even though freight is getting cheaper, we still see many traders relet for Aug in the Eastern market. Considering present Baltic falling speed and downward pressure from many relets, freight heads to $50,000 level as bottom line in a short term unless we see some bullish events such as Typhoon, Hurricane etc.
 
 ---
 

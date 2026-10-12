@@ -4,13 +4,13 @@ source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2022
 week: 28
 date_range: "2022-07-13 to 2022-07-15"
-comments_count: 11
+comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:35"
+generated_at: "2026-10-12 16:51:10"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 28, 2022
-*Coverage Period: 2022-07-13 to 2022-07-15 | Total Notes: 11*
+*Coverage Period: 2022-07-13 to 2022-07-15 | Total Notes: 13*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 28 (2022).
@@ -30,23 +30,41 @@ We have seen another week with limited supply of new cargoes in both hemispheres
 
 ---
 
+### Supramax Weekly Comment
+**Date:** 2022-07-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+Quiet start to the week with holidays across the board. Slight dip in the count of vessels heading to the South Atlantic, from all-time high levels.  Slight increase in vessels heading to the North Atlantic. Continued decline in vessels heading to Med/Black Sea. Ultramax from ECSA to Vietnam was fixed at USD 26,000 + 350k ballast bonus. Another Supramax from ECSA to Singapore-Japan range was covered at USD 16,500 + 600k ballast bonus. Supramax del Paranagua to Montoire finalized at USD 30,000. Petcoke run from USG to China done at USD 25,000. 52,000 dwt open in Bahodopi fixed very low USD 20,000 for trip via Indonesia with redel to China.
+
+---
+
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
 **Date:** 2022-07-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The MEG July volume has finished off with 140 or so fixtures for the month, continuing the trend of healthy activity. This week the Eid holidays coupled with falling in the twilight zone between July and August stems has meant a quieter few days, but rates continue to improve for owners with each successive fixture. MEG/China sits a little under WS 60, but consensus is that once the August stems kick in, passing WS 60 is likely.   The smaller sizes continue their firm trend, certainly in the Atlantic, so strong upward pressure on VL rates from below. West Africa/China rates sit at WS 58.5, and stronger numbers in the USG, with USD 7.2m fixed STS USG/China (albeit off prompter dates), and a couple of unfixed Vitol stems to the UKC reported at the time of writing. No downside for the VLCC’s in the short term.
+The MEG July volume has finished off with 140 or so fixtures for the month, continuing the trend of healthy activity. This week the Eid holidays coupled with falling in the twilight zone between July and August stems has meant a quieter few days, but rates continue to improve for owners with each successive fixture. MEG/China sits a little under WS 60, but consensus is that once the August stems kick in, passing WS 60 is likely. 
+
+The smaller sizes continue their firm trend, certainly in the Atlantic, so strong upward pressure on VL rates from below. West Africa/China rates sit at WS 58.5, and stronger numbers in the USG, with USD 7.2m fixed STS USG/China (albeit off prompter dates), and a couple of unfixed Vitol stems to the UKC reported at the time of writing. No downside for the VLCC’s in the short term.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2022-07-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-07-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-The MEG July volume has finished off with 140 or so fixtures for the month, continuing the trend of healthy activity. This week the Eid holidays coupled with falling in the twilight zone between July and August stems has meant a quieter few days, but rates continue to improve for owners with each successive fixture. MEG/China sits a little under WS 60, but consensus is that once the August stems kick in, passing WS 60 is likely.   The smaller sizes continue their firm trend, certainly in the Atlantic, so strong upward pressure on VL rates from below. West Africa/China rates sit at WS 58.5, and stronger numbers in the USG, with USD 7.2m fixed STS USG/China (albeit off prompter dates), and a couple of unfixed Vitol stems to the UKC reported at the time of writing. No downside for the VLCC’s in the short term.
+The MEG July volume has finished off with 140 or so fixtures for the month, continuing the trend of healthy activity. This week the Eid holidays coupled with falling in the twilight zone between July and August stems has meant a quieter few days, but rates continue to improve for owners with each successive fixture. MEG/China sits a little under WS 60, but consensus is that once the August stems kick in, passing WS 60 is likely. 
+
+The smaller sizes continue their firm trend, certainly in the Atlantic, so strong upward pressure on VL rates from below. West Africa/China rates sit at WS 58.5, and stronger numbers in the USG, with USD 7.2m fixed STS USG/China (albeit off prompter dates), and a couple of unfixed Vitol stems to the UKC reported at the time of writing. No downside for the VLCC’s in the short term.
 
 ---
 
 ### Suezmax Weekly Comment
 **Date:** 2022-07-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+MEG has experienced sustained enquiry levels this week which brought some much-needed balance to the global Suezmax market and provides a strong support mechanism to an already firmer Atlantic market (holding some ships in the East). Td23 is presently WS 70 with upward bias and if present enquiry levels persist, this could easily jump 5-10 points in a blink. MEG/China will trade min WS 115-120 on modern but is susceptible to further upside. Rumors persist of an early August Td20 cargo working off market, which creates its own self-fulfilling scenario. Td20 is minimum WS 117.5-120 but has potential to firm quickly as owners should be comparing numbers against a Guyana/TA run etc. The USG is the key component to the Atlantic market, and we expect this region to remain firm.
+
+---
+
+### Suezmax Weekly Comment
+**Date:** 2022-07-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 MEG has experienced sustained enquiry levels this week which brought some much-needed balance to the global Suezmax market and provides a strong support mechanism to an already firmer Atlantic market (holding some ships in the East). Td23 is presently WS 70 with upward bias and if present enquiry levels persist, this could easily jump 5-10 points in a blink. MEG/China will trade min WS 115-120 on modern but is susceptible to further upside. Rumors persist of an early August Td20 cargo working off market, which creates its own self-fulfilling scenario. Td20 is minimum WS 117.5-120 but has potential to firm quickly as owners should be comparing numbers against a Guyana/TA run etc. The USG is the key component to the Atlantic market, and we expect this region to remain firm.
 
@@ -70,14 +88,26 @@ Last week the Aframax market in the North Sea took a very positive turn. Rates g
 ### LNG Market Report
 **Date:** 2022-07-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-It has been another lacklustre week for the spot shipping market. Despite the slight drop in vessel availability, spot rates remain soft as limited requirements were seen in both basins. LNG pricing is at historic highs yet the west to east arbitrage remains firmly shut and has also led to a lack of opportunities for shipping and rather, more sublets available and keen to compete for businesses within their respective regions. While the current situation is challenging on the spot market, demand for multi months to long term remain stable with a handful of charterers still looking for coverage for this winter and beyond. There are no newbuilding orders or ship sales reported this week.
+It has been another lacklustre week for the spot shipping market. Despite the slight drop in vessel availability, spot rates remain soft as limited requirements were seen in both basins.
+LNG pricing is at historic highs yet the west to east arbitrage remains firmly shut and has also led to a lack of opportunities for shipping and rather, more sublets available and keen to compete for businesses within their respective regions.
+While the current situation is challenging on the spot market, demand for multi months to long term remain stable with a handful of charterers still looking for coverage for this winter and beyond.
+There are no newbuilding orders or ship sales reported this week.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2022-07-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS Crude oil peaked in the first week June at just over $122/bbl but has softened rather dramatically over the last month and is presently trading in the ~$93/bbl range, though with quite a lot of inter-day volatility.  This is causing volatility in the LPG space, as well, with propane having declined from $1.24/gal the first week of June to $1.10/gal in robust trading sessions.  Butane length in the U.S. continues to play a role and RVP waivers are being sought to alleviate the surplus, though this was considered a bit of a long-shot. The EIA data on Wednesday showed a build of 2.9mmbbls to an overall total of 57.8mmbbls as of 8 July, or about 97% of last year but just ~68% of two years ago.  The market had been anticipating a build of between about 750,000bbls and 1.9mmbbls, and as such the healthy growth was welcome and well received. Terminal fees remain subdued, with buy-side interest at/below 4cpg, but sellers seem anxious to commence talks nearer to 5cpg.  Little is known to have been fixed, but at this point there seem to be more sellers than buyers.  2H 2022 values, however, are healthier and were seen worked at/above 6cpg.  NWE The European propane market sprung to life for end June/early July TOT cargoes, with two bids bringing assessed values up to a $2.75pmt premium to July CIF ARA. Surprising as July imports from the US are set to be 800,000MT smashing the previous monthly record of 700,000MT. The butane market in the region remains long and stocks high. The steepening contango could temp some traders to look at storing tons. The netback values form the US are not as attractive, the August East / West spread $59pmt, though many European traders have TC vessels and European systems, skewing spot cargo netbacks. The huge trans-Atlantic volume continues to flow!  MED Has been quiet as movements in other markets take front and centre in this low demand period of the year. The region remains long butane as Northwest European traders continue to try to place tons in the region.
+AMERICAS
+Crude oil peaked in the first week June at just over $122/bbl but has softened rather dramatically over the last month and is presently trading in the ~$93/bbl range, though with quite a lot of inter-day volatility.  This is causing volatility in the LPG space, as well, with propane having declined from $1.24/gal the first week of June to $1.10/gal in robust trading sessions.  Butane length in the U.S. continues to play a role and RVP waivers are being sought to alleviate the surplus, though this was considered a bit of a long-shot.
+The EIA data on Wednesday showed a build of 2.9mmbbls to an overall total of 57.8mmbbls as of 8 July, or about 97% of last year but just ~68% of two years ago.  The market had been anticipating a build of between about 750,000bbls and 1.9mmbbls, and as such the healthy growth was welcome and well received.
+Terminal fees remain subdued, with buy-side interest at/below 4cpg, but sellers seem anxious to commence talks nearer to 5cpg.  Little is known to have been fixed, but at this point there seem to be more sellers than buyers.  2H 2022 values, however, are healthier and were seen worked at/above 6cpg.
+
+NWE
+The European propane market sprung to life for end June/early July TOT cargoes, with two bids bringing assessed values up to a $2.75pmt premium to July CIF ARA. Surprising as July imports from the US are set to be 800,000MT smashing the previous monthly record of 700,000MT. The butane market in the region remains long and stocks high. The steepening contango could temp some traders to look at storing tons. The netback values form the US are not as attractive, the August East / West spread $59pmt, though many European traders have TC vessels and European systems, skewing spot cargo netbacks. The huge trans-Atlantic volume continues to flow!
+
+MED
+Has been quiet as movements in other markets take front and centre in this low demand period of the year. The region remains long butane as Northwest European traders continue to try to place tons in the region.
 
 ---
 
@@ -85,13 +115,19 @@ AMERICAS Crude oil peaked in the first week June at just over $122/bbl but has s
 ### SnP Weekly Comment
 **Date:** 2022-07-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The positive momentum experienced over the past couple of weeks in the tanker snp markets continue to drive activity in most sectors with a number of sales to report this week. As expected, the product markets are leading the charge with values reflecting the healthy earning which has gradually been taking hold over the past couple of months.  A trend in pricing particularly apparent on the MR front which has seen a higher volume of transactions setting improved benchmarks across most vintages. Elsewhere we continue to see a drive on Aframax values with a strong buying enquiry competing over a limited supply of sale candidates. Saying that we expect a number of potential sellers to come meet this renewed interest in hope to capture the value offered by the most recent appreciation in values. A jump well illustrated by the sale of the “ELANDRA ANGEL” (115k dwt 2009 Samsung) which was sold by Vitol at Usd 32m. Important to note that the vessel is scrubber fitted which would condone a notable premium against a comparable non scrubber fitted vessel.  With most headlines stolen by Tanker activity dry SnP markets remain relatively uneventful with values still showing resilience against a certain degree of uncertainty that seems to be settling in. A flat pricing curve that is as usual well supported in the Supramax market with units such as the “NEUTRINO” (58k dwt 2012 Kawasaki) still achieving levels in line with their relative last done.
+The positive momentum experienced over the past couple of weeks in the tanker snp markets continue to drive activity in most sectors with a number of sales to report this week. As expected, the product markets are leading the charge with values reflecting the healthy earning which has gradually been taking hold over the past couple of months.  A trend in pricing particularly apparent on the MR front which has seen a higher volume of transactions setting improved benchmarks across most vintages. Elsewhere we continue to see a drive on Aframax values with a strong buying enquiry competing over a limited supply of sale candidates. Saying that we expect a number of potential sellers to come meet this renewed interest in hope to capture the value offered by the most recent appreciation in values. A jump well illustrated by the sale of the “ELANDRA ANGEL” (115k dwt 2009 Samsung) which was sold by Vitol at Usd 32m. Important to note that the vessel is scrubber fitted which would condone a notable premium against a comparable non scrubber fitted vessel.
+
+With most headlines stolen by Tanker activity dry SnP markets remain relatively uneventful with values still showing resilience against a certain degree of uncertainty that seems to be settling in. A flat pricing curve that is as usual well supported in the Supramax market with units such as the “NEUTRINO” (58k dwt 2012 Kawasaki) still achieving levels in line with their relative last done.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2022-07-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST A substantial part of the East market started their week only on Tuesday due to holidays across the region. Adnoc acceptances was also slightly delayed, reportedly due to some IT issues. As the week finally has started to gain some traction, we have seen a couple of deals concluded on end July dates. One of which was to substitute a ship running late due to delays in India. Looking into August, positions are looking increasingly tight especially in the first 5 days of the month and depending on cargo allocations, we expect freight to have more upside than downside in the very near term.  WEST After a busy last week with a handful of US-fixtures and shipping tenders out of West- and North Africa we have not seen the same rate of activity continue into 28th week of the year. There has only been one fixture concluded this week in the United States and with that said we only see a couple of available vessels left in July that we expect to soon get absorbed. The position list until the middle of August looks relatively tight and in control of two large, pure shipowners. We finally saw a big build again this on Wednesday helping the arb widen a bit, but not enough to help increase activity.
+EAST
+A substantial part of the East market started their week only on Tuesday due to holidays across the region. Adnoc acceptances was also slightly delayed, reportedly due to some IT issues. As the week finally has started to gain some traction, we have seen a couple of deals concluded on end July dates. One of which was to substitute a ship running late due to delays in India. Looking into August, positions are looking increasingly tight especially in the first 5 days of the month and depending on cargo allocations, we expect freight to have more upside than downside in the very near term.
+
+WEST
+After a busy last week with a handful of US-fixtures and shipping tenders out of West- and North Africa we have not seen the same rate of activity continue into 28th week of the year. There has only been one fixture concluded this week in the United States and with that said we only see a couple of available vessels left in July that we expect to soon get absorbed. The position list until the middle of August looks relatively tight and in control of two large, pure shipowners. We finally saw a big build again this on Wednesday helping the arb widen a bit, but not enough to help increase activity.
 
 ---

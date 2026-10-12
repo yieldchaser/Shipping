@@ -6,7 +6,7 @@ week: 7
 date_range: "2023-02-15 to 2023-02-15"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:36"
+generated_at: "2026-10-12 16:51:11"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 07, 2023
@@ -41,14 +41,18 @@ Supramax and Ultramax market in the Atlantic was not giving any encouragement to
 ### VLCC Weekly Comment
 **Date:** 2023-02-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-As interesting a market as we have seen in a while. With a bumper February in the MEG (150 cargoes in a 28-day month), we are moving into the early March stems at the time of writing. Two schools of thought persist on where we go from here, but both have limited downside. Current levels for MEG/China sit around the WS 65 level, and owners could try to hold back, harness the sentiment and drive rates up through the WS 60’s. However, the alternative is for charterers to play it well from the shadows and owners to ‘profit take’ on cargoes off their dates. Either way, any imminent downside in the market remains unlikely.   The Atlantic cargoes continue, with a fresh Petrobras quote at the time of writing. Some recent deals not quite the jumps owners will have hoped for, but TD15 stands around WS 62.5 and rates Wafr/UKC at WS 72.
+As interesting a market as we have seen in a while. With a bumper February in the MEG (150 cargoes in a 28-day month), we are moving into the early March stems at the time of writing. Two schools of thought persist on where we go from here, but both have limited downside. Current levels for MEG/China sit around the WS 65 level, and owners could try to hold back, harness the sentiment and drive rates up through the WS 60’s. However, the alternative is for charterers to play it well from the shadows and owners to ‘profit take’ on cargoes off their dates. Either way, any imminent downside in the market remains unlikely. 
+
+The Atlantic cargoes continue, with a fresh Petrobras quote at the time of writing. Some recent deals not quite the jumps owners will have hoped for, but TD15 stands around WS 62.5 and rates Wafr/UKC at WS 72.
 
 ---
 
 ### VLCC Weekly Comment
 **Date:** 2023-02-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-As interesting a market as we have seen in a while. With a bumper February in the MEG (150 cargoes in a 28-day month), we are moving into the early March stems at the time of writing. Two schools of thought persist on where we go from here, but both have limited downside. Current levels for MEG/China sit around the WS 65 level, and owners could try to hold back, harness the sentiment and drive rates up through the WS 60’s. However, the alternative is for charterers to play it well from the shadows and owners to ‘profit take’ on cargoes off their dates. Either way, any imminent downside in the market remains unlikely.   The Atlantic cargoes continue, with a fresh Petrobras quote at the time of writing. Some recent deals not quite the jumps owners will have hoped for, but TD15 stands around WS 62.5 and rates Wafr/UKC at WS 72.
+As interesting a market as we have seen in a while. With a bumper February in the MEG (150 cargoes in a 28-day month), we are moving into the early March stems at the time of writing. Two schools of thought persist on where we go from here, but both have limited downside. Current levels for MEG/China sit around the WS 65 level, and owners could try to hold back, harness the sentiment and drive rates up through the WS 60’s. However, the alternative is for charterers to play it well from the shadows and owners to ‘profit take’ on cargoes off their dates. Either way, any imminent downside in the market remains unlikely. 
+
+The Atlantic cargoes continue, with a fresh Petrobras quote at the time of writing. Some recent deals not quite the jumps owners will have hoped for, but TD15 stands around WS 62.5 and rates Wafr/UKC at WS 72.
 
 ---
 
@@ -84,21 +88,41 @@ Aframax rates in the Nsea market dropped a few points as activity slowed down an
 ### LNG Market Report
 **Date:** 2023-02-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-In the East, vessel spot requirements kept flowing with a long list of counterparties seeking tonnage for laycans throughout March. Focus remains to secure TFDEs and modern 2-stroke vessels, but looking at the limited availability in the region, a rate upturn looks inevitable. In the West, there was limited spot activity as market participants monitor the Freeport progress. Vessel availability has basically been “on hold” until the uncertainty around start-up is cleared up, however there seem to be enough tonnage to cover any open spot requirements in this basin.  Looking at the term market, Charterers still focusing on finding tonnage for winter cover as their priority, but we also see interest for longer/long term charters.  On the Newbuilding front, there has been an order recorded this week reportedly by MOL at DSME yard. Vessel is set for delivery during Q1 2027.
+In the East, vessel spot requirements kept flowing with a long list of counterparties seeking tonnage for laycans throughout March. Focus remains to secure TFDEs and modern 2-stroke vessels, but looking at the limited availability in the region, a rate upturn looks inevitable.
+In the West, there was limited spot activity as market participants monitor the Freeport progress. Vessel availability has basically been “on hold” until the uncertainty around start-up is cleared up, however there seem to be enough tonnage to cover any open spot requirements in this basin. 
+Looking at the term market, Charterers still focusing on finding tonnage for winter cover as their priority, but we also see interest for longer/long term charters. 
+On the Newbuilding front, there has been an order recorded this week reportedly by MOL at DSME yard. Vessel is set for delivery during Q1 2027.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2023-02-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Mar C3 CP surged up to $734 and C4 assessed at flattish to C3. Mar/Apr CP backwardation widen further to $85, from last week’s $75.  FOB discussion interests appear thin  this week as demands out of India fall below expectation. However, we’ve still see Indonesia PERTAMINA out to buy one evenly split cargo for 15/23 Mar lifting, or can consider buy on CFR basis alternatively. Evenly split cargo for Mar lifting are offered at minus mid single digit discount to Mar CP but yet to entice buyer’s interest in view of the huge backwardation.    FAR EAST Discussions for 2h Mar arrival cargos quieted down after the deal on Tue for one 46kt propane parcel traded at Bal Feb FEI plus $7 which equates to Mar FEI plus $75. Bids for 1h Apr delivery propane softened at Apr FEI plus $50s in the window, whereas one 46kt parcel for same period sold at Apr FEI plus 70ish outside window.  Despite the current eroding petchem margins, we expect strong demand in Apr as of the decline in flat price and low feedstock inventory, together with the potential economic alternative over napatha.   Two Korean importer tender to buy LPG, with one asking for 2/2 and/or 3/1 and/or 0/23 for 1h Apr delivery and the other for 23/0 delivered in end Mar/early Apr. One Chinese Major managed to procure two propane cargos delivered in Apr and Jun respectively for their new PDH. Another NChina PDH user also issued tender to buy 46kt propane for 1st decade Apr delivery.
+MEG
+Mar C3 CP surged up to $734 and C4 assessed at flattish to C3. Mar/Apr CP backwardation widen further to $85, from last week’s $75.  FOB discussion interests appear thin  this week as demands out of India fall below expectation. However, we’ve still see Indonesia PERTAMINA out to buy one evenly split cargo for 15/23 Mar lifting, or can consider buy on CFR basis alternatively. Evenly split cargo for Mar lifting are offered at minus mid single digit discount to Mar CP but yet to entice buyer’s interest in view of the huge backwardation. 
+
+FAR EAST
+Discussions for 2h Mar arrival cargos quieted down after the deal on Tue for one 46kt propane parcel traded at Bal Feb FEI plus $7 which equates to Mar FEI plus $75. Bids for 1h Apr delivery propane softened at Apr FEI plus $50s in the window, whereas one 46kt parcel for same period sold at Apr FEI plus 70ish outside window.
+
+Despite the current eroding petchem margins, we expect strong demand in Apr as of the decline in flat price and low feedstock inventory, together with the potential economic alternative over napatha. 
+
+Two Korean importer tender to buy LPG, with one asking for 2/2 and/or 3/1 and/or 0/23 for 1h Apr delivery and the other for 23/0 delivered in end Mar/early Apr. One Chinese Major managed to procure two propane cargos delivered in Apr and Jun respectively for their new PDH. Another NChina PDH user also issued tender to buy 46kt propane for 1st decade Apr delivery.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2023-02-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS Market levels in March have remained robust, particularly for the first half of the month, but begin to taper by the second.  April, as well, softens and beyond that May, as well, dropping as far as the mid single-digits by June.  As yet, however, only limited activity is being noted due to the backwardation that exists, the downward curve preventing much enthusiasm in the out months.  The arb both to the East and the West remains open – and widely – despite the weak PDH margins in the East and the nearing conclusion of winter in the West. The EIA yesterday reported a draw of 2.6mmbbls, mildly more than the anticipated 2.25mmbbl – the average that the industry at large had predicted.  Still, though, stock levels remain nearer to the 5-year highs, than the averages, so even with a relatively large draw there remain sufficient stocks.  Talk of summertime brine containment persists. LatAm demand has been noted but transactions at this point have not been confirmed.  Southern hemisphere winter demand should, however, begin to appear shortly.  NWE The staggering large cargo premiums seen in January on the back of resurgent petrochemical demand and competition from the East’s re-emerging appetite for LPG are now ancient history. Premiums have plummeted from +$50/ton in January, to premiums in the mid-teens now in Feb. The cause? Propane has maintained its strength in relation to naphtha thus disincentivizing consumption at crackers, along with continued mild weather throughout the region. Further still, Its estimated Europe will import approximately 320,000 tons this month of LPG -from both the North Sea and the US, leaving the continent very well supplied and subsequently pressuring prices to the downside.   MED The Mediterranean region is focused entirely on the search, rescue, and aid of those affected by the recent earthquake. With that said, the LPG import terminal in southwest turkey has seen 2 LGC’s discharged since the disaster, leaving the region comfortably supplied for the time being.
+AMERICAS
+Market levels in March have remained robust, particularly for the first half of the month, but begin to taper by the second.  April, as well, softens and beyond that May, as well, dropping as far as the mid single-digits by June.  As yet, however, only limited activity is being noted due to the backwardation that exists, the downward curve preventing much enthusiasm in the out months.  The arb both to the East and the West remains open – and widely – despite the weak PDH margins in the East and the nearing conclusion of winter in the West.
+The EIA yesterday reported a draw of 2.6mmbbls, mildly more than the anticipated 2.25mmbbl – the average that the industry at large had predicted.  Still, though, stock levels remain nearer to the 5-year highs, than the averages, so even with a relatively large draw there remain sufficient stocks.  Talk of summertime brine containment persists.
+LatAm demand has been noted but transactions at this point have not been confirmed.  Southern hemisphere winter demand should, however, begin to appear shortly.
+
+NWE
+The staggering large cargo premiums seen in January on the back of resurgent petrochemical demand and competition from the East’s re-emerging appetite for LPG are now ancient history. Premiums have plummeted from +$50/ton in January, to premiums in the mid-teens now in Feb. The cause? Propane has maintained its strength in relation to naphtha thus disincentivizing consumption at crackers, along with continued mild weather throughout the region. Further still, Its estimated Europe will import approximately 320,000 tons this month of LPG -from both the North Sea and the US, leaving the continent very well supplied and subsequently pressuring prices to the downside. 
+
+MED
+The Mediterranean region is focused entirely on the search, rescue, and aid of those affected by the recent earthquake. With that said, the LPG import terminal in southwest turkey has seen 2 LGC’s discharged since the disaster, leaving the region comfortably supplied for the time being.
 
 ---
 
@@ -106,6 +130,10 @@ AMERICAS Market levels in March have remained robust, particularly for the first
 ### Chartering Weekly Comment
 **Date:** 2023-02-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST With Saudi acceptances released last night we may see increased fixing activity next week in the East. Freight remains relatively strong and vessel availability in the Middle East for March dates could quickly tighten. Talks of some potential Indian PSU cargos in the early part of March will be expected to pick up healthy premiums. Currently we are counting 13 spot deals on March dates and while first decade availability is getting quite slim with just 2 vessels left, second decade looks more open with about 8 vessels available. In the last decade so far we see around 7 ships open, but there could be some additional ships appearing after the last round of acceptances are firmed up.   WEST Fixing activity in the West has been quite similar to last week seeing a small handful of spot fixtures out of the United States. With that said we count 35 spot deals out of the USG/USEC for March dates and we now only see 1-2 open positions left this period. Focus will soon fully shift towards April, once the last vessels in March is absorbed, and we are currently seeing a balanced to tight position list for the ten first days in Apr. Last done fixture concluded at mid 130s H/C.
+EAST
+With Saudi acceptances released last night we may see increased fixing activity next week in the East. Freight remains relatively strong and vessel availability in the Middle East for March dates could quickly tighten. Talks of some potential Indian PSU cargos in the early part of March will be expected to pick up healthy premiums. Currently we are counting 13 spot deals on March dates and while first decade availability is getting quite slim with just 2 vessels left, second decade looks more open with about 8 vessels available. In the last decade so far we see around 7 ships open, but there could be some additional ships appearing after the last round of acceptances are firmed up. 
+
+WEST
+Fixing activity in the West has been quite similar to last week seeing a small handful of spot fixtures out of the United States. With that said we count 35 spot deals out of the USG/USEC for March dates and we now only see 1-2 open positions left this period. Focus will soon fully shift towards April, once the last vessels in March is absorbed, and we are currently seeing a balanced to tight position list for the ten first days in Apr. Last done fixture concluded at mid 130s H/C.
 
 ---

@@ -6,7 +6,7 @@ week: 13
 date_range: "2024-03-27 to 2024-03-27"
 comments_count: 4
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:37"
+generated_at: "2026-10-12 16:51:12"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 13, 2024
@@ -22,7 +22,8 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### VLCC Weekly Comment
 **Date:** 2024-03-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-A week of dropping rates, but likely the bottom now and the green shoots of recovery already evident. The usual suspects S-Oil fixing the lowest point on a Worldscale basis (in the ws50’s), but in the face of a quiet market, Owners have been able to maintain rates in the ws60’s. I say quiet, but on the surface only, as it is clear the vast majority of deals done quietly and kept under the radar to not jeopardise subs in a falling market. The problem with this tactic is the lists look artificially long and the market suffers further. But now, with a tighter list and most 10-20 April cargoes still to work, Owners should be able to push the rates back up through the ws60’s. The Atlantic usually leads the recovery charge, but it has been quiet with several early ships and therefore little desire for Owners to ballast that way. However, we are likely as low as we will see, with USG/Ningbo rates $8.75m level to test.
+A week of dropping rates, but likely the bottom now and the green shoots of recovery already evident. The usual suspects S-Oil fixing the lowest point on a Worldscale basis (in the ws50’s), but in the face of a quiet market, Owners have been able to maintain rates in the ws60’s. I say quiet, but on the surface only, as it is clear the vast majority of deals done quietly and kept under the radar to not jeopardise subs in a falling market. The problem with this tactic is the lists look artificially long and the market suffers further. But now, with a tighter list and most 10-20 April cargoes still to work, Owners should be able to push the rates back up through the ws60’s.
+The Atlantic usually leads the recovery charge, but it has been quiet with several early ships and therefore little desire for Owners to ballast that way. However, we are likely as low as we will see, with USG/Ningbo rates $8.75m level to test.
 
 ---
 
@@ -36,7 +37,11 @@ A short week which will be mostly remembered for... Sorry, let me start again. T
 ### Aframax Weekly Comment
 **Date:** 2024-03-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-NSEA: Market has seen some activity the last couple of days with rates moving sideways. North Sea crude stems look to be almost covered for at least the first 5 days of April and with relets/  Vlcc’s and Suezmax in the equation probably  closer to the 10th. This could leave the market lacking in opportunity up to the end of the first decade. Surrounding markets still attractive to ballast out of the North but the volume ballasting has petered somewhat.  MED: Rates steady/softer even with some pre-Easter long weekend activity as Charterers worked ahead to fill their programmes. Early Libyan stems are slight for 1st decade April already jumping toward mid-first decade dates whilst Ceyhan and CPC push on in to the second decade fixing window. A good number of units scheduled to discharge end/ely in this region so come next week there is potential for some downward pressure on rates.
+NSEA:
+Market has seen some activity the last couple of days with rates moving sideways. North Sea crude stems look to be almost covered for at least the first 5 days of April and with relets/  Vlcc’s and Suezmax in the equation probably  closer to the 10th. This could leave the market lacking in opportunity up to the end of the first decade. Surrounding markets still attractive to ballast out of the North but the volume ballasting has petered somewhat.
+
+MED:
+Rates steady/softer even with some pre-Easter long weekend activity as Charterers worked ahead to fill their programmes. Early Libyan stems are slight for 1st decade April already jumping toward mid-first decade dates whilst Ceyhan and CPC push on in to the second decade fixing window. A good number of units scheduled to discharge end/ely in this region so come next week there is potential for some downward pressure on rates.
 
 ---
 

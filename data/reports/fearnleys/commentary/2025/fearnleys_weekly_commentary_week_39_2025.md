@@ -6,7 +6,7 @@ week: 39
 date_range: "2025-09-24 to 2025-09-26"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 16:51:14"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 39, 2025
@@ -55,7 +55,11 @@ A few mysteries coming to light today as charterers continue to pick off vessels
 ### Aframax Weekly Comment
 **Date:** 2025-09-24 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea A slow first half of the week clearing out the last few September stems. Available tonnage does still remain relatively tight but early October stems aren’t overly populated and tonnage will start to come back into position. We have seen a fair amount of tonnage ballast out recently both to US and Mediterranean. US markets had softened and were quiet but have seen an uptick in activity and rates look like they have hit bottom and likely to bounce back firmer which will encourage more ballasting. Market looking likely to remain stable heading into October fixing.  Mediterranean Cargo flow has remained healthy in the Mediterranean as the early part of the 1st decade in the Mediterranean and Black Sea is almost sold-out. Despite a couple of vessels being picked up, there are still enough around for local or longer runs. USG activity is busier and it's likely that will attract more to ballast going forward in the hope of a bounce back.
+North Sea
+A slow first half of the week clearing out the last few September stems. Available tonnage does still remain relatively tight but early October stems aren’t overly populated and tonnage will start to come back into position. We have seen a fair amount of tonnage ballast out recently both to US and Mediterranean. US markets had softened and were quiet but have seen an uptick in activity and rates look like they have hit bottom and likely to bounce back firmer which will encourage more ballasting. Market looking likely to remain stable heading into October fixing.
+
+Mediterranean
+Cargo flow has remained healthy in the Mediterranean as the early part of the 1st decade in the Mediterranean and Black Sea is almost sold-out. Despite a couple of vessels being picked up, there are still enough around for local or longer runs. USG activity is busier and it's likely that will attract more to ballast going forward in the hope of a bounce back.
 
 ---
 
@@ -63,14 +67,20 @@ North Sea A slow first half of the week clearing out the last few September stem
 ### LNG Market Report
 **Date:** 2025-09-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Spot charter rates have continued their decline this week despite a few more requirements emerging, mainly due to the oversupply of modern tonnage particularly in the Atlantic Basin. A handful of players had suggested a possible floor on freight at which traders would see more value in arbitrage opportunities to go East rather than subletting; however, with FOB bids pricing in-house tonnage very low, spot shipping is having to compete ever more aggressively and the result is yet more downward pressure. The Pacific Basin remains awash with idle tonnage and fresh multimonth enquiries from the Middle East saw competitive offers across vessel sizes and types. The prospect of a firming winter now seems very remote, with both FFAs and offer for physical tonnage holding fairly flat through until early 2026.  Whilst the long-term views coming from Gastech this year were wholly positive and have been bolstered by fresh reports of FIDs for new U.S. projects this week, reconciling the soft market of today and the likely conditions through the interim period remains challenging. There are a handful of requirements for periods bridging that stark contrast in sentiment. However, the gap between bid and offer for structural availabilities is likely to remain wide for the time being.
+Spot charter rates have continued their decline this week despite a few more requirements emerging, mainly due to the oversupply of modern tonnage particularly in the Atlantic Basin. A handful of players had suggested a possible floor on freight at which traders would see more value in arbitrage opportunities to go East rather than subletting; however, with FOB bids pricing in-house tonnage very low, spot shipping is having to compete ever more aggressively and the result is yet more downward pressure. The Pacific Basin remains awash with idle tonnage and fresh multimonth enquiries from the Middle East saw competitive offers across vessel sizes and types. The prospect of a firming winter now seems very remote, with both FFAs and offer for physical tonnage holding fairly flat through until early 2026.
+
+Whilst the long-term views coming from Gastech this year were wholly positive and have been bolstered by fresh reports of FIDs for new U.S. projects this week, reconciling the soft market of today and the likely conditions through the interim period remains challenging. There are a handful of requirements for periods bridging that stark contrast in sentiment. However, the gap between bid and offer for structural availabilities is likely to remain wide for the time being.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-09-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Cash differentials for FOB AG remain strong, firmly backed by the Indian buying demand. BPCL tendered to procure up to 3 lots of 2/2 evenly split cargo for Nov and Dec delivery, either FOB AG or CFR. One 18-20 Oct lifting 2/2 cargo was changed hand at Nov CP minus mid-teens, which equates to Oct CP minus small single digit. 1st round Oct CP recommendation was heard at $540 to $560 for C3, and C3/C4 spread at $20. By the time of writing, Oct CP was traded at $541, Oct C3/C4 at $22 and Oct/Nov CP was traded at $16 contango.  Terminal fee for Oct lifting FOBs ex US was assessed at 4ish cpg amid subdued activities. Arbitrage to EAST market narrowed down as MB stands firmer against the softening FEI. US propane/propylene stock rose by 1m bbl., lower than expected.    Spot discounts for CFR east market plunged further, with 23/0 for 2h Oct delivery basis Chiba being traded at Oct FEI minus $17, vs last week’s minus $11. Similar parcel for 1h Nov delivery was bid at Oct FEI minus $2.5. Outside window such parcels were traded at Oct FEI minus $0.5/0.75 or Nov FEI minus mid high single digit reportedly. Two Chinese PDH players have issued buy tender for propane delivery during 2h Oct to 1h Nov delivery, with one excluding US origin, with uncertainties over US-China tariff talk. Other PDH yet to move, partially discouraged by the negative margins which lead to potential maintenance. One NChina importer issued term tender to secure 6 or 12 propane cargos, including US origin for next year delivery.
+Cash differentials for FOB AG remain strong, firmly backed by the Indian buying demand. BPCL tendered to procure up to 3 lots of 2/2 evenly split cargo for Nov and Dec delivery, either FOB AG or CFR. One 18-20 Oct lifting 2/2 cargo was changed hand at Nov CP minus mid-teens, which equates to Oct CP minus small single digit. 1st round Oct CP recommendation was heard at $540 to $560 for C3, and C3/C4 spread at $20. By the time of writing, Oct CP was traded at $541, Oct C3/C4 at $22 and Oct/Nov CP was traded at $16 contango.
+
+Terminal fee for Oct lifting FOBs ex US was assessed at 4ish cpg amid subdued activities. Arbitrage to EAST market narrowed down as MB stands firmer against the softening FEI. US propane/propylene stock rose by 1m bbl., lower than expected.  
+
+Spot discounts for CFR east market plunged further, with 23/0 for 2h Oct delivery basis Chiba being traded at Oct FEI minus $17, vs last week’s minus $11. Similar parcel for 1h Nov delivery was bid at Oct FEI minus $2.5. Outside window such parcels were traded at Oct FEI minus $0.5/0.75 or Nov FEI minus mid high single digit reportedly. Two Chinese PDH players have issued buy tender for propane delivery during 2h Oct to 1h Nov delivery, with one excluding US origin, with uncertainties over US-China tariff talk. Other PDH yet to move, partially discouraged by the negative margins which lead to potential maintenance. One NChina importer issued term tender to secure 6 or 12 propane cargos, including US origin for next year delivery.
 
 ---
 
@@ -78,13 +88,19 @@ Cash differentials for FOB AG remain strong, firmly backed by the Indian buying 
 ### SnP Weekly Comment
 **Date:** 2025-09-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Liquidity in the tanker market is still an issue, with modern units particularly difficult to come by. That said, sentiment is buoyant, leading some to even wonder if perhaps we are at the beginning of a supercycle. Sentiment, however, is one thing, and owners know there are plenty of deliveries and much potential uncertainty ahead. In the afra sector, YINGHAO CONFIDENCE (107K DWT Tsuneishi 2010) was sold for USD 36M.  Headlines were stolen this week with Asyad purchasing scrubber fitted Newcastlemax trio BULK SANTIAGO/SANDEFJORD/SHENZHEN (207K DWT New Times 2019/2020) en bloc at USD 209M, with delivery in early 2026. Newcastlemax units have experienced a sharp spike in demand over recent months, with a handful of deals concluded recently and enquiry still high. The dry sector is seeing a general rise in value, particularly illustrated in the Ultramax sector where sales are beating last dones. BULK CASTOR (66K DWT Mitsui 2015) was sold for USD 24.2M and BEAUTY LILY (63K China Shipping Jiangsu 2015) sold at USD 22.25, showing the 10-year-old benchmarks for the sector and the current delta between Japanese and Chinese built units.
+Liquidity in the tanker market is still an issue, with modern units particularly difficult to come by. That said, sentiment is buoyant, leading some to even wonder if perhaps we are at the beginning of a supercycle. Sentiment, however, is one thing, and owners know there are plenty of deliveries and much potential uncertainty ahead. In the afra sector, YINGHAO CONFIDENCE (107K DWT Tsuneishi 2010) was sold for USD 36M.
+
+Headlines were stolen this week with Asyad purchasing scrubber fitted Newcastlemax trio BULK SANTIAGO/SANDEFJORD/SHENZHEN (207K DWT New Times 2019/2020) en bloc at USD 209M, with delivery in early 2026. Newcastlemax units have experienced a sharp spike in demand over recent months, with a handful of deals concluded recently and enquiry still high. The dry sector is seeing a general rise in value, particularly illustrated in the Ultramax sector where sales are beating last dones. BULK CASTOR (66K DWT Mitsui 2015) was sold for USD 24.2M and BEAUTY LILY (63K China Shipping Jiangsu 2015) sold at USD 22.25, showing the 10-year-old benchmarks for the sector and the current delta between Japanese and Chinese built units.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2025-09-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST The first ten days of October in the MEG have seen subdued spot activity, with freight rates softening from the high $70s/ton to the low $70s/ton. The MEG market is also becoming more segmented, with a growing divide between India-bound and non-India-bound business. This bifurcation, combined with USTR developments, continues to shape rate dynamics and vessel positioning strategies.  WEST The USG market remains underfixed for October, with spot activity trailing the year-to-date monthly average of 29 fixtures. While freight rates are fundamentally driven by the balance of supply and demand, the current landscape is heavily influenced by fleet concentration. Notably, BW LPG and Helios control eight of the twelve VLGCs on the position list. This consolidation of tonnage has effectively capped downward rate pressure, as these owners show limited willingness to entertain levels in the low USD 150s/ton.
+EAST
+The first ten days of October in the MEG have seen subdued spot activity, with freight rates softening from the high $70s/ton to the low $70s/ton. The MEG market is also becoming more segmented, with a growing divide between India-bound and non-India-bound business. This bifurcation, combined with USTR developments, continues to shape rate dynamics and vessel positioning strategies.
+
+WEST
+The USG market remains underfixed for October, with spot activity trailing the year-to-date monthly average of 29 fixtures. While freight rates are fundamentally driven by the balance of supply and demand, the current landscape is heavily influenced by fleet concentration. Notably, BW LPG and Helios control eight of the twelve VLGCs on the position list. This consolidation of tonnage has effectively capped downward rate pressure, as these owners show limited willingness to entertain levels in the low USD 150s/ton.
 
 ---

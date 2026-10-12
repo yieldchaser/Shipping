@@ -6,7 +6,7 @@ week: 36
 date_range: "2019-09-02 to 2019-09-04"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 16:51:07"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 36, 2019
@@ -91,14 +91,28 @@ It’s back to the office after the summer holidays for some and with it the exp
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-09-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Another volatile week with Oct CP initially plunging to $346, only to rebound to $357 today, following the crude rise. With several buying tenders into SE Asia, more or less promptly, FOB buying interests surged but few deals have been traded as lifters are awaiting the acceptances to get full picture.  There was one trader bidding Oct lifting at flexible dates for a 2/2 FOB cargo at Oct CP minus $1.  Butane have undoubtedly gained support as most inquiries are mainly for equal ratio split. At the time of writing, Oct butane is traded $372.    FAR EAST: Seemingly slim interest with limited bids/offers in window.  Outside window 23k propane for 1h Oct delivery was reported to have been traded at Oct FEI minus $18/19 CP, this equates to Oct CP plus small digit premium only. 1h/2h Oct maintains at $3 contango but it may easily be erased as additional US exports are scheduled for arrival in Q4.  Otherwise it’s a week with tenders being floated.  India’s IOC issued buy tender for two evenly-split cargoes for delivery during mid Oct and last decade Oct respectively.  Indonesia’s Pertamina have also issued tender to secure two evenly-split cargoes for delivered into Kalbut during late Sep and late Oct respectively, considering both FOB and CFR alternatives.  Taiwan’s FPCC issued a buy tender to secure an early Oct 11/11 or 22/0 arrival. And it was reported to have been awarded at Oct MOPJ minus mid 70’s  One China’s largest Importers issued a buy tender for one full or Propane heavy cargo to be delivered monthly from Oct 2019 to Sept 2020, FEI pricing to be used. Other Chinese importers are exploring Oct arrival cargoes, with equal ratio discussed at Oct CP plus 40s, and Propane or Propane heavy possibly at higher premia as this include PDH users.
+MEG:
+Another volatile week with Oct CP initially plunging to $346, only to rebound to $357 today, following the crude rise. With several buying tenders into SE Asia, more or less promptly, FOB buying interests surged but few deals have been traded as lifters are awaiting the acceptances to get full picture. 
+There was one trader bidding Oct lifting at flexible dates for a 2/2 FOB cargo at Oct CP minus $1. 
+Butane have undoubtedly gained support as most inquiries are mainly for equal ratio split. At the time of writing, Oct butane is traded $372. 
+
+FAR EAST:
+Seemingly slim interest with limited bids/offers in window. 
+Outside window 23k propane for 1h Oct delivery was reported to have been traded at Oct FEI minus $18/19 CP, this equates to Oct CP plus small digit premium only. 1h/2h Oct maintains at $3 contango but it may easily be erased as additional US exports are scheduled for arrival in Q4. 
+Otherwise it’s a week with tenders being floated. 
+India’s IOC issued buy tender for two evenly-split cargoes for delivery during mid Oct and last decade Oct respectively. 
+Indonesia’s Pertamina have also issued tender to secure two evenly-split cargoes for delivered into Kalbut during late Sep and late Oct respectively, considering both FOB and CFR alternatives. 
+Taiwan’s FPCC issued a buy tender to secure an early Oct 11/11 or 22/0 arrival. And it was reported to have been awarded at Oct MOPJ minus mid 70’s 
+One China’s largest Importers issued a buy tender for one full or Propane heavy cargo to be delivered monthly from Oct 2019 to Sept 2020, FEI pricing to be used. Other Chinese importers are exploring Oct arrival cargoes, with equal ratio discussed at Oct CP plus 40s, and Propane or Propane heavy possibly at higher premia as this include PDH users.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2019-09-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: After a brief quiet spell,  demand for FOB cargos has picked up once again. For October, the 4 US Gulf terminals are sold out and any spot possibilities will have to come from the resale of third party barrels. The Enterprise expansion barrels have yet to show up and this is causing us to ask why. Is there a problem the company is not discussing or is it just taking a bit longer than expected.  In the domestic market, propane is holding up above the 30 percent versus WTI  level despite very high inventories. We believe this has to do with vast amounts of propane being bought to hedge the exports but we do not expect this to continue. With this weeks build of 2.9 million barrels, we expect propane prices to fall.
+AMERICAS:
+After a brief quiet spell,  demand for FOB cargos has picked up once again. For October, the 4 US Gulf terminals are sold out and any spot possibilities will have to come from the resale of third party barrels. The Enterprise expansion barrels have yet to show up and this is causing us to ask why. Is there a problem the company is not discussing or is it just taking a bit longer than expected. 
+In the domestic market, propane is holding up above the 30 percent versus WTI  level despite very high inventories. We believe this has to do with vast amounts of propane being bought to hedge the exports but we do not expect this to continue. With this weeks build of 2.9 million barrels, we expect propane prices to fall.
 
 ---
 
@@ -106,6 +120,12 @@ AMERICAS: After a brief quiet spell,  demand for FOB cargos has picked up once a
 ### Chartering Weekly Comment
 **Date:** 2019-09-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST Much of this week has been fairly slow-moving, with the US out for Labour Day on Monday. In the West, there has been a relatively consistent number of relets for much of the week. These should result in some downwards pressure on Houston/Chiba rates. With that being said, position lists have begun to tighten towards the end of this week as the number of vessel inquiries for early October has risen. Given that there are severe delays in the East and limited availability for northbound Panama Canal passage, we perceive the conditions to be right for a possibly quick tightening of freight going forward.  EAST  In the East this week, the delays at disports which were a consequence of typhoons have continued, making it difficult for players to schedule their ships both in the East and the West. There were a handful of fixtures for end September which absorbed vessel relets and were most likely the basis for a falling Baltic. Following these fixtures, the bulk of vessels remain in the hands of the major owners - it will be interesting to see what effect this has on rates moving forward.   It is also worth noting that further delays in the East could be possible as eastern bunker barges are cleaned to prepare them for loading low Sulphur fuel oil ahead of IMO 2020.
+WEST
+Much of this week has been fairly slow-moving, with the US out for Labour Day on Monday. In the West, there has been a relatively consistent number of relets for much of the week. These should result in some downwards pressure on Houston/Chiba rates. With that being said, position lists have begun to tighten towards the end of this week as the number of vessel inquiries for early October has risen. Given that there are severe delays in the East and limited availability for northbound Panama Canal passage, we perceive the conditions to be right for a possibly quick tightening of freight going forward.
+
+EAST 
+In the East this week, the delays at disports which were a consequence of typhoons have continued, making it difficult for players to schedule their ships both in the East and the West. There were a handful of fixtures for end September which absorbed vessel relets and were most likely the basis for a falling Baltic. Following these fixtures, the bulk of vessels remain in the hands of the major owners - it will be interesting to see what effect this has on rates moving forward. 
+
+It is also worth noting that further delays in the East could be possible as eastern bunker barges are cleaned to prepare them for loading low Sulphur fuel oil ahead of IMO 2020.
 
 ---

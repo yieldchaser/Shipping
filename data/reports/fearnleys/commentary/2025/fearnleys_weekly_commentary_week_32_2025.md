@@ -6,7 +6,7 @@ week: 32
 date_range: "2025-08-06 to 2025-08-07"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 16:51:14"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 32, 2025
@@ -55,7 +55,11 @@ A manic day on the Suezmaxes, with West Africa and CPC seeing immense gains afte
 ### Aframax Weekly Comment
 **Date:** 2025-08-06 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-NORTH SEA Out to the 15th August crude stems are all but covered.  Majority of the stems utilizing relets with a few Suezmaxes also in the mix from WCN with rates remaining steady around the 115-117.50 level.  The last few days in July and this first week in August have seen a good number of vessels ballast from the area, especially to the US where freight levels have jumped 50 points in the last week although this looks like it will be tested by charterers.  Outlook for the next fixing window in the North Sea remains steady.  MEDITERRANEAN Mediterranean is steady/sideways this week with most of the activity taking place under the radar and charterers trying to get levels lower than last-done. Tonnage list remains balanced and demand for tonnage will define the direction.
+NORTH SEA
+Out to the 15th August crude stems are all but covered.  Majority of the stems utilizing relets with a few Suezmaxes also in the mix from WCN with rates remaining steady around the 115-117.50 level.  The last few days in July and this first week in August have seen a good number of vessels ballast from the area, especially to the US where freight levels have jumped 50 points in the last week although this looks like it will be tested by charterers.  Outlook for the next fixing window in the North Sea remains steady.
+
+MEDITERRANEAN
+Mediterranean is steady/sideways this week with most of the activity taking place under the radar and charterers trying to get levels lower than last-done. Tonnage list remains balanced and demand for tonnage will define the direction.
 
 ---
 
@@ -70,14 +74,27 @@ A continuation of last week’s themes as spot activity in the Atlantic remains 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-08-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Spot differentials improved as of better butane demand. Indian IOC was reported to award one Sep lifting 2/2 at Sep CP minus high 20s, while Oct and Nov remained uncovered as offer price not favorable. Market players are waiting for producers’ acceptances to have full scheme on FOB supply. By the time of writing, Sep CP was traded at $520 for C3 and C3/C4 at $23, Sep/Oct CP at $15 contango.   FAR EAST Cash differentials for Sep delivery propane are still in heavy discounted territory, with 1H being discussed at Sep FEI minus 20s and 2H at minus 10s respectively. During mid-week one 23/0 parcel for 2H Sep delivery basis Chiba was changed hand at Aug FEI flat, which equates to Sep FEI minus mid-teens. At the time of writing, 23/0 for 1h Sep delivery was offered at Sep FEI minus $18 while bids at minus $23. Similar parcel for 2h Sep delivery was bid at Sep FEI minus $20.  Earlier this week, Sep FEI/MOPJ was once widened to over $60, following strong crude, which attracted a handful of cracking demand. FPCC issued tender to secure 23kt or 46kt LPG at a flexible ratio for Sep delivery but awarded only 23/0. HTC called tender to procure 23kt butane for 16-22nd Sep delivery.   Chinese importers still prefer non US stems for Sep delivery, awaiting the US-China tariff talk outcomes. One Canadian origin propane cargo for Sep delivery was reported sold into EChina at Sep CP plus 20s, while other non Us stem traded at Sep CP plus 30s basis Schina. One evenly split cargo for 1h Sep delivery was sold into SChina at Sep CP plus low 30s reportedly.
+MEG
+Spot differentials improved as of better butane demand. Indian IOC was reported to award one Sep lifting 2/2 at Sep CP minus high 20s, while Oct and Nov remained uncovered as offer price not favorable. Market players are waiting for producers’ acceptances to have full scheme on FOB supply. By the time of writing, Sep CP was traded at $520 for C3 and C3/C4 at $23, Sep/Oct CP at $15 contango. 
+
+FAR EAST
+Cash differentials for Sep delivery propane are still in heavy discounted territory, with 1H being discussed at Sep FEI minus 20s and 2H at minus 10s respectively. During mid-week one 23/0 parcel for 2H Sep delivery basis Chiba was changed hand at Aug FEI flat, which equates to Sep FEI minus mid-teens. At the time of writing, 23/0 for 1h Sep delivery was offered at Sep FEI minus $18 while bids at minus $23. Similar parcel for 2h Sep delivery was bid at Sep FEI minus $20.
+
+Earlier this week, Sep FEI/MOPJ was once widened to over $60, following strong crude, which attracted a handful of cracking demand. FPCC issued tender to secure 23kt or 46kt LPG at a flexible ratio for Sep delivery but awarded only 23/0. HTC called tender to procure 23kt butane for 16-22nd Sep delivery. 
+
+Chinese importers still prefer non US stems for Sep delivery, awaiting the US-China tariff talk outcomes. One Canadian origin propane cargo for Sep delivery was reported sold into EChina at Sep CP plus 20s, while other non Us stem traded at Sep CP plus 30s basis Schina. One evenly split cargo for 1h Sep delivery was sold into SChina at Sep CP plus low 30s reportedly.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2025-08-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-US The US Gulf Coast FOB market is generally thin, with many abstaining in recent days/weeks due to tariff-related uncertainty.  As the arbs and netbacks have ebbed/flowed, a generally wide range is being seen in terms of the terminal fee pricing structure.  Where buy-side interest is in the mid/upper 4cpg range, sell side ideas are at/near 6cpg – and very little is being done in the middle.  The EIA data report this week showed a disappointing 1.2mmbbl increase in propane stocks as of 1st August which brought overall stock levels to 84.70mmbbls – or just over 96% of last year’s level.   It is thought that while production levels are at near record levels, exports were also seen to have improved (thanks in part to Energy Transfer’s newly installed “flex” capacity) which thus allowed for only a modest build.   Based on historical build averages (but barring any unforeseen events) stock levels are on course to reach some 97mmbbls by the end of Oct.
+US
+The US Gulf Coast FOB market is generally thin, with many abstaining in recent days/weeks due to tariff-related uncertainty.  As the arbs and netbacks have ebbed/flowed, a generally wide range is being seen in terms of the terminal fee pricing structure.  Where buy-side interest is in the mid/upper 4cpg range, sell side ideas are at/near 6cpg – and very little is being done in the middle.
+
+The EIA data report this week showed a disappointing 1.2mmbbl increase in propane stocks as of 1st August which brought overall stock levels to 84.70mmbbls – or just over 96% of last year’s level. 
+
+It is thought that while production levels are at near record levels, exports were also seen to have improved (thanks in part to Energy Transfer’s newly installed “flex” capacity) which thus allowed for only a modest build.   Based on historical build averages (but barring any unforeseen events) stock levels are on course to reach some 97mmbbls by the end of Oct.
 
 ---
 
@@ -85,6 +102,10 @@ US The US Gulf Coast FOB market is generally thin, with many abstaining in recen
 ### Chartering Weekly Comment
 **Date:** 2025-08-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST At the time of writing three spot fixtures have been concluded in the Middle East this week. One of which was a re-quote due to a ship failing technical clearance. Same ship was quickly re-fixed for another cargo on slightly later dates. We reiterate the fact that there’s only been two Indian PSU fixtures so far despite August being a record month in terms of spot fixtures. With two Indian, only idle SIRE, owned ships waiting to go on to long term employment – these could put a dampener on any big jumps in freight going forward.  WEST This week we've seen 6 fixtures for the 2nd decade of Sep, leaving 3 ships open (2 via Panama, 1 via Cape). Prices have varied between 140 and 150 this week with last done at 150. We see 7 ships open for the last decade of September, 5 of which via Cape and 2 via Panama. Owners might start to consider ballasting more and more via Cape if congestion continues. Though many ships have booked slots, there are still 9 ships waiting in Balboa, and an additional 8 that can meet the dates for the next auction slot on the 14th of Aug. With auction fees closing in on USD 1 million this week, we might just see fees go above that.
+EAST
+At the time of writing three spot fixtures have been concluded in the Middle East this week. One of which was a re-quote due to a ship failing technical clearance. Same ship was quickly re-fixed for another cargo on slightly later dates. We reiterate the fact that there’s only been two Indian PSU fixtures so far despite August being a record month in terms of spot fixtures. With two Indian, only idle SIRE, owned ships waiting to go on to long term employment – these could put a dampener on any big jumps in freight going forward.
+
+WEST
+This week we've seen 6 fixtures for the 2nd decade of Sep, leaving 3 ships open (2 via Panama, 1 via Cape). Prices have varied between 140 and 150 this week with last done at 150. We see 7 ships open for the last decade of September, 5 of which via Cape and 2 via Panama. Owners might start to consider ballasting more and more via Cape if congestion continues. Though many ships have booked slots, there are still 9 ships waiting in Balboa, and an additional 8 that can meet the dates for the next auction slot on the 14th of Aug. With auction fees closing in on USD 1 million this week, we might just see fees go above that.
 
 ---

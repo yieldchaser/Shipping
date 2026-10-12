@@ -6,7 +6,7 @@ week: 52
 date_range: "2023-12-27 to 2023-12-28"
 comments_count: 8
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:37"
+generated_at: "2026-10-12 16:51:12"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 52, 2023
@@ -48,7 +48,9 @@ A quiet Christmas break for the VLCCs as tonnage has risen for the next 30 days 
 ### Suezmax Weekly Comment
 **Date:** 2023-12-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-Geopolitical events continue to wreak havoc in the Red Sea as charterers increasingly ask for Cape of Good Hope options causing thirsty refineries in the West to quickly reorganize their import schedules. Backhaul rates are the main beneficiary of this disruption with Cape rates probably trading close to WS 85-90.  In the Atlantic, there will be some positive spillover from events in the Red Sea at some stage, but with the market stuck in the twilight zone (betwixt Christmas and New year), we will have to wait for the market to properly awaken from its holiday slumber in early January to see the full benefits.
+Geopolitical events continue to wreak havoc in the Red Sea as charterers increasingly ask for Cape of Good Hope options causing thirsty refineries in the West to quickly reorganize their import schedules. Backhaul rates are the main beneficiary of this disruption with Cape rates probably trading close to WS 85-90.
+
+In the Atlantic, there will be some positive spillover from events in the Red Sea at some stage, but with the market stuck in the twilight zone (betwixt Christmas and New year), we will have to wait for the market to properly awaken from its holiday slumber in early January to see the full benefits.
 
 ---
 
@@ -63,7 +65,9 @@ Last week of the year and the activity in both the North Sea and the Mediterrane
 ### LNG Market Report
 **Date:** 2023-12-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Whether it’s due to the holiday season or it’s simply the normal murkiness that pervades our market, things are especially opaque in LNG Shipping at present. This has led to some significant spreads between fixtures concluded over the last few weeks, and in turn it further complicates the picture for Charterers who are looking to take tonnage now. In the West, at least one party is seeking a vessel for 2H January but with a comparable last done concluding at under $100k pdpr (on a 2-Stroke) it’s hard to reconcile the mid $100k numbers being shown on similar dates. It might be that geopolitical risks are to blame here, and just as we see shipping stocks rise and fall on the news of “who is and who isn’t avoiding the Suez”, so too are Owners and Charterers fixing ideas affected. In the East, recent business has been steam ship centred, and this might explain the sizeable discount to the fixtures completed in the Atlantic, but with another Pacific charterer now looking to cover a beginning of February cargo on a bigger vessel, we should have a new price point with which to commence proceedings in 2024. As always, a number of moving parts in this business and we are constantly reminded that every requirement is unique!  Putting the market aside for now, we thank you all for your support during 2023 and we wish you a peaceful and prosperous 2024. Happy Fixing!
+Whether it’s due to the holiday season or it’s simply the normal murkiness that pervades our market, things are especially opaque in LNG Shipping at present. This has led to some significant spreads between fixtures concluded over the last few weeks, and in turn it further complicates the picture for Charterers who are looking to take tonnage now. In the West, at least one party is seeking a vessel for 2H January but with a comparable last done concluding at under $100k pdpr (on a 2-Stroke) it’s hard to reconcile the mid $100k numbers being shown on similar dates. It might be that geopolitical risks are to blame here, and just as we see shipping stocks rise and fall on the news of “who is and who isn’t avoiding the Suez”, so too are Owners and Charterers fixing ideas affected. In the East, recent business has been steam ship centred, and this might explain the sizeable discount to the fixtures completed in the Atlantic, but with another Pacific charterer now looking to cover a beginning of February cargo on a bigger vessel, we should have a new price point with which to commence proceedings in 2024. As always, a number of moving parts in this business and we are constantly reminded that every requirement is unique!
+
+Putting the market aside for now, we thank you all for your support during 2023 and we wish you a peaceful and prosperous 2024. Happy Fixing!
 
 ---
 
