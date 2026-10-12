@@ -1263,7 +1263,8 @@
     }
   },
   "failed": {
-    "2023-12-01_market-report-december-2023": "LlamaParse returned 0 docs (upload timed out or dropped)"
+    "2023-12-01_market-report-december-2023": "LlamaParse returned 0 docs (upload timed out or dropped)",
+    "2023-12-01_markedsrapport-desember-2023": "LlamaParse returned 0 docs (upload timed out or dropped)"
   },
   "junk": {
     "2023-12-01_market-report-december-2023": "JUNK: not a PDF (magic=b'<!DOC')"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 21:43:44Z",
+  "updated_at": "2026-10-12 15:54:45Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1988,7 +1988,7 @@
     {
       "file": "gibson_bunker_prices_series.csv",
       "target_metric": "Gibson Bunker Prices",
-      "rows": 1023,
+      "rows": 1028,
       "columns": [
         "issue_date",
         "report_week",
@@ -2003,9 +2003,22 @@
       "status": "Verified"
     },
     {
+      "file": "gibson_spot_chart_daily.csv",
+      "target_metric": "Gibson Spot Chart Daily.Csv",
+      "rows": 9240,
+      "columns": [
+        "date",
+        "chart",
+        "route",
+        "ws",
+        "report_date"
+      ],
+      "status": "Verified"
+    },
+    {
       "file": "gibson_tanker_spot_series.csv",
       "target_metric": "Gibson Tanker Spot",
-      "rows": 3630,
+      "rows": 3598,
       "columns": [
         "issue_date",
         "report_week",
@@ -2369,7 +2382,7 @@
     {
       "file": "hellenic_iron_ore_pdf_freight_rates_series.csv",
       "target_metric": "MMi Daily Iron Ore seaborne bulk freight rate benchmarks ($/t)",
-      "rows": 22752,
+      "rows": 22781,
       "columns": [
         "date",
         "year",
@@ -2384,7 +2397,7 @@
     {
       "file": "hellenic_iron_ore_pdf_futures_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Futures",
-      "rows": 2238,
+      "rows": 2359,
       "columns": [
         "date",
         "year",
@@ -2395,14 +2408,29 @@
         "change",
         "change_pct",
         "settlement",
-        "source_file"
+        "source_file",
+        "closing_date",
+        "vol_traded_k_lots",
+        "vol_change",
+        "vol_change_pct",
+        "open_positions_k_lots",
+        "open_positions_change",
+        "open_positions_change_pct",
+        "day_low",
+        "day_low_change",
+        "day_low_change_pct",
+        "day_high",
+        "day_high_change",
+        "day_high_change_pct",
+        "holiday",
+        "value_source"
       ],
       "status": "Verified"
     },
     {
       "file": "hellenic_iron_ore_pdf_import_volumes_series.csv",
       "target_metric": "MMi Daily Iron Ore major Chinese port import volumes & arrival statistics",
-      "rows": 21496,
+      "rows": 21561,
       "columns": [
         "date",
         "year",
@@ -2416,7 +2444,7 @@
     {
       "file": "hellenic_iron_ore_pdf_index_comparisons_series.csv",
       "target_metric": "MMi Daily Iron Ore 62% vs 58% vs 65% spread and index comparisons",
-      "rows": 14550,
+      "rows": 14826,
       "columns": [
         "date",
         "year",
@@ -2482,7 +2510,7 @@
     {
       "file": "hellenic_iron_ore_pdf_port_inventories_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Port Inventories",
-      "rows": 6067,
+      "rows": 6984,
       "columns": [
         "date",
         "year",
@@ -2491,7 +2519,9 @@
         "change_pct",
         "low_12m",
         "high_12m",
-        "source_file"
+        "source_file",
+        "week_ending",
+        "value_source"
       ],
       "status": "Verified"
     },
@@ -3963,13 +3993,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 637886,
-  "total_master_series_csvs": 174,
-  "total_stacked_rows": 637886,
-  "total_series_csvs": 174,
+  "total_master_stacked_rows": 648209,
+  "total_master_series_csvs": 170,
+  "total_stacked_rows": 648209,
+  "total_series_csvs": 170,
   "total_master_workbooks": 1,
-  "total_series_count": 174,
-  "total_rows_extracted": 638191,
+  "total_series_count": 170,
+  "total_rows_extracted": 648514,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 599,
     "advanced_shipping_demolition_series.csv": 2000,
@@ -4036,8 +4066,9 @@
     "drewry_opinions_metadata.csv": 552,
     "drewry_wci_series.csv": 7,
     "fearnleys_rates_series.csv": 17112,
-    "gibson_bunker_prices_series.csv": 1023,
-    "gibson_tanker_spot_series.csv": 3630,
+    "gibson_bunker_prices_series.csv": 1028,
+    "gibson_spot_chart_daily.csv": 9240,
+    "gibson_tanker_spot_series.csv": 3598,
     "gms_demolition_rankings_series.csv": 1104,
     "gms_demolition_sales_series.csv": 161,
     "gms_market_commentary_series.csv": 1262,
@@ -4056,14 +4087,14 @@
     "hellenic_iron_ore_pdf_brands_series.csv": 31516,
     "hellenic_iron_ore_pdf_dashboard_series.csv": 253,
     "hellenic_iron_ore_pdf_domestic_concentrate_series.csv": 5583,
-    "hellenic_iron_ore_pdf_freight_rates_series.csv": 22752,
-    "hellenic_iron_ore_pdf_futures_series.csv": 2238,
-    "hellenic_iron_ore_pdf_import_volumes_series.csv": 21496,
-    "hellenic_iron_ore_pdf_index_comparisons_series.csv": 14550,
+    "hellenic_iron_ore_pdf_freight_rates_series.csv": 22781,
+    "hellenic_iron_ore_pdf_futures_series.csv": 2359,
+    "hellenic_iron_ore_pdf_import_volumes_series.csv": 21561,
+    "hellenic_iron_ore_pdf_index_comparisons_series.csv": 14826,
     "hellenic_iron_ore_pdf_indices_series.csv": 11652,
     "hellenic_iron_ore_pdf_normalisations_series.csv": 10740,
     "hellenic_iron_ore_pdf_port_differentials_series.csv": 14983,
-    "hellenic_iron_ore_pdf_port_inventories_series.csv": 6067,
+    "hellenic_iron_ore_pdf_port_inventories_series.csv": 6984,
     "hellenic_iron_ore_pdf_spreads_series.csv": 3240,
     "hellenic_iron_ore_pdf_steel_mill_pnl_series.csv": 9627,
     "hellenic_iron_ore_pdf_steel_production_consumption_series.csv": 19679,

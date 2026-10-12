@@ -17,23 +17,23 @@
     },
     {
       "path": "corpus/04-poten",
-      "untracked_files": 1087,
-      "untracked_bytes": 291454520
+      "untracked_files": 1085,
+      "untracked_bytes": 290831542
     },
     {
       "path": "corpus/05-seabrokers",
-      "untracked_files": 1,
-      "untracked_bytes": 8208648
+      "untracked_files": 3,
+      "untracked_bytes": 8249915
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 293,
-      "untracked_bytes": 553086930
+      "untracked_files": 288,
+      "untracked_bytes": 547682493
     },
     {
       "path": "corpus/07-signal",
-      "untracked_files": 301,
-      "untracked_bytes": 174871570
+      "untracked_files": 298,
+      "untracked_bytes": 174706385
     },
     {
       "path": "corpus/09-ppa",
@@ -40278,11 +40278,6 @@
       "sha256": "afeaae1de03727e77f48d7d67900815ff613396ed69e12d77667f673d16ef397"
     },
     {
-      "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 11 September 2026 - A Tanker Market On Steroids, Will It Last.pdf",
-      "bytes": 332771,
-      "sha256": "b31c8588b86837f5151220dcf9ca483aeec55fafc1e5f005bc0af2244e1645ca"
-    },
-    {
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 12 June 2026 - Has The U.S. Flipped The Script.pdf",
       "bytes": 270308,
       "sha256": "cd9ae186ae751292b61edd0d5feebb76fa58026bb27245741a8baaf184440b0d"
@@ -40321,11 +40316,6 @@
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 17 July 2026 - Backup Plans.pdf",
       "bytes": 287786,
       "sha256": "c43becf5100a4d7b22aff1ef31639cb4bab808c7642b284801abe8a2146f10dd"
-    },
-    {
-      "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 18 September 2026 - Running Out Of Options.pdf",
-      "bytes": 290207,
-      "sha256": "6529ad546a35d9716a2fe78f5987144631052e0f9776c5bb838ae4e9449280b7"
     },
     {
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 20 Feb 2026 - Does The Buy And Hold Strategy Still Work.pdf",
@@ -40433,6 +40423,16 @@
       "sha256": "73e017e6f01aa7ac5e9ab2de5e1c16b6c7bb3e4a7b351154ecef88926bed9a11"
     },
     {
+      "path": "corpus/05-seabrokers/2023/2023-12-01_market-report-december-2023.md",
+      "bytes": 1930,
+      "sha256": "eab6eb448c5a1c6463c7195c4af62055aabf6bfdbf9e1784694279cf02fe6807"
+    },
+    {
+      "path": "corpus/05-seabrokers/pdfs/2023-12-01_market-report-december-2023.pdf",
+      "bytes": 39337,
+      "sha256": "de9a3976a98a27f6a40649bddec30238a7f5623d281b0700a18d899c256de78a"
+    },
+    {
       "path": "corpus/05-seabrokers/pdfs/2026-09-01_market-report-september-2026.pdf",
       "bytes": 8208648,
       "sha256": "1e81904eaa453d2ac5b18de8bc2b336f77c00bbf46607a92f269820da515cf11"
@@ -40503,11 +40503,6 @@
       "sha256": "d10c68122ee8f62c8750191304a4f3ed0ad56f12f1caed29d0578f83852b9b94"
     },
     {
-      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_VLCC_Week40_2026.pdf",
-      "bytes": 2061991,
-      "sha256": "6ee91a444c50a08781995158adb7ee0034b5b0a02d87aa653a05fd7668e2f78f"
-    },
-    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Capesize_Week25_2026.pdf",
       "bytes": 1560575,
       "sha256": "551ebce5e78d764c946d2de3c01e3275928490e8c0ccfce223f57c9a60e63550"
@@ -40541,11 +40536,6 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Handysize_Week36_2026.pdf",
       "bytes": 1601513,
       "sha256": "5a2ed2c6e1e856545898cd8083a332ab9a5006772a53d429cb5d1dfa36286e1e"
-    },
-    {
-      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf",
-      "bytes": 1614634,
-      "sha256": "a5d0346379050cf1e97f16530064283013840c1906c62514857994b8c65b7a60"
     },
     {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Panamax_Week27_2026.pdf",
@@ -41863,11 +41853,6 @@
       "sha256": "dc54fe7bf4a397356c437fa70fbbcd08140cad2812b2ec537d2d14ff36a0d3e3"
     },
     {
-      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR1_Week40_2026.pdf",
-      "bytes": 1686994,
-      "sha256": "62371f42185a1db062089d6cb844bb202793e6081d8e51dc8aa179955e7c1a3a"
-    },
-    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week27_2026.pdf",
       "bytes": 1658825,
       "sha256": "5fe469aefc731c81dba4b0bcba47bfe7bd3d9f107bb7ec86b3351535221a54b8"
@@ -41891,16 +41876,6 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
-    },
-    {
-      "path": "corpus/06-drewry/ais/ais_manifest.csv",
-      "bytes": 39369,
-      "sha256": "bacd6376e9425d26f735391c05ce2a2f938d34fee11cbd4ccc06409ceb3f34ef"
-    },
-    {
-      "path": "corpus/06-drewry/opinions/2026/2026-10-08_drewry_wci.md",
-      "bytes": 1449,
-      "sha256": "aaba14a9c913ee9beb9017aa180792b24d9146de8902152a5b4e0eef15295f53"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
@@ -43371,21 +43346,6 @@
       "path": "corpus/07-signal/images/6a8eb6521be2d52eeb6ea789_Commodity Radar _Bauxite_Week 35.png",
       "bytes": 1021862,
       "sha256": "f0a128a700efbdc10a419e76e68bbe2a3413ba7d27434cc2076ee583f376e3b6"
-    },
-    {
-      "path": "corpus/07-signal/images/6a8eb669e2b3ac1fb4954ab8_1) Tonne miles.png",
-      "bytes": 73875,
-      "sha256": "728e63298b83315a7db448b06ad1d19ad61f13b11fc9b5719ff6498d7fa28cdc"
-    },
-    {
-      "path": "corpus/07-signal/images/6a8eb681dfebf9276e51bc4d_2) Bauxite flows.png",
-      "bytes": 68286,
-      "sha256": "d7ae4cabccd2ededd5148797dad31fd55109baaf1fb58e6d6b0bd855bb908f6d"
-    },
-    {
-      "path": "corpus/07-signal/images/6a8eb695562f3204c2e9c8e6_3) Guinea bauxite exports in July 2026.png",
-      "bytes": 23024,
-      "sha256": "2a1d1a413e6eb76f1d433d733b25d48549f025789b421ff00f1bc91c1f0d572b"
     },
     {
       "path": "corpus/07-signal/images/6a993aedc9ea6343f37a06d7_Dryweekly35newsroom.png",
