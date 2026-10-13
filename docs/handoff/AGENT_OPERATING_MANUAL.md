@@ -64,6 +64,13 @@ File ownership is machine-enforced: `docs/handoff/lanes.json` + check E7.
 
 Each harness has a name the owner gives you in the prompt (HARNESS = e.g. `antigravity-1`, `kilo-1`).
 
+0. **Own folder first.** Several harnesses may be open on the same checkout
+   (C:/Users/Dell/Github/Shipping). Never `git switch`/`checkout`/`reset` there: it changes the files
+   under every other agent. Work only in your own worktree:
+   `git -C C:/Users/Dell/Github/Shipping worktree add C:/Users/Dell/Github/Shipping-wt-<HARNESS> origin/main`
+   (if it already exists from an earlier session, just use it), `cd` into it, and run every command
+   below from there. PDFs stay where they are: pass `--corpus-root C:/Users/Dell/Github/Shipping`.
+   The two outputs that show where you are, `git rev-parse --show-toplevel` and `git branch --show-current`, go in your log.
 1. `git fetch origin --prune` and list `git branch -r --list "origin/lane/*"`.
 2. For each lane in order L3, L1, L2: if `origin/lane/<lane>` exists, read
    `git show origin/lane/<lane>:docs/handoff/claims/<lane>.json`.
