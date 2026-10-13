@@ -136,7 +136,15 @@ In the Aframax sector we had the sale of the "KRONVIKEN" (114,523dwt-blt '06, S.
 
 # Intermodal Dry Bulk Market
 
-> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
+### Baltic Indices (1-Year Trend)
+
+|  | 01/07/2022 Index | 01/07/2022 $/day | 24/06/2022 Index | 24/06/2022 $/day | Point Diff | $/day ±% | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 2,214 |  | 2,331 |  | -117 |  | 2,921 | 1,066 |
+| BCI | 2,381 | $19,745 | 2,396 | $19,875 | -15 | -0.7% | 3,974 | 1,742 |
+| BPI | 2,477 | $22,297 | 2,695 | $24,254 | -218 | -8.1% | 2,972 | 1,103 |
+| BSI | 2,290 | $25,192 | 2,449 | $26,942 | -159 | -6.5% | 2,424 | 746 |
+| BHSI | 1,276 | $22,973 | 1,334 | $24,009 | -58 | -4.3% | 1,424 | 447 |
 
 ## Indicative Period Charters
 

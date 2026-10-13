@@ -102,8 +102,20 @@ Shanghai 200122 China
 
 > **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
-
+| Sector | $/day | 10-Jun-22 | 03-Jun-22 | ±% | Diff | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 300k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
+| VLCC | 300k 3yr TC | 30,000 | 30,000 | 0.0% | 0 | 28,672 | 34,772 |
+| Suezmax | 150k 1yr TC | 21,000 | 21,000 | 0.0% | 0 | 17,226 | 29,543 |
+| Suezmax | 150k 3yr TC | 21,500 | 21,500 | 0.0% | 0 | 22,700 | 27,481 |
+| Aframax | 110k 1yr TC | 21,500 | 21,500 | 0.0% | 0 | 15,854 | 23,380 |
+| Aframax | 110k 3yr TC | 19,500 | 19,500 | 0.0% | 0 | 19,714 | 21,854 |
+| Panamax | 75k 1yr TC | 22,500 | 22,500 | 0.0% | 0 | 14,184 | 17,322 |
+| Panamax | 75k 3yr TC | 15,750 | 15,750 | 0.0% | 0 | 15,950 | 16,296 |
+| MR | 52k 1yr TC | 19,500 | 19,500 | 0.0% | 0 | 12,608 | 15,505 |
+| MR | 52k 3yr TC | 15,000 | 15,000 | 0.0% | 0 | 13,804 | 15,916 |
+| Handy | 36k 1yr TC | 16,250 | 16,250 | 0.0% | 0 | 11,292 | 13,966 |
+| Handy | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
 ## Indicative Market Values ($ Million) - Tankers
 
 | Sector | Size | Jun-22 avg | May-22 avg | ±% | 2021 | 2020 | 2019 |

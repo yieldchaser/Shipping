@@ -98,7 +98,15 @@ Last, MR rates in the Atlantic Arena plummeted with Atlantic Basket TCE standing
 
 ## Dry Bulk Market
 
-> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
+### Baltic Indices (1-Year Trend)
+
+|  | 15/11/24 Index | 15/11/24 $/day | 08/11/24 Index | 08/11/24 $/day | Point Diff | $/day ±% | 2023 Index | 2022 Index |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,785 |  | 1,495 |  | 290 |  | 1,395 | 1,931 |
+| BCI | 3,229 | $26,777 | 2,316 | $19,210 | 913 | 39.4% | 2,007 | 1,955 |
+| BPI | 1,212 | $10,906 | 1,176 | $10,586 | 36 | 3.0% | 1,442 | 2,298 |
+| BSI | 1,019 | $10,848 | 1,079 | $11,608 | -60 | -6.5% | 1,031 | 2,006 |
+| BHSI | 685 | $12,337 | 703 | $12,648 | -18 | -2.5% | 586 | 1,181 |
 
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |

@@ -27,14 +27,19 @@ BLOCK = re.compile(r"(?:^\|[^\n]*\n?)+", re.M)
 HEAD = re.compile(r"^(#{1,6})[ \t]+(.+?)[ \t]*$", re.M)
 
 
-def is_chart(table: str, heading: str) -> bool:
+def is_chart(table: str, heading: str, directly_under: bool) -> bool:
     rows = [r for r in table.strip().splitlines()[2:] if r.strip()]
     if len(rows) < 2:
         return False
     first = [r.strip().strip("|").split("|")[0] for r in rows]
     if sum(bool(DATE.match(c)) for c in first) >= 0.8 * len(rows):
         return True
-    return bool(TREND.search(heading))
+    # A "(N-Year Trend)" heading names the chart right below it. A later table under the same heading
+    # (e.g. the printed TC Rates table that has no heading of its own) is not that chart.
+    # A printed week-on-week table (e.g. Baltic Indices: '01/07/2022 Index | 24/06/2022 Index') carries exactly
+    # two distinct dates in its header; a transposed chart carries one per month.
+    header_dates = set(re.findall(r"\d{1,2}[/-][A-Za-z0-9]{2,3}[/-]\d{2,4}", table.splitlines()[0]))
+    return bool(TREND.search(heading)) and directly_under and len(header_dates) != 2
 
 
 def process(text: str) -> tuple[str, list[str]]:
@@ -45,10 +50,10 @@ def process(text: str) -> tuple[str, list[str]]:
         heads = list(HEAD.finditer(t, 0, m.start()))
         h = heads[-1] if heads else None
         title = h.group(2).strip().strip("*").strip() if h else ""
-        if not is_chart(m.group(0), title):
+        between = t[h.end():m.start()] if h else None
+        if not is_chart(m.group(0), title, bool(h) and between.strip() == ""):
             continue
         note = NOTE.format(title=title or "untitled chart")
-        between = t[h.end():m.start()] if h else None
         if h and between.strip() == "" and h.start() >= pos:   # heading carries only this table: fold it
             start = h.start()
         else:

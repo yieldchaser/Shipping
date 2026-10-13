@@ -85,7 +85,15 @@ In the Aframax segment, weekly average TCE rates reached \$60,267/day, up 22% w-
 
 ## Dry Bulk Market
 
-> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
+### Baltic Indices (1-Year Trend)
+
+|  | 16/01/2026 Index | 16/01/2026 $/day | 09/01/2026 Index | 09/01/2026 $/day | Point Diff | $/day ±% | 2025 Index | 2024 Index |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,567 |  | 1,688 |  | -121 |  | 1,677 | 1,743 |
+| BCI | 2,224 | $16,670 | 2,640 | $20,444 | -416 | -18.5% | 2,566 | 2,696 |
+| BPI | 1,458 | $13,120 | 1,345 | $12,108 | 113 | 8.4% | 1,476 | 1,561 |
+| BSI | 967 | $10,186 | 967 | $10,189 | 0 | 0.0% | 1,127 | 1,238 |
+| BHSI | 588 | $10,578 | 605 | $10,897 | -17 | -2.9% | 661 | 702 |
 
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |

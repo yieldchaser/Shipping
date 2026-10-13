@@ -86,7 +86,15 @@ On clean products, TC1 (MEG/JPN) fell to WS 198.06 (-3.4%), while on MRs, TC2 fe
 
 ## Dry Bulk Market
 
-> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
+### Baltic Indices (1-Year Trend)
+
+|  | 21/06/24 Index | 21/06/24 $/day | 14/06/24 Index | 14/06/24 $/day | Point Diff | $/day ±% | 2023 Index | 2022 Index |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,997 |  | 1,948 |  | 49 |  | 1,395 | 1,931 |
+| BCI | 3,142 | $26,059 | 2,957 | $24,525 | 185 | 6.3% | 2,007 | 1,955 |
+| BPI | 1,827 | $16,441 | 1,950 | $17,546 | -123 | -6.3% | 1,442 | 2,298 |
+| BSI | 1,398 | $15,382 | 1,335 | $14,689 | 63 | 4.7% | 1,031 | 2,006 |
+| BHSI | 753 | $13,548 | 711 | $12,803 | 42 | 5.8% | 586 | 1,181 |
 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
