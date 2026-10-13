@@ -566428,3 +566428,12 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 863267,2026-10-13,,,,,,,,Panamax,BULK,,,,,
 863268,2026-10-13,,GRAIN COMPASS,XING PING OR SUB,,,,,Panamax,BULK,"STEEL/DECK, NICKEL ORE",,,,"GOA/WAF HRA/SOHAR/FUJA/SOHAR/OMAN OK, NO USA/EU/AUSSIA"
 863269,2026-10-13,Ternium,,,,,,,Panamax,BULK,Steel Slabs,,,,Box Shape (preferable) or Bulk Carrier Single Decker; Max 310 M; Min 4 X 30 MT cranes preferably 35 MT; Tanktop strength min 20 mt/m2; Min 5 HO/HA; 20 years Max MANDATORY; NO PARTIAL SHIPMENT ALLOWED FOR THE SAME CARGO
+863270,2026-10-13,Companhia Siderurgica Nacional,,,,,,,Panamax,BULK,Metallurgical Coke,,,,"stwf 70 cu.ft./mt.; Only named vessel to be accepted and it must be in ballast. Vessels with two pending discharge ports will not be accepted. If the vessel has only one pending discharge port, please provide full details of that voyage."
+863271,2026-10-13,CSN,,,,,,,Panamax,BULK,Metcoke,,,,
+863272,2026-10-13,,,,,,,,Panamax,BULK,Soybeans,,,,to be narrowed to a 5-day spread
+863273,2026-10-13,TSGP,,,,,,,Panamax,BULK,Iron Ore,,,,FRESH OPEN; GEARLESS; Rightship safety score 3-5; GHG rating A-C; vessel age 16 years or less
+863274,2026-10-13,HMT,,,,,,,Panamax,BULK,Clinker,,,,3 firm + 2 optional; Geared/grabs
+863275,2026-10-13,Ternium,,,,,,,Panamax,BULK,Steel Slabs,,,,"BOX SHAPED BULK CARRIER PREFERED, CLASSED LLOYDS HIGHEST OR EQUIVALENT, ISPM CERTIFIED, MIN 4X30MT CRANES WITH 8M OUTREACH (35MT PREFERED), TANKTOP STRENGTH MIN 20MT/M2, HYDRAULIC DRIVEN HATCH COVERS, MAX 20 YEARS, VESSEL TO BE FULLY COVERED BY A FIRST CLASS P&I CLUB AND HULL AND MACHINERY INSURANCE FOR THE WHOLE VOYAGE DURATION, B(S)/L TO BE ISSUED AT DISCHARGE PORT, VESSEL NOMINATION LATEST 7 DAYS BEFORE 1ST DAY OF LAYCAN, DISPOSAL, REMOVAL AND UNLOADING OF THE DUNNAGE AND LASHING MATERIAL SHALL BY FOR OWNERS RISK, TIME AND ACCOUNT"
+863276,2026-10-13,,,angel ii,,,,,Capesize,BULK,,,,,cape
+863277,2026-10-13,,,nondas kmx,,,,,Kamsarmax,BULK,,,,,
+863278,2026-10-13,,Seatraders,nondas,,,,,Kamsarmax,BULK,,,,,
