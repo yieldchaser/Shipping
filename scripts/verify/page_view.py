@@ -12,9 +12,10 @@ Subcommands (all PNGs go to --out, default <tmp>/page_view; open them with your 
   page PDF PAGE [--find TEXT ...] [--dpi 150]
       Render one page; every text-layer match of each --find is boxed in red.
 
-  side MD PDF PAGE [--grep TEXT]
+  side MD PDF PAGE [--grep TEXT]   (best first look at any page)
       One PNG: page render on the left, the MD lines on the right (only lines containing TEXT
-      if given; else the MD table lines). Compare cell by cell.
+      if given; else only the MD table lines whose numbers are on this page; MD numbers missing from
+      the page text layer are marked >>like this<<). Compare every cell; look hardest at >> <<.
 
   crop PDF PAGE (--find TEXT | --bbox x0,y0,x1,y1) --save PATH [--dpi 300]
       Evidence crop for check_evidence.py kind=image: the full-width row band around TEXT (or the
@@ -119,7 +120,31 @@ def cmd_side(a, out: Path) -> None:
     doc = pymupdf.open(resolve(a.pdf, a.corpus_root))
     pg_png = render(doc, a.page, [a.grep] if a.grep else [], a.dpi, out)
     _, lines = md_split(Path(a.md))
-    sel = [ln for ln in lines if (a.grep in ln if a.grep else ln.lstrip().startswith("|"))][:160]
+    if a.grep:
+        sel = [ln for ln in lines if a.grep in ln]
+    else:
+        # MD table lines that belong to THIS page: a line whose numbers are mostly on the page's text
+        # layer. Raster/outlined pages have no text layer -> show every table line.
+        words = set()
+        for w in doc[a.page - 1].get_text("words"):
+            for n in NUM.findall(w[4]):
+                words |= canon(n.strip(".,"))
+        tbl = [ln for ln in lines if ln.lstrip().startswith("|")]
+        if words:
+            def on_page(ln):
+                ns = nums(ln)
+                return not ns or sum(bool(canon(n) & words) for n in ns) * 2 >= len(ns)
+            keep = [ln for ln in tbl if on_page(ln)]
+            # drop header/separator lines that are not followed by any kept data line
+            sel = [ln for i, ln in enumerate(keep) if nums(ln) or any(nums(x) for x in keep[i + 1:i + 3])]
+        else:
+            sel = tbl
+    sel = sel[:160]
+    # mark MD numbers that are NOT on this page's text layer with >> << so the eye goes there first
+    if not a.grep and words:
+        sel = [re.sub(NUM, lambda m: m.group(0) if (len(re.sub(r"[.,]", "", m.group(0))) <= 2
+                                                     or canon(m.group(0).strip(".,")) & words)
+                      else f">>{m.group(0)}<<", ln) for ln in sel]
     left = Image.open(pg_png)
     try:
         font = ImageFont.truetype("consola.ttf", 15)
