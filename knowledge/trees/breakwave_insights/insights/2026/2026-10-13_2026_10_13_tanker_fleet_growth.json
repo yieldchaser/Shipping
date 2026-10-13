@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-10-13_2026_10_13_tanker_fleet_growth__root",
+  "doc_id": "breakwave_insights_insights_2026-10-13_2026_10_13_tanker_fleet_growth",
+  "parent_id": null,
+  "title": "Tanker fleet growth",
+  "section_path": [
+    "Tanker fleet growth"
+  ],
+  "section_path_text": "Tanker fleet growth",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nTanker fleet growth has accelerated considerably over the past two years, marking a clear shift from the unusually restrained supply environment that supported the market earlier in the cycle. Across the main tanker segments, combined fleet capacity has increased from approximately 677.8 mills DWT at the end of 2023 to around 738.9 mills DWT currently, representing growth of roughly 9.0%. However, the expansion has been far from uniform.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "crude_oil",
+    "products",
+    "gas",
+    "fleet",
+    "dwt",
+    "eee"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2377,
+  "source_path": "reports/breakwave/2026/2026-10-13_tanker-fleet-growth.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/10/13/tanker-fleet-growth",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-10-13_2026_10_13_tanker_fleet_growth__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-10-13_2026_10_13_tanker_fleet_growth",
+      "parent_id": "breakwave_insights_insights_2026-10-13_2026_10_13_tanker_fleet_growth__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nTanker fleet growth has accelerated considerably over the past two years, marking a clear shift from the unusually restrained supply environment that supported the market earlier in the cycle. Across the main tanker segments, combined fleet capacity has increased from approximately 677.8 mills DWT at the end of 2023 to around 738.9 mills DWT currently, representing growth of roughly 9.0%.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 969,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-13_2026_10_13_tanker_fleet_growth__s02_linked_asset_2026_10_13_tanker_fleet_growth_img_unsplash_image_983knf8azec_cdfb4f4e523c_jpg",
+      "doc_id": "breakwave_insights_insights_2026-10-13_2026_10_13_tanker_fleet_growth",
+      "parent_id": "breakwave_insights_insights_2026-10-13_2026_10_13_tanker_fleet_growth__root",
+      "title": "Linked asset: 2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg",
+      "section_path": [
+        "Linked asset: 2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg\n\nLinked image asset: 2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg\n\nImage metadata: JPEG 1875x2500 mode=RGB\n\nOCR text:\nee . - 7 <= - --\nEES Ln eT ae Gree es ee ee Be tas ta lel TV aS A gett eet el lS enn ee ak ee ee wn aa aa eee\neR hey oe SR ral & 1015S ARES panos Dare OTS pti RENNES fo 0 gaa Ss ore coins z - ae\n4 aT eae a: a - z -\n= er een 5 ee ee = A =\n-\n£ i\nKa\n- r# ‘aa -- vert\n= ; ater, cea 2 preven a.",
+      "keywords": [
+        "gas",
+        "eee",
+        "sss",
+        "cee",
+        "aes",
+        "eae",
+        "see",
+        "aie"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1368,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

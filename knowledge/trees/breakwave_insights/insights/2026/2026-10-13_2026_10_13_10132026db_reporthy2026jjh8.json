@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8__root",
+  "doc_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Dry Bulk Report - October 13, 2026",
+  "section_path": [
+    "Breakwave Bi-Weekly Dry Bulk Report - October 13, 2026"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Dry Bulk Report - October 13, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Capesize Spot Rates Hit Two-month Lows - Although Capesize spot rates have declined by approximately $20,000 from their early-September multi-year highs, they remain comfortably above the $30,000 threshold, representing a 40% yearover-year increase. This recent retreat likely stems from iron ore transportation costs hitting a decade-high percentage of the commodity's price, which has subsequently stifled inquiry from smaller, cost-constrained miners. However, elevated futures trading at a premium to spot rates (contango structure) indicate widespread market optimism that this downturn is temporary.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2492,
+  "source_path": "reports/breakwave/2026/2026-10-13_10132026db-reporthy2026jjh8.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/10132026db-reporthy2026jjh8",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8",
+      "parent_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Capesize Spot Rates Hit Two-month Lows - Although Capesize spot rates have declined by approximately $20,000 from their early-September multi-year highs, they remain comfortably above the $30,000 threshold, representing a 40% yearover-year increase. This recent retreat likely stems from iron ore transportation costs hitting a decade-high percentage of the commodity's price, which has subsequently stifled inquiry from smaller, cost-constrained miners.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "iron_ore",
+        "crude_oil",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 696,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8__s02_linked_asset_2026_10_13_10132026db_reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_081b0f6fe7e4_png",
+      "doc_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8",
+      "parent_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8__root",
+      "title": "Linked asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_081b0f6fe7e4.png",
+      "section_path": [
+        "Linked asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_081b0f6fe7e4.png"
+      ],
+      "section_path_text": "Linked asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_081b0f6fe7e4.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_081b0f6fe7e4.png\n\nLinked image asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_081b0f6fe7e4.png\n\nImage metadata: PNG 272x653 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nShort-term Indicators\nMomentum: Negative\nSentiment: Positive\nFundamentals: Neutral\nBreakwave Dry 2892\nFutures Index:\n30D: -16.3% vy\nYTD: 88.8% t\nYOY: 47.6% t\nBaltic Dry Index 2852\n(spot):\n30D: -18.7% v\nYTD: 51.9% t\nYOY: 47.3% t\nReuters: BDRY.K\nBloomberg: BDRY US\nExchange: NYSE\nBreakwave Advisors Research\nresearch@breakwaveadvisors.com",
+      "keywords": [
+        "asset",
+        "image",
+        "research",
+        "yoy",
+        "ytd",
+        "bdry",
+        "bdry.k",
+        "bloomberg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 289,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8__s03_linked_asset_2026_10_13_10132026db_reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0da3421bc13a_png",
+      "doc_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8",
+      "parent_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8__root",
+      "title": "Linked asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0da3421bc13a.png",
+      "section_path": [
+        "Linked asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0da3421bc13a.png"
+      ],
+      "section_path_text": "Linked asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0da3421bc13a.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0da3421bc13a.png\n\nLinked image asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0da3421bc13a.png\n\nImage metadata: PNG 932x557 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\n[structured table]\n| | | BREAKWAVE |\n|---|---|---|\n| | | ADVISORS |\n| | Baltic Dry Index (BDIY) vs Breakwave | Dry Futures Index (BDRYFF) |\n| | 4000 | |\n| | 3500 | |\n| | 3000 | |\n| | 2500 | |\n| | 2000 | |\n| | 1500 | |\n| | 1000 | |\n| | 500 | |\n| | (spot) | BDRYFF (futures) |\n| | 5 | |\n| | Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 Apr-26 | May-26 Jun-26 Jul-26 Aug-26 Sep-26 |\n| The | Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a | sector weighting of 40% Capesize, 30% Panamax and 30% Supramax. |\n| The | Breakwave Dry Futures Index (BDRYFF) is designed to track freight futures contracts | with a sector weighting of 5036 Capesize, 40% Panamax and 10% |\n| | and a weighted average maturity of approximately 50-70 days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "bdryff",
+        "average",
+        "sector",
+        "weighting",
+        "bdiy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 652,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8__s04_linked_asset_2026_10_13_10132026db_reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8940eece872a_png",
+      "doc_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8",
+      "parent_id": "breakwave_insights_insights_2026-10-13_2026_10_13_10132026db_reporthy2026jjh8__root",
+      "title": "Linked asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8940eece872a.png",
+      "section_path": [
+        "Linked asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8940eece872a.png"
+      ],
+      "section_path_text": "Linked asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8940eece872a.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8940eece872a.png\n\nLinked image asset: 2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8940eece872a.png\n\nImage metadata: PNG 927x752 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nDemand YTD YOY\nChina Steel Production 652mt\nChina Steel Inventories 4.2mt -10.5%\nChina Iron Ore Inventories 153mt 15.1%\nChina ron Ore import Baémt\nChina Coal Imports 310mt\nChina Soybean Imports 7amt\nBrazil Iron Ore Exports 26amt\nAustralia Iron Ore Exports 6zamt\nSupply\nDry Bulk Fleet 1093 mdwt\nFreight Rates\nBaltic Dry Index, Average 2,603 68.7%\nCapesize Spot Rates, Average 33,781 77.5%\nPanamax Spot rates, Average 18,439 46.2%\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's internal use only. This report does not constitute and will not form part of and",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 689,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

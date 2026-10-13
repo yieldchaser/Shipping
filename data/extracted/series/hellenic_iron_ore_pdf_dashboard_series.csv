@@ -252,3 +252,28 @@ date,year,indicator,value,unit,change,source_file
 2026-10-09,2026,arrivals_chinese_ports_mt_million,29.0943,mt_m,0.0,2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf
 2026-10-09,2026,bf_operating_rate_pct,88.57,pct,0.0,2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf
 2026-10-09,2026,global_shipments_mt_million,35.9424,mt_m,0.0,2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf
+2026-10-12,2026,DCE Iron Ore Most-traded I2701,683.0,yuan/mt,0.5,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,MMi 58% Port Spot,622.0,yuan/wmt,-5.0,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,MMi 61% Port Spot,661.0,yuan/wmt,-3.0,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,MMi 61% Seaborne Index,89.8,USD/dmt,0.6,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,MMi 65% Port Spot,824.0,yuan/wmt,-4.0,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,MMi 65% Seaborne Index,109.5,USD/dmt,0.1,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,SMM Domestic Ore Composite Index,821.58,yuan/mt,-3.22,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,arrivals_chinese_ports_mt_million,27.9147,mt_m,0.0,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,bf_capacity_utilisation_pct,57.3,pct,0.0,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,freight_c3_usd_mt,33.68,USD/mt,0.0,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,freight_c5_usd_mt,14.39,USD/mt,0.0,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,global_shipments_mt_million,34.1393,mt_m,0.0,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-12,2026,port_inventory_10_ports_mt_million,103.0165,mt_m,0.0,2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf
+2026-10-13,2026,DCE Iron Ore Most-traded I2701,677.0,yuan/mt,-6.0,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
+2026-10-13,2026,MMi 58% Port Spot,619.0,yuan/wmt,-3.0,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
+2026-10-13,2026,MMi 61% Port Spot,657.0,yuan/wmt,-4.0,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
+2026-10-13,2026,MMi 61% Seaborne Index,89.5,USD/dmt,-0.3,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
+2026-10-13,2026,MMi 65% Port Spot,821.0,yuan/wmt,-3.0,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
+2026-10-13,2026,MMi 65% Seaborne Index,108.7,USD/dmt,-0.8,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
+2026-10-13,2026,SMM Domestic Ore Composite Index,821.58,yuan/mt,-3.22,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
+2026-10-13,2026,arrivals_chinese_ports_mt_million,27.9147,mt_m,0.0,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
+2026-10-13,2026,freight_c3_usd_mt,33.26,USD/mt,0.0,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
+2026-10-13,2026,freight_c5_usd_mt,13.92,USD/mt,0.0,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
+2026-10-13,2026,global_shipments_mt_million,34.1393,mt_m,0.0,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
+2026-10-13,2026,port_inventory_10_ports_mt_million,103.0165,mt_m,0.0,2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf
