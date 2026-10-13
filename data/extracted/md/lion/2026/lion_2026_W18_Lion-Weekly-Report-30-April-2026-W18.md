@@ -47,6 +47,7 @@ demolition market rates, please check our comprehensive demometer below:
 | **India** | 440 | 450 | 460 | Stable |
 | **Bangladesh** | 480-490 | 510 | 520 | Stable |
 
+
 ## Representative Sales
 
 ### Bulkers
@@ -54,8 +55,8 @@ demolition market rates, please check our comprehensive demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V OCEAN FAIRY** | 87,328 | 2010 | Hudong / China | $16.5M | Undisclosed | Geared Kamsarmax Bulker, energy saving devices fitted: Pre-swirl Device + Propeller Boss Cap Fin + Silicon Paint. |
-| **M/V SEACON HAMBURG** | 85,505 | 2023 | Wenchong Longxue / China | $72.7M | Oman buyers (clients of Asyad Shipping) | - |
-| **M/V SEACON NOLA** | 85,611 | 2023 | Wenchong Longxue / China | $72.7M | Oman buyers (clients of Asyad Shipping) | wide-beamed Kamsarmaxes (36 mtrs) |
+| **M/V SEACON HAMBURG** | 85,505 | 2023 | Wenchong Longxue / China | $72.7M en bloc | Oman buyers (clients of Asyad Shipping) | - |
+| **M/V SEACON NOLA** | 85,611 | 2023 | Wenchong Longxue / China | $72.7M en bloc | Oman buyers (clients of Asyad Shipping) | wide-beamed Kamsarmaxes (36 mtrs) |
 | **M/V ELWAY** | 82,000 | 2012 | JES / China | $16.2M | Greek buyers | old sale, offers were invited on Thursday 26th March 2026, propeller boss cap fin (PBCF) fitted. |
 | **M/V ASTRA PERSEUS** | 58,518 | 2012 | DSME Shandong / China | $16.8M | Undisclosed | DSME (Hanwha) design, built under Greek Owners' supervision, Japanese/Korean makers list. |
 | **M/V V BRAVO** | 56,659 | 2012 | Zhejiang Zhenghe / China | $14.1M | Undisclosed | Tier II. |
@@ -65,14 +66,15 @@ demolition market rates, please check our comprehensive demometer below:
 | **M/V AMATERAS HARMONY** | 37,130 | 2021 | Saiki / Japan | $29.7M | Undisclosed | offers were invited 27th April 2026. |
 | **M/V IC PROGRESS** | 32,400 | 2011 | Zhejiang Hongxin / China | $10.6M | Undisclosed | Sold for $ 10.6 mill. |
 
+
 ### Tankers
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T SAIQ** | 299,999 | 2011 | Universal / Japan | $57.0M | Greek buyers | Sold for $ 57 mill to Greek buyers. |
 | **M/T AEGEAN HORIZON** | 158,738 | 2007 | Hyundai / S. Korea | $50.1M | Undisclosed | Sold for $ 50.1 mill. |
-| **M/T FRONT ULL** | 156,848 | 2014 | Rongsheng / China | $140.0M | Greek buyers | - |
-| **M/T FRONT IDUN** | 156,657 | 2015 | Rongsheng / China | $140.0M | Greek buyers | Sold en bloc for $ 140 mill to Greek buyers |
+| **M/T FRONT ULL** | 156,848 | 2014 | Rongsheng / China | $140.0M en bloc | Greek buyers | - |
+| **M/T FRONT IDUN** | 156,657 | 2015 | Rongsheng / China | $140.0M en bloc | Greek buyers | Sold en bloc for $ 140 mill to Greek buyers |
 | **M/T BAKER SPIRIT** | 156,929 | 2009 | Rongsheng / China | $53.5M | Undisclosed | Sold for $ 53.5 mill. |
 | **M/T TORM GANGA** | 119,950 | 2010 | Hyundai / S. Korea | $53.0M | Undisclosed | Sold for $ 53 mill. |
 | **M/T STI MADISON** | 109,999 | 2014 | Hyundai / S. Korea | $65.0M | Greek buyers (clients of Hercules Tanker Management) | scrubber fitted, increased price compared to early March sale of STI SOLIDARITY (110k blt 2015 Sundong/S. Kor, scrubber ftd) for $ 60 mill. |
@@ -83,12 +85,14 @@ demolition market rates, please check our comprehensive demometer below:
 | **M/T VS REMLIN** | 34,530 | 2003 | Dalian / China | $6.0M | Undisclosed | CAP 1 rated, DPP trading, Ldt 9179 mt. |
 | **M/T RUBIKON 78** | 16,642 | 2005 | Qiuxin / China | $7.0M | Undisclosed | DNV Ice 1A, Ldt 5936 mt. |
 
+
 ### Container / MPP / Tween
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **C/V HANSA AUGSBURG** | 23,553 | 2008 | GWS / China | $20.0M | Undisclosed | Wenchong 1700 design, gearless. |
 | **C/V PACANDA** | 12,774 | 2007 | Dae Sun / S. Korea | $11.5M | Undisclosed | DaeSun 1000 design, gearless. |
+
 
 ## Demolition Sales
 
@@ -153,3 +157,5 @@ demolition market rates, please check our comprehensive demometer below:
 - **M/T VS REMLIN**: M/T VS REMLIN (34,530 dwt, blt 2003 Dalian/China, LR ss due 12/2028 dd due 12/2026, EPOXY, 12 x pumps, igs, cow) - Sold for $ 6 mill, note: CAP 1 rated, DPP trading, Ldt 9179 mt.
 
 - **M/T RUBIKON 78**: M/T RUBIKON 78 (16,642 dwt, blt 2005 Qiuxin/China, NV ss/dd due 03/2026, 14 tanks Epoxy Phenolic, 12 x pumps,IMO II) - Sold for $ 7 mill, note: DNV Ice 1A, Ldt 5936 mt.
+
+

@@ -62,8 +62,8 @@ demolition market rates, please check our comprehensive demometer below:
 | **M/V MARAN HAPPINESS** | 177,720 | - | - | $29.0M | Undisclosed | $29 mill |
 | **M/V MARAN ARGONAUT** | 177,835 | - | - | $31.0M | Undisclosed | Greek flagged, scrubber fitted. Increased price compared to early March sale of older sister LUCKY CARINA (177,947 dwt blt 2007 SWS/China, scrubber fitted) for $23.8 mill |
 | **M/V XH NAVIGATOR** | 174,124 | 2005 | SWS / China | $20.0M | Chinese buyers | scrubber fitted, ss/dd passed Jan 2026. |
-| **M/V LOWLANDS AMBER** | 100,309 | 2021 | Oshima / Japan | $75.8M | Oman buyers (clients of Asyad Shipping) | - |
-| **M/V LOWLANDS CRIMSON** | 100,309 | 2020 | Oshima / Japan | $75.8M | Oman buyers (clients of Asyad Shipping) | 38 meters beam, post-panamax. |
+| **M/V LOWLANDS AMBER** | 100,309 | 2021 | Oshima / Japan | $75.8M en bloc | Oman buyers (clients of Asyad Shipping) | - |
+| **M/V LOWLANDS CRIMSON** | 100,309 | 2020 | Oshima / Japan | $75.8M en bloc | Oman buyers (clients of Asyad Shipping) | 38 meters beam, post-panamax. |
 | **M/V NEW HARMONY 8** | 82,790 | 2006 | Tsuneishi / Japan | $13.0M | Undisclosed | Sold for $ 13 mill basis surveys due. |
 | **M/V PABAL** | 76,118 | 2012 | Kouan / China | $16.5M | Undisclosed | Sold for $ 16.5 mill. |
 | **M/V PANSTELLAR** | 76,602 | 2003 | Imabari / Japan | $10.0M | Indian buyers | Sold for region $ 10 mill to Indian buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 stable INDIA 420 430 440 stable BANGLADESH 460 470 490 stable |
@@ -72,15 +72,15 @@ demolition market rates, please check our comprehensive demometer below:
 | **M/V SHEN YU 79** | 74,204 | 2002 | Oshima / Japan | $9.8M | Undisclosed | converted to geared panamax last year, price premium due to gear, new benchmark deal. |
 | **M/V BELTIGER** | 63,025 | 2017 | New Times / China | $26.8M | Undisclosed | Eco. |
 | **M/V ECO** | 63,490 | 2013 | Hantong / China | $23.0M | Undisclosed | Sold for $ 23 mill. |
-| **M/V YAN DANG SHAN** | 63,301 | 2017 | Sainty / China | $52.32M | Undisclosed | - |
-| **M/V TIAN MU SHAN** | 63,437 | 2017 | Sainty / China | $52.32M | Undisclosed | auction sale via on line bidding at GSE (Guangzhou shipping exchange platform), offers invited earlier this week on 26th May 2026. |
+| **M/V YAN DANG SHAN** | 63,301 | 2017 | Sainty / China | $52.32M en bloc | Undisclosed | - |
+| **M/V TIAN MU SHAN** | 63,437 | 2017 | Sainty / China | $52.32M en bloc | Undisclosed | auction sale via on line bidding at GSE (Guangzhou shipping exchange platform), offers invited earlier this week on 26th May 2026. |
 | **M/V SEA AFFLUENCE** | 56,741 | 2012 | Hantong / China | $15.5M | Undisclosed | Tier 2. |
 | **M/V HONY FUTURE** | 56,689 | 2012 | Xiamen Shipbuilding / China | $14.5M | Undisclosed | Tier 2. |
 | **M/V JADE** | 55,090 | 2010 | NACKS / China | $15.1M | Turkish buyers | Sold for $ 15.1 mill to Turkish buyers |
 | **M/V TIANJIN VENTURE** | 53,600 | 2009 | Chengxi / China | $12.2M | Undisclosed | scrubber fitted, Diamond 53 design, offers invited 21st May 2026. |
 | **M/V AFRICA HOPE** | 53,416 | 2009 | Yangzhou Dayang / China | $10.8M | Undisclosed | Diamond 53 design. |
-| **M/V TASAN** | 37,852 | 2010 | JES / China | $10.0M | Undisclosed | - |
-| **M/V CAPTAIN RAVI** | 38,816 | 2009 | JES / China | $10.0M | Undisclosed | Sold en bloc for $ 10 mill each. |
+| **M/V TASAN** | 37,852 | 2010 | JES / China | $10.0M each | Undisclosed | - |
+| **M/V CAPTAIN RAVI** | 38,816 | 2009 | JES / China | $10.0M each | Undisclosed | Sold en bloc for $ 10 mill each. |
 | **M/V ASAHI OCEAN** | 32,085 | 2013 | Hakodate / Japan | $15.25M | Vietnamese buyers (clients of Hai Phuong) | offers invited 18th May 2026, semi box design, double hull, new benchmark sale. |
 | **M/V DESPINA K** | 32,648 | 2010 | Jiangsu Zhenjiang / China | $9.2M | Undisclosed | new benchmark sale. |
 
@@ -92,9 +92,10 @@ demolition market rates, please check our comprehensive demometer below:
 | **M/T ABIE** | 302,986 | 2002 | Samsung / Korea | $42.0M | Undisclosed | Sold for $ 42 mill. |
 | **M/T OKEE JOHN T** | 53,712 | 2006 | Shin Kurushima / Japan | $16.1M | Undisclosed | Sold for $ 16.1 mill. |
 | **M/T HELLAS FIGHTER** | 49,997 | 2015 | HMD / Korea | $39.25M | Greek buyers | Sold for $ 39.25 mill to Greek buyers. |
-| **M/T HANS MAERSK** | - | - | - | $21.0M | Undisclosed | 7,961 dwt, blt 2009 STX/Korea, AB ss due 11/2029 dd due 12/2027, Siloxirane (MarineLINE), 18 x pumps, igs IMO II) - Sold for $ 21 mill. |
+| **M/T HANS MAERSK** | 37,961 | 2009 | STX / Korea | $21.0M | Undisclosed | Sold for $ 21 mill. |
 | **M/T MERENGUE** | 38,431 | 2007 | GSI / China | $15.0M | Undisclosed | Sold for $ 15 mill. |
-| **M/T VS LEIA** | 38,461 | 2006 | GSI / China | $11.0M | Undisclosed | CAP 1, CPP trading. M/T VS SPIRIT (34,671 dwt, blt 2007 Dalian/China, LR ss/dd due 03/2027, epoxy coated, 14 x pumps, igs, cow, IMO III) - $ 14 mill. Sold en bloc for $ 25 mill. |
+| **M/T VS LEIA** | 38,461 | 2006 | GSI / China | $11.0M | Undisclosed | CAP 1, CPP trading. |
+| **M/T VS SPIRIT** | 34,671 | 2007 | Dalian / China | $14.0M | Undisclosed | $ 14 mill. Sold en bloc for $ 25 mill. |
 | **M/T NOBLER** | 19,949 | 2002 | Usuki / Japan | $10.0M | Undisclosed | J19. |
 | **M/T CHEM MIA** | 19,702 | 2008 | Fukuoka / Japan | $17.9M | Undisclosed | J19. |
 | **M/T GRACE** | 17,579 | 2009 | Samho / Korea | $11.5M | Undisclosed | Sold for $ 11.5 mill. |
@@ -178,11 +179,13 @@ demolition market rates, please check our comprehensive demometer below:
 
 - **M/T HELLAS FIGHTER**: M/T HELLAS FIGHTER (49,997 dwt, blt 2015 HMD/Korea, LR ss due 10/2030 dd due 10/2028, epoxy coated, 12 x pumps, igs, cow, IMO II/III) - Sold for $ 39.25 mill to Greek buyers.
 
-- **M/T HANS MAERSK**: M/T HANS MAERSK 7,961 dwt, blt 2009 STX/Korea, AB ss due 11/2029 dd due 12/2027, Siloxirane (MarineLINE), 18 x pumps, igs IMO II) - Sold for $ 21 mill.
+- **M/T HANS MAERSK**: M/T HANS MAERSK (37,961 dwt, blt 2009 STX/Korea, AB ss due 11/2029 dd due 12/2027, Siloxirane (MarineLINE), 18 x pumps, igs IMO II) - Sold for $ 21 mill.
 
 - **M/T MERENGUE**: M/T MERENGUE (38,431 dwt, blt 2007 GSI/China, LR ss/dd due 04/2027, epoxy coated tanks, 10 x pumps, igs, cow,) - Sold for $ 15 mill.
 
-- **M/T VS LEIA**: M/T VS LEIA (38,461 dwt, blt 2006 GSI/China, LR ss due 04/2028 dd due 04/2026, epoxy coated, 10 x pumps, igs, cow) -   $ 11 mill, note: CAP 1, CPP trading. M/T VS SPIRIT (34,671 dwt, blt 2007 Dalian/China, LR ss/dd due 03/2027, epoxy coated, 14 x pumps, igs, cow, IMO III) - $ 14 mill. Sold en bloc for $ 25 mill.
+- **M/T VS LEIA**: M/T VS LEIA (38,461 dwt, blt 2006 GSI/China, LR ss due 04/2028 dd due 04/2026, epoxy coated, 10 x pumps, igs, cow) -   $ 11 mill, note: CAP 1, CPP trading.
+
+- **M/T VS SPIRIT**: M/T VS SPIRIT (34,671 dwt, blt 2007 Dalian/China, LR ss/dd due 03/2027, epoxy coated, 14 x pumps, igs, cow, IMO III) - $ 14 mill. Sold en bloc for $ 25 mill.
 
 - **M/T NOBLER**: M/T NOBLER (19,949 dwt, blt 2002 Usuki/Japan, NK ss/dd due 07/2027, Stainless Steel, 22 tanks/pumps, IMO II/III) - Sold for $ 10 mill, note: J19.
 

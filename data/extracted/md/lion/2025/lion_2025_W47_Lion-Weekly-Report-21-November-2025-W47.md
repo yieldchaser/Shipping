@@ -68,8 +68,8 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V BULK SANTOS** | 208,445 | 2020 | New Times / China | $72.75M | undisclosed buyers | - |
-| **M/V BULK SYDNEY** | 207,992 | 2020 | New Times / China | $72.75M | undisclosed buyers | scrubber fitted, eco, newcastlemax |
+| **M/V BULK SANTOS** | 208,445 | 2020 | New Times / China | $72.75M each | undisclosed buyers | - |
+| **M/V BULK SYDNEY** | 207,992 | 2020 | New Times / China | $72.75M each | undisclosed buyers | scrubber fitted, eco, newcastlemax |
 | **M/V PIAVIA** | 93,296 | 2011 | Yangfan Group Co Ltd / China | $11.75M | Undisclosed | Sold for $ 11,75 mill including t/c attached at undisclosed rate/duration |
 | **M/V BW JAPAN** | 81,609 | 2019 | Tsuneishi Cebu / Philippines | $32.5M | undisclosed buyers | understand committed for region $ 32,5 mill to undisclosed buyers |
 | **M/V GNS HARMONY** | 77,509 | 2001 | Sasebo / Japan | $6.75M | undisclosed buyers | 36.5 mtrs beam, ss due April 2026 COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 stable PAKISTAN 390 410 410 soft INDIA 380 405-410 410-420 stable BANGLADESH 420-430 450 460 positive |
@@ -87,8 +87,8 @@ For an overview of demolition market rates, please check our comprehensive demom
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T OCEANIC FORTUNE** | 320,054 | 2010 | Hyundai Ulsan / S. Korea | $57.0M | Chinese buyers | Sold for $ 57 mill to Chinese buyers |
-| **M/T MERCURY HOPE** | 297,221 | 2011 | Universal / Japan | $60.0M | Undisclosed | - |
-| **M/T MERMAID HOPE** | 297,274 | 2011 | Universal / Japan | $60.0M | Undisclosed | Sold en bloc for $60 mill each |
+| **M/T MERCURY HOPE** | 297,221 | 2011 | Universal / Japan | $60.0M each | Undisclosed | - |
+| **M/T MERMAID HOPE** | 297,274 | 2011 | Universal / Japan | $60.0M each | Undisclosed | Sold en bloc for $60 mill each |
 | **M/T UOG SYROS** | 51,745 | 2010 | Hyundai Mipo Dockyard Co Ltd / S. Korea | $21.5M | Undisclosed | CPP trader |
 | **M/T MTM NORTH SOUND** | 19,874 | 2006 | Fukuoka / Japan | $14.0M | Undisclosed | J19, Stainless Steel |
 
@@ -99,8 +99,8 @@ For an overview of demolition market rates, please check our comprehensive demom
 |:---|---:|:---:|:---|:---|:---|:---|
 | **C/V IRENES RESOLVE** | 51,060 | 2001 | Samsung / Korea | $23.0M | Swiss buyers | Sold for $ 23 mill to Swiss buyers |
 | **C/V HAPPY LUCKY** | 33,406 | 2008 | Naikai Zosen / Japan | $27.5M | Chinese buyers | Sold for $ 27,5 mill to Chinese buyers |
-| **C/V CONTSHIP SEA** | 20,993 | 2007 | Jiangsu Yangzijiang / China | $34.0M | Undisclosed | - |
-| **C/V CONTSHIP RUN** | 20,955 | 2007 | Jiangsu Yangzijiang / China | $34.0M | Undisclosed | Sold en bloc for $ 34 mill |
+| **C/V CONTSHIP SEA** | 20,993 | 2007 | Jiangsu Yangzijiang / China | $34.0M en bloc | Undisclosed | - |
+| **C/V CONTSHIP RUN** | 20,955 | 2007 | Jiangsu Yangzijiang / China | $34.0M en bloc | Undisclosed | Sold en bloc for $ 34 mill |
 
 
 ## Demolition Sales

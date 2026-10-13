@@ -98,7 +98,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V ATLANTIC NAVIGATOR II** | - | - | - | $12.0M | Chinese buyers | should be old sale as offers were invited 12th June 2026. |
+| **M/V ATLANTIC NAVIGATOR II** | 30,345 | 2003 | Dalian / China | $12.0M | Chinese buyers | should be old sale as offers were invited 12th June 2026. |
 | **C/V A GORYU** | 11,817 | 2023 | Kyokuyo / Japan | $26.5M | Undisclosed | Sold for $ 26.50 mill basis charter free dely upon expiration of current TC (with redelivery in Aug/Oct 2026 trading in between China- Vietnam-Thailand). |
 
 
@@ -131,7 +131,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 ### Container / MPP / Tween
 
-- **M/V ATLANTIC NAVIGATOR II**: M/V ATLANTIC NAVIGATOR II 0,345 dwt, blt 2003, Dalian/China, NV ss due 04/2028 dd due 06/2026, 5 ho / 9 ha, Teu 1842, 1,350/14t, 150 Reefers,   Cr 2x100T (Comb 200T) Cr 2x50T (Comb 100T), B&W 7S60MC- C, LDT 11,889) - Sold for $ 12 mill to Chinese buyers basis charter free dely upon expiration of current charter redelivery WCMX - WCCA range (likely), 15-20 Aug 2026 +/- 30 days. Note: should be old sale as offers were invited 12th June 2026.
+- **M/V ATLANTIC NAVIGATOR II**: M/V ATLANTIC NAVIGATOR II (30,345 dwt, blt 2003, Dalian/China, NV ss due 04/2028 dd due 06/2026, 5 ho / 9 ha, Teu 1842, 1,350/14t, 150 Reefers,   Cr 2x100T (Comb 200T) Cr 2x50T (Comb 100T), B&W 7S60MC- C, LDT 11,889) - Sold for $ 12 mill to Chinese buyers basis charter free dely upon expiration of current charter redelivery WCMX - WCCA range (likely), 15-20 Aug 2026 +/- 30 days. Note: should be old sale as offers were invited 12th June 2026.
 
 - **C/V A GORYU**: C/V A GORYU (11,817 dwt, blt 2023 Kyokuyo/Japan, LR  ss due 02/2028 dd due 02/2026, teu 1096 Teu, 514 Feu, 150 reefers, B&W 6S46ME-B8) - Sold for $ 26.50 mill basis charter free dely upon expiration of current TC (with redelivery in Aug/Oct 2026 trading in between China- Vietnam-Thailand).
 

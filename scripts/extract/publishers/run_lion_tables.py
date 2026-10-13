@@ -53,6 +53,7 @@ SUB_LABELS = {'GAS', 'TANKERS', 'CONTAINERS', 'REEFERS', 'RO/PAX', 'ROPAX', 'BUL
               'GENERAL CARGO', 'LPG', 'TWEEN', 'MPP'}
 
 VESSEL_LINE = re.compile(r'^(M/V|M/T|C/V|MTS|MT|M/V\.|LPG/C|LPG|S/C|F/V|M/Vs)\s+\S')
+INLINE_VESSEL = re.compile(r"(?<=\S)\s+(?=(?:M/V|M/T|C/V|LPG/C|S/C|F/V)\s+[A-Z0-9][A-Z0-9 .'&-]{1,40}?\s*\()")
 COUNTRY_UPPER = ['INDIA', 'PAKISTAN', 'BANGLADESH', 'TURKEY', 'CHINA', 'VIETNAM', 'ALANG',
                  'OMAN', 'KOREA', 'SOUTH KOREA', 'LEBANON', 'EGYPT']
 CLASS_WORDS = ['RINA', 'ABS', 'AB', 'NK', 'NKK', 'LR', 'NV', 'BV', 'RI', 'KR', 'DNV', 'CCS',
@@ -224,9 +225,24 @@ def parse_deal_line(section, sub_section, text):
     ipar = rest.find('(')
     if ipar >= 0:
         name = rest[:ipar].strip(' -–"')
-        mc = re.match(r'\(([^()]*)\)', rest[ipar:], re.S)
-        specs = mc.group(1) if mc else ''
-        tail = rest[ipar + len(specs) + 2:].strip()
+        # the specs bracket can nest ("blt 2011 Tsuneishi (Zhoushan)/China"): find its matching close
+        depth, close = 0, -1
+        for k in range(ipar, len(rest)):
+            if rest[k] == '(':
+                depth += 1
+            elif rest[k] == ')':
+                depth -= 1
+                if depth == 0:
+                    close = k
+                    break
+        if close < 0:   # unclosed in the print: the specs run to the price sentence
+            ms = re.search(r'\s[-–]\s|\b(?:sold|committed|resold)\b', rest[ipar:], re.I)
+            close = ipar + ms.start() if ms else len(rest)
+            specs = rest[ipar + 1:close]
+            tail = rest[close:].strip()
+        else:
+            specs = rest[ipar + 1:close]
+            tail = rest[close + 1:].strip()
     else:
         md = re.match(r'^(.{2,60}?)\s+[-–]\s+(.*)$', rest, re.S)
         if md:
@@ -241,6 +257,9 @@ def parse_deal_line(section, sub_section, text):
     price_per_lt = None
     price_raw = None
     en_bloc = bool(re.search(r'\ben\s+bloc\b', tail, re.I))
+    # an en bloc price is printed per ship ("$ 125 mill each") or once for the whole block; the block case is
+    # marked when the price is shared out to the other ships below (resolve en bloc)
+    price_basis = 'each' if re.search(r'mill\.?\s+each\b', tail, re.I) else ''
 
     pm = re.search(r'\$\s*([\d,]+(?:\.\d+)?)\s*mill', tail, re.I)
     if pm:
@@ -297,6 +316,7 @@ def parse_deal_line(section, sub_section, text):
         'price_per_lt': price_per_lt,
         'price_raw': price_raw,
         'en_bloc': en_bloc,
+        'price_basis': price_basis,
         'buyer': buyer,
         'dest_country': dest_country,
         'deal_kind': deal_kind,
@@ -317,6 +337,17 @@ def split_report_deals(text):
         body = body[:m_disc.start()]
 
     lines = [l.strip() for l in body.split('\n') if l.strip()]
+    # a deal can start mid-line ("... to clients of Trafigura M/T STI KINGSWAY (109,999 dwt, ..."):
+    # start a new line at every vessel tag followed by an upper-case name and its specs bracket
+    lines = [p.strip() for l in lines for p in INLINE_VESSEL.split(l) if p.strip()]
+    # justified paragraphs can print the tag alone on a line ("M/T" / "STI" / "KINGSWAY"): join it to the next
+    joined = []
+    for l in lines:
+        if joined and re.fullmatch(r'(?:M/V|M/T|C/V|MTS|MT|LPG/C|LPG|S/C|F/V|M/Vs)', joined[-1]):
+            joined[-1] += ' ' + l
+        else:
+            joined.append(l)
+    lines = joined
     records = []
     section = 'BULKERS'
     sub_section = None
@@ -379,6 +410,9 @@ def split_report_deals(text):
                     prev['price_usd_m'] = cur['price_usd_m']
                     prev['price_per_lt'] = cur['price_per_lt']
                     prev['price_raw'] = cur['price_raw']
+                    if cur['price_basis'] != 'each':
+                        cur['price_basis'] = 'en bloc'   # one printed price shared by the block
+                    prev['price_basis'] = cur['price_basis']
                     prev['buyer'] = prev['buyer'] or cur['buyer']
                     prev['dest_country'] = prev['dest_country'] or cur['dest_country']
                     prev['en_bloc'] = True
@@ -593,6 +627,8 @@ def render_markdown(doc_data):
                     blt_str = f"{d['built_year']}" if d['built_year'] else "-"
                     yard_str = f"{d['yard']} / {d['country']}" if (d['yard'] and d['country']) else (d['yard'] or d['country'] or "-")
                     price_str = f"${d['price_usd_m']}M" if d['price_usd_m'] else "-"
+                    if d['price_usd_m'] and d.get('price_basis'):
+                        price_str += f" {d['price_basis']}"
                     buyer_str = d['buyer'] or "Undisclosed"
                     comm_str = d['comments'].replace('|', '/') if d['comments'] else "-"
                     md.append(f"| **{v_name}** | {dwt_str} | {blt_str} | {yard_str} | {price_str} | {buyer_str} | {comm_str} |")
@@ -810,6 +846,7 @@ def main():
                 'price_usd_m': d['price_usd_m'],
                 'price_raw': d['price_raw'],
                 'en_bloc': d['en_bloc'],
+                'price_basis': d['price_basis'],
                 'buyer': d['buyer'],
                 'comments': d['comments'],
                 'source_file': os.path.relpath(src_path, REPO).replace(os.sep, '/')
@@ -854,6 +891,7 @@ def main():
                 'price_per_lt': d['price_per_lt'],
                 'price_raw': d['price_raw'],
                 'en_bloc': d['en_bloc'],
+                'price_basis': d['price_basis'],
                 'buyer': d['buyer'],
                 'destination': d['dest_country'],
                 'comments': d['comments'],

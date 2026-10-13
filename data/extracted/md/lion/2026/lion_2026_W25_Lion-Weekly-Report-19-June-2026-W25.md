@@ -53,6 +53,7 @@ comprehensive demometer below:
 | **India** | 410 | 420 | 430 | Negative |
 | **Bangladesh** | 490 | 510-515 | 530 | Strong |
 
+
 ## Representative Sales
 
 ### Bulkers
@@ -72,6 +73,7 @@ comprehensive demometer below:
 | **M/V TEAM VIEW** | 35,914 | 2011 | HMD / Korea | $13.0M | Undisclosed | semi-open hatch box shaped, increased price compared to sister STRADION (36.9k blt 2011 HMD/Korea) reported sold in April for $ 13.5 mill. |
 | **M/V SAFI FORTUNE** | 28,467 | 2009 | Imabari / Japan | $9.8M | Undisclosed | firm price compered to sister KEN GIANT (28.3 blt 2009 IS/Japan) reported sold in March for $ 8.6 mill. |
 
+
 ### Tankers
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
@@ -83,10 +85,11 @@ comprehensive demometer below:
 | **M/T SERIANA** | 109,991 | 2015 | Sumitomo / Japan | $72.0M | Indian Buyers (clients of GESCO) | CPP trading Eco LR2. |
 | **M/T SAMOS** | 104,649 | 2010 | Sumitomo / Japan | $44.5M | Undisclosed | Sold for $ 44.5 mill basis 3Q delivery. |
 | **M/T NAVE ARIADNE** | 74,875 | 2007 | STX / Korea | $22.0M | Undisclosed | dirty trading LR1 |
-| **M/T CAPE TAURA** | - | - | - | $21.75M | Undisclosed | 3,634 dwt, blt 2007 New Times/China, AB ss due 06/2028 dd due 06/2026, EPOXY, 3 x pumps, igs, cow, IMO III |
-| **M/T CAPE TEMPEST** | 73,720 | 2008 | New Times / China | $21.75M | Undisclosed | Sold en bloc for $ 21.75 mill each. |
+| **M/T CAPE TAURA** | 73,634 | 2007 | New Times / China | $21.75M each | Undisclosed | - |
+| **M/T CAPE TEMPEST** | 73,720 | 2008 | New Times / China | $21.75M each | Undisclosed | Sold en bloc for $ 21.75 mill each. |
 | **M/T SANDPIPER PACIFIC** | 51,833 | 2013 | Sungdong / Korea | $32.0M | Undisclosed | Eco MR2, trading CPP, prompt delivery. |
 | **LPG ECO INVICTUS** | 4,923 | 2014 | Sasaki / Japan | $14.3M | Cypriot buyers | Sold for $ 14.3 mill to Cypriot buyers. |
+
 
 ### Container / MPP / Tween
 
@@ -95,6 +98,7 @@ comprehensive demometer below:
 | **C/V LOG-IN RESILIENTE** | 38,600 | 2006 | Stocznia / Poland | $23.5M | Swiss buyers | Sold for $ 23.5 mill to Swiss buyers. |
 | **C/V AS ALVA** | 27,209 | 2008 | Zhejiang Shbldg / China | $22.3M | Undisclosed | Sold for $ 22.3 mill. |
 | **C/V STEEN** | 10,408 | 2008 | Peters Schiffbau / Germany | $10.0M | Undisclosed | Ice 1A. |
+
 
 ## Demolition Sales
 
@@ -152,10 +156,12 @@ comprehensive demometer below:
 
 - **M/T NAVE ARIADNE**: M/T NAVE ARIADNE (74,875 dwt, blt 2007 STX/Korea, NK ss due 05/2027 dd due 08/2025, 12 tanks EPOXY, 3 x pumps, igs, cow) - Sold for $ 22 mill basis delivery Atlantic, note: dirty trading LR1
 
-- **M/T CAPE TAURA**: M/T CAPE TAURA 3,634 dwt, blt 2007 New Times/China, AB ss due 06/2028 dd due 06/2026, EPOXY, 3 x pumps, igs, cow, IMO III
+- **M/T CAPE TAURA**: M/T CAPE TAURA (73,634 dwt, blt 2007 New Times/China, AB ss due 06/2028 dd due 06/2026, EPOXY, 3 x pumps, igs, cow, IMO III)
 
 - **M/T CAPE TEMPEST**: M/T CAPE TEMPEST (73,720 dwt, blt 2008 New Times /China, AB ss due 03/2028 dd due 06/2026, EPOXY, 3 x pumps, igs, cow, IMO III) - Sold en bloc for $ 21.75 mill each.
 
 - **M/T SANDPIPER PACIFIC**: M/T SANDPIPER PACIFIC (51,833 dwt, blt 2013 Sungdong/Korea, AB ss due 06/2028 dd due 09/2026, EPOXY, 12 x pumps, igs, IMO II) - Sold for $ 32 mill, note: Eco MR2, trading CPP, prompt delivery.
 
 - **LPG ECO INVICTUS**: LPG ECO INVICTUS (4,923 dwt, blt 2014 Sasaki/Japan, BV ss due 09/2029 dd due 11/2027, B&W 6L35MC, 5000 cbm pressure type) - Sold for $ 14.3 mill to Cypriot buyers.
+
+

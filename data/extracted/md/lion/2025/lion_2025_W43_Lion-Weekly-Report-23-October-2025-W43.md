@@ -95,8 +95,8 @@ week, please check our comprehensive demometer below:
 | **M/T NAVE CONSTELLATION** | 296,988 | 2010 | Dalian / China | $52.0M | Undisclosed | scrubber fitted |
 | **M/V SEAVOYAGER** | 159,233 | 2007 | Hyundai / S. Korea | $37.0M | Undisclosed | sold for $37 mill basis surveys just passed |
 | **M/T CENTURY** | 159,152 | 2005 | Hyundai / S. Korea | $22.0M | Nigerian buyers | sold for $22 mill to Nigerian buyers basis surveys passed |
-| **M/T CRUDE LEVANTE** | 156,828 | 2021 | New Times / China | $77.75M | Greek buyers | - |
-| **M/T CRUDE ZEPHYRUS** | 156,828 | 2021 | New Times / China | $77.75M | Greek buyers | Tier III, Suezmax |
+| **M/T CRUDE LEVANTE** | 156,828 | 2021 | New Times / China | $77.75M each | Greek buyers | - |
+| **M/T CRUDE ZEPHYRUS** | 156,828 | 2021 | New Times / China | $77.75M each | Greek buyers | Tier III, Suezmax |
 | **M/V ROSS SEA** | 114,542 | 2011 | Sasebo / Japan | $36.0M | Undisclosed | scrubber fitted |
 | **M/T PETITE SOEUR** | 50,420 | 2011 | GSI Guangzhou / China | $19.0M | Undisclosed | Imo 2/3 |
 | **M/T JAG POOJA** | 48,539 | 2005 | Iwagi / Japan | $11.0M | Undisclosed | rumoured committed region high $10 - $11 mill |

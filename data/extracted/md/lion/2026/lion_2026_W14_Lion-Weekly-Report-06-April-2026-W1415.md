@@ -60,8 +60,8 @@ our comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V SEACON VANCOUVER** | 85,688 | 2023 | Wenchong Longxue / China | $36.0M | Undisclosed | - |
-| **M/V SEACON OSLO** | 85,507 | 2023 | Wenchong Longxue / China | $36.0M | Undisclosed | wide beam kamsarmaxes, best offers invited 18:00 HK/Shanghai time 20th March 2026. |
+| **M/V SEACON VANCOUVER** | 85,688 | 2023 | Wenchong Longxue / China | $36.0M each | Undisclosed | - |
+| **M/V SEACON OSLO** | 85,507 | 2023 | Wenchong Longxue / China | $36.0M each | Undisclosed | wide beam kamsarmaxes, best offers invited 18:00 HK/Shanghai time 20th March 2026. |
 | **M/V DONGHAE STAR** | 82,861 | 2012 | STX / S. Korea | $17.0M | Undisclosed | Sold for $ 17 mill. |
 | **M/V DIAMANTINA** | 82,139 | 2010 | Tsuneishi Zhoushan / China | $19.0M | Middle Eastern buyers | dd passed April 2025, hull energy devises fitted: rudder bulb & stern fins. |
 | **M/V JOHN M CARRAS** | 82,057 | 2012 | DSME / S. Korea | $18.2M | Greek buyers (clients of Bright Navigation) | Sold for $ 18.2 mill to Greek buyers (clients of Bright Navigation). |
@@ -78,19 +78,19 @@ our comprehensive demometer below:
 | **M/V SAFI FORTUNE** | 28,467 | 2009 | Imabari / Japan | $9.75M | Undisclosed | 3 x genies |
 | **M/V JUNO BRAVE** | 25,081 | 2012 | Murakami / Japan | $7.0M | Asian buyers | best offers invited 17:00 JST 24th March 2026, understand vsl not received a lot of buying interest. |
 | **M/V NANAIMO BAY** | 34,407 | 2016 | Namura / Japan | $19.1M | Undisclosed | Sold for $ 19.1 mill basis charter free delivery upon expiration of current charter 16 June-20 August. |
-| **M/V COSCO KUNLUNSHAN** | 31,917 | 2010 | Mawei / China | $8.2M | Undisclosed | - |
-| **M/V JIN WANG LING** | 31,775 | 2010 | Huangpu / China | $8.2M | Undisclosed | timber carriers, best offers were invited 17:00 Beijing time, 23rd March 2026. |
+| **M/V COSCO KUNLUNSHAN** | 31,917 | 2010 | Mawei / China | $8.2M each | Undisclosed | - |
+| **M/V JIN WANG LING** | 31,775 | 2010 | Huangpu / China | $8.2M each | Undisclosed | timber carriers, best offers were invited 17:00 Beijing time, 23rd March 2026. |
 
 
 ### Tankers
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/T TALUREX** | 115,984 | 2011 | Samsung / S. Korea | $110.0M | Undisclosed | - |
-| **M/T SOLVANTE** | 110,295 | 2009 | Mitsui / Japan | $110.0M | Undisclosed | Sold en bloc for $110 mill. |
+| **M/T TALUREX** | 115,984 | 2011 | Samsung / S. Korea | $110.0M en bloc | Undisclosed | - |
+| **M/T SOLVANTE** | 110,295 | 2009 | Mitsui / Japan | $110.0M en bloc | Undisclosed | Sold en bloc for $110 mill. |
 | **M/T PENELOP** | 115,091 | 2006 | DSME / S. Korea | $25.0M | Undisclosed | Ice class 1A, older deal now reported. |
-| **M/T STI BLACK HAWK** | 49,990 | 2015 | HMD / S. Korea | $35.0M | Undisclosed | - |
-| **M/T STI BROOKLYN** | 49,990 | 2015 | SPP / S. Korea | $35.0M | Undisclosed | Sold en bloc for $ 35 mill each. |
+| **M/T STI BLACK HAWK** | 49,990 | 2015 | HMD / S. Korea | $35.0M each | Undisclosed | - |
+| **M/T STI BROOKLYN** | 49,990 | 2015 | SPP / S. Korea | $35.0M each | Undisclosed | Sold en bloc for $ 35 mill each. |
 | **M/T JAG PRAKASH** | 47,848 | 2007 | STX / S. Korea | $17.5M | Undisclosed | MR2, fitted with Mewis duct, eco cap and high- performance silicon hull paint (Nippon Fastar XI and XII). |
 | **M/T RINELLA M** | 40,441 | 2006 | Constanta / Romania | $13.0M | Undisclosed | shallow draft, large cubic MR product tanker. |
 | **M/T YC AZALEA** | 19,997 | 2004 | Shin Kurushima / Japan | $10.75M | Undisclosed | J19 type, fully CAP-1, bow thruster fitted. |

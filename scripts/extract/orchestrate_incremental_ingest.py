@@ -1168,13 +1168,14 @@ def process_single_pdf(
                         "built_year": d["built_year"], "yard": d["yard"], "country_built": d["country"],
                         "class": d["class"], "ss_due": d["ss_due"], "dd_due": d["dd_due"],
                         "price_usd_m": d["price_usd_m"], "price_raw": d["price_raw"], "en_bloc": d["en_bloc"],
+                        "price_basis": d.get("price_basis", ""),
                         "buyer": d["buyer"], "comments": d["comments"], "source_file": rel_src_l
                     })
                 if sh_rows_l:
                     upsert_rows_to_csv(
                         SERIES_DIR / "lion_sales_series.csv",
                         sh_rows_l,
-                        ["issue_date", "report_week", "section", "tag", "vessel", "dwt", "built_year", "yard", "country_built", "class", "ss_due", "dd_due", "price_usd_m", "price_raw", "en_bloc", "buyer", "comments", "source_file"],
+                        ["issue_date", "report_week", "section", "tag", "vessel", "dwt", "built_year", "yard", "country_built", "class", "ss_due", "dd_due", "price_usd_m", "price_raw", "en_bloc", "price_basis", "buyer", "comments", "source_file"],
                         ["issue_date", "section", "vessel", "dwt"]
                     )
                 dm_rows_l = []
@@ -1202,14 +1203,15 @@ def process_single_pdf(
                         "tag": d["tag"], "vessel": d["vessel"], "dwt": d["dwt"], "ldt": d["ldt"],
                         "built_year": d["built_year"], "yard": d["yard"], "country_built": d["country"],
                         "class": d["class"], "price_usd_m": d["price_usd_m"], "price_per_lt": d["price_per_lt"],
-                        "price_raw": d["price_raw"], "en_bloc": d["en_bloc"], "buyer": d["buyer"],
+                        "price_raw": d["price_raw"], "en_bloc": d["en_bloc"], "price_basis": d.get("price_basis", ""),
+                        "buyer": d["buyer"],
                         "destination": d["dest_country"], "comments": d["comments"], "source_file": rel_src_l
                     })
                 if all_rows_l:
                     upsert_rows_to_csv(
                         SERIES_DIR / "lion_deals_series.csv",
                         all_rows_l,
-                        ["issue_date", "report_week", "section", "sub_section", "deal_kind", "tag", "vessel", "dwt", "ldt", "built_year", "yard", "country_built", "class", "price_usd_m", "price_per_lt", "price_raw", "en_bloc", "buyer", "destination", "comments", "source_file"],
+                        ["issue_date", "report_week", "section", "sub_section", "deal_kind", "tag", "vessel", "dwt", "ldt", "built_year", "yard", "country_built", "class", "price_usd_m", "price_per_lt", "price_raw", "en_bloc", "price_basis", "buyer", "destination", "comments", "source_file"],
                         ["issue_date", "deal_kind", "vessel"]
                     )
             specialized_result = {"stem": stem, "pub": pub, "issue_date": iss_dt, "target_md": str(target_md_l), "specialized": True}

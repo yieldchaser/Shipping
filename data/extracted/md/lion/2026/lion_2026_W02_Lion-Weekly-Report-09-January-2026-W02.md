@@ -73,8 +73,8 @@ please check our comprehensive demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V GOLDEN MAGNUM** | 179,788 | 2009 | DSME / S. Korea | $28.7M | Chinese buyers | scrubber fitted |
-| **M/V PENELOPE OLDENDORFF** | 114,861 | 2010 | New Century / China | $16.0M | Undisclosed | - |
-| **M/V PATRICIA OLDENDORFF** | 114,753 | 2010 | New Century / China | $16.0M | Undisclosed | scrubber fitted, "baby-cape" COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 270 - 275 280 290 - 295 stable PAKISTAN 390 405 - 410 415 positive INDIA 400 - 405 415 425 positive BANGLADESH 410 - 415 430 - 435 450 positive |
+| **M/V PENELOPE OLDENDORFF** | 114,861 | 2010 | New Century / China | $16.0M each | Undisclosed | - |
+| **M/V PATRICIA OLDENDORFF** | 114,753 | 2010 | New Century / China | $16.0M each | Undisclosed | scrubber fitted, "baby-cape" COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 270 - 275 280 290 - 295 stable PAKISTAN 390 405 - 410 415 positive INDIA 400 - 405 415 425 positive BANGLADESH 410 - 415 430 - 435 450 positive |
 | **M/V CENTURY SHANGHAI** | 81,738 | 2018 | Chengxi Jiangyin / China | $25.0M | Undisclosed | Eco m/e |
 | **M/V SEACON SHANGHAI** | 80,811 | 2019 | Huangpu Wenchong Longxue / China | $26.7M | Greek buyers (clients of Dexter Navigation) | Eco m/e |
 | **M/V OCEAN JASMIN** | 63,465 | 2019 | COSCO Zhoushan / China | $28.5M | Asian buyers | Eco m/e |
@@ -90,12 +90,12 @@ please check our comprehensive demometer below:
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T ATLANTAS** | 321,300 | 2010 | DSME / S. Korea | $70.0M | Undisclosed | Sold for $ 70 mill |
 | **M/T OCEANIS** | 320,780 | 2011 | Samsung / S. Korea | $68.0M | Undisclosed | Sold for $ 68 mill |
-| **M/T DHT CHINA** | 317,794 | 2007 | HHI / S. Korea | $101.6M | Undisclosed | - |
-| **M/T DHT EUROPE** | 317,713 | 2007 | HHI / S. Korea | $101.6M | Undisclosed | scrubber fitted |
+| **M/T DHT CHINA** | 317,794 | 2007 | HHI / S. Korea | $101.6M en bloc | Undisclosed | - |
+| **M/T DHT EUROPE** | 317,713 | 2007 | HHI / S. Korea | $101.6M en bloc | Undisclosed | scrubber fitted |
 | **M/T NISSOS PSARA** | 301,861 | 2011 | IHI / Japan | $68.0M | Undisclosed | Sellers bought her as "FPMC C Knight" few months ago (October 2025) for just $55 mill, scrubber fitted |
 | **M/T ACHILLEAS** | 297,863 | 2010 | Universal / Japan | $70.0M | Undisclosed | Sold for $ 70 mill |
-| **M/T NORDIC SPRINTER** | 159,089 | 2005 | HHI / S. Korea | $50.0M | Undisclosed | - |
-| **M/T NORDIC LUNA** | 150,037 | 2004 | Universal / Japan | $50.0M | Undisclosed | Sold en bloc for $50 mill |
+| **M/T NORDIC SPRINTER** | 159,089 | 2005 | HHI / S. Korea | $50.0M en bloc | Undisclosed | - |
+| **M/T NORDIC LUNA** | 150,037 | 2004 | Universal / Japan | $50.0M en bloc | Undisclosed | Sold en bloc for $50 mill |
 | **M/T ECLIPSE I** | 158,933 | 2006 | HHI / S. Korea | $33.0M | Undisclosed | Sold for $ 33 mill |
 | **M/T PELAGIC TOPE** | 76,578 | 2008 | Dalian / China | $13.8M | Undisclosed | Sold for $ 13.8 mill |
 | **M/T DORIC PIONEER** | 51,565 | 2013 | HMD / S. Korea | $29.5M | Undisclosed | vsl was reportedly sold in October 2025 for $35 mill however this might have been an unsuccessful sale. |
@@ -105,9 +105,9 @@ please check our comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **C/V ANTWERP BRIDGE** | 66,583 | 2005 | HHI / S. Korea | $120.0M | Swiss buyers | - |
-| **C/V BEIJING BRIDGE** | 65,002 | 2005 | HHI / S. Korea | $120.0M | Swiss buyers | - |
-| **C/V GRACE BRIDGE** | 65,023 | 2005 | HHI / S. Korea | $120.0M | Swiss buyers | Sold en bloc for $ 120 mill to Swiss buyers |
+| **C/V ANTWERP BRIDGE** | 66,583 | 2005 | HHI / S. Korea | $120.0M en bloc | Swiss buyers | - |
+| **C/V BEIJING BRIDGE** | 65,002 | 2005 | HHI / S. Korea | $120.0M en bloc | Swiss buyers | - |
+| **C/V GRACE BRIDGE** | 65,023 | 2005 | HHI / S. Korea | $120.0M en bloc | Swiss buyers | Sold en bloc for $ 120 mill to Swiss buyers |
 | **C/V LISA** | 49,994 | 2009 | Jiangsu Newyangzi / China | $23.0M | Swiss buyers | scrubber fitted |
 | **C/V BOAT BLESSING** | 22,420 | 1997 | Szczecinska Stocznia / Poland | $8.6M | Undisclosed | Sold for $ 8.6 mill |
 | **C/V TITAN** | 14,587 | 1996 | Volkswerft Stralsund / Germany | $5.5M | Undisclosed | VW 1100 type |

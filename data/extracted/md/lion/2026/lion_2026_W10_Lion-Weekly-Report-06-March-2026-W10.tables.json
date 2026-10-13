@@ -451,6 +451,25 @@
         "price_raw": "$ 67 mill",
         "en_bloc": false,
         "buyer": "Greek buyers",
+        "comments": "Sold for $ 67 mill to Greek buyers."
+      },
+      {
+        "issue_date": "2026-03-06",
+        "report_week": 10,
+        "section": "TANKERS",
+        "tag": "M/T",
+        "vessel": "ZENOVIA LADY",
+        "dwt": 109999,
+        "built_year": 2009,
+        "yard": "Sungdong",
+        "country_built": "S. Korea",
+        "class": "LR",
+        "ss_due": "08/2029",
+        "dd_due": "11/2027",
+        "price_usd_m": 41.0,
+        "price_raw": "$ 41 mill",
+        "en_bloc": false,
+        "buyer": null,
         "comments": "eco LR2, scrubber fitted, CPP trader."
       },
       {
@@ -507,6 +526,25 @@
         "price_usd_m": 45.25,
         "price_raw": "$ 45.25 mill",
         "en_bloc": true,
+        "buyer": null,
+        "comments": "Sold en bloc for $ 45.25 mill each."
+      },
+      {
+        "issue_date": "2026-03-06",
+        "report_week": 10,
+        "section": "TANKERS",
+        "tag": "M/T",
+        "vessel": "FALCON MAJESTIC",
+        "dwt": 47097,
+        "built_year": 2008,
+        "yard": "HMD",
+        "country_built": "S. Korea",
+        "class": "ABS",
+        "ss_due": "07/2028",
+        "dd_due": "09/2026",
+        "price_usd_m": 17.75,
+        "price_raw": "$ 17.75 mill",
+        "en_bloc": false,
         "buyer": null,
         "comments": "MR, CPP trader."
       }

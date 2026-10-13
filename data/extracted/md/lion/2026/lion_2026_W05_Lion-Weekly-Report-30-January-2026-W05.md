@@ -76,23 +76,23 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V ALLY** | 185,897 | 2005 | Kawasaki / Japan | $18.5M | Undisclosed | - |
-| **M/V MIKATA** | 177,173 | 2005 | Namura / Japan | $18.5M | Undisclosed | Sold en bloc for region $ 18.5 mill each. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 positive PAKISTAN 405-410 425-430 425-430 positive INDIA 400 - 405 415-420 435 Cautiously optimistic BANGLADESH 410-415 425-435 450 stable |
+| **M/V ALLY** | 185,897 | 2005 | Kawasaki / Japan | $18.5M each | Undisclosed | - |
+| **M/V MIKATA** | 177,173 | 2005 | Namura / Japan | $18.5M each | Undisclosed | Sold en bloc for region $ 18.5 mill each. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 positive PAKISTAN 405-410 425-430 425-430 positive INDIA 400 - 405 415-420 435 Cautiously optimistic BANGLADESH 410-415 425-435 450 stable |
 | **M/V ROBUSTO** | 173,949 | 2006 | SWS / China | $19.5M | Undisclosed | scrubber fitted. |
 | **M/V JP CARETTA** | 88,083 | 2008 | Imabari / Japan | $13.0M | Undisclosed | Scrubber fitted, 38 mtrs beam. |
 | **M/V RIZE** | 81,950 | 2012 | HMD / S. Korea | $17.7M | Undisclosed | surveys passed September 2025 |
 | **M/V BULK XAYMACA** | 76,561 | 2006 | Imabari / Japan | $9.5M | Undisclosed | offers invited yesterday 28th January 2026 |
 | **M/V PESSADA** | 75,484 | 1999 | Hitachi / Japan | $6.1M | Undisclosed | Sold for $ 6.1 mill basis imminent surveys due |
 | **M/V MITSOS** | 63,526 | 2013 | Chengxi Jiangyin / China | $20.5M | Greek buyers (hearing clients of Blue Fleet or clients of Prima) | Sold for $ 20.5 mill to Greek buyers (hearing clients of Blue Fleet or clients of Prima). |
-| **M/V FLORINDA** | - | - | - | $12.6M | Undisclosed | 8,791 dwt, blt 2008 Tsuneishi (Zhoushan)/China, AB ss due 09/2028 dd due 09/2026, 5ho/5ha, 4 x 30t CR, B&W 6S50MC-C) - Sold for $ 12.6 mill |
+| **M/V FLORINDA** | 58,791 | 2008 | - | $12.6M | Undisclosed | Sold for $ 12.6 mill |
 | **M/V ANASA** | 55,679 | 2008 | Mitsui / Japan | $13.0M | Undisclosed | grabs fitted. |
 | **M/V CLARA** | 56,557 | 2008 | IHI / Japan | $11.8M | Undisclosed | Sold for $ 11.8 mill. |
 | **M/V MDM BROMO** | 53,633 | 2007 | Yangzhou Dayang / China | $8.1M | Chinese buyers | Diamond 53 design, trading Indonesian waters, Indonesian flag |
 | **M/V SPAR CANIS** | 53,565 | 2006 | Chengxi Shipyard / China | $9.0M | Chinese buyers | Diamond 53 design, Norwegian flag/management |
 | **M/V DARYA TAPTI** | 35,947 | 2015 | Shikoku / Japan | $18.4M | Greek buyers (clients of MGJ) | offers invited 13th January 2025, Logs (fixed & collapsible stanchions) fitted, mewis duct/rudder bulb/other energy saving measures fitted |
 | **M/V JETSTREAM** | 34,563 | 2012 | SPP / S. Korea | $13.5M | Undisclosed | Sold for $13.5 mill |
-| **M/V YANGTZE GRACE** | 32,503 | 2012 | Jiangmen Nanyang / China | $10.0M | Chinese buyers | - |
-| **M/V YANGTZE HAPPINESS** | 32,377 | 2012 | Jiangmen Nanyang / China | $10.0M | Chinese buyers | Sold en bloc for $ 10 mill each to Chinese buyers. |
+| **M/V YANGTZE GRACE** | 32,503 | 2012 | Jiangmen Nanyang / China | $10.0M each | Chinese buyers | - |
+| **M/V YANGTZE HAPPINESS** | 32,377 | 2012 | Jiangmen Nanyang / China | $10.0M each | Chinese buyers | Sold en bloc for $ 10 mill each to Chinese buyers. |
 
 
 ### Tankers
@@ -100,13 +100,13 @@ overview of demolition market rates, please check our comprehensive demometer be
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T CSSC LIAO NING** | 307,880 | 2020 | Dalian / China | $112.0M | Greek buyers | sale includes time charter attached to Koch @ US$ 41k p/d until May with the option of another year at US$ 50,000 pd. |
-| **M/T ARCTIC STAR** | 156,790 | 2026 | Daehan / S. Korea | $99.3M | Greek buyers (clients of Okeanis Eco Tankers) | - |
-| **M/T TROMSO STAR** | 156,790 | 2026 | Daehan / S. Korea | $99.3M | Greek buyers (clients of Okeanis Eco Tankers) | Sold en bloc for $ 99.3 mill each to Greek buyers (clients of Okeanis Eco Tankers). |
+| **M/T ARCTIC STAR** | 156,790 | 2026 | Daehan / S. Korea | $99.3M each | Greek buyers (clients of Okeanis Eco Tankers) | - |
+| **M/T TROMSO STAR** | 156,790 | 2026 | Daehan / S. Korea | $99.3M each | Greek buyers (clients of Okeanis Eco Tankers) | Sold en bloc for $ 99.3 mill each to Greek buyers (clients of Okeanis Eco Tankers). |
 | **M/T ARISTARCHOS** | 79,905 | 2017 | Onomichi / Japan | $44.0M | Greek buyers | Sold for $ 44 mill to Greek buyers. |
 | **M/T ATHIRI** | 73,982 | 2010 | SPP / S. Korea | $25.0M | Undisclosed | Sold for $ 25 mill. |
 | **M/T CLEAROCEAN MARAUDER** | 49,999 | 2021 | Samsung / S. Korea | $42.5M | Undisclosed | Sold for $ 42.5 mill basis ss/dd due |
-| **M/T SEAWAYS GRACE** | 49,999 | 2008 | HMD / S. Korea | $16.0M | Undisclosed | - |
-| **M/T SEAWAYS MADELEINE** | 49,999 | 2008 | HMD / S. Korea | $16.0M | Undisclosed | Sold en bloc for region high $ 16 mill each. |
+| **M/T SEAWAYS GRACE** | 49,999 | 2008 | HMD / S. Korea | $16.0M each | Undisclosed | - |
+| **M/T SEAWAYS MADELEINE** | 49,999 | 2008 | HMD / S. Korea | $16.0M each | Undisclosed | Sold en bloc for region high $ 16 mill each. |
 | **M/T UOG OSLO** | 46,087 | 2010 | HMD / S. Korea | $22.5M | Undisclosed | Sold for $22.5 mill basis ss/dd passed. |
 | **M/T NORDIC MASA** | 20,819 | 2009 | Shin Kurushima / Japan | $18.0M | Vietnamese buyers | J19 type, stainless steel. |
 
@@ -115,9 +115,9 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **C/V VIOLETTA** | 22,267 | 2007 | Daewoo-Mangalia / Romania | $19.0M | Swiss buyers (clients of MSC) | - |
-| **C/V VALENTINA** | 22,263 | 2007 | Daewoo-Mangalia / Romania | $19.0M | Swiss buyers (clients of MSC) | - |
-| **C/V VALDIVIA** | 22,229 | 2006 | Daewoo-Mangalia / Romania | $19.0M | Swiss buyers (clients of MSC) | Ice 1A |
+| **C/V VIOLETTA** | 22,267 | 2007 | Daewoo-Mangalia / Romania | $19.0M each | Swiss buyers (clients of MSC) | - |
+| **C/V VALENTINA** | 22,263 | 2007 | Daewoo-Mangalia / Romania | $19.0M each | Swiss buyers (clients of MSC) | - |
+| **C/V VALDIVIA** | 22,229 | 2006 | Daewoo-Mangalia / Romania | $19.0M each | Swiss buyers (clients of MSC) | Ice 1A |
 | **C/V NORDIC PORTO** | 14,230 | 2011 | Nanjing Wujiazui / China | $14.0M | Undisclosed | Ice 1A |
 
 
@@ -150,7 +150,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 - **M/V MITSOS**: M/V MITSOS (63,526 dwt, blt 2013 Chengxi Jiangyin /China, LR ss due 06/2028 dd due 09/2026, 5 ho/5 ha, 4 x 30t CR, B&W 5S60ME-C8) - Sold for $ 20.5 mill to Greek buyers (hearing clients of Blue Fleet or clients of Prima).
 
-- **M/V FLORINDA**: M/V FLORINDA 8,791 dwt, blt 2008 Tsuneishi (Zhoushan)/China, AB ss due 09/2028 dd due 09/2026, 5ho/5ha, 4 x 30t CR, B&W 6S50MC-C) - Sold for $ 12.6 mill
+- **M/V FLORINDA**: M/V FLORINDA (58,791 dwt, blt 2008 Tsuneishi (Zhoushan)/China, AB ss due 09/2028 dd due 09/2026, 5ho/5ha, 4 x 30t CR, B&W 6S50MC-C) - Sold for $ 12.6 mill
 
 - **M/V ANASA**: M/V ANASA (55,679 dwt, blt 2008, Mitsui /Japan, NK ss due 12/2028 dd due 10/2026, 5ho/5ha, 4 x 30t CR + 4 x Grabs, B&W 6S50MC-C) - Sold for region low $13 mill, note: grabs fitted.
 

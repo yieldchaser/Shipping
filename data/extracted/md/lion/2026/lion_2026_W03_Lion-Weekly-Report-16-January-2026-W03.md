@@ -94,14 +94,14 @@ mill basis imminent surveys.
 | **M/V FJELD SVEA** | 81,510 | 2013 | SPP / S. Korea | $20.0M | Undisclosed | Sold for $20 mill |
 | **M/V FJELD FREIA** | 80,333 | 2011 | STX / S. Korea | $16.0M | Undisclosed | Sold for $16 mill |
 | **M/V JAG ADITI** | 80,325 | 2011 | STX / S. Korea | $15.0M | Norwegian buyers (clients of Atlantica Shipping) | Sold to Norwegian buyers (clients of Atlantica Shipping) for $15 mill basis surveys due |
-| **M/V NANTONG XIANGYU XY149** | 63,500 | 2026 | Nantong Xiangyu / China | $71.6M | Undisclosed | - |
-| **M/V NANTONG XIANGYU XY150** | 63,500 | 2026 | Nantong Xiangyu / China | $71.6M | Undisclosed | newbuilding resales, eco m/e |
-| **M/V QIDONG XIANGYU XY199** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M | Chinese buyers (clients of Seacon Shipping Group) | - |
-| **M/V QIDONG XIANGYU XY200** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M | Chinese buyers (clients of Seacon Shipping Group) | - |
-| **M/V QIDONG XIANGYU XYQD-033** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M | Chinese buyers (clients of Seacon Shipping Group) | - |
-| **M/V QIDONG XIANGYU XYQD-034** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M | Chinese buyers (clients of Seacon Shipping Group) | - |
-| **M/V QIDONG XIANGYU XYQD-026** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M | Chinese buyers (clients of Seacon Shipping Group) | - |
-| **M/V QIDONG XIANGYU XYQD-028** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M | Chinese buyers (clients of Seacon Shipping Group) | Sold en bloc for region $196.6 mill to Chinese buyers (clients of Seacon Shipping Group) |
+| **M/V NANTONG XIANGYU XY149** | 63,500 | 2026 | Nantong Xiangyu / China | $71.6M en bloc | Undisclosed | - |
+| **M/V NANTONG XIANGYU XY150** | 63,500 | 2026 | Nantong Xiangyu / China | $71.6M en bloc | Undisclosed | newbuilding resales, eco m/e |
+| **M/V QIDONG XIANGYU XY199** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M en bloc | Chinese buyers (clients of Seacon Shipping Group) | - |
+| **M/V QIDONG XIANGYU XY200** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M en bloc | Chinese buyers (clients of Seacon Shipping Group) | - |
+| **M/V QIDONG XIANGYU XYQD-033** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M en bloc | Chinese buyers (clients of Seacon Shipping Group) | - |
+| **M/V QIDONG XIANGYU XYQD-034** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M en bloc | Chinese buyers (clients of Seacon Shipping Group) | - |
+| **M/V QIDONG XIANGYU XYQD-026** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M en bloc | Chinese buyers (clients of Seacon Shipping Group) | - |
+| **M/V QIDONG XIANGYU XYQD-028** | 63,800 | 2027 | Qidong Xiangyu / China | $196.6M en bloc | Chinese buyers (clients of Seacon Shipping Group) | Sold en bloc for region $196.6 mill to Chinese buyers (clients of Seacon Shipping Group) |
 | **M/V XIANG HANG 59** | 63,630 | 2025 | Sainty / China | $33.98M | Turkish buyers | Eco m/e, Scrubber fitted |
 | **M/V EXPLORER AFRICA** | 61,360 | 2012 | Oshima / Japan | $19.2M | Greek buyers | Sold for $ 19.2 mill to Greek buyers |
 | **M/V PISTI** | 56,898 | 2011 | COSCO Zhoushan / China | $12.8M | Undisclosed | Sold for $ 12.8 mill |
@@ -115,27 +115,28 @@ mill basis imminent surveys.
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/T DELTA GLORY** | 319,819 | 2012 | HHI / S. Korea | $160.0M | South Korean buyers (clients of Sinokor) | - |
-| **M/T DELTA ANGELICA** | 319,911 | 2012 | HHI / S. Korea | $160.0M | South Korean buyers (clients of Sinokor) | Sold en bloc for $ 160 mill to South Korean buyers (clients of Sinokor) |
-| **M/T FRONT DEE** | 299,999 | 2015 | Daewoo / S. Korea | $831.5M | South Korean buyers (clients of Sinocor) | - |
-| **M/T FRONT TAY** | 299,999 | 2016 | Daewoo / S. Korea South | $831.5M | South Korean buyers (clients of Sinocor) | - |
-| **M/T FRONT SPEY** | 299,533 | 2016 | HHI / S. Korea | $831.5M | South Korean buyers (clients of Sinocor) | - |
-| **M/T FRONT CLOUD** | 299,446 | 2016 | HHI / S. Korea | $831.5M | South Korean buyers (clients of Sinocor) | - |
-| **M/T FRONT OSEN** | - | - | - | $831.5M | South Korean buyers (clients of Sinocor) | 98,991 dwt, blt 2016 Hyundai/S. Korea, NV, ss/dd due 08/2026 |
-| **M/T FRONT OTRA** | 299,047 | 2016 | Hyundai / S.Korea | $831.5M | South Korean buyers (clients of Sinocor) | - |
-| **M/T FRONT CLYDE** | 299,320 | 2016 | HHI / S. Korea | $831.5M | South Korean buyers (clients of Sinocor) | - |
-| **M/T FRONT FORTH** | 299,392 | 2016 | HHI / S. Korea | $831.5M | South Korean buyers (clients of Sinocor) | Sold en bloc for $831.5 mill to South Korean buyers (clients of Sinocor) |
-| **M/T DAISHAN** | 306,506 | 2007 | Daewoo / S. Korea | $530.0M | South Korean buyers (clients of Sinokor) | - |
-| **M/T HOJO** | 302,965 | 2013 | Japan Marine / Japan | $530.0M | South Korean buyers (clients of Sinokor) | - |
-| **M/T HIRADO** | 302,550 | 2011 | Universal / Japan | $530.0M | South Korean buyers (clients of Sinokor) | - |
-| **M/T DIA** | 299,999 | 2015 | Daewoo / S. Korea | $530.0M | South Korean buyers (clients of Sinokor) | - |
-| **M/T ANTIGONE** | 299,421 | 2015 | HHI / S. Korea | $530.0M | South Korean buyers (clients of Sinokor) | - |
-| **M/T AEGEAN** | 299,011 | 2016 | Hyundai / S. Korea | $530.0M | South Korean buyers (clients of Sinokor) | Sold en bloc for region 530 mill to South Korean buyers (clients of Sinokor) |
+| **M/T DELTA GLORY** | 319,819 | 2012 | HHI / S. Korea | $160.0M en bloc | South Korean buyers (clients of Sinokor) | - |
+| **M/T DELTA ANGELICA** | 319,911 | 2012 | HHI / S. Korea | $160.0M en bloc | South Korean buyers (clients of Sinokor) | Sold en bloc for $ 160 mill to South Korean buyers (clients of Sinokor) |
+| **M/T FRONT DEE** | 299,999 | 2015 | Daewoo / S. Korea | $831.5M en bloc | South Korean buyers (clients of Sinocor) | - |
+| **M/T FRONT TAY** | 299,999 | 2016 | Daewoo / S. Korea South | $831.5M en bloc | South Korean buyers (clients of Sinocor) | - |
+| **M/T FRONT SPEY** | 299,533 | 2016 | HHI / S. Korea | $831.5M en bloc | South Korean buyers (clients of Sinocor) | - |
+| **M/T FRONT CLOUD** | 299,446 | 2016 | HHI / S. Korea | $831.5M en bloc | South Korean buyers (clients of Sinocor) | - |
+| **M/T FRONT OSEN** | 298,991 | 2016 | Hyundai / S. Korea | $831.5M en bloc | South Korean buyers (clients of Sinocor) | - |
+| **M/T FRONT OTRA** | 299,047 | 2016 | Hyundai / S.Korea | $831.5M en bloc | South Korean buyers (clients of Sinocor) | - |
+| **M/T FRONT CLYDE** | 299,320 | 2016 | HHI / S. Korea | $831.5M en bloc | South Korean buyers (clients of Sinocor) | - |
+| **M/T FRONT FORTH** | 299,392 | 2016 | HHI / S. Korea | $831.5M en bloc | South Korean buyers (clients of Sinocor) | Sold en bloc for $831.5 mill to South Korean buyers (clients of Sinocor) |
+| **M/T DAISHAN** | 306,506 | 2007 | Daewoo / S. Korea | $530.0M en bloc | South Korean buyers (clients of Sinokor) | - |
+| **M/T HOJO** | 302,965 | 2013 | Japan Marine / Japan | $530.0M en bloc | South Korean buyers (clients of Sinokor) | - |
+| **M/T HIRADO** | 302,550 | 2011 | Universal / Japan | $530.0M en bloc | South Korean buyers (clients of Sinokor) | - |
+| **M/T DIA** | 299,999 | 2015 | Daewoo / S. Korea | $530.0M en bloc | South Korean buyers (clients of Sinokor) | - |
+| **M/T ANTIGONE** | 299,421 | 2015 | HHI / S. Korea | $530.0M en bloc | South Korean buyers (clients of Sinokor) | - |
+| **M/T AEGEAN** | 299,011 | 2016 | Hyundai / S. Korea | $530.0M en bloc | South Korean buyers (clients of Sinokor) | Sold en bloc for region 530 mill to South Korean buyers (clients of Sinokor) |
 | **M/T ADVANTAGE VALUE** | 297,557 | 2009 | Jiangnan / China | $56.0M | South Korean buyers (clients of Sinokor) | Sold for $56 mill to South Korean buyers (clients of Sinokor) |
-| **M/T SERENDIPITY** | 299,936 | 2021 | Hyundai / S. Korea | $125.0M | clients of Trafigura M/T STI KINGSWAY (109 | - |
-| **M/T HUNTER** | 299,940 | 2021 | Hyundai / S. Korea | $125.0M | clients of Trafigura M/T STI KINGSWAY (109 | Sold en bloc for $ 125 mill each to clients of Trafigura M/T STI KINGSWAY (109,999 dwt, blt 2015 Sungdong/S. Korea, NV ss due 08/2030 dd due 06/2028, EPOXY, 3 x pumps, igs, cow) - Sold for $ 57.5 mill |
-| **M/T MARITIME TRANQUILITY** | 49,999 | 2020 | GSI / China | $39.0M | Greek buyers | - |
-| **M/T MARITIME COMITY** | 49,997 | 2020 | GSI / China | $39.0M | Greek buyers | scrubber fitted ss/dd passed |
+| **M/T SERENDIPITY** | 299,936 | 2021 | Hyundai / S. Korea | $125.0M each | clients of Trafigura | - |
+| **M/T HUNTER** | 299,940 | 2021 | Hyundai / S. Korea | $125.0M each | clients of Trafigura | Sold en bloc for $ 125 mill each to clients of Trafigura |
+| **M/T STI KINGSWAY** | 109,999 | 2015 | Sungdong / S. Korea | $57.5M | Undisclosed | Sold for $ 57.5 mill |
+| **M/T MARITIME TRANQUILITY** | 49,999 | 2020 | GSI / China | $39.0M each | Greek buyers | - |
+| **M/T MARITIME COMITY** | 49,997 | 2020 | GSI / China | $39.0M each | Greek buyers | scrubber fitted ss/dd passed |
 | **M/T PIGEON POINT** | 48,356 | 2005 | Minaminippon / Japan | $13.8M | Chinese buyers | Sold for $ 13.8 mill to Chinese buyers |
 | **M/T ELLIE M II** | 46,784 | 2007 | Hyundai Mipo / S. Korea | $15.0M | Undisclosed | Sold for region $ 14.5 - $ 15 mill |
 | **M/T MARIA M** | 40,057 | 2006 | SLS / S. Korea | $10.0M | Undisclosed | Sold for low $ 10 mill |
@@ -155,7 +156,7 @@ mill basis imminent surveys.
 |:---|:---|---:|---:|:---:|:---|:---|:---|:---|
 | **M/V SIRRAH** | Vessel | 47,263 | 8,536 | 1999 | Oshima / Japan | $405/lt | India | Demo for $405 per lt to INDIA |
 | **M/V DIMPLE** | Vessel | 13,770 | 4,866 | 1992 | Szczecinska Stocznia / Poland | $388/lt | India | Demo for $388 per lt to INDIA |
-| **M/V SALTLAKE** | Vessel | - | - | - | - | $380/lt | India | DT 4,269 dwt, blt 1986 Kochi (Eiho) /Japan, KR) - Demo for $380 per lt to INDIA |
+| **M/V SALTLAKE** | Vessel | - | 4,269 | 1986 | - | $380/lt | India | Demo for $380 per lt to INDIA |
 
 
 ## Deal Narratives & Commercial Details
@@ -228,7 +229,7 @@ mill basis imminent surveys.
 
 - **M/T FRONT CLOUD**: M/T FRONT CLOUD (299,446 dwt, blt 2016 HHI/S. Korea, LR ss/dd due 03/2026)
 
-- **M/T FRONT OSEN**: M/T FRONT OSEN 98,991 dwt, blt 2016 Hyundai/S. Korea, NV, ss/dd due 08/2026
+- **M/T FRONT OSEN**: M/T FRONT OSEN (298,991 dwt, blt 2016 Hyundai/S. Korea, NV, ss/dd due 08/2026)
 
 - **M/T FRONT OTRA**: M/T FRONT OTRA (299,047 dwt, blt 2016 Hyundai/S.Korea, NV ss/dd due 06/2026)
 
@@ -252,7 +253,9 @@ mill basis imminent surveys.
 
 - **M/T SERENDIPITY**: M/T SERENDIPITY (299,936 dwt, blt 2021 Hyundai/S. Korea, LR ss/dd due 06/2026)
 
-- **M/T HUNTER**: M/T HUNTER (299,940 dwt, blt 2021 Hyundai/S. Korea, LR ss/dd due 03/2026) Sold en bloc for $ 125 mill each to clients of Trafigura M/T STI KINGSWAY (109,999 dwt, blt 2015 Sungdong/S. Korea, NV ss due 08/2030 dd due 06/2028, EPOXY, 3 x pumps, igs, cow) - Sold for $ 57.5 mill
+- **M/T HUNTER**: M/T HUNTER (299,940 dwt, blt 2021 Hyundai/S. Korea, LR ss/dd due 03/2026) Sold en bloc for $ 125 mill each to clients of Trafigura
+
+- **M/T STI KINGSWAY**: M/T STI KINGSWAY (109,999 dwt, blt 2015 Sungdong/S. Korea, NV ss due 08/2030 dd due 06/2028, EPOXY, 3 x pumps, igs, cow) - Sold for $ 57.5 mill
 
 - **M/T MARITIME TRANQUILITY**: M/T MARITIME TRANQUILITY (49,999 dwt, blt 2020 GSI/China, LR ss due 10/2030 dd due 10/2028, Zinc Silicate, 21 x pumps, igs, IMO II)
 
@@ -272,6 +275,6 @@ mill basis imminent surveys.
 
 - **M/V DIMPLE**: M/V DIMPLE (LDT 4866, 13,770 dwt, blt 1992 Szczecinska Stocznia/Poland, ML 5 ho/5 ha, 4 x 16t CR, 1 x 12.5t CR, 1B&W 6L50MCE 5) - Demo for $388 per lt to INDIA
 
-- **M/V SALTLAKE**: M/V SALTLAKE DT 4,269 dwt, blt 1986 Kochi (Eiho) /Japan, KR) - Demo for $380 per lt to INDIA
+- **M/V SALTLAKE**: M/V SALTLAKE (LDT 4,269 dwt, blt 1986 Kochi (Eiho) /Japan, KR) - Demo for $380 per lt to INDIA
 
 

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 17:16:08Z",
+  "updated_at": "2026-10-12 18:30:09Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -3046,7 +3046,7 @@
     {
       "file": "lion_deals_series.csv",
       "target_metric": "Secondhand sales transactions & demo deals",
-      "rows": 1303,
+      "rows": 1312,
       "columns": [
         "issue_date",
         "report_week",
@@ -3065,6 +3065,7 @@
         "price_per_lt",
         "price_raw",
         "en_bloc",
+        "price_basis",
         "buyer",
         "destination",
         "comments",
@@ -3135,7 +3136,7 @@
     {
       "file": "lion_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 1194,
+      "rows": 1203,
       "columns": [
         "issue_date",
         "report_week",
@@ -3152,6 +3153,7 @@
         "price_usd_m",
         "price_raw",
         "en_bloc",
+        "price_basis",
         "buyer",
         "comments",
         "source_file"
@@ -3956,13 +3958,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 706080,
+  "total_master_stacked_rows": 706098,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 706080,
+  "total_stacked_rows": 706098,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 706385,
+  "total_rows_extracted": 706403,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 599,
     "advanced_shipping_demolition_series.csv": 2000,
@@ -4083,11 +4085,11 @@
     "intermodal_tc_rates_series.csv": 5233,
     "ism_coaster_freight_series.csv": 12462,
     "ism_handy_freight_series.csv": 17968,
-    "lion_deals_series.csv": 1303,
+    "lion_deals_series.csv": 1312,
     "lion_demo_sales_series.csv": 109,
     "lion_demolition_series.csv": 516,
     "lion_demometer_series.csv": 576,
-    "lion_sales_series.csv": 1194,
+    "lion_sales_series.csv": 1203,
     "poten_fixtures_series.csv": 100,
     "poten_fleet_delivery_schedule_series.csv": 36,
     "poten_fleet_statistics_series.csv": 8,

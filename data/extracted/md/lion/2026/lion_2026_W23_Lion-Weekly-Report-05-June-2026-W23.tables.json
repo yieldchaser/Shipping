@@ -574,15 +574,15 @@
         "sub_section": "REEFERS",
         "tag": "M/V",
         "vessel": "SANWA FONTAINE",
-        "dwt": null,
-        "ldt": null,
-        "built_year": null,
+        "dwt": 3917,
+        "ldt": 1071,
+        "built_year": 1982,
         "yard": null,
         "country_built": null,
         "price_usd_per_lt": 450.0,
         "price_raw": "$ 450 per lt",
         "destination": "Bangladesh",
-        "comments": "DT 1071, 3,917 dwt, blt 1982 Kochi (Eiho) /Japan, KR) - Demo for $ 450 per lt to BANGLADESH"
+        "comments": "Demo for $ 450 per lt to BANGLADESH"
       }
     ]
   }

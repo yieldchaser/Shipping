@@ -68,7 +68,7 @@ market rates this week, please check our comprehensive demometer below:
 | **M/V CMB MEDOC** | 95,746 | 2012 | Imabari / Japan | $18.5M | undisclosed buyers | sold for $18.5 mill to undisclosed buyers , 38 mtrs beam post panamax |
 | **M/V JIUXU 81** | 81,762 | 2013 | Wuhu Xinlian / China | $18.5M | undisclosed buyers | sold for $18.5 mill to undisclosed buyers |
 | **M/V DRAFTDODGER** | 66,545 | 2016 | Mitsui / Japan | $26.2M | clients of Meghna Group of Bangladesh | sold for $26.2 mill to clients of Meghna Group of Bangladesh |
-| **M/V DARYA NOOR** | - | - | - | $15.0M | undisclosed buyers | 8,110 dwt, blt 2011 Tsuneishi (Zhoushan)/China, DNV ss/dd due 01/2026, 5ho/5ha, Cr 4X30t, B&W 6S50MC-C) - sold in excess for $15 mill to undisclosed buyers |
+| **M/V DARYA NOOR** | 58,110 | 2011 | - | $15.0M | undisclosed buyers | sold in excess for $15 mill to undisclosed buyers |
 | **M/V CSE CLIPPER EXPRESS** | 28,423 | 2005 | Imabari / Japan | $5.5M | Undisclosed | sold for $5.5 mill on "as-is" terms |
 
 
@@ -76,16 +76,16 @@ market rates this week, please check our comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/T HENGLI DALIAN HLZG2024-T300K-8** | 306,000 | - | - | $118.0M | European buyers | - |
-| **M/T HENGLI DALIAN HLZG2024-T300K-9** | 306,000 | - | - | $118.0M | European buyers | - |
-| **M/T HENGLI DALIAN HLZG2024-T300K-10** | 306,000 | - | - | $118.0M | European buyers | - |
-| **M/T HENGLI DALIAN HLZG2024-T300K-11** | 306,000 | - | - | $118.0M | European buyers | sold en bloc for $118 mill each to European buyers, Scrubber fitted, Tier 3 |
+| **M/T HENGLI DALIAN HLZG2024-T300K-8** | 306,000 | - | - | $118.0M each | European buyers | - |
+| **M/T HENGLI DALIAN HLZG2024-T300K-9** | 306,000 | - | - | $118.0M each | European buyers | - |
+| **M/T HENGLI DALIAN HLZG2024-T300K-10** | 306,000 | - | - | $118.0M each | European buyers | - |
+| **M/T HENGLI DALIAN HLZG2024-T300K-11** | 306,000 | - | - | $118.0M each | European buyers | sold en bloc for $118 mill each to European buyers, Scrubber fitted, Tier 3 |
 | **M/T APSOGOS** | 115,444 | 2004 | Samsung / S. Korea | $22.0M | undisclosed buyers | sold for $22 mill to undisclosed buyers |
 | **M/T YINGHAO CONFIDENCE** | 107,600 | 2010 | Tsuneishi / Japan | $36.2M | Greek buyers ss/dd passed June 2025 | sold for $36.2 mill to Greek buyers ss/dd passed June 2025 |
 | **M/T SEASONG** | 105,459 | 2005 | Hyundai / S Korea | $21.95M | undisclosed buyers | sold for $21.95 mill to undisclosed buyers |
 | **M/T GH MADISON** | 74,574 | 2010 | Hyundai / S. Korea | $11.5M | clients of Ultratank | sold for $11.5 mill to clients of Ultratank |
 | **M/T MATTERHORN** | 47,981 | 2010 | iwagi / Japan | $20.0M | Undisclosed | sold for $20 mill including balance of charter until Q1 of 2026 |
-| **M/T MARITIME JINGAN** | - | - | - | $9.0M | undisclosed buyers | MO II, 44,411 dwt, blt 2003 Dalian/China, LR ss due 03/2028 dd due 04/2026, 20 x siloxirane (marineline) coated tanks, 18xpumps, B&W 6S60MC, igs, Imo-2) - sold for $9 mill to undisclosed buyers |
+| **M/T MARITIME JINGAN** | 44,411 | 2003 | Dalian / China | $9.0M | undisclosed buyers | sold for $9 mill to undisclosed buyers |
 | **M/T SILVER RAY** | 19,801 | 2013 | Kitanihon / Japan | $24.5M | undisclosed buyers | sold for $24.5 mill to undisclosed buyers |
 
 
@@ -93,9 +93,9 @@ market rates this week, please check our comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **C/V OOCL BRAZIL** | 90,414 | 2010 | Mitsubishi / Japan | $75.7M | clients of ONE (Ocean Network Express) | COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 270-280 270-280 stable PAKISTAN 425-430 435-440 435-440 soft INDIA 410-415 420 440 positive BANGLADESH 420-425 435 440-445 slow |
-| **C/V OOCL DURBAN** | 90,079 | 2011 | Mitsubishi / Japan | $75.7M | clients of ONE (Ocean Network Express) | sold en bloc for $75.7 mill & $79.3 mill respectively to clients of ONE (Ocean Network Express) |
-| **C/V CNC JUPITER** | - | - | - | $36.0M | undisclosed buyers | 2,081 dwt, blt 2020 Tsuneishi (Cebu)/Philippines, NK ss/dd due 08/2025, Teu 1952, Reefer plugs 300, B&W 6S60MC-C) - sold for $36 mill to undisclosed buyers |
+| **C/V OOCL BRAZIL** | 90,414 | 2010 | Mitsubishi / Japan | $75.7M en bloc | clients of ONE (Ocean Network Express) | COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 270-280 270-280 stable PAKISTAN 425-430 435-440 435-440 soft INDIA 410-415 420 440 positive BANGLADESH 420-425 435 440-445 slow |
+| **C/V OOCL DURBAN** | 90,079 | 2011 | Mitsubishi / Japan | $75.7M en bloc | clients of ONE (Ocean Network Express) | sold en bloc for $75.7 mill & $79.3 mill respectively to clients of ONE (Ocean Network Express) |
+| **C/V CNC JUPITER** | 22,081 | 2020 | - | $36.0M | undisclosed buyers | sold for $36 mill to undisclosed buyers |
 | **C/V ASIATIC SUN** | 12,774 | 2008 | Dae Sun / S.Korea | - | undisclosed buyers | , gearless - sold to undisclosed buyers |
 
 
@@ -122,7 +122,7 @@ market rates this week, please check our comprehensive demometer below:
 
 - **M/V DRAFTDODGER**: M/V DRAFTDODGER (66,545 dwt, blt 2016 Mitsui/Japan, NKK ss/dd due 03/2026, 5ho/5ha, Cr 4X30t, B&W 7S50ME-B9) - sold for $26.2 mill to clients of Meghna Group of Bangladesh
 
-- **M/V DARYA NOOR**: M/V DARYA NOOR 8,110 dwt, blt 2011 Tsuneishi (Zhoushan)/China, DNV ss/dd due 01/2026, 5ho/5ha, Cr 4X30t, B&W 6S50MC-C) - sold in excess for $15 mill to undisclosed buyers
+- **M/V DARYA NOOR**: M/V DARYA NOOR (58,110 dwt, blt 2011 Tsuneishi (Zhoushan)/China, DNV ss/dd due 01/2026, 5ho/5ha, Cr 4X30t, B&W 6S50MC-C) - sold in excess for $15 mill to undisclosed buyers
 
 - **M/V CSE CLIPPER EXPRESS**: M/V CSE CLIPPER EXPRESS (28,423 dwt, blt 2005 Imabari/Japan, NK ss/dd due 11/2025, 5ho/5ha, Cr 4x30t, B&W 6S42MC, 3xgens) - sold for $5.5 mill on "as-is" terms
 
@@ -132,7 +132,7 @@ market rates this week, please check our comprehensive demometer below:
 
 - **C/V OOCL DURBAN**: C/V OOCL DURBAN (90,079 dwt, blt 2011 Mitsubishi/Japan, NK ss/dd due 08/2026, Teu Teu 8476, Reefer plugs 622, B&W 11K98MC-C) - sold en bloc for $75.7 mill & $79.3 mill respectively to clients of ONE (Ocean Network Express)
 
-- **C/V CNC JUPITER**: C/V CNC JUPITER 2,081 dwt, blt 2020 Tsuneishi (Cebu)/Philippines, NK ss/dd due 08/2025, Teu 1952, Reefer plugs 300, B&W 6S60MC-C) - sold for $36 mill to undisclosed buyers
+- **C/V CNC JUPITER**: C/V CNC JUPITER (22,081 dwt, blt 2020 Tsuneishi (Cebu)/Philippines, NK ss/dd due 08/2025, Teu 1952, Reefer plugs 300, B&W 6S60MC-C) - sold for $36 mill to undisclosed buyers
 
 - **C/V ASIATIC SUN**: C/V ASIATIC SUN (12,774 dwt, blt 2008 Dae Sun/S.Korea, ABS ss due 06/2028, Teus 1049, reefers 180, B&W 6S46MC-C) , gearless - sold to undisclosed buyers
 
@@ -156,7 +156,7 @@ market rates this week, please check our comprehensive demometer below:
 
 - **M/T MATTERHORN**: M/T MATTERHORN (47,981 dwt, blt 2010 iwagi/Japan, NKK ss/dd due 12/2025, 18 epoxy coated tanks, 4xpumps, B&W 6S50MC-C, igs) - sold for $20 mill including balance of charter until Q1 of 2026
 
-- **M/T MARITIME JINGAN**: M/T MARITIME JINGAN MO II, 44,411 dwt, blt 2003 Dalian/China, LR ss due 03/2028 dd due 04/2026, 20 x siloxirane (marineline) coated tanks, 18xpumps, B&W 6S60MC, igs, Imo-2) - sold for $9 mill to undisclosed buyers
+- **M/T MARITIME JINGAN**: M/T MARITIME JINGAN (IMO II, 44,411 dwt, blt 2003 Dalian/China, LR ss due 03/2028 dd due 04/2026, 20 x siloxirane (marineline) coated tanks, 18xpumps, B&W 6S60MC, igs, Imo-2) - sold for $9 mill to undisclosed buyers
 
 - **M/T SILVER RAY**: M/T SILVER RAY (19,801 dwt, blt 2013 Kitanihon/Japan, NK ss due 02/2028 dd due 10/2026, 16 x stainless steel tanks, 14 x pumps, MITSUBISHI 6UEC43LSII, igs, cow, Imo2-3) - sold for $24.5 mill to undisclosed buyers
 

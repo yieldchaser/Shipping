@@ -86,10 +86,10 @@ demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T LOS ANGELES SPIRIT** | 159,233 | 2007 | Hyundai Samho / S. Korea | $35.0M | Undisclosed | Sold for $ 35 mill |
-| **M/T STI GOAL** | 109,999 | 2016 | Guangzhou / China | $52.3M | Undisclosed | - |
-| **M/T STI GALLANTRY** | 109,999 | 2016 | Guangzhou / China | $52.3M | Undisclosed | Sold en bloc for region $ 52.3 mill each |
-| **M/T SEAWAYS STAR** | 49,999 | 2008 | HMD / S. Korea | $16.0M | Undisclosed | - |
-| **M/T SEAWAYS OLIVE** | 49,999 | 2008 | HMD / S. Korea | $16.0M | Undisclosed | Sold en bloc for region $ 16 mill each |
+| **M/T STI GOAL** | 109,999 | 2016 | Guangzhou / China | $52.3M each | Undisclosed | - |
+| **M/T STI GALLANTRY** | 109,999 | 2016 | Guangzhou / China | $52.3M each | Undisclosed | Sold en bloc for region $ 52.3 mill each |
+| **M/T SEAWAYS STAR** | 49,999 | 2008 | HMD / S. Korea | $16.0M each | Undisclosed | - |
+| **M/T SEAWAYS OLIVE** | 49,999 | 2008 | HMD / S. Korea | $16.0M each | Undisclosed | Sold en bloc for region $ 16 mill each |
 | **M/T GRAND ACE9** | 46,195 | 2008 | STX / S. Korea | $15.5M | Undisclosed | Sold for $ 15.5 mill |
 | **M/T RUI FU XING** | 47,162 | 2010 | HMD / S. Korea | $20.9M | Undisclosed | Sold for $ 20.9 mill |
 | **M/T GINGA KITE** | 19,997 | 2001 | Shin Kurushima / Japan | $6.8M | Chinese buyers | Sold for $ 6.8 mill to Chinese buyers |

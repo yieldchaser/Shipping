@@ -67,8 +67,8 @@ below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V ROZA** | 93,386 | 2010 | YZJ / China | $23.0M | Chinese buyers | - |
-| **M/V TRINITY I** | 93,280 | 2010 | YZJ / China | $23.0M | Chinese buyers | surveys passed. |
+| **M/V ROZA** | 93,386 | 2010 | YZJ / China | $23.0M en bloc | Chinese buyers | - |
+| **M/V TRINITY I** | 93,280 | 2010 | YZJ / China | $23.0M en bloc | Chinese buyers | surveys passed. |
 | **M/V AQUAVITA SEA** | 81,479 | 2020 | Hantong / China | $30.5M | Greek buyers | Sold for $ 30.5 mill to Greek buyers. |
 | **M/V THREE SASKIAS** | 81,094 | 2014 | JMU / Japan | $26.8M | Greek buyers | Sold for $ 26.8 mill to Greek buyers. |
 | **M/V EPIPHANIA** | 80,276 | 2012 | STX / South Korea | $17.6M | European buyers | Sold for $ 17.6 mill to European buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 stable PAKISTAN 415-420 430-435 440-445 stable INDIA 420-425 430-435 450 stable BANGLADESH 420-425 440-450 460 stable |
@@ -81,16 +81,16 @@ below:
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T SINGAPORE SPIRIT** | 318,473 | 2013 | SWS / China | $84.5M | South Korean buyers (clients of Sinokor) | Sold for $ 84.5 mill to South Korean buyers (clients of Sinokor). |
 | **M/T EAGLE VANCOUVER** | 299,989 | 2013 | DSME / South Korea | $86.5M | South Korean buyers | Sold for $ 86.5 mill to South Korean buyers. |
-| **M/T NAVE GALACTIC** | 297,168 | 2009 | Jiangnan / China | $136.5M | undisclosed interests | - |
-| **M/T NAVE BUENA SUERTE** | 297,491 | 2011 | Dalian / China | $136.5M | undisclosed interests | scrubber fitted. |
-| **M/T KMARIN RESPECT** | 109,584 | 2016 | STX / South Korea | $141.5M | undisclosed interests | - |
-| **M/T KMARIN RENOWN** | 109,693 | 2016 | STX / South Korea | $141.5M | undisclosed interests | - |
-| **M/T KMARIN RELIANCE** | 109,466 | 2016 | STX / South Korea | $141.5M | undisclosed interests | Sold en bloc for $141.5 mill basis surveys due to undisclosed interests. |
+| **M/T NAVE GALACTIC** | 297,168 | 2009 | Jiangnan / China | $136.5M en bloc | undisclosed interests | - |
+| **M/T NAVE BUENA SUERTE** | 297,491 | 2011 | Dalian / China | $136.5M en bloc | undisclosed interests | scrubber fitted. |
+| **M/T KMARIN RESPECT** | 109,584 | 2016 | STX / South Korea | $141.5M en bloc | undisclosed interests | - |
+| **M/T KMARIN RENOWN** | 109,693 | 2016 | STX / South Korea | $141.5M en bloc | undisclosed interests | - |
+| **M/T KMARIN RELIANCE** | 109,466 | 2016 | STX / South Korea | $141.5M en bloc | undisclosed interests | Sold en bloc for $141.5 mill basis surveys due to undisclosed interests. |
 | **M/T CHEMTRANS TAURUS** | 72,782 | 2006 | Dalian / China | $12.5M | Undisclosed | Sold for $ 12.5 mill |
-| **M/T HAFNIA MAGELLAN** | 39,067 | 2015 | HMD / South Korea | $31.0M | Greek buyers (clients of Sokana) | - |
-| **M/T HAFNIA MALACCA** | 39,067 | 2015 | HMD / South Korea | $31.0M | Greek buyers (clients of Sokana) | - |
-| **M/T HAFNIA SUNDA** | 39,067 | 2015 | HMD / South Korea | $31.0M | Greek buyers (clients of Sokana) | - |
-| **M/T HAFNIA TORRES** | 39,067 | 2016 | HMD / South Korea | $31.0M | Greek buyers (clients of Sokana) | Ice 1B. |
+| **M/T HAFNIA MAGELLAN** | 39,067 | 2015 | HMD / South Korea | $31.0M each | Greek buyers (clients of Sokana) | - |
+| **M/T HAFNIA MALACCA** | 39,067 | 2015 | HMD / South Korea | $31.0M each | Greek buyers (clients of Sokana) | - |
+| **M/T HAFNIA SUNDA** | 39,067 | 2015 | HMD / South Korea | $31.0M each | Greek buyers (clients of Sokana) | - |
+| **M/T HAFNIA TORRES** | 39,067 | 2016 | HMD / South Korea | $31.0M each | Greek buyers (clients of Sokana) | Ice 1B. |
 
 
 ### Container / MPP / Tween

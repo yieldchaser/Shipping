@@ -67,16 +67,16 @@ For an overview of demolition market rates, please check our comprehensive demom
 | **M/V PEDHOULAS COMMANDER** | 83,684 | 2008 | Sanoyas / Japan | $14.7M | Undisclosed | increased in price compared with March' deal of similar ASL MOON (81.7k blt 2008 Mitsui/Japan) for $13.6 mill. |
 | **M/V PANAGIA FORCE** | 81,791 | 2007 | Mitsui / Japan | $13.5M | Undisclosed | slight increase in price compared with March' deal of similar ST. DIMITRIOS (82.7k blt 2007 Tsuneishi/Japan) for $13 mill. |
 | **M/V THE PATRON** | 79,444 | 2010 | Jinhai / China | $13.2M | Undisclosed | Sold for $ 13.2 mill basis drydocking surveys freshly passed, note increased price compared with end February deal of GIEWONT (79.6k blt 2010 New Century/China) for $ 11.8 mill. |
-| **M/V MO GAN SHAN** | 63,326 | 2014 | Sainty / China | $49.66M | Undisclosed | - |
-| **M/V QIAN DAO HU** | 63,398 | 2017 | Sainty / China | $49.66M | Undisclosed | deadline for offers 20th May 2026. |
+| **M/V MO GAN SHAN** | 63,326 | 2014 | Sainty / China | $49.66M en bloc | Undisclosed | - |
+| **M/V QIAN DAO HU** | 63,398 | 2017 | Sainty / China | $49.66M en bloc | Undisclosed | deadline for offers 20th May 2026. |
 | **M/V DESERT VICTORY** | 57,434 | 2011 | HMD / S. Korea | $15.4M | Undisclosed | Hyundai (Tier II) m/e and gens, 4xSMAG grabs fitted. |
 | **M/V WEST BAY** | 52,532 | 2004 | Tsuneishi Cebu / Philippines | $9.8M | Chinese buyers | scrubber fitted, drydock due this August. Note: price in line with deal of two-years younger sister JALMA TOPIC (51.9k blt 2006 ss/dd just passed) sold for $12.1 mill end of last month. |
 | **M/V ELPIDA GR** | 52,579 | 2003 | Toyohashi / Japan | $8.0M | Undisclosed | new benchmark sale. |
 | **M/V MAJESTY** | 52,421 | 2002 | Tsuneishi / Japan | $7.0M | Undisclosed | "as-is, where-is", note: new benchmark sale. |
 | **M/V AP ZATON** | 37,729 | 2010 | JES / China | $11.0M | Undisclosed | Ice 1C, double hull, note: new benchmark sale. |
 | **M/V CHRISTINA SELMER** | 34,983 | 2011 | Samjin / China | $11.2M | Undisclosed | Sold for $ 11.2 mill. |
-| **M/V EUROSKY** | 33,774 | 2011 | Samjin / China | $25.0M | Undisclosed | - |
-| **M/V EUROSUN** | 33,774 | 2012 | Samjin / China | $25.0M | Undisclosed | Sold en bloc for $25 mill. |
+| **M/V EUROSKY** | 33,774 | 2011 | Samjin / China | $25.0M en bloc | Undisclosed | - |
+| **M/V EUROSUN** | 33,774 | 2012 | Samjin / China | $25.0M en bloc | Undisclosed | Sold en bloc for $25 mill. |
 | **M/V AFRICAN JOSEPH R** | 18,922 | 2006 | Yamanishi / Japan | $6.0M | Undisclosed | Sold for $ 6 mill basis ss/dd surveys freshly passed last month. |
 
 
@@ -84,14 +84,14 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/T OLYMPIC STAR** | 158,000 | - | - | $95.0M | clients of Teekay | - |
-| **M/T DAEHAN 5118** | 156,881 | - | - | $95.0M | clients of Teekay | softer level compared to January's en bloc deal of sisters ARCTIC STAR & TROMSO STAR (156.7k due for dely May & June respectively ex Daehan/Korea) for $99.3 mill each. |
+| **M/T OLYMPIC STAR** | 158,000 | - | - | $95.0M each | clients of Teekay | - |
+| **M/T DAEHAN 5118** | 156,881 | - | - | $95.0M each | clients of Teekay | softer level compared to January's en bloc deal of sisters ARCTIC STAR & TROMSO STAR (156.7k due for dely May & June respectively ex Daehan/Korea) for $99.3 mill each. |
 | **M/T STI CONDOTTI** | 109,999 | 2014 | Hyundai / Korea | $70.0M | Undisclosed | scrubber fitted, eco. Note: increased price by $5 million compared to April's deal of scrubber fitted exact sister STI MADISON for $65 mill. |
 | **M/T VIALLI** | 52,422 | 2012 | GSI / China | $26.0M | Undisclosed | increased price by $3 million compared with February's deal of exact sister HAFNIA CRUX sold for $ 23 mill |
 | **M/T SUNNY VICTORY** | 46,803 | 2005 | HMD / Korea | $15.5M | Undisclosed | Sold for region $ 15.5 mill. |
-| **M/T VOULA** | 73,774 | 2009 | New Times / China | $25.0M | Undisclosed | scrubber fitted, note: increased price by $3 million compared to April's en bloc deal of exact sisters CAPE TAMPA & CAPE TAFT for $ 22 mill each |
-| **M/T CS ROTTERDAM** | 50,000 | 2026 | Chengxi Shipyard Jiangyin / China | $49.5M | Undisclosed | - |
-| **M/T CS FUJAIRAH** | 50,000 | 2026 | Chengxi Shipyard Jiangyin / China | $49.5M | Undisclosed | both newly delivered from Chengxi earlier this year. |
+| **M/T VOULA** | 73,774 | 2009 | New Times / China | $25.0M each | Undisclosed | scrubber fitted, note: increased price by $3 million compared to April's en bloc deal of exact sisters CAPE TAMPA & CAPE TAFT for $ 22 mill each |
+| **M/T CS ROTTERDAM** | 50,000 | 2026 | Chengxi Shipyard Jiangyin / China | $49.5M each | Undisclosed | - |
+| **M/T CS FUJAIRAH** | 50,000 | 2026 | Chengxi Shipyard Jiangyin / China | $49.5M each | Undisclosed | both newly delivered from Chengxi earlier this year. |
 | **M/T HIGH TIDE** | 51,768 | 2012 | HMD / Korea | $28.45M | Malaysian buyers | CPP trading MR2 Note: increased price compared with end March's exact sister deal of HIGH SEAS for $ 27.6 mill. |
 | **M/T AUTAN** | 50,667 | 2009 | SPP / Korea | $23.5M | Greek buyers | trading clean, delivery Med. |
 | **M/T EASTERLY JUPITER** | 36,677 | 2009 | HMD / Korea | $20.0M | Undisclosed | Sold for $ 20 mill. |

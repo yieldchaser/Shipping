@@ -80,8 +80,8 @@ below:
 | **M/V DENSA PELICAN** | 82,744 | 2012 | STX / Korea | $20.5M | Undisclosed | Sold for $ 20.5 mill basis prompt delivery November 2026 in China/Korea range. |
 | **M/V KIRRIBILLI** | 82,206 | 2011 | Tsuneishi / Japan | $22.3M | Undisclosed | offers invited 30th September 2026. |
 | **M/V GUO DIAN 18** | 72,272 | 1997 | Imabari / Japan | $6.52M | Undisclosed | Sold via on-line auction for $ 6.52 mill, price translates to $ 633 per lt. |
-| **M/V JUNIPER** | 57,185 | 2011 | STX Dalian / China | $16.5M | Undisclosed | - |
-| **M/V OAK** | 57,275 | 2011 | STX Dalian / China | $16.5M | Undisclosed | Dream 58 design by STX, energy saving devices fitted, Korean makers list. |
+| **M/V JUNIPER** | 57,185 | 2011 | STX Dalian / China | $16.5M each | Undisclosed | - |
+| **M/V OAK** | 57,275 | 2011 | STX Dalian / China | $16.5M each | Undisclosed | Dream 58 design by STX, energy saving devices fitted, Korean makers list. |
 | **M/V GUO DIAN 16** | 47,240 | 1997 | Oshima / Japan | $5.22M | Undisclosed | Sold via on-line auction for $ 5.22 mill. |
 
 
@@ -102,7 +102,7 @@ below:
 | **M/T GREEN PLANET** | 50,844 | 2014 | Dae Sun / Korea | $37.25M | Greek buyers (clients of Castor) | Sellers paid $ 31 mill in January earlier this year. |
 | **M/T MP MR TANKER 1** | 49,999 | 2011 | HMD / Korea | $29.7M | Undisclosed | Sellers paid $ 21.8 mill back in 2017. |
 | **M/T LEON GRACE** | 49,999 | 2008 | HMD / Korea | $23.0M | Undisclosed | Sellers paid region high $ 16 mill in January earlier this year. |
-| **M/T BOW ELM** | - | - | - | $29.0M | Undisclosed | 6,098 dwt, blt 2011 SLS/Korea, DNV ss/dd due 03/2026, Siloxirane (MarineLINE), 29 x   tanks/pumps, igs, IMO II) - Sold for $ 29 mill. |
+| **M/T BOW ELM** | 46,098 | 2011 | SLS / Korea | $29.0M | Undisclosed | Sold for $ 29 mill. |
 | **M/T EASTERLY JUPITER** | 36,677 | 2009 | HMD / Korea | $19.0M | Undisclosed | epoxy coated MR1 tanker. |
 | **M/T BOW VICTORY** | 21,193 | 2016 | Asakawa / Japan | $29.5M | Undisclosed | Sold for $ 29.5 mill, offers invited 15th September 2026, Japanese style sale. |
 | **M/T SAKURA SHUCHI** | 19,969 | 2006 | Fukuoka / Japan | $13.0M | Undisclosed | J19 stainless steel tanker. |
@@ -185,7 +185,7 @@ below:
 
 - **M/T LEON GRACE**: M/T LEON GRACE (49,999 dwt, blt 2008 HMD/Korea, KR ss due 02/2028, epoxy, 12 x pumps, IMO III) - Sold for $ 23 mill, note: Sellers paid region high $ 16 mill in January earlier this year.
 
-- **M/T BOW ELM**: M/T BOW ELM 6,098 dwt, blt 2011 SLS/Korea, DNV ss/dd due 03/2026, Siloxirane (MarineLINE), 29 x   tanks/pumps, igs, IMO II) - Sold for $ 29 mill.
+- **M/T BOW ELM**: M/T BOW ELM (46,098 dwt, blt 2011 SLS/Korea, DNV ss/dd due 03/2026, Siloxirane (MarineLINE), 29 x   tanks/pumps, igs, IMO II) - Sold for $ 29 mill.
 
 - **M/T EASTERLY JUPITER**: M/T EASTERLY JUPITER (36,677 dwt, blt 2009 HMD/Korea, KR ss due 02/2029 dd due 05/2027, epoxy, 16 x tanks/pumps, IMO II) - Sold for $ 19 mill, note: epoxy coated MR1 tanker.
 

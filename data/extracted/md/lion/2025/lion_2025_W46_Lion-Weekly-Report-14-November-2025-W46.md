@@ -82,17 +82,17 @@ For an overview of demolition market rates, please check our comprehensive demom
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T COSGRAND LAKE** | 298,997 | 2006 | Universal / Japan | $35.0M | Undisclosed | Sold for $ 35 mill |
 | **M/T AMFITRION** | 50,102 | 2017 | Samsung Ningbo / China | $34.25M | Undisclosed | Sold for $ 34.25 mill |
-| **M/T STI MILWAUKEE** | 49,990 | 2014 | Hyundai Mipo / South Korea | $32.0M | Danish buyers (clients of Torm) | - |
-| **M/T STI BATTERY** | 49,990 | 2014 | Hyundai Mipo / South Korea | $32.0M | Danish buyers (clients of Torm) | - |
-| **M/T STI VENERE** | 49,990 | 2014 | Hyundai Mipo / South Korea | $32.0M | Danish buyers (clients of Torm) | - |
-| **M/T STI YORKVILLE** | 49,990 | 2014 | Hyundai Mipo / South Korea | $32.0M | Danish buyers (clients of Torm) | Sold en bloc for $32 mill each to Danish buyers (clients of Torm) |
-| **M/T JINGJIANG NANYANG YZJF2024-001** | 49,800 | 2026 | Jingjiang Nanyang Ship / China | $45.0M | Monegasque buyers | - |
-| **M/T JINGJIANG NANYANG YZJF2024-002** | 49,800 | 2026 | Jingjiang Nanyang Ship / China | $45.0M | Monegasque buyers | - |
-| **M/T JINGJIANG NANYANG YZJF2024-003** | 49,800 | 2026 | Jingjiang Nanyang Ship / China | $45.0M | Monegasque buyers | - |
-| **M/T JINGJIANG NANYANG YZJF2024-004** | 49,800 | 2027 | Jingjiang Nanyang Ship / China | $45.0M | Monegasque buyers | Sold en bloc for $ 45 mill each to Monegasque buyers |
+| **M/T STI MILWAUKEE** | 49,990 | 2014 | Hyundai Mipo / South Korea | $32.0M each | Danish buyers (clients of Torm) | - |
+| **M/T STI BATTERY** | 49,990 | 2014 | Hyundai Mipo / South Korea | $32.0M each | Danish buyers (clients of Torm) | - |
+| **M/T STI VENERE** | 49,990 | 2014 | Hyundai Mipo / South Korea | $32.0M each | Danish buyers (clients of Torm) | - |
+| **M/T STI YORKVILLE** | 49,990 | 2014 | Hyundai Mipo / South Korea | $32.0M each | Danish buyers (clients of Torm) | Sold en bloc for $32 mill each to Danish buyers (clients of Torm) |
+| **M/T JINGJIANG NANYANG YZJF2024-001** | 49,800 | 2026 | Jingjiang Nanyang Ship / China | $45.0M each | Monegasque buyers | - |
+| **M/T JINGJIANG NANYANG YZJF2024-002** | 49,800 | 2026 | Jingjiang Nanyang Ship / China | $45.0M each | Monegasque buyers | - |
+| **M/T JINGJIANG NANYANG YZJF2024-003** | 49,800 | 2026 | Jingjiang Nanyang Ship / China | $45.0M each | Monegasque buyers | - |
+| **M/T JINGJIANG NANYANG YZJF2024-004** | 49,800 | 2027 | Jingjiang Nanyang Ship / China | $45.0M each | Monegasque buyers | Sold en bloc for $ 45 mill each to Monegasque buyers |
 | **M/T STENA IMMACULATE** | 49,729 | 2017 | Guangzhou Shipyard / China | $10.0M | Undisclosed | FIRE damaged |
-| **M/T STENA IMPRIMIS** | 49,718 | 2017 | Guangzhou Shipyard / China | $35.0M | Undisclosed | - |
-| **M/T STENA IMPERO** | 49,683 | 2018 | Guangzhou Shipyard / China | $35.0M | Undisclosed | Sold en bloc for $ 35 mill each |
+| **M/T STENA IMPRIMIS** | 49,718 | 2017 | Guangzhou Shipyard / China | $35.0M each | Undisclosed | - |
+| **M/T STENA IMPERO** | 49,683 | 2018 | Guangzhou Shipyard / China | $35.0M each | Undisclosed | Sold en bloc for $ 35 mill each |
 
 
 ### Container / MPP / Tween

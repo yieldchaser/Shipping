@@ -328,7 +328,7 @@ REGISTRY_DATA = [
         "total_files": 47,
         "charts_extracted": "No (S&P deals, Demometer indicative ranges, Demo fixtures)",
         "chart_engine": "LiteParse in-process layout parser",
-        "series_csvs": "lion_deals_series.csv (1,212 rows), lion_sales_series.csv (1,192 rows), lion_demometer_series.csv (576 rows), lion_demolition_series.csv (516 rows), lion_demo_sales_series.csv (105 rows)",
+        "series_csvs": "lion_deals_series.csv (1,312 rows), lion_sales_series.csv (1,203 rows), lion_demometer_series.csv (576 rows), lion_demolition_series.csv (516 rows), lion_demo_sales_series.csv (105 rows)",
         "primary_script": "run_lion_tables.py",
         "notes": "Joke of the week, author commentary preserved. Week 40 tables stacked cleanly."
     },
@@ -1421,16 +1421,17 @@ def parse_date_from_filename(filename: str) -> Optional[date]:
         except ValueError:
             pass
     # Pattern 3: Month YYYY in filename
-    m = re.search(r"(January|February|March|April|May|June|July|August|September|October|November|December)\s*[-_ ]*(\d{4})", filename, re.IGNORECASE)
+    # ("2 October 2026", "02-October-2026", "2nd-October-2026" carry the day; a bare month falls back to the 28th)
+    m = re.search(r"(?:(?<![0-9A-Za-z])(\d{1,2})(?:st|nd|rd|th)?[-_ ]+)?(January|February|March|April|May|June|July|August|September|October|November|December)\s*[-_ ]*(\d{4})", filename, re.IGNORECASE)
     if m:
         try:
             month_map = {
                 "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
                 "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12
             }
-            mo = month_map[m.group(1).lower()]
-            yr = int(m.group(2))
-            return date(yr, mo, 28)
+            mo = month_map[m.group(2).lower()]
+            yr = int(m.group(3))
+            return date(yr, mo, int(m.group(1)) if m.group(1) else 28)
         except ValueError:
             pass
     return None

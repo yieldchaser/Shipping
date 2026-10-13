@@ -93,7 +93,7 @@ check our comprehensive demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T ALRAYA** | 300,390 | 2005 | IHI / Japan | $45.0M | Chinese buyers | Sold for $ 45 mill to Chinese buyers |
-| **M/T UACC MANAMA** | - | - | - | $24.0M | Undisclosed | 5,612 dwt, blt 2010 SLS Shipbuilding Co Ltd /Korea, South, LR ss due 09/2025 dd due 09/2025, Siloxirane (MarineLINE), 12 x 500m3/h, 8 x 360m3/h pumps, igs, IMO II) - Sold for $ 24 mill |
+| **M/T UACC MANAMA** | 45,612 | 2010 | SLS Shipbuilding Co Ltd / Korea | $24.0M | Undisclosed | Sold for $ 24 mill |
 | **M/T LVM WARRIOR** | 49,997 | 2015 | Hyundai Mipo Dockyard Co Ltd / Korea | $33.3M | Undisclosed | Sold for $ 33.3 mill |
 | **M/T ECO REVOLUTION** | 39,208 | 2016 | Hyundai-Vinashin / Vietnam | $32.0M | Italian buyers | Sold for $ 32 mill to Italian buyers |
 | **M/T ANGELINA AMORETTI** | 23,740 | 2004 | Jiangsu Yangzijiang / China | $6.0M | Undisclosed | Sold for $ 6 mill |
@@ -159,7 +159,7 @@ check our comprehensive demometer below:
 
 - **M/T ALRAYA**: M/T ALRAYA (300,390 dwt, blt 2005 IHI/Japan, RI ss due 03/2029 dd due 03/2027, igs, cow) - Sold for $ 45 mill to Chinese buyers
 
-- **M/T UACC MANAMA**: M/T UACC MANAMA 5,612 dwt, blt 2010 SLS Shipbuilding Co Ltd /Korea, South, LR ss due 09/2025 dd due 09/2025, Siloxirane (MarineLINE), 12 x 500m3/h, 8 x 360m3/h pumps, igs, IMO II) - Sold for $ 24 mill
+- **M/T UACC MANAMA**: M/T UACC MANAMA (45,612 dwt, blt 2010 SLS Shipbuilding Co Ltd /Korea, South, LR ss due 09/2025 dd due 09/2025, Siloxirane (MarineLINE), 12 x 500m3/h, 8 x 360m3/h pumps, igs, IMO II) - Sold for $ 24 mill
 
 - **M/T LVM WARRIOR**: M/T LVM WARRIOR (49,997 dwt, blt 2015 Hyundai Mipo Dockyard Co Ltd /Korea, South, KR ss due 01/2030 dd due 03/2028, epoxy, 12 x 600m3/h pumps, igs,, IMO II/III) - Sold for $ 33.3 mill
 

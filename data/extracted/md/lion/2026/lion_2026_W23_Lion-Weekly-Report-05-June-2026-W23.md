@@ -84,8 +84,8 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/T STARLIGHT I** | 37,824 | 2007 | HMD / Korea | $19.75M | Undisclosed | - |
-| **M/T STARLIGHT II** | 37,847 | 2007 | HMD / Korea | $19.75M | Undisclosed | Ice Class 1A. |
+| **M/T STARLIGHT I** | 37,824 | 2007 | HMD / Korea | $19.75M each | Undisclosed | - |
+| **M/T STARLIGHT II** | 37,847 | 2007 | HMD / Korea | $19.75M each | Undisclosed | Ice Class 1A. |
 | **M/T GB VENTURE** | 14,445 | 2010 | Yangzhou Kejin / China | $10.5M | Vietnamese buyers | Cap 1. |
 
 
@@ -103,7 +103,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 | Vessel | Type | DWT | LDT | Built | Yard | Price ($/LT) | Destination | Comments / Terms |
 |:---|:---|---:|---:|:---:|:---|:---|:---|:---|
 | **M/V ORIENTAL DRAGON** | General cargo | 2,742 | 826 | 1993 | Yamanaka / Japan | $465/lt | Bangladesh | Demo for $ 465 per lt to BANGLADESH |
-| **M/V SANWA FONTAINE** | Reefers | - | - | - | - | $450/lt | Bangladesh | DT 1071, 3,917 dwt, blt 1982 Kochi (Eiho) /Japan, KR) - Demo for $ 450 per lt to BANGLADESH |
+| **M/V SANWA FONTAINE** | Reefers | 3,917 | 1,071 | 1982 | - | $450/lt | Bangladesh | Demo for $ 450 per lt to BANGLADESH |
 
 
 ## Deal Narratives & Commercial Details
@@ -160,6 +160,6 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 - **M/V ORIENTAL DRAGON**: M/V ORIENTAL DRAGON (LDT 826, 2,742 dwt, blt 1993 Yamanaka /Japan, UB) - Demo for $ 465 per lt to BANGLADESH
 
-- **M/V SANWA FONTAINE**: M/V SANWA FONTAINE DT 1071, 3,917 dwt, blt 1982 Kochi (Eiho) /Japan, KR) - Demo for $ 450 per lt to BANGLADESH
+- **M/V SANWA FONTAINE**: M/V SANWA FONTAINE (LDT 1071, 3,917 dwt, blt 1982 Kochi (Eiho) /Japan, KR) - Demo for $ 450 per lt to BANGLADESH
 
 

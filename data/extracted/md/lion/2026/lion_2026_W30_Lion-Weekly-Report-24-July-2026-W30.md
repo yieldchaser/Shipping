@@ -72,12 +72,12 @@ For an overview of demolition market rates, please check our comprehensive demom
 | **M/V MONT FORT** | 82,113 | 2012 | Tsuneishi / Japan | $22.0M | Undisclosed | TESS 82, scrubber fitted, offers were invited 15th July 2026. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 470 - 480 500 - 510 520 firm INDIA 400 410 420 soft BANGLADESH 475 - 485 515 - 525 540 firm |
 | **M/V IVESTOS 8** | 75,239 | 2008 | Hudong / China | $11.7M | Undisclosed | price in line with late June's sale of similar unit THE WISE (73.5k blt 2007/Jiangnan China) for region high $ 11 mill. |
 | **M/V SEACON TOKYO** | 66,628 | 2023 | Tsuneishi Zhoushan / China | $41.6M | Undisclosed | offers invited 6th July 20206, Eco M/E IMO NOx Tier III - Cranes 4/36 tons Aeroline streamlined, low wind resistance hull form on bow/accom house, new benchmark sale. |
-| **M/V BRITTA OLDENDORFF** | 62,623 | 2020 | Oshima / Japan | $37.5M | Bangladeshi buyers (clients of Meghna) | & |
-| **M/V BENJAMIN OLDENDORFF** | 62,623 | 2020 | Oshima / Japan | $37.5M | Bangladeshi buyers (clients of Meghna) | scrubber fitted, new benchmark sale. |
+| **M/V BRITTA OLDENDORFF** | 62,623 | 2020 | Oshima / Japan | $37.5M each | Bangladeshi buyers (clients of Meghna) | & |
+| **M/V BENJAMIN OLDENDORFF** | 62,623 | 2020 | Oshima / Japan | $37.5M each | Bangladeshi buyers (clients of Meghna) | scrubber fitted, new benchmark sale. |
 | **M/V CMB JORDAENS** | 63,447 | 2019 | Tadotsu / Japan | $35.2M | Undisclosed | vessel was reportedly sold again in December 2025 for a price of $30 mill, - Soft price compared to the above en bloc sale of BRITTA & BENJAMIN OLDENDORFF. |
 | **M/V AMIS WISDOM VI** | 61,456 | 2011 | Shin Kasado / Japan | $22.0M | Undisclosed | price in line with sale of INCE BEYLERBEYI (61,429 dwt blt 2012 Iwagi/Japan) for $ 22.5 mill last month. |
-| **M/V VENUS HALO** | 55,848 | 2012 | IHI / Japan | $19.0M | Undisclosed | & |
-| **M/V UNITED HALO** | 55,848 | 2012 | IHI / Japan | $19.0M | Undisclosed | Future 55 design, price in line with this month's sale of LAGONDA (55,733 dwt blt 2011 IHI/Japan) for low $ 18 mill basis surveys passed. |
+| **M/V VENUS HALO** | 55,848 | 2012 | IHI / Japan | $19.0M each | Undisclosed | & |
+| **M/V UNITED HALO** | 55,848 | 2012 | IHI / Japan | $19.0M each | Undisclosed | Future 55 design, price in line with this month's sale of LAGONDA (55,733 dwt blt 2011 IHI/Japan) for low $ 18 mill basis surveys passed. |
 | **M/V CAPT EUGENE** | 55,499 | 2010 | Mitsui / Japan | $16.6M | Undisclosed | understand trading closely region $ 16.6 mill. |
 | **M/V AFRICAN HARRIER** | 37,707 | 2014 | Imabari / Japan | $20.1M | Undisclosed | offers invited 22nd July 2026, logs fitted, CII Rating: A, - Very Firm price compared to IKAN LANDUK below and ANSAC PRIDE (37,094 dwt, blt 2013 Onomich/Japan) sold for $ 17 mill last month. |
 | **M/V IKAN LANDUK** | 37,115 | 2013 | Onomichi / Japan | $17.0M | Undisclosed | Open Hatch/Box shaped holds. |
@@ -88,8 +88,8 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/T ARCHANGEL** | 163,216 | 2006 | HHI / Korea | $50.75M | Undisclosed | - |
-| **M/T ALASKA** | 163,250 | 2006 | HHI / Korea | $50.75M | Undisclosed | Ice Class 1A |
+| **M/T ARCHANGEL** | 163,216 | 2006 | HHI / Korea | $50.75M each | Undisclosed | - |
+| **M/T ALASKA** | 163,250 | 2006 | HHI / Korea | $50.75M each | Undisclosed | Ice Class 1A |
 | **M/T VELOS EMERALD** | 115,042 | 2008 | Sasebo / Japan | $50.0M | Undisclosed | LR2. |
 | **M/T ELLIE LADY** | 109,999 | 2009 | Sungdong / Korea | $47.5M | Undisclosed | LR, scrubber fitted. |
 | **M/T EVA HONGKONG** | 19,861 | 2017 | Usuki / Japan | $30.0M | Undisclosed | J19. |
@@ -100,10 +100,10 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **C/V SPIRIT OF AUCKLAND** | 53,124 | 2007 | DSME / Korea | $160.0M | Undisclosed | including T/C to Maersk at $ 35,000 per day until end 2027. |
-| **C/V SPIRIT OF MELBOURNE** | 53,176 | 2007 | DSME / Korea | $160.0M | Undisclosed | including T/C to Maersk at $ 35,000 per day until end 2027. |
-| **C/V SPIRIT OF SINGAPORE** | 53,093 | 2007 | DSME / Korea | $160.0M | Undisclosed | including T/C to Hapag at $ 36,000 per day until end 2028. |
-| **C/V SPIRIT OF SYDNEY** | 53,142 | 2007 | DSME / Korea | $160.0M | Undisclosed | including T/C to Hapag at $ 36,000 per day until end 2028. -Sold en bloc for region $ 160 mill. |
+| **C/V SPIRIT OF AUCKLAND** | 53,124 | 2007 | DSME / Korea | $160.0M en bloc | Undisclosed | including T/C to Maersk at $ 35,000 per day until end 2027. |
+| **C/V SPIRIT OF MELBOURNE** | 53,176 | 2007 | DSME / Korea | $160.0M en bloc | Undisclosed | including T/C to Maersk at $ 35,000 per day until end 2027. |
+| **C/V SPIRIT OF SINGAPORE** | 53,093 | 2007 | DSME / Korea | $160.0M en bloc | Undisclosed | including T/C to Hapag at $ 36,000 per day until end 2028. |
+| **C/V SPIRIT OF SYDNEY** | 53,142 | 2007 | DSME / Korea | $160.0M en bloc | Undisclosed | including T/C to Hapag at $ 36,000 per day until end 2028. -Sold en bloc for region $ 160 mill. |
 | **C/V APOLLO TRADER** | 13,732 | 2003 | Jiangdong / China | $11.0M | Singaporean buyers | Sold for $ 11 mill to Singaporean buyers. |
 | **M/V ALAND** | 3,246 | 1996 | Scheepswerf Peters / Netherlands | $1.0M | Undisclosed | Ice Class 1C, Ldt 980. |
 

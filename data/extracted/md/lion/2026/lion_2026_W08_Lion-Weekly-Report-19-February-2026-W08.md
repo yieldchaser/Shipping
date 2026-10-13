@@ -110,8 +110,8 @@ demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T TRIKWONG VENTURE** | 297,136 | 2012 | Dalian / China | $70.0M | South Korean buyers | VLCC, Tier-1. |
-| **M/T EMERALDWAY** | 158,363 | 2022 | SWS / China | $177.0M | Greek buyers (clients of Thenamaris) | - |
-| **M/T SUNRISEWAY** | 158,307 | 2022 | SWS / China | $177.0M | Greek buyers (clients of Thenamaris) | suezmax, scrubber fitted |
+| **M/T EMERALDWAY** | 158,363 | 2022 | SWS / China | $177.0M en bloc | Greek buyers (clients of Thenamaris) | - |
+| **M/T SUNRISEWAY** | 158,307 | 2022 | SWS / China | $177.0M en bloc | Greek buyers (clients of Thenamaris) | suezmax, scrubber fitted |
 | **M/T FAIRWAY** | 160,250 | 2013 | HHIC / Philippines | $56.5M | Greek buyers (clients of Metrostar) | suezmax, scrubber fitted, vsl was again reported sold end of January for region $ 53 mill. |
 | **M/T P. SOPHIA** | 105,071 | 2009 | Hyundai / South Korea | $36.5M | Undisclosed | Sold for $ 36.5 mill basis forward delivery mid May-Mid June |
 | **M/T PGC ALEXANDRIA** | 74,996 | 2006 | Onomichi / Japan | $15.75M | Greek buyers | LR1, Cap 1 rated. |
@@ -127,7 +127,7 @@ demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **C/V SEASPAN JAKARTA** | 50,869 | 2006 | Samsung / South Korea | $17.0M | Undisclosed | Sold for $ 17 mill. |
-| **C/V MOUNT CAMERON** | - | - | - | $28.0M | Undisclosed | 3,503 dwt, blt 2016 Ouhua/China, NV ss/dd due 05/2026, teu 1756 (1730 @ 14t), reefers 350, 2x45t 1x35t CR, MAN B&W 6S60ME-C8) - Sold for $ 28 mill basis charter free delivery end April/early May in Asia. |
+| **C/V MOUNT CAMERON** | 23,503 | 2016 | Ouhua / China | $28.0M | Undisclosed | Sold for $ 28 mill basis charter free delivery end April/early May in Asia. |
 
 
 ## Demolition Sales
@@ -175,7 +175,7 @@ demometer below:
 
 - **C/V SEASPAN JAKARTA**: C/V SEASPAN JAKARTA (50,869 dwt, blt 2006 Samsung/South Korea, AB ss/dd due 02/2026, teu 4253, reefers 400, MAN B&W 8K90MC-C) - Sold for $ 17 mill.
 
-- **C/V MOUNT CAMERON**: C/V MOUNT CAMERON 3,503 dwt, blt 2016 Ouhua/China, NV ss/dd due 05/2026, teu 1756 (1730 @ 14t), reefers 350, 2x45t 1x35t CR, MAN B&W 6S60ME-C8) - Sold for $ 28 mill basis charter free delivery end April/early May in Asia.
+- **C/V MOUNT CAMERON**: C/V MOUNT CAMERON (23,503 dwt, blt 2016 Ouhua/China, NV ss/dd due 05/2026, teu 1756 (1730 @ 14t), reefers 350, 2x45t 1x35t CR, MAN B&W 6S60ME-C8) - Sold for $ 28 mill basis charter free delivery end April/early May in Asia.
 
 ### Tankers
 

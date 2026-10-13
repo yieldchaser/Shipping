@@ -52,15 +52,16 @@ check our comprehensive demometer below:
 | **India** | 420-430 | 440 | 460-470 | Positive |
 | **Bangladesh** | 475-485 | 510-520 | 540 | Firm |
 
+
 ## Representative Sales
 
 ### Bulkers
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V ANGLO ALEXANDRIA** | 114,248 | 2011 | New Times / China | $20.0M | Undisclosed | freshly ss/dd passed |
-| **M/V ANGLO JESSICA** | 114,664 | 2010 | New Times / China | $20.0M | Undisclosed | - |
-| **M/V ANGLO MARIE LOUISE** | 114,674 | 2011 | New Times / China | $20.0M | Undisclosed | "baby" capes, scrubber fitted, we are unsure whether sale includes respective Evergreen charters attached or it is basis charter free dely. |
+| **M/V ANGLO ALEXANDRIA** | 114,248 | 2011 | New Times / China | $20.0M each | Undisclosed | freshly ss/dd passed |
+| **M/V ANGLO JESSICA** | 114,664 | 2010 | New Times / China | $20.0M each | Undisclosed | - |
+| **M/V ANGLO MARIE LOUISE** | 114,674 | 2011 | New Times / China | $20.0M each | Undisclosed | "baby" capes, scrubber fitted, we are unsure whether sale includes respective Evergreen charters attached or it is basis charter free dely. |
 | **M/V G. B. CORRADO** | 77,061 | 2008 | Oshima / Japan | $15.0M | Undisclosed | firm price compared to April's deal of similar ALEXANDROS PETRAKIS (76,596 dwt blt 2008 Shin Kasado/Japan) for low $ 13 mill. |
 | **M/V AMIS WISDOM II** | 61,611 | 2010 | Oshima / Japan | $22.0M | Undisclosed | in line with last week's deal of one-year younger AMIS WISDOM VI (61,456 dwt blt 2011 Shin Kasado/Japan) for low $ 22 mill basis surveys due September. |
 | **M/V LILA FROSTBURG** | 56,425 | 2013 | Hantong / China | $16.8M | Undisclosed | early July sale. Note: slightly higher price compared with June's deal of exact sister LILA CUMBERLAND for $16.5 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 480 - 490 500 - 510 520 positive INDIA 420 - 430 440 460 - 470 positive BANGLADESH 475 - 485 510 - 520 540 firm |
@@ -71,12 +72,14 @@ check our comprehensive demometer below:
 | **M/V BLUE DIAMOND** | 53,521 | 2008 | Ha Long / Vietnam | $11.0M | Undisclosed | Diamond 53 design, grabs fitted, new benchmark sale. |
 | **M/V SAKURA DREAM** | 38,213 | 2013 | Imabari / Japan | $18.5M | Undisclosed | offers invited 27th July 2026, NOX Tier 1. -very firm price compared with May's sale of one-year older FUGA (38,036 dwt blt 2012 Shimanami/Japan) for $15 mill. |
 
+
 ### Container / MPP / Tween
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **C/V MONTPELLIER** | 39,418 | 2006 | HMD / Korea | $27.2M | Undisclosed | Sold for $ 27.2 mill basis ch.free dely upon expiration of current t/c to Diamond Line (COSCO) until Oct/Nov 2026. |
 | **C/V A ONTAKE** | 11,817 | 2023 | Kyokuyo / Japan | $26.8M | Undisclosed | Sold for $ 26.8 mill basis ch.free dely upon expiration of current t/c to Centrans @ usd 11.000 p/d. until Sep/Nov 2026.. |
+
 
 ## Demolition Sales
 
@@ -86,6 +89,7 @@ check our comprehensive demometer below:
 | **M/T FOREVER** | Tankers | 107,169 | 16,708 | 1997 | Koyo / Japan | $552/lt | Bangladesh | Demo for $ 552 per LT to BANGLADESH. |
 | **M/T BURAAQ** | Tankers | 14,972 | 4,991 | 1994 | Siong Huat Shipyard / Singapore | $475/lt | Subcontinent | Demo for $ 475 per LT basis "as-is" OMAN. |
 | **M/T HAI HENG** | Tankers | 13,300 | 4,055 | 1999 | Lindenau / Germany | $495/lt | Bangladesh | Demo for $ 495 per LT to BANGLADESH. |
+
 
 ## Deal Narratives & Commercial Details
 
@@ -130,3 +134,5 @@ check our comprehensive demometer below:
 - **M/T BURAAQ**: M/T BURAAQ (LDT 4991, 14,972 dwt, blt 1994 Siong Huat Shipyard/Singapore) - Demo for $ 475 per LT basis "as-is" OMAN.
 
 - **M/T HAI HENG**: M/T HAI HENG (LDT 4055, 13,300 dwt, blt 1999 Lindenau /Germany) - Demo for $ 495 per LT to BANGLADESH.
+
+

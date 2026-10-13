@@ -67,10 +67,10 @@ overview of demolition market rates, please check our comprehensive demometer be
 | **M/V VULCANIA** | 82,036 | 2015 | Jiangsu Newyangzi / China | $26.0M | Greek buyers | Eco type kamsarmax, new benchmark sale. Firm price compared with last week's sale of THEMIS (82k blt 2012 COSCO Dalian/China) for $ 18 mill and beginning of May's sale of SIROCCO (82k blt 2014 Sainty/China) for $ 20.3 mill. |
 | **M/V PROTEAS** | 76,454 | 2005 | Tsuneishi / Japan | $12.0M | Chinese buyers | last 5 cargoes were grains, firm price, new benchmark sale. |
 | **M/V AFRICAN TERN** | 58,342 | 2013 | Dalian COSCO KHI / China | $19.0M | Undisclosed | DACKS 58 design, offers invited 9th June 2026, firm price, new benchmark sale. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 stable INDIA 420 430 440 stable BANGLADESH 460 470 490 stable |
-| **M/V SANTA RITA** | - | - | - | $17.2M | Greek buyers | off market deal. Firm price compared with mid-May's sale of SETY (55.7k blt 2010 IHI/Japan) for $16.1 mill, new benchmark sale. |
+| **M/V SANTA RITA** | 55,677 | 2010 | Mitsui / Japan | $17.2M | Greek buyers | off market deal. Firm price compared with mid-May's sale of SETY (55.7k blt 2010 IHI/Japan) for $16.1 mill, new benchmark sale. |
 | **M/V SIDER HARMONY** | 38,581 | 2020 | Tsuneishi Cebu / Philippines | $28.5M | Undisclosed | as per our records, the sellers acquired the vsl as LILAC HARMONY, in September of last year for $25 million, making a hefty profit of $3.5 million in under a year. |
-| **M/V INTERLINK CELERITY** | 40,112 | 2017 | Kouan / China | $22.0M | Undisclosed | - |
-| **M/V INTERLINK SOLIDITY** | 40,098 | 2017 | Kouan / China | $22.0M | Undisclosed | Sold en bloc for $ 22 mill each. notes: 40k Green Dolphin Eco design, open-hatch box-shaped, electronic m/e, fitted with 2 x BWTS. Price in line with May's sale of exact sister INTELINK FORTUITY for $21.75 mill. |
+| **M/V INTERLINK CELERITY** | 40,112 | 2017 | Kouan / China | $22.0M each | Undisclosed | - |
+| **M/V INTERLINK SOLIDITY** | 40,098 | 2017 | Kouan / China | $22.0M each | Undisclosed | Sold en bloc for $ 22 mill each. notes: 40k Green Dolphin Eco design, open-hatch box-shaped, electronic m/e, fitted with 2 x BWTS. Price in line with May's sale of exact sister INTELINK FORTUITY for $21.75 mill. |
 | **M/V POYANG** | 39,790 | 2016 | Ouhua / China | $19.4M | Undisclosed | B-Delta 39 design, Flex electronic m/e, Logs fitted, A60 fitted. Price in line with February's sale of exact sister POWAN for $19.2 mill. |
 | **M/V SIDER BEAR** | 40,484 | 2013 | Chengxi / China | $17.7M | Turkish buyers (clients of Manta) Price in line | Sold for $ 17.7 mill to Turkish buyers (clients of Manta) Price in line with March's sale of exact sister SIDER ATHENA for $17.5 mill again to Turkish buyers. notes: B-Delta 39 design, RTFLEX electronic m/e Tier II, box-shaped holds. |
 | **M/V BEETLE** | 28,198 | 2012 | Imabari / Japan | $12.6M | Undisclosed | fully logs fitted. Firm price compared with last week's sale of 1 yr older DELLA (28k blt 2011 Shimanami/Japan, logger) for $ 10.8 mill. |
@@ -81,11 +81,11 @@ overview of demolition market rates, please check our comprehensive demometer be
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T MAXIM** | 296,887 | 2011 | Jiangnan / China | $82.0M | South Korean buyers (clients of Sinokor) | scrubber fitted. |
-| **M/T BREST** | 157,071 | 2023 | Hyundai Samho / Korea | $110.0M | Undisclosed | - |
-| **M/T BRUGGE** | 157,138 | 2023 | Hyundai Samho / Korea | $110.0M | Undisclosed | Sold en bloc for $ 110 mill each. |
+| **M/T BREST** | 157,071 | 2023 | Hyundai Samho / Korea | $110.0M each | Undisclosed | - |
+| **M/T BRUGGE** | 157,138 | 2023 | Hyundai Samho / Korea | $110.0M each | Undisclosed | Sold en bloc for $ 110 mill each. |
 | **M/T SEAMUSIC** | 112,922 | 2009 | New Times / China | $53.1M | Undisclosed | Sold for $ 53.1 mill basis prompt charter free delivery Med/UKC. |
-| **M/T WECO ISABELLA** | - | - | - | $56.0M | Undisclosed | 9,500 dwt, blt 2026 Penglai Zhongbai/China, ABS, Siloxirane (MarineLINE), 18 x pumps, igs, IMO II) |
-| **M/T WECO TWIGGY** | - | - | - | $56.0M | Undisclosed | 9,500 dwt, blt 2026 Penglai Zhongbai/China, ABS, Siloxirane (MarineLINE), 18 x pumps, igs, IMO II) - Sold en bloc for $ 56 mill each. |
+| **M/T WECO ISABELLA** | 49,500 | 2026 | Penglai Zhongbai / China | $56.0M each | Undisclosed | - |
+| **M/T WECO TWIGGY** | 49,500 | 2026 | Penglai Zhongbai / China | $56.0M each | Undisclosed | Sold en bloc for $ 56 mill each. |
 
 
 ### Container / MPP / Tween
@@ -117,7 +117,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 - **M/V AFRICAN TERN**: M/V AFRICAN TERN (58,342 dwt, blt 2013 Dalian COSCO KHI/China, NK ss/dd due 06/2028, 5 ho/5 ha, 4 x 30.5t CR, B&W 6S50MC-C8, 3 x gens) - Sold for high $ 19 mill basis charter free delivery PMO-Japan range between 1st July - 31st October 2026. note: DACKS 58 design, offers invited 9th June 2026, firm price, new benchmark sale. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 stable INDIA 420 430 440 stable BANGLADESH 460 470 490 stable
 
-- **M/V SANTA RITA**: M/V SANTA RITA 5,677 dwt, blt 2010 Mitsui/Japan, NK ss/dd due 11/2025, 5 ho/5 ha, 4 x 30t CR + 4x12 cbm Grabs (SMEG), B&W 6S50MC-C) - Sold for $ 17.2 mill to Greek buyers, note: off market deal. Firm price compared with mid-May's sale of SETY (55.7k blt 2010 IHI/Japan) for $16.1 mill, new benchmark sale.
+- **M/V SANTA RITA**: M/V SANTA RITA (55,677 dwt, blt 2010 Mitsui/Japan, NK ss/dd due 11/2025, 5 ho/5 ha, 4 x 30t CR + 4x12 cbm Grabs (SMEG), B&W 6S50MC-C) - Sold for $ 17.2 mill to Greek buyers, note: off market deal. Firm price compared with mid-May's sale of SETY (55.7k blt 2010 IHI/Japan) for $16.1 mill, new benchmark sale.
 
 - **M/V SIDER HARMONY**: M/V SIDER HARMONY (38,581 dwt, blt 2020 Tsuneishi Cebu/Philippines, RI ss/ due 09/2030, 5 ho/5 ha, 4 x 30.t CR, B&W 6S50ME-B8, 3 x gens) - Sold for $ 28.5 mill, semi-box shaped holds, firm price, new benchmark sale. Note: as per our records, the sellers acquired the vsl as LILAC HARMONY, in September of last year for $25 million, making a hefty profit of $3.5 million in under a year.
 
@@ -147,9 +147,9 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 - **M/T SEAMUSIC**: M/T SEAMUSIC (112,922 dwt, blt 2009 New Times/China, ABS ss due 06/2028 dd due 09/2026, 3 x pumps, igs, cow) - Sold for $ 53.1 mill basis prompt charter free delivery Med/UKC.
 
-- **M/T WECO ISABELLA**: M/T WECO ISABELLA 9,500 dwt, blt 2026 Penglai Zhongbai/China, ABS, Siloxirane (MarineLINE), 18 x pumps, igs, IMO II)
+- **M/T WECO ISABELLA**: M/T WECO ISABELLA (49,500 dwt, blt 2026 Penglai Zhongbai/China, ABS, Siloxirane (MarineLINE), 18 x pumps, igs, IMO II)
 
-- **M/T WECO TWIGGY**: M/T WECO TWIGGY 9,500 dwt, blt 2026 Penglai Zhongbai/China, ABS, Siloxirane (MarineLINE), 18 x pumps, igs, IMO II) - Sold en bloc for $ 56 mill each.
+- **M/T WECO TWIGGY**: M/T WECO TWIGGY (49,500 dwt, blt 2026 Penglai Zhongbai/China, ABS, Siloxirane (MarineLINE), 18 x pumps, igs, IMO II) - Sold en bloc for $ 56 mill each.
 
 ### Demolition
 

@@ -104,7 +104,7 @@ demometer below:
 | **M/T RUI FU SHENG** | 46,846 | 2007 | Sungdong / Korea | $19.0M | Undisclosed | Cap 1, CPP trading. |
 | **M/T MINERVA XANTHE** | 50,922 | 2006 | STX Jinhae / Korea | $16.0M | Chinese buyers | Ice 1A, deepwell, Cap 1, CPP trading. |
 | **M/T LADY OF DORIA** | 46,846 | 2006 | Naikai Zosen / Japan | $14.0M | Undisclosed | dirty trading MR2. |
-| **M/T KTS BROWN** | - | - | - | $10.0M | Vietnamese buyers | 3,076 dwt, blt 2008 21st Century/Korea, KR ss due 05/2028 dd due 05/2026, coated Siloxirane (MarineLINE), 12 x 3pumps, igs, IMO II) - Sold for $ 10 mill to Vietnamese buyers basis DD passed May 2026. |
+| **M/T KTS BROWN** | 13,076 | 2008 | 21st Century / Korea | $10.0M | Vietnamese buyers | Sold for $ 10 mill to Vietnamese buyers basis DD passed May 2026. |
 
 
 ### Container / MPP / Tween
@@ -201,7 +201,7 @@ demometer below:
 
 - **M/T LADY OF DORIA**: M/T LADY OF DORIA (46,846 dwt, blt 2006 Naikai Zosen/Japan, BV ss/dd due 07/2026, 14 epoxy coated tanks, 4 segregations, 4 x pumps, igs, cow, IMO III) - Sold for region high $ 14 mill basis prompt dely, note: dirty trading MR2.
 
-- **M/T KTS BROWN**: M/T KTS BROWN 3,076 dwt, blt 2008 21st Century/Korea, KR ss due 05/2028 dd due 05/2026, coated Siloxirane (MarineLINE), 12 x 3pumps, igs, IMO II) - Sold for $ 10 mill to Vietnamese buyers basis DD passed May 2026.
+- **M/T KTS BROWN**: M/T KTS BROWN (13,076 dwt, blt 2008 21st Century/Korea, KR ss due 05/2028 dd due 05/2026, coated Siloxirane (MarineLINE), 12 x 3pumps, igs, IMO II) - Sold for $ 10 mill to Vietnamese buyers basis DD passed May 2026.
 
 ### Demolition
 

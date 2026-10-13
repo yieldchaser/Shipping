@@ -65,8 +65,8 @@ market rates, please check our comprehensive demometer below:
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V NBA REMBRANDT - 107,236 dwt, blt 2012 Oshima/Japan, NK ss due 10/2030 dd due 10/2028, 7ho/7ha, Mitsubishi 6UEC60LSII, BWTS Fitted) - Sold to clients of Global Chartering Ltd** | - | - | - | $18.75M | Undisclosed | for region $18.75 mill basis surveys passed last month |
 | **M/V THE STRONG** | 74,823 | 2004 | Hudong / China | $6.85M | Undisclosed | Sold for $ 6,85 mill |
-| **M/V JAL KANAK** | - | - | - | $37.25M | Thai buyers (clients of Precious Shipping) | 5,950 dwt, blt 2025 Yangzi-Mitsui (YAMIC)/China, NK 5 ho/5 ha, 4 x 30t Cr, B&W 7S50ME-C9) |
-| **M/V JAL KUNDAN** | - | - | - | $37.25M | Thai buyers (clients of Precious Shipping) | 5,950 dwt, blt 2025 Yangzi-Mitsui (YAMIC)/China, NK 5 ho/5 ha, 4 x 30t Cr, B&W 7S50ME-C9) - Sold en bloc for $ 37,25 mill each to Thai buyers (clients of Precious Shipping) basis delivery ex-yard. |
+| **M/V JAL KANAK** | 65,950 | 2025 | - | $37.25M each | Thai buyers (clients of Precious Shipping) | - |
+| **M/V JAL KUNDAN** | 65,950 | 2025 | - | $37.25M each | Thai buyers (clients of Precious Shipping) | Sold en bloc for $ 37,25 mill each to Thai buyers (clients of Precious Shipping) basis delivery ex-yard. |
 | **M/V DSI DRAMMEN** | 63,379 | 2016 | I-S Shipyard / Japan | $26.4M | Undisclosed | previous September deal at higher price ($26,86 mill) basis prompt dely has fallen through COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 stable PAKISTAN 390 410 420 stable INDIA 380 400-410 420 stable BANGLADESH 410-420 430-440 450 stable |
 | **M/V WARISA NAREE** | 53,840 | 2010 | Hindustan / India | $9.3M | Undisclosed | Diamond 53 design, double skin construction |
 | **M/V GUO DIAN 10** | 45,031 | 1995 | Hakodate Dock - Hakodate / Japan | $2.87M | Undisclosed | Sold at on-line auction in China for $ 2,87 mill |
@@ -79,12 +79,13 @@ market rates, please check our comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/T SONANGOL NAMIBE** | - | - | - | $34.0M | Greek buyers | 58,425 dwt, blt 2007 Daewoo (DSME)/S. Korea, AB ss/dd due 03/2027, 3 x pumps, igs, cow,) - Sold for $ 34 mill to Greek buyers |
+| **M/T SONANGOL NAMIBE** | 158,425 | 2007 | - | $34.0M | Greek buyers | Sold for $ 34 mill to Greek buyers |
 | **M/T ADVANTAGE SUMMER** | 156,527 | 2010 | Rongsheng / China | $40.4M | Greek buyers | Sold for $ 40,4 mill to Greek buyers |
 | **M/T HAFNIA LIBRA** | 52,385 | 2013 | Guangzhou Shipyard / China | $23.0M | Undisclosed | Sold for $ 23 mill |
 | **M/T HAFNIA PHOENIX** | 49,999 | 2013 | Guangzhou Shipyard / China | $23.0M | Undisclosed | Sold for $ 23 mill |
 | **M/T NAVE EQUINOX** | 50,922 | 2007 | STX Shipbuilding / Korea | $14.4M | Undisclosed | Sold for $ 14,4 mill |
-| **M/T KYRA** | 47,931 | 2006 | Iwagi Zosen / Japan | $11.35M | Chinese buyers | Sold for $ 11,35 mill M/T MINERVA LYDIA (47,999 dwt, blt 2004 Iwagi Zosen/Japan, NV ss due 05/2029 dd due 06/2027, EPOXY, 4 x pumps, igs, cow,) - Sold for $ 10,4 mill to Chinese buyers |
+| **M/T KYRA** | 47,931 | 2006 | Iwagi Zosen / Japan | $11.35M | Undisclosed | Sold for $ 11,35 mill |
+| **M/T MINERVA LYDIA** | 47,999 | 2004 | Iwagi Zosen / Japan | $10.4M | Chinese buyers | Sold for $ 10,4 mill to Chinese buyers |
 
 
 ### Container / MPP / Tween
@@ -117,9 +118,9 @@ market rates, please check our comprehensive demometer below:
 
 - **M/V THE STRONG**: M/V THE STRONG (74,823 dwt, blt 2004 Hudong/China, NK ss due 08/2027 dd due 06/2026, 7 ho/7 ha, B&W 5S60MC) - Sold for $ 6,85 mill
 
-- **M/V JAL KANAK**: M/V JAL KANAK 5,950 dwt, blt 2025 Yangzi-Mitsui (YAMIC)/China, NK 5 ho/5 ha, 4 x 30t Cr, B&W 7S50ME-C9)
+- **M/V JAL KANAK**: M/V JAL KANAK (65,950 dwt, blt 2025 Yangzi-Mitsui (YAMIC)/China, NK 5 ho/5 ha, 4 x 30t Cr, B&W 7S50ME-C9)
 
-- **M/V JAL KUNDAN**: M/V JAL KUNDAN 5,950 dwt, blt 2025 Yangzi-Mitsui (YAMIC)/China, NK 5 ho/5 ha, 4 x 30t Cr, B&W 7S50ME-C9) - Sold en bloc for $ 37,25 mill each to Thai buyers (clients of Precious Shipping) basis delivery ex-yard.
+- **M/V JAL KUNDAN**: M/V JAL KUNDAN (65,950 dwt, blt 2025 Yangzi-Mitsui (YAMIC)/China, NK 5 ho/5 ha, 4 x 30t Cr, B&W 7S50ME-C9) - Sold en bloc for $ 37,25 mill each to Thai buyers (clients of Precious Shipping) basis delivery ex-yard.
 
 - **M/V DSI DRAMMEN**: M/V DSI DRAMMEN (63,379 dwt, blt 2016 I-S Shipyard /Japan, NK ss/dd due 08/2026, 5 ho/5 ha, 4 x 30.7t CRANE, B&W 6S50ME-B9) - Sold for $ 26,40 mill basis delivery by 31 March 2026, note: previous September deal at higher price ($26,86 mill) basis prompt dely has fallen through COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 stable PAKISTAN 390 410 420 stable INDIA 380 400-410 420 stable BANGLADESH 410-420 430-440 450 stable
 
@@ -143,7 +144,7 @@ market rates, please check our comprehensive demometer below:
 
 ### Tankers
 
-- **M/T SONANGOL NAMIBE**: M/T SONANGOL NAMIBE 58,425 dwt, blt 2007 Daewoo (DSME)/S. Korea, AB ss/dd due 03/2027, 3 x pumps, igs, cow,) - Sold for $ 34 mill to Greek buyers
+- **M/T SONANGOL NAMIBE**: M/T SONANGOL NAMIBE (158,425 dwt, blt 2007 Daewoo (DSME)/S. Korea, AB ss/dd due 03/2027, 3 x pumps, igs, cow,) - Sold for $ 34 mill to Greek buyers
 
 - **M/T ADVANTAGE SUMMER**: M/T ADVANTAGE SUMMER (156,527 dwt, blt 2010 Rongsheng/China, AB ss due 09/2025 dd due 06/2025, 3 x pumps, igs, cow,) - Sold for $ 40,4 mill to Greek buyers
 
@@ -153,7 +154,9 @@ market rates, please check our comprehensive demometer below:
 
 - **M/T NAVE EQUINOX**: M/T NAVE EQUINOX (50,922 dwt, blt 2007 STX Shipbuilding /Korea, South, BV ss due 12/2027 dd due 04/2026, Epoxy Phenolic, 12 x pumps, igs, cow, IMO III) - Sold for $ 14,4 mill
 
-- **M/T KYRA**: M/T KYRA (47,931 dwt, blt 2006 Iwagi Zosen /Japan, NK ss due 01/2026 dd due 01/2026, Zinc Silicate, 4 x pumps, igs, cow, IMO III) - Sold for $ 11,35 mill M/T MINERVA LYDIA (47,999 dwt, blt 2004 Iwagi Zosen/Japan, NV ss due 05/2029 dd due 06/2027, EPOXY, 4 x pumps, igs, cow,) - Sold for $ 10,4 mill to Chinese buyers
+- **M/T KYRA**: M/T KYRA (47,931 dwt, blt 2006 Iwagi Zosen /Japan, NK ss due 01/2026 dd due 01/2026, Zinc Silicate, 4 x pumps, igs, cow, IMO III) - Sold for $ 11,35 mill
+
+- **M/T MINERVA LYDIA**: M/T MINERVA LYDIA (47,999 dwt, blt 2004 Iwagi Zosen/Japan, NV ss due 05/2029 dd due 06/2027, EPOXY, 4 x pumps, igs, cow,) - Sold for $ 10,4 mill to Chinese buyers
 
 ### Demolition
 

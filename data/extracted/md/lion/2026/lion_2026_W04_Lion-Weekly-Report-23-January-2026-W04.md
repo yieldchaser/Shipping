@@ -89,8 +89,8 @@ rates, please check our comprehensive demometer below:
 | **M/V MIRACLE** | 180,643 | 2011 | Tsuneishi Cebu / Philippines | $32.0M | Chinese buyers | Sold for $ 32 mill to Chinese buyers. |
 | **M/V FRONTIER KOTOBUKI** | 174,810 | 2011 | Namura / Japan | $31.4M | clients of Arcelor Mittal | Sold for $ 31.4 mill to clients of Arcelor Mittal. |
 | **M/V YANGZE 903** | 93,243 | 2012 | Jiangsu Newyangzi / China | $12.7M | Undisclosed | post-panamax |
-| **M/V JAG ADITI** | 80,325 | 2011 | STX / S. Korea | $15.0M | Norwegian buyers | - |
-| **M/V JAG AARATI** | 80,323 | 2011 | STX / S. Korea | $15.0M | Norwegian buyers | Sold en bloc for $ 15 mill each to Norwegian buyers. |
+| **M/V JAG ADITI** | 80,325 | 2011 | STX / S. Korea | $15.0M each | Norwegian buyers | - |
+| **M/V JAG AARATI** | 80,323 | 2011 | STX / S. Korea | $15.0M each | Norwegian buyers | Sold en bloc for $ 15 mill each to Norwegian buyers. |
 | **M/V KT BIRDIE** | 74,886 | 2011 | Sasebo / Japan | $16.5M | Greek buyers | Sold for $ 16.5 mill to Greek buyers. |
 | **M/V GLOBAL BONANZA** | 74,916 | 2011 | Sasebo / Japan | $15.3M | Undisclosed | Sold for $ 15.3 mill |
 | **M/V ELIZABETH M II** | 63,683 | 2020 | Nantong Xiangyu / China | $30.0M | either Chinese or Greek buyers (hearing clients of Vamvaship Maritime) | Sold for $ 30 mill to either Chinese or Greek buyers (hearing clients of Vamvaship Maritime) |
@@ -116,8 +116,8 @@ rates, please check our comprehensive demometer below:
 | **M/T COBALT NOVA** | 318,757 | 2011 | SWS / China | $77.9M | Undisclosed | Sold for 77.9 mill |
 | **M/T BLUE NOVA** | 297,085 | 2011 | Dalian / China | $70.0M | South Korean buyers (clients of Sinokor) | Sold for 70 mill - Sold en bloc to South Korean buyers (clients of Sinokor). |
 | **M/T DILONG SPIRIT** | 159,021 | 2009 | Bohai / China | $42.5M | Undisclosed | Sold for $ 42.5 mill. |
-| **M/T ELANDRA SWIFT** | 109,999 | 2024 | Hyundai Vietnam / Vietnam | $84.0M | Undisclosed | - |
-| **M/T ELANDRA SWALLOW** | 109,999 | 2023 | Hyundai Vietnam / Vietnam | $84.0M | Undisclosed | Sold en bloc for $ 84 mill each. |
+| **M/T ELANDRA SWIFT** | 109,999 | 2024 | Hyundai Vietnam / Vietnam | $84.0M each | Undisclosed | - |
+| **M/T ELANDRA SWALLOW** | 109,999 | 2023 | Hyundai Vietnam / Vietnam | $84.0M each | Undisclosed | Sold en bloc for $ 84 mill each. |
 | **M/T PLOUTOS** | 73,711 | 2006 | New Century / China | $13.5M | Middle Eastern buyers | Sold for $ 13.5 mill to Middle Eastern buyers |
 | **M/T HAMBURG STAR** | 73,869 | 2005 | New Century / China | $10.2M | Middle Eastern buyers | Sold for $ 10.2 mill to Middle Eastern buyers basis surveys due. |
 | **M/T STAR MERLIN** | 53,755 | 2007 | Shin Kurushima / Japan | $14.4M | Undisclosed | CPP trading MR2, surveys passed. |

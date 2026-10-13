@@ -508,7 +508,26 @@
         "price_raw": "$ 39 mill",
         "en_bloc": false,
         "buyer": null,
-        "comments": "scrubber fitted, on TC to Cargill until Sep 2026. M/T GT FREEDOM (45,994 dwt, blt 2003 Shin Kurushima/Japan, KR ss due 05/2028 dd due 06/2026, EPOXY, 4 xpumps, igs) - Sold for $ 8.5 mill, note: CPP trading, MR2."
+        "comments": "scrubber fitted, on TC to Cargill until Sep 2026."
+      },
+      {
+        "issue_date": "2026-04-17",
+        "report_week": 16,
+        "section": "TANKERS",
+        "tag": "M/T",
+        "vessel": "GT FREEDOM",
+        "dwt": 45994,
+        "built_year": 2003,
+        "yard": "Shin Kurushima",
+        "country_built": "Japan",
+        "class": "KR",
+        "ss_due": "05/2028",
+        "dd_due": "06/2026",
+        "price_usd_m": 8.5,
+        "price_raw": "$ 8.5 mill",
+        "en_bloc": false,
+        "buyer": null,
+        "comments": "CPP trading, MR2."
       },
       {
         "issue_date": "2026-04-17",

@@ -56,6 +56,7 @@ demometer below:
 | **India** | 420-425 | 430-435 | 440-450 | Soft |
 | **Bangladesh** | 450 | 460-470 | 480-490 | Soft |
 
+
 ## Representative Sales
 
 ### Bulkers
@@ -67,17 +68,18 @@ demometer below:
 | **M/V SIROCCO** | 82,000 | 2014 | Sainty / China | $20.3M | Undisclosed | kamsarmax, traded grains & alumina the past 6 months. Increased price comparable with last week's sale of similar two-years older unit ELWAY (82k blt 2012 JNS/China) for $ 16.5 mill. |
 | **M/V AVALON** | 81,565 | 2011 | Sungdong / S. Korea | $17.8M | Undisclosed | basis surveys due, grain clean. Price in line with last week's sale of similar one-year younger unit JOHN M. CARRAS (82k blt 2012 DSME/S. Korea) for $ 18.2 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 firm INDIA 420 - 425 430 - 435 440 - 450 soft BANGLADESH 450 460 - 470 480 - 490 soft |
 | **M/V MANDY MORN** | 82,612 | 2008 | Tsuneishi Zhoushan / China | $14.0M | Undisclosed | Sold for $ 14 mill basis t/c free dely June/July with dry-docking surveys due. |
-| **M/V HUAYANG LILY** | - | - | - | $50.4M | Chinese buyers | 3,553 dwt, blt 2016, China Shipping (Jiangsu)/China, CC ss/dd due 06/2026, 5ho/5ha, 4 x 30t CR, MAN B&W 5S60ME-C8) & sister |
-| **M/V HUAYANG ROSE** | - | - | - | $50.4M | Chinese buyers | Eco m/e, ss/dd surveys due. Price in line with end March's sale of similar two-years older unit JIN RUI (64k blt 2014 Hantong/China) for $ 24 mill. |
+| **M/V HUAYANG LILY** | 63,553 | 2016 | - | $50.4M en bloc | Chinese buyers | & sister |
+| **M/V HUAYANG ROSE** | 63,562 | 2016 | - | $50.4M en bloc | Chinese buyers | Eco m/e, ss/dd surveys due. Price in line with end March's sale of similar two-years older unit JIN RUI (64k blt 2014 Hantong/China) for $ 24 mill. |
 | **M/V DOMINATOR** | 63,652 | 2021 | Shin Kasado / Japan | $38.0M | Undisclosed | grabs fitted, off market deal. Increased price comparable with mid-March's sale of same age ABILITY (64k blt 2021 Shin Kurushima/Japan) for $ 37 mill. |
-| **M/V ECUADOR L** | 57,937 | 2011 | Tsuneishi Cebu / Philippines | $16.7M | Undisclosed | & sister |
-| **M/V BULK COLOMBIA** | 57,937 | 2011 | Tsuneishi Cebu / Philippines | $16.7M | Undisclosed | new benchmark deal. |
+| **M/V ECUADOR L** | 57,937 | 2011 | Tsuneishi Cebu / Philippines | $16.7M each | Undisclosed | & sister |
+| **M/V BULK COLOMBIA** | 57,937 | 2011 | Tsuneishi Cebu / Philippines | $16.7M each | Undisclosed | new benchmark deal. |
 | **M/V MESSINIAN SPIRE** | 56,056 | 2008 | Mitsui / Japan | $14.5M | Middle Eastern buyers | basis dry-docking surveys due. Note: new benchmark deal. |
 | **M/V PLANET TEAM** | 53,477 | 2009 | Zhejiang Ningbo / China | $10.5M | Undisclosed | Sinopacific Crown 53 design, Turkish Lloyd (IACS class). |
 | **M/V INTERLINK FORTUITY** | 40,083 | 2017 | Taizhou Kouan / China | $21.7M | German buyers | Green Dolphin design, OH/Box, fitted with 2 x BWTS, Eco m/e. Relatively increased price comparable with late February's sale of two-years older Green Dolphin unit CL CONTIGO (41k blt 2015 Hantong/China) for $ 19.5 mill. |
 | **M/V GANT FLAIR** | 28,339 | 2010 | Imabari / Japan | $9.8M | European buyers | Sold for $ 9.8 mill to European buyers basis ss/dd surveys recently passed. |
 | **M/V SAPIENZA** | 18,917 | 2009 | Yamanishi / Japan | $7.8M | Turkish buyers | box shaped. |
 | **M/V HOPE STAR** | 17,476 | 2008 | Linhai Hongzhou / China | $2.5M | Vietnamese buyers | non-IACS class (Union Bureau of Shipping), gearless. |
+
 
 ### Tankers
 
@@ -86,6 +88,7 @@ demometer below:
 | **M/T STELLA** | 164,714 | 2011 | HSHI / S. Korea | $67.0M | Undisclosed | Sold for $ 67 mill. |
 | **M/T SELIGER** | 115,126 | 2009 | Sasebo / Japan | $50.3M | Undisclosed | Sold for $ 50.3 mill. |
 | **M/T ANTALYA** | 49,999 | 2016 | SPP / S. Korea | $40.0M | Turkish buyers | Sold for $ 40 mill to Turkish buyers including TC attached @ $ 18,750 p/d till November 2026. |
+
 
 ## Demolition Sales
 
@@ -105,9 +108,9 @@ demometer below:
 
 - **M/V MANDY MORN**: M/V MANDY MORN (82,612 dwt, blt 2008 Tsuneishi Zhoushan/China, RINA ss due 10/2028 dd due 07/2026, 7 ho/7 ha, MAN B&W 7S50MC-C) - Sold for $ 14 mill basis t/c free dely June/July with dry-docking surveys due.
 
-- **M/V HUAYANG LILY**: M/V HUAYANG LILY 3,553 dwt, blt 2016, China Shipping (Jiangsu)/China, CC ss/dd due 06/2026, 5ho/5ha, 4 x 30t CR, MAN B&W 5S60ME-C8) & sister
+- **M/V HUAYANG LILY**: M/V HUAYANG LILY (63,553 dwt, blt 2016, China Shipping (Jiangsu)/China, CC ss/dd due 06/2026, 5ho/5ha, 4 x 30t CR, MAN B&W 5S60ME-C8) & sister
 
-- **M/V HUAYANG ROSE**: M/V HUAYANG ROSE 3,562 dwt, blt 2016, China Shipping (Jiangsu)/China, CC ss/dd due 06/2026, 5ho/5ha, 4 x 35t CR, MAN B&W 5S60ME-C8) Sold en bloc for $ 50.4 mill to Chinese buyers, note: Eco m/e, ss/dd surveys due. Price in line with end March's sale of similar two-years older unit JIN RUI (64k blt 2014 Hantong/China) for $ 24 mill.
+- **M/V HUAYANG ROSE**: M/V HUAYANG ROSE (63,562 dwt, blt 2016, China Shipping (Jiangsu)/China, CC ss/dd due 06/2026, 5ho/5ha, 4 x 35t CR, MAN B&W 5S60ME-C8) Sold en bloc for $ 50.4 mill to Chinese buyers, note: Eco m/e, ss/dd surveys due. Price in line with end March's sale of similar two-years older unit JIN RUI (64k blt 2014 Hantong/China) for $ 24 mill.
 
 - **M/V DOMINATOR**: M/V DOMINATOR (63,652 dwt, blt 2021 Shin Kasado/Japan, NK ss/dd due 07/2026, 5 ho/5 ha, 4 x 30.5t CR, MAN B&W 6S50ME-B9) - Sold for $ 38 mill, note: grabs fitted, off market deal. Increased price comparable with mid-March's sale of same age ABILITY (64k blt 2021 Shin Kurushima/Japan) for $ 37 mill.
 
@@ -134,3 +137,5 @@ demometer below:
 - **M/T SELIGER**: M/T SELIGER (115,126 dwt, blt 2009 Sasebo/Japan, NK ss due 03/2029 dd due 03/2027, 3 x pumps, igs, cow) - Sold for $ 50.3 mill.
 
 - **M/T ANTALYA**: M/T ANTALYA (49,999 dwt, blt 2016 SPP/S. Korea, NV ss/dd due 07/2026, Epoxy Phenolic, 12 x pumps, igs, cow, IMO II/III) - Sold for $ 40 mill to Turkish buyers including TC attached @ $ 18,750 p/d till November 2026.
+
+

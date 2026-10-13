@@ -50,19 +50,20 @@ market rates, please check our comprehensive demometer below:
 | **India** | 400 | 410-415 | 425-435 | Negative |
 | **Bangladesh** | 470-480 | 490-500 | 520-530 | Stable |
 
+
 ## Representative Sales
 
 ### Bulkers
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V RTM DAMPIER** | 205,449 | 2012 | HHIC-Phil / Philippines | $88.0M | Swiss buyers (clients of Mercuria) | & |
-| **M/V RTM COLUMBUS** | 205,514 | 2013 | HHIC-Phil / Philippines | $88.0M | Swiss buyers (clients of Mercuria) | eco m/e, almost same level as April's en bloc sale of exact sisters RTM CARTIER & RTM ZHENG HE for $ 90 mill. |
+| **M/V RTM DAMPIER** | 205,449 | 2012 | HHIC-Phil / Philippines | $88.0M en bloc | Swiss buyers (clients of Mercuria) | & |
+| **M/V RTM COLUMBUS** | 205,514 | 2013 | HHIC-Phil / Philippines | $88.0M en bloc | Swiss buyers (clients of Mercuria) | eco m/e, almost same level as April's en bloc sale of exact sisters RTM CARTIER & RTM ZHENG HE for $ 90 mill. |
 | **M/V CORNELIE OLDENDORFF** | 93,246 | 2011 | Yangfan / China | $15.8M | Greek buyers | scrubber fitted, fuel saving devices fitted, post-panamax Increased price compared to last month's sale of OCEAN ARTEMIS (98.1k blt 2011 Jinling/China) for $ 15 mill. |
 | **M/V SEACON HAMBURG** | 85,505 | 2023 | CSSC Huangpu Wenchong / China | $37.5M | Cypriot buyers | Sold for $ 37.5 mill to Cypriot buyers including balance of index linked t/c attached till 2028. |
 | **M/V ETRON** | 81,080 | 2016 | Jinling / China | $27.0M | clients of Agricore | Eco m/e, ss/dd due. Increased price compared with March's sale of sister TALIMEN (81k blt 2026 Jinling/China) for $25.6 mill. |
-| **M/V QIDONG XIANGYU XY197** | 63,800 | - | - | $75.0M | Undisclosed | & |
-| **M/V QIDONG XIANGYU XY198** | 63,800 | - | - | $75.0M | Undisclosed | ultramax resales. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 300 - 310 firm PAKISTAN 460 470 - 480 490 -500 stable INDIA 400 410 - 415 425 - 435 negative BANGLADESH 470 - 480 490 - 500 520 - 530 stable |
+| **M/V QIDONG XIANGYU XY197** | 63,800 | - | - | $75.0M en bloc | Undisclosed | & |
+| **M/V QIDONG XIANGYU XY198** | 63,800 | - | - | $75.0M en bloc | Undisclosed | ultramax resales. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 300 - 310 firm PAKISTAN 460 470 - 480 490 -500 stable INDIA 400 410 - 415 425 - 435 negative BANGLADESH 470 - 480 490 - 500 520 - 530 stable |
 | **M/V ULTRA SAKA** | 63,526 | 2013 | Chengxi / China | $23.0M | Undisclosed | Tier II, eco m/e Sellers acquired her as "MITSOS" on January this year for $ 20.5 mill, thus realizing a profit of nearly $ 3 mill within a few months. |
 | **M/V ST PAUL** | 57,982 | 2010 | Tsuneishi Cebu / Philippines | $16.8M | Undisclosed | offers invited 24th June 2026, the vessel is employed in the CTM/RSA pool and have a 90 days redelivery notice. |
 | **M/V UNITY MARIA** | 55,705 | 2012 | HMD / Korea | $16.7M | Undisclosed | Sold for region $ 16.5 - $ 16.7 mill, new benchmark sale |
@@ -77,6 +78,7 @@ market rates, please check our comprehensive demometer below:
 | **M/V DEVBULK IMABARI** | 29,451 | 2009 | Imabari / Japan | $10.5M | Turkish buyers | open hatch, box-shaped. |
 | **M/V PRAETORIUS** | 28,345 | 2008 | Shimanami / Japan | $8.6M | Vietnamese buyers | Sold for $ 8.6 mill to Vietnamese buyers. |
 
+
 ### Tankers
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
@@ -85,12 +87,14 @@ market rates, please check our comprehensive demometer below:
 | **M/T XINGTONG 799** | 49,962 | 2011 | Onomichi / Japan | $27.5M | Undisclosed | ss/dd passed Jan 2025. |
 | **M/T DYLAN** | 49,998 | 2009 | GSI / China | $20.9M | Undisclosed | Understand committed for $ 20.9 mill. |
 
+
 ## Demolition Sales
 
 | Vessel | Type | DWT | LDT | Built | Yard | Price ($/LT) | Destination | Comments / Terms |
 |:---|:---|---:|---:|:---:|:---|:---|:---|:---|
 | **M/V ANDHIKA PARAMESTI** | Bulkers | 73,726 | 9,520 | 1997 | Sumitomo / Japan | $451/lt | Subcontinent | Demo for $451 per lt basis "as is" Sambu, Indobesia. Tween/Mpp/Gen.Cargo: |
 | **M/V XIN HAI 18** | Bulkers | 4,395 | 1,567 | 2004 | Wenling Yongfa / China | $410/lt | Bangladesh | Demo for $410 per lt to Bangladesh |
+
 
 ## Deal Narratives & Commercial Details
 
@@ -149,3 +153,5 @@ market rates, please check our comprehensive demometer below:
 - **M/V ANDHIKA PARAMESTI**: M/V ANDHIKA PARAMESTI (LDT 9520, 73,726 dwt, blt 1997 Sumitomo/Japan, RI, 7 ho/7 ha, Sulzer 7RTA48T) - Demo for $451 per lt basis "as is" Sambu, Indobesia. Tween/Mpp/Gen.Cargo:
 
 - **M/V XIN HAI 18**: M/V XIN HAI 18 (LDT 1567, 4,395 dwt, blt 2004 Wenling Yongfa/China, IT, gearless, tweendecker) - Demo for $410 per lt to Bangladesh
+
+

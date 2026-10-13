@@ -744,18 +744,18 @@
         "section": "TANKERS",
         "tag": "M/T",
         "vessel": "FRONT OSEN",
-        "dwt": null,
-        "built_year": null,
-        "yard": null,
-        "country_built": null,
-        "class": null,
-        "ss_due": null,
-        "dd_due": null,
+        "dwt": 298991,
+        "built_year": 2016,
+        "yard": "Hyundai",
+        "country_built": "S. Korea",
+        "class": "NV",
+        "ss_due": "08/2026",
+        "dd_due": "08/2026",
         "price_usd_m": 831.5,
         "price_raw": "$831.5 mill",
         "en_bloc": true,
         "buyer": "South Korean buyers (clients of Sinocor)",
-        "comments": "98,991 dwt, blt 2016 Hyundai/S. Korea, NV, ss/dd due 08/2026"
+        "comments": ""
       },
       {
         "issue_date": "2026-01-16",
@@ -963,7 +963,7 @@
         "price_usd_m": 125.0,
         "price_raw": "$ 125 mill",
         "en_bloc": true,
-        "buyer": "clients of Trafigura M/T STI KINGSWAY (109",
+        "buyer": "clients of Trafigura",
         "comments": ""
       },
       {
@@ -982,8 +982,27 @@
         "price_usd_m": 125.0,
         "price_raw": "$ 125 mill",
         "en_bloc": true,
-        "buyer": "clients of Trafigura M/T STI KINGSWAY (109",
-        "comments": "Sold en bloc for $ 125 mill each to clients of Trafigura M/T STI KINGSWAY (109,999 dwt, blt 2015 Sungdong/S. Korea, NV ss due 08/2030 dd due 06/2028, EPOXY, 3 x pumps, igs, cow) - Sold for $ 57.5 mill"
+        "buyer": "clients of Trafigura",
+        "comments": "Sold en bloc for $ 125 mill each to clients of Trafigura"
+      },
+      {
+        "issue_date": "2026-01-16",
+        "report_week": 3,
+        "section": "TANKERS",
+        "tag": "M/T",
+        "vessel": "STI KINGSWAY",
+        "dwt": 109999,
+        "built_year": 2015,
+        "yard": "Sungdong",
+        "country_built": "S. Korea",
+        "class": "NV",
+        "ss_due": "08/2030",
+        "dd_due": "06/2028",
+        "price_usd_m": 57.5,
+        "price_raw": "$ 57.5 mill",
+        "en_bloc": false,
+        "buyer": null,
+        "comments": "Sold for $ 57.5 mill"
       },
       {
         "issue_date": "2026-01-16",
@@ -1143,14 +1162,14 @@
         "tag": "M/V",
         "vessel": "SALTLAKE",
         "dwt": null,
-        "ldt": null,
-        "built_year": null,
+        "ldt": 4269,
+        "built_year": 1986,
         "yard": null,
         "country_built": null,
         "price_usd_per_lt": 380.0,
         "price_raw": "$380 per lt",
         "destination": "India",
-        "comments": "DT 4,269 dwt, blt 1986 Kochi (Eiho) /Japan, KR) - Demo for $380 per lt to INDIA"
+        "comments": "Demo for $380 per lt to INDIA"
       }
     ]
   }

@@ -105,14 +105,14 @@ overview of demolition market rates, please check our comprehensive demometer be
 | **M/T XI XIU** | 299,996 | 2003 | Samsung / Korea | $61.0M | UAE or Greek buyers | Sellers bought her for $ 31 mill back in February 2025. |
 | **M/T DENNIE** | 308,491 | 2000 | Hyundai / Korea | $40.0M | UAE buyers (clients of Onex) | Sellers bought her for $ 30 mill back in summer of 2025. |
 | **M/T STELLA** | 164,714 | 2011 | Hyundai / Korea | $80.0M | Singapore based buyers | Sold for $ 80 mill to Singapore based buyers. |
-| **M/T EVRIDIKI** | 167,294 | 2007 | Hyundai / Korea | $68.0M | to UAE buyers (clients of Onex) | - |
-| **M/T ORPHEAS** | 167,282 | 2007 | Hyundai / Korea | $68.0M | to UAE buyers (clients of Onex) | Sold en bloc for $ 68 mill each to to UAE buyers (clients of Onex). |
+| **M/T EVRIDIKI** | 167,294 | 2007 | Hyundai / Korea | $68.0M each | to UAE buyers (clients of Onex) | - |
+| **M/T ORPHEAS** | 167,282 | 2007 | Hyundai / Korea | $68.0M each | to UAE buyers (clients of Onex) | Sold en bloc for $ 68 mill each to to UAE buyers (clients of Onex). |
 | **M/T HEDDA KNUTSEN** | 154,348 | 2024 | COSCO / China | $113.0M | Norwegian buyers | Sold for $ 113 mill to Norwegian buyers. |
 | **M/T KOS** | 115,026 | 2025 | Shanhaiguan / China | $95.0M | Greek buyers | scrubber fitted. |
 | **M/T GREEN ADVENTURE** | 114,319 | 2022 | COSCO / China | $83.0M | Greek buyers | Sold for $ 83 mill to Greek buyers. |
 | **M/T PS AMALFI** | 108,958 | 2010 | Hudong / China | $45.0M | Chinese buyers | DPP trading/LR2. |
-| **M/T MARLIN HERA** | 74,198 | 2017 | Sungdong / Korea | $49.0M | Undisclosed | - |
-| **M/T MARLIN HESTIA** | 74,260 | 2017 | Sungdong / Korea | $49.0M | Undisclosed | Sold en bloc for $ 49 mill each. |
+| **M/T MARLIN HERA** | 74,198 | 2017 | Sungdong / Korea | $49.0M each | Undisclosed | - |
+| **M/T MARLIN HESTIA** | 74,260 | 2017 | Sungdong / Korea | $49.0M each | Undisclosed | Sold en bloc for $ 49 mill each. |
 | **M/T MARTINI** | 69,431 | 2006 | Daewoo-Mangalia / Romania | $19.5M | Undisclosed | DPP trading. |
 | **M/T PUFFIN TWO** | 7,022 | 2009 | Titan Quanzhou / China | $4.5M | Middle Eastern buyers | bunkering tanker. |
 

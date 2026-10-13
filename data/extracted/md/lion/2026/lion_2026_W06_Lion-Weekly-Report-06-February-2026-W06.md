@@ -84,15 +84,15 @@ demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V MAX WARRIOR** | - | - | - | $43.0M | Undisclosed | newcastlemax |
+| **M/V MAX WARRIOR** | 205,361 | 2014 | - | $43.0M | Undisclosed | newcastlemax |
 | **M/V IRENE II** | 180,184 | 2006 | Imabari Shbldg / Japan | $21.0M | Chinese buyers | Sold for $ 21 mill to Chinese buyers basis surveys due. |
 | **M/V ROYAL AWARD** | 88,266 | 2007 | Imabari / Japan | $11.5M | Chinese buyers | coal carrier, 38 mtrs beam, post panamax. |
 | **M/V ATHINA CARRAS** | 82,057 | 2012 | DSME / S. Korea | $17.5M | Greek buyers | Tier-2, Greek flag/management |
 | **M/V GASTONE** | 81,521 | 2012 | Sungdong / S. Korea | $17.5M | Undisclosed | Sold for $ 17.5 mill. |
 | **M/V AYA** | 82,992 | 2006 | Tsuneishi / Japan | $10.7M | Undisclosed | Sold for $ 10.7 mill. |
 | **M/V CS CANDY** | 37,459 | 2012 | Tianjin Xingang / China | $11.0M | Undisclosed | Sold for $ 11 mill. |
-| **M/V AFRICAN DOVE** | 34,402 | 2014 | Namura / Japan | $16.5M | Undisclosed | - |
-| **M/V AFRICAN LARK** | 34,402 | 2014 | Namura / Japan | $16.5M | Undisclosed | eco m/e |
+| **M/V AFRICAN DOVE** | 34,402 | 2014 | Namura / Japan | $16.5M each | Undisclosed | - |
+| **M/V AFRICAN LARK** | 34,402 | 2014 | Namura / Japan | $16.5M each | Undisclosed | eco m/e |
 | **M/V EUROSKY** | 33,774 | 2011 | Samjin / China | $11.0M | Undisclosed | Sold for $ 11 mill. |
 | **M/V AMIRA RAFIF** | 32,355 | 2004 | Kanda / Japan | $8.0M | Chinese buyers | Sold for $ 8 mill to Chinese buyers. |
 | **M/V NEVA** | 31,824 | 2000 | Hakodate / Japan | $5.4M | Chinese buyers | Sold for $ 5.4 mill to Chinese buyers. |
@@ -129,7 +129,7 @@ demometer below:
 
 ### Bulkers
 
-- **M/V MAX WARRIOR**: M/V MAX WARRIOR 05,361 dwt, blt 2014 Qidong Daoda (DDHI)/China, LR ss due 07/2029 dd due 11/2027, 9 ho/9 ha, MAN B&W 6S70MC-C8) - Sold for $ 43 mill, note: newcastlemax
+- **M/V MAX WARRIOR**: M/V MAX WARRIOR (205,361 dwt, blt 2014 Qidong Daoda (DDHI)/China, LR ss due 07/2029 dd due 11/2027, 9 ho/9 ha, MAN B&W 6S70MC-C8) - Sold for $ 43 mill, note: newcastlemax
 
 - **M/V IRENE II**: M/V IRENE II (180,184 dwt, blt 2006 Imabari Shbldg /Japan, NK ss/dd due 01/2026, 9 ho/9 ha, MAN B&W 6S70MC-C) - Sold for $ 21 mill to Chinese buyers basis surveys due.
 

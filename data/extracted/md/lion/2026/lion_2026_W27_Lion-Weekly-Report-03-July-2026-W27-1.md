@@ -68,6 +68,7 @@ comprehensive demometer below:
 | **India** | 390 | 400-410 | 410-420 | Down |
 | **Bangladesh** | 475-485 | 495-505 | 510-520 | Firm |
 
+
 ## Representative Sales
 
 ### Bulkers
@@ -89,14 +90,16 @@ comprehensive demometer below:
 | **M/V LILA TOCHIGI** | 28,354 | 2014 | I-S / Japan | $12.5M | Undisclosed | Sold for $ 12.5 mill. |
 | **M/V HTK LUCKY** | 28,481 | 2003 | Imabari / Japan | $6.0M | Undisclosed | logs fitted. |
 
+
 ### Tankers
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T C. INNOVATOR** | 313,999 | 2012 | Dalian / China | $52.0M | Undisclosed | Sold for $ 52 mill including balance of t/c to Mercuria until Jun/Oct 2027 at about $ 28k p/d. notes: offers received 12th June 2026, scrubber fitted. |
 | **M/T JAG LOKESH** | 105,599 | 2009 | HHI / Korea | $44.0M | Undisclosed | DPP trading LR2, scrubber fitted. |
-| **M/T CAROLINE** | 45,999 | 2002 | STX / Korea | $19.0M | Chinese buyers | - |
-| **M/T LANIKAI** | 46,342 | 2002 | STX / Korea | $19.0M | Chinese buyers | Sold en bloc for $ 19 mill to Chinese buyers. |
+| **M/T CAROLINE** | 45,999 | 2002 | STX / Korea | $19.0M en bloc | Chinese buyers | - |
+| **M/T LANIKAI** | 46,342 | 2002 | STX / Korea | $19.0M en bloc | Chinese buyers | Sold en bloc for $ 19 mill to Chinese buyers. |
+
 
 ### Container / MPP / Tween
 
@@ -105,6 +108,7 @@ comprehensive demometer below:
 | **C/V AS ANGELINA** | 30,607 | 2007 | Aker MTW / Germany | $17.0M | Undisclosed | Sold for $ 17 mill. |
 | **C/V AS SELINA** | 23,295 | 2012 | GWS / China | $24.0M | Undisclosed | Sold for $ 24 mill. |
 | **C/V NJORD** | 9,543 | 2007 | Sainty / China | $7.5M | Spanish buyers (clients of JSV Logistic) | Sold for $ 7.5 mill to Spanish buyers (clients of JSV Logistic) |
+
 
 ## Demolition Sales
 
@@ -159,3 +163,5 @@ comprehensive demometer below:
 - **M/T CAROLINE**: M/T CAROLINE (45,999 dwt, blt 2002 STX/Korea, AB ss/dd due 11/2027, EPOXY tanks, 12 x pumps, igs, cow, IMO II)
 
 - **M/T LANIKAI**: M/T LANIKAI (46,342 dwt, blt 2002 STX/Korea, LR ss due 12/2027 dd due 07/2026, EPOXY tanks, 12 x pumps, igs, cow, IMO II) - Sold en bloc for $ 19 mill to Chinese buyers.
+
+

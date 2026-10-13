@@ -86,8 +86,8 @@ demolition market rates, please check our comprehensive demometer below:
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V STAR SCARLETT** | 175,649 | 2014 | Jinhai / China | $36.0M | Chinese buyers | Sold for $ 36 mill to Chinese buyers. |
 | **M/V SMYRNA** | 176,877 | 2008 | Namura / Japan | $25.3M | Chinese buyers | Sold for $ 25.3 mill to Chinese buyers. |
-| **M/V ANGLO BARINTHUS** | 81,628 | 2013 | Sainty / China | $17.0M | Undisclosed | - |
-| **M/V ANGLO RED** | 81,712 | 2013 | Sainty / China | $17.0M | Undisclosed | Committed on subjects for $ 17 mill each en bloc. |
+| **M/V ANGLO BARINTHUS** | 81,628 | 2013 | Sainty / China | $17.0M each | Undisclosed | - |
+| **M/V ANGLO RED** | 81,712 | 2013 | Sainty / China | $17.0M each | Undisclosed | Committed on subjects for $ 17 mill each en bloc. |
 | **M/V LIMA TRADER** | 56,729 | 2012 | Qingshan Shipyard / China | $13.2M | Undisclosed | Sold for $ 13.2 mill. |
 | **M/V LUMINA** | 55,865 | 2015 | Mitsui / Japan | $22.0M | Greek buyers (clients of Niovis Shipping) | Sold for $ 22 mill to Greek buyers (clients of Niovis Shipping). |
 | **M/V ELVITA R** | 53,428 | 2009 | Zhejiang Shbldg / China | $8.95M | Undisclosed | Sold last week at Indian court sale for about $ 8.95 mill (highest bid INR 810 million). |
@@ -100,8 +100,8 @@ demolition market rates, please check our comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/T INGRID** | 314,000 | 2012 | Hyundai Ulsan / S. Korea | $89.0M | South Korean buyers (clients of Sinokor) | - |
-| **M/T ILMA** | 314,000 | 2012 | Hyundai Ulsan / Korea | $89.0M | South Korean buyers (clients of Sinokor) | Sold en bloc for $ 89 mill each to South Korean buyers (clients of Sinokor). |
+| **M/T INGRID** | 314,000 | 2012 | Hyundai Ulsan / S. Korea | $89.0M each | South Korean buyers (clients of Sinokor) | - |
+| **M/T ILMA** | 314,000 | 2012 | Hyundai Ulsan / Korea | $89.0M each | South Korean buyers (clients of Sinokor) | Sold en bloc for $ 89 mill each to South Korean buyers (clients of Sinokor). |
 | **M/T EAGLE VARNA** | 299,989 | 2013 | DSME / S. Korea | $86.5M | South Korean buyers (clients of Sinokor) | Sold for $ 86.5 mill to South Korean buyers (clients of Sinokor). |
 | **M/T NORDIC POLLUX** | 150,103 | 2003 | Universal / Japan | $25.0M | Undisclosed | Sold for $ 25 mill. |
 | **M/T NORDSYMPHONY** | 106,246 | 2008 | Tsuneishi / Japan | $35.5M | Undisclosed | Sold for $ 35.5 mill. |
@@ -110,8 +110,8 @@ demolition market rates, please check our comprehensive demometer below:
 | **M/T CABO FROWARD** | 74,543 | 2006 | Sasebo / Japan | $12.5M | Greek buyers | Sold for $ 12.5 mill to Greek buyers |
 | **M/T KYRA** | 47,931 | 2006 | Iwagi Zosen / Japan | $11.5M | Undisclosed | Sold for $ 11.5 mill. |
 | **M/T HAFNIA LEO** | 49,999 | 2013 | GSI / China | $23.0M | Undisclosed | Sold for $ 23 mill. |
-| **M/T ELANDRA BALTIC** | 51,406 | 2011 | HMD / S. Korea | $24.2M | Greek buyers | - |
-| **M/T ELANDRA FJORD** | - | - | - | $24.2M | Greek buyers | Ice 1B |
+| **M/T ELANDRA BALTIC** | 51,406 | 2011 | HMD / S. Korea | $24.2M each | Greek buyers | - |
+| **M/T ELANDRA FJORD** | 51,408 | 2011 | HMD / S. Korea | $24.2M each | Greek buyers | Ice 1B |
 
 
 ### Container / MPP / Tween
@@ -181,7 +181,7 @@ demolition market rates, please check our comprehensive demometer below:
 
 - **M/T ELANDRA BALTIC**: M/T ELANDRA BALTIC (51,406 dwt, blt 2011 HMD/S. Korea, LR ss due 11/2030 dd due 10/2028, epoxy, 12 x pumps, igs, cow, IMO II/III)
 
-- **M/T ELANDRA FJORD**: M/T ELANDRA FJORD 1,408 dwt, blt 2011 HMD/S. Korea, LR ss due 06/2030 dd due 06/2028, epoxy, 12 x pumps, igs, cow, IMO II/III - Sold en bloc for $ 24.2 mill each to Greek buyers, note: Ice 1B
+- **M/T ELANDRA FJORD**: M/T ELANDRA FJORD (51,408 dwt, blt 2011 HMD/S. Korea, LR ss due 06/2030 dd due 06/2028, epoxy, 12 x pumps, igs, cow, IMO II/III) - Sold en bloc for $ 24.2 mill each to Greek buyers, note: Ice 1B
 
 ### Demolition
 

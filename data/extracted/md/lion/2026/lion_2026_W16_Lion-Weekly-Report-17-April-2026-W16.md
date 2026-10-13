@@ -60,8 +60,8 @@ market rates, please check our comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V RTM ZHENG HE** | 205,431 | 2012 | HHIC-Phil / PHILIPPINES | $90.0M | Chinese buyers | - |
-| **M/V RTM CARTIER** | 205,507 | 2012 | HHIC-Phil / PHILIPPINES | $90.0M | Chinese buyers | Newcastlemax, eco m/e, $6 mill step up in price compared with the September 2025 sale of sistership M/V "MINERAL CLOUDBREAK" (205,097 dwt, blt 2012 at HHIC-Phil Inc) at $ 39 mill. |
+| **M/V RTM ZHENG HE** | 205,431 | 2012 | HHIC-Phil / PHILIPPINES | $90.0M en bloc | Chinese buyers | - |
+| **M/V RTM CARTIER** | 205,507 | 2012 | HHIC-Phil / PHILIPPINES | $90.0M en bloc | Chinese buyers | Newcastlemax, eco m/e, $6 mill step up in price compared with the September 2025 sale of sistership M/V "MINERAL CLOUDBREAK" (205,097 dwt, blt 2012 at HHIC-Phil Inc) at $ 39 mill. |
 | **M/V LOWLANDS SPIRIT** | 182,820 | 2019 | Imabari / Japan | $65.0M | Undisclosed | increased price compared with the June 2025 sale of one-year younger M/V "GENCO COURAGEOUS" (182,868 dwt, blt 2020 at Imabari/Japan) at $ 64 mill. |
 | **M/V YANGZE 901** | 93,229 | 2012 | JNS / China | $12.8M | Chinese buyers | price in line with the February sale of sistership M/V "WELFINE" (93,146 dwt, blt 2011 at JNS/China) at $11.8 mill. |
 | **M/V OHSHU MARU** | 92,075 | 2011 | Namura / Japan | $16.1M | Undisclosed | 38 meters beam. |
@@ -83,7 +83,8 @@ market rates, please check our comprehensive demometer below:
 | **M/T ASIA ASCEND** | 115,444 | 2004 | Samsung / S. Korea | $32.5M | Chinese buyers | Sold for $ 32.5 mill to Chinese buyers. |
 | **M/T PM IMPERIAL** | 76,574 | 2007 | Dalian / China | $20.0M | Undisclosed | trading CPP. |
 | **M/T EVER VICTORY** | 70,426 | 2005 | Universal / Japan | $14.68M | Undisclosed | clean trading, LR1. |
-| **M/T PRO ONYX** | 49,999 | 2019 | HMD / S. Korea | $39.0M | Undisclosed | scrubber fitted, on TC to Cargill until Sep 2026. M/T GT FREEDOM (45,994 dwt, blt 2003 Shin Kurushima/Japan, KR ss due 05/2028 dd due 06/2026, EPOXY, 4 xpumps, igs) - Sold for $ 8.5 mill, note: CPP trading, MR2. |
+| **M/T PRO ONYX** | 49,999 | 2019 | HMD / S. Korea | $39.0M | Undisclosed | scrubber fitted, on TC to Cargill until Sep 2026. |
+| **M/T GT FREEDOM** | 45,994 | 2003 | Shin Kurushima / Japan | $8.5M | Undisclosed | CPP trading, MR2. |
 | **M/T EAST COAST** | 37,515 | 2005 | HMD / S. Korea | $11.7M | Undisclosed | scrubber fitted, Ice 1B. |
 | **M/T JBU SAPPHIRE** | 19,860 | 2009 | Kitanihon / Japan | $18.7M | Chinese buyers | J19, stainless steel tanks. |
 
@@ -150,7 +151,9 @@ market rates, please check our comprehensive demometer below:
 
 - **M/T EVER VICTORY**: M/T EVER VICTORY (70,426 dwt, blt 2005 Universal/Japan, NK ss due 06/2030 dd due 07/2028, EPOXY, 3 x pumps, igs, cow) - Sold for $ 14.68 mill, note: clean trading, LR1.
 
-- **M/T PRO ONYX**: M/T PRO ONYX (49,999 dwt, blt 2019 HMD/S. Korea, KR ss due 09/2029 dd due 09/2027, EPOXY, 12 x pumps, igs, IMO II/III) - Sold for $ 39 mill, note: scrubber fitted, on TC to Cargill until Sep 2026. M/T GT FREEDOM (45,994 dwt, blt 2003 Shin Kurushima/Japan, KR ss due 05/2028 dd due 06/2026, EPOXY, 4 xpumps, igs) - Sold for $ 8.5 mill, note: CPP trading, MR2.
+- **M/T PRO ONYX**: M/T PRO ONYX (49,999 dwt, blt 2019 HMD/S. Korea, KR ss due 09/2029 dd due 09/2027, EPOXY, 12 x pumps, igs, IMO II/III) - Sold for $ 39 mill, note: scrubber fitted, on TC to Cargill until Sep 2026.
+
+- **M/T GT FREEDOM**: M/T GT FREEDOM (45,994 dwt, blt 2003 Shin Kurushima/Japan, KR ss due 05/2028 dd due 06/2026, EPOXY, 4 xpumps, igs) - Sold for $ 8.5 mill, note: CPP trading, MR2.
 
 - **M/T EAST COAST**: M/T EAST COAST (37,515 dwt, blt 2005 HMD/S. Korea, LR ss due 03/2030 dd due 04/2028, Epoxy Phenolic, 12 x pumps, igs, cow, IMO II/III) - Sold for $ 11.7 mill, note: scrubber fitted, Ice 1B.
 

@@ -65,6 +65,7 @@ this week, please check our comprehensive demometer below:
 | **India** | 380-390 | 400 | 410 | Soft |
 | **Bangladesh** | 400 | 430-435 | 430-440 | Soft |
 
+
 ## Representative Sales
 
 ### Bulkers
@@ -78,29 +79,31 @@ this week, please check our comprehensive demometer below:
 | **M/V ATHENA** | 61,501 | 2011 | Oshima / Japan | $17.75M | Greek buyers | sold to Greek buyers for $17.75 mill including balance of t/c attached @ $14,750 p/d till Dec 25 - Feb 26 |
 | **M/V STONEWELL PIONEER** | 56,533 | 2014 | Sanfu / China | $14.5M | Chinese buyers | waiving inspection, was also reported sold back in July for similar price |
 | **M/V DOGAN** | 38,691 | 2013 | SPP / S. Korea | $14.8M | Undisclosed | was also reported sold back in April |
-| **M/V AFRICAN GOSHAWK** | 34,370 | 2016 | Namura / Japan | $52.5M | Greek buyers (clients of Brave Maritime) | - |
-| **M/V AFRICAN HERON** | 34,387 | 2016 | Namura / Japan | $52.5M | Greek buyers (clients of Brave Maritime) | - |
-| **M/V AFRICAN MERLIN** | 34,376 | 2016 | Namura / Japan | $52.5M | Greek buyers (clients of Brave Maritime) | Sold en bloc for region $52.5 mill ($17.5 mill each) to Greek buyers (clients of Brave Maritime) |
+| **M/V AFRICAN GOSHAWK** | 34,370 | 2016 | Namura / Japan | $52.5M each | Greek buyers (clients of Brave Maritime) | - |
+| **M/V AFRICAN HERON** | 34,387 | 2016 | Namura / Japan | $52.5M each | Greek buyers (clients of Brave Maritime) | - |
+| **M/V AFRICAN MERLIN** | 34,376 | 2016 | Namura / Japan | $52.5M each | Greek buyers (clients of Brave Maritime) | Sold en bloc for region $52.5 mill ($17.5 mill each) to Greek buyers (clients of Brave Maritime) |
 | **M/V ST THERESA** | 32,610 | 2006 | Kanda / Japan | $7.5M | undisclosed buyers | logs fitted |
 | **M/V DANNY BOY** | 28,386 | 2005 | Imabari / Japan | $5.5M | undisclosed buyers | logs fitted |
+
 
 ### Tankers
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T ASTARI I** | 149,991 | 2002 | NKK Corp / Japan | $19.8M | undisclosed buyers | sold for $19.8 mill to undisclosed buyers |
-| **M/T KMARIN RESPECT** | 109,584 | 2016 | STX / S. Korea | $46.0M | Undisclosed | - |
-| **M/T KMARIN RENOWN** | 109,693 | 2016 | STX / S. Korea | $46.0M | Undisclosed | - |
-| **M/T KMARIN RELIANCE** | 109,466 | 2016 | STX / S. Korea | $46.0M | Undisclosed | including balance of charter to BP Shipping as follows: a. KMARIN RESPECT: $23,251 p/d / till 4th Feb. 2026 b. KMARIN RENOWN: $23,149 p/d / till 6th Mar. 2026 c. KMARIN RELIANCE: $22,994 p/d / till 17th Apr. 2026 |
+| **M/T KMARIN RESPECT** | 109,584 | 2016 | STX / S. Korea | $46.0M each | Undisclosed | - |
+| **M/T KMARIN RENOWN** | 109,693 | 2016 | STX / S. Korea | $46.0M each | Undisclosed | - |
+| **M/T KMARIN RELIANCE** | 109,466 | 2016 | STX / S. Korea | $46.0M each | Undisclosed | including balance of charter to BP Shipping as follows: a. KMARIN RESPECT: $23,251 p/d / till 4th Feb. 2026 b. KMARIN RENOWN: $23,149 p/d / till 6th Mar. 2026 c. KMARIN RELIANCE: $22,994 p/d / till 17th Apr. 2026 |
 | **M/T HYDRA** | 105,744 | 2004 | Sumitomo / Japan | $20.75M | undisclosed buyers | sold for $20.75 mill basis surveys due to undisclosed buyers |
 | **M/T OCEANUS** | 150,393 | 2008 | Universal / Japan | $38.0M | Chinese buyers | scrubber fitted |
 | **M/T STAVANGER POSEIDON** | 49,999 | 2020 | Hyundai / Vietnam | $44.15M | Pakistani buyers | scrubber fitted, Tier 3, ss/dd recently passed Aug. 2025, imo2/3 |
 | **M/T ARRAN** | 34,825 | 2022 | Mawei / China | $34.0M | undisclosed buyers | 2 x WinGD main engines (2-stroke), imo 3 |
 | **M/T SAN SEBASTIAN** | - | 2007 | Hyundai Mipo / S. Korea | $13.2M | Undisclosed | ice class 1B, imo2/3 |
 | **M/T MASIRAH** | 12,885 | 2007 | Samho / S. Korea | $8.7M | undisclosed buyers | imo 2 |
-| **M/T MINERVA LISA** | 103,755 | 2004 | Samsung / S. Korea | $43.0M | Undisclosed | - |
-| **M/T MINERVA IRIS** | 103,124 | 2004 | Samsung / S. Korea | $43.0M | Undisclosed | ice class, cap 1 |
+| **M/T MINERVA LISA** | 103,755 | 2004 | Samsung / S. Korea | $43.0M each | Undisclosed | - |
+| **M/T MINERVA IRIS** | 103,124 | 2004 | Samsung / S. Korea | $43.0M each | Undisclosed | ice class, cap 1 |
 | **M/T ROSE M** | 45,838 | 2005 | Shin Kurushima / Japan | $11.0M | Nigerian buyers | understand previous sale to Middle Eastern buyers fell through |
+
 
 ### Container / MPP / Tween
 
@@ -109,6 +112,7 @@ this week, please check our comprehensive demometer below:
 | **C/V X-PRESS KARAKORAM** | 37,934 | 2008 | Aker / Germany | $30.0M | undisclosed buyers | scrubber fitted |
 | **M/V KALLIO** | 21,353 | 2006 | Shanghai Edward / China | - | Norwegian buyers | Super Ice Class, bow + stern thrusters, suitable for project cargo |
 | **C/V OKEE CUNO** | 23,710 | 2008 | GWS / China | $21.0M | Undisclosed | older sale |
+
 
 ## Demolition Sales
 
@@ -177,3 +181,5 @@ this week, please check our comprehensive demometer below:
 - **M/T MINERVA IRIS**: M/T MINERVA IRIS (103,124 dwt, blt 2004 Samsung/S. Korea, ABS ss due 09/2029 dd due 08/2027, Ice FS 1B, 14xtanks, 3xpumps, B&W 7S60MC, igs, cow) - sold en bloc to U.A.E buyers for region $43 mill basis surveys freshly passed ($21.5 mill each), note: ice class, cap 1
 
 - **M/T ROSE M**: M/T ROSE M (45,838 dwt, blt 2005 Shin Kurushima/Japan, BV, ss due 04/2029 dd due 04/2027, 12x epoxy tanks, 4xpumps, MITSUBISHI 6UEC60LA, igs) - sold for region low $11 mill to Nigerian buyers, note: understand previous sale to Middle Eastern buyers fell through
+
+

@@ -53,24 +53,28 @@ For an overview of demolition market rates, please check our comprehensive demom
 | **India** | 440 | 450 | 460 | Stable |
 | **Bangladesh** | 470-475 | 500 | 510 | Weak |
 
+
 ## Representative Sales
 
 ### Bulkers
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V CORONA BRAVE** | 88,172 | 2006 | Imabari / Japan | $13.0M | Undisclosed | Japanese style auction sale, offers were invited Tuesday 21st April 2026, coal carrier, increased price compared with the February sale of one-year younger M/V ROYAL AWARD (88,266 dwt, blt 2007 at Imabari/Japan) at $ 11.5 mill. |
+| **M/V CORONA BRAVE** | 88,172 | 2006 | Imabari / Japan | $13.0M | Undisclosed | Japanese style auction sale, offers were invited Tuesday 21st April 2026, coal carrier, increased price compared with the February sale of one-year younger |
+| **M/V ROYAL AWARD** | 88,266 | 2007 | at Imabari / Japan | $11.5M | Undisclosed | at $ 11.5 mill. |
 | **M/V PABUR** | 76,167 | 2012 | Kouan / China | $16.5M | Undisclosed | Sold for $ 16.5 mill |
 | **M/V DONOUSA** | 76,417 | 2004 | Tsuneishi / Japan | $9.3M | Chinese buyers | Sold for $ 9.3 mill to Chinese buyers. |
-| **M/V NEW DAYANG NDY1315 & M/V NEW DAYANG NDY1316** | 64,100 | 2027 | New Dayang Shipbuilding / China | $73.0M | Greek buyers (clients of Niovis Shipping) | eco m/e. |
+| **M/V NEW DAYANG NDY1315 &** | - | - | - | $73.0M en bloc | Greek buyers (clients of Niovis Shipping) | - |
+| **M/V NEW DAYANG NDY1316** | 64,100 | 2027 | New Dayang Shipbuilding / China | $73.0M en bloc | Greek buyers (clients of Niovis Shipping) | eco m/e. |
 | **M/V AMIS POWER** | 64,012 | 2018 | Tsuneishi Cebu / Philippines | $32.5M | Undisclosed | Sold for $ 32.5 mill. |
 | **M/V FJ STAR** | 61,225 | 2016 | Shin Kurushima / Japan | $26.0M | Chinese buyers | Sold for $ 26 mill to Chinese buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 275-280 290-300 stable PAKISTAN 440 450 460 stable INDIA 440 450 460 stable BANGLADESH 470 - 475 500 510 weak |
 | **M/V AMSTEL TIGER** | 60,454 | 2016 | Oshima / Japan | $28.0M | Undisclosed | offers were invited Tuesday 21st April 2026. |
 | **M/V CHAKRAVATI** | 55,814 | 2006 | Kawasaki / Japan | $10.5M | Far Eastern buyers | Sold for $ 10.5 mill to Far Eastern buyers. |
 | **M/V ASTERIS** | 53,629 | 2007 | Dayang / China | $9.8M | Undisclosed | Sold for $ 9.8 mill. |
-| **M/V DORYSIA** | 36,863 | 2010 | HMD / S. Korea | $26.2M | Vietnamese buyers | - |
-| **M/V STRADION** | 36,863 | 2011 | HMD / Korea | $26.2M | Vietnamese buyers | Tier II, fitted with ShaPoLi/Mewis Duct energy saving devices & DPB antifouling. |
+| **M/V DORYSIA** | 36,863 | 2010 | HMD / S. Korea | $26.2M en bloc | Vietnamese buyers | - |
+| **M/V STRADION** | 36,863 | 2011 | HMD / Korea | $26.2M en bloc | Vietnamese buyers | Tier II, fitted with ShaPoLi/Mewis Duct energy saving devices & DPB antifouling. |
 | **M/V KS GRACE** | 36,320 | 2014 | Shikoku / Japan | $16.95M | Vietnamese buyers | offers were invited 1st April 2026. |
+
 
 ### Tankers
 
@@ -90,6 +94,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 | **M/T GINGA SAKER** | 20,491 | 2003 | Shin Kurushima / Japan | $10.8M | Chinese buyers | J19, offers were invited 13th April 2026. |
 | **M/T CHEM STREAM** | 19,998 | 2010 | Shitanoe / Japan | $20.8M | Undisclosed | J19, CAP 1 rated. |
 
+
 ## Demolition Sales
 
 *No demolition sales reported this week.*
@@ -98,13 +103,17 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 ### Bulkers
 
-- **M/V CORONA BRAVE**: M/V CORONA BRAVE (88,172 dwt, blt 2006 Imabari/Japan, NK ss due 12/2027 dd due 11/2026, 5 ho/5 ha, MAN-B&W 6S60MC) - Sold for region $ 12.9 - $ 13 mill note: Japanese style auction sale, offers were invited Tuesday 21st April 2026, coal carrier, increased price compared with the February sale of one-year younger M/V ROYAL AWARD (88,266 dwt, blt 2007 at Imabari/Japan) at $ 11.5 mill.
+- **M/V CORONA BRAVE**: M/V CORONA BRAVE (88,172 dwt, blt 2006 Imabari/Japan, NK ss due 12/2027 dd due 11/2026, 5 ho/5 ha, MAN-B&W 6S60MC) - Sold for region $ 12.9 - $ 13 mill note: Japanese style auction sale, offers were invited Tuesday 21st April 2026, coal carrier, increased price compared with the February sale of one-year younger
+
+- **M/V ROYAL AWARD**: M/V ROYAL AWARD (88,266 dwt, blt 2007 at Imabari/Japan) at $ 11.5 mill.
 
 - **M/V PABUR**: M/V PABUR (76,167 dwt, blt 2012 Kouan/China, NV ss due 12/2027 dd due 03/2026, 7 ho/7 ha, MAN B&W 5S60MC-C8) - Sold for $ 16.5 mill
 
 - **M/V DONOUSA**: M/V DONOUSA (76,417 dwt, blt 2004 Tsuneishi/Japan, NV ss/dd due 04/2027, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 9.3 mill to Chinese buyers.
 
-- **M/V NEW DAYANG NDY1315 & M/V NEW DAYANG NDY1316**: M/V NEW DAYANG NDY1315 & M/V NEW DAYANG NDY1316 (64,100 dwt, blt 2027 New Dayang Shipbuilding /China, BV 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S50ME-C9) - Sold en bloc for $ 73 mill to Greek buyers (clients of Niovis Shipping), note: eco m/e.
+- **M/V NEW DAYANG NDY1315 &**: M/V NEW DAYANG NDY1315 &
+
+- **M/V NEW DAYANG NDY1316**: M/V NEW DAYANG NDY1316 (64,100 dwt, blt 2027 New Dayang Shipbuilding /China, BV 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S50ME-C9) - Sold en bloc for $ 73 mill to Greek buyers (clients of Niovis Shipping), note: eco m/e.
 
 - **M/V AMIS POWER**: M/V AMIS POWER (64,012 dwt, blt 2018 Tsuneishi Cebu /Philippines, NK ss due 09/2028 dd due 07/2026, 5 ho/5 ha, 4 x 36t CR, MAN B&W 6S50ME-B9) - Sold for $ 32.5 mill.
 
@@ -149,3 +158,5 @@ For an overview of demolition market rates, please check our comprehensive demom
 - **M/T GINGA SAKER**: M/T GINGA SAKER (20,491 dwt, blt 2003 Shin Kurushima/Japan, NK ss due 05/2028 dd due 06/2027, Stainless Steel tanks, 26 x pumps, igs, IMO II/III) - Sold for $ 10.8 mill to Chinese buyers, note: J19, offers were invited 13th April 2026.
 
 - **M/T CHEM STREAM**: M/T CHEM STREAM (19,998 dwt, blt 2010 Shitanoe/Japan, NK ss due 04/2030 dd due 05/2028, Stainless Steel tanks, 20 x pumps, igs, IMO II/III) - Sold for $ 20.8 mill, note: J19, CAP 1 rated.
+
+

@@ -66,8 +66,8 @@ comprehensive demometer below:
 | **M/V CAPE CONDOR** | 180,253 | 2010 | Koyo / Japan | $39.0M | Undisclosed | very firm price compared to one-year younger ORANGE TIGER sale above. |
 | **M/V AQUAVITA AIM** | 82,192 | 2019 | Oshima / Japan | $38.2M | European buyers | very firm price achieved in comparison BW MATSUYAMA (81,810 dwt blt 2019 Tsuneishi Cebu) sold for $ 31 mill last January & MONT BLANC HAWK (81,638 dwt blt 2017 Imabari/Japan) sold for $ 32 mill in June. |
 | **M/V VELOS JASPER** | 82,167 | 2012 | Tsuneishi / Japan | $23.5M | Chinese buyers | increased level compared to last month's sale of MONT FORT (81,113 dwt blt 2012 Tsuneishi/Japan) for $ 22 mill. |
-| **M/V ARTVIN** | 81,827 | 2011 | HMD / Korea | $19.45M | Undisclosed | - |
-| **M/V ORDU** | 81,660 | 2012 | HMD / Korea | $19.45M | Undisclosed | increased level compared with May's sale of AVALON (81,565 dwt blt 2011 Sundong/Korea) for $ 17.8 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 490 500 510 positive INDIA 420 - 430 440 460 - 470 stable BANGLADESH 470 - 480 505 - 515 530 softening |
+| **M/V ARTVIN** | 81,827 | 2011 | HMD / Korea | $19.45M each | Undisclosed | - |
+| **M/V ORDU** | 81,660 | 2012 | HMD / Korea | $19.45M each | Undisclosed | increased level compared with May's sale of AVALON (81,565 dwt blt 2011 Sundong/Korea) for $ 17.8 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 490 500 510 positive INDIA 420 - 430 440 460 - 470 stable BANGLADESH 470 - 480 505 - 515 530 softening |
 | **M/V FRANCESCO CORRADO** | 77,061 | 2008 | Oshima / Japan | $15.0M | South Korean buyers | achieved same price as her sister G.B. CORRADO (77,061 dwt blt 2008 Oshima/Japan) did last month. |
 | **M/V EBURY TRADER** | 56,603 | 2011 | China Shipping Jiangsu / China | $13.0M | Chinese buyers | price slightly better than the $ 12.5 mill achieved last month by similar unit JUNIPER (57,185 dwt blt 2011 STX Dalian). |
 | **M/V GLORY BRIDGE** | 50,077 | 2001 | Mitsui / Japan | $7.5M | Undisclosed | new benchmark sale. |
@@ -79,8 +79,8 @@ comprehensive demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T SEAPASSION** | 299,271 | 2017 | HHI / Korea | $125.0M | Undisclosed | scrubber fitted. |
-| **M/T FRONT VEFSNA** | 297,638 | 2017 | HHIC / Philippines | $135.0M | Undisclosed | - |
-| **M/T FRONT HUMBER** | 298,767 | 2017 | Hyundai Samho / Korea | $135.0M | Undisclosed | Sold en bloc for $ 135 mill each. |
+| **M/T FRONT VEFSNA** | 297,638 | 2017 | HHIC / Philippines | $135.0M each | Undisclosed | - |
+| **M/T FRONT HUMBER** | 298,767 | 2017 | Hyundai Samho / Korea | $135.0M each | Undisclosed | Sold en bloc for $ 135 mill each. |
 | **M/T DELTA AMAZON** | 319,896 | 2015 | Jinhai / China | $120.0M | Undisclosed | $ 120 mill. |
 | **M/T DELTA APOLLONIA** | 319,725 | 2015 | Jinhai / Chn | $120.0M | Undisclosed | $ 120 mill. |
 | **M/T DELTA ANGELICA** | 319,911 | 2012 | HHI / Korea | $115.0M | Undisclosed | $ 115 mill. |

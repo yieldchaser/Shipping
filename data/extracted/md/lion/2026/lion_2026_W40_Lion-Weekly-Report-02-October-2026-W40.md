@@ -79,7 +79,7 @@ demolition market rates, please check our comprehensive demometer below:
 | **M/V EURO BAND** | 58,761 | 2009 | Tsuneishi Cebu / Philippines | $15.5M | Undisclosed | Sold for $ 15.5 mill. |
 | **M/V PROMETHEUS** | 55,415 | 2012 | Hyundai-Vinashin / Vietnam | $19.0M | Greek buyers | Sold for $ 19 mill to Greek buyers. |
 | **M/V SSI AVENGER** | 52,949 | 2004 | Oshima / Japan | $10.0M | Undisclosed | Sold for region $ 10 mill basis forward delivery in Far East with January 2027. |
-| **M/V SIDER BELLEZZA** | - | - | - | $38.5M | Undisclosed | open hatch/box shaped. |
+| **M/V SIDER BELLEZZA** | 39,855 | 2026 | Naikai Zosen / Japan | $38.5M | Undisclosed | open hatch/box shaped. |
 
 
 ### Tankers
@@ -138,7 +138,7 @@ demolition market rates, please check our comprehensive demometer below:
 
 - **M/V SSI AVENGER**: M/V SSI AVENGER (52,949 dwt, blt 2004, Oshima/Japan, LR ss due 10/2029 dd due 11/2027, 5 ho / 5 ha, 4 x 30t CR, B&W 6S50MC-C) - Sold for region $ 10 mill basis forward delivery in Far East with January 2027.
 
-- **M/V SIDER BELLEZZA**: M/V SIDER BELLEZZA 9,855 dwt, blt 2026, Naikai Zosen/Japan, NK, 4 x 30t CR, B&W 5S50ME-C9 - Sold for $ 38.5 mill, note: open hatch/box shaped.
+- **M/V SIDER BELLEZZA**: M/V SIDER BELLEZZA (39,855 dwt, blt 2026, Naikai Zosen/Japan, NK, 4 x 30t CR, B&W 5S50ME-C9) - Sold for $ 38.5 mill, note: open hatch/box shaped.
 
 ### Container / MPP / Tween
 

@@ -63,6 +63,7 @@ market rates, please check our comprehensive demometer below:
 | **India** | 420 | 430 | 440 | Stable |
 | **Bangladesh** | 430 | 440 | 450 | Stable |
 
+
 ## Representative Sales
 
 ### Bulkers
@@ -83,28 +84,31 @@ market rates, please check our comprehensive demometer below:
 | **M/V QI CHENG 3** | 38,268 | 2012 | Jiangsu Mingyang / China | $11.0M | Chinese buyers | Sold for $ 11 mill to Chinese buyers. |
 | **M/V RUI FU XING** | 28,213 | 2012 | Nantong Dongxin / China | $22.0M | Undisclosed | Sold for $ 22 mill. |
 
+
 ### Tankers
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T GREEN ATTITUDE** | 112,532 | 2018 | COSCO Zhoushan / China | $72.0M | Undisclosed | Sold for $ 72 mill. |
 | **M/T ZENOVIA LADY** | 109,999 | 2009 | Sungdong / S. Korea | $42.0M | Undisclosed | Sold for $ 42 mill. |
-| **M/T STI SENECA** | 49,990 | 2015 | HMD / S. Korea | $24.0M | Undisclosed | - |
-| **M/T STI OSCEOLA** | 49,990 | 2015 | HMD / S. Korea | $24.0M | Undisclosed | Sold en bloc for 35 mill each |
-| **M/T FINNANGER** | 46,251 | 2009 | HMD / S. Korea | $24.0M | Undisclosed | - |
-| **M/T FJELLANGER** | 46,287 | 2010 | HMD / S. Korea | $24.0M | Undisclosed | Sold en bloc for $ 24 mill each. |
+| **M/T STI SENECA** | 49,990 | 2015 | HMD / S. Korea | $24.0M each | Undisclosed | - |
+| **M/T STI OSCEOLA** | 49,990 | 2015 | HMD / S. Korea | $24.0M each | Undisclosed | Sold en bloc for 35 mill each |
+| **M/T FINNANGER** | 46,251 | 2009 | HMD / S. Korea | $24.0M each | Undisclosed | - |
+| **M/T FJELLANGER** | 46,287 | 2010 | HMD / S. Korea | $24.0M each | Undisclosed | Sold en bloc for $ 24 mill each. |
 | **M/T CHRYSOPIGI** | 38,554 | 2006 | GSI / China | $9.0M | Undisclosed | Sold for $ 9 mill. |
 | **M/T ASIA EVERGREEN** | 14,000 | 2012 | Fujian Shenglong / China | $9.0M | Undisclosed | Sold for $ 9 mill |
+
 
 ### Container / MPP / Tween
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **C/V SUNNY PHOENIX** | 50,789 | 2002 | Samsung / S. Korea | $18.0M | Greek buyers | - |
-| **C/V FELIXSTOWE** | 50,790 | 2002 | Samsung / S. Korea | $18.0M | Greek buyers | Sold en bloc for $ 18 mill each to Greek buyers. |
-| **C/V MARGARETE SCHULTE** | 34,457 | 2006 | STX / S. Korea | $25.0M | Swiss buyers (clients of MSC) | - |
-| **C/V LUCIE SCHULTE** | 34,396 | 2006 | STX / S. Korea | $25.0M | Swiss buyers (clients of MSC) | Sold en bloc for $ 25 mill each to Swiss buyers (clients of MSC) |
+| **C/V SUNNY PHOENIX** | 50,789 | 2002 | Samsung / S. Korea | $18.0M each | Greek buyers | - |
+| **C/V FELIXSTOWE** | 50,790 | 2002 | Samsung / S. Korea | $18.0M each | Greek buyers | Sold en bloc for $ 18 mill each to Greek buyers. |
+| **C/V MARGARETE SCHULTE** | 34,457 | 2006 | STX / S. Korea | $25.0M each | Swiss buyers (clients of MSC) | - |
+| **C/V LUCIE SCHULTE** | 34,396 | 2006 | STX / S. Korea | $25.0M each | Swiss buyers (clients of MSC) | Sold en bloc for $ 25 mill each to Swiss buyers (clients of MSC) |
 | **M/V ORIENTAL LUNA** | 10,245 | 2008 | Shin Kurushima / Japan | $3.86M | Undisclosed | tweendecker, general cargo vsl. |
+
 
 ## Demolition Sales
 
@@ -169,3 +173,5 @@ market rates, please check our comprehensive demometer below:
 - **M/T CHRYSOPIGI**: M/T CHRYSOPIGI (38,554 dwt, blt 2006 GSI/China, LR ss/dd due 01/2026, EPOXY, 10 x pumps, igs, cow,) - Sold for $ 9 mill.
 
 - **M/T ASIA EVERGREEN**: M/T ASIA EVERGREEN (14,000 dwt, blt 2012 Fujian Shenglong/China, LR ss/dd due 06/2027, EPOXY, 7 x pumps, igs, IMO II) - Sold for $ 9 mill
+
+

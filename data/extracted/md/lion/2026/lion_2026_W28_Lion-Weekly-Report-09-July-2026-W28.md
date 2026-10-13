@@ -92,8 +92,8 @@ comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **C/V SUNNY PHOENIX** | 50,789 | 2002 | Samsung / Korea | $54.0M | Swiss buyers (clients of MSC) | - |
-| **C/V FELIXSTOWE** | 50,790 | 2002 | Samsung / Korea | $54.0M | Swiss buyers (clients of MSC) | Sellers paid $ 36 mill en bloc in March 2026, resulting in a profit of $18 million within a span of just four months. |
+| **C/V SUNNY PHOENIX** | 50,789 | 2002 | Samsung / Korea | $54.0M en bloc | Swiss buyers (clients of MSC) | - |
+| **C/V FELIXSTOWE** | 50,790 | 2002 | Samsung / Korea | $54.0M en bloc | Swiss buyers (clients of MSC) | Sellers paid $ 36 mill en bloc in March 2026, resulting in a profit of $18 million within a span of just four months. |
 
 
 ## Demolition Sales

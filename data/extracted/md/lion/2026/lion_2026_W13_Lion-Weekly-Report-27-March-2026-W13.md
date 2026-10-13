@@ -62,7 +62,7 @@ demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V FRONTIER GARLAND** | 181,480 | 2011 | Imabari / Japan | $36.3M | Hong Kong buyers (clients of Jinhui) | Japanese style sale, offers invited 24th March 2026. |
-| **M/V GIA INSPIRATION** | - | - | - | $33.3M | Undisclosed | SDARI 82 design, Tier 3 m/e, 36 meters beam. |
+| **M/V GIA INSPIRATION** | 85,035 | 2022 | CSSC Tianjin / China | $33.3M | Undisclosed | SDARI 82 design, Tier 3 m/e, 36 meters beam. |
 | **M/V AGRI KINSALE** | 77,171 | 2009 | Oshima / Japan | $15.1M | Chinese buyers | panamax beam 32.26 meters. |
 | **M/V JIN RUI** | 63,800 | 2014 | Hantong / China | $24.0M | Hong Kong buyers (clients of HuaYa) | Sold for $ 24 mill to Hong Kong buyers (clients of HuaYa). |
 | **M/V EASTERN JUNIPER** | 61,185 | 2022 | NACKS / China | $34.3M | Undisclosed | Sold for $ 34.3 mill basis delivery March/June 2026. |
@@ -102,7 +102,7 @@ demometer below:
 
 - **M/V FRONTIER GARLAND**: M/V FRONTIER GARLAND (181,480 dwt, blt 2011 Imabari/Japan, NK ss due 01/2029 dd due 01/2027, 9 ho/9 ha, MAN B&W 6S70MC-C) - Sold for $ 36.3 mill basis dely May/June to Hong Kong buyers (clients of Jinhui), note: Japanese style sale, offers invited 24th March 2026.
 
-- **M/V GIA INSPIRATION**: M/V GIA INSPIRATION 5,035 dwt, blt 2022 CSSC Tianjin/China, CC ss/dd due 11/2027, 7 ho/7 ha, CSE- MAN B&W 6S60ME-C10.5 (Tier III with HP SCR)) - Sold for $ 33.3 mill basis delivery March/May 2026, note: SDARI 82 design, Tier 3 m/e, 36 meters beam.
+- **M/V GIA INSPIRATION**: M/V GIA INSPIRATION (85,035 dwt, blt 2022 CSSC Tianjin/China, CC ss/dd due 11/2027, 7 ho/7 ha, CSE- MAN B&W 6S60ME-C10.5 (Tier III with HP SCR)) - Sold for $ 33.3 mill basis delivery March/May 2026, note: SDARI 82 design, Tier 3 m/e, 36 meters beam.
 
 - **M/V AGRI KINSALE**: M/V AGRI KINSALE (77,171 dwt, blt 2009 Oshima/Japan, NK ss due 09/2029 dd due 08/2027, 7 ho/7 ha, 1 x MAN B&W 6S60MC-C) - Sold for $ 15.1 mill to Chinese buyers, note: panamax beam 32.26 meters.
 

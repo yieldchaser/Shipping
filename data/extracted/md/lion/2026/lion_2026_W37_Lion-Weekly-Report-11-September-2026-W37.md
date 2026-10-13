@@ -79,8 +79,8 @@ of demolition market rates, please check our comprehensive demometer below:
 | **M/V OCEAN TIANBAO** | 63,455 | 2016 | China Shipping Jiangsu / China | $26.5M | Undisclosed | offers invited 3rd September, eco m/e. |
 | **M/V AERIKO** | 63,351 | 2013 | Yangzhou Dayang / China | $24.0M | Undisclosed | Crown 63 design, eco, docking recently passed. |
 | **M/V SKY KNIGHT** | 58,078 | 2012 | Shin Kurushima / Japan | $21.5M | Undisclosed | offers invited 2nd September. |
-| **M/V SW SOUTH WIND I** | 55,989 | 2009 | IHI / Japan | $15.75M | undisclosed interests | - |
-| **M/V SW NORTH WIND I** | 55,989 | 2009 | IHI / Japan | $15.75M | undisclosed interests | scrubber fitted. |
+| **M/V SW SOUTH WIND I** | 55,989 | 2009 | IHI / Japan | $15.75M en bloc | undisclosed interests | - |
+| **M/V SW NORTH WIND I** | 55,989 | 2009 | IHI / Japan | $15.75M en bloc | undisclosed interests | scrubber fitted. |
 | **M/V OCEAN GLORY** | 48,437 | 2001 | Sanoyas / Japan | $5.8M | Undisclosed | Sold for $ 5.8 mill. |
 | **M/V WESTERN DONCASTER** | 39,461 | 2019 | JNS / China | $24.0M | Undisclosed | offers invited 4th September, eco, OH/Box shaped. |
 | **M/V WOOYANG CLES** | 39,202 | 2014 | Yangfan / China | $18.8M | Undisclosed | OH/Box shaped. |
@@ -103,8 +103,8 @@ of demolition market rates, please check our comprehensive demometer below:
 | **M/T SUEZ ENCHANTED** | 159,233 | 2007 | Hyundai / Korea | $50.0M | Undisclosed | Sold for region $ 50 mill. |
 | **M/T OCEAN START** | 158,280 | 2005 | Hyundai / Korea | $47.4M | Undisclosed | scrubber fitted, ice class 1B. |
 | **M/T VOULA** | 73,774 | 2009 | New Times / China | $22.0M | Undisclosed | scrubber fitted. |
-| **M/T CHAMPION CONCEPT** | 47,171 | 2005 | Uljanik / Croatia | $13.0M | Hong Kong buyers | - |
-| **M/T WINFORT** | 47,171 | 2005 | Uljanik / Croatia | $13.0M | Hong Kong buyers | Sold en bloc for $ 13 mill each to Hong Kong buyers. |
+| **M/T CHAMPION CONCEPT** | 47,171 | 2005 | Uljanik / Croatia | $13.0M each | Hong Kong buyers | - |
+| **M/T WINFORT** | 47,171 | 2005 | Uljanik / Croatia | $13.0M each | Hong Kong buyers | Sold en bloc for $ 13 mill each to Hong Kong buyers. |
 | **M/T ORIENTAL MARGUERITE** | 14,367 | 2008 | Asakawa / Japan | $14.3M | South Korean buyers | Sold for $ 14.30 mill to South Korean buyers |
 | **M/T VULCANELLO M** | 11,288 | 2006 | STX Shipbuilding - Busan / Korea | $7.5M | Undisclosed | surveys passed, renewed Cap 1 certificate. |
 

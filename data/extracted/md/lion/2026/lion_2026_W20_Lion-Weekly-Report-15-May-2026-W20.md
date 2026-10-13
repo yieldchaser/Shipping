@@ -52,6 +52,7 @@ below:
 | **India** | 420 | 430 | 440 | Soft |
 | **Bangladesh** | 460 | 470 | 490 | Soft |
 
+
 ## Representative Sales
 
 ### Bulkers
@@ -67,12 +68,13 @@ below:
 | **M/V SETY** | 55,753 | 2010 | IHI / Japan | $16.1M | Undisclosed | Wartsila m/e, price in line with late April's sale of similar unit SEA CREDENCE (55640 dwt blt 2010 Mitsui/Japan) for $ 16 mill. |
 | **M/V SUMAQ QUEEN** | 51,052 | 2017 | Imabari / Japan | $25.0M | Greek buyers | Open hatch/Box shaped, eco m/e. |
 | **M/V AMBER S** | 47,282 | 2000 | Oshima / Japan | $5.9M | Syrian buyers | old sale that now came to light, understand concluded in April. |
-| **M/V PORTSMOUTH** | 40,547 | 2024 | JNS / China | $30.5M | Undisclosed | - |
-| **M/V CLACTON** | 40,547 | 2024 | JNS / China | $30.5M | Undisclosed | - |
-| **M/V EASTBOURNE** | 40,547 | 2024 | JNS / China | $30.5M | Undisclosed | - |
-| **M/V MARGATE** | 40,547 | 2024 | JNS / China | $30.5M | Undisclosed | Sold en bloc for region $ 30.50 mill each. |
+| **M/V PORTSMOUTH** | 40,547 | 2024 | JNS / China | $30.5M each | Undisclosed | - |
+| **M/V CLACTON** | 40,547 | 2024 | JNS / China | $30.5M each | Undisclosed | - |
+| **M/V EASTBOURNE** | 40,547 | 2024 | JNS / China | $30.5M each | Undisclosed | - |
+| **M/V MARGATE** | 40,547 | 2024 | JNS / China | $30.5M each | Undisclosed | Sold en bloc for region $ 30.50 mill each. |
 | **M/V KEN ORCHID** | 28,225 | 2011 | I-S / Japan | $10.0M | Undisclosed | logs fitted softer price level compared to early April's sale of similar unit ITHACA PATIENCE (28,349 dwt blt 2010 Shimanami/Japan) for $ 9.8 mill, new market benchmark. |
 | **M/V JIN MING 66** | 17,325 | 2008 | Linhai Hongzhou / China | $2.7M | Chinese buyers | Sold for $ 2.70 mill to Chinese buyers |
+
 
 ### Tankers
 
@@ -82,9 +84,10 @@ below:
 | **M/T GLADIATOR** | 149,944 | 2008 | Universal / Japan | $65.0M | Undisclosed | Sold for $ 65 mill. |
 | **M/T ROYAL JASMINE** | 53,148 | 2008 | GSI / China | $20.8M | Turkish buyers | ice class 1A, Watsila m/e. |
 | **M/T GEMINI PEARL** | 50,561 | 2007 | SPP / S. Korea | $17.0M | Undisclosed | Sold for $ 17 mill. |
-| **M/T HORIZON ANDROS** | 50,000 | 2027 | Zhoushan Changhong / China | $51.0M | Undisclosed | - |
-| **M/T HORIZON SYROS** | 50,000 | 2026 | Zhoushan Changhong / China | $51.0M | Undisclosed | Sold en bloc for $ 51 mill each. |
+| **M/T HORIZON ANDROS** | 50,000 | 2027 | Zhoushan Changhong / China | $51.0M each | Undisclosed | - |
+| **M/T HORIZON SYROS** | 50,000 | 2026 | Zhoushan Changhong / China | $51.0M each | Undisclosed | Sold en bloc for $ 51 mill each. |
 | **M/T MTM HAMBURG** | 20,564 | 2008 | Kitanihon / Japan | $17.0M | Undisclosed | J19 design. |
+
 
 ### Container / MPP / Tween
 
@@ -94,6 +97,7 @@ below:
 | **C/V AS SICILIA** | 25,927 | 2008 | Kouan / China | $18.5M | Chinese buyers | Sold for $ 18.5 mill to Chinese buyers. |
 | **C/V OLIVIA** | 21,789 | 2013 | GWS / China | $25.0M | Middle Eastern buyers | Watsila m/e. |
 | **C/V KR CELEBES** | 10,701 | 2002 | Dae Sun / S. Korea | $6.25M | Chinese buyers | Sold for $ 6.25 mill to Chinese buyers. |
+
 
 ## Demolition Sales
 
@@ -158,3 +162,5 @@ below:
 - **M/T HORIZON SYROS**: M/T HORIZON SYROS (50,000 dwt, blt 2026 Zhoushan Changhong/China, LR ss due 05/2032, IMO II/III) - Sold en bloc for $ 51 mill each.
 
 - **M/T MTM HAMBURG**: M/T MTM HAMBURG (20,564 dwt, blt 2008 Kitanihon/Japan, NK ss due 06/2028 dd due 08/2026, Stainless Steel, 20 x pumps, igs, IMO II/III) - Sold for $ 17 mill, note: J19 design.
+
+

@@ -67,10 +67,10 @@ comprehensive demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V MINERAL SHOUGANG INTERNATIONAL** | 206,392 | 2019 | Yangfan / China | $65.5M | Chinese buyers | Newcastlemax |
-| **M/V SDTR DORIS** | 84,998 | 2021 | Shanhaiguan / China | $27.5M | Undisclosed | - |
-| **M/V SDTR CELESTE** | 84,994 | 2021 | Shanhaiguan / China | $27.5M | Undisclosed | beam 36 mtrs |
+| **M/V SDTR DORIS** | 84,998 | 2021 | Shanhaiguan / China | $27.5M each | Undisclosed | - |
+| **M/V SDTR CELESTE** | 84,994 | 2021 | Shanhaiguan / China | $27.5M each | Undisclosed | beam 36 mtrs |
 | **M/V MONTANA I** | 81,967 | 2011 | Daewoo / S.Korea | $15.4M | European buyers | sold for $15.4 mill to European buyers basis surveys due this December. |
-| **M/V NORD CRUX** | - | - | - | $26.5M | Undisclosed | 1,791 dwt, blt 2016 Tsuneishi (Cebu)/Philippines, NKK ss/dd due 09/2026,7ho/7ha, B&W 6S60ME-C) - sold for region $26.5 mill -$26.75 mill |
+| **M/V NORD CRUX** | 81,791 | 2016 | - | $26.5M | Undisclosed | sold for region $26.5 mill -$26.75 mill |
 | **M/V NAVIOS HELIOS** | 77,075 | 2005 | Namura / Japan | $8.25M | undisclosed buyers | sold for $8.25 mill to undisclosed buyers basis surveys due next month. |
 | **M/V ATHERAS** | 74,475 | 2006 | Hudong / China | $8.5M | undisclosed buyers | sold for region $8 - $8.5 mill to undisclosed buyers basis imminent surveys due. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 270-280 270-280 stable PAKISTAN 420-430 430-440 - stable INDIA 420-430 430-440 450-460 stable BANGLADESH 415-420 430-435 450 soft |
 | **M/V ANDIAMO** | 63,562 | 2019 | Shin Kasado / Japan | $30.5M | undisclosed buyers | sold for $30.5 mill to undisclosed buyers |
@@ -90,10 +90,10 @@ comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/T BRIGHTWAY** | 160,095 | 2012 | HHIC / Philippines | $90.0M | Undisclosed | - |
-| **M/T FAIRWAY** | 160,250 | 2013 | HHIC / Philippines | $90.0M | Undisclosed | scrubber fitted |
-| **M/T STI LAVENDER** | 109,999 | 2019 | New Times / China | $61.2M | UAE buyers (clients of Safeen | - |
-| **M/T STI LOBELIA** | 109,994 | 2019 | New Times / China | $61.2M | UAE buyers (clients of Safeen | sold en bloc to UAE buyers (clients of Safeen, Abu Dhabi) for $61.2 mill each |
+| **M/T BRIGHTWAY** | 160,095 | 2012 | HHIC / Philippines | $90.0M en bloc | Undisclosed | - |
+| **M/T FAIRWAY** | 160,250 | 2013 | HHIC / Philippines | $90.0M en bloc | Undisclosed | scrubber fitted |
+| **M/T STI LAVENDER** | 109,999 | 2019 | New Times / China | $61.2M each | UAE buyers (clients of Safeen | - |
+| **M/T STI LOBELIA** | 109,994 | 2019 | New Times / China | $61.2M each | UAE buyers (clients of Safeen | sold en bloc to UAE buyers (clients of Safeen, Abu Dhabi) for $61.2 mill each |
 | **M/T GREEN SKY** | 50,879 | 2014 | DaeSun / S. Korea | $30.5M | Greek buyers (clients of Toro) | sold to Greek buyers (clients of Toro) for $30.5 mill |
 | **M/T FALCON ROYAL** | 47,128 | 2008 | Hyundai / S. Korea | - | undisclosed buyers | Sold to undisclosed buyers |
 
@@ -131,7 +131,7 @@ comprehensive demometer below:
 
 - **M/V MONTANA I**: M/V MONTANA I (81,967 dwt, blt 2011 Daewoo/S.Korea, DNV, ss/dd due 12/2025, 7ho/7ha, B&W 6S60MC-C8) - sold for $15.4 mill to European buyers basis surveys due this December.
 
-- **M/V NORD CRUX**: M/V NORD CRUX 1,791 dwt, blt 2016 Tsuneishi (Cebu)/Philippines, NKK ss/dd due 09/2026,7ho/7ha, B&W 6S60ME-C) - sold for region $26.5 mill -$26.75 mill
+- **M/V NORD CRUX**: M/V NORD CRUX (81,791 dwt, blt 2016 Tsuneishi (Cebu)/Philippines, NKK ss/dd due 09/2026,7ho/7ha, B&W 6S60ME-C) - sold for region $26.5 mill -$26.75 mill
 
 - **M/V NAVIOS HELIOS**: M/V NAVIOS HELIOS (77,075 dwt, blt 2005 Namura/Japan, NKK ss/dd due 11/2025, 7ho/7ha, B&W 6S60MC) - sold for $8.25 mill to undisclosed buyers basis surveys due next month.
 

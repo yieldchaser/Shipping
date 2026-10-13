@@ -102,9 +102,9 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **C/V LOTUS A** | 102,518 | 2010 | Hyundai Samho / S. Korea | $90.0M | Greek buyers | - |
-| **C/V CYPRESS** | 102,518 | 2011 | Hyundai Samho / S. Korea | $90.0M | Greek buyers | - |
-| **C/V KOI** | 102,518 | 2011 | Hyundai Samho / S. Korea | $90.0M | Greek buyers | Sold en bloc for $ 90 mill to Greek buyers including long term T/C attached @ undisclosed rate. |
+| **C/V LOTUS A** | 102,518 | 2010 | Hyundai Samho / S. Korea | $90.0M en bloc | Greek buyers | - |
+| **C/V CYPRESS** | 102,518 | 2011 | Hyundai Samho / S. Korea | $90.0M en bloc | Greek buyers | - |
+| **C/V KOI** | 102,518 | 2011 | Hyundai Samho / S. Korea | $90.0M en bloc | Greek buyers | Sold en bloc for $ 90 mill to Greek buyers including long term T/C attached @ undisclosed rate. |
 
 
 ## Demolition Sales

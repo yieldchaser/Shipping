@@ -49,6 +49,7 @@ demometer below:
 | **India** | 380-385 | 400-405 | 410-415 | Soft |
 | **Bangladesh** | 390-400 | 410-420 | 410-420 | Soft |
 
+
 ## Representative Sales
 
 ### Bulkers
@@ -76,6 +77,7 @@ demometer below:
 | **M/V "CHAMCHURI NAREE"** | - | - | - | $8.2M | undisclosed buyers | ss/dd passed June 2025, logs fitted, semi-box holds |
 | **M/V "YANGTZE FLOURISH"** | - | - | - | $9.9M | Chinese buyers | 32,503 dwt, blt 2012 Jiangmen Nanyang Ship Eng Co /China, LR  ss due 02/05 dd due 02/05, 5 HO/5 HA , MAN B&W 6S42MC, LDT 9,292 Sold to Chinese buyers for $ 9.90 mill |
 
+
 ### Tankers
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
@@ -87,6 +89,7 @@ demometer below:
 | **M/V BRISTOL TRADER** | - | - | - | $39.0M | undisclosed buyers | 35,863 dwt, blt 2016 Shin Kurushima/Japan, BV ss/dd due 07/2026, 18 x stainless steel tanks, 16xpumps, MAN B&W 6S50ME-B9, igs, Imo II Sold to undisclosed buyers for $39 mill |
 | **M/T GINOSTRA M - 18,639 dwt, blt 2024 Fujian Southeast/China, BV ss due 12/2029 dd due 12/2027, ice class 1B, 12x siloxirane** | - | - | - | $27.5M | Italian buyers | coated tanks, 10xpumps, M/E MAN B&W 6S40ME-C9, igs, Imo II/III Sold to Italian buyers for $27.5 mill |
 
+
 ### Container / MPP / Tween
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
@@ -96,6 +99,7 @@ demometer below:
 | **C/V WARNOW WHALE** | - | - | - | $13.0M | undisclosed buyers | 18,318 dwt, blt 2007 Ouhua/China, LR ss due 02/2027 dd due 05/2027, ice class FS II, teus 1296, reefers 452, Cr 2x45t, M/E MAN 8L58/64 Sold to undisclosed buyers for $13 mill including undisclosed charter attached |
 | **C/V EF ELENA** | - | - | - | $17.0M | undisclosed buyers | 17,350 dwt, blt 2007 Yangzijiang/China, LR ss due 12/2027 dd due 02/2026, ice class FS II, teus 1338, reefers 449, Cr 2x45 T, M/E MAN B&W 8S50MC-C Sold to undisclosed buyers for $17 mill |
 | **C/V SPIRIT OF CHENNAI** | - | - | - | $21.0M | undisclosed buyers | gearless |
+
 
 ## Demolition Sales
 
@@ -170,3 +174,5 @@ demometer below:
 - **M/V BRISTOL TRADER**: M/V BRISTOL TRADER 35,863 dwt, blt 2016 Shin Kurushima/Japan, BV ss/dd due 07/2026, 18 x stainless steel tanks, 16xpumps, MAN B&W 6S50ME-B9, igs, Imo II Sold to undisclosed buyers for $39 mill
 
 - **M/T GINOSTRA M - 18,639 dwt, blt 2024 Fujian Southeast/China, BV ss due 12/2029 dd due 12/2027, ice class 1B, 12x siloxirane**: M/T GINOSTRA M - 18,639 dwt, blt 2024 Fujian Southeast/China, BV ss due 12/2029 dd due 12/2027, ice class 1B, 12x siloxirane (Marineline) coated tanks, 10xpumps, M/E MAN B&W 6S40ME-C9, igs, Imo II/III Sold to Italian buyers for $27.5 mill
+
+

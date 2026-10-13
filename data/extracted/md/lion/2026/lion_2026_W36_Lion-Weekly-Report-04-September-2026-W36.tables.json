@@ -789,18 +789,18 @@
         "section": "TANKERS",
         "tag": "M/T",
         "vessel": "KTS BROWN",
-        "dwt": null,
-        "built_year": null,
-        "yard": null,
-        "country_built": null,
-        "class": null,
-        "ss_due": null,
-        "dd_due": null,
+        "dwt": 13076,
+        "built_year": 2008,
+        "yard": "21st Century",
+        "country_built": "Korea",
+        "class": "KR",
+        "ss_due": "05/2028",
+        "dd_due": "05/2026",
         "price_usd_m": 10.0,
         "price_raw": "$ 10 mill",
         "en_bloc": false,
         "buyer": "Vietnamese buyers",
-        "comments": "3,076 dwt, blt 2008 21st Century/Korea, KR ss due 05/2028 dd due 05/2026, coated Siloxirane (MarineLINE), 12 x 3pumps, igs, IMO II) - Sold for $ 10 mill to Vietnamese buyers basis DD passed May 2026."
+        "comments": "Sold for $ 10 mill to Vietnamese buyers basis DD passed May 2026."
       }
     ],
     "demolition_sales": [
