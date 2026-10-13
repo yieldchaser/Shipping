@@ -2,18 +2,18 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2931,
-      "untracked_bytes": 2300718519
+      "untracked_files": 2925,
+      "untracked_bytes": 2297404614
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4064,
-      "untracked_bytes": 2393889052
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 18,
-      "untracked_bytes": 3522335
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -5608,11 +5608,6 @@
       "sha256": "d15bafa10bd54633a7b5285d9e264caae96f172e69648994576a3cc5b6f0a774"
     },
     {
-      "path": "corpus/01-brokers/carriers/2026/carriers_2026_W41_WK-41-26-CARRIERS_SP-MARKET-REPORT.pdf",
-      "bytes": 364871,
-      "sha256": "fec96332a4e8343b61d83b84058b839b74274d29bb56c30184cb6c9621df0a24"
-    },
-    {
       "path": "corpus/01-brokers/carriers/2026/general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf",
       "bytes": 322974,
       "sha256": "d15bafa10bd54633a7b5285d9e264caae96f172e69648994576a3cc5b6f0a774"
@@ -9428,11 +9423,6 @@
       "sha256": "f86b9372365acc1c84b173b9c93b85fd7d5b7eeeae00b44e0e962d6b429b07ff"
     },
     {
-      "path": "corpus/01-brokers/ism/2026/ism_2026_W41_ISM_coaster_week41.pdf",
-      "bytes": 196667,
-      "sha256": "2c4ff246af2b9095e0a20bc95debcf6887c118d80004b716171d5d1a18211aac"
-    },
-    {
       "path": "corpus/01-brokers/ism/2026/ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39.pdf",
       "bytes": 204237,
       "sha256": "f86b9372365acc1c84b173b9c93b85fd7d5b7eeeae00b44e0e962d6b429b07ff"
@@ -12268,16 +12258,6 @@
       "sha256": "f0fbb8ae76960171fa1d93a79aa36fe31e920cf1f262194c7d5e7c3efc7e9e8c"
     },
     {
-      "path": "corpus/01-brokers/ssy/2026/ssy_2026_20261009-Atlantic-Capesize-Report.pdf",
-      "bytes": 190562,
-      "sha256": "713335ece5f65a1cdec6cbe3bd237553a537ee8f6505c9888394593301460cf8"
-    },
-    {
-      "path": "corpus/01-brokers/ssy/2026/ssy_2026_20261009-Pacific-Capesize-Report.pdf",
-      "bytes": 190256,
-      "sha256": "4e2dd48ba84545bedeee11a3e23ca5b2211229f323c164269d3faad4e9de75e2"
-    },
-    {
       "path": "corpus/01-brokers/ssy/2026/ssy_2026_nan_20260807-Atlantic-Capesize-Report.pdf",
       "bytes": 173935,
       "sha256": "3421fc3642620b2dbba9cb4c27334d6060cfb13fa2360c3ad31d312c33a30010"
@@ -13326,11 +13306,6 @@
       "path": "corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf",
       "bytes": 657605,
       "sha256": "68555d113f74f7565a853f684f49757aa41b72908541d4437695e75c310b1c8e"
-    },
-    {
-      "path": "corpus/01-brokers/star_asia/2026/star_asia_2026_W41_Market-Report-Week-41.pdf",
-      "bytes": 679113,
-      "sha256": "5fe06a055889d69743d541eb09526e1d0de7bdfa1fec005bac4046cfd4a3d3ba"
     },
     {
       "path": "corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf",
@@ -14686,11 +14661,6 @@
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_2026_xclusiv-2026_09_28.pdf",
       "bytes": 1806465,
       "sha256": "2f3d3072b41c38fed848d40a4d98026103404a08fb8da41591764c2e8877e53c"
-    },
-    {
-      "path": "corpus/01-brokers/xclusiv/2026/xclusiv_2026_xclusiv-2026_10_12.pdf",
-      "bytes": 1692436,
-      "sha256": "51c16dfe3feab27ff201b66ab16e6b8b31a90f07d49967136f48a0ae473fb310"
     },
     {
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026.pdf",
@@ -20166,26 +20136,6 @@
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026.html",
-      "bytes": 4539,
-      "sha256": "59226cae3c0857b1f6ce450461b0e994d2a3ef9340e655809a486319b9ee3c57"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026.html",
-      "bytes": 4482,
-      "sha256": "bb0cacf7cc36b51e59dd55db4d3ca18a4c9a480fb23237f3111ba29907606dce"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_12102026chinese_67347f5bf5fa.jpg",
-      "bytes": 175788,
-      "sha256": "cbd762313b84e9ecfa6cdf8ad83b92bec5f1f92369b4aac675077c895f0924ff"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_13102026_5f552c9a5f3d.jpg",
-      "bytes": 170608,
-      "sha256": "86c0bf23f4f28fd7331c1cdcdecfa253e205a8e632cc2f6f993f55883a1fdcf5"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30183,16 +30133,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf",
-      "bytes": 1029916,
-      "sha256": "775b7697dc9c9f7fce0a986a6fa44c441846c8e5967e2a37cd5e02d9da19af4b"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf",
-      "bytes": 1184050,
-      "sha256": "ca52978435df93ae5c112e590f5297c98b36fbe163bb97f43defbb5beaad1aa8"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31581,16 +31521,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-12_mmi-daily-iron-ore-index-report-october-_io20261012-en.pdf",
-      "bytes": 1029916,
-      "sha256": "775b7697dc9c9f7fce0a986a6fa44c441846c8e5967e2a37cd5e02d9da19af4b"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-13_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-13th-October-2026.pdf",
-      "bytes": 1184050,
-      "sha256": "ca52978435df93ae5c112e590f5297c98b36fbe163bb97f43defbb5beaad1aa8"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35018,34 +34948,14 @@
       "sha256": "0271fb6b10840f9aebde2ee96c7315dd3b2456071b90f2142ee85cca42e05e8c"
     },
     {
+      "path": "corpus/02-hellenic/tanker_charter/2026/2026-03-25_weekly-tanker-time-charter-estimates-march-25-2026.html",
+      "bytes": 2466,
+      "sha256": "5c5179782527d5b5d012add55657c36a653c42ef6af6b1216b205122d751e410"
+    },
+    {
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
       "bytes": 52460,
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
-    },
-    {
-      "path": "corpus/03-breakwave/drybulk/2026/2026-10-13_Breakwave_Dry_Bulk.pdf",
-      "bytes": 513430,
-      "sha256": "44a5530e7fe1f17e068888efdb9b7780c140b034551106b022509398214c6daa"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-13_10132026db-reporthy2026jjh8.html",
-      "bytes": 5933,
-      "sha256": "8aa20f3e3fbe6b0f6b74f4d4593dd9703a928bcc70e9be3ea90b62804fb0c00c"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-13_10132026db-reporthy2026jjh8.md",
-      "bytes": 4671,
-      "sha256": "4af162d656d01bd303d36caa17574a4df9cb44b0f0fddd97efe5f92077f13dc2"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-13_tanker-fleet-growth.html",
-      "bytes": 7177,
-      "sha256": "9d781745327657ae81cb09fa442cb0e01822a9fb6a68fa6d809ce1c54a6ef238"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-13_tanker-fleet-growth.md",
-      "bytes": 5539,
-      "sha256": "b4c1cc6f44909a2d9b00ae21cd212ddc724e1769ad5f7f0f2abf12a668d5bfc0"
     },
     {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
@@ -35091,26 +35001,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_081b0f6fe7e4.png",
-      "bytes": 47908,
-      "sha256": "c7af3afb3f4cfee1954f4616251ec3e21cdac97688d8861154501767e4c5862e"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0da3421bc13a.png",
-      "bytes": 88015,
-      "sha256": "aca9bdfb07a8cd5b124a51e61569f19fb889215edef75447b2aa4fdc6b3464a3"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-13_10132026db-reporthy2026jjh8_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8940eece872a.png",
-      "bytes": 209272,
-      "sha256": "68fb7503aa72e47f04efec0c341b782a5c57d5276df34aea1ab5fce3cddbb363"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg",
-      "bytes": 604404,
-      "sha256": "700c87be966f3524789249fb5d006fe7255772fea57f59c06c1256a4d8f7b782"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
