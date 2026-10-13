@@ -20,36 +20,9 @@ Russian LNG exports have been growing very fast in recent years, by +71.9% y-o-y
 
 The second top destination after Europe is Japan, which accounted for almost **23%** of Russian LNG shipments in 2021. Shipments to Japan were up by +24.6% y-o-y in 2021 to 6.8 mln tonnes, an all time high. Exports to South Korea also increased in 2021, by +49.4% y-o-y to 2.8 mln tonnes, with South Korea holding a 9.4% share. Shipments to Mainland China declined marginally by -2.9% y-o-y in 2021 to 4.0 mln tonnes, and to Taiwan by -21.4% y-o-y to 1.7 mln tonnes.
 
-### Russia - LNG Exports by Destination in Jan-Dec
+> **Chart (not transcribed):** Russia - LNG Exports by Destination in Jan-Dec. The report prints no values for it.
 
-| Destination | 2019 (1-12) | 2020 (1-12) | 2021 (1-12) |
-| --- | --- | --- | --- |
-| EU27 | 12.9 | 12.2 | 12.1 |
-| Japan | 5.8 | 5.5 | 6.8 |
-| China PR | 3.0 | 4.1 | 4.0 |
-| S Korea | 2.1 | 1.9 | - |
-| NW Europe | 2.4 | 1.8 | 2.4 |
-| Taiwan, CN | - | 2.1 | 1.7 |
-| India | 0.0 | 0.4 | 0.3 |
-| Others/ Unknown | - | 1.0 | 0.6 |
-| - | - | - | 0.2 |
-
-### Russia - Monthly LNG Exports - Seasonality
-
-| Month | 2017 | 2018 | 2019 | 2020 | 2021 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 1.1 | 1.3 | 2.2 | 2.7 | 2.6 |
-| Feb | 0.9 | 1.4 | 2.4 | 2.7 | 2.5 |
-| Mar | 0.9 | 1.4 | 2.4 | 2.6 | 2.6 |
-| Apr | 0.9 | 1.4 | 2.3 | 2.4 | 2.6 |
-| May | 0.8 | 1.3 | 2.3 | 2.6 | 2.6 |
-| Jun | 0.6 | 1.3 | 2.3 | 1.7 | 2.5 |
-| Jul | 0.7 | 1.0 | 2.3 | 2.0 | 1.6 |
-| Aug | 0.7 | 1.0 | 2.3 | 2.1 | 1.6 |
-| Sep | 0.7 | 1.0 | 2.4 | 2.4 | 2.5 |
-| Oct | - | 2.0 | 2.2 | 1.8 | 2.9 |
-| Nov | - | - | - | 2.7 | 2.9 |
-| Dec | - | - | - | - | 2.9 |
+> **Chart (not transcribed):** Russia - Monthly LNG Exports - Seasonality. The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -77,17 +50,7 @@ Nothing new for the C17 route from Saldanha Bay to Qingdao, which opened quite s
 | **Newcastlemax 1-Y Period** | usd/day | 30,500 | 30,000 | +1.7% | +52.5% |
 | **Capesize 1-Y Period** | usd/day | 27,000 | 26,500 | +1.9% | +58.8% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Feb-21 | 15000 | 18000 |
-| Apr-21 | 35000 | 45000 |
-| Jun-21 | 38000 | 42000 |
-| Aug-21 | 35000 | 55000 |
-| Oct-21 | 28000 | 88000 |
-| Dec-21 | 25000 | 35000 |
-| Feb-22 | 26000 | 18000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -113,23 +76,7 @@ Following a first half of the week with increased levels globally, the bad news 
 | **Kamsarmax 1-Y Period** | usd/day | 26,000 | 25,500 | +2.0% | +57.6% |
 | **Panamax 1-Y Period** | usd/day | 19,300 | 19,000 | +1.6% | +33.1% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Feb-21 | 18000 | 19000 |
-| Mar-21 | 20000 | 21000 |
-| Apr-21 | 22000 | 25000 |
-| May-21 | 24000 | 35000 |
-| Jun-21 | 26000 | 38000 |
-| Jul-21 | 27000 | 36000 |
-| Aug-21 | 28000 | 35000 |
-| Sep-21 | 29000 | 37000 |
-| Oct-21 | 28000 | 38000 |
-| Nov-21 | 26000 | 25000 |
-| Dec-21 | 24000 | 20000 |
-| Jan-22 | 23000 | 18000 |
-| Feb-22 | 25000 | 25000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX & HANDYSIZE MARKET
 
@@ -189,23 +136,9 @@ The Far East market maintained its positive trend also last week, particularly o
 | **38k Handy 1-Y Period** | usd/day | 23,500 | 23,500 | +0.0% | +80.8% |
 | **30k Handy 1-Y Period** | usd/day | 19,000 | 19,000 | +0.0% | +65.2% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Feb-21 | 12000 | 20000 |
-| Jun-21 | 25000 | 35000 |
-| Oct-21 | 28000 | 39000 |
-| Feb-22 | 24000 | 27000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Feb-21 | 14000 | 18000 |
-| Jun-21 | 26000 | 35000 |
-| Oct-21 | 28000 | 38000 |
-| Feb-22 | 22000 | 24000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -328,66 +261,13 @@ The Med market would maintain a steady sentiment, but the Russian-Ukrainian conf
 | **Med-Med (30k)** | ws | 160.0 | 145.0 | +10.3% | +3.2% |
 | **Black Sea-Med (30k)** | ws | 300.0 | 155.0 | +93.5% | +79.1% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-21 | 0 |
-| Mar-21 | 20,000 |
-| Apr-21 | 5,000 |
-| May-21 | 5,000 |
-| Jun-21 | 5,000 |
-| Jul-21 | 10,000 |
-| Aug-21 | 10,000 |
-| Sep-21 | 15,000 |
-| Oct-21 | 10,000 |
-| Nov-21 | 15,000 |
-| Dec-21 | 15,000 |
-| Jan-22 | 5,000 |
-| Feb-22 | -5,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-21 | 5,000 |
-| Mar-21 | 10,000 |
-| Apr-21 | 10,000 |
-| May-21 | 20,000 |
-| Jun-21 | 0 |
-| Jul-21 | 5,000 |
-| Aug-21 | 5,000 |
-| Sep-21 | 10,000 |
-| Oct-21 | 10,000 |
-| Nov-21 | 15,000 |
-| Dec-21 | 15,000 |
-| Jan-22 | 15,000 |
-| Feb-22 | 15,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Feb-21 | 10,000 |
-| Mar-21 | 10,000 |
-| Apr-21 | 5,000 |
-| May-21 | 0 |
-| Jun-21 | 15,000 |
-| Jul-21 | 10,000 |
-| Aug-21 | 5,000 |
-| Sep-21 | 5,000 |
-| Oct-21 | 10,000 |
-| Nov-21 | 10,000 |
-| Dec-21 | 7,500 |
-| Jan-22 | 7,500 |
-| Feb-22 | 7,500 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Value |
-| --- | --- |
-| LR2 | 17,000 |
-| MR2 | 13,500 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -419,23 +299,9 @@ Global commodity trading patterns set for upheaval in wake of Putin's invasion o
 | **1700 teu (1Y, geared)** | usd/day | 60,983 | 59,588 | +2.3% | +322.5% |
 | **1100 teu (1Y, geared)** | usd/day | 37,933 | 36,567 | +3.7% | +266.8% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Feb-21 | 30,000 | 25,000 | 15,000 |
-| Jun-21 | 60,000 | 55,000 | 50,000 |
-| Oct-21 | 90,000 | 85,000 | 80,000 |
-| Feb-22 | 110,000 | 95,000 | 85,000 |
-
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Feb-21 | 20,000 | 10,000 | 5,000 |
-| Jun-21 | 50,000 | 35,000 | 25,000 |
-| Oct-21 | 75,000 | 55,000 | 35,000 |
-| Feb-22 | 75,000 | 60,000 | 40,000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -456,23 +322,9 @@ Global commodity trading patterns set for upheaval in wake of Putin's invasion o
 | ***Europe - ECSA*** | usd/feu | 2,681 | 2,681 | +0.0% | +188.0% |
 | **Europe - WCSA** | usd/feu | 8,070 | 8,070 | +0.0% | +228.3% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
-| Date | FBX |
-| --- | --- |
-| Feb-21 | 4,000 |
-| Jun-21 | 10,000 |
-| Oct-21 | 10,500 |
-| Feb-22 | 10,000 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | China - N. Europe | N. Europe - China |
-| --- | --- | --- |
-| Feb-21 | 8,000 | 500 |
-| Jun-21 | 14,000 | 400 |
-| Oct-21 | 15,500 | 300 |
-| Feb-22 | 15,800 | 200 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 08/2022
 
@@ -521,10 +373,7 @@ Markets in the subcontinent remain firmly set for another week, particularly in 
 | **Tnk India** | usd/ldt | 633.8 | 616.5 | +2.8% | +51.1% |
 | **Tnk Pakistan** | usd/ldt | 665.4 | 659.3 | +0.9% | +53.7% |
 
-| Category | Feb-21 | Jun-21 | Oct-21 | Feb-22 |
-| --- | --- | --- | --- | --- |
-| Dry Bulk | 420 | 540 | 600 | 640 |
-| Tanker | 420 | 540 | 600 | 650 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 08/2022
 
@@ -574,13 +423,7 @@ On the contrary, the tanker market was relatively quiet, with a significant sale
 | **Aframax** | usd mln | 41.9 | 41.7 | +0.6% | +23.0% |
 | **MR Product** | usd mln | 30.0 | 29.9 | +0.6% | +17.0% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Vessel Class | Feb-21 | Jun-21 | Oct-21 | Feb-22 |
-| --- | --- | --- | --- | --- |
-| **Kamsarmax** | 22 | 30 | 33 | 33 |
-| **Aframax** | 34 | 39 | 40 | 41 |
-| **MR** | 25 | 27 | 28 | 30 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 08/2022
 
@@ -638,65 +481,13 @@ On the contrary, the tanker market was relatively quiet, with a significant sale
 | **Q3 22** | usd/day | 24,750 | 25,313 | -2.2% | -2.2% |
 | **Q4 22** | usd/day | 23,375 | 23,688 | -1.3% | -7.6% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-21 | 15000 |
-| Apr-21 | 35000 |
-| Jun-21 | 40000 |
-| Aug-21 | 85000 |
-| Oct-21 | 10000 |
-| Feb-22 | 20000 |
-| Apr-22 | 25000 |
-| Jun-22 | 30000 |
-| Aug-22 | 32000 |
-| Feb-23 | 33000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-### PANAMAX FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-21 | 20000 |
-| Apr-21 | 35000 |
-| Jun-21 | 38000 |
-| Aug-21 | 38000 |
-| Oct-21 | 18000 |
-| Feb-22 | 25000 |
-| Apr-22 | 27000 |
-| Jun-22 | 26000 |
-| Aug-22 | 25000 |
-| Feb-23 | 24000 |
-
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-21 | 18000 |
-| Apr-21 | 35000 |
-| Jun-21 | 38000 |
-| Aug-21 | 37000 |
-| Oct-21 | 15000 |
-| Feb-22 | 26000 |
-| Apr-22 | 25000 |
-| Jun-22 | 24000 |
-| Aug-22 | 23000 |
-| Feb-23 | 22000 |
-
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-21 | 20000 |
-| Apr-21 | 35000 |
-| Jun-21 | 38000 |
-| Aug-21 | 39000 |
-| Oct-21 | 15000 |
-| Feb-22 | 26000 |
-| Apr-22 | 25000 |
-| Jun-22 | 24000 |
-| Aug-22 | 23000 |
-| Feb-23 | 22000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -707,16 +498,7 @@ On the contrary, the tanker market was relatively quiet, with a significant sale
 | KRW/USD | 1,198 | 1,196 | +0.2% | +7.0% |
 | CNY/USD | 6.3 | 6.3 | -0.1% | -2.1% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Feb-21 | 105 |
-| Apr-21 | 110 |
-| Jun-21 | 110 |
-| Aug-21 | 110 |
-| Oct-21 | 115 |
-| Feb-22 | 115 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 08/2022
 
@@ -739,14 +521,7 @@ On the contrary, the tanker market was relatively quiet, with a significant sale
 |  | **Fujairah** | usd/t | 236.0 | 207.0 | +14.0% | -59.0% |
 |  | **Singapore** | usd/t | 221.0 | 209.0 | +5.7% | -61.6% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Feb-21 | 400 | 500 | 550 |
-| Jun-21 | 550 | 580 | 600 |
-| Oct-21 | 450 | 600 | 750 |
-| Feb-22 | 500 | 750 | 850 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -761,23 +536,9 @@ On the contrary, the tanker market was relatively quiet, with a significant sale
 | Jet Fuel Singapore | usd/bbl | 108.9 | 101.6 | +7.2% | +64.3% |
 | Nat Gas Henry Hub | usd/mmbtu | 4.63 | 4.61 | +0.4% | -6.7% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Feb-21 | 60 | 60 |
-| Jun-21 | 75 | 75 |
-| Oct-21 | 85 | 85 |
-| Feb-22 | 95 | 95 |
-
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Feb-21 | 2.5 |
-| Jun-21 | 4.0 |
-| Oct-21 | 5.5 |
-| Feb-22 | 4.2 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -788,14 +549,7 @@ On the contrary, the tanker market was relatively quiet, with a significant sale
 | **Steam Coal Qinhuangdao** | rmb/t | 935.0 | 970.0 | -3.6% | +46.6% |
 | **Coking Coal Australia SGX** | usd/t | 445.0 | 434.5 | +2.4% | +205.3% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Feb-21 | 80 | 150 |
-| Jun-21 | 140 | 170 |
-| Oct-21 | 240 | 70 |
-| Feb-22 | 250 | 120 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -807,14 +561,7 @@ On the contrary, the tanker market was relatively quiet, with a significant sale
 | Plate in China CISA | rmb/t | 5207.0 | 5184.0 | +0.4% | +11.8% |
 | HR Coil in China CISA | rmb/t | 5038.0 | 5046.0 | -0.2% | +5.2% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | Rebar | Plate |
-| --- | --- | --- |
-| Feb-21 | 4500 | 4500 |
-| Jun-21 | 5000 | 6200 |
-| Oct-21 | 5000 | 5000 |
-| Feb-22 | 4800 | 5100 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -826,14 +573,7 @@ On the contrary, the tanker market was relatively quiet, with a significant sale
 | **Sugar ICE N.11** | usc/lb | 17.99 | 18.20 | -1.2% | +1.1% |
 | **Palm Oil Malaysia** | usd/t | 1600.0 | 1435.0 | +11.5% | +65.2% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Feb-21 | 550 | 650 |
-| Jun-21 | 500 | 750 |
-| Oct-21 | 580 | 800 |
-| Feb-22 | 650 | 850 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

@@ -805,8 +805,19 @@ parsed_engine: "LlamaParse tier=cost_effective version=latest"
     year_dir.mkdir(parents=True, exist_ok=True)
     (year_dir / f"{stem}.md").write_text(full_md, encoding="utf-8")
 
+    # Chart "tables" in the parse are values read off line charts by eye: replace them with a chart note and
+    # rebuild labelled bar charts from the PDF geometry (scripts/md_cleanup/banchero_chart_note.py)
+    try:
+        sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "md_cleanup"))
+        import banchero_chart_note
+        banchero_chart_note.process(year_dir / f"{stem}.md", True, pdf=pdf_path)
+        out_md_path.write_bytes((year_dir / f"{stem}.md").read_bytes())
+    except Exception as e:
+        print(f"  [!] banchero_chart_note failed for {stem}: {e}")
+
     # Extract tables into .tables.json sidecar
     tables_data = extract_structured_tables_from_md(cleaned_body, issue_date, report_week, pdf_path.name)
+    tables_data.pop("chart_series", None)   # eyeballed chart points, not printed values: never stored
     out_json_path = MD_OUT_DIR / f"{stem}.tables.json"
     out_json_path.write_text(json.dumps(tables_data, indent=2), encoding="utf-8")
     (year_dir / f"{stem}.tables.json").write_text(json.dumps(tables_data, indent=2), encoding="utf-8")

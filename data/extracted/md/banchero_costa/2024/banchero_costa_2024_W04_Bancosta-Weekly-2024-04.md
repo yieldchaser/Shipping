@@ -20,35 +20,9 @@ The main iron ore import terminals in Mainland China are: Caofeidian (121.0 mln 
 
 Brazil remains in second spot with a 21% share in Jan-Dec 2023. Imports to China from Brazil increased by +7.5% y-o-y to 251.4 mln tonnes in Jan-Dec 2023, from 234.0 mln t in Jan-Dec 2022. The top loading port in Brazil for iron ore cargoes to China was Ponta da Madeira (115.4 mln t in 2023), followed by Sepetiba (64.1 mln t) and Tubarao (34.9 mln t). Volumes from South Africa declined by -3.2% y-o-y to 30.2 mln t in Jan-Dec 2023. From India volumes surged by +252.8% y-o-y to 37.2 mln t. From Canada volumes increased by +29.3% y-o-y to 17.3 mln t.
 
-### China - Iron Ore Imports by Source in Jan-Dec (jan 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+> **Chart (not transcribed):** China - Iron Ore Imports by Source in Jan-Dec (jan 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 
-| Source | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
-| --- | --- | --- | --- |
-| Australia | 730 | 770 | 770 |
-| Brazil | 242 | 234 | 251 |
-| India | 32 | 11 | 37 |
-| S Africa | 32 | 31 | 30 |
-| Peru | 18 | 19 | 20 |
-| Canada | 15 | 13 | 17 |
-| Malaysia | 15 | 13 | 15 |
-| Others/Unknown | 62 | 52 | 59 |
-
-### China - Monthly Iron Ore Imports - Seasonality (jan 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
-
-| Month | 2019 | 2020 | 2021 | 2022 | 2023 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 105 | 95 | 110 | 110 | 108 |
-| Feb | 85 | 85 | 85 | 85 | 95 |
-| Mar | 95 | 100 | 95 | 95 | 98 |
-| Apr | 75 | 85 | 75 | 85 | 90 |
-| May | 85 | 95 | 95 | 95 | 98 |
-| Jun | 90 | 95 | 95 | 95 | 98 |
-| Jul | 95 | 110 | 105 | 100 | 115 |
-| Aug | 100 | 105 | 105 | 100 | 108 |
-| Sep | 100 | 100 | 100 | 100 | 100 |
-| Oct | 100 | 110 | 100 | 100 | 105 |
-| Nov | 100 | 95 | 95 | 100 | 100 |
-| Dec | 95 | 90 | 90 | 95 | 100 |
+> **Chart (not transcribed):** China - Monthly Iron Ore Imports - Seasonality (jan 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -74,17 +48,7 @@ Five Ocean fixed the MV Pharlap (179,276 dwt | 2011 built) basis delivery Rotter
 | **Newcastlemax 1-Y Period** | usd/day | 24,600 | 24,600 | +0.0% | +30.2% |
 | **Capesize 1-Y Period** | usd/day | 20,500 | 20,500 | +0.0% | +29.7% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Jan-23 | 15000 | 5000 |
-| Mar-23 | 18000 | 18000 |
-| May-23 | 17000 | 20000 |
-| Jul-23 | 16000 | 15000 |
-| Sep-23 | 15000 | 18000 |
-| Nov-23 | 18000 | 55000 |
-| Jan-24 | 18000 | 18000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -110,17 +74,7 @@ The Pacific basin generated returns which were lower than P6 and that has been a
 | **Kamsarmax 1-Y Period** | usd/day | 16,600 | 15,300 | +8.5% | +7.1% |
 | **Panamax 1-Y Period** | usd/day | 14,000 | 13,300 | +5.3% | +16.7% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Jan-23 | 16000 | 8000 |
-| Mar-23 | 17000 | 16000 |
-| May-23 | 14000 | 10000 |
-| Jul-23 | 12000 | 8500 |
-| Sep-23 | 14000 | 14000 |
-| Nov-23 | 16000 | 21000 |
-| Jan-24 | 15500 | 15000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -176,29 +130,9 @@ The market in F East remained stable for another week. A 63,000 dwt with dely Sp
 | **38k Handy 1-Y Period** | usd/day | 14,300 | 13,800 | +3.6% | +16.3% |
 | **30k Handy 1-Y Period** | usd/day | 10,500 | 10,500 | +0.0% | +10.5% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Jan-23 | 11500 | 7000 |
-| Mar-23 | 16000 | 14500 |
-| May-23 | 15500 | 8000 |
-| Jul-23 | 10000 | 8500 |
-| Sep-23 | 10500 | 14000 |
-| Nov-23 | 14000 | 16500 |
-| Jan-24 | 12000 | 12000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Jan-23 | 12500 | 8000 |
-| Mar-23 | 14000 | 13000 |
-| May-23 | 10000 | 7500 |
-| Jul-23 | 9000 | 9000 |
-| Sep-23 | 10500 | 13500 |
-| Nov-23 | 14500 | 16000 |
-| Jan-24 | 14000 | 11000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -241,93 +175,15 @@ Up to 2 (vs 1) VLCCs and 1 (vs 1) Suezmax waiting off China laden for more than 
 | **Aframax TCE Average** | usd/day | 59,405 | 63,741 | -6.8% | +0.6% |
 | **Aframax 1-Y Period** | usd/day | 48,500 | 46,000 | +5.4% | +11.5% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jan-23 | 20000 |
-| Mar-23 | 90000 |
-| Apr-23 | 80000 |
-| May-23 | 20000 |
-| Jun-23 | 30000 |
-| Jul-23 | 70000 |
-| Aug-23 | 60000 |
-| Sep-23 | 15000 |
-| Oct-23 | 20000 |
-| Nov-23 | 35000 |
-| Dec-23 | 40000 |
-| Jan-24 | 35000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jan-23 | 120000 |
-| Mar-23 | 70000 |
-| Apr-23 | 60000 |
-| May-23 | 50000 |
-| Jun-23 | 10000 |
-| Jul-23 | 5000 |
-| Aug-23 | 0 |
-| Sep-23 | 50000 |
-| Oct-23 | 80000 |
-| Nov-23 | 60000 |
-| Dec-23 | 60000 |
-| Jan-24 | 60000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jan-23 | 50000 |
-| Feb-23 | 80000 |
-| Mar-23 | 60000 |
-| Apr-23 | 40000 |
-| May-23 | 30000 |
-| Jun-23 | 10000 |
-| Jul-23 | -5000 |
-| Aug-23 | -10000 |
-| Sep-23 | 80000 |
-| Oct-23 | 70000 |
-| Nov-23 | 80000 |
-| Dec-23 | 75000 |
-| Jan-24 | 70000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jan-23 | 60000 |
-| Feb-23 | 120000 |
-| Mar-23 | 80000 |
-| Apr-23 | 50000 |
-| May-23 | 20000 |
-| Jun-23 | -10000 |
-| Jul-23 | -20000 |
-| Aug-23 | -10000 |
-| Sep-23 | 60000 |
-| Oct-23 | 50000 |
-| Nov-23 | 50000 |
-| Dec-23 | 50000 |
-| Jan-24 | 50000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Jan-23 | 40000 | 40000 | 40000 |
-| Feb-23 | 55000 | 45000 | 45000 |
-| Mar-23 | 50000 | 40000 | 40000 |
-| Apr-23 | 45000 | 40000 | 40000 |
-| May-23 | 40000 | 40000 | 40000 |
-| Jun-23 | 40000 | 40000 | 40000 |
-| Jul-23 | 45000 | 40000 | 40000 |
-| Aug-23 | 45000 | 40000 | 40000 |
-| Sep-23 | 50000 | 40000 | 40000 |
-| Oct-23 | 50000 | 40000 | 40000 |
-| Nov-23 | 50000 | 40000 | 40000 |
-| Dec-23 | 50000 | 40000 | 40000 |
-| Jan-24 | 50000 | 40000 | 45000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -366,41 +222,13 @@ A steady week for Handies in Med with a longer tonnage list at the end and rates
 | **Med-Med (30k)** | ws | 337.5 | 345.0 | -2.2% | +29.8% |
 | **Black Sea-Med (30k)** | ws | 390.0 | 400.0 | -2.5% | -13.3% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jan-23 | 0 |
-| May-23 | 50,000 |
-| Sep-23 | 50,000 |
-| Jan-24 | 150,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jan-23 | 0 |
-| May-23 | 20,000 |
-| Sep-23 | 40,000 |
-| Jan-24 | 80,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Jan-23 | 0 |
-| May-23 | 20,000 |
-| Sep-23 | 40,000 |
-| Jan-24 | 80,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Jan-23 | 45,000 | 28,000 |
-| May-23 | 38,000 | 25,000 |
-| Sep-23 | 38,000 | 26,000 |
-| Jan-24 | 52,000 | 28,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -428,23 +256,9 @@ There was still lot of activity in the containership charter market as ocean car
 | **1700 teu (1Y, geared)** | usd/day | 9,614 | 9,396 | +2.3% | -27.0% |
 | **1100 teu (1Y, geared)** | usd/day | 7,584 | 7,296 | +3.9% | -28.3% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Jan-23 | 18000 | 18500 | 17500 |
-| May-23 | 24000 | 23500 | 21000 |
-| Sep-23 | 20000 | 19500 | 16000 |
-| Jan-24 | 19000 | 18000 | 16500 |
-
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Jan-23 | 17000 | 14000 | 11000 |
-| May-23 | 16000 | 15500 | 12000 |
-| Sep-23 | 12000 | 10000 | 7000 |
-| Jan-24 | 13000 | 10000 | 8000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -462,23 +276,9 @@ There was still lot of activity in the containership charter market as ocean car
 | **Med - China** | usd/feu | 1,330 | 1,261 | +5.5% | +60.4% |
 | **ECNA - Europe** | usd/feu | 535 | 557 | -3.9% | -5.8% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
-| Date | FBX |
-| --- | --- |
-| Jan-23 | 2200 |
-| May-23 | 1500 |
-| Sep-23 | 1200 |
-| Jan-24 | 3500 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | China - N. Europe | N. Europe - China |
-| --- | --- | --- |
-| Jan-23 | 3500 | 500 |
-| May-23 | 1500 | 500 |
-| Sep-23 | 1000 | 500 |
-| Jan-24 | 5800 | 1000 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 04/2024
 
@@ -499,11 +299,7 @@ Activity slowed in the NB market due to the end of a very busy 2023 and the Chin
 | **LR2 Coated** | usd mln | 64.2 | 63.7 | +0.7% | +6.5% |
 | **MR2 Coated** | usd mln | 42.4 | 42.2 | +0.6% | +6.9% |
 
-| Category | Jan-23 | May-23 | Sep-23 | Jan-24 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 70 | 70 | 75 | 77 |
-| Suezmax | 70 | 72 | 77 | 78 |
-| MR | 38 | 41 | 43 | 44 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -518,10 +314,7 @@ A very quiet week across the SubContinent with little in the way of interesting 
 | **Tnk India** | usd/ldt | 508.3 | 510.5 | -0.4% | -7.3% |
 | **Tnk Bangladesh** | usd/ldt | 516.4 | 506.3 | +2.0% | +0.7% |
 
-| Category | Jan-23 | May-23 | Sep-23 | Jan-24 |
-| --- | --- | --- | --- | --- |
-| Dry Bulk | 530 | 570 | 510 | 505 |
-| Tanker | 530 | 580 | 515 | 510 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE
 # SECONDHAND SALES
@@ -576,13 +369,7 @@ With regards to MRs, the **LADY MALOU** 51,000 DWT 2013 Hyundai Mipo was reporte
 
 ### SECONDHAND VALUES (USD MLN)Jan-23
 
-| May-23 | SECONDHAND VALUES (USD MLN) | SECONDHAND VALUES (USD MLN) | SECONDHAND VALUES (USD MLN) | SECONDHAND VALUES (USD MLN) |
-| --- | --- | --- | --- | --- |
-| Sep-23 | Kamsarmax | Aframax | MR |  |
-| Jan-24 | 30 | 60 | 42 |  |
-|  | 32 | 62 | 43 |  |
-|  | 33 | 66 | 44 |  |
-|  | 34 | 68 | 45 |  |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 04/2024
 
@@ -640,65 +427,13 @@ With regards to MRs, the **LADY MALOU** 51,000 DWT 2013 Hyundai Mipo was reporte
 | **Q2 24** | usd/day | 13,908 | 14,058 | -1.1% | +29.4% |
 | **Q3 24** | usd/day | 13,550 | 13,713 | -1.2% | +26.1% |
 
-## CAPESIZE FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jan-23 | 5000 |
-| Mar-23 | 15000 |
-| May-23 | 10000 |
-| Jul-23 | 25000 |
-| Sep-23 | 30000 |
-| Jan-24 | 55000 |
-| Mar-24 | 22000 |
-| May-24 | 18000 |
-| Jul-24 | 22000 |
-| Jan-25 | 22000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-## PANAMAX FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jan-23 | 8000 |
-| Mar-23 | 15000 |
-| May-23 | 10000 |
-| Jul-23 | 12000 |
-| Sep-23 | 22000 |
-| Jan-24 | 15000 |
-| Mar-24 | 16000 |
-| May-24 | 16000 |
-| Jul-24 | 16000 |
-| Jan-25 | 16000 |
-
-## SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jan-23 | 7000 |
-| Mar-23 | 14000 |
-| May-23 | 10000 |
-| Jul-23 | 15000 |
-| Sep-23 | 16000 |
-| Jan-24 | 14000 |
-| Mar-24 | 14000 |
-| May-24 | 14000 |
-| Jul-24 | 14000 |
-| Jan-25 | 14000 |
-
-## HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jan-23 | 8000 |
-| Mar-23 | 12000 |
-| May-23 | 8000 |
-| Jul-23 | 10000 |
-| Sep-23 | 16000 |
-| Jan-24 | 12000 |
-| Mar-24 | 13000 |
-| May-24 | 13000 |
-| Jul-24 | 13000 |
-| Jan-25 | 13000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -709,16 +444,7 @@ With regards to MRs, the **LADY MALOU** 51,000 DWT 2013 Hyundai Mipo was reporte
 | KRW/USD | 1337 | 1334 | +0.2% | +8.8% |
 | CNY/USD | 7.18 | 7.19 | -0.2% | +5.8% |
 
-## JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Jan-23 | 130 |
-| Mar-23 | 135 |
-| May-23 | 140 |
-| Jul-23 | 145 |
-| Sep-23 | 155 |
-| Jan-24 | 150 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 04/2024
 
@@ -781,12 +507,7 @@ With regards to MRs, the **LADY MALOU** 51,000 DWT 2013 Hyundai Mipo was reporte
 | Sep-23 | 450 | 600 | 900 |
 | Jan-24 | 450 | 600 | 800 |
 
-| DATE | Brent | WTI |
-| --- | --- | --- |
-| Jan-23 | 85 | 80 |
-| May-23 | 75 | 70 |
-| Sep-23 | 90 | 90 |
-| Jan-24 | 80 | 80 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | DATE | Henry Hub Nat Gas |
 | --- | --- |
@@ -795,23 +516,8 @@ With regards to MRs, the **LADY MALOU** 51,000 DWT 2013 Hyundai Mipo was reporte
 | Sep-23 | 3.5 |
 | Jan-24 | 2.5 |
 
-| DATE | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Jan-23 | 350 | 120 |
-| May-23 | 150 | 110 |
-| Sep-23 | 130 | 120 |
-| Jan-24 | 130 | 125 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | HRC | Plate |
-| --- | --- | --- |
-| Jan-23 | 4200 | 4300 |
-| May-23 | 3500 | 3800 |
-| Sep-23 | 3600 | 3900 |
-| Jan-24 | 4000 | 4000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Corn | Wheat |
-| --- | --- | --- |
-| Jan-23 | 750 | 750 |
-| May-23 | 500 | 600 |
-| Sep-23 | 450 | 500 |
-| Jan-24 | 450 | 650 |
+> **Chart (not transcribed).** The report prints no values for it.

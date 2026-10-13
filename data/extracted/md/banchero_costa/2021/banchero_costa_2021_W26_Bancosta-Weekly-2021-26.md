@@ -20,33 +20,18 @@ In terms of sources of the shipments, things are changing a little bit. Anyways,
 
 ### Japan - Crude Oil Imports by Source in Jan-Jun (Jul 2021 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
 
-| Source         | 2019 (1-6) | 2020 (1-6) | 2021 (1-6) |
-| -------------- | ---------- | ---------- | ---------- |
-| Saudi A        | 28         | 25         | 26         |
-| UAE            | 19         | 21         | 17         |
-| Qatar          | 7          | 6          | 6          |
-| Kuwait         | 6          | 7          | 5          |
-| Russia         | 3          | 3          | 2          |
-| ASEAN          | 1          | 1          | 1          |
-| USA            | 2          | 1          | 1          |
-| Others/Unknown | 7          | 2          | 2          |
+| Source | 2019 (1-6) | 2020 (1-6) | 2021 (1-6) |
+| --- | --- | --- | --- |
+| Saudi A | 28 | 25 | 26 |
+| UAE | 19 | 21 | 17 |
+| Qatar | 7 | 6 | 6 |
+| Kuwait | 6 | 7 | 5 |
+| Russia | 3 | 3 | 2 |
+| ASEAN | 1 | 1 | 1 |
+| USA | 2 | 1 | 1 |
+| Others/Unknown | 7 | 2 | 2 |
 
-### Japan - Monthly Crude Oil Imports - Seasonality (Jul 2021 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
-
-| Month | 2017 | 2018 | 2019 | 2020 | 2021 |
-| ----- | ---- | ---- | ---- | ---- | ---- |
-| Jan   | 13.0 | 14.2 | 13.0 | 12.5 | 10.8 |
-| Feb   | 12.5 | 10.8 | 12.8 | 11.8 | 8.9  |
-| Mar   | 12.0 | 14.2 | 12.5 | 12.0 | 11.5 |
-| Apr   | 13.8 | 13.2 | 12.8 | 12.0 | 9.6  |
-| May   | 11.5 | 11.0 | 12.2 | 10.0 | 9.6  |
-| Jun   | 11.0 | 9.6  | 11.2 | 7.3  | 8.9  |
-| Jul   | 14.2 | 14.0 | 12.5 | 9.8  | 10.2 |
-| Aug   | 12.8 | 14.0 | 12.8 | 10.5 | 11.2 |
-| Sep   | 14.0 | 13.8 | 11.0 | 10.0 | 11.8 |
-| Oct   | 12.0 | 11.5 | 10.8 | 8.8  | 10.5 |
-| Nov   | 13.5 | 13.2 | 11.0 | 10.8 | 10.8 |
-| Dec   | 13.8 | 13.2 | 13.0 | 10.8 | 13.2 |
+> **Chart (not transcribed):** Japan - Monthly Crude Oil Imports - Seasonality (Jul 2021 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -257,39 +242,11 @@ By Thursday, the tonnage list appeared to be very short, and charterers began to
 | **Med-Med (30k)**             | ws      | 155.0 | 140.0  | +10.7%  | +45.9% |
 | **Black Sea-Med (30k)**       | ws      | 165.0 | 150.0  | +10.0%  | +41.9% |
 
-| TC1 LR2 MEG-JAPAN (usd/day)<br/>Date | TC1 LR2 MEG-JAPAN (usd/day)<br/>Value | TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| ------------------------------------ | ------------------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Jul-20                               | 10000                                 |                             |                             |                             |                             |
-| Aug-20                               | 18000                                 |                             |                             |                             |                             |
-| Sep-20                               | 16000                                 |                             |                             |                             |                             |
-| Oct-20                               | 14000                                 |                             |                             |                             |                             |
-| Nov-20                               | 12000                                 |                             |                             |                             |                             |
-| Dec-20                               | 8000                                  |                             |                             |                             |                             |
-| Jan-21                               | 2000                                  |                             |                             |                             |                             |
-| Feb-21                               | -2000                                 |                             |                             |                             |                             |
-| Mar-21                               | 21000                                 |                             |                             |                             |                             |
-| Apr-21                               | 10000                                 |                             |                             |                             |                             |
-| May-21                               | 5000                                  |                             |                             |                             |                             |
-| Jun-21                               | 0                                     |                             |                             |                             |                             |
-| Jul-21                               | 0                                     |                             |                             |                             |                             |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
 <table> <thead> <tr> <th colspan="6">MR ATLANTIC BASKET (usd/day)</th> </tr> <tr> <th>Date</th> <th>Value</th> </tr> </thead> <tbody> <tr> <td>Jul-20</td> <td>10000</td> </tr> <tr> <td>Aug-20</td> <td>22000</td> </tr> <tr> <td>Sep-20</td> <td>24000</td> </tr> <tr> <td>Oct-20</td> <td>15000</td> </tr> <tr> <td>Nov-20</td> <td>8000</td> </tr> <tr> <td>Dec-20</td> <td>6000</td> </tr> <tr> <td>Jan-21</td> <td>8000</td> </tr> <tr> <td>Feb-21</td> <td>9000</td> </tr> <tr> <td>Mar-21</td> <td>9000</td> </tr> <tr> <td>Apr-21</td> <td>10000</td> </tr> <tr> <td>May-21</td> <td>12000</td> </tr> <tr> <td>Jun-21</td> <td>7000</td> </tr> <tr> <td>Jul-21</td> <td>6000</td> </tr> </tbody> </table>
 
-| MR PACIFIC BASKET (usd/day)<br/>Date | MR PACIFIC BASKET (usd/day)<br/>Value | MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) |
-| ------------------------------------ | ------------------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Jul-20                               | 6000                                  |                             |                             |                             |                             |
-| Aug-20                               | 8000                                  |                             |                             |                             |                             |
-| Sep-20                               | 9000                                  |                             |                             |                             |                             |
-| Oct-20                               | 10000                                 |                             |                             |                             |                             |
-| Nov-20                               | 14000                                 |                             |                             |                             |                             |
-| Dec-20                               | 8000                                  |                             |                             |                             |                             |
-| Jan-21                               | 11000                                 |                             |                             |                             |                             |
-| Feb-21                               | 12000                                 |                             |                             |                             |                             |
-| Mar-21                               | 11000                                 |                             |                             |                             |                             |
-| Apr-21                               | 10000                                 |                             |                             |                             |                             |
-| May-21                               | 9000                                  |                             |                             |                             |                             |
-| Jun-21                               | 7000                                  |                             |                             |                             |                             |
-| Jul-21                               | 1000                                  |                             |                             |                             |                             |
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
 <table> <thead> <tr> <th colspan="6">1 YR TC PERIOD (USD/DAY)</th> </tr> <tr> <th>Category</th> <th>Value</th> </tr> </thead> <tbody> <tr> <td>LR2</td> <td>19000</td> </tr> <tr> <td>MR2</td> <td>14500</td> </tr> </tbody> </table>
 
@@ -495,20 +452,7 @@ Chinese buyers are behind the sale of Maran Triton, 319,000 dwt built 2003 Hyund
 | Sugar ICE N.11    | usc/lb | 18.15  | 16.90  | +7.4% | +57.1%  |
 | Palm Oil Malaysia | usd/t  | 936.0  | 891.0  | +5.1% | +62.3%  |
 
-| Category | Date   | Value |
-| -------- | ------ | ----- |
-| IFO380   | Jul-20 | 380   |
-| IFO380   | Nov-20 | 350   |
-| IFO380   | Mar-21 | 550   |
-| IFO380   | Jul-21 | 580   |
-| VLSFO    | Jul-20 | 400   |
-| VLSFO    | Nov-20 | 360   |
-| VLSFO    | Mar-21 | 580   |
-| VLSFO    | Jul-21 | 600   |
-| LSMGO    | Jul-20 | 380   |
-| LSMGO    | Nov-20 | 340   |
-| LSMGO    | Mar-21 | 580   |
-| LSMGO    | Jul-21 | 600   |
+> **Chart (not transcribed).** The report prints no values for it.
 
 <table> <thead> <tr> <th>Category</th> <th>Date</th> <th>Value</th> </tr> </thead> <tbody> <tr> <td>Brent</td> <td>Jul-20</td> <td>40</td> </tr> <tr> <td>Brent</td> <td>Nov-20</td> <td>45</td> </tr> <tr> <td>Brent</td> <td>Mar-21</td> <td>65</td> </tr> <tr> <td>Brent</td> <td>Jul-21</td> <td>75</td> </tr> <tr> <td>WTI</td> <td>Jul-20</td> <td>40</td> </tr> <tr> <td>WTI</td> <td>Nov-20</td> <td>38</td> </tr> <tr> <td>WTI</td> <td>Mar-21</td> <td>60</td> </tr> <tr> <td>WTI</td> <td>Jul-21</td> <td>78</td> </tr> </tbody> </table> <table> <thead> <tr> <th>Category</th> <th>Date</th> <th>Value</th> </tr> </thead> <tbody> <tr> <td>Henry Hub Nat Gas</td> <td>Jul-20</td> <td>1.5</td> </tr> <tr> <td>Henry Hub Nat Gas</td> <td>Nov-20</td> <td>2.5</td> </tr> <tr> <td>Henry Hub Nat Gas</td> <td>Mar-21</td> <td>6.0</td> </tr> <tr> <td>Henry Hub Nat Gas</td> <td>Jul-21</td> <td>3.5</td> </tr> </tbody> </table> <table> <thead> <tr> <th>Category</th> <th>Date</th> <th>Value</th> </tr> </thead> <tbody> <tr> <td>Steam Coal</td> <td>Jul-20</td> <td>40</td> </tr> <tr> <td>Steam Coal</td> <td>Nov-20</td> <td>60</td> </tr> <tr> <td>Steam Coal</td> <td>Mar-21</td> <td>80</td> </tr> <tr> <td>Steam Coal</td> <td>Jul-21</td> <td>130</td> </tr> <tr> <td>Iron Ore</td> <td>Jul-20</td> <td>90</td> </tr> <tr> <td>Iron Ore</td> <td>Nov-20</td> <td>110</td> </tr> <tr> <td>Iron Ore</td> <td>Mar-21</td> <td>150</td> </tr> <tr> <td>Iron Ore</td> <td>Jul-21</td> <td>180</td> </tr> </tbody> </table> <table> <thead> <tr> <th>Category</th> <th>Date</th> <th>Value</th> </tr> </thead> <tbody> <tr> <td>Rebar</td> <td>Jul-20</td> <td>3800</td> </tr> <tr> <td>Rebar</td> <td>Nov-20</td> <td>4000</td> </tr> <tr> <td>Rebar</td> <td>Mar-21</td> <td>4500</td> </tr> <tr> <td>Rebar</td> <td>Jul-21</td> <td>4800</td> </tr> <tr> <td>Plate</td> <td>Jul-20</td> <td>3800</td> </tr> <tr> <td>Plate</td> <td>Nov-20</td> <td>4000</td> </tr> <tr> <td>Plate</td> <td>Mar-21</td> <td>5000</td> </tr> <tr> <td>Plate</td> <td>Jul-21</td> <td>5500</td> </tr> </tbody> </table> <table> <thead> <tr> <th>Category</th> <th>Date</th> <th>Value</th> </tr> </thead> <tbody> <tr> <td>Corn</td> <td>Jul-20</td> <td>300</td> </tr> <tr> <td>Corn</td> <td>Nov-20</td> <td>400</td> </tr> <tr> <td>Corn</td> <td>Mar-21</td> <td>500</td> </tr> <tr> <td>Corn</td> <td>Jul-21</td> <td>650</td> </tr> <tr> <td>Wheat</td> <td>Jul-20</td> <td>500</td> </tr> <tr> <td>Wheat</td> <td>Nov-20</td> <td>550</td> </tr> <tr> <td>Wheat</td> <td>Mar-21</td> <td>750</td> </tr> <tr> <td>Wheat</td> <td>Jul-21</td> <td>650</td> </tr> </tbody> </table> COMMODITIES MARKET REPORT – WEEK 26/2021 13
 

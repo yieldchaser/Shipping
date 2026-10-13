@@ -20,35 +20,9 @@ However, what Covid restrictions did was to change seasonality patterns quite dr
 
 To Japan they are up +9.9% y-o-y to 1.9 mln tonnes. To Vietnam it's +71.9% y-o-y to 0.4 mln tonnes.
 
-### South Africa - Iron Ore Exports by Destination in Jan-Jul
+> **Chart (not transcribed):** South Africa - Iron Ore Exports by Destination in Jan-Jul. The report prints no values for it.
 
-| Destination | 2019 (1-7) | 2020 (1-7) | 2021 (1-7) |
-| --- | --- | --- | --- |
-| China PR | 19 | 20 | 16 |
-| EU27 | 7 | 5 | 9 |
-| S Korea | 3 | 3 | 2 |
-| Japan | 2 | 2 | 2 |
-| Vietnam | 0 | 0 | 0 |
-| UK | 0 | 0 | 0 |
-| India | 1 | 0 | 0 |
-| Others/ Unknown | 2 | 1 | 2 |
-
-### South Africa - Monthly Iron Ore Exports - Seasonality
-
-| Month | 2017 | 2018 | 2019 | 2020 | 2021 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 4.9 | 4.7 | 4.9 | 5.6 | 4.6 |
-| Feb | 4.8 | 4.8 | 5.0 | 4.8 | 4.5 |
-| Mar | 5.0 | 4.9 | 5.5 | 4.6 | 5.0 |
-| Apr | 5.1 | 4.9 | 5.6 | 3.6 | 4.5 |
-| May | 5.2 | 5.0 | 5.4 | 4.0 | 4.9 |
-| Jun | 5.0 | 4.8 | 4.6 | 3.8 | 4.4 |
-| Jul | 4.9 | 4.9 | 4.7 | 4.5 | 4.8 |
-| Aug | 5.0 | 5.0 | 5.5 | 5.4 | 5.2 |
-| Sep | 4.8 | 5.1 | 3.5 | 5.2 | 3.8 |
-| Oct | 4.7 | 4.8 | 3.1 | 3.2 | 5.4 |
-| Nov | 5.4 | 5.5 | 5.3 | 5.5 | 5.5 |
-| Dec | 5.5 | 5.8 | 5.5 | 5.6 | 5.7 |
+> **Chart (not transcribed):** South Africa - Monthly Iron Ore Exports - Seasonality. The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -67,15 +41,7 @@ The C17 route from Saldanha Bay to Qingdao did not see any significant changes, 
 | **Newcastlemax 1-Y Period** | usd/day | 33,000 | 33,000 | +0.0% | +100.0% |
 | **Capesize 1-Y Period** | usd/day | 30,000 | 30,000 | +0.0% | +106.9% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Aug-20 | 15000 | 15000 |
-| Aug-20 | 30000 | 30000 |
-| Dec-20 | 15000 | 10000 |
-| Apr-21 | 25000 | 40000 |
-| Aug-21 | 28000 | 50000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -94,14 +60,7 @@ The C17 route from Saldanha Bay to Qingdao did not see any significant changes, 
 | **Kamsarmax 1-Y Period** | usd/day | 29,000 | 26,500 | +9.4% | +132.0% |
 | **Panamax 1-Y Period** | usd/day | 25,500 | 23,000 | +10.9% | +131.8% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Aug-20 | 10000 | 10000 |
-| Dec-20 | 15000 | 15000 |
-| Apr-21 | 25000 | 30000 |
-| Aug-21 | 25000 | 35000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -161,23 +120,9 @@ The market on the ECSAm was strong and steady for the entire week, for both Hand
 | **38k Handy 1-Y Period** | usd/day | 26,000 | 25,000 | +4.0% | +188.9% |
 | **30k Handy 1-Y Period** | usd/day | 22,000 | 22,000 | +0.0% | +166.7% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Aug-20 | 10,000 | 10,000 |
-| Dec-20 | 15,000 | 15,000 |
-| Apr-21 | 25,000 | 20,000 |
-| Aug-21 | 28,000 | 38,000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Aug-20 | 10,000 | 10,000 |
-| Dec-20 | 12,000 | 12,000 |
-| Apr-21 | 15,000 | 18,000 |
-| Aug-21 | 25,000 | 35,000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -229,92 +174,15 @@ Rates in NW Europe edged up to WS92.5 for 80,000 mt North Sea to UKC and WS60 fo
 | **Northbound** | days | 1.0 | 1.0 | +0.0% | +0.0% |
 | **Southbound** | days | 1.5 | 1.5 | +0.0% | +50.0% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-20 | 12000 |
-| Aug-20 | 24000 |
-| Aug-20 | 18000 |
-| Aug-20 | 15000 |
-| Aug-20 | 10000 |
-| Dec-20 | 18000 |
-| Dec-20 | 19000 |
-| Dec-20 | 15000 |
-| Dec-20 | 10000 |
-| Dec-20 | 5000 |
-| Apr-21 | -5000 |
-| Apr-21 | -10000 |
-| Apr-21 | -15000 |
-| Apr-21 | -20000 |
-| Apr-21 | -25000 |
-| Aug-21 | -5000 |
-| Aug-21 | -10000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD17 AFRAMAX BALTIC-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-20 | 5000 |
-| Aug-20 | 0 |
-| Aug-20 | -5000 |
-| Aug-20 | -10000 |
-| Dec-20 | 5000 |
-| Dec-20 | 0 |
-| Dec-20 | -5000 |
-| Apr-21 | 25000 |
-| Apr-21 | 20000 |
-| Apr-21 | 15000 |
-| Apr-21 | 10000 |
-| Apr-21 | 5000 |
-| Aug-21 | -5000 |
-| Aug-21 | -10000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD17 AFRAMAX BALTIC-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-20 | 0 |
-| Aug-20 | 5000 |
-| Aug-20 | 10000 |
-| Dec-20 | 5000 |
-| Dec-20 | 10000 |
-| Dec-20 | 15000 |
-| Apr-21 | 35000 |
-| Apr-21 | 30000 |
-| Apr-21 | 25000 |
-| Apr-21 | 20000 |
-| Apr-21 | 15000 |
-| Apr-21 | 10000 |
-| Apr-21 | 5000 |
-| Aug-21 | 0 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-20 | 0 |
-| Aug-20 | 5000 |
-| Aug-20 | 10000 |
-| Dec-20 | 5000 |
-| Dec-20 | 10000 |
-| Dec-20 | 15000 |
-| Apr-21 | 35000 |
-| Apr-21 | 30000 |
-| Apr-21 | 25000 |
-| Apr-21 | 20000 |
-| Apr-21 | 15000 |
-| Apr-21 | 10000 |
-| Apr-21 | 5000 |
-| Aug-21 | 0 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Aug-20 | Dec-20 | Apr-21 | Aug-21 |
-| --- | --- | --- | --- | --- |
-| VLCC | 38000 | 28000 | 26000 | 25000 |
-| Suezmax | 24000 | 21000 | 20000 | 18000 |
-| Aframax | 22000 | 18000 | 17000 | 17000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -356,53 +224,13 @@ MRs still struggling to find natural 45,000 mt cargoes, and rates remain around 
 | ****Med-Med (30k)**** | ws | 120.0 | 117.5 | +2.1% | +33.3% |
 | **Black Sea-Med (30k)** | ws | 130.0 | 127.5 | +2.0% | +30.0% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-20 | 19000 |
-| Oct-20 | 12000 |
-| Dec-20 | -5000 |
-| Feb-21 | 20000 |
-| Apr-21 | 5000 |
-| Jun-21 | 2000 |
-| Aug-21 | 11000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-20 | 24000 |
-| Oct-20 | 8000 |
-| Dec-20 | 9000 |
-| Feb-21 | 19000 |
-| Apr-21 | 5000 |
-| Jun-21 | 3000 |
-| Aug-21 | 2000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Aug-20 | 8000 |
-| Oct-20 | 14000 |
-| Dec-20 | 0 |
-| Feb-21 | 11000 |
-| Apr-21 | 11000 |
-| Jun-21 | 1000 |
-| Aug-21 | 0 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Aug-20 | 19000 | 14500 |
-| Oct-20 | 17000 | 15000 |
-| Dec-20 | 18000 | 14000 |
-| Feb-21 | 18000 | 14500 |
-| Apr-21 | 18000 | 14500 |
-| Jun-21 | 18000 | 14500 |
-| Aug-21 | 18000 | 14500 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -431,23 +259,9 @@ Despite and because of a further worsening in container shipping vessel reliabil
 | **1700 teu (1Y, geared)** | usd/day | 45,563 | 44,729 | +1.9% | +518.4% |
 | **1100 teu (1Y, geared)** | usd/day | 34,654 | 34,513 | +0.4% | +487.7% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Aug-20 | 10000 | 10000 | 10000 |
-| Dec-20 | 20000 | 20000 | 20000 |
-| Apr-21 | 40000 | 40000 | 40000 |
-| Aug-21 | 85000 | 70000 | 75000 |
-
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Aug-20 | 5000 | 5000 | 5000 |
-| Dec-20 | 10000 | 10000 | 10000 |
-| Apr-21 | 30000 | 25000 | 20000 |
-| Aug-21 | 75000 | 45000 | 35000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -469,14 +283,7 @@ Despite and because of a further worsening in container shipping vessel reliabil
 | **Europe - ECSA** | usd/feu | 3,550 | 3,550 | +0.0% | +276.1% |
 | **Europe - WCSA** | usd/feu | 5,190 | 5,361 | -3.2% | +247.2% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | FBX |
-| --- | --- |
-| Aug-20 | 2000 |
-| Dec-20 | 4000 |
-| Apr-21 | 4000 |
-| Aug-21 | 10000 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 34/2021
 
@@ -564,13 +371,7 @@ Several older VLCCs are going to change hands soon, mt Katsuragisan 311,000 dwt 
 | **Aframax** | usd mln | 39.9 | 39.8 | +0.1% | +4.9% |
 | **MR Product** | usd mln | 27.7 | 27.7 | -0.2% | -0.2% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Vessel Class | Aug-20 | Dec-20 | Apr-21 | Aug-21 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 21 | 21 | 28 | 30 |
-| Aframax | 38 | 35 | 39 | 39 |
-| MR | 28 | 26 | 26 | 28 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 34/2021
 
@@ -620,45 +421,13 @@ Several older VLCCs are going to change hands soon, mt Katsuragisan 311,000 dwt 
 | Q1 22 | usd/day | 23,125 | 23,125 | +0.0% | -32.3% |
 | Q2 22 | usd/day | 21,738 | 21,750 | -0.1% | -36.3% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-20 | 15000 |
-| Feb-21 | 10000 |
-| Aug-21 | 50000 |
-| Feb-22 | 20000 |
-| Aug-22 | 25000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-### PANAMAX FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-20 | 10000 |
-| Feb-21 | 30000 |
-| Aug-21 | 40000 |
-| Feb-22 | 25000 |
-| Aug-22 | 25000 |
-
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-20 | 10000 |
-| Feb-21 | 20000 |
-| Aug-21 | 40000 |
-| Feb-22 | 25000 |
-| Aug-22 | 25000 |
-
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-20 | 5000 |
-| Feb-21 | 30000 |
-| Aug-21 | 35000 |
-| Feb-22 | 25000 |
-| Aug-22 | 25000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # INTEREST RATES / CURRENCIES
 
@@ -672,23 +441,9 @@ Several older VLCCs are going to change hands soon, mt Katsuragisan 311,000 dwt 
 | USD | 0.55 | 0.89 | 1.33 | 1.53 | 1.62 |
 | EUR | -0.44 | -0.34 | -0.05 | 0.19 | 0.29 |
 
-### USD/EUR EXCHANGE RATE
+> **Chart (not transcribed):** USD/EUR EXCHANGE RATE. The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-20 | 1.18 |
-| Dec-20 | 1.22 |
-| Apr-21 | 1.20 |
-| Aug-21 | 1.18 |
-
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Aug-20 | 105 |
-| Dec-20 | 103 |
-| Apr-21 | 110 |
-| Aug-21 | 110 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 | CURRENCIES | 27-Aug | 20-Aug | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- |
@@ -715,14 +470,7 @@ Several older VLCCs are going to change hands soon, mt Katsuragisan 311,000 dwt 
 |  | Fujairah | usd/t | 625.0 | 611.0 | +2.3% | +69.6% |
 |  | Singapore | usd/t | 571.0 | 528.0 | +8.1% | +42.4% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Aug-20 | 350 | 330 | 360 |
-| Dec-20 | 500 | 520 | 550 |
-| Apr-21 | 580 | 560 | 590 |
-| Aug-21 | 560 | 550 | 570 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -738,23 +486,9 @@ Several older VLCCs are going to change hands soon, mt Katsuragisan 311,000 dwt 
 | Jet Fuel Singapore | usd/bbl | 75.9 | 69.6 | +9.1% | +73.9% |
 | Nat Gas Henry Hub | usd/mmbtu | 4.35 | 3.94 | +10.6% | +82.2% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Aug-20 | 42 | 40 |
-| Dec-20 | 55 | 60 |
-| Apr-21 | 70 | 75 |
-| Aug-21 | 72 | 68 |
-
-### HENRY HUB NAT GAS PRICE (USD/MMBTU)
-
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Aug-20 | 2.0 |
-| Dec-20 | 2.5 |
-| Apr-21 | 3.5 |
-| Aug-21 | 4.2 |
+> **Chart (not transcribed):** HENRY HUB NAT GAS PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -766,14 +500,7 @@ Several older VLCCs are going to change hands soon, mt Katsuragisan 311,000 dwt 
 | Coking Coal Australia SGX | usd/t | 226.8 | 224.0 | +1.3% | +77.2% |
 | Coking Coal Dalian DCE | rmb/t | 2823.0 | 2812.0 | +0.4% | +133.5% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Aug-20 | 45 | 110 |
-| Dec-20 | 80 | 140 |
-| Apr-21 | 140 | 180 |
-| Aug-21 | 170 | 120 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -786,14 +513,7 @@ Several older VLCCs are going to change hands soon, mt Katsuragisan 311,000 dwt 
 | Plate in China CISA | rmb/t | 5606.0 | 5627.0 | -0.4% | +42.8% |
 | HR Coil in China CISA | rmb/t | 5783.0 | 2724.0 | +112.3% | +41.7% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | Rebar | Plate |
-| --- | --- | --- |
-| Aug-20 | 3800 | 3800 |
-| Dec-20 | 4500 | 4600 |
-| Apr-21 | 5800 | 6200 |
-| Aug-21 | 5400 | 5600 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -805,14 +525,7 @@ Several older VLCCs are going to change hands soon, mt Katsuragisan 311,000 dwt 
 | Sugar ICE N.11 | usc/lb | 20.04 | 19.58 | +2.3% | +56.2% |
 | Palm Oil Malaysia | usd/t | 1089.0 | 1064.8 | +2.3% | +62.7% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Aug-20 | 350 | 500 |
-| Dec-20 | 500 | 650 |
-| Apr-21 | 600 | 750 |
-| Aug-21 | 650 | 700 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS

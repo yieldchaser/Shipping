@@ -26,29 +26,14 @@ The vast majority of UAE crude oil exports are loaded on VLCCs. In Jan-Dec 2025,
 | --- | --- | --- | --- |
 | ASEAN | 8.5 | 7.8 | 9.5 |
 | Japan | 9.4 | 8.6 | 6.4 |
-| China | 9.3 | 7.3 |  |
+| China | 9.3 | 7.3 | 5.6 |
 | India | 3.9 | 5.4 | 5.0 |
 | S Korea | 4.1 | 2.8 | 3.1 |
 | Pakistan | 0.5 | 0.8 | 0.6 |
 | Taiwan, CN | 0.8 | 0.6 | 0.6 |
-| Others/ Unknown | 1.5 | 1.0 | 2.5 |
+| Others/Unknown | 1.5 | 1.0 | 2.5 |
 
-### UAE - Monthly Crude Oil Exports - Seasonality (apr 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
-
-| Month | 2022 | 2023 | 2024 | 2025 | 2026 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 11.0 | 12.5 | 12.8 | 13.0 | 13.2 |
-| Feb | 11.2 | 12.0 | 12.5 | 12.2 | 11.8 |
-| Mar | 11.5 | 12.2 | 11.8 | 8.0 | 8.5 |
-| Apr | 13.5 | 11.5 | 12.0 | 12.5 | 12.2 |
-| May | 11.8 | 12.0 | 12.2 | 12.0 | 12.0 |
-| Jun | 11.5 | 11.8 | 11.5 | 12.5 | 12.3 |
-| Jul | 11.0 | 11.5 | 11.8 | 14.0 | 13.5 |
-| Aug | 11.8 | 12.0 | 12.0 | 13.2 | 13.0 |
-| Sep | 12.0 | 12.2 | 11.5 | 13.8 | 13.2 |
-| Oct | 12.5 | 12.5 | 12.0 | 13.0 | 12.8 |
-| Nov | 12.2 | 12.0 | 11.8 | 13.2 | 12.5 |
-| Dec | 11.5 | 11.8 | 11.5 | 13.0 | 12.0 |
+> **Chart (not transcribed):** UAE - Monthly Crude Oil Exports - Seasonality (apr 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 
 # NEWS
 # COMMODITY NEWS – DRY BULK
@@ -86,21 +71,7 @@ Overall, the Capesize market endured a volatile week, with FFA weakness, sluggis
 | **Newcastlemax 1-Y Period** | usd/day | 35,300 | 35,300 | +0.0% | +54.8% |
 | **Capesize 1-Y Period** | usd/day | 29,500 | 29,500 | +0.0% | +55.3% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Apr-25 | 20000 | 15000 |
-| May-25 | 22000 | 28000 |
-| Jun-25 | 23000 | 25000 |
-| Jul-25 | 24000 | 27000 |
-| Aug-25 | 25000 | 26000 |
-| Sep-25 | 26000 | 28000 |
-| Oct-25 | 27000 | 30000 |
-| Nov-25 | 26000 | 45000 |
-| Dec-25 | 25000 | 15000 |
-| Jan-26 | 28000 | 22000 |
-| Apr-26 | 30000 | 35000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -130,16 +101,7 @@ On East Coast Australia, demand remained robust, with rates broadly holding abov
 | **Kamsarmax 1-Y Period** | usd/day | 18,300 | 18,300 | +0.0% | +35.6% |
 | **Panamax 1-Y Period** | usd/day | 16,500 | 16,500 | +0.0% | +43.5% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Apr-25 | 12000 | 11500 |
-| Jun-25 | 14000 | 16000 |
-| Aug-25 | 15000 | 17000 |
-| Oct-25 | 14500 | 13000 |
-| Dec-25 | 16000 | 18000 |
-| Apr-26 | 17000 | 17500 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX & HANDYSIZE MARKET
 
@@ -197,23 +159,9 @@ Both Atlantic and Pacific basins maintained a broadly positive sentiment, with t
 | **38k Handy 1-Y Period** | usd/day | 14,500 | 14,500 | +0.0% | +22.9% |
 | **30k Handy 1-Y Period** | usd/day | 10,000 | 10,000 | +0.0% | +17.6% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Apr-25 | 10,000 | 10,000 |
-| Aug-25 | 15,000 | 16,000 |
-| Dec-25 | 12,000 | 10,000 |
-| Apr-26 | 16,000 | 17,000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Apr-25 | 10,000 | 10,000 |
-| Aug-25 | 13,000 | 15,000 |
-| Dec-25 | 10,000 | 10,000 |
-| Apr-26 | 14,000 | 14,000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -269,50 +217,15 @@ Mediterranean Aframax rates on
 | **Aframax TCE Average** | usd/day | 110,265 | 124,139 | -11.2% | +137.9% |
 | **Aframax 1-Y Period** | usd/day | 63,000 | 68,500 | -8.0% | +121.1% |
 
-## TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Apr-25 | 50,000 |
-| Aug-25 | 150,000 |
-| Dec-25 | 50,000 |
-| Apr-26 | 480,000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-## TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Apr-25 | 50,000 |
-| Aug-25 | 80,000 |
-| Dec-25 | 100,000 |
-| Apr-26 | 150,000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-## TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Apr-25 | 30,000 |
-| Aug-25 | 80,000 |
-| Dec-25 | 100,000 |
-| Apr-26 | 300,000 |
-
-## TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Apr-25 | 20,000 |
-| Aug-25 | 60,000 |
-| Dec-25 | 80,000 |
-| Apr-26 | 290,000 |
-
-## 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Apr-25 | 40,000 | 35,000 | 30,000 |
-| Aug-25 | 50,000 | 45,000 | 40,000 |
-| Dec-25 | 70,000 | 60,000 | 50,000 |
-| Apr-26 | 140,000 | 70,000 | 65,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 Delays for daylight-restricted tankers at the Turkish Straits stood at approximately two days northbound and three days southbound. [banchero costa RESEARCH]
 
@@ -351,57 +264,13 @@ Delays for daylight-restricted tankers at the Turkish Straits stood at approxima
 | **TD18-TCE Baltic-UKC (30K)** | usd/day | 58,261 | 57,235 | +1.8% | +72.6% |
 | **Med-Med (30k)** | ws | 415.0 | 415.0 | +0.0% | +86.5% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Apr-25 | 20,000 |
-| Jun-25 | 40,000 |
-| Aug-25 | 35,000 |
-| Oct-25 | 45,000 |
-| Dec-25 | 50,000 |
-| Jan-26 | 140,000 |
-| Mar-26 | 160,000 |
-| Apr-26 | 165,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Apr-25 | 10,000 |
-| Jun-25 | 30,000 |
-| Aug-25 | 25,000 |
-| Oct-25 | 40,000 |
-| Dec-25 | 50,000 |
-| Jan-26 | 90,000 |
-| Mar-26 | 110,000 |
-| Apr-26 | 100,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Apr-25 | 15,000 |
-| Jun-25 | 25,000 |
-| Aug-25 | 20,000 |
-| Oct-25 | 35,000 |
-| Dec-25 | 40,000 |
-| Jan-26 | 45,000 |
-| Mar-26 | 48,000 |
-| Apr-26 | 45,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Apr-25 | 28,000 | 20,000 |
-| Jun-25 | 30,000 | 22,000 |
-| Aug-25 | 32,000 | 24,000 |
-| Oct-25 | 35,000 | 26,000 |
-| Dec-25 | 40,000 | 28,000 |
-| Jan-26 | 50,000 | 32,000 |
-| Mar-26 | 62,000 | 34,000 |
-| Apr-26 | 65,000 | 35,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -429,34 +298,11 @@ The container chartering market remained quiet but broadly stable during the per
 | **1700 teu (1Y, geared)** | usd/day | 31,607 | 31,450 | +0.5% | +26.6% |
 | **1100 teu (1Y, geared)** | usd/day | 16,564 | 16,523 | +0.2% | +7.1% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Apr-25 | 52000 | 42000 | 36000 |
-| Aug-25 | 53000 | 43000 | 36500 |
-| Dec-25 | 51000 | 41000 | 36000 |
-| Apr-26 | 52000 | 42000 | 36500 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Apr-25 | 34000 | 25000 | 16000 |
-| Aug-25 | 33500 | 25000 | 16500 |
-| Dec-25 | 33000 | 28000 | 17000 |
-| Apr-26 | 33500 | 29000 | 17000 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | FBX |
-| --- | --- |
-| Apr-25 | 2000 |
-| Jun-25 | 3600 |
-| Aug-25 | 1600 |
-| Oct-25 | 2200 |
-| Dec-25 | 1900 |
-| Apr-26 | 1900 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -467,16 +313,7 @@ The container chartering market remained quiet but broadly stable during the per
 | **China - WCNA** | usd/feu | 2,675 | 2,653 | +0.8% | +14.2% |
 | **China - N. Europe** | usd/feu | 2,668 | 2,743 | -2.7% | +14.1% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | China - N. Europe |
-| --- | --- |
-| Apr-25 | 2300 |
-| Jun-25 | 3600 |
-| Aug-25 | 1800 |
-| Oct-25 | 2800 |
-| Dec-25 | 2600 |
-| Apr-26 | 2600 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 17/2026
 
@@ -567,13 +404,7 @@ The MR2 GT FREEDOM 46,000 dwt 2003 Shin Kurushima built SS Jun 2026 was reported
 
 ### SECONDHAND VALUES (USD MLN)Apr-25
 
-| Aug-25 | SECONDHAND VALUES (USD MLN) | SECONDHAND VALUES (USD MLN) | SECONDHAND VALUES (USD MLN) |
-| --- | --- | --- | --- |
-| Dec-25 | Kamsarmax | Aframax | MR |
-| Apr-26 | 32 | 65 | 42 |
-|  | 33 | 64 | 42 |
-|  | 34 | 67 | 44 |
-|  | 36 | 73 | 46 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 17/2026
 
@@ -592,14 +423,7 @@ The MR2 GT FREEDOM 46,000 dwt 2003 Shin Kurushima built SS Jun 2026 was reported
 | **Q1 27** | usd/day | 24,732 | 25,028 | -1.2% | -36.3% |
 | **Q2 27** | usd/day | 28,846 | 29,060 | -0.7% | -25.7% |
 
-| CAPESIZE FORWARD CURVE (USD/DAY) | CAPESIZE FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Apr-25 | 15000 |
-| Oct-25 | 45000 |
-| Apr-26 | 35000 |
-| Oct-26 | 32000 |
-| Apr-27 | 25000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -614,14 +438,7 @@ The MR2 GT FREEDOM 46,000 dwt 2003 Shin Kurushima built SS Jun 2026 was reported
 | **Q1 27** | usd/day | 13,814 | 14,011 | -1.4% | -21.7% |
 | **Q2 27** | usd/day | 15,357 | 15,543 | -1.2% | -12.9% |
 
-| PANAMAX FORWARD CURVE (USD/DAY) | PANAMAX FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Apr-25 | 10000 |
-| Oct-25 | 12000 |
-| Apr-26 | 19000 |
-| Oct-26 | 16000 |
-| Apr-27 | 13000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (63k)
 
@@ -636,14 +453,7 @@ The MR2 GT FREEDOM 46,000 dwt 2003 Shin Kurushima built SS Jun 2026 was reported
 | **Q1 27** | usd/day | 14,016 | 14,120 | -0.7% | -27.8% |
 | **Q2 27** | usd/day | 16,016 | 16,148 | -0.8% | -17.5% |
 
-| SUPRAMAX FORWARD CURVE (USD/DAY) | SUPRAMAX FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Apr-25 | 12000 |
-| Oct-25 | 18000 |
-| Apr-26 | 20000 |
-| Oct-26 | 16000 |
-| Apr-27 | 14000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -658,14 +468,7 @@ The MR2 GT FREEDOM 46,000 dwt 2003 Shin Kurushima built SS Jun 2026 was reported
 | **Q1 27** | usd/day | 11,350 | 11,355 | -0.0% | -20.9% |
 | **Q2 27** | usd/day | 12,800 | 12,800 | +0.0% | -10.8% |
 
-| HANDYSIZE FORWARD CURVE (USD/DAY) | HANDYSIZE FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Apr-25 | 10000 |
-| Oct-25 | 16000 |
-| Apr-26 | 16000 |
-| Oct-26 | 13000 |
-| Apr-27 | 11000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -676,13 +479,7 @@ The MR2 GT FREEDOM 46,000 dwt 2003 Shin Kurushima built SS Jun 2026 was reported
 | **KRW/USD** | 1476 | 1467 | +0.7% | +3.8% |
 | **CNY/USD** | 6.84 | 6.82 | +0.3% | -6.2% |
 
-| JPY/USD EXCHANGE RATE | JPY/USD EXCHANGE RATE |
-| --- | --- |
-| Date | Value |
-| Apr-25 | 142 |
-| Aug-25 | 150 |
-| Dec-25 | 158 |
-| Apr-26 | 159 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 17/2026
 
@@ -743,12 +540,7 @@ The MR2 GT FREEDOM 46,000 dwt 2003 Shin Kurushima built SS Jun 2026 was reported
 | Sugar | ICE N.11 | usc/lb | 13.93 | 13.31 | +4.7% | -21.8% |
 | Palm Oil | Malaysia | usd/t | 1139.8 | 1108.8 | +2.8% | +22.4% |
 
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Apr-25 | 600 | 600 | 600 |
-| Aug-25 | 700 | 700 | 700 |
-| Dec-25 | 800 | 800 | 800 |
-| Apr-26 | 1400 | 900 | 2000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Date | Brent | WTI |
 | --- | --- | --- |
@@ -764,23 +556,8 @@ The MR2 GT FREEDOM 46,000 dwt 2003 Shin Kurushima built SS Jun 2026 was reported
 | Dec-25 | 5.2 |
 | Apr-26 | 2.8 |
 
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Apr-25 | 95 | 98 |
-| Aug-25 | 110 | 105 |
-| Dec-25 | 100 | 105 |
-| Apr-26 | 135 | 108 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | HRC | Plate |
-| --- | --- | --- |
-| Apr-25 | 3100 | 3200 |
-| Aug-25 | 3200 | 3500 |
-| Dec-25 | 3100 | 3300 |
-| Apr-26 | 3150 | 3350 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Apr-25 | 500 | 550 |
-| Aug-25 | 380 | 500 |
-| Dec-25 | 450 | 550 |
-| Apr-26 | 450 | 600 |
+> **Chart (not transcribed).** The report prints no values for it.

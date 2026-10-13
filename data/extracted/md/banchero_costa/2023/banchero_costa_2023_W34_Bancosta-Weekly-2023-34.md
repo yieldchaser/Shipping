@@ -31,24 +31,9 @@ In terms of sources for China's iron ore imports, distances are improving this y
 | Peru | 11 | 11 | 11 |
 | Canada | 9 | 7 | 10 |
 | Chile | 7 | 6 | 7 |
-| Others/ Unknown | 23 | 21 | 24 |
+| Others/Unknown | 23 | 21 | 24 |
 
-### China - Monthly Iron Ore Imports - Seasonality (Aug 2023 ; source: refinitiv ; seaborne only ; in mln tonnes)
-
-| Month | 2019 | 2020 | 2021 | 2022 | 2023 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 86 | 93 | 100 | 86 | 100 |
-| Feb | 70 | 78 | 85 | 82 | 91 |
-| Mar | 80 | 88 | 92 | 84 | 92 |
-| Apr | 69 | 78 | 83 | 69 | 89 |
-| May | 80 | 89 | 91 | 88 | 93 |
-| Jun | 88 | 91 | 83 | 86 | 93 |
-| Jul | 94 | 103 | 95 | 94 | 94 |
-| Aug | 95 | 95 | 95 | 94 | 94 |
-| Sep | 85 | 94 | 86 | 85 | 102 |
-| Oct | 100 | 106 | 102 | 101 | 106 |
-| Nov | 88 | 87 | 89 | 94 | 88 |
-| Dec | 94 | 86 | 90 | 94 | 86 |
+> **Chart (not transcribed):** China - Monthly Iron Ore Imports - Seasonality (Aug 2023 ; source: refinitiv ; seaborne only ; in mln tonnes). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -72,18 +57,7 @@ Vale fixed an Oldendorff TBN for their cargo of 115,000mt +/- 10% iron ore from 
 | **Newcastlemax 1-Y Period** | usd/day | 17,400 | 17,700 | -1.7% | -12.1% |
 | **Capesize 1-Y Period** | usd/day | 14,500 | 14,800 | -2.0% | -9.4% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Aug-22 | 15000 | 3000 |
-| Oct-22 | 15500 | 22000 |
-| Dec-22 | 16000 | 23000 |
-| Jan-23 | 15000 | 2000 |
-| Feb-23 | 16500 | 1000 |
-| Apr-23 | 19000 | 21000 |
-| Jun-23 | 17000 | 18000 |
-| Aug-23 | 15500 | 12000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -109,16 +83,7 @@ The 3rd week of August started with Cofco fixing Aom Georgina (82,000 dwt 2014 b
 | **Kamsarmax 1-Y Period** | usd/day | 14,300 | 14,300 | +0.0% | -15.9% |
 | **Panamax 1-Y Period** | usd/day | 12,000 | 12,000 | +0.0% | -22.6% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Aug-22 | 16000 | 11000 |
-| Oct-22 | 17000 | 19000 |
-| Dec-22 | 16500 | 7000 |
-| Feb-23 | 18000 | 15000 |
-| Apr-23 | 18500 | 9000 |
-| Aug-23 | 14000 | 13000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -176,23 +141,9 @@ Rates kept increasing on most of the trades for both Handies and larger units. A
 | **38k Handy 1-Y Period** | usd/day | 9,500 | 9,500 | +0.0% | -47.2% |
 | **30k Handy 1-Y Period** | usd/day | 7,500 | 7,500 | +0.0% | -48.3% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Aug-22 | 14000 | 19000 |
-| Dec-22 | 12000 | 7000 |
-| Apr-23 | 16000 | 14000 |
-| Aug-23 | 11000 | 10000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Aug-22 | 17000 | 17000 |
-| Dec-22 | 12000 | 7000 |
-| Apr-23 | 13000 | 10000 |
-| Aug-23 | 9500 | 9500 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -235,80 +186,15 @@ The **VLCC** West market was steady at 51.5@260 on WAfr-China whilst was soft 44
 | **Aframax TCE Average** | usd/day | 16,528 | 16,512 | +0.1% | -68.4% |
 | **Aframax 1-Y Period** | usd/day | 41,000 | 42,800 | -4.2% | +51.9% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-22 | 30000 |
-| Oct-22 | 70000 |
-| Nov-22 | 110000 |
-| Dec-22 | 120000 |
-| Jan-23 | 80000 |
-| Feb-23 | 20000 |
-| Mar-23 | 80000 |
-| Apr-23 | 110000 |
-| May-23 | 20000 |
-| Aug-23 | 20000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-22 | 60000 |
-| Oct-22 | 80000 |
-| Nov-22 | 170000 |
-| Dec-22 | 160000 |
-| Jan-23 | 100000 |
-| Feb-23 | 80000 |
-| Mar-23 | 60000 |
-| Apr-23 | 40000 |
-| May-23 | 20000 |
-| Aug-23 | 0 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-22 | 20000 |
-| Oct-22 | 40000 |
-| Nov-22 | 140000 |
-| Dec-22 | 140000 |
-| Jan-23 | 60000 |
-| Feb-23 | 40000 |
-| Mar-23 | 30000 |
-| Apr-23 | 20000 |
-| May-23 | 10000 |
-| Aug-23 | -10000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-22 | 30000 |
-| Oct-22 | 40000 |
-| Nov-22 | 150000 |
-| Dec-22 | 140000 |
-| Jan-23 | 80000 |
-| Feb-23 | 60000 |
-| Mar-23 | 40000 |
-| Apr-23 | 30000 |
-| May-23 | 10000 |
-| Aug-23 | -10000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Aug-22 | 30000 | 25000 | 28000 |
-| Oct-22 | 45000 | 35000 | 40000 |
-| Nov-22 | 50000 | 40000 | 45000 |
-| Dec-22 | 55000 | 45000 | 55000 |
-| Jan-23 | 45000 | 40000 | 48000 |
-| Feb-23 | 40000 | 38000 | 42000 |
-| Mar-23 | 42000 | 40000 | 45000 |
-| Apr-23 | 45000 | 40000 | 48000 |
-| May-23 | 40000 | 40000 | 42000 |
-| Aug-23 | 40000 | 40000 | 40000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -343,41 +229,13 @@ The **VLCC** West market was steady at 51.5@260 on WAfr-China whilst was soft 44
 | **Med-Med (30k)** | ws | 157.5 | 170.0 | -7.4% | -49.2% |
 | **Black Sea-Med (30k)** | ws | 225.0 | 230.0 | -2.2% | -56.7% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-22 | 50,000 |
-| Dec-22 | 80,000 |
-| Apr-23 | 30,000 |
-| Aug-23 | 35,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-22 | 20,000 |
-| Dec-22 | 75,000 |
-| Apr-23 | 30,000 |
-| Aug-23 | 35,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Aug-22 | 40,000 |
-| Dec-22 | 50,000 |
-| Apr-23 | 25,000 |
-| Aug-23 | 25,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Aug-22 | 30,000 | 25,000 |
-| Dec-22 | 45,000 | 30,000 |
-| Apr-23 | 42,000 | 24,000 |
-| Aug-23 | 40,000 | 22,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -438,12 +296,7 @@ After a few quite weeks due to the Summer holidays and falling charter rates, it
 | **Med - China** | usd/feu | 351 | 329 | +6.7% | -70.6% |
 | **ECNA - Europe** | usd/feu | 536 | 522 | +2.7% | +0.0% |
 
-| Date | FBX |
-| --- | --- |
-| Aug-22 | 5500 |
-| Dec-22 | 2000 |
-| Apr-23 | 1500 |
-| Aug-23 | 1500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Date | China - N. Europe | N. Europe - China |
 | --- | --- | --- |
@@ -603,45 +456,13 @@ While on the smaller sector, the STST WAWASAN BLUEFIN 20,000 dwt 2008 Shin Kurus
 | **Q4 23** | usd/day | 10,633 | 10,642 | -0.1% | +16.6% |
 | **Q1 24** | usd/day | 8,725 | 8,700 | +0.3% | -4.4% |
 
-## CAPESIZE FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-22 | 0 |
-| Feb-23 | 23000 |
-| Aug-23 | 14000 |
-| Feb-24 | 8000 |
-| Aug-24 | 14000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-## PANAMAX FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-22 | 11000 |
-| Feb-23 | 7000 |
-| Aug-23 | 13000 |
-| Feb-24 | 12000 |
-| Aug-24 | 13000 |
-
-## SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-22 | 18000 |
-| Feb-23 | 7000 |
-| Aug-23 | 9000 |
-| Feb-24 | 10000 |
-| Aug-24 | 11000 |
-
-## HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-22 | 16000 |
-| Feb-23 | 7000 |
-| Aug-23 | 10000 |
-| Feb-24 | 10000 |
-| Aug-24 | 11000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -652,14 +473,7 @@ While on the smaller sector, the STST WAWASAN BLUEFIN 20,000 dwt 2008 Shin Kurus
 | KRW/USD | 1324 | 1339 | -1.2% | -0.9% |
 | CNY/USD | 7.29 | 7.28 | +0.1% | +6.9% |
 
-## JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Aug-22 | 138 |
-| Dec-22 | 130 |
-| Apr-23 | 140 |
-| Aug-23 | 148 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 34/2023
 
@@ -686,13 +500,7 @@ While on the smaller sector, the STST WAWASAN BLUEFIN 20,000 dwt 2008 Shin Kurus
 | **Fujairah** | usd/t | 123.0 | 105.0 | +17.1% | -60.2% |
 | **Singapore** | usd/t | 105.0 | 86.0 | +22.1% | -60.8% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Category | Aug-22 | Dec-22 | Apr-23 | Aug-23 |
-| --- | --- | --- | --- | --- |
-| IFO380 | 400 | 450 | 500 | 550 |
-| VLSFO | 800 | 700 | 650 | 600 |
-| LSMGO | 1100 | 1000 | 900 | 850 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -710,18 +518,9 @@ While on the smaller sector, the STST WAWASAN BLUEFIN 20,000 dwt 2008 Shin Kurus
 | **LNG TTF Netherlands** | usd/mmbtu | 11.14 | 11.97 | -6.9% | -85.2% |
 | **LNG North East Asia** | usd/mmbtu | 13.00 | 14.00 | -7.1% | -77.2% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Category | Aug-22 | Dec-22 | Apr-23 | Aug-23 |
-| --- | --- | --- | --- | --- |
-| Brent | 90 | 80 | 80 | 82 |
-| WTI | 85 | 75 | 70 | 80 |
-
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Category | Aug-22 | Dec-22 | Apr-23 | Aug-23 |
-| --- | --- | --- | --- | --- |
-| Henry Hub Nat Gas | 10.0 | 2.5 | 2.5 | 2.5 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -731,12 +530,7 @@ While on the smaller sector, the STST WAWASAN BLUEFIN 20,000 dwt 2008 Shin Kurus
 | **Steam Coal Newcastle** | usd/t | 149.2 | 142.8 | +4.5% | -65.2% |
 | **Coking Coal Australia SGX** | usd/t | 256.3 | 255.0 | +0.5% | +2.9% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Category | Aug-22 | Dec-22 | Apr-23 | Aug-23 |
-| --- | --- | --- | --- | --- |
-| Steam Coal | 450 | 350 | 150 | 120 |
-| Iron Ore | 100 | 120 | 120 | 120 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -746,12 +540,7 @@ While on the smaller sector, the STST WAWASAN BLUEFIN 20,000 dwt 2008 Shin Kurus
 | **Rebar Steel in China** | rmb/t | 3598.0 | 3632.0 | -0.9% | -12.8% |
 | **HRC Steel in China** | rmb/t | 3915.0 | 3917.0 | -0.1% | -5.0% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Category | Aug-22 | Dec-22 | Apr-23 | Aug-23 |
-| --- | --- | --- | --- | --- |
-| HRC | 4000 | 4200 | 3500 | 3600 |
-| Plate | 4100 | 4400 | 3900 | 3950 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -764,12 +553,7 @@ While on the smaller sector, the STST WAWASAN BLUEFIN 20,000 dwt 2008 Shin Kurus
 | **Palm Oil Malaysia** | usd/t | 831.5 | 829.5 | +0.2% | -9.0% |
 | **Ferts Urea Middle East** | usd/t | 395.0 | 447.5 | -11.7% | -47.2% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Category | Aug-22 | Dec-22 | Apr-23 | Aug-23 |
-| --- | --- | --- | --- | --- |
-| Corn | 700 | 750 | 500 | 450 |
-| Wheat | 800 | 800 | 700 | 650 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

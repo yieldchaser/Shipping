@@ -33,24 +33,9 @@ Of these, 1.7 mln tonnes from Nakhodka, 1.1 mln tonnes from Vanino, 0.9 mln tonn
 | India | 1 | 1 | 2 |
 | Turkey | 2 | 1 | 2 |
 | S Korea | 1 | 1 | 1 |
-| Others/ Unknown | 9 | 5 | 7 |
+| Others/Unknown | 9 | 5 | 7 |
 
-### Russia - Monthly Fuel Oil Exports - Seasonality (Mar 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
-
-| Month | 2018 | 2019 | 2020 | 2021 | 2022 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 3.8 | 5.1 | 3.7 | 4.1 | 4.1 |
-| Feb | 3.7 | 4.6 | 3.8 | 4.4 | 4.8 |
-| Mar | 3.5 | 3.4 | 3.6 | 3.3 | 3.5 |
-| Apr | 3.6 | 4.4 | 4.2 | 4.5 | 4.4 |
-| May | 3.7 | 4.5 | 4.0 | 4.7 | 4.5 |
-| Jun | 3.5 | 4.3 | 3.9 | 4.1 | 4.2 |
-| Jul | 3.6 | 4.7 | 3.7 | 4.0 | 4.6 |
-| Aug | 3.8 | 4.8 | 3.6 | 5.1 | 4.7 |
-| Sep | 3.7 | 4.6 | 3.5 | 4.5 | 4.5 |
-| Oct | 3.8 | 4.5 | 3.8 | 4.4 | 4.6 |
-| Nov | 3.7 | 4.6 | 3.9 | 4.3 | 4.8 |
-| Dec | 3.8 | 4.8 | 4.7 | 3.9 | 4.8 |
+> **Chart (not transcribed):** Russia - Monthly Fuel Oil Exports - Seasonality (Mar 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -78,23 +63,7 @@ The Atlantic market is also negative, becoming even softer than in previous week
 | **Newcastlemax 1-Y Period** | usd/day | 37,000 | 38,500 | -3.9% | +42.3% |
 | **Capesize 1-Y Period** | usd/day | 30,500 | 32,000 | -4.7% | +32.6% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Mar-21 | 25000 | 25000 |
-| Apr-21 | 35000 | 45000 |
-| May-21 | 32000 | 35000 |
-| Jun-21 | 38000 | 40000 |
-| Jul-21 | 40000 | 45000 |
-| Aug-21 | 42000 | 55000 |
-| Sep-21 | 45000 | 85000 |
-| Oct-21 | 35000 | 40000 |
-| Nov-21 | 25000 | 25000 |
-| Dec-21 | 22000 | 15000 |
-| Jan-22 | 28000 | 20000 |
-| Feb-22 | 32000 | 22000 |
-| Mar-22 | 35000 | 25000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -122,17 +91,7 @@ On the front hauls, an 81k tonner has been fixed at $25,750/d retro sailing Keel
 | **Kamsarmax 1-Y Period** | usd/day | 30,500 | 30,000 | +1.7% | +52.5% |
 | **Panamax 1-Y Period** | usd/day | 24,500 | 23,500 | +4.3% | +40.0% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Mar-21 | 20000 | 25000 |
-| Jun-21 | 25000 | 38000 |
-| Jul-21 | 28000 | 39000 |
-| Aug-21 | 29000 | 38000 |
-| Nov-21 | 28000 | 22000 |
-| Dec-21 | 27000 | 18000 |
-| Mar-22 | 30000 | 30000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX & HANDYSIZE MARKET
 
@@ -196,39 +155,9 @@ Following the previous week's correction, the Far East market remained more or l
 | **38k Handy 1-Y Period** | usd/day | 26,500 | 25,000 | +6.0% | +65.6% |
 | **30k Handy 1-Y Period** | usd/day | 22,300 | 21,000 | +6.2% | +68.3% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Mar-21 | 15000 | 22000 |
-| Apr-21 | 16000 | 23000 |
-| May-21 | 18000 | 25000 |
-| Jun-21 | 20000 | 28000 |
-| Jul-21 | 24000 | 32000 |
-| Aug-21 | 26000 | 35000 |
-| Sep-21 | 28000 | 38000 |
-| Oct-21 | 29000 | 39000 |
-| Nov-21 | 22000 | 25000 |
-| Dec-21 | 18000 | 20000 |
-| Jan-22 | 20000 | 22000 |
-| Mar-22 | 25000 | 32000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Mar-21 | 14000 | 22000 |
-| Apr-21 | 15000 | 18000 |
-| May-21 | 16000 | 20000 |
-| Jun-21 | 18000 | 23000 |
-| Jul-21 | 20000 | 28000 |
-| Aug-21 | 22000 | 32000 |
-| Sep-21 | 24000 | 35000 |
-| Oct-21 | 26000 | 38000 |
-| Nov-21 | 25000 | 30000 |
-| Dec-21 | 20000 | 18000 |
-| Jan-22 | 22000 | 20000 |
-| Mar-22 | 25000 | 32000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -273,49 +202,15 @@ Following the previous week's correction, the Far East market remained more or l
 | **Aframax TCE Average** | usd/day | 28,672 | 35,271 | -18.7% | +99.3% |
 | **Aframax 1-Y Period** | usd/day | 18,400 | 18,600 | -1.1% | +5.1% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Mar-21 | 0 |
-| Jul-21 | -5,000 |
-| Nov-21 | 5,000 |
-| Mar-22 | -18,000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD17 AFRAMAX BALTIC-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Mar-21 | 10,000 |
-| Jul-21 | 0 |
-| Nov-21 | 0 |
-| Mar-22 | 160,000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD17 AFRAMAX BALTIC-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-21 | -10,000 |
-| Jul-21 | -5,000 |
-| Nov-21 | 0 |
-| Mar-22 | 280,000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-21 | 20,000 |
-| Jul-21 | 0 |
-| Nov-21 | 0 |
-| Mar-22 | 75,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Value |
-| --- | --- |
-| VLCC | 25,000 |
-| Suezmax | 18,000 |
-| Aframax | 16,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -418,23 +313,9 @@ Therefore terminals in Europe and North America have been told to brace for anot
 | **1700 teu (1Y, geared)** | usd/day | 66,467 | 66,321 | +0.2% | +286.2% |
 | **1100 teu (1Y, geared)** | usd/day | 40,333 | 40,683 | -0.9% | +239.6% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Mar-21 | 30,000 | 30,000 | 30,000 |
-| Jul-21 | 90,000 | 85,000 | 80,000 |
-| Nov-21 | 95,000 | 90,000 | 85,000 |
-| Mar-22 | 115,000 | 105,000 | 95,000 |
-
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Mar-21 | 20,000 | 15,000 | 10,000 |
-| Jul-21 | 70,000 | 45,000 | 30,000 |
-| Nov-21 | 75,000 | 40,000 | 35,000 |
-| Mar-22 | 80,000 | 55,000 | 40,000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -452,23 +333,9 @@ Therefore terminals in Europe and North America have been told to brace for anot
 | **Med - China** | usd/feu | 1,357 | 1,358 | -0.1% | -10.9% |
 | **ECNA - Europe** | usd/feu | 627 | 648 | -3.2% | +62.9% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
-| Date | FBX |
-| --- | --- |
-| Mar-21 | 4,000 |
-| Jul-21 | 10,000 |
-| Nov-21 | 10,000 |
-| Mar-22 | 10,000 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | China - N. Europe | N. Europe - China |
-| --- | --- | --- |
-| Mar-21 | 7,000 | 2,000 |
-| Jul-21 | 14,000 | 2,000 |
-| Nov-21 | 15,000 | 2,000 |
-| Mar-22 | 14,000 | 1,000 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 12/2022
 
@@ -493,12 +360,7 @@ Korean shipyards are busy on the LNG front, 3 x 200,000 cbm orders were placed a
 | **LR2 Coated** | usd mln | 58.6 | 57.9 | +1.3% | +28.1% |
 | **MR2 Coated** | usd mln | 37.9 | 37.4 | +1.3% | +13.6% |
 
-| Time | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Mar-21 | 28 | 56 | 34 |
-| Jul-21 | 32 | 60 | 36 |
-| Nov-21 | 36 | 66 | 38 |
-| Mar-22 | 37 | 67 | 38 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -515,12 +377,7 @@ Another challenging week in the sub-continent markets, with a resurgent India an
 | **Tnk India** | usd/ldt | 658.8 | 652.4 | +1.0% | +47.9% |
 | **Tnk Pakistan** | usd/ldt | 676.4 | 670.4 | +0.9% | +42.7% |
 
-| Time | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Mar-21 | 460 | 460 |
-| Jul-21 | 580 | 580 |
-| Nov-21 | 600 | 620 |
-| Mar-22 | 650 | 660 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 12/2022
 
@@ -570,13 +427,7 @@ It has been reported that undisclosed Buyers purchased the M/v Jin Fan 92,500 dw
 | **Aframax** | usd mln | 43.4 | 43.0 | +0.7% | +25.4% |
 | **MR Product** | usd mln | 30.8 | 30.4 | +1.3% | +17.5% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Category | Mar-21 | Jul-21 | Nov-21 | Mar-22 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 34 | 38 | 36 | 42 |
-| Aframax | 35 | 39 | 40 | 43 |
-| MR | 26 | 28 | 29 | 30 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 12/2022
 
@@ -595,18 +446,7 @@ It has been reported that undisclosed Buyers purchased the M/v Jin Fan 92,500 dw
 | **Q3 22** | usd/day | 34,429 | 35,318 | -2.5% | +139.4% |
 | **Q4 22** | usd/day | 30,393 | 17,139 | +77.3% | +111.4% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-21 | 20,000 |
-| Jun-21 | 35,000 |
-| Sep-21 | 85,000 |
-| Dec-21 | 10,000 |
-| Mar-22 | 20,000 |
-| Jun-22 | 30,000 |
-| Sep-22 | 35,000 |
-| Mar-23 | 32,000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -621,18 +461,7 @@ It has been reported that undisclosed Buyers purchased the M/v Jin Fan 92,500 dw
 | **Q3 22** | usd/day | 27,865 | 28,325 | -1.6% | -9.4% |
 | **Q4 22** | usd/day | 25,643 | 26,054 | -1.6% | -16.6% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-21 | 20,000 |
-| Jun-21 | 35,000 |
-| Sep-21 | 25,000 |
-| Dec-21 | 15,000 |
-| Mar-22 | 28,000 |
-| Jun-22 | 28,000 |
-| Sep-22 | 26,000 |
-| Mar-23 | 25,000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (58k)
 
@@ -647,18 +476,7 @@ It has been reported that undisclosed Buyers purchased the M/v Jin Fan 92,500 dw
 | **Q3 22** | usd/day | 27,325 | 27,758 | -1.6% | -16.9% |
 | **Q4 22** | usd/day | 23,567 | 23,958 | -1.6% | -28.4% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-21 | 18,000 |
-| Jun-21 | 38,000 |
-| Sep-21 | 38,000 |
-| Dec-21 | 15,000 |
-| Mar-22 | 32,000 |
-| Jun-22 | 25,000 |
-| Sep-22 | 24,000 |
-| Mar-23 | 23,000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -673,18 +491,7 @@ It has been reported that undisclosed Buyers purchased the M/v Jin Fan 92,500 dw
 | **Q3 22** | usd/day | 26,100 | 26,438 | -1.3% | -18.9% |
 | **Q4 22** | usd/day | 22,788 | 23,250 | -2.0% | -29.2% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-21 | 18,000 |
-| Jun-21 | 35,000 |
-| Sep-21 | 35,000 |
-| Dec-21 | 15,000 |
-| Mar-22 | 28,000 |
-| Jun-22 | 30,000 |
-| Sep-22 | 23,000 |
-| Mar-23 | 22,000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -695,15 +502,7 @@ It has been reported that undisclosed Buyers purchased the M/v Jin Fan 92,500 dw
 | KRW/USD | 1225 | 1211 | +1.2% | +7.9% |
 | CNY/USD | 6.37 | 6.36 | +0.1% | -2.7% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Mar-21 | 110 |
-| Jun-21 | 110 |
-| Sep-21 | 112 |
-| Nov-21 | 115 |
-| Mar-22 | 122 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 12/2022
 
@@ -759,31 +558,9 @@ It has been reported that undisclosed Buyers purchased the M/v Jin Fan 92,500 dw
 | Palm Oil Malaysia | usd/t | 1571.0 | 1457.0 | +7.8% | +61.0% |
 | Ferts Urea Middle East | usd/t | 1130.0 | 1120.0 | +0.9% | +182.5% |
 
-| Category | Date | Value |
-| --- | --- | --- |
-| IFO380 | Mar-21 | 500 |
-| IFO380 | Jul-21 | 550 |
-| IFO380 | Nov-21 | 700 |
-| IFO380 | Mar-22 | 1050 |
-| VLSFO | Mar-21 | 480 |
-| VLSFO | Jul-21 | 520 |
-| VLSFO | Nov-21 | 650 |
-| VLSFO | Mar-22 | 1000 |
-| LSMGO | Mar-21 | 520 |
-| LSMGO | Jul-21 | 580 |
-| LSMGO | Nov-21 | 750 |
-| LSMGO | Mar-22 | 1300 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Date | Value |
-| --- | --- | --- |
-| Brent | Mar-21 | 60 |
-| Brent | Jul-21 | 75 |
-| Brent | Nov-21 | 85 |
-| Brent | Mar-22 | 120 |
-| WTI | Mar-21 | 58 |
-| WTI | Jul-21 | 72 |
-| WTI | Nov-21 | 82 |
-| WTI | Mar-22 | 115 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Category | Date | Value |
 | --- | --- | --- |
@@ -792,27 +569,9 @@ It has been reported that undisclosed Buyers purchased the M/v Jin Fan 92,500 dw
 | Henry Hub Nat Gas | Nov-21 | 3.5 |
 | Henry Hub Nat Gas | Mar-22 | 5.2 |
 
-| Category | Date | Value |
-| --- | --- | --- |
-| Steam Coal | Mar-21 | 160 |
-| Steam Coal | Jul-21 | 180 |
-| Steam Coal | Nov-21 | 150 |
-| Steam Coal | Mar-22 | 380 |
-| Iron Ore | Mar-21 | 170 |
-| Iron Ore | Jul-21 | 200 |
-| Iron Ore | Nov-21 | 140 |
-| Iron Ore | Mar-22 | 160 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Date | Value |
-| --- | --- | --- |
-| Rebar | Mar-21 | 5000 |
-| Rebar | Jul-21 | 5500 |
-| Rebar | Nov-21 | 4800 |
-| Rebar | Mar-22 | 5100 |
-| Plate | Mar-21 | 5200 |
-| Plate | Jul-21 | 5600 |
-| Plate | Nov-21 | 5000 |
-| Plate | Mar-22 | 5300 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Category | Date | Value |
 | --- | --- | --- |

@@ -22,35 +22,9 @@ In the first 3 months of 2024, Australia exported 21.2 mln tonnes of LNG, which 
 
 The third top destination is South Korea, which accounts for 13.6% of Australian LNG shipments in 2023. Shipments from Australia to South Korea declined by -10.1% y-o-y in Jan-Dec 2023 to 11.0 mln tonnes. To Taiwan, shipments increased by +3.1% y-o-y to 7.9 mln tonnes. To South East Asia volumes increased by +28.4% y-o-y to 8.7 mln tonnes in Jan-Dec 2023. This includes 2.9 mln tonnes to Thailand (up from 1.4 mln t in Jan-Dec 2022 and 0.8 mln t in Jan-Dec 2021), as well as 3.0 mln t to Singapore, and 2.2 mln t to Malaysia.
 
-### Australia - LNG Exports by Destination in Jan-Dec (may 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+> **Chart (not transcribed):** Australia - LNG Exports by Destination in Jan-Dec (may 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 
-| Destination | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
-| --- | --- | --- | --- |
-| Japan | 28.3 | 31.4 | 27.7 |
-| China | 31.2 | 22.3 | 25.1 |
-| S Korea | 10.0 | 12.7 | 11.0 |
-| ASEAN | 4.9 | 6.8 | 8.7 |
-| Taiwan, CN | 6.2 | 7.7 | 7.9 |
-| India | 0.3 | 0.4 | 0.4 |
-| Other AG | 0.0 | 0.1 | 0.1 |
-| Others/ Unknown | 0.1 | 0.3 | 0.0 |
-
-### Australia - Monthly LNG Exports - Seasonality (may 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
-
-| Month | 2019 | 2020 | 2021 | 2022 | 2023 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 6.5 | 6.7 | 6.6 | 6.8 | 6.6 |
-| Feb | 5.6 | 6.5 | 5.9 | 6.4 | 6.5 |
-| Mar | 6.4 | 6.9 | 7.2 | 6.6 | 7.2 |
-| Apr | 6.6 | 6.4 | 6.5 | 6.7 | 6.5 |
-| May | 6.0 | 6.3 | 6.4 | 6.5 | 6.6 |
-| Jun | 5.9 | 5.8 | 6.8 | 7.1 | 6.7 |
-| Jul | 6.4 | 6.6 | 6.9 | 6.8 | 6.8 |
-| Aug | 6.7 | 6.8 | 6.9 | 6.9 | 6.7 |
-| Sep | 6.5 | 6.6 | 6.8 | 6.8 | 6.6 |
-| Oct | 6.8 | 6.7 | 6.9 | 6.9 | 6.8 |
-| Nov | 6.9 | 6.8 | 7.0 | 7.0 | 7.1 |
-| Dec | 6.6 | 6.5 | 6.9 | 7.0 | 7.2 |
+> **Chart (not transcribed):** Australia - Monthly LNG Exports - Seasonality (may 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -72,22 +46,7 @@ The week started very quiet due to the upcoming holidays around the world, then 
 | **Newcastlemax 1-Y Period** | usd/day | 31,200 | 28,800 | +8.3% | +30.0% |
 | **Capesize 1-Y Period** | usd/day | 26,000 | 24,000 | +8.3% | +30.0% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| May-23 | 20000 | 20000 |
-| Jun-23 | 18000 | 15000 |
-| Jul-23 | 19000 | 16000 |
-| Aug-23 | 22000 | 25000 |
-| Sep-23 | 24000 | 30000 |
-| Oct-23 | 26000 | 52000 |
-| Nov-23 | 25000 | 45000 |
-| Dec-23 | 24000 | 35000 |
-| Jan-24 | 26000 | 30000 |
-| Feb-24 | 27000 | 35000 |
-| Mar-24 | 28000 | 32000 |
-| May-24 | 26000 | 20000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -111,20 +70,7 @@ A very quiet week due to National Holidays in various Asia countries. Indonesian
 | **Kamsarmax 1-Y Period** | usd/day | 18,000 | 18,300 | -1.6% | +2.9% |
 | **Panamax 1-Y Period** | usd/day | 15,000 | 15,300 | -2.0% | +11.1% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| May-23 | 17000 | 14000 |
-| Jun-23 | 16500 | 10000 |
-| Jul-23 | 14000 | 9000 |
-| Sep-23 | 14500 | 11000 |
-| Oct-23 | 15000 | 14000 |
-| Nov-23 | 15500 | 18000 |
-| Jan-24 | 16000 | 21000 |
-| Feb-24 | 15500 | 16000 |
-| Mar-24 | 16500 | 17000 |
-| May-24 | 17500 | 17000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX & HANDYSIZE MARKET
 
@@ -180,29 +126,9 @@ Rates remained unchanged compared to the previous week. A 53,000 dwt with dely V
 | **38k Handy 1-Y Period** | usd/day | 14,500 | 14,500 | +0.0% | +3.6% |
 | **30k Handy 1-Y Period** | usd/day | 10,500 | 10,500 | +0.0% | -7.1% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| May-23 | 15000 | 13000 |
-| Jul-23 | 10000 | 7000 |
-| Sep-23 | 10000 | 7500 |
-| Nov-23 | 14000 | 14000 |
-| Jan-24 | 15000 | 16000 |
-| Mar-24 | 14500 | 14000 |
-| May-24 | 15000 | 16000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| May-23 | 14000 | 12000 |
-| Jul-23 | 9000 | 6000 |
-| Sep-23 | 9000 | 7000 |
-| Nov-23 | 14000 | 11000 |
-| Jan-24 | 14500 | 16000 |
-| Mar-24 | 14000 | 14000 |
-| May-24 | 14000 | 13500 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -241,85 +167,15 @@ Rates remained unchanged compared to the previous week. A 53,000 dwt with dely V
 | Aframax TCE Average | usd/day | 43,337 | 41,704 | +3.9% | +7.8% |
 | **Aframax 1-Y Period** | usd/day | 43,500 | 43,500 | **+0.0%** | **-8.4%** |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| May-23 | 25000 |
-| Jun-23 | 70000 |
-| Jul-23 | 15000 |
-| Aug-23 | 10000 |
-| Sep-23 | 15000 |
-| Oct-23 | 35000 |
-| Nov-23 | 45000 |
-| Dec-23 | 55000 |
-| Jan-24 | 60000 |
-| Feb-24 | 65000 |
-| Mar-24 | 70000 |
-| Apr-24 | 40000 |
-| May-24 | 35000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| May-23 | 55000 |
-| Jun-23 | 45000 |
-| Jul-23 | 10000 |
-| Aug-23 | 5000 |
-| Sep-23 | 5000 |
-| Oct-23 | 80000 |
-| Nov-23 | 70000 |
-| Dec-23 | 65000 |
-| Jan-24 | 60000 |
-| Feb-24 | 45000 |
-| Mar-24 | 40000 |
-| Apr-24 | 40000 |
-| May-24 | 40000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| May-23 | 50000 |
-| Jun-23 | 40000 |
-| Jul-23 | 10000 |
-| Aug-23 | 5000 |
-| Sep-23 | 5000 |
-| Oct-23 | 100000 |
-| Nov-23 | 80000 |
-| Dec-23 | 60000 |
-| Jan-24 | 50000 |
-| Feb-24 | 40000 |
-| Mar-24 | 40000 |
-| Apr-24 | 40000 |
-| May-24 | 40000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| May-23 | 50000 |
-| Jun-23 | 40000 |
-| Jul-23 | 10000 |
-| Aug-23 | 5000 |
-| Sep-23 | 5000 |
-| Oct-23 | 100000 |
-| Nov-23 | 80000 |
-| Dec-23 | 60000 |
-| Jan-24 | 50000 |
-| Feb-24 | 40000 |
-| Mar-24 | 40000 |
-| Apr-24 | 40000 |
-| May-24 | 40000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Value |
-| --- | --- |
-| VLCC | 45000 |
-| Suezmax | 40000 |
-| Aframax | 45000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -401,27 +257,9 @@ A quiet week in the container market largely due to the upcoming holidays. Liner
 | **1700 teu (1Y, geared)** | usd/day | 13,736 | 13,459 | +2.1% | -12.6% |
 | **1100 teu (1Y, geared)** | usd/day | 8,736 | 8,695 | +0.5% | -33.2% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| May-23 | 24000 |
-| --- | --- |
-| Sep-23 | 18000 |
-| Jan-24 | 16000 |
-| May-24 | 26000 |
-| 4250 | 26000 |
-| 3500 | 25000 |
-| 2700 | 20000 |
-
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| May-23 | 17000 |
-| --- | --- |
-| Sep-23 | 13000 |
-| Jan-24 | 9000 |
-| May-24 | 17000 |
-| 2500 | 17000 |
-| 1700 | 13000 |
-| 1100 | 9000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -439,24 +277,9 @@ A quiet week in the container market largely due to the upcoming holidays. Liner
 | **Med - China** | usd/feu | 791 | 791 | +0.0% | +88.8% |
 | **ECNA - Europe** | usd/feu | 461 | 461 | +0.0% | +38.0% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
-| May-23 | 1500 |
-| --- | --- |
-| Sep-23 | 1200 |
-| Jan-24 | 3500 |
-| May-24 | 2800 |
-| FBX | 3000 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| May-23 | 1500 |
-| --- | --- |
-| Sep-23 | 1000 |
-| Jan-24 | 5500 |
-| May-24 | 3500 |
-| China - N. Europe | 3500 |
-| N. Europe - China | 800 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 18/2024
 
@@ -477,14 +300,7 @@ Very busy week for LNGs with the third phase of the Qatar Energy building progra
 | **LR2 Coated** | usd mln | 65.6 | 65.4 | +0.3% | +8.9% |
 | **MR2 Coated** | usd mln | 43.3 | 43.1 | +0.5% | +7.5% |
 
-### NEWBUILDING PRICES (USD MLN)
-
-| Date | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| May-23 | 36 | 72 | 41 |
-| Sep-23 | 36 | 75 | 43 |
-| Jan-24 | 36 | 77 | 44 |
-| May-24 | 36 | 78 | 44 |
+> **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -499,14 +315,7 @@ The Indian Subcontinent has enjoyed a more active week overall, with a number of
 | **Tnk India** | usd/ldt | 520.0 | 516.3 | +0.7% | -9.0% |
 | **Tnk Bangladesh** | usd/ldt | 539.0 | 539.7 | -0.1% | -7.3% |
 
-### DEMOLITION PRICES (USD/LDT)
-
-| Date | Dry Bulk | Tanker |
-| --- | --- | --- |
-| May-23 | 570 | 575 |
-| Sep-23 | 505 | 510 |
-| Jan-24 | 500 | 505 |
-| May-24 | 525 | 530 |
+> **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 18/2024
 
@@ -558,14 +367,7 @@ US Owners International Seaways was rumored to have sold enbloc – to Middle Ea
 | **Aframax** | usd mln | 71.9 | 71.7 | +0.2% | +13.5% |
 | **MR Product** | usd mln | 45.9 | 45.8 | +0.2% | +7.9% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Date | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| May-23 | 30 | 62 | 42 |
-| Sep-23 | 31 | 65 | 43 |
-| Jan-24 | 32 | 68 | 44 |
-| May-24 | 35 | 72 | 46 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 18/2024
 
@@ -623,45 +425,13 @@ US Owners International Seaways was rumored to have sold enbloc – to Middle Ea
 | **Q3 24** | usd/day | 13,625 | 13,642 | -0.1% | +3.9% |
 | **Q4 24** | usd/day | 13,163 | 13,150 | +0.1% | +0.4% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| May-23 | 15000 |
-| Nov-23 | 55000 |
-| May-24 | 25000 |
-| Nov-24 | 25000 |
-| May-25 | 15000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-### PANAMAX FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| May-23 | 10000 |
-| Nov-23 | 20000 |
-| May-24 | 18000 |
-| Nov-24 | 15000 |
-| May-25 | 13000 |
-
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| May-23 | 10000 |
-| Nov-23 | 15000 |
-| May-24 | 16000 |
-| Nov-24 | 13000 |
-| May-25 | 12000 |
-
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| May-23 | 12000 |
-| Nov-23 | 16000 |
-| May-24 | 14000 |
-| Nov-24 | 12000 |
-| May-25 | 11000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -672,14 +442,7 @@ US Owners International Seaways was rumored to have sold enbloc – to Middle Ea
 | KRW/USD | 1355 | 1376 | -1.6% | +0.9% |
 | CNY/USD | 7.24 | 7.25 | -0.1% | +4.8% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| May-23 | 135 |
-| Sep-23 | 145 |
-| Jan-24 | 140 |
-| May-24 | 160 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 ■ RESEARCH
 
@@ -704,15 +467,7 @@ US Owners International Seaways was rumored to have sold enbloc – to Middle Ea
 |  | Fujairah | usd/t | 105.0 | 121.0 | -13.2% | -8.7% |
 |  | Singapore | usd/t | 98.0 | 119.0 | -17.6% | -25.8% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| May-23 | 700 | 550 | 750 |
-| Jul-23 | 750 | 600 | 900 |
-| Sep-23 | 800 | 650 | 950 |
-| Jan-24 | 750 | 600 | 800 |
-| May-24 | 750 | 600 | 750 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -730,25 +485,9 @@ US Owners International Seaways was rumored to have sold enbloc – to Middle Ea
 | LNG TTF Netherlands | usd/mmbtu | 9.50 | 9.17 | +3.6% | -23.3% |
 | LNG North East Asia | usd/mmbtu | 10.40 | 10.20 | +2.0% | -9.6% |
 
-### HENRY HUB PRICE (USD/MMBTU)
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| May-23 | 2.5 |
-| Jul-23 | 2.8 |
-| Sep-23 | 3.5 |
-| Jan-24 | 1.8 |
-| May-24 | 2.0 |
-
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| May-23 | 180 | 110 |
-| Jul-23 | 150 | 115 |
-| Sep-23 | 160 | 120 |
-| Jan-24 | 130 | 125 |
-| May-24 | 135 | 120 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## COAL
 
@@ -766,15 +505,7 @@ US Owners International Seaways was rumored to have sold enbloc – to Middle Ea
 | Rebar Steel in China | rmb/t | 3524.0 | 3570.0 | -1.3% | -3.1% |
 | HRC Steel in China | rmb/t | 3809.0 | 3849.0 | -1.0% | -4.1% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | HRC | Plate |
-| --- | --- | --- |
-| May-23 | 3800 | 3900 |
-| Jul-23 | 3700 | 4000 |
-| Sep-23 | 3600 | 4100 |
-| Jan-24 | 4000 | 4000 |
-| May-24 | 3500 | 3800 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -787,12 +518,4 @@ US Owners International Seaways was rumored to have sold enbloc – to Middle Ea
 | **Palm Oil Malaysia** | usd/t | 820.5 | 824.8 | -0.5% | -7.1% |
 | **Ferts Urea Middle East** | usd/t | 392.5 | 392.5 | +0.0% | +12.9% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| May-23 | 600 | 600 |
-| Jul-23 | 450 | 650 |
-| Sep-23 | 400 | 550 |
-| Jan-24 | 350 | 500 |
-| May-24 | 400 | 580 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.

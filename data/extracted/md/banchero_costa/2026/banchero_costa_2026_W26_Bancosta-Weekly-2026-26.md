@@ -146,17 +146,7 @@ Ballaster supply continued to build for H2 July dates, suggesting a backwardated
 | **Newcastlemax 1-Y Period** | usd/day | 36,800 | 36,800 | +0.0% | +55.3% |
 | **Capesize 1-Y Period** | usd/day | 31,800 | 32,000 | -0.6% | +60.6% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Jun-25 | 15000 | 18000 |
-| Aug-25 | 22000 | 28000 |
-| Oct-25 | 27000 | 43000 |
-| Dec-25 | 26000 | 18000 |
-| Feb-26 | 28000 | 32000 |
-| Apr-26 | 34000 | 45000 |
-| Jun-26 | 32000 | 35000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -186,23 +176,7 @@ On the Australian market, business continued to provide the strongest support wi
 | **Kamsarmax 1-Y Period** | usd/day | 18,000 | 19,000 | -5.3% | +50.0% |
 | **Panamax 1-Y Period** | usd/day | 16,000 | 17,000 | -5.9% | +60.0% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Jun-25 | 13000 | 13500 |
-| Jul-25 | 14000 | 14500 |
-| Aug-25 | 13500 | 14000 |
-| Sep-25 | 14500 | 15000 |
-| Oct-25 | 15000 | 15500 |
-| Nov-25 | 14000 | 12000 |
-| Dec-25 | 15500 | 16000 |
-| Jan-26 | 16500 | 17000 |
-| Feb-26 | 18000 | 18500 |
-| Mar-26 | 19000 | 20000 |
-| Apr-26 | 19500 | 21000 |
-| May-26 | 18500 | 20500 |
-| Jun-26 | 18000 | 19000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -262,39 +236,9 @@ Ultramax/Supramax saw a slow week in the Pacific Basin with limited coal enquiry
 | **38k Handy 1-Y Period** | usd/day | 15,800 | 16,000 | -1.3% | +39.8% |
 | **30k Handy 1-Y Period** | usd/day | 12,500 | 11,800 | +5.9% | +47.1% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Jun-25 | 11,000 | 11,500 |
-| Jul-25 | 12,000 | 14,000 |
-| Aug-25 | 13,500 | 15,000 |
-| Sep-25 | 14,000 | 15,500 |
-| Oct-25 | 14,500 | 15,000 |
-| Nov-25 | 13,000 | 11,000 |
-| Dec-25 | 13,500 | 12,000 |
-| Jan-26 | 14,000 | 13,000 |
-| Feb-26 | 15,000 | 16,000 |
-| Mar-26 | 17,000 | 18,000 |
-| Apr-26 | 18,500 | 19,000 |
-| Jun-26 | 19,000 | 19,500 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Jun-25 | 11,000 | 11,500 |
-| Jul-25 | 12,000 | 13,000 |
-| Aug-25 | 13,000 | 14,000 |
-| Sep-25 | 13,500 | 14,500 |
-| Oct-25 | 14,000 | 15,000 |
-| Nov-25 | 12,500 | 11,000 |
-| Dec-25 | 13,000 | 12,500 |
-| Jan-26 | 13,500 | 14,000 |
-| Feb-26 | 14,500 | 15,000 |
-| Mar-26 | 15,500 | 16,000 |
-| Apr-26 | 16,000 | 16,500 |
-| Jun-26 | 16,000 | 17,000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -344,50 +288,15 @@ Cross-Mediterranean market bottoming out at the WS 155 level, whilst rates for 7
 | **Aframax TCE Average** | usd/day | 46,614 | 44,373 | +5.1% | +38.2% |
 | **Aframax 1-Y Period** | usd/day | 50,500 | 50,500 | +0.0% | +74.1% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jun-25 | 0 |
-| Oct-25 | 200,000 |
-| Feb-26 | 600,000 |
-| Jun-26 | 450,000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jun-25 | 0 |
-| Oct-25 | 100,000 |
-| Feb-26 | 350,000 |
-| Jun-26 | 150,000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jun-25 | 0 |
-| Oct-25 | 100,000 |
-| Feb-26 | 300,000 |
-| Jun-26 | 20,000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jun-25 | 0 |
-| Oct-25 | 100,000 |
-| Feb-26 | 300,000 |
-| Jun-26 | 10,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Jun-25 | 40,000 | 30,000 | 20,000 |
-| Oct-25 | 60,000 | 50,000 | 40,000 |
-| Feb-26 | 150,000 | 70,000 | 50,000 |
-| Jun-26 | 110,000 | 60,000 | 45,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -436,41 +345,13 @@ A soft week in the Mediterranean, where the lack of fresh cargoes was not enough
 | **TD18-TCE Baltic-UKC(30K)** | usd/day | 17,003 | 17,757 | -4.2% | -53.1% |
 | **Med-Med (30k)** | ws | 227.5 | 240.0 | -5.2% | -9.0% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jun-25 | 25,000 |
-| Oct-25 | 45,000 |
-| Feb-26 | 150,000 |
-| Jun-26 | 140,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jun-25 | 25,000 |
-| Oct-25 | 35,000 |
-| Feb-26 | 110,000 |
-| Jun-26 | 20,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Jun-25 | 25,000 |
-| Oct-25 | 30,000 |
-| Feb-26 | 45,000 |
-| Jun-26 | 35,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Jun-25 | 28,000 | 18,000 |
-| Oct-25 | 38,000 | 25,000 |
-| Feb-26 | 62,000 | 32,000 |
-| Jun-26 | 52,000 | 29,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -489,30 +370,11 @@ The container charter market remains resilient and firm due to limited vessel av
 | **1700 teu (1Y, geared)** | usd/day | 31,878 | 31,750 | +0.4% | +19.5% |
 | **1100 teu (1Y, geared)** | usd/day | 17,028 | 17,009 | +0.1% | +3.6% |
 
-| DATE | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Jun-25 | 50000 | 42000 | 36000 |
-| Oct-25 | 51000 | 41000 | 36000 |
-| Feb-26 | 50000 | 41000 | 37000 |
-| Jun-26 | 56000 | 42000 | 37000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-## GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| DATE | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Jun-25 | 35000 | 27000 | 16000 |
-| Oct-25 | 35000 | 27000 | 16000 |
-| Feb-26 | 35000 | 31000 | 16000 |
-| Jun-26 | 36000 | 32000 | 17000 |
-
-## FREIGHTOS BALTIC CONTAINER INDEX
-
-| DATE | FBX |
-| --- | --- |
-| Jun-25 | 3500 |
-| Oct-25 | 1600 |
-| Feb-26 | 1800 |
-| Jun-26 | 3400 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -523,12 +385,7 @@ The container charter market remains resilient and firm due to limited vessel av
 | **China - WCNA** | usd/feu | 6,175 | 5,742 | +7.5% | +10.4% |
 | **China - N. Europe** | usd/feu | 4,883 | 4,741 | +3.0% | +57.7% |
 
-| DATE | China - N. Europe |
-| --- | --- |
-| Jun-25 | 3500 |
-| Oct-25 | 1800 |
-| Feb-26 | 2500 |
-| Jun-26 | 4800 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 26/2026
 
@@ -549,12 +406,7 @@ Newbuilding market remains hot even this week, with tankers and containers again
 | **LR2 Coated** | usd mln | 70.8 | 70.1 | +1.0% | +2.7% |
 | **MR2 Coated** | usd mln | 45.4 | 44.9 | +1.0% | +2.5% |
 
-| Time | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Jun-25 | 36 | 82 | 44 |
-| Oct-25 | 36 | 82 | 45 |
-| Feb-26 | 37 | 83 | 45 |
-| Jun-26 | 38 | 84 | 45 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -571,12 +423,7 @@ Despite once again escalating tensions between Iran the US over the weekend, the
 | **Tnk India** | usd/ldt | 445.0 | 446.4 | -0.3% | +2.1% |
 | **Tnk Bangladesh** | usd/ldt | 488.2 | 493.2 | -1.0% | +9.4% |
 
-| Time | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Jun-25 | 415 | 435 |
-| Oct-25 | 405 | 415 |
-| Feb-26 | 450 | 460 |
-| Jun-26 | 460 | 468 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 26/2026
 
@@ -616,14 +463,7 @@ Another busy week in the second hand market, where Mercuria is reported having b
 | **Aframax** | usd mln | 81.3 | 81.4 | -0.1% | +27.3% |
 | **MR Product** | usd mln | 48.7 | 48.6 | +0.3% | +20.2% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Route / Benchmark | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Jun-25 | 32 | 65 | 40 |
-| Oct-25 | 34 | 66 | 42 |
-| Feb-26 | 36 | 75 | 44 |
-| Jun-26 | 38 | 82 | 47 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 26/2026
 
@@ -681,85 +521,13 @@ Another busy week in the second hand market, where Mercuria is reported having b
 | **Q1 27** | usd/day | 11,910 | 11,810 | +0.8% | -30.1% |
 | **Q2 27** | usd/day | 13,560 | 13,480 | +0.6% | -20.4% |
 
-## CAPESIZE FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jun-25 | 15000 |
-| Jul-25 | 25000 |
-| Aug-25 | 22000 |
-| Sep-25 | 20000 |
-| Oct-25 | 35000 |
-| Nov-25 | 18000 |
-| Dec-25 | 45000 |
-| Jun-26 | 40000 |
-| Jul-26 | 35000 |
-| Aug-26 | 34000 |
-| Sep-26 | 33000 |
-| Oct-26 | 28000 |
-| Nov-26 | 27000 |
-| Dec-26 | 30000 |
-| Jun-27 | 34000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-## PANAMAX FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jun-25 | 15000 |
-| Jul-25 | 16000 |
-| Aug-25 | 12000 |
-| Sep-25 | 14000 |
-| Oct-25 | 22000 |
-| Nov-25 | 20000 |
-| Dec-25 | 19000 |
-| Jun-26 | 19000 |
-| Jul-26 | 16000 |
-| Aug-26 | 15000 |
-| Sep-26 | 16000 |
-| Oct-26 | 14000 |
-| Nov-26 | 16000 |
-| Dec-26 | 16000 |
-| Jun-27 | 16500 |
-
-## SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jun-25 | 14000 |
-| Jul-25 | 18000 |
-| Aug-25 | 12000 |
-| Sep-25 | 14000 |
-| Oct-25 | 21000 |
-| Nov-25 | 20000 |
-| Dec-25 | 20000 |
-| Jun-26 | 20000 |
-| Jul-26 | 16000 |
-| Aug-26 | 16000 |
-| Sep-26 | 14000 |
-| Oct-26 | 12000 |
-| Nov-26 | 16000 |
-| Dec-26 | 16000 |
-| Jun-27 | 16500 |
-
-## HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jun-25 | 11000 |
-| Jul-25 | 16000 |
-| Aug-25 | 10000 |
-| Sep-25 | 12000 |
-| Oct-25 | 16000 |
-| Nov-25 | 16000 |
-| Dec-25 | 16000 |
-| Jun-26 | 12000 |
-| Jul-26 | 14000 |
-| Aug-26 | 14000 |
-| Sep-26 | 14000 |
-| Oct-26 | 12000 |
-| Nov-26 | 14000 |
-| Dec-26 | 14000 |
-| Jun-27 | 14500 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -770,22 +538,7 @@ Another busy week in the second hand market, where Mercuria is reported having b
 | KRW/USD | 1535 | 1530 | +0.3% | +11.8% |
 | CNY/USD | 6.80 | 6.77 | +0.4% | -5.3% |
 
-## JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Jun-25 | 145 |
-| Jul-25 | 148 |
-| Aug-25 | 150 |
-| Sep-25 | 152 |
-| Oct-25 | 155 |
-| Nov-25 | 158 |
-| Dec-25 | 160 |
-| Jan-26 | 162 |
-| Feb-26 | 163 |
-| Mar-26 | 162 |
-| Apr-26 | 163 |
-| Jun-26 | 165 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 26/2026
 
@@ -808,13 +561,7 @@ Another busy week in the second hand market, where Mercuria is reported having b
 |  | **Fujairah** | usd/t | 412.3 | 616.8 | -33.2% | +292.6% |
 |  | **Singapore** | usd/t | 238.3 | 211.8 | +12.5% | +201.6% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Category | Jun-25 | Oct-25 | Feb-26 | Jun-26 |
-| --- | --- | --- | --- | --- |
-| IFO380 | 700 | 700 | 1800 | 900 |
-| VLSFO | 650 | 650 | 1600 | 850 |
-| LSMGO | 750 | 750 | 2000 | 950 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -832,18 +579,9 @@ Another busy week in the second hand market, where Mercuria is reported having b
 | **LNG TTF Netherlands** | usd/mmbtu | 13.73 | 14.17 | -3.1% | +0.0% |
 | **LNG North East Asia** | usd/mmbtu | 15.35 | 15.30 | +0.3% | +9.6% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Category | Jun-25 | Oct-25 | Feb-26 | Jun-26 |
-| --- | --- | --- | --- | --- |
-| Brent | 70 | 70 | 110 | 70 |
-| WTI | 65 | 65 | 115 | 70 |
-
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Category | Jun-25 | Oct-25 | Feb-26 | Jun-26 |
-| --- | --- | --- | --- | --- |
-| Henry Hub Nat Gas | 3.5 | 5.5 | 5.5 | 3.5 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -853,12 +591,7 @@ Another busy week in the second hand market, where Mercuria is reported having b
 | **Steam Coal Newcastle** | usd/t | 139.7 | 150.3 | -7.0% | +34.9% |
 | **Coking Coal Australia SGX** | usd/t | 243.3 | 243.0 | +0.1% | +35.9% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Category | Jun-25 | Oct-25 | Feb-26 | Jun-26 |
-| --- | --- | --- | --- | --- |
-| Steam Coal | 110 | 110 | 130 | 150 |
-| Iron Ore | 95 | 100 | 105 | 100 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -868,12 +601,7 @@ Another busy week in the second hand market, where Mercuria is reported having b
 | **Rebar Steel in China** | rmb/t | 3146.0 | 3171.0 | -0.8% | +3.7% |
 | **HRC Steel in China** | rmb/t | 3280.0 | 3334.0 | -1.6% | +4.1% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Category | Jun-25 | Oct-25 | Feb-26 | Jun-26 |
-| --- | --- | --- | --- | --- |
-| HRC | 3100 | 3000 | 3200 | 3300 |
-| Plate | 3200 | 3300 | 3400 | 3400 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -885,10 +613,5 @@ Another busy week in the second hand market, where Mercuria is reported having b
 | **Sugar ICE N.11** | usc/lb | 13.98 | 13.59 | +2.9% | -13.2% |
 | **Palm Oil Malaysia** | usd/t | 1101.8 | 1111.8 | -0.9% | +15.2% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Category | Jun-25 | Oct-25 | Feb-26 | Jun-26 |
-| --- | --- | --- | --- | --- |
-| Corn | 400 | 400 | 450 | 420 |
-| Wheat | 550 | 500 | 650 | 580 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.
 

@@ -22,35 +22,9 @@ In terms of trading patterns, things are changing quite a bit. Indonesia is stil
 
 From Canada volumes increased by +40.1% y-o-y to 8.8 mln tonnes. Shipments from Mozambique also went up by +31.6% y-o-y to 7.4 mln tonnes. Imports from Ukraine, on the other hand, fell by -21.2% y-o-y to just 5.8 million tonnes. From Australia, shipments were down -97.6% y-o-y to just 1.8 mln tonnes in 2021, from 76.6 mln tonnes in 2020. Australia's share of Chinese imports is now just 1%, from 32% in 2020.
 
-### China - Coal Imports by Source in Jan-Dec (Feb 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes)
+> **Chart (not transcribed):** China - Coal Imports by Source in Jan-Dec (Feb 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 
-| Source | 2019 (1-12) | 2020 (1-12) | 2021 (1-12) |
-| --- | --- | --- | --- |
-| Indonesia | 124 | 101 | 146 |
-| Russia | 25 | 33 | 41 |
-| USA | 3 | 3 | 15 |
-| S Africa | 2 | 4 | 14 |
-| Canada | 6 | 6 | 9 |
-| Mozambique | 5 | 6 | 7 |
-| Australia | 89 | 77 | 2 |
-| Others | 9 | 12 | 12 |
-
-### China - Monthly Coal Imports - Seasonality (Feb 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes)
-
-| Month | 2017 | 2018 | 2019 | 2020 | 2021 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 16.5 | 18.5 | 16.0 | 25.5 | 22.0 |
-| Feb | 15.0 | 19.0 | 16.5 | 21.0 | 18.5 |
-| Mar | 16.0 | 21.5 | 20.0 | 22.0 | 19.0 |
-| Apr | 17.0 | 17.5 | 19.5 | 21.5 | 16.0 |
-| May | 18.0 | 18.0 | 25.5 | 22.5 | 17.0 |
-| Jun | 16.5 | 20.0 | 25.0 | 25.5 | 25.0 |
-| Jul | 17.5 | 21.0 | 24.5 | 21.0 | 21.0 |
-| Aug | 18.0 | 20.5 | 25.0 | 20.5 | 21.0 |
-| Sep | 17.5 | 18.5 | 20.0 | 20.0 | 20.5 |
-| Oct | 16.0 | 17.0 | 19.0 | 11.0 | 19.5 |
-| Nov | 16.5 | 17.5 | 18.5 | 19.0 | 20.0 |
-| Dec | 16.0 | 14.5 | 17.5 | 19.5 | 19.0 |
+> **Chart (not transcribed):** China - Monthly Coal Imports - Seasonality (Feb 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -80,23 +54,7 @@ The C9 14 route Continent/Mediterranean trip China-Japan (front haul), on the ot
 | **Newcastlemax 1-Y Period** | usd/day | 30,000 | 30,000 | +0.0% | +71.4% |
 | **Capesize 1-Y Period** | usd/day | 26,500 | 27,500 | -3.6% | +82.8% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Feb-21 | 15000 | 15000 |
-| Mar-21 | 35000 | 40000 |
-| Apr-21 | 30000 | 35000 |
-| May-21 | 32000 | 45000 |
-| Jun-21 | 35000 | 50000 |
-| Jul-21 | 38000 | 55000 |
-| Aug-21 | 40000 | 60000 |
-| Sep-21 | 42000 | 85000 |
-| Oct-21 | 35000 | 80000 |
-| Nov-21 | 30000 | 40000 |
-| Dec-21 | 28000 | 35000 |
-| Jan-22 | 25000 | 20000 |
-| Feb-22 | 26000 | 18000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -124,23 +82,7 @@ Despite the lack of news from South America, positive sentiments remain in that 
 | **Kamsarmax 1-Y Period** | usd/day | 25,500 | 24,500 | +4.1% | +67.2% |
 | **Panamax 1-Y Period** | usd/day | 19,000 | 18,800 | +1.1% | +40.7% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Feb-21 | 15000 | 20000 |
-| Mar-21 | 20000 | 22000 |
-| Apr-21 | 25000 | 30000 |
-| May-21 | 28000 | 35000 |
-| Jun-21 | 27000 | 38000 |
-| Jul-21 | 26000 | 36000 |
-| Aug-21 | 25000 | 34000 |
-| Sep-21 | 24000 | 32000 |
-| Oct-21 | 23000 | 38000 |
-| Nov-21 | 22000 | 25000 |
-| Dec-21 | 21000 | 22000 |
-| Jan-22 | 22000 | 20000 |
-| Feb-22 | 24000 | 21000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -202,39 +144,9 @@ Following the market boom of two weeks ago, the Far East market increased last w
 | **38k Handy 1-Y Period** | usd/day | 23,500 | 23,000 | +2.2% | +104.3% |
 | **30k Handy 1-Y Period** | usd/day | 19,000 | 19,000 | +0.0% | +81.0% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Feb-21 | 10000 | 15000 |
-| Mar-21 | 12000 | 18000 |
-| Apr-21 | 15000 | 22000 |
-| May-21 | 18000 | 26000 |
-| Jun-21 | 22000 | 30000 |
-| Jul-21 | 25000 | 34000 |
-| Aug-21 | 28000 | 38000 |
-| Sep-21 | 30000 | 40000 |
-| Oct-21 | 25000 | 39000 |
-| Nov-21 | 22000 | 28000 |
-| Dec-21 | 20000 | 22000 |
-| Feb-22 | 22000 | 25000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Feb-21 | 10000 | 15000 |
-| Mar-21 | 12000 | 18000 |
-| Apr-21 | 15000 | 22000 |
-| May-21 | 18000 | 26000 |
-| Jun-21 | 22000 | 30000 |
-| Jul-21 | 25000 | 34000 |
-| Aug-21 | 28000 | 38000 |
-| Sep-21 | 30000 | 40000 |
-| Oct-21 | 25000 | 39000 |
-| Nov-21 | 22000 | 28000 |
-| Dec-21 | 20000 | 22000 |
-| Feb-22 | 22000 | 25000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -279,31 +191,11 @@ Following the market boom of two weeks ago, the Far East market increased last w
 | **Aframax TCE Average** | usd/day | 4,411 | 3,072 | +43.6% | -22.3% |
 | **Aframax 1-Y Period** | usd/day | 16,900 | 16,900 | +0.0% | -0.6% |
 
-| TD3C VLCC MEG-FAR EAST (USD/DAY) | TD3C VLCC MEG-FAR EAST (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Feb-21 | -2000 |
-| Jun-21 | -5000 |
-| Oct-21 | 5000 |
-| Feb-22 | -13000 |
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-21 | 25000 |
-| Jun-21 | -5000 |
-| Oct-21 | 8000 |
-| Feb-22 | -5000 |
-
-### TD17 AFRAMAX BALTIC-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-21 | 30000 |
-| Jun-21 | 0 |
-| Oct-21 | 20000 |
-| Feb-22 | 5000 |
+> **Chart (not transcribed):** TD17 AFRAMAX BALTIC-UKC (USD/DAY). The report prints no values for it.
 
 | TD19 AFRAMAX MED-MED (USD/DAY) | TD19 AFRAMAX MED-MED (USD/DAY) |
 | --- | --- |
@@ -356,66 +248,13 @@ Lack of activity and pptish opening vessels keep the sentiment soft, and after l
 |  | **Med-Med (30k)** | ws | 145.0 | 185.0 | -21.6% | +31.8% |
 |  | **Black Sea-Med (30k)** | ws | 155.0 | 195.0 | -20.5% | +31.9% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value | Value 2 | Value 3 |
-| --- | --- | --- | --- |
-| Feb-21 | -5,000 |  |  |
-| Mar-21 | 20,000 |  |  |
-| Apr-21 | 5,000 |  |  |
-| May-21 | 3,000 |  |  |
-| Jun-21 | 5,000 |  |  |
-| Jul-21 | 8,000 |  |  |
-| Aug-21 | 6,000 |  |  |
-| Sep-21 | 10,000 |  |  |
-| Oct-21 | 12,000 |  |  |
-| Nov-21 | 15,000 |  |  |
-| Dec-21 | 14,000 |  |  |
-| Jan-22 | 8,000 | Feb-22 | -5,000 |
-| Feb-22 | -5,000 |  |  |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-21 | 5,000 |
-| Mar-21 | 8,000 |
-| Apr-21 | 10,000 |
-| May-21 | 21,000 |
-| Jun-21 | 4,000 |
-| Jul-21 | 5,000 |
-| Aug-21 | 3,000 |
-| Sep-21 | 4,000 |
-| Oct-21 | 10,000 |
-| Nov-21 | 14,000 |
-| Dec-21 | 16,000 |
-| Jan-22 | 15,000 |
-| Feb-22 | 15,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Feb-21 | 0 |
-| Mar-21 | 10,000 |
-| Apr-21 | 10,000 |
-| May-21 | 5,000 |
-| Jun-21 | 0 |
-| Jul-21 | 14,000 |
-| Aug-21 | 14,000 |
-| Sep-21 | 10,000 |
-| Oct-21 | 14,000 |
-| Nov-21 | 14,000 |
-| Dec-21 | 8,000 |
-| Jan-22 | 8,000 |
-| Feb-22 | 8,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Value |
-| --- | --- |
-| LR2 | 17,000 |
-| MR2 | 14,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -446,23 +285,9 @@ Assuming that trade between Asia and the United States and Europe remains unaffe
 | **1700 teu (1Y, geared)** | usd/day | 59,588 | 58,000 | +2.7% | +326.5% |
 | **1100 teu (1Y, geared)** | usd/day | 36,567 | 36,288 | +0.8% | +262.2% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Feb-21 | 30,000 | 30,000 | 30,000 |
-| Jun-21 | 80,000 | 80,000 | 70,000 |
-| Oct-21 | 90,000 | 85,000 | 75,000 |
-| Feb-22 | 110,000 | 95,000 | 85,000 |
-
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Feb-21 | 15,000 | 10,000 | 8,000 |
-| Jun-21 | 50,000 | 35,000 | 25,000 |
-| Oct-21 | 60,000 | 40,000 | 30,000 |
-| Feb-22 | 75,000 | 55,000 | 35,000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -483,14 +308,7 @@ Assuming that trade between Asia and the United States and Europe remains unaffe
 | ***Europe - ECSA*** | usd/feu | 2,681 | 3,856 | -30.5% | +188.0% |
 | **Europe - WCSA** | usd/feu | 8,070 | 8,399 | -3.9% | +228.3% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | FBX |
-| --- | --- |
-| Feb-21 | 4,000 |
-| Jun-21 | 8,000 |
-| Oct-21 | 10,000 |
-| Feb-22 | 10,000 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 | FREIGHTOS BALTIC CONTAINER INDEX | FREIGHTOS BALTIC CONTAINER INDEX | FREIGHTOS BALTIC CONTAINER INDEX |
 | --- | --- | --- |
@@ -588,13 +406,7 @@ A greek controlled handy Tramontana abt 28k blt 2010 Shimanami (SS due 8/2025 DD
 | **Aframax** | usd mln | 41.7 | 41.7 | +0.1% | +22.3% |
 | **MR Product** | usd mln | 29.9 | 29.7 | +0.5% | +16.3% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| SECONDHAND VALUES (USD MLN) | Feb-21 | Jun-21 | Oct-21 | Feb-22 |
-| --- | --- | --- | --- | --- |
-| **Kamsarmax** | 25 | 30 | 33 | 33 |
-| **Aframax** | 33 | 38 | 40 | 41 |
-| **MR** | 25 | 27 | 29 | 30 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 07/2022
 
@@ -613,15 +425,7 @@ A greek controlled handy Tramontana abt 28k blt 2010 Shimanami (SS due 8/2025 DD
 | **Q3 22** | usd/day | 32,764 | 32,107 | +2.0% | +113.7% |
 | **Q4 22** | usd/day | 30,264 | 17,322 | +74.7% | +97.4% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-21 | 10000 |
-| Aug-21 | 90000 |
-| Feb-22 | 5000 |
-| Aug-22 | 35000 |
-| Feb-23 | 32000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -636,15 +440,7 @@ A greek controlled handy Tramontana abt 28k blt 2010 Shimanami (SS due 8/2025 DD
 | **Q3 22** | usd/day | 27,507 | 26,672 | +3.1% | +25.2% |
 | **Q4 22** | usd/day | 25,600 | 24,882 | +2.9% | +16.5% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-21 | 18000 |
-| Aug-21 | 38000 |
-| Feb-22 | 18000 |
-| Aug-22 | 26000 |
-| Feb-23 | 25000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (58k)
 
@@ -659,15 +455,7 @@ A greek controlled handy Tramontana abt 28k blt 2010 Shimanami (SS due 8/2025 DD
 | **Q3 22** | usd/day | 26,863 | 26,563 | +1.1% | +4.3% |
 | **Q4 22** | usd/day | 24,938 | 24,563 | +1.5% | -3.2% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-21 | 15000 |
-| Aug-21 | 36000 |
-| Feb-22 | 25000 |
-| Aug-22 | 24000 |
-| Feb-23 | 23000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -682,15 +470,7 @@ A greek controlled handy Tramontana abt 28k blt 2010 Shimanami (SS due 8/2025 DD
 | **Q3 22** | usd/day | 25,575 | 25,438 | +0.5% | +8.8% |
 | **Q4 22** | usd/day | 23,700 | 23,525 | +0.7% | +0.8% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-21 | 15000 |
-| Aug-21 | 42000 |
-| Feb-22 | 18000 |
-| Aug-22 | 23000 |
-| Feb-23 | 22000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -701,14 +481,7 @@ A greek controlled handy Tramontana abt 28k blt 2010 Shimanami (SS due 8/2025 DD
 | **KRW/USD** | 1,196 | 1,199 | -0.3% | +8.0% |
 | **CNY/USD** | 6.3 | 6.4 | -0.5% | -2.5% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Feb-21 | 105 |
-| Jun-21 | 110 |
-| Oct-21 | 114 |
-| Feb-22 | 115 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 07/2022
 
@@ -763,19 +536,9 @@ A greek controlled handy Tramontana abt 28k blt 2010 Shimanami (SS due 8/2025 DD
 | Sugar ICE N.11 | usc/lb | 18.20 | 18.26 | -0.3% | +11.1% |
 | Palm Oil Malaysia | usd/t | 1435.0 | 1385.0 | +3.6% | +48.9% |
 
-| DATE | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Feb-21 | 500 | 550 | 600 |
-| Jun-21 | 550 | 600 | 650 |
-| Oct-21 | 600 | 650 | 700 |
-| Feb-22 | 700 | 750 | 850 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Brent | WTI |
-| --- | --- | --- |
-| Feb-21 | 60 | 60 |
-| Jun-21 | 75 | 75 |
-| Oct-21 | 85 | 85 |
-| Feb-22 | 95 | 95 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | DATE | Henry Hub Nat Gas |
 | --- | --- |
@@ -784,19 +547,9 @@ A greek controlled handy Tramontana abt 28k blt 2010 Shimanami (SS due 8/2025 DD
 | Oct-21 | 5.5 |
 | Feb-22 | 4.5 |
 
-| DATE | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Feb-21 | 80 | 140 |
-| Jun-21 | 100 | 170 |
-| Oct-21 | 250 | 70 |
-| Feb-22 | 250 | 120 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Rebar | Plate |
-| --- | --- | --- |
-| Feb-21 | 4500 | 4500 |
-| Jun-21 | 5500 | 6200 |
-| Oct-21 | 4800 | 5000 |
-| Feb-22 | 5000 | 5000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | DATE | Corn | Wheat |
 | --- | --- | --- |

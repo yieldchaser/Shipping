@@ -25,30 +25,15 @@ Exports from Brazil to the EU increased by +1.3% y-o-y to 17.1 mln tonnes in Jan
 | Destination | 2022 (1-12) | 2023 (1-12) | 2024 (1-12) |
 | --- | --- | --- | --- |
 | China | 234.6 | 254.6 | 272.5 |
-| Malaysia | 17.7 | 18.0 | 19.1 |
-| EU | 20.4 | 16.5 | 17.1 |
+| Malaysia | 17.3 | 18.0 | 19.1 |
+| EU | 20.4 | 16.9 | 17.1 |
 | Oman | 10.3 | 9.8 | 12.8 |
-| Japan | 11.1 | 11.4 | 10.6 |
-| Bahrain | 11.1 | 10.4 | 10.0 |
+| Japan | 11.2 | 11.4 | 10.6 |
+| Bahrain | 11.3 | 10.8 | 10.0 |
 | S Korea | 7.7 | 7.4 | 7.5 |
-| Others/ Unknown | 22.8 | 33.4 | 30.8 |
+| Others/Unknown | 22.8 | 33.4 | 30.8 |
 
-### Brazil - Monthly Iron Ore Exports - Seasonality (jan 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
-
-| Month | 2020 | 2021 | 2022 | 2023 | 2024 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 21.5 | 27.0 | 22.8 | 23.0 | 27.0 |
-| Feb | 21.0 | 23.5 | 23.0 | 25.0 | 27.5 |
-| Mar | 20.0 | 24.0 | 20.0 | 24.5 | 28.0 |
-| Apr | 24.0 | 25.5 | 24.5 | 31.0 | 30.0 |
-| May | 26.0 | 29.0 | 26.0 | 33.0 | 31.0 |
-| Jun | 30.0 | 33.0 | 32.0 | 34.0 | 34.0 |
-| Jul | 32.0 | 34.0 | 33.0 | 34.5 | 34.0 |
-| Aug | 34.0 | 35.0 | 34.0 | 35.0 | 36.5 |
-| Sep | 33.0 | 33.5 | 33.0 | 34.0 | 34.0 |
-| Oct | 30.0 | 30.5 | 31.0 | 31.5 | 32.0 |
-| Nov | 30.0 | 30.0 | 30.5 | 31.0 | 33.0 |
-| Dec | 30.0 | 30.0 | 31.0 | 36.0 | 34.0 |
+> **Chart (not transcribed):** Brazil - Monthly Iron Ore Exports - Seasonality (jan 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 
 # NEWS
 # COMMODITY NEWS – DRY BULK
@@ -146,22 +131,7 @@ Out of South Africa, Anglo American fixed the MV Mineral Subic (179,397 dwt | 20
 | **Newcastlemax 1-Y Period** | usd/day | 22,800 | 22,800 | +0.0% | -7.3% |
 | **Capesize 1-Y Period** | usd/day | 19,000 | 19,000 | +0.0% | -7.3% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Jan-24 | 16000 | 15000 |
-| Feb-24 | 29000 | 36000 |
-| Mar-24 | 28000 | 34000 |
-| Apr-24 | 26000 | 30000 |
-| May-24 | 25000 | 28000 |
-| Jun-24 | 24000 | 27000 |
-| Jul-24 | 26000 | 29000 |
-| Aug-24 | 27000 | 30000 |
-| Sep-24 | 26000 | 29000 |
-| Oct-24 | 19000 | 16000 |
-| Nov-24 | 18000 | 14000 |
-| Jan-25 | 17000 | 12000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -187,22 +157,7 @@ As expected, the Pacific market was very quiet and a many units were trying to m
 | **Kamsarmax 1-Y Period** | usd/day | 12,000 | 12,000 | +0.0% | -21.6% |
 | **Panamax 1-Y Period** | usd/day | 10,500 | 10,500 | +0.0% | -21.1% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Jan-24 | 16000 | 13000 |
-| Feb-24 | 17000 | 14500 |
-| Mar-24 | 18000 | 19000 |
-| Apr-24 | 17500 | 18000 |
-| May-24 | 17000 | 17000 |
-| Jun-24 | 16500 | 16000 |
-| Jul-24 | 16000 | 15500 |
-| Aug-24 | 15500 | 15000 |
-| Sep-24 | 15000 | 14000 |
-| Oct-24 | 14500 | 13500 |
-| Nov-24 | 14000 | 13000 |
-| Jan-25 | 12000 | 7000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -258,39 +213,9 @@ Another poor week with the lack of activity that led rates to decrease further. 
 | **38k Handy 1-Y Period** | usd/day | 11,500 | 11,800 | -2.5% | -16.7% |
 | **30k Handy 1-Y Period** | usd/day | 8,500 | 9,000 | -5.6% | -19.0% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Jan-24 | 14000 | 11500 |
-| Feb-24 | 14500 | 12000 |
-| Mar-24 | 15000 | 14000 |
-| Apr-24 | 15500 | 14500 |
-| May-24 | 15000 | 14000 |
-| Jun-24 | 14500 | 13500 |
-| Jul-24 | 14000 | 13000 |
-| Aug-24 | 13500 | 12500 |
-| Sep-24 | 13000 | 12000 |
-| Oct-24 | 12500 | 11000 |
-| Nov-24 | 12000 | 10000 |
-| Jan-25 | 10500 | 6500 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Jan-24 | 14000 | 10500 |
-| Feb-24 | 14500 | 12000 |
-| Mar-24 | 15000 | 13500 |
-| Apr-24 | 15500 | 14000 |
-| May-24 | 15000 | 13000 |
-| Jun-24 | 14500 | 12500 |
-| Jul-24 | 14000 | 12000 |
-| Aug-24 | 13500 | 11500 |
-| Sep-24 | 13000 | 11000 |
-| Oct-24 | 12500 | 10000 |
-| Nov-24 | 12000 | 9000 |
-| Jan-25 | 11500 | 7000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -327,90 +252,15 @@ Excitement in the **VLCC** market didn't last long and rates from MEG to China w
 | **Aframax TCE Average** | usd/day | 24,133 | 25,068 | -3.7% | -57.3% |
 | **Aframax 1-Y Period** | usd/day | 31,500 | 32,500 | -3.1% | -31.5% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jan-24 | 25000 |
-| Feb-24 | 70000 |
-| Mar-24 | 65000 |
-| Apr-24 | 55000 |
-| May-24 | 40000 |
-| Jun-24 | 35000 |
-| Jul-24 | 30000 |
-| Aug-24 | 28000 |
-| Sep-24 | 25000 |
-| Oct-24 | 24000 |
-| Nov-24 | 23000 |
-| Jan-25 | 60000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jan-24 | 55000 |
-| Feb-24 | 40000 |
-| Mar-24 | 45000 |
-| Apr-24 | 50000 |
-| May-24 | 48000 |
-| Jun-24 | 42000 |
-| Jul-24 | 35000 |
-| Aug-24 | 25000 |
-| Sep-24 | 28000 |
-| Oct-24 | 32000 |
-| Nov-24 | 26000 |
-| Jan-25 | 25000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jan-24 | 70000 |
-| Feb-24 | 30000 |
-| Mar-24 | 60000 |
-| Apr-24 | 65000 |
-| May-24 | 25000 |
-| Jun-24 | 20000 |
-| Jul-24 | 22000 |
-| Aug-24 | 25000 |
-| Sep-24 | 30000 |
-| Oct-24 | 35000 |
-| Nov-24 | 20000 |
-| Jan-25 | 20000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jan-24 | 50000 |
-| Feb-24 | 10000 |
-| Mar-24 | 80000 |
-| Apr-24 | 70000 |
-| May-24 | 20000 |
-| Jun-24 | 15000 |
-| Jul-24 | 18000 |
-| Aug-24 | 22000 |
-| Sep-24 | 35000 |
-| Oct-24 | 38000 |
-| Nov-24 | 35000 |
-| Jan-25 | 35000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Jan-24 | 45000 | 46000 | 48000 |
-| Feb-24 | 44000 | 45000 | 44000 |
-| Mar-24 | 46000 | 43000 | 42000 |
-| Apr-24 | 48000 | 44000 | 40000 |
-| May-24 | 52000 | 45000 | 38000 |
-| Jun-24 | 50000 | 42000 | 36000 |
-| Jul-24 | 47000 | 40000 | 35000 |
-| Aug-24 | 45000 | 38000 | 34000 |
-| Sep-24 | 42000 | 36000 | 33000 |
-| Oct-24 | 40000 | 35000 | 34000 |
-| Nov-24 | 38000 | 35000 | 35000 |
-| Jan-25 | 48000 | 36000 | 35000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -447,77 +297,13 @@ In Med a lack of cargoes pushed rates down to 30@137.5 for CrossMed, usual 10 po
 | **Med-Med (30k)** | ws | 137.5 | 145.0 | -5.2% | -60.1% |
 | **Black Sea-Med (30k)** | ws | 147.5 | 155.0 | -4.8% | -63.1% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jan-24 | 100,000 |
-| Feb-24 | 30,000 |
-| Mar-24 | 70,000 |
-| Apr-24 | 60,000 |
-| May-24 | 50,000 |
-| Jun-24 | 45,000 |
-| Jul-24 | 40,000 |
-| Aug-24 | 35,000 |
-| Sep-24 | 30,000 |
-| Oct-24 | 25,000 |
-| Nov-24 | 20,000 |
-| Dec-24 | 25,000 |
-| Jan-25 | 40,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Jan-24 | 35,000 |
-| Feb-24 | 30,000 |
-| Mar-24 | 28,000 |
-| Apr-24 | 25,000 |
-| May-24 | 50,000 |
-| Jun-24 | 35,000 |
-| Jul-24 | 30,000 |
-| Aug-24 | 28,000 |
-| Sep-24 | 25,000 |
-| Oct-24 | 22,000 |
-| Nov-24 | 20,000 |
-| Dec-24 | 25,000 |
-| Jan-25 | 25,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Jan-24 | 55,000 |
-| Feb-24 | 40,000 |
-| Mar-24 | 35,000 |
-| Apr-24 | 30,000 |
-| May-24 | 50,000 |
-| Jun-24 | 25,000 |
-| Jul-24 | 20,000 |
-| Aug-24 | 18,000 |
-| Sep-24 | 15,000 |
-| Oct-24 | 15,000 |
-| Nov-24 | 18,000 |
-| Dec-24 | 20,000 |
-| Jan-25 | 20,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Jan-24 | 50,000 | 30,000 |
-| Feb-24 | 48,000 | 29,000 |
-| Mar-24 | 47,000 | 28,000 |
-| Apr-24 | 46,000 | 27,000 |
-| May-24 | 48,000 | 27,000 |
-| Jun-24 | 45,000 | 26,000 |
-| Jul-24 | 40,000 | 24,000 |
-| Aug-24 | 38,000 | 22,000 |
-| Sep-24 | 35,000 | 20,000 |
-| Oct-24 | 32,000 | 18,000 |
-| Nov-24 | 30,000 | 17,000 |
-| Dec-24 | 30,000 | 18,000 |
-| Jan-25 | 30,000 | 18,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -546,32 +332,11 @@ The market faced mixed dynamics influenced by market adjustments and geopolitica
 | **1700 teu (1Y, geared)** | usd/day | 22,873 | 22,641 | +1.0% | +143.4% |
 | **1100 teu (1Y, geared)** | usd/day | 13,984 | 14,034 | -0.4% | +91.7% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Jan-24 | 20000 | 18000 | 15000 |
-| May-24 | 45000 | 38000 | 32000 |
-| Sep-24 | 50000 | 40000 | 32000 |
-| Jan-25 | 55000 | 42000 | 33000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Jan-24 | 12000 | 8000 | 7000 |
-| May-24 | 28000 | 18000 | 12000 |
-| Sep-24 | 29000 | 20000 | 13000 |
-| Jan-25 | 31000 | 22000 | 13500 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | FBX |
-| --- | --- |
-| Jan-24 | 3500 |
-| May-24 | 5500 |
-| Sep-24 | 3200 |
-| Jan-25 | 3800 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -582,14 +347,7 @@ The market faced mixed dynamics influenced by market adjustments and geopolitica
 | **China - WCNA** | usd/feu | 4,938 | 5,321 | -7.2% | +66.5% |
 | **China - N. Europe** | usd/feu | 4,122 | 4,694 | -12.2% | -24.9% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | China - N. Europe |
-| --- | --- |
-| Jan-24 | 5000 |
-| May-24 | 8500 |
-| Sep-24 | 4000 |
-| Jan-25 | 4800 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 04/2025
 
@@ -632,12 +390,7 @@ As we enter the Lunar New Year holidays the Indian subcontinent markets remain s
 | **Tnk India** | usd/ldt | 463.0 | 469.8 | -1.4% | -9.3% |
 | **Tnk Bangladesh** | usd/ldt | 469.6 | 477.9 | -1.7% | -7.3% |
 
-| Time | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Jan-24 | 505 | 500 |
-| May-24 | 530 | 535 |
-| Sep-24 | 465 | 465 |
-| Jan-25 | 455 | 460 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 04/2025
 
@@ -677,14 +430,7 @@ In the chemical sector **TORM HELVIG** 46,000 dwt 2005 STX built was sold for $1
 | **Aframax** | usd mln | 70.1 | 70.3 | -0.2% | +1.8% |
 | **MR Product** | usd mln | 44.6 | 44.7 | -0.3% | +1.4% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Date | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Jan-24 | 35 | 70 | 45 |
-| May-24 | 37 | 72 | 46 |
-| Sep-24 | 38 | 72 | 46 |
-| Jan-25 | 36 | 70 | 45 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 04/2025
 
@@ -703,29 +449,7 @@ In the chemical sector **TORM HELVIG** 46,000 dwt 2005 STX built was sold for $1
 | **Q2 25** | usd/day | 16,783 | 16,238 | +3.4% | +111.2% |
 | **Q3 25** | usd/day | 19,736 | 19,407 | +1.7% | +148.4% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jan-24 | 15000 |
-| Feb-24 | 35000 |
-| Mar-24 | 32000 |
-| Apr-24 | 28000 |
-| May-24 | 25000 |
-| Jun-24 | 22000 |
-| Jul-24 | 18000 |
-| Aug-24 | 12000 |
-| Sep-24 | 10000 |
-| Oct-24 | 10000 |
-| Jan-25 | 18000 |
-| Feb-25 | 20000 |
-| Mar-25 | 21000 |
-| Apr-25 | 22000 |
-| May-25 | 23000 |
-| Jun-25 | 24000 |
-| Jul-25 | 25000 |
-| Aug-25 | 26000 |
-| Jan-26 | 21000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -740,26 +464,7 @@ In the chemical sector **TORM HELVIG** 46,000 dwt 2005 STX built was sold for $1
 | **Q2 25** | usd/day | 11,644 | 11,356 | +2.5% | +70.6% |
 | **Q3 25** | usd/day | 12,050 | 11,775 | +2.3% | +76.5% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jan-24 | 13000 |
-| Feb-24 | 21000 |
-| Mar-24 | 18000 |
-| Apr-24 | 15000 |
-| May-24 | 12000 |
-| Jun-24 | 10000 |
-| Jul-24 | 9000 |
-| Aug-24 | 9000 |
-| Jan-25 | 10000 |
-| Feb-25 | 11000 |
-| Mar-25 | 12000 |
-| Apr-25 | 12000 |
-| May-25 | 12000 |
-| Jun-25 | 12000 |
-| Jul-25 | 12000 |
-| Jan-26 | 12000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (63k)
 
@@ -774,26 +479,7 @@ In the chemical sector **TORM HELVIG** 46,000 dwt 2005 STX built was sold for $1
 | **Q2 25** | usd/day | 12,346 | 12,128 | +1.8% | +55.3% |
 | **Q3 25** | usd/day | 12,872 | 12,672 | +1.6% | +61.9% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jan-24 | 11000 |
-| Feb-24 | 14000 |
-| Mar-24 | 17000 |
-| Apr-24 | 16000 |
-| May-24 | 15000 |
-| Jun-24 | 12000 |
-| Jul-24 | 10000 |
-| Aug-24 | 10000 |
-| Jan-25 | 11000 |
-| Feb-25 | 12000 |
-| Mar-25 | 13000 |
-| Apr-25 | 13000 |
-| May-25 | 13000 |
-| Jun-25 | 13000 |
-| Jul-25 | 13000 |
-| Jan-26 | 13000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -808,26 +494,7 @@ In the chemical sector **TORM HELVIG** 46,000 dwt 2005 STX built was sold for $1
 | **Q2 25** | usd/day | 10,208 | 10,108 | +1.0% | +42.6% |
 | **Q3 25** | usd/day | 10,394 | 10,213 | +1.8% | +45.2% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Jan-24 | 11000 |
-| Feb-24 | 15000 |
-| Mar-24 | 14000 |
-| Apr-24 | 12000 |
-| May-24 | 9000 |
-| Jun-24 | 10000 |
-| Jul-24 | 10000 |
-| Aug-24 | 10000 |
-| Jan-25 | 10000 |
-| Feb-25 | 10000 |
-| Mar-25 | 10000 |
-| Apr-25 | 10000 |
-| May-25 | 10000 |
-| Jun-25 | 10000 |
-| Jul-25 | 10000 |
-| Jan-26 | 10000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -838,21 +505,7 @@ In the chemical sector **TORM HELVIG** 46,000 dwt 2005 STX built was sold for $1
 | **KRW/USD** | 1428 | 1456 | -1.9% | +7.1% |
 | **CNY/USD** | 7.24 | 7.32 | -1.1% | +0.7% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Jan-24 | 148 |
-| Feb-24 | 152 |
-| Mar-24 | 155 |
-| Apr-24 | 158 |
-| May-24 | 160 |
-| Jun-24 | 155 |
-| Jul-24 | 145 |
-| Aug-24 | 140 |
-| Sep-24 | 142 |
-| Oct-24 | 148 |
-| Jan-25 | 158 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 04/2025
 
@@ -875,13 +528,7 @@ In the chemical sector **TORM HELVIG** 46,000 dwt 2005 STX built was sold for $1
 |  | **Fujairah** | usd/t | 86.0 | 110.0 | -21.8% | -53.8% |
 |  | **Singapore** | usd/t | 76.0 | 85.0 | -10.6% | -60.8% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Category | Jan-24 | May-24 | Sep-24 | Jan-25 |
-| --- | --- | --- | --- | --- |
-| IFO380 | 500 | 600 | 550 | 700 |
-| VLSFO | 650 | 700 | 650 | 750 |
-| LSMGO | 750 | 800 | 750 | 850 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -899,18 +546,9 @@ In the chemical sector **TORM HELVIG** 46,000 dwt 2005 STX built was sold for $1
 | **LNG TTF Netherlands** | usd/mmbtu | 15.33 | 14.27 | +7.4% | +69.0% |
 | **LNG North East Asia** | usd/mmbtu | 14.00 | 13.90 | +0.7% | +47.4% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Category | Jan-24 | May-24 | Sep-24 | Jan-25 |
-| --- | --- | --- | --- | --- |
-| Brent | 75 | 90 | 70 | 75 |
-| WTI | 70 | 85 | 65 | 75 |
-
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Category | Jan-24 | May-24 | Sep-24 | Jan-25 |
-| --- | --- | --- | --- | --- |
-| Henry Hub Nat Gas | 2.0 | 2.8 | 2.5 | 4.0 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -920,12 +558,7 @@ In the chemical sector **TORM HELVIG** 46,000 dwt 2005 STX built was sold for $1
 | **Steam Coal Newcastle** | usd/t | 113.1 | 116.6 | -3.0% | -15.5% |
 | **Coking Coal Australia SGX** | usd/t | 190.0 | 193.3 | -1.7% | -43.2% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Category | Jan-24 | May-24 | Sep-24 | Jan-25 |
-| --- | --- | --- | --- | --- |
-| Steam Coal | 130 | 140 | 145 | 120 |
-| Iron Ore | 135 | 110 | 105 | 100 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -935,12 +568,7 @@ In the chemical sector **TORM HELVIG** 46,000 dwt 2005 STX built was sold for $1
 | **Rebar Steel in China** | rmb/t | 3218.0 | 3276.0 | -1.8% | -15.7% |
 | **HRC Steel in China** | rmb/t | 3419.0 | 3434.0 | -0.4% | -15.0% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Category | Jan-24 | May-24 | Sep-24 | Jan-25 |
-| --- | --- | --- | --- | --- |
-| HRC | 3800 | 3000 | 3400 | 3400 |
-| Plate | 4000 | 3200 | 3400 | 3450 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -953,9 +581,4 @@ In the chemical sector **TORM HELVIG** 46,000 dwt 2005 STX built was sold for $1
 | **Palm Oil Malaysia** | usd/t | 1023.8 | 985.5 | +3.9% | +21.9% |
 | **Ferts Urea Middle East** | usd/t | 345.5 | 345.5 | +0.0% | +1.2% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Category | Jan-24 | May-24 | Sep-24 | Jan-25 |
-| --- | --- | --- | --- | --- |
-| Corn | 450 | 400 | 420 | 480 |
-| Wheat | 580 | 650 | 550 | 530 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.

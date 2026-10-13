@@ -35,20 +35,7 @@ The second quarter of 2021 saw 11.7 mln tonnes shipped from Turkey, which just k
 
 ### Turkey - Monthly Crude Oil Exports - Seasonality
 
-| Month | 2017 | 2018 | 2019 | 2020 | 2021 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 4.2 | 3.5 | 4.2 | 4.2 | 4.3 |
-| Feb | 4.6 | 4.0 | 3.8 | 4.6 | 3.4 |
-| Mar | 4.7 | 4.6 | 4.7 | 4.6 | 3.4 |
-| Apr | 4.0 | 4.0 | 3.8 | 3.2 | 4.0 |
-| May | 4.4 | 4.1 | 4.7 | 3.8 | 3.9 |
-| Jun | 3.8 | 3.6 | 4.1 | 3.3 | 3.8 |
-| Jul | 3.8 | 3.7 | 4.5 | 3.8 | 3.9 |
-| Aug | 3.7 | 3.6 | 3.9 | 3.6 | 3.7 |
-| Sep | 4.0 | 4.0 | 3.9 | 4.0 | 4.2 |
-| Oct | 4.1 | 4.1 | 4.0 | 3.8 | 4.1 |
-| Nov | 3.7 | 4.0 | 4.2 | 3.7 | 4.2 |
-| Dec | 4.3 | 4.3 | 4.3 | 4.3 | 4.3 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## CAPESIZE MARKET
 
@@ -228,21 +215,7 @@ Rates in the East, on the other hand, have softened to the WS95 level.
 
 ### TD3C VLCC MEG-FAR EAST (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 25000 |
-| Oct-20 | 5000 |
-| Nov-20 | 15000 |
-| Dec-20 | 15000 |
-| Jan-21 | 18000 |
-| Feb-21 | 17000 |
-| Mar-21 | 5000 |
-| Apr-21 | -5000 |
-| May-21 | -8000 |
-| Jun-21 | -5000 |
-| Jul-21 | -2000 |
-| Aug-21 | -2000 |
-| Sep-21 | -2000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### TD6 SUEZMAX BSEA-MED (USD/DAY)
 
@@ -301,21 +274,7 @@ Rates in the East, on the other hand, have softened to the WS95 level.
 
 ### 1 YR TC PERIOD (USD/DAY)
 
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Sep-20 | 38000 | 25000 | 20000 |
-| Oct-20 | 35000 | 22000 | 18000 |
-| Nov-20 | 30000 | 20000 | 17000 |
-| Dec-20 | 28000 | 19000 | 17000 |
-| Jan-21 | 28000 | 18000 | 17000 |
-| Feb-21 | 27000 | 17000 | 16000 |
-| Mar-21 | 26000 | 16000 | 16000 |
-| Apr-21 | 25000 | 16000 | 16000 |
-| May-21 | 24000 | 16000 | 16000 |
-| Jun-21 | 23000 | 15000 | 15000 |
-| Jul-21 | 23000 | 15000 | 15000 |
-| Aug-21 | 23000 | 15000 | 15000 |
-| Sep-21 | 23000 | 15000 | 15000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -361,39 +320,11 @@ For UKC, There hasn't been much activity this week, and rates have dropped to **
 
 ### TC1 LR2 MEG-JAPAN (usd/day)
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 18000 |
-| Oct-20 | 15000 |
-| Nov-20 | 14000 |
-| Dec-20 | 13000 |
-| Jan-21 | 10000 |
-| Feb-21 | 8000 |
-| Mar-21 | 5000 |
-| Apr-21 | 21000 |
-| May-21 | 2000 |
-| Jun-21 | 5000 |
-| Jul-21 | 8000 |
-| Aug-21 | 12000 |
-| Sep-21 | 12000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### MR ATLANTIC BASKET (usd/day)
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 14000 |
-| Oct-20 | 10000 |
-| Nov-20 | 8000 |
-| Dec-20 | 7000 |
-| Jan-21 | 7000 |
-| Feb-21 | 8000 |
-| Mar-21 | 9000 |
-| Apr-21 | 18000 |
-| May-21 | 4000 |
-| Jun-21 | 6000 |
-| Jul-21 | 5000 |
-| Aug-21 | 4000 |
-| Sep-21 | 1000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### MR PACIFIC BASKET (usd/day)
 
@@ -415,21 +346,7 @@ For UKC, There hasn't been much activity this week, and rates have dropped to **
 
 ### 1 YR TC PERIOD (USD/DAY)
 
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Sep-20 | 20000 | 15000 |
-| Oct-20 | 19000 | 15000 |
-| Nov-20 | 18000 | 15000 |
-| Dec-20 | 19000 | 15000 |
-| Jan-21 | 19500 | 15000 |
-| Feb-21 | 18000 | 14500 |
-| Mar-21 | 19000 | 14000 |
-| Apr-21 | 18000 | 14000 |
-| May-21 | 18000 | 14000 |
-| Jun-21 | 18000 | 14000 |
-| Jul-21 | 18000 | 14000 |
-| Aug-21 | 18000 | 14000 |
-| Sep-21 | 17000 | 14000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -469,12 +386,7 @@ Container shipping vessel schedule reliability dropped further in July as global
 
 ### GEARED - 1 YR TC PERIOD (USD/DAY)
 
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Sep-20 | 10000 | 10000 | 10000 |
-| Jan-21 | 20000 | 18000 | 15000 |
-| May-21 | 35000 | 25000 | 20000 |
-| Sep-21 | 75000 | 48000 | 35000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -498,12 +410,7 @@ Container shipping vessel schedule reliability dropped further in July as global
 
 ### FREIGHTOS BALTIC CONTAINER INDEX
 
-| Date | FBX |
-| --- | --- |
-| Sep-20 | 2500 |
-| Jan-21 | 4000 |
-| May-21 | 5000 |
-| Sep-21 | 11000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 35/2021
 
@@ -549,10 +456,7 @@ Despite being traditionally quiet months, this year July and August continued to
 
 ### DEMOLITION PRICES (USD/LDT)
 
-| DEMOLITION PRICES (USD/LDT) | Sep-20 | Jan-21 | May-21 | Sep-21 |
-| --- | --- | --- | --- | --- |
-| Dry Bulk | 340 | 400 | 540 | 580 |
-| Tanker | 340 | 400 | 550 | 585 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 35/2021
 Last week in the bulk carriers market 3 x Capesize Stella Nora & Stella Naomi & Stella Hope (abt 180k dwt 2016 blt, China) have been reported sold in the region of $44 mln each to clients of Ciner (Turkey). Last week the 5 years younger (but Japan blt) mv Frontier Phoenix 181,000 dwt 2011 Koyo has achieved $33.75 mln. Distressed HULL No B85k-9, Kamsarmax built by dsic shanhaiguan shipyard, ordered by avic leasing (contract cancelled), delivery in June 2022, is now sold at auction at price of $36.03 mln. Castor Maritime, Greece, this week bought the Panamax OKEANOS BLISS (76k blt 2008 Imabari) at $18.75 mln basis dely Q4 2021. The Supramax segment remains active with multiple sales to report. Hua Rong 1 (abt 57k dwt 2012 blt Zhejiang yard) was committed at $124 mln RMB (abt $19.22 mln at today exchange rate). Conversely, the Chinese built OCEAN SUCCESS (abt 57k dwt 2011 built, Tianjin) was sold for $15.8 mln, lower price is reflecting that Vessel has SS/DD due immediately. ANTOINE 56k dwt 09 blt Mitsui (BWTS FITTED) is now reported sold at $19.2 mln with balance t/charter (index + bsi 97pct till Feb 2022). CENTENARIO FORZA (56k blt 2012 Mitsui) had invited offers by 1st September from all outright buyers have received offers in excess $20 mln, and Vessel now being under firm negotiation.
@@ -607,11 +511,7 @@ Tanker market remained quiet, with MR2 'Ocean Venus' 50,000 dwt 2006 SLS sold ba
 
 ### SECONDHAND VALUES (USD MLN)
 
-| Category | Sep-20 | Jan-21 | May-21 | Sep-21 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 37 | 33 | 36 | 40 |
-| Aframax | 37 | 34 | 37 | 40 |
-| MR | 26 | 26 | 27 | 29 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 DERIVATIVES MARKET REPORT – WEEK 35/2021 11
 
@@ -663,25 +563,7 @@ DERIVATIVES MARKET REPORT – WEEK 35/2021 11
 
 # CAPESIZE FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 18000 |
-| Oct-20 | 32000 |
-| Nov-20 | 15000 |
-| Dec-20 | 25000 |
-| Jan-21 | 12000 |
-| Feb-21 | 28000 |
-| Mar-21 | 45000 |
-| Apr-21 | 38000 |
-| May-21 | 48000 |
-| Jun-21 | 42000 |
-| Jul-21 | 52000 |
-| Sep-21 | 40000 |
-| Oct-21 | 38000 |
-| Nov-21 | 32000 |
-| Dec-21 | 18000 |
-| Mar-22 | 22000 |
-| Sep-22 | 24000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # PANAMAX FORWARD CURVE (USD/DAY)
 
@@ -757,20 +639,7 @@ DERIVATIVES MARKET REPORT – WEEK 35/2021 11
 
 # USD/EUR EXCHANGE RATE
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 1.18 |
-| Oct-20 | 1.19 |
-| Nov-20 | 1.20 |
-| Dec-20 | 1.21 |
-| Jan-21 | 1.22 |
-| Feb-21 | 1.21 |
-| Mar-21 | 1.20 |
-| Apr-21 | 1.19 |
-| May-21 | 1.19 |
-| Jun-21 | 1.18 |
-| Jul-21 | 1.17 |
-| Sep-21 | 1.17 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | CURRENCIES | 3-Sep | 27-Aug | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- |
@@ -781,20 +650,7 @@ DERIVATIVES MARKET REPORT – WEEK 35/2021 11
 
 # JPY/USD EXCHANGE RATE
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 105 |
-| Oct-20 | 104 |
-| Nov-20 | 103 |
-| Dec-20 | 102 |
-| Jan-21 | 100 |
-| Feb-21 | 105 |
-| Mar-21 | 108 |
-| Apr-21 | 110 |
-| May-21 | 110 |
-| Jun-21 | 110 |
-| Jul-21 | 110 |
-| Sep-21 | 110 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ■ RESEARCH I
 
@@ -818,12 +674,7 @@ DERIVATIVES MARKET REPORT – WEEK 35/2021 11
 
 ### BUNKER PRICES @ SINGAPORE (USD/T)
 
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Sep-20 | 300 | 350 | 350 |
-| Jan-21 | 450 | 500 | 550 |
-| May-21 | 400 | 550 | 600 |
-| Sep-21 | 450 | 550 | 600 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## OIL & GAS
 
@@ -869,12 +720,7 @@ DERIVATIVES MARKET REPORT – WEEK 35/2021 11
 
 ### COAL & IRON ORE PRICE (USD/T)
 
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Sep-20 | 40 | 110 |
-| Jan-21 | 60 | 140 |
-| May-21 | 100 | 180 |
-| Sep-21 | 170 | 110 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -889,12 +735,7 @@ DERIVATIVES MARKET REPORT – WEEK 35/2021 11
 
 ### STEEL PRICES IN CHINA (RMB/T)
 
-| Date | Rebar | Plate |
-| --- | --- | --- |
-| Sep-20 | 3800 | 3900 |
-| Jan-21 | 4500 | 4600 |
-| May-21 | 5500 | 6200 |
-| Sep-21 | 5000 | 5500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -908,12 +749,7 @@ DERIVATIVES MARKET REPORT – WEEK 35/2021 11
 
 ### WHEAT & CORN PRICES (USD/T)
 
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Sep-20 | 350 | 550 |
-| Jan-21 | 500 | 600 |
-| May-21 | 600 | 750 |
-| Sep-21 | 550 | 700 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS

@@ -16,109 +16,13 @@ The current USA government is no stranger to making proposals which send shockwa
 
 **For Crude Tankers** larger than 60,000 DWT, 19.9% of the current trading fleet was built at Chinese shipyards. However, as much as 61.8% of the Crude Tanker currently on order are contracted at Chinese shipyards. For coated **Product Tankers** of over 30,000 DWT, 22.6% of the trading fleet is built in China. As of now, as much as 70.1% of the Product Tankers over 30,000 DWT currently on order are contracted at Chinese shipyards. **For LPG Carriers** larger than 1000 cu.m., the share of trading China-built units is just 15.5% of the fleet. However, 46.4% of the current orderbook for LPG Carriers larger than 1000 cu.m. is at Chinese shipyards. **For LNG Carriers**, 8.9% of the existing trading fleet was built in China. Again, however, as much as 28.4% of the current LNG Carrier orderbook is at China-based shipyards.
 
-### Dry Bulk Deliveries + Orderbook by Country of Build (feb 2025 ; only units 20,000+ DWT ; in units ; 100% orderbook)
+> **Chart (not transcribed):** Dry Bulk Deliveries + Orderbook by Country of Build (feb 2025 ; only units 20,000+ DWT ; in units ; 100% orderbook). The report prints no values for it.
 
-| Year | Japan | Korea | China | Other |
-| --- | --- | --- | --- | --- |
-| 1988 | 30 | 10 | 10 | 5 |
-| 1990 | 40 | 15 | 15 | 5 |
-| 1992 | 50 | 20 | 20 | 5 |
-| 1994 | 60 | 25 | 25 | 5 |
-| 1996 | 70 | 30 | 30 | 5 |
-| 1998 | 80 | 35 | 35 | 5 |
-| 2000 | 90 | 40 | 40 | 5 |
-| 2002 | 100 | 45 | 45 | 5 |
-| 2004 | 110 | 50 | 50 | 5 |
-| 2006 | 120 | 55 | 55 | 5 |
-| 2008 | 200 | 150 | 400 | 50 |
-| 2010 | 250 | 400 | 1100 | 50 |
-| 2012 | 300 | 450 | 1150 | 50 |
-| 2014 | 350 | 400 | 500 | 50 |
-| 2016 | 400 | 350 | 400 | 50 |
-| 2018 | 450 | 300 | 350 | 50 |
-| 2020 | 400 | 300 | 300 | 50 |
-| 2022 | 350 | 250 | 300 | 50 |
-| 2024 | 300 | 200 | 300 | 50 |
-| 2026 | 250 | 150 | 300 | 50 |
-| 2028 | 50 | 50 | 50 | 50 |
+> **Chart (not transcribed):** Containership Deliveries + Orderbook by Country of Build (feb 2025 ; only units over 1,000 TEU ; in units ; 100% orderbook). The report prints no values for it.
 
-### Containership Deliveries + Orderbook by Country of Build (feb 2025 ; only units over 1,000 TEU ; in units ; 100% orderbook)
+> **Chart (not transcribed):** Crude Tankers Deliveries + Orderbook by Country of Build (feb 2025 ; only UNCOATED units 60,000+ DWT ; in units ; 100% orderbook). The report prints no values for it.
 
-| Year | Japan | Korea | China | Other |
-| --- | --- | --- | --- | --- |
-| 1988 | 10 | 10 | 10 | 5 |
-| 1990 | 20 | 20 | 20 | 5 |
-| 1992 | 30 | 30 | 30 | 5 |
-| 1994 | 40 | 40 | 40 | 5 |
-| 1996 | 50 | 50 | 50 | 5 |
-| 1998 | 60 | 60 | 60 | 5 |
-| 2000 | 70 | 70 | 70 | 5 |
-| 2002 | 80 | 80 | 80 | 5 |
-| 2004 | 90 | 90 | 90 | 5 |
-| 2006 | 200 | 100 | 250 | 50 |
-| 2008 | 250 | 150 | 300 | 50 |
-| 2010 | 200 | 150 | 250 | 50 |
-| 2012 | 180 | 150 | 250 | 50 |
-| 2014 | 160 | 150 | 250 | 50 |
-| 2016 | 150 | 150 | 250 | 50 |
-| 2018 | 140 | 140 | 240 | 50 |
-| 2020 | 130 | 130 | 230 | 50 |
-| 2022 | 120 | 120 | 220 | 50 |
-| 2024 | 320 | 100 | 420 | 50 |
-| 2026 | 180 | 100 | 200 | 50 |
-| 2028 | 80 | 80 | 80 | 50 |
-
-### Crude Tankers Deliveries + Orderbook by Country of Build (feb 2025 ; only UNCOATED units 60,000+ DWT ; in units ; 100% orderbook)
-
-| Year | Japan | Korea | China | Other |
-| --- | --- | --- | --- | --- |
-| 1988 | 10 | 10 | 10 | 5 |
-| 1990 | 15 | 15 | 15 | 5 |
-| 1992 | 20 | 20 | 20 | 5 |
-| 1994 | 25 | 25 | 25 | 5 |
-| 1996 | 30 | 30 | 30 | 5 |
-| 1998 | 35 | 35 | 35 | 5 |
-| 2000 | 40 | 40 | 40 | 5 |
-| 2002 | 45 | 45 | 45 | 5 |
-| 2004 | 50 | 50 | 50 | 5 |
-| 2006 | 55 | 55 | 55 | 5 |
-| 2008 | 35 | 80 | 150 | 5 |
-| 2010 | 40 | 90 | 155 | 5 |
-| 2012 | 45 | 85 | 145 | 5 |
-| 2014 | 30 | 40 | 50 | 5 |
-| 2016 | 90 | 40 | 40 | 5 |
-| 2018 | 100 | 30 | 30 | 5 |
-| 2020 | 40 | 30 | 30 | 5 |
-| 2022 | 35 | 25 | 30 | 5 |
-| 2024 | 30 | 20 | 30 | 5 |
-| 2026 | 25 | 15 | 40 | 5 |
-| 2028 | 20 | 10 | 20 | 5 |
-
-### LPG Carrier Deliveries + Orderbook by Country of Build (feb 2025 ; only units over 1,000 CBM ; in units ; 100% orderbook)
-
-| Year | Japan | Korea | China | Other |
-| --- | --- | --- | --- | --- |
-| 1988 | 5 | 5 | 5 | 5 |
-| 1990 | 25 | 20 | 20 | 5 |
-| 1992 | 30 | 25 | 25 | 5 |
-| 1994 | 35 | 30 | 30 | 5 |
-| 1996 | 40 | 35 | 35 | 5 |
-| 1998 | 25 | 25 | 25 | 5 |
-| 2000 | 20 | 20 | 20 | 5 |
-| 2002 | 25 | 25 | 25 | 5 |
-| 2004 | 30 | 30 | 30 | 5 |
-| 2006 | 35 | 25 | 25 | 5 |
-| 2008 | 25 | 35 | 30 | 5 |
-| 2010 | 20 | 30 | 30 | 5 |
-| 2012 | 25 | 35 | 35 | 5 |
-| 2014 | 30 | 40 | 40 | 5 |
-| 2016 | 25 | 50 | 25 | 5 |
-| 2018 | 30 | 35 | 30 | 5 |
-| 2020 | 35 | 40 | 35 | 5 |
-| 2022 | 40 | 45 | 40 | 5 |
-| 2024 | 15 | 45 | 40 | 5 |
-| 2026 | 5 | 55 | 95 | 5 |
-| 2028 | 25 | 10 | 20 | 5 |
+> **Chart (not transcribed):** LPG Carrier Deliveries + Orderbook by Country of Build (feb 2025 ; only units over 1,000 CBM ; in units ; 100% orderbook). The report prints no values for it.
 
 # NEWS
 # COMMODITY NEWS – DRY BULK
@@ -226,12 +130,7 @@ Vale fixed a TBN vessel to load a cargo of 150,000mt +/- 10% iron ore from Tubar
 | **Newcastlemax 1-Y Period** | usd/day | 25,500 | 22,800 | +11.8% | -11.5% |
 | **Capesize 1-Y Period** | usd/day | 21,300 | 19,000 | +12.1% | -11.3% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| BCI TC & CAPESIZE 1-YR TC (USD/DAY) | Feb-24 | Jun-24 | Oct-24 | Feb-25 |
-| --- | --- | --- | --- | --- |
-| 1-YR TC | 28000 | 25000 | 20000 | 20000 |
-| BCI TC | 35000 | 28000 | 18000 | 8000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -255,23 +154,7 @@ Activity increased considerably and with ECSAm that drew many units away from Pa
 | **Kamsarmax 1-Y Period** | usd/day | 13,000 | 12,300 | +5.7% | -24.9% |
 | **Panamax 1-Y Period** | usd/day | 11,500 | 10,800 | +6.5% | -20.7% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Feb-24 | 17000 | 16500 |
-| Mar-24 | 18000 | 19500 |
-| Apr-24 | 17500 | 17000 |
-| May-24 | 17200 | 16000 |
-| Jun-24 | 16500 | 14500 |
-| Jul-24 | 16000 | 13500 |
-| Aug-24 | 15500 | 12500 |
-| Sep-24 | 15000 | 11500 |
-| Oct-24 | 14500 | 10000 |
-| Nov-24 | 14000 | 9000 |
-| Dec-24 | 13500 | 8500 |
-| Jan-25 | 13000 | 9500 |
-| Feb-25 | 13500 | 10500 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -325,41 +208,9 @@ Larger units recorded a positive week led by increased demand in the Pacific bas
 | **38k Handy 1-Y Period** | usd/day | 11,300 | 11,500 | -1.7% | -22.1% |
 | **30k Handy 1-Y Period** | usd/day | 8,500 | 8,500 | +0.0% | -19.0% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Feb-24 | 14500 | 12000 |
-| Mar-24 | 14800 | 13500 |
-| Apr-24 | 14200 | 14000 |
-| May-24 | 13800 | 14500 |
-| Jun-24 | 13500 | 14200 |
-| Jul-24 | 13000 | 13800 |
-| Aug-24 | 12500 | 13000 |
-| Sep-24 | 12000 | 11500 |
-| Oct-24 | 11500 | 10000 |
-| Nov-24 | 11000 | 8000 |
-| Dec-24 | 10500 | 9000 |
-| Jan-25 | 10000 | 9500 |
-| Feb-25 | 10000 | 10000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Feb-24 | 14500 | 12500 |
-| Mar-24 | 14800 | 14000 |
-| Apr-24 | 14200 | 13500 |
-| May-24 | 13800 | 13000 |
-| Jun-24 | 13500 | 12500 |
-| Jul-24 | 13000 | 12000 |
-| Aug-24 | 12500 | 11500 |
-| Sep-24 | 12000 | 11000 |
-| Oct-24 | 11500 | 10000 |
-| Nov-24 | 11000 | 8000 |
-| Dec-24 | 10500 | 9000 |
-| Jan-25 | 10000 | 9500 |
-| Feb-25 | 10000 | 10000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -396,90 +247,15 @@ Larger units recorded a positive week led by increased demand in the Pacific bas
 | **Aframax TCE Average** | usd/day | 27,920 | 28,192 | -1.0% | -42.4% |
 | **Aframax 1-Y Period** | usd/day | 28,000 | 27,750 | +0.9% | -36.4% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-24 | 45000 |
-| Mar-24 | 40000 |
-| Apr-24 | 35000 |
-| May-24 | 30000 |
-| Jun-24 | 25000 |
-| Jul-24 | 28000 |
-| Aug-24 | 32000 |
-| Sep-24 | 35000 |
-| Oct-24 | 38000 |
-| Nov-24 | 45000 |
-| Dec-24 | 50000 |
-| Feb-25 | 48000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-24 | 45000 |
-| Mar-24 | 42000 |
-| Apr-24 | 48000 |
-| May-24 | 50000 |
-| Jun-24 | 25000 |
-| Jul-24 | 20000 |
-| Aug-24 | 28000 |
-| Sep-24 | 35000 |
-| Oct-24 | 45000 |
-| Nov-24 | 40000 |
-| Dec-24 | 35000 |
-| Feb-25 | 50000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 35000 |
-| Mar-24 | 40000 |
-| Apr-24 | 45000 |
-| May-24 | 65000 |
-| Jun-24 | 25000 |
-| Jul-24 | 28000 |
-| Aug-24 | 30000 |
-| Sep-24 | 35000 |
-| Oct-24 | 40000 |
-| Nov-24 | 38000 |
-| Dec-24 | 35000 |
-| Feb-25 | 32000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 20000 |
-| Mar-24 | 30000 |
-| Apr-24 | 40000 |
-| May-24 | 80000 |
-| Jun-24 | 35000 |
-| Jul-24 | 25000 |
-| Aug-24 | 30000 |
-| Sep-24 | 35000 |
-| Oct-24 | 40000 |
-| Nov-24 | 38000 |
-| Dec-24 | 35000 |
-| Feb-25 | 38000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Type | Date | Value |
-| --- | --- | --- |
-| VLCC | Feb-24 | 45000 |
-| VLCC | Jun-24 | 50000 |
-| VLCC | Oct-24 | 40000 |
-| VLCC | Feb-25 | 42000 |
-| Suezmax | Feb-24 | 43000 |
-| Suezmax | Jun-24 | 48000 |
-| Suezmax | Oct-24 | 35000 |
-| Suezmax | Feb-25 | 32000 |
-| Aframax | Feb-24 | 42000 |
-| Aframax | Jun-24 | 45000 |
-| Aframax | Oct-24 | 30000 |
-| Aframax | Feb-25 | 28000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -517,63 +293,13 @@ Handies in Med were increasingly tight due to very healthy activity. Rates rapid
 | ****Med-Med (30k)**** | ws | 210.0 | 185.0 | +13.5% | -31.1% |
 | ****Black Sea-Med (30k)**** | ws | 220.0 | 195.0 | +12.8% | -38.9% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-24 | 30,000 |
-| Mar-24 | 90,000 |
-| Apr-24 | 50,000 |
-| May-24 | 65,000 |
-| Jun-24 | 70,000 |
-| Jul-24 | 25,000 |
-| Aug-24 | 20,000 |
-| Oct-24 | 20,000 |
-| Nov-24 | 35,000 |
-| Feb-25 | 25,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-24 | 35,000 |
-| Mar-24 | 25,000 |
-| Apr-24 | 55,000 |
-| May-24 | 40,000 |
-| Jun-24 | 15,000 |
-| Jul-24 | 20,000 |
-| Aug-24 | 15,000 |
-| Oct-24 | 20,000 |
-| Nov-24 | 25,000 |
-| Feb-25 | 20,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 45,000 |
-| Mar-24 | 30,000 |
-| Apr-24 | 55,000 |
-| May-24 | 20,000 |
-| Jun-24 | 15,000 |
-| Jul-24 | 10,000 |
-| Aug-24 | 10,000 |
-| Oct-24 | 15,000 |
-| Nov-24 | 20,000 |
-| Feb-25 | 18,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Value |
-| --- | --- |
-| LR2 | 45,000 |
-| Jun-24 | 50,000 |
-| Oct-24 | 30,000 |
-| Feb-25 | 28,000 |
-| MR2 | 30,000 |
-| Jun-24 | 32,000 |
-| Oct-24 | 18,000 |
-| Feb-25 | 18,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -603,32 +329,11 @@ The container charter market remained stable despite ongoing pressure from falli
 | **1700 teu (1Y, geared)** | usd/day | 23,489 | 23,227 | +1.1% | +129.4% |
 | **1100 teu (1Y, geared)** | usd/day | 14,218 | 14,098 | +0.9% | +78.4% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Feb-24 | 20000 | 22000 | 18000 |
-| Jun-24 | 45000 | 38000 | 32000 |
-| Oct-24 | 50000 | 40000 | 33000 |
-| Feb-25 | 55000 | 42000 | 32000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Feb-24 | 15000 | 10000 | 8000 |
-| Jun-24 | 30000 | 20000 | 12000 |
-| Oct-24 | 30000 | 18000 | 13000 |
-| Feb-25 | 31000 | 22000 | 14000 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | FBX |
-| --- | --- |
-| Feb-24 | 3200 |
-| Jun-24 | 5500 |
-| Oct-24 | 3000 |
-| Feb-25 | 3000 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -639,14 +344,7 @@ The container charter market remained stable despite ongoing pressure from falli
 | **China - WCNA** | usd/feu | 4,362 | 4,763 | -8.4% | -10.8% |
 | **China - N. Europe** | usd/feu | 2,954 | 3,162 | -6.6% | -35.6% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | China - N. Europe |
-| --- | --- |
-| Feb-24 | 4000 |
-| Jun-24 | 8500 |
-| Oct-24 | 3500 |
-| Feb-25 | 3500 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 08/2025
 
@@ -667,14 +365,7 @@ A quiet week for newbuildings. Maersk contracted 12 x 15,000 teu from at least 3
 | **LR2 Coated** | usd mln | 69.6 | 69.8 | -0.2% | +8.5% |
 | **MR2 Coated** | usd mln | 44.7 | 44.7 | +0.0% | +5.2% |
 
-### NEWBUILDING PRICES (USD MLN)
-
-| Date | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Feb-24 | 36 | 78 | 42 |
-| Jun-24 | 37 | 79 | 44 |
-| Oct-24 | 37 | 80 | 44 |
-| Feb-25 | 37 | 80 | 44 |
+> **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -691,14 +382,7 @@ Again, a quieter week across the Indian sub-continent demolition markets, which 
 | **Tnk India** | usd/Ldt | 453.4 | 457.5 | -0.9% | -11.2% |
 | **Tnk Bangladesh** | usd/Ldt | 463.2 | 466.4 | -0.7% | -12.2% |
 
-### DEMOLITION PRICES (USD/LDT)
-
-| Date | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Feb-24 | 505 | 510 |
-| Jun-24 | 525 | 530 |
-| Oct-24 | 465 | 470 |
-| Feb-25 | 450 | 455 |
+> **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 08/2025
 
@@ -742,13 +426,7 @@ In the Handysize segment **MAZURY** 40,000 dwt built 2005 Tianjin Xinggang was s
 | **Aframax** | usd mln | 67.2 | 67.9 | -1.0% | -3.5% |
 | **MR Product** | usd mln | 42.9 | 43.3 | -0.8% | -4.6% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Vessel Class | Feb-24 | Jun-24 | Oct-24 | Feb-25 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 68 | 69 | 69 | 66 |
-| Aframax | 70 | 72 | 73 | 67 |
-| MR | 44 | 46 | 46 | 42 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 08/2025
 
@@ -767,15 +445,7 @@ In the Handysize segment **MAZURY** 40,000 dwt built 2005 Tianjin Xinggang was s
 | **Q2 25** | usd/day | 19,457 | 19,855 | -2.0% | +125.7% |
 | **Q3 25** | usd/day | 21,700 | 22,089 | -1.8% | +151.7% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 35000 |
-| Aug-24 | 5000 |
-| Feb-25 | 5000 |
-| Aug-25 | 22000 |
-| Feb-26 | 23000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -790,15 +460,7 @@ In the Handysize segment **MAZURY** 40,000 dwt built 2005 Tianjin Xinggang was s
 | **Q2 25** | usd/day | 13,492 | 14,003 | -3.6% | +27.3% |
 | **Q3 25** | usd/day | 13,082 | 13,465 | -2.8% | +23.5% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 18000 |
-| Aug-24 | 8000 |
-| Feb-25 | 10000 |
-| Aug-25 | 12000 |
-| Feb-26 | 12000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (63k)
 
@@ -813,15 +475,7 @@ In the Handysize segment **MAZURY** 40,000 dwt built 2005 Tianjin Xinggang was s
 | **Q2 25** | usd/day | 14,013 | 14,592 | -4.0% | +23.9% |
 | **Q3 25** | usd/day | 13,756 | 14,117 | -2.6% | +21.6% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 14000 |
-| Aug-24 | 16000 |
-| Feb-25 | 10000 |
-| Aug-25 | 13000 |
-| Feb-26 | 13000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -836,15 +490,7 @@ In the Handysize segment **MAZURY** 40,000 dwt built 2005 Tianjin Xinggang was s
 | **Q2 25** | usd/day | 11,854 | 11,988 | -1.1% | +22.0% |
 | **Q3 25** | usd/day | 11,625 | 11,813 | -1.6% | +19.6% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 13000 |
-| Aug-24 | 8000 |
-| Feb-25 | 8000 |
-| Aug-25 | 11000 |
-| Feb-26 | 11000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -855,14 +501,7 @@ In the Handysize segment **MAZURY** 40,000 dwt built 2005 Tianjin Xinggang was s
 | KRW/USD | 1433 | 1439 | -0.4% | +7.6% |
 | CNY/USD | 7.25 | 7.25 | -0.0% | +0.8% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 150 |
-| Jun-24 | 160 |
-| Oct-24 | 140 |
-| Feb-25 | 150 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 ■ RESEARCH I
 
@@ -913,12 +552,7 @@ In the Handysize segment **MAZURY** 40,000 dwt built 2005 Tianjin Xinggang was s
 | Palm Oil Malaysia |  | usd/t | 1094.8 | 1059.8 | +3.3% | +33.8% |
 | Ferts Urea Middle East |  | usd/t | 345.5 | 345.5 | +0.0% | -14.7% |
 
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Feb-24 | 600 | 700 | 750 |
-| Jun-24 | 700 | 750 | 800 |
-| Oct-24 | 650 | 700 | 750 |
-| Feb-25 | 700 | 650 | 750 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Date | Brent | WTI |
 | --- | --- | --- |
@@ -934,23 +568,8 @@ In the Handysize segment **MAZURY** 40,000 dwt built 2005 Tianjin Xinggang was s
 | Oct-24 | 3.5 |
 | Feb-25 | 4.2 |
 
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Feb-24 | 130 | 120 |
-| Jun-24 | 140 | 110 |
-| Oct-24 | 145 | 105 |
-| Feb-25 | 110 | 105 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | HRC | Plate |
-| --- | --- | --- |
-| Feb-24 | 3800 | 3900 |
-| Jun-24 | 3000 | 3200 |
-| Oct-24 | 3400 | 3500 |
-| Feb-25 | 3300 | 3500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Feb-24 | 400 | 550 |
-| Jun-24 | 380 | 680 |
-| Oct-24 | 450 | 550 |
-| Feb-25 | 480 | 580 |
+> **Chart (not transcribed).** The report prints no values for it.

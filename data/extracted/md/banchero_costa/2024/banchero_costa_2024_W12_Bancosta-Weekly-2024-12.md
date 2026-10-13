@@ -20,35 +20,9 @@ South Africa's freight rail capacity has plummeted due to years of underinvestme
 
 In terms of destinations for iron ore exports from South Africa, there has been a shift away from China. Mainland China is still by far the top iron ore importer from South Africa, with an overall 56.9% share of shipments from South Africa in 2023. Imports to China from South Africa declined by -5.2% y-o-y in 2023 to 29.9 mln t, from 31.5 mln t in 2022. This is also well below the 39.4 mln tonnes shipped to China in 2020. The second largest destination for South African ore is the European Union, with a 22.3% share. Shipments from South Africa to the EU declined by -3.9% y-o-y in 2023 to 11.7 mln t, from 12.2 mln t in 2022. Shipments to South Korea, on the other hand, increased by +14.5% y-o-y in 2023 to 5.0 mln t. Volumes to Japan also increased by +38.3% y-o-y in 2023 to 3.4 mln t.
 
-### S Africa - Iron Ore Exports by Destination in Jan-Dec (mar 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+> **Chart (not transcribed):** S Africa - Iron Ore Exports by Destination in Jan-Dec (mar 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 
-| Destination | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
-| --- | --- | --- | --- |
-| China | 31 | 32 | 30 |
-| EU | 14 | 12 | 12 |
-| S Korea | 4 | 4 | 5 |
-| Japan | 4 | 2 | 3 |
-| Turkey | 1 | 1 | 1 |
-| UK | 1 | 1 | 1 |
-| India | 1 | 0 | 0 |
-| Others/Unknown | 1 | 0 | 1 |
-
-### S Africa - Monthly Iron Ore Exports - Seasonality (mar 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
-
-| Month | 2019 | 2020 | 2021 | 2022 | 2023 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 5.3 | 6.6 | 4.4 | 4.6 | 4.5 |
-| Feb | 5.2 | 4.8 | 4.3 | 3.7 | 4.2 |
-| Mar | 5.4 | 4.9 | 5.0 | 3.6 | 5.1 |
-| Apr | 4.9 | 3.8 | 4.7 | 5.0 | 4.8 |
-| May | 4.8 | 4.5 | 4.9 | 5.0 | 4.6 |
-| Jun | 4.9 | 4.6 | 4.8 | 4.9 | 4.7 |
-| Jul | 4.8 | 4.7 | 4.9 | 4.8 | 4.9 |
-| Aug | 5.5 | 5.4 | 5.7 | 4.9 | 4.8 |
-| Sep | 4.7 | 5.5 | 4.6 | 4.9 | 3.9 |
-| Oct | 3.1 | 3.8 | 4.1 | 2.6 | 3.3 |
-| Nov | 3.0 | 4.2 | 4.5 | 2.6 | 4.8 |
-| Dec | 4.8 | 5.7 | 5.6 | 4.6 | 4.9 |
+> **Chart (not transcribed):** S Africa - Monthly Iron Ore Exports - Seasonality (mar 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -74,14 +48,7 @@ Five Ocean won the Posco tender with the MV Golden Zhoushan (175,853 dwt | 2011 
 | **Newcastlemax 1-Y Period** | usd/day | 31,800 | 34,800 | -8.6% | +37.7% |
 | **Capesize 1-Y Period** | usd/day | 26,500 | 29,000 | -8.6% | +37.3% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Mar-23 | 20,000 | 20,000 |
-| Jul-23 | 15,000 | 10,000 |
-| Nov-23 | 25,000 | 55,000 |
-| Mar-24 | 30,000 | 35,000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -107,14 +74,7 @@ The market in Pacific was firm with NoPac and Australia RV fixing in the high te
 | **Kamsarmax 1-Y Period** | usd/day | 18,800 | 19,000 | -1.1% | +1.6% |
 | **Panamax 1-Y Period** | usd/day | 15,500 | 15,800 | -1.9% | +3.3% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Mar-23 | 18000 | 15000 |
-| Jul-23 | 12000 | 8000 |
-| Nov-23 | 15000 | 21000 |
-| Mar-24 | 18500 | 20000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -170,23 +130,9 @@ Rates remained firm from SE Asia. A 60,000 dwt open SE Asia was reported at $17,
 | **38k Handy 1-Y Period** | usd/day | 14,500 | 14,500 | +0.0% | +5.1% |
 | **30k Handy 1-Y Period** | usd/day | 10,500 | 10,500 | +0.0% | -2.8% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Mar-23 | 16000 | 14500 |
-| Jul-23 | 10000 | 8000 |
-| Nov-23 | 14000 | 16500 |
-| Mar-24 | 15000 | 15000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Mar-23 | 14500 | 13000 |
-| Jul-23 | 9000 | 7000 |
-| Nov-23 | 14000 | 16000 |
-| Mar-24 | 15000 | 15000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -229,85 +175,15 @@ Delays at Turkish straits at abt 4.0 days n/b and abt 4.0 days s/b.
 | **Aframax TCE Average** | usd/day | 38,787 | 42,129 | -7.9% | -56.4% |
 | **Aframax 1-Y Period** | usd/day | 43,500 | 43,500 | +0.0% | -9.4% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Mar-23 | 75000 |
-| Apr-23 | 25000 |
-| May-23 | 20000 |
-| Jun-23 | 70000 |
-| Jul-23 | 15000 |
-| Aug-23 | 10000 |
-| Sep-23 | 10000 |
-| Oct-23 | 10000 |
-| Nov-23 | 40000 |
-| Dec-23 | 50000 |
-| Mar-24 | 55000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Mar-23 | 100000 |
-| Apr-23 | 60000 |
-| May-23 | 30000 |
-| Jun-23 | 10000 |
-| Jul-23 | 5000 |
-| Aug-23 | 10000 |
-| Sep-23 | 80000 |
-| Oct-23 | 90000 |
-| Nov-23 | 80000 |
-| Dec-23 | 60000 |
-| Mar-24 | 40000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-23 | 70000 |
-| Apr-23 | 40000 |
-| May-23 | 20000 |
-| Jun-23 | 5000 |
-| Jul-23 | -5000 |
-| Aug-23 | 5000 |
-| Sep-23 | 100000 |
-| Oct-23 | 60000 |
-| Nov-23 | 50000 |
-| Dec-23 | 40000 |
-| Mar-24 | 35000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-23 | 130000 |
-| Apr-23 | 40000 |
-| May-23 | 40000 |
-| Jun-23 | 5000 |
-| Jul-23 | -10000 |
-| Aug-23 | -10000 |
-| Sep-23 | 80000 |
-| Oct-23 | 60000 |
-| Nov-23 | 50000 |
-| Dec-23 | 40000 |
-| Mar-24 | 40000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Mar-23 | 55000 | 50000 | 55000 |
-| Apr-23 | 45000 | 45000 | 40000 |
-| May-23 | 40000 | 40000 | 35000 |
-| Jun-23 | 40000 | 40000 | 35000 |
-| Jul-23 | 45000 | 40000 | 35000 |
-| Aug-23 | 50000 | 40000 | 35000 |
-| Sep-23 | 50000 | 40000 | 35000 |
-| Oct-23 | 45000 | 40000 | 35000 |
-| Nov-23 | 45000 | 40000 | 35000 |
-| Dec-23 | 45000 | 40000 | 35000 |
-| Mar-24 | 45000 | 40000 | 35000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -344,69 +220,13 @@ A good start of the week has been followed by days of little activity that pushe
 | **Med-Med (30k)** | ws | 232.5 | 242.5 | -4.1% | -13.1% |
 | **Black Sea-Med (30k)** | ws | 380.0 | 380.0 | +0.0% | -29.6% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Mar-23 | 45000 |
-| Jun-23 | 30000 |
-| Jul-23 | 15000 |
-| Aug-23 | 20000 |
-| Sep-23 | 25000 |
-| Oct-23 | 40000 |
-| Nov-23 | 50000 |
-| Dec-23 | 95000 |
-| Jan-24 | 80000 |
-| Feb-24 | 90000 |
-| Mar-24 | 85000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Mar-23 | 40000 |
-| Jun-23 | 25000 |
-| Jul-23 | 20000 |
-| Aug-23 | 30000 |
-| Sep-23 | 35000 |
-| Oct-23 | 50000 |
-| Nov-23 | 60000 |
-| Dec-23 | 45000 |
-| Jan-24 | 40000 |
-| Feb-24 | 38000 |
-| Mar-24 | 37000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Mar-23 | 35000 |
-| Jun-23 | 20000 |
-| Jul-23 | 15000 |
-| Aug-23 | 25000 |
-| Sep-23 | 30000 |
-| Oct-23 | 35000 |
-| Nov-23 | 40000 |
-| Dec-23 | 55000 |
-| Jan-24 | 45000 |
-| Feb-24 | 42000 |
-| Mar-24 | 40000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Value |
-| --- | --- |
-| LR2 | 45000 |
-| Mar-23 | 45000 |
-| Jul-23 | 40000 |
-| Nov-23 | 50000 |
-| LR2 | 48000 |
-| MR2 | 30000 |
-| Mar-23 | 32000 |
-| Jul-23 | 25000 |
-| Nov-23 | 30000 |
-| LR2 | 47000 |
-| MR2 | 31000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -434,21 +254,9 @@ The market was quite stable with 1700/1800 teu vessels still on a positive trend
 | **1700 teu (1Y, geared)** | usd/day | 12,100 | 11,359 | +6.5% | -14.9% |
 | **1100 teu (1Y, geared)** | usd/day | 8,655 | 8,434 | +2.6% | -23.7% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Mar-23 | 20000 | 19000 | 18500 |
-| Jul-23 | 25000 | 20000 | 19000 |
-| Nov-23 | 16000 | 16000 | 13000 |
-
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Mar-23 | 17000 | 15000 | 12000 |
-| Jul-23 | 15000 | 13000 | 10000 |
-| Nov-23 | 12000 | 10000 | 8000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -466,21 +274,9 @@ The market was quite stable with 1700/1800 teu vessels still on a positive trend
 | **Med - China** | usd/feu | 836 | 842 | -0.7% | +95.8% |
 | **ECNA - Europe** | usd/feu | 468 | 417 | +12.2% | +12.0% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
-| Date | FBX |
-| --- | --- |
-| Mar-23 | 1500 |
-| Jul-23 | 1200 |
-| Nov-23 | 3500 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | China - N. Europe | N. Europe - China |
-| --- | --- | --- |
-| Mar-23 | 1500 | 700 |
-| Jul-23 | 1000 | 600 |
-| Nov-23 | 5500 | 800 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 12/2024
 
@@ -501,13 +297,7 @@ Greek based Cape Shipping placed an order for 2 x Suezmax, 2 x LR2 at SWS (Scrub
 | **LR2 Coated** | usd mln | 64.8 | 64.5 | +0.4% | +7.7% |
 | **MR2 Coated** | usd mln | 42.8 | 42.6 | +0.4% | +7.7% |
 
-### NEWBUILDING PRICES (USD MLN)
-
-| Date | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Mar-23 | 34 | 72 | 40 |
-| Jul-23 | 34 | 75 | 42 |
-| Nov-23 | 35 | 77 | 43 |
+> **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -522,13 +312,7 @@ Both end buyers in Bangladeshi and Pakistani markets remain well-positioned to p
 | **Tnk India** | usd/ldt | 500.6 | 502.2 | -0.3% | -13.1% |
 | **Tnk Bangladesh** | usd/ldt | 532.1 | 530.6 | +0.3% | +3.7% |
 
-### DEMOLITION PRICES (USD/LDT)
-
-| Date | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Mar-23 | 540 | 570 |
-| Jul-23 | 510 | 515 |
-| Nov-23 | 515 | 520 |
+> **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 12/2024
 
@@ -577,17 +361,7 @@ In the product tanker arena, the ALPINA AQUALINA 105,000 dwt built 2011 Hyundai 
 | **Aframax** | usd mln | 71.0 | 70.6 | +0.5% | +15.1% |
 | **MR Product** | usd mln | 45.5 | 45.3 | +0.5% | +7.6% |
 
-| Category | Date | Value (USD MLN) |
-| --- | --- | --- |
-| Kamsarmax | Mar-23 | 30 |
-| Kamsarmax | Jul-23 | 32 |
-| Kamsarmax | Nov-23 | 36 |
-| Aframax | Mar-23 | 63 |
-| Aframax | Jul-23 | 65 |
-| Aframax | Nov-23 | 70 |
-| MR | Mar-23 | 43 |
-| MR | Jul-23 | 43 |
-| MR | Nov-23 | 47 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 12/2024
 
@@ -606,18 +380,7 @@ In the product tanker arena, the ALPINA AQUALINA 105,000 dwt built 2011 Hyundai 
 | **Q2 24** | usd/day | 27,103 | 28,749 | -5.7% | -0.8% |
 | **Q3 24** | usd/day | 26,289 | 26,711 | -1.6% | -3.8% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-23 | 15000 |
-| Jun-23 | 10000 |
-| Sep-23 | 25000 |
-| Dec-23 | 55000 |
-| Mar-24 | 28000 |
-| Jun-24 | 27000 |
-| Sep-24 | 26000 |
-| Mar-25 | 26000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -632,18 +395,7 @@ In the product tanker arena, the ALPINA AQUALINA 105,000 dwt built 2011 Hyundai 
 | **Q2 24** | usd/day | 18,241 | 18,848 | -3.2% | -4.4% |
 | **Q3 24** | usd/day | 17,654 | 18,015 | -2.0% | -7.5% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-23 | 15000 |
-| Jun-23 | 8000 |
-| Sep-23 | 18000 |
-| Dec-23 | 22000 |
-| Mar-24 | 19000 |
-| Jun-24 | 18000 |
-| Sep-24 | 16000 |
-| Mar-25 | 16000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (58k)
 
@@ -658,18 +410,7 @@ In the product tanker arena, the ALPINA AQUALINA 105,000 dwt built 2011 Hyundai 
 | **Q2 24** | usd/day | 14,846 | 15,190 | -2.3% | -2.6% |
 | **Q3 24** | usd/day | 14,438 | 14,696 | -1.8% | -5.3% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-23 | 14000 |
-| Jun-23 | 8000 |
-| Sep-23 | 14000 |
-| Dec-23 | 14000 |
-| Mar-24 | 14500 |
-| Jun-24 | 14000 |
-| Sep-24 | 14000 |
-| Mar-25 | 14000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -684,18 +425,7 @@ In the product tanker arena, the ALPINA AQUALINA 105,000 dwt built 2011 Hyundai 
 | **Q2 24** | usd/day | 14,083 | 14,450 | -2.5% | -1.2% |
 | **Q3 24** | usd/day | 13,400 | 13,513 | -0.8% | -6.0% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Mar-23 | 12000 |
-| Jun-23 | 8000 |
-| Sep-23 | 12000 |
-| Dec-23 | 13000 |
-| Mar-24 | 14000 |
-| Jun-24 | 13000 |
-| Sep-24 | 13000 |
-| Mar-25 | 13000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -706,14 +436,7 @@ In the product tanker arena, the ALPINA AQUALINA 105,000 dwt built 2011 Hyundai 
 | KRW/USD | 1343 | 1331 | +1.0% | +2.7% |
 | CNY/USD | 7.23 | 7.20 | +0.5% | +5.0% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Mar-23 | 130 |
-| Jun-23 | 140 |
-| Sep-23 | 150 |
-| Nov-23 | 155 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 12/2024
 
@@ -740,14 +463,7 @@ In the product tanker arena, the ALPINA AQUALINA 105,000 dwt built 2011 Hyundai 
 | **Fujairah** | usd/t | 181.0 | 177.0 | +2.3% | +212.1% |
 | **Singapore** | usd/t | 153.0 | 156.0 | -1.9% | +0.7% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Mar-23 | 450 | 550 | 750 |
-| Jul-23 | 480 | 600 | 900 |
-| Nov-23 | 460 | 620 | 850 |
-| Mar-24 | 470 | 600 | 820 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -765,22 +481,9 @@ In the product tanker arena, the ALPINA AQUALINA 105,000 dwt built 2011 Hyundai 
 | LNG TTF Netherlands | usd/mmbtu | 8.60 | 8.72 | -1.4% | -36.6% |
 | LNG North East Asia | usd/mmbtu | 9.40 | 8.60 | +9.3% | -30.4% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Mar-23 | 75 | 65 |
-| Jul-23 | 90 | 85 |
-| Nov-23 | 78 | 72 |
-| Mar-24 | 82 | 80 |
-
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Mar-23 | 2.2 |
-| Jul-23 | 3.2 |
-| Nov-23 | 1.8 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -790,13 +493,7 @@ In the product tanker arena, the ALPINA AQUALINA 105,000 dwt built 2011 Hyundai 
 | **Steam Coal Newcastle** | usd/t | 131.8 | 136.0 | -3.1% | -27.5% |
 | **Coking Coal Australia SGX** | usd/t | 276.0 | 284.0 | -2.8% | -21.8% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Mar-23 | 190 | 130 |
-| Jul-23 | 140 | 135 |
-| Nov-23 | 150 | 140 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -806,13 +503,7 @@ In the product tanker arena, the ALPINA AQUALINA 105,000 dwt built 2011 Hyundai 
 | **Rebar Steel in China** | rmb/t | 3543.0 | 3451.0 | +2.7% | -16.2% |
 | **HRC Steel in China** | rmb/t | 3811.0 | 3710.0 | +2.7% | -12.3% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | HRC | Plate |
-| --- | --- | --- |
-| Mar-23 | 4300 | 4400 |
-| Jul-23 | 3800 | 3900 |
-| Nov-23 | 3700 | 3800 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -825,10 +516,4 @@ In the product tanker arena, the ALPINA AQUALINA 105,000 dwt built 2011 Hyundai 
 | **Palm Oil Malaysia** | usd/t | 908.8 | 923.0 | -1.5% | +0.1% |
 | **Ferts Urea Middle East** | usd/t | 392.5 | 392.5 | +0.0% | -2.6% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Mar-23 | 650 | 700 |
-| Jul-23 | 480 | 550 |
-| Nov-23 | 450 | 480 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.

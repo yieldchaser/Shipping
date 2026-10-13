@@ -26,7 +26,7 @@ In Jan-Sep 2024, volumes from Russia to India increased a further +9.5% y-o-y (a
 
 | Source | 2022 (1-9) | 2023 (1-9) | 2024 (1-9) |
 | --- | --- | --- | --- |
-| AG | 104.3 | 79.6 | 81.9 |
+| AG | 104.3 | 79.0 | 81.9 |
 | Russia | 20.0 | 57.0 | 62.4 |
 | W Africa | 13.9 | 7.3 | 8.5 |
 | USA | 11.7 | 8.2 | 7.9 |
@@ -35,22 +35,7 @@ In Jan-Sep 2024, volumes from Russia to India increased a further +9.5% y-o-y (a
 | Mexico | 3.4 | 1.9 | 1.9 |
 | Others/Unknown | 10.5 | 9.8 | 5.7 |
 
-### India - Monthly Crude Oil Imports - Seasonality (oct 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
-
-| Month | 2020 | 2021 | 2022 | 2023 | 2024 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 19.0 | 17.0 | 19.5 | 20.5 | 20.8 |
-| Feb | 18.5 | 16.0 | 18.0 | 18.5 | 18.0 |
-| Mar | 19.0 | 16.5 | 21.0 | 19.0 | 21.0 |
-| Apr | 18.0 | 16.0 | 20.0 | 18.5 | 18.0 |
-| May | 19.5 | 16.5 | 19.0 | 19.0 | 19.5 |
-| Jun | 14.0 | 16.0 | 13.5 | 18.0 | 14.0 |
-| Jul | 15.0 | 16.5 | 14.0 | 17.0 | 15.5 |
-| Aug | 17.0 | 17.0 | 16.0 | 18.0 | 16.5 |
-| Sep | 15.5 | 16.0 | 16.0 | 16.5 | 16.0 |
-| Oct | 18.0 | 17.5 | 18.5 | 18.0 | 18.5 |
-| Nov | 19.0 | 18.0 | 19.0 | 19.0 | 19.0 |
-| Dec | 19.5 | 18.5 | 19.5 | 19.0 | 19.0 |
+> **Chart (not transcribed):** India - Monthly Crude Oil Imports - Seasonality (oct 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -74,23 +59,7 @@ Vale fixed a Classic TBN vessel to load 150,000 mt +/- 10% iron ore from Tubarã
 | **Newcastlemax 1-Y Period** | usd/day | 22,200 | 30,000 | -26.0% | +0.9% |
 | **Capesize 1-Y Period** | usd/day | 18,500 | 25,000 | -26.0% | +3.9% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Oct-23 | 15000 | 18000 |
-| Nov-23 | 18000 | 58000 |
-| Dec-23 | 16000 | 16000 |
-| Jan-24 | 15000 | 14000 |
-| Feb-24 | 25000 | 35000 |
-| Mar-24 | 24000 | 34000 |
-| Apr-24 | 23000 | 30000 |
-| May-24 | 24000 | 28000 |
-| Jun-24 | 25000 | 29000 |
-| Jul-24 | 24000 | 27000 |
-| Aug-24 | 23000 | 26000 |
-| Sep-24 | 22000 | 25000 |
-| Oct-24 | 21000 | 18000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -116,23 +85,7 @@ The downward trend experienced over the last few weeks persisted. The tonnage li
 | **Kamsarmax 1-Y Period** | usd/day | 14,000 | 14,300 | -2.1% | -0.7% |
 | **Panamax 1-Y Period** | usd/day | 11,000 | 11,300 | -2.7% | -8.3% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Oct-23 | 13000 | 13500 |
-| Nov-23 | 14000 | 21000 |
-| Dec-23 | 14500 | 12000 |
-| Jan-24 | 15000 | 12500 |
-| Feb-24 | 16000 | 19000 |
-| Mar-24 | 16500 | 15000 |
-| Apr-24 | 17000 | 16000 |
-| May-24 | 17500 | 16500 |
-| Jun-24 | 18000 | 14000 |
-| Jul-24 | 17000 | 13000 |
-| Aug-24 | 16000 | 12000 |
-| Sep-24 | 15500 | 11500 |
-| Oct-24 | 15000 | 11000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -190,35 +143,9 @@ Little activity was reported for larger units and rates kept declining slowly. D
 | **38k Handy 1-Y Period** | usd/day | 13,300 | 13,300 | +0.0% | +8.1% |
 | **30k Handy 1-Y Period** | usd/day | 10,000 | 10,000 | +0.0% | +0.0% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Oct-23 | 12000 | 13000 |
-| Jan-24 | 16000 | 17000 |
-| Feb-24 | 14000 | 12000 |
-| Mar-24 | 14500 | 14000 |
-| Apr-24 | 14000 | 14500 |
-| May-24 | 14500 | 14000 |
-| Jun-24 | 14000 | 14500 |
-| Jul-24 | 14000 | 14000 |
-| Aug-24 | 14000 | 14000 |
-| Oct-24 | 14000 | 14000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Oct-23 | 12000 | 11000 |
-| Jan-24 | 15000 | 16000 |
-| Feb-24 | 14000 | 10000 |
-| Mar-24 | 14500 | 13000 |
-| Apr-24 | 14000 | 13000 |
-| May-24 | 14000 | 13500 |
-| Jun-24 | 14000 | 13500 |
-| Jul-24 | 14000 | 13000 |
-| Aug-24 | 14000 | 13000 |
-| Oct-24 | 14000 | 13000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -259,50 +186,15 @@ The **Aframax** market softened in Med to WS165 level, from USG to WS165 and on 
 | **Aframax TCE Average** | usd/day | 37,661 | 39,494 | -4.6% | -44.1% |
 | **Aframax 1-Y Period** | usd/day | 38,000 | 38,000 | +0.0% | -2.6% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-23 | 35000 |
-| Feb-24 | 70000 |
-| Jun-24 | 25000 |
-| Oct-24 | 30000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-23 | 80000 |
-| Feb-24 | 40000 |
-| Jun-24 | 25000 |
-| Oct-24 | 45000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | 100000 |
-| Feb-24 | 30000 |
-| Jun-24 | 35000 |
-| Oct-24 | 40000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | 100000 |
-| Feb-24 | 20000 |
-| Jun-24 | 30000 |
-| Oct-24 | 40000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Oct-23 | 45000 | 40000 | 40000 |
-| Feb-24 | 48000 | 46000 | 47000 |
-| Jun-24 | 52000 | 50000 | 38000 |
-| Oct-24 | 45000 | 41000 | 38000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -383,37 +275,9 @@ After a steady period, Handy rates in Cont started increasing a bit, with levels
 | Sep-24 | 20000 |
 | Oct-24 | 18000 |
 
-| Date | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Oct-23 | 25000 |
-| Nov-23 | 30000 |
-| Dec-23 | 55000 |
-| Jan-24 | 40000 |
-| Feb-24 | 55000 |
-| Mar-24 | 45000 |
-| Apr-24 | 35000 |
-| May-24 | 30000 |
-| Jun-24 | 25000 |
-| Jul-24 | 20000 |
-| Aug-24 | 18000 |
-| Sep-24 | 17000 |
-| Oct-24 | 17000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Oct-23 | 40000 | 28000 |
-| Nov-23 | 42000 | 29000 |
-| Dec-23 | 45000 | 30000 |
-| Jan-24 | 50000 | 31000 |
-| Feb-24 | 52000 | 32000 |
-| Mar-24 | 50000 | 31000 |
-| Apr-24 | 48000 | 30000 |
-| May-24 | 46000 | 29000 |
-| Jun-24 | 44000 | 28000 |
-| Jul-24 | 40000 | 27000 |
-| Aug-24 | 38000 | 26000 |
-| Sep-24 | 36000 | 25000 |
-| Oct-24 | 35000 | 24000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -443,12 +307,7 @@ Reduce activity was noticeable, particularly in the Panamax segment and in the 2
 | **1700 teu (1Y, geared)** | usd/day | 19,945 | 19,836 | +0.5% | +87.4% |
 | **1100 teu (1Y, geared)** | usd/day | 13,655 | 13,364 | +2.2% | +54.2% |
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Oct-23 | 15000 | 15000 | 12000 |
-| Feb-24 | 20000 | 18000 | 15000 |
-| Jun-24 | 45000 | 38000 | 32000 |
-| Oct-24 | 50000 | 40000 | 32000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Date | 2500 | 1700 | 1100 |
 | --- | --- | --- | --- |
@@ -457,12 +316,7 @@ Reduce activity was noticeable, particularly in the Panamax segment and in the 2
 | Jun-24 | 30000 | 20000 | 13000 |
 | Oct-24 | 28000 | 20000 | 13000 |
 
-| Date | FBX |
-| --- | --- |
-| Oct-23 | 1000 |
-| Feb-24 | 3000 |
-| Jun-24 | 5500 |
-| Oct-24 | 3500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -473,12 +327,7 @@ Reduce activity was noticeable, particularly in the Panamax segment and in the 2
 | **China - WCNA** | usd/feu | 5,540 | 5,294 | +4.6% | +269.6% |
 | **China - N. Europe** | usd/feu | 3,489 | 3,523 | -1.0% | +256.7% |
 
-| Date | China - N. Europe |
-| --- | --- |
-| Oct-23 | 1000 |
-| Feb-24 | 5500 |
-| Jun-24 | 8500 |
-| Oct-24 | 3500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 43/2024
 
@@ -518,10 +367,7 @@ N/A
 | **Tnk India** | usd/ldt | 474.0 | 482.8 | -1.8% | -12.1% |
 | **Tnk Bangladesh** | usd/ldt | 474.8 | 481.4 | -1.4% | -5.0% |
 
-| Category | Oct-23 | Feb-24 | Jun-24 | Oct-24 |
-| --- | --- | --- | --- | --- |
-| Dry Bulk | 505 | 515 | 525 | 465 |
-| Tanker | 508 | 520 | 535 | 460 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 43/2024
 It was a busy week for tankers, starting with the sale of 2 x LR2, the FOS DA VINCI and the FOS PICASSO 115,000 dwt 2009 Samsung, sold at $42 mln each. For comparison, the AMAX ARROW 115,000 dwt 2009 Samsung was sold at the end of April 2024 at $43.5 mln.
@@ -568,11 +414,7 @@ The LR1 OCTA LUNE 73,000 dwt 2005 Hyundai, was reported sold to Chinese buyers a
 | **Aframax** | usd mln | 72.6 | 72.6 | +0.1% | +10.7% |
 | **MR Product** | usd mln | 47.3 | 47.4 | -0.2% | +11.6% |
 
-| Category | Oct-23 | Feb-24 | Jun-24 | Oct-24 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 65 | 70 | 72 | 71 |
-| Aframax | 68 | 70 | 72 | 72 |
-| MR | 42 | 45 | 47 | 47 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 43/2024
 
@@ -591,19 +433,7 @@ The LR1 OCTA LUNE 73,000 dwt 2005 Hyundai, was reported sold to Chinese buyers a
 | **Q1 25** | usd/day | 13,598 | 14,302 | -4.9% | -8.2% |
 | **Q2 25** | usd/day | 18,657 | 19,214 | -2.9% | +26.0% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | 18000 |
-| Oct-23 | 55000 |
-| Apr-24 | 25000 |
-| Apr-24 | 30000 |
-| Oct-24 | 25000 |
-| Oct-24 | 18000 |
-| Apr-25 | 18000 |
-| Apr-25 | 22000 |
-| Oct-25 | 24000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -618,18 +448,7 @@ The LR1 OCTA LUNE 73,000 dwt 2005 Hyundai, was reported sold to Chinese buyers a
 | **Q1 25** | usd/day | 11,162 | 11,280 | -1.0% | +4.2% |
 | **Q2 25** | usd/day | 13,695 | 13,822 | -0.9% | +27.9% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | 14000 |
-| Oct-23 | 22000 |
-| Apr-24 | 18000 |
-| Oct-24 | 12000 |
-| Oct-24 | 12000 |
-| Apr-25 | 13000 |
-| Apr-25 | 14000 |
-| Oct-25 | 14000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (63k)
 
@@ -644,18 +463,7 @@ The LR1 OCTA LUNE 73,000 dwt 2005 Hyundai, was reported sold to Chinese buyers a
 | **Q1 25** | usd/day | 12,963 | 13,047 | -0.6% | -16.9% |
 | **Q2 25** | usd/day | 14,926 | 14,955 | -0.2% | -4.3% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | 12000 |
-| Oct-23 | 16000 |
-| Apr-24 | 16000 |
-| Oct-24 | 16000 |
-| Oct-24 | 13000 |
-| Apr-25 | 15000 |
-| Apr-25 | 15000 |
-| Oct-25 | 15000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -670,18 +478,7 @@ The LR1 OCTA LUNE 73,000 dwt 2005 Hyundai, was reported sold to Chinese buyers a
 | **Q1 25** | usd/day | 9,925 | 9,987 | -0.6% | -23.8% |
 | **Q2 25** | usd/day | 12,075 | 12,100 | -0.2% | -7.3% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | 13000 |
-| Oct-23 | 17000 |
-| Apr-24 | 15000 |
-| Oct-24 | 13000 |
-| Oct-24 | 12000 |
-| Apr-25 | 13000 |
-| Apr-25 | 13000 |
-| Oct-25 | 13000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -692,15 +489,7 @@ The LR1 OCTA LUNE 73,000 dwt 2005 Hyundai, was reported sold to Chinese buyers a
 | KRW/USD | 1388 | 1368 | +1.4% | +2.9% |
 | CNY/USD | 7.12 | 7.10 | +0.3% | -2.7% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | 150 |
-| Oct-23 | 140 |
-| Feb-24 | 150 |
-| Jun-24 | 160 |
-| Oct-24 | 145 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 ■ RESEARCH
 
@@ -770,56 +559,14 @@ The LR1 OCTA LUNE 73,000 dwt 2005 Hyundai, was reported sold to Chinese buyers a
 
 ## CHARTS
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Oct-23 | 480 | 700 | 820 |
-| Feb-24 | 460 | 680 | 780 |
-| Jun-24 | 450 | 650 | 750 |
-| Oct-24 | 470 | 660 | 720 |
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Oct-23 | 90 | 88 |
-| Feb-24 | 85 | 70 |
-| Jun-24 | 78 | 68 |
-| Oct-24 | 75 | 72 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
-### HENRY HUB PRICE (USD/MMBTU)
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Oct-23 | 3.5 |
-| Feb-24 | 1.8 |
-| Jun-24 | 2.4 |
-| Oct-24 | 2.5 |
-
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Oct-23 | 130 | 120 |
-| Feb-24 | 140 | 100 |
-| Jun-24 | 145 | 105 |
-| Oct-24 | 150 | 105 |
-
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | HRC | Plate |
-| --- | --- | --- |
-| Oct-23 | 3800 | 3900 |
-| Feb-24 | 3400 | 3500 |
-| Jun-24 | 2900 | 3000 |
-| Oct-24 | 3400 | 3500 |
-
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Oct-23 | 480 | 580 |
-| Feb-24 | 400 | 550 |
-| Jun-24 | 400 | 680 |
-| Oct-24 | 410 | 580 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.

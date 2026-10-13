@@ -30,27 +30,12 @@ Exports from the USA to India declined by -28.3% y-o-y in the first 9 months of 
 | S Korea | 10 | 13 | 14 |
 | NW Europe | 9 | 9 | 12 |
 | ASEAN | 10 | 5 | 12 |
-| India | 9 | 9 | 10 |
+| India | 9 | 14 | 10 |
 | Canada | 8 | 7 | 9 |
 | China PR | 14 | 7 | 9 |
-| Others/ Unknown | 17 | 16 | 16 |
+| Others/Unknown | 17 | 16 | 16 |
 
-### United States - Monthly Crude Oil Exports - Seasonality (Oct 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
-
-| Month | 2018 | 2019 | 2020 | 2021 | 2022 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 4.8 | 10.2 | 4.9 | 12.8 | 12.8 |
-| Feb | 5.0 | 8.5 | 12.8 | 8.5 | 11.5 |
-| Mar | 7.5 | 12.5 | 13.0 | 12.5 | 13.8 |
-| Apr | 7.5 | 9.0 | 11.5 | 12.5 | 10.5 |
-| May | 7.5 | 10.5 | 11.0 | 10.5 | 13.5 |
-| Jun | 8.5 | 11.0 | 12.5 | 10.0 | 13.5 |
-| Jul | 7.5 | 10.5 | 12.5 | 10.0 | 14.5 |
-| Aug | 6.5 | 10.5 | 11.5 | 10.0 | 14.8 |
-| Sep | 7.5 | 10.5 | 11.0 | 10.0 | 14.0 |
-| Oct | 7.5 | 13.0 | 11.0 | 13.0 | 13.0 |
-| Nov | 7.5 | 11.5 | 10.5 | 13.5 | 14.2 |
-| Dec | 8.5 | 13.0 | 13.0 | 14.0 | 13.2 |
+> **Chart (not transcribed):** United States - Monthly Crude Oil Exports - Seasonality (Oct 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -72,20 +57,7 @@ The activity in the Atlantic reported Kingho's fixing a Newcastlemax for a cargo
 | **Newcastlemax 1-Y Period** | usd/day | 18,000 | 18,000 | +0.0% | -53.2% |
 | **Capesize 1-Y Period** | usd/day | 15,000 | 15,000 | +0.0% | -55.9% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Oct-21 | 30000 | 60000 |
-| Jan-22 | 25000 | 20000 |
-| Feb-22 | 30000 | 10000 |
-| Mar-22 | 35000 | 35000 |
-| Apr-22 | 32000 | 30000 |
-| May-22 | 38000 | 38000 |
-| Jun-22 | 35000 | 25000 |
-| Jul-22 | 30000 | 15000 |
-| Aug-22 | 25000 | 5000 |
-| Oct-22 | 18000 | 18000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -113,23 +85,7 @@ On TA from ECSAm an eco Kamsarmax open mid Nov was reported at $38,000/d basis d
 | **Kamsarmax 1-Y Period** | usd/day | 17,500 | 17,500 | +0.0% | -41.7% |
 | **Panamax 1-Y Period** | usd/day | 15,000 | 15,000 | +0.0% | -42.3% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Oct-21 | 28000 | 37000 |
-| Nov-21 | 24000 | 22000 |
-| Dec-21 | 23000 | 20000 |
-| Jan-22 | 22000 | 18000 |
-| Feb-22 | 26000 | 24000 |
-| Mar-22 | 29000 | 28000 |
-| Apr-22 | 28000 | 27000 |
-| May-22 | 27000 | 26000 |
-| Jun-22 | 25000 | 23000 |
-| Jul-22 | 22000 | 12000 |
-| Aug-22 | 19000 | 18000 |
-| Sep-22 | 18000 | 17000 |
-| Oct-22 | 18000 | 18000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -189,23 +145,9 @@ Rates remained more or less stable compared to the previous one, both on Suprama
 | **38k Handy 1-Y Period** | usd/day | 16,800 | 16,800 | +0.0% | -41.1% |
 | **30k Handy 1-Y Period** | usd/day | 13,800 | 13,500 | +2.2% | -44.8% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Oct-21 | 20000 | 40000 |
-| Feb-22 | 25000 | 32000 |
-| Jun-22 | 22000 | 28000 |
-| Oct-22 | 18000 | 17000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Oct-21 | 25000 | 38000 |
-| Feb-22 | 22000 | 30000 |
-| Jun-22 | 23000 | 26000 |
-| Oct-22 | 18000 | 18000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -250,49 +192,15 @@ In the **VLCC** market rates increased most of the week with rates settling at 2
 | **Aframax TCE Average** | usd/day | 65,622 | 51,887 | +26.5% | +991.7% |
 | **Aframax 1-Y Period** | usd/day | 34,250 | 34,500 | -0.7% | +114.1% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 10,000 |
-| Feb-22 | -20,000 |
-| Jun-22 | -25,000 |
-| Oct-22 | 70,000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD17 AFRAMAX BALTIC-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 0 |
-| Feb-22 | 150,000 |
-| Jun-22 | 20,000 |
-| Oct-22 | 70,000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD17 AFRAMAX BALTIC-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-21 | -10,000 |
-| Feb-22 | 350,000 |
-| Jun-22 | 20,000 |
-| Oct-22 | 60,000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-21 | 10,000 |
-| Feb-22 | 70,000 |
-| Jun-22 | 80,000 |
-| Oct-22 | 65,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Oct-21 | Feb-22 | Jun-22 | Oct-22 |
-| --- | --- | --- | --- | --- |
-| VLCC | 20,000 | 20,000 | 20,000 | 45,000 |
-| Suezmax | 15,000 | 20,000 | 25,000 | 35,000 |
-| Aframax | 15,000 | 20,000 | 25,000 | 35,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -325,39 +233,13 @@ In the **VLCC** market rates increased most of the week with rates settling at 2
 | **Med-Med (30k)** | ws | 430.0 | 340.0 | +26.5% | +191.5% |
 | **Black Sea-Med (30k)** | ws | 520.0 | 520.0 | +0.0% | +230.2% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 0 |
-| Feb-22 | -5000 |
-| Jun-22 | 60000 |
-| Oct-22 | 35000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 5000 |
-| Feb-22 | 15000 |
-| Jun-22 | 70000 |
-| Oct-22 | 38000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Oct-21 | 2000 |
-| Feb-22 | 8000 |
-| Jun-22 | 70000 |
-| Oct-22 | 35000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Value |
-| --- | --- |
-| LR2 | 35000 |
-| MR2 | 30000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -420,12 +302,7 @@ The market kept falling and both Owners and Charterers had to deal with major ch
 | Jun-22 | 7,000 |
 | Oct-22 | 3,000 |
 
-| Date | China - N. Europe | N. Europe - China |
-| --- | --- | --- |
-| Oct-21 | 15,000 | 2,000 |
-| Feb-22 | 14,000 | 1,000 |
-| Jun-22 | 10,000 | 500 |
-| Oct-22 | 4,000 | 0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 42/2022
 
@@ -446,14 +323,7 @@ In the tanker market 4 firm + 2 optional MR tankers 50,000 dwt previously ordere
 | **LR2 Coated** | usd mln | 60.7 | 60.7 | +0.0% | +8.5% |
 | **MR2 Coated** | usd mln | 39.7 | 39.1 | +1.5% | +9.5% |
 
-### NEWBUILDING PRICES (USD MLN)
-
-| Date | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Oct-21 | 35 | 65 | 38 |
-| Feb-22 | 36 | 66 | 39 |
-| Jun-22 | 37 | 67 | 40 |
-| Oct-22 | 37 | 68 | 40 |
+> **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -470,14 +340,7 @@ Again, nothing much to report.... No vessels are being offered given positive fr
 | **Tnk India** | usd/ldt | 589.2 | 591.3 | -0.4% | -0.1% |
 | **Tnk Pakistan** | usd/ldt | 592.8 | 593.7 | -0.2% | -1.7% |
 
-### DEMOLITION PRICES (USD/LDT)
-
-| Date | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Oct-21 | 590 | 595 |
-| Feb-22 | 650 | 680 |
-| Jun-22 | 560 | 570 |
-| Oct-22 | 595 | 595 |
+> **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 
 # SALE & PURCHASE
 # SECONDHAND SALES
@@ -524,11 +387,7 @@ Last week a large number of Postpanamax was sold: CMB Chardonnay 95,707 dwt buil
 | **Aframax** | usd mln | 57.4 | 56.8 | +1.1% | +43.2% |
 | **MR Product** | usd mln | 39.5 | 39.3 | +0.4% | +41.4% |
 
-| Category | Oct-21 | Feb-22 | Jun-22 | Oct-22 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 40 | 42 | 45 | 58 |
-| Aframax | 38 | 43 | 48 | 62 |
-| MR | 28 | 30 | 35 | 38 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 42/2022
 
@@ -586,101 +445,13 @@ Last week a large number of Postpanamax was sold: CMB Chardonnay 95,707 dwt buil
 | **Q2 23** | usd/day | 12,825 | 12,800 | +0.2% | -25.7% |
 | **Q3 23** | usd/day | 12,775 | 12,805 | -0.2% | -26.0% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 55000 |
-| Nov-21 | 45000 |
-| Dec-21 | 35000 |
-| Jan-22 | 25000 |
-| Feb-22 | 15000 |
-| Mar-22 | 25000 |
-| Apr-22 | 35000 |
-| May-22 | 25000 |
-| Jun-22 | 15000 |
-| Jul-22 | 15000 |
-| Aug-22 | 15000 |
-| Oct-22 | 18000 |
-| Nov-22 | 15000 |
-| Dec-22 | 12000 |
-| Jan-23 | 15000 |
-| Feb-23 | 12000 |
-| Mar-23 | 10000 |
-| Apr-23 | 10000 |
-| Oct-23 | 18000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-### PANAMAX FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 40000 |
-| Nov-21 | 20000 |
-| Dec-21 | 20000 |
-| Jan-22 | 15000 |
-| Feb-22 | 30000 |
-| Mar-22 | 30000 |
-| Apr-22 | 25000 |
-| May-22 | 15000 |
-| Jun-22 | 10000 |
-| Jul-22 | 15000 |
-| Aug-22 | 15000 |
-| Oct-22 | 18000 |
-| Nov-22 | 12000 |
-| Dec-22 | 12000 |
-| Jan-23 | 12000 |
-| Feb-23 | 12000 |
-| Mar-23 | 12000 |
-| Apr-23 | 12000 |
-| Oct-23 | 14000 |
-
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-21 | 40000 |
-| Nov-21 | 15000 |
-| Dec-21 | 10000 |
-| Jan-22 | 20000 |
-| Feb-22 | 25000 |
-| Mar-22 | 20000 |
-| Apr-22 | 15000 |
-| May-22 | 10000 |
-| Jun-22 | 10000 |
-| Jul-22 | 10000 |
-| Aug-22 | 10000 |
-| Oct-22 | 12000 |
-| Nov-22 | 10000 |
-| Dec-22 | 10000 |
-| Jan-23 | 10000 |
-| Feb-23 | 10000 |
-| Mar-23 | 10000 |
-| Apr-23 | 10000 |
-| Oct-23 | 12000 |
-
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-21 | 38000 |
-| Nov-21 | 18000 |
-| Dec-21 | 15000 |
-| Jan-22 | 25000 |
-| Feb-22 | 30000 |
-| Mar-22 | 25000 |
-| Apr-22 | 20000 |
-| May-22 | 15000 |
-| Jun-22 | 15000 |
-| Jul-22 | 12000 |
-| Aug-22 | 12000 |
-| Oct-22 | 15000 |
-| Nov-22 | 12000 |
-| Dec-22 | 12000 |
-| Jan-23 | 12000 |
-| Feb-23 | 12000 |
-| Mar-23 | 12000 |
-| Apr-23 | 12000 |
-| Oct-23 | 12000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -691,23 +462,7 @@ Last week a large number of Postpanamax was sold: CMB Chardonnay 95,707 dwt buil
 | KRW/USD | 1428 | 1440 | -0.8% | +20.8% |
 | CNY/USD | 7.24 | 7.19 | +0.7% | +12.5% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Oct-21 | 110 |
-| Nov-21 | 110 |
-| Dec-21 | 110 |
-| Jan-22 | 110 |
-| Feb-22 | 115 |
-| Mar-22 | 120 |
-| Apr-22 | 125 |
-| May-22 | 130 |
-| Jun-22 | 135 |
-| Jul-22 | 140 |
-| Aug-22 | 142 |
-| Sep-22 | 145 |
-| Oct-22 | 150 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 42/2022
 
@@ -734,14 +489,7 @@ Last week a large number of Postpanamax was sold: CMB Chardonnay 95,707 dwt buil
 | **Fujairah** | usd/t | 325.0 | 319.0 | +1.9% | +170.8% |
 | **Singapore** | usd/t | 338.0 | 351.0 | -3.7% | +172.6% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Oct-21 | 650 | 700 | 700 |
-| Feb-22 | 800 | 1000 | 1300 |
-| Jun-22 | 600 | 1100 | 1400 |
-| Oct-22 | 400 | 800 | 1100 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -759,23 +507,9 @@ Last week a large number of Postpanamax was sold: CMB Chardonnay 95,707 dwt buil
 | **LNG TTF Netherlands** | usd/mmbtu | 33.20 | 40.38 | -17.8% | +32.5% |
 | **LNG North East Asia** | usd/mmbtu | 31.00 | 32.50 | -4.6% | +5.1% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Oct-21 | 75 | 70 |
-| Feb-22 | 115 | 115 |
-| Jun-22 | 115 | 120 |
-| Oct-22 | 90 | 85 |
-
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Oct-21 | 5.0 |
-| Feb-22 | 4.0 |
-| Jun-22 | 8.0 |
-| Oct-22 | 5.0 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -785,14 +519,7 @@ Last week a large number of Postpanamax was sold: CMB Chardonnay 95,707 dwt buil
 | **Steam Coal Newcastle** | usd/t | 391.9 | 389.3 | +0.7% | +54.3% |
 | **Coking Coal Australia SGX** | usd/t | 291.7 | 284.8 | +2.4% | -26.5% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Oct-21 | 250 | 100 |
-| Feb-22 | 350 | 120 |
-| Jun-22 | 400 | 110 |
-| Oct-22 | 400 | 90 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -802,14 +529,7 @@ Last week a large number of Postpanamax was sold: CMB Chardonnay 95,707 dwt buil
 | **Rebar in China CISA** | rmb/t | 3936.0 | 4020.0 | -2.1% | -31.4% |
 | **Plate in China CISA** | rmb/t | 4237.0 | 4253.0 | -0.4% | -27.4% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | Rebar | Plate |
-| --- | --- | --- |
-| Oct-21 | 5800 | 5800 |
-| Feb-22 | 5000 | 5000 |
-| Jun-22 | 4500 | 4200 |
-| Oct-22 | 4000 | 4000 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -822,14 +542,7 @@ Last week a large number of Postpanamax was sold: CMB Chardonnay 95,707 dwt buil
 | **Palm Oil Malaysia** | usd/t | 840.0 | 762.0 | +10.2% | -32.3% |
 | **Ferts Urea Middle East** | usd/t | 702.5 | 757.5 | -7.3% | -15.4% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Oct-21 | 600 | 750 |
-| Feb-22 | 700 | 1400 |
-| Jun-22 | 650 | 800 |
-| Oct-22 | 700 | 850 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

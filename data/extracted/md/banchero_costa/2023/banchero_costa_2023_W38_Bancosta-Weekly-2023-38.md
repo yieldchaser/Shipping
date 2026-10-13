@@ -31,24 +31,9 @@ Exports from Brazil to the EU declined by -17.8% y-o-y to 13.4 mln tonnes in Jan
 | Japan | 8 | 7 | 8 |
 | S Korea | 4 | 5 | 4 |
 | Philippines | 3 | 3 | 4 |
-| Others/ Unknown | 16 | 17 | 36 |
+| Others/Unknown | 16 | 17 | 36 |
 
-### Brazil - Monthly Iron Ore Exports - Seasonality (Sep 2023 ; source: refinitiv ; seaborne only ; in mln tonnes)
-
-| Month | 2019 | 2020 | 2021 | 2022 | 2023 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 30.0 | 21.0 | 23.0 | 24.0 | 22.5 |
-| Feb | 29.0 | 22.0 | 22.0 | 24.0 | 23.0 |
-| Mar | 28.0 | 24.0 | 25.0 | 25.0 | 24.0 |
-| Apr | 17.0 | 25.0 | 26.0 | 26.0 | 25.5 |
-| May | 24.0 | 24.0 | 27.0 | 27.0 | 31.0 |
-| Jun | 26.0 | 28.0 | 30.0 | 30.0 | 34.0 |
-| Jul | 27.0 | 30.0 | 32.0 | 33.0 | 33.5 |
-| Aug | 35.0 | 35.0 | 36.0 | 34.0 | 35.0 |
-| Sep | 29.0 | 34.0 | 31.0 | 30.0 | 32.0 |
-| Oct | 28.0 | 30.0 | 29.0 | 29.0 | 31.0 |
-| Nov | 29.0 | 31.0 | 29.0 | 29.0 | 31.5 |
-| Dec | 29.0 | 32.0 | 29.0 | 31.0 | 32.0 |
+> **Chart (not transcribed):** Brazil - Monthly Iron Ore Exports - Seasonality (Sep 2023 ; source: refinitiv ; seaborne only ; in mln tonnes). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -74,14 +59,7 @@ Cargill fixed the MV First Penguin (208,772 dwt | 2021 built) to load a cargo of
 | **Newcastlemax 1-Y Period** | usd/day | 19,500 | 19,400 | +0.5% | +16.1% |
 | **Capesize 1-Y Period** | usd/day | 15,800 | 15,500 | +1.9% | +12.9% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Category | Value |
-| --- | --- |
-| Sep-22 | 1-YR TC: 15000<br/>BCI TC: 18000 |
-| Jan-23 | 1-YR TC: 16000<br/>BCI TC: 3500 |
-| May-23 | 1-YR TC: 18000<br/>BCI TC: 20000 |
-| Sep-23 | 1-YR TC: 16000<br/>BCI TC: 17000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -107,15 +85,7 @@ The week began positively in the Pacific basin thanks to a well supported level 
 | **Kamsarmax 1-Y Period** | usd/day | 14,500 | 14,300 | +1.4% | -16.2% |
 | **Panamax 1-Y Period** | usd/day | 12,300 | 12,100 | +1.7% | -18.0% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Sep-22 | 17000 | 19000 |
-| Jan-23 | 18000 | 7000 |
-| Mar-23 | 19000 | 16000 |
-| May-23 | 11000 | 9000 |
-| Sep-23 | 15000 | 14000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -173,41 +143,9 @@ Rates maintained their positive trend and increased substantially on all sizes. 
 | **38k Handy 1-Y Period** | usd/day | 12,000 | 11,500 | +4.3% | -25.0% |
 | **30k Handy 1-Y Period** | usd/day | 10,000 | 9,000 | +11.1% | -20.0% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Sep-22 | 13000 | 19000 |
-| Oct-22 | 12000 | 17000 |
-| Nov-22 | 11000 | 15000 |
-| Dec-22 | 10000 | 13000 |
-| Jan-23 | 9000 | 8000 |
-| Feb-23 | 10000 | 10000 |
-| Mar-23 | 14000 | 15000 |
-| Apr-23 | 13000 | 14000 |
-| May-23 | 10000 | 8000 |
-| Jun-23 | 11000 | 9000 |
-| Jul-23 | 12000 | 10000 |
-| Aug-23 | 11000 | 11000 |
-| Sep-23 | 13000 | 16000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Sep-22 | 16000 | 18000 |
-| Oct-22 | 15000 | 16000 |
-| Nov-22 | 14000 | 14000 |
-| Dec-22 | 13000 | 12000 |
-| Jan-23 | 12000 | 8000 |
-| Feb-23 | 13000 | 10000 |
-| Mar-23 | 14000 | 12000 |
-| Apr-23 | 13000 | 11000 |
-| May-23 | 10000 | 7000 |
-| Jun-23 | 11000 | 8000 |
-| Jul-23 | 12000 | 9000 |
-| Aug-23 | 11000 | 10000 |
-| Sep-23 | 12000 | 12000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -252,85 +190,15 @@ In NW Europe owners were unable to push rates much above WS90, if any, with retu
 | **Aframax TCE Average** | usd/day | 11,872 | 8,888 | +33.6% | -73.5% |
 | **Aframax 1-Y Period** | usd/day | 40,000 | 42,000 | -4.8% | +12.7% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Sep-22 | 60000 |
-| Oct-22 | 85000 |
-| Nov-22 | 95000 |
-| Dec-22 | 80000 |
-| Jan-23 | 90000 |
-| Feb-23 | 70000 |
-| Mar-23 | 85000 |
-| Apr-23 | 75000 |
-| May-23 | 60000 |
-| Jun-23 | 40000 |
-| Jul-23 | 30000 |
-| Aug-23 | 25000 |
-| Sep-23 | 20000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Sep-22 | 70000 |
-| Oct-22 | 85000 |
-| Nov-22 | 160000 |
-| Dec-22 | 140000 |
-| Jan-23 | 120000 |
-| Feb-23 | 100000 |
-| Mar-23 | 90000 |
-| Apr-23 | 80000 |
-| May-23 | 60000 |
-| Jun-23 | 50000 |
-| Jul-23 | 40000 |
-| Aug-23 | 20000 |
-| Sep-23 | 0 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Sep-22 | 50000 |
-| Oct-22 | 60000 |
-| Nov-22 | 140000 |
-| Dec-22 | 130000 |
-| Jan-23 | 80000 |
-| Feb-23 | 70000 |
-| Mar-23 | 60000 |
-| Apr-23 | 50000 |
-| May-23 | 40000 |
-| Jun-23 | 30000 |
-| Jul-23 | 20000 |
-| Aug-23 | 10000 |
-| Sep-23 | -5000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Sep-22 | 40000 |
-| Oct-22 | 50000 |
-| Nov-22 | 150000 |
-| Dec-22 | 140000 |
-| Jan-23 | 100000 |
-| Feb-23 | 90000 |
-| Mar-23 | 80000 |
-| Apr-23 | 70000 |
-| May-23 | 50000 |
-| Jun-23 | 40000 |
-| Jul-23 | 30000 |
-| Aug-23 | 20000 |
-| Sep-23 | 10000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Value |
-| --- | --- |
-| VLCC | 45000 |
-| Suezmax | 40000 |
-| Aframax | 35000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -369,90 +237,13 @@ Another firm week for Handies in Med where rates kept rising: WS200 on Monday to
 | **Med-Med (30k)** | ws | 250.0 | 175.0 | +42.9% | -26.5% |
 | **Black Sea-Med (30k)** | ws | 300.0 | 230.0 | +30.4% | -41.2% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Sep-22 | 35000 |
-| Oct-22 | 40000 |
-| Nov-22 | 45000 |
-| Dec-22 | 75000 |
-| Jan-23 | 80000 |
-| Feb-23 | 100000 |
-| Mar-23 | 70000 |
-| Apr-23 | 50000 |
-| May-23 | 45000 |
-| Jun-23 | 40000 |
-| Jul-23 | 35000 |
-| Aug-23 | 30000 |
-| Sep-23 | 30000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Sep-22 | 55000 |
-| Oct-22 | 40000 |
-| Nov-22 | 50000 |
-| Dec-22 | 75000 |
-| Jan-23 | 100000 |
-| Feb-23 | 10000 |
-| Mar-23 | 20000 |
-| Apr-23 | 30000 |
-| May-23 | 35000 |
-| Jun-23 | 30000 |
-| Jul-23 | 25000 |
-| Aug-23 | 25000 |
-| Sep-23 | 20000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Sep-22 | 60000 |
-| Oct-22 | 30000 |
-| Nov-22 | 45000 |
-| Dec-22 | 60000 |
-| Jan-23 | 70000 |
-| Feb-23 | 20000 |
-| Mar-23 | 30000 |
-| Apr-23 | 35000 |
-| May-23 | 25000 |
-| Jun-23 | 20000 |
-| Jul-23 | 15000 |
-| Aug-23 | 20000 |
-| Sep-23 | 30000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Series | Date | Value |
-| --- | --- | --- |
-| LR2 | Sep-22 | 35000 |
-| LR2 | Oct-22 | 35000 |
-| LR2 | Nov-22 | 35000 |
-| LR2 | Dec-22 | 45000 |
-| LR2 | Jan-23 | 48000 |
-| LR2 | Feb-23 | 47000 |
-| LR2 | Mar-23 | 46000 |
-| LR2 | Apr-23 | 45000 |
-| LR2 | May-23 | 42000 |
-| LR2 | Jun-23 | 40000 |
-| LR2 | Jul-23 | 40000 |
-| LR2 | Aug-23 | 40000 |
-| LR2 | Sep-23 | 40000 |
-| MR2 | Sep-22 | 28000 |
-| MR2 | Oct-22 | 28000 |
-| MR2 | Nov-22 | 28000 |
-| MR2 | Dec-22 | 28000 |
-| MR2 | Jan-23 | 28000 |
-| MR2 | Feb-23 | 27000 |
-| MR2 | Mar-23 | 27000 |
-| MR2 | Apr-23 | 27000 |
-| MR2 | May-23 | 26000 |
-| MR2 | Jun-23 | 25000 |
-| MR2 | Jul-23 | 24000 |
-| MR2 | Aug-23 | 25000 |
-| MR2 | Sep-23 | 26000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -477,23 +268,9 @@ Overall activity was still quiet and according to the fixtures of last week Owne
 | **1700 teu (1Y, geared)** | usd/day | 11,732 | 11,827 | -0.8% | -61.6% |
 | **1100 teu (1Y, geared)** | usd/day | 9,741 | 9,809 | -0.7% | -58.2% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Sep-22 | 80000 | 60000 | 60000 |
-| Jan-23 | 20000 | 20000 | 20000 |
-| May-23 | 20000 | 20000 | 20000 |
-| Sep-23 | 20000 | 20000 | 20000 |
-
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Sep-22 | 50000 | 30000 | 20000 |
-| Jan-23 | 15000 | 15000 | 10000 |
-| May-23 | 15000 | 15000 | 10000 |
-| Sep-23 | 15000 | 15000 | 10000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -511,23 +288,9 @@ Overall activity was still quiet and according to the fixtures of last week Owne
 | **Med - China** | usd/feu | 387 | 397 | -2.5% | -63.9% |
 | **ECNA - Europe** | usd/feu | 530 | 531 | -0.2% | -4.3% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
-| Date | FBX |
-| --- | --- |
-| Sep-22 | 4000 |
-| Jan-23 | 1500 |
-| May-23 | 1500 |
-| Sep-23 | 1500 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | China - N. Europe | N. Europe - China |
-| --- | --- | --- |
-| Sep-22 | 7500 | 500 |
-| Jan-23 | 2000 | 500 |
-| May-23 | 1000 | 500 |
-| Sep-23 | 1000 | 500 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 37/2023
 
@@ -550,14 +313,7 @@ Union Maritime will add two more LR2 tankers to its orderbook: UK based shipowne
 | **LR2 Coated** | usd mln | 62.8 | 62.4 | +0.7% | +3.8% |
 | **MR2 Coated** | usd mln | 41.9 | 41.9 | +0.0% | +7.6% |
 
-### NEWBUILDING PRICES (USD MLN)
-
-| Date | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Sep-22 | 35 | 70 | 40 |
-| Jan-23 | 34 | 70 | 40 |
-| May-23 | 34 | 73 | 42 |
-| Sep-23 | 34 | 75 | 43 |
+> **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -570,14 +326,7 @@ Union Maritime will add two more LR2 tankers to its orderbook: UK based shipowne
 | **Tnk India** | usd/ldt | 534.1 | 526.2 | +1.5% | -8.7% |
 | **Tnk Bangladesh** | usd/ldt | 504.6 | 510.3 | -1.1% | -17.8% |
 
-### DEMOLITION PRICES (USD/LDT)
-
-| Date | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Sep-22 | 580 | 590 |
-| Jan-23 | 520 | 530 |
-| May-23 | 540 | 570 |
-| Sep-23 | 510 | 510 |
+> **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 37/2023
 
@@ -622,20 +371,7 @@ During the week Korean controlled Capesize West Trader 176,000 dwt built 2009 Ji
 | **Aframax** | usd mln | 63.9 | 63.9 | -0.0% | +18.9% |
 | **MR Product** | usd mln | 41.9 | 41.9 | +0.0% | +9.7% |
 
-| Category | Date | Value |
-| --- | --- | --- |
-| Kamsarmax | Sep-22 | 35 |
-| Kamsarmax | Jan-23 | 30 |
-| Kamsarmax | May-23 | 31 |
-| Kamsarmax | Sep-23 | 31 |
-| Aframax | Sep-22 | 53 |
-| Aframax | Jan-23 | 58 |
-| Aframax | May-23 | 63 |
-| Aframax | Sep-23 | 64 |
-| MR | Sep-22 | 37 |
-| MR | Jan-23 | 40 |
-| MR | May-23 | 42 |
-| MR | Sep-23 | 42 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 37/2023
 
@@ -693,45 +429,13 @@ During the week Korean controlled Capesize West Trader 176,000 dwt built 2009 Ji
 | **Q4 23** | usd/day | 12,571 | 12,642 | -0.6% | +4.0% |
 | **Q1 24** | usd/day | 9,263 | 9,413 | -1.6% | -23.0% |
 
-## CAPESIZE FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Sep-22 | 20000 |
-| Mar-23 | 3000 |
-| Sep-23 | 19000 |
-| Mar-24 | 9000 |
-| Sep-24 | 15000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-## PANAMAX FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Sep-22 | 20000 |
-| Mar-23 | 7000 |
-| Sep-23 | 14000 |
-| Mar-24 | 12000 |
-| Sep-24 | 13000 |
-
-## SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Sep-22 | 18000 |
-| Mar-23 | 8000 |
-| Sep-23 | 14000 |
-| Mar-24 | 11000 |
-| Sep-24 | 12000 |
-
-## HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Sep-22 | 18000 |
-| Mar-23 | 7000 |
-| Sep-23 | 13000 |
-| Mar-24 | 11000 |
-| Sep-24 | 11000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -742,14 +446,7 @@ During the week Korean controlled Capesize West Trader 176,000 dwt built 2009 Ji
 | KRW/USD | 1338 | 1328 | +0.7% | -5.9% |
 | CNY/USD | 7.31 | 7.27 | +0.5% | +2.6% |
 
-## JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Sep-22 | 150 |
-| Jan-23 | 130 |
-| May-23 | 140 |
-| Sep-23 | 150 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 37/2023
 
@@ -798,12 +495,7 @@ During the week Korean controlled Capesize West Trader 176,000 dwt built 2009 Ji
 | Palm Oil Malaysia |  | usd/t | 784.5 | 796.3 | -1.5% | -2.3% |
 | Ferts Urea Middle East |  | usd/t | 425.0 | 452.5 | -6.1% | -50.0% |
 
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Sep-22 | 400 | 600 | 900 |
-| Jan-23 | 400 | 550 | 800 |
-| May-23 | 450 | 550 | 850 |
-| Sep-23 | 450 | 600 | 1100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Date | Brent | WTI |
 | --- | --- | --- |
@@ -819,26 +511,11 @@ During the week Korean controlled Capesize West Trader 176,000 dwt built 2009 Ji
 | May-23 | 2.5 |
 | Sep-23 | 2.5 |
 
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Sep-22 | 450 | 100 |
-| Jan-23 | 180 | 120 |
-| May-23 | 100 | 110 |
-| Sep-23 | 150 | 115 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | HRC | Plate |
-| --- | --- | --- |
-| Sep-22 | 4000 | 4100 |
-| Jan-23 | 4400 | 4500 |
-| May-23 | 3400 | 3800 |
-| Sep-23 | 3700 | 3900 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Sep-22 | 700 | 900 |
-| Jan-23 | 700 | 750 |
-| May-23 | 450 | 700 |
-| Sep-23 | 500 | 650 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

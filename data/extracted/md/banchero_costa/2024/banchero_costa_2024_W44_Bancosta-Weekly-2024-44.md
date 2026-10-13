@@ -31,25 +31,9 @@ In Jan-Dec 2023, shipments from South Africa to India rebounded by +39.8% y-o-y 
 | EU | 12.1 | 5.3 | 1.9 |
 | Japan | 0.7 | 2.2 | 1.7 |
 | Taiwan, CN | 1.5 | 3.2 | 1.5 |
-| Others/ Unknown |  | 7.5 | 7.2 |
-|  |  |  | 6.9 |
+| Others/Unknown | 7.5 | 7.2 | 6.9 |
 
-### S Africa - Monthly Coal Exports - Seasonality (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
-
-| Month | 2020 | 2021 | 2022 | 2023 | 2024 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 5.3 | 3.8 | 5.2 | 5.3 | 5.2 |
-| Feb | 5.6 | 5.4 | 5.7 | 4.3 | 5.1 |
-| Mar | 7.2 | 6.0 | 4.6 | 6.1 | 4.9 |
-| Apr | 3.8 | 5.9 | 5.8 | 6.0 | 6.0 |
-| May | 5.5 | 5.3 | 5.4 | 5.0 | 5.0 |
-| Jun | 6.5 | 5.1 | 5.6 | 5.9 | 5.1 |
-| Jul | 4.5 | 5.0 | 3.2 | 4.6 | 5.0 |
-| Aug | 5.9 | 5.1 | 5.5 | 4.7 | 5.2 |
-| Sep | 5.4 | 5.0 | 5.7 | 4.5 | 5.0 |
-| Oct | 6.0 | 5.9 | 5.5 | 6.0 | 5.8 |
-| Nov | 6.9 | 6.8 | 6.8 | 6.5 | 6.0 |
-| Dec | 6.2 | 5.9 | 4.8 | 6.0 | 6.0 |
+> **Chart (not transcribed):** S Africa - Monthly Coal Exports - Seasonality (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -75,23 +59,7 @@ Out of South Africa, Solebay fixed a TBN vessel to load a cargo of 170,000mt +/-
 | **Newcastlemax 1-Y Period** | usd/day | 22,800 | 22,200 | +2.7% | +6.0% |
 | **Capesize 1-Y Period** | usd/day | 19,000 | 18,500 | +2.7% | +9.8% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Nov-23 | 15000 | 18000 |
-| Dec-23 | 20000 | 55000 |
-| Jan-24 | 22000 | 30000 |
-| Feb-24 | 23000 | 32000 |
-| Mar-24 | 25000 | 33000 |
-| Apr-24 | 24000 | 31000 |
-| May-24 | 23000 | 28000 |
-| Jun-24 | 22000 | 26000 |
-| Jul-24 | 22000 | 25000 |
-| Aug-24 | 21000 | 24000 |
-| Sep-24 | 20000 | 23000 |
-| Oct-24 | 19000 | 21000 |
-| Nov-24 | 18000 | 17000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -117,23 +85,7 @@ Australia RV and NoPac RV were fixed in the low teens. The week started with a v
 | **Kamsarmax 1-Y Period** | usd/day | 13,800 | 14,000 | -1.4% | -1.4% |
 | **Panamax 1-Y Period** | usd/day | 10,800 | 11,000 | -1.8% | -9.2% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Nov-23 | 13000 | 14000 |
-| Dec-23 | 14000 | 22000 |
-| Jan-24 | 14500 | 13500 |
-| Feb-24 | 15000 | 12000 |
-| Mar-24 | 16000 | 20000 |
-| Apr-24 | 16500 | 15000 |
-| May-24 | 17000 | 16000 |
-| Jun-24 | 17500 | 15500 |
-| Jul-24 | 18000 | 16500 |
-| Aug-24 | 17500 | 16000 |
-| Sep-24 | 17000 | 15000 |
-| Oct-24 | 16000 | 13000 |
-| Nov-24 | 15000 | 11000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX & HANDYSIZE MARKET
 
@@ -185,27 +137,9 @@ Another slow week for geared tonnage also due also to the holidays. Rates for la
 | **38k Handy 1-Y Period** | usd/day | 13,300 | 13,300 | +0.0% | *+10.8%* |
 | **30k Handy 1-Y Period** | usd/day | 10,000 | 10,000 | +0.0% | *+2.0%* |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Nov-23 | 12000 | 12500 |
-| Jan-24 | 14000 | 16500 |
-| Mar-24 | 14500 | 14000 |
-| May-24 | 15000 | 15500 |
-| Jul-24 | 14800 | 14500 |
-| Nov-24 | 13500 | 13000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Nov-23 | 11500 | 11000 |
-| Jan-24 | 14000 | 16000 |
-| Mar-24 | 14500 | 14000 |
-| May-24 | 14500 | 13500 |
-| Jul-24 | 14500 | 13000 |
-| Nov-24 | 14000 | 13000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 ## 7
 
@@ -248,57 +182,15 @@ Another slow week for geared tonnage also due also to the holidays. Rates for la
 | **Aframax TCE Average** | usd/day | 32,662 | 37,661 | -13.3% | -55.0% |
 | **Aframax 1-Y Period** | usd/day | 37,500 | 38,000 | -1.3% | -8.5% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Nov-23 | 50000 |
-| Mar-24 | 70000 |
-| Jul-24 | 25000 |
-| Nov-24 | 25000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Nov-23 | 80000 |
-| Mar-24 | 40000 |
-| Jul-24 | 20000 |
-| Nov-24 | 40000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Nov-23 | 90000 |
-| Mar-24 | 30000 |
-| Jul-24 | 30000 |
-| Nov-24 | 40000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Nov-23 | 100000 |
-| Mar-24 | 20000 |
-| Jul-24 | 20000 |
-| Nov-24 | 40000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Type | Date | Value |
-| --- | --- | --- |
-| VLCC | Nov-23 | 45000 |
-| VLCC | Mar-24 | 48000 |
-| VLCC | Jul-24 | 52000 |
-| VLCC | Nov-24 | 44000 |
-| Suezmax | Nov-23 | 42000 |
-| Suezmax | Mar-24 | 44000 |
-| Suezmax | Jul-24 | 46000 |
-| Suezmax | Nov-24 | 40000 |
-| Aframax | Nov-23 | 41000 |
-| Aframax | Mar-24 | 45000 |
-| Aframax | Jul-24 | 38000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -336,24 +228,7 @@ In Cont charterers were able to pick from a long list of prompt vessels and rate
 | **Med-Med (30k)** | ws | 167.5 | 175.0 | -4.3% | -44.2% |
 | **Black Sea-Med (30k)** | ws | 175.0 | 185.0 | -5.4% | -50.0% |
 
-| Chart Title | Date | Value (usd/day) |
-| --- | --- | --- |
-| TC1 LR2 MEG-JAPAN | Nov-23 | 25000 |
-| TC1 LR2 MEG-JAPAN | Mar-24 | 100000 |
-| TC1 LR2 MEG-JAPAN | Jul-24 | 60000 |
-| TC1 LR2 MEG-JAPAN | Nov-24 | 20000 |
-| MR ATLANTIC BASKET | Nov-23 | 25000 |
-| MR ATLANTIC BASKET | Mar-24 | 60000 |
-| MR ATLANTIC BASKET | Jul-24 | 40000 |
-| MR ATLANTIC BASKET | Nov-24 | 25000 |
-| MR PACIFIC BASKET | Nov-23 | 20000 |
-| MR PACIFIC BASKET | Mar-24 | 55000 |
-| MR PACIFIC BASKET | Jul-24 | 45000 |
-| MR PACIFIC BASKET | Nov-24 | 15000 |
-| 1 YR TC PERIOD (USD/DAY) | Nov-23 | 40000 |
-| 1 YR TC PERIOD (USD/DAY) | Mar-24 | 50000 |
-| 1 YR TC PERIOD (USD/DAY) | Jul-24 | 48000 |
-| 1 YR TC PERIOD (USD/DAY) | Nov-24 | 35000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -396,12 +271,7 @@ Despite the holidays celebrated in several countries the container market remain
 | Jul-24 | 30000 | 18000 | 12000 |
 | Nov-24 | 28000 | 20000 | 13000 |
 
-| DATE | FBX |
-| --- | --- |
-| Nov-23 | 1000 |
-| Mar-24 | 3000 |
-| Jul-24 | 5500 |
-| Nov-24 | 3500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -431,14 +301,7 @@ Containerships continue dominating activity. Jiangsu Rongsheng Heavy Industries 
 | **LR2 Coated** | usd mln | 69.4 | 69.5 | -0.1% | +9.6% |
 | **MR2 Coated** | usd mln | 44.9 | 44.8 | +0.4% | +6.9% |
 
-### NEWBUILDING PRICES (USD MLN)
-
-| Date | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Nov-23 | 35 | 75 | 42 |
-| Mar-24 | 36 | 80 | 43 |
-| Jul-24 | 36 | 82 | 44 |
-| Nov-24 | 37 | 82 | 45 |
+> **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -453,14 +316,7 @@ Despite lower levels on offer across the Indian Sub-Continent, with cheap Chines
 | **Tnk India** | usd/ldt | 468.2 | 474.0 | -1.2% | -13.2% |
 | **Tnk Bangladesh** | usd/ldt | 469.2 | 474.8 | -1.2% | -6.2% |
 
-### DEMOLITION PRICES (USD/LDT)
-
-| Date | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Nov-23 | 508 | 508 |
-| Mar-24 | 520 | 525 |
-| Jul-24 | 528 | 532 |
-| Nov-24 | 465 | 468 |
+> **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 44/2024
 
@@ -507,14 +363,7 @@ After offers were invited 2 weeks ago, the Spring Bright 175,000 dwt built 2010 
 | **Aframax** | usd mln | 72.6 | 72.6 | -0.1% | +10.0% |
 | **MR Product** | usd mln | 46.9 | 47.3 | -0.7% | +10.2% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Route / Benchmark | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Nov-23 | 32 | 68 | 44 |
-| Mar-24 | 35 | 70 | 46 |
-| Jul-24 | 36 | 72 | 47 |
-| Nov-24 | 35 | 72 | 47 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 44/2024
 

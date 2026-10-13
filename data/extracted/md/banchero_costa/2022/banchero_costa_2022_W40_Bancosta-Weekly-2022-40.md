@@ -35,20 +35,7 @@ The third top destination after the EU and the UK is South Korea, which accounte
 
 ### United States - Monthly LNG Exports - Seasonality (Oct 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
 
-| Month | 2018 | 2019 | 2020 | 2021 | 2022 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 1.5 | 2.4 | 4.9 | 6.0 | 7.3 |
-| Feb | 1.5 | 1.9 | 4.8 | 4.5 | 6.2 |
-| Mar | 1.8 | 2.5 | 4.9 | 6.5 | 7.6 |
-| Apr | 1.9 | 2.8 | 3.8 | 6.4 | 7.0 |
-| May | 1.9 | 2.9 | 3.6 | 6.5 | 7.2 |
-| Jun | 1.8 | 2.9 | 2.1 | 5.4 | 6.0 |
-| Jul | 1.8 | 3.0 | 1.8 | 5.9 | 5.9 |
-| Aug | 1.7 | 2.9 | 1.9 | 5.7 | 5.8 |
-| Sep | 1.7 | 2.9 | 1.9 | 5.6 | 6.1 |
-| Oct | 2.0 | 3.1 | 2.5 | 6.2 | 6.4 |
-| Nov | 2.1 | 3.8 | 5.7 | 6.8 | 6.9 |
-| Dec | 2.4 | 4.3 | 6.0 | 7.1 | 7.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -74,19 +61,7 @@ KEPCO was heard to have fixed a Capesize to load 140,000 mt +/- 10% coal from RB
 
 ### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
 
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Oct-21 | 35000 | 85000 |
-| Jan-22 | 25000 | 25000 |
-| Feb-22 | 30000 | 15000 |
-| Mar-22 | 32000 | 35000 |
-| Apr-22 | 33000 | 20000 |
-| May-22 | 34000 | 30000 |
-| Jun-22 | 36000 | 38000 |
-| Jul-22 | 35000 | 35000 |
-| Aug-22 | 34000 | 25000 |
-| Sep-22 | 33000 | 15000 |
-| Oct-22 | 20000 | 20000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -114,21 +89,7 @@ Chinese Golden Week has been the prevailing factor affecting the Pacific market;
 
 ### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
 
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Oct-21 | 28000 | 38000 |
-| Nov-21 | 27000 | 35000 |
-| Dec-21 | 22000 | 22000 |
-| Jan-22 | 21000 | 20000 |
-| Feb-22 | 23000 | 18000 |
-| Mar-22 | 26000 | 20000 |
-| Apr-22 | 28000 | 25000 |
-| May-22 | 29000 | 28000 |
-| Jun-22 | 29000 | 30000 |
-| Jul-22 | 27000 | 28000 |
-| Aug-22 | 25000 | 22000 |
-| Sep-22 | 23000 | 12000 |
-| Oct-22 | 19000 | 19000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -202,21 +163,11 @@ Quite a stable market with a softening feeling for Supramax and Ultramax. A 61,0
 
 ### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Oct-21 | 28000 | 38000 |
-| Feb-22 | 18000 | 18000 |
-| Jun-22 | 26000 | 28000 |
-| Oct-22 | 14000 | 18000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
 
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Oct-21 | 26000 | 36000 |
-| Feb-22 | 18000 | 18000 |
-| Jun-22 | 26000 | 28000 |
-| Oct-22 | 16000 | 18000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -365,12 +316,7 @@ The Russian BSea market was still active with several owners looking for cargoes
 
 ### 1 YR TC PERIOD (USD/DAY)
 
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Oct-21 | 16,000 | 14,000 |
-| Feb-22 | 18,000 | 15,000 |
-| Jun-22 | 25,000 | 20,000 |
-| Oct-22 | 35,000 | 26,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -398,19 +344,11 @@ From historic highs just a year ago container freight spot rates have been falli
 
 ### GEARLESS - 1 YR TC PERIOD (USD/DAY)
 
-| Benchmark | Oct-21 | Feb-22 | Jun-22 | Oct-22 |
-| --- | --- | --- | --- | --- |
-| 4250 | 90,000 | 110,000 | 110,000 | 30,000 |
-| 3500 | 85,000 | 85,000 | 90,000 | 35,000 |
-| 2700 | 75,000 | 75,000 | 80,000 | 30,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### GEARED - 1 YR TC PERIOD (USD/DAY)
 
-| Benchmark | Oct-21 | Feb-22 | Jun-22 | Oct-22 |
-| --- | --- | --- | --- | --- |
-| 2500 | 70,000 | 80,000 | 80,000 | 35,000 |
-| 1700 | 45,000 | 65,000 | 65,000 | 25,000 |
-| 1100 | 30,000 | 30,000 | 30,000 | 20,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -430,16 +368,11 @@ From historic highs just a year ago container freight spot rates have been falli
 
 ### FREIGHTOS BALTIC CONTAINER INDEX
 
-| Benchmark | Oct-21 | Feb-22 | Jun-22 | Oct-22 |
-| --- | --- | --- | --- | --- |
-| FBX | 10,000 | 9,500 | 8,000 | 3,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### FREIGHTOS BALTIC CONTAINER INDEX
 
-| Benchmark | Oct-21 | Feb-22 | Jun-22 | Oct-22 |
-| --- | --- | --- | --- | --- |
-| China - N. Europe | 15,000 | 14,000 | 11,000 | 7,000 |
-| N. Europe - China | 1,000 | 500 | 200 | 100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 40/2022
 
@@ -462,12 +395,7 @@ Knutsen OAS Shipping placed an order for 9 x VLGC around 170,000 cbm at Hyundai 
 
 ### NEWBUILDING PRICES (USD MLN)
 
-| Date | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Oct-21 | 35 | 65 | 38 |
-| Feb-22 | 36 | 66 | 38 |
-| Jun-22 | 37 | 67 | 39 |
-| Oct-22 | 36 | 68 | 39 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -486,12 +414,7 @@ Prices remain at or just below the USD 600/LDT threshold. Mathu Bhum (Cont), 15,
 
 ### DEMOLITION PRICES (USD/LDT)
 
-| Date | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Oct-21 | 590 | 595 |
-| Feb-22 | 600 | 650 |
-| Jun-22 | 570 | 680 |
-| Oct-22 | 590 | 595 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 40/2022
 
@@ -570,16 +493,7 @@ VLCC **PRINCESS MARY** 306,200 dwt blt 2004 Mitsubishi (BWTS fitted) is sold in 
 
 **CAPESIZE FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 85000 |
-| Jan-22 | 15000 |
-| Apr-22 | 25000 |
-| Jul-22 | 5000 |
-| Oct-22 | 20000 |
-| Jan-23 | 15000 |
-| Apr-23 | 18000 |
-| Oct-23 | 22000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -596,16 +510,7 @@ VLCC **PRINCESS MARY** 306,200 dwt blt 2004 Mitsubishi (BWTS fitted) is sold in 
 
 **PANAMAX FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 38000 |
-| Jan-22 | 18000 |
-| Apr-22 | 28000 |
-| Jul-22 | 12000 |
-| Oct-22 | 18000 |
-| Jan-23 | 14000 |
-| Apr-23 | 15000 |
-| Oct-23 | 15000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## SUPRAMAX (58k)
 
@@ -622,16 +527,7 @@ VLCC **PRINCESS MARY** 306,200 dwt blt 2004 Mitsubishi (BWTS fitted) is sold in 
 
 **SUPRAMAX FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 38000 |
-| Jan-22 | 18000 |
-| Apr-22 | 32000 |
-| Jul-22 | 16000 |
-| Oct-22 | 16000 |
-| Jan-23 | 14000 |
-| Apr-23 | 14000 |
-| Oct-23 | 14000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -670,16 +566,7 @@ VLCC **PRINCESS MARY** 306,200 dwt blt 2004 Mitsubishi (BWTS fitted) is sold in 
 
 **JPY/USD EXCHANGE RATE**
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 110 |
-| Jan-22 | 115 |
-| Feb-22 | 120 |
-| Mar-22 | 125 |
-| Apr-22 | 135 |
-| May-22 | 140 |
-| Jun-22 | 145 |
-| Oct-22 | 148 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ■ RESEARCH
 
@@ -742,47 +629,17 @@ VLCC **PRINCESS MARY** 306,200 dwt blt 2004 Mitsubishi (BWTS fitted) is sold in 
 | AGRICULTURAL | Palm Oil Malaysia | usd/t | 773.8 | 718.0 | +7.8% | -31.9% |
 | AGRICULTURAL | Ferts Urea Middle East | usd/t | 730.0 | 767.5 | -4.9% | +19.2% |
 
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Oct-21 | 600 | 700 | 700 |
-| Feb-22 | 1000 | 1000 | 1300 |
-| Jun-22 | 500 | 1100 | 1500 |
-| Oct-22 | 400 | 800 | 1100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Oct-21 | 80 | 75 |
-| Feb-22 | 110 | 115 |
-| Jun-22 | 120 | 120 |
-| Oct-22 | 90 | 90 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Oct-21 | 5.0 |
-| Feb-22 | 4.0 |
-| Jun-22 | 8.0 |
-| Oct-22 | 6.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Oct-21 | 200 | 100 |
-| Feb-22 | 300 | 120 |
-| Jun-22 | 400 | 120 |
-| Oct-22 | 450 | 100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Rebar | Plate |
-| --- | --- | --- |
-| Oct-21 | 5500 | 5800 |
-| Feb-22 | 5000 | 5000 |
-| Jun-22 | 4000 | 4500 |
-| Oct-22 | 3800 | 4200 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Oct-21 | 600 | 750 |
-| Feb-22 | 650 | 1300 |
-| Jun-22 | 600 | 900 |
-| Oct-22 | 700 | 900 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

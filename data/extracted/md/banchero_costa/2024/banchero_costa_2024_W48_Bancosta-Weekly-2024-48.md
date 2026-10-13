@@ -20,35 +20,9 @@ This was also well below the 87.7 mln tonnes imported in 2019 or the 98.2 mln t 
 
 When it comes to the sources of the shipments, Brazil has now lost its top spot to Canada. Canada was the overall top supplier of iron ore to the European Union in Jan-Oct 2024, accounting for 35.1% of the EU's total imports last year. Shipments from Canada to the EU increased by +14.9% y-o-y in Jan-Oct 2024 to 21.6 mln tonnes, from 18.8 mln t in Jan-Oct 2023. Shipments from Brazil to the EU, on the other hand, declined in Jan-Oct 2024 by -4.0% y-o-y to 14.3 mln tonnes. Brazil accounted for 23.2% of the EU's ore imports in Jan-Oct 2024.
 
-### EU - Iron Ore Imports by Source in Jan-Oct (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+> **Chart (not transcribed):** EU - Iron Ore Imports by Source in Jan-Oct (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 
-| Source | 2022 (1-10) | 2023 (1-10) | 2024 (1-10) |  |
-| --- | --- | --- | --- | --- |
-| Canada | 18.0 | 18.8 | 21.6 |  |
-| Brazil | 17.7 | 14.5 | 14.3 |  |
-| S Africa | 11.2 | 9.9 | 9.1 |  |
-| Norway | 8.2 | 7.8 | 7.3 |  |
-| EU | 3.1 | 2.2 | 3.6 |  |
-| Liberia | 2.9 | 2.7 | 1.7 |  |
-| Mauritania | 2.3 | 1.7 | 1.4 |  |
-| Others/ Unknown |  | 4.4 | 2.3 | 2.7 |
-
-### EU - Monthly Iron Ore Imports - Seasonality (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
-
-| Month | 2020 | 2021 | 2022 | 2023 | 2024 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 5.4 | 6.5 | 5.9 | 5.5 | 4.8 |
-| Feb | 5.8 | 6.0 | 5.8 | 5.4 | 4.5 |
-| Mar | 6.9 | 7.7 | 7.4 | 6.5 | 7.6 |
-| Apr | 6.2 | 6.8 | 6.6 | 6.2 | 6.7 |
-| May | 7.0 | 7.8 | 7.8 | 6.5 | 7.4 |
-| Jun | 3.5 | 6.5 | 6.6 | 4.9 | 5.4 |
-| Jul | 5.0 | 6.4 | 6.5 | 6.4 | 5.3 |
-| Aug | 5.8 | 8.3 | 6.7 | 6.6 | 8.3 |
-| Sep | 5.9 | 8.2 | 6.8 | 7.0 | 7.1 |
-| Oct | 6.0 | 7.2 | 6.7 | 7.3 | 7.2 |
-| Nov | 5.6 | 6.0 | 5.7 | 5.6 | 5.5 |
-| Dec | 5.9 | 7.3 | 5.8 | 5.8 | 7.3 |
+> **Chart (not transcribed):** EU - Monthly Iron Ore Imports - Seasonality (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -74,12 +48,7 @@ Out of South Africa, Solebay fixed the MV Mount Anosha (169,103 dwt | 2009 built
 | **Newcastlemax 1-Y Period** | usd/day | 24,000 | 24,000 | +0.0% | +11.1% |
 | **Capesize 1-Y Period** | usd/day | 20,000 | 20,000 | +0.0% | +11.1% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Nov-24 | 10,000 |
-| --- | --- |
-| 1-YR TC | Blue line |
-| BCI TC | Red line |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -105,14 +74,7 @@ Weaker coal and minerals demand, particularly from China, affected rates negativ
 | **Kamsarmax 1-Y Period** | usd/day | 13,300 | 13,500 | -1.5% | -14.2% |
 | **Panamax 1-Y Period** | usd/day | 10,500 | 10,500 | +0.0% | -22.2% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Nov-23 | 16000 | 21000 |
-| Mar-24 | 18000 | 19000 |
-| Jul-24 | 14000 | 12000 |
-| Nov-24 | 13500 | 9500 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -164,27 +126,9 @@ Handy rates kept facing downward pressure. In Pacific the number of cargoes was 
 | **38k Handy 1-Y Period** | usd/day | 12,000 | 12,500 | -4.0% | +0.0% |
 | **30k Handy 1-Y Period** | usd/day | 9,500 | 9,500 | +0.0% | -3.1% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Nov-23 | 14000 | 16500 |
-| Jan-24 | 11000 | 11000 |
-| Mar-24 | 14500 | 15000 |
-| May-24 | 14000 | 14500 |
-| Jul-24 | 14000 | 14000 |
-| Nov-24 | 11000 | 10500 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Nov-23 | 13000 | 14000 |
-| Jan-24 | 10000 | 10000 |
-| Mar-24 | 14000 | 13000 |
-| May-24 | 13500 | 13000 |
-| Jul-24 | 13000 | 13000 |
-| Nov-24 | 12500 | 12000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -225,50 +169,15 @@ Handy rates kept facing downward pressure. In Pacific the number of cargoes was 
 | **Aframax TCE Average** | usd/day | 25,278 | 27,171 | -7.0% | -40.5% |
 | **Aframax 1-Y Period** | usd/day | 38,000 | 37,500 | +1.3% | -14.6% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Nov-23 | 40000 |
-| Mar-24 | 70000 |
-| Jul-24 | 30000 |
-| Nov-24 | 30000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Nov-23 | 60000 |
-| Mar-24 | 40000 |
-| Jul-24 | 20000 |
-| Nov-24 | 30000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Nov-23 | 70000 |
-| Mar-24 | 30000 |
-| Jul-24 | 25000 |
-| Nov-24 | 30000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Nov-23 | 40000 |
-| Mar-24 | 80000 |
-| Jul-24 | 20000 |
-| Nov-24 | 40000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Nov-23 | 46000 | 44000 | 44000 |
-| Mar-24 | 48000 | 42000 | 40000 |
-| Jul-24 | 50000 | 40000 | 36000 |
-| Nov-24 | 42000 | 38000 | 37000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -370,26 +279,11 @@ The lack of prompt tonnage is keeping the market stable with rate increasing in 
 | **1700 teu (1Y, geared)** | usd/day | 21,127 | 20,900 | +1.1% | +125.5% |
 | **1100 teu (1Y, geared)** | usd/day | 14,052 | 13,980 | +0.5% | +82.9% |
 
-| DATE | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Nov-23 | 15000 | 14000 | 10000 |
-| Mar-24 | 25000 | 24000 | 20000 |
-| Jul-24 | 45000 | 38000 | 32000 |
-| Nov-24 | 52000 | 42000 | 35000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Nov-23 | 10000 | 8000 | 6000 |
-| Mar-24 | 18000 | 14000 | 10000 |
-| Jul-24 | 30000 | 22000 | 14000 |
-| Nov-24 | 29000 | 20000 | 13000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | FBX |
-| --- | --- |
-| Nov-23 | 1000 |
-| Mar-24 | 2500 |
-| Jul-24 | 5500 |
-| Nov-24 | 3500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -428,14 +322,7 @@ Vertom Scheepvaart returned to India, placing an order at Chowgule Shipbuilding 
 | **LR2 Coated** | usd mln | 69.8 | 69.4 | +0.6% | +10.1% |
 | **MR2 Coated** | usd mln | 44.8 | 44.9 | -0.3% | +6.5% |
 
-### NEWBUILDING PRICES (USD MLN)
-
-| Date | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Nov-23 | 35 | 76 | 43 |
-| Mar-24 | 36 | 80 | 44 |
-| Jul-24 | 37 | 81 | 45 |
-| Nov-24 | 37 | 81 | 45 |
+> **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -450,14 +337,7 @@ Another lacklustre week across the Indian sub-continent demolition market, where
 | **Tnk India** | usd/ldt | 473.1 | 472.6 | +0.1% | -10.6% |
 | **Tnk Bangladesh** | usd/ldt | 483.2 | 481.4 | +0.4% | -3.5% |
 
-### DEMOLITION PRICES (USD/LDT)
-
-| Date | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Nov-23 | 500 | 505 |
-| Mar-24 | 530 | 535 |
-| Jul-24 | 535 | 540 |
-| Nov-24 | 465 | 468 |
+> **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 48/2024
 
@@ -565,12 +445,7 @@ Soft week in the second hand market, with few sales reported for dry bulkers, ma
 | KRW/USD | 1395 | 1402 | -0.6% | +7.0% |
 | CNY/USD | 7.24 | 7.25 | -0.0% | +1.3% |
 
-| Date | Value |
-| --- | --- |
-| Nov-23 | 145 |
-| Mar-24 | 155 |
-| Jul-24 | 145 |
-| Nov-24 | 150 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 48/2024
 
@@ -626,56 +501,14 @@ Soft week in the second hand market, with few sales reported for dry bulkers, ma
 | **Palm Oil Malaysia** | usd/t | 1168.5 | 1073.0 | +8.9% | +44.7% |
 | **Ferts Urea Middle East** | usd/t | 345.5 | 345.5 | +0.0% | -18.2% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
-| BUNKER PRICES @ SINGAPORE (USD/T) | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Nov-23 | 480 | 580 | 780 |
-| Mar-24 | 460 | 560 | 760 |
-| Jul-24 | 440 | 540 | 740 |
-| Nov-24 | 450 | 550 | 750 |
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
-| BRENT & WTI OIL PRICE (USD/BBL) | Brent | WTI |
-| --- | --- | --- |
-| Nov-23 | 75 | 70 |
-| Mar-24 | 88 | 88 |
-| Jul-24 | 72 | 68 |
-| Nov-24 | 74 | 68 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
-### HENRY HUB PRICE (USD/MMBTU)
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
-| HENRY HUB PRICE (USD/MMBTU) | Henry Hub Nat Gas |
-| --- | --- |
-| Nov-23 | 2.8 |
-| Mar-24 | 1.6 |
-| Jul-24 | 2.0 |
-| Nov-24 | 3.4 |
-
-### COAL & IRON ORE PRICE (USD/T)
-
-| COAL & IRON ORE PRICE (USD/T) | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Nov-23 | 150 | 135 |
-| Mar-24 | 140 | 110 |
-| Jul-24 | 145 | 105 |
-| Nov-24 | 140 | 105 |
-
-### STEEL PRICES IN CHINA (RMB/T)
-
-| STEEL PRICES IN CHINA (RMB/T) | HRC | Plate |
-| --- | --- | --- |
-| Nov-23 | 4000 | 4000 |
-| Mar-24 | 3400 | 3400 |
-| Jul-24 | 2900 | 2900 |
-| Nov-24 | 3400 | 3450 |
-
-### WHEAT & CORN PRICES (USD/T)
-
-| WHEAT & CORN PRICES (USD/T) | Corn | Wheat |
-| --- | --- | --- |
-| Nov-23 | 480 | 580 |
-| Mar-24 | 400 | 680 |
-| Jul-24 | 380 | 500 |
-| Nov-24 | 420 | 550 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.

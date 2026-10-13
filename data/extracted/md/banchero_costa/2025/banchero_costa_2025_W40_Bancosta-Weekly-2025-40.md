@@ -31,24 +31,9 @@ The EU now accounts for just 9.8% of Qatari LNG shipments. The second top destin
 | S Korea | 6.8 | 6.6 | 5.2 |
 | Pakistan | 4.6 | 4.9 | 4.9 |
 | ASEAN | 3.3 | 3.4 | 4.5 |
-| Others/ Unknown | 11.4 | 11.0 | 12.2 |
+| Others/Unknown | 11.4 | 11.0 | 12.2 |
 
-### Qatar - Monthly LNG Exports - Seasonality (oct 2025 ; source: LSEG ; seaborne only ; in mln tonnes ; all tankers)
-
-| Month | 2021 | 2022 | 2023 | 2024 | 2025 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 7.1 | 7.0 | 6.9 | 7.2 | 7.5 |
-| Feb | 6.6 | 5.5 | 6.7 | 6.2 | 6.8 |
-| Mar | 6.8 | 7.3 | 6.5 | 6.9 | 7.2 |
-| Apr | 6.4 | 6.2 | 7.3 | 6.3 | 6.2 |
-| May | 5.9 | 6.0 | 6.8 | 5.8 | 6.3 |
-| Jun | 6.3 | 6.6 | 6.9 | 6.7 | 6.6 |
-| Jul | 6.4 | 6.8 | 6.9 | 6.8 | 6.7 |
-| Aug | 6.3 | 6.5 | 6.5 | 6.6 | 6.5 |
-| Sep | 6.5 | 6.4 | 6.5 | 6.5 | 6.4 |
-| Oct | 5.6 | 5.8 | 5.6 | 5.7 | 5.6 |
-| Nov | 6.4 | 6.8 | 6.7 | 6.6 | 6.7 |
-| Dec | 6.5 | 6.9 | 6.9 | 6.6 | 6.9 |
+> **Chart (not transcribed):** Qatar - Monthly LNG Exports - Seasonality (oct 2025 ; source: LSEG ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 
 # NEWS
 # COMMODITY NEWS – DRY BULK
@@ -151,21 +136,7 @@ The Tubarao to Qingdao route softened gradually. Starting at USD 25.80/wmt on 29
 | **Newcastlemax 1-Y Period** | usd/day | 27,200 | 27,400 | -0.7% | -14.5% |
 | **Capesize 1-Y Period** | usd/day | 24,300 | 24,500 | -0.8% | -8.3% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Oct-24 | 25000 | 28000 |
-| Jan-25 | 18000 | 15000 |
-| Feb-25 | 19000 | 8000 |
-| Mar-25 | 21000 | 18000 |
-| Apr-25 | 20000 | 22000 |
-| May-25 | 22000 | 25000 |
-| Jun-25 | 23000 | 30000 |
-| Jul-25 | 24000 | 32000 |
-| Aug-25 | 25000 | 31000 |
-| Sep-25 | 26000 | 29000 |
-| Oct-25 | 27000 | 28000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -193,14 +164,7 @@ A 82k dwt open in CJK built in 2024 was reported fixed at $14,700 for a trip via
 | **Kamsarmax 1-Y Period** | usd/day | 14,000 | 14,300 | -2.1% | -8.5% |
 | **Panamax 1-Y Period** | usd/day | 12,500 | 12,800 | -2.3% | +0.0% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Oct-24 | 15000 | 13000 |
-| Feb-25 | 11000 | 7000 |
-| Jun-25 | 13000 | 10000 |
-| Oct-25 | 14000 | 16000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX & HANDYSIZE MARKET
 
@@ -258,23 +222,9 @@ The Asian market remained very quiet due to the Chinese Golden Week holiday, wit
 | **38k Handy 1-Y Period** | usd/day | 13,300 | 13,300 | +0.0% | -1.5% |
 | **30k Handy 1-Y Period** | usd/day | 9,300 | 9,300 | +0.0% | -7.0% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Oct-24 | 14000 | 14500 |
-| Feb-25 | 11000 | 5500 |
-| Jun-25 | 11500 | 10000 |
-| Oct-25 | 13500 | 16500 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Oct-24 | 14000 | 13000 |
-| Feb-25 | 11000 | 6000 |
-| Jun-25 | 12000 | 10000 |
-| Oct-25 | 13500 | 16000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -315,58 +265,15 @@ The **VLCC** market weakened further to below WS 80 for both 270kt AG/China and 
 | **Aframax TCE Average** | usd/day | 37,625 | 38,289 | -1.7% | -11.4% |
 | **Aframax 1-Y Period** | usd/day | 32,250 | 32,250 | +0.0% | -9.2% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-24 | 30,000 |
-| Feb-25 | 50,000 |
-| Jun-25 | 70,000 |
-| Oct-25 | 95,000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-24 | 30,000 |
-| Feb-25 | 20,000 |
-| Jun-25 | 40,000 |
-| Oct-25 | 75,000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-24 | 30,000 |
-| Feb-25 | 20,000 |
-| Jun-25 | 35,000 |
-| Oct-25 | 45,000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-24 | 50,000 |
-| Feb-25 | 20,000 |
-| Jun-25 | 35,000 |
-| Oct-25 | 38,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Date | Value |
-| --- | --- | --- |
-| VLCC | Oct-24 | 45,000 |
-| VLCC | Feb-25 | 48,000 |
-| VLCC | Jun-25 | 42,000 |
-| VLCC | Oct-25 | 48,000 |
-| Suezmax | Oct-24 | 38,000 |
-| Suezmax | Feb-25 | 35,000 |
-| Suezmax | Jun-25 | 30,000 |
-| Suezmax | Oct-25 | 38,000 |
-| Aframax | Oct-24 | 36,000 |
-| Aframax | Feb-25 | 28,000 |
-| Aframax | Jun-25 | 28,000 |
-| Aframax | Oct-25 | 32,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -404,77 +311,13 @@ Handies cross Med: HDY's cross-Med had little to be excited about last week, as 
 | **TD18-TCE Baltic-UKC (30K)** | usd/day | 27,890 | 26,798 | +4.1% | +37.1% |
 | **Med-Med (30k)** | ws | 210.0 | 190.0 | +10.5% | +23.5% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-24 | 25000 |
-| Nov-24 | 20000 |
-| Dec-24 | 35000 |
-| Jan-25 | 30000 |
-| Feb-25 | 40000 |
-| Mar-25 | 35000 |
-| Apr-25 | 30000 |
-| May-25 | 45000 |
-| Jun-25 | 55000 |
-| Jul-25 | 35000 |
-| Aug-25 | 30000 |
-| Sep-25 | 25000 |
-| Oct-25 | 25000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-24 | 25000 |
-| Nov-24 | 30000 |
-| Dec-24 | 35000 |
-| Jan-25 | 40000 |
-| Feb-25 | 35000 |
-| Mar-25 | 45000 |
-| Apr-25 | 30000 |
-| May-25 | 25000 |
-| Jun-25 | 40000 |
-| Jul-25 | 35000 |
-| Aug-25 | 45000 |
-| Sep-25 | 35000 |
-| Oct-25 | 35000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Oct-24 | 18000 |
-| Nov-24 | 12000 |
-| Dec-24 | 18000 |
-| Jan-25 | 20000 |
-| Feb-25 | 22000 |
-| Mar-25 | 20000 |
-| Apr-25 | 25000 |
-| May-25 | 22000 |
-| Jun-25 | 38000 |
-| Jul-25 | 30000 |
-| Aug-25 | 25000 |
-| Sep-25 | 22000 |
-| Oct-25 | 18000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Oct-24 | 37000 | 25000 |
-| Nov-24 | 35000 | 23000 |
-| Dec-24 | 30000 | 20000 |
-| Jan-25 | 28000 | 19000 |
-| Feb-25 | 27000 | 18000 |
-| Mar-25 | 27000 | 18000 |
-| Apr-25 | 27000 | 18000 |
-| May-25 | 27000 | 18000 |
-| Jun-25 | 27000 | 18000 |
-| Jul-25 | 28000 | 19000 |
-| Aug-25 | 30000 | 19000 |
-| Sep-25 | 31000 | 19000 |
-| Oct-25 | 31000 | 19000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -502,27 +345,11 @@ Charter rates remain strong even as freight rates drop, highlighting a growing m
 | **1700 teu (1Y, geared)** | usd/day | 26,350 | 26,477 | -0.5% | +35.5% |
 | **1100 teu (1Y, geared)** | usd/day | 16,525 | 16,634 | -0.7% | +23.9% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Oct-24 | Feb-25 | Jun-25 | Oct-25 |
-| --- | --- | --- | --- |
-| 4250 | 45000 | 45000 | 46000 |
-| 3500 | 38000 | 39000 | 39000 |
-| 2700 | 32000 | 33000 | 34000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Oct-24 | Feb-25 | Jun-25 | Oct-25 |
-| --- | --- | --- | --- |
-| 2500 | 28000 | 32000 | 34000 |
-| 1700 | 18000 | 24000 | 26000 |
-| 1100 | 14000 | 16000 | 17000 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Oct-24 | Feb-25 | Jun-25 | Oct-25 |
-| --- | --- | --- | --- |
-| FBX | 4500 | 4000 | 2000 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -533,11 +360,7 @@ Charter rates remain strong even as freight rates drop, highlighting a growing m
 | **China - WCNA** | usd/feu | 1,554 | 1,853 | -16.1% | -77.2% |
 | **China - N. Europe** | usd/feu | 1,925 | 2,115 | -9.0% | -62.1% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Oct-24 | Feb-25 | Jun-25 | Oct-25 |
-| --- | --- | --- | --- |
-| China - N. Europe | 5000 | 5500 | 2500 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 40/2025
 
@@ -583,10 +406,7 @@ Once again, there is little to celebrate this week when looking across the India
 | **Tnk India** | usd/ldt | 430.1 | 429.0 | +0.2% | -10.2% |
 | **Tnk Bangladesh** | usd/ldt | 419.6 | 412.5 | +1.7% | -14.1% |
 
-| Category | Oct-24 | Feb-25 | Jun-25 | Oct-25 |
-| --- | --- | --- | --- | --- |
-| Dry Bulk | 470 | 460 | 410 | 420 |
-| Tanker | 480 | 465 | 400 | 425 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 40/2025
 
@@ -630,13 +450,7 @@ Korean interests were behind the purchase of HDY tanker Silver Ray 19.8k dwt 201
 | **Aframax** | usd mln | 63.4 | 63.3 | +0.2% | -12.8% |
 | **MR Product** | usd mln | 41.4 | 41.2 | +0.4% | -11.6% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| SECONDHAND VALUES (USD MLN) | Oct-24 | Feb-25 | Jun-25 | Oct-25 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 35 | 34 | 33 | 34 |
-| Aframax | 72 | 68 | 62 | 63 |
-| MR | 46 | 44 | 40 | 39 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 40/2025
 
@@ -655,16 +469,7 @@ Korean interests were behind the purchase of HDY tanker Silver Ray 19.8k dwt 201
 | **Q3 26** | usd/day | 25,354 | 25,196 | +0.6% | +8.1% |
 | **Q4 26** | usd/day | 25,639 | 25,482 | +0.6% | +9.3% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-24 | 26000 |
-| Jan-25 | 8000 |
-| Apr-25 | 30000 |
-| Oct-25 | 26000 |
-| Apr-26 | 15000 |
-| Oct-26 | 26000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -679,15 +484,7 @@ Korean interests were behind the purchase of HDY tanker Silver Ray 19.8k dwt 201
 | **Q3 26** | usd/day | 13,684 | 13,659 | +0.2% | -8.1% |
 | **Q4 26** | usd/day | 13,159 | 13,105 | +0.4% | -11.6% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-24 | 12000 |
-| Apr-25 | 10000 |
-| Oct-25 | 16000 |
-| Apr-26 | 13000 |
-| Oct-26 | 13000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (63k)
 
@@ -702,15 +499,7 @@ Korean interests were behind the purchase of HDY tanker Silver Ray 19.8k dwt 201
 | **Q3 26** | usd/day | 14,827 | 14,755 | +0.5% | -18.7% |
 | **Q4 26** | usd/day | 14,523 | 14,473 | +0.3% | -20.4% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-24 | 16000 |
-| Apr-25 | 8000 |
-| Oct-25 | 18000 |
-| Apr-26 | 13000 |
-| Oct-26 | 14000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -725,15 +514,7 @@ Korean interests were behind the purchase of HDY tanker Silver Ray 19.8k dwt 201
 | **Q3 26** | usd/day | 11,905 | 11,905 | +0.0% | -23.7% |
 | **Q4 26** | usd/day | 11,560 | 11,560 | +0.0% | -25.9% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-24 | 14000 |
-| Apr-25 | 5000 |
-| Oct-25 | 16000 |
-| Apr-26 | 11000 |
-| Oct-26 | 12000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -746,14 +527,7 @@ Korean interests were behind the purchase of HDY tanker Silver Ray 19.8k dwt 201
 | **KRW/USD** | 1407 | 1409 | -0.1% | +7.6% |
 | **CNY/USD** | 7.12 | 7.13 | -0.2% | +1.5% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Oct-24 | 142 |
-| Feb-25 | 158 |
-| Jun-25 | 140 |
-| Oct-25 | 148 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 40/2025
 
@@ -809,57 +583,15 @@ Korean interests were behind the purchase of HDY tanker Silver Ray 19.8k dwt 201
 | Palm Oil Malaysia | usd/t | 1045.5 | 1023.8 | +2.1% | +3.6% |
 | Ferts Urea Middle East | usd/t | 345.5 | 345.5 | +0.0% | +0.0% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Oct-24 | 470 | 590 | 680 |
-| Feb-25 | 460 | 580 | 720 |
-| Jun-25 | 420 | 520 | 600 |
-| Oct-25 | 400 | 480 | 660 |
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Oct-24 | 75 | 72 |
-| Feb-25 | 80 | 78 |
-| Jun-25 | 65 | 58 |
-| Oct-25 | 68 | 62 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
-### HENRY HUB PRICE (USD/MMBTU)
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Oct-24 | 2.5 |
-| Feb-25 | 4.2 |
-| Jun-25 | 3.0 |
-| Oct-25 | 3.2 |
-
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Oct-24 | 145 | 105 |
-| Feb-25 | 90 | 100 |
-| Jun-25 | 105 | 102 |
-| Oct-25 | 108 | 106 |
-
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | HRC | Plate |
-| --- | --- | --- |
-| Oct-24 | 3350 | 3400 |
-| Feb-25 | 3200 | 3300 |
-| Jun-25 | 2950 | 3100 |
-| Oct-25 | 3000 | 3380 |
-
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Oct-24 | 400 | 580 |
-| Feb-25 | 480 | 590 |
-| Jun-25 | 380 | 520 |
-| Oct-25 | 410 | 510 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.
 

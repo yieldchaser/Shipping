@@ -25,28 +25,13 @@ In Jan-Apr 2026, Russia overtook Saudi Arabia as the single largest exporter to 
 | AG | 83.5 | 76.4 | 56.0 |
 | S America | 16.5 | 14.7 | 24.1 |
 | Russia | 18.5 | 14.0 | 20.9 |
-| ASEAN | 18.7 | 19.4 | 19.6 |
-| W Africa | 17.4 | 16.4 | 15.8 |
+| ASEAN | 18.7 | 19.0 | 19.6 |
+| W Africa | 17.6 | 16.6 | 15.8 |
 | S Korea | 1.3 | 0.9 | 6.6 |
 | HK, CN | 0.1 | 2.2 | 5.7 |
-| Others/ Unknown | 13.6 | 16.7 | 12.7 |
+| Others/Unknown | 13.0 | 16.2 | 12.7 |
 
-### China - Monthly Crude Oil Imports - Seasonality (may 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
-
-| Month | 2022 | 2023 | 2024 | 2025 | 2026 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 37.0 | 35.5 | 36.0 | 37.5 | 44.0 |
-| Feb | 29.0 | 43.0 | 42.0 | 37.0 | 44.5 |
-| Mar | 43.5 | 45.0 | 44.0 | 43.0 | 44.0 |
-| Apr | 44.0 | 46.0 | 43.5 | 31.0 | 30.0 |
-| May | 42.0 | 44.0 | 43.0 | 43.5 | 44.0 |
-| Jun | 40.0 | 44.5 | 42.0 | 43.0 | 45.0 |
-| Jul | 32.0 | 45.0 | 39.0 | 42.0 | 44.5 |
-| Aug | 32.0 | 44.0 | 40.0 | 40.0 | 44.0 |
-| Sep | 38.0 | 44.0 | 41.0 | 41.0 | 44.5 |
-| Oct | 40.0 | 45.0 | 42.0 | 43.0 | 46.0 |
-| Nov | 43.0 | 45.5 | 43.5 | 45.0 | 48.0 |
-| Dec | 45.0 | 45.0 | 44.0 | 47.0 | 49.0 |
+> **Chart (not transcribed):** China - Monthly Crude Oil Imports - Seasonality (may 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 
 # NEWS
 # COMMODITY NEWS – DRY BULK
@@ -151,22 +136,7 @@ The route was assessed at USD 15.25/wmt, up USD 0.60/wmt. In the Atlantic, the T
 | **Newcastlemax 1-Y Period** | usd/day | 39,000 | 39,800 | -2.0% | +54.8% |
 | **Capesize 1-Y Period** | usd/day | 34,500 | 35,500 | -2.8% | +64.3% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| May-25 | 20000 | 15000 |
-| Jun-25 | 25000 | 30000 |
-| Jul-25 | 22000 | 25000 |
-| Aug-25 | 28000 | 35000 |
-| Sep-25 | 30000 | 32000 |
-| Oct-25 | 26000 | 42000 |
-| Nov-25 | 24000 | 20000 |
-| Dec-25 | 28000 | 22000 |
-| Jan-26 | 30000 | 25000 |
-| Feb-26 | 32000 | 38000 |
-| Mar-26 | 35000 | 40000 |
-| May-26 | 36000 | 42000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -196,22 +166,7 @@ Period and long-haul business remained active, with low-to-mid USD 30,000s/day r
 | **Kamsarmax 1-Y Period** | usd/day | 18,800 | 18,800 | +0.0% | +39.3% |
 | **Panamax 1-Y Period** | usd/day | 17,800 | 17,800 | +0.0% | +69.5% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| May-25 | 10000 | 9000 |
-| Jun-25 | 12000 | 14000 |
-| Jul-25 | 13000 | 15000 |
-| Aug-25 | 14000 | 16000 |
-| Sep-25 | 14500 | 16500 |
-| Oct-25 | 14000 | 15500 |
-| Nov-25 | 13500 | 14000 |
-| Dec-25 | 15000 | 17000 |
-| Jan-26 | 16000 | 18000 |
-| Feb-26 | 17000 | 19000 |
-| Mar-26 | 18000 | 20000 |
-| May-26 | 19000 | 22000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -269,39 +224,9 @@ The Supramax and Ultramax market closed the week quietly with few fixtures repor
 | **38k Handy 1-Y Period** | usd/day | 15,000 | 15,000 | +0.0% | +30.4% |
 | **30k Handy 1-Y Period** | usd/day | 11,000 | 11,000 | +0.0% | +25.0% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| May-25 | 10000 | 10000 |
-| Jun-25 | 11000 | 12000 |
-| Jul-25 | 12000 | 14000 |
-| Aug-25 | 13000 | 15000 |
-| Sep-25 | 15000 | 16000 |
-| Oct-25 | 14000 | 15000 |
-| Nov-25 | 13000 | 14000 |
-| Dec-25 | 11000 | 10000 |
-| Jan-26 | 12000 | 11000 |
-| Feb-26 | 14000 | 15000 |
-| Mar-26 | 15000 | 17000 |
-| May-26 | 16000 | 18000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| May-25 | 10000 | 10000 |
-| Jun-25 | 11000 | 12000 |
-| Jul-25 | 12000 | 14000 |
-| Aug-25 | 13000 | 15000 |
-| Sep-25 | 14000 | 16000 |
-| Oct-25 | 13000 | 14000 |
-| Nov-25 | 12000 | 11000 |
-| Dec-25 | 13000 | 12000 |
-| Jan-26 | 14000 | 13000 |
-| Feb-26 | 15000 | 15000 |
-| Mar-26 | 15000 | 15000 |
-| May-26 | 15000 | 15000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -353,95 +278,15 @@ The cross-Mediterranean market held broadly steady at around WS 175 for 80,000 m
 | **Aframax TCE Average** | usd/day | 53,122 | 63,098 | -15.8% | +80.6% |
 | **Aframax 1-Y Period** | usd/day | 55,000 | 60,500 | -9.1% | +93.0% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| May-25 | 50,000 |
-| Jun-25 | 60,000 |
-| Jul-25 | 70,000 |
-| Aug-25 | 80,000 |
-| Sep-25 | 90,000 |
-| Oct-25 | 100,000 |
-| Nov-25 | 110,000 |
-| Dec-25 | 120,000 |
-| Jan-26 | 130,000 |
-| Feb-26 | 450,000 |
-| Mar-26 | 550,000 |
-| Apr-26 | 450,000 |
-| May-26 | 400,000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| May-25 | 20,000 |
-| Jun-25 | 30,000 |
-| Jul-25 | 40,000 |
-| Aug-25 | 50,000 |
-| Sep-25 | 60,000 |
-| Oct-25 | 70,000 |
-| Nov-25 | 80,000 |
-| Dec-25 | 90,000 |
-| Jan-26 | 100,000 |
-| Feb-26 | 300,000 |
-| Mar-26 | 350,000 |
-| Apr-26 | 150,000 |
-| May-26 | 120,000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| May-25 | 10,000 |
-| Jun-25 | 20,000 |
-| Jul-25 | 30,000 |
-| Aug-25 | 40,000 |
-| Sep-25 | 50,000 |
-| Oct-25 | 60,000 |
-| Nov-25 | 70,000 |
-| Dec-25 | 80,000 |
-| Jan-26 | 90,000 |
-| Feb-26 | 280,000 |
-| Mar-26 | 250,000 |
-| Apr-26 | 80,000 |
-| May-26 | 50,000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| May-25 | 5,000 |
-| Jun-25 | 10,000 |
-| Jul-25 | 15,000 |
-| Aug-25 | 20,000 |
-| Sep-25 | 25,000 |
-| Oct-25 | 30,000 |
-| Nov-25 | 35,000 |
-| Dec-25 | 40,000 |
-| Jan-26 | 250,000 |
-| Feb-26 | 280,000 |
-| Mar-26 | 50,000 |
-| Apr-26 | 20,000 |
-| May-26 | 10,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| May-25 | 40,000 | 35,000 | 30,000 |
-| Jun-25 | 45,000 | 38,000 | 32,000 |
-| Jul-25 | 50,000 | 40,000 | 35,000 |
-| Aug-25 | 55,000 | 42,000 | 38,000 |
-| Sep-25 | 60,000 | 45,000 | 40,000 |
-| Oct-25 | 65,000 | 48,000 | 42,000 |
-| Nov-25 | 70,000 | 50,000 | 45,000 |
-| Dec-25 | 75,000 | 52,000 | 48,000 |
-| Jan-26 | 100,000 | 55,000 | 50,000 |
-| Feb-26 | 140,000 | 60,000 | 55,000 |
-| Mar-26 | 110,000 | 58,000 | 52,000 |
-| Apr-26 | 100,000 | 55,000 | 50,000 |
-| May-26 | 105,000 | 53,000 | 48,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -481,50 +326,13 @@ The Mediterranean saw limited fresh activity, as most units had already been fix
 | **TD18-TCE Baltic-UKC (30K)** | usd/day | 55,453 | 58,244 | -4.8% | +51.6% |
 | **Med-Med (30k)** | ws | 415.0 | 437.0 | -5.0% | +66.0% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| May-25 | 40,000 |
-| Sep-25 | 50,000 |
-| Jan-26 | 45,000 |
-| Apr-26 | 160,000 |
-| May-26 | 145,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| May-25 | 20,000 |
-| Sep-25 | 30,000 |
-| Jan-26 | 40,000 |
-| Apr-26 | 110,000 |
-| May-26 | 10,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| May-25 | 25,000 |
-| Sep-25 | 25,000 |
-| Jan-26 | 35,000 |
-| Apr-26 | 45,000 |
-| May-26 | 35,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Value |
-| --- | --- |
-| LR2 | 28,000 |
-| Sep-25 | 35,000 |
-| Jan-26 | 45,000 |
-| Apr-26 | 62,000 |
-| May-26 | 55,000 |
-| MR2 | 20,000 |
-| Sep-25 | 25,000 |
-| Jan-26 | 28,000 |
-| Apr-26 | 35,000 |
-| May-26 | 30,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -552,32 +360,11 @@ The shipping market remained strong and resilient. Charterers continued to secur
 | **1700 teu (1Y, geared)** | usd/day | 31,473 | 31,582 | -0.3% | +21.7% |
 | **1100 teu (1Y, geared)** | usd/day | 16,741 | 16,879 | -0.8% | +3.1% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| May-25 | 4250 |
-| Sep-25 | 4250 |
-| Jan-26 | 4250 |
-| May-26 | 4250 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| May-25 | 2500 |
-| Sep-25 | 2500 |
-| Jan-26 | 1700 |
-| May-26 | 1700 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | Value |
-| --- | --- |
-| May-25 | 3500 |
-| Sep-25 | 1500 |
-| Jan-26 | 2000 |
-| May-26 | 2100 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -588,14 +375,7 @@ The shipping market remained strong and resilient. Charterers continued to secur
 | **China - WCNA** | usd/feu | 3,181 | 2,814 | +13.0% | +29.2% |
 | **China - N. Europe** | usd/feu | 2,895 | 2,801 | +3.4% | +17.7% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | Value |
-| --- | --- |
-| May-25 | 2500 |
-| Sep-25 | 1800 |
-| Jan-26 | 2500 |
-| May-26 | 2600 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 [banchero costa RESEARCH]
 
@@ -772,43 +552,19 @@ In the bulk sector, the Kamsarmax **MOANA** 82,000 dwt 2026 Yizheng Yangzi Shipb
 
 # CAPESIZE FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| May-25 | 20000 |
-| Nov-25 | 42000 |
-| May-26 | 46000 |
-| Nov-26 | 26000 |
-| May-27 | 32000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # PANAMAX FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| May-25 | 10000 |
-| Nov-25 | 12000 |
-| May-26 | 21000 |
-| Nov-26 | 14000 |
-| May-27 | 16000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SUPRAMAX FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| May-25 | 12000 |
-| Nov-25 | 16000 |
-| May-26 | 20000 |
-| Nov-26 | 13000 |
-| May-27 | 16000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # HANDYSIZE FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| May-25 | 10000 |
-| Nov-25 | 15000 |
-| May-26 | 16000 |
-| Nov-26 | 11000 |
-| May-27 | 13000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -849,15 +605,7 @@ In the bulk sector, the Kamsarmax **MOANA** 82,000 dwt 2026 Yizheng Yangzi Shipb
 | SPREAD (LS/HS) | **Fujairah** | usd/t | 199.8 | 189.5 | +5.4% | +177.4% |
 | SPREAD (LS/HS) | **Singapore** | usd/t | 154.5 | 154.5 | +0.0% | +111.6% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| May-25 | 700 | 650 | 700 |
-| Sep-25 | 800 | 750 | 800 |
-| Jan-26 | 850 | 800 | 850 |
-| Mar-26 | 1800 | 1200 | 2000 |
-| May-26 | 1200 | 900 | 1200 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -875,24 +623,9 @@ In the bulk sector, the Kamsarmax **MOANA** 82,000 dwt 2026 Yizheng Yangzi Shipb
 | LNG TTF Netherlands | usd/mmbtu | 16.24 | 17.23 | -5.7% | +41.2% |
 | LNG North East Asia | usd/mmbtu | 18.80 | 17.80 | +5.6% | +59.3% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| May-25 | 70 | 60 |
-| Sep-25 | 65 | 60 |
-| Jan-26 | 65 | 65 |
-| Mar-26 | 110 | 100 |
-| May-26 | 105 | 100 |
-
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| May-25 | 3.5 |
-| Sep-25 | 2.8 |
-| Jan-26 | 5.2 |
-| May-26 | 2.8 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -902,15 +635,7 @@ In the bulk sector, the Kamsarmax **MOANA** 82,000 dwt 2026 Yizheng Yangzi Shipb
 | Steam Coal Newcastle | usd/t | 131.7 | 132.2 | -0.4% | +34.5% |
 | Coking Coal Australia SGX | usd/t | 239.0 | 239.0 | +0.0% | +26.1% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| May-25 | 100 | 95 |
-| Sep-25 | 110 | 100 |
-| Jan-26 | 105 | 100 |
-| Mar-26 | 135 | 110 |
-| May-26 | 130 | 110 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -920,14 +645,7 @@ In the bulk sector, the Kamsarmax **MOANA** 82,000 dwt 2026 Yizheng Yangzi Shipb
 | Rebar Steel in China | rmb/t | 3146.0 | 3186.0 | -1.3% | +2.4% |
 | HRC Steel in China | rmb/t | 3356.0 | 3449.0 | -2.7% | +4.0% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | HRC | Plate |
-| --- | --- | --- |
-| May-25 | 2900 | 3200 |
-| Sep-25 | 3000 | 3350 |
-| Jan-26 | 3000 | 3300 |
-| May-26 | 3150 | 3450 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -939,11 +657,4 @@ In the bulk sector, the Kamsarmax **MOANA** 82,000 dwt 2026 Yizheng Yangzi Shipb
 | Sugar ICE N.11 | usc/lb | 14.90 | 14.80 | +0.7% | -15.0% |
 | Palm Oil Malaysia | usd/t | 1116.3 | 1111.5 | +0.4% | +24.9% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| May-25 | 450 | 550 |
-| Sep-25 | 400 | 500 |
-| Jan-26 | 450 | 550 |
-| May-26 | 460 | 650 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.

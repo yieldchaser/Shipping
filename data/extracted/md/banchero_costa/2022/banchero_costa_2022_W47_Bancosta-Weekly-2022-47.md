@@ -20,35 +20,9 @@ Port Hedland (429.1 mln t loaded in Jan-Oct 2022), Port Walcott (140.0 mln t), D
 
 This was above the 46.1 mln tonnes in Jan-Oct 2020 but below the 55.3 mln t in Jan-Oct 2019. Export to South Korea are down by -16.0% y-o-y to 41.4 mln tonnes in Jan-Oct 2022 from 49.3 mln t in Jan-Oct 2021. Volumes from Australia to Taiwan declined by -7.1% y-o-y to 16.7 mln tonnes so far this year. To Vietnam volumes are down -13.6% y-o-y to 8.2 mln t in Jan-Oct 2022 from 9.5 mln t in Jan-Oct 2021. To Indonesia it's +1.4% y-o-y to 6.2 mln tonnes from 6.1 mln t in the same period last year.
 
-### Australia - Iron Ore Exports by Destination in Jan-Oct (Nov 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
+> **Chart (not transcribed):** Australia - Iron Ore Exports by Destination in Jan-Oct (Nov 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
 
-| Destination | 2020 (1-10) | 2021 (1-10) | 2022 (1-10) |
-| --- | --- | --- | --- |
-| China PR | 615 | 589 | 610 |
-| Japan | 46 | 55 | 51 |
-| S Korea | 42 | 49 | 41 |
-| Taiwan CN | 17 | 18 | 17 |
-| Vietnam | 6 | 9 | 8 |
-| Indonesia | 4 | 6 | 6 |
-| Malaysia | 3 | 1 | 2 |
-| Others/ Unknown | 3 | 3 | 3 |
-
-### Australia - Monthly Iron Ore Exports - Seasonality (Nov 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes)
-
-| Month | 2018 | 2019 | 2020 | 2021 | 2022 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 68 | 64 | 67 | 68 | 74 |
-| Feb | 67 | 58 | 57 | 64 | 63 |
-| Mar | 69 | 76 | 58 | 76 | 73 |
-| Apr | 74 | 77 | 75 | 76 | 71 |
-| May | 76 | 78 | 76 | 77 | 78 |
-| Jun | 77 | 78 | 83 | 78 | 79 |
-| Jul | 74 | 76 | 71 | 75 | 74 |
-| Aug | 70 | 75 | 69 | 72 | 70 |
-| Sep | 71 | 76 | 77 | 79 | 76 |
-| Oct | 70 | 74 | 69 | 71 | 79 |
-| Nov | 67 | 70 | 70 | 70 | 70 |
-| Dec | 72 | 82 | 75 | 80 | 83 |
+> **Chart (not transcribed):** Australia - Monthly Iron Ore Exports - Seasonality (Nov 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -74,17 +48,7 @@ The freight rate for 170,000 mt +/- 10% iron ore from South Africa to China was 
 | **Newcastlemax 1-Y Period** | usd/day | 16,800 | 16,800 | +0.0% | -40.0% |
 | **Capesize 1-Y Period** | usd/day | 14,000 | 14,000 | +0.0% | -39.4% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Nov-21 | 22000 | 35000 |
-| Jan-22 | 25000 | 42000 |
-| Mar-22 | 30000 | 38000 |
-| May-22 | 32000 | 39000 |
-| Jul-22 | 25000 | 22000 |
-| Sep-22 | 18000 | 10000 |
-| Nov-22 | 15000 | 12000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -108,23 +72,7 @@ Rates were softening for the whole week due to limited demand and plenty of ship
 | **Kamsarmax 1-Y Period** | usd/day | 15,500 | 16,000 | -3.1% | -29.5% |
 | **Panamax 1-Y Period** | usd/day | 12,500 | 13,000 | -3.8% | -26.5% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Nov-21 | 22000 | 28000 |
-| Dec-21 | 21000 | 18000 |
-| Jan-22 | 23000 | 25000 |
-| Feb-22 | 29000 | 30000 |
-| Mar-22 | 30000 | 31000 |
-| Apr-22 | 29000 | 30000 |
-| May-22 | 28000 | 29000 |
-| Jun-22 | 26000 | 27000 |
-| Jul-22 | 24000 | 18000 |
-| Aug-22 | 23000 | 12000 |
-| Sep-22 | 22000 | 15000 |
-| Oct-22 | 21000 | 16000 |
-| Nov-22 | 20000 | 15000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -182,29 +130,9 @@ After a long time rates in Far East showed again signs of improvement with the m
 | **38k Handy 1-Y Period** | usd/day | 13,500 | 14,500 | -6.9% | -38.6% |
 | **30k Handy 1-Y Period** | usd/day | 11,800 | 12,300 | -4.1% | -34.4% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Nov-21 | 18000 | 25000 |
-| Jan-22 | 17000 | 24000 |
-| Mar-22 | 25000 | 32000 |
-| May-22 | 26000 | 31000 |
-| Jul-22 | 18000 | 22000 |
-| Sep-22 | 15000 | 18000 |
-| Nov-22 | 14000 | 14000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Nov-21 | 22000 | 28000 |
-| Jan-22 | 19000 | 18000 |
-| Mar-22 | 24000 | 32000 |
-| May-22 | 25000 | 29000 |
-| Jul-22 | 17000 | 16000 |
-| Sep-22 | 14000 | 15000 |
-| Nov-22 | 13000 | 13000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -249,49 +177,15 @@ After a long time rates in Far East showed again signs of improvement with the m
 | **Aframax TCE Average** | usd/day | 91,184 | 110,750 | -17.7% | +2826.3% |
 | **Aframax 1-Y Period** | usd/day | 40,500 | 35,200 | +15.1% | +123.8% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Nov-21 | -10,000 |
-| Mar-22 | -20,000 |
-| Jul-22 | -30,000 |
-| Nov-22 | 120,000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Nov-21 | 0 |
-| Mar-22 | 150,000 |
-| Jul-22 | 50,000 |
-| Nov-22 | 200,000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Nov-21 | -10,000 |
-| Mar-22 | 80,000 |
-| Jul-22 | 40,000 |
-| Nov-22 | 190,000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Nov-21 | -10,000 |
-| Mar-22 | 60,000 |
-| Jul-22 | 90,000 |
-| Nov-22 | 190,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Nov-21 | Nov-22 |
-| --- | --- | --- |
-| VLCC | 25,000 | 55,000 |
-| Suezmax | 20,000 | 45,000 |
-| Aframax | 15,000 | 40,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -326,72 +220,13 @@ MR had an important trend too thanks to a shortage of tonnage that pushed rates 
 | **Med-Med (30k)** | ws | 460.0 | 410.0 | +12.2% | +70.4% |
 | **Black Sea-Med (30k)** | ws | 600.0 | 545.0 | +10.1% | +114.3% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Nov-21 | 10,000 |
-| Dec-21 | 5,000 |
-| Jan-22 | 0 |
-| Feb-22 | 10,000 |
-| Mar-22 | 50,000 |
-| Apr-22 | 60,000 |
-| May-22 | 55,000 |
-| Jun-22 | 45,000 |
-| Jul-22 | 60,000 |
-| Aug-22 | 50,000 |
-| Sep-22 | 65,000 |
-| Oct-22 | 35,000 |
-| Nov-22 | 75,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Nov-21 | 10,000 |
-| Dec-21 | 5,000 |
-| Jan-22 | 10,000 |
-| Feb-22 | 20,000 |
-| Mar-22 | 65,000 |
-| Apr-22 | 50,000 |
-| May-22 | 40,000 |
-| Jun-22 | 30,000 |
-| Jul-22 | 65,000 |
-| Aug-22 | 45,000 |
-| Sep-22 | 35,000 |
-| Oct-22 | 60,000 |
-| Nov-22 | 65,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Nov-21 | 5,000 |
-| Dec-21 | 10,000 |
-| Jan-22 | 15,000 |
-| Feb-22 | 20,000 |
-| Mar-22 | 45,000 |
-| Apr-22 | 55,000 |
-| May-22 | 65,000 |
-| Jun-22 | 50,000 |
-| Jul-22 | 70,000 |
-| Aug-22 | 60,000 |
-| Sep-22 | 65,000 |
-| Oct-22 | 45,000 |
-| Nov-22 | 55,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Series | Date | Value |
-| --- | --- | --- |
-| LR2 | Nov-21 | 18,000 |
-| LR2 | Mar-22 | 18,000 |
-| LR2 | Jul-22 | 32,000 |
-| LR2 | Nov-22 | 35,000 |
-| MR2 | Nov-21 | 12,000 |
-| MR2 | Mar-22 | 15,000 |
-| MR2 | Jul-22 | 28,000 |
-| MR2 | Nov-22 | 32,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -419,21 +254,9 @@ Holiday season is gradually approaching and fixing activity has been slowing. An
 | **1700 teu (1Y, geared)** | usd/day | 14,235 | 14,252 | -0.1% | -65.7% |
 | **1100 teu (1Y, geared)** | usd/day | 10,758 | 10,948 | -1.7% | -64.2% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Nov-21 | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Mar-22 | 100,000 | 90,000 | 80,000 |
-| Jul-22 | 90,000 | 80,000 | 70,000 |
-| Nov-22 | 30,000 | 30,000 | 30,000 |
-
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Nov-21 | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Mar-22 | 80,000 | 60,000 | 40,000 |
-| Jul-22 | 70,000 | 50,000 | 30,000 |
-| Nov-22 | 20,000 | 20,000 | 20,000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -451,21 +274,9 @@ Holiday season is gradually approaching and fixing activity has been slowing. An
 | **Med - China** | usd/feu | 862 | 864 | -0.2% | -43.3% |
 | **ECNA - Europe** | usd/feu | 623 | 661 | -5.7% | +6.9% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
-| Nov-21 | 10,000 |
-| --- | --- |
-| Mar-22 | 9,000 |
-| Jul-22 | 4,000 |
-| Nov-22 | 2,000 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Nov-21 | 16,000 | 0 |
-| --- | --- | --- |
-| Mar-22 | 12,000 | 0 |
-| Jul-22 | 8,000 | 0 |
-| Nov-22 | 4,000 | 0 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 47/2022
 
@@ -486,12 +297,7 @@ It was a busy week for newbuilding business. South Korea SK Shipyard was reporte
 | **LR2 Coated** | usd mln | 60.6 | 60.7 | -0.1% | +6.5% |
 | **MR2 Coated** | usd mln | 39.7 | 39.7 | +0.0% | +8.5% |
 
-| Category | Value |
-| --- | --- |
-| Nov-21 | Kamsarmax: 65, Suezmax: 68, MR: 37 |
-| Mar-22 | Kamsarmax: 66, Suezmax: 69, MR: 38 |
-| Jul-22 | Kamsarmax: 67, Suezmax: 70, MR: 40 |
-| Nov-22 | Kamsarmax: 67, Suezmax: 71, MR: 40 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -508,12 +314,7 @@ The demo market still remains mostly quiet, with prices steadily dropping. Never
 | **Tnk India** | usd/ldt | 530.9 | 545.0 | -2.6% | -11.9% |
 | **Tnk Pakistan** | usd/ldt | 528.9 | 542.9 | -2.6% | -15.3% |
 
-| Category | Value |
-| --- | --- |
-| Nov-21 | Dry Bulk: 580, Tanker: 610 |
-| Mar-22 | Dry Bulk: 650, Tanker: 680 |
-| Jul-22 | Dry Bulk: 560, Tanker: 580 |
-| Nov-22 | Dry Bulk: 540, Tanker: 520 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 47/2022
 
@@ -557,11 +358,7 @@ Norwegian owners sold Atlantica Bridge around 50,000 dwt built 2005 STX (SS 12/2
 | **Aframax** | usd mln | 58.0 | 57.7 | +0.5% | +43.5% |
 | **MR Product** | usd mln | 40.4 | 40.1 | +0.8% | +43.6% |
 
-| Category | Nov-21 | Mar-22 | Jul-22 | Nov-22 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 38 | 40 | 35 | 32 |
-| Aframax | 40 | 45 | 55 | 58 |
-| MR | 28 | 32 | 38 | 40 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 47/2022
 
@@ -580,21 +377,7 @@ Norwegian owners sold Atlantica Bridge around 50,000 dwt built 2005 STX (SS 12/2
 | **Q2 23** | usd/day | 9,836 | 10,111 | -2.7% | -29.0% |
 | **Q3 23** | usd/day | 15,218 | 15,575 | -2.3% | +9.9% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Nov-21 | 42000 |
-| Nov-21 | 35000 |
-| Nov-21 | 28000 |
-| May-22 | 38000 |
-| May-22 | 30000 |
-| May-22 | 22000 |
-| Nov-22 | 12000 |
-| Nov-22 | 8000 |
-| May-23 | 15000 |
-| May-23 | 18000 |
-| Nov-23 | 16000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -609,16 +392,7 @@ Norwegian owners sold Atlantica Bridge around 50,000 dwt built 2005 STX (SS 12/2
 | **Q2 23** | usd/day | 14,365 | 14,404 | -0.3% | +6.7% |
 | **Q3 23** | usd/day | 13,797 | 13,775 | +0.2% | +2.4% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Nov-21 | 28000 |
-| Nov-21 | 25000 |
-| May-22 | 30000 |
-| May-22 | 28000 |
-| Nov-22 | 12000 |
-| May-23 | 14000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (58k)
 
@@ -633,13 +407,7 @@ Norwegian owners sold Atlantica Bridge around 50,000 dwt built 2005 STX (SS 12/2
 | **Q2 23** | usd/day | 12,621 | 12,525 | +0.8% | -2.7% |
 | **Q3 23** | usd/day | 12,879 | 12,838 | +0.3% | -0.8% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Nov-21 | 28000 |
-| May-22 | 32000 |
-| Nov-22 | 12000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -654,13 +422,7 @@ Norwegian owners sold Atlantica Bridge around 50,000 dwt built 2005 STX (SS 12/2
 | **Q2 23** | usd/day | 12,269 | 12,269 | +0.0% | -8.6% |
 | **Q3 23** | usd/day | 12,625 | 12,588 | +0.3% | -5.9% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Nov-21 | 28000 |
-| May-22 | 30000 |
-| Nov-22 | 12000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -673,14 +435,7 @@ Norwegian owners sold Atlantica Bridge around 50,000 dwt built 2005 STX (SS 12/2
 | KRW/USD | 1334 | 1340 | -0.4% | +12.4% |
 | CNY/USD | 7.16 | 7.12 | +0.6% | +12.2% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Nov-21 | 110 |
-| Mar-22 | 120 |
-| Jul-22 | 140 |
-| Nov-22 | 145 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 47/2022
 
@@ -703,14 +458,7 @@ Norwegian owners sold Atlantica Bridge around 50,000 dwt built 2005 STX (SS 12/2
 |  | **Fujairah** | usd/t | 278.0 | 235.0 | +18.3% | +80.5% |
 |  | **Singapore** | usd/t | 257.0 | 221.0 | +16.3% | +50.3% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Nov-21 | 600 | 650 | 650 |
-| Mar-22 | 700 | 1100 | 1300 |
-| Jul-22 | 600 | 1100 | 1300 |
-| Nov-22 | 450 | 700 | 1100 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -728,23 +476,9 @@ Norwegian owners sold Atlantica Bridge around 50,000 dwt built 2005 STX (SS 12/2
 | LNG TTF Netherlands | usd/mmbtu | 38.14 | 32.92 | +15.9% | +9.2% |
 | LNG North East Asia | usd/mmbtu | 31.00 | 25.50 | +21.6% | -13.4% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Nov-21 | 70 | 70 |
-| Mar-22 | 110 | 120 |
-| Jul-22 | 90 | 110 |
-| Nov-22 | 80 | 75 |
-
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Nov-21 | 4.0 |
-| Mar-22 | 6.0 |
-| Jul-22 | 9.0 |
-| Nov-22 | 7.0 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -754,14 +488,7 @@ Norwegian owners sold Atlantica Bridge around 50,000 dwt built 2005 STX (SS 12/2
 | Steam Coal Newcastle | usd/t | 351.4 | 335.7 | +4.7% | +126.5% |
 | Coking Coal Australia SGX | usd/t | 280.7 | 285.0 | -1.5% | -24.4% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Nov-21 | 150 | 100 |
-| Mar-22 | 350 | 120 |
-| Jul-22 | 450 | 100 |
-| Nov-22 | 350 | 90 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -771,14 +498,7 @@ Norwegian owners sold Atlantica Bridge around 50,000 dwt built 2005 STX (SS 12/2
 | Rebar in China CISA | rmb/t | 3826.0 | 3852.0 | -0.7% | -15.9% |
 | Plate in China CISA | rmb/t | 4132.0 | 4147.0 | -0.4% | -17.9% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | Rebar | Plate |
-| --- | --- | --- |
-| Nov-21 | 4500 | 5000 |
-| Mar-22 | 4800 | 5500 |
-| Jul-22 | 4000 | 4200 |
-| Nov-22 | 3800 | 4000 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -791,14 +511,7 @@ Norwegian owners sold Atlantica Bridge around 50,000 dwt built 2005 STX (SS 12/2
 | Palm Oil Malaysia | usd/t | 887.5 | 833.3 | +6.5% | -31.8% |
 | Ferts Urea Middle East | usd/t | 556.5 | 587.5 | -5.3% | -41.1% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Nov-21 | 600 | 800 |
-| Mar-22 | 700 | 1400 |
-| Jul-22 | 600 | 750 |
-| Nov-22 | 700 | 750 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

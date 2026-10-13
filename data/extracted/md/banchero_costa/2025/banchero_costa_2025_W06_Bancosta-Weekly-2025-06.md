@@ -24,31 +24,16 @@ About 17.1% of imports, 40.5 mln t in Jan-Dec 2024, were shipped from Australia,
 
 | Source | 2022 (1-12) | 2023 (1-12) | 2024 (1-12) |
 | --- | --- | --- | --- |
-| Indonesia | 104.0 | 100.0 | 103.2 |
-| Australia | 54.7 | 50.2 | 40.5 |
-| S Africa | 20.1 | 26.5 | 30.5 |
-| Russia | 18.8 | 25.1 | 25.1 |
-| USA | 13.5 | 20.1 | 20.4 |
-| Mozamb. | 8.6 | 11.1 | 10.2 |
+| Indonesia | 104.0 | 100.5 | 103.2 |
+| Australia | 54.2 | 50.2 | 40.5 |
+| S Africa | 20.1 | 26.9 | 30.5 |
+| Russia | 18.8 | 25.3 | 25.1 |
+| USA | 13.5 | 20.8 | 20.4 |
+| Mozamb. | 8.6 | 11.3 | 10.2 |
 | Canada | 2.4 | 2.8 | 2.5 |
-| Others/ Unknown | 3.9 | 3.0 | 4.1 |
+| Others/Unknown | 3.9 | 3.0 | 4.1 |
 
-### India - Monthly Coal Imports - Seasonality (feb 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
-
-| Month | 2020 | 2021 | 2022 | 2023 | 2024 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 20.0 | 12.0 | 12.0 | 16.0 | 20.0 |
-| Feb | 21.0 | 15.5 | 22.0 | 15.5 | 19.0 |
-| Mar | 20.5 | 21.0 | 22.0 | 23.0 | 21.0 |
-| Apr | 19.0 | 20.0 | 18.0 | 23.5 | 22.0 |
-| May | 18.0 | 22.0 | 20.0 | 24.0 | 23.0 |
-| Jun | 10.0 | 20.5 | 27.0 | 17.0 | 20.0 |
-| Jul | 15.0 | 19.0 | 19.0 | 17.5 | 18.5 |
-| Aug | 16.0 | 17.0 | 19.5 | 18.0 | 18.0 |
-| Sep | 17.0 | 14.0 | 19.0 | 18.5 | 17.5 |
-| Oct | 22.0 | 15.5 | 17.0 | 24.0 | 17.0 |
-| Nov | 20.0 | 16.0 | 16.0 | 21.0 | 16.5 |
-| Dec | 19.0 | 13.0 | 15.5 | 21.5 | 17.0 |
+> **Chart (not transcribed):** India - Monthly Coal Imports - Seasonality (feb 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 
 # NEWS
 # COMMODITY NEWS – DRY BULK
@@ -143,22 +128,7 @@ Cargill Metals fixed an Oldendorff TBN vessel to load a stem of 165,000mt +/- 10
 | **Newcastlemax 1-Y Period** | usd/day | 22,800 | 22,800 | +0.0% | -8.4% |
 | **Capesize 1-Y Period** | usd/day | 19,000 | 19,000 | +0.0% | -8.7% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Feb-24 | 25000 | 35000 |
-| Mar-24 | 28000 | 38000 |
-| Apr-24 | 26000 | 32000 |
-| May-24 | 27000 | 30000 |
-| Jun-24 | 26000 | 28000 |
-| Jul-24 | 25000 | 27000 |
-| Aug-24 | 24000 | 26000 |
-| Sep-24 | 23000 | 25000 |
-| Oct-24 | 20000 | 18000 |
-| Nov-24 | 18000 | 15000 |
-| Dec-24 | 17000 | 12000 |
-| Feb-25 | 18000 | 8000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -184,22 +154,7 @@ Despite a slow start, the week was very active after the festivities. Australian
 | **Kamsarmax 1-Y Period** | usd/day | 11,300 | 11,000 | +2.7% | -29.4% |
 | **Panamax 1-Y Period** | usd/day | 10,300 | 10,000 | +3.0% | -23.7% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Feb-24 | 16000 | 14000 |
-| Mar-24 | 17000 | 20000 |
-| Apr-24 | 16500 | 17000 |
-| May-24 | 16000 | 16000 |
-| Jun-24 | 15500 | 15000 |
-| Jul-24 | 15000 | 14000 |
-| Aug-24 | 14500 | 13000 |
-| Sep-24 | 14000 | 12000 |
-| Oct-24 | 13500 | 11000 |
-| Nov-24 | 13000 | 10000 |
-| Dec-24 | 12500 | 9000 |
-| Feb-25 | 11000 | 8500 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -253,23 +208,9 @@ Activity increased after the holidays and rates followed. A 53,000 dwt was fixed
 | **38k Handy 1-Y Period** | usd/day | 11,500 | 11,500 | +0.0% | -19.6% |
 | **30k Handy 1-Y Period** | usd/day | 8,500 | 8,500 | +0.0% | -19.0% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Feb-24 | 15000 | 11500 |
-| Jun-24 | 15000 | 15000 |
-| Oct-24 | 11000 | 10000 |
-| Feb-25 | 10000 | 6000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Feb-24 | 14500 | 10000 |
-| Jun-24 | 12000 | 12000 |
-| Oct-24 | 11000 | 8000 |
-| Feb-25 | 11000 | 7000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -310,50 +251,15 @@ Activity increased after the holidays and rates followed. A 53,000 dwt was fixed
 | **Aframax TCE Average** | usd/day | 26,736 | 24,958 | +7.1% | -42.8% |
 | **Aframax 1-Y Period** | usd/day | 27,750 | 29,750 | -6.7% | -37.8% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-24 | 50000 |
-| Jun-24 | 30000 |
-| Oct-24 | 25000 |
-| Feb-25 | 50000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-24 | 50000 |
-| Jun-24 | 25000 |
-| Oct-24 | 40000 |
-| Feb-25 | 35000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 40000 |
-| Jun-24 | 65000 |
-| Oct-24 | 25000 |
-| Feb-25 | 25000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 20000 |
-| Jun-24 | 80000 |
-| Oct-24 | 35000 |
-| Feb-25 | 35000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Feb-24 | 45000 | 45000 | 44000 |
-| Jun-24 | 52000 | 50000 | 46000 |
-| Oct-24 | 40000 | 38000 | 36000 |
-| Feb-25 | 40000 | 35000 | 38000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -390,71 +296,13 @@ In Med activity sprang back reducing the tonnage list considerably, rates reacte
 | **Med-Med (30k)** | ws | 150.0 | 135.0 | +11.1% | -54.2% |
 | **Black Sea-Med (30k)** | ws | 160.0 | 145.0 | +10.3% | -58.4% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-24 | 70000 |
-| Mar-24 | 90000 |
-| Apr-24 | 30000 |
-| May-24 | 70000 |
-| Jun-24 | 65000 |
-| Jul-24 | 25000 |
-| Aug-24 | 20000 |
-| Sep-24 | 22000 |
-| Oct-24 | 20000 |
-| Nov-24 | 18000 |
-| Dec-24 | 17000 |
-| Feb-25 | 25000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-24 | 35000 |
-| Mar-24 | 40000 |
-| Apr-24 | 38000 |
-| May-24 | 55000 |
-| Jun-24 | 45000 |
-| Jul-24 | 30000 |
-| Aug-24 | 25000 |
-| Sep-24 | 22000 |
-| Oct-24 | 20000 |
-| Nov-24 | 25000 |
-| Dec-24 | 28000 |
-| Feb-25 | 28000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 55000 |
-| Mar-24 | 40000 |
-| Apr-24 | 35000 |
-| May-24 | 50000 |
-| Jun-24 | 18000 |
-| Jul-24 | 17000 |
-| Aug-24 | 16000 |
-| Sep-24 | 15000 |
-| Oct-24 | 16000 |
-| Nov-24 | 18000 |
-| Dec-24 | 20000 |
-| Feb-25 | 18000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Value |
-| --- | --- |
-| LR2 | 48000 |
-| Mar-24 | 48000 |
-| Jun-24 | 47000 |
-| Oct-24 | 35000 |
-| Feb-25 | 32000 |
-| MR2 | 30000 |
-| Mar-24 | 30000 |
-| Jun-24 | 28000 |
-| Oct-24 | 18000 |
-| Feb-25 | 18000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -593,11 +441,7 @@ In the bulk segment, Greek based company Seanergy was behind the purchase of the
 | **Aframax** | usd mln | 69.1 | 70.0 | -1.3% | -0.4% |
 | **MR Product** | usd mln | 43.9 | 44.3 | -0.9% | -2.1% |
 
-| Benchmark | Feb-24 | Jun-24 | Oct-24 | Feb-25 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 32.7 | 33.5 | 33.2 | 31.5 |
-| Aframax | 70.5 | 72.0 | 71.5 | 68.5 |
-| MR | 43.0 | 45.0 | 44.5 | 42.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 06/2025
 
@@ -616,20 +460,7 @@ In the bulk segment, Greek based company Seanergy was behind the purchase of the
 | **Q2 25** | usd/day | 18,117 | 18,137 | -0.1% | +169.8% |
 | **Q3 25** | usd/day | 20,750 | 20,618 | +0.6% | +209.0% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 25000 |
-| Mar-24 | 35000 |
-| Apr-24 | 30000 |
-| May-24 | 25000 |
-| Jun-24 | 15000 |
-| Jul-24 | 10000 |
-| Aug-24 | 12000 |
-| Feb-25 | 8000 |
-| Aug-25 | 20000 |
-| Feb-26 | 22000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -644,20 +475,7 @@ In the bulk segment, Greek based company Seanergy was behind the purchase of the
 | **Q2 25** | usd/day | 13,041 | 12,754 | +2.3% | +41.0% |
 | **Q3 25** | usd/day | 12,943 | 12,786 | +1.2% | +40.0% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 12000 |
-| Mar-24 | 20000 |
-| Apr-24 | 15000 |
-| May-24 | 10000 |
-| Jun-24 | 8000 |
-| Jul-24 | 9000 |
-| Aug-24 | 10000 |
-| Feb-25 | 10000 |
-| Aug-25 | 13000 |
-| Feb-26 | 13000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (63k)
 
@@ -672,20 +490,7 @@ In the bulk segment, Greek based company Seanergy was behind the purchase of the
 | **Q2 25** | usd/day | 13,734 | 13,536 | +1.5% | +56.6% |
 | **Q3 25** | usd/day | 13,934 | 13,755 | +1.3% | +58.9% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 11000 |
-| Mar-24 | 16000 |
-| Apr-24 | 17000 |
-| May-24 | 16000 |
-| Jun-24 | 9000 |
-| Jul-24 | 10000 |
-| Aug-24 | 13000 |
-| Feb-25 | 9000 |
-| Aug-25 | 14000 |
-| Feb-26 | 14000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -700,20 +505,7 @@ In the bulk segment, Greek based company Seanergy was behind the purchase of the
 | **Q2 25** | usd/day | 11,233 | 11,142 | +0.8% | +53.0% |
 | **Q3 25** | usd/day | 11,275 | 11,225 | +0.4% | +53.5% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 12000 |
-| Mar-24 | 15000 |
-| Apr-24 | 14000 |
-| May-24 | 10000 |
-| Jun-24 | 7000 |
-| Jul-24 | 10000 |
-| Aug-24 | 11000 |
-| Feb-25 | 10000 |
-| Aug-25 | 11000 |
-| Feb-26 | 11000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -724,19 +516,7 @@ In the bulk segment, Greek based company Seanergy was behind the purchase of the
 | **KRW/USD** | 1453 | 1456 | -0.2% | +8.6% |
 | **CNY/USD** | 7.29 | 7.25 | +0.5% | +1.3% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Feb-24 | 145 |
-| Mar-24 | 150 |
-| Apr-24 | 155 |
-| May-24 | 160 |
-| Jun-24 | 150 |
-| Jul-24 | 140 |
-| Aug-24 | 145 |
-| Oct-24 | 150 |
-| Feb-25 | 155 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 06/2025
 
@@ -759,13 +539,7 @@ In the bulk segment, Greek based company Seanergy was behind the purchase of the
 |  | **Fujairah** | usd/t | 74.0 | 76.0 | -2.6% | -59.3% |
 |  | **Singapore** | usd/t | 68.0 | 74.0 | -8.1% | -61.1% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Category | Feb-24 | Jun-24 | Oct-24 | Feb-25 |
-| --- | --- | --- | --- | --- |
-| IFO380 | \~450 | \~500 | \~480 | \~700 |
-| VLSFO | \~600 | \~650 | \~600 | \~650 |
-| LSMGO | \~750 | \~800 | \~750 | \~750 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -783,18 +557,9 @@ In the bulk segment, Greek based company Seanergy was behind the purchase of the
 | **LNG TTF Netherlands** | usd/mmbtu | 16.94 | 16.28 | +4.1% | +81.7% |
 | **LNG North East Asia** | usd/mmbtu | 14.90 | 13.80 | +8.0% | +55.2% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Category | Feb-24 | Jun-24 | Oct-24 | Feb-25 |
-| --- | --- | --- | --- | --- |
-| Brent | \~75 | \~85 | \~70 | \~75 |
-| WTI | \~70 | \~80 | \~65 | \~70 |
-
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Category | Feb-24 | Jun-24 | Oct-24 | Feb-25 |
-| --- | --- | --- | --- | --- |
-| Henry Hub Nat Gas | \~1.5 | \~2.5 | \~3.0 | \~4.0 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -804,12 +569,7 @@ In the bulk segment, Greek based company Seanergy was behind the purchase of the
 | **Steam Coal Newcastle** | usd/t | 114.5 | 114.8 | -0.2% | -8.9% |
 | **Coking Coal Australia SGX** | usd/t | 188.0 | 189.0 | -0.5% | -40.4% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Category | Feb-24 | Jun-24 | Oct-24 | Feb-25 |
-| --- | --- | --- | --- | --- |
-| Steam Coal | \~125 | \~140 | \~130 | \~115 |
-| Iron Ore | \~120 | \~100 | \~100 | \~105 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -819,12 +579,7 @@ In the bulk segment, Greek based company Seanergy was behind the purchase of the
 | **Rebar Steel in China** | rmb/t | 3225.0 | 3239.0 | -0.4% | -13.3% |
 | **HRC Steel in China** | rmb/t | 3422.0 | 3422.0 | +0.0% | -13.5% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Category | Feb-24 | Jun-24 | Oct-24 | Feb-25 |
-| --- | --- | --- | --- | --- |
-| HRC | \~3900 | \~3000 | \~3400 | \~3400 |
-| Plate | \~3900 | \~3000 | \~3400 | \~3450 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -837,9 +592,4 @@ In the bulk segment, Greek based company Seanergy was behind the purchase of the
 | **Palm Oil Malaysia** | usd/t | 1077.8 | 1021.5 | +5.5% | +34.3% |
 | **Ferts Urea Middle East** | usd/t | 345.5 | 345.5 | +0.0% | -10.8% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Category | Feb-24 | Jun-24 | Oct-24 | Feb-25 |
-| --- | --- | --- | --- | --- |
-| Corn | \~400 | \~380 | \~380 | \~500 |
-| Wheat | \~550 | \~650 | \~550 | \~580 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.

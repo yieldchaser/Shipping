@@ -35,20 +35,7 @@ Volumes from the UAE to China increased by +4.7% y-o-y to 32.1 mln t, and from O
 
 ### China - Monthly Crude Oil Imports - Seasonality
 
-| Month | 2021 | 2022 | 2023 | 2024 | 2025 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 43.5 | 37.0 | 44.0 | 43.0 | 37.5 |
-| Feb | 42.0 | 41.0 | 46.0 | 42.5 | 36.0 |
-| Mar | 44.0 | 43.0 | 45.0 | 44.0 | 43.0 |
-| Apr | 43.0 | 40.0 | 41.0 | 43.5 | 42.0 |
-| May | 42.5 | 41.5 | 42.0 | 43.0 | 44.5 |
-| Jun | 38.0 | 35.0 | 40.0 | 42.0 | 41.0 |
-| Jul | 36.0 | 33.0 | 44.0 | 43.0 | 40.0 |
-| Aug | 37.0 | 34.0 | 45.0 | 42.5 | 43.5 |
-| Sep | 35.0 | 36.0 | 41.0 | 41.0 | 44.0 |
-| Oct | 40.0 | 38.0 | 42.0 | 43.0 | 45.0 |
-| Nov | 41.0 | 40.0 | 43.0 | 44.0 | 48.0 |
-| Dec | 42.0 | 44.0 | 41.0 | 44.5 | 45.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # NEWS MARKET REPORT – WEEK 09/2026
 
@@ -151,22 +138,7 @@ In the Pacific, sentiment started bullish on 23 February, supported by a surge i
 | **Newcastlemax 1-Y Period** | usd/day | 35,000 | 36,000 | -2.8% | +37.3% |
 | **Capesize 1-Y Period** | usd/day | 31,000 | 31,000 | +0.0% | +45.5% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Feb-25 | 20000 | 15000 |
-| Mar-25 | 22000 | 18000 |
-| Apr-25 | 25000 | 30000 |
-| May-25 | 28000 | 25000 |
-| Jun-25 | 30000 | 18000 |
-| Jul-25 | 29000 | 28000 |
-| Aug-25 | 31000 | 32000 |
-| Sep-25 | 33000 | 42000 |
-| Oct-25 | 30000 | 35000 |
-| Nov-25 | 28000 | 22000 |
-| Dec-25 | 29000 | 24000 |
-| Feb-26 | 30000 | 23000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -192,14 +164,7 @@ The Pacific market continues to exhibit tighter tonnage availability, with an in
 | **Kamsarmax 1-Y Period** | usd/day | 18,800 | 18,500 | +1.6% | +44.6% |
 | **Panamax 1-Y Period** | usd/day | 16,300 | 16,300 | +0.0% | +41.7% |
 
-### BPI 82 TC & KAMSARMAX 1 -YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Feb-25 | 13000 | 8000 |
-| Jun-25 | 15000 | 16000 |
-| Oct-25 | 15000 | 14000 |
-| Feb-26 | 18000 | 17000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1 -YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -257,23 +222,9 @@ The Supramax market in the Pacific concluded on a firmer note with rates advanci
 | **38k Handy 1-Y Period** | usd/day | 14,000 | 13,500 | +3.7% | +23.9% |
 | **30k Handy 1-Y Period** | usd/day | 10,000 | 10,300 | -2.9% | +17.6% |
 
-### BSI TC & SUPRAMAX 1 -YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1 -YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Feb-25 | 11000 | 8500 |
-| Jun-25 | 13500 | 15000 |
-| Oct-25 | 14000 | 15500 |
-| Feb-26 | 14500 | 14500 |
-
-### BHSI 38 TC & HANDY 1 -YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Feb-25 | 10000 | 10000 |
-| Jun-25 | 12000 | 14000 |
-| Oct-25 | 14000 | 15000 |
-| Feb-26 | 14000 | 14000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1 -YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -323,49 +274,15 @@ The market is booming!
 | **Aframax TCE Average** | usd/day | 78,357 | 78,588 | -0.3% | +168.9% |
 | **Aframax 1-Y Period** | usd/day | 51,500 | 45,250 | +13.8% | +83.9% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-25 | 40000 |
-| Jun-25 | 70000 |
-| Oct-25 | 130000 |
-| Feb-26 | 210000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-25 | 40000 |
-| Jun-25 | 40000 |
-| Oct-25 | 100000 |
-| Feb-26 | 140000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 20000 |
-| Jun-25 | 30000 |
-| Oct-25 | 70000 |
-| Feb-26 | 90000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 20000 |
-| Jun-25 | 30000 |
-| Oct-25 | 70000 |
-| Feb-26 | 90000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Feb-25 | Jun-25 | Oct-25 | Feb-26 |
-| --- | --- | --- | --- | --- |
-| VLCC | 40000 | 40000 | 50000 | 110000 |
-| Suezmax | 35000 | 35000 | 45000 | 70000 |
-| Aframax | 30000 | 30000 | 40000 | 50000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -415,45 +332,13 @@ A balanced tonnage position kept Handysize levels in the Mediterranean firm but 
 | **TD18-TCE Baltic-UKC (30K)** | usd/day | 38,380 | 37,926 | +1.2% | +137.0% |
 | **Med-Med (30k)** | ws | 310.0 | 315.0 | -1.6% | +47.6% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-25 | 30,000 |
-| Jun-25 | 55,000 |
-| Oct-25 | 45,000 |
-| Feb-26 | 50,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-25 | 15,000 |
-| Jun-25 | 40,000 |
-| Oct-25 | 35,000 |
-| Feb-26 | 45,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 20,000 |
-| Jun-25 | 35,000 |
-| Oct-25 | 30,000 |
-| Feb-26 | 25,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Date | Value |
-| --- | --- | --- |
-| LR2 | Feb-25 | 27,000 |
-| LR2 | Jun-25 | 28,000 |
-| LR2 | Oct-25 | 38,000 |
-| LR2 | Feb-26 | 47,000 |
-| MR2 | Feb-25 | 18,000 |
-| MR2 | Jun-25 | 20,000 |
-| MR2 | Oct-25 | 24,000 |
-| MR2 | Feb-26 | 26,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -480,19 +365,9 @@ The market remains stable at elevated levels, demonstrating strong resilience de
 | **1700 teu (1Y, geared)** | usd/day | 30,482 | 30,359 | +0.4% | +29.8% |
 | **1100 teu (1Y, geared)** | usd/day | 15,948 | 15,900 | +0.3% | +12.2% |
 
-| DATE | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Feb-25 | 52000 | 41000 | 33000 |
-| Jun-25 | 50000 | 42000 | 34000 |
-| Oct-25 | 51000 | 41000 | 34000 |
-| Feb-26 | 50000 | 41000 | 34000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Feb-25 | 32000 | 24000 | 14000 |
-| Jun-25 | 36000 | 26000 | 15000 |
-| Oct-25 | 36000 | 28000 | 16000 |
-| Feb-26 | 36000 | 31000 | 16000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | DATE | FBX |
 | --- | --- |
@@ -529,14 +404,7 @@ In the bulk sector, Japan's Imabari shipyard secured an order for 2 x 181,500 dw
 | **LR2 Coated** | usd mln | 69.3 | 68.8 | +0.6% | -0.5% |
 | **MR2 Coated** | usd mln | 44.5 | 44.3 | +0.7% | -0.3% |
 
-### NEWBUILDING PRICES (USD MLN)
-
-| Date | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Feb-25 | 36 | 82 | 44 |
-| Jun-25 | 36 | 82 | 44 |
-| Oct-25 | 36 | 82 | 44 |
-| Feb-26 | 36 | 82 | 44 |
+> **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -553,14 +421,7 @@ The unfolding situation across the Middle East is set to dominate the industry's
 | **Tnk India** | usd/ldt | 423.6 | 422.7 | +0.2% | -6.6% |
 | **Tnk Bangladesh** | usd/ldt | 441.7 | 438.2 | +0.8% | -4.6% |
 
-### DEMOLITION PRICES (USD/LDT)
-
-| Date | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Feb-25 | 445 | 455 |
-| Jun-25 | 410 | 415 |
-| Oct-25 | 405 | 420 |
-| Feb-26 | 420 | 430 |
+> **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 09/2026
 
@@ -619,14 +480,7 @@ In the MR2 segment, **ALTAIR** 50,583 dwt 2017 Dae Sun built was reported sold t
 | **Aframax** | usd mln | 70.8 | 70.0 | +1.2% | +5.3% |
 | **MR Product** | usd mln | 43.6 | 43.3 | +0.8% | +1.6% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| SECONDHAND VALUES (USD MLN) | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Feb-25 | 32 | 68 | 42 |
-| Jun-25 | 32 | 65 | 42 |
-| Oct-25 | 34 | 67 | 43 |
-| Feb-26 | 35 | 70 | 44 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 [banchero costa RESEARCH]
 
@@ -647,15 +501,7 @@ In the MR2 segment, **ALTAIR** 50,583 dwt 2017 Dae Sun built was reported sold t
 | **Q3 26** | usd/day | 34,911 | 34,905 | +0.0% | +22.9% |
 | **Q4 26** | usd/day | 34,724 | 34,720 | +0.0% | +22.2% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 15000 |
-| Aug-25 | 25000 |
-| Feb-26 | 23000 |
-| Aug-26 | 35000 |
-| Feb-27 | 35000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -670,15 +516,7 @@ In the MR2 segment, **ALTAIR** 50,583 dwt 2017 Dae Sun built was reported sold t
 | **Q3 26** | usd/day | 18,616 | 18,243 | +2.0% | +4.5% |
 | **Q4 26** | usd/day | 17,286 | 16,950 | +2.0% | -3.0% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 10000 |
-| Aug-25 | 15000 |
-| Feb-26 | 22000 |
-| Aug-26 | 18000 |
-| Feb-27 | 17000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (63k)
 
@@ -693,15 +531,7 @@ In the MR2 segment, **ALTAIR** 50,583 dwt 2017 Dae Sun built was reported sold t
 | **Q3 26** | usd/day | 17,949 | 17,865 | +0.5% | +4.3% |
 | **Q4 26** | usd/day | 16,902 | 16,842 | +0.4% | -1.8% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 12000 |
-| Aug-25 | 18000 |
-| Feb-26 | 19000 |
-| Aug-26 | 17000 |
-| Feb-27 | 16000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -716,15 +546,7 @@ In the MR2 segment, **ALTAIR** 50,583 dwt 2017 Dae Sun built was reported sold t
 | **Q3 26** | usd/day | 13,857 | 13,754 | +0.7% | -2.0% |
 | **Q4 26** | usd/day | 13,215 | 13,063 | +1.2% | -6.5% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 10000 |
-| Aug-25 | 16000 |
-| Feb-26 | 16000 |
-| Aug-26 | 13000 |
-| Feb-27 | 13000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -735,14 +557,7 @@ In the MR2 segment, **ALTAIR** 50,583 dwt 2017 Dae Sun built was reported sold t
 | KRW/USD | 1439 | 1446 | -0.5% | +0.4% |
 | CNY/USD | 6.86 | 6.91 | -0.7% | -5.4% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 148 |
-| Jun-25 | 145 |
-| Oct-25 | 155 |
-| Feb-26 | 158 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 09/2026
 

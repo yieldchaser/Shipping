@@ -31,24 +31,9 @@ Shipments to the Philippines have also increased by +8.6% y-o-y to 25.4 mln tonn
 | S Korea | 16 | 17 | 17 |
 | Vietnam | 7 | 12 | 16 |
 | Malaysia | 16 | 17 | 16 |
-| Others/ Unknown | 39 | 36 | 36 |
+| Others/Unknown | 39 | 36 | 36 |
 
-### Indonesia - Monthly Coal Exports - Seasonality (oct 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
-
-| Month | 2020 | 2021 | 2022 | 2023 | 2024 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 36 | 30 | 13 | 35 | 41 |
-| Feb | 37 | 34 | 32 | 36 | 37 |
-| Mar | 38 | 35 | 41 | 49 | 42 |
-| Apr | 28 | 34 | 36 | 40 | 40 |
-| May | 30 | 35 | 37 | 42 | 45 |
-| Jun | 30 | 36 | 39 | 37 | 40 |
-| Jul | 29 | 37 | 43 | 38 | 41 |
-| Aug | 28 | 38 | 40 | 39 | 40 |
-| Sep | 30 | 35 | 42 | 41 | 39 |
-| Oct | 31 | 36 | 43 | 46 | 44 |
-| Nov | 32 | 33 | 38 | 44 | 45 |
-| Dec | 33 | 31 | 38 | 44 | 45 |
+> **Chart (not transcribed):** Indonesia - Monthly Coal Exports - Seasonality (oct 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -72,23 +57,7 @@ In the Atlantic basin, Costamare fixed the MV Almera (176,552 dwt | 2011 built) 
 | **Newcastlemax 1-Y Period** | usd/day | 32,400 | 31,800 | +1.9% | +66.2% |
 | **Capesize 1-Y Period** | usd/day | 27,000 | 26,500 | +1.9% | +70.9% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Oct-23 | 20000 | 28000 |
-| Nov-23 | 18000 | 22000 |
-| Dec-23 | 19000 | 55000 |
-| Jan-24 | 20000 | 48000 |
-| Feb-24 | 28000 | 35000 |
-| Mar-24 | 27000 | 32000 |
-| Apr-24 | 28000 | 28000 |
-| May-24 | 29000 | 30000 |
-| Jun-24 | 28000 | 32000 |
-| Jul-24 | 28000 | 30000 |
-| Aug-24 | 28000 | 29000 |
-| Sep-24 | 28000 | 29000 |
-| Oct-24 | 28000 | 29000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -112,20 +81,7 @@ Over the past week market has been generally quiet due to Golden Week holiday in
 | **Kamsarmax 1-Y Period** | usd/day | 15,000 | 15,300 | -2.0% | +3.4% |
 | **Panamax 1-Y Period** | usd/day | 12,300 | 12,500 | -1.6% | +0.0% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Oct-23 | 14500 | 14500 |
-| Jan-24 | 16000 | 21000 |
-| Feb-24 | 17000 | 16000 |
-| Mar-24 | 17500 | 19500 |
-| Apr-24 | 17000 | 17000 |
-| May-24 | 16500 | 16500 |
-| Jun-24 | 16000 | 15000 |
-| Jul-24 | 15500 | 14500 |
-| Aug-24 | 15000 | 12000 |
-| Oct-24 | 14500 | 14000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -183,35 +139,9 @@ A stable week with major holidays in the region. A 54,000 dwt with dely N China 
 | **38k Handy 1-Y Period** | usd/day | 13,500 | 13,500 | +0.0% | +12.5% |
 | **30k Handy 1-Y Period** | usd/day | 10,000 | 10,000 | +0.0% | +0.0% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Oct-23 | 13000 | 14000 |
-| Jan-24 | 14500 | 16500 |
-| Feb-24 | 14000 | 12000 |
-| Mar-24 | 15000 | 15500 |
-| Apr-24 | 15500 | 16000 |
-| May-24 | 15000 | 15000 |
-| Jun-24 | 15500 | 15500 |
-| Jul-24 | 15000 | 15000 |
-| Aug-24 | 15000 | 15000 |
-| Oct-24 | 15000 | 15000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Oct-23 | 13000 | 12500 |
-| Jan-24 | 14500 | 16000 |
-| Feb-24 | 14000 | 10000 |
-| Mar-24 | 15000 | 14500 |
-| Apr-24 | 15500 | 14000 |
-| May-24 | 15000 | 13500 |
-| Jun-24 | 15500 | 13000 |
-| Jul-24 | 15000 | 13000 |
-| Aug-24 | 15000 | 13000 |
-| Oct-24 | 15000 | 13000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -252,50 +182,15 @@ A stable week with major holidays in the region. A 54,000 dwt with dely N China 
 | **Aframax TCE Average** | usd/day | 43,021 | 21,126 | +103.6% | +145.4% |
 | **Aframax 1-Y Period** | usd/day | 37,500 | 35,500 | +5.6% | -6.3% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-23 | 10,000 |
-| Oct-24 | 30,000 |
-| Feb-24 | 70,000 |
-| Jun-24 | 20,000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-23 | 10,000 |
-| Oct-24 | 30,000 |
-| Feb-24 | 40,000 |
-| Jun-24 | 50,000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | -10,000 |
-| Oct-24 | 20,000 |
-| Feb-24 | 40,000 |
-| Jun-24 | 80,000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | -10,000 |
-| Oct-24 | 20,000 |
-| Feb-24 | 40,000 |
-| Jun-24 | 90,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Oct-23 | 50,000 | 40,000 | 38,000 |
-| Feb-24 | 45,000 | 48,000 | 47,000 |
-| Jun-24 | 52,000 | 44,000 | 46,000 |
-| Oct-24 | 45,000 | 38,000 | 36,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -354,12 +249,7 @@ Handies in UKC remained steady 30@200. In MED rates increased from WS165 up to W
 | Jun-24 | 40000 |
 | Oct-24 | 20000 |
 
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Oct-23 | 40000 | 28000 |
-| Feb-24 | 50000 | 30000 |
-| Jun-24 | 50000 | 28000 |
-| Oct-24 | 35000 | 25000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -389,24 +279,11 @@ A rather quite week. Charter rates remained stable except for 2500/3500 size tha
 | **1700 teu (1Y, geared)** | usd/day | 19,525 | 19,441 | +0.4% | +68.8% |
 | **1100 teu (1Y, geared)** | usd/day | 13,195 | 13,341 | -1.1% | +35.2% |
 
-| Category | Oct-23 | Feb-24 | Jun-24 | Oct-24 |
-| --- | --- | --- | --- | --- |
-| 4250 | 15000 | 20000 | 45000 | 47000 |
-| 3500 | 15000 | 18000 | 38000 | 36000 |
-| 2700 | 14000 | 16000 | 32000 | 30000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Oct-23 | Feb-24 | Jun-24 | Oct-24 |
-| --- | --- | --- | --- | --- |
-| 2500 | 15000 | 16000 | 30000 | 29000 |
-| 1700 | 10000 | 12000 | 20000 | 19000 |
-| 1100 | 8000 | 9000 | 13000 | 12000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | FBX |
-| --- | --- |
-| Oct-23 | 1000 |
-| Feb-24 | 3000 |
-| Jun-24 | 5500 |
-| Oct-24 | 4000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | FREIGHTOS | Unit | 4-Oct | 27-Sep | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
@@ -414,12 +291,7 @@ A rather quite week. Charter rates remained stable except for 2500/3500 size tha
 | **China - WCNA** | usd/feu | 5,760 | 6,816 | -15.5% | +241.4% |
 | **China - N. Europe** | usd/feu | 4,075 | 5,074 | -19.7% | +299.5% |
 
-| Date | China - N. Europe |
-| --- | --- |
-| Oct-23 | 1000 |
-| Feb-24 | 5500 |
-| Jun-24 | 8500 |
-| Oct-24 | 4500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 40/2024
 
@@ -442,14 +314,7 @@ In a large scale project which was pre-announced recently, Hapag Lloyd started t
 | **LR2 Coated** | usd mln | 69.5 | 69.3 | +0.3% | +10.7% |
 | **MR2 Coated** | usd mln | 44.8 | 45.4 | -1.4% | +6.9% |
 
-### NEWBUILDING PRICES (USD MLN)
-
-| Date | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Oct-23 | 35 | 76 | 42 |
-| Feb-24 | 36 | 78 | 43 |
-| Jun-24 | 37 | 80 | 44 |
-| Oct-24 | 38 | 81 | 45 |
+> **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -464,14 +329,7 @@ While the Indian demolition market has managed to hold on to the positive gains 
 | **Tnk India** | usd/ldt | 482.2 | 478.9 | +0.7% | -10.7% |
 | **Tnk Bangladesh** | usd/ldt | 487.5 | 488.2 | -0.1% | -2.9% |
 
-### DEMOLITION PRICES (USD/LDT)
-
-| Date | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Oct-23 | 505 | 510 |
-| Feb-24 | 500 | 505 |
-| Jun-24 | 520 | 530 |
-| Oct-24 | 465 | 470 |
+> **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 40/2024
 
@@ -514,14 +372,7 @@ In the Aframax segment, **LAMBADA** 105,000 dwt 2006 Samsung was reported sold t
 | **Aframax** | usd mln | 72.6 | 72.7 | -0.1% | +13.7% |
 | **MR Product** | usd mln | 47.2 | 46.9 | +0.7% | +12.5% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Date | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Oct-23 | 32 | 65 | 42 |
-| Feb-24 | 35 | 68 | 44 |
-| Jun-24 | 37 | 72 | 46 |
-| Oct-24 | 36 | 72 | 47 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 40/2024
 
@@ -579,46 +430,13 @@ In the Aframax segment, **LAMBADA** 105,000 dwt 2006 Samsung was reported sold t
 | **Q1 25** | usd/day | 11,038 | 10,979 | +0.5% | -14.2% |
 | **Q2 25** | usd/day | 12,525 | 12,550 | -0.2% | -2.6% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-23 | 25000 |
-| Oct-23 | 55000 |
-| Apr-24 | 25000 |
-| Oct-24 | 27000 |
-| Apr-25 | 20000 |
-| Oct-25 | 25000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-### PANAMAX FORWARD CURVE (USD/DAY)
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Oct-23 | 15000 |
-| Apr-24 | 15000 |
-| Oct-24 | 14000 |
-| Apr-25 | 15000 |
-| Oct-25 | 15000 |
-
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | 13000 |
-| Apr-24 | 16000 |
-| Oct-24 | 14000 |
-| Apr-25 | 13000 |
-| Oct-25 | 13000 |
-
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | 13000 |
-| Apr-24 | 14000 |
-| Oct-24 | 13000 |
-| Apr-25 | 12000 |
-| Oct-25 | 12000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -629,14 +447,7 @@ In the Aframax segment, **LAMBADA** 105,000 dwt 2006 Samsung was reported sold t
 | KRW/USD | 1346 | 1308 | +2.9% | -0.4% |
 | CNY/USD | 7.02 | 7.01 | +0.1% | -3.9% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Oct-23 | 150 |
-| Feb-24 | 140 |
-| Jun-24 | 160 |
-| Oct-24 | 145 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 40/2024
 
@@ -659,14 +470,7 @@ In the Aframax segment, **LAMBADA** 105,000 dwt 2006 Samsung was reported sold t
 |  | **Fujairah** | usd/t | 129.0 | 117.0 | +10.3% | -32.1% |
 |  | **Singapore** | usd/t | 107.0 | 132.0 | -18.9% | -40.9% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Oct-23 | 480 | 680 | 850 |
-| Feb-24 | 460 | 600 | 800 |
-| Jun-24 | 470 | 580 | 750 |
-| Oct-24 | 490 | 560 | 720 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -684,23 +488,9 @@ In the Aframax segment, **LAMBADA** 105,000 dwt 2006 Samsung was reported sold t
 | LNG TTF Netherlands | usd/mmbtu | 13.13 | 12.47 | +5.3% | -0.0% |
 | LNG North East Asia | usd/mmbtu | 13.10 | 13.10 | +0.0% | -12.7% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Oct-23 | 88 | 88 |
-| Feb-24 | 82 | 72 |
-| Jun-24 | 88 | 85 |
-| Oct-24 | 75 | 72 |
-
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Oct-23 | 3.2 |
-| Feb-24 | 1.8 |
-| Jun-24 | 2.5 |
-| Oct-24 | 2.9 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -711,14 +501,7 @@ In the Aframax segment, **LAMBADA** 105,000 dwt 2006 Samsung was reported sold t
 | Steam Coal Newcastle | usd/t | 140.1 | 136.5 | +2.7% | -13.3% |
 | Coking Coal Australia SGX | usd/t | 221.5 | 185.0 | +19.7% | -32.7% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Oct-23 | 160 | 120 |
-| Feb-24 | 140 | 110 |
-| Jun-24 | 145 | 100 |
-| Oct-24 | 140 | 105 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -729,14 +512,7 @@ In the Aframax segment, **LAMBADA** 105,000 dwt 2006 Samsung was reported sold t
 | Rebar Steel in China | rmb/t | 3327.0 | 3194.0 | +4.2% | -8.2% |
 | HRC Steel in China | rmb/t | 3483.0 | 3343.0 | +4.2% | -9.9% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | HRC | Plate |
-| --- | --- | --- |
-| Oct-23 | 3600 | 3800 |
-| Feb-24 | 3700 | 3900 |
-| Jun-24 | 3100 | 3200 |
-| Oct-24 | 3300 | 3500 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -750,11 +526,4 @@ In the Aframax segment, **LAMBADA** 105,000 dwt 2006 Samsung was reported sold t
 | Palm Oil Malaysia | usd/t | 1043.8 | 1009.5 | +3.4% | +32.8% |
 | Ferts Urea Middle East | usd/t | 345.5 | 345.5 | +0.0% | -18.2% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Oct-23 | 480 | 560 |
-| Feb-24 | 400 | 580 |
-| Jun-24 | 420 | 680 |
-| Oct-24 | 420 | 580 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.

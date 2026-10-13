@@ -23,30 +23,15 @@ Looking at major loading ports for iron ore in Brazil, we have: Ponta da Madeira
 | Destination | 2023 (1-12) | 2024 (1-12) | 2025 (1-12) |
 | --- | --- | --- | --- |
 | China | 254.6 | 272.5 | 288.4 |
-| Malaysia | 18.4 | 19.4 | 21.4 |
-| EU | 16.5 | 17.1 | 13.8 |
-| Oman | 9.8 | 12.4 | 11.3 |
-| Japan | 11.4 | 10.4 | 10.5 |
-| Bahrain | 10.4 | 10.0 | 9.9 |
+| Malaysia | 18.0 | 19.1 | 21.4 |
+| EU | 16.9 | 17.1 | 13.8 |
+| Oman | 9.8 | 12.8 | 11.3 |
+| Japan | 11.4 | 10.6 | 10.5 |
+| Bahrain | 10.8 | 10.0 | 9.9 |
 | S Korea | 7.4 | 7.5 | 7.2 |
-| Others/ Unknown | 33.4 | 30.1 | 38.1 |
+| Others/Unknown | 33.4 | 30.8 | 38.1 |
 
-### Brazil - Monthly Iron Ore Exports - Seasonality (feb 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
-
-| Month | 2021 | 2022 | 2023 | 2024 | 2025 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 26.0 | 22.5 | 23.0 | 27.0 | 26.5 |
-| Feb | 24.0 | 21.0 | 24.5 | 27.5 | 26.0 |
-| Mar | 25.0 | 23.0 | 25.0 | 28.0 | 27.5 |
-| Apr | 24.0 | 24.0 | 25.5 | 28.5 | 30.5 |
-| May | 26.0 | 25.0 | 27.0 | 31.0 | 31.0 |
-| Jun | 30.0 | 32.0 | 33.5 | 35.0 | 35.5 |
-| Jul | 34.0 | 34.0 | 34.0 | 35.5 | 35.0 |
-| Aug | 36.0 | 35.0 | 34.0 | 36.5 | 40.5 |
-| Sep | 34.0 | 33.0 | 33.0 | 34.0 | 35.0 |
-| Oct | 33.0 | 29.0 | 32.0 | 33.5 | 36.5 |
-| Nov | 30.0 | 28.0 | 31.0 | 32.0 | 35.5 |
-| Dec | 29.0 | 30.0 | 36.0 | 32.5 | 38.0 |
+> **Chart (not transcribed):** Brazil - Monthly Iron Ore Exports - Seasonality (feb 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 
 # NEWS
 # COMMODITY NEWS – DRY BULK
@@ -139,17 +124,7 @@ Bid-offer spreads widened on the Tubarao to Qingdao route, with bids in the low 
 | **Newcastlemax 1-Y Period** | usd/day | 31,900 | 33,000 | -3.3% | +39.9% |
 | **Capesize 1-Y Period** | usd/day | 28,500 | 29,500 | -3.4% | +50.0% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Feb-25 | 20000 | 5000 |
-| Apr-25 | 22000 | 25000 |
-| Jun-25 | 25000 | 30000 |
-| Aug-25 | 24000 | 28000 |
-| Oct-25 | 23000 | 35000 |
-| Dec-25 | 26000 | 45000 |
-| Feb-26 | 25000 | 22000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -179,22 +154,7 @@ The week started softer, including one fixture reported in the mid-USD 14,000 ra
 | **Kamsarmax 1-Y Period** | usd/day | 16,300 | 16,300 | +0.0% | +48.2% |
 | **Panamax 1-Y Period** | usd/day | 14,800 | 14,800 | +0.0% | +48.0% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Feb-25 | 10000 | 9000 |
-| Mar-25 | 11000 | 10000 |
-| Apr-25 | 10500 | 11000 |
-| May-25 | 11500 | 12000 |
-| Jun-25 | 12000 | 14000 |
-| Jul-25 | 13000 | 15000 |
-| Aug-25 | 14000 | 16000 |
-| Sep-25 | 13500 | 15500 |
-| Oct-25 | 14500 | 16500 |
-| Nov-25 | 14000 | 15000 |
-| Dec-25 | 13000 | 14000 |
-| Feb-26 | 15000 | 15500 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -254,23 +214,9 @@ The market currently appears split in two. In the PG-WCI sector, an uptick in ra
 | **38k Handy 1-Y Period** | usd/day | 13,500 | 13,000 | +3.8% | +17.4% |
 | **30k Handy 1-Y Period** | usd/day | 9,800 | 9,800 | +0.0% | +15.3% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Feb-25 | 11000 | 6000 |
-| Jun-25 | 13000 | 14000 |
-| Oct-25 | 14500 | 16500 |
-| Feb-26 | 14000 | 11500 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Feb-25 | 11500 | 6500 |
-| Jun-25 | 12500 | 12000 |
-| Oct-25 | 14000 | 16000 |
-| Feb-26 | 13000 | 12000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -313,49 +259,15 @@ Delays for daylight-restricted tankers at the **Turkish Straits** decreased to a
 | **Aframax TCE Average** | usd/day | 76,767 | 89,334 | -14.1% | +189.0% |
 | **Aframax 1-Y Period** | usd/day | 44,000 | 43,000 | +2.3% | +47.9% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-25 | 40000 |
-| Jun-25 | 20000 |
-| Oct-25 | 100000 |
-| Feb-26 | 130000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Feb-25 | 20000 |
-| Jun-25 | 40000 |
-| Oct-25 | 100000 |
-| Feb-26 | 120000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 10000 |
-| Jun-25 | 40000 |
-| Oct-25 | 80000 |
-| Feb-26 | 100000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 30000 |
-| Jun-25 | 30000 |
-| Oct-25 | 60000 |
-| Feb-26 | 100000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Category | Feb-25 | Jun-25 | Oct-25 | Feb-26 |
-| --- | --- | --- | --- | --- |
-| VLCC | 40000 | 40000 | 50000 | 80000 |
-| Suezmax | 30000 | 30000 | 35000 | 45000 |
-| Aframax | 25000 | 25000 | 30000 | 40000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -398,48 +310,7 @@ No activity was reported last week. Europe/trans-Atlantic levels remain assessed
 | ****TD18-TCE Baltic-UKC (30K)**** | usd/day | 34,913 | 28,934 | +20.7% | +117.8% |
 | ****Med-Med (30k)**** | ws | 300.0 | 295.0 | +1.7% | +122.2% |
 
-| Chart Title | Date | Value (usd/day) |
-| --- | --- | --- |
-| TC1 LR2 MEG-JAPAN | Feb-25 | 20,000 |
-| TC1 LR2 MEG-JAPAN | Mar-25 | 35,000 |
-| TC1 LR2 MEG-JAPAN | Apr-25 | 40,000 |
-| TC1 LR2 MEG-JAPAN | May-25 | 55,000 |
-| TC1 LR2 MEG-JAPAN | Jun-25 | 20,000 |
-| TC1 LR2 MEG-JAPAN | Jul-25 | 25,000 |
-| TC1 LR2 MEG-JAPAN | Aug-25 | 30,000 |
-| TC1 LR2 MEG-JAPAN | Sep-25 | 25,000 |
-| TC1 LR2 MEG-JAPAN | Oct-25 | 20,000 |
-| TC1 LR2 MEG-JAPAN | Nov-25 | 35,000 |
-| TC1 LR2 MEG-JAPAN | Dec-25 | 45,000 |
-| TC1 LR2 MEG-JAPAN | Feb-26 | 50,000 |
-| MR ATLANTIC BASKET | Feb-25 | 20,000 |
-| MR ATLANTIC BASKET | Mar-25 | 25,000 |
-| MR ATLANTIC BASKET | Apr-25 | 30,000 |
-| MR ATLANTIC BASKET | May-25 | 40,000 |
-| MR ATLANTIC BASKET | Jun-25 | 10,000 |
-| MR ATLANTIC BASKET | Jul-25 | 35,000 |
-| MR ATLANTIC BASKET | Aug-25 | 45,000 |
-| MR ATLANTIC BASKET | Sep-25 | 30,000 |
-| MR ATLANTIC BASKET | Oct-25 | 40,000 |
-| MR ATLANTIC BASKET | Nov-25 | 35,000 |
-| MR ATLANTIC BASKET | Dec-25 | 20,000 |
-| MR ATLANTIC BASKET | Feb-26 | 55,000 |
-| MR PACIFIC BASKET | Feb-25 | 15,000 |
-| MR PACIFIC BASKET | Mar-25 | 20,000 |
-| MR PACIFIC BASKET | Apr-25 | 25,000 |
-| MR PACIFIC BASKET | May-25 | 35,000 |
-| MR PACIFIC BASKET | Jun-25 | 38,000 |
-| MR PACIFIC BASKET | Jul-25 | 30,000 |
-| MR PACIFIC BASKET | Aug-25 | 25,000 |
-| MR PACIFIC BASKET | Sep-25 | 30,000 |
-| MR PACIFIC BASKET | Oct-25 | 32,000 |
-| MR PACIFIC BASKET | Nov-25 | 35,000 |
-| MR PACIFIC BASKET | Dec-25 | 32,000 |
-| MR PACIFIC BASKET | Feb-26 | 35,000 |
-| 1 YR TC PERIOD (USD/DAY) | Feb-25 | 28,000 |
-| 1 YR TC PERIOD (USD/DAY) | Jun-25 | 28,000 |
-| 1 YR TC PERIOD (USD/DAY) | Oct-25 | 35,000 |
-| 1 YR TC PERIOD (USD/DAY) | Feb-26 | 42,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -467,32 +338,11 @@ The charter market is stabilising with firm rates and a balanced supply of vesse
 | **1700 teu (1Y, geared)** | usd/day | 30,452 | 30,268 | +0.6% | +33.2% |
 | **1100 teu (1Y, geared)** | usd/day | 15,952 | 15,986 | -0.2% | +13.6% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Feb-25 | 52000 | 41000 | 34000 |
-| Jun-25 | 50000 | 42000 | 35000 |
-| Oct-25 | 52000 | 41000 | 36000 |
-| Feb-26 | 50000 | 41000 | 35000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Feb-25 | 32000 | 23000 | 14000 |
-| Jun-25 | 34000 | 25000 | 16000 |
-| Oct-25 | 34000 | 28000 | 17000 |
-| Feb-26 | 34000 | 30000 | 17000 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | FBX |
-| --- | --- |
-| Feb-25 | 3500 |
-| Jun-25 | 3700 |
-| Oct-25 | 2000 |
-| Feb-26 | 2300 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -503,14 +353,7 @@ The charter market is stabilising with firm rates and a balanced supply of vesse
 | **China - WCNA** | usd/feu | 1,916 | 2,418 | -20.8% | -62.3% |
 | **China - N. Europe** | usd/feu | 2,548 | 2,779 | -8.3% | -30.5% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | China - N. Europe |
-| --- | --- |
-| Feb-25 | 3600 |
-| Jun-25 | 3400 |
-| Oct-25 | 1800 |
-| Feb-26 | 2600 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 06/2026
 
@@ -591,14 +434,7 @@ In the bulk sector, the scrubber-fitted postpanamax JP CARETTA 88,083 dwt 2008 I
 | Aframax | usd mln | 68.7 | 67.0 | +2.6% | -1.8% |
 | MR Product | usd mln | 42.9 | 42.8 | +0.1% | -3.2% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Date | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Feb-25 | 32 | 70 | 42 |
-| Jun-25 | 31 | 65 | 41 |
-| Oct-25 | 32 | 66 | 42 |
-| Feb-26 | 32 | 68 | 43 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 06/2026
 
@@ -617,15 +453,7 @@ In the bulk sector, the scrubber-fitted postpanamax JP CARETTA 88,083 dwt 2008 I
 | Q4 26 | usd/day | 32,699 | 32,696 | +0.0% | +27.3% |
 | Q1 27 | usd/day | 23,474 | 23,360 | +0.5% | -8.6% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 5000 |
-| Aug-25 | 15000 |
-| Feb-26 | 45000 |
-| Aug-26 | 35000 |
-| Feb-27 | 35000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -640,15 +468,7 @@ In the bulk sector, the scrubber-fitted postpanamax JP CARETTA 88,083 dwt 2008 I
 | **Q4 26** | usd/day | 15,561 | 15,339 | +1.4% | +4.9% |
 | **Q1 27** | usd/day | 13,379 | 13,254 | +0.9% | -9.8% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 10000 |
-| Aug-25 | 15000 |
-| Feb-26 | 18000 |
-| Aug-26 | 18000 |
-| Feb-27 | 15000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (63k)
 
@@ -663,15 +483,7 @@ In the bulk sector, the scrubber-fitted postpanamax JP CARETTA 88,083 dwt 2008 I
 | Q4 26 | usd/day | 15,884 | 15,663 | +1.4% | +12.8% |
 | Q1 27 | usd/day | 14,145 | 14,059 | +0.6% | +0.5% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 10000 |
-| Aug-25 | 18000 |
-| Feb-26 | 18000 |
-| Aug-26 | 16000 |
-| Feb-27 | 16000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -686,15 +498,7 @@ In the bulk sector, the scrubber-fitted postpanamax JP CARETTA 88,083 dwt 2008 I
 | **Q4 26** | usd/day | 12,505 | 12,435 | +0.6% | +8.8% |
 | **Q1 27** | usd/day | 11,455 | 11,410 | +0.4% | -0.3% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 8000 |
-| Aug-25 | 16000 |
-| Feb-26 | 13000 |
-| Aug-26 | 13000 |
-| Feb-27 | 13000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -705,14 +509,7 @@ In the bulk sector, the scrubber-fitted postpanamax JP CARETTA 88,083 dwt 2008 I
 | KRW/USD | 1463 | 1450 | +0.9% | +0.5% |
 | CNY/USD | 6.94 | 6.95 | -0.2% | -4.3% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Feb-25 | 155 |
-| Jun-25 | 140 |
-| Oct-25 | 155 |
-| Feb-26 | 158 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 06/2026
 

@@ -26,7 +26,7 @@ Qatar is now in third place amongst top suppliers to the EU, with a 10.7% share,
 
 | Source | 2022 (1-6) | 2023 (1-6) | 2024 (1-6) |
 | --- | --- | --- | --- |
-| USA | 22.2 | 22.6 | 20.9 |
+| USA | 22.1 | 22.6 | 20.9 |
 | Russia | 8.7 | 7.7 | 8.8 |
 | Qatar | 5.6 | 6.5 | 4.8 |
 | N Africa | 4.2 | 4.2 | 3.8 |
@@ -35,22 +35,7 @@ Qatar is now in third place amongst top suppliers to the EU, with a 10.7% share,
 | Trinidad | 1.2 | 1.2 | 0.8 |
 | Others/Unknown | 1.1 | 2.1 | 1.3 |
 
-### EU - Monthly LNG Imports - Seasonality (sep 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
-
-| Month | 2020 | 2021 | 2022 | 2023 | 2024 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 5.5 | 2.8 | 7.2 | 8.0 | 8.1 |
-| Feb | 5.8 | 6.2 | 7.8 | 8.0 | 7.9 |
-| Mar | 6.8 | 6.4 | 8.5 | 9.5 | 8.2 |
-| Apr | 7.5 | 6.6 | 9.4 | 9.6 | 8.3 |
-| May | 7.2 | 6.5 | 8.2 | 8.0 | 8.2 |
-| Jun | 4.8 | 6.4 | 8.0 | 7.8 | 6.8 |
-| Jul | 4.5 | 6.2 | 7.8 | 8.0 | 4.2 |
-| Aug | 4.2 | 4.5 | 7.5 | 8.0 | 4.3 |
-| Sep | 4.0 | 4.2 | 7.2 | 6.8 | 4.1 |
-| Oct | 4.0 | 4.8 | 7.8 | 8.5 | 4.2 |
-| Nov | 4.0 | 5.2 | 9.8 | 9.5 | 5.0 |
-| Dec | 4.0 | 6.0 | 9.8 | 8.8 | 6.0 |
+> **Chart (not transcribed):** EU - Monthly LNG Imports - Seasonality (sep 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -76,18 +61,7 @@ Glencore fixed the MV Cape Friendship (185,879 dwt | 2005 built) to load a cargo
 | **Newcastlemax 1-Y Period** | usd/day | 31,200 | 31,200 | +0.0% | +79.3% |
 | **Capesize 1-Y Period** | usd/day | 26,000 | 26,000 | +0.0% | +79.3% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Aug-23 | 15000 | 8000 |
-| Oct-23 | 20000 | 30000 |
-| Nov-23 | 22000 | 55000 |
-| Dec-23 | 28000 | 35000 |
-| Jan-24 | 27000 | 25000 |
-| Feb-24 | 26000 | 28000 |
-| Mar-24 | 26000 | 26000 |
-| Apr-24 | 26000 | 24000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -113,18 +87,7 @@ Australia RV to China was fixed around low-teens with an 82,000 dwt 2015 built w
 | **Kamsarmax 1-Y Period** | usd/day | 15,600 | 15,900 | -1.9% | +9.1% |
 | **Panamax 1-Y Period** | usd/day | 13,000 | 13,300 | -2.3% | +8.3% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Aug-23 | 14000 | 14000 |
-| Oct-23 | 15000 | 21000 |
-| Nov-23 | 14500 | 12000 |
-| Dec-23 | 15500 | 19000 |
-| Jan-24 | 16000 | 15000 |
-| Feb-24 | 16500 | 16000 |
-| Mar-24 | 16000 | 17000 |
-| Apr-24 | 15500 | 14000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -184,31 +147,9 @@ Compared to last week the market remained pretty much unchanged. A 52,000 dwt wi
 | **38k Handy 1-Y Period** | usd/day | 13,500 | 13,500 | +0.0% | +42.1% |
 | **30k Handy 1-Y Period** | usd/day | 10,000 | 10,000 | +0.0% | +33.3% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Aug-23 | 11000 | 11000 |
-| Oct-23 | 13000 | 14000 |
-| Nov-23 | 12000 | 11000 |
-| Dec-23 | 16000 | 17000 |
-| Jan-24 | 14000 | 12000 |
-| Feb-24 | 14500 | 13000 |
-| Mar-24 | 14000 | 14000 |
-| Apr-24 | 14000 | 14000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Aug-23 | 10000 | 9000 |
-| Oct-23 | 13000 | 12000 |
-| Nov-23 | 12000 | 10000 |
-| Dec-23 | 14000 | 16000 |
-| Jan-24 | 14000 | 13000 |
-| Feb-24 | 14500 | 14000 |
-| Mar-24 | 14000 | 14000 |
-| Apr-24 | 14000 | 14000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -249,51 +190,15 @@ Compared to last week the market remained pretty much unchanged. A 52,000 dwt wi
 | **Aframax TCE Average** | usd/day | 22,730 | 25,635 | -11.3% | +66.3% |
 | **Aframax 1-Y Period** | usd/day | 42,000 | 44,000 | -4.5% | +2.4% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-23 | 15000 |
-| Nov-23 | 60000 |
-| Dec-23 | 70000 |
-| Jan-24 | 75000 |
-| Apr-24 | 25000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Aug-23 | 5000 |
-| Nov-23 | 85000 |
-| Dec-23 | 40000 |
-| Apr-24 | 20000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-23 | -10000 |
-| Nov-23 | 100000 |
-| Dec-23 | 40000 |
-| Apr-24 | 30000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-23 | -10000 |
-| Nov-23 | 90000 |
-| Dec-23 | 40000 |
-| Apr-24 | 30000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Aug-23 | 50000 | 42000 | 42000 |
-| Nov-23 | 45000 | 48000 | 47000 |
-| Dec-23 | 46000 | 45000 | 44000 |
-| Apr-24 | 48000 | 43000 | 45000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -373,29 +278,11 @@ Activity slight increased last week and should signal that summer holidays are o
 | **1700 teu (1Y, geared)** | usd/day | 20,409 | 20,482 | -0.4% | +66.2% |
 | **1100 teu (1Y, geared)** | usd/day | 13,752 | 13,691 | +0.4% | +35.3% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Aug-23 | 18000 | 17500 | 16000 |
-| Dec-23 | 16000 | 15500 | 14500 |
-| Apr-24 | 42500 | 38000 | 35000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Aug-23 | 14000 | 12000 | 10000 |
-| Dec-23 | 12000 | 11500 | 10500 |
-| Apr-24 | 30000 | 20000 | 13000 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | FBX |
-| --- | --- |
-| Aug-23 | 1200 |
-| Dec-23 | 3000 |
-| Apr-24 | 5500 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -406,13 +293,7 @@ Activity slight increased last week and should signal that summer holidays are o
 | **China - WCNA** | usd/feu | 6,858 | 7,115 | -3.6% | +238.0% |
 | **China - N. Europe** | usd/feu | 7,770 | 7,965 | -2.4% | +344.8% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | China - N. Europe |
-| --- | --- |
-| Aug-23 | 1000 |
-| Dec-23 | 5000 |
-| Apr-24 | 8000 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 34/2024
 
@@ -435,11 +316,7 @@ The Danish Owner was rumoured in the market for up to a total of 62 vessels amon
 | **LR2 Coated** | usd mln | 69.3 | 68.8 | +0.8% | +11.1% |
 | **MR2 Coated** | usd mln | 45.4 | 44.5 | +1.9% | +8.4% |
 
-| Category | Aug-23 | Dec-23 | Apr-24 |
-| --- | --- | --- | --- |
-| Kamsarmax | 35 | 40 | 40 |
-| Suezmax | 75 | 78 | 80 |
-| MR | 40 | 42 | 44 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -454,10 +331,7 @@ A negative sentiment continues across the Indian sub-continent demolition destin
 | **Tnk India** | usd/ldt | 487.8 | 491.4 | -0.7% | -3.1% |
 | **Tnk Bangladesh** | usd/ldt | 502.7 | 506.6 | -0.8% | -3.7% |
 
-| Category | Aug-23 | Dec-23 | Apr-24 |
-| --- | --- | --- | --- |
-| Dry Bulk | 510 | 505 | 530 |
-| Tanker | 515 | 535 | 540 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE
 # SECONDHAND SALES
@@ -499,13 +373,7 @@ In the dry market the Japanese controlled Cape Azalea 206,000 dwt 2012 built NAC
 | **Aframax** | usd mln | 72.8 | 72.7 | +0.1% | +13.5% |
 | **MR Product** | usd mln | 46.8 | 46.5 | +0.5% | +11.3% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Date | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Aug-23 | 30 | 63 | 42 |
-| Dec-23 | 36 | 68 | 45 |
-| Apr-24 | 38 | 72 | 46 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 34/2024
 
@@ -525,15 +393,7 @@ In the dry market the Japanese controlled Cape Azalea 206,000 dwt 2012 built NAC
 | **Q4 24** | usd/day | 28,243 | 28,824 | -2.0% | +4.9% |
 | **Q1 25** | usd/day | 16,121 | 16,296 | -1.1% | -40.1% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-23 | 10,000 |
-| Feb-24 | 35,000 |
-| Aug-24 | 28,000 |
-| Feb-25 | 18,000 |
-| Aug-25 | 22,000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -549,15 +409,7 @@ In the dry market the Japanese controlled Cape Azalea 206,000 dwt 2012 built NAC
 | **Q4 24** | usd/day | 15,205 | 15,682 | -3.0% | +29.4% |
 | **Q1 25** | usd/day | 13,057 | 13,197 | -1.1% | +11.1% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-23 | 13,000 |
-| Feb-24 | 20,000 |
-| Aug-24 | 14,000 |
-| Feb-25 | 14,500 |
-| Aug-25 | 15,000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (58k)
 
@@ -573,15 +425,7 @@ In the dry market the Japanese controlled Cape Azalea 206,000 dwt 2012 built NAC
 | **Q4 24** | usd/day | 14,435 | 14,823 | -2.6% | +1.2% |
 | **Q1 25** | usd/day | 11,717 | 11,888 | -1.4% | -17.8% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-23 | 11,000 |
-| Feb-24 | 16,000 |
-| Aug-24 | 14,500 |
-| Feb-25 | 12,000 |
-| Aug-25 | 14,000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -597,15 +441,7 @@ In the dry market the Japanese controlled Cape Azalea 206,000 dwt 2012 built NAC
 | **Q4 24** | usd/day | 13,608 | 13,769 | -1.2% | +2.0% |
 | **Q1 25** | usd/day | 11,025 | 11,038 | -0.1% | -17.3% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Aug-23 | 10,000 |
-| Feb-24 | 16,000 |
-| Aug-24 | 14,000 |
-| Feb-25 | 11,500 |
-| Aug-25 | 13,000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -616,13 +452,7 @@ In the dry market the Japanese controlled Cape Azalea 206,000 dwt 2012 built NAC
 | KRW/USD | 1337 | 1323 | +1.0% | +1.0% |
 | CNY/USD | 7.09 | 7.12 | -0.5% | -2.7% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Aug-23 | 150 |
-| Dec-23 | 140 |
-| Apr-24 | 160 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 34/2024
 
@@ -645,23 +475,11 @@ In the dry market the Japanese controlled Cape Azalea 206,000 dwt 2012 built NAC
 |  | **Fujairah** | usd/t | 156.0 | 145.0 | +7.6% | +34.5% |
 |  | **Singapore** | usd/t | 156.0 | 164.0 | -4.9% | +45.8% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Aug-23 | 550 | 700 | 900 |
-| Dec-23 | 500 | 650 | 750 |
-| Apr-24 | 480 | 620 | 700 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## BRENT & WTI OIL PRICE (USD/BBL)
 
-### BRENT & WTI OIL PRICE (USD/BBL)
-
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Aug-23 | 90 | 80 |
-| Dec-23 | 85 | 70 |
-| Apr-24 | 75 | 72 |
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -679,13 +497,7 @@ In the dry market the Japanese controlled Cape Azalea 206,000 dwt 2012 built NAC
 | LNG TTF Netherlands | usd/mmbtu | 12.76 | 12.03 | +6.1% | +14.5% |
 | LNG North East Asia | usd/mmbtu | 14.00 | 13.80 | +1.4% | +7.7% |
 
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Date | Harry Hub Nat Gas |
-| --- | --- |
-| Aug-23 | 2.8 |
-| Dec-23 | 1.8 |
-| Apr-24 | 2.0 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -695,13 +507,7 @@ In the dry market the Japanese controlled Cape Azalea 206,000 dwt 2012 built NAC
 | **Steam Coal Newcastle** | usd/t | 145.7 | 146.4 | -0.5% | -2.3% |
 | **Coking Coal Australia SGX** | usd/t | 201.0 | 200.0 | +0.5% | -21.6% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Aug-23 | 160 | 110 |
-| Dec-23 | 140 | 130 |
-| Apr-24 | 145 | 100 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -711,13 +517,7 @@ In the dry market the Japanese controlled Cape Azalea 206,000 dwt 2012 built NAC
 | **Rebar Steel in China** | rmb/t | 3116.0 | 3000.0 | +3.9% | -13.4% |
 | **HRC Steel in China** | rmb/t | 3294.0 | 3234.0 | +1.9% | -15.9% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | HRC | Plate |
-| --- | --- | --- |
-| Aug-23 | 3800 | 3900 |
-| Dec-23 | 4000 | 4100 |
-| Apr-24 | 3100 | 3200 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -730,10 +530,4 @@ In the dry market the Japanese controlled Cape Azalea 206,000 dwt 2012 built NAC
 | **Palm Oil Malaysia** | usd/t | 944.3 | 909.0 | +3.9% | +13.6% |
 | **Ferts Urea Middle East** | usd/t | 392.5 | 392.5 | +0.0% | -0.6% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Aug-23 | 450 | 580 |
-| Dec-23 | 400 | 550 |
-| Apr-24 | 450 | 500 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.

@@ -37,20 +37,7 @@ In Jan-Mar 2026, exports from Iraq plunged sharply amid the ongoing war in the P
 
 ### Iraq - Monthly Crude Oil Exports - Seasonality (apr 2026 ; source: LSEG ; seaborne only; in mln bpd; all tankers)
 
-| Month | 2022 | 2023 | 2024 | 2025 | 2026 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 3.3 | 3.4 | 3.6 | 3.4 | 3.3 |
-| Feb | 3.5 | 3.5 | 3.7 | 3.4 | 3.5 |
-| Mar | 3.4 | 3.4 | 3.5 | 3.3 | 0.5 |
-| Apr | 3.4 | 3.3 | 3.4 | 3.4 | 3.4 |
-| May | 3.4 | 3.4 | 3.5 | 3.5 | 3.5 |
-| Jun | 3.5 | 3.5 | 3.6 | 3.5 | 3.5 |
-| Jul | 3.6 | 3.6 | 3.7 | 3.5 | 3.6 |
-| Aug | 3.5 | 3.5 | 3.6 | 3.5 | 3.7 |
-| Sep | 3.4 | 3.4 | 3.5 | 3.4 | 3.5 |
-| Oct | 3.4 | 3.5 | 3.5 | 3.4 | 3.5 |
-| Nov | 3.5 | 3.6 | 3.6 | 3.4 | 3.3 |
-| Dec | 3.4 | 3.5 | 3.5 | 3.4 | 3.4 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # NEWS
 # COMMODITY NEWS – DRY BULK
@@ -84,21 +71,7 @@ Freight derivative rates rose during Asian trading hours on 10 April. Overall, t
 | **Newcastlemax 1-Y Period** | usd/day | 35,000 | 32,800 | +6.7% | +45.8% |
 | **Capesize 1-Y Period** | usd/day | 29,300 | 29,300 | +0.0% | +46.5% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Apr-25 | 20000 | 15000 |
-| May-25 | 22000 | 28000 |
-| Jun-25 | 23000 | 29000 |
-| Jul-25 | 24000 | 30000 |
-| Aug-25 | 25000 | 29000 |
-| Sep-25 | 26000 | 28000 |
-| Oct-25 | 27000 | 27000 |
-| Nov-25 | 28000 | 43000 |
-| Dec-25 | 27000 | 25000 |
-| Jan-26 | 28000 | 26000 |
-| Apr-26 | 28000 | 25000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 # PANAMAX MARKET
 
@@ -128,17 +101,7 @@ On the East Coast Australia front, demand remained consistent with stable rates.
 | **Kamsarmax 1-Y Period** | usd/day | 18,000 | 18,000 | +0.0% | +33.3% |
 | **Panamax 1-Y Period** | usd/day | 16,300 | 16,300 | +0.0% | +35.8% |
 
-### BPI 82 TC & KAMSARMAX 1 -YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Apr-25 | 12000 | 11000 |
-| Jun-25 | 14000 | 16000 |
-| Aug-25 | 15000 | 17000 |
-| Oct-25 | 14500 | 13000 |
-| Dec-25 | 15500 | 10000 |
-| Feb-26 | 18000 | 17000 |
-| Apr-26 | 18500 | 16500 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1 -YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -194,27 +157,9 @@ Supramax and Ultramax rates held steady despite no details of concluded business
 | **38k Handy 1-Y Period** | usd/day | 14,000 | 13,800 | +1.4% | +16.7% |
 | **30k Handy 1-Y Period** | usd/day | 10,000 | 9,800 | +2.0% | +17.6% |
 
-### BSI TC & SUPRAMAX 1 -YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1 -YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Apr-25 | 11000 | 8500 |
-| Jun-25 | 12000 | 11000 |
-| Aug-25 | 13500 | 15500 |
-| Oct-25 | 14000 | 15000 |
-| Dec-25 | 11000 | 9000 |
-| Apr-26 | 14500 | 14500 |
-
-### BHSI 38 TC & HANDY 1 -YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Apr-25 | 12000 | 9500 |
-| Jun-25 | 12500 | 11000 |
-| Aug-25 | 13500 | 15000 |
-| Oct-25 | 14000 | 14500 |
-| Dec-25 | 11000 | 9500 |
-| Apr-26 | 13500 | 13500 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1 -YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -250,50 +195,15 @@ Supramax and Ultramax rates held steady despite no details of concluded business
 | **Aframax TCE Average** | usd/day | 191,131 | 222,864 | -14.2% | +278.4% |
 | **Aframax 1-Y Period** | usd/day | 70,000 | 70,000 | +0.0% | +150.0% |
 
-### TD3C VLCC MEG-FAR EAST (USD/DAY)
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Apr-25 | 0 |
-| Aug-25 | 50,000 |
-| Dec-25 | 100,000 |
-| Apr-26 | 450,000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-### TD6 SUEZMAX BSEA-MED (USD/DAY)
+> **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Apr-25 | 50,000 |
-| Aug-25 | 80,000 |
-| Dec-25 | 100,000 |
-| Apr-26 | 350,000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-### TD7 AFRAMAX NSEA-UKC (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Apr-25 | 50,000 |
-| Aug-25 | 80,000 |
-| Dec-25 | 100,000 |
-| Apr-26 | 280,000 |
-
-### TD19 AFRAMAX MED-MED (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Apr-25 | 50,000 |
-| Aug-25 | 80,000 |
-| Dec-25 | 100,000 |
-| Apr-26 | 280,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Apr-25 | 40,000 | 30,000 | 25,000 |
-| Aug-25 | 60,000 | 40,000 | 35,000 |
-| Dec-25 | 80,000 | 50,000 | 45,000 |
-| Apr-26 | 110,000 | 70,000 | 65,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -333,53 +243,13 @@ Activity was steady and tonnage balanced last week, keeping rates for 45,000-dwt
 | **TD18-TCE Baltic-UKC (30K)** | usd/day | 52,404 | 45,833 | +14.3% | +48.8% |
 | ****Med-Med (30k)**** | ws | 415.0 | 400.0 | +3.8% | +88.6% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Apr-25 | 20,000 |
-| Jun-25 | 40,000 |
-| Aug-25 | 45,000 |
-| Oct-25 | 50,000 |
-| Dec-25 | 55,000 |
-| Feb-26 | 150,000 |
-| Apr-26 | 160,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Apr-25 | 10,000 |
-| Jun-25 | 30,000 |
-| Aug-25 | 35,000 |
-| Oct-25 | 40,000 |
-| Dec-25 | 45,000 |
-| Feb-26 | 90,000 |
-| Apr-26 | 100,000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Apr-25 | 15,000 |
-| Jun-25 | 25,000 |
-| Aug-25 | 35,000 |
-| Oct-25 | 30,000 |
-| Dec-25 | 35,000 |
-| Feb-26 | 45,000 |
-| Apr-26 | 38,000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Apr-25 | 28,000 | 18,000 |
-| Jun-25 | 30,000 | 20,000 |
-| Aug-25 | 32,000 | 22,000 |
-| Oct-25 | 35,000 | 25,000 |
-| Dec-25 | 40,000 | 28,000 |
-| Feb-26 | 55,000 | 32,000 |
-| Apr-26 | 62,000 | 35,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -405,34 +275,11 @@ The market remains firm and resilient, maintaining a steady upward trajectory. A
 | **1700 teu (1Y, geared)** | usd/day | 30,907 | 30,698 | +0.7% | +24.3% |
 | **1100 teu (1Y, geared)** | usd/day | 16,305 | 16,275 | +0.2% | +6.0% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Apr-25 | 52000 | 42000 | 35000 |
-| Aug-25 | 53000 | 43000 | 36000 |
-| Dec-25 | 51000 | 41000 | 35500 |
-| Apr-26 | 49000 | 40000 | 34000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Apr-25 | 35000 | 24000 | 14000 |
-| Aug-25 | 36000 | 25000 | 15000 |
-| Dec-25 | 36000 | 28000 | 15500 |
-| Apr-26 | 36500 | 31000 | 16000 |
-
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | FBX |
-| --- | --- |
-| Apr-25 | 2000 |
-| Jun-25 | 3600 |
-| Aug-25 | 1800 |
-| Oct-25 | 2200 |
-| Dec-25 | 2400 |
-| Apr-26 | 1800 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -443,16 +290,7 @@ The market remains firm and resilient, maintaining a steady upward trajectory. A
 | **China - WCNA** | usd/feu | 2,488 | 2,420 | +2.8% | +10.8% |
 | **China - N. Europe** | usd/feu | 2,818 | 2,922 | -3.6% | +18.2% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | China - N. Europe |
-| --- | --- |
-| Apr-25 | 2200 |
-| Jun-25 | 3600 |
-| Aug-25 | 1800 |
-| Oct-25 | 2400 |
-| Dec-25 | 2600 |
-| Apr-26 | 2500 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 15/2026
 
@@ -473,13 +311,7 @@ In the tanker sector, China's Qingdao Beihai Shipbuilding secured an order for 1
 | **LR2 Coated** | usd mln | 69.6 | 69.3 | +0.5% | +0.1% |
 | **MR2 Coated** | usd mln | 44.7 | 44.5 | +0.4% | +0.2% |
 
-### NEWBUILDING PRICES (USD MLN)
-
-| NEWBUILDING PRICES (USD MLN) | Apr-25 | Aug-25 | Dec-25 | Apr-26 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 45 | 45 | 45 | 45 |
-| Suezmax | 80 | 80 | 80 | 80 |
-| MR | 45 | 45 | 45 | 45 |
+> **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -496,12 +328,7 @@ The ongoing tensions in the Middle East continue to show little sign of resoluti
 | **Tnk India** | usd/ldt | 441.1 | 434.0 | +1.6% | -3.4% |
 | **Tnk Bangladesh** | usd/ldt | 478.4 | 466.2 | +2.6% | +1.8% |
 
-### DEMOLITION PRICES (USD/LDT)
-
-| DEMOLITION PRICES (USD/LDT) | Apr-25 | Aug-25 | Dec-25 | Apr-26 |
-| --- | --- | --- | --- | --- |
-| Dry Bulk | 450 | 410 | 405 | 455 |
-| Tanker | 460 | 420 | 410 | 455 |
+> **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 15/2026
 
@@ -540,13 +367,7 @@ The MR1 EASTERNLY CANYON 36,677 dwt 2009 HMD built IMO 2 SS Jul 2029 was sold to
 | **Aframax** | usd mln | 73.8 | 73.3 | +0.7% | +12.8% |
 | **MR Product** | usd mln | 45.8 | 45.6 | +0.5% | +9.2% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| SECONDHAND VALUES (USD MLN) | Apr-25 | Aug-25 | Dec-25 | Apr-26 |
-| --- | --- | --- | --- | --- |
-| Kamsarmax | 30 | 30 | 33 | 35 |
-| Aframax | 65 | 64 | 68 | 73 |
-| MR | 42 | 43 | 44 | 46 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 15/2026
 
@@ -565,15 +386,7 @@ The MR1 EASTERNLY CANYON 36,677 dwt 2009 HMD built IMO 2 SS Jul 2029 was sold to
 | Q1 27 | usd/day | 24,707 | 24,432 | +1.1% | -20.7% |
 | Q2 27 | usd/day | 28,757 | 28,474 | +1.0% | -7.7% |
 
-### CAPESIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Apr-25 | 15000 |
-| Oct-25 | 45000 |
-| Apr-26 | 35000 |
-| Oct-26 | 32000 |
-| Apr-27 | 25000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -588,15 +401,7 @@ The MR1 EASTERNLY CANYON 36,677 dwt 2009 HMD built IMO 2 SS Jul 2029 was sold to
 | Q1 27 | usd/day | 13,939 | 13,882 | +0.4% | -16.8% |
 | Q2 27 | usd/day | 15,236 | 15,068 | +1.1% | -9.1% |
 
-### PANAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Apr-25 | 10000 |
-| Oct-25 | 15000 |
-| Apr-26 | 19000 |
-| Oct-26 | 16000 |
-| Apr-27 | 13000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (63k)
 
@@ -611,15 +416,7 @@ The MR1 EASTERNLY CANYON 36,677 dwt 2009 HMD built IMO 2 SS Jul 2029 was sold to
 | Q1 27 | usd/day | 14,109 | 14,048 | +0.4% | -15.4% |
 | Q2 27 | usd/day | 15,945 | 15,909 | +0.2% | -4.4% |
 
-### SUPRAMAX FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Apr-25 | 12000 |
-| Oct-25 | 18000 |
-| Apr-26 | 18000 |
-| Oct-26 | 15000 |
-| Apr-27 | 14000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -634,15 +431,7 @@ The MR1 EASTERNLY CANYON 36,677 dwt 2009 HMD built IMO 2 SS Jul 2029 was sold to
 | Q1 27 | usd/day | 11,675 | 11,620 | +0.5% | -7.5% |
 | Q2 27 | usd/day | 12,670 | 12,620 | +0.4% | +0.3% |
 
-### HANDYSIZE FORWARD CURVE (USD/DAY)
-
-| Date | Value |
-| --- | --- |
-| Apr-25 | 9000 |
-| Oct-25 | 16000 |
-| Apr-26 | 14000 |
-| Oct-26 | 13000 |
-| Apr-27 | 11000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -653,14 +442,7 @@ The MR1 EASTERNLY CANYON 36,677 dwt 2009 HMD built IMO 2 SS Jul 2029 was sold to
 | KRW/USD | 1485 | 1511 | -1.7% | +1.8% |
 | CNY/USD | 6.83 | 6.88 | -0.8% | -6.2% |
 
-### JPY/USD EXCHANGE RATE
-
-| Date | Value |
-| --- | --- |
-| Apr-25 | 140 |
-| Aug-25 | 150 |
-| Dec-25 | 158 |
-| Apr-26 | 160 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 15/2026
 
@@ -683,14 +465,7 @@ The MR1 EASTERNLY CANYON 36,677 dwt 2009 HMD built IMO 2 SS Jul 2029 was sold to
 |  | **Fujairah** | usd/t | 42.8 | 92.8 | -53.9% | -35.2% |
 |  | **Singapore** | usd/t | 96.3 | 72.8 | +32.3% | +37.5% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Category | Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- | --- |
-| Apr-25 | 500 | 500 | 500 | 500 |
-| Aug-25 | 600 | 600 | 600 | 600 |
-| Dec-25 | 700 | 700 | 700 | 700 |
-| Apr-26 | 2000 | 700 | 2000 | 2000 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -708,23 +483,9 @@ The MR1 EASTERNLY CANYON 36,677 dwt 2009 HMD built IMO 2 SS Jul 2029 was sold to
 | **LNG TTF Netherlands** | usd/mmbtu | 15.09 | 16.83 | -10.4% | +28.9% |
 | **LNG North East Asia** | usd/mmbtu | 17.00 | 19.00 | -10.5% | +30.8% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Apr-25 | 60 | 60 |
-| Aug-25 | 70 | 65 |
-| Dec-25 | 65 | 60 |
-| Apr-26 | 110 | 100 |
-
-### HENRY HUB PRICE (USD/MMBTU)
-
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Apr-25 | 3.5 |
-| Aug-25 | 2.8 |
-| Dec-25 | 5.0 |
-| Apr-26 | 2.8 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -734,14 +495,7 @@ The MR1 EASTERNLY CANYON 36,677 dwt 2009 HMD built IMO 2 SS Jul 2029 was sold to
 | **Steam Coal Newcastle** | usd/t | 135.9 | 135.9 | +0.0% | +45.6% |
 | **Coking Coal Australia SGX** | usd/t | 229.8 | 233.5 | -1.6% | +28.4% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Apr-25 | 95 | 100 |
-| Aug-25 | 110 | 105 |
-| Dec-25 | 105 | 105 |
-| Apr-26 | 135 | 105 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -751,14 +505,7 @@ The MR1 EASTERNLY CANYON 36,677 dwt 2009 HMD built IMO 2 SS Jul 2029 was sold to
 | **Rebar Steel in China** | rmb/t | 3066.0 | 3091.0 | -0.8% | -1.8% |
 | **HRC Steel in China** | rmb/t | 3255.0 | 3250.0 | +0.2% | -2.1% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | HRC | Plate |
-| --- | --- | --- |
-| Apr-25 | 3050 | 3350 |
-| Aug-25 | 3100 | 3400 |
-| Dec-25 | 3000 | 3300 |
-| Apr-26 | 3050 | 3300 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -770,12 +517,5 @@ The MR1 EASTERNLY CANYON 36,677 dwt 2009 HMD built IMO 2 SS Jul 2029 was sold to
 | **Sugar ICE N.11** | usc/lb | 13.75 | 15.00 | -8.3% | -27.0% |
 | **Palm Oil Malaysia** | usd/t | 1131.3 | 1176.8 | -3.9% | +6.7% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Apr-25 | 450 | 550 |
-| Aug-25 | 400 | 500 |
-| Dec-25 | 420 | 550 |
-| Apr-26 | 430 | 580 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.
 

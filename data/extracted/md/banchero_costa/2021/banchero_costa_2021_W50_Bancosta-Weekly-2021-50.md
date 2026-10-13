@@ -31,24 +31,9 @@ In terms of sources for China's iron ore imports, things changed also due to geo
 | India | 6 | 13 | 14 |
 | Canada | 11 | 17 | 14 |
 | Ukraine | 8 | 18 | 12 |
-| Others/ Unknown | 45 | 42 | 38 |
+| Others/Unknown | 45 | 42 | 38 |
 
-### China - Monthly Iron Ore Imports - Seasonality (Dec 2021 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes)
-
-| Month | 2017 | 2018 | 2019 | 2020 | 2021 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 85 | 90 | 88 | 93 | 100 |
-| Feb | 82 | 85 | 84 | 78 | 83 |
-| Mar | 88 | 87 | 86 | 89 | 88 |
-| Apr | 80 | 82 | 68 | 85 | 86 |
-| May | 86 | 88 | 84 | 90 | 89 |
-| Jun | 88 | 87 | 76 | 103 | 87 |
-| Jul | 85 | 86 | 83 | 98 | 92 |
-| Aug | 88 | 89 | 88 | 96 | 88 |
-| Sep | 87 | 88 | 89 | 85 | 99 |
-| Oct | 89 | 94 | 94 | 108 | 99 |
-| Nov | 88 | 84 | 90 | 82 | 77 |
-| Dec | 94 | 95 | 96 | 86 | 95 |
+> **Chart (not transcribed):** China - Monthly Iron Ore Imports - Seasonality (Dec 2021 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 
 # CAPESIZE MARKET
 
@@ -73,14 +58,7 @@ Same situation occurred for C9_14 route Continent/Mediterranean trip China-Japan
 | **Newcastlemax 1-Y Period** | usd/day | 26,300 | 28,300 | -7.1% | +57.0% |
 | **Capesize 1-Y Period** | usd/day | 21,500 | 23,300 | -7.7% | +50.9% |
 
-### BCI TC & CAPESIZE 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Dec-20 | 15000 | 18000 |
-| Apr-21 | 28000 | 38000 |
-| Aug-21 | 35000 | 85000 |
-| Dec-21 | 25000 | 28000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 A very bad week for the Panamax market , which showed lower and lower fixtures concluded all over the Atlantic basin. From the south, a good Kamsarmax named Theodore Jr 81k dwt fixed ECSA trip to Skaw-Med at 40k basis aps but now chrs are bidding similar ships in the same dates in the low 30ies. For fronthaul there are rumours of LME done in the high teens basis spore for ECSA/China. From the north, instead, USG trip back to Continent has been concluded at 24k dop Dunkirk on Yasa Neslihan 82/05 by messer Olam, while at the beginning of the week. Similar cargo has been clean fixed by Cargill on Yangtze Xing Hua (81,678 2012) opening Dunkirk 13 Dec via USEC redel Poland-Gib at $32,000, another input that showed how market dropped heavily this week. Decreased levels also in the Black Sea area, where mv LBC Nature 70/12 opening El Dekheila prompt fxd tct via Black Sea redel Cont at around low $20,000's with Cargill. Dreyfus fixed NYK vsl at usd 29200 for Black Sea -Spain basis dely Egypt and with chrs now bidding LME in the mid 30ies basis Canakkale for 50 days trip to China.
 
@@ -101,14 +79,7 @@ Sentiment in the Pacific has been bearish from the start of the week, as the ton
 | **Kamsarmax 1-Y Period** | usd/day | 22,000 | 23,000 | -4.3% | +83.3% |
 | **Panamax 1-Y Period** | usd/day | 17,500 | 18,300 | -4.4% | +62.8% |
 
-### BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Dec-20 | 12000 | 12000 |
-| Apr-21 | 28000 | 28000 |
-| Aug-21 | 32000 | 38000 |
-| Dec-21 | 26000 | 26000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX & HANDYSIZE MARKET
 
@@ -168,25 +139,9 @@ Last week, the trend in the Far East market remained negative, even if rates rem
 | **38k Handy 1-Y Period** | usd/day | 23,500 | 23,500 | +0.0% | +143.5% |
 | **30k Handy 1-Y Period** | usd/day | 19,000 | 19,000 | +0.0% | +123.5% |
 
-### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
+> **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Dec-20 | 10,000 | 10,000 |
-| Apr-21 | 20,000 | 25,000 |
-| Aug-21 | 28,000 | 38,000 |
-| Nov-21 | 28,000 | 36,000 |
-| Dec-21 | 18,000 | 28,000 |
-
-### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
-
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Dec-20 | 10,000 | 12,000 |
-| Apr-21 | 18,000 | 25,000 |
-| Aug-21 | 28,000 | 35,000 |
-| Nov-21 | 28,000 | 36,000 |
-| Dec-21 | 26,000 | 28,000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -284,41 +239,9 @@ Couple of 140kt Basrah/Med cargos covered at ws 35, whilst 130kt AG/East remain 
 | Nov-21 | 20000 |
 | Dec-21 | 20000 |
 
-### TD19 AFRAMAX MED-MED (USD/DAY)
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 5000 |
-| Jan-21 | 10000 |
-| Feb-21 | 35000 |
-| Mar-21 | 5000 |
-| Apr-21 | 0 |
-| May-21 | -5000 |
-| Jun-21 | -10000 |
-| Jul-21 | -5000 |
-| Aug-21 | -5000 |
-| Sep-21 | 10000 |
-| Oct-21 | 15000 |
-| Nov-21 | 20000 |
-| Dec-21 | 20000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | VLCC | Suezmax | Aframax |
-| --- | --- | --- | --- |
-| Dec-20 | 28000 | 18000 | 16000 |
-| Jan-21 | 32000 | 19000 | 16000 |
-| Feb-21 | 32000 | 19000 | 16000 |
-| Mar-21 | 28000 | 18000 | 16000 |
-| Apr-21 | 28000 | 18000 | 16000 |
-| May-21 | 28000 | 18000 | 16000 |
-| Jun-21 | 25000 | 17000 | 15000 |
-| Jul-21 | 25000 | 17000 | 15000 |
-| Aug-21 | 25000 | 17000 | 15000 |
-| Sep-21 | 22000 | 16000 | 15000 |
-| Oct-21 | 22000 | 16000 | 15000 |
-| Nov-21 | 22000 | 16000 | 15000 |
-| Dec-21 | 22000 | 16000 | 15000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 
@@ -359,77 +282,13 @@ In the Med for Handies, market keeping soft sentiment, with slow activity and mo
 | Med-Med (30k) | ws | 190.0 | 232.0 | -18.1% | +15.2% |
 | Black Sea-Med (30k) | ws | 200.0 | 242.0 | -17.4% | +14.3% |
 
-### TC1 LR2 MEG-JAPAN (usd/day)
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 15000 |
-| Jan-21 | 5000 |
-| Feb-21 | 5000 |
-| Mar-21 | 21000 |
-| Apr-21 | 5000 |
-| May-21 | 5000 |
-| Jun-21 | 8000 |
-| Jul-21 | 10000 |
-| Aug-21 | 10000 |
-| Sep-21 | 10000 |
-| Oct-21 | 12000 |
-| Nov-21 | 11000 |
-| Dec-21 | 11000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-### MR ATLANTIC BASKET (usd/day)
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 8000 |
-| Jan-21 | 8000 |
-| Feb-21 | 9000 |
-| Mar-21 | 10000 |
-| Apr-21 | 20000 |
-| May-21 | 5000 |
-| Jun-21 | 5000 |
-| Jul-21 | 5000 |
-| Aug-21 | 2000 |
-| Sep-21 | 5000 |
-| Oct-21 | 10000 |
-| Nov-21 | 18000 |
-| Dec-21 | 18000 |
-
-### MR PACIFIC BASKET (usd/day)
-
-| Date | Value |
-| --- | --- |
-| Dec-20 | 14000 |
-| Jan-21 | 0 |
-| Feb-21 | 8000 |
-| Mar-21 | 10000 |
-| Apr-21 | 8000 |
-| May-21 | 0 |
-| Jun-21 | 15000 |
-| Jul-21 | 15000 |
-| Aug-21 | 15000 |
-| Sep-21 | 8000 |
-| Oct-21 | 14000 |
-| Nov-21 | 15000 |
-| Dec-21 | 15000 |
-
-### 1 YR TC PERIOD (USD/DAY)
-
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Dec-20 | 18000 | 15000 |
-| Jan-21 | 19000 | 13000 |
-| Feb-21 | 18500 | 14000 |
-| Mar-21 | 18500 | 14500 |
-| Apr-21 | 18500 | 14500 |
-| May-21 | 18500 | 14500 |
-| Jun-21 | 18000 | 14500 |
-| Jul-21 | 17500 | 14500 |
-| Aug-21 | 17500 | 14500 |
-| Sep-21 | 18000 | 14500 |
-| Oct-21 | 18500 | 14500 |
-| Nov-21 | 19000 | 14000 |
-| Dec-21 | 19000 | 14000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -458,23 +317,9 @@ Efforts to reduce congestion at Long Beach and Los Angeles may actually be addin
 | **1700 teu (1Y, geared)** | usd/day | 42,683 | 42,367 | +0.7% | +248.9% |
 | **1100 teu (1Y, geared)** | usd/day | 30,142 | 30,058 | +0.3% | +284.3% |
 
-### GEARLESS - 1 YR TC PERIOD (USD/DAY)
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Dec-20 | 20,000 | 20,000 | 20,000 |
-| Apr-21 | 40,000 | 40,000 | 40,000 |
-| Aug-21 | 90,000 | 85,000 | 75,000 |
-| Dec-21 | 85,000 | 80,000 | 65,000 |
-
-### GEARED - 1 YR TC PERIOD (USD/DAY)
-
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Dec-20 | 10,000 | 10,000 | 8,000 |
-| Apr-21 | 30,000 | 30,000 | 25,000 |
-| Aug-21 | 80,000 | 50,000 | 30,000 |
-| Dec-21 | 60,000 | 45,000 | 30,000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -496,14 +341,7 @@ Efforts to reduce congestion at Long Beach and Los Angeles may actually be addin
 | Europe - ECSA | usd/feu | 3,503 | 3,388 | +3.4% | +309.7% |
 | Europe - WCSA | usd/feu | 7,810 | 7,695 | +1.5% | +361.6% |
 
-### FREIGHTOS BALTIC CONTAINER INDEX
-
-| Date | FBX |
-| --- | --- |
-| Dec-20 | 3,000 |
-| Apr-21 | 5,000 |
-| Aug-21 | 10,000 |
-| Dec-21 | 9,500 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 50/2021
 
@@ -524,14 +362,7 @@ In the dry sector, Chengxi shipyard got an order from domestic leasing company H
 | **LR2 Coated** | usd mln | 57.7 | 57.8 | -0.3% | +28.8% |
 | **MR2 Coated** | usd mln | 37.2 | 36.9 | +0.6% | +14.8% |
 
-### NEWBUILDING PRICES (USD MLN)
-
-| Date | Kamsarmax | LR2 | MR |
-| --- | --- | --- | --- |
-| Dec-20 | 27 | 45 | 32 |
-| Apr-21 | 28 | 47 | 34 |
-| Aug-21 | 28 | 54 | 36 |
-| Dec-21 | 28 | 57 | 37 |
+> **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -548,14 +379,7 @@ Pretty much nothing changed compared to a week ago. The demolition market still 
 | Tnk India | usd/ldt | 569.5 | -1.3% | +45.4% |
 | Tnk Pakistan | usd/ldt | 603.3 | -0.3% | +48.4% |
 
-### DEMOLITION PRICES (USD/LDT)
-
-| Date | Dry Bulk | Tanker |
-| --- | --- | --- |
-| Dec-20 | 400 | 400 |
-| Apr-21 | 520 | 540 |
-| Aug-21 | 580 | 600 |
-| Dec-21 | 600 | 630 |
+> **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 50/2021
 
@@ -619,14 +443,7 @@ Large handy bulkers 'NORDRUBICON' and 'NORDCOLORADO' 38,000 dwt 2016 Ouhua, Chin
 | Aframax | usd mln | 40.8 | 40.8 | +0.2% | +19.1% |
 | MR Product | usd mln | 28.5 | 28.4 | +0.4% | +10.7% |
 
-### SECONDHAND VALUES (USD MLN)
-
-| Date | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Dec-20 | 20 | 33 | 26 |
-| Apr-21 | 25 | 36 | 27 |
-| Aug-21 | 32 | 38 | 28 |
-| Dec-21 | 33 | 40 | 28 |
+> **Chart (not transcribed):** SECONDHAND VALUES (USD MLN). The report prints no values for it.
 
 DERIVATIVES MARKET REPORT – WEEK 50/2021 12
 
@@ -645,18 +462,7 @@ DERIVATIVES MARKET REPORT – WEEK 50/2021 12
 
 **CAPESIZE FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 15000 |
-| Jun-21 | 45000 |
-| Jul-21 | 55000 |
-| Aug-21 | 85000 |
-| Sep-21 | 90000 |
-| Oct-21 | 85000 |
-| Nov-21 | 40000 |
-| Dec-21 | 30000 |
-| Jun-22 | 25000 |
-| Dec-22 | 28000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### PANAMAX (82k)
 
@@ -697,18 +503,7 @@ DERIVATIVES MARKET REPORT – WEEK 50/2021 12
 
 **SUPRAMAX FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 10000 |
-| Jun-21 | 35000 |
-| Jul-21 | 36000 |
-| Aug-21 | 36000 |
-| Sep-21 | 25000 |
-| Oct-21 | 22000 |
-| Nov-21 | 21000 |
-| Dec-21 | 20000 |
-| Jun-22 | 20000 |
-| Dec-22 | 20000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### HANDYSIZE (38k)
 
@@ -757,39 +552,11 @@ DERIVATIVES MARKET REPORT – WEEK 50/2021 12
 
 **USD/EUR EXCHANGE RATE**
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 1.22 |
-| Jan-21 | 1.22 |
-| Feb-21 | 1.21 |
-| Mar-21 | 1.21 |
-| Apr-21 | 1.22 |
-| May-21 | 1.21 |
-| Jun-21 | 1.20 |
-| Jul-21 | 1.19 |
-| Aug-21 | 1.18 |
-| Sep-21 | 1.16 |
-| Oct-21 | 1.15 |
-| Nov-21 | 1.14 |
-| Dec-21 | 1.12 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 **JPY/USD EXCHANGE RATE**
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 103 |
-| Jan-21 | 105 |
-| Feb-21 | 108 |
-| Mar-21 | 110 |
-| Apr-21 | 110 |
-| May-21 | 110 |
-| Jun-21 | 110 |
-| Jul-21 | 110 |
-| Aug-21 | 110 |
-| Sep-21 | 112 |
-| Oct-21 | 114 |
-| Nov-21 | 115 |
-| Dec-21 | 115 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 50/2021
 
@@ -809,14 +576,7 @@ DERIVATIVES MARKET REPORT – WEEK 50/2021 12
 |  | Fujairah | usd/t | 751.0 | 754.0 | -0.4% | +74.7% |
 |  | Singapore | usd/t | 643.0 | 646.0 | -0.5% | +39.9% |
 
-### BUNKER PRICES @ SINGAPORE (USD/T)
-
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Dec-20 | 400 | 400 | 450 |
-| Apr-21 | 500 | 550 | 600 |
-| Aug-21 | 550 | 600 | 700 |
-| Dec-21 | 600 | 650 | 750 |
+> **Chart (not transcribed):** BUNKER PRICES @ SINGAPORE (USD/T). The report prints no values for it.
 
 ## OIL & GAS
 
@@ -832,23 +592,9 @@ DERIVATIVES MARKET REPORT – WEEK 50/2021 12
 | Jet Fuel Singapore | usd/bbl | 83.9 | 83.6 | +0.4% | +54.7% |
 | Nat Gas Henry Hub | usd/mmbtu | 3.71 | 3.65 | +1.5% | +45.7% |
 
-### BRENT & WTI OIL PRICE (USD/BBL)
+> **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Dec-20 | 50 | 48 |
-| Apr-21 | 65 | 70 |
-| Aug-21 | 75 | 80 |
-| Dec-21 | 70 | 68 |
-
-### HENRY HUB NAT GAS PRICE (USD/MMBTU)
-
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Dec-20 | 2.5 |
-| Apr-21 | 2.8 |
-| Aug-21 | 5.0 |
-| Dec-21 | 3.8 |
+> **Chart (not transcribed):** HENRY HUB NAT GAS PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 
@@ -860,14 +606,7 @@ DERIVATIVES MARKET REPORT – WEEK 50/2021 12
 | Coking Coal Australia SGX | usd/t | 335.3 | 346.7 | -3.3% | +202.5% |
 | Coking Coal Dalian DCE | rmb/t | 2069.0 | 2500.0 | -17.2% | +32.1% |
 
-### COAL & IRON ORE PRICE (USD/T)
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Dec-20 | 70 | 150 |
-| Apr-21 | 100 | 180 |
-| Aug-21 | 160 | 100 |
-| Dec-21 | 160 | 80 |
+> **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 
 ## IRON ORE & STEEL
 
@@ -880,14 +619,7 @@ DERIVATIVES MARKET REPORT – WEEK 50/2021 12
 | Plate in China CISA | rmb/t | 5073.0 | 5047.0 | +0.5% | +23.1% |
 | HR Coil in China CISA | rmb/t | 4875.0 | 4867.0 | +0.2% | +8.2% |
 
-### STEEL PRICES IN CHINA (RMB/T)
-
-| Date | Rebar | Plate |
-| --- | --- | --- |
-| Dec-20 | 4000 | 4200 |
-| Apr-21 | 5500 | 6200 |
-| Aug-21 | 5500 | 5500 |
-| Dec-21 | 4800 | 4800 |
+> **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 
 ## AGRICULTURAL
 
@@ -899,14 +631,7 @@ DERIVATIVES MARKET REPORT – WEEK 50/2021 12
 | Sugar ICE N.11 | usc/lb | 19.11 | 19.71 | -3.0% | +32.4% |
 | Palm Oil Malaysia | usd/t | 1157.0 | 1244.0 | -7.0% | +26.4% |
 
-### WHEAT & CORN PRICES (USD/T)
-
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Dec-20 | 450 | 600 |
-| Apr-21 | 500 | 750 |
-| Aug-21 | 550 | 750 |
-| Dec-21 | 550 | 800 |
+> **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK
