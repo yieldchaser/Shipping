@@ -265,30 +265,30 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2023-07-28,30,Yang Fan,Bulker,69163.0,10934.0,1997,540.0,Bangladesh,"""As Is"" Batam"" incl. bunkers",4,advanced_shipping_2023_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2023-07-28,30,Zheng Jie,Bulker,73409.0,10783.0,1997,495.0,Bangladesh,"""As Is"" China",4,advanced_shipping_2023_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2023-07-28,30,Zheng Hao,Bulker,73049.0,10750.0,1997,495.0,Bangladesh,As Is China,4,advanced_shipping_2023_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
-2023-08-04,31,Great Wenwu,Bulker,68621.0,9759.0,1994,,,,5,advanced_shipping_2023_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
-2023-08-04,31,Sinokor Tianjin,Container,11031.0,4672.0,1998,,,,5,advanced_shipping_2023_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
-2023-08-25,34,Lila Ningbo,Bulker,175775.0,24181.0,2002,,,,4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
-2023-08-25,34,Ming Zhou 58,Bulker,52580.0,13420.0,1990,,Undisclosed,,4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
-2023-08-25,34,Agios Nikolaos |,Bulker,73992.0,9743.0,2000,,Undisclosed,,4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
-2023-08-25,34,Sol Hind,Container,23043.0,7792.0,1996,,,,4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
-2023-08-25,34,Ming Zhou 25,Bulker,42025.0,6729.0,1990,,,,4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
-2023-08-25,34,Sinokor Akita,Container,11031.0,4672.0,1998,,,,4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
-2023-09-01,35,Yong Ning,Bulker,48139.0,12700.0,1996,,,,5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
-2023-09-01,35,Gloria 1,Bulker,77663.0,11259.0,1998,,,,5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
-2023-09-01,35,Jitra Bhum,Container,21800.0,7049.0,1997,,Undisclosed,"""As Is"" Singapore, Incl. spare propeller blade ROB",5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
-2023-09-01,35,Kama Bhum,Container,21800.0,7049.0,1997,,Undisclosed,"""As Is"" Singapore, Incl. spare propeller blade ROB",5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
-2023-09-01,35,Zefyros Reefer,Reefer,8946.0,4731.0,1990,,,,5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
-2023-09-01,35,Frio Olympic,Reefer,9734.0,4698.0,1988,,,,5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
-2023-09-08,36,Sotiria,Bulker,75265.0,11584.0,1997,,,,5,advanced_shipping_2023_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
-2023-09-08,36,Lady of Luck,Container,30730.0,11454.0,1998,,Undisclosed,,5,advanced_shipping_2023_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
-2023-09-08,36,One Happy,Bulker,45455.0,7726.0,1995,,,,5,advanced_shipping_2023_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
-2023-09-08,36,Meratus Medan 3,Container,22734.0,6776.0,1990,,Undisclosed,"""As Is"" Singapore, incl. 100MT ROB",5,advanced_shipping_2023_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
-2023-09-08,36,Cherry,Container,16544.0,6499.0,1998,,Undisclosed,"""As Is"" Singapore, incl. 350MT ROB",5,advanced_shipping_2023_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
-2023-09-15,37,Winning Joy,Bulker,172964.0,21392.0,1999,,Undisclosed,"""As Is"" Singapore, incl. 250T bunkers ROB",5,advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
-2023-09-15,37,APJ Mahadeva,Bulker,74677.0,12660.0,2000,,Undisclosed,,5,advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
-2023-09-15,37,San Shin,Bulker,73941.0,10317.0,1999,,,,5,advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
-2023-09-15,37,CUL Huizhou,Container,22000.0,8800.0,1993,,,,5,advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
-2023-09-15,37,Sinokor Vladivostok,Container,11400.0,4691.0,1998,,,,5,advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
+2023-08-04,31,Great Wenwu,Bulker,68621.0,9759.0,1994,465.0,Bangladesh,,5,advanced_shipping_2023_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
+2023-08-04,31,Sinokor Tianjin,Container,11031.0,4672.0,1998,622.0,Bangladesh,Incl. 250T ROB,5,advanced_shipping_2023_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
+2023-08-25,34,Lila Ningbo,Bulker,175775.0,24181.0,2002,495.0,India,,4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
+2023-08-25,34,Ming Zhou 58,Bulker,52580.0,13420.0,1990,425.0,Undisclosed,"""As Is"" China",4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
+2023-08-25,34,Agios Nikolaos I,Bulker,73992.0,9743.0,2000,540.0,Undisclosed,"""As Is"" Singapore""",4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
+2023-08-25,34,Sol Hind,Container,23043.0,7792.0,1996,565.0,Bangladesh,Incl. 200T bunkers,4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
+2023-08-25,34,Ming Zhou 25,Bulker,42025.0,6729.0,1990,408.0,Bangladesh,"""As Is"" China",4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
+2023-08-25,34,Sinokor Akita,Container,11031.0,4672.0,1998,564.0,India,Incl. 100T bunkers ROB,4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
+2023-09-01,35,Yong Ning,Bulker,48139.0,12700.0,1996,500.0,Pakistan,,5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
+2023-09-01,35,Gloria 1,Bulker,77663.0,11259.0,1998,525.0,Pakistan,,5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
+2023-09-01,35,Jitra Bhum,Container,21800.0,7049.0,1997,515.0,Undisclosed,"""As Is"" Singapore, Incl. spare propeller blade ROB",5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
+2023-09-01,35,Kama Bhum,Container,21800.0,7049.0,1997,515.0,Undisclosed,"""As Is"" Singapore, Incl. spare propeller blade ROB",5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
+2023-09-01,35,Zefyros Reefer,Reefer,8946.0,4731.0,1990,511.0,India,,5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
+2023-09-01,35,Frio Olympic,Reefer,9734.0,4698.0,1988,511.0,India,,5,advanced_shipping_2023_W35_ADVANCED-MARKET-REPORT-WEEK-35.pdf
+2023-09-08,36,Sotiria,Bulker,75265.0,11584.0,1997,545.0,Pakistan,,5,advanced_shipping_2023_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
+2023-09-08,36,Lady of Luck,Container,30730.0,11454.0,1998,545.0,Undisclosed,,5,advanced_shipping_2023_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
+2023-09-08,36,One Happy,Bulker,45455.0,7726.0,1995,,India,,5,advanced_shipping_2023_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
+2023-09-08,36,Meratus Medan 3,Container,22734.0,6776.0,1990,525.0,Undisclosed,"""As Is"" Singapore, incl. 100MT ROB",5,advanced_shipping_2023_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
+2023-09-08,36,Cherry,Container,16544.0,6499.0,1998,545.0,Undisclosed,"""As Is"" Singapore, incl. 350MT ROB",5,advanced_shipping_2023_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf
+2023-09-15,37,Winning Joy,Bulker,172964.0,21392.0,1999,505.0,Undisclosed,"""As Is"" Singapore, incl. 250T bunkers ROB",5,advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
+2023-09-15,37,APJ Mahadeva,Bulker,74677.0,12660.0,2000,480.0,Undisclosed,"""As Is"" Colombo",5,advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
+2023-09-15,37,San Shin,Bulker,73941.0,10317.0,1999,523.0,Pakistan,,5,advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
+2023-09-15,37,CUL Huizhou,Container,22000.0,8800.0,1993,530.0,India,"""As Is"" Oman",5,advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
+2023-09-15,37,Sinokor Vladivostok,Container,11400.0,4691.0,1998,589.0,India,,5,advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2023-09-22,38,Ever Devote,Container,55604.0,21731.0,1998,555.0,Undisclosed,"""As Is"" Singapore",4,advanced_shipping_2023_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
 2023-09-22,38,Uni-Aspire,Container,15511.0,7099.0,1998,585.0,India,Green recycling,4,advanced_shipping_2023_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
 2023-09-29,39,Ya Tai 1,Bulker,71259.0,10279.0,1995,475.0,India,"""As Is"" Guangzhou",5,advanced_shipping_2023_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf

@@ -68,29 +68,30 @@ A generally quiet week for this segment. A large Handysize was fixed for a time 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Newcastlemax | HL Imabari | 206.312 | 2008 | Imabari, Japan |  |  |  | $ | Chinese |  |
-| Capesize | lanthe | 180.018 | 2009 | Daewoo, Korea |  |  |  | $ | Undisclosed |  |
-| Capesize | Yuan Fu Star | 176.000 | 2011 | Jiangsu, China |  |  |  | Region $ | n | BWTS fitted |
-| Capesize | Maran Fortune | 174.272 | 2005 | SWS, China |  |  |  | Undisclosed | Undisclosed |  |
-| Mini Cape | Aom Elena | 106.498 | 2010 | Oshima, Japan |  |  |  | $ | Indonesian |  |
-| Post Panamax | Atlantic Hawk | 95.720 | 2012 | Imabari, Japan |  |  |  | $ | Far Eastern |  |
-| Kamsarmax | Alam Kekal | 82.079 | 2018 | Oshima, Japan |  |  |  | $ | Undisclosed |  |
-| Ultramax | IVS Hayakita | 60.402 | 2016 | Mitsui, Japan |  |  |  | $ | Greek |  |
-| Ultramax | IVS Bosch Hoek | 60.269 | 2015 | Onomichi, Japan |  |  |  | $ | (EastMed) |  |
-| Supramax | Windsor Adventure | 55.975 | 2008 | Mitsui, Japan |  |  |  | Mid $ 13m | Undisclosed | BWTS fitted |
+| Newcastlemax | HL Imabari | 206.312 | 2008 | Imabari, Japan | 10/2023 | MAN-B&W | - | $ 21,4m | Chinese | BWTS fitted |
+| Capesize | Ianthe | 180.018 | 2009 | Daewoo, Korea | 09/2024 | MAN-B&W | - | $ 21m | Undisclosed | Scrubber fitted |
+| Capesize | Yuan Fu Star | 176.000 | 2011 | Jiangsu, China | 12/2026 | MAN-B&W | - | Region $ 23m | Middle Eastern | BWTS fitted |
+| Capesize | Maran Fortune | 174.272 | 2005 | SWS, China | 08/2025 | MAN-B&W | - | Undisclosed | Undisclosed | Scrubber fitted |
+| Mini Cape | Aom Elena | 106.498 | 2010 | Oshima, Japan | 03/2025 | MAN-B&W | - | $ 20,5m | Indonesian | Scrubber fitted |
+| Post Panamax | Atlantic Hawk | 95.720 | 2012 | Imabari, Japan | 01/2027 | MAN-B&W | - | $ 22m | Far Eastern | Delivered |
+| Kamsarmax | Alam Kekal | 82.079 | 2018 | Oshima, Japan | 10/2023 | MAN-B&W | - | $ 31,8m | Undisclosed | BWTS fitted |
+| Kamsarmax | Belo Horizonte | 81.681 | 2012 | Taizhou, China | 07/2027 | Wartsila | - | Mid $ 17m | Greek (W Marine) | BWTS fitted, Incl. T/C until Dec"23 at 14,500 usd/pd |
+| Ultramax | IVS Hayakita | 60.402 | 2016 | Mitsui, Japan | 09/2026 | MAN-B&W | 4x30T | $ 46,5m enbloc | Greek (EastMed) |  |
+| Ultramax | IVS Bosch Hoek | 60.269 | 2015 | Onomichi, Japan | 10/2025 | MAN-B&W | 4x30T | $ 46,5m enbloc | Greek (EastMed) | DD 11/2023 |
+| Supramax | Windsor Adventure | 55.975 | 2008 | Mitsui, Japan | 03/2026 | MAN-B&W | 4x30,5T | Mid $ 13m | Undisclosed | BWTS fitted |
 
 ### Tankers
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Suezmax | Namsen | 157.543 | 2016 | New Times, China |  |  | $ | UK based (Hayfin Capital Holdings) |  |
-| MR | Gulf Elan | 46.894 | 2007 | Hyundai Mipo, Korea |  |  | Undisclosed | Undisclosed |  |
-| MR | Gulf Esprit | 46.891 | 2006 | Hyundai Mipo, Korea |  |  | Undisclosed | Undisclosed |  |
-| MR | Scarlet Ibis | 46.719 | 2004 | lwagi, Japan |  |  | Region $ | Undisclosed |  |
-| MR | Brunswick | 45.902 | 2010 | Shin Kurushima, Japan |  |  | $ | Vietnamese | BWTS fitted |
-| MR | Yong Xin | 44.954 | 2000 | Hanjin, Korea |  |  | Undisclosed | Undisclosed |  |
-| MR | Acamar | 37.583 | 2011 | Hyundai Mipo, Korea |  |  | $ | Undisclosed |  |
-| Chemical/Oil Products | Hong Hai 6 | 16.826 | 2012 | Jiujiang, China |  |  | $ | Undisclosed |  |
+| Suezmax | Namsen | 157.543 | 2016 | New Times, China | 11/2026 | MAN-B&W | $ 67m | UK based (Hayfin Capital Holdings) | BWTS fitted, Scrubber fitted |
+| MR | Gulf Elan | 46.894 | 2007 | Hyundai Mipo, Korea | 01/2027 | Wartsila | Undisclosed | Undisclosed | BWTS fitted |
+| MR | Gulf Esprit | 46.891 | 2006 | Hyundai Mipo, Korea | 11/2026 | Wartsila | Undisclosed | Undisclosed | BWTS fitted |
+| MR | Scarlet Ibis | 46.719 | 2004 | Iwagi, Japan | 01/2024 | MAN-B&W | Region $ 15m | Undisclosed | BWTS fitted |
+| MR | Brunswick | 45.902 | 2010 | Shin Kurushima, Japan | 01/2025 | Mitsubishi | $ 24,5m | Vietnamese | BWTS fitted |
+| MR | Yong Xin | 44.954 | 2000 | Hanjin, Korea | 07/2026 | B&W | Undisclosed | Undisclosed |  |
+| MR | Acamar | 37.583 | 2011 | Hyundai Mipo, Korea | 03/2026 | MAN-B&W | $ 23,5m | Undisclosed |  |
+| Chemical/Oil Products | Hong Hai 6 | 16.826 | 2012 | Jiujiang, China | 06/2027 | MAN-B&W | $ 12,25m | Undisclosed |  |
 
 ## Page 4
 
@@ -98,12 +99,12 @@ A generally quiet week for this segment. A large Handysize was fixed for a time 
 
 | Type | Vessel | Dwt | YoB | Ldt | Price $/ldt | Country | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bulker | Lila Ningbo | 175.775 | 2002 | 24.181 |  |  |  |
-| Bulker | Ming Zhou 58 | 52.580 | 1990 | 13.420 |  | Undisclosed |  |
-| Bulker | Agios Nikolaos \| | 73.992 | 2000 | 9.743 |  | Undisclosed |  |
-| Container | Sol Hind | 23.043 | 1996 | 7.792 |  |  |  |
-| Bulker | Ming Zhou 25 | 42.025 | 1990 | 6.729 |  |  |  |
-| Container | Sinokor Akita | 11.031 | 1998 | 4.672 |  |  |  |
+| Bulker | Lila Ningbo | 175.775 | 2002 | 24.181 | 495 | India |  |
+| Bulker | Ming Zhou 58 | 52.580 | 1990 | 13.420 | 425 | Undisclosed | "As Is" China |
+| Bulker | Agios Nikolaos I | 73.992 | 2000 | 9.743 | 540 | Undisclosed | "As Is" Singapore" |
+| Container | Sol Hind | 23.043 | 1996 | 7.792 | 565 | Bangladesh | Incl. 200T bunkers |
+| Bulker | Ming Zhou 25 | 42.025 | 1990 | 6.729 | 408 | Bangladesh | "As Is" China |
+| Container | Sinokor Akita | 11.031 | 1998 | 4.672 | 564 | India | Incl. 100T bunkers ROB |
 
 ### Indicative Demolition Prices ($/ldt)
 
@@ -141,23 +142,23 @@ A generally quiet week for this segment. A large Handysize was fixed for a time 
 | Tankers | VLCC | 310k | Resale | 125.0 | 125.0 | 0.0% |
 | Bulkers | Capesize | 180k | 5 years | 47.0 | 47.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 99.0 | 99.0 | 0.0% |
-| Bulkers | Capesize | 180k | 10 years | 28.8 | 29.0 | 0.0% |
+| Bulkers | Capesize | 180k | 10 years | 28.8 | 29.0 | -0.69% |
 | Tankers | VLCC | 300k | 10 years | 74.0 | 74.0 | 0.0% |
-| Bulkers | Capesize | 176k | 15 years | 18.3 | 18.0 | 0.0% |
+| Bulkers | Capesize | 176k | 15 years | 18.3 | 18.0 | 1.67% |
 | Tankers | VLCC | 300k | 15 years | 57.5 | 57.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | Resale | 37.0 | 37.0 | 0.0% |
 | Tankers | Suezmax | 160k | Resale | 89.0 | 89.0 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 5 years | 31.0 | 31.0 | 0.0% |
 | Tankers | Suezmax | 160k | 5 years | 72.0 | 72.0 | 0.0% |
-| Bulkers | Panamax | 78k | 10 years | 21.5 | 21.0 | 0.0% |
+| Bulkers | Panamax | 78k | 10 years | 21.5 | 21.0 | 2.38% |
 | Tankers | Suezmax | 150k | 10 years | 58.0 | 58.0 | 0.0% |
-| Bulkers | Panamax | 76k | 15 years | 13.8 | 13.0 | 0.0% |
+| Bulkers | Panamax | 76k | 15 years | 13.8 | 13.0 | 6.15% |
 | Tankers | Suezmax | 150k | 15 years | 37.0 | 37.0 | 0.0% |
-| Bulkers | Ultramax | 64k | Resale | 34.5 | 35.0 | 0.0% |
+| Bulkers | Ultramax | 64k | Resale | 34.5 | 35.0 | -1.43% |
 | Tankers | Aframax | 110k | Resale | 78.5 | 78.5 | 0.0% |
-| Bulkers | Ultramax | 63k | 5 years | 28.0 | 29.0 | 0.0% |
+| Bulkers | Ultramax | 63k | 5 years | 28.0 | 29.0 | -3.45% |
 | Tankers | Aframax | 110k | 5 years | 63.5 | 63.5 | 0.0% |
-| Bulkers | Supramax | 58k | 10 years | 17.5 | 18.0 | 0.0% |
+| Bulkers | Supramax | 58k | 10 years | 17.5 | 18.0 | -2.78% |
 | Tankers | Aframax | 105k | 10 years | 51.0 | 51.0 | 0.0% |
 | Bulkers | Supramax | 56k | 15 years | 13.0 | 13.0 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 34.0 | 34.0 | 0.0% |
@@ -166,6 +167,6 @@ A generally quiet week for this segment. A large Handysize was fixed for a time 
 | Bulkers | Handysize | 37k | 5 years | 24.0 | 24.0 | 0.0% |
 | Tankers | MR | 51k | 5 years | 40.0 | 40.0 | 0.0% |
 | Bulkers | Handysize | 37k | 10 years | 16.5 | 16.5 | 0.0% |
-| Tankers | MR | 47k | 10 years | 31.0 | 31.5 | 0.0% |
+| Tankers | MR | 47k | 10 years | 31.0 | 31.5 | -1.59% |
 | Bulkers | Handysize | 32k | 15 years | 10.5 | 10.5 | 0.0% |
-| Tankers | MR | 45k | 15 years | 23.5 | 22.0 | 0.0% |
+| Tankers | MR | 45k | 15 years | 23.5 | 22.0 | 6.82% |

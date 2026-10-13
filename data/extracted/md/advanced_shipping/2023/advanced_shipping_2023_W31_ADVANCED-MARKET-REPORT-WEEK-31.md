@@ -68,44 +68,47 @@ Trips from China into South Africa were reported at the level of usd 6,000/7,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capesize | Cape Agamemnon | 179.221 | 2010 | Sungdong, Korea | 07/2025 |  |  | Undisclosed | Undisclosed |  |
-| Capesize | Shiosai | 176.827 | 2009 | Namura & Sasebo, Japan |  |  |  | $ | Chinese |  |
-| Panamax | Despina D | 76.633 | 2004 | Imabari, Japan |  |  |  | $ 0m | Undisclosed |  |
-| Ultramax | Nord Everest | 60.436 | 2016 | Oshima, Japan |  |  |  | $ | Undisclosed |  |
-| Supramax | Devbulk Gulten | 55.865 | 2015 | Mitsui, Japan |  |  |  | $ | Undisclosed | BWTS fitted |
-| Handysize | Cielo Di Palermo | 37.059 | 2013 | Saiki, Japan |  |  |  | $ | Undisclosed | OHBS, BWTS fitted |
-| Handysize | Cecilia | 34.094 | 2010 | Orient, Korea |  |  |  | Low-Mid $ 13m | Undisclosed |  |
+| Capesize | Cape Agamemnon | 179.221 | 2010 | Sungdong, Korea | 07/2025 | MAN-B&W | - | Undisclosed | Undisclosed | Old sale |
+| Capesize | Shiosai | 176.827 | 2009 | Namura & Sasebo, Japan | 07/2027 | MAN-B&W | - | $ 20,85m | Chinese | BWTS fitted |
+| Panamax | Despina D | 76.633 | 2004 | Imabari, Japan | 10/2024 | B&W | - | Mid-High $ 10m | Undisclosed | BWTS fitted |
+| Ultramax | Nord Everest | 60.436 | 2016 | Oshima, Japan | 05/2026 | MAN-B&W | 4x30,5T | Mid $ 24m | Undisclosed | BWTS fitted |
+| Supramax | Devbulk Gulten | 55.865 | 2015 | Mitsui, Japan | 03/2025 | MAN-B&W | 4x30T | $ 22,6m | Undisclosed | BWTS fitted |
+| Handysize | Cielo Di Palermo | 37.059 | 2013 | Saiki, Japan | 08/2027 | MAN-B&W | 4x30,5T | $ 17m | Undisclosed | OHBS, BWTS fitted |
+| Handysize | Cecilia | 34.094 | 2010 | Orient, Korea | 11/2025 | MAN-B&W | 4x30T | Low-Mid $ 13m | Undisclosed | Box holds, BWTS fitted |
 
 ### Tankers
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | Fida | 316.373 | 2011 | Hyundai, Korea |  |  | $ 64m |  |  |
-| VLCC | Sifa | 316.373 | 2011 | Hyundai, Korea |  |  | $ 64m | Korean (Sinokor) |  |
-| VLCC | Saham | 299.991 | 2010 | Universal, Japan |  |  | $ 64m |  |  |
-| Suezmax | Umnenga II | 162.293 | 2006 | Daewoo, Korea |  |  | Undisclosed | Undisclosed | Scrubber fitted, Ice Class 1A |
-| Aframax | Tornado A | 105.411 | 2003 | Sumitomo, Japan |  |  | $ | Undisclosed |  |
-| LR1 | Lila Alabama | 72.514 | 2004 | Samsung, Korea |  |  | $ | Greek |  |
-| LR1 | President \| | 64.999 | 2007 | Brodosplit, Croatia |  |  | $ | Italian | Ice Class 1B |
-| MR | Cassiopeia II | 50.696 | 2008 | Spp, Korea |  |  | $ | Far Eastern |  |
-| MR | TRF Bergen | 49.126 | 2015 | Hyundai-Vinashin, Vietnam |  |  | Undisclosed | Far Eastern |  |
-| Chemical/Oil Products | RT Star | 26.199 | 2011 | Shin Kurushima, Japan |  |  | $ | Chinese | St St, BWTS fitted |
-| Chemical/Oil Products | Celsius Mayfair | 19.999 | 2007 | Fukuoka, Japan |  |  | $ | Chinese |  |
-| Oil Products | Athenia | 8.828 | 2008 | Yangzhou, China |  |  | $ | Undisclosed |  |
-| Oil Products | AD Princess | 7.054 | 2012 | Zhejiang, China |  |  | $ | Undisclosed |  |
+| VLCC | Fida | 316.373 | 2011 | Hyundai, Korea | 05/2026 | Wartsila | $ 64m | Korean (Sinokor) | BWTS fitted, Scrubber fitted |
+| VLCC | Sifa | 316.373 | 2011 | Hyundai, Korea | 01/2026 | Wartsila | $ 64m | Korean (Sinokor) | BWTS fitted, Scrubber fitted |
+| VLCC | Saham | 299.991 | 2010 | Universal, Japan | 10/2025 | MAN-B&W | $ 64m | Korean (Sinokor) | Scrubber fitted, DD 12/2023 |
+| Suezmax | Umnenga II | 162.293 | 2006 | Daewoo, Korea | 04/2026 | MAN-B&W | Undisclosed | Undisclosed | Scrubber fitted, Ice Class 1A |
+| Aframax | Tornado A | 105.411 | 2003 | Sumitomo, Japan | 09/2025 | Sulzer | $ 24,75m | Undisclosed | DD 10/2023 |
+| LR1 | Lila Alabama | 72.514 | 2004 | Samsung, Korea | 06/2024 | MAN-B&W | $ 18m | Greek | Delivered |
+| LR1 | President I | 64.999 | 2007 | Brodosplit, Croatia | 09/2027 | MAN-B&W | $ 28,6m | Italian | Ice Class 1B |
+| MR | Cassiopeia II | 50.696 | 2008 | Spp, Korea | 10/2023 | MAN-B&W | $ 23m | Far Eastern | BWTS fitted |
+| MR | TRF Bergen | 49.126 | 2015 | Hyundai-Vinashin, Vietnam | 05/2025 | MAN-B&W | Undisclosed | Far Eastern | BWTS fitted, Scrubber fitted |
+| Chemical/Oil Products | RT Star | 26.199 | 2011 | Shin Kurushima, Japan | 06/2026 | MAN-B&W | $ 19,5m | Chinese | St St, BWTS fitted |
+| Chemical/Oil Products | Celsius Mayfair | 19.999 | 2007 | Fukuoka, Japan | 01/2027 | Mitsubishi | $ 12,64m | Chinese | St St |
+| Oil Products | Athenia | 8.828 | 2008 | Yangzhou, China | 06/2027 | Yanmar | $ 4,5m | Undisclosed |  |
+| Oil Products | AD Princess | 7.054 | 2012 | Zhejiang, China | 11/2026 | Yanmar | $ 5,8m | Undisclosed | BWTS fitted |
 
 ## Page 4
 
-### General
+### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Panamax | Maersk Launceston |  | 2005 | Odense, Denmark |  |  |  | Undisclosed | Swiss based (MSC) |  |
-| Panamax | Zim Qingdao |  | 2006 | Dalian, China |  |  |  | $ |  |  |
-| Panamax | Zim Shekou |  | 2007 | Dalian, China |  |  |  | $ | Swiss based |  |
-| Panamax | Zim Vancouver |  | 2007 | Dalian, China |  |  |  | $ | (MSC) |  |
-| Panamax | Zim Yokohama |  | 2007 | Dalian, China |  |  |  | $ |  |  |
-| Feeder | A Xinxia |  | 2007 | Kyokuyo, Japan |  |  |  | $ | Vietnamese |  |
+| Post Panamax | MH Hamburg | 6.494 | 2009 | Koyo, Japan | 03/2024 | MAN-B&W | - | $ 32m | German (Foroohari Reederei) | Scrubber fitted, Incl. T/C |
+| Panamax | Zhong Gu Jiang Su | 4.963 | 2010 | Daewoo- Mangalia, Romania | 04/2025 | MAN-B&W | - | Undisclosed | Swiss based (MSC) | Ice strengthened |
+| Panamax | Maersk Launceston | 4.533 | 2005 | Odense, Denmark | 11/2024 | Sulzer | - | Undisclosed | Swiss based (MSC) |  |
+| Panamax | Zim Qingdao | 4.250 | 2006 | Dalian, China | 08/2026 | MAN-B&W | - | $ 80m enbloc | Swiss based (MSC) |  |
+| Panamax | Zim Shekou | 4.250 | 2007 | Dalian, China | 05/2027 | MAN-B&W | - | $ 80m enbloc | Swiss based (MSC) |  |
+| Panamax | Zim Vancouver | 4.250 | 2007 | Dalian, China | 08/2027 | MAN-B&W | - | $ 80m enbloc | Swiss based (MSC) |  |
+| Panamax | Zim Yokohama | 4.250 | 2007 | Dalian, China | 08/2027 | MAN-B&W | - | $ 80m enbloc | Swiss based (MSC) |  |
+| Feeder | Wan Hai 267 | 1.662 | 2002 | Shin Kurushima, Japan | 06/2027 | B&W | - | Undisclosed | Indian |  |
+| Feeder | A Xinxia | 907 | 2007 | Kyokuyo, Japan | 06/2024 | MAN-B&W | - | $ 8m | Vietnamese | BWTS fitted |
 
 ## Page 5
 
@@ -113,8 +116,8 @@ Trips from China into South Africa were reported at the level of usd 6,000/7,000
 
 | Type | Vessel | Dwt | YoB | Ldt | Price $/ldt | Country | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bulker | Great Wenwu | 68.621 | 1994 | 9.759 |  |  |  |
-| Container | Sinokor Tianjin | 11.031 | 1998 | 4.672 |  |  |  |
+| Bulker | Great Wenwu | 68.621 | 1994 | 9.759 | 465 | Bangladesh |  |
+| Container | Sinokor Tianjin | 11.031 | 1998 | 4.672 | 622 | Bangladesh | Incl. 250T ROB |
 
 ### Indicative Demolition Prices ($/ldt)
 

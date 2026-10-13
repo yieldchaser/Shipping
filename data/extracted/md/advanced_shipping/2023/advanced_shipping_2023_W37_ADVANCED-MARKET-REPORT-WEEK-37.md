@@ -68,39 +68,39 @@ A generally quiet week for this segment. Trips from US East Coast into Mediterra
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Panamax | AP Libertas | 75.213 | 2008 | Hudong- Zhonghua, China |  |  |  | $ | Chinese |  |
-| Ultramax | Galileo | 63.243 | 2014 | Yangzhou, China |  |  |  |  |  |  |
-| Ultramax | Giants Causeway | 63.197 | 2015 | Yangzhou, China |  |  |  | $ | Greek (Eurodry) |  |
-| Ultramax | Sadlers Wells | 63.153 | 2015 | Yangzhou, China |  |  |  |  |  |  |
-| Supramax | Wave Runner | 56.676 | 2008 | IHI, Japan |  |  |  | $ | Turkish |  |
-| Supramax | Jin Feng | 52.686 | 2004 | Oshima, Japan |  |  |  | $ | Chinese |  |
-| Supramax | Ocean Reef | 52.458 | 2005 | Tsuneishi Cebu, Philippines |  |  |  | $ | Undisclosed |  |
-| Handysize | Global Effort | 37.072 | 2014 | Onomichi, Japan |  |  |  | Mid-High $ 16m | Greek | OHBS, BWTS fitted |
+| Panamax | AP Libertas | 75.213 | 2008 | Hudong- Zhonghua, China | 06/2028 | MAN-B&W | - | $ 12,5m | Chinese | BWTS fitted |
+| Ultramax | Galileo | 63.243 | 2014 | Yangzhou, China | 11/2024 | MAN-B&W | 4x35T | $ 65m enbloc | Greek (Eurodry) | BWTS fitted |
+| Ultramax | Giants Causeway | 63.197 | 2015 | Yangzhou, China | 05/2025 | MAN-B&W | 4x35T | $ 65m enbloc | Greek (Eurodry) | BWTS fitted |
+| Ultramax | Sadlers Wells | 63.153 | 2015 | Yangzhou, China | 04/2025 | MAN-B&W | 4x35T | $ 65m enbloc | Greek (Eurodry) | BWTS fitted |
+| Supramax | Wave Runner | 56.676 | 2008 | IHI, Japan | 04/2025 | Wartsila | 4x30T | High $ 12m | Turkish |  |
+| Supramax | Jin Feng | 52.686 | 2004 | Oshima, Japan | 12/2024 | MAN-B&W | 4x30T | $ 8m | Chinese | BWTS fitted |
+| Supramax | Ocean Reef | 52.458 | 2005 | Tsuneishi Cebu, Philippines | 03/2025 | B&W | 4x30T | $ 8,6m | Undisclosed | BWTS fitted |
+| Handysize | Global Effort | 37.072 | 2014 | Onomichi, Japan | 10/2024 | Mitsubishi | 4x30T | Mid-High $ 16m | Greek | OHBS, BWTS fitted |
 
 ### Tankers
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Aframax | Fulmar | 115.605 | 2009 | Hanjin, Korea |  |  | $ | Middle Eastern | BWTS fitted, Scrubber fitted |
-| Aframax | Centennial Sapporo | 110.448 | 2008 | Mitsui, Japan |  |  | Region $ | Turkish (Beks) |  |
-| LR1 | Spottail | 74.997 | 2008 | Minami-Nippon, Japan |  |  | Region $ 24,5m | Undisclosed |  |
-| MR | Grand Ace8 | 46.197 | 2008 | Stx, Korea |  |  | $ | Indian |  |
-| MR | Grand Ace1 | 46.176 | 2006 | Stx, Korea |  |  | Region $ 19m | Undisclosed |  |
-| MR | NCC Najd | 45.998 | 2005 | Hyundai Mipo, Korea |  |  | Low $ 17m | Undisclosed |  |
-| MR | NCC Hijaz | 45.956 | 2005 | Hyundai Mipo, Korea |  |  | Low $ 17m | Undisclosed |  |
-| MR | Advantage Party | 37.067 | 2006 | Hyundai Mipo, Korea |  |  | $ | Turkish |  |
-| MR | Baltic Freedom | 37.048 | 2006 | Hyundai Mipo, Korea |  |  | Region $ 18m | Undisclosed | Ice Class 1A |
-| Chemical/Oil Products | MH Langoey | 19.969 | 2006 | Fukuoka, Japan |  |  | $ | Undisclosed |  |
-| Chemical/Oil Products | Strinda | 19.959 | 2006 | Fukuoka, Japan |  |  | $ | Undisclosed |  |
+| Aframax | Fulmar | 115.605 | 2009 | Hanjin, Korea | 03/2024 | MAN-B&W | $ 39,5m | Middle Eastern | BWTS fitted, Scrubber fitted |
+| Aframax | Centennial Sapporo | 110.448 | 2008 | Mitsui, Japan | 12/2023 | MAN-B&W | Region $ 35,5m | Turkish (Beks) | BWTS fitted |
+| LR1 | Spottail | 74.997 | 2008 | Minami-Nippon, Japan | 12/2023 | MAN-B&W | Region $ 24,5m | Undisclosed |  |
+| MR | Grand Ace8 | 46.197 | 2008 | Stx, Korea | 02/2028 | MAN-B&W | $ 23,8m | Indian | BWTS fitted |
+| MR | Grand Ace1 | 46.176 | 2006 | Stx, Korea | 02/2026 | MAN-B&W | Region $ 19m | Undisclosed | BWTS fitted |
+| MR | NCC Najd | 45.998 | 2005 | Hyundai Mipo, Korea | 10/2025 | MAN-B&W | Low $ 17m | Undisclosed | BWTS fitted, DD 11/2023 |
+| MR | NCC Hijaz | 45.956 | 2005 | Hyundai Mipo, Korea | 10/2025 | MAN-B&W | Low $ 17m | Undisclosed | BWTS fitted, DD 01/2024 |
+| MR | Advantage Party | 37.067 | 2006 | Hyundai Mipo, Korea | 01/2026 | MAN-B&W | $ 17,3m | Turkish | Ice Class 1A |
+| MR | Baltic Freedom | 37.048 | 2006 | Hyundai Mipo, Korea | 09/2026 | MAN-B&W | Region $ 18m | Undisclosed | Ice Class 1A |
+| Chemical/Oil Products | MH Langoey | 19.969 | 2006 | Fukuoka, Japan | 10/2026 | MAN-B&W | $ 15,5m | Undisclosed | St St, BWTS fitted |
+| Chemical/Oil Products | Strinda | 19.959 | 2006 | Fukuoka, Japan | 08/2026 | MAN-B&W | $ 15,5m | Undisclosed | St St, BWTS fitted |
 
 ## Page 4
 
-### General
+### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Panamax | OOCL St. Lawrence |  | 2005 | Hyundai, Korea |  |  |  | Undisclosed | Greek |  |
-| Feeder | AS Romina |  | 2009 | Zhejiang, China |  |  |  | Region $ | Swiss based (MSC) | BWTS fitted, Ice Class II |
+| Panamax | OOCL St. Lawrence | 5.047 | 2005 | Hyundai, Korea | 05/2025 | Sulzer | - | Undisclosed | Greek |  |
+| Feeder | AS Romina | 1.496 | 2009 | Zhejiang, China | 01/2024 | MAN | - | Region $ 7m | Swiss based (MSC) | BWTS fitted, Ice Class II |
 
 ## Page 5
 
@@ -108,11 +108,11 @@ A generally quiet week for this segment. Trips from US East Coast into Mediterra
 
 | Type | Vessel | Dwt | YoB | Ldt | Price $/ldt | Country | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bulker | Winning Joy | 172.964 | 1999 | 21.392 |  | Undisclosed | "As Is" Singapore, incl. 250T bunkers ROB |
-| Bulker | APJ Mahadeva | 74.677 | 2000 | 12.660 |  | Undisclosed |  |
-| Bulker | San Shin | 73.941 | 1999 | 10.317 |  |  |  |
-| Container | CUL Huizhou | 22.000 | 1993 | 8.800 |  |  |  |
-| Container | Sinokor Vladivostok | 11.400 | 1998 | 4.691 |  |  |  |
+| Bulker | Winning Joy | 172.964 | 1999 | 21.392 | 505 | Undisclosed | "As Is" Singapore, incl. 250T bunkers ROB |
+| Bulker | APJ Mahadeva | 74.677 | 2000 | 12.660 | 480 | Undisclosed | "As Is" Colombo |
+| Bulker | San Shin | 73.941 | 1999 | 10.317 | 523 | Pakistan |  |
+| Container | CUL Huizhou | 22.000 | 1993 | 8.800 | 530 | India | "As Is" Oman |
+| Container | Sinokor Vladivostok | 11.400 | 1998 | 4.691 | 589 | India |  |
 
 ### Indicative Demolition Prices ($/ldt)
 
@@ -165,9 +165,9 @@ A generally quiet week for this segment. Trips from US East Coast into Mediterra
 | Tankers | VLCC | 310k | Resale | 125.0 | 125.0 | 0.0% |
 | Bulkers | Capesize | 180k | 5 years | 47.0 | 47.0 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 98.0 | 98.0 | 0.0% |
-| Bulkers | Capesize | 180k | 10 years | 29.0 | 28.8 | 0.0% |
+| Bulkers | Capesize | 180k | 10 years | 29.0 | 28.8 | 0.69% |
 | Tankers | VLCC | 300k | 10 years | 74.0 | 74.0 | 0.0% |
-| Bulkers | Capesize | 176k | 15 years | 19.3 | 18.8 | 0.0% |
+| Bulkers | Capesize | 176k | 15 years | 19.3 | 18.8 | 2.66% |
 | Tankers | VLCC | 300k | 15 years | 56.0 | 56.0 | 0.0% |
 | Bulkers | Kamsarmax | 82k | Resale | 37.0 | 37.0 | 0.0% |
 | Tankers | Suezmax | 160k | Resale | 90.0 | 90.0 | 0.0% |
@@ -178,10 +178,10 @@ A generally quiet week for this segment. Trips from US East Coast into Mediterra
 | Bulkers | Panamax | 76k | 15 years | 13.5 | 13.5 | 0.0% |
 | Tankers | Suezmax | 150k | 15 years | 37.0 | 37.0 | 0.0% |
 | Bulkers | Ultramax | 64k | Resale | 35.0 | 35.0 | 0.0% |
-| Tankers | Aframax | 110k | Resale | 79.0 | 78.5 | 0.0% |
+| Tankers | Aframax | 110k | Resale | 79.0 | 78.5 | 0.64% |
 | Bulkers | Ultramax | 63k | 5 years | 28.0 | 28.0 | 0.0% |
 | Tankers | Aframax | 110k | 5 years | 63.5 | 63.5 | 0.0% |
-| Bulkers | Supramax | 58k | 10 years | 18.3 | 17.5 | 0.0% |
+| Bulkers | Supramax | 58k | 10 years | 18.3 | 17.5 | 4.57% |
 | Tankers | Aframax | 105k | 10 years | 51.0 | 51.0 | 0.0% |
 | Bulkers | Supramax | 56k | 15 years | 13.0 | 13.0 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 34.0 | 34.0 | 0.0% |

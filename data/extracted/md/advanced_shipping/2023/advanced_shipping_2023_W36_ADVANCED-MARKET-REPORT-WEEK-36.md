@@ -68,24 +68,24 @@ A generally quiet week for this segment. East Coast South American trips into No
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capesize | Lila Lisbon | 176.423 | 2003 | Universal, Japan |  |  |  | $ | Undisclosed |  |
-| Capesize | Tian Bao Hai | 174.766 | 2004 | SWS, China |  |  |  | $ | Undisclosed |  |
-| Kamsarmax | Port Star | 82.177 | 2012 | Tsuneishi Zhoushan, China |  |  |  | $ | Singaporean | BWTS fitted |
-| Kamsarmax | Western Monaco | 81.112 | 2016 | Jiangsu, China |  |  |  | Region $ | Undisclosed |  |
-| Panamax | Nenita | 76.807 | 2006 | Sasebo, Japan |  |  |  | $ | Greek | BWTS fitted |
-| Panamax | GRA | 76.634 | 2002 | Imabari, Japan |  |  |  | $ | Chinese |  |
-| Ultramax | Ultra Regina | 61.424 | 2013 | Shin Kasado, Japan |  |  |  | $ | Undisclosed |  |
-| Ultramax | Santa Virginia | 61.271 | 2014 | Imabari, Japan |  |  |  | $ | Greek |  |
-| Ultramax | Nord Pacific | 61.221 | 2018 | Shin Kurushima, Japan |  |  |  | $ | Far Eastern | BWTS fitted, Scrubber fitted |
-| Supramax | Bulk Patagonia | 58.723 | 2012 | Kawasaki, Japan |  |  |  | $ | Undisclosed |  |
-| Supramax | Isabelita | 58.470 | 2010 | Tsuneishi Zhoushan, China |  |  |  | Region $ | Undisclosed |  |
-| Supramax | Rhine Confidante | 57.016 | 2010 | Ningbo, China |  |  |  | $ | Greek | BWTS fitted |
-| Supramax | Kobe Star | 55.857 | 2016 | Oshima, Japan |  |  |  | $ | Undisclosed |  |
-| Handymax | Giving | 45.428 | 1997 | Oshima, Japan |  |  |  | $ | Undisclosed |  |
-| Handysize | Klara Selmer | 34.999 | 2011 | Samjin, China |  |  |  | $ | Undisclosed |  |
-| Handysize | Seastar Trader | 30.487 | 2008 | Tsuji, China |  |  |  | $ | Turkish |  |
-| Handysize | Iris Sky | 28.725 | 2008 | Imabari, Japan |  |  |  | $ | Undisclosed |  |
-| Handysize | Vantage Sword | 28.310 | 2009 | Shimanami, Japan |  |  |  | Region $ | Undisclosed |  |
+| Capesize | Lila Lisbon | 176.423 | 2003 | Universal, Japan | 10/2023 | B&W | - | $ 12,5m | Undisclosed |  |
+| Capesize | Tian Bao Hai | 174.766 | 2004 | SWS, China | 04/2027 | MAN-B&W | - | $ 13,5m | Undisclosed |  |
+| Kamsarmax | Port Star | 82.177 | 2012 | Tsuneishi Zhoushan, China | 05/2027 | MAN-B&W | - | $ 20,5m | Singaporean | BWTS fitted |
+| Kamsarmax | Western Monaco | 81.112 | 2016 | Jiangsu, China | 02/2026 | MAN-B&W | - | Region $ 26m | Undisclosed | BWTS fitted, DD 02/2024 |
+| Panamax | Nenita | 76.807 | 2006 | Sasebo, Japan | 12/2024 | MAN-B&W | - | $ 12,3m | Greek | BWTS fitted |
+| Panamax | GRA | 76.634 | 2002 | Imabari, Japan | 02/2027 | B&W | - | $ 6,5m | Chinese | BWTS fitted |
+| Ultramax | Ultra Regina | 61.424 | 2013 | Shin Kasado, Japan | 10/2023 | MAN-B&W | 4x30T | $ 19,5m | Undisclosed |  |
+| Ultramax | Santa Virginia | 61.271 | 2014 | Imabari, Japan | 09/2024 | MAN-B&W | 4x30,7T | $ 23,5m | Greek | BWTS fitted |
+| Ultramax | Nord Pacific | 61.221 | 2018 | Shin Kurushima, Japan | 01/2028 | MAN-B&W | 4x30,7T | $ 27,2m | Far Eastern | BWTS fitted, Scrubber fitted |
+| Supramax | Bulk Patagonia | 58.723 | 2012 | Kawasaki, Japan | 02/2028 | MAN-B&W | 4x30,5T | $ 19,5m | Undisclosed | BWTS fitted |
+| Supramax | Isabelita | 58.470 | 2010 | Tsuneishi Zhoushan, China | 06/2025 | MAN-B&W | 4x30T | Region $ 15,2m | Undisclosed | BWTS fitted |
+| Supramax | Rhine Confidante | 57.016 | 2010 | Ningbo, China | 04/2025 | MAN-B&W | 4x35T | $ 10,8m | Greek | BWTS fitted |
+| Supramax | Kobe Star | 55.857 | 2016 | Oshima, Japan | 01/2026 | MAN-B&W | 4x30T | High $ 22m | Undisclosed | OHBS, BWTS fitted |
+| Handymax | Giving | 45.428 | 1997 | Oshima, Japan | 05/2027 | Mitsubishi | 4x25T | $ 5,5m | Undisclosed | BWTS fitted |
+| Handysize | Klara Selmer | 34.999 | 2011 | Samjin, China | 01/2026 | MAN-B&W | 4x35T | Low $ 11m | Undisclosed | BWTS fitted |
+| Handysize | Seastar Trader | 30.487 | 2008 | Tsuji, China | 11/2023 | MAN-B&W | 4x30T | High $ 7m | Turkish |  |
+| Handysize | Iris Sky | 28.725 | 2008 | Imabari, Japan | 11/2023 | MAN-B&W | 4x30,5T | $ 8,2m | Undisclosed | OHBS |
+| Handysize | Vantage Sword | 28.310 | 2009 | Shimanami, Japan | 02/2024 | MAN-B&W | 4x30,5T | Region $ 9m | Undisclosed |  |
 
 ## Page 4
 
@@ -93,17 +93,18 @@ A generally quiet week for this segment. East Coast South American trips into No
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | Habrut | 319.439 | 2012 | Daewoo, Korea |  |  | Undisclosed | Korean (Sinokor) |  |
-| VLCC | Athenian Freedom | 299.991 | 2013 | Hyundai, Korea |  |  | $ | Chinese (Fujian Shipping) | BWTS fitted, Scrubber fitted |
-| VLCC | Front Signe | 297.007 | 2010 | Shanghai Jiangnan, China |  |  | Region $ | Chinese |  |
-| MR | Wonder Formosa | 37.562 | 2006 | Hyundai Mipo, Korea |  |  | Region $ | Turkish | Ice Class 1A |
+| VLCC | Habrut | 319.439 | 2012 | Daewoo, Korea | 01/2027 | Wartsila | Undisclosed | Korean (Sinokor) |  |
+| VLCC | Athenian Freedom | 299.991 | 2013 | Hyundai, Korea | 03/2028 | MAN-B&W | $ 78m | Chinese (Fujian Shipping) | BWTS fitted, Scrubber fitted |
+| VLCC | Front Signe | 297.007 | 2010 | Shanghai Jiangnan, China | 08/2025 | MAN-B&W | Region $ 63m | Chinese |  |
+| MR | Wonder Formosa | 37.562 | 2006 | Hyundai Mipo, Korea | 01/2026 | MAN-B&W | Region $ 18m | Turkish | Ice Class 1A |
+| Chemical/Oil Products | Fionia Swan | 15.609 | 2005 | Deniz, Turkey | 10/2025 | Bergens | $ 8,9m | Greek | Delivered, BWTS fitted, Ice Class 1A |
 
-### General
+### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Feeder | Baltic Tern |  | 2005 | Meyer, Germany |  |  |  | $ | Undisclosed |  |
-| Feeder | Baltic Petrel |  | 2005 | Meyer, Germany |  |  |  | $ | Undisclosed |  |
+| Feeder | Baltic Tern | 1.638 | 2005 | Meyer, Germany | 01/2025 | MAN-B&W | - | $ 12m enbloc | Undisclosed |  |
+| Feeder | Baltic Petrel | 1.638 | 2005 | Meyer, Germany | 05/2025 | MAN-B&W | - | $ 12m enbloc | Undisclosed |  |
 
 ## Page 5
 
@@ -111,11 +112,11 @@ A generally quiet week for this segment. East Coast South American trips into No
 
 | Type | Vessel | Dwt | YoB | Ldt | Price $/ldt | Country | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bulker | Sotiria | 75.265 | 1997 | 11.584 |  |  |  |
-| Container | Lady of Luck | 30.730 | 1998 | 11.454 |  | Undisclosed |  |
-| Bulker | One Happy | 45.455 | 1995 | 7.726 | Undisclosed |  |  |
-| Container | Meratus Medan 3 | 22.734 | 1990 | 6.776 |  | Undisclosed | "As Is" Singapore, incl. 100MT ROB |
-| Container | Cherry | 16.544 | 1998 | 6.499 |  | Undisclosed | "As Is" Singapore, incl. 350MT ROB |
+| Bulker | Sotiria | 75.265 | 1997 | 11.584 | 545 | Pakistan |  |
+| Container | Lady of Luck | 30.730 | 1998 | 11.454 | 545 | Undisclosed |  |
+| Bulker | One Happy | 45.455 | 1995 | 7.726 | Undisclosed | India |  |
+| Container | Meratus Medan 3 | 22.734 | 1990 | 6.776 | 525 | Undisclosed | "As Is" Singapore, incl. 100MT ROB |
+| Container | Cherry | 16.544 | 1998 | 6.499 | 545 | Undisclosed | "As Is" Singapore, incl. 350MT ROB |
 
 ### Indicative Demolition Prices ($/ldt)
 
@@ -160,32 +161,32 @@ A generally quiet week for this segment. East Coast South American trips into No
 | Bulkers | Capesize | 180k | Resale | 60.0 | 60.0 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 125.0 | 125.0 | 0.0% |
 | Bulkers | Capesize | 180k | 5 years | 47.0 | 47.0 | 0.0% |
-| Tankers | VLCC | 310k | 5 years | 98.0 | 99.0 | 0.0% |
+| Tankers | VLCC | 310k | 5 years | 98.0 | 99.0 | -1.01% |
 | Bulkers | Capesize | 180k | 10 years | 28.8 | 28.8 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 74.0 | 74.0 | 0.0% |
 | Bulkers | Capesize | 176k | 15 years | 18.8 | 18.8 | 0.0% |
-| Tankers | VLCC | 300k | 15 years | 56.0 | 57.5 | 0.0% |
+| Tankers | VLCC | 300k | 15 years | 56.0 | 57.5 | -2.61% |
 | Bulkers | Kamsarmax | 82k | Resale | 37.0 | 37.0 | 0.0% |
 | Tankers | Suezmax | 160k | Resale | 90.0 | 90.0 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 5 years | 31.5 | 31.5 | 0.0% |
 | Tankers | Suezmax | 160k | 5 years | 73.0 | 73.0 | 0.0% |
-| Bulkers | Panamax | 78k | 10 years | 20.0 | 21.5 | 0.0% |
-| Tankers | Suezmax | 150k | 10 years | 58.0 | 59.0 | 0.0% |
-| Bulkers | Panamax | 76k | 15 years | 13.0 | 14.0 | 0.0% |
-| Tankers | Suezmax | 150k | 15 years | 37.0 | 37.5 | 0.0% |
-| Bulkers | Ultramax | 64k | Resale | 35.0 | 34.5 | 0.0% |
+| Bulkers | Panamax | 78k | 10 years | 20.0 | 21.5 | -6.98% |
+| Tankers | Suezmax | 150k | 10 years | 58.0 | 59.0 | -1.69% |
+| Bulkers | Panamax | 76k | 15 years | 13.0 | 14.0 | -7.14% |
+| Tankers | Suezmax | 150k | 15 years | 37.0 | 37.5 | -1.33% |
+| Bulkers | Ultramax | 64k | Resale | 35.0 | 34.5 | 1.45% |
 | Tankers | Aframax | 110k | Resale | 78.5 | 78.5 | 0.0% |
 | Bulkers | Ultramax | 63k | 5 years | 28.0 | 28.0 | 0.0% |
 | Tankers | Aframax | 110k | 5 years | 63.5 | 63.5 | 0.0% |
 | Bulkers | Supramax | 58k | 10 years | 17.5 | 17.5 | 0.0% |
 | Tankers | Aframax | 105k | 10 years | 51.0 | 51.0 | 0.0% |
-| Bulkers | Supramax | 56k | 15 years | 12.5 | 13.3 | 0.0% |
+| Bulkers | Supramax | 56k | 15 years | 12.5 | 13.3 | -6.02% |
 | Tankers | Aframax | 105k | 15 years | 34.0 | 34.0 | 0.0% |
 | Bulkers | Handysize | 40k | Resale | 31.0 | 31.0 | 0.0% |
 | Tankers | MR | 52k | Resale | 50.0 | 50.0 | 0.0% |
-| Bulkers | Handysize | 37k | 5 years | 22.5 | 24.0 | 0.0% |
+| Bulkers | Handysize | 37k | 5 years | 22.5 | 24.0 | -6.25% |
 | Tankers | MR | 51k | 5 years | 40.0 | 40.0 | 0.0% |
-| Bulkers | Handysize | 37k | 10 years | 14.5 | 16.5 | 0.0% |
+| Bulkers | Handysize | 37k | 10 years | 14.5 | 16.5 | -12.12% |
 | Tankers | MR | 47k | 10 years | 31.0 | 31.0 | 0.0% |
-| Bulkers | Handysize | 32k | 15 years | 9.0 | 10.0 | 0.0% |
+| Bulkers | Handysize | 32k | 15 years | 9.0 | 10.0 | -10.0% |
 | Tankers | MR | 45k | 15 years | 23.5 | 23.5 | 0.0% |

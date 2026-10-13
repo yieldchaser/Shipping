@@ -68,34 +68,38 @@ A number of trips from China into India with steels were fixed around usd 9,000/
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capesize | Santa Lucia | 176.760 | 2006 | Namura & Sasebo, Japan |  |  |  | Excess $ 16m | Turkish (Beks) |  |
-| Capesize | Xin Wang Hai | 174.732 | 2003 | SWS, China |  |  |  | $ | Chinese |  |
-| Ultramax | Hanton Trader Hl | 63.800 | 2014 | Jiangsu, China |  |  |  | $ | Chinese | BWTS fitted |
-| Ultramax | Lowlands Breeze | 61.430 | 2013 | lwagi, Japan |  |  |  | High $ 20m | Greek | BWTS fitted |
-| Supramax | Star Globe | 56.867 | 2010 | Taizhou, China |  |  |  | $ | Undisclosed |  |
-| Supramax | Sky Globe | 56.854 | 2009 | Taizhou, China |  |  |  | $ | Undisclosed |  |
-| Supramax | Sea Aquarius | 53.468 | 2006 | Imabari, Japan |  |  |  | $ | Chinese |  |
-| Handysize | Vil Atlantic | 37.852 | 2010 | Jiangsu, China |  |  |  | $ 9,5m | Undisclosed | BWTS fitted, Ice Class 1C |
-| Handysize | Nord Savannah | 37.067 | 2013 | Saiki, Japan |  |  |  | $ | Undisclosed | OHBS, BWTS fitted |
-| Handysize | Tasman Spirit | 35.256 | 2010 | Nantong, China |  |  |  | $ | Undisclosed | BWTS fitted |
+| Capesize | Santa Lucia | 176.760 | 2006 | Namura & Sasebo, Japan | 08/2026 | MAN-B&W | - | Excess $ 16m | Turkish (Beks) | BWTS fitted |
+| Capesize | Xin Wang Hai | 174.732 | 2003 | SWS, China | 10/2023 | MAN-B&W | - | $ 12,8m | Chinese |  |
+| Panamax | Anna | 75.162 | 2002 | Hitachi, Japan | 07/2027 | MAN-B&W | - | Region $ 10m | Vietnamese (ITC International) | Delivered, BWTS fitted |
+| Ultramax | Hanton Trader III | 63.800 | 2014 | Jiangsu, China | 11/2024 | MAN-B&W | 4x30T | $ 20,3m | Chinese | BWTS fitted |
+| Ultramax | Lowlands Breeze | 61.430 | 2013 | Iwagi, Japan | 07/2028 | MAN-B&W | 4x30T | High $ 20m | Greek | BWTS fitted |
+| Supramax | Star Globe | 56.867 | 2010 | Taizhou, China | 05/2025 | MAN-B&W | 4x36T | $ 11,2m | Undisclosed | BWTS fitted |
+| Supramax | Sky Globe | 56.854 | 2009 | Taizhou, China | 11/2024 | MAN-B&W | 4x36T | $ 10,7m | Undisclosed | BWTS fitted |
+| Supramax | Sea Aquarius | 53.468 | 2006 | Imabari, Japan | 05/2026 | MAN-B&W | 4x30,5T | High $ 9m | Chinese | BWTS fitted |
+| Handysize | Steady Sarah | 38.468 | 2011 | Minami-Nippon, Japan | 05/2026 | MAN-B&W | 4x30T | $ 15m | UK | OHBS, BWTS fitted, DD 09/2023 |
+| Handysize | Vil Atlantic | 37.852 | 2010 | Jiangsu, China | 02/2025 | Wartsila | 4x30T | $ 9,5m | Undisclosed | BWTS fitted, Ice Class 1C |
+| Handysize | Nord Savannah | 37.067 | 2013 | Saiki, Japan | 05/2028 | MAN-B&W | 4x30,5T | $ 16,5m | Undisclosed | OHBS, BWTS fitted |
+| Handysize | Tasman Spirit | 35.256 | 2010 | Nantong, China | 01/2025 | MAN-B&W | 4x30,5T | $ 9,5m | Undisclosed | BWTS fitted |
 
 ### Tankers
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Suezmax | Lila Orlando | 158.706 | 2005 | Daewoo, Korea |  |  | $ | Chinese | BWTS fitted, DD 11/2023 |
-| Aframax | Willowy | 106.500 | 2003 | Tsuneishi, Japan |  |  | Region $ | Malaysian |  |
-| MR | Capt Thanasis | 40.354 | 2004 | Hyundai Mipo, Korea |  |  | Undisclosed | Undisclosed | BWTS fitted, Incl. T/C with p. option |
-| MR | Ras Maersk | 34.999 | 2003 | Guangzhou, China |  |  | Undisclosed | Undisclosed |  |
+| VLCC | Landbridge Horizon | 308.121 | 2019 | Dalian, China | 08/2024 | MAN-B&W | $ 102m | HK based (CSSC Hong Kong) | Incl. 9years & 7years BB back respectively at 29.500 usd/pd with p. obligation at the end |
+| VLCC | Landbridge Glory | 307.852 | 2019 | Dalian, China | 04/2024 | MAN-B&W | $ 102m | HK based (CSSC Hong Kong) | Incl. 9years & 7years BB back respectively at 29.500 usd/pd with p. obligation at the end |
+| Suezmax | Lila Orlando | 158.706 | 2005 | Daewoo, Korea | 06/2025 | B&W | High $ 37m | Chinese | BWTS fitted, DD 11/2023 |
+| Aframax | Willowy | 106.500 | 2003 | Tsuneishi, Japan | 04/2026 | B&W | Region $ 25m | Malaysian | Delivered |
+| MR | Capt Thanasis | 40.354 | 2004 | Hyundai Mipo, Korea | 10/2024 | B&W | Undisclosed | Undisclosed | BWTS fitted, Incl. T/C with p. option |
+| MR | Ras Maersk | 34.999 | 2003 | Guangzhou, China | 08/2023 | B&W | Undisclosed | Undisclosed |  |
 
 ## Page 4
 
-### General
+### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Panamax | TS Kelang |  | 2007 | Hyundai Mipo, Korea |  |  |  | $ | Chinese |  |
-| Sub Panamax | Chiquita Passion |  | 2008 | Yangfan, China |  |  |  | $ | Swiss based (MSC) |  |
+| Panamax | TS Kelang | 4.363 | 2007 | Hyundai Mipo, Korea | 11/2027 | MAN-B&W | - | $ 20,8m | Chinese | BWTS fitted |
+| Sub Panamax | Chiquita Passion | 2.797 | 2008 | Yangfan, China | 09/2023 | MAN-B&W | 3x45T | $ 15,5m | Swiss based (MSC) | Delivered, DD 09/2023 |
 
 ## Page 5
 
@@ -103,12 +107,12 @@ A number of trips from China into India with steels were fixed around usd 9,000/
 
 | Type | Vessel | Dwt | YoB | Ldt | Price $/ldt | Country | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bulker | Yong Ning | 48.139 | 1996 | 12.700 |  |  |  |
-| Bulker | Gloria 1 | 77.663 | 1998 | 11.259 |  |  |  |
-| Container | Jitra Bhum | 21.800 | 1997 | 7.049 |  | Undisclosed | "As Is" Singapore, Incl. spare propeller blade ROB |
-| Container | Kama Bhum | 21.800 | 1997 | 7.049 |  | Undisclosed | "As Is" Singapore, Incl. spare propeller blade ROB |
-| Reefer | Zefyros Reefer | 8.946 | 1990 | 4.731 |  |  |  |
-| Reefer | Frio Olympic | 9.734 | 1988 | 4.698 |  |  |  |
+| Bulker | Yong Ning | 48.139 | 1996 | 12.700 | 500 | Pakistan |  |
+| Bulker | Gloria 1 | 77.663 | 1998 | 11.259 | 525 | Pakistan |  |
+| Container | Jitra Bhum | 21.800 | 1997 | 7.049 | 515 | Undisclosed | "As Is" Singapore, Incl. spare propeller blade ROB |
+| Container | Kama Bhum | 21.800 | 1997 | 7.049 | 515 | Undisclosed | "As Is" Singapore, Incl. spare propeller blade ROB |
+| Reefer | Zefyros Reefer | 8.946 | 1990 | 4.731 | 511 | India |  |
+| Reefer | Frio Olympic | 9.734 | 1988 | 4.698 | 511 | India |  |
 
 ### Indicative Demolition Prices ($/ldt)
 
@@ -155,23 +159,23 @@ A number of trips from China into India with steels were fixed around usd 9,000/
 | Tankers | VLCC | 310k | 5 years | 99.0 | 99.0 | 0.0% |
 | Bulkers | Capesize | 180k | 10 years | 28.8 | 28.8 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 74.0 | 74.0 | 0.0% |
-| Bulkers | Capesize | 176k | 15 years | 18.8 | 18.3 | 0.0% |
+| Bulkers | Capesize | 176k | 15 years | 18.8 | 18.3 | 2.73% |
 | Tankers | VLCC | 300k | 15 years | 57.5 | 57.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | Resale | 37.0 | 37.0 | 0.0% |
-| Tankers | Suezmax | 160k | Resale | 90.0 | 89.0 | 0.0% |
-| Bulkers | Kamsarmax | 82k | 5 years | 31.5 | 31.0 | 0.0% |
-| Tankers | Suezmax | 160k | 5 years | 73.0 | 72.0 | 0.0% |
+| Tankers | Suezmax | 160k | Resale | 90.0 | 89.0 | 1.12% |
+| Bulkers | Kamsarmax | 82k | 5 years | 31.5 | 31.0 | 1.61% |
+| Tankers | Suezmax | 160k | 5 years | 73.0 | 72.0 | 1.39% |
 | Bulkers | Panamax | 78k | 10 years | 21.5 | 21.5 | 0.0% |
-| Tankers | Suezmax | 150k | 10 years | 59.0 | 58.0 | 0.0% |
-| Bulkers | Panamax | 76k | 15 years | 14.0 | 13.8 | 0.0% |
-| Tankers | Suezmax | 150k | 15 years | 37.5 | 37.0 | 0.0% |
+| Tankers | Suezmax | 150k | 10 years | 59.0 | 58.0 | 1.72% |
+| Bulkers | Panamax | 76k | 15 years | 14.0 | 13.8 | 1.45% |
+| Tankers | Suezmax | 150k | 15 years | 37.5 | 37.0 | 1.35% |
 | Bulkers | Ultramax | 64k | Resale | 34.5 | 34.5 | 0.0% |
 | Tankers | Aframax | 110k | Resale | 78.5 | 78.5 | 0.0% |
-| Bulkers | Ultramax | 63k | 5 years | 27.5 | 28.0 | 0.0% |
+| Bulkers | Ultramax | 63k | 5 years | 27.5 | 28.0 | -1.79% |
 | Tankers | Aframax | 110k | 5 years | 63.5 | 63.5 | 0.0% |
 | Bulkers | Supramax | 58k | 10 years | 17.5 | 17.5 | 0.0% |
 | Tankers | Aframax | 105k | 10 years | 51.0 | 51.0 | 0.0% |
-| Bulkers | Supramax | 56k | 15 years | 13.3 | 13.0 | 0.0% |
+| Bulkers | Supramax | 56k | 15 years | 13.3 | 13.0 | 2.31% |
 | Tankers | Aframax | 105k | 15 years | 34.0 | 34.0 | 0.0% |
 | Bulkers | Handysize | 40k | Resale | 31.0 | 31.0 | 0.0% |
 | Tankers | MR | 52k | Resale | 50.0 | 50.0 | 0.0% |
@@ -179,5 +183,5 @@ A number of trips from China into India with steels were fixed around usd 9,000/
 | Tankers | MR | 51k | 5 years | 40.0 | 40.0 | 0.0% |
 | Bulkers | Handysize | 37k | 10 years | 16.5 | 16.5 | 0.0% |
 | Tankers | MR | 47k | 10 years | 31.0 | 31.0 | 0.0% |
-| Bulkers | Handysize | 32k | 15 years | 10.0 | 10.5 | 0.0% |
+| Bulkers | Handysize | 32k | 15 years | 10.0 | 10.5 | -4.76% |
 | Tankers | MR | 45k | 15 years | 23.5 | 23.5 | 0.0% |

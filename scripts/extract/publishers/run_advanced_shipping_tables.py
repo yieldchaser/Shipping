@@ -467,6 +467,11 @@ def extract_indicative_secondhand(
     parse_panel(b_lines, "Bulkers")
     parse_panel(t_lines, "Tankers")
 
+    # Some 2023 issues draw the +/- % column as outlines (no text): the page prints (current/prior - 1),
+    # so derive it from the two printed prices instead of defaulting to 0.
+    def _pct(c, p):
+        return round((c / p - 1) * 100, 2) if c is not None and p else None
+
     # Fallback to coordinate-based template alignment if text stream omitted vessel class text
     if not results:
         words = page.get_text("words")
@@ -479,7 +484,7 @@ def extract_indicative_secondhand(
                 v_class, v_size, age = BULKER_TEMPLATE[idx]
                 c_val = parse_european_number(b_words[0][4]) if len(b_words) > 0 else None
                 p_val = parse_european_number(b_words[1][4]) if len(b_words) > 1 else c_val
-                pct_val = parse_european_number(b_words[2][4]) if len(b_words) > 2 else 0.0
+                pct_val = parse_european_number(b_words[2][4]) if len(b_words) > 2 else _pct(c_val, p_val)
                 results.append({
                     "issue_date": issue_date,
                     "report_week": int(report_week.split("-")[0]) if report_week.isdigit() else report_week,
@@ -498,7 +503,7 @@ def extract_indicative_secondhand(
                 v_class, v_size, age = TANKER_TEMPLATE[idx]
                 c_val = parse_european_number(t_words[0][4]) if len(t_words) > 0 else None
                 p_val = parse_european_number(t_words[1][4]) if len(t_words) > 1 else c_val
-                pct_val = parse_european_number(t_words[2][4]) if len(t_words) > 2 else 0.0
+                pct_val = parse_european_number(t_words[2][4]) if len(t_words) > 2 else _pct(c_val, p_val)
                 results.append({
                     "issue_date": issue_date,
                     "report_week": int(report_week.split("-")[0]) if report_week.isdigit() else report_week,
