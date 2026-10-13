@@ -147,6 +147,12 @@ def fetch_soup(driver, url: str, wait: float = 2.5) -> BeautifulSoup | None:
         try:
             driver.get(url)
             time.sleep(wait)
+            if "<title>Just a moment...</title>" in driver.page_source:
+                # Cloudflare challenge page: give it time to clear, never archive it as a report
+                time.sleep(10)
+                if "<title>Just a moment...</title>" in driver.page_source:
+                    print(f"    ! [{attempt + 1}/3] Cloudflare challenge not cleared")
+                    continue
             return make_soup(driver.page_source)
         except Exception as exc:
             first_line = str(exc).split("\n")[0][:120]

@@ -256,7 +256,8 @@ async def process_item_async(cat: str, corpus_dir: Path, out_md_dir: Path,
         return summary, rows
 
     content = h_path.read_text(encoding="utf-8", errors="ignore")
-    if any(err in content for err in ("Error code 520", "Cloudflare Ray ID", "This site can\u2019t be reached", "This site can't be reached")):
+    if any(err in content for err in ("Error code 520", "Cloudflare Ray ID", "This site can\u2019t be reached", "This site can't be reached",
+                                      "<title>Just a moment...</title>")):
         raise ValueError(f"Skipping Cloudflare/DNS error HTML page: {h_path}")
 
     soup = BeautifulSoup(content, "html.parser")
