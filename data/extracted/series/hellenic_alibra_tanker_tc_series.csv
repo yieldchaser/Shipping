@@ -1946,7 +1946,7 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2022-11-09,LR2,1 YR,39000,False,up,2022-11-09_weekly-tanker-time-charter-estimates-november-09-2022.html
 2022-11-09,LR2,2 YR,32500,False,up,2022-11-09_weekly-tanker-time-charter-estimates-november-09-2022.html
 2022-11-09,LR2,3 YR,35500,True,flat,2022-11-09_weekly-tanker-time-charter-estimates-november-09-2022.html
-2022-11-09,LR2,5 YR,34450,True,flat,2022-11-09_weekly-tanker-time-charter-estimates-november-09-2022.html
+2022-11-09,LR2,5 YR,34500,True,flat,2022-11-09_weekly-tanker-time-charter-estimates-november-09-2022.html
 2022-11-09,MR IMO3,1 YR,28500,False,up,2022-11-09_weekly-tanker-time-charter-estimates-november-09-2022.html
 2022-11-09,MR IMO3,2 YR,22500,False,down,2022-11-09_weekly-tanker-time-charter-estimates-november-09-2022.html
 2022-11-09,MR IMO3,3 YR,25000,True,up,2022-11-09_weekly-tanker-time-charter-estimates-november-09-2022.html
@@ -4325,7 +4325,7 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2024-07-10,LR1,5 YR,31000,True,flat,2024-07-10_weekly-tanker-time-charter-estimates-july-10-2024.html
 2024-07-10,LR2,1 YR,51500,False,flat,2024-07-10_weekly-tanker-time-charter-estimates-july-10-2024.html
 2024-07-10,LR2,2 YR,42500,False,flat,2024-07-10_weekly-tanker-time-charter-estimates-july-10-2024.html
-2024-07-10,LR2,3 YR,44000,True,flat,2024-07-10_weekly-tanker-time-charter-estimates-july-10-2024.html
+2024-07-10,LR2,3 YR,44500,True,flat,2024-07-10_weekly-tanker-time-charter-estimates-july-10-2024.html
 2024-07-10,LR2,5 YR,38500,True,flat,2024-07-10_weekly-tanker-time-charter-estimates-july-10-2024.html
 2024-07-10,MR IMO3,1 YR,30000,False,flat,2024-07-10_weekly-tanker-time-charter-estimates-july-10-2024.html
 2024-07-10,MR IMO3,2 YR,27000,False,flat,2024-07-10_weekly-tanker-time-charter-estimates-july-10-2024.html

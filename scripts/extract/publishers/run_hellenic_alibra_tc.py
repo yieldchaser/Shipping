@@ -40,6 +40,8 @@ STATE_FILE = ROOT / "data" / "extracted" / "md" / "hellenic" / "_alibra_run_stat
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
 from scripts.extract.llama_manager import manager
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from alibra_image_grid import verify_rows  # noqa: E402
 
 LLAMA_KEY = manager.get_current_key()
 
@@ -61,7 +63,7 @@ def parse_cell(cell: str) -> Tuple[Optional[int], str]:
     trend = "flat"
     if any(u in cell for u in ["▲", "🔺", "^", "+", "🟢"]):
         trend = "up"
-    elif any(d in cell for d in ["▼", "🔻", "v", "-", "🔴"]):
+    elif any(d in cell for d in ["▼", "🔻", "🔴"]):   # a bare "-" is the yellow "unchanged" dash, not down
         trend = "down"
     elif any(e in cell for e in ["=", "—", "–", "~"]):
         trend = "flat"
@@ -282,6 +284,12 @@ async def process_item_async(cat: str, corpus_dir: Path, out_md_dir: Path,
                 table_rows = parse_tanker_table(table_md, issue_date, fname)
         except Exception as e:
             print(f"  [!] Failed parsing image for {fname}: {e}")
+        try:
+            # rates, trends and labels re-read from the image itself (the parse misreads all three)
+            table_rows = verify_rows(table_rows, img_cand, cat)
+        except Exception as e:
+            print(f"  [!] Image check failed for {fname}, table dropped: {e}")
+            table_rows = []
 
     # Build clean markdown
     md_lines = [
