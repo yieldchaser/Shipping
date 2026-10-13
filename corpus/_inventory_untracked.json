@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2931,
-      "untracked_bytes": 2298503353
+      "untracked_files": 2929,
+      "untracked_bytes": 2299325239
     },
     {
       "path": "corpus/02-hellenic",
@@ -48,19 +48,14 @@
   ],
   "entries": [
     {
-      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_12_10_2026_ssy_atlantic_capesize_index_12_october_2026.md",
-      "bytes": 3150,
-      "sha256": "91c0f105d33269de91c86e76a2059c063a1fd7e801b1b757a7a01c241b28df26"
+      "path": "corpus/01-brokers/_digests/ism/2026/ism_12_10_2026_ism_coasters_and_mini_bulkers_week_41.md",
+      "bytes": 7271,
+      "sha256": "59c5317f02f593cade103e8076a5974771819d193a11a353a1d294c7b9a0ff27"
     },
     {
-      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_12_10_2026_ssy_pacific_capesize_index_12_october_2026.md",
-      "bytes": 3133,
-      "sha256": "8aa00c75ec73b4769a05518881d83b53fddf1d1638afee7e157c2845093a53b2"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.md",
-      "bytes": 32525,
-      "sha256": "6be68189fde19d6b382cfbf611e1414a62baa11d6da0c3e0b5e43ac700f0dc14"
+      "path": "corpus/01-brokers/_digests/xclusiv/2026/xclusiv_13_10_2026_xclusiv_shipbrokers_weekly_12th_october_2026.md",
+      "bytes": 24251,
+      "sha256": "a437b0dcff4b194ef33e26ef7a70038a35566ba3e2f4027edde3e396c7db13c8"
     },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
@@ -9343,6 +9338,11 @@
       "sha256": "4e7991c58f25f20c6bc27a0e583f0f9a3eccb38e2a92d1db7d7a9cb8dd086078"
     },
     {
+      "path": "corpus/01-brokers/ism/2026/ism_12_10_2026_ism_coasters_and_mini_bulkers_week_41.pdf",
+      "bytes": 196667,
+      "sha256": "2c4ff246af2b9095e0a20bc95debcf6887c118d80004b716171d5d1a18211aac"
+    },
+    {
       "path": "corpus/01-brokers/ism/2026/ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37.pdf",
       "bytes": 196853,
       "sha256": "5a67eb3358694f0cea8de2eb9a2b5d92823efa2add9f74d994c7be064660b013"
@@ -11908,16 +11908,6 @@
       "sha256": "4f307388f563639b482b4c101ae054050a5575a0ca13e7dd1d8e12312277e8b8"
     },
     {
-      "path": "corpus/01-brokers/ssy/2026/ssy_12_10_2026_ssy_atlantic_capesize_index_12_october_2026.pdf",
-      "bytes": 190562,
-      "sha256": "713335ece5f65a1cdec6cbe3bd237553a537ee8f6505c9888394593301460cf8"
-    },
-    {
-      "path": "corpus/01-brokers/ssy/2026/ssy_12_10_2026_ssy_pacific_capesize_index_12_october_2026.pdf",
-      "bytes": 190256,
-      "sha256": "4e2dd48ba84545bedeee11a3e23ca5b2211229f323c164269d3faad4e9de75e2"
-    },
-    {
       "path": "corpus/01-brokers/ssy/2026/ssy_14_09_2026_ssy_atlantic_capesize_index_14_september_2026.pdf",
       "bytes": 189215,
       "sha256": "8f7fdc77497604f10fbcd2b15822671c2d328fb968ee3a1c06d8fc47bb6c89e3"
@@ -13156,11 +13146,6 @@
       "path": "corpus/01-brokers/star_asia/2026/star_asia_05_10_2026_star_asia_shipbroking_weekly_market_report_week_40.pdf",
       "bytes": 674277,
       "sha256": "955868f82571b12bfc798a8943c41c4a7af6e89e5070729676d03907fd2f696f"
-    },
-    {
-      "path": "corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf",
-      "bytes": 679113,
-      "sha256": "5fe06a055889d69743d541eb09526e1d0de7bdfa1fec005bac4046cfd4a3d3ba"
     },
     {
       "path": "corpus/01-brokers/star_asia/2026/star_asia_2026_W01_Market-report-Week-1-2.pdf",
@@ -14476,6 +14461,11 @@
       "path": "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_12_22.pdf",
       "bytes": 1968821,
       "sha256": "b9cc0a93f34cb9daf613994c56c6911084ce7d118b4271c7afb165761940a7d0"
+    },
+    {
+      "path": "corpus/01-brokers/xclusiv/2026/xclusiv_13_10_2026_xclusiv_shipbrokers_weekly_12th_october_2026.pdf",
+      "bytes": 1692436,
+      "sha256": "51c16dfe3feab27ff201b66ab16e6b8b31a90f07d49967136f48a0ae473fb310"
     },
     {
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf",

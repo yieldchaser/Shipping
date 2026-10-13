@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T21:48:09.362199+00:00",
-  "brief_date": "2026-10-09",
+  "generated_at": "2026-10-12T20:42:27.767732+00:00",
+  "brief_date": "2026-10-12",
   "constituent_holdings": {
     "bdry": {
       "prompt_contract": {
@@ -69,73 +69,73 @@
     ]
   },
   "executive_tldr": [
-    "Regime Split: Dry Bulk is in Neutral while Tankers exhibit Bull Confluence. Tankers outperform Dry Bulk on quantitative velocity (Z-differential -3.65σ), favoring energy freight over industrial dry bulk.",
+    "Regime Split: Dry Bulk is in Neutral while Tankers exhibit Bull Confluence. Tankers outperform Dry Bulk on quantitative velocity (Z-differential -3.63σ), favoring energy freight over industrial dry bulk.",
     "Tactical Desk Strategy: Overweight Dirty Tankers (BDTI/VLCC) relative to Dry Bulk on resilient crude flows.",
     "Catalyst & Risk Boundary: Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment. Invalidation Trigger: A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime."
   ],
   "market_snapshot": {
     "bdi": {
-      "value": 2917.0,
-      "z_score_252d": 0.797,
-      "pctl_5y": 0.907,
+      "value": 2852.0,
+      "z_score_252d": 0.664,
+      "pctl_5y": 0.899,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 2588.6,
-      "roc60": 2.71
+      "ma200": 2592.8,
+      "roc60": 3.63
     },
     "capesize": {
-      "value": 4340.0,
-      "z_score_252d": 0.356,
-      "pctl_5y": 0.92,
+      "value": 4148.0,
+      "z_score_252d": 0.159,
+      "pctl_5y": 0.903,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 4097.8,
-      "roc60": 0.02
+      "ma200": 4100.4,
+      "roc60": 1.24
     },
     "panamax": {
-      "value": 2424.0,
-      "z_score_252d": 1.482,
-      "pctl_5y": 0.993,
+      "value": 2432.0,
+      "z_score_252d": 1.496,
+      "pctl_5y": 0.994,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 2031.5,
-      "roc60": 7.4
+      "ma200": 2037.1,
+      "roc60": 8.19
     },
     "supramax": {
-      "value": 1814.0,
-      "z_score_252d": 1.587,
+      "value": 1821.0,
+      "z_score_252d": 1.603,
       "pctl_5y": 1.0,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1465.3,
-      "roc60": 4.86
+      "ma200": 1468.3,
+      "roc60": 4.84
     },
     "handysize": {
-      "value": 996.0,
-      "z_score_252d": 1.637,
-      "pctl_5y": 0.809,
+      "value": 998.0,
+      "z_score_252d": 1.643,
+      "pctl_5y": 0.81,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 818.1,
-      "roc60": 10.18
+      "ma200": 819.4,
+      "roc60": 10.52
     },
     "clean_tanker": {
-      "value": 2403.0,
-      "z_score_252d": 2.117,
-      "pctl_5y": 0.998,
-      "regime": "EXPANSION",
-      "regime_emoji": "UP",
-      "ma200": 1454.8,
-      "roc60": 100.25
-    },
-    "dirty_tanker": {
-      "value": 7964.0,
-      "z_score_252d": 4.448,
+      "value": 2440.0,
+      "z_score_252d": 2.162,
       "pctl_5y": 1.0,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 2709.7,
-      "roc60": 251.15
+      "ma200": 1463.2,
+      "roc60": 97.41
+    },
+    "dirty_tanker": {
+      "value": 7991.0,
+      "z_score_252d": 4.291,
+      "pctl_5y": 1.0,
+      "regime": "EXPANSION",
+      "regime_emoji": "UP",
+      "ma200": 2742.7,
+      "roc60": 250.02
     }
   },
   "vessel_classes": {
@@ -144,12 +144,12 @@
       "momentum_grade": "UP",
       "positioning_bias": "NEUTRAL",
       "confidence_score": 0.45,
-      "confluence_note": "Signal alignment is mixed for dry bulk (Z=+0.80sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 2 pos/1 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
-      "summary": "Dry Bulk is in expansion regime at 2917.0, with z-score +0.80sigma and ROC60 +2.7%. Recent analyst sentiment skews neutral (neutral:6). Signal alignment is mixed for dry bulk (Z=+0.80sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 2 pos/1 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
+      "confluence_note": "Signal alignment is mixed for dry bulk (Z=+0.66sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 2 pos/1 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
+      "summary": "Dry Bulk is in expansion regime at 2852.0, with z-score +0.66sigma and ROC60 +3.6%. Recent analyst sentiment skews neutral (neutral:6). Signal alignment is mixed for dry bulk (Z=+0.66sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 2 pos/1 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
       "key_signals": [
-        "Quant: BDI value=2917.0, z=+0.80sigma, 5Y percentile=90.7%.",
+        "Quant: BDI value=2852.0, z=+0.66sigma, 5Y percentile=89.9%.",
         "Qual: last 6 reports sentiment mix -> neutral:6.",
-        "Cross-check: CAPESIZE value=4340.0, z=+0.36sigma.",
+        "Cross-check: CAPESIZE value=4148.0, z=+0.16sigma.",
         "Latest report 2026-09-29: momentum=negative, fundamentals=neutral."
       ],
       "trade_idea": "No high-conviction setup: Maintain neutral book positioning and await decisive alignment between momentum and freight fundamentals.",
@@ -171,12 +171,12 @@
       "momentum_grade": "STRONG_UP",
       "positioning_bias": "LONG",
       "confidence_score": 0.8,
-      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+3.28sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
-      "summary": "Tanker is in expansion regime at 2403.0, with z-score +3.28sigma and ROC60 +100.2%. Recent analyst sentiment skews positive (positive:4, neutral:2). Quant momentum and analyst signals align bullishly for tanker (Z=+3.28sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+3.23sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "summary": "Tanker is in expansion regime at 2440.0, with z-score +3.23sigma and ROC60 +97.4%. Recent analyst sentiment skews positive (positive:4, neutral:2). Quant momentum and analyst signals align bullishly for tanker (Z=+3.23sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
       "key_signals": [
-        "Quant: CLEAN_TANKER value=2403.0, z=+3.28sigma, 5Y percentile=99.8%.",
+        "Quant: CLEAN_TANKER value=2440.0, z=+3.23sigma, 5Y percentile=100.0%.",
         "Qual: last 6 reports sentiment mix -> positive:4, neutral:2.",
-        "Cross-check: DIRTY_TANKER value=7964.0, z=+4.45sigma.",
+        "Cross-check: DIRTY_TANKER value=7991.0, z=+4.29sigma.",
         "Latest report 2026-10-06: momentum=negative, fundamentals=positive."
       ],
       "trade_idea": "Long DIRTY_TANKER vs CLEAN_TANKER spread to capture dirty tanker momentum outperformance.",
@@ -196,7 +196,7 @@
   },
   "macro_note": "Cross-sector signals are mixed with no broad confluence across dry bulk and tanker segments.",
   "cross_sector_analysis": {
-    "relative_value": "Tankers outperform Dry Bulk on quantitative velocity (Z-differential -3.65σ), favoring energy freight over industrial dry bulk.",
+    "relative_value": "Tankers outperform Dry Bulk on quantitative velocity (Z-differential -3.63σ), favoring energy freight over industrial dry bulk.",
     "dominant_driver": "Global industrial commodity restocking cycles and regional geopolitical rerouting across key maritime choke points.",
     "positioning_recommendation": "Overweight Dirty Tankers (BDTI/VLCC) relative to Dry Bulk on resilient crude flows."
   },

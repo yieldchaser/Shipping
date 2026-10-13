@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-10-12_2026_10_12_damage_control__root",
+  "doc_id": "breakwave_insights_insights_2026-10-12_2026_10_12_damage_control",
+  "parent_id": null,
+  "title": "Damage Control",
+  "section_path": [
+    "Damage Control"
+  ],
+  "section_path_text": "Damage Control",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: 1-Tanker-Smoke.jpg | assets/2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg\nLast week, tanker attacks in the Middle East hit their highest levels since the war began and that pace has continued this week. Further, in the past 48 hours, attacks have broadened to the Gulf of Oman and Arabian Gulf, expanding beyond the Hormuz chokepoint. Since the war started, Gibson has tracked 95 attacks on tankers in the region, including Iranian trading tonnage.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "crude_oil",
+    "attacks",
+    "vessels",
+    "asset",
+    "east",
+    "image",
+    "middle",
+    "black"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1212,
+  "source_path": "reports/breakwave/2026/2026-10-12_damage-control.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/10/12/damage-control",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-10-12_2026_10_12_damage_control__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-10-12_2026_10_12_damage_control",
+      "parent_id": "breakwave_insights_insights_2026-10-12_2026_10_12_damage_control__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: 1-Tanker-Smoke.jpg | assets/2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg\nLast week, tanker attacks in the Middle East hit their highest levels since the war began and that pace has continued this week. Further, in the past 48 hours, attacks have broadened to the Gulf of Oman and Arabian Gulf, expanding beyond the Hormuz chokepoint.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "crude_oil",
+        "vessels",
+        "attacks",
+        "following"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 732,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-12_2026_10_12_damage_control__s02_linked_asset_2026_10_12_damage_control_img_1_tanker_smoke_32eb2229ad66_jpg",
+      "doc_id": "breakwave_insights_insights_2026-10-12_2026_10_12_damage_control",
+      "parent_id": "breakwave_insights_insights_2026-10-12_2026_10_12_damage_control__root",
+      "title": "Linked asset: 2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg",
+      "section_path": [
+        "Linked asset: 2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg\n\nLinked image asset: 2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg\n\nImage metadata: JPEG 612x408 mode=RGB\n\nOCR text:\nat \"ae\n; > -\n= Po\nrf hi '\n= = : <== =",
+      "keywords": [
+        "asset",
+        "image",
+        "damage-control_img_1-tanker-smoke_32eb2229ad66.jpg",
+        "jpeg",
+        "linked",
+        "metadata",
+        "mode",
+        "ocr"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 99,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-12_2026_10_12_damage_control__s03_linked_asset_2026_10_12_damage_control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8_png",
+      "doc_id": "breakwave_insights_insights_2026-10-12_2026_10_12_damage_control",
+      "parent_id": "breakwave_insights_insights_2026-10-12_2026_10_12_damage_control__root",
+      "title": "Linked asset: 2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png",
+      "section_path": [
+        "Linked asset: 2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png"
+      ],
+      "section_path_text": "Linked asset: 2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png\n\nLinked image asset: 2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png\n\nImage metadata: PNG 1143x648 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\n[structured table]\n| | Tanker attacks - Middle | East and Black Sea (No.) |\n|---|---|---|\n| | 40 | |\n| | 35 = Black Sea, Med | GOO, RSEA |\n| | 30 | |\n| | 25 | |\n| | 20 | |\n| | 15 | |\n| | 10 | |\n| | 5 | |\n| | ° | |\n| | Mar Apr May Jun | Jul Aug Sep Oct |\n\n[raw ocr]\nTanker attacks - Middle East and Black Sea (No.)\n40\n35 = Black Sea, Med = AG, GOO, RSEA\n30\n25\n20\n15\n10\n5\n° Mar Apr May Jun Jul Aug Sep Oct",
+      "keywords": [
+        "black",
+        "sea",
+        "apr",
+        "asset",
+        "attacks",
+        "aug",
+        "east",
+        "goo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 305,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

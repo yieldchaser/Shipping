@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 18:30:09Z",
+  "updated_at": "2026-10-13 05:24:51Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1214,7 +1214,7 @@
     {
       "file": "breakwave_insights_metadata.csv",
       "target_metric": "Breakwave Insights articles catalog, image references, tags, and full text metadata",
-      "rows": 3216,
+      "rows": 3218,
       "columns": [
         "issue_date",
         "year",
@@ -3006,7 +3006,7 @@
     {
       "file": "ism_coaster_freight_series.csv",
       "target_metric": "Coaster / Mini-bulker freight rates ($/t, TCE $/day)",
-      "rows": 12462,
+      "rows": 12599,
       "columns": [
         "date",
         "segment",
@@ -3516,7 +3516,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 8874,
+      "rows": 9016,
       "columns": [
         "route",
         "base",
@@ -3809,7 +3809,7 @@
     {
       "file": "xclusiv_demo_sales_series.csv",
       "target_metric": "Reported demolition sales fixtures ($/LDT)",
-      "rows": 606,
+      "rows": 610,
       "columns": [
         "issue_date",
         "report_week",
@@ -3829,7 +3829,7 @@
     {
       "file": "xclusiv_demolition_series.csv",
       "target_metric": "Indicative demolition prices ($/LDT)",
-      "rows": 2090,
+      "rows": 2098,
       "columns": [
         "issue_date",
         "report_week",
@@ -3922,7 +3922,7 @@
     {
       "file": "xclusiv_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 5565,
+      "rows": 5584,
       "columns": [
         "issue_date",
         "report_week",
@@ -3945,7 +3945,7 @@
     {
       "file": "xclusiv_secondhand_series.csv",
       "target_metric": "Dry bulk & tanker secondhand price matrix ()",
-      "rows": 8561,
+      "rows": 8593,
       "columns": [
         "issue_date",
         "report_week",
@@ -3958,13 +3958,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 706098,
+  "total_master_stacked_rows": 706442,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 706098,
+  "total_stacked_rows": 706442,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 706403,
+  "total_rows_extracted": 706747,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 599,
     "advanced_shipping_demolition_series.csv": 2000,
@@ -3996,7 +3996,7 @@
     "best_oasis_exchange_rates_series.csv": 170,
     "best_oasis_market_commentary_series.csv": 1031,
     "breakwave_fundamentals_series.csv": 2755,
-    "breakwave_insights_metadata.csv": 3216,
+    "breakwave_insights_metadata.csv": 3218,
     "carriers_bda_series.csv": 387,
     "carriers_bspa_series.csv": 779,
     "carriers_demolition_series.csv": 170,
@@ -4083,7 +4083,7 @@
     "intermodal_sales_series.csv": 3479,
     "intermodal_tanker_spot_series.csv": 3885,
     "intermodal_tc_rates_series.csv": 5233,
-    "ism_coaster_freight_series.csv": 12462,
+    "ism_coaster_freight_series.csv": 12599,
     "ism_handy_freight_series.csv": 17968,
     "lion_deals_series.csv": 1312,
     "lion_demo_sales_series.csv": 109,
@@ -4109,7 +4109,7 @@
     "signal_reports_metadata.csv": 449,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 8874,
+    "ssy_capesize_index_series.csv": 9016,
     "ssy_capesize_index_time_series.csv": 519,
     "ssy_capesize_series.csv": 8881,
     "ssy_route_rates_series.csv": 5190,
@@ -4124,14 +4124,14 @@
     "star_asia_snp_sales_series.csv": 3575,
     "star_asia_valuation_matrix_series.csv": 3232,
     "xclusiv_baltic_indices_series.csv": 1015,
-    "xclusiv_demo_sales_series.csv": 606,
-    "xclusiv_demolition_series.csv": 2090,
+    "xclusiv_demo_sales_series.csv": 610,
+    "xclusiv_demolition_series.csv": 2098,
     "xclusiv_freight_benchmarks_series.csv": 238,
     "xclusiv_macro_bunkers_series.csv": 643,
     "xclusiv_newbuilding_orders_series.csv": 1313,
     "xclusiv_newbuilding_prices_series.csv": 1379,
     "xclusiv_newbuilding_series.csv": 1379,
-    "xclusiv_sales_series.csv": 5565,
-    "xclusiv_secondhand_series.csv": 8561
+    "xclusiv_sales_series.csv": 5584,
+    "xclusiv_secondhand_series.csv": 8593
   }
 }
