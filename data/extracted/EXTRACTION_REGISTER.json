@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 05:24:51Z",
+  "updated_at": "2026-10-13 14:48:53Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1199,7 +1199,7 @@
     {
       "file": "breakwave_fundamentals_series.csv",
       "target_metric": "Dry Bulk and Tanker supply/demand fundamentals, vessel orders, and freight rate indicators",
-      "rows": 2755,
+      "rows": 2747,
       "columns": [
         "issue_date",
         "sector",
@@ -1247,7 +1247,7 @@
     {
       "file": "carriers_bspa_series.csv",
       "target_metric": "Secondhand 5Y price assessments () with visual sentiment",
-      "rows": 779,
+      "rows": 785,
       "columns": [
         "issue_date",
         "report_week",
@@ -1354,7 +1354,7 @@
     {
       "file": "carriers_sales_series.csv",
       "target_metric": "Secondhand sales transactions () with sister-ship en bloc",
-      "rows": 3060,
+      "rows": 3081,
       "columns": [
         "issue_date",
         "report_week",
@@ -2072,7 +2072,7 @@
     {
       "file": "hellenic_alibra_dry_tc_series.csv",
       "target_metric": "Hellenic Alibra Dry Tc",
-      "rows": 6467,
+      "rows": 6539,
       "columns": [
         "issue_date",
         "vessel_class",
@@ -2087,7 +2087,7 @@
     {
       "file": "hellenic_alibra_tanker_tc_series.csv",
       "target_metric": "Hellenic Alibra Tanker Tc",
-      "rows": 7205,
+      "rows": 7448,
       "columns": [
         "issue_date",
         "vessel_class",
@@ -3516,7 +3516,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 9016,
+      "rows": 9158,
       "columns": [
         "route",
         "base",
@@ -3958,13 +3958,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 706442,
+  "total_master_stacked_rows": 706918,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 706442,
+  "total_stacked_rows": 706918,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 706747,
+  "total_rows_extracted": 707223,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 599,
     "advanced_shipping_demolition_series.csv": 2000,
@@ -3995,16 +3995,16 @@
     "best_oasis_demolition_series.csv": 866,
     "best_oasis_exchange_rates_series.csv": 170,
     "best_oasis_market_commentary_series.csv": 1031,
-    "breakwave_fundamentals_series.csv": 2755,
+    "breakwave_fundamentals_series.csv": 2747,
     "breakwave_insights_metadata.csv": 3218,
     "carriers_bda_series.csv": 387,
-    "carriers_bspa_series.csv": 779,
+    "carriers_bspa_series.csv": 785,
     "carriers_demolition_series.csv": 170,
     "carriers_dry_tc_period_series.csv": 3096,
     "carriers_dry_weighted_routes_series.csv": 645,
     "carriers_indices_series.csv": 1806,
     "carriers_newbuilding_series.csv": 302,
-    "carriers_sales_series.csv": 3060,
+    "carriers_sales_series.csv": 3081,
     "carriers_tanker_tce_series.csv": 774,
     "clarksons_demolition_sales_series.csv": 70,
     "clarksons_demolition_series.csv": 123,
@@ -4035,8 +4035,8 @@
     "gms_demolition_sales_series.csv": 161,
     "gms_market_commentary_series.csv": 1262,
     "gms_port_positions_series.csv": 3014,
-    "hellenic_alibra_dry_tc_series.csv": 6467,
-    "hellenic_alibra_tanker_tc_series.csv": 7205,
+    "hellenic_alibra_dry_tc_series.csv": 6539,
+    "hellenic_alibra_tanker_tc_series.csv": 7448,
     "hellenic_best_oasis_deals_series.csv": 905,
     "hellenic_best_oasis_demolition_series.csv": 866,
     "hellenic_capesize_c3_c5_series.csv": 1164,
@@ -4109,7 +4109,7 @@
     "signal_reports_metadata.csv": 449,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 9016,
+    "ssy_capesize_index_series.csv": 9158,
     "ssy_capesize_index_time_series.csv": 519,
     "ssy_capesize_series.csv": 8881,
     "ssy_route_rates_series.csv": 5190,

@@ -3059,3 +3059,24 @@ issue_date,report_week,section,page,vessel_name,type,dwt,built,yard,price_raw,pr
 2026-10-05,40,tankers,1,BW LOYALTY,VLGC,55056.0,2008,Daewoo Shipbuilding,"84,000,000",84.0,ETERNITY DUBAI,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-10-05,40,containers,1,COSCO HAMBURG,CV,69193.0,2001,Kawasaki HI - Sakaide,"32,000,000",32.0,UNDISCLOSED,"5,618 TEU",carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-10-05,40,containers,1,COSCO FELIXSTOWE,CV,69107.0,2002,Nantong COSCO KHI Ship,"32,000,000",32.0,UNDISCLOSED,INCL 3 YEAR T/C,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-12,41,bulk_carriers,1,ARRIKTOS,BC,181250.0,2027,Hengli Shipbuilding Dalian,"90,000,000",90.0,FAR EASTERN,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,bulk_carriers,1,PAN ADVANCE,BC,179185.0,2009,Hyundai Heavy Inds - Ulsan,"37,000,000",37.0,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,bulk_carriers,1,GOLDEN MYRTALIA,BC,177979.0,2011,Shanghai Waigaoqiao Shbldg,"40,000,000",40.0,EUROPEAN,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,bulk_carriers,1,PABAL,BC,76118.0,2012,Taizhou Kouan Shipbuilding Co,"17,000,000",17.0,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,bulk_carriers,1,AH GLOBE,BC,74432.0,2005,Hudong-Zhonghua Shipbuilding,"11,500,000",11.5,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,bulk_carriers,1,LOCOMOTION,BC,38046.0,2013,Shimanami Shipyard Co Ltd,"19,800,000",19.8,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,EUROSPIRIT,TANKER,320105.0,2011,Daewoo Shipbuilding,"153,000,000",153.0,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,VIEIRA,TANKER,306999.0,2002,Hyundai Heavy Inds - Ulsan,"75,000,000",75.0,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,MOUNT VISION,TANKER,301563.0,2026,New Times Shipbuilding Co,-,,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,MOUNT FRONTIER,TANKER,298000.0,2027,New Times Shipbuilding Co,-,,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,MOUNT HORIZON,TANKER,298000.0,2026,New Times Shipbuilding Co,-,,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,MOUNT SUMMIT,TANKER,298000.0,2027,New Times Shipbuilding Co,-,,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,SOUTHERN EMPEROR,TANKER,297376.0,2004,Dalian New Shipbuilding HI,"110,000,000",110.0,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,MILITOS,TANKER,164751.0,2012,Hyundai Samho HI,"95,500,000",95.5,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,SUEZ PROTOPIA,TANKER,160391.0,2008,Samsung Heavy Inds - Geoje,"82,000,000",82.0,MIDDLE EASTERN,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,YELLOW TRADER,TANKER,158609.0,2004,Daewoo Shipbuilding,"61,000,000",61.0,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,MARAN POSEIDON,TANKER,158267.0,2010,Hyundai Heavy Inds - Ulsan,"98,500,000",98.5,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,ACHILLEAS,TANKER,157883.0,2010,Hyundai Heavy Inds - Ulsan,"98,000,000",98.0,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,ADVANTAGE SUMMER,TANKER,156527.0,2010,Jiangsu Rongsheng,"97,500,000",97.5,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,tankers,1,LEON GRACE,TANKER,49999.0,2008,Hyundai Mipo Dockyard Co,"23,500,000",23.5,UNDISCLOSED,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,containers,1,JIFA BEIHAI,CV,20676.0,2018,Shanhaiguan,"12,200,000",12.2,UNDISCLOSED,"1,184 TEU",carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
