@@ -428,6 +428,11 @@ def run_batch():
     dry_files = sorted(glob.glob("corpus/03-breakwave/drybulk/**/*.pdf", recursive=True))
     tank_files = sorted(glob.glob("corpus/03-breakwave/tankers/**/*.pdf", recursive=True))
     all_files = dry_files + tank_files
+    # resolved twins (misfiled / re-dropped PDFs, data/derived/twin_documents.json) must not come back as MDs or series rows
+    import json
+    with open("data/derived/twin_documents.json", encoding="utf-8") as tf:
+        twin_pdfs = {t["twin_pdf"] for t in json.load(tf)["twins"]}
+    all_files = [f for f in all_files if os.path.basename(f) not in twin_pdfs]
     print(f"Total Breakwave reports to process: {len(all_files)} ({len(dry_files)} drybulk, {len(tank_files)} tankers)")
     
     os.makedirs("data/extracted/md/breakwave/drybulk", exist_ok=True)

@@ -833,6 +833,19 @@
     "pdf_numbers_found_twin": null,
     "pdf_numbers_found_canonical": null
    }
+  },
+  {
+   "twin": "data/extracted/md/banchero_costa/2026/bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026.md",
+   "canonical": "data/extracted/md/banchero_costa/2026/banchero_costa_2026_W38_Bancosta-Weekly-2026-38.md",
+   "twin_pdf": "bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026.pdf",
+   "canonical_pdf": "banchero_costa_2026_W38_Bancosta-Weekly-2026-38.pdf",
+   "reason": "same Week 38/2026 issue; the twin PDF exists nowhere, its prose is identical to the canonical MD and it only adds chart tables read by eye (owner rule: wrong data deleted, not archived)",
+   "misfile": false,
+   "action": "delete",
+   "evidence": {
+    "pdf_numbers_found_twin": null,
+    "pdf_numbers_found_canonical": null
+   }
   }
  ]
 }

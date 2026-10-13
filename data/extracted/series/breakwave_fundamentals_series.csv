@@ -1415,14 +1415,6 @@ issue_date,sector,category,metric,ytd_value,yoy_change,source_file
 2024-02-06,drybulk,Demand,China Steel Inventories,5.0mt,-29.1%,corpus/03-breakwave/drybulk/2024/2024-02-06_Breakwave_Dry_Bulk.pdf
 2024-02-06,drybulk,Demand,China Steel Production,1019mt,0.6%,corpus/03-breakwave/drybulk/2024/2024-02-06_Breakwave_Dry_Bulk.pdf
 2024-02-06,drybulk,Supply,Dry Bulk Fleet,1006dwt,3.1%,corpus/03-breakwave/drybulk/2024/2024-02-06_Breakwave_Dry_Bulk.pdf
-2024-02-13,tankers,Demand,China Oil Imports,564.3 MMbls,-4.8%,corpus/03-breakwave/tankers/2024/2024-02-13_Breakwave_Tankers.pdf
-2024-02-13,tankers,Demand,Global Crude Oil Floating Storage,80.4 MMbls,-22.2%,corpus/03-breakwave/tankers/2024/2024-02-13_Breakwave_Tankers.pdf
-2024-02-13,tankers,Demand,OECD Total Crude Oil Stocks,1027.5 MMbls,-3.1%,corpus/03-breakwave/tankers/2024/2024-02-13_Breakwave_Tankers.pdf
-2024-02-13,tankers,Demand,"Oil Supply, OPEC","26,860 kbpd",-7.7%,corpus/03-breakwave/tankers/2024/2024-02-13_Breakwave_Tankers.pdf
-2024-02-13,tankers,Demand,"Oil Supply, non-OPEC","69,070 kbpd",5.1%,corpus/03-breakwave/tankers/2024/2024-02-13_Breakwave_Tankers.pdf
-2024-02-13,tankers,Demand,US Crude Oil Exports,48.7 MMbls,4.9%,corpus/03-breakwave/tankers/2024/2024-02-13_Breakwave_Tankers.pdf
-2024-02-13,tankers,Demand,World Oil Demand,"104,390 kbpd",4.5%,corpus/03-breakwave/tankers/2024/2024-02-13_Breakwave_Tankers.pdf
-2024-02-13,tankers,Supply,Tanker Fleet,690.8 mdwt,1.6%,corpus/03-breakwave/tankers/2024/2024-02-13_Breakwave_Tankers.pdf
 2024-02-20,drybulk,Demand,Australia Iron Ore Exports,901mt,1.5%,corpus/03-breakwave/drybulk/2024/2024-02-20_Breakwave_Dry_Bulk.pdf
 2024-02-20,drybulk,Demand,Brazil Iron Ore Exports,408mt,10.6%,corpus/03-breakwave/drybulk/2024/2024-02-20_Breakwave_Dry_Bulk.pdf
 2024-02-20,drybulk,Demand,China Coal Imports,474mt,61.8%,corpus/03-breakwave/drybulk/2024/2024-02-20_Breakwave_Dry_Bulk.pdf

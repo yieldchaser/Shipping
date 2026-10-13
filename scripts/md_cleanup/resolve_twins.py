@@ -73,9 +73,14 @@ def records(raw: str, nl: str) -> list[str]:
     return out
 
 
+def base(cell: str) -> str:
+    """A cell that holds a document path counts by its file name (series cite corpus/.../<name>.pdf)."""
+    return cell.rsplit("/", 1)[-1]
+
+
 def masked(cells: list[str], src_names: set) -> tuple:
     """Row identity without the document name and dates (a repost carries its repost date)."""
-    return tuple("" if c in src_names or DATE_RE.match(c) else c for c in cells)
+    return tuple("" if base(c) in src_names or DATE_RE.match(c) else c for c in cells)
 
 
 def fix_series(twins: list[dict], apply: bool, stat: Counter) -> None:
@@ -95,7 +100,7 @@ def fix_series(twins: list[dict], apply: bool, stat: Counter) -> None:
         # canonical rows per twin entry: masked identity + the date they carry
         canon_keys, canon_date = {}, {}
         for cells in parsed[1:]:
-            t = next((canon_names[c] for c in cells if c in canon_names), None)
+            t = next((canon_names[base(c)] for c in cells if base(c) in canon_names), None)
             if t is not None:
                 names = {n for n, x in canon_names.items() if x is t}
                 canon_keys.setdefault(id(t), set()).add(masked(cells, names))
@@ -104,7 +109,7 @@ def fix_series(twins: list[dict], apply: bool, stat: Counter) -> None:
                     canon_date.setdefault(id(t), Counter())[d] += 1
         out, changed = [recs[0]], False
         for rec, cells in zip(recs[1:], parsed[1:]):
-            t = next((by_name[c] for c in cells if c in by_name), None)
+            t = next((by_name[base(c)] for c in cells if base(c) in by_name), None)
             if t is None:
                 out.append(rec)
                 continue

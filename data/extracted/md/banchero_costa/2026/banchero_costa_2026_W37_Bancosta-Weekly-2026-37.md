@@ -4,6 +4,7 @@ issue_date: "2026-09-14"
 year: 2026
 report_week: 37
 publisher: "Banchero Costa"
+source_file: "corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf"
 ---
 # weekly market report
 

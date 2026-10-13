@@ -125,6 +125,8 @@ def main() -> int:
         save_index(idx)
         if added:
             REGISTRY.write_text(json.dumps(reg, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+        # also when a runner re-extracted an already-resolved twin (2024-02-13 Breakwave came back on 2026-10-12)
+        if added or any((ROOT / t).exists() for t in known):
             for k, v in sorted(resolve(True).items()):
                 print(f"{v:6}  {k}")
     print(f"{added} new twin(s){'' if apply else ' (dry run)'}")
