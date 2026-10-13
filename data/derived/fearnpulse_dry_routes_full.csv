@@ -6898,6 +6898,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 10002,Capesize Australia/China,Capesize,Australia / China,usd/tonne,2026-10-08,14.725,
 10002,Capesize Australia/China,Capesize,Australia / China,usd/tonne,2026-10-09,14.235,
 10002,Capesize Australia/China,Capesize,Australia / China,usd/tonne,2026-10-12,13.51,
+10002,Capesize Australia/China,Capesize,Australia / China,usd/tonne,2026-10-13,12.98,
 10003,Capesize Newcastle/Qingdao Coal,Capesize,Newcastle / Qingdao,usd/tonne,1999-03-01,3.68,
 10003,Capesize Newcastle/Qingdao Coal,Capesize,Newcastle / Qingdao,usd/tonne,1999-03-02,3.7,
 10003,Capesize Newcastle/Qingdao Coal,Capesize,Newcastle / Qingdao,usd/tonne,1999-03-03,3.7,
@@ -13797,6 +13798,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 10003,Capesize Newcastle/Qingdao Coal,Capesize,Newcastle / Qingdao,usd/tonne,2026-10-08,20.525,
 10003,Capesize Newcastle/Qingdao Coal,Capesize,Newcastle / Qingdao,usd/tonne,2026-10-09,20.031,
 10003,Capesize Newcastle/Qingdao Coal,Capesize,Newcastle / Qingdao,usd/tonne,2026-10-12,19.831,
+10003,Capesize Newcastle/Qingdao Coal,Capesize,Newcastle / Qingdao,usd/tonne,2026-10-13,19.513,
 120654,Capesize Pacific RV,Capesize,Pacific Round Voyage,usd/day,2024-09-02,33375,
 120654,Capesize Pacific RV,Capesize,Pacific Round Voyage,usd/day,2024-09-03,33269,
 120654,Capesize Pacific RV,Capesize,Pacific Round Voyage,usd/day,2024-09-04,30502,
@@ -14326,6 +14328,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 120654,Capesize Pacific RV,Capesize,Pacific Round Voyage,usd/day,2026-10-08,39723,
 120654,Capesize Pacific RV,Capesize,Pacific Round Voyage,usd/day,2026-10-09,37675,
 120654,Capesize Pacific RV,Capesize,Pacific Round Voyage,usd/day,2026-10-12,34564,
+120654,Capesize Pacific RV,Capesize,Pacific Round Voyage,usd/day,2026-10-13,32645,
 120655,Capesize TCE Cont/Far East,Capesize,Cont / Far East,usd/day,2024-09-02,57571,
 120655,Capesize TCE Cont/Far East,Capesize,Cont / Far East,usd/day,2024-09-03,61144,
 120655,Capesize TCE Cont/Far East,Capesize,Cont / Far East,usd/day,2024-09-04,60519,
@@ -14855,6 +14858,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 120655,Capesize TCE Cont/Far East,Capesize,Cont / Far East,usd/day,2026-10-08,81083,
 120655,Capesize TCE Cont/Far East,Capesize,Cont / Far East,usd/day,2026-10-09,78528,
 120655,Capesize TCE Cont/Far East,Capesize,Cont / Far East,usd/day,2026-10-12,76833,
+120655,Capesize TCE Cont/Far East,Capesize,Cont / Far East,usd/day,2026-10-13,75139,
 10001,Capesize Tubarao/Qingdao (C3),Capesize,Tubarao / Qingdao,usd/tonne,1998-05-06,7.067,
 10001,Capesize Tubarao/Qingdao (C3),Capesize,Tubarao / Qingdao,usd/tonne,1998-05-07,7.113,
 10001,Capesize Tubarao/Qingdao (C3),Capesize,Tubarao / Qingdao,usd/tonne,1998-05-08,7.069,
@@ -21962,6 +21966,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 10001,Capesize Tubarao/Qingdao (C3),Capesize,Tubarao / Qingdao,usd/tonne,2026-10-08,33.725,
 10001,Capesize Tubarao/Qingdao (C3),Capesize,Tubarao / Qingdao,usd/tonne,2026-10-09,33.294,
 10001,Capesize Tubarao/Qingdao (C3),Capesize,Tubarao / Qingdao,usd/tonne,2026-10-12,32.95,
+10001,Capesize Tubarao/Qingdao (C3),Capesize,Tubarao / Qingdao,usd/tonne,2026-10-13,32.68,
 10011,Panamax TCE Cont/Far East,Panamax,Cont / Far East,usd/day,2018-01-02,18590,
 10011,Panamax TCE Cont/Far East,Panamax,Cont / Far East,usd/day,2018-01-03,18458,
 10011,Panamax TCE Cont/Far East,Panamax,Cont / Far East,usd/day,2018-01-04,19028,
@@ -24153,6 +24158,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 10011,Panamax TCE Cont/Far East,Panamax,Cont / Far East,usd/day,2026-10-08,30586,
 10011,Panamax TCE Cont/Far East,Panamax,Cont / Far East,usd/day,2026-10-09,30691,
 10011,Panamax TCE Cont/Far East,Panamax,Cont / Far East,usd/day,2026-10-12,30709,
+10011,Panamax TCE Cont/Far East,Panamax,Cont / Far East,usd/day,2026-10-13,30607,
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2018-01-02,5459,
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2018-01-03,5431,
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2018-01-04,5506,
@@ -26344,6 +26350,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2026-10-08,13294,
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2026-10-09,13389,
 10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2026-10-12,13481,
+10013,Panamax TCE Far East/Cont,Panamax,Far East / Cont,usd/day,2026-10-13,13525,
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2018-01-02,10510,
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2018-01-03,10371,
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2018-01-04,10645,
@@ -28535,6 +28542,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2026-10-08,21092,
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2026-10-09,21336,
 10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2026-10-12,21636,
+10012,Panamax TCE Far East RV,Panamax,Far East Round Voyage,usd/day,2026-10-13,21910,
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2018-01-02,12517,
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2018-01-03,12433,
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2018-01-04,12711,
@@ -30726,6 +30734,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2026-10-08,22136,
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2026-10-09,22270,
 10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2026-10-12,22282,
+10010,Panamax Transatlantic RV,Panamax,Transatlantic Round Voyage,usd/day,2026-10-13,22241,
 120137,Supramax South China - Indonesia RV,Supramax,South China / Indonesia RV,usd/day,2023-05-02,10469,
 120137,Supramax South China - Indonesia RV,Supramax,South China / Indonesia RV,usd/day,2023-05-03,10214,
 120137,Supramax South China - Indonesia RV,Supramax,South China / Indonesia RV,usd/day,2023-05-04,10007,
@@ -31605,6 +31614,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 120137,Supramax South China - Indonesia RV,Supramax,South China / Indonesia RV,usd/day,2026-10-08,16884,
 120137,Supramax South China - Indonesia RV,Supramax,South China / Indonesia RV,usd/day,2026-10-09,16953,
 120137,Supramax South China - Indonesia RV,Supramax,South China / Indonesia RV,usd/day,2026-10-12,17079,
+120137,Supramax South China - Indonesia RV,Supramax,South China / Indonesia RV,usd/day,2026-10-13,17189,
 120132,Supramax Transatlantic RV (raw A),Supramax,Transatlantic Round Voyage,usd/day,2023-05-02,18893,
 120132,Supramax Transatlantic RV (raw A),Supramax,Transatlantic Round Voyage,usd/day,2023-05-03,18236,
 120132,Supramax Transatlantic RV (raw A),Supramax,Transatlantic Round Voyage,usd/day,2023-05-04,17982,
@@ -32469,6 +32479,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 120132,Supramax Transatlantic RV (raw A),Supramax,Transatlantic Round Voyage,usd/day,2026-10-08,31725,
 120132,Supramax Transatlantic RV (raw A),Supramax,Transatlantic Round Voyage,usd/day,2026-10-09,31706,
 120132,Supramax Transatlantic RV (raw A),Supramax,Transatlantic Round Voyage,usd/day,2026-10-12,31644,
+120132,Supramax Transatlantic RV (raw A),Supramax,Transatlantic Round Voyage,usd/day,2026-10-13,31919,
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2023-05-02,16554,"mean(120132:18893,120133:14214)"
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2023-05-03,16243,"mean(120132:18236,120133:14250)"
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2023-05-04,16038,"mean(120132:17982,120133:14093)"
@@ -33333,6 +33344,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2026-10-08,23775,"mean(120132:31725,120133:15825)"
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2026-10-09,23760,"mean(120132:31706,120133:15813)"
 ,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2026-10-12,23754,"mean(120132:31644,120133:15863)"
+,SUPRAMAX_TRANSATLANTIC_RV_AVG,Supramax,Transatlantic Round Voyage,usd/day,2026-10-13,23941,"mean(120132:31919,120133:15963)"
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2023-05-02,14214,
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2023-05-03,14250,
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2023-05-04,14093,
@@ -34197,6 +34209,7 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2026-10-08,15825,
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2026-10-09,15813,
 120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2026-10-12,15863,
+120133,Supramax Transatlantic RV (raw B),Supramax,Transatlantic Round Voyage,usd/day,2026-10-13,15963,
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2023-05-02,25214,
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2023-05-03,24979,
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2023-05-04,24329,
@@ -35061,3 +35074,4 @@ tsid,label,klass,route,unit,date,value,raw_pair_meta
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2026-10-08,31456,
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2026-10-09,31519,
 120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2026-10-12,31644,
+120129,Supramax US Gulf - China/South Japan,Supramax,US Gulf / China-South Japan,usd/day,2026-10-13,32019,
