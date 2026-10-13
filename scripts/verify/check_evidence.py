@@ -8,7 +8,12 @@ Evidence file: docs/handoff/evidence/<lane>.jsonl, one JSON object per line:
    "pdf": "corpus/01-brokers/.../x.pdf",       # source document (relative to --corpus-root)
    "page": 3,                                   # 1-based page number
    "kind": "text" | "image",                    # text = page text layer has it; image = raster/outlined
-   "crop": "docs/handoff/evidence/<lane>/<id>.png"}   # required for kind=image: crop of the cell(s)
+   "crop": "docs/handoff/evidence/<lane>/<id>.png",   # required for kind=image: crop of the cell(s)
+   "row": "Sotiria"}                            # REQUIRED: row label on the same line as the value
+Removal line (every deleted line that held numbers must be accounted for):
+  {"file": ..., "kind": "removal", "lines": 12, "page": 4, "reason": "month-axis chart reading; page
+   shows an unlabeled line chart"}
+Also enforced: E6 protected files untouched; E7 only files the lane owns (docs/handoff/lanes.json).
 
 Checks:
   E1 text evidence: every number in "printed" occurs among the page's text-layer words.
@@ -66,17 +71,32 @@ def page_words(pdf: Path, page: int, cache: dict) -> set[str]:
     return cache[key]
 
 
-def added_numbers(base: str) -> dict[str, set[str]]:
+def diff_numbers(base: str) -> tuple[dict[str, set[str]], dict[str, int]]:
+    """(numbers added per file, count of removed lines that carried numbers per file)."""
     diff = subprocess.run(["git", "diff", "-U0", f"{base}...HEAD", "--", "data/extracted"],
                           cwd=ROOT, capture_output=True, text=True, encoding="utf-8", errors="replace").stdout
-    out: dict[str, set[str]] = {}
+    added: dict[str, set[str]] = {}
+    removed: dict[str, int] = {}
     cur = None
     for line in diff.splitlines():
-        if line.startswith("+++ b/"):
+        if line.startswith("+++ "):
+            cur = line[6:] if line.startswith("+++ b/") else None
+        elif line.startswith("--- a/"):
             cur = line[6:]
-        elif line.startswith("+") and not line.startswith("+++") and cur and cur.endswith((".md", ".csv")):
-            out.setdefault(cur, set()).update(nums(line[1:]))
-    return out
+        elif cur and cur.endswith((".md", ".csv")):
+            if line.startswith("+") and not line.startswith("+++"):
+                added.setdefault(cur, set()).update(nums(line[1:]))
+                if nums(line[1:]):
+                    removed[cur] = removed.get(cur, 0) - 1
+            elif line.startswith("-") and not line.startswith("---") and nums(line[1:]):
+                removed[cur] = removed.get(cur, 0) + 1
+    # net lines with numbers that disappeared (a changed line = one removed + one added -> 0)
+    return added, {f: k for f, k in removed.items() if k > 0}
+
+
+def changed_files(base: str) -> list[str]:
+    return subprocess.run(["git", "diff", "--name-only", f"{base}...HEAD"], cwd=ROOT, capture_output=True,
+                          text=True, encoding="utf-8").stdout.split()
 
 
 def main() -> int:
@@ -93,12 +113,22 @@ def main() -> int:
         ocr = RapidOCR()
     except Exception:
         ocr = None
-    fails, warns, cache, covered = [], [], {}, {}
+    fails, warns, cache, covered, removal_files = [], [], {}, {}, {}
     for i, e in enumerate(evidence, 1):
         tag = f"evidence line {i} ({e.get('file')} = {e.get('value')})"
         f = ROOT / e["file"]
-        if not f.exists() or e["value"] not in f.read_text(encoding="utf-8", errors="replace"):
+        if e.get("kind") == "removal":
+            removal_files[e["file"]] = removal_files.get(e["file"], 0) + int(e.get("lines", 1))
+            if not e.get("reason") or not e.get("page"):
+                fails.append(f"E5 {tag}: removal needs 'reason' and 'page' (what the page shows instead)")
+            continue
+        body = f.read_text(encoding="utf-8", errors="replace") if f.exists() else ""
+        if e["value"] not in body:
             fails.append(f"E3 {tag}: value not found in file")
+        elif not e.get("row"):
+            fails.append(f"E3 {tag}: 'row' (row label printed on the same line as the value) is required")
+        elif not any(e["value"] in ln and e["row"] in ln for ln in body.splitlines()):
+            fails.append(f"E3 {tag}: no line in the file holds both row label {e['row']!r} and the value")
         covered.setdefault(e["file"], set()).update(canon(e["value"]))
         for n in nums(e["value"]):
             covered[e["file"]] |= canon(n)
@@ -127,11 +157,28 @@ def main() -> int:
                     warns.append(f"E2 {tag}: OCR-UNCONFIRMED, reviewer must look at {e['crop']}")
         else:
             fails.append(f"{tag}: kind must be text or image")
-    for f, ns in added_numbers(a.base).items():
+    added, removed = diff_numbers(a.base)
+    for f, ns in added.items():
         have = covered.get(f, set())
         miss = sorted(n for n in ns if not (canon(n) & have))
         if miss:
             fails.append(f"E4 {f}: {len(miss)} added numbers without evidence, e.g. {miss[:8]}")
+    for f, k in removed.items():
+        if k > removal_files.get(f, 0):
+            fails.append(f"E5 {f}: {k} removed lines with numbers; log each removal "
+                         f"(kind=removal, lines, reason, page) — deleting hard tables is not a fix")
+    lanes = json.loads((ROOT / "docs" / "handoff" / "lanes.json").read_text(encoding="utf-8"))
+    files = changed_files(a.base)
+    for f in files:
+        if any(f.startswith(p) for p in lanes["_protected"]):
+            fails.append(f"E6 {f}: protected file changed — branch will be rejected")
+    if a.lane in lanes:
+        allowed = lanes[a.lane]["owns"] + lanes["_always_allowed"]
+        for f in files:
+            if not any(f.startswith(p) for p in allowed) and not any(f.startswith(p) for p in lanes["_protected"]):
+                fails.append(f"E7 {f}: outside lane {a.lane}'s files (docs/handoff/lanes.json)")
+    else:
+        fails.append(f"E7 unknown lane {a.lane!r}; lanes: {[k for k in lanes if not k.startswith('_')]}")
     for w in warns:
         print("WARN", w)
     for f in fails:

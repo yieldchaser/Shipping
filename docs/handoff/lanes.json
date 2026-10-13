@@ -1,0 +1,23 @@
+{
+  "l1-audit-brokers": {
+    "branch": "lane/l1-audit-brokers",
+    "owns": ["data/extracted/md/clarksons/", "data/extracted/md/fearnleys-md/", "data/extracted/md/carriers/",
+             "data/extracted/md/xclusiv/", "data/extracted/md/agora/", "data/extracted/series/clarksons",
+             "data/extracted/series/carriers", "data/extracted/series/xclusiv", "data/extracted/series/agora",
+             "data/extracted/series/fearnleys_md", "scripts/extract/publishers/"]
+  },
+  "l2-series": {
+    "branch": "lane/l2-series",
+    "owns": ["data/extracted/series/advanced_shipping_", "data/extracted/series/intermodal_baltic_tc_series",
+             "data/extracted/series/ism_", "scripts/extract/", "scripts/verify/md_quality_gate.py", "tests/"]
+  },
+  "l3-render": {
+    "branch": "lane/l3-render",
+    "owns": ["data/extracted/md/seabrokers/", "data/extracted/md/intermodal/", "data/extracted/md/banchero_costa/",
+             "data/extracted/md/fearnleys/", "data/extracted/md/gibson/", "scripts/md_cleanup/"]
+  },
+  "_always_allowed": ["docs/handoff/logs/", "docs/handoff/evidence/", "docs/handoff/audit/", "docs/handoff/claims/"],
+  "_protected": ["scripts/verify/check_evidence.py", "scripts/validate_knowledge.py", "docs/handoff/lanes.json",
+                 "docs/handoff/AGENT_OPERATING_MANUAL.md", "docs/handoff/WORK_PACKAGES_2026-10-14.md",
+                 "knowledge/manifests/"]
+}

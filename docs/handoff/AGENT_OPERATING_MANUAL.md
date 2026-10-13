@@ -58,6 +58,42 @@ Lanes own disjoint files, so their branches never conflict. Each lane pushes ONL
 | L3 render-checks | `lane/l3-render` | `data/extracted/md/{seabrokers,intermodal,banchero_costa,fearnleys,gibson}/**` and sidecars | WORK_PACKAGES D → Gibson full-sample audit → Fearnleys orphans inventory (E) → F |
 
 If you only have one harness: L3 first (safest, most value per hour), then L1, then L2.
+File ownership is machine-enforced: `docs/handoff/lanes.json` + check E7.
+
+### 3a. Claiming a lane (do this FIRST — several agents may get the same prompt)
+
+Each harness has a name the owner gives you in the prompt (HARNESS = e.g. `antigravity-1`, `kilo-1`).
+
+1. `git fetch origin --prune` and list `git branch -r --list "origin/lane/*"`.
+2. For each lane in order L3, L1, L2: if `origin/lane/<lane>` exists, read
+   `git show origin/lane/<lane>:docs/handoff/claims/<lane>.json`.
+   - claim `harness` == your HARNESS -> it is YOUR lane from an earlier session: `git switch <branch>`
+     (or `git switch -c <branch> origin/<branch>`), read the progress file, RESUME.
+   - another harness -> NOT yours. Never commit to, rebase, or push that branch. Go to the next lane.
+3. No branch exists for the lane -> claim it:
+   `git switch -c lane/<lane> origin/main`, write `docs/handoff/claims/<lane>.json` =
+   `{"lane": "<lane>", "harness": "<HARNESS>", "claimed_utc": "<now>"}`, commit, and
+   `git push origin lane/<lane>` (NO --force). If the push is rejected, another agent claimed it a
+   moment earlier: delete your local branch and try the next lane.
+4. All three lanes taken by others -> stop and tell the owner. Do not invent a fourth lane.
+
+### 3b. What the checker cannot see — and how the review will catch it
+
+We assume an agent may try to look productive instead of being correct. Known shortcuts and their
+consequence (all are checked on Saturday; any one found rejects the branch):
+- Evidence copied from a different page/row than the cell it supports -> `row` must be on the same
+  line as the value (E3) and the PDF page must print the number (E1). Reviewer re-renders 10%.
+- Deleting or "noting" hard tables to avoid proving them -> every removed numeric line needs a
+  removal entry with page + reason (E5); reviewer looks at every removal page.
+- Writing "audited 120 MDs, all good" without looking -> audit verdicts must list, per sampled table,
+  the crop file and the number of cells compared; the machine-pass CSV must be reproducible by the
+  committed script (reviewer reruns it and diffs).
+- Claiming the validator or checker passed -> reviewer reruns both; a false claim rejects the branch.
+- Editing the checker/validator/manual, or files of another lane -> E6/E7 hard fail.
+- Copying values from another broker's report for the same week -> E1 checks the cited PDF only.
+- Large regenerated outputs (rerunning an extractor over a whole source) -> forbidden; E4 will
+  demand evidence for every changed number anyway.
+Honest "could not verify / skipped" entries in the log are always accepted and cost nothing.
 
 ## 4. The audit protocol (how to attack a source)
 
@@ -126,10 +162,10 @@ the log costs nothing. Do not edit `scripts/verify/check_evidence.py` or `script
 ### Prompt for any lane (fill LANE)
 
 ```
-Read docs/handoff/AGENT_OPERATING_MANUAL.md completely, then docs/handoff/WORK_PACKAGES_2026-10-14.md
-(ground rules section). You are lane LANE (see section 3 of the manual for your branch, the files you
-own and your work order). Start with: git fetch origin && git switch -c <your branch> origin/main
-(or git switch <your branch> if it exists, then read your progress file and resume).
+You are harness HARNESS. Read docs/handoff/AGENT_OPERATING_MANUAL.md completely, then
+docs/handoff/WORK_PACKAGES_2026-10-14.md (ground rules section). Claim or resume a lane exactly as
+section 3a says — never touch a lane claimed by another harness. Then work your lane's list
+(section 3) in order.
 Follow the audit protocol (section 4) source by source. Every number you change needs an evidence line
 (section 5); run check_evidence.py and the validator before every push; push only your branch.
 If something is ambiguous, write it under "Open questions" in your log and move on. Never estimate a
@@ -137,4 +173,4 @@ number. Never read a chart by eye. When your lane's list is finished, start the 
 in the ledger that no other lane owns, and say so in the log.
 ```
 
-Lane names: `l1-audit-brokers`, `l2-series`, `l3-render`.
+Replace HARNESS with a unique name per harness (e.g. antigravity-1, kilo-1, roo-1). The same prompt can be given to every harness; the claim protocol assigns lanes.
