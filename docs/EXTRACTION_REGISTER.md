@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (706,387 Total Rows across 167 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (706,729 Total Rows across 167 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -150,7 +150,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [intermodal_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_sales_series.csv) | Secondhand sales transactions ($M) | 3,479 | Verified |
 | [intermodal_tanker_spot_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_tanker_spot_series.csv) | Tanker spot market WS points & TCE ($/day) | 3,885 | Verified |
 | [intermodal_tc_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_tc_rates_series.csv) | Time charter rates across crude, product, and dry bulk | 5,233 | Verified |
-| [ism_coaster_freight_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_coaster_freight_series.csv) | Coaster / Mini-bulker freight rates ($/t, TCE $/day) | 12,462 | Verified |
+| [ism_coaster_freight_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_coaster_freight_series.csv) | Coaster / Mini-bulker freight rates ($/t, TCE $/day) | 12,599 | Verified |
 | [ism_handy_freight_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_handy_freight_series.csv) | Handysize / Supramax freight & TCT dynamics ($/t, $/day) | 17,968 | Verified |
 | [lion_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/lion_deals_series.csv) | Secondhand sales transactions & demo deals | 1,303 | Verified |
 | [lion_demo_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/lion_demo_sales_series.csv) | Reported demolition scrap sales fixtures ($/LDT) | 109 | Verified |
@@ -176,7 +176,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [signal_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_reports_metadata.csv) |  | 449 | Verified |
 | [signal_vessel_counts_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_vessel_counts_series.csv) | Signal Ocean weekly commercial vessel counts and deployment monitors | 120 | Verified |
 | [singletons_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/singletons_sales_series.csv) | Week 38 singleton secondhand sales & demolition fixtures | 46 | Verified |
-| [ssy_capesize_index_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_index_series.csv) | SSY Capesize Index, spot routes, 1Y T/C | 8,874 | Verified |
+| [ssy_capesize_index_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_index_series.csv) | SSY Capesize Index, spot routes, 1Y T/C | 9,016 | Verified |
 | [ssy_capesize_index_time_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_index_time_series.csv) | SSY Capesize Index, historical changes, and T/C day rates | 519 | Verified |
 | [ssy_capesize_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_series.csv) | SSY Capesize Index vector calibration curves | 8,881 | Verified |
 | [ssy_route_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_route_rates_series.csv) | SSY assessed route freight rates ($/t) across Atlantic & Pacific | 5,190 | Verified |
@@ -191,18 +191,18 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [star_asia_snp_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/star_asia_snp_sales_series.csv) | Secondhand sales transactions ($M) | 3,575 | Verified |
 | [star_asia_valuation_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/star_asia_valuation_matrix_series.csv) | Dry, tanker, container secondhand matrices ($M) | 3,232 | Verified |
 | [xclusiv_baltic_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_baltic_indices_series.csv) | Xclusiv Baltic Indices historical structured dataset | 1,015 | Verified |
-| [xclusiv_demo_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_demo_sales_series.csv) | Reported demolition scrap sales fixtures ($/LDT) | 606 | Verified |
-| [xclusiv_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_demolition_series.csv) | Indicative demolition prices ($/LDT) | 2,090 | Verified |
+| [xclusiv_demo_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_demo_sales_series.csv) | Reported demolition scrap sales fixtures ($/LDT) | 610 | Verified |
+| [xclusiv_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_demolition_series.csv) | Indicative demolition prices ($/LDT) | 2,098 | Verified |
 | [xclusiv_freight_benchmarks_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_freight_benchmarks_series.csv) | Freight spot earnings & 1Y TC benchmarks ($/day) | 238 | Verified |
 | [xclusiv_macro_bunkers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_macro_bunkers_series.csv) | Macro commodity prices & bunker spreads ($/t) | 643 | Verified |
 | [xclusiv_newbuilding_orders_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_newbuilding_orders_series.csv) | Newbuilding reported contracts & orders | 1,313 | Verified |
 | [xclusiv_newbuilding_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_newbuilding_prices_series.csv) | Indicative newbuilding prices ($M) | 1,379 | Verified |
 | [xclusiv_newbuilding_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_newbuilding_series.csv) | Xclusiv Newbuilding historical structured dataset | 1,379 | Verified |
-| [xclusiv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_sales_series.csv) | Secondhand sales transactions ($M) | 5,565 | Verified |
-| [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,561 | Verified |
+| [xclusiv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_sales_series.csv) | Secondhand sales transactions ($M) | 5,584 | Verified |
+| [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,593 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (167 CSVs + 1 Master Workbook)** | **706,387** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (167 CSVs + 1 Master Workbook)** | **706,729** | **100.0% Pass** |
 
 ---
 

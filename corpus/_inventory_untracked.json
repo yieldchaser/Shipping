@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2925,
-      "untracked_bytes": 2297404614
+      "untracked_files": 2929,
+      "untracked_bytes": 2299325239
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,6 +47,16 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/ism/2026/ism_12_10_2026_ism_coasters_and_mini_bulkers_week_41.md",
+      "bytes": 7271,
+      "sha256": "59c5317f02f593cade103e8076a5974771819d193a11a353a1d294c7b9a0ff27"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/xclusiv/2026/xclusiv_13_10_2026_xclusiv_shipbrokers_weekly_12th_october_2026.md",
+      "bytes": 24251,
+      "sha256": "a437b0dcff4b194ef33e26ef7a70038a35566ba3e2f4027edde3e396c7db13c8"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -9328,6 +9338,11 @@
       "sha256": "4e7991c58f25f20c6bc27a0e583f0f9a3eccb38e2a92d1db7d7a9cb8dd086078"
     },
     {
+      "path": "corpus/01-brokers/ism/2026/ism_12_10_2026_ism_coasters_and_mini_bulkers_week_41.pdf",
+      "bytes": 196667,
+      "sha256": "2c4ff246af2b9095e0a20bc95debcf6887c118d80004b716171d5d1a18211aac"
+    },
+    {
       "path": "corpus/01-brokers/ism/2026/ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37.pdf",
       "bytes": 196853,
       "sha256": "5a67eb3358694f0cea8de2eb9a2b5d92823efa2add9f74d994c7be064660b013"
@@ -14446,6 +14461,11 @@
       "path": "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_12_22.pdf",
       "bytes": 1968821,
       "sha256": "b9cc0a93f34cb9daf613994c56c6911084ce7d118b4271c7afb165761940a7d0"
+    },
+    {
+      "path": "corpus/01-brokers/xclusiv/2026/xclusiv_13_10_2026_xclusiv_shipbrokers_weekly_12th_october_2026.pdf",
+      "bytes": 1692436,
+      "sha256": "51c16dfe3feab27ff201b66ab16e6b8b31a90f07d49967136f48a0ae473fb310"
     },
     {
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf",
