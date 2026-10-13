@@ -53,41 +53,9 @@ None of this is linear. Brazil cannot replace every Australian ore molecule over
 | 36 mos | Hafnia Triton | 2019 |
 | --- | --- | --- |
 |  | $31,000/day |  |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 3/Oct/24 | 180 | 110 | 220 |
-| 3/Nov/24 | 60 | 100 | 100 |
-| 3/Dec/24 | 50 | 160 | 150 |
-| 3/Jan/25 | 50 | 110 | 110 |
-| 3/Feb/25 | 70 | 120 | 170 |
-| 3/Mar/25 | 60 | 120 | 140 |
-| 3/Apr/25 | 60 | 130 | 220 |
-| 3/May/25 | 60 | 120 | 150 |
-| 3/Jun/25 | 60 | 110 | 160 |
-| 3/Jul/25 | 80 | 100 | 170 |
-| 3/Aug/25 | 90 | 110 | 170 |
-| 3/Sep/25 | 90 | 110 | 160 |
-| 3/Oct/25 | 90 | 120 | 150 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-|  | TC1 | TC2 | TC5 |  |
-| 3/Oct/24 | 90 | 90 | 100 |  |
-| 3/Nov/24 | 100 | 100 | 100 |  |
-| 3/Dec/24 | 130 | 120 | 280 |  |
-| 3/Jan/25 | 110 | 110 | 120 |  |
-| 3/Feb/25 | 100 | 120 | 130 |  |
-| 3/Mar/25 | 110 | 120 | 140 |  |
-| 3/Apr/25 | 120 | 130 | 260 |  |
-| 3/May/25 | 110 | 120 | 140 |  |
-| 3/Jun/25 | 100 | 110 | 130 |  |
-| 3/Jul/25 | 180 | 120 | 140 |  |
-| 3/Aug/25 | 110 | 110 | 120 |  |
-| 3/Sep/25 | 110 | 110 | 120 |  |
-| 3/Oct/25 | 110 | 110 | 120 |  |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 03/10/2025 | 26/09/2025 | ±% | Diff | 2024 | 2023 |
@@ -140,41 +108,9 @@ The Aframax segment experienced mixed activity across regions, resulting in a 2%
 ### Indicative Period Charters
 
 **No Fresh Fixtures**
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 3/Oct/24 | 3500 | 1500 | 1200 | 700 | 1900 |
-| 3/Nov/24 | 2800 | 1000 | 1000 | 800 | 1600 |
-| 3/Dec/24 | 1000 | 900 | 900 | 700 | 1100 |
-| 3/Jan/25 | 1100 | 800 | 800 | 700 | 1000 |
-| 3/Feb/25 | 800 | 700 | 700 | 600 | 900 |
-| 3/Mar/25 | 2500 | 1000 | 1000 | 800 | 1500 |
-| 3/Apr/25 | 2800 | 1200 | 1100 | 900 | 1800 |
-| 3/May/25 | 1500 | 1100 | 1000 | 800 | 1400 |
-| 3/Jun/25 | 3500 | 1500 | 1200 | 1000 | 2000 |
-| 3/Jul/25 | 3800 | 1800 | 1400 | 1200 | 2200 |
-| 3/Aug/25 | 3600 | 1700 | 1300 | 1100 | 2100 |
-| 3/Sep/25 | 3200 | 1600 | 1200 | 1000 | 1900 |
-| 3/Oct/25 | 2900 | 1500 | 1100 | 900 | 1700 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 3/Oct/24 | 27000 | 13000 | 14000 | 12000 |
-| 3/Nov/24 | 25000 | 11000 | 12000 | 10000 |
-| 3/Dec/24 | 5000 | 6000 | 7000 | 6000 |
-| 3/Jan/25 | 6000 | 5000 | 6000 | 5000 |
-| 3/Feb/25 | 4000 | 5000 | 6000 | 5000 |
-| 3/Mar/25 | 22000 | 8000 | 9000 | 7000 |
-| 3/Apr/25 | 24000 | 9000 | 10000 | 8000 |
-| 3/May/25 | 16000 | 8000 | 9000 | 7000 |
-| 3/Jun/25 | 14000 | 7000 | 8000 | 6000 |
-| 3/Jul/25 | 31000 | 12000 | 11000 | 9000 |
-| 3/Aug/25 | 23000 | 10000 | 10000 | 8000 |
-| 3/Sep/25 | 20000 | 9000 | 9000 | 7000 |
-| 3/Oct/25 | 22000 | 10000 | 9000 | 7000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### TC Rates
 | Sector | Tenor | 03/10/2025 | 26/09/2025 | ±% | Diff | 2024 | 2023 |

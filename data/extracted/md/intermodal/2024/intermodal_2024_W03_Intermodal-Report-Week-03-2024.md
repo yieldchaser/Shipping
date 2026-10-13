@@ -51,40 +51,9 @@ Another looming challenge is the European Union's introduction of a carbon tax o
 | --- | --- | --- | --- | --- | --- |
 | 12 mos |  | 2010 |  | $50,000/day | NICOLAOS |
 | 12 mos | YASA GOLDEN MARMARA | 2008 | $41,000/day |  |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 19/Jan/23 | 100 | 180 | 180 |
-| 19/Feb/23 | 80 | 170 | 380 |
-| 19/Mar/23 | 100 | 160 | 380 |
-| 19/Apr/23 | 70 | 150 | 370 |
-| 19/May/23 | 60 | 150 | 370 |
-| 19/Jun/23 | 60 | 140 | 150 |
-| 19/Jul/23 | 60 | 140 | 150 |
-| 19/Aug/23 | 60 | 140 | 150 |
-| 19/Sep/23 | 60 | 140 | 280 |
-| 19/Oct/23 | 60 | 140 | 280 |
-| 19/Nov/23 | 60 | 140 | 280 |
-| 19/Dec/23 | 60 | 140 | 380 |
-| 19/Jan/24 | 60 | 140 | 380 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 19/Jan/23 | 100 | 180 | 180 | 180 |
-| 19/Feb/23 | 100 | 170 | 450 | 170 |
-| 19/Mar/23 | 100 | 160 | 350 | 160 |
-| 19/Apr/23 | 100 | 150 | 350 | 150 |
-| 19/May/23 | 100 | 150 | 350 | 150 |
-| 19/Jun/23 | 100 | 140 | 150 | 140 |
-| 19/Jul/23 | 100 | 140 | 150 | 140 |
-| 19/Aug/23 | 100 | 140 | 150 | 140 |
-| 19/Sep/23 | 100 | 140 | 280 | 140 |
-| 19/Oct/23 | 100 | 140 | 280 | 140 |
-| 19/Nov/23 | 100 | 140 | 280 | 140 |
-| 19/Dec/23 | 100 | 140 | 280 | 140 |
-| 19/Jan/24 | 100 | 140 | 280 | 140 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 19/01/24 | 12/01/24 | ±% | Diff | 2023 | 2022 |
@@ -149,41 +118,9 @@ Suezmax T/C earnings averaged \$65,021/day, up + \$3,355/day w-o-w. On the Afram
 | **Handysize** | **32K 1yr TC** | 13,000 | 12,000 | 8.3% | 1,000 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 19/Jan/23 | 800 | 800 | 700 | 600 | 800 |
-| 19/Feb/23 | 1200 | 1000 | 900 | 700 | 1000 |
-| 19/Mar/23 | 1500 | 1200 | 1100 | 800 | 1200 |
-| 19/Apr/23 | 1800 | 1400 | 1300 | 900 | 1500 |
-| 19/May/23 | 2000 | 1600 | 1400 | 1000 | 1800 |
-| 19/Jun/23 | 1600 | 1200 | 1100 | 900 | 1400 |
-| 19/Jul/23 | 1400 | 1100 | 1000 | 800 | 1200 |
-| 19/Aug/23 | 1300 | 1000 | 900 | 700 | 1100 |
-| 19/Sep/23 | 2500 | 1800 | 1500 | 1200 | 2000 |
-| 19/Oct/23 | 3500 | 2500 | 2200 | 1500 | 3000 |
-| 19/Nov/23 | 5000 | 3500 | 3000 | 2500 | 4500 |
-| 19/Dec/23 | 6500 | 3000 | 2800 | 2000 | 6000 |
-| 19/Jan/24 | 1800 | 1500 | 1400 | 1100 | 1600 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 19/Jan/23 | 5000 | 8000 | 9000 | 7000 |
-| 19/Feb/23 | 8000 | 10000 | 11000 | 9000 |
-| 19/Mar/23 | 10000 | 12000 | 13000 | 10000 |
-| 19/Apr/23 | 15000 | 14000 | 15000 | 12000 |
-| 19/May/23 | 18000 | 16000 | 17000 | 14000 |
-| 19/Jun/23 | 12000 | 13000 | 14000 | 11000 |
-| 19/Jul/23 | 10000 | 11000 | 12000 | 9000 |
-| 19/Aug/23 | 9000 | 10000 | 11000 | 8000 |
-| 19/Sep/23 | 25000 | 18000 | 19000 | 15000 |
-| 19/Oct/23 | 35000 | 25000 | 26000 | 20000 |
-| 19/Nov/23 | 50000 | 35000 | 36000 | 25000 |
-| 19/Dec/23 | 55000 | 40000 | 42000 | 30000 |
-| 19/Jan/24 | 15000 | 16000 | 17000 | 14000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jan-24 avg | Dec-23 avg | ±% | 2023 | 2022 |

@@ -60,41 +60,9 @@ Ultimately, while the proposed measures could serve as a bargaining chip in U.S.
 | **Dirty** | 55K | UKC-USG | 115 | 9,924 | 110 | 7,679 | **29.2%** | 17,707 | 27,274 |
 |  | 55K | MED-USG | 115 | 8,969 | 110 | 6,798 | **31.9%** | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 199 | 29,831 | 197 | 28,559 | **4.5%** | 26,872 | 46,194 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 28/Feb/24 | 60 | 100 | 160 |
-| 28/Mar/24 | 65 | 105 | 170 |
-| 28/Apr/24 | 70 | 110 | 180 |
-| 28/May/24 | 75 | 115 | 190 |
-| 28/Jun/24 | 80 | 120 | 200 |
-| 28/Jul/24 | 85 | 125 | 210 |
-| 28/Aug/24 | 90 | 130 | 220 |
-| 28/Sep/24 | 95 | 135 | 230 |
-| 28/Oct/24 | 100 | 140 | 240 |
-| 28/Nov/24 | 105 | 145 | 250 |
-| 28/Dec/24 | 110 | 150 | 260 |
-| 28/Jan/25 | 115 | 155 | 270 |
-| 28/Feb/25 | 120 | 160 | 280 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS points | WS points | WS points | WS points |
-| 28/Feb/24 | 150 | 180 | 200 | 220 |
-| 28/Mar/24 | 160 | 190 | 210 | 230 |
-| 28/Apr/24 | 170 | 200 | 220 | 240 |
-| 28/May/24 | 180 | 210 | 230 | 250 |
-| 28/Jun/24 | 190 | 220 | 240 | 260 |
-| 28/Jul/24 | 200 | 230 | 250 | 270 |
-| 28/Aug/24 | 210 | 240 | 260 | 280 |
-| 28/Sep/24 | 220 | 250 | 270 | 290 |
-| 28/Oct/24 | 230 | 260 | 280 | 300 |
-| 28/Nov/24 | 240 | 270 | 290 | 310 |
-| 28/Dec/24 | 250 | 280 | 300 | 320 |
-| 28/Jan/25 | 260 | 290 | 310 | 330 |
-| 28/Feb/25 | 270 | 300 | 320 | 340 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 28/02/2025 | 21/02/2025 | ±% | Diff | 2024 | 2023 |
@@ -141,39 +109,9 @@ The announcement of U.S. President Donald Trump regarding proposed tariffs on Ch
 ## Indicative Period Charters
 
 no fresh sales to report
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 28/Feb/24 | 4000 | 1500 | 1200 | 800 | 2000 |
-| 28/Mar/24 | 2000 | 1500 | 1300 | 900 | 1800 |
-| 28/Apr/24 | 2500 | 1400 | 1400 | 1000 | 1600 |
-| 28/May/24 | 3000 | 1600 | 1500 | 1100 | 1700 |
-| 28/Jul/24 | 3500 | 1700 | 1600 | 1200 | 1800 |
-| 28/Aug/24 | 3200 | 1600 | 1500 | 1100 | 1700 |
-| 28/Sep/24 | 2800 | 1500 | 1400 | 1000 | 1600 |
-| 28/Oct/24 | 2500 | 1400 | 1300 | 900 | 1500 |
-| 28/Nov/24 | 2200 | 1300 | 1200 | 800 | 1400 |
-| 28/Dec/24 | 1500 | 1200 | 1100 | 700 | 1200 |
-| 28/Jan/25 | 1200 | 1100 | 1000 | 600 | 1000 |
-| 28/Feb/25 | 1500 | 1100 | 1000 | 600 | 1000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 28/Feb/24 | 32000 | 15000 | 12000 | 8000 |
-| 28/Mar/24 | 18000 | 14000 | 11000 | 7000 |
-| 28/Apr/24 | 25000 | 14000 | 11000 | 7000 |
-| 28/May/24 | 28000 | 15000 | 12000 | 7500 |
-| 28/Jul/24 | 26000 | 15000 | 12000 | 7500 |
-| 28/Aug/24 | 24000 | 14000 | 11000 | 7000 |
-| 28/Sep/24 | 22000 | 13000 | 10000 | 6500 |
-| 28/Oct/24 | 20000 | 12000 | 9000 | 6000 |
-| 28/Nov/24 | 15000 | 11000 | 8000 | 5500 |
-| 28/Dec/24 | 10000 | 10000 | 7000 | 5000 |
-| 28/Jan/25 | 12000 | 10000 | 7000 | 5000 |
-| 28/Feb/25 | 14000 | 10000 | 7000 | 5000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 28/02/2025 | 21/02/2025 | ±% | Diff | 2024 | 2023 |

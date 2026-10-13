@@ -53,40 +53,9 @@ For now, the service's significance is largely demonstrative. The reliability of
 | 12 mos | Bellini | 2006 | 73,582 |
 | --- | --- | --- | --- |
 |  | $25,500 |  | Repsol |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 17/Jul/25 | 100 | 100 | 100 |
-| 17/Aug/25 | 100 | 100 | 100 |
-| 17/Sep/25 | 100 | 100 | 100 |
-| 17/Oct/25 | 100 | 100 | 100 |
-| 17/Nov/25 | 100 | 100 | 100 |
-| 17/Dec/25 | 100 | 100 | 100 |
-| 17/Jan/26 | 100 | 100 | 100 |
-| 17/Feb/26 | 400 | 400 | 900 |
-| 17/Mar/26 | 500 | 450 | 1000 |
-| 17/Apr/26 | 400 | 400 | 300 |
-| 17/May/26 | 400 | 300 | 200 |
-| 17/Jun/26 | 300 | 250 | 200 |
-| 17/Jul/26 | 300 | 250 | 200 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 17/Jul/25 | 100 | 100 | 100 | 100 |
-| 17/Aug/25 | 100 | 100 | 100 | 100 |
-| 17/Sep/25 | 100 | 100 | 100 | 100 |
-| 17/Oct/25 | 100 | 100 | 100 | 100 |
-| 17/Nov/25 | 100 | 100 | 100 | 100 |
-| 17/Dec/25 | 100 | 100 | 100 | 100 |
-| 17/Jan/26 | 100 | 100 | 100 | 100 |
-| 17/Feb/26 | 300 | 200 | 500 | 600 |
-| 17/Mar/26 | 400 | 300 | 600 | 600 |
-| 17/Apr/26 | 500 | 300 | 600 | 600 |
-| 17/May/26 | 500 | 300 | 500 | 500 |
-| 17/Jun/26 | 400 | 200 | 400 | 400 |
-| 17/Jul/26 | 400 | 200 | 400 | 400 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 17/07/2026 | 10/07/2026 | ±% | Diff | 2025 | 2024 |
@@ -156,41 +125,9 @@ The Aframax segment was the clear outperformer last week, its benchmark earnings
 | **Handysize** | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 17/Jul/25 | 3500 | 1800 | 1200 | 800 | 2000 |
-| 17/Aug/25 | 3400 | 1700 | 1100 | 750 | 2100 |
-| 17/Sep/25 | 3300 | 1600 | 1000 | 700 | 2200 |
-| 17/Oct/25 | 3200 | 1500 | 950 | 650 | 2300 |
-| 17/Nov/25 | 4500 | 2000 | 1400 | 900 | 2800 |
-| 17/Dec/25 | 3000 | 1800 | 1300 | 800 | 2500 |
-| 17/Jan/26 | 2800 | 1700 | 1200 | 750 | 2400 |
-| 17/Feb/26 | 2700 | 1600 | 1100 | 700 | 2300 |
-| 17/Mar/26 | 3500 | 1900 | 1300 | 850 | 2700 |
-| 17/Apr/26 | 4800 | 2500 | 2000 | 1200 | 3500 |
-| 17/May/26 | 5500 | 3000 | 2800 | 1500 | 4500 |
-| 17/Jun/26 | 1500 | 1000 | 600 | 400 | 2000 |
-| 17/Jul/26 | 4200 | 2200 | 1600 | 900 | 3200 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 17/Jul/25 | 28000 | 14000 | 12000 | 8000 |
-| 17/Aug/25 | 27000 | 13500 | 11500 | 7500 |
-| 17/Sep/25 | 26000 | 13000 | 11000 | 7000 |
-| 17/Oct/25 | 25000 | 12500 | 10500 | 6500 |
-| 17/Nov/25 | 43000 | 18000 | 14000 | 10000 |
-| 17/Dec/25 | 17000 | 11000 | 9000 | 5000 |
-| 17/Jan/26 | 16000 | 10500 | 8500 | 4500 |
-| 17/Feb/26 | 15000 | 10000 | 8000 | 4000 |
-| 17/Mar/26 | 22000 | 13000 | 10000 | 6000 |
-| 17/Apr/26 | 38000 | 19000 | 15000 | 10000 |
-| 17/May/26 | 46000 | 23000 | 18000 | 12000 |
-| 17/Jun/26 | 18000 | 9000 | 7000 | 4000 |
-| 17/Jul/26 | 36000 | 17000 | 13000 | 8000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jul-26 avg | Jun-26 avg | ±% | 2025 | 2024 |

@@ -46,40 +46,9 @@ The LNG Canada Project together with the surge in crude oil exports from the Por
 |  | 55K | MED-USG | 115 | 11,036 | 115 | 11,196 | -1.4% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 161 | 16,829 | 183 | 23,118 | -27.2% | 26,872 | 46,194 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 6/Jun/24 | 50 | 100 | 220 |
-| 6/Jul/24 | 50 | 100 | 220 |
-| 6/Aug/24 | 50 | 100 | 220 |
-| 6/Sep/24 | 50 | 100 | 220 |
-| 6/Oct/24 | 50 | 100 | 220 |
-| 6/Nov/24 | 50 | 100 | 220 |
-| 6/Dec/24 | 50 | 100 | 220 |
-| 6/Jan/25 | 50 | 100 | 220 |
-| 6/Feb/25 | 50 | 100 | 220 |
-| 6/Mar/25 | 50 | 100 | 220 |
-| 6/Apr/25 | 50 | 100 | 220 |
-| 6/May/25 | 50 | 100 | 220 |
-| 6/Jun/25 | 50 | 100 | 220 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 6/Jun/24 | 180 | 150 | 200 | 160 |
-| 6/Jul/24 | 150 | 120 | 180 | 140 |
-| 6/Aug/24 | 140 | 110 | 170 | 130 |
-| 6/Sep/24 | 130 | 100 | 160 | 120 |
-| 6/Oct/24 | 120 | 90 | 150 | 110 |
-| 6/Nov/24 | 110 | 80 | 140 | 100 |
-| 6/Dec/24 | 100 | 70 | 130 | 90 |
-| 6/Jan/25 | 110 | 80 | 140 | 100 |
-| 6/Feb/25 | 120 | 90 | 150 | 110 |
-| 6/Mar/25 | 130 | 100 | 160 | 120 |
-| 6/Apr/25 | 140 | 110 | 170 | 130 |
-| 6/May/25 | 150 | 120 | 180 | 140 |
-| 6/Jun/25 | 160 | 130 | 190 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 06/06/2025 | 30/05/2025 | ±% | Diff | 2024 | 2023 |
@@ -145,41 +114,9 @@ Aframax dynamics varied by region. In Asia, the market remained underwhelming, a
 | **Handysize** | **32K 1yr TC** | 10,000 | 10,000 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 6/Jun/24 | 3500 | 1800 | 1200 | 800 | 1800 |
-| 6/Jul/24 | 3800 | 1700 | 1100 | 750 | 2000 |
-| 6/Aug/24 | 3200 | 1600 | 1000 | 700 | 1900 |
-| 6/Sep/24 | 3600 | 1500 | 950 | 650 | 1700 |
-| 6/Oct/24 | 3400 | 1400 | 900 | 600 | 1600 |
-| 6/Nov/24 | 2800 | 1300 | 850 | 550 | 1400 |
-| 6/Dec/24 | 2500 | 1200 | 800 | 500 | 1200 |
-| 6/Jan/25 | 2400 | 1100 | 750 | 450 | 1100 |
-| 6/Feb/25 | 2300 | 1000 | 700 | 400 | 1000 |
-| 6/Mar/25 | 2800 | 1200 | 800 | 500 | 1300 |
-| 6/Apr/25 | 2200 | 1100 | 750 | 450 | 1200 |
-| 6/May/25 | 2000 | 1000 | 700 | 400 | 1100 |
-| 6/Jun/25 | 2500 | 1100 | 750 | 450 | 1400 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 6/Jun/24 | 22000 | 14000 | 12000 | 10000 |
-| 6/Jul/24 | 30000 | 13500 | 11500 | 9500 |
-| 6/Aug/24 | 26000 | 13000 | 11000 | 9000 |
-| 6/Sep/24 | 28000 | 12500 | 10500 | 8500 |
-| 6/Oct/24 | 24000 | 12000 | 10000 | 8000 |
-| 6/Nov/24 | 18000 | 11500 | 9500 | 7500 |
-| 6/Dec/24 | 16000 | 11000 | 9000 | 7000 |
-| 6/Jan/25 | 14000 | 10500 | 8500 | 6500 |
-| 6/Feb/25 | 12000 | 10000 | 8000 | 6000 |
-| 6/Mar/25 | 20000 | 11000 | 9000 | 7000 |
-| 6/Apr/25 | 18000 | 10500 | 8500 | 6500 |
-| 6/May/25 | 16000 | 10000 | 8000 | 6000 |
-| 6/Jun/25 | 20000 | 11000 | 8500 | 6500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jun-25 avg | May-25 avg | ±% | 2024 | 2023 |

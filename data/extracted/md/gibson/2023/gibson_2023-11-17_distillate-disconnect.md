@@ -30,32 +30,7 @@ If we see the arb economics translate into sustained higher volumes from the Eas
 
 *Chart: Eurozone Manufacturing PMI*
 
-Chart data as embedded in the report:
-
-|  | Eurozone PMI |
-|---|---|
-| 22/01/2026 | 58.7 |
-| 22/02/2026 | 58.2 |
-| 22/03/2026 | 56.5 |
-| 22/04/2026 | 55.5 |
-| 22/05/2026 | 54.6 |
-| 22/06/2026 | 52.1 |
-| 22/07/2026 | 49.8 |
-| 22/08/2026 | 49.6 |
-| 22/09/2026 | 48.4 |
-| 22/10/2026 | 46.4 |
-| 22/11/2026 | 47.1 |
-| 22/12/2026 | 47.8 |
-| 23/01/2026 | 48.8 |
-| 23/02/2026 | 48.5 |
-| 23/03/2026 | 47.3 |
-| 23/04/2026 | 45.8 |
-| 23/05/2026 | 44.8 |
-| 23/06/2026 | 43.4 |
-| 23/07/2026 | 42.7 |
-| 23/08/2026 | 43.5 |
-| 23/09/2026 | 43.4 |
-| 23/10/2026 | 43.1 |
+> **Chart (not transcribed):** the chart data in the archived page postdates this issue (a live chart refreshed after publication).
 
 ## Crude Oil
 

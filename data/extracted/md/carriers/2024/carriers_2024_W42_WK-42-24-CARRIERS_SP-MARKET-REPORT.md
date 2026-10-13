@@ -139,4 +139,4 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W42_WK-42-24-CARRIERS_SP-
 | VLCC TCE | 36106 | -6251 | 42357 |
 | SUEZ TCE | 36722 | -889 | 37611 |
 | AFRA TCE | 38137 | -4168 | 42305 |
-| MR ATLANTIC TC routes | 21.134 | -7586 | 28.72 |
+| MR ATLANTIC TC routes | 21134 | -7586 | 28720 |

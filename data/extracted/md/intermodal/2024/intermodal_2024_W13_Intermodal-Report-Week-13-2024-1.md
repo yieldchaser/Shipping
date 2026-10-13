@@ -47,38 +47,9 @@ The rerouting of vessels around Africa, to avoid the Red Sea and mitigate risks 
 | --- | --- | --- | --- | --- | --- |
 | 6 mos | MARAN THALEIA | 2011 | 321,225 dwt | $51,500/day | ExxonMobil |
 | 12 mos | CONSTANTIOS | 2024 | 157,985 dwt | $39,000/day | Stena Bulk |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 29/Mar/23 | 100 | 150 | 280 |
-| 29/Apr/23 | 80 | 140 | 380 |
-| 29/May/23 | 70 | 130 | 370 |
-| 29/Jun/23 | 75 | 120 | 150 |
-| 29/Jul/23 | 85 | 110 | 100 |
-| 29/Aug/23 | 90 | 100 | 120 |
-| 29/Sep/23 | 80 | 110 | 160 |
-| 29/Oct/23 | 70 | 120 | 140 |
-| 29/Nov/23 | 60 | 115 | 130 |
-| 29/Dec/23 | 50 | 110 | 380 |
-| 29/Jan/24 | 65 | 105 | 120 |
-| 29/Feb/24 | 70 | 100 | 110 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 29/Mar/23 | 180 | 160 | 140 | 120 |
-| 29/Apr/23 | 170 | 150 | 130 | 110 |
-| 29/May/23 | 160 | 140 | 120 | 100 |
-| 29/Jun/23 | 150 | 130 | 110 | 90 |
-| 29/Jul/23 | 140 | 120 | 100 | 80 |
-| 29/Aug/23 | 130 | 110 | 90 | 70 |
-| 29/Sep/23 | 120 | 100 | 80 | 60 |
-| 29/Oct/23 | 110 | 90 | 70 | 50 |
-| 29/Nov/23 | 100 | 80 | 60 | 40 |
-| 29/Dec/23 | 90 | 70 | 50 | 30 |
-| 29/Jan/24 | 350 | 340 | 330 | 320 |
-| 29/Feb/24 | 300 | 290 | 280 | 270 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 29/03/24 | 22/03/24 | ±% | Diff | 2023 | 2022 |
@@ -150,39 +121,9 @@ Aframax T/C earnings averaged \$37,734/day, marking a weekly decline of \$2,386/
 | **Handysize** | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 10,644 | 17,827 |
 | **Handysize** | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 29/Mar/23 | 1800 | 1200 | 1000 | 800 | 1500 |
-| 29/Apr/23 | 2000 | 1300 | 1100 | 900 | 1600 |
-| 29/May/23 | 1900 | 1250 | 1050 | 850 | 1550 |
-| 29/Jun/23 | 1700 | 1100 | 950 | 750 | 1400 |
-| 29/Jul/23 | 1600 | 1000 | 850 | 700 | 1300 |
-| 29/Aug/23 | 2500 | 1500 | 1200 | 1000 | 2000 |
-| 29/Sep/23 | 3500 | 2000 | 1500 | 1300 | 2500 |
-| 29/Oct/23 | 4000 | 2500 | 1800 | 1600 | 3000 |
-| 29/Nov/23 | 6500 | 3000 | 2500 | 2000 | 4500 |
-| 29/Dec/23 | 3000 | 2000 | 1500 | 1200 | 2000 |
-| 29/Jan/24 | 2500 | 1500 | 1000 | 800 | 1800 |
-| 29/Feb/24 | 3000 | 1800 | 1200 | 900 | 2200 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 29/Mar/23 | 15000 | 12000 | 10000 | 8000 |
-| 29/Apr/23 | 18000 | 13000 | 11000 | 9000 |
-| 29/May/23 | 14000 | 11000 | 9500 | 7500 |
-| 29/Jun/23 | 12000 | 10000 | 8500 | 7000 |
-| 29/Jul/23 | 10000 | 9000 | 7500 | 6000 |
-| 29/Aug/23 | 15000 | 12000 | 10000 | 8000 |
-| 29/Sep/23 | 25000 | 18000 | 15000 | 12000 |
-| 29/Oct/23 | 30000 | 20000 | 16000 | 13000 |
-| 29/Nov/23 | 55000 | 25000 | 20000 | 15000 |
-| 29/Dec/23 | 20000 | 15000 | 12000 | 10000 |
-| 29/Jan/24 | 18000 | 14000 | 11000 | 9000 |
-| 29/Feb/24 | 32000 | 17000 | 14000 | 11000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Mar-24 avg | Feb-24 avg | ±% | 2023 | 2022 | 2021 |

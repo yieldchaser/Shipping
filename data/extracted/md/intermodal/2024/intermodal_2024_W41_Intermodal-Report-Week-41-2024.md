@@ -51,40 +51,9 @@ Looking ahead, according to the USDA report, Brazil's next marketing year is pro
 | --- | --- | --- | --- | --- | --- | --- |
 | 12 mos | LAKE STARS | 2020 | 113,848 dwt | DEL EAST OCT/24 | $41,500/day | Cosco |
 | 18 mos | STI GLADIATOR | 2017 | 109,999 dwt | DEL WEST NOV/24 | $41,000/day | Signal |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 11/Oct/23 | 50 | 120 | 280 |
-| 11/Nov/23 | 60 | 130 | 290 |
-| 11/Dec/23 | 70 | 140 | 300 |
-| 11/Jan/24 | 50 | 390 | 400 |
-| 11/Feb/24 | 60 | 120 | 280 |
-| 11/Mar/24 | 70 | 130 | 290 |
-| 11/Apr/24 | 60 | 110 | 270 |
-| 11/May/24 | 60 | 110 | 260 |
-| 11/Jun/24 | 60 | 100 | 250 |
-| 11/Jul/24 | 60 | 100 | 240 |
-| 11/Aug/24 | 60 | 90 | 230 |
-| 11/Sep/24 | 60 | 90 | 220 |
-| 11/Oct/24 | 60 | 80 | 210 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 11/Oct/23 | 150 | 140 | 160 | 170 |
-| 11/Nov/23 | 160 | 150 | 170 | 180 |
-| 11/Dec/23 | 170 | 160 | 180 | 190 |
-| 11/Jan/24 | 350 | 360 | 370 | 380 |
-| 11/Feb/24 | 360 | 370 | 380 | 390 |
-| 11/Mar/24 | 370 | 380 | 390 | 400 |
-| 11/Apr/24 | 360 | 370 | 380 | 390 |
-| 11/May/24 | 350 | 360 | 370 | 380 |
-| 11/Jun/24 | 340 | 350 | 360 | 370 |
-| 11/Jul/24 | 330 | 340 | 350 | 360 |
-| 11/Aug/24 | 320 | 330 | 340 | 350 |
-| 11/Sep/24 | 310 | 320 | 330 | 340 |
-| 11/Oct/24 | 300 | 310 | 320 | 330 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 11/10/24 | 04/10/24 | ±% | Diff | 2023 | 2022 |
@@ -156,41 +125,9 @@ On MRs, the Atlantic Triangulation TCE (MA2TCE) was stable at \$28,946/day +0.8%
 | **Handysize** | **32K 1yr TC** | 11,750 | 12,000 | -2.1% | -250 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 11/Oct/23 | 2000 | 1500 | 1200 | 1000 | 1800 |
-| 11/Nov/23 | 1800 | 1400 | 1100 | 900 | 1600 |
-| 11/Dec/23 | 6500 | 3000 | 1500 | 1000 | 3000 |
-| 11/Jan/24 | 2200 | 1600 | 1300 | 900 | 2000 |
-| 11/Feb/24 | 2000 | 1500 | 1200 | 800 | 1900 |
-| 11/Mar/24 | 3500 | 1800 | 1400 | 1000 | 2500 |
-| 11/Apr/24 | 2100 | 1600 | 1300 | 900 | 2100 |
-| 11/May/24 | 2300 | 1700 | 1400 | 1000 | 2200 |
-| 11/Jun/24 | 2400 | 1700 | 1400 | 1000 | 2300 |
-| 11/Jul/24 | 2500 | 1800 | 1500 | 1100 | 2400 |
-| 11/Aug/24 | 2800 | 1800 | 1500 | 1100 | 2600 |
-| 11/Sep/24 | 3000 | 1900 | 1600 | 1200 | 2800 |
-| 11/Oct/24 | 3100 | 1900 | 1600 | 1200 | 2900 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 11/Oct/23 | 20000 | 12000 | 10000 | 8000 |
-| 11/Nov/23 | 18000 | 11000 | 9000 | 7000 |
-| 11/Dec/23 | 53000 | 18000 | 12000 | 9000 |
-| 11/Jan/24 | 22000 | 13000 | 10000 | 8000 |
-| 11/Feb/24 | 24000 | 14000 | 11000 | 8500 |
-| 11/Mar/24 | 28000 | 15000 | 12000 | 9000 |
-| 11/Apr/24 | 23000 | 14000 | 11000 | 8500 |
-| 11/May/24 | 25000 | 15000 | 11000 | 8500 |
-| 11/Jun/24 | 24000 | 14000 | 10000 | 8000 |
-| 11/Jul/24 | 26000 | 15000 | 11000 | 8500 |
-| 11/Aug/24 | 24000 | 14000 | 10000 | 8000 |
-| 11/Sep/24 | 25000 | 14000 | 10000 | 8000 |
-| 11/Oct/24 | 26000 | 14000 | 10000 | 8000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Oct-24 avg | Sep-24 avg | ±% | 2023 | 2022 |

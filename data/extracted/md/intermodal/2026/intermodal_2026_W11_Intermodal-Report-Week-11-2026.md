@@ -69,41 +69,9 @@ Another important consideration is substitution risk. Any supply discipline from
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | Maran Leo | 2014 | 319,450 dwt | $82,500/day | Mercuria |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 13/Mar/25 | 50 | 100 | 150 |
-| 13/Apr/25 | 50 | 120 | 180 |
-| 13/May/25 | 60 | 130 | 200 |
-| 13/Jun/25 | 70 | 140 | 220 |
-| 13/Jul/25 | 80 | 150 | 240 |
-| 13/Aug/25 | 90 | 160 | 260 |
-| 13/Sep/25 | 100 | 170 | 280 |
-| 13/Oct/25 | 110 | 180 | 300 |
-| 13/Nov/25 | 120 | 190 | 320 |
-| 13/Dec/25 | 130 | 200 | 340 |
-| 13/Jan/26 | 140 | 210 | 360 |
-| 13/Feb/26 | 400 | 400 | 450 |
-| 13/Mar/26 | 480 | 460 | 480 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 13/Mar/25 | 100 | 110 | 120 | 130 |
-| 13/Apr/25 | 110 | 120 | 130 | 140 |
-| 13/May/25 | 120 | 130 | 140 | 150 |
-| 13/Jun/25 | 130 | 140 | 150 | 160 |
-| 13/Jul/25 | 140 | 150 | 160 | 170 |
-| 13/Aug/25 | 150 | 160 | 170 | 180 |
-| 13/Sep/25 | 160 | 170 | 180 | 190 |
-| 13/Oct/25 | 170 | 180 | 190 | 200 |
-| 13/Nov/25 | 180 | 190 | 200 | 210 |
-| 13/Dec/25 | 190 | 200 | 210 | 220 |
-| 13/Jan/26 | 200 | 210 | 220 | 230 |
-| 13/Feb/26 | 500 | 500 | 500 | 500 |
-| 13/Mar/26 | 550 | 550 | 550 | 550 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Mar-26 avg | Feb-26 avg | ±% | 2025 | 2024 | 2023 |
@@ -155,23 +123,7 @@ Aframax markets weakened across most regions, with TCE rates falling 28% w-o-w t
 | **Handysize** | **32K 1yr TC** | 13,000 | 13,250 | -1.9% | -250 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
-
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 13 Mar/25 | 2800 | 1500 | 1000 | 800 | 1600 |
-| 13 Apr/25 | 2600 | 1400 | 1100 | 900 | 1700 |
-| 13 May/25 | 3500 | 1600 | 1200 | 1000 | 1800 |
-| 13 Jun/25 | 3200 | 1700 | 1300 | 1100 | 1900 |
-| 13 Jul/25 | 3000 | 1600 | 1200 | 1000 | 1800 |
-| 13 Aug/25 | 3300 | 1700 | 1400 | 1200 | 2000 |
-| 13 Sep/25 | 3100 | 1600 | 1300 | 1100 | 1900 |
-| 13 Oct/25 | 2900 | 1500 | 1200 | 1000 | 1700 |
-| 13 Nov/25 | 2700 | 1400 | 1100 | 900 | 1600 |
-| 13 Dec/25 | 5000 | 1500 | 1200 | 1000 | 1700 |
-| 13 Jan/26 | 2400 | 1400 | 1100 | 900 | 1500 |
-| 13 Feb/26 | 2800 | 1600 | 1300 | 1100 | 1800 |
-| 13 Mar/26 | 2700 | 1500 | 1200 | 1000 | 1700 |
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Mar-26 avg | Feb-26 avg | ±% | 2025 | 2024 | 2023 |

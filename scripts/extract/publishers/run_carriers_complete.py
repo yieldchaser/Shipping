@@ -940,7 +940,9 @@ def extract_tanker_tce(
         if y_start <= w[1] < y_end and re.match(r"^[-+]?\d+(?:\.\d+)?$", w[4]):
             for c_idx, (bx0, bx1) in enumerate(tanker_bands):
                 if bx0 <= w[0] <= bx1:
-                    val_tokens.append([w[0], w[1], float(w[4]), c_idx, w[4].startswith(("-", "+"))])
+                    # the $/day TCE columns print thousands with a dot: '25.290' is $25,290, not 25.29
+                    tok = w[4].replace(".", "") if c_idx >= 2 and re.match(r"^[-+]?\d{1,3}\.\d{3}$", w[4]) else w[4]
+                    val_tokens.append([w[0], w[1], float(tok), c_idx, w[4].startswith(("-", "+"))])
                     break
 
     for w in all_words:

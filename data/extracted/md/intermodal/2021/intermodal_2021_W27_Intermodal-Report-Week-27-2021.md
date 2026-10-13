@@ -108,41 +108,9 @@ Shanghai 200122 China
 | Handy | **36k 1yr TC** | 10,500 | 10,500 | 0.0% | 0 | 13,966 | 13,856 |
 |  | **36k 3yr TC** | 13,250 | 13,250 | 0.0% | 0 | 14,051 | 13,753 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 9/Jul/20 | 40 | 60 | 80 |
-| 9/Aug/20 | 35 | 55 | 75 |
-| 9/Sep/20 | 30 | 50 | 70 |
-| 9/Oct/20 | 25 | 45 | 65 |
-| 9/Nov/20 | 20 | 40 | 60 |
-| 9/Dec/20 | 20 | 40 | 60 |
-| 9/Jan/21 | 20 | 40 | 60 |
-| 9/Feb/21 | 20 | 40 | 150 |
-| 9/Mar/21 | 20 | 40 | 160 |
-| 9/Apr/21 | 20 | 40 | 80 |
-| 9/May/21 | 20 | 40 | 70 |
-| 9/Jun/21 | 20 | 40 | 70 |
-| 9/Jul/21 | 20 | 40 | 70 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 9/Jul/20 | 100 | 120 | 140 | 160 |
-| 9/Aug/20 | 95 | 115 | 135 | 155 |
-| 9/Sep/20 | 90 | 110 | 130 | 150 |
-| 9/Oct/20 | 85 | 105 | 125 | 145 |
-| 9/Nov/20 | 80 | 100 | 120 | 140 |
-| 9/Dec/20 | 80 | 100 | 120 | 140 |
-| 9/Jan/21 | 80 | 100 | 120 | 140 |
-| 9/Feb/21 | 80 | 100 | 120 | 180 |
-| 9/Mar/21 | 80 | 100 | 120 | 170 |
-| 9/Apr/21 | 80 | 100 | 120 | 150 |
-| 9/May/21 | 80 | 100 | 120 | 140 |
-| 9/Jun/21 | 80 | 100 | 120 | 140 |
-| 9/Jul/21 | 80 | 100 | 120 | 140 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 
@@ -210,41 +178,9 @@ In the Handysize sector we had the sale of the "CHEMROUTE BRILLIANT" (25,594dwt-
 |  | **32K 1yr TC** | 19,750 | 19,250 | 2.6% | 500 | 8,556 | 9,291 |
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 9/Jul/20 | 3500 | 1200 | 800 | 500 | 3500 |
-| 9/Aug/20 | 2800 | 1100 | 900 | 600 | 2800 |
-| 9/Sep/20 | 2500 | 1000 | 1000 | 700 | 2500 |
-| 9/Oct/20 | 4100 | 1100 | 1100 | 800 | 4100 |
-| 9/Nov/20 | 1300 | 1000 | 1000 | 700 | 1300 |
-| 9/Dec/20 | 1200 | 1100 | 1000 | 600 | 1200 |
-| 9/Jan/21 | 1400 | 1200 | 1100 | 700 | 1400 |
-| 9/Feb/21 | 2000 | 1500 | 1300 | 900 | 2000 |
-| 9/Mar/21 | 2400 | 2000 | 1600 | 1000 | 2400 |
-| 9/Apr/21 | 2600 | 2200 | 1700 | 1100 | 2600 |
-| 9/May/21 | 4500 | 3500 | 2500 | 1500 | 4500 |
-| 9/Jun/21 | 3800 | 3600 | 2800 | 1600 | 3800 |
-| 9/Jul/21 | 3900 | 3800 | 2900 | 1700 | 3900 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 9/Jul/20 | 28000 | 12000 | 10000 | 8000 |
-| 9/Aug/20 | 15000 | 14000 | 10000 | 8000 |
-| 9/Sep/20 | 18000 | 13000 | 10000 | 8000 |
-| 9/Oct/20 | 32000 | 12000 | 10000 | 8000 |
-| 9/Nov/20 | 10000 | 10000 | 10000 | 8000 |
-| 9/Dec/20 | 10000 | 10000 | 10000 | 8000 |
-| 9/Jan/21 | 15000 | 11000 | 10000 | 8000 |
-| 9/Feb/21 | 18000 | 14000 | 12000 | 9000 |
-| 9/Mar/21 | 20000 | 16000 | 14000 | 10000 |
-| 9/Apr/21 | 25000 | 18000 | 15000 | 11000 |
-| 9/May/21 | 42000 | 20000 | 18000 | 12000 |
-| 9/Jun/21 | 28000 | 28000 | 26000 | 16000 |
-| 9/Jul/21 | 30000 | 32000 | 29000 | 17000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -326,37 +262,10 @@ In the Handysize sector we had the sale of the "INTERLINK EQUITY" (37,071dwt-blt
 
 The newbuilding market has seen a smaller number of contracts surfacing compared to the previous week while given the fact that we are already halfway through the summer season, a slowdown in activity is more or less expected. In the dry bulk sector, Kamsarmax units monopolized buyer's interest; Chellaram Shipping and Safe bulkers ordered one Tier III 82,000dwt vessel each. The first unit will be built at Chengxi shipyard with details for the Greek order remaining undisclosed for the time being. On the Gas carrier front, Russian owner Sovcomflot, inked a deal for two 174,000cbm units at Hyundai Samho, while SK Shipping concluded a deal for the construction of two LPG fuelled VLGC (91,000cbm) vessels at Hyundai Hi for \$88.0 million each. At the same time, it came to light that Lepta Shipping inked a deal for five 3,500teu boxships at Yangzijiang yard for \$40.0 million each with the order including a 15-yrs T/C to Maersk. Lastly, no tanker newbuilding sales emerged last week.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 9/Jul/20 | 47 | 27 | 27 | 23 |
-| 9/Aug/20 | 47 | 27 | 27 | 23 |
-| 9/Sep/20 | 47 | 27 | 27 | 23 |
-| 9/Oct/20 | 47 | 27 | 27 | 23 |
-| 9/Nov/20 | 47 | 27 | 27 | 23 |
-| 9/Dec/20 | 47 | 27 | 27 | 23 |
-| 9/Jan/21 | 47 | 27 | 27 | 23 |
-| 9/Feb/21 | 48 | 28 | 27 | 24 |
-| 9/Mar/21 | 50 | 28 | 28 | 24 |
-| 9/Apr/21 | 53 | 29 | 28 | 25 |
-| 9/May/21 | 56 | 30 | 29 | 25 |
-| 9/Jun/21 | 58 | 31 | 30 | 26 |
-| 9/Jul/21 | 59 | 31 | 30 | 26 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 9/Jul/20 | 88 | 56 | 42 | 38 | 33 |
-| 9/Aug/20 | 87 | 56 | 41 | 38 | 33 |
-| 9/Sep/20 | 87 | 56 | 41 | 38 | 33 |
-| 9/Oct/20 | 86 | 56 | 40 | 38 | 33 |
-| 9/Nov/20 | 86 | 56 | 40 | 38 | 33 |
-| 9/Dec/20 | 87 | 57 | 41 | 38 | 33 |
-| 9/Jan/21 | 88 | 58 | 42 | 39 | 34 |
-| 9/Feb/21 | 89 | 59 | 43 | 40 | 34 |
-| 9/Mar/21 | 90 | 60 | 44 | 41 | 34 |
-| 9/Apr/21 | 91 | 61 | 45 | 42 | 35 |
-| 9/May/21 | 92 | 62 | 46 | 43 | 35 |
-| 9/Jun/21 | 93 | 63 | 47 | 44 | 35 |
-| 9/Jul/21 | 95 | 64 | 48 | 45 | 35 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
+
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -387,37 +296,10 @@ The newbuilding market has seen a smaller number of contracts surfacing compared
 
 Recent demo sales with scrap levels close to \$600 per ldt worth a thousand words. Indeed, scrap prices across the Indian-subcontinent markets have reached astonishing numbers in many cases during the previous week, while it will be no surprise if levels even reach the \$600/ldt mark. Bangladesh, despite its Covid-19 lockdown extension, remains the leading demo destination in terms of offering levels with Pakistan following behind closely. Both markets are mostly feeding by small sized tanker and offshore units with bulker and containership owner's finding no reason to exercise their scrapping option. On the other hand, Indian levels are lagging behind with the buyer's appetite being satisfied by an injection of specialized and green recycling units. In Turkey, scrap levels remained unchanged w-o-w while a small number of vessels arrived in Aliaga last week. Average scrap prices in the different markets this week for tankers ranged between 290-575/ldt and those for dry bulk units between \$280-565/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 9/Jul/20 | 330 | 300 | 340 | 180 |
-| 9/Aug/20 | 350 | 320 | 350 | 190 |
-| 9/Sep/20 | 360 | 340 | 360 | 200 |
-| 9/Oct/20 | 370 | 360 | 370 | 210 |
-| 9/Nov/20 | 400 | 380 | 400 | 215 |
-| 9/Dec/20 | 420 | 400 | 420 | 240 |
-| 9/Jan/21 | 440 | 420 | 440 | 260 |
-| 9/Feb/21 | 450 | 430 | 450 | 250 |
-| 9/Mar/21 | 460 | 440 | 460 | 260 |
-| 9/Apr/21 | 480 | 460 | 480 | 270 |
-| 9/May/21 | 520 | 500 | 520 | 280 |
-| 9/Jun/21 | 540 | 520 | 540 | 290 |
-| 9/Jul/21 | 560 | 540 | 560 | 295 |
+> **Chart (not transcribed):** Intermodal Demolition Market. The report prints no values for it.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 9/Jul/20 | 330 | 300 | 340 | 180 |
-| 9/Aug/20 | 350 | 320 | 350 | 190 |
-| 9/Sep/20 | 360 | 340 | 360 | 200 |
-| 9/Oct/20 | 370 | 360 | 370 | 210 |
-| 9/Nov/20 | 400 | 380 | 400 | 215 |
-| 9/Dec/20 | 420 | 400 | 420 | 240 |
-| 9/Jan/21 | 440 | 420 | 440 | 260 |
-| 9/Feb/21 | 450 | 430 | 450 | 250 |
-| 9/Mar/21 | 460 | 440 | 460 | 260 |
-| 9/Apr/21 | 480 | 460 | 480 | 270 |
-| 9/May/21 | 520 | 500 | 520 | 280 |
-| 9/Jun/21 | 540 | 520 | 540 | 290 |
-| 9/Jul/21 | 560 | 540 | 560 | 570 |
+> **Chart (not transcribed):** Intermodal Demolition Market. The report prints no values for it.
+
 ## Indicative Demolition Prices ($/ldt)
 
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers | Demolition Sales Comments |

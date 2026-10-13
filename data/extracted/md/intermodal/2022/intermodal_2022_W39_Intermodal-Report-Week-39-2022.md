@@ -103,41 +103,9 @@ Shanghai 200122 China
 | Handy | **36k 1yr TC** | 22,500 | 22,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 30/Sep/21 | 50 | 100 | 120 |
-| 31/Oct/21 | 55 | 95 | 115 |
-| 30/Nov/21 | 60 | 90 | 110 |
-| 31/Dec/21 | 65 | 85 | 105 |
-| 31/Jan/22 | 70 | 80 | 100 |
-| 28/Feb/22 | 80 | 280 | 200 |
-| 31/Mar/22 | 85 | 300 | 290 |
-| 30/Apr/22 | 75 | 250 | 180 |
-| 30/May/22 | 70 | 200 | 150 |
-| 30/Jun/22 | 75 | 220 | 180 |
-| 31/Jul/22 | 80 | 240 | 320 |
-| 31/Aug/22 | 85 | 260 | 340 |
-| 30/Sep/22 | 90 | 180 | 250 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 30/Sep/21 | 100 | 120 | 140 | 160 |
-| 31/Oct/21 | 105 | 125 | 145 | 165 |
-| 30/Nov/21 | 110 | 130 | 150 | 170 |
-| 31/Dec/21 | 115 | 135 | 155 | 175 |
-| 31/Jan/22 | 120 | 140 | 160 | 180 |
-| 28/Feb/22 | 130 | 150 | 170 | 450 |
-| 31/Mar/22 | 140 | 160 | 180 | 480 |
-| 30/Apr/22 | 150 | 170 | 190 | 400 |
-| 30/May/22 | 160 | 180 | 200 | 350 |
-| 30/Jun/22 | 170 | 190 | 210 | 300 |
-| 31/Jul/22 | 180 | 200 | 220 | 280 |
-| 31/Aug/22 | 190 | 210 | 230 | 260 |
-| 30/Sep/22 | 180 | 200 | 220 | 250 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Sep-22 avg | Aug-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -203,41 +171,9 @@ In the Aframax sector we had the sale of the "PHOENIX BEACON" (105,525dwt-bl't '
 |  | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 30/Sep/21 | 4,500 | 3,500 | 3,200 | 1,800 | 10,500 |
-| 31/Oct/21 | 3,800 | 3,400 | 3,000 | 1,700 | 9,000 |
-| 30/Nov/21 | 3,200 | 3,100 | 2,800 | 1,600 | 7,500 |
-| 31/Dec/21 | 2,800 | 2,700 | 2,500 | 1,500 | 6,000 |
-| 31/Jan/22 | 2,500 | 2,500 | 2,400 | 1,500 | 5,500 |
-| 28/Feb/22 | 2,400 | 2,400 | 2,300 | 1,500 | 5,000 |
-| 31/Mar/22 | 2,600 | 2,600 | 2,400 | 1,600 | 5,200 |
-| 30/Apr/22 | 3,000 | 2,900 | 2,700 | 1,700 | 5,800 |
-| 31/May/22 | 4,200 | 3,500 | 3,200 | 1,900 | 7,000 |
-| 30/Jun/22 | 2,200 | 2,300 | 2,200 | 1,600 | 4,000 |
-| 31/Jul/22 | 2,000 | 2,100 | 2,000 | 1,500 | 3,500 |
-| 31/Aug/22 | 1,800 | 1,900 | 1,800 | 1,500 | 3,000 |
-| 30/Sep/22 | 1,700 | 1,800 | 1,700 | 1,600 | 2,500 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 30/Sep/21 | 35000 | 34000 | 33000 | 32000 |
-| 31/Oct/21 | 25000 | 24000 | 23000 | 22000 |
-| 30/Nov/21 | 28000 | 27000 | 26000 | 25000 |
-| 31/Dec/21 | 18000 | 19000 | 17000 | 16000 |
-| 31/Jan/22 | 19000 | 20000 | 18000 | 17000 |
-| 28/Feb/22 | 16000 | 17000 | 15000 | 15000 |
-| 31/Mar/22 | 22000 | 23000 | 21000 | 20000 |
-| 30/Apr/22 | 28000 | 29000 | 27000 | 26000 |
-| 31/May/22 | 32000 | 33000 | 31000 | 30000 |
-| 30/Jun/22 | 20000 | 21000 | 19000 | 18000 |
-| 31/Jul/22 | 18000 | 19000 | 17000 | 17000 |
-| 31/Aug/22 | 16000 | 17000 | 15000 | 16000 |
-| 30/Sep/22 | 17000 | 18000 | 16000 | 17000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -324,37 +260,10 @@ In the Kamsarmax sector we had the sale of the "ALEXANDRA" (82,329dwt-blt '06, J
 
 Shipbuilding activity was kept firm in September overall, edging higher from the summer lull, typically witnessed during summer months. Orders for bulkers trebled month over month and orders for LNG carriers doubled, facing tailwinds from a flurry of new berths linked to the Qatar project. Boxship ordering activity remained flat month over month, while tanker orders edged slightly lower over the same period. Moving forward, the fresh start to the month did not gather similar momentum. In the gas sector, 1 order emerged last week assigned to Samsung HI. It is worth mentioning that it was not related to the Qatar project, as phase one of Qatar Energy's megaproject has been concluded last week following the announcement of the remaining three shipowners linked with the final eight berths at DSME. Yet we expect LNG contracting activity to remain firm, underpinned by strong market fundamentals. Tanker ordering activity remained flat with two MR vessels assigned to Hyundai Vietnam on behalf of Mitsui &amp; Co. One order for three PCTC vessels has been reported last week following a near 3-month muted activity. Conclusively, Petrobras returned to Singapore's Keppel for a P-83 FPSO. The unit is scheduled to operate at Brazil's Buzios Field in Santos Basin, which is set to be installed with eight additional units by 2030.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 30/Sep/21 | 105 | 75 | 58 | 50 | 42 |
-| 31/Oct/21 | 108 | 76 | 58 | 50 | 42 |
-| 30/Nov/21 | 110 | 77 | 58 | 50 | 42 |
-| 31/Dec/21 | 112 | 77 | 59 | 51 | 43 |
-| 31/Jan/22 | 115 | 78 | 59 | 51 | 43 |
-| 28/Feb/22 | 116 | 78 | 59 | 52 | 43 |
-| 31/Mar/22 | 117 | 78 | 60 | 52 | 43 |
-| 30/Apr/22 | 118 | 77 | 60 | 53 | 43 |
-| 31/May/22 | 119 | 78 | 60 | 53 | 44 |
-| 30/Jun/22 | 120 | 79 | 60 | 54 | 44 |
-| 31/Jul/22 | 120 | 79 | 60 | 54 | 44 |
-| 31/Aug/22 | 121 | 79 | 60 | 54 | 44 |
-| 30/Sep/22 | 121 | 79 | 61 | 54 | 45 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 30/Sep/21 | 60 | 32 | 32 | 30 |
-| 31/Oct/21 | 60 | 32 | 32 | 30 |
-| 30/Nov/21 | 60 | 32 | 32 | 30 |
-| 31/Dec/21 | 60 | 32 | 32 | 30 |
-| 31/Jan/22 | 60 | 32 | 32 | 30 |
-| 28/Feb/22 | 61 | 32 | 32 | 30 |
-| 31/Mar/22 | 61 | 33 | 33 | 30 |
-| 30/Apr/22 | 61 | 33 | 33 | 30 |
-| 31/May/22 | 62 | 33 | 33 | 30 |
-| 30/Jun/22 | 62 | 33 | 33 | 30 |
-| 31/Jul/22 | 62 | 33 | 33 | 30 |
-| 31/Aug/22 | 62 | 33 | 33 | 30 |
-| 30/Sep/22 | 62 | 32 | 32 | 30 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
+
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -386,21 +295,8 @@ Shipbuilding activity was kept firm in September overall, edging higher from the
 
 Despite an overall sluggishness in demolition market activity, breakers hold their offered levels steady amidst financial adversities across all the Indian subcontinent nations. In Bangladesh, LC restriction coupled with its currency depreciation has drawn attention to small LTD units. In India, steel demand noted some improvement which led to a w-o-w increase in domestic steel prices. In Pakistan, following the adverse weather disruption, now we see steel mills' trade activity restarting operations which coupled with a strong PKR against the dollar could provide some relief to Pakistani breakers who have been on the sidelines for the past several weeks. An increase in steel demand has been also witnessed in Turkey, yet with steel mills participants avoiding to speculate on a positive momentum following a more conservative approach. All in all, freight market performance across all sectors continues to out owners from the demolition option with a more aggressive breakers approach being necessary for a stronger demolition activity. Average prices in the different markets this week for tankers ranged between 260-600/ldt and those for dry bulk units between \$250-590/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 30/Sep/21 | 600 | 560 | 600 | 300 |
-| 31/Oct/21 | 610 | 570 | 610 | 310 |
-| 30/Nov/21 | 605 | 565 | 605 | 315 |
-| 31/Dec/21 | 600 | 550 | 600 | 320 |
-| 31/Jan/22 | 615 | 560 | 615 | 325 |
-| 28/Feb/22 | 640 | 580 | 640 | 380 |
-| 31/Mar/22 | 680 | 620 | 680 | 440 |
-| 30/Apr/22 | 670 | 650 | 670 | 440 |
-| 31/May/22 | 560 | 560 | 560 | 320 |
-| 30/Jun/22 | 550 | 550 | 550 | 250 |
-| 31/Jul/22 | 560 | 560 | 560 | 250 |
-| 31/Aug/22 | 570 | 570 | 570 | 250 |
-| 30/Sep/22 | 580 | 570 | 580 | 250 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

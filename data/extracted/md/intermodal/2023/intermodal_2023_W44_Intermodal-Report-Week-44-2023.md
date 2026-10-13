@@ -58,42 +58,9 @@ Korean shipyards are pioneering sustainable maritime technologies, particularly 
 | --- | --- | --- | --- | --- | --- | --- |
 | 12 mos | CIELO DI ULSAN | 2015 | 39,060 dwt | DEL WEST OCT/23 | $28,600/day | Peninsula |
 | 12 mos | YASA VEGA | 2021 | 50,215 dwt | DEL WEST NOV/23 | $30,250/day | Vitol |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| DATE | WS points | WS points | WS points |
-| 3/Nov/22 | 100 | 250 | 650 |
-| 3/Dec/22 | 100 | 200 | 650 |
-| 3/Jan/23 | 80 | 180 | 200 |
-| 3/Feb/23 | 70 | 180 | 250 |
-| 3/Mar/23 | 70 | 180 | 350 |
-| 3/Apr/23 | 70 | 180 | 350 |
-| 3/May/23 | 70 | 180 | 100 |
-| 3/Jun/23 | 70 | 180 | 100 |
-| 3/Jul/23 | 70 | 180 | 100 |
-| 3/Aug/23 | 70 | 180 | 100 |
-| 3/Sep/23 | 70 | 180 | 100 |
-| 3/Oct/23 | 70 | 180 | 100 |
-| 3/Nov/23 | 70 | 180 | 280 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| DATE | WS points | WS points | WS points | WS points |
-| 3/Nov/22 | 180 | 350 | 450 | 180 |
-| 3/Dec/22 | 180 | 300 | 400 | 180 |
-| 3/Jan/23 | 160 | 280 | 350 | 160 |
-| 3/Feb/23 | 140 | 260 | 300 | 140 |
-| 3/Mar/23 | 140 | 260 | 450 | 140 |
-| 3/Apr/23 | 140 | 260 | 450 | 140 |
-| 3/May/23 | 140 | 260 | 100 | 140 |
-| 3/Jun/23 | 140 | 260 | 100 | 140 |
-| 3/Jul/23 | 140 | 260 | 100 | 140 |
-| 3/Aug/23 | 140 | 260 | 100 | 140 |
-| 3/Sep/23 | 140 | 260 | 100 | 140 |
-| 3/Oct/23 | 140 | 260 | 100 | 140 |
-| 3/Nov/23 | 140 | 260 | 180 | 140 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 03/11/2023 | 27/10/2023 | ±% | Diff | 2022 | 2021 |
@@ -161,23 +128,7 @@ No fixtures to report for last week
 | **Handysize** | **32K 1yr TC** | 10,250 | 10,250 | 0.0% | 0 | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 3/Nov/22 | 13000 | 14000 | 13500 | 8000 |
-| 3/Dec/22 | 14000 | 14500 | 13000 | 8500 |
-| 3/Jan/23 | 22000 | 11000 | 10000 | 7000 |
-| 3/Feb/23 | 4000 | 7000 | 8000 | 5000 |
-| 3/Mar/23 | 6000 | 8000 | 9000 | 6000 |
-| 3/Apr/23 | 18000 | 12000 | 11000 | 9000 |
-| 3/May/23 | 24000 | 15000 | 14000 | 10000 |
-| 3/Jun/23 | 12000 | 11000 | 10000 | 7000 |
-| 3/Jul/23 | 14000 | 12000 | 11000 | 8000 |
-| 3/Aug/23 | 13000 | 13000 | 12000 | 8500 |
-| 3/5ep/23 | 14000 | 14000 | 13000 | 9000 |
-| 3/Oct/23 | 28000 | 15000 | 14000 | 15000 |
-| 3/Nov/23 | 16000 | 13000 | 12000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Nov-23 avg | Oct-23 avg | ±% | 2022 | 2021 |

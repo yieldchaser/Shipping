@@ -89,40 +89,10 @@ Shanghai 200122 China
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | PACIFIC VOYAGER | 2009 | 302,290 dwt | $25,000/day | MOL |
 | 12 mos | OCEAN JUPITER | 2007 | 50,314 dwt | $22,000/day | Eiger Shipping |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 5/Aug/21 | 30 | 80 | 100 |
-| 5/Sep/21 | 40 | 90 | 110 |
-| 5/Oct/21 | 50 | 100 | 120 |
-| 5/Nov/21 | 60 | 110 | 130 |
-| 5/Dec/21 | 70 | 120 | 140 |
-| 5/Jan/22 | 80 | 130 | 150 |
-| 5/Feb/22 | 90 | 140 | 160 |
-| 5/Mar/22 | 100 | 280 | 200 |
-| 5/Apr/22 | 110 | 290 | 280 |
-| 5/May/22 | 120 | 270 | 260 |
-| 5/Jun/22 | 130 | 180 | 190 |
-| 5/Jul/22 | 140 | 200 | 250 |
-| 5/Aug/22 | 150 | 220 | 270 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 5/Aug/21 | 100 | 110 | 120 | 130 |
-| 5/Sep/21 | 110 | 120 | 130 | 140 |
-| 5/Oct/21 | 120 | 130 | 140 | 150 |
-| 5/Nov/21 | 130 | 140 | 150 | 160 |
-| 5/Dec/21 | 140 | 150 | 160 | 170 |
-| 5/Jan/22 | 150 | 160 | 170 | 180 |
-| 5/Feb/22 | 160 | 170 | 180 | 190 |
-| 5/Mar/22 | 170 | 180 | 200 | 250 |
-| 5/Apr/22 | 180 | 190 | 300 | 400 |
-| 5/May/22 | 190 | 200 | 350 | 450 |
-| 5/Jun/22 | 200 | 210 | 380 | 420 |
-| 5/Jul/22 | 210 | 220 | 400 | 460 |
-| 5/Aug/22 | 220 | 230 | 380 | 350 |
 ## TC Rates
 
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -185,23 +155,7 @@ In the Aframax sector we had the sale of the "STRIDE" (105,369dwt-blt '09, S. Ko
 | --- | --- | --- | --- | --- | --- | --- |
 | 5-7 mos | ITG UMING | 2020 | 81,994 dwt | CJK 4/6 Aug | $22,750/day | MOL |
 
-### Baltic Indices (1-Year Trend)
-
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 5/Aug/21 | 4000 | 3500 | 3200 | 1800 | 5500 |
-| 5/Sep/21 | 6000 | 4000 | 3400 | 2000 | 6500 |
-| 5/Oct/21 | 10500 | 4200 | 3300 | 2000 | 6000 |
-| 5/Nov/21 | 2500 | 3000 | 2800 | 1700 | 3000 |
-| 5/Dec/21 | 2800 | 3100 | 2700 | 1600 | 3200 |
-| 5/Jan/22 | 2600 | 2900 | 2600 | 1600 | 3000 |
-| 5/Feb/22 | 2400 | 2800 | 2500 | 1500 | 2800 |
-| 5/Mar/22 | 2700 | 2900 | 2600 | 1600 | 3000 |
-| 5/Apr/22 | 2800 | 3000 | 2700 | 1700 | 3100 |
-| 5/May/22 | 4200 | 3500 | 3000 | 1800 | 4500 |
-| 5/Jun/22 | 2900 | 3000 | 2800 | 1700 | 3200 |
-| 5/Jul/22 | 2700 | 2900 | 2700 | 1600 | 3000 |
-| 5/Aug/22 | 2600 | 2800 | 2600 | 1600 | 2800 |
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 
@@ -220,23 +174,7 @@ In the Aframax sector we had the sale of the "STRIDE" (105,369dwt-blt '09, S. Ko
 |  | **32K 1yr TC** | 15,000 | 16,000 | -6.3% | -1,000 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 11,500 | 12,000 | -4.2% | -500 | 11,825 | 8,486 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 5/Aug/21 | 35000 | 34000 | 34000 | 33000 |
-| 5/Sep/21 | 40000 | 35000 | 35000 | 34000 |
-| 5/Oct/21 | 85000 | 36000 | 36000 | 35000 |
-| 5/Nov/21 | 25000 | 26000 | 25000 | 24000 |
-| 5/Dec/21 | 30000 | 27000 | 26000 | 25000 |
-| 5/Jan/22 | 28000 | 26000 | 25000 | 24000 |
-| 5/Feb/22 | 15000 | 25000 | 24000 | 23000 |
-| 5/Mar/22 | 28000 | 26000 | 25000 | 24000 |
-| 5/Apr/22 | 32000 | 27000 | 26000 | 25000 |
-| 5/May/22 | 35000 | 28000 | 27000 | 26000 |
-| 5/Jun/22 | 26000 | 26000 | 25000 | 24000 |
-| 5/Jul/22 | 24000 | 25000 | 24000 | 23000 |
-| 5/Aug/22 | 20000 | 24000 | 23000 | 22000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -336,37 +274,10 @@ In the Handysize sector we had the sale of the "QUANTRA" (18,367dwt-blt '00, S. 
 
 Newbuilding ordering activity has been quiet during the first week of August, with a total number of four orders, all placed at Chinese shipyards. On the container front, CMA-CGM's order of 6x15,000teu units has monopolized interest, as it is the second container operator, after AP Moller-Maersk, that has opted for methanol-powered vessels over LNG. The vessels will cost \$175.0m each, they will be delivered within 2025, and they have been assigned for construction to the state-owned DSIC, which is rumored to have offered the most competitive price and delivery window to the owner. Moving on, NYK struck a deal for 1x86,700cbm LPG with KHI, lifting its order tally to a total of 4 vessels. The vessel will be LPG dual-fuelled, and it is designed to carry ammonia and LPG simultaneously. Delivery is expected within 2025, while it is rumored to cost approx. \$90.0m. Conclusively, China's TMS has returned to Jiangnan Shipyard for the construction of 1+1x99,000cbm dual-fuelled VLEC, lifting its order tally to 3 VLECs at the particular shipyard. The vessel will cost \$13.0m and will be delivered in 2025.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 5/Aug/21 | 100 | 68 | 56 | 50 | 40 |
-| 5/Sep/21 | 102 | 69 | 57 | 51 | 40 |
-| 5/Oct/21 | 105 | 70 | 58 | 52 | 40 |
-| 5/Nov/21 | 108 | 71 | 59 | 53 | 40 |
-| 5/Dec/21 | 110 | 72 | 60 | 54 | 40 |
-| 5/Jan/22 | 112 | 73 | 61 | 55 | 40 |
-| 5/Feb/22 | 115 | 74 | 62 | 56 | 40 |
-| 5/Mar/22 | 116 | 75 | 63 | 57 | 40 |
-| 5/Apr/22 | 118 | 76 | 64 | 58 | 40 |
-| 5/May/22 | 119 | 77 | 65 | 58 | 40 |
-| 5/Jun/22 | 120 | 78 | 66 | 58 | 40 |
-| 5/Jul/22 | 120 | 78 | 66 | 58 | 40 |
-| 5/Aug/22 | 120 | 78 | 66 | 58 | 40 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 5/Aug/21 | 60 | 33 | 32 | 28 |
-| 5/Sep/21 | 60 | 34 | 32 | 28 |
-| 5/Oct/21 | 60 | 34 | 32 | 28 |
-| 5/Nov/21 | 61 | 35 | 33 | 29 |
-| 5/Dec/21 | 61 | 35 | 33 | 29 |
-| 5/Jan/22 | 61 | 35 | 33 | 29 |
-| 5/Feb/22 | 61 | 35 | 33 | 29 |
-| 5/Mar/22 | 62 | 36 | 34 | 29 |
-| 5/Apr/22 | 62 | 36 | 34 | 29 |
-| 5/May/22 | 62 | 36 | 34 | 29 |
-| 5/Jun/22 | 62 | 36 | 34 | 29 |
-| 5/Jul/22 | 63 | 36 | 34 | 29 |
-| 5/Aug/22 | 63 | 36 | 34 | 29 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
+
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -398,21 +309,8 @@ Newbuilding ordering activity has been quiet during the first week of August, wi
 
 The Ship recycling market continues to be under significant pressure due to the global economic instability that has staggered steel demand and consequently scrap demand. At the same time, currency depreciation is mounting across the Indian subcontinent nations while the supply of vintage tonnage remains limited amidst lucrative freight markets. Bangladesh, which continues to offer the best levels, has seen its local breakers struggling with low LC limits and slow domestic steel activities. In India, despite breakers' appetite for new tonnage, bid levels cannot allure owners while the declining global steel consumption coupled with the export tax on steel products are causing difficulties for an increase in offers. Having said that, the expectation that the export duty will withdraw from the Government is reflating from steel participants. Lastly in Pakistan, breakers appetite for fresh tonnage noted a small improvement amidst low domestic scrap availability, yet with levels remaining below the Indian subcontinent competitors for another week. Average prices in the different markets this week for tankers ranged between 250-570/ldt and those for dry bulk units between \$260-580/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 5/Aug/21 | 600 | 560 | 600 | 300 |
-| 5/Sep/21 | 610 | 570 | 610 | 310 |
-| 5/Oct/21 | 620 | 580 | 620 | 320 |
-| 5/Nov/21 | 615 | 575 | 615 | 325 |
-| 5/Dec/21 | 610 | 560 | 610 | 330 |
-| 5/Jan/22 | 605 | 550 | 605 | 335 |
-| 5/Feb/22 | 630 | 560 | 630 | 340 |
-| 5/Mar/22 | 670 | 600 | 670 | 420 |
-| 5/Apr/22 | 680 | 620 | 680 | 440 |
-| 5/May/22 | 675 | 610 | 675 | 435 |
-| 5/Jun/22 | 640 | 580 | 640 | 320 |
-| 5/Jul/22 | 560 | 550 | 560 | 250 |
-| 5/Aug/22 | 570 | 560 | 570 | 255 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Indicative Demolition Prices ($/ldt)
 
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
@@ -462,15 +360,8 @@ The Ship recycling market continues to be under significant pressure due to the 
 |  | Houston | 762.5 | 831.5 |
 |  | Singapore | 742.5 | 894.0 |
 
-## Basic Commodities Weekly Summary
+> **Chart (not transcribed):** Basic Commodities Weekly Summary. The report prints no values for it.
 
-| Date | Oil WTI $ | Oil Brent $ | Gold $ |
-| --- | --- | --- | --- |
-| 1/Aug/22 | 95 | 100 | 1900 |
-| 2/Aug/22 | 94 | 99 | 1910 |
-| 3/Aug/22 | 92 | 98 | 1920 |
-| 4/Aug/22 | 88 | 96 | 1930 |
-| 5/Aug/22 | 89 | 95 | 1925 |
 ## Maritime Stock Data
 
 | Company | Stock Exchange | Curr. | 05-Aug-22 | 29-Jul-22 | W-O-W Change % |

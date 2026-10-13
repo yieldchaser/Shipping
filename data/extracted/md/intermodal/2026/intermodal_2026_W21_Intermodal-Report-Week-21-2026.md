@@ -52,42 +52,9 @@ The freight conclusion is therefore selective. El Niño is more constructive for
 | 12 mos | Maran Taurus | 2011 |
 | --- | --- | --- |
 |  | $110,000/day |  |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS | WS | WS |
-| 22/May/25 | points | points | points |
-| 22/Jun/25 | 100 | 150 | 200 |
-| 22/Jul/25 | 100 | 150 | 200 |
-| 22/Aug/25 | 100 | 150 | 200 |
-| 22/Sep/25 | 100 | 150 | 200 |
-| 22/Oct/25 | 100 | 150 | 200 |
-| 22/Nov/25 | 100 | 150 | 200 |
-| 22/Dec/25 | 100 | 150 | 200 |
-| 22/Jan/26 | 100 | 150 | 200 |
-| 22/Feb/26 | 200 | 250 | 300 |
-| 22/Mar/26 | 400 | 450 | 500 |
-| 22/Apr/26 | 600 | 900 | 1000 |
-| 22/May/26 | 400 | 400 | 400 |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS | WS | WS | WS |
-| 22/May/25 | points | points | points | points |
-| 22/Jun/25 | 100 | 100 | 100 | 100 |
-| 22/Jul/25 | 100 | 100 | 100 | 100 |
-| 22/Aug/25 | 100 | 100 | 100 | 100 |
-| 22/Sep/25 | 100 | 100 | 100 | 100 |
-| 22/Oct/25 | 100 | 100 | 100 | 100 |
-| 22/Nov/25 | 100 | 100 | 100 | 100 |
-| 22/Dec/25 | 100 | 100 | 100 | 100 |
-| 22/Jan/26 | 100 | 100 | 100 | 100 |
-| 22/Feb/26 | 200 | 200 | 200 | 200 |
-| 22/Mar/26 | 400 | 300 | 300 | 300 |
-| 22/Apr/26 | 600 | 300 | 600 | 600 |
-| 22/May/26 | 500 | 300 | 600 | 600 |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 22/05/2026 | 15/05/2026 | ±% | Diff | 2025 | 2024 |
@@ -155,41 +122,9 @@ The Aframax segment saw the sharpest declines, with TCE earnings falling by 16% 
 | **Handysize** | **32K 1yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 22/May/25 | 3500 | 1500 | 1200 | 800 | 1500 |
-| 22/Jun/25 | 3800 | 1600 | 1300 | 900 | 1800 |
-| 22/Jul/25 | 3200 | 1700 | 1400 | 1000 | 2000 |
-| 22/Aug/25 | 3400 | 1650 | 1350 | 950 | 1900 |
-| 22/Sep/25 | 3300 | 1600 | 1300 | 900 | 1700 |
-| 22/Oct/25 | 3100 | 1550 | 1250 | 850 | 1600 |
-| 22/Nov/25 | 5000 | 2500 | 2500 | 1500 | 2800 |
-| 22/Dec/25 | 2800 | 1800 | 1600 | 1100 | 2200 |
-| 22/Jan/26 | 2500 | 1700 | 1500 | 1000 | 2000 |
-| 22/Feb/26 | 2600 | 1750 | 1550 | 1050 | 2100 |
-| 22/Mar/26 | 2700 | 1800 | 1600 | 1100 | 2300 |
-| 22/Apr/26 | 4800 | 2200 | 2000 | 1400 | 4500 |
-| 22/May/26 | 5000 | 2400 | 2200 | 1500 | 5000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 22/May/25 | 15000 | 12000 | 10000 | 8000 |
-| 22/Jun/25 | 10000 | 13000 | 11000 | 9000 |
-| 22/Jul/25 | 14000 | 14000 | 12000 | 10000 |
-| 22/Aug/25 | 16000 | 15000 | 13000 | 11000 |
-| 22/Sep/25 | 15000 | 14500 | 12500 | 10500 |
-| 22/Oct/25 | 14000 | 14000 | 12000 | 10000 |
-| 22/Nov/25 | 42000 | 16000 | 13000 | 11000 |
-| 22/Dec/25 | 12000 | 13000 | 11000 | 9000 |
-| 22/Jan/26 | 16000 | 14000 | 12000 | 10000 |
-| 22/Feb/26 | 17000 | 14500 | 12500 | 10500 |
-| 22/Mar/26 | 18000 | 15000 | 13000 | 11000 |
-| 22/Apr/26 | 40000 | 18000 | 15000 | 13000 |
-| 22/May/26 | 42000 | 20000 | 16000 | 14000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | May-26 avg | Apr-26 avg | ±% | 2025 | 2024 | 2023 |

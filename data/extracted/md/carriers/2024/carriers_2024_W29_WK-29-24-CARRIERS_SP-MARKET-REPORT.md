@@ -129,5 +129,5 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W29_WK-29-24-CARRIERS_SP-
 | Baltic CLEAN Tanker Index | 842 | 17 | 825 |
 | VLCC TCE | 27864 | -1160 | 29024 |
 | SUEZ TCE | 40775 | -82 | 40857 |
-| AFRA TCE | 39.983 | 2033 | 37.95 |
+| AFRA TCE | 39983 | 2033 | 37950 |
 | MR ATLANTIC TC routes | 41626 | 9274 | 32352 |

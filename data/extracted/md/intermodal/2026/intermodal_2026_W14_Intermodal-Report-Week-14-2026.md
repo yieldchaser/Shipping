@@ -32,40 +32,10 @@ Overall, India's role in coking coal and iron ore imports is poised to increase 
 ## Indicative Period Charters
 
 No Fresh Fixtures to Report
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 3/Apr/25 | 50 | 200 | 250 |
-| 3/May/25 | 60 | 180 | 240 |
-| 3/Jun/25 | 70 | 170 | 230 |
-| 3/Jul/25 | 80 | 160 | 220 |
-| 3/Aug/25 | 90 | 150 | 210 |
-| 3/Sep/25 | 100 | 140 | 200 |
-| 3/Oct/25 | 110 | 130 | 190 |
-| 3/Nov/25 | 120 | 120 | 180 |
-| 3/Dec/25 | 130 | 110 | 170 |
-| 3/Jan/26 | 140 | 100 | 160 |
-| 3/Feb/26 | 350 | 400 | 450 |
-| 3/Mar/26 | 400 | 450 | 950 |
-| 3/Apr/26 | 420 | 460 | 980 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 3/Apr/25 | 100 | 110 | 120 | 130 |
-| 3/May/25 | 110 | 100 | 110 | 120 |
-| 3/Jun/25 | 120 | 90 | 100 | 110 |
-| 3/Jul/25 | 130 | 80 | 90 | 100 |
-| 3/Aug/25 | 140 | 70 | 80 | 90 |
-| 3/Sep/25 | 150 | 60 | 70 | 80 |
-| 3/Oct/25 | 160 | 50 | 60 | 70 |
-| 3/Nov/25 | 170 | 40 | 50 | 60 |
-| 3/Dec/25 | 180 | 30 | 40 | 50 |
-| 3/Jan/26 | 190 | 20 | 30 | 40 |
-| 3/Feb/26 | 200 | 10 | 20 | 30 |
-| 3/Mar/26 | 350 | 200 | 400 | 450 |
-| 3/Apr/26 | 400 | 280 | 450 | 460 |
 ## Spot Rates
 
 | Sector | Size | Routes | 03/04/2026 WS points | 03/04/2026 $/day | 27/03/2026 WS points | 27/03/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
@@ -150,32 +120,9 @@ Aframax markets in Europe are showing signs of losing momentum compared to the s
 | **Handysize** | **32K 1yr TC** | 12,750 | 12,750 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 3/Apr/25 | 1800 | 1500 | 1400 | 1000 | 1200 |
-| 3/May/25 | 2000 | 1600 | 1400 | 1000 | 1300 |
-| 3/Jun/25 | 3500 | 1700 | 1500 | 1000 | 1400 |
-| 3/Jul/25 | 3000 | 1600 | 1500 | 1000 | 1300 |
-| 3/Aug/25 | 3200 | 1800 | 1600 | 1000 | 1500 |
-| 3/Sep/25 | 3100 | 1750 | 1550 | 1000 | 1450 |
-| 3/Oct/25 | 3300 | 1800 | 1600 | 1000 | 1500 |
-| 3/Nov/25 | 3500 | 1900 | 1700 | 1000 | 1600 |
-| 3/Dec/25 | 5000 | 2000 | 1600 | 1000 | 2000 |
-| 3/Jan/26 | 3000 | 1800 | 1700 | 1000 | 1800 |
-| 3/Feb/26 | 3200 | 1900 | 1700 | 1000 | 1900 |
-| 3/Mar/26 | 2900 | 1900 | 1700 | 1000 | 1900 |
-| 3/Apr/26 | 2900 | 1900 | 1700 | 1000 | 1900 |
-
-### Average T/C Rates (1-Year Trend)
-
-|  | 3/Apr/25 | 3/May/25 | 3/Jun/25 | 3/Jul/25 | 3/Aug/25 | 3/Sep/25 | 3/Oct/25 | 3/Nov/25 | 3/Dec/25 | 3/Jan/26 | 3/Feb/26 | 3/Mar/26 | 3/Apr/26 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Average of the 5T / C | 15000 | 14000 | 25000 | 20000 | 15000 | 20000 | 22000 | 25000 | 42000 | 20000 | 22000 | 23000 | 23000 |
-| AVR 5TC BPI | 10000 | 10000 | 11000 | 12000 | 13000 | 12500 | 13000 | 14000 | 13000 | 14000 | 14000 | 14000 | 14000 |
-| AVR 10TC BSI | 11000 | 11000 | 12000 | 12000 | 13000 | 12500 | 13000 | 14000 | 13000 | 14000 | 14000 | 14000 | 14000 |
-| AVR 7TC BHSI | 9000 | 9000 | 10000 | 10000 | 11000 | 10500 | 11000 | 12000 | 11000 | 12000 | 12000 | 12000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Apr-26 avg | Mar-26 avg | ±% | 2025 | 2024 |

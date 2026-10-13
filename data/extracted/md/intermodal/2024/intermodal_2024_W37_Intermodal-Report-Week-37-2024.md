@@ -63,40 +63,9 @@ In the long term, the introduction of potential tariffs from China could diminis
 | 6/8 mos |  | 2014 | 50,879 dwt | GREEN SKY $29,000/day | Mercuria |
 | 24 mos | STI JARDINS | 2018 | 49,990 dwt | $29,550/day | Petrobras |
 
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 13/Sep/23 | 0 | 100 | 150 |
-| 13/Oct/23 | 50 | 120 | 300 |
-| 13/Nov/23 | 80 | 130 | 350 |
-| 13/Dec/23 | 60 | 140 | 400 |
-| 13/Jan/24 | 40 | 380 | 450 |
-| 13/Feb/24 | 30 | 390 | 400 |
-| 13/Mar/24 | 50 | 120 | 200 |
-| 13/Apr/24 | 60 | 100 | 150 |
-| 13/May/24 | 70 | 90 | 180 |
-| 13/Jun/24 | 80 | 80 | 160 |
-| 13/Jul/24 | 70 | 70 | 140 |
-| 13/Aug/24 | 60 | 60 | 120 |
-| 13/Sep/24 | 50 | 50 | 100 |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 13/Sep/23 | 150 | 180 | 200 | 160 |
-| 13/Oct/23 | 140 | 170 | 190 | 150 |
-| 13/Nov/23 | 130 | 160 | 180 | 140 |
-| 13/Dec/23 | 120 | 150 | 170 | 130 |
-| 13/Jan/24 | 110 | 140 | 160 | 120 |
-| 13/Feb/24 | 380 | 390 | 370 | 360 |
-| 13/Mar/24 | 350 | 340 | 330 | 320 |
-| 13/Apr/24 | 320 | 310 | 300 | 290 |
-| 13/May/24 | 300 | 290 | 280 | 270 |
-| 13/Jun/24 | 280 | 270 | 260 | 250 |
-| 13/Jul/24 | 260 | 250 | 240 | 230 |
-| 13/Aug/24 | 240 | 230 | 220 | 210 |
-| 13/Sep/24 | 220 | 210 | 200 | 190 |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 13/09/24 | 06/09/24 | ±% | Diff | 2023 | 2022 |
@@ -166,39 +135,9 @@ On the clean market, the was increased fixing for LR2s and LR1s which resulted i
 | **Handysize** | **32K 1yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 13/Sep/23 | 1500 | 1200 | 1000 | 800 | 1400 |
-| 13/Oct/23 | 3000 | 1300 | 1100 | 900 | 1500 |
-| 13/Nov/23 | 2500 | 1400 | 1200 | 950 | 1600 |
-| 13/Dec/23 | 6500 | 3000 | 1500 | 1000 | 3000 |
-| 13/Jan/24 | 2000 | 1500 | 1100 | 900 | 1600 |
-| 13/Feb/24 | 3500 | 1600 | 1200 | 950 | 1700 |
-| 13/Mar/24 | 4000 | 1700 | 1300 | 1000 | 1800 |
-| 13/Apr/24 | 2500 | 1600 | 1200 | 950 | 1700 |
-| 13/May/24 | 3000 | 1500 | 1100 | 900 | 1600 |
-| 13/Jul/24 | 2800 | 1600 | 1200 | 950 | 1700 |
-| 13/Aug/24 | 3200 | 1700 | 1300 | 1000 | 1800 |
-| 13/Sep/24 | 3000 | 1600 | 1200 | 900 | 1700 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 13/Sep/23 | 12000 | 13000 | 11000 | 10000 |
-| 13/Oct/23 | 25000 | 14000 | 12000 | 10500 |
-| 13/Nov/23 | 18000 | 13500 | 11500 | 10000 |
-| 13/Dec/23 | 52000 | 14000 | 12000 | 10000 |
-| 13/Jan/24 | 15000 | 13000 | 11000 | 9500 |
-| 13/Feb/24 | 16000 | 13500 | 11500 | 10000 |
-| 13/Mar/24 | 32000 | 14000 | 12000 | 10500 |
-| 13/Apr/24 | 20000 | 13500 | 11500 | 10000 |
-| 13/May/24 | 22000 | 14000 | 12000 | 10500 |
-| 13/Jul/24 | 24000 | 14500 | 12500 | 11000 |
-| 13/Aug/24 | 26000 | 15000 | 13000 | 11500 |
-| 13/Sep/24 | 25000 | 14500 | 12500 | 11000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Sep-24 avg | Aug-24 avg | ±% | 2023 | 2022 | 2021 |

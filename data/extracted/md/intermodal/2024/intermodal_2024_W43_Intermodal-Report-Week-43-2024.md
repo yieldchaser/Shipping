@@ -67,40 +67,9 @@ Based on the figures above, it is evident that interest in secondhand vessels wi
 | --- | --- | --- | --- | --- | --- | --- |
 | 12 mos | PYXIS KARTERIA | 2013 | 46,652 dwt | DEL EAST OCT/24 | $24,500/day | ST Ship |
 | 6 mos | CP BALTIC | 2020 | 37,874 dwt | DEL WEST OCT/24 | $26 - 27,500/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 25/Oct/23 | 70 | 140 | 280 |
-| 25/Nov/23 | 60 | 130 | 270 |
-| 25/Dec/23 | 50 | 390 | 260 |
-| 25/Jan/24 | 60 | 120 | 250 |
-| 25/Feb/24 | 50 | 110 | 240 |
-| 25/Mar/24 | 50 | 110 | 230 |
-| 25/Apr/24 | 50 | 110 | 220 |
-| 25/May/24 | 50 | 110 | 210 |
-| 25/Jun/24 | 50 | 110 | 200 |
-| 25/Jul/24 | 50 | 110 | 190 |
-| 25/Aug/24 | 50 | 110 | 180 |
-| 25/Sep/24 | 50 | 110 | 170 |
-| 25/Oct/24 | 50 | 110 | 160 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 25/Oct/23 | 180 | 160 | 200 | 140 |
-| 25/Nov/23 | 170 | 150 | 190 | 130 |
-| 25/Dec/23 | 160 | 350 | 380 | 320 |
-| 25/Jan/24 | 360 | 340 | 370 | 310 |
-| 25/Feb/24 | 350 | 330 | 360 | 300 |
-| 25/Mar/24 | 340 | 320 | 350 | 290 |
-| 25/Apr/24 | 330 | 310 | 340 | 280 |
-| 25/May/24 | 320 | 300 | 330 | 270 |
-| 25/Jun/24 | 310 | 290 | 320 | 260 |
-| 25/Jul/24 | 300 | 280 | 310 | 250 |
-| 25/Aug/24 | 290 | 270 | 300 | 240 |
-| 25/Sep/24 | 280 | 260 | 290 | 230 |
-| 25/Oct/24 | 270 | 250 | 280 | 220 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 25/10/24 | 18/10/24 | ±% | Diff | 2023 | 2022 |
@@ -170,39 +139,9 @@ On the clean side, LR2 and LR1 rate softened as a lack of cargoes weighted on th
 | **Handysize** | **32K 1yr TC** | 11,750 | 11,750 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 25/Oct/23 | 2000 | 1500 | 1200 | 800 | 1500 |
-| 25/Nov/23 | 6500 | 3000 | 2500 | 1000 | 3000 |
-| 25/Dec/23 | 2000 | 2000 | 1500 | 1000 | 2500 |
-| 25/Jan/24 | 1800 | 1600 | 1400 | 900 | 1800 |
-| 25/Feb/24 | 3500 | 1500 | 1300 | 900 | 1600 |
-| 25/Mar/24 | 3800 | 1600 | 1400 | 900 | 1700 |
-| 25/Apr/24 | 2800 | 1500 | 1300 | 800 | 1600 |
-| 25/May/24 | 2600 | 1500 | 1300 | 800 | 1500 |
-| 25/Jul/24 | 2400 | 1500 | 1300 | 800 | 1500 |
-| 25/Aug/24 | 2300 | 1400 | 1200 | 700 | 1400 |
-| 25/Sep/24 | 2200 | 1400 | 1200 | 700 | 1400 |
-| 25/Oct/24 | 2000 | 1300 | 1100 | 600 | 1300 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 25/Oct/23 | 15000 | 12000 | 10000 | 8000 |
-| 25/Nov/23 | 55000 | 20000 | 15000 | 10000 |
-| 25/Dec/23 | 20000 | 15000 | 12000 | 9000 |
-| 25/Jan/24 | 12000 | 11000 | 10000 | 8000 |
-| 25/Feb/24 | 35000 | 16000 | 13000 | 9000 |
-| 25/Mar/24 | 32000 | 16000 | 13000 | 9000 |
-| 25/Apr/24 | 25000 | 15000 | 12000 | 8000 |
-| 25/May/24 | 22000 | 14000 | 11000 | 8000 |
-| 25/Jul/24 | 24000 | 14000 | 11000 | 8000 |
-| 25/Aug/24 | 26000 | 14000 | 11000 | 7000 |
-| 25/Sep/24 | 23000 | 13000 | 10000 | 7000 |
-| 25/Oct/24 | 16000 | 11000 | 9000 | 6000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Oct-24 avg | Sep-24 avg | ±% | 2023 | 2022 | 2021 |

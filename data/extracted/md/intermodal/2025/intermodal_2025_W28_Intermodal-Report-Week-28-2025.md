@@ -54,40 +54,9 @@ For dry bulk shipping, this means lower cargo volumes on key China-linked routes
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | Sea Cougar | 2019 | 49,910 dwt | $21,500/day | Stena Bulk |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 11/Jul/24 | 50 | 90 | 220 |
-| 11/Aug/24 | 50 | 85 | 180 |
-| 11/Sep/24 | 50 | 80 | 150 |
-| 11/Oct/24 | 50 | 100 | 220 |
-| 11/Nov/24 | 50 | 100 | 150 |
-| 11/Dec/24 | 50 | 100 | 150 |
-| 11/Jan/25 | 50 | 110 | 140 |
-| 11/Feb/25 | 50 | 110 | 140 |
-| 11/Mar/25 | 50 | 110 | 160 |
-| 11/Apr/25 | 50 | 110 | 200 |
-| 11/May/25 | 50 | 110 | 160 |
-| 11/Jun/25 | 50 | 100 | 140 |
-| 11/Jul/25 | 50 | 100 | 130 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 11/Jul/24 | 160 | 160 | 240 | 120 |
-| 11/Aug/24 | 150 | 150 | 200 | 110 |
-| 11/Sep/24 | 140 | 140 | 180 | 100 |
-| 11/Oct/24 | 100 | 100 | 100 | 90 |
-| 11/Nov/24 | 100 | 100 | 100 | 90 |
-| 11/Dec/24 | 300 | 100 | 280 | 90 |
-| 11/Jan/25 | 120 | 110 | 140 | 100 |
-| 11/Feb/25 | 120 | 110 | 140 | 100 |
-| 11/Mar/25 | 160 | 160 | 280 | 120 |
-| 11/Apr/25 | 160 | 160 | 280 | 120 |
-| 11/May/25 | 140 | 140 | 240 | 110 |
-| 11/Jun/25 | 120 | 120 | 140 | 110 |
-| 11/Jul/25 | 110 | 110 | 120 | 100 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 11/07/2025 | 04/07/2025 | ±% | Diff | 2024 | 2023 |
@@ -148,41 +117,9 @@ With the exception of the VLCC segment, crude tanker markets maintained a genera
 | **Handysize** | **32K 1yr TC** | 10,500 | 10,000 | 5.0% | 500 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 11/Jul/24 | 3200 | 1600 | 1200 | 800 | 1800 |
-| 11/Aug/24 | 3400 | 1500 | 1100 | 700 | 1900 |
-| 11/Sep/24 | 3600 | 1400 | 1000 | 600 | 2000 |
-| 11/Oct/24 | 3800 | 1300 | 900 | 500 | 2100 |
-| 11/Nov/24 | 3000 | 1200 | 800 | 400 | 2200 |
-| 11/Dec/24 | 2500 | 1100 | 700 | 300 | 1000 |
-| 11/Jan/25 | 2000 | 1000 | 600 | 200 | 800 |
-| 11/Feb/25 | 1800 | 900 | 500 | 100 | 900 |
-| 11/Mar/25 | 2200 | 1000 | 600 | 200 | 1400 |
-| 11/Apr/25 | 2400 | 1100 | 700 | 300 | 1600 |
-| 11/May/25 | 2600 | 1200 | 800 | 400 | 1700 |
-| 11/Jun/25 | 3800 | 1500 | 1000 | 600 | 3500 |
-| 11/Jul/25 | 2000 | 1500 | 1600 | 800 | 1700 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 11/Jul/24 | 26000 | 15000 | 14000 | 13000 |
-| 11/Aug/24 | 24000 | 14000 | 13000 | 12000 |
-| 11/Sep/24 | 30000 | 13000 | 12000 | 11000 |
-| 11/Oct/24 | 28000 | 12000 | 11000 | 10000 |
-| 11/Nov/24 | 16000 | 11000 | 10000 | 9000 |
-| 11/Dec/24 | 6000 | 7000 | 9000 | 8000 |
-| 11/Jan/25 | 8000 | 7000 | 8000 | 7000 |
-| 11/Feb/25 | 5000 | 6000 | 7000 | 6000 |
-| 11/Mar/25 | 18000 | 10000 | 9000 | 8000 |
-| 11/Apr/25 | 17000 | 11000 | 10000 | 9000 |
-| 11/May/25 | 16000 | 12000 | 10000 | 9000 |
-| 11/Jun/25 | 28000 | 13000 | 11000 | 10000 |
-| 11/Jul/25 | 16000 | 14000 | 12000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jul-25 avg | Jun-25 avg | ±% | 2024 | 2023 |

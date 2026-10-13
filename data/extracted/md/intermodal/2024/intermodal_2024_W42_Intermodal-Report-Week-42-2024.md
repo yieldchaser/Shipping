@@ -55,42 +55,9 @@ This increased demand for imports highlights Europe's reliance on external sourc
 | 6-9 mos | SEA COUGAR | 2019 |
 | --- | --- | --- |
 |  | $28,500/day |  |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS | WS | WS |
-| 18/Oct/23 | points | points | points |
-| 18/Nov/23 | 50 | 150 | 280 |
-| 18/Dec/23 | 60 | 140 | 290 |
-| 18/Jan/24 | 70 | 130 | 300 |
-| 18/Feb/24 | 80 | 380 | 310 |
-| 18/Mar/24 | 90 | 160 | 200 |
-| 18/Apr/24 | 100 | 170 | 190 |
-| 18/May/24 | 110 | 180 | 180 |
-| 18/Jun/24 | 120 | 190 | 170 |
-| 18/Jul/24 | 130 | 200 | 160 |
-| 18/Aug/24 | 140 | 210 | 150 |
-| 18/Sep/24 | 150 | 220 | 140 |
-| 18/Oct/24 | 160 | 230 | 130 |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS | WS | WS | WS |
-| 18/Oct/23 | points | points | points | points |
-| 18/Nov/23 | 150 | 160 | 170 | 180 |
-| 18/Dec/23 | 160 | 170 | 180 | 190 |
-| 18/Jan/24 | 170 | 180 | 190 | 200 |
-| 18/Feb/24 | 350 | 360 | 370 | 380 |
-| 18/Mar/24 | 340 | 350 | 360 | 370 |
-| 18/Apr/24 | 330 | 340 | 350 | 360 |
-| 18/May/24 | 320 | 330 | 340 | 350 |
-| 18/Jun/24 | 310 | 320 | 330 | 340 |
-| 18/Jul/24 | 300 | 310 | 320 | 330 |
-| 18/Aug/24 | 290 | 300 | 310 | 320 |
-| 18/Sep/24 | 280 | 290 | 300 | 310 |
-| 18/Oct/24 | 270 | 280 | 290 | 300 |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 18/10/24 | 11/10/24 | ±% | Diff | 2023 | 2022 |
@@ -162,39 +129,9 @@ On the clean side, MR was plagued by oversupply in the US Gulf and rates tumbled
 | **Handysize** | **32K 1yr TC** | 11,750 | 11,750 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 18/Oct/23 | 3,500 | 1,500 | 1,200 | 800 | 1,800 |
-| 18/Nov/23 | 6,800 | 3,000 | 1,400 | 900 | 3,000 |
-| 18/Dec/23 | 1,800 | 1,600 | 1,300 | 1,000 | 1,500 |
-| 18/Jan/24 | 1,600 | 1,400 | 1,200 | 900 | 1,400 |
-| 18/Feb/24 | 2,800 | 1,800 | 1,500 | 1,100 | 1,600 |
-| 18/Mar/24 | 4,000 | 2,200 | 1,700 | 1,300 | 2,000 |
-| 18/Apr/24 | 3,200 | 1,900 | 1,600 | 1,200 | 1,800 |
-| 18/May/24 | 2,900 | 1,700 | 1,500 | 1,100 | 1,600 |
-| 18/Jul/24 | 3,100 | 1,800 | 1,550 | 1,150 | 1,700 |
-| 18/Aug/24 | 3,000 | 1,750 | 1,500 | 1,100 | 1,650 |
-| 18/Sep/24 | 2,800 | 1,600 | 1,400 | 1,000 | 1,500 |
-| 18/Oct/24 | 2,400 | 1,400 | 1,300 | 900 | 1,300 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| $/day |  |  |  |  |
-| 18/Oct/23 | 20,000 | 12,000 | 10,000 | 8,000 |
-| 18/Nov/23 | 18,000 | 11,000 | 9,000 | 7,000 |
-| 18/Dec/23 | 55,000 | 15,000 | 12,000 | 10,000 |
-| 18/Jan/24 | 14,000 | 10,000 | 8,000 | 6,000 |
-| 18/Feb/24 | 16,000 | 11,000 | 9,000 | 7,000 |
-| 18/Mar/24 | 32,000 | 18,000 | 14,000 | 11,000 |
-| 18/Apr/24 | 28,000 | 16,000 | 13,000 | 10,000 |
-| 18/May/24 | 24,000 | 14,000 | 11,000 | 9,000 |
-| 18/Jul/24 | 26,000 | 15,000 | 12,000 | 9,500 |
-| 18/Aug/24 | 25,000 | 14,500 | 11,500 | 9,000 |
-| 18/Sep/24 | 23,000 | 13,000 | 10,500 | 8,500 |
-| 18/Oct/24 | 19,000 | 12,000 | 10,000 | 8,000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Oct-24 avg | Sep-24 avg | ±% | 2023 | 2022 | 2021 |

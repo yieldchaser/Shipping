@@ -69,40 +69,10 @@ Looking at the fundamentals, it is clear that the supply of LNG carriers will in
 | --- | --- | --- | --- | --- | --- |
 | 24 mos | HORIZON ARMONIA | 2008 | 50,326 dwt | $28,000/day |  |
 | 10 mos | CELSIUS PORTSMOUTH | 2021 | 50,299 dwt | $30,000/day |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 26/Jan/23 | 100 | 150 | 180 |
-| 26/Feb/23 | 80 | 140 | 380 |
-| 26/Mar/23 | 70 | 130 | 360 |
-| 26/Apr/23 | 60 | 120 | 350 |
-| 26/May/23 | 50 | 110 | 340 |
-| 26/Jun/23 | 40 | 100 | 150 |
-| 26/Jul/23 | 30 | 90 | 140 |
-| 26/Aug/23 | 20 | 80 | 130 |
-| 26/Sep/23 | 10 | 70 | 280 |
-| 26/Oct/23 | 5 | 60 | 260 |
-| 26/Nov/23 | 5 | 50 | 120 |
-| 26/Dec/23 | 5 | 40 | 110 |
-| 26/Jan/24 | 350 | 120 | 390 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 26/Jan/23 | 150 | 180 | 200 | 220 |
-| 26/Feb/23 | 140 | 170 | 450 | 210 |
-| 26/Mar/23 | 130 | 160 | 250 | 200 |
-| 26/Apr/23 | 120 | 150 | 240 | 190 |
-| 26/May/23 | 110 | 140 | 230 | 180 |
-| 26/Jun/23 | 100 | 130 | 220 | 170 |
-| 26/Jul/23 | 90 | 120 | 210 | 160 |
-| 26/Aug/23 | 80 | 110 | 200 | 150 |
-| 26/Sep/23 | 70 | 100 | 190 | 140 |
-| 26/Oct/23 | 60 | 90 | 180 | 130 |
-| 26/Nov/23 | 50 | 80 | 170 | 120 |
-| 26/Dec/23 | 40 | 70 | 160 | 110 |
-| 26/Jan/24 | 350 | 380 | 360 | 370 |
 ## Indicative Market Values ($ Million) - Tankers
 
 | Sector | Size | Jan-24 avg | Dec-23 avg | ±% | 2023 | 2022 | 2021 |
@@ -153,41 +123,9 @@ Suezmax T/C earnings averaged \$55,051/day, down - \$15,273/day w-o-w. On the Af
 | **Handysize** | **32K 1yr TC** | 13,250 | 13,000 | **1.9%** | **250** | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 26/Jan/23 | 1000 | 1000 | 800 | 600 | 1000 |
-| 26/Feb/23 | 1500 | 1200 | 900 | 700 | 1200 |
-| 26/Mar/23 | 2000 | 1400 | 1000 | 800 | 1500 |
-| 26/Apr/23 | 2500 | 1600 | 1100 | 900 | 2000 |
-| 26/May/23 | 2200 | 1500 | 1000 | 850 | 1800 |
-| 26/Jun/23 | 1800 | 1300 | 900 | 750 | 1400 |
-| 26/Jul/23 | 1600 | 1200 | 850 | 700 | 1300 |
-| 26/Aug/23 | 2000 | 1500 | 950 | 800 | 1600 |
-| 26/Sep/23 | 3000 | 2000 | 1200 | 1000 | 2500 |
-| 26/Oct/23 | 4000 | 2500 | 1500 | 1200 | 3500 |
-| 26/Nov/23 | 6500 | 3000 | 1800 | 1500 | 6000 |
-| 26/Dec/23 | 4500 | 2800 | 1600 | 1400 | 3000 |
-| 26/Jan/24 | 2000 | 1500 | 1200 | 1000 | 1800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 26/Jan/23 | 10000 | 8000 | 7000 | 6000 |
-| 26/Feb/23 | 12000 | 10000 | 8500 | 7500 |
-| 26/Mar/23 | 15000 | 12000 | 10000 | 8000 |
-| 26/Apr/23 | 18000 | 14000 | 11000 | 9000 |
-| 26/May/23 | 16000 | 13000 | 10500 | 8500 |
-| 26/Jun/23 | 12000 | 10000 | 8500 | 7500 |
-| 26/Jul/23 | 10000 | 8000 | 7000 | 6000 |
-| 26/Aug/23 | 14000 | 11000 | 9000 | 7000 |
-| 26/Sep/23 | 25000 | 20000 | 15000 | 10000 |
-| 26/Oct/23 | 35000 | 25000 | 18000 | 12000 |
-| 26/Nov/23 | 55000 | 20000 | 15000 | 10000 |
-| 26/Dec/23 | 45000 | 18000 | 14000 | 9000 |
-| 26/Jan/24 | 15000 | 12000 | 10000 | 8000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jan-24 avg | Dec-23 avg | ±% | 2023 | 2022 |

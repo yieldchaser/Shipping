@@ -120,39 +120,9 @@ The Baltic Exchange
 | **Aframax** | **110KT DH** | 45.2 | 44.0 | **2.7%** | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 34.5 | 33.5 | **3.0%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 31.0 | 29.0 | **6.9%** | 27.6 | 27.5 | 28.6 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 29/APR/21 | 30 | 80 | 100 |
-| 29/MAY/21 | 30 | 80 | 100 |
-| 29/JUN/21 | 30 | 80 | 100 |
-| 29/JUL/21 | 30 | 80 | 100 |
-| 29/AUG/21 | 30 | 80 | 100 |
-| 29/SEP/21 | 30 | 80 | 100 |
-| 29/OCT/21 | 30 | 80 | 100 |
-| 29/NOV/21 | 30 | 80 | 100 |
-| 29/DEC/21 | 30 | 80 | 100 |
-| 29/JAN/22 | 30 | 280 | 100 |
-| 28/FEB/22 | 30 | 290 | 280 |
-| 31/MAR/22 | 30 | 180 | 180 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| DATE | WS points | WS points | WS points | WS points |
-| 29/APR/21 | 100 | 120 | 140 | 160 |
-| 29/MAY/21 | 100 | 120 | 140 | 160 |
-| 29/JUN/21 | 100 | 120 | 140 | 160 |
-| 29/JUL/21 | 100 | 120 | 140 | 160 |
-| 29/AUG/21 | 100 | 120 | 140 | 160 |
-| 29/SEP/21 | 100 | 120 | 140 | 160 |
-| 29/OCT/21 | 100 | 120 | 140 | 160 |
-| 29/NOV/21 | 100 | 120 | 140 | 160 |
-| 29/DEC/21 | 100 | 120 | 140 | 160 |
-| 29/JAN/22 | 100 | 120 | 140 | 160 |
-| 28/FEB/22 | 100 | 120 | 140 | 430 |
-| 31/MAR/22 | 100 | 280 | 280 | 280 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -208,39 +178,9 @@ In the Aframax sector we had the sale of the "FSL HONG KONG" (115,940dwt-blt '07
 |  | **32K 1yr TC** | 23,000 | 23,000 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 29/Apr/21 | 4000 | 2800 | 2000 | 1500 | 5000 |
-| 29/May/21 | 4500 | 3000 | 2200 | 1600 | 5500 |
-| 29/Jun/21 | 5000 | 3500 | 2500 | 1700 | 6000 |
-| 29/Jul/21 | 5500 | 4000 | 2800 | 1800 | 6500 |
-| 29/Aug/21 | 6000 | 4500 | 3000 | 1900 | 7000 |
-| 29/Sep/21 | 7000 | 4800 | 3200 | 2000 | 8000 |
-| 29/Oct/21 | 10500 | 4500 | 3000 | 1800 | 5000 |
-| 29/Nov/21 | 4000 | 3500 | 2500 | 1700 | 4500 |
-| 29/Dec/21 | 3500 | 3200 | 2400 | 1600 | 4000 |
-| 29/Jan/22 | 2800 | 2800 | 2200 | 1500 | 3000 |
-| 28/Feb/22 | 2700 | 2700 | 2100 | 1500 | 2900 |
-| 31/Mar/22 | 2700 | 2700 | 2100 | 1500 | 2800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 29/Apr/21 | 40000 | 25000 | 24000 | 23000 |
-| 29/May/21 | 35000 | 26000 | 24500 | 23500 |
-| 29/Jun/21 | 34000 | 27000 | 25000 | 24000 |
-| 29/Jul/21 | 36000 | 28000 | 25500 | 24500 |
-| 29/Aug/21 | 38000 | 29000 | 26000 | 25000 |
-| 29/Sep/21 | 40000 | 30000 | 26500 | 25500 |
-| 29/Oct/21 | 85000 | 30000 | 26000 | 25000 |
-| 29/Nov/21 | 42000 | 26000 | 24000 | 23000 |
-| 29/Dec/21 | 30000 | 24000 | 22000 | 22000 |
-| 29/Jan/22 | 15000 | 23000 | 21000 | 21000 |
-| 28/Feb/22 | 30000 | 28000 | 25000 | 24000 |
-| 31/Mar/22 | 32000 | 29000 | 26000 | 25000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -371,34 +311,9 @@ In the Supramax sector we had the sale of the "BULK ORION" (56,155dwt-bl't '11, 
 
 The LNG and Container newbuilding deals continued firmly last week, with seven new LNG contracts from NYK and one more from the Norwegian Knutsen, while eight-teen Containers were ordered from SITC and Seaspan, followed by six new contracts for Aframax tankers, ordered by the Greek owner Navios Group. Starting with the LNG sector, Japanese owner NYK has placed an order for six 174.000 cbm LNG carriers at Hudong Zhonghua, at the price of around \$201,0m each, against a long-term T/C to CNOOC. One more deal was signed by the same owner with Hyundai Samho for a single 174.000 cbm LNG vessel, and to be chartered by the French EDF LNG Shipping. Lastly, Knutsen Group has concluded a deal for one 174.000cbm LNG units at the price of \$224,5m built in Hyundai Samho yard, as a part of the huge new-building project of the company, which includes a total of six-teen LNG units constructed in Korea, China and Spain. In the boxship sector, Chinese SITC has concluded a deal for the construction of ten 1,800teu containerships at Huanghai Shipbuilding. Additionally, the HK based Seaspan has signed a long-term T/C with MSC for eight 8.000teu LNG fuelled boxships, that are expected to be delivered in 2024-2025 from the K Shipbuilding. Regarding the tanker sector, Navios Group has signed a contract with Fujian Mawei, for four firm plus two optional LR2 vessels, against a T/C to Chevron.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 29/Apr/21 | 92 | 60 | 45 | 38 | 34 |
-| 29/May/21 | 95 | 62 | 46 | 39 | 34 |
-| 29/Jun/21 | 98 | 64 | 47 | 40 | 34 |
-| 29/Jul/21 | 102 | 66 | 48 | 41 | 35 |
-| 29/Aug/21 | 108 | 68 | 50 | 42 | 35 |
-| 29/Sep/21 | 112 | 70 | 54 | 44 | 36 |
-| 29/Oct/21 | 115 | 72 | 56 | 45 | 36 |
-| 29/Nov/21 | 116 | 74 | 57 | 46 | 36 |
-| 29/Dec/21 | 117 | 75 | 58 | 46 | 36 |
-| 28/Feb/22 | 118 | 76 | 59 | 47 | 36 |
-| 31/Mar/22 | 119 | 77 | 60 | 47 | 36 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 29/Apr/21 | 55 | 28 | 27 | 25 |
-| 29/May/21 | 57 | 29 | 28 | 25 |
-| 29/Jun/21 | 58 | 30 | 29 | 26 |
-| 29/Jul/21 | 59 | 31 | 30 | 26 |
-| 29/Aug/21 | 60 | 32 | 31 | 27 |
-| 29/Sep/21 | 60 | 33 | 32 | 27 |
-| 29/Oct/21 | 60 | 34 | 32 | 28 |
-| 29/Nov/21 | 60 | 34 | 33 | 28 |
-| 29/Dec/21 | 60 | 34 | 33 | 28 |
-| 29/Jan/22 | 61 | 35 | 33 | 28 |
-| 28/Feb/22 | 61 | 35 | 33 | 28 |
-| 31/Mar/22 | 61 | 35 | 34 | 28 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -432,20 +347,7 @@ The LNG and Container newbuilding deals continued firmly last week, with seven n
 
 On the demolition front, the activity remained quiet, amidst the end of the Ramadan period and the upcoming Eid holidays which are keeping buyers across the Indian-subcontinent market distracted. Bangladesh remains in the lowest position in terms of offered bids, as the weak domestic steel demand coupled with the upcoming holidays have thinned buyers' interest in new tonnage. Pakistan has lost some traction last week, giving up its leading position to Indian buyers whose domestic steel industry continues to benefit from the imposed sanctions against Russia, increasing notably its steel exports (noting a record 13.5 million tone during its last financial year. As a result, interest for scrap tonnage is strong with bids close to \$700/ldt, making Indian scrapyards the most attractive option at the time being. Lastly in India, both the imported scrap prices and domestic demand declined last week, which combined with the weak local currency and the impending Eid holidays period have resulted in a \$20/ldt w-o-w fall on average offered levels. Average prices in the different markets this week for tankers ranged between 410-680/ldt and those for dry bulk units between \$400-670/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 29/Apr/21 | 490 | 490 | 490 | 250 |
-| 29/May/21 | 540 | 500 | 540 | 260 |
-| 29/Jun/21 | 560 | 550 | 560 | 270 |
-| 29/Jul/21 | 570 | 560 | 570 | 280 |
-| 29/Aug/21 | 580 | 570 | 580 | 280 |
-| 29/Sep/21 | 590 | 580 | 590 | 285 |
-| 29/Oct/21 | 600 | 590 | 600 | 330 |
-| 29/Nov/21 | 600 | 550 | 600 | 330 |
-| 29/Dec/21 | 600 | 550 | 600 | 335 |
-| 29/Jan/22 | 610 | 560 | 610 | 340 |
-| 28/Feb/22 | 650 | 600 | 650 | 440 |
-| 31/Mar/22 | 660 | 660 | 660 | 450 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
 
 ## Demolition Sales
 

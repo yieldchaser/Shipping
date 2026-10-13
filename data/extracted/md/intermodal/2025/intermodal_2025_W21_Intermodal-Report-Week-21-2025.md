@@ -60,40 +60,9 @@ Given the importance of bauxite as a critical raw material for several industrie
 | **Dirty** | 55K | UKC-USG | 115 | 10,681 | 120 | 12,316 | -13.3% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 115 | 11,167 | 120 | 12,667 | -11.8% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 180 | 22,071 | 136 | 9,062 | **143.6%** | 26,872 | 46,194 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 23/Mar/24 | 50 | 100 | 150 |
-| 23/Jun/24 | 50 | 100 | 200 |
-| 23/Jul/24 | 50 | 100 | 200 |
-| 23/Aug/24 | 50 | 100 | 150 |
-| 23/Sep/24 | 50 | 100 | 250 |
-| 23/Oct/24 | 50 | 100 | 150 |
-| 23/Nov/24 | 50 | 100 | 150 |
-| 23/Dec/24 | 50 | 100 | 150 |
-| 23/Jan/25 | 50 | 100 | 150 |
-| 23/Feb/25 | 50 | 100 | 150 |
-| 23/Mar/25 | 50 | 100 | 150 |
-| 23/Apr/25 | 50 | 100 | 150 |
-| 23/May/25 | 50 | 100 | 150 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 23/Mar/24 | 280 | 180 | 280 | 280 |
-| 23/Jun/24 | 150 | 100 | 150 | 150 |
-| 23/Jul/24 | 120 | 100 | 120 | 120 |
-| 23/Aug/24 | 100 | 100 | 100 | 100 |
-| 23/Sep/24 | 100 | 100 | 300 | 100 |
-| 23/Oct/24 | 100 | 100 | 100 | 100 |
-| 23/Nov/24 | 150 | 150 | 150 | 150 |
-| 23/Dec/24 | 150 | 150 | 150 | 150 |
-| 23/Jan/25 | 150 | 150 | 150 | 150 |
-| 23/Feb/25 | 150 | 150 | 150 | 150 |
-| 23/Mar/25 | 150 | 150 | 150 | 150 |
-| 23/Apr/25 | 150 | 150 | 150 | 150 |
-| 23/May/25 | 150 | 150 | 150 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 23/05/2025 | 16/05/2025 | ±% | Diff | 2024 | 2023 |
@@ -146,23 +115,7 @@ Conversely, Aframax rates saw a notable recovery. Strong early-week demand in bo
 | BSI | 983 | $10,392 | 978 | $10,324 | 5 | 0.7% | 1,238 | 1,031 |
 | BHSI | 581 | $10,451 | 554 | $9,967 | 27 | 4.9% | 702 | 586 |
 
-### Baltic Indices (1-Year Trend)
-
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 23/May/24 | 2500 | 1800 | 1200 | 800 | 1600 |
-| 23/Jun/24 | 3500 | 1700 | 1100 | 700 | 1700 |
-| 23/Jul/24 | 3800 | 1600 | 1000 | 600 | 1600 |
-| 23/Aug/24 | 3200 | 1500 | 900 | 500 | 1500 |
-| 23/Sep/24 | 3400 | 1400 | 800 | 400 | 1400 |
-| 23/Oct/24 | 2800 | 1300 | 700 | 300 | 1300 |
-| 23/Nov/24 | 2200 | 1200 | 600 | 200 | 1200 |
-| 23/Dec/24 | 1000 | 1100 | 500 | 100 | 1100 |
-| 23/Jan/25 | 1500 | 1000 | 400 | 50 | 1000 |
-| 23/Feb/25 | 1800 | 900 | 300 | 0 | 900 |
-| 23/Mar/25 | 1900 | 800 | 200 | 0 | 800 |
-| 23/Apr/25 | 1800 | 700 | 100 | 0 | 700 |
-| 23/May/25 | 1800 | 700 | 100 | 0 | 700 |
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 23/05/2025 | 16/05/2025 | ±% | Diff | 2024 | 2023 |
@@ -176,23 +129,7 @@ Conversely, Aframax rates saw a notable recovery. Strong early-week demand in bo
 | **Handysize** | **32K 1yr TC** | 10,000 | 10,000 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 23/May/24 | 22000 | 14000 | 10000 | 6000 |
-| 23/Jun/24 | 24000 | 13500 | 9500 | 5500 |
-| 23/Jul/24 | 30000 | 13000 | 9000 | 5000 |
-| 23/Aug/24 | 23000 | 12500 | 8500 | 4500 |
-| 23/Sep/24 | 25000 | 12000 | 8000 | 4000 |
-| 23/Oct/24 | 18000 | 11500 | 7500 | 3500 |
-| 23/Nov/24 | 10000 | 11000 | 7000 | 3000 |
-| 23/Dec/24 | 5000 | 10500 | 6500 | 2500 |
-| 23/Jan/25 | 8000 | 10000 | 6000 | 2000 |
-| 23/Feb/25 | 15000 | 9500 | 5500 | 1500 |
-| 23/Mar/25 | 16000 | 9000 | 5000 | 1000 |
-| 23/Apr/25 | 15000 | 8500 | 4500 | 500 |
-| 23/May/25 | 15000 | 8000 | 4000 | 0 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | May-25 avg | Apr-25 avg | ±% | 2024 | 2023 |

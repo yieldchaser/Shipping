@@ -50,40 +50,9 @@ The first half of 2024 has thus set a complex stage for the tanker market, marke
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 36 mos | TORM HELENE METRO AEGEAN | 2021 2024 | 115,575 dwt | $48,500/day | P66(CONOCO) 114,934 dwt Norden |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 5/Jul/23 | 100 | 120 | 150 |
-| 5/Aug/23 | 80 | 110 | 140 |
-| 5/Sep/23 | 70 | 100 | 130 |
-| 5/Oct/23 | 60 | 90 | 120 |
-| 5/Nov/23 | 50 | 80 | 110 |
-| 5/Dec/23 | 40 | 70 | 100 |
-| 5/Jan/24 | 30 | 60 | 90 |
-| 5/Feb/24 | 20 | 50 | 80 |
-| 5/Mar/24 | 10 | 40 | 70 |
-| 5/Apr/24 | 5 | 30 | 60 |
-| 5/May/24 | 10 | 35 | 65 |
-| 5/Jun/24 | 15 | 40 | 70 |
-| 5/Jul/24 | 20 | 45 | 75 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 5/Jul/23 | 150 | 160 | 170 | 180 |
-| 5/Aug/23 | 140 | 150 | 160 | 170 |
-| 5/Sep/23 | 130 | 140 | 150 | 160 |
-| 5/Oct/23 | 120 | 130 | 140 | 150 |
-| 5/Nov/23 | 110 | 120 | 130 | 140 |
-| 5/Dec/23 | 100 | 110 | 120 | 130 |
-| 5/Jan/24 | 90 | 100 | 110 | 120 |
-| 5/Feb/24 | 80 | 90 | 100 | 110 |
-| 5/Mar/24 | 70 | 80 | 90 | 100 |
-| 5/Apr/24 | 60 | 70 | 80 | 90 |
-| 5/May/24 | 70 | 80 | 90 | 100 |
-| 5/Jun/24 | 80 | 90 | 100 | 110 |
-| 5/Jul/24 | 90 | 100 | 110 | 120 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 05/07/24 | 28/06/24 | ±% | Diff | 2023 | 2022 |
@@ -150,41 +119,9 @@ On the Aframax front, it was a fairly stable week, with TD7 (Nsea/Cont) being hi
 | **Handysize** | **32K 1yr TC** | 12,500 | 12,500 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 5/Jul/23 | 1500 | 1000 | 800 | 600 | 1200 |
-| 5/Aug/23 | 2500 | 1500 | 1000 | 700 | 1400 |
-| 5/Sep/23 | 3000 | 2000 | 1200 | 800 | 1600 |
-| 5/Oct/23 | 3500 | 2500 | 1400 | 900 | 1800 |
-| 5/Nov/23 | 6500 | 3000 | 1600 | 1000 | 3000 |
-| 5/Dec/23 | 6000 | 3200 | 1700 | 1100 | 3200 |
-| 5/Jan/24 | 1500 | 1800 | 1300 | 800 | 1900 |
-| 5/Feb/24 | 2000 | 1600 | 1200 | 700 | 1700 |
-| 5/Mar/24 | 3000 | 2200 | 1500 | 900 | 2000 |
-| 5/Apr/24 | 2500 | 2000 | 1400 | 800 | 1800 |
-| 5/May/24 | 2800 | 2100 | 1300 | 750 | 1900 |
-| 5/Jun/24 | 3200 | 2300 | 1400 | 800 | 2000 |
-| 5/Jul/24 | 3500 | 2400 | 1450 | 850 | 2100 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 5/Jul/23 | 12000 | 10000 | 8000 | 6000 |
-| 5/Aug/23 | 15000 | 12000 | 9000 | 7000 |
-| 5/Sep/23 | 20000 | 14000 | 10000 | 8000 |
-| 5/Oct/23 | 25000 | 16000 | 11000 | 9000 |
-| 5/Nov/23 | 30000 | 18000 | 12000 | 10000 |
-| 5/Dec/23 | 55000 | 20000 | 13000 | 11000 |
-| 5/Jan/24 | 10000 | 15000 | 10000 | 8000 |
-| 5/Feb/24 | 15000 | 14000 | 9000 | 7000 |
-| 5/Mar/24 | 25000 | 17000 | 11000 | 9000 |
-| 5/Apr/24 | 20000 | 16000 | 10000 | 8000 |
-| 5/May/24 | 22000 | 15000 | 9500 | 7500 |
-| 5/Jun/24 | 28000 | 16000 | 10000 | 8000 |
-| 5/Jul/24 | 30000 | 17000 | 10500 | 8500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jul-24 avg | Jun-24 avg | ±% | 2023 | 2022 | 2021 |

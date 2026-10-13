@@ -82,38 +82,9 @@ The above constitute the main advantages of the Chinese shipbuilding sector, tog
 | --- | --- | --- | --- | --- | --- | --- |
 | 6 mos | PVT DOLPHIN | 2004 | 45,888 dwt | DELY EAST NOV/24 | $19,000 | Pertamina |
 | 6 mos | MAERSK AEGEAN | 2013 | 37,538 dwt | DELY EAST NOV/24 | $26,500/day | CEPSA |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 29/Nov/23 | 100 | 120 | 130 |
-| 29/Dec/23 | 80 | 115 | 125 |
-| 29/Jan/24 | 60 | 110 | 380 |
-| 29/Feb/24 | 70 | 110 | 180 |
-| 31/Mar/24 | 75 | 115 | 190 |
-| 30/Apr/24 | 70 | 110 | 170 |
-| 31/May/24 | 65 | 105 | 160 |
-| 30/Jun/24 | 60 | 100 | 150 |
-| 31/Jul/24 | 55 | 95 | 140 |
-| 31/Aug/24 | 50 | 90 | 130 |
-| 30/Sep/24 | 45 | 85 | 120 |
-| 31/Oct/24 | 40 | 80 | 110 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 29/Nov/23 | 150 | 140 | 160 | 170 |
-| 29/Dec/23 | 140 | 130 | 150 | 160 |
-| 29/Jan/24 | 350 | 340 | 330 | 320 |
-| 29/Feb/24 | 300 | 290 | 280 | 270 |
-| 31/Mar/24 | 280 | 270 | 260 | 250 |
-| 30/Apr/24 | 260 | 250 | 240 | 230 |
-| 31/May/24 | 240 | 230 | 220 | 210 |
-| 30/Jun/24 | 220 | 210 | 200 | 190 |
-| 31/Jul/24 | 200 | 190 | 180 | 170 |
-| 31/Aug/24 | 180 | 170 | 160 | 150 |
-| 30/Sep/24 | 160 | 150 | 140 | 130 |
-| 31/Oct/24 | 140 | 130 | 120 | 110 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 29/11/24 | 22/11/24 | ±% | Diff | 2023 | 2022 |
@@ -182,39 +153,9 @@ In the Middle East Gulf, both LR2s and LR1s exhibited stability, with LR2s benef
 | **Handysize** | **32K 1yr TC** | 10,500 | 11,500 | -8.7% | -1,000 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 29/Nov/23 | 6500 | 2000 | 1500 | 1000 | 3000 |
-| 29/Dec/23 | 2000 | 1500 | 1200 | 1000 | 1500 |
-| 29/Jan/24 | 2500 | 1400 | 1300 | 1000 | 1600 |
-| 29/Feb/24 | 3500 | 1600 | 1400 | 1100 | 1800 |
-| 31/Mar/24 | 3000 | 1500 | 1300 | 1000 | 1700 |
-| 30/Apr/24 | 2800 | 1400 | 1200 | 1000 | 1600 |
-| 31/May/24 | 2600 | 1400 | 1200 | 1000 | 1500 |
-| 30/Jun/24 | 2700 | 1400 | 1200 | 1000 | 1500 |
-| 31/Jul/24 | 2500 | 1300 | 1100 | 1000 | 1400 |
-| 31/Aug/24 | 2400 | 1300 | 1100 | 1000 | 1400 |
-| 30/Sep/24 | 2300 | 1300 | 1100 | 1000 | 1400 |
-| 31/Oct/24 | 2200 | 1200 | 1000 | 1000 | 1300 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 29/Nov/23 | 55000 | 18000 | 12000 | 10000 |
-| 29/Dec/23 | 15000 | 14000 | 11000 | 10000 |
-| 29/Jan/24 | 18000 | 13000 | 10000 | 9000 |
-| 29/Feb/24 | 32000 | 14000 | 10000 | 9000 |
-| 31/Mar/24 | 30000 | 13000 | 10000 | 9000 |
-| 30/Apr/24 | 26000 | 13000 | 10000 | 9000 |
-| 31/May/24 | 24000 | 12000 | 9000 | 8000 |
-| 30/Jun/24 | 25000 | 12000 | 9000 | 8000 |
-| 31/Jul/24 | 23000 | 11000 | 8000 | 8000 |
-| 31/Aug/24 | 22000 | 11000 | 8000 | 8000 |
-| 30/Sep/24 | 21000 | 11000 | 8000 | 8000 |
-| 31/Oct/24 | 19000 | 10000 | 7000 | 7000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Nov-24 avg | Oct-24 avg | ±% | 2023 | 2022 |

@@ -24,11 +24,7 @@ source_file: "corpus/08-baltic/dry/2017/2017_bulk-report-week35_dry.html"
 
 ***We are pleased to announce that David Knights has joined the Baltic Freight Market reporting team. 
 
- David brings with him a wealth of experience and knowledge from his many years at Clarksons which will be invaluable as we strive to maintain the necessary service for all our members and users.
-
- Direct Tel: 0207 369 1671
-
- Mobile: 07764 556 637***
+ David brings with him a wealth of experience and knowledge from his many years at Clarksons which will be invaluable as we strive to maintain the necessary service for all our members and users.***
 
 ### Capesize
 

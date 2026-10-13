@@ -90,38 +90,9 @@ Shanghai 200122 China
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | AQUAFREEDOM | 2022 | 157,747 dwt | $53,000/day | Clearlake |
 | 36 mos | IONIC ANAX | 2017 | 114,720 dwt | $35,750/day | Chevron |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 28/APR/22 | 150 | 180 | 160 |
-| 28/MAY/22 | 140 | 200 | 170 |
-| 28/JUN/22 | 130 | 300 | 250 |
-| 28/JUL/22 | 120 | 280 | 240 |
-| 28/AUG/22 | 110 | 260 | 230 |
-| 28/SEP/22 | 100 | 240 | 220 |
-| 28/OCT/22 | 90 | 220 | 420 |
-| 28/NOV/22 | 80 | 200 | 620 |
-| 28/DEC/22 | 70 | 180 | 150 |
-| 28/JAN/23 | 60 | 160 | 140 |
-| 28/FEB/23 | 50 | 140 | 350 |
-| 31/MAR/23 | 40 | 120 | 100 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 28/APR/22 | 280 | 290 | 270 | 260 |
-| 28/MAY/22 | 300 | 310 | 280 | 480 |
-| 28/JUN/22 | 290 | 300 | 270 | 450 |
-| 28/JUL/22 | 270 | 280 | 260 | 350 |
-| 28/AUG/22 | 260 | 270 | 250 | 320 |
-| 28/SEP/22 | 250 | 260 | 240 | 300 |
-| 28/OCT/22 | 240 | 250 | 230 | 380 |
-| 28/NOV/22 | 230 | 240 | 220 | 420 |
-| 28/DEC/22 | 100 | 110 | 100 | 120 |
-| 28/JAN/23 | 90 | 100 | 90 | 110 |
-| 28/FEB/23 | 150 | 160 | 140 | 450 |
-| 31/MAR/23 | 140 | 150 | 130 | 180 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 28/04/23 | 21/04/23 | ±% | Diff | 2022 | 2021 |
@@ -201,39 +172,9 @@ In the small size sector we had the sale of the “MAREX NOA” (12,479dwt-blt '
 | 5 to 7 mos | TAHITI ONE | 2012 | 81,291 dwt | dely CIK 6/11 May | 16,500/day | Tongli |
 | 5 to 7 mos | CK ANGIE | 2011 | 81,922 dwt | dely Caofeidian 27/28 Apr | $17,000/day | Smart Gain |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 28/Apr/22 | 2800 | 2800 | 2700 | 1600 | 2900 |
-| 28/May/22 | 4800 | 3000 | 2900 | 1500 | 4500 |
-| 28/Jun/22 | 2600 | 2500 | 2400 | 1400 | 2400 |
-| 28/Jul/22 | 2400 | 2300 | 2200 | 1300 | 2200 |
-| 28/Aug/22 | 700 | 1800 | 1700 | 1200 | 1000 |
-| 28/Sep/22 | 2000 | 1900 | 1800 | 1100 | 1800 |
-| 28/Oct/22 | 1800 | 1700 | 1600 | 1000 | 1600 |
-| 28/Nov/22 | 1600 | 1500 | 1400 | 900 | 1400 |
-| 28/Dec/22 | 2500 | 1600 | 1500 | 900 | 2000 |
-| 28/Jan/23 | 1200 | 1100 | 1000 | 800 | 1100 |
-| 28/Feb/23 | 1100 | 1200 | 1000 | 800 | 1000 |
-| 31/Mar/23 | 1800 | 1700 | 1400 | 900 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 28/Apr/22 | 28000 | 28000 | 29000 | 28000 |
-| 28/May/22 | 38000 | 26000 | 27000 | 25000 |
-| 28/Jun/22 | 26000 | 24000 | 23000 | 22000 |
-| 28/Jul/22 | 18000 | 18000 | 17000 | 16000 |
-| 28/Aug/22 | 3000 | 14000 | 15000 | 14000 |
-| 28/Sep/22 | 16000 | 16000 | 16000 | 14000 |
-| 28/Oct/22 | 15000 | 15000 | 14000 | 13000 |
-| 28/Nov/22 | 14000 | 14000 | 13000 | 12000 |
-| 28/Dec/22 | 22000 | 15000 | 14000 | 11000 |
-| 28/Jan/23 | 8000 | 10000 | 9000 | 8000 |
-| 28/Feb/23 | 7000 | 12000 | 10000 | 8000 |
-| 31/Mar/23 | 15000 | 14000 | 13000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -324,39 +265,10 @@ In the Panamax sector we had the sale of the "PALMA BULKER" (75,843dwt-blt '09, 
 
 The newbuilding market continued to be very active last week with a total of 30 vessels ordered. Once again, the tanker sector saw the most orders with 22 vessels, while the bulk carrier sector was subdued with only 2 vessels ordered. Aframax/LR2 orders have the lion's share of 2023 newbuilding activity - A total of 3.9 million dwt were ordered between January and April 2023, up by 1.0 million dwt compared to the total volume in 2022. Suezmax orders amounted to 3.14 million dwt (2022 volume 1.71 million dwt), while no VLCCs were ordered. Greek owner Dynacom ordered 10 firm and 4 optional 115,000dwt tankers from Dalian Shipbuilding. The owner is paying \$63m apiece, with all vessels to be scrubber-equipped and expected to be delivered between 2025 and 2026. Another large order was placed by Japanese owner Nissen Kaiun, who ordered 8 firm 50,000 dwt tankers. All will be Tier III and EEDI Phase 3 compliant, costing \$46.3m each and expected to be in the water between 2024 and 2025. In the bulker sector, Union Maritime ordered two 63,000 dwt bulkers for delivery in 2025 at a cost of \$32m each.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 28/Apr/22 | 115 | 75 | 58 | 52 | 42 |
-| 28/May/22 | 118 | 78 | 59 | 53 | 43 |
-| 28/Jun/22 | 120 | 79 | 60 | 54 | 44 |
-| 28/Jul/22 | 120 | 80 | 60 | 54 | 44 |
-| 28/Aug/22 | 120 | 80 | 61 | 54 | 45 |
-| 28/Sep/22 | 120 | 80 | 61 | 54 | 45 |
-| 28/Oct/22 | 120 | 80 | 61 | 54 | 45 |
-| 28/Nov/22 | 120 | 80 | 61 | 54 | 45 |
-| 28/Dec/22 | 120 | 78 | 61 | 54 | 45 |
-| 28/Jan/23 | 120 | 78 | 61 | 54 | 45 |
-| 28/Feb/23 | 120 | 76 | 62 | 54 | 45 |
-| 31/Mar/23 | 120 | 78 | 62 | 55 | 45 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 28/Apr/22 | 60 | 34 | 32 | 30 |
-| 28/May/22 | 61 | 35 | 33 | 30 |
-| 28/Jun/22 | 62 | 35 | 33 | 30 |
-| 28/Jul/22 | 62 | 35 | 33 | 30 |
-| 28/Aug/22 | 62 | 35 | 33 | 30 |
-| 28/Sep/22 | 61 | 34 | 32 | 29 |
-| 28/Oct/22 | 60 | 33 | 32 | 29 |
-| 28/Nov/22 | 60 | 33 | 32 | 29 |
-| 28/Dec/22 | 60 | 33 | 32 | 29 |
-| 28/Jan/23 | 60 | 33 | 32 | 29 |
-| 28/Feb/23 | 60 | 33 | 32 | 29 |
-| 31/Mar/23 | 60 | 33 | 32 | 29 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -399,20 +311,8 @@ The newbuilding market continued to be very active last week with a total of 30 
 
 Last week was a strong one for the recycling market with several deals taking place and the end of the Eid festivities. In terms of freight rates, the bulk carrier market has seen softer rates with the exception of Capes, while the tanker market is falling but still away from levels where scrapping makes sense. India led the way in terms of new business after the Eid holidays, with many deals taking place, particularly for HKC yards. Both local and global steel demand is still weak, which may push breakers to offer lower rates in the near future. Bangladesh is back in the market after the Ramadan and Eid holidays, but L/C restrictions are still in place. The local steel market was closed during the festivities and is worth monitoring over the coming weeks. On the IMF front, the fund is suggesting that the government should not reduce corporate tax rates and should not allow tax exemptions as far as the national budget is concerned. Pakistan continues to face financial constraints and despite the end of the Eid holidays, the country is still out of the market. In Turkey, the market is slower as there is an election in 2 weeks (14 May). The future of the market will be determined by the new policies that will be introduced after the election result. Average prices in the different markets this week for tankers ranged between 340-595/ldt and those for dry bulk units between \$330-585/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 28/Apr/22 | 680 | 670 | 675 | 420 |
-| 28/May/22 | 650 | 640 | 645 | 320 |
-| 28/Jun/22 | 570 | 560 | 565 | 250 |
-| 28/Jul/22 | 560 | 555 | 560 | 250 |
-| 28/Aug/22 | 580 | 570 | 575 | 250 |
-| 28/Sep/22 | 590 | 580 | 585 | 250 |
-| 28/Oct/22 | 585 | 575 | 580 | 250 |
-| 28/Nov/22 | 500 | 495 | 500 | 250 |
-| 28/Dec/22 | 500 | 495 | 500 | 250 |
-| 28/Jan/23 | 530 | 525 | 530 | 250 |
-| 28/Feb/23 | 590 | 580 | 585 | 320 |
-| 31/Mar/23 | 580 | 570 | 575 | 330 |
+> **Chart (not transcribed):** Currencies. The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

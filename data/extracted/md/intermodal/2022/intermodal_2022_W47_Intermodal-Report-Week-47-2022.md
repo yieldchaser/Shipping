@@ -166,40 +166,9 @@ In the MR1 sector we had the sale of the "PETROLIMEX 10" (37,256dwt-blt '03, S. 
 | **Handysize** | **32K 6mnt TC** | 10,750 | 10,750 | 0.0% | 0 | 22,976 | 8,298 |
 |  | **32K 1yr TC** | 11,000 | 10,500 | **4.8%** | **500** | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 9,000 | 9,000 | 0.0% | 0 | 11,825 | 8,486 |
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 25/Nov/21 | 2800 | 2700 | 2600 | 1800 | 4500 |
-| 25/Dec/21 | 2400 | 2300 | 2200 | 1600 | 3800 |
-| 25/Jan/22 | 2500 | 2400 | 2300 | 1700 | 2900 |
-| 25/Feb/22 | 2700 | 2600 | 2500 | 1800 | 3000 |
-| 25/Mar/22 | 2900 | 2800 | 2700 | 1900 | 3200 |
-| 25/Apr/22 | 3000 | 2900 | 2800 | 2000 | 3500 |
-| 25/May/22 | 4200 | 3800 | 3500 | 2100 | 4400 |
-| 25/Jun/22 | 2600 | 2500 | 2400 | 1700 | 2800 |
-| 25/Jul/22 | 2500 | 2400 | 2300 | 1600 | 2700 |
-| 25/Aug/22 | 2200 | 2100 | 2000 | 1500 | 2400 |
-| 25/Sep/22 | 2300 | 2200 | 2100 | 1500 | 2500 |
-| 25/Oct/22 | 2400 | 2300 | 2200 | 1600 | 2600 |
-| 25/Nov/22 | 2400 | 2300 | 2200 | 1600 | 2500 |
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 25/Nov/21 | 25000 | 23000 | 24000 | 22000 |
-| 25/Dec/21 | 38000 | 24000 | 23000 | 21000 |
-| 25/Jan/22 | 12000 | 22000 | 21000 | 20000 |
-| 25/Feb/22 | 18000 | 23000 | 22000 | 20000 |
-| 25/Mar/22 | 28000 | 29000 | 28000 | 21000 |
-| 25/Apr/22 | 26000 | 27000 | 26000 | 20000 |
-| 25/May/22 | 34000 | 30000 | 29000 | 22000 |
-| 25/Jun/22 | 24000 | 25000 | 24000 | 19000 |
-| 25/Jul/22 | 14000 | 21000 | 20000 | 18000 |
-| 25/Aug/22 | 9000 | 18000 | 17000 | 16000 |
-| 25/Sep/22 | 16000 | 19000 | 18000 | 15000 |
-| 25/Oct/22 | 14000 | 17000 | 16000 | 14000 |
-| 25/Nov/22 | 12000 | 15000 | 14000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -288,41 +257,10 @@ In the Panamax sector we had the sale of the "NORD LIBRA" (77,134dwt-bl't '14, J
 
 The newbuilding ordering activity continues to witness a steady number of materialized deals in November. In the tanker realm, Eastern Pacific ordered two 50,000dwt MR2 units at Hyundai Vinashin for a price of \$43.0m each. On the dry bulk front, STX Dalian which was acquired by Hengli Group in July this year, has resumed its operation with an order of four 20,000 Handysize units which were also placed by Hengli Group. Both price and delivery date remain undisclosed. Lastly, in the LNG sector, US-based owner Seapeak placed an order for five 174,000cbm LNG units at Samsung shipyard for a price of \$215.46m each, while a 10-year T/C to ExxonMobil is following this order.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 25/Nov/21 | 108 | 76 | 58 | 48 | 42 |
-| 25/Dec/21 | 110 | 76 | 58 | 48 | 42 |
-| 25/Jan/22 | 112 | 77 | 59 | 49 | 42 |
-| 25/Feb/22 | 114 | 78 | 60 | 50 | 43 |
-| 25/Mar/22 | 115 | 78 | 60 | 51 | 43 |
-| 25/Apr/22 | 116 | 77 | 60 | 51 | 43 |
-| 25/May/22 | 116 | 78 | 61 | 52 | 43 |
-| 25/Jun/22 | 117 | 78 | 61 | 53 | 44 |
-| 25/Jul/22 | 118 | 78 | 61 | 53 | 44 |
-| 25/Aug/22 | 118 | 78 | 61 | 53 | 44 |
-| 25/Sep/22 | 118 | 78 | 62 | 53 | 44 |
-| 25/Oct/22 | 118 | 78 | 62 | 53 | 44 |
-| 25/Nov/22 | 118 | 78 | 62 | 53 | 44 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 25/Nov/21 | 60 | 33 | 32 | 30 |
-| 25/Dec/21 | 60 | 33 | 32 | 30 |
-| 25/Jan/22 | 60 | 33 | 32 | 30 |
-| 25/Feb/22 | 61 | 33 | 32 | 30 |
-| 25/Mar/22 | 61 | 33 | 32 | 30 |
-| 25/Apr/22 | 62 | 33 | 32 | 30 |
-| 25/May/22 | 62 | 34 | 32 | 30 |
-| 25/Jun/22 | 62 | 34 | 33 | 30 |
-| 25/Jul/22 | 62 | 34 | 33 | 30 |
-| 25/Aug/22 | 62 | 33 | 32 | 29 |
-| 25/Sep/22 | 61 | 33 | 32 | 29 |
-| 25/Oct/22 | 61 | 32 | 32 | 29 |
-| 25/Nov/22 | 60 | 32 | 32 | 29 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -354,23 +292,7 @@ The newbuilding ordering activity continues to witness a steady number of materi
 
 Sentiment in the demolition market remained subdued for another week while no further decline in offered scrap prices was recorded. The stability of offers could be attributed to the fact that amidst the scarcity of candidates, a further decline would lead to inactivity in an overall almost muted demolition market. In India, the announcement of the reduction in export duties was followed by an increase in the domestic steel prices which however proved to be very short-lived. Just one week later steel prices have lost all their gains while even posting below their previous week's levels amidst weak local demand. In Bangladesh, L/C restrictions continue to be the main burden for breakers whose capability to secure tonnage remains defective while the recent local currency devaluation is adding further pressure to them. Lastly in Pakistan, the construction sector has yet to lead to an increase in domestic steel demand which in turn, makes breakers absent from securing tonnage especially given the current economic and political uncertainty that prevails in the country. Average prices in the different markets this week for tankers ranged between 250-530/ldt and those for dry bulk units between \$240-525/ldt.
 
-### Tanker Demolition Prices
-
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 25/Nov/21 | 625 | 560 | 620 | 330 |
-| 25/Dec/21 | 630 | 570 | 625 | 330 |
-| 25/Jan/22 | 640 | 580 | 630 | 340 |
-| 25/Feb/22 | 670 | 600 | 660 | 420 |
-| 25/Mar/22 | 680 | 610 | 670 | 450 |
-| 25/Apr/22 | 675 | 600 | 670 | 450 |
-| 25/May/22 | 640 | 570 | 560 | 330 |
-| 25/Jul/22 | 560 | 550 | 550 | 250 |
-| 25/Jun/22 | 570 | 560 | 560 | 260 |
-| 25/Aug/22 | 600 | 580 | 580 | 255 |
-| 25/Sep/22 | 610 | 590 | 590 | 255 |
-| 25/Oct/22 | 620 | 590 | 600 | 250 |
-| 25/Nov/22 | 540 | 540 | 540 | 250 |
+> **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 
 ## Demolition Sales
 

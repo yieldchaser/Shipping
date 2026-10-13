@@ -13,24 +13,7 @@ By Nikos Tagoulis, Senior Analyst
 
 As the shipping industry accelerates its transition towards green-er practices, in line with the respective maritime regulations, LNG has emerged as a leading alternative to conventional marine fuels, adopted by an increasing number of shipping groups. This trend is reflected in the increasing number of LNG-capable vessels, which are steadily gaining an expanding share of the global fleet. More specifically, as of March 2025, there are 1,329 vessels capable of using LNG as fuel, with a total carrying capacity of 110 m gt, representing a 24% y-o-y increase in gross tonnage. Comparatively, in 2020, only 558 such vessels existed, amounting to 43.3 million gt. The orderbook presents similar dynamics, currently comprising 1,037 vessels totaling 106 m gt, marking a 30% y-o-y increase. The number of LNG capable vessels increases steadily over the last years, standing currently at 6.56% of the global fleet and the same applies for new orders, reading 37.79% of the global orderbook.
 
-### LNG Capable Fleet and Orderbook - % Share to Global
-
-| Date | Total LNG Capable Fleet | Total LNG Capable Orderbook |
-| --- | --- | --- |
-| Jan-2010 | 0.0 | 0.0 |
-| Mar-2011 | 6.0 | 1.0 |
-| May-2012 | 7.0 | 1.5 |
-| Jul-2013 | 8.0 | 2.0 |
-| Sep-2014 | 9.0 | 2.5 |
-| Nov-2015 | 10.0 | 3.0 |
-| Jan-2017 | 12.0 | 3.5 |
-| Mar-2018 | 13.0 | 4.0 |
-| May-2019 | 15.0 | 4.5 |
-| Jul-2020 | 18.0 | 5.0 |
-| Sep-2021 | 30.0 | 5.5 |
-| Nov-2022 | 38.0 | 6.0 |
-| Jan-2024 | 40.0 | 6.5 |
-| Mar-2025 | 37.0 | 6.8 |
+> **Chart (not transcribed):** LNG Capable Fleet and Orderbook - % Share to Global. The report prints no values for it.
 
 yards. Ownership is concentrated in East Asia and Europe (Japan, S. Korea, Spain).
 
@@ -100,40 +83,9 @@ Alongside the growth of the LNG bunkering fleet, LNG port infrastructure has exp
 | **LR1** | 75KT DH | 51.0 | 51.0 | 0.0% | 53.8 | 49.2 | 38.6 |
 | **MR** | 52KT DH | 41.0 | 41.0 | 0.0% | 45.8 | 41.4 | 34.8 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 21/Mar/24 | 60 | 120 | 180 |
-| 21/Apr/24 | 70 | 125 | 190 |
-| 21/May/24 | 65 | 120 | 200 |
-| 21/jun/24 | 75 | 130 | 210 |
-| 21/Jul/24 | 50 | 110 | 150 |
-| 21/Aug/24 | 55 | 115 | 160 |
-| 21/Sep/24 | 45 | 100 | 140 |
-| 21/Oct/24 | 40 | 90 | 200 |
-| 21/Nov/24 | 50 | 100 | 150 |
-| 21/Dec/24 | 55 | 105 | 160 |
-| 21/Jan/25 | 60 | 110 | 170 |
-| 21/Feb/25 | 65 | 115 | 180 |
-| 21/Mar/25 | 70 | 120 | 190 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 21/Mar/24 | 180 | 190 | 200 | 210 |
-| 21/Apr/24 | 170 | 185 | 195 | 205 |
-| 21/May/24 | 160 | 175 | 185 | 195 |
-| 21/jun/24 | 150 | 165 | 175 | 185 |
-| 21/Jul/24 | 140 | 155 | 165 | 175 |
-| 21/Aug/24 | 130 | 145 | 155 | 165 |
-| 21/Sep/24 | 120 | 135 | 145 | 155 |
-| 21/Oct/24 | 110 | 125 | 135 | 145 |
-| 21/Nov/24 | 120 | 130 | 140 | 150 |
-| 21/Dec/24 | 130 | 140 | 150 | 160 |
-| 21/Jan/25 | 140 | 150 | 160 | 170 |
-| 21/Feb/25 | 150 | 160 | 170 | 180 |
-| 21/Mar/25 | 160 | 170 | 180 | 190 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -172,41 +124,9 @@ Dry Bulk Market
 | **Handysize** | **32K 1yr TC** | 10,500 | 10,000 | **5.0%** | **500** | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 21/Mar/24 | 3500 | 1800 | 1400 | 800 | 2000 |
-| 21/Apr/24 | 3800 | 1900 | 1500 | 900 | 2200 |
-| 21/May/24 | 3600 | 1850 | 1450 | 850 | 2100 |
-| 21/Jun/24 | 4200 | 2000 | 1600 | 1000 | 2500 |
-| 21/Jul/24 | 4500 | 2100 | 1700 | 1100 | 2800 |
-| 21/Aug/24 | 3900 | 1950 | 1550 | 950 | 2300 |
-| 21/Sep/24 | 3700 | 1800 | 1400 | 800 | 2000 |
-| 21/Oct/24 | 2800 | 1500 | 1100 | 600 | 1500 |
-| 21/Nov/24 | 2500 | 1400 | 1000 | 500 | 1400 |
-| 21/Dec/24 | 2400 | 1300 | 900 | 400 | 1300 |
-| 21/Jan/25 | 2600 | 1400 | 1000 | 500 | 1400 |
-| 21/Feb/25 | 2700 | 1500 | 1100 | 600 | 1500 |
-| 21/Mar/25 | 3000 | 1600 | 1200 | 700 | 1700 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 21/Mar/24 | 28000 | 16000 | 12000 | 8000 |
-| 21/Apr/24 | 26000 | 15000 | 11000 | 7000 |
-| 21/May/24 | 24000 | 14000 | 10000 | 6000 |
-| 21/Jun/24 | 32000 | 17000 | 13000 | 9000 |
-| 21/Jul/24 | 35000 | 18000 | 14000 | 10000 |
-| 21/Aug/24 | 29000 | 16000 | 12000 | 8000 |
-| 21/Sep/24 | 27000 | 15000 | 11000 | 7000 |
-| 21/Oct/24 | 18000 | 11000 | 8000 | 5000 |
-| 21/Nov/24 | 16000 | 10000 | 7000 | 4000 |
-| 21/Dec/24 | 15000 | 9000 | 6000 | 3000 |
-| 21/Jan/25 | 16000 | 9000 | 6000 | 3000 |
-| 21/Feb/25 | 17000 | 10000 | 7000 | 4000 |
-| 21/Mar/25 | 22000 | 12000 | 9000 | 5000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Mar-25 avg | Feb-25 avg | ±% | 2024 | 2023 |

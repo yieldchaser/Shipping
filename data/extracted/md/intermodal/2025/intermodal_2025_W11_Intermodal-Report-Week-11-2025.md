@@ -80,40 +80,9 @@ Ongoing geopolitical developments in 2025 appear to be a key factor affecting th
 ## Indicative Period Charters
 
 no fresh sales to report
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 14/Mar/24 | 80 | 120 | 180 |
-| 14/Apr/24 | 75 | 115 | 170 |
-| 14/May/24 | 70 | 110 | 160 |
-| 14/Jun/24 | 65 | 105 | 150 |
-| 14/Jul/24 | 60 | 100 | 140 |
-| 14/Aug/24 | 55 | 95 | 130 |
-| 14/Sep/24 | 50 | 90 | 120 |
-| 14/Oct/24 | 45 | 85 | 110 |
-| 14/Nov/24 | 40 | 80 | 100 |
-| 14/Dec/24 | 35 | 75 | 90 |
-| 14/Jan/25 | 30 | 70 | 80 |
-| 14/Feb/25 | 25 | 65 | 70 |
-| 14/Mar/25 | 20 | 60 | 60 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 14/Mar/24 | 320 | 280 | 340 | 300 |
-| 14/Apr/24 | 280 | 240 | 300 | 260 |
-| 14/May/24 | 240 | 200 | 260 | 220 |
-| 14/Jun/24 | 200 | 160 | 220 | 180 |
-| 14/Jul/24 | 160 | 120 | 180 | 140 |
-| 14/Aug/24 | 120 | 80 | 140 | 100 |
-| 14/Sep/24 | 80 | 40 | 100 | 60 |
-| 14/Oct/24 | 40 | 0 | 60 | 20 |
-| 14/Nov/24 | 0 | 0 | 20 | 0 |
-| 14/Dec/24 | 20 | 0 | 40 | 0 |
-| 14/Jan/25 | 40 | 0 | 60 | 0 |
-| 14/Feb/25 | 60 | 0 | 80 | 0 |
-| 14/Mar/25 | 80 | 0 | 100 | 0 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -154,41 +123,9 @@ Suezmax T/C earnings averaged \$ 46,816/day, up +26.60% w -o- w. On the Aframax 
 | **Handysize** | **32K 1yr TC** | 10,000 | 10,000 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 14/Mar/24 | 4000 | 2000 | 1000 | 800 | 2200 |
-| 14/Apr/24 | 3500 | 1800 | 1200 | 700 | 2000 |
-| 14/May/24 | 3800 | 1700 | 1100 | 750 | 1900 |
-| 14/Jun/24 | 3600 | 1600 | 1000 | 700 | 1800 |
-| 14/Jul/24 | 3400 | 1500 | 900 | 650 | 1700 |
-| 14/Aug/24 | 3200 | 1400 | 850 | 600 | 1600 |
-| 14/Sep/24 | 3000 | 1300 | 800 | 550 | 1500 |
-| 14/Oct/24 | 2800 | 1200 | 750 | 500 | 1400 |
-| 14/Nov/24 | 2600 | 1100 | 700 | 450 | 1300 |
-| 14/Dec/24 | 2400 | 1000 | 650 | 400 | 1200 |
-| 14/Jan/25 | 2200 | 900 | 600 | 350 | 1100 |
-| 14/Feb/25 | 2000 | 800 | 550 | 300 | 1000 |
-| 14/Mar/25 | 2800 | 1200 | 800 | 500 | 1500 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 14/Mar/24 | 32000 | 16000 | 12000 | 10000 |
-| 14/Apr/24 | 20000 | 14000 | 11000 | 9000 |
-| 14/May/24 | 24000 | 13000 | 10000 | 8500 |
-| 14/Jun/24 | 28000 | 12000 | 9500 | 8000 |
-| 14/Jul/24 | 32000 | 11000 | 9000 | 7500 |
-| 14/Aug/24 | 26000 | 10000 | 8500 | 7000 |
-| 14/Sep/24 | 24000 | 9000 | 8000 | 6500 |
-| 14/Oct/24 | 22000 | 8000 | 7500 | 6000 |
-| 14/Nov/24 | 18000 | 7000 | 7000 | 5500 |
-| 14/Dec/24 | 10000 | 6000 | 6500 | 5000 |
-| 14/Jan/25 | 12000 | 6000 | 6000 | 4500 |
-| 14/Feb/25 | 8000 | 5000 | 5500 | 4000 |
-| 14/Mar/25 | 24000 | 10000 | 8000 | 7000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Mar-25 avg | Feb-25 avg | ±% | 2024 | 2023 | 2022 |

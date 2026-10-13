@@ -1415,9 +1415,11 @@ def generate_markdown(
             val_p = f"{b['prev_value']:,.0f}" if b.get('prev_value') else "-"
             chg = b.get('change_pct', '-')
             hist_parts = []
-            if b.get('avg_year_1'): hist_parts.append(f"2026: {b['avg_year_1']:,.0f}")
-            if b.get('avg_year_2'): hist_parts.append(f"2025: {b['avg_year_2']:,.0f}")
-            if b.get('avg_year_3'): hist_parts.append(f"2024: {b['avg_year_3']:,.0f}")
+            # the report heads these columns with its own year and the two before it (2024-26 PDFs checked)
+            y0 = int(str(issue_date)[:4])
+            if b.get('avg_year_1'): hist_parts.append(f"{y0}: {b['avg_year_1']:,.0f}")
+            if b.get('avg_year_2'): hist_parts.append(f"{y0 - 1}: {b['avg_year_2']:,.0f}")
+            if b.get('avg_year_3'): hist_parts.append(f"{y0 - 2}: {b['avg_year_3']:,.0f}")
             hist_str = " / ".join(hist_parts) if hist_parts else "-"
             lines.append(f"| {b.get('index_name')} | {val_c} | {val_p} | {chg} | {hist_str} |")
         lines.append("")

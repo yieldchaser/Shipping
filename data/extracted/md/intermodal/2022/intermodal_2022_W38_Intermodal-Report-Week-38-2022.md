@@ -108,41 +108,9 @@ Shanghai 200122 China
 | Handy | **36k 1yr TC** | 22,500 | 22,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 23/Sep/21 | 50 | 80 | 120 |
-| 23/Oct/21 | 55 | 85 | 125 |
-| 23/Nov/21 | 60 | 90 | 130 |
-| 23/Dec/21 | 65 | 95 | 135 |
-| 23/Jan/22 | 70 | 100 | 140 |
-| 23/Feb/22 | 75 | 290 | 145 |
-| 23/Mar/22 | 80 | 295 | 300 |
-| 23/Apr/22 | 85 | 290 | 280 |
-| 23/May/22 | 90 | 150 | 160 |
-| 23/Jun/22 | 95 | 180 | 180 |
-| 23/Jul/22 | 100 | 200 | 320 |
-| 23/Aug/22 | 100 | 250 | 300 |
-| 23/Sep/22 | 100 | 240 | 260 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 23/Sep/21 | 100 | 110 | 120 | 130 |
-| 23/Oct/21 | 110 | 120 | 130 | 140 |
-| 23/Nov/21 | 120 | 130 | 140 | 150 |
-| 23/Dec/21 | 130 | 140 | 150 | 160 |
-| 23/Jan/22 | 140 | 150 | 160 | 170 |
-| 23/Feb/22 | 150 | 160 | 170 | 300 |
-| 23/Mar/22 | 160 | 170 | 180 | 450 |
-| 23/Apr/22 | 170 | 180 | 190 | 480 |
-| 23/May/22 | 180 | 190 | 200 | 350 |
-| 23/Jun/22 | 190 | 200 | 210 | 300 |
-| 23/Jul/22 | 200 | 210 | 220 | 280 |
-| 23/Aug/22 | 210 | 220 | 230 | 260 |
-| 23/Sep/22 | 220 | 230 | 240 | 250 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Sep-22 avg | Aug-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -207,39 +175,9 @@ In the Suezmax sector we had the sale of the "VINGA" (158,982dwt-blt '12, S. Kor
 |  | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 23/Sep/21 | 4500 | 3500 | 3200 | 1800 | 10000 |
-| 23/Oct/21 | 10000 | 4000 | 3000 | 1600 | 5000 |
-| 23/Nov/21 | 3000 | 3000 | 2800 | 1700 | 3000 |
-| 23/Dec/21 | 4000 | 2800 | 2700 | 1600 | 2500 |
-| 23/Jan/22 | 2000 | 2500 | 2600 | 1500 | 2000 |
-| 23/Feb/22 | 2500 | 2600 | 2700 | 1600 | 2200 |
-| 23/Mar/22 | 2800 | 2700 | 2800 | 1700 | 2400 |
-| 23/Apr/22 | 3000 | 2800 | 2900 | 1800 | 2600 |
-| 23/May/22 | 4500 | 3000 | 3000 | 1900 | 3500 |
-| 23/Jul/22 | 2500 | 2600 | 2700 | 1700 | 2800 |
-| 23/Aug/22 | 2000 | 2400 | 2500 | 1600 | 1800 |
-| 23/Sep/22 | 1800 | 2300 | 2400 | 1600 | 1500 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 23/Sep/21 | 35000 | 36000 | 35000 | 34000 |
-| 23/Oct/21 | 85000 | 35000 | 34000 | 33000 |
-| 23/Nov/21 | 25000 | 26000 | 25000 | 24000 |
-| 23/Dec/21 | 30000 | 27000 | 26000 | 25000 |
-| 23/Jan/22 | 10000 | 25000 | 24000 | 23000 |
-| 23/Feb/22 | 25000 | 26000 | 27000 | 24000 |
-| 23/Mar/22 | 30000 | 28000 | 29000 | 25000 |
-| 23/Apr/22 | 35000 | 29000 | 30000 | 26000 |
-| 23/May/22 | 35000 | 30000 | 31000 | 27000 |
-| 23/Jul/22 | 18000 | 26000 | 27000 | 24000 |
-| 23/Aug/22 | 15000 | 24000 | 25000 | 22000 |
-| 23/Sep/22 | 16000 | 23000 | 24000 | 21000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -338,37 +276,10 @@ In the Ultramax sector we had the sale of the "ULTRA DYNAMIC" (61,412dwt-blt '11
 
 The newbuilding ordering activity continues to witness a steady number of materialized deals through September. In the tanker realm, Mitsui &amp; Co sealed a deal with Hyundai Vietnam for three 50,000dwt vessels at \$42.7m. Additionally, Swedish Furetank declared two options for two 17,999dwt LNG-fuelled vessels at CMJL Yangzhou. On the dry front, Jaldhi Overseas inked a deal with Yamic for the construction of four 66,000dwt vessels, which will meet EEDI phase 3 standards. Last but not least, in the gas sector, we continue to witness the owners' insatiable hunger for LNG carriers with Chinese CMES declaring an option for two 175,000cbm units at DSIC, while placing a fresh order for two firm plus two optional 175,000cbm dual-fuelled vessels. The owner will pay the competitive price of \$200.0m for the vessels which will be delivered in 2026.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 23/Sep/21 | 105 | 75 | 58 | 50 | 40 |
-| 23/Oct/21 | 106 | 76 | 58 | 50 | 40 |
-| 23/Nov/21 | 107 | 76 | 58 | 50 | 40 |
-| 23/Dec/21 | 108 | 76 | 58 | 50 | 40 |
-| 23/Jan/22 | 110 | 77 | 58 | 50 | 40 |
-| 23/Feb/22 | 111 | 77 | 58 | 50 | 40 |
-| 23/Mar/22 | 112 | 78 | 58 | 50 | 40 |
-| 23/Apr/22 | 113 | 78 | 58 | 50 | 40 |
-| 23/May/22 | 114 | 78 | 58 | 50 | 40 |
-| 23/Jun/22 | 115 | 79 | 59 | 51 | 40 |
-| 23/Jul/22 | 116 | 79 | 59 | 51 | 41 |
-| 23/Aug/22 | 117 | 79 | 60 | 51 | 41 |
-| 23/Sep/22 | 118 | 80 | 60 | 52 | 42 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 23/Sep/21 | 60 | 32 | 32 | 29 |
-| 23/Oct/21 | 60 | 32 | 32 | 29 |
-| 23/Nov/21 | 60 | 33 | 32 | 29 |
-| 23/Dec/21 | 60 | 33 | 32 | 29 |
-| 23/Jan/22 | 60 | 33 | 32 | 29 |
-| 23/Feb/22 | 61 | 33 | 32 | 29 |
-| 23/Mar/22 | 61 | 33 | 32 | 29 |
-| 23/Apr/22 | 62 | 33 | 32 | 29 |
-| 23/May/22 | 62 | 33 | 32 | 29 |
-| 23/Jun/22 | 62 | 33 | 32 | 29 |
-| 23/Jul/22 | 62 | 33 | 32 | 29 |
-| 23/Aug/22 | 62 | 33 | 32 | 29 |
-| 23/Sep/22 | 62 | 33 | 32 | 29 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
+
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -401,21 +312,8 @@ The newbuilding ordering activity continues to witness a steady number of materi
 
 With the exception of the Bangladeshi breakers whose offers noted a w-o-w improvement mainly for small to medium size vessels (L/C restrictions continue to hinder breakers from large units' acquisitions) amidst the upcoming construction season coupled with low storage, breakers of the rest demo nations kept their offers unchanged. Scrap was under pressure with w-o-w price decline materializing due to low demand for finished products worldwide. At the same time, Pakistani breakers remained sidelined, as the recent destructive flood has caused many steel mills to cease their operations. Lastly, Turkey continues to face discounted imported steel plates with the domestic mills struggling to compete amidst soaring energy costs. On the supply front, the demo candidates list was short for another week while with the dry bulk freight market improving, we could not expect any sharp increase in the offered volume of vintage units. Average prices in the different markets this week for tankers ranged between 260-600/ldt and those for dry bulk units between \$250-590/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 23/Sep/21 | 600 | 560 | 600 | 300 |
-| 23/Oct/21 | 620 | 570 | 610 | 325 |
-| 23/Nov/21 | 615 | 565 | 605 | 330 |
-| 23/Dec/21 | 610 | 550 | 600 | 335 |
-| 23/Jan/22 | 625 | 560 | 615 | 360 |
-| 23/Feb/22 | 670 | 580 | 660 | 430 |
-| 23/Mar/22 | 680 | 590 | 670 | 440 |
-| 23/Apr/22 | 675 | 585 | 665 | 440 |
-| 23/May/22 | 640 | 570 | 630 | 330 |
-| 23/Jun/22 | 560 | 550 | 550 | 330 |
-| 23/Jul/22 | 560 | 550 | 550 | 250 |
-| 23/Aug/22 | 610 | 560 | 600 | 255 |
-| 23/Sep/22 | 615 | 565 | 610 | 250 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

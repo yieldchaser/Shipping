@@ -655,54 +655,36 @@ numeric_observations:
 - section: Key Personnel & Management
   section_type: null
   source_line: '- **Mr. Alexandros Psarianos, BSc, MSc, FICS** - Managing Director
-    (mob: `+30 6985.11.11.02`)'
+    (mob: `[omitted]`)'
   unit: null
   values:
-  - 30.0
-  - 6985.11
-  - 11.02
 - section: Key Personnel & Management
   section_type: null
-  source_line: '- **Mr. Dimitris Vasiliou, BSc** - Chartering Broker (mob: `+30 698.938.17.45`)'
+  source_line: '- **Mr. Dimitris Vasiliou, BSc** - Chartering Broker (mob: `[omitted]`)'
   unit: null
   values:
-  - 30.0
-  - 698.938
-  - 17.45
 - section: Key Personnel & Management
   section_type: null
   source_line: '- **Mr. Nicolas Trantas, BSc, LLM, MICS** - Chartering Broker (mob:
-    `+30 693.6505.888`)'
+    `[omitted]`)'
   unit: null
   values:
-  - 30.0
-  - 693.6505
-  - 888.0
 - section: Key Personnel & Management
   section_type: null
-  source_line: '- **Mr. Nikos Aronis, BSc** - Chartering Broker (mob: `+30 6970.30.78.08`)'
+  source_line: '- **Mr. Nikos Aronis, BSc** - Chartering Broker (mob: `[omitted]`)'
   unit: null
   values:
-  - 30.0
-  - 6970.3
-  - 78.08
 - section: Key Personnel & Management
   section_type: null
   source_line: '- **Mr. Dimitrios Katsos, Diploma** - Customs Brokerage & Warehousing
-    (mob: `+30 694.456.4171`)'
+    (mob: `[omitted]`)'
   unit: null
   values:
-  - 30.0
-  - 694.456
-  - 4171.0
 - section: Key Personnel & Management
   section_type: null
-  source_line: '- **Mr. Akis Vasilliadis, Diploma** - Accounting (mob: `+30 697.263.4347`)'
+  source_line: '- **Mr. Akis Vasilliadis, Diploma** - Accounting (mob: `[omitted]`)'
   unit: null
   values:
-  - 30.0
-  - 697.263
-  - 4347.0
 - section: Offices & Corporate
   section_type: null
   source_line: '- **Piraeus Office**: No. 9, II Merarchias Str., Piraeus 18535, Greece'
@@ -906,12 +888,12 @@ Desk / Division | Contact / Emails
 **Project / MPP / RoRo** | `project@agoraships.com`, `roro@agoraships.com`
 
 ## Key Personnel & Management
-- **Mr. Alexandros Psarianos, BSc, MSc, FICS** – Managing Director (mob: `+30 6985.11.11.02`)
-- **Mr. Dimitris Vasiliou, BSc** – Chartering Broker (mob: `+30 698.938.17.45`)
-- **Mr. Nicolas Trantas, BSc, LLM, MICS** – Chartering Broker (mob: `+30 693.6505.888`)
-- **Mr. Nikos Aronis, BSc** – Chartering Broker (mob: `+30 6970.30.78.08`)
-- **Mr. Dimitrios Katsos, Diploma** – Customs Brokerage & Warehousing (mob: `+30 694.456.4171`)
-- **Mr. Akis Vasilliadis, Diploma** – Accounting (mob: `+30 697.263.4347`)
+- **Mr. Alexandros Psarianos, BSc, MSc, FICS** – Managing Director (mob: `[omitted]`)
+- **Mr. Dimitris Vasiliou, BSc** – Chartering Broker (mob: `[omitted]`)
+- **Mr. Nicolas Trantas, BSc, LLM, MICS** – Chartering Broker (mob: `[omitted]`)
+- **Mr. Nikos Aronis, BSc** – Chartering Broker (mob: `[omitted]`)
+- **Mr. Dimitrios Katsos, Diploma** – Customs Brokerage & Warehousing (mob: `[omitted]`)
+- **Mr. Akis Vasilliadis, Diploma** – Accounting (mob: `[omitted]`)
 
 ## Offices & Corporate
 - **Piraeus Office**: No. 9, II Merarchias Str., Piraeus 18535, Greece

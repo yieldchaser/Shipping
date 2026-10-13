@@ -127,30 +127,9 @@ def extract_notes_page(doc: pymupdf.Document) -> List[str]:
 
 
 def extract_directory_page(doc: pymupdf.Document) -> List[str]:
-    """Format the Agora contact details and directory page."""
-    return [
-        "### Directory & Contact Details\n",
-        "#### Desks & Specialized Divisions\n",
-        "| Desk / Division | Contact / Emails |",
-        "|---|---|",
-        "| **Bulk Desk** | `bulk@agoraships.com`, `panamax@agoraships.com`, `cape@agoraships.com` |",
-        "| **Mini-Bulk (1-5k DWT)** | `minibulk@agoraships.com` |",
-        "| **Period T/C Requirements** | `period@agoraships.com` |",
-        "| **Sale & Purchase (S&P)** | `snp@agoraships.com` (exclusive clients) |",
-        "| **Tanker Desk** | `tanker@agoraships.com`, `bitumen@agoraships.com` |",
-        "| **Project / MPP / RoRo** | `project@agoraships.com`, `roro@agoraships.com` |\n",
-        "#### Key Personnel & Management\n",
-        "- **Mr. Alexandros Psarianos, BSc, MSc, FICS** – Managing Director (mob: `+30 6985.11.11.02`)",
-        "- **Mr. Dimitris Vasiliou, BSc** – Chartering Broker (mob: `+30 698.938.17.45`)",
-        "- **Mr. Nicolas Trantas, BSc, LLM, MICS** – Chartering Broker (mob: `+30 693.6505.888`)",
-        "- **Mr. Nikos Aronis, BSc** – Chartering Broker (mob: `+30 6970.30.78.08`)",
-        "- **Mr. Dimitrios Katsos, Diploma** – Customs Brokerage & Warehousing (mob: `+30 694.456.4171`)",
-        "- **Mr. Akis Vasilliadis, Diploma** – Accounting (mob: `+30 697.263.4347`)\n",
-        "#### Offices & Corporate",
-        "- **Piraeus Office**: No. 9, II Merarchias Str., Piraeus 18535, Greece",
-        "- **London Office**: No. 21, Aylmer Parade, Aylmer Road, London, N2 0AT, United Kingdom",
-        "- **Web**: [www.agoraships.com](http://www.agoraships.com)\n"
-    ]
+    """The last page is a contact sheet (desk e-mails, staff names with mobile numbers): not transcribed.
+    (This used to emit a fixed block typed into the code, not read from the PDF.)"""
+    return ["> Contact details (desk e-mails, staff names and mobile numbers) omitted.\n"]
 
 
 def format_agora_document(pdf_path: Path) -> str:

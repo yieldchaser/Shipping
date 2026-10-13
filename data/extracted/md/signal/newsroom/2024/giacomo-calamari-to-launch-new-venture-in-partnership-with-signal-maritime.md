@@ -34,8 +34,6 @@ Signal Maritime’s support underscores its commitment to fostering innovation a
 
 [*Giacomo Calamari*](https://www.linkedin.com/in/giacomo-calamari-00471a5/)
 
-*+41 79 908 9577*
-
 
 ### About Giacomo Calamari
 

@@ -178,40 +178,9 @@ In the LR1 sector we had the sale of the "SAUGER" (72,652dwt-blt '04, S. Korea) 
 | --- | --- | --- | --- | --- | --- | --- |
 | 8 mos | ALANOOD | 2020 | 80,729 dwt | dely Bayuquan 16/18 | $19,000/day | Mercuria |
 | 12 mos | THE PROSPERITY | 2017 | 81,922 dwt | dely Ningbo 2/12 May | $17,000/day | cnr |
-## Baltic Indices
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 21/Apr/22 | 3000 | 3000 | 2500 | 1500 | 1800 |
-| 21/May/22 | 4800 | 3200 | 2800 | 1600 | 4500 |
-| 21/Jun/22 | 2800 | 2600 | 2400 | 1500 | 2500 |
-| 21/Jul/22 | 2400 | 2200 | 2000 | 1400 | 2200 |
-| 21/Aug/22 | 1200 | 1800 | 1600 | 1300 | 1500 |
-| 21/Sep/22 | 1800 | 1900 | 1700 | 1300 | 1700 |
-| 21/Oct/22 | 1600 | 1700 | 1500 | 1200 | 1600 |
-| 21/Nov/22 | 1400 | 1500 | 1400 | 1100 | 1400 |
-| 21/Dec/22 | 2600 | 1600 | 1500 | 1100 | 2000 |
-| 21/Jan/23 | 900 | 1000 | 900 | 800 | 900 |
-| 21/Feb/23 | 1600 | 1700 | 1000 | 800 | 1500 |
-| 21/Mar/23 | 1700 | 1800 | 1100 | 850 | 1600 |
-| 21/Apr/23 | 1700 | 1800 | 1100 | 850 | 1600 |
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 21/Apr/22 | 15000 | 28000 | 28000 | 28000 |
-| 21/May/22 | 38000 | 29000 | 29000 | 29000 |
-| 21/Jun/22 | 28000 | 28000 | 28000 | 28000 |
-| 21/Jul/22 | 18000 | 20000 | 20000 | 20000 |
-| 21/Aug/22 | 5000 | 18000 | 18000 | 18000 |
-| 21/Sep/22 | 16000 | 18000 | 18000 | 18000 |
-| 21/Oct/22 | 16000 | 17000 | 17000 | 17000 |
-| 21/Nov/22 | 16000 | 17000 | 17000 | 17000 |
-| 21/Dec/22 | 22000 | 18000 | 18000 | 18000 |
-| 21/Jan/23 | 8000 | 10000 | 10000 | 10000 |
-| 21/Feb/23 | 5000 | 9000 | 9000 | 9000 |
-| 21/Mar/23 | 14000 | 14000 | 14000 | 14000 |
-| 21/Apr/23 | 14000 | 14000 | 14000 | 14000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -309,41 +278,9 @@ In the Ultramax sector we had the sale of the "CL EBISU" (61,330dwt-blt '14, Jap
 
 After the Easter holidays when newbuilding activity was slow, contracting interest came back stronger with a total of 23 vessels being ordered. The majority of orders come from the tankers sector where freight rates continue to be high despite them softening during the past week. Of the 17 tanker orders, the Greek owners ordered 8 of them, with Capital Gas and Maran Tankers ordering 4 firm and 4 optional Suezmaxes each. The vessels will be LNG dual-fuelled and costed \$ 87.0m each, while their delivery is expected between 2026 and 2027. On the bulk carriers sector, the UAE based owner Emarat Maritime ordered one 63,000 dwt Bulk Carrier from New Dayang in China, expected to be delivered in 2025 for an undisclosed price. There is also strong movement on the Gas Carrier sector, with 4 ships being ordered, all of which from Eastern Pacific. The vessels are 93,000 cbm dual-fuelled, and shipbuilders Hyundai Samho and Samsung Heavy Industries will build two each, costing the owner \$ 100.0m apiece.
 
-## Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 21/Apr/22 | 115 | 75 | 58 | 52 | 42 |
-| 21/May/22 | 118 | 76 | 59 | 53 | 43 |
-| 21/Jun/22 | 118 | 77 | 60 | 54 | 43 |
-| 21/Jul/22 | 118 | 78 | 60 | 54 | 43 |
-| 21/Aug/22 | 120 | 78 | 61 | 55 | 44 |
-| 21/Sep/22 | 120 | 78 | 61 | 55 | 44 |
-| 21/Oct/22 | 120 | 78 | 61 | 55 | 44 |
-| 21/Nov/22 | 120 | 78 | 61 | 55 | 44 |
-| 21/Dec/22 | 120 | 78 | 61 | 55 | 44 |
-| 21/Jan/23 | 120 | 77 | 61 | 55 | 44 |
-| 21/Feb/23 | 120 | 77 | 62 | 56 | 44 |
-| 21/Mar/23 | 120 | 77 | 62 | 56 | 44 |
-| 21/Apr/23 | 120 | 76 | 62 | 56 | 44 |
-
-## Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 21/Apr/22 | 60 | 34 | 32 | 30 |
-| 21/May/22 | 61 | 34 | 32 | 30 |
-| 21/Jun/22 | 62 | 34 | 33 | 30 |
-| 21/Jul/22 | 62 | 34 | 33 | 30 |
-| 21/Aug/22 | 62 | 34 | 33 | 30 |
-| 21/Sep/22 | 61 | 33 | 32 | 30 |
-| 21/Oct/22 | 60 | 33 | 32 | 29 |
-| 21/Nov/22 | 60 | 32 | 32 | 29 |
-| 21/Dec/22 | 60 | 32 | 32 | 29 |
-| 21/Jan/23 | 60 | 32 | 32 | 29 |
-| 21/Feb/23 | 60 | 32 | 32 | 29 |
-| 21/Mar/23 | 60 | 32 | 32 | 29 |
-| 21/Apr/23 | 60 | 32 | 32 | 29 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -390,21 +327,8 @@ After the Easter holidays when newbuilding activity was slow, contracting intere
 
 Ramadan came to an end last week, meaning that activity in the market and top destinations has been quiet and buyers are expected to return to the market soon. Freight rates are mixed across all segments, but still not at levels that would encourage owners to scrap. There have been few transactions in India and these have been at lower prices. The steel market is in decline as inventories build up and demand fails to catch up. In Pakistan, there seems to be no end to the financial problems, with the World Bank predicting that inflation will reach 29.5% this financial year. The country is seeking a further \$3bn from the IMF by submitting a plan with further assurances to unblock the IMF bailout. In Bangladesh, the market has been slow and prices low. L/C opening remains a problem in Bangladesh and only smaller tonnages are possible. India and Bangladesh decided to facilitate some of their bilateral trade in their own currencies (INR and BDT) to reduce their dependence on the US dollar. In Turkey, the lira hit new lows against the USD, while inflation was 50.51% y/y in March. Turkish crushers are in for a tough few weeks due to low steel prices and weak fundamentals. Average prices in the different markets this week for tankers ranged between 340-600/ldt and those for dry bulk units between \$330-590/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 21/Apr/22 | 680 | 670 | 680 | 450 |
-| 21/May/22 | 660 | 650 | 660 | 320 |
-| 21/Jun/22 | 580 | 570 | 580 | 320 |
-| 21/Jul/22 | 570 | 570 | 570 | 250 |
-| 21/Aug/22 | 580 | 575 | 575 | 250 |
-| 21/Sep/22 | 600 | 580 | 580 | 250 |
-| 21/Oct/22 | 610 | 585 | 585 | 250 |
-| 21/Nov/22 | 500 | 560 | 560 | 250 |
-| 21/Dec/22 | 500 | 560 | 560 | 250 |
-| 21/Jan/23 | 500 | 560 | 560 | 300 |
-| 21/Feb/23 | 580 | 570 | 570 | 320 |
-| 21/Mar/23 | 600 | 580 | 580 | 320 |
-| 21/Apr/23 | 610 | 585 | 585 | 320 |
+> **Chart (not transcribed):** Currencies. The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

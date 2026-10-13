@@ -50,40 +50,9 @@ None of this is to say that the bauxite trade will decline in the medium term, t
 | **Dirty** | 55K | UKC-USG | 115 | 9,730 | 115 | 10,009 | -2.8% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 115 | 11,220 | 115 | 11,240 | -0.2% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 163 | 16,045 | 157 | 14,494 | **10.7%** | 26,872 | 46,194 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | WS points |
-| --- | --- |
-| 19/Sep/24 | 0 |
-| 19/Oct/24 | 220 |
-| 19/Nov/24 | 100 |
-| 19/Dec/24 | 120 |
-| 19/Jan/25 | 100 |
-| 19/Feb/25 | 120 |
-| 19/Mar/25 | 220 |
-| 19/Apr/25 | 150 |
-| 19/May/25 | 100 |
-| 19/Jun/25 | 80 |
-| 19/Jul/25 | 100 |
-| 19/Aug/25 | 150 |
-| 19/Sep/25 | 150 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | WS points |
-| --- | --- |
-| 19/Sep/24 | 100 |
-| 19/Oct/24 | 100 |
-| 19/Nov/24 | 150 |
-| 19/Dec/24 | 100 |
-| 19/Jan/25 | 150 |
-| 19/Feb/25 | 280 |
-| 19/Mar/25 | 280 |
-| 19/Apr/25 | 150 |
-| 19/May/25 | 100 |
-| 19/Jun/25 | 200 |
-| 19/Jul/25 | 150 |
-| 19/Aug/25 | 150 |
-| 19/Sep/25 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 19/09/2025 | 12/09/2025 | ±% | Diff | 2024 | 2023 |
@@ -150,41 +119,9 @@ The Aframax market showed divergent regional performance. The North Sea rebounde
 | **Handysize** | **32K 1yr TC** | 11,000 | 11,000 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 19/Sep/24 | 3600 | 1500 | 1300 | 800 | 1600 |
-| 19/Oct/24 | 1800 | 1400 | 1200 | 700 | 1500 |
-| 19/Nov/24 | 2800 | 1300 | 1100 | 600 | 1400 |
-| 19/Dec/24 | 1000 | 900 | 1000 | 500 | 900 |
-| 19/Jan/25 | 1100 | 800 | 900 | 400 | 800 |
-| 19/Feb/25 | 900 | 850 | 950 | 450 | 850 |
-| 19/Mar/25 | 2400 | 1400 | 1100 | 600 | 1500 |
-| 19/Apr/25 | 1800 | 1300 | 1000 | 550 | 1400 |
-| 19/May/25 | 1600 | 1200 | 900 | 500 | 1300 |
-| 19/Jun/25 | 3200 | 1600 | 1200 | 700 | 1800 |
-| 19/Jul/25 | 3800 | 1900 | 1400 | 800 | 2000 |
-| 19/Aug/25 | 3400 | 1800 | 1300 | 750 | 1900 |
-| 19/Sep/25 | 3100 | 1700 | 1200 | 700 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 19/Sep/24 | 30000 | 13000 | 14000 | 12000 |
-| 19/Oct/24 | 20000 | 10000 | 11000 | 10000 |
-| 19/Nov/24 | 26000 | 9000 | 10000 | 9000 |
-| 19/Dec/24 | 8000 | 7000 | 8000 | 7000 |
-| 19/Jan/25 | 5000 | 6000 | 7000 | 6000 |
-| 19/Feb/25 | 6000 | 6500 | 7500 | 6500 |
-| 19/Mar/25 | 21000 | 10000 | 11000 | 9000 |
-| 19/Apr/25 | 14000 | 9500 | 10000 | 8500 |
-| 19/May/25 | 16000 | 9000 | 9500 | 8000 |
-| 19/Jun/25 | 28000 | 12000 | 12000 | 10000 |
-| 19/Jul/25 | 31000 | 14000 | 13000 | 11000 |
-| 19/Aug/25 | 26000 | 13000 | 12000 | 10500 |
-| 19/Sep/25 | 27000 | 13500 | 12500 | 11000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Sep-25 avg | Aug-25 avg | ±% | 2024 | 2023 | 2022 |

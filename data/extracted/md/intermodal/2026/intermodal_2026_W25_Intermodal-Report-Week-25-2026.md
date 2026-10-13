@@ -69,41 +69,9 @@ The main point is that India's coal trade is becoming less useful as a simple vo
 | Handy | 36k 1yr TC | 24,000 | 25,500 | -5.9% | -1500 | 18,519 | 26,606 |
 |  | 36k 3yr TC | 17,500 | 17,500 | 0.0% | 0 | 16,902 | 19,993 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 19/jun/25 | 100 | 150 | 200 |
-| 19/jul/25 | 100 | 150 | 200 |
-| 19/ug/25 | 100 | 150 | 200 |
-| 19/sep/25 | 100 | 150 | 200 |
-| 19/oct/25 | 100 | 150 | 200 |
-| 19/Nov/25 | 100 | 150 | 200 |
-| 19/Dec/25 | 100 | 150 | 200 |
-| 19/Jan/26 | 100 | 150 | 200 |
-| 19/Feb/26 | 300 | 400 | 500 |
-| 19/Mar/26 | 400 | 450 | 950 |
-| 19/Apr/26 | 400 | 400 | 400 |
-| 19/May/26 | 400 | 400 | 400 |
-| 19/jun/26 | 450 | 200 | 200 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 19/jun/25 | 150 | 100 | 200 | 250 |
-| 19/jul/25 | 150 | 100 | 200 | 250 |
-| 19/ug/25 | 150 | 100 | 200 | 250 |
-| 19/sep/25 | 150 | 100 | 200 | 250 |
-| 19/oct/25 | 150 | 100 | 200 | 250 |
-| 19/Nov/25 | 150 | 100 | 200 | 250 |
-| 19/Dec/25 | 150 | 100 | 200 | 250 |
-| 19/Jan/26 | 150 | 100 | 200 | 250 |
-| 19/Feb/26 | 300 | 200 | 300 | 400 |
-| 19/Mar/26 | 400 | 300 | 600 | 600 |
-| 19/Apr/26 | 500 | 300 | 600 | 600 |
-| 19/May/26 | 500 | 300 | 600 | 600 |
-| 19/jun/26 | 450 | 150 | 450 | 200 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Jun-26 avg | May-26 avg | ±% | 2025 | 2024 | 2023 |

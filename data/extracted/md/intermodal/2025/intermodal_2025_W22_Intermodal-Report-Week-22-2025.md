@@ -58,39 +58,9 @@ In summary, Simandou is not just another mine; it represents a pivotal supply-si
 | --- | --- | --- |
 |  | $45,000/day |  |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 30/May/24 | 50 | 100 | 250 |
-| 30/Jun/24 | 50 | 100 | 250 |
-| 31/Jul/24 | 50 | 100 | 250 |
-| 31/Aug/24 | 50 | 100 | 250 |
-| 30/Sep/24 | 50 | 100 | 250 |
-| 31/Oct/24 | 50 | 100 | 250 |
-| 30/Nov/24 | 50 | 100 | 250 |
-| 31/Dec/24 | 50 | 100 | 250 |
-| 31/Jan/25 | 50 | 100 | 250 |
-| 28/Feb/25 | 50 | 100 | 250 |
-| 31/Mar/25 | 50 | 100 | 250 |
-| 30/Apr/25 | 50 | 100 | 250 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 30/May/24 | 250 | 200 | 250 | 200 |
-| 30/Jun/24 | 250 | 200 | 250 | 200 |
-| 31/Jul/24 | 250 | 200 | 250 | 200 |
-| 31/Aug/24 | 250 | 200 | 250 | 200 |
-| 30/Sep/24 | 250 | 200 | 250 | 200 |
-| 31/Oct/24 | 250 | 200 | 250 | 200 |
-| 30/Nov/24 | 250 | 200 | 250 | 200 |
-| 31/Dec/24 | 250 | 200 | 250 | 200 |
-| 31/Jan/25 | 250 | 200 | 250 | 200 |
-| 28/Feb/25 | 250 | 200 | 250 | 200 |
-| 31/Mar/25 | 250 | 200 | 250 | 200 |
-| 30/Apr/25 | 250 | 200 | 250 | 200 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 30/05/2025 | 23/05/2025 | ±% | Diff | 2024 | 2023 |
@@ -157,22 +127,7 @@ The Aframax market saw a varied week. Asia remained weak with oversupply and lim
 | **Handysize** | **32K 1yr TC** | 10,000 | 10,000 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 30/May/24 | 20000 | 14000 | 10000 | 8000 |
-| 30/Jun/24 | 28000 | 14000 | 10000 | 8000 |
-| 31/Jul/24 | 25000 | 13000 | 9000 | 7000 |
-| 31/Aug/24 | 26000 | 13500 | 9500 | 7500 |
-| 30/Sep/24 | 24000 | 13000 | 9000 | 7000 |
-| 31/Oct/24 | 25000 | 13500 | 9500 | 7500 |
-| 30/Nov/24 | 8000 | 8000 | 7000 | 6000 |
-| 31/Dec/24 | 8000 | 8000 | 7000 | 6000 |
-| 31/Jan/25 | 10000 | 9000 | 7500 | 6500 |
-| 28/Feb/25 | 15000 | 10000 | 8000 | 7000 |
-| 31/Mar/25 | 16000 | 10500 | 8500 | 7500 |
-| 30/Apr/25 | 16000 | 10000 | 8000 | 7000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | May-25 avg | Apr-25 avg | ±% | 2024 | 2023 |
@@ -182,21 +137,7 @@ The Aframax market saw a varied week. Asia remained weak with oversupply and lim
 | **Ultramax** **63k** | 30.7 | 31.4 | -2.2% | 34.4 | 29.5 | 31.5 |
 | **Handysize** **37K** | 25.2 | 25.5 | -1.2% | 27.6 | 25.1 | 27.2 |
 
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 30/May/24 | 2500 | 1800 | 1200 | 800 | 1800 |
-| 30/Jun/24 | 3000 | 1600 | 1100 | 800 | 1700 |
-| 31/Jul/24 | 3500 | 1500 | 1000 | 700 | 1600 |
-| 31/Aug/24 | 3200 | 1400 | 1000 | 700 | 1500 |
-| 30/Sep/24 | 2800 | 1300 | 900 | 600 | 1400 |
-| 31/Oct/24 | 3000 | 1400 | 900 | 600 | 1500 |
-| 30/Nov/24 | 1000 | 1000 | 800 | 500 | 1000 |
-| 31/Dec/24 | 1000 | 1000 | 800 | 500 | 1000 |
-| 31/Jan/25 | 1200 | 1100 | 850 | 550 | 1100 |
-| 28/Feb/25 | 2000 | 1200 | 900 | 600 | 1400 |
-| 31/Mar/25 | 2200 | 1300 | 950 | 650 | 1500 |
-| 30/Apr/25 | 2000 | 1200 | 900 | 600 | 1400 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
 ## Chartering
 

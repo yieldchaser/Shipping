@@ -84,40 +84,9 @@ Shanghai 200122 China
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | WONDER SIRIUS | 2005 | 115,340 dwt | $40,000/day | Trafigura |
 | 12 mos | ASTIR LADY | 2009 | 50,286 dwt | $27,000/day | ST Shipping |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 3/Feb/22 | 50 | 150 | 100 |
-| 3/Mar/22 | 60 | 300 | 150 |
-| 3/Apr/22 | 55 | 280 | 180 |
-| 3/May/22 | 50 | 270 | 160 |
-| 3/Jun/22 | 45 | 180 | 150 |
-| 3/Jul/22 | 40 | 170 | 200 |
-| 3/Aug/22 | 40 | 250 | 250 |
-| 3/Sep/22 | 50 | 200 | 220 |
-| 3/Oct/22 | 60 | 250 | 300 |
-| 3/Nov/22 | 70 | 350 | 400 |
-| 3/Dec/22 | 65 | 650 | 600 |
-| 3/Jan/23 | 50 | 200 | 150 |
-| 3/Feb/23 | 45 | 150 | 100 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 3/Feb/22 | 100 | 150 | 200 | 250 |
-| 3/Mar/22 | 120 | 180 | 220 | 280 |
-| 3/Apr/22 | 150 | 400 | 300 | 350 |
-| 3/May/22 | 200 | 300 | 320 | 380 |
-| 3/Jun/22 | 250 | 280 | 300 | 350 |
-| 3/Jul/22 | 300 | 350 | 380 | 450 |
-| 3/Aug/22 | 280 | 300 | 350 | 400 |
-| 3/Sep/22 | 250 | 280 | 320 | 350 |
-| 3/Oct/22 | 280 | 300 | 340 | 380 |
-| 3/Nov/22 | 300 | 320 | 360 | 400 |
-| 3/Dec/22 | 350 | 380 | 400 | 450 |
-| 3/Jan/23 | 300 | 350 | 380 | 420 |
-| 3/Feb/23 | 150 | 180 | 200 | 180 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 03/02/23 | 27/01/23 | ±% | Diff | 2021 | 2020 |
@@ -196,41 +165,9 @@ In the MR2 sector we had the sale of the "MARKOS I" (45,592dwt-blt '05, Croatia)
 | **Handysize** | **32K 1yr TC** | 10,000 | 9,750 | **2.6%** | **250** | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 9,500 | 9,000 | **5.6%** | **500** | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 3/Feb/22 | 2000 | 2200 | 2500 | 1500 | 2100 |
-| 3/Mar/22 | 2400 | 2600 | 2800 | 1800 | 2500 |
-| 3/Apr/22 | 2800 | 3000 | 3200 | 2000 | 2900 |
-| 3/May/22 | 3200 | 3400 | 3500 | 2200 | 3300 |
-| 3/Jun/22 | 4200 | 3800 | 3600 | 2400 | 4200 |
-| 3/Jul/22 | 3000 | 3200 | 3000 | 2000 | 3000 |
-| 3/Aug/22 | 2500 | 2800 | 2600 | 1800 | 2600 |
-| 3/Sep/22 | 1800 | 2200 | 2000 | 1500 | 1900 |
-| 3/Oct/22 | 2000 | 2400 | 2200 | 1600 | 2100 |
-| 3/Nov/22 | 2200 | 2600 | 2400 | 1700 | 2300 |
-| 3/Dec/22 | 2400 | 2800 | 2600 | 1800 | 2500 |
-| 3/Jan/23 | 1600 | 2000 | 1800 | 1400 | 1700 |
-| 3/Feb/23 | 1400 | 1800 | 1600 | 1300 | 1500 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 3/Feb/22 | 15000 | 18000 | 20000 | 12000 |
-| 3/Mar/22 | 20000 | 22000 | 24000 | 16000 |
-| 3/Apr/22 | 25000 | 26000 | 28000 | 20000 |
-| 3/May/22 | 30000 | 30000 | 32000 | 24000 |
-| 3/Jun/22 | 35000 | 34000 | 36000 | 28000 |
-| 3/Jul/22 | 28000 | 28000 | 30000 | 22000 |
-| 3/Aug/22 | 22000 | 24000 | 26000 | 18000 |
-| 3/Sep/22 | 8000 | 16000 | 20000 | 12000 |
-| 3/Oct/22 | 15000 | 18000 | 22000 | 14000 |
-| 3/Nov/22 | 18000 | 20000 | 24000 | 16000 |
-| 3/Dec/22 | 20000 | 22000 | 26000 | 18000 |
-| 3/Jan/23 | 12000 | 14000 | 16000 | 10000 |
-| 3/Feb/23 | 8000 | 10000 | 12000 | 8000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -346,41 +283,9 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 
 The previous week was a quiet one with no orders for bulkers at all while the tanker sector is seeing renewed interest from owners for product tankers that continued from last week. More specifically, a total of 6 MR tankers were ordered last week. Al Seer Marine ordered two 50,000 dwt tankers for 2024 delivery, at an undisclosed price, while Nissen Kaiun ordered four 50,000dwt MR2 tankers at a price of \$45.3m each. In the gas sector, with LNG supply being tight and with expectations of higher demand, contracting activity remains firm during the first weeks of 2023. Mitsui OSK Lines ordered two 174,000 cbm VLGC at \$ 247.5m while Kumiai Navigation ordered one 86,700 cbm carrier due to be delivered in 2025. In the container sector, there is a continuing movement for new orders despite the negative freight market momentum. During the previous week, CMA-CGM placed a big order for twelve 13,000 TEU methanol-fueled containers at \$175m each at Hyundai Samho due to be delivered in 2025. This deal follows the recent one from MSC for ten similar vessels at a Chinese yard.
 
-## Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 3/Feb/22 | 115 | 75 | 58 | 50 | 40 |
-| 3/Mar/22 | 116 | 76 | 59 | 51 | 40 |
-| 3/Apr/22 | 117 | 77 | 60 | 52 | 40 |
-| 3/May/22 | 118 | 77 | 60 | 53 | 40 |
-| 3/Jun/22 | 119 | 78 | 61 | 54 | 40 |
-| 3/Jul/22 | 120 | 79 | 62 | 55 | 41 |
-| 3/Aug/22 | 120 | 80 | 63 | 56 | 41 |
-| 3/Sep/22 | 120 | 80 | 64 | 56 | 42 |
-| 3/Oct/22 | 120 | 80 | 64 | 56 | 42 |
-| 3/Nov/22 | 120 | 80 | 64 | 56 | 42 |
-| 3/Dec/22 | 120 | 80 | 64 | 56 | 42 |
-| 3/Jan/23 | 120 | 80 | 64 | 56 | 42 |
-| 3/Feb/23 | 120 | 80 | 64 | 56 | 42 |
-
-## Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 3/Feb/22 | 60 | 35 | 32 | 30 |
-| 3/Mar/22 | 60 | 35 | 32 | 30 |
-| 3/Apr/22 | 61 | 35 | 32 | 30 |
-| 3/May/22 | 61 | 36 | 33 | 30 |
-| 3/Jun/22 | 62 | 36 | 33 | 30 |
-| 3/Jul/22 | 62 | 37 | 34 | 30 |
-| 3/Aug/22 | 62 | 37 | 34 | 29 |
-| 3/Sep/22 | 61 | 36 | 33 | 29 |
-| 3/Oct/22 | 60 | 35 | 32 | 29 |
-| 3/Nov/22 | 60 | 35 | 32 | 28 |
-| 3/Dec/22 | 60 | 35 | 32 | 28 |
-| 3/Jan/23 | 60 | 35 | 32 | 28 |
-| 3/Feb/23 | 60 | 35 | 32 | 28 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -413,23 +318,7 @@ The previous week was a quiet one with no orders for bulkers at all while the ta
 
 The much-awaited freight rates rebound after the Chinese New Year break has yet to materialize and this is putting pressure on owners to offer their vessels as more and more breakers are willing to buy. In India, the government expanded the budget for next year which will the construction and infrastructure sectors and will also boost employment. The steel sector will also benefit, with increased demand and tax benefits. The increase is close to 33% and the budget will reach 10tr Rupees. In Bangladesh, the financial situation seems to be edging closer to a resolution. The IMF agreed to release \$4.7b to the country, which will be a stabilization package and not a bailout. Regarding the L/C situation, more and more banks are keen on issuing them but there is still hesitation and credit lines are only available for smaller vessels. Pakistan is still in a strict financial position. The IMF declined the country's Circular Debt Management Plan while the 48-year-high inflation forced the government to restrict imports and various goods and raw materials at the ports. Furthermore, the ban on new L/Cs forced many steel mills to close down. PKR climbed to 277 against the USD. In Turkey, there is hope that the financial situation will soon be better. Inflation showed signs of de-escalation with January inflation being at 57.7, while December's was at 64.3. The market is in a good shape and the breakers are in the market for more tonnage by increasing their offers. Overall, breakers' offers rose w-o-w while an increasing number of both dry bulk and containers units are being offered for recycling. Average prices in the different markets this week for tankers ranged between 310-555/ldt and those for dry bulk units between \$300-540/ldt.
 
-### Tanker Demolition Prices
-
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 3/Feb/22 | 640 | 590 | 650 | 340 |
-| 3/Mar/22 | 680 | 620 | 670 | 450 |
-| 3/Apr/22 | 670 | 660 | 680 | 460 |
-| 3/May/22 | 660 | 650 | 670 | 455 |
-| 3/Jun/22 | 600 | 580 | 590 | 320 |
-| 3/Jul/22 | 570 | 560 | 570 | 250 |
-| 3/Aug/22 | 560 | 550 | 560 | 250 |
-| 3/Sep/22 | 570 | 560 | 570 | 250 |
-| 3/Oct/22 | 590 | 580 | 590 | 250 |
-| 3/Nov/22 | 570 | 560 | 570 | 250 |
-| 3/Dec/22 | 500 | 520 | 530 | 250 |
-| 3/Jan/23 | 510 | 530 | 540 | 280 |
-| 3/Feb/23 | 550 | 550 | 550 | 290 |
+> **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 
 ### Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

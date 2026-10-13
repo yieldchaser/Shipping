@@ -53,41 +53,9 @@ Argentina's growing role in long-haul corn trade contributes positively to the d
 | 12 mos | Nordic Aquarius | 2018 |
 | --- | --- | --- |
 |  | $75,500/day |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 24/Apr/25 | 100 | 150 | 200 |
-| 24/May/25 | 100 | 150 | 200 |
-| 24/Jun/25 | 150 | 150 | 200 |
-| 24/Jul/25 | 150 | 150 | 200 |
-| 24/Aug/25 | 150 | 150 | 200 |
-| 24/Sep/25 | 150 | 150 | 200 |
-| 24/Oct/25 | 150 | 150 | 200 |
-| 24/Nov/25 | 150 | 150 | 200 |
-| 24/Dec/25 | 200 | 200 | 200 |
-| 24/Jan/26 | 300 | 300 | 300 |
-| 24/Feb/26 | 400 | 400 | 400 |
-| 24/Mar/26 | 900 | 900 | 900 |
-| 24/Apr/26 | 400 | 250 | 400 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS points | WS points | WS points | WS points |
-| 24/Apr/25 | 150 | 150 | 200 | 200 |
-| 24/May/25 | 150 | 150 | 200 | 200 |
-| 24/Jun/25 | 200 | 150 | 200 | 200 |
-| 24/Jul/25 | 150 | 150 | 200 | 200 |
-| 24/Aug/25 | 150 | 150 | 200 | 200 |
-| 24/Sep/25 | 150 | 150 | 200 | 200 |
-| 24/Oct/25 | 150 | 150 | 200 | 200 |
-| 24/Nov/25 | 150 | 150 | 200 | 200 |
-| 24/Dec/25 | 200 | 200 | 200 | 200 |
-| 24/Jan/26 | 300 | 300 | 300 | 300 |
-| 24/Feb/26 | 600 | 600 | 600 | 600 |
-| 24/Mar/26 | 600 | 600 | 600 | 600 |
-| 24/Apr/26 | 550 | 250 | 550 | 550 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 24/04/2026 | 17/04/2026 | ±% | Diff | 2025 | 2024 |
@@ -143,41 +111,9 @@ Aframax trading in the Mediterranean began under charterer control, with inconsi
 | 11 to 13 mos | Hui Ton | 2010 | 83,601 dwt | $17,500/day | cnr |
 | 12 mos | WW Nadia | 2012 | 63,250 dwt | $18,500/day | cnr |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 24/Apr/25 | 2000 | 1500 | 1500 | 1000 | 1500 |
-| 24/May/25 | 3500 | 1600 | 1600 | 1000 | 2000 |
-| 24/Jun/25 | 2500 | 1700 | 1700 | 1200 | 2000 |
-| 24/Jul/25 | 3500 | 1800 | 1800 | 1300 | 2000 |
-| 24/Aug/25 | 3000 | 1700 | 1700 | 1200 | 2000 |
-| 24/Sep/25 | 3000 | 1700 | 1700 | 1100 | 2000 |
-| 24/Oct/25 | 2500 | 1600 | 1600 | 1000 | 2000 |
-| 24/Nov/25 | 5000 | 2500 | 2500 | 2000 | 2500 |
-| 24/Dec/25 | 1500 | 1500 | 1500 | 1000 | 2000 |
-| 24/Jan/26 | 2000 | 1600 | 1600 | 1100 | 2000 |
-| 24/Feb/26 | 2500 | 1700 | 1700 | 1200 | 2000 |
-| 24/Mar/26 | 4000 | 2000 | 2000 | 1500 | 2500 |
-| 24/Apr/26 | 4500 | 2200 | 2200 | 1800 | 3000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 24/Apr/25 | 15000 | 12000 | 10000 | 8000 |
-| 24/May/25 | 25000 | 13000 | 11000 | 9000 |
-| 24/Jun/25 | 10000 | 14000 | 12000 | 10000 |
-| 24/Jul/25 | 25000 | 15000 | 13000 | 11000 |
-| 24/Aug/25 | 25000 | 15000 | 13000 | 11000 |
-| 24/Sep/25 | 25000 | 15000 | 13000 | 11000 |
-| 24/Oct/25 | 25000 | 15000 | 13000 | 11000 |
-| 24/Nov/25 | 45000 | 16000 | 14000 | 12000 |
-| 24/Dec/25 | 15000 | 14000 | 12000 | 10000 |
-| 24/Jan/26 | 18000 | 14000 | 12000 | 10000 |
-| 24/Feb/26 | 20000 | 15000 | 13000 | 11000 |
-| 24/Mar/26 | 30000 | 16000 | 14000 | 12000 |
-| 24/Apr/26 | 35000 | 17000 | 15000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### TC Rates
 | Sector | Tenor | 24/04/2026 | 17/04/2026 | ±% | Diff | 2025 | 2024 |

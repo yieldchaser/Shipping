@@ -53,40 +53,9 @@ Overall, the ramp up of Venezuelan output and exports are expected to strengthen
 | 7 mos | Sonangol Huila | 2012 | 157,871 |
 | --- | --- | --- | --- |
 |  | $105,000 |  | Trafigura Beheer BV |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 4/Sep/25 | 100 | 150 | 150 |
-| 4/Oct/25 | 120 | 160 | 200 |
-| 4/Nov/25 | 140 | 180 | 250 |
-| 4/Dec/25 | 160 | 200 | 300 |
-| 4/Jan/26 | 180 | 220 | 350 |
-| 4/Feb/26 | 200 | 240 | 400 |
-| 4/Mar/26 | 450 | 450 | 950 |
-| 4/Apr/26 | 400 | 400 | 900 |
-| 4/May/26 | 350 | 350 | 250 |
-| 4/Jun/26 | 300 | 300 | 250 |
-| 4/Jul/26 | 320 | 320 | 300 |
-| 4/Aug/26 | 400 | 500 | 350 |
-| 4/Sep/26 | 600 | 300 | 300 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 4/Sep/25 | 100 | 120 | 150 | 150 |
-| 4/Oct/25 | 130 | 140 | 180 | 200 |
-| 4/Nov/25 | 150 | 160 | 200 | 250 |
-| 4/Dec/25 | 170 | 180 | 220 | 300 |
-| 4/Jan/26 | 190 | 200 | 250 | 350 |
-| 4/Feb/26 | 210 | 220 | 280 | 400 |
-| 4/Mar/26 | 550 | 300 | 600 | 600 |
-| 4/Apr/26 | 400 | 280 | 550 | 550 |
-| 4/May/26 | 350 | 250 | 450 | 500 |
-| 4/Jun/26 | 300 | 200 | 350 | 400 |
-| 4/Jul/26 | 320 | 220 | 300 | 450 |
-| 4/Aug/26 | 400 | 250 | 350 | 550 |
-| 4/Sep/26 | 550 | 100 | 600 | 600 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 04/09/2026 | 28/08/2026 | ±% | Diff | 2025 | 2024 |
@@ -154,41 +123,9 @@ The Aframax market followed divergent regional trends last week. Firmer US Gulf 
 | **Handysize** | **32K 1yr TC** | 13,750 | 13,750 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 4/5ep/25 | 3000 | 2000 | 1500 | 1000 | 2000 |
-| 4/Oct/25 | 3500 | 2000 | 1500 | 1000 | 2000 |
-| 4/Nov/25 | 4000 | 2200 | 1600 | 1200 | 2200 |
-| 4/Dec/25 | 5500 | 2500 | 1800 | 1400 | 2500 |
-| 4/Jan/26 | 2500 | 2300 | 1700 | 1300 | 2300 |
-| 4/Feb/26 | 2800 | 2400 | 1750 | 1350 | 2400 |
-| 4/Mar/26 | 3000 | 2500 | 1800 | 1400 | 2500 |
-| 4/Apr/26 | 3200 | 2600 | 1850 | 1450 | 2600 |
-| 4/May/26 | 3500 | 2700 | 1900 | 1500 | 2700 |
-| 4/Jun/26 | 1200 | 2600 | 1900 | 1500 | 2600 |
-| 4/Jul/26 | 3800 | 2800 | 2000 | 1550 | 2800 |
-| 4/Aug/26 | 4500 | 3000 | 2100 | 1600 | 3000 |
-| 4/5ep/26 | 5500 | 3500 | 2300 | 1700 | 3500 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 4/5ep/25 | 25000 | 15000 | 16000 | 17000 |
-| 4/Oct/25 | 26000 | 15500 | 16500 | 17500 |
-| 4/Nov/25 | 27000 | 16000 | 17000 | 18000 |
-| 4/Dec/25 | 45000 | 16500 | 17500 | 18500 |
-| 4/Jan/26 | 15000 | 15000 | 16000 | 17000 |
-| 4/Feb/26 | 20000 | 15500 | 16500 | 17500 |
-| 4/Mar/26 | 20000 | 16000 | 17000 | 18000 |
-| 4/Apr/26 | 20000 | 16500 | 17500 | 18500 |
-| 4/May/26 | 35000 | 17000 | 18000 | 19000 |
-| 4/Jun/26 | 30000 | 17500 | 18500 | 19500 |
-| 4/Jul/26 | 38000 | 18000 | 19000 | 20000 |
-| 4/Aug/26 | 42000 | 18500 | 19500 | 20500 |
-| 4/5ep/26 | 55000 | 20000 | 20000 | 21000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Sep-26 avg | Aug-26 avg | ±% | 2025 | 2024 | 2023 |

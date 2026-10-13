@@ -84,41 +84,9 @@ As far as the future is concerned, it is interesting to see whether owners will 
 | 4/6 mos | P.ALIKI | 2010 | 105,304 dwt | $48,500/day | Trafigura |
 | 5 mos | GANESHA | 2009 | 45,996 dwt | $37,000/day | ST Shipping |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 14/Jun/23 | 50 | 100 | 200 |
-| 14/Jul/23 | 50 | 100 | 200 |
-| 14/Aug/23 | 50 | 100 | 250 |
-| 14/Sep/23 | 50 | 100 | 250 |
-| 14/Oct/23 | 50 | 150 | 250 |
-| 14/Nov/23 | 50 | 150 | 250 |
-| 14/Dec/23 | 50 | 150 | 380 |
-| 14/Jan/24 | 50 | 150 | 380 |
-| 14/Feb/24 | 50 | 150 | 150 |
-| 14/Mar/24 | 50 | 150 | 150 |
-| 14/Apr/24 | 50 | 150 | 150 |
-| 14/May/24 | 50 | 150 | 150 |
-| 14/Jun/24 | 50 | 150 | 200 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 14/Jun/23 | 100 | 100 | 150 | 150 |
-| 14/Jul/23 | 100 | 100 | 150 | 150 |
-| 14/Aug/23 | 100 | 100 | 200 | 200 |
-| 14/Sep/23 | 100 | 100 | 200 | 200 |
-| 14/Oct/23 | 100 | 150 | 200 | 200 |
-| 14/Nov/23 | 100 | 150 | 200 | 200 |
-| 14/Dec/23 | 100 | 150 | 150 | 150 |
-| 14/Jan/24 | 100 | 150 | 150 | 150 |
-| 14/Feb/24 | 350 | 350 | 350 | 350 |
-| 14/Mar/24 | 200 | 200 | 200 | 200 |
-| 14/Apr/24 | 200 | 200 | 200 | 200 |
-| 14/May/24 | 200 | 200 | 200 | 200 |
-| 14/Jun/24 | 150 | 150 | 150 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 14/06/24 | 07/06/24 | ±% | Diff | 2023 | 2022 |
@@ -182,41 +150,9 @@ In clean products, MEG/Japan (TC1) for LR2s was WS 205 (+4.5%) on increased char
 | **Handysize** | **32K 1yr TC** | 12,500 | 12,500 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 14/Jun/23 | 1500 | 1200 | 1000 | 800 | 1000 |
-| 14/Jul/23 | 1600 | 1300 | 1100 | 900 | 1100 |
-| 14/Aug/23 | 1700 | 1400 | 1200 | 1000 | 1200 |
-| 14/Sep/23 | 2000 | 1600 | 1400 | 1100 | 1400 |
-| 14/Oct/23 | 2500 | 2000 | 1700 | 1300 | 1700 |
-| 14/Nov/23 | 3000 | 2500 | 2000 | 1500 | 2000 |
-| 14/Dec/23 | 6500 | 3000 | 2500 | 1800 | 3000 |
-| 14/Jan/24 | 2000 | 1800 | 1600 | 1200 | 1800 |
-| 14/Feb/24 | 2200 | 1900 | 1700 | 1300 | 1900 |
-| 14/Mar/24 | 3500 | 2800 | 2400 | 1600 | 2800 |
-| 14/Apr/24 | 2500 | 2000 | 1800 | 1400 | 2000 |
-| 14/May/24 | 2800 | 2200 | 1900 | 1500 | 2200 |
-| 14/Jun/24 | 2900 | 2300 | 2000 | 1600 | 2300 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 14/Jun/23 | 12000 | 10000 | 9000 | 8000 |
-| 14/Jul/23 | 13000 | 11000 | 10000 | 9000 |
-| 14/Aug/23 | 14000 | 12000 | 11000 | 10000 |
-| 14/Sep/23 | 15000 | 13000 | 12000 | 11000 |
-| 14/Oct/23 | 25000 | 20000 | 15000 | 14000 |
-| 14/Nov/23 | 30000 | 22000 | 17000 | 15000 |
-| 14/Dec/23 | 55000 | 25000 | 20000 | 16000 |
-| 14/Jan/24 | 18000 | 16000 | 14000 | 13000 |
-| 14/Feb/24 | 32000 | 19000 | 16000 | 14000 |
-| 14/Mar/24 | 35000 | 20000 | 17000 | 15000 |
-| 14/Apr/24 | 22000 | 17000 | 15000 | 13000 |
-| 14/May/24 | 24000 | 18000 | 16000 | 14000 |
-| 14/Jun/24 | 23000 | 17000 | 15000 | 14000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jun-24 avg | May-24 avg | ±% | 2023 | 2022 | 2021 |

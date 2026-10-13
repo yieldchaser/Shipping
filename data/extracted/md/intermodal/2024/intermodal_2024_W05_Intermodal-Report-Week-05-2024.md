@@ -47,40 +47,9 @@ Concurrently, diesel imports from the EoS to Europe have declined, with most shi
 | --- | --- | --- | --- | --- | --- |
 | 24 mos | VELOS SAPPHIRE | 2007 | 74,998 dwt | $30,000/day | Clearlake |
 | 6 mos | FOS POWER | 2007 | 47,371 dwt | $36,500/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 2/Feb/23 | 50 | 150 | 150 |
-| 2/Mar/23 | 80 | 140 | 380 |
-| 2/Apr/23 | 70 | 130 | 350 |
-| 2/May/23 | 60 | 120 | 180 |
-| 2/Jun/23 | 50 | 110 | 370 |
-| 2/Jul/23 | 50 | 100 | 150 |
-| 2/Aug/23 | 50 | 100 | 150 |
-| 2/Sep/23 | 50 | 90 | 150 |
-| 2/Oct/23 | 50 | 100 | 150 |
-| 2/Nov/23 | 60 | 120 | 150 |
-| 2/Dec/23 | 50 | 120 | 150 |
-| 2/Jan/24 | 50 | 120 | 150 |
-| 2/Feb/24 | 50 | 120 | 380 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 2/Feb/23 | 150 | 280 | 150 | 180 |
-| 2/Mar/23 | 140 | 270 | 450 | 170 |
-| 2/Apr/23 | 130 | 260 | 160 | 160 |
-| 2/May/23 | 120 | 250 | 150 | 150 |
-| 2/Jun/23 | 110 | 240 | 140 | 140 |
-| 2/Jul/23 | 100 | 230 | 130 | 130 |
-| 2/Aug/23 | 100 | 220 | 120 | 120 |
-| 2/Sep/23 | 100 | 210 | 110 | 110 |
-| 2/Oct/23 | 100 | 200 | 100 | 100 |
-| 2/Nov/23 | 110 | 210 | 110 | 110 |
-| 2/Dec/23 | 100 | 200 | 100 | 100 |
-| 2/Jan/24 | 110 | 210 | 110 | 110 |
-| 2/Feb/24 | 350 | 180 | 350 | 350 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 02/02/24 | 26/01/24 | ±% | Diff | 2023 | 2022 |
@@ -151,41 +120,9 @@ On the Aframax front, T/C earnings averaged \$54,978/day, down - \$8,510/day w-o
 | **Handysize** | **32K 1yr TC** | 12,250 | 13,250 | -7.5% | -1,000 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 2/Feb/23 | 1500 | 1200 | 1000 | 800 | 1000 |
-| 2/Mar/23 | 1600 | 1300 | 1100 | 900 | 1100 |
-| 2/Apr/23 | 1700 | 1400 | 1200 | 1000 | 1200 |
-| 2/May/23 | 1650 | 1350 | 1150 | 950 | 1150 |
-| 2/Jun/23 | 1400 | 1100 | 1000 | 800 | 1000 |
-| 2/Jul/23 | 1300 | 1000 | 900 | 700 | 900 |
-| 2/Aug/23 | 1200 | 900 | 800 | 600 | 800 |
-| 2/sep/23 | 2500 | 1800 | 1500 | 1200 | 2000 |
-| 2/Oct/23 | 3000 | 2200 | 1800 | 1400 | 2500 |
-| 2/Nov/23 | 2800 | 2000 | 1600 | 1300 | 2300 |
-| 2/Dec/23 | 6500 | 3000 | 2500 | 2000 | 3000 |
-| 2/Jan/24 | 2000 | 1500 | 1200 | 1000 | 1500 |
-| 2/Feb/24 | 1800 | 1400 | 1100 | 900 | 1300 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 2/Feb/23 | 5000 | 10000 | 8000 | 7000 |
-| 2/Mar/23 | 12000 | 11000 | 9000 | 8000 |
-| 2/Apr/23 | 18000 | 12000 | 10000 | 9000 |
-| 2/May/23 | 16000 | 11000 | 9500 | 8500 |
-| 2/Jun/23 | 10000 | 10000 | 8000 | 7000 |
-| 2/Jul/23 | 9000 | 9000 | 7500 | 6500 |
-| 2/Aug/23 | 8000 | 8000 | 7000 | 6000 |
-| 2/sep/23 | 28000 | 15000 | 12000 | 10000 |
-| 2/Oct/23 | 32000 | 18000 | 14000 | 11000 |
-| 2/Nov/23 | 26000 | 16000 | 13000 | 10500 |
-| 2/Dec/23 | 52000 | 20000 | 16000 | 12000 |
-| 2/Jan/24 | 15000 | 14000 | 11000 | 10000 |
-| 2/Feb/24 | 14000 | 13000 | 10000 | 9000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Feb-24 avg | Jan-24 avg | ±% | 2023 | 2022 | 2021 |

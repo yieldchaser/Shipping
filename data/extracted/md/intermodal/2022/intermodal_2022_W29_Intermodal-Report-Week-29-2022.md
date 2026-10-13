@@ -89,55 +89,12 @@ Shanghai 200122 China
 | --- | --- | --- | --- | --- | --- |
 | 24 mos | ALMI HYDRA | 2013 | 319,357 dwt | $28,750/day | Sinokor |
 | 12 mos | SKS DEE | 2010 | 119,456 dwt | $31,750/day | Bahri |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 22/Jul/21 | 30 | 80 | 90 |
-| 22/Aug/21 | 40 | 90 | 100 |
-| 22/Sep/21 | 50 | 100 | 110 |
-| 22/Oct/21 | 60 | 110 | 120 |
-| 22/Nov/21 | 70 | 120 | 130 |
-| 22/Dec/21 | 80 | 130 | 140 |
-| 22/Jan/22 | 90 | 140 | 150 |
-| 22/Feb/22 | 40 | 290 | 280 |
-| 22/Mar/22 | 50 | 300 | 290 |
-| 22/Apr/22 | 60 | 280 | 270 |
-| 22/May/22 | 70 | 260 | 250 |
-| 22/Jun/22 | 80 | 240 | 230 |
-| 22/Jul/22 | 90 | 220 | 280 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 22/Jul/21 | 100 | 110 | 120 | 130 |
-| 22/Aug/21 | 110 | 120 | 130 | 140 |
-| 22/Sep/21 | 120 | 130 | 140 | 150 |
-| 22/Oct/21 | 130 | 140 | 150 | 160 |
-| 22/Nov/21 | 140 | 150 | 160 | 170 |
-| 22/Dec/21 | 150 | 160 | 170 | 180 |
-| 22/Jan/22 | 160 | 170 | 180 | 190 |
-| 22/Feb/22 | 170 | 180 | 190 | 200 |
-| 22/Mar/22 | 200 | 210 | 220 | 230 |
-| 22/Apr/22 | 220 | 230 | 240 | 250 |
-| 22/May/22 | 240 | 250 | 260 | 270 |
-| 22/Jun/22 | 260 | 270 | 280 | 290 |
-| 22/Jul/22 | 280 | 290 | 300 | 310 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| TC Rates $/day | TC Rates $/day | 22-Jul-22 | 15-Jul-22 | ±% | Diff | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | 300k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
-| VLCC | 300k 3yr TC | 34,000 | 33,500 | 1.5% | 500 | 28,672 | 34,772 |
-| Suezmax | 150k 1yr TC | 26,000 | 23,500 | 10.6% | 2500 | 17,226 | 29,543 |
-| Suezmax | 150k 3yr TC | 23,500 | 21,500 | 9.3% | 2000 | 22,700 | 27,481 |
-| Aframax | 110k 1yr TC | 22,750 | 22,750 | 0.0% | 0 | 15,854 | 23,380 |
-| Aframax | 110k 3yr TC | 22,250 | 22,250 | 0.0% | 0 | 19,714 | 21,854 |
-| Panamax | 75k 1yr TC | 23,500 | 23,500 | 0.0% | 0 | 14,184 | 17,322 |
-| Panamax | 75k 3yr TC | 21,000 | 21,000 | 0.0% | 0 | 15,950 | 16,296 |
-| MR | 52k 1yr TC | 21,000 | 21,000 | 0.0% | 0 | 12,608 | 15,505 |
-| MR | 52k 3yr TC | 16,000 | 15,000 | 6.7% | 1000 | 13,804 | 15,916 |
-| Handy | 36k 1yr TC | 21,750 | 21,750 | 0.0% | 0 | 11,292 | 13,966 |
-| Handy | 36k 3yr TC | 17,000 | 16,000 | 6.3% | 1000 | 13,054 | 14,051 |
 ## Indicative Market Values ($ Million) - Tankers
 
 | Sector | Size | Jul-22 avg | Jun-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -317,41 +274,9 @@ In the Handysize sector we had the sale of the "MARIA L" (28,404dwt-bl't '98, Ja
 
 Sentiment remained firm in the newbuilding contracting activity. Orders have surfaced across all main sectors indicating a healthy buying interest. On the wet front, 1 tanker has been ordered, 1x50,000dwt on behalf of CPC Corp., assigned to CSBC for construction and expected delivery within 2024. The vessel will cost \$50.0m (including 5%VAT) and will meet EEDI phase 3 standards. On the dry front, 2 orders for 4 vessels in total emerged last week. Foremost Group ordered 2x185,000dwt vessels at Namura against 7yrs T/C to NYK. The vessels are biofuel ready and will meet EEDI phase 3 and NOx Tier III standards, while they will be delivered within 2024. Additionally, U-Ming assigned the construction of 2x64,000dwt vessels at New Danyang for \$34.0m each. In the gas sector, another order was placed from ADS Maritime for 2x174,000cbm LNGs. The vessels are at LOI stage with DSME, will cost the owner \$248.0m each, and will be delivered within 2026. On the container front, HMM ordered 3x1,800teu units to HMD with 2024 expected delivery and a cost of \$35.5m each. Conclusively, 4+2x14,600dwt multi-purpose vessels have been ordered on behalf of SAL to Wuhu, China at the price of \$40.0m each. The heavy-lift vessels will be delivered within 2024-2025 and will be equipped with 2x800tonne Liebherr cranes each.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 22/Jul/21 | 100 | 65 | 55 | 50 | 35 |
-| 22/Aug/21 | 102 | 66 | 56 | 50 | 35 |
-| 22/Sep/21 | 105 | 67 | 57 | 51 | 36 |
-| 22/Oct/21 | 108 | 68 | 58 | 51 | 36 |
-| 22/Nov/21 | 110 | 69 | 59 | 52 | 36 |
-| 22/Dec/21 | 112 | 70 | 60 | 52 | 36 |
-| 22/Jan/22 | 114 | 71 | 60 | 53 | 36 |
-| 22/Feb/22 | 115 | 72 | 61 | 53 | 36 |
-| 22/Mar/22 | 116 | 73 | 61 | 54 | 37 |
-| 22/Apr/22 | 117 | 74 | 62 | 54 | 37 |
-| 22/May/22 | 118 | 75 | 62 | 55 | 37 |
-| 22/Jun/22 | 119 | 76 | 63 | 55 | 38 |
-| 22/Jul/22 | 120 | 77 | 63 | 56 | 38 |
-
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 22/Jul/21 | 58 | 32 | 32 | 28 |
-| 22/Aug/21 | 59 | 33 | 33 | 28 |
-| 22/Sep/21 | 59 | 33 | 33 | 29 |
-| 22/Oct/21 | 60 | 34 | 34 | 29 |
-| 22/Nov/21 | 60 | 34 | 34 | 29 |
-| 22/Dec/21 | 60 | 34 | 34 | 29 |
-| 22/Jan/22 | 61 | 35 | 35 | 29 |
-| 22/Feb/22 | 61 | 35 | 35 | 29 |
-| 22/Mar/22 | 61 | 35 | 35 | 29 |
-| 22/Apr/22 | 62 | 36 | 36 | 30 |
-| 22/May/22 | 62 | 36 | 36 | 30 |
-| 22/Jun/22 | 62 | 36 | 36 | 30 |
-| 22/Jul/22 | 62 | 36 | 36 | 30 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ## Indicative Period Charters
 
@@ -366,23 +291,8 @@ Sentiment remained firm in the newbuilding contracting activity. Orders have sur
 # Demolition Market
 
 The sentiment was subdued across the Indian subcontinent demolition markets for another week. A mix of negative factors continues to affect breakers' financial capacity to allure owners towards the scrapping option as bids remain inadequate when compared to the current freight returns. Currency depreciations across all Indian subcontinent countries with new lows materializing week by week, coupled with discounted Russian steel products, low domestic steel demand, and increased production costs have pushed domestic steel prices downward. On the contrary, the shortage of demo candidates has kept scrap bids steady last week; Bangladesh is leading the course, yet with LC restrictions making large LDT units unaffordable. The same factors have also affected the Turkey demolition market yet with breakers unable to keep their offers stable, reducing their levels to the mid 200s/ldt. Average prices in the different markets this week for tankers ranged between 250-585/ldt and those for dry bulk units between \$240-575/ldt.
-## Tanker Demolition Prices
+> **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 22/Jul/21 | 600 | 560 | 600 | 300 |
-| 22/Aug/21 | 600 | 560 | 600 | 300 |
-| 22/Sep/21 | 620 | 570 | 620 | 310 |
-| 22/Oct/21 | 620 | 570 | 620 | 320 |
-| 22/Nov/21 | 610 | 560 | 610 | 325 |
-| 22/Dec/21 | 610 | 550 | 610 | 325 |
-| 22/Jan/22 | 610 | 550 | 610 | 330 |
-| 22/Feb/22 | 640 | 550 | 640 | 360 |
-| 22/Mar/22 | 680 | 560 | 680 | 450 |
-| 22/Apr/22 | 680 | 560 | 680 | 450 |
-| 22/May/22 | 660 | 560 | 660 | 440 |
-| 22/Jun/22 | 560 | 560 | 560 | 300 |
-| 22/Jul/22 | 560 | 560 | 560 | 300 |
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

@@ -66,42 +66,9 @@ Looking ahead, we can anticipate this trend to persist given the tightening of r
 | --- | --- | --- | --- | --- | --- | --- |
 | 60 mos | SEVERN | 2021 | 50,192 dwt | DEL EAST/WEST AUG/24 | $29,000/day | Hyundai MM |
 | 4 mos | ELIM GRACE | 2006 | 49,999 dwt | DEL EAST JUN/24 | $33,000/day | Clearlake |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | - | - | - |
-| 12/Jul/23 | WS | WS | WS |
-| 12/Aug/23 | RATES | RATES | RATES |
-| 12/Sep/23 | TD3 | TD6 | TD9 |
-| 12/Oct/23 | WS | WS | WS |
-| 12/Nov/23 | points | points | points |
-| 12/Dec/23 | 80 | 90 | 150 |
-| 12/Jan/24 | 60 | 80 | 140 |
-| 12/Feb/24 | 50 | 70 | 280 |
-| 12/Mar/24 | 50 | 150 | 250 |
-| 12/Apr/24 | 50 | 140 | 260 |
-| 12/May/24 | 50 | 130 | 270 |
-| 12/Jun/24 | 50 | 380 | 380 |
-| 12/Jul/24 | 50 | 120 | 200 |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | - | - | - | - |
-| 12/Jul/23 | WS | WS | WS | WS |
-| 12/Aug/23 | RATES | RATES | RATES | RATES |
-| 12/Sep/23 | TC1 | TC2 | TC5 | TC6 |
-| 12/Oct/23 | WS | WS | WS | WS |
-| 12/Nov/23 | points | points | points | points |
-| 12/Dec/23 | 100 | 150 | 180 | 160 |
-| 12/Jan/24 | 120 | 160 | 190 | 170 |
-| 12/Feb/24 | 140 | 170 | 200 | 180 |
-| 12/Mar/24 | 130 | 160 | 190 | 170 |
-| 12/Apr/24 | 140 | 170 | 200 | 180 |
-| 12/May/24 | 150 | 180 | 210 | 190 |
-| 12/Jun/24 | 100 | 150 | 160 | 140 |
-| 12/Jul/24 | 380 | 350 | 360 | 340 |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 12/07/24 | 05/07/24 | ±% | Diff | 2023 | 2022 |
@@ -151,32 +118,9 @@ he market saw mixed performance during the previous week with dirty and clean ta
 | 4/6 mos | KOULITSA 2 | 2011 | 78,129 dwt | dely CJK 15/20 Jul redel worldwide | $16,500/day | Bluepool |
 | 8/11 mos | SM SAMCHEOMPO | 2019 | 80,942 dwt | dely Fangcheng 18/23 Jul redel worldwide | $16,750/day | Classic |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 12/Jul/23 | 1500 | 1000 | 1000 | 800 | 1000 |
-| 12/Aug/23 | 2000 | 1500 | 1200 | 900 | 1200 |
-| 12/Sep/23 | 3000 | 2000 | 1500 | 1000 | 1500 |
-| 12/Oct/23 | 3500 | 2500 | 1800 | 1100 | 1800 |
-| 12/Nov/23 | 4000 | 3000 | 2000 | 1200 | 2200 |
-| 12/Dec/23 | 6500 | 3200 | 1800 | 1100 | 3000 |
-| 12/Jan/24 | 3000 | 1500 | 1200 | 800 | 1800 |
-| 12/Feb/24 | 3500 | 2000 | 1500 | 900 | 2000 |
-| 12/Mar/24 | 4000 | 2500 | 1800 | 1000 | 2200 |
-| 12/Apr/24 | 3500 | 2000 | 1600 | 900 | 2000 |
-| 12/May/24 | 3000 | 1800 | 1500 | 850 | 1900 |
-| 12/Jun/24 | 3200 | 1900 | 1600 | 900 | 2000 |
-| 12/Jul/24 | 3300 | 1850 | 1550 | 880 | 2050 |
-
-### Average T/C Rates (1-Year Trend)
-
-|  | 12/Jul/23 | 12/Aug/23 | 12/Sep/23 | 12/Oct/23 | 12/Nov/23 | 12/Dec/23 | 12/Jan/24 | 12/Feb/24 | 12/Mar/24 | 12/Apr/24 | 12/May/24 | 12/Jun/24 | 12/Jul/24 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Average of the 5 T / C | 10000 | 15000 | 25000 | 30000 | 40000 | 55000 | 15000 | 20000 | 30000 | 25000 | 20000 | 25000 | 28000 |
-| AVR 5TC BPI | 8000 | 10000 | 12000 | 15000 | 18000 | 17000 | 10000 | 12000 | 14000 | 13000 | 12000 | 13000 | 12500 |
-| AVR 10TC BSI | 7000 | 8000 | 9000 | 10000 | 11000 | 10000 | 7000 | 8000 | 9000 | 8000 | 7500 | 8000 | 7800 |
-| AVR 7TC BHSI | 6000 | 7000 | 8000 | 9000 | 10000 | 9000 | 6000 | 7000 | 8000 | 7000 | 6500 | 7000 | 6800 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 12/07/24 | 05/07/24 | ±% | Diff | 2023 | 2022 |

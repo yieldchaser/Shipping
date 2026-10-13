@@ -108,41 +108,9 @@ On the Aframax front, the Mediterranean experienced a lackluster week. Though to
 
 min 21 Jul' 2026 / max 21 Sep 2026 DSI Polaris 2018 60,404 dwt
 dely Tuticorin 1 Jul \$12,250/day Cargill
-## Baltic Indices
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 4/Jul/24 | 3500 | 2000 | 1400 | 800 | 2000 |
-| 4/Aug/24 | 2500 | 1800 | 1300 | 700 | 1800 |
-| 4/Sep/24 | 3200 | 1700 | 1200 | 750 | 1900 |
-| 4/Oct/24 | 3800 | 1600 | 1100 | 800 | 3500 |
-| 4/Nov/24 | 1500 | 1000 | 1000 | 700 | 1000 |
-| 4/Dec/24 | 1200 | 900 | 900 | 600 | 900 |
-| 4/Jan/25 | 1000 | 800 | 800 | 500 | 800 |
-| 4/Feb/25 | 900 | 700 | 700 | 400 | 700 |
-| 4/Mar/25 | 1500 | 1200 | 1000 | 600 | 1500 |
-| 4/Apr/25 | 1800 | 1400 | 1100 | 700 | 1600 |
-| 4/May/25 | 1700 | 1300 | 1000 | 650 | 1500 |
-| 4/Jun/25 | 1600 | 1200 | 900 | 600 | 1400 |
-| 4/Jul/25 | 1900 | 1500 | 1400 | 800 | 3800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 4/Jul/24 | 28000 | 14000 | 12000 | 8000 |
-| 4/Aug/24 | 20000 | 13000 | 11000 | 7000 |
-| 4/Sep/24 | 28000 | 12000 | 10000 | 6000 |
-| 4/Oct/24 | 30000 | 11000 | 9000 | 5000 |
-| 4/Nov/24 | 15000 | 9000 | 8000 | 4000 |
-| 4/Dec/24 | 8000 | 8000 | 7000 | 3000 |
-| 4/Jan/25 | 6000 | 7000 | 6000 | 2000 |
-| 4/Feb/25 | 5000 | 6000 | 5000 | 1000 |
-| 4/Mar/25 | 18000 | 10000 | 8000 | 3000 |
-| 4/Apr/25 | 16000 | 11000 | 9000 | 4000 |
-| 4/May/25 | 15000 | 10000 | 8000 | 3000 |
-| 4/Jun/25 | 28000 | 12000 | 9000 | 5000 |
-| 4/Jul/25 | 16000 | 11000 | 8000 | 4000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 

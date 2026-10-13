@@ -51,44 +51,9 @@ In conclusion, Brazil's increasing reliance on Russian diesel imports has reshap
 |  | 55K | MED-USG | 140 | 18,993 | 140 | 19,478 | -2.5% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 137 | 12,944 | 138 | 14,054 | -7.9% | 40,364 | 8,548 |
 
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| WS | 100 | 200 | 250 |
-| points | 100 | 600 | 500 |
-| 8/Sep/22 | 50 | 600 | 600 |
-| 8/Oct/22 | 50 | 250 | 150 |
-| 8/Nov/22 | 50 | 200 | 150 |
-| 8/Dec/22 | 50 | 200 | 350 |
-| 8/Jan/23 | 50 | 150 | 300 |
-| 8/Feb/23 | 50 | 100 | 100 |
-| 8/Mar/23 | 50 | 100 | 100 |
-| 8/Apr/23 | 50 | 50 | 50 |
-| 8/May/23 | 50 | 50 | 50 |
-| 8/Jun/23 | 50 | 50 | 50 |
-| 8/Jul/23 |  |  |  |
-| 8/Aug/23 |  |  |  |
-| 8/Sep/23 |  |  |  |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| WS | 200 | 300 | 300 | 250 |
-| points | 450 | 450 | 450 | 450 |
-| 8/Sep/22 | 300 | 450 | 450 | 450 |
-| 8/Oct/22 | 100 | 100 | 100 | 150 |
-| 8/Nov/22 | 100 | 100 | 100 | 450 |
-| 8/Dec/22 | 100 | 300 | 100 | 300 |
-| 8/Jan/23 | 100 | 200 | 100 | 200 |
-| 8/Feb/23 | 100 | 150 | 100 | 150 |
-| 8/Mar/23 | 100 | 150 | 100 | 150 |
-| 8/Apr/23 | 100 | 100 | 100 | 100 |
-| 8/May/23 | 100 | 100 | 100 | 100 |
-| 8/Jun/23 | 100 | 100 | 100 | 100 |
-| 8/Jul/23 |  |  |  |  |
-| 8/Aug/23 |  |  |  |  |
-| 8/Sep/23 |  |  |  |  |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 08/09/23 | 01/09/23 | ±% | Diff | 2022 | 2021 |
@@ -159,41 +124,9 @@ On the Aframax front, T/C earnings averaged \$8,911/day, down - \$2,788/day w-o-
 | 32K 1yr TC |  | 10,250 | 9,750 | **5.1%** | **500** | 17,827 | 18,354 |
 | 32K 3yr TC |  | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 8/Sep/22 | 2200 | 1800 | 1500 | 900 | 2000 |
-| 8/Oct/22 | 1600 | 1400 | 1400 | 850 | 1500 |
-| 8/Nov/22 | 1500 | 1300 | 1300 | 800 | 1400 |
-| 8/Dec/22 | 1400 | 1200 | 1200 | 750 | 1300 |
-| 8/Jan/23 | 2500 | 1100 | 1100 | 700 | 2400 |
-| 8/Feb/23 | 1000 | 800 | 800 | 700 | 900 |
-| 8/Mar/23 | 1200 | 1000 | 1000 | 850 | 1100 |
-| 8/Apr/23 | 1800 | 1400 | 1300 | 900 | 1600 |
-| 8/May/23 | 2600 | 2000 | 2200 | 1000 | 2500 |
-| 8/Jun/23 | 1400 | 1100 | 1100 | 850 | 1300 |
-| 8/Jul/23 | 1500 | 1200 | 1200 | 850 | 1400 |
-| 8/Aug/23 | 1400 | 1200 | 1200 | 850 | 1300 |
-| 8/Sep/23 | 1300 | 1200 | 1200 | 850 | 1200 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 8/Sep/22 | 18000 | 16000 | 14000 | 12000 |
-| 8/Oct/22 | 14000 | 13000 | 12000 | 10000 |
-| 8/Nov/22 | 13000 | 12000 | 11000 | 9000 |
-| 8/Dec/22 | 12000 | 11000 | 10000 | 8000 |
-| 8/Jan/23 | 23000 | 10000 | 9000 | 7000 |
-| 8/Feb/23 | 6000 | 7000 | 7000 | 6000 |
-| 8/Mar/23 | 14000 | 10000 | 9000 | 8000 |
-| 8/Apr/23 | 16000 | 13000 | 11000 | 9000 |
-| 8/May/23 | 21000 | 15000 | 12000 | 10000 |
-| 8/Jun/23 | 13000 | 11000 | 10000 | 9000 |
-| 8/Jul/23 | 15000 | 12000 | 10000 | 9000 |
-| 8/Aug/23 | 14000 | 12000 | 10000 | 9000 |
-| 8/Sep/23 | 12000 | 11000 | 9000 | 8000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Sep-23 avg | Aug-23 avg | ±% | 2022 | 2021 |

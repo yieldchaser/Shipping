@@ -17,74 +17,9 @@ It is particularly noteworthy that this trend did not reverse post-mid-2023, des
 
 Moreover, the disparity between the speeds of eco and non-eco vessels now exceeds the five-year average during a period that typically sees the smallest yearly difference, coinciding with a traditionally subdued market in Q1 when vessels operate at normal efficiency. The new regulations have restricted non-eco vessels' ability to accelerate during robust freight markets, unlike eco vessels, thereby widening the profit margin for modern vessels. This is further exemplified in our second graph, which highlights the premium of a 5-year-old Ultramax vessel over a 15-year-old Supramax, currently at a record high of \$18.0 million, based on an average price reflective of shipyard builds. The regulations (EEXI/CII and ETS) provide owners of modern vessels greater operational flexibility at higher speeds in stronger freight market conditions, unlike owners of older vessels who are compelled to adopt a more conservative strategy. This approach, combined with the scarcity of offered modern vessels in the secondhand market contributes to the premium observed. Overall, the operation of both eco and non-eco vessels at their lowest recorded speed down by 7.8% and 7.3% respectively from their five-year highs, and 4% and 4.4% from their five-year averages - not only plays a pivotal role in fostering a favorable freight market environment but is also likely to continue influencing interest in the SnP market.
 
-### Supramax average speed and Earnings
+> **Chart (not transcribed):** Supramax average speed and Earnings. The report prints no values for it.
 
-| Date | S10TC | Eco average speed | Non-Eco average speed |
-| --- | --- | --- | --- |
-| Jan-2018 | 10650 | 11650 | 11450 |
-| Mar-2018 | 10600 | 11800 | 11400 |
-| May-2018 | 10550 | 11750 | 11350 |
-| Jul-2018 | 10500 | 11700 | 11300 |
-| Sep-2018 | 10450 | 11650 | 11250 |
-| Nov-2018 | 10400 | 11600 | 11200 |
-| Jan-2019 | 10350 | 11550 | 11150 |
-| Mar-2019 | 10300 | 11500 | 11100 |
-| May-2019 | 10250 | 11450 | 11050 |
-| Jul-2019 | 10200 | 11400 | 11000 |
-| Sep-2019 | 10150 | 11350 | 10950 |
-| Nov-2019 | 10100 | 11300 | 10900 |
-| Jan-2020 | 10050 | 11250 | 10850 |
-| Mar-2020 | 10000 | 11200 | 10800 |
-| May-2020 | 9950 | 11150 | 10750 |
-| Jul-2020 | 9900 | 11100 | 10700 |
-| Sep-2020 | 9850 | 11050 | 10650 |
-| Nov-2020 | 9800 | 11000 | 10600 |
-| Jan-2021 | 9750 | 10950 | 10550 |
-| Mar-2021 | 9700 | 10900 | 10500 |
-| May-2021 | 9650 | 10850 | 10450 |
-| Jul-2021 | 9600 | 10800 | 10400 |
-| Sep-2021 | 9550 | 10750 | 10350 |
-| Nov-2021 | 9500 | 10700 | 10300 |
-| Jan-2022 | 9450 | 10650 | 10250 |
-| Mar-2022 | 9400 | 10600 | 10200 |
-| May-2022 | 9350 | 10550 | 10150 |
-| Jul-2022 | 9300 | 10500 | 10100 |
-| Sep-2022 | 9250 | 10450 | 10050 |
-| Nov-2022 | 9200 | 10400 | 10000 |
-| Jan-2023 | 9150 | 10350 | 9950 |
-| Mar-2023 | 9100 | 10300 | 9900 |
-| May-2023 | 9050 | 10250 | 9850 |
-| Jul-2023 | 9000 | 10200 | 9800 |
-| Sep-2023 | 8950 | 10150 | 9750 |
-| Nov-2023 | 8900 | 10100 | 9700 |
-| Jan-2024 | 8850 | 10050 | 9650 |
-
-### 5YR old Ultramax price premium to 15YR old Supramax price
-
-| Date | $m |
-| --- | --- |
-| 04-Jan-2019 | 13500 |
-| 04-Apr-2019 | 14000 |
-| 04-Jul-2019 | 15000 |
-| 04-Oct-2019 | 14500 |
-| 04-Jan-2020 | 13500 |
-| 04-Apr-2020 | 12500 |
-| 04-Jul-2020 | 12000 |
-| 04-Oct-2020 | 11000 |
-| 04-Jan-2021 | 11000 |
-| 04-Apr-2021 | 12500 |
-| 04-Jul-2021 | 15000 |
-| 04-Oct-2021 | 15500 |
-| 04-Jan-2022 | 16000 |
-| 04-Apr-2022 | 16500 |
-| 04-Jul-2022 | 16500 |
-| 04-Oct-2022 | 15500 |
-| 04-Jan-2023 | 13000 |
-| 04-Apr-2023 | 16000 |
-| 04-Jul-2023 | 16500 |
-| 04-Oct-2023 | 16000 |
-| 04-Jan-2024 | 17000 |
-| 04-Apr-2024 | 18000 |
+> **Chart (not transcribed):** 5YR old Ultramax price premium to 15YR old Supramax price. The report prints no values for it.
 
 ---
 
@@ -114,42 +49,9 @@ Moreover, the disparity between the speeds of eco and non-eco vessels now exceed
 | --- | --- | --- | --- | --- | --- | --- |
 | 24 mos | SEAODYSSEY | 2017 | 113,176 dwt | DELEAST FEB/24 | $43,000/day | Trafigura |
 | 12 mos | GRAND ACE7 | 2005 | 46,140 dwt | DELEAST FEB/24 | $30,500/day | ADMIC |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | - | - | - |
-| 23/Feb/23 | WS | WS | WS |
-| 23/Mar/23 | RATES | RATES | RATES |
-| 23/Apr/23 | TD3 | TD6 | TD9 |
-| 23/May/23 | WS | WS | WS |
-| 23/Jun/23 | points | points | points |
-| 23/Jul/23 | 350 | 150 | 380 |
-| 23/Aug/23 | 80 | 160 | 360 |
-| 23/Sep/23 | 70 | 100 | 180 |
-| 23/Oct/23 | 100 | 140 | 380 |
-| 23/Nov/23 | 80 | 120 | 150 |
-| 23/Dec/23 | 60 | 100 | 100 |
-| 23/Jan/24 | 60 | 90 | 100 |
-| 23/Feb/24 | 60 | 80 | 100 |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | - | - | - | - |
-| 23/Feb/23 | WS | WS | WS | WS |
-| 23/Mar/23 | RATES | RATES | RATES | RATES |
-| 23/Apr/23 | TC1 | TC2 | TC5 | TC6 |
-| 23/May/23 | WS | WS | WS | WS |
-| 23/Jun/23 | points | points | points | points |
-| 23/Jul/23 | 160 | 140 | 180 | 200 |
-| 23/Aug/23 | 450 | 300 | 400 | 350 |
-| 23/Sep/23 | 120 | 140 | 160 | 150 |
-| 23/Oct/23 | 100 | 120 | 140 | 130 |
-| 23/Nov/23 | 100 | 110 | 120 | 110 |
-| 23/Dec/23 | 100 | 100 | 110 | 100 |
-| 23/Jan/24 | 100 | 100 | 110 | 100 |
-| 23/Feb/24 | 150 | 140 | 160 | 150 |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 23/02/24 | 16/02/24 | ±% | Diff | 2023 | 2022 |
@@ -225,41 +127,9 @@ Suezmax T/C earnings averaged \$45,733/day, down \$9,441/day or -19.51% w-o-w, a
 | **Handysize** | **32K 1yr TC** | 13,000 | 13,000 | 0.0% | 0 | 10,644 | 17,827 |
 | **Handysize** | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 23/Feb/23 | 1500 | 1200 | 1000 | 800 | 1000 |
-| 23/Mar/23 | 1800 | 1300 | 1100 | 900 | 1100 |
-| 23/Apr/23 | 2000 | 1400 | 1200 | 1000 | 1200 |
-| 23/May/23 | 1600 | 1300 | 1100 | 900 | 1100 |
-| 23/Jun/23 | 1500 | 1200 | 1000 | 800 | 1000 |
-| 23/Jul/23 | 1600 | 1300 | 1100 | 900 | 1100 |
-| 23/Aug/23 | 2000 | 1500 | 1200 | 1000 | 1300 |
-| 23/Sep/23 | 3000 | 2500 | 2000 | 1500 | 2500 |
-| 23/Oct/23 | 4000 | 3000 | 2500 | 2000 | 3500 |
-| 23/Nov/23 | 6000 | 3000 | 2500 | 2000 | 3000 |
-| 23/Dec/23 | 7000 | 3000 | 2500 | 2000 | 3000 |
-| 23/Jan/24 | 2500 | 1500 | 1200 | 1000 | 1500 |
-| 23/Feb/24 | 2200 | 1400 | 1100 | 900 | 1400 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 23/Feb/23 | 5000 | 12000 | 10000 | 8000 |
-| 23/Mar/23 | 10000 | 12000 | 10000 | 8000 |
-| 23/Apr/23 | 15000 | 12000 | 10000 | 8000 |
-| 23/May/23 | 15000 | 12000 | 10000 | 8000 |
-| 23/Jun/23 | 15000 | 12000 | 10000 | 8000 |
-| 23/Jul/23 | 15000 | 12000 | 10000 | 8000 |
-| 23/Aug/23 | 20000 | 13000 | 11000 | 9000 |
-| 23/Sep/23 | 25000 | 15000 | 12000 | 10000 |
-| 23/Oct/23 | 35000 | 18000 | 14000 | 11000 |
-| 23/Nov/23 | 50000 | 18000 | 14000 | 11000 |
-| 23/Dec/23 | 55000 | 18000 | 14000 | 11000 |
-| 23/Jan/24 | 18000 | 14000 | 11000 | 9000 |
-| 23/Feb/24 | 18000 | 14000 | 11000 | 9000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Feb-24 avg | Jan-24 avg | ±% | 2023 | 2022 | 2021 |

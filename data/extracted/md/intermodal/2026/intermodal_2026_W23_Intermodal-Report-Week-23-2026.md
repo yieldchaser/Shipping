@@ -76,41 +76,9 @@ No fresh fixtures to report
 | Aframax | 110KT DH | 80.0 | 79.1 | **1.1%** | 63.6 | 71.0 | 64.4 |
 | LR1 | 75KT DH | 60.0 | 59.5 | **0.8%** | 47.9 | 53.8 | 49.2 |
 | MR | 52KT DH | 51.0 | 50.6 | **0.8%** | 41.4 | 45.8 | 41.4 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS points |  |  |
-| 5/Jun/25 | 100 |  |  |
-| 5/Jul/25 | 120 |  |  |
-| 5/Aug/25 | 130 |  |  |
-| 5/Sep/25 | 140 |  |  |
-| 5/Oct/25 | 150 |  |  |
-| 5/Nov/25 | 160 |  |  |
-| 5/Dec/25 | 170 |  |  |
-| 5/Jan/26 | 180 |  |  |
-| 5/Feb/26 | 200 |  |  |
-| 5/Mar/26 | 400 |  |  |
-| 5/Apr/26 | 450 |  |  |
-| 5/May/26 | 400 |  |  |
-| 5/Jun/26 | 350 |  |  |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 5/Jun/25 | 150 |  |  | 100 |
-| 5/Jul/25 | 160 |  |  | 110 |
-| 5/Aug/25 | 170 |  |  | 120 |
-| 5/Sep/25 | 180 |  |  | 130 |
-| 5/Oct/25 | 190 |  |  | 140 |
-| 5/Nov/25 | 200 |  |  | 150 |
-| 5/Dec/25 | 210 |  |  | 160 |
-| 5/Jan/26 | 220 |  |  | 170 |
-| 5/Feb/26 | 230 |  |  | 180 |
-| 5/Mar/26 | 300 |  |  | 250 |
-| 5/Apr/26 | 350 |  |  | 300 |
-| 5/May/26 | 500 |  |  | 450 |
-| 5/Jun/26 | 500 |  |  | 400 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Tanker Chartering
 
@@ -153,23 +121,7 @@ The Aframax segment recorded the strongest gains among crude carriers, with aver
 | **Handysize** | **32K 1yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 5/Jun/25 | 25000 | 10000 | 15000 | 8000 |
-| 5/Jul/25 | 10000 | 15000 | 12000 | 9000 |
-| 5/Aug/25 | 28000 | 16000 | 14000 | 10000 |
-| 5/Sep/25 | 27000 | 17000 | 15000 | 11000 |
-| 5/Oct/25 | 26000 | 16000 | 14000 | 10000 |
-| 5/Nov/25 | 43000 | 18000 | 16000 | 12000 |
-| 5/Dec/25 | 44000 | 17000 | 15000 | 11000 |
-| 5/Jan/26 | 12000 | 11000 | 10000 | 8000 |
-| 5/Feb/26 | 24000 | 14000 | 13000 | 9000 |
-| 5/Mar/26 | 23000 | 15000 | 14000 | 10000 |
-| 5/Apr/26 | 38000 | 18000 | 17000 | 13000 |
-| 5/May/26 | 44000 | 20000 | 20000 | 15000 |
-| 5/Jun/26 | 45000 | 21000 | 21000 | 16000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jun-26 avg | May-26 avg | ±% | 2025 | 2024 |

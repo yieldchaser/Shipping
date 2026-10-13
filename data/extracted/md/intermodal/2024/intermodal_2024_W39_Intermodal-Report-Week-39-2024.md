@@ -49,42 +49,9 @@ Despite the pessimistic outlook regarding the impact of the stimulus package on 
 | --- | --- | --- | --- | --- | --- | --- |
 | 36 mos | CLEAN JUSTICE | 2011 | 45,998 dwt | DEL WEST SEP-NOV/24 | $27,950/day | Petrobras |
 | 3 mos | ARROW G | 2003 | 45,975 dwt | DEL WEST SEP/24 | $26,800/day | Newton |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS points | WS points | WS points |
-| 27/Sep/23 | 50 | 100 | 250 |
-| 27/Oct/23 | 80 | 120 | 280 |
-| 27/Nov/23 | 70 | 130 | 300 |
-| 27/Dec/23 | 60 | 140 | 380 |
-| 27/Jan/24 | 70 | 380 | 250 |
-| 27/Feb/24 | 60 | 120 | 180 |
-| 27/Mar/24 | 50 | 110 | 160 |
-| 27/Apr/24 | 50 | 100 | 150 |
-| 27/May/24 | 50 | 100 | 140 |
-| 27/Jun/24 | 50 | 100 | 130 |
-| 27/Jul/24 | 50 | 90 | 120 |
-| 27/Aug/24 | 50 | 80 | 110 |
-| 27/Sep/24 | 50 | 70 | 100 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS points | WS points | WS points | WS points |
-| 27/Sep/23 | 150 | 180 | 160 | 170 |
-| 27/Oct/23 | 160 | 190 | 170 | 180 |
-| 27/Nov/23 | 150 | 180 | 160 | 170 |
-| 27/Dec/23 | 140 | 170 | 150 | 160 |
-| 27/Jan/24 | 160 | 350 | 160 | 170 |
-| 27/Feb/24 | 150 | 300 | 150 | 160 |
-| 27/Mar/24 | 140 | 280 | 140 | 150 |
-| 27/Apr/24 | 130 | 260 | 130 | 140 |
-| 27/May/24 | 120 | 240 | 120 | 130 |
-| 27/Jun/24 | 110 | 220 | 110 | 120 |
-| 27/Jul/24 | 100 | 200 | 100 | 110 |
-| 27/Aug/24 | 90 | 180 | 90 | 100 |
-| 27/Sep/24 | 80 | 160 | 80 | 90 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 27/09/24 | 20/09/24 | ±% | Diff | 2023 | 2022 |
@@ -152,22 +119,7 @@ On Clean tonnage, Middle East exports and fixing boosted LR1 and LR2 for eastbou
 | **Handysize** | **32K 1yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 27/5ep/23 | 25000 | 15000 | 15000 | 10000 |
-| 27/10ct/23 | 30000 | 16000 | 16000 | 10000 |
-| 27/Nov/23 | 55000 | 18000 | 17000 | 11000 |
-| 27/Dec/23 | 40000 | 16000 | 16000 | 11000 |
-| 27/Jan/24 | 20000 | 14000 | 14000 | 10000 |
-| 27/Feb/24 | 35000 | 17000 | 17000 | 11000 |
-| 27/Mar/24 | 30000 | 16000 | 16000 | 11000 |
-| 27/Apr/24 | 25000 | 15000 | 15000 | 10000 |
-| 27/May/24 | 28000 | 15000 | 15000 | 10000 |
-| 27/Jul/24 | 26000 | 14000 | 14000 | 10000 |
-| 27/Aug/24 | 24000 | 14000 | 14000 | 10000 |
-| 27/5ep/24 | 26000 | 14000 | 14000 | 10000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Sep-24 avg | Aug-24 avg | ±% | 2023 | 2022 | 2021 |

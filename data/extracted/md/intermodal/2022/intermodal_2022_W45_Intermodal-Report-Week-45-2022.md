@@ -168,41 +168,9 @@ In the MR1 sector we had the sale of the "GOLDEN CAMELLIA" (34,783dwt-blt '21, C
 |  | **32K 1yr TC** | 11,000 | 12,000 | -8.3% | -1,000 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 9,250 | 10,250 | -9.8% | -1,000 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 11/Nov/21 | 3000 | 2500 | 2800 | 1800 | 4000 |
-| 11/Dec/21 | 2800 | 2400 | 2600 | 1700 | 3500 |
-| 11/Jan/22 | 2200 | 2000 | 2200 | 1600 | 2800 |
-| 11/Feb/22 | 2400 | 2100 | 2400 | 1700 | 3000 |
-| 11/Mar/22 | 2800 | 2600 | 2700 | 1900 | 3500 |
-| 11/Apr/22 | 2900 | 2700 | 2800 | 2000 | 3600 |
-| 11/May/22 | 4200 | 3000 | 3500 | 2200 | 4500 |
-| 11/Jun/22 | 2800 | 2500 | 2600 | 1800 | 3200 |
-| 11/Jul/22 | 2400 | 2200 | 2300 | 1700 | 2900 |
-| 11/Aug/22 | 1800 | 1800 | 1700 | 1600 | 2200 |
-| 11/Sep/22 | 1700 | 1700 | 1600 | 1600 | 2100 |
-| 11/Oct/22 | 1600 | 1600 | 1600 | 1600 | 2000 |
-| 11/Nov/22 | 1600 | 1600 | 1600 | 1600 | 1900 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 11/Nov/21 | 28000 | 25000 | 26000 | 24000 |
-| 11/Dec/21 | 35000 | 28000 | 27000 | 23000 |
-| 11/Jan/22 | 22000 | 20000 | 22000 | 19000 |
-| 11/Feb/22 | 12000 | 18000 | 15000 | 16000 |
-| 11/Mar/22 | 28000 | 26000 | 27000 | 22000 |
-| 11/Apr/22 | 30000 | 27000 | 28000 | 23000 |
-| 11/May/22 | 32000 | 28000 | 30000 | 24000 |
-| 11/Jun/22 | 26000 | 25000 | 26000 | 21000 |
-| 11/Jul/22 | 20000 | 22000 | 23000 | 18000 |
-| 11/Aug/22 | 10000 | 18000 | 17000 | 16000 |
-| 11/Sep/22 | 15000 | 17000 | 16000 | 16000 |
-| 11/Oct/22 | 16000 | 16000 | 16000 | 16000 |
-| 11/Nov/22 | 16000 | 16000 | 16000 | 16000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -289,41 +257,9 @@ In the Kamsarmax sector we had the sale of the "CMB PARTNER" (81,805dwt-blt '16,
 
 Reported activity on the newbuilding front remains firm for yet another week. On the dry sector, TMS Dry returned to former Jiangsu Rongsheng HI, now rebranded as SPS, for a mammoth order of 6 firm Kamsarmaxes plus 4 Capesize with an option of four more. This marks the first order for the newly rebranded yard which is rumored to be a bargain, as the pricing offered for the vessels is highly competitive. On the wet front, no orders have been reported this week, leaving the orderbook at a considerably low level. On the gas front, Greek Evalend declared two options at Hyundai HI, lifting its order tally to the shipyard to five VLGCs, while Greek Minerva secured 2 berths for the Qatari project, which have been previously reserved by Exxon Mobil. In the boxship sector, CMA CGM's CEO announced that the company will lift its order tally in DSIC to a total of 12 methanol fuelled neo-panamax vessels by ordering 6 vessels more. Conclusively, the Chinese automaker BYD is making its debut as a ship owner by ordering 2 LNG dual fuelled PCTC vessels at GSI, while Sallaum Lines inked 2 LNG dual fuelled PCTCs at Chinese Fujian Mawei.
 
-## Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 11/Nov/21 | 105 | 75 | 58 | 48 | 42 |
-| 11/Dec/21 | 108 | 76 | 59 | 49 | 43 |
-| 11/Jan/22 | 110 | 77 | 60 | 50 | 44 |
-| 11/Feb/22 | 112 | 78 | 61 | 51 | 45 |
-| 11/Mar/22 | 114 | 79 | 62 | 52 | 46 |
-| 11/Apr/22 | 115 | 79 | 62 | 53 | 46 |
-| 11/May/22 | 116 | 79 | 63 | 54 | 46 |
-| 11/Jun/22 | 117 | 80 | 63 | 55 | 46 |
-| 11/Jul/22 | 118 | 80 | 64 | 55 | 46 |
-| 11/Aug/22 | 119 | 80 | 64 | 56 | 46 |
-| 11/Sep/22 | 120 | 80 | 65 | 56 | 46 |
-| 11/Oct/22 | 120 | 80 | 65 | 56 | 46 |
-| 11/Nov/22 | 120 | 80 | 62 | 56 | 45 |
-
-## Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 11/Nov/21 | 60 | 32 | 32 | 30 |
-| 11/Dec/21 | 60 | 32 | 32 | 30 |
-| 11/Jan/22 | 60 | 32 | 32 | 30 |
-| 11/Feb/22 | 60 | 32 | 32 | 30 |
-| 11/Mar/22 | 61 | 33 | 33 | 30 |
-| 11/Apr/22 | 61 | 33 | 33 | 30 |
-| 11/May/22 | 62 | 33 | 33 | 30 |
-| 11/Jun/22 | 62 | 33 | 33 | 30 |
-| 11/Jul/22 | 62 | 33 | 33 | 30 |
-| 11/Aug/22 | 62 | 33 | 33 | 30 |
-| 11/Sep/22 | 61 | 32 | 32 | 29 |
-| 11/Oct/22 | 61 | 32 | 32 | 29 |
-| 11/Nov/22 | 60 | 31 | 31 | 29 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -358,21 +294,8 @@ Reported activity on the newbuilding front remains firm for yet another week. On
 
 Activity in the demolition market remains subdued, while further declines were recorded from the Indian subcontinent breakers w-o-w, as market conditions continue to add significant pressure on their financial capacity to secure vessels at levels that will make sense to owners to dispose of their units. The result is another week of limited activity, a trend which seems that will persist during the last quarter. In Bangladesh, L/C restrictions have crumbled breakers' appetite while in Pakistan no firm interest was noted last week. In India, which remains the most stable market, conditions have worsened too with Indian Rupee showing a downward trajectory albeit closing the week below the 81.0 mark. Lastly in Turkey, steel plate prices lost further ground with breakers in the region remaining on the sidelines. As far as the supply of vintage candidates is concerned, we are witnessing a small improvement in owners' willingness to dispose of their units, however, with offered levels on a downward trajectory, negotiations remain paused for the time being. Average prices in the different markets this week for tankers ranged between 250-550/ldt and those for dry bulk units between \$240-545/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 11/Nov/21 | 625 | 575 | 620 | 300 |
-| 11/Dec/21 | 620 | 560 | 615 | 310 |
-| 11/Jan/22 | 615 | 550 | 610 | 320 |
-| 11/Feb/22 | 640 | 560 | 630 | 350 |
-| 11/Mar/22 | 670 | 570 | 660 | 440 |
-| 11/Apr/22 | 680 | 580 | 670 | 450 |
-| 11/May/22 | 675 | 575 | 665 | 450 |
-| 11/Jun/22 | 640 | 550 | 630 | 320 |
-| 11/Jul/22 | 560 | 550 | 550 | 250 |
-| 11/Aug/22 | 570 | 555 | 560 | 255 |
-| 11/Sep/22 | 580 | 560 | 570 | 250 |
-| 11/Oct/22 | 590 | 565 | 580 | 250 |
-| 11/Nov/22 | 550 | 545 | 540 | 250 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Indicative Demolition Prices ($/ldt)
 
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |

@@ -88,38 +88,10 @@ Shanghai 200122 China
 | --- | --- | --- | --- | --- | --- |
 | 6 mos | SEA DRAGON | 2021 | 114,217 dwt | $20,500/day | ExxonMobil |
 | 6 mos | IOANNIS ZAFIRAKIS | 2021 | 49,999 dwt | $14,750/day | TotalEnergies |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 28/Jan/21 | 50 | 80 | 70 |
-| 28/Feb/21 | 50 | 85 | 150 |
-| 31/Mar/21 | 50 | 80 | 160 |
-| 30/Apr/21 | 50 | 75 | 80 |
-| 31/May/21 | 50 | 75 | 70 |
-| 30/Jun/21 | 50 | 75 | 70 |
-| 31/Jul/21 | 50 | 75 | 70 |
-| 31/Aug/21 | 50 | 75 | 100 |
-| 30/Sep/21 | 50 | 80 | 120 |
-| 31/Oct/21 | 50 | 85 | 150 |
-| 30/Nov/21 | 50 | 80 | 100 |
-| 31/Dec/21 | 50 | 80 | 90 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 28/Jan/21 | 120 | 130 | 140 | 150 |
-| 28/Feb/21 | 130 | 140 | 150 | 160 |
-| 31/Mar/21 | 130 | 140 | 150 | 150 |
-| 30/Apr/21 | 130 | 140 | 150 | 150 |
-| 31/May/21 | 130 | 140 | 150 | 150 |
-| 30/Jun/21 | 130 | 140 | 150 | 150 |
-| 31/Jul/21 | 130 | 140 | 150 | 150 |
-| 31/Aug/21 | 130 | 140 | 150 | 150 |
-| 30/Sep/21 | 130 | 140 | 150 | 150 |
-| 31/Oct/21 | 130 | 140 | 150 | 320 |
-| 30/Nov/21 | 130 | 140 | 150 | 200 |
-| 31/Dec/21 | 130 | 140 | 150 | 150 |
 ## TC Rates
 
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
@@ -200,39 +172,9 @@ In the MR2 sector we had sale of the "STI FONTVIEILLE" (49,990dwt-blt '13, S. Ko
 |  | **32K 1yr TC** | 18,500 | 18,500 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 28/Jan/21 | 2000 | 2000 | 2000 | 1000 | 2000 |
-| 28/Feb/21 | 2200 | 2100 | 2100 | 1200 | 2200 |
-| 31/Mar/21 | 4500 | 4000 | 3500 | 1500 | 4500 |
-| 30/Apr/21 | 4800 | 4200 | 3600 | 1600 | 4800 |
-| 31/May/21 | 4000 | 4000 | 3400 | 1500 | 4000 |
-| 30/Jun/21 | 3000 | 3200 | 3000 | 1600 | 3000 |
-| 31/Jul/21 | 3200 | 3300 | 3100 | 1700 | 3200 |
-| 31/Aug/21 | 5500 | 5000 | 4500 | 2000 | 5500 |
-| 30/Sep/21 | 9500 | 6000 | 5000 | 2500 | 9500 |
-| 31/Oct/21 | 2500 | 3000 | 3000 | 1800 | 2500 |
-| 30/Nov/21 | 4000 | 3500 | 3200 | 1700 | 4000 |
-| 31/Dec/21 | 1800 | 1900 | 1800 | 1600 | 1800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 28/Jan/21 | 15000 | 15000 | 15000 | 15000 |
-| 28/Feb/21 | 16000 | 16000 | 16000 | 16000 |
-| 31/Mar/21 | 40000 | 35000 | 30000 | 20000 |
-| 30/Apr/21 | 42000 | 36000 | 31000 | 21000 |
-| 31/May/21 | 38000 | 34000 | 32000 | 20000 |
-| 30/Jun/21 | 32000 | 33000 | 31000 | 20000 |
-| 31/Jul/21 | 34000 | 34000 | 33000 | 20000 |
-| 31/Aug/21 | 36000 | 35000 | 34000 | 20000 |
-| 30/Sep/21 | 85000 | 40000 | 35000 | 20000 |
-| 31/Oct/21 | 20000 | 25000 | 25000 | 20000 |
-| 30/Nov/21 | 30000 | 26000 | 26000 | 20000 |
-| 31/Dec/21 | 10000 | 18000 | 18000 | 17000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -356,38 +298,10 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 
 The most recent reported contracting activity indicates a decrease compared to the volumes of deals the newbuilding market has witnessed during the past weeks. Indeed, only a handful of orders came to light with the preference still focused on the container sector, while an order for a pair of Ultra-max units has also been completed. More specifically, Hong Kong based KC Maritime, inked a deal for the construction of two 63,600dwt at COSCO Zhoushan for \$31.0 million each. On the container front, Singaporean owner Pacific International Lines (PIL) ordered two firm plus two optional LNG fuelled 13,000teu boxships at Jiangnan Shipyard for \$160,0 million each while Chinese manufacturer Loctek Ergonomic made its debut in ship owning by ordering one 1,800teu feeder at Huanghai Shipbuilding at a price of \$32.6 million. Lastly, a small product tanker 17,999dwt was ordered by Sweden owner Furetank at Jinling shipyard. Price remains undisclosed while the unit will be able to run using LNG and liquid biogas fuels.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 28/Jan/21 | 88 | 58 | 52 | 42 | 32 |
-| 28/Feb/21 | 89 | 59 | 53 | 43 | 33 |
-| 31/Mar/21 | 90 | 60 | 54 | 44 | 34 |
-| 30/Apr/21 | 91 | 61 | 55 | 45 | 35 |
-| 30/May/21 | 92 | 62 | 56 | 46 | 36 |
-| 31/Jul/21 | 95 | 64 | 57 | 47 | 37 |
-| 31/Aug/21 | 97 | 65 | 58 | 48 | 38 |
-| 30/Sep/21 | 100 | 66 | 59 | 49 | 39 |
-| 31/Oct/21 | 102 | 67 | 60 | 50 | 40 |
-| 30/Nov/21 | 105 | 68 | 61 | 51 | 41 |
-| 31/Dec/21 | 110 | 70 | 62 | 52 | 42 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 28/Jan/21 | 48 | 28 | 29 | 22 |
-| 28/Feb/21 | 50 | 29 | 30 | 23 |
-| 31/Mar/21 | 52 | 30 | 31 | 24 |
-| 30/Apr/21 | 54 | 31 | 32 | 25 |
-| 30/May/21 | 56 | 32 | 33 | 26 |
-| 30/Jun/21 | 58 | 33 | 34 | 27 |
-| 31/Jul/21 | 60 | 34 | 35 | 28 |
-| 31/Aug/21 | 60 | 34 | 35 | 28 |
-| 30/Sep/21 | 60 | 35 | 36 | 29 |
-| 31/Oct/21 | 60 | 35 | 36 | 29 |
-| 30/Nov/21 | 60 | 35 | 36 | 29 |
-| 31/Dec/21 | 60 | 35 | 36 | 29 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -419,20 +333,8 @@ The most recent reported contracting activity indicates a decrease compared to t
 
 The demolition market enjoyed another improvement on levels offered by the Indian-subcontinent breakers. The scarcity of tonnage continues to be the main driver behind the astonishing levels that we are witnessing so far. At the same time, steel prices have risen in both Bangladesh and India further underpinning breakers margins. As a result, Bangladeshi buyers have retained their leading role in the price board, followed by their neighbors in Pakistan, who comprehend the need for bids' improvements in order to remain competitive in a surging market. Lastly, the construction sector in India continues to support the steel market and therefore, interest from local breakers remains strong with average offered levels following a positive trajectory during the past weeks. Yet, respective levels are hovering below the ones from their Indian-subcontinent counterparts, thereby making it hard for Indian breakers to compete for the conventional vintage tonnage with their interest being focused on more specialist units. Average prices in the different markets this week for tankers ranged between 340-620/ldt and those for dry bulk units between \$330-610/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 28/Jan/21 | 425 | 410 | 410 | 240 |
-| 28/Feb/21 | 450 | 430 | 440 | 245 |
-| 31/Mar/21 | 475 | 450 | 460 | 250 |
-| 30/Apr/21 | 500 | 475 | 480 | 260 |
-| 31/May/21 | 525 | 500 | 500 | 270 |
-| 30/Jun/21 | 550 | 525 | 520 | 275 |
-| 31/Jul/21 | 575 | 550 | 540 | 280 |
-| 31/Aug/21 | 590 | 560 | 550 | 275 |
-| 30/Sep/21 | 600 | 570 | 560 | 280 |
-| 31/Oct/21 | 620 | 580 | 570 | 320 |
-| 30/Nov/21 | 615 | 575 | 565 | 330 |
-| 31/Dec/21 | 620 | 580 | 570 | 335 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

@@ -82,40 +82,9 @@ The Northern Sea Route has witnessed a notable upward trend in the context of Ru
 | **Aframax** | **110KT DH** | 68.8 | 67.1 | **2.4%** | 63.6 | 71.0 | 64.4 |
 | **LR1** | **75KT DH** | 49.0 | 47.0 | **4.3%** | 47.9 | 53.8 | 49.2 |
 | **MR** | **52KT DH** | 43.5 | 43.0 | **1.2%** | 41.4 | 45.8 | 41.4 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 9/Jan/25 | 50 | 80 | 120 |
-| 9/Feb/25 | 60 | 90 | 130 |
-| 9/Mar/25 | 70 | 100 | 140 |
-| 9/Apr/25 | 80 | 110 | 150 |
-| 9/May/25 | 75 | 105 | 145 |
-| 9/Jun/25 | 65 | 95 | 135 |
-| 9/Jul/25 | 70 | 100 | 140 |
-| 9/Aug/25 | 80 | 110 | 150 |
-| 9/Sep/25 | 85 | 115 | 155 |
-| 9/Oct/25 | 90 | 120 | 160 |
-| 9/Nov/25 | 100 | 130 | 170 |
-| 9/Dec/25 | 110 | 140 | 180 |
-| 9/Jan/26 | 120 | 150 | 190 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 9/Jan/25 | 100 | 150 | 200 | 250 |
-| 9/Feb/25 | 110 | 160 | 210 | 260 |
-| 9/Mar/25 | 120 | 170 | 220 | 270 |
-| 9/Apr/25 | 130 | 180 | 230 | 280 |
-| 9/May/25 | 125 | 175 | 225 | 275 |
-| 9/Jun/25 | 115 | 165 | 215 | 265 |
-| 9/Jul/25 | 120 | 170 | 220 | 270 |
-| 9/Aug/25 | 130 | 180 | 230 | 280 |
-| 9/Sep/25 | 135 | 185 | 235 | 285 |
-| 9/Oct/25 | 140 | 190 | 240 | 290 |
-| 9/Nov/25 | 150 | 200 | 250 | 300 |
-| 9/Dec/25 | 160 | 210 | 260 | 310 |
-| 9/Jan/26 | 170 | 220 | 270 | 320 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Tanker Chartering
 
@@ -162,41 +131,9 @@ Overall, the market closed the week with firmer undertones, though volatility re
 | **Handysize** | **32K 1yr TC** | 11,250 | 11,750 | -4.3% | -500 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 9/Jan/25 | 1500 | 1000 | 800 | 700 | 1200 |
-| 9/Feb/25 | 2500 | 1100 | 900 | 750 | 1000 |
-| 9/Mar/25 | 2800 | 1300 | 1000 | 800 | 1100 |
-| 9/Apr/25 | 3500 | 1400 | 1100 | 850 | 1300 |
-| 9/May/25 | 2000 | 1500 | 1200 | 900 | 1400 |
-| 9/Jun/25 | 3800 | 1600 | 1300 | 950 | 1600 |
-| 9/Jul/25 | 4000 | 1700 | 1400 | 1000 | 1800 |
-| 9/Aug/25 | 3500 | 1800 | 1500 | 1050 | 2000 |
-| 9/Sep/25 | 3200 | 1750 | 1550 | 1000 | 1900 |
-| 9/Oct/25 | 3000 | 1700 | 1500 | 950 | 1700 |
-| 9/Nov/25 | 3500 | 1800 | 1600 | 1000 | 1800 |
-| 9/Dec/25 | 3800 | 1900 | 1700 | 1100 | 2500 |
-| 9/Jan/26 | 3200 | 1850 | 1650 | 1000 | 3000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 9/Jan/25 | 10000 | 8000 | 7000 | 6000 |
-| 9/Feb/25 | 8000 | 7500 | 6500 | 5500 |
-| 9/Mar/25 | 15000 | 8000 | 7000 | 6000 |
-| 9/Apr/25 | 12000 | 8500 | 7500 | 6500 |
-| 9/May/25 | 14000 | 9000 | 8000 | 7000 |
-| 9/Jun/25 | 25000 | 10000 | 8500 | 7500 |
-| 9/Jul/25 | 10000 | 9500 | 8000 | 7000 |
-| 9/Aug/25 | 28000 | 10500 | 8500 | 7500 |
-| 9/Sep/25 | 26000 | 10000 | 8000 | 7000 |
-| 9/Oct/25 | 24000 | 9500 | 7500 | 6500 |
-| 9/Nov/25 | 42000 | 11000 | 9000 | 8000 |
-| 9/Dec/25 | 20000 | 10000 | 8000 | 7000 |
-| 9/Jan/26 | 22000 | 9000 | 7500 | 6500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jan-26 avg | Dec-25 avg | ±% | 2025 | 2024 |

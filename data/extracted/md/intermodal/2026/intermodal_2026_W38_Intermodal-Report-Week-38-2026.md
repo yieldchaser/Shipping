@@ -52,41 +52,9 @@ Overall, seasonal pre-holiday restocking is providing near-term support to iron 
 |  | 55K | MED-USG | 200 | 23,825 | 180 | 19,399 | **22.8%** | 11,306 | 17,590 |
 |  | 50k | ARA-UKC | 431 | 122,950 | 469 | 138,341 | -11.1% | 18,615 | 26,872 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| DATE | TD3 | TD6 | TD9 |
-| 18/Sep/25 | 100 | 150 | 150 |
-| 18/Oct/25 | 120 | 160 | 160 |
-| 18/Nov/25 | 140 | 170 | 170 |
-| 18/Dec/25 | 160 | 180 | 180 |
-| 18/Jan/26 | 200 | 200 | 200 |
-| 18/Feb/26 | 300 | 250 | 400 |
-| 18/Mar/26 | 400 | 400 | 950 |
-| 18/Apr/26 | 400 | 400 | 400 |
-| 18/May/26 | 350 | 300 | 300 |
-| 18/Jun/26 | 300 | 250 | 250 |
-| 18/Jul/26 | 350 | 400 | 350 |
-| 18/Aug/26 | 500 | 450 | 450 |
-| 18/Sep/26 | 1100 | 450 | 450 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 18/Sep/25 | 100 | 100 | 150 | 150 |
-| 18/Oct/25 | 120 | 110 | 160 | 160 |
-| 18/Nov/25 | 140 | 120 | 170 | 170 |
-| 18/Dec/25 | 160 | 130 | 180 | 180 |
-| 18/Jan/26 | 200 | 200 | 200 | 200 |
-| 18/Feb/26 | 300 | 250 | 400 | 400 |
-| 18/Mar/26 | 350 | 300 | 600 | 600 |
-| 18/Apr/26 | 500 | 300 | 600 | 600 |
-| 18/May/26 | 500 | 300 | 550 | 550 |
-| 18/Jun/26 | 400 | 200 | 400 | 400 |
-| 18/Jul/26 | 450 | 250 | 450 | 450 |
-| 18/Aug/26 | 550 | 300 | 500 | 500 |
-| 18/Sep/26 | 650 | 150 | 550 | 550 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 18/09/2026 | 11/09/2026 | ±% | Diff | 2025 | 2024 |
@@ -154,40 +122,9 @@ Aframax market also firmed, with heavy Fujairah activity driving AG momentum. In
 | **Handysize** | **32K 1yr TC** | 13,750 | 13,750 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 18/5ep/25 | 3000 | 2000 | 1500 | 1000 | 2000 |
-| 18/Oct/25 | 4500 | 1800 | 1400 | 1000 | 2200 |
-| 18/Nov/25 | 5200 | 1700 | 1600 | 1100 | 2500 |
-| 18/Dec/25 | 2500 | 1600 | 1700 | 1000 | 2000 |
-| 18/Jan/26 | 2800 | 1500 | 1800 | 900 | 2100 |
-| 18/Feb/26 | 3200 | 1600 | 1900 | 1000 | 2200 |
-| 18/Mar/26 | 3500 | 1700 | 2000 | 1100 | 2300 |
-| 18/Apr/26 | 4000 | 1800 | 2100 | 1200 | 2400 |
-| 18/May/26 | 5500 | 1900 | 2200 | 1300 | 3000 |
-| 18/Jun/26 | 1200 | 2000 | 2300 | 1400 | 2500 |
-| 18/Jul/26 | 3800 | 2100 | 2400 | 1500 | 2600 |
-| 18/Aug/26 | 4800 | 2200 | 2500 | 1600 | 3500 |
-| 18/5ep/26 | 5800 | 3500 | 3500 | 1700 | 5500 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 18/5ep/25 | 25000 | 15000 | 12000 | 10000 |
-| 18/Oct/25 | 28000 | 14000 | 11000 | 9000 |
-| 18/Nov/25 | 42000 | 13000 | 10000 | 8000 |
-| 18/Dec/25 | 15000 | 12000 | 9000 | 7000 |
-| 18/Jan/26 | 20000 | 11000 | 8000 | 6000 |
-| 19/Feb/26 | 22000 | 12000 | 9000 | 7000 |
-| 18/Mar/26 | 24000 | 13000 | 10000 | 8000 |
-| 18/Apr/26 | 35000 | 14000 | 11000 | 9000 |
-| 18/May/26 | 40000 | 15000 | 12000 | 10000 |
-| 18/Jun/26 | 30000 | 16000 | 13000 | 11000 |
-| 18/Jul/26 | 38000 | 17000 | 14000 | 12000 |
-| 18/Aug/26 | 48000 | 18000 | 15000 | 13000 |
-| 18/5ep/26 | 55000 | 20000 | 16000 | 14000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Sep-26 avg | Aug-26 avg | ±% | 2025 | 2024 |

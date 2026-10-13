@@ -72,40 +72,9 @@ Summarizing, the global grain trade is gradually gaining momentum after a period
 | --- | --- | --- |
 | NA V IG8 PROMISE | $45,000/day |  |
 | PELAGIC TOPE | $34,500/day | 2008 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 30/jun/22 | 0 | 150 | 250 |
-| 31/jul/22 | 50 | 180 | 280 |
-| 31/aug/22 | 60 | 200 | 300 |
-| 30/sep/22 | 70 | 220 | 350 |
-| 31/oct/22 | 80 | 300 | 600 |
-| 30/Nov/22 | 90 | 300 | 550 |
-| 31/Dec/22 | 50 | 180 | 200 |
-| 31/Jan/23 | 40 | 150 | 150 |
-| 28/Feb/23 | 40 | 150 | 180 |
-| 31/Mar/23 | 50 | 160 | 300 |
-| 30/Apr/23 | 30 | 140 | 150 |
-| 31/May/23 | 20 | 120 | 120 |
-| 30/jun/23 | 10 | 100 | 100 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 30/jun/22 | 200 | 300 | 350 | 400 |
-| 31/jul/22 | 250 | 350 | 400 | 450 |
-| 31/aug/22 | 250 | 350 | 400 | 450 |
-| 30/sep/22 | 200 | 300 | 350 | 400 |
-| 31/oct/22 | 250 | 400 | 450 | 500 |
-| 30/Nov/22 | 300 | 450 | 500 | 550 |
-| 31/Dec/22 | 150 | 200 | 250 | 300 |
-| 31/Jan/23 | 100 | 150 | 200 | 250 |
-| 28/Feb/23 | 100 | 150 | 200 | 250 |
-| 31/Mar/23 | 150 | 200 | 300 | 400 |
-| 30/Apr/23 | 100 | 150 | 200 | 250 |
-| 31/May/23 | 100 | 150 | 150 | 150 |
-| 30/jun/23 | 100 | 150 | 150 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -138,41 +107,9 @@ Suezmax T/C earnings averaged \$ 47,726/day, down - \$9,663/day w-o-w. On the Af
 | 10 Aug 2024 / maximum 10 Oct 2024 | DSI ALTAIR | 2016 | 60,304 dw t |
 | dely WC India 25 J une | $13,800/day |  | WBC |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 30/Jun/22 | 2500 | 2400 | 1300 | 1200 | 2400 |
-| 31/Jul/22 | 2800 | 2300 | 1400 | 1100 | 2700 |
-| 31/Aug/22 | 1500 | 1600 | 1500 | 1000 | 1600 |
-| 30/Sep/22 | 1800 | 1700 | 1600 | 900 | 1700 |
-| 31/Oct/22 | 2000 | 1800 | 1700 | 800 | 1800 |
-| 30/Nov/22 | 2200 | 1900 | 1800 | 700 | 2000 |
-| 31/Dec/22 | 2700 | 2500 | 2000 | 600 | 2600 |
-| 31/Jan/23 | 800 | 900 | 700 | 500 | 900 |
-| 28/Feb/23 | 900 | 1000 | 800 | 400 | 1000 |
-| 31/Mar/23 | 2400 | 1600 | 1500 | 900 | 2300 |
-| 30/Apr/23 | 2600 | 1700 | 1600 | 1000 | 2500 |
-| 31/May/23 | 2300 | 1500 | 1400 | 1100 | 2200 |
-| 30/Jun/23 | 1900 | 1200 | 1100 | 1000 | 1800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 30/Jun/22 | 25000 | 24000 | 23000 | 22000 |
-| 31/Jul/22 | 22000 | 21000 | 20000 | 19000 |
-| 31/Aug/22 | 8000 | 15000 | 14000 | 13000 |
-| 30/Sep/22 | 18000 | 17000 | 16000 | 15000 |
-| 31/Oct/22 | 16000 | 16000 | 15000 | 14000 |
-| 30/Nov/22 | 19000 | 18000 | 17000 | 16000 |
-| 31/Dec/22 | 30000 | 25000 | 24000 | 23000 |
-| 31/Jan/23 | 8000 | 9000 | 8000 | 7000 |
-| 28/Feb/23 | 9000 | 10000 | 9000 | 8000 |
-| 31/Mar/23 | 18000 | 16000 | 15000 | 14000 |
-| 30/Apr/23 | 21000 | 18000 | 17000 | 16000 |
-| 31/May/23 | 17000 | 15000 | 14000 | 13000 |
-| 30/Jun/23 | 15000 | 13000 | 12000 | 11000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### TC Rates
 | Sector | Tenor | 30/06/23 | 23/06/23 | ±% | Diff | 2022 | 2021 |

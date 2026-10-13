@@ -92,22 +92,7 @@ The Baltic Exchange
 | 24 mos | PHOENIX ADMIRAL | 2011 | 114,024 dwt | $30,000/day | Phillips 66 |
 | 24 mos | NORD HIMALAYA | 2011 | 49,936 dwt | $25,000/day | cnr |
 
-### Dirty WS Rates (1-Year Trend)
-
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 28/Oct/21 | 30 | 120 | 130 |
-| 28/Nov/21 | 40 | 100 | 110 |
-| 28/Dec/21 | 35 | 90 | 100 |
-| 28/Jan/22 | 45 | 80 | 90 |
-| 28/Feb/22 | 50 | 290 | 150 |
-| 31/Mar/22 | 55 | 300 | 280 |
-| 30/Apr/22 | 40 | 280 | 180 |
-| 31/May/22 | 45 | 180 | 170 |
-| 30/Jun/22 | 50 | 190 | 180 |
-| 31/Jul/22 | 55 | 195 | 300 |
-| 30/Aug/22 | 60 | 190 | 320 |
-| 30/Sep/22 | 100 | 195 | 380 |
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -125,22 +110,7 @@ The Baltic Exchange
 | Handy | **36k 1yr TC** | 23,500 | 23,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
 
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 28/Oct/21 | 120 | 130 | 140 | 150 |
-| 28/Nov/21 | 130 | 140 | 150 | 160 |
-| 28/Dec/21 | 140 | 150 | 160 | 170 |
-| 28/Jan/22 | 150 | 160 | 170 | 180 |
-| 28/Feb/22 | 160 | 170 | 180 | 300 |
-| 31/Mar/22 | 170 | 180 | 190 | 450 |
-| 30/Apr/22 | 180 | 190 | 200 | 350 |
-| 31/May/22 | 190 | 200 | 210 | 300 |
-| 30/Jun/22 | 200 | 210 | 220 | 280 |
-| 31/Jul/22 | 210 | 220 | 230 | 270 |
-| 30/Aug/22 | 220 | 230 | 240 | 260 |
-| 30/Sep/22 | 230 | 240 | 250 | 250 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Oct-22 avg | Sep-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -204,39 +174,9 @@ In the MR2 sector we had the sale of the "CELSIUS RIMINI" (53,603dwt-blt '09, Ja
 |  | **32K 1yr TC** | 12,750 | 13,750 | -7.3% | -1,000 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 28/Oct/21 | 4000 | 3000 | 3000 | 1800 | 4500 |
-| 28/Nov/21 | 3800 | 2800 | 2500 | 1600 | 4200 |
-| 28/Dec/21 | 2500 | 2200 | 2000 | 1500 | 3500 |
-| 28/Jan/22 | 2400 | 2100 | 1900 | 1500 | 3400 |
-| 28/Feb/22 | 2800 | 2600 | 2300 | 1600 | 3600 |
-| 31/Mar/22 | 3000 | 2800 | 2500 | 1700 | 3800 |
-| 30/Apr/22 | 4200 | 3000 | 2800 | 1800 | 4500 |
-| 31/May/22 | 4500 | 3200 | 3000 | 1900 | 4800 |
-| 30/Jun/22 | 2600 | 2400 | 2200 | 1600 | 3200 |
-| 31/Jul/22 | 2400 | 2200 | 2000 | 1500 | 3000 |
-| 31/Aug/22 | 1800 | 1800 | 1600 | 1400 | 2200 |
-| 30/Sep/22 | 1700 | 1700 | 1600 | 1500 | 1800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 28/Oct/21 | 35000 | 28000 | 25000 | 22000 |
-| 28/Nov/21 | 40000 | 30000 | 26000 | 24000 |
-| 28/Dec/21 | 25000 | 22000 | 20000 | 18000 |
-| 28/Jan/22 | 15000 | 20000 | 18000 | 17000 |
-| 28/Feb/22 | 20000 | 22000 | 20000 | 18000 |
-| 31/Mar/22 | 28000 | 26000 | 24000 | 22000 |
-| 30/Apr/22 | 35000 | 30000 | 28000 | 25000 |
-| 31/May/22 | 35000 | 30000 | 28000 | 25000 |
-| 30/Jun/22 | 18000 | 22000 | 20000 | 20000 |
-| 31/Jul/22 | 15000 | 18000 | 16000 | 17000 |
-| 31/Aug/22 | 16000 | 16000 | 15000 | 16000 |
-| 30/Sep/22 | 17000 | 16000 | 15000 | 16000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -332,39 +272,9 @@ Newbuilding ordering activity held firm, with a flurry of new orders surfacing d
 | 01/11/2022 | 5 | Container | 24,000 teu | DACKS, China | 2027-2028 | Chinese (Cosco Shipping) | $240.0m |
 | 01/11/2022 | 5+5 | PCTC | 9,000 ceu | CMHI Jiangsu, China | 2025-2026 | Italian (Grimaldi Group) | $100.0m |
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 28/Oct/21 | 105 | 75 | 55 | 45 | 40 |
-| 28/Nov/21 | 108 | 76 | 56 | 46 | 41 |
-| 28/Dec/21 | 110 | 77 | 57 | 47 | 42 |
-| 28/Jan/22 | 112 | 78 | 58 | 48 | 43 |
-| 28/Feb/22 | 113 | 79 | 59 | 49 | 44 |
-| 31/Mar/22 | 114 | 80 | 60 | 50 | 45 |
-| 30/Apr/22 | 115 | 79 | 60 | 51 | 45 |
-| 31/May/22 | 116 | 80 | 61 | 52 | 46 |
-| 30/Jun/22 | 117 | 80 | 61 | 53 | 46 |
-| 31/Jul/22 | 118 | 80 | 62 | 54 | 47 |
-| 31/Aug/22 | 119 | 80 | 62 | 54 | 47 |
-| 30/Sep/22 | 120 | 80 | 62 | 55 | 47 |
-
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 28/Oct/21 | 60 | 32 | 32 | 30 |
-| 28/Nov/21 | 60 | 32 | 32 | 30 |
-| 28/Dec/21 | 60 | 32 | 32 | 30 |
-| 28/Jan/22 | 60 | 32 | 32 | 30 |
-| 28/Feb/22 | 61 | 33 | 33 | 30 |
-| 31/Mar/22 | 62 | 33 | 33 | 30 |
-| 30/Apr/22 | 62 | 33 | 33 | 30 |
-| 31/May/22 | 62 | 33 | 33 | 30 |
-| 30/Jun/22 | 62 | 33 | 33 | 30 |
-| 31/Jul/22 | 62 | 33 | 33 | 30 |
-| 31/Aug/22 | 62 | 32 | 33 | 29 |
-| 30/Sep/22 | 62 | 32 | 33 | 29 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 © Intermodal Research 01/11/2022 5
 
@@ -388,20 +298,7 @@ Newbuilding ordering activity held firm, with a flurry of new orders surfacing d
 
 Market conditions in the demolition front remain unfavorable. Subdued global steel demand coupled with increasing production costs keeps most of the steel mills on the sidelines. At the same time, breakers are facing a limited volume of offered candidates, forcing them to maintain their scrap offers at strong levels. However, with the freight market at healthy levels, owners are still avoiding to dispose of their vintage units. In India, the Diwali holidays have impelled participants to slow their operations; however, the respective market remains the most stable in terms of domestic demand. In terms of offered levels, Bangladesh continues to possess the first place among its counterparts, yet with interest being focused on small LDT units due to the ongoing LC restrictions. In Pakistan, where breakers have been out of competition for quite a long, they could see domestic demand underpinning by the commencement of post-flood disaster reconstruction across the country. Lastly, Turkey's activity remains subdued as demand for steel products crumbles mills' confidence. Average prices in the different markets this week for tankers ranged between 260-600/ldt and those for dry bulk units between \$250-590/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 28/Oct/21 | 625 | 625 | 625 | 300 |
-| 28/Nov/21 | 620 | 560 | 620 | 325 |
-| 28/Dec/21 | 620 | 560 | 620 | 340 |
-| 28/Jan/22 | 630 | 570 | 630 | 360 |
-| 28/Feb/22 | 680 | 670 | 680 | 430 |
-| 31/Mar/22 | 680 | 680 | 680 | 450 |
-| 30/Apr/22 | 670 | 670 | 670 | 440 |
-| 31/May/22 | 610 | 610 | 610 | 335 |
-| 30/Jun/22 | 560 | 560 | 560 | 250 |
-| 31/Jul/22 | 570 | 570 | 570 | 255 |
-| 31/Aug/22 | 580 | 580 | 580 | 255 |
-| 30/Sep/22 | 575 | 565 | 570 | 255 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
 
 No fresh demolition deals were reported last week
 

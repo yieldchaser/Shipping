@@ -55,38 +55,9 @@ For crude carriers, a potential partial replacement of Russian imports with Liby
 | --- | --- | --- | --- | --- | --- |
 | 10 mos | Stena Suede | 2011 | 158,824 dwt | $47,500/day | Trafigura |
 | 36 mos | Tenacity Venture | 2017 | 114,439 dwt | $34,000/day | COSCO |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 6/Feb/25 | 90 | 110 | 100 |
-| 6/Mar/25 | 85 | 115 | 140 |
-| 6/Apr/25 | 80 | 120 | 200 |
-| 6/May/25 | 75 | 110 | 220 |
-| 6/Jul/25 | 70 | 100 | 160 |
-| 6/Aug/25 | 75 | 105 | 150 |
-| 6/Sep/25 | 80 | 110 | 160 |
-| 6/Oct/25 | 85 | 115 | 170 |
-| 6/Nov/25 | 90 | 120 | 200 |
-| 6/Dec/25 | 95 | 125 | 250 |
-| 6/Jan/26 | 100 | 180 | 300 |
-| 6/Feb/26 | 105 | 190 | 350 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 6/Feb/25 | 150 | 160 | 140 | 130 |
-| 6/Mar/25 | 140 | 170 | 150 | 140 |
-| 6/Apr/25 | 130 | 180 | 160 | 150 |
-| 6/May/25 | 120 | 170 | 150 | 140 |
-| 6/Jul/25 | 110 | 160 | 140 | 130 |
-| 6/Aug/25 | 115 | 150 | 130 | 120 |
-| 6/Sep/25 | 120 | 140 | 120 | 110 |
-| 6/Oct/25 | 125 | 130 | 110 | 100 |
-| 6/Nov/25 | 130 | 120 | 100 | 90 |
-| 6/Dec/25 | 135 | 110 | 90 | 80 |
-| 6/Jan/26 | 140 | 100 | 80 | 70 |
-| 6/Feb/26 | 145 | 90 | 70 | 60 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 06/02/2026 | 30/01/2026 | ±% | Diff | 2025 | 2024 |
@@ -139,23 +110,7 @@ The Aframax market in the North Sea underwent a sharp correction early in the we
 ## Indicative Period Charters
 
 No fresh fixtures to report
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 6/Feb/25 | 5000 | 10000 | 8000 | 7000 |
-| 6/Mar/25 | 20000 | 12000 | 10000 | 9000 |
-| 6/Apr/25 | 15000 | 11000 | 9000 | 8000 |
-| 6/May/25 | 10000 | 10000 | 8000 | 7000 |
-| 6/Jun/25 | 25000 | 13000 | 10000 | 8000 |
-| 6/Jul/25 | 30000 | 14000 | 11000 | 9000 |
-| 6/Aug/25 | 28000 | 13500 | 10500 | 8500 |
-| 6/Sep/25 | 26000 | 13000 | 10000 | 8000 |
-| 6/Oct/25 | 27000 | 13200 | 10200 | 8200 |
-| 6/Nov/25 | 25000 | 12500 | 9500 | 7500 |
-| 6/Dec/25 | 45000 | 15000 | 12000 | 10000 |
-| 6/Jan/26 | 20000 | 11000 | 9000 | 8000 |
-| 6/Feb/26 | 22000 | 11500 | 9200 | 8200 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 06/02/2026 | 30/01/2026 | ±% | Diff | 2025 | 2024 |

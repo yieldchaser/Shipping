@@ -49,40 +49,9 @@ Pipeline alternatives are limited. Bypass capacity through Saudi Arabia and the 
 ## Indicative Period Charters
 
 No Fresh Fixtures to Report
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 27/Feb/25 | 60 | 120 | 150 |
-| 27/Mar/25 | 70 | 130 | 200 |
-| 27/Apr/25 | 65 | 140 | 220 |
-| 27/May/25 | 75 | 150 | 210 |
-| 27/Jun/25 | 80 | 160 | 200 |
-| 27/Jul/25 | 85 | 170 | 230 |
-| 27/Aug/25 | 90 | 180 | 240 |
-| 27/Sep/25 | 95 | 190 | 250 |
-| 27/Oct/25 | 100 | 200 | 260 |
-| 27/Nov/25 | 110 | 210 | 270 |
-| 27/Dec/25 | 120 | 220 | 300 |
-| 27/Jan/26 | 130 | 230 | 350 |
-| 27/Feb/26 | 140 | 240 | 320 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 27/Feb/25 | 120 | 140 | 160 | 180 |
-| 27/Mar/25 | 130 | 150 | 170 | 190 |
-| 27/Apr/25 | 140 | 160 | 180 | 200 |
-| 27/May/25 | 150 | 170 | 190 | 210 |
-| 27/Jun/25 | 160 | 180 | 200 | 220 |
-| 27/Jul/25 | 170 | 190 | 210 | 230 |
-| 27/Aug/25 | 180 | 200 | 220 | 240 |
-| 27/Sep/25 | 190 | 210 | 230 | 250 |
-| 27/Oct/25 | 200 | 220 | 240 | 260 |
-| 27/Nov/25 | 210 | 230 | 250 | 270 |
-| 27/Dec/25 | 220 | 240 | 260 | 280 |
-| 27/Jan/26 | 230 | 250 | 270 | 290 |
-| 27/Feb/26 | 240 | 260 | 280 | 300 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 27/02/2026 | 20/02/2026 | ±% | Diff | 2025 | 2024 |
@@ -152,41 +121,9 @@ Aframaxes recorded a steady week with mixed regional performance, with TCE edgin
 | Handysize | **32K 1yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 27/Feb/25 | 2000 | 1500 | 1000 | 800 | 1800 |
-| 27/Mar/25 | 2500 | 1600 | 1100 | 900 | 2000 |
-| 27/Apr/25 | 3000 | 1700 | 1200 | 1000 | 2200 |
-| 27/May/25 | 3500 | 1800 | 1300 | 1100 | 2400 |
-| 27/Jun/25 | 4000 | 1900 | 1400 | 1200 | 2600 |
-| 27/Jul/25 | 3800 | 1850 | 1350 | 1150 | 2500 |
-| 27/Aug/25 | 3600 | 1800 | 1300 | 1100 | 2400 |
-| 27/Sep/25 | 3400 | 1750 | 1250 | 1050 | 2300 |
-| 27/Oct/25 | 3200 | 1700 | 1200 | 1000 | 2200 |
-| 27/Nov/25 | 5000 | 2500 | 2000 | 1800 | 3000 |
-| 27/Dec/25 | 4500 | 2200 | 1800 | 1600 | 2800 |
-| 27/Jan/26 | 3000 | 1700 | 1200 | 1000 | 2200 |
-| 27/Feb/26 | 3200 | 1800 | 1300 | 1100 | 2400 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 27/Feb/25 | 15000 | 12000 | 10000 | 8000 |
-| 27/Mar/25 | 20000 | 13000 | 11000 | 9000 |
-| 27/Apr/25 | 18000 | 12500 | 10500 | 8500 |
-| 27/May/25 | 25000 | 14000 | 12000 | 10000 |
-| 27/Jun/25 | 15000 | 12000 | 10000 | 8000 |
-| 27/Jul/25 | 30000 | 15000 | 13000 | 11000 |
-| 27/Aug/25 | 28000 | 14500 | 12500 | 10500 |
-| 27/Sep/25 | 26000 | 14000 | 12000 | 10000 |
-| 27/Oct/25 | 24000 | 13500 | 11500 | 9500 |
-| 27/Nov/25 | 45000 | 16000 | 14000 | 12000 |
-| 27/Dec/25 | 40000 | 15000 | 13000 | 11000 |
-| 27/Jan/26 | 22000 | 13000 | 10500 | 8500 |
-| 27/Feb/26 | 24000 | 14000 | 11000 | 9000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Feb-26 avg | Jan-26 avg | ±% | 2025 | 2024 |

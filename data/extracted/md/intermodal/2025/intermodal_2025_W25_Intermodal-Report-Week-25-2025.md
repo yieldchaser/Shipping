@@ -57,40 +57,9 @@ In conclusion, while the immediate threat of a closure of the Strait of Hormuz a
 | 6 mos | Alegria 1 | 2012 |
 | --- | --- | --- |
 |  | $30,500/day |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 20/Jun/24 | 150 | 100 | 200 |
-| 20/Jul/24 | 140 | 90 | 180 |
-| 20/Aug/24 | 130 | 85 | 170 |
-| 20/Sep/24 | 120 | 80 | 160 |
-| 20/Oct/24 | 110 | 75 | 150 |
-| 20/Nov/24 | 100 | 70 | 140 |
-| 20/Dec/24 | 90 | 65 | 130 |
-| 20/Jan/25 | 85 | 60 | 120 |
-| 20/Feb/25 | 80 | 55 | 110 |
-| 20/Mar/25 | 75 | 50 | 100 |
-| 20/Apr/25 | 70 | 45 | 90 |
-| 20/May/25 | 65 | 40 | 80 |
-| 20/Jun/25 | 60 | 35 | 70 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 20/Jun/24 | 200 | 180 | 220 | 250 |
-| 20/Jul/24 | 180 | 160 | 200 | 230 |
-| 20/Aug/24 | 160 | 140 | 180 | 210 |
-| 20/Sep/24 | 140 | 120 | 160 | 190 |
-| 20/Oct/24 | 120 | 100 | 140 | 170 |
-| 20/Nov/24 | 100 | 80 | 120 | 150 |
-| 20/Dec/24 | 90 | 70 | 110 | 140 |
-| 20/Jan/25 | 85 | 65 | 105 | 135 |
-| 20/Feb/25 | 80 | 60 | 100 | 130 |
-| 20/Mar/25 | 75 | 55 | 95 | 125 |
-| 20/Apr/25 | 70 | 50 | 90 | 120 |
-| 20/May/25 | 65 | 45 | 85 | 115 |
-| 20/Jun/25 | 60 | 40 | 80 | 110 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 20/06/2025 | 13/06/2025 | ±% | Diff | 2024 | 2023 |
@@ -154,23 +123,7 @@ The recent war between Iran and Israel injected volatility into global oil flows
 | **Handysize** | **32K 1yr TC** | 10,000 | 10,000 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 20/Jun/24 | 30000 | 14000 | 10000 | 8000 |
-| 20/Jul/24 | 25000 | 13000 | 9000 | 7000 |
-| 20/Aug/24 | 28000 | 12000 | 8500 | 6500 |
-| 20/Sep/24 | 26000 | 11000 | 8000 | 6000 |
-| 20/Oct/24 | 22000 | 10000 | 7500 | 5500 |
-| 20/Nov/24 | 20000 | 9000 | 7000 | 5000 |
-| 20/Dec/24 | 15000 | 8000 | 6500 | 4500 |
-| 20/Jan/25 | 10000 | 7000 | 6000 | 4000 |
-| 20/Feb/25 | 12000 | 7500 | 6200 | 4200 |
-| 20/Mar/25 | 20000 | 10000 | 7500 | 5500 |
-| 20/Apr/25 | 18000 | 9000 | 7000 | 5000 |
-| 20/May/25 | 30000 | 12000 | 8000 | 6000 |
-| 20/Jun/25 | 35000 | 14000 | 8500 | 6500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jun-25 avg | May-25 avg | ±% | 2024 | 2023 |

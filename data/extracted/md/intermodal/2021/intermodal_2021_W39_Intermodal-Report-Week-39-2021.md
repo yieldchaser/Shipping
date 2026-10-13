@@ -110,41 +110,9 @@ The Baltic Exchange
 | --- | --- | --- | --- | --- | --- |
 | 18 mos | NAVE ATRIA | 2012 | 49,992 dwt | $14,000/day | Petrobras |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 1/Oct/20 | 50 | 60 | 50 |
-| 1/Nov/20 | 55 | 65 | 55 |
-| 1/Dec/20 | 50 | 60 | 50 |
-| 1/Jan/21 | 55 | 65 | 55 |
-| 1/Feb/21 | 50 | 70 | 60 |
-| 1/Mar/21 | 55 | 160 | 100 |
-| 1/Apr/21 | 50 | 150 | 100 |
-| 1/May/21 | 50 | 60 | 50 |
-| 1/Jun/21 | 50 | 60 | 50 |
-| 1/Jul/21 | 50 | 60 | 50 |
-| 1/Aug/21 | 50 | 60 | 50 |
-| 1/Sep/21 | 50 | 60 | 50 |
-| 1/Oct/21 | 50 | 60 | 50 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 1/Oct/20 | 10 | 10 | 10 | 10 |
-| 1/Nov/20 | 10 | 10 | 10 | 10 |
-| 1/Dec/20 | 10 | 10 | 10 | 10 |
-| 1/Jan/21 | 10 | 10 | 10 | 10 |
-| 1/Feb/21 | 10 | 10 | 10 | 10 |
-| 1/Mar/21 | 10 | 10 | 10 | 10 |
-| 1/Apr/21 | 10 | 10 | 10 | 10 |
-| 1/May/21 | 10 | 10 | 10 | 10 |
-| 1/Jun/21 | 10 | 10 | 10 | 10 |
-| 1/Jul/21 | 10 | 10 | 10 | 10 |
-| 1/Aug/21 | 10 | 10 | 10 | 10 |
-| 1/Sep/21 | 10 | 10 | 10 | 10 |
-| 1/Oct/21 | 10 | 10 | 10 | 10 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Oct-21 avg | Sep-21 avg | ±% | 2020 | 2019 | 2018 |
@@ -210,40 +178,9 @@ In the MR sector we had the sale of the "STENA CONQUEROR" (47,323dwt-blt '03, Cr
 | Handysize | 32K 6mnt TC | 33,250 | 33,250 | 0.0% | 0 | 8,498 | 9,152 |
 | Handysize | 32K 1yr TC | 24,750 | 24,750 | 0.0% | 0 | 8,556 | 9,291 |
 | Handysize | 32K 3yr TC | 15,250 | 15,250 | 0.0% | 0 | 8,686 | 9,291 |
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 1/Oct/20 | 4000 | 1400 | 1300 | 1200 | 4000 |
-| 1/Nov/20 | 3500 | 1300 | 1200 | 1100 | 3500 |
-| 1/Dec/20 | 1500 | 1300 | 1200 | 1000 | 1500 |
-| 1/Jan/21 | 2500 | 1400 | 1300 | 1100 | 2500 |
-| 1/Feb/21 | 2800 | 1500 | 1400 | 1200 | 2800 |
-| 1/Mar/21 | 2900 | 1600 | 1500 | 1300 | 2900 |
-| 1/Apr/21 | 3000 | 1700 | 1600 | 1400 | 3000 |
-| 1/May/21 | 4800 | 2800 | 2700 | 1500 | 4800 |
-| 1/Jun/21 | 4000 | 3000 | 2900 | 1600 | 4000 |
-| 1/Jul/21 | 3800 | 3100 | 3000 | 1700 | 3800 |
-| 1/Aug/21 | 4500 | 3500 | 3200 | 1800 | 4500 |
-| 1/Sep/21 | 4800 | 4200 | 3400 | 1900 | 4800 |
-| 1/Oct/21 | 4600 | 4400 | 3300 | 1800 | 9000 |
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 1/Oct/20 | 15000 | 14000 | 13000 | 12000 |
-| 1/Nov/20 | 12000 | 13000 | 12000 | 11000 |
-| 1/Dec/20 | 13000 | 13000 | 12000 | 11000 |
-| 1/Jan/21 | 15000 | 14000 | 13000 | 12000 |
-| 1/Feb/21 | 20000 | 15000 | 14000 | 13000 |
-| 1/Mar/21 | 22000 | 16000 | 15000 | 14000 |
-| 1/Apr/21 | 25000 | 17000 | 16000 | 15000 |
-| 1/May/21 | 30000 | 18000 | 17000 | 16000 |
-| 1/Jun/21 | 28000 | 19000 | 18000 | 17000 |
-| 1/Jul/21 | 32000 | 20000 | 19000 | 18000 |
-| 1/Aug/21 | 45000 | 22000 | 21000 | 19000 |
-| 1/Sep/21 | 55000 | 24000 | 23000 | 20000 |
-| 1/Oct/21 | 75000 | 35000 | 36000 | 21000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -357,41 +294,9 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 
 The volume of the newbuilding deals was softer compared to the week prior, with the dry bulk activity being confined to only one huge order and with the gas carrier units attracting most of the interest. At the same time, no tanker deals have compiled the newbuilding list for another week. On the dry bulk front, it came to light that CDB Leasing ordered nine 60,000dwt units at New Dayang at a price of \$29.0 million each. However, this deal was materialized some months ago which is also reflected in the newbuilding price. As far as the gas carrier units are concerned, Qatar Petroleum concluded a deal for the construction of four 174,000cbm units at Hudong Zhonghua for a price of \$192.25 million each. In addition, Russian owner Sovcomflot together with NYK Line inked a deal for the construction of four firm plus two optional ice-class 1A 174,000cbm vessels at Samsung yard for a price of \$202.0 million each while Eneos Ocean Corp. returned to Kawasaki for another LPG/LAG 86.700cbm carrier. Lastly, German owner MPC ordered four firm plus two optional 5,400teu boxships in Hanjin shipyard at a price of \$65.0 million each.
 
-### Bulk Carriers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 1/Oct/20 | 47 | 27 | 25 | 20 |
-| 1/Nov/20 | 47 | 27 | 25 | 20 |
-| 1/Dec/20 | 47 | 27 | 25 | 20 |
-| 1/Jan/21 | 48 | 28 | 26 | 20 |
-| 1/Feb/21 | 49 | 28 | 26 | 20 |
-| 1/Mar/21 | 50 | 29 | 27 | 20 |
-| 1/Apr/21 | 52 | 29 | 27 | 21 |
-| 1/May/21 | 54 | 30 | 28 | 21 |
-| 1/Jun/21 | 56 | 30 | 28 | 22 |
-| 1/Jul/21 | 58 | 31 | 29 | 22 |
-| 1/Aug/21 | 59 | 31 | 29 | 23 |
-| 1/Sep/21 | 60 | 32 | 30 | 23 |
-| 1/Oct/21 | 60 | 32 | 30 | 24 |
-
-### Tankers Newbuilding Prices (m$)
-
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 1/Oct/20 | 85 | 55 | 45 | 40 | 33 |
-| 1/Nov/20 | 85 | 56 | 46 | 40 | 33 |
-| 1/Dec/20 | 86 | 57 | 47 | 41 | 33 |
-| 1/Jan/21 | 87 | 58 | 48 | 42 | 34 |
-| 1/Feb/21 | 88 | 59 | 49 | 43 | 34 |
-| 1/Mar/21 | 89 | 60 | 50 | 44 | 35 |
-| 1/Apr/21 | 90 | 61 | 51 | 45 | 35 |
-| 1/May/21 | 91 | 62 | 52 | 46 | 35 |
-| 1/Jun/21 | 92 | 63 | 53 | 47 | 36 |
-| 1/Jul/21 | 94 | 64 | 54 | 48 | 36 |
-| 1/Aug/21 | 96 | 65 | 55 | 49 | 37 |
-| 1/Sep/21 | 98 | 66 | 56 | 50 | 37 |
-| 1/Oct/21 | 100 | 67 | 57 | 51 | 37 |
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
 ### Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -425,21 +330,8 @@ The volume of the newbuilding deals was softer compared to the week prior, with 
 
 Average scrap prices across the Indian subcontinent regions remained stable close to the \$600/Ldt mark. Steady domestic demand for scrap steel in both the Bangladeshi and Indian markets coupled with the low number of vintage candidates that being offered for demolition has prevented a decline on scrap levels. At the same time, slow activity materialized for another week; we saw an increase in tanker units intended for demolition, however, to an extent disproportionate with the tanker freight market performance during this year so far. Having said that, if a positive correction takes place for the tanker market during the last quarter, we may see even a smaller number of such units being offered for disposal and as result breakers will maintain their towering levels. Average scrap prices in the different markets this week for tankers ranged between 290-590/Ldt and those for dry bulk units between \$280-580/Ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 1/Oct/20 | 360 | 330 | 360 | 200 |
-| 1/Nov/20 | 370 | 340 | 370 | 210 |
-| 1/Dec/20 | 380 | 350 | 380 | 220 |
-| 1/Jan/21 | 460 | 420 | 460 | 280 |
-| 1/Feb/21 | 450 | 410 | 450 | 270 |
-| 1/Mar/21 | 440 | 400 | 440 | 260 |
-| 1/Apr/21 | 480 | 440 | 480 | 290 |
-| 1/May/21 | 500 | 460 | 500 | 290 |
-| 1/Jun/21 | 540 | 500 | 540 | 290 |
-| 1/Jul/21 | 570 | 540 | 570 | 290 |
-| 1/Aug/21 | 585 | 560 | 585 | 290 |
-| 1/Sep/21 | 590 | 570 | 590 | 290 |
-| 1/Oct/21 | 590 | 575 | 590 | 290 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

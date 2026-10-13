@@ -68,40 +68,7 @@ In late April and May, Yunnan experienced heavy rains, with precipitation levels
 |  | 55K | MED-USG | 145 | 16,934 | 145 | 17,204 | -1.6% | 27,060 | 21,231 |
 |  | 50k | ARA-UKC | 177 | 16,207 | 165 | 13,165 | **23.1%** | 46,194 | 40,364 |
 
-### Dirty WS Rates (1-Year Trend)
-
-| Date | WS points |
-| --- | --- |
-| DIRTY - WS RATES |  |
-| Date | WS points |
-| 28/Jun/23 | TD3: 50, TD6: 100, TD9: 150 |
-| 28/Jul/23 | TD3: 50, TD6: 100, TD9: 150 |
-| 28/Aug/23 | TD3: 50, TD6: 100, TD9: 150 |
-| 28/Sep/23 | TD3: 50, TD6: 150, TD9: 250 |
-| 28/Oct/23 | TD3: 50, TD6: 150, TD9: 300 |
-| 28/Nov/23 | TD3: 50, TD6: 150, TD9: 350 |
-| 28/Dec/23 | TD3: 50, TD6: 150, TD9: 400 |
-| 28/Jan/24 | TD3: 50, TD6: 150, TD9: 400 |
-| 28/Feb/24 | TD3: 50, TD6: 100, TD9: 200 |
-| 28/Mar/24 | TD3: 50, TD6: 100, TD9: 150 |
-| 28/Apr/24 | TD3: 50, TD6: 100, TD9: 150 |
-| 28/May/24 | TD3: 50, TD6: 100, TD9: 150 |
-| 28/Jun/24 | TD3: 50, TD6: 100, TD9: 150 |
-| CLEAN - WS RATES |  |
-| Date | WS points |
-| 28/Jun/23 | TC1: 150, TC2: 150, TC5: 150, TC6: 150 |
-| 28/Jul/23 | TC1: 150, TC2: 150, TC5: 150, TC6: 150 |
-| 28/Aug/23 | TC1: 150, TC2: 150, TC5: 200, TC6: 200 |
-| 28/Sep/23 | TC1: 150, TC2: 150, TC5: 250, TC6: 250 |
-| 28/Oct/23 | TC1: 150, TC2: 150, TC5: 300, TC6: 300 |
-| 28/Nov/23 | TC1: 150, TC2: 150, TC5: 350, TC6: 350 |
-| 28/Dec/23 | TC1: 150, TC2: 150, TC5: 400, TC6: 400 |
-| 28/Jan/24 | TC1: 150, TC2: 150, TC5: 400, TC6: 400 |
-| 28/Feb/24 | TC1: 150, TC2: 150, TC5: 350, TC6: 350 |
-| 28/Mar/24 | TC1: 150, TC2: 150, TC5: 300, TC6: 300 |
-| 28/Apr/24 | TC1: 150, TC2: 150, TC5: 250, TC6: 250 |
-| 28/May/24 | TC1: 150, TC2: 150, TC5: 200, TC6: 200 |
-| 28/Jun/24 | TC1: 150, TC2: 150, TC5: 200, TC6: 200 |
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 28/06/24 | 21/06/24 | ±% | Diff | 2023 | 2022 |
@@ -167,41 +134,9 @@ On MRs, the USG market was active with all rates rising. More specifically, TC21
 | **Handysize** | 32K 1yr TC | 12,500 | 12,500 | 0.0% | 0 | 10,644 | 17,827 |
 |  | 32K 3yr TC | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 28/Jun/23 | 1500 | 1200 | 1100 | 1000 | 1400 |
-| 28/Jul/23 | 1600 | 1250 | 1150 | 1050 | 1500 |
-| 28/Aug/23 | 2500 | 1400 | 1200 | 1100 | 1600 |
-| 28/Sep/23 | 3000 | 1500 | 1250 | 1150 | 1700 |
-| 28/Oct/23 | 3500 | 1600 | 1300 | 1200 | 1800 |
-| 28/Nov/23 | 6500 | 3000 | 2500 | 1500 | 3000 |
-| 28/Dec/23 | 4000 | 2000 | 1600 | 1300 | 2000 |
-| 28/Jan/24 | 2500 | 1500 | 1400 | 1200 | 1700 |
-| 28/Feb/24 | 3500 | 1800 | 1500 | 1300 | 2000 |
-| 28/Mar/24 | 3800 | 2000 | 1600 | 1350 | 2200 |
-| 28/Apr/24 | 3200 | 1800 | 1500 | 1300 | 2000 |
-| 28/May/24 | 3000 | 1700 | 1450 | 1250 | 1900 |
-| 28/Jun/24 | 3100 | 1750 | 1450 | 1250 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 28/Jun/23 | 12000 | 8000 | 10000 | 7000 |
-| 28/Jul/23 | 13000 | 8500 | 10500 | 7500 |
-| 28/Aug/23 | 14000 | 9000 | 11000 | 8000 |
-| 28/Sep/23 | 20000 | 10000 | 12000 | 9000 |
-| 28/Oct/23 | 22000 | 11000 | 13000 | 9500 |
-| 28/Nov/23 | 52000 | 18000 | 15000 | 10000 |
-| 28/Dec/23 | 28000 | 16000 | 14000 | 10500 |
-| 28/Jan/24 | 16000 | 14000 | 12000 | 9000 |
-| 28/Feb/24 | 24000 | 15000 | 13000 | 9500 |
-| 28/Mar/24 | 32000 | 17000 | 14000 | 10000 |
-| 28/Apr/24 | 26000 | 16000 | 13500 | 9500 |
-| 28/May/24 | 24000 | 15500 | 13000 | 9000 |
-| 28/Jun/24 | 25000 | 15000 | 12500 | 8500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jun-24 avg | May-24 avg | ±% | 2023 | 2022 | 2021 |

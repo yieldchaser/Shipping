@@ -110,41 +110,9 @@ Shanghai 200122 China
 | 12 mos | MARINE HOPE | 2019 | 318,747 dwt |  | Clearlake |
 | 6 mos | CIELO DI ROTTERDAM | 2018 | 74,999 dwt |  | ST Shipping |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 24/Sep/20 | 50 | 60 | 70 |
-| 24/Oct/20 | 55 | 65 | 75 |
-| 24/Nov/20 | 60 | 70 | 80 |
-| 24/Dec/20 | 65 | 75 | 85 |
-| 24/Jan/21 | 70 | 80 | 90 |
-| 24/Feb/21 | 80 | 90 | 100 |
-| 24/Mar/21 | 90 | 100 | 110 |
-| 24/Apr/21 | 85 | 95 | 105 |
-| 24/May/21 | 80 | 90 | 100 |
-| 24/Jun/21 | 75 | 85 | 95 |
-| 24/Jul/21 | 70 | 80 | 90 |
-| 24/Aug/21 | 65 | 75 | 85 |
-| 24/Sep/21 | 60 | 70 | 80 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 24/Sep/20 | 100 | 110 | 120 | 130 |
-| 24/Oct/20 | 105 | 115 | 125 | 135 |
-| 24/Nov/20 | 110 | 120 | 130 | 140 |
-| 24/Dec/20 | 115 | 125 | 135 | 145 |
-| 24/Jan/21 | 120 | 130 | 140 | 150 |
-| 24/Feb/21 | 125 | 135 | 145 | 155 |
-| 24/Mar/21 | 130 | 140 | 150 | 160 |
-| 24/Apr/21 | 125 | 135 | 145 | 155 |
-| 24/May/21 | 120 | 130 | 140 | 150 |
-| 24/Jun/21 | 115 | 125 | 135 | 145 |
-| 24/Jul/21 | 110 | 120 | 130 | 140 |
-| 24/Aug/21 | 105 | 115 | 125 | 135 |
-| 24/Sep/21 | 100 | 110 | 120 | 130 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Sep-21 avg | Aug-21 avg | ±% | 2020 | 2019 | 2018 |
@@ -211,40 +179,9 @@ In the Suezmax sector we had the sale of the "NORDIC SIRIUS" (150,183dwt-blt '00
 |  | **32K 1yr TC** | 24,750 | 24,750 | 0.0% | 0 | 8,556 | 9,291 |
 |  | **32K 3yr TC** | 15,250 | 15,250 | 0.0% | 0 | 8,686 | 9,291 |
 
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 24/Sep/20 | 1,500 | 1,400 | 1,300 | 1,200 | 4,000 |
-| 24/Oct/20 | 1,450 | 1,400 | 1,350 | 1,250 | 3,500 |
-| 24/Nov/20 | 1,400 | 1,350 | 1,300 | 1,200 | 3,000 |
-| 24/Dec/20 | 1,350 | 1,300 | 1,250 | 1,150 | 2,500 |
-| 24/Jan/21 | 1,800 | 1,700 | 1,600 | 1,400 | 2,800 |
-| 24/Feb/21 | 2,000 | 1,900 | 1,800 | 1,500 | 2,600 |
-| 24/Mar/21 | 2,400 | 2,300 | 2,200 | 1,600 | 2,900 |
-| 24/Apr/21 | 3,500 | 3,000 | 2,800 | 1,700 | 4,500 |
-| 24/May/21 | 4,000 | 3,500 | 3,200 | 1,800 | 5,000 |
-| 24/Jun/21 | 4,200 | 3,800 | 3,400 | 1,750 | 4,200 |
-| 24/Jul/21 | 4,300 | 3,900 | 3,500 | 1,700 | 4,000 |
-| 24/Aug/21 | 4,400 | 4,000 | 3,600 | 1,650 | 5,500 |
-| 24/Sep/21 | 4,450 | 4,100 | 3,650 | 1,600 | 6,800 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 24/Sep/20 | 10000 | 8000 | 8000 | 7000 |
-| 24/Oct/20 | 30000 | 7500 | 7500 | 7000 |
-| 24/Nov/20 | 8000 | 7000 | 7000 | 7000 |
-| 24/Dec/20 | 10000 | 7000 | 7000 | 7000 |
-| 24/Jan/21 | 15000 | 14000 | 13000 | 10000 |
-| 24/Feb/21 | 20000 | 16000 | 15000 | 11000 |
-| 24/Mar/21 | 22000 | 18000 | 16000 | 12000 |
-| 24/Apr/21 | 40000 | 20000 | 18000 | 13000 |
-| 24/May/21 | 42000 | 22000 | 20000 | 14000 |
-| 24/Jun/21 | 30000 | 28000 | 26000 | 15000 |
-| 24/Jul/21 | 32000 | 30000 | 28000 | 15000 |
-| 24/Aug/21 | 38000 | 34000 | 32000 | 16000 |
-| 24/Sep/21 | 36000 | 35000 | 34000 | 16000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -317,41 +254,9 @@ In the Ultramax sector we had the sale of the "SAILING SKY" (61,346dwt-blt '14, 
 
 The newbuilding market remains upbeat, with the dry bulk units having the lion's share among the recently confirmed deals while it's interesting to note that all orders are destined for Chinese shipyards last week. The dry bulk bonanza has revived owners' interest in newbuilding orders as earnings have reached outstanding levels during the past months. At the same time, the crude carrier sector which experiences an unhealthy freight market so far this year, has seen another week of muted newbuilding activity. In terms of the recently dry bulk newbuilding orders, Atlantska ordered two firm plus two optional 82,000 units at Jiangsu Hantong at a price of \$34.2 million each. DACKS yard secured a deal for the construction of two 64,000dwt Ultramax-es at a price of \$33.0 million each while both Wah Kwong Maritime and Norwegian investor Harald Moraeus-Hanssen chose New Dayang yard for the construction of four and three 63,000dwt units respectively. Lastly, German owner Reederei H. Vogemann declared an option for two more 40,000dwt vessels at Yangfan Group at a price of \$26.0 million each. The presence of the Container deals was once again represented by Seaspan with another mammoth order of ten conventionally fuelled 7,000teu units. Each vessel will cost around \$86.0 million with a charter contract to ONE being attached to the deal.
 
-## Bulk Carriers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 24/Sep/20 | 47 | 27 | 26 | 20 |
-| 24/Oct/20 | 47 | 27 | 26 | 20 |
-| 24/Nov/20 | 47 | 27 | 26 | 20 |
-| 24/Dec/20 | 47 | 27 | 26 | 20 |
-| 24/Jan/21 | 48 | 27 | 26 | 20 |
-| 24/Feb/21 | 49 | 28 | 27 | 20 |
-| 24/Mar/21 | 50 | 29 | 28 | 21 |
-| 24/Apr/21 | 52 | 30 | 29 | 21 |
-| 24/May/21 | 55 | 31 | 30 | 22 |
-| 24/Jun/21 | 57 | 32 | 31 | 23 |
-| 24/Jul/21 | 58 | 33 | 32 | 24 |
-| 24/Aug/21 | 59 | 34 | 33 | 25 |
-| 24/Sep/21 | 60 | 34 | 33 | 26 |
-
-## Tankers Newbuilding Prices (m$)
-
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 24/Sep/20 | 86 | 55 | 42 | 38 | 34 |
-| 24/Oct/20 | 86 | 56 | 43 | 38 | 34 |
-| 24/Nov/20 | 87 | 57 | 44 | 39 | 35 |
-| 24/Dec/20 | 88 | 58 | 45 | 40 | 35 |
-| 24/Jan/21 | 89 | 59 | 46 | 41 | 36 |
-| 24/Feb/21 | 90 | 60 | 47 | 42 | 36 |
-| 24/Mar/21 | 91 | 61 | 48 | 43 | 37 |
-| 24/Apr/21 | 92 | 62 | 49 | 44 | 37 |
-| 24/May/21 | 93 | 63 | 50 | 45 | 38 |
-| 24/Jun/21 | 94 | 64 | 51 | 46 | 38 |
-| 24/Jul/21 | 96 | 65 | 52 | 47 | 39 |
-| 24/Aug/21 | 98 | 66 | 54 | 48 | 39 |
-| 24/Sep/21 | 100 | 67 | 56 | 50 | 40 |
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -383,21 +288,8 @@ The newbuilding market remains upbeat, with the dry bulk units having the lion's
 
 The majority of the cash buyers across the main demolition destinations are not fervid in securing a notable share of the few fresh vintage candidates as the shape of market fundamentals remains erratic. However, the fact that the supply of tonnage remains weak has kept scrap prices at strong levels with the more aggressive buyers continuing to offer bids at levels even above the \$600/Ldt mark. Having said that, Pakistani breakers are emerging as the leading destination by showing the strongest appetite for new tonnage. It remains to be seen, how Bangladeshi breakers will react in the coming months especially if yards slots start to empty. At the same time, it seems that the increased demand for Indian steel has not affected the local demolition market with breakers displaying weak demand for conventional tonnage. Lastly, a sharp decrease in Turkish Lira value has been reported during the previous week (TR:8.85/USD at the time of writing) which may affect buyers' appetite. Average scrap prices in the different markets this week for tankers ranged between 290-590/Ldt and those for dry bulk units between \$280-580/Ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 24/Sep/20 | 360 | 330 | 360 | 200 |
-| 24/Oct/20 | 370 | 340 | 370 | 210 |
-| 24/Nov/20 | 420 | 390 | 430 | 220 |
-| 24/Dec/20 | 440 | 410 | 440 | 280 |
-| 24/Jan/21 | 470 | 430 | 460 | 290 |
-| 24/Feb/21 | 440 | 420 | 430 | 270 |
-| 24/Mar/21 | 470 | 450 | 470 | 280 |
-| 24/Apr/21 | 500 | 480 | 500 | 290 |
-| 24/May/21 | 530 | 510 | 530 | 295 |
-| 24/Jun/21 | 560 | 540 | 560 | 295 |
-| 24/Jul/21 | 580 | 570 | 580 | 580 |
-| 24/Aug/21 | 590 | 580 | 590 | 580 |
-| 24/Sep/21 | 590 | 570 | 590 | 580 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |

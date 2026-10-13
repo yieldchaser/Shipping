@@ -50,38 +50,9 @@ It is clear that competition for crude oil between China and the United States w
 | --- | --- | --- | --- | --- | --- | --- |
 | 12 mos | GRAND ACE 11 | 2008 | 46,195 dwt | DELEAST SEP/23 | $25,000/day | PANocean |
 | 12 mos | NAVIG8 PROSPERITY | 2019 | 109,997 dwt | DELEAST OCT/23 | $40,000/day | Vitol |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 29/Sep/22 | 150 | 180 | 180 |
-| 29/Oct/22 | 100 | 280 | 380 |
-| 29/Nov/22 | 100 | 300 | 650 |
-| 29/Dec/22 | 50 | 200 | 200 |
-| 29/Jan/23 | 50 | 180 | 180 |
-| 28/Feb/23 | 60 | 170 | 170 |
-| 31/Mar/23 | 80 | 170 | 300 |
-| 30/Apr/23 | 60 | 160 | 250 |
-| 31/May/23 | 50 | 150 | 200 |
-| 30/Jun/23 | 40 | 140 | 100 |
-| 31/Jul/23 | 40 | 130 | 100 |
-| 31/Aug/23 | 40 | 120 | 100 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 29/Sep/22 | 180 | 200 | 300 | 320 |
-| 29/Oct/22 | 160 | 220 | 350 | 340 |
-| 29/Nov/22 | 200 | 380 | 400 | 450 |
-| 29/Dec/22 | 100 | 180 | 200 | 220 |
-| 29/Jan/23 | 120 | 160 | 160 | 180 |
-| 28/Feb/23 | 140 | 170 | 200 | 200 |
-| 31/Mar/23 | 160 | 180 | 450 | 250 |
-| 30/Apr/23 | 140 | 170 | 200 | 200 |
-| 31/May/23 | 140 | 160 | 180 | 180 |
-| 30/Jun/23 | 140 | 150 | 160 | 160 |
-| 31/Jul/23 | 160 | 160 | 180 | 200 |
-| 31/Aug/23 | 180 | 170 | 200 | 250 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 29/09/23 | 22/09/23 | ±% | Diff | 2022 | 2021 |
@@ -150,39 +121,9 @@ Suezmax T/C earnings averaged \$9,819/day, up + \$92/day w-o-w. On the Aframax f
 | **Handysize** | **32K 1yr TC** | 10,250 | 10,250 | 0.0% | 0 | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 29/Sep/22 | 2200 | 1800 | 1200 | 1000 | 2100 |
-| 29/Oct/22 | 1800 | 1600 | 1100 | 900 | 1700 |
-| 29/Nov/22 | 1600 | 1500 | 1000 | 800 | 1500 |
-| 29/Dec/22 | 2800 | 1400 | 900 | 700 | 2500 |
-| 29/Jan/23 | 1400 | 1300 | 1000 | 800 | 1400 |
-| 28/Feb/23 | 1200 | 1200 | 1100 | 900 | 1300 |
-| 31/Mar/23 | 1600 | 1500 | 1400 | 1000 | 1700 |
-| 30/Apr/23 | 1800 | 1600 | 1300 | 900 | 1900 |
-| 31/May/23 | 1700 | 1500 | 1200 | 800 | 1800 |
-| 30/Jun/23 | 1600 | 1400 | 1100 | 700 | 1600 |
-| 31/Jul/23 | 1900 | 1600 | 1300 | 800 | 2000 |
-| 31/Aug/23 | 2500 | 1800 | 1600 | 900 | 2400 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 29/Sep/22 | 18000 | 17000 | 14000 | 12000 |
-| 29/Oct/22 | 14000 | 13000 | 11000 | 10000 |
-| 29/Nov/22 | 10000 | 10000 | 9000 | 8000 |
-| 29/Dec/22 | 23000 | 12000 | 10000 | 8000 |
-| 29/Jan/23 | 7000 | 8000 | 7000 | 6000 |
-| 28/Feb/23 | 3000 | 7000 | 6000 | 5000 |
-| 31/Mar/23 | 14000 | 13000 | 11000 | 9000 |
-| 30/Apr/23 | 21000 | 15000 | 12000 | 10000 |
-| 31/May/23 | 16000 | 14000 | 10000 | 8000 |
-| 30/Jun/23 | 9000 | 10000 | 8000 | 7000 |
-| 31/Jul/23 | 13000 | 12000 | 9000 | 8000 |
-| 31/Aug/23 | 24000 | 15000 | 14000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Sep-23 avg | Aug-23 avg | ±% | 2022 | 2021 | 2020 |

@@ -55,40 +55,9 @@ New environmental regulations, including the recent implementation of the EU ETS
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | DESH VIRAAT MARAN APOLLO | 2008 2016 | 320,400 dwt | $32,100/day | IOC 318,900 dwt Marathon Petroleum |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 23/Aug/23 | 0 | 100 | 100 |
-| 23/Sep/23 | 50 | 150 | 250 |
-| 23/Oct/23 | 70 | 180 | 280 |
-| 23/Nov/23 | 60 | 160 | 300 |
-| 23/Dec/23 | 40 | 140 | 380 |
-| 23/Jan/24 | 30 | 120 | 400 |
-| 23/Feb/24 | 40 | 110 | 200 |
-| 23/Mar/24 | 50 | 100 | 150 |
-| 23/Apr/24 | 50 | 100 | 150 |
-| 23/May/24 | 50 | 100 | 150 |
-| 23/Jun/24 | 50 | 100 | 150 |
-| 23/Jul/24 | 50 | 100 | 100 |
-| 23/Aug/24 | 50 | 100 | 100 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 23/Aug/23 | 150 | 150 | 200 | 180 |
-| 23/Sep/23 | 160 | 160 | 220 | 200 |
-| 23/Oct/23 | 140 | 140 | 180 | 160 |
-| 23/Nov/23 | 130 | 130 | 160 | 140 |
-| 23/Dec/23 | 120 | 120 | 140 | 120 |
-| 23/Jan/24 | 100 | 100 | 350 | 100 |
-| 23/Feb/24 | 110 | 110 | 300 | 110 |
-| 23/Mar/24 | 120 | 120 | 250 | 120 |
-| 23/Apr/24 | 130 | 130 | 200 | 130 |
-| 23/May/24 | 140 | 140 | 180 | 140 |
-| 23/Jun/24 | 150 | 150 | 160 | 150 |
-| 23/Jul/24 | 140 | 140 | 140 | 140 |
-| 23/Aug/24 | 130 | 130 | 120 | 130 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 23/08/24 | 16/08/24 | ±% | Diff | 2023 | 2022 |
@@ -154,41 +123,9 @@ The product tanker market was characterised by mixed performance across segments
 | **Handysize** | **32K 1yr TC** | 12,500 | 12,750 | -2.0% | -250 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 23/Aug/23 | 1000 | 1200 | 1000 | 800 | 1100 |
-| 23/Sep/23 | 2500 | 1500 | 1200 | 900 | 1400 |
-| 23/Oct/23 | 3000 | 1600 | 1300 | 950 | 1500 |
-| 23/Nov/23 | 6500 | 3000 | 1400 | 1000 | 3000 |
-| 23/Dec/23 | 2000 | 3200 | 1300 | 900 | 1600 |
-| 23/Jan/24 | 1800 | 1400 | 1100 | 850 | 1300 |
-| 23/Feb/24 | 3500 | 1600 | 1200 | 900 | 1500 |
-| 23/Mar/24 | 3200 | 2000 | 1300 | 950 | 1700 |
-| 23/Apr/24 | 2500 | 1500 | 1100 | 850 | 1400 |
-| 23/May/24 | 2800 | 1600 | 1200 | 900 | 1500 |
-| 23/Jun/24 | 3000 | 1700 | 1250 | 950 | 1600 |
-| 23/Jul/24 | 2900 | 1600 | 1200 | 900 | 1550 |
-| 23/Aug/24 | 2400 | 1500 | 1150 | 850 | 1500 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 23/Aug/23 | 10000 | 12000 | 11000 | 10000 |
-| 23/Sep/23 | 25000 | 13000 | 12000 | 10500 |
-| 23/Oct/23 | 28000 | 13500 | 12500 | 11000 |
-| 23/Nov/23 | 52000 | 14000 | 13000 | 11500 |
-| 23/Dec/23 | 20000 | 14500 | 13500 | 12000 |
-| 23/Jan/24 | 15000 | 14000 | 13000 | 11500 |
-| 23/Feb/24 | 32000 | 15000 | 14000 | 12000 |
-| 23/Mar/24 | 35000 | 16000 | 14500 | 12500 |
-| 23/Apr/24 | 28000 | 15500 | 14000 | 12000 |
-| 23/May/24 | 30000 | 15000 | 13500 | 11500 |
-| 23/Jun/24 | 33000 | 15500 | 14000 | 12000 |
-| 23/Jul/24 | 25000 | 15000 | 13500 | 11500 |
-| 23/Aug/24 | 22000 | 14500 | 13000 | 11000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Aug-24 avg | Jul-24 avg | ±% | 2023 | 2022 | 2021 |

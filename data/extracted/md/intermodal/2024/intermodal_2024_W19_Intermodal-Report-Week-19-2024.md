@@ -51,42 +51,9 @@ Moving forward, if backwardation persists, robust spot demand is likely to conti
 | --- | --- | --- | --- | --- | --- | --- |
 | 36 mos | SEAWAYS SHENANDOAH | 2014 | 112,691 dwt | DEL EAST 3Q/24 | $39,900/day | Trafigura |
 | 6 mos | RUI FU XING | 2010 | 39,338 dwt | DEL WEST MAY/24 | $32,500/day | Hafnia |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| DIRTY - WS RATES |  |  |  |
-| 17/May/23 | 0 | 100 | 150 |
-| 17/Jun/23 | 50 | 100 | 180 |
-| 17/Jul/23 | 60 | 110 | 190 |
-| 17/Aug/23 | 70 | 120 | 200 |
-| 17/Sep/23 | 80 | 130 | 250 |
-| 17/Oct/23 | 90 | 140 | 280 |
-| 17/Nov/23 | 100 | 150 | 300 |
-| 17/Dec/23 | 110 | 160 | 380 |
-| 17/Jan/24 | 120 | 170 | 400 |
-| 17/Feb/24 | 130 | 180 | 350 |
-| 17/Mar/24 | 140 | 190 | 300 |
-| 17/Apr/24 | 150 | 200 | 250 |
-| 17/May/24 | 160 | 210 | 200 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| CLEAN - WS RATES |  |  |  |  |
-| 17/May/23 | 100 | 150 | 180 | 200 |
-| 17/Jun/23 | 110 | 160 | 190 | 210 |
-| 17/Jul/23 | 120 | 170 | 200 | 220 |
-| 17/Aug/23 | 130 | 180 | 210 | 230 |
-| 17/Sep/23 | 140 | 190 | 220 | 240 |
-| 17/Oct/23 | 150 | 200 | 230 | 250 |
-| 17/Nov/23 | 160 | 210 | 240 | 260 |
-| 17/Dec/23 | 170 | 220 | 250 | 270 |
-| 17/Jan/24 | 180 | 230 | 260 | 280 |
-| 17/Feb/24 | 190 | 240 | 270 | 290 |
-| 17/Mar/24 | 200 | 250 | 280 | 300 |
-| 17/Apr/24 | 210 | 260 | 290 | 310 |
-| 17/May/24 | 220 | 270 | 300 | 320 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 17/05/24 | 10/05/24 | ±% | Diff | 2023 | 2022 |
@@ -156,41 +123,9 @@ Aframax rates experienced significant increases, particularly in the MED where h
 | **Handysize** | **32K 1yr TC** | 12,500 | 13,250 | -5.7% | -750 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 17/May/23 | 1500 | 1000 | 800 | 500 | 1000 |
-| 17/Jun/23 | 1600 | 1100 | 900 | 600 | 1100 |
-| 17/Jul/23 | 1700 | 1200 | 1000 | 700 | 1200 |
-| 17/Aug/23 | 2500 | 1500 | 1300 | 900 | 1500 |
-| 17/Sep/23 | 3000 | 1800 | 1500 | 1000 | 1800 |
-| 17/Oct/23 | 3500 | 2000 | 1600 | 1100 | 2000 |
-| 17/Nov/23 | 6500 | 3000 | 2500 | 1500 | 3000 |
-| 17/Dec/23 | 5000 | 2500 | 2000 | 1200 | 2500 |
-| 17/Jan/24 | 2000 | 1500 | 1400 | 900 | 1500 |
-| 17/Feb/24 | 3500 | 2500 | 2000 | 1300 | 2500 |
-| 17/Mar/24 | 3000 | 2200 | 1800 | 1100 | 2200 |
-| 17/Apr/24 | 2500 | 1800 | 1500 | 1000 | 1800 |
-| 17/May/24 | 3000 | 2000 | 1600 | 1100 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 17/May/23 | 15000 | 12000 | 10000 | 8000 |
-| 17/Jun/23 | 16000 | 13000 | 11000 | 9000 |
-| 17/Jul/23 | 17000 | 14000 | 12000 | 10000 |
-| 17/Aug/23 | 20000 | 16000 | 14000 | 11000 |
-| 17/Sep/23 | 25000 | 18000 | 16000 | 13000 |
-| 17/Oct/23 | 30000 | 20000 | 18000 | 15000 |
-| 17/Nov/23 | 50000 | 22000 | 20000 | 17000 |
-| 17/Dec/23 | 45000 | 18000 | 16000 | 14000 |
-| 17/Jan/24 | 15000 | 14000 | 12000 | 10000 |
-| 17/Feb/24 | 30000 | 20000 | 18000 | 15000 |
-| 17/Mar/24 | 25000 | 18000 | 16000 | 13000 |
-| 17/Apr/24 | 22000 | 16000 | 14000 | 11000 |
-| 17/May/24 | 25000 | 17000 | 15000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | May-24 avg | Apr-24 avg | ±% | 2023 | 2022 | 2021 |

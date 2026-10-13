@@ -89,40 +89,10 @@ Shanghai 200122 China
 | --- | --- | --- | --- | --- | --- |
 | 6 mos | PROTEUS | 2019 | 49,999 dwt | $39,500/day | Weco Tankers |
 | 12 mos | SILVER ETREMA | 2016 | 49,737 dwt | $23,500/day | Marathon Petroleum |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 15/Jul/21 | 50 | 80 | 90 |
-| 15/Aug/21 | 55 | 85 | 100 |
-| 15/Sep/21 | 60 | 90 | 110 |
-| 15/Oct/21 | 65 | 95 | 120 |
-| 15/Nov/21 | 70 | 100 | 130 |
-| 15/Dec/21 | 75 | 105 | 140 |
-| 15/Jan/22 | 80 | 110 | 150 |
-| 15/Feb/22 | 85 | 280 | 160 |
-| 15/Mar/22 | 90 | 300 | 290 |
-| 15/Apr/22 | 95 | 290 | 300 |
-| 15/May/22 | 100 | 150 | 180 |
-| 15/Jun/22 | 105 | 140 | 200 |
-| 15/Jul/22 | 110 | 290 | 300 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 15/Jul/21 | 100 | 110 | 120 | 130 |
-| 15/Aug/21 | 105 | 115 | 125 | 135 |
-| 15/Sep/21 | 110 | 120 | 130 | 140 |
-| 15/Oct/21 | 115 | 125 | 135 | 145 |
-| 15/Nov/21 | 120 | 130 | 140 | 150 |
-| 15/Dec/21 | 125 | 135 | 145 | 160 |
-| 15/Jan/22 | 130 | 140 | 150 | 170 |
-| 15/Feb/22 | 135 | 145 | 155 | 300 |
-| 15/Mar/22 | 140 | 150 | 160 | 450 |
-| 15/Apr/22 | 145 | 155 | 165 | 400 |
-| 15/May/22 | 150 | 160 | 170 | 350 |
-| 15/Jun/22 | 155 | 165 | 175 | 450 |
-| 15/Jul/22 | 160 | 170 | 180 | 500 |
 ## TC Rates
 
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -200,41 +170,9 @@ In the Aframax sector we had the sale of the "SONGA CORAL" (107,081dwt-blt '05, 
 |  | **32K 1yr TC** | 17,750 | 17,750 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 12,500 | 12,500 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 15/Jul/21 | 3,200 | 3,100 | 3,000 | 1,800 | 3,300 |
-| 15/Aug/21 | 4,500 | 3,800 | 3,200 | 1,900 | 4,800 |
-| 15/Sep/21 | 5,500 | 4,200 | 3,500 | 2,000 | 5,500 |
-| 15/Oct/21 | 10,200 | 4,000 | 3,400 | 1,700 | 10,000 |
-| 15/Nov/21 | 2,800 | 3,500 | 3,000 | 1,600 | 2,900 |
-| 15/Dec/21 | 2,700 | 3,400 | 2,900 | 1,500 | 2,800 |
-| 15/Jan/22 | 2,600 | 3,300 | 2,800 | 1,500 | 2,700 |
-| 15/Feb/22 | 2,500 | 3,200 | 2,700 | 1,500 | 2,600 |
-| 15/Mar/22 | 2,600 | 3,100 | 2,800 | 1,600 | 2,700 |
-| 15/Apr/22 | 3,800 | 3,600 | 3,000 | 1,700 | 3,900 |
-| 15/May/22 | 4,200 | 3,800 | 3,200 | 1,800 | 4,300 |
-| 15/Jun/22 | 2,700 | 3,000 | 2,800 | 1,600 | 2,800 |
-| 15/Jul/22 | 2,700 | 2,900 | 2,700 | 1,600 | 2,800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 15/Jul/21 | 32000 | 31000 | 30000 | 30000 |
-| 15/Aug/21 | 45000 | 35000 | 32000 | 31000 |
-| 15/Sep/21 | 50000 | 36000 | 33000 | 32000 |
-| 15/Oct/21 | 85000 | 34000 | 31000 | 30000 |
-| 15/Nov/21 | 25000 | 26000 | 25000 | 24000 |
-| 15/Dec/21 | 30000 | 27000 | 26000 | 25000 |
-| 15/Jan/22 | 20000 | 24000 | 23000 | 23000 |
-| 15/Feb/22 | 12000 | 23000 | 22000 | 22000 |
-| 15/Mar/22 | 30000 | 26000 | 25000 | 24000 |
-| 15/Apr/22 | 35000 | 30000 | 28000 | 26000 |
-| 15/May/22 | 38000 | 32000 | 30000 | 27000 |
-| 15/Jun/22 | 22000 | 25000 | 24000 | 23000 |
-| 15/Jul/22 | 21000 | 24000 | 23000 | 22000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -324,41 +262,9 @@ In the Supramax sector we had the sale of the "OREO" (55,430dwt-bl't '08, Japan)
 
 Newbuilding ordering activity has been rather muted across most sectors during the past week. In contrast to the previous weeks, the recently surfaced newbuilding contracts include no containers, LNGs or bulkers. Instead, contracting activity resumed in the wet front. More specifically, sentiment in tanker contracting was firm with 3 orders emerging for a total of 8 vessels. Owners' appetite for LR2s and MRs has prevailed, underpinned by the current favorable market conditions for product tankers. Greek CM Lemos inked a deal for three conventionally fuelled LR2s at Hyundai Vietnam, costing \$65.0m each and expected to be delivered by 2024-2025. Meanwhile, Greek Neda returned to Daehan for the construction of one LR2, which will be scrubber fitted and will meet EEDI phase 3 standards. The vessel will be delivered in 2024 and will cost \$65.0m. Nissen Kaiun inked a deal with Hyundai Vietnam for 4 MRs which will meet EEDI phase 3 standards. Vessels will cost \$42.5m each and they will be delivered by 2024. CMB FL expanded its newbuilding activity by entering the car/truck carrier market with a sextet of PCTCs. The LNG dual-fuelled vessels will be assigned for construction to the state-owned Xiamen Shipbuilding and will cost \$86.0m each.
 
-## Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 15/Jul/21 | 95 | 65 | 52 | 45 | 35 |
-| 15/Aug/21 | 96 | 66 | 53 | 46 | 35 |
-| 15/Sep/21 | 97 | 67 | 54 | 47 | 35 |
-| 15/Oct/21 | 100 | 68 | 55 | 48 | 35 |
-| 15/Nov/21 | 102 | 69 | 56 | 49 | 35 |
-| 15/Dec/21 | 104 | 70 | 57 | 50 | 35 |
-| 15/Jan/22 | 106 | 71 | 58 | 51 | 35 |
-| 15/Feb/22 | 108 | 72 | 59 | 52 | 35 |
-| 15/Mar/22 | 110 | 73 | 60 | 53 | 35 |
-| 15/Apr/22 | 112 | 74 | 60 | 54 | 35 |
-| 15/May/22 | 114 | 75 | 60 | 55 | 35 |
-| 15/Jun/22 | 116 | 76 | 60 | 56 | 35 |
-| 15/Jul/22 | 118 | 77 | 60 | 57 | 36 |
-
-## Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 15/Jul/21 | 58 | 32 | 30 | 27 |
-| 15/Aug/21 | 59 | 32 | 30 | 27 |
-| 15/Sep/21 | 59 | 33 | 31 | 28 |
-| 15/Oct/21 | 60 | 33 | 31 | 28 |
-| 15/Nov/21 | 60 | 34 | 32 | 28 |
-| 15/Dec/21 | 60 | 34 | 32 | 28 |
-| 15/Jan/22 | 60 | 34 | 32 | 28 |
-| 15/Feb/22 | 60 | 34 | 32 | 28 |
-| 15/Mar/22 | 61 | 34 | 33 | 28 |
-| 15/Apr/22 | 61 | 35 | 33 | 29 |
-| 15/May/22 | 61 | 35 | 34 | 29 |
-| 15/Jun/22 | 62 | 36 | 34 | 29 |
-| 15/Jul/22 | 62 | 36 | 35 | 30 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ## Indicative Period Charters
 
@@ -386,21 +292,8 @@ _No period fixtures reported._
 
 Activity in the demolition front remained limited. A combination of the Eid festive last week, continued heavy rainfalls across the Indian subcontinent countries, consecutive currencies depreciation, and weak steel demand, is leaving little room for breakers to increase their bids to an extent balanced to the current improved freight markets. As a result, owners continue to absent themselves from the scrap option. However, on a weekly basis, an improvement in bids materialized on the Indian subcontinent markets, yet insufficient to change the overall uninspiring sentiment in the demolition realm. Lastly, Turkey faces a continuous devaluation of the local currency which coupled with the ongoing increase in its inflation rate has affected local demand leading to limited activity as of late. Average prices in the different markets this week for tankers ranged between 270-585/ldt and those for dry bulk units between \$260-575/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 15/Jul/21 | 600 | 550 | 600 | 300 |
-| 15/Aug/21 | 600 | 560 | 600 | 300 |
-| 15/Sep/21 | 620 | 620 | 620 | 310 |
-| 15/Oct/21 | 620 | 620 | 620 | 330 |
-| 15/Nov/21 | 620 | 550 | 620 | 330 |
-| 15/Dec/21 | 620 | 560 | 620 | 335 |
-| 15/Jan/22 | 620 | 570 | 620 | 335 |
-| 15/Feb/22 | 670 | 600 | 670 | 360 |
-| 15/Mar/22 | 680 | 680 | 680 | 450 |
-| 15/Apr/22 | 670 | 680 | 680 | 450 |
-| 15/May/22 | 660 | 660 | 660 | 430 |
-| 15/Jun/22 | 560 | 560 | 560 | 320 |
-| 15/Jul/22 | 560 | 560 | 560 | 250 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |

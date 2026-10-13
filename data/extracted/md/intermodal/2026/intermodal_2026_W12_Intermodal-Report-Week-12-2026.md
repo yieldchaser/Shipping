@@ -80,40 +80,9 @@ Overall, the LNG carrier market is expected to remain volatile, driven by the in
 | Aframax | 110KT DH | 72.5 | 72.0 | **0.7%** | 63.6 | 71.0 | 64.4 |
 | LR1 | 75KT DH | 55.0 | 53.1 | **3.5%** | 47.9 | 53.8 | 49.2 |
 | MR | 52KT DH | 47.0 | 45.5 | **3.3%** | 41.4 | 45.8 | 41.4 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 13/Mar/25 | 50 | 150 | 250 |
-| 13/Apr/25 | 60 | 140 | 240 |
-| 13/May/25 | 70 | 130 | 230 |
-| 13/Jun/25 | 80 | 120 | 220 |
-| 13/Jul/25 | 90 | 110 | 210 |
-| 13/Aug/25 | 100 | 100 | 200 |
-| 13/Sep/25 | 110 | 90 | 190 |
-| 13/Oct/25 | 120 | 80 | 180 |
-| 13/Nov/25 | 130 | 70 | 170 |
-| 13/Dec/25 | 140 | 60 | 160 |
-| 13/Jan/26 | 150 | 50 | 150 |
-| 13/Feb/26 | 450 | 350 | 400 |
-| 13/Mar/26 | 600 | 350 | 450 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 20/Mar/25 | 150 | 160 | 170 | 180 |
-| 20/Apr/25 | 140 | 150 | 160 | 170 |
-| 20/May/25 | 130 | 140 | 150 | 160 |
-| 20/Jun/25 | 120 | 130 | 140 | 150 |
-| 20/Jul/25 | 110 | 120 | 130 | 140 |
-| 20/Aug/25 | 100 | 110 | 120 | 130 |
-| 20/Sep/25 | 90 | 100 | 110 | 120 |
-| 20/Oct/25 | 80 | 90 | 100 | 110 |
-| 20/Nov/25 | 70 | 80 | 90 | 100 |
-| 20/Dec/25 | 60 | 70 | 80 | 90 |
-| 20/Jan/26 | 50 | 60 | 70 | 80 |
-| 20/Feb/26 | 400 | 250 | 300 | 350 |
-| 20/Mar/26 | 350 | 200 | 250 | 300 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Period Charters
 

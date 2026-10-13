@@ -51,40 +51,9 @@ As the TMX pipeline continues to reshape North American oil flows, it is critica
 | --- | --- | --- | --- | --- | --- | --- |
 | 36 mos | ARDAS I | 2023 | 115,335 dwt | DEL WEST OCT/24 | $40,000/day | Maercuria |
 | 12 mos | ECO REVOLUTION | 2016 | 39,208 dwt | DEL WEST OCT/24 | $26,000/day | Hartree |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 1/Nov/23 |  |  |  |
-| 1/Dec/23 |  |  |  |
-| 1/Jan/24 |  |  |  |
-| 1/Feb/24 |  |  |  |
-| 1/Mar/24 |  |  |  |
-| 1/Apr/24 |  |  |  |
-| 1/May/24 |  |  |  |
-| 1/Jun/24 |  |  |  |
-| 1/Jul/24 |  |  |  |
-| 1/Aug/24 |  |  |  |
-| 1/Sep/24 |  |  |  |
-| 1/Oct/24 |  |  |  |
-| 1/Nov/24 |  |  |  |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 1/Nov/23 |  |  |  |  |
-| 1/Dec/23 |  |  |  |  |
-| 1/Jan/24 |  |  |  |  |
-| 1/Feb/24 |  |  |  |  |
-| 1/Mar/24 |  |  |  |  |
-| 1/Apr/24 |  |  |  |  |
-| 1/May/24 |  |  |  |  |
-| 1/Jun/24 |  |  |  |  |
-| 1/Jul/24 |  |  |  |  |
-| 1/Aug/24 |  |  |  |  |
-| 1/Sep/24 |  |  |  |  |
-| 1/Oct/24 |  |  |  |  |
-| 1/Nov/24 |  |  |  |  |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 01/11/24 | 25/10/24 | ±% | Diff | 2023 | 2022 |
@@ -144,41 +113,9 @@ On MRs, the Atlantic Triangulation TCE (MA2TCE) settled at \$25,451/day or 36.66
 | 4/6 mos | ENGIADINA | 2011 | 58,682 dwt | deley Vung An prompt redel worldwide | $13,500/day | cnr |
 | 12 mos | YANGZE 23 | 2022 | 82,367 dwt | dwt deley CJK 30/31 Oct redel worldwide | index linked at 112% to BPI | Tongji |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 1/Nov/23 | 2000 | 1500 | 1000 | 800 | 1500 |
-| 1/Dec/23 | 6500 | 3000 | 1200 | 1000 | 3000 |
-| 1/Jan/24 | 1500 | 1200 | 1000 | 800 | 1200 |
-| 1/Feb/24 | 1400 | 1100 | 900 | 700 | 1100 |
-| 1/Mar/24 | 3500 | 2000 | 1500 | 1000 | 1800 |
-| 1/Apr/24 | 2500 | 1800 | 1400 | 900 | 1600 |
-| 1/May/24 | 2000 | 1600 | 1300 | 800 | 1400 |
-| 1/Jun/24 | 1800 | 1500 | 1200 | 700 | 1300 |
-| 1/Jul/24 | 1700 | 1400 | 1100 | 600 | 1200 |
-| 1/Aug/24 | 2200 | 1600 | 1300 | 700 | 1400 |
-| 1/5Sep/24 | 2800 | 2000 | 1500 | 800 | 1700 |
-| 1/Oct/24 | 2600 | 1900 | 1400 | 700 | 1500 |
-| 1/Nov/24 | 2000 | 1500 | 1100 | 600 | 1200 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 1/Nov/23 | 15000 | 12000 | 10000 | 8000 |
-| 1/Dec/23 | 52000 | 14000 | 11000 | 9000 |
-| 1/Jan/24 | 18000 | 13000 | 10000 | 8000 |
-| 1/Feb/24 | 14000 | 12000 | 9000 | 7000 |
-| 1/Mar/24 | 32000 | 15000 | 12000 | 10000 |
-| 1/Apr/24 | 28000 | 14000 | 11000 | 9000 |
-| 1/May/24 | 24000 | 13000 | 10000 | 8000 |
-| 1/Jun/24 | 22000 | 12000 | 9000 | 7000 |
-| 1/Jul/24 | 20000 | 11000 | 8000 | 6000 |
-| 1/Aug/24 | 26000 | 13000 | 10000 | 8000 |
-| 1/5Sep/24 | 24000 | 12000 | 9000 | 7000 |
-| 1/Oct/24 | 21000 | 11000 | 8000 | 6000 |
-| 1/Nov/24 | 16000 | 10000 | 7000 | 5000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 01/11/24 | 25/10/24 | ±% | Diff | 2023 | 2022 |

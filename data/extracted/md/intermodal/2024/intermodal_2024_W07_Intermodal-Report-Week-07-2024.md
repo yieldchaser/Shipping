@@ -47,42 +47,9 @@ In this context, SEB Bank highlighted, in a February 7 note, the downturn as an 
 | --- | --- | --- | --- | --- | --- |
 | 36 mos | DEE4 ILEX | 49,999 dwt ST Shipping |  | $27,000/day |  |
 | 6 mos | LV LIZZY | 2005 49,414 dwt Trafigura |  | $32,000/day |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| DIRTY - WS RATES |  |  |  |
-| 16/Feb/23 | 0 | 150 | 380 |
-| 16/Mar/23 | 80 | 160 | 360 |
-| 16/Apr/23 | 60 | 100 | 350 |
-| 16/May/23 | 70 | 380 | 180 |
-| 16/Jun/23 | 50 | 150 | 200 |
-| 16/Jul/23 | 60 | 180 | 220 |
-| 16/Aug/23 | 50 | 160 | 200 |
-| 16/Sep/23 | 60 | 150 | 280 |
-| 16/Oct/23 | 60 | 140 | 260 |
-| 16/Nov/23 | 60 | 140 | 180 |
-| 16/Dec/23 | 60 | 140 | 180 |
-| 16/Jan/24 | 60 | 140 | 390 |
-| 16/Feb/24 | 70 | 160 | 190 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| CLEAN - WS RATES |  |  |  |  |
-| 16/Feb/23 | 180 | 180 | 260 | 260 |
-| 16/Mar/23 | 180 | 430 | 430 | 260 |
-| 16/Apr/23 | 160 | 160 | 160 | 160 |
-| 16/May/23 | 160 | 160 | 160 | 160 |
-| 16/Jun/23 | 160 | 160 | 160 | 160 |
-| 16/Jul/23 | 160 | 160 | 160 | 160 |
-| 16/Aug/23 | 160 | 160 | 260 | 260 |
-| 16/Sep/23 | 160 | 160 | 300 | 300 |
-| 16/Oct/23 | 160 | 160 | 260 | 260 |
-| 16/Nov/23 | 160 | 160 | 260 | 260 |
-| 16/Dec/23 | 160 | 160 | 260 | 260 |
-| 16/Jan/24 | 160 | 340 | 340 | 340 |
-| 16/Feb/24 | 240 | 240 | 240 | 240 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 16/02/24 | 09/02/24 | ±% | Diff | 2023 | 2022 |
@@ -146,32 +113,9 @@ Suezmax T/C earnings averaged \$47,735/day, up + \$2,424/day (+5.27%) w-o-w. On 
 | **Handysize** | **32K 1yr TC** | 13,000 | 13,000 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 16/Feb/23 | 1200 | 1000 | 800 | 600 | 800 |
-| 16/Mar/23 | 1800 | 1100 | 900 | 700 | 1000 |
-| 16/Apr/23 | 2200 | 1000 | 800 | 600 | 1000 |
-| 16/May/23 | 2000 | 900 | 700 | 500 | 900 |
-| 16/Jun/23 | 1600 | 900 | 700 | 500 | 900 |
-| 16/Jul/23 | 1400 | 900 | 700 | 500 | 900 |
-| 16/Aug/23 | 1500 | 1000 | 800 | 600 | 1000 |
-| 16/Sep/23 | 3000 | 2500 | 1500 | 1000 | 2000 |
-| 16/Oct/23 | 4500 | 3000 | 2000 | 1200 | 2800 |
-| 16/Nov/23 | 6800 | 3000 | 2500 | 1500 | 3000 |
-| 16/Dec/23 | 5500 | 2800 | 2200 | 1400 | 2900 |
-| 16/Jan/24 | 2500 | 1500 | 1200 | 800 | 1600 |
-| 16/Feb/24 | 2100 | 1400 | 1100 | 750 | 1500 |
-
-### Average T/C Rates (1-Year Trend)
-
-| $/day | 16/Feb/23 | 16/Mar/23 | 16/Apr/23 | 16/May/23 | 16/Jun/23 | 16/Jul/23 | 16/Aug/23 | 16/Sep/23 | 16/Oct/23 | 16/Nov/23 | 16/Dec/23 | 16/Jan/24 | 16/Feb/24 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Average of the 5T / C | 5000 | 15000 | 18000 | 16000 | 12000 | 10000 | 11000 | 25000 | 48000 | 35000 | 20000 | 10000 | 18000 |
-| AVR 5TC BPI | 10000 | 11000 | 10000 | 9000 | 9000 | 9000 | 10000 | 15000 | 18000 | 18000 | 17000 | 10000 | 12000 |
-| AVR 10TC BSI | 8000 | 9000 | 8000 | 7000 | 7000 | 7000 | 8000 | 12000 | 15000 | 16000 | 15000 | 9000 | 8500 |
-| AVR 7TC BHSI | 6000 | 7000 | 6000 | 5000 | 5000 | 5000 | 6000 | 9000 | 10000 | 11000 | 10000 | 6000 | 5500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Feb-24 avg | Jan-24 avg | ±% | 2023 | 2022 | 2021 |

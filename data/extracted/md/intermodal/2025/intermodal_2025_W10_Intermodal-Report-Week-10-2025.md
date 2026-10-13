@@ -61,40 +61,9 @@ Focusing to the US shipbuilding, the orderbook is a small fraction of the total,
 |  | 55K | MED-USG | 115 | 10,056 | 115 | 8,969 | 12.1% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 176 | 23,025 | 199 | 29,831 | -22.8% | 26,872 | 46,194 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 7/Mar/24 | 80 | 120 | 160 |
-| 7/Apr/24 | 75 | 125 | 155 |
-| 7/May/24 | 70 | 130 | 150 |
-| 7/lun/24 | 65 | 135 | 145 |
-| 7/lul/24 | 60 | 140 | 140 |
-| 7/Aug/24 | 55 | 145 | 135 |
-| 7/Sep/24 | 50 | 150 | 130 |
-| 7/Oct/24 | 45 | 155 | 125 |
-| 7/Nov/24 | 40 | 160 | 120 |
-| 7/Dec/24 | 35 | 165 | 115 |
-| 7/Jan/25 | 30 | 170 | 110 |
-| 7/Feb/25 | 25 | 175 | 105 |
-| 7/Mar/25 | 20 | 180 | 100 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 7/Mar/24 | 300 | 250 | 200 | 150 |
-| 7/Apr/24 | 280 | 240 | 190 | 140 |
-| 7/May/24 | 260 | 230 | 180 | 130 |
-| 7/lun/24 | 240 | 220 | 170 | 120 |
-| 7/lul/24 | 220 | 210 | 160 | 110 |
-| 7/Aug/24 | 200 | 200 | 150 | 100 |
-| 7/Sep/24 | 180 | 190 | 140 | 90 |
-| 7/Oct/24 | 160 | 180 | 130 | 80 |
-| 7/Nov/24 | 140 | 170 | 120 | 70 |
-| 7/Dec/24 | 120 | 160 | 110 | 60 |
-| 7/Jan/25 | 100 | 150 | 100 | 50 |
-| 7/Feb/25 | 90 | 140 | 90 | 40 |
-| 7/Mar/25 | 80 | 130 | 80 | 30 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 07/03/25 | 28/02/25 | ±% | Diff | 2024 | 2023 |
@@ -162,41 +131,9 @@ Suezmax TCE earnings averaged \$36,978/day, down by -5.02% w-o-w. Aframax TCE ea
 | **Handysize** | **32K 1yr TC** | 10,000 | 10,000 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 7/Mar/24 | 4000 | 2000 | 1500 | 1000 | 2000 |
-| 7/Apr/24 | 2500 | 1800 | 1400 | 900 | 1800 |
-| 7/May/24 | 3000 | 1700 | 1300 | 800 | 1700 |
-| 7/Jun/24 | 3200 | 1750 | 1350 | 850 | 1750 |
-| 7/Jul/24 | 3500 | 1800 | 1400 | 900 | 1800 |
-| 7/Aug/24 | 3800 | 1850 | 1450 | 950 | 1850 |
-| 7/Sep/24 | 3300 | 1700 | 1300 | 800 | 1700 |
-| 7/Oct/24 | 3000 | 1600 | 1200 | 700 | 1600 |
-| 7/Nov/24 | 2800 | 1500 | 1100 | 600 | 1500 |
-| 7/Dec/24 | 2500 | 1400 | 1000 | 500 | 1400 |
-| 7/Jan/25 | 2000 | 1300 | 900 | 400 | 1300 |
-| 7/Feb/25 | 1500 | 1200 | 800 | 300 | 1200 |
-| 7/Mar/25 | 2200 | 1350 | 950 | 450 | 1350 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 7/Mar/24 | 35000 | 18000 | 12000 | 8000 |
-| 7/Apr/24 | 28000 | 16000 | 11000 | 7000 |
-| 7/May/24 | 32000 | 15000 | 10000 | 6000 |
-| 7/Jun/24 | 36000 | 16000 | 11000 | 7000 |
-| 7/Jul/24 | 40000 | 17000 | 12000 | 8000 |
-| 7/Aug/24 | 38000 | 16500 | 11500 | 7500 |
-| 7/Sep/24 | 34000 | 15500 | 10500 | 6500 |
-| 7/Oct/24 | 30000 | 14000 | 9000 | 5000 |
-| 7/Nov/24 | 26000 | 13000 | 8000 | 4000 |
-| 7/Dec/24 | 22000 | 12000 | 7000 | 3000 |
-| 7/Jan/25 | 15000 | 10000 | 6000 | 2000 |
-| 7/Feb/25 | 12000 | 9000 | 5000 | 1000 |
-| 7/Mar/25 | 18000 | 10000 | 6000 | 2000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Mar-25 avg | Feb-25 avg | ±% | 2024 | 2023 | 2022 |

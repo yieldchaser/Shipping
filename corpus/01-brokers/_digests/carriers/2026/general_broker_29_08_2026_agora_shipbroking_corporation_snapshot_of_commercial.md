@@ -120,14 +120,14 @@ bulk@agoraships.com snp@agoraships.com (for our exclusive clients) tanker@agoras
 |Mr. Dimitris Vasiliou, BSc|Mr. Nicolas Trantas, BSc, LLM, MICS|
 |---|---|
 |Chartering broker|Chartering broker|
-|mob: +30 698.938.17.45 (whats app/wechat) Mr. Nikos Aronis, BSc|mob: +30 693.6505.888 (whats app/wechat)|
+|mob: [omitted] (whats app/wechat) Mr. Nikos Aronis, BSc|mob: [omitted] (whats app/wechat)|
 |Chartering broker|Mr. Dimitrios Katsos, Diploma|
-|Mob: +30 6970.30.78.08 (whats app/wechat) Mr. Akis Vasilliadis, Diploma Accounting mob: +30 697.263. 4347|Customs Brokerage & Warehousing mob: +30 694.456.4171|
+|Mob: [omitted] (whats app/wechat) Mr. Akis Vasilliadis, Diploma Accounting mob: [omitted]|Customs Brokerage & Warehousing mob: [omitted]|
 
 |bulk@agoraships.com||snp@agoraships.com (for our exclusive clients)|tanker@agoraships.com|
 |---|---|---|---|
 |panamax@agoraships.com|||bitumen@agoraships.com|
 |cape@agoraships.com||Project / MPP/ Niche Markets desk:||
 |minibulk@agoraships.com (1-5k dwt)||project@agoraships.com (project cargo / vessels)||
-|period@agoraships.com (for t/c period requirements)|Mr. Alexandros Psarianos, BSc, MSc, FICS, Managing Director mob: +30 6985.11.11.02 (whats app/wechat)|roro@agoraships.com||
+|period@agoraships.com (for t/c period requirements)|Mr. Alexandros Psarianos, BSc, MSc, FICS, Managing Director mob: [omitted] (whats app/wechat)|roro@agoraships.com||
 

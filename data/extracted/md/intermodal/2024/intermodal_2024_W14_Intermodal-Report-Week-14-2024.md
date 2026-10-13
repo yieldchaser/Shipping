@@ -109,23 +109,7 @@ As we move forward, the VLCC market appears to be entering a period of cautious 
 | BSI |  |  |
 | BHSI |  |  |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 5/Apr/23 | 15000 | 12000 | 10000 | 8000 |
-| 5/May/23 | 18000 | 13000 | 11000 | 9000 |
-| 5/Jun/23 | 16000 | 12500 | 10500 | 8500 |
-| 5/Jul/23 | 14000 | 11000 | 9500 | 7500 |
-| 5/Aug/23 | 15000 | 11500 | 9000 | 7000 |
-| 5/Sep/23 | 25000 | 18000 | 15000 | 12000 |
-| 5/Oct/23 | 30000 | 22000 | 18000 | 14000 |
-| 5/Nov/23 | 40000 | 28000 | 25000 | 18000 |
-| 5/Dec/23 | 55000 | 45000 | 35000 | 28000 |
-| 5/Jan/24 | 20000 | 15000 | 12000 | 10000 |
-| 5/Feb/24 | 25000 | 18000 | 15000 | 12000 |
-| 5/Mar/24 | 32000 | 24000 | 20000 | 16000 |
-| 5/Apr/24 | 18000 | 14000 | 11000 | 9000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 05/04/24 | 29/03/24 | ±% | Diff | 2023 | 2022 |

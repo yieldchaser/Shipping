@@ -59,42 +59,9 @@ In conclusion, the threat of Houthi action disrupting Red Sea trade marks a sign
 | Period | Vessel | Built | DWT | Rate / Charterer |
 | --- | --- | --- | --- | --- |
 | 12 mos | Wisteria | 2008 | 50,661 | $23,000 / Clearlake |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS | WS | WS |
-| 24/Jul/25 | points | points | points |
-| 24/Aug/25 | 150 | 150 | 150 |
-| 24/Sep/25 | 150 | 150 | 150 |
-| 24/Oct/25 | 150 | 150 | 150 |
-| 24/Nov/25 | 150 | 150 | 150 |
-| 24/Dec/25 | 150 | 150 | 150 |
-| 24/Jan/26 | 150 | 150 | 150 |
-| 24/Feb/26 | 200 | 200 | 200 |
-| 24/Mar/26 | 400 | 400 | 950 |
-| 24/Apr/26 | 450 | 450 | 980 |
-| 24/May/26 | 400 | 400 | 400 |
-| 24/Jun/26 | 350 | 350 | 350 |
-| 24/Jul/26 | 300 | 300 | 300 |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS | WS | WS | WS |
-| 24/Jul/25 | points | points | points | points |
-| 24/Aug/25 | 150 | 150 | 150 | 150 |
-| 24/Sep/25 | 150 | 150 | 150 | 150 |
-| 24/Oct/25 | 150 | 150 | 150 | 150 |
-| 24/Nov/25 | 150 | 150 | 150 | 150 |
-| 24/Dec/25 | 150 | 150 | 150 | 150 |
-| 24/Jan/26 | 150 | 150 | 150 | 150 |
-| 24/Feb/26 | 200 | 200 | 200 | 200 |
-| 24/Mar/26 | 400 | 300 | 600 | 600 |
-| 24/Apr/26 | 450 | 300 | 650 | 600 |
-| 24/May/26 | 500 | 300 | 600 | 600 |
-| 24/Jun/26 | 450 | 250 | 550 | 500 |
-| 24/Jul/26 | 400 | 200 | 400 | 350 |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 24/07/2026 | 17/07/2026 | ±% | Diff | 2025 | 2024 |
@@ -162,41 +129,9 @@ Aframaxes continued to support the crude freight market, building upward momentu
 | **Handysize** | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 24/Jul/25 | 3800 | 1500 | 1200 | 800 | 2000 |
-| 24/Aug/25 | 3500 | 1400 | 1100 | 750 | 1800 |
-| 24/Sep/25 | 3200 | 1300 | 1000 | 700 | 1600 |
-| 24/Oct/25 | 3000 | 1200 | 950 | 650 | 1500 |
-| 24/Nov/25 | 5200 | 2000 | 1800 | 1000 | 2500 |
-| 24/Dec/25 | 2800 | 1400 | 1100 | 700 | 1700 |
-| 24/Jan/26 | 3000 | 1300 | 1000 | 650 | 1600 |
-| 24/Feb/26 | 3100 | 1350 | 1050 | 680 | 1650 |
-| 24/Mar/26 | 3200 | 1400 | 1100 | 700 | 1700 |
-| 24/Apr/26 | 4500 | 2500 | 2000 | 900 | 3000 |
-| 24/May/26 | 5000 | 2800 | 2200 | 950 | 3500 |
-| 24/Jun/26 | 1200 | 1800 | 2000 | 800 | 1500 |
-| 24/Jul/26 | 4000 | 2200 | 2500 | 900 | 4000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 24/Jul/25 | 28000 | 14000 | 12000 | 10000 |
-| 24/Aug/25 | 26000 | 13500 | 11500 | 9500 |
-| 24/Sep/25 | 24000 | 13000 | 11000 | 9000 |
-| 24/Oct/25 | 22000 | 12500 | 10500 | 8500 |
-| 24/Nov/25 | 43000 | 15000 | 13000 | 11000 |
-| 24/Dec/25 | 18000 | 11000 | 10000 | 8000 |
-| 24/Jan/26 | 16000 | 10500 | 9500 | 7500 |
-| 24/Feb/26 | 17000 | 11000 | 10000 | 8000 |
-| 24/Mar/26 | 18000 | 11500 | 10500 | 8500 |
-| 24/Apr/26 | 38000 | 16000 | 14000 | 12000 |
-| 24/May/26 | 45000 | 18000 | 15000 | 13000 |
-| 24/Jun/26 | 32000 | 16000 | 13000 | 11000 |
-| 24/Jul/26 | 34000 | 16500 | 13500 | 11500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jul-26 avg | Jun-26 avg | ±% | 2025 | 2024 |

@@ -52,40 +52,9 @@ The MR tanker market is likely to find additional support from recent developmen
 | --- | --- | --- | --- | --- | --- | --- |
 | 24 mos |  |  | 40,401 dwt | DEL WEST NOV/23 | $24,000/day | ST SHIP |
 | 9 mos | ENERGY APOLLO | 2020 | 49,812 dwt | DEL EAST NOV/23 | $28,300/day | SEARIVER (EXXON) |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | - | - | - |
-| 24/Nov/22 | WS | WS | WS |
-| 24/Dec/22 | RATES | RATES | RATES |
-| 24/Jan/23 | TD3 | TD6 | TD9 |
-| 24/Feb/23 | WS | WS | WS |
-| 24/Mar/23 | points | points | points |
-| 24/Apr/23 | 60 | 280 | 580 |
-| 24/May/23 | 80 | 200 | 300 |
-| 24/Jul/23 | 90 | 180 | 250 |
-| 24/Aug/23 | 100 | 220 | 350 |
-| 24/Sep/23 | 110 | 200 | 400 |
-| 24/Oct/23 | 100 | 180 | 350 |
-| 24/Nov/23 | 90 | 160 | 300 |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | - | - | - | - |
-| 24/Nov/22 | WS | WS | WS | WS |
-| 24/Dec/22 | RATES | RATES | RATES | RATES |
-| 24/Jan/23 | TC1 | TC2 | TC5 | TC6 |
-| 24/Feb/23 | WS | WS | WS | WS |
-| 24/Mar/23 | points | points | points | points |
-| 24/Apr/23 | 400 | 380 | 420 | 450 |
-| 24/May/23 | 250 | 200 | 220 | 280 |
-| 24/Jul/23 | 180 | 160 | 190 | 240 |
-| 24/Aug/23 | 200 | 180 | 210 | 260 |
-| 24/Sep/23 | 450 | 200 | 400 | 350 |
-| 24/Oct/23 | 150 | 140 | 160 | 180 |
-| 24/Nov/23 | 120 | 120 | 140 | 160 |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 24/11/23 | 17/11/23 | ±% | Diff | 2022 | 2021 |
@@ -153,41 +122,9 @@ Suezmax T/C earnings averaged \$49,039/day, up + \$549/day w-o-w. On the Aframax
 | **Handysize** | **32K 1yr TC** | 11,000 | 10,500 | **4.8%** | **500** | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 24/Nov/22 | 1400 | 1500 | 1400 | 800 | 1500 |
-| 24/Dec/22 | 2800 | 800 | 1000 | 700 | 2500 |
-| 24/Jan/23 | 800 | 900 | 1000 | 700 | 900 |
-| 24/Feb/23 | 1000 | 1100 | 1100 | 800 | 1000 |
-| 24/Mar/23 | 1200 | 1100 | 1100 | 800 | 1000 |
-| 24/Apr/23 | 2200 | 1100 | 1200 | 900 | 1100 |
-| 24/May/23 | 1600 | 1100 | 1200 | 900 | 1100 |
-| 24/Jun/23 | 1400 | 1100 | 1100 | 800 | 1100 |
-| 24/Jul/23 | 1300 | 1100 | 1100 | 800 | 1100 |
-| 24/Aug/23 | 1200 | 1100 | 1000 | 800 | 1100 |
-| 24/Sep/23 | 1300 | 1100 | 1000 | 800 | 1100 |
-| 24/Oct/23 | 3500 | 1900 | 1900 | 1900 | 3800 |
-| 24/Nov/23 | 3200 | 2000 | 2000 | 1900 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 24/Nov/22 | 13000 | 14000 | 13000 | 12000 |
-| 24/Dec/22 | 22000 | 10000 | 10000 | 9000 |
-| 24/Jan/23 | 4000 | 7000 | 7000 | 6000 |
-| 24/Feb/23 | 3000 | 8000 | 8000 | 7000 |
-| 24/Mar/23 | 13000 | 12000 | 11000 | 10000 |
-| 24/Apr/23 | 18000 | 13000 | 12000 | 11000 |
-| 24/May/23 | 20000 | 13000 | 12000 | 11000 |
-| 24/Jun/23 | 14000 | 11000 | 11000 | 10000 |
-| 24/Jul/23 | 15000 | 11000 | 11000 | 10000 |
-| 24/Aug/23 | 12000 | 11000 | 10000 | 9000 |
-| 24/Sep/23 | 14000 | 12000 | 11000 | 10000 |
-| 24/Oct/23 | 30000 | 17000 | 14000 | 13000 |
-| 24/Nov/23 | 27000 | 17000 | 14000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Nov-23 avg | Oct-23 avg | ±% | 2022 | 2021 |

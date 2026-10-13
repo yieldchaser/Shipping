@@ -63,40 +63,9 @@ It is clear that India is still a very small player in the shipbuilding industry
 | --- | --- | --- | --- | --- | --- | --- |
 | 2/3 mos | SEA RUNNER | 2008 | 50,319 dwt | DEL EAST AUG/24 | $42,000/day | Aramco |
 | 36 mos | NORD VENTURA | 2021 | 49,999 dwt | DEL EAST JUL/24 | $29,000/day | Seariver (Exxon) |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 16/Aug/23 | 80 | 100 | 100 |
-| 16/Sep/23 | 70 | 110 | 280 |
-| 16/Oct/23 | 60 | 120 | 280 |
-| 16/Nov/23 | 50 | 110 | 280 |
-| 16/Dec/23 | 40 | 110 | 390 |
-| 16/Jan/24 | 40 | 100 | 280 |
-| 16/Feb/24 | 50 | 90 | 200 |
-| 16/Mar/24 | 60 | 90 | 180 |
-| 16/Apr/24 | 70 | 90 | 180 |
-| 16/May/24 | 60 | 90 | 180 |
-| 16/Jun/24 | 50 | 90 | 150 |
-| 16/Jul/24 | 40 | 90 | 120 |
-| 16/Aug/24 | 30 | 80 | 100 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 16/Aug/23 | 150 | 140 | 280 | 180 |
-| 16/Sep/23 | 140 | 150 | 270 | 190 |
-| 16/Oct/23 | 130 | 160 | 260 | 200 |
-| 16/Nov/23 | 120 | 150 | 250 | 210 |
-| 16/Dec/23 | 110 | 140 | 240 | 220 |
-| 16/Jan/24 | 100 | 130 | 360 | 230 |
-| 16/Feb/24 | 90 | 120 | 350 | 240 |
-| 16/Mar/24 | 80 | 110 | 340 | 250 |
-| 16/Apr/24 | 70 | 100 | 330 | 260 |
-| 16/May/24 | 60 | 90 | 320 | 270 |
-| 16/Jun/24 | 50 | 80 | 310 | 280 |
-| 16/Jul/24 | 40 | 70 | 300 | 290 |
-| 16/Aug/24 | 30 | 60 | 290 | 300 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 16/08/2024 | 09/08/2024 | ±% | Diff | 2023 | 2022 |
@@ -166,41 +135,9 @@ The product tanker market faced downward pressure across most segments. The LR2 
 | **Handysize** | **32K 1yr TC** | 12,750 | 12,750 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 16/Aug/23 | 1200 | 1100 | 1000 | 800 | 1200 |
-| 16/5ep/23 | 2500 | 1500 | 1400 | 900 | 1400 |
-| 16/Oct/23 | 3000 | 1600 | 1300 | 850 | 1500 |
-| 16/Nov/23 | 6500 | 3000 | 1200 | 800 | 3000 |
-| 16/Dec/23 | 6000 | 3000 | 1100 | 750 | 3000 |
-| 16/Jan/24 | 2000 | 1200 | 1000 | 700 | 1300 |
-| 16/Feb/24 | 2500 | 1400 | 1000 | 700 | 1400 |
-| 16/Mar/24 | 3000 | 1500 | 1000 | 700 | 1500 |
-| 16/Apr/24 | 2500 | 1400 | 950 | 650 | 1400 |
-| 16/May/24 | 2500 | 1400 | 950 | 650 | 1400 |
-| 16/Jun/24 | 2500 | 1400 | 950 | 650 | 1400 |
-| 16/Jul/24 | 2500 | 1400 | 950 | 650 | 1400 |
-| 16/Aug/24 | 2400 | 1400 | 950 | 650 | 1400 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 16/Aug/23 | 10000 | 12000 | 11000 | 9000 |
-| 16/5ep/23 | 25000 | 15000 | 13000 | 10000 |
-| 16/Oct/23 | 20000 | 14000 | 12000 | 9500 |
-| 16/Nov/23 | 15000 | 13000 | 11000 | 9000 |
-| 16/Dec/23 | 55000 | 20000 | 10000 | 8500 |
-| 16/Jan/24 | 15000 | 13000 | 11000 | 9000 |
-| 16/Feb/24 | 20000 | 14000 | 12000 | 9500 |
-| 16/Mar/24 | 25000 | 15000 | 13000 | 10000 |
-| 16/Apr/24 | 20000 | 14000 | 12000 | 9500 |
-| 16/May/24 | 20000 | 14000 | 12000 | 9500 |
-| 16/Jun/24 | 25000 | 15000 | 13000 | 10000 |
-| 16/Jul/24 | 20000 | 14000 | 12000 | 9500 |
-| 16/Aug/24 | 18000 | 13500 | 11500 | 9000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Aug-24 avg | Jul-24 avg | ±% | 2023 | 2022 |

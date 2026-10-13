@@ -50,59 +50,9 @@ Mid-size bulk carriers have experienced a volatile 2023 so far and the last few 
 | --- | --- | --- | --- | --- | --- | --- |
 | 24 mos |  |  | ST SHIP | DEL WEST NOV/23 | $24,000/day |  |
 | 9 mos | ENERGY APOLLO | 2020 | 49,812 dwt | DEL EAST NOV/23 | $28,300/day | SEARIVER (EXXON) |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| WS | - | - | - |
-| points | WS | WS | WS |
-| 1/Dec/22 | RATES | RATES | RATES |
-| 1/Jan/23 | TD350 | TD6250 | TD9700 |
-| 1/Feb/23 | 50 | 200 | 600 |
-| 1/Mar/23 | 50 | 150 | 500 |
-| 1/Apr/23 | 50 | 350 | 400 |
-| 1/May/23 | 50 | 200 | 350 |
-| 1/Jun/23 | 50 | 150 | 350 |
-| 1/Jul/23 | 50 | 150 | 200 |
-| 1/Aug/23 | 50 | 150 | 150 |
-| 1/Sep/23 | 50 | 100 | 100 |
-| 1/Oct/23 | 50 | 100 | 100 |
-| 1/Nov/23 | 50 | 150 | 250 |
-| 1/Dec/23 | 50 | 150 | 250 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| WS points |  |  |  |  |
-| 1/Dec/22 | 400 | 400 | 400 | 400 |
-| 1/Jan/23 | 150 | 150 | 150 | 150 |
-| 1/Feb/23 | 100 | 100 | 100 | 100 |
-| 1/Mar/23 | 100 | 450 | 450 | 450 |
-| 1/Apr/23 | 100 | 200 | 200 | 200 |
-| 1/May/23 | 100 | 150 | 150 | 150 |
-| 1/Jun/23 | 100 | 150 | 150 | 150 |
-| 1/Jul/23 | 100 | 150 | 150 | 150 |
-| 1/Aug/23 | 100 | 100 | 100 | 100 |
-| 1/Sep/23 | 100 | 100 | 100 | 100 |
-| 1/Oct/23 | 100 | 150 | 300 | 300 |
-| 1/Nov/23 | 100 | 200 | 250 | 250 |
-| 1/Dec/23 | 100 | 200 | 200 | 200 |
-|  | CLEAN - WS RATES |  |  |  |
-|  | TC1 | TC2 | TC5 | TC6 |
-| WS points |  |  |  |  |
-| 1/Dec/22 | 400 | 400 | 400 | 400 |
-| 1/Jan/23 | 150 | 150 | 150 | 150 |
-| 1/Feb/23 | 100 | 100 | 100 | 100 |
-| 1/Mar/23 | 100 | 450 | 450 | 450 |
-| 1/Apr/23 | 100 | 200 | 200 | 200 |
-| 1/May/23 | 100 | 150 | 150 | 150 |
-| 1/Jun/23 | 100 | 150 | 150 | 150 |
-| 1/Jul/23 | 100 | 150 | 150 | 150 |
-| 1/Aug/23 | 100 | 100 | 100 | 100 |
-| 1/Sep/23 | 100 | 100 | 100 | 100 |
-| 1/Oct/23 | 100 | 150 | 300 | 300 |
-| 1/Nov/23 | 100 | 200 | 250 | 250 |
-| 1/Dec/23 | 100 | 200 | 200 | 200 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 01/12/23 | 24/11/23 | ±% | Diff | 2022 | 2021 |
@@ -170,39 +120,9 @@ Suezmax T/C earnings averaged \$50,108/day, down - \$715/day w-o-w. On the Afram
 | **Handysize** | **32K 1yr TC** | 13,500 | 11,000 | **22.7%** | **2,500** | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 9,750 | 9,250 | **5.4%** | **500** | 12,322 | 11,825 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 1/Dec/22 | 1500 | 1500 | 800 | 700 | 1600 |
-| 1/Jan/23 | 2500 | 1000 | 700 | 600 | 2500 |
-| 1/Feb/23 | 500 | 500 | 500 | 500 | 500 |
-| 1/Mar/23 | 1000 | 1000 | 800 | 600 | 1000 |
-| 1/Apr/23 | 2000 | 1500 | 1000 | 700 | 2000 |
-| 1/May/23 | 2500 | 2000 | 1200 | 800 | 2500 |
-| 1/Jul/23 | 1500 | 1500 | 1000 | 700 | 1500 |
-| 1/Aug/23 | 1500 | 1500 | 1000 | 700 | 1500 |
-| 1/Sep/23 | 2000 | 1500 | 1000 | 700 | 2000 |
-| 1/Oct/23 | 3500 | 2000 | 1500 | 1000 | 3500 |
-| 1/Nov/23 | 3800 | 3000 | 1800 | 1200 | 3800 |
-| 1/Dec/23 | 4000 | 3200 | 1500 | 800 | 3200 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 1/Dec/22 | 15000 | 15000 | 14000 | 13000 |
-| 1/Jan/23 | 23000 | 10000 | 9000 | 8000 |
-| 1/Feb/23 | 3000 | 5000 | 5000 | 5000 |
-| 1/Mar/23 | 8000 | 8000 | 7000 | 6000 |
-| 1/Apr/23 | 18000 | 12000 | 10000 | 9000 |
-| 1/May/23 | 20000 | 15000 | 12000 | 10000 |
-| 1/Jul/23 | 10000 | 10000 | 9000 | 8000 |
-| 1/Aug/23 | 10000 | 10000 | 9000 | 8000 |
-| 1/Sep/23 | 12000 | 11000 | 10000 | 9000 |
-| 1/Oct/23 | 28000 | 18000 | 14000 | 12000 |
-| 1/Nov/23 | 20000 | 18000 | 15000 | 13000 |
-| 1/Dec/23 | 35000 | 20000 | 16000 | 15000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Dec-23 avg | Nov-23 avg | ±% | 2022 | 2021 |

@@ -48,41 +48,9 @@ Looking ahead, this dynamic will remain a key pillar of support for dry bulk as 
 | 12 mos | Minerva Kythnos | 2011 | 115,674 dwt | $35,000/day | Chevron |
 | 12 mos | PIS Precious | 2013 | 50,259 dwt | $23,250/day | Vitol |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 7/Nov/24 | 80 | 100 | 110 |
-| 7/Dec/24 | 90 | 110 | 170 |
-| 7/Jan/25 | 85 | 105 | 160 |
-| 7/Feb/25 | 80 | 100 | 150 |
-| 7/Mar/25 | 75 | 100 | 140 |
-| 7/Apr/25 | 70 | 110 | 220 |
-| 7/May/25 | 65 | 105 | 160 |
-| 7/Jun/25 | 60 | 100 | 150 |
-| 7/Jul/25 | 60 | 95 | 140 |
-| 7/Aug/25 | 65 | 100 | 150 |
-| 7/Sep/25 | 70 | 105 | 155 |
-| 7/Oct/25 | 100 | 150 | 200 |
-| 7/Nov/25 | 110 | 160 | 230 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 7/Nov/24 | 90 | 100 | 100 | 100 |
-| 7/Dec/24 | 280 | 110 | 250 | 150 |
-| 7/Jan/25 | 100 | 110 | 160 | 140 |
-| 7/Feb/25 | 95 | 105 | 150 | 130 |
-| 7/Mar/25 | 100 | 110 | 250 | 140 |
-| 7/Apr/25 | 100 | 105 | 280 | 150 |
-| 7/May/25 | 95 | 100 | 160 | 140 |
-| 7/Jun/25 | 90 | 95 | 150 | 130 |
-| 7/Jul/25 | 85 | 90 | 140 | 120 |
-| 7/Aug/25 | 90 | 95 | 140 | 130 |
-| 7/Sep/25 | 95 | 100 | 145 | 135 |
-| 7/Oct/25 | 100 | 105 | 140 | 130 |
-| 7/Nov/25 | 110 | 100 | 135 | 130 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 07/11/2025 | 31/10/2025 | ±% | Diff | 2024 | 2023 |
@@ -152,41 +120,9 @@ Aframaxes witnessed a broadly flat week, with TCE rates hovering around \$60k. A
 | **Handysize** | **32K 1yr TC** | 11,250 | 11,250 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 7/Nov/24 | 3200 | 1200 | 1000 | 700 | 1500 |
-| 7/Dec/24 | 1000 | 800 | 800 | 600 | 900 |
-| 7/Jan/25 | 900 | 750 | 750 | 550 | 850 |
-| 7/Feb/25 | 900 | 750 | 750 | 550 | 850 |
-| 7/Mar/25 | 1800 | 1300 | 1200 | 900 | 1400 |
-| 7/Apr/25 | 2500 | 1400 | 1300 | 1000 | 1500 |
-| 7/May/25 | 1500 | 1300 | 1200 | 800 | 1300 |
-| 7/Jun/25 | 1400 | 1300 | 1200 | 800 | 1300 |
-| 7/Jul/25 | 3800 | 1400 | 1300 | 900 | 1400 |
-| 7/Aug/25 | 3500 | 1900 | 1800 | 1200 | 1900 |
-| 7/Sep/25 | 3000 | 1800 | 1700 | 1000 | 1800 |
-| 7/Oct/25 | 3000 | 1800 | 1700 | 1000 | 1800 |
-| 7/Nov/25 | 3200 | 1900 | 1900 | 1100 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 7/Nov/24 | 26000 | 8000 | 10000 | 11000 |
-| 7/Dec/24 | 6000 | 6000 | 7000 | 9000 |
-| 7/Jan/25 | 7000 | 6500 | 7500 | 9500 |
-| 7/Feb/25 | 7000 | 6500 | 7500 | 9500 |
-| 7/Mar/25 | 20000 | 10000 | 12000 | 11000 |
-| 7/Apr/25 | 22000 | 11000 | 13000 | 12000 |
-| 7/May/25 | 15000 | 10000 | 12000 | 11000 |
-| 7/Jun/25 | 14000 | 10000 | 12000 | 11000 |
-| 7/Jul/25 | 31000 | 11000 | 14000 | 12000 |
-| 7/Aug/25 | 31000 | 15000 | 16000 | 14000 |
-| 7/Sep/25 | 26000 | 15000 | 15000 | 13000 |
-| 7/Oct/25 | 26000 | 15000 | 15000 | 13000 |
-| 7/Nov/25 | 26000 | 16000 | 15500 | 13500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Nov-25 avg | Oct-25 avg | ±% | 2024 | 2023 |

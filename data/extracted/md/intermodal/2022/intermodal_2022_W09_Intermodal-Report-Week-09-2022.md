@@ -120,41 +120,9 @@ Shanghai 200122 China
 | Handy | 36k 1yr TC | 11,000 | 11,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 4/Mar/21 | 50 | 80 | 160 |
-| 4/Apr/21 | 50 | 80 | 150 |
-| 4/May/21 | 50 | 80 | 150 |
-| 4/Jun/21 | 50 | 80 | 150 |
-| 4/Jul/21 | 50 | 80 | 150 |
-| 4/Aug/21 | 50 | 80 | 150 |
-| 4/Sep/21 | 50 | 80 | 150 |
-| 4/Oct/21 | 50 | 80 | 150 |
-| 4/Nov/21 | 50 | 80 | 150 |
-| 4/Dec/21 | 50 | 80 | 150 |
-| 4/Jan/22 | 50 | 80 | 150 |
-| 4/Feb/22 | 50 | 280 | 160 |
-| 4/Mar/22 | 50 | 290 | 160 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 4/Mar/21 | 150 | 150 | 150 | 160 |
-| 4/Apr/21 | 150 | 150 | 150 | 160 |
-| 4/May/21 | 150 | 150 | 150 | 160 |
-| 4/Jun/21 | 150 | 150 | 150 | 160 |
-| 4/Jul/21 | 150 | 150 | 150 | 160 |
-| 4/Aug/21 | 150 | 150 | 150 | 160 |
-| 4/Sep/21 | 150 | 150 | 150 | 160 |
-| 4/Oct/21 | 150 | 150 | 150 | 160 |
-| 4/Nov/21 | 150 | 150 | 150 | 160 |
-| 4/Dec/21 | 150 | 150 | 150 | 300 |
-| 4/Jan/22 | 150 | 150 | 150 | 200 |
-| 4/Feb/22 | 150 | 150 | 150 | 250 |
-| 4/Mar/22 | 150 | 150 | 150 | 290 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Mar-22 avg | Feb-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -217,41 +185,9 @@ In the LR1 sector we had sale of the "TECTUS" (74,862dwt-blt '09, S. Korea), whi
 |  | **32K 1yr TC** | 24,500 | 23,250 | **5.4%** | **1,250** | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 4/Mar/21 | 1,800 | 2,000 | 1,900 | 1,500 | 1,900 |
-| 4/Apr/21 | 2,100 | 2,200 | 2,000 | 1,600 | 2,000 |
-| 4/May/21 | 4,800 | 3,500 | 2,800 | 1,700 | 4,500 |
-| 4/Jun/21 | 3,200 | 3,000 | 2,900 | 1,600 | 3,500 |
-| 4/Jul/21 | 3,400 | 3,100 | 3,000 | 1,650 | 3,600 |
-| 4/Aug/21 | 3,600 | 3,300 | 3,200 | 1,700 | 3,800 |
-| 4/Sep/21 | 5,500 | 4,500 | 4,000 | 1,800 | 5,200 |
-| 4/Oct/21 | 10,200 | 4,800 | 4,200 | 1,850 | 9,500 |
-| 4/Nov/21 | 2,500 | 2,800 | 2,600 | 1,750 | 2,400 |
-| 4/Dec/21 | 2,600 | 2,900 | 2,700 | 1,700 | 2,500 |
-| 4/Jan/22 | 2,400 | 2,700 | 2,500 | 1,650 | 2,300 |
-| 4/Feb/22 | 1,700 | 2,400 | 2,200 | 1,600 | 1,600 |
-| 4/Mar/22 | 1,800 | 2,500 | 2,300 | 1,650 | 1,700 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 4/Mar/21 | 18000 | 22000 | 20000 | 17000 |
-| 4/Apr/21 | 20000 | 21000 | 21000 | 18000 |
-| 4/May/21 | 42000 | 28000 | 24000 | 19000 |
-| 4/Jun/21 | 25000 | 23000 | 22000 | 18500 |
-| 4/Jul/21 | 28000 | 25000 | 23000 | 19000 |
-| 4/Aug/21 | 32000 | 26000 | 25000 | 19500 |
-| 4/Sep/21 | 48000 | 30000 | 28000 | 20000 |
-| 4/Oct/21 | 82000 | 35000 | 32000 | 20500 |
-| 4/Nov/21 | 28000 | 27000 | 26000 | 20000 |
-| 4/Dec/21 | 38000 | 28000 | 27000 | 20500 |
-| 4/Jan/22 | 22000 | 24000 | 23000 | 19000 |
-| 4/Feb/22 | 14000 | 22000 | 21000 | 18500 |
-| 4/Mar/22 | 24000 | 23000 | 22000 | 19000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -354,41 +290,10 @@ In the Panamax sector we had the sale of the "SEA MELODY I" (75,957dwt-bl't '02,
 
 The newbuilding market continues to be fuelled by the owners' insatiable hunger for Container units. Indeed, the recent contracting list consists of a total of 26 new boxships summing the sizeable number of 162,200teu. Among them, Singapore-based owner PIL has ordered four LNG fuelled and ammonia-ready 14,000teu units at Jiangnan Shipyard while South Korean owner Sinokor, concluded a deal for the construction of six 8,000teu, four 2,800teu and two 1,000 boxships at KSOE group. The rest orders refer to two 7,000teu vessels that were ordered by Thai owner RCL, six 6,000 boxships options that were declared by CMB and two 2,500teu units that were inked by StarOcean Marine. Additionally, LNG sector was also present last week, with Greek owner Dynagas concluding a deal for the construction of three 200,000cbm units at KSOE for a price at the region of \$235.0 million each, while ADNOC ordered two firm plus two optional 175,000cmb vessels at Jiangnan Shipyard for a price of around \$200.0 million each.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 4/Mar/21 | 90 | 55 | 52 | 40 | 32 |
-| 4/Apr/21 | 92 | 57 | 53 | 41 | 33 |
-| 4/May/21 | 94 | 58 | 54 | 42 | 34 |
-| 4/Jun/21 | 96 | 60 | 55 | 43 | 35 |
-| 4/Jul/21 | 98 | 62 | 56 | 44 | 36 |
-| 4/Aug/21 | 100 | 64 | 57 | 45 | 37 |
-| 4/Sep/21 | 102 | 65 | 58 | 46 | 38 |
-| 4/Oct/21 | 105 | 67 | 59 | 47 | 39 |
-| 4/Nov/21 | 108 | 69 | 60 | 48 | 40 |
-| 4/Dec/21 | 110 | 70 | 61 | 49 | 41 |
-| 4/Jan/22 | 112 | 71 | 62 | 50 | 42 |
-| 4/Feb/22 | 115 | 73 | 63 | 51 | 43 |
-| 4/Mar/22 | 118 | 75 | 64 | 52 | 44 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 4/Mar/21 | 50 | 25 | 24 | 22 |
-| 4/Apr/21 | 52 | 26 | 25 | 23 |
-| 4/May/21 | 54 | 27 | 26 | 24 |
-| 4/Jun/21 | 56 | 28 | 27 | 25 |
-| 4/Jul/21 | 58 | 30 | 28 | 26 |
-| 4/Aug/21 | 60 | 31 | 29 | 27 |
-| 4/Sep/21 | 60 | 32 | 30 | 28 |
-| 4/Oct/21 | 60 | 33 | 31 | 28 |
-| 4/Nov/21 | 60 | 34 | 32 | 29 |
-| 4/Dec/21 | 60 | 34 | 32 | 29 |
-| 4/Jan/22 | 60 | 35 | 33 | 30 |
-| 4/Feb/22 | 60 | 35 | 33 | 30 |
-| 4/Mar/22 | 60 | 35 | 33 | 30 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -425,21 +330,8 @@ The newbuilding market continues to be fuelled by the owners' insatiable hunger 
 
 Scrap prices in the demolition market witnessed another w-o-w improvement. Owners have moved to the sidelines amidst the ongoing war in Ukraine and its subsequent effect on the freight rates. At the same time, imposed sanctions have resulted in a rise in steel prices across the globe with both Bangladeshi and Indian having a major role in replacing Russian market share. As a result, we saw breakers across both countries increasing their bids considerably, with the Indian market showing a rise of \$30/ldt for tanker units last week. In Pakistan, weak domestic steel demand resulted in slower breakers' reflexes who, despite their improved offers, did not manage to secure a portion of the low number of vintage candidates. Turkey's market has also witnessed strong improvements on offered scrap prices from breakers, with the average level for tanker units standing at the \$400/ldt mark. Imported scrap prices recorded a notable increase with the domestic ones following suit albeit to a smaller extent. Average prices in the different markets this week for tankers ranged between 400-660/ldt and those for dry bulk units between \$390-650/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 4/Mar/21 | 450 | 445 | 450 | 250 |
-| 4/Apr/21 | 470 | 460 | 460 | 250 |
-| 4/May/21 | 520 | 480 | 500 | 260 |
-| 4/Jun/21 | 540 | 500 | 520 | 280 |
-| 4/Jul/21 | 560 | 520 | 540 | 285 |
-| 4/Aug/21 | 580 | 550 | 560 | 290 |
-| 4/Sep/21 | 590 | 560 | 570 | 295 |
-| 4/Oct/21 | 600 | 570 | 580 | 295 |
-| 4/Nov/21 | 610 | 580 | 590 | 300 |
-| 4/Dec/21 | 600 | 550 | 580 | 300 |
-| 4/Jan/22 | 610 | 560 | 590 | 320 |
-| 4/Feb/22 | 640 | 600 | 620 | 350 |
-| 4/Mar/22 | 650 | 630 | 640 | 360 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

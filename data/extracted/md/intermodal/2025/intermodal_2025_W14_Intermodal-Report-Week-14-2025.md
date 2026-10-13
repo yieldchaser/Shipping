@@ -78,40 +78,9 @@ In the short term, we anticipate shifts in trade patterns and re-routing, as lin
 | **LR1** | 75KT DH | 50.0 | 50.8 | -1.5% | 53.8 | 49.2 | 38.6 |
 | **MR** | **52KT DH** | 41.0 | 41.0 | 0.0% | 45.8 | 41.4 | 34.8 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 4/Apr/24 | 50 | 100 | 200 |
-| 4/May/24 | 50 | 100 | 200 |
-| 4/Jun/24 | 50 | 100 | 200 |
-| 4/Jul/24 | 50 | 100 | 200 |
-| 4/Aug/24 | 50 | 100 | 200 |
-| 4/Sep/24 | 50 | 100 | 200 |
-| 4/Oct/24 | 50 | 100 | 200 |
-| 4/Nov/24 | 50 | 100 | 200 |
-| 4/Dec/24 | 50 | 100 | 200 |
-| 4/Jan/25 | 50 | 100 | 200 |
-| 4/Feb/25 | 50 | 100 | 200 |
-| 4/Mar/25 | 50 | 100 | 200 |
-| 4/Apr/25 | 50 | 100 | 200 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 4/Apr/24 | 150 | 150 | 200 | 150 |
-| 4/May/24 | 150 | 150 | 200 | 150 |
-| 4/Jun/24 | 150 | 150 | 200 | 150 |
-| 4/Jul/24 | 150 | 150 | 200 | 150 |
-| 4/Aug/24 | 150 | 150 | 200 | 150 |
-| 4/Sep/24 | 150 | 150 | 200 | 150 |
-| 4/Oct/24 | 150 | 150 | 200 | 150 |
-| 4/Nov/24 | 150 | 150 | 200 | 150 |
-| 4/Dec/24 | 150 | 150 | 200 | 150 |
-| 4/Jan/25 | 150 | 150 | 200 | 150 |
-| 4/Feb/25 | 150 | 150 | 200 | 150 |
-| 4/Mar/25 | 150 | 150 | 200 | 150 |
-| 4/Apr/25 | 150 | 150 | 200 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -150,41 +119,9 @@ Simultaneously, oil prices have slumped following the U.S.'s unexpected tariff a
 | **Handysize** | **32K 1yr TC** | 10,500 | 10,500 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 4/Apr/24 | 2200 | 1600 | 1400 | 900 | 1800 |
-| 4/May/24 | 2800 | 1700 | 1500 | 1000 | 2000 |
-| 4/Jun/24 | 3500 | 1800 | 1600 | 1100 | 2200 |
-| 4/Jul/24 | 3800 | 1750 | 1550 | 1000 | 2100 |
-| 4/Aug/24 | 3200 | 1600 | 1400 | 900 | 1700 |
-| 4/Sep/24 | 3000 | 1500 | 1300 | 800 | 1600 |
-| 4/Oct/24 | 2500 | 1400 | 1200 | 700 | 1400 |
-| 4/Nov/24 | 2000 | 1300 | 1100 | 600 | 1200 |
-| 4/Dec/24 | 1500 | 1200 | 1000 | 500 | 1000 |
-| 4/Jan/25 | 1200 | 1100 | 900 | 400 | 900 |
-| 4/Feb/25 | 1800 | 1200 | 1000 | 500 | 1100 |
-| 4/Mar/25 | 2200 | 1400 | 1200 | 700 | 1500 |
-| 4/Apr/25 | 2400 | 1500 | 1300 | 800 | 1600 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 4/Apr/24 | 18000 | 14000 | 10000 | 8000 |
-| 4/May/24 | 20000 | 14500 | 10500 | 8500 |
-| 4/Jun/24 | 25000 | 15000 | 11000 | 9000 |
-| 4/Jul/24 | 32000 | 15500 | 11500 | 9500 |
-| 4/Aug/24 | 28000 | 14000 | 10000 | 8000 |
-| 4/Sep/24 | 26000 | 13500 | 9500 | 7500 |
-| 4/Oct/24 | 22000 | 13000 | 9000 | 7000 |
-| 4/Nov/24 | 18000 | 12000 | 8000 | 6000 |
-| 4/Dec/24 | 12000 | 11000 | 7000 | 5000 |
-| 4/Jan/25 | 8000 | 10000 | 6000 | 4000 |
-| 4/Feb/25 | 10000 | 11000 | 7000 | 5000 |
-| 4/Mar/25 | 18000 | 12000 | 8000 | 6000 |
-| 4/Apr/25 | 19000 | 12500 | 8500 | 6500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Apr-25 avg | Mar-25 avg | ±% | 2024 | 2023 |

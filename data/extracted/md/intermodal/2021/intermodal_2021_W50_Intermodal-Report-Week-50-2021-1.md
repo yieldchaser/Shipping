@@ -91,41 +91,9 @@ Shanghai 200122 China
 | 6 mos | FREE SPIRIT | 2008 | 113,091 dwt | 15,000/day | Solal |
 | 12 mos | NECTAR SEA | 2008 | 105,370 dwt | $20,750/day | Saudi Aramco |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 17/Dec/20 | 50 | 70 | 80 |
-| 17/Jan/21 | 55 | 75 | 85 |
-| 17/Feb/21 | 60 | 80 | 100 |
-| 17/Mar/21 | 65 | 85 | 150 |
-| 17/Apr/21 | 55 | 80 | 90 |
-| 17/May/21 | 50 | 75 | 85 |
-| 17/Jun/21 | 50 | 75 | 80 |
-| 17/Jul/21 | 50 | 75 | 80 |
-| 17/Aug/21 | 50 | 75 | 80 |
-| 17/Sep/21 | 50 | 75 | 80 |
-| 17/Oct/21 | 55 | 80 | 120 |
-| 17/Nov/21 | 55 | 80 | 130 |
-| 17/Dec/21 | 55 | 85 | 140 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 17/Dec/20 | 100 | 110 | 120 | 130 |
-| 17/Jan/21 | 105 | 115 | 125 | 135 |
-| 17/Feb/21 | 110 | 120 | 130 | 140 |
-| 17/Mar/21 | 115 | 125 | 135 | 150 |
-| 17/Apr/21 | 110 | 120 | 130 | 140 |
-| 17/May/21 | 105 | 115 | 125 | 135 |
-| 17/Jun/21 | 105 | 115 | 125 | 135 |
-| 17/Jul/21 | 105 | 115 | 125 | 135 |
-| 17/Aug/21 | 105 | 115 | 125 | 135 |
-| 17/Sep/21 | 105 | 115 | 125 | 135 |
-| 17/Oct/21 | 110 | 120 | 130 | 140 |
-| 17/Nov/21 | 110 | 120 | 130 | 300 |
-| 17/Dec/21 | 110 | 120 | 130 | 300 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 | 2019 |
@@ -206,43 +174,9 @@ In the MR2 sector we had the sale of the "TARGALE" (52,660dwt-blt '07, Croatia),
 |  | **32K 1yr TC** | 21,750 | 21,750 | 0.0% | 0 | 8,556 | 9,291 |
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 17/Dec/20 | 1,500 | 1,500 | 1,500 | 1,000 | 2,000 |
-| 17/Jan/21 | 2,500 | 2,500 | 2,500 | 1,500 | 3,000 |
-| 17/Feb/21 | 2,800 | 2,800 | 2,800 | 1,600 | 3,200 |
-| 17/Mar/21 | 3,000 | 3,000 | 3,000 | 1,700 | 3,500 |
-| 17/Apr/21 | 4,500 | 4,500 | 4,500 | 1,800 | 4,500 |
-| 17/May/21 | 4,800 | 4,800 | 4,800 | 1,900 | 4,800 |
-| 17/Jul/21 | 3,500 | 3,500 | 3,500 | 1,700 | 4,000 |
-| 17/Jun/21 | 3,200 | 3,200 | 3,200 | 1,600 | 3,800 |
-| 17/Jul/21 | 3,400 | 3,400 | 3,400 | 1,700 | 4,000 |
-| 17/Aug/21 | 3,800 | 3,800 | 3,800 | 1,800 | 4,500 |
-| 17/Sep/21 | 5,500 | 5,500 | 5,500 | 1,900 | 6,000 |
-| 17/Oct/21 | 10,500 | 10,500 | 10,500 | 1,900 | 10,500 |
-| 17/Nov/21 | 2,800 | 2,800 | 2,800 | 1,600 | 3,500 |
-| 17/Dec/21 | 3,000 | 3,000 | 3,000 | 1,700 | 3,800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 17/Dec/20 | 15000 | 15000 | 15000 | 15000 |
-| 17/Jan/21 | 20000 | 20000 | 20000 | 18000 |
-| 17/Feb/21 | 22000 | 22000 | 22000 | 19000 |
-| 17/Mar/21 | 25000 | 25000 | 25000 | 20000 |
-| 17/Apr/21 | 40000 | 35000 | 35000 | 21000 |
-| 17/May/21 | 42000 | 36000 | 36000 | 22000 |
-| 17/Jul/21 | 35000 | 35000 | 35000 | 21000 |
-| 17/Jun/21 | 34000 | 34000 | 34000 | 20000 |
-| 17/Jul/21 | 36000 | 36000 | 36000 | 21000 |
-| 17/Aug/21 | 40000 | 37000 | 37000 | 22000 |
-| 17/Sep/21 | 85000 | 40000 | 40000 | 23000 |
-| 17/Oct/21 | 85000 | 40000 | 40000 | 23000 |
-| 17/Nov/21 | 25000 | 25000 | 25000 | 24000 |
-| 17/Dec/21 | 30000 | 30000 | 30000 | 25000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -331,41 +265,10 @@ In the Handysize sector we had the sale of the "DD VANGUARD" (26,479dwt-blt '07,
 
 The activity was limited in the newbuilding realm. It seems that the Christmas period lull has affected contracting activity as only two orders came to light during the past days. However, with the exception of the crude carrier market which saw limited interest in newbuilding projects during the secondhand half of this year, interest for the rest of the segments was huge with Gas carrier and Container orders playing the major role in shipyards' profitability. In terms of last week's orders, Taiwanese owner Taiwan Navigation ordered two 63,500dwt units at Oshima for an undisclosed price, while Chinese owner CenerTech inked a deal for the construction of one 12,000cbm LNG bunkering vessel at Nantong CIMC yard.
 
-### Bulk Carriers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 17/Dec/20 | 48 | 27 | 27 | 24 |
-| 17/Jan/21 | 49 | 28 | 28 | 24 |
-| 17/Feb/21 | 50 | 28 | 28 | 25 |
-| 17/Mar/21 | 52 | 29 | 29 | 25 |
-| 17/Apr/21 | 54 | 30 | 30 | 26 |
-| 17/May/21 | 56 | 30 | 30 | 26 |
-| 17/Jun/21 | 57 | 31 | 31 | 27 |
-| 17/Jul/21 | 58 | 31 | 31 | 27 |
-| 17/Aug/21 | 59 | 32 | 32 | 28 |
-| 17/Sep/21 | 59 | 32 | 32 | 28 |
-| 17/Oct/21 | 60 | 32 | 32 | 29 |
-| 17/Nov/21 | 60 | 33 | 33 | 29 |
-| 17/Dec/21 | 60 | 33 | 33 | 30 |
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-### Tankers Newbuilding Prices (m$)
-
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 17/Dec/20 | 80 | 52 | 40 | 38 | 34 |
-| 17/Jan/21 | 82 | 55 | 41 | 39 | 34 |
-| 17/Feb/21 | 85 | 57 | 42 | 40 | 35 |
-| 17/Mar/21 | 88 | 59 | 44 | 41 | 35 |
-| 17/Apr/21 | 90 | 60 | 45 | 42 | 36 |
-| 17/May/21 | 92 | 62 | 46 | 43 | 36 |
-| 17/Jun/21 | 94 | 63 | 47 | 44 | 36 |
-| 17/Jul/21 | 96 | 64 | 48 | 45 | 36 |
-| 17/Aug/21 | 100 | 65 | 50 | 46 | 36 |
-| 17/Sep/21 | 104 | 66 | 52 | 47 | 36 |
-| 17/Oct/21 | 108 | 67 | 54 | 48 | 36 |
-| 17/Nov/21 | 110 | 68 | 56 | 48 | 36 |
-| 17/Dec/21 | 115 | 68 | 58 | 48 | 36 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price |
@@ -395,21 +298,8 @@ The activity was limited in the newbuilding realm. It seems that the Christmas p
 
 The demolition prices have stabilized during the past days amidst a continuing shortage of fresh units in the market. Despite the steel plate prices collapse, especially in India, and the historical depreciation of both the PKR and TRY currencies, owners who are willing to dispose of their units will still enjoy significantly healthy levels. However, interest in such an option is not very popular with owners preferring to work their vessels on the spot market and with tanker units being the main source of scrap. Having said that, Bangladeshi buyers have managed to attract some of their interest, offering the highest bids compared to their Pakistani counterparts whose purchasing power is pressured by the ongoing PRK devaluation. At the same time, India seems unable to compete for the conventional tonnage amid the sharp steel plate decrease that the local market has witnessed during the past weeks, focusing now almost exclusively on the HKC green tonnage. Average scrap prices in the different markets this week for tankers ranged between 330-600/Idt and those for dry bulk units between \$320-590/Idt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 17/Dec/20 | 420 | 410 | 415 | 260 |
-| 17/Jan/21 | 440 | 430 | 420 | 255 |
-| 17/Feb/21 | 435 | 425 | 415 | 250 |
-| 17/Mar/21 | 470 | 460 | 465 | 250 |
-| 17/Apr/21 | 500 | 490 | 495 | 250 |
-| 17/May/21 | 530 | 520 | 525 | 300 |
-| 17/Jun/21 | 560 | 550 | 555 | 310 |
-| 17/Jul/21 | 600 | 590 | 595 | 320 |
-| 17/Aug/21 | 610 | 600 | 605 | 320 |
-| 17/Sep/21 | 620 | 610 | 615 | 325 |
-| 17/Oct/21 | 625 | 620 | 625 | 330 |
-| 17/Nov/21 | 620 | 615 | 620 | 330 |
-| 17/Dec/21 | 615 | 560 | 610 | 335 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

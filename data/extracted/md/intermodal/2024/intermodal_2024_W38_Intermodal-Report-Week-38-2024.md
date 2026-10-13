@@ -46,40 +46,9 @@ In the coming months, India's crude oil import strategy will likely continue ada
 | Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- | --- |
 | 5 mos | GOLDEN SUN(N/B) | 2024 | 50,000 dwt | DEL CHINA SEP-OCT/24 | $30,000/day | Stena Bulk |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 20/Sep/23 | 50 | 100 | 100 |
-| 20/Oct/23 | 80 | 120 | 280 |
-| 20/Nov/23 | 70 | 130 | 260 |
-| 20/Dec/23 | 60 | 140 | 380 |
-| 20/Jan/24 | 60 | 150 | 390 |
-| 20/Feb/24 | 60 | 140 | 200 |
-| 20/Mar/24 | 60 | 130 | 180 |
-| 20/Apr/24 | 60 | 120 | 160 |
-| 20/May/24 | 60 | 120 | 150 |
-| 20/Jun/24 | 60 | 110 | 140 |
-| 20/Jul/24 | 60 | 100 | 100 |
-| 20/Aug/24 | 60 | 90 | 90 |
-| 20/Sep/24 | 60 | 90 | 90 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 20/Sep/23 | 150 | 160 | 180 | 170 |
-| 20/Oct/23 | 140 | 150 | 200 | 190 |
-| 20/Nov/23 | 130 | 140 | 220 | 210 |
-| 20/Dec/23 | 120 | 130 | 240 | 230 |
-| 20/Jan/24 | 110 | 120 | 380 | 350 |
-| 20/Feb/24 | 100 | 110 | 360 | 340 |
-| 20/Mar/24 | 100 | 100 | 320 | 300 |
-| 20/Apr/24 | 100 | 90 | 300 | 280 |
-| 20/May/24 | 100 | 90 | 280 | 260 |
-| 20/Jun/24 | 100 | 80 | 260 | 240 |
-| 20/Jul/24 | 100 | 80 | 240 | 220 |
-| 20/Aug/24 | 100 | 70 | 200 | 180 |
-| 20/Sep/24 | 100 | 70 | 160 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 20/09/24 | 13/09/24 | ±% | Diff | 2023 | 2022 |
@@ -141,39 +110,9 @@ The tanker Market had another positive week with the the larger sizes showing co
 | **Handysize** | **32K 1yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 20/Sep/23 | 2500 | 1500 | 1200 | 1000 | 2000 |
-| 20/Oct/23 | 3000 | 1600 | 1300 | 1100 | 2200 |
-| 20/Nov/23 | 6500 | 3000 | 2000 | 1500 | 3000 |
-| 20/Dec/23 | 6800 | 3200 | 2200 | 1600 | 3200 |
-| 20/Jan/24 | 1800 | 1400 | 1400 | 1200 | 1600 |
-| 20/Feb/24 | 3500 | 1800 | 1600 | 1300 | 1800 |
-| 20/Mar/24 | 3200 | 1700 | 1500 | 1300 | 1700 |
-| 20/Apr/24 | 2800 | 1600 | 1400 | 1200 | 1500 |
-| 20/May/24 | 3000 | 1600 | 1400 | 1200 | 1600 |
-| 20/Jul/24 | 3100 | 1600 | 1400 | 1200 | 1600 |
-| 20/Aug/24 | 3000 | 1600 | 1400 | 1200 | 1600 |
-| 20/Sep/24 | 3000 | 1600 | 1400 | 1200 | 1600 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 20/Sep/23 | 18000 | 14000 | 12000 | 10000 |
-| 20/Oct/23 | 16000 | 13000 | 11000 | 9000 |
-| 20/Nov/23 | 15000 | 12000 | 10000 | 8000 |
-| 20/Dec/23 | 52000 | 14000 | 11000 | 9000 |
-| 20/Jan/24 | 14000 | 12000 | 10000 | 8000 |
-| 20/Feb/24 | 18000 | 15000 | 12000 | 9000 |
-| 20/Mar/24 | 34000 | 16000 | 13000 | 10000 |
-| 20/Apr/24 | 26000 | 15000 | 12000 | 9000 |
-| 20/May/24 | 24000 | 15000 | 12000 | 9000 |
-| 20/Jul/24 | 22000 | 14000 | 11000 | 8000 |
-| 20/Aug/24 | 24000 | 14000 | 11000 | 8000 |
-| 20/Sep/24 | 25000 | 14000 | 11000 | 8000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Sep-24 avg | Aug-24 avg | ±% | 2023 | 2022 | 2021 |

@@ -72,40 +72,9 @@ As geopolitics and energy economics converge, Greece is emerging as a key entry 
 | 72 mos | Olympic Luck | 2010 |
 | --- | --- | --- |
 |  | $40,000/day |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 12/Sep/24 | 80 | 100 | 120 |
-| 12/Oct/24 | 190 | 100 | 210 |
-| 12/Nov/24 | 90 | 110 | 130 |
-| 12/Dec/24 | 90 | 110 | 130 |
-| 12/Jan/25 | 80 | 110 | 140 |
-| 12/Feb/25 | 80 | 110 | 140 |
-| 12/Mar/25 | 80 | 120 | 150 |
-| 12/Apr/25 | 210 | 120 | 210 |
-| 12/May/25 | 80 | 110 | 160 |
-| 12/Jun/25 | 80 | 100 | 160 |
-| 12/Jul/25 | 80 | 100 | 160 |
-| 12/Aug/25 | 80 | 110 | 170 |
-| 12/Sep/25 | 80 | 140 | 160 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 12/Sep/24 | 120 | 100 | 140 | 150 |
-| 12/Oct/24 | 100 | 100 | 130 | 140 |
-| 12/Nov/24 | 100 | 110 | 280 | 150 |
-| 12/Dec/24 | 100 | 110 | 160 | 150 |
-| 12/Jan/25 | 100 | 110 | 160 | 150 |
-| 12/Feb/25 | 100 | 110 | 160 | 150 |
-| 12/Mar/25 | 100 | 120 | 280 | 280 |
-| 12/Apr/25 | 100 | 120 | 280 | 280 |
-| 12/May/25 | 100 | 110 | 160 | 150 |
-| 12/Jun/25 | 210 | 100 | 160 | 150 |
-| 12/Jul/25 | 100 | 100 | 160 | 150 |
-| 12/Aug/25 | 100 | 110 | 160 | 150 |
-| 12/Sep/25 | 120 | 120 | 150 | 140 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 12/09/2025 | 05/09/2025 | ±% | Diff | 2024 | 2023 |

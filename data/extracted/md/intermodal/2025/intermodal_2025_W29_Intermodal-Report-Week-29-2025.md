@@ -23,24 +23,7 @@ Within this transitional period, the Greek shipowners are actively engaging to t
 
 Concluding, although Shipping contributes about 2% of global emissions, its large scale of business, long lifespan of vessels and reliance on fossil fuels make it a key focus of global climate agenda. The transition to greener practices continues amid regulatory pressure, with stakeholders, including Greek shipowners, investing in cleaner technologies and alternative fuels to meet environmental regulations and achieve long-term sustainability.
 
-### Global Alternative Fuel Fleet Expansion (LNG vs Other)
-
-| Date | LNG Capable Fleet (m dwt) | Other Alternative Fuels (m dwt) |
-| --- | --- | --- |
-| Jan-2005 | 0.00 | 0.00 |
-| Jul-2006 | 0.00 | 0.00 |
-| Jan-2008 | 0.00 | 0.00 |
-| Jul-2009 | 0.00 | 0.00 |
-| Jan-2011 | 2.00 | 0.00 |
-| Jul-2012 | 4.00 | 0.00 |
-| Jan-2014 | 8.00 | 0.00 |
-| Jul-2015 | 12.00 | 1.00 |
-| Jan-2017 | 20.00 | 2.00 |
-| Jul-2018 | 30.00 | 4.00 |
-| Jan-2020 | 40.00 | 6.00 |
-| Jul-2021 | 50.00 | 8.00 |
-| Jan-2023 | 100.00 | 10.00 |
-| Jul-2024 | 110.00 | 13.00 |
+> **Chart (not transcribed):** Global Alternative Fuel Fleet Expansion (LNG vs Other). The report prints no values for it.
 
 ### Orderbook By Segment: Alternative Fuel Adoption
 
@@ -59,40 +42,10 @@ Concluding, although Shipping contributes about 2% of global emissions, its larg
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 24 mos | 24 mos | 2021 158,081 dwt | TotalEnergies |  |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 18/Jul/24 | 50 | 100 | 200 |
-| 18/Aug/24 | 50 | 100 | 200 |
-| 18/Sep/24 | 50 | 100 | 200 |
-| 18/Oct/24 | 50 | 100 | 200 |
-| 18/Nov/24 | 50 | 100 | 200 |
-| 18/Dec/24 | 50 | 100 | 200 |
-| 18/Jan/25 | 50 | 100 | 200 |
-| 18/Feb/25 | 50 | 100 | 200 |
-| 18/Mar/25 | 50 | 100 | 200 |
-| 18/Apr/25 | 50 | 100 | 200 |
-| 18/May/25 | 50 | 100 | 200 |
-| 18/Jun/25 | 50 | 100 | 200 |
-| 18/Jul/25 | 50 | 100 | 200 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 18/Jul/24 | 150 | 150 | 250 | 250 |
-| 18/Aug/24 | 150 | 150 | 250 | 250 |
-| 18/Sep/24 | 150 | 150 | 250 | 250 |
-| 18/Oct/24 | 150 | 150 | 250 | 250 |
-| 18/Nov/24 | 150 | 150 | 250 | 250 |
-| 18/Dec/24 | 150 | 150 | 250 | 250 |
-| 18/Jan/25 | 150 | 150 | 250 | 250 |
-| 18/Feb/25 | 150 | 150 | 250 | 250 |
-| 18/Mar/25 | 150 | 150 | 250 | 250 |
-| 18/Apr/25 | 150 | 150 | 250 | 250 |
-| 18/May/25 | 150 | 150 | 250 | 250 |
-| 18/Jun/25 | 150 | 150 | 250 | 250 |
-| 18/Jul/25 | 150 | 150 | 250 | 250 |
 ## Spot Rates
 
 | Sector | Size | Routes | 18/07/2025 WS points | 18/07/2025 $/day | 11/07/2025 WS points | 11/07/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
@@ -177,41 +130,9 @@ In the Aframax sector, the Mediterranean market began the week with limited tonn
 | **Handysize** | **32K 1yr TC** | 10,500 | 10,500 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 18/Jul/24 | 2800 | 1800 | 1400 | 800 | 1800 |
-| 18/Aug/24 | 3500 | 2000 | 1300 | 700 | 2000 |
-| 18/Sep/24 | 3800 | 1900 | 1200 | 600 | 2200 |
-| 18/Oct/24 | 3200 | 1700 | 1100 | 600 | 1900 |
-| 18/Nov/24 | 3000 | 1500 | 1000 | 500 | 1600 |
-| 18/Dec/24 | 1000 | 800 | 800 | 500 | 800 |
-| 18/Jan/25 | 1200 | 900 | 800 | 500 | 900 |
-| 18/Feb/25 | 1500 | 1000 | 900 | 600 | 1000 |
-| 18/Mar/25 | 1800 | 1200 | 1000 | 700 | 1400 |
-| 18/Apr/25 | 1900 | 1300 | 1100 | 800 | 1500 |
-| 18/May/25 | 2000 | 1400 | 1200 | 900 | 1600 |
-| 18/Jun/25 | 3800 | 1800 | 1500 | 1000 | 2000 |
-| 18/Jul/25 | 3000 | 1900 | 1600 | 1000 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 18/Jul/24 | 24000 | 14000 | 13000 | 12000 |
-| 18/Aug/24 | 28000 | 13000 | 12000 | 11000 |
-| 18/Sep/24 | 30000 | 12000 | 11000 | 10000 |
-| 18/Oct/24 | 16000 | 10000 | 9000 | 9000 |
-| 18/Nov/24 | 26000 | 9000 | 8000 | 8000 |
-| 18/Dec/24 | 6000 | 7000 | 7000 | 7000 |
-| 18/Jan/25 | 8000 | 7000 | 7000 | 7000 |
-| 18/Feb/25 | 10000 | 8000 | 8000 | 7000 |
-| 18/Mar/25 | 22000 | 10000 | 9000 | 8000 |
-| 18/Apr/25 | 18000 | 11000 | 10000 | 9000 |
-| 18/May/25 | 20000 | 12000 | 11000 | 10000 |
-| 18/Jun/25 | 30000 | 14000 | 12000 | 11000 |
-| 18/Jul/25 | 25000 | 16000 | 13000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jul-25 avg | Jun-25 avg | ±% | 2024 | 2023 |

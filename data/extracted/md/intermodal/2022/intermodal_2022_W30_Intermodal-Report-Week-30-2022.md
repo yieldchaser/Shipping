@@ -166,39 +166,9 @@ In the Aframax sector we had the sale of the "VOYAGER I" (106,638dwt-blt '02, Ja
 |  | **32K 1yr TC** | 16,000 | 17,750 | -9.9% | -1,750 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 12,000 | 12,500 | -4.0% | -500 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 29/Jul/21 | 4000 | 3500 | 3000 | 1800 | 4000 |
-| 29/Aug/21 | 5500 | 4000 | 3200 | 1800 | 6000 |
-| 29/Sep/21 | 10000 | 4500 | 3500 | 1800 | 10000 |
-| 29/Oct/21 | 2500 | 3000 | 2800 | 1700 | 3000 |
-| 29/Nov/21 | 2800 | 2900 | 2700 | 1700 | 3000 |
-| 29/Dec/21 | 2200 | 2600 | 2400 | 1600 | 2500 |
-| 29/Jan/22 | 2000 | 2500 | 2300 | 1600 | 2400 |
-| 28/Feb/22 | 2600 | 2800 | 2600 | 1700 | 2800 |
-| 31/Mar/22 | 2800 | 2900 | 2700 | 1700 | 3000 |
-| 30/Apr/22 | 4000 | 3500 | 3000 | 1800 | 4500 |
-| 31/May/22 | 4500 | 3800 | 3200 | 1800 | 4800 |
-| 30/Jun/22 | 2000 | 2500 | 2400 | 1700 | 2500 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 29/Jul/21 | 32000 | 30000 | 31000 | 28000 |
-| 29/Aug/21 | 45000 | 32000 | 33000 | 29000 |
-| 29/Sep/21 | 85000 | 34000 | 35000 | 30000 |
-| 29/Oct/21 | 25000 | 26000 | 27000 | 25000 |
-| 29/Nov/21 | 30000 | 28000 | 29000 | 26000 |
-| 29/Dec/21 | 12000 | 24000 | 25000 | 22000 |
-| 29/Jan/22 | 18000 | 25000 | 26000 | 23000 |
-| 28/Feb/22 | 28000 | 30000 | 31000 | 28000 |
-| 31/Mar/22 | 32000 | 32000 | 33000 | 29000 |
-| 30/Apr/22 | 35000 | 34000 | 35000 | 30000 |
-| 31/May/22 | 36000 | 35000 | 36000 | 31000 |
-| 30/Jun/22 | 22000 | 24000 | 25000 | 23000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -312,38 +282,9 @@ In the Handysize sector we had the sale of the "MISS SIMONA" (34,529dwt-blt '10,
 
 July ended with a total number of 59 units added to the current orderbook. LNG carriers have the lion's share in July's contracting activity, with a total number of 16 vessels ordered through the month, followed by 14 tankers, 11 bulkers, 8 containers, 6 PCTCs, and 4 MPPs. Newbuilding contracting activity remained relatively unchanged over the past week, with 2 LNG orders on behalf of the Qatar LNG project monopolizing interest. More specifically, Meiji Kaiun and Lino Kaiun secured two berths each at DSME for the construction of 4x174,000cbm vessels in total, with expected delivery within 2025, at an undisclosed price. On the wet front, 3 orders for 5 units emerged last week. PCL secured 2x50,000dwt vessels at K Shipbuilding. The vessels will be delivered between 2023-2024 and will comply with NOx-Tier III standards. Helikon Shipping inked a deal for 2x50,000dwt vessels at Hyundai Vietnam, at a price of \$42.0m each. The conventionally fuelled vessels will be delivered within 2025 and will comply with EEDI phase 3 and NOx-Tier III standards. Lastly, Furetank ordered a 1x17,999dwt vessel in Jinling at an undisclosed price. The vessel will be LNG and biogas fuelled and will be delivered within 2024. Conclusively, on the container front, 2 orders emerged last week for a total number of 3 boxships. Hyundai Mipo was assigned for the construction of 2x2,500teu vessels by Namsung at the price of \$42.5m each with 2024 expected delivery. Lastly, Xiamen ordered a 1x2,206teu vessel at Haidont with expected delivery within 2024.
 
-## Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 29/Jul/21 | 100 | 65 | 55 | 50 | 40 |
-| 29/Aug/21 | 105 | 68 | 57 | 52 | 41 |
-| 29/Sep/21 | 110 | 70 | 58 | 53 | 42 |
-| 29/Oct/21 | 112 | 72 | 59 | 54 | 43 |
-| 29/Nov/21 | 115 | 74 | 60 | 55 | 44 |
-| 29/Dec/21 | 118 | 76 | 61 | 56 | 45 |
-| 28/Feb/22 | 120 | 78 | 62 | 57 | 46 |
-| 31/Mar/22 | 122 | 80 | 63 | 58 | 47 |
-| 30/Apr/22 | 123 | 81 | 64 | 59 | 48 |
-| 31/May/22 | 124 | 82 | 65 | 60 | 49 |
-| 30/Jun/22 | 125 | 83 | 66 | 61 | 50 |
-
-## Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 29/Jul/21 | 60 | 32 | 31 | 28 |
-| 29/Aug/21 | 60 | 33 | 31 | 29 |
-| 29/Sep/21 | 60 | 34 | 32 | 30 |
-| 29/Oct/21 | 61 | 35 | 33 | 30 |
-| 29/Nov/21 | 61 | 36 | 34 | 31 |
-| 29/Dec/21 | 61 | 36 | 34 | 31 |
-| 29/Jan/22 | 62 | 37 | 35 | 31 |
-| 28/Feb/22 | 62 | 37 | 35 | 31 |
-| 31/Mar/22 | 63 | 38 | 36 | 32 |
-| 30/Apr/22 | 63 | 38 | 36 | 32 |
-| 31/May/22 | 64 | 39 | 37 | 32 |
-| 30/Jun/22 | 64 | 39 | 37 | 32 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -378,20 +319,8 @@ July ended with a total number of 59 units added to the current orderbook. LNG c
 
 Sentiment in the demolition sector across the main Indian subcontinent markets remained almost unchanged. Bangladeshi breakers continue to offer the best bids amidst low inventory levels at yards. However, the recent decision to tight LC restriction to \$3.0 million will make it extremely difficult for breakers to buy tonnage, especially large LDT units. India's offers remain close to their Bangladeshi competitors amidst healthy steel production which however has started to face pressure due to declining demand. In Pakistan, heavy rainfalls were added as a further difficulty for the construction sector, which is burdened with rising energy costs and weak demand. As a result, breakers' bids are being stuck to the lowest place in the subcontinent region. Lastly in Turkey, a constant decrease in domestic steel prices has resulted in limited activity in the demolition sector. Average prices in the different markets this week for tankers ranged between 250-570/ldt and those for dry bulk units between \$260-580/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 29/Jul/21 | 600 | 560 | 600 | 300 |
-| 29/Aug/21 | 610 | 570 | 610 | 300 |
-| 29/Sep/21 | 620 | 580 | 620 | 325 |
-| 29/Oct/21 | 625 | 550 | 625 | 325 |
-| 29/Nov/21 | 630 | 560 | 630 | 330 |
-| 29/Dec/21 | 635 | 570 | 635 | 330 |
-| 29/Jan/22 | 640 | 580 | 640 | 360 |
-| 28/Feb/22 | 660 | 590 | 660 | 425 |
-| 31/Mar/22 | 680 | 600 | 680 | 450 |
-| 30/Apr/22 | 670 | 590 | 670 | 450 |
-| 31/May/22 | 650 | 570 | 650 | 350 |
-| 30/Jun/22 | 610 | 560 | 610 | 250 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Indicative Demolition Prices ($/ldt)
 
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |

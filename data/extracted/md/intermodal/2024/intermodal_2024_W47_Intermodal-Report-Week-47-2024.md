@@ -51,40 +51,9 @@ In conclusion, China's expanded crude import quotas provide a positive outlook f
 | --- | --- | --- | --- | --- | --- | --- |
 | 6 mos | MAERSK AEGEAN | 2013 | 37,538 dwt | DELY EAST NOV/24 | $26,500/day | Cepsa |
 | 6 mos | SKY DWELLER | 2004 | 47,333 dwt | DELY EAST NOV/24 | $22,750/day | Pertamina |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 22/Nov/23 | 150 | 120 | 180 |
-| 22/Dec/23 | 150 | 120 | 170 |
-| 22/Jan/24 | 60 | 120 | 380 |
-| 22/Feb/24 | 70 | 110 | 200 |
-| 22/Mar/24 | 70 | 110 | 180 |
-| 22/Apr/24 | 70 | 110 | 170 |
-| 22/May/24 | 70 | 110 | 170 |
-| 22/Jun/24 | 70 | 110 | 170 |
-| 22/Jul/24 | 70 | 110 | 170 |
-| 22/Aug/24 | 70 | 110 | 160 |
-| 22/Sep/24 | 70 | 110 | 160 |
-| 22/Oct/24 | 100 | 110 | 150 |
-| 22/Nov/24 | 100 | 110 | 140 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 22/Nov/23 | 120 | 150 | 180 | 200 |
-| 22/Dec/23 | 120 | 150 | 180 | 200 |
-| 22/Jan/24 | 350 | 350 | 350 | 350 |
-| 22/Feb/24 | 300 | 300 | 300 | 300 |
-| 22/Mar/24 | 250 | 250 | 250 | 250 |
-| 22/Apr/24 | 250 | 250 | 250 | 250 |
-| 22/May/24 | 250 | 250 | 250 | 250 |
-| 22/Jun/24 | 200 | 200 | 200 | 200 |
-| 22/Jul/24 | 200 | 200 | 200 | 200 |
-| 22/Aug/24 | 150 | 150 | 150 | 150 |
-| 22/Sep/24 | 150 | 150 | 150 | 150 |
-| 22/Oct/24 | 120 | 120 | 120 | 120 |
-| 22/Nov/24 | 120 | 120 | 120 | 120 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 22/11/24 | 15/11/24 | ±% | Diff | 2023 | 2022 |
@@ -146,41 +115,9 @@ The market saw increases in rates last week in general, with smaller sizes leadi
 | **Handysize** | **32K 1yr TC** | 11,500 | 11,500 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 22/Nov/23 | 0 | 0 | 0 | 0 | 0 |
-| 22/Dec/23 | 6700 | 3000 | 2000 | 1000 | 3000 |
-| 22/Jan/24 | 1500 | 1200 | 1000 | 800 | 1500 |
-| 22/Feb/24 | 2000 | 1400 | 1200 | 900 | 1600 |
-| 22/Mar/24 | 3500 | 1600 | 1400 | 1000 | 1800 |
-| 22/Apr/24 | 2200 | 1500 | 1300 | 900 | 1700 |
-| 22/May/24 | 2500 | 1500 | 1300 | 900 | 1700 |
-| 22/Jun/24 | 2800 | 1500 | 1300 | 900 | 1700 |
-| 22/Jul/24 | 3000 | 1500 | 1300 | 900 | 1700 |
-| 22/Aug/24 | 3200 | 1500 | 1300 | 900 | 1700 |
-| 22/Sep/24 | 3000 | 1500 | 1300 | 900 | 1700 |
-| 22/Oct/24 | 2500 | 1400 | 1200 | 800 | 1600 |
-| 22/Nov/24 | 2500 | 1400 | 1200 | 800 | 1600 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 22/Nov/23 | 15000 | 12000 | 10000 | 8000 |
-| 22/Dec/23 | 55000 | 15000 | 12000 | 10000 |
-| 22/Jan/24 | 15000 | 12000 | 10000 | 8000 |
-| 22/Feb/24 | 20000 | 14000 | 11000 | 9000 |
-| 22/Mar/24 | 25000 | 15000 | 12000 | 9000 |
-| 22/Apr/24 | 22000 | 14000 | 11000 | 8500 |
-| 22/May/24 | 25000 | 14000 | 11000 | 8500 |
-| 22/Jun/24 | 28000 | 14000 | 11000 | 8500 |
-| 22/Jul/24 | 30000 | 14000 | 11000 | 8500 |
-| 22/Aug/24 | 28000 | 14000 | 11000 | 8500 |
-| 22/Sep/24 | 26000 | 13000 | 10000 | 8000 |
-| 22/Oct/24 | 24000 | 12000 | 10000 | 7500 |
-| 22/Nov/24 | 25000 | 12000 | 10000 | 7500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Nov-24 avg | Oct-24 avg | ±% | 2023 | 2022 |

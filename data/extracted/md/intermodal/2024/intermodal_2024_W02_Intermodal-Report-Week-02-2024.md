@@ -44,40 +44,10 @@ In reference to January 2024, the latest data from ANEC highlights a significant
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 24 mos | KK MARLIN | 2009 | 77,452 dwt | $29,000/day | ST SHIP |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 12/Jan/23 | 0 | 180 | 200 |
-| 12/Feb/23 | 80 | 190 | 380 |
-| 12/Mar/23 | 90 | 170 | 380 |
-| 12/Apr/23 | 70 | 380 | 350 |
-| 12/May/23 | 60 | 150 | 100 |
-| 12/Jun/23 | 50 | 100 | 100 |
-| 12/Jul/23 | 60 | 120 | 100 |
-| 12/Aug/23 | 50 | 100 | 100 |
-| 12/Sep/23 | 60 | 80 | 100 |
-| 12/Oct/23 | 70 | 80 | 280 |
-| 12/Nov/23 | 70 | 140 | 150 |
-| 12/Dec/23 | 70 | 160 | 160 |
-| 12/Jan/24 | 70 | 160 | 320 |
-### 1-Year Forward WS Rates - Clean
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 12/Jan/23 | 100 | 180 | 180 | 180 |
-| 12/Feb/23 | 90 | 200 | 450 | 180 |
-| 12/Mar/23 | 100 | 180 | 200 | 180 |
-| 12/Apr/23 | 100 | 180 | 350 | 180 |
-| 12/May/23 | 100 | 160 | 160 | 180 |
-| 12/Jun/23 | 100 | 160 | 160 | 180 |
-| 12/Jul/23 | 100 | 160 | 160 | 180 |
-| 12/Aug/23 | 100 | 160 | 160 | 180 |
-| 12/Sep/23 | 100 | 160 | 280 | 280 |
-| 12/Oct/23 | 100 | 160 | 280 | 280 |
-| 12/Nov/23 | 100 | 160 | 200 | 200 |
-| 12/Dec/23 | 100 | 160 | 180 | 180 |
-| 12/Jan/24 | 100 | 160 | 180 | 180 |
 ## TC Rates
 
 | Sector | Tenor | 12/01/24 | 05/01/24 | ±% | Diff | 2023 | 2022 |
@@ -149,41 +119,9 @@ Suezmax T/C earnings averaged \$61,321/day, up \$6,479/day w-o-w or 12%. On the 
 | **Handysize** | **32K 1yr TC** | 12,000 | 12,750 | -5.9% | -750 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 12/Jan/23 | 1000 | 1000 | 1000 | 1000 | 1000 |
-| 12/Feb/23 | 1500 | 1200 | 1100 | 900 | 1200 |
-| 12/Mar/23 | 2000 | 1400 | 1300 | 1000 | 1500 |
-| 12/Apr/23 | 2200 | 1500 | 1400 | 1100 | 1800 |
-| 12/May/23 | 2400 | 1600 | 1500 | 1200 | 2000 |
-| 12/Jun/23 | 1800 | 1400 | 1300 | 1000 | 1400 |
-| 12/Jul/23 | 1600 | 1300 | 1200 | 900 | 1300 |
-| 12/Aug/23 | 1500 | 1200 | 1100 | 800 | 1200 |
-| 12/Sep/23 | 3000 | 1500 | 1400 | 1100 | 2500 |
-| 12/Oct/23 | 4000 | 2000 | 1800 | 1500 | 3500 |
-| 12/Nov/23 | 5500 | 2500 | 2200 | 2000 | 6000 |
-| 12/Dec/23 | 7000 | 3000 | 2500 | 2500 | 3000 |
-| 12/Jan/24 | 3500 | 1800 | 1600 | 1400 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 12/Jan/23 | 8000 | 9000 | 10000 | 11000 |
-| 12/Feb/23 | 10000 | 10000 | 11000 | 12000 |
-| 12/Mar/23 | 15000 | 12000 | 13000 | 14000 |
-| 12/Apr/23 | 18000 | 14000 | 15000 | 16000 |
-| 12/May/23 | 20000 | 15000 | 16000 | 17000 |
-| 12/Jun/23 | 12000 | 13000 | 14000 | 15000 |
-| 12/Jul/23 | 10000 | 11000 | 12000 | 13000 |
-| 12/Aug/23 | 11000 | 12000 | 13000 | 14000 |
-| 12/Sep/23 | 25000 | 16000 | 17000 | 18000 |
-| 12/Oct/23 | 35000 | 20000 | 21000 | 22000 |
-| 12/Nov/23 | 50000 | 25000 | 26000 | 27000 |
-| 12/Dec/23 | 55000 | 28000 | 29000 | 30000 |
-| 12/Jan/24 | 28000 | 18000 | 20000 | 21000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jan-24 avg | Dec-23 avg | ±% | 2023 | 2022 | 2021 |

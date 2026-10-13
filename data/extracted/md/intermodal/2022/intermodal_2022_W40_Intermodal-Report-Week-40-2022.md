@@ -28,17 +28,7 @@ During the past six months the dry Bulk rates have notably declined, something w
 
 Below graph shows the number of Tankers &amp; Bulkers sold during Q1 to Q3 2022 on monthly basis:
 
-| Date | Bulkers | Tankers |
-| --- | --- | --- |
-| Jan-22 | 50 | 60 |
-| Feb-22 | 52 | 30 |
-| Mar-22 | 95 | 55 |
-| Apr-22 | 75 | 68 |
-| May-22 | 68 | 70 |
-| Jun-22 | 56 | 58 |
-| Jul-22 | 62 | 66 |
-| Aug-22 | 39 | 60 |
-| Sep-22 | 43 | 77 |
+> **Chart (not transcribed):** Market Insight. The report prints no values for it.
 
 Looking at the broader picture, current trends appear to be more of a long-lasting market driver, rather than a momentary spike that would deflate soon. Even if the ongoing war hopefully ends soon, energy shortages, the need for reconstruction and the fact that the market would have to re-utilize its traditional trading routes/flows, is something that would clearly take time.
 
@@ -129,41 +119,9 @@ Shanghai 200122 China
 | **LR1** | **75KT DH** | 43.0 | 42.4 | 1.4% | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 39.5 | 39.5 | 0.0% | 27.6 | 27.5 | 28.6 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 7/Oct/21 | 30 | 100 | 140 |
-| 7/Nov/21 | 40 | 110 | 150 |
-| 7/Dec/21 | 35 | 90 | 120 |
-| 7/Jan/22 | 35 | 90 | 100 |
-| 7/Feb/22 | 35 | 150 | 100 |
-| 7/Mar/22 | 35 | 290 | 280 |
-| 7/Apr/22 | 35 | 290 | 300 |
-| 7/May/22 | 35 | 150 | 150 |
-| 7/Jun/22 | 40 | 160 | 180 |
-| 7/Jul/22 | 45 | 170 | 280 |
-| 7/Aug/22 | 50 | 180 | 320 |
-| 7/sep/22 | 60 | 180 | 280 |
-| 7/Oct/22 | 70 | 180 | 200 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 7/Oct/21 | 120 | 140 | 160 | 140 |
-| 7/Nov/21 | 130 | 150 | 170 | 150 |
-| 7/Dec/21 | 140 | 160 | 180 | 160 |
-| 7/Jan/22 | 150 | 170 | 190 | 170 |
-| 7/Feb/22 | 140 | 160 | 180 | 160 |
-| 7/Mar/22 | 150 | 170 | 200 | 300 |
-| 7/Apr/22 | 160 | 180 | 210 | 350 |
-| 7/May/22 | 170 | 190 | 220 | 300 |
-| 7/Jun/22 | 180 | 200 | 230 | 320 |
-| 7/Jul/22 | 190 | 210 | 240 | 350 |
-| 7/Aug/22 | 200 | 220 | 250 | 300 |
-| 7/sep/22 | 210 | 230 | 260 | 280 |
-| 7/Oct/22 | 220 | 240 | 270 | 260 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -217,41 +175,9 @@ In the MR2 sector we had the sale of the "AURORA EXPRESS" (45,770dwt-blt '02, Ja
 |  | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 7/Oct/21 | 3,500 | 3,200 | 3,400 | 1,800 | 10,500 |
-| 7/Nov/21 | 2,800 | 2,600 | 2,700 | 1,600 | 5,000 |
-| 7/Dec/21 | 2,500 | 2,400 | 2,500 | 1,500 | 4,000 |
-| 7/Jan/22 | 2,400 | 2,300 | 2,400 | 1,500 | 3,500 |
-| 7/Feb/22 | 2,300 | 2,200 | 2,300 | 1,400 | 3,200 |
-| 7/Mar/22 | 2,600 | 2,500 | 2,600 | 1,500 | 3,400 |
-| 7/Apr/22 | 2,800 | 2,700 | 2,800 | 1,600 | 3,600 |
-| 7/May/22 | 4,000 | 3,000 | 3,500 | 1,800 | 4,500 |
-| 7/Jun/22 | 3,800 | 2,900 | 3,300 | 1,700 | 4,200 |
-| 7/Jul/22 | 3,000 | 2,600 | 2,800 | 1,600 | 3,000 |
-| 7/Aug/22 | 2,700 | 2,400 | 2,500 | 1,500 | 2,500 |
-| 7/Sep/22 | 2,400 | 2,200 | 2,300 | 1,500 | 2,200 |
-| 7/Oct/22 | 2,300 | 2,100 | 2,200 | 1,600 | 2,000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 7/Oct/21 | 35000 | 34000 | 33000 | 32000 |
-| 7/Nov/21 | 25000 | 24000 | 23000 | 22000 |
-| 7/Dec/21 | 22000 | 21000 | 20000 | 19000 |
-| 7/Jan/22 | 18000 | 17000 | 16000 | 15000 |
-| 7/Feb/22 | 12000 | 11000 | 10000 | 9000 |
-| 7/Mar/22 | 18000 | 17000 | 16000 | 15000 |
-| 7/Apr/22 | 25000 | 24000 | 23000 | 22000 |
-| 7/May/22 | 35000 | 34000 | 33000 | 32000 |
-| 7/Jun/22 | 32000 | 31000 | 30000 | 29000 |
-| 7/Jul/22 | 25000 | 24000 | 23000 | 22000 |
-| 7/Aug/22 | 18000 | 17000 | 16000 | 15000 |
-| 7/Sep/22 | 15000 | 14000 | 13000 | 12000 |
-| 7/Oct/22 | 18000 | 17000 | 16000 | 15000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -364,41 +290,10 @@ In the Handysize sector we had the sale of the "HIMAWARI K" (37,786dwt-bl't '15,
 
 Ordering activity, albeit firm during last week, has begun to reshape in order to adapt to current geopolitical disruptions that have been causing mounting concerns over security. The offshore sector, which has been underperforming the last few years, is reviving and fresh orders mirror the ongoing efforts to secure energy supplies, especially in European countries. Last week, Petrobras inked another deal, with Semborp this time, for the construction of 1x225,000bopd FPSO, which will become the tenth unit to be installed and operate in Brazil's Buzios field. In the gas sector, Excelerate Energy signed an LOI with HHI for 1x170,000cbm FSRU, lifting its tally of total units (in operation and under construction) to 11. The unit will be equipped with sophisticated technologies to ensure high performance and low emissions at the same time. In the tanker realm, Euronav and Atlas returned to DH Shipbuilding for a duet of tankers each. Euronav ordered 2 scrubber-fitted MR tankers at \$75.0m each, while Atlas ordered 2 Aframax vessels at the price of \$64.0m each. The vessel is priced at the upper end of the price range, considering that an Aframax vessel would cost around \$47.0m-\$48.0m two years ago at a Korean yard, indicating the improved profitability of this type of vessel. Conclusively, in the boxship sector, A.P Moller-Maersk placed an order for a sextet of 17,000teu vessels, which will be methanol fuelled, in line with the company's GHG emissions reduction targets. The order brings its order tally at KSOE to 19.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 7/Oct/21 | 108 | 75 | 58 | 48 | 42 |
-| 7/Nov/21 | 109 | 76 | 58 | 48 | 42 |
-| 7/Dec/21 | 110 | 76 | 58 | 48 | 42 |
-| 7/Jan/22 | 111 | 77 | 58 | 49 | 43 |
-| 7/Feb/22 | 112 | 77 | 58 | 49 | 43 |
-| 7/Mar/22 | 113 | 78 | 58 | 49 | 43 |
-| 7/Apr/22 | 114 | 78 | 58 | 50 | 43 |
-| 7/May/22 | 115 | 78 | 58 | 50 | 43 |
-| 7/Jun/22 | 116 | 79 | 59 | 50 | 44 |
-| 7/Jul/22 | 117 | 79 | 59 | 50 | 44 |
-| 7/Aug/22 | 118 | 80 | 59 | 50 | 44 |
-| 7/Sep/22 | 119 | 80 | 59 | 50 | 44 |
-| 7/Oct/22 | 120 | 80 | 60 | 50 | 44 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 7/Oct/21 | 60 | 32 | 32 | 30 |
-| 7/Nov/21 | 60 | 32 | 32 | 30 |
-| 7/Dec/21 | 60 | 32 | 32 | 30 |
-| 7/Jan/22 | 60 | 32 | 32 | 30 |
-| 7/Feb/22 | 60 | 32 | 32 | 30 |
-| 7/Mar/22 | 61 | 33 | 32 | 30 |
-| 7/Apr/22 | 61 | 33 | 32 | 30 |
-| 7/May/22 | 62 | 33 | 32 | 30 |
-| 7/Jun/22 | 62 | 33 | 33 | 30 |
-| 7/Jul/22 | 62 | 33 | 33 | 30 |
-| 7/Aug/22 | 62 | 33 | 33 | 30 |
-| 7/Sep/22 | 62 | 32 | 33 | 30 |
-| 7/Oct/22 | 62 | 32 | 33 | 30 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -431,21 +326,8 @@ Ordering activity, albeit firm during last week, has begun to reshape in order t
 
 The demolition activity was for another week under pressure due to a volatile steel market environment coupled with the ongoing global economic slowdown. Steel mills output across the main Indian subcontinent demo destinations remains weak adding further pressure on breakers whose offers faced no meaningful interest by owners who speculate on a stronger freight market or having their units under T/C assignments, especially in the Container sector. Indeed, steel price volatility is turning yards to the sideline while domestic demand finds a more lucrative option on the discounted imported scrap. As a result, current offered levels from breakers seem that have reached their peak which is translated into a slow demolition activity. However, we anticipate that 2023 will be an interesting year for the demolition market amidst the new environmental regulations coupled with projections of a softer dry bulk and container market ahead. Average prices in the different markets this week for tankers ranged between 260-600/ldt and those for dry bulk units between \$250-590/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 7/Oct/21 | 600 | 570 | 600 | 300 |
-| 7/Nov/21 | 610 | 560 | 600 | 320 |
-| 7/Dec/21 | 600 | 550 | 590 | 330 |
-| 7/Jan/22 | 600 | 550 | 580 | 340 |
-| 7/Feb/22 | 620 | 560 | 590 | 380 |
-| 7/Mar/22 | 670 | 600 | 650 | 450 |
-| 7/Apr/22 | 680 | 620 | 670 | 460 |
-| 7/May/22 | 670 | 610 | 660 | 440 |
-| 7/Jun/22 | 600 | 560 | 560 | 330 |
-| 7/Jul/22 | 560 | 540 | 550 | 250 |
-| 7/Aug/22 | 600 | 560 | 570 | 260 |
-| 7/Sep/22 | 610 | 570 | 580 | 260 |
-| 7/Oct/22 | 610 | 570 | 580 | 260 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Indicative Demolition Prices ($/ldt)
 
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers |

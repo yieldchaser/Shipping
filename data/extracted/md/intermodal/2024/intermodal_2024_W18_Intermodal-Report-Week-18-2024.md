@@ -49,40 +49,9 @@ Yet, in the near term, the market faces bearish pressures as the EU aims to achi
 | --- | --- | --- | --- | --- | --- | --- |
 | 6 mos | LAPHROAIG | 2021 | 34,775 dwt | DEL EAST MAY/24 | $28,000/day | Trafigura |
 | 36 mos | PANAGIA THALASSINI | 2023 | 49,999 dwt | DEL EAST MAY/24 | $28,000/day | Cargill |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 10/May/23 | 50 | 120 | 380 |
-| 10/Jun/23 | 60 | 100 | 180 |
-| 10/Jul/23 | 50 | 90 | 150 |
-| 10/Aug/23 | 40 | 80 | 140 |
-| 10/Sep/23 | 40 | 80 | 280 |
-| 10/Oct/23 | 50 | 150 | 250 |
-| 10/Nov/23 | 60 | 160 | 150 |
-| 10/Dec/23 | 50 | 140 | 140 |
-| 10/Jan/24 | 50 | 130 | 380 |
-| 10/Feb/24 | 50 | 120 | 180 |
-| 10/Mar/24 | 50 | 110 | 160 |
-| 10/Apr/24 | 50 | 110 | 150 |
-| 10/May/24 | 50 | 110 | 150 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 10/May/23 | 120 | 160 | 160 | 180 |
-| 10/Jun/23 | 140 | 150 | 170 | 170 |
-| 10/Jul/23 | 130 | 140 | 160 | 160 |
-| 10/Aug/23 | 120 | 130 | 150 | 150 |
-| 10/Sep/23 | 140 | 140 | 280 | 200 |
-| 10/Oct/23 | 150 | 160 | 250 | 220 |
-| 10/Nov/23 | 160 | 170 | 180 | 200 |
-| 10/Dec/23 | 150 | 160 | 160 | 180 |
-| 10/Jan/24 | 160 | 170 | 350 | 300 |
-| 10/Feb/24 | 170 | 180 | 350 | 250 |
-| 10/Mar/24 | 160 | 170 | 200 | 220 |
-| 10/Apr/24 | 170 | 180 | 220 | 240 |
-| 10/May/24 | 180 | 190 | 220 | 230 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 10/05/24 | 03/05/24 | ±% | Diff | 2023 | 2022 |
@@ -152,41 +121,9 @@ Aframax rates were particularly dynamic, with significant activity in the MED an
 | **Handysize** | **32K 1yr TC** | 13,250 | 13,250 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 10/May/23 | 2000 | 1000 | 1000 | 500 | 1500 |
-| 10/Jun/23 | 1800 | 1000 | 1000 | 500 | 1200 |
-| 10/Jul/23 | 1800 | 1000 | 1000 | 500 | 1200 |
-| 10/Aug/23 | 2000 | 1000 | 1000 | 500 | 1200 |
-| 10/Sep/23 | 2500 | 1500 | 1500 | 800 | 1500 |
-| 10/Oct/23 | 3000 | 2000 | 2000 | 1000 | 2000 |
-| 10/Nov/23 | 3500 | 2500 | 3000 | 1200 | 2500 |
-| 10/Dec/23 | 6500 | 3000 | 3000 | 1500 | 3000 |
-| 10/Jan/24 | 2000 | 1500 | 1500 | 800 | 2000 |
-| 10/Feb/24 | 2000 | 1500 | 1500 | 800 | 2000 |
-| 10/Mar/24 | 3500 | 2500 | 3000 | 1000 | 2500 |
-| 10/Apr/24 | 3000 | 2000 | 2000 | 1000 | 2000 |
-| 10/May/24 | 3000 | 2000 | 2000 | 1000 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 10/May/23 | 18000 | 10000 | 12000 | 8000 |
-| 10/Jun/23 | 15000 | 10000 | 10000 | 7000 |
-| 10/Jul/23 | 15000 | 10000 | 10000 | 7000 |
-| 10/Aug/23 | 15000 | 10000 | 10000 | 7000 |
-| 10/Sep/23 | 20000 | 12000 | 12000 | 9000 |
-| 10/Oct/23 | 25000 | 15000 | 15000 | 10000 |
-| 10/Nov/23 | 30000 | 18000 | 18000 | 12000 |
-| 10/Dec/23 | 50000 | 20000 | 20000 | 15000 |
-| 10/Jan/24 | 15000 | 15000 | 15000 | 10000 |
-| 10/Feb/24 | 15000 | 15000 | 15000 | 10000 |
-| 10/Mar/24 | 30000 | 18000 | 18000 | 12000 |
-| 10/Apr/24 | 25000 | 16000 | 16000 | 11000 |
-| 10/May/24 | 25000 | 16000 | 16000 | 11000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | May-24 avg | Apr-24 avg | ±% | 2023 | 2022 | 2021 |

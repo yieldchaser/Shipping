@@ -98,40 +98,10 @@ The Baltic Exchange
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | WHITE MOON | 2012 | 160,152 dwt | $48,000/day | Trafigura |
 | 12 mos | AQUARIUS T | 2010 | 46,147 dwt | $31,000/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 23/Dec/21 | 0 | 100 | 100 |
-| 23/Jan/22 | 50 | 120 | 110 |
-| 23/Feb/22 | 40 | 280 | 150 |
-| 23/Mar/22 | 45 | 290 | 280 |
-| 23/Apr/22 | 50 | 180 | 180 |
-| 23/May/22 | 55 | 150 | 160 |
-| 23/Jun/22 | 60 | 140 | 170 |
-| 23/Jul/22 | 65 | 160 | 280 |
-| 23/Aug/22 | 70 | 170 | 300 |
-| 23/Sep/22 | 75 | 180 | 300 |
-| 23/Oct/22 | 80 | 190 | 350 |
-| 23/Nov/22 | 85 | 250 | 620 |
-| 23/Dec/22 | 90 | 260 | 260 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 23/Dec/21 | 150 | 160 | 170 | 280 |
-| 23/Jan/22 | 140 | 150 | 160 | 270 |
-| 23/Feb/22 | 150 | 155 | 165 | 280 |
-| 23/Mar/22 | 160 | 160 | 170 | 440 |
-| 23/Apr/22 | 170 | 165 | 175 | 450 |
-| 23/May/22 | 180 | 170 | 180 | 460 |
-| 23/Jun/22 | 190 | 175 | 185 | 470 |
-| 23/Jul/22 | 180 | 170 | 180 | 460 |
-| 23/Aug/22 | 170 | 165 | 175 | 280 |
-| 23/Sep/22 | 160 | 160 | 170 | 300 |
-| 23/Oct/22 | 150 | 155 | 165 | 320 |
-| 23/Nov/22 | 140 | 150 | 160 | 440 |
-| 23/Dec/22 | 130 | 145 | 155 | 450 |
 ## TC Rates
 
 | Sector | Tenor | 23/12/22 | 16/12/22 | ±% | Diff | 2021 | 2020 |
@@ -208,39 +178,9 @@ In the Small sector we had the sale of the "JEY HOPE" (8,981dwt-blt '08, S. Kore
 | **Handysize** | **32K 1yr TC** | 11,000 | 11,000 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 9,250 | 9,000 | **2.8%** | **250** | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 23/Dec/21 | 2500 | 2600 | 2700 | 1800 | 2400 |
-| 23/Jan/22 | 2400 | 2500 | 2600 | 1700 | 2300 |
-| 23/Feb/22 | 2800 | 2900 | 3000 | 1900 | 2700 |
-| 23/Mar/22 | 3000 | 3100 | 3200 | 2000 | 2900 |
-| 23/Apr/22 | 3200 | 3300 | 3400 | 2100 | 3100 |
-| 23/May/22 | 4200 | 4000 | 3800 | 2000 | 4000 |
-| 23/Jul/22 | 2600 | 2700 | 2800 | 1600 | 2500 |
-| 23/Aug/22 | 2400 | 2500 | 2600 | 1500 | 2300 |
-| 23/Sep/22 | 2300 | 2400 | 2500 | 1400 | 2200 |
-| 23/Oct/22 | 2300 | 2400 | 2500 | 1400 | 2200 |
-| 23/Nov/22 | 2400 | 2500 | 2600 | 1400 | 2400 |
-| 23/Dec/22 | 2800 | 2700 | 2800 | 1400 | 2800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 23/Dec/21 | 25000 | 26000 | 27000 | 24000 |
-| 23/Jan/22 | 18000 | 19000 | 20000 | 17000 |
-| 23/Feb/22 | 22000 | 23000 | 24000 | 21000 |
-| 23/Mar/22 | 28000 | 29000 | 30000 | 26000 |
-| 23/Apr/22 | 30000 | 31000 | 32000 | 28000 |
-| 23/May/22 | 32000 | 33000 | 34000 | 30000 |
-| 23/Jul/22 | 20000 | 21000 | 22000 | 18000 |
-| 23/Aug/22 | 15000 | 16000 | 17000 | 14000 |
-| 23/Sep/22 | 18000 | 19000 | 20000 | 16000 |
-| 23/Oct/22 | 17000 | 18000 | 19000 | 15000 |
-| 23/Nov/22 | 18000 | 19000 | 20000 | 16000 |
-| 23/Dec/22 | 19000 | 20000 | 21000 | 17000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -321,41 +261,10 @@ In the Supramax sector we had the sale of the "ANITA N" (56,868dwt-bl't '10, Chi
 
 Activity in the new building market was healthy last week with a couple of orders being materializing just before the close of the 2022 contracting book. Japanese owners Hisafuku Kisen and Kasuga Shipping each ordered one 40,000dwt bulk carrier at Hakodate Shipyard for a price in the region of \$32.3m each. Omani Group Asyad Shipping concluded a deal for the construction of two firm plus two optional LNG 174,000cbm units at Hyundai Samho, for a price of \$254.5m each and with delivery taking place in 2026. Lastly, Japanese owner Toyofuji Shipping, inked a deal with Mitsubishi HI for two 3,000ceu LNG fuelled PCTC vessels for an undisclosed price.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 23/Dec/21 | 108 | 76 | 58 | 48 | 42 |
-| 23/Jan/22 | 110 | 77 | 59 | 49 | 42 |
-| 23/Feb/22 | 112 | 78 | 60 | 50 | 43 |
-| 23/Mar/22 | 113 | 78 | 60 | 50 | 43 |
-| 23/Apr/22 | 114 | 78 | 61 | 51 | 43 |
-| 23/May/22 | 115 | 78 | 61 | 51 | 44 |
-| 23/Jun/22 | 116 | 79 | 62 | 52 | 44 |
-| 23/Jul/22 | 117 | 79 | 62 | 52 | 44 |
-| 23/Aug/22 | 118 | 79 | 63 | 53 | 45 |
-| 23/Sep/22 | 119 | 79 | 63 | 53 | 45 |
-| 23/Oct/22 | 119 | 79 | 63 | 53 | 45 |
-| 23/Nov/22 | 120 | 79 | 63 | 53 | 45 |
-| 23/Dec/22 | 120 | 79 | 63 | 52 | 45 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 23/Dec/21 | 60 | 33 | 33 | 29 |
-| 23/Jan/22 | 60 | 33 | 33 | 29 |
-| 23/Feb/22 | 60 | 33 | 33 | 29 |
-| 23/Mar/22 | 61 | 33 | 33 | 29 |
-| 23/Apr/22 | 61 | 34 | 34 | 30 |
-| 23/May/22 | 62 | 34 | 34 | 30 |
-| 23/Jun/22 | 62 | 34 | 34 | 30 |
-| 23/Jul/22 | 62 | 34 | 34 | 30 |
-| 23/Aug/22 | 62 | 34 | 33 | 29 |
-| 23/Sep/22 | 61 | 33 | 33 | 29 |
-| 23/Oct/22 | 60 | 33 | 33 | 29 |
-| 23/Nov/22 | 60 | 33 | 33 | 28 |
-| 23/Dec/22 | 60 | 32 | 32 | 28 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -387,41 +296,10 @@ Activity in the new building market was healthy last week with a couple of order
 
 With this turbulent year coming to an end, key fundamentals seem that are holding steady while positive expectations of a healthier demolition market are circulating looking toward the next year. Prospects of more scrapping activity are being supported not by a spike in steel demand but by an increase in tonnage candidates amidst a weaker Container and maybe Dry bulk markets (opinions differ). As for last week's activity, scrap offers across the main Indian subcontinent destinations closed off the week unchanged. India remains the best-performing market with several sales having concluded lately, however, steel prices weakness across the country could lead to breakers' retardation from competing for fresh tonnage. In Pakistan, despite the economic uncertainty breakers are keen to negotiate and even conclude some fresh tonnage amidst the shortage that prevails in the yards. Even in Bangladesh, we notice some breakers are able to open L/C yet with limitations being entered to the competition for smaller LDT units. However, fundamentals remain negative, with the Taka noting another decline closing the week at the 105.82/USD mark. Average prices in the different markets this week for tankers ranged between 250-540/ldt and those for dry bulk units between \$240-535/ldt.
 
-### Tanker Demolition Prices
+> **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 23/Dec/21 | 600 | 550 | 600 | 325 |
-| 23/Jan/22 | 610 | 560 | 610 | 340 |
-| 23/Feb/22 | 670 | 650 | 670 | 370 |
-| 23/Mar/22 | 680 | 670 | 680 | 440 |
-| 23/Apr/22 | 675 | 670 | 675 | 440 |
-| 23/May/22 | 660 | 650 | 660 | 435 |
-| 23/Jun/22 | 560 | 560 | 560 | 330 |
-| 23/Jul/22 | 540 | 540 | 540 | 250 |
-| 23/Aug/22 | 580 | 570 | 580 | 250 |
-| 23/Sep/22 | 600 | 590 | 600 | 250 |
-| 23/Oct/22 | 570 | 560 | 570 | 250 |
-| 23/Nov/22 | 530 | 520 | 530 | 250 |
-| 23/Dec/22 | 520 | 510 | 520 | 250 |
+> **Chart (not transcribed):** Dry Bulk Demolition Prices. The report prints no values for it.
 
-### Dry Bulk Demolition Prices
-
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 23/Dec/21 | 600 | 550 | 600 | 325 |
-| 23/Jan/22 | 610 | 560 | 610 | 340 |
-| 23/Feb/22 | 670 | 650 | 670 | 370 |
-| 23/Mar/22 | 680 | 670 | 680 | 440 |
-| 23/Apr/22 | 675 | 670 | 675 | 440 |
-| 23/May/22 | 660 | 650 | 660 | 435 |
-| 23/Jun/22 | 560 | 560 | 560 | 250 |
-| 23/Jul/22 | 540 | 540 | 540 | 250 |
-| 23/Aug/22 | 580 | 570 | 580 | 250 |
-| 23/Sep/22 | 600 | 590 | 600 | 250 |
-| 23/Oct/22 | 570 | 560 | 570 | 250 |
-| 23/Nov/22 | 530 | 520 | 530 | 250 |
-| 23/Dec/22 | 520 | 510 | 520 | 250 |
 ## Indicative Demolition Prices ($/ldt)
 
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |

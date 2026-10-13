@@ -114,41 +114,9 @@ Shanghai 200122 China
 | Handy | 36k 1yr TC | 10,500 | 10,500 | 0.0% | 0 | 13,966 | 13,856 |
 |  | 36k 3yr TC | 13,250 | 13,250 | 0.0% | 0 | 14,051 | 13,753 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 2/Jul/20 | 50 | 60 | 80 |
-| 2/Aug/20 | 45 | 55 | 75 |
-| 2/Sep/20 | 40 | 50 | 70 |
-| 2/Oct/20 | 35 | 45 | 65 |
-| 2/Nov/20 | 30 | 40 | 60 |
-| 2/Dec/20 | 35 | 45 | 65 |
-| 2/Jan/21 | 30 | 40 | 60 |
-| 2/Feb/21 | 25 | 35 | 55 |
-| 2/Mar/21 | 100 | 120 | 140 |
-| 2/Apr/21 | 80 | 100 | 120 |
-| 2/May/21 | 70 | 90 | 110 |
-| 2/Jun/21 | 65 | 85 | 105 |
-| 2/Jul/21 | 60 | 80 | 100 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS points | WS points | WS points | WS points |
-| 2/Jul/20 | 100 | 110 | 120 | 130 |
-| 2/Aug/20 | 95 | 105 | 115 | 125 |
-| 2/Sep/20 | 90 | 100 | 110 | 120 |
-| 2/Oct/20 | 85 | 95 | 105 | 115 |
-| 2/Nov/20 | 80 | 90 | 100 | 110 |
-| 2/Dec/20 | 85 | 95 | 105 | 115 |
-| 2/Jan/21 | 80 | 90 | 100 | 110 |
-| 2/Feb/21 | 75 | 85 | 95 | 105 |
-| 2/Mar/21 | 150 | 160 | 170 | 180 |
-| 2/Apr/21 | 140 | 150 | 160 | 170 |
-| 2/May/21 | 130 | 140 | 150 | 160 |
-| 2/Jun/21 | 125 | 135 | 145 | 155 |
-| 2/Jul/21 | 120 | 130 | 140 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Jul-21 avg | Jun-21 avg | ±% | 2020 | 2019 | 2018 |
@@ -215,41 +183,9 @@ In the MR size sector we had the sale of the "NEW BREEZE" (48,064dwt-blt '10, Ja
 |  | **32K 1yr TC** | 19,250 | 18,500 | 4.1% | 750 | 8,556 | 9,291 |
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 2/Jul/20 | 4100 | 1500 | 800 | 300 | 4100 |
-| 2/Aug/20 | 3500 | 1400 | 900 | 400 | 3500 |
-| 2/Sep/20 | 3000 | 1300 | 1000 | 500 | 3000 |
-| 2/Oct/20 | 4100 | 1200 | 1100 | 600 | 4100 |
-| 2/Nov/20 | 1200 | 1100 | 1000 | 700 | 1200 |
-| 2/Dec/20 | 1300 | 1100 | 1000 | 800 | 1300 |
-| 2/Jan/21 | 1400 | 1200 | 1000 | 900 | 1400 |
-| 2/Feb/21 | 1500 | 1300 | 1100 | 1000 | 1500 |
-| 2/Mar/21 | 1600 | 1400 | 1200 | 1100 | 1600 |
-| 2/Apr/21 | 1700 | 1500 | 1300 | 1200 | 1700 |
-| 2/May/21 | 4500 | 2500 | 2800 | 1300 | 4500 |
-| 2/Jun/21 | 3800 | 3500 | 2700 | 1400 | 3800 |
-| 2/Jul/21 | 4000 | 3900 | 2900 | 1500 | 4000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 2/Jul/20 | 32000 | 10000 | 8000 | 6000 |
-| 2/Aug/20 | 25000 | 12000 | 9000 | 7000 |
-| 2/Sep/20 | 18000 | 15000 | 10000 | 8000 |
-| 2/Oct/20 | 34000 | 13000 | 11000 | 9000 |
-| 2/Nov/20 | 10000 | 10000 | 9000 | 8000 |
-| 2/Dec/20 | 10000 | 10000 | 9000 | 8000 |
-| 2/Jan/21 | 12000 | 10000 | 9000 | 8000 |
-| 2/Feb/21 | 22000 | 15000 | 12000 | 10000 |
-| 2/Mar/21 | 18000 | 16000 | 13000 | 11000 |
-| 2/Apr/21 | 20000 | 17000 | 14000 | 12000 |
-| 2/May/21 | 42000 | 25000 | 20000 | 15000 |
-| 2/Jun/21 | 32000 | 32000 | 28000 | 26000 |
-| 2/Jul/21 | 35000 | 35000 | 30000 | 28000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -356,41 +292,10 @@ In the Handysize sector we had the sale of the "MING YUAN" (33,002dwt-blt '10, C
 
 The newbuilding market activity remains healthy for another week, with the owner's interest focusing on the Container sector followed by a strong appetite for LNG units last week. Tanker and bulker units were the minority among the recent newbuilding orders, while no crude carrier contracts were materialized during the previous days. On the clean tanker side sector, Pro-man Shipping announced two more methanol-fuelled MR units, bringing its total orderbook to six vessels. The newest product carriers will be constructed at GSI shipyard. At the same time, two Kamsarmax units were ordered by Aston at Chengxi for \$31.5 million each while the same yard secured 2x70,000dwt and 6x64,000dwt woodchip carriers from BoCom FL. On the Container front, a total of eleven feeder boxships were ordered with the interest spreading at South Korean and Chinese yards from Chinese, Greek and Danish owners. Lastly, Danish owner Celsius Shipping inked a deal for three LNG units at Samsung for a price of \$193.0 million each while H-Line and CSSC ordered one 174.000cbm unit each at Hyundai Samho and Hudong Zhonghua respectively.
 
-## Bulk Carriers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 2/Jul/20 | 47 | 27 | 26 | 24 |
-| 2/Aug/20 | 47 | 27 | 26 | 24 |
-| 2/Sep/20 | 47 | 27 | 26 | 24 |
-| 2/Oct/20 | 47 | 27 | 26 | 24 |
-| 2/Nov/20 | 47 | 27 | 26 | 24 |
-| 2/Dec/20 | 47 | 27 | 26 | 24 |
-| 2/Jan/21 | 47 | 28 | 26 | 24 |
-| 2/Feb/21 | 48 | 28 | 26 | 24 |
-| 2/Mar/21 | 49 | 29 | 27 | 25 |
-| 2/Apr/21 | 50 | 29 | 27 | 25 |
-| 2/May/21 | 52 | 30 | 28 | 26 |
-| 2/Jun/21 | 56 | 31 | 29 | 27 |
-| 2/Jul/21 | 59 | 32 | 30 | 28 |
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-## Tankers Newbuilding Prices (m$)
-
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 2/Jul/20 | 88 | 58 | 40 | 38 | 33 |
-| 2/Aug/20 | 87 | 58 | 39 | 37 | 33 |
-| 2/Sep/20 | 87 | 58 | 39 | 37 | 33 |
-| 2/Oct/20 | 86 | 57 | 38 | 36 | 33 |
-| 2/Nov/20 | 86 | 57 | 38 | 36 | 33 |
-| 2/Dec/20 | 86 | 57 | 38 | 36 | 33 |
-| 2/Jan/21 | 87 | 58 | 38 | 36 | 33 |
-| 2/Feb/21 | 88 | 59 | 39 | 37 | 34 |
-| 2/Mar/21 | 89 | 60 | 40 | 38 | 35 |
-| 2/Apr/21 | 90 | 60 | 40 | 38 | 35 |
-| 2/May/21 | 92 | 61 | 41 | 39 | 35 |
-| 2/Jun/21 | 94 | 62 | 42 | 40 | 35 |
-| 2/Jul/21 | 96 | 63 | 43 | 41 | 35 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -430,21 +335,8 @@ The newbuilding market activity remains healthy for another week, with the owner
 
 Scrap prices across the Indian-subcontinent markets remained at high levels for another week, with Bangladeshi and Pakistani breakers even increasing their offers amid a further supply slowdown of vintage candidates. This improvement has been supported also by the increasing steel plate prices in both countries. At the same time, Delta mutation spread has led the Government of Bangladesh to impose 7-day nationwide restrictions, yet with port operations in service during that period of time. In India, steel plate prices decreased w-o-w, while a slowdown in buyers' appetite has been witnessed during the previous days. The Turkish demolition market outlook remained unchanged with both imported and local steel plate prices steady w-o-w and with the Turkish Lira recouping some of its lost ground during the previous week; it is trading at the 8.67 per dollar mark at the time of writing. Average scrap prices in the different markets this week for tankers ranged between 290-560/ldt and those for dry bulk units between \$280-550/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 2/Jul/20 | 320 | 290 | 330 | 180 |
-| 2/Aug/20 | 340 | 310 | 350 | 190 |
-| 2/Sep/20 | 350 | 320 | 360 | 195 |
-| 2/Oct/20 | 355 | 330 | 365 | 200 |
-| 2/Nov/20 | 360 | 340 | 370 | 200 |
-| 2/Dec/20 | 380 | 360 | 390 | 210 |
-| 2/Jan/21 | 400 | 380 | 410 | 270 |
-| 2/Feb/21 | 430 | 400 | 430 | 260 |
-| 2/Mar/21 | 420 | 390 | 420 | 270 |
-| 2/Apr/21 | 440 | 410 | 440 | 280 |
-| 2/May/21 | 500 | 460 | 500 | 285 |
-| 2/Jun/21 | 540 | 530 | 540 | 290 |
-| 2/Jul/21 | 550 | 540 | 550 | 295 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

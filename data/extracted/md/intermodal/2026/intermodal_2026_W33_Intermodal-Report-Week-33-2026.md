@@ -51,40 +51,9 @@ More broadly, Mexico's emerging LNG export corridor underscores the growing impo
 | 12 mos | Primeway | 2018 | 157,470 |
 | --- | --- | --- | --- |
 |  | $75,000 |  | Vitol |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 14/Aug/25 | 150 | 150 | 150 |
-| 14/Sep/25 | 100 | 150 | 150 |
-| 14/Oct/25 | 100 | 150 | 200 |
-| 14/Nov/25 | 100 | 150 | 250 |
-| 14/Dec/25 | 100 | 150 | 300 |
-| 14/Jan/26 | 100 | 200 | 400 |
-| 14/Feb/26 | 200 | 400 | 900 |
-| 14/Mar/26 | 400 | 400 | 1000 |
-| 14/Apr/26 | 400 | 400 | 500 |
-| 14/May/26 | 400 | 300 | 300 |
-| 14/Jun/26 | 400 | 250 | 300 |
-| 14/Jul/26 | 450 | 300 | 350 |
-| 14/Aug/26 | 450 | 500 | 500 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 14/Aug/25 | 150 | 100 | 150 | 150 |
-| 14/Sep/25 | 100 | 100 | 200 | 200 |
-| 14/Oct/25 | 100 | 100 | 250 | 250 |
-| 14/Nov/25 | 100 | 100 | 300 | 300 |
-| 14/Dec/25 | 100 | 100 | 350 | 350 |
-| 14/Jan/26 | 100 | 150 | 400 | 400 |
-| 14/Feb/26 | 200 | 200 | 500 | 500 |
-| 14/Mar/26 | 400 | 300 | 600 | 600 |
-| 14/Apr/26 | 500 | 300 | 600 | 600 |
-| 14/May/26 | 500 | 250 | 500 | 500 |
-| 14/Jun/26 | 500 | 200 | 400 | 400 |
-| 14/Jul/26 | 500 | 150 | 300 | 350 |
-| 14/Aug/26 | 500 | 100 | 200 | 500 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 14/08/2026 | 07/08/2026 | ±% | Diff | 2025 | 2024 |
@@ -154,40 +123,9 @@ Aframax markets showed local fundamentals in the North Sea, Mediterranean, and U
 | **Handysize** | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 14/Aug/25 | 3000 | 1800 | 1400 | 800 | 3000 |
-| 14/Sep/25 | 3500 | 2000 | 1200 | 900 | 3200 |
-| 14/Oct/25 | 3200 | 2200 | 1300 | 1000 | 3100 |
-| 14/Nov/25 | 2800 | 2500 | 1500 | 1100 | 2900 |
-| 14/Dec/25 | 5500 | 2800 | 1600 | 1200 | 2700 |
-| 14/Jan/26 | 2500 | 2000 | 1800 | 1000 | 2000 |
-| 14/Feb/26 | 2600 | 2100 | 1900 | 1100 | 2100 |
-| 14/Mar/26 | 2700 | 2200 | 2000 | 1200 | 2200 |
-| 14/Apr/26 | 4500 | 2300 | 2100 | 1300 | 4000 |
-| 14/May/26 | 5000 | 2400 | 2200 | 1400 | 5000 |
-| 14/Jun/26 | 1200 | 2000 | 2300 | 1500 | 1000 |
-| 14/Jul/26 | 4800 | 2500 | 2800 | 2000 | 4500 |
-| 14/Aug/26 | 5000 | 2600 | 2900 | 2100 | 4800 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 14/Aug/25 | 25000 | 15000 | 12000 | 10000 |
-| 14/Sep/25 | 28000 | 16000 | 13000 | 11000 |
-| 14/Oct/25 | 30000 | 17000 | 14000 | 12000 |
-| 14/Nov/25 | 43000 | 14000 | 13000 | 11000 |
-| 14/Dec/25 | 18000 | 12000 | 12000 | 10000 |
-| 14/Jan/26 | 22000 | 13000 | 13000 | 11000 |
-| 14/Feb/26 | 24000 | 14000 | 14000 | 12000 |
-| 14/Mar/26 | 26000 | 15000 | 15000 | 13000 |
-| 14/Apr/26 | 28000 | 16000 | 16000 | 14000 |
-| 14/May/26 | 44000 | 17000 | 17000 | 15000 |
-| 14/Jun/26 | 45000 | 18000 | 18000 | 16000 |
-| 14/Jul/26 | 35000 | 17000 | 17000 | 15000 |
-| 14/Aug/26 | 38000 | 18000 | 18000 | 16000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Aug-26 avg | Jul-26 avg | ±% | 2025 | 2024 |

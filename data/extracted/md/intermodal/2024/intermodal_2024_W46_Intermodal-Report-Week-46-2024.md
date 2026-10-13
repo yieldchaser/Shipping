@@ -21,44 +21,7 @@ The above figures have also contributed to an increase in the proportion of olde
 
 Looking ahead to 2025, the anticipated depreciation of secondhand vessel prices, combined with a likely weakening of the freight market, is expected to make demolition a more appealing option for owners. Moreover, with over 480 new dry bulk vessels scheduled for delivery, scrapping older units could emerge as a strategic move to sustain market balance, provided conditions at scrapyards become favorable.
 
-### Average Age
-
-| Date | Capesize | Panamax/Kamsarmax | Handymax/Supramax/Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| Nov 2007 | 11.2 | 11.8 | 11.8 | 19.5 |
-| May 2008 | 11.3 | 12.0 | 11.7 | 18.0 |
-| Nov 2008 | 11.4 | 12.1 | 11.6 | 16.5 |
-| Nov 2009 | 11.5 | 12.2 | 11.5 | 15.0 |
-| May 2010 | 10.0 | 12.0 | 11.0 | 13.5 |
-| Nov 2010 | 8.5 | 10.5 | 9.5 | 12.0 |
-| May 2011 | 7.5 | 9.0 | 8.5 | 11.0 |
-| Nov 2011 | 7.0 | 8.5 | 8.0 | 10.5 |
-| May 2012 | 7.0 | 8.0 | 8.0 | 10.0 |
-| Nov 2012 | 7.5 | 8.0 | 8.0 | 10.0 |
-| May 2013 | 7.5 | 8.0 | 8.0 | 10.0 |
-| Nov 2013 | 7.5 | 8.0 | 8.0 | 10.0 |
-| May 2014 | 7.5 | 8.0 | 8.0 | 10.0 |
-| Nov 2014 | 7.5 | 8.0 | 8.0 | 10.0 |
-| May 2015 | 7.5 | 8.0 | 8.0 | 10.0 |
-| Nov 2015 | 7.5 | 8.0 | 8.0 | 10.0 |
-| May 2016 | 7.5 | 8.0 | 8.0 | 10.0 |
-| Nov 2016 | 7.5 | 8.0 | 8.0 | 10.0 |
-| May 2017 | 7.5 | 8.0 | 8.0 | 10.0 |
-| Nov 2017 | 7.5 | 8.0 | 8.0 | 10.0 |
-| May 2018 | 7.5 | 8.0 | 8.0 | 10.0 |
-| Nov 2018 | 8.0 | 8.5 | 8.5 | 10.5 |
-| May 2019 | 8.5 | 9.0 | 9.0 | 11.0 |
-| Nov 2019 | 9.0 | 9.5 | 9.5 | 11.5 |
-| May 2020 | 9.5 | 10.0 | 10.0 | 12.0 |
-| Nov 2020 | 9.5 | 10.0 | 10.0 | 12.0 |
-| May 2021 | 9.5 | 10.0 | 10.0 | 12.0 |
-| Nov 2021 | 9.5 | 10.0 | 10.0 | 12.0 |
-| May 2022 | 10.0 | 10.5 | 10.5 | 12.5 |
-| Nov 2022 | 10.0 | 10.5 | 10.5 | 12.5 |
-| May 2023 | 10.5 | 11.0 | 11.0 | 13.0 |
-| Nov 2023 | 11.0 | 11.5 | 11.5 | 13.2 |
-| May 2024 | 11.5 | 12.0 | 11.8 | 13.4 |
-| Nov 2024 | 11.10 | 12.10 | 12.19 | 13.50 |
+> **Chart (not transcribed):** Average Age. The report prints no values for it.
 
 ---
 
@@ -88,40 +51,9 @@ Looking ahead to 2025, the anticipated depreciation of secondhand vessel prices,
 | --- | --- | --- | --- | --- | --- | --- |
 | 12 mos | TAVISTOCK | 2019 | 114,364 dwt | DELY WEST | $42,500/day | Chevron |
 | 3 mos | NAVE EQUATOR | 2009 | 49,999 dwt | DELY EAST NOV/24 | $23,500/day | Pertamina |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 15/Nov/23 | 50 | 120 | 180 |
-| 15/Dec/23 | 50 | 120 | 390 |
-| 15/Jan/24 | 50 | 120 | 390 |
-| 15/Feb/24 | 50 | 120 | 180 |
-| 15/Mar/24 | 50 | 120 | 150 |
-| 15/Apr/24 | 50 | 120 | 150 |
-| 15/May/24 | 50 | 120 | 180 |
-| 15/Jun/24 | 50 | 120 | 180 |
-| 15/Jul/24 | 50 | 120 | 180 |
-| 15/Aug/24 | 50 | 120 | 150 |
-| 15/Sep/24 | 50 | 120 | 150 |
-| 15/Oct/24 | 50 | 120 | 150 |
-| 15/Nov/24 | 50 | 120 | 120 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 15/Nov/23 | 120 | 180 | 200 | 100 |
-| 15/Dec/23 | 120 | 180 | 200 | 100 |
-| 15/Jan/24 | 350 | 350 | 350 | 100 |
-| 15/Feb/24 | 350 | 350 | 350 | 100 |
-| 15/Mar/24 | 150 | 200 | 200 | 100 |
-| 15/Apr/24 | 150 | 200 | 200 | 100 |
-| 15/May/24 | 150 | 200 | 200 | 100 |
-| 15/Jun/24 | 150 | 200 | 200 | 100 |
-| 15/Jul/24 | 150 | 200 | 200 | 100 |
-| 15/Aug/24 | 150 | 200 | 200 | 100 |
-| 15/Sep/24 | 150 | 200 | 200 | 100 |
-| 15/Oct/24 | 150 | 200 | 200 | 100 |
-| 15/Nov/24 | 100 | 100 | 100 | 100 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 15/11/24 | 08/11/24 | ±% | Diff | 2023 | 2022 |
@@ -166,15 +98,7 @@ Last, MR rates in the Atlantic Arena plummeted with Atlantic Basket TCE standing
 
 ## Dry Bulk Market
 
-### Baltic Indices (1-Year Trend)
-
-|  | 15/11/24 Index | 15/11/24 $/day | 08/11/24 Index | 08/11/24 $/day | Point Diff | $/day ±% | 2023 Index | 2022 Index |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BDI | 1,785 |  | 1,495 |  | 290 |  | 1,395 | 1,931 |
-| BCI | 3,229 | $26,777 | 2,316 | $19,210 | 913 | 39.4% | 2,007 | 1,955 |
-| BPI | 1,212 | $10,906 | 1,176 | $10,586 | 36 | 3.0% | 1,442 | 2,298 |
-| BSI | 1,019 | $10,848 | 1,079 | $11,608 | -60 | -6.5% | 1,031 | 2,006 |
-| BHSI | 685 | $12,337 | 703 | $12,648 | -18 | -2.5% | 586 | 1,181 |
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |

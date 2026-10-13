@@ -47,39 +47,9 @@ Ammonia, known for its toxicity and corrosiveness, is typically transported usin
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | LARGO EVOLUTION | 2015 | 49,750 dwt | $32,400/day | Union Maritime |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 9/Feb/23 | 50 | 150 | 350 |
-| 9/Mar/23 | 70 | 160 | 380 |
-| 9/Apr/23 | 60 | 150 | 360 |
-| 9/May/23 | 50 | 140 | 350 |
-| 9/Jul/23 | 50 | 130 | 150 |
-| 9/Aug/23 | 50 | 120 | 100 |
-| 9/Sep/23 | 50 | 120 | 100 |
-| 9/Oct/23 | 50 | 130 | 280 |
-| 9/Nov/23 | 50 | 140 | 150 |
-| 9/Dec/23 | 50 | 140 | 150 |
-| 9/Jan/24 | 50 | 150 | 380 |
-| 9/Feb/24 | 50 | 150 | 180 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 9/Feb/23 | 120 | 250 | 280 | 300 |
-| 9/Mar/23 | 110 | 450 | 400 | 350 |
-| 9/Apr/23 | 100 | 150 | 150 | 180 |
-| 9/May/23 | 100 | 140 | 140 | 160 |
-| 9/Jul/23 | 100 | 130 | 130 | 150 |
-| 9/Aug/23 | 100 | 120 | 120 | 140 |
-| 9/Sep/23 | 100 | 120 | 130 | 150 |
-| 9/Oct/23 | 100 | 130 | 140 | 160 |
-| 9/Nov/23 | 100 | 140 | 150 | 170 |
-| 9/Dec/23 | 100 | 140 | 160 | 180 |
-| 9/Jan/24 | 100 | 150 | 350 | 200 |
-| 9/Feb/24 | 100 | 150 | 200 | 200 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 09/02/24 | 02/02/24 | ±% | Diff | 2023 | 2022 |
@@ -149,39 +119,9 @@ On the Aframax front, T/C earnings averaged \$48,238/day, down - \$2,568/day w-o
 | **Handysize** | **32K 1yr TC** | 13,000 | 12,250 | 6.1% | 750 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 9/Feb/23 | 1000 | 1000 | 800 | 600 | 800 |
-| 9/Mar/23 | 1500 | 1200 | 900 | 700 | 1200 |
-| 9/Apr/23 | 1800 | 1300 | 1000 | 750 | 1500 |
-| 9/May/23 | 1600 | 1100 | 950 | 700 | 1400 |
-| 9/Jul/23 | 1400 | 1000 | 900 | 650 | 1300 |
-| 9/Aug/23 | 1500 | 1100 | 950 | 700 | 1400 |
-| 9/Sep/23 | 2500 | 1500 | 1200 | 900 | 2000 |
-| 9/Oct/23 | 3000 | 1800 | 1400 | 1000 | 2500 |
-| 9/Nov/23 | 4000 | 2500 | 1800 | 1200 | 3000 |
-| 9/Dec/23 | 6500 | 3000 | 2500 | 1500 | 6000 |
-| 9/Jan/24 | 2000 | 1500 | 1200 | 900 | 2000 |
-| 9/Feb/24 | 2200 | 1600 | 1300 | 950 | 2100 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 9/Feb/23 | 5000 | 10000 | 12000 | 8000 |
-| 9/Mar/23 | 12000 | 11000 | 13000 | 9000 |
-| 9/Apr/23 | 15000 | 12000 | 14000 | 10000 |
-| 9/May/23 | 14000 | 11000 | 13000 | 9500 |
-| 9/Jul/23 | 13000 | 10000 | 12000 | 9000 |
-| 9/Aug/23 | 14000 | 11000 | 13000 | 9500 |
-| 9/Sep/23 | 20000 | 15000 | 16000 | 11000 |
-| 9/Oct/23 | 25000 | 18000 | 19000 | 12000 |
-| 9/Nov/23 | 30000 | 20000 | 21000 | 13000 |
-| 9/Dec/23 | 50000 | 22000 | 23000 | 14000 |
-| 9/Jan/24 | 16000 | 14000 | 15000 | 11000 |
-| 9/Feb/24 | 17000 | 15000 | 16000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Feb-24 avg | Jan-24 avg | ±% | 2023 | 2022 | 2021 |

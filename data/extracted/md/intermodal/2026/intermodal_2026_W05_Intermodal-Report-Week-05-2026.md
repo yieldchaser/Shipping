@@ -51,40 +51,9 @@ Ultimately, Europe is not moving toward energy independence, but toward a more c
 | --- | --- | --- | --- | --- | --- |
 | 36 mos | Olympic Lion | 2010 | 319,540 dwt | $53,000/day | Trafigura |
 | 12 mos | Arzanah | 2023 | 299,425 dwt | $70,000/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS points | WS points | WS points |
-| 30/Jan/25 | 60 | 120 | 140 |
-| 28/Feb/25 | 55 | 115 | 135 |
-| 31/Mar/25 | 70 | 200 | 220 |
-| 30/Apr/25 | 65 | 160 | 180 |
-| 31/May/25 | 60 | 150 | 170 |
-| 30/Jun/25 | 55 | 140 | 160 |
-| 31/Jul/25 | 50 | 130 | 150 |
-| 31/Aug/25 | 45 | 120 | 140 |
-| 30/Sep/25 | 40 | 110 | 130 |
-| 31/Oct/25 | 35 | 100 | 120 |
-| 30/Nov/25 | 30 | 90 | 110 |
-| 31/Dec/25 | 35 | 100 | 350 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS points | WS points | WS points | WS points |
-| 30/Jan/25 | 100 | 150 | 180 | 200 |
-| 28/Feb/25 | 95 | 140 | 170 | 190 |
-| 31/Mar/25 | 110 | 160 | 200 | 280 |
-| 30/Apr/25 | 105 | 150 | 190 | 270 |
-| 31/May/25 | 100 | 140 | 180 | 260 |
-| 30/Jun/25 | 95 | 130 | 170 | 250 |
-| 31/Jul/25 | 90 | 120 | 160 | 240 |
-| 31/Aug/25 | 85 | 110 | 150 | 230 |
-| 30/Sep/25 | 80 | 100 | 140 | 220 |
-| 31/Oct/25 | 75 | 90 | 130 | 210 |
-| 30/Nov/25 | 70 | 80 | 120 | 200 |
-| 31/Dec/25 | 75 | 85 | 125 | 210 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 30/01/2026 | 23/01/2026 | ±% | Diff | 2025 | 2024 |
@@ -152,39 +121,9 @@ The Aframax segment continued to outperform, with spot rates above average. In t
 | **Handysize** | **32K 1yr TC** | 11,250 | 11,250 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 30/Jan/25 | 800 | 900 | 1000 | 600 | 800 |
-| 28/Feb/25 | 2500 | 1000 | 1200 | 800 | 1000 |
-| 31/Mar/25 | 2000 | 1100 | 1300 | 900 | 1100 |
-| 30/Apr/25 | 2200 | 1200 | 1400 | 950 | 1200 |
-| 31/May/25 | 3800 | 1300 | 1500 | 1000 | 1300 |
-| 30/Jun/25 | 3500 | 1400 | 1600 | 1050 | 1400 |
-| 31/Jul/25 | 3200 | 1500 | 1700 | 1100 | 1500 |
-| 31/Aug/25 | 2800 | 1600 | 1800 | 1150 | 1600 |
-| 30/5/sep/25 | 3000 | 1700 | 1900 | 1200 | 1700 |
-| 31/Oct/25 | 3500 | 1800 | 2000 | 1250 | 1800 |
-| 30/Nov/25 | 3800 | 1900 | 2100 | 1300 | 1900 |
-| 31/Dec/25 | 3600 | 1800 | 2000 | 1200 | 1800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 30/Jan/25 | 5000 | 8000 | 9000 | 7000 |
-| 28/Feb/25 | 18000 | 9000 | 10000 | 8000 |
-| 31/Mar/25 | 15000 | 10000 | 11000 | 9000 |
-| 30/Apr/25 | 16000 | 11000 | 12000 | 10000 |
-| 31/May/25 | 28000 | 12000 | 13000 | 11000 |
-| 30/Jun/25 | 14000 | 13000 | 14000 | 12000 |
-| 31/Jul/25 | 15000 | 14000 | 15000 | 13000 |
-| 31/Aug/25 | 16000 | 15000 | 16000 | 14000 |
-| 30/5/sep/25 | 17000 | 16000 | 17000 | 15000 |
-| 31/Oct/25 | 20000 | 17000 | 18000 | 16000 |
-| 30/Nov/25 | 43000 | 18000 | 19000 | 17000 |
-| 31/Dec/25 | 25000 | 17000 | 18000 | 16000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jan-26 avg | Dec-25 avg | ±% | 2025 | 2024 |

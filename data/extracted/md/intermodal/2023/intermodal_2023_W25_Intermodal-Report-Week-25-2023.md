@@ -49,40 +49,9 @@ In conjunction with these developments, seaborne thermal coal prices in Asia hav
 | 24 mos | NA V IG 8 PROV IDENCE $4,500/day | 2023 | 109,995 dw t Trafigura |
 | --- | --- | --- | --- |
 | 7 mos | NORD ELEGANCE $30,000/day | 2020 | 50,415 dw t Panoean |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 23/Jun/22 | 80 | 180 | 200 |
-| 23/Jul/22 | 90 | 200 | 250 |
-| 23/Aug/22 | 100 | 220 | 300 |
-| 23/Sep/22 | 110 | 240 | 350 |
-| 23/Oct/22 | 120 | 260 | 400 |
-| 23/Nov/22 | 90 | 280 | 600 |
-| 23/Dec/22 | 100 | 270 | 500 |
-| 23/Jan/23 | 110 | 250 | 400 |
-| 23/Feb/23 | 120 | 240 | 350 |
-| 23/Mar/23 | 130 | 230 | 300 |
-| 23/Apr/23 | 140 | 220 | 250 |
-| 23/May/23 | 150 | 210 | 200 |
-| 23/Jun/23 | 160 | 200 | 150 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 23/Jun/22 | 250 | 300 | 350 | 400 |
-| 23/Jul/22 | 260 | 310 | 360 | 410 |
-| 23/Aug/22 | 270 | 320 | 370 | 420 |
-| 23/Sep/22 | 280 | 330 | 380 | 430 |
-| 23/Oct/22 | 290 | 340 | 390 | 440 |
-| 23/Nov/22 | 300 | 350 | 400 | 450 |
-| 23/Dec/22 | 310 | 360 | 410 | 460 |
-| 23/Jan/23 | 200 | 250 | 300 | 350 |
-| 23/Feb/23 | 210 | 260 | 310 | 360 |
-| 23/Mar/23 | 220 | 270 | 320 | 370 |
-| 23/Apr/23 | 230 | 280 | 330 | 380 |
-| 23/May/23 | 240 | 290 | 340 | 390 |
-| 23/Jun/23 | 250 | 300 | 350 | 400 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 23/06/23 | 16/06/23 | ±% | Diff | 2022 | 2021 |
@@ -153,40 +122,9 @@ Suezmax T/C earnings averaged \$ 55,409/day, down - \$3,997/day w-o-w. On the Af
 | **32K 1yr TC** |  | 8,000 | 9,500 | -15.8% | -1,500 | 17,827 | 18,354 |
 | **32K 3yr TC** |  | 9,000 | 9,250 | -2.7% | -250 | 12,322 | 11,825 |
 
-### Average T/C Rates (1-Year Trend)
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 23/Jun/22 | 26000 | 25000 | 24000 | 23000 |
-| 23/Jul/22 | 24000 | 23000 | 22000 | 21000 |
-| 23/Aug/22 | 10000 | 12000 | 11000 | 10000 |
-| 23/Sep/22 | 18000 | 17000 | 16000 | 15000 |
-| 23/Oct/22 | 16000 | 15000 | 14000 | 13000 |
-| 23/Nov/22 | 14000 | 13000 | 12000 | 11000 |
-| 23/Dec/22 | 22000 | 20000 | 19000 | 18000 |
-| 23/Jan/23 | 6000 | 7000 | 8000 | 9000 |
-| 23/Feb/23 | 7000 | 8000 | 9000 | 10000 |
-| 23/Mar/23 | 14000 | 13000 | 12000 | 11000 |
-| 23/Apr/23 | 20000 | 18000 | 17000 | 16000 |
-| 23/May/23 | 18000 | 16000 | 15000 | 14000 |
-| 23/Jun/23 | 16000 | 15000 | 14000 | 13000 |
-
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 23/Jun/22 | 2500 | 2400 | 1400 | 1300 | 2400 |
-| 23/Jul/22 | 2800 | 2600 | 1500 | 1400 | 2700 |
-| 23/Aug/22 | 800 | 1000 | 1100 | 1000 | 900 |
-| 23/Sep/22 | 2000 | 1800 | 1600 | 1500 | 1900 |
-| 23/Oct/22 | 1600 | 1400 | 1200 | 1100 | 1500 |
-| 23/Nov/22 | 1500 | 1300 | 1100 | 1000 | 1400 |
-| 23/Dec/22 | 2700 | 2500 | 1700 | 1600 | 2600 |
-| 23/Jan/23 | 1100 | 900 | 800 | 700 | 1000 |
-| 23/Feb/23 | 1200 | 1000 | 900 | 800 | 1100 |
-| 23/Mar/23 | 1800 | 1600 | 1300 | 1200 | 1700 |
-| 23/Apr/23 | 2600 | 2400 | 2000 | 1900 | 2500 |
-| 23/May/23 | 2400 | 2200 | 1800 | 1700 | 2300 |
-| 23/Jun/23 | 1900 | 1700 | 1300 | 1200 | 1400 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | May-23 avg | Previous avg | ±% | 2022 | 2021 | 2020 |

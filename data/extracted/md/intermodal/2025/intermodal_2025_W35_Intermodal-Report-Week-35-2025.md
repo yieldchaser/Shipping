@@ -67,39 +67,9 @@ While Vietnam's contribution may not fundamentally alter the global iron ore mar
 | --- | --- | --- |
 |  | $42,000/day |  |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 29/Aug/24 | 50 | 100 | 150 |
-| 29/Sep/24 | 55 | 95 | 160 |
-| 29/Oct/24 | 60 | 100 | 220 |
-| 29/Nov/24 | 55 | 90 | 140 |
-| 29/Dec/24 | 50 | 100 | 160 |
-| 29/Jan/25 | 55 | 110 | 170 |
-| 28/Feb/25 | 60 | 115 | 180 |
-| 31/Mar/25 | 65 | 120 | 210 |
-| 30/Apr/25 | 70 | 125 | 200 |
-| 31/May/25 | 65 | 120 | 170 |
-| 30/Jun/25 | 70 | 130 | 160 |
-| 31/Jul/25 | 75 | 135 | 150 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 29/Aug/24 | 100 | 90 | 110 | 120 |
-| 29/Sep/24 | 95 | 85 | 100 | 115 |
-| 29/Oct/24 | 110 | 100 | 280 | 120 |
-| 29/Nov/24 | 100 | 95 | 110 | 125 |
-| 29/Dec/24 | 95 | 100 | 100 | 115 |
-| 29/Jan/25 | 100 | 110 | 110 | 120 |
-| 28/Feb/25 | 105 | 115 | 120 | 125 |
-| 31/Mar/25 | 110 | 120 | 280 | 130 |
-| 30/Apr/25 | 115 | 125 | 130 | 135 |
-| 31/May/25 | 110 | 120 | 125 | 130 |
-| 30/Jun/25 | 115 | 125 | 130 | 135 |
-| 31/Jul/25 | 120 | 130 | 135 | 140 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 29/08/2025 | 22/08/2025 | ±% | Diff | 2024 | 2023 |

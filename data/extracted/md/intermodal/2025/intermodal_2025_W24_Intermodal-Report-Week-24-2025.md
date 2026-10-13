@@ -50,40 +50,9 @@ In sum, while an outright closure of the Strait of Hormuz remains a high-risk, l
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 24 mos | Almi Globe | 2012 | 157,787 dwt | $26,250/day | ST Shipping |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 13/Jun/24 | 50 | 100 | 200 |
-| 13/Jul/24 | 50 | 100 | 200 |
-| 13/Aug/24 | 50 | 100 | 200 |
-| 13/Sep/24 | 50 | 100 | 200 |
-| 13/Oct/24 | 50 | 100 | 200 |
-| 13/Nov/24 | 50 | 100 | 200 |
-| 13/Dec/24 | 50 | 100 | 200 |
-| 13/Jan/25 | 50 | 100 | 200 |
-| 13/Feb/25 | 50 | 100 | 200 |
-| 13/Mar/25 | 50 | 100 | 200 |
-| 13/Apr/25 | 50 | 100 | 200 |
-| 13/May/25 | 50 | 100 | 200 |
-| 13/Jun/25 | 50 | 100 | 200 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 13/Jun/24 | 150 | 150 | 200 | 200 |
-| 13/Jul/24 | 150 | 150 | 200 | 200 |
-| 13/Aug/24 | 150 | 150 | 200 | 200 |
-| 13/Sep/24 | 150 | 150 | 200 | 200 |
-| 13/Oct/24 | 150 | 150 | 200 | 200 |
-| 13/Nov/24 | 150 | 150 | 200 | 200 |
-| 13/Dec/24 | 150 | 150 | 200 | 200 |
-| 13/Jan/25 | 150 | 150 | 200 | 200 |
-| 13/Feb/25 | 150 | 150 | 200 | 200 |
-| 13/Mar/25 | 150 | 150 | 200 | 200 |
-| 13/Apr/25 | 150 | 150 | 200 | 200 |
-| 13/May/25 | 150 | 150 | 200 | 200 |
-| 13/Jun/25 | 150 | 150 | 200 | 200 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 13/06/2025 | 06/06/2025 | ±% | Diff | 2024 | 2023 |
@@ -151,41 +120,9 @@ Aframaxes had a subdued week as well, with average TC earnings at \$29,994/day�
 | **Handysize** | **32K 1yr TC** | 10,000 | 10,000 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 13/Jun/24 | 3500 | 1800 | 1200 | 800 | 1800 |
-| 13/Jul/24 | 3800 | 1700 | 1100 | 750 | 1700 |
-| 13/Aug/24 | 3200 | 1600 | 1000 | 700 | 1600 |
-| 13/Sep/24 | 3000 | 1500 | 950 | 650 | 1500 |
-| 13/Oct/24 | 2800 | 1400 | 900 | 600 | 1400 |
-| 13/Nov/24 | 2500 | 1300 | 850 | 550 | 1300 |
-| 13/Dec/24 | 2200 | 1200 | 800 | 500 | 1200 |
-| 13/Jan/25 | 2000 | 1100 | 750 | 450 | 1100 |
-| 13/Feb/25 | 1800 | 1000 | 700 | 400 | 1000 |
-| 13/Mar/25 | 2500 | 1200 | 800 | 500 | 1200 |
-| 13/Apr/25 | 3000 | 1400 | 900 | 600 | 1400 |
-| 13/May/25 | 3500 | 1600 | 1000 | 700 | 1600 |
-| 13/Jun/25 | 3800 | 1700 | 1100 | 800 | 1800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 13/Jun/24 | 25000 | 14000 | 10000 | 8000 |
-| 13/Jul/24 | 30000 | 13500 | 9500 | 7500 |
-| 13/Aug/24 | 28000 | 13000 | 9000 | 7000 |
-| 13/Sep/24 | 26000 | 12500 | 8500 | 6500 |
-| 13/Oct/24 | 22000 | 12000 | 8000 | 6000 |
-| 13/Nov/24 | 20000 | 11500 | 7500 | 5500 |
-| 13/Dec/24 | 15000 | 11000 | 7000 | 5000 |
-| 13/Jan/25 | 10000 | 10500 | 6500 | 4500 |
-| 13/Feb/25 | 8000 | 10000 | 6000 | 4000 |
-| 13/Mar/25 | 20000 | 11000 | 7000 | 5000 |
-| 13/Apr/25 | 22000 | 11500 | 7500 | 5500 |
-| 13/May/25 | 28000 | 13000 | 8500 | 6500 |
-| 13/Jun/25 | 30000 | 14000 | 9000 | 7000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jun-25 avg | May-25 avg | ±% | 2024 | 2023 |

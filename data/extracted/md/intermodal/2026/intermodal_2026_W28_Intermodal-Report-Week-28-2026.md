@@ -54,41 +54,9 @@ Overall, the Hormuz crisis is settling into a recurring cycle of escalation, par
 | --- | --- | --- | --- |
 |  | $37,700 |  | Saudi Aramco |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 10/Jul/25 | 100 | 100 | 100 |
-| 10/Aug/25 | 100 | 150 | 150 |
-| 10/Sep/25 | 100 | 150 | 200 |
-| 10/Oct/25 | 100 | 150 | 250 |
-| 10/Nov/25 | 100 | 200 | 300 |
-| 10/Dec/25 | 100 | 250 | 400 |
-| 10/Jan/26 | 100 | 300 | 500 |
-| 10/Feb/26 | 200 | 400 | 900 |
-| 10/Mar/26 | 400 | 450 | 950 |
-| 10/Apr/26 | 400 | 400 | 400 |
-| 10/May/26 | 350 | 300 | 300 |
-| 10/Jun/26 | 300 | 250 | 250 |
-| 10/Jul/26 | 300 | 250 | 200 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 10/Jul/25 | 100 | 100 | 100 | 100 |
-| 10/Aug/25 | 100 | 100 | 150 | 150 |
-| 10/Sep/25 | 100 | 100 | 200 | 200 |
-| 10/Oct/25 | 100 | 150 | 250 | 250 |
-| 10/Nov/25 | 100 | 200 | 300 | 300 |
-| 10/Dec/25 | 100 | 250 | 400 | 400 |
-| 10/Jan/26 | 100 | 300 | 500 | 500 |
-| 10/Feb/26 | 200 | 300 | 600 | 600 |
-| 10/Mar/26 | 400 | 300 | 650 | 600 |
-| 10/Apr/26 | 500 | 300 | 600 | 550 |
-| 10/May/26 | 500 | 250 | 500 | 500 |
-| 10/Jun/26 | 400 | 200 | 400 | 350 |
-| 10/Jul/26 | 300 | 150 | 300 | 200 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 10/07/2026 | 03/07/2026 | ±% | Diff | 2025 | 2024 |
@@ -156,41 +124,9 @@ Aframax markets strengthened, underpinned by stronger USG activity and improving
 | **Handysize** | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 10/Jul/25 | 3500 | 1800 | 1500 | 800 | 1800 |
-| 10/Aug/25 | 3800 | 1900 | 1600 | 900 | 2000 |
-| 10/Sep/25 | 3600 | 1850 | 1550 | 850 | 1900 |
-| 10/Oct/25 | 3400 | 1700 | 1400 | 800 | 1700 |
-| 10/Nov/25 | 5200 | 1600 | 1300 | 750 | 1600 |
-| 10/Dec/25 | 4500 | 1500 | 1200 | 700 | 1500 |
-| 10/Jan/26 | 3000 | 1600 | 1400 | 800 | 1700 |
-| 10/Feb/26 | 3200 | 1700 | 1500 | 850 | 1800 |
-| 10/Mar/26 | 3300 | 1800 | 1600 | 900 | 1900 |
-| 10/Apr/26 | 4000 | 1900 | 1700 | 950 | 2000 |
-| 10/May/26 | 5500 | 2000 | 1800 | 1000 | 2200 |
-| 10/Jun/26 | 1200 | 2100 | 2200 | 1100 | 2800 |
-| 10/Jul/26 | 4800 | 2200 | 2400 | 1000 | 2900 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 10/Jul/25 | 25000 | 15000 | 12000 | 10000 |
-| 10/Aug/25 | 26000 | 15500 | 12500 | 10500 |
-| 10/Sep/25 | 24000 | 14000 | 11000 | 9500 |
-| 10/Oct/25 | 23000 | 13000 | 10000 | 9000 |
-| 10/Nov/25 | 45000 | 14000 | 11000 | 9500 |
-| 10/Dec/25 | 18000 | 12000 | 10000 | 8500 |
-| 10/Jan/26 | 22000 | 13000 | 10500 | 9000 |
-| 10/Feb/26 | 24000 | 14000 | 11000 | 9500 |
-| 10/Mar/26 | 26000 | 15000 | 11500 | 10000 |
-| 10/Apr/26 | 38000 | 16000 | 12000 | 10500 |
-| 10/May/26 | 48000 | 17000 | 13000 | 11000 |
-| 10/Jun/26 | 18000 | 17500 | 13500 | 11500 |
-| 10/Jul/26 | 35000 | 18000 | 14000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jul-26 avg | Jun-26 avg | ±% | 2025 | 2024 |

@@ -52,40 +52,9 @@ As the maritime industry transitions into this new regulatory era, it's imperati
 | --- | --- | --- | --- | --- | --- | --- |
 | 6 mos | NORVIC MONIA | 2008 | 105,348 dwt | DEL WEST NOV/23 | $49,750-54,500/day | Exxon |
 | 6 mos | ELKA DELPHI | 2015 | 49,990 dwt | DEL WEST NOV/23 | $31,500/day | Mercuria |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 10/Nov/22 | 100 | 300 | 650 |
-| 10/Dec/22 | 90 | 320 | 600 |
-| 10/Jan/23 | 80 | 180 | 350 |
-| 10/Feb/23 | 70 | 170 | 380 |
-| 10/Mar/23 | 60 | 180 | 360 |
-| 10/Apr/23 | 50 | 170 | 350 |
-| 10/May/23 | 40 | 160 | 340 |
-| 10/Jun/23 | 30 | 150 | 330 |
-| 10/Jul/23 | 20 | 140 | 320 |
-| 10/Aug/23 | 10 | 130 | 310 |
-| 10/Sep/23 | 10 | 140 | 300 |
-| 10/Oct/23 | 10 | 150 | 290 |
-| 10/Nov/23 | 10 | 160 | 280 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 10/Nov/22 | 180 | 350 | 450 | 200 |
-| 10/Dec/22 | 200 | 380 | 480 | 220 |
-| 10/Jan/23 | 150 | 300 | 400 | 180 |
-| 10/Feb/23 | 120 | 250 | 350 | 150 |
-| 10/Mar/23 | 100 | 280 | 450 | 160 |
-| 10/Apr/23 | 90 | 260 | 380 | 140 |
-| 10/May/23 | 80 | 240 | 300 | 130 |
-| 10/Jun/23 | 70 | 220 | 280 | 120 |
-| 10/Jul/23 | 60 | 200 | 260 | 110 |
-| 10/Aug/23 | 50 | 180 | 240 | 100 |
-| 10/Sep/23 | 50 | 170 | 230 | 100 |
-| 10/Oct/23 | 50 | 160 | 220 | 90 |
-| 10/Nov/23 | 50 | 150 | 210 | 90 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 10/11/23 | 03/11/23 | ±% | Diff | 2022 | 2021 |
@@ -153,41 +122,9 @@ Suezmax T/C earnings averaged \$69,788/day, down - \$21,999/day w-o-w. On the Af
 | **Handysize** | **32K 1yr TC** | 10,250 | 10,250 | 0.0% | 0 | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 10/Nov/22 | 1400 | 1500 | 1300 | 800 | 1400 |
-| 10/Dec/22 | 2500 | 1400 | 1200 | 700 | 2500 |
-| 10/Jan/23 | 600 | 700 | 800 | 600 | 500 |
-| 10/Feb/23 | 600 | 700 | 800 | 600 | 600 |
-| 10/Mar/23 | 1800 | 1600 | 1400 | 900 | 1700 |
-| 10/Apr/23 | 2400 | 1500 | 1300 | 850 | 2300 |
-| 10/May/23 | 2300 | 1400 | 1200 | 800 | 2200 |
-| 10/Jun/23 | 1600 | 1300 | 1100 | 750 | 1600 |
-| 10/Jul/23 | 1700 | 1350 | 1150 | 750 | 1700 |
-| 10/Aug/23 | 1700 | 1400 | 1200 | 750 | 1700 |
-| 10/Sep/23 | 1600 | 1450 | 1300 | 750 | 1600 |
-| 10/Oct/23 | 3500 | 1800 | 1600 | 800 | 3500 |
-| 10/Nov/23 | 2400 | 1600 | 1500 | 700 | 2400 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 10/Nov/22 | 12000 | 14000 | 13000 | 11000 |
-| 10/Dec/22 | 23000 | 13000 | 12000 | 10000 |
-| 10/Jan/23 | 3000 | 6000 | 6000 | 5000 |
-| 10/Feb/23 | 3000 | 6000 | 6000 | 5000 |
-| 10/Mar/23 | 10000 | 10000 | 9000 | 8000 |
-| 10/Apr/23 | 18000 | 14000 | 13000 | 11000 |
-| 10/May/23 | 19000 | 15000 | 13500 | 11500 |
-| 10/Jun/23 | 14000 | 12000 | 11000 | 10000 |
-| 10/Jul/23 | 15000 | 12500 | 11500 | 10000 |
-| 10/Aug/23 | 15000 | 13000 | 12000 | 10000 |
-| 10/Sep/23 | 14000 | 13500 | 12500 | 10000 |
-| 10/Oct/23 | 29000 | 15000 | 14000 | 12000 |
-| 10/Nov/23 | 19000 | 14000 | 13000 | 11000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Nov-23 avg | Oct-23 avg | ±% | 2022 | 2021 |

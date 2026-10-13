@@ -55,44 +55,9 @@ For shipping markets, OPEC+'s decision to boost supply has improved sentiment, r
 | 12 mos | Lady Mariella | 2013 |
 | --- | --- | --- |
 |  | $19,800/day |  |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| WS | 60 | 110 | 200 |
-| points | 70 | 120 | 250 |
-| 2/May/24 | 50 | 100 | 200 |
-| 2/Jun/24 | 40 | 90 | 150 |
-| 2/Jul/24 | 30 | 80 | 100 |
-| 2/Aug/24 | 40 | 90 | 120 |
-| 2/Sep/24 | 50 | 100 | 150 |
-| 2/Oct/24 | 60 | 110 | 180 |
-| 2/Nov/24 | 50 | 100 | 160 |
-| 2/Dec/24 | 60 | 110 | 180 |
-| 2/Jan/25 | 50 | 100 | 170 |
-| 2/Feb/25 | 50 | 100 | 160 |
-| 2/Mar/25 |  |  |  |
-| 2/Apr/25 |  |  |  |
-| 2/May/25 |  |  |  |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| WS | 200 | 150 | 250 | 300 |
-| points | 150 | 100 | 200 | 250 |
-| 2/May/24 | 100 | 50 | 150 | 200 |
-| 2/Jun/24 | 75 | 25 | 100 | 150 |
-| 2/Jul/24 | 50 | 0 | 50 | 100 |
-| 2/Aug/24 | 75 | 25 | 100 | 150 |
-| 2/Sep/24 | 100 | 50 | 150 | 200 |
-| 2/Oct/24 | 125 | 75 | 175 | 225 |
-| 2/Nov/24 | 100 | 50 | 150 | 200 |
-| 2/Dec/24 | 125 | 75 | 175 | 225 |
-| 2/Jan/25 | 100 | 50 | 150 | 200 |
-| 2/Feb/25 | 100 | 50 | 150 | 175 |
-| 2/Mar/25 |  |  |  |  |
-| 2/Apr/25 |  |  |  |  |
-| 2/May/25 |  |  |  |  |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 5/2/2025 | 4/25/2025 | ±% | Diff | 2024 | 2023 |
@@ -143,41 +108,9 @@ The daily Aframax TC earnings averaged \$43,726, down by 6.5% w-o-w.
 ### Indicative Period Charters
 
 No Fresh Fixtures to Report
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 2/May/24 | 2500 | 1800 | 1000 | 800 | 1600 |
-| 2/Jun/24 | 2800 | 1700 | 900 | 700 | 1500 |
-| 2/Jul/24 | 3500 | 1600 | 800 | 600 | 1400 |
-| 2/Aug/24 | 3000 | 1500 | 700 | 500 | 1300 |
-| 2/Sep/24 | 3200 | 1400 | 600 | 400 | 1200 |
-| 2/Oct/24 | 2900 | 1300 | 500 | 300 | 1100 |
-| 2/Nov/24 | 2600 | 1200 | 400 | 200 | 1000 |
-| 2/Dec/24 | 2400 | 1100 | 300 | 100 | 900 |
-| 2/Jan/25 | 2200 | 1000 | 200 | 100 | 800 |
-| 2/Feb/25 | 2000 | 900 | 100 | 50 | 700 |
-| 2/Mar/25 | 2300 | 1000 | 150 | 80 | 750 |
-| 2/Apr/25 | 1900 | 900 | 100 | 60 | 700 |
-| 2/May/25 | 1800 | 800 | 90 | 50 | 650 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 2/May/24 | 22000 | 14000 | 10000 | 8000 |
-| 2/Jun/24 | 24000 | 13000 | 9000 | 7000 |
-| 2/Jul/24 | 30000 | 12000 | 8000 | 6000 |
-| 2/Aug/24 | 26000 | 11000 | 7000 | 5000 |
-| 2/Sep/24 | 28000 | 10000 | 6000 | 4000 |
-| 2/Oct/24 | 25000 | 9000 | 5000 | 3000 |
-| 2/Nov/24 | 20000 | 8000 | 4000 | 2000 |
-| 2/Dec/24 | 15000 | 7000 | 3000 | 1000 |
-| 2/Jan/25 | 12000 | 6000 | 2000 | 500 |
-| 2/Feb/25 | 10000 | 5000 | 1000 | 0 |
-| 2/Mar/25 | 14000 | 6000 | 1500 | 500 |
-| 2/Apr/25 | 16000 | 7000 | 2000 | 800 |
-| 2/May/25 | 15000 | 6000 | 1500 | 600 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### TC Rates
 | Sector | Tenor | 5/2/2025 | 4/25/2025 | ±% | Diff | 2024 | 2023 |

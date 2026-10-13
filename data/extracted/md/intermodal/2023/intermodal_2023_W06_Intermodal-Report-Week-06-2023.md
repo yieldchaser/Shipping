@@ -92,40 +92,9 @@ The Baltic Exchange
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | CLEAROCEAN MUSTANG | 2020 | 49,999 dwt | $32,500/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 10/Feb/22 | 0 | 150 | 150 |
-| 10/Mar/22 | 0 | 280 | 200 |
-| 10/Apr/22 | 0 | 280 | 250 |
-| 10/May/22 | 0 | 150 | 150 |
-| 10/Jun/22 | 0 | 150 | 200 |
-| 10/Jul/22 | 0 | 200 | 250 |
-| 10/Aug/22 | 0 | 250 | 300 |
-| 10/Sep/22 | 0 | 200 | 350 |
-| 10/Oct/22 | 0 | 300 | 400 |
-| 10/Nov/22 | 0 | 620 | 400 |
-| 10/Dec/22 | 0 | 300 | 350 |
-| 10/Jan/23 | 0 | 150 | 150 |
-| 10/Feb/23 | 0 | 150 | 150 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 10/Feb/22 | 150 | 150 | 250 | 250 |
-| 10/Mar/22 | 200 | 200 | 300 | 300 |
-| 10/Apr/22 | 450 | 300 | 300 | 300 |
-| 10/May/22 | 250 | 250 | 250 | 250 |
-| 10/Jun/22 | 450 | 300 | 300 | 450 |
-| 10/Jul/22 | 300 | 300 | 300 | 300 |
-| 10/Aug/22 | 200 | 200 | 200 | 200 |
-| 10/Sep/22 | 250 | 250 | 250 | 250 |
-| 10/Oct/22 | 250 | 300 | 300 | 300 |
-| 10/Nov/22 | 300 | 350 | 350 | 400 |
-| 10/Dec/22 | 300 | 450 | 450 | 450 |
-| 10/Jan/23 | 150 | 150 | 150 | 150 |
-| 10/Feb/23 | 150 | 150 | 150 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 10/02/23 | 03/02/23 | ±% | Diff | 2021 | 2020 |
@@ -198,40 +167,9 @@ In the MR2 sector we had the sale of the "SUPER EMERALD" (50,346dwt-blt '05, S. 
 |  | **58K 3yr TC** | 12,500 | 12,500 | 0.0% | 0 | 14,552 | 9,490 |
 | **Handysize** | **32K 1yr TC** | 9,750 | 10,000 | -2.5% | -250 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 11,825 | 8,486 |
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 10/Feb/22 | 2500 | 2800 | 2600 | 1800 | 2400 |
-| 10/Mar/22 | 2700 | 3000 | 2700 | 1900 | 2600 |
-| 10/Apr/22 | 3200 | 3500 | 3100 | 2000 | 3000 |
-| 10/May/22 | 4200 | 4000 | 3800 | 2100 | 3800 |
-| 10/Jun/22 | 4000 | 3800 | 3600 | 2000 | 3600 |
-| 10/Jul/22 | 2800 | 3000 | 2800 | 1700 | 2800 |
-| 10/Aug/22 | 2600 | 2800 | 2600 | 1600 | 2600 |
-| 10/Sep/22 | 2400 | 2600 | 2400 | 1500 | 2400 |
-| 10/Oct/22 | 2300 | 2500 | 2300 | 1500 | 2300 |
-| 10/Nov/22 | 2200 | 2400 | 2200 | 1400 | 2200 |
-| 10/Dec/22 | 2100 | 2300 | 2100 | 1400 | 2100 |
-| 10/Jan/23 | 1800 | 2000 | 1800 | 1300 | 1800 |
-| 10/Feb/23 | 1600 | 1800 | 1600 | 1200 | 1600 |
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 10/Feb/22 | 20000 | 22000 | 21000 | 19000 |
-| 10/Mar/22 | 25000 | 26000 | 25000 | 24000 |
-| 10/Apr/22 | 30000 | 30000 | 29000 | 28000 |
-| 10/May/22 | 32000 | 32000 | 31000 | 30000 |
-| 10/Jun/22 | 35000 | 34000 | 33000 | 32000 |
-| 10/Jul/22 | 25000 | 27000 | 26000 | 23000 |
-| 10/Aug/22 | 15000 | 18000 | 17000 | 14000 |
-| 10/Sep/22 | 5000 | 8000 | 7000 | 6000 |
-| 10/Oct/22 | 16000 | 17000 | 16000 | 15000 |
-| 10/Nov/22 | 17000 | 18000 | 17000 | 16000 |
-| 10/Dec/22 | 16000 | 17000 | 16000 | 15000 |
-| 10/Jan/23 | 10000 | 12000 | 11000 | 9000 |
-| 10/Feb/23 | 8000 | 10000 | 9000 | 8000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -322,41 +260,10 @@ In the Handysize sector we had the sale of the "SHANGHAI PEARL" (36,260dwt-blt '
 
 During the past few days the number of materialized newbuilding contacts that came to light was low with only three deals taking place while no container and LNG deals were recorded. More specifically, the Swiss based Advantage tankers ordered three scrubber fitted dual fuelled 158,000 dwt tankers from the Daehan Shipyard, due to be delivered in 2025. The price is reported at \$79.0 million each. The UAE Emepco FZE ordered four 80,000 dwt tankers from Haidong shipyard in China and they are expected to be delivered in 2025 and 2026. On the bulkers front, the Japanese Doun Kisen concluded a deal for the construction of two 40,500dwt units at Nantong Xiang-yu for an undisclosed price.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 10/Feb/22 | 115 | 75 | 60 | 50 | 42 |
-| 10/Mar/22 | 116 | 76 | 60 | 50 | 42 |
-| 10/Apr/22 | 116 | 77 | 60 | 51 | 42 |
-| 10/May/22 | 117 | 77 | 61 | 52 | 43 |
-| 10/Jun/22 | 118 | 78 | 61 | 53 | 43 |
-| 10/Jul/22 | 118 | 78 | 62 | 54 | 43 |
-| 10/Aug/22 | 119 | 79 | 62 | 54 | 44 |
-| 10/Sep/22 | 120 | 79 | 63 | 55 | 44 |
-| 10/Oct/22 | 120 | 79 | 63 | 55 | 44 |
-| 10/Nov/22 | 120 | 79 | 63 | 55 | 44 |
-| 10/Dec/22 | 120 | 79 | 63 | 55 | 44 |
-| 10/Jan/23 | 120 | 79 | 63 | 55 | 44 |
-| 10/Feb/23 | 120 | 79 | 63 | 55 | 44 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 10/Feb/22 | 60 | 35 | 32 | 30 |
-| 10/Mar/22 | 60 | 35 | 32 | 30 |
-| 10/Apr/22 | 61 | 35 | 32 | 30 |
-| 10/May/22 | 62 | 36 | 33 | 30 |
-| 10/Jun/22 | 62 | 36 | 33 | 30 |
-| 10/Jul/22 | 62 | 36 | 33 | 30 |
-| 10/Aug/22 | 62 | 36 | 33 | 30 |
-| 10/Sep/22 | 61 | 35 | 32 | 29 |
-| 10/Oct/22 | 60 | 34 | 32 | 29 |
-| 10/Nov/22 | 60 | 34 | 31 | 29 |
-| 10/Dec/22 | 60 | 34 | 31 | 29 |
-| 10/Jan/23 | 60 | 34 | 31 | 29 |
-| 10/Feb/23 | 60 | 34 | 31 | 29 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -385,23 +292,7 @@ During the past few days the number of materialized newbuilding contacts that ca
 
 The market in general is firmer as there are increased flows of tonnage for breakers, with India still being the top destination, as Pakistan and Bangladesh are having financial problems and Turkey is devastated by two huge earthquakes and the humanitarian crisis that followed. The increased tonnage is mainly from containers and bulkers as rates are dipping after the Chinese New Year festivities. In India, the budget announcement by the government did not boost steel prices as expected while breakers' offers were stable w-o-w. In Pakistan, the government and the IMF still cannot reach a deal and thus the country is out of the market. Local breakers are trying to acquire credit lines via Middle Eastern banks while the USD/PKR is at 267.02 supporting the steel price rise. In Bangladesh, the financial situation is slightly better than Pakistan. Only selected breakers can open L/Cs and despite the demand that exists, the restrictions lead owners to India. Talks between the IMF and government are for USD 2 - 3 billion, but more money is needed and local breakers are hoping for resolution, to benefit from the increased prices. In Turkey, the devastating back to back earthquakes caused a humanitarian crisis pushing local breakers to the sideline for now. Average prices in the different markets this week for tankers ranged between 310-555/ldt and those for dry bulk units between \$300-545/ldt.
 
-### Tanker Demolition Prices
-
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 10/Feb/22 | 640 | 580 | 670 | 320 |
-| 10/Mar/22 | 670 | 660 | 680 | 440 |
-| 10/Apr/22 | 660 | 670 | 680 | 450 |
-| 10/May/22 | 670 | 670 | 680 | 450 |
-| 10/Jun/22 | 650 | 650 | 650 | 320 |
-| 10/Jul/22 | 560 | 560 | 560 | 250 |
-| 10/Aug/22 | 570 | 570 | 570 | 250 |
-| 10/Sep/22 | 610 | 600 | 590 | 250 |
-| 10/Oct/22 | 620 | 610 | 600 | 250 |
-| 10/Nov/22 | 560 | 560 | 560 | 250 |
-| 10/Dec/22 | 500 | 500 | 500 | 250 |
-| 10/Jan/23 | 510 | 510 | 510 | 280 |
-| 10/Feb/23 | 550 | 550 | 540 | 300 |
+> **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 
 ## Demolition Sales
 

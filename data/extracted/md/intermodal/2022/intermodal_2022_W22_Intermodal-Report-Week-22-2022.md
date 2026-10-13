@@ -112,40 +112,9 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 48.5 | 48.5 | 0.0% | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 37.0 | 36.0 | **2.8%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 34.0 | 32.5 | **4.6%** | 27.6 | 27.5 | 28.6 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 3/jun/21 | 30 | 80 | 80 |
-| 3/jul/21 | 30 | 80 | 90 |
-| 3/aug/21 | 30 | 80 | 90 |
-| 3/sep/21 | 30 | 80 | 100 |
-| 3/oct/21 | 30 | 80 | 110 |
-| 3/nov/21 | 30 | 80 | 110 |
-| 3/dec/21 | 30 | 80 | 100 |
-| 3/jan/22 | 30 | 80 | 100 |
-| 3/feb/22 | 30 | 280 | 100 |
-| 3/mar/22 | 30 | 290 | 280 |
-| 3/apr/22 | 30 | 290 | 290 |
-| 3/may/22 | 30 | 280 | 280 |
-| 3/jun/22 | 30 | 100 | 180 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 3/jun/21 | 100 | 120 | 140 | 140 |
-| 3/jul/21 | 100 | 120 | 140 | 140 |
-| 3/aug/21 | 100 | 120 | 140 | 140 |
-| 3/sep/21 | 100 | 120 | 140 | 140 |
-| 3/oct/21 | 100 | 120 | 140 | 140 |
-| 3/nov/21 | 100 | 120 | 140 | 140 |
-| 3/dec/21 | 100 | 120 | 140 | 160 |
-| 3/jan/22 | 100 | 120 | 140 | 160 |
-| 3/feb/22 | 100 | 120 | 140 | 160 |
-| 3/mar/22 | 100 | 120 | 140 | 300 |
-| 3/apr/22 | 100 | 120 | 140 | 450 |
-| 3/may/22 | 100 | 120 | 140 | 300 |
-| 3/jun/22 | 100 | 120 | 140 | 450 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -183,23 +152,7 @@ In the Suezmax sector we had the sale of the "RIDGEBURY ASTARI" (149,991dwt-bl't
 | --- | --- | --- | --- | --- | --- | --- |
 | 4 to 6 mos | VALENCIA EAGLE | 2015 | 63,556 dwt | New Mangalore 29 May | $39,500/day | Adnoc |
 
-### Baltic Indices (1-Year Trend)
-
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 3/Jun/21 | 3,500 | 3,600 | 3,200 | 1,800 | 3,400 |
-| 3/Jul/21 | 3,800 | 3,700 | 3,300 | 1,900 | 3,700 |
-| 3/Aug/21 | 4,200 | 4,000 | 3,500 | 2,000 | 4,000 |
-| 3/Sep/21 | 5,500 | 4,800 | 3,800 | 2,100 | 5,200 |
-| 3/Oct/21 | 9,500 | 5,500 | 3,900 | 2,000 | 9,000 |
-| 3/Nov/21 | 3,200 | 3,100 | 2,900 | 1,700 | 3,000 |
-| 3/Dec/21 | 2,800 | 2,900 | 2,700 | 1,600 | 2,700 |
-| 3/Jan/22 | 2,500 | 2,700 | 2,500 | 1,500 | 2,500 |
-| 3/Feb/22 | 2,400 | 2,600 | 2,400 | 1,500 | 2,400 |
-| 3/Mar/22 | 2,800 | 2,900 | 2,700 | 1,600 | 2,800 |
-| 3/Apr/22 | 3,000 | 3,100 | 2,900 | 1,700 | 3,000 |
-| 3/May/22 | 4,000 | 3,800 | 3,200 | 1,800 | 4,000 |
-| 3/Jun/22 | 3,000 | 3,000 | 2,900 | 1,700 | 3,000 |
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 
@@ -218,23 +171,7 @@ In the Suezmax sector we had the sale of the "RIDGEBURY ASTARI" (149,991dwt-bl't
 |  | **32K 1yr TC** | 23,750 | 23,000 | **3.3%** | **750** | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 3/Jun/21 | 25000 | 28000 | 27000 | 24000 |
-| 3/Jul/21 | 30000 | 30000 | 29000 | 25000 |
-| 3/Aug/21 | 45000 | 32000 | 30000 | 26000 |
-| 3/Sep/21 | 50000 | 34000 | 31000 | 27000 |
-| 3/Oct/21 | 85000 | 35000 | 32000 | 28000 |
-| 3/Nov/21 | 25000 | 33000 | 30000 | 27000 |
-| 3/Dec/21 | 35000 | 28000 | 27000 | 25000 |
-| 3/Jan/22 | 10000 | 26000 | 25000 | 24000 |
-| 3/Feb/22 | 12000 | 25000 | 24000 | 23000 |
-| 3/Mar/22 | 30000 | 30000 | 29000 | 26000 |
-| 3/Apr/22 | 35000 | 32000 | 31000 | 27000 |
-| 3/May/22 | 38000 | 34000 | 33000 | 28000 |
-| 3/Jun/22 | 25000 | 30000 | 29000 | 26000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -332,41 +269,9 @@ In the Supramax sector we had the sale of the "IVS PINEHURST" (57,811dwt-blt '15
 
 The Dry bulk sector has the lion's share of the previous week's newbuilding contracts. Gas carriers' activity was muted while only one order for four box-ships came to light. Greek owner Safe Bulkers concluded a deal at COSCO Yangzhou for two 82.000dwt Kamsarmax units. CMB FL commissioned COSCO Dalian Shipyard in China for the construction of four 82,000dwt units, meeting TIER III standards and costing about \$40.0m each, that will be delivered within 2024. In addition, four 63,000dwt bulkers have also been assigned for construction at China's New Dayang Shipbuilding for approx. \$33.5m, compliant to NOx TIER III regulations and expected delivery also within 2024. In the wet sector, SC Shipping ordered two stainless steel 7.200dwt tankers at an undisclosed price. The vessels will be built in Wu-chang SB Group in China. Lastly, in the container sector, an order for four 1,800teu vessels was placed by the South Korean owner Pan Ocean, at \$32.2m each, to be delivered in 2024 by Hyundai Mipo.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 3/Jun/21 | 95 | 60 | 45 | 40 | 32 |
-| 3/Jul/21 | 98 | 62 | 47 | 41 | 33 |
-| 3/Aug/21 | 100 | 64 | 48 | 42 | 34 |
-| 3/Sep/21 | 102 | 65 | 49 | 43 | 35 |
-| 3/Oct/21 | 105 | 66 | 50 | 44 | 36 |
-| 3/Nov/21 | 108 | 67 | 51 | 45 | 37 |
-| 3/Dec/21 | 110 | 68 | 52 | 46 | 38 |
-| 3/Jan/22 | 112 | 69 | 53 | 47 | 39 |
-| 3/Feb/22 | 115 | 70 | 54 | 48 | 40 |
-| 3/Mar/22 | 116 | 71 | 55 | 49 | 41 |
-| 3/Apr/22 | 117 | 72 | 56 | 50 | 42 |
-| 3/May/22 | 118 | 73 | 57 | 51 | 43 |
-| 3/Jun/22 | 119 | 74 | 58 | 52 | 44 |
-
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 3/Jun/21 | 55 | 30 | 32 | 25 |
-| 3/Jul/21 | 58 | 31 | 33 | 26 |
-| 3/Aug/21 | 59 | 32 | 34 | 27 |
-| 3/Sep/21 | 60 | 33 | 35 | 28 |
-| 3/Oct/21 | 60 | 34 | 35 | 28 |
-| 3/Nov/21 | 60 | 35 | 36 | 29 |
-| 3/Dec/21 | 60 | 35 | 36 | 29 |
-| 3/Jan/22 | 60 | 36 | 36 | 29 |
-| 3/Feb/22 | 61 | 36 | 36 | 30 |
-| 3/Mar/22 | 61 | 36 | 37 | 30 |
-| 3/Apr/22 | 61 | 36 | 37 | 30 |
-| 3/May/22 | 61 | 37 | 37 | 30 |
-| 3/Jun/22 | 62 | 37 | 37 | 30 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ### Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -399,21 +304,7 @@ The Dry bulk sector has the lion's share of the previous week's newbuilding cont
 
 The demolition market remains shadowed by the uncertainty that the ongoing war has brought to the steel prices and to the overall economic growth slowdown. Breakers' activity was limited with bids concerning mostly small to medium-sized vessels where inventories' shrinkage made it necessary. Yet, average scrap levels across the Indian subcontinent region noted another week of decline despite the continuous shortage of fresh vintage candidates. Bangladesh has taken the leading position from India whose local mills are facing pressure amidst the recent export duty and its effect on steel prices. In Pakistan, declining inventory space has led breakers to seek new tonnage, yet the PKR devaluation coupled with the ongoing economic instability prevents them from increasing their bids. Overall, we may see another week of stability as the ongoing Posidonia events may keep both parties distracted. Average prices in the different markets this week for tankers ranged between 330-610/ldt and those for dry bulk units between \$320-605/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 3/Jun/21 | 540 | 500 | 530 | 290 |
-| 3/Jul/21 | 570 | 550 | 560 | 285 |
-| 3/Aug/21 | 590 | 580 | 580 | 280 |
-| 3/Sep/21 | 595 | 560 | 585 | 285 |
-| 3/Oct/21 | 600 | 590 | 600 | 330 |
-| 3/Nov/21 | 605 | 600 | 605 | 335 |
-| 3/Dec/21 | 600 | 550 | 600 | 340 |
-| 3/Jan/22 | 605 | 560 | 605 | 345 |
-| 3/Feb/22 | 605 | 570 | 600 | 350 |
-| 3/Mar/22 | 660 | 640 | 650 | 450 |
-| 3/Apr/22 | 670 | 650 | 660 | 455 |
-| 3/May/22 | 665 | 655 | 665 | 450 |
-| 3/Jun/22 | 600 | 600 | 600 | 320 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
 
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

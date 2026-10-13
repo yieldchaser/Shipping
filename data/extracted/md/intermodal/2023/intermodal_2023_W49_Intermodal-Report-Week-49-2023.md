@@ -53,38 +53,9 @@ In summary, the Busan International Port Conference provided essential insights 
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 24 mos | LARGO MARINER | 20182023 | 49,992 dwt | $28,000/day | PMI 49,808 dwt Reliance |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 8/Dec/22 | 50 | 280 | 300 |
-| 8/Jan/23 | 50 | 200 | 250 |
-| 8/Feb/23 | 50 | 350 | 380 |
-| 8/Mar/23 | 50 | 250 | 350 |
-| 8/Apr/23 | 50 | 180 | 300 |
-| 8/May/23 | 50 | 150 | 280 |
-| 8/Jul/23 | 50 | 150 | 200 |
-| 8/Aug/23 | 50 | 150 | 150 |
-| 8/Sep/23 | 50 | 150 | 150 |
-| 8/Oct/23 | 50 | 150 | 150 |
-| 8/Nov/23 | 50 | 150 | 150 |
-| 8/Dec/23 | 50 | 150 | 150 |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 8/Dec/22 | 280 | 300 | 450 | 180 |
-| 8/Jan/23 | 100 | 250 | 200 | 150 |
-| 8/Feb/23 | 100 | 150 | 250 | 200 |
-| 8/Mar/23 | 100 | 150 | 450 | 180 |
-| 8/Apr/23 | 100 | 150 | 200 | 150 |
-| 8/May/23 | 100 | 150 | 150 | 150 |
-| 8/Jul/23 | 100 | 150 | 150 | 150 |
-| 8/Aug/23 | 100 | 150 | 150 | 150 |
-| 8/Sep/23 | 100 | 150 | 150 | 150 |
-| 8/Oct/23 | 100 | 150 | 150 | 150 |
-| 8/Nov/23 | 100 | 150 | 150 | 150 |
-| 8/Dec/23 | 100 | 150 | 150 | 150 |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 08/12/23 | 01/12/23 | ±% | Diff | 2022 | 2021 |
@@ -140,39 +111,9 @@ Suezmax T/C earnings averaged \$51,229/day, up + \$2,262/day w-o-w. On the Afram
 | 5 to 7 mos | STAR FLAME | 2011 | 80,448 dwt | dely CJK 5/7 Dec. redel worldwide | $14,250/day | Goldbeam |
 | 3/5 mos | ERACLEA | 2010 | 54,876 dwt | dely Ho Chi Minh 3/7 Dec redel worldwide | $12,000/day | Norden |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 8/Dec/22 | 1500 | 1400 | 1300 | 800 | 1600 |
-| 8/Jan/23 | 2800 | 800 | 800 | 600 | 300 |
-| 8/Feb/23 | 1000 | 900 | 900 | 700 | 800 |
-| 8/Mar/23 | 1200 | 1100 | 1100 | 900 | 1000 |
-| 8/Apr/23 | 2500 | 1500 | 1400 | 1000 | 1800 |
-| 8/May/23 | 2200 | 1600 | 1500 | 1100 | 2000 |
-| 8/Jul/23 | 1800 | 1400 | 1300 | 1000 | 1700 |
-| 8/Aug/23 | 1600 | 1300 | 1200 | 900 | 1500 |
-| 8/Sep/23 | 1700 | 1400 | 1300 | 900 | 1600 |
-| 8/Oct/23 | 3500 | 1800 | 1600 | 1100 | 3200 |
-| 8/Nov/23 | 3000 | 2000 | 1800 | 1200 | 2800 |
-| 8/Dec/23 | 3800 | 3200 | 2000 | 1000 | 3400 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 8/Dec/22 | 18000 | 12000 | 10000 | 8000 |
-| 8/Jan/23 | 5000 | 8000 | 7000 | 6000 |
-| 8/Feb/23 | 3000 | 6000 | 6000 | 5000 |
-| 8/Mar/23 | 14000 | 10000 | 9000 | 7000 |
-| 8/Apr/23 | 19000 | 13000 | 11000 | 8000 |
-| 8/May/23 | 18000 | 14000 | 12000 | 8500 |
-| 8/Jul/23 | 12000 | 11000 | 10000 | 7500 |
-| 8/Aug/23 | 14000 | 12000 | 10000 | 8000 |
-| 8/Sep/23 | 15000 | 13000 | 11000 | 8500 |
-| 8/Oct/23 | 28000 | 16000 | 14000 | 10000 |
-| 8/Nov/23 | 22000 | 18000 | 15000 | 11000 |
-| 8/Dec/23 | 34000 | 20000 | 16000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 08/12/23 | 01/12/23 | ±% | Diff | 2022 | 2021 |

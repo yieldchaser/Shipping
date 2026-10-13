@@ -45,40 +45,9 @@ The bitumen trade primarily operates within regional boundaries, predominantly w
 | --- | --- | --- | --- | --- | --- | --- |
 | 20/22 mos | HAFNIA SWIFT | 2016 | 49,999 dwt | DEL EAST APR/24 | $30,000/day | ST Shipping |
 | 36 mos | MOSSEL BAY | 2024 | 49,999 dwt | DEL WEST MAR/24 | $27,000/day | P66 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 22/Mar/23 | 350 | 160 | 360 |
-| 22/Apr/23 | 80 | 100 | 380 |
-| 22/May/23 | 70 | 150 | 370 |
-| 22/Jun/23 | 60 | 120 | 350 |
-| 22/Jul/23 | 50 | 110 | 320 |
-| 22/Aug/23 | 50 | 100 | 280 |
-| 22/Sep/23 | 60 | 130 | 280 |
-| 22/Oct/23 | 50 | 120 | 270 |
-| 22/Nov/23 | 50 | 110 | 150 |
-| 22/Dec/23 | 50 | 100 | 160 |
-| 22/Jan/24 | 50 | 100 | 390 |
-| 22/Feb/24 | 60 | 100 | 200 |
-| 22/Mar/24 | 60 | 120 | 150 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 22/Mar/23 | 180 | 280 | 420 | 450 |
-| 22/Apr/23 | 150 | 200 | 350 | 300 |
-| 22/May/23 | 140 | 180 | 320 | 280 |
-| 22/Jun/23 | 130 | 160 | 280 | 260 |
-| 22/Jul/23 | 120 | 140 | 240 | 240 |
-| 22/Aug/23 | 110 | 130 | 220 | 220 |
-| 22/Sep/23 | 120 | 150 | 260 | 250 |
-| 22/Oct/23 | 110 | 140 | 230 | 230 |
-| 22/Nov/23 | 100 | 130 | 200 | 210 |
-| 22/Dec/23 | 100 | 120 | 180 | 200 |
-| 22/Jan/24 | 100 | 120 | 350 | 350 |
-| 22/Feb/24 | 110 | 130 | 320 | 330 |
-| 22/Mar/24 | 120 | 140 | 300 | 310 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 22/03/24 | 15/03/24 | ±% | Diff | 2023 | 2022 |
@@ -134,41 +103,9 @@ Suezmax T/C earnings averaged \$37,145/day, marking a slight increase of 4.22% w
 | 24 mos | LOWLANDS SKY | 2023 | 82,281 dwt | dely Tianjin 25/26 Mar redel worldwide | $19,500/day | cnr |
 | 2/4 mos | WOOHYUN SKY | 2010 | 32,312 dwt | dely Krisnapatnam 20/24 Mar redel AG-Japan | $11,500/day | Sea Schiffe |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI |
-| --- | --- | --- | --- | --- |
-| 22/Mar/23 | 1,500 | 1,200 | 1,100 | 800 |
-| 22/Apr/23 | 2,000 | 1,300 | 1,200 | 900 |
-| 22/May/23 | 1,800 | 1,250 | 1,150 | 850 |
-| 22/Jun/23 | 1,600 | 1,100 | 1,000 | 700 |
-| 22/Jul/23 | 1,700 | 1,150 | 1,050 | 750 |
-| 22/Aug/23 | 2,500 | 1,400 | 1,300 | 1,000 |
-| 22/Sep/23 | 3,000 | 2,000 | 1,800 | 1,500 |
-| 22/Oct/23 | 2,800 | 1,900 | 1,700 | 1,400 |
-| 22/Nov/23 | 6,500 | 3,000 | 2,500 | 2,000 |
-| 22/Dec/23 | 3,500 | 2,200 | 2,000 | 1,800 |
-| 22/Jan/24 | 2,000 | 1,500 | 1,400 | 1,100 |
-| 22/Feb/24 | 3,500 | 2,000 | 1,800 | 2,000 |
-| 22/Mar/24 | 4,000 | 2,500 | 2,200 | 2,100 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 22/Mar/23 | 15000 | 10000 | 8000 | 6000 |
-| 22/Apr/23 | 16000 | 11000 | 9000 | 7000 |
-| 22/May/23 | 14000 | 9000 | 7000 | 5000 |
-| 22/Jun/23 | 13000 | 8000 | 6000 | 4000 |
-| 22/Jul/23 | 14000 | 9000 | 7000 | 5000 |
-| 22/Aug/23 | 15000 | 10000 | 8000 | 6000 |
-| 22/Sep/23 | 25000 | 15000 | 12000 | 10000 |
-| 22/Oct/23 | 28000 | 18000 | 14000 | 11000 |
-| 22/Nov/23 | 52000 | 30000 | 25000 | 20000 |
-| 22/Dec/23 | 22000 | 14000 | 11000 | 9000 |
-| 22/Jan/24 | 16000 | 11000 | 9000 | 7000 |
-| 22/Feb/24 | 30000 | 18000 | 15000 | 12000 |
-| 22/Mar/24 | 32000 | 20000 | 16000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 22/03/24 | 15/03/24 | ±% | Diff | 2023 | 2022 |

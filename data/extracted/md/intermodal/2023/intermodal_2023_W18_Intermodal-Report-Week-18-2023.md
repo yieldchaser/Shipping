@@ -115,41 +115,9 @@ Shanghai 200122 China
 | **LR1** | **75KT DH** | 50.0 | 49.3 | **1.5%** | 38.6 | 31.2 | 30.7 |
 | **MR** | **52KT DH** | 41.5 | 41.3 | **0.6%** | 34.8 | 27.6 | 27.5 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 5/May/22 | 100 | 150 | 150 |
-| 5/Jun/22 | 100 | 160 | 200 |
-| 5/Jul/22 | 100 | 170 | 250 |
-| 5/Aug/22 | 100 | 180 | 300 |
-| 5/Sep/22 | 100 | 180 | 300 |
-| 5/Oct/22 | 100 | 170 | 350 |
-| 5/Nov/22 | 100 | 160 | 650 |
-| 5/Dec/22 | 100 | 150 | 600 |
-| 5/Jan/23 | 100 | 140 | 150 |
-| 5/Feb/23 | 100 | 130 | 100 |
-| 5/Mar/23 | 100 | 140 | 350 |
-| 5/Apr/23 | 100 | 130 | 300 |
-| 5/May/23 | 100 | 120 | 100 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 5/May/22 | 300 | 300 | 300 | 300 |
-| 5/Jun/22 | 300 | 350 | 350 | 450 |
-| 5/Jul/22 | 250 | 300 | 300 | 400 |
-| 5/Aug/22 | 250 | 300 | 300 | 350 |
-| 5/Sep/22 | 200 | 250 | 250 | 300 |
-| 5/Oct/22 | 200 | 250 | 250 | 300 |
-| 5/Nov/22 | 200 | 300 | 300 | 400 |
-| 5/Dec/22 | 200 | 350 | 350 | 450 |
-| 5/Jan/23 | 150 | 300 | 300 | 400 |
-| 5/Feb/23 | 100 | 250 | 250 | 350 |
-| 5/Mar/23 | 150 | 300 | 300 | 450 |
-| 5/Apr/23 | 150 | 250 | 250 | 400 |
-| 5/May/23 | 150 | 200 | 200 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -203,41 +171,9 @@ In the Aframax sector we had the sale of the "PS PISA" (108,835dwt-blt '10, Chin
 | **32K 1yr TC** | 12,000 | 12,000 | 12,250 | -2.0% | -250 | 17,827 | 18,354 |
 | **32K 3yr TC** | 10,000 | 10,000 | 10,500 | -4.8% | -500 | 12,322 | 11,825 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 5/May/22 | 2800 | 3100 | 2700 | 1600 | 3000 |
-| 5/Jun/22 | 4500 | 3200 | 2800 | 1500 | 4500 |
-| 5/Jul/22 | 2400 | 2900 | 2600 | 1400 | 2500 |
-| 5/Aug/22 | 2200 | 2700 | 2400 | 1300 | 2300 |
-| 5/Sep/22 | 500 | 2500 | 2200 | 1200 | 400 |
-| 5/Oct/22 | 2000 | 2000 | 1800 | 1100 | 1800 |
-| 5/Nov/22 | 1500 | 1600 | 1400 | 1000 | 1400 |
-| 5/Dec/22 | 1400 | 1500 | 1300 | 1000 | 1300 |
-| 5/Jan/23 | 1300 | 1400 | 1200 | 900 | 1200 |
-| 5/Feb/23 | 800 | 1000 | 900 | 800 | 700 |
-| 5/Mar/23 | 1100 | 1300 | 1100 | 1000 | 1000 |
-| 5/Apr/23 | 1800 | 1600 | 1400 | 1200 | 1700 |
-| 5/May/23 | 2200 | 1700 | 1200 | 1300 | 2100 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 5/May/22 | 28000 | 29000 | 30000 | 29000 |
-| 5/Jun/22 | 35000 | 28000 | 29000 | 27000 |
-| 5/Jul/22 | 25000 | 26000 | 27000 | 26000 |
-| 5/Aug/22 | 18000 | 24000 | 25000 | 24000 |
-| 5/Sep/22 | 5000 | 12000 | 18000 | 15000 |
-| 5/Oct/22 | 16000 | 16000 | 17000 | 16000 |
-| 5/Nov/22 | 15000 | 15000 | 14000 | 14000 |
-| 5/Dec/22 | 14000 | 14000 | 13000 | 13000 |
-| 5/Jan/23 | 22000 | 15000 | 14000 | 13000 |
-| 5/Feb/23 | 8000 | 10000 | 9000 | 8000 |
-| 5/Mar/23 | 12000 | 13000 | 12000 | 11000 |
-| 5/Apr/23 | 18000 | 14000 | 13000 | 12000 |
-| 5/May/23 | 19000 | 14000 | 13000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -344,41 +280,10 @@ In the Handysize sector we had the sale of the “MAESTRO DIAMOND” (36,920dwt-
 
 The shipbuilding market continues to see healthy volumes of activity across all sectors. Last week, there was strong interest in gas carriers, with a total of eight ships being ordered, some at record prices while Greek owners continued to be very active in the newbuilding realm with their orders being concluded across all the sectors spectrum. Specifically, Golden Energy declared an option for a 158,000-dwt tanker for \$77.0m with delivery being expected in 2025. In the bulk carrier sector, Greek owner Meadway Shipping ordered one scrubber fitted 66,200 dwt Ultramax vessel for an undisclosed price and a delivery date of 2026. Finally, Greek owner Dynagas ordered two 200,000 cbm LNG carriers at a record price of \$277.0m each, almost \$15.0m more than the owner paid in January for the same vessel at the same yard.
 
-## Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 5/May/22 | 115 | 75 | 58 | 55 | 42 |
-| 5/Jun/22 | 118 | 78 | 59 | 56 | 43 |
-| 5/Jul/22 | 118 | 79 | 60 | 56 | 43 |
-| 5/Aug/22 | 120 | 80 | 60 | 56 | 43 |
-| 5/Sep/22 | 120 | 80 | 60 | 56 | 43 |
-| 5/Oct/22 | 120 | 80 | 60 | 56 | 43 |
-| 5/Nov/22 | 120 | 80 | 60 | 56 | 43 |
-| 5/Dec/22 | 120 | 80 | 60 | 56 | 43 |
-| 5/Jan/23 | 120 | 80 | 60 | 56 | 43 |
-| 5/Feb/23 | 120 | 79 | 61 | 56 | 44 |
-| 5/Mar/23 | 120 | 79 | 62 | 56 | 44 |
-| 5/Apr/23 | 120 | 79 | 63 | 56 | 44 |
-| 5/May/23 | 120 | 80 | 63 | 56 | 44 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-## Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 5/May/22 | 61 | 34 | 32 | 30 |
-| 5/Jun/22 | 62 | 34 | 33 | 30 |
-| 5/Jul/22 | 62 | 34 | 33 | 30 |
-| 5/Aug/22 | 62 | 34 | 33 | 30 |
-| 5/Sep/22 | 61 | 33 | 32 | 30 |
-| 5/Oct/22 | 60 | 33 | 32 | 30 |
-| 5/Nov/22 | 60 | 32 | 31 | 29 |
-| 5/Dec/22 | 60 | 32 | 31 | 29 |
-| 5/Jan/23 | 60 | 32 | 31 | 29 |
-| 5/Feb/23 | 60 | 32 | 31 | 29 |
-| 5/Mar/23 | 60 | 32 | 31 | 29 |
-| 5/Apr/23 | 60 | 32 | 31 | 29 |
-| 5/May/23 | 60 | 32 | 31 | 29 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -422,21 +327,8 @@ The shipbuilding market continues to see healthy volumes of activity across all 
 
 The demolition market continues to be driven by the steel market, which is not in great shape and this in turn is causing breakers to take a wait and see approach. In India, local steel demand has been weak, but some deals have nevertheless been concluded. The IMF expects a strong economic performance for India this fiscal year, tied with China for growth of 4.6%. The local steel market is in a downturn as prices fall and inventories build up. Prices are expected to remain under pressure. Pakistan remains in a dire financial situation with L/Cs still outstanding and no resolution in sight. There has been no progress in the IMF discussions for the \$6.50 billion loan and the Fund is reviewing next year's budget which will help in the release of the loan. Recycles cannot participate in the market as there are limited USD reserves in the country while the country hopes for a solution. Bangladesh also continues to experience currency problems, leading to a reduction in L/C issuance. Owners are preferring to break in India in HKC yards, as Bangladeshi breakers are offering lower prices overall amid the forex squeeze. In Turkey, local breakers are not taking new business and the market is under pressure as steel prices fall. The industry is waiting for the election results and then looking for guidance. Average prices in the different markets this week for tankers ranged between 330-585/ldt and those for dry bulk units between \$320-575/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 5/May/22 | 660 | 670 | 650 | 420 |
-| 5/Jun/22 | 640 | 650 | 640 | 320 |
-| 5/Jul/22 | 580 | 570 | 560 | 240 |
-| 5/Aug/22 | 570 | 560 | 560 | 250 |
-| 5/Sep/22 | 575 | 565 | 560 | 250 |
-| 5/Oct/22 | 580 | 570 | 565 | 250 |
-| 5/Nov/22 | 585 | 575 | 565 | 250 |
-| 5/Dec/22 | 500 | 500 | 500 | 250 |
-| 5/Jan/23 | 510 | 510 | 510 | 250 |
-| 5/Feb/23 | 550 | 540 | 530 | 260 |
-| 5/Mar/23 | 580 | 560 | 540 | 320 |
-| 5/Apr/23 | 590 | 570 | 550 | 320 |
-| 5/May/23 | 575 | 560 | 500 | 320 |
+> **Chart (not transcribed):** Currencies. The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

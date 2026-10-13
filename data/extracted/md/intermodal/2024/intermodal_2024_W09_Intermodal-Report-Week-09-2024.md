@@ -55,40 +55,9 @@ Overall, Russia's actions highlight the complexity and dynamics at play in the g
 | --- | --- | --- | --- | --- | --- | --- |
 | 1/3 mos | SANMAR SWARA | 2006 | 115,468 dwt | DEL EAST FEB/24 | $20,500/day | ADMIC |
 | 2 mos | SUNFLYTE | 2001 | 37,244 dwt | DEL EAST FEB/24 | $35,000/day | LDC |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 1/Mar/23 | 80 | 150 | 380 |
-| 1/Apr/23 | 80 | 140 | 360 |
-| 1/May/23 | 70 | 130 | 340 |
-| 1/Jun/23 | 70 | 160 | 350 |
-| 1/Jul/23 | 60 | 120 | 180 |
-| 1/Aug/23 | 60 | 110 | 150 |
-| 1/Sep/23 | 50 | 100 | 140 |
-| 1/Oct/23 | 50 | 100 | 280 |
-| 1/Nov/23 | 50 | 110 | 160 |
-| 1/Dec/23 | 50 | 120 | 150 |
-| 1/Jan/24 | 60 | 110 | 140 |
-| 1/Feb/24 | 70 | 130 | 390 |
-| 1/Mar/24 | 80 | 140 | 180 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 1/Mar/23 | 160 | 180 | 170 | 170 |
-| 1/Apr/23 | 450 | 440 | 460 | 450 |
-| 1/May/23 | 150 | 160 | 150 | 150 |
-| 1/Jun/23 | 150 | 160 | 150 | 150 |
-| 1/Jul/23 | 140 | 150 | 140 | 140 |
-| 1/Aug/23 | 140 | 140 | 140 | 140 |
-| 1/Sep/23 | 130 | 140 | 130 | 130 |
-| 1/Oct/23 | 140 | 150 | 140 | 140 |
-| 1/Nov/23 | 150 | 160 | 150 | 150 |
-| 1/Dec/23 | 140 | 150 | 140 | 140 |
-| 1/Jan/24 | 130 | 140 | 130 | 130 |
-| 1/Feb/24 | 360 | 370 | 380 | 370 |
-| 1/Mar/24 | 140 | 150 | 140 | 140 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 01/03/2024 | 23/02/2024 | ±% | Diff | 2023 | 2022 |
@@ -146,41 +115,9 @@ Dry Bulk Market
 | 7/9 mos | JANG MING 82 | 2011 | 58,018 dwt | dely Kwangyang prompt redel PG-Japan | $15,400/day | Ace Pacific |
 | 12 mos | BBG LIUZHOU | 2015 | 82,293 dwt | dely South China 15 Mar redel worldwide | $19,000/day | Louis Dreyfus |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 1/Mar/23 | 1500 | 1200 | 1000 | 800 | 1300 |
-| 1/Apr/23 | 1800 | 1100 | 900 | 700 | 1400 |
-| 1/May/23 | 2000 | 1000 | 800 | 600 | 1500 |
-| 1/Jun/23 | 1200 | 900 | 700 | 500 | 1000 |
-| 1/Jul/23 | 1400 | 900 | 700 | 500 | 1100 |
-| 1/Aug/23 | 1300 | 1000 | 800 | 600 | 1100 |
-| 1/Sep/23 | 2500 | 1400 | 1100 | 900 | 1800 |
-| 1/Oct/23 | 3000 | 1600 | 1300 | 1000 | 2200 |
-| 1/Nov/23 | 2800 | 1500 | 1200 | 950 | 2000 |
-| 1/Dec/23 | 6500 | 3000 | 2800 | 1800 | 3000 |
-| 1/Jan/24 | 2200 | 1400 | 1100 | 800 | 1600 |
-| 1/Feb/24 | 2000 | 1300 | 1000 | 700 | 1500 |
-| 1/Mar/24 | 2100 | 1300 | 1000 | 700 | 1550 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 1/Mar/23 | 14000 | 12000 | 11000 | 10000 |
-| 1/Apr/23 | 16000 | 12000 | 11000 | 10000 |
-| 1/May/23 | 15000 | 11000 | 10000 | 9000 |
-| 1/Jun/23 | 13000 | 10000 | 9000 | 8000 |
-| 1/Jul/23 | 14000 | 10000 | 9000 | 8000 |
-| 1/Aug/23 | 13000 | 10000 | 9000 | 8000 |
-| 1/Sep/23 | 25000 | 14000 | 12000 | 10000 |
-| 1/Oct/23 | 30000 | 16000 | 13000 | 11000 |
-| 1/Nov/23 | 28000 | 15000 | 12000 | 10000 |
-| 1/Dec/23 | 50000 | 18000 | 15000 | 12000 |
-| 1/Jan/24 | 16000 | 13000 | 11000 | 10000 |
-| 1/Feb/24 | 15000 | 12000 | 10000 | 9000 |
-| 1/Mar/24 | 16000 | 12000 | 11000 | 9000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 01/03/2024 | 23/02/2024 | ±% | Diff | 2023 | 2022 |

@@ -64,40 +64,9 @@ In summary, while Chinese steel production will remain constrained for the rest 
 | 12 mos | TURMOIL25,900/day | 2011 | 49,997 dw t Idemitsu |
 | --- | --- | --- | --- |
 | 12 mos | ARISTA RCHOS$ 35,000/day | 2017 | 79,905 dw t Shell |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 2/lun/22 | 100 | 180 | 180 |
-| 2/jul/22 | 150 | 200 | 300 |
-| 2/aug/22 | 100 | 250 | 300 |
-| 2/sep/22 | 80 | 200 | 300 |
-| 2/oct/22 | 60 | 200 | 400 |
-| 2/Nov/22 | 50 | 280 | 600 |
-| 2/Dec/22 | 50 | 280 | 600 |
-| 2/Jan/23 | 40 | 180 | 180 |
-| 2/Feb/23 | 40 | 150 | 200 |
-| 2/Mar/23 | 60 | 150 | 300 |
-| 2/Apr/23 | 50 | 150 | 350 |
-| 2/May/23 | 40 | 150 | 350 |
-| 2/lun/23 | 30 | 150 | 180 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 2/lun/22 | 300 | 350 | 500 | 150 |
-| 2/jul/22 | 250 | 300 | 400 | 200 |
-| 2/aug/22 | 200 | 250 | 350 | 250 |
-| 2/sep/22 | 150 | 200 | 300 | 200 |
-| 2/oct/22 | 100 | 200 | 250 | 200 |
-| 2/Nov/22 | 100 | 300 | 400 | 300 |
-| 2/Dec/22 | 100 | 350 | 450 | 400 |
-| 2/Jan/23 | 100 | 200 | 200 | 150 |
-| 2/Feb/23 | 100 | 150 | 250 | 200 |
-| 2/Mar/23 | 150 | 200 | 300 | 250 |
-| 2/Apr/23 | 150 | 200 | 400 | 350 |
-| 2/May/23 | 150 | 150 | 200 | 200 |
-| 2/lun/23 | 150 | 150 | 150 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 02/06/23 | 26/05/23 | ±% | Diff | 2022 | 2021 |
@@ -151,41 +120,9 @@ Suezmax T/C earnings averaged \$ 49,635/day, down - \$8,868/day w-o-w. On the Af
 | 12 mos | RB JORDANA | 2016 | 81,301 dwt | dely Qinzhou 26 May redel worldwide | $14,000 /day | Chailease |
 | 4 to 6 mos | OSHIMA TRADER | 2021 | 82,226 dwt | dely South China mid June redel worldw | $13,000 /day | Klaveness |
 
-## Baltic Indices
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-| Date | Index | Index |
-| --- | --- | --- |
-| 2/Jun/22 | BCI | BPI |
-| 2/Jul/22 | BCI | BPI |
-| 2/Aug/22 | BCI | BPI |
-| 2/Sep/22 | BCI | BPI |
-| 2/Oct/22 | BCI | BPI |
-| 2/Nov/22 | BCI | BPI |
-| 2/Dec/22 | BCI | BPI |
-| 2/Jan/23 | BCI | BPI |
-| 2/Feb/23 | BCI | BPI |
-| 2/Mar/23 | BCI | BPI |
-| 2/Apr/23 | BCI | BPI |
-| 2/May/23 | BCI | BPI |
-| 2/Jun/23 | BCI | BPI |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 2/Jun/22 |  |  |  |  |
-| 2/Jul/22 |  |  |  |  |
-| 2/Aug/22 |  |  |  |  |
-| 2/Sep/22 |  |  |  |  |
-| 2/Oct/22 |  |  |  |  |
-| 2/Nov/22 |  |  |  |  |
-| 2/Dec/22 |  |  |  |  |
-| 2/Jan/23 |  |  |  |  |
-| 2/Feb/23 |  |  |  |  |
-| 2/Mar/23 |  |  |  |  |
-| 2/Apr/23 |  |  |  |  |
-| 2/May/23 |  |  |  |  |
-| 2/Jun/23 |  |  |  |  |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 02/06/23 | 26/05/23 | ±% | Diff | 2022 | 2021 |

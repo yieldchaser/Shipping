@@ -51,42 +51,9 @@ So the working assumption is no longer just that the Gulf wants calm. Of course 
 | 18 mos | Hafnia Expedite | 2016 |
 | --- | --- | --- |
 |  | $28,000/day |  |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS | WS | WS |
-| 27/Mar/25 | points | points | points |
-| 27/Apr/25 | 50 | 150 | 200 |
-| 27/May/25 | 60 | 140 | 210 |
-| 27/Jun/25 | 70 | 130 | 220 |
-| 27/Jul/25 | 80 | 120 | 230 |
-| 27/Aug/25 | 90 | 110 | 240 |
-| 27/Sep/25 | 100 | 100 | 250 |
-| 27/Oct/25 | 110 | 90 | 260 |
-| 27/Nov/25 | 120 | 80 | 270 |
-| 27/Dec/25 | 130 | 70 | 280 |
-| 27/Jan/26 | 140 | 60 | 290 |
-| 27/Feb/26 | 150 | 50 | 300 |
-| 27/Mar/26 | 400 | 400 | 400 |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS | WS | WS | WS |
-| 27/Mar/25 | points | points | points | points |
-| 27/Apr/25 | 150 | 160 | 170 | 180 |
-| 27/May/25 | 140 | 150 | 160 | 170 |
-| 27/Jun/25 | 130 | 140 | 150 | 160 |
-| 27/Jul/25 | 120 | 130 | 140 | 150 |
-| 27/Aug/25 | 110 | 120 | 130 | 140 |
-| 27/Sep/25 | 100 | 110 | 120 | 130 |
-| 27/Oct/25 | 90 | 100 | 110 | 120 |
-| 27/Nov/25 | 80 | 90 | 100 | 110 |
-| 27/Dec/25 | 70 | 80 | 90 | 100 |
-| 27/Jan/26 | 60 | 70 | 80 | 90 |
-| 27/Feb/26 | 50 | 60 | 70 | 80 |
-| 27/Mar/26 | 300 | 300 | 300 | 300 |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 27/03/2026 | 20/03/2026 | ±% | Diff | 2025 | 2024 |
@@ -142,41 +109,9 @@ Aframaxes saw record-high earnings across most regions, driven primarily by stro
 | 6 to 8 mos | Amaryllis | 2019 | 81,758 dwt | $18,900/day | Swissmarine |
 | 12 mos | CL Heidi | 2016 | 63,572 dwt | $17,250/day | Lynux |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 27/Mar/25 | 2000 | 1500 | 1000 | 800 | 1600 |
-| 27/Apr/25 | 2500 | 1600 | 1100 | 900 | 1700 |
-| 27/May/25 | 3500 | 1700 | 1200 | 1000 | 1800 |
-| 27/Jun/25 | 3500 | 1800 | 1300 | 1100 | 1900 |
-| 27/Jul/25 | 3500 | 1900 | 1400 | 1200 | 2000 |
-| 27/Aug/25 | 3000 | 1800 | 1300 | 1100 | 1900 |
-| 27/Sep/25 | 3000 | 1700 | 1200 | 1000 | 1800 |
-| 27/Oct/25 | 3000 | 1600 | 1100 | 900 | 1700 |
-| 27/Nov/25 | 5000 | 1700 | 1200 | 1000 | 1800 |
-| 27/Dec/25 | 4000 | 1600 | 1100 | 900 | 1700 |
-| 27/Jan/26 | 3000 | 1500 | 1000 | 800 | 1600 |
-| 27/Feb/26 | 2800 | 1500 | 1000 | 800 | 1600 |
-| 27/Mar/26 | 2800 | 1500 | 1000 | 800 | 1600 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 27/Mar/25 | 12000 | 10000 | 9000 | 8000 |
-| 27/Apr/25 | 12000 | 10000 | 9000 | 8000 |
-| 27/May/25 | 25000 | 11000 | 10000 | 9000 |
-| 27/Jun/25 | 10000 | 11000 | 10000 | 9000 |
-| 27/Jul/25 | 10000 | 11000 | 10000 | 9000 |
-| 27/Aug/25 | 10000 | 11000 | 10000 | 9000 |
-| 27/Sep/25 | 10000 | 11000 | 10000 | 9000 |
-| 27/Oct/25 | 10000 | 11000 | 10000 | 9000 |
-| 27/Nov/25 | 42000 | 11000 | 10000 | 9000 |
-| 27/Dec/25 | 10000 | 11000 | 10000 | 9000 |
-| 27/Jan/26 | 18000 | 12000 | 10000 | 9000 |
-| 27/Feb/26 | 22000 | 13000 | 10000 | 9000 |
-| 27/Mar/26 | 22000 | 13000 | 10000 | 9000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### TC Rates
 | Sector | Tenor | 27/03/2026 | 20/03/2026 | ±% | Diff | 2025 | 2024 |

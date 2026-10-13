@@ -40,40 +40,10 @@ In conclusion, the USTR's proposed fees will impact various shipping sectors, wi
 | 12 mos | High Challenge | 2017 |
 | --- | --- | --- |
 |  | $20,500/day |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 25/Apr/24 | 50 | 120 | 180 |
-| 25/May/24 | 60 | 125 | 220 |
-| 25/Jun/24 | 55 | 115 | 230 |
-| 25/Jul/24 | 50 | 110 | 210 |
-| 25/Aug/24 | 45 | 100 | 200 |
-| 25/Sep/24 | 40 | 95 | 220 |
-| 25/Oct/24 | 45 | 100 | 210 |
-| 25/Nov/24 | 50 | 105 | 200 |
-| 25/Dec/24 | 55 | 110 | 190 |
-| 25/Jan/25 | 60 | 115 | 180 |
-| 25/Feb/25 | 65 | 120 | 170 |
-| 25/Mar/25 | 70 | 125 | 160 |
-| 25/Apr/25 | 75 | 130 | 150 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 25/Apr/24 | 200 | 180 | 250 | 280 |
-| 25/May/24 | 190 | 170 | 240 | 270 |
-| 25/Jun/24 | 180 | 160 | 230 | 260 |
-| 25/Jul/24 | 170 | 150 | 220 | 250 |
-| 25/Aug/24 | 160 | 140 | 210 | 240 |
-| 25/Sep/24 | 150 | 130 | 200 | 230 |
-| 25/Oct/24 | 140 | 120 | 190 | 220 |
-| 25/Nov/24 | 130 | 110 | 180 | 210 |
-| 25/Dec/24 | 120 | 100 | 170 | 200 |
-| 25/Jan/25 | 110 | 90 | 160 | 190 |
-| 25/Feb/25 | 100 | 80 | 150 | 180 |
-| 25/Mar/25 | 90 | 70 | 140 | 170 |
-| 25/Apr/25 | 80 | 60 | 130 | 160 |
 ## Spot Rates
 
 | Sector | Size | Routes | 25/04/2025 WS points | 25/04/2025 $/day | 18/04/2025 WS points | 18/04/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
@@ -158,41 +128,9 @@ The Aframax sector displayed mixed dynamics. In the Mediterranean, initial optim
 | **Handysize** | **32K 1yr TC** | 10,500 | 10,500 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 25/Apr/24 | 3000 | 1800 | 1500 | 800 | 1800 |
-| 25/May/24 | 3200 | 1700 | 1400 | 700 | 1700 |
-| 25/Jun/24 | 3500 | 1600 | 1300 | 700 | 1600 |
-| 25/Jul/24 | 3800 | 1500 | 1200 | 600 | 1500 |
-| 25/Aug/24 | 3000 | 1400 | 1100 | 600 | 1400 |
-| 25/Sep/24 | 3200 | 1300 | 1000 | 500 | 1300 |
-| 25/Oct/24 | 2500 | 1200 | 900 | 500 | 1200 |
-| 25/Nov/24 | 2800 | 1100 | 800 | 400 | 1100 |
-| 25/Dec/24 | 1000 | 1000 | 800 | 400 | 1000 |
-| 25/Jan/25 | 1200 | 1000 | 800 | 400 | 1000 |
-| 25/Feb/25 | 1500 | 1100 | 900 | 500 | 1100 |
-| 25/Mar/25 | 1800 | 1200 | 1000 | 600 | 1200 |
-| 25/Apr/25 | 1700 | 1100 | 900 | 500 | 1100 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 25/Apr/24 | 18000 | 15000 | 12000 | 8000 |
-| 25/May/24 | 22000 | 14000 | 11000 | 7000 |
-| 25/Jun/24 | 25000 | 13000 | 10000 | 6000 |
-| 25/Jul/24 | 28000 | 12000 | 9000 | 5000 |
-| 25/Aug/24 | 20000 | 11000 | 8000 | 4000 |
-| 25/Sep/24 | 24000 | 10000 | 7000 | 3000 |
-| 25/Oct/24 | 18000 | 9000 | 6000 | 2000 |
-| 25/Nov/24 | 22000 | 8000 | 5000 | 1000 |
-| 25/Dec/24 | 8000 | 7000 | 4000 | 1000 |
-| 25/Jan/25 | 10000 | 7000 | 4000 | 1000 |
-| 25/Feb/25 | 14000 | 8000 | 5000 | 2000 |
-| 25/Mar/25 | 16000 | 9000 | 6000 | 3000 |
-| 25/Apr/25 | 15000 | 8000 | 5000 | 2000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Apr-25 avg | Mar-25 avg | ±% | 2024 | 2023 | 2022 |

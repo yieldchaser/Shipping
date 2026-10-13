@@ -53,40 +53,9 @@ The key takeaway is that elevated Russian crude exports should be interpreted wi
 ## Indicative Period Charters
 
 No Fresh Fixtures to Report
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 26/Jun/25 | 100 | 150 | 200 |
-| 26/Jul/25 | 100 | 150 | 200 |
-| 26/Aug/25 | 100 | 150 | 200 |
-| 26/Sep/25 | 100 | 150 | 200 |
-| 26/Oct/25 | 100 | 150 | 200 |
-| 26/Nov/25 | 100 | 150 | 200 |
-| 26/Dec/25 | 100 | 150 | 200 |
-| 26/Jan/26 | 200 | 250 | 300 |
-| 26/Feb/26 | 400 | 450 | 950 |
-| 26/Mar/26 | 450 | 450 | 900 |
-| 26/Apr/26 | 400 | 250 | 300 |
-| 26/May/26 | 400 | 250 | 300 |
-| 26/Jun/26 | 400 | 200 | 200 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 26/Jun/25 | 150 | 100 | 200 | 250 |
-| 26/Jul/25 | 150 | 100 | 200 | 250 |
-| 26/Aug/25 | 150 | 100 | 200 | 250 |
-| 26/Sep/25 | 150 | 100 | 200 | 250 |
-| 26/Oct/25 | 150 | 100 | 200 | 250 |
-| 26/Nov/25 | 150 | 100 | 200 | 250 |
-| 26/Dec/25 | 150 | 100 | 200 | 250 |
-| 26/Jan/26 | 200 | 250 | 300 | 350 |
-| 26/Feb/26 | 400 | 300 | 500 | 600 |
-| 26/Mar/26 | 500 | 300 | 600 | 650 |
-| 26/Apr/26 | 500 | 250 | 550 | 600 |
-| 26/May/26 | 500 | 200 | 500 | 550 |
-| 26/Jun/26 | 500 | 150 | 450 | 500 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 19/06/2026 | 12/06/2026 | ±% | Diff | 2025 | 2024 |
@@ -154,41 +123,9 @@ Aframaxes in the Mediterranean faced pressure as tonnage availability increased 
 | **Handysize** | **32K 1yr TC** | 13,500 | 12,500 | **8.0%** | **1,000** | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 26/Jun/25 | 1800 | 1700 | 1400 | 800 | 1600 |
-| 26/Jul/25 | 3500 | 1750 | 1500 | 900 | 1700 |
-| 26/Aug/25 | 3200 | 1700 | 1450 | 950 | 1750 |
-| 26/Sep/25 | 3000 | 1650 | 1400 | 900 | 1700 |
-| 26/Oct/25 | 2800 | 1600 | 1350 | 850 | 1650 |
-| 26/Nov/25 | 5200 | 2600 | 2500 | 1800 | 2600 |
-| 26/Dec/25 | 2500 | 1600 | 1400 | 800 | 1600 |
-| 26/Jan/26 | 2800 | 1700 | 1500 | 900 | 1700 |
-| 26/Feb/26 | 2900 | 1750 | 1550 | 950 | 1750 |
-| 26/Mar/26 | 3000 | 1800 | 1600 | 1000 | 1800 |
-| 26/Apr/26 | 4800 | 2800 | 2600 | 1900 | 2800 |
-| 26/May/26 | 5000 | 3000 | 2700 | 2000 | 3000 |
-| 26/Jun/26 | 1200 | 1600 | 2100 | 700 | 2200 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 26/Jun/25 | 12000 | 14000 | 13000 | 11000 |
-| 26/Jul/25 | 14000 | 14500 | 13500 | 11500 |
-| 26/Aug/25 | 26000 | 15000 | 14000 | 12000 |
-| 26/Sep/25 | 28000 | 15500 | 14500 | 12500 |
-| 26/Oct/25 | 27000 | 15000 | 14000 | 12000 |
-| 26/Nov/25 | 44000 | 16000 | 15000 | 13000 |
-| 26/Dec/25 | 16000 | 12000 | 11000 | 10000 |
-| 26/Jan/26 | 24000 | 14000 | 13000 | 11500 |
-| 26/Feb/26 | 25000 | 14500 | 13500 | 12000 |
-| 26/Mar/26 | 26000 | 15000 | 14000 | 12500 |
-| 26/Apr/26 | 42000 | 17000 | 16000 | 14000 |
-| 26/May/26 | 46000 | 18000 | 17000 | 15000 |
-| 26/Jun/26 | 29000 | 17500 | 16500 | 14500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jun-26 avg | May-26 avg | ±% | 2025 | 2024 |

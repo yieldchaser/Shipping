@@ -113,41 +113,9 @@ Shanghai 200122 China
 | Handy | **36k 1yr TC** | 11,000 | 11,000 | 0.0% | 0 | 13,966 | 13,856 |
 |  | **36k 3yr TC** | 12,250 | 12,250 | 0.0% | 0 | 14,051 | 13,753 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 10/Dec/20 | 50 | 70 | 60 |
-| 10/Jan/21 | 50 | 75 | 65 |
-| 10/Feb/21 | 50 | 100 | 70 |
-| 10/Mar/21 | 50 | 160 | 150 |
-| 10/Apr/21 | 50 | 80 | 100 |
-| 10/May/21 | 50 | 70 | 80 |
-| 10/Jun/21 | 50 | 75 | 85 |
-| 10/Jul/21 | 50 | 70 | 80 |
-| 10/Aug/21 | 50 | 75 | 85 |
-| 10/Sep/21 | 50 | 80 | 90 |
-| 10/Oct/21 | 50 | 85 | 100 |
-| 10/Nov/21 | 50 | 90 | 120 |
-| 10/Dec/21 | 50 | 95 | 150 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 10/Dec/20 | 100 | 110 | 120 | 130 |
-| 10/Jan/21 | 100 | 115 | 125 | 135 |
-| 10/Feb/21 | 100 | 120 | 130 | 140 |
-| 10/Mar/21 | 100 | 130 | 140 | 150 |
-| 10/Apr/21 | 100 | 125 | 135 | 145 |
-| 10/May/21 | 100 | 120 | 130 | 140 |
-| 10/Jun/21 | 100 | 120 | 130 | 140 |
-| 10/Jul/21 | 100 | 120 | 130 | 140 |
-| 10/Aug/21 | 100 | 120 | 130 | 140 |
-| 10/Sep/21 | 100 | 120 | 130 | 140 |
-| 10/Oct/21 | 100 | 120 | 130 | 140 |
-| 10/Nov/21 | 100 | 120 | 130 | 140 |
-| 10/Dec/21 | 100 | 120 | 130 | 300 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Dec-21 avg | Nov-21 avg | ±% | 2020 | 2019 | 2018 |
@@ -212,39 +180,9 @@ In the MR2 sector we had the sale of the "CELSIUS PALERMO" (53,540dwt-blt '10, J
 |  | **32K 1yr TC** | 21,750 | 22,000 | -1.1% | -250 | 8,556 | 9,291 |
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 10/Dec/20 | 1500 | 1500 | 1500 | 1000 | 1500 |
-| 10/Jan/21 | 2000 | 2000 | 1800 | 1200 | 2200 |
-| 10/Feb/21 | 2500 | 2500 | 2200 | 1400 | 2800 |
-| 10/Mar/21 | 3000 | 3000 | 2600 | 1600 | 3500 |
-| 10/Apr/21 | 4000 | 3500 | 2800 | 1500 | 4500 |
-| 10/May/21 | 4500 | 4000 | 3000 | 1600 | 5000 |
-| 10/Jul/21 | 3500 | 3500 | 3200 | 1700 | 4000 |
-| 10/Aug/21 | 3800 | 3600 | 3300 | 1700 | 4200 |
-| 10/Sep/21 | 5500 | 5000 | 3800 | 2000 | 6000 |
-| 10/Oct/21 | 10500 | 5500 | 4000 | 2000 | 10500 |
-| 10/Nov/21 | 2500 | 2800 | 2600 | 1800 | 2800 |
-| 10/Dec/21 | 4500 | 3000 | 2800 | 1800 | 4800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 10/Dec/20 | 15000 | 15000 | 15000 | 15000 |
-| 10/Jan/21 | 20000 | 18000 | 16000 | 15000 |
-| 10/Feb/21 | 25000 | 22000 | 20000 | 16000 |
-| 10/Mar/21 | 30000 | 25000 | 22000 | 17000 |
-| 10/Apr/21 | 40000 | 30000 | 24000 | 17000 |
-| 10/May/21 | 45000 | 35000 | 26000 | 18000 |
-| 10/Jul/21 | 35000 | 32000 | 28000 | 18000 |
-| 10/Aug/21 | 38000 | 34000 | 30000 | 18000 |
-| 10/Sep/21 | 85000 | 40000 | 35000 | 19000 |
-| 10/Oct/21 | 85000 | 40000 | 38000 | 19000 |
-| 10/Nov/21 | 25000 | 28000 | 26000 | 18000 |
-| 10/Dec/21 | 40000 | 30000 | 28000 | 18000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -361,41 +299,10 @@ In the Handysize sector we had the sale of the "WUHU" (39,182dwt-blt '14, China)
 
 The momentum in the newbuilding market remains strong with more gas carrier and container orders surfacing last week. A total of six LNG units were ordered equally separated between Samsung and Hudong Zhonghua ship-yards. One 180,000cbm and two 174,000cbm were ordered at Samsung by Celsius Shipping and JP Morgan respectively while COSCO Shipping inked a deal for the construction of three 174,000cbm vessels through its subsidiary United Liquefied Gas Shipping at Hudong Zhonghua. In addition, Jiangnan yard secured a deal for two firm plus two optional 93,000cbm ammonia carriers from French owner JS &amp; Co. Container contracting activity was also strong; Greek owner Costamare ordered two 13,000teu boxships while exercised options for another two 13,000teu and four 15,000teu units. All vessels will be constructed at Yangzijiang yard with the price remaining undisclosed, while it is rumoured that all ships are linked with a long-term T/C to a leading liner company.
 
-### Bulk Carriers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 10/Dec/20 | 47 | 27 | 27 | 23 |
-| 10/Jan/21 | 48 | 28 | 27 | 23 |
-| 10/Feb/21 | 49 | 28 | 28 | 24 |
-| 10/Mar/21 | 50 | 29 | 28 | 24 |
-| 10/Apr/21 | 52 | 29 | 29 | 25 |
-| 10/May/21 | 54 | 30 | 29 | 25 |
-| 10/Jun/21 | 56 | 31 | 30 | 26 |
-| 10/Jul/21 | 58 | 31 | 31 | 26 |
-| 10/Aug/21 | 59 | 32 | 31 | 27 |
-| 10/Sep/21 | 60 | 32 | 32 | 28 |
-| 10/Oct/21 | 60 | 33 | 32 | 29 |
-| 10/Nov/21 | 60 | 33 | 33 | 30 |
-| 10/Dec/21 | 60 | 33 | 33 | 30 |
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-### Tankers Newbuilding Prices (m$)
-
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 10/Dec/20 | 82 | 54 | 42 | 38 | 33 |
-| 10/Jan/21 | 84 | 56 | 43 | 39 | 34 |
-| 10/Feb/21 | 86 | 58 | 44 | 40 | 34 |
-| 10/Mar/21 | 88 | 59 | 45 | 41 | 35 |
-| 10/Apr/21 | 90 | 60 | 46 | 42 | 35 |
-| 10/May/21 | 92 | 61 | 47 | 43 | 36 |
-| 10/Jun/21 | 94 | 62 | 48 | 44 | 36 |
-| 10/Jul/21 | 96 | 63 | 49 | 45 | 36 |
-| 10/Aug/21 | 98 | 64 | 50 | 46 | 36 |
-| 10/Sep/21 | 100 | 65 | 51 | 47 | 36 |
-| 10/Oct/21 | 102 | 66 | 52 | 48 | 36 |
-| 10/Nov/21 | 104 | 67 | 53 | 48 | 36 |
-| 10/Dec/21 | 106 | 68 | 54 | 49 | 36 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -429,21 +336,8 @@ The momentum in the newbuilding market remains strong with more gas carrier and 
 
 Average scrap prices across the Indian-subcontinent nations fell for another week, with the global steel market volatility weighting down on breakers interest for fresh tonnage. The Indian demolition market was suffered the most, as domestic steel plate prices have lost significant ground in recent weeks. As a result, the gap between India's bid prices and its subcontinent neighbours continued to widen. In Pakistan, PKR continued its downward trajectory against the dollar reaching a new historically low level. This has added significant pressure on breakers who find themselves in a difficult position to maintain their price quotes. Lastly in Bangladesh, buyers retained their conservative approach amid a slowdown in domestic demand. Overall, despite the w-o-w decrease in offered prices, the scarcity of vintage units is acting as a counterweight to a rapid decline in scrap levels. Average scrap prices in the different markets this week for tankers ranged between 330-600/ldt and those for dry bulk units between \$320-590/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 10/Dec/20 | 390 | 395 | 395 | 230 |
-| 10/Jan/21 | 420 | 410 | 420 | 240 |
-| 10/Feb/21 | 410 | 400 | 410 | 245 |
-| 10/Mar/21 | 430 | 420 | 430 | 250 |
-| 10/Apr/21 | 460 | 450 | 460 | 250 |
-| 10/May/21 | 520 | 500 | 510 | 255 |
-| 10/Jun/21 | 550 | 540 | 540 | 260 |
-| 10/Jul/21 | 580 | 560 | 570 | 265 |
-| 10/Aug/21 | 610 | 590 | 600 | 310 |
-| 10/Sep/21 | 620 | 595 | 610 | 315 |
-| 10/Oct/21 | 625 | 590 | 620 | 320 |
-| 10/Nov/21 | 625 | 580 | 625 | 325 |
-| 10/Dec/21 | 620 | 560 | 620 | 330 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Indicative Demolition Prices ($/ldt)
 
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers | Demolition Sales Comments |

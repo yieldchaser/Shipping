@@ -52,40 +52,9 @@ The forecast for the shipping industry suggests an impending pivot towards more 
 | 24 mos | 2009 | 73,338 dwt Clearlake |  | $30,000/day |  |
 | 24 mos | GULF BAYNUNAH | 2008 | 46,522 dwt | $30,500/day | ST Shipping |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 15/Mar/23 | 80 | 160 | 360 |
-| 15/Apr/23 | 70 | 140 | 380 |
-| 15/May/23 | 60 | 380 | 360 |
-| 15/Jun/23 | 60 | 150 | 340 |
-| 15/Jul/23 | 50 | 140 | 280 |
-| 15/Aug/23 | 50 | 130 | 260 |
-| 15/Sep/23 | 50 | 120 | 240 |
-| 15/Oct/23 | 60 | 130 | 250 |
-| 15/Nov/23 | 60 | 140 | 260 |
-| 15/Dec/23 | 60 | 140 | 260 |
-| 15/Jan/24 | 60 | 150 | 380 |
-| 15/Feb/24 | 60 | 150 | 360 |
-| 15/Mar/24 | 70 | 160 | 340 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 15/Mar/23 | 160 | 280 | 440 | 260 |
-| 15/Apr/23 | 140 | 260 | 420 | 240 |
-| 15/May/23 | 140 | 240 | 400 | 220 |
-| 15/Jun/23 | 140 | 220 | 380 | 200 |
-| 15/Jul/23 | 130 | 200 | 360 | 180 |
-| 15/Aug/23 | 130 | 180 | 340 | 160 |
-| 15/Sep/23 | 130 | 160 | 320 | 140 |
-| 15/Oct/23 | 140 | 160 | 300 | 140 |
-| 15/Nov/23 | 140 | 160 | 300 | 140 |
-| 15/Dec/23 | 140 | 160 | 300 | 140 |
-| 15/Jan/24 | 140 | 160 | 300 | 140 |
-| 15/Feb/24 | 260 | 340 | 360 | 300 |
-| 15/Mar/24 | 260 | 340 | 340 | 300 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 15/03/24 | 08/03/24 | ±% | Diff | 2023 | 2022 |
@@ -152,41 +121,9 @@ Aframax T/C earnings averaged \$41,420/day, marking a weekly increase of \$2,097
 | **Handysize** | **32K 1yr TC** | 13,500 | 13,000 | 3.8% | 500 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 15/Mar/23 | 1800 | 1200 | 1000 | 800 | 1500 |
-| 15/Apr/23 | 1900 | 1300 | 1100 | 900 | 1600 |
-| 15/May/23 | 1700 | 1100 | 900 | 700 | 1400 |
-| 15/Jun/23 | 1600 | 1000 | 800 | 600 | 1300 |
-| 15/Jul/23 | 1700 | 1100 | 900 | 700 | 1400 |
-| 15/Aug/23 | 1800 | 1200 | 1000 | 800 | 1500 |
-| 15/Sep/23 | 3000 | 2000 | 1500 | 1200 | 2500 |
-| 15/Oct/23 | 3500 | 2500 | 2000 | 1500 | 3000 |
-| 15/Nov/23 | 4000 | 3000 | 2500 | 2000 | 3500 |
-| 15/Dec/23 | 6500 | 3000 | 3000 | 2500 | 3000 |
-| 15/Jan/24 | 2200 | 1500 | 1200 | 1000 | 1800 |
-| 15/Feb/24 | 2400 | 1600 | 1300 | 1100 | 2000 |
-| 15/Mar/24 | 4000 | 3500 | 2000 | 2000 | 2500 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 15/Mar/23 | 15000 | 14000 | 12000 | 10000 |
-| 15/Apr/23 | 16000 | 15000 | 13000 | 11000 |
-| 15/May/23 | 14000 | 13000 | 11000 | 9000 |
-| 15/Jun/23 | 13000 | 12000 | 10000 | 8000 |
-| 15/Jul/23 | 14000 | 13000 | 11000 | 9000 |
-| 15/Aug/23 | 15000 | 14000 | 12000 | 10000 |
-| 15/Sep/23 | 25000 | 18000 | 16000 | 14000 |
-| 15/Oct/23 | 30000 | 22000 | 20000 | 18000 |
-| 15/Nov/23 | 45000 | 28000 | 25000 | 22000 |
-| 15/Dec/23 | 52000 | 30000 | 28000 | 24000 |
-| 15/Jan/24 | 16000 | 15000 | 13000 | 11000 |
-| 15/Feb/24 | 32000 | 18000 | 16000 | 14000 |
-| 15/Mar/24 | 34000 | 19000 | 17000 | 15000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Mar-24 avg | Feb-24 avg | ±% | 2023 | 2022 |

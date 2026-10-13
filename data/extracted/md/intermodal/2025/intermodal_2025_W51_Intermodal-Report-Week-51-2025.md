@@ -53,44 +53,9 @@ If the war was to end, the dry bulk impact would be felt primarily in route stru
 | 12 mos | Seaways Rio Grande | 2012 |
 | --- | --- | --- |
 |  | $40,000/day |  |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| WS | 60 | 110 | 160 |
-| points | 70 | 120 | 170 |
-| 19/Dec/24 | 80 | 130 | 180 |
-| 19/Jan/25 | 90 | 140 | 190 |
-| 19/Feb/25 | 85 | 135 | 185 |
-| 19/Mar/25 | 75 | 125 | 175 |
-| 19/Apr/25 | 80 | 130 | 180 |
-| 19/May/25 | 90 | 140 | 190 |
-| 19/Jun/25 | 100 | 150 | 200 |
-| 19/Jul/25 | 110 | 160 | 210 |
-| 19/Aug/25 | 120 | 170 | 220 |
-| 19/Sep/25 | 130 | 180 | 230 |
-| 19/Oct/25 |  |  |  |
-| 19/Nov/25 |  |  |  |
-| 19/Dec/25 |  |  |  |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| WS | 110 | 160 | 210 | 260 |
-| points | 120 | 170 | 220 | 270 |
-| 19/Dec/24 | 130 | 180 | 230 | 280 |
-| 19/Jan/25 | 140 | 190 | 240 | 290 |
-| 19/Feb/25 | 135 | 185 | 235 | 285 |
-| 19/Mar/25 | 125 | 175 | 225 | 275 |
-| 19/Apr/25 | 130 | 180 | 230 | 280 |
-| 19/May/25 | 140 | 190 | 240 | 290 |
-| 19/Jun/25 | 150 | 200 | 250 | 300 |
-| 19/Jul/25 | 160 | 210 | 260 | 310 |
-| 19/Aug/25 | 170 | 220 | 270 | 320 |
-| 19/Sep/25 | 180 | 230 | 280 | 330 |
-| 19/Oct/25 |  |  |  |  |
-| 19/Nov/25 |  |  |  |  |
-| 19/Dec/25 |  |  |  |  |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 19/12/2025 | 12/12/2025 | ±% | Diff | 2024 | 2023 |
@@ -143,23 +108,7 @@ The Aframax segment benefited from the firm USG market, lifting TCE earnings 6.6
 ### Indicative Period Charters
 
 No Fresh Period Fixtures
-### Baltic Indices (1-Year Trend)
-
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 19/Dec/24 | 1000 | 1000 | 1000 | 800 | 1000 |
-| 19/Jan/25 | 1500 | 1100 | 1000 | 900 | 1200 |
-| 19/Feb/25 | 2500 | 1200 | 1100 | 950 | 1500 |
-| 19/Mar/25 | 2800 | 1300 | 1200 | 1000 | 1600 |
-| 19/Apr/25 | 2000 | 1400 | 1300 | 1050 | 1700 |
-| 19/May/25 | 1800 | 1500 | 1400 | 1100 | 1800 |
-| 19/Jun/25 | 3500 | 1600 | 1500 | 1200 | 2000 |
-| 19/Jul/25 | 3200 | 1700 | 1600 | 1300 | 2200 |
-| 19/Aug/25 | 3800 | 1800 | 1700 | 1400 | 2400 |
-| 19/Sep/25 | 3000 | 1900 | 1800 | 1500 | 2600 |
-| 19/Oct/25 | 2500 | 2000 | 1900 | 1600 | 2800 |
-| 19/Nov/25 | 3500 | 2100 | 2000 | 1700 | 3000 |
-| 19/Dec/25 | 3800 | 2200 | 2100 | 1800 | 3500 |
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
 ### TC Rates
 | Sector | Tenor | 19/12/2025 | 12/12/2025 | ±% | Diff | 2024 | 2023 |
@@ -177,23 +126,7 @@ No Fresh Period Fixtures
 | **Handysize** | **32K 1yr TC** | 11,750 | 11,750 | 0.0% | 0 | 12,385 | 10,644 |
 | **Handysize** | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 19/Dec/24 | 8000 | 9000 | 10000 | 7000 |
-| 19/Jan/25 | 7500 | 8500 | 9500 | 6500 |
-| 19/Feb/25 | 12000 | 11000 | 10000 | 8000 |
-| 19/Mar/25 | 20000 | 12000 | 11000 | 9000 |
-| 19/Apr/25 | 15000 | 13000 | 12000 | 8500 |
-| 19/May/25 | 14000 | 14000 | 13000 | 8000 |
-| 19/Jun/25 | 28000 | 15000 | 14000 | 8500 |
-| 19/Jul/25 | 25000 | 16000 | 15000 | 9000 |
-| 19/Aug/25 | 30000 | 17000 | 16000 | 9500 |
-| 19/Sep/25 | 26000 | 18000 | 17000 | 10000 |
-| 19/Oct/25 | 24000 | 19000 | 18000 | 10500 |
-| 19/Nov/25 | 40000 | 20000 | 19000 | 11000 |
-| 19/Dec/25 | 45000 | 15000 | 14000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Dec-25 avg | Nov-25 avg | ±% | 2024 | 2023 |

@@ -61,41 +61,9 @@ In conclusion, by pairing tariff leverage with geopolitical strategy, the United
 | Handy | 36k 1yr TC | 16,750 | 16,750 | 0.0% | 0 | 26,606 | 25,760 |
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 19,993 | 18,200 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 15/Aug/24 | 60 | 90 | 100 |
-| 15/Sep/24 | 55 | 85 | 95 |
-| 15/Oct/24 | 50 | 80 | 220 |
-| 15/Nov/24 | 50 | 80 | 100 |
-| 15/Dec/24 | 55 | 85 | 120 |
-| 15/Jan/25 | 60 | 90 | 110 |
-| 15/Feb/25 | 65 | 95 | 115 |
-| 15/Mar/25 | 70 | 100 | 160 |
-| 15/Apr/25 | 75 | 105 | 210 |
-| 15/May/25 | 70 | 100 | 150 |
-| 15/Jun/25 | 65 | 95 | 140 |
-| 15/Jul/25 | 60 | 90 | 130 |
-| 15/Aug/25 | 55 | 85 | 120 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 15/Aug/24 | 120 | 110 | 130 | 110 |
-| 15/Sep/24 | 115 | 105 | 125 | 105 |
-| 15/Oct/24 | 110 | 100 | 280 | 100 |
-| 15/Nov/24 | 110 | 100 | 150 | 110 |
-| 15/Dec/24 | 115 | 105 | 160 | 115 |
-| 15/Jan/25 | 120 | 110 | 170 | 120 |
-| 15/Feb/25 | 125 | 115 | 180 | 125 |
-| 15/Mar/25 | 130 | 120 | 260 | 130 |
-| 15/Apr/25 | 135 | 125 | 280 | 135 |
-| 15/May/25 | 130 | 120 | 170 | 140 |
-| 15/Jun/25 | 125 | 115 | 160 | 135 |
-| 15/Jul/25 | 120 | 110 | 210 | 130 |
-| 15/Aug/25 | 115 | 105 | 120 | 120 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Aug-25 avg | Jul-25 avg | ±% | 2024 | 2023 | 2022 |
@@ -134,40 +102,9 @@ The North Sea lent some support to a mixed week for the Aframax market, which ex
 | --- | --- | --- | --- | --- | --- |
 | 5 to 7 mos | CL Xuchang | 2022 | 61,203 dwt | $16,200/day | cnr |
 
-### Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 15/Aug/24 | 3200 | 1500 | 1200 | 800 | 2500 |
-| 15/Sep/24 | 3500 | 1400 | 1100 | 700 | 3000 |
-| 15/Oct/24 | 2000 | 1000 | 1000 | 600 | 1500 |
-| 15/Nov/24 | 3000 | 900 | 900 | 500 | 1000 |
-| 15/Dec/24 | 1000 | 800 | 800 | 400 | 800 |
-| 15/Jan/25 | 1000 | 700 | 700 | 300 | 700 |
-| 15/Feb/25 | 1000 | 700 | 700 | 300 | 700 |
-| 15/Mar/25 | 1500 | 1000 | 1000 | 500 | 1500 |
-| 15/Apr/25 | 1500 | 1000 | 1000 | 500 | 1500 |
-| 15/May/25 | 1500 | 1000 | 1000 | 500 | 1500 |
-| 15/Jun/25 | 3500 | 1500 | 1500 | 1000 | 3500 |
-| 15/Jul/25 | 3000 | 2000 | 1800 | 1200 | 2500 |
-| 15/Aug/25 | 3200 | 2000 | 1800 | 1000 | 3000 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 15/Aug/24 | 22000 | 14000 | 13000 | 12000 |
-| 15/Sep/24 | 30000 | 13000 | 12000 | 11000 |
-| 15/Oct/24 | 15000 | 12000 | 11000 | 10000 |
-| 15/Nov/24 | 25000 | 11000 | 10000 | 9000 |
-| 15/Dec/24 | 5000 | 7000 | 8000 | 6000 |
-| 15/Jan/25 | 7000 | 7000 | 8000 | 6000 |
-| 15/Feb/25 | 5000 | 6000 | 7000 | 5000 |
-| 15/Mar/25 | 18000 | 9000 | 9000 | 7000 |
-| 15/Apr/25 | 18000 | 9000 | 9000 | 7000 |
-| 15/May/25 | 18000 | 9000 | 9000 | 7000 |
-| 15/Jun/25 | 30000 | 12000 | 11000 | 10000 |
-| 15/Jul/25 | 28000 | 14000 | 13000 | 11000 |
-| 15/Aug/25 | 27000 | 14000 | 13000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### TC Rates
 | Sector | Tenor | 15/08/2025 | 08/08/2025 | ±% | Diff | 2024 | 2023 |

@@ -78,42 +78,9 @@ For the wider shipping industry, the lesson is not to view the Arctic as a repla
 | **Aframax** | **110KT DH** | **62.5** | **62.5** | **0.0%** | 71.0 | 64.4 | 50.5 |
 | **LR1** | 75KT DH | 46.0 | 46.0 | 0.0% | 53.8 | 49.2 | 38.6 |
 | **MR** | **52KT DH** | **42.0** | **40.8** | **3.1%** | 45.8 | 41.4 | 34.8 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| DATE | WS points | WS points | WS points |
-| 22/Aug/24 | 60 | 100 | 120 |
-| 22/Sep/24 | 55 | 95 | 115 |
-| 22/Oct/24 | 220 | 105 | 210 |
-| 22/Nov/24 | 70 | 100 | 130 |
-| 22/Dec/24 | 65 | 110 | 140 |
-| 22/Jan/25 | 60 | 105 | 135 |
-| 22/Feb/25 | 55 | 100 | 125 |
-| 22/Mar/25 | 150 | 120 | 160 |
-| 22/Apr/25 | 70 | 110 | 140 |
-| 22/May/25 | 65 | 105 | 135 |
-| 22/Jun/25 | 50 | 95 | 120 |
-| 22/Jul/25 | 55 | 100 | 125 |
-| 22/Aug/25 | 60 | 105 | 130 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| DATE | WS points | WS points | WS points | WS points |
-| 22/Aug/24 | 100 | 90 | 150 | 140 |
-| 22/Sep/24 | 95 | 85 | 145 | 135 |
-| 22/Oct/24 | 90 | 80 | 280 | 130 |
-| 22/Nov/24 | 100 | 90 | 150 | 140 |
-| 22/Dec/24 | 95 | 85 | 145 | 135 |
-| 22/Jan/25 | 100 | 90 | 150 | 140 |
-| 22/Feb/25 | 95 | 85 | 145 | 135 |
-| 22/Mar/25 | 150 | 180 | 270 | 160 |
-| 22/Apr/25 | 100 | 110 | 150 | 140 |
-| 22/May/25 | 95 | 105 | 145 | 135 |
-| 22/Jun/25 | 80 | 90 | 130 | 120 |
-| 22/Jul/25 | 85 | 95 | 135 | 125 |
-| 22/Aug/25 | 90 | 100 | 140 | 130 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -155,41 +122,9 @@ Aframaxes, however, saw a softer trend in both the Mediterranean and North Sea. 
 | **Handysize** | **32K 1yr TC** | 10,500 | 10,500 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 22/Aug/24 | 3200 | 1400 | 1300 | 800 | 1800 |
-| 22/Sep/24 | 3800 | 1300 | 1200 | 700 | 1700 |
-| 22/Oct/24 | 2800 | 1100 | 1100 | 600 | 1500 |
-| 22/Nov/24 | 2200 | 1000 | 1000 | 500 | 1400 |
-| 22/Dec/24 | 1200 | 900 | 900 | 400 | 800 |
-| 22/Jan/25 | 1000 | 800 | 800 | 300 | 700 |
-| 22/Feb/25 | 1500 | 1000 | 900 | 400 | 1000 |
-| 22/Mar/25 | 2000 | 1200 | 1100 | 500 | 1500 |
-| 22/Apr/25 | 2200 | 1300 | 1200 | 600 | 1600 |
-| 22/May/25 | 2400 | 1400 | 1300 | 700 | 1700 |
-| 22/Jun/25 | 3800 | 1800 | 1800 | 1000 | 2000 |
-| 22/Jul/25 | 3500 | 1900 | 1900 | 1100 | 2100 |
-| 22/Aug/25 | 3200 | 1800 | 1800 | 900 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 22/Aug/24 | 26000 | 13000 | 12000 | 11000 |
-| 22/Sep/24 | 24000 | 12000 | 11000 | 10000 |
-| 22/Oct/24 | 18000 | 11000 | 10000 | 9000 |
-| 22/Nov/24 | 6000 | 7000 | 8000 | 7000 |
-| 22/Dec/24 | 4000 | 6000 | 7000 | 6000 |
-| 22/Jan/25 | 8000 | 7000 | 8000 | 7000 |
-| 22/Feb/25 | 12000 | 9000 | 9000 | 8000 |
-| 22/Mar/25 | 18000 | 11000 | 10000 | 9000 |
-| 22/Apr/25 | 16000 | 10000 | 9000 | 8000 |
-| 22/May/25 | 22000 | 12000 | 11000 | 9000 |
-| 22/Jun/25 | 30000 | 14000 | 13000 | 10000 |
-| 22/Jul/25 | 28000 | 15000 | 14000 | 11000 |
-| 22/Aug/25 | 26000 | 14000 | 13000 | 10000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Aug-25 avg | Jul-25 avg | ±% | 2024 | 2023 |

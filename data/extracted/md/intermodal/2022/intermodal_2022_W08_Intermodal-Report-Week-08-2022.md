@@ -110,41 +110,10 @@ The Baltic Exchange
 | --- | --- | --- | --- | --- | --- |
 | 6 mos | ASAHI PRINCESS | 2009 | 105,372 dwt | $14,000/day | Saudi Aramco |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 25/Feb/21 | 50 | 80 | 150 |
-| 25/Mar/21 | 50 | 70 | 100 |
-| 25/Apr/21 | 50 | 70 | 90 |
-| 25/May/21 | 50 | 70 | 90 |
-| 25/Jun/21 | 50 | 70 | 90 |
-| 25/Jul/21 | 50 | 70 | 90 |
-| 25/Aug/21 | 50 | 70 | 100 |
-| 25/Sep/21 | 50 | 70 | 100 |
-| 25/Oct/21 | 50 | 70 | 150 |
-| 25/Nov/21 | 50 | 70 | 150 |
-| 25/Dec/21 | 50 | 70 | 150 |
-| 25/Jan/22 | 50 | 70 | 150 |
-| 25/Feb/22 | 50 | 70 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 25/Feb/21 | 100 | 100 | 100 | 150 |
-| 25/Mar/21 | 100 | 100 | 100 | 150 |
-| 25/Apr/21 | 100 | 100 | 100 | 150 |
-| 25/May/21 | 100 | 100 | 100 | 150 |
-| 25/Jun/21 | 100 | 100 | 100 | 150 |
-| 25/Jul/21 | 100 | 100 | 100 | 150 |
-| 25/Aug/21 | 100 | 100 | 100 | 150 |
-| 25/Sep/21 | 100 | 100 | 100 | 150 |
-| 25/Oct/21 | 100 | 100 | 100 | 150 |
-| 25/Nov/21 | 100 | 100 | 100 | 300 |
-| 25/Dec/21 | 100 | 100 | 100 | 300 |
-| 25/Jan/22 | 100 | 100 | 100 | 250 |
-| 25/Feb/22 | 100 | 100 | 100 | 250 |
 ## Indicative Market Values ($ Million) - Tankers
 
 | Sector | Size | Feb-22 avg | Jan-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -208,41 +177,9 @@ In the Suezmax sector we had sale of the "ERVIKEN" (152,146dwt-blt '04, S. Korea
 |  | 32K 1yr TC | 23,250 | 23,250 | 0.0% | 0 | 18,354 | 8,356 |
 |  | 32K 3yr TC | 15,000 | 15,000 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 25/Feb/21 | 1,800 | 2,200 | 2,500 | 1,500 | 2,000 |
-| 25/Mar/21 | 2,400 | 2,600 | 2,800 | 1,600 | 2,300 |
-| 25/Apr/21 | 4,800 | 3,200 | 3,000 | 1,700 | 4,500 |
-| 25/May/21 | 3,800 | 3,400 | 3,100 | 1,750 | 3,900 |
-| 25/Jun/21 | 3,500 | 3,300 | 3,000 | 1,700 | 3,600 |
-| 25/Jul/21 | 3,200 | 3,100 | 2,900 | 1,650 | 3,400 |
-| 25/Aug/21 | 5,000 | 4,500 | 3,500 | 1,800 | 5,500 |
-| 25/Sep/21 | 5,800 | 5,200 | 4,000 | 1,900 | 6,000 |
-| 25/Oct/21 | 10,500 | 5,500 | 4,200 | 1,850 | 9,800 |
-| 25/Nov/21 | 4,200 | 3,800 | 3,200 | 1,700 | 4,600 |
-| 25/Dec/21 | 3,900 | 3,500 | 3,000 | 1,650 | 4,300 |
-| 25/Jan/22 | 2,500 | 2,400 | 2,600 | 1,600 | 1,800 |
-| 25/Feb/22 | 2,200 | 2,300 | 2,500 | 1,600 | 1,700 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 25/Feb/21 | 15000 | 20000 | 22000 | 18000 |
-| 25/Mar/21 | 25000 | 24000 | 25000 | 20000 |
-| 25/Apr/21 | 40000 | 28000 | 26000 | 21000 |
-| 25/May/21 | 30000 | 26000 | 25000 | 20000 |
-| 25/Jun/21 | 28000 | 25000 | 24000 | 19000 |
-| 25/Jul/21 | 26000 | 24000 | 23000 | 18000 |
-| 25/Aug/21 | 38000 | 32000 | 30000 | 22000 |
-| 25/Sep/21 | 85000 | 35000 | 32000 | 23000 |
-| 25/Oct/21 | 32000 | 30000 | 28000 | 21000 |
-| 25/Nov/21 | 36000 | 29000 | 27000 | 20000 |
-| 25/Dec/21 | 28000 | 26000 | 24000 | 19000 |
-| 25/Jan/22 | 18000 | 22000 | 23000 | 17000 |
-| 25/Feb/22 | 16000 | 21000 | 22000 | 16000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -341,41 +278,9 @@ In the Supramax sector we had the sale of the "SITC TAISHAN" (58,107dwt-blt '10,
 
 Activity in the newbuilding market resumed last week, with the recently rumored contracts consisting mostly of Container units, while after three weeks of muted bulk carrier contracting action, a notable order came to light last week. More specifically, German owner Oldendorff declared an option for the construction of five conventionally fuelled 82,000dwt Kamsarmax units at Jiangsu New Hantong for a price of excess \$30.0 million each. On the Container front, Eastern Pacific exercised an option from its January initial order for another trio of 7,900teu LNG fuelled neo-panamax boxships at Hyundai Samho. Each vessel will cost around \$118.0 million each, a price, increased by two million compared to the one back in January while all vessels are rumored that were ordered against a 8-year T/C to Zim. In addition, two 7,000teu containers were ordered by CU Lines at Shanghai Waigaoqiao, while Danish owner Celsius Shipping concluded a deal for the construction of two methanol fuelled 3,000teu feeder units at Penglai Jinglu.
 
-## Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 25/Feb/21 | 88 | 56 | 52 | 42 | 30 |
-| 25/Mar/21 | 90 | 58 | 54 | 43 | 31 |
-| 25/Apr/21 | 92 | 60 | 56 | 44 | 32 |
-| 25/May/21 | 94 | 62 | 58 | 45 | 33 |
-| 25/Jun/21 | 96 | 64 | 60 | 46 | 34 |
-| 25/Jul/21 | 100 | 66 | 62 | 47 | 35 |
-| 25/Aug/21 | 102 | 68 | 64 | 48 | 36 |
-| 25/Sep/21 | 105 | 70 | 66 | 49 | 37 |
-| 25/Oct/21 | 108 | 72 | 68 | 50 | 38 |
-| 25/Nov/21 | 110 | 74 | 70 | 51 | 39 |
-| 25/Dec/21 | 112 | 76 | 72 | 52 | 40 |
-| 25/Jan/22 | 115 | 78 | 74 | 53 | 41 |
-| 25/Feb/22 | 118 | 80 | 76 | 54 | 42 |
-
-## Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 25/Feb/21 | 50 | 28 | 26 | 22 |
-| 25/Mar/21 | 52 | 29 | 27 | 23 |
-| 25/Apr/21 | 54 | 30 | 28 | 24 |
-| 25/May/21 | 56 | 31 | 29 | 25 |
-| 25/Jun/21 | 58 | 32 | 30 | 26 |
-| 25/Jul/21 | 60 | 33 | 31 | 27 |
-| 25/Aug/21 | 60 | 34 | 32 | 27 |
-| 25/Sep/21 | 60 | 34 | 32 | 28 |
-| 25/Oct/21 | 60 | 35 | 33 | 28 |
-| 25/Nov/21 | 60 | 35 | 33 | 28 |
-| 25/Dec/21 | 60 | 35 | 33 | 28 |
-| 25/Jan/22 | 60 | 35 | 33 | 28 |
-| 25/Feb/22 | 60 | 35 | 33 | 28 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -409,21 +314,8 @@ Activity in the newbuilding market resumed last week, with the recently rumored 
 
 The cloud of uncertainty that the Russian-Ukraine war has brought to the world could not but affect the demolition shipping industry. Imposed sanctions on Russia could further restrict the number of available demo candidates, while volatility is expected in the steel trade outlook with Russia holding a major role in world steel production. Under these circumstances, breakers were in a quandary determining the risk weight of exposures in securing large ldt units, which resulted in a slower activity in the demolition realm. However, with the exception of Pakistani breakers who have followed a more conservative approach, both Bangladeshi and Indian buyers' appetite for well-positioned units was strong, with the latter eying on a steel export rise amidst the recent imposed sanctions. Lastly, the possibility of a supply scrap disruption between Russia and Turkey will have a marked effect on imported steel prices and subsequently on offered ship-scrapping levels from breakers. Average prices in the different markets this week for tankers ranged between 370-650/ldt and those for dry bulk units between \$360-635/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 25/Feb/21 | 430 | 430 | 430 | 250 |
-| 25/Mar/21 | 470 | 460 | 460 | 250 |
-| 25/Apr/21 | 520 | 500 | 510 | 250 |
-| 25/May/21 | 540 | 510 | 540 | 280 |
-| 25/Jun/21 | 560 | 550 | 550 | 280 |
-| 25/Jul/21 | 590 | 570 | 580 | 280 |
-| 25/Aug/21 | 600 | 580 | 590 | 280 |
-| 25/Sep/21 | 600 | 580 | 590 | 280 |
-| 25/Oct/21 | 610 | 590 | 600 | 300 |
-| 25/Nov/21 | 610 | 560 | 600 | 300 |
-| 25/Dec/21 | 610 | 550 | 600 | 320 |
-| 25/Jan/22 | 640 | 600 | 610 | 340 |
-| 25/Feb/22 | 650 | 610 | 620 | 360 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

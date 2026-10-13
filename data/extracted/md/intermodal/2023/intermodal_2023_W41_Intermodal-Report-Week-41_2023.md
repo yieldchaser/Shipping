@@ -52,40 +52,9 @@ It is evident that for India, which generates approximately 70% of its electrici
 | --- | --- | --- | --- | --- | --- | --- |
 | 60 mos | RICH RAINBOW |  | 49,999 dwt | DEL EAST OCT/23 | $22,500/day |  |
 | 24 mos | HECTOR N | 2008 | 51,246 dwt | DEL WEST | $21,000/day | Shell |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 13/Oct/22 | 100 | 200 | 300 |
-| 13/Nov/22 | 100 | 300 | 600 |
-| 13/Dec/22 | 100 | 600 | 600 |
-| 13/Jan/23 | 100 | 200 | 200 |
-| 13/Feb/23 | 100 | 200 | 300 |
-| 13/Mar/23 | 100 | 200 | 300 |
-| 13/Apr/23 | 100 | 100 | 300 |
-| 13/May/23 | 100 | 100 | 100 |
-| 13/Jun/23 | 100 | 100 | 100 |
-| 13/Jul/23 | 100 | 100 | 100 |
-| 13/Aug/23 | 100 | 100 | 100 |
-| 13/Sep/23 | 100 | 100 | 100 |
-| 13/Oct/23 | 100 | 100 | 100 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 13/Oct/22 | 200 | 300 | 400 | 500 |
-| 13/Nov/22 | 300 | 400 | 400 | 500 |
-| 13/Dec/22 | 300 | 400 | 400 | 500 |
-| 13/Jan/23 | 100 | 100 | 100 | 200 |
-| 13/Feb/23 | 100 | 100 | 300 | 400 |
-| 13/Mar/23 | 100 | 100 | 400 | 500 |
-| 13/Apr/23 | 100 | 100 | 400 | 500 |
-| 13/May/23 | 100 | 100 | 100 | 200 |
-| 13/Jun/23 | 100 | 100 | 100 | 200 |
-| 13/Jul/23 | 100 | 100 | 100 | 200 |
-| 13/Aug/23 | 100 | 100 | 100 | 200 |
-| 13/Sep/23 | 100 | 100 | 300 | 300 |
-| 13/Oct/23 | 100 | 100 | 300 | 300 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 13/10/23 | 06/10/23 | ±% | Diff | 2022 | 2021 |
@@ -163,41 +132,9 @@ Suezmax T/C earnings averaged \$22,092/day, up + \$23,628/day w-o-w. On the Afra
 | **Handysize** | **32K 1yr TC** | 10,250 | 10,250 | 0.0% | 0 | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 13/Oct/22 | 2000 | 1800 | 1600 | 1000 | 2000 |
-| 13/Nov/22 | 1500 | 1400 | 1200 | 900 | 1500 |
-| 13/Dec/22 | 2500 | 1000 | 1000 | 800 | 2800 |
-| 13/Jan/23 | 1200 | 700 | 800 | 700 | 1000 |
-| 13/Feb/23 | 1400 | 800 | 900 | 750 | 1200 |
-| 13/Mar/23 | 1800 | 1600 | 1400 | 800 | 1800 |
-| 13/Apr/23 | 2000 | 1700 | 1500 | 850 | 1900 |
-| 13/May/23 | 2200 | 1800 | 1600 | 900 | 2000 |
-| 13/Jun/23 | 1800 | 1500 | 1300 | 800 | 1600 |
-| 13/Jul/23 | 1700 | 1400 | 1200 | 750 | 1500 |
-| 13/Aug/23 | 1600 | 1400 | 1300 | 700 | 1600 |
-| 13/Sep/23 | 1700 | 1500 | 1400 | 750 | 1800 |
-| 13/Oct/23 | 3500 | 1900 | 1900 | 800 | 3500 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 13/Oct/22 | 18000 | 17000 | 14000 | 12000 |
-| 13/Nov/22 | 12000 | 11000 | 10000 | 9000 |
-| 13/Dec/22 | 22000 | 10000 | 9000 | 8000 |
-| 13/Jan/23 | 3000 | 6000 | 7000 | 6000 |
-| 13/Feb/23 | 8000 | 8000 | 7500 | 6500 |
-| 13/Mar/23 | 15000 | 14000 | 11000 | 10000 |
-| 13/Apr/23 | 19000 | 15000 | 12000 | 10500 |
-| 13/May/23 | 20000 | 14000 | 11000 | 9500 |
-| 13/Jun/23 | 12000 | 11000 | 10000 | 8500 |
-| 13/Jul/23 | 14000 | 12000 | 11000 | 9000 |
-| 13/Aug/23 | 14000 | 13000 | 12000 | 9500 |
-| 13/Sep/23 | 15000 | 14000 | 13000 | 10000 |
-| 13/Oct/23 | 28000 | 15000 | 14000 | 10500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Oct-23 avg | Sep-23 avg | ±% | 2022 | 2021 | 2020 |

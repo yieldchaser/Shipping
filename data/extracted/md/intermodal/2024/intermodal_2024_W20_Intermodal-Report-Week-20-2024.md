@@ -49,40 +49,9 @@ Yet, the most probable scenario for the U.S. dollar in the near term is one of c
 | DEL EAST MAY/24 | $24,500/day |  | Huyn dai Oilbank |
 | 5 yrs | BW EGRET | 2014 | 49,999 dwt |
 | DEL WEST MAY/24 | $38,000/day |  | Weco Tankers |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 24/May/23 | 50 | 120 | 150 |
-| 24/Jun/23 | 60 | 110 | 160 |
-| 24/Jul/23 | 55 | 100 | 140 |
-| 24/Aug/23 | 50 | 90 | 130 |
-| 24/Sep/23 | 45 | 80 | 280 |
-| 24/Oct/23 | 50 | 150 | 250 |
-| 24/Nov/23 | 55 | 140 | 200 |
-| 24/Dec/23 | 60 | 130 | 380 |
-| 24/Jan/24 | 50 | 120 | 400 |
-| 24/Feb/24 | 55 | 110 | 200 |
-| 24/Mar/24 | 60 | 100 | 150 |
-| 24/Apr/24 | 65 | 100 | 140 |
-| 24/May/24 | 70 | 110 | 130 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 24/May/23 | 150 | 160 | 170 | 180 |
-| 24/Jun/23 | 140 | 150 | 160 | 170 |
-| 24/Jul/23 | 130 | 140 | 150 | 160 |
-| 24/Aug/23 | 120 | 130 | 140 | 150 |
-| 24/Sep/23 | 110 | 120 | 130 | 140 |
-| 24/Oct/23 | 100 | 110 | 120 | 130 |
-| 24/Nov/23 | 90 | 100 | 110 | 120 |
-| 24/Dec/23 | 80 | 90 | 100 | 110 |
-| 24/Jan/24 | 70 | 80 | 90 | 100 |
-| 24/Feb/24 | 60 | 70 | 80 | 90 |
-| 24/Mar/24 | 50 | 60 | 70 | 80 |
-| 24/Apr/24 | 40 | 50 | 60 | 70 |
-| 24/May/24 | 30 | 40 | 50 | 60 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 24/05/24 | 17/05/24 | ±% | Diff | 2023 | 2022 |
@@ -135,41 +104,9 @@ In the crude freight market, the BDTI closed at 1,234 points on Friday. This lev
 | 4/6 months |  |  | Louis Dreyfus | - | $14,500/day |  |
 | 4/6 mos | LILA SEOUL | 2012 | 79,454 dwt | dely Qingdao 20 May redel worldwide | $16,000/day | Aquavita |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI |
-| --- | --- | --- | --- | --- |
-| 24/May/23 | 1,500 | 1,200 | 1,000 | 1,000 |
-| 24/Jun/23 | 1,600 | 1,300 | 1,100 | 1,100 |
-| 24/Jul/23 | 2,000 | 1,500 | 1,300 | 1,200 |
-| 24/Aug/23 | 2,500 | 1,800 | 1,500 | 1,400 |
-| 24/Sep/23 | 3,000 | 2,200 | 1,800 | 1,600 |
-| 24/Oct/23 | 3,500 | 2,800 | 2,200 | 2,000 |
-| 24/Nov/23 | 6,500 | 3,000 | 3,000 | 2,500 |
-| 24/Dec/23 | 5,000 | 2,500 | 2,500 | 2,200 |
-| 24/Jan/24 | 2,000 | 1,500 | 1,400 | 1,300 |
-| 24/Feb/24 | 3,000 | 2,000 | 1,800 | 1,600 |
-| 24/Mar/24 | 3,500 | 2,200 | 2,000 | 1,800 |
-| 24/Apr/24 | 2,500 | 1,800 | 1,600 | 1,500 |
-| 24/May/24 | 2,200 | 1,600 | 1,400 | 1,400 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 24/May/23 | 12,000 | 10,000 | 8,000 | 6,000 |
-| 24/Jun/23 | 13,000 | 11,000 | 9,000 | 7,000 |
-| 24/Jul/23 | 15,000 | 12,000 | 10,000 | 8,000 |
-| 24/Aug/23 | 18,000 | 14,000 | 11,000 | 9,000 |
-| 24/Sep/23 | 25,000 | 20,000 | 15,000 | 12,000 |
-| 24/Oct/23 | 30,000 | 25,000 | 18,000 | 14,000 |
-| 24/Nov/23 | 50,000 | 20,000 | 15,000 | 10,000 |
-| 24/Dec/23 | 40,000 | 18,000 | 14,000 | 9,000 |
-| 24/Jan/24 | 15,000 | 12,000 | 10,000 | 8,000 |
-| 24/Feb/24 | 30,000 | 18,000 | 15,000 | 12,000 |
-| 24/Mar/24 | 35,000 | 20,000 | 16,000 | 13,000 |
-| 24/Apr/24 | 20,000 | 15,000 | 12,000 | 10,000 |
-| 24/May/24 | 22,000 | 16,000 | 13,000 | 11,000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 24/05/24 | 17/05/24 | ±% | Diff | 2023 | 2022 |

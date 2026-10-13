@@ -107,41 +107,9 @@ Shanghai 200122 China
 | Handy | 36k 1yr TC | 10,250 | 10,250 | 0.0% | 0 | 13,966 |
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 14,051 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 10/Sep/20 | 50 | 60 | 50 |
-| 10/Oct/20 | 45 | 55 | 45 |
-| 10/Nov/20 | 40 | 50 | 40 |
-| 10/Dec/20 | 35 | 45 | 35 |
-| 10/Jan/21 | 30 | 40 | 30 |
-| 10/Feb/21 | 25 | 35 | 150 |
-| 10/Mar/21 | 20 | 30 | 160 |
-| 10/Apr/21 | 15 | 25 | 100 |
-| 10/May/21 | 10 | 20 | 80 |
-| 10/Jun/21 | 5 | 15 | 70 |
-| 10/Jul/21 | 0 | 10 | 60 |
-| 10/Aug/21 | -5 | 5 | 50 |
-| 10/Sep/21 | -10 | 0 | 40 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 10/Sep/20 | 150 | 140 | 130 | 120 |
-| 10/Oct/20 | 145 | 135 | 125 | 115 |
-| 10/Nov/20 | 140 | 130 | 120 | 110 |
-| 10/Dec/20 | 135 | 125 | 115 | 105 |
-| 10/Jan/21 | 130 | 120 | 110 | 100 |
-| 10/Feb/21 | 125 | 115 | 105 | 95 |
-| 10/Mar/21 | 120 | 110 | 100 | 90 |
-| 10/Apr/21 | 115 | 105 | 95 | 85 |
-| 10/May/21 | 110 | 100 | 90 | 80 |
-| 10/Jun/21 | 105 | 95 | 85 | 75 |
-| 10/Jul/21 | 100 | 90 | 80 | 70 |
-| 10/Aug/21 | 95 | 85 | 75 | 65 |
-| 10/Sep/21 | 90 | 80 | 70 | 60 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Sep-21 avg | Aug-21 avg | ±% | 2020 | 2019 | 2018 |
@@ -204,41 +172,9 @@ In the MR sector we had the sale of the "ANGEL NO. 5" (46,829dwt-blt '09, China)
 |  | **32K 1yr TC** | 24,750 | 24,750 | 0.0% | 0 | 8,556 | 9,291 |
 |  | **32K 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 8,686 | 9,291 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 10/Sep/20 | 2,200 | 1,600 | 1,500 | 2,000 | 3,800 |
-| 10/Oct/20 | 4,000 | 1,700 | 1,600 | 1,800 | 4,200 |
-| 10/Nov/20 | 1,700 | 1,650 | 1,550 | 1,700 | 3,500 |
-| 10/Dec/20 | 1,600 | 1,600 | 1,500 | 1,600 | 3,400 |
-| 10/Jan/21 | 1,700 | 1,650 | 1,550 | 1,650 | 3,500 |
-| 10/Feb/21 | 2,000 | 2,100 | 1,800 | 1,700 | 3,600 |
-| 10/Mar/21 | 2,800 | 2,600 | 2,200 | 1,800 | 3,800 |
-| 10/Apr/21 | 3,000 | 2,700 | 2,400 | 1,700 | 4,000 |
-| 10/May/21 | 4,500 | 3,200 | 2,800 | 1,800 | 5,000 |
-| 10/Jun/21 | 3,500 | 3,400 | 3,000 | 1,900 | 4,200 |
-| 10/Jul/21 | 3,600 | 3,500 | 3,100 | 1,900 | 4,500 |
-| 10/Aug/21 | 3,400 | 3,400 | 3,200 | 1,900 | 4,800 |
-| 10/Sep/21 | 3,300 | 3,300 | 3,200 | 1,900 | 6,000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 10/Sep/20 | 10,000 | 10,000 | 10,000 | 10,000 |
-| 10/Oct/20 | 34,000 | 10,000 | 10,000 | 10,000 |
-| 10/Nov/20 | 10,000 | 10,000 | 10,000 | 10,000 |
-| 10/Dec/20 | 10,000 | 10,000 | 10,000 | 10,000 |
-| 10/Jan/21 | 10,000 | 10,000 | 10,000 | 10,000 |
-| 10/Feb/21 | 24,000 | 15,000 | 15,000 | 10,000 |
-| 10/Mar/21 | 26,000 | 20,000 | 20,000 | 12,000 |
-| 10/Apr/21 | 24,000 | 20,000 | 20,000 | 12,000 |
-| 10/May/21 | 44,000 | 25,000 | 22,000 | 13,000 |
-| 10/Jun/21 | 32,000 | 30,000 | 30,000 | 14,000 |
-| 10/Jul/21 | 34,000 | 31,000 | 32,000 | 14,000 |
-| 10/Aug/21 | 35,000 | 34,000 | 34,000 | 14,000 |
-| 10/Sep/21 | 48,000 | 35,000 | 36,000 | 14,000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -340,41 +276,10 @@ In the Supramax sector we had the sale of the "ATALANTI SB" (56,019dwt-blt '06, 
 
 In contrast to the previous week's activity where a total of 41 boxships were ordered summing the whooping number of approximately 50,500teu, the recent newbuilding activity did not include any container contract. Last week, we saw a decent number of bulker units being concluded; Norwegian owner Golden Ocean inked a deal for the construction of three dual fuelled 85,000dwt Kamsarmax units at DSIC for a price of around \$34.0 million each. Furthermore, it was a very active week for Ciner Shipping; the Turkish owner concluded a deal for the construction of three conventionally fuelled 88,800dwt units at Chengxi shipyard for a price of around \$34.0 million each and four 63,000 Ultramax vessels at New Dayang for an undisclosed price. In the tanker sector, we have observed another week of muted crude carrier activity. Only one order for one firm plus one optional 37,000dwt asphalt/bitumen carrier was materialized last week. The vessel will be constructed at Chgenxi yard on behalf of Vitol, its price is estimated at around \$39.0 million while it will use conventional fuels as well. Lastly, four 174,000cbm LNG units were ordered by Mitsui OSK Lines at DSME yard against a time charter to Russian giant Novatek.
 
-## Bulk Carriers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 10/Sep/20 | 48 | 28 | 27 | 20 |
-| 10/Oct/20 | 48 | 28 | 27 | 20 |
-| 10/Nov/20 | 48 | 28 | 27 | 20 |
-| 10/Dec/20 | 48 | 28 | 27 | 20 |
-| 10/Jan/21 | 49 | 28 | 27 | 20 |
-| 10/Feb/21 | 50 | 29 | 27 | 20 |
-| 10/Mar/21 | 51 | 29 | 28 | 21 |
-| 10/Apr/21 | 52 | 30 | 28 | 21 |
-| 10/May/21 | 54 | 30 | 28 | 22 |
-| 10/Jun/21 | 56 | 31 | 29 | 22 |
-| 10/Jul/21 | 58 | 31 | 29 | 23 |
-| 10/Aug/21 | 59 | 32 | 30 | 23 |
-| 10/Sep/21 | 60 | 32 | 30 | 24 |
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-## Tankers Newbuilding Prices (m$)
-
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 10/Sep/20 | 85 | 56 | 45 | 40 | 32 |
-| 10/Oct/20 | 85 | 56 | 45 | 40 | 32 |
-| 10/Nov/20 | 85 | 56 | 45 | 40 | 32 |
-| 10/Dec/20 | 86 | 57 | 46 | 40 | 32 |
-| 10/Jan/21 | 87 | 58 | 46 | 41 | 33 |
-| 10/Feb/21 | 88 | 59 | 47 | 41 | 33 |
-| 10/Mar/21 | 89 | 60 | 47 | 42 | 34 |
-| 10/Apr/21 | 90 | 61 | 48 | 42 | 34 |
-| 10/May/21 | 91 | 62 | 48 | 43 | 34 |
-| 10/Jun/21 | 92 | 63 | 49 | 44 | 34 |
-| 10/Jul/21 | 94 | 64 | 49 | 45 | 35 |
-| 10/Aug/21 | 96 | 65 | 50 | 46 | 36 |
-| 10/Sep/21 | 98 | 66 | 50 | 47 | 36 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -408,23 +313,7 @@ In contrast to the previous week's activity where a total of 41 boxships were or
 
 The overall sentiment in the demolition market remains stable as the scarcity of vintage tonnage does not grant the space for any meaningful scrap price reduction despite a quieter trade activity in both the Bangladesh and India. Indeed, Bangladeshi buyers' conservative approach was continued during the past days with a shorter number of offers coming to light. A slower pace has also been perceived in the Indian market where steel plate prices fell w-o-w. In contrast to the approach of their neighbors, Pakistani buyers' appetite remained robust; it seems that they are more and more determined to lead the Indian subcontinent market for the rest of the year. Having said that, breakers in the region have started to adopt the \$600/ldt mark as the new benchmark for tonnage acquisition with most of the bids from the most aggressive Pakistani buyers now circulating at levels above \$600. All in all, we expect scrap steel demand to remain healthy in the remaining months of the year which coupled with the shortage of candidates will retain the current high scrap levels. Average scrap prices in the different markets this week for tankers ranged between 280-590/ldt and those for dry bulk units between \$270-580/ldt.
 
-### Tanker Demolition Prices
-
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 10/Sep/20 | 350 | 340 | 360 | 200 |
-| 10/Oct/20 | 360 | 350 | 365 | 210 |
-| 10/Nov/20 | 400 | 380 | 400 | 220 |
-| 10/Dec/20 | 430 | 410 | 420 | 280 |
-| 10/Jan/21 | 450 | 420 | 440 | 290 |
-| 10/Feb/21 | 440 | 410 | 430 | 270 |
-| 10/Mar/21 | 450 | 420 | 440 | 275 |
-| 10/Apr/21 | 480 | 450 | 470 | 280 |
-| 10/May/21 | 520 | 490 | 510 | 290 |
-| 10/Jun/21 | 540 | 520 | 530 | 295 |
-| 10/Jul/21 | 570 | 550 | 560 | 580 |
-| 10/Aug/21 | 585 | 570 | 575 | 585 |
-| 10/Sep/21 | 590 | 580 | 585 | 590 |
+> **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 
 ### Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

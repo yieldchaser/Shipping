@@ -50,40 +50,9 @@ The preference for U.S. and Brazilian crude could be particularly beneficial sea
 | 12-18 mos | DEL EAST J UL/23(D/C) | $26,000/day |  | Vitol |
 | 3 mos |  | SEA LION | 2020 | 300,000 dw t |
 |  |  | **$45,000/day** |  | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 21/Jul/22 | 50 | 180 | 200 |
-| 21/Aug/22 | 80 | 200 | 300 |
-| 21/Sep/22 | 60 | 250 | 350 |
-| 21/Oct/22 | 40 | 280 | 400 |
-| 21/Nov/22 | 30 | 600 | 580 |
-| 21/Dec/22 | 40 | 250 | 250 |
-| 21/Jan/23 | 30 | 180 | 200 |
-| 21/Feb/23 | 40 | 150 | 300 |
-| 21/Mar/23 | 50 | 120 | 350 |
-| 21/Apr/23 | 40 | 100 | 300 |
-| 21/May/23 | 30 | 100 | 150 |
-| 21/Jun/23 | 30 | 120 | 150 |
-| 21/Jul/23 | 30 | 130 | 150 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 21/Jul/22 | 250 | 350 | 300 | 150 |
-| 21/Aug/22 | 280 | 300 | 350 | 200 |
-| 21/Sep/22 | 200 | 250 | 250 | 200 |
-| 21/Oct/22 | 220 | 300 | 280 | 250 |
-| 21/Nov/22 | 300 | 400 | 450 | 350 |
-| 21/Dec/22 | 250 | 350 | 400 | 450 |
-| 21/Jan/23 | 100 | 150 | 150 | 100 |
-| 21/Feb/23 | 200 | 250 | 300 | 450 |
-| 21/Mar/23 | 150 | 200 | 250 | 300 |
-| 21/Apr/23 | 120 | 150 | 150 | 150 |
-| 21/May/23 | 100 | 100 | 100 | 100 |
-| 21/Jun/23 | 100 | 100 | 100 | 100 |
-| 21/Jul/23 | 100 | 100 | 100 | 100 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 21/07/23 | 14/07/23 | ±% | Diff | 2022 | 2021 |

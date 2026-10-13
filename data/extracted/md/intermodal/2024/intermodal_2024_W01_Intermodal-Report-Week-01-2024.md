@@ -49,40 +49,9 @@ The industry's outlook remains optimistic, propelled by a strong CPP sector, sug
 | --- | --- | --- | --- | --- | --- | --- |
 | 60 mos | STENA PROVIDENT (NB) | 2024 | 49,900 dwt | DEL CHINA DEC/23 | $26,250/day | Bahri Chems |
 | 4 to 6 mos | WISTERIA | 2008 | 50,661 dwt | DELEAST DEC/23 | $26,000/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 29/Dec/22 | 150 | 160 | 250 |
-| 29/Jan/23 | 80 | 165 | 380 |
-| 28/Feb/23 | 90 | 170 | 350 |
-| 31/Mar/23 | 100 | 175 | 380 |
-| 30/Apr/23 | 70 | 160 | 370 |
-| 31/May/23 | 60 | 150 | 380 |
-| 30/Jun/23 | 50 | 140 | 150 |
-| 31/Jul/23 | 55 | 145 | 160 |
-| 31/Aug/23 | 50 | 140 | 100 |
-| 30/Sep/23 | 45 | 135 | 280 |
-| 31/Oct/23 | 60 | 150 | 280 |
-| 30/Nov/23 | 55 | 145 | 150 |
-| 31/Dec/23 | 65 | 155 | 250 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 29/Dec/22 | 320 | 180 | 420 | 180 |
-| 29/Jan/23 | 150 | 170 | 200 | 170 |
-| 28/Feb/23 | 160 | 175 | 450 | 175 |
-| 31/Mar/23 | 165 | 180 | 300 | 180 |
-| 30/Apr/23 | 155 | 170 | 180 | 170 |
-| 31/May/23 | 150 | 165 | 170 | 165 |
-| 30/Jun/23 | 145 | 160 | 160 | 160 |
-| 31/Jul/23 | 140 | 155 | 155 | 155 |
-| 31/Aug/23 | 140 | 150 | 150 | 150 |
-| 30/Sep/23 | 145 | 155 | 155 | 155 |
-| 31/Oct/23 | 150 | 160 | 160 | 160 |
-| 30/Nov/23 | 155 | 165 | 165 | 165 |
-| 31/Dec/23 | 160 | 170 | 170 | 170 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 05/01/24 | 29/12/23 | ±% | Diff | 2023 | 2022 |
@@ -151,23 +120,7 @@ On the Aframax front, T/C earnings averaged \$52,011/day, up + \$1,137/day w-o-w
 | **Handysize** | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 29/Dec/22 | 15000 | 10000 | 10000 | 5000 |
-| 29/Jan/23 | 5000 | 8000 | 9000 | 5000 |
-| 28/Feb/23 | 10000 | 10000 | 10000 | 5000 |
-| 31/Mar/23 | 20000 | 12000 | 11000 | 6000 |
-| 30/Apr/23 | 25000 | 13000 | 12000 | 7000 |
-| 31/May/23 | 22000 | 12000 | 11000 | 6000 |
-| 30/Jun/23 | 12000 | 10000 | 10000 | 5000 |
-| 31/Jul/23 | 10000 | 9000 | 9000 | 5000 |
-| 31/Aug/23 | 15000 | 10000 | 10000 | 6000 |
-| 30/Sep/23 | 25000 | 15000 | 14000 | 10000 |
-| 31/Oct/23 | 40000 | 20000 | 18000 | 15000 |
-| 30/Nov/23 | 55000 | 25000 | 22000 | 20000 |
-| 31/Dec/23 | 28000 | 16000 | 15000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jan-24 avg | Dec-23 avg | ±% | 2023 | 2022 | 2021 |

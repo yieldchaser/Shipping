@@ -548,31 +548,16 @@ numeric_observations:
   - 25.0
 - section: USD LIBOR Actual last % weekly % 4-weekly <u>12 months</u> 2,863-3,01%-4,92%
   section_type: null
-  source_line: 'mob: +30 698.938.17.45 (whats app/wechat) Mr. Nikos Aronis, BSc |
-    mob: +30 693.6505.888 (whats app/wechat)'
+  source_line: 'mob: [omitted] (whats app/wechat) Mr. Nikos Aronis, BSc |
+    mob: [omitted] (whats app/wechat)'
   unit: null
   values:
-  - 30.0
-  - 698.938
-  - 17.45
-  - 30.0
-  - 693.6505
-  - 888.0
 - section: USD LIBOR Actual last % weekly % 4-weekly <u>12 months</u> 2,863-3,01%-4,92%
   section_type: null
-  source_line: 'Mob: +30 6970.30.78.08 (whats app/wechat) Mr. Akis Vasilliadis, Diploma
-    Accounting mob: +30 697.263. 4347 | Customs Brokerage & Warehousing mob: +30 694.456.4171'
+  source_line: 'Mob: [omitted] (whats app/wechat) Mr. Akis Vasilliadis, Diploma
+    Accounting mob: [omitted] | Customs Brokerage & Warehousing mob: [omitted]'
   unit: null
   values:
-  - 30.0
-  - 6970.3
-  - 78.08
-  - 30.0
-  - 697.263
-  - 4347.0
-  - 30.0
-  - 694.456
-  - 4171.0
 - section: USD LIBOR Actual last % weekly % 4-weekly <u>12 months</u> 2,863-3,01%-4,92%
   section_type: null
   source_line: minibulk@agoraships.com (1-5k dwt) | project@agoraships.com (project
@@ -584,13 +569,10 @@ numeric_observations:
 - section: USD LIBOR Actual last % weekly % 4-weekly <u>12 months</u> 2,863-3,01%-4,92%
   section_type: null
   source_line: 'period@agoraships.com (for t/c period requirements) | Mr. Alexandros
-    Psarianos, BSc, MSc, FICS, Managing Director mob: +30 6985.11.11.02 (whats app/wechat)
+    Psarianos, BSc, MSc, FICS, Managing Director mob: [omitted] (whats app/wechat)
     | roro@agoraships.com'
   unit: null
   values:
-  - 30.0
-  - 6985.11
-  - 11.02
 regions:
 - china
 - atlantic
@@ -751,12 +733,12 @@ bulk@agoraships.com snp@agoraships.com (for our exclusive clients) tanker@agoras
 Mr. Dimitris Vasiliou, BSc | Mr. Nicolas Trantas, BSc, LLM, MICS
 --- | ---
 Chartering broker | Chartering broker
-mob: +30 698.938.17.45 (whats app/wechat) Mr. Nikos Aronis, BSc | mob: +30 693.6505.888 (whats app/wechat)
+mob: [omitted] (whats app/wechat) Mr. Nikos Aronis, BSc | mob: [omitted] (whats app/wechat)
 Chartering broker | Mr. Dimitrios Katsos, Diploma
-Mob: +30 6970.30.78.08 (whats app/wechat) Mr. Akis Vasilliadis, Diploma Accounting mob: +30 697.263. 4347 | Customs Brokerage & Warehousing mob: +30 694.456.4171
+Mob: [omitted] (whats app/wechat) Mr. Akis Vasilliadis, Diploma Accounting mob: [omitted] | Customs Brokerage & Warehousing mob: [omitted]
 bulk@agoraships.com | snp@agoraships.com (for our exclusive clients) | tanker@agoraships.com
 --- | --- | --- | ---
 panamax@agoraships.com | bitumen@agoraships.com
 cape@agoraships.com | Project / MPP/ Niche Markets desk:
 minibulk@agoraships.com (1-5k dwt) | project@agoraships.com (project cargo / vessels)
-period@agoraships.com (for t/c period requirements) | Mr. Alexandros Psarianos, BSc, MSc, FICS, Managing Director mob: +30 6985.11.11.02 (whats app/wechat) | roro@agoraships.com
+period@agoraships.com (for t/c period requirements) | Mr. Alexandros Psarianos, BSc, MSc, FICS, Managing Director mob: [omitted] (whats app/wechat) | roro@agoraships.com

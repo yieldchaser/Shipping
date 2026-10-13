@@ -98,42 +98,9 @@ ISO 9001 BUREAU VERITAS Certification
 | --- | --- | --- | --- | --- | --- |
 | 6 mos | ALIGOTE | 2010 | 74,192 dwt | $15,250/day | Trafigura |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 7/Jan/21 | 60 | 80 | 90 |
-| 7/Feb/21 | 50 | 85 | 100 |
-| 7/Mar/21 | 55 | 150 | 140 |
-| 7/Apr/21 | 40 | 90 | 100 |
-| 7/May/21 | 35 | 85 | 95 |
-| 7/Jun/21 | 30 | 80 | 90 |
-| 7/Jul/21 | 30 | 85 | 95 |
-| 7/Aug/21 | 35 | 85 | 95 |
-| 7/Sep/21 | 40 | 90 | 100 |
-| 7/Oct/21 | 50 | 100 | 120 |
-| 7/Nov/21 | 55 | 100 | 130 |
-| 7/Dec/21 | 50 | 95 | 120 |
-| 7/Jan/22 | 45 | 90 | 110 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS points | WS points | WS points | WS points |
-| 7/Jan/21 | 100 | 110 | 120 | 130 |
-| 7/Feb/21 | 110 | 120 | 130 | 140 |
-| 7/Mar/21 | 120 | 130 | 140 | 150 |
-| 7/Apr/21 | 130 | 140 | 150 | 160 |
-| 7/May/21 | 140 | 150 | 160 | 170 |
-| 7/Jun/21 | 150 | 160 | 170 | 180 |
-| 7/Jul/21 | 160 | 170 | 180 | 190 |
-| 7/Aug/21 | 170 | 180 | 190 | 200 |
-| 7/Sep/21 | 180 | 190 | 200 | 210 |
-| 7/Oct/21 | 190 | 200 | 210 | 220 |
-| 7/Nov/21 | 200 | 210 | 220 | 230 |
-| 7/Dec/21 | 210 | 220 | 230 | 300 |
-| 7/Jan/22 | 160 | 170 | 180 | 200 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 | 2019 |
@@ -197,15 +164,7 @@ In the MR2 sector we had the sale of the "PS LONDON" (50,992dwt-blt '08, S. Kore
 | 12 mos | BRAVE SAILOR | 2011 | 176,283 dwt | Bayuquan spot 1 January | $25,000/day | Olam |
 | 5 to 8 mos | EUROPA GRAECA | 2019 | 82,043 dwt | Panjin prompt | $28,500/day | Oldendorff |
 
-### Baltic Indices (1-Year Trend)
-
-| Index 7/Jan/21 7/Jan/21 7/Jan/21 7/Jan/21 7/Jan/21 | BCI BPI BSI BHSI BDI |
-| --- | --- |
-| 7/Jan/21 | 2,500 |
-| 7/Jan/21 | 2,500 |
-| 7/Jan/21 | 2,000 |
-| 7/Jan/21 | 1,500 |
-| 7/Jan/21 | 3,000 |
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 
@@ -224,16 +183,7 @@ In the MR2 sector we had the sale of the "PS LONDON" (50,992dwt-blt '08, S. Kore
 |  | **32K 1yr TC** | 20,500 | 20,500 | 0.0% | 0 | 8,556 | 9,291 |
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 7/Jan/21 | 25000 |  |  |  |
-| 7/Jan/21 | 30000 |  |  |  |
-| 7/Jan/21 | 35000 |  |  |  |
-| 7/Jan/21 | 40000 |  |  |  |
-| 7/Jan/21 | 45000 |  |  |  |
-| 7/Jan/21 | 50000 |  |  |  |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -336,37 +286,9 @@ In the Supramax sector we had the sale of the "SPARROW" (53,459dwt-blt '05, Japa
 
 The first newbuilding contracts of 2022 signals an exciting January for the newbuilding market. The trend follows the same pace of the previous year; LNG units are having the lion's share among the recent projects with Boxship sector following closely. At the same time, only one bulker order came to light, consisting of one 81,000dwt unit at Oshima shipyard, which will be delivered by 2025. More specifically, Sumitomo Corporation inked a deal with the respective yard to design and construct an ammonia fuelled Kamsarmax vessel for an undisclosed price. The majority of owners have opted for alternative fuels for their newbuilding projects during the past year with LNG leading the course so far. However, methanol and ammonia designs are starting to attract more and more followers in the shipping industry in an effort for a broader range of alternative fuel options. Lastly, no tanker deals took place during the past days.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 7/Jan/21 | 48 | 27 | 26 | 23 |
-| 7/Feb/21 | 49 | 28 | 27 | 24 |
-| 7/Mar/21 | 50 | 29 | 28 | 24 |
-| 7/Apr/21 | 52 | 30 | 29 | 25 |
-| 7/May/21 | 54 | 31 | 30 | 26 |
-| 7/Jun/21 | 56 | 32 | 31 | 27 |
-| 7/Jul/21 | 58 | 33 | 32 | 28 |
-| 7/Aug/21 | 59 | 34 | 33 | 29 |
-| 7/Sep/21 | 60 | 35 | 34 | 30 |
-| 7/Oct/21 | 60 | 35 | 34 | 30 |
-| 7/Nov/21 | 60 | 35 | 34 | 30 |
-| 7/Dec/21 | 60 | 35 | 34 | 30 |
-| 7/Jan/22 | 60 | 35 | 34 | 30 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 7/Jan/21 | 82 | 54 | 42 | 36 | 33 |
-| 7/Feb/21 | 84 | 56 | 43 | 37 | 34 |
-| 7/Mar/21 | 86 | 58 | 44 | 38 | 35 |
-| 7/Apr/21 | 88 | 60 | 45 | 39 | 36 |
-| 7/May/21 | 90 | 62 | 46 | 40 | 36 |
-| 7/Jun/21 | 92 | 64 | 47 | 41 | 37 |
-| 7/Jul/21 | 94 | 66 | 48 | 42 | 37 |
-| 7/Aug/21 | 96 | 68 | 49 | 43 | 38 |
-| 7/Sep/21 | 98 | 70 | 50 | 44 | 38 |
-| 7/Oct/21 | 100 | 72 | 51 | 45 | 39 |
-| 7/Nov/21 | 102 | 74 | 52 | 46 | 39 |
-| 7/Dec/21 | 104 | 76 | 53 | 47 | 39 |
-| 7/Jan/22 | 108 | 78 | 54 | 48 | 40 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -403,21 +325,8 @@ The first newbuilding contracts of 2022 signals an exciting January for the newb
 
 Not much has changed in the demolition front which continues to see a scarcity of fresh units amidst the strong freight markets of both the Container and Bulker sectors and an anticipated rebound of tanker rates during 2022. At the same time, steel plate prices have stabilized in Bangladesh with local breakers leading the scrap price charts among the Indian-subcontinent markets. After a month of slow activity, the construction pace has increased allowing buyers to maintain their levels close to the \$600/ldt mark on the back of a stable steel plate demand. The offer bids from Pakistan are also at high levels, with breakers being eager to cover their empty slots. PKR has stabilized, albeit close to its previous month's historical level. Lastly, in India, sentiment remains frail due to the continuing steel plate price decrease. As a result, the interest of Indian buyers is focused on HKC green and specialist units. Average scrap prices in the different markets this week for tankers ranged between 330-600/ldt and those for dry bulk units between \$320-590/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 7/Jan/21 | 430 | 420 | 410 | 260 |
-| 7/Feb/21 | 420 | 415 | 400 | 250 |
-| 7/Mar/21 | 440 | 430 | 420 | 250 |
-| 7/Apr/21 | 460 | 450 | 440 | 260 |
-| 7/May/21 | 500 | 480 | 470 | 260 |
-| 7/Jun/21 | 530 | 510 | 500 | 270 |
-| 7/Jul/21 | 580 | 550 | 540 | 280 |
-| 7/Aug/21 | 610 | 580 | 570 | 290 |
-| 7/Sep/21 | 620 | 590 | 580 | 295 |
-| 7/Oct/21 | 620 | 590 | 580 | 300 |
-| 7/Nov/21 | 625 | 595 | 585 | 310 |
-| 7/Dec/21 | 620 | 560 | 570 | 325 |
-| 7/Jan/22 | 615 | 550 | 560 | 335 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Indicative Demolition Prices ($/ldt)
 
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers | Demolition Sales Comments |

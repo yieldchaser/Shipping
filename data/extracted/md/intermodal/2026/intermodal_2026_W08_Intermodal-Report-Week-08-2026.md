@@ -48,42 +48,9 @@ In conclusion, Australia's LNG export outlook for 2026 is defined by structural 
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | DHT Taiga Maran Solon | 2012 2021 | 318,130 dwt | $85,000/day | Glovis 157,947 dwt UNIPEC |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | - | - | - |
-| 20/Feb/25 | WS | WS | WS |
-| 20/Mar/25 | RATES | RATES | RATES |
-| 20/Apr/25 | TD3 | TD6 | TD9 |
-| 20/May/25 | WS | WS | WS |
-| 20/Jun/25 | points | points | points |
-| 20/Jul/25 | 50 | 120 | 140 |
-| 20/Aug/25 | 60 | 130 | 150 |
-| 20/Sep/25 | 55 | 125 | 145 |
-| 20/Oct/25 | 50 | 120 | 140 |
-| 20/Nov/25 | 45 | 115 | 135 |
-| 20/Dec/25 | 40 | 110 | 130 |
-| 20/Jan/26 | 35 | 105 | 125 |
-| 20/Feb/26 | 30 | 100 | 120 |
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | - | - | - | - |
-| 20/Feb/25 | WS | WS | WS | WS |
-| 20/Mar/25 | RATES | RATES | RATES | RATES |
-| 20/Apr/25 | TC1 | TC2 | TC5 | TC6 |
-| 20/May/25 | WS | WS | WS | WS |
-| 20/Jun/25 | points | points | points | points |
-| 20/Jul/25 | 150 | 160 | 170 | 180 |
-| 20/Aug/25 | 140 | 150 | 160 | 170 |
-| 20/Sep/25 | 130 | 140 | 150 | 160 |
-| 20/Oct/25 | 120 | 130 | 140 | 150 |
-| 20/Nov/25 | 110 | 120 | 130 | 140 |
-| 20/Dec/25 | 100 | 110 | 120 | 130 |
-| 20/Jan/26 | 90 | 100 | 110 | 120 |
-| 20/Feb/26 | 80 | 90 | 100 | 110 |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 20/02/2026 | 13/02/2026 | ±% | Diff | 2025 | 2024 |
@@ -139,41 +106,9 @@ Aframax activity in the Mediterranean was initially strong with numerous cargoes
 | 11 to 13 mos | BBG Xijiang | 2024 | 82,801 dwt | $18,500/day | Daichi |
 | 6 to 8 mos | Santorini | 2013 | 81,086 dwt | $16,250/day | Propel |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 20/Feb/25 | 2000 | 1200 | 800 | 600 | 1000 |
-| 20/Mar/25 | 2200 | 1300 | 900 | 700 | 1100 |
-| 20/Apr/25 | 1800 | 1400 | 1000 | 800 | 1200 |
-| 20/May/25 | 3500 | 1500 | 1100 | 900 | 1300 |
-| 20/Jun/25 | 3200 | 1600 | 1200 | 1000 | 1400 |
-| 20/Jul/25 | 3600 | 1700 | 1300 | 1100 | 1500 |
-| 20/Aug/25 | 3400 | 1800 | 1400 | 1200 | 1600 |
-| 20/Sep/25 | 3300 | 1900 | 1500 | 1300 | 1700 |
-| 20/Oct/25 | 3100 | 2000 | 1600 | 1400 | 1800 |
-| 20/Nov/25 | 4800 | 2100 | 1700 | 1500 | 2000 |
-| 20/Dec/25 | 5000 | 2200 | 1800 | 1600 | 2200 |
-| 20/Jan/26 | 2800 | 1900 | 1500 | 1300 | 1900 |
-| 20/Feb/26 | 2900 | 1800 | 1400 | 1200 | 1800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 20/Feb/25 | 8000 | 10000 | 9000 | 7000 |
-| 20/Mar/25 | 18000 | 11000 | 10000 | 8000 |
-| 20/Apr/25 | 15000 | 12000 | 11000 | 9000 |
-| 20/May/25 | 28000 | 13000 | 12000 | 10000 |
-| 20/Jun/25 | 25000 | 14000 | 13000 | 11000 |
-| 20/Jul/25 | 29000 | 15000 | 14000 | 12000 |
-| 20/Aug/25 | 27000 | 16000 | 15000 | 13000 |
-| 20/Sep/25 | 26000 | 17000 | 16000 | 14000 |
-| 20/Oct/25 | 24000 | 18000 | 17000 | 15000 |
-| 20/Nov/25 | 42000 | 19000 | 18000 | 16000 |
-| 20/Dec/25 | 44000 | 20000 | 19000 | 17000 |
-| 20/Jan/26 | 23000 | 15000 | 14000 | 12000 |
-| 20/Feb/26 | 25000 | 16000 | 15000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### TC Rates
 | Sector | Tenor | 20/02/2026 | 13/02/2026 | ±% | Diff | 2025 | 2024 |

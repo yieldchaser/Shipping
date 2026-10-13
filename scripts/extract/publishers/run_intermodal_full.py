@@ -1292,6 +1292,11 @@ def process_single_pdf(
 
     full_text = re.sub(r'(\|(?:[^\n]+\|)+\n\|(?:\s*[-:]+[-| :]*)\|\n(?:\|(?:[^\n]+\|)*(?:\n|$))+)', _prune_blank_cols, full_text)
 
+    # chart tables LlamaParse read by eye (dated first column / "N-Year Trend") -> one-line notes
+    sys.path.insert(0, str(ROOT / "scripts" / "md_cleanup"))
+    import intermodal_chart_note
+    full_text, _ = intermodal_chart_note.process(full_text)
+
     dest_md = dest_dir / f"{stem}.md"
     dest_md.write_text(full_text, encoding="utf-8")
 

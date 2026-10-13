@@ -115,40 +115,9 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 44.0 | 44.0 | 0.0% | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 33.5 | 33.3 | **0.8%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 29.0 | 30.0 | -3.3% | 27.6 | 27.5 | 28.6 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 18/Mar/21 | 20 | 100 | 150 |
-| 18/Apr/21 | 30 | 80 | 120 |
-| 18/May/21 | 40 | 70 | 110 |
-| 18/Jun/21 | 35 | 65 | 100 |
-| 18/Jul/21 | 30 | 60 | 90 |
-| 18/Aug/21 | 25 | 55 | 85 |
-| 18/Sep/21 | 20 | 50 | 80 |
-| 18/Oct/21 | 15 | 45 | 75 |
-| 18/Nov/21 | 10 | 40 | 70 |
-| 18/Dec/21 | 5 | 35 | 65 |
-| 18/Jan/22 | 0 | 30 | 60 |
-| 18/Feb/22 | 0 | 250 | 150 |
-| 18/Mar/22 | 0 | 280 | 160 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 18/Mar/21 | 150 | 140 | 130 | 120 |
-| 18/Apr/21 | 145 | 135 | 125 | 115 |
-| 18/May/21 | 140 | 130 | 120 | 110 |
-| 18/Jun/21 | 135 | 125 | 115 | 105 |
-| 18/Jul/21 | 130 | 120 | 110 | 100 |
-| 18/Aug/21 | 125 | 115 | 105 | 95 |
-| 18/Sep/21 | 120 | 110 | 100 | 90 |
-| 18/Oct/21 | 115 | 105 | 95 | 85 |
-| 18/Nov/21 | 110 | 100 | 90 | 80 |
-| 18/Dec/21 | 105 | 95 | 85 | 75 |
-| 18/Jan/22 | 100 | 90 | 80 | 70 |
-| 18/Feb/22 | 160 | 150 | 140 | 130 |
-| 18/Mar/22 | 170 | 160 | 150 | 140 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -199,40 +168,9 @@ In the Suezmax sector we had sale (old deal) of the "NORDIC GRACE" (149,921dwt-b
 | **Handysize** | **32K 6mnt TC** | 27,000 | 27,000 | 0.0% | 0 | 22,976 | 8,298 |
 |  | **32K 1yr TC** | 24,500 | 24,500 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 11,825 | 8,486 |
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 18/Mar/21 | 2,500 | 2,600 | 2,700 | 1,500 | 2,800 |
-| 18/Apr/21 | 4,800 | 3,000 | 3,200 | 1,600 | 4,500 |
-| 18/May/21 | 3,500 | 3,400 | 3,600 | 1,700 | 3,800 |
-| 18/Jun/21 | 3,800 | 3,600 | 3,800 | 1,750 | 4,000 |
-| 18/Jul/21 | 4,000 | 3,700 | 3,900 | 1,800 | 4,200 |
-| 18/Aug/21 | 5,000 | 4,500 | 4,800 | 1,850 | 5,500 |
-| 18/Sep/21 | 5,800 | 5,200 | 5,500 | 1,900 | 6,000 |
-| 18/Oct/21 | 10,500 | 5,000 | 4,500 | 1,800 | 9,500 |
-| 18/Nov/21 | 3,500 | 3,200 | 3,400 | 1,750 | 3,600 |
-| 18/Dec/21 | 3,800 | 3,400 | 3,600 | 1,700 | 3,900 |
-| 18/Jan/22 | 2,800 | 2,700 | 2,800 | 1,600 | 2,900 |
-| 18/Feb/22 | 2,900 | 2,800 | 2,900 | 1,650 | 3,000 |
-| 18/Mar/22 | 2,950 | 2,850 | 2,950 | 1,700 | 3,050 |
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 18/Mar/21 | 20,000 | 22,000 | 23,000 | 18,000 |
-| 18/Apr/21 | 42,000 | 24,000 | 25,000 | 19,000 |
-| 18/May/21 | 30,000 | 25,000 | 26,000 | 20,000 |
-| 18/Jun/21 | 32,000 | 26,000 | 27,000 | 20,500 |
-| 18/Jul/21 | 34,000 | 27,000 | 28,000 | 21,000 |
-| 18/Aug/21 | 42,000 | 30,000 | 32,000 | 21,500 |
-| 18/Sep/21 | 52,000 | 35,000 | 38,000 | 22,000 |
-| 18/Oct/21 | 85,000 | 36,000 | 39,000 | 22,500 |
-| 18/Nov/21 | 28,000 | 26,000 | 29,000 | 21,000 |
-| 18/Dec/21 | 38,000 | 27,000 | 30,000 | 20,500 |
-| 18/Jan/22 | 12,000 | 22,000 | 25,000 | 19,000 |
-| 18/Feb/22 | 22,000 | 24,000 | 26,000 | 19,500 |
-| 18/Mar/22 | 24,000 | 25,000 | 27,000 | 20,000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -319,37 +257,9 @@ In the Supramax sector we had the sale of the "ATLANTIC TULUM" (58,802dwt-blt '0
 
 Last week, the newbuilding contracting activity saw a huge volume of Container units across all type of sizes. The exceptionally positive conditions in the boxship sector, continue to strengthen owners' interest after their historical profits during 2021. Demand outdo supply, while the recent restrictions in China due to the Covid-19 Omicron variant will add further pressure on global supply chains, with an obvious positive result for the Container freight earnings. At the same time, owners have adopted a more conservative approach for new dry bulk units despite the prevailing healthy freight market levels. Indeed, the last week's order of four 40,000dwt from Reederei H. Vogemann was the first one that appeared during March, following a very quiet February dry bulk contracting activity when only five Kamsarmax units were added to the overall order book. Lastly, owners continue to abstain completely from the tanker newbuilding realm amidst the strong supply/demand imbalance that prevails in the market.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 18/Mar/21 | 88 | 58 | 52 | 40 | 32 |
-| 18/Apr/21 | 90 | 60 | 53 | 41 | 33 |
-| 18/May/21 | 92 | 62 | 54 | 42 | 34 |
-| 18/Jun/21 | 94 | 63 | 55 | 43 | 34 |
-| 18/Jul/21 | 96 | 65 | 56 | 44 | 35 |
-| 18/Aug/21 | 100 | 66 | 57 | 45 | 35 |
-| 18/Sep/21 | 105 | 67 | 58 | 46 | 36 |
-| 18/Oct/21 | 110 | 68 | 59 | 47 | 36 |
-| 18/Nov/21 | 112 | 70 | 60 | 48 | 37 |
-| 18/Dec/21 | 115 | 71 | 61 | 49 | 37 |
-| 18/Jan/22 | 118 | 72 | 62 | 50 | 38 |
-| 18/Feb/22 | 120 | 73 | 63 | 51 | 38 |
-| 18/Mar/22 | 120 | 74 | 64 | 52 | 39 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 18/Mar/21 | 52 | 28 | 30 | 22 |
-| 18/Apr/21 | 54 | 29 | 31 | 23 |
-| 18/May/21 | 56 | 30 | 32 | 24 |
-| 18/Jun/21 | 58 | 31 | 33 | 25 |
-| 18/Jul/21 | 60 | 32 | 34 | 26 |
-| 18/Aug/21 | 60 | 33 | 35 | 26 |
-| 18/Sep/21 | 60 | 34 | 36 | 27 |
-| 18/Oct/21 | 60 | 35 | 36 | 27 |
-| 18/Nov/21 | 60 | 36 | 37 | 28 |
-| 18/Dec/21 | 60 | 36 | 37 | 28 |
-| 18/Jan/22 | 60 | 37 | 38 | 28 |
-| 18/Feb/22 | 60 | 37 | 38 | 28 |
-| 18/Mar/22 | 60 | 37 | 38 | 29 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
 | Sector | Size | Current | Previous | ±% | Year1 | Year2 | Year3 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -376,37 +286,10 @@ Last week, the newbuilding contracting activity saw a huge volume of Container u
 
 The ongoing volatility on the commodities prices amidst the Russia-Ukraine war has made the demolition market outlook unclear in regard to the breaker's levels offered in the India- subcontinent region. Indeed, the steel prices witnessed a short downward correction last week, making buyers to adopt a more wait and watch approach. However, the volume of fresh units remains significantly low, shaping intense competition among the main demo nations, while despite the early-week decrease in steel prices, levels remain strong. As a result, breakers' bids continue to hover at the mid-high \$600/ldt, with Bangladeshi end buyers showing the strongest interest. In India, a small decrease in bids materialized after a three-week rally, while in Pakistan, breakers maintained their offered bid rates, despite the pressure being added by the devaluation of their local currency. Lastly in Turkey, despite the fall in both imported and local steel plate prices, offered levels from end-buyers improved further last week, with Turkey exports managing to replace a portion of the Russian steel supply disruption. Average prices in the different markets this week for tankers ranged between 455-680/ldt and those for dry bulk units between \$445-670/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 18/Mar/21 | 470 | 460 | 470 | 250 |
-| 18/Apr/21 | 500 | 465 | 500 | 250 |
-| 18/May/21 | 540 | 500 | 530 | 280 |
-| 18/Jun/21 | 560 | 520 | 550 | 285 |
-| 18/Jul/21 | 580 | 540 | 570 | 280 |
-| 18/Aug/21 | 590 | 550 | 580 | 285 |
-| 18/Sep/21 | 590 | 560 | 580 | 285 |
-| 18/Oct/21 | 600 | 570 | 590 | 290 |
-| 18/Nov/21 | 600 | 570 | 590 | 290 |
-| 18/Dec/21 | 590 | 550 | 580 | 295 |
-| 18/Jan/22 | 600 | 560 | 580 | 300 |
-| 18/Feb/22 | 640 | 600 | 620 | 340 |
-| 18/Mar/22 | 670 | 650 | 650 | 390 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 18/Mar/21 | 470 | 460 | 470 | 250 |
-| 18/Apr/21 | 500 | 465 | 500 | 250 |
-| 18/May/21 | 540 | 500 | 530 | 280 |
-| 18/Jun/21 | 560 | 520 | 550 | 285 |
-| 18/Jul/21 | 580 | 540 | 570 | 280 |
-| 18/Aug/21 | 590 | 550 | 580 | 285 |
-| 18/Sep/21 | 590 | 560 | 580 | 285 |
-| 18/Oct/21 | 600 | 570 | 590 | 290 |
-| 18/Nov/21 | 600 | 570 | 590 | 290 |
-| 18/Dec/21 | 590 | 550 | 580 | 295 |
-| 18/Jan/22 | 600 | 560 | 580 | 300 |
-| 18/Feb/22 | 640 | 600 | 620 | 340 |
-| 18/Mar/22 | 660 | 640 | 650 | 430 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

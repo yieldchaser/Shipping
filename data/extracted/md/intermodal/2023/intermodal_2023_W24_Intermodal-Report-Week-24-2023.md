@@ -57,40 +57,9 @@ Against a backdrop of uncertainty regarding the regulatory framework paired with
 | 16 to 18 mos | NAVIOS CITRINE index linked at 110% to BPI | 2017 | 81,626 dw t Costamare |
 | --- | --- | --- | --- |
 | 4 to 6 mos | CL CENTURY $8,000 first 50 days, $13,500 balance | 2015 | 60,319 dw t Oldendorff |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 16/Jun/22 | 50 | 150 | 200 |
-| 16/Jul/22 | 80 | 180 | 300 |
-| 16/Aug/22 | 70 | 170 | 250 |
-| 16/Sep/22 | 60 | 160 | 220 |
-| 16/Oct/22 | 50 | 150 | 350 |
-| 16/Nov/22 | 40 | 280 | 600 |
-| 16/Dec/22 | 30 | 200 | 300 |
-| 16/Jan/23 | 20 | 180 | 200 |
-| 16/Feb/23 | 30 | 170 | 350 |
-| 16/Mar/23 | 40 | 160 | 300 |
-| 16/Apr/23 | 50 | 150 | 250 |
-| 16/May/23 | 60 | 140 | 200 |
-| 16/Jun/23 | 70 | 130 | 150 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 16/Jun/22 | 200 | 300 | 500 | 400 |
-| 16/Jul/22 | 180 | 280 | 400 | 350 |
-| 16/Aug/22 | 160 | 260 | 350 | 300 |
-| 16/Sep/22 | 140 | 240 | 300 | 250 |
-| 16/Oct/22 | 120 | 220 | 280 | 200 |
-| 16/Nov/22 | 100 | 350 | 450 | 400 |
-| 16/Dec/22 | 90 | 300 | 400 | 350 |
-| 16/Jan/23 | 80 | 150 | 200 | 150 |
-| 16/Feb/23 | 100 | 180 | 250 | 200 |
-| 16/Mar/23 | 120 | 200 | 300 | 250 |
-| 16/Apr/23 | 140 | 220 | 350 | 300 |
-| 16/May/23 | 160 | 240 | 400 | 350 |
-| 16/Jun/23 | 180 | 260 | 450 | 400 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 16/06/23 | 09/06/23 | ±% | Diff | 2022 | 2021 |
@@ -146,42 +115,9 @@ Suezmax T/C earnings averaged \$ 44,726/day, up + \$18,368/day w-o-w. On the Afr
 | --- | --- | --- | --- |
 | del West Jun/23 | $24,500-26,500/day |  | Trafigura |
 
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| Date |  |  |  |  |  |
-| 16/jun/22 | 2800 | 2600 | 1400 | 2700 | 2600 |
-| 16/jul/22 | 2900 | 2500 | 1300 | 2500 | 2800 |
-| 16/aug/22 | 1000 | 1200 | 1100 | 1000 | 1100 |
-| 16/sep/22 | 2400 | 1400 | 1000 | 900 | 2300 |
-| 16/oct/22 | 2600 | 1500 | 900 | 800 | 2500 |
-| 16/Nov/22 | 2500 | 1400 | 850 | 750 | 2400 |
-| 16/Dec/22 | 2700 | 1600 | 800 | 700 | 2600 |
-| 16/Jan/23 | 700 | 800 | 700 | 600 | 700 |
-| 16/Feb/23 | 1200 | 1000 | 750 | 650 | 1100 |
-| 16/Mar/23 | 2400 | 1500 | 1000 | 800 | 2300 |
-| 16/Apr/23 | 2600 | 1600 | 1100 | 900 | 2500 |
-| 16/May/23 | 2700 | 1700 | 1200 | 1000 | 2600 |
-| 16/jun/23 | 1100 | 1100 | 1000 | 800 | 1100 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| Date |  |  |  |  |
-| 16/jun/22 | 26000 | 25000 | 24000 | 23000 |
-| 16/jul/22 | 24000 | 23000 | 22000 | 21000 |
-| 16/aug/22 | 5000 | 12000 | 10000 | 9000 |
-| 16/sep/22 | 17000 | 16000 | 15000 | 14000 |
-| 16/oct/22 | 16000 | 15000 | 14000 | 13000 |
-| 16/Nov/22 | 15000 | 14000 | 13000 | 12000 |
-| 16/Dec/22 | 22000 | 16000 | 14000 | 11000 |
-| 16/Jan/23 | 7000 | 8000 | 7000 | 6000 |
-| 16/Feb/23 | 11000 | 10000 | 9000 | 8000 |
-| 16/Mar/23 | 16000 | 14000 | 13000 | 12000 |
-| 16/Apr/23 | 20000 | 17000 | 15000 | 13000 |
-| 16/May/23 | 21000 | 18000 | 16000 | 14000 |
-| 16/jun/23 | 12000 | 11000 | 10000 | 9000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 16/06/23 | 09/06/23 | ±% | Diff | 2022 | 2021 |

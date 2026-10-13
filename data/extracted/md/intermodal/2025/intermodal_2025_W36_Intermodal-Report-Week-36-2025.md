@@ -52,42 +52,9 @@ What is becoming clear is that the geopolitics of oil are once again reshaping s
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | Long Wind | 2011 | 320,142 dwt | $42,000/day | Abu Dhabi Marine |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS points | WS points | WS points |
-| 5/Sep/24 | 50 | 100 | 150 |
-| 5/Oct/24 | 50 | 100 | 150 |
-| 5/Nov/24 | 50 | 100 | 200 |
-| 5/Dec/24 | 50 | 100 | 150 |
-| 5/Jan/25 | 50 | 100 | 150 |
-| 5/Feb/25 | 50 | 100 | 150 |
-| 5/Mar/25 | 50 | 100 | 200 |
-| 5/Apr/25 | 50 | 100 | 200 |
-| 5/May/25 | 50 | 100 | 150 |
-| 5/Jun/25 | 50 | 100 | 150 |
-| 5/Jul/25 | 50 | 100 | 150 |
-| 5/Aug/25 | 50 | 100 | 150 |
-| 5/Sep/25 | 50 | 100 | 150 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS points | WS points | WS points | WS points |
-| 5/Sep/24 | 100 | 100 | 100 | 100 |
-| 5/Oct/24 | 100 | 100 | 100 | 100 |
-| 5/Nov/24 | 100 | 100 | 100 | 100 |
-| 5/Dec/24 | 100 | 100 | 100 | 100 |
-| 5/Jan/25 | 100 | 100 | 100 | 100 |
-| 5/Feb/25 | 100 | 100 | 100 | 100 |
-| 5/Mar/25 | 100 | 100 | 100 | 100 |
-| 5/Apr/25 | 100 | 100 | 100 | 100 |
-| 5/May/25 | 100 | 100 | 100 | 100 |
-| 5/Jun/25 | 100 | 100 | 100 | 100 |
-| 5/Jul/25 | 100 | 100 | 100 | 100 |
-| 5/Aug/25 | 100 | 100 | 100 | 100 |
-| 5/Sep/25 | 100 | 100 | 100 | 100 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 05/09/2025 | 29/08/2025 | ±% | Diff | Year1 | Year2 |
@@ -143,41 +110,9 @@ Aframaxes experienced a mixed week, with regional variations balancing overall s
 | 4 to 6 mos | Grampus Charm | 2013 | 82,937 dwt | dely Pyeongtaek 30 Aug/2 Sep redel worldwide | $14,500/day | Costamare |
 | 12 mos | Musigny | 2025 | 82,000 dwt | dely ex yard Hantong end Nov redel worldwide | $15,750/day | Classic Maritime |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 5/Sep/24 | 3400 | 1900 | 1400 | 800 | 1900 |
-| 5/Oct/24 | 3200 | 1800 | 1300 | 700 | 1800 |
-| 5/Nov/24 | 1800 | 1000 | 1000 | 600 | 1000 |
-| 5/Dec/24 | 1000 | 900 | 900 | 500 | 900 |
-| 5/Jan/25 | 1100 | 900 | 900 | 500 | 900 |
-| 5/Feb/25 | 900 | 800 | 800 | 400 | 800 |
-| 5/Mar/25 | 2000 | 1100 | 1100 | 800 | 1100 |
-| 5/Apr/25 | 1800 | 1200 | 1200 | 900 | 1200 |
-| 5/May/25 | 1600 | 1300 | 1300 | 1000 | 1300 |
-| 5/Jun/25 | 1700 | 1400 | 1400 | 1100 | 1400 |
-| 5/Jul/25 | 3800 | 1900 | 1800 | 1900 | 1900 |
-| 5/Aug/25 | 2900 | 1900 | 1900 | 1800 | 1900 |
-| 5/Sep/25 | 2900 | 1900 | 1900 | 800 | 2900 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 5/Sep/24 | 28000 | 13000 | 14000 | 12000 |
-| 5/Oct/24 | 26000 | 12000 | 13000 | 11000 |
-| 5/Nov/24 | 25000 | 11000 | 12000 | 10000 |
-| 5/Dec/24 | 7000 | 6000 | 7000 | 5000 |
-| 5/Jan/25 | 8000 | 7000 | 8000 | 6000 |
-| 5/Feb/25 | 5000 | 5000 | 6000 | 4000 |
-| 5/Mar/25 | 18000 | 10000 | 11000 | 9000 |
-| 5/Apr/25 | 16000 | 11000 | 12000 | 10000 |
-| 5/May/25 | 15000 | 11000 | 12000 | 10000 |
-| 5/Jun/25 | 14000 | 11000 | 12000 | 10000 |
-| 5/Jul/25 | 31000 | 14000 | 15000 | 13000 |
-| 5/Aug/25 | 23000 | 15000 | 14000 | 12000 |
-| 5/Sep/25 | 23000 | 14000 | 13000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 05/09/2025 | 29/08/2025 | ±% | Diff | 2024 | 2023 |

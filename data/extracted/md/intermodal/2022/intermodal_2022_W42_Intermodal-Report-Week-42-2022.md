@@ -106,56 +106,9 @@ The Baltic Exchange
 | Handy | 36k 1yr TC | 23,500 | 23,500 | 0.0% | 0 | 11,292 | 13,966 |
 | Handy | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 21/Oct/21 | 40 | 130 | 140 |
-| 21/Nov/21 | 40 | 120 | 130 |
-| 21/Dec/21 | 40 | 110 | 120 |
-| 21/Jan/22 | 40 | 100 | 110 |
-| 21/Feb/22 | 40 | 290 | 150 |
-| 21/Mar/22 | 40 | 300 | 280 |
-| 21/Apr/22 | 40 | 290 | 270 |
-| 21/May/22 | 40 | 120 | 160 |
-| 21/Jun/22 | 40 | 180 | 170 |
-| 21/Jul/22 | 40 | 180 | 280 |
-| 21/Aug/22 | 40 | 180 | 320 |
-| 21/Sep/22 | 40 | 180 | 350 |
-| 21/Oct/22 | 40 | 180 | 380 |
-| Date | TD3 | TD6 | TD9 |
-| 21/Oct/21 | 40 | 130 | 140 |
-| 21/Nov/21 | 40 | 120 | 130 |
-| 21/Dec/21 | 40 | 110 | 120 |
-| 21/Jan/22 | 40 | 100 | 110 |
-| 21/Feb/22 | 40 | 290 | 150 |
-| 21/Mar/22 | 40 | 300 | 280 |
-| 21/Apr/22 | 40 | 290 | 270 |
-| 21/May/22 | 40 | 120 | 160 |
-| 21/Jun/22 | 40 | 180 | 170 |
-| 21/Jul/22 | 40 | 180 | 280 |
-| 21/Aug/22 | 40 | 180 | 320 |
-| 21/Sep/22 | 40 | 180 | 350 |
-| 21/Oct/22 | 40 | 180 | 380 |
-
-### 1-Year Forward WS Rates - Clean
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | 130 | 140 | 150 | 140 |
-| 21/Oct/21 | 130 | 140 | 150 | 140 |
-| 21/Nov/21 | 130 | 140 | 150 | 140 |
-| 21/Dec/21 | 130 | 140 | 150 | 140 |
-| 21/Jan/22 | 130 | 140 | 150 | 290 |
-| 21/Feb/22 | 130 | 140 | 150 | 440 |
-| 21/Mar/22 | 130 | 140 | 150 | 460 |
-| 21/Apr/22 | 130 | 140 | 150 | 300 |
-| 21/May/22 | 130 | 140 | 150 | 280 |
-| 21/Jun/22 | 130 | 140 | 150 | 270 |
-| 21/Jul/22 | 130 | 140 | 150 | 260 |
-| 21/Aug/22 | 130 | 140 | 150 | 250 |
-| 21/Sep/22 | 130 | 140 | 150 | 240 |
-| 21/Oct/22 |  |  |  |  |
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Oct-22 avg | Sep-22 avg | ±% | 2021 | 2020 | Year3 |
@@ -221,41 +174,9 @@ In the MR2 sector we had the sale of the "FALCON BAY" (47,147dwt-blt '09, S. Kor
 |  | **32K 1yr TC** | 13,750 | 13,500 | 1.9% | 250 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 21/Oct/21 | 6000 | 4000 | 3500 | 1500 | 6500 |
-| 21/Nov/21 | 5500 | 3800 | 3200 | 1400 | 5000 |
-| 21/Dec/21 | 5000 | 3500 | 3000 | 1300 | 4500 |
-| 21/Jan/22 | 4500 | 3200 | 2800 | 1200 | 4000 |
-| 21/Feb/22 | 4000 | 3000 | 2700 | 1200 | 3500 |
-| 21/Mar/22 | 3500 | 2800 | 2600 | 1300 | 3200 |
-| 21/Apr/22 | 3800 | 3000 | 2800 | 1400 | 3500 |
-| 21/May/22 | 4500 | 3500 | 3000 | 1500 | 4000 |
-| 21/Jun/22 | 3800 | 3200 | 2900 | 1400 | 3600 |
-| 21/Jul/22 | 3500 | 3000 | 2800 | 1300 | 3400 |
-| 21/Aug/22 | 3200 | 2800 | 2600 | 1200 | 3000 |
-| 21/Sep/22 | 3000 | 2700 | 2500 | 1200 | 2800 |
-| 21/Oct/22 | 3100 | 2700 | 2500 | 1300 | 2900 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 21/Oct/21 | 45000 | 35000 | 30000 | 25000 |
-| 21/Nov/21 | 30000 | 28000 | 25000 | 22000 |
-| 21/Dec/21 | 25000 | 25000 | 23000 | 20000 |
-| 21/Jan/22 | 20000 | 22000 | 20000 | 18000 |
-| 21/Feb/22 | 15000 | 20000 | 18000 | 16000 |
-| 21/Mar/22 | 22000 | 24000 | 22000 | 19000 |
-| 21/Apr/22 | 28000 | 28000 | 26000 | 23000 |
-| 21/May/22 | 35000 | 32000 | 30000 | 26000 |
-| 21/Jun/22 | 28000 | 28000 | 27000 | 24000 |
-| 21/Jul/22 | 25000 | 26000 | 25000 | 22000 |
-| 21/Aug/22 | 15000 | 20000 | 20000 | 16000 |
-| 21/Sep/22 | 18000 | 22000 | 21000 | 17000 |
-| 21/Oct/22 | 17000 | 21000 | 20000 | 17000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Oct-22 avg | Sep-22 avg | ±% | 2021 | 2020 |
@@ -361,37 +282,9 @@ In the Kamsarmax sector we had the sale of the "AROUZU" (82,113dwt-blt '12, Japa
 
 Newbuilding contracting activity was steady during the past days. In the tanker realm, Euronav returned to DH Shipbuilding for the construction of two Suezmax vessels. The company placed an order for two more Suezmax vessels earlier this month. The 2x157,000dwt units will be fitted with BWTS and scrubber and will be methanol and LNG ready. Their delivery is scheduled between 2024-2025, and they will cost \$75.0m each. In the gas sector, Venture Global sealed a deal with DSME for the construction of 2x174,000cbm vessels, with expected delivery within 2025 and at \$250.0m each, placing them among the most highly-priced LNG carriers ordered so far. More specifically, asset values of LNG vessels have gained almost 25% at the three major Korean shipyards y-o-y, underpinned by increasing demand amid an unfolding energy crisis following the war in Ukraine. Meanwhile, Eastern Pacific inked a deal with Samsung for the construction of 2x88,000cbm dual-fueled VLGCs, which will mark the first VLGC order for the shipyard. With the particular order, EPS's order tally for VLGCs will be lifted to a total of four. Last but not least, Amasus Shipping ordered a quarter of MPP vessels at Bogazici Denizcilik shipyard in Turkey. The 4x4,000dwt vessels will be delivered throughout 2023-2024, and they will be powered by a diesel-electric system.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 21/Oct/21 | 105 | 75 | 55 | 48 | 42 |
-| 21/Nov/21 | 108 | 76 | 56 | 48 | 42 |
-| 21/Dec/21 | 110 | 77 | 57 | 49 | 43 |
-| 21/Jan/22 | 112 | 78 | 58 | 50 | 43 |
-| 21/Feb/22 | 114 | 78 | 59 | 51 | 44 |
-| 21/Mar/22 | 115 | 79 | 60 | 52 | 44 |
-| 21/Apr/22 | 116 | 79 | 60 | 53 | 44 |
-| 21/May/22 | 117 | 77 | 61 | 53 | 44 |
-| 21/Jun/22 | 118 | 80 | 61 | 54 | 45 |
-| 21/Jul/22 | 119 | 80 | 62 | 54 | 45 |
-| 21/Aug/22 | 120 | 80 | 62 | 55 | 45 |
-| 21/Sep/22 | 121 | 80 | 62 | 55 | 45 |
-| 21/Oct/22 | 121 | 80 | 62 | 55 | 45 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 21/Oct/21 | 60 | 32 | 32 | 30 |
-| 21/Nov/21 | 60 | 32 | 32 | 30 |
-| 21/Dec/21 | 60 | 32 | 32 | 30 |
-| 21/Jan/22 | 60 | 32 | 32 | 30 |
-| 21/Feb/22 | 61 | 33 | 33 | 30 |
-| 21/Mar/22 | 61 | 33 | 33 | 30 |
-| 21/Apr/22 | 62 | 33 | 33 | 30 |
-| 21/May/22 | 62 | 33 | 33 | 30 |
-| 21/Jun/22 | 62 | 34 | 34 | 31 |
-| 21/Jul/22 | 62 | 34 | 34 | 31 |
-| 21/Aug/22 | 62 | 33 | 33 | 30 |
-| 21/Sep/22 | 62 | 33 | 33 | 30 |
-| 21/Oct/22 | 62 | 32 | 32 | 29 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
 | Sector | Size | Current | Previous | ±% | Year1 | Year2 | Year3 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -418,21 +311,8 @@ Newbuilding contracting activity was steady during the past days. In the tanker 
 
 Momentum was negative on the demolition front for another week, as global steel demand remains subdued with World Steel Association now forecasting a drop of 2.3% in 2022. At the same time, rising energy costs have shaken steel mills' profitability leading them to cut production thus reducing scrap input. Against all these negative fundamentals, the low volumes of demo candidates have kept breakers offers stable at the region of \$600/ldt, with Bangladeshi ones leading the price board. In addition to that, across the main subcontinent nations, a strengthening of their local currencies has materialized which gave further support to breakers to maintain their levels. On the recently reported news, the Vice President of the Pakistan Ship Breaker's Association announced during the Tradewinds Ship Recycling Forum that along with the Ministry of Maritime Affairs have decided to proceed with the ratification of the Hong Kong Convention. Average prices in the different markets this week for tankers ranged between 260-600/ldt and those for dry bulk units between \$250-590/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 21/Oct/21 | 620 | 620 | 620 | 300 |
-| 21/Nov/21 | 615 | 610 | 615 | 310 |
-| 21/Dec/21 | 610 | 560 | 610 | 320 |
-| 21/Jan/22 | 620 | 570 | 620 | 340 |
-| 21/Feb/22 | 670 | 660 | 670 | 360 |
-| 21/Mar/22 | 680 | 670 | 680 | 450 |
-| 21/Apr/22 | 675 | 670 | 680 | 450 |
-| 21/May/22 | 640 | 640 | 640 | 330 |
-| 21/Jun/22 | 560 | 560 | 560 | 320 |
-| 21/Jul/22 | 560 | 560 | 560 | 250 |
-| 21/Aug/22 | 570 | 570 | 570 | 250 |
-| 21/Sep/22 | 575 | 575 | 575 | 250 |
-| 21/Oct/22 | 575 | 575 | 575 | 250 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Indicative Demolition Prices ($/ldt)
 
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers |

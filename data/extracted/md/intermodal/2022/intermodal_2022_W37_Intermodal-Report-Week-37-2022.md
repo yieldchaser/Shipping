@@ -109,41 +109,9 @@ Shanghai 200122 China
 | Handy | **36k 1yr TC** | 22,500 | 22,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 16/Sep/21 | 30 | 80 | 100 |
-| 16/Oct/21 | 40 | 90 | 110 |
-| 16/Nov/21 | 35 | 85 | 105 |
-| 16/Dec/21 | 45 | 95 | 115 |
-| 16/Jan/22 | 50 | 100 | 120 |
-| 16/Feb/22 | 55 | 280 | 125 |
-| 16/Mar/22 | 60 | 300 | 130 |
-| 16/Apr/22 | 65 | 290 | 135 |
-| 16/May/22 | 70 | 120 | 140 |
-| 16/Jun/22 | 75 | 170 | 145 |
-| 16/Jul/22 | 80 | 200 | 280 |
-| 16/Aug/22 | 85 | 250 | 300 |
-| 16/Sep/22 | 90 | 180 | 270 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 16/Sep/21 | 100 | 110 | 120 | 130 |
-| 16/Oct/21 | 110 | 120 | 130 | 140 |
-| 16/Nov/21 | 100 | 110 | 120 | 130 |
-| 16/Dec/21 | 110 | 120 | 130 | 140 |
-| 16/Jan/22 | 120 | 130 | 140 | 150 |
-| 16/Feb/22 | 130 | 140 | 150 | 160 |
-| 16/Mar/22 | 140 | 150 | 160 | 450 |
-| 16/Apr/22 | 150 | 160 | 170 | 480 |
-| 16/May/22 | 160 | 170 | 180 | 400 |
-| 16/Jun/22 | 170 | 180 | 190 | 350 |
-| 16/Jul/22 | 180 | 190 | 200 | 300 |
-| 16/Aug/22 | 190 | 200 | 210 | 280 |
-| 16/Sep/22 | 200 | 210 | 220 | 300 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Sep-22 avg | Aug-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -207,41 +175,9 @@ In the MR2 sector we had the sale of the "SEABRIGHT" (46,159dwt-blt '06, S. Kore
 |  | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 16/Sep/21 | 4000 | 3500 | 3200 | 1800 | 6000 |
-| 16/Oct/21 | 10500 | 4000 | 3500 | 1800 | 10500 |
-| 16/Nov/21 | 3000 | 3800 | 3000 | 1600 | 4000 |
-| 16/Dec/21 | 3500 | 3600 | 2800 | 1500 | 3500 |
-| 16/Jan/22 | 2000 | 2500 | 2200 | 1400 | 2500 |
-| 16/Feb/22 | 2200 | 2600 | 2400 | 1400 | 2600 |
-| 16/Mar/22 | 2800 | 2800 | 2600 | 1500 | 2800 |
-| 16/Apr/22 | 3000 | 2900 | 2700 | 1600 | 3000 |
-| 16/May/22 | 4500 | 3000 | 2800 | 1700 | 4500 |
-| 16/Jun/22 | 2500 | 2700 | 2500 | 1500 | 2500 |
-| 16/Jul/22 | 2200 | 2600 | 2400 | 1400 | 2200 |
-| 16/Aug/22 | 1800 | 2400 | 2000 | 1300 | 1800 |
-| 16/Sep/22 | 1600 | 2300 | 1800 | 1300 | 1600 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 16/Sep/21 | 35000 | 34000 | 33000 | 32000 |
-| 16/Oct/21 | 85000 | 35000 | 34000 | 33000 |
-| 16/Nov/21 | 25000 | 24000 | 23000 | 22000 |
-| 16/Dec/21 | 28000 | 27000 | 26000 | 25000 |
-| 16/Jan/22 | 20000 | 18000 | 17000 | 16000 |
-| 16/Feb/22 | 15000 | 16000 | 15000 | 14000 |
-| 16/Mar/22 | 22000 | 21000 | 20000 | 19000 |
-| 16/Apr/22 | 25000 | 24000 | 23000 | 22000 |
-| 16/May/22 | 35000 | 32000 | 31000 | 30000 |
-| 16/Jun/22 | 20000 | 19000 | 18000 | 17000 |
-| 16/Jul/22 | 15000 | 16000 | 15000 | 14000 |
-| 16/Aug/22 | 12000 | 14000 | 13000 | 12000 |
-| 16/Sep/22 | 10000 | 13000 | 12000 | 11000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -317,41 +253,9 @@ In the Handysize sector we had the sale of the "MAPLE AMBITION" (35,513dwt-blt '
 
 In the newbuilding segment, orders surfaced across almost all sectors, with crude orders once again abstaining from the newbuilding list after the recent MOL and Euronav contracts. In the wet sector, one order has been sealed for a 13,000dwt StSt vessel. In the dry segment, two orders have been placed for a total of four vessels on behalf of Chinese owners and assigned also at Chinese yards. In the gas sector, eight more berths on behalf of the Qatari project have been secured at DSME and have been signed by three owners, MISC, Meiji Shipping, and TMS Cardiff Gas, without however making clear how the vessels will be divided between the owners. The vessels will be delivered from 2026 onwards, while they will cost \$215.0m each. Conclusively, Eastern Pacific inked a deal with HMD for the construction of two firm plus two optional 1,400teu LNG dual-fuelled containers. The vessels will be equipped with ME-GI engines and will be delivered in 2025.
 
-## Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 16/Sep/21 | 105 | 72 | 58 | 50 | 42 |
-| 16/Oct/21 | 108 | 74 | 59 | 50 | 42 |
-| 16/Nov/21 | 110 | 75 | 59 | 51 | 43 |
-| 16/Dec/21 | 112 | 76 | 60 | 51 | 43 |
-| 16/Jan/22 | 115 | 77 | 60 | 52 | 43 |
-| 16/Feb/22 | 116 | 78 | 60 | 53 | 44 |
-| 16/Mar/22 | 117 | 78 | 61 | 53 | 44 |
-| 16/Apr/22 | 118 | 78 | 61 | 54 | 44 |
-| 16/May/22 | 119 | 77 | 61 | 54 | 44 |
-| 16/Jun/22 | 120 | 79 | 61 | 54 | 45 |
-| 16/Jul/22 | 121 | 79 | 62 | 55 | 45 |
-| 16/Aug/22 | 121 | 79 | 62 | 55 | 45 |
-| 16/Sep/22 | 121 | 79 | 62 | 55 | 46 |
-
-## Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 16/Sep/21 | 60 | 32 | 31 | 28 |
-| 16/Oct/21 | 60 | 32 | 31 | 29 |
-| 16/Nov/21 | 60 | 33 | 32 | 29 |
-| 16/Dec/21 | 60 | 33 | 32 | 29 |
-| 16/Jan/22 | 60 | 33 | 32 | 29 |
-| 16/Feb/22 | 60 | 33 | 32 | 29 |
-| 16/Mar/22 | 61 | 33 | 32 | 30 |
-| 16/Apr/22 | 61 | 33 | 33 | 30 |
-| 16/May/22 | 62 | 33 | 33 | 30 |
-| 16/Jun/22 | 62 | 33 | 33 | 30 |
-| 16/Jul/22 | 62 | 33 | 33 | 30 |
-| 16/Aug/22 | 62 | 33 | 33 | 30 |
-| 16/Sep/22 | 62 | 33 | 33 | 30 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -384,21 +288,8 @@ In the newbuilding segment, orders surfaced across almost all sectors, with crud
 
 It seems that the demolition market activity has yet to catch a positive momentum despite the hopes of an injection of dry bulk units amidst the recent downward pressure on the respective sector. Fundamentals across the Indian subcontinent demo nations remain negative with economic indicators worsening week by week. Both Bangladeshi and Pakistani currencies further depreciated against the USD with BDT and PKR reaching the 104.5 and 236.95 per dollar mark respectively. Pakistan has also continued to suffer from the recent flood that caused extreme disruptions across the country. Global steel demand remains weak, with its subsequent downward effect on scrap prices and steel mills utilization. Lastly, In Turkey imported scrap prices lost further ground amidst low demand leading to limited breakers' interest in fresh tonnage. On the offered bids side, levels remained stable as the low number of vintage candidates are balancing the overall weak momentum. Average prices in the different markets this week for tankers ranged between 260-585/ldt and those for dry bulk units between \$250-575/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 16/Sep/21 | 600 | 560 | 610 | 300 |
-| 16/Oct/21 | 620 | 580 | 620 | 320 |
-| 16/Nov/21 | 610 | 550 | 610 | 325 |
-| 16/Dec/21 | 605 | 540 | 605 | 330 |
-| 16/Jan/22 | 615 | 545 | 615 | 335 |
-| 16/Feb/22 | 670 | 570 | 670 | 420 |
-| 16/Mar/22 | 680 | 580 | 680 | 450 |
-| 16/Apr/22 | 675 | 585 | 675 | 450 |
-| 16/May/22 | 660 | 570 | 660 | 430 |
-| 16/Jun/22 | 600 | 550 | 600 | 325 |
-| 16/Jul/22 | 560 | 550 | 560 | 250 |
-| 16/Aug/22 | 570 | 560 | 570 | 255 |
-| 16/Sep/22 | 575 | 565 | 575 | 250 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

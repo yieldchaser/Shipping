@@ -51,40 +51,9 @@ Looking ahead, the global LNG market is set to experience a significant influx o
 | --- | --- | --- | --- | --- | --- | --- |
 | 7 mos | P.ALIKI | 2010 | 105,304 dwt | DELY WEST DEC/24 | $33,500/day | Exxon-Mobil |
 | 12 mos | PROTEUS INGRID | 2023 | 109,999 dwt | DELY WEST NOV/24 | $35,000/day | AET |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 6/Dec/23 | 120 | 120 | 120 |
-| 6/Jan/24 | 50 | 120 | 120 |
-| 6/Feb/24 | 400 | 120 | 380 |
-| 6/Mar/24 | 80 | 120 | 200 |
-| 6/Apr/24 | 70 | 120 | 220 |
-| 6/May/24 | 70 | 120 | 200 |
-| 6/lun/24 | 70 | 120 | 220 |
-| 6/lul/24 | 70 | 120 | 220 |
-| 6/Aug/24 | 70 | 120 | 200 |
-| 6/Sep/24 | 70 | 120 | 180 |
-| 6/Oct/24 | 70 | 120 | 200 |
-| 6/Nov/24 | 70 | 120 | 150 |
-| 6/Dec/24 | 70 | 120 | 120 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 6/Dec/23 | 150 | 150 | 150 | 150 |
-| 6/Jan/24 | 150 | 150 | 150 | 150 |
-| 6/Feb/24 | 380 | 350 | 380 | 350 |
-| 6/Mar/24 | 200 | 200 | 200 | 200 |
-| 6/Apr/24 | 180 | 180 | 180 | 180 |
-| 6/May/24 | 160 | 160 | 160 | 160 |
-| 6/lun/24 | 150 | 150 | 150 | 150 |
-| 6/lul/24 | 150 | 150 | 150 | 150 |
-| 6/Aug/24 | 150 | 150 | 150 | 150 |
-| 6/Sep/24 | 150 | 150 | 150 | 150 |
-| 6/Oct/24 | 150 | 150 | 150 | 150 |
-| 6/Nov/24 | 150 | 150 | 150 | 150 |
-| 6/Dec/24 | 180 | 150 | 180 | 180 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 06/12/24 | 29/11/24 | ±% | Diff | 2023 | 2022 |
@@ -154,41 +123,9 @@ Rates for LR1s and LR2s in the Middle East Gulf experienced mixed performance, w
 | **Handysize** | **32K 1yr TC** | 10,500 | 10,500 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 1,000 | 10,000 | -90.0% | -9,000 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 6/Dec/23 | 4500 | 2500 | 1500 | 1000 | 2500 |
-| 6/Jan/24 | 1500 | 1500 | 1200 | 800 | 1500 |
-| 6/Feb/24 | 2000 | 1800 | 1400 | 900 | 1800 |
-| 6/Mar/24 | 4000 | 2000 | 1600 | 1000 | 2000 |
-| 6/Apr/24 | 3500 | 1900 | 1500 | 1100 | 1900 |
-| 6/May/24 | 3000 | 1700 | 1400 | 1000 | 1700 |
-| 6/Jun/24 | 2800 | 1600 | 1300 | 900 | 1600 |
-| 6/Jul/24 | 3200 | 1700 | 1400 | 1000 | 1700 |
-| 6/Aug/24 | 2500 | 1500 | 1300 | 900 | 1500 |
-| 6/Sep/24 | 2800 | 1600 | 1300 | 900 | 1600 |
-| 6/Oct/24 | 2600 | 1500 | 1200 | 800 | 1500 |
-| 6/Nov/24 | 2400 | 1400 | 1100 | 800 | 1400 |
-| 6/Dec/24 | 1800 | 1200 | 1000 | 700 | 1200 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 6/Dec/23 | 50000 | 15000 | 12000 | 8000 |
-| 6/Jan/24 | 10000 | 12000 | 10000 | 7000 |
-| 6/Feb/24 | 8000 | 13000 | 11000 | 7000 |
-| 6/Mar/24 | 35000 | 16000 | 13000 | 8000 |
-| 6/Apr/24 | 30000 | 15000 | 12000 | 7500 |
-| 6/May/24 | 25000 | 14000 | 11000 | 7000 |
-| 6/Jun/24 | 28000 | 14000 | 11000 | 7000 |
-| 6/Jul/24 | 30000 | 15000 | 12000 | 7500 |
-| 6/Aug/24 | 22000 | 13000 | 10000 | 6500 |
-| 6/Sep/24 | 25000 | 14000 | 11000 | 7000 |
-| 6/Oct/24 | 20000 | 12000 | 10000 | 6000 |
-| 6/Nov/24 | 18000 | 11000 | 9000 | 5500 |
-| 6/Dec/24 | 15000 | 10000 | 8000 | 5000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Dec-24 avg | Nov-24 avg | ±% | 2023 | 2022 | 2021 |

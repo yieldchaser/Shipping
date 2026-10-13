@@ -110,41 +110,9 @@ Certification
 | Handy | 36k 1yr TC | 23,500 | 22,500 | 4.4% | 1000 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 14/Oct/21 | 40 | 100 | 140 |
-| 14/Nov/21 | 45 | 100 | 140 |
-| 14/Dec/21 | 50 | 100 | 140 |
-| 14/Jan/22 | 55 | 100 | 140 |
-| 14/Feb/22 | 60 | 280 | 150 |
-| 14/Mar/22 | 65 | 300 | 280 |
-| 14/Apr/22 | 70 | 290 | 290 |
-| 14/May/22 | 75 | 200 | 160 |
-| 14/Jun/22 | 80 | 180 | 150 |
-| 14/Jul/22 | 85 | 250 | 300 |
-| 14/Aug/22 | 90 | 320 | 320 |
-| 14/Sep/22 | 95 | 200 | 220 |
-| 14/Oct/22 | 100 | 190 | 200 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 14/Oct/21 | 120 | 130 | 140 | 150 |
-| 14/Nov/21 | 125 | 135 | 145 | 155 |
-| 14/Dec/21 | 130 | 140 | 150 | 160 |
-| 14/Jan/22 | 135 | 145 | 155 | 165 |
-| 14/Feb/22 | 140 | 150 | 160 | 300 |
-| 14/Mar/22 | 145 | 155 | 165 | 450 |
-| 14/Apr/22 | 150 | 160 | 170 | 480 |
-| 14/May/22 | 155 | 165 | 175 | 470 |
-| 14/Jun/22 | 160 | 170 | 180 | 300 |
-| 14/Jul/22 | 165 | 175 | 185 | 280 |
-| 14/Aug/22 | 170 | 180 | 190 | 260 |
-| 14/Sep/22 | 175 | 185 | 195 | 240 |
-| 14/Oct/22 | 180 | 190 | 200 | 220 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Oct-22 avg | Sep-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -208,41 +176,9 @@ In the Small sector we had the sale of the "CELSIUS MIAMI" (19,991dwt-bl't '05, 
 |  | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 14/Oct/21 | 3500 | 4500 | 3500 | 1800 | 8000 |
-| 14/Nov/21 | 2800 | 2500 | 2800 | 1600 | 5000 |
-| 14/Dec/21 | 2200 | 2000 | 2200 | 1500 | 3500 |
-| 14/Jan/22 | 2000 | 1800 | 2000 | 1500 | 3000 |
-| 14/Feb/22 | 1800 | 1700 | 1800 | 1500 | 2500 |
-| 14/Mar/22 | 2500 | 2800 | 2500 | 1700 | 3000 |
-| 14/Apr/22 | 2800 | 3000 | 2800 | 1800 | 3500 |
-| 14/May/22 | 3000 | 3200 | 3000 | 1900 | 4000 |
-| 14/Jun/22 | 2800 | 3000 | 2800 | 1700 | 3500 |
-| 14/Jul/22 | 2500 | 2800 | 2500 | 1600 | 3000 |
-| 14/Aug/22 | 2200 | 2500 | 2200 | 1500 | 2500 |
-| 14/Sep/22 | 2000 | 2200 | 2000 | 1600 | 2200 |
-| 14/Oct/22 | 2000 | 2000 | 2000 | 1700 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 14/Oct/21 | 38000 | 35000 | 36000 | 34000 |
-| 14/Nov/21 | 25000 | 22000 | 24000 | 23000 |
-| 14/Dec/21 | 18000 | 17000 | 19000 | 18000 |
-| 14/Jan/22 | 16000 | 15000 | 17000 | 16000 |
-| 14/Feb/22 | 12000 | 14000 | 15000 | 14000 |
-| 14/Mar/22 | 18000 | 16000 | 17000 | 15000 |
-| 14/Apr/22 | 25000 | 24000 | 26000 | 22000 |
-| 14/May/22 | 30000 | 28000 | 30000 | 26000 |
-| 14/Jun/22 | 28000 | 26000 | 28000 | 24000 |
-| 14/Jul/22 | 22000 | 22000 | 24000 | 20000 |
-| 14/Aug/22 | 16000 | 18000 | 20000 | 16000 |
-| 14/Sep/22 | 18000 | 19000 | 19000 | 17000 |
-| 14/Oct/22 | 18000 | 18000 | 18000 | 18000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -347,37 +283,10 @@ In the Kamsarmax sector we had the sale of the "BULK HOLLAND" (81,712dwt-blt '17
 
 Newbuilding market continued to demonstrate healthy contracting activity for yet another week. In the tanker realm, Fairfield Chemical declared options for 2x26,300dwt stainless steel chemical tankers with Fukuoka Shipbuilding. The vessels cost \$70.0m each and will be delivered by 2025. In the dry sector, Lepta Shipping struck a deal with Yangtzi-Mitsui for 2x66,000dwt methanol fuelled vessels at an undisclosed price and 2024 delivery. In the gas sector, Pacific Gas inked a deal with Jiangnan Shipyard for 2+2x99,000cbm dual-fuelled vessels. The ethane carriers, which will cost \$130.0 each and will be delivered by 2025, are rumored to have been fixed under a 10-year T/C with UK-based chemical giant Ineos. Conclusively, the LNG ordering activity continues to gather momentum. With slots at the three big Korean shipyards being extremely tight, Chinese shipbuilders have emerged as alternative players and are ready to fill the gap and accommodate the flurry of new orders. In this respect, Celsius Tankers have sealed a deal with CMHI in Jiangsu for the construction of 4+8x180,000cbm vessels at \$231.0m each. While prices at Korean yards currently hover close to the \$240.0m-\$250.0m range, Chinese rivals are offering considerably lower prices, within the \$200.0m-\$230.0m range, becoming thus a lot more competitive.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 14/Oct/21 | 105 | 75 | 58 | 48 | 42 |
-| 14/Nov/21 | 108 | 76 | 58 | 48 | 42 |
-| 14/Dec/21 | 110 | 77 | 58 | 48 | 42 |
-| 14/Jan/22 | 112 | 77 | 58 | 49 | 43 |
-| 14/Feb/22 | 115 | 78 | 59 | 49 | 43 |
-| 14/Mar/22 | 116 | 78 | 59 | 49 | 43 |
-| 14/Apr/22 | 117 | 78 | 59 | 50 | 43 |
-| 14/May/22 | 118 | 77 | 59 | 50 | 43 |
-| 14/Jun/22 | 119 | 78 | 60 | 50 | 43 |
-| 14/Jul/22 | 120 | 78 | 60 | 50 | 43 |
-| 14/Aug/22 | 120 | 78 | 60 | 50 | 43 |
-| 14/Sep/22 | 120 | 78 | 60 | 50 | 43 |
-| 14/Oct/22 | 120 | 78 | 60 | 50 | 43 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 14/Oct/21 | 60 | 32 | 32 | 30 |
-| 14/Nov/21 | 60 | 32 | 32 | 30 |
-| 14/Dec/21 | 60 | 32 | 32 | 30 |
-| 14/Jan/22 | 60 | 32 | 32 | 30 |
-| 14/Feb/22 | 60 | 32 | 32 | 30 |
-| 14/Mar/22 | 61 | 32 | 32 | 30 |
-| 14/Apr/22 | 61 | 33 | 33 | 30 |
-| 14/May/22 | 62 | 33 | 33 | 30 |
-| 14/Jun/22 | 62 | 33 | 33 | 30 |
-| 14/Jul/22 | 62 | 33 | 33 | 30 |
-| 14/Aug/22 | 62 | 33 | 32 | 29 |
-| 14/Sep/22 | 62 | 33 | 32 | 29 |
-| 14/Oct/22 | 62 | 32 | 32 | 29 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
+
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -409,21 +318,8 @@ Newbuilding market continued to demonstrate healthy contracting activity for yet
 
 The volume of the materialized deals in the demolition market remains low despite steady offering activity from Indian and Bangladeshi breakers due to their low inventory levels. Indeed, owners continue to abstain from the demolition option as both tanker and dry bulk freight markets stay healthy. On the Container front, we could anticipate more units being proposed for scrapping in 2023 which could trigger a spark in demolition activity especially if this coincides with a healthier steel global steel market trade. However, at the time of writing, we continue to see subdued scrapping activity as both the steel demand and financial capacity of the Indian subcontinent markets stay in the best-case scenario uninspiring. Average prices in the different markets this week for tankers ranged between 260-600/ldt and those for dry bulk units between \$250-590/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 14/Oct/21 | 600 | 600 | 590 | 300 |
-| 14/Nov/21 | 600 | 550 | 590 | 325 |
-| 14/Dec/21 | 600 | 550 | 585 | 330 |
-| 14/Jan/22 | 600 | 575 | 585 | 350 |
-| 14/Feb/22 | 675 | 650 | 675 | 380 |
-| 14/Mar/22 | 675 | 675 | 675 | 450 |
-| 14/Apr/22 | 675 | 675 | 675 | 450 |
-| 14/May/22 | 625 | 625 | 625 | 330 |
-| 14/Jun/22 | 575 | 575 | 575 | 330 |
-| 14/Jul/22 | 550 | 550 | 550 | 250 |
-| 14/Aug/22 | 575 | 575 | 575 | 250 |
-| 14/Sep/22 | 575 | 575 | 575 | 250 |
-| 14/Oct/22 | 575 | 575 | 575 | 250 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

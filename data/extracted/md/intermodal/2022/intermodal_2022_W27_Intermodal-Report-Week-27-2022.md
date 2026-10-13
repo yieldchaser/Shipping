@@ -108,40 +108,10 @@ The Baltic Exchange
 | --- | --- | --- | --- | --- | --- |
 | 36 mos | SUR | 2020 | 299,997 dwt | $36,000/day | Sinokor |
 | 36 mos | ALIGOTE | 2010 | 74,192 dwt | $21,250/day | Trafigura Beheer BV |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 8/Jul/21 | 20 | 80 | 100 |
-| 8/Aug/21 | 25 | 90 | 110 |
-| 8/Sep/21 | 30 | 100 | 120 |
-| 8/Oct/21 | 35 | 110 | 130 |
-| 8/Nov/21 | 40 | 120 | 140 |
-| 8/Dec/21 | 45 | 130 | 150 |
-| 8/Jan/22 | 50 | 140 | 160 |
-| 8/Feb/22 | 55 | 280 | 170 |
-| 8/Mar/22 | 60 | 290 | 280 |
-| 8/Apr/22 | 65 | 270 | 260 |
-| 8/May/22 | 70 | 150 | 180 |
-| 8/Jun/22 | 75 | 140 | 190 |
-| 8/Jul/22 | 80 | 270 | 270 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 8/Jul/21 | 100 | 110 | 120 | 130 |
-| 8/Aug/21 | 110 | 120 | 130 | 140 |
-| 8/Sep/21 | 120 | 130 | 140 | 150 |
-| 8/Oct/21 | 130 | 140 | 150 | 160 |
-| 8/Nov/21 | 140 | 150 | 160 | 170 |
-| 8/Dec/21 | 150 | 160 | 170 | 180 |
-| 8/Jan/22 | 160 | 170 | 180 | 190 |
-| 8/Feb/22 | 170 | 180 | 190 | 200 |
-| 8/Mar/22 | 300 | 310 | 320 | 400 |
-| 8/Apr/22 | 310 | 320 | 330 | 450 |
-| 8/May/22 | 320 | 330 | 340 | 400 |
-| 8/Jun/22 | 330 | 340 | 350 | 460 |
-| 8/Jul/22 | 300 | 310 | 320 | 310 |
 ## TC Rates
 
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -219,41 +189,9 @@ In the LR1 sector we had the sale of the "STENA PARIS" (65,125dwt-blt '05, Croat
 |  | 32K 1yr TC | 17,750 | 19,500 | -9.0% | -1,750 | 18,354 | 8,356 |
 |  | 32K 3yr TC | 12,500 | 13,000 | -3.8% | -500 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 8/Jul/21 | 3000 | 4000 | 3000 | 1500 | 4000 |
-| 8/Aug/21 | 5000 | 4000 | 3000 | 1500 | 6000 |
-| 8/Sep/21 | 6000 | 4000 | 3000 | 1500 | 6000 |
-| 8/Oct/21 | 10000 | 4500 | 3000 | 1500 | 10000 |
-| 8/Nov/21 | 3000 | 4000 | 3000 | 1500 | 3000 |
-| 8/Dec/21 | 3000 | 3500 | 2500 | 1500 | 3000 |
-| 8/Jan/22 | 3000 | 3000 | 2500 | 1500 | 3000 |
-| 8/Feb/22 | 2500 | 2500 | 2000 | 1500 | 2500 |
-| 8/Mar/22 | 2500 | 2500 | 2500 | 1500 | 2500 |
-| 8/Apr/22 | 3000 | 3000 | 2500 | 1500 | 3000 |
-| 8/May/22 | 4000 | 3500 | 3000 | 2000 | 4000 |
-| 8/Jun/22 | 4000 | 3000 | 2500 | 2000 | 4000 |
-| 8/Jul/22 | 2500 | 2500 | 2500 | 2000 | 2500 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 8/Jul/21 | 30000 | 30000 | 30000 | 30000 |
-| 8/Aug/21 | 45000 | 35000 | 30000 | 30000 |
-| 8/Sep/21 | 50000 | 35000 | 30000 | 30000 |
-| 8/Oct/21 | 85000 | 35000 | 30000 | 30000 |
-| 8/Nov/21 | 25000 | 25000 | 25000 | 25000 |
-| 8/Dec/21 | 25000 | 25000 | 20000 | 25000 |
-| 8/Jan/22 | 15000 | 20000 | 20000 | 20000 |
-| 8/Feb/22 | 15000 | 20000 | 20000 | 20000 |
-| 8/Mar/22 | 25000 | 25000 | 25000 | 20000 |
-| 8/Apr/22 | 30000 | 30000 | 30000 | 20000 |
-| 8/May/22 | 35000 | 30000 | 30000 | 25000 |
-| 8/Jun/22 | 25000 | 25000 | 25000 | 25000 |
-| 8/Jul/22 | 20000 | 20000 | 20000 | 20000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -354,37 +292,10 @@ In the Handysize sector we had the sale of the "YANGTZE SPIRIT" (35,169dwt-blt '
 
 The newbuilding market continues to see healthy ordering activity overall last week. On the wet front, no new orders have been reported with the orderbook still at historically low levels. Appetite for LNG carriers is steady, with berths on behalf of Qatar LNG project, monopolizing owners' interest. Last week, Knutsen secured 8 berths at Hyundai HI, paying approx. \$215.0m per unit. During mid-June, Knutsen secured 2 more berths, which paired with this order, lift Knutsen's orderbook for Qatari's project LNGCs to a total of 10 vessels. Two more LNGs have been ordered on behalf of Cardiff Gas last week. The duet marks Cardiff's second LNG contract this year and it has been assigned to Hyundai Samho for construction and delivery within 2026, while owner will pay around \$245.0m/unit. On the dry front, three orders came to light for a total of 7 vessels. Inui Global Logistics placed 2 separate orders for 2 vessels each at Imabari and Oshima, respectively. All vessels will be built according to EEDI phase 3 standards and they are due for delivery within 2025. Conclusively, on the container front, 1 order came to light for 2+2 x 1,800teu containers from Cosmoship. The Greek owner inked a deal with Chinese Yangzijiang for the 2 vessels that will meet EEDI phase 3 standards and will be delivered between 2023 and 2024.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 8/Jul/21 | 95 | 60 | 50 | 45 | 35 |
-| 8/Aug/21 | 96 | 62 | 52 | 46 | 36 |
-| 8/Sep/21 | 98 | 64 | 55 | 47 | 37 |
-| 8/Oct/21 | 100 | 66 | 57 | 48 | 38 |
-| 8/Nov/21 | 102 | 68 | 58 | 49 | 39 |
-| 8/Dec/21 | 104 | 70 | 60 | 50 | 40 |
-| 8/Jan/22 | 106 | 72 | 61 | 51 | 41 |
-| 8/Feb/22 | 108 | 74 | 62 | 52 | 42 |
-| 8/Mar/22 | 110 | 75 | 63 | 53 | 43 |
-| 8/Apr/22 | 112 | 76 | 64 | 54 | 44 |
-| 8/May/22 | 114 | 77 | 65 | 55 | 45 |
-| 8/Jun/22 | 116 | 78 | 66 | 56 | 46 |
-| 8/Jul/22 | 118 | 79 | 67 | 57 | 47 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 8/Jul/21 | 58 | 32 | 30 | 26 |
-| 8/Aug/21 | 59 | 33 | 31 | 27 |
-| 8/Sep/21 | 60 | 34 | 32 | 28 |
-| 8/Oct/21 | 60 | 35 | 33 | 29 |
-| 8/Nov/21 | 60 | 36 | 34 | 29 |
-| 8/Dec/21 | 60 | 36 | 34 | 30 |
-| 8/Jan/22 | 60 | 36 | 35 | 30 |
-| 8/Feb/22 | 61 | 37 | 35 | 30 |
-| 8/Mar/22 | 61 | 37 | 36 | 30 |
-| 8/Apr/22 | 61 | 38 | 36 | 30 |
-| 8/May/22 | 62 | 38 | 37 | 31 |
-| 8/Jun/22 | 62 | 39 | 37 | 31 |
-| 8/Jul/22 | 62 | 39 | 38 | 31 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
+
 ## Indicative Period Charters
 
 _No period fixtures reported._
@@ -411,21 +322,8 @@ _No period fixtures reported._
 
 The demolition market noted an increase in scrap levels offered from Indian subcontinent breakers underpinned by improved steel prices. At the same time, the scarcity of vintage candidates remains in place which leads to owners' reluctance to dispose of their units even at last week's improved levels. As a result, materialized deals were limited for another week, further being pressured by the Eid holidays inactivity across the Indian subcontinent nations and the overall uncertainty that the steel price volatility coupled with the currencies depreciation has brought to breakers sentiment. Bids have also witnessed an improvement in Turkey as an increase in imported scrap prices helped local breakers to raise their offers. Yet, trading volume remained low amidst erratic economic progress which has led end-users to the sidelines. Average prices in the different markets this week for tankers ranged between 270-580/ldt and those for dry bulk units between \$260-570/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 8/Jul/21 | 575 | 520 | 570 | 280 |
-| 8/Aug/21 | 585 | 540 | 580 | 275 |
-| 8/Sep/21 | 590 | 550 | 585 | 280 |
-| 8/Oct/21 | 600 | 560 | 600 | 310 |
-| 8/Nov/21 | 600 | 550 | 600 | 330 |
-| 8/Dec/21 | 595 | 550 | 590 | 340 |
-| 8/Jan/22 | 590 | 560 | 585 | 345 |
-| 8/Feb/22 | 595 | 570 | 590 | 350 |
-| 8/Mar/22 | 660 | 650 | 670 | 450 |
-| 8/Apr/22 | 660 | 660 | 670 | 450 |
-| 8/May/22 | 650 | 650 | 660 | 440 |
-| 8/Jun/22 | 600 | 580 | 600 | 310 |
-| 8/Jul/22 | 565 | 560 | 565 | 260 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |

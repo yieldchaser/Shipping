@@ -97,40 +97,9 @@ Activity in the demolition market has also shown divergent trends across the two
 | Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- | --- |
 | 12 mos | COURAGE | 2008 | 45,965 dwt | DEL WEST AUG/24 | $32,000/day | Raizen |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 7/lun/23 | 100 | 100 | 180 |
-| 7/jul/23 | 50 | 100 | 180 |
-| 7/aug/23 | 50 | 100 | 150 |
-| 7/sep/23 | 50 | 100 | 150 |
-| 7/oct/23 | 50 | 150 | 280 |
-| 7/Nov/23 | 50 | 150 | 280 |
-| 7/Dec/23 | 50 | 150 | 280 |
-| 7/Jan/24 | 50 | 150 | 280 |
-| 7/Feb/24 | 50 | 150 | 380 |
-| 7/Mar/24 | 50 | 150 | 200 |
-| 7/Apr/24 | 50 | 150 | 200 |
-| 7/May/24 | 50 | 150 | 200 |
-| 7/lun/24 | 50 | 150 | 200 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 7/lun/23 | 100 | 150 | 150 | 150 |
-| 7/jul/23 | 100 | 150 | 150 | 150 |
-| 7/aug/23 | 100 | 150 | 150 | 150 |
-| 7/sep/23 | 100 | 150 | 150 | 150 |
-| 7/oct/23 | 100 | 150 | 150 | 150 |
-| 7/Nov/23 | 100 | 150 | 150 | 150 |
-| 7/Dec/23 | 100 | 150 | 150 | 150 |
-| 7/Jan/24 | 100 | 150 | 150 | 150 |
-| 7/Feb/24 | 350 | 350 | 350 | 350 |
-| 7/Mar/24 | 250 | 250 | 250 | 250 |
-| 7/Apr/24 | 250 | 250 | 250 | 250 |
-| 7/May/24 | 250 | 250 | 250 | 250 |
-| 7/lun/24 | 200 | 200 | 200 | 200 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -163,22 +132,7 @@ On products, freight softened last week, with LR2 MEG/Japan (TC1) losing -14.7% 
 | 16/18 mos | ELECTRA | 2013 | 87,146 dwt | dely Gunsan 3/6 Jun redel worldwide | $14,000/day | Aquavita |
 | 4/6 months | SEACON ANTWERP | 2024 | 82,332 dwt | del ex yard Tsuneishi Zhoushan 6/10 Jun redel worldwide | $19,400/day | Louis Dreyfus |
 
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 7/Jun/23 | 1,500 | 1,000 | 1,200 | 900 | 1,200 |
-| 7/Jul/23 | 2,000 | 1,100 | 1,300 | 950 | 1,300 |
-| 7/Aug/23 | 2,500 | 1,200 | 1,400 | 1,000 | 1,400 |
-| 7/Sep/23 | 3,000 | 1,300 | 1,500 | 1,100 | 1,500 |
-| 7/Oct/23 | 3,500 | 1,400 | 1,600 | 1,200 | 1,600 |
-| 7/Nov/23 | 4,000 | 1,500 | 1,700 | 1,300 | 1,700 |
-| 7/Dec/23 | 6,500 | 3,000 | 3,000 | 2,000 | 3,000 |
-| 7/Jan/24 | 2,000 | 1,500 | 1,500 | 1,400 | 1,500 |
-| 7/Feb/24 | 2,500 | 1,600 | 1,600 | 1,500 | 1,600 |
-| 7/Mar/24 | 3,500 | 1,700 | 1,700 | 1,600 | 1,700 |
-| 7/Apr/24 | 2,800 | 1,600 | 1,600 | 1,500 | 1,600 |
-| 7/May/24 | 2,500 | 1,500 | 1,500 | 1,400 | 1,500 |
-| 7/Jun/24 | 2,800 | 1,600 | 1,600 | 1,500 | 1,600 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 07/06/24 | 31/05/24 | ±% | Diff | 2023 | 2022 |
@@ -192,23 +146,7 @@ On products, freight softened last week, with LR2 MEG/Japan (TC1) losing -14.7% 
 | **Handysize** | **32K 1yr TC** | 12,500 | 12,500 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 7/Jun/23 | 12000 | 10000 | 8000 | 7000 |
-| 7/Jul/23 | 13000 | 11000 | 9000 | 7500 |
-| 7/Aug/23 | 14000 | 12000 | 10000 | 8000 |
-| 7/Sep/23 | 20000 | 13000 | 11000 | 8500 |
-| 7/Oct/23 | 25000 | 14000 | 12000 | 9000 |
-| 7/Nov/23 | 30000 | 15000 | 13000 | 9500 |
-| 7/Dec/23 | 52000 | 25000 | 20000 | 15000 |
-| 7/Jan/24 | 15000 | 14000 | 12000 | 9000 |
-| 7/Feb/24 | 16000 | 15000 | 13000 | 9500 |
-| 7/Mar/24 | 28000 | 16000 | 14000 | 10000 |
-| 7/Apr/24 | 22000 | 15000 | 13000 | 9500 |
-| 7/May/24 | 24000 | 15500 | 13500 | 9800 |
-| 7/Jun/24 | 23000 | 15000 | 13000 | 9500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jun-24 avg | May-24 avg | ±% | 2023 | 2022 | 2021 |

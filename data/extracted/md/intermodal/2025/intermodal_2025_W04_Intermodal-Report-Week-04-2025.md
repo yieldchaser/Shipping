@@ -45,40 +45,9 @@ The average scrap prices offered by Bangladeshi scrapyards currently hover aroun
 ## Indicative Period Charters
 
 No Fresh Fixtures to Report
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 24/Jan/24 | 70 | 100 | 250 |
-| 24/Feb/24 | 70 | 100 | 150 |
-| 24/Mar/24 | 70 | 110 | 200 |
-| 24/Apr/24 | 70 | 110 | 200 |
-| 24/May/24 | 70 | 110 | 200 |
-| 24/Jun/24 | 70 | 100 | 150 |
-| 24/Jul/24 | 70 | 100 | 150 |
-| 24/Aug/24 | 70 | 100 | 150 |
-| 24/Sep/24 | 70 | 100 | 200 |
-| 24/Oct/24 | 70 | 100 | 150 |
-| 24/Nov/24 | 70 | 100 | 150 |
-| 24/Dec/24 | 70 | 100 | 150 |
-| 24/Jan/25 | 70 | 100 | 150 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 24/Jan/24 | 350 | 150 | 300 | 300 |
-| 24/Feb/24 | 300 | 150 | 250 | 250 |
-| 24/Mar/24 | 250 | 150 | 200 | 200 |
-| 24/Apr/24 | 200 | 150 | 150 | 150 |
-| 24/May/24 | 150 | 150 | 150 | 150 |
-| 24/Jun/24 | 150 | 150 | 150 | 150 |
-| 24/Jul/24 | 150 | 150 | 150 | 150 |
-| 24/Aug/24 | 150 | 150 | 150 | 150 |
-| 24/Sep/24 | 150 | 150 | 150 | 150 |
-| 24/Oct/24 | 150 | 150 | 150 | 150 |
-| 24/Nov/24 | 150 | 150 | 150 | 150 |
-| 24/Dec/24 | 150 | 150 | 150 | 150 |
-| 24/Jan/25 | 150 | 150 | 150 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 24/01/25 | 17/01/25 | ±% | Diff | 2024 | 2023 |
@@ -146,41 +115,9 @@ The activity of Aframax market was limited this week, especially in East. The re
 | **Handysize** | **32K 1yr TC** | 9,500 | 10,000 | -5.0% | -500 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 24/Jan/24 | 3500 | 1800 | 1600 | 1000 | 1800 |
-| 24/Feb/24 | 4200 | 1700 | 1500 | 900 | 1700 |
-| 24/Mar/24 | 4500 | 1600 | 1400 | 800 | 1600 |
-| 24/Apr/24 | 3800 | 1500 | 1300 | 800 | 1500 |
-| 24/May/24 | 3600 | 1400 | 1200 | 700 | 1400 |
-| 24/Jun/24 | 3400 | 1300 | 1100 | 700 | 1300 |
-| 24/Jul/24 | 3200 | 1200 | 1000 | 600 | 1200 |
-| 24/Aug/24 | 3000 | 1100 | 900 | 600 | 1100 |
-| 24/Sep/24 | 3300 | 1000 | 800 | 500 | 1000 |
-| 24/Oct/24 | 2800 | 900 | 700 | 500 | 900 |
-| 24/Nov/24 | 2600 | 800 | 600 | 400 | 800 |
-| 24/Dec/24 | 2400 | 700 | 500 | 300 | 700 |
-| 24/Jan/25 | 2200 | 600 | 400 | 200 | 600 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 24/Jan/24 | 12000 | 10000 | 8000 | 6000 |
-| 24/Feb/24 | 14000 | 9000 | 7000 | 5000 |
-| 24/Mar/24 | 35000 | 8000 | 6000 | 4000 |
-| 24/Apr/24 | 22000 | 7000 | 5000 | 3000 |
-| 24/May/24 | 24000 | 6000 | 4000 | 2000 |
-| 24/Jun/24 | 23000 | 5000 | 3000 | 1000 |
-| 24/Jul/24 | 21000 | 4000 | 2000 | 0 |
-| 24/Aug/24 | 19000 | 3000 | 1000 | 0 |
-| 24/Sep/24 | 26000 | 2000 | 0 | 0 |
-| 24/Oct/24 | 15000 | 1000 | 0 | 0 |
-| 24/Nov/24 | 24000 | 0 | 0 | 0 |
-| 24/Dec/24 | 8000 | 0 | 0 | 0 |
-| 24/Jan/25 | 10000 | 0 | 0 | 0 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jan-25 avg | Dec-24 avg | ±% | 2024 | 2023 | 2022 |

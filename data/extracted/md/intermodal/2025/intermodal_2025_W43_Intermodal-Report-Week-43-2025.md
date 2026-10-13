@@ -52,40 +52,9 @@ Shipbuilding is a vital component of the Japanese economy and core of its mariti
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 6 mos | Blue Prince | 2009 | 109,010 dwt | $35,000/day | GCC Fuel Supply FZE |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 24/Oct/24 | 50 | 100 | 150 |
-| 24/Nov/24 | 55 | 110 | 160 |
-| 24/Dec/24 | 60 | 120 | 170 |
-| 24/Jan/25 | 65 | 130 | 180 |
-| 24/Feb/25 | 70 | 140 | 190 |
-| 24/Mar/25 | 75 | 150 | 210 |
-| 24/Apr/25 | 80 | 160 | 220 |
-| 24/May/25 | 85 | 170 | 230 |
-| 24/Jun/25 | 90 | 180 | 240 |
-| 24/Jul/25 | 95 | 190 | 250 |
-| 24/Aug/25 | 100 | 200 | 260 |
-| 24/Sep/25 | 105 | 210 | 270 |
-| 24/Oct/25 | 110 | 220 | 280 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 24/Oct/24 | 100 | 110 | 120 | 130 |
-| 24/Nov/24 | 105 | 115 | 125 | 135 |
-| 24/Dec/24 | 110 | 120 | 130 | 140 |
-| 24/Jan/25 | 115 | 125 | 135 | 145 |
-| 24/Feb/25 | 120 | 130 | 140 | 150 |
-| 24/Mar/25 | 125 | 135 | 145 | 155 |
-| 24/Apr/25 | 130 | 140 | 150 | 160 |
-| 24/May/25 | 135 | 145 | 155 | 165 |
-| 24/Jun/25 | 140 | 150 | 160 | 170 |
-| 24/Jul/25 | 145 | 155 | 165 | 175 |
-| 24/Aug/25 | 150 | 160 | 170 | 180 |
-| 24/Sep/25 | 155 | 165 | 175 | 185 |
-| 24/Oct/25 | 160 | 170 | 180 | 190 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 24/10/2025 | 17/10/2025 | ±% | Diff | 2024 | 2023 |

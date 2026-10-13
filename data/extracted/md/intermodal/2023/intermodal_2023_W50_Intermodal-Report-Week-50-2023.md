@@ -48,40 +48,9 @@ As we approach 2024, the shipping industry's focus will be on developing adaptab
 | --- | --- | --- | --- | --- | --- | --- |
 | 60 mos | STENA PROVIDENT (NB) | 2024 | 49,900 dwt | DEL CHINA DEC/23 | $26,250/day | Bahri Chems |
 | 4 to 6 mos | WISTERIA | 2008 | 50,661 dwt | DELEAST DEC/23 | $26,000/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 15/Dec/22 | 280 | 280 | 300 |
-| 15/Jan/23 | 80 | 160 | 200 |
-| 15/Feb/23 | 70 | 380 | 350 |
-| 15/Mar/23 | 80 | 360 | 380 |
-| 15/Apr/23 | 70 | 100 | 360 |
-| 15/May/23 | 80 | 100 | 80 |
-| 15/Jun/23 | 70 | 100 | 100 |
-| 15/Jul/23 | 70 | 100 | 100 |
-| 15/Aug/23 | 70 | 100 | 100 |
-| 15/Sep/23 | 70 | 80 | 100 |
-| 15/Oct/23 | 70 | 100 | 280 |
-| 15/Nov/23 | 70 | 140 | 140 |
-| 15/Dec/23 | 70 | 140 | 140 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 15/Dec/22 | 320 | 320 | 420 | 320 |
-| 15/Jan/23 | 100 | 100 | 200 | 150 |
-| 15/Feb/23 | 100 | 200 | 420 | 150 |
-| 15/Mar/23 | 100 | 150 | 150 | 150 |
-| 15/Apr/23 | 100 | 150 | 150 | 150 |
-| 15/May/23 | 100 | 150 | 150 | 150 |
-| 15/Jun/23 | 100 | 150 | 150 | 150 |
-| 15/Jul/23 | 100 | 150 | 150 | 150 |
-| 15/Aug/23 | 100 | 150 | 150 | 150 |
-| 15/Sep/23 | 100 | 150 | 300 | 150 |
-| 15/Oct/23 | 100 | 150 | 300 | 150 |
-| 15/Nov/23 | 150 | 180 | 200 | 180 |
-| 15/Dec/23 | 150 | 180 | 180 | 180 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 15/12/23 | 08/12/23 | ±% | Diff | 2022 | 2021 |
@@ -148,23 +117,7 @@ Suezmax T/C earnings averaged \$49,858/day, down - \$5,846/day w-o-w. On the Afr
 | **Handysize** | **32K 1yr TC** | 13,750 | 13,000 | **5.8%** | **750** | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 12,322 | 11,825 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 15/Dec/22 | 20000 | 12000 | 10000 | 8000 |
-| 15/Jan/23 | 10000 | 10000 | 9000 | 7000 |
-| 15/Feb/23 | 5000 | 8000 | 8000 | 6000 |
-| 15/Mar/23 | 10000 | 10000 | 9000 | 7000 |
-| 15/Apr/23 | 18000 | 12000 | 10000 | 8000 |
-| 15/May/23 | 20000 | 12000 | 10000 | 8000 |
-| 15/Jun/23 | 12000 | 10000 | 9000 | 7000 |
-| 15/Jul/23 | 15000 | 11000 | 9000 | 7000 |
-| 15/Aug/23 | 15000 | 11000 | 9000 | 7000 |
-| 15/Sep/23 | 25000 | 15000 | 12000 | 10000 |
-| 15/Oct/23 | 30000 | 18000 | 14000 | 12000 |
-| 15/Nov/23 | 50000 | 20000 | 16000 | 14000 |
-| 15/Dec/23 | 35000 | 18000 | 15000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Dec-23 avg | Nov-23 avg | ±% | 2022 | 2021 |

@@ -94,41 +94,10 @@ The Baltic Exchange
 | --- | --- | --- | --- | --- | --- |
 | 7 mos | JAG LOKESH | 2009 | 105,599 dwt | $20,000/day | Trafigura |
 | 9 mos | KATHERINE LADY | 2022 | 49,999 dwt | $16,500/day | Koch Logistics |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS points | WS points | WS points |
-| 8/Apr/21 | 30 | 70 | 90 |
-| 8/May/21 | 30 | 70 | 90 |
-| 8/Jun/21 | 30 | 70 | 90 |
-| 8/Jul/21 | 30 | 70 | 90 |
-| 8/Aug/21 | 30 | 70 | 90 |
-| 8/Sep/21 | 30 | 70 | 90 |
-| 8/Oct/21 | 30 | 70 | 90 |
-| 8/Nov/21 | 30 | 70 | 90 |
-| 8/Dec/21 | 30 | 70 | 90 |
-| 8/Jan/22 | 30 | 70 | 90 |
-| 8/Feb/22 | 30 | 70 | 280 |
-| 8/Mar/22 | 30 | 300 | 280 |
-| 8/Apr/22 | 30 | 300 | 280 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 8/Apr/21 | 120 | 130 | 140 | 150 |
-| 8/May/21 | 120 | 130 | 140 | 150 |
-| 8/Jun/21 | 120 | 130 | 140 | 150 |
-| 8/Jul/21 | 120 | 130 | 140 | 150 |
-| 8/Aug/21 | 120 | 130 | 140 | 150 |
-| 8/Sep/21 | 120 | 130 | 140 | 150 |
-| 8/Oct/21 | 120 | 130 | 140 | 150 |
-| 8/Nov/21 | 120 | 130 | 140 | 150 |
-| 8/Dec/21 | 120 | 130 | 140 | 150 |
-| 8/Jan/22 | 120 | 130 | 140 | 150 |
-| 8/Feb/22 | 120 | 130 | 140 | 150 |
-| 8/Mar/22 | 120 | 130 | 140 | 150 |
-| 8/Apr/22 | 120 | 130 | 140 | 450 |
 ## TC Rates
 
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -208,41 +177,9 @@ In the MR2 sector we had sale of the "HIGH SATURN" (51,527dwt-blt '08, S. Korea)
 |  | 32K 1yr TC | 21,250 | 21,500 | -1.2% | -250 | 18,354 | 8,356 |
 |  | 32K 3yr TC | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 15/Apr/21 | 3500 | 2800 | 1800 | 1400 | 4000 |
-| 15/May/21 | 5000 | 3000 | 2000 | 1500 | 5500 |
-| 15/Jun/21 | 3800 | 3200 | 3000 | 1600 | 4200 |
-| 15/Jul/21 | 4000 | 3500 | 3200 | 1700 | 4500 |
-| 15/Aug/21 | 4500 | 3800 | 3400 | 1800 | 4800 |
-| 15/Sep/21 | 5500 | 4200 | 3600 | 1900 | 5800 |
-| 15/Oct/21 | 10500 | 4400 | 3700 | 1950 | 10000 |
-| 15/Nov/21 | 3000 | 3500 | 3000 | 1800 | 3200 |
-| 15/Dec/21 | 3200 | 3400 | 2900 | 1700 | 3400 |
-| 15/Jan/22 | 2800 | 2900 | 2800 | 1600 | 2900 |
-| 15/Feb/22 | 2700 | 2800 | 2700 | 1500 | 2800 |
-| 15/Mar/22 | 2900 | 2900 | 2800 | 1600 | 3000 |
-| 15/Apr/22 | 2900 | 2900 | 2800 | 1600 | 3000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 15/Apr/21 | 22000 | 20000 | 21000 | 19000 |
-| 15/May/21 | 42000 | 21000 | 22000 | 19500 |
-| 15/Jun/21 | 36000 | 23000 | 23000 | 20000 |
-| 15/Jul/21 | 38000 | 24000 | 24000 | 20500 |
-| 15/Aug/21 | 36000 | 25000 | 25000 | 21000 |
-| 15/Sep/21 | 42000 | 26000 | 26000 | 21500 |
-| 15/Oct/21 | 85000 | 27000 | 27000 | 22000 |
-| 15/Nov/21 | 24000 | 25000 | 26000 | 22000 |
-| 15/Dec/21 | 38000 | 24000 | 25000 | 21000 |
-| 15/Jan/22 | 18000 | 20000 | 21000 | 19000 |
-| 15/Feb/22 | 14000 | 21000 | 22000 | 18000 |
-| 15/Mar/22 | 30000 | 26000 | 27000 | 23000 |
-| 15/Apr/22 | 26000 | 25000 | 26000 | 24000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -340,41 +277,10 @@ In the Handysize sector we had the sale of the “OCEAN FALCON” (37,152dwt-blt
 
 LNG and Container contracts continue to keep activity in the newbuilding market healthy through the Easter holidays, with LNG units having the lion's share last week, followed by one neo-Panamax container deal while no sales for the most conventional type of units emerged. Starting with the LNG sector, Japanese owner MOL concluded a deal for the construction of four 175,000cbm units at Hudong Zhonghua in China. These four units represent the first firm newbuildings from Qatar Energy mammoth project, out of a total 151 LNG carrier reserved berths. An order of two dual fuelled 174,000cbm units also took place from the same owner MOL, at DSME yard. Owner will pay around \$213.0 million for each vessel, which were options that the company held from a last year order. Lastly, a deal was inked between Adnoc and Jiangnan Shipyard for two 175,000cbm units. On the Container front, it came to light that Daehan shipyard secured its first neo-panamax order consisting of four 7,200teu units from Greek owner Danaos. Each vessel will cost around \$94.0 million.
 
-## Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 15/Apr/21 | 92 | 60 | 48 | 42 | 34 |
-| 15/May/21 | 95 | 62 | 49 | 43 | 34 |
-| 15/Jun/21 | 98 | 64 | 50 | 44 | 35 |
-| 15/Jul/21 | 102 | 66 | 52 | 45 | 35 |
-| 15/Aug/21 | 108 | 68 | 54 | 46 | 36 |
-| 15/Sep/21 | 115 | 70 | 56 | 47 | 36 |
-| 15/Oct/21 | 118 | 72 | 57 | 48 | 36 |
-| 15/Nov/21 | 116 | 71 | 57 | 48 | 36 |
-| 15/Dec/21 | 115 | 70 | 57 | 48 | 36 |
-| 15/Jan/22 | 117 | 71 | 58 | 48 | 36 |
-| 15/Feb/22 | 118 | 72 | 58 | 48 | 36 |
-| 15/Mar/22 | 118 | 73 | 58 | 48 | 36 |
-| 15/Apr/22 | 118 | 73 | 58 | 48 | 36 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-## Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 15/Apr/21 | 52 | 28 | 28 | 20 |
-| 15/May/21 | 55 | 29 | 29 | 20 |
-| 15/Jun/21 | 58 | 30 | 30 | 21 |
-| 15/Jul/21 | 59 | 31 | 30 | 21 |
-| 15/Aug/21 | 60 | 32 | 31 | 21 |
-| 15/Sep/21 | 60 | 32 | 31 | 21 |
-| 15/Oct/21 | 60 | 33 | 32 | 21 |
-| 15/Nov/21 | 60 | 33 | 32 | 21 |
-| 15/Dec/21 | 60 | 33 | 32 | 21 |
-| 15/Jan/22 | 60 | 33 | 32 | 21 |
-| 15/Feb/22 | 60 | 33 | 32 | 21 |
-| 15/Mar/22 | 60 | 33 | 32 | 21 |
-| 15/Apr/22 | 60 | 33 | 32 | 21 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -407,21 +313,8 @@ LNG and Container contracts continue to keep activity in the newbuilding market 
 
 Slow activity materialized in the demolition front amidst the ongoing Ramadan period and the shortage of fresh candidates due to the recent tanker freight market rally. Pakistan remains in the best position so far, as the local steel plate demand underpins breakers' appetite. Interest from Indian buyers was strong as well, as the domestic steel industry continues to record increased activity amidst the rising construction momentum and the current sanctions against Russia with India snitching a notable share of its steel exports. On the contrary, domestic steel mills in Bangladesh have followed a more conservative approach with limited buying interest taking place leaving local breakers with no options rather than mitigate their scrapping enquiries. Average prices in the different markets this week for tankers ranged between 460-675/ldt and those for dry bulk units between \$450-665/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 15/Apr/21 | 470 | 460 | 465 | 250 |
-| 15/May/21 | 530 | 500 | 540 | 260 |
-| 15/Jun/21 | 570 | 550 | 550 | 270 |
-| 15/Jul/21 | 580 | 560 | 560 | 275 |
-| 15/Aug/21 | 590 | 570 | 570 | 280 |
-| 15/Sep/21 | 600 | 580 | 580 | 280 |
-| 15/Oct/21 | 600 | 560 | 590 | 285 |
-| 15/Nov/21 | 600 | 570 | 590 | 300 |
-| 15/Dec/21 | 600 | 550 | 580 | 330 |
-| 15/Jan/22 | 600 | 560 | 580 | 340 |
-| 15/Feb/22 | 640 | 600 | 620 | 350 |
-| 15/Mar/22 | 670 | 640 | 660 | 450 |
-| 15/Apr/22 | 665 | 650 | 660 | 460 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

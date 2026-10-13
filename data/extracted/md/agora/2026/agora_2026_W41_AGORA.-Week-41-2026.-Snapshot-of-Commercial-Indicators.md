@@ -140,32 +140,7 @@ We consider the herein indicators valuable in decision making since shipping is 
 
 ## Page 5: Contact Directory
 
-### Directory & Contact Details
-
-#### Desks & Specialized Divisions
-
-| Desk / Division | Contact / Emails |
-|---|---|
-| **Bulk Desk** | `bulk@agoraships.com`, `panamax@agoraships.com`, `cape@agoraships.com` |
-| **Mini-Bulk (1-5k DWT)** | `minibulk@agoraships.com` |
-| **Period T/C Requirements** | `period@agoraships.com` |
-| **Sale & Purchase (S&P)** | `snp@agoraships.com` (exclusive clients) |
-| **Tanker Desk** | `tanker@agoraships.com`, `bitumen@agoraships.com` |
-| **Project / MPP / RoRo** | `project@agoraships.com`, `roro@agoraships.com` |
-
-#### Key Personnel & Management
-
-- **Mr. Alexandros Psarianos, BSc, MSc, FICS** – Managing Director (mob: `+30 6985.11.11.02`)
-- **Mr. Dimitris Vasiliou, BSc** – Chartering Broker (mob: `+30 698.938.17.45`)
-- **Mr. Nicolas Trantas, BSc, LLM, MICS** – Chartering Broker (mob: `+30 693.6505.888`)
-- **Mr. Nikos Aronis, BSc** – Chartering Broker (mob: `+30 6970.30.78.08`)
-- **Mr. Dimitrios Katsos, Diploma** – Customs Brokerage & Warehousing (mob: `+30 694.456.4171`)
-- **Mr. Akis Vasilliadis, Diploma** – Accounting (mob: `+30 697.263.4347`)
-
-#### Offices & Corporate
-- **Piraeus Office**: No. 9, II Merarchias Str., Piraeus 18535, Greece
-- **London Office**: No. 21, Aylmer Parade, Aylmer Road, London, N2 0AT, United Kingdom
-- **Web**: [www.agoraships.com](http://www.agoraships.com)
+> Contact details (desk e-mails, staff names and mobile numbers) omitted.
 
 ---
 

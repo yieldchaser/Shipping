@@ -51,40 +51,9 @@ Overall, the Maritime Action Plan does not imply an immediate shift in global fl
 ## Indicative Period Charters
 
 No Fresh Fixtures to Report
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 13/Feb/25 | 50 | 120 | 140 |
-| 13/Mar/25 | 60 | 110 | 200 |
-| 13/Apr/25 | 55 | 100 | 220 |
-| 13/May/25 | 50 | 90 | 210 |
-| 13/Jun/25 | 60 | 100 | 180 |
-| 13/Jul/25 | 55 | 100 | 160 |
-| 13/Aug/25 | 50 | 110 | 170 |
-| 13/Sep/25 | 55 | 110 | 180 |
-| 13/Oct/25 | 60 | 120 | 200 |
-| 13/Nov/25 | 65 | 130 | 220 |
-| 13/Dec/25 | 70 | 140 | 250 |
-| 13/Jan/26 | 75 | 150 | 300 |
-| 13/Feb/26 | 80 | 160 | 350 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 13/Feb/25 | 120 | 130 | 140 | 150 |
-| 13/Mar/25 | 110 | 120 | 130 | 140 |
-| 13/Apr/25 | 100 | 110 | 120 | 130 |
-| 13/May/25 | 90 | 100 | 110 | 120 |
-| 13/Jun/25 | 100 | 110 | 120 | 130 |
-| 13/Jul/25 | 110 | 120 | 130 | 140 |
-| 13/Aug/25 | 100 | 110 | 120 | 130 |
-| 13/Sep/25 | 90 | 100 | 110 | 120 |
-| 13/Oct/25 | 100 | 110 | 120 | 130 |
-| 13/Nov/25 | 110 | 120 | 130 | 140 |
-| 13/Dec/25 | 120 | 130 | 140 | 150 |
-| 13/Jan/26 | 130 | 140 | 150 | 160 |
-| 13/Feb/26 | 140 | 150 | 160 | 170 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 13/02/2026 | 06/02/2026 | ±% | Diff | 2025 | 2024 |
@@ -140,41 +109,9 @@ Aframax saw a sluggish start of the week in Med, partially due to IE Week, but p
 | 12 to 14 mos | Phaidra | 2013 | 87,146 dwt | $14,500/day | NYK |
 | 5 to 7 mos | Jera | 2012 | 57,111 dwt | $14,000/day | TST |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 13/02/25 | 800 | 900 | 1000 | 700 | 850 |
-| 13/03/25 | 2800 | 1400 | 1200 | 800 | 1300 |
-| 13/04/25 | 1800 | 1500 | 1300 | 850 | 1400 |
-| 13/05/25 | 1900 | 1600 | 1400 | 900 | 1500 |
-| 13/06/25 | 3500 | 1800 | 1500 | 950 | 1700 |
-| 13/07/25 | 3800 | 1900 | 1600 | 1000 | 1900 |
-| 13/08/25 | 3200 | 1700 | 1700 | 1050 | 2000 |
-| 13/09/25 | 2800 | 1800 | 1800 | 1100 | 2100 |
-| 13/10/25 | 2600 | 1900 | 1900 | 1150 | 2200 |
-| 13/11/25 | 3000 | 2000 | 2000 | 1200 | 2300 |
-| 13/12/25 | 3800 | 2500 | 2100 | 1250 | 2800 |
-| 13/01/26 | 3400 | 2200 | 1900 | 1100 | 2500 |
-| 13/Feb/26 | 3100 | 1900 | 1800 | 1000 | 2000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 13/Feb/25 | 5000 | 10000 | 8000 | 7000 |
-| 13/Mar/25 | 15000 | 11000 | 10000 | 9000 |
-| 13/Apr/25 | 14000 | 10000 | 9000 | 8500 |
-| 13/May/25 | 13000 | 10000 | 9000 | 8000 |
-| 13/Jun/25 | 25000 | 11000 | 10000 | 9000 |
-| 13/Jul/25 | 28000 | 14000 | 12000 | 10000 |
-| 13/Aug/25 | 26000 | 13000 | 11000 | 9500 |
-| 13/Sep/25 | 27000 | 13000 | 11000 | 9000 |
-| 13/Oct/25 | 26000 | 13000 | 11000 | 8500 |
-| 13/Nov/25 | 24000 | 12000 | 10000 | 8000 |
-| 13/Dec/25 | 45000 | 14000 | 10000 | 8000 |
-| 13/Jan/26 | 20000 | 12000 | 9000 | 7500 |
-| 13/Feb/26 | 24000 | 13000 | 9500 | 7000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 13/02/2026 | 06/02/2026 | ±% | Diff | 2025 | 2024 |

@@ -70,39 +70,9 @@ Overall, the policy shift introduces a layer of uncertainty to thermal coal trad
 | Handy | 36k 1yr TC | 27,500 | 27,500 | 0.0% | 0 | 18,519 | 26,606 |
 |  | 36k 3yr TC | 17,500 | 17,500 | 0.0% | 0 | 16,902 | 19,993 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 29/May/25 | 100 | 150 | 150 |
-| 29/Jun/25 | 100 | 150 | 150 |
-| 29/Jul/25 | 100 | 150 | 150 |
-| 29/Aug/25 | 100 | 150 | 150 |
-| 29/Sep/25 | 100 | 150 | 150 |
-| 29/Oct/25 | 100 | 150 | 150 |
-| 29/Nov/25 | 100 | 150 | 150 |
-| 29/Dec/25 | 100 | 150 | 150 |
-| 29/Jan/26 | 200 | 200 | 200 |
-| 28/Feb/26 | 300 | 400 | 400 |
-| 31/Mar/26 | 400 | 950 | 950 |
-| 30/Apr/26 | 400 | 200 | 200 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 29/May/25 | 150 | 150 | 150 | 150 |
-| 29/Jun/25 | 150 | 150 | 150 | 150 |
-| 29/Jul/25 | 150 | 150 | 150 | 150 |
-| 29/Aug/25 | 150 | 150 | 150 | 150 |
-| 29/Sep/25 | 150 | 150 | 150 | 150 |
-| 29/Oct/25 | 150 | 150 | 150 | 150 |
-| 29/Nov/25 | 150 | 150 | 150 | 150 |
-| 29/Dec/25 | 150 | 150 | 150 | 150 |
-| 29/Jan/26 | 200 | 200 | 200 | 200 |
-| 28/Feb/26 | 500 | 200 | 500 | 600 |
-| 31/Mar/26 | 550 | 250 | 600 | 650 |
-| 30/Apr/26 | 500 | 200 | 500 | 300 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | May-26 avg | Apr-26 avg | ±% | 2025 | 2024 | 2023 |
@@ -156,39 +126,9 @@ Aframaxes were more mixed. The Mediterranean strengthened towards the end of the
 | **Handysize** | **32K 1yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 29/May/25 | 3500 | 1800 | 1500 | 800 | 2000 |
-| 29/Jun/25 | 3200 | 1700 | 1600 | 900 | 1800 |
-| 29/Jul/25 | 3800 | 1750 | 1550 | 850 | 2100 |
-| 29/Aug/25 | 3400 | 1700 | 1650 | 950 | 1900 |
-| 29/Sep/25 | 3600 | 1800 | 1600 | 900 | 2000 |
-| 29/Oct/25 | 3300 | 1750 | 1500 | 850 | 1850 |
-| 29/Nov/25 | 5200 | 2500 | 2800 | 1200 | 3000 |
-| 29/Dec/25 | 2800 | 1700 | 1600 | 900 | 1900 |
-| 29/Jan/26 | 3000 | 1750 | 1650 | 950 | 2000 |
-| 28/Feb/26 | 3100 | 1800 | 1700 | 1000 | 2100 |
-| 31/Mar/26 | 4500 | 2000 | 1850 | 1100 | 2800 |
-| 30/Apr/26 | 5000 | 2200 | 1950 | 1150 | 5000 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 29/May/25 | 20000 | 12000 | 10000 | 8000 |
-| 29/Jun/25 | 15000 | 11000 | 9000 | 7500 |
-| 29/Jul/25 | 25000 | 13000 | 10500 | 8500 |
-| 29/Aug/25 | 22000 | 12500 | 10000 | 8000 |
-| 29/Sep/25 | 28000 | 14000 | 11000 | 9000 |
-| 29/Oct/25 | 24000 | 13500 | 10500 | 8500 |
-| 29/Nov/25 | 43000 | 18000 | 14000 | 11000 |
-| 29/Dec/25 | 18000 | 12000 | 10000 | 8000 |
-| 29/Jan/26 | 23000 | 13000 | 10500 | 8500 |
-| 28/Feb/26 | 26000 | 14000 | 11000 | 9000 |
-| 31/Mar/26 | 40000 | 17000 | 13000 | 10500 |
-| 30/Apr/26 | 45000 | 19000 | 14500 | 11500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | May-26 avg | Apr-26 avg | ±% | 2025 | 2024 |

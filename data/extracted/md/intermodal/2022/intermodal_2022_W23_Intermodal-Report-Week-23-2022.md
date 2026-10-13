@@ -98,55 +98,12 @@ Shanghai 200122 China
 | --- | --- | --- | --- | --- | --- |
 | 6 mos | LYRIC CAMELLIA | 2016 | 109,999 dwt | $35,000/day | Saudi Aramco |
 | 36 mos | AYOE | 2020 | 49,861 dwt | $20,000/day | Navig8 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 10/Jun/21 | 50 | 80 | 90 |
-| 10/Jul/21 | 50 | 85 | 95 |
-| 10/Aug/21 | 50 | 90 | 100 |
-| 10/Sep/21 | 50 | 95 | 110 |
-| 10/Oct/21 | 50 | 100 | 120 |
-| 10/Nov/21 | 50 | 100 | 130 |
-| 10/Dec/21 | 50 | 100 | 140 |
-| 10/Jan/22 | 50 | 100 | 150 |
-| 10/Feb/22 | 50 | 250 | 160 |
-| 10/Mar/22 | 50 | 300 | 280 |
-| 10/Apr/22 | 50 | 280 | 290 |
-| 10/May/22 | 50 | 180 | 170 |
-| 10/Jun/22 | 50 | 150 | 160 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 10/Jun/21 | 100 | 110 | 120 | 130 |
-| 10/Jul/21 | 100 | 110 | 120 | 130 |
-| 10/Aug/21 | 100 | 110 | 120 | 130 |
-| 10/Sep/21 | 100 | 110 | 120 | 130 |
-| 10/Oct/21 | 100 | 110 | 120 | 130 |
-| 10/Nov/21 | 100 | 110 | 120 | 130 |
-| 10/Dec/21 | 100 | 110 | 120 | 130 |
-| 10/Jan/22 | 100 | 110 | 120 | 130 |
-| 10/Feb/22 | 100 | 110 | 120 | 300 |
-| 10/Mar/22 | 100 | 110 | 250 | 450 |
-| 10/Apr/22 | 100 | 110 | 280 | 450 |
-| 10/May/22 | 180 | 280 | 300 | 400 |
-| 10/Jun/22 | 170 | 280 | 350 | 420 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Sector | $/day | 10-Jun-22 | 03-Jun-22 | ±% | Diff | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | 300k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
-| VLCC | 300k 3yr TC | 30,000 | 30,000 | 0.0% | 0 | 28,672 | 34,772 |
-| Suezmax | 150k 1yr TC | 21,000 | 21,000 | 0.0% | 0 | 17,226 | 29,543 |
-| Suezmax | 150k 3yr TC | 21,500 | 21,500 | 0.0% | 0 | 22,700 | 27,481 |
-| Aframax | 110k 1yr TC | 21,500 | 21,500 | 0.0% | 0 | 15,854 | 23,380 |
-| Aframax | 110k 3yr TC | 19,500 | 19,500 | 0.0% | 0 | 19,714 | 21,854 |
-| Panamax | 75k 1yr TC | 22,500 | 22,500 | 0.0% | 0 | 14,184 | 17,322 |
-| Panamax | 75k 3yr TC | 15,750 | 15,750 | 0.0% | 0 | 15,950 | 16,296 |
-| MR | 52k 1yr TC | 19,500 | 19,500 | 0.0% | 0 | 12,608 | 15,505 |
-| MR | 52k 3yr TC | 15,000 | 15,000 | 0.0% | 0 | 13,804 | 15,916 |
-| Handy | 36k 1yr TC | 16,250 | 16,250 | 0.0% | 0 | 11,292 | 13,966 |
-| Handy | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
 ## Indicative Market Values ($ Million) - Tankers
 
 | Sector | Size | Jun-22 avg | May-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -211,41 +168,9 @@ In the Aframax sector we had the sale of the "SEA BEECH" (106,138dwt-bl't '03, J
 |  | **32K 1yr TC** | 23,750 | 23,750 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 10/Jun/21 | 3,800 | 3,200 | 2,900 | 1,600 | 4,000 |
-| 10/Jul/21 | 4,200 | 3,500 | 3,000 | 1,700 | 4,500 |
-| 10/Aug/21 | 5,500 | 4,000 | 3,300 | 1,800 | 6,000 |
-| 10/Sep/21 | 6,500 | 4,500 | 3,600 | 1,900 | 7,000 |
-| 10/Oct/21 | 10,000 | 4,800 | 3,700 | 2,000 | 10,000 |
-| 10/Nov/21 | 2,500 | 3,000 | 2,800 | 1,700 | 3,000 |
-| 10/Dec/21 | 2,600 | 2,900 | 2,700 | 1,600 | 3,100 |
-| 10/Jan/22 | 2,700 | 2,800 | 2,600 | 1,500 | 3,200 |
-| 10/Feb/22 | 2,800 | 2,700 | 2,500 | 1,500 | 3,300 |
-| 10/Mar/22 | 2,900 | 2,800 | 2,600 | 1,600 | 3,400 |
-| 10/Apr/22 | 3,000 | 2,900 | 2,700 | 1,700 | 3,500 |
-| 10/May/22 | 3,100 | 3,000 | 2,800 | 1,800 | 4,000 |
-| 10/Jun/22 | 2,800 | 2,700 | 2,600 | 1,600 | 2,900 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 10/Jun/21 | 30000 | 32000 | 31000 | 26000 |
-| 10/Jul/21 | 35000 | 34000 | 33000 | 27000 |
-| 10/Aug/21 | 40000 | 36000 | 35000 | 28000 |
-| 10/Sep/21 | 50000 | 38000 | 37000 | 29000 |
-| 10/Oct/21 | 85000 | 40000 | 38000 | 30000 |
-| 10/Nov/21 | 25000 | 28000 | 27000 | 25000 |
-| 10/Dec/21 | 30000 | 27000 | 26000 | 24000 |
-| 10/Jan/22 | 10000 | 25000 | 24000 | 22000 |
-| 10/Feb/22 | 15000 | 24000 | 23000 | 21000 |
-| 10/Mar/22 | 25000 | 26000 | 25000 | 23000 |
-| 10/Apr/22 | 30000 | 28000 | 27000 | 24000 |
-| 10/May/22 | 35000 | 30000 | 29000 | 25000 |
-| 10/Jun/22 | 28000 | 27000 | 26000 | 24000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -333,41 +258,9 @@ In the Supramax sector we had the sale of the "BAO PROGRESS" (56,729dwt-blt '11,
 
 The shipbuilding activity bounced back last week. A plethora of newbuilding orders were placed with emphasis on container vessels, followed by LNG carriers. In the tanker sector, one order came to light, from Norwegian Utkilen. The respective owner inked a deal with Icdas Shipyard for four 6,700dwt tankers, due in 2024, which will run on LNG and biogas, and will also be methanol and ammonia ready. In the dry sector, Thenamaris concluded a deal with Hyundai Vietnam for four Ultramax 63,000dwt units at a price of \$36.5m each. Reported activity in the gas sector remained firm this week. DSME Shipyard secured two deals last week, one with Maran Gas and one from a joint venture of Korean owners. Maran Gas vessels will cost \$233.7m each and will operate on a ME-GI propulsion engine. H-Line Shipping, PanOcean and SK Shipping inked the second deal with DSME for a total of four LNG vessels, on behalf of Qatar LNG Project. Moreover, Knutsen OAS ordered LNG units at Hyundai Hi again on behalf of Qatar LNG. Last but not least, we have noticed a furore of newbuilding orders last week in the container sector. More specifically, there is an upward shift in the shipbuilding activity compared to the previous week with a total of five new orders. Imabari signed a deal with three Japanese owners for the construction of a total of four LNG capable box ships, measuring 23,000teu and due for delivery in 2025. CMA-CGM finalised an order with Hyundai Samho for six methanol-fuelled 8,000teu boxships, while MSC concluded a deal for 4 LNG-fuelled 8,000teu boxships with K Shipbuilding in South Korea.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 10/Jun/21 | 95 | 60 | 50 | 45 | 35 |
-| 10/Jul/21 | 98 | 62 | 52 | 46 | 35 |
-| 10/Aug/21 | 100 | 64 | 54 | 47 | 35 |
-| 10/Sep/21 | 102 | 65 | 55 | 48 | 35 |
-| 10/Oct/21 | 105 | 66 | 56 | 48 | 35 |
-| 10/Nov/21 | 108 | 67 | 57 | 48 | 35 |
-| 10/Dec/21 | 110 | 68 | 58 | 49 | 35 |
-| 10/Jan/22 | 112 | 69 | 58 | 49 | 35 |
-| 10/Feb/22 | 114 | 70 | 59 | 49 | 35 |
-| 10/Mar/22 | 116 | 71 | 59 | 50 | 35 |
-| 10/Apr/22 | 118 | 72 | 60 | 50 | 35 |
-| 10/May/22 | 120 | 74 | 60 | 51 | 35 |
-| 10/Jun/22 | 120 | 75 | 60 | 52 | 36 |
-
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 10/Jun/21 | 55 | 32 | 30 | 25 |
-| 10/Jul/21 | 57 | 33 | 31 | 26 |
-| 10/Aug/21 | 58 | 33 | 31 | 26 |
-| 10/Sep/21 | 59 | 34 | 32 | 26 |
-| 10/Oct/21 | 59 | 34 | 32 | 26 |
-| 10/Nov/21 | 59 | 35 | 33 | 27 |
-| 10/Dec/21 | 59 | 35 | 33 | 27 |
-| 10/Jan/22 | 60 | 35 | 33 | 27 |
-| 10/Feb/22 | 60 | 36 | 33 | 27 |
-| 10/Mar/22 | 60 | 36 | 33 | 27 |
-| 10/Apr/22 | 61 | 36 | 34 | 28 |
-| 10/May/22 | 61 | 36 | 34 | 28 |
-| 10/Jun/22 | 62 | 36 | 34 | 29 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ### Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -405,23 +298,7 @@ The shipbuilding activity bounced back last week. A plethora of newbuilding orde
 
 Last week we saw an increase in bids from Bangladeshi and Pakistani buyers amidst significantly low inventory levels. On the contrary, Indian demolition offers remained steady as the softening domestic steel prices have negatively affected the appetite for fresh scrap; specialized vessels are covering most of the breaker's interest in India at the time being. In Turkey, average offered levels lost value during the past days as breakers show no eagerness to proceed with fresh purchases due to the steel mills' reluctance for scrap; harsh economic conditions in Turkey have moved steel industry participants on the sidelines as both currency depreciation and energy costs are leaving little room for a production boost. At the same time, the supply of vintage units remains low which could help levels to move upward in the coming weeks. Average prices in the different markets this week for tankers ranged between 300-620/ldt and those for dry bulk units between \$290-610/ldt.
 
-### Tanker Demolition Prices
-
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 10/Jun/21 | 540 | 500 | 540 | 290 |
-| 10/Jul/21 | 570 | 530 | 550 | 290 |
-| 10/Aug/21 | 580 | 560 | 580 | 285 |
-| 10/Sep/21 | 590 | 570 | 590 | 285 |
-| 10/Oct/21 | 600 | 580 | 600 | 330 |
-| 10/Nov/21 | 600 | 550 | 600 | 340 |
-| 10/Dec/21 | 600 | 550 | 600 | 340 |
-| 10/Jan/22 | 600 | 560 | 600 | 345 |
-| 10/Feb/22 | 600 | 570 | 600 | 350 |
-| 10/Mar/22 | 670 | 650 | 660 | 450 |
-| 10/Apr/22 | 660 | 660 | 670 | 450 |
-| 10/May/22 | 600 | 600 | 600 | 330 |
-| 10/Jun/22 | 600 | 590 | 590 | 320 |
+> **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 
 ## Indicative Demolition Prices ($/ldt)
 

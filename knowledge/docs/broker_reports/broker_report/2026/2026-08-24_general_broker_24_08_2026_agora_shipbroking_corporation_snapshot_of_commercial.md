@@ -629,52 +629,34 @@ numeric_observations:
   - -5.0
 - section: Market Report Content
   section_type: null
-  source_line: 'mob: +30 6985.11.11.02 (whats app/wechat)'
+  source_line: 'mob: [omitted] (whats app/wechat)'
   unit: null
   values:
-  - 30.0
-  - 6985.11
-  - 11.02
 - section: Market Report Content
   section_type: null
-  source_line: 'mob: +30 698.938.17.45 (whats app/wechat)'
+  source_line: 'mob: [omitted] (whats app/wechat)'
   unit: null
   values:
-  - 30.0
-  - 698.938
-  - 17.45
 - section: Market Report Content
   section_type: null
-  source_line: 'Mob: +30 6970.30.78.08 (whats app/wechat)'
+  source_line: 'Mob: [omitted] (whats app/wechat)'
   unit: null
   values:
-  - 30.0
-  - 6970.3
-  - 78.08
 - section: Market Report Content
   section_type: null
-  source_line: 'mob: +30 697.263. 4347'
+  source_line: 'mob: [omitted]'
   unit: null
   values:
-  - 30.0
-  - 697.263
-  - 4347.0
 - section: Market Report Content
   section_type: null
-  source_line: 'mob: +30 693.6505.888 (whats app/wechat)'
+  source_line: 'mob: [omitted] (whats app/wechat)'
   unit: null
   values:
-  - 30.0
-  - 693.6505
-  - 888.0
 - section: Market Report Content
   section_type: null
-  source_line: 'mob: +30 694.456.4171'
+  source_line: 'mob: [omitted]'
   unit: null
   values:
-  - 30.0
-  - 694.456
-  - 4171.0
 regions:
 - china
 - atlantic
@@ -879,19 +861,19 @@ tanker@agoraships.com
 bitumen@agoraships.com
 Mr. Alexandros Psarianos, BSc, MSc, FICS,
 Managing Director
-mob:  +30 6985.11.11.02 (whats app/wechat)
+mob:  [omitted] (whats app/wechat)
 Mr. Dimitris Vasiliou, BSc
 Chartering broker
-mob: +30 698.938.17.45 (whats app/wechat)
+mob: [omitted] (whats app/wechat)
 Mr. Nikos Aronis, BSc
 Chartering broker
-Mob: +30 6970.30.78.08 (whats app/wechat)
+Mob: [omitted] (whats app/wechat)
 Mr. Akis Vasilliadis, Diploma
 Accounting
-mob:  +30 697.263. 4347
+mob:  [omitted]
 Mr. Nicolas Trantas, BSc, LLM, MICS
 Chartering broker
-mob:  +30 693.6505.888 (whats app/wechat)
+mob:  [omitted] (whats app/wechat)
 Mr. Dimitrios Katsos, Diploma
 Customs Brokerage & Warehousing
-mob:  +30 694.456.4171
+mob:  [omitted]

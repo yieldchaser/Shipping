@@ -116,41 +116,9 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 53.5 | 52.3 | **2.4%** | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 41.5 | 40.8 | **1.8%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 39.5 | 36.9 | **7.1%** | 27.6 | 27.5 | 28.6 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 9/Sep/21 | 30 | 100 | 120 |
-| 9/Oct/21 | 40 | 110 | 130 |
-| 9/Nov/21 | 50 | 120 | 140 |
-| 9/Dec/21 | 45 | 115 | 135 |
-| 9/Jan/22 | 50 | 120 | 140 |
-| 9/Feb/22 | 55 | 280 | 100 |
-| 9/Mar/22 | 60 | 300 | 110 |
-| 9/Apr/22 | 65 | 290 | 280 |
-| 9/May/22 | 60 | 150 | 150 |
-| 9/Jun/22 | 55 | 140 | 140 |
-| 9/Jul/22 | 60 | 250 | 300 |
-| 9/Aug/22 | 65 | 260 | 320 |
-| 9/Sep/22 | 70 | 180 | 260 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS points | WS points | WS points | WS points |
-| 9/Sep/21 | 100 | 100 | 100 | 100 |
-| 9/Oct/21 | 110 | 110 | 110 | 110 |
-| 9/Nov/21 | 120 | 120 | 120 | 120 |
-| 9/Dec/21 | 130 | 130 | 130 | 130 |
-| 9/Jan/22 | 140 | 140 | 140 | 140 |
-| 9/Feb/22 | 150 | 150 | 150 | 200 |
-| 9/Mar/22 | 160 | 160 | 160 | 400 |
-| 9/Apr/22 | 170 | 170 | 170 | 450 |
-| 9/May/22 | 180 | 180 | 180 | 400 |
-| 9/Jun/22 | 190 | 190 | 190 | 350 |
-| 9/Jul/22 | 200 | 200 | 200 | 500 |
-| 9/Aug/22 | 210 | 210 | 210 | 450 |
-| 9/Sep/22 | 220 | 220 | 220 | 300 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -205,39 +173,9 @@ In the Aframax sector we had the sale of the "BEKS ATLANTICA" (114,896dwt-blt '0
 |  | **32K 1yr TC** | 13,500 | 13,250 | **1.9%** | **250** | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 9/Sep/21 | 3500 | 4000 | 3200 | 1800 | 4800 |
-| 9/Oct/21 | 10500 | 4200 | 3400 | 2000 | 5500 |
-| 9/Nov/21 | 3000 | 4000 | 3000 | 1900 | 3500 |
-| 9/Dec/21 | 3200 | 3800 | 2900 | 1800 | 3400 |
-| 9/Jan/22 | 2800 | 3500 | 2700 | 1700 | 3000 |
-| 9/Feb/22 | 2700 | 3400 | 2600 | 1600 | 2900 |
-| 9/Mar/22 | 2900 | 3300 | 2800 | 1700 | 3100 |
-| 9/Apr/22 | 3000 | 3400 | 2900 | 1800 | 3200 |
-| 9/May/22 | 4200 | 3600 | 3100 | 2000 | 4000 |
-| 9/Jul/22 | 2600 | 3200 | 2700 | 1600 | 2700 |
-| 9/Aug/22 | 2400 | 3100 | 2600 | 1500 | 2500 |
-| 9/Sep/22 | 2200 | 3000 | 2500 | 1500 | 2300 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 9/Sep/21 | 35000 | 34000 | 33000 | 32000 |
-| 9/Oct/21 | 85000 | 35000 | 34000 | 33000 |
-| 9/Nov/21 | 25000 | 24000 | 23000 | 22000 |
-| 9/Dec/21 | 28000 | 25000 | 24000 | 23000 |
-| 9/Jan/22 | 18000 | 19000 | 18000 | 17000 |
-| 9/Feb/22 | 16000 | 17000 | 16000 | 15000 |
-| 9/Mar/22 | 22000 | 21000 | 20000 | 19000 |
-| 9/Apr/22 | 28000 | 27000 | 26000 | 25000 |
-| 9/May/22 | 35000 | 32000 | 31000 | 30000 |
-| 9/Jul/22 | 18000 | 19000 | 18000 | 17000 |
-| 9/Aug/22 | 15000 | 16000 | 15000 | 14000 |
-| 9/Sep/22 | 8000 | 14000 | 13000 | 12000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -327,41 +265,9 @@ In the Handysize sector we had the sale of the "AQUARIUS 77" (35,737dwt-bl't '16
 
 Last week newbuilding market was muted regarding the dry and the wet sectors, while firm shipbuilding activity came to light from the LNG and the Container segments. In the LNG segment, three deals were made known on behalf of the large LNG Qatar project, with the vessels to be booked against berths that have been pre-reserved by QatarEnergy. More specifically, the first owners are the known Korean consortium (including H - Line, SK Shipping and Pan Ocean), ordering nine 174,000 cbm carriers in total, at DSME and Samsung HI in South Korea and delivery due to 2025 and 2026 and the second owner is JP Morgan, buying two 174,000cbm units at Samsung HI, to be ready by 2025. Moving on to the feeder sector, Swiss based MSC made a deal for twelve 16,000teu vessels with Yangzijiang shipyard. The neopanamax units that are going to be fitted with GTT's Mark III Flex membrane-type containment system, will cost \$180.0m each and are due to 2024-2026.
 
-## Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 9/Sep/21 | 102 | 72 | 58 | 52 | 42 |
-| 9/Oct/21 | 105 | 74 | 59 | 52 | 42 |
-| 9/Nov/21 | 108 | 75 | 59 | 53 | 43 |
-| 9/Dec/21 | 110 | 76 | 60 | 53 | 43 |
-| 9/Jan/22 | 112 | 77 | 60 | 54 | 43 |
-| 9/Feb/22 | 114 | 78 | 60 | 54 | 44 |
-| 9/Mar/22 | 115 | 79 | 61 | 54 | 44 |
-| 9/Apr/22 | 116 | 79 | 61 | 55 | 44 |
-| 9/May/22 | 117 | 78 | 61 | 55 | 44 |
-| 9/Jun/22 | 118 | 79 | 61 | 55 | 44 |
-| 9/Jul/22 | 119 | 79 | 61 | 55 | 44 |
-| 9/Aug/22 | 120 | 79 | 61 | 55 | 44 |
-| 9/Sep/22 | 120 | 79 | 61 | 55 | 44 |
-
-## Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 9/Sep/21 | 60 | 32 | 32 | 29 |
-| 9/Oct/21 | 60 | 32 | 32 | 30 |
-| 9/Nov/21 | 60 | 33 | 33 | 30 |
-| 9/Dec/21 | 60 | 33 | 33 | 30 |
-| 9/Jan/22 | 60 | 33 | 33 | 30 |
-| 9/Feb/22 | 61 | 33 | 33 | 30 |
-| 9/Mar/22 | 61 | 33 | 33 | 30 |
-| 9/Apr/22 | 61 | 33 | 33 | 30 |
-| 9/May/22 | 62 | 33 | 33 | 30 |
-| 9/Jun/22 | 62 | 33 | 33 | 30 |
-| 9/Jul/22 | 62 | 33 | 33 | 30 |
-| 9/Aug/22 | 62 | 33 | 33 | 30 |
-| 9/Sep/22 | 62 | 33 | 33 | 30 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -393,23 +299,7 @@ Last week newbuilding market was muted regarding the dry and the wet sectors, wh
 
 Dry bulk units have caught the attention of some scrap yards as the recent downward pressure on freight market has led to negotiations of old bulk carriers with some concluded deals coming to light last week. Offered bids remained unchanged at the mid-high \$500/ldt, a level that could easily attract vintage units if the dry bulk freight market did not manage to regain its strength. However, the decreased global steel production amidst subdued demand is adding significant pressure on breakers in the Indian subcontinent regions, whose purchasing power is also negatively affected by the ongoing economic frailty coupled with weather disruptions. Pakistan saw its USD/PKR ratio above the 228.0 mark at a time when heavy rainfalls have damaged operation activities across the country. In Bangladesh, L/C restriction continues to restrain big LDT units from beaching while in India domestic steel prices continue to face downward pressure. Lastly, Turkish steel mills find their opportunities curtailed by the discounts on imported Russian cargoes destined to the country. Average prices in the different markets this week for tankers ranged between 260-585/ldt and those for dry bulk units between \$250-575/ldt.
 
-### Tanker Demolition Prices
-
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 9/Sep/21 | 600 | 560 | 610 | 300 |
-| 9/Oct/21 | 610 | 570 | 620 | 320 |
-| 9/Nov/21 | 615 | 565 | 615 | 330 |
-| 9/Dec/21 | 610 | 550 | 610 | 335 |
-| 9/Jan/22 | 615 | 550 | 615 | 340 |
-| 9/Feb/22 | 640 | 560 | 630 | 360 |
-| 9/Mar/22 | 680 | 600 | 670 | 450 |
-| 9/Apr/22 | 670 | 620 | 660 | 460 |
-| 9/May/22 | 660 | 610 | 650 | 460 |
-| 9/Jun/22 | 640 | 580 | 630 | 330 |
-| 9/Jul/22 | 560 | 550 | 550 | 250 |
-| 9/Aug/22 | 570 | 560 | 560 | 250 |
-| 9/Sep/22 | 580 | 570 | 570 | 250 |
+> **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 
 ## Indicative Demolition Prices ($/ldt)
 

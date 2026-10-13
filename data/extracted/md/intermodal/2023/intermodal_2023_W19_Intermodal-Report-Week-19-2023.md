@@ -88,40 +88,10 @@ Shanghai 200122 China
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | TAVISTOCK SQUARE | 2019 | 114,364 dwt | $52,000/day | Abu Dhabi Ports |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 12/May/22 | 50 | 120 | 150 |
-| 12/Jun/22 | 60 | 130 | 180 |
-| 12/Jul/22 | 70 | 140 | 200 |
-| 12/Aug/22 | 80 | 320 | 250 |
-| 12/Sep/22 | 90 | 310 | 300 |
-| 12/Oct/22 | 100 | 280 | 350 |
-| 12/Nov/22 | 110 | 300 | 650 |
-| 12/Dec/22 | 120 | 310 | 620 |
-| 12/Jan/23 | 130 | 150 | 100 |
-| 12/Feb/23 | 140 | 160 | 350 |
-| 12/Mar/23 | 150 | 170 | 380 |
-| 12/Apr/23 | 160 | 180 | 360 |
-| 12/May/23 | 170 | 190 | 380 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 12/May/22 | 250 | 300 | 320 | 450 |
-| 12/Jun/22 | 280 | 350 | 380 | 500 |
-| 12/Jul/22 | 260 | 340 | 360 | 480 |
-| 12/Aug/22 | 240 | 330 | 350 | 460 |
-| 12/Sep/22 | 230 | 320 | 340 | 440 |
-| 12/Oct/22 | 220 | 310 | 330 | 420 |
-| 12/Nov/22 | 210 | 300 | 320 | 400 |
-| 12/Dec/22 | 200 | 290 | 310 | 390 |
-| 12/Jan/23 | 180 | 280 | 300 | 380 |
-| 12/Feb/23 | 170 | 270 | 290 | 370 |
-| 12/Mar/23 | 160 | 260 | 280 | 450 |
-| 12/Apr/23 | 150 | 250 | 270 | 430 |
-| 12/May/23 | 140 | 240 | 260 | 410 |
 ## TC Rates
 
 | Sector | Tenor | 12/05/2023 | 05/05/2023 | ±% | Diff | 2022 | 2021 |
@@ -194,40 +164,9 @@ In the Aframax sector we had the sale of the "AFRAMAX RIVIERA" (107,113dwt-bl't 
 | --- | --- | --- | --- | --- | --- | --- |
 | 9 to 13 mos | PESCADORES sw | 2012 | 82,230 dwt | ely in D/C Rizhao 13 May | $11,000 /day | Norden |
 | 8 to 10 mos | ANTARES | 2015 | 81,118 dwt | dely Kagoshima 18/20 May | $15,250 /day | ADMI |
-## Baltic Indices
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 12/May/22 | 4500 | 3200 | 2800 | 1600 | 4200 |
-| 12/Jun/22 | 3800 | 2900 | 2700 | 1500 | 3500 |
-| 12/Jul/22 | 3500 | 2600 | 2500 | 1400 | 3200 |
-| 12/Aug/22 | 3000 | 2400 | 2300 | 1300 | 2800 |
-| 12/Sep/22 | 1500 | 2000 | 2000 | 1100 | 2200 |
-| 12/Oct/22 | 2000 | 2100 | 1800 | 1000 | 2500 |
-| 12/Nov/22 | 1800 | 1900 | 1600 | 900 | 2300 |
-| 12/Dec/22 | 2800 | 2000 | 1500 | 800 | 3000 |
-| 12/Jan/23 | 1600 | 1700 | 1400 | 700 | 2000 |
-| 12/Feb/23 | 1400 | 1600 | 1300 | 700 | 1800 |
-| 12/Mar/23 | 1700 | 1700 | 1400 | 800 | 2100 |
-| 12/Apr/23 | 2200 | 1800 | 1500 | 900 | 2600 |
-| 12/May/23 | 2500 | 1700 | 1400 | 800 | 2800 |
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 12/May/22 | 30000 | 29000 | 28000 | 28000 |
-| 12/Jun/22 | 25000 | 24000 | 23000 | 23000 |
-| 12/Jul/22 | 20000 | 19000 | 18000 | 18000 |
-| 12/Aug/22 | 15000 | 16000 | 15000 | 15000 |
-| 12/Sep/22 | 5000 | 14000 | 14000 | 14000 |
-| 12/Oct/22 | 18000 | 17000 | 16000 | 16000 |
-| 12/Nov/22 | 16000 | 16000 | 15000 | 15000 |
-| 12/Dec/22 | 22000 | 15000 | 14000 | 14000 |
-| 12/Jan/23 | 8000 | 12000 | 11000 | 11000 |
-| 12/Feb/23 | 5000 | 10000 | 9000 | 9000 |
-| 12/Mar/23 | 14000 | 13000 | 12000 | 12000 |
-| 12/Apr/23 | 18000 | 14000 | 13000 | 13000 |
-| 12/May/23 | 20000 | 14000 | 13000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -311,41 +250,9 @@ In the Panamax sector we had the sale of the "HONG CHENG" (75,081dwt-bl't '11, C
 
 The previous week was another firm one for the shipbuilding industry, with 15 vessels being ordered. The overwhelming majority were bulkers (9) and in particular Kamsarmax size. It is also worth noting that there was only one tanker order, for two ships. German owner Oldendorff Carriers ordered 3 firm and 6 optional 82,200 dwt bulk carriers from Jiangsu New Hantong for delivery in 2025. The trio will be EEDI phase 3 compliant and cost the owner \$33.0m each. In a similar deal, Fortune Ocean Shipping ordered four firm 82,000 dwt vessels from Dalian Shipbuilding in China at a cost of \$32.5m each. In the only tanker order, Greek owner Steelships ordered two 50,000 dwt tankers from K Shipbuilding in Korea. The two will be fitted with scrubbers and will also be available for LNG propulsion. Finally, Danaos ordered two 5,900 TEU boxships from Qingdao Yangfan for delivery in 2025 at a cost of \$63.0m each.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 12/May/22 | 118 | 80 | 60 | 55 | 43 |
-| 12/Jun/22 | 119 | 80 | 60 | 55 | 43 |
-| 12/Jul/22 | 120 | 80 | 60 | 55 | 43 |
-| 12/Aug/22 | 120 | 80 | 60 | 55 | 43 |
-| 12/Sep/22 | 120 | 80 | 62 | 55 | 43 |
-| 12/Oct/22 | 120 | 80 | 62 | 55 | 43 |
-| 12/Nov/22 | 120 | 80 | 62 | 55 | 43 |
-| 12/Dec/22 | 120 | 80 | 62 | 55 | 43 |
-| 12/Jan/23 | 120 | 80 | 62 | 55 | 43 |
-| 12/Feb/23 | 120 | 78 | 62 | 55 | 43 |
-| 12/Mar/23 | 120 | 78 | 62 | 55 | 43 |
-| 12/Apr/23 | 120 | 78 | 64 | 55 | 43 |
-| 12/May/23 | 122 | 80 | 65 | 56 | 43 |
-
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 12/May/22 | 62 | 35 | 32 | 30 |
-| 12/Jun/22 | 62 | 35 | 33 | 30 |
-| 12/Jul/22 | 62 | 35 | 33 | 30 |
-| 12/Aug/22 | 62 | 35 | 33 | 30 |
-| 12/Sep/22 | 62 | 35 | 32 | 30 |
-| 12/Oct/22 | 60 | 34 | 32 | 30 |
-| 12/Nov/22 | 60 | 34 | 32 | 29 |
-| 12/Dec/22 | 60 | 34 | 32 | 29 |
-| 12/Jan/23 | 60 | 34 | 32 | 29 |
-| 12/Feb/23 | 60 | 34 | 32 | 29 |
-| 12/Mar/23 | 60 | 34 | 32 | 29 |
-| 12/Apr/23 | 60 | 34 | 32 | 29 |
-| 12/May/23 | 60 | 34 | 32 | 29 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ### Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |

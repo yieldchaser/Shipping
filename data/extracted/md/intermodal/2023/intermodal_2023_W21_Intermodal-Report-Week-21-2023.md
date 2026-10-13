@@ -67,42 +67,9 @@ With inventories of clean products dwindling on both sides of the Atlantic, and 
 | --- | --- | --- | --- | --- | --- |
 | 2 mos | BANGLAR AGRA JATRA | 2019 |  | 16,000/day |  |
 | 12 mos | SEAWAYS BRAZOS | 2012 |  | $ 45,000/day |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| DIRTY - WS RATES | WS points | WS points | WS points |
-| 26/May/22 | 50 | 180 | 180 |
-| 26/Jun/22 | 60 | 200 | 280 |
-| 26/Jul/22 | 70 | 220 | 300 |
-| 26/Aug/22 | 80 | 240 | 350 |
-| 26/Sep/22 | 90 | 260 | 400 |
-| 26/Oct/22 | 100 | 280 | 600 |
-| 26/Nov/22 | 110 | 300 | 550 |
-| 26/Dec/22 | 120 | 200 | 200 |
-| 26/Jan/23 | 130 | 180 | 180 |
-| 26/Feb/23 | 140 | 160 | 250 |
-| 26/Mar/23 | 150 | 140 | 280 |
-| 26/Apr/23 | 160 | 120 | 260 |
-| 26/May/23 | 170 | 100 | 240 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| CLEAN - WS RATES | WS points | WS points | WS points | WS points |
-| 26/May/22 | 200 | 350 | 500 | 450 |
-| 26/Jun/22 | 250 | 300 | 450 | 400 |
-| 26/Jul/22 | 300 | 280 | 400 | 350 |
-| 26/Aug/22 | 350 | 320 | 380 | 360 |
-| 26/Sep/22 | 400 | 340 | 360 | 340 |
-| 26/Oct/22 | 450 | 360 | 380 | 350 |
-| 26/Nov/22 | 500 | 380 | 400 | 370 |
-| 26/Dec/22 | 400 | 300 | 300 | 280 |
-| 26/Jan/23 | 300 | 250 | 250 | 240 |
-| 26/Feb/23 | 350 | 280 | 300 | 290 |
-| 26/Mar/23 | 450 | 320 | 380 | 360 |
-| 26/Apr/23 | 400 | 300 | 350 | 320 |
-| 26/May/23 | 150 | 160 | 170 | 160 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 26/05/23 | 19/05/23 | ±% | Diff | 2022 | 2021 |
@@ -172,40 +139,9 @@ Suezmax T/C earnings averaged \$ 55,654/day, down - \$4,796/day w-o-w. On the Af
 | **Capesize** | **32K 1yr TC** | 11,500 | 11,250 | **2.2%** | **250** | 17,827 | 18,354 |
 | **Capesize** | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 12,322 | 11,825 |
 
-### Average T/C Rates (1-Year Trend)
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 26/May/22 | 25000 | 28000 | 30000 | 32000 |
-| 26/Jun/22 | 22000 | 20000 | 25000 | 28000 |
-| 26/Jul/22 | 15000 | 12000 | 18000 | 22000 |
-| 26/Aug/22 | 8000 | 5000 | 10000 | 15000 |
-| 26/Sep/22 | 15000 | 15000 | 15000 | 18000 |
-| 26/Oct/22 | 12000 | 12000 | 12000 | 15000 |
-| 26/Nov/22 | 10000 | 10000 | 10000 | 12000 |
-| 26/Dec/22 | 5000 | 8000 | 8000 | 10000 |
-| 26/Jan/23 | 8000 | 10000 | 10000 | 12000 |
-| 26/Feb/23 | 5000 | 8000 | 8000 | 10000 |
-| 26/Mar/23 | 15000 | 15000 | 15000 | 18000 |
-| 26/Apr/23 | 20000 | 22000 | 20000 | 24000 |
-| 26/May/23 | 25000 | 28000 | 30000 | 32000 |
-
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 26/May/22 | 3000 | 2800 | 1500 | 1000 | 2800 |
-| 26/Jun/22 | 2500 | 2000 | 1200 | 800 | 2200 |
-| 26/Jul/22 | 3000 | 2500 | 1500 | 1000 | 2800 |
-| 26/Aug/22 | 1000 | 500 | 800 | 500 | 800 |
-| 26/Sep/22 | 2500 | 2000 | 1500 | 1000 | 2500 |
-| 26/Oct/22 | 2000 | 1500 | 1200 | 800 | 2000 |
-| 26/Nov/22 | 1500 | 1000 | 1000 | 600 | 1500 |
-| 26/Dec/22 | 1000 | 800 | 800 | 500 | 1000 |
-| 26/Jan/23 | 1500 | 1000 | 1000 | 800 | 1500 |
-| 26/Feb/23 | 1000 | 800 | 800 | 600 | 1000 |
-| 26/Mar/23 | 1800 | 1500 | 1200 | 1000 | 1800 |
-| 26/Apr/23 | 2500 | 2000 | 1500 | 1200 | 2500 |
-| 26/May/23 | 3000 | 2800 | 1800 | 1500 | 3000 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | May-23 avg | Apr-23 avg | ±% | 2022 | 2021 |

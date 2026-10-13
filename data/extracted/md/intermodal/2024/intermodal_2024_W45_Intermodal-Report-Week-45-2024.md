@@ -48,40 +48,9 @@ Shifting to tonnage supply, the containership fleet is expanding at a robust pac
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 36 mos | DORIC BREEZE | 20132021 | 51,565 dwt | $23,000/day | ST Shipping 49,999 dwt Oman Shipping |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 8/Nov/23 | 100 | 130 | 140 |
-| 8/Dec/23 | 80 | 125 | 135 |
-| 8/Jan/24 | 60 | 120 | 380 |
-| 8/Feb/24 | 50 | 115 | 350 |
-| 8/Mar/24 | 55 | 110 | 160 |
-| 8/Apr/24 | 60 | 110 | 150 |
-| 8/May/24 | 65 | 105 | 140 |
-| 8/jun/24 | 70 | 100 | 130 |
-| 8/Jul/24 | 75 | 95 | 120 |
-| 8/Aug/24 | 80 | 90 | 110 |
-| 8/Sep/24 | 85 | 85 | 100 |
-| 8/Oct/24 | 90 | 80 | 95 |
-| 8/Nov/24 | 95 | 75 | 90 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 8/Nov/23 | 180 | 170 | 190 | 200 |
-| 8/Dec/23 | 160 | 160 | 180 | 190 |
-| 8/Jan/24 | 140 | 150 | 170 | 180 |
-| 8/Feb/24 | 350 | 340 | 360 | 370 |
-| 8/Mar/24 | 320 | 310 | 330 | 340 |
-| 8/Apr/24 | 280 | 270 | 290 | 300 |
-| 8/May/24 | 250 | 240 | 260 | 270 |
-| 8/jun/24 | 220 | 210 | 230 | 240 |
-| 8/Jul/24 | 200 | 190 | 210 | 220 |
-| 8/Aug/24 | 180 | 170 | 190 | 200 |
-| 8/Sep/24 | 160 | 150 | 170 | 180 |
-| 8/Oct/24 | 140 | 130 | 150 | 160 |
-| 8/Nov/24 | 120 | 110 | 130 | 140 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 08/11/24 | 01/11/24 | ±% | Diff | 2023 | 2022 |
@@ -151,41 +120,9 @@ As far as clean is concerned, LR2s and LR1s are falling further, as low fixing i
 | **Handysize** | **32K 1yr TC** | 11,500 | 11,500 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 8/Nov/23 | 2200 | 1500 | 1200 | 1000 | 1500 |
-| 8/Dec/23 | 6800 | 3000 | 1800 | 1200 | 3000 |
-| 8/Jan/24 | 1800 | 1400 | 1400 | 1000 | 1400 |
-| 8/Feb/24 | 1600 | 1300 | 1300 | 1000 | 1300 |
-| 8/Mar/24 | 3800 | 2000 | 1600 | 1200 | 1800 |
-| 8/Apr/24 | 2400 | 1700 | 1500 | 1100 | 1600 |
-| 8/May/24 | 2200 | 1600 | 1400 | 1000 | 1500 |
-| 8/Jun/24 | 2000 | 1500 | 1300 | 1000 | 1400 |
-| 8/Jul/24 | 2100 | 1500 | 1300 | 1000 | 1400 |
-| 8/Aug/24 | 2300 | 1600 | 1400 | 1000 | 1500 |
-| 8/5ep/24 | 2500 | 1700 | 1500 | 1000 | 1600 |
-| 8/Oct/24 | 2200 | 1500 | 1300 | 1000 | 1400 |
-| 8/Nov/24 | 2100 | 1400 | 1200 | 1000 | 1300 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 8/Nov/23 | 18000 | 12000 | 10000 | 9000 |
-| 8/Dec/23 | 53000 | 14000 | 11000 | 10000 |
-| 8/Jan/24 | 14000 | 11000 | 9000 | 8000 |
-| 8/Feb/24 | 15000 | 10000 | 8500 | 8000 |
-| 8/Mar/24 | 32000 | 13000 | 10000 | 9000 |
-| 8/Apr/24 | 24000 | 12000 | 9500 | 8500 |
-| 8/May/24 | 22000 | 11000 | 9000 | 8000 |
-| 8/Jun/24 | 20000 | 10000 | 8500 | 7500 |
-| 8/Jul/24 | 21000 | 10000 | 8500 | 7500 |
-| 8/Aug/24 | 23000 | 11000 | 9000 | 8000 |
-| 8/5ep/24 | 25000 | 12000 | 9500 | 8500 |
-| 8/Oct/24 | 18000 | 10000 | 8500 | 7500 |
-| 8/Nov/24 | 16000 | 9000 | 8000 | 7000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Nov-24 avg | Oct-24 avg | ±% | 2023 | 2022 |

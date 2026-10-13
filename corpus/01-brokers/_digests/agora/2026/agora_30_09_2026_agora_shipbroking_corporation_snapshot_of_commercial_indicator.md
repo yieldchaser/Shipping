@@ -154,12 +154,12 @@ We consider the herein indicators valuable in decision making since shipping is 
 
 #### Key Personnel & Management
 
-- **Mr. Alexandros Psarianos, BSc, MSc, FICS** – Managing Director (mob: `+30 6985.11.11.02`)
-- **Mr. Dimitris Vasiliou, BSc** – Chartering Broker (mob: `+30 698.938.17.45`)
-- **Mr. Nicolas Trantas, BSc, LLM, MICS** – Chartering Broker (mob: `+30 693.6505.888`)
-- **Mr. Nikos Aronis, BSc** – Chartering Broker (mob: `+30 6970.30.78.08`)
-- **Mr. Dimitrios Katsos, Diploma** – Customs Brokerage & Warehousing (mob: `+30 694.456.4171`)
-- **Mr. Akis Vasilliadis, Diploma** – Accounting (mob: `+30 697.263.4347`)
+- **Mr. Alexandros Psarianos, BSc, MSc, FICS** – Managing Director (mob: `[omitted]`)
+- **Mr. Dimitris Vasiliou, BSc** – Chartering Broker (mob: `[omitted]`)
+- **Mr. Nicolas Trantas, BSc, LLM, MICS** – Chartering Broker (mob: `[omitted]`)
+- **Mr. Nikos Aronis, BSc** – Chartering Broker (mob: `[omitted]`)
+- **Mr. Dimitrios Katsos, Diploma** – Customs Brokerage & Warehousing (mob: `[omitted]`)
+- **Mr. Akis Vasilliadis, Diploma** – Accounting (mob: `[omitted]`)
 
 #### Offices & Corporate
 - **Piraeus Office**: No. 9, II Merarchias Str., Piraeus 18535, Greece

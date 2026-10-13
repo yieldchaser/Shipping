@@ -103,37 +103,9 @@ The crude tanker charter markets displayed mixed performance last week, with the
 | **Handysize** | **32K 1yr TC** | 10,500 | 10,500 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,000 | **5.0%** | **500** | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 28/Mar/24 | 2500 | 1600 | 1200 | 800 | 1600 |
-| 28/Apr/24 | 2800 | 1500 | 1100 | 700 | 1500 |
-| 28/May/24 | 3000 | 1400 | 1000 | 600 | 1400 |
-| 28/Jul/24 | 3500 | 1300 | 900 | 500 | 1300 |
-| 28/Aug/24 | 3200 | 1200 | 800 | 400 | 1200 |
-| 28/Sep/24 | 2900 | 1100 | 700 | 300 | 1100 |
-| 28/Oct/24 | 2600 | 1000 | 600 | 200 | 1000 |
-| 28/Nov/24 | 2400 | 900 | 500 | 100 | 900 |
-| 28/Dec/24 | 1000 | 800 | 400 | 100 | 800 |
-| 28/Jan/25 | 1200 | 700 | 300 | 100 | 700 |
-| 28/Feb/25 | 2400 | 1200 | 600 | 200 | 1400 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 28/Mar/24 | 20000 | 12000 | 10000 | 8000 |
-| 28/Apr/24 | 22000 | 11000 | 9000 | 7000 |
-| 28/May/24 | 25000 | 10000 | 8000 | 6000 |
-| 28/Jul/24 | 30000 | 9000 | 7000 | 5000 |
-| 28/Aug/24 | 26000 | 8000 | 6000 | 4000 |
-| 28/Sep/24 | 24000 | 7000 | 5000 | 3000 |
-| 28/Oct/24 | 20000 | 6000 | 4000 | 2000 |
-| 28/Nov/24 | 18000 | 5000 | 3000 | 1000 |
-| 28/Dec/24 | 8000 | 4000 | 2000 | 1000 |
-| 28/Jan/25 | 10000 | 3000 | 1000 | 1000 |
-| 28/Feb/25 | 20000 | 12000 | 4000 | 2000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Mar-25 avg | Feb-25 avg | ±% | 2024 | 2023 |

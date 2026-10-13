@@ -66,40 +66,9 @@ Against that backdrop, sentiment is poised to adjust as conditions stabilise; on
 | **Handy** | 36k 1yr TC | 19,750 | 19,750 | 0.0% | 0 | 26,606 | 25,760 |
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 19,993 | 18,200 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 21/Nov/24 | 50 | 90 | 160 |
-| 21/Dec/24 | 60 | 100 | 170 |
-| 21/Jan/25 | 55 | 105 | 165 |
-| 21/Feb/25 | 50 | 100 | 160 |
-| 21/Mar/25 | 45 | 110 | 210 |
-| 21/Apr/25 | 40 | 115 | 220 |
-| 21/May/25 | 45 | 110 | 180 |
-| 21/Jun/25 | 50 | 105 | 170 |
-| 21/Jul/25 | 55 | 100 | 165 |
-| 21/Aug/25 | 60 | 105 | 175 |
-| 21/Sep/25 | 70 | 110 | 200 |
-| 21/Oct/25 | 80 | 115 | 210 |
-| 21/Nov/25 | 120 | 180 | 200 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 21/Nov/24 | 100 | 120 | 280 | 150 |
-| 21/Dec/24 | 110 | 130 | 270 | 160 |
-| 21/Jan/25 | 105 | 125 | 260 | 155 |
-| 21/Feb/25 | 100 | 120 | 250 | 150 |
-| 21/Mar/25 | 95 | 115 | 240 | 145 |
-| 21/Apr/25 | 90 | 110 | 230 | 140 |
-| 21/May/25 | 95 | 115 | 220 | 135 |
-| 21/Jun/25 | 100 | 120 | 210 | 130 |
-| 21/Jul/25 | 105 | 125 | 200 | 125 |
-| 21/Aug/25 | 110 | 130 | 190 | 120 |
-| 21/Sep/25 | 115 | 135 | 180 | 115 |
-| 21/Oct/25 | 120 | 140 | 170 | 110 |
-| 21/Nov/25 | 160 | 170 | 200 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Nov-25 avg | Oct-25 avg | ±% | 2024 | 2023 | 2022 |
@@ -151,41 +120,9 @@ The Aframax market experienced a volatile week with regional divergences. TCE fe
 | **Handysize** | **32K 1yr TC** | 11,250 | 11,250 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 21/Nov/24 | 2800 | 1000 | 800 | 600 | 1500 |
-| 21/Dec/24 | 1800 | 800 | 700 | 500 | 900 |
-| 21/Jan/25 | 1200 | 900 | 800 | 600 | 1000 |
-| 21/Feb/25 | 2000 | 1000 | 900 | 700 | 1100 |
-| 21/Mar/25 | 2800 | 1400 | 1200 | 900 | 1600 |
-| 21/Apr/25 | 3000 | 1600 | 1400 | 1000 | 1800 |
-| 21/May/25 | 2500 | 1500 | 1300 | 950 | 1700 |
-| 21/Jun/25 | 1800 | 1400 | 1200 | 850 | 1500 |
-| 21/Jul/25 | 3500 | 1800 | 1600 | 1100 | 2200 |
-| 21/Aug/25 | 3200 | 1700 | 1500 | 1000 | 2000 |
-| 21/Sep/25 | 3000 | 1600 | 1400 | 900 | 1900 |
-| 21/Oct/25 | 3400 | 1800 | 1500 | 950 | 2100 |
-| 21/Nov/25 | 3600 | 1900 | 1600 | 1000 | 2300 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 21/Nov/24 | 22000 | 9000 | 10000 | 8000 |
-| 21/Dec/24 | 8000 | 6000 | 7000 | 6000 |
-| 21/Jan/25 | 7000 | 5000 | 6000 | 5000 |
-| 21/Feb/25 | 18000 | 6000 | 7000 | 5500 |
-| 21/Mar/25 | 22000 | 7000 | 8000 | 6000 |
-| 21/Apr/25 | 18000 | 6500 | 7500 | 5500 |
-| 21/May/25 | 16000 | 6000 | 7000 | 5000 |
-| 21/Jun/25 | 30000 | 7000 | 8000 | 5500 |
-| 21/Jul/25 | 16000 | 6000 | 7000 | 5000 |
-| 21/Aug/25 | 28000 | 7000 | 8000 | 6000 |
-| 21/Sep/25 | 24000 | 6500 | 7500 | 5500 |
-| 21/Oct/25 | 26000 | 6500 | 7500 | 5500 |
-| 21/Nov/25 | 28000 | 7000 | 8000 | 6000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Nov-25 avg | Oct-25 avg | ±% | 2024 | 2023 |

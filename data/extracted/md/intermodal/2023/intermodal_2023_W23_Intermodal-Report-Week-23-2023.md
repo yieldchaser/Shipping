@@ -46,41 +46,9 @@ Looking at China's wheat imports in recent years, it is easy to see that the cou
 |  | 55K | MED-USG | 165 | 30,786 | 170 | 33,200 | -7.3% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 285 | 60,931 | 275 | 58,168 | 4.8% | 40,364 | 8,548 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 9/jun/22 | 100 | 150 | 150 |
-| 9/jul/22 | 120 | 160 | 250 |
-| 9/Aug/22 | 130 | 170 | 300 |
-| 9/Sep/22 | 140 | 180 | 350 |
-| 9/Oct/22 | 150 | 200 | 400 |
-| 9/Nov/22 | 160 | 300 | 600 |
-| 9/Dec/22 | 140 | 250 | 500 |
-| 9/Jan/23 | 120 | 200 | 300 |
-| 9/Feb/23 | 100 | 180 | 350 |
-| 9/Mar/23 | 110 | 170 | 350 |
-| 9/Apr/23 | 100 | 160 | 300 |
-| 9/May/23 | 90 | 150 | 250 |
-| 9/jun/23 | 80 | 140 | 200 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| DATE | WS points | WS points | WS points | WS points |
-| 9/jun/22 | 300 | 350 | 400 | 450 |
-| 9/jul/22 | 280 | 340 | 380 | 420 |
-| 9/Aug/22 | 260 | 320 | 360 | 400 |
-| 9/Sep/22 | 250 | 310 | 350 | 390 |
-| 9/Oct/22 | 240 | 300 | 340 | 380 |
-| 9/Nov/22 | 260 | 320 | 360 | 400 |
-| 9/Dec/22 | 280 | 340 | 380 | 420 |
-| 9/Jan/23 | 200 | 250 | 300 | 350 |
-| 9/Feb/23 | 180 | 230 | 280 | 330 |
-| 9/Mar/23 | 200 | 250 | 300 | 350 |
-| 9/Apr/23 | 220 | 270 | 320 | 370 |
-| 9/May/23 | 180 | 230 | 280 | 330 |
-| 9/jun/23 | 160 | 210 | 260 | 310 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 09/06/23 | 02/06/23 | ±% | Diff | 2022 | 2021 |
@@ -144,41 +112,9 @@ Suezmax T/C earnings averaged \$ 39,482/day, down - \$7,538/day w-o-w. On the Af
 |  | 32K 1yr TC | 10,000 | 10,000 | 0.0% | 0 | 17,827 | 18,354 |
 |  | 32K 3yr TC | 9,500 | 9,500 | 0.0% | 0 | 12,322 | 11,825 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 9/jun/22 | 2700 | 2600 | 1400 | 1300 | 2600 |
-| 9/jul/22 | 2900 | 2500 | 1400 | 1300 | 2800 |
-| 9/aug/22 | 2600 | 2400 | 1300 | 1200 | 2500 |
-| 9/sep/22 | 1200 | 1600 | 1300 | 1200 | 1400 |
-| 9/oct/22 | 1800 | 1500 | 1200 | 1100 | 1600 |
-| 9/Nov/22 | 1700 | 1500 | 1200 | 1100 | 1500 |
-| 9/Dec/22 | 2400 | 1400 | 1100 | 1000 | 2600 |
-| 9/Jan/23 | 1500 | 1000 | 1000 | 900 | 1000 |
-| 9/Feb/23 | 1100 | 900 | 900 | 800 | 900 |
-| 9/Mar/23 | 1200 | 1000 | 900 | 850 | 1100 |
-| 9/Apr/23 | 2500 | 1400 | 1000 | 900 | 2600 |
-| 9/May/23 | 2600 | 1500 | 1000 | 900 | 2700 |
-| 9/jun/23 | 1100 | 1000 | 850 | 800 | 1100 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 9/jun/22 | 25000 | 24000 | 23000 | 22000 |
-| 9/jul/22 | 24000 | 23000 | 22000 | 21000 |
-| 9/aug/22 | 10000 | 15000 | 14000 | 13000 |
-| 9/sep/22 | 12000 | 16000 | 15000 | 14000 |
-| 9/oct/22 | 14000 | 15000 | 14000 | 13000 |
-| 9/Nov/22 | 13000 | 14000 | 13000 | 12000 |
-| 9/Dec/22 | 26000 | 14000 | 13000 | 12000 |
-| 9/Jan/23 | 8000 | 9000 | 8000 | 7000 |
-| 9/Feb/23 | 7000 | 8000 | 7000 | 6000 |
-| 9/Mar/23 | 15000 | 14000 | 13000 | 12000 |
-| 9/Apr/23 | 18000 | 15000 | 14000 | 13000 |
-| 9/May/23 | 21000 | 16000 | 15000 | 14000 |
-| 9/jun/23 | 10000 | 9000 | 8000 | 7000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | May-23 avg | Previous avg | ±% | 2022 | 2021 |

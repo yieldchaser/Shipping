@@ -51,40 +51,9 @@ If hostilities escalate and key oil facilities are hit, much of the world's oil 
 | --- | --- | --- | --- | --- | --- | --- |
 | 3 mos | PS STARS | 2022 | 49,999 dwt | DEL EAST OCT/24 | $35,000/day | Weco Tankers |
 | 24 mos | PETALOUDA | 2008 | 47,322 dwt | DEL EAST OCT/24 | $28,500/day | Aramco |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 4/Oct/23 | 150 | 120 | 250 |
-| 4/Nov/23 | 100 | 115 | 280 |
-| 4/Dec/23 | 80 | 110 | 350 |
-| 4/Jan/24 | 70 | 115 | 380 |
-| 4/Feb/24 | 60 | 120 | 390 |
-| 4/Mar/24 | 50 | 110 | 200 |
-| 4/Apr/24 | 55 | 105 | 180 |
-| 4/May/24 | 60 | 100 | 160 |
-| 4/Jun/24 | 65 | 100 | 170 |
-| 4/Jul/24 | 70 | 105 | 180 |
-| 4/Aug/24 | 75 | 100 | 190 |
-| 4/Sep/24 | 80 | 95 | 200 |
-| 4/Oct/24 | 85 | 90 | 210 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 4/Oct/23 | 150 | 140 | 160 | 130 |
-| 4/Nov/23 | 140 | 135 | 150 | 120 |
-| 4/Dec/23 | 130 | 130 | 140 | 110 |
-| 4/Jan/24 | 120 | 125 | 130 | 100 |
-| 4/Feb/24 | 110 | 130 | 120 | 90 |
-| 4/Mar/24 | 100 | 120 | 110 | 80 |
-| 4/Apr/24 | 90 | 110 | 100 | 70 |
-| 4/May/24 | 85 | 105 | 95 | 65 |
-| 4/Jun/24 | 80 | 100 | 90 | 60 |
-| 4/Jul/24 | 75 | 95 | 85 | 55 |
-| 4/Aug/24 | 70 | 90 | 80 | 50 |
-| 4/Sep/24 | 65 | 85 | 75 | 45 |
-| 4/Oct/24 | 60 | 80 | 70 | 40 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 04/10/24 | 27/09/24 | ±% | Diff | 2023 | 2022 |
@@ -146,39 +115,9 @@ Tankers saw divergent trends during last week as the crude tankers surged, while
 | **Handysize** | **32K 1yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 1,000 | 10,000 | -90.0% | -9,000 | 9,510 | 12,322 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 4/Oct/23 | 3000 | 1800 | 1500 | 1000 | 1800 |
-| 4/Nov/23 | 3200 | 1900 | 1400 | 900 | 2000 |
-| 4/Dec/23 | 6500 | 3000 | 1600 | 800 | 3000 |
-| 4/Jan/24 | 2500 | 1700 | 1400 | 900 | 1900 |
-| 4/Feb/24 | 2200 | 1600 | 1300 | 800 | 1700 |
-| 4/Mar/24 | 3800 | 1800 | 1500 | 900 | 1800 |
-| 4/Apr/24 | 2800 | 1700 | 1400 | 800 | 1700 |
-| 4/May/24 | 2600 | 1600 | 1300 | 700 | 1600 |
-| 4/Jul/24 | 2700 | 1700 | 1400 | 800 | 1700 |
-| 4/Aug/24 | 2900 | 1700 | 1400 | 800 | 1800 |
-| 4/Sep/24 | 3100 | 1800 | 1500 | 900 | 1900 |
-| 4/Oct/24 | 3200 | 1800 | 1500 | 900 | 1900 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 4/Oct/23 | 25000 | 14000 | 12000 | 10000 |
-| 4/Nov/23 | 22000 | 13000 | 11000 | 9000 |
-| 4/Dec/23 | 55000 | 18000 | 13000 | 10000 |
-| 4/Jan/24 | 18000 | 14000 | 12000 | 9000 |
-| 4/Feb/24 | 20000 | 13000 | 11000 | 8000 |
-| 4/Mar/24 | 35000 | 16000 | 13000 | 9000 |
-| 4/Apr/24 | 28000 | 15000 | 12000 | 8000 |
-| 4/May/24 | 24000 | 14000 | 11000 | 7000 |
-| 4/Jul/24 | 26000 | 14000 | 11000 | 8000 |
-| 4/Aug/24 | 27000 | 14000 | 12000 | 8000 |
-| 4/Sep/24 | 28000 | 14000 | 12000 | 8000 |
-| 4/Oct/24 | 26000 | 13000 | 11000 | 7000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Oct-24 avg | Sep-24 avg | ±% | 2023 | 2022 |

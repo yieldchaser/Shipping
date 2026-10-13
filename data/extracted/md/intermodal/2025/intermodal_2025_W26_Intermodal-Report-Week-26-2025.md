@@ -118,41 +118,9 @@ Aframax performance was mixed across regions, reflecting diverse supply and dema
 | **Handysize** | **32K 1yr TC** | 10,000 | 10,000 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 27/Jun/24 | 3500 | 1500 | 1200 | 800 | 2000 |
-| 27/Jul/24 | 3000 | 1400 | 1100 | 700 | 1800 |
-| 27/Aug/24 | 2800 | 1300 | 1000 | 600 | 1600 |
-| 27/Sep/24 | 3200 | 1400 | 1100 | 700 | 1900 |
-| 27/Oct/24 | 2500 | 1200 | 900 | 500 | 1400 |
-| 27/Nov/24 | 2200 | 1100 | 800 | 400 | 1200 |
-| 27/Dec/24 | 1000 | 900 | 700 | 300 | 1000 |
-| 27/Jan/25 | 1200 | 1000 | 800 | 400 | 1100 |
-| 27/Feb/25 | 1500 | 1100 | 900 | 500 | 1300 |
-| 27/Mar/25 | 1800 | 1200 | 1000 | 600 | 1500 |
-| 27/Apr/25 | 1600 | 1100 | 900 | 500 | 1400 |
-| 27/May/25 | 3000 | 1500 | 1200 | 800 | 2000 |
-| 27/Jun/25 | 2400 | 1300 | 1000 | 600 | 1600 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 27/Jun/24 | 30000 | 12000 | 10000 | 8000 |
-| 27/Jul/24 | 28000 | 11000 | 9000 | 7000 |
-| 27/Aug/24 | 26000 | 10000 | 8000 | 6000 |
-| 27/Sep/24 | 24000 | 9000 | 7000 | 5000 |
-| 27/Oct/24 | 18000 | 7000 | 6000 | 4000 |
-| 27/Nov/24 | 15000 | 6000 | 5000 | 3000 |
-| 27/Dec/24 | 8000 | 5000 | 4000 | 2000 |
-| 27/Jan/25 | 10000 | 6000 | 5000 | 3000 |
-| 27/Feb/25 | 12000 | 7000 | 6000 | 4000 |
-| 27/Mar/25 | 16000 | 8000 | 7000 | 5000 |
-| 27/Apr/25 | 14000 | 7000 | 6000 | 4000 |
-| 27/May/25 | 28000 | 11000 | 9000 | 7000 |
-| 27/Jun/25 | 20000 | 8000 | 6000 | 5000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jun-25 avg | May-25 avg | ±% | 2024 | 2023 |

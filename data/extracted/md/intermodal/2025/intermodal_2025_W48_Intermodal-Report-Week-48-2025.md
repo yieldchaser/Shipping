@@ -48,55 +48,9 @@ In conclusion, China's renewed quota allocations and strengthening crude intake,
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 36 mos | Vokaria | 2026 | 115,000 dwt | $37,750/day | TotalEnergies |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | - | - | - |
-| 28/Nov/24 | WS | WS | WS |
-| 28/Dec/24 | RATES | RATES | RATES |
-| 28/Jan/25 | TD3 | TD6 | TD9 |
-| 28/Feb/25 | WS | WS | WS |
-| 31/Mar/25 | points | points | points |
-| 30/Apr/25 | 160 | 100 | 170 |
-| 31/May/25 | 150 | 110 | 160 |
-| 31/Jun/25 | 140 | 115 | 150 |
-| 31/Jul/25 | 130 | 120 | 140 |
-| 31/Aug/25 | 120 | 125 | 220 |
-| 30/sep/25 | 110 | 130 | 200 |
-| 31/Oct/25 | 100 | 110 | 180 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS points | WS points | WS points | WS points |
-| 28/Nov/24 | 100 | 150 | 250 | 180 |
-| 28/Dec/24 | 90 | 140 | 240 | 170 |
-| 28/Jan/25 | 100 | 150 | 230 | 160 |
-| 28/Feb/25 | 110 | 160 | 220 | 150 |
-| 31/Mar/25 | 120 | 170 | 280 | 160 |
-| 30/Apr/25 | 110 | 160 | 260 | 150 |
-| 31/May/25 | 100 | 150 | 240 | 140 |
-| 31/Jun/25 | 90 | 140 | 220 | 130 |
-| 31/Jul/25 | 100 | 150 | 210 | 140 |
-| 31/Aug/25 | 110 | 160 | 200 | 150 |
-| 30/sep/25 | 120 | 170 | 190 | 160 |
-| 31/Oct/25 | 130 | 180 | 250 | 180 |
-|  | CLEAN - WS RATES |  |  |  |
-|  | TC1 | TC2 | TC5 | TC6 |
-| Date | WS points | WS points | WS points | WS points |
-| 28/Nov/24 | 100 | 150 | 250 | 180 |
-| 28/Dec/24 | 90 | 140 | 240 | 170 |
-| 28/Jan/25 | 100 | 150 | 230 | 160 |
-| 28/Feb/25 | 110 | 160 | 220 | 150 |
-| 31/Mar/25 | 120 | 170 | 280 | 160 |
-| 30/Apr/25 | 110 | 160 | 260 | 150 |
-| 31/May/25 | 100 | 150 | 240 | 140 |
-| 31/Jun/25 | 90 | 140 | 220 | 130 |
-| 31/Jul/25 | 100 | 150 | 210 | 140 |
-| 31/Aug/25 | 110 | 160 | 200 | 150 |
-| 30/sep/25 | 120 | 170 | 190 | 160 |
-| 31/Oct/25 | 130 | 180 | 250 | 180 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 28/11/2025 | 21/11/2025 | ±% | Diff | 2024 | 2023 |
@@ -166,38 +120,9 @@ Aframax markets delivered a steadier story. The Mediterranean held broadly uncha
 | **Handysize** | **32K 1yr TC** | 11,250 | 11,250 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 28/Nov/24 | 2500 | 1000 | 800 | 700 | 1200 |
-| 28/Dec/24 | 1500 | 800 | 700 | 600 | 900 |
-| 28/Jan/25 | 2000 | 900 | 800 | 700 | 1000 |
-| 28/Feb/25 | 2500 | 1000 | 900 | 800 | 1100 |
-| 31/Mar/25 | 3000 | 1200 | 1000 | 900 | 1300 |
-| 30/Apr/25 | 2800 | 1100 | 1000 | 900 | 1200 |
-| 31/May/25 | 3500 | 1500 | 1200 | 1000 | 1500 |
-| 30/Jun/25 | 3800 | 1800 | 1400 | 1100 | 1800 |
-| 31/Jul/25 | 3600 | 1600 | 1300 | 1000 | 1600 |
-| 31/Aug/25 | 3400 | 1500 | 1200 | 900 | 1400 |
-| 30/Sep/25 | 3200 | 1400 | 1100 | 800 | 1300 |
-| 31/Oct/25 | 3800 | 1700 | 1300 | 900 | 2500 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 28/Nov/24 | 10000 | 8000 | 7000 | 6000 |
-| 28/Dec/24 | 6000 | 5000 | 5000 | 4000 |
-| 28/Jan/25 | 5000 | 6000 | 6000 | 5000 |
-| 28/Feb/25 | 8000 | 7000 | 7000 | 6000 |
-| 31/Mar/25 | 20000 | 10000 | 9000 | 8000 |
-| 30/Apr/25 | 15000 | 9000 | 8000 | 7000 |
-| 31/May/25 | 25000 | 12000 | 10000 | 9000 |
-| 30/Jun/25 | 32000 | 14000 | 12000 | 10000 |
-| 31/Jul/25 | 28000 | 13000 | 11000 | 9000 |
-| 31/Aug/25 | 22000 | 12000 | 10000 | 8000 |
-| 30/Sep/25 | 20000 | 11000 | 9000 | 7000 |
-| 31/Oct/25 | 32000 | 16000 | 14000 | 17000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Nov-25 avg | Oct-25 avg | ±% | 2024 | 2023 |

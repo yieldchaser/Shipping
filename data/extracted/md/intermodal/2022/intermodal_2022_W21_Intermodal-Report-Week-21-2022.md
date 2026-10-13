@@ -84,42 +84,10 @@ Shanghai 200122 China
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 36 mos | GEM NO. 5 | 2017 | 302,650 dwt | $32,500/day | HMM |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS points | WS points | WS points |
-| 27/May/21 | 30 | 80 | 90 |
-| 27/Jun/21 | 30 | 80 | 90 |
-| 27/Jul/21 | 30 | 80 | 100 |
-| 27/Aug/21 | 30 | 80 | 100 |
-| 27/Sep/21 | 30 | 80 | 100 |
-| 27/Oct/21 | 30 | 80 | 120 |
-| 27/Nov/21 | 30 | 80 | 110 |
-| 27/Dec/21 | 30 | 80 | 100 |
-| 27/Jan/22 | 30 | 80 | 100 |
-| 27/Feb/22 | 30 | 280 | 280 |
-| 27/Mar/22 | 30 | 290 | 290 |
-| 27/Apr/22 | 30 | 280 | 280 |
-| 27/May/22 | 30 | 120 | 180 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS points | WS points | WS points | WS points |
-| 27/May/21 | 100 | 100 | 100 | 100 |
-| 27/Jun/21 | 100 | 100 | 100 | 100 |
-| 27/Jul/21 | 100 | 100 | 100 | 100 |
-| 27/Aug/21 | 100 | 100 | 100 | 100 |
-| 27/Sep/21 | 100 | 100 | 100 | 100 |
-| 27/Oct/21 | 100 | 100 | 100 | 100 |
-| 27/Nov/21 | 100 | 100 | 100 | 100 |
-| 27/Dec/21 | 100 | 100 | 100 | 320 |
-| 27/Jan/22 | 100 | 100 | 100 | 200 |
-| 27/Feb/22 | 100 | 100 | 100 | 200 |
-| 27/Mar/22 | 100 | 100 | 100 | 450 |
-| 27/Apr/22 | 100 | 100 | 100 | 400 |
-| 27/May/22 | 100 | 100 | 100 | 450 |
 ## TC Rates
 
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -197,41 +165,9 @@ In the MR1 sector we had the sale of the "BALTIC COMMANDER I" (37,418dwt-blt '00
 |  | **32K 1yr TC** | 23,000 | 23,000 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 27/May/21 | 2800 | 2900 | 2700 | 1600 | 2800 |
-| 27/Jun/21 | 3000 | 3100 | 2800 | 1700 | 3000 |
-| 27/Jul/21 | 3500 | 3600 | 3200 | 1800 | 3500 |
-| 27/Aug/21 | 5000 | 5500 | 4500 | 2000 | 5000 |
-| 27/Sep/21 | 9500 | 6000 | 4000 | 1800 | 9500 |
-| 27/Oct/21 | 9000 | 5500 | 3500 | 1700 | 9000 |
-| 27/Nov/21 | 3000 | 3200 | 2800 | 1700 | 3000 |
-| 27/Dec/21 | 2800 | 3000 | 2700 | 1600 | 2800 |
-| 27/Jan/22 | 2000 | 2500 | 2000 | 1500 | 2000 |
-| 27/Feb/22 | 2200 | 2600 | 2200 | 1600 | 2200 |
-| 27/Mar/22 | 2800 | 3000 | 2800 | 1700 | 2800 |
-| 27/Apr/22 | 3500 | 3500 | 3200 | 1800 | 3500 |
-| 27/May/22 | 3200 | 3100 | 3000 | 1700 | 4200 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 27/May/21 | 22000 | 24000 | 23000 | 21000 |
-| 27/Jun/21 | 25000 | 26000 | 25000 | 22000 |
-| 27/Jul/21 | 30000 | 32000 | 30000 | 24000 |
-| 27/Aug/21 | 40000 | 36000 | 34000 | 26000 |
-| 27/Sep/21 | 85000 | 38000 | 35000 | 27000 |
-| 27/Oct/21 | 80000 | 36000 | 34000 | 26000 |
-| 27/Nov/21 | 28000 | 30000 | 28000 | 25000 |
-| 27/Dec/21 | 35000 | 32000 | 30000 | 26000 |
-| 27/Jan/22 | 10000 | 20000 | 18000 | 15000 |
-| 27/Feb/22 | 15000 | 22000 | 20000 | 16000 |
-| 27/Mar/22 | 20000 | 28000 | 26000 | 18000 |
-| 27/Apr/22 | 30000 | 34000 | 32000 | 20000 |
-| 27/May/22 | 35000 | 35000 | 33000 | 21000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -324,37 +260,10 @@ In the Ultramax sector we had the sale of the "PAVO BRIGHT" (61,281dwt-bl't '17,
 
 The shipbuilding activity remained firm during the past days with contracts coming to light across all the different sectors. In the bulker sector, HK based Chellaram concluded a deal with Yamic yard, in China, for two 64.000dwt bulkers, at \$36.0 million each. In the wet sector, Norwegian EuroGreen has contracted New Times Shipbuilding in China, to build eight methanol-fuelled product tankers, at \$58.0 million each. Moving forward, An LOI was signed between Kumiai Navigation and Kawasaki yard for the construction of two dual-fuelled VLGC of 86,700cbm, each to be delivered in 2025. Lastly, in the container sector, Regional Container Lines has declared an option for the construction of two 7.000teu boxships at Shanghai Waigaoqiao in China, to be delivered in 2024-2025, at the price of \$85.0 million each.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 27/May/21 | 93 | 61 | 45 | 43 | 34 |
-| 27/Jun/21 | 95 | 63 | 46 | 43 | 34 |
-| 27/Jul/21 | 98 | 65 | 47 | 44 | 34 |
-| 27/Aug/21 | 102 | 66 | 48 | 44 | 35 |
-| 27/Sep/21 | 108 | 67 | 50 | 45 | 35 |
-| 27/Oct/21 | 112 | 68 | 51 | 45 | 35 |
-| 27/Nov/21 | 115 | 69 | 52 | 46 | 35 |
-| 27/Dec/21 | 116 | 70 | 53 | 46 | 35 |
-| 27/Jan/22 | 117 | 70 | 54 | 46 | 35 |
-| 27/Feb/22 | 118 | 71 | 55 | 46 | 35 |
-| 27/Mar/22 | 119 | 72 | 56 | 47 | 36 |
-| 27/Apr/22 | 119 | 73 | 57 | 47 | 36 |
-| 27/May/22 | 119 | 74 | 58 | 47 | 36 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 27/May/21 | 56 | 28 | 31 | 25 |
-| 27/Jun/21 | 58 | 29 | 32 | 26 |
-| 27/Jul/21 | 59 | 30 | 32 | 26 |
-| 27/Aug/21 | 60 | 31 | 33 | 27 |
-| 27/Sep/21 | 60 | 32 | 33 | 27 |
-| 27/Oct/21 | 60 | 33 | 33 | 28 |
-| 27/Nov/21 | 60 | 33 | 34 | 28 |
-| 27/Dec/21 | 60 | 33 | 34 | 28 |
-| 27/Jan/22 | 61 | 34 | 34 | 28 |
-| 27/Feb/22 | 61 | 34 | 34 | 28 |
-| 27/Mar/22 | 61 | 34 | 35 | 29 |
-| 27/Apr/22 | 62 | 35 | 35 | 29 |
-| 27/May/22 | 62 | 35 | 35 | 29 |
+> **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
+
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -372,23 +281,7 @@ The shipbuilding activity remained firm during the past days with contracts comi
 
 The average demolition levels witnessed another w-o-w decline. Currencies across the main Indian-subcontinent countries continue to hover at historically low levels against the US dollar, which combined with the lower steel demand and inflation pressure are having an adverse effect on breakers' bids. As a result, offered prices declined across all nations, with Indian ones heavily pressured by the 15% duty on steel export. In Bangladesh, breakers' interest to refill their yards is facing resistance from banks which are demanding higher cash margins and as a result making the acquisition of large ldt units unattainable. The situation has worsened in Pakistan, with the economic instability shadowing the demolition market activity. Pakistan Rupee remains close to the 200/USD mark pushing breakers to renegotiate or even forsake their purchase obligations. Lastly, as far as the supply of tonnage is concerned, the strong freight markets across all the sectors keep the volume of demo candidates at significantly low levels. Average prices in the different markets this week for tankers ranged between 330-620/ldt and those for dry bulk units between \$320-605/ldt.
 
-### Tanker Demolition Prices
-
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 27/May/21 | 540 | 500 | 540 | 290 |
-| 27/Jun/21 | 580 | 550 | 570 | 285 |
-| 27/Jul/21 | 590 | 570 | 580 | 290 |
-| 27/Aug/21 | 595 | 580 | 585 | 290 |
-| 27/Sep/21 | 600 | 590 | 590 | 295 |
-| 27/Oct/21 | 605 | 600 | 600 | 330 |
-| 27/Nov/21 | 590 | 560 | 595 | 335 |
-| 27/Dec/21 | 595 | 550 | 590 | 340 |
-| 27/Jan/22 | 600 | 570 | 595 | 345 |
-| 27/Feb/22 | 660 | 620 | 650 | 450 |
-| 27/Mar/22 | 670 | 650 | 660 | 455 |
-| 27/Apr/22 | 665 | 660 | 665 | 450 |
-| 27/May/22 | 605 | 605 | 600 | 320 |
+> **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 
 ### Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |

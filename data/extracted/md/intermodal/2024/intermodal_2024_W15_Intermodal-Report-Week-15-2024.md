@@ -54,40 +54,9 @@ As Q2 of 2024 unfolds, recent escalations in the Middle East add a layer of unce
 | 12 mos | JAG AMISHA | 2009 | 74,889 dwt | $39,250/day | Petronas (PETCO) |
 | 6 mos | RELIABILITY | 2023 | 50,170 dwt | $36,000/day | CEPSA |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 12/Apr/23 | 0 | 0 | 0 |
-| 12/May/23 | 0 | 0 | 0 |
-| 12/Jun/23 | 0 | 0 | 0 |
-| 12/Jul/23 | 0 | 0 | 0 |
-| 12/Aug/23 | 0 | 0 | 0 |
-| 12/Sep/23 | 0 | 0 | 0 |
-| 12/Oct/23 | 0 | 0 | 0 |
-| 12/Nov/23 | 0 | 0 | 0 |
-| 12/Dec/23 | 0 | 0 | 0 |
-| 12/Jan/24 | 0 | 0 | 0 |
-| 12/Feb/24 | 0 | 0 | 0 |
-| 12/Mar/24 | 0 | 0 | 0 |
-| 12/Apr/24 | 0 | 0 | 0 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 12/Apr/23 | 0 | 0 | 0 | 0 |
-| 12/May/23 | 0 | 0 | 0 | 0 |
-| 12/Jun/23 | 0 | 0 | 0 | 0 |
-| 12/Jul/23 | 0 | 0 | 0 | 0 |
-| 12/Aug/23 | 0 | 0 | 0 | 0 |
-| 12/Sep/23 | 0 | 0 | 0 | 0 |
-| 12/Oct/23 | 0 | 0 | 0 | 0 |
-| 12/Nov/23 | 0 | 0 | 0 | 0 |
-| 12/Dec/23 | 0 | 0 | 0 | 0 |
-| 12/Jan/24 | 0 | 0 | 0 | 0 |
-| 12/Feb/24 | 0 | 0 | 0 | 0 |
-| 12/Mar/24 | 0 | 0 | 0 | 0 |
-| 12/Apr/24 | 0 | 0 | 0 | 0 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 12/04/24 | 05/04/24 | ±% | Diff | 2023 | 2022 |
@@ -145,23 +114,7 @@ Aframax T/C earnings averaged \$46,617/day, marking a weekly surge of \$11,181/d
 | 6/8 mos | ALPHA VISION | 2012 | 81,254 dwt | dely Ulsan 6/8 Apr redel worldwide | $17,250/day | Oldendorff |
 | 6/9 months | ZEPHYROS | 2016 | 81,805 dwt | dely Lianyungang 10/15 Apr redel worldwide | $18,000/day | NYK |
 
-### Baltic Indices (1-Year Trend)
-
-| Category BCI BPI BSI BHSI BDI | Line Orange Dark Green Light Green Light Blue Black |
-| --- | --- |
-| 12/Apr/23 | 1,500 |
-| 12/May/23 | 1,600 |
-| 12/Jun/23 | 1,400 |
-| 12/Jul/23 | 1,500 |
-| 12/Aug/23 | 1,600 |
-| 12/Sep/23 | 2,500 |
-| 12/Oct/23 | 3,000 |
-| 12/Nov/23 | 2,800 |
-| 12/Dec/23 | 6,500 |
-| 12/Jan/24 | 2,000 |
-| 12/Feb/24 | 2,200 |
-| 12/Mar/24 | 3,500 |
-| 12/Apr/24 | 2,300 |
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 12/04/24 | 05/04/24 | ±% | Diff | 2023 | 2022 |
@@ -175,23 +128,7 @@ Aframax T/C earnings averaged \$46,617/day, marking a weekly surge of \$11,181/d
 | **Handysize** | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 10,644 | 17,827 |
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 12/Apr/23 | 15000 |  |  |  |
-| 12/May/23 | 16000 |  |  |  |
-| 12/Jun/23 | 14000 |  |  |  |
-| 12/Jul/23 | 15000 |  |  |  |
-| 12/Aug/23 | 16000 |  |  |  |
-| 12/Sep/23 | 25000 |  |  |  |
-| 12/Oct/23 | 30000 |  |  |  |
-| 12/Nov/23 | 28000 |  |  |  |
-| 12/Dec/23 | 50000 |  |  |  |
-| 12/Jan/24 | 16000 |  |  |  |
-| 12/Feb/24 | 20000 |  |  |  |
-| 12/Mar/24 | 30000 |  |  |  |
-| 12/Apr/24 | 18000 |  |  |  |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Apr-24 avg | Mar-24 avg | ±% | 2023 | 2022 | 2021 |

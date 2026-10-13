@@ -53,40 +53,9 @@ Concluding, the EUA outlook for the remainder of 2026 will depend largely on dev
 | Period | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 12 mos | Torm Herdis | 2018 | 115,109 | $51,500 | PetroChina |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 31/Aug/25 | 150 | 180 | 200 |
-| 30/Sep/25 | 140 | 170 | 190 |
-| 31/Oct/25 | 130 | 160 | 180 |
-| 30/Nov/25 | 140 | 170 | 190 |
-| 31/Dec/25 | 150 | 180 | 200 |
-| 31/Jan/26 | 200 | 250 | 300 |
-| 28/Feb/26 | 400 | 450 | 500 |
-| 31/Mar/26 | 950 | 480 | 980 |
-| 30/Apr/26 | 450 | 460 | 470 |
-| 31/May/26 | 420 | 440 | 450 |
-| 30/Jun/26 | 380 | 400 | 420 |
-| 31/Jul/26 | 500 | 480 | 500 |
-| 31/Aug/26 | 580 | 460 | 550 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 31/Aug/25 | 150 | 160 | 170 | 180 |
-| 30/Sep/25 | 140 | 150 | 160 | 170 |
-| 31/Oct/25 | 130 | 140 | 150 | 160 |
-| 30/Nov/25 | 140 | 150 | 160 | 170 |
-| 31/Dec/25 | 150 | 160 | 170 | 180 |
-| 31/Jan/26 | 200 | 220 | 240 | 260 |
-| 28/Feb/26 | 350 | 280 | 300 | 320 |
-| 31/Mar/26 | 580 | 300 | 550 | 580 |
-| 30/Apr/26 | 550 | 280 | 560 | 570 |
-| 31/May/26 | 520 | 260 | 540 | 550 |
-| 30/Jun/26 | 340 | 240 | 360 | 380 |
-| 31/Jul/26 | 500 | 200 | 500 | 520 |
-| 31/Aug/26 | 550 | 180 | 550 | 580 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 28/08/2026 | 21/08/2026 | ±% | Diff | 2025 | 2024 |
@@ -153,40 +122,9 @@ The Aframax segment also moved lower, mainly due to subdued conditions at USG. I
 | **Handysize** | **32K 1yr TC** | 13,750 | 13,500 | **1.9%** | **250** | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 31/Aug/25 | 3000 | 1800 | 1500 | 1200 | 2000 |
-| 30/Sep/25 | 3500 | 1900 | 1400 | 1100 | 2100 |
-| 31/Oct/25 | 4000 | 2000 | 1300 | 1000 | 2200 |
-| 30/Nov/25 | 5500 | 2100 | 1200 | 900 | 2300 |
-| 31/Dec/25 | 2500 | 1500 | 1100 | 800 | 2000 |
-| 31/Jan/26 | 2600 | 1600 | 1000 | 700 | 2100 |
-| 28/Feb/26 | 2700 | 1700 | 1000 | 700 | 2200 |
-| 31/Mar/26 | 3800 | 1800 | 1000 | 700 | 2300 |
-| 30/Apr/26 | 4800 | 1900 | 1000 | 700 | 3000 |
-| 31/May/26 | 5500 | 2000 | 1000 | 700 | 3000 |
-| 30/Jun/26 | 1500 | 2000 | 1000 | 700 | 2500 |
-| 31/Jul/26 | 4500 | 2200 | 1100 | 800 | 3500 |
-| 31/Aug/26 | 5000 | 2300 | 1200 | 800 | 4000 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 31/Aug/25 | 22000 | 16000 | 15000 | 12000 |
-| 30/Sep/25 | 24000 | 16500 | 15500 | 12500 |
-| 31/Oct/25 | 26000 | 17000 | 16000 | 13000 |
-| 30/Nov/25 | 42000 | 17500 | 16500 | 13500 |
-| 31/Dec/25 | 18000 | 14000 | 14000 | 11000 |
-| 31/Jan/26 | 20000 | 15000 | 14500 | 11500 |
-| 28/Feb/26 | 21000 | 15500 | 15000 | 12000 |
-| 31/Mar/26 | 22000 | 16000 | 15500 | 12500 |
-| 30/Apr/26 | 43000 | 16500 | 16000 | 13000 |
-| 31/May/26 | 45000 | 17000 | 16500 | 13500 |
-| 30/Jun/26 | 32000 | 17500 | 17000 | 14000 |
-| 31/Jul/26 | 40000 | 18000 | 17500 | 14500 |
-| 31/Aug/26 | 42000 | 18500 | 18000 | 15000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Aug-26 avg | Jul-26 avg | ±% | 2025 | 2024 | 2023 |

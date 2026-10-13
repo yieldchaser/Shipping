@@ -52,40 +52,9 @@ Having said that, the math is not mathing when comparing the asset prices to the
 |  | 55K | MED-USG | 125 | 17,064 | 165 | 30,429 | -43.9% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 201 | 35,085 | 250 | 50,532 | -30.6% | 40,364 | 8,548 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 14/Jul/22 | 50 | 180 | 250 |
-| 14/Aug/22 | 60 | 190 | 260 |
-| 14/Sep/22 | 70 | 200 | 270 |
-| 14/Oct/22 | 80 | 210 | 280 |
-| 14/Nov/22 | 90 | 300 | 580 |
-| 14/Dec/22 | 100 | 250 | 500 |
-| 14/Jan/23 | 110 | 200 | 200 |
-| 14/Feb/23 | 120 | 180 | 190 |
-| 14/Mar/23 | 130 | 170 | 180 |
-| 14/Apr/23 | 140 | 160 | 170 |
-| 14/May/23 | 150 | 150 | 160 |
-| 14/Jun/23 | 160 | 140 | 150 |
-| 14/Jul/23 | 170 | 130 | 140 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 14/Jul/22 | 300 | 320 | 340 | 360 |
-| 14/Aug/22 | 290 | 310 | 330 | 350 |
-| 14/Sep/22 | 280 | 300 | 320 | 340 |
-| 14/Oct/22 | 270 | 290 | 310 | 330 |
-| 14/Nov/22 | 260 | 280 | 300 | 320 |
-| 14/Dec/22 | 250 | 270 | 290 | 310 |
-| 14/Jan/23 | 150 | 170 | 190 | 210 |
-| 14/Feb/23 | 160 | 180 | 200 | 220 |
-| 14/Mar/23 | 450 | 460 | 470 | 480 |
-| 14/Apr/23 | 170 | 180 | 190 | 200 |
-| 14/May/23 | 180 | 190 | 200 | 210 |
-| 14/Jun/23 | 190 | 200 | 210 | 220 |
-| 14/Jul/23 | 200 | 210 | 220 | 230 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 14/07/23 | 07/07/23 | ±% | Diff | 2022 | 2021 |
@@ -154,40 +123,9 @@ Suezmax T/C earnings averaged \$ 32,992/day, up + \$2,241/day w-o-w. On the Afra
 | 32K 1yr TC |  | 8,000 | 8,000 | 0.0% | 0 | 17,827 | 18,354 |
 | 32K 3yr TC |  | 9,000 | 9,000 | 0.0% | 0 | 12,322 | 11,825 |
 
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 14/Jul/22 | 2800 | 2000 | 1300 | 2000 | 2800 |
-| 14/Aug/22 | 1000 | 1500 | 1200 | 1000 | 1500 |
-| 14/Sep/22 | 2200 | 1600 | 1100 | 900 | 2000 |
-| 14/Oct/22 | 2500 | 1700 | 1000 | 800 | 2200 |
-| 14/Nov/22 | 1800 | 1600 | 1000 | 800 | 1800 |
-| 14/Dec/22 | 2600 | 1800 | 900 | 700 | 2600 |
-| 14/Jan/23 | 600 | 800 | 700 | 600 | 600 |
-| 14/Feb/23 | 1000 | 1000 | 800 | 700 | 1000 |
-| 14/Mar/23 | 1600 | 1400 | 1200 | 1000 | 1600 |
-| 14/Apr/23 | 2400 | 2000 | 1500 | 1200 | 2400 |
-| 14/May/23 | 1800 | 1600 | 1300 | 1100 | 1800 |
-| 14/Jun/23 | 1600 | 1400 | 1100 | 900 | 1600 |
-| 14/Jul/23 | 1700 | 1300 | 1000 | 800 | 1700 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 14/Jul/22 | 23000 | 18000 | 16000 | 15000 |
-| 14/Aug/22 | 5000 | 14000 | 12000 | 11000 |
-| 14/Sep/22 | 10000 | 15000 | 13000 | 10000 |
-| 14/Oct/22 | 12000 | 16000 | 14000 | 11000 |
-| 14/Nov/22 | 11000 | 15000 | 13000 | 10000 |
-| 14/Dec/22 | 23000 | 17000 | 14000 | 11000 |
-| 14/Jan/23 | 6000 | 8000 | 7000 | 6000 |
-| 14/Feb/23 | 8000 | 9000 | 8000 | 7000 |
-| 14/Mar/23 | 14000 | 13000 | 12000 | 10000 |
-| 14/Apr/23 | 20000 | 16000 | 15000 | 11000 |
-| 14/May/23 | 17000 | 14000 | 13000 | 10000 |
-| 14/Jun/23 | 14000 | 12000 | 11000 | 9000 |
-| 14/Jul/23 | 15000 | 11000 | 10000 | 8000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Current avg | Previous avg | ±% | 2022 | 2021 |

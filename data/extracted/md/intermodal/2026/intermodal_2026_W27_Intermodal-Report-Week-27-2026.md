@@ -50,40 +50,9 @@ Finally, a critical factor for this dynamic will be the potential normalization 
 |  | 50k | ARA-UKC | 177 | 35,816 | 194 | 43,383 | -17.4% | 18,615 | 26,872 |
 
 No Fresh Fixtures to Report
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 3/Jul/25 | 100 | 150 | 150 |
-| 3/Aug/25 | 120 | 160 | 160 |
-| 3/Sep/25 | 140 | 170 | 170 |
-| 3/Oct/25 | 160 | 180 | 180 |
-| 3/Nov/25 | 180 | 200 | 200 |
-| 3/Dec/25 | 200 | 220 | 220 |
-| 3/Jan/26 | 250 | 280 | 280 |
-| 3/Feb/26 | 300 | 350 | 350 |
-| 3/Mar/26 | 400 | 450 | 450 |
-| 3/Apr/26 | 500 | 480 | 480 |
-| 3/May/26 | 450 | 400 | 400 |
-| 3/Jun/26 | 400 | 350 | 350 |
-| 3/Jul/26 | 380 | 320 | 320 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 3/Jul/25 | 120 | 130 | 140 | 140 |
-| 3/Aug/25 | 140 | 150 | 160 | 160 |
-| 3/Sep/25 | 160 | 170 | 180 | 180 |
-| 3/Oct/25 | 180 | 190 | 200 | 200 |
-| 3/Nov/25 | 200 | 210 | 220 | 220 |
-| 3/Dec/25 | 220 | 230 | 240 | 240 |
-| 3/Jan/26 | 250 | 260 | 270 | 270 |
-| 3/Feb/26 | 300 | 320 | 340 | 340 |
-| 3/Mar/26 | 400 | 380 | 400 | 400 |
-| 3/Apr/26 | 500 | 480 | 500 | 500 |
-| 3/May/26 | 450 | 420 | 450 | 450 |
-| 3/Jun/26 | 400 | 350 | 380 | 380 |
-| 3/Jul/26 | 380 | 320 | 350 | 350 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 03/07/2026 | 26/06/2026 | ±% | Diff | 2025 | 2024 |
@@ -151,40 +120,9 @@ The Aframax market declined last week, with TCE rates dropping 12.6% to \$40,720
 | **Handysize** | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 3/Jul/25 | 3500 | 1800 | 1500 | 900 | 1800 |
-| 3/Aug/25 | 3800 | 1900 | 1600 | 1000 | 2000 |
-| 3/Sep/25 | 3600 | 1850 | 1550 | 950 | 1900 |
-| 3/Oct/25 | 3400 | 1700 | 1400 | 800 | 1700 |
-| 3/Nov/25 | 3200 | 1600 | 1300 | 700 | 1600 |
-| 3/Dec/25 | 5200 | 2500 | 2000 | 1000 | 4500 |
-| 3/Jan/26 | 3000 | 1900 | 1700 | 900 | 2200 |
-| 3/Feb/26 | 2800 | 1700 | 1500 | 800 | 2000 |
-| 3/Mar/26 | 2900 | 1800 | 1600 | 850 | 2100 |
-| 3/Apr/26 | 3100 | 1900 | 1700 | 900 | 2300 |
-| 3/May/26 | 4800 | 3500 | 2800 | 1200 | 4200 |
-| 3/Jun/26 | 1200 | 1000 | 2000 | 800 | 1500 |
-| 3/Jul/26 | 3900 | 2100 | 2400 | 1000 | 3800 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 3/Jul/25 | 15000 | 12000 | 10000 | 8000 |
-| 3/Aug/25 | 25000 | 13000 | 11000 | 9000 |
-| 3/Sep/25 | 24000 | 12500 | 10500 | 8500 |
-| 3/Oct/25 | 23000 | 12000 | 10000 | 8000 |
-| 3/Nov/25 | 22000 | 11500 | 9500 | 7500 |
-| 3/Dec/25 | 43000 | 14000 | 11000 | 9000 |
-| 3/Jan/26 | 14000 | 12000 | 10000 | 8000 |
-| 3/Feb/26 | 16000 | 12500 | 10500 | 8500 |
-| 3/Mar/26 | 23000 | 13000 | 11000 | 9000 |
-| 3/Apr/26 | 24000 | 13500 | 11500 | 9500 |
-| 3/May/26 | 44000 | 15000 | 12000 | 10000 |
-| 3/Jun/26 | 32000 | 14000 | 11000 | 9000 |
-| 3/Jul/26 | 30000 | 13500 | 10500 | 8500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jul-26 avg | Jun-26 avg | ±% | 2025 | 2024 | 2023 |

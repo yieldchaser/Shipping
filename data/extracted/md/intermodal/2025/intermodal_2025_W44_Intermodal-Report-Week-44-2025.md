@@ -52,41 +52,9 @@ Looking ahead, firm U.S. exports and the onset of winter heating demand are like
 | --- | --- | --- |
 |  | $22,000/day |  |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 31/Oct/24 | 60 | 90 | 100 |
-| 30/Nov/24 | 55 | 85 | 150 |
-| 31/Dec/24 | 60 | 90 | 160 |
-| 31/Jan/25 | 65 | 95 | 140 |
-| 28/Feb/25 | 60 | 90 | 130 |
-| 31/Mar/25 | 55 | 85 | 210 |
-| 30/Apr/25 | 50 | 80 | 180 |
-| 31/May/25 | 55 | 85 | 160 |
-| 30/Jun/25 | 50 | 80 | 150 |
-| 31/Jul/25 | 55 | 85 | 160 |
-| 31/Aug/25 | 60 | 90 | 170 |
-| 30/Sep/25 | 65 | 95 | 200 |
-| 31/Oct/25 | 70 | 100 | 220 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 31/Oct/24 | 100 | 90 | 110 | 100 |
-| 30/Nov/24 | 120 | 100 | 130 | 110 |
-| 31/Dec/24 | 110 | 95 | 120 | 105 |
-| 31/Jan/25 | 115 | 100 | 125 | 110 |
-| 28/Feb/25 | 110 | 95 | 120 | 105 |
-| 31/Mar/25 | 120 | 100 | 130 | 115 |
-| 30/Apr/25 | 100 | 90 | 110 | 100 |
-| 31/May/25 | 105 | 95 | 115 | 105 |
-| 30/Jun/25 | 110 | 100 | 120 | 110 |
-| 31/Jul/25 | 105 | 95 | 115 | 105 |
-| 31/Aug/25 | 110 | 100 | 120 | 110 |
-| 30/Sep/25 | 115 | 105 | 125 | 115 |
-| 31/Oct/25 | 120 | 110 | 130 | 120 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 31/10/2025 | 24/10/2025 | ±% | Diff | 2024 | 2023 |
@@ -156,42 +124,9 @@ Overall, while regional volatility persisted, the broader crude market maintaine
 | **Handysize** | **32K 1yr TC** | 11,250 | 11,250 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 31/Oct/24 | 3200 | 1000 | 1200 | 700 | 1500 |
-| 30/Nov/24 | 3000 | 900 | 1000 | 600 | 1200 |
-| 31/Dec/24 | 1000 | 800 | 900 | 500 | 900 |
-| 31/Jan/25 | 1200 | 850 | 950 | 550 | 950 |
-| 28/Feb/25 | 2500 | 900 | 1000 | 600 | 1000 |
-| 31/Mar/25 | 2800 | 1100 | 1300 | 800 | 1400 |
-| 30/Apr/25 | 1800 | 1200 | 1400 | 900 | 1600 |
-| 31/May/25 | 3500 | 1300 | 1500 | 1000 | 1800 |
-| 30/jun/25 | 3800 | 1400 | 1600 | 1100 | 2000 |
-| 31/Jul/25 | 3600 | 1500 | 1700 | 1200 | 1900 |
-| 31/Aug/25 | 3400 | 1600 | 1800 | 1300 | 1800 |
-| 30/sep/25 | 3200 | 1700 | 1700 | 1200 | 1700 |
-| 31/Oct/25 | 3000 | 1800 | 1800 | 1100 | 1700 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 31/Oct/24 | 12000 | 8000 | 10000 | 7000 |
-| 30/Nov/24 | 26000 | 7000 | 9000 | 6000 |
-| 30/Nov/24 | 8000 | 6000 | 8000 | 5000 |
-| 31/Dec/24 | 9000 | 6500 | 8500 | 5500 |
-| 31/Jan/25 | 7000 | 5000 | 7000 | 4500 |
-| 28/Feb/25 | 10000 | 5500 | 7500 | 4000 |
-| 31/Mar/25 | 22000 | 6000 | 8000 | 4500 |
-| 30/Apr/25 | 16000 | 6500 | 8500 | 5000 |
-| 31/May/25 | 28000 | 7000 | 9000 | 5500 |
-| 30/jun/25 | 30000 | 7500 | 9500 | 6000 |
-| 31/Jul/25 | 28000 | 8000 | 9000 | 6500 |
-| 31/Aug/25 | 26000 | 8500 | 8500 | 6000 |
-| 30/sep/25 | 24000 | 9000 | 8000 | 5500 |
-| 31/Oct/25 | 25000 | 9500 | 7500 | 5000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Oct-25 avg | Sep-25 avg | ±% | 2024 | 2023 |

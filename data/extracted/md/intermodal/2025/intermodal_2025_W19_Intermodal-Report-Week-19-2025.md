@@ -36,40 +36,10 @@ In summary, these developments may signal a shift in the global trade narrative 
 | 12 mos | Babylon | 2020 |
 | --- | --- | --- |
 |  | $54,500/day |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 9/May/24 | 50 | 100 | 150 |
-| 9/Jun/24 | 60 | 110 | 200 |
-| 9/Jul/24 | 70 | 120 | 250 |
-| 9/Aug/24 | 55 | 105 | 220 |
-| 9/Sep/24 | 45 | 95 | 180 |
-| 9/Oct/24 | 50 | 100 | 200 |
-| 9/Nov/24 | 40 | 85 | 150 |
-| 9/Dec/24 | 55 | 100 | 180 |
-| 9/Jan/25 | 60 | 110 | 200 |
-| 9/Feb/25 | 50 | 100 | 170 |
-| 9/Mar/25 | 65 | 115 | 220 |
-| 9/Apr/25 | 55 | 105 | 190 |
-| 9/May/25 | 50 | 100 | 160 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 9/May/24 | 250 | 200 | 300 | 280 |
-| 9/Jun/24 | 180 | 150 | 250 | 240 |
-| 9/Jul/24 | 150 | 120 | 200 | 190 |
-| 9/Aug/24 | 140 | 110 | 180 | 170 |
-| 9/Sep/24 | 130 | 100 | 160 | 150 |
-| 9/Oct/24 | 120 | 90 | 140 | 130 |
-| 9/Nov/24 | 100 | 80 | 120 | 110 |
-| 9/Dec/24 | 150 | 130 | 200 | 180 |
-| 9/Jan/25 | 160 | 140 | 220 | 200 |
-| 9/Feb/25 | 140 | 120 | 190 | 170 |
-| 9/Mar/25 | 170 | 150 | 240 | 220 |
-| 9/Apr/25 | 150 | 130 | 210 | 190 |
-| 9/May/25 | 140 | 120 | 200 | 180 |
 ## Spot Rates
 
 | Sector | Size | Routes | 09/05/2025 WS points | 09/05/2025 $/day | 02/05/2025 WS points | 02/05/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
@@ -153,23 +123,7 @@ Aframax trading in the Mediterranean also softened. Following a holiday lull, fr
 | **Handysize** | **32K 1yr TC** | 10,000 | 10,000 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 9/May/24 | 28000 | 16000 | 12000 | 8000 |
-| 9/Jun/24 | 26000 | 15000 | 11000 | 7500 |
-| 9/Jul/24 | 32000 | 14000 | 10000 | 7000 |
-| 9/Aug/24 | 24000 | 13000 | 9500 | 6500 |
-| 9/Sep/24 | 27000 | 12000 | 9000 | 6000 |
-| 9/Oct/24 | 25000 | 11000 | 8500 | 5500 |
-| 9/Nov/24 | 18000 | 10000 | 8000 | 5000 |
-| 9/Dec/24 | 10000 | 9000 | 7500 | 4500 |
-| 9/Jan/25 | 8000 | 8500 | 7000 | 4000 |
-| 9/Feb/25 | 6000 | 8000 | 6500 | 3500 |
-| 9/Mar/25 | 20000 | 10000 | 7500 | 5000 |
-| 9/Apr/25 | 16000 | 9000 | 7000 | 4500 |
-| 9/May/25 | 14000 | 8500 | 6500 | 4000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | May-25 avg | Apr-25 avg | ±% | 2024 | 2023 |

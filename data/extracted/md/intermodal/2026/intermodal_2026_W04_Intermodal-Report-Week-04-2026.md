@@ -53,40 +53,9 @@ Given the above, the outlook for the containership market in 2026 points to nota
 | --- | --- | --- | --- | --- | --- |
 | 24 mos |  | Abu Dhabi Marine Int |  | $47,500/day |  |
 | 12 mos | Harmonic | 2019 | 159,204 dwt | $45,000/day | ST Shipping |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 23/Jan/25 | 100 | 100 | 100 |
-| 23/Feb/25 | 50 | 120 | 150 |
-| 23/Mar/25 | 60 | 150 | 200 |
-| 23/Apr/25 | 70 | 180 | 250 |
-| 23/May/25 | 65 | 160 | 220 |
-| 23/Jun/25 | 55 | 140 | 200 |
-| 23/Jul/25 | 50 | 130 | 180 |
-| 23/Aug/25 | 45 | 120 | 160 |
-| 23/Sep/25 | 40 | 110 | 150 |
-| 23/Oct/25 | 35 | 100 | 140 |
-| 23/Nov/25 | 30 | 90 | 130 |
-| 23/Dec/25 | 25 | 80 | 120 |
-| 23/Jan/26 | 20 | 70 | 300 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 23/Jan/25 | 100 | 100 | 150 | 200 |
-| 23/Feb/25 | 90 | 110 | 160 | 210 |
-| 23/Mar/25 | 80 | 100 | 170 | 220 |
-| 23/Apr/25 | 70 | 90 | 180 | 230 |
-| 23/May/25 | 60 | 80 | 190 | 240 |
-| 23/Jun/25 | 50 | 70 | 200 | 250 |
-| 23/Jul/25 | 40 | 60 | 210 | 260 |
-| 23/Aug/25 | 30 | 50 | 220 | 270 |
-| 23/Sep/25 | 25 | 40 | 230 | 280 |
-| 23/Oct/25 | 20 | 30 | 240 | 290 |
-| 23/Nov/25 | 15 | 20 | 250 | 300 |
-| 23/Dec/25 | 10 | 10 | 260 | 310 |
-| 23/Jan/26 | 5 | 5 | 270 | 320 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 23/01/2026 | 16/01/2026 | ±% | Diff | 2025 | 2024 |
@@ -142,32 +111,9 @@ Aframax markets showed pronounced regional divergence. In the Mediterranean, ear
 | 11 to 13 mos | Guo Yuan 86 | 2020 | 86,374 dwt | Delivery Zhoushan 20 Jan redelivery worldwide | $16,500/day | cnr |
 | 7 to 10 mos | Florentia | 2016 | 63,340 dwt | Delivery Abidjan 27/30 Jan redelivery worldwide | $17,100/day | Oldendorff |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 23/Jan/25 | 800 | 900 | 700 | 600 | 850 |
-| 23/Feb/25 | 2500 | 1200 | 900 | 700 | 1000 |
-| 23/Mar/25 | 2000 | 1400 | 1000 | 800 | 1200 |
-| 23/Apr/25 | 1800 | 1300 | 1100 | 800 | 1100 |
-| 23/May/25 | 1500 | 1400 | 1000 | 700 | 1200 |
-| 23/Jun/25 | 3800 | 1600 | 1200 | 800 | 1500 |
-| 23/Jul/25 | 3500 | 1500 | 1300 | 800 | 1600 |
-| 23/Aug/25 | 3200 | 1800 | 1400 | 800 | 1800 |
-| 23/Sep/25 | 3000 | 1700 | 1300 | 700 | 1700 |
-| 23/Oct/25 | 2800 | 1600 | 1400 | 700 | 1800 |
-| 23/Nov/25 | 3800 | 1900 | 1500 | 700 | 2200 |
-| 23/Dec/25 | 4000 | 1700 | 1400 | 600 | 2500 |
-| 23/Jan/26 | 2400 | 1600 | 1500 | 600 | 1800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Index | 23/Jan/25 | 23/Feb/25 | 23/Mar/25 | 23/Apr/25 | 23/May/25 | 23/Jun/25 | 23/Jul/25 | 23/Aug/25 | 23/Sep/25 | 23/Oct/25 | 23/Nov/25 | 23/Dec/25 | 23/Jan/26 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Average of the 5 T / C | 5000 | 10000 | 20000 | 18000 | 22000 | 28000 | 25000 | 26000 | 24000 | 25000 | 43000 | 18000 | 16000 |
-| AVR 5TC BPI | 6000 | 8000 | 9000 | 8500 | 9000 | 10000 | 9500 | 11000 | 10000 | 10000 | 12000 | 11000 | 10000 |
-| AVR 10TC BSI | 5500 | 7000 | 8000 | 7500 | 8000 | 9000 | 8500 | 9500 | 9000 | 9500 | 10000 | 9000 | 8500 |
-| AVR 7TC BHSI | 5000 | 6000 | 7000 | 6500 | 7000 | 8000 | 7500 | 8000 | 7000 | 7500 | 8000 | 7000 | 6500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 23/01/2026 | 16/01/2026 | ±% | Diff | 2025 | 2024 |

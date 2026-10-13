@@ -122,40 +122,9 @@ The Baltic Exchange
 | **Aframax** | **110KT DH** | 58.0 | 56.8 | 2.2% | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 50.5 | 43.3 | 16.8% | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 40.5 | 39.3 | 3.2% | 27.6 | 27.5 | 28.6 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 9/Dec/21 | 100 | 150 | 150 |
-| 9/Jan/22 | 100 | 160 | 150 |
-| 9/Feb/22 | 100 | 280 | 160 |
-| 9/Mar/22 | 100 | 280 | 280 |
-| 9/Apr/22 | 100 | 280 | 250 |
-| 9/May/22 | 100 | 250 | 200 |
-| 9/Jun/22 | 100 | 200 | 200 |
-| 9/Jul/22 | 100 | 200 | 250 |
-| 9/Aug/22 | 100 | 200 | 300 |
-| 9/Sep/22 | 100 | 200 | 300 |
-| 9/Oct/22 | 100 | 200 | 350 |
-| 9/Nov/22 | 100 | 250 | 600 |
-| 9/Dec/22 | 100 | 280 | 280 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 9/Dec/21 | 200 | 150 | 300 |  |
-| 9/Jan/22 | 150 | 150 | 250 |  |
-| 9/Feb/22 | 150 | 150 | 200 |  |
-| 9/Mar/22 | 150 | 150 | 250 |  |
-| 9/Apr/22 | 400 | 300 | 450 |  |
-| 9/May/22 | 300 | 300 | 450 |  |
-| 9/Jun/22 | 300 | 300 | 400 |  |
-| 9/Jul/22 | 300 | 300 | 450 |  |
-| 9/Aug/22 | 300 | 300 | 300 |  |
-| 9/Sep/22 | 250 | 300 | 250 |  |
-| 9/Oct/22 | 300 | 350 | 300 |  |
-| 9/Nov/22 | 350 | 400 | 400 |  |
-| 9/Dec/22 | 350 | 400 | 400 |  |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -205,39 +174,9 @@ In the MR2 sector we had the sale of the "NAVE DORADO" (47,999dwt-bl't '05, Japa
 | **Handysize** | **32K 1yr TC** | 11,000 | 11,000 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 9,000 | 9,000 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 9/Dec/21 | 2800 | 2900 | 2700 | 1800 | 4600 |
-| 9/Jan/22 | 2600 | 2700 | 2600 | 1600 | 2500 |
-| 9/Feb/22 | 2400 | 2500 | 2400 | 1500 | 2200 |
-| 9/Mar/22 | 2800 | 2900 | 2800 | 1700 | 2600 |
-| 9/Apr/22 | 3000 | 3100 | 3000 | 1800 | 2800 |
-| 9/May/22 | 4200 | 3500 | 3400 | 1900 | 4000 |
-| 9/Jul/22 | 2600 | 2700 | 2600 | 1600 | 2400 |
-| 9/Aug/22 | 2400 | 2500 | 2300 | 1500 | 2200 |
-| 9/Sep/22 | 2200 | 2300 | 2100 | 1400 | 2000 |
-| 9/Oct/22 | 1800 | 1900 | 1800 | 1500 | 1700 |
-| 9/Nov/22 | 1600 | 1700 | 1600 | 1500 | 1600 |
-| 9/Dec/22 | 1600 | 1700 | 1600 | 1500 | 1600 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 9/Dec/21 | 35000 | 25000 | 24000 | 23000 |
-| 9/Jan/22 | 20000 | 18000 | 17000 | 16000 |
-| 9/Feb/22 | 12000 | 17000 | 16000 | 15000 |
-| 9/Mar/22 | 28000 | 27000 | 26000 | 25000 |
-| 9/Apr/22 | 30000 | 28000 | 27000 | 26000 |
-| 9/May/22 | 34000 | 30000 | 29000 | 27000 |
-| 9/Jul/22 | 26000 | 25000 | 24000 | 23000 |
-| 9/Aug/22 | 10000 | 20000 | 19000 | 18000 |
-| 9/Sep/22 | 15000 | 18000 | 17000 | 16000 |
-| 9/Oct/22 | 16000 | 17000 | 16000 | 15000 |
-| 9/Nov/22 | 14000 | 16000 | 15000 | 14000 |
-| 9/Dec/22 | 14000 | 16000 | 15000 | 14000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -341,41 +280,9 @@ In the Handysize sector we had the sale of the "GANT GRACE" (28,375dwt-blt '10, 
 
 It has been a relatively quiet week in the newbuilding sector, following the recent momentum. Last week, no newbuilding orders have been reported in the tanker and in the bulker realm. Yet, the buying frenzy in the gas sector is still well underway. Chinese Merchants Energy inked a deal with Dalian Shipbuilding for 2x175,00cbm firm LNG carriers. The vessels are due in 2026 and will cost \$ 235.0m. Meanwhile, Greek owner Latsco, who recently took delivery of four VLCC vessels from HHI, returned to KSOE for the construction of 2+2 LPG carriers amid an effort to renew its oldest LPG fleet. The vessels will be delivered within 2025 and will cost \$ 197.7.0m according to sources from KSOE. Conclusively, in the boxship sector, Japanese Interasia Lines declared options for 3x3,055teu vessels at JMU. The vessels are due in 2025, but no price has been disclosed.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 9/Dec/21 | 108 | 76 | 58 | 46 | 42 |
-| 9/Jan/22 | 110 | 77 | 59 | 47 | 43 |
-| 9/Feb/22 | 112 | 78 | 60 | 48 | 44 |
-| 9/Mar/22 | 114 | 78 | 60 | 48 | 44 |
-| 9/Apr/22 | 115 | 79 | 61 | 49 | 45 |
-| 9/May/22 | 116 | 78 | 61 | 49 | 45 |
-| 9/Jun/22 | 117 | 79 | 61 | 50 | 45 |
-| 9/Jul/22 | 118 | 79 | 62 | 50 | 45 |
-| 9/Aug/22 | 119 | 79 | 62 | 50 | 45 |
-| 9/Sep/22 | 120 | 79 | 62 | 50 | 45 |
-| 9/Oct/22 | 120 | 79 | 62 | 50 | 45 |
-| 9/Nov/22 | 120 | 79 | 62 | 50 | 45 |
-| 9/Dec/22 | 120 | 79 | 62 | 50 | 45 |
-
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 9/Dec/21 | 60 | 34 | 33 | 28 |
-| 9/Jan/22 | 60 | 34 | 33 | 28 |
-| 9/Feb/22 | 60 | 34 | 33 | 28 |
-| 9/Mar/22 | 60 | 34 | 33 | 28 |
-| 9/Apr/22 | 61 | 34 | 33 | 28 |
-| 9/May/22 | 62 | 35 | 34 | 29 |
-| 9/Jun/22 | 62 | 35 | 34 | 29 |
-| 9/Jul/22 | 62 | 35 | 34 | 29 |
-| 9/Aug/22 | 62 | 35 | 34 | 29 |
-| 9/Sep/22 | 61 | 34 | 34 | 29 |
-| 9/Oct/22 | 60 | 34 | 33 | 28 |
-| 9/Nov/22 | 60 | 34 | 33 | 28 |
-| 9/Dec/22 | 60 | 34 | 33 | 28 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 | Sector | Size | Current | Previous | ±% | Year1 | Year2 | Year3 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -402,23 +309,7 @@ It has been a relatively quiet week in the newbuilding sector, following the rec
 
 Across the main Indian-subcontinent nations, offered levels in India increased w-o-w with the rest of the markets noting no changes. India remains the only market which can essentially secure tonnage, having recently offered the no negligible amount of \$560/ldt to SSL Chennai (as-is Colombo). In Bangladesh, breakers remain inert as L/C restrictions have almost impeded any deal from concluding in Bangladeshi hands. The approval of the IMF loan will provide support which could lead to an improvement in the recycling market as well, given the depletion that prevails in yards. In Pakistan, weak demand for steel coupled with LC opening delays and the overall negative economic fundamentals have hampered breakers' capability to compete with their Indian counterparts. The only positive tone is coming from the container market, with an increase in the number of vintage candidates that are being offered for recycling. Average prices in the different markets this week for tankers ranged between 250-540/ldt and those for dry bulk units between \$240-535/ldt.
 
-### Tanker Demolition Prices
-
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 9/Dec/21 | 610 | 550 | 615 | 325 |
-| 9/Jan/22 | 620 | 560 | 620 | 330 |
-| 9/Feb/22 | 630 | 570 | 630 | 380 |
-| 9/Mar/22 | 680 | 600 | 680 | 450 |
-| 9/Apr/22 | 685 | 610 | 685 | 460 |
-| 9/May/22 | 670 | 600 | 670 | 460 |
-| 9/Jun/22 | 620 | 570 | 620 | 330 |
-| 9/Jul/22 | 560 | 550 | 560 | 250 |
-| 9/Aug/22 | 570 | 560 | 570 | 255 |
-| 9/Sep/22 | 610 | 580 | 610 | 250 |
-| 9/Oct/22 | 620 | 590 | 620 | 250 |
-| 9/Nov/22 | 540 | 540 | 540 | 250 |
-| 9/Dec/22 | 530 | 535 | 530 | 250 |
+> **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 
 ### Dry Bulk Demolition Prices
 

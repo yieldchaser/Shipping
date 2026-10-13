@@ -21,46 +21,9 @@ For instance, the average price of a 5-year-old Handysize vessel currently stand
 
 Specifically, in late November 2016, the HS7TC index was approximately \$7,000 per day, while a 5-year-old Handysize vessel was valued at \$11.5 million. In comparison, today's price of \$24.5 million reflects a **+113%** premium over the 2016 price. A similar trend was observed in mid-2017 when HS7TC earnings hovered around \$7,000 per day, yet the price of a 5-year-old vessel was \$13.5 million, meaning that today's price is at an **+88.8%** premium compared to the 2017 price. More recently, at the end of July 2023, when the HS7TC index was at \$7,167 per day, the price of a 5-year-old Handysize vessel was \$24.5 million, which is in line with the current valuation.
 
-### Handysize Secondhand Values
+> **Chart (not transcribed):** Handysize Secondhand Values. The report prints no values for it.
 
-| Date | Handysize 38k 5 YR Old | Handysize 38k dwt 10 YR Old (eco design) | Handysize 32k dwt 15 YR Old | Handysize 32k 20 YR Old |
-| --- | --- | --- | --- | --- |
-| 03-Jan-2020 | 16.50 | 8.50 | 5.00 | 4.00 |
-| 09-Apr-2020 | 15.00 | 9.00 | 5.00 | 4.00 |
-| 09-Jul-2020 | 15.50 | 9.50 | 5.50 | 4.00 |
-| 09-Oct-2020 | 16.00 | 10.00 | 6.00 | 4.00 |
-| 09-Jan-2021 | 16.50 | 11.00 | 6.50 | 4.50 |
-| 09-Apr-2021 | 19.00 | 13.00 | 8.00 | 5.00 |
-| 09-Jul-2021 | 22.00 | 15.00 | 10.00 | 6.00 |
-| 09-Oct-2021 | 24.00 | 17.00 | 12.00 | 7.00 |
-| 09-Jan-2022 | 28.00 | 19.00 | 13.00 | 8.00 |
-| 09-Apr-2022 | 29.00 | 20.00 | 14.00 | 9.00 |
-| 09-Jul-2022 | 28.50 | 19.50 | 13.50 | 8.50 |
-| 09-Oct-2022 | 25.00 | 17.00 | 11.00 | 7.00 |
-| 09-Jan-2023 | 24.00 | 16.00 | 10.00 | 6.50 |
-| 09-Apr-2023 | 24.50 | 16.50 | 10.50 | 6.50 |
-| 09-Jul-2023 | 24.00 | 16.00 | 10.00 | 6.50 |
-| 09-Oct-2023 | 24.50 | 16.50 | 11.00 | 7.00 |
-| 09-Jan-2024 | 25.00 | 17.00 | 11.50 | 7.00 |
-| 09-Apr-2024 | 25.50 | 17.50 | 12.00 | 7.00 |
-| 09-Jul-2024 | 26.00 | 18.00 | 12.50 | 7.00 |
-| 09-Oct-2024 | 26.50 | 18.50 | 12.00 | 7.00 |
-| 09-Jan-2025 | 25.00 | 16.50 | 11.00 | 6.50 |
-
-### 5YR Old Handysize Price and Average T/C earnings
-
-| Date | HS6TC until 3rd November 2017, HS7TC after (LA) | Handysize 38k dwt 5 YR Old (RA) |
-| --- | --- | --- |
-| 31-Jan-2016 | 2500 | 8000 |
-| 31-Jan-2017 | 5000 | 15000 |
-| 31-Jan-2018 | 7500 | 17000 |
-| 31-Jan-2019 | 10000 | 20000 |
-| 31-Jan-2020 | 12500 | 20000 |
-| 31-Jan-2021 | 20000 | 22000 |
-| 31-Jan-2022 | 35000 | 37000 |
-| 31-Jan-2023 | 10000 | 30000 |
-| 31-Jan-2024 | 12000 | 36000 |
-| 31-Jan-2025 | 7000 | 32000 |
+> **Chart (not transcribed):** 5YR Old Handysize Price and Average T/C earnings. The report prints no values for it.
 
 The extent of the correction remains debatable, with a **20-25%** decline being a more common scenario, given the liquidity that previous years provided to shipowners and the uncertain environment that could lead to both negative and also positive outcomes. What is certain, however, is that 2025 could prove to be a year of increased buyer interest, particularly for those looking to capitalize on the declining prices.
 
@@ -92,42 +55,9 @@ The extent of the correction remains debatable, with a **20-25%** decline being 
 | 6 mos | NAVE ATROPOS | 2013 |
 | --- | --- | --- |
 |  | $19,000/day |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| DATE | WS points | WS points | WS points |
-| 7/Feb/24 | 80 | 120 | 180 |
-| 7/Mar/24 | 70 | 115 | 175 |
-| 7/Apr/24 | 65 | 110 | 170 |
-| 7/May/24 | 60 | 105 | 165 |
-| 7/Jun/24 | 55 | 100 | 160 |
-| 7/Jul/24 | 50 | 95 | 155 |
-| 7/Aug/24 | 45 | 90 | 150 |
-| 7/Sep/24 | 40 | 85 | 145 |
-| 7/Oct/24 | 35 | 80 | 140 |
-| 7/Nov/24 | 30 | 75 | 135 |
-| 7/Dec/24 | 25 | 70 | 130 |
-| 7/Jan/25 | 30 | 75 | 135 |
-| 7/Feb/25 | 35 | 80 | 140 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| DATE | WS points | WS points | WS points | WS points |
-| 7/Feb/24 | 250 | 200 | 300 | 150 |
-| 7/Mar/24 | 200 | 180 | 280 | 140 |
-| 7/Apr/24 | 180 | 160 | 260 | 130 |
-| 7/May/24 | 160 | 140 | 240 | 120 |
-| 7/Jun/24 | 140 | 120 | 220 | 110 |
-| 7/Jul/24 | 120 | 100 | 200 | 100 |
-| 7/Aug/24 | 100 | 80 | 180 | 90 |
-| 7/Sep/24 | 80 | 60 | 160 | 80 |
-| 7/Oct/24 | 60 | 40 | 140 | 70 |
-| 7/Nov/24 | 40 | 20 | 120 | 60 |
-| 7/Dec/24 | 20 | 10 | 100 | 50 |
-| 7/Jan/25 | 30 | 20 | 110 | 60 |
-| 7/Feb/25 | 40 | 30 | 120 | 70 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 07/02/25 | 31/01/25 | ±% | Diff | 2024 | 2023 |
@@ -195,41 +125,9 @@ The Aframax market saw varied movements across the routes and ended the week pos
 | **Handysize** | **32K 1yr TC** | 9,500 | 9,500 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 7/Feb/24 | 2000 | 1500 | 1000 | 800 | 1500 |
-| 7/Mar/24 | 4000 | 2000 | 1200 | 900 | 2000 |
-| 7/Apr/24 | 2500 | 1800 | 1100 | 850 | 1800 |
-| 7/May/24 | 2800 | 1700 | 1000 | 800 | 1600 |
-| 7/Jun/24 | 2600 | 1600 | 950 | 750 | 1500 |
-| 7/Jul/24 | 3000 | 1700 | 1000 | 800 | 1600 |
-| 7/Aug/24 | 2700 | 1600 | 900 | 750 | 1500 |
-| 7/Sep/24 | 2900 | 1700 | 950 | 800 | 1600 |
-| 7/Oct/24 | 2500 | 1500 | 850 | 700 | 1400 |
-| 7/Nov/24 | 2200 | 1400 | 800 | 650 | 1200 |
-| 7/Dec/24 | 1000 | 1000 | 800 | 700 | 1000 |
-| 7/Jan/25 | 900 | 900 | 750 | 600 | 900 |
-| 7/Feb/25 | 800 | 850 | 700 | 550 | 850 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 7/Feb/24 | 18000 | 12000 | 10000 | 8000 |
-| 7/Mar/24 | 34000 | 15000 | 12000 | 9000 |
-| 7/Apr/24 | 25000 | 14000 | 11000 | 8500 |
-| 7/May/24 | 28000 | 13000 | 10000 | 8000 |
-| 7/Jun/24 | 26000 | 12000 | 9500 | 7500 |
-| 7/Jul/24 | 31000 | 13000 | 10000 | 8000 |
-| 7/Aug/24 | 27000 | 12000 | 9000 | 7500 |
-| 7/Sep/24 | 29000 | 13000 | 9500 | 8000 |
-| 7/Oct/24 | 24000 | 11000 | 8500 | 7000 |
-| 7/Nov/24 | 22000 | 10000 | 8000 | 6500 |
-| 7/Dec/24 | 9000 | 8000 | 7000 | 6000 |
-| 7/Jan/25 | 8000 | 7500 | 6500 | 5500 |
-| 7/Feb/25 | 7000 | 7000 | 6000 | 5000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Feb-25 avg | Jan-25 avg | ±% | 2024 | 2023 |

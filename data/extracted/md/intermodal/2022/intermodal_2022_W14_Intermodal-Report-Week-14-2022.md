@@ -112,39 +112,9 @@ Shanghai 200122 China
 | Handy | 36k 1yr TC | 11,000 | 11,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 8/Apr/21 | 30 | 70 | 90 |
-| 8/May/21 | 30 | 70 | 90 |
-| 8/Jul/21 | 30 | 70 | 90 |
-| 8/Aug/21 | 30 | 70 | 100 |
-| 8/Sep/21 | 30 | 70 | 110 |
-| 8/Oct/21 | 30 | 80 | 120 |
-| 8/Nov/21 | 30 | 80 | 130 |
-| 8/Dec/21 | 30 | 80 | 130 |
-| 8/Jan/22 | 30 | 80 | 130 |
-| 8/Feb/22 | 30 | 280 | 140 |
-| 8/Mar/22 | 30 | 290 | 280 |
-| 8/Apr/22 | 30 | 290 | 290 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 8/Apr/21 | 100 | 120 | 140 | 160 |
-| 8/May/21 | 100 | 120 | 140 | 160 |
-| 8/Jul/21 | 100 | 120 | 140 | 160 |
-| 8/Aug/21 | 100 | 120 | 140 | 160 |
-| 8/Sep/21 | 100 | 120 | 140 | 160 |
-| 8/Oct/21 | 100 | 120 | 140 | 160 |
-| 8/Nov/21 | 100 | 120 | 140 | 160 |
-| 8/Dec/21 | 100 | 120 | 140 | 300 |
-| 8/Jan/22 | 100 | 120 | 140 | 250 |
-| 8/Feb/22 | 100 | 120 | 140 | 250 |
-| 8/Mar/22 | 100 | 120 | 140 | 250 |
-| 8/Apr/22 | 100 | 120 | 140 | 200 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Apr-22 avg | Mar-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -209,41 +179,9 @@ In the Aframax sector we had sale of the "SILVER" (107,507dwt-blt '10, Japan), w
 |  | **32K 1yr TC** | 21,500 | 23,000 | -6.5% | -1,500 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 8/Apr/21 | 2500 | 2800 | 2000 | 1500 | 2600 |
-| 8/May/21 | 5000 | 3500 | 2500 | 1600 | 4500 |
-| 8/Jun/21 | 3000 | 3800 | 3000 | 1700 | 3200 |
-| 8/Jul/21 | 3500 | 4000 | 3200 | 1800 | 3500 |
-| 8/Aug/21 | 4000 | 4200 | 3400 | 1900 | 3800 |
-| 8/Sep/21 | 5500 | 5000 | 3600 | 2000 | 5000 |
-| 8/Oct/21 | 10000 | 4500 | 3500 | 1800 | 9500 |
-| 8/Nov/21 | 2500 | 3000 | 2800 | 1700 | 2800 |
-| 8/Dec/21 | 2800 | 3200 | 2900 | 1700 | 3000 |
-| 8/Jan/22 | 2000 | 2800 | 2600 | 1600 | 2200 |
-| 8/Feb/22 | 1800 | 2600 | 2500 | 1600 | 2000 |
-| 8/Mar/22 | 2800 | 2900 | 2700 | 1700 | 2600 |
-| 8/Apr/22 | 2600 | 2700 | 2600 | 1600 | 2400 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 8/Apr/21 | 20000 | 22000 | 23000 | 21000 |
-| 8/May/21 | 40000 | 25000 | 24000 | 22000 |
-| 8/Jun/21 | 25000 | 26000 | 25000 | 23000 |
-| 8/Jul/21 | 30000 | 27000 | 26000 | 24000 |
-| 8/Aug/21 | 35000 | 28000 | 27000 | 25000 |
-| 8/Sep/21 | 45000 | 30000 | 28000 | 26000 |
-| 8/Oct/21 | 85000 | 32000 | 29000 | 27000 |
-| 8/Nov/21 | 25000 | 28000 | 26000 | 25000 |
-| 8/Dec/21 | 35000 | 29000 | 27000 | 26000 |
-| 8/Jan/22 | 15000 | 24000 | 23000 | 22000 |
-| 8/Feb/22 | 10000 | 22000 | 21000 | 20000 |
-| 8/Mar/22 | 30000 | 30000 | 28000 | 26000 |
-| 8/Apr/22 | 15000 | 28000 | 25000 | 24000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -337,41 +275,10 @@ In the Supramax sector we had the sale of the "NEW ABLE" (55,889dwt-bl't '14, Ja
 
 Reported activity on the newbuilding front remains firm for yet another week, with containers once again being the most popular sector, while after almost two months of inactivity, a fresh tanker contract emerged last week. Starting with the boxship sector, Celsius Shipping declared an option for another pair of methanol fuelled 3,000teu boxhips at Penglai Jinglu while Hong Kong based owner Cido Shipping inked a deal with Hyundai Samho for four 7,900teu units for a price of \$121.5 million each. On the LNG front, the same owner Celsius Shipping, ordered one firm plus one optional 174,000cbm unit at Samsung for a price of \$217.5 million. Lastly, Asiatic Lloyd exercised an option at Hyundai Vietnam for two 50,000dwt product tankers at a price of \$38.9 million each. It is worth noting, that we have seen an increased number of owners opting for methanol as an alternative fuel during 2022 (albeit not comparable with LNG); it remains to be seen if the focus turns to zero-carbon alternatives in the future with LNG now attracting most of the interest (around 30% of the existing orderbook).
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 8/Apr/21 | 92 | 60 | 45 | 40 | 34 |
-| 8/May/21 | 94 | 61 | 46 | 41 | 34 |
-| 8/Jun/21 | 96 | 62 | 47 | 42 | 35 |
-| 8/Jul/21 | 98 | 63 | 48 | 43 | 35 |
-| 8/Aug/21 | 100 | 64 | 49 | 44 | 36 |
-| 8/Sep/21 | 102 | 65 | 50 | 45 | 36 |
-| 8/Oct/21 | 105 | 66 | 51 | 46 | 36 |
-| 8/Nov/21 | 108 | 67 | 52 | 47 | 36 |
-| 8/Dec/21 | 110 | 68 | 53 | 48 | 36 |
-| 8/Jan/22 | 112 | 69 | 54 | 48 | 36 |
-| 8/Feb/22 | 115 | 70 | 55 | 49 | 36 |
-| 8/Mar/22 | 117 | 71 | 56 | 49 | 36 |
-| 8/Apr/22 | 118 | 72 | 57 | 50 | 36 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 8/Apr/21 | 52 | 28 | 30 | 22 |
-| 8/May/21 | 54 | 29 | 31 | 23 |
-| 8/Jun/21 | 56 | 30 | 32 | 24 |
-| 8/Jul/21 | 58 | 31 | 33 | 25 |
-| 8/Aug/21 | 60 | 32 | 34 | 26 |
-| 8/Sep/21 | 60 | 33 | 34 | 26 |
-| 8/Oct/21 | 60 | 33 | 34 | 27 |
-| 8/Nov/21 | 60 | 34 | 35 | 27 |
-| 8/Dec/21 | 60 | 34 | 35 | 27 |
-| 8/Jan/22 | 60 | 34 | 35 | 27 |
-| 8/Feb/22 | 60 | 35 | 35 | 28 |
-| 8/Mar/22 | 60 | 35 | 35 | 28 |
-| 8/Apr/22 | 61 | 35 | 36 | 28 |
 ## Newbuilding Orders
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -405,21 +312,8 @@ Reported activity on the newbuilding front remains firm for yet another week, wi
 
 The recycling market activity remains positive with breakers' bids following an upward trajectory for another week. At the same time, the supply of vintage units remains low, while the recent spike in tankers' freights, a segment that provided the overwhelming majority of units as of late, is now witnessing a notable improvement, making owners more reluctant to dispose of their units. Currently, Pakistan is leading the price board in the Indian-subcontinent region. Having said that, despite its political turmoil, its historical currency depreciation, and the recent Central Bank imposition of a 100% cash margin on various imported steel products, breakers' appetite remains untouched which is mirrored in the two large units materialized deals at levels above the \$700/ldt mark. Indian breakers are following closely, yet with no sales emerging last week. Lastly, the Bangladeshi demolition market has experienced another week of slow activity as the rising material costs have led to lower domestic steel mills' demand. As a result, local breakers have moved to the sidelines, with no fresh sales coming to light. Average prices in the different markets this week for tankers ranged between 460-670/ldt and those for dry bulk units between \$450-660/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 8/Apr/21 | 470 | 460 | 470 | 250 |
-| 8/May/21 | 540 | 500 | 530 | 260 |
-| 8/Jun/21 | 550 | 510 | 540 | 280 |
-| 8/Jul/21 | 570 | 530 | 550 | 285 |
-| 8/Aug/21 | 580 | 560 | 560 | 290 |
-| 8/Sep/21 | 590 | 570 | 570 | 295 |
-| 8/Oct/21 | 595 | 575 | 575 | 300 |
-| 8/Nov/21 | 600 | 580 | 580 | 305 |
-| 8/Dec/21 | 590 | 550 | 570 | 310 |
-| 8/Jan/22 | 600 | 560 | 580 | 320 |
-| 8/Feb/22 | 640 | 590 | 600 | 340 |
-| 8/Mar/22 | 660 | 650 | 650 | 450 |
-| 8/Apr/22 | 660 | 660 | 660 | 460 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

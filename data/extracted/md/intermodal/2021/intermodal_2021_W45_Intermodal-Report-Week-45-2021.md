@@ -113,41 +113,9 @@ Certification
 | Handy | **36k 1yr TC** | 11,000 | 11,000 | 0.0% | 0 | 13,966 | 13,856 |
 |  | **36k 3yr TC** | 12,250 | 12,250 | 0.0% | 0 | 14,051 | 13,753 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 12/Nov/20 | 50 | 80 | 100 |
-| 12/Dec/20 | 55 | 85 | 105 |
-| 12/Jan/21 | 60 | 90 | 110 |
-| 12/Feb/21 | 65 | 95 | 120 |
-| 12/Mar/21 | 70 | 150 | 160 |
-| 12/Apr/21 | 50 | 90 | 110 |
-| 12/May/21 | 45 | 85 | 105 |
-| 12/Jun/21 | 40 | 80 | 100 |
-| 12/Jul/21 | 40 | 80 | 100 |
-| 12/Aug/21 | 45 | 85 | 105 |
-| 12/Sep/21 | 50 | 90 | 110 |
-| 12/Oct/21 | 55 | 95 | 115 |
-| 12/Nov/21 | 60 | 100 | 120 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 12/Nov/20 | 100 | 110 | 120 | 130 |
-| 12/Dec/20 | 105 | 115 | 125 | 135 |
-| 12/Jan/21 | 110 | 120 | 130 | 140 |
-| 12/Feb/21 | 115 | 125 | 135 | 170 |
-| 12/Mar/21 | 120 | 130 | 140 | 160 |
-| 12/Apr/21 | 115 | 125 | 135 | 150 |
-| 12/May/21 | 110 | 120 | 130 | 145 |
-| 12/Jun/21 | 105 | 115 | 125 | 140 |
-| 12/Jul/21 | 105 | 115 | 125 | 140 |
-| 12/Aug/21 | 110 | 120 | 130 | 145 |
-| 12/Sep/21 | 115 | 125 | 135 | 150 |
-| 12/Oct/21 | 120 | 130 | 140 | 155 |
-| 12/Nov/21 | 125 | 135 | 145 | 160 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Nov-21 avg | Oct-21 avg | ±% | 2020 | 2019 | 2018 |
@@ -212,31 +180,9 @@ In the Suezmax sector we had the sale of the "DENSA WHALE" (158,322dwt-blt '12, 
 | **Handysize** | **32K 6mnt TC** | 25,500 | 25,750 | -1.0% | -250 | 8,498 | 9,152 |
 |  | **32K 1yr TC** | 20,250 | 20,250 | 0.0% | 0 | 8,556 | 9,291 |
 |  | **32K 3yr TC** | 11,250 | 11,250 | 0.0% | 0 | 8,686 | 9,291 |
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 12/Nov/20 | 1,500 | 1,500 | 1,400 | 1,000 | 1,500 |
-| 12/Dec/20 | 1,600 | 1,600 | 1,500 | 1,100 | 1,600 |
-| 12/Jan/21 | 2,000 | 2,000 | 1,800 | 1,300 | 2,000 |
-| 12/Feb/21 | 2,500 | 2,500 | 2,200 | 1,500 | 2,500 |
-| 12/Mar/21 | 2,800 | 2,800 | 2,500 | 1,600 | 2,800 |
-| 12/Apr/21 | 4,000 | 3,500 | 2,800 | 1,700 | 4,000 |
-| 12/May/21 | 4,800 | 4,500 | 3,200 | 1,800 | 4,800 |
-| 12/Jun/21 | 3,000 | 3,000 | 2,800 | 1,700 | 3,000 |
-| 12/Jul/21 | 3,200 | 3,200 | 3,000 | 1,800 | 3,200 |
-| 12/Aug/21 | 5,000 | 4,500 | 3,500 | 2,000 | 5,000 |
-| 12/Sep/21 | 5,500 | 5,000 | 3,800 | 2,200 | 5,500 |
-| 12/Oct/21 | 10,000 | 4,000 | 3,500 | 2,000 | 10,000 |
-| 12/Nov/21 | 2,800 | 2,800 | 2,800 | 1,700 | 2,800 |
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| Average | 5 | AVR | AVR | AVR |
-| T/C | T | 5TC | 10TC | 7TC |
-| Rates | / | BPI | BSI | BHSI |
-| Date | C |  |  |  |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -342,41 +288,9 @@ In the Ultramax sector we had the sale of the "IKAN SENYUR" (61,494dwt-blt '10, 
 
 A healthy newbuilding activity took place during the past week. Interest was evident across almost all segments, with the exception of the tanker sector which continued to see limited appetite for newbuilding units. On the dry bulk front, three 82,000dwt units were ordered by theg Japanese owner Nisshin Shipping at Jiangsu Hantong at a price of \$34.0m each. Most of the interest was focused on the LNG and Container sectors for another week. More specifically, both Celsius Shipping and Maran Gas have inked deals for the construction of two LNG vessels at Samsung and DSME yards, with the latter owner holding an option for two more units. As far as the Container realm is concerned, Evergreen ordered a pair of two conventionally fuelled/scrubber fitted 24,000teu boxships at Jiangnan Shipyard while Taiwanese owner TS Lines declared an option at Fujian Mawei for the construction of two 2,900teu and four 1,100teu boxships.
 
-## Bulk Carriers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 12/Nov/20 | 48 | 27 | 26 | 23 |
-| 12/Dec/20 | 48 | 27 | 26 | 23 |
-| 12/Jan/21 | 48 | 27 | 26 | 23 |
-| 12/Feb/21 | 48 | 28 | 27 | 24 |
-| 12/Mar/21 | 50 | 28 | 27 | 24 |
-| 12/Apr/21 | 52 | 29 | 28 | 25 |
-| 12/May/21 | 54 | 29 | 28 | 25 |
-| 12/Jun/21 | 56 | 30 | 29 | 26 |
-| 12/Jul/21 | 58 | 30 | 29 | 26 |
-| 12/Aug/21 | 59 | 31 | 30 | 27 |
-| 12/Sep/21 | 60 | 31 | 30 | 28 |
-| 12/Oct/21 | 60 | 32 | 31 | 29 |
-| 12/Nov/21 | 60 | 33 | 31 | 30 |
-
-## Tankers Newbuilding Prices (m$)
-
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 12/Nov/20 | 82 | 54 | 40 | 38 | 34 |
-| 12/Dec/20 | 84 | 56 | 41 | 39 | 34 |
-| 12/Jan/21 | 86 | 58 | 42 | 40 | 35 |
-| 12/Feb/21 | 88 | 59 | 43 | 41 | 35 |
-| 12/Mar/21 | 90 | 60 | 44 | 42 | 36 |
-| 12/Apr/21 | 92 | 62 | 45 | 43 | 36 |
-| 12/May/21 | 94 | 63 | 46 | 44 | 36 |
-| 12/Jun/21 | 96 | 64 | 47 | 45 | 36 |
-| 12/Jul/21 | 98 | 65 | 48 | 46 | 36 |
-| 12/Aug/21 | 100 | 66 | 49 | 47 | 36 |
-| 12/Sep/21 | 102 | 67 | 50 | 48 | 36 |
-| 12/Oct/21 | 104 | 68 | 51 | 49 | 36 |
-| 12/Nov/21 | 106 | 69 | 52 | 50 | 36 |
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
 | Sector | Size | Current | Previous | ±% | Year1 | Year2 | Year3 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -403,21 +317,8 @@ A healthy newbuilding activity took place during the past week. Interest was evi
 
 The demolition market across the Indian-subcontinent regions continues to offer a lucrative option for the owners who wish to dispose of their vintage units. There was an overall decrease in steel plate prices, however, the scarcity of offered units kept supporting the prevailing impressive levels. The question is whether the current scrap prices have reached their peak and a downward correction will follow or the appetite from breakers could lift prices to even higher levels. Fundamentals remained positive for the demolition market in Bangladesh, as both the imported scrap levels and the local steel demand helped local cash buyers to maintain their leading position in the subcontinent region. Pakistani buyers have also shown an increased appetite for fresh tonnage despite PKR fluctuation during the past days. At the same time, a decrease in steel plate prices in India did not have an effect on scrap levels, with buyers still providing competitive offers in the region. Average scrap prices in the different markets this week for tankers ranged between 310-620/Idt and those for dry bulk units between \$300-615/Idt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 12/Nov/20 | 360 | 350 | 355 | 220 |
-| 12/Dec/20 | 400 | 410 | 405 | 240 |
-| 12/Jan/21 | 430 | 440 | 420 | 250 |
-| 12/Feb/21 | 420 | 430 | 415 | 245 |
-| 12/Mar/21 | 440 | 445 | 430 | 240 |
-| 12/Apr/21 | 470 | 460 | 455 | 245 |
-| 12/May/21 | 500 | 490 | 480 | 250 |
-| 12/Jun/21 | 540 | 530 | 520 | 260 |
-| 12/Jul/21 | 580 | 570 | 560 | 265 |
-| 12/Aug/21 | 610 | 600 | 595 | 270 |
-| 12/Sep/21 | 620 | 610 | 605 | 275 |
-| 12/Oct/21 | 625 | 615 | 620 | 280 |
-| 12/Nov/21 | 625 | 620 | 625 | 285 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

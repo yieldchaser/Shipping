@@ -50,40 +50,9 @@ In the product tanker segment, market dynamics present a distinct contrast. A to
 |  | 55K | UKC-USG | 115 | 9,085 | 120 | 10,695 | -15.1% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 115 | 8,579 | 120 | 10,359 | -17.2% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 154 | 16,746 | 143 | 13,873 | 20.7% | 26,872 | 46,194 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 10/Jan/24 | 400 | 120 | 400 |
-| 10/Feb/24 | 100 | 110 | 200 |
-| 10/Mar/24 | 80 | 110 | 150 |
-| 10/Apr/24 | 70 | 110 | 180 |
-| 10/May/24 | 70 | 110 | 160 |
-| 10/Jun/24 | 70 | 110 | 150 |
-| 10/Jul/24 | 70 | 110 | 150 |
-| 10/Aug/24 | 70 | 110 | 140 |
-| 10/Sep/24 | 70 | 110 | 140 |
-| 10/Oct/24 | 70 | 110 | 200 |
-| 10/Nov/24 | 70 | 110 | 120 |
-| 10/Dec/24 | 70 | 110 | 120 |
-| 10/Jan/25 | 70 | 110 | 120 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 10/Jan/24 | 350 | 150 | 300 | 250 |
-| 10/Feb/24 | 300 | 140 | 280 | 240 |
-| 10/Mar/24 | 250 | 130 | 260 | 230 |
-| 10/Apr/24 | 200 | 120 | 240 | 220 |
-| 10/May/24 | 180 | 110 | 220 | 210 |
-| 10/Jun/24 | 160 | 100 | 200 | 200 |
-| 10/Jul/24 | 150 | 90 | 180 | 190 |
-| 10/Aug/24 | 140 | 80 | 160 | 180 |
-| 10/Sep/24 | 130 | 70 | 140 | 170 |
-| 10/Oct/24 | 120 | 60 | 120 | 160 |
-| 10/Nov/24 | 110 | 50 | 110 | 150 |
-| 10/Dec/24 | 100 | 40 | 100 | 140 |
-| 10/Jan/25 | 100 | 40 | 100 | 130 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 10/01/25 | 03/01/25 | ±% | Diff | 2024 | 2023 |
@@ -149,39 +118,9 @@ The Suezmax segment enhanced in West Africa, driven by increased activity and th
 | **Handysize** | **32K 1yr TC** | 10,000 | 10,500 | -4.8% | -500 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 10/Jan/24 | 2000 | 1500 | 1200 | 800 | 1500 |
-| 10/Feb/24 | 2500 | 1600 | 1400 | 900 | 1800 |
-| 10/Mar/24 | 4000 | 1700 | 1600 | 1000 | 2000 |
-| 10/Apr/24 | 2200 | 1600 | 1500 | 900 | 1700 |
-| 10/May/24 | 2800 | 1500 | 1400 | 800 | 1600 |
-| 10/Jul/24 | 3500 | 1600 | 1500 | 900 | 1800 |
-| 10/Aug/24 | 2600 | 1500 | 1400 | 800 | 1500 |
-| 10/Sep/24 | 3000 | 1500 | 1300 | 800 | 1600 |
-| 10/Oct/24 | 2400 | 1400 | 1200 | 700 | 1400 |
-| 10/Nov/24 | 2000 | 1300 | 1100 | 700 | 1200 |
-| 10/Dec/24 | 1500 | 1200 | 1000 | 600 | 1000 |
-| 10/Jan/25 | 1200 | 1100 | 900 | 500 | 900 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 10/Jan/24 | 20000 | 12000 | 10000 | 8000 |
-| 10/Feb/24 | 18000 | 13000 | 10000 | 8000 |
-| 10/Mar/24 | 35000 | 16000 | 11000 | 9000 |
-| 10/Apr/24 | 22000 | 14000 | 10000 | 8000 |
-| 10/May/24 | 25000 | 13000 | 9000 | 7000 |
-| 10/Jul/24 | 30000 | 14000 | 10000 | 8000 |
-| 10/Aug/24 | 24000 | 13000 | 9000 | 7000 |
-| 10/Sep/24 | 28000 | 13000 | 9000 | 7000 |
-| 10/Oct/24 | 20000 | 12000 | 8000 | 6000 |
-| 10/Nov/24 | 15000 | 11000 | 7000 | 6000 |
-| 10/Dec/24 | 10000 | 10000 | 7000 | 5000 |
-| 10/Jan/25 | 12000 | 10000 | 7000 | 5000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jan-25 avg | Dec-24 avg | ±% | 2024 | 2023 |

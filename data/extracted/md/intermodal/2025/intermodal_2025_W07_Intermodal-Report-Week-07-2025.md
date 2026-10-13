@@ -105,14 +105,7 @@ Last week the crude oil market witnessed mixed results, amid a sentiment of unce
 | BHSI | 800 | 700 |
 | BDI | 1600 | 900 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Line | 14/Feb/24 $/day | 14/Feb/24 $/day |
-| --- | --- | --- |
-| Average of the 5 T / C | 25000 | 5000 |
-| AVR 5TC BPI | 15000 | 8000 |
-| AVR 10TC BSI | 12000 | 7000 |
-| AVR 7TC BHSI | 10000 | 6000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### TC Rates
 | Sector | Tenor | 14/02/2025 | 07/02/2025 | ±% | Diff | 2024 | 2023 |

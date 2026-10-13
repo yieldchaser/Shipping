@@ -44,41 +44,9 @@ What makes the feeder market stand out is its ability to operate somewhat outsid
 | **Dirty** | 55K | UKC-USG | 120 | 10,318 | 120 | 10,522 | -1.9% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 120 | 11,573 | 120 | 11,573 | 0.0% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 156 | 14,183 | 151 | 12,338 | **15.0%** | 26,872 | 46,194 |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS points | WS points | WS points |
-| 25/Jul/24 | 180 | 90 | 190 |
-| 25/Aug/24 | 60 | 95 | 100 |
-| 25/Sep/24 | 55 | 120 | 220 |
-| 25/Oct/24 | 50 | 100 | 150 |
-| 25/Nov/24 | 55 | 100 | 160 |
-| 25/Dec/24 | 60 | 100 | 170 |
-| 25/Jan/25 | 65 | 100 | 160 |
-| 25/Feb/25 | 60 | 100 | 150 |
-| 25/Mar/25 | 70 | 100 | 210 |
-| 25/Apr/25 | 65 | 100 | 180 |
-| 25/May/25 | 60 | 95 | 160 |
-| 25/Jun/25 | 55 | 90 | 140 |
-| 25/Jul/25 | 50 | 85 | 120 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 25/Jul/24 | 140 | 130 | 150 | 160 |
-| 25/Aug/24 | 120 | 110 | 140 | 150 |
-| 25/Sep/24 | 110 | 100 | 130 | 140 |
-| 25/Oct/24 | 100 | 90 | 120 | 130 |
-| 25/Nov/24 | 110 | 100 | 140 | 150 |
-| 25/Dec/24 | 120 | 110 | 160 | 170 |
-| 25/Jan/25 | 110 | 100 | 150 | 160 |
-| 25/Feb/25 | 100 | 90 | 140 | 150 |
-| 25/Mar/25 | 130 | 120 | 170 | 180 |
-| 25/Apr/25 | 120 | 110 | 160 | 170 |
-| 25/May/25 | 110 | 100 | 150 | 160 |
-| 25/Jun/25 | 100 | 90 | 140 | 150 |
-| 25/Jul/25 | 90 | 80 | 130 | 140 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 25/07/2025 | 18/07/2025 | ±% | Diff | Year1 | Year2 |
@@ -145,41 +113,9 @@ Aframax sentiment waned across most regions. The Mediterranean saw delays and sl
 | Handysize | 32K 1yr TC | 10,500 | 10,500 | 0.0% | 0 | 12,385 | 10,644 |
 |  | 32K 3yr TC | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 25/Jul/24 | 2500 | 1800 | 1400 | 800 | 2400 |
-| 25/Aug/24 | 3200 | 1700 | 1300 | 700 | 3100 |
-| 25/Sep/24 | 2800 | 1600 | 1200 | 750 | 2900 |
-| 25/Oct/24 | 1800 | 1000 | 1000 | 600 | 1800 |
-| 25/Nov/24 | 3000 | 1100 | 900 | 650 | 3000 |
-| 25/Dec/24 | 1000 | 800 | 800 | 500 | 1000 |
-| 25/Jan/25 | 1100 | 800 | 800 | 550 | 1100 |
-| 25/Feb/25 | 1200 | 1000 | 900 | 600 | 1200 |
-| 25/Mar/25 | 1800 | 1400 | 1100 | 800 | 1800 |
-| 25/Apr/25 | 1900 | 1500 | 1200 | 850 | 1900 |
-| 25/May/25 | 2000 | 1600 | 1300 | 900 | 2000 |
-| 25/Jun/25 | 3800 | 2000 | 1500 | 1000 | 3800 |
-| 25/Jul/25 | 3900 | 2100 | 1600 | 1100 | 3900 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 25/Jul/24 | 20000 | 14000 | 12000 | 10000 |
-| 25/Aug/24 | 28000 | 13000 | 11000 | 9000 |
-| 25/Sep/24 | 30000 | 12000 | 10000 | 8000 |
-| 25/Oct/24 | 15000 | 9000 | 8000 | 7000 |
-| 25/Nov/24 | 5000 | 7000 | 7000 | 6000 |
-| 25/Dec/24 | 5000 | 6000 | 6000 | 5000 |
-| 25/Jan/25 | 7000 | 6000 | 6000 | 5500 |
-| 25/Feb/25 | 10000 | 8000 | 7000 | 6000 |
-| 25/Mar/25 | 18000 | 10000 | 8000 | 7000 |
-| 25/Apr/25 | 16000 | 9000 | 7500 | 6500 |
-| 25/May/25 | 28000 | 11000 | 8000 | 7000 |
-| 25/Jun/25 | 30000 | 12000 | 8500 | 7500 |
-| 25/Jul/25 | 31000 | 16000 | 12000 | 10000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Jul-25 avg | Jun-25 avg | ±% | 2024 | 2023 |

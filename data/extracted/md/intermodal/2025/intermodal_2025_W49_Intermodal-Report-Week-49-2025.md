@@ -44,40 +44,9 @@ Looking ahead to 2026, the USDA's projection that China will increase soybean im
 |  | 55K | MED-USG | 125 | 15,597 | 120 | 14,655 | **6.4%** | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 201 | 27,785 | 230 | 35,968 | -22.8% | 26,872 | 46,194 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 5/Dec/24 | 50 | 100 | 170 |
-| 5/Jan/25 | 60 | 110 | 160 |
-| 5/Feb/25 | 65 | 115 | 155 |
-| 5/Mar/25 | 70 | 120 | 150 |
-| 5/Apr/25 | 80 | 130 | 210 |
-| 5/May/25 | 75 | 125 | 160 |
-| 5/jun/25 | 70 | 120 | 150 |
-| 5/jul/25 | 85 | 135 | 145 |
-| 5/Aug/25 | 90 | 140 | 155 |
-| 5/Sep/25 | 85 | 135 | 160 |
-| 5/Oct/25 | 95 | 145 | 170 |
-| 5/Nov/25 | 110 | 160 | 180 |
-| 5/Dec/25 | 120 | 170 | 185 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 5/Dec/24 | 100 | 150 | 220 | 160 |
-| 5/Jan/25 | 110 | 160 | 230 | 170 |
-| 5/Feb/25 | 105 | 155 | 225 | 165 |
-| 5/Mar/25 | 115 | 165 | 235 | 175 |
-| 5/Apr/25 | 130 | 180 | 280 | 190 |
-| 5/May/25 | 120 | 170 | 260 | 180 |
-| 5/jun/25 | 110 | 160 | 240 | 170 |
-| 5/jul/25 | 125 | 175 | 250 | 185 |
-| 5/Aug/25 | 115 | 165 | 245 | 175 |
-| 5/Sep/25 | 110 | 160 | 240 | 170 |
-| 5/Oct/25 | 105 | 155 | 235 | 165 |
-| 5/Nov/25 | 115 | 165 | 245 | 175 |
-| 5/Dec/25 | 125 | 175 | 255 | 185 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 05/12/2025 | 28/11/2025 | ±% | Diff | 2024 | 2023 |
@@ -145,41 +114,9 @@ Most Aframax regional markets retreated last week, though the US Gulf showed som
 | **Handysize** | **32K 1yr TC** | 11,250 | 11,250 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 5/Dec/24 | 1500 | 900 | 1000 | 800 | 1200 |
-| 5/Jan/25 | 1400 | 850 | 900 | 750 | 1100 |
-| 5/Feb/25 | 2500 | 900 | 1000 | 800 | 1000 |
-| 5/Mar/25 | 2000 | 1000 | 1100 | 900 | 1300 |
-| 5/Apr/25 | 2800 | 1100 | 1200 | 1000 | 1500 |
-| 5/May/25 | 2200 | 1000 | 1100 | 950 | 1400 |
-| 5/Jun/25 | 2000 | 1000 | 1000 | 900 | 1300 |
-| 5/Jul/25 | 3800 | 1200 | 1300 | 1100 | 2000 |
-| 5/Aug/25 | 3500 | 1300 | 1400 | 1200 | 2200 |
-| 5/Sep/25 | 3000 | 1400 | 1500 | 1300 | 2100 |
-| 5/Oct/25 | 3200 | 1500 | 1600 | 1400 | 2300 |
-| 5/Nov/25 | 3600 | 1600 | 1700 | 1500 | 2500 |
-| 5/Dec/25 | 4000 | 1700 | 1800 | 1600 | 2800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 5/Dec/24 | 10000 | 8000 | 7000 | 6000 |
-| 5/Jan/25 | 7000 | 6000 | 6000 | 5000 |
-| 5/Feb/25 | 6000 | 5500 | 5500 | 4500 |
-| 5/Mar/25 | 18000 | 6000 | 6000 | 5000 |
-| 5/Apr/25 | 16000 | 6500 | 6500 | 5500 |
-| 5/May/25 | 14000 | 6000 | 6000 | 5000 |
-| 5/Jun/25 | 12000 | 5500 | 5500 | 4500 |
-| 5/Jul/25 | 31000 | 6000 | 7000 | 5000 |
-| 5/Aug/25 | 30000 | 6500 | 7500 | 5500 |
-| 5/Sep/25 | 24000 | 15000 | 15000 | 14000 |
-| 5/Oct/25 | 22000 | 16000 | 16000 | 15000 |
-| 5/Nov/25 | 28000 | 16500 | 16500 | 15500 |
-| 5/Dec/25 | 32000 | 17000 | 17000 | 16000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Dec-25 avg | Nov-25 avg | ±% | 2024 | 2023 |

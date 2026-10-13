@@ -117,40 +117,9 @@ Aframax spot rates remained broadly stable, as gains in some regions offset loss
 | **Handysize** | **32K 1yr TC** | 13,500 | 13,500 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-## Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 21/Aug/25 | 3000 | 2000 | 1500 | 1000 | 2000 |
-| 21/Sep/25 | 3500 | 2200 | 1400 | 1000 | 2200 |
-| 21/Oct/25 | 4000 | 2500 | 1300 | 900 | 2400 |
-| 21/Nov/25 | 5000 | 2800 | 1200 | 800 | 2600 |
-| 21/Dec/25 | 2500 | 2000 | 1100 | 700 | 2300 |
-| 21/Jan/26 | 2800 | 2100 | 1200 | 800 | 2400 |
-| 21/Feb/26 | 3000 | 2200 | 1300 | 900 | 2500 |
-| 21/Mar/26 | 3200 | 2300 | 1400 | 1000 | 2600 |
-| 21/Apr/26 | 4500 | 2800 | 1600 | 1100 | 3000 |
-| 21/May/26 | 5500 | 3000 | 1700 | 1200 | 3200 |
-| 21/Jun/26 | 1500 | 1800 | 1000 | 600 | 2000 |
-| 21/Jul/26 | 4000 | 2500 | 1500 | 900 | 2800 |
-| 21/Aug/26 | 4500 | 2700 | 1600 | 1000 | 3000 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 21/Aug/25 | 20000 | 15000 | 12000 | 10000 |
-| 21/Sep/25 | 25000 | 16000 | 13000 | 11000 |
-| 21/Oct/25 | 30000 | 15000 | 12000 | 10000 |
-| 21/Nov/25 | 45000 | 14000 | 11000 | 9000 |
-| 21/Dec/25 | 15000 | 13000 | 12000 | 10000 |
-| 21/Jan/26 | 20000 | 14000 | 13000 | 11000 |
-| 21/Feb/26 | 25000 | 15000 | 14000 | 12000 |
-| 21/Mar/26 | 30000 | 16000 | 15000 | 13000 |
-| 21/Apr/26 | 40000 | 17000 | 16000 | 14000 |
-| 21/May/26 | 45000 | 18000 | 17000 | 15000 |
-| 21/Jun/26 | 30000 | 16000 | 15000 | 13000 |
-| 21/Jul/26 | 35000 | 17000 | 16000 | 14000 |
-| 21/Aug/26 | 35000 | 17000 | 16000 | 14000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Aug-26 avg | Jul-26 avg | ±% | 2025 | 2024 | 2023 |

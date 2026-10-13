@@ -53,41 +53,9 @@ In summary, China's crude imports appear more fragile, driven largely by stockpi
 | --- | --- | --- | --- | --- | --- |
 | 6 mos | Sea Lion | 2020 | 299,995 dwt | $51,000/day | Trafigura |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 26/Sep/24 | 0 | 0 | 0 |
-| 26/Oct/24 | 0 | 0 | 0 |
-| 26/Nov/24 | 0 | 0 | 0 |
-| 26/Dec/24 | 0 | 0 | 0 |
-| 26/Jan/25 | 0 | 0 | 0 |
-| 26/Feb/25 | 0 | 0 | 0 |
-| 26/Mar/25 | 0 | 0 | 0 |
-| 26/Apr/25 | 0 | 0 | 0 |
-| 26/May/25 | 0 | 0 | 0 |
-| 26/Jun/25 | 0 | 0 | 0 |
-| 26/Jul/25 | 0 | 0 | 0 |
-| 26/Aug/25 | 0 | 0 | 0 |
-| 26/Sep/25 | 0 | 0 | 0 |
-
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 26/Sep/24 | 0 | 0 | 0 | 0 |
-| 26/Oct/24 | 0 | 0 | 0 | 0 |
-| 26/Nov/24 | 0 | 0 | 0 | 0 |
-| 26/Dec/24 | 0 | 0 | 0 | 0 |
-| 26/Jan/25 | 0 | 0 | 0 | 0 |
-| 26/Feb/25 | 0 | 0 | 0 | 0 |
-| 26/Mar/25 | 0 | 0 | 0 | 0 |
-| 26/Apr/25 | 0 | 0 | 0 | 0 |
-| 26/May/25 | 0 | 0 | 0 | 0 |
-| 26/Jun/25 | 0 | 0 | 0 | 0 |
-| 26/Jul/25 | 0 | 0 | 0 | 0 |
-| 26/Aug/25 | 0 | 0 | 0 | 0 |
-| 26/Sep/25 | 0 | 0 | 0 | 0 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 26/09/2025 | 19/09/2025 | ±% | Diff | 2024 | 2023 |
@@ -154,41 +122,9 @@ Aframax markets was quieter. In the Mediterranean, initial activity eased once k
 | **Handysize** | **32K 1yr TC** | 11,000 | 11,000 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 26/5ep/24 | 3800 | 1400 | 1500 | 700 | 2000 |
-| 26/Oct/24 | 2800 | 1000 | 900 | 600 | 1200 |
-| 26/Nov/24 | 2500 | 900 | 850 | 550 | 1100 |
-| 26/Dec/24 | 800 | 700 | 750 | 500 | 900 |
-| 26/Jan/25 | 1000 | 750 | 800 | 550 | 1000 |
-| 26/Feb/25 | 2200 | 1000 | 900 | 600 | 1400 |
-| 26/Mar/25 | 2800 | 1400 | 1100 | 700 | 1800 |
-| 26/Apr/25 | 2000 | 1200 | 1000 | 650 | 1600 |
-| 26/May/25 | 3500 | 1800 | 1300 | 800 | 2500 |
-| 26/Jun/25 | 3800 | 1900 | 1400 | 850 | 2200 |
-| 26/Jul/25 | 3600 | 1700 | 1350 | 800 | 2000 |
-| 26/Aug/25 | 3400 | 1600 | 1200 | 750 | 2100 |
-| 26/5ep/25 | 3300 | 1500 | 1100 | 700 | 2300 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 26/5ep/24 | 30000 | 13000 | 14000 | 12000 |
-| 26/Oct/24 | 25000 | 10000 | 10000 | 10000 |
-| 26/Nov/24 | 24000 | 9000 | 9500 | 9500 |
-| 26/Dec/24 | 7000 | 6000 | 7000 | 6000 |
-| 26/Jan/25 | 8000 | 6500 | 7500 | 6500 |
-| 26/Feb/25 | 10000 | 7000 | 8000 | 7000 |
-| 26/Mar/25 | 20000 | 10000 | 10000 | 9000 |
-| 26/Apr/25 | 15000 | 9000 | 9500 | 8500 |
-| 26/May/25 | 28000 | 12000 | 11000 | 10000 |
-| 26/Jun/25 | 15000 | 11000 | 10000 | 9000 |
-| 26/Jul/25 | 30000 | 14000 | 12000 | 11000 |
-| 26/Aug/25 | 26000 | 13000 | 11500 | 10500 |
-| 26/5ep/25 | 28000 | 14000 | 11000 | 10000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Sep-25 avg | Aug-25 avg | ±% | 2024 | 2023 |

@@ -108,40 +108,9 @@ In the East, sentiment remained cautious, with regional uncertainty continuing t
 | 7 to 9 mos | W-Arcturus | 2012 | 81,336 dwt | $18,400/day | cnr |
 | 6 to 8 mos | Eleovrytissa | 2012 | 37,6152 dwt | $14,250/day | Drydel |
 
-### Baltic Indices
-| Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
-| --- | --- | --- | --- | --- | --- |
-| 12/Jun/25 | 3500 | 1800 | 1500 | 800 | 1800 |
-| 12/Jul/25 | 3800 | 1900 | 1600 | 900 | 2000 |
-| 12/Aug/25 | 3600 | 1850 | 1550 | 850 | 1900 |
-| 12/Sep/25 | 3400 | 1700 | 1400 | 700 | 1700 |
-| 12/Oct/25 | 3200 | 1600 | 1300 | 600 | 1600 |
-| 12/Nov/25 | 4500 | 2000 | 1700 | 900 | 2500 |
-| 12/Dec/25 | 5000 | 2200 | 1800 | 1000 | 2800 |
-| 12/Jan/26 | 2800 | 1700 | 1400 | 700 | 1800 |
-| 12/Feb/26 | 3000 | 1800 | 1500 | 800 | 1900 |
-| 12/Mar/26 | 3100 | 1850 | 1550 | 850 | 1950 |
-| 12/Apr/26 | 3300 | 1900 | 1600 | 900 | 2100 |
-| 12/May/26 | 5200 | 2800 | 2800 | 1500 | 3500 |
-| 12/Jun/26 | 1200 | 1500 | 2200 | 900 | 1300 |
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 12/Jun/25 | 28000 | 12000 | 10000 | 8000 |
-| 12/Jul/25 | 15000 | 11000 | 9000 | 7000 |
-| 12/Aug/25 | 26000 | 13000 | 10000 | 8000 |
-| 12/Sep/25 | 24000 | 12000 | 9500 | 7500 |
-| 12/Oct/25 | 25000 | 12500 | 9000 | 7000 |
-| 12/Nov/25 | 23000 | 11000 | 8500 | 6500 |
-| 12/Dec/25 | 43000 | 14000 | 9000 | 7000 |
-| 12/Jan/26 | 16000 | 10000 | 8000 | 6000 |
-| 12/Feb/26 | 17000 | 10500 | 8500 | 6500 |
-| 12/Mar/26 | 24000 | 12000 | 9000 | 7000 |
-| 12/Apr/26 | 38000 | 16000 | 10000 | 8000 |
-| 12/May/26 | 44000 | 18000 | 11000 | 9000 |
-| 12/Jun/26 | 32000 | 17000 | 10500 | 8500 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### TC Rates
 | Sector | Tenor | 12/06/2026 | 05/06/2026 | ±% | Diff | 2025 | 2024 |

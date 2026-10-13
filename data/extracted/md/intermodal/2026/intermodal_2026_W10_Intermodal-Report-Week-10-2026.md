@@ -36,38 +36,10 @@ In conclusion, the escalating war in the Middle East and rising strains at a cri
 | 12 mos | Maran Leo | 2014 |
 | --- | --- | --- |
 |  | $82,500/day |  |
-### 1-Year Forward WS Rates - Dirty
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Dirty. The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 5/Mar/25 | 100 | 130 | 120 |
-| 5/Apr/25 | 50 | 140 | 180 |
-| 5/May/25 | 40 | 130 | 160 |
-| 5/Jul/25 | 60 | 140 | 150 |
-| 5/Aug/25 | 70 | 150 | 170 |
-| 5/Sep/25 | 80 | 160 | 180 |
-| 5/Oct/25 | 90 | 170 | 190 |
-| 5/Nov/25 | 100 | 180 | 200 |
-| 5/Dec/25 | 110 | 190 | 210 |
-| 5/Jan/26 | 120 | 200 | 220 |
-| 5/Feb/26 | 450 | 350 | 380 |
-| 5/Mar/26 | 480 | 360 | 400 |
-### 1-Year Forward WS Rates - Clean
+> **Chart (not transcribed):** 1-Year Forward WS Rates - Clean. The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 5/Mar/25 | 150 | 160 | 170 | 180 |
-| 5/Apr/25 | 140 | 150 | 160 | 170 |
-| 5/May/25 | 130 | 140 | 150 | 160 |
-| 5/Jul/25 | 120 | 130 | 140 | 150 |
-| 5/Aug/25 | 110 | 120 | 130 | 140 |
-| 5/Sep/25 | 100 | 110 | 120 | 130 |
-| 5/Oct/25 | 90 | 100 | 110 | 120 |
-| 5/Nov/25 | 80 | 90 | 100 | 110 |
-| 5/Dec/25 | 70 | 80 | 90 | 100 |
-| 5/Jan/26 | 60 | 70 | 80 | 90 |
-| 5/Feb/26 | 50 | 60 | 70 | 80 |
-| 5/Mar/26 | 600 | 250 | 200 | 150 |
 ## Spot Rates
 
 | Sector | Size | Routes | 06/03/2026 WS points | 06/03/2026 $/day | 27/02/2026 WS points | 27/02/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |

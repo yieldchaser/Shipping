@@ -49,40 +49,9 @@ However, a global energy market agreement is already in effect as prisoner excha
 | 3 mos | DONG-A THEMIS $27,500/day |  | 2015 | 49,997 dw t Clearlake |
 | --- | --- | --- | --- | --- |
 | 12 mos | ST.MICHAELIS $27,500/day |  | 2018 | 50,159 dw t Montfront |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 1/Sep/22 | 50 | 180 | 180 |
-| 1/Oct/22 | 80 | 190 | 350 |
-| 1/Nov/22 | 70 | 200 | 600 |
-| 1/Dec/22 | 60 | 580 | 550 |
-| 1/Jan/23 | 50 | 170 | 150 |
-| 1/Feb/23 | 40 | 160 | 250 |
-| 1/Mar/23 | 50 | 170 | 350 |
-| 1/Apr/23 | 60 | 160 | 350 |
-| 1/May/23 | 50 | 150 | 300 |
-| 1/Jun/23 | 40 | 140 | 100 |
-| 1/Jul/23 | 30 | 130 | 100 |
-| 1/Aug/23 | 30 | 120 | 100 |
-| 1/Sep/23 | 20 | 110 | 100 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 1/Sep/22 | 250 | 300 | 300 | 250 |
-| 1/Oct/22 | 200 | 350 | 350 | 300 |
-| 1/Nov/22 | 250 | 400 | 400 | 350 |
-| 1/Dec/22 | 300 | 450 | 450 | 400 |
-| 1/Jan/23 | 150 | 200 | 200 | 150 |
-| 1/Feb/23 | 100 | 150 | 150 | 100 |
-| 1/Mar/23 | 200 | 250 | 250 | 200 |
-| 1/Apr/23 | 300 | 350 | 350 | 300 |
-| 1/May/23 | 200 | 250 | 250 | 200 |
-| 1/Jun/23 | 150 | 200 | 200 | 150 |
-| 1/Jul/23 | 150 | 180 | 180 | 150 |
-| 1/Aug/23 | 150 | 170 | 170 | 150 |
-| 1/Sep/23 | 150 | 160 | 160 | 150 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 01/09/23 | 25/08/23 | ±% | Diff | 2022 | 2021 |
@@ -135,23 +104,7 @@ Suezmax T/C earnings averaged \$ 12,758/day, down - \$2,453/day w-o-w. On the Af
 ## Indicative Period Charters
 
 No Period fixtures to report this week
-### Baltic Indices (1-Year Trend)
-
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 1/5/sep/22 | 1500 | 2000 | 1000 | 1200 | 2000 |
-| 1/10/oct/22 | 2500 | 1800 | 1100 | 1000 | 1800 |
-| 1/11/nov/22 | 2200 | 1700 | 1200 | 900 | 1600 |
-| 1/12/dec/22 | 1800 | 1600 | 1300 | 800 | 1400 |
-| 1/1/jan/23 | 2800 | 1500 | 1400 | 700 | 2200 |
-| 1/1/feb/23 | 1000 | 1400 | 1500 | 800 | 1200 |
-| 1/1/mar/23 | 1400 | 1600 | 1600 | 900 | 1500 |
-| 1/1/apr/23 | 2000 | 1700 | 1700 | 1000 | 1800 |
-| 1/1/may/23 | 2500 | 1600 | 1800 | 1100 | 2000 |
-| 1/1/jun/23 | 1800 | 1500 | 1700 | 1000 | 1600 |
-| 1/1/jul/23 | 1600 | 1400 | 1600 | 900 | 1400 |
-| 1/1/aug/23 | 1400 | 1300 | 1500 | 800 | 1200 |
-| 1/5/sep/23 | 1300 | 1200 | 1400 | 700 | 1100 |
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 01/09/23 | 25/08/23 | ±% | Diff | 2022 | 2021 |
@@ -168,23 +121,7 @@ No Period fixtures to report this week
 | 32K 1yr TC |  | 9,750 | 9,250 | **5.4%** | **500** | 17,827 | 18,354 |
 | 32K 3yr TC |  | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 1/5/sep/22 | 5000 | 15000 | 12000 | 8000 |
-| 1/10/oct/22 | 18000 | 14000 | 11000 | 7000 |
-| 1/11/nov/22 | 12000 | 13000 | 10000 | 6000 |
-| 1/12/dec/22 | 8000 | 12000 | 9000 | 5000 |
-| 1/1/jan/23 | 23000 | 11000 | 8000 | 4000 |
-| 1/1/feb/23 | 3000 | 10000 | 7000 | 3000 |
-| 1/1/mar/23 | 14000 | 13000 | 10000 | 6000 |
-| 1/1/apr/23 | 18000 | 14000 | 11000 | 7000 |
-| 1/1/may/23 | 21000 | 15000 | 12000 | 8000 |
-| 1/1/jun/23 | 15000 | 13000 | 10000 | 6000 |
-| 1/1/jul/23 | 16000 | 12000 | 9000 | 5000 |
-| 1/1/aug/23 | 14000 | 11000 | 8000 | 4000 |
-| 1/5/sep/23 | 12000 | 10000 | 7000 | 3000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Sep-23 avg | Aug-23 avg | ±% | 2022 | 2021 |

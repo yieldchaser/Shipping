@@ -53,40 +53,9 @@ In conclusion, the UAE's departure marks a watershed moment for OPEC and global 
 ## Indicative Period Charters
 
 No Fresh Period Fixtures
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 1/May/25 | 100 | 150 | 200 |
-| 1/Jun/25 | 100 | 150 | 200 |
-| 1/Jul/25 | 100 | 150 | 200 |
-| 1/Aug/25 | 100 | 150 | 200 |
-| 1/Sep/25 | 100 | 150 | 200 |
-| 1/Oct/25 | 100 | 150 | 200 |
-| 1/Nov/25 | 100 | 150 | 200 |
-| 1/Dec/25 | 100 | 150 | 200 |
-| 1/Jan/26 | 100 | 150 | 200 |
-| 1/Feb/26 | 100 | 150 | 200 |
-| 1/Mar/26 | 400 | 450 | 950 |
-| 1/Apr/26 | 400 | 400 | 900 |
-| 1/May/26 | 400 | 250 | 400 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 1/May/25 | 150 | 150 | 200 | 200 |
-| 1/Jun/25 | 150 | 150 | 200 | 200 |
-| 1/Jul/25 | 150 | 150 | 200 | 200 |
-| 1/Aug/25 | 150 | 150 | 200 | 200 |
-| 1/Sep/25 | 150 | 150 | 200 | 200 |
-| 1/Oct/25 | 150 | 150 | 200 | 200 |
-| 1/Nov/25 | 150 | 150 | 200 | 200 |
-| 1/Dec/25 | 150 | 150 | 200 | 200 |
-| 1/Jan/26 | 150 | 150 | 200 | 200 |
-| 1/Feb/26 | 150 | 150 | 200 | 200 |
-| 1/Mar/26 | 550 | 250 | 600 | 600 |
-| 1/Apr/26 | 550 | 300 | 600 | 600 |
-| 1/May/26 | 550 | 250 | 600 | 600 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 01/05/2026 | 24/04/2026 | ±% | Diff | 2025 | 2024 |
@@ -148,41 +117,9 @@ The Aframax segment delivered a positive outcome overall, with TCE at \$116,956,
 | **Handysize** | **32K 1yr TC** | 11,500 | 11,500 | 0.0% | 0 | 10,543 | 12,385 |
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 1/May/25 | 2000 | 1500 | 1200 | 800 | 1500 |
-| 1/Jun/25 | 3500 | 1600 | 1400 | 900 | 1800 |
-| 1/Jul/25 | 3000 | 1700 | 1500 | 1000 | 2000 |
-| 1/Aug/25 | 4000 | 1800 | 1600 | 1100 | 2200 |
-| 1/Sep/25 | 3500 | 1700 | 1500 | 1000 | 2000 |
-| 1/Oct/25 | 3200 | 1700 | 1500 | 900 | 1900 |
-| 1/Nov/25 | 3000 | 1800 | 1600 | 1000 | 2000 |
-| 1/Dec/25 | 5000 | 2000 | 2500 | 1200 | 2500 |
-| 1/Jan/26 | 2500 | 1900 | 2000 | 1100 | 2200 |
-| 1/Feb/26 | 2800 | 1800 | 1800 | 1000 | 2000 |
-| 1/Mar/26 | 3000 | 1800 | 1900 | 1000 | 2100 |
-| 1/Apr/26 | 3500 | 1900 | 2000 | 1100 | 2300 |
-| 1/May/26 | 4500 | 2000 | 2200 | 1200 | 2600 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 1/May/25 | 15000 | 12000 | 10000 | 8000 |
-| 1/Jun/25 | 20000 | 13000 | 11000 | 9000 |
-| 1/Jul/25 | 15000 | 14000 | 12000 | 10000 |
-| 1/Aug/25 | 28000 | 15000 | 13000 | 11000 |
-| 1/Sep/25 | 25000 | 16000 | 14000 | 12000 |
-| 1/Oct/25 | 26000 | 15000 | 13000 | 11000 |
-| 1/Nov/25 | 24000 | 15000 | 13000 | 11000 |
-| 1/Dec/25 | 43000 | 16000 | 14000 | 12000 |
-| 1/Jan/26 | 16000 | 14000 | 12000 | 10000 |
-| 1/Feb/26 | 18000 | 14000 | 12000 | 10000 |
-| 1/Mar/26 | 20000 | 15000 | 13000 | 11000 |
-| 1/Apr/26 | 32000 | 16000 | 14000 | 12000 |
-| 1/May/26 | 36000 | 17000 | 15000 | 13000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | May-26 avg | Apr-26 avg | ±% | 2025 | 2024 |

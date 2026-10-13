@@ -55,40 +55,9 @@ To sum up, the current situation, with increasing oil demand along with increasi
 | --- | --- | --- | --- | --- | --- | --- |
 | 2/3 mos | DONEGAL SPIRIT | 2006 | 105,611 dwt | DEL EAST APR/24 | $40,000/day | Trafigura |
 | 12 mos | LYRIC MAGNOLIA | 2023 | 109,999 dwt | DEL EAST APR/24 | $52,500/day | ADMIC |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 19/Apr/23 | 100 | 120 | 130 |
-| 19/May/23 | 100 | 125 | 380 |
-| 19/Jun/23 | 100 | 110 | 180 |
-| 19/Jul/23 | 100 | 100 | 150 |
-| 19/Aug/23 | 100 | 100 | 140 |
-| 19/Sep/23 | 100 | 100 | 250 |
-| 19/Oct/23 | 100 | 120 | 150 |
-| 19/Nov/23 | 100 | 120 | 140 |
-| 19/Dec/23 | 100 | 120 | 130 |
-| 19/Jan/24 | 100 | 120 | 380 |
-| 19/Feb/24 | 100 | 120 | 160 |
-| 19/Mar/24 | 100 | 120 | 170 |
-| 19/Apr/24 | 100 | 120 | 180 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 19/Apr/23 | 150 | 160 | 170 | 180 |
-| 19/May/23 | 150 | 160 | 170 | 180 |
-| 19/Jun/23 | 150 | 160 | 170 | 180 |
-| 19/Jul/23 | 150 | 160 | 170 | 180 |
-| 19/Aug/23 | 150 | 160 | 170 | 180 |
-| 19/Sep/23 | 150 | 160 | 250 | 180 |
-| 19/Oct/23 | 150 | 160 | 170 | 180 |
-| 19/Nov/23 | 150 | 160 | 170 | 180 |
-| 19/Dec/23 | 150 | 160 | 170 | 180 |
-| 19/Jan/24 | 150 | 160 | 350 | 300 |
-| 19/Feb/24 | 150 | 160 | 350 | 300 |
-| 19/Mar/24 | 150 | 160 | 300 | 280 |
-| 19/Apr/24 | 150 | 160 | 280 | 260 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 19/04/24 | 12/04/24 | ±% | Diff | 2023 | 2022 |

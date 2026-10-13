@@ -143,4 +143,4 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W07_WK-07-25-CARRIERS_SP-
 | VLCC TCE | 42076 | -1061 | 43137 |
 | SUEZ TCE | 44887 | 6194 | 38693 |
 | AFRA TCE | 28331 | 1183 | 27148 |
-| MR ATLANTIC TC routes | 20.19 | 1393 | 18.797 |
+| MR ATLANTIC TC routes | 20190 | 1393 | 18797 |

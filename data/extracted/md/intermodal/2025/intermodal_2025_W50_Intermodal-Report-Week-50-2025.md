@@ -48,40 +48,9 @@ However, the net impact on dry bulk ton-miles will depend on how markets adapt t
 |  | 55K | MED-USG | 120 | 14,659 | 125 | 15,597 | -6.0% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 180 | 21,735 | 201 | 27,785 | -21.8% | 26,872 | 46,194 |
 
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 12/Dec/24 | 50 | 100 | 150 |
-| 12/Jan/25 | 60 | 110 | 160 |
-| 12/Feb/25 | 70 | 120 | 170 |
-| 12/Mar/25 | 80 | 130 | 180 |
-| 12/Apr/25 | 90 | 140 | 190 |
-| 12/May/25 | 85 | 135 | 185 |
-| 12/Jun/25 | 75 | 125 | 175 |
-| 12/Jul/25 | 70 | 120 | 170 |
-| 12/Aug/25 | 65 | 115 | 165 |
-| 12/Sep/25 | 60 | 110 | 160 |
-| 12/Oct/25 | 55 | 105 | 155 |
-| 12/Nov/25 | 120 | 180 | 220 |
-| 12/Dec/25 | 130 | 190 | 230 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 12/Dec/24 | 100 | 150 | 200 | 250 |
-| 12/Jan/25 | 110 | 160 | 210 | 260 |
-| 12/Feb/25 | 120 | 170 | 220 | 270 |
-| 12/Mar/25 | 130 | 180 | 230 | 280 |
-| 12/Apr/25 | 140 | 190 | 240 | 290 |
-| 12/May/25 | 135 | 185 | 235 | 285 |
-| 12/Jun/25 | 125 | 175 | 225 | 275 |
-| 12/Jul/25 | 120 | 170 | 220 | 270 |
-| 12/Aug/25 | 115 | 165 | 215 | 265 |
-| 12/Sep/25 | 110 | 160 | 210 | 260 |
-| 12/Oct/25 | 105 | 155 | 205 | 255 |
-| 12/Nov/25 | 170 | 220 | 270 | 300 |
-| 12/Dec/25 | 180 | 230 | 280 | 310 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 12/12/2025 | 05/12/2025 | ±% | Diff | 2024 | 2023 |
@@ -148,41 +117,9 @@ Aframax markets told a more divergent story. The Mediterranean rebounded sharply
 | **Handysize** | **32K 1yr TC** | 11,750 | 12,000 | -2.1% | -250 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 12/Dec/24 | 1200 | 1000 | 1000 | 800 | 1000 |
-| 12/Jan/25 | 1400 | 1100 | 900 | 700 | 900 |
-| 12/Feb/25 | 2800 | 1200 | 1000 | 600 | 1000 |
-| 12/Mar/25 | 2600 | 1400 | 1100 | 700 | 1200 |
-| 12/Apr/25 | 2000 | 1500 | 1200 | 800 | 1300 |
-| 12/May/25 | 1800 | 1600 | 1300 | 850 | 1400 |
-| 12/Jun/25 | 3800 | 1700 | 1400 | 900 | 1500 |
-| 12/Jul/25 | 3600 | 1800 | 1500 | 950 | 1600 |
-| 12/Aug/25 | 3200 | 1900 | 1600 | 1000 | 1700 |
-| 12/Sep/25 | 2800 | 1800 | 1500 | 900 | 1600 |
-| 12/Oct/25 | 2600 | 1700 | 1400 | 850 | 1500 |
-| 12/Nov/25 | 3400 | 1800 | 1500 | 900 | 1700 |
-| 12/Dec/25 | 3800 | 1800 | 1600 | 900 | 2200 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 12/Dec/24 | 10000 | 10000 | 10000 | 10000 |
-| 12/Jan/25 | 8000 | 9000 | 9000 | 8000 |
-| 12/Feb/25 | 12000 | 10000 | 9000 | 7000 |
-| 12/Mar/25 | 20000 | 11000 | 10000 | 8000 |
-| 12/Apr/25 | 18000 | 12000 | 10000 | 8000 |
-| 12/May/25 | 16000 | 13000 | 11000 | 8500 |
-| 12/Jun/25 | 28000 | 14000 | 12000 | 9000 |
-| 12/Jul/25 | 14000 | 15000 | 13000 | 9500 |
-| 12/Aug/25 | 26000 | 16000 | 14000 | 10000 |
-| 12/Sep/25 | 24000 | 15000 | 13000 | 9000 |
-| 12/Oct/25 | 22000 | 14000 | 12000 | 8500 |
-| 12/Nov/25 | 42000 | 16000 | 14000 | 9000 |
-| 12/Dec/25 | 45000 | 15000 | 14000 | 14000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ### Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Dec-25 avg | Nov-25 avg | ±% | 2024 | 2023 |

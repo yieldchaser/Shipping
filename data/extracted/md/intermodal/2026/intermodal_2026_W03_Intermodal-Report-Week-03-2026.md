@@ -44,24 +44,7 @@ Netting it out, 2026 starts with softer visibility for Supramax/Handy steel-expo
 | **Dirty** | 55K | UKC-USG | 120 | 13,588 | 120 | 14,435 | -5.9% | 10,784 | 17,707 |
 |  | 55K | MED-USG | 120 | 14,958 | 120 | 15,515 | -3.6% | 11,306 | 17,590 |
 |  | 50k | ARA-UKC | 169 | 14,247 | 150 | 9,145 | **55.8%** | 18,615 | 26,872 |
-### Dirty WS Rates (1-Year Trend)
-
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS points | WS points | WS points |
-| 16/Jan/25 | 85 | 110 | 115 |
-| 16/Feb/25 | 70 | 105 | 120 |
-| 16/Mar/25 | 60 | 100 | 210 |
-| 16/Apr/25 | 55 | 100 | 200 |
-| 16/May/25 | 50 | 105 | 180 |
-| 16/Jun/25 | 45 | 100 | 160 |
-| 16/Jul/25 | 50 | 100 | 150 |
-| 16/Aug/25 | 60 | 110 | 160 |
-| 16/Sep/25 | 70 | 115 | 170 |
-| 16/Oct/25 | 80 | 120 | 180 |
-| 16/Nov/25 | 90 | 125 | 190 |
-| 16/Dec/25 | 100 | 130 | 200 |
-| 16/Jan/26 | 110 | 135 | 230 |
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
 ### TC Rates
 | Sector | Tenor | 16/01/2026 | 09/01/2026 | ±% | Diff | 2025 | 2024 |
@@ -102,15 +85,7 @@ In the Aframax segment, weekly average TCE rates reached \$60,267/day, up 22% w-
 
 ## Dry Bulk Market
 
-### Baltic Indices (1-Year Trend)
-
-|  | 16/01/2026 Index | 16/01/2026 $/day | 09/01/2026 Index | 09/01/2026 $/day | Point Diff | $/day ±% | 2025 Index | 2024 Index |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BDI | 1,567 |  | 1,688 |  | -121 |  | 1,677 | 1,743 |
-| BCI | 2,224 | $16,670 | 2,640 | $20,444 | -416 | -18.5% | 2,566 | 2,696 |
-| BPI | 1,458 | $13,120 | 1,345 | $12,108 | 113 | 8.4% | 1,476 | 1,561 |
-| BSI | 967 | $10,186 | 967 | $10,189 | 0 | 0.0% | 1,127 | 1,238 |
-| BHSI | 588 | $10,578 | 605 | $10,897 | -17 | -2.9% | 661 | 702 |
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |

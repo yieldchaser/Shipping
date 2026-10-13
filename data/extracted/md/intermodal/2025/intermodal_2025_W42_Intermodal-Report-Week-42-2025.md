@@ -51,40 +51,9 @@ In this context, the current surge in feeder newbuilding activity should not be 
 | 24 mos | Zakum | 2019 |
 | --- | --- | --- |
 |  | $50,000/day |  |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 17/Oct/24 |  |  |  |
-| 17/Nov/24 |  |  |  |
-| 17/Dec/24 |  |  |  |
-| 17/Jan/25 |  |  |  |
-| 17/Feb/25 |  |  |  |
-| 17/Mar/25 |  |  |  |
-| 17/Apr/25 |  |  |  |
-| 17/May/25 |  |  |  |
-| 17/Jun/25 |  |  |  |
-| 17/Jul/25 |  |  |  |
-| 17/Aug/25 |  |  |  |
-| 17/Sep/25 |  |  |  |
-| 17/Oct/25 |  |  |  |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 17/Oct/24 |  |  |  |  |
-| 17/Nov/24 |  |  |  |  |
-| 17/Dec/24 |  |  |  |  |
-| 17/Jan/25 |  |  |  |  |
-| 17/Feb/25 |  |  |  |  |
-| 17/Mar/25 |  |  |  |  |
-| 17/Apr/25 |  |  |  |  |
-| 17/May/25 |  |  |  |  |
-| 17/Jun/25 |  |  |  |  |
-| 17/Jul/25 |  |  |  |  |
-| 17/Aug/25 |  |  |  |  |
-| 17/Sep/25 |  |  |  |  |
-| 17/Oct/25 |  |  |  |  |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 17/10/2025 | 10/10/2025 | ±% | Diff | 2024 | 2023 |
@@ -137,23 +106,7 @@ Aframaxes performed strongly, underpinned by seasonal demand and tightening regi
 ## Indicative Period Charters
 
 6 to 8 mos Pacific Hibiscus 2025 82,600 dwt \$16,000/day ASL Bulk
-### Baltic Indices (1-Year Trend)
-
-| BCI BPI BSI BHSI BDI | Index |
-| --- | --- |
-| 17/Oct/24 |  |
-| 17/Nov/24 |  |
-| 17/Dec/24 |  |
-| 17/Jan/25 |  |
-| 17/Feb/25 |  |
-| 17/Mar/25 |  |
-| 17/Apr/25 |  |
-| 17/May/25 |  |
-| 17/Jun/25 |  |
-| 17/Jul/25 |  |
-| 17/Aug/25 |  |
-| 17/Sep/25 |  |
-| 17/Oct/25 |  |
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 17/10/2025 | 10/10/2025 | ±% | Diff | 2024 | 2023 |
@@ -167,23 +120,7 @@ Aframaxes performed strongly, underpinned by seasonal demand and tightening regi
 | **Handysize** | **32K 1yr TC** | 11,250 | 11,250 | 0.0% | 0 | 12,385 | 10,644 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 17/Oct/24 |  |  |  |  |
-| 17/Nov/24 |  |  |  |  |
-| 17/Dec/24 |  |  |  |  |
-| 17/Jan/25 |  |  |  |  |
-| 17/Feb/25 |  |  |  |  |
-| 17/Mar/25 |  |  |  |  |
-| 17/Apr/25 |  |  |  |  |
-| 17/May/25 |  |  |  |  |
-| 17/Jun/25 |  |  |  |  |
-| 17/Jul/25 |  |  |  |  |
-| 17/Aug/25 |  |  |  |  |
-| 17/Sep/25 |  |  |  |  |
-| 17/Oct/25 |  |  |  |  |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
 | Sector | Size | Oct-25 avg | Sep-25 avg | ±% | 2024 | 2023 |

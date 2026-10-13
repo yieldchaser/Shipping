@@ -109,40 +109,10 @@ Shanghai 200122 China
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 21 mos | ADVANTAGE START | 2011 | 156,639 dwt | $22,500/day | Great Eastern |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 9/Jul/20 | 30 | 60 | 70 |
-| 9/Aug/20 | 25 | 55 | 65 |
-| 9/Sep/20 | 20 | 50 | 60 |
-| 9/Oct/20 | 15 | 45 | 55 |
-| 9/Nov/20 | 10 | 40 | 50 |
-| 9/Dec/20 | 10 | 40 | 50 |
-| 9/Jan/21 | 10 | 40 | 50 |
-| 9/Feb/21 | 10 | 40 | 150 |
-| 9/Mar/21 | 10 | 40 | 160 |
-| 9/Apr/21 | 10 | 40 | 100 |
-| 9/May/21 | 10 | 40 | 80 |
-| 9/Jun/21 | 10 | 40 | 70 |
-| 9/Jul/21 | 10 | 40 | 70 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 9/Jul/20 | 100 | 110 | 120 | 130 |
-| 9/Aug/20 | 95 | 105 | 115 | 125 |
-| 9/Sep/20 | 90 | 100 | 110 | 120 |
-| 9/Oct/20 | 85 | 95 | 105 | 115 |
-| 9/Nov/20 | 80 | 90 | 100 | 110 |
-| 9/Dec/20 | 80 | 90 | 100 | 110 |
-| 9/Jan/21 | 80 | 90 | 100 | 110 |
-| 9/Feb/21 | 80 | 90 | 100 | 160 |
-| 9/Mar/21 | 80 | 90 | 100 | 170 |
-| 9/Apr/21 | 80 | 90 | 100 | 150 |
-| 9/May/21 | 80 | 90 | 100 | 140 |
-| 9/Jun/21 | 80 | 90 | 100 | 130 |
-| 9/Jul/21 | 80 | 90 | 100 | 130 |
 ## Indicative Market Values ($ Million) - Tankers
 
 | Sector | Size | Jul-21 avg | Jun-21 avg | ±% | 2020 | 2019 | 2018 |
@@ -209,41 +179,9 @@ In the Handysize sector we had the sale of the "LIME GALAXY" (19,992dwt-blt '08,
 | **Handysize** | **32K 1yr TC** | **19,750** | 19,750 | 0.0% | 0 | 8,556 | 9,291 |
 | **Handysize** | **32K 3yr TC** | **13,000** | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 16/Jul/20 | 1200 | 1400 | 1000 | 800 | 2600 |
-| 16/Aug/20 | 1300 | 1350 | 1100 | 900 | 2400 |
-| 16/Sep/20 | 1400 | 1300 | 1150 | 950 | 2300 |
-| 16/Oct/20 | 4000 | 1200 | 1200 | 1000 | 4000 |
-| 16/Nov/20 | 1300 | 1250 | 1100 | 1000 | 2500 |
-| 16/Dec/20 | 1350 | 1300 | 1150 | 1000 | 2600 |
-| 16/Jan/21 | 1400 | 1400 | 1200 | 1000 | 2700 |
-| 16/Feb/21 | 1500 | 1500 | 1300 | 1100 | 2800 |
-| 16/Mar/21 | 2500 | 2400 | 2000 | 1200 | 3500 |
-| 16/Apr/21 | 3000 | 2600 | 2500 | 1300 | 4000 |
-| 16/May/21 | 3800 | 3000 | 2800 | 1400 | 4500 |
-| 16/Jun/21 | 3900 | 3800 | 2900 | 1500 | 3800 |
-| 16/Jul/21 | 3900 | 3900 | 2800 | 1600 | 3800 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 16/Jul/20 | 22000 | 12000 | 10000 | 8000 |
-| 16/Aug/20 | 20000 | 13000 | 11000 | 8000 |
-| 16/Sep/20 | 18000 | 12000 | 10000 | 8000 |
-| 16/Oct/20 | 34000 | 12000 | 10000 | 8000 |
-| 16/Nov/20 | 10000 | 11000 | 10000 | 8000 |
-| 16/Dec/20 | 11000 | 11000 | 10000 | 8000 |
-| 16/Jan/21 | 12000 | 12000 | 11000 | 8000 |
-| 16/Feb/21 | 15000 | 15000 | 14000 | 9000 |
-| 16/Mar/21 | 25000 | 22000 | 20000 | 10000 |
-| 16/Apr/21 | 42000 | 24000 | 22000 | 11000 |
-| 16/May/21 | 40000 | 28000 | 26000 | 12000 |
-| 16/Jun/21 | 32000 | 30000 | 29000 | 13000 |
-| 16/Jul/21 | 32000 | 31000 | 30000 | 14000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -337,41 +275,9 @@ In the Kamsarmax sector we had the sale of the "MAGNOLIA" (82,165dwt-blt '11, Ja
 
 Appetite for new orders resumed on the newbuilding front, with another generous round of freshly-inked deals surfacing in the past days across the non-conventional sectors, while a good number of dry bulk orders was also present with Japanese owners being behind these contracts exclusively. Having said that, Japanese owners NYK Line, K Line, and MOL ordered one LNG fuelled 210,000dwt Newcastlemax each at Nihon shipyard against a long-term T/C to JFE Steel, while Japanese owner Orix ordered two 66,000dwt Ultramax units at Tsuneishi Zhoushan for an undisclosed price. At the same time, crude carrier units were for another week absent with only one order of two MR2 units surfacing last week; Greek owner Steelships inked a deal for two LNG fuelled/scrubber fitted 50,000dwt units at SXT Offshore. On the non-conventional sectors, a total of six LNG units were ordered by Pan Ocean, J.P Morgan, and Knutsen on the back of T/C to Shell. The units from the first two owners will be built at Hyundai Hi with the rest two units being destined to Hyundai Samho. Lastly, Cosco Yangzhou secured an order for four 16,180teu and six 14,092teu units from Cosco at \$155.0m and \$146.0m each respectively.
 
-### Bulk Carriers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 16/Jul/20 | 48 | 27 | 26 | 21 |
-| 16/Aug/20 | 48 | 27 | 26 | 21 |
-| 16/Sep/20 | 48 | 27 | 26 | 21 |
-| 16/Oct/20 | 48 | 27 | 26 | 21 |
-| 16/Nov/20 | 48 | 27 | 26 | 21 |
-| 16/Dec/20 | 48 | 27 | 26 | 21 |
-| 16/Jan/21 | 49 | 27 | 26 | 21 |
-| 16/Feb/21 | 50 | 28 | 26 | 22 |
-| 16/Mar/21 | 52 | 28 | 27 | 22 |
-| 16/Apr/21 | 54 | 29 | 27 | 23 |
-| 16/May/21 | 56 | 30 | 28 | 24 |
-| 16/Jun/21 | 58 | 31 | 29 | 25 |
-| 16/Jul/21 | 59 | 32 | 30 | 26 |
-
-### Tankers Newbuilding Prices (m$)
-
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 16/Jul/20 | 88 | 55 | 48 | 40 | 34 |
-| 16/Aug/20 | 88 | 55 | 48 | 40 | 34 |
-| 16/Sep/20 | 88 | 55 | 48 | 40 | 34 |
-| 16/Oct/20 | 87 | 55 | 47 | 40 | 34 |
-| 16/Nov/20 | 87 | 55 | 47 | 40 | 34 |
-| 16/Dec/20 | 88 | 56 | 48 | 40 | 34 |
-| 16/Jan/21 | 89 | 57 | 48 | 41 | 35 |
-| 16/Feb/21 | 90 | 58 | 49 | 41 | 35 |
-| 16/Mar/21 | 91 | 59 | 50 | 42 | 36 |
-| 16/Apr/21 | 92 | 60 | 51 | 42 | 36 |
-| 16/May/21 | 93 | 61 | 52 | 43 | 36 |
-| 16/Jun/21 | 94 | 62 | 53 | 43 | 36 |
-| 16/Jul/21 | 95 | 64 | 54 | 44 | 36 |
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
 ### Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
@@ -411,21 +317,8 @@ Appetite for new orders resumed on the newbuilding front, with another generous 
 
 A combination of rising steel plate prices and a small number of offered vintage candidates has skyrocketed scrap levels across the Indian subcontinent markets. Indeed, demand for tonnage remains healthy at the time when owners appear reluctant to dispose of their older units amid a continued rise in freight rates which have resulted in softer activity and few concluded deals. Both Bangladeshi and Pakistani average levels are being posted at the high \$500/ldt with the intense competition supporting bids at the \$600/ldt mark in some cases. India remains the less profitable destination with buyers' interest still focusing on HKC and specialist units. Lastly, average scrap levels in Turkey remained unchanged w-o-w. Imported steel plate prices declined while the beginning of Eid holidays could ease down recycling market activity. Average scrap prices in the different markets this week for tankers ranged between 290-585/ldt and those for dry bulk units between \$280-575/ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 16/Jul/20 | 300 | 290 | 320 | 180 |
-| 16/Aug/20 | 320 | 310 | 340 | 190 |
-| 16/Sep/20 | 340 | 330 | 360 | 200 |
-| 16/Oct/20 | 360 | 350 | 380 | 200 |
-| 16/Nov/20 | 380 | 370 | 400 | 200 |
-| 16/Dec/20 | 400 | 390 | 420 | 250 |
-| 16/Jan/21 | 420 | 410 | 440 | 260 |
-| 16/Feb/21 | 440 | 430 | 460 | 260 |
-| 16/Mar/21 | 460 | 450 | 480 | 260 |
-| 16/Apr/21 | 480 | 470 | 500 | 270 |
-| 16/May/21 | 500 | 500 | 520 | 275 |
-| 16/Jun/21 | 520 | 530 | 540 | 275 |
-| 16/Jul/21 | 540 | 550 | 560 | 280 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Indicative Demolition Prices ($/ldt)
 
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers |

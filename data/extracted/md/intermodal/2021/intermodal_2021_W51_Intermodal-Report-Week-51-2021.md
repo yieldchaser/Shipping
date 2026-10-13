@@ -87,42 +87,10 @@ Shanghai 200122 China
 | --- | --- | --- | --- | --- | --- |
 | 24 mos | ECO MALIBU | 2021 | 157,632 dwt | 26,000/day | AZA Shipping |
 | 6 mos | ICE POINT | 2007 | 50,922 dwt | $14,750/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| Date | WS points | WS points | WS points |
-| 24/Dec/20 | 50 | 80 | 100 |
-| 24/Jan/21 | 50 | 80 | 100 |
-| 24/Feb/21 | 50 | 85 | 150 |
-| 24/Mar/21 | 50 | 85 | 180 |
-| 24/Apr/21 | 50 | 80 | 100 |
-| 24/May/21 | 50 | 80 | 100 |
-| 24/Jun/21 | 50 | 80 | 100 |
-| 24/Jul/21 | 50 | 80 | 100 |
-| 24/Aug/21 | 50 | 80 | 100 |
-| 24/Sep/21 | 50 | 80 | 100 |
-| 24/Oct/21 | 50 | 85 | 150 |
-| 24/Nov/21 | 50 | 80 | 120 |
-| 24/Dec/21 | 50 | 80 | 120 |
-### Clean WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| Date | WS points | WS points | WS points | WS points |
-| 24/Dec/20 | 100 | 100 | 100 | 100 |
-| 24/Jan/21 | 100 | 100 | 100 | 100 |
-| 24/Feb/21 | 100 | 100 | 100 | 100 |
-| 24/Mar/21 | 100 | 100 | 100 | 100 |
-| 24/Apr/21 | 100 | 100 | 100 | 100 |
-| 24/May/21 | 100 | 100 | 100 | 100 |
-| 24/Jun/21 | 100 | 100 | 100 | 100 |
-| 24/Jul/21 | 100 | 100 | 100 | 100 |
-| 24/Aug/21 | 100 | 100 | 100 | 100 |
-| 24/Sep/21 | 100 | 100 | 100 | 100 |
-| 24/Oct/21 | 100 | 100 | 100 | 100 |
-| 24/Nov/21 | 100 | 100 | 100 | 300 |
-| 24/Dec/21 | 100 | 100 | 100 | 200 |
 ## TC Rates
 
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 | 2019 |
@@ -199,41 +167,9 @@ In the LR2 sector we had the sale of the "PROSTAR" (115,643dwt-blt '19, S. Korea
 |  | 32K 1yr TC | 20,500 | 21,750 | -5.7% | -1,250 | 8,556 | 9,291 |
 |  | 32K 3yr TC | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 24/Dec/20 | 1,800 | 1,700 | 1,600 | 1,500 | 1,850 |
-| 24/Jan/21 | 2,500 | 2,400 | 2,300 | 1,600 | 2,600 |
-| 24/Feb/21 | 2,800 | 2,700 | 2,600 | 1,650 | 2,900 |
-| 24/Mar/21 | 3,000 | 2,900 | 2,800 | 1,700 | 3,100 |
-| 24/Apr/21 | 4,800 | 3,500 | 3,400 | 1,750 | 4,700 |
-| 24/May/21 | 4,500 | 3,600 | 3,500 | 1,800 | 4,400 |
-| 24/Jun/21 | 3,200 | 3,100 | 3,000 | 1,750 | 3,300 |
-| 24/Jul/21 | 3,400 | 3,300 | 3,200 | 1,800 | 3,500 |
-| 24/Aug/21 | 4,000 | 3,800 | 3,600 | 1,850 | 4,100 |
-| 24/Sep/21 | 5,500 | 4,800 | 4,200 | 1,900 | 9,500 |
-| 24/Oct/21 | 2,800 | 3,500 | 3,200 | 1,800 | 2,900 |
-| 24/Nov/21 | 2,600 | 3,000 | 2,800 | 1,750 | 2,700 |
-| 24/Dec/21 | 2,650 | 2,950 | 2,750 | 1,700 | 2,750 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 24/Dec/20 | 18000 | 17000 | 16000 | 15000 |
-| 24/Jan/21 | 22000 | 21000 | 20000 | 15500 |
-| 24/Feb/21 | 24000 | 23000 | 22000 | 16000 |
-| 24/Mar/21 | 26000 | 25000 | 24000 | 16500 |
-| 24/Apr/21 | 42000 | 30000 | 28000 | 17000 |
-| 24/May/21 | 38000 | 32000 | 30000 | 17500 |
-| 24/Jun/21 | 32000 | 31000 | 29000 | 17000 |
-| 24/Jul/21 | 34000 | 33000 | 31000 | 17500 |
-| 24/Aug/21 | 36000 | 34000 | 32000 | 18000 |
-| 24/Sep/21 | 85000 | 38000 | 35000 | 18500 |
-| 24/Oct/21 | 26000 | 30000 | 28000 | 18000 |
-| 24/Nov/21 | 28000 | 29000 | 27000 | 17500 |
-| 24/Dec/21 | 26000 | 28000 | 26000 | 17000 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## Chartering
 
@@ -321,41 +257,9 @@ In the Panamax sector we had the sale of the "SCORPIO" (74,930dwt-blt '12, Japan
 
 The newbuilding market activity was healthy during the past days. Interest for bulker units was noticeable, followed by two LNG orders and a lone box-ship newbuilding contract. More specifically, in the dry bulk sector, Bocimar, a subsidiary of CMB group, ordered a pair of 210,000dwt ammonia-ready units at Qingdao Beihai for an undisclosed price. At the same time, HuaXia FL concluded two more Ultramaxes, this time at NACKS yard while Wisdom Marime concluded a deal for the construction of one 40,000dwt vessel at Hakodate shipyard. As far as the LNG orders are concerned, both CSSC Leasing and CMES inked an LOI for one firm plus one optional 175,000cbm unit at Jiangnan and DSIC shipyards respectively. Lastly, Hong Kong based owner TS Lines, ordered two 7,000teu boxships at Shanghai Waigaoqiao in China for an undisclosed price.
 
-### Bulk Carriers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 24/Dec/20 | 47 | 27 | 28 | 22 |
-| 24/Jan/21 | 48 | 28 | 28 | 23 |
-| 24/Feb/21 | 49 | 29 | 29 | 24 |
-| 24/Mar/21 | 50 | 29 | 29 | 24 |
-| 24/Apr/21 | 52 | 30 | 30 | 25 |
-| 24/May/21 | 54 | 31 | 31 | 26 |
-| 24/Jun/21 | 57 | 32 | 32 | 27 |
-| 24/Jul/21 | 59 | 33 | 33 | 28 |
-| 24/Aug/21 | 60 | 33 | 33 | 29 |
-| 24/Sep/21 | 60 | 34 | 34 | 29 |
-| 24/Oct/21 | 60 | 34 | 34 | 30 |
-| 24/Nov/21 | 60 | 34 | 34 | 30 |
-| 24/Dec/21 | 60 | 34 | 34 | 30 |
-
-### Tankers Newbuilding Prices (m$)
-
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 24/Dec/20 | 80 | 55 | 38 | 38 | 33 |
-| 24/Jan/21 | 82 | 57 | 40 | 39 | 34 |
-| 24/Feb/21 | 85 | 59 | 42 | 40 | 34 |
-| 24/Mar/21 | 88 | 60 | 44 | 41 | 35 |
-| 24/Apr/21 | 90 | 62 | 46 | 42 | 35 |
-| 24/May/21 | 92 | 63 | 48 | 43 | 36 |
-| 24/Jun/21 | 95 | 64 | 50 | 44 | 36 |
-| 24/Jul/21 | 98 | 65 | 52 | 45 | 36 |
-| 24/Aug/21 | 102 | 66 | 54 | 46 | 37 |
-| 24/Sep/21 | 106 | 67 | 56 | 47 | 37 |
-| 24/Oct/21 | 110 | 68 | 58 | 48 | 37 |
-| 24/Nov/21 | 114 | 69 | 59 | 49 | 38 |
-| 24/Dec/21 | 116 | 70 | 60 | 49 | 38 |
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
 | Sector | Size | Current | Previous | ±% | Year1 | Year2 | Year3 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -382,21 +286,8 @@ The newbuilding market activity was healthy during the past days. Interest for b
 
 As we are reaching the end of 2021, the outlook in the demolition market remains the same as in previous weeks. The scarcity of fresh units continues to shape the offered levels of the Indian subcontinent buyers who have maintained the bids at mid-high \$500/Ldt. Bangladesh is leading the course, followed by Pakistan where breakers managed to secure a number of units before the end of the year. Pressure remains on the Indian demolition market as the steel plate price correction has stalled buyers' appetite for fresh tonnage at the time of writing. As a result, the gap in offered scrap prices with their Indian-subcontinent counterparts is too wide to allow them to compete for the limited vintage tonnage in the region. Lastly, in Turkey, both the domestic and imported scrap prices have declined last week. At the same time, the Turkish Lira has recovered a large share of its losses, hovering now at the mid-high 11.0/USD. However, the strong TRY fluctuation had an adverse effect on trading activity with the market remaining overall quiet. Average scrap prices in the different markets this week for tankers ranged between 330-600/Ldt and those for dry bulk units between \$320-590/Ldt.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 24/Dec/20 | 420 | 400 | 420 | 260 |
-| 24/Jan/21 | 430 | 410 | 425 | 255 |
-| 24/Feb/21 | 440 | 420 | 430 | 250 |
-| 24/Mar/21 | 450 | 430 | 440 | 250 |
-| 24/Apr/21 | 500 | 480 | 490 | 250 |
-| 24/May/21 | 520 | 500 | 510 | 300 |
-| 24/Jun/21 | 540 | 520 | 530 | 310 |
-| 24/Jul/21 | 560 | 540 | 550 | 320 |
-| 24/Aug/21 | 570 | 550 | 560 | 320 |
-| 24/Sep/21 | 580 | 560 | 570 | 325 |
-| 24/Oct/21 | 600 | 580 | 590 | 330 |
-| 24/Nov/21 | 610 | 590 | 600 | 330 |
-| 24/Dec/21 | 600 | 550 | 580 | 330 |
+> **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
+
 ## Demolition Sales
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |

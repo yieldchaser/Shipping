@@ -25,33 +25,7 @@ Shifting to volumes, crude oil exports from Kuwait averaged 5,587 kt in 2024 on 
 
 Assuming that these trends will continue, with CPP exports maintaining their upward trajectory and crude oil exports gradually rebounding in light of the new field discovery, it is expected that overall exports out of Kuwait will increase, be it crude or clean products. This surge in exports is likely to drive higher demand for tankers in the region, particularly for MRs to accommodate the increased volume of refined products and Seizmaxes and VLCCs to facilitate crude oil volumes.
 
-### Kuwait Oil and Oil products exports
-
-| Date | Oil products (kt) | Crude (kt) |
-| --- | --- | --- |
-| Jan-19 | 1200 | 8800 |
-| Apr-19 | 1100 | 8700 |
-| Jul-19 | 1000 | 8600 |
-| Oct-19 | 1100 | 10200 |
-| Jan-20 | 900 | 9500 |
-| Apr-20 | 1000 | 6800 |
-| Jul-20 | 1100 | 7500 |
-| Oct-20 | 1000 | 5900 |
-| Jan-21 | 1100 | 7800 |
-| Apr-21 | 1200 | 7600 |
-| Jul-21 | 1300 | 8200 |
-| Oct-21 | 1400 | 8900 |
-| Jan-22 | 1500 | 8100 |
-| Apr-22 | 1600 | 8000 |
-| Jul-22 | 1700 | 7900 |
-| Oct-22 | 1800 | 8300 |
-| Jan-23 | 1900 | 8400 |
-| Apr-23 | 2000 | 7600 |
-| Jul-23 | 1800 | 6500 |
-| Oct-23 | 1700 | 5800 |
-| Jan-24 | 2200 | 6200 |
-| Apr-24 | 2700 | 5900 |
-| Jul-24 | 2800 | 5600 |
+> **Chart (not transcribed):** Kuwait Oil and Oil products exports. The report prints no values for it.
 
 ---
 
@@ -81,40 +55,9 @@ Assuming that these trends will continue, with CPP exports maintaining their upw
 | --- | --- | --- | --- | --- | --- | --- |
 | 6 mos | HAFNIA ANE | 2015 | 49,999 dwt | DEL EAST JUL/24 | $34,000/day | Weco Tankers |
 | 12 mos | FPMC 32 | 2019 | 49,660 dwt | DEL EAST JUL/24 | $33,500/day | ST Shipping |
-### Dirty WS Rates (1-Year Trend)
+> **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 26/Jul/23 | 50 | 100 | 100 |
-| 26/Aug/23 | 60 | 120 | 150 |
-| 26/Sep/23 | 70 | 140 | 250 |
-| 26/Oct/23 | 80 | 160 | 280 |
-| 26/Nov/23 | 75 | 150 | 350 |
-| 26/Dec/23 | 70 | 140 | 400 |
-| 26/Jan/24 | 65 | 130 | 380 |
-| 26/Feb/24 | 60 | 120 | 150 |
-| 26/Mar/24 | 55 | 110 | 180 |
-| 26/Apr/24 | 50 | 100 | 160 |
-| 26/May/24 | 45 | 90 | 170 |
-| 26/Jun/24 | 40 | 80 | 180 |
-| 26/Jul/24 | 35 | 70 | 190 |
-### Clean WS Rates (1-Year Trend)
-
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 26/Jul/23 | 150 | 160 | 170 | 180 |
-| 26/Aug/23 | 160 | 170 | 180 | 190 |
-| 26/Sep/23 | 170 | 180 | 190 | 200 |
-| 26/Oct/23 | 180 | 190 | 200 | 210 |
-| 26/Nov/23 | 175 | 185 | 195 | 200 |
-| 26/Dec/23 | 170 | 180 | 190 | 200 |
-| 26/Jan/24 | 160 | 170 | 180 | 190 |
-| 26/Feb/24 | 150 | 160 | 170 | 180 |
-| 26/Mar/24 | 140 | 150 | 160 | 170 |
-| 26/Apr/24 | 130 | 140 | 150 | 160 |
-| 26/May/24 | 120 | 130 | 140 | 150 |
-| 26/Jun/24 | 110 | 120 | 130 | 140 |
-| 26/Jul/24 | 100 | 110 | 120 | 130 |
+> **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 26/07/24 | 19/07/24 | ±% | Diff | 2023 | 2022 |
@@ -178,41 +121,9 @@ As far as Aframaxes are concerned, the USG and Caribbean market are dragging the
 | 4/6 mos | HUI TONG | 2010 | 83,601 dwt | dely Hong Kong 02/05 Aug | $16,500/day | cnr |
 | 5/7 mos | SELO | 2011 | 32,389 dwt | dely Jakarta prompt | $14,000/day | Pacific Basin |
 
-### Baltic Indices (1-Year Trend)
+> **Chart (not transcribed):** Baltic Indices (1-Year Trend). The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 26/Jul/23 | 1500 | 1000 | 800 | 600 | 1000 |
-| 26/Aug/23 | 3000 | 1500 | 1200 | 700 | 1200 |
-| 26/Sep/23 | 3500 | 2000 | 1400 | 800 | 1500 |
-| 26/Oct/23 | 4000 | 2500 | 1600 | 900 | 2000 |
-| 26/Nov/23 | 6500 | 3000 | 1800 | 1000 | 3000 |
-| 26/Dec/23 | 3500 | 3000 | 1500 | 1000 | 2500 |
-| 26/Jan/24 | 2500 | 1500 | 1200 | 800 | 1500 |
-| 26/Feb/24 | 3000 | 2000 | 1400 | 900 | 1800 |
-| 26/Mar/24 | 3500 | 2500 | 1600 | 1000 | 2000 |
-| 26/Apr/24 | 3000 | 2000 | 1400 | 900 | 1800 |
-| 26/May/24 | 2800 | 1800 | 1300 | 850 | 1700 |
-| 26/Jun/24 | 2700 | 1700 | 1250 | 800 | 1600 |
-| 26/Jul/24 | 2800 | 1750 | 1300 | 850 | 1650 |
-
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 26/Jul/23 | 10000 | 8000 | 7000 | 6000 |
-| 26/Aug/23 | 20000 | 15000 | 12000 | 10000 |
-| 26/Sep/23 | 25000 | 18000 | 14000 | 11000 |
-| 26/Oct/23 | 30000 | 22000 | 16000 | 12000 |
-| 26/Nov/23 | 55000 | 25000 | 18000 | 13000 |
-| 26/Dec/23 | 30000 | 20000 | 15000 | 11000 |
-| 26/Jan/24 | 15000 | 12000 | 10000 | 9000 |
-| 26/Feb/24 | 20000 | 15000 | 12000 | 10000 |
-| 26/Mar/24 | 35000 | 20000 | 16000 | 13000 |
-| 26/Apr/24 | 25000 | 18000 | 14000 | 11000 |
-| 26/May/24 | 22000 | 16000 | 13000 | 10500 |
-| 26/Jun/24 | 20000 | 15000 | 12000 | 10000 |
-| 26/Jul/24 | 21000 | 15500 | 12500 | 10200 |
+> **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 
 ## TC Rates
 | Sector | Tenor | 26/07/24 | 19/07/24 | ±% | Diff | 2023 | 2022 |

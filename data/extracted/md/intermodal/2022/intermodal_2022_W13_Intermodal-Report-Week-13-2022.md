@@ -105,37 +105,9 @@ Shanghai 200122 China
 | 12 mos | MANOLATES | 2018 | 49,999 dwt Norden |
 |  | $15,500/day |  |  |
 
-| Date | TD3 | TD6 | TD9 |
-| --- | --- | --- | --- |
-| 1/Apr/21 | 30 | 80 | 90 |
-| 1/May/21 | 30 | 80 | 90 |
-| 1/Jun/21 | 30 | 80 | 90 |
-| 1/Jul/21 | 30 | 80 | 90 |
-| 1/Aug/21 | 30 | 80 | 90 |
-| 1/Sep/21 | 30 | 80 | 90 |
-| 1/Oct/21 | 30 | 80 | 120 |
-| 1/Nov/21 | 30 | 80 | 130 |
-| 1/Dec/21 | 30 | 80 | 120 |
-| 1/Jan/22 | 30 | 80 | 110 |
-| 1/Feb/22 | 30 | 280 | 180 |
-| 1/Mar/22 | 30 | 290 | 200 |
-| 1/Apr/22 | 30 | 180 | 220 |
+> **Chart (not transcribed):** Tanker Market. The report prints no values for it.
 
-| Date | TC1 | TC2 | TC5 | TC6 |
-| --- | --- | --- | --- | --- |
-| 1/Apr/21 | 100 | 120 | 140 | 150 |
-| 1/May/21 | 80 | 100 | 120 | 140 |
-| 1/Jun/21 | 60 | 80 | 100 | 120 |
-| 1/Jul/21 | 60 | 80 | 100 | 120 |
-| 1/Aug/21 | 60 | 80 | 100 | 120 |
-| 1/Sep/21 | 60 | 80 | 100 | 120 |
-| 1/Oct/21 | 60 | 80 | 100 | 120 |
-| 1/Nov/21 | 60 | 80 | 100 | 120 |
-| 1/Dec/21 | 60 | 80 | 300 | 250 |
-| 1/Jan/22 | 60 | 80 | 280 | 240 |
-| 1/Feb/22 | 60 | 80 | 180 | 160 |
-| 1/Mar/22 | 60 | 80 | 200 | 180 |
-| 1/Apr/22 | 60 | 80 | 160 | 160 |
+> **Chart (not transcribed):** Tanker Market. The report prints no values for it.
 
 | Sector | Size | Apr-22 avg | Mar-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -202,41 +174,9 @@ In the Suezmax sector we had sale of the "BARI" (159,186dwt-blt '05, S. Korea), 
 |  | 32K 1yr TC | 23,000 | 25,750 | -10.7% | -2,750 | 18,354 | 8,356 |
 |  | 32K 3yr TC | 14,250 | 15,000 | -5.0% | -750 | 11,825 | 8,486 |
 
-## Baltic Indices
+> **Chart (not transcribed):** Baltic Indices. The report prints no values for it.
 
-| Date | BCI | BPI | BSI | BHSI | BDI |
-| --- | --- | --- | --- | --- | --- |
-| 1/Apr/21 | 2000 | 2500 | 2200 | 1500 | 2800 |
-| 1/May/21 | 4500 | 3000 | 2800 | 1600 | 4000 |
-| 1/Jun/21 | 3500 | 3200 | 3000 | 1700 | 3800 |
-| 1/Jul/21 | 3800 | 3400 | 3100 | 1800 | 4200 |
-| 1/Aug/21 | 4000 | 3600 | 3200 | 1900 | 4500 |
-| 1/Sep/21 | 5500 | 4000 | 3500 | 2000 | 5000 |
-| 1/Oct/21 | 9500 | 4500 | 3800 | 2100 | 10500 |
-| 1/Nov/21 | 2800 | 2900 | 2700 | 1800 | 2900 |
-| 1/Dec/21 | 3000 | 3100 | 2800 | 1700 | 3100 |
-| 1/Jan/22 | 2700 | 2800 | 2600 | 1600 | 2800 |
-| 1/Feb/22 | 2500 | 2600 | 2500 | 1500 | 2600 |
-| 1/Mar/22 | 2800 | 2900 | 2700 | 1600 | 2900 |
-| 1/Apr/22 | 3000 | 3000 | 2800 | 1700 | 3000 |
-
-## Average T/C Rates
-
-| Date | Average of the 5 T / C | AVR 5TC BPI | AVR 10TC BSI | AVR 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| 1/Apr/21 | 20000 | 22000 | 21000 | 18000 |
-| 1/May/21 | 40000 | 25000 | 24000 | 20000 |
-| 1/Jun/21 | 28000 | 26000 | 25000 | 21000 |
-| 1/Jul/21 | 32000 | 34000 | 30000 | 22000 |
-| 1/Aug/21 | 34000 | 33000 | 31000 | 23000 |
-| 1/Sep/21 | 36000 | 35000 | 32000 | 24000 |
-| 1/Oct/21 | 85000 | 36000 | 33000 | 24000 |
-| 1/Nov/21 | 34000 | 35000 | 32000 | 23000 |
-| 1/Dec/21 | 40000 | 34000 | 31000 | 22000 |
-| 1/Jan/22 | 22000 | 24000 | 25000 | 21000 |
-| 1/Feb/22 | 10000 | 20000 | 22000 | 19000 |
-| 1/Mar/22 | 28000 | 26000 | 25000 | 22000 |
-| 1/Apr/22 | 32000 | 32000 | 30000 | 24000 |
+> **Chart (not transcribed):** Average T/C Rates. The report prints no values for it.
 
 ## Chartering
 
@@ -385,41 +325,9 @@ In the Supramax sector we had the sale of the “AMOY ACTION” (56,874dwt-blt '
 
 Activity in the newbuilding market resumed last week, with a plethora of deals coming to light. For yet another week, we witnessed plenty of container newbuilding deals surfacing in the market, however, what caught our attention was the volume of dry bulk contracts; sixteen Ultramax vessels were inked, with ten of them being ordered from Chinese CITIC Group at DSIC yard. The six remaining were secured by Nantong Xiangyu yard, with HuaXia FL ordering two of them and Greek owner TMS Dry ordering the rest four. In addition, two firm plus two optional 40,000dwt units were ordered from Franbo Lines at Hakodate yard. LNG units were also present, with a total of four 175,000cbm units being added to the 2022 contracting order-book. Lastly, after almost two months of stagnant activity, an order of two firm plus two optional LR2 units emerged. More specifically, it came to light that Greek owner Metrostar inked a deal for the construction of the respective 115,000dwt units at Hyundai Vietnam yard for a price of around $63.0 million each.
 
-### Tankers Newbuilding Prices (m$)
+> **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
-| Date | VLCC | Suezmax | Aframax | LR1 | MR |
-| --- | --- | --- | --- | --- | --- |
-| 1/Apr/21 | 90 | 60 | 50 | 40 | 35 |
-| 1/May/21 | 92 | 62 | 51 | 41 | 36 |
-| 1/Jun/21 | 95 | 63 | 52 | 42 | 36 |
-| 1/Jul/21 | 98 | 64 | 53 | 43 | 37 |
-| 1/Aug/21 | 100 | 65 | 54 | 44 | 37 |
-| 1/Sep/21 | 102 | 66 | 55 | 45 | 38 |
-| 1/Oct/21 | 105 | 67 | 56 | 46 | 38 |
-| 1/Nov/21 | 108 | 68 | 57 | 47 | 39 |
-| 1/Dec/21 | 110 | 70 | 58 | 48 | 39 |
-| 1/Jan/22 | 112 | 71 | 59 | 49 | 40 |
-| 1/Feb/22 | 115 | 72 | 60 | 50 | 40 |
-| 1/Mar/22 | 118 | 73 | 61 | 51 | 41 |
-| 1/Apr/22 | 120 | 74 | 62 | 52 | 41 |
-
-### Bulk Carriers Newbuilding Prices (m$)
-
-| Date | Capesize | Kamsarmax | Ultramax | Handysize |
-| --- | --- | --- | --- | --- |
-| 1/Apr/21 | 52 | 28 | 26 | 22 |
-| 1/May/21 | 54 | 29 | 27 | 23 |
-| 1/Jun/21 | 56 | 30 | 28 | 24 |
-| 1/Jul/21 | 58 | 31 | 29 | 25 |
-| 1/Aug/21 | 60 | 32 | 30 | 26 |
-| 1/Sep/21 | 60 | 33 | 31 | 26 |
-| 1/Oct/21 | 60 | 33 | 32 | 27 |
-| 1/Nov/21 | 60 | 34 | 33 | 27 |
-| 1/Dec/21 | 60 | 34 | 34 | 28 |
-| 1/Jan/22 | 60 | 35 | 34 | 28 |
-| 1/Feb/22 | 60 | 35 | 35 | 28 |
-| 1/Mar/22 | 60 | 36 | 35 | 28 |
-| 1/Apr/22 | 60 | 36 | 36 | 29 |
+> **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
 ### Newbuilding Orders
 
@@ -458,41 +366,9 @@ Activity in the newbuilding market resumed last week, with a plethora of deals c
 
 Activity in the demolition sector was slow last week due to a very short supply of demo candidates in the market coupled with the ongoing Ramadan period. Competition among scrapyards remains intense with not a steady price board across the main Indian-subcontinent demo nations. Indeed, Bangladesh which was leading the course so far, has lost its primacy last week amidst decreased domestic steel plate prices and adequate inventory volume at yards. In contrast, steel prices in India experienced an upward trajectory. Breakers have increased their bids correspondingly, providing owners a very lucrative option even for conventional vessels which were traditionally destined to their neighboring competitors. In Pakistan, despite the ongoing economic disruption, breakers' bids continue in line with the overall subcontinent sentiment, having the leading role in the pricing board last week. Average prices in the different markets this week for tankers ranged between 460-670/ldt and those for dry bulk units between $450-660/ldt.
 
-### Tanker Demolition Prices
+> **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 1/Apr/21 | 470 | 460 | 475 | 250 |
-| 1/May/21 | 520 | 500 | 520 | 250 |
-| 1/Jun/21 | 540 | 530 | 535 | 275 |
-| 1/Jul/21 | 550 | 540 | 545 | 280 |
-| 1/Aug/21 | 580 | 560 | 570 | 285 |
-| 1/Sep/21 | 590 | 575 | 585 | 285 |
-| 1/Oct/21 | 600 | 590 | 595 | 290 |
-| 1/Nov/21 | 600 | 595 | 595 | 295 |
-| 1/Dec/21 | 595 | 560 | 590 | 295 |
-| 1/Jan/22 | 595 | 555 | 590 | 300 |
-| 1/Feb/22 | 595 | 555 | 590 | 330 |
-| 1/Mar/22 | 650 | 640 | 645 | 345 |
-| 1/Apr/22 | 660 | 650 | 655 | 450 |
-
-### Dry Bulk Demolition Prices
-
-| Date | Bangladesh | India | Pakistan | Turkey |
-| --- | --- | --- | --- | --- |
-| 1/Apr/21 | 470 | 460 | 475 | 250 |
-| 1/May/21 | 520 | 500 | 520 | 250 |
-| 1/Jun/21 | 540 | 530 | 535 | 275 |
-| 1/Jul/21 | 550 | 540 | 545 | 280 |
-| 1/Aug/21 | 580 | 560 | 570 | 285 |
-| 1/Sep/21 | 590 | 575 | 585 | 285 |
-| 1/Oct/21 | 600 | 590 | 595 | 290 |
-| 1/Nov/21 | 600 | 595 | 595 | 295 |
-| 1/Dec/21 | 595 | 560 | 590 | 295 |
-| 1/Jan/22 | 595 | 555 | 590 | 300 |
-| 1/Feb/22 | 595 | 555 | 590 | 330 |
-| 1/Mar/22 | 650 | 640 | 645 | 345 |
-| 1/Apr/22 | 660 | 650 | 655 | 450 |
+> **Chart (not transcribed):** Dry Bulk Demolition Prices. The report prints no values for it.
 
 | Demolition Sales |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
