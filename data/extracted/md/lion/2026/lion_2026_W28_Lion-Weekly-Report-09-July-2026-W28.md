@@ -75,7 +75,7 @@ comprehensive demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V YANGZE 905** | 93,217 | 2010 | JNS / China | $12.0M | Greek buyers (clients of Modion) | post-panamax, Eco m/e, old sale, at least 2-3 months old which now came to light, understand vsl already delivered to new owners. |
-| **M/V PENDULUM** | 82,619 | 2006 | Tsuneishi / Japan | $14.5M | Undisclosed | off market deal. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 470 - 480 480 - 490 500 firm INDIA 400 410 420 soft BANGLADESH 475 - 485 510 - 520 530 firm |
+| **M/V PENDULUM** | 82,619 | 2006 | Tsuneishi / Japan | $14.5M | Undisclosed | off market deal. |
 | **M/V EVEREST** | 57,480 | 2012 | STX / Korea | $16.5M | Chinese buyers | Sold for $ 16.5 mill to Chinese buyers. |
 | **M/V OCEAN HIRYU** | 52,982 | 2003 | Oshima / Japan | $7.9M | Undisclosed | should be old sale, offers invited 8th June 2026. |
 
@@ -114,7 +114,7 @@ comprehensive demometer below:
 
 - **M/V YANGZE 905**: M/V YANGZE 905 (93,217 dwt, blt 2010 JNS/China, CC ss due 12/2030 dd due 10/2028, 7 ho/7 ha, Everllence B&W 6S60MC-C) - Sold for $ 12 mill to Greek buyers (clients of Modion). note: post-panamax, Eco m/e, old sale, at least 2-3 months old which now came to light, understand vsl already delivered to new owners.
 
-- **M/V PENDULUM**: M/V PENDULUM (82,619 dwt, blt 2006 Tsuneishi/Japan, BV ss/dd due 10/2026, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 14.5 mill, note: off market deal. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 470 - 480 480 - 490 500 firm INDIA 400 410 420 soft BANGLADESH 475 - 485 510 - 520 530 firm
+- **M/V PENDULUM**: M/V PENDULUM (82,619 dwt, blt 2006 Tsuneishi/Japan, BV ss/dd due 10/2026, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 14.5 mill, note: off market deal.
 
 - **M/V EVEREST**: M/V EVEREST (57,480 dwt, blt 2012 STX/Korea, NK ss/dd due 08/2027, 5 ho/5 ha, 4 x 36t CR, B&W 6S50MC-C8) - Sold for $ 16.5 mill to Chinese buyers.
 

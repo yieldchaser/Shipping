@@ -259,19 +259,19 @@ def parse_deal_line(section, sub_section, text):
     en_bloc = bool(re.search(r'\ben\s+bloc\b', tail, re.I))
     # an en bloc price is printed per ship ("$ 125 mill each") or once for the whole block; the block case is
     # marked when the price is shared out to the other ships below (resolve en bloc)
-    price_basis = 'each' if re.search(r'mill\.?\s+each\b', tail, re.I) else ''
+    price_basis = 'each' if re.search(r'mil(?:l|lion)?\.?\s+each\b', tail, re.I) else ''
 
-    pm = re.search(r'\$\s*([\d,]+(?:\.\d+)?)\s*mill', tail, re.I)
+    pm = re.search(r'\$\s*([\d,]+(?:\.\d+)?)\s*mil(?:l|lion)?\b', tail, re.I)   # "mill", "mil", "million"
     if pm:
         price_usd_m = money(pm.group(1))
         price_raw = pm.group(0)
     else:
-        pm_nd = re.search(r'(?:Sold|Committed|region|excess)\s*(?:for\s+)?(?:region\s+)?\$?\s*([\d,]+(?:\.\d+)?)\s*mill', tail, re.I)
+        pm_nd = re.search(r'(?:Sold|Committed|region|excess)\s*(?:en\s+bloc\s+)?(?:for\s+)?(?:region\s+)?\$?\s*([\d,]+(?:\.\d+)?)\s*mil(?:l|lion)?\b', tail, re.I)
         if pm_nd:
             price_usd_m = money(pm_nd.group(1))
             price_raw = f"${price_usd_m}M"
         else:
-            p_lt = re.search(r'\$\s*([\d,]+(?:\.\d+)?)\s*(?:per\s*(?:LT|L\.?T\.?|LDT)|as-is)', tail, re.I)
+            p_lt = re.search(r'\$\s*([\d,]+(?:\.\d+)?)\s*(?:per\s*(?:LT|L\.?/?T\.?|LDT)|as-is)', tail, re.I)
             if p_lt:
                 price_per_lt = money(p_lt.group(1))
                 price_raw = p_lt.group(0)
@@ -352,9 +352,22 @@ def split_report_deals(text):
     section = 'BULKERS'
     sub_section = None
     cur_lines = []
+    in_demometer = False
 
     for ln in lines:
         up = ln.rstrip(':').strip().upper()
+        # the Demometer box sits between deals and prints one cell per line ("COUNTRY", "265-270", "stable"):
+        # skip it up to the page footer, the next vessel or the next section
+        if re.search(r'DEMOMETER', ln, re.I):
+            in_demometer = True
+            continue
+        if in_demometer:
+            if re.search(r'Lion Research & Valuations', ln):   # page footer (the © may decode as U+FFFD)
+                in_demometer = False
+                continue
+            if not (VESSEL_LINE.match(ln) or up in SECTION_TOP or (section == 'DEMOLITION' and up in SUB_LABELS)):
+                continue
+            in_demometer = False
         if section == 'DEMOLITION' and up in SUB_LABELS:
             if cur_lines:
                 records.append((section, sub_section, ' '.join(cur_lines)))

@@ -74,7 +74,7 @@ demolition market rates, please check our comprehensive demometer below:
 | **M/V GCL HAZIRA** | 81,986 | 2021 | NACKS / China | $39.0M | German buyers | eco NACKS kamsarmax, surveys freshly passed. |
 | **M/V BABITONGA** | 81,770 | 2019 | Tsuneishi / Japan | $38.5M | Undisclosed | Sold for $ 38.5 mill Taiwanese buyers (clients of Sincere) basis delivery min Oct 26- max Feb 27 Spore/Jpn range. |
 | **M/V MOON** | 80,505 | 2012 | STX / Korea | $18.0M | Undisclosed | Sold for $ 18 mill. |
-| **M/V GOOD HOPE MAX** | 76,739 | 2005 | Sasebo / Japan | $12.5M | Chinese buyers | grain trader. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 300 310 320 stable PAKISTAN 470 - 480 500 - 510 530 - 535 stable INDIA 460 - 470 480 - 490 490 - 500 improved BANGLADESH 480 - 490 510 - 515 520 - 525 stable |
+| **M/V GOOD HOPE MAX** | 76,739 | 2005 | Sasebo / Japan | $12.5M | Chinese buyers | grain trader. |
 | **M/V AH GLOBE** | 74,432 | 2005 | Hudong / China | $11.5M | Undisclosed | Sold for $ 11.5 mill basis delivery November - December 2026. |
 | **M/V EURO BAND** | 58,761 | 2009 | Tsuneishi Cebu / Philippines | $15.5M | Undisclosed | Sold for $ 15.5 mill. |
 | **M/V PROMETHEUS** | 55,415 | 2012 | Hyundai-Vinashin / Vietnam | $19.0M | Greek buyers | Sold for $ 19 mill to Greek buyers. |
@@ -108,8 +108,8 @@ demolition market rates, please check our comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **C/V COSCO HAMBURG** | 69,193 | 2001 | Kawasaki / Japan | - | Undisclosed | - |
-| **C/V COSCO FELIXSTOWE** | 69,107 | 2002 | NACKS / China | - | Undisclosed | offers invited 21 September 2026. |
+| **C/V COSCO HAMBURG** | 69,193 | 2001 | Kawasaki / Japan | $32.0M each | Undisclosed | - |
+| **C/V COSCO FELIXSTOWE** | 69,107 | 2002 | NACKS / China | $32.0M each | Undisclosed | offers invited 21 September 2026. |
 
 
 ## Demolition Sales
@@ -128,7 +128,7 @@ demolition market rates, please check our comprehensive demometer below:
 
 - **M/V MOON**: M/V MOON (80,505 dwt, blt 2012, STX/Korea, NV ss/dd due 02/2027, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 18 mill.
 
-- **M/V GOOD HOPE MAX**: M/V GOOD HOPE MAX (76,739 dwt, blt 2005 Sasebo/Japan, BV ss due 03/2030 dd due 02/2028, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 12.5 mill to Chinese buyers basis surveys passed in 2025, note: grain trader. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 300 310 320 stable PAKISTAN 470 - 480 500 - 510 530 - 535 stable INDIA 460 - 470 480 - 490 490 - 500 improved BANGLADESH 480 - 490 510 - 515 520 - 525 stable
+- **M/V GOOD HOPE MAX**: M/V GOOD HOPE MAX (76,739 dwt, blt 2005 Sasebo/Japan, BV ss due 03/2030 dd due 02/2028, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 12.5 mill to Chinese buyers basis surveys passed in 2025, note: grain trader.
 
 - **M/V AH GLOBE**: M/V AH GLOBE (74,432 dwt, blt 2005 Hudong/China, NK ss due 11/2030 dd due 01/2029, 7 ho/7 ha, B&W 5S60MC-C) - Sold for $ 11.5 mill basis delivery November - December 2026.
 

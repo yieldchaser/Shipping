@@ -64,7 +64,7 @@ comprehensive demometer below:
 | **M/V LEVANTE** | 93,207 | 2012 | Jiangsu Newyangzi / China | $15.6M | Undisclosed | post-panamax, one-year older OCEAN ARTEMIS (93.1k blt 2011 Jinling/China) sold last week for $ 15 mill basis surveys passed. |
 | **M/V MONT BLANC HAWK** | 81,638 | 2017 | Imabari / Japan | $32.0M | Undisclosed | Eco Kamsarmax, Japanese auction style sale, offers invited 16th June 2026. |
 | **M/V MARVEL I** | 79,200 | 2011 | COSCO Dalian / China | $13.0M | Chinese buyers | geared panamax, old sale that now came to light, already trading as Xin Tai Long. |
-| **M/V MARINICKI C** | 76,629 | 2005 | Imabari / Japan | $11.5M | Chinese buyers | softer level compared to last week's reported sale of PROTEAS (76.5k blt 2005 Tsuneishi/Japan) for region $ 11.85 - $ 12.1 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 260 280 290-300 soft PAKISTAN 480 510-515 525-530 stable INDIA 410 420 430 negative BANGLADESH 490 510-515 530 strong |
+| **M/V MARINICKI C** | 76,629 | 2005 | Imabari / Japan | $11.5M | Chinese buyers | softer level compared to last week's reported sale of PROTEAS (76.5k blt 2005 Tsuneishi/Japan) for region $ 11.85 - $ 12.1 mill. |
 | **M/V OCEAN BRIGHT** | 56,032 | 2013 | Mitsui / Japan | $19.2M | Undisclosed | increased price compared to three years older sister SANTA RITA (56k blt 2010 Mitsui/Japan) reported sold last week for $17. 2 mill. |
 | **M/V DATO LUCKY** | 56,881 | 2011 | Kouan / China | $13.5M | Undisclosed | Sold for $13.5 mill basis surveys passed. |
 | **M/V SHINSUNG ACCORD** | 37,063 | 2015 | Saiki / Japan | $18.0M | Undisclosed | offers invited 15th June 20206 COB Korea, Open Hatch-Box Shaped, non-eco m/e (MC Eng), new benchmark sale. |
@@ -116,7 +116,7 @@ comprehensive demometer below:
 
 - **M/V MARVEL I**: M/V MARVEL I (79,200 dwt, blt 2011 COSCO Dalian/China, NV ss/dd due 05/2026, 7 ho/7 ha, 4 x 35t CR, B&W 7S50MC-C) - Sold for region low $ 13 mill to Chinese buyers, note: geared panamax, old sale that now came to light, already trading as Xin Tai Long.
 
-- **M/V MARINICKI C**: M/V MARINICKI C (76,629 dwt, blt 2005 Imabari/Japan, NK ss due 04/2030 dd due 04/2028, 7 ho/7 ha, B&W 6S60MC) - Sold for $ 11.5 mill to Chinese buyers, note: softer level compared to last week's reported sale of PROTEAS (76.5k blt 2005 Tsuneishi/Japan) for region $ 11.85 - $ 12.1 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 260 280 290-300 soft PAKISTAN 480 510-515 525-530 stable INDIA 410 420 430 negative BANGLADESH 490 510-515 530 strong
+- **M/V MARINICKI C**: M/V MARINICKI C (76,629 dwt, blt 2005 Imabari/Japan, NK ss due 04/2030 dd due 04/2028, 7 ho/7 ha, B&W 6S60MC) - Sold for $ 11.5 mill to Chinese buyers, note: softer level compared to last week's reported sale of PROTEAS (76.5k blt 2005 Tsuneishi/Japan) for region $ 11.85 - $ 12.1 mill.
 
 - **M/V OCEAN BRIGHT**: M/V OCEAN BRIGHT (56,032 dwt, blt 2013 Mitsui/Japan, NK ss due 08/2028 dd due 07/2026, 5 ho/5 ha, 4 x 30t CR, B&W 6S50MC-C) - Sold for $ 19.2 mill basis delivery Aug-early Sept far East, note: increased price compared to three years older sister SANTA RITA (56k blt 2010 Mitsui/Japan) reported sold last week for $17. 2 mill.
 

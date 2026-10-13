@@ -268,7 +268,7 @@
         "price_raw": "$ 12.5 mill",
         "en_bloc": false,
         "buyer": "Chinese buyers",
-        "comments": "grain trader. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 300 310 320 stable PAKISTAN 470 - 480 500 - 510 530 - 535 stable INDIA 460 - 470 480 - 490 490 - 500 improved BANGLADESH 480 - 490 510 - 515 520 - 525 stable"
+        "comments": "grain trader."
       },
       {
         "issue_date": "2026-10-02",
@@ -378,9 +378,9 @@
         "class": "LR",
         "ss_due": "10/2026",
         "dd_due": "10/2026",
-        "price_usd_m": null,
-        "price_raw": null,
-        "en_bloc": false,
+        "price_usd_m": 32.0,
+        "price_raw": "$32.0M",
+        "en_bloc": true,
         "buyer": null,
         "comments": ""
       },
@@ -397,8 +397,8 @@
         "class": "LR",
         "ss_due": "04/2027",
         "dd_due": "04/2027",
-        "price_usd_m": null,
-        "price_raw": null,
+        "price_usd_m": 32.0,
+        "price_raw": "$32.0M",
         "en_bloc": true,
         "buyer": null,
         "comments": "offers invited 21 September 2026."

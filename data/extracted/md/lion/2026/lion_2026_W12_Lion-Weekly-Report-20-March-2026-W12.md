@@ -64,7 +64,7 @@ demolition market rates, please check our comprehensive demometer below:
 | **M/V BARWON** | 78,182 | 2015 | Sasebo / Japan | $26.0M | Undisclosed | offers were invited 16th March 2026. |
 | **M/V PAPA JOHN** | 56,543 | 2010 | Qingshan / China | $13.2M | Chinese buyers | Sold for $ 13.2 mill to Chinese buyers basis surveys due. |
 | **M/V SIDER IMABARI** | 40,320 | 2024 | Shimanami / Japan | $34.8M | Turkish buyers | Sold for $ 34.8 mill to Turkish buyers. |
-| **M/V SIGMA PIONEER** | 32,613 | 2011 | JNS / China | $8.75M | Undisclosed | Bestway 32 design. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 stable PAKISTAN 420-425 430-435 440-445 positive INDIA 420 430 440 positive BANGLADESH 430 440 450 firm |
+| **M/V SIGMA PIONEER** | 32,613 | 2011 | JNS / China | $8.75M | Undisclosed | Bestway 32 design. |
 
 
 ### Tankers
@@ -116,7 +116,7 @@ demolition market rates, please check our comprehensive demometer below:
 
 - **M/V SIDER IMABARI**: M/V SIDER IMABARI (40,320 dwt, blt 2024 Shimanami/Japan, RINA ss due 02/2029 dd due 02/2027, 5 ho/5 ha, 4 x 30.7t CR, J-ENG 6UEC42LSH-EcoD3) - Sold for $ 34.8 mill to Turkish buyers.
 
-- **M/V SIGMA PIONEER**: M/V SIGMA PIONEER (32,613 dwt, blt 2011 JNS/China, KR ss/dd due 01/2026, 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S42MC, 3 x gens) - Sold for $ 8.75 mill basis surveys due, note: Bestway 32 design. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 stable PAKISTAN 420-425 430-435 440-445 positive INDIA 420 430 440 positive BANGLADESH 430 440 450 firm
+- **M/V SIGMA PIONEER**: M/V SIGMA PIONEER (32,613 dwt, blt 2011 JNS/China, KR ss/dd due 01/2026, 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S42MC, 3 x gens) - Sold for $ 8.75 mill basis surveys due, note: Bestway 32 design.
 
 ### Container / MPP / Tween
 

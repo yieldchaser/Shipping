@@ -62,7 +62,7 @@ demometer below:
 | **M/V "ORNAK"** | - | - | - | $11.35M | undisclosed buyers | ABT 79,677 dwt, blt 2010 New Century /China, NV ss due 15/09 dd due 21/09, 7 HO/7 HA , MAN B&W 7S50MC-C Sold to undisclosed buyers for $ 11.35 mill |
 | **M/V "MAJORCA"** | - | - | - | $7.75M | undisclosed buyers | scrubber fitted, surveys due |
 | **M/V CMB BRUEGEL" - 63,667 dwt, blt 2021 Shin Kasado/Japan, NK  ss due 08/02 dd due 08/02, 5 HO/5 HA, MAN B&W 6S50ME-B9 10 Sold to Bangladeshi buyers** | - | - | - | $32.5M | Undisclosed | for $ 32.5 mill |
-| **M/V "ETERNITY SW"** | - | - | - | $15.0M | Chinese buyers | 58,098 dwt, blt 2011 Tsuneishi Cebu /Philippines, BV ss/dd due 02/2026, 5 HO/5 HA, MAN B&W 6S50MC-C Sold to Chinese buyers for $ 15 mill COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 soft PAKISTAN 400 410 - 415 410 - 415 soft INDIA 380 - 385 400 - 405 410 - 415 soft BANGLADESH 390 - 400 410-420 410-420 soft |
+| **M/V "ETERNITY SW"** | - | - | - | $15.0M | Chinese buyers | 58,098 dwt, blt 2011 Tsuneishi Cebu /Philippines, BV ss/dd due 02/2026, 5 HO/5 HA, MAN B&W 6S50MC-C Sold to Chinese buyers for $ 15 mill |
 | **M/V "KN FUTURE"** | - | - | - | $18.3M | undisclosed buyers | understand that 10 buyers bought the inspection report and competed |
 | **M/V "KARADENIZ S"** | - | - | - | $14.25M | Middle Eastern buyers | 57,157 dwt, blt 2012 STX Jinhae /S. Korea, RINA, 5 HO/5 HA , MAN B&W 6S50MC-C 12 Sold to Middle Eastern buyers for $ 14.25 mill |
 | **M/V "INCE EGE"** | - | - | - | $12.8M | undisclosed buyers | 57,373 dwt, blt 2010 STX Dalian /China, AB  ss due 04/2030 dd due 04/2025, 5 HO/5 HA, MAN B&W 6S50MC-C Sold to undisclosed buyers for $ 12.80 mill |
@@ -121,7 +121,7 @@ demometer below:
 
 - **M/V CMB BRUEGEL" - 63,667 dwt, blt 2021 Shin Kasado/Japan, NK  ss due 08/02 dd due 08/02, 5 HO/5 HA, MAN B&W 6S50ME-B9 10 Sold to Bangladeshi buyers**: M/V CMB BRUEGEL" - 63,667 dwt, blt 2021 Shin Kasado/Japan, NK  ss due 08/02 dd due 08/02, 5 HO/5 HA, MAN B&W 6S50ME-B9 10 Sold to Bangladeshi buyers (clients of Meghna) for $ 32.5 mill
 
-- **M/V "ETERNITY SW"**: M/V "ETERNITY SW" 58,098 dwt, blt 2011 Tsuneishi Cebu /Philippines, BV ss/dd due 02/2026, 5 HO/5 HA, MAN B&W 6S50MC-C Sold to Chinese buyers for $ 15 mill COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 soft PAKISTAN 400 410 - 415 410 - 415 soft INDIA 380 - 385 400 - 405 410 - 415 soft BANGLADESH 390 - 400 410-420 410-420 soft
+- **M/V "ETERNITY SW"**: M/V "ETERNITY SW" 58,098 dwt, blt 2011 Tsuneishi Cebu /Philippines, BV ss/dd due 02/2026, 5 HO/5 HA, MAN B&W 6S50MC-C Sold to Chinese buyers for $ 15 mill
 
 - **M/V "KN FUTURE"**: M/V "KN FUTURE" 57,999 dwt, blt 2013 Tsuneishi Cebu /Philippines, NK  ss due 21/10 dd due 06/11, 5 HO/5 HA ,MAN B&W 6S50MC-C 11 Sold to undisclosed buyers for either $ 18.3 mill -or- $ 18.75 mill, note: understand that 10 buyers bought the inspection report and competed
 

@@ -64,7 +64,7 @@ below:
 | **M/V JOY** | 81,096 | 2019 | Chengxi / China | $31.0M | Undisclosed | Tier II, increased price compared to early January's sale of similar unit SEACON SHANGHAI (80,811 dwt blt 2019 CSSC/China) for $ 26.7 mill. |
 | **M/V HC PIONEER** | 83,476 | 2010 | Sanoyas / Japan | $17.8M | Undisclosed | increased price compared to late January's sale of one-year older similar unit CRETANSEA (81,508 dwt blt 2009 Universal/Japan) for $ 15.15 mill. |
 | **M/V JIN CHAO** | 63,518 | 2014 | Hantong / China | $25.1M | Undisclosed | eco m/e, increased price compared to late March's sale of exact sister JIN RUI for $ 24 mill. |
-| **M/V CRIMSON KNIGHT** | 58,651 | 2013 | NACKS / China | $19.1M | Undisclosed | offers invited 11th May 2026. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 firm INDIA 420 430 440 soft BANGLADESH 460 470 490 soft |
+| **M/V CRIMSON KNIGHT** | 58,651 | 2013 | NACKS / China | $19.1M | Undisclosed | offers invited 11th May 2026. |
 | **M/V SETY** | 55,753 | 2010 | IHI / Japan | $16.1M | Undisclosed | Wartsila m/e, price in line with late April's sale of similar unit SEA CREDENCE (55640 dwt blt 2010 Mitsui/Japan) for $ 16 mill. |
 | **M/V SUMAQ QUEEN** | 51,052 | 2017 | Imabari / Japan | $25.0M | Greek buyers | Open hatch/Box shaped, eco m/e. |
 | **M/V AMBER S** | 47,282 | 2000 | Oshima / Japan | $5.9M | Syrian buyers | old sale that now came to light, understand concluded in April. |
@@ -117,7 +117,7 @@ below:
 
 - **M/V JIN CHAO**: M/V JIN CHAO (63,518 dwt, blt 2014 Hantong/China, BV ss due 06/2029 dd due 06/2027, 5 ho/5 ha, 4 x 30t CR, MAN B&W 5S60ME-C8) - Sold for $ 25.1 mill note: eco m/e, increased price compared to late March's sale of exact sister JIN RUI for $ 24 mill.
 
-- **M/V CRIMSON KNIGHT**: M/V CRIMSON KNIGHT (58,651 dwt, blt 2013 NACKS/China, NK ss/dd due 01/2028, 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S50MC-C8) - Sold for $ 19.1 mill basis ch.free dely mid-June to August, note: offers invited 11th May 2026. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 firm INDIA 420 430 440 soft BANGLADESH 460 470 490 soft
+- **M/V CRIMSON KNIGHT**: M/V CRIMSON KNIGHT (58,651 dwt, blt 2013 NACKS/China, NK ss/dd due 01/2028, 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S50MC-C8) - Sold for $ 19.1 mill basis ch.free dely mid-June to August, note: offers invited 11th May 2026.
 
 - **M/V SETY**: M/V SETY (55,753 dwt, blt 2010 IHI/Japan, NK ss due 04/2030 dd due 01/2028, 5 ho/5 ha, 4 x 35t CR, Wartsila 6RT-flex50) - Sold for $ 16.1 mill. note: Wartsila m/e, price in line with late April's sale of similar unit SEA CREDENCE (55640 dwt blt 2010 Mitsui/Japan) for $ 16 mill.
 

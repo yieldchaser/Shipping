@@ -74,7 +74,7 @@ week, please check our comprehensive demometer below:
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V BULK SAO PAULO** | 208,445 | 2020 | New Times / China | $72.75M | Belgian buyers | Eco Newcastlemax, scrubber fitted, ss/dd passed June 2025 |
 | **M/V SAMC MG** | 206,180 | 2006 | Imabari / Japan | $25.0M | Chinese buyers (clients of Jiangsu Steamship) | Newcastlemax |
-| **M/V MINERAL SUBIC** | 179,397 | 2011 | Hanjin / S. Korea | - | Undisclosed | sold for $30.25 mil to Chinese buyers COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 350 300 firm PAKISTAN 405 415 420 stable INDIA 360 370-380 390-400 negative BANGLADESH 400 410 425-430 negative |
+| **M/V MINERAL SUBIC** | 179,397 | 2011 | Hanjin / S. Korea | $30.25M | Chinese buyers | sold for $30.25 mil to Chinese buyers |
 | **M/V AP POWER** | 173,541 | 2006 | Bohai / China | $14.5M | undisclosed buyers | sold for $14.5 mill basis ss/dd freshly passed to undisclosed buyers |
 | **M/V PALAIS** | 75,434 | 2014 | Rongsheng / China | $14.4M | undisclosed buyers | sold for $14.4 mill to undisclosed buyers |
 | **M/V BEAUTY JASMINE** | 63,638 | 2015 | China Shipping Industry / China | $22.5M | Undisclosed | end of last month exact sister "Beauty Lily" was reported sold for similar level |
@@ -119,7 +119,7 @@ week, please check our comprehensive demometer below:
 
 - **M/V SAMC MG**: M/V SAMC MG (206,180 dwt, blt 2006 Imabari/Japan, CCS ss/dd due 10/2026, 9ho/9ha, B&W 6S70MC-C) - sold for region $24-$25 mill to Chinese buyers (clients of Jiangsu Steamship) basis delivery December 2025- January 2026, note: Newcastlemax
 
-- **M/V MINERAL SUBIC**: M/V MINERAL SUBIC (179,397 dwt, blt 2011 Hanjin/S. Korea, RI, ss/dd due 05/2026, 9ho/9ha, B&W 6S70MC-C8) - sold for $30.25 mil to Chinese buyers COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 350 300 firm PAKISTAN 405 415 420 stable INDIA 360 370-380 390-400 negative BANGLADESH 400 410 425-430 negative
+- **M/V MINERAL SUBIC**: M/V MINERAL SUBIC (179,397 dwt, blt 2011 Hanjin/S. Korea, RI, ss/dd due 05/2026, 9ho/9ha, B&W 6S70MC-C8) - sold for $30.25 mil to Chinese buyers
 
 - **M/V AP POWER**: M/V AP POWER (173,541 dwt, blt 2006 Bohai/China, NK, ss/dd due 09/2026, 9ho/9ha, WARTSILA 6RTA68T- B) - sold for $14.5 mill basis ss/dd freshly passed to undisclosed buyers
 

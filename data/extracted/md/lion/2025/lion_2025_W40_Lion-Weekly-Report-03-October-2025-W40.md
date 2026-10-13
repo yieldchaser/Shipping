@@ -93,7 +93,7 @@ market rates this week, please check our comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **C/V OOCL BRAZIL** | 90,414 | 2010 | Mitsubishi / Japan | $75.7M en bloc | clients of ONE (Ocean Network Express) | COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 270-280 270-280 stable PAKISTAN 425-430 435-440 435-440 soft INDIA 410-415 420 440 positive BANGLADESH 420-425 435 440-445 slow |
+| **C/V OOCL BRAZIL** | 90,414 | 2010 | Mitsubishi / Japan | $75.7M en bloc | clients of ONE (Ocean Network Express) | - |
 | **C/V OOCL DURBAN** | 90,079 | 2011 | Mitsubishi / Japan | $75.7M en bloc | clients of ONE (Ocean Network Express) | sold en bloc for $75.7 mill & $79.3 mill respectively to clients of ONE (Ocean Network Express) |
 | **C/V CNC JUPITER** | 22,081 | 2020 | - | $36.0M | undisclosed buyers | sold for $36 mill to undisclosed buyers |
 | **C/V ASIATIC SUN** | 12,774 | 2008 | Dae Sun / S.Korea | - | undisclosed buyers | , gearless - sold to undisclosed buyers |
@@ -128,7 +128,7 @@ market rates this week, please check our comprehensive demometer below:
 
 ### Container / MPP / Tween
 
-- **C/V OOCL BRAZIL**: C/V OOCL BRAZIL (90,414 dwt, blt 2010 Mitsubishi/Japan, NK ss due 05/2030 dd due 06/2028, Teu 8540, Reefer plugs 630, MAN B&W 11K98MC-C) COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 270-280 270-280 stable PAKISTAN 425-430 435-440 435-440 soft INDIA 410-415 420 440 positive BANGLADESH 420-425 435 440-445 slow
+- **C/V OOCL BRAZIL**: C/V OOCL BRAZIL (90,414 dwt, blt 2010 Mitsubishi/Japan, NK ss due 05/2030 dd due 06/2028, Teu 8540, Reefer plugs 630, MAN B&W 11K98MC-C)
 
 - **C/V OOCL DURBAN**: C/V OOCL DURBAN (90,079 dwt, blt 2011 Mitsubishi/Japan, NK ss/dd due 08/2026, Teu Teu 8476, Reefer plugs 622, B&W 11K98MC-C) - sold en bloc for $75.7 mill & $79.3 mill respectively to clients of ONE (Ocean Network Express)
 

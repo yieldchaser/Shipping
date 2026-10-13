@@ -67,7 +67,7 @@ demometer below:
 | **M/V JIN RUI** | 63,800 | 2014 | Hantong / China | $24.0M | Hong Kong buyers (clients of HuaYa) | Sold for $ 24 mill to Hong Kong buyers (clients of HuaYa). |
 | **M/V EASTERN JUNIPER** | 61,185 | 2022 | NACKS / China | $34.3M | Undisclosed | Sold for $ 34.3 mill basis delivery March/June 2026. |
 | **M/V XO COPENHAGEN** | 58,107 | 2010 | Tsuneishi Zhoushan / China | $16.3M | Chinese buyers | Sold for $ 16.3 mill to Chinese buyers. |
-| **M/V FIGEAC** | 53,177 | 2011 | Chengxi / China | $11.9M | Undisclosed | Diamond 53 design. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 stable PAKISTAN 430 445 455-460 firm INDIA 430 450 460 firm BANGLADESH 450 470 490 firm |
+| **M/V FIGEAC** | 53,177 | 2011 | Chengxi / China | $11.9M | Undisclosed | Diamond 53 design. |
 | **M/V STAMFORD PIONEER** | 32,211 | 2012 | Maple Leaf / China | $8.5M | Undisclosed | box-shaped and logs-fitted. |
 
 
@@ -112,7 +112,7 @@ demometer below:
 
 - **M/V XO COPENHAGEN**: M/V XO COPENHAGEN (58,107 dwt, blt 2010 Tsuneishi Zhoushan/China, NK ss due 04/2030 dd due 03/2028, 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S50MC-C) - Sold for $ 16.3 mill to Chinese buyers.
 
-- **M/V FIGEAC**: M/V FIGEAC (53,177 dwt, blt 2011 Chengxi/China, CC ss/dd due 04/2026, 5 ho/5 ha, 4 x 36t CR, MAN B&W 6S50MC-C) - Sold for $ 11.9 mill, note: Diamond 53 design. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 stable PAKISTAN 430 445 455-460 firm INDIA 430 450 460 firm BANGLADESH 450 470 490 firm
+- **M/V FIGEAC**: M/V FIGEAC (53,177 dwt, blt 2011 Chengxi/China, CC ss/dd due 04/2026, 5 ho/5 ha, 4 x 36t CR, MAN B&W 6S50MC-C) - Sold for $ 11.9 mill, note: Diamond 53 design.
 
 - **M/V STAMFORD PIONEER**: M/V STAMFORD PIONEER (32,211 dwt, blt 2012 Maple Leaf/China, NK ss due 01/2027 dd due 01/2027, 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S42MC, 3 x gens) - Sold for $ 8.5 mill, note: box-shaped and logs-fitted.
 

@@ -184,7 +184,7 @@
         "price_raw": "$ 10.5 mill",
         "en_bloc": false,
         "buyer": "Middle Eastern buyers (LDT is 20985 lt",
-        "comments": "Sold for $ 10.5 mill to Middle Eastern buyers (LDT is 20985 lt, price translates to region $500 per lt) COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 270-280 290-295 305-310 stable PAKISTAN 380 390-400 410 soft INDIA 380 390-400 410 soft BANGLADESH 400 415 425-430 down"
+        "comments": "Sold for $ 10.5 mill to Middle Eastern buyers (LDT is 20985 lt, price translates to region $500 per lt)"
       },
       {
         "issue_date": "2025-12-18",
@@ -351,10 +351,10 @@
         "class": "ABS",
         "ss_due": "08/2026",
         "dd_due": "08/2026",
-        "price_usd_m": null,
-        "price_raw": null,
-        "en_bloc": false,
-        "buyer": null,
+        "price_usd_m": 17.0,
+        "price_raw": "$17.0M",
+        "en_bloc": true,
+        "buyer": "Swiss buyers (hearing clients of MSC)",
         "comments": ""
       },
       {
@@ -370,8 +370,8 @@
         "class": "ABS",
         "ss_due": "03/2028",
         "dd_due": "02/2026",
-        "price_usd_m": null,
-        "price_raw": null,
+        "price_usd_m": 17.0,
+        "price_raw": "$17.0M",
         "en_bloc": true,
         "buyer": "Swiss buyers (hearing clients of MSC)",
         "comments": "Sold en bloc for 17 mill each to Swiss buyers (hearing clients of MSC)"

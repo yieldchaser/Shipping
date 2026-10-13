@@ -76,7 +76,7 @@ demometer below:
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V YASA TEAM** | 75,621 | 2006 | Sanoyas / Japan | $9.1M | undisclosed buyers | sold for region $9.1 mill to undisclosed buyers |
 | **M/V ANTHOS** | 75,120 | 2001 | Hitachi / Japan | $5.3M | Chinese buyers | price translates to $495 per lt |
-| **M/V XCL GEMINI** | - | - | - | $38.35M | Bangladeshi buyers | Tier 3 COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 350 300 stable PAKISTAN 400-410 410 415 stable INDIA 370 - 380 400 410 soft BANGLADESH 400 435 445 stable |
+| **M/V XCL GEMINI** | - | - | - | $38.35M | Bangladeshi buyers | Tier 3 |
 | **M/V XIANG HANG 57** | 63,500 | - | - | $33.0M | Greek buyers | Dolphin 64 new design, scrubber fitted, eco m/e |
 | **M/V DIONISIS** | 63,480 | 2019 | I-S / Japan | $31.0M | Undisclosed | rumoured committed region $30.5-$31 mill |
 | **M/V ATACAMA QUEEN** | 51,213 | 2011 | Imabari / Japan | $14.5M | Undisclosed | open hatch box shaped |
@@ -121,7 +121,7 @@ demometer below:
 
 - **M/V ANTHOS**: M/V ANTHOS (75,120 dwt, blt 2001 Hitachi/Japan, NK ss/dd due 01/2026, 7ho/7ha, B&W 6S60MC, LDT 10,718) - sold for $5.3 mill to Chinese buyers basis surveys due, note: price translates to $495 per lt
 
-- **M/V XCL GEMINI**: M/V XCL GEMINI (Hull no NY635-03) (63,777 dwt, blt Aug/2025 Jingjiang Nan Yang Shipyard /China, LR, 5ho/5ha, Cr 4x30t, MAN 6G50ME-C9.6（Tier III HP SCR & EGB) - sold as newbuilding resale for $38.35 mill to Bangladeshi buyers, note: Tier 3 COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 350 300 stable PAKISTAN 400-410 410 415 stable INDIA 370 - 380 400 410 soft BANGLADESH 400 435 445 stable
+- **M/V XCL GEMINI**: M/V XCL GEMINI (Hull no NY635-03) (63,777 dwt, blt Aug/2025 Jingjiang Nan Yang Shipyard /China, LR, 5ho/5ha, Cr 4x30t, MAN 6G50ME-C9.6（Tier III HP SCR & EGB) - sold as newbuilding resale for $38.35 mill to Bangladeshi buyers, note: Tier 3
 
 - **M/V XIANG HANG 57**: M/V XIANG HANG 57 (63,500 dwt, blt May 2025 Sainty/China, CC ss due 04/2030 dd due 04/2028, 5ho/5ha, Cr 4x30t, J-ENG 6UEC50LSH-ECOC2) - sold for $33 mill to Greek buyers, note: Dolphin 64 new design, scrubber fitted, eco m/e
 

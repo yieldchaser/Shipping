@@ -66,7 +66,7 @@ our comprehensive demometer below:
 | **M/V DIAMANTINA** | 82,139 | 2010 | Tsuneishi Zhoushan / China | $19.0M | Middle Eastern buyers | dd passed April 2025, hull energy devises fitted: rudder bulb & stern fins. |
 | **M/V JOHN M CARRAS** | 82,057 | 2012 | DSME / S. Korea | $18.2M | Greek buyers (clients of Bright Navigation) | Sold for $ 18.2 mill to Greek buyers (clients of Bright Navigation). |
 | **M/V XIN DONG GUAN 13** | 76,116 | 2012 | Hudong / China | $15.2M | Undisclosed | Sold for $ 15.2 mill. |
-| **M/V TAILWINDS** | 73,624 | 2004 | Jiangnan / China | $8.5M | Undisclosed | Sold for $ 8.5 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 275-280 290-300 stable PAKISTAN 450 460 470 firm INDIA 450 460 470 firm BANGLADESH 485-490 500 510-515 firm |
+| **M/V TAILWINDS** | 73,624 | 2004 | Jiangnan / China | $8.5M | Undisclosed | Sold for $ 8.5 mill. |
 | **M/V PLATON** | 58,502 | 2011 | SPP / S. Korea | $15.4M | Chinese buyers | Sold for $ 15.4 mill to Chinese buyers. |
 | **M/V AQUAVITA BAY** | 55,757 | 2014 | JMU / Japan | $20.0M | Undisclosed | electronic m/e. |
 | **M/V MERCURY OCEAN** | 53,452 | 2008 | Iwagi / Japan | $13.0M | Chinese buyers | dd freshly passed. |
@@ -112,7 +112,7 @@ our comprehensive demometer below:
 
 | Vessel | Type | DWT | LDT | Built | Yard | Price ($/LT) | Destination | Comments / Terms |
 |:---|:---|---:|---:|:---:|:---|:---|:---|:---|
-| **M/V OCEAN ROSEMARY** | Bulkers | 43,769 | - | 1996 | Daewoo / S. Korea | - | Bangladesh | Demo for $ 470 per L/T to BANGLADESH. |
+| **M/V OCEAN ROSEMARY** | Bulkers | 43,769 | - | 1996 | Daewoo / S. Korea | $470/lt | Bangladesh | Demo for $ 470 per L/T to BANGLADESH. |
 
 
 ## Deal Narratives & Commercial Details
@@ -131,7 +131,7 @@ our comprehensive demometer below:
 
 - **M/V XIN DONG GUAN 13**: M/V XIN DONG GUAN 13 (76,116 dwt, blt 2012 Hudong/China, CC ss/dd due 01/2027, 7 ho/7 ha, MAN B&W 5S60MC-C) - Sold for $ 15.2 mill.
 
-- **M/V TAILWINDS**: M/V TAILWINDS (73,624 dwt, blt 2004 Jiangnan/China, BV ss due 08/2029 dd due 11/2027, 7 ho/7 ha, B&W 5S60MC) - Sold for $ 8.5 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 275-280 290-300 stable PAKISTAN 450 460 470 firm INDIA 450 460 470 firm BANGLADESH 485-490 500 510-515 firm
+- **M/V TAILWINDS**: M/V TAILWINDS (73,624 dwt, blt 2004 Jiangnan/China, BV ss due 08/2029 dd due 11/2027, 7 ho/7 ha, B&W 5S60MC) - Sold for $ 8.5 mill.
 
 - **M/V PLATON**: M/V PLATON (58,502 dwt, blt 2011 SPP/S. Korea, AB ss/dd due 08/2026, 5 ho/5 ha, 4 x 36t CR, MAN B&W 6S50MC-C8, 3 x gens) - Sold for $ 15.4 mill to Chinese buyers.
 

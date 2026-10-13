@@ -223,8 +223,8 @@
         "price_usd_m": 8.5,
         "price_raw": "$8.5 mill",
         "en_bloc": false,
-        "buyer": null,
-        "comments": "sold for $8.5 mill basis surveys due to undisclosed buyers COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 soft PAKISTAN 390-400 400-410 415 soft INDIA 380-390 400 410 soft BANGLADESH 400 430-435 430-440 soft"
+        "buyer": "undisclosed buyers",
+        "comments": "sold for $8.5 mill basis surveys due to undisclosed buyers"
       },
       {
         "issue_date": "2025-10-17",

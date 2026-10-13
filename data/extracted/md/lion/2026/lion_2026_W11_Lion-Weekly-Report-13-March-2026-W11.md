@@ -73,7 +73,7 @@ market rates, please check our comprehensive demometer below:
 | **M/V SQUIRESHIP** | - | - | - | $29.5M | Undisclosed | scrubber fitted. |
 | **M/V CCS ORCHID** | 81,966 | 2017 | JNS / China | $27.24M | Greek buyers (clients of Bright Navigation) | eco m/e. |
 | **M/V SPIRIT OF HO-PING** | 82,152 | 2011 | Tsuneishi / Japan | $19.35M | Greek buyers | Sold for $ 19.35 mill to Greek buyers. |
-| **M/V ST. DIMITRIOS** | 82,688 | 2007 | Tsuneishi / Japan | $13.0M | Undisclosed | Sold for $ 13 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 stable PAKISTAN 420-425 430-435 440-445 stable INDIA 420 430 440 stable BANGLADESH 430 440 450 stable |
+| **M/V ST. DIMITRIOS** | 82,688 | 2007 | Tsuneishi / Japan | $13.0M | Undisclosed | Sold for $ 13 mill. |
 | **M/V ABILITY** | 64,253 | 2021 | Shin Kurushima / Japan | $37.0M | Undisclosed | eco m/e. |
 | **M/V EASTERN JUNIPER** | 61,185 | 2022 | NACKS / China | $32.0M | Undisclosed | Sold for $ 32 mill. |
 | **M/V SINOP** | 63,200 | 2013 | Yangzhou Dayang / China | $22.5M | Greek buyers (clients of Stem Shipping) | Eco-type Crown 63 design Ultramax. |
@@ -91,8 +91,8 @@ market rates, please check our comprehensive demometer below:
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/T GREEN ATTITUDE** | 112,532 | 2018 | COSCO Zhoushan / China | $72.0M | Undisclosed | Sold for $ 72 mill. |
 | **M/T ZENOVIA LADY** | 109,999 | 2009 | Sungdong / S. Korea | $42.0M | Undisclosed | Sold for $ 42 mill. |
-| **M/T STI SENECA** | 49,990 | 2015 | HMD / S. Korea | $24.0M each | Undisclosed | - |
-| **M/T STI OSCEOLA** | 49,990 | 2015 | HMD / S. Korea | $24.0M each | Undisclosed | Sold en bloc for 35 mill each |
+| **M/T STI SENECA** | 49,990 | 2015 | HMD / S. Korea | $35.0M each | Undisclosed | - |
+| **M/T STI OSCEOLA** | 49,990 | 2015 | HMD / S. Korea | $35.0M each | Undisclosed | Sold en bloc for 35 mill each |
 | **M/T FINNANGER** | 46,251 | 2009 | HMD / S. Korea | $24.0M each | Undisclosed | - |
 | **M/T FJELLANGER** | 46,287 | 2010 | HMD / S. Korea | $24.0M each | Undisclosed | Sold en bloc for $ 24 mill each. |
 | **M/T CHRYSOPIGI** | 38,554 | 2006 | GSI / China | $9.0M | Undisclosed | Sold for $ 9 mill. |
@@ -124,7 +124,7 @@ market rates, please check our comprehensive demometer below:
 
 - **M/V SPIRIT OF HO-PING**: M/V SPIRIT OF HO-PING (82,152 dwt, blt 2011 Tsuneishi/Japan, NK ss due 12/2028 dd due 12/2026, 7 ho/7 ha, MAN B&W 6S60MC-C) - Sold for $ 19.35 mill to Greek buyers.
 
-- **M/V ST. DIMITRIOS**: M/V ST. DIMITRIOS (82,688 dwt, blt 2007 Tsuneishi/Japan, NK ss due 08/2030 dd due 08/2027, 7 ho/7 ha, MAN B&W 7S50MC-C, 3 x gens) - Sold for $ 13 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 stable PAKISTAN 420-425 430-435 440-445 stable INDIA 420 430 440 stable BANGLADESH 430 440 450 stable
+- **M/V ST. DIMITRIOS**: M/V ST. DIMITRIOS (82,688 dwt, blt 2007 Tsuneishi/Japan, NK ss due 08/2030 dd due 08/2027, 7 ho/7 ha, MAN B&W 7S50MC-C, 3 x gens) - Sold for $ 13 mill.
 
 - **M/V ABILITY**: M/V ABILITY (64,253 dwt, blt 2021 Shin Kurushima/Japan, NK ss/dd due 07/2026, 5 ho / 5 ha, 4 x 30.7t CR, MAN B&W 6S50ME-C9) - Sold for $ 37 mill basis ss/dd due, note: eco m/e.
 

@@ -74,7 +74,7 @@ of demolition market rates, please check our comprehensive demometer below:
 | **M/V HIGHLAND** | 174,092 | 2006 | SWS / China | $25.0M | Undisclosed | cape, surveys passed, PSV energy saving device fitted. |
 | **M/V HC WISDOM** | 95,711 | 2013 | Imabari / Japan | $24.5M | Undisclosed | should be old sale, post-panamax, surveys passed, scrubber and shaft generator fitted. |
 | **M/V LC MILADY** | 93,758 | 2011 | Shanhaiguan / China | $14.0M | Undisclosed | rumoured committed region high $ 14 mill. |
-| **M/V RTM DIAS** | 89,892 | 2013 | Namura / Japan | $42.8M en bloc | Undisclosed | COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 300 - 305 315 - 320 325 - 330 stable PAKISTAN 500 - 505 520 530 - 535 stable INDIA 465 - 470 485 - 490 505 - 510 improving BANGLADESH 500 515 - 520 525 - 530 slightly improved |
+| **M/V RTM DIAS** | 89,892 | 2013 | Namura / Japan | $42.8M en bloc | Undisclosed | - |
 | **M/V RTM FLINDERS** | 89,892 | 2013 | Namura / Japan | $42.8M en bloc | Undisclosed | offers invited 9th September 2026, both vsls fitted in last dd with Mewis duct and high-performance AF paint. |
 | **M/V NEW WAVELET** | 81,984 | 2021 | NACKS / China | $42.0M each | Undisclosed | eco m/e. Note: firm price compared with July 2026 sale of scrubber fitted one-year younger units NORD ANTARES & NORD ANDROMEDA (82,258 dwt blt 2022/Yangzi-Mitsui/China) for $ 37.5 mill each. |
 | **M/V GENEVA STAR** | 75,843 | 2009 | Tsuneishi / Japan | $17.0M | Undisclosed | for comparison, one-year older G.B. CORRADO (77061 dwt blt 2008 Oshima/Japan) sold back in July 2026 for $ 15 mill. |
@@ -133,7 +133,7 @@ of demolition market rates, please check our comprehensive demometer below:
 
 - **M/V LC MILADY**: M/V LC MILADY (93,758 dwt, blt 2011 Shanhaiguan/China, RI ss/dd due 09/2026, 7 ho/7 ha, B&W 6S60MC) - rumoured committed region high $ 14 mill.
 
-- **M/V RTM DIAS**: M/V RTM DIAS (89,892 dwt, blt 2013, Namura/Japan, NV ss/dd due 01/2028, 6 ho/6 ha, Mitsubishi 6UEC60LSII, LDT 14,638) COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 300 - 305 315 - 320 325 - 330 stable PAKISTAN 500 - 505 520 530 - 535 stable INDIA 465 - 470 485 - 490 505 - 510 improving BANGLADESH 500 515 - 520 525 - 530 slightly improved
+- **M/V RTM DIAS**: M/V RTM DIAS (89,892 dwt, blt 2013, Namura/Japan, NV ss/dd due 01/2028, 6 ho/6 ha, Mitsubishi 6UEC60LSII, LDT 14,638)
 
 - **M/V RTM FLINDERS**: M/V RTM FLINDERS (89,892 dwt, blt 2013 Namura/Japan, NV ss/dd due 03/2028, 6 ho/6 ha, Mitsubishi 6UEC60LSII, LDT 14,638) - Sold en bloc for $ 42.8 mill total basis prompt dely Spore-Japan range. - Note: offers invited 9th September 2026, both vsls fitted in last dd with Mewis duct and high-performance AF paint.
 

@@ -75,7 +75,7 @@ comprehensive demometer below:
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V SCION MATHILDA** | 82,144 | 2024 | Hantong / China | $41.9M | Greek buyers (clients of Castor) | eco m/e, off market deal. - Higher price than May's deal of brand new Kamsarmax, "MOANA" (82,000 dwt prompt delivery from builder Yizheng Yangzi Shipbuilding June/2026) which has been concluded at $ 36.5 million COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 470 480 - 490 500 firm INDIA 390 400 - 410 410 - 420 down BANGLADESH 475 - 485 495 - 505 510 - 520 firm |
+| **M/V SCION MATHILDA** | 82,144 | 2024 | Hantong / China | $41.9M | Greek buyers (clients of Castor) | eco m/e, off market deal. - Higher price than May's deal of brand new Kamsarmax, "MOANA" (82,000 dwt prompt delivery from builder Yizheng Yangzi Shipbuilding June/2026) which has been concluded at $ 36.5 million |
 | **M/V ROSTRUM STOIC** | 82,175 | 2023 | Hantong / China | $37.2M | Undisclosed | off market deal -Soft price compared to one-year younger sister SCION MATILDA sold at $ 41.9 mill. |
 | **M/V C.S. OLIVE** | 82,175 | 2009 | Tsuneishi / Japan | $17.0M | Undisclosed | off market deal. & |
 | **M/V AC YOUTH** | 82,623 | 2007 | Tsuneishi / Japan | $15.0M | Undisclosed | scrubber fitted - Both above TESS kamsarmaxes commanded firm prices in comparison to end May's deal of older sister NEW HARMONY 8 (82,790 dwt blt 2006 Tsuneishi/Japan) sold for $13 mill basis surveys due. |
@@ -118,7 +118,7 @@ comprehensive demometer below:
 
 ### Bulkers
 
-- **M/V SCION MATHILDA**: M/V SCION MATHILDA (82,144 dwt, blt 2024 Hantong/China, AB ss due 08/2029 dd due 08/2027, 7 ho/7 ha, B&W 6G50ME-C10) - Sold for $ 41.9 mill to Greek buyers (clients of Castor), note:  eco m/e, off market deal. - Higher price than May's deal of brand new Kamsarmax, "MOANA" (82,000 dwt prompt delivery from builder Yizheng Yangzi Shipbuilding June/2026) which has been concluded at $ 36.5 million COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 470 480 - 490 500 firm INDIA 390 400 - 410 410 - 420 down BANGLADESH 475 - 485 495 - 505 510 - 520 firm
+- **M/V SCION MATHILDA**: M/V SCION MATHILDA (82,144 dwt, blt 2024 Hantong/China, AB ss due 08/2029 dd due 08/2027, 7 ho/7 ha, B&W 6G50ME-C10) - Sold for $ 41.9 mill to Greek buyers (clients of Castor), note:  eco m/e, off market deal. - Higher price than May's deal of brand new Kamsarmax, "MOANA" (82,000 dwt prompt delivery from builder Yizheng Yangzi Shipbuilding June/2026) which has been concluded at $ 36.5 million
 
 - **M/V ROSTRUM STOIC**: M/V ROSTRUM STOIC (82,175 dwt, blt 2023 Hantong/China, LR ss due 11/2028 dd due 11/2026, 7 ho/7 ha, B&W 6S60ME-C10) - Sold for $ 37.2 mill, note: off market deal -Soft price compared to one-year younger sister SCION MATILDA sold at $ 41.9 mill.
 

@@ -64,7 +64,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 | **M/V XIN TANG SHAN HAI 1** | 81,870 | 2013 | COSCO Dalian / China | $15.36M | Undisclosed | Sold for $ 15.36 mill |
 | **M/V CHANG XIN 66** | 79,998 | 2012 | Fujian Crown Ocean / China | $14.0M | Undisclosed | Sold for $ 14 mill |
 | **M/V JAL KUMUD** | 76,302 | 2008 | Imabari / Japan | $13.1M | Chinese buyers | Geared Panamax |
-| **M/V YASA UNITY** | 75,580 | 2006 | Sanoyas / Japan | $9.3M | Undisclosed | Sold for $ 9.3 mill COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 steady PAKISTAN 400 410-420 420 soft INDIA 380 400-410 410-420 steady BANGLADESH 420 440-450 440-450 steady |
+| **M/V YASA UNITY** | 75,580 | 2006 | Sanoyas / Japan | $9.3M | Undisclosed | Sold for $ 9.3 mill |
 | **M/V HAKO** | 63,104 | 2014 | Yangzhou Dayang / China | $22.0M | Undisclosed | eco type Crown 53 design |
 | **M/V SANTA MARIA** | 61,323 | 2014 | Iwagi Zosen / Japan | $21.0M | Undisclosed | eco-type m/e |
 | **M/V GRACE HARMONY** | 60,259 | 2015 | Onomichi Dockyard Co Ltd / Japan | $24.0M | Undisclosed | understand committed on subs for $ 24 mill |
@@ -130,7 +130,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 - **M/V JAL KUMUD**: M/V JAL KUMUD (76,302 dwt, blt 2008 Imabari /Japan, IR, NK ss due 01/2028 dd due 03/2026, 7 ho/7 ha, Cr 4 x 30t, 1 x MAN B&W 6S60MC 14) - Sold for $ 13.1 mill to Chinese buyers, note: Geared Panamax
 
-- **M/V YASA UNITY**: M/V YASA UNITY (75,580 dwt, blt 2006 Sanoyas/Japan, NK ss/dd due 04/2026, 7 ho/7 ha, 1 x MAN B&W 7S50MC-C 12) - Sold for $ 9.3 mill COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 steady PAKISTAN 400 410-420 420 soft INDIA 380 400-410 410-420 steady BANGLADESH 420 440-450 440-450 steady
+- **M/V YASA UNITY**: M/V YASA UNITY (75,580 dwt, blt 2006 Sanoyas/Japan, NK ss/dd due 04/2026, 7 ho/7 ha, 1 x MAN B&W 7S50MC-C 12) - Sold for $ 9.3 mill
 
 - **M/V HAKO**: M/V HAKO (63,104 dwt, blt 2014 Yangzhou Dayang/China, AB ss due 06/2029 dd due 05/2027, 5 ho/5 ha, Cr 4 x 36t, 1 x MAN B&W 5S60ME-C8 11) - offers were invited 10th November 2025, understand committed for $ 22 mill, note: eco type Crown 53 design
 

@@ -76,7 +76,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
-| **M/V AASHNA** | 179,523 | 2012 | HHIC / Philippines | $37.5M | Chinese buyers | Hanjin Subic capesize, offers invited 10th July 2026, shaft generator fitted. - Firm level compared with sale of one year older Philippine built MIRACLE (180,643 dwt, blt 2011 Tsuneishi Cebu) sold for $ 32 mill in January 2026. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 470 - 480 500 - 510 520 bullish INDIA 400 410 420 soft BANGLADESH 475 - 485 520 - 530 550 bullish |
+| **M/V AASHNA** | 179,523 | 2012 | HHIC / Philippines | $37.5M | Chinese buyers | Hanjin Subic capesize, offers invited 10th July 2026, shaft generator fitted. - Firm level compared with sale of one year older Philippine built MIRACLE (180,643 dwt, blt 2011 Tsuneishi Cebu) sold for $ 32 mill in January 2026. |
 | **M/V HEROIC** | 182,060 | 2010 | Odense / Denmark | $32.8M | Undisclosed | Sold for $ 32.8 mill basis prompt delivery. - Firm level compared with sale of exact sister EPIC (182,060 dwt blt 2010 Odense/Denmark) sold for $ 32.5 mill in February 2026. |
 | **M/V OCEAN RHEA** | 92,648 | 2011 | Jinling / China | $15.25M | Chinese buyers | Sold for $ 15.25 mill to Chinese buyers. -Slightly higher price than June's sale of exact sister OCEAN ARTEMIS (93,103 dwt blt 2011 Jinling/China) for $ 15 mill basis surveys passed. |
 | **M/V INDUS PROSPERITY** | 92,988 | 2011 | Sanfu / China | $11.5M | Undisclosed | understand that soft price is due to condition and imminent surveys. |
@@ -115,7 +115,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 ### Bulkers
 
-- **M/V AASHNA**: M/V AASHNA (179,523 dwt, blt 2012 HHIC/Philippines, LR, ss/dd due 10/2027, 9 ho/9 ha, B&W 6S70MC-C) - Sold for $ 37.5 mill to Chinese buyers, - Note: Hanjin Subic capesize, offers invited 10th July 2026, shaft generator fitted. - Firm level compared with sale of one year older Philippine built MIRACLE (180,643 dwt, blt 2011 Tsuneishi Cebu) sold for $ 32 mill in January 2026. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 470 - 480 500 - 510 520 bullish INDIA 400 410 420 soft BANGLADESH 475 - 485 520 - 530 550 bullish
+- **M/V AASHNA**: M/V AASHNA (179,523 dwt, blt 2012 HHIC/Philippines, LR, ss/dd due 10/2027, 9 ho/9 ha, B&W 6S70MC-C) - Sold for $ 37.5 mill to Chinese buyers, - Note: Hanjin Subic capesize, offers invited 10th July 2026, shaft generator fitted. - Firm level compared with sale of one year older Philippine built MIRACLE (180,643 dwt, blt 2011 Tsuneishi Cebu) sold for $ 32 mill in January 2026.
 
 - **M/V HEROIC**: M/V HEROIC (182,060 dwt, blt 2010 Odense/Denmark, AB, ss due 10/2030 dd due 10/2027, 9 ho/9 ha, B&W 6S70MC-C, LDT 26,757) - Sold for $ 32.8 mill basis prompt delivery. - Firm level compared with sale of exact sister EPIC (182,060 dwt blt 2010 Odense/Denmark) sold for $ 32.5 mill in February 2026.
 

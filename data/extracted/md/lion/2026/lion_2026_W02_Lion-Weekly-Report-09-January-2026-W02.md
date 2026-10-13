@@ -74,7 +74,7 @@ please check our comprehensive demometer below:
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V GOLDEN MAGNUM** | 179,788 | 2009 | DSME / S. Korea | $28.7M | Chinese buyers | scrubber fitted |
 | **M/V PENELOPE OLDENDORFF** | 114,861 | 2010 | New Century / China | $16.0M each | Undisclosed | - |
-| **M/V PATRICIA OLDENDORFF** | 114,753 | 2010 | New Century / China | $16.0M each | Undisclosed | scrubber fitted, "baby-cape" COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 270 - 275 280 290 - 295 stable PAKISTAN 390 405 - 410 415 positive INDIA 400 - 405 415 425 positive BANGLADESH 410 - 415 430 - 435 450 positive |
+| **M/V PATRICIA OLDENDORFF** | 114,753 | 2010 | New Century / China | $16.0M each | Undisclosed | scrubber fitted, "baby-cape" |
 | **M/V CENTURY SHANGHAI** | 81,738 | 2018 | Chengxi Jiangyin / China | $25.0M | Undisclosed | Eco m/e |
 | **M/V SEACON SHANGHAI** | 80,811 | 2019 | Huangpu Wenchong Longxue / China | $26.7M | Greek buyers (clients of Dexter Navigation) | Eco m/e |
 | **M/V OCEAN JASMIN** | 63,465 | 2019 | COSCO Zhoushan / China | $28.5M | Asian buyers | Eco m/e |
@@ -125,7 +125,7 @@ please check our comprehensive demometer below:
 
 - **M/V PENELOPE OLDENDORFF**: M/V PENELOPE OLDENDORFF (114,861 dwt, blt 2010 New Century /China, LR ss due 05/2030 dd due 02/2028, 7 ho/7 ha, 1 x B&W 6S60MC-C)
 
-- **M/V PATRICIA OLDENDORFF**: M/V PATRICIA OLDENDORFF (114,753 dwt, blt 2010 New Century/China, LR ss due 07/2030 dd due 10/2027, 7 ho/7 ha, 1 x B&W 6S60MC-C) - Sold en bloc for $ 16 mill each, note: scrubber fitted, "baby-cape" COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 270 - 275 280 290 - 295 stable PAKISTAN 390 405 - 410 415 positive INDIA 400 - 405 415 425 positive BANGLADESH 410 - 415 430 - 435 450 positive
+- **M/V PATRICIA OLDENDORFF**: M/V PATRICIA OLDENDORFF (114,753 dwt, blt 2010 New Century/China, LR ss due 07/2030 dd due 10/2027, 7 ho/7 ha, 1 x B&W 6S60MC-C) - Sold en bloc for $ 16 mill each, note: scrubber fitted, "baby-cape"
 
 - **M/V CENTURY SHANGHAI**: M/V CENTURY SHANGHAI (81,738 dwt, blt 2018 Chengxi Jiangyin /China, AB ss due 11/2028 dd due 10/2026, 7 ho/7 ha, 1 x B&W 6S60ME-C8) - Sold at on-line auction for region $ 25 mill, note: Eco m/e
 

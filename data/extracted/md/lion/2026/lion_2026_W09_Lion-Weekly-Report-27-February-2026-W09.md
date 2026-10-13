@@ -71,7 +71,7 @@ below:
 | **M/V TRINITY I** | 93,280 | 2010 | YZJ / China | $23.0M en bloc | Chinese buyers | surveys passed. |
 | **M/V AQUAVITA SEA** | 81,479 | 2020 | Hantong / China | $30.5M | Greek buyers | Sold for $ 30.5 mill to Greek buyers. |
 | **M/V THREE SASKIAS** | 81,094 | 2014 | JMU / Japan | $26.8M | Greek buyers | Sold for $ 26.8 mill to Greek buyers. |
-| **M/V EPIPHANIA** | 80,276 | 2012 | STX / South Korea | $17.6M | European buyers | Sold for $ 17.6 mill to European buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 stable PAKISTAN 415-420 430-435 440-445 stable INDIA 420-425 430-435 450 stable BANGLADESH 420-425 440-450 460 stable |
+| **M/V EPIPHANIA** | 80,276 | 2012 | STX / South Korea | $17.6M | European buyers | Sold for $ 17.6 mill to European buyers. |
 | **M/V ADVENTURE** | 33,730 | 2011 | Samjin / China | $9.5M | Undisclosed | surveys due. |
 
 
@@ -119,7 +119,7 @@ below:
 
 - **M/V THREE SASKIAS**: M/V THREE SASKIAS (81,094 dwt, blt 2014 JMU/Japan, NK ss due 03/2029 dd due 12/2026, 7 ho/7 ha, MAN B&W 6S60ME-C) - Sold for $ 26.8 mill to Greek buyers.
 
-- **M/V EPIPHANIA**: M/V EPIPHANIA (80,276 dwt, blt 2012 STX/South Korea, NK ss/d due 02/2027, 7 ho/7 ha, MAN B&W 7S50MC-C) - Sold for $ 17.6 mill to European buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 stable PAKISTAN 415-420 430-435 440-445 stable INDIA 420-425 430-435 450 stable BANGLADESH 420-425 440-450 460 stable
+- **M/V EPIPHANIA**: M/V EPIPHANIA (80,276 dwt, blt 2012 STX/South Korea, NK ss/d due 02/2027, 7 ho/7 ha, MAN B&W 7S50MC-C) - Sold for $ 17.6 mill to European buyers.
 
 - **M/V ADVENTURE**: M/V ADVENTURE (33,730 dwt, blt 2011 Samjin/China, LR ss/dd due 01/2026, 5 ho/5 ha, 4 x 35t CR, MAN B&W 6S50MC) - Sold for $ 9.5 mill, note: surveys due.
 

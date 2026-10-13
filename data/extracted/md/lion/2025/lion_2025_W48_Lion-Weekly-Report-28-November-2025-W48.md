@@ -67,7 +67,7 @@ market rates, please check our comprehensive demometer below:
 | **M/V THE STRONG** | 74,823 | 2004 | Hudong / China | $6.85M | Undisclosed | Sold for $ 6,85 mill |
 | **M/V JAL KANAK** | 65,950 | 2025 | - | $37.25M each | Thai buyers (clients of Precious Shipping) | - |
 | **M/V JAL KUNDAN** | 65,950 | 2025 | - | $37.25M each | Thai buyers (clients of Precious Shipping) | Sold en bloc for $ 37,25 mill each to Thai buyers (clients of Precious Shipping) basis delivery ex-yard. |
-| **M/V DSI DRAMMEN** | 63,379 | 2016 | I-S Shipyard / Japan | $26.4M | Undisclosed | previous September deal at higher price ($26,86 mill) basis prompt dely has fallen through COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 stable PAKISTAN 390 410 420 stable INDIA 380 400-410 420 stable BANGLADESH 410-420 430-440 450 stable |
+| **M/V DSI DRAMMEN** | 63,379 | 2016 | I-S Shipyard / Japan | $26.4M | Undisclosed | previous September deal at higher price ($26,86 mill) basis prompt dely has fallen through |
 | **M/V WARISA NAREE** | 53,840 | 2010 | Hindustan / India | $9.3M | Undisclosed | Diamond 53 design, double skin construction |
 | **M/V GUO DIAN 10** | 45,031 | 1995 | Hakodate Dock - Hakodate / Japan | $2.87M | Undisclosed | Sold at on-line auction in China for $ 2,87 mill |
 | **M/V UNION GROOVE** | 35,064 | 2012 | SPP / S. Korea | $13.6M | Greek buyers (clients of Element) | Sold for $ 13,6 mill to Greek buyers (clients of Element) |
@@ -122,7 +122,7 @@ market rates, please check our comprehensive demometer below:
 
 - **M/V JAL KUNDAN**: M/V JAL KUNDAN (65,950 dwt, blt 2025 Yangzi-Mitsui (YAMIC)/China, NK 5 ho/5 ha, 4 x 30t Cr, B&W 7S50ME-C9) - Sold en bloc for $ 37,25 mill each to Thai buyers (clients of Precious Shipping) basis delivery ex-yard.
 
-- **M/V DSI DRAMMEN**: M/V DSI DRAMMEN (63,379 dwt, blt 2016 I-S Shipyard /Japan, NK ss/dd due 08/2026, 5 ho/5 ha, 4 x 30.7t CRANE, B&W 6S50ME-B9) - Sold for $ 26,40 mill basis delivery by 31 March 2026, note: previous September deal at higher price ($26,86 mill) basis prompt dely has fallen through COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 stable PAKISTAN 390 410 420 stable INDIA 380 400-410 420 stable BANGLADESH 410-420 430-440 450 stable
+- **M/V DSI DRAMMEN**: M/V DSI DRAMMEN (63,379 dwt, blt 2016 I-S Shipyard /Japan, NK ss/dd due 08/2026, 5 ho/5 ha, 4 x 30.7t CRANE, B&W 6S50ME-B9) - Sold for $ 26,40 mill basis delivery by 31 March 2026, note: previous September deal at higher price ($26,86 mill) basis prompt dely has fallen through
 
 - **M/V WARISA NAREE**: M/V WARISA NAREE (53,840 dwt, blt 2010 Hindustan /India, NK ss due 04/2030 dd due 01/2028, 5 ho/5 ha, 4 x 36t CRANE, Wartsila 6RT-flex50, LDT 11,245) - Sold for $ 9,3 mill, note: Diamond 53 design, double skin construction
 

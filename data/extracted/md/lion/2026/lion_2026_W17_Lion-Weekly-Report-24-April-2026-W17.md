@@ -67,7 +67,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 | **M/V NEW DAYANG NDY1315 &** | - | - | - | $73.0M en bloc | Greek buyers (clients of Niovis Shipping) | - |
 | **M/V NEW DAYANG NDY1316** | 64,100 | 2027 | New Dayang Shipbuilding / China | $73.0M en bloc | Greek buyers (clients of Niovis Shipping) | eco m/e. |
 | **M/V AMIS POWER** | 64,012 | 2018 | Tsuneishi Cebu / Philippines | $32.5M | Undisclosed | Sold for $ 32.5 mill. |
-| **M/V FJ STAR** | 61,225 | 2016 | Shin Kurushima / Japan | $26.0M | Chinese buyers | Sold for $ 26 mill to Chinese buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 275-280 290-300 stable PAKISTAN 440 450 460 stable INDIA 440 450 460 stable BANGLADESH 470 - 475 500 510 weak |
+| **M/V FJ STAR** | 61,225 | 2016 | Shin Kurushima / Japan | $26.0M | Chinese buyers | Sold for $ 26 mill to Chinese buyers. |
 | **M/V AMSTEL TIGER** | 60,454 | 2016 | Oshima / Japan | $28.0M | Undisclosed | offers were invited Tuesday 21st April 2026. |
 | **M/V CHAKRAVATI** | 55,814 | 2006 | Kawasaki / Japan | $10.5M | Far Eastern buyers | Sold for $ 10.5 mill to Far Eastern buyers. |
 | **M/V ASTERIS** | 53,629 | 2007 | Dayang / China | $9.8M | Undisclosed | Sold for $ 9.8 mill. |
@@ -117,7 +117,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 - **M/V AMIS POWER**: M/V AMIS POWER (64,012 dwt, blt 2018 Tsuneishi Cebu /Philippines, NK ss due 09/2028 dd due 07/2026, 5 ho/5 ha, 4 x 36t CR, MAN B&W 6S50ME-B9) - Sold for $ 32.5 mill.
 
-- **M/V FJ STAR**: M/V FJ STAR (61,225 dwt, blt 2016 Shin Kurushima/Japan, NK ss/dd due 09/2026, 5 ho/5 ha, 4 x 30.7t CR, MAN B&W 6S50ME-B9) - Sold for $ 26 mill to Chinese buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 275-280 290-300 stable PAKISTAN 440 450 460 stable INDIA 440 450 460 stable BANGLADESH 470 - 475 500 510 weak
+- **M/V FJ STAR**: M/V FJ STAR (61,225 dwt, blt 2016 Shin Kurushima/Japan, NK ss/dd due 09/2026, 5 ho/5 ha, 4 x 30.7t CR, MAN B&W 6S50ME-B9) - Sold for $ 26 mill to Chinese buyers.
 
 - **M/V AMSTEL TIGER**: M/V AMSTEL TIGER (60,454 dwt, blt 2016 Oshima/Japan, NK ss/dd due 08/2026, 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S50ME-B9) - Sold for $ 28 mill, note: offers were invited Tuesday 21st April 2026.
 

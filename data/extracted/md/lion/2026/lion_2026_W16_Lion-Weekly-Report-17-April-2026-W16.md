@@ -121,7 +121,7 @@ market rates, please check our comprehensive demometer below:
 
 - **M/V OHSHU MARU**: M/V OHSHU MARU (92,075 dwt, blt 2011 Namura/Japan, NK ss/dd due 06/2026, 6 ho/6 ha, MAN B&W 6S60MC-C) - Sold for $ 16.1 mill, note: 38 meters beam.
 
-- **M/V N AMALTHIA**: M/V N AMALTHIA (75,356 dwt, blt 2006 Universal/Japan, NK ss/dd due 11/2026, 7 ho/7 ha, MAN B&W 6S60MC) - Sold for $ 10.3 mill to Chinese buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 275-280 290-300 stable PAKISTAN 405 430 460 soft INDIA 400 410 430 soft BANGLADESH 430 460 480 weak note: softer level compared to the one-year older M/V "OCEAN LION" (76,656 dwt, blt 2005 at Sanoyas/Japan) which sold in February for $10 mill.
+- **M/V N AMALTHIA**: M/V N AMALTHIA (75,356 dwt, blt 2006 Universal/Japan, NK ss/dd due 11/2026, 7 ho/7 ha, MAN B&W 6S60MC) - Sold for $ 10.3 mill to Chinese buyers. note: softer level compared to the one-year older M/V "OCEAN LION" (76,656 dwt, blt 2005 at Sanoyas/Japan) which sold in February for $10 mill.
 
 - **M/V SUNNY ROYAL**: M/V SUNNY ROYAL (58,772 dwt, blt 2011 Kawasaki/Japan, NK, 5 ho/5 ha, 4 x 30.5t CRANES, MAN B&W 6S50MC-C) - Sold for $ 18.45 mill to Greek or Lebanese buyers.
 

@@ -72,7 +72,7 @@ demometer below:
 | **M/V ERATO** | 180,120 | 2010 | Imabari / Japan | $38.0M | Undisclosed | Rumoured sold for $ 38 mill basis charter free delivery Nov/Dec 2026. |
 | **M/V NAVIOS POLLUX** | 180,727 | 2009 | STX Jinhae / Korea | $31.2M | Chinese buyers | purchase option, scrubber fitted. |
 | **M/V KIYO** | 92,353 | 2012 | Namura / Japan | $19.3M | Chinese buyers | Sold for $ 19.3 mill to Chinese buyers. |
-| **M/V KM MT. JADE** | 81,487 | 2008 | Universal / Japan | $16.0M | Chinese buyers | offers invited Monday 24th August 2026. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290 300 stable PAKISTAN 510 520 530-535 positive INDIA 440 - 450 460 - 470 500 - 510 firm BANGLADESH 490 - 500 515 - 525 540 stable |
+| **M/V KM MT. JADE** | 81,487 | 2008 | Universal / Japan | $16.0M | Chinese buyers | offers invited Monday 24th August 2026. |
 | **M/V IVS DUNES** | 62,661 | 2020 | Oshima / Japan | $36.8M | Undisclosed | eco type, offers invited 26th August 2026. |
 | **M/V OBE LOTUS** | 55,884 | 2014 | Mitsui / Japan | $23.2M | Greek buyers | Sold for $ 23.2 mill to Greek buyers. |
 | **M/V SIDRA** | 56,140 | 2012 | Mitsui / Japan | $19.2M | Indonesian buyers | Sold/delivered for $ 19.2 mill to Indonesian buyers. |
@@ -139,7 +139,7 @@ demometer below:
 
 - **M/V KIYO**: M/V KIYO (92,353 dwt, blt 2012 Namura/Japan, NK ss/dd due 01/2026, 6 ho/6 ha, B&W 6S60MC-C) - Sold for $ 19.3 mill to Chinese buyers.
 
-- **M/V KM MT. JADE**: M/V KM MT. JADE (81,487 dwt, blt 2008 Universal/Japan, AB ss due 11/2028 dd due 11/2026, 7 ho/7 ha, B&W 7S50MC-C) - Sold for region of excess $ 16 mill to Chinese buyers basis charter free delivery SG-JPN range within Sept-Oct 2026 and surveys due, note: offers invited Monday 24th August 2026. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290 300 stable PAKISTAN 510 520 530-535 positive INDIA 440 - 450 460 - 470 500 - 510 firm BANGLADESH 490 - 500 515 - 525 540 stable
+- **M/V KM MT. JADE**: M/V KM MT. JADE (81,487 dwt, blt 2008 Universal/Japan, AB ss due 11/2028 dd due 11/2026, 7 ho/7 ha, B&W 7S50MC-C) - Sold for region of excess $ 16 mill to Chinese buyers basis charter free delivery SG-JPN range within Sept-Oct 2026 and surveys due, note: offers invited Monday 24th August 2026.
 
 - **M/V IVS DUNES**: M/V IVS DUNES (62,661 dwt, blt 2020 Oshima/Japan, NK ss due 09/2030 dd due 09/2028, 5 ho/5 ha, 4 x 30t CR, B&W 6S50ME-B9) - Sold for $ 36.8 mill including balance of current t/c attached till March - Max 4th June 2027 at 17,000 p/d, note: eco type, offers invited 26th August 2026.
 

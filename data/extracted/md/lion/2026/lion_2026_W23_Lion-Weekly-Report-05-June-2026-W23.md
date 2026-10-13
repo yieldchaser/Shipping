@@ -68,7 +68,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 | **M/V SEACON ANTWERP** | 82,806 | 2024 | Tsuneishi Zhoushan / China | $42.7M | Undisclosed | offers deadline Tuesday, 19 May 2026, beam 32.26 mtrs, new benchmark sale. |
 | **M/V THEMIS** | 81,882 | 2012 | COSCO Dalian / China | $18.0M | Undisclosed | Sold for $ 18 mill. |
 | **M/V KEY HUNTER** | 82,099 | 2011 | Tsuneishi / Japan | $21.0M | Greek buyers | increased price compared with March's sale of exact sister Spirit of Ho-Ping (82k blt 2011 Tsuneishi/Japan) for $ 19.35 mill |
-| **M/V DIMITRIS A** | 82,518 | 2008 | Tsuneishi Zhoushan / China | $14.85M | Undisclosed | increased price compared with early May's sale of exact sister Mandy Morn (82.6k blt 2008 Tsuneishi Zhoushan) for $ 14 mill basis dd due. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 stable INDIA 420 430 440 stable BANGLADESH 460 470 490 stable |
+| **M/V DIMITRIS A** | 82,518 | 2008 | Tsuneishi Zhoushan / China | $14.85M | Undisclosed | increased price compared with early May's sale of exact sister Mandy Morn (82.6k blt 2008 Tsuneishi Zhoushan) for $ 14 mill basis dd due. |
 | **M/V STAR MOIRA** | 82,295 | 2006 | Tsuneishi / Japan | $14.25M | Undisclosed | softer level compared with last week's sale of New Harmony 8 (82.8k blt 2006 Tsuneishi/Japan) for $ 13 mill basis surveys due & not scrubber fitted. |
 | **M/V AE MARS** | 53,630 | 2006 | Yangzhou Dayang / China | $9.05M | Chinese buyers | price in line with end April's deal of one-year younger sister Asteris (53.6k blt 2007/Dayang) for $ 9.8 mill. |
 | **M/V POLES** | 50,341 | 2002 | Kawasaki / Japan | $8.5M | Undisclosed | increased price with mid-May's sale of similar Majesty (52.4k blt 2002 Tsuneishi/Japan) for $ 7 mill. |
@@ -120,7 +120,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 - **M/V KEY HUNTER**: M/V KEY HUNTER (82,099 dwt, blt 2011 Tsuneishi/Japan, NK ss/dd due 12/2027, 7 ho/7 ha, B&W 6S60MC- C) - Sold for $ 21.00 mill to Greek buyers, Japanese style sale, offers invited 28th May 2026. Note: increased price compared with March's sale of exact sister Spirit of Ho-Ping (82k blt 2011 Tsuneishi/Japan) for $ 19.35 mill
 
-- **M/V DIMITRIS A**: M/V DIMITRIS A (82,518 dwt, blt 2008 Tsuneishi Zhoushan/China, NK ss due 08/2028 dd due 06/2026, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 14.85 mill. Note: increased price compared with early May's sale of exact sister Mandy Morn (82.6k blt 2008 Tsuneishi Zhoushan) for $ 14 mill basis dd due. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 stable INDIA 420 430 440 stable BANGLADESH 460 470 490 stable
+- **M/V DIMITRIS A**: M/V DIMITRIS A (82,518 dwt, blt 2008 Tsuneishi Zhoushan/China, NK ss due 08/2028 dd due 06/2026, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 14.85 mill. Note: increased price compared with early May's sale of exact sister Mandy Morn (82.6k blt 2008 Tsuneishi Zhoushan) for $ 14 mill basis dd due.
 
 - **M/V STAR MOIRA**: M/V STAR MOIRA (82,295 dwt, blt 2006 Tsuneishi/Japan, BV ss due 07/2029 dd due 10/2027, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 14.25 mill, scrubber fitted. Note: softer level compared with last week's sale of New Harmony 8 (82.8k blt 2006 Tsuneishi/Japan) for $ 13 mill basis surveys due & not scrubber fitted.
 

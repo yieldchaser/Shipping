@@ -74,7 +74,7 @@ check our comprehensive demometer below:
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V PACIFIST** | 181,458 | 2011 | Koyo / Japan | $32.0M | Undisclosed | Sold for $ 32 mill basis surveys due next month |
 | **M/V LAKE DOLPHIN** | 179,418 | 2011 | Hanjin / S. Korea | $30.0M | Chinese buyers | Sold for $ 30 mill to Chinese buyers |
-| **M/V XING HE SHENG** | 106,445 | 2007 | Oshima / Japan | $10.0M | Undisclosed | Sold for $ 10 mill basis surveys recently passed COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280-290 300 310 firm PAKISTAN 390 400-410 410-420 stable INDIA 380-390 400 410 stable BANGLADESH 420-430 430-440 440-450 stable |
+| **M/V XING HE SHENG** | 106,445 | 2007 | Oshima / Japan | $10.0M | Undisclosed | Sold for $ 10 mill basis surveys recently passed |
 | **M/V KEY FRONTIER** | 80,679 | 2011 | Universal / Japan | $18.5M | Greek buyers | Sold for $ 18.5 mill to Greek buyers basis delivery End Jan-End March 2026 |
 | **M/V ANNY PETRAKIS** | 75,181 | 2008 | Hudong / China | $9.0M | Far Eastern buyers | Sold for $ 9 mill to Far Eastern buyers |
 | **M/V IVESTOS 3** | 74,456 | 2007 | Hudong / China | $8.8M | Undisclosed | Sold for $ 8.8 mill basis surveys due end of this month |
@@ -125,7 +125,7 @@ check our comprehensive demometer below:
 
 - **M/V LAKE DOLPHIN**: M/V LAKE DOLPHIN (179,418 dwt, blt 2011 Hanjin/S. Korea, RI ss due 29/06/2026, 9 ho/9 ha, B&W 6S70MC-C8) - Sold for $ 30 mill to Chinese buyers
 
-- **M/V XING HE SHENG**: M/V XING HE SHENG (106,445 dwt, blt 2007 Oshima/Japan, NK ss/dd due 03/2027, 7 ho/7 ha, B&W 6S60MC) - Sold for $ 10 mill basis surveys recently passed COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280-290 300 310 firm PAKISTAN 390 400-410 410-420 stable INDIA 380-390 400 410 stable BANGLADESH 420-430 430-440 440-450 stable
+- **M/V XING HE SHENG**: M/V XING HE SHENG (106,445 dwt, blt 2007 Oshima/Japan, NK ss/dd due 03/2027, 7 ho/7 ha, B&W 6S60MC) - Sold for $ 10 mill basis surveys recently passed
 
 - **M/V KEY FRONTIER**: M/V KEY FRONTIER (80,679 dwt, blt 2011 Universal/Japan, NK ss due 06/2030 dd due 05/2028, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 18.5 mill to Greek buyers basis delivery End Jan-End March 2026
 

@@ -70,7 +70,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V ATLANTIC LION** | 209,205 | 2020 | SWS / China | $73.5M | Undisclosed | Newcastlemax, scrubber fitted |
 | **M/V DENSA SHARK** | 179,227 | 2012 | Hyundai / S. Korea | $32.5M | Chinese buyers | Sold for $ 32.5 mill to Chinese buyers including undisclosed t/c attached |
-| **M/V CAPE PROVIDENCE** | 179,643 | 2009 | DSME / S. Korea | $28.0M | Chinese buyers | was also reported sold back in October for $26.2 mill COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280-290 300 310 stable PAKISTAN 380 400 410 soft INDIA 380-390 400 410 stable BANGLADESH 420-430 430-440 440-450 stable |
+| **M/V CAPE PROVIDENCE** | 179,643 | 2009 | DSME / S. Korea | $28.0M | Chinese buyers | was also reported sold back in October for $26.2 mill |
 | **M/V ANTONIS ANGELICOUSSIS** | 177,855 | 2007 | SWS / China | $20.5M | Greek buyers | should be an older sale as offers were invited 23th November 2025 |
 | **M/V POMPANO** | 174,219 | 2006 | SWS / China | $17.9M | Undisclosed | scrubber fitted,  basis forward delivery |
 | **M/V MONTECRISTO** | 180,093 | - | - | $20.4M | Chinese buyers | scrubber fitted |
@@ -128,7 +128,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 - **M/V DENSA SHARK**: M/V DENSA SHARK (179,227 dwt, blt 2012 Hyundai/S. Korea, AB ss due 06/2027, 9 ho/9 ha, B&W 6S70MC- C8) - Sold for $ 32.5 mill to Chinese buyers including undisclosed t/c attached
 
-- **M/V CAPE PROVIDENCE**: M/V CAPE PROVIDENCE (179,643 dwt, blt 2009 DSME/S. Korea, LR ss due 06/2029 dd due 02/2026, 9 ho/9 ha, B&W 6S70MC-C) - Sold for $ 28 mill to Chinese buyers, note: was also reported sold back in October for $26.2 mill COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280-290 300 310 stable PAKISTAN 380 400 410 soft INDIA 380-390 400 410 stable BANGLADESH 420-430 430-440 440-450 stable
+- **M/V CAPE PROVIDENCE**: M/V CAPE PROVIDENCE (179,643 dwt, blt 2009 DSME/S. Korea, LR ss due 06/2029 dd due 02/2026, 9 ho/9 ha, B&W 6S70MC-C) - Sold for $ 28 mill to Chinese buyers, note: was also reported sold back in October for $26.2 mill
 
 - **M/V ANTONIS ANGELICOUSSIS**: M/V ANTONIS ANGELICOUSSIS (177,855 dwt, blt 2007 SWS/China, AB ss due 11/2027 dd due 02/2026, 9 ho/9 ha, B&W 6S70MC) - Sold for $ 20.5 mill to Greek buyers, note: should be an older sale as offers were invited 23th November 2025
 

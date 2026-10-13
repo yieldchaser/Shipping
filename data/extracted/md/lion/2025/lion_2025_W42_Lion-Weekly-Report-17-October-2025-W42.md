@@ -75,7 +75,7 @@ this week, please check our comprehensive demometer below:
 | **M/V CAPE PROVIDENCE** | 179,643 | 2009 | Daewoo / S. Korea | $26.2M | undisclosed buyers | sold for $26.2 mill to undisclosed buyers |
 | **M/V DECLAN DUFF** | 93,253 | 2012 | Jiangsu Newyangzi / China | $13.6M | Undisclosed | 38 mtrs beam |
 | **M/V PORTO LIMNIONI** | 73,664 | 2006 | Jiangnan / China | $8.5M | undisclosed buyers | sold for $8.5 mill to undisclosed buyers |
-| **M/V NARA I** | 76,588 | 2007 | Jiangnan / China | $8.5M | Undisclosed | sold for $8.5 mill basis surveys due to undisclosed buyers COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 soft PAKISTAN 390-400 400-410 415 soft INDIA 380-390 400 410 soft BANGLADESH 400 430-435 430-440 soft |
+| **M/V NARA I** | 76,588 | 2007 | Jiangnan / China | $8.5M | undisclosed buyers | sold for $8.5 mill basis surveys due to undisclosed buyers |
 | **M/V ATHENA** | 61,501 | 2011 | Oshima / Japan | $17.75M | Greek buyers | sold to Greek buyers for $17.75 mill including balance of t/c attached @ $14,750 p/d till Dec 25 - Feb 26 |
 | **M/V STONEWELL PIONEER** | 56,533 | 2014 | Sanfu / China | $14.5M | Chinese buyers | waiving inspection, was also reported sold back in July for similar price |
 | **M/V DOGAN** | 38,691 | 2013 | SPP / S. Korea | $14.8M | Undisclosed | was also reported sold back in April |
@@ -128,7 +128,7 @@ this week, please check our comprehensive demometer below:
 
 - **M/V PORTO LIMNIONI**: M/V PORTO LIMNIONI (73,664 dwt, blt 2006 Jiangnan/China, BV, ss/dd due 06/2026, 7ho/7ha, B&W 5S60MC) - sold for $8.5 mill to undisclosed buyers
 
-- **M/V NARA I**: M/V NARA I (76,588 dwt, blt 2007 Jiangnan/China, BV, ss due 08/2027 dd due 09/2025, 7ho/7ha, B&W 5S60MC) - sold for $8.5 mill basis surveys due to undisclosed buyers COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 soft PAKISTAN 390-400 400-410 415 soft INDIA 380-390 400 410 soft BANGLADESH 400 430-435 430-440 soft
+- **M/V NARA I**: M/V NARA I (76,588 dwt, blt 2007 Jiangnan/China, BV, ss due 08/2027 dd due 09/2025, 7ho/7ha, B&W 5S60MC) - sold for $8.5 mill basis surveys due to undisclosed buyers
 
 - **M/V ATHENA**: M/V ATHENA (61,501 dwt, blt 2011 Oshima/Japan, DNV, ss/dd due 01/2026, 5ho/5ha, Cr 4x30t, B&W 6S50MC-C, 3xgens) - sold to Greek buyers for $17.75 mill including balance of t/c attached @ $14,750 p/d till Dec 25 - Feb 26
 

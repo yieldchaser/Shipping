@@ -63,7 +63,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 | **M/V LOWLANDS DAWN** | 93,500 | 2017 | Oshima / Japan | $31.0M | Undisclosed | Sold for $ 31 mill including t/c attached for undisclosed rate/duration. |
 | **M/V NEFELI C** | 93,076 | 2013 | COSCO Dalian / China | $16.0M | Chinese buyers | increased price compared to beginning of April's deal of one-year older YANGZE 901 (93.2k blt 2012 Jiangsu Newyangzi/China) for $ 12.8 mill. |
 | **M/V NORD POLARIS** | 81,791 | 2016 | Tsuneishi Cebu / Philippines | $28.0M | German buyers (clients of Blumenthal) | Increased price compared with October 2025 deal of exact sister AFRICAN ICEBIRD for $26.5 mill. |
-| **M/V XENIA** | 87,144 | 2006 | IHI / Japan | $13.0M | Undisclosed | coal carrier, same price as late April's deal of CORONA BRAVE (88.2k blt 2006 Imabari/Japan). COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 firm INDIA 420 430 440 soft BANGLADESH 460 470 490 soft |
+| **M/V XENIA** | 87,144 | 2006 | IHI / Japan | $13.0M | Undisclosed | coal carrier, same price as late April's deal of CORONA BRAVE (88.2k blt 2006 Imabari/Japan). |
 | **M/V PEDHOULAS COMMANDER** | 83,684 | 2008 | Sanoyas / Japan | $14.7M | Undisclosed | increased in price compared with March' deal of similar ASL MOON (81.7k blt 2008 Mitsui/Japan) for $13.6 mill. |
 | **M/V PANAGIA FORCE** | 81,791 | 2007 | Mitsui / Japan | $13.5M | Undisclosed | slight increase in price compared with March' deal of similar ST. DIMITRIOS (82.7k blt 2007 Tsuneishi/Japan) for $13 mill. |
 | **M/V THE PATRON** | 79,444 | 2010 | Jinhai / China | $13.2M | Undisclosed | Sold for $ 13.2 mill basis drydocking surveys freshly passed, note increased price compared with end February deal of GIEWONT (79.6k blt 2010 New Century/China) for $ 11.8 mill. |
@@ -128,7 +128,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 - **M/V NORD POLARIS**: M/V NORD POLARIS (81,791 dwt, blt 2016 Tsuneishi Cebu/Philippines, NK ss/dd due 06/2026, 7 ho/7 ha, MAN B&W 6S60ME-C) - Sold for region low-mid $ 28 mill to German buyers (clients of Blumenthal). Note: Increased price compared with October 2025 deal of exact sister AFRICAN ICEBIRD for $26.5 mill.
 
-- **M/V XENIA**: M/V XENIA (87,144 dwt, blt 2006 IHI/Japan, LR ss/dd due 04/2026, 7 ho/7 ha, Sulzer 6RTA58T) - Sold for $ 13 mill. Note: coal carrier, same price as late April's deal of CORONA BRAVE (88.2k blt 2006 Imabari/Japan). COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 firm INDIA 420 430 440 soft BANGLADESH 460 470 490 soft
+- **M/V XENIA**: M/V XENIA (87,144 dwt, blt 2006 IHI/Japan, LR ss/dd due 04/2026, 7 ho/7 ha, Sulzer 6RTA58T) - Sold for $ 13 mill. Note: coal carrier, same price as late April's deal of CORONA BRAVE (88.2k blt 2006 Imabari/Japan).
 
 - **M/V PEDHOULAS COMMANDER**: M/V PEDHOULAS COMMANDER (83,684 dwt, blt 2008 Sanoyas/Japan, LR ss due 05/2028 dd due 07/2026, 7 ho/7 ha, MAN B&W 6S60MC-C) - Sold for $ 14.7 mill, note: increased in price compared with March' deal of similar ASL MOON (81.7k blt 2008 Mitsui/Japan) for $13.6 mill.
 

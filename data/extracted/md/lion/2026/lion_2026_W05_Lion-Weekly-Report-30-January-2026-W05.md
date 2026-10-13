@@ -77,7 +77,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V ALLY** | 185,897 | 2005 | Kawasaki / Japan | $18.5M each | Undisclosed | - |
-| **M/V MIKATA** | 177,173 | 2005 | Namura / Japan | $18.5M each | Undisclosed | Sold en bloc for region $ 18.5 mill each. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 positive PAKISTAN 405-410 425-430 425-430 positive INDIA 400 - 405 415-420 435 Cautiously optimistic BANGLADESH 410-415 425-435 450 stable |
+| **M/V MIKATA** | 177,173 | 2005 | Namura / Japan | $18.5M each | Undisclosed | Sold en bloc for region $ 18.5 mill each. |
 | **M/V ROBUSTO** | 173,949 | 2006 | SWS / China | $19.5M | Undisclosed | scrubber fitted. |
 | **M/V JP CARETTA** | 88,083 | 2008 | Imabari / Japan | $13.0M | Undisclosed | Scrubber fitted, 38 mtrs beam. |
 | **M/V RIZE** | 81,950 | 2012 | HMD / S. Korea | $17.7M | Undisclosed | surveys passed September 2025 |
@@ -136,7 +136,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 - **M/V ALLY**: M/V ALLY (185,897 dwt, blt 2005 Kawasaki/Japan, NK ss due 04/2030 dd due 07/2028, B&W 6S70MC)
 
-- **M/V MIKATA**: M/V MIKATA (177,173 dwt, blt 2005 Namura/Japan, NK ss due 06/2030 dd due 07/2028, B&W 6S70MC) - Sold en bloc for region $ 18.5 mill each. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 positive PAKISTAN 405-410 425-430 425-430 positive INDIA 400 - 405 415-420 435 Cautiously optimistic BANGLADESH 410-415 425-435 450 stable
+- **M/V MIKATA**: M/V MIKATA (177,173 dwt, blt 2005 Namura/Japan, NK ss due 06/2030 dd due 07/2028, B&W 6S70MC) - Sold en bloc for region $ 18.5 mill each.
 
 - **M/V ROBUSTO**: M/V ROBUSTO (173,949 dwt, blt 2006 SWS/China, AB ss/dd due 09/2026, 9 ho / 9 ha, B&W 6S70MC) - understand committed for region $ 19.5 mill basis delivery Q2 2026 at Far East, note: scrubber fitted.
 

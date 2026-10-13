@@ -280,7 +280,7 @@
         "price_raw": "$ 8.5 mill",
         "en_bloc": false,
         "buyer": null,
-        "comments": "Sold for $ 8.5 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 275-280 290-300 stable PAKISTAN 450 460 470 firm INDIA 450 460 470 firm BANGLADESH 485-490 500 510-515 firm"
+        "comments": "Sold for $ 8.5 mill."
       },
       {
         "issue_date": "2026-04-06",
@@ -809,8 +809,8 @@
         "built_year": 1996,
         "yard": "Daewoo",
         "country_built": "S. Korea",
-        "price_usd_per_lt": null,
-        "price_raw": null,
+        "price_usd_per_lt": 470.0,
+        "price_raw": "$ 470 per L/T",
         "destination": "Bangladesh",
         "comments": "Demo for $ 470 per L/T to BANGLADESH."
       }

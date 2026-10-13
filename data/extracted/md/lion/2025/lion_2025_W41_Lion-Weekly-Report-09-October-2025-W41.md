@@ -72,7 +72,7 @@ comprehensive demometer below:
 | **M/V MONTANA I** | 81,967 | 2011 | Daewoo / S.Korea | $15.4M | European buyers | sold for $15.4 mill to European buyers basis surveys due this December. |
 | **M/V NORD CRUX** | 81,791 | 2016 | - | $26.5M | Undisclosed | sold for region $26.5 mill -$26.75 mill |
 | **M/V NAVIOS HELIOS** | 77,075 | 2005 | Namura / Japan | $8.25M | undisclosed buyers | sold for $8.25 mill to undisclosed buyers basis surveys due next month. |
-| **M/V ATHERAS** | 74,475 | 2006 | Hudong / China | $8.5M | undisclosed buyers | sold for region $8 - $8.5 mill to undisclosed buyers basis imminent surveys due. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 270-280 270-280 stable PAKISTAN 420-430 430-440 - stable INDIA 420-430 430-440 450-460 stable BANGLADESH 415-420 430-435 450 soft |
+| **M/V ATHERAS** | 74,475 | 2006 | Hudong / China | $8.5M | undisclosed buyers | sold for region $8 - $8.5 mill to undisclosed buyers basis imminent surveys due. |
 | **M/V ANDIAMO** | 63,562 | 2019 | Shin Kasado / Japan | $30.5M | undisclosed buyers | sold for $30.5 mill to undisclosed buyers |
 | **M/V ND PISTIS** | 57,814 | 2015 | Tsuneishi / Japan | $23.3M | undisclosed buyers | sold for $23.3 mill to undisclosed buyers |
 | **M/V MARMARA S** | 57,195 | 2012 | STX Jinhae / S. Korea | $14.0M | Turkish buyers | previous deal reported on 1st September for $13.85 mill) |
@@ -135,7 +135,7 @@ comprehensive demometer below:
 
 - **M/V NAVIOS HELIOS**: M/V NAVIOS HELIOS (77,075 dwt, blt 2005 Namura/Japan, NKK ss/dd due 11/2025, 7ho/7ha, B&W 6S60MC) - sold for $8.25 mill to undisclosed buyers basis surveys due next month.
 
-- **M/V ATHERAS**: M/V ATHERAS (74,475 dwt, blt 2006 Hudong/China, BV ss due 09/2026 dd due 10/2025, 7ho/7ha, B&W 5S60MC-C) - sold for region $8 - $8.5 mill to undisclosed buyers basis imminent surveys due. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 265-270 270-280 270-280 stable PAKISTAN 420-430 430-440 - stable INDIA 420-430 430-440 450-460 stable BANGLADESH 415-420 430-435 450 soft
+- **M/V ATHERAS**: M/V ATHERAS (74,475 dwt, blt 2006 Hudong/China, BV ss due 09/2026 dd due 10/2025, 7ho/7ha, B&W 5S60MC-C) - sold for region $8 - $8.5 mill to undisclosed buyers basis imminent surveys due.
 
 - **M/V ANDIAMO**: M/V ANDIAMO (63,562 dwt, blt 2019 Shin Kasado/Japan, NKK ss due 11/2029 dd due 03/2027,5ho/5ha, Cr 4X30.7t, B&W 6S50ME-B9) - sold for $30.5 mill to undisclosed buyers
 

@@ -224,7 +224,7 @@
         "price_raw": "$ 13 mill",
         "en_bloc": false,
         "buyer": null,
-        "comments": "Sold for $ 13 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 280 290-300 310 stable PAKISTAN 420-425 430-435 440-445 stable INDIA 420 430 440 stable BANGLADESH 430 440 450 stable"
+        "comments": "Sold for $ 13 mill."
       },
       {
         "issue_date": "2026-03-13",
@@ -543,8 +543,8 @@
         "class": "ABS",
         "ss_due": "06/2030",
         "dd_due": "06/2025",
-        "price_usd_m": 24.0,
-        "price_raw": "$ 24 mill",
+        "price_usd_m": 35.0,
+        "price_raw": "$35.0M",
         "en_bloc": true,
         "buyer": null,
         "comments": ""
@@ -562,8 +562,8 @@
         "class": "ABS",
         "ss_due": "04/2030",
         "dd_due": "04/2025",
-        "price_usd_m": 24.0,
-        "price_raw": "$ 24 mill",
+        "price_usd_m": 35.0,
+        "price_raw": "$35.0M",
         "en_bloc": true,
         "buyer": null,
         "comments": "Sold en bloc for 35 mill each"

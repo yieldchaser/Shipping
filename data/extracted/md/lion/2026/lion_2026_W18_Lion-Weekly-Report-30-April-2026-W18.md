@@ -61,7 +61,7 @@ demolition market rates, please check our comprehensive demometer below:
 | **M/V ASTRA PERSEUS** | 58,518 | 2012 | DSME Shandong / China | $16.8M | Undisclosed | DSME (Hanwha) design, built under Greek Owners' supervision, Japanese/Korean makers list. |
 | **M/V V BRAVO** | 56,659 | 2012 | Zhejiang Zhenghe / China | $14.1M | Undisclosed | Tier II. |
 | **M/V HONCHO** | 56,603 | 2011 | China Shipping Jiangsu / China | $13.4M | Greek buyers | it is unclear whether delivery to Buyers will be with surveys passed or due. |
-| **M/V SEA CREDENCE** | 55,640 | 2010 | Mitsui / Japan | $16.0M | Chinese buyers | Sold for $ 16 mill to Chinese buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 440 450 460 stable INDIA 440 450 460 stable BANGLADESH 480 - 490 510 520 stable |
+| **M/V SEA CREDENCE** | 55,640 | 2010 | Mitsui / Japan | $16.0M | Chinese buyers | Sold for $ 16 mill to Chinese buyers. |
 | **M/V VOSCO UNITY** | 53,552 | 2004 | Imabari / Japan | $8.47M | Undisclosed | Sold for $ 8.47 mill. |
 | **M/V AMATERAS HARMONY** | 37,130 | 2021 | Saiki / Japan | $29.7M | Undisclosed | offers were invited 27th April 2026. |
 | **M/V IC PROGRESS** | 32,400 | 2011 | Zhejiang Hongxin / China | $10.6M | Undisclosed | Sold for $ 10.6 mill. |
@@ -116,7 +116,7 @@ demolition market rates, please check our comprehensive demometer below:
 
 - **M/V HONCHO**: M/V HONCHO (56,603 dwt, blt 2011 China Shipping Jiangsu/China, LR ss/dd due 05/2026, 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S50MC-C8) - Sold for $ 13.4 mill to Greek buyers. note: it is unclear whether delivery to Buyers will be with surveys passed or due.
 
-- **M/V SEA CREDENCE**: M/V SEA CREDENCE (55,640 dwt, blt 2010 Mitsui/Japan, CCS ss due 11/2030 dd due 11/2028, 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S50MC-C) - Sold for $ 16 mill to Chinese buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 440 450 460 stable INDIA 440 450 460 stable BANGLADESH 480 - 490 510 520 stable
+- **M/V SEA CREDENCE**: M/V SEA CREDENCE (55,640 dwt, blt 2010 Mitsui/Japan, CCS ss due 11/2030 dd due 11/2028, 5 ho/5 ha, 4 x 30t CR, MAN B&W 6S50MC-C) - Sold for $ 16 mill to Chinese buyers.
 
 - **M/V VOSCO UNITY**: M/V VOSCO UNITY (53,552 dwt, blt 2004 Imabari/Japan, LR, VR ss/dd due 09/2026, 5 ho/5 ha, 4 x 30.5t CR, MAN B&W 6S50MC-C) - Sold for $ 8.47 mill.
 

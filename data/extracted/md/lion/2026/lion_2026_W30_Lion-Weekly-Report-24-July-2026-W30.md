@@ -69,7 +69,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 | **M/V AANYA** | 179,628 | 2012 | HHIC-Phil Inc / Philippines | $37.5M | Undisclosed | Hanjin Subic capesize, should be en bloc deal with last week's reported sale of exact sister AASHNA for same price. |
 | **M/V NICHOLAS G.S** | 179,221 | 2010 | Sungdong / Korea | $34.4M | Chinese buyers | scrubber fitted. |
 | **M/V PONT ROUGE** | 99,992 | 2021 | Tsuneishi Zhoushan / China | $36.0M | Undisclosed | offers were invited 21st July 2026. |
-| **M/V MONT FORT** | 82,113 | 2012 | Tsuneishi / Japan | $22.0M | Undisclosed | TESS 82, scrubber fitted, offers were invited 15th July 2026. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 470 - 480 500 - 510 520 firm INDIA 400 410 420 soft BANGLADESH 475 - 485 515 - 525 540 firm |
+| **M/V MONT FORT** | 82,113 | 2012 | Tsuneishi / Japan | $22.0M | Undisclosed | TESS 82, scrubber fitted, offers were invited 15th July 2026. |
 | **M/V IVESTOS 8** | 75,239 | 2008 | Hudong / China | $11.7M | Undisclosed | price in line with late June's sale of similar unit THE WISE (73.5k blt 2007/Jiangnan China) for region high $ 11 mill. |
 | **M/V SEACON TOKYO** | 66,628 | 2023 | Tsuneishi Zhoushan / China | $41.6M | Undisclosed | offers invited 6th July 20206, Eco M/E IMO NOx Tier III - Cranes 4/36 tons Aeroline streamlined, low wind resistance hull form on bow/accom house, new benchmark sale. |
 | **M/V BRITTA OLDENDORFF** | 62,623 | 2020 | Oshima / Japan | $37.5M each | Bangladeshi buyers (clients of Meghna) | & |
@@ -126,7 +126,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 - **M/V PONT ROUGE**: M/V PONT ROUGE (99,992 dwt, blt 2021 Tsuneishi Zhoushan/China, NK  ss due 01/2031 dd due 12/2028, 7 ho/7 ha, B&W 6G60ME-C9) - Understand trading firm region $ 36 mill basis charter free delivery 15 Oct - 31 Dec 2026 - Note: offers were invited 21st July 2026.
 
-- **M/V MONT FORT**: M/V MONT FORT (82,113 dwt, blt 2012 Tsuneishi/Japan, NK  ss/dd due 02/2027, 7 ho/7 ha, B&W 6S60MC-C) - understand trading firm $ 22 mill, Note: TESS 82, scrubber fitted, offers were invited 15th July 2026. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 470 - 480 500 - 510 520 firm INDIA 400 410 420 soft BANGLADESH 475 - 485 515 - 525 540 firm
+- **M/V MONT FORT**: M/V MONT FORT (82,113 dwt, blt 2012 Tsuneishi/Japan, NK  ss/dd due 02/2027, 7 ho/7 ha, B&W 6S60MC-C) - understand trading firm $ 22 mill, Note: TESS 82, scrubber fitted, offers were invited 15th July 2026.
 
 - **M/V IVESTOS 8**: M/V IVESTOS 8 (75,239 dwt, blt 2008 Hudong/China, KR  ss/dd due 05/2026, 7 ho/7 ha, B&W 5S60MC-C) - Sold for $ 11.7 mill basis imminent surveys due. - Note: price in line with late June's sale of similar unit THE WISE (73.5k blt 2007/Jiangnan China) for region high $ 11 mill.
 

@@ -67,7 +67,7 @@ comprehensive demometer below:
 | **M/V AQUAVITA AIM** | 82,192 | 2019 | Oshima / Japan | $38.2M | European buyers | very firm price achieved in comparison BW MATSUYAMA (81,810 dwt blt 2019 Tsuneishi Cebu) sold for $ 31 mill last January & MONT BLANC HAWK (81,638 dwt blt 2017 Imabari/Japan) sold for $ 32 mill in June. |
 | **M/V VELOS JASPER** | 82,167 | 2012 | Tsuneishi / Japan | $23.5M | Chinese buyers | increased level compared to last month's sale of MONT FORT (81,113 dwt blt 2012 Tsuneishi/Japan) for $ 22 mill. |
 | **M/V ARTVIN** | 81,827 | 2011 | HMD / Korea | $19.45M each | Undisclosed | - |
-| **M/V ORDU** | 81,660 | 2012 | HMD / Korea | $19.45M each | Undisclosed | increased level compared with May's sale of AVALON (81,565 dwt blt 2011 Sundong/Korea) for $ 17.8 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 490 500 510 positive INDIA 420 - 430 440 460 - 470 stable BANGLADESH 470 - 480 505 - 515 530 softening |
+| **M/V ORDU** | 81,660 | 2012 | HMD / Korea | $19.45M each | Undisclosed | increased level compared with May's sale of AVALON (81,565 dwt blt 2011 Sundong/Korea) for $ 17.8 mill. |
 | **M/V FRANCESCO CORRADO** | 77,061 | 2008 | Oshima / Japan | $15.0M | South Korean buyers | achieved same price as her sister G.B. CORRADO (77,061 dwt blt 2008 Oshima/Japan) did last month. |
 | **M/V EBURY TRADER** | 56,603 | 2011 | China Shipping Jiangsu / China | $13.0M | Chinese buyers | price slightly better than the $ 12.5 mill achieved last month by similar unit JUNIPER (57,185 dwt blt 2011 STX Dalian). |
 | **M/V GLORY BRIDGE** | 50,077 | 2001 | Mitsui / Japan | $7.5M | Undisclosed | new benchmark sale. |
@@ -123,7 +123,7 @@ comprehensive demometer below:
 
 - **M/V ARTVIN**: M/V ARTVIN (81,827 dwt, blt 2011 HMD/Korea, LR ss/dd due 10/2026, 7 ho/7 ha, B&W 6S60MC-C8)
 
-- **M/V ORDU**: M/V ORDU (81,660 dwt, blt 2012 HMD/Korea, LR ss/dd due 05/2027, 7 ho/7 ha, B&W 6S60MC-C8) - Sold en bloc for $ 19.45 mill each. - Note: increased level compared with May's sale of AVALON (81,565 dwt blt 2011 Sundong/Korea) for $ 17.8 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 490 500 510 positive INDIA 420 - 430 440 460 - 470 stable BANGLADESH 470 - 480 505 - 515 530 softening
+- **M/V ORDU**: M/V ORDU (81,660 dwt, blt 2012 HMD/Korea, LR ss/dd due 05/2027, 7 ho/7 ha, B&W 6S60MC-C8) - Sold en bloc for $ 19.45 mill each. - Note: increased level compared with May's sale of AVALON (81,565 dwt blt 2011 Sundong/Korea) for $ 17.8 mill.
 
 - **M/V FRANCESCO CORRADO**: M/V FRANCESCO CORRADO (77,061 dwt, blt 2008 Oshima/Japan, AB ss due 05/2028 dd due 05/2026, 7 ho/7 ha, B&W 5S60MC-C) - Sold for $ 15 mill to South Korean buyers, neo fitted, grain/alumina clean. Note: achieved same price as her sister G.B. CORRADO (77,061 dwt blt 2008 Oshima/Japan) did last month.
 

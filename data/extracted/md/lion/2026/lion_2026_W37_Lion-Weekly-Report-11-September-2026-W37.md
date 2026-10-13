@@ -75,7 +75,7 @@ of demolition market rates, please check our comprehensive demometer below:
 | **M/V DART TRADER** | 79,467 | 2011 | Jinhai / China | $13.7M | Undisclosed | Sold for $ 13.7 mill basis delivery with surveys due in the Far East. |
 | **M/V AE JUPITER** | 74,475 | 2007 | Hudong / China | $11.5M | Undisclosed | offers invited 27th August, shaft generator installed. |
 | **M/V MELIA** | 76,225 | 2005 | Tsuneishi / Japan | $11.5M | Undisclosed | Sold for $ 11.5 mill basis prompt delivery Far East. |
-| **M/V JIANGSU HAITONG JSHT297** | 63,500 | 2027 | Jiangsu Haitong / China | $39.0M | Undisclosed | Sold for $ 39 mill basis delivery October. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 - 295 305 315 firm PAKISTAN 500 520 530-535 soft INDIA 460 480 495 firm BANGLADESH 490 510 - 515 520 - 525 soft |
+| **M/V JIANGSU HAITONG JSHT297** | 63,500 | 2027 | Jiangsu Haitong / China | $39.0M | Undisclosed | Sold for $ 39 mill basis delivery October. |
 | **M/V OCEAN TIANBAO** | 63,455 | 2016 | China Shipping Jiangsu / China | $26.5M | Undisclosed | offers invited 3rd September, eco m/e. |
 | **M/V AERIKO** | 63,351 | 2013 | Yangzhou Dayang / China | $24.0M | Undisclosed | Crown 63 design, eco, docking recently passed. |
 | **M/V SKY KNIGHT** | 58,078 | 2012 | Shin Kurushima / Japan | $21.5M | Undisclosed | offers invited 2nd September. |
@@ -134,7 +134,7 @@ of demolition market rates, please check our comprehensive demometer below:
 
 - **M/V MELIA**: M/V MELIA (76,225 dwt, blt 2005 Tsuneishi/Japan, NK ss due 02/2030 dd due 01/2028, 7 ho/7 ha, B&W 6S60MC) - Sold for $ 11.5 mill basis prompt delivery Far East.
 
-- **M/V JIANGSU HAITONG JSHT297**: M/V JIANGSU HAITONG JSHT297 (63,500 dwt, blt 2027 Jiangsu Haitong/China, LR, 5 ho/5 ha, 4 x 30t CR, 1 x MAN-B&W 6G50ME-C9) - Sold for $ 39 mill basis delivery October. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 - 295 305 315 firm PAKISTAN 500 520 530-535 soft INDIA 460 480 495 firm BANGLADESH 490 510 - 515 520 - 525 soft
+- **M/V JIANGSU HAITONG JSHT297**: M/V JIANGSU HAITONG JSHT297 (63,500 dwt, blt 2027 Jiangsu Haitong/China, LR, 5 ho/5 ha, 4 x 30t CR, 1 x MAN-B&W 6G50ME-C9) - Sold for $ 39 mill basis delivery October.
 
 - **M/V OCEAN TIANBAO**: M/V OCEAN TIANBAO (63,455 dwt, blt 2016 China Shipping Jiangsu/China, LR ss/dd due 11/2026, 5 ho/5 ha, 4 x 30t CR, B&W 5S60ME-C8) - Sold for $ 26.5 mill basis ss/dd due, note: offers invited 3rd September, eco m/e.
 

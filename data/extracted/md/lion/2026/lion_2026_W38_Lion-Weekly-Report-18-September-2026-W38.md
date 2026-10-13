@@ -79,7 +79,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V BW JAPAN** | 81,609 | 2019 | Tsuneishi Cebu / Philippines | $38.2M | Indian buyers (clients of Great Eastern) | identical sister BW MATSUYAMA sold for $ 31 mill back in January 2026. |
 | **M/V BORA** | 81,682 | 2014 | Sainty / China | $22.5M | Undisclosed | neo fitted, identical sister SIROCCO was sold for region $ 20 mill back in May 2026. |
-| **M/V KING LOONG** | 77,430 | 2006 | Oshima / Japan | $13.0M | Chinese buyers | new benchmark sale. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 300 - 305 315 - 320 325 - 330 firm PAKISTAN 500 520 530 - 535 stable INDIA 460 480 495 firm BANGLADESH 490 510 - 515 520 - 525 stable |
+| **M/V KING LOONG** | 77,430 | 2006 | Oshima / Japan | $13.0M | Chinese buyers | new benchmark sale. |
 | **M/V SEA ORION** | 76,602 | 2005 | Imabari / Japan | $11.5M | Undisclosed | offers invited 9th September 2026, new benchmark sale. |
 | **M/V INDIGO BREEZE** | 60,430 | 2017 | Mitsui / Japan | $30.5M | Greek buyers | offers invited 16th September 2026, note: exact price as LIVITA (63.5k blt 2017 Shin Kasado/Japan) reported beginning of July 2026. |
 | **M/V IPSEA COLOSSUS** | 58,818 | 2011 | Kawasaki / Japan | $21.0M | Undisclosed | exact sister STENIA COLOSSUS (58,731 dwt, blt 2011 Kawasaki/Japan) sold for region $ 21 mill on 2nd September 2026. |
@@ -142,7 +142,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 - **M/V BORA**: M/V BORA (81,682 dwt, blt 2014 Sainty/China, BV ss due 01/2029 dd due 04/2027, 7 ho/7 ha, B&W 5S60MC- C8) - Rumoured committed for region $ 22.5 mill subject to inspection, note: neo fitted, identical sister SIROCCO was sold for region $ 20 mill back in May 2026.
 
-- **M/V KING LOONG**: M/V KING LOONG (77,430 dwt, blt 2006 Oshima/Japan, BV ss due 08/2031 dd due 06/2029, 7 ho/7 ha, B&W 5S60MC-C) - Sold for $ 13 mill to Chinese buyers basis ss/dd passed June 2026, note: new benchmark sale. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 300 - 305 315 - 320 325 - 330 firm PAKISTAN 500 520 530 - 535 stable INDIA 460 480 495 firm BANGLADESH 490 510 - 515 520 - 525 stable
+- **M/V KING LOONG**: M/V KING LOONG (77,430 dwt, blt 2006 Oshima/Japan, BV ss due 08/2031 dd due 06/2029, 7 ho/7 ha, B&W 5S60MC-C) - Sold for $ 13 mill to Chinese buyers basis ss/dd passed June 2026, note: new benchmark sale.
 
 - **M/V SEA ORION**: M/V SEA ORION (76,602 dwt, blt 2005 Imabari/Japan, KR ss due 01/2030 dd due 12/2027, 7 ho/7 ha, B&W 6S60MC) - Sold for $ 11.5 mill basis delivery October 2026 Singapore-Japan range, note: offers invited 9th September 2026, new benchmark sale.
 

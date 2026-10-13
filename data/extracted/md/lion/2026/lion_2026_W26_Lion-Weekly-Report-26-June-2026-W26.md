@@ -63,7 +63,7 @@ market rates, please check our comprehensive demometer below:
 | **M/V SEACON HAMBURG** | 85,505 | 2023 | CSSC Huangpu Wenchong / China | $37.5M | Cypriot buyers | Sold for $ 37.5 mill to Cypriot buyers including balance of index linked t/c attached till 2028. |
 | **M/V ETRON** | 81,080 | 2016 | Jinling / China | $27.0M | clients of Agricore | Eco m/e, ss/dd due. Increased price compared with March's sale of sister TALIMEN (81k blt 2026 Jinling/China) for $25.6 mill. |
 | **M/V QIDONG XIANGYU XY197** | 63,800 | - | - | $75.0M en bloc | Undisclosed | & |
-| **M/V QIDONG XIANGYU XY198** | 63,800 | - | - | $75.0M en bloc | Undisclosed | ultramax resales. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 300 - 310 firm PAKISTAN 460 470 - 480 490 -500 stable INDIA 400 410 - 415 425 - 435 negative BANGLADESH 470 - 480 490 - 500 520 - 530 stable |
+| **M/V QIDONG XIANGYU XY198** | 63,800 | - | - | $75.0M en bloc | Undisclosed | ultramax resales. |
 | **M/V ULTRA SAKA** | 63,526 | 2013 | Chengxi / China | $23.0M | Undisclosed | Tier II, eco m/e Sellers acquired her as "MITSOS" on January this year for $ 20.5 mill, thus realizing a profit of nearly $ 3 mill within a few months. |
 | **M/V ST PAUL** | 57,982 | 2010 | Tsuneishi Cebu / Philippines | $16.8M | Undisclosed | offers invited 24th June 2026, the vessel is employed in the CTM/RSA pool and have a 90 days redelivery notice. |
 | **M/V UNITY MARIA** | 55,705 | 2012 | HMD / Korea | $16.7M | Undisclosed | Sold for region $ 16.5 - $ 16.7 mill, new benchmark sale |
@@ -112,7 +112,7 @@ market rates, please check our comprehensive demometer below:
 
 - **M/V QIDONG XIANGYU XY197**: M/V QIDONG XIANGYU XY197 (63,800 dwt, dely September 2026 Nantong Xiangyu/China, CC 5 ho/5 ha, 4 x 30t CR, B&W 6G50ME-C9) &
 
-- **M/V QIDONG XIANGYU XY198**: M/V QIDONG XIANGYU XY198 (63,800 dwt, dely December 2026 Nantong Xiangyu/China, CC 5 ho/5 ha, 4 x 30t CR, B&W 6G50ME-C9) - Sold en bloc for $ 75 mill, note: ultramax resales. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 300 - 310 firm PAKISTAN 460 470 - 480 490 -500 stable INDIA 400 410 - 415 425 - 435 negative BANGLADESH 470 - 480 490 - 500 520 - 530 stable
+- **M/V QIDONG XIANGYU XY198**: M/V QIDONG XIANGYU XY198 (63,800 dwt, dely December 2026 Nantong Xiangyu/China, CC 5 ho/5 ha, 4 x 30t CR, B&W 6G50ME-C9) - Sold en bloc for $ 75 mill, note: ultramax resales.
 
 - **M/V ULTRA SAKA**: M/V ULTRA SAKA (63,526 dwt, blt 2013 Chengxi/China, LR ss due 06/2028 dd due 09/2026, 5 ho/5 ha, 4 x 30t CR, B&W 5S60ME-C8) - Sold for region low $ 23 mill, note: Tier II, eco m/e Sellers acquired her as "MITSOS" on January this year for $ 20.5 mill, thus realizing a profit of nearly $ 3 mill within a few months.
 

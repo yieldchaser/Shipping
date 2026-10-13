@@ -64,7 +64,7 @@ check our comprehensive demometer below:
 | **M/V ANGLO MARIE LOUISE** | 114,674 | 2011 | New Times / China | $20.0M each | Undisclosed | "baby" capes, scrubber fitted, we are unsure whether sale includes respective Evergreen charters attached or it is basis charter free dely. |
 | **M/V G. B. CORRADO** | 77,061 | 2008 | Oshima / Japan | $15.0M | Undisclosed | firm price compared to April's deal of similar ALEXANDROS PETRAKIS (76,596 dwt blt 2008 Shin Kasado/Japan) for low $ 13 mill. |
 | **M/V AMIS WISDOM II** | 61,611 | 2010 | Oshima / Japan | $22.0M | Undisclosed | in line with last week's deal of one-year younger AMIS WISDOM VI (61,456 dwt blt 2011 Shin Kasado/Japan) for low $ 22 mill basis surveys due September. |
-| **M/V LILA FROSTBURG** | 56,425 | 2013 | Hantong / China | $16.8M | Undisclosed | early July sale. Note: slightly higher price compared with June's deal of exact sister LILA CUMBERLAND for $16.5 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 480 - 490 500 - 510 520 positive INDIA 420 - 430 440 460 - 470 positive BANGLADESH 475 - 485 510 - 520 540 firm |
+| **M/V LILA FROSTBURG** | 56,425 | 2013 | Hantong / China | $16.8M | Undisclosed | early July sale. Note: slightly higher price compared with June's deal of exact sister LILA CUMBERLAND for $16.5 mill. |
 | **M/V AGIOS NEKTARIOS I** | 56,722 | 2010 | Hantong / China | $13.3M | Undisclosed | soft price compared with July's deal of one-year younger sister OMEGA S (56,892 dwt blt 2011 Hantong/China) for $ 14.3 mill basis surveys due. |
 | **M/V NIKOS N** | 53,815 | 2011 | Chengxi / China | $15.2M | Undisclosed | "The Diamond 54 +" design. -very firm price compared with March's deal of sister FIGEAC (53,117 dwt blt 2011 Chengxi/China) for $ 11.9 mill basis surveys due. |
 | **M/V LIANSON HERMES** | 53,507 | 2009 | Zhejiang Shbldg / China | $13.0M | Undisclosed | Diamond 53 design. |
@@ -105,7 +105,7 @@ check our comprehensive demometer below:
 
 - **M/V AMIS WISDOM II**: M/V AMIS WISDOM II (61,611 dwt, blt 2010 Oshima/Japan, BV ss due 09/2030 dd due 06/2028, 5 ho/5 ha, 4 x 30t CR, B&W 6S50MC-C, 3 x gens) - Sold for $ 22 mill basis delivery ss/dd freshly passed. Note: in line with last week's deal of one-year younger AMIS WISDOM VI (61,456 dwt blt 2011 Shin Kasado/Japan) for low $ 22 mill basis surveys due September.
 
-- **M/V LILA FROSTBURG**: M/V LILA FROSTBURG (56,425 dwt, blt 2013 Hantong/China, KR ss/dd due 08/2028, 5 ho/5 ha, 4 x 36t CR, Wartsila 6RT-flex50) - Sold for $ 16.8 mill, note: early July sale. Note: slightly higher price compared with June's deal of exact sister LILA CUMBERLAND for $16.5 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 300 310 stable PAKISTAN 480 - 490 500 - 510 520 positive INDIA 420 - 430 440 460 - 470 positive BANGLADESH 475 - 485 510 - 520 540 firm
+- **M/V LILA FROSTBURG**: M/V LILA FROSTBURG (56,425 dwt, blt 2013 Hantong/China, KR ss/dd due 08/2028, 5 ho/5 ha, 4 x 36t CR, Wartsila 6RT-flex50) - Sold for $ 16.8 mill, note: early July sale. Note: slightly higher price compared with June's deal of exact sister LILA CUMBERLAND for $16.5 mill.
 
 - **M/V AGIOS NEKTARIOS I**: M/V AGIOS NEKTARIOS I (56,722 dwt, blt 2010 Hantong/China, RINA ss due 08/2030, 5 ho/5 ha, 4 x 35t CR, B&W 6S50MC-C) - Sold for $ 13.3 mill. Note: soft price compared with July's deal of one-year younger sister OMEGA S (56,892 dwt blt 2011 Hantong/China) for $ 14.3 mill basis surveys due.
 

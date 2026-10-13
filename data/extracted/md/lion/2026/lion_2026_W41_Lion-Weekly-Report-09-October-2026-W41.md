@@ -137,7 +137,7 @@ below:
 
 - **M/V GOLDEN MYRTALIA**: M/V GOLDEN MYRTALIA (177,979 dwt, blt 2011 SWS/China, AB ss/dd due 10/2026, 9 ho/9 ha, B&W 6S70MC) - Sold for region excess $ 40 mill. Note: vessel was again reported as committed for region of $27 to $28 mill in January earlier this year.
 
-- **M/V PAN ADVANCE**: M/V PAN ADVANCE (179,185 dwt, blt 2009 HHI/Korea, KR ss due 06/2029 dd due 07/2027, 9 ho/9 ha, B&W 6S70MC-C) - offers were invited 6th October 2026 and we understand vsl was committed region $ 37 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 300 310 320 stable PAKISTAN 470 500 510 - 520 soft INDIA 460 480 490 soft BANGLADESH 480 510 515 soft Note: open loop scrubber fitted.
+- **M/V PAN ADVANCE**: M/V PAN ADVANCE (179,185 dwt, blt 2009 HHI/Korea, KR ss due 06/2029 dd due 07/2027, 9 ho/9 ha, B&W 6S70MC-C) - offers were invited 6th October 2026 and we understand vsl was committed region $ 37 mill. Note: open loop scrubber fitted.
 
 - **M/V WORLD DIANA**: M/V WORLD DIANA (82,031 dwt, blt 2020 Oshima/Japan, NV ss due 04/2030 dd due 05/2028, 7 ho/7 ha, B&W 6S60ME-C8) - Sold for region $39.5 - $ 41 mill, note: scrubber fitted.
 

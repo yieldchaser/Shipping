@@ -71,7 +71,7 @@ demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **M/V CAPE MERLIN** | 206,312 | 2005 | Imabari / Japan | $23.5M | Chinese buyers | Sold for region $ 23 - $ 23.5 mill to Chinese buyers basis ss/dd freshly passed in November. |
-| **M/V CAPE QINGDAO** | 170,089 | 2002 | IHI - Kure / Japan | $10.5M | Middle Eastern buyers (LDT is 20985 lt | Sold for $ 10.5 mill to Middle Eastern buyers (LDT is 20985 lt, price translates to region $500 per lt) COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 270-280 290-295 305-310 stable PAKISTAN 380 390-400 410 soft INDIA 380 390-400 410 soft BANGLADESH 400 415 425-430 down |
+| **M/V CAPE QINGDAO** | 170,089 | 2002 | IHI - Kure / Japan | $10.5M | Middle Eastern buyers (LDT is 20985 lt | Sold for $ 10.5 mill to Middle Eastern buyers (LDT is 20985 lt, price translates to region $500 per lt) |
 | **M/V DREAM POWER** | 107,392 | 2011 | Oshima / Japan | $17.3M | Undisclosed | Sold for $ 17.3 mill |
 | **M/V THERESA HAINAN** | 81,635 | 2013 | Sainty / China | $16.0M | Undisclosed | Sold for region low-mid $ 16 mill |
 | **M/V THE GIVER** | 75,726 | 2006 | Sanoyas / Japan | $11.2M | Chinese buyers | Ice 1C |
@@ -100,8 +100,8 @@ demometer below:
 | Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details |
 |:---|---:|:---:|:---|:---|:---|:---|
 | **C/V AS CLEMENTINA** | 39,159 | 2006 | HMD / S. Korea | $24.0M | Undisclosed | Sold for $ 24 mill |
-| **C/V NEVZAT KALKAVAN** | 26,811 | 2011 | Sedef / Turkey | - | Undisclosed | - |
-| **C/V MUKADDES KALKAVAN** | 26,811 | 2008 | Sedef Tuzla / Turkey | - | Swiss buyers (hearing clients of MSC) | Sold en bloc for 17 mill each to Swiss buyers (hearing clients of MSC) |
+| **C/V NEVZAT KALKAVAN** | 26,811 | 2011 | Sedef / Turkey | $17.0M each | Swiss buyers (hearing clients of MSC) | - |
+| **C/V MUKADDES KALKAVAN** | 26,811 | 2008 | Sedef Tuzla / Turkey | $17.0M each | Swiss buyers (hearing clients of MSC) | Sold en bloc for 17 mill each to Swiss buyers (hearing clients of MSC) |
 
 
 ## Demolition Sales
@@ -117,7 +117,7 @@ demometer below:
 
 - **M/V CAPE MERLIN**: M/V CAPE MERLIN (206,312 dwt, blt 2005 Imabari/Japan, LR, 9 ho/9 ha, B&W 6S70MC-C) - Sold for region $ 23 - $ 23.5 mill to Chinese buyers basis ss/dd freshly passed in November.
 
-- **M/V CAPE QINGDAO**: M/V CAPE QINGDAO (170,089 dwt, blt 2002 IHI - Kure /Japan, RI ss/dd due 12/2026, 9 ho/9 ha, Sulzer 6RTA72) - Sold for $ 10.5 mill to Middle Eastern buyers (LDT is 20985 lt, price translates to region $500 per lt) COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 270-280 290-295 305-310 stable PAKISTAN 380 390-400 410 soft INDIA 380 390-400 410 soft BANGLADESH 400 415 425-430 down
+- **M/V CAPE QINGDAO**: M/V CAPE QINGDAO (170,089 dwt, blt 2002 IHI - Kure /Japan, RI ss/dd due 12/2026, 9 ho/9 ha, Sulzer 6RTA72) - Sold for $ 10.5 mill to Middle Eastern buyers (LDT is 20985 lt, price translates to region $500 per lt)
 
 - **M/V DREAM POWER**: M/V DREAM POWER (107,392 dwt, blt 2011 Oshima/Japan, NK ss/dd due 04/2026, 7 ho/7 ha, B&W 6S60MC) - Sold for $ 17.3 mill
 

@@ -66,7 +66,7 @@ demometer below:
 | **M/V BULK JOYANCE** | 175,636 | 2012 | Jinhai / China | $33.0M | Undisclosed | offers invited 27th April 2026, Comparable with early February's sale of two-years younger sister STAR SCARLETT (176k blt 2014 Jinhai/China, scrubber fitted) for $ 36 mill. |
 | **M/V LESTARI MANJUNG** | 93,200 | 2011 | JNS / China | $14.0M | Undisclosed | post-panamax (38 mtrs beam), Tier I. Increased price comparable with early April's sale of one-year younger sister YANGZE 901 (93k blt 2012 JNS/China) for $ 12.8 mill. |
 | **M/V SIROCCO** | 82,000 | 2014 | Sainty / China | $20.3M | Undisclosed | kamsarmax, traded grains & alumina the past 6 months. Increased price comparable with last week's sale of similar two-years older unit ELWAY (82k blt 2012 JNS/China) for $ 16.5 mill. |
-| **M/V AVALON** | 81,565 | 2011 | Sungdong / S. Korea | $17.8M | Undisclosed | basis surveys due, grain clean. Price in line with last week's sale of similar one-year younger unit JOHN M. CARRAS (82k blt 2012 DSME/S. Korea) for $ 18.2 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 firm INDIA 420 - 425 430 - 435 440 - 450 soft BANGLADESH 450 460 - 470 480 - 490 soft |
+| **M/V AVALON** | 81,565 | 2011 | Sungdong / S. Korea | $17.8M | Undisclosed | basis surveys due, grain clean. Price in line with last week's sale of similar one-year younger unit JOHN M. CARRAS (82k blt 2012 DSME/S. Korea) for $ 18.2 mill. |
 | **M/V MANDY MORN** | 82,612 | 2008 | Tsuneishi Zhoushan / China | $14.0M | Undisclosed | Sold for $ 14 mill basis t/c free dely June/July with dry-docking surveys due. |
 | **M/V HUAYANG LILY** | 63,553 | 2016 | - | $50.4M en bloc | Chinese buyers | & sister |
 | **M/V HUAYANG ROSE** | 63,562 | 2016 | - | $50.4M en bloc | Chinese buyers | Eco m/e, ss/dd surveys due. Price in line with end March's sale of similar two-years older unit JIN RUI (64k blt 2014 Hantong/China) for $ 24 mill. |
@@ -104,7 +104,7 @@ demometer below:
 
 - **M/V SIROCCO**: M/V SIROCCO (82,000 dwt, blt 2014 Sainty/China, BV ss due 01/2029 dd due 03/2027, 7 ho/7 ha, MAN B&W 5S60MC-C8) - Sold for $ 20.3 mill, note: kamsarmax, traded grains & alumina the past 6 months. Increased price comparable with last week's sale of similar two-years older unit ELWAY (82k blt 2012 JNS/China) for $ 16.5 mill.
 
-- **M/V AVALON**: M/V AVALON (81,565 dwt, blt 2011 Sungdong/S. Korea, NV ss/dd due 07/2026, 7 ho/7 ha, MAN B&W 6S60MC-C) - Sold for $ 17.8 mill, note: basis surveys due, grain clean. Price in line with last week's sale of similar one-year younger unit JOHN M. CARRAS (82k blt 2012 DSME/S. Korea) for $ 18.2 mill. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 firm INDIA 420 - 425 430 - 435 440 - 450 soft BANGLADESH 450 460 - 470 480 - 490 soft
+- **M/V AVALON**: M/V AVALON (81,565 dwt, blt 2011 Sungdong/S. Korea, NV ss/dd due 07/2026, 7 ho/7 ha, MAN B&W 6S60MC-C) - Sold for $ 17.8 mill, note: basis surveys due, grain clean. Price in line with last week's sale of similar one-year younger unit JOHN M. CARRAS (82k blt 2012 DSME/S. Korea) for $ 18.2 mill.
 
 - **M/V MANDY MORN**: M/V MANDY MORN (82,612 dwt, blt 2008 Tsuneishi Zhoushan/China, RINA ss due 10/2028 dd due 07/2026, 7 ho/7 ha, MAN B&W 7S50MC-C) - Sold for $ 14 mill basis t/c free dely June/July with dry-docking surveys due.
 

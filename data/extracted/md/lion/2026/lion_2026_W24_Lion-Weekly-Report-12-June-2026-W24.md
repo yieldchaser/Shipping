@@ -66,7 +66,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 | **M/V OCEAN ARTEMIS** | 93,103 | 2011 | Jinling / China | $15.0M | Undisclosed | post-panamax, Tier II, Firm price compared with last month's sale of LESTARI MANJUNG (93k blt 2011 JNS/China) for $14 mill. |
 | **M/V VULCANIA** | 82,036 | 2015 | Jiangsu Newyangzi / China | $26.0M | Greek buyers | Eco type kamsarmax, new benchmark sale. Firm price compared with last week's sale of THEMIS (82k blt 2012 COSCO Dalian/China) for $ 18 mill and beginning of May's sale of SIROCCO (82k blt 2014 Sainty/China) for $ 20.3 mill. |
 | **M/V PROTEAS** | 76,454 | 2005 | Tsuneishi / Japan | $12.0M | Chinese buyers | last 5 cargoes were grains, firm price, new benchmark sale. |
-| **M/V AFRICAN TERN** | 58,342 | 2013 | Dalian COSCO KHI / China | $19.0M | Undisclosed | DACKS 58 design, offers invited 9th June 2026, firm price, new benchmark sale. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 stable INDIA 420 430 440 stable BANGLADESH 460 470 490 stable |
+| **M/V AFRICAN TERN** | 58,342 | 2013 | Dalian COSCO KHI / China | $19.0M | Undisclosed | DACKS 58 design, offers invited 9th June 2026, firm price, new benchmark sale. |
 | **M/V SANTA RITA** | 55,677 | 2010 | Mitsui / Japan | $17.2M | Greek buyers | off market deal. Firm price compared with mid-May's sale of SETY (55.7k blt 2010 IHI/Japan) for $16.1 mill, new benchmark sale. |
 | **M/V SIDER HARMONY** | 38,581 | 2020 | Tsuneishi Cebu / Philippines | $28.5M | Undisclosed | as per our records, the sellers acquired the vsl as LILAC HARMONY, in September of last year for $25 million, making a hefty profit of $3.5 million in under a year. |
 | **M/V INTERLINK CELERITY** | 40,112 | 2017 | Kouan / China | $22.0M each | Undisclosed | - |
@@ -115,7 +115,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 
 - **M/V PROTEAS**: M/V PROTEAS (76,454 dwt, blt 2005 Tsuneishi/Japan, NK ss/dd due 05/2027, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 12 mill to Chinese buyers basis prompt charter free delivery Far East within August after discharge Vietnam, note: last 5 cargoes were grains, firm price, new benchmark sale.
 
-- **M/V AFRICAN TERN**: M/V AFRICAN TERN (58,342 dwt, blt 2013 Dalian COSCO KHI/China, NK ss/dd due 06/2028, 5 ho/5 ha, 4 x 30.5t CR, B&W 6S50MC-C8, 3 x gens) - Sold for high $ 19 mill basis charter free delivery PMO-Japan range between 1st July - 31st October 2026. note: DACKS 58 design, offers invited 9th June 2026, firm price, new benchmark sale. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 stable INDIA 420 430 440 stable BANGLADESH 460 470 490 stable
+- **M/V AFRICAN TERN**: M/V AFRICAN TERN (58,342 dwt, blt 2013 Dalian COSCO KHI/China, NK ss/dd due 06/2028, 5 ho/5 ha, 4 x 30.5t CR, B&W 6S50MC-C8, 3 x gens) - Sold for high $ 19 mill basis charter free delivery PMO-Japan range between 1st July - 31st October 2026. note: DACKS 58 design, offers invited 9th June 2026, firm price, new benchmark sale.
 
 - **M/V SANTA RITA**: M/V SANTA RITA (55,677 dwt, blt 2010 Mitsui/Japan, NK ss/dd due 11/2025, 5 ho/5 ha, 4 x 30t CR + 4x12 cbm Grabs (SMEG), B&W 6S50MC-C) - Sold for $ 17.2 mill to Greek buyers, note: off market deal. Firm price compared with mid-May's sale of SETY (55.7k blt 2010 IHI/Japan) for $16.1 mill, new benchmark sale.
 

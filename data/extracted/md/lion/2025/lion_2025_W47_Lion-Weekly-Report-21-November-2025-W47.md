@@ -72,7 +72,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 | **M/V BULK SYDNEY** | 207,992 | 2020 | New Times / China | $72.75M each | undisclosed buyers | scrubber fitted, eco, newcastlemax |
 | **M/V PIAVIA** | 93,296 | 2011 | Yangfan Group Co Ltd / China | $11.75M | Undisclosed | Sold for $ 11,75 mill including t/c attached at undisclosed rate/duration |
 | **M/V BW JAPAN** | 81,609 | 2019 | Tsuneishi Cebu / Philippines | $32.5M | undisclosed buyers | understand committed for region $ 32,5 mill to undisclosed buyers |
-| **M/V GNS HARMONY** | 77,509 | 2001 | Sasebo / Japan | $6.75M | undisclosed buyers | 36.5 mtrs beam, ss due April 2026 COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 stable PAKISTAN 390 410 410 soft INDIA 380 405-410 410-420 stable BANGLADESH 420-430 450 460 positive |
+| **M/V GNS HARMONY** | 77,509 | 2001 | Sasebo / Japan | $6.75M | undisclosed buyers | 36.5 mtrs beam, ss due April 2026 |
 | **M/V IONIAN PRINCESS** | 76,596 | 2007 | Imabari / Japan | $10.3M | undisclosed buyers | Sold for $ 10,3 mill to undisclosed buyers |
 | **M/V GREAT VOYAGE** | 61,088 | 2021 | Dalian COSCO KHI / China | $30.5M | Greek buyers | Sold for $ 30,5 mill to Greek buyers |
 | **M/V VEGA STETIND** | 55,496 | 2008 | Oshima Shipbuilding Co Ltd / Japan | $11.0M | undisclosed interests | understand committed for region $ 11 mill to undisclosed interests |
@@ -123,7 +123,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 
 - **M/V BW JAPAN**: M/V BW JAPAN (81,609 dwt, blt 2019 Tsuneishi Cebu /Philippines, NK ss due 05/2029 dd due 05/2027, 7 ho/7 ha, B&W 6S60ME-C8) - understand committed for region $ 32,5 mill to undisclosed buyers
 
-- **M/V GNS HARMONY**: M/V GNS HARMONY (77,509 dwt, blt 2001 Sasebo /Japan, KR ss/dd due 04/2026, 5 ho/5 ha, B&W 5S60MC) - Sold for $ 6,75 mill to undisclosed buyers, note: 36.5 mtrs beam, ss due April 2026 COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 250 260 270 stable PAKISTAN 390 410 410 soft INDIA 380 405-410 410-420 stable BANGLADESH 420-430 450 460 positive
+- **M/V GNS HARMONY**: M/V GNS HARMONY (77,509 dwt, blt 2001 Sasebo /Japan, KR ss/dd due 04/2026, 5 ho/5 ha, B&W 5S60MC) - Sold for $ 6,75 mill to undisclosed buyers, note: 36.5 mtrs beam, ss due April 2026
 
 - **M/V IONIAN PRINCESS**: M/V IONIAN PRINCESS (76,596 dwt, blt 2007 Imabari/Japan, NK ss/dd due 01/2026, 7 ho/7 ha, B&W 6S60MC) - Sold for $ 10,3 mill to undisclosed buyers
 

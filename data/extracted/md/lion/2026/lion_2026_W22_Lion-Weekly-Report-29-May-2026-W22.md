@@ -66,7 +66,7 @@ demolition market rates, please check our comprehensive demometer below:
 | **M/V LOWLANDS CRIMSON** | 100,309 | 2020 | Oshima / Japan | $75.8M en bloc | Oman buyers (clients of Asyad Shipping) | 38 meters beam, post-panamax. |
 | **M/V NEW HARMONY 8** | 82,790 | 2006 | Tsuneishi / Japan | $13.0M | Undisclosed | Sold for $ 13 mill basis surveys due. |
 | **M/V PABAL** | 76,118 | 2012 | Kouan / China | $16.5M | Undisclosed | Sold for $ 16.5 mill. |
-| **M/V PANSTELLAR** | 76,602 | 2003 | Imabari / Japan | $10.0M | Indian buyers | Sold for region $ 10 mill to Indian buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 stable INDIA 420 430 440 stable BANGLADESH 460 470 490 stable |
+| **M/V PANSTELLAR** | 76,602 | 2003 | Imabari / Japan | $10.0M | Indian buyers | Sold for region $ 10 mill to Indian buyers. |
 | **M/V HONG RUN 6** | 75,921 | 2001 | Kanasashi / Japan | $7.0M | Undisclosed | Sold for $ 7 mill. |
 | **M/V KAMARES** | 74,444 | 2004 | Hudong / China | $8.6M | Chinese buyers | older sale. |
 | **M/V SHEN YU 79** | 74,204 | 2002 | Oshima / Japan | $9.8M | Undisclosed | converted to geared panamax last year, price premium due to gear, new benchmark deal. |
@@ -133,7 +133,7 @@ demolition market rates, please check our comprehensive demometer below:
 
 - **M/V PABAL**: M/V PABAL (76,118 dwt, blt 2012 Kouan/China, NV ss due 10/2027 dd due 01/2026, 7 ho/7 ha, B&W 5S60MC- C8) - Sold for $ 16.5 mill.
 
-- **M/V PANSTELLAR**: M/V PANSTELLAR (76,602 dwt, blt 2003 Imabari/Japan, NK ss/dd due 10/2026, 7 ho/7 ha, B&W 6S60MC) - Sold for region $ 10 mill to Indian buyers. COUNTRY BULKER TANKER CONT/TWEEN TREND TURKEY 290 280 300 stable PAKISTAN 450 - 460 470 - 480 485 - 490 stable INDIA 420 430 440 stable BANGLADESH 460 470 490 stable
+- **M/V PANSTELLAR**: M/V PANSTELLAR (76,602 dwt, blt 2003 Imabari/Japan, NK ss/dd due 10/2026, 7 ho/7 ha, B&W 6S60MC) - Sold for region $ 10 mill to Indian buyers.
 
 - **M/V HONG RUN 6**: M/V HONG RUN 6 (75,921 dwt, blt 2001 Kanasashi/Japan, KR ss/dd due 08/2026, 7 ho/7 ha, B&W 7S50MC-C) - Sold for $ 7 mill.
 
