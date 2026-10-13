@@ -116,6 +116,26 @@ For source S:
 6. Write `docs/handoff/audit/<S>_verdict.md`: MDs total, machine-clean, sampled by eye, fixed (list),
    open questions, extractor changes. Update the ledger row in this file in your branch.
 
+### 4a. Look at the page (use your vision — this is required, not optional)
+
+You are a vision model. Text-layer checks only prove a number exists somewhere on the page; only your
+eyes prove it sits in the right row and column, and only your eyes see outlined/raster tables.
+`scripts/verify/page_view.py` (read its docstring) makes the images:
+
+    python scripts/verify/page_view.py absent <md>                 # absent numbers + renders their pages
+    python scripts/verify/page_view.py side <md> <pdf> <page>      # page left, our MD table right, ONE png
+    python scripts/verify/page_view.py page <pdf> <page> --find "SPRINGBANK"   # red boxes on matches
+    python scripts/verify/page_view.py crop <pdf> <page> --find "SPRINGBANK" --save docs/handoff/evidence/<lane>/<id>.png
+
+When to look (not uselessly — every look costs time):
+- every MD that `absent` flags: open each rendered page and classify (section 4 step 3);
+- the stratified eye sample (section 4 step 4): run `side` and compare every cell of every table;
+- every edit you make: run `side` on the page AFTER the edit and look again;
+- every kind=image evidence line: make the crop with `crop` and look at it before writing the line.
+Write in the log what you saw ("p2 side: 14 rows, all cells match" / "p3: DD column shifted one row
+from VIALLI down"). A log that never describes a page is treated as "never looked" at review.
+Do not look at charts to read values from them — a chart is a note, never numbers.
+
 ## 5. Proof of work (non-negotiable — this is what your work is judged on)
 
 Every number you add or change in `data/extracted/**` needs one line in
@@ -168,9 +188,32 @@ section 3a says — never touch a lane claimed by another harness. Then work you
 (section 3) in order.
 Follow the audit protocol (section 4) source by source. Every number you change needs an evidence line
 (section 5); run check_evidence.py and the validator before every push; push only your branch.
+You can see images: use scripts/verify/page_view.py and look at the page as section 4a says;
+describe in your log what you saw on each page you checked.
 If something is ambiguous, write it under "Open questions" in your log and move on. Never estimate a
 number. Never read a chart by eye. When your lane's list is finished, start the next unaudited source
 in the ledger that no other lane owns, and say so in the log.
 ```
 
 Replace HARNESS with a unique name per harness (e.g. antigravity-1, kilo-1, roo-1). The same prompt can be given to every harness; the claim protocol assigns lanes.
+
+The vision line is already in the prompt above (section 4a: use scripts/verify/page_view.py
+and describe what was seen in the log).
+
+### Resume prompt (same harness, new chat/session)
+
+```
+You are harness HARNESS, resuming. Read docs/handoff/AGENT_OPERATING_MANUAL.md, then
+docs/handoff/claims/ and your log docs/handoff/logs/<your lane>.md and .progress.jsonl on your lane
+branch. Check out your lane branch, skip finished units, continue. Same rules as before.
+```
+
+### Owner checklist (who gets what)
+
+| harness | message | when |
+|---|---|---|
+| Antigravity (Gemini) | lane prompt with HARNESS=antigravity-1 | now |
+| Kilo | lane prompt with HARNESS=kilo-1 | now |
+| third harness, if any | lane prompt with HARNESS=<name>-1 | now |
+| any harness after a crash/new chat | resume prompt with its OLD harness name | as needed |
+| Claude, Saturday after quota reset | "Saturday review: fetch lane/* branches, run check_evidence per lane, re-check 10% of evidence lines + every OCR-UNCONFIRMED crop by eye with page_view side, merge what passes, then continue WORK_PACKAGES" | Sat 10-17 after 18:30 IST |

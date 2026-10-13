@@ -17,7 +17,7 @@
              "data/extracted/md/fearnleys/", "data/extracted/md/gibson/", "scripts/md_cleanup/"]
   },
   "_always_allowed": ["docs/handoff/logs/", "docs/handoff/evidence/", "docs/handoff/audit/", "docs/handoff/claims/"],
-  "_protected": ["scripts/verify/check_evidence.py", "scripts/validate_knowledge.py", "docs/handoff/lanes.json",
+  "_protected": ["scripts/verify/check_evidence.py", "scripts/verify/page_view.py", "scripts/validate_knowledge.py", "docs/handoff/lanes.json",
                  "docs/handoff/AGENT_OPERATING_MANUAL.md", "docs/handoff/WORK_PACKAGES_2026-10-14.md",
                  "knowledge/manifests/"]
 }
