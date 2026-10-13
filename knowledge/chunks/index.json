@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T05:44:30Z",
+ "generated_at": "2026-10-13T14:17:59Z",
  "compiler_version": 2,
  "count": 105,
  "files": [
@@ -169,14 +169,14 @@
    "path": "knowledge/chunks/broker_reports_broker_report_2026.jsonl",
    "stem": "broker_reports_broker_report_2026",
    "year": 2026,
-   "bytes": 6063692
+   "bytes": 6063008
   },
   {
    "file": "broker_reports_broker_report_unknown.jsonl",
    "path": "knowledge/chunks/broker_reports_broker_report_unknown.jsonl",
    "stem": "broker_reports_broker_report_unknown",
    "year": null,
-   "bytes": 390952
+   "bytes": 390891
   },
   {
    "file": "bunker_and_carbon_spreads_2026.jsonl",
