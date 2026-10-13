@@ -22,15 +22,15 @@ The clean market has been quiet with limited enquiry although short term rates h
 
 | Size | Tenor | Rate ($/day) | Eco / Scrubber | Trend |
 |---|---|---|---|---|
-| HANDY | 1 YR | $12,350 | Standard | flat |
-| HANDY | 2 YR | $13,000 | Standard | flat |
+| HANDY | 1 YR | $12,350 | Standard | up |
+| HANDY | 2 YR | $13,000 | Standard | up |
 | HANDY | 3 YR | $14,500 | Yes | flat |
 | HANDY | 5 YR | $14,500 | Yes | flat |
-| MR IMO3 | 1 YR | $13,350 | Standard | flat |
-| MR IMO3 | 2 YR | $13,750 | Standard | flat |
+| MR IMO3 | 1 YR | $13,350 | Standard | up |
+| MR IMO3 | 2 YR | $13,750 | Standard | up |
 | MR IMO3 | 3 YR | $16,500 | Yes | flat |
 | MR IMO3 | 5 YR | $16,500 | Yes | flat |
-| LR1 | 1 YR | $14,000 | Standard | flat |
+| LR1 | 1 YR | $14,000 | Standard | up |
 | LR1 | 2 YR | $15,250 | Standard | flat |
 | LR1 | 3 YR | $17,250 | Yes | flat |
 | LR1 | 5 YR | $17,500 | Yes | flat |

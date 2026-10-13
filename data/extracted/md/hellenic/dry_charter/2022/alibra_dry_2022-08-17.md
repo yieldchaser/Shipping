@@ -38,12 +38,12 @@ source_file: "corpus/02-hellenic/dry_charter/2022/2022-08-17_weekly-dry-time-cha
 | PANA/KMAX | 1 YR | PAC | $19,000 | flat |
 | PANA/KMAX | 2 YR | ATL | $18,000 | flat |
 | PANA/KMAX | 2 YR | PAC | $18,000 | flat |
-| CAPE SIZE | 6 MOS | ATL | $19,000 | flat |
-| CAPE SIZE | 6 MOS | PAC | $19,000 | flat |
-| CAPE SIZE | 1 YR | ATL | $17,500 | flat |
-| CAPE SIZE | 1 YR | PAC | $17,500 | flat |
-| CAPE SIZE | 2 YR | ATL | $19,000 | down |
-| CAPE SIZE | 2 YR | PAC | $19,000 | down |
+| CAPESIZE | 6 MOS | ATL | $19,000 | flat |
+| CAPESIZE | 6 MOS | PAC | $19,000 | flat |
+| CAPESIZE | 1 YR | ATL | $17,500 | flat |
+| CAPESIZE | 1 YR | PAC | $17,500 | flat |
+| CAPESIZE | 2 YR | ATL | $19,000 | down |
+| CAPESIZE | 2 YR | PAC | $19,000 | down |
 
 ## Contact & Source
 

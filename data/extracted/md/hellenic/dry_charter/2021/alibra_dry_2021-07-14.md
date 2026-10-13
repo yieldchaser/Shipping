@@ -41,13 +41,13 @@ Support from East Coast South America and the Black Sea continued to propel rate
 | ULTRAMAX | 1 YR | ATL | $28,000 | flat |
 | ULTRAMAX | 1 YR | PAC | $28,000 | flat |
 | ULTRAMAX | 2 YR | ATL | $25,000 | up |
-| ULTRAMAX | 2 YR | PAC | $24,000 | flat |
+| ULTRAMAX | 2 YR | PAC | $24,000 | up |
 | PANA/KMAX | 6 MOS | ATL | $35,000 | down |
 | PANA/KMAX | 6 MOS | PAC | $33,000 | down |
 | PANA/KMAX | 1 YR | ATL | $34,500 | up |
 | PANA/KMAX | 1 YR | PAC | $27,500 | up |
 | PANA/KMAX | 2 YR | ATL | $33,500 | up |
-| PANA/KMAX | 2 YR | PAC | $24,000 | flat |
+| PANA/KMAX | 2 YR | PAC | $24,000 | up |
 | CAPESIZE | 6 MOS | ATL | $32,000 | down |
 | CAPESIZE | 6 MOS | PAC | $34,000 | down |
 | CAPESIZE | 1 YR | ATL | $27,500 | flat |

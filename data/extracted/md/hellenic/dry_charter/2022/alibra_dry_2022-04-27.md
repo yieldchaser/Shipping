@@ -22,28 +22,28 @@ source_file: "corpus/02-hellenic/dry_charter/2022/2022-04-27_weekly-dry-time-cha
 |---|---|---|---|---|
 | HANDY (38K dwt) | 6 MOS | ATL | $25,500 | down |
 | HANDY (38K dwt) | 6 MOS | PAC | $28,000 | down |
-| HANDY (38K dwt) | 1 YR | ATL | $27,000 | flat |
-| HANDY (38K dwt) | 1 YR | PAC | $27,000 | flat |
+| HANDY (38K dwt) | 1 YR | ATL | $27,000 | up |
+| HANDY (38K dwt) | 1 YR | PAC | $27,000 | up |
 | HANDY (38K dwt) | 2 YR | ATL | $23,500 | flat |
-| HANDY (38K dwt) | 2 YR | PAC | $23,500 | flat |
+| HANDY (38K dwt) | 2 YR | PAC | $23,500 | up |
 | SMAX/ULTRA | 6 MOS | ATL | $27,000 | down |
-| SMAX/ULTRA | 6 MOS | PAC | $34,000 | flat |
-| SMAX/ULTRA | 1 YR | ATL | $30,250 | flat |
+| SMAX/ULTRA | 6 MOS | PAC | $34,000 | up |
+| SMAX/ULTRA | 1 YR | ATL | $30,250 | up |
 | SMAX/ULTRA | 1 YR | PAC | $21,000 | flat |
 | SMAX/ULTRA | 2 YR | ATL | $23,000 | flat |
 | SMAX/ULTRA | 2 YR | PAC | $18,750 | down |
-| PANA/KMAX | 6 MOS | ATL | $30,000 | flat |
+| PANA/KMAX | 6 MOS | ATL | $30,000 | up |
 | PANA/KMAX | 6 MOS | PAC | $30,000 | flat |
-| PANA/KMAX | 1 YR | ATL | $27,000 | flat |
-| PANA/KMAX | 1 YR | PAC | $27,000 | flat |
-| PANA/KMAX | 2 YR | ATL | $24,000 | flat |
-| PANA/KMAX | 2 YR | PAC | $24,000 | flat |
-| CAPESIZE | 6 MOS | ATL | $31,000 | flat |
-| CAPESIZE | 6 MOS | PAC | $31,000 | flat |
-| CAPESIZE | 1 YR | ATL | $29,000 | flat |
-| CAPESIZE | 1 YR | PAC | $29,000 | flat |
-| CAPESIZE | 2 YR | ATL | $24,000 | flat |
-| CAPESIZE | 2 YR | PAC | $24,000 | flat |
+| PANA/KMAX | 1 YR | ATL | $27,000 | up |
+| PANA/KMAX | 1 YR | PAC | $27,000 | up |
+| PANA/KMAX | 2 YR | ATL | $24,000 | up |
+| PANA/KMAX | 2 YR | PAC | $24,000 | up |
+| CAPESIZE | 6 MOS | ATL | $31,000 | up |
+| CAPESIZE | 6 MOS | PAC | $31,000 | up |
+| CAPESIZE | 1 YR | ATL | $29,000 | up |
+| CAPESIZE | 1 YR | PAC | $29,000 | up |
+| CAPESIZE | 2 YR | ATL | $24,000 | up |
+| CAPESIZE | 2 YR | PAC | $24,000 | up |
 
 ## Contact & Source
 

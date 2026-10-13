@@ -20,12 +20,12 @@ source_file: "corpus/02-hellenic/dry_charter/2022/2022-09-14_weekly-dry-time-cha
 
 | Size | Tenor | Basin | Rate ($/day) | Trend |
 |---|---|---|---|---|
-| HANDY (38k dat) | 6 MOS | ATL | $14,500 | down |
-| HANDY (38k dat) | 6 MOS | PAC | $19,000 | down |
-| HANDY (38k dat) | 1 YR | ATL | $16,000 | down |
-| HANDY (38k dat) | 1 YR | PAC | $17,000 | down |
-| HANDY (38k dat) | 2 YR | ATL | $16,000 | flat |
-| HANDY (38k dat) | 2 YR | PAC | $16,000 | down |
+| HANDY (38k dwt) | 6 MOS | ATL | $14,500 | down |
+| HANDY (38k dwt) | 6 MOS | PAC | $19,000 | down |
+| HANDY (38k dwt) | 1 YR | ATL | $16,000 | down |
+| HANDY (38k dwt) | 1 YR | PAC | $17,000 | down |
+| HANDY (38k dwt) | 2 YR | ATL | $16,000 | flat |
+| HANDY (38k dwt) | 2 YR | PAC | $16,000 | down |
 | SMAX/ULTRA | 6 MOS | ATL | $17,000 | down |
 | SMAX/ULTRA | 6 MOS | PAC | $22,500 | flat |
 | SMAX/ULTRA | 1 YR | ATL | $17,250 | down |

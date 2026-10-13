@@ -531,34 +531,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2021-11-10,VLCC,2 YR,25000,False,flat,2021-11-10_weekly-tanker-time-charter-estimates-november-10-2021.html
 2021-11-10,VLCC,3 YR,35000,True,flat,2021-11-10_weekly-tanker-time-charter-estimates-november-10-2021.html
 2021-11-10,VLCC,5 YR,36500,True,flat,2021-11-10_weekly-tanker-time-charter-estimates-november-10-2021.html
-2021-11-17,AFRA,1 YR,18000,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
+2021-11-17,AFRA,1 YR,18000,False,up,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,AFRA,2 YR,18750,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,AFRA,3 YR,23500,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,AFRA,5 YR,25000,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
-2021-11-17,HANDY,1 YR,12000,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
+2021-11-17,HANDY,1 YR,12000,False,up,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,HANDY,2 YR,12250,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,HANDY,3 YR,14500,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,HANDY,5 YR,14500,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
-2021-11-17,LR1,1 YR,15500,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
+2021-11-17,LR1,1 YR,15500,False,up,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,LR1,2 YR,15250,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,LR1,3 YR,17250,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,LR1,5 YR,17500,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
-2021-11-17,LR2,1 YR,19000,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
+2021-11-17,LR2,1 YR,19000,False,up,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,LR2,2 YR,19750,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,LR2,3 YR,24950,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,LR2,5 YR,26000,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
-2021-11-17,MR IMO3,1 YR,14000,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
+2021-11-17,MR IMO3,1 YR,14000,False,up,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,MR IMO3,2 YR,13500,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,MR IMO3,3 YR,16500,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,MR IMO3,5 YR,16500,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
-2021-11-17,SUEZ,1 YR,19500,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
+2021-11-17,SUEZ,1 YR,19500,False,up,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,SUEZ,2 YR,21000,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-17,SUEZ,3 YR,27500,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
-2021-11-17,SUEZ,5 YR,27000,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
-2021-11-17,VLCC,1 YR,23500,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
-2021-11-17,VLCC,2 YR,26000,False,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
-2021-11-17,VLCC,3 YR,36000,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
-2021-11-17,VLCC,5 YR,37500,True,flat,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
+2021-11-17,SUEZ,5 YR,27000,True,down,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
+2021-11-17,VLCC,1 YR,23500,False,up,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
+2021-11-17,VLCC,2 YR,26000,False,up,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
+2021-11-17,VLCC,3 YR,36000,True,up,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
+2021-11-17,VLCC,5 YR,37500,True,up,2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html
 2021-11-24,AFRA,1 YR,18750,False,up,2021-11-24_weekly-tanker-time-charter-estimates-november-24-2021.html
 2021-11-24,AFRA,2 YR,18750,False,flat,2021-11-24_weekly-tanker-time-charter-estimates-november-24-2021.html
 2021-11-24,AFRA,3 YR,23500,True,flat,2021-11-24_weekly-tanker-time-charter-estimates-november-24-2021.html
@@ -703,11 +703,11 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2022-01-05,AFRA,2 YR,18750,False,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,AFRA,3 YR,23500,True,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,AFRA,5 YR,25000,True,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
-2022-01-05,HANDY,1 YR,12350,False,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
-2022-01-05,HANDY,2 YR,13000,False,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
+2022-01-05,HANDY,1 YR,12350,False,up,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
+2022-01-05,HANDY,2 YR,13000,False,up,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,HANDY,3 YR,14500,True,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,HANDY,5 YR,14500,True,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
-2022-01-05,LR1,1 YR,14000,False,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
+2022-01-05,LR1,1 YR,14000,False,up,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,LR1,2 YR,15250,False,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,LR1,3 YR,17250,True,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,LR1,5 YR,17500,True,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
@@ -715,8 +715,8 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2022-01-05,LR2,2 YR,19750,False,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,LR2,3 YR,24950,True,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,LR2,5 YR,26000,True,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
-2022-01-05,MR IMO3,1 YR,13350,False,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
-2022-01-05,MR IMO3,2 YR,13750,False,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
+2022-01-05,MR IMO3,1 YR,13350,False,up,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
+2022-01-05,MR IMO3,2 YR,13750,False,up,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,MR IMO3,3 YR,16500,True,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,MR IMO3,5 YR,16500,True,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
 2022-01-05,SUEZ,1 YR,18250,False,flat,2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html
@@ -1203,6 +1203,10 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2022-05-04,VLCC,2 YR,22000,False,down,2022-05-04_weekly-tanker-time-charter-estimates-may-04-2022.html
 2022-05-04,VLCC,3 YR,35000,True,down,2022-05-04_weekly-tanker-time-charter-estimates-may-04-2022.html
 2022-05-04,VLCC,5 YR,37500,True,flat,2022-05-04_weekly-tanker-time-charter-estimates-may-04-2022.html
+2022-05-11,AFRA (115K dwt),1 YR,18750,False,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
+2022-05-11,AFRA (115K dwt),2 YR,20000,False,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
+2022-05-11,AFRA (115K dwt),3 YR,26000,True,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
+2022-05-11,AFRA (115K dwt),5 YR,25000,True,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
 2022-05-11,HANDY,1 YR,11750,False,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
 2022-05-11,HANDY,2 YR,12750,False,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
 2022-05-11,HANDY,3 YR,14750,True,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
@@ -1227,10 +1231,6 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2022-05-11,VLCC,2 YR,22000,False,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
 2022-05-11,VLCC,3 YR,35000,True,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
 2022-05-11,VLCC,5 YR,37500,True,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
-2022-05-11,~~AFRA (115K dwt)~~,1 YR,18750,False,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
-2022-05-11,~~AFRA (115K dwt)~~,2 YR,20000,False,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
-2022-05-11,~~AFRA (115K dwt)~~,3 YR,26000,True,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
-2022-05-11,~~AFRA (115K dwt)~~,5 YR,25000,True,flat,2022-05-11_weekly-tanker-time-charter-estimates-may-11-2022.html
 2022-05-18,AFRA (115K dwt),1 YR,19250,False,up,2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022.html
 2022-05-18,AFRA (115K dwt),2 YR,20000,False,flat,2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022.html
 2022-05-18,AFRA (115K dwt),3 YR,26000,True,flat,2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022.html
@@ -1371,20 +1371,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2022-06-15,VLCC,2 YR,22000,False,flat,2022-06-15_weekly-tanker-time-charter-estimates-june-15-2022.html
 2022-06-15,VLCC,3 YR,37500,True,flat,2022-06-15_weekly-tanker-time-charter-estimates-june-15-2022.html
 2022-06-15,VLCC,5 YR,40000,True,flat,2022-06-15_weekly-tanker-time-charter-estimates-june-15-2022.html
-2022-06-22,AFRA (115k dwt),2 YR,22000,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,AFRA (115k dwt),5 YR,22500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,HANDY,2 YR,16500,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,HANDY,5 YR,15500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,AFRA (115k dwt),1 YR,22000,False,down,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,AFRA (115k dwt),2 YR,22500,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,AFRA (115k dwt),3 YR,27500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,AFRA (115k dwt),5 YR,27500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,HANDY,1 YR,16500,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,HANDY,2 YR,15500,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,HANDY,3 YR,15500,True,up,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,HANDY,5 YR,15500,True,up,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,LR1,1 YR,19950,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
 2022-06-22,LR1,2 YR,19950,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,LR1,5 YR,19950,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,LR2,2 YR,25000,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,LR2,5 YR,23500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,MR IMO3,2 YR,18000,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,MR IMO3,5 YR,16500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,SUEZ,2 YR,22000,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,SUEZ,5 YR,22500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,VLCC,2 YR,20000,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
-2022-06-22,VLCC,5 YR,22500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,LR1,3 YR,22500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,LR1,5 YR,21500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,LR2,1 YR,25000,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,LR2,2 YR,23500,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,LR2,3 YR,28000,True,up,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,LR2,5 YR,28000,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,MR IMO3,1 YR,18000,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,MR IMO3,2 YR,16500,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,MR IMO3,3 YR,19000,True,up,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,MR IMO3,5 YR,19000,True,up,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,SUEZ,1 YR,22000,False,down,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,SUEZ,2 YR,22500,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,SUEZ,3 YR,28500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,SUEZ,5 YR,28500,True,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,VLCC,1 YR,20000,False,down,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,VLCC,2 YR,22500,False,flat,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,VLCC,3 YR,35000,True,down,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
+2022-06-22,VLCC,5 YR,35000,True,down,2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
 2022-06-29,AFRA (115k dwt),1 YR,21000,False,down,2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022.html
 2022-06-29,AFRA (115k dwt),2 YR,22000,False,down,2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022.html
 2022-06-29,AFRA (115k dwt),3 YR,27000,True,flat,2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022.html
@@ -1525,20 +1539,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2022-07-27,VLCC,2 YR,25000,False,up,2022-07-27_weekly-tanker-time-charter-estimates-july-27-2022.html
 2022-07-27,VLCC,3 YR,36000,True,flat,2022-07-27_weekly-tanker-time-charter-estimates-july-27-2022.html
 2022-07-27,VLCC,5 YR,37500,True,flat,2022-07-27_weekly-tanker-time-charter-estimates-july-27-2022.html
-2022-08-03,AFRA (115k dwt),2 YR,26000,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,AFRA (115k dwt),5 YR,27500,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,HANDY,2 YR,20000,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,HANDY,5 YR,17500,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,LR1,2 YR,24000,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,LR1,5 YR,22000,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,LR2,2 YR,31500,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,LR2,5 YR,27500,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,MR IMO3,2 YR,22500,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,MR IMO3,5 YR,19500,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,SUEZ,2 YR,25000,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,SUEZ,5 YR,22500,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,VLCC,2 YR,25000,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
-2022-08-03,VLCC,5 YR,30000,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,AFRA (115k dwt),1 YR,26000,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,AFRA (115k dwt),2 YR,27500,False,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,AFRA (115k dwt),3 YR,30000,True,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,AFRA (115k dwt),5 YR,30000,True,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,HANDY,1 YR,20000,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,HANDY,2 YR,17500,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,HANDY,3 YR,18000,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,HANDY,5 YR,17000,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,LR1,1 YR,24000,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,LR1,2 YR,22000,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,LR1,3 YR,24500,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,LR1,5 YR,24500,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,LR2,1 YR,31500,False,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,LR2,2 YR,27500,False,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,LR2,3 YR,31000,True,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,LR2,5 YR,30000,True,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,MR IMO3,1 YR,22500,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,MR IMO3,2 YR,19500,False,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,MR IMO3,3 YR,23000,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,MR IMO3,5 YR,19000,True,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,SUEZ,1 YR,25000,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,SUEZ,2 YR,22500,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,SUEZ,3 YR,33500,True,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,SUEZ,5 YR,32500,True,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,VLCC,1 YR,25000,False,flat,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,VLCC,2 YR,30000,False,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,VLCC,3 YR,37500,True,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
+2022-08-03,VLCC,5 YR,37500,True,up,2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022.html
 2022-08-10,AFRA (115k dwt),1 YR,26000,False,flat,2022-08-10_weekly-tanker-time-charter-estimates-august-10-2022.html
 2022-08-10,AFRA (115k dwt),2 YR,27500,False,up,2022-08-10_weekly-tanker-time-charter-estimates-august-10-2022.html
 2022-08-10,AFRA (115k dwt),3 YR,31000,True,up,2022-08-10_weekly-tanker-time-charter-estimates-august-10-2022.html
@@ -1568,33 +1596,33 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2022-08-10,VLCC,3 YR,37500,True,flat,2022-08-10_weekly-tanker-time-charter-estimates-august-10-2022.html
 2022-08-10,VLCC,5 YR,37500,True,flat,2022-08-10_weekly-tanker-time-charter-estimates-august-10-2022.html
 2022-08-17,AFRA (115k dwt),1 YR,27500,False,up,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,AFRA (115k dwt),2 YR,27500,False,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,AFRA (115k dwt),3 YR,31000,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,AFRA (115k dwt),5 YR,30000,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,AFRA (115k dwt),2 YR,27500,False,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,AFRA (115k dwt),3 YR,31000,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,AFRA (115k dwt),5 YR,30000,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
 2022-08-17,HANDY,1 YR,21500,False,up,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,HANDY,2 YR,17500,False,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,HANDY,3 YR,18000,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,HANDY,5 YR,17000,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,LR1,1 YR,27500,False,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,LR1,2 YR,22000,False,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,LR1,3 YR,26500,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,LR1,5 YR,24500,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,LR2,1 YR,31500,False,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,HANDY,2 YR,17500,False,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,HANDY,3 YR,18000,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,HANDY,5 YR,17000,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,LR1,1 YR,27500,False,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,LR1,2 YR,22000,False,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,LR1,3 YR,26500,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,LR1,5 YR,24500,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,LR2,1 YR,31500,False,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
 2022-08-17,LR2,2 YR,29000,False,up,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,LR2,3 YR,32500,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,LR2,5 YR,31000,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,MR IMO3,1 YR,23500,False,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,MR IMO3,2 YR,20000,False,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,MR IMO3,3 YR,23500,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,MR IMO3,5 YR,20000,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,SUEZ,1 YR,24000,False,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,SUEZ,2 YR,23000,False,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,SUEZ,3 YR,33500,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,SUEZ,5 YR,32500,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,VLCC,1 YR,25000,False,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,VLCC,2 YR,28000,False,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,VLCC,3 YR,37500,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
-2022-08-17,VLCC,5 YR,37500,True,down,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,LR2,3 YR,32500,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,LR2,5 YR,31000,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,MR IMO3,1 YR,23500,False,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,MR IMO3,2 YR,20000,False,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,MR IMO3,3 YR,23500,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,MR IMO3,5 YR,20000,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,SUEZ,1 YR,24000,False,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,SUEZ,2 YR,23000,False,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,SUEZ,3 YR,33500,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,SUEZ,5 YR,32500,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,VLCC,1 YR,25000,False,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,VLCC,2 YR,28000,False,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,VLCC,3 YR,37500,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
+2022-08-17,VLCC,5 YR,37500,True,flat,2022-08-17_weekly-tanker-time-charter-estimates-august-17-2022.html
 2022-08-24,AFRA (115k dwt),1 YR,27500,False,flat,2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022.html
 2022-08-24,AFRA (115k dwt),2 YR,27500,False,flat,2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022.html
 2022-08-24,AFRA (115k dwt),3 YR,31750,True,up,2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022.html
@@ -1651,20 +1679,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2022-08-31,VLCC,2 YR,26000,False,flat,2022-08-31_weekly-tanker-time-charter-estimates-august-30-2022.html
 2022-08-31,VLCC,3 YR,37500,True,flat,2022-08-31_weekly-tanker-time-charter-estimates-august-30-2022.html
 2022-08-31,VLCC,5 YR,37500,True,flat,2022-08-31_weekly-tanker-time-charter-estimates-august-30-2022.html
+2022-09-07,AFRA (115k dwt),1 YR,27500,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
 2022-09-07,AFRA (115k dwt),2 YR,27500,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,AFRA (115k dwt),5 YR,27500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,HANDY,2 YR,21000,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,HANDY,5 YR,20000,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,LR1,2 YR,27500,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,LR1,5 YR,22000,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,LR2,2 YR,30500,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,LR2,5 YR,29000,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,MR IMO3,2 YR,26000,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,MR IMO3,5 YR,22000,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,SUEZ,2 YR,26500,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,SUEZ,5 YR,24000,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,VLCC,2 YR,32500,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
-2022-09-07,VLCC,5 YR,28000,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,AFRA (115k dwt),3 YR,31500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,AFRA (115k dwt),5 YR,31500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,HANDY,1 YR,21000,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,HANDY,2 YR,17500,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,HANDY,3 YR,20000,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,HANDY,5 YR,18000,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,LR1,1 YR,27500,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,LR1,2 YR,22000,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,LR1,3 YR,26500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,LR1,5 YR,24500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,LR2,1 YR,30500,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,LR2,2 YR,29000,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,LR2,3 YR,33500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,LR2,5 YR,32500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,MR IMO3,1 YR,26000,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,MR IMO3,2 YR,22000,False,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,MR IMO3,3 YR,24000,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,MR IMO3,5 YR,22500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,SUEZ,1 YR,26500,False,up,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,SUEZ,2 YR,24000,False,up,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,SUEZ,3 YR,33500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,SUEZ,5 YR,32500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,VLCC,1 YR,32500,False,up,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,VLCC,2 YR,28000,False,up,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,VLCC,3 YR,37500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
+2022-09-07,VLCC,5 YR,37500,True,flat,2022-09-07_weekly-tanker-time-charter-estimates-september-7-2022.html
 2022-09-14,AFRA (115k dwt),1 YR,28500,False,up,2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022.html
 2022-09-14,AFRA (115k dwt),2 YR,27500,False,flat,2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022.html
 2022-09-14,AFRA (115k dwt),3 YR,31000,True,flat,2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022.html
@@ -1693,6 +1735,10 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2022-09-14,VLCC,2 YR,28000,False,flat,2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022.html
 2022-09-14,VLCC,3 YR,37500,True,flat,2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022.html
 2022-09-14,VLCC,5 YR,37500,True,flat,2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022.html
+2022-09-21,AFRA (115k dwt),1 YR,32500,False,up,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
+2022-09-21,AFRA (115k dwt),2 YR,35000,False,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
+2022-09-21,AFRA (115k dwt),3 YR,31000,True,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
+2022-09-21,AFRA (115k dwt),5 YR,30000,True,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
 2022-09-21,HANDY,1 YR,21000,False,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
 2022-09-21,HANDY,2 YR,17500,False,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
 2022-09-21,HANDY,3 YR,19000,True,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
@@ -1717,24 +1763,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2022-09-21,VLCC,2 YR,28000,False,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
 2022-09-21,VLCC,3 YR,40000,True,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
 2022-09-21,VLCC,5 YR,40000,True,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
-2022-09-21,~~AFRA~~ (115k dwt),1 YR,32500,False,up,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
-2022-09-21,~~AFRA~~ (115k dwt),2 YR,35000,False,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
-2022-09-21,~~AFRA~~ (115k dwt),3 YR,31000,True,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
-2022-09-21,~~AFRA~~ (115k dwt),5 YR,30000,True,flat,2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html
-2022-09-28,AFRA (115k dwt),2 YR,32500,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,AFRA (115k dwt),5 YR,35000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,HANDY,2 YR,21000,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,HANDY,5 YR,17500,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,LR1,2 YR,33500,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,LR1,5 YR,27500,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,LR2,2 YR,40000,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,LR2,5 YR,36500,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,MR IMO3,2 YR,28500,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,MR IMO3,5 YR,23500,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,SUEZ,2 YR,35000,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,SUEZ,5 YR,29000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,VLCC,2 YR,40000,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
-2022-09-28,VLCC,5 YR,28000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,AFRA (115k dwt),1 YR,32500,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,AFRA (115k dwt),2 YR,35000,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,AFRA (115k dwt),3 YR,31000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,AFRA (115k dwt),5 YR,30000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,HANDY,1 YR,21000,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,HANDY,2 YR,17500,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,HANDY,3 YR,19000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,HANDY,5 YR,18000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,LR1,1 YR,33500,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,LR1,2 YR,27500,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,LR1,3 YR,26000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,LR1,5 YR,26000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,LR2,1 YR,40000,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,LR2,2 YR,36500,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,LR2,3 YR,33500,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,LR2,5 YR,32500,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,MR IMO3,1 YR,28500,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,MR IMO3,2 YR,23500,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,MR IMO3,3 YR,24000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,MR IMO3,5 YR,22500,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,SUEZ,1 YR,35000,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,SUEZ,2 YR,29000,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,SUEZ,3 YR,35000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,SUEZ,5 YR,33500,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,VLCC,1 YR,40000,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,VLCC,2 YR,28000,False,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,VLCC,3 YR,40000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
+2022-09-28,VLCC,5 YR,40000,True,flat,2022-09-28_weekly-tanker-time-charter-estimates-september-28-2022.html
 2022-10-05,AFRA (115k dwt),1 YR,33500,False,flat,2022-10-05_weekly-tanker-time-charter-estimates-october-05-2022.html
 2022-10-05,AFRA (115k dwt),2 YR,35000,False,flat,2022-10-05_weekly-tanker-time-charter-estimates-october-05-2022.html
 2022-10-05,AFRA (115k dwt),3 YR,35000,True,flat,2022-10-05_weekly-tanker-time-charter-estimates-october-05-2022.html
@@ -2127,20 +2183,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2023-01-11,VLCC,2 YR,40000,False,down,2023-01-11_weekly-tanker-time-charter-estimates-january-11-2023.html
 2023-01-11,VLCC,3 YR,46500,True,flat,2023-01-11_weekly-tanker-time-charter-estimates-january-11-2023.html
 2023-01-11,VLCC,5 YR,45000,True,down,2023-01-11_weekly-tanker-time-charter-estimates-january-11-2023.html
-2023-01-18,AFRA (115k dwt),2 YR,37500,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,AFRA (115k dwt),5 YR,32500,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,HANDY,2 YR,27500,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,HANDY,5 YR,22000,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,LR1,2 YR,30000,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,LR1,5 YR,29500,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,LR2,2 YR,44500,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,LR2,5 YR,38500,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,MR IMO3,2 YR,28500,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,MR IMO3,5 YR,26500,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,SUEZ,2 YR,32500,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,SUEZ,5 YR,30000,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,VLCC,2 YR,43500,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
-2023-01-18,VLCC,5 YR,42500,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,AFRA (115k dwt),1 YR,37500,False,down,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,AFRA (115k dwt),2 YR,32500,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,AFRA (115k dwt),3 YR,37500,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,AFRA (115k dwt),5 YR,35000,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,HANDY,1 YR,27500,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,HANDY,2 YR,22000,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,HANDY,3 YR,23000,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,HANDY,5 YR,20000,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,LR1,1 YR,30000,False,down,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,LR1,2 YR,29500,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,LR1,3 YR,33500,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,LR1,5 YR,30000,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,LR2,1 YR,44500,False,down,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,LR2,2 YR,38500,False,down,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,LR2,3 YR,36000,True,down,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,LR2,5 YR,34000,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,MR IMO3,1 YR,28500,False,down,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,MR IMO3,2 YR,26500,False,up,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,MR IMO3,3 YR,27500,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,MR IMO3,5 YR,24500,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,SUEZ,1 YR,32500,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,SUEZ,2 YR,30000,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,SUEZ,3 YR,37500,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,SUEZ,5 YR,35000,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,VLCC,1 YR,43500,False,up,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,VLCC,2 YR,42500,False,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,VLCC,3 YR,46500,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
+2023-01-18,VLCC,5 YR,45000,True,flat,2023-01-18_weekly-tanker-time-charter-estimates-january-18-2023.html
 2023-01-25,AFRA (115k dwt),1 YR,37500,False,flat,2023-01-25_weekly-tanker-time-charter-estimates-january-25-2023.html
 2023-01-25,AFRA (115k dwt),2 YR,32500,False,flat,2023-01-25_weekly-tanker-time-charter-estimates-january-25-2023.html
 2023-01-25,AFRA (115k dwt),3 YR,37500,True,flat,2023-01-25_weekly-tanker-time-charter-estimates-january-25-2023.html
@@ -2757,10 +2827,10 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2023-06-21,VLCC,2 YR,45000,False,up,2023-06-21_weekly-tanker-time-charter-estimates-june-20-2023.html
 2023-06-21,VLCC,3 YR,50000,True,flat,2023-06-21_weekly-tanker-time-charter-estimates-june-20-2023.html
 2023-06-21,VLCC,5 YR,47500,True,flat,2023-06-21_weekly-tanker-time-charter-estimates-june-20-2023.html
-2023-06-28,AFRA (115k dwt) ▼,1 YR,45000,False,down,2023-06-28_weekly-tanker-time-charter-estimates-june-28-2023.html
-2023-06-28,AFRA (115k dwt) ▼,2 YR,40000,False,flat,2023-06-28_weekly-tanker-time-charter-estimates-june-28-2023.html
-2023-06-28,AFRA (115k dwt) ▼,3 YR,40000,True,down,2023-06-28_weekly-tanker-time-charter-estimates-june-28-2023.html
-2023-06-28,AFRA (115k dwt) ▼,5 YR,37500,True,flat,2023-06-28_weekly-tanker-time-charter-estimates-june-28-2023.html
+2023-06-28,AFRA (115k dwt),1 YR,45000,False,down,2023-06-28_weekly-tanker-time-charter-estimates-june-28-2023.html
+2023-06-28,AFRA (115k dwt),2 YR,40000,False,flat,2023-06-28_weekly-tanker-time-charter-estimates-june-28-2023.html
+2023-06-28,AFRA (115k dwt),3 YR,40000,True,down,2023-06-28_weekly-tanker-time-charter-estimates-june-28-2023.html
+2023-06-28,AFRA (115k dwt),5 YR,37500,True,flat,2023-06-28_weekly-tanker-time-charter-estimates-june-28-2023.html
 2023-06-28,HANDY,1 YR,23500,False,flat,2023-06-28_weekly-tanker-time-charter-estimates-june-28-2023.html
 2023-06-28,HANDY,2 YR,22500,False,flat,2023-06-28_weekly-tanker-time-charter-estimates-june-28-2023.html
 2023-06-28,HANDY,3 YR,22000,True,flat,2023-06-28_weekly-tanker-time-charter-estimates-june-28-2023.html
@@ -3065,20 +3135,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2023-09-06,VLCC,2 YR,42500,False,flat,2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023.html
 2023-09-06,VLCC,3 YR,50000,True,flat,2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023.html
 2023-09-06,VLCC,5 YR,47500,True,flat,2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023.html
-2023-09-13,AFRA (115k dwt),2 YR,37500,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,AFRA (115k dwt),5 YR,36500,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,HANDY,2 YR,20500,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,HANDY,5 YR,21000,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,LR1,2 YR,32500,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,LR1,5 YR,28500,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,LR2,2 YR,36500,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,LR2,5 YR,36500,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,MR IMO3,2 YR,24250,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,MR IMO3,5 YR,24500,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,SUEZ,2 YR,42500,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,AFRA (115k dwt),1 YR,37500,False,down,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,AFRA (115k dwt),2 YR,36500,False,down,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,AFRA (115k dwt),3 YR,40000,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,AFRA (115k dwt),5 YR,35000,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,HANDY,1 YR,20500,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,HANDY,2 YR,19500,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,HANDY,3 YR,21000,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,HANDY,5 YR,19000,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,LR1,1 YR,32500,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,LR1,2 YR,28500,False,down,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,LR1,3 YR,30000,True,down,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,LR1,5 YR,28500,True,down,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,LR2,1 YR,36500,False,down,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,LR2,2 YR,36500,False,down,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,LR2,3 YR,40000,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,LR2,5 YR,35000,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,MR IMO3,1 YR,24250,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,MR IMO3,2 YR,23000,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,MR IMO3,3 YR,24500,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,MR IMO3,5 YR,21500,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,SUEZ,1 YR,42500,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,SUEZ,2 YR,38500,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,SUEZ,3 YR,41500,True,up,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
 2023-09-13,SUEZ,5 YR,38500,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,VLCC,2 YR,44000,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
-2023-09-13,VLCC,5 YR,42500,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,VLCC,1 YR,44000,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,VLCC,2 YR,42500,False,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,VLCC,3 YR,50000,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
+2023-09-13,VLCC,5 YR,47500,True,flat,2023-09-13_weekly-tanker-time-charter-estimates-september-13-2023.html
 2023-09-20,AFRA (115k dwt),1 YR,37500,False,flat,2023-09-20_weekly-tanker-time-charter-estimates-september-20-2023.html
 2023-09-20,AFRA (115k dwt),2 YR,35000,False,down,2023-09-20_weekly-tanker-time-charter-estimates-september-20-2023.html
 2023-09-20,AFRA (115k dwt),3 YR,38500,True,down,2023-09-20_weekly-tanker-time-charter-estimates-september-20-2023.html
@@ -3135,10 +3219,10 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2023-09-27,VLCC,2 YR,42500,False,flat,2023-09-27_weekly-tanker-time-charter-estimates-september-27-2023.html
 2023-09-27,VLCC,3 YR,50000,True,flat,2023-09-27_weekly-tanker-time-charter-estimates-september-27-2023.html
 2023-09-27,VLCC,5 YR,47500,True,flat,2023-09-27_weekly-tanker-time-charter-estimates-september-27-2023.html
-2023-10-04,AFRA (115k dwt) ▼,1 YR,36500,False,flat,2023-10-04_weekly-tanker-time-charter-estimates-october-04-2023.html
-2023-10-04,AFRA (115k dwt) ▼,2 YR,35000,False,flat,2023-10-04_weekly-tanker-time-charter-estimates-october-04-2023.html
-2023-10-04,AFRA (115k dwt) ▼,3 YR,37500,True,flat,2023-10-04_weekly-tanker-time-charter-estimates-october-04-2023.html
-2023-10-04,AFRA (115k dwt) ▼,5 YR,31500,True,flat,2023-10-04_weekly-tanker-time-charter-estimates-october-04-2023.html
+2023-10-04,AFRA (115k dwt),1 YR,36500,False,down,2023-10-04_weekly-tanker-time-charter-estimates-october-04-2023.html
+2023-10-04,AFRA (115k dwt),2 YR,35000,False,flat,2023-10-04_weekly-tanker-time-charter-estimates-october-04-2023.html
+2023-10-04,AFRA (115k dwt),3 YR,37500,True,flat,2023-10-04_weekly-tanker-time-charter-estimates-october-04-2023.html
+2023-10-04,AFRA (115k dwt),5 YR,31500,True,flat,2023-10-04_weekly-tanker-time-charter-estimates-october-04-2023.html
 2023-10-04,HANDY,1 YR,20500,False,flat,2023-10-04_weekly-tanker-time-charter-estimates-october-04-2023.html
 2023-10-04,HANDY,2 YR,18500,False,flat,2023-10-04_weekly-tanker-time-charter-estimates-october-04-2023.html
 2023-10-04,HANDY,3 YR,21000,True,flat,2023-10-04_weekly-tanker-time-charter-estimates-october-04-2023.html
@@ -3247,20 +3331,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2023-10-25,VLCC,2 YR,42500,False,flat,2023-10-25_weekly-tanker-time-charter-estimates-october-25-2023.html
 2023-10-25,VLCC,3 YR,50000,True,flat,2023-10-25_weekly-tanker-time-charter-estimates-october-25-2023.html
 2023-10-25,VLCC,5 YR,47500,True,flat,2023-10-25_weekly-tanker-time-charter-estimates-october-25-2023.html
-2023-11-01,AFRA (115k dwt),2 YR,41500,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,AFRA (115k dwt),5 YR,36000,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,HANDY,2 YR,24000,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,HANDY,5 YR,21000,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,LR1,2 YR,30000,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,AFRA (115k dwt),1 YR,41500,False,up,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,AFRA (115k dwt),2 YR,36000,False,up,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,AFRA (115k dwt),3 YR,38500,True,up,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,AFRA (115k dwt),5 YR,36000,True,up,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,HANDY,1 YR,24000,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,HANDY,2 YR,21000,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,HANDY,3 YR,21000,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,HANDY,5 YR,19000,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,LR1,1 YR,30000,False,down,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,LR1,2 YR,27500,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,LR1,3 YR,29000,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
 2023-11-01,LR1,5 YR,27500,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,LR2,2 YR,41500,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,LR2,5 YR,36000,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,MR IMO3,2 YR,25000,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,MR IMO3,5 YR,23750,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,SUEZ,2 YR,44000,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,SUEZ,5 YR,38500,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,VLCC,2 YR,45000,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
-2023-11-01,VLCC,5 YR,42500,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,LR2,1 YR,41500,False,up,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,LR2,2 YR,36000,False,up,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,LR2,3 YR,39500,True,up,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,LR2,5 YR,37500,True,up,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,MR IMO3,1 YR,25000,False,down,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,MR IMO3,2 YR,23750,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,MR IMO3,3 YR,25500,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,MR IMO3,5 YR,24000,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,SUEZ,1 YR,44000,False,up,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,SUEZ,2 YR,38500,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,SUEZ,3 YR,40000,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,SUEZ,5 YR,37500,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,VLCC,1 YR,45000,False,up,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,VLCC,2 YR,42500,False,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,VLCC,3 YR,50000,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
+2023-11-01,VLCC,5 YR,47500,True,flat,2023-11-01_weekly-tanker-time-charter-estimates-november-01-2023.html
 2023-11-09,AFRA (115k dwt),1 YR,43500,False,up,2023-11-09_weekly-tanker-time-charter-estimates-november-08-2023.html
 2023-11-09,AFRA (115k dwt),2 YR,36000,False,up,2023-11-09_weekly-tanker-time-charter-estimates-november-08-2023.html
 2023-11-09,AFRA (115k dwt),3 YR,40000,True,up,2023-11-09_weekly-tanker-time-charter-estimates-november-08-2023.html
@@ -4469,23 +4567,23 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2024-09-11,AFRA (115k dwt),2 YR,41500,False,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,AFRA (115k dwt),3 YR,43500,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,AFRA (115k dwt),5 YR,37500,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
-2024-09-11,HANDY,1 YR,25000,False,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
+2024-09-11,HANDY,1 YR,25000,False,down,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,HANDY,2 YR,23000,False,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,HANDY,3 YR,24000,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,HANDY,5 YR,22000,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
-2024-09-11,LR1,1 YR,35000,False,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
+2024-09-11,LR1,1 YR,35000,False,down,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,LR1,2 YR,31500,False,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,LR1,3 YR,33000,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,LR1,5 YR,31000,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
-2024-09-11,LR2,1 YR,43000,False,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
+2024-09-11,LR2,1 YR,43000,False,down,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,LR2,2 YR,42500,False,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,LR2,3 YR,44500,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,LR2,5 YR,38500,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
-2024-09-11,MR IMO3,1 YR,25000,False,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
-2024-09-11,MR IMO3,2 YR,23000,False,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
-2024-09-11,MR IMO3,3 YR,26000,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
+2024-09-11,MR IMO3,1 YR,25000,False,down,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
+2024-09-11,MR IMO3,2 YR,23000,False,down,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
+2024-09-11,MR IMO3,3 YR,26000,True,down,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,MR IMO3,5 YR,24500,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
-2024-09-11,SUEZ,1 YR,42500,False,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
+2024-09-11,SUEZ,1 YR,42500,False,down,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,SUEZ,2 YR,42500,False,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,SUEZ,3 YR,45500,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
 2024-09-11,SUEZ,5 YR,42500,True,flat,2024-09-11_weekly-tanker-time-charter-estimates-september-11-2024.html
@@ -5949,20 +6047,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2025-10-01,VLCC,2 YR,45000,False,flat,2025-10-01_weekly-tanker-time-charter-estimates-october-01-2025.html
 2025-10-01,VLCC,3 YR,50000,True,flat,2025-10-01_weekly-tanker-time-charter-estimates-october-01-2025.html
 2025-10-01,VLCC,5 YR,48500,True,flat,2025-10-01_weekly-tanker-time-charter-estimates-october-01-2025.html
-2025-10-09,AFRA (115k dwt),2 YR,34000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,AFRA (115k dwt),5 YR,29500,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,HANDY,2 YR,19000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,AFRA (115k dwt),1 YR,34000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,AFRA (115k dwt),2 YR,29500,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,AFRA (115k dwt),3 YR,29500,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,AFRA (115k dwt),5 YR,28000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,HANDY,1 YR,19000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,HANDY,2 YR,17000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,HANDY,3 YR,17000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
 2025-10-09,HANDY,5 YR,17000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,LR1,2 YR,24500,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,LR1,5 YR,22500,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,LR2,2 YR,34000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,LR2,5 YR,28000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,MR IMO3,2 YR,20000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,MR IMO3,5 YR,21500,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,SUEZ,2 YR,39000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,SUEZ,5 YR,34500,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,VLCC,2 YR,47500,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
-2025-10-09,VLCC,5 YR,45000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,LR1,1 YR,24500,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,LR1,2 YR,22500,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,LR1,3 YR,24000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,LR1,5 YR,23000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,LR2,1 YR,34000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,LR2,2 YR,28000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,LR2,3 YR,30000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,LR2,5 YR,29500,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,MR IMO3,1 YR,20000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,MR IMO3,2 YR,19000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,MR IMO3,3 YR,21500,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,MR IMO3,5 YR,20000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,SUEZ,1 YR,39000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,SUEZ,2 YR,34500,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,SUEZ,3 YR,35000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,SUEZ,5 YR,33000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,VLCC,1 YR,47500,False,down,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,VLCC,2 YR,45000,False,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,VLCC,3 YR,50000,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
+2025-10-09,VLCC,5 YR,47500,True,flat,2025-10-09_weekly-tanker-time-charter-estimates-october-08-2025.html
 2025-10-15,AFRA (115k dwt),1 YR,34000,False,flat,2025-10-15_weekly-tanker-time-charter-estimates-october-15-2025.html
 2025-10-15,AFRA (115k dwt),2 YR,29500,False,flat,2025-10-15_weekly-tanker-time-charter-estimates-october-15-2025.html
 2025-10-15,AFRA (115k dwt),3 YR,29500,True,flat,2025-10-15_weekly-tanker-time-charter-estimates-october-15-2025.html
@@ -6075,10 +6187,10 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2025-11-05,VLCC,2 YR,45000,False,flat,2025-11-05_weekly-tanker-time-charter-estimates-november-05-2025.html
 2025-11-05,VLCC,3 YR,51500,True,up,2025-11-05_weekly-tanker-time-charter-estimates-november-05-2025.html
 2025-11-05,VLCC,5 YR,50000,True,up,2025-11-05_weekly-tanker-time-charter-estimates-november-05-2025.html
-2025-11-12,AFRA (115k dwt) ▲,1 YR,35000,False,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
-2025-11-12,AFRA (115k dwt) ▲,2 YR,29500,False,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
-2025-11-12,AFRA (115k dwt) ▲,3 YR,32500,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
-2025-11-12,AFRA (115k dwt) ▲,5 YR,30000,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,AFRA (115k dwt),1 YR,35000,False,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,AFRA (115k dwt),2 YR,29500,False,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,AFRA (115k dwt),3 YR,32500,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,AFRA (115k dwt),5 YR,30000,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
 2025-11-12,HANDY,1 YR,19500,False,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
 2025-11-12,HANDY,2 YR,18000,False,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
 2025-11-12,HANDY,3 YR,20000,True,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
@@ -6095,14 +6207,14 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2025-11-12,MR IMO3,2 YR,19500,False,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
 2025-11-12,MR IMO3,3 YR,22500,True,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
 2025-11-12,MR IMO3,5 YR,21500,True,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
-2025-11-12,SUEZ ▲,1 YR,43500,False,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
-2025-11-12,SUEZ ▲,2 YR,34500,False,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
-2025-11-12,SUEZ ▲,3 YR,40000,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
-2025-11-12,SUEZ ▲,5 YR,37500,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
-2025-11-12,VLCC ▲,1 YR,52500,False,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
-2025-11-12,VLCC ▲,2 YR,45000,False,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
-2025-11-12,VLCC ▲,3 YR,51500,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
-2025-11-12,VLCC ▲,5 YR,50000,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,SUEZ,1 YR,43500,False,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,SUEZ,2 YR,34500,False,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,SUEZ,3 YR,40000,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,SUEZ,5 YR,37500,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,VLCC,1 YR,52500,False,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,VLCC,2 YR,45000,False,flat,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,VLCC,3 YR,51500,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
+2025-11-12,VLCC,5 YR,50000,True,up,2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html
 2025-11-19,AFRA (115k dwt),1 YR,35000,False,up,2025-11-19_weekly-tanker-time-charter-estimates-november-19-2025.html
 2025-11-19,AFRA (115k dwt),2 YR,29500,False,flat,2025-11-19_weekly-tanker-time-charter-estimates-november-19-2025.html
 2025-11-19,AFRA (115k dwt),3 YR,32500,True,flat,2025-11-19_weekly-tanker-time-charter-estimates-november-19-2025.html
@@ -6299,20 +6411,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2026-01-14,VLCC,2 YR,45000,False,flat,2026-01-14_weekly-tanker-time-charter-estimates-january-14-2026.html
 2026-01-14,VLCC,3 YR,50000,True,flat,2026-01-14_weekly-tanker-time-charter-estimates-january-14-2026.html
 2026-01-14,VLCC,5 YR,48500,True,flat,2026-01-14_weekly-tanker-time-charter-estimates-january-14-2026.html
-2026-01-21,AFRA (115k dwt),2 YR,39000,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,AFRA (115k dwt),5 YR,33500,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,HANDY,2 YR,20000,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,HANDY,5 YR,20000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,LR1,2 YR,23500,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,LR1,5 YR,24500,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,LR2,2 YR,37500,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,LR2,5 YR,32750,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,MR IMO3,2 YR,22000,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,MR IMO3,5 YR,22000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,SUEZ,2 YR,45000,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,SUEZ,5 YR,39000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,VLCC,2 YR,55000,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
-2026-01-21,VLCC,5 YR,50000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,AFRA (115k dwt),1 YR,39000,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,AFRA (115k dwt),2 YR,29500,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,AFRA (115k dwt),3 YR,33500,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,AFRA (115k dwt),5 YR,30000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,HANDY,1 YR,20000,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,HANDY,2 YR,18000,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,HANDY,3 YR,20000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,HANDY,5 YR,19000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,LR1,1 YR,23500,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,LR1,2 YR,22500,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,LR1,3 YR,24500,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,LR1,5 YR,23000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,LR2,1 YR,37500,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,LR2,2 YR,28000,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,LR2,3 YR,32750,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,LR2,5 YR,30000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,MR IMO3,1 YR,22000,False,down,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,MR IMO3,2 YR,20750,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,MR IMO3,3 YR,22000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,MR IMO3,5 YR,20000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,SUEZ,1 YR,45000,False,up,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,SUEZ,2 YR,34500,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,SUEZ,3 YR,39000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,SUEZ,5 YR,37000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,VLCC,1 YR,55000,False,up,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,VLCC,2 YR,45000,False,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,VLCC,3 YR,50000,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
+2026-01-21,VLCC,5 YR,48500,True,flat,2026-01-21_weekly-tanker-time-charter-estimates-january-21-2026.html
 2026-01-28,AFRA (115k dwt),1 YR,41500,False,up,2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026.html
 2026-01-28,AFRA (115k dwt),2 YR,35000,False,up,2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026.html
 2026-01-28,AFRA (115k dwt),3 YR,36500,True,up,2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026.html
@@ -6341,20 +6467,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2026-01-28,VLCC,2 YR,67500,False,up,2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026.html
 2026-01-28,VLCC,3 YR,63500,True,up,2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026.html
 2026-01-28,VLCC,5 YR,60000,True,up,2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026.html
-2026-02-04,AFRA (115k dwt),2 YR,44000,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
-2026-02-04,AFRA (115k dwt),5 YR,35000,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
-2026-02-04,HANDY,2 YR,21000,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,AFRA (115k dwt),1 YR,44000,False,up,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,AFRA (115k dwt),2 YR,35000,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,AFRA (115k dwt),3 YR,36500,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,AFRA (115k dwt),5 YR,32500,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,HANDY,1 YR,21000,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,HANDY,2 YR,19000,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,HANDY,3 YR,20000,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
 2026-02-04,HANDY,5 YR,19000,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
-2026-02-04,LR1,2 YR,27500,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
-2026-02-04,LR1,5 YR,24000,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
-2026-02-04,LR2,2 YR,38500,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
-2026-02-04,LR2,5 YR,35000,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
-2026-02-04,MR IMO3,2 YR,23500,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
-2026-02-04,MR IMO3,5 YR,22000,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
-2026-02-04,SUEZ,2 YR,46500,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,LR1,1 YR,27500,False,up,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,LR1,2 YR,24000,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,LR1,3 YR,27250,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,LR1,5 YR,25250,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,LR2,1 YR,38500,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,LR2,2 YR,35000,False,up,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,LR2,3 YR,36500,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,LR2,5 YR,33500,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,MR IMO3,1 YR,23500,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,MR IMO3,2 YR,22000,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,MR IMO3,3 YR,22500,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,MR IMO3,5 YR,19000,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,SUEZ,1 YR,46500,False,up,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,SUEZ,2 YR,40000,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,SUEZ,3 YR,42500,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
 2026-02-04,SUEZ,5 YR,40000,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
-2026-02-04,VLCC,2 YR,70000,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
-2026-02-04,VLCC,5 YR,67500,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,VLCC,1 YR,70000,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,VLCC,2 YR,67500,False,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,VLCC,3 YR,63500,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
+2026-02-04,VLCC,5 YR,60000,True,flat,2026-02-04_weekly-tanker-time-charter-estimates-february-04-2026.html
 2026-02-11,AFRA (115k dwt),1 YR,44000,False,flat,2026-02-11_weekly-tanker-time-charter-estimates-february-11-2026.html
 2026-02-11,AFRA (115k dwt),2 YR,35000,False,flat,2026-02-11_weekly-tanker-time-charter-estimates-february-11-2026.html
 2026-02-11,AFRA (115k dwt),3 YR,36500,True,flat,2026-02-11_weekly-tanker-time-charter-estimates-february-11-2026.html
@@ -6411,20 +6551,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2026-02-18,VLCC,2 YR,67500,False,flat,2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026.html
 2026-02-18,VLCC,3 YR,60000,True,flat,2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026.html
 2026-02-18,VLCC,5 YR,55000,True,flat,2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026.html
-2026-02-25,AFRA (115k dwt),2 YR,42500,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,AFRA (115k dwt),5 YR,36500,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,HANDY,2 YR,22000,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,HANDY,5 YR,19000,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,LR1,2 YR,30000,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,LR1,5 YR,26500,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,LR2,2 YR,40000,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,LR2,5 YR,37500,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,MR IMO3,2 YR,23500,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,MR IMO3,5 YR,22000,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,SUEZ,2 YR,52500,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,SUEZ,5 YR,42500,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,VLCC,2 YR,85000,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
-2026-02-25,VLCC,5 YR,65000,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,AFRA (115k dwt),1 YR,42500,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,AFRA (115k dwt),2 YR,36500,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,AFRA (115k dwt),3 YR,36500,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,AFRA (115k dwt),5 YR,32500,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,HANDY,1 YR,22000,False,up,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,HANDY,2 YR,19000,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,HANDY,3 YR,19000,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,HANDY,5 YR,18000,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,LR1,1 YR,30000,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,LR1,2 YR,26500,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,LR1,3 YR,28500,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,LR1,5 YR,26000,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,LR2,1 YR,40000,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,LR2,2 YR,37500,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,LR2,3 YR,36500,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,LR2,5 YR,33500,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,MR IMO3,1 YR,23500,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,MR IMO3,2 YR,22000,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,MR IMO3,3 YR,22500,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,MR IMO3,5 YR,19500,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,SUEZ,1 YR,52500,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,SUEZ,2 YR,42500,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,SUEZ,3 YR,44000,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,SUEZ,5 YR,40000,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,VLCC,1 YR,85000,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,VLCC,2 YR,65000,False,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,VLCC,3 YR,60000,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
+2026-02-25,VLCC,5 YR,55000,True,flat,2026-02-25_weekly-tanker-time-charter-estimates-february-25-2026.html
 2026-03-04,AFRA (115k dwt),1 YR,50000,False,up,2026-03-04_weekly-tanker-time-charter-estimates-march-04-2026.html
 2026-03-04,AFRA (115k dwt),2 YR,36500,False,flat,2026-03-04_weekly-tanker-time-charter-estimates-march-04-2026.html
 2026-03-04,AFRA (115k dwt),3 YR,36500,True,flat,2026-03-04_weekly-tanker-time-charter-estimates-march-04-2026.html
@@ -6537,20 +6691,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2026-03-26,VLCC,2 YR,80000,False,flat,2026-03-26_weekly-tanker-time-charter-estimates-march-25-2026.html
 2026-03-26,VLCC,3 YR,70000,True,flat,2026-03-26_weekly-tanker-time-charter-estimates-march-25-2026.html
 2026-03-26,VLCC,5 YR,60000,True,flat,2026-03-26_weekly-tanker-time-charter-estimates-march-25-2026.html
-2026-04-01,AFRA (115k dwt),2 YR,62500,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,AFRA (115k dwt),5 YR,50000,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,HANDY,2 YR,27000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,HANDY,5 YR,24500,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,LR1,2 YR,35000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,LR1,5 YR,30000,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,LR2,2 YR,55000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,LR2,5 YR,50000,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,MR IMO3,2 YR,31500,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,MR IMO3,5 YR,28500,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,SUEZ,2 YR,80000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,SUEZ,5 YR,60000,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,VLCC,2 YR,105000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
-2026-04-01,VLCC,5 YR,80000,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,AFRA (115k dwt),1 YR,62500,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,AFRA (115k dwt),2 YR,50000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,AFRA (115k dwt),3 YR,40000,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,AFRA (115k dwt),5 YR,33500,True,up,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,HANDY,1 YR,27000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,HANDY,2 YR,24500,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,HANDY,3 YR,22500,True,up,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,HANDY,5 YR,21000,True,up,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,LR1,1 YR,35000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,LR1,2 YR,30000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,LR1,3 YR,28500,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,LR1,5 YR,26000,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,LR2,1 YR,55000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,LR2,2 YR,50000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,LR2,3 YR,42500,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,LR2,5 YR,35000,True,up,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,MR IMO3,1 YR,31500,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,MR IMO3,2 YR,28500,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,MR IMO3,3 YR,27500,True,up,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,MR IMO3,5 YR,24000,True,up,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,SUEZ,1 YR,80000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,SUEZ,2 YR,60000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,SUEZ,3 YR,52500,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,SUEZ,5 YR,40000,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,VLCC,1 YR,105000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,VLCC,2 YR,80000,False,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,VLCC,3 YR,70000,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
+2026-04-01,VLCC,5 YR,60000,True,flat,2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html
 2026-04-08,AFRA (115k dwt),1 YR,60000,False,down,2026-04-08_weekly-tanker-time-charter-estimates-april-08-2026.html
 2026-04-08,AFRA (115k dwt),2 YR,50000,False,flat,2026-04-08_weekly-tanker-time-charter-estimates-april-08-2026.html
 2026-04-08,AFRA (115k dwt),3 YR,40000,True,flat,2026-04-08_weekly-tanker-time-charter-estimates-april-08-2026.html
@@ -6579,34 +6747,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2026-04-08,VLCC,2 YR,80000,False,flat,2026-04-08_weekly-tanker-time-charter-estimates-april-08-2026.html
 2026-04-08,VLCC,3 YR,70000,True,flat,2026-04-08_weekly-tanker-time-charter-estimates-april-08-2026.html
 2026-04-08,VLCC,5 YR,60000,True,flat,2026-04-08_weekly-tanker-time-charter-estimates-april-08-2026.html
-2026-04-15,AFRA (115k dwt),1 YR,60000,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
-2026-04-15,AFRA (115k dwt),2 YR,45000,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
+2026-04-15,AFRA (115k dwt),1 YR,60000,False,down,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
+2026-04-15,AFRA (115k dwt),2 YR,45000,False,down,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,AFRA (115k dwt),3 YR,40000,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,AFRA (115k dwt),5 YR,33500,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
-2026-04-15,HANDY,1 YR,30000,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
+2026-04-15,HANDY,1 YR,30000,False,up,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,HANDY,2 YR,25000,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,HANDY,3 YR,23500,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,HANDY,5 YR,21000,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,LR1,1 YR,40000,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
-2026-04-15,LR1,2 YR,32500,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
+2026-04-15,LR1,2 YR,32500,False,up,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,LR1,3 YR,29000,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
-2026-04-15,LR1,5 YR,27500,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
+2026-04-15,LR1,5 YR,27500,True,up,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,LR2,1 YR,60000,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,LR2,2 YR,48500,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,LR2,3 YR,42500,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,LR2,5 YR,35000,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
-2026-04-15,MR IMO3,1 YR,33500,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
+2026-04-15,MR IMO3,1 YR,33500,False,up,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,MR IMO3,2 YR,29500,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
-2026-04-15,MR IMO3,3 YR,29500,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
-2026-04-15,MR IMO3,5 YR,25000,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
+2026-04-15,MR IMO3,3 YR,29500,True,up,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
+2026-04-15,MR IMO3,5 YR,25000,True,up,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,SUEZ,1 YR,75000,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,SUEZ,2 YR,60000,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,SUEZ,3 YR,52500,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,SUEZ,5 YR,40000,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,VLCC,1 YR,100000,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-15,VLCC,2 YR,80000,False,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
-2026-04-15,VLCC,3 YR,65000,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
-2026-04-15,VLCC,5 YR,55000,True,flat,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
+2026-04-15,VLCC,3 YR,65000,True,down,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
+2026-04-15,VLCC,5 YR,55000,True,down,2026-04-15_weekly-tanker-time-charter-estimates-april-15-2026.html
 2026-04-22,AFRA (115k dwt),1 YR,57500,False,down,2026-04-22_weekly-tanker-time-charter-estimates-april-22-2026.html
 2026-04-22,AFRA (115k dwt),2 YR,45000,False,down,2026-04-22_weekly-tanker-time-charter-estimates-april-22-2026.html
 2026-04-22,AFRA (115k dwt),3 YR,40000,True,flat,2026-04-22_weekly-tanker-time-charter-estimates-april-22-2026.html
@@ -6663,29 +6831,62 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2026-04-29,VLCC,2 YR,70000,False,down,2026-04-29_weekly-tanker-time-charter-estimates-april-29-2026.html
 2026-04-29,VLCC,3 YR,65000,True,flat,2026-04-29_weekly-tanker-time-charter-estimates-april-29-2026.html
 2026-04-29,VLCC,5 YR,55000,True,flat,2026-04-29_weekly-tanker-time-charter-estimates-april-29-2026.html
-2026-05-06,AFRA (115k dwt),2 YR,63500,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,AFRA (115k dwt),5 YR,45000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,HANDY,2 YR,27500,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,HANDY,5 YR,20000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,LR1,2 YR,40000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,LR1,5 YR,32500,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,LR2,2 YR,60000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,LR2,5 YR,40000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,MR IMO3,2 YR,29500,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,AFRA (115k dwt),1 YR,63500,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,AFRA (115k dwt),2 YR,45000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,AFRA (115k dwt),3 YR,40000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,AFRA (115k dwt),5 YR,33500,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,HANDY,1 YR,27500,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,HANDY,2 YR,20000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,HANDY,3 YR,23500,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,HANDY,5 YR,21000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,LR1,1 YR,40000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,LR1,2 YR,32500,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,LR1,3 YR,29000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,LR1,5 YR,27500,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,LR2,1 YR,60000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,LR2,2 YR,40000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,LR2,3 YR,42500,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,LR2,5 YR,35000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,MR IMO3,1 YR,29500,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,MR IMO3,2 YR,25000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,MR IMO3,3 YR,27500,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
 2026-05-06,MR IMO3,5 YR,25000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,SUEZ,2 YR,70000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,SUEZ,5 YR,55000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,VLCC,2 YR,100000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
-2026-05-06,VLCC,5 YR,70000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,SUEZ,1 YR,70000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,SUEZ,2 YR,55000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,SUEZ,3 YR,52500,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,SUEZ,5 YR,40000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,VLCC,1 YR,100000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,VLCC,2 YR,70000,False,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,VLCC,3 YR,60000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
+2026-05-06,VLCC,5 YR,55000,True,flat,2026-05-06_weekly-tanker-time-charter-estimates-may-06-2026.html
 2026-05-13,AFRA (115k dwt),1 YR,55000,False,down,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
 2026-05-13,AFRA (115k dwt),2 YR,40000,False,down,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,AFRA (115k dwt),3 YR,40000,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,AFRA (115k dwt),5 YR,33500,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,HANDY,1 YR,26000,False,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
 2026-05-13,HANDY,2 YR,20000,False,up,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,HANDY,3 YR,23500,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,HANDY,5 YR,21000,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
 2026-05-13,LR1,1 YR,38500,False,down,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,LR1,2 YR,32500,False,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,LR1,3 YR,29000,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,LR1,5 YR,27500,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
 2026-05-13,LR2,1 YR,50000,False,down,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,LR2,2 YR,40000,False,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,LR2,3 YR,42500,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,LR2,5 YR,35000,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,MR IMO3,1 YR,30000,False,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
 2026-05-13,MR IMO3,2 YR,24500,False,down,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,MR IMO3,3 YR,27500,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,MR IMO3,5 YR,25000,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
 2026-05-13,SUEZ,1 YR,70000,False,down,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
 2026-05-13,SUEZ,2 YR,50000,False,down,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,SUEZ,3 YR,52500,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,SUEZ,5 YR,40000,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
 2026-05-13,VLCC,1 YR,105000,False,up,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,VLCC,2 YR,70000,False,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,VLCC,3 YR,60000,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
+2026-05-13,VLCC,5 YR,55000,True,flat,2026-05-13_weekly-tanker-time-charter-estimates-may-13-2026.html
 2026-05-27,AFRA (115k dwt),1 YR,55000,False,flat,2026-05-27_weekly-tanker-time-charter-estimates-may-27-2026.html
 2026-05-27,AFRA (115k dwt),2 YR,38500,False,down,2026-05-27_weekly-tanker-time-charter-estimates-may-27-2026.html
 2026-05-27,AFRA (115k dwt),3 YR,40000,True,flat,2026-05-27_weekly-tanker-time-charter-estimates-may-27-2026.html
@@ -6826,20 +7027,34 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2026-06-25,VLCC,2 YR,75000,False,flat,2026-06-25_weekly-tanker-time-charter-estimates-june-24-2026.html
 2026-06-25,VLCC,3 YR,65000,True,flat,2026-06-25_weekly-tanker-time-charter-estimates-june-24-2026.html
 2026-06-25,VLCC,5 YR,55000,True,flat,2026-06-25_weekly-tanker-time-charter-estimates-june-24-2026.html
-2026-07-01,AFRA (115k dwt),2 YR,48500,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,AFRA (115k dwt),5 YR,35000,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,HANDY,2 YR,23750,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,HANDY,5 YR,21000,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,LR1,2 YR,36500,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,LR1,5 YR,32500,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,LR2,2 YR,45000,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,LR2,5 YR,35000,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,MR IMO3,2 YR,26000,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,MR IMO3,5 YR,24000,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,SUEZ,2 YR,59500,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,SUEZ,5 YR,47500,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,VLCC,2 YR,107500,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
-2026-07-01,VLCC,5 YR,75000,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,AFRA (115k dwt),1 YR,48500,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,AFRA (115k dwt),2 YR,35000,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,AFRA (115k dwt),3 YR,39000,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,AFRA (115k dwt),5 YR,32500,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,HANDY,1 YR,23750,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,HANDY,2 YR,21000,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,HANDY,3 YR,22500,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,HANDY,5 YR,19000,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,LR1,1 YR,36500,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,LR1,2 YR,32500,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,LR1,3 YR,29500,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,LR1,5 YR,27500,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,LR2,1 YR,45000,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,LR2,2 YR,35000,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,LR2,3 YR,37500,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,LR2,5 YR,32500,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,MR IMO3,1 YR,26000,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,MR IMO3,2 YR,24000,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,MR IMO3,3 YR,25000,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,MR IMO3,5 YR,21500,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,SUEZ,1 YR,59500,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,SUEZ,2 YR,47500,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,SUEZ,3 YR,47500,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,SUEZ,5 YR,40000,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,VLCC,1 YR,107500,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,VLCC,2 YR,75000,False,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,VLCC,3 YR,65000,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
+2026-07-01,VLCC,5 YR,55000,True,flat,2026-07-01_weekly-tanker-time-charter-estimates-july-02-2026.html
 2026-07-08,AFRA (115k dwt),1 YR,52500,False,up,2026-07-08_weekly-tanker-time-charter-estimates-july-08-2026.html
 2026-07-08,AFRA (115k dwt),2 YR,35000,False,flat,2026-07-08_weekly-tanker-time-charter-estimates-july-08-2026.html
 2026-07-08,AFRA (115k dwt),3 YR,38500,True,flat,2026-07-08_weekly-tanker-time-charter-estimates-july-08-2026.html
@@ -7204,3 +7419,31 @@ issue_date,vessel_class,tenor,rate_usd_pdpr,eco_scrubber,trend,source_file
 2026-09-30,VLCC,2 YR,150000,False,up,2026-09-30_weekly-tanker-time-charter-estimates-september-30-2026.html
 2026-09-30,VLCC,3 YR,100000,True,up,2026-09-30_weekly-tanker-time-charter-estimates-september-30-2026.html
 2026-09-30,VLCC,5 YR,75000,True,up,2026-09-30_weekly-tanker-time-charter-estimates-september-30-2026.html
+2026-10-07,AFRA (115k dwt),1 YR,90000,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,AFRA (115k dwt),2 YR,75000,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,AFRA (115k dwt),3 YR,57500,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,AFRA (115k dwt),5 YR,45000,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,HANDY,1 YR,34000,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,HANDY,2 YR,28500,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,HANDY,3 YR,23500,True,flat,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,HANDY,5 YR,21000,True,flat,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,LR1,1 YR,47500,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,LR1,2 YR,37500,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,LR1,3 YR,39500,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,LR1,5 YR,35000,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,LR2,1 YR,87500,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,LR2,2 YR,75000,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,LR2,3 YR,57500,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,LR2,5 YR,45000,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,MR IMO3,1 YR,39000,False,flat,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,MR IMO3,2 YR,32500,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,MR IMO3,3 YR,27500,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,MR IMO3,5 YR,26000,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,SUEZ,1 YR,170000,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,SUEZ,2 YR,14000,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,SUEZ,3 YR,85000,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,SUEZ,5 YR,65000,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,VLCC,1 YR,220000,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,VLCC,2 YR,185000,False,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,VLCC,3 YR,115000,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html
+2026-10-07,VLCC,5 YR,85000,True,up,2026-10-07_weekly-tanker-time-charter-estimates-october-7-2026.html

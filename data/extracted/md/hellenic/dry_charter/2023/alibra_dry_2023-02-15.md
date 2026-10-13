@@ -18,7 +18,32 @@ source_file: "corpus/02-hellenic/dry_charter/2023/2023-02-15_weekly-dry-time-cha
 
 ## Time Charter Estimates ($/pdpr)
 
-*Table estimates not available.*
+| Size | Tenor | Basin | Rate ($/day) | Trend |
+|---|---|---|---|---|
+| HANDY (38k dwt) | 6 MOS | ATL | $10,000 | flat |
+| HANDY (38k dwt) | 6 MOS | PAC | $11,000 | flat |
+| HANDY (38k dwt) | 1 YR | ATL | $12,500 | up |
+| HANDY (38k dwt) | 1 YR | PAC | $13,000 | flat |
+| HANDY (38k dwt) | 2 YR | ATL | $12,500 | flat |
+| HANDY (38k dwt) | 2 YR | PAC | $12,500 | flat |
+| SMAX/ULTRA | 6 MOS | ATL | $11,000 | down |
+| SMAX/ULTRA | 6 MOS | PAC | $11,000 | up |
+| SMAX/ULTRA | 1 YR | ATL | $13,500 | flat |
+| SMAX/ULTRA | 1 YR | PAC | $12,500 | up |
+| SMAX/ULTRA | 2 YR | ATL | $12,500 | up |
+| SMAX/ULTRA | 2 YR | PAC | $12,000 | up |
+| PANA/KMAX | 6 MOS | ATL | $14,000 | down |
+| PANA/KMAX | 6 MOS | PAC | $14,000 | down |
+| PANA/KMAX | 1 YR | ATL | $14,250 | flat |
+| PANA/KMAX | 1 YR | PAC | $14,250 | flat |
+| PANA/KMAX | 2 YR | ATL | $14,000 | up |
+| PANA/KMAX | 2 YR | PAC | $14,000 | up |
+| CAPESIZE | 6 MOS | ATL | $13,250 | flat |
+| CAPESIZE | 6 MOS | PAC | $13,250 | flat |
+| CAPESIZE | 1 YR | ATL | $14,750 | flat |
+| CAPESIZE | 1 YR | PAC | $14,750 | flat |
+| CAPESIZE | 2 YR | ATL | $16,000 | flat |
+| CAPESIZE | 2 YR | PAC | $16,000 | flat |
 
 ## Contact & Source
 

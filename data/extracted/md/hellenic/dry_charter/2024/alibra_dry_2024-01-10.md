@@ -32,12 +32,12 @@ source_file: "corpus/02-hellenic/dry_charter/2024/2024-01-10_weekly-dry-time-cha
 | SMAX/ULTRA | 1 YR | PAC | $13,250 | flat |
 | SMAX/ULTRA | 2 YR | ATL | $12,500 | flat |
 | SMAX/ULTRA | 2 YR | PAC | $12,500 | flat |
-| PANA/KMAX -01 | 6 MOS | ATL | $21,250 | flat |
-| PANA/KMAX -01 | 6 MOS | PAC | $14,250 | down |
-| PANA/KMAX -01 | 1 YR | ATL | $16,250 | down |
-| PANA/KMAX -01 | 1 YR | PAC | $14,750 | down |
-| PANA/KMAX -01 | 2 YR | ATL | $14,000 | flat |
-| PANA/KMAX -01 | 2 YR | PAC | $13,250 | down |
+| PANA/KMAX | 6 MOS | ATL | $21,250 | n/a |
+| PANA/KMAX | 6 MOS | PAC | $14,250 | down |
+| PANA/KMAX | 1 YR | ATL | $16,250 | up |
+| PANA/KMAX | 1 YR | PAC | $14,750 | down |
+| PANA/KMAX | 2 YR | ATL | $14,000 | flat |
+| PANA/KMAX | 2 YR | PAC | $13,250 | down |
 | CAPESIZE | 6 MOS | ATL | $20,000 | flat |
 | CAPESIZE | 6 MOS | PAC | $20,000 | flat |
 | CAPESIZE | 1 YR | ATL | $21,000 | up |

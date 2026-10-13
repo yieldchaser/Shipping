@@ -36,18 +36,18 @@ source_file: "corpus/02-hellenic/tanker_charter/2025/2025-11-12_weekly-tanker-ti
 | LR2 | 2 YR | $28,000 | Standard | flat |
 | LR2 | 3 YR | $30,000 | Yes | flat |
 | LR2 | 5 YR | $29,500 | Yes | flat |
-| AFRA (115k dwt) ▲ | 1 YR | $35,000 | Standard | up |
-| AFRA (115k dwt) ▲ | 2 YR | $29,500 | Standard | flat |
-| AFRA (115k dwt) ▲ | 3 YR | $32,500 | Yes | up |
-| AFRA (115k dwt) ▲ | 5 YR | $30,000 | Yes | up |
-| SUEZ ▲ | 1 YR | $43,500 | Standard | up |
-| SUEZ ▲ | 2 YR | $34,500 | Standard | flat |
-| SUEZ ▲ | 3 YR | $40,000 | Yes | up |
-| SUEZ ▲ | 5 YR | $37,500 | Yes | up |
-| VLCC ▲ | 1 YR | $52,500 | Standard | up |
-| VLCC ▲ | 2 YR | $45,000 | Standard | flat |
-| VLCC ▲ | 3 YR | $51,500 | Yes | up |
-| VLCC ▲ | 5 YR | $50,000 | Yes | up |
+| AFRA (115k dwt) | 1 YR | $35,000 | Standard | up |
+| AFRA (115k dwt) | 2 YR | $29,500 | Standard | flat |
+| AFRA (115k dwt) | 3 YR | $32,500 | Yes | up |
+| AFRA (115k dwt) | 5 YR | $30,000 | Yes | up |
+| SUEZ | 1 YR | $43,500 | Standard | up |
+| SUEZ | 2 YR | $34,500 | Standard | flat |
+| SUEZ | 3 YR | $40,000 | Yes | up |
+| SUEZ | 5 YR | $37,500 | Yes | up |
+| VLCC | 1 YR | $52,500 | Standard | up |
+| VLCC | 2 YR | $45,000 | Standard | flat |
+| VLCC | 3 YR | $51,500 | Yes | up |
+| VLCC | 5 YR | $50,000 | Yes | up |
 
 ## Contact & Source
 

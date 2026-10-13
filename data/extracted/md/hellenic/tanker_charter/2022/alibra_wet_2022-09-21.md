@@ -36,10 +36,10 @@ source_file: "corpus/02-hellenic/tanker_charter/2022/2022-09-21_weekly-tanker-ti
 | LR2 | 2 YR | $36,500 | Standard | flat |
 | LR2 | 3 YR | $33,500 | Yes | flat |
 | LR2 | 5 YR | $32,500 | Yes | flat |
-| ~~AFRA~~ (115k dwt) | 1 YR | $32,500 | Standard | up |
-| ~~AFRA~~ (115k dwt) | 2 YR | $35,000 | Standard | flat |
-| ~~AFRA~~ (115k dwt) | 3 YR | $31,000 | Yes | flat |
-| ~~AFRA~~ (115k dwt) | 5 YR | $30,000 | Yes | flat |
+| AFRA (115k dwt) | 1 YR | $32,500 | Standard | up |
+| AFRA (115k dwt) | 2 YR | $35,000 | Standard | flat |
+| AFRA (115k dwt) | 3 YR | $31,000 | Yes | flat |
+| AFRA (115k dwt) | 5 YR | $30,000 | Yes | flat |
 | SUEZ | 1 YR | $35,000 | Standard | up |
 | SUEZ | 2 YR | $29,000 | Standard | up |
 | SUEZ | 3 YR | $35,000 | Yes | up |

@@ -41,7 +41,7 @@ source_file: "corpus/02-hellenic/dry_charter/2025/2025-08-20_weekly-dry-time-cha
 | CAPESIZE | 6 MOS | ATL | $21,500 | flat |
 | CAPESIZE | 6 MOS | PAC | $21,500 | flat |
 | CAPESIZE | 1 YR | ATL | $22,500 | up |
-| CAPESIZE | 1 YR | PAC | $22,500 | flat |
+| CAPESIZE | 1 YR | PAC | $22,500 | up |
 | CAPESIZE | 2 YR | ATL | $21,000 | up |
 | CAPESIZE | 2 YR | PAC | $21,000 | up |
 

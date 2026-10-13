@@ -42,16 +42,16 @@ A slow start to the year for the smaller sizes as market players wait to see wha
 | ULTRAMAX | 1 YR | PAC | $22,000 | down |
 | ULTRAMAX | 2 YR | ATL | $16,500 | flat |
 | ULTRAMAX | 2 YR | PAC | $16,000 | flat |
-| PANA/KMAX | 6 MOS | ATL | $34,000 | flat |
-| PANA/KMAX | 6 MOS | PAC | $26,500 | flat |
-| PANA/KMAX | 1 YR | ATL | $26,000 | flat |
-| PANA/KMAX | 1 YR | PAC | $24,250 | flat |
-| PANA/KMAX | 2 YR | ATL | $22,500 | flat |
-| PANA/KMAX | 2 YR | PAC | $21,000 | flat |
+| PANA/KMAX | 6 MOS | ATL | $34,000 | up |
+| PANA/KMAX | 6 MOS | PAC | $26,500 | up |
+| PANA/KMAX | 1 YR | ATL | $26,000 | up |
+| PANA/KMAX | 1 YR | PAC | $24,250 | up |
+| PANA/KMAX | 2 YR | ATL | $22,500 | up |
+| PANA/KMAX | 2 YR | PAC | $21,000 | up |
 | CAPESIZE | 6 MOS | ATL | $24,750 | down |
 | CAPESIZE | 6 MOS | PAC | $23,250 | down |
-| CAPESIZE | 1 YR | ATL | $25,000 | flat |
-| CAPESIZE | 1 YR | PAC | $23,500 | flat |
+| CAPESIZE | 1 YR | ATL | $25,000 | up |
+| CAPESIZE | 1 YR | PAC | $23,500 | up |
 | CAPESIZE | 2 YR | ATL | $21,000 | flat |
 | CAPESIZE | 2 YR | PAC | $20,000 | flat |
 
