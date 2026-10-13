@@ -566437,3 +566437,7 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 863276,2026-10-13,,,angel ii,,,,,Capesize,BULK,,,,,cape
 863277,2026-10-13,,,nondas kmx,,,,,Kamsarmax,BULK,,,,,
 863278,2026-10-13,,Seatraders,nondas,,,,,Kamsarmax,BULK,,,,,
+863279,2026-10-13,Tgp/nom,,,,,,,Panamax,BULK,Petcoke,,,,
+863280,2026-10-12,Santos,ConocoPhillips,Parthenon Lng,9992220,,,,LNGC,LNG,,,,,
+863281,2026-10-13,Santos,Cool Co,Kool Crystal,9624926,,,,LNGC,LNG,,,,,
+863282,2026-10-13,,CONTINENTAL CHARTERING,ISLAND OF FYN,,,,,Panamax,BULK,,,,,
