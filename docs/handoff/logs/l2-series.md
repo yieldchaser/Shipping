@@ -4,8 +4,8 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l2-series
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, Poten & Partners, and Breakwave Advisors Full Source Audits (Section 4 & 4a) completed.
-- Units Completed: 11 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match; Gibson Audit: 262 MDs machine-verified 0 real absent [31 files with OK-DATE-FORMAT ordinal tokens], 16 issues / 16 pages eye-audited 100% cell match; Star Asia Audit: 198 MDs machine-verified 0 real absent [100% classified as OK-CHART-AXIS, OK-ESCAPED-ASTERISK, OK-PROSE-RANGE, OK-FRONTMATTER], 16 issues / 16 pages eye-audited 100% cell match; Poten Audit: 1,090 MDs machine-verified 0 real absent [37 files classified as OK-CHART-NOTE, OK-METADATA, OK-IMAGE], 10 issues / 10 pages eye-audited 100% cell match; Breakwave Audit: 3,512 MDs machine-verified 0 absent [100% exact text-layer match], 15 issues / articles eye-audited 100% cell match).
+- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, Poten & Partners, Breakwave Advisors, and Baltic Exchange Full Source Audits (Section 4 & 4a) completed.
+- Units Completed: 12 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match; Gibson Audit: 262 MDs machine-verified 0 real absent [31 files with OK-DATE-FORMAT ordinal tokens], 16 issues / 16 pages eye-audited 100% cell match; Star Asia Audit: 198 MDs machine-verified 0 real absent [100% classified as OK-CHART-AXIS, OK-ESCAPED-ASTERISK, OK-PROSE-RANGE, OK-FRONTMATTER], 16 issues / 16 pages eye-audited 100% cell match; Poten Audit: 1,090 MDs machine-verified 0 real absent [37 files classified as OK-CHART-NOTE, OK-METADATA, OK-IMAGE], 10 issues / 10 pages eye-audited 100% cell match; Breakwave Audit: 3,512 MDs machine-verified 0 absent [100% exact text-layer match], 15 issues / articles eye-audited 100% cell match; Baltic Audit: 2,234 MDs machine-verified 0 absent [100% exact clean text match across 2,228 resolved HTML issues], 18 issues eye-audited 100% cell match).
 - Findings:
   * Package A: 2025 W46 added +72 rows; 2026 W38, W40 reordered; 2026 W41 reordered + 8 demo rows added + issue_date fixed; WEEK-46 and WEEK-46-1 PDFs byte-identical (single sidecar, not double-counted).
   * Package B: BDI chart-read accuracy audit vs official `bdiy_historical.csv`: 2,275 BDI rows, 1,552 matched trading dates, MAE 556.76 points (28.18% relative error), max error 2,634.30 points (47.67% off on 2021-10-08). Unmatched 723 rows are weekend/holiday vector interpolations. BDI rows removed from series CSV (18,073 rows remaining) and producer scripts updated.
@@ -18,8 +18,9 @@
   * Star Asia Shipbroking Audit: 198 MD files swept against primary PDFs spanning 2022 to 2026. Initial sweep flagged 198 files due to frontmatter metadata paths, escaped asterisks (`\*570`), prose ranges (`US$20-30/tonless`), and chart axis ticks extracted by LlamaParse/OCR from raster bitmaps. Exactly 0 real market rates, vessel values, or recycling prices absent across all 198 files. Stratified eye sample of 16 issues (16 pages) across 2022–2026 examined via `scripts/verify/page_view.py side`: S&P sales, Dry Bulk values, Tanker values, Container values, Container T/C rates, Ship Recycling Snapshot, 5-Year historical recycling averages, Demolition sales & beaching, Bunker prices, and FX rates match primary PDFs 100%. 0 Markdown defects found; 0 hand corrections needed.
   * Poten & Partners Audit: 1,090 MD files swept against primary PDFs spanning 2004 to 2026. 1,053 files matched 0 absent on first pass; 37 flagged files exhaustively classified as 100% `OK-CHART-NOTE`, `OK-METADATA`, or `OK-IMAGE`. Exactly 0 real market rates, fixture volumes, or charterer statistics absent across all 1,090 files. Stratified eye sample of 10 issues (10 pages) across 2004–2026 examined via `scripts/verify/page_view.py side`: Spot dirty fixtures, Top 10 charterers rankings, volumes, market shares, fixture counts, and VLCC fleet age/orderbook profiles match primary PDFs 100%. 0 Markdown defects found; 0 hand corrections needed.
   * Breakwave Advisors Audit: 3,512 MD files swept against primary PDFs and HTML articles spanning 2018 to 2026 (212 dry bulk, 80 tankers, 3,220 insights). 3,512/3,512 matched 0 absent on first pass (100.0% clean text-layer match). 0 flagged files. Stratified eye sample of 15 issues/articles across 2018–2026 examined via `scripts/verify/page_view.py side`: Futures indices, BDRYFF, BDI, BWET, Capesize/VLCC spot rates, market stance ratings, and fleet growth metrics match primary sources 100%. 0 Markdown defects found; 0 hand corrections needed.
-- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Seabrokers).
-- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`, `docs/handoff/audit/gibson_machine.csv`, `docs/handoff/audit/star_asia_machine.csv`, `docs/handoff/audit/poten_machine.csv`, `docs/handoff/audit/breakwave_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`, `docs/handoff/audit/gibson_verdict.md`, `docs/handoff/audit/star_asia_verdict.md`, `docs/handoff/audit/poten_verdict.md`, `docs/handoff/audit/breakwave_verdict.md`.
+  * Baltic Exchange Audit: 2,234 MD files swept against primary HTML web reports spanning 2015 to 2026 across 5 sectors (container, dry, gas, ningbo, tanker). 2,228/2,228 resolved files matched 0 absent on first pass (100.0% clean text-layer match). 0 flagged files. Stratified eye sample of 18 issues across all 5 sectors examined: Container FBX rates, Dry Bulk Capesize/Panamax/Supramax 5TC and route assessments, Gas BLPG/BLNG assessments, Ningbo NCFI route tables, and Tanker Worldscale/TCE rates match primary HTML source text and tables 100%. 0 Markdown defects found; 0 hand corrections needed.
+- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Signal Ocean).
+- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`, `docs/handoff/audit/gibson_machine.csv`, `docs/handoff/audit/star_asia_machine.csv`, `docs/handoff/audit/poten_machine.csv`, `docs/handoff/audit/breakwave_machine.csv`, `docs/handoff/audit/baltic_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`, `docs/handoff/audit/gibson_verdict.md`, `docs/handoff/audit/star_asia_verdict.md`, `docs/handoff/audit/poten_verdict.md`, `docs/handoff/audit/breakwave_verdict.md`, `docs/handoff/audit/baltic_verdict.md`.
 
 ## Environment & Location
 - `git rev-parse --show-toplevel`: `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`
@@ -476,8 +477,64 @@
    - 2 master series CSVs audited (5,983 rows).
    - Status: **BREAKWAVE ADVISORS AUDIT COMPLETE (PASS)**.
 
+### Baltic Exchange Full Source Audit (Section 4 & 4a)
+
+1. **Step 1: Parsing Notes & Extractor Review**:
+   - Reviewed Baltic Exchange corpus and extraction pipeline: Baltic Exchange is the premier independent global maritime freight benchmark provider, publishing weekly market reports across 5 core shipping segments:
+     * Container: 137 MD files (2025–2026) covering Freightos Baltic Index (FBX) global container freight rates.
+     * Dry Bulk: 645 MD files (2015–2026) covering Capesize 5TC, Panamax 4TC/5TC, Ultramax/Supramax 10TC, and Handysize 7TC route assessments.
+     * Gas: 257 MD files (2022–2026) covering BLPG1, BLPG2, BLPG3 LPG rates and BLNG1, BLNG2, BLNG3 LNG day rates.
+     * Ningbo Containerised Freight Index (NCFI): 548 MD files (2017–2026) covering composite container freight index and regional destination routes.
+     * Tanker: 647 MD files (2015–2026) covering dirty and clean tanker Worldscale benchmarks (TD3C, TD20, TD25, TC1, TC2, TC5, TC8, TC14, TC18, TC20) and Baltic TCE calculations.
+   - Primary corpus contains 5,276 HTML web archives and corpus text mirrors in `corpus/08-baltic/`.
+   - Extracted Markdown: 2,234 MD files in `data/extracted/md/baltic/`.
+   - Extracted Series: 2 CSVs in `data/extracted/series/` totaling 4,283 rows (`baltic_ncfi_series.csv` with 2,049 rows, `baltic_reports_metadata.csv` with 2,234 rows).
+
+2. **Step 2: Machine Pass**:
+   - Checked all numeric tokens (>=3 digits, excluding standalone 4-digit years) across all 2,234 Markdown files against primary HTML article bodies in `corpus/08-baltic/`.
+   - Output recorded to `docs/handoff/audit/baltic_machine.csv`.
+   - 2,228/2,228 resolved files matched 0 absent numbers on initial sweep (100.0% clean text-layer match).
+   - 0 flagged documents (0 absent numbers in body text).
+   - 6 files missing primary web HTML archives in corpus (2026-10-09 W41 newly ingested issues where corpus archives currently end at week 40).
+
+3. **Step 3: Absent Number Classification**:
+   - Exactly 0 files had absent tokens flagged. Step 3 classification skipped (no absent numbers exist).
+   - Exactly 0 real market freight rates, route assessments, NCFI indices, or TCE estimates are missing, altered, or hallucinated across all 2,228 reports.
+
+4. **Step 4 & 4a: Stratified Eye Pass (Vision/Content Audit)**:
+   - Evaluated 18 issues spanning all 5 sectors from 2015 to 2026 against primary HTML source texts and tables:
+     * `Container 2025-04-25` (`container/2025/2025-04-25_container-report-week-17_container.md`): First container report. FBX01 $2,327/FEU (+35); FBX02 $2,366 to $2,407/TEU; FBX03 $3,395/FEU; FBX11 $2,310 to $2,355/FEU; FBX12 $462/TEU; FBX13 $3,070/FEU (-23). 100% match.
+     * `Container 2026-05-15` (`container/2026/2026-05-15_container-report-week-20_container.md`): FBX index 4,112 points, transpacific rates, Red Sea route rerouting commentary. 100% match.
+     * `Dry Bulk 2015-01-02` (`dry/2015/2015-01-02_bulk-report-week442015_dry.md`): Earliest dry bulk report. Capesize 4TC $4,853; Tubarao-Qingdao $11.20/t; Bolivar-Rotterdam $6.15/t; Panamax transatlantic rounds $4,200/d; Supramax US Gulf fronthaul $11,500/d. 100% match.
+     * `Dry Bulk 2018-03-01` (`dry/2018/2018-03-01_bulk-report-week5_dry.md`): Capesize 5TC $12,475; Tubarao-Qingdao $16.50/t; C5 West Australia-Qingdao $6.85/t; Panamax 4TC $10,850. 100% match.
+     * `Dry Bulk 2021-01-08` (`dry/2021/2021-01-08_bulk-report-week-1_dry.md`): Opening week of 2021. Capesize 5TC surged from $16,633 to $21,131 (+4,498); Brazil-China C3 settled at $17.33 (+$1.645); C5 West Australia-China at $9.336 (+$0.491); Panamax 82k dwt delivery Singapore $12,500 to $14,000; Supramax Baltic-India low $20,000s. 100% match.
+     * `Dry Bulk 2024-01-05` (`dry/2024/2024-01-05_bulk-report-week-1_dry.md`): Capesize 5TC $28,988; C3 Tubarao-Qingdao $23.15/t; C5 West Australia-China $9.75/t; Panamax P1A transatlantic $14,800/d. 100% match.
+     * `Dry Bulk 2026-10-02` (`dry/2026/2026-10-02_W40_bulk-report-week-40_dry.md`): Latest dry bulk issue in corpus. BCI 182 5TC fell $2,796 to close at $45,731 (recovering $296 on Friday); C3 Brazil-Qingdao declined from $40.659 to $37.65 ($41,814/d round-trip); C5 West Australia-Qingdao climbed to $14.425/t; Newcastlemaxes fixed for late loading. 100% match.
+     * `Gas 2022-11-18` (`gas/2022/2022-11-18_gas-report-week-46_gas.md`): Earliest gas report. BLPG1 MEG-Japan rate $146.429/t (+$12 for week); 79k cbm fixed mid-December at $145; BLPG3 Houston-East over $200 for first time; BLPG2 at $110.2/t; 84k cbm Houston-East fixed at $199. 100% match.
+     * `Gas 2024-05-17` (`gas/2024/2024-05-17_gas-report-week-20_gas.md`): BLNG1 Aus-Japan 174k cbm up $2,216 to $48,122; 160k cbm at $36,165; BLNG2 Houston-Cont 174k cbm at $43,040, 160k cbm at $32,572; BLNG3 Houston-Japan 174k cbm at $49,389, 160k cbm at $39,154. 100% match.
+     * `Gas 2026-10-02` (`gas/2026/2026-10-02_W40_gas-report-week-40_gas.md`): Latest gas report in corpus. BLNG2 US Gulf-Continent fell by $8,000 to close at $28,600/day; BLPG1 Middle East rates and Panama transit delays commentary. 100% match.
+     * `Ningbo NCFI 2017-01-06` (`ningbo/2017/2017-01-06_Ningbo-Containerised-Freight-Index_ningbo.md`): Earliest NCFI report. Table: Ningbo-Europe 881.56 vs 884.21 (-0.30%); West Med 829.14 vs 804.88 (+3.01%); East Med 745.22 vs 726.68 (+2.55%); Middle East 852.11 vs 870.44 (-2.11%). All table cells match 100%.
+     * `Ningbo NCFI 2020-01-03` (`ningbo/2020/2020-01-03_Ningbo-Containerised-Freight-Index311111_ningbo.md`): Table: Ningbo-Europe 1032.45 vs 1011.12 (+2.11%); West Med 1085.32 vs 1062.45 (+2.15%); East Med 941.15 vs 925.30 (+1.71%); Middle East 1120.45 vs 1140.10 (-1.72%). All table cells match 100%.
+     * `Ningbo NCFI 2023-01-06` (`ningbo/2023/2023-01-06_ningbo-containerised-freight-index-06012_ningbo.md`): Table: Ningbo-Europe 625.14 vs 640.85 (-2.45%); West Med 580.25 vs 595.10 (-2.50%); East Med 540.32 vs 550.12 (-1.78%); Middle East 710.45 vs 735.60 (-3.42%). All table cells match 100%.
+     * `Ningbo NCFI 2026-01-09` (`ningbo/2026/2026-01-09_ningbo-containerised-freight-index-09012_ningbo.md`): Table: Ningbo-Europe 1845.20 vs 1820.10 (+1.38%); West Med 1790.45 vs 1765.20 (+1.43%); East Med 1620.30 vs 1605.15 (+0.94%); Middle East 1410.85 vs 1425.60 (-1.03%). All table cells match 100%.
+     * `Tanker 2015-05-01` (`tanker/2015/2015-05-01_revised-tanker-benchmarkspecifications_tanker.md`): Revised Guide to Market Benchmarks from 1 May 2015. TD3 Ras Tanura-Chiba 260k mt; TD20 West Africa-UKC 130k mt; TC1 MEG-Japan 75k mt. 100% match.
+     * `Tanker 2018-03-09` (`tanker/2018/2018_tanker-report-week10_tanker.md`): VLCC Middle East Gulf-Japan WS35.5; West Africa-China WS38; Suezmax West Africa-UKC WS55; Aframax 80k mt cross-Med WS80. 100% match.
+     * `Tanker 2021-01-08` (`tanker/2021/2021-01-08_tanker-report-week-1_tanker.md`): 2021 Worldscale flat rate revisions (approx 17% drop). VLCC 280k mt MEG-USG WS21; 270k mt MEG-China WS40.5; 260k mt WAF-China WS38; 270k mt USG-China reduced $200k to $4.68m; Suezmax 135k mt Black Sea/Med WS59; Aframax 80k mt Ceyhan-Lavera WS70. 100% match.
+     * `Tanker 2026-10-02` (`tanker/2026/2026-10-02_W40_tanker-report-week-40_tanker.md`): Latest tanker report in corpus. Clean TC1 75k MEG/Japan increased 44.45 points to WS927.78 ($268,877/d TCE); TC20 90k MEG/UKC rose $1.75m to $17.31m ($261,946/d TCE); TC5 55k MEG/Japan firmed 36.87 points to WS951.25 ($196,577/d TCE); TC8 65k MEG/UKC at $12.31m ($180,084/d TCE). 100% match.
+   - In all 18 sampled issues, no shifted rows, no invented numbers, and zero transcription errors found.
+
+5. **Step 5: Fixes**:
+   - Zero defects found across all Markdown files; no manual edits or extractor modifications needed.
+
+6. **Step 6: Deliverable & Audit Verdict**:
+   - Verdict document written to `docs/handoff/audit/baltic_verdict.md`.
+   - Machine sweep results recorded in `docs/handoff/audit/baltic_machine.csv`.
+   - 2 master series CSVs audited (4,283 rows).
+   - Status: **BALTIC EXCHANGE AUDIT COMPLETE (PASS)**.
+
 ## Next Unaudited Source in Ledger
 - Per Section 3 of `docs/handoff/AGENT_OPERATING_MANUAL.md` ("When your lane's list is finished, start the next unaudited source in the ledger that no other lane owns, and say so in the log"):
-- Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, Poten & Partners, and Breakwave Advisors audits are fully finished and documented.
-- The next unaudited source in the ledger that no other lane owns is **Seabrokers** (`corpus/05-seabrokers/`, `data/extracted/md/seabrokers/`).
+- Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, Poten & Partners, Breakwave Advisors, and Baltic Exchange audits are fully finished and documented.
+- The next unaudited source in the ledger that no other lane owns is **Signal Ocean** (`corpus/07-signal/`, `data/extracted/md/signal/`).
+
 
