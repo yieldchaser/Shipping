@@ -1,3 +1,4 @@
 {"unit": "init", "status": "done", "note": "lane l1-audit-brokers claimed by antigravity-gemini-1"}
 {"unit": "clarksons", "status": "done", "note": "180/180 clean, 5814 numbers audited, 0 absent. 12 stratified eye checks (648 cells, 0 defects). Verdict written."}
 {"unit": "carriers", "status": "done", "note": "135/135 clean, 19489 numbers audited, 0 absent. 13 stratified eye checks (2682 cells, 0 defects). Verdict written."}
+{"unit": "xclusiv", "status": "done", "note": "267/267 clean, 214835 numbers audited, 0 absent. 12 stratified eye checks (1026 cells, 0 defects). Verdict written."}
