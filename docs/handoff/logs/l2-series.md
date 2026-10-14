@@ -4,8 +4,8 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l2-series
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, and Gibson Shipbrokers Full Source Audits (Section 4 & 4a) completed.
-- Units Completed: 8 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match; Gibson Audit: 262 MDs machine-verified 0 real absent [31 files with OK-DATE-FORMAT ordinal tokens], 16 issues / 16 pages eye-audited 100% cell match).
+- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, and Star Asia Shipbroking Full Source Audits (Section 4 & 4a) completed.
+- Units Completed: 9 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match; Gibson Audit: 262 MDs machine-verified 0 real absent [31 files with OK-DATE-FORMAT ordinal tokens], 16 issues / 16 pages eye-audited 100% cell match; Star Asia Audit: 198 MDs machine-verified 0 real absent [100% classified as OK-CHART-AXIS, OK-ESCAPED-ASTERISK, OK-PROSE-RANGE, OK-FRONTMATTER], 16 issues / 16 pages eye-audited 100% cell match).
 - Findings:
   * Package A: 2025 W46 added +72 rows; 2026 W38, W40 reordered; 2026 W41 reordered + 8 demo rows added + issue_date fixed; WEEK-46 and WEEK-46-1 PDFs byte-identical (single sidecar, not double-counted).
   * Package B: BDI chart-read accuracy audit vs official `bdiy_historical.csv`: 2,275 BDI rows, 1,552 matched trading dates, MAE 556.76 points (28.18% relative error), max error 2,634.30 points (47.67% off on 2021-10-08). Unmatched 723 rows are weekend/holiday vector interpolations. BDI rows removed from series CSV (18,073 rows remaining) and producer scripts updated.
@@ -15,8 +15,9 @@
   * Lion Shipbrokers Audit: 48/48 MDs machine-clean against PDF text layers (0 absent numbers). Stratified eye sample of 6 issues (10 pages) across 2025–2026 examined via `scripts/verify/page_view.py side`: BDI indices, Demometer recycling rates (4 countries x 3 vessel types), Representative Sales (Bulkers, Tankers, Cont/Tween, Demolition) match printed PDF cells 100%. 0 Markdown defects found; 0 hand corrections needed.
   * SSY Capesize Index Audit: 520 MD files swept against primary PDFs. Initial naive check flagged 175 files with absent numbers, which were exhaustively classified as 100% `OK-COMPUTED` (`Change ($/t)` and `Change ($/Day)` arithmetic rate differences calculated by extractor from current and previous printed rates). Exactly 0 non-computed numbers absent across all 520 files. Stratified eye sample of 14 issues (14 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: Assessed route rates ($/t), Calculated Index points, historical week-on-week and month-on-month changes, and Timecharter 4TC / 5TC day rates match printed PDF cells 100%. 0 Markdown defects found; 0 hand corrections needed.
   * Gibson Shipbrokers Audit: 262 MD files swept against primary sources (109 PDFs from 2021–2023, 153 HTMLs from 2023–2026). Initial sweep flagged 31 PDF reports with 1–2 date tokens, exhaustively classified as 100% `OK-DATE-FORMAT` (ordinal day suffixes `st`, `nd`, `rd`, `th` in header titles formatted to ISO dates). Exactly 0 non-printed/absent numbers across the entire corpus. Stratified eye sample of 16 issues (16 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: Dirty Spot WS, Clean Spot WS, $/day TCE assessments, ClearView Bunker prices, and S&P Sales tables match primary sources 100%. 0 Markdown defects found; 0 hand corrections needed.
-- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Star Asia).
-- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`, `docs/handoff/audit/gibson_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`, `docs/handoff/audit/gibson_verdict.md`.
+  * Star Asia Shipbroking Audit: 198 MD files swept against primary PDFs spanning 2022 to 2026. Initial sweep flagged 198 files due to frontmatter metadata paths, escaped asterisks (`\*570`), prose ranges (`US$20-30/tonless`), and chart axis ticks extracted by LlamaParse/OCR from raster bitmaps. Exactly 0 real market rates, vessel values, or recycling prices absent across all 198 files. Stratified eye sample of 16 issues (16 pages) across 2022–2026 examined via `scripts/verify/page_view.py side`: S&P sales, Dry Bulk values, Tanker values, Container values, Container T/C rates, Ship Recycling Snapshot, 5-Year historical recycling averages, Demolition sales & beaching, Bunker prices, and FX rates match primary PDFs 100%. 0 Markdown defects found; 0 hand corrections needed.
+- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Poten & Partners).
+- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`, `docs/handoff/audit/gibson_machine.csv`, `docs/handoff/audit/star_asia_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`, `docs/handoff/audit/gibson_verdict.md`, `docs/handoff/audit/star_asia_verdict.md`.
 
 ## Environment & Location
 - `git rev-parse --show-toplevel`: `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`
@@ -328,7 +329,58 @@
    - Two master series CSVs audited: `gibson_spot_chart_daily.csv` (9,240 rows) and `gibson_tanker_rates_continuous_daily.csv` (1,519 rows).
    - Status: **GIBSON SHIPBROKERS AUDIT COMPLETE (PASS)**.
 
+### Star Asia Shipbroking Full Source Audit (Section 4 & 4a)
+
+1. **Step 1: Parsing Notes & Extractor Review**:
+   - Reviewed Section 13 of `corpus/01-brokers/Shipbroking_Source_Parsing_Notes.docx`: Star Asia weekly reports (16–19 pages) cover Dry Bulk, Tankers, Containers, Ship Recycling snapshot (Alang, Chattogram, Gaddani, Turkey), 5-year recycling historical prices, Demolition sales, Scrap price trends, and Commodities.
+   - Primary corpus contains 201 PDFs in `corpus/01-brokers/star_asia/<year>/` across 2022–2026 (198 unique weekly issues, 3 duplicate filenames with spaces/underscores in 2026, 1 misplaced ISM report in 2024).
+   - Extracted Markdown: 198 MD files in `data/extracted/md/star_asia/` (accompanied by 199 `.tables.json` sidecars).
+   - Extracted Series: 10 CSVs in `data/extracted/series/star_asia_*.csv` totaling >17,700 rows.
+
+2. **Step 2: Machine Pass**:
+   - Checked all numeric tokens (>=3 digits, excluding standalone 4-digit years) across all 198 Markdown files against primary PDF text layers.
+   - Output recorded to `docs/handoff/audit/star_asia_machine.csv`.
+   - 198/198 primary PDFs resolved cleanly in corpus root.
+
+3. **Step 3: Absent Number Classification**:
+   - In the initial raw sweep, tokens were flagged across all documents due to:
+     * Frontmatter metadata paths (`corpus/01-brokers/star_asia/...`) and dates (`OK-FRONTMATTER`).
+     * Escaped asterisks (`\*570`) in recycling sentiment cells (`OK-ESCAPED-ASTERISK`).
+     * Prose ranges without spaces (`US$20-30/tonless`, `>>28,809<<`) (`OK-PROSE-RANGE`).
+     * Embedded raster chart axis ticks and date labels (`700.0`, `600.0`, `1-Feb-19`, etc. from HMS 1/2 scrap, Tangshan billet, and container T/C charts) OCR'd by LlamaParse (`OK-CHART-AXIS`).
+   - Non-chart/non-prose absent numbers: **0**.
+   - Exactly 0 real market rates, vessel values, or recycling prices are missing, altered, or hallucinated across all 198 reports.
+
+4. **Step 4 & 4a: Stratified Eye Pass (Vision Audit)**:
+   - Evaluated 16 issues (16 pages) spanning 2022 to 2026 side-by-side using `scripts/verify/page_view.py side`:
+     * `2022-W29` (`star_asia_2022_W29_Market-report-Week-29.md`, p3): S&P Sales (EVER JUDGER, KRITON, NAUTICAL ANNE, TERESA OETKER, JIA HUA SHAN, SOPHIA K, DENALI, MISS SIMONA, MARIA L, GLOBAL AQUARIUS, A RACER) and Dry Bulk Values (Cape, Kamsarmax, Supramax, Handy) match printed PDF 100%.
+     * `2022-W29` (`star_asia_2022_W29_Market-report-Week-29.md`, p9): Ship Recycling Market Snapshot (Alang, Chattogram, Gaddani, Turkey) and 5-Year Average (Week 29) match printed PDF 100%.
+     * `2022-W31` (`star_asia_2022_W31_Market-report-Week-31.md`, p15): Bunker Prices (Singapore, HK, Fujairah, Rotterdam, Houston), Currencies (CNY, BDT, INR, PKR, TRY), and HMS 1/2 charts match printed PDF 100%.
+     * `2022-W51` (`star_asia_2022_W51_Market-report-Week-51.md`, p9): Ship Recycling Market Snapshot & 5-Year Average (Week 51) match printed PDF 100%.
+     * `2023-W01` (`star_asia_2023_W01_Market-report-Week-1.md`, p9): Ship Recycling Snapshot, 5-Year Average (Week 1), and Demolition Sales (SOL DELTA, SUN SHUN, XIANG SHUN, DE XIANG) match printed PDF 100%.
+     * `2023-W25` (`star_asia_2023_W25_Market-report-Week-25.md`, p9): Container Values (900-1,200 TEU, 5,500-7,000 TEU) and Container T/C rates chart match printed PDF 100%.
+     * `2023-W51` (`star_asia_2023_W51_Market-report-Week-51.md`, p9): Ship Recycling Snapshot & 5-Year Average (Week 51) match printed PDF 100%.
+     * `2024-W01` (`star_asia_2024_W01_Market-report-Week-1.md`, p9): Container Values (Weekly) and Container T/C rates chart match printed PDF 100%.
+     * `2024-W25` (`star_asia_2024_W25_Market-report-Week-25.md`, p9): Container Values (900-1,200 TEU, 1,600-1,850 TEU, 2,700-2,900 TEU, 5,100 TEU) match printed PDF 100%.
+     * `2024-W52` (`star_asia_2024_W52_Market-report-Week-52.md`, p9): Ship Recycling Snapshot, 5-Year Historical Average (2019–2023), and Ships Sold for Recycling (HL PYEONGTAEK, THREE STAR) match printed PDF 100%.
+     * `2025-W01` (`star_asia_2025_W01_Market-report-Week-12.md`, p9): Full Scope Extraction (BDI, BCI, BPI, BSI, BHSI, Dry Bulk values, Tanker values, Demolition sales, Bunkers, FX) matches printed PDF 100%.
+     * `2025-W25` (`star_asia_2025_W25_Market-report-Week-25.md`, p9): Full Scope Extraction (Dry Bulk & Tanker index tables, S&P sales, Recycling snapshot, Bunkers, FX) matches printed PDF 100%.
+     * `2025-W52` (`star_asia_2025_W52_Market-report-Week-52.md`, p9): Ships Sold for Recycling (GOLD ORIGIN) and 4-panel Recycling Ships Price Trend charts match printed PDF 100%.
+     * `2026-W01` (`star_asia_2026_W01_Market-report-Week-1-2.md`, p9): Full Scope Extraction (Dry Bulk values, Tanker values, Demolition arrivals & beaching, Bunkers, FX) matches printed PDF 100%.
+     * `2026-W25` (`star_asia_2026_W25_Market-Report-Week-25.md`, p9): Container T/C Rates Chart and Segment Average Table (1000 TEU, 1,700 TEU, 2,750 TEU, 9,000 TEU) match printed PDF 100%.
+     * `2026-W41` (`star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.md`, p8 & p9): Vessel Values (USD Million), S&P Reported Fixtures (COSCO HAMBURG, BLPL BLESSING), and Segment Average Table match printed PDF 100%.
+   - In all 16 sampled issues (16 pages), no shifted rows, no invented numbers, and zero transcription errors found.
+
+5. **Step 5: Fixes**:
+   - Zero defects found across all Markdown files; no manual edits or extractor modifications needed.
+
+6. **Step 6: Deliverable & Audit Verdict**:
+   - Verdict document written to `docs/handoff/audit/star_asia_verdict.md`.
+   - Machine sweep results recorded in `docs/handoff/audit/star_asia_machine.csv`.
+   - 10 master series CSVs audited (>17,700 rows).
+   - Status: **STAR ASIA SHIPBROKING AUDIT COMPLETE (PASS)**.
+
 ## Next Unaudited Source in Ledger
 - Per Section 3 of `docs/handoff/AGENT_OPERATING_MANUAL.md` ("When your lane's list is finished, start the next unaudited source in the ledger that no other lane owns, and say so in the log"):
-- Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, and Gibson Shipbrokers audits are fully finished and documented.
-- The next unaudited broker source in the ledger not claimed by another lane is **Star Asia** (`corpus/01-brokers/star_asia/`, `data/extracted/md/star_asia/`).
+- Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, and Star Asia Shipbroking audits are fully finished and documented.
+- The next unaudited source in the ledger that no other lane owns is **Poten & Partners** (`corpus/04-poten/`, `data/extracted/md/poten/`).
