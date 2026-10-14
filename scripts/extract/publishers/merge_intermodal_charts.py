@@ -54,6 +54,11 @@ CSV_COLS = ["series", "date", "n_reports", "value", "min", "max", "value_sd"]
 # the right tolerance: tighter merges distinct weeks, looser blurs them.
 SAME_WEEK_DAYS = 3
 
+# Owner rule: Baltic data that already exists in the repo (data/indices/bdiy_historical.csv)
+# must not be duplicated from chart readings. BDI is filtered so only non-duplicated series
+# (BCI, BPI, BSI, BHSI, and average T/C rates) are kept in the series CSV.
+EXCLUDED_SERIES = {"BDI"}
+
 
 def parse(s):
     try:
@@ -87,7 +92,7 @@ def readings_from_files(files):
         for c in d.get("charts", []):
             for s in c.get("series", []):
                 nm = s.get("name")
-                if not nm:
+                if not nm or nm in EXCLUDED_SERIES:
                     continue
                 for p in s.get("points", []):
                     v = p.get("value")
@@ -111,6 +116,7 @@ def merge_new_only(charts_dir=None, out_dir=None):
         print("new-only: no chart extractions to merge")
         return 0
     _, existing = inc.read_rows(OUT / CSV_NAME)
+    existing = [r for r in existing if r.get("series") not in EXCLUDED_SERIES]
     produced = rows_from_readings(readings_from_files(files))
     merged, added, kept = inc.upsert_new_keys(
         existing, produced, row_key, CSV_COLS,
@@ -141,7 +147,7 @@ def main(argv=()):
         for c in d.get("charts", []):
             for s in c.get("series", []):
                 nm = s.get("name")
-                if not nm:
+                if not nm or nm in EXCLUDED_SERIES:
                     continue
                 # NO ROUTE IN THE KEY. There is not one to use. The route word appears
                 # only in the report's PROSE - "in the Pacific market", "the North Atlantic"

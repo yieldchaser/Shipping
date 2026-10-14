@@ -217,7 +217,7 @@ SIGNATURE_CATALOG = [
     ChartSignature(
         broker="intermodal",
         slug="baltic_tc_curves",
-        title="Baltic Dry Index & Time Charter Rates",
+        title="Baltic Time Charter Rates (BDI excluded per owner rule)",
         keywords=["baltic dry index & tc rates", "1 yr tc", "capesize 180k"],
         target_csv=SERIES_DIR / "intermodal_baltic_tc_series.csv",
         key_fields=["issue_date", "vessel_class"],

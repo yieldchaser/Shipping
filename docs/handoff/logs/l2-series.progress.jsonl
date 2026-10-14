@@ -1,2 +1,3 @@
 {"unit": "init", "status": "done", "note": "lane l2-series claimed by antigravity-gemini-1"}
 {"unit": "package-a", "status": "done", "note": "stacked 252 sidecars; verified 4 issues (2025 W46, 2026 W38, W40, W41); 15 random rows verified; 356 evidence lines logged"}
+{"unit": "package-b", "status": "done", "note": "audited BDI accuracy (1552 matched, MAE 556.76, max err 2634.30); removed 2275 BDI rows; updated merge_intermodal_charts.py and orchestrate_incremental_ingest.py"}
