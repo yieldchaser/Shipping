@@ -4,15 +4,16 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l2-series
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G)
-- Units Completed: 4 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan)
+- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers Full Source Audit (Section 4) completed.
+- Units Completed: 5 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match).
 - Findings:
   * Package A: 2025 W46 added +72 rows; 2026 W38, W40 reordered; 2026 W41 reordered + 8 demo rows added + issue_date fixed; WEEK-46 and WEEK-46-1 PDFs byte-identical (single sidecar, not double-counted).
   * Package B: BDI chart-read accuracy audit vs official `bdiy_historical.csv`: 2,275 BDI rows, 1,552 matched trading dates, MAE 556.76 points (28.18% relative error), max error 2,634.30 points (47.67% off on 2021-10-08). Unmatched 723 rows are weekend/holiday vector interpolations. BDI rows removed from series CSV (18,073 rows remaining) and producer scripts updated.
   * Package C: Identified and traced 5 odd text fragment labels in ISM series back to source PDFs and sidecars (`% of freight costs in CFR price`, `2024 year`, `Supramax, ECSA - Cont`, and two `week ` axis tick prefixes). Fixed producer `run_ism_series.py` including secondary percent axis rescaling. Re-running stacking reveals 11 interior date value refinements where earlier issues are picked. Open question logged per instructions.
   * Package G: Implemented `scripts/verify/md_quality_gate.py` enforcing rules R1-R5 with pass/fail unit tests in `tests/test_md_quality_gate.py` (6 passed in 2.36s). Executed full scan across all 56,501 markdown files on main (R1: 21, R2: 19,163, R3: 23,090, R4: 311, R5: 5,333).
-- Next Task in Order: Lane 2 complete. Next unaudited source in ledger.
-- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS.
+  * Affinity Shipbrokers Audit: 249/249 MDs machine-clean against PDF text layers (0 absent numbers). Stratified eye sample of 13 issues (26 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: BDTI/BCTI, BDA, Baltic TCE Dirty (7–9 routes), and Baltic TCE Clean (7–10 routes) match printed PDF cells 100%. 0 Markdown defects found. Note logged on series CSV missing 2026-10-09 indices.
+- Next Task in Order: Next unaudited source in ledger that no other lane owns.
+- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass output: `docs/handoff/audit/affinity_machine.csv`. Verdict: `docs/handoff/audit/affinity_verdict.md`.
 
 ## Environment & Location
 - `git rev-parse --show-toplevel`: `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`
@@ -148,11 +149,50 @@
 - Package C ISM Series Value Refinements & Evidence Gate:
   When the 5 text-fragment series names are repaired in `run_ism_series.py`, they merge into the canonical series keys. Because ISM publishes rolling 52-week charts every week, multiple issues cover the same historical dates. `pick_observation()` prioritizes the interior observations, resulting in 11 dates having slight refinements (<0.2% difference, e.g. 5330.4 vs 5317.9 on 2026-06-29 for CVB 10k DWCC). If the series CSVs are updated with these re-merged rows, `check_evidence.py` flags the modified lines as added numbers requiring printed-text evidence, which is impossible for interpolated vector polylines. Owner/Claude to decide whether to update the CSVs with an explicit evidence exemption or keep the existing CSV points while utilizing the fixed producer.
 
-## Next Unaudited Source Declaration
-- All Lane 2 packages assigned in `docs/handoff/WORK_PACKAGES_2026-10-14.md` (Package A, Package B, Package C, Package G) are 100% complete, verified, and pushed to `origin lane/l2-series`.
-- Per `docs/handoff/AGENT_OPERATING_MANUAL.md` Section 3 ("When your lane's list is finished, start the next unaudited source in the ledger that no other lane owns, and say so in the log"):
-  * Evaluated Master Publisher Cadence Matrix and `docs/handoff/lanes.json`.
-  * Sources owned by other lanes: Clarksons, Fearnleys-md, Carriers, Xclusiv, Agora (`l1-audit-brokers`); Seabrokers, Intermodal, Banchero Costa, Fearnleys, Gibson (`l3-render`).
-  * Unaudited broker sources not owned by any lane: **Affinity Shipbrokers**, **Lion Shipbrokers**, **SSY**, **Star Asia**.
-  * The next source in ledger order is **Affinity Shipbrokers** (`affinity_tce_series.csv`, 258 PDFs under `corpus/01-brokers/affinity/`).
+- Affinity Indices Series 2026-10-09 Row Gap:
+  `data/extracted/series/affinity_indices_series.csv` ends at `2026-10-02` (496 rows), whereas `affinity_tce_series.csv` (4,058 rows) and `affinity_bda_series.csv` (747 rows) both include `2026-10-09`. The sidecar `data/extracted/md/affinity/2026/affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.tables.json` has both BDTI (7964.0) and BCTI (2403.0) parsed. Because `affinity_indices_series.csv` is outside `l2-series` owns in `lanes.json`, modifying it in this lane violates governance rule E7. Recorded for the owning lane or Saturday review to append the 2 rows.
+
+## Source Audit: Affinity Shipbrokers (Section 4 & 4a)
+
+1. **Step 1: Parsing Notes & Extractor Analysis**:
+   - Reviewed `corpus/01-brokers/Shipbroking_Source_Parsing_Notes.docx` Section 2 (Affinity Shipbrokers): Page 1 is a goldmine of tanker data; page 2 is legal disclaimer only and completely ignored; extract crude and product commentary, rates, quantities, $/day, wow, firmer/softer, Baltic TC Clean & Dirty.
+   - Reviewed pipeline: `run_affinity.py` (page 0 card panel rect `[596.8, 94.6, 832.0, 561.4]`, two-column commentary), `polish_affinity_markdown.py`, and `run_affinity_tables.py`.
+
+2. **Step 2: Machine Pass across Corpus**:
+   - Tested all 249 Markdown documents in `data/extracted/md/affinity/` against their primary source PDF text layers using `pymupdf` word tokens and canonical numeric forms (including European decimal and comma separators).
+   - Result: **249 / 249 clean (0 absent numbers)**; 0 flagged documents; 0 missing PDFs. Output recorded in `docs/handoff/audit/affinity_machine.csv`.
+
+3. **Step 3: Absent Number Classification**:
+   - 0 documents flagged with absent numbers. Step 3 classification skipped (no absent numbers exist).
+
+4. **Step 4 & 4a: Stratified Eye Pass (Vision Audit)**:
+   - Evaluated 13 issues across 2021–2026 (first and last of each year + 2022-11-25 layout transition issue) using `scripts/verify/page_view.py side` rendering page 0 data card panel alongside extracted MD tables:
+     * `2021-07-02` (`affinity_2021_Affinity-Tanker-Weekly-02.07.2021-HSN.md`): BDTI 592, BCTI 445; BDA 3 segments; Baltic TCE Dirty 8 routes; Baltic TCE Clean 7 routes. All cells, routes, descriptions, quantities, rates, and trends match 100%.
+     * `2021-12-24` (`affinity_2021_Affinity-Tanker-Weekly-24.12.2021-HSN.md`): BDTI 788, BCTI 793; BDA 3 segments; Baltic TCE Dirty 8 routes; Baltic TCE Clean 7 routes. All cells match 100%.
+     * `2022-01-07` (`affinity_2022_Affinity-Tanker-Weekly-07.01.2022-HSN.md`): BDTI 711, BCTI 642; BDA 3 segments; Baltic TCE Dirty 8 routes; Baltic TCE Clean 7 routes. All cells match 100%.
+     * `2022-11-25` (`affinity_2022_Affinity-Tanker-Weekly-25.11.2022-HSN.md`): Publisher transitioned CLEAN card header from `$ / WS` to `$ / Day`. Route TC23 introduced replacing TC9. BDTI 2494, BCTI 1770; BDA 3 segments; Baltic TCE Dirty 8 routes; Baltic TCE Clean 7 routes. All cells match 100%.
+     * `2022-12-23` (`affinity_2022_Affinity-Tanker-Weekly-23.12.2022-HSN.md`): BDTI 1887, BCTI 2143; BDA 3 segments; Baltic TCE Dirty 7 routes (TD17 absent on printed page, correctly omitted in MD); Baltic TCE Clean 7 routes. All cells match 100%.
+     * `2023-01-06` (`affinity_2023_Affinity-Tanker-Weekly-06.01.2023-HSN.md`): BDTI 1391, BCTI 1068; BDA 3 segments; Baltic TCE Dirty 7 routes (W-O-W column omitted by publisher, MD has `-`); Baltic TCE Clean 7 routes. All cells match 100%.
+     * `2023-12-22` (`affinity_2023_Affinity-Tanker-Weekly-22.12.2023-HSN.md`): BDTI 1200, BCTI 960; BDA 3 segments; Baltic TCE Dirty 7 routes; Baltic TCE Clean 7 routes. All cells match 100%.
+     * `2024-01-05` (`affinity_2024_Affinity-Tanker-Weekly-05.01.2024-HSN.md`): BDTI 1384, BCTI 799; BDA 3 segments; Baltic TCE Dirty 8 routes (TD22 and TD25 introduced); Baltic TCE Clean 7 routes. All cells match 100%.
+     * `2024-12-20` (`affinity_2024_Affinity-Tanker-Weekly-20.12.2024-HSN.md`): BDTI 914, BCTI 627; BDA 3 segments; Baltic TCE Dirty 8 routes; Baltic TCE Clean 10 routes (expansion to 10 routes). All cells match 100%.
+     * `2025-01-03` (`affinity_2025_Affinity-Tanker-Weekly-03.01.2025-HSN.md`): BDTI 841, BCTI 591; BDA 3 segments; Baltic TCE Dirty 9 routes; Baltic TCE Clean 10 routes. All cells match 100%.
+     * `2025-12-19` (`affinity_2025_Affinity-Tanker-Weekly-19.12.2025-HSN.md`): BDTI 1401, BCTI 751; BDA 3 segments; Baltic TCE Dirty 9 routes; Baltic TCE Clean 10 routes. All cells match 100%.
+     * `2026-01-09` (`affinity_2026_Affinity-Tanker-Weekly-09.01.2026-HSN.md`): BDTI 1259, BCTI 713; BDA 3 segments; Baltic TCE Dirty 9 routes; Baltic TCE Clean 10 routes. All cells match 100%.
+     * `2026-10-09` (`affinity_2026_Affinity-Tanker-Weekly-09.10.2026-HSN.md`): BDTI 7964, BCTI 2403; BDA 3 segments; Baltic TCE Dirty 9 routes; Baltic TCE Clean 10 routes. All cells match 100%.
+   - In all 13 sampled issues, no shifted rows, no invented numbers, and no transcription errors were found.
+
+5. **Step 5: Fixes**:
+   - Zero defects found across all Markdown files; no manual edits or extractor modifications needed.
+
+6. **Step 6: Deliverable & Audit Verdict**:
+   - Verdict document written to `docs/handoff/audit/affinity_verdict.md`.
+   - Machine sweep results recorded in `docs/handoff/audit/affinity_machine.csv`.
+   - Status: **AFFINITY SHIPBROKERS AUDIT COMPLETE (PASS)**.
+
+## Next Unaudited Source in Ledger
+- Per Section 3 of `docs/handoff/AGENT_OPERATING_MANUAL.md` ("When your lane's list is finished, start the next unaudited source in the ledger that no other lane owns, and say so in the log"):
+- Affinity Shipbrokers audit is fully finished and documented.
+- The next unaudited broker source in the ledger not claimed by another lane is **Lion Shipbrokers** (`corpus/01-brokers/lion/`, 525 PDFs).
+
 
