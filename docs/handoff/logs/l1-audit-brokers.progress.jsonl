@@ -3,3 +3,4 @@
 {"unit": "carriers", "status": "done", "note": "135/135 clean, 19489 numbers audited, 0 absent. 13 stratified eye checks (2682 cells, 0 defects). Verdict written."}
 {"unit": "xclusiv", "status": "done", "note": "267/267 clean, 214835 numbers audited, 0 absent. 12 stratified eye checks (1026 cells, 0 defects). Verdict written."}
 {"unit": "agora", "status": "done", "note": "216/216 clean, 60740 numbers audited, 0 absent. 12 stratified eye checks (1092 cells, 0 defects). Verdict written."}
+{"unit": "fearnleys-md", "status": "done", "note": "184/184 clean of defects, 3678 numbers audited, 0 unresolved absent (175 clean, 7 OK-IMAGE, 2 draft). 12 stratified eye checks (1056 cells, 0 defects). Verdict written."}

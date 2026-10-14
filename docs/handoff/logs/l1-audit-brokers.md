@@ -4,14 +4,15 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l1-audit-brokers
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: Clarksons, Carriers, Xclusiv, and Agora completed (100% PASS); starting Fearnleys-md audit
-- Units Completed: 4 (Clarksons, Carriers, Xclusiv, Agora)
+- Current Status: ALL Lane 1 broker sources completed (100% PASS across Clarksons, Carriers, Xclusiv, Agora, Fearnleys-md)
+- Units Completed: 5 (Clarksons, Carriers, Xclusiv, Agora, Fearnleys-md)
 - Findings:
   - Clarksons: 180/180 clean; 0 absent numbers (5,814 numbers audited); 12 stratified eye checks (648 cells) 0 defects.
   - Carriers: 135/135 clean; 0 absent numbers (19,489 numbers audited); 13 stratified eye checks (2,682 cells) 0 defects.
   - Xclusiv: 267/267 clean; 0 absent numbers (214,835 numbers audited); 12 stratified eye checks (1,026 cells) 0 defects.
   - Agora: 216/216 clean; 0 absent numbers (60,740 numbers audited); 12 stratified eye checks (1,092 cells) 0 defects.
-- Next Task in Order: Fearnleys-md full-sample audit
+  - Fearnleys-md: 184/184 clean; 0 absent numbers (3,678 numbers audited; 175 text-layer clean, 7 OK-IMAGE clean, 2 draft); 12 stratified eye checks (1,056 cells) 0 defects.
+- Next Task in Order: Next unaudited source in ledger that no other lane owns
 - Evidence & Verification: check_evidence.py & validate_knowledge.py clean
 
 ## Environment & Location
@@ -101,6 +102,28 @@
     12. 2026 last (`agora_2026_W41_...md`): 19 rows, 91 cells. 0 defects.
     - Total eye-checked: 1,092 cells, 0 defects.
   - Author final verdict: `docs/handoff/audit/agora_verdict.md`.
+- **Fearnleys-md Full-Sample Audit**:
+  - Machine sweep: 184 MD files swept against primary PDFs (`corpus/01-brokers/fearnleys-md/pdfs/<year>/`) and Hasura catalog blocks.
+  - 3,678 numbers extracted and audited: 0 unresolved absent numbers (100.0% clean).
+    - 175 files match the PDF vector text layer directly.
+    - 7 files (Capesize composite model tables in 2026 Dry Bulk Weekly) were published as raster PNG images; verified 100% against bitmap pixels (`OK-IMAGE`, transcribed in `scripts/md_cleanup/fearnleys_md_image_tables.md`).
+    - 2 draft files from 2024-03-25 have no PDF and contain no numerical data.
+  - Generated full machine audit log: `docs/handoff/audit/fearnleys-md_machine.csv` (184/184 clean of defects).
+  - Stratified visual eye pass (manual 4a): 12 issues rendered side-by-side with `scripts/verify/page_view.py side`:
+    1. 2024 first (`2024-05-08_...md`): Page 1 cover + Page 2 Capesize commentary and 5 charts. 0 defects.
+    2. 2024 last (`2024-12-30_...md`): Page 1 cover + Page 2 Market Reflections. 0 defects.
+    3. 2025 first (`2025-01-08_...md`): Page 1 cover + Page 2 Capesize commentary. 0 defects.
+    4. 2025 tables 1 (`2025-05-21_...md`): Page 2 LNG Recent Sales table (8 rows, 48 cells). 0 defects.
+    5. 2025 tables 2 (`2025-06-02_...md`): Page 7 Trade Flows matrix tables (48 rows, 208 cells). 0 defects.
+    6. 2025 last (`2025-12-17_...md`): Page 1 cover + Page 2 Capesize commentary. 0 defects.
+    7. 2026 first (`2026-01-01_...md`): Page 1 cover + executive commentary. 0 defects.
+    8. 2026 tables 1 (`2026-01-30_...md`): Page 7 Trade Flows YoY matrix tables (48 rows, 208 cells). 0 defects.
+    9. 2026 image tables 1 (`2026-08-26_...md`): Page 2 Cape composite image tables (20 rows, 160 cells). 0 defects.
+    10. 2026 image tables 2 (`2026-09-02_...md`): Page 2 Cape composite image tables (14 rows, 112 cells). 0 defects.
+    11. 2026 tables 2 (`2026-09-30_...md`): Page 7 Trade Flows monthly matrix tables (48 rows, 208 cells). 0 defects.
+    12. 2026 last (`2026-10-07_...md`): Page 2 Cape composite image tables (14 rows, 112 cells). 0 defects.
+    - Total eye-checked: 1,056 cells, 0 defects.
+  - Author final verdict: `docs/handoff/audit/fearnleys-md_verdict.md`.
 
 ## Decisions & Rules Followed
 - Work strictly inside `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`.
