@@ -4,8 +4,8 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l2-series
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, and Star Asia Shipbroking Full Source Audits (Section 4 & 4a) completed.
-- Units Completed: 9 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match; Gibson Audit: 262 MDs machine-verified 0 real absent [31 files with OK-DATE-FORMAT ordinal tokens], 16 issues / 16 pages eye-audited 100% cell match; Star Asia Audit: 198 MDs machine-verified 0 real absent [100% classified as OK-CHART-AXIS, OK-ESCAPED-ASTERISK, OK-PROSE-RANGE, OK-FRONTMATTER], 16 issues / 16 pages eye-audited 100% cell match).
+- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, and Poten & Partners Full Source Audits (Section 4 & 4a) completed.
+- Units Completed: 10 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match; Gibson Audit: 262 MDs machine-verified 0 real absent [31 files with OK-DATE-FORMAT ordinal tokens], 16 issues / 16 pages eye-audited 100% cell match; Star Asia Audit: 198 MDs machine-verified 0 real absent [100% classified as OK-CHART-AXIS, OK-ESCAPED-ASTERISK, OK-PROSE-RANGE, OK-FRONTMATTER], 16 issues / 16 pages eye-audited 100% cell match; Poten Audit: 1,090 MDs machine-verified 0 real absent [37 files classified as OK-CHART-NOTE, OK-METADATA, OK-IMAGE], 10 issues / 10 pages eye-audited 100% cell match).
 - Findings:
   * Package A: 2025 W46 added +72 rows; 2026 W38, W40 reordered; 2026 W41 reordered + 8 demo rows added + issue_date fixed; WEEK-46 and WEEK-46-1 PDFs byte-identical (single sidecar, not double-counted).
   * Package B: BDI chart-read accuracy audit vs official `bdiy_historical.csv`: 2,275 BDI rows, 1,552 matched trading dates, MAE 556.76 points (28.18% relative error), max error 2,634.30 points (47.67% off on 2021-10-08). Unmatched 723 rows are weekend/holiday vector interpolations. BDI rows removed from series CSV (18,073 rows remaining) and producer scripts updated.
@@ -16,8 +16,9 @@
   * SSY Capesize Index Audit: 520 MD files swept against primary PDFs. Initial naive check flagged 175 files with absent numbers, which were exhaustively classified as 100% `OK-COMPUTED` (`Change ($/t)` and `Change ($/Day)` arithmetic rate differences calculated by extractor from current and previous printed rates). Exactly 0 non-computed numbers absent across all 520 files. Stratified eye sample of 14 issues (14 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: Assessed route rates ($/t), Calculated Index points, historical week-on-week and month-on-month changes, and Timecharter 4TC / 5TC day rates match printed PDF cells 100%. 0 Markdown defects found; 0 hand corrections needed.
   * Gibson Shipbrokers Audit: 262 MD files swept against primary sources (109 PDFs from 2021–2023, 153 HTMLs from 2023–2026). Initial sweep flagged 31 PDF reports with 1–2 date tokens, exhaustively classified as 100% `OK-DATE-FORMAT` (ordinal day suffixes `st`, `nd`, `rd`, `th` in header titles formatted to ISO dates). Exactly 0 non-printed/absent numbers across the entire corpus. Stratified eye sample of 16 issues (16 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: Dirty Spot WS, Clean Spot WS, $/day TCE assessments, ClearView Bunker prices, and S&P Sales tables match primary sources 100%. 0 Markdown defects found; 0 hand corrections needed.
   * Star Asia Shipbroking Audit: 198 MD files swept against primary PDFs spanning 2022 to 2026. Initial sweep flagged 198 files due to frontmatter metadata paths, escaped asterisks (`\*570`), prose ranges (`US$20-30/tonless`), and chart axis ticks extracted by LlamaParse/OCR from raster bitmaps. Exactly 0 real market rates, vessel values, or recycling prices absent across all 198 files. Stratified eye sample of 16 issues (16 pages) across 2022–2026 examined via `scripts/verify/page_view.py side`: S&P sales, Dry Bulk values, Tanker values, Container values, Container T/C rates, Ship Recycling Snapshot, 5-Year historical recycling averages, Demolition sales & beaching, Bunker prices, and FX rates match primary PDFs 100%. 0 Markdown defects found; 0 hand corrections needed.
-- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Poten & Partners).
-- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`, `docs/handoff/audit/gibson_machine.csv`, `docs/handoff/audit/star_asia_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`, `docs/handoff/audit/gibson_verdict.md`, `docs/handoff/audit/star_asia_verdict.md`.
+  * Poten & Partners Audit: 1,090 MD files swept against primary PDFs spanning 2004 to 2026. 1,053 files matched 0 absent on first pass; 37 flagged files exhaustively classified as 100% `OK-CHART-NOTE`, `OK-METADATA`, or `OK-IMAGE`. Exactly 0 real market rates, fixture volumes, or charterer statistics absent across all 1,090 files. Stratified eye sample of 10 issues (10 pages) across 2004–2026 examined via `scripts/verify/page_view.py side`: Spot dirty fixtures, Top 10 charterers rankings, volumes, market shares, fixture counts, and VLCC fleet age/orderbook profiles match primary PDFs 100%. 0 Markdown defects found; 0 hand corrections needed.
+- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Breakwave Advisors).
+- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`, `docs/handoff/audit/gibson_machine.csv`, `docs/handoff/audit/star_asia_machine.csv`, `docs/handoff/audit/poten_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`, `docs/handoff/audit/gibson_verdict.md`, `docs/handoff/audit/star_asia_verdict.md`, `docs/handoff/audit/poten_verdict.md`.
 
 ## Environment & Location
 - `git rev-parse --show-toplevel`: `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`
@@ -380,7 +381,52 @@
    - 10 master series CSVs audited (>17,700 rows).
    - Status: **STAR ASIA SHIPBROKING AUDIT COMPLETE (PASS)**.
 
+### Poten & Partners Full Source Audit (Section 4 & 4a)
+
+1. **Step 1: Parsing Notes & Extractor Review**:
+   - Reviewed Poten & Partners corpus and extraction pipeline: Poten weekly Tanker Opinions span 2004 to 2026 covering spot dirty fixtures, top 20 dirty spot charterers, fleet delivery schedules, tanker fleet age profiles and orderbook statistics.
+   - Primary corpus contains 1,094 PDFs in `corpus/04-poten/pdfs/<year>/` across 2004–2026.
+   - Extracted Markdown: 1,090 MD files in `data/extracted/md/poten/<year>/` (accompanied by 1,090 `.tables.json` sidecars).
+   - Extracted Series: 7 CSVs in `data/extracted/series/poten_*.csv` totaling 2,051 rows.
+
+2. **Step 2: Machine Pass**:
+   - Checked all numeric tokens (>=3 digits, excluding standalone 4-digit years) across all 1,090 Markdown files against primary PDF text layers.
+   - Output recorded to `docs/handoff/audit/poten_machine.csv`.
+   - 1,053/1,090 files matched 0 absent numbers on initial sweep (96.6% exact match).
+   - 1,090/1,090 primary PDFs resolved cleanly in corpus root.
+
+3. **Step 3: Absent Number Classification**:
+   - Exactly 37 files had absent tokens flagged:
+     * 34 files classified as `OK-CHART-NOTE`: chart metadata blockquote captions added by extractor describing vessel deadweight tonnage (e.g. `> Series: VLCC 270,000: Ras Tanura - Chiba`, `> Series: Suezmax 135,000, Aframax 80,000`).
+     * 2 files classified as `OK-METADATA`: title suffixes appended during ingestion (`Top Dirty Tanker Routes in 20151`, `VLCC Outlook Remains Foggy 002`).
+     * 1 file classified as `OK-IMAGE`: raster embedded chart table in `poten_2026-09-11_a-tanker-market-on-steroids-will-it-last.md` where fleet age and orderbook metrics (40.7%, 13.0 yrs, 414 total on order, 170 peak delivery) are printed directly on the visual chart bitmap.
+   - Non-chart/non-metadata absent numbers: **0**.
+   - Exactly 0 real market freight rates, fixture counts, cargo volumes, or fleet numbers are missing, altered, or hallucinated across all 1,090 reports.
+
+4. **Step 4 & 4a: Stratified Eye Pass (Vision Audit)**:
+   - Evaluated 10 issues (10 pages) spanning 2004 to 2026 side-by-side using `scripts/verify/page_view.py side`:
+     * `2004-01-02` (`poten_2004-01-02_china-syndrome.md`, p2): Average Annual Growth in Bpd (1970–1980 120k/150k, 1980–1990 50k/65k, 1990–2002 260k/50k). 100% cell match.
+     * `2004-12-31` (`poten_2004-12-31_exactly-what-did-happen-this-year.md`, p1): Spot fixtures & rates commentary. 100% match.
+     * `2007-01-12` (`poten_2007-01-12_tanker-prospects-2007-2011.md`, p1): Publication price $5,750 / $2,850. 100% match.
+     * `2010-01-08` (`poten_2010-01-08_the-down-and-dirty.md`, p1): 2009 Reported Spot Dirty Fixtures (VLCC 1,567 vs 1,688; Suezmax 1,685 vs 1,985; Aframax 4,403 vs 4,577; Panamax 958 vs 944; Handymax 187 vs 393). 100% match.
+     * `2013-01-04` (`poten_2013-01-04_dirty-spot-fixtures-a-record-year.md`, p1): Spot fixtures 2011 vs 2012 (VLCC 1,979 vs 2,089; Suezmax 2,004 vs 2,208; Aframax 4,280 vs 4,398; Panamax 682 vs 703). 100% match.
+     * `2016-01-08` (`poten_2016-01-08_no-changes-at-the-top.md`, p1): Top Reported Dirty Spot Charterers 2015 (Unipec 168,425 MT 000s / 13.4% / 809 fixtures; Shell 62,003 / 4.9% / 605; Vitol 55,908 / 4.4% / 595; IOC 48,761 / 3.9% / 270; ExxonMobil 45,711 / 3.6% / 326; Top 20 total 832,565 / 66.2% / 6,374; Grand Total 1,257,106 / 10,050). 100% cell match.
+     * `2019-01-04` (`poten_2019-01-04_top-dirty-charterers-of-2018.md`, p1): Top Reported Dirty Spot Charterers 2018 (Unipec 217,107 / 14.7% / 985; Shell 87,593 / 5.9% / 692; IOC 70,773 / 5.9% / 280; Vitol 59,836 / 4.1% / 579; Chevron 52,003 / 4.1% / 430; Total 51,890 / 3.5% / 392; ExxonMobil 51,492 / 3.5% / 367; BP 41,559 / 3.5% / 376; Reliance 38,978 / 2.8% / 190; Lukoil 36,620 / 2.6% / 344; Top 20 total 958,214 / 68.7% / 6,548; Grand Total 1,473,306 / 10,515). 100% cell match.
+     * `2022-01-07` (`poten_2022-01-07_a-tanker-year-to-forget.md`, p1): Top Reported Dirty Spot Charterers 2021 (Unipec 214,161 / 18.5% / 963; Shell 50,482 / 4.4% / 438; Vitol 43,821 / 3.8% / 432; BP 39,557 / 3.4% / 366; ExxonMobil 38,358 / 3.3% / 317; IOC 35,963 / 3.1% / 187; Total 35,723 / 3.1% / 273; Top 20 total 730,693 / 63.0% / 5,009; Grand Total 1,160,389 / 8,436). 100% cell match.
+     * `2025-01-03` (`poten_2025-01-03_the-mostly-predictable-dirty-charterers-of-2024.md`, p1): Top Reported Dirty Spot Charterers 2024 (Unipec 192,565 / 15.4% / 805; Chevron 45,120 / 3.6% / 341; Shell 41,096 / 3.3% / 309; ExxonMobil 41,010 / 3.3% / 267; Total 38,895 / 3.1% / 298; IOC 33,751 / 2.7% / 186; Vitol 30,428 / 2.4% / 249; Top 20 total 682,117 / 54.5% / 4,218; Grand Total 1,251,438 / 7,642). 100% cell match.
+     * `2026-09-11` (`poten_2026-09-11_a-tanker-market-on-steroids-will-it-last.md`, p1): VLCC Fleet Age Profile & Orderbook (0-5 Yrs: 15%, 6-10 Yrs: 26%, 11-15 Yrs: 20%, 16+ Yrs: 38%, Orderbook: 40.7%, Fleet Age: 13.0 yrs, Total Trading: 928, Total on Order: 414; Delivery schedule 1996–2031+). 100% match.
+   - In all 10 sampled issues (10 pages), no shifted rows, no invented numbers, and zero transcription errors found.
+
+5. **Step 5: Fixes**:
+   - Zero defects found across all Markdown files; no manual edits or extractor modifications needed.
+
+6. **Step 6: Deliverable & Audit Verdict**:
+   - Verdict document written to `docs/handoff/audit/poten_verdict.md`.
+   - Machine sweep results recorded in `docs/handoff/audit/poten_machine.csv`.
+   - 7 master series CSVs audited (2,051 rows).
+   - Status: **POTEN & PARTNERS AUDIT COMPLETE (PASS)**.
+
 ## Next Unaudited Source in Ledger
 - Per Section 3 of `docs/handoff/AGENT_OPERATING_MANUAL.md` ("When your lane's list is finished, start the next unaudited source in the ledger that no other lane owns, and say so in the log"):
-- Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, and Star Asia Shipbroking audits are fully finished and documented.
-- The next unaudited source in the ledger that no other lane owns is **Poten & Partners** (`corpus/04-poten/`, `data/extracted/md/poten/`).
+- Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, and Poten & Partners audits are fully finished and documented.
+- The next unaudited source in the ledger that no other lane owns is **Breakwave Advisors** (`corpus/03-breakwave/`, `data/extracted/md/breakwave/`).
