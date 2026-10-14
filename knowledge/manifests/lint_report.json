@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T21:47:07Z",
-  "current_date": "2026-10-13",
+  "generated_at": "2026-10-14T14:27:20Z",
+  "current_date": "2026-10-14",
   "warning_count": 2,
   "high_severity_count": 0,
   "status_counts": {
@@ -46,7 +46,7 @@
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-10-13"
+            "latest_date": "2026-10-14"
           },
           {
             "source": "breakwave",
@@ -89,7 +89,7 @@
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-10-13"
+            "latest_date": "2026-10-14"
           },
           {
             "source": "breakwave",

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-10-14_2026_10_14_el_nio_is_a_dynamic_disruption__root",
+  "doc_id": "breakwave_insights_insights_2026-10-14_2026_10_14_el_nio_is_a_dynamic_disruption",
+  "parent_id": null,
+  "title": "El Niño is a dynamic disruption",
+  "section_path": [
+    "El Niño is a dynamic disruption"
+  ],
+  "section_path_text": "El Niño is a dynamic disruption",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Vasilis Fousekis, Research Analyst\nWith El Niño now established and forecasters pointing to a strong event, the question for shipping is where it affects freight first. Timing matters as much as strength: the largest effects on crops, water levels and trade usually arrive in the first half of the following year, which places the main freight impact in 2027. El Niño is a dynamic disruption and its effects vary by region.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "india",
+    "us_gulf",
+    "coal",
+    "grain",
+    "crude_oil",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 873,
+  "source_path": "reports/breakwave/2026/2026-10-14_el-nio-is-a-dynamic-disruption.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/10/14/el-nio-is-a-dynamic-disruption",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-10-14_2026_10_14_el_nio_is_a_dynamic_disruption__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-10-14_2026_10_14_el_nio_is_a_dynamic_disruption",
+      "parent_id": "breakwave_insights_insights_2026-10-14_2026_10_14_el_nio_is_a_dynamic_disruption__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Vasilis Fousekis, Research Analyst\nWith El Niño now established and forecasters pointing to a strong event, the question for shipping is where it affects freight first. Timing matters as much as strength: the largest effects on crops, water levels and trade usually arrive in the first half of the following year, which places the main freight impact in 2027.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "australia",
+        "india",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 871,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
