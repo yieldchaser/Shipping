@@ -4,10 +4,12 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l1-audit-brokers
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: Clarksons completed (100% PASS); starting Carriers audit
-- Units Completed: 1 (Clarksons)
-- Findings: Clarksons 180/180 clean; 0 absent numbers; 12 stratified eye checks (648 cells) 0 defects.
-- Next Task in Order: Carriers full-sample audit
+- Current Status: Clarksons and Carriers completed (100% PASS); starting Xclusiv audit
+- Units Completed: 2 (Clarksons, Carriers)
+- Findings:
+  - Clarksons: 180/180 clean; 0 absent numbers (5,814 numbers audited); 12 stratified eye checks (648 cells) 0 defects.
+  - Carriers: 135/135 clean; 0 absent numbers (19,489 numbers audited); 13 stratified eye checks (2,682 cells) 0 defects.
+- Next Task in Order: Xclusiv full-sample audit
 - Evidence & Verification: check_evidence.py & validate_knowledge.py clean
 
 ## Environment & Location
@@ -39,6 +41,26 @@
     12. 2026 last (`2026-10-09`): 10 rows, 80 cells. 0 defects.
     - Total eye-checked: 648 cells, 0 defects.
   - Author and committed final verdict: `docs/handoff/audit/clarksons_verdict.md`.
+- **Carriers Full-Sample Audit**:
+  - Machine sweep: 135 MD files swept against primary PDFs (`corpus/01-brokers/carriers/<year>/`).
+  - 19,489 numbers extracted and checked against PDF text layers: 0 absent (100.0% clean).
+  - Generated full machine audit log: `docs/handoff/audit/carriers_machine.csv` (135/135 clean).
+  - Stratified visual eye pass (manual 4a): 13 issues rendered side-by-side with `scripts/verify/page_view.py side`:
+    1. 2021 only (`carriers_2021_19-Nov-2021.md`): 13 rows, 130 cells. 0 defects.
+    2. 2023 first (`carriers_2023_W46_WK-46-23-CARRIERS_SP-MARKET-REPORT.md`): 37 rows, 296 cells. 0 defects.
+    3. 2023 mid (`carriers_2023_W48_WK-48-23-CARRIERS_SP-MARKET-REPORT.md`): 28 rows, 224 cells. 0 defects.
+    4. 2023 last (`carriers_2023_W51_WK-51-23-CARRIERS_SP-MARKET-REPORT.md`): 26 rows, 208 cells. 0 defects.
+    5. 2024 first (`carriers_2024_W01_WK-12-24-CARRIERS_SP-MARKET-REPORT.md`): 29 rows, 232 cells. 0 defects.
+    6. 2024 mid (`carriers_2024_W28_WK-28-24-CARRIERS_SP-MARKET-REPORT.md`): 33 rows, 264 cells. 0 defects.
+    7. 2024 last (`carriers_2024_W52_WK-52-24-CARRIERS_SP-MARKET-REPORT.md`): 17 rows, 136 cells. 0 defects.
+    8. 2025 first (`carriers_2025_W01_WK-0102-25-CARRIERS_SP-MARKET-REPORT.md`): 24 rows, 192 cells. 0 defects.
+    9. 2025 mid (`carriers_2025_W24_WK-24-25-CARRIERS_SP-MARKET-REPORT.md`): 24 rows, 192 cells. 0 defects.
+    10. 2025 last (`carriers_2025_W51_WK-51-25-CARRIERS_SP-MARKET-REPORT.md`): 19 rows, 152 cells. 0 defects.
+    11. 2026 first (`carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.md`): 20 rows, 160 cells. 0 defects.
+    12. 2026 mid (`carriers_2026_W20_WK-20-26-CARRIERS_SP-MARKET-REPORT.md`): 33 rows, 264 cells. 0 defects.
+    13. 2026 last (`general_broker_21_09_2026_carriers_sales_purchase_market_report_week_38.md`): 28 rows, 224 cells. 0 defects.
+    - Total eye-checked: 2,682 cells, 0 defects.
+  - Author final verdict: `docs/handoff/audit/carriers_verdict.md`.
 
 ## Decisions & Rules Followed
 - Work strictly inside `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`.
