@@ -1,0 +1,521 @@
+md,numbers,absent,absent_examples
+data/extracted/md/ssy/2021/ssy_2021_A20210705.md,48,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210712.md,47,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210719.md,48,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210726.md,46,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210802.md,48,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210809.md,46,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210816.md,50,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210823.md,51,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210831.md,49,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210906.md,51,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210913.md,50,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210920.md,49,0,
+data/extracted/md/ssy/2021/ssy_2021_A20210927.md,50,2,+3.00; +3.30
+data/extracted/md/ssy/2021/ssy_2021_A20211004.md,49,1,+6.75
+data/extracted/md/ssy/2021/ssy_2021_A20211011-1.md,49,1,+3.65
+data/extracted/md/ssy/2021/ssy_2021_A20211018.md,49,1,-2.79
+data/extracted/md/ssy/2021/ssy_2021_A20211025.md,50,2,-2.80; -3.10
+data/extracted/md/ssy/2021/ssy_2021_A20211101.md,48,2,-3.38; -3.45
+data/extracted/md/ssy/2021/ssy_2021_A20211108.md,49,0,
+data/extracted/md/ssy/2021/ssy_2021_A20211115.md,47,0,
+data/extracted/md/ssy/2021/ssy_2021_A20211122.md,48,0,
+data/extracted/md/ssy/2021/ssy_2021_A20211129.md,49,0,
+data/extracted/md/ssy/2021/ssy_2021_A20211206.md,49,0,
+data/extracted/md/ssy/2021/ssy_2021_A20211213.md,48,0,
+data/extracted/md/ssy/2021/ssy_2021_A20211220.md,50,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210705.md,45,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210712.md,45,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210719.md,45,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210726.md,47,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210802.md,45,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210809.md,47,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210816.md,47,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210823.md,49,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210831.md,48,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210906.md,46,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210913.md,45,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210920.md,47,0,
+data/extracted/md/ssy/2021/ssy_2021_P20210927.md,47,0,
+data/extracted/md/ssy/2021/ssy_2021_P20211004.md,48,1,+7.00
+data/extracted/md/ssy/2021/ssy_2021_P20211011.md,48,0,
+data/extracted/md/ssy/2021/ssy_2021_P20211018.md,46,0,
+data/extracted/md/ssy/2021/ssy_2021_P20211025.md,47,0,
+data/extracted/md/ssy/2021/ssy_2021_P20211101.md,49,0,
+data/extracted/md/ssy/2021/ssy_2021_P20211108.md,46,0,
+data/extracted/md/ssy/2021/ssy_2021_P20211115.md,46,0,
+data/extracted/md/ssy/2021/ssy_2021_P20211122.md,46,0,
+data/extracted/md/ssy/2021/ssy_2021_P20211129.md,45,0,
+data/extracted/md/ssy/2021/ssy_2021_P20211206.md,47,0,
+data/extracted/md/ssy/2021/ssy_2021_P20211213.md,46,0,
+data/extracted/md/ssy/2021/ssy_2021_P20211220.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220110.md,41,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220117.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220124.md,49,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220131.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220207.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220214.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220221.md,49,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220228.md,43,0,
+data/extracted/md/ssy/2022/ssy_2022_A202203014-1.md,49,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220307.md,49,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220321.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220328.md,49,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220404.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220411.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220419.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220425.md,50,1,+560.38
+data/extracted/md/ssy/2022/ssy_2022_A20220503.md,46,1,-559.79
+data/extracted/md/ssy/2022/ssy_2022_A20220509.md,43,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220516.md,49,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220523.md,49,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220530.md,48,1,-6.55
+data/extracted/md/ssy/2022/ssy_2022_A20220606.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220613.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220620.md,49,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220627.md,49,2,-2.95; -3.25
+data/extracted/md/ssy/2022/ssy_2022_A20220704.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220711-1.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220718.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220801.md,50,2,-2.90; -3.40
+data/extracted/md/ssy/2022/ssy_2022_A20220808.md,50,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220815.md,50,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220822.md,49,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220830.md,52,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220905.md,50,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220912.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220920.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_A20220926.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_A20221003.md,44,0,
+data/extracted/md/ssy/2022/ssy_2022_A20221010.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_A20221017.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_A20221031.md,50,0,
+data/extracted/md/ssy/2022/ssy_2022_A20221107.md,50,0,
+data/extracted/md/ssy/2022/ssy_2022_A20221114.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_A20221121.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_A20221128.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_A20221205.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_A20221212.md,43,0,
+data/extracted/md/ssy/2022/ssy_2022_A20221219.md,50,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220110.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220117.md,49,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220124.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220131.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220207.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220214.md,47,1,+3.15
+data/extracted/md/ssy/2022/ssy_2022_P20220221.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220228.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220305.md,44,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220307.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220314.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220321.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220328.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220404.md,44,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220411.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220419.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220425.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220509.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220516.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220523.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220530.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220606.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220613.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220620.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220627.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220704.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220711.md,46,1,-6.65
+data/extracted/md/ssy/2022/ssy_2022_P20220718.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220725.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220801.md,50,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220808.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220815.md,44,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220822.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220830.md,43,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220905.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220912.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20220920.md,47,2,+2.55; +3.25
+data/extracted/md/ssy/2022/ssy_2022_P20220926.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20221003.md,44,0,
+data/extracted/md/ssy/2022/ssy_2022_P20221010.md,50,0,
+data/extracted/md/ssy/2022/ssy_2022_P20221017.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_P20221031.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_P20221107.md,48,0,
+data/extracted/md/ssy/2022/ssy_2022_P20221114.md,46,0,
+data/extracted/md/ssy/2022/ssy_2022_P20221121.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20221128.md,47,0,
+data/extracted/md/ssy/2022/ssy_2022_P20221205.md,45,0,
+data/extracted/md/ssy/2022/ssy_2022_P20221212.md,41,0,
+data/extracted/md/ssy/2022/ssy_2022_P20221219.md,42,0,
+data/extracted/md/ssy/2023/ssy_2023_20231027-Atlantic-Capesize-Report.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_20231027-Pacific-Capesize-Report.md,50,3,-2.70; -3.25; -3.40
+data/extracted/md/ssy/2023/ssy_2023_20231103-Atlantic-Capesize-Report.md,49,2,-0.55; -0.60
+data/extracted/md/ssy/2023/ssy_2023_20231103-Pacific-Capesize-Report.md,48,3,"+0.80; -0.85; -1,450"
+data/extracted/md/ssy/2023/ssy_2023_20231110-Atlantic-Capesize-Report.md,51,4,+0.60; +0.64; +0.65; +1.15
+data/extracted/md/ssy/2023/ssy_2023_20231110-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2023/ssy_2023_20231117-Atlantic-Capesize-Report.md,53,3,+0.60; +0.76; +0.95
+data/extracted/md/ssy/2023/ssy_2023_20231117-Pacific-Capesize-Report.md,50,1,-350
+data/extracted/md/ssy/2023/ssy_2023_20231124-Atlantic-Capesize-Report.md,51,3,+0.90; +1.11; +1.23
+data/extracted/md/ssy/2023/ssy_2023_20231124-Pacific-Capesize-Report.md,50,0,
+data/extracted/md/ssy/2023/ssy_2023_20231201-Atlantic-Capesize-Report.md,55,5,+16.20; +5.70; +6.00; +6.15; +6.38
+data/extracted/md/ssy/2023/ssy_2023_20231201-Pacific-Capesize-Report.md,54,0,
+data/extracted/md/ssy/2023/ssy_2023_20231208-Atlantic-Capesize-Report.md,54,0,
+data/extracted/md/ssy/2023/ssy_2023_20231208-Pacific-Capesize-Report.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_20231215-Atlantic-Capesize-Report.md,53,2,-1.00; -1.05
+data/extracted/md/ssy/2023/ssy_2023_20231215-Pacific-Capesize-Report.md,51,1,+3.75
+data/extracted/md/ssy/2023/ssy_2023_A20230109.md,50,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230116.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230123.md,49,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230130.md,49,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230206.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230213.md,47,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230227.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230306.md,50,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230313.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230320.md,54,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230327.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230403.md,48,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230411.md,54,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230417.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230424.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230502.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230509.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230515.md,50,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230522.md,50,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230530.md,50,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230605.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230612.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230619.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230626.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230703.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230710.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230717.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230724.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230731.md,56,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230807.md,54,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230814.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230821.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230829.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230904.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230911.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230918.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20230925.md,54,0,
+data/extracted/md/ssy/2023/ssy_2023_A20231002.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20231009.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_A20231016.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_A20231023.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230109.md,48,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230116.md,44,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230123.md,44,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230130.md,43,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230206.md,48,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230213.md,48,1,+500
+data/extracted/md/ssy/2023/ssy_2023_P20230227.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230306.md,50,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230313.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230320.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230327.md,47,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230403.md,51,1,-600
+data/extracted/md/ssy/2023/ssy_2023_P20230411.md,47,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230417.md,49,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230424.md,50,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230502.md,52,1,+750
+data/extracted/md/ssy/2023/ssy_2023_P20230509.md,49,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230515.md,42,1,-650
+data/extracted/md/ssy/2023/ssy_2023_P20230522.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230530.md,49,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230605.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230612.md,54,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230619.md,48,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230626.md,50,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230703.md,50,1,-300
+data/extracted/md/ssy/2023/ssy_2023_P20230710.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230717.md,51,1,-500
+data/extracted/md/ssy/2023/ssy_2023_P20230724.md,50,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230731.md,54,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230807.md,40,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230814.md,48,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230821.md,53,2,+2.70; -500
+data/extracted/md/ssy/2023/ssy_2023_P20230829.md,53,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230904.md,49,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230911.md,48,0,
+data/extracted/md/ssy/2023/ssy_2023_P20230918.md,50,1,"+2,750"
+data/extracted/md/ssy/2023/ssy_2023_P20230925.md,50,0,
+data/extracted/md/ssy/2023/ssy_2023_P20231002.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_P20231009.md,51,0,
+data/extracted/md/ssy/2023/ssy_2023_P20231016.md,52,0,
+data/extracted/md/ssy/2023/ssy_2023_P20231023.md,50,1,"+3,000"
+data/extracted/md/ssy/2024/ssy_2024_20240108-Atlantic-Capesize-Report.md,54,1,+4.40
+data/extracted/md/ssy/2024/ssy_2024_20240108-Pacific-Capesize-Report.md,52,0,
+data/extracted/md/ssy/2024/ssy_2024_20240112-Atlantic-Capesize-Report.md,51,1,"-21,150"
+data/extracted/md/ssy/2024/ssy_2024_20240112-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20240119-Atlantic-Capesize-Report.md,47,1,"+5,850"
+data/extracted/md/ssy/2024/ssy_2024_20240119-Pacific-Capesize-Report.md,48,1,-200
+data/extracted/md/ssy/2024/ssy_2024_20240126-Atlantic-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2024/ssy_2024_20240126-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2024/ssy_2024_20240202-Atlantic-Capesize-Report.md,48,5,+0.85; +1.20; -0.51; -0.64; -0.65
+data/extracted/md/ssy/2024/ssy_2024_20240202-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2024/ssy_2024_20240209-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20240209-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20240216-Atlantic-Capesize-Report.md,46,3,"+2,750; -1.00; -250"
+data/extracted/md/ssy/2024/ssy_2024_20240216-Pacific-Capesize-Report.md,44,1,-600
+data/extracted/md/ssy/2024/ssy_2024_20240223-Atlantic-Capesize-Report.md,46,1,"+6,500"
+data/extracted/md/ssy/2024/ssy_2024_20240223-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2024/ssy_2024_20240301-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2024/ssy_2024_20240301-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2024/ssy_2024_20240308-Atlantic-Capesize-Report.md,47,1,-600
+data/extracted/md/ssy/2024/ssy_2024_20240308-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2024/ssy_2024_20240315-Atlantic-Capesize-Report.md,45,4,"+0.68; +4,000; +850; -1.05"
+data/extracted/md/ssy/2024/ssy_2024_20240315-Pacific-Capesize-Report.md,47,1,-400
+data/extracted/md/ssy/2024/ssy_2024_20240322-Atlantic-Capesize-Report.md,46,1,"-7,350"
+data/extracted/md/ssy/2024/ssy_2024_20240322-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2024/ssy_2024_20240328-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20240328-Pacific-Capesize-Report.md,49,5,"-2.90; -3,300; -3.10; -3.20; -9,350"
+data/extracted/md/ssy/2024/ssy_2024_20240405-Atlantic-Capesize-Report.md,49,5,-0.51; -0.55; -0.85; -0.95; -1.00
+data/extracted/md/ssy/2024/ssy_2024_20240405-Pacific-Capesize-Report.md,51,1,-550
+data/extracted/md/ssy/2024/ssy_2024_20240412-Atlantic-Capesize-Report.md,50,3,"+1.05; +1.35; -1,150"
+data/extracted/md/ssy/2024/ssy_2024_20240412-Pacific-Capesize-Report.md,51,0,
+data/extracted/md/ssy/2024/ssy_2024_20240419-Atlantic-Capesize-Report.md,48,2,"+3,650; -500"
+data/extracted/md/ssy/2024/ssy_2024_20240419-Pacific-Capesize-Report.md,48,1,"+5,500"
+data/extracted/md/ssy/2024/ssy_2024_20240426-Atlantic-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2024/ssy_2024_20240426-Pacific-Capesize-Report.md,47,5,"-1.52; -2.00; -2.30; -9,000; -900"
+data/extracted/md/ssy/2024/ssy_2024_20240503-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2024/ssy_2024_20240503-Pacific-Capesize-Report.md,48,1,+800
+data/extracted/md/ssy/2024/ssy_2024_20240510-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2024/ssy_2024_20240510-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2024/ssy_2024_20240517-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20240517-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20240531-Atlantic-Capesize-Report.md,38,1,+0.56
+data/extracted/md/ssy/2024/ssy_2024_20240531-Pacific-Capesize-Report.md,48,4,+0.90; +1.05; +1.25; +350
+data/extracted/md/ssy/2024/ssy_2024_20240607-Atlantic-Capesize-Report.md,45,2,+600; +650
+data/extracted/md/ssy/2024/ssy_2024_20240607-Pacific-Capesize-Report.md,48,3,"+0.75; +1,300; +650"
+data/extracted/md/ssy/2024/ssy_2024_20240614-Atlantic-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2024/ssy_2024_20240614-Pacific-Capesize-Report.md,48,4,+0.65; -0.65; -0.70; -0.80
+data/extracted/md/ssy/2024/ssy_2024_20240628-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20240628-Pacific-Capesize-Report.md,46,2,+500; +900
+data/extracted/md/ssy/2024/ssy_2024_20240705-Atlantic-Capesize-Report.md,44,0,
+data/extracted/md/ssy/2024/ssy_2024_20240705-Pacific-Capesize-Report.md,45,1,-250
+data/extracted/md/ssy/2024/ssy_2024_20240712-Atlantic-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2024/ssy_2024_20240712-Pacific-Capesize-Report.md,46,1,+350
+data/extracted/md/ssy/2024/ssy_2024_20240719-Atlantic-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2024/ssy_2024_20240719-Pacific-Capesize-Report.md,47,1,-750
+data/extracted/md/ssy/2024/ssy_2024_20240726-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20240726-Pacific-Capesize-Report.md,50,0,
+data/extracted/md/ssy/2024/ssy_2024_20240802-Atlantic-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2024/ssy_2024_20240802-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2024/ssy_2024_20240809-Atlantic-Capesize-Report.md,42,0,
+data/extracted/md/ssy/2024/ssy_2024_20240809-Pacific-Capesize-Report.md,43,0,
+data/extracted/md/ssy/2024/ssy_2024_20240816-Atlantic-Capesize-Report.md,47,1,-500
+data/extracted/md/ssy/2024/ssy_2024_20240816-Pacific-Capesize-Report.md,51,0,
+data/extracted/md/ssy/2024/ssy_2024_20240823-Atlantic-Capesize-Report.md,45,3,+0.65; +0.70; +1.25
+data/extracted/md/ssy/2024/ssy_2024_20240823-Pacific-Capesize-Report.md,48,2,"+2,850; -675"
+data/extracted/md/ssy/2024/ssy_2024_20240830-Atlantic-Capesize-Report.md,50,5,+0.76; +0.80; +0.85; +0.90; +1.25
+data/extracted/md/ssy/2024/ssy_2024_20240830-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20240906-Atlantic-Capesize-Report.md,47,6,+0.51; +0.60; +0.63; +0.65; -0.80; -1.15
+data/extracted/md/ssy/2024/ssy_2024_20240906-Pacific-Capesize-Report.md,51,1,+500
+data/extracted/md/ssy/2024/ssy_2024_20240913-Atlantic-Capesize-Report.md,46,5,-0.65; -0.72; -0.75; -1.10; -1.30
+data/extracted/md/ssy/2024/ssy_2024_20240913-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2024/ssy_2024_20240920-Atlantic-Capesize-Report.md,47,3,"+0.55; +1.05; -1,300"
+data/extracted/md/ssy/2024/ssy_2024_20240920-Pacific-Capesize-Report.md,49,1,+850
+data/extracted/md/ssy/2024/ssy_2024_20240927-Atlantic-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2024/ssy_2024_20240927-Pacific-Capesize-Report.md,47,1,"+3,250"
+data/extracted/md/ssy/2024/ssy_2024_20241004-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20241004-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2024/ssy_2024_20241011-Atlantic-Capesize-Report.md,46,1,"-5,750"
+data/extracted/md/ssy/2024/ssy_2024_20241011-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20241018-Atlantic-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2024/ssy_2024_20241018-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2024/ssy_2024_20241025-Atlantic-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2024/ssy_2024_20241025-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20241101-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20241101-Pacific-Capesize-Report.md,45,2,-0.60; -0.70
+data/extracted/md/ssy/2024/ssy_2024_20241108-Atlantic-Capesize-Report.md,49,1,"+4,000"
+data/extracted/md/ssy/2024/ssy_2024_20241108-Pacific-Capesize-Report.md,48,2,"+7,250; +925"
+data/extracted/md/ssy/2024/ssy_2024_20241115-Atlantic-Capesize-Report.md,50,2,+3.60; +3.65
+data/extracted/md/ssy/2024/ssy_2024_20241115-Pacific-Capesize-Report.md,50,1,"+9,000"
+data/extracted/md/ssy/2024/ssy_2024_20241122-Atlantic-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2024/ssy_2024_20241122-Pacific-Capesize-Report.md,50,1,-900
+data/extracted/md/ssy/2024/ssy_2024_20241129-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2024/ssy_2024_20241129-Pacific-Capesize-Report.md,49,1,-850
+data/extracted/md/ssy/2024/ssy_2024_20241206-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2024/ssy_2024_20241206-Pacific-Capesize-Report.md,50,0,
+data/extracted/md/ssy/2024/ssy_2024_20241213-Atlantic-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2024/ssy_2024_20241213-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2024/ssy_2024_20241220-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2024/ssy_2024_20241220-Pacific-Capesize-Report.md,48,1,-800
+data/extracted/md/ssy/2025/2025-12-15_20251212-Atlantic-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250103-Atlantic-Capesize-Report.md,47,3,+0.51; +0.95; +1.35
+data/extracted/md/ssy/2025/ssy_2025_20250103-Pacific-Capesize-Report.md,49,1,+800
+data/extracted/md/ssy/2025/ssy_2025_20250110-Atlantic-Capesize-Report.md,48,1,+0.91
+data/extracted/md/ssy/2025/ssy_2025_20250110-Pacific-Capesize-Report.md,48,1,+300
+data/extracted/md/ssy/2025/ssy_2025_20250117-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20250117-Pacific-Capesize-Report.md,48,2,+200; -650
+data/extracted/md/ssy/2025/ssy_2025_20250124-Atlantic-Capesize-Report.md,46,5,+0.90; -0.60; -0.85; -0.90; -1.35
+data/extracted/md/ssy/2025/ssy_2025_20250124-Pacific-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2025/ssy_2025_20250131-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2025/ssy_2025_20250131-Pacific-Capesize-Report.md,44,1,+750
+data/extracted/md/ssy/2025/ssy_2025_20250207-Atlantic-Capesize-Report.md,44,1,-100
+data/extracted/md/ssy/2025/ssy_2025_20250207-Pacific-Capesize-Report.md,47,1,-800
+data/extracted/md/ssy/2025/ssy_2025_20250214-Atlantic-Capesize-Report.md,46,2,-250; -700
+data/extracted/md/ssy/2025/ssy_2025_20250214-Pacific-Capesize-Report.md,49,1,-600
+data/extracted/md/ssy/2025/ssy_2025_20250221-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20250221-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20250228-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2025/ssy_2025_20250228-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250307-Atlantic-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2025/ssy_2025_20250307-Pacific-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2025/ssy_2025_20250314-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20250314-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250321-Atlantic-Capesize-Report.md,44,2,+350; -800
+data/extracted/md/ssy/2025/ssy_2025_20250321-Pacific-Capesize-Report.md,49,1,+425
+data/extracted/md/ssy/2025/ssy_2025_20250328-Atlantic-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2025/ssy_2025_20250328-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250404-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2025/ssy_2025_20250404-Pacific-Capesize-Report.md,46,2,"-0.60; -1,250"
+data/extracted/md/ssy/2025/ssy_2025_20250411-Atlantic-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2025/ssy_2025_20250411-Pacific-Capesize-Report.md,50,1,"-3,500"
+data/extracted/md/ssy/2025/ssy_2025_20250417-Atlantic-Capesize-Report.md,38,0,
+data/extracted/md/ssy/2025/ssy_2025_20250417-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2025/ssy_2025_20250425-Atlantic-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250425-Pacific-Capesize-Report.md,51,1,"-3,500"
+data/extracted/md/ssy/2025/ssy_2025_20250502-Atlantic-Capesize-Report.md,47,1,"+4,100"
+data/extracted/md/ssy/2025/ssy_2025_20250502-Pacific-Capesize-Report.md,48,1,+350
+data/extracted/md/ssy/2025/ssy_2025_20250509-Atlantic-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250509-Pacific-Capesize-Report.md,44,1,-850
+data/extracted/md/ssy/2025/ssy_2025_20250516-Atlantic-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250516-Pacific-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2025/ssy_2025_20250523-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2025/ssy_2025_20250523-Pacific-Capesize-Report.md,46,1,-250
+data/extracted/md/ssy/2025/ssy_2025_20250530-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20250530-Pacific-Capesize-Report.md,47,1,+575
+data/extracted/md/ssy/2025/ssy_2025_20250606-Atlantic-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250606-Pacific-Capesize-Report.md,48,1,+1.19
+data/extracted/md/ssy/2025/ssy_2025_20250613-Atlantic-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250613-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20250620-Atlantic-Capesize-Report.md,49,1,"-6,600"
+data/extracted/md/ssy/2025/ssy_2025_20250620-Pacific-Capesize-Report.md,46,1,-500
+data/extracted/md/ssy/2025/ssy_2025_20250627-Atlantic-Capesize-Report.md,47,1,"-6,500"
+data/extracted/md/ssy/2025/ssy_2025_20250627-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2025/ssy_2025_20250704-Atlantic-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250704-Pacific-Capesize-Report-1.md,51,0,
+data/extracted/md/ssy/2025/ssy_2025_20250711-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20250711-Pacific-Capesize-Report.md,51,0,
+data/extracted/md/ssy/2025/ssy_2025_20250718-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20250718-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250725-Atlantic-Capesize-Report.md,49,3,+1.20; +1.40; +3.75
+data/extracted/md/ssy/2025/ssy_2025_20250725-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20250801-Atlantic-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2025/ssy_2025_20250801-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2025/ssy_2025_20250808-Atlantic-Capesize-Report.md,47,2,"+500; -4,100"
+data/extracted/md/ssy/2025/ssy_2025_20250808-Pacific-Capesize-Report.md,48,2,+400; +600
+data/extracted/md/ssy/2025/ssy_2025_20250822-Atlantic-Capesize-Report.md,46,1,"-6,150"
+data/extracted/md/ssy/2025/ssy_2025_20250822-Pacific-Capesize-Report.md,50,0,
+data/extracted/md/ssy/2025/ssy_2025_20250829-Atlantic-Capesize-Report.md,48,1,-400
+data/extracted/md/ssy/2025/ssy_2025_20250829-Pacific-Capesize-Report.md,51,0,
+data/extracted/md/ssy/2025/ssy_2025_20250905-Atlantic-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2025/ssy_2025_20250905-Pacific-Capesize-Report.md,47,1,-650
+data/extracted/md/ssy/2025/ssy_2025_20250912-Atlantic-Capesize-Report.md,43,0,
+data/extracted/md/ssy/2025/ssy_2025_20250912-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20250919-Atlantic-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2025/ssy_2025_20250919-Pacific-Capesize-Report.md,46,1,+500
+data/extracted/md/ssy/2025/ssy_2025_20250926-Atlantic-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2025/ssy_2025_20250926-Pacific-Capesize-Report.md,41,1,+650
+data/extracted/md/ssy/2025/ssy_2025_20251003-Atlantic-Capesize-Report.md,46,1,-2.55
+data/extracted/md/ssy/2025/ssy_2025_20251003-Pacific-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2025/ssy_2025_20251010-Atlantic-Capesize-Report.md,43,2,"+100; -2,900"
+data/extracted/md/ssy/2025/ssy_2025_20251010-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20251017-Atlantic-Capesize-Report-1.md,48,3,"+1,100; +1,250; +1.00"
+data/extracted/md/ssy/2025/ssy_2025_20251017-Pacific-Capesize-Report-1.md,47,1,+900
+data/extracted/md/ssy/2025/ssy_2025_20251024-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2025/ssy_2025_20251024-Pacific-Capesize-Report.md,49,1,+250
+data/extracted/md/ssy/2025/ssy_2025_20251031-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2025/ssy_2025_20251031-Pacific-Capesize-Report.md,47,2,"+500; -2,000"
+data/extracted/md/ssy/2025/ssy_2025_20251107-Atlantic-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2025/ssy_2025_20251107-Pacific-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2025/ssy_2025_20251114-Atlantic-Capesize-Report.md,41,2,"-3,150; -500"
+data/extracted/md/ssy/2025/ssy_2025_20251114-Pacific-Capesize-Report.md,31,1,-500
+data/extracted/md/ssy/2025/ssy_2025_20251121-Atlantic-Capesize-Report.md,45,6,+0.83; +0.90; +0.99; +1.00; +1.05; +1.15
+data/extracted/md/ssy/2025/ssy_2025_20251121-Pacific-Capesize-Report.md,44,0,
+data/extracted/md/ssy/2025/ssy_2025_20251128-Atlantic-Capesize-Report.md,48,1,"+8,900"
+data/extracted/md/ssy/2025/ssy_2025_20251128-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2025/ssy_2025_20251205-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2025/ssy_2025_20251205-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2025/ssy_2025_20251212-Pacific-Capesize-Report.md,49,3,"-1.07; -1.35; -8,000"
+data/extracted/md/ssy/2025/ssy_2025_SSY_Atlantic_2025-08-15.md,38,1,-0.55
+data/extracted/md/ssy/2025/ssy_2025_SSY_Atlantic_2025-12-19.md,48,2,-0.71; -1.40
+data/extracted/md/ssy/2025/ssy_2025_SSY_Pacific_2025-08-15.md,46,0,
+data/extracted/md/ssy/2025/ssy_2025_SSY_Pacific_2025-12-19.md,47,1,-400
+data/extracted/md/ssy/2026/ssy_2026_20260116-Atlantic-Capesize-Report.md,49,1,"-6,000"
+data/extracted/md/ssy/2026/ssy_2026_20260116-Pacific-Capesize-Report.md,48,1,"-4,250"
+data/extracted/md/ssy/2026/ssy_2026_20260123-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2026/ssy_2026_20260123-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2026/ssy_2026_20260130-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2026/ssy_2026_20260130-Pacific-Capesize-Report.md,48,1,"+8,650"
+data/extracted/md/ssy/2026/ssy_2026_20260206-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2026/ssy_2026_20260206-Pacific-Capesize-Report.md,48,1,-750
+data/extracted/md/ssy/2026/ssy_2026_20260213-Atlantic-Capesize-Report.md,49,1,"+2,650"
+data/extracted/md/ssy/2026/ssy_2026_20260213-Pacific-Capesize-Report.md,49,1,+500
+data/extracted/md/ssy/2026/ssy_2026_20260220-Atlantic-Capesize-Report.md,47,1,"-2,850"
+data/extracted/md/ssy/2026/ssy_2026_20260220-Pacific-Capesize-Report.md,45,1,+350
+data/extracted/md/ssy/2026/ssy_2026_20260227-Atlantic-Capesize-Report.md,47,3,-0.55; -0.60; -0.85
+data/extracted/md/ssy/2026/ssy_2026_20260227-Pacific-Capesize-Report.md,47,1,-350
+data/extracted/md/ssy/2026/ssy_2026_20260306-Atlantic-Capesize-Report.md,46,4,"+0.80; -0.70; -0.93; -5,500"
+data/extracted/md/ssy/2026/ssy_2026_20260306-Pacific-Capesize-Report.md,47,1,-850
+data/extracted/md/ssy/2026/ssy_2026_20260313-Atlantic-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2026/ssy_2026_20260313-Pacific-Capesize-Report.md,47,2,+2.65; +3.30
+data/extracted/md/ssy/2026/ssy_2026_20260320-Atlantic-Capesize-Report.md,45,1,"+5,650"
+data/extracted/md/ssy/2026/ssy_2026_20260320-Pacific-Capesize-Report.md,46,1,+800
+data/extracted/md/ssy/2026/ssy_2026_20260327-Atlantic-Capesize-Report.md,46,4,+0.65; -0.61; -0.65; -1.30
+data/extracted/md/ssy/2026/ssy_2026_20260327-Pacific-Capesize-Report.md,44,1,-400
+data/extracted/md/ssy/2026/ssy_2026_20260402-Atlantic-Capesize-Report.md,47,1,-0.95
+data/extracted/md/ssy/2026/ssy_2026_20260402-Pacific-Capesize-Report.md,48,1,-100
+data/extracted/md/ssy/2026/ssy_2026_20260410-Atlantic-Capesize-Report.md,49,4,+0.76; +1.05; -0.80; -0.95
+data/extracted/md/ssy/2026/ssy_2026_20260410-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2026/ssy_2026_20260417-Atlantic-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2026/ssy_2026_20260417-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2026/ssy_2026_20260424-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2026/ssy_2026_20260424-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2026/ssy_2026_20260501-Atlantic-Capesize-Report.md,47,1,+750
+data/extracted/md/ssy/2026/ssy_2026_20260501-Pacific-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2026/ssy_2026_20260508-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2026/ssy_2026_20260508-Pacific-Capesize-Report.md,49,3,+0.66; +0.80; +1.10
+data/extracted/md/ssy/2026/ssy_2026_20260515-Atlantic-Capesize-Report.md,45,1,"+7,000"
+data/extracted/md/ssy/2026/ssy_2026_20260515-Pacific-Capesize-Report.md,50,5,"+0.70; +1,250; +1.00; +1.20; -250"
+data/extracted/md/ssy/2026/ssy_2026_20260522-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2026/ssy_2026_20260522-Pacific-Capesize-Report.md,47,3,+0.65; -0.75; -0.90
+data/extracted/md/ssy/2026/ssy_2026_20260529-Atlantic-Capesize-Report.md,47,1,"+4,500"
+data/extracted/md/ssy/2026/ssy_2026_20260529-Pacific-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2026/ssy_2026_20260605-Atlantic-Capesize-Report.md,46,4,"-0.75; -1.20; -1.25; -2,750"
+data/extracted/md/ssy/2026/ssy_2026_20260605-Pacific-Capesize-Report.md,49,3,-0.75; -0.90; -1.20
+data/extracted/md/ssy/2026/ssy_2026_20260612-Atlantic-Capesize-Report.md,45,0,
+data/extracted/md/ssy/2026/ssy_2026_20260612-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2026/ssy_2026_20260619-Atlantic-Capesize-Report.md,47,1,"-5,900"
+data/extracted/md/ssy/2026/ssy_2026_20260619-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2026/ssy_2026_20260626-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2026/ssy_2026_20260626-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2026/ssy_2026_20260710-Atlantic-Capesize-Report.md,47,0,
+data/extracted/md/ssy/2026/ssy_2026_20260710-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2026/ssy_2026_20260717-Atlantic-Capesize-Report.md,46,0,
+data/extracted/md/ssy/2026/ssy_2026_20260717-Pacific-Capesize-Report.md,47,3,"-0.70; -1,400; -1.42"
+data/extracted/md/ssy/2026/ssy_2026_20260724-Atlantic-Capesize-Report.md,48,2,-0.55; -0.87
+data/extracted/md/ssy/2026/ssy_2026_20260724-Pacific-Capesize-Report.md,52,0,
+data/extracted/md/ssy/2026/ssy_2026_20260731-Atlantic-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2026/ssy_2026_20260731-Pacific-Capesize-Report.md,51,0,
+data/extracted/md/ssy/2026/ssy_2026_20260807-Atlantic-Capesize-Report.md,48,2,"+2,750; +6,250"
+data/extracted/md/ssy/2026/ssy_2026_20260807-Pacific-Capesize-Report.md,51,0,
+data/extracted/md/ssy/2026/ssy_2026_20260814-Atlantic-Capesize-Report.md,46,1,"-3,400"
+data/extracted/md/ssy/2026/ssy_2026_20260814-Pacific-Capesize-Report.md,48,0,
+data/extracted/md/ssy/2026/ssy_2026_20260821-Atlantic-Capesize-Report.md,47,2,+400; -0.90
+data/extracted/md/ssy/2026/ssy_2026_20260821-Pacific-Capesize-Report.md,48,1,-250
+data/extracted/md/ssy/2026/ssy_2026_20260828-Atlantic-Capesize-Report.md,50,6,"+0.90; +0.97; +11,750; +2.55; +2.65; +3.05"
+data/extracted/md/ssy/2026/ssy_2026_20260828-Pacific-Capesize-Report.md,49,0,
+data/extracted/md/ssy/2026/ssy_2026_20260904-Atlantic-Capesize-Report.md,47,3,"+1.20; +1.21; +13,150"
+data/extracted/md/ssy/2026/ssy_2026_20260904-Pacific-Capesize-Report.md,49,2,+2.60; +2.75
+data/extracted/md/ssy/2026/ssy_2026_20260911-Atlantic-Capesize-Report.md,48,4,"+0.60; -0.55; -0.93; -5,500"
+data/extracted/md/ssy/2026/ssy_2026_20260911-Pacific-Capesize-Report.md,50,1,+400
+data/extracted/md/ssy/2026/ssy_2026_20260918-Atlantic-Capesize-Report.md,46,2,+0.85; -300
+data/extracted/md/ssy/2026/ssy_2026_20260918-Pacific-Capesize-Report.md,49,4,"-1.19; -1.25; -1.40; -7,000"
+data/extracted/md/ssy/2026/ssy_2026_20260925-Atlantic-Capesize-Report.md,49,6,"+0.70; +0.75; +1.39; +4,150; -0.55; -0.60"
+data/extracted/md/ssy/2026/ssy_2026_20260925-Pacific-Capesize-Report.md,48,4,"+1,100; -0.55; -0.76; -0.95"
+data/extracted/md/ssy/ssy_05_10_2026_ssy_atlantic_capesize_index_5_october_2026.md,48,1,"-4,000"
+data/extracted/md/ssy/ssy_12_10_2026_ssy_atlantic_capesize_index_12_october_2026.md,48,1,"-13,750"
+data/extracted/md/ssy/ssy_12_10_2026_ssy_pacific_capesize_index_12_october_2026.md,48,0,

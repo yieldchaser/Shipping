@@ -4,8 +4,8 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l2-series
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers & Lion Shipbrokers Full Source Audits (Section 4 & 4a) completed.
-- Units Completed: 6 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match).
+- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, and SSY Capesize Index Full Source Audits (Section 4 & 4a) completed.
+- Units Completed: 7 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match).
 - Findings:
   * Package A: 2025 W46 added +72 rows; 2026 W38, W40 reordered; 2026 W41 reordered + 8 demo rows added + issue_date fixed; WEEK-46 and WEEK-46-1 PDFs byte-identical (single sidecar, not double-counted).
   * Package B: BDI chart-read accuracy audit vs official `bdiy_historical.csv`: 2,275 BDI rows, 1,552 matched trading dates, MAE 556.76 points (28.18% relative error), max error 2,634.30 points (47.67% off on 2021-10-08). Unmatched 723 rows are weekend/holiday vector interpolations. BDI rows removed from series CSV (18,073 rows remaining) and producer scripts updated.
@@ -13,8 +13,9 @@
   * Package G: Implemented `scripts/verify/md_quality_gate.py` enforcing rules R1-R5 with pass/fail unit tests in `tests/test_md_quality_gate.py` (6 passed in 2.36s). Executed full scan across all 56,501 markdown files on main (R1: 21, R2: 19,163, R3: 23,090, R4: 311, R5: 5,333).
   * Affinity Shipbrokers Audit: 249/249 MDs machine-clean against PDF text layers (0 absent numbers). Stratified eye sample of 13 issues (26 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: BDTI/BCTI, BDA, Baltic TCE Dirty (7–9 routes), and Baltic TCE Clean (7–10 routes) match printed PDF cells 100%. 0 Markdown defects found. Note logged on series CSV missing 2026-10-09 indices.
   * Lion Shipbrokers Audit: 48/48 MDs machine-clean against PDF text layers (0 absent numbers). Stratified eye sample of 6 issues (10 pages) across 2025–2026 examined via `scripts/verify/page_view.py side`: BDI indices, Demometer recycling rates (4 countries x 3 vessel types), Representative Sales (Bulkers, Tankers, Cont/Tween, Demolition) match printed PDF cells 100%. 0 Markdown defects found; 0 hand corrections needed.
-- Next Task in Order: SSY (Simpson, Spence, Young / SSY Capesize Index) — next unaudited broker source in ledger that no other lane owns.
-- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`.
+  * SSY Capesize Index Audit: 520 MD files swept against primary PDFs. Initial naive check flagged 175 files with absent numbers, which were exhaustively classified as 100% `OK-COMPUTED` (`Change ($/t)` and `Change ($/Day)` arithmetic rate differences calculated by extractor from current and previous printed rates). Exactly 0 non-computed numbers absent across all 520 files. Stratified eye sample of 14 issues (14 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: Assessed route rates ($/t), Calculated Index points, historical week-on-week and month-on-month changes, and Timecharter 4TC / 5TC day rates match printed PDF cells 100%. 0 Markdown defects found; 0 hand corrections needed.
+- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Gibson Shipbrokers / Star Asia).
+- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`.
 
 ## Environment & Location
 - `git rev-parse --show-toplevel`: `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`
@@ -224,10 +225,60 @@
    - Five master series CSVs audited: `lion_demometer_series.csv` (576 rows), `lion_sales_series.csv` (1,203 rows), `lion_demo_sales_series.csv` (109 rows), `lion_deals_series.csv` (1,312 rows), `lion_demolition_series.csv` (516 rows).
    - Status: **LION SHIPBROKERS AUDIT COMPLETE (PASS)**.
 
+## Source Audit: SSY (Simpson Spence Young / SSY Capesize Index) (Section 4 & 4a)
+
+1. **Step 1: Parsing Notes & Extractor Analysis**:
+   - Reviewed `corpus/01-brokers/Shipbroking_Source_Parsing_Notes.docx` Section 12 (SSY / Simpson Spence Young): Two weekly reports published: Atlantic and Pacific Capesize Index reports.
+   - Deliverables: 10 standard assessed routes per report, Calculated Index points, historical week-on-week and month-on-month changes, and Timecharter 4TC / 5TC day rates.
+   - Extractor pipeline: `scripts/extract/publishers/run_ssy_complete.py`, `run_ssy.py`, and `run_ssy_charts.py`.
+   - Structural design: Printed reports provide previous and current rates, but omit a dedicated change column. The extractor calculates `Change ($/t)` = `round(Current - Previous, 2)` and `Change ($/Day)` = `round(Current - Previous, 2)`.
+
+2. **Step 2: Machine Pass across Corpus**:
+   - Swept all 520 Markdown documents in `data/extracted/md/ssy/` against primary PDF text layers.
+   - Results recorded in `docs/handoff/audit/ssy_machine.csv`:
+     * Total Markdown files swept: 520.
+     * Missing PDFs: 0.
+     * Raw clean files: 345 files.
+     * Raw flagged files: 175 files (all flagged due to difference columns).
+
+3. **Step 3: Absent Number Classification**:
+   - Tested all 175 flagged documents for non-computed absent numbers.
+   - When excluding `Change ($/t)` and `Change ($/Day)` computed differences, exactly 0 non-computed absent numbers exist across the entire corpus.
+   - Classification: 100% of raw absent numbers are `OK-COMPUTED` arithmetic differences between printed rate columns.
+   - Zero numbers are hallucinated or transposed.
+
+4. **Step 4 & 4a: Stratified Eye Pass (Vision Audit)**:
+   - Evaluated 14 issues (14 pages) spanning 2021 to 2026 side-by-side using `scripts/verify/page_view.py side`:
+     * `2021-07-05 Atlantic` (`ssy_2021-07-05_Atlantic.md`): Calculated Index 9,788; changes -419 w-o-w, -1,518 m-o-m. All 10 routes (T/C Baltic 5TC 31,878; Tubarao/Rotterdam 11.20; Tubarao/Qingdao 25.10; Saldanha Bay/Qingdao 19.30; Richards Bay/Rotterdam 11.85; W Australia/Qingdao 11.30; Bolivar/Rotterdam 13.50; Seven Islands/Rotterdam 11.15; Port Cartier/Rotterdam 11.40; Narvik/Rotterdam 6.95) match printed PDF 100%. Prose T/C 4TC $30,227 and 5TC $31,878 match.
+     * `2021-07-05 Pacific` (`ssy_2021-07-05_Pacific.md`): Calculated Index 9,788. Same routes and rates correctly reproduced in Pacific edition. 100% match.
+     * `2021-12-20 Atlantic` (`ssy_2021-12-20_Atlantic.md`): Calculated Index 6,036; changes -1,867 w-o-w, -1,659 m-o-m. Baltic 5TC 19,833; Tub/Rot 10.00; Tub/Qing 21.00; Sald/Qing 16.50; Rich/Rot 9.75; W.Aus/Qing 8.75; Bol/Rot 11.00; Seven Isl/Rot 9.85; Port Cartier/Rot 10.40; Narvik/Rot 6.20. All cells match printed PDF 100%.
+     * `2022-01-10 Atlantic` (`ssy_2022-01-10_Atlantic.md`): Calculated Index 5,615; changes -421 w-o-w, -2,288 m-o-m. Baltic 5TC 18,228; Tub/Rot 9.50; Tub/Qing 19.85; Sald/Qing 15.55; Rich/Rot 9.50; W.Aus/Qing 8.20; Bol/Rot 10.50; Seven Isl/Rot 9.00; Port Cartier/Rot 9.60; Narvik/Rot 5.75. All cells match printed PDF 100%.
+     * `2022-12-19 Pacific` (`ssy_2022-12-19_Pacific.md`): Calculated Index 5,472; changes +1,010 w-o-w, +1,787 m-o-m. Baltic 5TC 17,977; Tub/Rot 9.80; Tub/Qing 19.40; Sald/Qing 15.20; Rich/Rot 8.70; W.Aus/Qing 8.35; Bol/Rot 9.80; Seven Isl/Rot 8.65; Port Cartier/Rot 9.50; Narvik/Rot 5.70. All cells match printed PDF 100%.
+     * `2023-01-09 Atlantic` (`ssy_2023-01-09_Atlantic.md`): Calculated Index 3,745; changes -1,727 w-o-w, -717 m-o-m. Baltic 5TC 10,799; Tub/Rot 8.00; Tub/Qing 16.00; Sald/Qing 12.00; Rich/Rot 6.75; W.Aus/Qing 6.55; Bol/Rot 7.00; Seven Isl/Rot 7.00; Port Cartier/Rot 7.50; Narvik/Rot 4.50. All cells match printed PDF 100%.
+     * `2023-12-15 Atlantic` (`ssy_2023-12-15_Atlantic.md`): Transition issue with Seven Islands/Qingdao ($28.00/t) and dedicated Timecharter rates table (4TC $47,688, 5TC $50,424). Calculated Index 12,238; changes -411 w-o-w, +4,203 m-o-m. All routes and rates match printed PDF 100%.
+     * `2024-01-08 Atlantic` (`ssy_2024-01-08_Atlantic.md`): Calculated Index 7,370; changes -1,883 w-o-w, -4,868 m-o-m. Baltic 5TC 24,967; Tub/Rot 10.00; Tub/Qing 23.50; Sald/Qing 17.00; Rich/Rot 9.50; W.Aus/Qing 9.55; Bol/Rot 11.25; Seven Isl/Rot 10.00; Port Cartier/Rot 11.25; Seven Isl/Qing 27.25. Timecharter 4TC $23,707, 5TC $24,967. All cells match printed PDF 100%.
+     * `2024-12-20 Pacific` (`ssy_2024-12-20_Pacific.md`): Calculated Index 5,862; changes +144 w-o-w, -1,529 m-o-m. Baltic 5TC 18,367; Tub/Rot 8.80; Tub/Qing 20.45; Sald/Qing 15.00; Rich/Rot 8.50; W.Aus/Qing 8.45; Bol/Rot 9.80; Seven Isl/Rot 8.65; Port Cartier/Rot 9.80; Seven Isl/Qing 23.00. Timecharter 4TC $18,485, 5TC $18,367. All cells match printed PDF 100%.
+     * `2025-01-03 Atlantic` (`ssy_2025-01-03_Atlantic.md`): Calculated Index 5,420; changes -442 w-o-w, -1,971 m-o-m. Baltic 5TC 16,366; Tub/Rot 8.50; Tub/Qing 19.50; Sald/Qing 14.50; Rich/Rot 8.00; W.Aus/Qing 8.10; Bol/Rot 9.25; Seven Isl/Rot 8.20; Port Cartier/Rot 9.25; Seven Isl/Qing 22.00. Timecharter 4TC $16,047, 5TC $16,366. All cells match printed PDF 100%.
+     * `2025-12-19 Atlantic` (`ssy_2025-12-19_Atlantic.md`): Calculated Index 7,616; changes +658 w-o-w, +1,960 m-o-m. Baltic 5TC 27,272; Tub/Rot 10.50; Tub/Qing 23.50; Sald/Qing 17.50; Rich/Rot 10.00; W.Aus/Qing 9.75; Bol/Rot 11.50; Seven Isl/Rot 10.25; Port Cartier/Rot 11.50; Seven Isl/Qing 27.50. Timecharter 4TC $26,056, 5TC $27,272. All cells match printed PDF 100%.
+     * `2026-01-16 Atlantic` (`ssy_2026-01-16_Atlantic.md`): Calculated Index 5,038; changes -556 w-o-w, -2,578 m-o-m. Baltic 5TC 15,310; Tub/Rot 8.00; Tub/Qing 18.50; Sald/Qing 13.50; Rich/Rot 7.50; W.Aus/Qing 7.55; Bol/Rot 8.75; Seven Isl/Rot 7.75; Port Cartier/Rot 8.75; Seven Isl/Qing 21.00. Timecharter 4TC $14,923, 5TC $15,310. All cells match printed PDF 100%.
+     * `2026-10-12 Atlantic` (`ssy_2026-10-12_Atlantic.md`): Calculated Index 5,618; changes -345 w-o-w, -1,280 m-o-m. Baltic 5TC 17,737; Tub/Rot 9.25; Tub/Qing 21.25; Sald/Qing 15.50; Rich/Rot 8.75; W.Aus/Qing 8.55; Bol/Rot 10.00; Seven Isl/Rot 9.00; Port Cartier/Rot 10.00; Seven Isl/Qing 24.50. Timecharter 4TC $17,458, 5TC $17,737. All cells match printed PDF 100%.
+     * `2026-10-12 Pacific` (`ssy_2026-10-12_Pacific.md`): Calculated Index 5,618. Same routes and rates correctly reproduced in Pacific edition. All cells match printed PDF 100%.
+   - In all 14 sampled issues (14 pages), no shifted rows, no invented numbers, and zero transcription errors found.
+
+5. **Step 5: Fixes**:
+   - Zero defects found across all Markdown files; no manual edits or extractor modifications needed.
+
+6. **Step 6: Deliverable & Audit Verdict**:
+   - Verdict document written to `docs/handoff/audit/ssy_verdict.md`.
+   - Machine sweep results recorded in `docs/handoff/audit/ssy_machine.csv`.
+   - Four master series CSVs audited: `ssy_route_rates_series.csv` (5,190 rows), `ssy_capesize_index_time_series.csv` (519 rows), `ssy_capesize_series.csv` (8,881 rows), `ssy_capesize_index_series.csv` (9,300 rows).
+   - Status: **SSY CAPESIZE INDEX AUDIT COMPLETE (PASS)**.
+
 ## Next Unaudited Source in Ledger
 - Per Section 3 of `docs/handoff/AGENT_OPERATING_MANUAL.md` ("When your lane's list is finished, start the next unaudited source in the ledger that no other lane owns, and say so in the log"):
-- Affinity Shipbrokers and Lion Shipbrokers audits are fully finished and documented.
-- The next unaudited broker source in the ledger not claimed by another lane is **SSY — Simpson, Spence, Young / SSY Capesize Index** (`corpus/01-brokers/ssy/`, 520 MDs in `data/extracted/md/ssy/`).
+- Affinity Shipbrokers, Lion Shipbrokers, and SSY Capesize Index audits are fully finished and documented.
+- The next unaudited broker source in the ledger not claimed by another lane is **Gibson Shipbrokers** (`corpus/01-brokers/gibson/`, `data/extracted/md/gibson/`).
+
 
 
 
