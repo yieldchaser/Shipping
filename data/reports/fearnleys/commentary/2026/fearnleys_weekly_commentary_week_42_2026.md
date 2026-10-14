@@ -4,13 +4,13 @@ source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 42
 date_range: "2026-10-14 to 2026-10-14"
-comments_count: 5
+comments_count: 8
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-14 13:02:31"
+generated_at: "2026-10-14 20:52:34"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 42, 2026
-*Coverage Period: 2026-10-14 to 2026-10-14 | Total Notes: 5*
+*Coverage Period: 2026-10-14 to 2026-10-14 | Total Notes: 8*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 42 (2026).
@@ -20,6 +20,13 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 **Date:** 2026-10-14 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
 
 This week, continued weakness in Capesize has seen markets slip further in both Pacific and Atlantic regions. The Pacific remained under pressure with minimal miner participation and few tenders. Softening sentiment and quiet trading saw a further paper slip today on C5 West Australia/Qingdao of 7.16% with Baltic printing USD 12.05. With some Pacific bidding this morning, today's sharpest offers were in the mid-high USD 12s, and rumors of a fixture at USD 12.1 were reported earlier in the day for early November. Similar softer market levels have also been seen in the Atlantic, with C3 Brazil/China with Baltic printing USD 31.61 today and a fixture reported at USD 31.5 for a 1H November laycan, and mid-late November see bids in the mid-low USD 33s. Transatlantic in addition has seen very few fresh stems today and Baltic C8 fell by 12.75%. Although forward enquiry for mid and late November dates is emerging, the current imbalance between supply and demand continues to weigh on sentiment, as long tonnage lists keep near term outlook cautious.
+
+---
+
+### Panamax Weekly Comment
+**Date:** 2026-10-14 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
+
+The Panamax market has traded broadly sideways this week, with Atlantic weakness offsetting firmer Pacific fixtures. In the Atlantic, grain and mineral demand has not kept pace with the expanding tonnage list, while additional ballasters for November ECSA loading are weighing on fronthaul rates. The Pacific remains well supported by Aussie coal, NoPac grain requirements and improving Indo inquiry, with prompt, well-positioned tonnage commanding premiums. Period interest continues, although weaker FFAs suggest greater caution on longer-term commitments. Our shipment and vessel-tightness indicators favor a broadly sideways near-term outlook, with Pacific strength unlikely, on its own, to support a sustained recovery across both basins.
 
 ---
 
@@ -58,7 +65,25 @@ Like the NSea Med activity has been muted so far this week but non compromised o
 ---
 
 ## 3. Gas & LNG Markets
-*No dedicated gas/LNG commentary published this week.*
+### LNG Market Report
+**Date:** 2026-10-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+Requirements for cross-basin trade are dominating the Atlantic spot market this week, both out of the US Gulf and West Africa. With the fixing window shifting well into November and even 1H December, owners grapple with pricing a ship into winter months that would ordinarily command a premium, while still seeing no fundamental signs of a tight winter. In this freight environment, Charterers are in a strong position to seek the flexibility for East or West redelivery, and Owners are prioritised that can give this flex. Despite this, there is not a sustained arbitrage pulling cargoes East and with European storages at a lower level than is usual at this time of year, there is likely to be some resistance to the usual conveyor belt of tonnage on long haul voyages to Asia. 
+
+Recent requirements in the Pacific have seen large numbers of offers across the tonnage classes. High JKM pricing has broadened the UFC delta between modern vessels and TFDEs, making it more difficult for independently-owned TFDEs to compete with 2-stroke sublets at sharp rates, even for smaller cargo parcels. This, coupled with stiff competition for relatively few cargoes has weighed down rates and shows little sign of immediate recovery, as the availability lists remain robust. 
+
+The situation in the Middle East has slipped from the headlines due to a lack major attacks launched by either side, although the region remains tense. There are an increasing number of ships attempting to transit the Strait of Hormuz and most are passing through without incident, yet Iran has struck several vessels in recent days and the risk of attack remains present.
+
+---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
-*No dedicated S&P commentary published this week.*
+### Chartering Weekly Comment
+**Date:** 2026-10-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+After last week's flurry of fixtures concluded in the USD 340-350/t-plus range, market activity has started the week on a more measured footing. A Southeast Asian oil major entered the market with a second-half November cargo tender, while five trader relets were circulated and subsequently fixed at around the USD 313/t level.
+
+Despite freight rates easing by approximately 5% from their recent highs, the VLGC market remains exceptionally strong. The BLPG3 Houston-Chiba index is currently assessed at USD 335/t, supporting round-voyage spot earnings well in excess of USD 200,000 per day for a modern conventionally fuelled VLGC. This highlights the underlying strength of the market, with vessel availability remaining tight and sentiment broadly constructive.
+
+In the East, activity remains relatively subdued. A couple of STS FOB tenders ex Sohar and Vadinar for mid-October loading are currently being marketed, although their outcomes remain uncertain. Market participants continue to watch these cargoes closely, as they are expected to provide valuable price discovery and a clearer indication of near-term market direction.
+
+---
