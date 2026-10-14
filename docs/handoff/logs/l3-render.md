@@ -4,10 +4,10 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l3-render
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: Package D (Render checks) COMPLETE; Gibson full-sample audit COMPLETE; Package E (Fearnleys orphans inventory) COMPLETE; Package F (Duplicate voice records and stale _digests inventory) COMPLETE
-- Units Completed: Package D (31 tables/MD checks) + Gibson (262 MDs machine-checked, 12 issues eye-checked) + Package E (4,950 orphan MDs indexed and matched) + Package F (634 duplicate voice groups / 1,268 files audited; 207 digest files audited)
-- Findings: Seabrokers (PASS), Intermodal W08/W09 (PASS), Fearnleys 2018 W29 (PASS), Banchero Costa (17 PASS, 3 REBUILD NEEDED), Gibson (262/262 clean, 0 defects, 100% PASS), Fearnleys orphans (190 exact name, 4,743 same date+title, 17 none), Voice Duplicates (634 groups, 0 full-file byte-identical due to distinct UUIDs, 632 body-prose-identical), Stale Digests (200 differs/matched, 7 no canonical found)
-- Next Task in Order: Lane list completed. Surveying next unaudited source in ledger within lane scope.
+- Current Status: Package D (Render checks) COMPLETE; Gibson full-sample audit COMPLETE; Package E (Fearnleys orphans inventory) COMPLETE; Package F (Duplicate voice records and stale _digests inventory) COMPLETE; Fearnleys weekly full-sample audit COMPLETE
+- Units Completed: Package D (31 tables/MD checks) + Gibson (262 MDs machine-checked, 12 issues eye-checked) + Package E (4,950 orphan MDs indexed and matched) + Package F (634 duplicate voice groups / 1,268 files audited; 207 digest files audited) + Fearnleys Weekly (261 MDs machine-checked, 13 stratified issues eye-checked)
+- Findings: Seabrokers (PASS), Intermodal W08/W09 (PASS), Fearnleys 2018 W29 (PASS), Banchero Costa (17 PASS, 3 REBUILD NEEDED), Gibson (262/262 clean, 0 defects, 100% PASS), Fearnleys orphans (190 exact name, 4,743 same date+title, 17 none), Voice Duplicates (634 groups, 0 full-file byte-identical due to distinct UUIDs, 632 body-prose-identical), Stale Digests (200 differs/matched, 7 no canonical found), Fearnleys Weekly (260/261 clean, 1 OK-IMAGE verified in Package D, 13 stratified eye checks, 0 defects, 100% PASS)
+- Next Task in Order: All sources owned by lane l3-render in lanes.json and packages D, E, F are completely audited and verified. Awaiting upstream lane merges or next assignments.
 - Evidence & Verification: All visual crops saved in docs/handoff/evidence/l3-render/; check_evidence.py & validate_knowledge.py verified
 
 ## Environment & Location
@@ -47,6 +47,12 @@
   - Classified remaining 7 files as `no canonical found` (all general maritime blog articles in `carriers/` with empty `pdf_url:` and no publisher PDF report).
   - Generated `docs/handoff/logs/digests-inventory.csv`.
   - Authored comprehensive report at `docs/handoff/logs/dup-inventory.md`.
+- Executed **Fearnleys Weekly Full-Sample Audit**:
+  - Swept all 261 Fearnleys weekly reports (2018, 2021–2026) against source PDFs in corpus (`docs/handoff/audit/fearnleys_machine.csv`).
+  - Machine sweep: 3,389 numbers checked; 260/261 MDs 100% clean with 0 absent numbers.
+  - The 1 non-clean file (`fearnleys_2018_W29_fw_week_29_2018b.md`) is a physical bitmap scan whose tables (204 cells) were confirmed 100% accurate in Package D target 3 (classified as `OK-IMAGE`).
+  - Conducted stratified visual eye audit across 13 issues (2018 W29, 2021 first/last, 2022 first/last, 2023 first/last, 2024 first/last, 2025 first/last, 2026 first/last). All text and rate assessments match PDF source layers 100%. 0 defects found.
+  - Authored comprehensive verdict at `docs/handoff/audit/fearnleys_verdict.md`.
 
 ## Decisions & Rules Followed
 - In Banchero Costa 2025 W03, the printed IMO for `Prabhu Yuvika` on page 11 is verbatim `92291781` (an 8-digit printed typo by the broker). Verified by eye against image. Kept as printed without guessing.

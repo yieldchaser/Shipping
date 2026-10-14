@@ -7,3 +7,4 @@
 {"unit": "gibson_full_sample_audit", "status": "done", "note": "262 MDs machine checked (262 clean), 12 stratified issues eye-checked (1,348 cells), 0 defects"}
 {"unit": "fearnleys_orphans_inventory", "status": "done", "note": "4950 orphans audited: 190 exact name, 4743 same date+title, 17 none"}
 {"unit": "duplicate_voice_and_stale_digests_inventory", "status": "done", "note": "634 duplicate voice groups / 1268 files audited; 207 digest files audited (200 differs/matched, 7 no canonical)"}
+{"unit": "fearnleys_weekly_full_sample_audit", "status": "done", "note": "261 weekly MDs audited: 260 clean, 1 OK-IMAGE verified in Package D, 13 stratified eye checks, 0 defects"}
