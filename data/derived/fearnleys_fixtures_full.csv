@@ -566441,3 +566441,7 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 863280,2026-10-12,Santos,ConocoPhillips,Parthenon Lng,9992220,,,,LNGC,LNG,,,,,
 863281,2026-10-13,Santos,Cool Co,Kool Crystal,9624926,,,,LNGC,LNG,,,,,
 863282,2026-10-13,,CONTINENTAL CHARTERING,ISLAND OF FYN,,,,,Panamax,BULK,,,,,
+863283,2026-10-13,Chabe,,,,,,,Panamax,BULK,,,,,"SF/DWT,NOM IMO"
+863284,2026-10-14,HMM,,,,,,,Handysize,BULK,Steel,,,,BOXY; VIA COGH DUR ABT 80 DAYS WOG
+863285,2026-10-14,PAN Ocean,,,,,,,Panamax,BULK,Bulk,,,,"15 YEARS, TRY 20 YEARS"
+863286,2026-10-14,Panocean,,,,,,,Ultramax,BULK,Steel,,,,2 X 25 MT COIL LOADING ESSENTIAL(TRY LESS)
