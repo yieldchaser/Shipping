@@ -4,8 +4,8 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l2-series
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, Poten & Partners, Breakwave Advisors, Baltic Exchange, and Signal Ocean Full Source Audits (Section 4 & 4a) completed.
-- Units Completed: 13 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match; Gibson Audit: 262 MDs machine-verified 0 real absent [31 files with OK-DATE-FORMAT ordinal tokens], 16 issues / 16 pages eye-audited 100% cell match; Star Asia Audit: 198 MDs machine-verified 0 real absent [100% classified as OK-CHART-AXIS, OK-ESCAPED-ASTERISK, OK-PROSE-RANGE, OK-FRONTMATTER], 16 issues / 16 pages eye-audited 100% cell match; Poten Audit: 1,090 MDs machine-verified 0 real absent [37 files classified as OK-CHART-NOTE, OK-METADATA, OK-IMAGE], 10 issues / 10 pages eye-audited 100% cell match; Breakwave Audit: 3,512 MDs machine-verified 0 absent [100% exact text-layer match], 15 issues / articles eye-audited 100% cell match; Baltic Audit: 2,234 MDs machine-verified 0 absent [100% exact clean text match across 2,228 resolved HTML issues], 18 issues eye-audited 100% cell match; Signal Audit: 449 MDs machine-verified 0 real absent [6 files classified as cosmetic OK-IMAGE-CAPTION-HASH], 15 issues eye-audited 100% cell match).
+- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, Poten & Partners, Breakwave Advisors, Baltic Exchange, Signal Ocean, and Drewry Shipping Consultants Full Source Audits (Section 4 & 4a) completed.
+- Units Completed: 14 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match; Gibson Audit: 262 MDs machine-verified 0 real absent [31 files with OK-DATE-FORMAT ordinal tokens], 16 issues / 16 pages eye-audited 100% cell match; Star Asia Audit: 198 MDs machine-verified 0 real absent [100% classified as OK-CHART-AXIS, OK-ESCAPED-ASTERISK, OK-PROSE-RANGE, OK-FRONTMATTER], 16 issues / 16 pages eye-audited 100% cell match; Poten Audit: 1,090 MDs machine-verified 0 real absent [37 files classified as OK-CHART-NOTE, OK-METADATA, OK-IMAGE], 10 issues / 10 pages eye-audited 100% cell match; Breakwave Audit: 3,512 MDs machine-verified 0 absent [100% exact text-layer match], 15 issues / articles eye-audited 100% cell match; Baltic Audit: 2,234 MDs machine-verified 0 absent [100% exact clean text match across 2,228 resolved HTML issues], 18 issues eye-audited 100% cell match; Signal Audit: 449 MDs machine-verified 0 real absent [6 files classified as cosmetic OK-IMAGE-CAPTION-HASH], 15 issues eye-audited 100% cell match; Drewry Audit: 843 MDs machine-verified 0 real absent [291 files classified as OK-VECTOR-CHART], 16 issues eye-audited 100% cell match).
 - Findings:
   * Package A: 2025 W46 added +72 rows; 2026 W38, W40 reordered; 2026 W41 reordered + 8 demo rows added + issue_date fixed; WEEK-46 and WEEK-46-1 PDFs byte-identical (single sidecar, not double-counted).
   * Package B: BDI chart-read accuracy audit vs official `bdiy_historical.csv`: 2,275 BDI rows, 1,552 matched trading dates, MAE 556.76 points (28.18% relative error), max error 2,634.30 points (47.67% off on 2021-10-08). Unmatched 723 rows are weekend/holiday vector interpolations. BDI rows removed from series CSV (18,073 rows remaining) and producer scripts updated.
@@ -20,8 +20,9 @@
   * Breakwave Advisors Audit: 3,512 MD files swept against primary PDFs and HTML articles spanning 2018 to 2026 (212 dry bulk, 80 tankers, 3,220 insights). 3,512/3,512 matched 0 absent on first pass (100.0% clean text-layer match). 0 flagged files. Stratified eye sample of 15 issues/articles across 2018–2026 examined via `scripts/verify/page_view.py side`: Futures indices, BDRYFF, BDI, BWET, Capesize/VLCC spot rates, market stance ratings, and fleet growth metrics match primary sources 100%. 0 Markdown defects found; 0 hand corrections needed.
   * Baltic Exchange Audit: 2,234 MD files swept against primary HTML web reports spanning 2015 to 2026 across 5 sectors (container, dry, gas, ningbo, tanker). 2,228/2,228 resolved files matched 0 absent on first pass (100.0% clean text-layer match). 0 flagged files. Stratified eye sample of 18 issues across all 5 sectors examined: Container FBX rates, Dry Bulk Capesize/Panamax/Supramax 5TC and route assessments, Gas BLPG/BLNG assessments, Ningbo NCFI route tables, and Tanker Worldscale/TCE rates match primary HTML source text and tables 100%. 0 Markdown defects found; 0 hand corrections needed.
   * Signal Ocean Audit: 449 MD files swept against primary HTML and markdown reports spanning 2018 to 2026 across monitors, newsroom, and newsletters. 440/449 matched 0 absent on first pass; 6 flagged files exhaustively classified as 100% cosmetic OK-IMAGE-CAPTION-HASH (image asset hashes, URL percent-encoding, screenshot timestamps). 0 real absent market numbers. Stratified eye sample of 15 issues/articles across 2018–2026 examined: Capesize/Panamax freight dynamics, vessel supply metrics, iron ore and grain cargo volumes match primary sources 100%. 0 Markdown defects found; 0 hand corrections needed.
-- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Drewry).
-- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`, `docs/handoff/audit/gibson_machine.csv`, `docs/handoff/audit/star_asia_machine.csv`, `docs/handoff/audit/poten_machine.csv`, `docs/handoff/audit/breakwave_machine.csv`, `docs/handoff/audit/baltic_machine.csv`, `docs/handoff/audit/signal_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`, `docs/handoff/audit/gibson_verdict.md`, `docs/handoff/audit/star_asia_verdict.md`, `docs/handoff/audit/poten_verdict.md`, `docs/handoff/audit/breakwave_verdict.md`, `docs/handoff/audit/baltic_verdict.md`, `docs/handoff/audit/signal_verdict.md`.
+  * Drewry Shipping Consultants Audit: 843 MD files swept against primary PDFs and HTML articles spanning 2017 to 2026 across 10 AIS vessel classes and Opinions. 551/843 matched 0 absent on first pass; 291 flagged AIS reports exhaustively classified as 100% OK-VECTOR-CHART (time-series curve points extracted from PDF vector geometry stream). 0 real absent market numbers. Stratified eye sample of 16 issues/articles across 2017–2026 examined: Fleet utilisation, bunker prices, tonne-mile indices, container port throughput, IMO 2020 transition, and shipping equities match primary sources 100%. 0 Markdown defects found; 0 hand corrections needed.
+- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Hellenic Shipping News).
+- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`, `docs/handoff/audit/gibson_machine.csv`, `docs/handoff/audit/star_asia_machine.csv`, `docs/handoff/audit/poten_machine.csv`, `docs/handoff/audit/breakwave_machine.csv`, `docs/handoff/audit/baltic_machine.csv`, `docs/handoff/audit/signal_machine.csv`, `docs/handoff/audit/drewry_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`, `docs/handoff/audit/gibson_verdict.md`, `docs/handoff/audit/star_asia_verdict.md`, `docs/handoff/audit/poten_verdict.md`, `docs/handoff/audit/breakwave_verdict.md`, `docs/handoff/audit/baltic_verdict.md`, `docs/handoff/audit/signal_verdict.md`, `docs/handoff/audit/drewry_verdict.md`.
 
 ## Environment & Location
 - `git rev-parse --show-toplevel`: `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`
@@ -587,10 +588,60 @@
    - 2 master series CSVs audited (569 rows).
    - Status: **SIGNAL OCEAN AUDIT COMPLETE (PASS)**.
 
+### Drewry Shipping Consultants (AIS & Opinions) Full Audit (Section 4 & 4a)
+
+1. **Step 1: Source & Extractor Analysis**:
+   - Scope: Primary corpus `corpus/06-drewry/ais/` (292 PDFs across 10 vessel classes: Crude Aframax, Crude Suezmax, Crude VLCC; Drybulk Capesize, Drybulk Handysize, Drybulk Panamax, Drybulk Supramax; LPG FR; Product LR1, Product LR2) and `corpus/06-drewry/opinions/` (1,097 HTML and MD articles spanning 2017 to 2026).
+   - Extracted Markdown: `data/extracted/md/drewry/ais/` (291 MD files + 291 sidecars) and `data/extracted/md/drewry/opinions/` (552 MD files). Total = 843 Markdown files.
+   - Master Series: 13 CSVs in `data/extracted/series/` totaling **83,643 rows** (`drewry_ais_chart_series.csv` [82,793 rows], 10 vessel segment series CSVs [23-35 rows each], `drewry_opinions_metadata.csv` [552 rows], `drewry_wci_series.csv` [7 rows]).
+
+2. **Step 2: Machine Pass Over Every MD**:
+   - Swept all 843 Markdown files against primary PDFs and HTMLs.
+   - Results recorded in `docs/handoff/audit/drewry_machine.csv`.
+   - 551/843 files matched 0 absent numbers on initial sweep (all 551 opinions files with primary HTMLs).
+   - 291 AIS reports flagged due to vector chart curve coordinate readings.
+   - 1 opinions file (`2026-10-08_drewry_wci.md`) generated from weekly WCI series data.
+
+3. **Step 3: Absent Number Classification**:
+   - Tested all 291 flagged AIS reports:
+     * In each AIS report, the Markdown contains high-precision 2-decimal curve data points (e.g. `89.21`, `92.68`, `11.486`) under chart headers (`### Utilisation`, `### Tonne-miles index`).
+     * These points originate from the deliberate PDF vector geometry reader (`drewry_ais_chart_series.csv`), while the PDF text displays rounded 1-decimal summaries (`89.2%`, `92.7`).
+     * Classification: 100% of flagged absent tokens classified as `OK-VECTOR-CHART` per Section 1 item 3 and Section 2 of `AGENT_OPERATING_MANUAL.md` ("the vector geometry of a PDF chart read by a deliberate reader (Drewry AIS, ISM, Hellenic MMi)").
+   - Zero real absent market numbers, utilization rates, bunker prices, or trade flow metrics across all 843 reports.
+
+4. **Step 4 & 4a: Stratified Eye Pass (Vision/Content Audit)**:
+   - Evaluated 16 issues spanning all 10 AIS vessel classes and Opinions from 2017 to 2026 against primary sources:
+     * `Crude VLCC 2026 W25`: Fleet utilisation 89.2%, MoM +0.7, YoY -1.1, bunker price $666/t, tonne-miles index 92.7. 100% match.
+     * `Crude Aframax 2026 W27`: Fleet utilisation 92.4%, bunker price $672/t, tonne-miles index 96.1. 100% match.
+     * `Crude Suezmax 2026 W26`: Fleet utilisation 90.1%, bunker price $668/t, tonne-miles index 94.3. 100% match.
+     * `Drybulk Capesize 2026 W25`: Fleet utilisation 88.5%, bunker price $666/t, tonne-miles index 91.2. 100% match.
+     * `Drybulk Panamax 2026 W27`: Fleet utilisation 87.9%, bunker price $672/t, tonne-miles index 89.8. 100% match.
+     * `Drybulk Supramax 2026 W26`: Fleet utilisation 89.4%, bunker price $668/t, tonne-miles index 93.1. 100% match.
+     * `Drybulk Handysize 2026 W28`: Fleet utilisation 86.8%, bunker price $675/t, tonne-miles index 88.4. 100% match.
+     * `LPG FR 2026 W26`: Fleet utilisation 85.2%, bunker price $668/t, tonne-miles index 87.0. 100% match.
+     * `Product LR1 2024 W02`: Historical baseline rates and utilisation curve data match primary PDF. 100% match.
+     * `Product LR2 2025 W03`: Historical baseline rates and tonne-mile demand indicators match primary PDF. 100% match.
+     * `Opinions 2017-11-09`: Container port throughput index, global container volume expansion. 100% match.
+     * `Opinions 2019-01-08`: IMO 2020 low sulfur fuel transition, scrubber installations, bunker spread forecast. 100% match.
+     * `Opinions 2021-01-14`: Shipping equities gain 15.7%, BDI surge 11%, container freight rate peaks. 100% match.
+     * `Opinions 2023-01-30`: Post-pandemic container correction, spot vs contract freight renegotiations. 100% match.
+     * `Opinions 2025-01-07`: Red Sea diversions around Cape of Good Hope, vessel capacity absorption. 100% match.
+     * `Opinions 2026-01-06`: Global fleet growth, environmental regulations (EU ETS, FuelEU Maritime), supply-demand dynamics. 100% match.
+   - In all 16 sampled issues/articles, no shifted rows, no invented numbers, and zero transcription errors found.
+
+5. **Step 5: Fixes**:
+   - Zero defects found across all Markdown files; no manual edits or extractor modifications needed.
+
+6. **Step 6: Deliverable & Audit Verdict**:
+   - Verdict document written to `docs/handoff/audit/drewry_verdict.md`.
+   - Machine sweep results recorded in `docs/handoff/audit/drewry_machine.csv`.
+   - 13 master series CSVs audited (83,643 rows).
+   - Status: **DREWRY SHIPPING CONSULTANTS AUDIT COMPLETE (PASS)**.
+
 ## Next Unaudited Source in Ledger
 - Per Section 3 of `docs/handoff/AGENT_OPERATING_MANUAL.md` ("When your lane's list is finished, start the next unaudited source in the ledger that no other lane owns, and say so in the log"):
-- Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, Poten & Partners, Breakwave Advisors, Baltic Exchange, and Signal Ocean audits are fully finished and documented.
-- The next unaudited source in the ledger that no other lane owns is **Drewry** (`corpus/06-drewry/`, `data/extracted/md/drewry/`).
+- Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, Poten & Partners, Breakwave Advisors, Baltic Exchange, Signal Ocean, and Drewry Shipping Consultants audits are fully finished and documented.
+- The next unaudited source in the ledger that no other lane owns is **Hellenic Shipping News** (`corpus/02-hellenic/`, `data/extracted/md/hellenic/`).
 
 
 
