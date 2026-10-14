@@ -3,17 +3,17 @@
 This directory contains Fearnleys's proprietary weekly research publications and sector wrap-ups harvested directly from Fearnleys's Hasura API (`custom_report`).
 
 ## Summary Statistics
-- **Total Research Reports:** 184
-- **Total Indicator & Correlation Charts:** 3188
-- **Date Coverage:** 2024-03-25 to 2026-10-07
+- **Total Research Reports:** 185
+- **Total Indicator & Correlation Charts:** 3210
+- **Date Coverage:** 2024-03-25 to 2026-10-14
 
 ### Reports by Year
 - **2024:** 47 reports
 - **2025:** 74 reports
-- **2026:** 63 reports
+- **2026:** 64 reports
 
 ### Reports by Department
-- **BULK:** 123 reports
+- **BULK:** 124 reports
 - **GENERAL:** 2 reports
 - **LNG:** 24 reports
 - **LPG:** 9 reports
@@ -25,6 +25,7 @@ This directory contains Fearnleys's proprietary weekly research publications and
 
 | Date | Department | Title | Charts | Markdown | PDF |
 | :---: | :---: | :--- | :---: | :--- | :---: |
+| 2026-10-14 | BULK | Fearnleys Dry Bulk Weekly | 22 | [2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md](2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md) | [Cloud](https://pbrkapp.blob.core.windows.net/report/107abfd3-dac6-442f-8a64-2aa951e7fb64/report.pdf) |
 | 2026-10-07 | BULK | Fearnleys Dry Bulk Weekly | 22 | [2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md](2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md) | [PDF](pdfs/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.pdf) |
 | 2026-10-05 | LNG | FSRU Quarterly - Q3/26 | 7 | [2026/2026-10-05_lng-fsru-quarterly-q326.md](2026/2026-10-05_lng-fsru-quarterly-q326.md) | [PDF](pdfs/2026/2026-10-05_lng-fsru-quarterly-q326.pdf) |
 | 2026-10-02 | LNG | LNG Shipping - Quarterly Report Q3 2026 | 26 | [2026/2026-10-02_lng-shipping-quarterly-report-q3-2026.md](2026/2026-10-02_lng-shipping-quarterly-report-q3-2026.md) | [PDF](pdfs/2026/2026-10-02_lng-shipping-quarterly-report-q3-2026.pdf) |
