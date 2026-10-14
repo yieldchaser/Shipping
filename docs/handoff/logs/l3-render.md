@@ -4,10 +4,10 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l3-render
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: Package D (Render checks) COMPLETE; Gibson full-sample audit COMPLETE; Package E (Fearnleys orphans inventory) COMPLETE
-- Units Completed: Package D (31 tables/MD checks) + Gibson (262 MDs machine-checked, 12 issues eye-checked) + Package E (4,950 orphan MDs indexed and matched)
-- Findings: Seabrokers (PASS), Intermodal W08/W09 (PASS), Fearnleys 2018 W29 (PASS), Banchero Costa (17 PASS, 3 REBUILD NEEDED), Gibson (262/262 clean, 0 defects, 100% PASS), Fearnleys orphans (190 exact name, 4,743 same date+title, 17 none)
-- Next Task in Order: Package F (Duplicate voice records and stale _digests inventory)
+- Current Status: Package D (Render checks) COMPLETE; Gibson full-sample audit COMPLETE; Package E (Fearnleys orphans inventory) COMPLETE; Package F (Duplicate voice records and stale _digests inventory) COMPLETE
+- Units Completed: Package D (31 tables/MD checks) + Gibson (262 MDs machine-checked, 12 issues eye-checked) + Package E (4,950 orphan MDs indexed and matched) + Package F (634 duplicate voice groups / 1,268 files audited; 207 digest files audited)
+- Findings: Seabrokers (PASS), Intermodal W08/W09 (PASS), Fearnleys 2018 W29 (PASS), Banchero Costa (17 PASS, 3 REBUILD NEEDED), Gibson (262/262 clean, 0 defects, 100% PASS), Fearnleys orphans (190 exact name, 4,743 same date+title, 17 none), Voice Duplicates (634 groups, 0 full-file byte-identical due to distinct UUIDs, 632 body-prose-identical), Stale Digests (200 differs/matched, 7 no canonical found)
+- Next Task in Order: Lane list completed. Surveying next unaudited source in ledger within lane scope.
 - Evidence & Verification: All visual crops saved in docs/handoff/evidence/l3-render/; check_evidence.py & validate_knowledge.py verified
 
 ## Environment & Location
@@ -37,6 +37,16 @@
     - `none`: 17 (0.34%)
   - Generated full CSV inventory at `docs/handoff/logs/fearnleys-orphans.csv`.
   - Authored comprehensive Markdown summary with yearly breakdown and 10 examples of each class at `docs/handoff/logs/fearnleys-orphans.md`.
+- Executed **Duplicate Voice Records and Stale `_digests` Inventory (Package F)**:
+  - Audited all 4,748 files under `corpus/01-brokers/fearnleys/voice/` and 4,766 files under `data/extracted/md/fearnleys/voice/`.
+  - Identified 634 duplicate `(date, desk)` groups (1,268 files total) created during dual Hasura export runs (un-suffixed vs hex GUID-suffixed).
+  - Verified content identity: 0 full files byte-identical due to distinct database UUIDs in frontmatter; 632 of 634 groups (99.7%) have 100% byte-identical Market Commentary body text.
+  - Generated `docs/handoff/logs/dup-voice-groups.csv`.
+  - Audited all 207 files under `corpus/01-brokers/_digests/` against canonical extractions in `data/extracted/md/`.
+  - Mapped 200 files (96.6%) to canonical MDs (`differs`, reflecting web synopsis scrape vs full table extraction from PDF) including cross-syndicated Gibson and Clarksons reports.
+  - Classified remaining 7 files as `no canonical found` (all general maritime blog articles in `carriers/` with empty `pdf_url:` and no publisher PDF report).
+  - Generated `docs/handoff/logs/digests-inventory.csv`.
+  - Authored comprehensive report at `docs/handoff/logs/dup-inventory.md`.
 
 ## Decisions & Rules Followed
 - In Banchero Costa 2025 W03, the printed IMO for `Prabhu Yuvika` on page 11 is verbatim `92291781` (an 8-digit printed typo by the broker). Verified by eye against image. Kept as printed without guessing.
