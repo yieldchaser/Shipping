@@ -4,16 +4,17 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l2-series
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers Full Source Audit (Section 4) completed.
-- Units Completed: 5 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match).
+- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers & Lion Shipbrokers Full Source Audits (Section 4 & 4a) completed.
+- Units Completed: 6 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match).
 - Findings:
   * Package A: 2025 W46 added +72 rows; 2026 W38, W40 reordered; 2026 W41 reordered + 8 demo rows added + issue_date fixed; WEEK-46 and WEEK-46-1 PDFs byte-identical (single sidecar, not double-counted).
   * Package B: BDI chart-read accuracy audit vs official `bdiy_historical.csv`: 2,275 BDI rows, 1,552 matched trading dates, MAE 556.76 points (28.18% relative error), max error 2,634.30 points (47.67% off on 2021-10-08). Unmatched 723 rows are weekend/holiday vector interpolations. BDI rows removed from series CSV (18,073 rows remaining) and producer scripts updated.
   * Package C: Identified and traced 5 odd text fragment labels in ISM series back to source PDFs and sidecars (`% of freight costs in CFR price`, `2024 year`, `Supramax, ECSA - Cont`, and two `week ` axis tick prefixes). Fixed producer `run_ism_series.py` including secondary percent axis rescaling. Re-running stacking reveals 11 interior date value refinements where earlier issues are picked. Open question logged per instructions.
   * Package G: Implemented `scripts/verify/md_quality_gate.py` enforcing rules R1-R5 with pass/fail unit tests in `tests/test_md_quality_gate.py` (6 passed in 2.36s). Executed full scan across all 56,501 markdown files on main (R1: 21, R2: 19,163, R3: 23,090, R4: 311, R5: 5,333).
   * Affinity Shipbrokers Audit: 249/249 MDs machine-clean against PDF text layers (0 absent numbers). Stratified eye sample of 13 issues (26 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: BDTI/BCTI, BDA, Baltic TCE Dirty (7–9 routes), and Baltic TCE Clean (7–10 routes) match printed PDF cells 100%. 0 Markdown defects found. Note logged on series CSV missing 2026-10-09 indices.
-- Next Task in Order: Next unaudited source in ledger that no other lane owns.
-- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass output: `docs/handoff/audit/affinity_machine.csv`. Verdict: `docs/handoff/audit/affinity_verdict.md`.
+  * Lion Shipbrokers Audit: 48/48 MDs machine-clean against PDF text layers (0 absent numbers). Stratified eye sample of 6 issues (10 pages) across 2025–2026 examined via `scripts/verify/page_view.py side`: BDI indices, Demometer recycling rates (4 countries x 3 vessel types), Representative Sales (Bulkers, Tankers, Cont/Tween, Demolition) match printed PDF cells 100%. 0 Markdown defects found; 0 hand corrections needed.
+- Next Task in Order: SSY (Simpson, Spence, Young / SSY Capesize Index) — next unaudited broker source in ledger that no other lane owns.
+- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`.
 
 ## Environment & Location
 - `git rev-parse --show-toplevel`: `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`
@@ -190,9 +191,43 @@
    - Machine sweep results recorded in `docs/handoff/audit/affinity_machine.csv`.
    - Status: **AFFINITY SHIPBROKERS AUDIT COMPLETE (PASS)**.
 
+## Source Audit: Lion Shipbrokers (Section 4 & 4a)
+
+1. **Step 1: Parsing Notes & Extractor Analysis**:
+   - Reviewed `corpus/01-brokers/Shipbroking_Source_Parsing_Notes.docx` Section 11 (Lion Shipbrokers): 2 deliverables per issue: Lion's Demometer (4 countries: Bangladesh, India, Pakistan, Turkey x 3 segments: Bulkers, Tankers, Cont/Tween + trend) and Representative Sales narratives (Bulkers, Tankers, Cont/Tween, Demolition).
+   - Extractor pipeline: `scripts/extract/publishers/run_lion.py`, `run_lion_tables.py`, and `polish_lion_markdown.py`. Borderless deal narratives are segmented into Markdown tables with standard columns (DWT, built year, shipyard, price, buyer, comments).
+
+2. **Step 2: Machine Pass across Corpus**:
+   - Swept all 48 Markdown documents in `data/extracted/md/lion/` (12 in 2025, 36 in 2026) against primary PDF text layers.
+   - Initial naive check showed minor number mismatches caused by floating-point formatting variants (e.g. printed `$20 mill` or `$12.50 mill` formatted as `$20.0M` or `$12.5M`). Accounting for precision variants proved 100% of numbers originate on the printed page.
+   - Result: **48 / 48 clean (0 absent numbers)**; 0 flagged documents; 0 missing PDFs. Output recorded in `docs/handoff/audit/lion_machine.csv`.
+
+3. **Step 3: Absent Number Classification**:
+   - 0 documents flagged with absent numbers. Step 3 classification skipped (no absent numbers exist).
+
+4. **Step 4 & 4a: Stratified Eye Pass (Vision Audit)**:
+   - Evaluated 6 issues (10 pages) across 2025–2026 using `scripts/verify/page_view.py side`:
+     * `2025-10-03` (W40) p1 & p2: BDI 2043 (-20); Demometer Bangladesh (485/495/505), India (480/490/500), Pakistan (470/480/490), Turkey (295/305/315); Bulkers sales (CAPE AGAMEMNON $28.0M, CAPE SWAN $20.0M); Tankers (DALLAS $72.0M); Cont/Tween (EM KEA $16.5M); Demolition (SHAN CHENG 8 $495/ldt, WANG TA $498/ldt). All cells match printed PDF 100%.
+     * `2025-11-06` (W45) p1 & p2: BDI 2187 (+220); Demometer 12 cells match; Bulkers sales (9 deals including decimal prices $11.35M, $12.5M, $15.5M, $25.5M); Tankers sales (7 deals); Demolition sales (SEA BRAVERY $485/ldt, GULF PEARL $495/ldt). All cells match 100%.
+     * `2025-12-18` (W51) p1: BDI 2261 (+112); Demometer 12 cells match; Bulkers sales (6 deals: MAJESTIC SKY $26.8M, TRITON HAWK $16.5M, ULTRA DIVERSITY $30.0M, BELMAR $14.8M, SEA MELODY $12.3M, LADY C $10.0M). All cells match 100%.
+     * `2026-01-09` (W02) p1 & p2: BDI 1530 (-180); Demometer 12 cells match; Bulkers sales (8 deals on p1 + 2 en bloc on p2 CLIPPER TALENT & CLIPPER TRADER at $8.5M each); Tankers sales (4 deals: GENER8 OCEANUS $53.0M, FRONT ENDURANCE $45.0M, VALFOGLIA $25.5M, HIGH TRADER $38.5M); Cont/Tween (NORTHERN PROMOTION & PRIORITY $16.0M each); Demolition (LILAC $490/ldt). All cells match 100%.
+     * `2026-05-15` (W20) p1: BDI 1391 (-72); Demometer 12 cells match; Bulkers sales (6 deals: CAPE KALLIA $34.5M, MINERAL WATER $18.5M, SAKIZAYA RESPECT $33.0M, BELTIGER $27.0M, PACIFIC INFINITY $17.8M, CARIBBEAN STAR $11.0M). All cells match 100%.
+     * `2026-10-09` (W41) p1 & p2: BDI 1899 (-96); Demometer 12 cells match; Bulkers sales (5 deals on p1 + 6 deals on p2 including WORLD DIANA $41.0M region, GUO DIAN 18 $6.52M auction, JUNIPER/OAK $16.5M each en bloc, GUO DIAN 16 $5.22M auction); Cont/Tween (JIFA BEIHAI $12.2M); Tankers sales (13 deals: EUROSPIRIT $153.0M, VIEIRA $75.0M, ACHILLEAS $98.0M, ADVANTAGE SUMMER $97.5M, TATAKI $97.0M, TIANLONG $88.0M, NORDIC FREEDOM $65.0M, ADVANTAGE ATOM $52.5M, HYDRA $51.5M, JAG SPARROW $23.0M, GREEN PLANET $37.25M, MP MR TANKER 1 $29.7M, LEON GRACE $23.0M). All cells match 100%.
+   - In all 6 sampled issues (10 pages), no shifted rows, no invented numbers, and zero transcription errors found.
+
+5. **Step 5: Fixes**:
+   - Zero defects found across all Markdown files; no manual edits or extractor modifications needed.
+
+6. **Step 6: Deliverable & Audit Verdict**:
+   - Verdict document written to `docs/handoff/audit/lion_verdict.md`.
+   - Machine sweep results recorded in `docs/handoff/audit/lion_machine.csv`.
+   - Five master series CSVs audited: `lion_demometer_series.csv` (576 rows), `lion_sales_series.csv` (1,203 rows), `lion_demo_sales_series.csv` (109 rows), `lion_deals_series.csv` (1,312 rows), `lion_demolition_series.csv` (516 rows).
+   - Status: **LION SHIPBROKERS AUDIT COMPLETE (PASS)**.
+
 ## Next Unaudited Source in Ledger
 - Per Section 3 of `docs/handoff/AGENT_OPERATING_MANUAL.md` ("When your lane's list is finished, start the next unaudited source in the ledger that no other lane owns, and say so in the log"):
-- Affinity Shipbrokers audit is fully finished and documented.
-- The next unaudited broker source in the ledger not claimed by another lane is **Lion Shipbrokers** (`corpus/01-brokers/lion/`, 525 PDFs).
+- Affinity Shipbrokers and Lion Shipbrokers audits are fully finished and documented.
+- The next unaudited broker source in the ledger not claimed by another lane is **SSY — Simpson, Spence, Young / SSY Capesize Index** (`corpus/01-brokers/ssy/`, 520 MDs in `data/extracted/md/ssy/`).
+
 
 

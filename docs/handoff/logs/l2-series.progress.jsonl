@@ -4,3 +4,4 @@
 {"unit": "package-c", "status": "done", "note": "traced 5 odd ISM series labels to PDFs; updated run_ism_series.py with LABEL_FIXES and secondary-axis rescaling; logged value diff open questions"}
 {"unit": "package-g", "status": "done", "note": "implemented md_quality_gate.py enforcing rules R1-R5; added 6 unit tests (all passing); scanned all 56,501 markdown files on main (R1: 21, R2: 19163, R3: 23090, R4: 311, R5: 5333)"}
 {"unit": "audit-affinity", "status": "done", "note": "completed Section 4 audit of Affinity Shipbrokers; 249/249 MDs machine-clean (0 absent); 13 stratified issues eye-checked via page_view side (100% match); verdict docs/handoff/audit/affinity_verdict.md written"}
+{"unit": "audit-lion", "status": "done", "note": "completed Section 4 & 4a audit of Lion Shipbrokers; 48/48 MDs machine-clean (0 absent); 6 stratified issues (10 pages) eye-checked via page_view side (100% match); verdict docs/handoff/audit/lion_verdict.md written"}
