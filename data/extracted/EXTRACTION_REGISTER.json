@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 20:33:57Z",
+  "updated_at": "2026-10-14 21:17:55Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -3516,7 +3516,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 9442,
+      "rows": 9584,
       "columns": [
         "route",
         "base",
@@ -3958,13 +3958,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 707289,
+  "total_master_stacked_rows": 707431,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 707289,
+  "total_stacked_rows": 707431,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 707594,
+  "total_rows_extracted": 707736,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 599,
     "advanced_shipping_demolition_series.csv": 2000,
@@ -4109,7 +4109,7 @@
     "signal_reports_metadata.csv": 449,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 9442,
+    "ssy_capesize_index_series.csv": 9584,
     "ssy_capesize_index_time_series.csv": 519,
     "ssy_capesize_series.csv": 8881,
     "ssy_route_rates_series.csv": 5190,
