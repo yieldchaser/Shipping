@@ -5,3 +5,4 @@
 {"unit": "fearnleys_2018_w29_p3", "status": "done", "note": "2 tables, 204 cells checked, 0 mismatches"}
 {"unit": "banchero_costa_20_sample_render_checks", "status": "done", "note": "20 MDs audited: 17 PASS, 3 REBUILD NEEDED (column shift in 2023/2024)"}
 {"unit": "gibson_full_sample_audit", "status": "done", "note": "262 MDs machine checked (262 clean), 12 stratified issues eye-checked (1,348 cells), 0 defects"}
+{"unit": "fearnleys_orphans_inventory", "status": "done", "note": "4950 orphans audited: 190 exact name, 4743 same date+title, 17 none"}

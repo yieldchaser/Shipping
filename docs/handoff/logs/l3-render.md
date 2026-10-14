@@ -4,10 +4,10 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l3-render
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: Package D (Render checks) COMPLETE; Gibson full-sample audit COMPLETE
-- Units Completed: Package D (31 tables/MD checks) + Gibson (262 MDs machine-checked, 12 issues eye-checked)
-- Findings: Seabrokers (PASS), Intermodal W08/W09 (PASS), Fearnleys 2018 W29 (PASS), Banchero Costa (17 PASS, 3 REBUILD NEEDED), Gibson (262/262 clean, 0 defects, 100% PASS)
-- Next Task in Order: Fearnleys orphans inventory (Package E)
+- Current Status: Package D (Render checks) COMPLETE; Gibson full-sample audit COMPLETE; Package E (Fearnleys orphans inventory) COMPLETE
+- Units Completed: Package D (31 tables/MD checks) + Gibson (262 MDs machine-checked, 12 issues eye-checked) + Package E (4,950 orphan MDs indexed and matched)
+- Findings: Seabrokers (PASS), Intermodal W08/W09 (PASS), Fearnleys 2018 W29 (PASS), Banchero Costa (17 PASS, 3 REBUILD NEEDED), Gibson (262/262 clean, 0 defects, 100% PASS), Fearnleys orphans (190 exact name, 4,743 same date+title, 17 none)
+- Next Task in Order: Package F (Duplicate voice records and stale _digests inventory)
 - Evidence & Verification: All visual crops saved in docs/handoff/evidence/l3-render/; check_evidence.py & validate_knowledge.py verified
 
 ## Environment & Location
@@ -28,6 +28,15 @@
   - Stratified eye pass on 12 issues (first and last of each year 2021-2026, plus PDF-to-HTML transition points). Rendered PDF pages side-by-side using `scripts/verify/page_view.py side` and verified HTML tables against source DOMs and Chart.js payloads.
   - Verified 1,348 table cells across all sampled issues. 0 defects found.
   - Authored comprehensive verdict at `docs/handoff/audit/gibson_verdict.md`.
+- Executed **Fearnleys Orphans Inventory (Package E)**:
+  - Audited all 4,950 unresolvable MDs (184 in `data/extracted/md/fearnleys-md/`, 4,766 in `data/extracted/md/fearnleys/voice/`).
+  - Indexed 8,245 Fearnleys source files in corpus (including 4,747 corpus voice records and bespoke PDFs).
+  - Categorized into 3 match classes:
+    - `exact name`: 190 (3.84%)
+    - `same date+title`: 4,743 (95.82%)
+    - `none`: 17 (0.34%)
+  - Generated full CSV inventory at `docs/handoff/logs/fearnleys-orphans.csv`.
+  - Authored comprehensive Markdown summary with yearly breakdown and 10 examples of each class at `docs/handoff/logs/fearnleys-orphans.md`.
 
 ## Decisions & Rules Followed
 - In Banchero Costa 2025 W03, the printed IMO for `Prabhu Yuvika` on page 11 is verbatim `92291781` (an 8-digit printed typo by the broker). Verified by eye against image. Kept as printed without guessing.
