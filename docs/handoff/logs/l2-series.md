@@ -148,3 +148,11 @@
 - Package C ISM Series Value Refinements & Evidence Gate:
   When the 5 text-fragment series names are repaired in `run_ism_series.py`, they merge into the canonical series keys. Because ISM publishes rolling 52-week charts every week, multiple issues cover the same historical dates. `pick_observation()` prioritizes the interior observations, resulting in 11 dates having slight refinements (<0.2% difference, e.g. 5330.4 vs 5317.9 on 2026-06-29 for CVB 10k DWCC). If the series CSVs are updated with these re-merged rows, `check_evidence.py` flags the modified lines as added numbers requiring printed-text evidence, which is impossible for interpolated vector polylines. Owner/Claude to decide whether to update the CSVs with an explicit evidence exemption or keep the existing CSV points while utilizing the fixed producer.
 
+## Next Unaudited Source Declaration
+- All Lane 2 packages assigned in `docs/handoff/WORK_PACKAGES_2026-10-14.md` (Package A, Package B, Package C, Package G) are 100% complete, verified, and pushed to `origin lane/l2-series`.
+- Per `docs/handoff/AGENT_OPERATING_MANUAL.md` Section 3 ("When your lane's list is finished, start the next unaudited source in the ledger that no other lane owns, and say so in the log"):
+  * Evaluated Master Publisher Cadence Matrix and `docs/handoff/lanes.json`.
+  * Sources owned by other lanes: Clarksons, Fearnleys-md, Carriers, Xclusiv, Agora (`l1-audit-brokers`); Seabrokers, Intermodal, Banchero Costa, Fearnleys, Gibson (`l3-render`).
+  * Unaudited broker sources not owned by any lane: **Affinity Shipbrokers**, **Lion Shipbrokers**, **SSY**, **Star Asia**.
+  * The next source in ledger order is **Affinity Shipbrokers** (`affinity_tce_series.csv`, 258 PDFs under `corpus/01-brokers/affinity/`).
+
