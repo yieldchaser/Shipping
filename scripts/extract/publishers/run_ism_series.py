@@ -102,12 +102,27 @@ def chart_entity(labels: List[str]) -> str:
     return ""
 
 
+LABEL_FIXES = {
+    "increase in activity and rates until early October, when": "% of freight costs in CFR price",
+    "shifting their fleet from the Continent to the western": "2024 year",
+    "fertilizer offers for shipments ex Baltic ports in 2H May is": "Supramax, ECSA - Cont (bss dely APS)",
+}
+
+
+def clean_label(label: str) -> str:
+    lbl = label.strip()
+    if lbl.lower().startswith("week "):
+        lbl = lbl[5:].strip()
+    return LABEL_FIXES.get(lbl, lbl)
 
 
 
-def axis_range(chart) -> Tuple[Optional[float], Optional[float]]:
+
+
+
+def axis_range(chart, axis_name: str = "primary") -> Tuple[Optional[float], Optional[float]]:
     """The chart's OWN printed y-axis span, from its tick labels."""
-    ax = (chart.get("axes") or {}).get("primary") or {}
+    ax = (chart.get("axes") or {}).get(axis_name) or {}
     vals = []
     for t in ax.get("raw") or []:
         t = str(t).replace("%", "").replace(",", "").strip()
@@ -304,18 +319,34 @@ def main(argv=()) -> None:
             labels_all = [(x.get("label") or "").strip() for x in ch.get("series", [])]
             entity = chart_entity(labels_all)
             panel = entity or title          # entity when known, else the chart title
-
             for s in ch.get("series", []):
-                label = (s.get("label") or "").strip()
+                label = clean_label((s.get("label") or "").strip())
                 if not label:
                     continue
                 # unit is a property of the SERIES, not the chart: a CFR-weight
                 # chart carries a '%' line AND a 'Freight rate, ..., $/t' line.
                 chart_unit = unit_for(title, [label])
-                ax_lo, ax_hi = axis_range(ch)
 
                 weeks = s.get("weeks", [])
                 vals = s.get("values", [])
+
+                axis_name = s.get("axis", "primary")
+                if "%" in label and axis_name == "primary" and ch.get("axes", {}).get("secondary", {}).get("is_percent"):
+                    p_a = ch["axes"]["primary"]["a"]
+                    p_b = ch["axes"]["primary"]["b"]
+                    s_a = ch["axes"]["secondary"]["a"]
+                    s_b = ch["axes"]["secondary"]["b"]
+                    rescaled = []
+                    for v in vals:
+                        if v is None:
+                            rescaled.append(None)
+                        else:
+                            y = (v - p_b) / p_a
+                            rescaled.append(round(s_a * y + s_b, 1))
+                    vals = rescaled
+                    axis_name = "secondary"
+
+                ax_lo, ax_hi = axis_range(ch, axis_name)
 
                 m_yr = re.search(r"\b(202\d)\b", label)
                 fixed_year = int(m_yr.group(1)) if m_yr else None

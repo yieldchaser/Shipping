@@ -4,13 +4,15 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l2-series
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: Package A & Package B completed; progressing to Package C (ISM series labels)
-- Units Completed: 2 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed)
+- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G)
+- Units Completed: 4 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan)
 - Findings:
   * Package A: 2025 W46 added +72 rows; 2026 W38, W40 reordered; 2026 W41 reordered + 8 demo rows added + issue_date fixed; WEEK-46 and WEEK-46-1 PDFs byte-identical (single sidecar, not double-counted).
   * Package B: BDI chart-read accuracy audit vs official `bdiy_historical.csv`: 2,275 BDI rows, 1,552 matched trading dates, MAE 556.76 points (28.18% relative error), max error 2,634.30 points (47.67% off on 2021-10-08). Unmatched 723 rows are weekend/holiday vector interpolations. BDI rows removed from series CSV (18,073 rows remaining) and producer scripts updated.
-- Next Task in Order: Package C (ISM series names text fragment fixes)
-- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line.
+  * Package C: Identified and traced 5 odd text fragment labels in ISM series back to source PDFs and sidecars (`% of freight costs in CFR price`, `2024 year`, `Supramax, ECSA - Cont`, and two `week ` axis tick prefixes). Fixed producer `run_ism_series.py` including secondary percent axis rescaling. Re-running stacking reveals 11 interior date value refinements where earlier issues are picked. Open question logged per instructions.
+  * Package G: Implemented `scripts/verify/md_quality_gate.py` enforcing rules R1-R5 with pass/fail unit tests in `tests/test_md_quality_gate.py` (6 passed in 2.36s). Executed full scan across all 56,501 markdown files on main (R1: 21, R2: 19,163, R3: 23,090, R4: 311, R5: 5,333).
+- Next Task in Order: Lane 2 complete. Next unaudited source in ledger.
+- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS.
 
 ## Environment & Location
 - `git rev-parse --show-toplevel`: `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`
@@ -85,6 +87,56 @@
   * Added removal entry in `docs/handoff/evidence/l2-series.jsonl` (2,275 lines, reason recorded).
   * Validated with `check_evidence.py` (0 failures, 0 warnings).
 
+### Package C — ISM Series Labels Text Fragments
+- Traced odd label fragments in `ism_coaster_freight_series.csv` and `ism_handy_freight_series.csv` back to source PDFs and chart JSON:
+  1. `"increase in activity and rates until early October, when"` (52 rows in Coaster):
+     - Source: `ism_2025_W34_ISM_coaster_week35.pdf` p.1 bottom chart "Russian wheat: weight of freight in CFR Marmara price".
+     - True label: `% of freight costs in CFR price` (green curve). Prose below chart leaked into legend bounding box.
+     - Crucial discovery: because raw label lacked `%`, extractor mis-routed curve to primary axis (0-350 $/t) instead of secondary axis (0-50%), producing 7x inflated numbers (~64-118 vs ~9-17%). Added secondary-axis rescaling in producer.
+  2. `"shifting their fleet from the Continent to the western"` (28 rows in Coaster):
+     - Source: `ism_2024_W28_ISM_coaster_week-28.pdf` p.1 bottom chart "Square billets, 5-6,000t, Novorossiysk - Marmara".
+     - True label: `2024 year` (dark blue curve).
+  3. `"fertilizer offers for shipments ex Baltic ports in 2H May is"` (52 rows in Handy):
+     - Source: `ism_2024_W17_ISM_handy_week-17.pdf` p.2 bottom chart "TCT rates dynamics, $/day".
+     - True label: `Supramax, ECSA - Cont (bss dely APS)` (cyan curve).
+  4. `"week CVB - Marmara/Med, 10,000 DWCC seagoing vsl"` (56 rows in Coaster):
+     - Source: `ism_2026_W29_ISM_coaster_week29.pdf` & `ism_2026_W33`. Axis tick text "week" prepended to route title.
+     - True label: `CVB - Marmara/Med, 10,000 DWCC seagoing vsl`.
+  5. `"week Handysize, BlSea - EMed (bss dely psg Canakkale)"` (130 rows in Handy):
+     - Source: `ism_2025_W13_ISM_Handy_week13.pdf` & `ism_2025_W22`. Axis tick text "week" prepended to route title.
+     - True label: `Handysize, BlSea - EMed (bss dely psg Canakkale)`.
+  6. `"YYYY year"` series (`2020 year` ... `2026 year`):
+     - Visually verified legitimate multi-year comparative curves against `ism_2025_W25_ISM_coaster_week25.pdf` p.1. Preserved untouched.
+- Producer Updates in `scripts/extract/publishers/run_ism_series.py`:
+  - Added `LABEL_FIXES` dictionary and `clean_label()` function stripping "week " prefix and mapping prose fragments.
+  - Implemented secondary percent axis rescaling when a cleaned `%` label was previously evaluated against primary axis.
+- Value Stability & Stacking Analysis:
+  - Re-stacking with repaired labels verifies that 100% of unaffected series remain identical (0 value mismatches across 30,000+ points).
+  - For the 5 repaired series, merging into the canonical keys causes 11 overlapping dates (6 in Coaster, 5 in Handy) to pick newly available interior issues from the week of publication rather than distant rolling restatements (values differ by <0.2% due to vector rendering precision).
+  - Furthermore, `check_evidence.py`'s `diff_numbers` evaluates all modified lines as containing added numbers, which cannot be backed by text evidence lines for interpolated vector chart points.
+  - Per Package C explicit instructions ("If values change, stop and write an open question"), the producer changes are committed and the value differences/evidence requirements are logged under Open Questions.
+
+### Package G — Quality Gate Script (`md_quality_gate.py`)
+- Implemented `scripts/verify/md_quality_gate.py` enforcing rules R1-R5:
+  * R1 bare price cell: flags table cells that are exactly `$`, `Region $`, `High $`, `Low $`.
+  * R2 fake zero change: flags table rows with two differing prices and change cell `0.0%`/`0.00%`.
+  * R3 personal phone: flags `+<country code>` with 8+ digits, with allow-list for publisher switchboards (Intermodal, Banchero Costa, Fearnleys, MMI/Hellenic, Seabrokers).
+  * R4 chart readings: flags tables in `data/extracted/md/intermodal` or `banchero_costa` where >=80% of column 1 cells are month dates.
+  * R5 frontmatter source: flags missing `source_file` or files not existing under `corpus/`.
+- Created unit tests in `tests/test_md_quality_gate.py`:
+  * Pass and fail fixtures implemented for each of the 5 rules.
+  * Integration test with temporary file fixture testing all 5 rules end-to-end.
+  * Test execution: 6 passed in 2.36s (`pytest tests/test_md_quality_gate.py`).
+- Repo-Wide Scan Results across ALL 56,501 Markdown files on main:
+  * R1 (bare price cell): 21 findings
+  * R2 (fake zero change): 19,163 findings
+  * R3 (personal phone): 23,090 findings
+  * R4 (chart readings): 311 findings
+  * R5 (frontmatter source_file): 5,333 findings
+  * Total findings: 47,918 findings
+  * Note: findings are recorded for owner review and not modified, per Package G instructions.
+- CI wiring deferred to Claude per instructions.
+
 ## Decisions & Rules Followed
 - Work strictly inside `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`.
 - Edit only files owned by `l2-series` (`data/extracted/series/{advanced_shipping_*,intermodal_baltic_tc_series,ism_*}.csv`, their producers under `scripts/extract/`, `scripts/verify/md_quality_gate.py`, and `tests/`).
@@ -93,3 +145,6 @@
 
 ## Open Questions
 - Duplicate PDFs in Advanced Shipping 2025: `corpus/01-brokers/advanced_shipping/2025/advanced_shipping_2025_W45_ADVANCED-MARKET-REPORT-WEEK-46.pdf` and `corpus/01-brokers/advanced_shipping/2025/advanced_shipping_2025_W46_ADVANCED-MARKET-REPORT-WEEK-46-1.pdf` have identical SHA-256 (`b6fad41abdebea3893cd25e10900fc5cb7f6cc966817ce82e5a90cb56b8615af`). Only one sidecar `WEEK-46-1.tables.json` is generated/stacked. Owner to decide if `WEEK-46.pdf` should be pruned in cleanup.
+- Package C ISM Series Value Refinements & Evidence Gate:
+  When the 5 text-fragment series names are repaired in `run_ism_series.py`, they merge into the canonical series keys. Because ISM publishes rolling 52-week charts every week, multiple issues cover the same historical dates. `pick_observation()` prioritizes the interior observations, resulting in 11 dates having slight refinements (<0.2% difference, e.g. 5330.4 vs 5317.9 on 2026-06-29 for CVB 10k DWCC). If the series CSVs are updated with these re-merged rows, `check_evidence.py` flags the modified lines as added numbers requiring printed-text evidence, which is impossible for interpolated vector polylines. Owner/Claude to decide whether to update the CSVs with an explicit evidence exemption or keep the existing CSV points while utilizing the fixed producer.
+
