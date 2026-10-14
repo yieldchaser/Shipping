@@ -4,8 +4,8 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l2-series
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, and SSY Capesize Index Full Source Audits (Section 4 & 4a) completed.
-- Units Completed: 7 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match).
+- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, and Gibson Shipbrokers Full Source Audits (Section 4 & 4a) completed.
+- Units Completed: 8 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match; Gibson Audit: 262 MDs machine-verified 0 real absent [31 files with OK-DATE-FORMAT ordinal tokens], 16 issues / 16 pages eye-audited 100% cell match).
 - Findings:
   * Package A: 2025 W46 added +72 rows; 2026 W38, W40 reordered; 2026 W41 reordered + 8 demo rows added + issue_date fixed; WEEK-46 and WEEK-46-1 PDFs byte-identical (single sidecar, not double-counted).
   * Package B: BDI chart-read accuracy audit vs official `bdiy_historical.csv`: 2,275 BDI rows, 1,552 matched trading dates, MAE 556.76 points (28.18% relative error), max error 2,634.30 points (47.67% off on 2021-10-08). Unmatched 723 rows are weekend/holiday vector interpolations. BDI rows removed from series CSV (18,073 rows remaining) and producer scripts updated.
@@ -14,8 +14,9 @@
   * Affinity Shipbrokers Audit: 249/249 MDs machine-clean against PDF text layers (0 absent numbers). Stratified eye sample of 13 issues (26 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: BDTI/BCTI, BDA, Baltic TCE Dirty (7–9 routes), and Baltic TCE Clean (7–10 routes) match printed PDF cells 100%. 0 Markdown defects found. Note logged on series CSV missing 2026-10-09 indices.
   * Lion Shipbrokers Audit: 48/48 MDs machine-clean against PDF text layers (0 absent numbers). Stratified eye sample of 6 issues (10 pages) across 2025–2026 examined via `scripts/verify/page_view.py side`: BDI indices, Demometer recycling rates (4 countries x 3 vessel types), Representative Sales (Bulkers, Tankers, Cont/Tween, Demolition) match printed PDF cells 100%. 0 Markdown defects found; 0 hand corrections needed.
   * SSY Capesize Index Audit: 520 MD files swept against primary PDFs. Initial naive check flagged 175 files with absent numbers, which were exhaustively classified as 100% `OK-COMPUTED` (`Change ($/t)` and `Change ($/Day)` arithmetic rate differences calculated by extractor from current and previous printed rates). Exactly 0 non-computed numbers absent across all 520 files. Stratified eye sample of 14 issues (14 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: Assessed route rates ($/t), Calculated Index points, historical week-on-week and month-on-month changes, and Timecharter 4TC / 5TC day rates match printed PDF cells 100%. 0 Markdown defects found; 0 hand corrections needed.
-- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Gibson Shipbrokers / Star Asia).
-- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`.
+  * Gibson Shipbrokers Audit: 262 MD files swept against primary sources (109 PDFs from 2021–2023, 153 HTMLs from 2023–2026). Initial sweep flagged 31 PDF reports with 1–2 date tokens, exhaustively classified as 100% `OK-DATE-FORMAT` (ordinal day suffixes `st`, `nd`, `rd`, `th` in header titles formatted to ISO dates). Exactly 0 non-printed/absent numbers across the entire corpus. Stratified eye sample of 16 issues (16 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: Dirty Spot WS, Clean Spot WS, $/day TCE assessments, ClearView Bunker prices, and S&P Sales tables match primary sources 100%. 0 Markdown defects found; 0 hand corrections needed.
+- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Star Asia).
+- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`, `docs/handoff/audit/gibson_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`, `docs/handoff/audit/gibson_verdict.md`.
 
 ## Environment & Location
 - `git rev-parse --show-toplevel`: `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`
@@ -274,11 +275,60 @@
    - Four master series CSVs audited: `ssy_route_rates_series.csv` (5,190 rows), `ssy_capesize_index_time_series.csv` (519 rows), `ssy_capesize_series.csv` (8,881 rows), `ssy_capesize_index_series.csv` (9,300 rows).
    - Status: **SSY CAPESIZE INDEX AUDIT COMPLETE (PASS)**.
 
+## Source Audit: Gibson Shipbrokers (Weekly Tanker Market Report) (Section 4 & 4a)
+
+1. **Step 1: Parsing Notes & Extractor Analysis**:
+   - Gibson Weekly Tanker Market Report spans two distinct publication formats:
+     * PDF Era (2021-07-02 to 2023-09-29): 109 weekly PDF reports in `corpus/01-brokers/gibson/<year>/` (located in primary corpus root).
+     * HTML Era (2023-09-29 to 2026-10-09): 153 web HTML reports in `corpus/01-brokers/gibson/html/<year>/`.
+   - Extractor pipeline: `scripts/md_cleanup/gibson_pdf_rebuild.py`, `scripts/md_cleanup/gibson_html_rebuild.py`, and `scripts/md_cleanup/gibson_live_chart_trim.py`.
+   - Extracted series: `data/extracted/series/gibson_spot_chart_daily.csv` (9,240 rows, 2022-11-01 to 2026-10-08) and `data/clarksons/gibson_tanker_rates_continuous_daily.csv` (1,519 rows, 2020-01-03 to 2026-12-04).
+
+2. **Step 2: Machine Pass across Corpus**:
+   - Swept all 262 Markdown documents in `data/extracted/md/gibson/` against primary PDF and HTML text layers.
+   - Results recorded in `docs/handoff/audit/gibson_machine.csv`:
+     * Total Markdown files swept: 262 (109 PDF-era, 153 HTML-era).
+     * Missing primary sources: 0.
+     * Raw clean files: 231 files (88.2%).
+     * Raw flagged files: 31 files (11.8%).
+
+3. **Step 3: Absent Number Classification**:
+   - Tested all 31 flagged documents for non-date absent numbers.
+   - Every single flagged number in all 31 documents was confirmed to be an ordinal day number (e.g. `23` from `23rd July 2021`) or month number (`09` from `2nd September 2022`) where the parser normalized textual date headers to ISO format.
+   - Exactly 0 absent market numbers, freight rates, TCE assessments, or bunker prices exist across all 262 documents (`Total real absent tokens: 0`).
+   - Classification: 100% of raw absent numbers are `OK-DATE-FORMAT` per Section 4 Step 3 of the manual.
+   - Zero numbers are hallucinated or transposed.
+
+4. **Step 4 & 4a: Stratified Eye Pass (Vision Audit)**:
+   - Evaluated 16 issues (16 pages) spanning 2021 to 2026 side-by-side using `scripts/verify/page_view.py side`:
+     * `2021-07-02 PDF` (`gibson_2021_2021-07-02.md`, p7): Dirty Spot WS (VLCC Ras Tanura-Ningbo 31.5 -> 31.0; Suezmax Ras Tanura-Ningbo 55.0 -> 55.0; Aframax Kuwait-Singapore 57.5 -> 52.5); $/day TCE (TD3C -1,000 -> -1,500; TD20 -1,500 -> -500; TD7 -6,500 -> -7,250); Bunkers (Fujairah 540.50 -> 545.00; Rotterdam 530.00 -> 537.00; Singapore 544.50 -> 545.50). All cells match printed PDF 100%.
+     * `2021-11-05 PDF` (`gibson_2021_2021-11-05.md`, p7): Dirty Spot WS (VLCC 44.0 -> 43.5; Suezmax 67.5 -> 67.5; Aframax 102.5 -> 107.5); Clean Spot WS (CPP 75kt 102.5 -> 107.5; CPP 55kt 122.5 -> 125.0); Bunkers (Rotterdam 582.00 -> 590.50; Fujairah 615.00 -> 619.00; Singapore 618.50 -> 622.00). All cells match printed PDF 100%.
+     * `2021-12-17 PDF` (`gibson_2021_2021-12-17.md`, p7): Dirty Spot WS & TCE (VLCC TD3C 37.0 -> 36.5; Suezmax TD20 62.5 -> 60.0); Clean Spot WS (CPP 75kt TC1 107.5 -> 100.0; CPP 37kt TC2 145.0 -> 155.0). All cells match printed PDF 100%.
+     * `2022-01-21 PDF` (`gibson_2022_2022-01-21.md`, p8): Dirty Spot WS (VLCC Ras Tanura-Ningbo 35.5 -> 35.0, TCE -9,000 -> -8,750; Suezmax TD20 57.5 -> 55.0); Clean Spot WS (CPP 75kt TC1 77.5 -> 77.5; CPP 37kt TC2 120.0 -> 117.5); Bunkers (Rotterdam 629.50 -> 651.50; Fujairah 669.50 -> 692.00; Singapore 668.50 -> 696.00). All cells match printed PDF 100%.
+     * `2022-08-12 PDF` (`gibson_2022_2022-08-12.md`, p7): Dirty Spot WS & TCE (VLCC TD3C 44.5 -> 57.5, TCE -17,250 -> 1,000; Aframax TD7 142.5 -> 175.0, TCE 20,500 -> 47,500); Clean Spot WS (TC1 270.0 -> 240.0; TC2 290.0 -> 320.0). All cells match printed PDF 100%.
+     * `2022-12-16 PDF` (`gibson_2022_2022-12-16.md`, p7): Dirty Spot WS (VLCC TD3C 78.5 -> 67.5, TCE 39,250 -> 25,500; Suezmax TD20 172.5 -> 152.5, TCE 75,500 -> 61,750); Bunkers (Rotterdam 515.50 -> 525.00; Fujairah 542.50 -> 550.00). All cells match printed PDF 100%.
+     * `2023-03-10 PDF` (`gibson_2023_2023-03-10.md`, p7): Dirty Spot WS (VLCC TD3C 87.5 -> 95.5, TCE 56,250 -> 66,750; Suezmax TD20 162.5 -> 167.5, TCE 70,500 -> 74,750); Clean Spot WS (TC1 162.5 -> 180.0; TC2 350.0 -> 330.0). All cells match printed PDF 100%.
+     * `2023-09-29 PDF` (`gibson_2023_2023-09-29.md`, p8): Final multi-page PDF weekly report. Rates & Bunkers (VLCC TD3C WS 46.5 -> 48.0, TCE 8,500 -> 10,750; Suezmax TD20 WS 67.5 -> 70.0, TCE 6,500 -> 8,250; Bunker Fujairah 645.00 -> 658.50). All cells match printed PDF 100%.
+     * `2023-09-29 HTML` (`gibson_2023_2023-09-29_html.md`, p6): First HTML web report. S&P Sales table (Bulkers & Tankers sales with DWT, Built year, Shipyard, Buyer, Price). All entries match primary source 100%.
+     * `2023-12-15 HTML` (`gibson_2023_2023-12-15_html.md`, p10): Rates & Bunkers (VLCC TD3C WS 67.5 -> 65.0; Suezmax TD20 WS 127.5 -> 122.5; Bunker Rotterdam 528.00 -> 522.00). All cells match primary source 100%.
+     * `2024-01-05 HTML` (`gibson_2024_2024-01-05_html.md`, p10 & p11): Rates & Bunkers (TD3C Ras Tanura-Ningbo WS 64.0 -> 65.5; TD20 West Africa-UKC WS 140.0 -> 141.0; TD25 US Gulf-UKC WS 205.0 -> 217.5; TC1 Ras Tanura-Japan WS 147.5 -> 162.5; TC18 US Gulf-Brazil WS 240.0 -> 265.0). All cells match primary source 100%.
+     * `2024-10-04 HTML` (`gibson_2024_2024-10-04_html.md`, p10): Rates & Bunkers (TD3C WS 52.0 -> 55.5; TD20 WS 87.5 -> 95.0; Bunker Fujairah 548.00 -> 585.00; Rotterdam 515.00 -> 555.00). All cells match primary source 100%.
+     * `2025-01-17 HTML` (`gibson_2025_2025-01-17_html.md`, p11): Rates & Bunkers (TD3C WS 57.0 -> 54.0; TD20 WS 92.5 -> 90.0; Aframax TD25 WS 137.5 -> 140.0; Bunkers Singapore 572.00 -> 578.00). All cells match primary source 100%.
+     * `2025-10-10 HTML` (`gibson_2025_2025-10-10_html.md`, p11): Rates & Bunkers (TD3C WS 59.5 -> 62.0; TD20 WS 85.0 -> 87.5; TC1 WS 127.5 -> 135.0). All cells match primary source 100%.
+     * `2026-01-16 HTML` (`gibson_2026_2026-01-16_html.md`, p11): Rates & Bunkers (TD3C WS 62.5 -> 60.0; TD20 WS 105.0 -> 100.0; Bunker Fujairah 565.00 -> 560.00). All cells match primary source 100%.
+     * `2026-10-09 HTML` (`gibson_2026_2026-10-09_html.md`, p11): Latest weekly report in October 2026. Rates & Bunkers (TD3C WS 55.0 -> 56.5; TD20 WS 90.0 -> 92.5; TD25 WS 145.0 -> 150.0; TC1 WS 140.0 -> 142.5; Bunker Rotterdam 510.00 -> 515.00). All cells match primary source 100%.
+   - In all 16 sampled issues (16 pages), no shifted rows, no invented numbers, and zero transcription errors found.
+
+5. **Step 5: Fixes**:
+   - Zero defects found across all Markdown files; no manual edits or extractor modifications needed.
+
+6. **Step 6: Deliverable & Audit Verdict**:
+   - Verdict document written to `docs/handoff/audit/gibson_verdict.md`.
+   - Machine sweep results recorded in `docs/handoff/audit/gibson_machine.csv`.
+   - Two master series CSVs audited: `gibson_spot_chart_daily.csv` (9,240 rows) and `gibson_tanker_rates_continuous_daily.csv` (1,519 rows).
+   - Status: **GIBSON SHIPBROKERS AUDIT COMPLETE (PASS)**.
+
 ## Next Unaudited Source in Ledger
 - Per Section 3 of `docs/handoff/AGENT_OPERATING_MANUAL.md` ("When your lane's list is finished, start the next unaudited source in the ledger that no other lane owns, and say so in the log"):
-- Affinity Shipbrokers, Lion Shipbrokers, and SSY Capesize Index audits are fully finished and documented.
-- The next unaudited broker source in the ledger not claimed by another lane is **Gibson Shipbrokers** (`corpus/01-brokers/gibson/`, `data/extracted/md/gibson/`).
-
-
-
-
+- Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, and Gibson Shipbrokers audits are fully finished and documented.
+- The next unaudited broker source in the ledger not claimed by another lane is **Star Asia** (`corpus/01-brokers/star_asia/`, `data/extracted/md/star_asia/`).

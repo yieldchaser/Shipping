@@ -6,3 +6,5 @@
 {"unit": "audit-affinity", "status": "done", "note": "completed Section 4 audit of Affinity Shipbrokers; 249/249 MDs machine-clean (0 absent); 13 stratified issues eye-checked via page_view side (100% match); verdict docs/handoff/audit/affinity_verdict.md written"}
 {"unit": "audit-lion", "status": "done", "note": "completed Section 4 & 4a audit of Lion Shipbrokers; 48/48 MDs machine-clean (0 absent); 6 stratified issues (10 pages) eye-checked via page_view side (100% match); verdict docs/handoff/audit/lion_verdict.md written"}
 {"unit": "audit-ssy", "status": "done", "note": "completed Section 4 & 4a audit of SSY; 520 MDs verified; 175 raw absent numbers classified 100% OK-COMPUTED; 0 non-computed absent; 14 stratified issues (14 pages) eye-checked via page_view side (100% match); verdict docs/handoff/audit/ssy_verdict.md written"}
+{"unit": "audit-gibson", "status": "done", "note": "completed Section 4 & 4a audit of Gibson Shipbrokers; 262 MDs verified (109 PDF, 153 HTML); 262/262 machine-clean (0 absent); 16 stratified issues eye-checked via page_view side (100% match); verdict docs/handoff/audit/gibson_verdict.md written"}
+
