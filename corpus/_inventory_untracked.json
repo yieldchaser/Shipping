@@ -2,18 +2,18 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2925,
-      "untracked_bytes": 2297404614
+      "untracked_files": 2927,
+      "untracked_bytes": 2299472278
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4057,
-      "untracked_bytes": 2389108169
+      "untracked_files": 4061,
+      "untracked_bytes": 2391655510
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 13,
+      "untracked_bytes": 2070378
     },
     {
       "path": "corpus/04-poten",
@@ -4928,6 +4928,11 @@
       "sha256": "9a74ca876decbce3ddf24b3c93750fcce021120acf744cee31cb6c40ec30fcf0"
     },
     {
+      "path": "corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W41_Bancosta-Weekly-2026-41.pdf",
+      "bytes": 916212,
+      "sha256": "e9f4deac459ed46cbdae629ac09705c46ff7901cb537932d7d57800f76d5f0a1"
+    },
+    {
       "path": "corpus/01-brokers/banchero_costa/2026/bancosta_30_09_2026_banchero_costa_weekly_market_report_week_39_2026.pdf",
       "bytes": 993374,
       "sha256": "0dbbac20e4046b218997739ca53aab2378103d23210e2626f5042fe7f1501fd9"
@@ -8841,6 +8846,11 @@
       "path": "corpus/01-brokers/intermodal/2026/intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf",
       "bytes": 1161262,
       "sha256": "e07199afa132b266e6e5b98421d9eca1d140489247e44c1f79a1df2619bb74e9"
+    },
+    {
+      "path": "corpus/01-brokers/intermodal/2026/intermodal_2026_W41_Intermodal-Report-Week-41-2026.pdf",
+      "bytes": 1151452,
+      "sha256": "1d1da12d2d859f724e595526887ecb93ca285e302eb2611da472cfa62d02318a"
     },
     {
       "path": "corpus/01-brokers/intermodal/2026/intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi.pdf",
@@ -20138,6 +20148,16 @@
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-14_mmi-daily-iron-ore-index-report-october-14-2026.html",
+      "bytes": 4477,
+      "sha256": "2a2ee29aa4d9144d86b0ee72548b1fcc724c81d0285e7502ff56bebb6c8bf610"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-14_mmi-daily-iron-ore-index-report-october-14-2026_14102026vhinese34_63d0d576958e.jpg",
+      "bytes": 171544,
+      "sha256": "22a48101dea65ec63fcf44e0b438a32d16361e7d5cf7490688d99917ecb4808f"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
       "bytes": 1106014,
       "sha256": "b82a5abf0415bdb8da87e942ca7a69caa92b9e22ff1373ec591775898b1b0aa3"
@@ -30133,6 +30153,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-14_mmi-daily-iron-ore-index-report-october-14-2026_mmi-daily-iron-ore-report-for-14th-o_50334dd753f2.pdf",
+      "bytes": 1185660,
+      "sha256": "9db5b673b765fe8b8dc1409a518acfd5a92181a13713007f0266f9a4f21c8d4d"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31521,6 +31546,11 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-14_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-14th-October-2026.pdf",
+      "bytes": 1185660,
+      "sha256": "9db5b673b765fe8b8dc1409a518acfd5a92181a13713007f0266f9a4f21c8d4d"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -34956,6 +34986,26 @@
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
       "bytes": 52460,
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-14_a-boat-may-rise-with-the-tide-but-a-rising-tide-does-not-necessarily-lift-every.html",
+      "bytes": 12003,
+      "sha256": "c49bb7ab0ef1a071c4b72019fe894b7e87df5a46d05ce6b48d0f3d8e2638d612"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-14_a-boat-may-rise-with-the-tide-but-a-rising-tide-does-not-necessarily-lift-every.md",
+      "bytes": 10244,
+      "sha256": "28debe02ba884fb2fb0955fa152921f38b59f44aacf7624b044e59a1a7e1793b"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-14_el-nio-is-a-dynamic-disruption.html",
+      "bytes": 6966,
+      "sha256": "74a7be69137d552d9b97189df415f2a58b4e0ab2ec50e7e3f7de9cb677259bd5"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-14_el-nio-is-a-dynamic-disruption.md",
+      "bytes": 5179,
+      "sha256": "5f8eed15f9fa73bd04bb9f8468d403d3478f8901fd4edde8302b9f0a68f603f8"
     },
     {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
