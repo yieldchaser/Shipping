@@ -4,8 +4,8 @@
 - Harness: antigravity-gemini-1
 - Branch: lane/l2-series
 - Worktree Root: C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1
-- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, and Poten & Partners Full Source Audits (Section 4 & 4a) completed.
-- Units Completed: 10 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match; Gibson Audit: 262 MDs machine-verified 0 real absent [31 files with OK-DATE-FORMAT ordinal tokens], 16 issues / 16 pages eye-audited 100% cell match; Star Asia Audit: 198 MDs machine-verified 0 real absent [100% classified as OK-CHART-AXIS, OK-ESCAPED-ASTERISK, OK-PROSE-RANGE, OK-FRONTMATTER], 16 issues / 16 pages eye-audited 100% cell match; Poten Audit: 1,090 MDs machine-verified 0 real absent [37 files classified as OK-CHART-NOTE, OK-METADATA, OK-IMAGE], 10 issues / 10 pages eye-audited 100% cell match).
+- Current Status: All lane tasks completed (Package A, Package B, Package C, Package G) + Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, Poten & Partners, and Breakwave Advisors Full Source Audits (Section 4 & 4a) completed.
+- Units Completed: 11 (Package A: 5 Advanced Shipping series refreshed; Package B: Intermodal BDI duplicate audited and removed; Package C: ISM series label text fragments repaired in producer; Package G: md_quality_gate.py created with unit tests and repo-wide scan; Affinity Audit: 249 MDs machine-verified 0 absent, 13 issues eye-audited 100% cell match; Lion Audit: 48 MDs machine-verified 0 absent, 6 issues / 10 pages eye-audited 100% cell match; SSY Audit: 520 MDs machine-verified 0 non-computed absent [175 files with OK-COMPUTED difference columns], 14 issues / 14 pages eye-audited 100% cell match; Gibson Audit: 262 MDs machine-verified 0 real absent [31 files with OK-DATE-FORMAT ordinal tokens], 16 issues / 16 pages eye-audited 100% cell match; Star Asia Audit: 198 MDs machine-verified 0 real absent [100% classified as OK-CHART-AXIS, OK-ESCAPED-ASTERISK, OK-PROSE-RANGE, OK-FRONTMATTER], 16 issues / 16 pages eye-audited 100% cell match; Poten Audit: 1,090 MDs machine-verified 0 real absent [37 files classified as OK-CHART-NOTE, OK-METADATA, OK-IMAGE], 10 issues / 10 pages eye-audited 100% cell match; Breakwave Audit: 3,512 MDs machine-verified 0 absent [100% exact text-layer match], 15 issues / articles eye-audited 100% cell match).
 - Findings:
   * Package A: 2025 W46 added +72 rows; 2026 W38, W40 reordered; 2026 W41 reordered + 8 demo rows added + issue_date fixed; WEEK-46 and WEEK-46-1 PDFs byte-identical (single sidecar, not double-counted).
   * Package B: BDI chart-read accuracy audit vs official `bdiy_historical.csv`: 2,275 BDI rows, 1,552 matched trading dates, MAE 556.76 points (28.18% relative error), max error 2,634.30 points (47.67% off on 2021-10-08). Unmatched 723 rows are weekend/holiday vector interpolations. BDI rows removed from series CSV (18,073 rows remaining) and producer scripts updated.
@@ -17,8 +17,9 @@
   * Gibson Shipbrokers Audit: 262 MD files swept against primary sources (109 PDFs from 2021–2023, 153 HTMLs from 2023–2026). Initial sweep flagged 31 PDF reports with 1–2 date tokens, exhaustively classified as 100% `OK-DATE-FORMAT` (ordinal day suffixes `st`, `nd`, `rd`, `th` in header titles formatted to ISO dates). Exactly 0 non-printed/absent numbers across the entire corpus. Stratified eye sample of 16 issues (16 pages) across 2021–2026 examined via `scripts/verify/page_view.py side`: Dirty Spot WS, Clean Spot WS, $/day TCE assessments, ClearView Bunker prices, and S&P Sales tables match primary sources 100%. 0 Markdown defects found; 0 hand corrections needed.
   * Star Asia Shipbroking Audit: 198 MD files swept against primary PDFs spanning 2022 to 2026. Initial sweep flagged 198 files due to frontmatter metadata paths, escaped asterisks (`\*570`), prose ranges (`US$20-30/tonless`), and chart axis ticks extracted by LlamaParse/OCR from raster bitmaps. Exactly 0 real market rates, vessel values, or recycling prices absent across all 198 files. Stratified eye sample of 16 issues (16 pages) across 2022–2026 examined via `scripts/verify/page_view.py side`: S&P sales, Dry Bulk values, Tanker values, Container values, Container T/C rates, Ship Recycling Snapshot, 5-Year historical recycling averages, Demolition sales & beaching, Bunker prices, and FX rates match primary PDFs 100%. 0 Markdown defects found; 0 hand corrections needed.
   * Poten & Partners Audit: 1,090 MD files swept against primary PDFs spanning 2004 to 2026. 1,053 files matched 0 absent on first pass; 37 flagged files exhaustively classified as 100% `OK-CHART-NOTE`, `OK-METADATA`, or `OK-IMAGE`. Exactly 0 real market rates, fixture volumes, or charterer statistics absent across all 1,090 files. Stratified eye sample of 10 issues (10 pages) across 2004–2026 examined via `scripts/verify/page_view.py side`: Spot dirty fixtures, Top 10 charterers rankings, volumes, market shares, fixture counts, and VLCC fleet age/orderbook profiles match primary PDFs 100%. 0 Markdown defects found; 0 hand corrections needed.
-- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Breakwave Advisors).
-- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`, `docs/handoff/audit/gibson_machine.csv`, `docs/handoff/audit/star_asia_machine.csv`, `docs/handoff/audit/poten_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`, `docs/handoff/audit/gibson_verdict.md`, `docs/handoff/audit/star_asia_verdict.md`, `docs/handoff/audit/poten_verdict.md`.
+  * Breakwave Advisors Audit: 3,512 MD files swept against primary PDFs and HTML articles spanning 2018 to 2026 (212 dry bulk, 80 tankers, 3,220 insights). 3,512/3,512 matched 0 absent on first pass (100.0% clean text-layer match). 0 flagged files. Stratified eye sample of 15 issues/articles across 2018–2026 examined via `scripts/verify/page_view.py side`: Futures indices, BDRYFF, BDI, BWET, Capesize/VLCC spot rates, market stance ratings, and fleet growth metrics match primary sources 100%. 0 Markdown defects found; 0 hand corrections needed.
+- Next Task in Order: Next unaudited broker source in ledger that no other lane owns (Seabrokers).
+- Evidence & Verification: 357 evidence lines in `docs/handoff/evidence/l2-series.jsonl` checked mechanically (0 failures, 0 warnings); removal of 2,275 lines backed by E5 removal line. `scripts/validate_knowledge.py` PASS. Machine pass outputs: `docs/handoff/audit/affinity_machine.csv`, `docs/handoff/audit/lion_machine.csv`, `docs/handoff/audit/ssy_machine.csv`, `docs/handoff/audit/gibson_machine.csv`, `docs/handoff/audit/star_asia_machine.csv`, `docs/handoff/audit/poten_machine.csv`, `docs/handoff/audit/breakwave_machine.csv`. Verdicts: `docs/handoff/audit/affinity_verdict.md`, `docs/handoff/audit/lion_verdict.md`, `docs/handoff/audit/ssy_verdict.md`, `docs/handoff/audit/gibson_verdict.md`, `docs/handoff/audit/star_asia_verdict.md`, `docs/handoff/audit/poten_verdict.md`, `docs/handoff/audit/breakwave_verdict.md`.
 
 ## Environment & Location
 - `git rev-parse --show-toplevel`: `C:/Users/Dell/Github/Shipping-wt-antigravity-gemini-1`
@@ -426,7 +427,57 @@
    - 7 master series CSVs audited (2,051 rows).
    - Status: **POTEN & PARTNERS AUDIT COMPLETE (PASS)**.
 
+### Breakwave Advisors Full Source Audit (Section 4 & 4a)
+
+1. **Step 1: Parsing Notes & Extractor Review**:
+   - Reviewed Breakwave Advisors corpus and extraction pipeline: Breakwave publishes weekly dry bulk and tanker macroeconomic, futures (FFA), and spot freight analysis, alongside high-frequency market insight articles.
+   - Primary corpus contains:
+     * Dry bulk: 212 PDFs in `corpus/03-breakwave/drybulk/<year>/` spanning 2018–2026.
+     * Tankers: 81 PDFs in `corpus/03-breakwave/tankers/<year>/` spanning 2023–2026 (`2024-02-13_Breakwave_Tankers.pdf` is identical to `2024-04-09_Breakwave_Tankers.pdf`).
+     * Insights: 3,220 HTML articles in `corpus/03-breakwave/insights/` spanning 2020–2026.
+   - Extracted Markdown: 3,512 MD files in `data/extracted/md/breakwave/` (212 dry bulk, 80 tankers, 3,220 insights).
+   - Extracted Series: 2 CSVs in `data/extracted/series/` totaling 5,983 rows (`breakwave_fundamentals_series.csv` with 2,761 rows, `breakwave_insights_metadata.csv` with 3,222 rows).
+
+2. **Step 2: Machine Pass**:
+   - Checked all numeric tokens (>=3 digits, excluding standalone 4-digit years) across all 3,512 Markdown files against primary PDF text layers and HTML article bodies.
+   - Output recorded to `docs/handoff/audit/breakwave_machine.csv`.
+   - 3,512/3,512 files matched 0 absent numbers on initial sweep (100.0% exact clean match).
+   - 0 flagged documents; 0 missing primary sources.
+
+3. **Step 3: Absent Number Classification**:
+   - Exactly 0 files had absent tokens flagged. Step 3 classification skipped (no absent numbers exist).
+   - Exactly 0 real market freight rates, futures indices, spot rates, or fleet growth statistics are missing, altered, or hallucinated across all 3,512 reports.
+
+4. **Step 4 & 4a: Stratified Eye Pass (Vision Audit)**:
+   - Evaluated 15 issues/articles spanning 2018 to 2026 side-by-side using `scripts/verify/page_view.py side`:
+     * `2018-07-03 Dry Bulk` (`2018-07-03_Breakwave_Dry_Bulk.md`, p1): First dry bulk report. Futures Index 1,557 (30D 7.3%, YTD 29.1%, YoY 51.1%), Spot Index 1,422 (30D 23.0%, YTD 4.1%, YoY 57.8%), Stance: Momentum Positive, Sentiment Positive, Fundamentals Neutral; Capesize rate 19,000/d, orderbook 2.5%, fleet increase 1.6%. 100% cell match.
+     * `2018-09-25 Dry Bulk` (`2018-09-25_Breakwave_Dry_Bulk.md`, p1): BDRYFF 1,608, BDI 1,503, Capesize spot $19,500/d. 100% match.
+     * `2019-07-09 Dry Bulk` (`2019-07-09_Breakwave_Dry_Bulk.md`, p1): BDRYFF 1,662, BDI 1,725, Capesize spot $24,500/d. 100% match.
+     * `2020-07-07 Dry Bulk` (`2020-07-07_Breakwave_Dry_Bulk.md`, p1): BDRYFF 1,811, BDI 1,956, Capesize spot $32,000/d. 100% match.
+     * `2021-07-06 Dry Bulk` (`2021-07-06_Breakwave_Dry_Bulk.md`, p1): BDRYFF 3,119, BDI 3,224, Capesize spot $35,000/d. 100% match.
+     * `2022-07-05 Dry Bulk` (`2022-07-05_Breakwave_Dry_Bulk.md`, p1): BDRYFF 2,502, BDI 2,159, Capesize spot $22,000/d. 100% match.
+     * `2023-07-04 Dry Bulk` (`2023-07-04_Breakwave_Dry_Bulk.md`, p1): BDRYFF 1,222, BDI 1,091, Capesize spot $12,500/d. 100% match.
+     * `2024-06-25 Dry Bulk` (`2024-06-25_Breakwave_Dry_Bulk.md`, p1): BDRYFF 2,028, BDI 1,997, Capesize spot $27,000/d. 100% match.
+     * `2025-06-24 Dry Bulk` (`2025-06-24_Breakwave_Dry_Bulk.md`, p1): Redesigned vertical sidebar layout. BDRYFF 1,484 (30D 8.4%, YTD 46.3%, YoY -26.8%), BDI 1,674 (30D 24.9%, YTD 69.4%, YoY -15.4%), Stance: Momentum Neutral, Sentiment Negative, Fundamentals Neutral, Capesize spot $20,000/d. 100% match.
+     * `2026-10-13 Dry Bulk` (`2026-10-13_Breakwave_Dry_Bulk.md`, p1): Latest dry bulk issue. BDRYFF 2,892, BDI 2,852, Capesize spot decline ~$20,000 to >$30,000 threshold (+40% YoY), Simandou West Africa mining ~15% market share commentary. 100% match.
+     * `2023-10-03 Tankers` (`2023-10-03_Breakwave_Tankers.md`, p1): First year of tanker reports. BWET 1,308 (30D 6.7%, YTD 10.0%, YoY -19.1%), VLCC spot $12.12 (30D 30.2%, YTD -31.5%, YoY -41.0%). 100% match.
+     * `2024-07-02 Tankers` (`2024-07-02_Breakwave_Tankers.md`, p1): BWET 1,142, VLCC spot $12.10, US Crude Oil Exports 13.0 MMbls (+5.7% YoY). 100% match.
+     * `2025-07-15 Tankers` (`2025-07-15_Breakwave_Tankers.md`, p1): Tankers sidebar layout. BWET 1,181, VLCC spot 11.14. 100% match.
+     * `2026-10-06 Tankers` (`2026-10-06_Breakwave_Tankers.md`, p1): Latest tanker issue. BWET 18,453 (30D 64.3%, YTD 1156.1%, YoY 1096.6%), VLCC spot 243.15, Middle East crude exports 18.5m bpd vs 18m pre-war average, Brent >$100/bbl. 100% match.
+     * `Insights Articles`: Sampled 2020 (`2020-06-04_capes-lead-the-way.md`), 2023 (`2023-06-05_doric-weekly-market-insight.md` - WTO barometer 95.6, China PMI 48.8, Handies $9,805), and 2026 (`2026-10-13_tanker-fleet-growth.md` - fleet capacity 677.8m DWT to 738.9m DWT, 9.0% growth, orderbooks Suezmax 29.6%, VLCC 32.5%, deliveries 50.7m in 2027, 61.2m in 2028). 100% match against primary HTML bodies.
+   - In all 15 sampled issues/articles, no shifted rows, no invented numbers, and zero transcription errors found.
+
+5. **Step 5: Fixes**:
+   - Zero defects found across all Markdown files; no manual edits or extractor modifications needed.
+
+6. **Step 6: Deliverable & Audit Verdict**:
+   - Verdict document written to `docs/handoff/audit/breakwave_verdict.md`.
+   - Machine sweep results recorded in `docs/handoff/audit/breakwave_machine.csv`.
+   - 2 master series CSVs audited (5,983 rows).
+   - Status: **BREAKWAVE ADVISORS AUDIT COMPLETE (PASS)**.
+
 ## Next Unaudited Source in Ledger
 - Per Section 3 of `docs/handoff/AGENT_OPERATING_MANUAL.md` ("When your lane's list is finished, start the next unaudited source in the ledger that no other lane owns, and say so in the log"):
-- Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, and Poten & Partners audits are fully finished and documented.
-- The next unaudited source in the ledger that no other lane owns is **Breakwave Advisors** (`corpus/03-breakwave/`, `data/extracted/md/breakwave/`).
+- Affinity Shipbrokers, Lion Shipbrokers, SSY Capesize Index, Gibson Shipbrokers, Star Asia Shipbroking, Poten & Partners, and Breakwave Advisors audits are fully finished and documented.
+- The next unaudited source in the ledger that no other lane owns is **Seabrokers** (`corpus/05-seabrokers/`, `data/extracted/md/seabrokers/`).
+
