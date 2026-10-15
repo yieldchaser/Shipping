@@ -2,18 +2,18 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2934,
-      "untracked_bytes": 2297883970
+      "untracked_files": 2933,
+      "untracked_bytes": 2297417240
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4066,
-      "untracked_bytes": 2394411085
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 13,
-      "untracked_bytes": 2291698
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -6976,11 +6976,6 @@
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W40_Fearnleys-Weekly-Report-_-Fearnpulse.pdf",
       "bytes": 463756,
       "sha256": "62cf00a3cc089f203f0f78bba113eae955cc570863e8e86f31ab61a0f3909015"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W42_Fearnleys-Weekly-Report-_-Fearnpulse-1.pdf",
-      "bytes": 466730,
-      "sha256": "9fe5c43bf8a9e530d59964dfb3ebd95e0da6c29e55a70161a6c07fe70e435db3"
     },
     {
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_24_09_2026_fearnleys_week_39_2026.pdf",
@@ -20178,29 +20173,9 @@
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
     },
     {
-      "path": "corpus/02-hellenic/dry_charter/2026/2026-10-14_weekly-dry-time-charter-estimates-october-14-2026.html",
-      "bytes": 2631,
-      "sha256": "3782823bebebfde037d0e4109536086c8daa81389aefbe8afb12eff509e5c556"
-    },
-    {
-      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-10-14_weekly-dry-time-charter-estimates-october-14-2026_1410dry_905a3074381d.png",
-      "bytes": 1351194,
-      "sha256": "f00ad9aacff704a3bff2571fba9624c963bb7c2c299f9f47f02b50236bcb3de3"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-15_mmi-daily-iron-ore-index-report-october-15-2026.html",
-      "bytes": 4497,
-      "sha256": "4f3ae0f6823eba8d972c5c6f91d581e0208ee95609448e2e0a2e3010e8965c79"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-15_mmi-daily-iron-ore-index-report-october-15-2026_15102026chinese345_b74ff9e7c778.jpg",
-      "bytes": 170050,
-      "sha256": "7fb9ff557a647d6921c1aa2e8e88eba7743fdaf461f67a144002c871d7971046"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30198,11 +30173,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-15_mmi-daily-iron-ore-index-report-october-15-2026_mmi-daily-iron-ore-report-for-15th-o_befd1e4a651d.pdf",
-      "bytes": 1184987,
-      "sha256": "ccf915dde99f924f630d63b28578d630d8bc442adfd05123f6c153309529a572"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31591,11 +31561,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-15_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-15th-October-2026.pdf",
-      "bytes": 1184987,
-      "sha256": "ccf915dde99f924f630d63b28578d630d8bc442adfd05123f6c153309529a572"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35028,34 +34993,9 @@
       "sha256": "5c5179782527d5b5d012add55657c36a653c42ef6af6b1216b205122d751e410"
     },
     {
-      "path": "corpus/02-hellenic/tanker_charter/2026/2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026.html",
-      "bytes": 2658,
-      "sha256": "52dfc2bd9eb0193a1850607aa1d1c6fd0e68e2823c83109caf6823bd86cf7b82"
-    },
-    {
-      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026_1410tanker_9d17a583b066.png",
-      "bytes": 1399111,
-      "sha256": "e4fbc46b62809d36df2b0e8f53881a88aefa09749f8c77b7be13708e3266a766"
-    },
-    {
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
       "bytes": 52460,
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
-    },
-    {
-      "path": "corpus/02-hellenic/vessel_valuations/2026/2026-10-14_weekly-vessel-valuations-report-october-13-2026.html",
-      "bytes": 2801,
-      "sha256": "fe7ea020ef6787f5a0d2c8d012d3b205eb9eabed143e3fa9f163954a65496b1b"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-15_gold-slumps-as-higher-inflation-boosts-rate-hike-expectations.html",
-      "bytes": 7356,
-      "sha256": "d0df1044eca2b0dce90b354e96240b37ca40900c7addd532b01bb565b1bc7c58"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-15_gold-slumps-as-higher-inflation-boosts-rate-hike-expectations.md",
-      "bytes": 6380,
-      "sha256": "fdbfaa1bf867468374b2b3a5aad424ff6b023dfe56a68747c681230248b5d55a"
     },
     {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
@@ -35101,16 +35041,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-15_gold-slumps-as-higher-inflation-boosts-rate-hike-expectations_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_636dc215cab3.png",
-      "bytes": 145809,
-      "sha256": "d321f392c614dc567a691960fecd8d0005d8d4842cc9c96494ab95d64241e53c"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-15_gold-slumps-as-higher-inflation-boosts-rate-hike-expectations_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e96d1649273.png",
-      "bytes": 96167,
-      "sha256": "562025fa134b90e7e4ea9bbab02b50f42cc4cdc43f98da984d2916f11c9691f3"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
