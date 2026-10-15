@@ -848,8 +848,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-09-15,37,2019,AUHPT,port458,Hay Point,Australia,Dry Bulk,29.0,13.0,29.0,21.12,4.55,1.73,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2019-09-22,38,2019,AUHPT,port458,Hay Point,Australia,Dry Bulk,23.0,19.0,32.0,24.75,4.2,-0.42,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-29,39,2019,AUHPT,port458,Hay Point,Australia,Dry Bulk,18.0,17.0,28.0,22.0,3.66,-1.09,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-10-06,40,2019,AUHPT,port458,Hay Point,Australia,Dry Bulk,24.0,14.0,24.0,19.62,3.5,1.25,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-10-13,41,2019,AUHPT,port458,Hay Point,Australia,Dry Bulk,21.0,19.0,22.0,20.43,1.13,0.5,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-10-06,40,2019,AUHPT,port458,Hay Point,Australia,Dry Bulk,24.0,14.0,24.0,20.38,3.5,1.03,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-10-13,41,2019,AUHPT,port458,Hay Point,Australia,Dry Bulk,21.0,11.0,22.0,19.25,3.49,0.5,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-20,42,2019,AUHPT,port458,Hay Point,Australia,Dry Bulk,21.0,16.0,22.0,19.29,2.14,0.8,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-27,43,2019,AUHPT,port458,Hay Point,Australia,Dry Bulk,20.0,15.0,22.0,18.57,2.99,0.48,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-11-03,44,2019,AUHPT,port458,Hay Point,Australia,Dry Bulk,19.0,9.0,23.0,17.57,4.47,0.32,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -900,8 +900,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-09-13,37,2020,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,13.0,29.0,21.12,4.55,0.19,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-20,38,2020,AUHPT,port458,Hay Point,Australia,Dry Bulk,19.0,19.0,32.0,24.75,4.2,-1.37,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-27,39,2020,AUHPT,port458,Hay Point,Australia,Dry Bulk,25.0,17.0,28.0,22.0,3.66,0.82,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-10-04,40,2020,AUHPT,port458,Hay Point,Australia,Dry Bulk,20.0,14.0,24.0,19.62,3.5,0.11,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-10-11,41,2020,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,19.0,22.0,20.43,1.13,1.39,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-10-04,40,2020,AUHPT,port458,Hay Point,Australia,Dry Bulk,20.0,14.0,24.0,20.38,3.5,-0.11,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-10-11,41,2020,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,11.0,22.0,19.25,3.49,0.79,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-10-18,42,2020,AUHPT,port458,Hay Point,Australia,Dry Bulk,20.0,16.0,22.0,19.29,2.14,0.33,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-10-25,43,2020,AUHPT,port458,Hay Point,Australia,Dry Bulk,15.0,15.0,22.0,18.57,2.99,-1.19,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-11-01,44,2020,AUHPT,port458,Hay Point,Australia,Dry Bulk,15.0,9.0,23.0,17.57,4.47,-0.57,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -953,8 +953,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-09-19,37,2021,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,13.0,29.0,21.12,4.55,0.19,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-26,38,2021,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,19.0,32.0,24.75,4.2,-0.65,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-03,39,2021,AUHPT,port458,Hay Point,Australia,Dry Bulk,20.0,17.0,28.0,22.0,3.66,-0.55,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-10-10,40,2021,AUHPT,port458,Hay Point,Australia,Dry Bulk,18.0,14.0,24.0,19.62,3.5,-0.46,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-10-17,41,2021,AUHPT,port458,Hay Point,Australia,Dry Bulk,19.0,19.0,22.0,20.43,1.13,-1.27,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-10-10,40,2021,AUHPT,port458,Hay Point,Australia,Dry Bulk,18.0,14.0,24.0,20.38,3.5,-0.68,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-10-17,41,2021,AUHPT,port458,Hay Point,Australia,Dry Bulk,19.0,11.0,22.0,19.25,3.49,-0.07,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-24,42,2021,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,16.0,22.0,19.29,2.14,1.27,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-31,43,2021,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,15.0,22.0,18.57,2.99,1.15,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-11-07,44,2021,AUHPT,port458,Hay Point,Australia,Dry Bulk,20.0,9.0,23.0,17.57,4.47,0.54,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -1005,8 +1005,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-09-18,37,2022,AUHPT,port458,Hay Point,Australia,Dry Bulk,23.0,13.0,29.0,21.12,4.55,0.41,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-25,38,2022,AUHPT,port458,Hay Point,Australia,Dry Bulk,26.0,19.0,32.0,24.75,4.2,0.3,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-02,39,2022,AUHPT,port458,Hay Point,Australia,Dry Bulk,17.0,17.0,28.0,22.0,3.66,-1.37,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-10-09,40,2022,AUHPT,port458,Hay Point,Australia,Dry Bulk,14.0,14.0,24.0,19.62,3.5,-1.61,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
-2022-10-16,41,2022,AUHPT,port458,Hay Point,Australia,Dry Bulk,21.0,19.0,22.0,20.43,1.13,0.5,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-10-09,40,2022,AUHPT,port458,Hay Point,Australia,Dry Bulk,14.0,14.0,24.0,20.38,3.5,-1.82,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2022-10-16,41,2022,AUHPT,port458,Hay Point,Australia,Dry Bulk,21.0,11.0,22.0,19.25,3.49,0.5,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-23,42,2022,AUHPT,port458,Hay Point,Australia,Dry Bulk,16.0,16.0,22.0,19.29,2.14,-1.54,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2022-10-30,43,2022,AUHPT,port458,Hay Point,Australia,Dry Bulk,19.0,15.0,22.0,18.57,2.99,0.14,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-11-06,44,2022,AUHPT,port458,Hay Point,Australia,Dry Bulk,19.0,9.0,23.0,17.57,4.47,0.32,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -1057,8 +1057,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-09-17,37,2023,AUHPT,port458,Hay Point,Australia,Dry Bulk,18.0,13.0,29.0,21.12,4.55,-0.69,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-24,38,2023,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,19.0,32.0,24.75,4.2,-0.65,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-01,39,2023,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,17.0,28.0,22.0,3.66,0.0,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-10-08,40,2023,AUHPT,port458,Hay Point,Australia,Dry Bulk,18.0,14.0,24.0,19.62,3.5,-0.46,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-10-15,41,2023,AUHPT,port458,Hay Point,Australia,Dry Bulk,19.0,19.0,22.0,20.43,1.13,-1.27,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-10-08,40,2023,AUHPT,port458,Hay Point,Australia,Dry Bulk,18.0,14.0,24.0,20.38,3.5,-0.68,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-10-15,41,2023,AUHPT,port458,Hay Point,Australia,Dry Bulk,19.0,11.0,22.0,19.25,3.49,-0.07,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-22,42,2023,AUHPT,port458,Hay Point,Australia,Dry Bulk,17.0,16.0,22.0,19.29,2.14,-1.07,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-29,43,2023,AUHPT,port458,Hay Point,Australia,Dry Bulk,15.0,15.0,22.0,18.57,2.99,-1.19,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-11-05,44,2023,AUHPT,port458,Hay Point,Australia,Dry Bulk,23.0,9.0,23.0,17.57,4.47,1.21,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -1109,8 +1109,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-09-15,37,2024,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,13.0,29.0,21.12,4.55,0.19,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-22,38,2024,AUHPT,port458,Hay Point,Australia,Dry Bulk,29.0,19.0,32.0,24.75,4.2,1.01,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-29,39,2024,AUHPT,port458,Hay Point,Australia,Dry Bulk,28.0,17.0,28.0,22.0,3.66,1.64,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
-2024-10-06,40,2024,AUHPT,port458,Hay Point,Australia,Dry Bulk,23.0,14.0,24.0,19.62,3.5,0.97,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-10-13,41,2024,AUHPT,port458,Hay Point,Australia,Dry Bulk,21.0,19.0,22.0,20.43,1.13,0.5,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-10-06,40,2024,AUHPT,port458,Hay Point,Australia,Dry Bulk,23.0,14.0,24.0,20.38,3.5,0.75,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-10-13,41,2024,AUHPT,port458,Hay Point,Australia,Dry Bulk,21.0,11.0,22.0,19.25,3.49,0.5,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-20,42,2024,AUHPT,port458,Hay Point,Australia,Dry Bulk,19.0,16.0,22.0,19.29,2.14,-0.14,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-27,43,2024,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,15.0,22.0,18.57,2.99,1.15,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-11-03,44,2024,AUHPT,port458,Hay Point,Australia,Dry Bulk,9.0,9.0,23.0,17.57,4.47,-1.92,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
@@ -1161,8 +1161,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-09-14,37,2025,AUHPT,port458,Hay Point,Australia,Dry Bulk,20.0,13.0,29.0,21.12,4.55,-0.25,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-21,38,2025,AUHPT,port458,Hay Point,Australia,Dry Bulk,32.0,19.0,32.0,24.75,4.2,1.73,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2025-09-28,39,2025,AUHPT,port458,Hay Point,Australia,Dry Bulk,24.0,17.0,28.0,22.0,3.66,0.55,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-10-05,40,2025,AUHPT,port458,Hay Point,Australia,Dry Bulk,23.0,14.0,24.0,19.62,3.5,0.97,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-10-12,41,2025,AUHPT,port458,Hay Point,Australia,Dry Bulk,20.0,19.0,22.0,20.43,1.13,-0.38,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-10-05,40,2025,AUHPT,port458,Hay Point,Australia,Dry Bulk,23.0,14.0,24.0,20.38,3.5,0.75,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-10-12,41,2025,AUHPT,port458,Hay Point,Australia,Dry Bulk,20.0,11.0,22.0,19.25,3.49,0.21,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-19,42,2025,AUHPT,port458,Hay Point,Australia,Dry Bulk,20.0,16.0,22.0,19.29,2.14,0.33,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-26,43,2025,AUHPT,port458,Hay Point,Australia,Dry Bulk,17.0,15.0,22.0,18.57,2.99,-0.53,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-11-02,44,2025,AUHPT,port458,Hay Point,Australia,Dry Bulk,18.0,9.0,23.0,17.57,4.47,0.1,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -1213,7 +1213,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-09-13,37,2026,AUHPT,port458,Hay Point,Australia,Dry Bulk,13.0,13.0,29.0,21.12,4.55,-1.78,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-09-20,38,2026,AUHPT,port458,Hay Point,Australia,Dry Bulk,25.0,19.0,32.0,24.75,4.2,0.06,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-09-27,39,2026,AUHPT,port458,Hay Point,Australia,Dry Bulk,22.0,17.0,28.0,22.0,3.66,0.0,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-10-04,40,2026,AUHPT,port458,Hay Point,Australia,Dry Bulk,17.0,14.0,24.0,19.62,3.5,-0.75,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-10-04,40,2026,AUHPT,port458,Hay Point,Australia,Dry Bulk,23.0,14.0,24.0,20.38,3.5,0.75,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-10-11,41,2026,AUHPT,port458,Hay Point,Australia,Dry Bulk,11.0,11.0,22.0,19.25,3.49,-2.36,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-01-06,1,2019,AUNCL,port816,Newcastle,Australia,Dry Bulk,30.0,23.0,45.0,36.5,6.91,-0.94,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-13,2,2019,AUNCL,port816,Newcastle,Australia,Dry Bulk,40.0,34.0,46.0,39.12,4.55,0.19,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-20,3,2019,AUNCL,port816,Newcastle,Australia,Dry Bulk,30.0,24.0,38.0,32.25,5.57,-0.4,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4088,8 +4089,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-09-15,37,2019,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,33.0,19.0,35.0,28.5,5.37,0.84,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-22,38,2019,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,21.0,17.0,33.0,25.12,5.69,-0.72,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-29,39,2019,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,31.0,21.0,31.0,26.62,3.62,1.21,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-10-06,40,2019,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,26.0,16.0,27.0,22.62,4.41,0.77,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-10-13,41,2019,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,32.0,23.0,32.0,28.14,3.53,1.09,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-10-06,40,2019,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,26.0,16.0,27.0,23.12,4.29,0.67,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-10-13,41,2019,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,32.0,19.0,32.0,27.0,4.6,1.09,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-20,42,2019,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,23.0,15.0,25.0,21.14,4.3,0.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-27,43,2019,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,22.0,16.0,35.0,24.57,6.16,-0.42,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-11-03,44,2019,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,24.0,19.0,31.0,25.0,3.92,-0.26,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4140,8 +4141,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-09-13,37,2020,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,24.0,19.0,35.0,28.5,5.37,-0.84,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-20,38,2020,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,23.0,17.0,33.0,25.12,5.69,-0.37,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-27,39,2020,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,22.0,21.0,31.0,26.62,3.62,-1.28,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-10-04,40,2020,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,27.0,16.0,27.0,22.62,4.41,0.99,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-10-11,41,2020,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,25.0,23.0,32.0,28.14,3.53,-0.89,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-10-04,40,2020,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,27.0,16.0,27.0,23.12,4.29,0.9,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-10-11,41,2020,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,25.0,19.0,32.0,27.0,4.6,-0.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-10-18,42,2020,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,24.0,15.0,25.0,21.14,4.3,0.67,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-10-25,43,2020,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,22.0,16.0,35.0,24.57,6.16,-0.42,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-11-01,44,2020,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,31.0,19.0,31.0,25.0,3.92,1.53,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
@@ -4193,8 +4194,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-09-19,37,2021,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,32.0,19.0,35.0,28.5,5.37,0.65,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-26,38,2021,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,30.0,17.0,33.0,25.12,5.69,0.86,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-03,39,2021,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,30.0,21.0,31.0,26.62,3.62,0.93,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-10-10,40,2021,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,26.0,16.0,27.0,22.62,4.41,0.77,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-10-17,41,2021,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,32.0,23.0,32.0,28.14,3.53,1.09,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-10-10,40,2021,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,26.0,16.0,27.0,23.12,4.29,0.67,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-10-17,41,2021,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,32.0,19.0,32.0,27.0,4.6,1.09,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-24,42,2021,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,25.0,15.0,25.0,21.14,4.3,0.9,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-31,43,2021,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,35.0,16.0,35.0,24.57,6.16,1.69,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2021-11-07,44,2021,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,26.0,19.0,31.0,25.0,3.92,0.26,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4245,8 +4246,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-09-18,37,2022,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,35.0,19.0,35.0,28.5,5.37,1.21,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-25,38,2022,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,33.0,17.0,33.0,25.12,5.69,1.38,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-02,39,2022,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,29.0,21.0,31.0,26.62,3.62,0.66,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-10-09,40,2022,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,16.0,16.0,27.0,22.62,4.41,-1.5,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
-2022-10-16,41,2022,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,29.0,23.0,32.0,28.14,3.53,0.24,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-10-09,40,2022,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,16.0,16.0,27.0,23.12,4.29,-1.66,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2022-10-16,41,2022,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,29.0,19.0,32.0,27.0,4.6,0.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-23,42,2022,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,24.0,15.0,25.0,21.14,4.3,0.67,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-30,43,2022,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,23.0,16.0,35.0,24.57,6.16,-0.25,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-11-06,44,2022,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,28.0,19.0,31.0,25.0,3.92,0.77,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4297,8 +4298,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-09-17,37,2023,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,30.0,19.0,35.0,28.5,5.37,0.28,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-24,38,2023,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,30.0,17.0,33.0,25.12,5.69,0.86,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-01,39,2023,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,28.0,21.0,31.0,26.62,3.62,0.38,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-10-08,40,2023,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,18.0,16.0,27.0,22.62,4.41,-1.05,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-10-15,41,2023,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,30.0,23.0,32.0,28.14,3.53,0.53,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-10-08,40,2023,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,18.0,16.0,27.0,23.12,4.29,-1.19,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-10-15,41,2023,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,30.0,19.0,32.0,27.0,4.6,0.65,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-22,42,2023,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,22.0,15.0,25.0,21.14,4.3,0.2,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-29,43,2023,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,30.0,16.0,35.0,24.57,6.16,0.88,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-11-05,44,2023,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,19.0,19.0,31.0,25.0,3.92,-1.53,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
@@ -4349,8 +4350,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-09-15,37,2024,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,25.0,19.0,35.0,28.5,5.37,-0.65,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-22,38,2024,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,17.0,17.0,33.0,25.12,5.69,-1.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-29,39,2024,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,26.0,21.0,31.0,26.62,3.62,-0.17,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-10-06,40,2024,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,27.0,16.0,27.0,22.62,4.41,0.99,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-10-13,41,2024,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,26.0,23.0,32.0,28.14,3.53,-0.61,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-10-06,40,2024,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,27.0,16.0,27.0,23.12,4.29,0.9,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-10-13,41,2024,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,26.0,19.0,32.0,27.0,4.6,-0.22,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-20,42,2024,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,15.0,15.0,25.0,21.14,4.3,-1.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-27,43,2024,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,16.0,16.0,35.0,24.57,6.16,-1.39,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-11-03,44,2024,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,25.0,19.0,31.0,25.0,3.92,0.0,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4401,8 +4402,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-09-14,37,2025,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,19.0,19.0,35.0,28.5,5.37,-1.77,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2025-09-21,38,2025,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,27.0,17.0,33.0,25.12,5.69,0.33,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-28,39,2025,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,21.0,21.0,31.0,26.62,3.62,-1.55,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
-2025-10-05,40,2025,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,21.0,16.0,27.0,22.62,4.41,-0.37,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-10-12,41,2025,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,23.0,23.0,32.0,28.14,3.53,-1.46,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-10-05,40,2025,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,21.0,16.0,27.0,23.12,4.29,-0.49,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-10-12,41,2025,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,23.0,19.0,32.0,27.0,4.6,-0.87,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-19,42,2025,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,15.0,15.0,25.0,21.14,4.3,-1.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-26,43,2025,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,24.0,16.0,35.0,24.57,6.16,-0.09,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-11-02,44,2025,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,22.0,19.0,31.0,25.0,3.92,-0.77,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4453,7 +4454,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-09-13,37,2026,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,30.0,19.0,35.0,28.5,5.37,0.28,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-09-20,38,2026,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,20.0,17.0,33.0,25.12,5.69,-0.9,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-09-27,39,2026,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,26.0,21.0,31.0,26.62,3.62,-0.17,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-10-04,40,2026,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,20.0,16.0,27.0,22.62,4.41,-0.59,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-10-04,40,2026,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,24.0,16.0,27.0,23.12,4.29,0.21,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-10-11,41,2026,CNQDG,port1069,Qingdao (Dry Bulk),China,Dry Bulk,19.0,19.0,32.0,27.0,4.6,-1.74,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-01-06,1,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,21.0,21.0,42.0,34.75,7.4,-1.86,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-01-13,2,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,32.0,29.0,41.0,33.62,3.54,-0.46,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-20,3,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,44.0,33.0,47.0,39.25,4.62,1.03,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4493,8 +4495,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-09-15,37,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,29.0,25.0,35.0,29.25,3.24,-0.08,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-22,38,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,33.0,29.0,41.0,34.62,4.75,-0.34,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-29,39,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,38.0,31.0,46.0,36.12,4.64,0.41,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-10-06,40,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,31.0,20.0,38.0,29.62,6.7,0.21,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-10-13,41,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,32.0,32.0,40.0,34.86,2.61,-1.1,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-10-06,40,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,31.0,20.0,38.0,30.38,5.88,0.11,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-10-13,41,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,32.0,19.0,40.0,32.88,6.1,-0.14,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-20,42,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,34.0,26.0,44.0,35.29,6.7,-0.19,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-27,43,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,34.0,30.0,42.0,35.0,4.24,-0.24,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-11-03,44,2019,CNRZH,port1105,Rizhao,China,Dry Bulk,24.0,19.0,36.0,29.29,5.91,-0.9,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4545,8 +4547,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-09-13,37,2020,CNRZH,port1105,Rizhao,China,Dry Bulk,35.0,25.0,35.0,29.25,3.24,1.77,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2020-09-20,38,2020,CNRZH,port1105,Rizhao,China,Dry Bulk,34.0,29.0,41.0,34.62,4.75,-0.13,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-27,39,2020,CNRZH,port1105,Rizhao,China,Dry Bulk,37.0,31.0,46.0,36.12,4.64,0.19,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-10-04,40,2020,CNRZH,port1105,Rizhao,China,Dry Bulk,38.0,20.0,38.0,29.62,6.7,1.25,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-10-11,41,2020,CNRZH,port1105,Rizhao,China,Dry Bulk,36.0,32.0,40.0,34.86,2.61,0.44,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-10-04,40,2020,CNRZH,port1105,Rizhao,China,Dry Bulk,38.0,20.0,38.0,30.38,5.88,1.3,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-10-11,41,2020,CNRZH,port1105,Rizhao,China,Dry Bulk,36.0,19.0,40.0,32.88,6.1,0.51,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-10-18,42,2020,CNRZH,port1105,Rizhao,China,Dry Bulk,44.0,26.0,44.0,35.29,6.7,1.3,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-10-25,43,2020,CNRZH,port1105,Rizhao,China,Dry Bulk,33.0,30.0,42.0,35.0,4.24,-0.47,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-11-01,44,2020,CNRZH,port1105,Rizhao,China,Dry Bulk,33.0,19.0,36.0,29.29,5.91,0.63,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4598,8 +4600,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-09-19,37,2021,CNRZH,port1105,Rizhao,China,Dry Bulk,25.0,25.0,35.0,29.25,3.24,-1.31,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-26,38,2021,CNRZH,port1105,Rizhao,China,Dry Bulk,31.0,29.0,41.0,34.62,4.75,-0.76,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-03,39,2021,CNRZH,port1105,Rizhao,China,Dry Bulk,31.0,31.0,46.0,36.12,4.64,-1.1,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-10-10,40,2021,CNRZH,port1105,Rizhao,China,Dry Bulk,20.0,20.0,38.0,29.62,6.7,-1.44,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-10-17,41,2021,CNRZH,port1105,Rizhao,China,Dry Bulk,33.0,32.0,40.0,34.86,2.61,-0.71,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-10-10,40,2021,CNRZH,port1105,Rizhao,China,Dry Bulk,20.0,20.0,38.0,30.38,5.88,-1.77,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2021-10-17,41,2021,CNRZH,port1105,Rizhao,China,Dry Bulk,33.0,19.0,40.0,32.88,6.1,0.02,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-24,42,2021,CNRZH,port1105,Rizhao,China,Dry Bulk,38.0,26.0,44.0,35.29,6.7,0.4,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-31,43,2021,CNRZH,port1105,Rizhao,China,Dry Bulk,37.0,30.0,42.0,35.0,4.24,0.47,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-11-07,44,2021,CNRZH,port1105,Rizhao,China,Dry Bulk,19.0,19.0,36.0,29.29,5.91,-1.74,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
@@ -4650,8 +4652,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-09-18,37,2022,CNRZH,port1105,Rizhao,China,Dry Bulk,27.0,25.0,35.0,29.25,3.24,-0.69,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-25,38,2022,CNRZH,port1105,Rizhao,China,Dry Bulk,41.0,29.0,41.0,34.62,4.75,1.34,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-02,39,2022,CNRZH,port1105,Rizhao,China,Dry Bulk,35.0,31.0,46.0,36.12,4.64,-0.24,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-10-09,40,2022,CNRZH,port1105,Rizhao,China,Dry Bulk,36.0,20.0,38.0,29.62,6.7,0.95,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-10-16,41,2022,CNRZH,port1105,Rizhao,China,Dry Bulk,40.0,32.0,40.0,34.86,2.61,1.97,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
+2022-10-09,40,2022,CNRZH,port1105,Rizhao,China,Dry Bulk,36.0,20.0,38.0,30.38,5.88,0.96,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-10-16,41,2022,CNRZH,port1105,Rizhao,China,Dry Bulk,40.0,19.0,40.0,32.88,6.1,1.17,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-23,42,2022,CNRZH,port1105,Rizhao,China,Dry Bulk,40.0,26.0,44.0,35.29,6.7,0.7,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-30,43,2022,CNRZH,port1105,Rizhao,China,Dry Bulk,42.0,30.0,42.0,35.0,4.24,1.65,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2022-11-06,44,2022,CNRZH,port1105,Rizhao,China,Dry Bulk,36.0,19.0,36.0,29.29,5.91,1.14,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4702,8 +4704,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-09-17,37,2023,CNRZH,port1105,Rizhao,China,Dry Bulk,26.0,25.0,35.0,29.25,3.24,-1.0,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-24,38,2023,CNRZH,port1105,Rizhao,China,Dry Bulk,40.0,29.0,41.0,34.62,4.75,1.13,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-01,39,2023,CNRZH,port1105,Rizhao,China,Dry Bulk,34.0,31.0,46.0,36.12,4.64,-0.46,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-10-08,40,2023,CNRZH,port1105,Rizhao,China,Dry Bulk,34.0,20.0,38.0,29.62,6.7,0.65,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-10-15,41,2023,CNRZH,port1105,Rizhao,China,Dry Bulk,35.0,32.0,40.0,34.86,2.61,0.05,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-10-08,40,2023,CNRZH,port1105,Rizhao,China,Dry Bulk,34.0,20.0,38.0,30.38,5.88,0.62,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-10-15,41,2023,CNRZH,port1105,Rizhao,China,Dry Bulk,35.0,19.0,40.0,32.88,6.1,0.35,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-22,42,2023,CNRZH,port1105,Rizhao,China,Dry Bulk,38.0,26.0,44.0,35.29,6.7,0.4,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-29,43,2023,CNRZH,port1105,Rizhao,China,Dry Bulk,38.0,30.0,42.0,35.0,4.24,0.71,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-11-05,44,2023,CNRZH,port1105,Rizhao,China,Dry Bulk,31.0,19.0,36.0,29.29,5.91,0.29,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4754,8 +4756,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-09-15,37,2024,CNRZH,port1105,Rizhao,China,Dry Bulk,31.0,25.0,35.0,29.25,3.24,0.54,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-22,38,2024,CNRZH,port1105,Rizhao,China,Dry Bulk,39.0,29.0,41.0,34.62,4.75,0.92,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-29,39,2024,CNRZH,port1105,Rizhao,China,Dry Bulk,46.0,31.0,46.0,36.12,4.64,2.13,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
-2024-10-06,40,2024,CNRZH,port1105,Rizhao,China,Dry Bulk,26.0,20.0,38.0,29.62,6.7,-0.54,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-10-13,41,2024,CNRZH,port1105,Rizhao,China,Dry Bulk,34.0,32.0,40.0,34.86,2.61,-0.33,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-10-06,40,2024,CNRZH,port1105,Rizhao,China,Dry Bulk,26.0,20.0,38.0,30.38,5.88,-0.74,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-10-13,41,2024,CNRZH,port1105,Rizhao,China,Dry Bulk,34.0,19.0,40.0,32.88,6.1,0.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-20,42,2024,CNRZH,port1105,Rizhao,China,Dry Bulk,26.0,26.0,44.0,35.29,6.7,-1.39,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-27,43,2024,CNRZH,port1105,Rizhao,China,Dry Bulk,31.0,30.0,42.0,35.0,4.24,-0.94,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-11-03,44,2024,CNRZH,port1105,Rizhao,China,Dry Bulk,33.0,19.0,36.0,29.29,5.91,0.63,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4806,8 +4808,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-09-14,37,2025,CNRZH,port1105,Rizhao,China,Dry Bulk,30.0,25.0,35.0,29.25,3.24,0.23,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-21,38,2025,CNRZH,port1105,Rizhao,China,Dry Bulk,29.0,29.0,41.0,34.62,4.75,-1.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-28,39,2025,CNRZH,port1105,Rizhao,China,Dry Bulk,32.0,31.0,46.0,36.12,4.64,-0.89,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-10-05,40,2025,CNRZH,port1105,Rizhao,China,Dry Bulk,31.0,20.0,38.0,29.62,6.7,0.21,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-10-12,41,2025,CNRZH,port1105,Rizhao,China,Dry Bulk,34.0,32.0,40.0,34.86,2.61,-0.33,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-10-05,40,2025,CNRZH,port1105,Rizhao,China,Dry Bulk,31.0,20.0,38.0,30.38,5.88,0.11,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-10-12,41,2025,CNRZH,port1105,Rizhao,China,Dry Bulk,34.0,19.0,40.0,32.88,6.1,0.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-19,42,2025,CNRZH,port1105,Rizhao,China,Dry Bulk,27.0,26.0,44.0,35.29,6.7,-1.24,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-26,43,2025,CNRZH,port1105,Rizhao,China,Dry Bulk,30.0,30.0,42.0,35.0,4.24,-1.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-11-02,44,2025,CNRZH,port1105,Rizhao,China,Dry Bulk,29.0,19.0,36.0,29.29,5.91,-0.05,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -4858,7 +4860,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-09-13,37,2026,CNRZH,port1105,Rizhao,China,Dry Bulk,31.0,25.0,35.0,29.25,3.24,0.54,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-09-20,38,2026,CNRZH,port1105,Rizhao,China,Dry Bulk,30.0,29.0,41.0,34.62,4.75,-0.97,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-09-27,39,2026,CNRZH,port1105,Rizhao,China,Dry Bulk,36.0,31.0,46.0,36.12,4.64,-0.03,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-10-04,40,2026,CNRZH,port1105,Rizhao,China,Dry Bulk,21.0,20.0,38.0,29.62,6.7,-1.29,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-10-04,40,2026,CNRZH,port1105,Rizhao,China,Dry Bulk,27.0,20.0,38.0,30.38,5.88,-0.57,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-10-11,41,2026,CNRZH,port1105,Rizhao,China,Dry Bulk,19.0,19.0,40.0,32.88,6.1,-2.28,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-01-06,1,2019,GNKMR,port536,Kamsar,Guinea,Dry Bulk,3.0,2.0,7.0,5.12,1.89,-1.12,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-13,2,2019,GNKMR,port536,Kamsar,Guinea,Dry Bulk,5.0,1.0,6.0,4.5,1.69,0.3,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-20,3,2019,GNKMR,port536,Kamsar,Guinea,Dry Bulk,3.0,0.0,7.0,4.38,2.33,-0.59,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12593,8 +12596,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-09-15,37,2019,JPYOK,port1417,Yokohama,Japan,LPG,82.0,42.0,82.0,54.62,11.95,2.29,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2019-09-22,38,2019,JPYOK,port1417,Yokohama,Japan,LPG,68.0,45.0,81.0,61.12,10.75,0.64,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-29,39,2019,JPYOK,port1417,Yokohama,Japan,LPG,72.0,37.0,80.0,58.38,16.34,0.83,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-10-06,40,2019,JPYOK,port1417,Yokohama,Japan,LPG,77.0,38.0,77.0,62.88,13.22,1.07,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-10-13,41,2019,JPYOK,port1417,Yokohama,Japan,LPG,43.0,43.0,72.0,53.0,10.1,-0.99,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-10-06,40,2019,JPYOK,port1417,Yokohama,Japan,LPG,77.0,49.0,77.0,64.25,10.57,1.21,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-10-13,41,2019,JPYOK,port1417,Yokohama,Japan,LPG,43.0,43.0,72.0,52.25,9.59,-0.96,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-20,42,2019,JPYOK,port1417,Yokohama,Japan,LPG,60.0,53.0,74.0,60.86,8.73,-0.1,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-27,43,2019,JPYOK,port1417,Yokohama,Japan,LPG,70.0,49.0,73.0,61.86,9.65,0.84,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-11-03,44,2019,JPYOK,port1417,Yokohama,Japan,LPG,77.0,50.0,77.0,64.57,9.43,1.32,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12645,8 +12648,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-09-13,37,2020,JPYOK,port1417,Yokohama,Japan,LPG,42.0,42.0,82.0,54.62,11.95,-1.06,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-20,38,2020,JPYOK,port1417,Yokohama,Japan,LPG,62.0,45.0,81.0,61.12,10.75,0.08,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-27,39,2020,JPYOK,port1417,Yokohama,Japan,LPG,37.0,37.0,80.0,58.38,16.34,-1.31,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-10-04,40,2020,JPYOK,port1417,Yokohama,Japan,LPG,69.0,38.0,77.0,62.88,13.22,0.46,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-10-11,41,2020,JPYOK,port1417,Yokohama,Japan,LPG,45.0,43.0,72.0,53.0,10.1,-0.79,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-10-04,40,2020,JPYOK,port1417,Yokohama,Japan,LPG,69.0,49.0,77.0,64.25,10.57,0.45,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-10-11,41,2020,JPYOK,port1417,Yokohama,Japan,LPG,45.0,43.0,72.0,52.25,9.59,-0.76,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-10-18,42,2020,JPYOK,port1417,Yokohama,Japan,LPG,53.0,53.0,74.0,60.86,8.73,-0.9,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-10-25,43,2020,JPYOK,port1417,Yokohama,Japan,LPG,58.0,49.0,73.0,61.86,9.65,-0.4,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-11-01,44,2020,JPYOK,port1417,Yokohama,Japan,LPG,50.0,50.0,77.0,64.57,9.43,-1.55,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
@@ -12698,8 +12701,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-09-19,37,2021,JPYOK,port1417,Yokohama,Japan,LPG,55.0,42.0,82.0,54.62,11.95,0.03,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-26,38,2021,JPYOK,port1417,Yokohama,Japan,LPG,63.0,45.0,81.0,61.12,10.75,0.17,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-03,39,2021,JPYOK,port1417,Yokohama,Japan,LPG,53.0,37.0,80.0,58.38,16.34,-0.33,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-10-10,40,2021,JPYOK,port1417,Yokohama,Japan,LPG,72.0,38.0,77.0,62.88,13.22,0.69,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-10-17,41,2021,JPYOK,port1417,Yokohama,Japan,LPG,72.0,43.0,72.0,53.0,10.1,1.88,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
+2021-10-10,40,2021,JPYOK,port1417,Yokohama,Japan,LPG,72.0,49.0,77.0,64.25,10.57,0.73,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-10-17,41,2021,JPYOK,port1417,Yokohama,Japan,LPG,72.0,43.0,72.0,52.25,9.59,2.06,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2021-10-24,42,2021,JPYOK,port1417,Yokohama,Japan,LPG,72.0,53.0,74.0,60.86,8.73,1.28,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-31,43,2021,JPYOK,port1417,Yokohama,Japan,LPG,68.0,49.0,73.0,61.86,9.65,0.64,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-11-07,44,2021,JPYOK,port1417,Yokohama,Japan,LPG,73.0,50.0,77.0,64.57,9.43,0.89,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12750,8 +12753,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-09-18,37,2022,JPYOK,port1417,Yokohama,Japan,LPG,52.0,42.0,82.0,54.62,11.95,-0.22,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-25,38,2022,JPYOK,port1417,Yokohama,Japan,LPG,54.0,45.0,81.0,61.12,10.75,-0.66,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-02,39,2022,JPYOK,port1417,Yokohama,Japan,LPG,80.0,37.0,80.0,58.38,16.34,1.32,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-10-09,40,2022,JPYOK,port1417,Yokohama,Japan,LPG,67.0,38.0,77.0,62.88,13.22,0.31,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-10-16,41,2022,JPYOK,port1417,Yokohama,Japan,LPG,54.0,43.0,72.0,53.0,10.1,0.1,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-10-09,40,2022,JPYOK,port1417,Yokohama,Japan,LPG,67.0,49.0,77.0,64.25,10.57,0.26,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-10-16,41,2022,JPYOK,port1417,Yokohama,Japan,LPG,54.0,43.0,72.0,52.25,9.59,0.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-23,42,2022,JPYOK,port1417,Yokohama,Japan,LPG,54.0,53.0,74.0,60.86,8.73,-0.79,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-30,43,2022,JPYOK,port1417,Yokohama,Japan,LPG,65.0,49.0,73.0,61.86,9.65,0.33,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-11-06,44,2022,JPYOK,port1417,Yokohama,Japan,LPG,68.0,50.0,77.0,64.57,9.43,0.36,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12802,8 +12805,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-09-17,37,2023,JPYOK,port1417,Yokohama,Japan,LPG,55.0,42.0,82.0,54.62,11.95,0.03,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-24,38,2023,JPYOK,port1417,Yokohama,Japan,LPG,81.0,45.0,81.0,61.12,10.75,1.85,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2023-10-01,39,2023,JPYOK,port1417,Yokohama,Japan,LPG,79.0,37.0,80.0,58.38,16.34,1.26,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-10-08,40,2023,JPYOK,port1417,Yokohama,Japan,LPG,71.0,38.0,77.0,62.88,13.22,0.61,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-10-15,41,2023,JPYOK,port1417,Yokohama,Japan,LPG,59.0,43.0,72.0,53.0,10.1,0.59,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-10-08,40,2023,JPYOK,port1417,Yokohama,Japan,LPG,71.0,49.0,77.0,64.25,10.57,0.64,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-10-15,41,2023,JPYOK,port1417,Yokohama,Japan,LPG,59.0,43.0,72.0,52.25,9.59,0.7,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-22,42,2023,JPYOK,port1417,Yokohama,Japan,LPG,74.0,53.0,74.0,60.86,8.73,1.51,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2023-10-29,43,2023,JPYOK,port1417,Yokohama,Japan,LPG,73.0,49.0,73.0,61.86,9.65,1.15,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-11-05,44,2023,JPYOK,port1417,Yokohama,Japan,LPG,57.0,50.0,77.0,64.57,9.43,-0.8,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12854,8 +12857,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-09-15,37,2024,JPYOK,port1417,Yokohama,Japan,LPG,46.0,42.0,82.0,54.62,11.95,-0.72,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-22,38,2024,JPYOK,port1417,Yokohama,Japan,LPG,54.0,45.0,81.0,61.12,10.75,-0.66,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-29,39,2024,JPYOK,port1417,Yokohama,Japan,LPG,51.0,37.0,80.0,58.38,16.34,-0.45,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-10-06,40,2024,JPYOK,port1417,Yokohama,Japan,LPG,49.0,38.0,77.0,62.88,13.22,-1.05,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-10-13,41,2024,JPYOK,port1417,Yokohama,Japan,LPG,52.0,43.0,72.0,53.0,10.1,-0.1,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-10-06,40,2024,JPYOK,port1417,Yokohama,Japan,LPG,49.0,49.0,77.0,64.25,10.57,-1.44,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-10-13,41,2024,JPYOK,port1417,Yokohama,Japan,LPG,52.0,43.0,72.0,52.25,9.59,-0.03,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-20,42,2024,JPYOK,port1417,Yokohama,Japan,LPG,54.0,53.0,74.0,60.86,8.73,-0.79,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-27,43,2024,JPYOK,port1417,Yokohama,Japan,LPG,49.0,49.0,73.0,61.86,9.65,-1.33,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-11-03,44,2024,JPYOK,port1417,Yokohama,Japan,LPG,67.0,50.0,77.0,64.57,9.43,0.26,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12906,8 +12909,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-09-14,37,2025,JPYOK,port1417,Yokohama,Japan,LPG,53.0,42.0,82.0,54.62,11.95,-0.14,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-21,38,2025,JPYOK,port1417,Yokohama,Japan,LPG,62.0,45.0,81.0,61.12,10.75,0.08,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-28,39,2025,JPYOK,port1417,Yokohama,Japan,LPG,45.0,37.0,80.0,58.38,16.34,-0.82,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-10-05,40,2025,JPYOK,port1417,Yokohama,Japan,LPG,60.0,38.0,77.0,62.88,13.22,-0.22,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-10-12,41,2025,JPYOK,port1417,Yokohama,Japan,LPG,46.0,43.0,72.0,53.0,10.1,-0.69,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-10-05,40,2025,JPYOK,port1417,Yokohama,Japan,LPG,60.0,49.0,77.0,64.25,10.57,-0.4,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-10-12,41,2025,JPYOK,port1417,Yokohama,Japan,LPG,46.0,43.0,72.0,52.25,9.59,-0.65,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-19,42,2025,JPYOK,port1417,Yokohama,Japan,LPG,59.0,53.0,74.0,60.86,8.73,-0.21,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-26,43,2025,JPYOK,port1417,Yokohama,Japan,LPG,50.0,49.0,73.0,61.86,9.65,-1.23,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-11-02,44,2025,JPYOK,port1417,Yokohama,Japan,LPG,60.0,50.0,77.0,64.57,9.43,-0.48,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12958,7 +12961,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-09-13,37,2026,JPYOK,port1417,Yokohama,Japan,LPG,52.0,42.0,82.0,54.62,11.95,-0.22,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-09-20,38,2026,JPYOK,port1417,Yokohama,Japan,LPG,45.0,45.0,81.0,61.12,10.75,-1.5,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-09-27,39,2026,JPYOK,port1417,Yokohama,Japan,LPG,50.0,37.0,80.0,58.38,16.34,-0.51,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-10-04,40,2026,JPYOK,port1417,Yokohama,Japan,LPG,38.0,38.0,77.0,62.88,13.22,-1.88,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2026-10-04,40,2026,JPYOK,port1417,Yokohama,Japan,LPG,49.0,49.0,77.0,64.25,10.57,-1.44,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-10-11,41,2026,JPYOK,port1417,Yokohama,Japan,LPG,47.0,43.0,72.0,52.25,9.59,-0.55,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-06,1,2019,KRUSN,port1338,Ulsan (SK / E1 LPG),Korea,LPG,172.0,85.0,220.0,134.75,54.45,0.68,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-13,2,2019,KRUSN,port1338,Ulsan (SK / E1 LPG),Korea,LPG,234.0,89.0,279.0,174.25,81.43,0.73,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-20,3,2019,KRUSN,port1338,Ulsan (SK / E1 LPG),Korea,LPG,242.0,84.0,242.0,141.5,62.24,1.61,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
@@ -13404,7 +13408,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-09-22,38,2019,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,0.0,12.0,8.25,3.99,-0.31,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-29,39,2019,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,8.0,0.0,11.0,7.75,3.37,0.07,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-06,40,2019,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,0.0,12.0,7.75,3.88,0.58,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-10-13,41,2019,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,12.0,7.0,13.0,10.0,2.0,1.0,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-10-13,41,2019,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,12.0,0.0,13.0,8.75,3.99,0.81,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-20,42,2019,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,12.0,6.0,14.0,9.0,2.94,1.02,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-27,43,2019,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,11.0,7.0,11.0,8.86,1.57,1.36,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-11-03,44,2019,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,12.0,7.0,12.0,9.86,1.57,1.36,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -13456,7 +13460,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-09-20,38,2020,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,11.0,0.0,12.0,8.25,3.99,0.69,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-27,39,2020,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,11.0,0.0,11.0,7.75,3.37,0.96,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-10-04,40,2020,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,11.0,0.0,12.0,7.75,3.88,0.84,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-10-11,41,2020,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,13.0,7.0,13.0,10.0,2.0,1.5,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
+2020-10-11,41,2020,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,13.0,0.0,13.0,8.75,3.99,1.07,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-10-18,42,2020,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,14.0,6.0,14.0,9.0,2.94,1.7,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2020-10-25,43,2020,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,8.0,7.0,11.0,8.86,1.57,-0.55,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-11-01,44,2020,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,11.0,7.0,12.0,9.86,1.57,0.73,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -13509,7 +13513,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-09-26,38,2021,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,12.0,0.0,12.0,8.25,3.99,0.94,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-03,39,2021,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,8.0,0.0,11.0,7.75,3.37,0.07,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-10,40,2021,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,12.0,0.0,12.0,7.75,3.88,1.1,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-10-17,41,2021,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,7.0,13.0,10.0,2.0,0.0,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-10-17,41,2021,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,0.0,13.0,8.75,3.99,0.31,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-24,42,2021,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,6.0,14.0,9.0,2.94,-0.68,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-31,43,2021,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,9.0,7.0,11.0,8.86,1.57,0.09,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-11-07,44,2021,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,7.0,12.0,9.86,1.57,0.09,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -13561,7 +13565,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-09-25,38,2022,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,0.0,12.0,8.25,3.99,-0.31,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-02,39,2022,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,0.0,11.0,7.75,3.37,-0.22,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-09,40,2022,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,6.0,0.0,12.0,7.75,3.88,-0.45,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-10-16,41,2022,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,7.0,13.0,10.0,2.0,-1.5,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2022-10-16,41,2022,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,0.0,13.0,8.75,3.99,-0.44,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-23,42,2022,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,6.0,14.0,9.0,2.94,-0.68,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-30,43,2022,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,7.0,11.0,8.86,1.57,-1.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-11-06,44,2022,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,7.0,12.0,9.86,1.57,-1.82,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
@@ -13613,7 +13617,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-09-24,38,2023,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,0.0,12.0,8.25,3.99,0.44,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-01,39,2023,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,0.0,11.0,7.75,3.37,0.67,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-08,40,2023,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,6.0,0.0,12.0,7.75,3.88,-0.45,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-10-15,41,2023,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,7.0,13.0,10.0,2.0,0.0,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-10-15,41,2023,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,0.0,13.0,8.75,3.99,0.31,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-22,42,2023,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,9.0,6.0,14.0,9.0,2.94,0.0,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-29,43,2023,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,7.0,11.0,8.86,1.57,0.73,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-11-05,44,2023,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,7.0,12.0,9.86,1.57,0.09,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -13665,7 +13669,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-09-22,38,2024,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,12.0,0.0,12.0,8.25,3.99,0.94,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-29,39,2024,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,9.0,0.0,11.0,7.75,3.37,0.37,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-06,40,2024,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,0.0,12.0,7.75,3.88,0.58,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-10-13,41,2024,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,9.0,7.0,13.0,10.0,2.0,-0.5,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-10-13,41,2024,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,9.0,0.0,13.0,8.75,3.99,0.06,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-20,42,2024,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,6.0,6.0,14.0,9.0,2.94,-1.02,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-27,43,2024,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,7.0,11.0,8.86,1.57,0.73,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-11-03,44,2024,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,9.0,7.0,12.0,9.86,1.57,-0.55,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -13717,7 +13721,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-09-21,38,2025,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,0.0,12.0,8.25,3.99,-0.31,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-28,39,2025,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,9.0,0.0,11.0,7.75,3.37,0.37,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-05,40,2025,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,0.0,12.0,7.75,3.88,-0.19,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-10-12,41,2025,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,9.0,7.0,13.0,10.0,2.0,-0.5,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-10-12,41,2025,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,9.0,0.0,13.0,8.75,3.99,0.06,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-19,42,2025,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,8.0,6.0,14.0,9.0,2.94,-0.34,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-26,43,2025,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,7.0,7.0,11.0,8.86,1.57,-1.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-11-02,44,2025,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,10.0,7.0,12.0,9.86,1.57,0.09,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -13769,6 +13773,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-09-20,38,2026,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,0.0,0.0,12.0,8.25,3.99,-2.07,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-09-27,39,2026,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,0.0,0.0,11.0,7.75,3.37,-2.3,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-10-04,40,2026,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,0.0,0.0,12.0,7.75,3.88,-2.0,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2026-10-11,41,2026,KWMFA,port743,Mina Al Ahmadi (KPC),Kuwait,LPG,0.0,0.0,13.0,8.75,3.99,-2.19,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-01-06,1,2019,QARLF,port1090,Ras Laffan (LPG),Qatar,LPG,22.0,16.0,26.0,22.5,3.02,-0.17,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-13,2,2019,QARLF,port1090,Ras Laffan (LPG),Qatar,LPG,22.0,21.0,35.0,25.38,5.13,-0.66,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-20,3,2019,QARLF,port1090,Ras Laffan (LPG),Qatar,LPG,15.0,15.0,28.0,23.25,3.99,-2.07,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
@@ -16238,8 +16243,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-09-15,37,2019,CNQDG,port1069,Qingdao (Tankers),China,Tankers,37.0,14.0,37.0,25.88,7.22,1.54,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2019-09-22,38,2019,CNQDG,port1069,Qingdao (Tankers),China,Tankers,28.0,15.0,30.0,24.62,4.57,0.74,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-29,39,2019,CNQDG,port1069,Qingdao (Tankers),China,Tankers,40.0,17.0,40.0,27.62,7.35,1.68,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
-2019-10-06,40,2019,CNQDG,port1069,Qingdao (Tankers),China,Tankers,26.0,14.0,27.0,23.0,4.84,0.62,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-10-13,41,2019,CNQDG,port1069,Qingdao (Tankers),China,Tankers,29.0,13.0,34.0,26.0,6.93,0.43,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-10-06,40,2019,CNQDG,port1069,Qingdao (Tankers),China,Tankers,26.0,17.0,27.0,23.38,4.1,0.64,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-10-13,41,2019,CNQDG,port1069,Qingdao (Tankers),China,Tankers,29.0,13.0,34.0,24.88,7.16,0.58,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-20,42,2019,CNQDG,port1069,Qingdao (Tankers),China,Tankers,31.0,12.0,39.0,26.0,8.49,0.59,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-10-27,43,2019,CNQDG,port1069,Qingdao (Tankers),China,Tankers,38.0,25.0,38.0,31.57,4.86,1.32,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-11-03,44,2019,CNQDG,port1069,Qingdao (Tankers),China,Tankers,32.0,23.0,34.0,28.86,4.02,0.78,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -16290,8 +16295,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-09-13,37,2020,CNQDG,port1069,Qingdao (Tankers),China,Tankers,19.0,14.0,37.0,25.88,7.22,-0.95,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-20,38,2020,CNQDG,port1069,Qingdao (Tankers),China,Tankers,26.0,15.0,30.0,24.62,4.57,0.3,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-27,39,2020,CNQDG,port1069,Qingdao (Tankers),China,Tankers,23.0,17.0,40.0,27.62,7.35,-0.63,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-10-04,40,2020,CNQDG,port1069,Qingdao (Tankers),China,Tankers,17.0,14.0,27.0,23.0,4.84,-1.24,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-10-11,41,2020,CNQDG,port1069,Qingdao (Tankers),China,Tankers,13.0,13.0,34.0,26.0,6.93,-1.88,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2020-10-04,40,2020,CNQDG,port1069,Qingdao (Tankers),China,Tankers,17.0,17.0,27.0,23.38,4.1,-1.56,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2020-10-11,41,2020,CNQDG,port1069,Qingdao (Tankers),China,Tankers,13.0,13.0,34.0,24.88,7.16,-1.66,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2020-10-18,42,2020,CNQDG,port1069,Qingdao (Tankers),China,Tankers,12.0,12.0,39.0,26.0,8.49,-1.65,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2020-10-25,43,2020,CNQDG,port1069,Qingdao (Tankers),China,Tankers,32.0,25.0,38.0,31.57,4.86,0.09,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-11-01,44,2020,CNQDG,port1069,Qingdao (Tankers),China,Tankers,26.0,23.0,34.0,28.86,4.02,-0.71,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -16343,8 +16348,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-09-19,37,2021,CNQDG,port1069,Qingdao (Tankers),China,Tankers,29.0,14.0,37.0,25.88,7.22,0.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-26,38,2021,CNQDG,port1069,Qingdao (Tankers),China,Tankers,25.0,15.0,30.0,24.62,4.57,0.08,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-03,39,2021,CNQDG,port1069,Qingdao (Tankers),China,Tankers,17.0,17.0,40.0,27.62,7.35,-1.44,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-10-10,40,2021,CNQDG,port1069,Qingdao (Tankers),China,Tankers,25.0,14.0,27.0,23.0,4.84,0.41,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-10-17,41,2021,CNQDG,port1069,Qingdao (Tankers),China,Tankers,27.0,13.0,34.0,26.0,6.93,0.14,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-10-10,40,2021,CNQDG,port1069,Qingdao (Tankers),China,Tankers,25.0,17.0,27.0,23.38,4.1,0.4,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-10-17,41,2021,CNQDG,port1069,Qingdao (Tankers),China,Tankers,27.0,13.0,34.0,24.88,7.16,0.3,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-24,42,2021,CNQDG,port1069,Qingdao (Tankers),China,Tankers,25.0,12.0,39.0,26.0,8.49,-0.12,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-31,43,2021,CNQDG,port1069,Qingdao (Tankers),China,Tankers,29.0,25.0,38.0,31.57,4.86,-0.53,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-11-07,44,2021,CNQDG,port1069,Qingdao (Tankers),China,Tankers,29.0,23.0,34.0,28.86,4.02,0.03,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -16395,8 +16400,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-09-18,37,2022,CNQDG,port1069,Qingdao (Tankers),China,Tankers,31.0,14.0,37.0,25.88,7.22,0.71,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-25,38,2022,CNQDG,port1069,Qingdao (Tankers),China,Tankers,30.0,15.0,30.0,24.62,4.57,1.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-02,39,2022,CNQDG,port1069,Qingdao (Tankers),China,Tankers,30.0,17.0,40.0,27.62,7.35,0.32,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-10-09,40,2022,CNQDG,port1069,Qingdao (Tankers),China,Tankers,27.0,14.0,27.0,23.0,4.84,0.83,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-10-16,41,2022,CNQDG,port1069,Qingdao (Tankers),China,Tankers,34.0,13.0,34.0,26.0,6.93,1.15,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-10-09,40,2022,CNQDG,port1069,Qingdao (Tankers),China,Tankers,27.0,17.0,27.0,23.38,4.1,0.88,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-10-16,41,2022,CNQDG,port1069,Qingdao (Tankers),China,Tankers,34.0,13.0,34.0,24.88,7.16,1.27,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-10-23,42,2022,CNQDG,port1069,Qingdao (Tankers),China,Tankers,39.0,12.0,39.0,26.0,8.49,1.53,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2022-10-30,43,2022,CNQDG,port1069,Qingdao (Tankers),China,Tankers,38.0,25.0,38.0,31.57,4.86,1.32,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-11-06,44,2022,CNQDG,port1069,Qingdao (Tankers),China,Tankers,34.0,23.0,34.0,28.86,4.02,1.28,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -16447,8 +16452,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-09-17,37,2023,CNQDG,port1069,Qingdao (Tankers),China,Tankers,24.0,14.0,37.0,25.88,7.22,-0.26,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-24,38,2023,CNQDG,port1069,Qingdao (Tankers),China,Tankers,23.0,15.0,30.0,24.62,4.57,-0.35,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-01,39,2023,CNQDG,port1069,Qingdao (Tankers),China,Tankers,28.0,17.0,40.0,27.62,7.35,0.05,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-10-08,40,2023,CNQDG,port1069,Qingdao (Tankers),China,Tankers,27.0,14.0,27.0,23.0,4.84,0.83,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-10-15,41,2023,CNQDG,port1069,Qingdao (Tankers),China,Tankers,21.0,13.0,34.0,26.0,6.93,-0.72,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-10-08,40,2023,CNQDG,port1069,Qingdao (Tankers),China,Tankers,27.0,17.0,27.0,23.38,4.1,0.88,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-10-15,41,2023,CNQDG,port1069,Qingdao (Tankers),China,Tankers,21.0,13.0,34.0,24.88,7.16,-0.54,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-22,42,2023,CNQDG,port1069,Qingdao (Tankers),China,Tankers,30.0,12.0,39.0,26.0,8.49,0.47,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-29,43,2023,CNQDG,port1069,Qingdao (Tankers),China,Tankers,25.0,25.0,38.0,31.57,4.86,-1.35,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-11-05,44,2023,CNQDG,port1069,Qingdao (Tankers),China,Tankers,23.0,23.0,34.0,28.86,4.02,-1.46,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -16499,8 +16504,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-09-15,37,2024,CNQDG,port1069,Qingdao (Tankers),China,Tankers,29.0,14.0,37.0,25.88,7.22,0.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-22,38,2024,CNQDG,port1069,Qingdao (Tankers),China,Tankers,27.0,15.0,30.0,24.62,4.57,0.52,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-29,39,2024,CNQDG,port1069,Qingdao (Tankers),China,Tankers,34.0,17.0,40.0,27.62,7.35,0.87,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-10-06,40,2024,CNQDG,port1069,Qingdao (Tankers),China,Tankers,24.0,14.0,27.0,23.0,4.84,0.21,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-10-13,41,2024,CNQDG,port1069,Qingdao (Tankers),China,Tankers,28.0,13.0,34.0,26.0,6.93,0.29,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-10-06,40,2024,CNQDG,port1069,Qingdao (Tankers),China,Tankers,24.0,17.0,27.0,23.38,4.1,0.15,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-10-13,41,2024,CNQDG,port1069,Qingdao (Tankers),China,Tankers,28.0,13.0,34.0,24.88,7.16,0.44,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-20,42,2024,CNQDG,port1069,Qingdao (Tankers),China,Tankers,23.0,12.0,39.0,26.0,8.49,-0.35,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-10-27,43,2024,CNQDG,port1069,Qingdao (Tankers),China,Tankers,30.0,25.0,38.0,31.57,4.86,-0.32,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-11-03,44,2024,CNQDG,port1069,Qingdao (Tankers),China,Tankers,26.0,23.0,34.0,28.86,4.02,-0.71,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -16551,8 +16556,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-09-14,37,2025,CNQDG,port1069,Qingdao (Tankers),China,Tankers,24.0,14.0,37.0,25.88,7.22,-0.26,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-21,38,2025,CNQDG,port1069,Qingdao (Tankers),China,Tankers,23.0,15.0,30.0,24.62,4.57,-0.35,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-28,39,2025,CNQDG,port1069,Qingdao (Tankers),China,Tankers,28.0,17.0,40.0,27.62,7.35,0.05,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-10-05,40,2025,CNQDG,port1069,Qingdao (Tankers),China,Tankers,24.0,14.0,27.0,23.0,4.84,0.21,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-10-12,41,2025,CNQDG,port1069,Qingdao (Tankers),China,Tankers,30.0,13.0,34.0,26.0,6.93,0.58,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-10-05,40,2025,CNQDG,port1069,Qingdao (Tankers),China,Tankers,24.0,17.0,27.0,23.38,4.1,0.15,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-10-12,41,2025,CNQDG,port1069,Qingdao (Tankers),China,Tankers,30.0,13.0,34.0,24.88,7.16,0.72,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-19,42,2025,CNQDG,port1069,Qingdao (Tankers),China,Tankers,22.0,12.0,39.0,26.0,8.49,-0.47,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-10-26,43,2025,CNQDG,port1069,Qingdao (Tankers),China,Tankers,29.0,25.0,38.0,31.57,4.86,-0.53,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-11-02,44,2025,CNQDG,port1069,Qingdao (Tankers),China,Tankers,32.0,23.0,34.0,28.86,4.02,0.78,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -16603,7 +16608,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-09-13,37,2026,CNQDG,port1069,Qingdao (Tankers),China,Tankers,14.0,14.0,37.0,25.88,7.22,-1.65,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-09-20,38,2026,CNQDG,port1069,Qingdao (Tankers),China,Tankers,15.0,15.0,30.0,24.62,4.57,-2.11,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-09-27,39,2026,CNQDG,port1069,Qingdao (Tankers),China,Tankers,21.0,17.0,40.0,27.62,7.35,-0.9,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-10-04,40,2026,CNQDG,port1069,Qingdao (Tankers),China,Tankers,14.0,14.0,27.0,23.0,4.84,-1.86,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2026-10-04,40,2026,CNQDG,port1069,Qingdao (Tankers),China,Tankers,17.0,17.0,27.0,23.38,4.1,-1.56,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2026-10-11,41,2026,CNQDG,port1069,Qingdao (Tankers),China,Tankers,17.0,13.0,34.0,24.88,7.16,-1.1,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-06,1,2019,INSIK,port1199,Sikka / Jamnagar,India,Tankers,5.0,5.0,11.0,7.75,1.98,-1.39,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-13,2,2019,INSIK,port1199,Sikka / Jamnagar,India,Tankers,7.0,6.0,13.0,9.0,2.88,-0.69,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-20,3,2019,INSIK,port1199,Sikka / Jamnagar,India,Tankers,6.0,4.0,13.0,8.25,2.71,-0.83,NORMAL,Within standard 5-year seasonal operating envelope.
