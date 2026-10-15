@@ -1,0 +1,85 @@
+{
+  "node_id": "hellenic_tanker_charter_2026-10-14_2026_10_14_weekly_tanker_time_charter_estimates_october_14_2026__root",
+  "doc_id": "hellenic_tanker_charter_2026-10-14_2026_10_14_weekly_tanker_time_charter_estimates_october_14_2026",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, October 14 2026",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, October 14 2026"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, October 14 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nLinked asset: 1410tanker.png\n\nLinked asset: 2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026_1410tanker_9d17a583b066.png\nSource asset: reports/hellenic/tanker_charter/2026/assets/2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026_1410tanker_9d17a583b066.png\n\nLinked image asset: 2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026_1410tanker_9d17a583b066.png\n\nImage metadata: PNG 1717x916 mode=RGB\n\n[structured table]\n| | AL | \\| B R | A | | | | Updated | Weds | 14/10/26 | |\n|---|---|---|---|---|---|---|---|---|---|---|\n| £ | ) | | | | | | * | | | |\n| | Shipping | Limited | | | | | Eco | tonnage with | Scrubber | fitted |\n| | | | TANKER | TIME | CHARTER ESTIMATE | | ($/pdpr) | | | |\n| | SIZE | | 1 YEAR | | 2 YEAR | | 3 YEAR * | | 5 YEAR * | |\n| | HANDY | = | 34,000 | | 28,500 | = | 23,500 | aa | 21,000 | |\n| | MR IMO3 | = | 39,000 | | 32,500 | | 27,500 | o | 26,000 | |\n| | LR1 | A | 60,000 | A | 45,000 | | 39,500 | = | 35,000 | |\n| | LR2 | A | 95,000 | = | 75,000 | = | 57,500 | | 45,000 | |\n| | AFRA (115k dwt) | A | 97,500 | = | 75,000 | | 57,500 | | 45,000 | |\n| | SUEZ | A | 170,000 | A | 95,000 | - | 85,000 | | 65,000 | |\n| | VLCC | A | 28",
+  "keywords": [
+    "handysize",
+    "vlcc",
+    "year",
+    "asset",
+    "linked",
+    "afra",
+    "charter",
+    "dwt",
+    "eco",
+    "estimate",
+    "fitted",
+    "handy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 808,
+  "source_path": "reports/hellenic/tanker_charter/2026/2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-october-14-2026",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2026-10-14_2026_10_14_weekly_tanker_time_charter_estimates_october_14_2026__s01_main",
+      "doc_id": "hellenic_tanker_charter_2026-10-14_2026_10_14_weekly_tanker_time_charter_estimates_october_14_2026",
+      "parent_id": "hellenic_tanker_charter_2026-10-14_2026_10_14_weekly_tanker_time_charter_estimates_october_14_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "asset",
+        "linked",
+        "tanker.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2026-10-14_2026_10_14_weekly_tanker_time_charter_estimates_october_14_2026__s02_linked_asset_2026_10_14_weekly_tanker_time_charter_estimates_october_14_2026_1410tanker_9d17a583b066_png",
+      "doc_id": "hellenic_tanker_charter_2026-10-14_2026_10_14_weekly_tanker_time_charter_estimates_october_14_2026",
+      "parent_id": "hellenic_tanker_charter_2026-10-14_2026_10_14_weekly_tanker_time_charter_estimates_october_14_2026__root",
+      "title": "Linked asset: 2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026_1410tanker_9d17a583b066.png",
+      "section_path": [
+        "Linked asset: 2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026_1410tanker_9d17a583b066.png"
+      ],
+      "section_path_text": "Linked asset: 2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026_1410tanker_9d17a583b066.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2026/assets/2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026_1410tanker_9d17a583b066.png\n\nLinked image asset: 2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026_1410tanker_9d17a583b066.png\n\nImage metadata: PNG 1717x916 mode=RGB\n\n[structured table]\n| | AL | \\| B R | A | | | | Updated | Weds | 14/10/26 | |\n|---|---|---|---|---|---|---|---|---|---|---|\n| £ | ) | | | | | | * | | | |\n| | Shipping | Limited | | | | | Eco | tonnage with | Scrubber | fitted |\n| | | | TANKER | TIME | CHARTER ESTIMATE | | ($/pdpr) | | | |\n| | SIZE | | 1 YEAR | | 2 YEAR | | 3 YEAR * | | 5 YEAR * | |\n| | HANDY | = | 34,000 | | 28,500 | = | 23,500 | aa | 21,000 | |\n| | MR IMO3 | = | 39,000 | | 32,500 | | 27,500 | o | 26,000 | |\n| | LR1 | A | 60,000 | A | 45,000 | | 39,500 | = | 35,000 | |\n| | LR2 | A | 95,000 | = | 75,000 | = | 57,500 | | 45,000 | |\n| | AFRA (115k dwt) | A | 97,500 | = | 75,000 | | 57,500 | | 45,000 | |\n| | SUEZ | A | 170,000 | A | 95,000 | - | 85,000 | | 65,000 | |\n| | VLCC | A | 285,000 | | | == | §=s | =a | 85,000 | |\n\n[raw ocr]\n£ ) A | | B R A Updated Weds 14/10/26\nShipping Limited * Eco tonnage with Scrubber fitted\nT",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "year",
+        "afra",
+        "asset",
+        "charter",
+        "dwt",
+        "eco"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 753,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
