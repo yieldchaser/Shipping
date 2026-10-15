@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2933,
-      "untracked_bytes": 2297417240
+      "untracked_files": 2935,
+      "untracked_bytes": 2297895233
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,6 +47,11 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/fearnleys/2026/fearnleys_15_10_2026_fearnleys_week_42_2026.md",
+      "bytes": 11263,
+      "sha256": "e410cb81ed434faad14beef7d2cac4cdcfb64b6eac2711e95bfa9827bc875a11"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -6781,6 +6786,11 @@
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf",
       "bytes": 463756,
       "sha256": "62cf00a3cc089f203f0f78bba113eae955cc570863e8e86f31ab61a0f3909015"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/2026/fearnleys_15_10_2026_fearnleys_week_42_2026.pdf",
+      "bytes": 466730,
+      "sha256": "9fe5c43bf8a9e530d59964dfb3ebd95e0da6c29e55a70161a6c07fe70e435db3"
     },
     {
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W01_Fearnleys-Weekly-Report-_-Fearnpulse.pdf",

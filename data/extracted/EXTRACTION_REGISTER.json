@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 11:53:45Z",
+  "updated_at": "2026-10-15 12:30:52Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1933,7 +1933,7 @@
     {
       "file": "fearnleys_rates_series.csv",
       "target_metric": "Tanker spot, dry bulk, gas, & 1Y T/C rates ($/day, WS)",
-      "rows": 17112,
+      "rows": 17153,
       "columns": [
         "issue_date",
         "report_week",
@@ -3516,7 +3516,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 9584,
+      "rows": 9726,
       "columns": [
         "route",
         "base",
@@ -3958,13 +3958,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 707431,
+  "total_master_stacked_rows": 707614,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 707431,
+  "total_stacked_rows": 707614,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 707736,
+  "total_rows_extracted": 707919,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 599,
     "advanced_shipping_demolition_series.csv": 2000,
@@ -4027,7 +4027,7 @@
     "drewry_ais_product_lr2_series.csv": 31,
     "drewry_opinions_metadata.csv": 552,
     "drewry_wci_series.csv": 7,
-    "fearnleys_rates_series.csv": 17112,
+    "fearnleys_rates_series.csv": 17153,
     "gibson_bunker_prices_series.csv": 1028,
     "gibson_spot_chart_daily.csv": 9240,
     "gibson_tanker_spot_series.csv": 3598,
@@ -4109,7 +4109,7 @@
     "signal_reports_metadata.csv": 449,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 9584,
+    "ssy_capesize_index_series.csv": 9726,
     "ssy_capesize_index_time_series.csv": 519,
     "ssy_capesize_series.csv": 8881,
     "ssy_route_rates_series.csv": 5190,
