@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4057,
-      "untracked_bytes": 2389108169
+      "untracked_files": 4061,
+      "untracked_bytes": 2391648447
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 20,
+      "untracked_bytes": 2572070
     },
     {
       "path": "corpus/04-poten",
@@ -34,6 +34,11 @@
       "path": "corpus/07-signal",
       "untracked_files": 298,
       "untracked_bytes": 174706385
+    },
+    {
+      "path": "corpus/08-baltic",
+      "untracked_files": 10,
+      "untracked_bytes": 46638
     },
     {
       "path": "corpus/09-ppa",
@@ -20178,6 +20183,16 @@
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-16_mmi-daily-iron-ore-index-report-october-16-2026.html",
+      "bytes": 4495,
+      "sha256": "1f90af7dd81e0600045f15b88838b20c9ce3d8c66901437326a1e2e5be8683be"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-16_mmi-daily-iron-ore-index-report-october-16-2026_16102026chinese245_ffdcc3e1cd7b.jpg",
+      "bytes": 169725,
+      "sha256": "38f4b8dd3121da089dd8e2f4de6bf2e7a0886a8268413a5890b6dafcd8a3dcb5"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
       "bytes": 1106014,
       "sha256": "b82a5abf0415bdb8da87e942ca7a69caa92b9e22ff1373ec591775898b1b0aa3"
@@ -30173,6 +30188,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-16_mmi-daily-iron-ore-index-report-october-16-2026_mmi-daily-iron-ore-report-for-16th-o_1dc6280854a0.pdf",
+      "bytes": 1183029,
+      "sha256": "773a8b36c16c0511a33ed83d0716257f3fbbedb1bb834baae0783bfc60abc097"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31561,6 +31581,11 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-16_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-16th-October-2026.pdf",
+      "bytes": 1183029,
+      "sha256": "773a8b36c16c0511a33ed83d0716257f3fbbedb1bb834baae0783bfc60abc097"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -34998,6 +35023,26 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie.html",
+      "bytes": 10032,
+      "sha256": "a38f061f268131fe81b824d06bac16b322f14a409cf63600be183e31a2c33f0e"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie.md",
+      "bytes": 9304,
+      "sha256": "2c26dc2869f3b1b6af15455aaff7013061c5892c434eabb3e398ff091d7082cb"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs.html",
+      "bytes": 5968,
+      "sha256": "974d4dd24de8754e7d619fdbc1a560b0691c7001a7c69c29680d9f3944b283cb"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs.md",
+      "bytes": 4589,
+      "sha256": "2588e7e57e54b8ac64bb5a7ce2cd6c576361edf0a7e948acee861df38fec4598"
+    },
+    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35041,6 +35086,41 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_2tow1_7386d007e555.png",
+      "bytes": 73040,
+      "sha256": "5fa8b454fa5874474a7c4fc418e75b6d132e145b6effb60921d580bf4db399c4"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_3tow2_de275ac78c48.png",
+      "bytes": 41707,
+      "sha256": "2df0831cb80026be09b02046edbc13ba556a21fdd71badaa3d907ee5dd2fe0b9"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_4tow3_3ce7371cbd92.png",
+      "bytes": 61644,
+      "sha256": "ab1b8c5677753a7cf84819be759cbc53e65f305ea27fd10bb8737cb4365e2486"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_5tow4_e0aef53c5eb9.png",
+      "bytes": 76213,
+      "sha256": "eeab43b5a35b2512a2317b4bb53e3a32791788875661a70913579e283b6ba2d1"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png",
+      "bytes": 187271,
+      "sha256": "a71e6d4f37fccf966018a1881470c6b0c2d6eb21234a5aa245a44a6f401ba0fe"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png",
+      "bytes": 29545,
+      "sha256": "549a0a72604307da6f616036dd6ceed27b4079584ebdc5a6084e78a04ce7e06c"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png",
+      "bytes": 36771,
+      "sha256": "8b5018c2e1f5eb6a3255121715aede83dd22ce67b2a201e4daad9c1eb688458d"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
@@ -43401,6 +43481,56 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
+    },
+    {
+      "path": "corpus/08-baltic/container/2026/2026-10-16_W42_container-report-week-42_container.html",
+      "bytes": 3244,
+      "sha256": "dc9cd64448eaab7ce26f5de47eb8987a880719b5fe4df791bc975d575e25340b"
+    },
+    {
+      "path": "corpus/08-baltic/container/2026/2026-10-16_W42_container-report-week-42_container.md",
+      "bytes": 2151,
+      "sha256": "d37bdd629437a20a0a24c1dd6416293bf7a34352dc121b0d3d34679461141518"
+    },
+    {
+      "path": "corpus/08-baltic/dry/2026/2026-10-16_W42_bulk-report-week-42_dry.html",
+      "bytes": 7270,
+      "sha256": "945ca6d42fc25bba97cf325be9bb8c2fbd939f5cd7c8f5f775041945e9ddab8d"
+    },
+    {
+      "path": "corpus/08-baltic/dry/2026/2026-10-16_W42_bulk-report-week-42_dry.md",
+      "bytes": 6169,
+      "sha256": "b4857a56bf3879cdd007f17f05a90cbe018f936104b9bca385728a8d9536cbc3"
+    },
+    {
+      "path": "corpus/08-baltic/gas/2026/2026-10-16_W42_gas-report-week-42_gas.html",
+      "bytes": 4249,
+      "sha256": "d08fb62cc840d0b2ef0e4f09c98792e4520205e6a919d8088aaff5bec9f209cf"
+    },
+    {
+      "path": "corpus/08-baltic/gas/2026/2026-10-16_W42_gas-report-week-42_gas.md",
+      "bytes": 3086,
+      "sha256": "d5584a89522caa1a2f6b2b72399f37393a27a5d26df1f642f6bf69575d819370"
+    },
+    {
+      "path": "corpus/08-baltic/ningbo/2026/2026-10-16_ningbo-containerised-freight-index-16102_ningbo.html",
+      "bytes": 4973,
+      "sha256": "a553650364bf94eb03fae32f2607eaf6f3470c5499822cd8d956eb9c29c5abd5"
+    },
+    {
+      "path": "corpus/08-baltic/ningbo/2026/2026-10-16_ningbo-containerised-freight-index-16102_ningbo.md",
+      "bytes": 3135,
+      "sha256": "300622e88e0bc11a3c2d3d3f3dd8ba271db47fc7679a538aade9cb1b5d096c5c"
+    },
+    {
+      "path": "corpus/08-baltic/tanker/2026/2026-10-16_W42_tanker-report-week-42_tanker.html",
+      "bytes": 6774,
+      "sha256": "b8807676258c9860441c6dd2b5cf3449dfc4c27d7f81eaa12c91cdab5c8ac44d"
+    },
+    {
+      "path": "corpus/08-baltic/tanker/2026/2026-10-16_W42_tanker-report-week-42_tanker.md",
+      "bytes": 5587,
+      "sha256": "fa74382f86cc281b9c6f08d62b6d5dd0d779fe0e0dbd46dbb3f0a85be3703147"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
