@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-15T14:09:55Z",
+  "generated_at": "2026-10-16T13:59:50Z",
   "counts": {
     "breakwave": {
       "drybulk": 212,
       "tankers": 81
     },
     "baltic": {
-      "dry": 645,
-      "tanker": 647,
-      "gas": 257,
-      "container": 137,
-      "ningbo": 548
+      "dry": 646,
+      "tanker": 648,
+      "gas": 258,
+      "container": 138,
+      "ningbo": 549
     },
     "breakwave_insights": {
-      "insights": 3223
+      "insights": 3225
     },
     "hellenic": {
       "dry_charter": 282,
       "tanker_charter": 280,
-      "iron_ore": 1216,
+      "iron_ore": 1217,
       "vessel_valuations": 274,
       "demolition": 814,
       "shipbuilding": 380

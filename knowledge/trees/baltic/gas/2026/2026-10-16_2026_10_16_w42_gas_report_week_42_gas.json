@@ -1,0 +1,90 @@
+{
+  "node_id": "baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas__root",
+  "doc_id": "baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas",
+  "parent_id": null,
+  "title": "Gas report - Week 42",
+  "section_path": [
+    "Gas report - Week 42"
+  ],
+  "section_path_text": "Gas report - Week 42",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "LNG\nThe LNG market remained under pressure this week, despite a number of cross-basin requirements emerging from both the US Gulf and West Africa. With the fixing window moving into November and early December, vessel availability continues to outweigh cargo demand, limiting the usual seasonal uplift in freight rates around this time. On the BLNG1 Australia-Japan route, rates declined by $2,700 week-on-week to settle at $27,600/day.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "australia",
+    "pacific",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "japan",
+    "gas",
+    "day.",
+    "route",
+    "declined"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 494,
+  "source_path": "reports/baltic/gas/2026/2026-10-16_W42_gas-report-week-42_gas.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas__s01_lng",
+      "doc_id": "baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas",
+      "parent_id": "baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas__root",
+      "title": "LNG",
+      "section_path": [
+        "LNG"
+      ],
+      "section_path_text": "LNG",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The LNG market remained under pressure this week, despite a number of cross-basin requirements emerging from both the US Gulf and West Africa. With the fixing window moving into November and early December, vessel availability continues to outweigh cargo demand, limiting the usual seasonal uplift in freight rates around this time.",
+      "keywords": [
+        "lng",
+        "australia",
+        "pacific",
+        "west_africa",
+        "europe",
+        "us_gulf",
+        "japan",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 276,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas__s02_lpg",
+      "doc_id": "baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas",
+      "parent_id": "baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas__root",
+      "title": "LPG",
+      "section_path": [
+        "LPG"
+      ],
+      "section_path_text": "LPG",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The LPG market cooled slightly this week following the strong gains seen the previous week, as the arbitrage narrowed and reduced further upward gains. Despite this, sentiment remains firm with the tonnage list continuing to look tight, helping to limit downside pressure on freight rates.",
+      "keywords": [
+        "lpg",
+        "gas",
+        "route",
+        "day.",
+        "tce",
+        "tonne",
+        "arbitrage",
+        "earnings"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 212,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

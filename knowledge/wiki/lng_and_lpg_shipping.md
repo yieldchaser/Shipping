@@ -4,8 +4,8 @@ categories:
 - shipbuilding
 document_count: 129
 evidence_count: 250
-generated_at: '2026-10-15T14:11:10Z'
-latest_evidence_date: '2026-10-09'
+generated_at: '2026-10-16T14:01:01Z'
+latest_evidence_date: '2026-10-16'
 page_type: topic_wiki
 related_topics:
 - tanker_market
@@ -17,33 +17,34 @@ topic_id: lng_and_lpg_shipping
 ---
 
 ## Summary
-Gas carrier market structure, LNG and LPG trade patterns, route disruptions, and vessel availability across the gas shipping complex. The current wiki page is grounded in 250 cited sections from 129 documents across baltic, hellenic. Recent evidence runs through 2026-10-09, with the strongest recurring markers being lng, lpg, gas, atlantic, spot. Primary coverage comes from categories such as gas, shipbuilding.
+Gas carrier market structure, LNG and LPG trade patterns, route disruptions, and vessel availability across the gas shipping complex. The current wiki page is grounded in 250 cited sections from 129 documents across baltic, hellenic. Recent evidence runs through 2026-10-16, with the strongest recurring markers being lng, lpg, gas, atlantic, spot. Primary coverage comes from categories such as gas, shipbuilding.
 
 ## Why It Matters
 Gas carrier market structure, LNG and LPG trade patterns, route disruptions, and vessel availability across the gas shipping complex.
 
 ## Recent Evidence
+- 2026-10-16 | baltic gas | LNG: The LNG market remained under pressure this week, despite a number of cross-basin requirements emerging from both the US Gulf and West Africa. With the fixing window moving into November and early December, vessel availability continues to outweigh cargo demand, limiting the usual seasonal uplift in freight rates around this time. [doc_id: baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas | section_id: baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas__s01_lng | pages n/a]
+- 2026-10-16 | baltic gas | LPG: The LPG market cooled slightly this week following the strong gains seen the previous week, as the arbitrage narrowed and reduced further upward gains. Despite this, sentiment remains firm with the tonnage list continuing to look tight, helping to limit downside pressure on freight rates. [doc_id: baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas | section_id: baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas__s02_lpg | pages n/a]
 - 2026-10-09 | baltic gas | LNG: The LNG market softened this week, despite an increase in spot, multi-month and longer-term requirements entering the market. While activity picked up compared to recent weeks, vessel availability continues to outweigh cargo demand, keeping pressure on freight rates across both basins. [doc_id: baltic_gas_2026-10-09_2026_10_09_w41_gas_report_week_41_gas | section_id: baltic_gas_2026-10-09_2026_10_09_w41_gas_report_week_41_gas__s01_lng | pages n/a]
 - 2026-10-09 | baltic gas | LPG: The LPG market strengthened this week, with a relatively tight tonnage list and several outstanding cargoes supporting freight rates. The widening arbitrage also added to firmer sentiment. [doc_id: baltic_gas_2026-10-09_2026_10_09_w41_gas_report_week_41_gas | section_id: baltic_gas_2026-10-09_2026_10_09_w41_gas_report_week_41_gas__s02_lpg | pages n/a]
 - 2026-10-02 | baltic gas | LNG: The LNG market experienced a mixed week, with last week's improving sentiment failing to translate into a sustained recovery in spot earnings. The Pacific market proved more resilient, supported by stronger demand and a relatively tighter vessel list. [doc_id: baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas | section_id: baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas__s01_lng | pages n/a]
 - 2026-10-02 | baltic gas | LNG: The LNG market experienced a mixed week, with last week's improving sentiment failing to translate into a sustained recovery in spot earnings. The Pacific market proved more resilient, supported by stronger demand and a relatively tighter vessel list. [doc_id: baltic_gas_2026-10-02_2026_10_02_w39_gas_report_week_40_gas | section_id: baltic_gas_2026-10-02_2026_10_02_w39_gas_report_week_40_gas__s01_lng | pages n/a]
 - 2026-10-02 | baltic gas | LPG: The LPG market remained firm this week despite a relatively quiet start, with a limited number of fixtures concluded. Vessel availability remained tight throughout the week. [doc_id: baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas | section_id: baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas__s02_lpg | pages n/a]
 - 2026-10-02 | baltic gas | LPG: The LPG market remained firm this week despite a relatively quiet start, with a limited number of fixtures concluded. Vessel availability remained tight throughout the week. [doc_id: baltic_gas_2026-10-02_2026_10_02_w39_gas_report_week_40_gas | section_id: baltic_gas_2026-10-02_2026_10_02_w39_gas_report_week_40_gas__s02_lpg | pages n/a]
-- 2026-09-29 | hellenic shipbuilding | Linked asset: 2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf: Source asset: reports/hellenic/shipbuilding/pdfs/2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf # Dry Bulk Shipping ## Bi-Weekly Industry Report ### September 29, 2026 - **What If: The Bear Case for Dry Bulk -** As we enter the seasonally strong fourth quarter, dry bulk **shipping spot rates** remain exceptionally **robust**, with full-year averages on track to reach multi-year highs. Market consensus remains firmly bullish, with **little indication of an imminent correction**, an **outlook we share** given the absence of near-term catalysts to disrupt current rate stability. [doc_id: hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026 | section_id: hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026__s02_linked_asset_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026_breakwavedryseptember292026report_e20b41a2f1b2_pdf | pages n/a]
-- 2026-09-29 | hellenic shipbuilding | Main: What If: The Bear Case for Dry Bulk - As we enter the seasonally strong fourth quarter, dry bulk shipping spot rates Source: Breakwave Advisors [doc_id: hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026 | section_id: hellenic_shipbuilding_2026-09-29_2026_09_29_breakwave_dry_bulk_shipping_report_9_29_2026__s01_main | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2025-12-19 to 2026-10-09 across 2 calendar years.
-- Most-covered years: 2026: 248, 2025: 2
+- Coverage span: 2026-01-06 to 2026-10-16 across 1 calendar years.
+- Most-covered years: 2026: 250
 - Recurring evidence markers: lng, lpg, gas, atlantic, spot, europe
 
 ## Cross-Source View
 - Source coverage: baltic: 210, hellenic: 40
 - Category coverage: gas: 210, shipbuilding: 40
-- Tone distribution: neutral: 113, constructive: 87, cautiously_bearish: 50
+- Tone distribution: neutral: 111, constructive: 89, cautiously_bearish: 50
 - Related topics: tanker_market
 
 ## Key Documents
+- 2026-10-16 | Gas report - Week 42 [doc_id: baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas | section_id: baltic_gas_2026-10-16_2026_10_16_w42_gas_report_week_42_gas__s01_lng | pages n/a]
 - 2026-10-09 | Gas report - Week 41 [doc_id: baltic_gas_2026-10-09_2026_10_09_w41_gas_report_week_41_gas | section_id: baltic_gas_2026-10-09_2026_10_09_w41_gas_report_week_41_gas__s01_lng | pages n/a]
 - 2026-10-02 | Gas report - Week 40 [doc_id: baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas | section_id: baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas__s01_lng | pages n/a]
 - 2026-10-02 | Gas report - Week 39 [doc_id: baltic_gas_2026-10-02_2026_10_02_w39_gas_report_week_40_gas | section_id: baltic_gas_2026-10-02_2026_10_02_w39_gas_report_week_40_gas__s01_lng | pages n/a]
@@ -51,7 +52,6 @@ Gas carrier market structure, LNG and LPG trade patterns, route disruptions, and
 - 2026-09-25 | Gas report - Week 39 [doc_id: baltic_gas_2026-09-25_2026_09_25_w39_gas_report_week_39_gas | section_id: baltic_gas_2026-09-25_2026_09_25_w39_gas_report_week_39_gas__s02_lpg | pages n/a]
 - 2026-09-18 | Gas report - Week 38 [doc_id: baltic_gas_2026-09-18_2026_09_18_w38_gas_report_week_38_gas | section_id: baltic_gas_2026-09-18_2026_09_18_w38_gas_report_week_38_gas__s01_lng | pages n/a]
 - 2026-09-15 | Breakwave Dry Bulk Shipping Report 9.15.2026 [doc_id: hellenic_shipbuilding_2026-09-15_2026_09_15_breakwave_dry_bulk_shipping_report_9_15_2026 | section_id: hellenic_shipbuilding_2026-09-15_2026_09_15_breakwave_dry_bulk_shipping_report_9_15_2026__s02_linked_asset_2026_09_15_breakwave_dry_bulk_shipping_report_9_15_2026_breakwavedryseptember152026report_500186c8a1cb_pdf | pages n/a]
-- 2026-09-11 | Gas report - Week 37 [doc_id: baltic_gas_2026-09-11_2026_09_11_w37_gas_report_week_37_gas | section_id: baltic_gas_2026-09-11_2026_09_11_w37_gas_report_week_37_gas__s01_lng | pages n/a]
 
 ## Related Topics
 - tanker_market

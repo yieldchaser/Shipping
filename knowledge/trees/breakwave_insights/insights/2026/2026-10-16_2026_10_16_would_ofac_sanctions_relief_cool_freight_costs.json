@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-10-16_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs__root",
+  "doc_id": "breakwave_insights_insights_2026-10-16_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs",
+  "parent_id": null,
+  "title": "Would OFAC sanctions relief cool freight costs?",
+  "section_path": [
+    "Would OFAC sanctions relief cool freight costs?"
+  ],
+  "section_path_text": "Would OFAC sanctions relief cool freight costs?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAs of the day before yesterday, US Energy Secretary Chris Wright is understood to be considering removing sanctions on all tankers in an effort to cut soaring freight costs and reduce energy inflation in the run up to the US midterm elections. Wright stressed that these ships would be used to carry ‘legal' oil only - presumably meaning no Iranian or Russian oil subject to sanctions. The US hopes these tankers can be used to get more oil out of the Mideast Gulf.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "europe",
+    "crude_oil",
+    "are",
+    "asset",
+    "image",
+    "linked",
+    "sanctioned"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1174,
+  "source_path": "reports/breakwave/2026/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/10/16/would-ofac-sanctions-relief-cool-freight-costs",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-10-16_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-10-16_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs",
+      "parent_id": "breakwave_insights_insights_2026-10-16_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As of the day before yesterday, US Energy Secretary Chris Wright is understood to be considering removing sanctions on all tankers in an effort to cut soaring freight costs and reduce energy inflation in the run up to the US midterm elections. Wright stressed that these ships would be used to carry ‘legal' oil only - presumably meaning no Iranian or Russian oil subject to sanctions.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "europe",
+        "crude_oil",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 790,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-16_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs__s02_linked_asset_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs_img_663f_image_0_1792085396183_32d43d1bbb0f_png",
+      "doc_id": "breakwave_insights_insights_2026-10-16_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs",
+      "parent_id": "breakwave_insights_insights_2026-10-16_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs__root",
+      "title": "Linked asset: 2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png",
+      "section_path": [
+        "Linked asset: 2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png"
+      ],
+      "section_path_text": "Linked asset: 2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png\n\nLinked image asset: 2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png\n\nImage metadata: PNG 720x591 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\n[No OCR text detected in linked image.]",
+      "keywords": [
+        "asset",
+        "image",
+        "linked",
+        "detected",
+        "dpi",
+        "embedded",
+        "image.",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-16_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs__s03_linked_asset_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs_img_c2d3_image_1_1792085404797_b79ed10c0dff_png",
+      "doc_id": "breakwave_insights_insights_2026-10-16_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs",
+      "parent_id": "breakwave_insights_insights_2026-10-16_2026_10_16_would_ofac_sanctions_relief_cool_freight_costs__root",
+      "title": "Linked asset: 2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png",
+      "section_path": [
+        "Linked asset: 2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png"
+      ],
+      "section_path_text": "Linked asset: 2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png\n\nLinked image asset: 2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png\n\nImage metadata: PNG 720x591 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\n[No OCR text detected in linked image.]",
+      "keywords": [
+        "asset",
+        "image",
+        "linked",
+        "detected",
+        "dpi",
+        "embedded",
+        "image.",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
