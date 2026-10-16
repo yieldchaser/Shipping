@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2934,
-      "untracked_bytes": 2297574663
+      "untracked_files": 2933,
+      "untracked_bytes": 2297417240
     },
     {
       "path": "corpus/02-hellenic",
@@ -32,8 +32,8 @@
     },
     {
       "path": "corpus/07-signal",
-      "untracked_files": 298,
-      "untracked_bytes": 174706385
+      "untracked_files": 337,
+      "untracked_bytes": 180342250
     },
     {
       "path": "corpus/09-ppa",
@@ -7606,11 +7606,6 @@
       "path": "corpus/01-brokers/gibson/2023/gibson_2023_Gibson-Shipbrokers_week-34.pdf",
       "bytes": 960664,
       "sha256": "98705825d2fed4e4dd41bb9f492a44d129f8eb0333a3d62047701191060f5f7e"
-    },
-    {
-      "path": "corpus/01-brokers/gibson/html/2026/2026-10-16_clean-slate.html",
-      "bytes": 157423,
-      "sha256": "cbca1e774573e59486677db80e2323d78c5a8bd9264ea52722bc10b26fcd501b"
     },
     {
       "path": "corpus/01-brokers/intermodal/2021/intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf",
@@ -41918,6 +41913,21 @@
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
     },
     {
+      "path": "corpus/07-signal/html/signal-acquires-lgmar.html",
+      "bytes": 122112,
+      "sha256": "344374bf1896805da05d4b9af28cccfac73401eee1d32d2f9b11ab15a1e5a0c6"
+    },
+    {
+      "path": "corpus/07-signal/html/weekly-dry-market-monitor-week-41-2026.html",
+      "bytes": 236502,
+      "sha256": "a29a63d82f151952e9f1c82a5bb5aacc8571fa37b6ce7ac861498d773b9631f2"
+    },
+    {
+      "path": "corpus/07-signal/html/weekly-tanker-market-monitor-week-41-2026.html",
+      "bytes": 229095,
+      "sha256": "3e4f97ef98e5df489dbe4e70bc45a1b8c4cfb9556db414525a295dc3e5f84f01"
+    },
+    {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
       "bytes": 298514,
       "sha256": "11bbc769a2164d34cbb31e7e4795412aeb91dc285fb7ee3376aa33bacc388c3b"
@@ -43406,6 +43416,186 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf827f36d156cdab088840_Screenshot 2026-10-14 at 14.23.34.png",
+      "bytes": 49234,
+      "sha256": "2b66595543a93965c64fc6ba0735fa2291337e9ef73577bb11ea09014f6c468b"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf82ce2864b7b4b7f40201_Screenshot 2026-10-14 at 14.23.48.png",
+      "bytes": 60398,
+      "sha256": "8441570d3ca2c5ea4b2eb018854e31a7848d985b0eda1c2619cf926ec0554484"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf82fdd4c5c096fb3901ec_Screenshot 2026-10-14 at 14.23.56.png",
+      "bytes": 100591,
+      "sha256": "49bc55d1b561d90f6d7e07275faf343cf76edbcb2ae8bbf40bd909e19ff91d84"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0c4_e0aade9b.png",
+      "bytes": 150466,
+      "sha256": "041076316209a93e11ecf7bfdfecb867f9983a2bd6dac9ce2910524eddf6e3c9"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0c7_3eb58b12.png",
+      "bytes": 93824,
+      "sha256": "4c0615267d8ee25bbe0117350001e091fc63dee1db8db3b910a974840dbb821e"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0ca_2ec5a053.png",
+      "bytes": 129961,
+      "sha256": "5db62730c34fcab6bdbb29dbe9bd4fd546d3d694e7e2b73b4269982ce4c6be1a"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0cd_def8bac1.png",
+      "bytes": 200458,
+      "sha256": "6fdbb728699a31bed9e82f174b49637694103f1f924108a00ee208fe07c2f27b"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0d0_7b83f33b.png",
+      "bytes": 193768,
+      "sha256": "e75050ef0a7fa4270d76fa43f9806fae8e7f2933a7e25b52d91c9b002bc4ccaf"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0d3_ffebf5e2.png",
+      "bytes": 71718,
+      "sha256": "ba8d8629ab2495e0251022bda141e0e26dd7121fa700943c03fecdfb4cb67cc8"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0d6_6ae5ff0c.png",
+      "bytes": 137555,
+      "sha256": "f9df7915359a576f1edcd45ca2e60f3644c2a67f4c4292b5240f9fb5bc1d10a2"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0d9_72b4cdd5.png",
+      "bytes": 163648,
+      "sha256": "48ba7eb6db8cc9cb770f63880c52069b130b6ee60e2f486e49efef85e844783f"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0dc_072db335.png",
+      "bytes": 155707,
+      "sha256": "cf4e312681ff41b624d3c766990b914e4f8f40b4668956429b24593327417cd8"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0df_145633ea.png",
+      "bytes": 182634,
+      "sha256": "5c80ced1974d7af38f84612a6760e924cad2c8380d84012cbe1e125275575ecb"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0e2_3c463b01.png",
+      "bytes": 188612,
+      "sha256": "c0d86b57d7e2dcaa447aafc5b40c1a3873c2c1ae4980940dacf13ec0c70c2ea0"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0e5_43755bf2.png",
+      "bytes": 188306,
+      "sha256": "1223f93cb2b48332d144cd3c011ad5fa863bbc038d4cc044fd5264861f16d3e9"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0e8_bf3a7c0d.png",
+      "bytes": 168609,
+      "sha256": "f38376324e6c422a4a695c18be9c3a94ba751ab70670da41bf58c3f4967c9c3e"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0eb_07e57bc0.png",
+      "bytes": 141624,
+      "sha256": "45b477003aa69b7390fd3bcc2503a82351045e67b32cd8c220b27fb8d636ab33"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0ef_b585d9b7.png",
+      "bytes": 180015,
+      "sha256": "d0a035539fba378dc2d2bdfafe59c687b6bb53c94e099e59cf34310054ef15a1"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0f2_963c36fd.png",
+      "bytes": 199477,
+      "sha256": "e973f088d1f40e635e81cdf3dee57bf99373e2d174baebb923adcd426ebb4951"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0f5_62648129.png",
+      "bytes": 128161,
+      "sha256": "9411f08af19e1d7f5f6f5a8ab8b7311d2a0b11eba7dfd0058770d9b047f8b192"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0f8_8dfc90ed.png",
+      "bytes": 178561,
+      "sha256": "b2024201cafa049ec4e0ec8cf0d66a63a6ff0c72ec1a12edd29f0caf539d5204"
+    },
+    {
+      "path": "corpus/07-signal/images/6acf83c15da195f3a193f0fb_3629ca40.png",
+      "bytes": 142065,
+      "sha256": "d4ff214787e07ada584715dafcb729ca36ac55ed4ce6a765f9fe881289a0be62"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad09db81eccfd8c4e5baf3c_Aligned-Ocean-Branding-Logos_edit_05.jpg",
+      "bytes": 151397,
+      "sha256": "3f23e52466d3b4b61b0382c96b6e0cbe0d5565e6fbc40c279d373875f759e18b"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad2140ee56e845ad972099d_Screenshot 2026-10-16 at 13.09.05.png",
+      "bytes": 50266,
+      "sha256": "e36c57ec06044ef8a5653f8c267300277efefea05e71ddcea59dc4ef4e46ab05"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad21442b6e71e957bb6a40f_Screenshot 2026-10-16 at 13.09.17.png",
+      "bytes": 102587,
+      "sha256": "f913b908255038664264f6ef61e011e049f5d706168bc6f875df4680b754b76b"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad2145ce14a351c4c380657_Screenshot 2026-10-16 at 13.09.25.png",
+      "bytes": 284196,
+      "sha256": "67af781d4ec07f7783ea9c20eeb25f04b6e68bd6d253ad9f28d80f0b0e25a9bc"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad2147690ed3299eee29d1b_Screenshot 2026-10-16 at 13.09.32.png",
+      "bytes": 96410,
+      "sha256": "8990f0792b07aab1ac3df970fcdfd91cb1060b63a01a99bdf3f5ddf8730470b7"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad214c0b6e71e957bb6e79f_5e2b3977.png",
+      "bytes": 136605,
+      "sha256": "2322112087a2a6f1377287c152182e2c6d345e7f08182f508a00e8753a9662a1"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad214c0b6e71e957bb6e7a2_cd218aaf.png",
+      "bytes": 313016,
+      "sha256": "94614befc2f874c36442ae94e57b67ca548cef360a6a232e09d2db3f6deb2df2"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad214c0b6e71e957bb6e7a5_61464ba3.png",
+      "bytes": 227538,
+      "sha256": "07254e6c5e9401564d22df022fa346727dbd4281ea0d288925ac66de85cfcb41"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad214c0b6e71e957bb6e7a9_4cbefb52.png",
+      "bytes": 155640,
+      "sha256": "70afd0895e25305c078701e2dedee531f5d38e1ddb6ea0bbe1f8aa9642d5bdce"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad214c0b6e71e957bb6e7ac_20754b43.png",
+      "bytes": 119820,
+      "sha256": "a59118f2c5d27fda8d72d0f987097fdc34ea6073f383b2f4f702bba2529557a5"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad214c0b6e71e957bb6e7af_10605e37.png",
+      "bytes": 160446,
+      "sha256": "0cfee4650ab558fd025ed4fd5b50d6a39e2f4f57d5ac3883fe7403163363f085"
+    },
+    {
+      "path": "corpus/07-signal/monitors/2026/weekly-dry-market-monitor-week-41-2026.md",
+      "bytes": 24408,
+      "sha256": "bfbf00f7ee7c6bcfe0690b5a0b846a306667056dfa49d1f214f18cd3352d676e"
+    },
+    {
+      "path": "corpus/07-signal/monitors/2026/weekly-tanker-market-monitor-week-41-2026.md",
+      "bytes": 15511,
+      "sha256": "d8831b573b2cecb0ddadaa87e656f38b57bae2d2306c68e667b550522e38d224"
+    },
+    {
+      "path": "corpus/07-signal/newsroom/2026/signal-acquires-lgmar.md",
+      "bytes": 4924,
+      "sha256": "5d64c631e8b0923063ca6dc4024de3718472eb4ee02c5d4be35cbb16bc038c65"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
