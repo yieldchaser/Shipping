@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 14:31:27Z",
+  "updated_at": "2026-10-16 19:52:16Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1562,7 +1562,7 @@
     {
       "file": "drewry_ais_chart_series.csv",
       "target_metric": "Drewry AIS chart lines read from the PDF vector paths, all 10 vessel classes (utilisation, tonne-miles, speeds, tonnage at anchor/underway/in port, % laden)",
-      "rows": 82793,
+      "rows": 83090,
       "columns": [
         "vessel_class",
         "sector",
@@ -1613,7 +1613,7 @@
     {
       "file": "drewry_ais_crude_suezmax_series.csv",
       "target_metric": "Suezmax fleet intelligence, utilisation, speed & earnings",
-      "rows": 30,
+      "rows": 31,
       "columns": [
         "published_date",
         "report_year",
@@ -1677,7 +1677,7 @@
     {
       "file": "drewry_ais_drybulk_capesize_series.csv",
       "target_metric": "Capesize fleet intelligence, utilisation, speed & earnings",
-      "rows": 27,
+      "rows": 28,
       "columns": [
         "published_date",
         "report_year",
@@ -1805,7 +1805,7 @@
     {
       "file": "drewry_ais_lpg_fr_series.csv",
       "target_metric": "LPG Fully Refrigerated fleet intelligence & trade flows",
-      "rows": 32,
+      "rows": 33,
       "columns": [
         "published_date",
         "report_year",
@@ -1901,7 +1901,7 @@
     {
       "file": "drewry_opinions_metadata.csv",
       "target_metric": "Drewry Opinions Metadata.Csv",
-      "rows": 552,
+      "rows": 555,
       "columns": [
         "issue_date",
         "year",
@@ -1917,7 +1917,7 @@
     {
       "file": "drewry_wci_series.csv",
       "target_metric": "Drewry Wci",
-      "rows": 7,
+      "rows": 8,
       "columns": [
         "date",
         "composite_index",
@@ -3214,7 +3214,7 @@
     {
       "file": "poten_opinions_metadata.csv",
       "target_metric": "Tanker Opinions 2004\u20132026 catalog and full essay metadata",
-      "rows": 1094,
+      "rows": 1095,
       "columns": [
         "issue_date",
         "year",
@@ -3958,13 +3958,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 707954,
+  "total_master_stacked_rows": 708259,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 707954,
+  "total_stacked_rows": 708259,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 708259,
+  "total_rows_extracted": 708564,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 599,
     "advanced_shipping_demolition_series.csv": 2000,
@@ -4014,19 +4014,19 @@
     "clarksons_snp_sales_series.csv": 1329,
     "compare_vs_clarksons_sales_series.csv": 0,
     "compare_vs_clarksons_snp_sales_series.csv": 393,
-    "drewry_ais_chart_series.csv": 82793,
+    "drewry_ais_chart_series.csv": 83090,
     "drewry_ais_crude_aframax_series.csv": 31,
-    "drewry_ais_crude_suezmax_series.csv": 30,
+    "drewry_ais_crude_suezmax_series.csv": 31,
     "drewry_ais_crude_vlcc_series.csv": 33,
-    "drewry_ais_drybulk_capesize_series.csv": 27,
+    "drewry_ais_drybulk_capesize_series.csv": 28,
     "drewry_ais_drybulk_handysize_series.csv": 26,
     "drewry_ais_drybulk_panamax_series.csv": 23,
     "drewry_ais_drybulk_supramax_series.csv": 23,
-    "drewry_ais_lpg_fr_series.csv": 32,
+    "drewry_ais_lpg_fr_series.csv": 33,
     "drewry_ais_product_lr1_series.csv": 35,
     "drewry_ais_product_lr2_series.csv": 31,
-    "drewry_opinions_metadata.csv": 552,
-    "drewry_wci_series.csv": 7,
+    "drewry_opinions_metadata.csv": 555,
+    "drewry_wci_series.csv": 8,
     "fearnleys_rates_series.csv": 17153,
     "gibson_bunker_prices_series.csv": 1028,
     "gibson_spot_chart_daily.csv": 9240,
@@ -4093,7 +4093,7 @@
     "poten_fixtures_series.csv": 100,
     "poten_fleet_delivery_schedule_series.csv": 36,
     "poten_fleet_statistics_series.csv": 8,
-    "poten_opinions_metadata.csv": 1094,
+    "poten_opinions_metadata.csv": 1095,
     "poten_tanker_orderbook_age_series.csv": 13,
     "poten_top_charterers_series.csv": 776,
     "poten_vlcc_historical_rates_series.csv": 24,

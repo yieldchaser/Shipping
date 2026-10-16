@@ -17,8 +17,8 @@
     },
     {
       "path": "corpus/04-poten",
-      "untracked_files": 1085,
-      "untracked_bytes": 290831542
+      "untracked_files": 1087,
+      "untracked_bytes": 291120052
     },
     {
       "path": "corpus/05-seabrokers",
@@ -27,8 +27,8 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 288,
-      "untracked_bytes": 547682493
+      "untracked_files": 295,
+      "untracked_bytes": 553003561
     },
     {
       "path": "corpus/07-signal",
@@ -35043,6 +35043,11 @@
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
     },
     {
+      "path": "corpus/04-poten/2026/poten_2026-10-11_a_tale_of_two_straits.md",
+      "bytes": 2161,
+      "sha256": "802af6c535d29d0be775198fe592336ac9a8d659f116ff462e3837d9a7d2aa3f"
+    },
+    {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
       "bytes": 101160,
       "sha256": "e5b57740021416658f4dc257269af8015b08548688b7282c7e12db11fd5c3e99"
@@ -40458,6 +40463,11 @@
       "sha256": "202d478031191d6440f62077c7a7438f88fbf2cbee6f3540c4619442a32d8e66"
     },
     {
+      "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 9 October 2026 - A Tale Of Two Straits.pdf",
+      "bytes": 286349,
+      "sha256": "4358f3214a50b708ba074c809b493297679d9dc37ff71ae53d7d875736deddd7"
+    },
+    {
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf",
       "bytes": 250765,
       "sha256": "be9e6cf30005c2f1d367eb98c2aec0a9f461d860f188d47932fc56a4c56deefa"
@@ -40518,6 +40528,11 @@
       "sha256": "d07cc4e2809630f804f77fe94a9945ce5cd8d8e68d5c51790f85f137523d9b95"
     },
     {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Suezmax_Week41_2026.pdf",
+      "bytes": 2165647,
+      "sha256": "a132b3fd5e89c90c295f23f1981d541fee3dd597e7430dd3008f9fc8dbb93753"
+    },
+    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_VLCC_Week25_2026.pdf",
       "bytes": 2027611,
       "sha256": "2a3b45c8e1d304f072215f17233e2af7d8ad6e50b490b3cabe208e410cff9bcb"
@@ -40556,6 +40571,11 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf",
       "bytes": 1611098,
       "sha256": "bb5b761e49cf3ddca1b9cdf83598b5cd43b620d2f7adeb16879706412a654f05"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Capesize_Week41_2026.pdf",
+      "bytes": 1632467,
+      "sha256": "bad25db4a791d53b653b762369557a8412e38d09ba67eca62596d07041e55e67"
     },
     {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Handysize_Week28_2026.pdf",
@@ -40631,6 +40651,11 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_LPG_FR_Week38_2026.pdf",
       "bytes": 1507164,
       "sha256": "af735474aab4579c98d42a8da88d3f9f0de163ae1d8486b138d2b5f00c8027c4"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_LPG_FR_Week41_2026.pdf",
+      "bytes": 1516570,
+      "sha256": "48cbe139e5ac9eb088e116f9cecfd94d131ed7d8dff2860a22dcd34af210f806"
     },
     {
       "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week01_20251.pdf",
@@ -41911,6 +41936,26 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-10-13_drewry-maritime-equity-indices-13-october-2026.md",
+      "bytes": 2595,
+      "sha256": "45067feb8a4b23094b112f89e556e1321cacdd67d2055fe7bfb499d6b423800c"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-10-14_ports-terminals-financial-insight-october-2026.md",
+      "bytes": 1686,
+      "sha256": "384da6fccf63c2a61aafb3e5e385e3c245210aff30a93a4b950f9b9672be69e8"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-10-15_drewry_wci.md",
+      "bytes": 1389,
+      "sha256": "323902a30ba389945b58bf81ec8538592bae69ee836b6606fb09d9e383e4bcf2"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/_manifest.csv",
+      "bytes": 714,
+      "sha256": "4f85066ff7b8397e8ca0ca6848348271f044f8173732283458830e76bf0ceaf7"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",

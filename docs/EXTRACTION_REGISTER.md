@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (708,259 Total Rows across 167 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (708,564 Total Rows across 167 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -81,19 +81,19 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [clarksons_snp_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/clarksons_snp_sales_series.csv) | Clarksons Platou Hellas secondhand bulker & tanker sales (2021–2026) | 1,329 | Verified |
 | [compare_vs_clarksons_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/compare_vs_clarksons_sales_series.csv) | Compare Vs Clarksons Sales historical structured dataset | 0 | Verified |
 | [compare_vs_clarksons_snp_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/compare_vs_clarksons_snp_sales_series.csv) | Compare Vs Clarksons Snp Sales historical structured dataset | 393 | Verified |
-| [drewry_ais_chart_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_chart_series.csv) | Drewry AIS chart lines read from the PDF vector paths, all 10 vessel classes (utilisation, tonne-miles, speeds, tonnage at anchor/underway/in port, % laden) | 82,793 | Verified |
+| [drewry_ais_chart_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_chart_series.csv) | Drewry AIS chart lines read from the PDF vector paths, all 10 vessel classes (utilisation, tonne-miles, speeds, tonnage at anchor/underway/in port, % laden) | 83,090 | Verified |
 | [drewry_ais_crude_aframax_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_crude_aframax_series.csv) | Aframax fleet intelligence, utilisation, speed & earnings | 31 | Verified |
-| [drewry_ais_crude_suezmax_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_crude_suezmax_series.csv) | Suezmax fleet intelligence, utilisation, speed & earnings | 30 | Verified |
+| [drewry_ais_crude_suezmax_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_crude_suezmax_series.csv) | Suezmax fleet intelligence, utilisation, speed & earnings | 31 | Verified |
 | [drewry_ais_crude_vlcc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_crude_vlcc_series.csv) | VLCC fleet intelligence, utilisation, speed & earnings | 33 | Verified |
-| [drewry_ais_drybulk_capesize_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_drybulk_capesize_series.csv) | Capesize fleet intelligence, utilisation, speed & earnings | 27 | Verified |
+| [drewry_ais_drybulk_capesize_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_drybulk_capesize_series.csv) | Capesize fleet intelligence, utilisation, speed & earnings | 28 | Verified |
 | [drewry_ais_drybulk_handysize_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_drybulk_handysize_series.csv) | Handysize fleet intelligence, utilisation, speed & earnings | 26 | Verified |
 | [drewry_ais_drybulk_panamax_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_drybulk_panamax_series.csv) | Panamax fleet intelligence, utilisation, speed & earnings | 23 | Verified |
 | [drewry_ais_drybulk_supramax_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_drybulk_supramax_series.csv) | Supramax fleet intelligence, utilisation, speed & earnings | 23 | Verified |
-| [drewry_ais_lpg_fr_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_lpg_fr_series.csv) | LPG Fully Refrigerated fleet intelligence & trade flows | 32 | Verified |
+| [drewry_ais_lpg_fr_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_lpg_fr_series.csv) | LPG Fully Refrigerated fleet intelligence & trade flows | 33 | Verified |
 | [drewry_ais_product_lr1_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_product_lr1_series.csv) | LR1 Product tanker fleet intelligence & earnings | 35 | Verified |
 | [drewry_ais_product_lr2_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_product_lr2_series.csv) | LR2 Product tanker fleet intelligence & earnings | 31 | Verified |
-| [drewry_opinions_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_opinions_metadata.csv) |  | 552 | Verified |
-| [drewry_wci_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_wci_series.csv) |  | 7 | Verified |
+| [drewry_opinions_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_opinions_metadata.csv) |  | 555 | Verified |
+| [drewry_wci_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_wci_series.csv) |  | 8 | Verified |
 | [fearnleys_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_rates_series.csv) | Tanker spot, dry bulk, gas, & 1Y T/C rates ($/day, WS) | 17,153 | Verified |
 | [gibson_bunker_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_bunker_prices_series.csv) |  | 1,028 | Verified |
 | [gibson_spot_chart_daily.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_spot_chart_daily.csv) | Gibson Spot Chart Daily.Csv historical structured dataset | 9,240 | Verified |
@@ -160,7 +160,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [poten_fixtures_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/poten_fixtures_series.csv) | Annual spot fixture volumes by vessel class | 100 | Verified |
 | [poten_fleet_delivery_schedule_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/poten_fleet_delivery_schedule_series.csv) |  | 36 | Verified |
 | [poten_fleet_statistics_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/poten_fleet_statistics_series.csv) |  | 8 | Verified |
-| [poten_opinions_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/poten_opinions_metadata.csv) | Tanker Opinions 2004–2026 catalog and full essay metadata | 1,094 | Verified |
+| [poten_opinions_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/poten_opinions_metadata.csv) | Tanker Opinions 2004–2026 catalog and full essay metadata | 1,095 | Verified |
 | [poten_tanker_orderbook_age_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/poten_tanker_orderbook_age_series.csv) |  | 13 | Verified |
 | [poten_top_charterers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/poten_top_charterers_series.csv) | Top Spot Charterers annual and midterm rankings (2004–2026) | 776 | Verified |
 | [poten_vlcc_historical_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/poten_vlcc_historical_rates_series.csv) |  | 24 | Verified |
@@ -202,7 +202,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,593 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (167 CSVs + 1 Master Workbook)** | **708,259** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (167 CSVs + 1 Master Workbook)** | **708,564** | **100.0% Pass** |
 
 ---
 

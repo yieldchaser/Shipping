@@ -1,0 +1,34 @@
+{
+  "issue_date": "2026-10-09",
+  "year": 2026,
+  "title": "A Tale Of Two Straits",
+  "source_file": "corpus/04-poten/pdfs/2026/Weekly Opinion - 9 October 2026 - A Tale Of Two Straits.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2026-10-09_a-tale-of-two-straits_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart1.png",
+      "abs_path": "/home/runner/work/Shipping/Shipping/data/extracted/charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart1.png",
+      "width": 945,
+      "height": 527
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2026-10-09_a-tale-of-two-straits_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart2.png",
+      "abs_path": "/home/runner/work/Shipping/Shipping/data/extracted/charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart2.png",
+      "width": 939,
+      "height": 525
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}
