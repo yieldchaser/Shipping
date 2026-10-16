@@ -6,7 +6,7 @@ week: 36
 date_range: "2020-09-01 to 2020-09-03"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-16 12:33:57"
+generated_at: "2026-10-16 20:02:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 36, 2020

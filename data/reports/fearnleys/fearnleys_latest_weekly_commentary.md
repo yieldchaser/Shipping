@@ -3,14 +3,14 @@ title: "Fearnleys Weekly Broker Commentary - Week 42, 2026"
 source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 42
-date_range: "2026-10-14 to 2026-10-14"
-comments_count: 8
+date_range: "2026-10-14 to 2026-10-16"
+comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-16 12:34:03"
+generated_at: "2026-10-16 20:02:52"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 42, 2026
-*Coverage Period: 2026-10-14 to 2026-10-14 | Total Notes: 8*
+*Coverage Period: 2026-10-14 to 2026-10-16 | Total Notes: 9*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 42 (2026).
@@ -77,6 +77,15 @@ The situation in the Middle East has slipped from the headlines due to a lack ma
 ---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
+### SnP Weekly Comment
+**Date:** 2026-10-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+Despite a more subdued week in general, the tanker market continues to hit new highs. With rates where they are, sellers need to offer the promptest delivery possible in order to maximise their price achieved, which is exactly what happened with scrubber fitted ZOUZOU N. (149k dwt New Times 2010) sold at USD 103M. This unit was being marketed with a targeted 10-day delivery in the PG, so one can safely assume this is the absolute maximum a 16-year-old suezmax can command on the second-hand market…for now. A sensational price was realised for 22-year-old VLCC SOUTHERN EMPEROR (297k dwt Dalian 2004), which had been used for storage up to this point, but such is the demand for Vs at the moment she was delivered promptly certified ready to trade conventionally and was purchased for USD 110M. 
+
+A quieter week on the dry market as well this week, likely due to the recent golden week holiday in the Far East. Capesize spot rates have come off from their highs of a month ago, but this market is still proving attractive to buyers as resale ARRIKTOS (181k dwt Hengli 2027) was bought by Chinese buyers at USD 90M basis delivery ex yard next year. Otherwise, there is the usual churn around the 10–15-year-old range, where SS passed IPSEA COLOSSUS (58k dwt Kawasaki 2011) was sold for USD 20.75M.
+
+---
+
 ### Chartering Weekly Comment
 **Date:** 2026-10-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
