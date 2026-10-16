@@ -1027,3 +1027,7 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2026-10-09,41,Rotterdam,LSMGO,-33.0,1328.0,1361.0,1379.0,corpus/01-brokers/gibson/html/2026/2026-10-09_damage-control.html
 2026-10-09,41,Rotterdam,VLSFO,34.0,699.0,666.0,690.0,corpus/01-brokers/gibson/html/2026/2026-10-09_damage-control.html
 2026-10-09,41,Singapore,VLSFO,56.0,881.0,824.0,842.0,corpus/01-brokers/gibson/html/2026/2026-10-09_damage-control.html
+2026-10-16,42,Fujairah,VLSFO,23.0,978.0,955.0,1013.0,corpus/01-brokers/gibson/html/2026/2026-10-16_clean-slate.html
+2026-10-16,42,Rotterdam,LSMGO,47.0,1375.0,1328.0,1505.0,corpus/01-brokers/gibson/html/2026/2026-10-16_clean-slate.html
+2026-10-16,42,Rotterdam,VLSFO,34.0,733.0,699.0,724.0,corpus/01-brokers/gibson/html/2026/2026-10-16_clean-slate.html
+2026-10-16,42,Singapore,VLSFO,23.0,903.0,881.0,903.0,corpus/01-brokers/gibson/html/2026/2026-10-16_clean-slate.html

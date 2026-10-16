@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 19:52:16Z",
+  "updated_at": "2026-10-16 20:28:46Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1951,7 +1951,7 @@
     {
       "file": "gibson_bunker_prices_series.csv",
       "target_metric": "Gibson Bunker Prices",
-      "rows": 1028,
+      "rows": 1032,
       "columns": [
         "issue_date",
         "report_week",
@@ -1968,7 +1968,7 @@
     {
       "file": "gibson_spot_chart_daily.csv",
       "target_metric": "Gibson Spot Chart Daily.Csv",
-      "rows": 9240,
+      "rows": 9285,
       "columns": [
         "date",
         "chart",
@@ -1981,7 +1981,7 @@
     {
       "file": "gibson_tanker_spot_series.csv",
       "target_metric": "Gibson Tanker Spot",
-      "rows": 3598,
+      "rows": 3612,
       "columns": [
         "issue_date",
         "report_week",
@@ -3516,7 +3516,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 10010,
+      "rows": 10152,
       "columns": [
         "route",
         "base",
@@ -3958,13 +3958,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 708259,
+  "total_master_stacked_rows": 708464,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 708259,
+  "total_stacked_rows": 708464,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 708564,
+  "total_rows_extracted": 708769,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 599,
     "advanced_shipping_demolition_series.csv": 2000,
@@ -4028,9 +4028,9 @@
     "drewry_opinions_metadata.csv": 555,
     "drewry_wci_series.csv": 8,
     "fearnleys_rates_series.csv": 17153,
-    "gibson_bunker_prices_series.csv": 1028,
-    "gibson_spot_chart_daily.csv": 9240,
-    "gibson_tanker_spot_series.csv": 3598,
+    "gibson_bunker_prices_series.csv": 1032,
+    "gibson_spot_chart_daily.csv": 9285,
+    "gibson_tanker_spot_series.csv": 3612,
     "gms_demolition_rankings_series.csv": 1104,
     "gms_demolition_sales_series.csv": 161,
     "gms_market_commentary_series.csv": 1262,
@@ -4109,7 +4109,7 @@
     "signal_reports_metadata.csv": 449,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 10010,
+    "ssy_capesize_index_series.csv": 10152,
     "ssy_capesize_index_time_series.csv": 519,
     "ssy_capesize_series.csv": 8881,
     "ssy_route_rates_series.csv": 5190,
