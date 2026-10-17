@@ -29,18 +29,18 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (708,772 Total Rows across 167 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (709,005 Total Rows across 167 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
-| [advanced_shipping_demo_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_demo_sales_series.csv) | Reported demolition sales fixtures ($/LDT) | 599 | Verified |
+| [advanced_shipping_demo_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_demo_sales_series.csv) | Reported demolition sales fixtures ($/LDT) | 600 | Verified |
 | [advanced_shipping_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_demolition_series.csv) | Indicative demolition prices ($/LDT) | 2,000 | Verified |
-| [advanced_shipping_newbuilding_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_newbuilding_series.csv) | Newbuilding reported contracting orders | 1,898 | Verified |
-| [advanced_shipping_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_sales_series.csv) | Secondhand sales transactions ($M) | 6,106 | Verified |
-| [advanced_shipping_secondhand_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_secondhand_matrix_series.csv) | Indicative secondhand price matrices ($M) | 8,093 | Verified |
-| [affinity_bda_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/affinity_bda_series.csv) | Baltic Demolition Assessments ($/LDT) | 747 | Verified |
+| [advanced_shipping_newbuilding_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_newbuilding_series.csv) | Newbuilding reported contracting orders | 1,907 | Verified |
+| [advanced_shipping_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_sales_series.csv) | Secondhand sales transactions ($M) | 6,133 | Verified |
+| [advanced_shipping_secondhand_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/advanced_shipping_secondhand_matrix_series.csv) | Indicative secondhand price matrices ($M) | 8,125 | Verified |
+| [affinity_bda_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/affinity_bda_series.csv) | Baltic Demolition Assessments ($/LDT) | 750 | Verified |
 | [affinity_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/affinity_indices_series.csv) | Baltic Clean & Dirty freight benchmark indices | 496 | Verified |
-| [affinity_tce_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/affinity_tce_series.csv) | Baltic TCE Dirty & Clean route earnings ($/day) | 4,058 | Verified |
+| [affinity_tce_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/affinity_tce_series.csv) | Baltic TCE Dirty & Clean route earnings ($/day) | 4,077 | Verified |
 | [agora_indicators_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/agora_indicators_series.csv) | Commodities, FX, Bonds, Stocks, Bunkers | 10,002 | Verified |
 | [athenian_historical_demolition_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_historical_demolition_prices_series.csv) |  | 240 | Verified |
 | [athenian_indicative_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_indicative_demolition_series.csv) |  | 3,064 | Verified |
@@ -176,7 +176,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [signal_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_reports_metadata.csv) |  | 452 | Verified |
 | [signal_vessel_counts_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_vessel_counts_series.csv) | Signal Ocean weekly commercial vessel counts and deployment monitors | 120 | Verified |
 | [singletons_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/singletons_sales_series.csv) | Week 38 singleton secondhand sales & demolition fixtures | 46 | Verified |
-| [ssy_capesize_index_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_index_series.csv) | SSY Capesize Index, spot routes, 1Y T/C | 10,152 | Verified |
+| [ssy_capesize_index_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_index_series.csv) | SSY Capesize Index, spot routes, 1Y T/C | 10,294 | Verified |
 | [ssy_capesize_index_time_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_index_time_series.csv) | SSY Capesize Index, historical changes, and T/C day rates | 519 | Verified |
 | [ssy_capesize_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_series.csv) | SSY Capesize Index vector calibration curves | 8,881 | Verified |
 | [ssy_route_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_route_rates_series.csv) | SSY assessed route freight rates ($/t) across Atlantic & Pacific | 5,190 | Verified |
@@ -202,7 +202,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,593 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (167 CSVs + 1 Master Workbook)** | **708,772** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (167 CSVs + 1 Master Workbook)** | **709,005** | **100.0% Pass** |
 
 ---
 

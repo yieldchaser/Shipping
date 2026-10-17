@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 21:38:04Z",
+  "updated_at": "2026-10-17 11:57:09Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -667,7 +667,7 @@
     {
       "file": "advanced_shipping_demo_sales_series.csv",
       "target_metric": "Reported demolition sales fixtures ($/LDT)",
-      "rows": 599,
+      "rows": 600,
       "columns": [
         "issue_date",
         "report_week",
@@ -702,7 +702,7 @@
     {
       "file": "advanced_shipping_newbuilding_series.csv",
       "target_metric": "Newbuilding reported contracting orders",
-      "rows": 1898,
+      "rows": 1907,
       "columns": [
         "issue_date",
         "report_week",
@@ -725,7 +725,7 @@
     {
       "file": "advanced_shipping_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 6106,
+      "rows": 6133,
       "columns": [
         "issue_date",
         "issue",
@@ -754,7 +754,7 @@
     {
       "file": "advanced_shipping_secondhand_matrix_series.csv",
       "target_metric": "Indicative secondhand price matrices ()",
-      "rows": 8093,
+      "rows": 8125,
       "columns": [
         "issue_date",
         "report_week",
@@ -772,7 +772,7 @@
     {
       "file": "affinity_bda_series.csv",
       "target_metric": "Baltic Demolition Assessments ($/LDT)",
-      "rows": 747,
+      "rows": 750,
       "columns": [
         "issue_date",
         "report_week",
@@ -800,7 +800,7 @@
     {
       "file": "affinity_tce_series.csv",
       "target_metric": "Baltic TCE Dirty & Clean route earnings ($/day)",
-      "rows": 4058,
+      "rows": 4077,
       "columns": [
         "issue_date",
         "report_week",
@@ -3516,7 +3516,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 10152,
+      "rows": 10294,
       "columns": [
         "route",
         "base",
@@ -3958,22 +3958,22 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 708467,
+  "total_master_stacked_rows": 708700,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 708467,
+  "total_stacked_rows": 708700,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 708772,
+  "total_rows_extracted": 709005,
   "series_inventory": {
-    "advanced_shipping_demo_sales_series.csv": 599,
+    "advanced_shipping_demo_sales_series.csv": 600,
     "advanced_shipping_demolition_series.csv": 2000,
-    "advanced_shipping_newbuilding_series.csv": 1898,
-    "advanced_shipping_sales_series.csv": 6106,
-    "advanced_shipping_secondhand_matrix_series.csv": 8093,
-    "affinity_bda_series.csv": 747,
+    "advanced_shipping_newbuilding_series.csv": 1907,
+    "advanced_shipping_sales_series.csv": 6133,
+    "advanced_shipping_secondhand_matrix_series.csv": 8125,
+    "affinity_bda_series.csv": 750,
     "affinity_indices_series.csv": 496,
-    "affinity_tce_series.csv": 4058,
+    "affinity_tce_series.csv": 4077,
     "agora_indicators_series.csv": 10002,
     "athenian_historical_demolition_prices_series.csv": 240,
     "athenian_indicative_demolition_series.csv": 3064,
@@ -4109,7 +4109,7 @@
     "signal_reports_metadata.csv": 452,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 10152,
+    "ssy_capesize_index_series.csv": 10294,
     "ssy_capesize_index_time_series.csv": 519,
     "ssy_capesize_series.csv": 8881,
     "ssy_route_rates_series.csv": 5190,

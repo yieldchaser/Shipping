@@ -1897,3 +1897,12 @@ issue_date,report_week,section,units,capacity,capacity_raw,capacity_unit,yard,de
 2026-10-09,41,Gas,2,174000.0,174.000,cbm,"Samsung, Korea",2029,"$ 247,5m",247.5,Japanese (K Line),LNG,4,advanced_shipping_2026_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
 2026-10-09,41,Gas,3,90000.0,90.000,cbm,"Hengli, China",2029,$ 108m,108.0,UAE (ADNOC L&S),LPG,4,advanced_shipping_2026_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
 2026-10-09,41,Gas,2,88000.0,88.000,cbm,"Samsung, Korea",2030,$ 113m,113.0,USA (JP Morgan),LPG,4,advanced_shipping_2026_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
+2026-10-16,42,Bulk Carriers,4+2,82000.0,82.000,dwt,"Jiangsu Watts Energy, China",2029/2030,Undisclosed,,Chinese (Yangzijiang Maritime),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Bulk Carriers,1,82000.0,82.000,dwt,"Hengli, China",2029,$ 37m,37.0,Greek (EuroDry),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Tankers,3,157000.0,157.000,dwt,"Jiangsu New Hantong, China",2030,Undisclosed,,Greek (Liquimar Tankers),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Tankers,6,74000.0,74.000,dwt,"Jiangsu New Hantong, China",2029/2030,Undisclosed,,UAE (Emarat Maritime),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Tankers,4,50000.0,50.000,dwt,"GSI, China",2029/2030,Undisclosed,,Greek (Top Ships),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Containers,2,14000.0,14.000,teu,"Hudong-Zhonghua, China",2029/2030,Undisclosed,,Chinese (Zhonggu Logistics),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Containers,2,3200.0,3.200,teu,"Hengli, China",2028,$ 48m,48.0,German (Elbdeich Reederei),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Gas,2,93000.0,93.000,cbm,"Hengli, China",2028,$ 108m,108.0,Norwegian (SFL Corp),Ammonia,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Gas,4,93000.0,93.000,cbm,"Hyundai, Korea",2030,Undisclosed,,Turkish (BGN),LPG DF,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
