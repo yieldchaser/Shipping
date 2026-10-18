@@ -19,20 +19,7 @@ In the long term, the introduction of potential tariffs from China could diminis
 
 ### U.S Soybean Exports
 
-| Month | 2024 | 2023 | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- |
-| January | 5500 | 8200 | 6600 | 9000 | 5200 |
-| February | 5300 | 5500 | 3800 | 2800 | 2800 |
-| March | 2800 | 2700 | 2900 | 1800 | 1600 |
-| April | 1400 | 2400 | 3100 | 1000 | 1500 |
-| May | 1200 | 1000 | 2200 | 800 | 1400 |
-| June | 1300 | 900 | 2200 | 800 | 1300 |
-| July | 1600 | 1500 | 2100 | 800 | 1200 |
-| August | 1700 | 1800 | 2800 | 1000 | 1100 |
-| September | 1800 | 1700 | 1900 | 1500 | 6500 |
-| October | 9500 | 9600 | 9400 | 10800 | 10900 |
-| November | 8000 | 6800 | 9200 | 10200 | 10500 |
-| December | 7800 | 4800 | 8100 | 7900 | 10400 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ---
 

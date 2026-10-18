@@ -1019,6 +1019,10 @@ def select_new(pdfs, cutoff, newest=None):
 
 
 def main(argv):
+    # 2026-10-18: retired. Checked against the official Baltic histories in data/indices/, the stacked
+    # readings were 25-52% off (median; BCI 24.6%, BPI 24.6%, BSI 31.6%, BHSI 52.4%, BDI 26.3%), and the
+    # owner rule is never to extract Baltic data we already hold. The series CSV was deleted.
+    sys.exit("intermodal Baltic chart series is retired (wrong vs data/indices/*_historical.csv); see docstring")
     global SRC, OUT
     only = None
     if "--only" in argv:

@@ -19,31 +19,11 @@ In late April and May, Yunnan experienced heavy rains, with precipitation levels
 
 ### Guinea's Bauxite Exports
 
-| Year | Qtr1 | Qtr2 | Qtr3 | Qtr4 |
-| --- | --- | --- | --- | --- |
-| 2019 | 14400 | 14400 | 7200 | 14400 |
-| 2020 | 16800 | 19200 | 14400 | 21600 |
-| 2021 | 21600 | 20400 | 16200 | 22800 |
-| 2022 | 22800 | 23400 | 21600 | 28800 |
-| 2023 | 27600 | 30000 | 26400 | 32400 |
-| 2024 | 32400 | 37800 |  |  |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### Chinese Primary Aluminium Production
 
-| Month | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
-| --- | --- | --- | --- | --- | --- | --- |
-| January | 3200 | 3000 | 3400 | 3300 | 3500 | 3600 |
-| February | 2700 | 2900 | 3400 | 3300 | 3400 | 3500 |
-| March | 2900 | 3000 | 3400 | 3500 | 3500 | 3600 |
-| April | 2900 | 3100 | 3400 | 3500 | 3500 | 3600 |
-| May | 3100 | 3300 | 3500 | 3600 | 3600 | 3700 |
-| June | 2900 | 3200 | 3400 | 3500 | 3600 | 3500 |
-| July | 2900 | 3000 | 3300 | 3400 | 3600 | 3500 |
-| August | 2900 | 3100 | 3300 | 3400 | 3600 | 3500 |
-| September | 2900 | 3100 | 3300 | 3200 | 3600 | 3500 |
-| October | 2900 | 3200 | 3300 | 3300 | 3500 | 3600 |
-| November | 2900 | 3200 | 3300 | 3300 | 3400 | 3500 |
-| December | 2900 | 3300 | 3300 | 3300 | 3500 | 3600 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ---
 

@@ -97,13 +97,7 @@ Last week the crude oil market witnessed mixed results, amid a sentiment of unce
 | 11 to 13 mos | MSXT HELEN | 2022 | 85,296 dwt | D/C Matarbari 15/18 Feb redel worldwide | $14,750/day | Classic Maritime |
 
 ### Baltic Indices
-| Index Name | Current Index | Current $/day |
-| --- | --- | --- |
-| BCI | 3800 | 800 |
-| BPI | 1800 | 900 |
-| BSI | 1200 | 800 |
-| BHSI | 800 | 700 |
-| BDI | 1600 | 900 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed):** Average T/C Rates (1-Year Trend). The report prints no values for it.
 

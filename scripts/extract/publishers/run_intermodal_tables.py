@@ -14,7 +14,6 @@ Outputs:
   - data/extracted/series/intermodal_sales_series.csv
   - data/extracted/series/intermodal_newbuilding_series.csv
   - data/extracted/series/intermodal_demolition_series.csv
-  - data/extracted/series/intermodal_baltic_tc_series.csv (retained/verified)
   - data/extracted/md/intermodal/<stem>.tables.json
   - data/extracted/md/intermodal/<stem>.md
 """
@@ -48,7 +47,6 @@ STATE_FILE = OUT_LLAMA / "_run_state.json"
 SALES_SERIES_CSV = OUT_SERIES / "intermodal_sales_series.csv"
 NB_SERIES_CSV = OUT_SERIES / "intermodal_newbuilding_series.csv"
 DEMO_SERIES_CSV = OUT_SERIES / "intermodal_demolition_series.csv"
-BALTIC_TC_SERIES_CSV = OUT_SERIES / "intermodal_baltic_tc_series.csv"
 
 LLAMA_API_KEY = os.environ.get("LLAMA_CLOUD_API_KEY", "llx-AVMBvb0UULqQGzWhFFJScQpwhrTM8hSVMZvjz4PEGQ9utg1P")
 
@@ -854,7 +852,6 @@ def main() -> None:
     print(f"    - {SALES_SERIES_CSV}")
     print(f"    - {NB_SERIES_CSV}")
     print(f"    - {DEMO_SERIES_CSV}")
-    print(f"    - {BALTIC_TC_SERIES_CSV} (existing, 19,691 rows)")
     print(f"  Elapsed Time:              {time.time()-t0:.1f}s")
     print("=" * 70, flush=True)
 

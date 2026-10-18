@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 11:57:09Z",
+  "updated_at": "2026-10-18 10:29:56Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -165,7 +165,6 @@
       "eras": "2021-2026",
       "status": "CLOSED",
       "deliverables": [
-        "data/extracted/series/intermodal_baltic_tc_series.csv",
         "data/extracted/series/intermodal_tc_rates_series.csv",
         "data/extracted/series/intermodal_newbuilding_series.csv",
         "data/extracted/series/intermodal_tanker_spot_series.csv",
@@ -667,7 +666,7 @@
     {
       "file": "advanced_shipping_demo_sales_series.csv",
       "target_metric": "Reported demolition sales fixtures ($/LDT)",
-      "rows": 600,
+      "rows": 601,
       "columns": [
         "issue_date",
         "report_week",
@@ -687,7 +686,7 @@
     {
       "file": "advanced_shipping_demolition_series.csv",
       "target_metric": "Indicative demolition prices ($/LDT)",
-      "rows": 2000,
+      "rows": 2016,
       "columns": [
         "issue_date",
         "issue",
@@ -702,7 +701,7 @@
     {
       "file": "advanced_shipping_newbuilding_series.csv",
       "target_metric": "Newbuilding reported contracting orders",
-      "rows": 1907,
+      "rows": 1911,
       "columns": [
         "issue_date",
         "report_week",
@@ -725,7 +724,7 @@
     {
       "file": "advanced_shipping_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 6133,
+      "rows": 6123,
       "columns": [
         "issue_date",
         "issue",
@@ -2522,32 +2521,6 @@
       "status": "Verified"
     },
     {
-      "file": "hellenic_iron_ore_pdf_steel_production_consumption_series.csv",
-      "target_metric": "MMi Daily Iron Ore blast furnace utilization & steel production/consumption rates",
-      "rows": 19679,
-      "columns": [
-        "date",
-        "year",
-        "indicator",
-        "product",
-        "year_series",
-        "m01",
-        "m02",
-        "m03",
-        "m04",
-        "m05",
-        "m06",
-        "m07",
-        "m08",
-        "m09",
-        "m10",
-        "m11",
-        "m12",
-        "source_file"
-      ],
-      "status": "Verified"
-    },
-    {
       "file": "hellenic_iron_ore_pdf_steel_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Steel",
       "rows": 8488,
@@ -2694,21 +2667,6 @@
         "avg_prev_year_1",
         "avg_prev_year_2",
         "source_file"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "intermodal_baltic_tc_series.csv",
-      "target_metric": "Baltic dry & tanker time charter vector curves",
-      "rows": 20348,
-      "columns": [
-        "series",
-        "date",
-        "n_reports",
-        "value",
-        "min",
-        "max",
-        "value_sd"
       ],
       "status": "Verified"
     },
@@ -3006,7 +2964,7 @@
     {
       "file": "ism_coaster_freight_series.csv",
       "target_metric": "Coaster / Mini-bulker freight rates ($/t, TCE $/day)",
-      "rows": 12599,
+      "rows": 12491,
       "columns": [
         "date",
         "segment",
@@ -3026,7 +2984,7 @@
     {
       "file": "ism_handy_freight_series.csv",
       "target_metric": "Handysize / Supramax freight & TCT dynamics ($/t, $/day)",
-      "rows": 17968,
+      "rows": 17851,
       "columns": [
         "date",
         "segment",
@@ -3958,18 +3916,18 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 708700,
-  "total_master_series_csvs": 167,
-  "total_stacked_rows": 708700,
-  "total_series_csvs": 167,
+  "total_master_stacked_rows": 668459,
+  "total_master_series_csvs": 165,
+  "total_stacked_rows": 668459,
+  "total_series_csvs": 165,
   "total_master_workbooks": 1,
-  "total_series_count": 167,
-  "total_rows_extracted": 709005,
+  "total_series_count": 165,
+  "total_rows_extracted": 668764,
   "series_inventory": {
-    "advanced_shipping_demo_sales_series.csv": 600,
-    "advanced_shipping_demolition_series.csv": 2000,
-    "advanced_shipping_newbuilding_series.csv": 1907,
-    "advanced_shipping_sales_series.csv": 6133,
+    "advanced_shipping_demo_sales_series.csv": 601,
+    "advanced_shipping_demolition_series.csv": 2016,
+    "advanced_shipping_newbuilding_series.csv": 1911,
+    "advanced_shipping_sales_series.csv": 6123,
     "advanced_shipping_secondhand_matrix_series.csv": 8125,
     "affinity_bda_series.csv": 750,
     "affinity_indices_series.csv": 496,
@@ -4059,7 +4017,6 @@
     "hellenic_iron_ore_pdf_port_inventories_series.csv": 6984,
     "hellenic_iron_ore_pdf_spreads_series.csv": 3240,
     "hellenic_iron_ore_pdf_steel_mill_pnl_series.csv": 9627,
-    "hellenic_iron_ore_pdf_steel_production_consumption_series.csv": 19679,
     "hellenic_iron_ore_pdf_steel_series.csv": 8488,
     "hellenic_iron_ore_table_series.csv": 5614,
     "hellenic_smm_market_drivers_series.csv": 23,
@@ -4067,7 +4024,6 @@
     "hellenic_vv_matrix_series.csv": 12373,
     "hellenic_vv_sales_series.csv": 2077,
     "intermodal_baltic_indices_series.csv": 1255,
-    "intermodal_baltic_tc_series.csv": 20348,
     "intermodal_bunkers_series.csv": 2287,
     "intermodal_currencies_series.csv": 684,
     "intermodal_demo_sales_series.csv": 580,
@@ -4083,8 +4039,8 @@
     "intermodal_sales_series.csv": 3479,
     "intermodal_tanker_spot_series.csv": 3885,
     "intermodal_tc_rates_series.csv": 5233,
-    "ism_coaster_freight_series.csv": 12599,
-    "ism_handy_freight_series.csv": 17968,
+    "ism_coaster_freight_series.csv": 12491,
+    "ism_handy_freight_series.csv": 17851,
     "lion_deals_series.csv": 1312,
     "lion_demo_sales_series.csv": 109,
     "lion_demolition_series.csv": 516,

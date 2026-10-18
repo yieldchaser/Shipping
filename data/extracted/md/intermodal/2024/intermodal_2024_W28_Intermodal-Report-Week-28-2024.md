@@ -23,20 +23,7 @@ Looking ahead, we can anticipate this trend to persist given the tightening of r
 
 ### non-eco Supramax average speed
 
-| Month | 2019-2023 Min | 2019-2023 Max | 2024 |
-| --- | --- | --- | --- |
-| Jan | 10.95 | 11.30 | 10.75 |
-| Feb | 10.95 | 11.32 | 10.80 |
-| Mar | 10.98 | 11.35 | 10.85 |
-| Apr | 10.98 | 11.38 | 10.92 |
-| May | 11.00 | 11.40 | 10.88 |
-| Jun | 11.02 | 11.45 | 10.87 |
-| Jul | 10.95 | 11.40 | 10.85 |
-| Aug | 10.98 | 11.42 | 10.88 |
-| Sep | 10.95 | 11.35 | 10.85 |
-| Oct | 10.95 | 11.35 | 10.85 |
-| Nov | 10.98 | 11.45 | 11.40 |
-| Dec | 10.75 | 11.25 | 11.25 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ---
 

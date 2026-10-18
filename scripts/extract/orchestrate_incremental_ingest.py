@@ -213,19 +213,8 @@ class ChartSignature:
 
 SIGNATURE_CATALOG = [
     # The two Fearnleys signatures (coal spread, vessel tightness) pointed at chart series read off
-    # raster images with hardcoded axes; those series were deleted.
-    ChartSignature(
-        broker="intermodal",
-        slug="baltic_tc_curves",
-        title="Baltic Dry Index & Time Charter Rates",
-        keywords=["baltic dry index & tc rates", "1 yr tc", "capesize 180k"],
-        target_csv=SERIES_DIR / "intermodal_baltic_tc_series.csv",
-        key_fields=["issue_date", "vessel_class"],
-        fieldnames=[
-            "issue_date", "report_week", "vessel_class", "rate_usd_day", "source_file"
-        ],
-        min_drawings=30
-    ),
+    # raster images with hardcoded axes; those series were deleted. The intermodal Baltic & TC curves
+    # signature went too (2026-10-18): its series was 25-52% off the official Baltic indices we hold.
     ChartSignature(
         broker="ssy",
         slug="capesize_ffa",

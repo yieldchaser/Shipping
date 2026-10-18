@@ -30,12 +30,7 @@ Ultimately, while the proposed measures could serve as a bargaining chip in U.S.
 
 ### Orderbook
 
-| Category | Number of vessels | Orderbook to Global Fleet % |
-| --- | --- | --- |
-| Bulkers (+20 kdwt) | 900 | 6.5% |
-| Tankers (+10 kdwt) | 770 | 8.9% |
-| Containers | 560 | 7.6% |
-| Gas Carriers | 220 | 8.0% |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ---
 

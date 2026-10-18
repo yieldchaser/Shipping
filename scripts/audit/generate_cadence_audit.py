@@ -280,7 +280,7 @@ REGISTRY_DATA = [
         "total_files": 256,
         "charts_extracted": "Yes (Baltic & Time Charter vector curves, Page 3)",
         "chart_engine": "LlamaParse cover-to-cover + PyMuPDF chart vector curves",
-        "series_csvs": "intermodal_baltic_tc_series.csv (20,348 rows), intermodal_tc_rates_series.csv (5,100 rows), intermodal_newbuilding_series.csv (5,058 rows), intermodal_tanker_spot_series.csv (3,879 rows), intermodal_sales_series.csv (3,358 rows), intermodal_demolition_series.csv (2,629 rows)",
+        "series_csvs": "intermodal_tc_rates_series.csv (5,100 rows), intermodal_newbuilding_series.csv (5,058 rows), intermodal_tanker_spot_series.csv (3,879 rows), intermodal_sales_series.csv (3,358 rows), intermodal_demolition_series.csv (2,629 rows)",
         "primary_script": "run_intermodal_full.py",
         "notes": "100% cover-to-cover extraction (all 8 pages). Editorial essay, Tanker spot, Dry bulk TC, S&P, NB, Demo."
     },
@@ -1173,9 +1173,9 @@ SUBSECTOR_DATA = [
         "subsector": "Secondhand S&P, Newbuilding, Scrap & Baltic",
         "count": "256 reports",
         "format": "PDF tables / Vector",
-        "metrics": "Secondhand sales, newbuilding, scrap $/LDT, Page 3 Baltic curves",
-        "series_csv": "intermodal_baltic_tc_series.csv",
-        "data_points": "20,348 rows across series",
+        "metrics": "Secondhand sales, newbuilding, scrap $/LDT",
+        "series_csv": "intermodal_sales_series.csv",
+        "data_points": "see EXTRACTION_REGISTER",
         "script": "run_intermodal_full.py",
         "output_path": "data/extracted/md/intermodal/"
     },
@@ -1735,7 +1735,6 @@ def generate_markdown_audit():
         "| :--- | :---: | :--- | :--- | :--- |",
         "| **01-brokers/fearnleys-md** | 2,786 | Raster PNG charts (no embedded data), JPG | Not read; titles kept, printed tables transcribed and verified | Chart titles in MDs and `.tables.json` sidecars; calibrated series deleted |",
         "| **01-brokers/ism** | Vector stream | PDF internal vector polylines | Least-squares dual-axis scale calibration & tick filtering | 4 weekly freight rate series (`ism_handy_freight_series.csv`, `ism_coaster_freight_series.csv`) |",
-        "| **01-brokers/intermodal** | Vector stream | Page 3 vector drawing paths | Polyline vertex extraction matching Baltic dry & TC curves | `intermodal_baltic_tc_series.csv` (20,348 rows) |",
         "| **01-brokers/star_asia** | Vector stream | Drawing paths & bar charts | Subcontinent scrap price trend calibration ($/LDT) | `star_asia_scrap_price_trends_series.csv` (347 rows) |",
         "| **02-hellenic/iron_ore** | 3,335 | JPG / PNG port inventory graphics | OCR & spatial coordinate table extraction | `hellenic_iron_ore_pdf_brands_series.csv` (31,272 rows) |",
         "| **02-hellenic/demolition** | 1,208 | Cash buyer market insight graphics | HTML table extraction + OCR fallback | `hellenic_gms_port_positions_series.csv` (2,905 rows) |",
@@ -2099,7 +2098,6 @@ def generate_excel_audit():
     img_rows = [
         ("01-brokers/fearnleys-md", 2786, "Raster PNG charts (no embedded data), JPG", "Not read; titles kept, printed tables transcribed and verified", "Chart titles in MDs and .tables.json sidecars; calibrated series deleted"),
         ("01-brokers/ism", 0, "PDF vector drawing strokes", "Least-squares dual-axis scale calibration & tick filtering", "ism_handy_freight_series.csv, ism_coaster_freight_series.csv"),
-        ("01-brokers/intermodal", 0, "PDF vector drawing strokes (Page 3)", "Polyline vertex extraction matching Baltic dry & TC curves", "intermodal_baltic_tc_series.csv (20,348 rows)"),
         ("01-brokers/star_asia", 0, "PDF vector drawing strokes & bar charts", "Subcontinent scrap price trend calibration ($/LDT)", "star_asia_scrap_price_trends_series.csv (347 rows)"),
         ("02-hellenic/iron_ore", 3335, "JPG / PNG port inventory graphics", "OCR & spatial coordinate table extraction", "hellenic_iron_ore_pdf_brands_series.csv (31,272 rows)"),
         ("02-hellenic/demolition", 1208, "Cash buyer market insight graphics", "HTML table extraction + OCR fallback", "hellenic_gms_port_positions_series.csv (2,905 rows)"),

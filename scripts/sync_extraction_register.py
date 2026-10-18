@@ -35,7 +35,6 @@ CUSTOM_DESCRIPTIONS = {
     "hellenic_iron_ore_pdf_index_comparisons_series.csv": "MMi Daily Iron Ore 62% vs 58% vs 65% spread and index comparisons",
     "hellenic_iron_ore_pdf_normalisations_series.csv": "MMi Daily Iron Ore normalized value-in-use differentials across key brands",
     "hellenic_iron_ore_pdf_spreads_series.csv": "MMi Daily Iron Ore lump premium & pellet spread assessments",
-    "hellenic_iron_ore_pdf_steel_production_consumption_series.csv": "MMi Daily Iron Ore blast furnace utilization & steel production/consumption rates",
     "signal_vessel_counts_series.csv": "Signal Ocean weekly commercial vessel counts and deployment monitors",
 }
 
