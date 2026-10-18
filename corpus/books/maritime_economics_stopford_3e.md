@@ -420,13 +420,7 @@ FIFTY ESSENTIAL SHIPPING TERMS
 50. . The cost of fuel, port expenses and canal costs which are specific to Voyage costs the voyage. On a voyage charter where the ports are specified they are generally included in the negotiated spot rate and paid by the shipowner. On a time charter where the ports are not known in advance they are paid by the charterer.
 
 <!-- Page 26 -->
-# Part 1
-
-
-# I N T R O D U C T I O N T O
-
-
-# S H I P P I N G
+# Part 1: INTRODUCTION TO SHIPPING
 
 <!-- Page 28 -->
 ## Sea Transport and the Global Economy
@@ -726,9 +720,10 @@ In the late eighteenth century the Atlantic trade was still mainly controlled by
 **Table 1.1** British ships entered and cleared in foreign trade, 1792
 
 
-| Number of ships |
-| Entered | Cleared | Total | % | Average Tonnage |
-| Baltic trades | a | 2,746 | 1,367 | 4,113 | 27% | 186 |
+|  | Number of ships |  |  | % | Average Tonnage |
+| --- | --- | --- | --- | --- | --- |
+|  | Entered | Cleared | Total | % | Average Tonnage |
+| Baltic \( trades^a \) | 2,746 | 1,367 | 4,113 | 27% | 186 |
 | Holland and Flanders | 1,603 | 1,734 | 3,337 | 22% | 117 |
 | France | 1,413 | 1,317 | 2,730 | 18% | 126 |
 | Spain, Portugal | 975 | 615 | 1,590 | 10% | 126 |
@@ -739,7 +734,7 @@ In the late eighteenth century the Atlantic trade was still mainly controlled by
 | USA | 202 | 223 | 425 | 3% | 221 |
 | West Indies | 705 | 603 | 1,308 | 9% | 233 |
 | Whale Fisheries | 160 | 135 | 295 | 2% | 270 |
-| Total | 8,304 | 6,926 | 15,230 | 2,519 |
+| Total | 8,304 | 6,926 | 15,230 |  | 2,519 |
 
 *a Russia, Scandinavia, Baltic, Germany*
 
@@ -786,35 +781,33 @@ replaced by long-haul trades with North America, South America and Australia. Fo
 **Table 1.2** Merchandise carried by sea, annual totals 1840 to 2005 (thousands of tons)
 
 
-| 1840 | 1887 | 1950 | 1960 | 1975 (1) | 2005 |
-| Crude oil | 2,700 | 182,000 | 456,000 | 1,367,000 | 1,885,000 |
-| Products | n.a. | n.a. | n.a. | 253,700 | 671,000 |
-| Liquefied gas | 21 | 179,000 |
-| Total oil | 2,700 | 216,000 | 456,000 | 1,620,700 | 2,556,000 |
-| Iron ore | 101,139 | 291,918 | 661,000 |
-| Coal | 1,400 | 49,300 | 46,188 | 127,368 | 680,000 |
-| Grain | 1,900 | 19,200 | 46,126 | 137,202 | 206,000 |
-| Bauxite and alumina | 15,961 | 41,187 | 68,000 |
-| Phosphate | 18,134 | 37,576 | 31,000 |
-| Total | 227,548 | 635,251 | 1,646,000 |
-| Iron and steel | 1,100 | 11,800 | 55,000 | 226,000 |
-| Timber | 4,100 | 12,100 | 77,500 | 170,000 |
-| Sugar | 700 | 4,400 | 17,291 | 48,000 |
-| Salt | 800 | 1,300 | 8,700 | 24,000 |
-| Cotton | 400 | 1,800 | 2,315 | 7,800 |
-| Wool | 20 | 350 | 1,200 |
-| Jute | 600 | 450 | 382 |
-| Meat | 700 | 3,200 | 26,640 |
-| Coffee | 200 | 600 | 3,134 | 5,080 |
-| Wine | 200 | 1,400 | 1,217 |
+|  | 1840 | 1887 | 1950 | 1960 | 1975 (1) | 2005 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude oil |  | 2,700 | 182,000 | 456,000 | 1,367,000 | 1,885,000 |
+| Products |  | n.a. | n.a. | n.a. | 253,700 | 671,000 |
+| Liquefied gas |  |  |  |  | 21 | 179,000 |
+| Total oil |  | 2,700 | 216,000 | 456,000 | 1,620,700 | 2,556,000 |
+| Iron ore |  |  |  | 101,139 | 291,918 | 661,000 |
+| Coal | 1,400 | 49,300 |  | 46,188 | 127,368 | 680,000 |
+| Grain | 1,900 | 19,200 |  | 46,126 | 137,202 | 206,000 |
+| Bauxite and alumina |  |  |  | 15,961 | 41,187 | 68,000 |
+| Phosphate |  |  |  | 18,134 | 37,576 | 31,000 |
+| Total |  |  |  | 227,548 | 635,251 | 1,646,000 |
+| Iron and steel | 1,100 | 11,800 |  |  | 55,000 | 226,000 |
+| Timber | 4,100 | 12,100 |  |  | 77,500 | 170,000 |
+| Sugar | 700 | 4,400 |  |  | 17,291 | 48,000 |
+| Salt | 800 | 1,300 |  |  | 8,700 | 24,000 |
+| Cotton | 400 | 1,800 |  |  | 2,315 | 7,800 |
+| Wool | 20 | 350 |  |  | 1,200 |  |
+| Jute |  | 600 |  |  | 450 | 382 |
+| Meat |  | 700 |  |  | 3,200 | 26,640 |
+| Coffee | 200 | 600 |  |  | 3,134 | 5,080 |
+| Wine | 200 | 1,400 |  |  | 1,217 |  |
 | Other | 9,180 | 33,750 | 334,000 | 426,452 | 646,042 | 2,412,098 |
 | Total seaborne trade | 20,000 | 137,300 | 550,000 | 1,110,000 | 3,072,000 | 7,122,000 |
-| % increase since previous period | 4.2% | 2.2% | 7.3% | 7.0% | 2.8% |
+| % increase since previous period |  | 4.2% | 2.2% | 7.3% | 7.0% | 2.8% |
 
-*Source: Craig (1980, p. 18); UN Statistical Yearbook 1967 onwards; Fearnleys Review 1963 onwards; Maritime Transport*
-
-| Research (1977); CRSL, | Dry Bulk Trade Outlook | , Dec. 2007 and | Oil Trade & Transport | , Dec. 2007 edition. The statistics |
-| are not precisely comparable and only provide a rough idea of trade developments over this long period. |
+*Source: Craig (1980, p. 18); UN Statistical Yearbook 1967 onwards; Fearnleys Review 1963 onwards; Maritime Transport Research (1977); CRSL, Dry Bulk Trade Outlook, Dec. 2007 and Oil Trade & Transport, Dec. 2007 edition. The statistics are not precisely comparable and only provide a rough idea of trade developments over this long period.*
 
 <!-- Page 50 -->
 LINER AND TRAMP SHIPPING, 1833-1950 1.5
@@ -833,10 +826,8 @@ The 650-ton John Bowes , built in Jarrow in 1852 for the coastal coal trade, and
 **Table 1.3** Fuel consumption of typical cargo ships
 
 
-| lb fuel/ |
-| Gross | Dead | Tons | 1,000 |
-| Year | registered | weight | Cargo Speed | Engine | Horse- | Fuel | per | ton |
-| built | tonnage | tonnage | tons | knots | type | power | type | day | Cargo | miles |
+| Year built | Gross registered tonnage | Dead weight tonnage | Cargo tons | Speed knots | Engine type | Horse-power | Fuel type | Tons per day | Cargo | lb fuel/1,000 ton miles |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1855 | 700 | 900 | 750 | 7.5 | Steam 1 | 400 ihp | coal | 12 | 63 | 199.1 |
 | 1875 | 1,400 | 1,900 | 1,650 | 8.5 | Steam 2 | 800 ihp | coal | 12 | 138 | 79.9 |
 | 1895 | 3,600 | 5,500 | 4,900 | 9.5 | Steam 3 | 1,800 ihp | coal | 25 | 196 | 50.1 |
@@ -845,8 +836,8 @@ The 650-ton John Bowes , built in Jarrow in 1852 for the coastal coal trade, and
 | 1955 | 7,500 | 11,000 | 10,000 | 14 | Diesel | 6,000 bhp | oil | 25 | 400 | 16.7 |
 | 1975 | 13,436 | 17,999 | 17,099 | 16 | Diesel | 9,900 bhp | oil | 37 | 462 | 12.6 |
 | 2006 | 12,936 | 17,300 | 16,435 | 15 | Diesel | 9,480 bhp | oil | 25 | 657 | 9.5 |
-| Key: Steam 1 | = | steam reciprocating simple, Steam 2 | = | Steam reciprocating compound, Steam 3 | = | steam reciprocating |
-| triple expansion |
+
+*Key: Steam 1 = steam reciprocating simple, Steam 2 = Steam reciprocating compound, Steam 3 = steam reciprocating triple expansion*
 
 *Source: British Shipbuilding Database (Prof. Ian Buxton, Newcastle University)*
 
@@ -889,44 +880,28 @@ The steamships and the communications revolution set the scene for a new and mor
 **Table 1.4** Evolution of Atlantic liners, 1830-1914
 
 
-| Indicated |
-| Length | Gross | horse | Knots | Consumption | Hull | Propulsion | Engine | Transit |
-| Name | (feet) | tonnage | power | per hour | tons/day | material | system | design | Built | days |
-| Royal William | 176 | 137 | 180n | 7 | Wood | Aux | Steam | 1833 | 17.0 |
-| Paddle |
-| Sirius | 208 | 700 | 320n | 7.5 | Wood | Paddle | Steam | 1838 | 16.0 |
-| Great | 236 | 1,320 | 440n | 9 | 28 | Wood | Paddle | Steam | 1838 | 14.0 |
-| Western |
-| Britannia | a | 207 | 1,156 | 740 | 8.5 | 31.4 | Wood | Paddle | Steam | 1840 | 14.3 |
-| Great Britain | 302.5 | 2,935 | 1,800 | 10 | 35-50 | Iron | Screw | Steam | 1843 |
-| prop |
-| America | 251 | 1,825 | 1,600 | 10.25 | 60 | Wood | Paddle | Steam | 1848 |
-| Baltic | 282 | 3,000 | 800 | Wood | Paddle | Steam | 1850 | 9.5 |
+| Name | Length (feet) | Gross tonnage | Indicated horse power | Knots per hour | Consumption tons/day | Hull material | Propulsion system | Engine design | Built | Transit days |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Royal William | 176 | 137 | 180n | 7 |  | Wood | Aux Paddle | Steam | 1833 | 17.0 |
+| Sirius | 208 | 700 | 320n | 7.5 |  | Wood | Paddle | Steam | 1838 | 16.0 |
+| Great Western | 236 | 1,320 | 440n | 9 | 28 | Wood | Paddle | Steam | 1838 | 14.0 |
+| Britannia ᵃ | 207 | 1,156 | 740 | 8.5 | 31.4 | Wood | Paddle | Steam | 1840 | 14.3 |
+| Great Britain | 302.5 | 2,935 | 1,800 | 10 | 35-50 | Iron | Screw prop | Steam | 1843 |  |
+| America | 251 | 1,825 | 1,600 | 10.25 | 60 | Wood | Paddle | Steam | 1848 |  |
+| Baltic | 282 | 3,000 | 800 |  |  | Wood | Paddle | Steam | 1850 | 9.5 |
 | Persia | 376 | 3,300 | 3,600 | 13.8 | 150 | Iron | Paddle | Steam | 1856 | 9.5 |
-| Great | 680 | 18,914 | 8,000 | 13.5 | 280 | Iron | Screw and Steam | 1858 | 9.5 |
-| Eastern | Paddle |
-| Russia | 358 | 2,959 | 3,100 | 14.4 | 90 | Iron | Single | Compound | 1867 | 8.8 |
-| screw |
-| Britannic | 455 | 5,004 | 5,000 | 15 | 100 | Iron | Single | Compound | 1874 | 8.2 |
-| screw |
-| City of Berlin | 488.6 | 5,490 | 4,779 | 15 | 120 | Iron | Single | Compound | 1875 | 7.6 |
-| screw |
-| Servia | 515 | 7,391 | 10,000 | 16.7 | 200 | Steel | Single | Compound | 1881 | 7.4 |
-| screw |
-| Umbria | 500 | 7,718 | 14,500 | 18 | Steel | Single | Compound | 1884 | 6.8 |
-| screw |
-| City of Paris | 527.5 | 10,699 | 18,000 | 19 | 328 | Steel | Twin | Triple | 1888 | 6.5 |
-| screw | expansion |
-| Teutonic | 565.7 | 9,984 | 16,000 | 19 | Steel | Twin | Triple | 1888 | 6.5 |
-| screw | expansion |
-| Campania | 600 | 12,950 | 30,000 | 21 | 458 | Steel | Twin | Triple | 1893 | 5.9 |
-| screw | expansion |
-| Kaiser | 678 | 19,361 | 45,000 | 23.5 | 700 | Steel | Twin | Quad. | 1901 | 5.4 |
-| Wilhelm II | screw | expansion |
-| Mauretania | 787 | 31,938 | 70,000 | 25 | 1000 | Steel | Quad | Turbines | 1907 | 5.0 |
-| screw |
-| Aquitania | 901 | 45,647 | 60,000 | 23 | 850 | Steel | Quad | Turbines | 1914 | 5.5 |
-| screw |
+| Great Eastern | 680 | 18,914 | 8,000 | 13.5 | 280 | Iron | Screw and Paddle | Steam | 1858 | 9.5 |
+| Russia | 358 | 2,959 | 3,100 | 14.4 | 90 | Iron | Single screw | Compound | 1867 | 8.8 |
+| Britannic | 455 | 5,004 | 5,000 | 15 | 100 | Iron | Single screw | Compound | 1874 | 8.2 |
+| City of Berlin | 488.6 | 5,490 | 4,779 | 15 | 120 | Iron | Single screw | Compound | 1875 | 7.6 |
+| Servia | 515 | 7,391 | 10,000 | 16.7 | 200 | Steel | Single screw | Compound | 1881 | 7.4 |
+| Umbria | 500 | 7,718 | 14,500 | 18 |  | Steel | Single screw | Compound | 1884 | 6.8 |
+| City of Paris | 527.5 | 10,699 | 18,000 | 19 | 328 | Steel | Twin screw | Triple expansion | 1888 | 6.5 |
+| Teutonic | 565.7 | 9,984 | 16,000 | 19 |  | Steel | Twin screw | Triple expansion | 1888 | 6.5 |
+| Campania | 600 | 12,950 | 30,000 | 21 | 458 | Steel | Twin screw | Triple expansion | 1893 | 5.9 |
+| Kaiser Wilhelm II | 678 | 19,361 | 45,000 | 23.5 | 700 | Steel | Twin screw | Quad. expansion | 1901 | 5.4 |
+| Mauretania | 787 | 31,938 | 70,000 | 25 | 1000 | Steel | Quad screw | Turbines | 1907 | 5.0 |
+| Aquitania | 901 | 45,647 | 60,000 | 23 | 850 | Steel | Quad screw | Turbines | 1914 | 5.5 |
 
 *a Consumption reported as 450 tons for the crossing of 14.3 days; n = nominal horse power, about half ihp pre-1850*
 
@@ -958,9 +933,9 @@ Cunard developed steamships for the North Atlantic capable of offering speed and
 **Table 1.5** Performance of Cunard cargo ships, 1840-1874
 
 
-| Capacity |
-| Speed | Coal | Cargo | Passengers | Bunkers |
-| Gross tons | Built | knots | tons/day |
+|  | Gross tons | Built | Speed knots | Coal tons/day | Capacity |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Gross tons | Built | Speed knots | Coal tons/day | Cargo | Passengers | Bunkers |
 | Britannia | 1,139 | 1840 | 8 | 38 | 225 | 90 | 640 |
 | Persia | 3,300 | 1855 | 13 | 150 | 1,100 | 180 | 1,640 |
 | Java | 2,697 | 1865 | 13 | 85 | 1,100 | 160 | 1,100 |
@@ -997,6 +972,7 @@ The growth of the Baltic Exchange was a response to the high cost and inflexibil
 
 
 | Item | Unit | Number |
+| --- | --- | --- |
 | Skins | Bales | 128 |
 | Turmeric | Bags | 150 |
 | Tea | Cases | 90 |
@@ -1005,7 +981,7 @@ The growth of the Baltic Exchange was a response to the high cost and inflexibil
 | Shellac | Cases | 175 |
 | Tea | Cases | 1,386 |
 | Linseed | Bags | 1,159 |
-| Hides |
+| Hides |  |  |
 | Coffee | Casks | 11 |
 | Gunnies | Bales | 68 |
 | Fibre | Bales | 605 |
@@ -1026,10 +1002,7 @@ The growth of the Baltic Exchange was a response to the high cost and inflexibil
 | Gunnies | Bales | 100 |
 | Linseed | Bags | 2,022 |
 
-*Source: Captain H. Hillcoat, Notes on*
-
-| Stowage of Ships | , (London, 1918), |
-| reproduced in Robin Craig (1980) |
+*Source: Captain H. Hillcoat, Notes on Stowage of Ships, (London, 1918), reproduced in Robin Craig (1980)*
 
 <!-- Page 58 -->
 LINER AND TRAMP SHIPPING, 1833-1950 1.5
@@ -1046,14 +1019,15 @@ Although the British were initially the biggest tramp owners, towards the end of
 **Table 1.7** Size of British ocean tramp companies
 
 
-| Number of companies |
+| Number of ships | Number of companies |  | % of total 1950 |
+| --- | --- | --- | --- |
 | Number of ships | 1912 | 1950 | % of total 1950 |
 | 1 | 25 | 37 | 29% |
 | 2 | 12 | 28 | 22% |
 | 3 | 9 | 20 | 16% |
 | 4 | 12 | 15 | 12% |
 | 5 | 7 | 7 | 5% |
-| 6 | + | 34 | 22 | 17% |
+| 6+ | 34 | 22 | 17% |
 | Total | 99 | 129 | 100% |
 
 *Source: Gripaios (1959, Table 5)*
@@ -1076,6 +1050,7 @@ As the volume of business increased so did the framework of regulations imposed 
 
 
 | Cargo | Voyages | Cargo tons |
+| --- | --- | --- |
 | Coal and coke | 1,873 | 12,590,000 |
 | Grain | 1,200 | 8,980,000 |
 | Grain and timber | 105 | 890,000 |
@@ -1231,7 +1206,8 @@ The independent shipowners of this new generation were descendants of the tramp 
 
 
 | Start of year | 1902 | 1950 | 2005 |
-| W Europe & USA |
+| --- | --- | --- | --- |
+| **W Europe & USA** | | | |
 | Britain | 14.4 | 18.2 | 9.8 |
 | USA | 2.3 | 16.5 | 12.5 |
 | US Reserve | 0.3 | 11.0 | n/a |
@@ -1243,10 +1219,10 @@ The independent shipowners of this new generation were descendants of the tramp 
 | Spain | 0.8 | 1.2 | 2.2 |
 | Sweden | 0.7 | 2.0 | 3.6 |
 | Denmark | 0.5 | 1.3 | 0.7 |
-| Danish International | 6.9 |
+| Danish International |  |  | 6.9 |
 | Total | 25.7 | 60.0 | 69.4 |
 | % world fleet | 80% | 71% | 11% |
-| Other flags |
+| **Other flags** | | | |
 | Liberia | 0.0 | 0.2 | 55.2 |
 | Panama | 0.0 | 3.4 | 136.1 |
 | Greece | 0.3 | 1.3 | 32.7 |
@@ -1347,38 +1323,31 @@ around $67 billion in 2004. In the 1990s the annual investment in new cargo ship
 **Table 2.1** Marine activities, 1999-2004
 
 
-| Turnover US$ m. | a |
-| Growth | Share in |
-| US$ millions | 1999 | 2004 | 99-04 (% p.a.) | 2004% |
-
-*1. Vessel operations*
-
+| US$ millions | Turnover US$ m.ᵃ 1999 | Turnover US$ m.ᵃ 2004 | Growth 99–04 (% p.a.) | Share in 2004% |
+| --- | --- | --- | --- | --- |
+| **1. Vessel operations** | | | | |
 | Merchant shipping | 160,598 | 426,297 | 22% | 31% |
 | Naval shipping | 150,000 | 173,891 | 3% | 13% |
 | Cruise industry | 8,255 | 14,925 | 12% | 1% |
 | Ports | 26,985 | 31,115 | 3% | 2% |
 | Total | 345,838 | 646,229 | 13% | 47% |
-
-*2. Shipbuilding*
-
+| **2. Shipbuilding** | | | | |
 | Shipbuilding (merchant) | 33,968 | 46,948 | 7% | 3% |
 | Shipbuilding (naval) | 30,919 | 35,898 | 3% | 3% |
 | Marine equipment | 68,283 | 90,636 | 6% | 7% |
 | Total | 133,170 | 173,482 | 5% | 13% |
-
-*3. Marine resources*
-
+| **3. Marine resources** | | | | |
 | Offshore oil and gas | 92,831 | 113,366 | 4% | 8% |
-| Renewable energy | -- | 159 | 0% |
+| Renewable energy | — | 159 |  | 0% |
 | Minerals and aggregates | 2,447 | 3,409 | 7% | 0% |
 | Total marine resources | 95,278 | 116,933 | 4% | 8% |
-| 4. Marine fisheries | − |
-| Marine fishing | 71,903 | 69,631 | − | 1% | 5% |
+| **4. Marine fisheries** |  |  | – |  |
+| Marine fishing | 71,903 | 69,631 | –1% | 5% |
 | Marine aquaculture | 17,575 | 29,696 | 11% | 2% |
 | Seaweed | 6,863 | 7,448 | 2% | 1% |
 | Seafood processing | 89,477 | 99,327 | 2% | 7% |
 | Total marine fisheries | 185,817 | 206,103 | 2% | 15% |
-| 5. Other marine related activities |
+| **5. Other marine related activities** | | | | |
 | Maritime tourism | 151,771 | 209,190 | 7% | 15% |
 | Research and Development | 10,868 | 13,221 | 4% | 1% |
 | Marine services | 4,426 | 8,507 | 14% | 1% |
@@ -1386,14 +1355,12 @@ around $67 billion in 2004. In the 1990s the annual investment in new cargo ship
 | Marine biotechnology | 1,883 | 2,724 | 8% | 0% |
 | Ocean survey | 2,152 | 2,504 | 3% | 0% |
 | Education and training | 1,846 | 1,911 | 1% | 0% |
-| Submarine telecoms | 5,131 | 1,401 | − | 23% | 0% |
-| Total other activities | 179,466 | 243,898 | 6% | 18% |
-| Total marine activities | 939,570 | 1,386,645 | 8% | 100% |
+| Submarine telecoms | 5,131 | 1,401 | –23% | 0% |
+| **Total other activities** | 179,466 | 243,898 | 6% | 18% |
+| **Total marine activities** | 939,570 | 1,386,645 | 8% | 100% |
 
-*a The information in this table is based on many estimates and should be regarded as no more than a rough indication of*
+ᵃ The information in this table is based on many estimates and should be regarded as no more than a rough indication of the relative size of the various segments of the maritime business. The totals include some duplication, for example marine equipment is double-counted.
 
-| the relative size of the various segments of the maritime business. The totals include some duplication, for example |
-| marine equipment is double-counted. |
 
 *Source: Douglas-Westwood Ltd*
 
@@ -1421,12 +1388,13 @@ For high-volume inter-regional cargoes deep-sea shipping is the only economic tr
 
 
 | Zone | Area | Transport sector | Vehicle |
+| --- | --- | --- | --- |
 | 1 | Inter-regional | Deep-sea shipping | Ship |
-| Air freight | Plane |
+| 1 | Inter-regional | Air freight | Plane |
 | 2 | Short-sea | Coastal seas | Ship/ferry |
 | 3 | Land | River and canal | Barge |
-| Road | Lorry |
-| Rail | Train |
+| 3 | Land | Road | Lorry |
+| 3 | Land | Rail | Train |
 
 *Source: Martin Stopford 2007*
 
@@ -1535,22 +1503,18 @@ smaller trade in steel products. To show how the various seaborne trades interre
 **Table 2.3** World seaborne trade by commodity and average growth rate
 
 
-| Million tonnes of cargo |
-| % growth p.a. |
-| 1995 | 2000 | 2005 | 2006 | 1995-2006 |
-
-*1. Energy trades*
-
+|  | Million tonnes of cargo |  |  |  | % growth p.a. 1995-2006 |
+| --- | --- | --- | --- | --- | --- |
+|  | 1995 | 2000 | 2005 | 2006 | % growth p.a. 1995-2006 |
+| **1. Energy trades** | | | | | |
 | Crude oil | 1,400 | 1,656 | 1,885 | 1,896 | 2.8% |
 | Oil products | 460 | 518 | 671 | 706 | 4.0% |
 | Steam coal | 238 | 346 | 507 | 544 | 7.8% |
 | LPG | 34 | 39 | 37 | 39 | 1.3% |
 | LNG | 69 | 104 | 142 | 168 | 8.5% |
 | Total | 2,201 | 2,663 | 3,242 | 3,354 | 3.9% |
-| Share of total in 2006 | 44% |
-
-*2. Metal industry trades*
-
+|  | Share of total in 2006 |  |  |  | 44% |
+| **2. Metal industry trades** | | | | | |
 | Iron ore | 402 | 448 | 661 | 721 | 5.5% |
 | Coking coal | 160 | 174 | 182 | 185 | 1.3% |
 | Pig iron | 14 | 13 | 17 | 17 | 1.8% |
@@ -1559,10 +1523,8 @@ smaller trade in steel products. To show how the various seaborne trades interre
 | Coke | 15 | 24 | 25 | 24 | 4.4% |
 | Bauxite/alumina | 52 | 54 | 68 | 69 | 2.6% |
 | Total | 887 | 960 | 1,269 | 1,366 | 4.0% |
-| Share of total in 2006 | 18% |
-
-*3. Agricultural trades*
-
+|  | Share of total in 2006 |  |  |  | 18% |
+| **3. Agricultural trades** | | | | | |
 | Wheat/coarse grain | 184 | 214 | 206 | 213 | 1.3% |
 | Soya beans | 32 | 50 | 65 | 67 | 7.0% |
 | Sugar | 34 | 37 | 48 | 48 | 3.2% |
@@ -1571,19 +1533,17 @@ smaller trade in steel products. To show how the various seaborne trades interre
 | Phosphate rock | 30 | 28 | 31 | 31 | 0.2% |
 | Forest products | 167 | 161 | 170 | 174 | 0.3% |
 | Total | 590 | 648 | 695 | 706 | 1.6% |
-| Share of total in 2006 | 9.4% |
-| 4. Other cargoes |
+|  | Share of total in 2006 |  |  |  | 9.4% |
+| **4. Other cargoes** | | | | | |
 | Cement | 53 | 46 | 60 | 65 | 1.9% |
 | Other minor bulk | 31 | 36 | 42 | 44 | 3.2% |
 | Other dry cargo | 1,116 | 1,559 | 1,937 | 2,016 | 5.5% |
 | Total | 1,200 | 1,641 | 2,039 | 2,125 | 5.3% |
-| Share of total in 2006 | 28% |
-| memo: Containerized | 389 | 628 | 1,020 | 1,134 |
-| 4,878 | 5,912 | 7,246 | 7,550 | 4.1% |
+|  | Share of total in 2006 |  |  |  | 28% |
+| memo: Containerized | 389 | 628 | 1,020 | 1,134 |  |
+|  | 4,878 | 5,912 | 7,246 | 7,550 | 4.1% |
 
-*Source: CRSL, Dry Bulk Trades Outlook , April 2007, Oil & Tanker Trades Outlook , April 2007, Shipping Review &*
-
-| Outlook | , April 2007 |
+*Source: CRSL, Dry Bulk Trades Outlook , April 2007, Oil & Tanker Trades Outlook , April 2007, Shipping Review & Outlook, April 2007*
 
 <!-- Page 83 -->
 THE ORGANIZATION OF THE SHIPPING MARKET
@@ -1739,25 +1699,20 @@ Motor vehicles . Perhaps the best examples of a specialized transport sector. Th
 **Table 2.4** Development of ship types designed for a specific commodity, 1852-2008
 
 
-| First specialized |
-| Date | ship of class | Name | Commodity | Size |
-| 1852 | Bulk Carrier | SS | John Bowes | Coal | 650 dwt |
-| 1865 | Cargo liner | SS | Agamemnon | General cargo | 3,500 dwt |
-| 1880 | Reefer | SS | Strathleven | Frozen meat | 400 carcasses |
-| 1886 | Oil Tanker | SS | Glückauf | Oil | 3,030 dwt |
+| Date | First specialized ship of class | Name | Commodity | Size |
+| --- | --- | --- | --- | --- |
+| 1852 | Bulk Carrier | SS John Bowes | Coal | 650 dwt |
+| 1865 | Cargo liner | SS Agamemnon | General cargo | 3,500 dwt |
+| 1880 | Reefer | SS Strathleven | Frozen meat | 400 carcasses |
+| 1886 | Oil Tanker | SS Glückauf | Oil | 3,030 dwt |
 | 1921 | Ore-Oil Carrier | G.Harrison Smith | Iron ore/oil | 14,305 grt |
 | 1926 | Heavy Lift Ship | Belray | Heavy cargo | 4,280 dwt |
-| 1954 | Chemical Parcel | Marine Dow-Chem | Chemical | 16,600 dwt |
-| Tanker | parcels |
-| 1950 | LPG Tanker | Heroya | Ammonia | 1,500 dwt |
-| (Ammonia) |
-| 1956 | Car Carrier | Rigoletto | Wheeled | 260 cars |
-| vehicles |
-| 1956 | Containership | Ideal-X | Containers/oil | 58 TEU |
-| (conversion) |
+| 1954 | Chemical Parcel Tanker | Marine Dow-Chem | Chemical parcels | 16,600 dwt |
+| 1950 | LPG Tanker (Ammonia) | Heroya | Ammonia | 1,500 dwt |
+| 1956 | Car Carrier | Rigoletto | Wheeled vehicles | 260 cars |
+| 1956 | Containership (conversion) | Ideal-X | Containers/oil | 58 TEU |
 | 1962 | Forest Products Carrier | MV Besseggen | Lumber | 9,200 dwt |
-| 1964 | LNG Tanker | Methane Princess | LNG | 27,400 m | 3 |
-| (purpose built) |
+| 1964 | LNG Tanker (purpose built) | Methane Princess | LNG | 27,400 m3 |
 
 *Source: Martin Stopford 2007*
 
@@ -1807,69 +1762,62 @@ gated cargo-handling systems, and these are included in the specialized
 **Table 2.5** Commercial shipping fleet by ship type, July 2007
 
 
-| Fleet size |
-| Mill. | Mill. | Dwt/ |
-| No. | Name | Size | Numbers | GT | Dwt | GT | Age | Comment |
-
-*1. Bulk Cargo Fleet*
-
-| Tankers over 10,000 dwt | dwt |
+| No. | Name | Size | Numbers | Fleet size |  |  | Age | Comment |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| No. | Name | Size | Numbers | Mill. GT | Mill. Dwt | Dwt/ GT | Age | Comment |
+| **1. Bulk Cargo Fleet** | | | | | | | | |
+| Tankers over 10,000 dwt |  | dwt |  |  |  |  |  |  |
 | 1 | VLCC over 200,000 dwt | Over 200,000 | 501 | 77.5 | 147.0 | 1.9 | 9.1 | Long haul crude oil |
 | 2 | Suezmax | 120-199,999 | 359 | 29.0 | 54.2 | 1.9 | 9.1 | Medium haul crude |
 | 3 | Aframax | 80-120,000 | 726 | 41.1 | 74.2 | 1.8 | 9.3 | Some carry products |
 | 4 | Panamax | 60-80,000 | 329 | 13.2 | 23.0 | 1.7 | 8.8 | Very short haul |
 | 5 | Handy | 10-60,000 | 1,496 | 33.0 | 53.1 | 1.6 | 13.5 | Mainly products, some chemicals |
-| 6 | Total over 10k | 3,411 | 193.7 | 351.4 | 1.8 |
-| 7 | Small tankers | <10,000 | 4,629 | 6.8 | 10.6 | 1.6 | 26.6 |
-| 8 | Total tankers | 8,040 | 200 | 362 | 1.8 | 20.0 |
-| Bulk carriers over 10,000 dwt | dwt |
+| 6 | Total over 10k |  | 3,411 | 193.7 | 351.4 | 1.8 |  |  |
+| 7 | Small tankers | <10,000 | 4,629 | 6.8 | 10.6 | 1.6 | 26.6 |  |
+| 8 | Total tankers |  | 8,040 | 200 | 362 | 1.8 | 20.0 |  |
+| Bulk carriers over 10,000 dwt |  | dwt |  |  |  |  |  |  |
 | 9 | Capesize | Over 100,000 | 738 | 64.4 | 125.7 | 2.0 | 11.1 | Mainly carry ore and coal |
 | 10 | Panamax | 60-100,000 | 1,453 | 57.0 | 106.0 | 1.9 | 11.7 | Coal, grain, few geared |
 | 11 | Handymax | 40-60,000 | 1,547 | 44.8 | 74.1 | 1.7 | 11.6 | Workhorse, mainly geared |
 | 12 | Handy | 10-40,000 | 2,893 | 47.8 | 77.1 | 1.6 | 20.7 | Smaller workhorse |
-| 13 | Total dry bulk | 6,631 | 214 | 382.9 | 1.8 | 15.6 |
-| of which: |
-| 14 | Open hatch | 481 | 16.6 | Designed for unit loads |
-| 15 | Ore carrier | 51 | 8.8 | Low cubic (0.6 m | 3 | /tonne) |
-| 16 | Chip carrier | 129 | 5.9 | High cubic (2 m | 3 | /tonne) |
-| 17 | Cement carrier | 77 |
-| Combined carriers |
-| 18 | Bulk/oil/ore | 85 | 4.7 | 8.2 | 1.8 | 19.3 | Dry and wet |
-| Total bulk fleet | 14,756 | 419 | 753 | 5.4 |
-
-*2. General cargo fleet*
-
-| 19 | Container-ship fleet | size (TEU) |
+| 13 | Total dry bulk of which: |  | 6,631 | 214 | 382.9 | 1.8 | 15.6 |  |
+| 14 | Open hatch |  | 481 |  | 16.6 |  |  | Designed for unit loads |
+| 15 | Ore carrier |  | 51 |  | 8.8 |  |  | Low cubic (0.6 m3/tonne) |
+| 16 | Chip carrier |  | 129 |  | 5.9 |  |  | High cubic (2 m3/tonne) |
+| 17 | Cement carrier |  | 77 |  |  |  |  |  |
+| **Combined carriers** | | | | | | | | |
+| 18 | Bulk/oil/ore |  | 85 | 4.7 | 8.2 | 1.8 | 19.3 | Dry and wet |
+|  | Total bulk fleet |  | 14,756 | 419 | 753 | 5.4 |  |  |
+| **2. General cargo fleet** | | | | | | | | |
+| 19 | Container-ship fleet | size (TEU) |  |  |  |  |  |  |
 | 20 | Large | Over 3,000 | 1,207 | 72.1 | 79.6 | 1.1 | 7.0 | Fast (25 knots), no gear |
 | 21 | Medium | 1,000-2,999 | 1,747 | 37.2 | 45.9 | 1.2 | 11.2 | Faster, some geared |
 | 22 | Small | 100-999 | 1,251 | 8.2 | 10.2 | 1.2 | 14.9 | Slow, geared |
-| 23 | Total container-ship fleet | 4,205 | 117 | 136 | 1.2 | 11.1 |
+| 23 | Total container-ship fleet |  | 4,205 | 117 | 136 | 1.2 | 11.1 |  |
 | 24 | Ro-ro fleet | 100-50,000 | 3,848 | 28.0 | 12.7 | 0.5 | 23.7 | Ramp access to holds |
 | 25 | MPP fleet | 100-2,000 | 2,618 | 17.7 | 23.9 | 1.3 | 16.1 | Open hatch, cargo gear |
-| 26 | Other general cargo | 15,113 | 27.8 | 39.1 | 1.4 | 27.2 | Liner types, tramps, coasters |
-| 27 | Total general cargo fleet | 25,784 | 191 | 211 | 1.1 |
-| 4. Specialized cargo fleet |
-| 28 | Reefer | 1,800 | 7.6 | 7.7 | 1.0 | 23.9 | Refrigerated, palletized |
-| 29 | Chemical tankers | 2,699 | 18 | 29 | 1.6 | 14.6 | Chemical parcels |
-| 30 | Specialized tankers | 511 | 2 | 3 | 1.5 | 24.5 |
-| 31 | Vehicle carrier | 651 | 24.8 | 9.1 | 0.4 | 14.7 | Multiple decks |
-| 32 | LPG | 1,082 | 10.1 | 11.9 | 1.2 | 17.7 | Several freezing systems |
-| 33 | LNG | 235 | 21.2 | 16.1 | 0.8 | 12.0 | − | 161 degrees Celsius |
-| 34 | Total specialized cargo fleet | 6,978 | 84 | 77 |
-| memo: Total cargo ships | 47,433 | 689 | 1,033 | 1.5 |
-| 5. Non-cargo fleet |
-| 35 | Tugs | 11,097 | 2.9 | 1.0 | 0.4 | 23.8 | Port or deep sea transport |
-| 36 | Dredgers | 1,812 | 3.0 | 3.6 | 1.2 | 26.8 | Dredging ports and aggregates |
-| 37 | Offshore tugs and supply | 4,394 | 4.6 | 5.0 | 1.1 | 22.7 | Offshore support functions |
-| 38 | Other offshore support | 2,764 | 4.2 | 2.5 | 0.6 | 22.5 |
-| 39 | Floating, production, storage | 500 | 20.3 | 33.8 | 1.7 | 25.4 | Development and production |
-| and offloading system |
-| Drill ships, etc. |
-| 40 | Cruise | 452 | 13.1 | 1.5 | 0.1 | 21.8 | Holidays and travel |
-| 41 | Ferries | 3,656 | 2.6 | 0.6 | 0.2 | 24.4 | Passengers and vehicle transport |
-| 42 | Miscellaneous | 2,205 | 9.2 | 5.7 | 0.6 | 23.0 |
-| 43 | Total non cargo fleet | 26,880 | 60 | 54 | 0.9 |
-| 5. Total commercial fleet | 74,398 | 753.6 | 1,094.8 | 1.5 | 21.8 |
+| 26 | Other general cargo |  | 15,113 | 27.8 | 39.1 | 1.4 | 27.2 | Liner types, tramps, coasters |
+| 27 | Total general cargo fleet |  | 25,784 | 191 | 211 | 1.1 |  |  |
+| **4. Specialized cargo fleet** | | | | | | | | |
+| 28 | Reefer |  | 1,800 | 7.6 | 7.7 | 1.0 | 23.9 | Refrigerated, palletized |
+| 29 | Chemical tankers |  | 2,699 | 18 | 29 | 1.6 | 14.6 | Chemical parcels |
+| 30 | Specialized tankers |  | 511 | 2 | 3 | 1.5 | 24.5 |  |
+| 31 | Vehicle carrier |  | 651 | 24.8 | 9.1 | 0.4 | 14.7 | Multiple decks |
+| 32 | LPG |  | 1,082 | 10.1 | 11.9 | 1.2 | 17.7 | Several freezing systems |
+| 33 | LNG |  | 235 | 21.2 | 16.1 | 0.8 | 12.0 | -161 degrees Celsius |
+| 34 | Total specialized cargo fleet |  | 6,978 | 84 | 77 |  |  |  |
+| memo: Total cargo ships |  |  | 47,433 | 689 | 1,033 | 1.5 |  |  |
+| **5. Non-cargo fleet** | | | | | | | | |
+| 35 | Tugs |  | 11,097 | 2.9 | 1.0 | 0.4 | 23.8 | Port or deep sea transport |
+| 36 | Dredgers |  | 1,812 | 3.0 | 3.6 | 1.2 | 26.8 | Dredging ports and aggregates |
+| 37 | Offshore tugs and supply |  | 4,394 | 4.6 | 5.0 | 1.1 | 22.7 | Offshore support functions |
+| 38 | Other offshore support |  | 2,764 | 4.2 | 2.5 | 0.6 | 22.5 |  |
+| 39 | Floating, production, storage and offloading system Drill ships, etc. |  | 500 | 20.3 | 33.8 | 1.7 | 25.4 | Development and production |
+| 40 | Cruise |  | 452 | 13.1 | 1.5 | 0.1 | 21.8 | Holidays and travel |
+| 41 | Ferries |  | 3,656 | 2.6 | 0.6 | 0.2 | 24.4 | Passengers and vehicle transport |
+| 42 | Miscellaneous |  | 2,205 | 9.2 | 5.7 | 0.6 | 23.0 |  |
+| 43 | Total non cargo fleet |  | 26,880 | 60 | 54 | 0.9 |  |  |
+| 5. Total commercial fleet |  |  | 74,398 | 753.6 | 1,094.8 | 1.5 | 21.8 |  |
 
 *Source: Clarkson Register July 2007, CRSL, London Note: average ages are weighted by numbers, not capacity*
 
@@ -1910,10 +1858,10 @@ THE ORGANIZATION OF THE SHIPPING MARKET
 **Table 2.6** The 35 most important maritime countries, January 2006
 
 
-| Million deadweight |
-| % under |
-| National | Foreign | Total | foreign flag |
-| Asia |
+|  | Million deadweight |  |  | % under foreign flag |
+| --- | --- | --- | --- | --- |
+|  | National | Foreign | Total | % under foreign flag |
+| **Asia** | | | | |
 | Japan | 11.8 | 119.9 | 131.7 | 91% |
 | China | 29.8 | 35.7 | 65.5 | 54% |
 | Hong Kong, China | 18.0 | 25.9 | 43.8 | 59% |
@@ -1926,7 +1874,7 @@ THE ORGANIZATION OF THE SHIPPING MARKET
 | Philippines | 4.1 | 1.0 | 5.0 | 19% |
 | Thailand | 2.4 | 0.5 | 2.9 | 16% |
 | Total | 120.0 | 235.6 | 355.6 | 66% |
-| Europe |
+| **Europe** | | | | |
 | Greece | 47.5 | 115.9 | 163.4 | 71% |
 | Germany | 13.1 | 58.4 | 71.5 | 82% |
 | Norway | 13.7 | 31.7 | 45.4 | 70% |
@@ -1942,20 +1890,20 @@ THE ORGANIZATION OF THE SHIPPING MARKET
 | Spain | 0.9 | 3.2 | 4.1 | 79% |
 | Croatia | 1.7 | 1.0 | 2.7 | 37% |
 | Total | 127.1 | 269.0 | 396.1 | 68% |
-| Middle East |
+| **Middle East** | | | | |
 | Saudi Arabia | 1.0 | 10.4 | 11.4 | 91% |
 | Iran (Islamic) | 8.9 | 0.9 | 9.8 | 10% |
 | Kuwait | 3.7 | 1.4 | 5.0 | 27% |
 | UAE | 0.6 | 3.9 | 4.5 | 88% |
-| Total | 14.1 | 16.6 | 30.7 |
-| Other |
+| Total | 14.1 | 16.6 | 30.7 |  |
+| **Other** | | | | |
 | Israel | 0.9 | 1.8 | 2.7 | 68% |
 | United States | 10.2 | 36.8 | 46.9 | 78% |
 | Canada | 2.5 | 4.0 | 6.5 | 61% |
 | Brazil | 2.6 | 2.2 | 4.8 | 46% |
 | Russian Federation | 6.8 | 9.9 | 16.7 | 59% |
 | Australia | 1.4 | 1.3 | 2.6 | 48% |
-| Total | 24.3 | 54.1 | 77.5 |
+| Total | 24.3 | 54.1 | 77.5 |  |
 | Total (35 countries) | 285.5 | 575.3 | 860.0 | 95% |
 | World total | 303.8 | 603.0 | 906.8 | 100% |
 
@@ -2006,28 +1954,24 @@ Economies of scale played a major part in keeping sea transport costs low. We ha
 **Table 2.7** Prices of goods, services and commodities 1960-2004 at current market prices
 
 
-| Unit | 1960 | 1990 | 2004 | Average |
-| increase |
-| 1960-2004 |
-| (% p.a.) |
-| Atlantic air fare | a | $ | 432.6 | 580.9 | 230.0 | − | 1% |
-| Rail fare | b | $ | 23.5 | 106.1 | 99.8 | 3% |
+|  | Unit | 1960 | 1990 | 2004 | Average increase 1960–2004 (% p.a.) |
+| --- | --- | --- | --- | --- | --- |
+| Atlantic air farea | $ | 432.6 | 580.9 | 230.0 | -1% |
+| Rail fareb | $ | 23.5 | 106.1 | 99.8 | 3% |
 | Men's suit (Daks) | $ | 84 | 484 | 478 | 4% |
 | Oil freight Gulf/West | $/barrel | 0.55 | 0.98 | 3.30 | 4% |
-| Coal freight Hampton | $/ton | 6.9 | 14.8 | 44.8 | 4% |
-| Roads/Japan |
-| Ford car | c | $ | 1,385 | 11,115 | 13,430 | 5% |
-| Dinner at the Savoy | d | $ | 7 | 52 | 96 | 6% |
+| Coal freight Hampton Roads/Japan | $/ton | 6.9 | 14.8 | 44.8 | 4% |
+| Ford carc | $ | 1,385 | 11,115 | 13,430 | 5% |
+| Dinner at the Savoyd | $ | 7 | 52 | 96 | 6% |
 | Household coal | $/ton | 12 | 217 | 194 | 6% |
 | Bread (unsliced loaf) | cents | 6.7 | 75.5 | 115.2 | 6% |
-| Postage stamp | e | cents | 4 | 67 | 83 | 8% |
+| Postage stampe | cents | 4 | 67 | 83 | 8% |
 | Crude oil (Arabian Light) | $/barrel | 1.5 | 20.5 | 50.0 | 8% |
-| memo: US consumer prices | Index | 100.0 | 442.0 | 640.0 | 4% |
-| exchange rate $ per £ | 2.8 | 1.8 | 1.9 | − | 1% |
+| memo: US consumer prices exchange rate $ per £ | Index | 100.0 | 442.0 | 640.0 | 4% |
+| memo: US consumer prices exchange rate $ per £ | Index | 2.8 | 1.8 | 1.9 | -1% |
 
 *Source: 'Prices down the years', The Economist, 22 December 1990, updated.*
-
-| Notes |
+Notes
 
 *a London to New York return d Soup, main course, pudding, coffee*
 
@@ -2038,24 +1982,23 @@ Economies of scale played a major part in keeping sea transport costs low. We ha
 *c Cheapest model f Average % increase 1960-2004*
 
 <!-- Page 101 -->
-In calculating capital and operating costs, time spent repositioning the ship between cargoes must be taken into account. The unit cost generally falls as the size of the ship increases because capital, operating and cargo-handling costs do not increase proportionally with the cargo capacity. For example a 330,000 dwt tanker only costs twice as much as an 110,000 dwt vessel, but it carries three times as much cargo (we examine this in more detail in Chapter 6), so the cost per tonne of
+**Figure 2.6** Ship size trends, 1980–2006
 
-THE ORGANIZATION OF THE SHIPPING MARKET
+*Source: Compiled from fleet data*
 
-around 170,000 dwt specialize in the coal and iron ore trade, whilst Panamax bulk carriers carry grain, coal and small iron ore parcels and Handy bulkers (20,000-60,000 dwt) do smaller parcels of minor bulks. Over time the average size of ship in each of these size bands tends to edge upwards. For example, the cutting edge Handy-sized bulk carrier being delivered was 25,000 dwt in 1970, 35,000 dwt in 1985, and 50,000 dwt in 2007. Ship size increased because businesses were able to handle larger parcels of cargo, and port facilities were developed to accommodate bigger ships. Much the same sort of size escalation is taking place in tankers and, of course, container-ships. As can be seen in Figure 2.6, over the 25 years from 1981 to 2006 the size trend was generally up. For example, the average bulk carrier increased in size from 34,000 dwt to 56,000 dwt. But sizes do not always increase. The average size of tanker fell from 96,000 dwt in 1981 to 86,000 dwt in 2005 as a result of 18 structural changes in the fleet, caused by a switch from long-haul to short-haul oil.
+around 170,000 dwt specialize in the coal and iron ore trade, whilst Panamax bulk carriers carry grain, coal and small iron ore parcels and Handy bulkers (20,000–60,000 dwt) do smaller parcels of minor bulks. Over time the average size of ship in each of these size bands tends to edge upwards. For example, the cutting edge Handy-sized bulk carrier being delivered was 25,000 dwt in 1970, 35,000 dwt in 1985, and 50,000 dwt in 2007. Ship size increased because businesses were able to handle larger parcels of cargo, and port facilities were developed to
 
+accommodate bigger ships. Much the same sort of size escalation is taking place in tankers and, of course, container-ships. As can be seen in Figure 2.6, over the 25 years from 1981 to 2006 the size trend was generally up. For example, the average bulk carrier increased in size from 34,000 dwt to 56,000 dwt. But sizes do not always increase. The average size of tanker fell from 96,000 dwt in 1981 to 86,000 dwt in 2005 as a result of structural changes in the fleet, caused by a switch from long-haul to short-haul oil. \( ^{18} \)
 
 #### The sea transport unit cost function
 
+We can see why investors go for bigger ships when we examine the unit cost function. The unit cost of transporting a ton of cargo on a voyage is defined as the sum of the capital cost of the ship (*LC*), the cost of operating the ship (*OPEX*) and the cost of handling the cargo (*CH*), divided by the parcel size (*PS*), which for bulk vessels is the tonnage of cargo it can carry:
 
-We can see why investors go for bigger ships when we examine the unit cost function. The unit cost of transporting a ton of cargo on a voyage is defined as the sum of the capital cost of the ship ( LC ), the cost of operating the ship ( OPEX ) and the cost of handling the cargo ( CH ), divided by the parcel size ( PS ), which for bulk vessels is the tonnage of cargo it can carry:
+\[
+\text{Unit Cost} = \frac{LC + OPEX + CH}{PS}
+\]
 
-LC + OPEX + CH Unit Cost =
-
-PS
-
-
-**Figure 2.6** Ship size trends, 1980-2006 Source: Compiled from fleet data
+In calculating capital and operating costs, time spent repositioning the ship between cargoes must be taken into account. The unit cost generally falls as the size of the ship increases because capital, operating and cargo-handling costs do not increase proportionally with the cargo capacity. For example a 330,000 dwt tanker only costs twice as much as an 110,000 dwt vessel, but it carries three times as much cargo (we examine this in more detail in Chapter 6), so the cost per tonne of
 
 <!-- Page 102 -->
 THE COST OF SEA TRANSPORT 2.7
@@ -2190,16 +2133,15 @@ In the background are the suppliers, including managers, ship repairers, shipbui
 **Table 2.8** Size of shipping companies, 2004 a
 
 
-| No. of |
-| No. of | Companies | # Ships | % fleet | Ships per |
-| ships | (No. of | company |
-| in fleet | ships) |
+| No. of ships in fleet | No. of | No. of | % fleet (No. of ships) | Ships per company |
+| --- | --- | --- | --- | --- |
+| No. of ships in fleet | Companies | # Ships | % fleet (No. of ships) | Ships per company |
 | Over 200 | 10 | 4074 | 11% | 407 |
-| 100-200 | 22 | 2754 | 7% | 125 |
-| 50-99 | 80 | 5538 | 15% | 69 |
-| 20-49 | 256 | 7520 | 20% | 29 |
-| 10-19 | 460 | 6211 | 17% | 14 |
-| 5-9 | 669 | 4389 | 12% | 7 |
+| 100–200 | 22 | 2754 | 7% | 125 |
+| 50–99 | 80 | 5538 | 15% | 69 |
+| 20–49 | 256 | 7520 | 20% | 29 |
+| 10–19 | 460 | 6211 | 17% | 14 |
+| 5–9 | 669 | 4389 | 12% | 7 |
 | Under 5 | 4021 | 6417 | 17% | 2 |
 | Grand total | 5518 | 36,903 | 100% | 7 |
 
@@ -2301,13 +2243,7 @@ Ports play a vital part in the transport process. Mechanization of cargo handlin
 Finally, we discussed the companies that run the business. They have very varied organization and decision-making structures, a fact which market analysts are well advised to remember.
 
 <!-- Page 116 -->
-# Part 2
-
-
-# S H I P P I N G M A R K E T
-
-
-# E C O N O M I C S
+# Part 2: SHIPPING MARKET ECONOMICS
 
 <!-- Page 118 -->
 ## Shipping Market Cycles
@@ -2532,44 +2468,40 @@ Figure 3.6, which plots the cycles in chronological order by length, reveals two
 **Table 3.1** Dry cargo freight cycles, 1741-2007
 
 
-| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
-| Peak | Trough |
-| Total |
-| Cycle Number | Start | End | Length | Start | End | Length | Cycle |
-| 1 | 1743 | 1745 | 3 | 1746 | 1753 | 7 | 10 |
-| 2 | 1741-1871 | 1754 | 1764 | 11 | 1765 | 1774 | 9 | 20 |
-| 3 | 1775 | 1783 | 9 | 1784 | 1791 | 7 | 16 |
-| 4 | 1791 | 1796 | 6 | 1820 | 1825 | 5 | 11 |
-| 1792 | 1813 | Napoleonic Wars |
-| 5 | era | 1821 | 1825 | 5 | 1826 | 1836 | 10 | 15 |
-| 6 | 1837 | 1840 | 4 | 1841 | 1852 | 11 | 15 |
-| Sail |
-| 7 | 1853 | 1857 | 5 | 1858 | 1870 | 12 | 17 |
-| 8 | 1872-1947 | 1873 | 1874 | 2 | 1875 | 1879 | 5 | 7 |
-| 9 | 1880 | 1882 | 3 | 1883 | 1886 | 4 | 7 |
-| 10 | 1887 | 1889 | 3 | 1890 | 1897 | 8 | 11 |
-| 11 | 1898 | 1900 | 3 | 1901 | 1910 | 10 | 13 |
-| 12 | era | 1911 | 1913 | 3 | First World War |
-| 13 | 1919 | 1920 | 2 | 1921 | 1925 | 4 | 6 |
-| Tramp |
-| 14 | 1926 | 1927 | 2 | 1928 | 1937 | 9 | 11 |
-| 1939 | 1946 | Second World War |
-| 15 | 1947 | 1947 | 1 | 1948 | 1951 | 4 | 5 |
-| 1947-2007 |
-| 16 | 1952 | 1953 | 2 | 1954 | 1955 | 2 | 4 |
-| 17 | 1956 | 1957 | 2 | 1958 | 1969 | 12 | 14 |
-| 18 | 1970 | 1970 | 1 | 1971 | 1972 | 2 | 3 |
-| 19 | 1973 | 1974 | 2 | 1975 | 1978 | 4 | 6 |
-| era |
-| 20 | 1979 | 1981 | 1 | 1982 | 1987 | 6 | 7 |
-| 21 | Bulk | 1988 | 1997 | 10 | 1998 | 2002 | 5 | 15 |
-| 22 | 2003 | 2007 | 5 | 5 |
-| Average | 3.9 | 6.8 | 10.4 |
-| Summary | Av. Peak | Av. Trough | Total |
-| Sail era | 1741-1871 | 6.1 | 8.7 | 14.9 |
-| Tramp era | 1871-1937 | 2.6 | 6.7 | 9.2 |
-| Bulk era | 1947-2007 | 3.0 | 5.0 | 8.0 |
-| 1741-2007 | 3.9 | 6.8 | 10.4 |
+| Cycle Number (1) | Era | Peak Start (2) | Peak End (3) | Peak Length (4) | Trough Start (5) | Trough End (6) | Trough Length (7) | Total Cycle (8) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Sail era 1741–1871 | 1743 | 1745 | 3 | 1746 | 1753 | 7 | 10 |
+| 2 | Sail era 1741–1871 | 1754 | 1764 | 11 | 1765 | 1774 | 9 | 20 |
+| 3 | Sail era 1741–1871 | 1775 | 1783 | 9 | 1784 | 1791 | 7 | 16 |
+| 4 | Sail era 1741–1871 | 1791 | 1796 | 6 | 1820 | 1825 | 5 | 11 |
+|  | Sail era 1741–1871 | 1792 | 1813 |  | Napoleonic Wars |  |  |  |
+| 5 | Sail era 1741–1871 | 1821 | 1825 | 5 | 1826 | 1836 | 10 | 15 |
+| 6 | Sail era 1741–1871 | 1837 | 1840 | 4 | 1841 | 1852 | 11 | 15 |
+| 7 | Sail era 1741–1871 | 1853 | 1857 | 5 | 1858 | 1870 | 12 | 17 |
+| 8 | Tramp era 1872–1947 | 1873 | 1874 | 2 | 1875 | 1879 | 5 | 7 |
+| 9 | Tramp era 1872–1947 | 1880 | 1882 | 3 | 1883 | 1886 | 4 | 7 |
+| 10 | Tramp era 1872–1947 | 1887 | 1889 | 3 | 1890 | 1897 | 8 | 11 |
+| 11 | Tramp era 1872–1947 | 1898 | 1900 | 3 | 1901 | 1910 | 10 | 13 |
+| 12 | Tramp era 1872–1947 | 1911 | 1913 | 3 | First World War |  |  |  |
+| 13 | Tramp era 1872–1947 | 1919 | 1920 | 2 | 1921 | 1925 | 4 | 6 |
+| 14 | Tramp era 1872–1947 | 1926 | 1927 | 2 | 1928 | 1937 | 9 | 11 |
+|  | Tramp era 1872–1947 | 1939 | 1946 |  | Second World War |  |  |  |
+| 15 | Bulk era 1947–2007 | 1947 | 1947 | 1 | 1948 | 1951 | 4 | 5 |
+| 16 | Bulk era 1947–2007 | 1952 | 1953 | 2 | 1954 | 1955 | 2 | 4 |
+| 17 | Bulk era 1947–2007 | 1956 | 1957 | 2 | 1958 | 1969 | 12 | 14 |
+| 18 | Bulk era 1947–2007 | 1970 | 1970 | 1 | 1971 | 1972 | 2 | 3 |
+| 19 | Bulk era 1947–2007 | 1973 | 1974 | 2 | 1975 | 1978 | 4 | 6 |
+| 20 | Bulk era 1947–2007 | 1979 | 1981 | 1 | 1982 | 1987 | 6 | 7 |
+| 21 | Bulk era 1947–2007 | 1988 | 1997 | 10 | 1998 | 2002 | 5 | 15 |
+| 22 | Bulk era 1947–2007 | 2003 | 2007 | 5 |  |  |  | 5 |
+| Average |  |  |  | 3.9 |  |  | 6.8 | 10.4 |
+
+| Summary | Period | Av. Peak | Av. Trough | Total |
+| --- | --- | --- | --- | --- |
+| Sail era | 1741–1871 | 6.1 | 8.7 | 14.9 |
+| Tramp era | 1871–1937 | 2.6 | 6.7 | 9.2 |
+| Bulk era | 1947–2007 | 3.0 | 5.0 | 8.0 |
+| 1741–2007 |  | 3.9 | 6.8 | 10.4 |
 
 *Source: Complied by Martin Stopford from the data in Appendix C and other sources*
 
@@ -2668,10 +2600,11 @@ The recession started in 1874 and lasted 5 years until 1879. By 1876 the market 
 **Table 3.2** World merchant fleet by propulsion
 
 
-| Steam | Sail | Total |
+|  | Steam | Sail | Total |
+| --- | --- | --- | --- |
 | 1870 | 2.6 | 14.1 | 16.7 |
 | 1910 | 26.1 | 8.4 | 34.5 |
-| Growth pa | 6% | − | 1% |
+| Growth pa | 6% | -1% |  |
 
 *Source: Kirkaldy (1914 Appendix XVII).*
 
@@ -3010,15 +2943,16 @@ First we must restate the truth so evident from shipping history, that cycles ar
 **Table 3.3** Shipping market fundamentals analysis
 
 
-| Demand growth | Supply tendency | Market tone |
-| 1998-2007 | Very fast | Shortage | Prosperous |
-| 1945-1956 | Very fast | Shortage | Prosperous |
-| 1869-1914 | Fast | Expanding | Competitive |
-| 1956-1973 | Very Fast | Expanding | Competitive |
-| 1988-1997 | Slow | Expanding | Competitive |
-| 1920-1930 | Fast | Overcapacity | Weak |
-| 1930-1939 | Falling | Overcapacity | Depressed |
-| 1973-1988 | Falling | Overcapacity | Depressed |
+|  | Demand growth | Supply tendency | Market tone |
+| --- | --- | --- | --- |
+| 1998–2007 | Very fast | Shortage | Prosperous |
+| 1945–1956 | Very fast | Shortage | Prosperous |
+| 1869–1914 | Fast | Expanding | Competitive |
+| 1956–1973 | Very Fast | Expanding | Competitive |
+| 1988–1997 | Slow | Expanding | Competitive |
+| 1920–1930 | Fast | Overcapacity | Weak |
+| 1930–1939 | Falling | Overcapacity | Depressed |
+| 1973–1988 | Falling | Overcapacity | Depressed |
 
 <!-- Page 157 -->
 SHIPPING MARKET CYCLES
@@ -3112,17 +3046,12 @@ How does the model work? The mechanics are very simple. In the demand module (A)
 
 
 | Demand | Supply |
-
-*1. The world economy 1. World fleet*
-
-
-*2. Seaborne commodity trades 2. Fleet productivity*
-
-
-*3. Average haul 3. Shipbuilding production*
-
-| 4. | Random shocks | 4. | Scrapping and losses |
-| 5. | Transport costs | 5. | Freight revenue |
+| --- | --- |
+| 1. The world economy | 1. World fleet |
+| 2. Seaborne commodity trades | 2. Fleet productivity |
+| 3. Average haul | 3. Shipbuilding production |
+| 4. Random shocks | 4. Scrapping and losses |
+| 5. Transport costs | 5. Freight revenue |
 
 <!-- Page 162 -->
 KEY INFLUENCES ON SUPPLY AND DEMAND 4.2
@@ -3371,21 +3300,22 @@ THE SUPPLY OF SEA TRANSPORT 4.4
 **Table 4.2** The world cargo fleet at 1st January (m.dwt)
 
 
-| Size of fleet (m.dwt) | % growth rate per annum |
-| 1980 | 1990 | 2000 | 2007 | 1980-90 | 1990-2000 | 2000-2007 |
+|  | Size of fleet (m.dwt) |  |  |  | % growth rate per annum |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1980 | 1990 | 2000 | 2007 | 1980–90 | 1990–2000 | 2000–2007 |
 | Bulk carriers | 140.7 | 203.4 | 266.8 | 369.7 | 4% | 3% | 5% |
-| Oil tankers | 339.3 | 262.9 | 307.0 | 363.9 | − | 3% | 2% | 2% |
-| Combined carriers | 47.4 | 30.3 | 14.9 | 9.4 | − | 4% | − | 7% | − | 6% |
+| Oil tankers | 339.3 | 262.9 | 307.0 | 363.9 | -3% | 2% | 2% |
+| Combined carriers | 47.4 | 30.3 | 14.9 | 9.4 | -4% | -7% | -6% |
 | Containerships | 9.9 | 26.3 | 64.7 | 128.0 | 10% | 9% | 10% |
 | MPP | 8.5 | 16.8 | 19.0 | 23.6 | 7% | 1% | 3% |
-| Reefer | 5.8 | 7.4 | 8.0 | 7.3 | 3% | 1% | − | 1% |
+| Reefer | 5.8 | 7.4 | 8.0 | 7.3 | 3% | 1% | -1% |
 | Car carriers | 1.9 | 4.0 | 5.7 | 8.7 | 8% | 3% | 6% |
 | Ro-Ro | 3.7 | 6.6 | 8.1 | 9.5 | 6% | 2% | 2% |
 | LPG | 5.1 | 6.9 | 10.2 | 11.9 | 3% | 4% | 2% |
 | LNG | 2.9 | 3.9 | 7.1 | 15.2 | 3% | 6% | 11% |
 | Sub total | 565.1 | 568.6 | 711.6 | 947.2 | 0% | 2% | 4% |
-| General cargo | -- | -- | 42.8 | 38.9 | -- | -- | − | 1% |
-| Grand total | -- | -- | 754.4 | 986.1 | -- | -- | 4% |
+| General cargo | — | — | 42.8 | 38.9 | — | — | -1% |
+| Grand total | — | — | 754.4 | 986.1 | — | — | 4% |
 
 *Source: CRSL, Shipping Review and Outlook*
 
@@ -3509,19 +3439,21 @@ THE FREIGHT RATE MECHANISM 4.5
 <!-- Page 187 -->
 rates he speeds up until at about $220 per million ton miles the ship is at full speed of 15 knots and supplying 13.8 btm of sea transport per year (a lot of transport for just one ship!). Thus by increasing freight rates the market has obtained an extra 36% supply. Evidence of this process at work can be seen in Figure 4.8, which shows how the productivity of the world fleet peaked in 1973 when freight rates were very high, fell in the early 1980s when freight rates were very low, and then increased again in the 1990s as freight rates improved.
 
-Economic theory can help to define the shape of the supply curve. Provided the market is perfectly competitive, the shipowner maximizes his profit by operating his ship at the speed at which marginal cost (i.e. the cost of providing an additional ton mile of transport) equals the freight rate. The relationship between speed and freight rates 18 can be defined as follows:
+Economic theory can help to define the shape of the supply curve. Provided the market is perfectly competitive, the shipowner maximizes his profit by operating his ship at the speed at which marginal cost (i.e. the cost of providing an additional ton mile of transport) equals the freight rate. The relationship between speed and freight rates can be defined as follows: \( ^{18} \)
+
+\[
+S = \sqrt{\frac{R}{3p.k.d}}
+\]
 
 (4.1)
 
-where S is the optimum speed in miles per day, R the voyage freight rate, p the price of = fuel, k the ship's fuel constant, and d distance. This equation defines the shape of the supply curve. In addition to freight rates the optimum speed depends on the price of fuel, the efficiency of the ship and the length of the voyage. We will discuss these costs in Chapter 6.
+where S is the optimum speed in miles per day, R the voyage freight rate, p the price of fuel, k the ship's fuel constant, and d = distance. This equation defines the shape of the supply curve. In addition to freight rates the optimum speed depends on the price of fuel, the efficiency of the ship and the length of the voyage. We will discuss these costs in Chapter 6.
 
-In reality the supply function is more complex than the simple speed-freight rates relationship described in the previous paragraphs. Speed is not the only way supply responds to freight rates. The owner may take advantage of a spell of low freight rates to put his ship into dry dock, or fix a short-term storage contract. At higher rates he may decide to ballast back to the Arabian Gulf through the shorter Suez Canal route rather than taking the longer 'free passage' round the Cape. All of these decisions affect supply. Similarly, freight rates are not the only way the market adjusts shipowners' revenue. During periods of surplus ships have to wait for cargo or accept small cargo parcels. This reduces the operating revenue in just the same way as a fall in freight rates, a factor often forgotten by owners and bankers doing cashflow forecasts on old ships. They may predict freight rates correctly but end up with an embarrassing cash deficit due to waiting time and part cargoes.
+In reality the supply function is more complex than the simple speed–freight rates relationship described in the previous paragraphs. Speed is not the only way supply responds to freight rates. The owner may take advantage of a spell of low freight rates to put his ship into dry dock, or fix a short-term storage contract. At higher rates he may decide to ballast back to the Arabian Gulf through the shorter Suez Canal route rather than taking the longer ‘free passage’ round the Cape. All of these decisions affect supply. Similarly, freight rates are not the only way the market adjusts shipowners’ revenue. During periods of surplus ships have to wait for cargo or accept small cargo parcels. This reduces the operating revenue in just the same way as a fall in freight rates, a factor often forgotten by owners and bankers doing cashflow forecasts on old ships. They may predict freight rates correctly but end up with an embarrassing cash deficit due to waiting time and part cargoes.
 
-The next step is to show how the market adjusts the supply provided by a fleet of ships . To illustrate this process, the supply function for a fleet of 10 VLCCs is shown in Figure 4.12b. The fleet supply curve (S) is built up from the supply curves of individual ships of varying age and efficiency. In this example the age distribution of the fleet ranges from 2 to 20 years in intervals of 2 years. Ship 1 (the newest ship) has low daily operating costs and its lay-up point is $155 per million ton miles. Ship 10 (the oldest) has high operating costs and its lay-up point is $165 per million ton miles.
+The next step is to show how the market adjusts the supply provided by a *fleet of ships*. To illustrate this process, the supply function for a fleet of 10 VLCCs is shown in Figure 4.12b. The fleet supply curve (S) is built up from the supply curves of individual ships of varying age and efficiency. In this example the age distribution of the fleet ranges from 2 to 20 years in intervals of 2 years. Ship 1 (the newest ship) has low daily operating costs and its lay-up point is $155 per million ton miles. Ship 10 (the oldest) has high operating costs and its lay-up point is $165 per million ton miles.
 
-The fleet supply function works by moving ships in and out of service in response to freight rates. If freight rates fall below the operating costs of ship 10, it goes into lay-up and supply is reduced by one ship. Ship 9 breaks even and the other eight ships make a margin over their fixed expenses, depending on how efficient they are. If shippers only need five ships they can drop their offer to $160 per million ton miles, the lay-up point
-
-R = S 3 p k . . d
+*The fleet supply function* works by moving ships in and out of service in response to freight rates. If freight rates fall below the operating costs of ship 10, it goes into lay-up and supply is reduced by one ship. Ship 9 breaks even and the other eight ships make a margin over their fixed expenses, depending on how efficient they are. If shippers only need five ships they can drop their offer to $160 per million ton miles, the lay-up point
 
 <!-- Page 188 -->
 of ship 5. In this way supply responds to movements in freight rates. Over a longer period the supply can be increased by building new more efficient ships and reduced by scrapping old ones.
@@ -3809,42 +3741,17 @@ Four types of contractual arrangement are commonly used, each of which distribut
 
 *1. Voyage Charter 2. Time charter 3. Bare boat*
 
-| Master instructed by: | - | Master instructed by: | - | Master appointed by: | - |
-| Owner | Owner for ship and | Charterer |
-| charterer for cargo |
-| Revenue depends on | : | Revenue depends on | : | Revenue depends on | : |
-| Quantity of cargo & rate | Hire rate, duration and | Hire rate & duration |
-| per unit of cargo | off-hire time |
-| Costs paid by owner: | Costs paid by owner: | Costs paid by owner: |
 
+charterer for cargo
 *1. Capital costs 1. Capital costs 1. Capital costs*
-
-| Capital | Capital | Capital |
-| Brokerage | Brokerage | Brokerage |
-
 *2. Operating costs 2. Operating costs*
-
-| Wages | Wages |
-| Provisions | Provisions |
-| Maintenance | Maintenance | Operating costs: note |
-| Repairs | Repairs | that under bare boat |
-| Stores & supplies | Stores & supplies | these are paid by the |
-| Lube oil | Lube oil | charterer |
-| Water | Water |
-| Insurance | Insurance |
-| Overheads | Overheads |
-
 *3. Port costs*
-
-| Port charges |
-| Stevadoring charges |
-| Cleaning holds | Voyage costs: note that under time- |
-| Cargo claims | charter and bare boat contracts these |
-| costs are paid by the charterer |
-| 4. Bunkers, etc |
-| Canal transit dues |
-| Bunker fuel |
-| 4. Contract of Affreightmen | t (COA): cost profile same as voyage charter |
+Port charges
+Stevadoring charges
+costs are paid by the charterer
+4. Bunkers, etc
+Canal transit dues
+Bunker fuel
 
 *Source: Compiled by Martin Stopford*
 
@@ -4026,15 +3933,14 @@ The Worldscale index is published in a book that is used as the basis for calcul
 
 
 | Total capacity | 75,000 tonnes |
+| --- | --- |
 | Average service speed | 14.5 knots |
-| Bunker consumption |
+| Bunker consumption |  |
 | steaming | 55 tonnes per day |
 | other | 100 tonnes per round voyage |
 | in port | 5 tonnes per port |
 | Grade of fuel oil | 380 centistokes |
-| Port time | 4 days for a voyage from one |
-| loading port to another |
-| discharging port |
+| Port time | 4 days for a voyage from one loading port to another discharging port |
 | Fixed hire element | $12,000 per day |
 | Bunker price | US$116.75 per tonne |
 | Port costs | Most recent available |
@@ -4125,13 +4031,13 @@ THE FREIGHT DERIVATIVES MARKET 5.4
 **Table 5.3** Baltic forward rate assessment examples
 
 
-| Capesize | VLCC |
-| Parcel t | 150,000 | 250,000 |
-| Route | C4 | TD3 |
-| Unit | $/ton | WS |
-| Period/Route | CS RBAY-RDM | ME Gulf |
-| JAPAN |
-| Spot | 35.20 | 57.94 |
+|  | Capesize |  | VLCC |
+| --- | --- | --- | --- |
+| Parcel t | 150,000 |  | 250,000 |
+| Route | C4 |  | TD3 |
+| Unit | $/ton |  | WS |
+| Period/Route | CS RBAY-RDM |  | ME Gulf JAPAN |
+| Spot | 35.20 |  | 57.94 |
 | Oct '07 | 35.28 | Oct '07 | 72.80 |
 | Nov (07) | 35.02 | Nov (07) | 87.20 |
 | Dec (07) | 34.55 | Dec (07) | 87.00 |
@@ -4142,9 +4048,11 @@ THE FREIGHT DERIVATIVES MARKET 5.4
 | Jul (08) | 28.69 | Q3 (08) | 70.00 |
 | Cal 08 | 28.79 | Cal 08 | 74.00 |
 | Cal 09 | 23.87 | Cal 09 | 69.80 |
-| Cal 10 | 18.66 | Cal 10 |
-| Source Baltic Exchange |
-| This BFA mark-to-market data is published daily |
+| Cal 10 | 18.66 | Cal 10 |  |
+
+*Source Baltic Exchange*
+
+*This BFA mark-to-market data is published daily*
 
 <!-- Page 223 -->
 TD3 VLCC route from the Arabian Gulf to Japan. This shows that on the day in question the actual rate for the Richards Bay-Rotterdam index was $32.50 per tonne, with contract units for settlement at the end of November being traded at $35.02 per tonne, and for the full year 2008 the average was $28.79 per tonne. This implies a strong market continuing, but with some weakening, in 2008. For tankers the TD3 route was trading at WS 57.94 on 31 August, but contracts for January 2008 were trading at WS 80, suggesting that the market expects a seasonal improvement. These provide price guidelines at which buyers and sellers might start negotiating a trade and they are also used by the clearing houses to mark cleared contracts to market.
@@ -4430,10 +4338,7 @@ SUMMARY 5.8
 These four markets work together, linked by cashflow. The players are jostled in the direction the market wants them to go by a combination of cashflow and market sentiment, but the market does not have complete control. Ultimately what happens tomorrow depends on what people do today. In this respect shipping is just like the country market. By the time the farmer arrives at market with his pig and finds that all the other farmers have bred pigs, it is too late. Prices will fall, and the farmer, who has feed bills to pay, must accept the price on offer. But this situation was created a year earlier when prices were high and everyone started breeding pigs. The smart farmers saw what other farmers were doing and switched to chickens. This has nothing to do with the demand for pigs or chickens. It is a supply-side management and we will discuss how individual firms deal with it in Chapter 8. But for now we conclude that, like the farmer, the successful shipping company must know when to steer clear of pigs!
 
 <!-- Page 240 -->
-# Part 3
-
-
-# SHIPPING COMPANY ECONOMICS
+# Part 3: SHIPPING COMPANY ECONOMICS
 
 <!-- Page 242 -->
 ### 6.1 CASHFLOW AND THE ART OF SURVIVAL
@@ -4551,23 +4456,17 @@ new ship. If gross earnings for a Capesize (i.e. before bunker costs) fall to th
 
 It is not just old ships that are on trial during recessions. Capital costs cannot just be written out of the picture. Ships financed with bank loans have a fixed cashflow which may exceed operating costs by a considerable margin. In these circumstances it is the owner of the modern ship who is on trial. If the freight is not enough to cover financing costs and the owner defaults, the bank may enforce its mortgage rights, seize the ship and sell it to cover the outstanding debt. In this way the market filters out the substandard owners as well as the substandard ships.
 
-
 #### Unit costs and economies of scale
 
-
 Another economic relationship which dominates shipping economics and complicates life for shipping economists is the relationship between cost and ship size, usually referred to as economies of scale. Shipping is about moving cargo, so the economic focus of the business is unit cost, the cost per ton, per TEU or per cubic metre. That is where we will start. We define the annual cost per deadweight tonne of a ship as the sum of operating costs, voyage costs, cargo-handling costs and capital costs incurred in a year divided by the deadweight of the ship:
+
+\[
+C_{tm} = \frac{OC_{tm} + PM_{tm} + VC_{tm} + CHC_{tm} + K_{tm}}{DWT_{tm}}
+\]
 
 (6.1)
 
 where C is the cost per dwt (or other capacity measurement e.g. M3) per annum, OC the operating cost per annum, PM the periodic maintenance per annum, VC the voyage costs per annum, CHC the cargo-handling costs per annum, K the
-
-OC PM VC CHC K C tm DWT
-
-tm tm tm tm tm
-
-+ + + + = tm
-
-FINANCIAL PERFORMANCE AND INVESTMENT STRATEGY 6.2
 
 <!-- Page 249 -->
 capital cost per annum, DWT the ship deadweight, t is the year, and m stands for the m th ship.
@@ -4582,18 +4481,15 @@ COSTS, REVENUE AND CASHFLOW
 **Table 6.1** Economies of scale in bulk shipping (including bunkers)
 
 
-| Assumptions | Unit Costs ($/dwt p.a.) |
-| Total |
-| Cargo | Bunker | cost | Memo | d |
-| capacity | Investment | cons | Operating | Operating Bunker | Capital | $/dwt daily cost |
-| dwt | $m | a | tons/day | $m p.a. | cost | costs | b | cost | c | p.a. | $000/day |
+|  | Assumptions |  |  | Unit Costs ($/dwt p.a.) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cargo capacity dwt | Investment $ma | Bunker cons tons/day | Operating $m p.a. | Operating cost | Bunker costsb | Capital costc | Total cost $/dwt p.a. | Memod daily cost $000/day |
 | 30,000 | 26 | 21 | 1.2 | 40.6 | 56.7 | 93.5 | 191 | 11,494 |
 | 47,000 | 31 | 24 | 1.4 | 30.3 | 41.4 | 71.4 | 143 | 13,657 |
 | 68,000 | 36 | 30 | 1.8 | 26.0 | 35.7 | 58.2 | 120 | 16,360 |
 | 170,000 | 59 | 50 | 2.0 | 12.0 | 23.8 | 38.2 | 74 | 24,374 |
-| Memo: | cost of 170,000 dwt ship as % 30,000 dwt ship |
-| 567% | 231% | 238% | 168% | 30% | 42% | 41% | 39% |
-| Source | : | various |
+| **Memo: cost of 170,000 dwt ship as % 30,000 dwt ship** | | | | | | | | |
+| 567% | 231% | 238% | 168% | 30% | 42% | 41% | 39% |  |
 
 *a Cost of newbuilding in December 2005*
 
@@ -4621,30 +4517,7 @@ THE COST OF RUNNING SHIPS 6.3
 **Figure 6.4** Analysis of the major costs of running a bulk carrier Source: Compiled by Martin Stopford from various sources Note : This analysis is for a 10-year-old Capesize bulk carrier under the Liberian flag at 2005 prices. Relative costs depend on many factors that change over time, so this is just a rough guide.
 
 <!-- Page 251 -->
-index increased by 5.5% per year, compared with 4.6% for the US consumer price index. However, the ship cost index was far more volatile, driven by the wild swings in fuel and capital costs which together account for close to two-thirds of the total.
-
-
-#### Operating costs
-
-
-Operating costs, the first item in Figure 6.4, are the ongoing expenses connected with the day-to-day running of the vessel (excluding fuel, which is included in voyage costs), together with an allowance for day-to-day repairs and maintenance (but not major dry dockings, which are dealt with separately). They account for about 14% of total costs. The principal components of operating costs are:
-
-(6.2)
-
-where M is manning cost, ST represents stores, MN is routine repair and maintenance, I is insurance and AD administration.
-
-An example of the operating cost structure of a Capesize bulk carrier is shown in Table 6.2, subdivided into these categories. In summary, the operating cost structure depends on the size and nationality of the crew, maintenance policy and the age and insured value of the ship, and the administrative efficiency of the owner. Table 6.2 shows the relative importance of each of these components in operating costs and compares them for ships of three different ages, 5, 10 and 20 years.
-
-CREW COSTS
-
-Crew costs include all direct and indirect charges incurred by the crewing of the vessel, including basic salaries and wages, social insurance, pensions, victuals and repatriation expenses. The level of manning costs for a particular ship is determined by two factors, the size of the crew and the employment policies adopted by the owner and the ship's flag state. Manning costs may account for up to half of operating costs, depending on the size of the ship.
-
-= + + + + OC M ST MN I AD tm tm tm tm tm tm
-
-COSTS, REVENUE AND CASHFLOW
-
-
-**Figure 6.5** Inflation in shipping costs, 1965-2007 Source: Fuel costs based on marine bunker price 380 cSt, Rotterdam; capital costs based on Aframax tanker newbuilding price (in $); other costs based on US consumer price index
+The attached image is one document page. The Markdown and layout blocks are first-pass OCR. Rewrite both so they match what is clearly visible: keep headings, lists, tables, and reading order; mark the selected YES / NO / N/A / checkbox with [x]; if a printed word is crossed out and handwriting replaces it, write ~~printed~~ handwritten; add missing text only when every word is clearly legible; do not invent, summarize, duplicate, or drop text; every number and digit sequence must match the image; if uncertain, keep the original; return exactly one corrected block for every input block, using the same index; preserve block order; correct only block content because geometry is retained by the caller. Return only JSON matching the supplied schema. <markdown> # COSTS, REVENUE AND CASHFLOW CHAPTER 6 index increased by 5.5% per year, compared with 4.6% for the US consumer price index. However, the ship cost index was far more volatile, driven by the wild swings in fuel and capital costs which together account for close to two-thirds of the total. # Operating costs Operating costs, the first item in Figure 6.4, are the ongoing expenses connected with the day-to-day running of the vessel (excluding fuel, which is included in voyage costs), together with an allowance for day-to-day repairs and maintenance (but not major dry dockings, which are dealt with separately). They account for about 14% of total costs. The principal components of operating costs are: \\[ O C _ {t m} = M _ {t m} + S T _ {t m} + M N _ {t m} + I _ {t m} + A D _ {t m} \\] Figure 6.5 Inflation in shipping costs, 1965–2007 Source: Fuel costs based on marine bunker price 380 cSt, Rotterdam; capital costs based on Aframax tanker newbuilding price (in $); other costs based on US consumer price index (6.2) where M is manning cost, ST represents stores, MN is routine repair and maintenance, I is insurance and AD administration. An example of the operating cost structure of a Capesize bulk carrier is shown in Table 6.2, subdivided into these categories. In summary, the operating cost structure depends on the size and nationality of the crew, maintenance policy and the age and insured value of the ship, and the administrative efficiency of the owner. Table 6.2 shows the relative importance of each of these components in operating costs and compares them for ships of three different ages, 5, 10 and 20 years. # CREW COSTS Crew costs include all direct and indirect charges incurred by the crewing of the vessel, including basic salaries and wages, social insurance, pensions, victuals and repatriation expenses. The level of manning costs for a particular ship is determined by two factors, the size of the crew and the employment policies adopted by the owner and the ship’s flag state. Manning costs may account for up to half of operating costs, depending on the size of the ship. 226 </markdown> <blocks> [{"index": 0, "content": "COSTS, REVENUE AND CASHFLOW", "bbox": [0.1044921875, 0.04138851802403204, 0.4814453125, 0.05941255006675567], "type": "header"}, {"index": 1, "content": "CHAPTER 6", "bbox": [0.0654296875, 0.04606141522029372, 0.0859375, 0.17089452603471295], "type": "aside_text"}, {"index": 2, "content": "index increased by 5.5% per year, compared with 4.6% for the US consumer price index. However, the ship cost index was far more volatile, driven by the wild swings in fuel and capital costs which together account for close to two-thirds of the total.", "bbox": [0.1025390625, 0.08878504672897196, 0.89453125, 0.14686248331108145], "type": "text"}, {"index": 3, "content": "Operating costs", "bbox": [0.1044921875, 0.17356475300400534, 0.2841796875, 0.19225634178905207], "type": "title"}, {"index": 4, "content": "Operating costs, the first item in Figure 6.4, are the ongoing expenses connected with the day-to-day running of the vessel (excluding fuel, which is included in voyage costs), together with an allowance for day-to-day repairs and maintenance (but not major dry dockings, which are dealt with separately). They account for about 14% of total costs. The principal components of operating costs are:", "bbox": [0.1015625, 0.20293724966622162, 0.896484375, 0.2983978638184246], "type": "text"}, {"index": 5, "content": "\\[\nO C _ {t m} = M _ {t m} + S T _ {t m} + M N _ {t m} + I _ {t m} + A D _ {t m}\n\\]", "bbox": [0.1591796875, 0.30774365821094796, 0.513671875, 0.32910547396528705], "type": "equation"}, {"index": 6, "content": "[SIGNATURE]", "bbox": [0.1044921875, 0.3598130841121495, 0.6123046875, 0.6134846461949266], "type": "chart"}, {"index": 7, "content": "Figure 6.5", "bbox": [0.1044921875, 0.6154873164218959, 0.2021484375, 0.630173564753004], "type": "image_caption"}, {"index": 8, "content": "Inflation in shipping costs, 1965–2007\nSource: Fuel costs based on marine bunker price 380 cSt, Rotterdam; capital costs based on Aframax tanker newbuilding price (in $); other costs based on US consumer price index", "bbox": [0.1025390625, 0.6308411214953271, 0.5966796875, 0.6862483311081442], "type": "image_footnote"}, {"index": 9, "content": "(6.2)", "bbox": [0.845703125, 0.3170894526034713, 0.892578125, 0.33511348464619495], "type": "formula_number"}, {"index": 10, "content": "where M is manning cost, ST represents stores, MN is routine repair and maintenance, I is insurance and AD administration.", "bbox": [0.6279296875, 0.35447263017356473, 0.896484375, 0.4485981308411215], "type": "text"}, {"index": 11, "content": "An example of the operating cost structure of a Capesize bulk carrier is shown in Table 6.2, subdivided into these categories. In summary, the operating cost structure depends on the size and nationality of the crew, maintenance policy and the age and insured value of the ship, and the administrative efficiency of the owner. Table 6.2 shows the relative importance of", "bbox": [0.6279296875, 0.4499332443257677, 0.8974609375, 0.7142857142857143], "type": "text"}, {"index": 12, "content": "each of these components in operating costs and compares them for ships of three different ages, 5, 10 and 20 years.", "bbox": [0.1025390625, 0.7156208277703605, 0.89453125, 0.7536715620827771], "type": "text"}, {"index": 13, "content": "CREW COSTS", "bbox": [0.1044921875, 0.7823765020026703, 0.2265625, 0.7983978638184246], "type": "title"}, {"index": 14, "content": "Crew costs include all direct and indirect charges incurred by the crewing of the vessel, including basic salaries and wages, social insurance, pensions, victuals and repatriation expenses. The level of manning costs for a particular ship is determined by two factors, the size of the crew and the employment policies adopted by the owner and the ship’s flag state. Manning costs may account for up to half of operating costs, depending on the size of the ship.", "bbox": [0.1015625, 0.8104138851802403, 0.896484375, 0.92456608811749], "type": "text"}, {"index": 15, "content": "226", "bbox": [0.1044921875, 0.9526034712950601, 0.1474609375, 0.9686248331108144], "type": "page_number"}] </blocks>assistant 1.  **Analyze the Request:** The user wants to correct the Markdown and layout blocks based on the provided image. The input includes a Markdown representation and a JSON list of blocks with bounding boxes. I need to return a JSON object with the corrected blocks, maintaining the same indices and order. Key constraints: match visible text, mark checkboxes (none here), handle strikethroughs (none here), add missing legible text, don't invent/summarize/duplicate/drop, match numbers, return exactly one block per input block. Return only JSON. 2.  **Examine the Image:** *   **Header:**
 
 <!-- Page 252 -->
 The minimum number of crew on a merchant ship is usually set by the regulations of the flag state. However, it also depends on commercial factors such as the degree of automation of mechanical operations, particularly the engine room, catering and cargo handling; the skill of the crew; and the amount of on-board maintenance undertaken. Automation and reliable monitoring systems have played an important part in reducing 2 crew numbers. It is now common practice for the engine room to be unmanned at night, and various other systems have been introduced such as remote control ballast, singleman bunkering, rationalized catering and improved communications which remove the need for a radio officer. As a result crew numbers declined from about 40-50 in the early 1950s to an average of 28 in the early 1980s. Current levels of technology on modern ships allow a basic crew of 17 in a deep-sea vessel, while experimental vessels have been operated with a crew of 10. Under some flags manning scales govern the
@@ -4655,35 +4528,35 @@ THE COST OF RUNNING SHIPS 6.3
 **Table 6.2** Operating costs of Capesize bulk carriers by age ($000 per annum)
 
 
-| % Total |
-| Age of ship | 5 Years | 10 Years | 20 Years | Average |
-| Crew cost |
+| Age of ship | 5 Years | 10 Years | 20 Years | % Total Average |
+| --- | --- | --- | --- | --- |
+| Crew cost |  |  |  |  |
 | Crew wages | 544 | 639 | 688 | 30% |
 | Travel, insurance etc | 73 | 82 | 85 | 4% |
 | Victualling | 46 | 54 | 64 | 3% |
 | Total | 743 | 871 | 956 | 41% |
-| % | 32% | 31% | 26% |
-| Stores & Consumables |
+| % | 32% | 31% | 26% |  |
+| Stores & Consumables |  |  |  |  |
 | General stores | 129 | 144 | 129 | 6% |
 | Lubricants | 148 | 148 | 219 | 8% |
 | Total | 277 | 292 | 348 | 15% |
-| % | 12% | 11% | 9% |
-| Maintenance & Repairs |
+| % | 12% | 11% | 9% |  |
+| Maintenance & Repairs |  |  |  |  |
 | Maintenance | 90 | 169 | 10 | 4% |
 | Spares | 74 | 169 | 181 | 7% |
 | Total | 164 | 338 | 393 | 14% |
-| % | 9% | 15% | 13% |
-| Insurance |
+| % | 9% | 15% | 13% |  |
+| Insurance |  |  |  |  |
 | Hull & machinery & war risks | 133 | 148 | 303 | 9% |
 | P&I | 63 | 94 | 120 | 4% |
 | Total | 196 | 243 | 423 | 14% |
-| % | 32% | 32% | 44% |
-| General Costs |
+| % | 32% | 32% | 44% |  |
+| General Costs |  |  |  |  |
 | Registration Costs | 17 | 17 | 17 | 1% |
 | Management Fees | 255 | 223 | 255 | 12% |
 | Sundries | 57 | 57 | 57 | 3% |
 | Total | 330 | 298 | 330 | 15% |
-| % | 14% | 11% | 9% |
+| % | 14% | 11% | 9% |  |
 | Total per annum | 1,710 | 2,041 | 2,450 | 100% |
 | Daily Costs (365 days) | 4,685 | 5,591 | 6,712 | 100% |
 
@@ -4700,38 +4573,38 @@ COSTS, REVENUE AND CASHFLOW
 **Table 6.3** Crew costs on 160,000 dwt bulk carrier, 2007 ($ per month)
 
 
-| Totals | c |
-| Consolidated | Bonus | Provident |
-| Rank | Note | Basic | Allowances | (officers) Fund | b | 2007 | 1993 | % ch |
+| Rank | Note | Basic | Consolidated Allowances | Bonus (officers) | Provident Fundb | Totalsc |  | % ch |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rank | Note | Basic | Consolidated Allowances | Bonus (officers) | Provident Fundb | 2007 | 1993 | % ch |
 | Master | India | 1,967 | 3,933 | 300 | 35 | 6,235 | 3,644 | 171% |
-| Chief officer | a | 1,294 | 3,206 | 200 | 35 | 4,735 | 3,025 | 157% |
-| 2nd officer | 1,077 | 1,773 | -- | 35 | 2,885 | 2,338 | 123% |
-| 3rd officer | 1,030 | 1,320 | -- | 35 | 2,385 | 1,650 | 145% |
-| Radio officer | radio officer no longer required in 2007 | 1,650 | 0% |
-| Chief engineer | 1,760 | 3,990 | 300 | 35 | 6,085 | 3,575 | 170% |
+| Chief officera |  | 1,294 | 3,206 | 200 | 35 | 4,735 | 3,025 | 157% |
+| 2nd officer |  | 1,077 | 1,773 | — | 35 | 2,885 | 2,338 | 123% |
+| 3rd officer |  | 1,030 | 1,320 | — | 35 | 2,385 | 1,650 | 145% |
+| Radio officer |  | radio officer no longer required in 2007 |  |  |  |  | 1,650 | 0% |
+| Chief engineer |  | 1,760 | 3,990 | 300 | 35 | 6,085 | 3,575 | 170% |
 | 1st asst engr | 2nd eng. | 1,294 | 3,206 | 200 | 35 | 4,735 | 3,025 | 157% |
-| 2nd asst engr | 3rd eng. | 1,077 | 1,773 | -- | 35 | 2,885 | 2,338 | 123% |
-| Bosun | Philippines | 670 | 649 | -- | 182 | 1,501 | 1,521 | 99% |
-| 5AB | 558 | 542 | -- | 171 | 6,353 | 6,479 | 98% |
-| 3 oiler | 558 | 542 | -- | 171 | 3,812 | 3,888 | 98% |
-| Cook/std | chief cook | 670 | 649 | -- | 182 | 1,501 | 1,596 | 94% |
-| Std | 2nd cook | 558 | 542 | -- | 171 | 1,271 | 1,296 | 98% |
-| Messman | 426 | 378 | -- | 158 | 962 | 1,071 | 90% |
-| Total crew number modern ship: 20 | 45,344 | 37,094 | 122% |
-| Additional crew for 10-year-old ship |
-| 3rd asst engr | India | 1,030 | 1,320 | -- | 35 | 2,385 | 1,650 | 145% |
-| Electrician | Elec. off. | 1,077 | 1,823 | -- | 35 | 2,935 | 2,338 | 126% |
-| AB | Philippines | 558 | 542 | -- | 171 | 1,271 | 1,296 | 98% |
-| 1 oiler | 558 | 542 | -- | 171 | 1,271 | 1,296 | 98% |
-| Total crew number 10-year-old ship: 24 | 53,205 | 43,673 | 122% |
-| Additional crew for 20-year-old ship |
-| 2 ordinary | Philippines | 426 | 378 | -- | 158 | 1,925 | 2,142 | 90% |
-| seamen |
-| 1 oiler | 558 | 542 | -- | 171 | 1,271 | 1,071 | 119% |
-| 1 messman | 426 | 378 | -- | 158 | 962 | 1,071 | 90% |
-| Total crew number 20-year-old ship: 28 | 57,362 | 47,956 | 120% |
-| Annual crew cost for 20-year-old ship | 688,344 | 575,475 | 120% |
-| Notes |
+| 2nd asst engr | 3rd eng. | 1,077 | 1,773 | — | 35 | 2,885 | 2,338 | 123% |
+| Bosun | Philippines | 670 | 649 | — | 182 | 1,501 | 1,521 | 99% |
+| 5AB |  | 558 | 542 | — | 171 | 6,353 | 6,479 | 98% |
+| 3 oiler |  | 558 | 542 | — | 171 | 3,812 | 3,888 | 98% |
+| Cook/std | chief cook | 670 | 649 | — | 182 | 1,501 | 1,596 | 94% |
+| Std | 2nd cook | 558 | 542 | — | 171 | 1,271 | 1,296 | 98% |
+| Messman |  | 426 | 378 | — | 158 | 962 | 1,071 | 90% |
+| Total crew number modern ship: 20 |  |  |  |  |  | 45,344 | 37,094 | 122% |
+| **Additional crew for 10-year-old ship** | | | | | | | | |
+| 3rd asst engr | India | 1,030 | 1,320 | — | 35 | 2,385 | 1,650 | 145% |
+| Electrician | Elec. off. | 1,077 | 1,823 | — | 35 | 2,935 | 2,338 | 126% |
+| AB | Philippines | 558 | 542 | — | 171 | 1,271 | 1,296 | 98% |
+| 1 oiler |  | 558 | 542 | — | 171 | 1,271 | 1,296 | 98% |
+| Total crew number 10-year-old ship: 24 |  |  |  |  |  | 53,205 | 43,673 | 122% |
+| **Additional crew for 20-year-old ship** | | | | | | | | |
+| 2 ordinary seamen | Philippines | 426 | 378 | — | 158 | 1,925 | 2,142 | 90% |
+| 1 oiler |  | 558 | 542 | — | 171 | 1,271 | 1,071 | 119% |
+| 1 messman |  | 426 | 378 | — | 158 | 962 | 1,071 | 90% |
+| Total crew number 20-year-old ship: 28 |  |  |  |  |  | 57,362 | 47,956 | 120% |
+|  |  |  | Annual crew cost for 20-year-old ship |  |  | 688,344 | 575,475 | 120% |
+
+Notes
 
 *a Senior Officer based on 5 yr senority & Junior Officers 3 yrs seniority.*
 
@@ -4818,11 +4691,12 @@ COSTS, REVENUE AND CASHFLOW
 **Table 6.4** Standard Capesize, lifetime periodic maintenance costs (1993 dollar prices)
 
 
-| Age of ship |
-| 0-5 | 6-10 | 11-15 | 16-20 |
-| Time out of service (days) | 20 | 23 | 40 | 40 |
+|  | Age of ship |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | 0-5 | 6-10 | 11-15 | 16-20 |  |
+| Time out of service (days) | 20 | 23 | 40 | 40 |  |
 | Time in drydock (days) | 10 | 14 | 23 | 18 | Total |
-| Cost Items (USD) |
+| Cost Items (USD) |  |  |  |  |  |
 | Dry-dock charges | 62,000 | 68,000 | 81,500 | 74,000 | 285,500 |
 | Port charges, tugs, agency | 70,000 | 73,300 | 92,000 | 92,000 | 327,300 |
 | General services | 80,000 | 92,000 | 160,000 | 160,000 | 492,000 |
@@ -4842,13 +4716,17 @@ COSTS, REVENUE AND CASHFLOW
 | Spare parts & subcontractors | 70,000 | 100,000 | 100,000 | 120,000 | 390,000 |
 | Owner's attendance | 23,800 | 25,600 | 35,800 | 35,800 | 121,000 |
 | Estimated total | 1,005,300 | 1,467,420 | 2,725,460 | 2,224,860 | 7,423,040 |
-| Averaged annual cost | 201,060 | 293,484 | 545,092 | 444,972 |
-| Averaged daily cost | 551 | 804 | 1,493 | 1,219 |
+| Averaged annual cost | 201,060 | 293,484 | 545,092 | 444,972 |  |
+| Averaged daily cost | 551 | 804 | 1,493 | 1,219 |  |
 
 *Source: Clarkson Research, Capesize Quality Survey (1993)*
 
 <!-- Page 258 -->
 a particular voyage. The main items are fuel costs, port dues, tugs, pilotage and canal charges:
+
+\[
+V C _ {t m} = F C _ {t m} + P D _ {t m} + T P _ {t m} + C D _ {t m}
+\]
 
 (6.3)
 
@@ -4856,37 +4734,34 @@ where VC represents voyage costs, FC is the fuel costs for main engines and auxi
 
 FUEL COSTS
 
-Fuel oil is the single most important item in voyage costs, accounting for 47% of the total. In the early 1970s when oil prices were low, less attention was paid to fuel costs in ship design and many large vessels were fitted with turbines, since the benefits of higher power output and lower maintenance costs outweighed their high fuel consumption. However, when oil prices rose during the 1970s, the whole balance of costs changed. During the period 1970-85, fuel prices increased by 950% (Figure 6.5). Leaving aside changes in the fuel efficiency of vessels, this meant that, if fuel accounted for about 13% of total ship costs in 1970, by 1985 it had increased to 34%, more than any other individual item. As a result, resources were poured into designing more fuelefficient ships and operating practices were adjusted, so that bunker consumption by the shipping industry fell sharply. In 1986 the price of bunkers fell and the level of interest in this aspect of ship design reduced, but in 2,000 bunker prices started to increase again (see Figure 6.5) and the importance of fuel costs increased.
+Fuel oil is the single most important item in voyage costs, accounting for 47% of the total. In the early 1970s when oil prices were low, less attention was paid to fuel costs in ship design and many large vessels were fitted with turbines, since the benefits of higher power output and lower maintenance costs outweighed their high fuel consumption. However, when oil prices rose during the 1970s, the whole balance of costs changed. During the period 1970–85, fuel prices increased by 950% (Figure 6.5). Leaving aside changes in the fuel efficiency of vessels, this meant that, if fuel accounted for about 13% of total ship costs in 1970, by 1985 it had increased to 34%, more than any other individual item. As a result, resources were poured into designing more fuel-efficient ships and operating practices were adjusted, so that bunker consumption by the shipping industry fell sharply. In 1986 the price of bunkers fell and the level of interest in this aspect of ship design reduced, but in 2,000 bunker prices started to increase again (see Figure 6.5) and the importance of fuel costs increased.
 
-The shipping industry's response to these extreme changes in bunker prices provides a good example of how the design of ships responds to changes in costs. Although shipping companies cannot control fuel prices, they have some influence on the level of fuel consumption. Like any other piece of complex machinery, the fuel a ship burns depends on its design and the care with which it is operated. To appreciate the opportunities for improving the fuel efficiency of ships it is necessary to understand how energy is used in the ship. Take, for example, a typical Panamax bulk carrier, illustrated in Figure 6.6. At a speed of 14 knots it consumes 30 tons of bunker oil and 2 tons of diesel oil in a day. Approximately 27% of this energy is lost in cooling the engine, 30% is lost as exhaust emission,
+The shipping industry’s response to these extreme changes in bunker prices provides a good example of how the design of ships responds to changes in costs. Although shipping companies cannot control fuel prices, they have some influence on the level of fuel consumption. Like any other piece of complex machinery, the fuel a ship burns depends
 
-= + + + VC FC PD TP CD tm tm tm tm tm
+**Figure 6.6** Energy losses in typical 1990s built Panamax bulk carrier,
 
-THE COST OF RUNNING SHIPS 6.3
+14 knots design speed
 
+*Source: Compiled by Martin Stopford from various sources*
 
-**Figure 6.6** Energy losses in typical 1990s built Panamax bulk carrier, 14 knots design speed Source: Compiled by Martin Stopford from various sources
+on its design and the care with which it is operated. To appreciate the opportunities for improving the fuel efficiency of ships it is necessary to understand how energy is used in the ship. Take, for example, a typical Panamax bulk carrier, illustrated in Figure 6.6. At a speed of 14 knots it consumes 30 tons of bunker oil and 2 tons of diesel oil in a day. Approximately 27% of this energy is lost in cooling the engine, 30% is lost as exhaust emission,
 
 <!-- Page 259 -->
-10% is lost at the propeller, and hull friction accounts for an additional 10%. Only a residual 23% of the energy consumed is actually applied to propelling the vessel through the waves. Whilst this is a simplified view of a complex process, it identifies the areas where technical improvements can, and have, been made - the main engine, the hull and the propeller. The extent of the improvement can be judged from the fact that ships built in the 1970s typically consumed 10 tons per day more fuel than ships built in later years to achieve the same speed.
+10% is lost at the propeller, and hull friction accounts for an additional 10%. Only a residual 23% of the energy consumed is actually applied to propelling the vessel through the waves. Whilst this is a simplified view of a complex process, it identifies the areas where technical improvements can, and have, been made – the main engine, the hull and the propeller. The extent of the improvement can be judged from the fact that ships built in the 1970s typically consumed 10 tons per day more fuel than ships built in later years to achieve the same speed.
 
-The design of the main engine is the single most important influence on fuel consumption. Following the 1973 oil price rises, and particularly since 1979, there were major improvements in the thermal efficiency of marine diesel engines. Between 1979 and 1983 the efficiency of energy conversion in slow-speed marine diesel engines improved from about 150 grams per brake horsepower per hour to around 127 grams per brake horsepower per hour. In addition to lower fuel consumption, engine operating speeds were reduced to below 100 rpm, making it possible to use more efficient large-diameter, slow-speed propellers without installing a gear box. The ability to burn low-quality fuel was also improved. In some cases the fuel savings achieved were quite spectacular. Diesel-powered 300,000 dwt VLCCs built in 2005 consumed 68 tons of bunkers a day at 15 knots, compared with fuel consumption of 130-150 tons per day by turbine-powered vessels built in the 1970s.
+The design of the main engine is the single most important influence on fuel consumption. Following the 1973 oil price rises, and particularly since 1979, there were major improvements in the thermal efficiency of marine diesel engines. Between 1979 and 1983 the efficiency of energy conversion in slow-speed marine diesel engines improved from about 150 grams per brake horsepower per hour to around 127 grams per brake horsepower per hour. In addition to lower fuel consumption, engine operating speeds were reduced to below 100 rpm, making it possible to use more efficient large-diameter, slow-speed propellers without installing a gear box. The ability to burn low-quality fuel was also improved. In some cases the fuel savings achieved were quite spectacular. Diesel-powered 300,000 dwt VLCCs built in 2005 consumed 68 tons of bunkers a day at 15 knots, compared with fuel consumption of 130–150 tons per day by turbine-powered vessels built in the 1970s.
 
 It is also possible to improve the fuel efficiency of a ship by fitting auxiliary equipment. One method is to install waste heat systems, which use some of the heat from the exhaust of the main engines to power a boiler that drives the auxiliary engines when the main engine is running, thus saving diesel oil. An alternative method is to use generators driven direct from the main engine while the vessel is at sea. This means that auxiliary power is obtained from the more efficient main engine rather than a small auxiliary engine burning expensive diesel fuel.
 
-In operation, the ship's fuel consumption depends on its hull condition and the speed at which it is operated. When a ship is designed, naval architects optimize the hull and power plant to a prescribed design speed which may be, for example, 15 knots for a bulk carrier or 18 knots for a small container ship. Operation of the vessel at lower speeds results in fuel savings because of the reduced water resistance, which, according to the 'cube rule', will be approximately proportional to the cube of the proportional reduction in speed:
+In operation, the ship's fuel consumption depends on its hull condition and the speed at which it is operated. When a ship is designed, naval architects optimize the hull and power plant to a prescribed design speed which may be, for example, 15 knots for a bulk carrier or 18 knots for a small container ship. Operation of the vessel at lower speeds results in fuel savings because of the reduced water resistance, which, according to the ‘cube rule’, will be approximately proportional to the cube of the proportional reduction in speed:
+
+\[
+F = F ^ {*} \left(\frac {S}{S ^ {*}}\right) ^ {a}
+\]
 
 (6.4)
 
-where F is the actual fuel consumption (tons/day), S the actual speed, F * the design fuel consumption, and S * the design speed. The exponent a has a value of about 3 for diesel engines and about 2 for steam turbines. It follows from the cube rule that the level of fuel consumption is very sensitive to speed. For example, for a Panamax bulk carrier a reduction in the operating speed of 16 knots to 11 knots results in a two-thirds saving in the tonnage of fuel burnt per day, as shown in Table 6.5.
-
-S F F S
-
-a ⎛ = ⎜ ⎝
-
-⎞ * ⎟ * ⎠
-
-COSTS, REVENUE AND CASHFLOW
+where *F* is the actual fuel consumption (tons/day), *S* the actual speed, *F*\* the design fuel consumption, and *S*\* the design speed. The exponent *a* has a value of about 3 for diesel engines and about 2 for steam turbines. It follows from the cube rule that the level of fuel consumption is very sensitive to speed. For example, for a Panamax bulk carrier a reduction in the operating speed of 16 knots to 11 knots results in a two-thirds saving in the tonnage of fuel burnt per day, as shown in Table 6.5.
 
 <!-- Page 260 -->
 For any given speed, fuel consumption depends on hull design and hull smoothness. According to work carried out by British Maritime Technology, a reduction in hull roughness from 300 micrometres to 50 micrometers can save 13% on the fuel bill. Between dry docking, marine growth on the hull of the ship increases its water resistance, reducing the achievable speed by 2 or 3 knots in extreme cases. Even with regular dry docking, as the ship ages its hull becomes less smooth as the hull has been scraped and repainted many times. Self-polishing coatings and anti-fouling, which release a poison to kill marine growth and reduce hull fouling between dry dockings, are now widely used but are expensive to apply and have a limited life.
@@ -4905,9 +4780,8 @@ THE COST OF RUNNING SHIPS 6.3
 **Table 6.5** How speed affects fuel consumption for a panamax bulk carrier
 
 
-| Main engine fuel |
-| Speed | consumption |
-| knots | tons/day |
+| Speed knots | Main engine fuel consumption tons/day |
+| --- | --- |
 | 16 | 44 |
 | 15 | 36 |
 | 14 | 30 |
@@ -4922,25 +4796,23 @@ The main canal dues payable are for transiting the Suez and Panama canals. The t
 
 The Suez Canal net tonnage of a vessel is calculated either by the classification society or by an official trade organization which issues a Suez Canal Special Tonnage Certificate. For vessels wishing to transit the canal that do not have a certificate, the calculation is provisionally done by adding together the gross and net tonnage, dividing by two and adding 10%. Tariffs are then calculated on the basis of SDRs per Suez net ton. SDRs were chosen as the currency unit in an attempt to avoid losses owing to fluctuations in exchange rates, as their value is linked to a number of major national currencies. Suez Canal toll charges per Suez net ton vary for different types and sizes of ships. For the Panama Canal a flat rate charge per Panama Canal net ton is used (see Chapter 8 for more details on the Suez and Panama canals).
 
-
 #### Cargo-handling costs
-
 
 Finally, we come to cargo-handling costs, the fourth major cost item in Figure 6.4. The cost of loading and discharging cargo represents a significant component in the total cost equation, and one to which considerable attention has been paid by shipowners, particularly in the liner business. Cargo-handling costs are given by the sum of loading costs, discharging costs and an allowance for the cost of any claims that may arise:
 
-CHC L DIS CL (6.5) = + + tm tm tm tm
+\[
+CHC_{tm} = L_{tm} + DIS_{tm} + CL_{tm}
+\]
 
-where CHC is cargo-handling costs, L is cargo loading charges, DIS is cargo discharge costs, and CL is cargo claims.
+(6.5)
 
-The level of these costs may be reduced by investment in improved ship design - to facilitate rapid cargo handling, along with advanced shipboard cargo-handling gear. For example, a forest products carrier with open holds and four cranes per hold can achieve faster and more economical cargo handling than a conventional bulk carrier relying on shore-based cranes.
+where *CHC* is cargo-handling costs, *L* is cargo loading charges, *DIS* is cargo discharge costs, and *CL* is cargo claims.
 
+The level of these costs may be reduced by investment in improved ship design – to facilitate rapid cargo handling, along with advanced shipboard cargo-handling gear. For example, a forest products carrier with open holds and four cranes per hold can achieve faster and more economical cargo handling than a conventional bulk carrier relying on shore-based cranes.
 
 ### 6.4 THE CAPITAL COST OF THE SHIP
 
-
-The fifth component in the cost equation for our 'typical' ship in Figure 6.4 is its capital cost. This accounts for 42% of total costs, but in economic terms it has a very
-
-COSTS, REVENUE AND CASHFLOW
+The fifth component in the cost equation for our ‘typical’ ship in Figure 6.4 is its capital cost. This accounts for 42% of total costs, but in economic terms it has a very
 
 <!-- Page 262 -->
 different character from the other costs. Operating and fuel costs are necessities without which the ship cannot trade. Crew and bunker suppliers are generally the first creditors to be paid off in a financial crisis, because without them the ship is marooned. In contrast, once a ship is built, its capital costs are obligations which have no direct effect on its physical operation. That is why the costs are not specified in Figure 6.4. In practice these obligations take three forms as far as the shipping company's cashflow is concerned. First, there is the initial purchase and the obligation to pay the shipyard; second, there are the periodic cash payments to banks or equity investors who put up the capital to purchase the vessel; and third, cash received from the sale of the vessel. How these obligations appear in the cashflow is not determined by the ship's trading activities - as, for example, fuel costs are - they are the result of financing decisions made by the ship's owner, and there are many ways this can be handled as we will see in Chapter 7 which discusses financing ships and shipping companies.
@@ -4968,15 +4840,16 @@ COSTS, REVENUE AND CASHFLOW
 **Table 6.6** Example of profit (loss) account and cashflow for shipping company purchasing vessel for cash (equity) ($ million)
 
 
-| Profit (loss) account | Cashflow |
-| Year 1 | Year 2 | Year 1 | Year 2 |
-| 1 | Freight revenue | 10 | 10 | 10 | 10 |
-| 2 | Less: operating costs | 5 | 5 | 5 | 5 |
-| 3 | voyage costs | 3 | 3 | 3 | 3 |
-| 4 | depreciation | a | 1 | 1 | 0 | 0 |
-| 5 | Total operating profit/cashflow | 1 | 1 | 2 | 2 |
-| 6 | Less capital expenditure on ship | None | a | None | 10 | 0 |
-| 7 | Total profit/cashflow | 1 | 1 | (8) | 2 |
+|  | Profit (loss) account |  | Cashflow |  |
+| --- | --- | --- | --- | --- |
+|  | Year 1 | Year 2 | Year 1 | Year 2 |
+| 1 Freight revenue | 10 | 10 | 10 | 10 |
+| 2 Less: operating costs | 5 | 5 | 5 | 5 |
+| 3 voyage costs | 3 | 3 | 3 | 3 |
+| 4 depreciationa | 1 | 1 | 0 | 0 |
+| 5 Total operating profit/cashflow | 1 | 1 | 2 | 2 |
+| 6 Less capital expenditure on ship | Nonea | None | 10 | 0 |
+| 7 Total profit/cashflow | 1 | 1 | (8) | 2 |
 
 *a Captal expenditure is covered by the depreciation item (see text)*
 
@@ -4984,12 +4857,12 @@ COSTS, REVENUE AND CASHFLOW
 **Table 6.7** Example of profit (loss) account and cashflow for shipping company purchasing vessel on five-year loan ($ million)
 
 
-| Profit (loss) account | Cashflow |
-| Line | Year 1 | Year 2 | Year 1 | Year 2 |
+| Line |  | Profit (loss) account: Year 1 | Profit (loss) account: Year 2 | Cashflow: Year 1 | Cashflow: Year 2 |
+| --- | --- | --- | --- | --- | --- |
 | 1 | Freight revenue | 10 | 10 | 10 | 10 |
-| 2 | LESS: | operating costs | 5 | 5 | 5 | 5 |
-| 3                voyage costs | 3 | 3 | 3 | 3 |
-| 4                depreciation | a | 1 | 1 | 0 | 0 |
+| 2 | LESS: operating costs | 5 | 5 | 5 | 5 |
+| 3 | voyage costs | 3 | 3 | 3 | 3 |
+| 4 | depreciation ᵃ | 1 | 1 | 0 | 0 |
 | 5 | Total operating profit/cashflow | 1 | 1 | 2 | 2 |
 | 6 | LESS interest at 10% | 1 | 0.8 | 1 | 0.8 |
 | 7 | Profit/cashflow after interest | 0 | 0.2 | 1 | 1.2 |
@@ -5080,35 +4953,33 @@ The basic revenue calculation involves two steps: first, determining how much ca
 COSTS, REVENUE AND CASHFLOW
 
 <!-- Page 268 -->
-measured in ton miles of cargo transported per annum, and the freight rate per ton mile, divided by the ship's deadweight:
+measured in ton miles of cargo transported per annum, and the freight rate per ton mile, divided by the ship’s deadweight:
+
+\[
+R _ {t m} = \frac {P _ {t m} \cdot F R _ {t m}}{D W T _ {t m}}
+\]
 
 (6.6)
 
 where R is the revenue per dwt per annum, P the productivity in ton miles of cargo per annum, FR the freight rate per ton mile of cargo transported, t the time period and m the ship type.
 
-The concept of a ship's 'productivity' is useful because it measures overall cargocarrying performance, encompassing operating performance in terms of speed, cargo deadweight and flexibility in terms of obtaining backhaul cargoes. For example, a combined carrier potentially has a much higher productivity than a tanker because it can carry a backhaul of dry cargo if one is available. The analysis of productivity can be carried further by subdividing into its component parts as follows:
+The concept of a ship’s ‘productivity’ is useful because it measures overall cargo-carrying performance, encompassing operating performance in terms of speed, cargo deadweight and flexibility in terms of obtaining backhaul cargoes. For example, a combined carrier potentially has a much higher productivity than a tanker because it can carry a backhaul of dry cargo if one is available. The analysis of productivity can be carried further by subdividing into its component parts as follows:
 
-S LD DWU = P 24 (6.7) • • • tm tm tm tm
+\[
+P _ {t m} = 2 4 \cdot S _ {t m} \cdot L D _ {t m} \cdot D W U _ {t m}
+\]
 
-where S is the average operating speed per hour, LD is the number of loaded days at sea per annum, and DWU is deadweight utilization. This definition states that ship productivity, measured in terms of ton miles of cargo transported in year t , is determined by the distance the vessel actually travels in 24 hours, the number of days it spends loaded at sea in a year, and the extent to which it travels with a full deadweight of cargo. By further examination of each of these components a precise definition of productivity can be obtained.
+(6.7)
+
+where S is the average operating speed per hour, LD is the number of loaded days at sea per annum, and DWU is deadweight utilization. This definition states that ship productivity, measured in terms of ton miles of cargo transported in year t, is determined by the distance the vessel actually travels in 24 hours, the number of days it spends loaded at sea in a year, and the extent to which it travels with a full deadweight of cargo. By further examination of each of these components a precise definition of productivity can be obtained.
 
 OPTIMIZING THE OPERATING SPEED
 
 When a vessel is earning unit freight revenue, the mean operating speed of the ship is important because it determines the amount of cargo delivered during a fixed period and hence the revenue earned.
 
-In a high freight rate market it pays to steam at full speed, whereas at low freight rates a reduced speed may be more economic because the fuel cost saving may be greater than the loss of revenue. This certainly happens in practice. For example, in early 1986 the VLCC fleet was operating at a speed of around 10 knots, but when freight rates rose in 1988-9 it speeded up to almost 12 knots. For the same reasons, a substantial increase in bunker prices will change the optimum operating speed for a particular level of freight rates because it increases the cost saving for a given reduction in fuel consumption.
+In a high freight rate market it pays to steam at full speed, whereas at low freight rates a reduced speed may be more economic because the fuel cost saving may be greater than the loss of revenue. This certainly happens in practice. For example, in early 1986 the VLCC fleet was operating at a speed of around 10 knots, but when freight rates rose in 1988–9 it speeded up to almost 12 knots. For the same reasons, a substantial increase in bunker prices will change the optimum operating speed for a particular level of freight rates because it increases the cost saving for a given reduction in fuel consumption.
 
 The financial logic behind the optimum operating speed calculation can be illustrated with a simple example in Table 6.8 which shows the effect of speed on the cashflow of a ship for different fuel prices and freight rates. By slowing down from 14 knots to 11 knots, the amount of fuel used in a year is more than halved, from 33.9 tons per day
-
-P FR R
-
-tm DWT
-
-tm tm
-
-. = tm
-
-THE REVENUE THE SHIP EARNS 6.5
 
 <!-- Page 269 -->
 to 16.5 tons per day, bringing a saving in bunker costs that depends on the level of fuel prices. There is, however, a corresponding loss of revenue, because at the lower speed less cargo is delivered. The size of this loss depends on the level of freight rates. As a result the shipowner is confronted by a trade-off between lower costs and lower income, and the balance will determine his decision.
@@ -5127,7 +4998,11 @@ MAXIMIZING LOADED DAYS AT SEA
 
 A ship's time is divided between 'productive' loaded days at sea and unproductive days spent in ballast, in port, or off hire. A change in any of these variables will affect the number of loaded days at sea, LD , as follows:
 
-= LD 365 - OH - DP - BAL (6.8) tm tm tm tm
+\[
+LD_{tm} = 365 - OH_{tm} - DP_{tm} - BAL_{tm}
+\]
+
+(6.8)
 
 where OH is the number of days off hire per annum, DP the number of days in port per annum, and BAL the number of days in ballast per annum.
 
@@ -5137,19 +5012,14 @@ COSTS, REVENUE AND CASHFLOW
 **Table 6.8** Effect of speed on cashflow for high and low freight and bunker costs
 
 
-| FUEL COST SAVING | REVENUE LOSS |
-| Ship | Fuel |
-| by slowing down | by slowing down |
-| speed | consumption |
-| knots | tons per day | $/day | $/day | $/day | $/day |
-| 14 | 33.9 | -- | -- | -- | -- |
+| Ship speed (knots) | Fuel consumption (tons per day) | Fuel cost saving by slowing down, bunkers high $400/ton ($/day) | Fuel cost saving by slowing down, bunkers low $100/ton ($/day) | Revenue loss by slowing down, freight low $10/ton ($/day) | Revenue loss by slowing down, freight high $30/ton ($/day) |
+| --- | --- | --- | --- | --- | --- |
+| 14 | 33.9 | — | — | — | — |
 | 13 | 27.2 | 2,697 | 674 | 1,440 | 4,320 |
 | 12 | 21.4 | 5,016 | 1,254 | 2,880 | 8,640 |
 | 11 | 16.5 | 6,979 | 1,745 | 4,320 | 12,960 |
-| Assumptions: | 70,000 ton cargo; 300 days a year at sea; 10,000 mile round voyage |
-| bunker assumptions | freight  assumptions |
-| high | low | low | high |
-| $400/ton | $100/ton | $10/ton | $30/ton |
+
+Assumptions: 70,000 ton cargo; 300 days a year at sea; 10,000 mile round voyage. Bunker assumptions: high $400/ton, low $100/ton. Freight assumptions: low $10/ton, high $30/ton.
 
 <!-- Page 270 -->
 Days off hire reflect time spent for repairs, breakdowns, holidays, etc. A survey of bulk carriers showed an average of 24 days per annum off hire, though this figure can be expected to vary with conditions in the freight market. Owners will always attempt to minimize the time the vessel is not earning, but during periods of low freight market activity the ship may spend substantial time waiting for cargo, this being one of the major costs incurred during a market recession. For example, a ship that waits 12 days for a cargo with daily operating costs of $6,000 will have lost $72,000. Port days depend upon the type of ship, the loading facilities available and the cargo being loaded. The more time the ship spends in port the less it spends carrying cargo. Homogeneous cargoes such as iron ore and grain can load very quickly where good facilities are available - iron ore loading rates of 6,000 tons per hour are common. Difficult cargoes such as forest products and general cargo may take weeks rather than days to load under some circumstances. Ships handling bagged sugar can spend a month loading or discharging.
@@ -5168,9 +5038,8 @@ THE REVENUE THE SHIP EARNS 6.5
 **Table 6.9** The effect of the backhaul on cashflow
 
 
-| Cargo | Freight | Annual | Annual |
-| 000 tons | per ton | revenue | cost | Cashflow |
-| per year | $ | $m | $m | $'000 |
+|  | Cargo000 tonsper year | Freightper ton$ | Annualrevenue$m | Annualcost$m | Cashflow$'000 |
+| --- | --- | --- | --- | --- | --- |
 | Backhaul | 308 | 15 | 4.62 | 4.43 | 19 |
 | No backhaul | 252 | 15 | 3.78 | 4.28 | (500) |
 
@@ -5228,26 +5097,27 @@ COSTS, REVENUE AND CASHFLOW
 **Table 6.10** Shipping company income statement
 
 
-| Year end ($millions) |
-| 2003 | 2002 | 2001 |
+|  | Year end ($millions) |  |  |
+| --- | --- | --- | --- |
+|  | 2003 | 2002 | 2001 |
 | Operating Revenue | 1,576 | 783 | 1,039 |
-| less | Operating expenses: |
+| less Operating expenses: |  |  |  |
 | Voyage expenses | 395 | 239 | 250 |
 | Vessel operating expenses | 211 | 168 | 155 |
 | Time-charter hire expense | 305 | 50 | 66 |
 | Depreciation and amortization | 191 | 149 | 136 |
 | General and administrative | 85 | 57 | 49 |
-| Sub-total | Income from operations | 390 | 119 | 383 |
-| Write-offs & gains on vessel sales | − | 90 |
-| Restructuring charge | − | 6 |
+| Sub-total Income from operations | 390 | 119 | 383 |
+| Write-offs & gains on vessel sales | -90 |  |  |
+| Restructuring charge | -6 |  |  |
 | Equity income from joint ventures | 7 | 5 | 17 |
-| Sub-total | operating revenue | 300 | 124 | 401 |
-| Interest expense | − | 81 | − | 58 | − | 66 |
+| Sub-total operating revenue | 300 | 124 | 401 |
+| Interest expense | -81 | -58 | -66 |
 | Interest income | 4 | 3 | 9 |
-| Other loss | − | 45 | − | 16 | − | 7 |
+| Other loss | -45 | -16 | -7 |
 | Net income | 177 | 53 | 337 |
-| Memo |
-| Earnings per share - basic | 4.43 | 1.35 | 8.48 |
+| Memo |  |  |  |
+| Earnings per share – basic | 4.43 | 1.35 | 8.48 |
 
 *Source: based on the published accounts of a public shipping company*
 
@@ -5271,43 +5141,40 @@ COSTS, REVENUE AND CASHFLOW
 **Table 6.11** Shipping company balance sheet
 
 
-| Year end ($ millions) |
-| 2003 | 2002 |
-
-*1. ASSETS*
-
-| 1.1 Current Assets |
+|  | Year end ($ millions) |  |
+| --- | --- | --- |
+|  | 2003 | 2002 |
+| 1. ASSETS |  |  |
+| 1.1 Current Assets |  |  |
 | Cash and cash equivalents (note 1) | 295 | 289 |
 | Accounts receivable | 147 | 71 |
 | Prepaid expenses and other assets | 39 | 28 |
 | Total current assets | 481 | 388 |
-| 1.2 Vessels |
+| 1.2 Vessels |  |  |
 | Vessels at cost less depreciation | 2,387 | 1,928 |
-| Vessels under capital leases, at cost, | 38 |
+| Vessels under capital leases, at cost, | 38 |  |
 | Advances on newbuilding contracts (note 3) | 151 | 138 |
 | Total vessels | 2,575 | 2,067 |
-| 1.3 Other assets |
+| 1.3 Other assets |  |  |
 | Marketable securities (note 2) | 96 | 14 |
-| Restricted cash | 5 |
-| Deposit for purchase of company (note 4) | 76 |
-| Net investment in direct financing leases (note 5) | 73 |
+| Restricted cash |  | 5 |
+| Deposit for purchase of company (note 4) |  | 76 |
+| Net investment in direct financing leases (note 5) | 73 |  |
 | Investment in joint ventures (note 6) | 54 | 56 |
 | Other assets | 60 | 30 |
 | Intangible assets and goodwill (note 7) | 249 | 89 |
 | Total other assets | 533 | 269 |
 | TOTAL ASSETS | 3,588 | 2,724 |
-
-*2. LIABILITIES*
-
-| 2.1 Current liabilities |
+| 2. LIABILITIES |  |  |
+| 2.1 Current liabilities |  |  |
 | Accounts payable | 52 | 22 |
 | Accrued liabilities | 120 | 84 |
 | Current portion of long-term debt | 102 | 84 |
-| Current obligation under capital lease | 1 |
+| Current obligation under capital lease | 1 |  |
 | Total current liabilities | 275 | 190 |
-| 2.2 Long term liabilities |
+| 2.2 Long term liabilities |  |  |
 | Long-term debt | 1,498 | 1,047 |
-| Obligation under capital lease | 35 |
+| Obligation under capital lease | 35 |  |
 | Other long-term liabilities | 113 | 45 |
 | Total long-term liabilities | 1,646 | 1,092 |
 | TOTAL LONG- & SHORT-TERM LIABILITIES | 1,921 | 1,281 |
@@ -5315,17 +5182,12 @@ COSTS, REVENUE AND CASHFLOW
 | TOTAL LIABILITIES | 3,588 | 2,724 |
 
 *1. The company has loans which specify a minimum cash balance*
-
-
 *2. Shareholding in two other shipping companies*
-
-
 *3. Payments already made to shipyard on new ships under construction*
-
-| 4. 10% deposit paid against the purchase of another shipping company |
-| 5. Capatilized value of investment in financing leases |
-| 6. The appraised value of a 50% holding in a joint venture company |
-| 7. Goodwill purchased with companies |
+4. 10% deposit paid against the purchase of another shipping company
+5. Capatilized value of investment in financing leases
+6. The appraised value of a 50% holding in a joint venture company
+7. Goodwill purchased with companies
 
 *Source: based on the published accounts of a public shipping company*
 
@@ -5370,49 +5232,44 @@ COSTS, REVENUE AND CASHFLOW
 **Table 6.12** Shipping company cashflow statement
 
 
-| Year end ($ millions) |
-| 2003 | 2002 | 2001 |
-| Cash provided by (or used for): |
-
-*1. OPERATING ACTIVITIES*
-
+|  | Year end ($ millions) |  |  |
+| --- | --- | --- | --- |
+|  | 2003 | 2002 | 2001 |
+| Cash provided by (or used for): |  |  |  |
+| 1. OPERATING ACTIVITIES |  |  |  |
 | 1.1 Net income | 177 | 53 | 337 |
-| 1.2 Non-cash items (to add back): |
+| 1.2 Non-cash items (to add back): |  |  |  |
 | Depreciation and amortization | 191 | 149 | 136 |
-| (Gain) loss on sale of assets | − | 2 | 1 | − | 1 |
-| Loss on write-down of vessels | 92 |
+| (Gain) loss on sale of assets | -2 | 1 | -1 |
+| Loss on write-down of vessels | 92 |  |  |
 | Other non-cash items | 44 | 4 | 20 |
 | total | 325 | 154 | 155 |
-| 1.3 Change in working capital | − | 4 | 7 | 28 |
-| 1.4 Expenditures for drydocking | − | 43 | − | 35 | − | 20 |
+| 1.3 Change in working capital | -4 | 7 | 28 |
+| 1.4 Expenditures for drydocking | -43 | -35 | -20 |
 | Net cash flow from operating activities | 456 | 180 | 500 |
-
-*2. FINANCING ACTIVITIES*
-
+| 2. FINANCING ACTIVITIES |  |  |  |
 | Net proceeds from long-term debt | 1,981 | 255 | 688 |
-| Scheduled repayments of long-term debt | − | 63 | − | 52 | − | 72 |
-| Prepayments of long-term debt | − | 1,467 | − | 8 | − | 752 |
-| Decrease (increase) in restricted cash | 6 | − | 1 | − | 8 |
+| Scheduled repayments of long-term debt | -63 | -52 | -72 |
+| Prepayments of long-term debt | -1,467 | -8 | -752 |
+| Decrease (increase) in restricted cash | 6 | -1 | -8 |
 | Proceeds from issuance of Common Stock | 25 | 4 | 21 |
-| Repurchase of Common Stock | − | 2 | − | 14 |
-| Cash dividends paid | − | 36 | − | 34 | − | 34 |
-| Net cash flow from financing activities | 447 | 163 | − | 171 |
-
-*3. INVESTING ACTIVITIES*
-
-| Expenditures for vessels and equipment | − | 372 | − | 136 | − | 185 |
-| Proceeds from sale of vessels and equipment | 242 |
-| Purchase of companies | − | 705 | − | 76 | − | 182 |
-| Purchase of intangible assets | − | 7 |
-| Purchase of available-for-sale securities | − | 37 | − | 5 |
+| Repurchase of Common Stock |  | -2 | -14 |
+| Cash dividends paid | -36 | -34 | -34 |
+| Net cash flow from financing activities | 447 | 163 | -171 |
+| 3. INVESTING ACTIVITIES |  |  |  |
+| Expenditures for vessels and equipment | -372 | -136 | -185 |
+| Proceeds from sale of vessels and equipment | 242 |  |  |
+| Purchase of companies | -705 | -76 | -182 |
+| Purchase of intangible assets | -7 |  |  |
+| Purchase of available-for-sale securities | -37 |  | -5 |
 | Proceeds from sale of available-for-sale securities | 10 | 7 | 36 |
-| Decrease (increase) in investment in joint ventures | 26 | − | 26 |
-| Net investment in direct financing leases (note 3) | − | 20 |
-| Other | − | 5 | − | 2 | 0 |
-| Net cash flow from investing activities | − | 895 | − | 233 | − | 336 |
+| Decrease (increase) in investment in joint ventures | 26 | -26 |  |
+| Net investment in direct financing leases (note 3) | -20 |  |  |
+| Other | -5 | -2 | 0 |
+| Net cash flow from investing activities | -895 | -233 | -336 |
 | Cash and cash equivalents, beginning of the period | 285 | 175 | 181 |
 | Cash and cash equivalents, end of the period | 292 | 285 | 175 |
-| Increase (decrease) in cash and cash equivalents | 8 | 110 | − | 6 |
+| Increase (decrease) in cash and cash equivalents | 8 | 110 | -6 |
 
 *Source: based on the published accounts of public shipping company*
 
@@ -5461,47 +5318,42 @@ FOUR METHODS OF COMPUTING THE CASHFLOW 6.7
 
 *1. SHIP INFORMATION*
 
-| Ship Type | Speed (knots) | Bunkers (tons/day) |
-| Design | Sea | voyage |
-| speed | margin | speed | Main | Auxiliary |
-| 1.1 Bulk carrier, 75,000 dwt |
+| 1. SHIP INFORMATION Ship Type | Speed (knots) |  |  | Bunkers (tons/day) |  |
+| --- | --- | --- | --- | --- | --- |
+| 1. SHIP INFORMATION Ship Type | Design speed | Sea margin | voyage speed | Main | Auxiliary |
+| 1.1 Bulk carrier, 75,000 dwt |  |  |  |  |  |
 | 1.2 Laden voyages | 15 | 5.0% | 14.25 | 33 | 1 |
 | 1.3 Ballast voyages | 15 | 5.0% | 14.25 | 31 | 1 |
-| 1.4 Operating cost $/day | 5,620 | At 350 days on hire pa |
-| 1.5 Bunker price $/ton | 338 | 531 |
+| 1.4 Operating cost $/day |  | 5,620 | At 350 days on hire pa |  |  |
+| 1.5 Bunker price $/ton |  |  |  | 338 | 531 |
+| 2. VOYAGE INFORMATION Route | col (1) Distance (miles) | col (2) Days at sea | col (3) Days in port | col (4) Cargo (tons) | col (5) Freight $/ton |
+| 2.1 Port days/voyage - loading |  |  | 3 |  |  |
+| 2.2 Port days/voyage - discharge |  |  | 2 |  |  |
+| 2.3 Voyage details: |  |  |  |  |  |
+| Leg 1: US Gulf-Japan | 9,123 | 26.7 | 5 | 54,000 | 56.0 |
+| Leg 2: Japan-Australia | 4,740 | 13.9 | 0 | Ballast |  |
+| Leg 3: Australia-Europe | 12,726 | 37.2 | 10 | 70,000 | 39.0 |
+| Leg 4: Europe-East Coast North America | 4,500 | 13.2 | 0 | Ballast |  |
+| 2.4 Total loaded voyages | 21,849 | 63.9 |  |  |  |
+| 2.5 Total ballast voyages | 9,240 | 27.0 |  |  |  |
+| 2.6 Port congestion provision |  |  | 10 |  |  |
+| 2.7 Total round voyage | 31,089 | 90.9 | 25 | 124,000 | 5,754,000 |
+| 3. VOYAGE CASHFLOW | $ | Notes |  |  |  |
+| 3.1 Freight earnings $ | 5,754,000 | From row 2.7 above |  |  |  |
+| 3.2 less Broker's commission | 86,310 | At 1.5% |  |  |  |
+| 3.3 less Voyage costs |  |  |  |  |  |
+| Bunker oil for main engine | 995,674 | Days at sea "consumption"price |  |  |  |
+| Diesel oil for auxiliaries | 48,270 | Days at sea "consumption"price |  |  |  |
+| Port costs | 418,000 | Cost of four port calls |  |  |  |
+| Canal dues | 80,000 | One Panama canal transit |  |  |  |
+| Total | 1,541,944 |  |  |  |  |
+| 3.4 less operating costs | 651,378 | days on voyage * operating cost/day |  |  |  |
+| 3.5 Voyage cashflow | 3,474,369 | Cash generated by voyage (less OPEX) |  |  |  |
+| 4. VOYAGE EARNINGS |  |  |  |  |  |
+| 4.1 memo: Days on the voyage | 116 | From line 2.7 including congestion |  |  |  |
+| 4.1 Time-charter equivalent $/day | 35,596 | Equals (line 3.5/line 4.1) + row 1.4 |  |  |  |
 
 *2. VOYAGE INFORMATION col (1) col (2) col (3) col (4) col (5)*
-
-| Route | Distance | Days | Days | Cargo | Freight |
-| (miles) | at sea | in port | (tons) | $/ton |
-| 2.1 Port days/voyage - loading | 3 |
-| 2.2 Port days/voyage - discharge | 2 |
-| 2.3 Voyage details: |
-| Leg 1: US Gulf-Japan | 9,123 | 26.7 | 5 | 54,000 | 56.0 |
-| Leg 2: Japan-Australia | 4,740 | 13.9 | 0 | Ballast |
-| Leg 3: Australia-Europe | 12,726 | 37.2 | 10 | 70,000 | 39.0 |
-| Leg 4: Europe-East Coast | 4,500 | 13.2 | 0 | Ballast |
-| North America |
-| 2.4 Total loaded voyages | 21,849 | 63.9 |
-| 2.5 Total ballast voyages | 9,240 | 27.0 |
-| 2.6 Port congestion provision | 10 |
-| 2.7 Total round voyage | 31,089 | 90.9 | 25 | 124,000 | 5,754,000 |
-
-*3. VOYAGE CASHFLOW $ Notes*
-
-| 3.1 Freight earnings $ | 5,754,000 | From row 2.7 above |
-| 3.2 | less | Broker's commission | 86,310 | At 1.5% |
-| 3.3 | less | Voyage costs |
-| Bunker oil for main engine | 995,674 | Days at sea *consumption*price |
-| Diesel oil for auxiliaries | 48,270 | Days at sea *consumption*price |
-| Port costs | 418,000 | Cost of four port calls |
-| Canal dues | 80,000 | One Panama canal transit |
-| Total | 1,541,944 |
-| 3.4 less operating costs | 651,378 | days on voyage * operating cost/day |
-| 3.5 Voyage cashflow | 3,474,369 | Cash generated by voyage (less OPEX) |
-| 4. VOYAGE EARNINGS |
-| 4.1 memo: Days on the voyage | 116 | From line 2.7 including congestion |
-| 4.1 Time-charter equivalent $/day | 35,596 | Equals (line 3.5/line 4.1) | + | row 1.4 |
 
 *Note: Freight rates shown are as on 4 May 2007*
 
@@ -5544,31 +5396,30 @@ COSTS, REVENUE AND CASHFLOW
 **Table 6.14** Annual cashflow analysis Case 1: 280,000 dwt tanker built 1976 scrapped at 4th survey
 
 
-| Year 0 | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |
-| $000s | (1990) | (1991) | (1992) | (1993) | (1994) | (1995) |
-| 1 Opening balance | 8,500 | 1,900 | 4,450 | 815 | (798) | (1,487) |
-| 2 Cash receipts |
-| 2.1 Operating revenue (gross) | 0.0 | 10,820 | 4,327 | 6,041 | 3,436 |
-| 2.2 Capital receipts | 15,400 |
-| 2.3 Revenue from ship sale | 6,300 |
-| 3 TOTAL RECEIPTS | 15,400 | 10,820 | 4,327 | 6,041 | 9,736 |
-| 4 Cash payments |
-| 4.1 Operating costs | 3,650 | 3,650 | 3,650 | 3,650 |
-| 4.2 Dry docking |
-| 4.3 Voyage costs |
-| 4.4 Purchase of ship | 22,000 |
-| 4.5 Loan repayments | 3,080 | 3,080 | 3,080 | 6,160 |
-| 4.6 Interest | 1,540 | 1,232 | 924 | 616 |
-| 4.7 Tax payments |
-| 5 TOTAL COSTS | 22,000 | 8,270 | 7,962 | 7,654 | 10,426 |
-| 6 CASHBOOK BALANCE | 1,900 | 4,450 | 815 | (798) | (1,487) | (1,487) |
-| AT YEAR END |
+| $000s | $000s | Year 0(1990) | Year 1(1991) | Year 2(1992) | Year 3(1993) | Year 4(1994) | Year 5(1995) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Opening balance | 8,500 | 1,900 | 4,450 | 815 | (798) | (1,487) |
+| 2 | Cash receipts |  |  |  |  |  |  |
+| 2 | 2.1 Operating revenue (gross) | 0.0 | 10,820 | 4,327 | 6,041 | 3,436 |  |
+| 2 | 2.2 Capital receipts | 15,400 |  |  |  |  |  |
+| 2 | 2.3 Revenue from ship sale |  |  |  |  | 6,300 |  |
+| 3 | TOTAL RECEIPTS | 15,400 | 10,820 | 4,327 | 6,041 | 9,736 |  |
+| 4 | Cash payments |  |  |  |  |  |  |
+| 4 | 4.1 Operating costs |  | 3,650 | 3,650 | 3,650 | 3,650 |  |
+| 4 | 4.2 Dry docking |  |  |  |  |  |  |
+| 4 | 4.3 Voyage costs |  |  |  |  |  |  |
+| 4 | 4.4 Purchase of ship | 22,000 |  |  |  |  |  |
+| 4 | 4.5 Loan repayments |  | 3,080 | 3,080 | 3,080 | 6,160 |  |
+| 4 | 4.6 Interest |  | 1,540 | 1,232 | 924 | 616 |  |
+| 4 | 4.7 Tax payments |  |  |  |  |  |  |
+| 5 | TOTAL COSTS | 22,000 | 8,270 | 7,962 | 7,654 | 10,426 |  |
+| 6 | CASHBOOK BALANCEAT YEAR END | 1,900 | 4,450 | 815 | (798) | (1,487) | (1,487) |
 | memo | Charter rate / day | 22,883 | 31,824 | 12,727 | 17,768 | 10,107 | 15,789 |
-| Days trading | 340 | 340 | 340 | 340 | 340 |
-| Second-hand price of ship | 22,000 | 20,000 | 9,500 | 11,000 | 8,000 | 10,000 |
-| Operating costs $/day | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 |
-| Outstanding loan (year end) | 15,400 | 12,320 | 9,240 | 6,160 | 0 | 0 |
-| Asset cover | 1.426 | 1.6234 | 1.02814 | 1.7857 |
+| memo | Days trading |  | 340 | 340 | 340 | 340 | 340 |
+| memo | Second-hand price of ship | 22,000 | 20,000 | 9,500 | 11,000 | 8,000 | 10,000 |
+| memo | Operating costs $/day | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 |
+| memo | Outstanding loan (year end) | 15,400 | 12,320 | 9,240 | 6,160 | 0 | 0 |
+| memo | Asset cover | 1.426 | 1.6234 | 1.02814 | 1.7857 |  |  |
 
 <!-- Page 284 -->
 The second option is to put the ship through survey and trade on. The cashflow in Table 6.15 shows what would happen in years 4 and 5 if the company followed this strategy. First, the owner would have to raise an overdraft of, say, $10.5 million cash to meet his negative cashflow in years 3 and 4. This will be difficult. Few bankers are willing to lend to a business with no assets and a negative cashflow. There is little that can be done to raise money within the business. Cost economies might be possible if the company is paying top rates to the crew and maintaining the vessel to a very high standard. Closing expensive offices is another source of economy. If rigorous cost-cutting saves $1,500 per day, that is worth $0.5 million in a full year. This might convince his bankers that he is determined to tackle the problem, but would not even pay the interest on his overdraft. The best the company can offer its bankers is a straight gamble on the market. Bankers do not generally gamble, but since the choice is between foreclosing and
@@ -5579,32 +5430,32 @@ FOUR METHODS OF COMPUTING THE CASHFLOW 6.7
 **Table 6.15** Annual cashflow analysis Case 2: 280,000 dwt tanker built 1976 traded past 4th survey
 
 
-| Year 0 | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |
-| $000s | (1990) | (1991) | (1992) | (1993) | (1994) | (1995) |
-| 1 Opening balance | 8,500 | 1,900 | 4,450 | 815 | (798) | (9,707) |
-| 2 Cash receipts |
-| 2.1 Operating revenue (gross) | 0.0 | 10,820 | 4,327 | 6,041 | 3,436 | 5,368 |
-| 2.2 Capital receipts | 15,400 |
-| 2.3 Revenue from ship sale | 11,000 |
-| 3 TOTAL RECEIPTS | 15,400 | 10,820 | 4,327 | 6,041 | 3,436 | 16,368 |
-| 4 Cash payments |
-| 4.1 Operating costs | 3,650 | 3,650 | 3,650 | 3,650 | 3,103 |
-| 4.2 Dry docking | 5,000 |
-| 4.3 Voyage costs |
-| 4.4 Purchase of ship | 22,000 |
-| 4.5 Loan repayments | 3,080 | 3,080 | 3,080 | 3,080 | 3,080 |
-| 4.6 Interest | 1,540 | 1,232 | 924 | 616 | 308 |
-| 4.7 Tax payments |
-| 5 TOTAL COSTS | 22,000 | 8,270 | 7,962 | 7,654 | 12,346 | 6,491 |
-| 6 CASHBOOK BALANCE | 1,900 | 4,450 | 815 | (798) | (9,707) | 171 |
-| AT YEAR END |
-| memo | Current account interest | 190 | 445 | 82 | (80) | (971) | 17 |
+| $000s | $000s | Year 0(1990) | Year 1(1991) | Year 2(1992) | Year 3(1993) | Year 4(1994) | Year 5(1995) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Opening balance | 8,500 | 1,900 | 4,450 | 815 | (798) | (9,707) |
+| 2 | Cash receipts |  |  |  |  |  |  |
+| 2 | 2.1 Operating revenue (gross) | 0.0 | 10,820 | 4,327 | 6,041 | 3,436 | 5,368 |
+| 2 | 2.2 Capital receipts | 15,400 |  |  |  |  |  |
+| 2 | 2.3 Revenue from ship sale |  |  |  |  |  | 11,000 |
+| 3 | TOTAL RECEIPTS | 15,400 | 10,820 | 4,327 | 6,041 | 3,436 | 16,368 |
+| 4 | Cash payments |  |  |  |  |  |  |
+| 4 | 4.1 Operating costs |  | 3,650 | 3,650 | 3,650 | 3,650 | 3,103 |
+| 4 | 4.2 Dry docking |  |  |  |  | 5,000 |  |
+| 4 | 4.3 Voyage costs |  |  |  |  |  |  |
+| 4 | 4.4 Purchase of ship | 22,000 |  |  |  |  |  |
+| 4 | 4.5 Loan repayments |  | 3,080 | 3,080 | 3,080 | 3,080 | 3,080 |
+| 4 | 4.6 Interest |  | 1,540 | 1,232 | 924 | 616 | 308 |
+| 4 | 4.7 Tax payments |  |  |  |  |  |  |
+| 5 | TOTAL COSTS | 22,000 | 8,270 | 7,962 | 7,654 | 12,346 | 6,491 |
+| 6 | CASHBOOK BALANCE | 1,900 | 4,450 | 815 | (798) | (9,707) | 171 |
+| 6 | AT YEAR END |  |  |  |  |  |  |
+| 6 | memo Current account interest | 190 | 445 | 82 | (80) | (971) | 17 |
 | memo | Charter rate / day | 22,883 | 31,824 | 12,727 | 17,768 | 10,107 | 15,789 |
-| Days trading | 340 | 340 | 340 | 340 | 340 |
-| Second-hand price of ship | 22,000 | 20,000 | 9,500 | 11,000 | 8,000 | 11,000 |
-| Operating costs $/day | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | 8,500 |
-| Outstanding loan (year end) | 15,400 | 12,320 | 9,240 | 6,160 | 3,080 | (0) |
-| Asset cover | 1.4286 | 1.6234 | 1.0281 | 1.7857 | 2.5974 |
+| memo | Days trading |  | 340 | 340 | 340 | 340 | 340 |
+| memo | Second-hand price of ship | 22,000 | 20,000 | 9,500 | 11,000 | 8,000 | 11,000 |
+| memo | Operating costs $/day | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | 8,500 |
+| memo | Outstanding loan (year end) | 15,400 | 12,320 | 9,240 | 6,160 | 3,080 | (0) |
+| memo | Asset cover | 1.4286 | 1.6234 | 1.0281 | 1.7857 | 2.5974 |  |
 
 <!-- Page 285 -->
 providing a $10.5 million overdraft, it is not so much a matter of gambling as choosing between unpalatable options. Such decisions test the concept of relationship banking which we discuss in Chapter 8.
@@ -5664,23 +5515,24 @@ COSTS, REVENUE AND CASHFLOW
 **Table 6.16** Example of discounted cashflow (DCF) analysis for tanker charter options ($000)
 
 
-| Row | Year 0 | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 | Year 6 | Year 7 |
-| Big Petroleum |
-| 1 | Ship purchase/sale | (45,000) | 35,000 |
-| 2 | Timecharter revenue | 6,390 | 6,390 | 6,390 | 6,390 | 6,390 | 6,390 | 6,390 |
+| Row |  | Year 0 | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 | Year 6 | Year 7 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Big Petroleum |  |  |  |  |  |  |  |  |  |
+| 1 | Ship purchase/sale | (45,000) |  |  |  |  |  |  | 35,000 |
+| 2 | Timecharter revenue |  | 6,390 | 6,390 | 6,390 | 6,390 | 6,390 | 6,390 | 6,390 |
 | 3 | Cashflow | (45,000) | 6,390 | 6,390 | 6,390 | 6,390 | 6,390 | 6,390 | 41,390 |
 | 4 | Discount rate (at 12% pa) | 1.00 | 0.89 | 0.80 | 0.71 | 0.64 | 0.57 | 0.51 | 0.45 |
 | 5 | Discounted cash flow | (45,000) | 5,705 | 5,094 | 4,548 | 4,061 | 3,626 | 3,237 | 18,723 |
-| 6 | Net Present Value (npv) | (5.4) |
-| memo: Time charter rate $/day | 18,000 | 18,000 | 18,000 18,000 18,000 | 18,000 | 18,000 |
-| Superoil Trading |
-| 1 | Ship purchase/sale | (48,000) | 45,000 |
-| 2 | Timecharter revenue | 4,260 | 4,970 | 5,680 | 6,390 | 7,100 | 7,810 | 8,520 |
+| 6 | Net Present Value (npv) | (5.4) |  |  |  |  |  |  |  |
+|  | memo: Time charter rate $/day |  | 18,000 | 18,000 | 18,000 | 18,000 | 18,000 | 18,000 | 18,000 |
+| Superoil Trading |  |  |  |  |  |  |  |  |  |
+| 1 | Ship purchase/sale | (48,000) |  |  |  |  |  |  | 45,000 |
+| 2 | Timecharter revenue |  | 4,260 | 4,970 | 5,680 | 6,390 | 7,100 | 7,810 | 8,520 |
 | 3 | Cashflow | (48,000) | 4,260 | 4,970 | 5,680 | 6,390 | 7,100 | 7,810 | 53,520 |
 | 4 | Discount rate (12% pa) | 1.00 | 0.89 | 0.80 | 0.71 | 0.64 | 0.57 | 0.51 | 0.45 |
 | 5 | Discounted cash flow | (48,000) | 3,804 | 3,962 | 4,043 | 4,061 | 4,029 | 3,957 | 24,210 |
-| 6 | Net Present Value (npv) | 64.7 |
-| memo: | Time charter | rate $/day | 12,000 | 14,000 | 16,000 18,000 20,000 | 22,000 | 24,000 |
+| 6 | Net Present Value (npv) | 64.7 |  |  |  |  |  |  |  |
+|  | memo: Time charter rate $/day |  | 12,000 | 14,000 | 16,000 | 18,000 | 20,000 | 22,000 | 24,000 |
 
 <!-- Page 288 -->
 financing is really worth. Valuation procedures are well established in the industry and merchant ships are bought and sold as 'commodities', so obtaining valuations does not usually present a particular problem. The banker, owner or investor can call up a broker and receive a valuation certificate within a few hours. However, like any valuation process there are hidden complexities which the prudent banker/investor takes into account.
@@ -5732,8 +5584,8 @@ VALUING MERCHANT SHIPS 6.8
 **Table 6.17** Example of residual value calculation
 
 
-| Value |
-| $ million |
+|  | Value$ million |
+| --- | --- |
 | Age at which residual value calculated | 10 |
 | Initial cost of the ship | 28 |
 | Depreciation rate (% per annum) | 5% |
@@ -5943,7 +5795,6 @@ Equity markets trade in equities (also known as securities or stocks). This allo
 THE WORLD FINANCIAL SYSTEM AND TYPES OF FINANCE 7.3
 
 <!-- Page 305 -->
-Investment Grade Speculative Grade
 
 Over half the world's capital is held as investments traded in the securities markets, and in 2005 the world equities market totalled $55 trillion and corporate bonds about $35 trillion. That compares with $38 trillion of bank deposits, so the capital markets are 20 the first choice of global investors. Shipping only accounts for a small proportion of these funds. To put the annual financial requirements of the shipping industry into context, if the total world capital were $100, the transport industry, which includes airlines, shipping, ports, etc., would need to raise 18 cents. Obtaining even such a small sum is not easy. The job of the markets is to channel funds to where they can be used
 
@@ -5951,42 +5802,38 @@ Over half the world's capital is held as investments traded in the securities ma
 ### BOX 7.1 BOND RATINGS AND APPROXIMATE INTERPRETATION
 
 
-Moody's S&P Approximate interpretation
-
-
-| Aaa | AAA | Capacity to service debt extremely |
-| Aa1 | AA+ | strong in all forseeable circumstances |
-| Aa2 | AA |
-| Aa3 | AA | − |
-| A1 | A+ | Getting more risky |
-| A2 | A |
-| A3 | A | − |
-| Baa1 | BBB+ | Debt service will be met, barring some |
-| serious and unpredictable catastrophe |
-| Baa2 | BBB |
-| Baa3 | BBB | − | Medium grade |
-| Ba1 | BB | + | Judged to have speculative elements |
-| Ba2 | BB |
-| Ba3 | BB | − | Acceptable for now but easily foreseeable |
-| B1 | B | + | adverse conditions could impair capacity to |
-| B2 | B | service debt in future |
-| B3 | B | − |
-| Caa | CCC |
-| Ca | CC | Highly vulnerable to non-payment |
-| C | C |
-| D | Payment is in default |
+| Grade | Moody's | S&P | Approximate interpretation |
+|---|---|---|---|
+| Investment Grade | Aaa | AAA | Capacity to service debt extremely strong in all forseeable circumstances |
+| Investment Grade | Aa1 | AA+ | |
+| Investment Grade | Aa2 | AA | |
+| Investment Grade | Aa3 | AA– | |
+| Investment Grade | A1 | A+ | Getting more risky |
+| Investment Grade | A2 | A | |
+| Investment Grade | A3 | A– | |
+| Investment Grade | Baa1 | BBB+ | Debt service will be met, barring some serious and unpredictable catastrophe |
+| Investment Grade | Baa2 | BBB | |
+| Investment Grade | Baa3 | BBB– | Medium grade |
+| Speculative Grade | Ba1 | BB+ | Judged to have speculative elements |
+| Speculative Grade | Ba2 | BB | |
+| Speculative Grade | Ba3 | BB– | Acceptable for now but easily foreseeable adverse conditions could impair capacity to service debt in future |
+| Speculative Grade | B1 | B+ | |
+| Speculative Grade | B2 | B | |
+| Speculative Grade | B3 | B– | |
+| Speculative Grade | Caa | CCC | |
+| Speculative Grade | Ca | CC | Highly vulnerable to non-payment |
+| Speculative Grade | C | C | |
+| Speculative Grade | | D | Payment is in default |
 
 *Source: Compiled from rating agency material*
 
-| Checked against |
-| Standard & Poor's | investment grade ratings in order from the highest to the lowest are: AAA, AA | + | , |
-| AA, AA | − | , A | + | , A, A | − | , BBB | + | , BBB and BBB | − | . Standard & Poor's non | − | investment grade ratings in |
-| order from the highest to the lowest are: BB | + | , BB, BB | − | , B | + | , B, B | − | , CCC | + | , CCC, CCC | − | CC, C, D |
-| and SD. |
-| Moody's Credit Ratings | - Moody's investment grade ratings in order from the highest to the lowest |
-| are: Aaa, Aa1, Aa2, Aa3, A1, A2, A3, Baa1, Baa2 and Baa3. Moody's non-investment grade ratings |
-| in order from the highest to the lowest are Ba1, Ba2, Ba3, B1, B2, B3, Caa1, Caa2, Caa3, Ca and C. |
-| http://www.quantumonline.com/RatingsNotes.cfm |
+*Checked against*
+
+*Standard & Poor's investment grade ratings in order from the highest to the lowest are: AAA, AA+, AA, AA–, A+, A, A–, BBB+, BBB and BBB–. Standard & Poor's non–investment grade ratings in order from the highest to the lowest are: BB+, BB, BB–, B+, B, B–, CCC+, CCC, CCC– CC, C, D and SD.*
+
+*Moody's Credit Ratings - Moody's investment grade ratings in order from the highest to the lowest are: Aaa, Aa1, Aa2, Aa3, A1, A2, A3, Baa1, Baa2 and Baa3. Moody's non-investment grade ratings in order from the highest to the lowest are Ba1, Ba2, Ba3, B1, B2, B3, Caa1, Caa2, Caa3, Ca and C.*
+
+*http://www.quantumonline.com/RatingsNotes.cfm*
 
 <!-- Page 306 -->
 most productively. There are many other industries fishing in the same pool, so borrowers must offer a competitive rate of return. Raising money in the equity markets generally involves issuing a prospectus and selling the 'story' to investors. In the capital markets the main preoccupation of institutions buying the bonds is the risk that the company will be unable to repay the money it has borrowed, so to raise capital a shipping company must achieve recognized standards of credit-worthiness. It does this by obtaining a 'credit rating' from one of the credit rating agencies. This opens the door to the bond markets and determines the cost of finance to the borrower.
@@ -6117,41 +5964,44 @@ FINANCING SHIPS WITH BANK LOANS 7.5
 <!-- Page 315 -->
 **Table 7.1** Bank funding calculation on $100 million ship loan
 
+| $ million | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| 1 Loan outstanding, 31 Dec | 100 | 80 | 60 | 40 | 20 |
+| 2 Principal repayment, 31 Dec | 20 | 20 | 20 | 20 | 20 |
+| ***Bank receives revenue from:*** | | | | | |
+| 3 Interest spread over LIBOR (1%) | 1.0 | 0.8 | 0.6 | 0.4 | 0.2 |
+| 4 LIBOR paid on the 8% of the loan covered by equity (1) | 0.5 | 0.4 | 0.3 | 0.2 | 0.1 |
+| 5 Arrangement Fee (1%) | 1.0 | | | | |
+| ***Bank incurs costs on:*** | | | | | |
+| 6 Bank administration expenses | 0.5 | 0.1 | 0.1 | 0.1 | 0.1 |
+| 7 Net earnings, after costs | 2.0 | 1.1 | 0.8 | 0.5 | 0.2 |
+| ***Return on capital calcualtion*** | | | | | |
+| 8 Bank equity committed | 8 | 6.4 | 4.8 | 3.2 | 1.6 |
+| 9 Return on bank equity (before debt provision) | 24.8% | 16.9% | 16.4% | 15.4% | 12.3% |
+| ***Risk calculation*** | | | | | |
+| 10 Bad debt provision | 0.5% | 0.5% | 0.5% | 0.5% | 0.5% |
+| 11 Return on bank equity (after provision) | 18.5% | 10.7% | 10.2% | 9.1% | 6.0% |
 
-| $ million |
-| 1 | 2 | 3 | 4 | 5 |
-| 1 | Loan outstanding, 31 Dec | 100 | 80 | 60 | 40 | 20 |
-| 2 | Principal repayment, 31 Dec | 20 | 20 | 20 | 20 | 20 |
-| Bank receives revenue from: |
-| 3 | Interest spread over LIBOR (1%) | 1.0 | 0.8 | 0.6 | 0.4 | 0.2 |
-| 4 | LIBOR paid on the 8% of the loan | 0.5 | 0.4 | 0.3 | 0.2 | 0.1 |
-| covered by equity (1) |
-| 5 | Arrangement Fee (1%) | 1.0 |
-| Bank incurs costs on: |
-| 6 | Bank administration expenses | 0.5 | 0.1 | 0.1 | 0.1 | 0.1 |
-| 7 | Net earnings, after costs | 2.0 | 1.1 | 0.8 | 0.5 | 0.2 |
-| Return on capital calcualtion |
-| 8 | Bank equity committed | 8 | 6.4 | 4.8 | 3.2 | 1.6 |
-| 9 | Return on bank equity | 24.8% | 16.9% | 16.4% | 15.4% | 12.3% |
-| (before debt provision) |
-| Risk calculation |
-| 10 | Bad debt provision | 0.5% | 0.5% | 0.5% | 0.5% | 0.5% |
-| 11 | Return on bank equity | 18.5% | 10.7% | 10.2% | 9.1% | 6.0% |
-| (after provision) |
-| Note 1: LIBOR assumed at 6% pa |
-| Percentage of bank's equity reserved: | Return on bank's equity |
+*Note 1: LIBOR assumed at 6% pa*
+
+| Percentage of bank's equity reserved | Return on bank's equity 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
 | 4% | 37.0% | 21.4% | 20.3% | 18.3% | 12.0% |
 | 8% | 18.5% | 10.7% | 10.2% | 9.1% | 6.0% |
 | 12% | 12.3% | 7.1% | 6.8% | 6.1% | 4.0% |
-| Bad debt provision: | Return on bank's equity |
+
+| Bad debt provision | Return on bank's equity 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
 | 0.1% | 23.5% | 15.7% | 15.2% | 14.1% | 11.0% |
 | 0.3% | 21.0% | 13.2% | 12.7% | 11.6% | 8.5% |
 | 0.5% | 18.5% | 10.7% | 10.2% | 9.1% | 6.0% |
 | 0.7% | 16.0% | 8.2% | 7.7% | 6.6% | 3.5% |
-| Size of the loan | Return on bank's equity (before provision) |
+
+| Size of the loan | Return on bank's equity (before provision) 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
 | $100 million | 24.8% | 16.9% | 16.4% | 15.4% | 12.3% |
 | $50 million | 18.5% | 15.4% | 14.3% | 12.3% | 6.0% |
-| $25 million | 6.0% | 12.3% | 10.2% | 6.0% | − | 6.5% |
+| $25 million | 6.0% | 12.3% | 10.2% | 6.0% | −6.5% |
 
 *Source: Martin Stopford 2005*
 
@@ -6276,7 +6126,8 @@ in Figure 7.8 the company has $1 billion assets ($700 million in ships and $300 
 **Table 7.2** Top 20 public shipping companies 2007
 
 
-| Fleet | Market % |
+| Short Name | Sector | Fleet |  | Market % |  |
+| --- | --- | --- | --- | --- | --- |
 | Short Name | Sector | Ships | Dwt (m.) | Cap $ M. | Share |
 | Maersk | Container | 841 | 38.0 | 50,125 | 16% |
 | Carnival | Cruise | 102 | 0.7 | 40,821 | 13% |
@@ -6298,8 +6149,8 @@ in Figure 7.8 the company has $1 billion assets ($700 million in ships and $300 
 | Frontline | Tanker | 101 | 20.3 | 3,410 | 1% |
 | Hanjin Shipping | Container | 149 | 11.1 | 3,180 | 1% |
 | Star Cruises | Cruise | 26 | 0.1 | 2,746 | 1% |
-| Others | 4839 | 214.7 | 103,128 | 33% |
-| Total | 9442 | 472.1 | 315,474 | 100% |
+| Others |  | 4839 | 214.7 | 103,128 | 33% |
+| Total |  | 9442 | 472.1 | 315,474 | 100% |
 
 *Source: Clarkson Research Services*
 
@@ -6374,12 +6225,11 @@ Compared with bank debt, bonds have several advantages for established corporati
 **Table 7.3** Shipping high-yield bond issues
 
 
-| % | Amount | Year | Maturity | Sector |
-| Interest | $ Million |
+|  | % Interest | Amount $ Million | Year | Maturity | Sector |
+| --- | --- | --- | --- | --- | --- |
 | Alpha Shipping | 9% | $175 | 1998 | 2008 | Multiple Sectors (5) |
 | Amer Reefer Co. Ltd. (AMI RLF) | 10% | $100 | 1998 | 2008 | Reefers |
-| American Commercial Lines | 10% | $300 | 1998 | 2008 | Inland Barging |
-| (VECTUR) |
+| American Commercial Lines (VECTUR) | 10% | $300 | 1998 | 2008 | Inland Barging |
 | Cenargo Intl PLC (CENTNT) | 10% | $175 | 1998 | 2008 | Ferry |
 | Enterprises Shipholding Inc | 9% | $175 | 1998 | 2008 | Reefers |
 | Ermis Maritime (ERMIS) | 13% | $150 | 1998 | 2006 | Tanker |
@@ -6388,28 +6238,22 @@ Compared with bank debt, bonds have several advantages for established corporati
 | International Shipholding (ISH) | 8% | $110 | 1998 | 2007 | Liner, Specialized |
 | MC Shipping (MCX) | 11% | $85 | 1998 | 2008 | Gas Carriers |
 | Millenium Seacarriers (MILSEA) | 12% | $100 | 1998 | 2005 | Drybulk |
-| Pacific & Atlantic | 12% | $128 | 1998 | 2008 | Dry bulL, container, MPP |
+| Pacific & Atlantic | 12% | $128 | 1998 | 2008 | Dry buLL, container, MPP |
 | Premier Cruises (CRUISE) | 11% | $160 | 1998 | 2008 | Cruise |
-| Sea Containers (SCR) | 8% | $150 | 1998 | 2008 | Diversified/Container |
-| Leasing |
+| Sea Containers (SCR) | 8% | $150 | 1998 | 2008 | Diversified/Container Leasing |
 | TBS Shipping (TBSSHP) | 10% | $110 | 1998 | 2005 | Break-bulk |
 | Teekay Shipping Corp. (TK) | 8% | $225 | 1998 | 2008 | Tankers |
-| Equimar Shipholdings Ltd. | 10% | $124 | 1997 | Tanker |
-| (EQUIMA) |
+| Equimar Shipholdings Ltd. (EQUIMA) | 10% | $124 | 1997 |  | Tanker |
 | Global Ocean Carriers (GLO) | 10% | $126 | 1997 | 2007 | Dry Bulk, Containerships |
 | Golden Ocean Group (GOLDOG) | 10% | $291 | 1997 | 2001 | Tankers/Drybulk |
-| Navigator Gas Iransporr | 10.5% | $217 | 1997 | 2007 | Gas Carriers |
-| (NAVGAS) |
-| Navigator Gas Transport | 12.0% | $87 | 1997 | 2007 | Gas Carriers |
-| (NAVGAS) |
+| Navigator Gas Transport (NAVGAS) | 10.5% | $217 | 1997 | 2007 | Gas Carriers |
+| Navigator Gas Transport (NAVGAS) | 12.0% | $87 | 1997 | 2007 | Gas Carriers |
 | Pegasus Shipping (PEGSHP) | 12% | $150 | 1997 | 2004 | Tankers |
 | Stena AB (STENA) | 9% | $175 | 1997 | 2007 | Tankers, Rigs, Other |
-| Trico Marine | 9% | $280 | 1997 | Offshore Support |
+| Trico Marine | 9% | $280 | 1997 |  | Offshore Support |
 | Ultrapetrol (Bahamas) (ULTRAP) | 11% | $135 | 1997 | 2008 | Tankers |
-| Sea Containers (SCR) | 11% | $65 | 1996 | 2003 | Diversified/Container |
-| Leasing |
-| Transportación Maritima | 10% | $200 | 1996 | 2006 | Diversified, Container |
-| Mexicana (TMM) |
+| Sea Containers (SCR) | 11% | $65 | 1996 | 2003 | Diversified/Container Leasing |
+| Transportación Maritima Mexicana (TMM) | 10% | $200 | 1996 | 2006 | Diversified, Container |
 | International Shipholding (ISH) | 9% | $100 | 1995 | 2003 | Liner, Specialized |
 | Pan Oceanic | 12% | $100 | 1995 | 2007 | Dry Bulk |
 | Stena AB (STENA) | 11% | $175 | 1995 | 2005 | Tankers, Rigs, Other |
@@ -6418,16 +6262,12 @@ Compared with bank debt, bonds have several advantages for established corporati
 | Gearbulk Holding (GEAR) | 11% | $175 | 1994 | 2004 | Specialized Bulk |
 | American President Lines (APS) | 7% | $150 | 1993 | 2003 | Container Shipping |
 | Eletson Holdings (ELETSN) | 9% | $140 | 1993 | 2003 | Tankers |
-| Overseas Shipholding | 8% | $100 | 1993 | 2003 | Tankers |
-| Group (OSG) |
-| Sea Containers (SCR) | 10% | $100 | 1993 | 2003 | Diversified/Container |
-| Leasing |
-| Transportación Maritima | 9% | $176 | 1993 | 2003 | Diversified, Container |
-| Mexicana (TMM) |
-| Transportación Maritima | 9% | $142 | 1993 | 2000 | Diversified, Container |
-| Mexicana (TMM) |
+| Overseas Shipholding Group (OSG) | 8% | $100 | 1993 | 2003 | Tankers |
+| Sea Containers (SCR) | 10% | $100 | 1993 | 2003 | Diversified/Container Leasing |
+| Transportación Maritima Mexicana (TMM) | 9% | $176 | 1993 | 2003 | Diversified, Container |
+| Transportación Maritima Mexicana (TMM) | 9% | $142 | 1993 | 2000 | Diversified, Container |
 | Sea Containers (SCR) | 13% | $100 | 1992 | 2004 | Diversified/Container Line |
-| Total | $6,331 |
+| Total |  | $6,331 |  |  |  |
 
 *Source: A. Ginsberg, 'Debt Market Re-opens', Marine Money , June 2003*
 
@@ -6502,9 +6342,8 @@ In the early 1990s these tax benefits were much reduced and the K/Ss, which had 
 
 A form of the ship finance which emerged with great success in the mid-1990s was the German KG company, the German equivalent of the Norwegian K/S company. The structure is shown in Figure 7.11. A German registered limited liability partnership
 
-$ million
-
-
+| | $ million |
+|---|---|
 | Mortgage loan (80 per cent) | 8.00 |
 | Called equity capital | 2.50 |
 | Uncalled capital | 4.85 |
@@ -6742,24 +6581,25 @@ This combination of volatile earnings and low returns distinguishes shipping fro
 **Table 8.2** Correlation matrix for monthly earnings of shipping market segments, 1990-2002
 
 
-| MPP | Container- |
-| VLCC | Aframax | Products | Capesize | Panamax | Handymax | LPG | 16kdwt | ship |
-| VLCC | 100% |
-| Aframax | 84% | 100% |
-| Products | 59% | 80% | 100% |
-| Capesize | 30% | 39% | 27% | 100% |
-| Panamax | 7% | 18% | 17% | 84% | 100% |
-| Handymax | − | 11% | 4% | 8% | 70% | 86% | 100% |
-| LPG | 36% | 32% | 33% | 33% | 15% | − | 2% | 100% |
-| MPP 16kdwt | − | 26% | − | 22% | − | 7% | 52% | 75% | 84% | − | 2% | 100% |
-| Containership | − | 9% | 9% | 14% | 59% | 68% | 71% | 14% | 68% | 100% |
+|  | VLCC | Aframax | Products | Capesize | Panamax | Handymax | LPG | MPP 16kdwt | Container-ship |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 100% |  |  |  |  |  |  |  |  |
+| Aframax | 84% | 100% |  |  |  |  |  |  |  |
+| Products | 59% | 80% | 100% |  |  |  |  |  |  |
+| Capesize | 30% | 39% | 27% | 100% |  |  |  |  |  |
+| Panamax | 7% | 18% | 17% | 84% | 100% |  |  |  |  |
+| Handymax | -11% | 4% | 8% | 70% | 86% | 100% |  |  |  |
+| LPG | 36% | 32% | 33% | 33% | 15% | -2% | 100% |  |  |
+| MPP 16kdwt | -26% | -22% | -7% | 52% | 75% | 84% | -2% | 100% |  |
+| Containership | -9% | 9% | 14% | 59% | 68% | 71% | 14% | 68% | 100% |
 
 
 **Table 8.1** Shipping earnings volatility by market sector, 1990-2005
 
 
-| Mean | Standard deviation |
-| $/day | $/day | % mean |
+|  | Mean $/day | Standard deviation |  |
+| --- | --- | --- | --- |
+|  | Mean $/day | $/day | % mean |
 | Capesize bulk carrier | 20,323 | 15,265 | 75% |
 | Suezmax tanker | 25,257 | 17,479 | 69% |
 | VLCC tanker (diesel) | 33,754 | 22,820 | 68% |
@@ -6786,15 +6626,16 @@ THE PERFORMANCE OF SHIPPING INVESTMENTS 8.1
 **Table 8.3** Annual rate of return on various investments since 1975
 
 
-| Period | ROI (%) | Standard deviation (%) |
-| Inflation | 1975-2001 | 4.6 | 3.1 |
-| Treasury bills | 1975-2001 | 6.6 | 2.7 |
-| LIBOR (6 months) | 1975-2004 | 8.5 | 3.9 |
-| Long-term gov bonds | 1975-2001 | 9.6 | 12.8 |
-| Corporate bonds | 1975-2001 | 9.6 | 11.7 |
-| S&P 500 | 1975-2001 | 14.1 | 15.1 |
-| Bulk shipping | 1975-2004 | 7.2 | 40 |
-| Tanker shipping | 1975-2002 | 4.9 | 70.4 |
+|  | Period | ROI (%) | Standard deviation (%) |
+| --- | --- | --- | --- |
+| Inflation | 1975–2001 | 4.6 | 3.1 |
+| Treasury bills | 1975–2001 | 6.6 | 2.7 |
+| LIBOR (6 months) | 1975–2004 | 8.5 | 3.9 |
+| Long-term gov bonds | 1975–2001 | 9.6 | 12.8 |
+| Corporate bonds | 1975–2001 | 9.6 | 11.7 |
+| S&P 500 | 1975–2001 | 14.1 | 15.1 |
+| Bulk shipping | 1975–2004 | 7.2 | 40 |
+| Tanker shipping | 1975–2002 | 4.9 | 70.4 |
 
 *Source: Ibbotson Associates*
 
@@ -6837,102 +6678,74 @@ THE SHIPPING COMPANY INVESTMENT MODEL 8.2
 ### BOX 8.1 THE THREE RS OF PROFIT
 
 
-| ● | Remuneration | for the use of capital. Between |
-| 1975 and 2001 US Treasury bonds averaged |
-| 6.6% p.a. (Table 8.3) and inflation was 4.6% p.a. |
-| so the real return on capital was about 2% p.a. |
-| ● | Return | for good management e.g. by reducing |
-| costs; using ships better and innovation to |
-| increase efficiency and improve cargo perform- |
-| ance. These are important aspects of the busi- |
-| ness, but the returns are likely to be quite small, |
-| perhaps 1-2% p.a. |
-| ● | Risk premium | . A venture capitalist whose |
-| whole investment could be lost might demand |
-| 20-30% return if the project succeeds. |
-| Because the shipping business is so volatile the |
-| rewards for playing the cycle correctly can be |
-| even larger if things go well. |
+- **Remuneration** for the use of capital. Between 1975 and 2001 US Treasury bonds averaged 6.6% p.a. (Table 8.3) and inflation was 4.6% p.a. so the real return on capital was about 2% p.a.
+- **Return** for good management e.g. by reducing costs; using ships better and innovation to increase efficiency and improve cargo performance. These are important aspects of the business, but the returns are likely to be quite small, perhaps 1–2% p.a.
+- **Risk premium**. A venture capitalist whose whole investment could be lost might demand 20–30% return if the project succeeds. Because the shipping business is so volatile the rewards for playing the cycle correctly can be even larger if things go well.
 
 <!-- Page 351 -->
 by its business strategy, not the shipping cycle. Of course most companies face this sort of issue to some extent, but shipping is an extreme case because capital is so dominant and so liquid. The best way to illustrate the point is work through a practical example.
 
 The return shipping investment (ROSI) can be split into four components and defined as follows:
 
+\[
+ROSI_{t} = \frac{EVA_{t}}{NAV_{t}} = \frac{EBID_{t} - DEP_{t} + CAPP_{t}}{NAV_{t}} \times 100
+\]
+
 (8.1)
 
-where NAV is the net asset value of the fleet at the end of accounting period and EVA is the economic value added. To obtain the economic value added we take earnings before interest and depreciation ( EBID ), which is the cash flow earned trading on the spot market or time-charter market after deducting operating expenses, subtract depreciation ( DEP ) to reflect the fact that during the year the company's ships age, reducing their value, and add capital appreciation ( CAPP ), the change in the company's asset value during the year. Capital appreciation in the hedge fund twin's territory; everything else is the realm of the transport provider twin. Multiplying by 100 expresses the return as a percentage.
+where NAV is the net asset value of the fleet at the end of accounting period and EVA is the economic value added. To obtain the economic value added we take earnings before interest and depreciation (EBID), which is the cash flow earned trading on the spot market or time-charter market after deducting operating expenses, subtract depreciation (DEP) to reflect the fact that during the year the company's ships age, reducing their value, and add capital appreciation (CAPP), the change in the company's asset value during the year. Capital appreciation in the hedge fund twin's territory; everything else is the realm of the transport provider twin. Multiplying by 100 expresses the return as a percentage.
 
-To illustrate how this works in practice, Table 8.4 shows the calculation of ROSI for a hypothetical shipping company, Perfect Shipping, trading between 1975 and 2006. Since this includes the 1980s recession and the 2003-6 boom it illustrates how the company performed in extremely good and bad markets. In December 1975 the company bought a fleet of 20 bulk carriers for $162 million and traded them through to December 2006, by which time the fleet had a market value of $740 million. To keep things simple, the fleet purchases in 1975 included one ship of each age from 1 to 20 years, and each year Perfect Shipping sells its oldest ship for scrap and orders a new replacement. This deals with the tricky depreciation issue because it owns a fleet of 20 ships with an average age of 10 years throughout the period. Between 1976 and 2006 the ROSI, calculated by the internal rate of return method, is 7.3% per annum (see column 13 - the IRR calculation is shown at the bottom) and the volatility is 40%, so it was a high-risk, low-return investment. For comparison, between 1980 and 2006 the average value of the 6-month LIBOR interest rate was 6.9%, so the return was about the same as putting the funds on deposit.
+To illustrate how this works in practice, Table 8.4 shows the calculation of ROSI for a hypothetical shipping company, Perfect Shipping, trading between 1975 and 2006. Since this includes the 1980s recession and the 2003–6 boom it illustrates how the company performed in extremely good and bad markets. In December 1975 the company bought a fleet of 20 bulk carriers for $162 million and traded them through to December 2006, by which time the fleet had a market value of $740 million. To keep things simple, the fleet purchases in 1975 included one ship of each age from 1 to 20 years, and each year Perfect Shipping sells its oldest ship for scrap and orders a new replacement. This deals with the tricky depreciation issue because it owns a fleet of 20 ships with an average age of 10 years throughout the period. Between 1976 and 2006 the ROSI, calculated by the internal rate of return method, is 7.3% per annum (see column 13 - the IRR calculation is shown at the bottom) and the volatility is 40%, so it was a high-risk, low-return investment. For comparison, between 1980 and 2006 the average value of the 6-month LIBOR interest rate was 6.9%, so the return was about the same as putting the funds on deposit.
 
-However, when we examine the three components of this return, EBID (column 4), depreciation (column 7) and capital gain (column 10) we get some very interesting insights into the risk profile of the company. If by 'risky' we mean the chance of losing the investment, Perfect Shipping is not nearly as risky as the volatility suggests.
-
+However, when we examine the three components of this return, EBID (column 4), depreciation (column 7) and capital gain (column 10) we get some very interesting insights into the risk profile of the company. If by ‘risky’ we mean the chance of losing the investment, Perfect Shipping is not nearly as risky as the volatility suggests.
 
 #### Earnings before interest and depreciation (EBID)
 
-
 The starting point is the EBID calculation shown in Table 8.4, column 4. This takes the earnings per day in column 2 and deducts operating expenses (OPEX) in column 3 to calculate EBID in millions of dollars per year. Over the period the company generated $1180 million but the cashflow was very volatile, swinging wildly from virtually nothing
-
-EVA ROSI NAV
-
-EBID DEP CAPP t NAV
-
-t
-
-t
-
-t t t
-
-− + = = × 100 t
 
 <!-- Page 352 -->
 **Table 8.4** Return on shipping investment for Perfect Shipping
 
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| Depreciation | Capital gain |
-| EBID | (DEP) $ mill | (CAPP) $ m. | Return (ROSI) |
-| Cost of replacing | Price |
-| Spot | less | 1 ship | of | Value | Capital | Net | ROSI% |
-| Core | Earnings | OPEX | EBID | New | Scrap | 10-year- | of | gain | EVA | asset | col 11 | + |
-| fleet | $/day | $/day/ship | $ mIll | ship | sale | Total | old ship | fleet | (loss) | $ m. | value | col 12 |
-| t | F | OPEX | EBID | NP | S | DEP | P | (P | .N | ) | CAP | 4 | + | 7 | + | 10 | NAV | ROSI |
-| t | t | t | t | t | t | t | t | t | t | t |
-| 1975 | 20 | memo: | purchase price of the fleet Dec 1975 | 162.0 | (162) | 162 |
-| 1976 | 20 | 4,964 | 3,494 | 9.2 | 16.0 | 1.3 | (14.7) | 6.0 | 120.0 | − | 42 | (47) | 115 | − | 40% |
-| 1977 | 20 | 3,814 | 3,984 | − | 2.4 | 16.0 | 1.3 | (14.7) | 4.1 | 82.7 | − | 37 | (54) | 60 | − | 66% |
-| 1978 | 20 | 4,759 | 4,589 | − | 0.2 | 19.0 | 1.4 | (17.6) | 6.7 | 133.3 | 51 | 33 | 93 | 25% |
+| t | 1 Core fleet | 2 EBID: Spot Earnings $/day | 3 EBID: less OPEX $/day/ship | 4 EBID: EBID $ mill | 5 Depreciation (DEP) $ mill: Cost of replacing 1 ship: New ship | 6 Depreciation (DEP) $ mill: Cost of replacing 1 ship: Scrap sale | 7 Depreciation (DEP) $ mill: Total | 8 Capital gain (CAPP) $ m.: Price of 10-year-old ship | 9 Capital gain (CAPP) $ m.: Value of fleet | 10 Capital gain (CAPP) $ m.: Capital gain (loss) | 11 Return (ROSI): EVA $ m. | 12 Return (ROSI): Net asset value | 13 Return (ROSI): ROSI% col 11 + col 12 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| t |  | \( F_t \) | \( OPEX_t \) | \( EBID_t \) | \( NP_t \) | \( S_t \) | \( DEP_t \) | \( P_t \) | \( (P_t.N_t) \) | \( CAP_t \) | 4+7+10 | NAV | \( ROSI_t \) |
+| 1975 | 20 |  | memo: purchase price of the fleet Dec 1975 → |  |  |  |  |  | 162.0 |  | (162) | 162 |  |
+| 1976 | 20 | 4,964 | 3,494 | 9.2 | 16.0 | 1.3 | (14.7) | 6.0 | 120.0 | -42 | (47) | 115 | -40% |
+| 1977 | 20 | 3,814 | 3,984 | -2.4 | 16.0 | 1.3 | (14.7) | 4.1 | 82.7 | -37 | (54) | 60 | -66% |
+| 1978 | 20 | 4,759 | 4,589 | -0.2 | 19.0 | 1.4 | (17.6) | 6.7 | 133.3 | 51 | 33 | 93 | 25% |
 | 1979 | 20 | 9,888 | 5,079 | 32.1 | 26.0 | 2.3 | (23.7) | 10.8 | 216.0 | 83 | 91 | 184 | 42% |
 | 1980 | 20 | 12,534 | 5,499 | 47.6 | 30.0 | 2.6 | (27.4) | 13.7 | 273.3 | 57 | 78 | 262 | 28% |
-| 1981 | 20 | 11,540 | 5,152 | 43.2 | 29.0 | 1.8 | (27.2) | 8.7 | 173.3 | − | 100 | (84) | 178 | − | 48% |
-| 1982 | 20 | 5,121 | 4,586 | 2.4 | 19.0 | 1.4 | (17.6) | 4.3 | 86.7 | − | 87 | (102) | 76 | − | 118% |
+| 1981 | 20 | 11,540 | 5,152 | 43.2 | 29.0 | 1.8 | (27.2) | 8.7 | 173.3 | -100 | (84) | 178 | -48% |
+| 1982 | 20 | 5,121 | 4,586 | 2.4 | 19.0 | 1.4 | (17.6) | 4.3 | 86.7 | -87 | (102) | 76 | -118% |
 | 1983 | 20 | 5,129 | 4,406 | 3.7 | 18.0 | 1.5 | (16.5) | 5.2 | 104.0 | 17 | 5 | 80 | 4% |
 | 1984 | 20 | 6,493 | 3,847 | 17.4 | 16.6 | 1.7 | (14.9) | 5.8 | 116.0 | 12 | 14 | 95 | 12% |
-| 1985 | 20 | 5,803 | 3,409 | 15.7 | 15.0 | 1.6 | (13.4) | 4.1 | 81.3 | − | 35 | (32) | 62 | − | 40% |
+| 1985 | 20 | 5,803 | 3,409 | 15.7 | 15.0 | 1.6 | (13.4) | 4.1 | 81.3 | -35 | (32) | 62 | -40% |
 | 1986 | 20 | 4,389 | 3,409 | 5.8 | 16.5 | 1.6 | (14.9) | 5.2 | 104.0 | 23 | 14 | 76 | 13% |
 | 1987 | 20 | 6,727 | 3,519 | 21.4 | 21.0 | 2.2 | (18.8) | 8.7 | 173.3 | 69 | 72 | 148 | 42% |
 | 1988 | 20 | 12,463 | 3,646 | 60.6 | 26.0 | 3.2 | (22.8) | 11.3 | 226.7 | 53 | 91 | 239 | 40% |
 | 1989 | 20 | 13,175 | 3,865 | 64.0 | 29.0 | 3.3 | (25.7) | 14.0 | 280.0 | 53 | 92 | 331 | 33% |
-| 1990 | 20 | 10,997 | 4,080 | 47.2 | 29.0 | 3.1 | (25.9) | 12.0 | 240.0 | − | 40 | (19) | 312 | − | 8% |
+| 1990 | 20 | 10,997 | 4,080 | 47.2 | 29.0 | 3.1 | (25.9) | 12.0 | 240.0 | -40 | (19) | 312 | -8% |
 | 1991 | 20 | 12,161 | 4,950 | 49.0 | 34.0 | 2.3 | (31.7) | 16.0 | 320.0 | 80 | 97 | 409 | 30% |
-| 1992 | 20 | 8,243 | 4,031 | 28.3 | 28.0 | 1.8 | (26.2) | 12.5 | 250.0 | − | 70 | (68) | 342 | − | 27% |
+| 1992 | 20 | 8,243 | 4,031 | 28.3 | 28.0 | 1.8 | (26.2) | 12.5 | 250.0 | -70 | (68) | 342 | -27% |
 | 1993 | 20 | 9,702 | 4,413 | 35.7 | 28.5 | 2.0 | (26.5) | 13.0 | 260.0 | 10 | 19 | 361 | 7% |
 | 1994 | 20 | 9,607 | 4,351 | 35.5 | 28.0 | 2.1 | (25.9) | 14.0 | 280.0 | 20 | 30 | 390 | 11% |
 | 1995 | 20 | 13,934 | 4,654 | 63.6 | 28.5 | 2.3 | (26.2) | 14.3 | 286.7 | 7 | 44 | 434 | 15% |
-| 1996 | 20 | 7,881 | 5,229 | 17.0 | 26.5 | 2.5 | (24.0) | 13.0 | 260.0 | − | 27 | (34) | 401 | − | 13% |
+| 1996 | 20 | 7,881 | 5,229 | 17.0 | 26.5 | 2.5 | (24.0) | 13.0 | 260.0 | -27 | (34) | 401 | -13% |
 | 1997 | 20 | 8,307 | 5,377 | 18.9 | 27.0 | 2.0 | (25.0) | 15.8 | 316.0 | 56 | 50 | 451 | 16% |
-| 1998 | 20 | 5,663 | 4,987 | 3.2 | 20.0 | 1.4 | (18.6) | 9.8 | 196.0 | − | 120 | (135) | 315 | − | 69% |
+| 1998 | 20 | 5,663 | 4,987 | 3.2 | 20.0 | 1.4 | (18.6) | 9.8 | 196.0 | -120 | (135) | 315 | -69% |
 | 1999 | 20 | 6,370 | 5,000 | 8.1 | 22.0 | 1.9 | (20.1) | 12.0 | 240.0 | 44 | 32 | 347 | 13% |
-| 2000 | 20 | 10,800 | 5,100 | 38.4 | 22.5 | 2.1 | (20.4) | 11.8 | 236.0 | − | 4 | 14 | 361 | 6% |
-| 2001 | 20 | 8,826 | 5,202 | 23.8 | 20.5 | 1.7 | (18.8) | 9.5 | 190.0 | − | 46 | (41) | 320 | − | 22% |
+| 2000 | 20 | 10,800 | 5,100 | 38.4 | 22.5 | 2.1 | (20.4) | 11.8 | 236.0 | -4 | 14 | 361 | 6% |
+| 2001 | 20 | 8,826 | 5,202 | 23.8 | 20.5 | 1.7 | (18.8) | 9.5 | 190.0 | -46 | (41) | 320 | -22% |
 | 2002 | 20 | 6,308 | 5,306 | 5.4 | 21.0 | 2.0 | (19.0) | 11.5 | 230.0 | 40 | 26 | 347 | 11% |
 | 2003 | 20 | 17,451 | 5,412 | 82.6 | 27.0 | 3.4 | (23.6) | 20.0 | 400.0 | 170 | 229 | 576 | 57% |
 | 2004 | 20 | 31,681 | 5,520 | 181.5 | 36.0 | 4.9 | (31.1) | 31.0 | 620.0 | 220 | 370 | 946 | 60% |
-| 2005 | 20 | 22,931 | 6,000 | 116.7 | 36.0 | 4.3 | (31.7) | 24.0 | 480.0 | − | 140 | (55) | 891 | − | 11% |
+| 2005 | 20 | 22,931 | 6,000 | 116.7 | 36.0 | 4.3 | (31.7) | 24.0 | 480.0 | -140 | (55) | 891 | -11% |
 | 2006 | 20 | 21,427 | 6,200 | 104.7 | 40.0 | 5.0 | (35.0) | 37.0 | 740.0 | 260 | 330 | 1221 | 45% |
-| Number years | 31 | memo: | closing value of the fleet | memo: | closing NAV |
-| Total $ mill | 2,234 | 1,053 | 180 | 772 | 72 | (700) | 578 | 1059 |
-| Notes on methodology |
+| Number years |  | 31 |  | memo: closing value of the fleet |  |  |  |  | memo: closing NAV |  |  |  |  |
+| Total $ mill |  | 2,234 | 1,053 | 180 | 772 | 72 | (700) |  |  | 578 | 1059 |  |  |
+
+Notes on methodology
 
 *1. Number of ships in fleet*
 
@@ -6942,13 +6755,19 @@ t t t
 
 *3. Operating costs. 1976 to 1988 from Clarkson Research database. 1989 to 1998 from company records.*
 
-| 4. EBID is ((Col 2 | × | 350) | − | (Col 3 | × | 365) | × | Col 1) ÷ | 1,000,000 |
-| 5. Newbuilding price at year end. Should be lagged to take account of the delivery schedule, but for simplicity taken in year. |
-| 6. Shows the disposal value of one ship each year based on lightweight of 12,900 tons |
-| 8. 2nd hand price of 10-year-old vessel (year end). Until 1997 estimated from 5-year-old Panamax price. |
-| 10. Change in the value of total fleet during the year in $ million |
-| 11. Economic value added (EVA) Col 4 + Col 7 + Col 10 |
-| 12. Net asset value is the current value of the fleet + EBID | − | DEP |
+*4. EBID is ((Col 2 × 350) − (Col 3 × 365) × Col 1) ÷ 1,000,000*
+
+*5. Newbuilding price at year end. Should be lagged to take account of the delivery schedule, but for simplicity taken in year.*
+
+*6. Shows the disposal value of one ship each year based on lightweight of 12,900 tons*
+
+*8. 2nd hand price of 10-year-old vessel (year end). Until 1997 estimated from 5-year-old Panamax price.*
+
+*10. Change in the value of total fleet during the year in $ million*
+
+*11. Economic value added (EVA) Col 4 + Col 7 + Col 10*
+
+*12. Net asset value is the current value of the fleet + EBID − DEP*
 
 <!-- Page 353 -->
 in some years to over $50 million in others. But over the 31 years there were only two years when EBID was negative: $2.4 million in 1977 and $0.2 million in 1978. So with $3 million working capital, Perfect Shipping could have met its obligations every year, even in the appalling recession of the 1980s, which satisfies at least one of the criteria of an investment-grade credit rating - it could meet its obligations in all foreseeable circumstances, provided it was financed by equity and its only obligations are the operating costs.
@@ -7016,17 +6835,10 @@ COMPETITION THEORY AND THE 'NORMAL' PROFIT 8.3
 **Table 8.5** Perfect Shipping operating model
 
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+*Sections: 1. Fleet (cols 1–3: fleet profile); 2. Variable costs (col 4: office; cols 5–6: operating costs); 4. Cost functions (cols 7–9: how costs develop as output expands)*
 
-*1. FLEET 2. VARIABLE COSTS 4. COST FUNCTIONS*
-
-| Operating | How costs develop |
-| Fleet profile | Office | costs | as output expands |
-| OPEX | MC | ATC |
-| Book | Age | Total | per | for | equals | AVC | Cols |
-| No. | value | of | costs | ship of | fleet of | Col 5 | + | Col 4 | + | 4 | + | 6 |
-| at | $m/ | ship | in | age in | ships | extra | Col 6 | ÷ | + | 22.2 | ÷ |
-| sea | ship | years | year | Col 1 | at sea | office cost | Col 1 | Col 1 |
+| No. at sea (1) | Book value $m/ship (2) | Age of ship years (3) | Office: total costs in year (4) | OPEX per ship of age in Col 1 (5) | OPEX for fleet of ships at sea (6) | MC equals Col 5 + extra office cost (7) | AVC Col 4 + Col 6 ÷ Col 1 (8) | ATC Cols 4 + 6 + 22.2 ÷ Col 1 (9) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 20.0 | 1 | 3.1 | 1.10 | 1.1 | 1.10 | 4.15 | 26.36 |
 | 2 | 19.2 | 2 | 3.1 | 1.15 | 2.2 | 1.20 | 2.67 | 13.78 |
 | 3 | 18.4 | 3 | 3.2 | 1.20 | 3.4 | 1.25 | 2.20 | 9.60 |
@@ -7047,18 +6859,18 @@ COMPETITION THEORY AND THE 'NORMAL' PROFIT 8.3
 | 18 | 6.4 | 16 | 3.9 | 1.95 | 27.4 | 2.00 | 1.74 | 2.97 |
 | 19 | 5.6 | 18 | 4.0 | 2.00 | 29.4 | 2.05 | 1.75 | 2.92 |
 | 20 | 3.6 | 20 | 4.0 | 2.05 | 31.4 | 2.10 | 1.77 | 2.88 |
-| Total | 246.8 | 3.0 | 31.40 |
-| Percent of costs |
+| Total | 246.8 |  | 3.0 | 31.40 |  |  |  |  |
+| Percent of costs |  |  |  |  |  |  |  |  |
 
-*3. CAPITAL COSTS Definition of the 4 sections in this table*
+*3. Capital costs*
 
-| The fleet's total annual capital cost is | 1. Fleet shows a fleet of 20 ships with one ship of each age 1-20 |
-| £ mill | years; 2. Variable Costs show how ship specific costs vary for |
-| Interest at 5% p.a. | 12.3 | each age of ship; 3. Capital is the fixed cost of $22.2 m which |
-| Depreciation at 4% pa | 9.9 | must be paid however many ships are at sea; 4. Cost functions |
-| show how the company's cost per ship changes depending on |
+| The fleet's total annual capital cost is | £ mill |
+| --- | --- |
+| Interest at 5% p.a. | 12.3 |
+| Depreciation at 4% pa | 9.9 |
 | Total capital cost per annum | 22.2 |
-| the number of ships at sea, which is shown in Column 1 |
+
+Definition of the 4 sections in this table: 1. Fleet shows a fleet of 20 ships with one ship of each age 1–20 years; 2. Variable Costs show how ship specific costs vary for each age of ship; 3. Capital is the fixed cost of $22.2 m which must be paid however many ships are at sea; 4. Cost functions show how the company's cost per ship changes depending on the number of ships at sea, which is shown in Column 1
 
 <!-- Page 357 -->
 of ships at sea). But if we include the nominal allowance for capital, the relevant curve is the ATC line, that tells a very different story. At all output levels the break-even point is much higher. We will refer to the shaded area between these two curves as the shipping equity risk band (SERB), and the central issue for Perfect Shipping is how to finance this dominant element of its costs. The choice of debt or equity determines the business's break-even cashflow. If the SERB is financed mainly with debt the shipping company needs to invest less of its own capital, leveraging up its returns, but it is committed to a debt repayment schedule. For example, with nine ships at sea Perfect Shipping can survive on average earnings of $1.62 million a year, but if it is financed with 100% debt it must earn $4.09 million a year per ship to meet its obligations. So the company (and its bankers) must decide how much of the SERB can safely be financed by equity and how much by financial instruments involving fixed payment schedules.
@@ -7224,13 +7036,7 @@ In conclusion, shipping is as risky as the management make it and shipping inves
 SUMMARY 8.5
 
 <!-- Page 370 -->
-# Part 4
-
-
-# S E A B O R N E T R A D E A N D
-
-
-# T R A N S P O R T S Y S T E M S
+# Part 4: SEABORNE TRADE AND TRANSPORT SYSTEMS
 
 <!-- Page 372 -->
 ### 9.1 THE VALUE ADDED BY SEABORNE TRANSPORT
@@ -7273,14 +7079,12 @@ OCEANS, DISTANCES AND TRANSIT TIMES 9.2
 **Table 9.1** International seaborne imports and exports by region, 2005 (million tonnes)
 
 
-| Exports | Imports | Total Trade | a |
+| Region | Exports |  |  | Imports |  |  |  |  | Total Tradea |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Region | Oil | Dry | Total | % | Oil | Dry | total | % | mt | % |
-
-*1. Trade of the Atlantic*
-
-| North America | b | 95 | 503 | 598 | 8% | 682 | 442 | 1,124 | 16% | 1,722 | 12% |
-| Carib. & | 169 | 65 | 234 | 3% | 73 | 86 | 159 | 2% | 393 | 3% |
-| Cent. America |
+| **1. Trade of the Atlantic** | | | | | | | | | | |
+| North Americab | 95 | 503 | 598 | 8% | 682 | 442 | 1,124 | 16% | 1,722 | 12% |
+| Carib. & Cent. America | 169 | 65 | 234 | 3% | 73 | 86 | 159 | 2% | 393 | 3% |
 | E. Coast S. America | 195 | 393 | 588 | 8% | 61 | 92 | 153 | 2% | 741 | 5% |
 | West Africa | 198 | 20 | 218 | 3% | 8 | 42 | 50 | 1% | 268 | 2% |
 | Northern Africa | 166 | 38 | 204 | 3% | 57 | 84 | 142 | 2% | 346 | 2% |
@@ -7288,23 +7092,20 @@ OCEANS, DISTANCES AND TRANSIT TIMES 9.2
 | Russia & E. Europe | 177 | 181 | 358 | 5% | 14 | 67 | 81 | 1% | 439 | 3% |
 | Other Europe | 2 | 17 | 19 | 0% | 9 | 11 | 20 | 0% | 40 | 0% |
 | Total Atlantic | 285 | 1,263 | 3,389 | 48% | 1,447 | 2,340 | 3,787 | 53% | 7,176 | 50% |
-
-*2. Trade of the Pacific & Indian Oceans*
-
+| **2. Trade of the Pacific & Indian Oceans** | | | | | | | | | | |
 | West Coast | 32 | 120 | 152 | 2% | 22 | 35 | 56 | 1% | 209 | 1% |
 | Japan | 4 | 186 | 190 | 3% | 248 | 585 | 832 | 12% | 1,022 | 7% |
-| China | c | 39 | 478 | 517 | 7% | 153 | 584 | 737 | 10% | 1,254 | 9% |
+| Chinac | 39 | 478 | 517 | 7% | 153 | 584 | 737 | 10% | 1,254 | 9% |
 | S. & E. Asia | 172 | 762 | 934 | 13% | 469 | 915 | 1,384 | 19% | 2,318 | 16% |
-| Total Asia | d | 215 | 1,426 | 1,641 | 23% | 870 | 2,084 | 2,953 | 41% | 4,594 | 32% |
+| Total Asiad | 215 | 1,426 | 1,641 | 23% | 870 | 2,084 | 2,953 | 41% | 4,594 | 32% |
 | Oceania (Dev.) | 4 | 2 | 6 | 0% | 6 | 6 | 12 | 0% | 18 | 0% |
-| Australia & | 14 | 604 | 618 | 9% | 40 | 48 | 88 | 1% | 706 | 5% |
-| New Zealand |
+| Australia & New Zealand | 14 | 604 | 618 | 9% | 40 | 48 | 88 | 1% | 706 | 5% |
 | M. East (W. Asia) | 1,048 | 73 | 1,121 | 16% | 19 | 141 | 160 | 2% | 1,281 | 9% |
 | East Africa | - | 9 | 9 | 0% | 6 | 21 | 26 | 0% | 36 | 0% |
 | South Africa | - | 172 | 172 | 2% | 16 | 24 | 40 | 1% | 211 | 1% |
 | Total | 1,314 | 2,406 | 3,720 | 52% | 979 | 2,356 | 3,335 | 47% | 7,055 | 50% |
-| Total Sea Trade | 1,599 | 3,669 | 7,109 | 100% | 2,426 | 4,696 | 7,122 | 100% |
-| Memo: Africa Total | 364 | 239 | 602 | 0 | 87 | 170 | 258 | 860 | 6% |
+| Total Sea Trade | 1,599 | 3,669 | 7,109 | 100% | 2,426 | 4,696 | 7,122 | 100% |  |  |
+| Memo: Africa Total | 364 | 239 | 602 | 0 | 87 | 170 | 258 |  | 860 | 6% |
 
 *Source: Review of Maritime Transport 2006, United Nations Conference on Trade and Development*
 
@@ -7343,10 +7144,8 @@ OCEANS, DISTANCES AND TRANSIT TIMES 9.2
 **Table 9.2** Round-the-world voyage showing voyage times and total cost per tonne
 
 
-| Trade route | Sailing Time (days) | Total Cost $ mill |
-| Distance, |
-| nautical | Bulker | Container | Bulker | b | Container | c |
-| From | To | miles | a | 13.6kts | 23 kts | 13.6kts | 23.0 kts |
+| Trade route: From | Trade route: To | Distance, nautical miles ᵃ | Sailing Time (days): Bulker 13.6kts | Sailing Time (days): Container 23 kts | Total Cost $ mill: Bulker ᵇ 13.6kts | Total Cost $ mill: Container ᶜ 23.0 kts |
+| --- | --- | --- | --- | --- | --- | --- |
 | Rotterdam | New York | 3,270 | 10.0 | 5.9 | 0.22 | 0.32 |
 | New York | Houston | 1,905 | 5.8 | 3.3 | 0.13 | 0.18 |
 | Houston | Long Beach | 4,346 | 13.3 | 7.9 | 0.29 | 0.43 |
@@ -7355,19 +7154,15 @@ OCEANS, DISTANCES AND TRANSIT TIMES 9.2
 | Singapore | Aden | 3,627 | 11.1 | 6.6 | 0.25 | 0.36 |
 | Aden | Marseilles | 2,920 | 8.9 | 5.3 | 0.20 | 0.29 |
 | Marseilles | Rotterdam | 2,070 | 6.3 | 3.8 | 0.14 | 0.20 |
-| Total | 26,158 | 80.1 | 47.0 | 1.78 | 2.55 |
-| Cost: $/tonne for 70,000 tonnes bulk or 48,456 tonnes container cargo | 25.3 | 55.3 |
+| Total |  | 26,158 | 80.1 | 47.0 | 1.78 | 2.55 |
+| Cost: $/tonne for 70,000 tonnes bulk or 48,456 tonnes container cargo |  |  |  |  | 25.3 | 55.3 |
 
 *a A nautical mile is the length of a minute of the arc of a great circle of the globe, 6,080 feet*
 
 
-*b Based on 74,000 dwt Panamax bulk carrier 2007 built averaging 13.6 knots and burning 33 tons/day heavy fuel oil at*
+*b Based on 74,000 dwt Panamax bulk carrier 2007 built averaging 13.6 knots and burning 33 tons/day heavy fuel oil at $250/tonne and chartered at $13,900/day, the TC rate of a Panamax bulk carrier over the 10 years April 1997 to April 2007*
 
-| $250/tonne and chartered at $13,900/day, the TC rate of a Panamax bulk carrier over the 10 years April 1997 to April 2007 |
-
-*c Based on 4,048 TEU containership, 23 knots on 117 tonnes/day of heavy fuel oil at $250/tonne and 12 tonnes carried*
-
-| per TEU in a vessel chartered at $25,000/day |
+*c Based on 4,048 TEU containership, 23 knots on 117 tonnes/day of heavy fuel oil at $250/tonne and 12 tonnes carried per TEU in a vessel chartered at $25,000/day*
 
 <!-- Page 377 -->
 higher bunkers and the greater cost of chartering a container-ship capable of travelling 2 at 23 knots. Broadly speaking, 13.6 knots to 23 knots is the speed range within which merchant ships operate, though to trade efficiently at the opposite ends of this speed band requires significantly different hull and machinery designs. We reviewed these costs in detail in Chapter 6.
@@ -7389,55 +7184,49 @@ OCEANS, DISTANCES AND TRANSIT TIMES 9.2
 **Table 9.3** (a) Distance round voyage (nautical miles)
 
 
-| ASIA | EUROPE | UNITED STATES |
-| India | S'pore | China | N. West | Med | E. Coast | US Gulf | W. Coast |
-| New |
-| Region | Port | Mumbai | Shanghai | Rotterdam | Fos | N. York | Orleans | L. Angeles |
-| Arabian Gulf (1) | Ras Tanura | 1,352 | 2,435 | 5,852 | 11,170 | 11,765 | 12,225 |
-| via Suez | Ras Tanura | 6,412 | 9,543 |
+| Region | Port | ASIA |  |  | EUROPE |  | UNITED STATES |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Region | Port | India | S'pore | China | N. West | Med | E. Coast | US Gulf | W. Coast |
+| Region | Port | Mumbai |  | Shanghai | Rotterdam | Fos | New |  |  |
+| Arabian Gulf (1) via Suez | Ras Tanura | 1,352 | 2,435 | 5,852 | 11,170 |  | 11,765 | 12,225 |  |
+| Arabian Gulf (1) via Suez | Ras Tanura |  |  |  | 6,412 |  |  | 9,543 |  |
 | Australia | Newcastle | 6,095 | 4,215 | 4,590 | 11,620 | 9,915 | 9,680 | 9,088 | 6,456 |
 | Canada | Vancouver | 9,512 | 7,071 | 5,092 | 8,917 | 9,105 | 6,056 | 5,472 | 1,144 |
-| US Gulf | N. Orleans | 9,541 | 11,514 | 10,080 | 4,880 | 5,300 | 1,707 | 4,346 |
-| East Coast | N. York | 9,541 | 10,169 | 10,669 | 3,270 | 3,825 | 1,707 | 3,780 |
-| South America |
-| West Coast | L. Angeles | 10,308 | 7,867 | 5,810 | 7,747 | 7,980 | 1,707 | 4,346 |
-| South America |
+| US Gulf | N. Orleans | 9,541 | 11,514 | 10,080 | 4,880 | 5,300 | 1,707 |  | 4,346 |
+| East Coast South America | N. York | 9,541 | 10,169 | 10,669 | 3,270 | 3,825 |  | 1,707 | 3,780 |
+| West Coast South America | L. Angeles | 10,308 | 7,867 | 5,810 | 7,747 | 7,980 | 1,707 | 4,346 |  |
 | Brazil | Rio | 7,863 | 8,863 | 10,877 | 5,256 | 4,900 | 4,780 | 5,136 | 7,245 |
 | W.Africa | Lagos | 7,188 | 8,188 | 10,202 | 4,310 | 3,810 | 4,883 | 5,749 | 8,006 |
 | N. Africa | Algiers | 4,570 | 6,565 | 8,805 | 1,791 | 410 | 3,545 | 5,300 | 7,705 |
 | B. Sea | Odessa | 4,230 | 6,214 | 8,465 | 3,508 | 1,720 | 5,265 | 6,740 | 9,450 |
-| Europe | Rotterdam | 6,337 | 8,308 | 10,590 | 2,070 | 3,270 | 4,880 | 7,747 |
+| Europe | Rotterdam | 6,337 | 8,308 | 10,590 |  | 2,070 | 3,270 | 4,880 | 7,747 |
 | Asia | Osaka | 5,112 | 2,671 | 790 | 10,985 | 9,221 | 9,986 | 6,348 | 5,193 |
-| 6,671 |
+|  |  |  |  |  |  |  |  |  | 6,671 |
 
 
 **Table 9.3** (b) Days per single voyage (at 13 knots speed)
 
 
-| ASIA | EUROPE | UNITED STATES |
-| India | S'pore | China | N. West | Med | E. Coast | US Gulf | W. Coast |
-| New |
-| Region | Port | Mumbai | Shanghai | Rotterdam | Fos | N. York | Orleans | L. Angeles |
-| Arabian Gulf (1) | Ras Tanura | 4 | 8 | 19 | 36 | 38 | 39 |
-| via Suez | Ras Tanura | 21 | 31 |
-| Australia | Newcastle | 20 | 14 | 15 | 37 | 32 | 31 | 29 | 21 |
-| Canada | Vancouver | 30 | 23 | 16 | 29 | 29 | 19 | 18 | 4 |
-| US Gulf | N. Orleans | 31 | 37 | 32 | 16 | 17 | 5 | - | 14 |
-| East Coast | N. York | 31 | 33 | 34 | 10 | 12 | 0 | 5 | 12 |
-| South America |
-| West Coast | L. Angeles | 33 | 25 | 19 | 25 | 26 | 5 | 14 | 0 |
-| South America |
-| Brazil | Rio | 25 | 28 | 35 | 17 | 16 | 15 | 16 | 23 |
-| W.Africa | Lagos | 23 | 26 | 33 | 14 | 12 | 16 | 18 | 26 |
-| N. Africa | Algiers | 15 | 21 | 28 | 6 | 1.3 | 11 | 17 | 25 |
-| B. Sea | Odessa | 14 | 20 | 27 | 11 | 6 | 17 | 22 | 30 |
-| Europe | Rotterdam | 20 | 27 | 34 | - | 7 | 10 | 16 | 25 |
-| Asia | Osaka | 16 | 9 | 3 | 35 | 30 | 32 | 20 | 17 |
-| 30 |
+| Region | Port | ASIA |  |  | EUROPE |  | UNITED STATES |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Region | Port | India | S'pore | China | N. West | Med | E. Coast | US Gulf | W. Coast |
+| Region | Port | Mumbai |  | Shanghai | Rotterdam | Fos | New |  |  |
+| Arabian Gulf (1) via Suez | Ras Tanura | 1,352 | 2,435 | 5,852 | 11,170 |  | 11,765 | 12,225 |  |
+| Arabian Gulf (1) via Suez | Ras Tanura |  |  |  | 6,412 |  |  | 9,543 |  |
+| Australia | Newcastle | 6,095 | 4,215 | 4,590 | 11,620 | 9,915 | 9,680 | 9,088 | 6,456 |
+| Canada | Vancouver | 9,512 | 7,071 | 5,092 | 8,917 | 9,105 | 6,056 | 5,472 | 1,144 |
+| US Gulf | N. Orleans | 9,541 | 11,514 | 10,080 | 4,880 | 5,300 | 1,707 |  | 4,346 |
+| East Coast South America | N. York | 9,541 | 10,169 | 10,669 | 3,270 | 3,825 |  | 1,707 | 3,780 |
+| West Coast South America | L. Angeles | 10,308 | 7,867 | 5,810 | 7,747 | 7,980 | 1,707 | 4,346 |  |
+| Brazil | Rio | 7,863 | 8,863 | 10,877 | 5,256 | 4,900 | 4,780 | 5,136 | 7,245 |
+| W.Africa | Lagos | 7,188 | 8,188 | 10,202 | 4,310 | 3,810 | 4,883 | 5,749 | 8,006 |
+| N. Africa | Algiers | 4,570 | 6,565 | 8,805 | 1,791 | 410 | 3,545 | 5,300 | 7,705 |
+| B. Sea | Odessa | 4,230 | 6,214 | 8,465 | 3,508 | 1,720 | 5,265 | 6,740 | 9,450 |
+| Europe | Rotterdam | 6,337 | 8,308 | 10,590 |  | 2,070 | 3,270 | 4,880 | 7,747 |
+| Asia | Osaka | 5,112 | 2,671 | 790 | 10,985 | 9,221 | 9,986 | 6,348 | 5,193 |
+|  |  |  |  |  |  |  |  |  | 6,671 |
 
-*Notes: (1) US Gulf (New Orleans),Distances via Suez Canal AG to Rotterdam 19.7 days; AG to New*
-
-| Orleans 30 days |
+*Notes: (1) US Gulf (New Orleans),Distances via Suez Canal AG to Rotterdam 19.7 days; AG to New Orleans 30 days*
 
 <!-- Page 379 -->
 52 voyages a year (Table 9.3(c)), spending only 137 days at sea and 211 days in port. This is quite a difference from the longest voyage from Ras Tanura (Saudi Arabia) to New Orleans (the LOOP oil terminal) which is 12,225 miles and takes 39 days for a single voyage. If the ship returns in ballast the round voyage takes 80 days so the ship will complete four voyages a year. No wonder analysts of the demand for oil tankers are very interested in whether the future trade growth will be from Africa to France or from the Middle East to the USA and whether refineries will be built close to the source of the crude! Finally, Table 9.3(c) shows the number of voyages completed per year at 13 knots.
@@ -7450,25 +7239,24 @@ in the maritime logistics model are distance, ship size, type and speed (see Fig
 **Table 9.3** (c) Number of round voyages a year (350 days trading, 2 days loading, 2 days discharge)
 
 
-| ASIA | EUROPE | UNITED STATES |
-| India | S'pore | China | N. West | Med | E. Coast | US Gulf | W. Coast |
-| New |
-| Region | Port | Mumbai | Shanghai | Rotterdam | Fos | N. York | Orleans | L. Angeles |
-| A. Gulf | Ras Tanura | 27.6 | 17.8 | 8.4 | 4.6 | 4.4 | 4.2 |
-| via Suez | Ras Tanura | 7.8 | 5.4 |
-| Australia | Newcastle | 8.1 | 11.3 | 10.5 | 4.5 | 5.2 | 5.3 | 5.6 | 7.7 |
-| Canada | Vancouver | 5.4 | 7.1 | 9.6 | 5.7 | 5.6 | 8.2 | 9.0 | 30.9 |
-| US Gulf | N. Orleans | 5.4 | 4.5 | 5.1 | 9.9 | 9.2 | 23.4 | -- | 11.0 |
-| East Coast | N. York | 5.4 | 5.1 | 4.8 | 14.0 | 12.3 | 87.5 | 23.4 | 12.4 |
-| South America |
-| West Coast | L. Angeles | 5.0 | 6.4 | 8.5 | 6.5 | 6.3 | 23.4 | 11.0 | 87.5 |
-| South America |
-| Brazil | Rio | 6.4 | 5.8 | 4.7 | 9.3 | 9.9 | 10.1 | 9.5 | 6.9 |
-| W.Africa | Lagos | 7.0 | 6.2 | 5.0 | 11.1 | 12.3 | 9.9 | 8.6 | 6.3 |
-| N. Africa | Algiers | 10.5 | 7.6 | 5.8 | 22.6 | 52.8 | 13.1 | 9.2 | 6.6 |
-| B. Sea | Odessa | 11.2 | 8.0 | 6.0 | 13.2 | 23.3 | 9.3 | 7.4 | 5.4 |
-| Europe | Rotterdam | 7.8 | 6.1 | 4.9 | -- | 20.3 | 14.0 | 9.9 | 6.5 |
-| Asia | Osaka | 9.5 | 16.6 | 38.6 | 4.7 | 5.5 | 5.1 | 7.8 | 9.4 |
+| Region | Port | ASIA |  |  | EUROPE |  | UNITED STATES |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Region | Port | India | S'pore | China | N. West | Med | E. Coast | US Gulf | W. Coast |
+| Region | Port | Mumbai |  | Shanghai | Rotterdam | Fos | New |  |  |
+| Arabian Gulf (1) via Suez | Ras Tanura | 1,352 | 2,435 | 5,852 | 11,170 |  | 11,765 | 12,225 |  |
+| Arabian Gulf (1) via Suez | Ras Tanura |  |  |  | 6,412 |  |  | 9,543 |  |
+| Australia | Newcastle | 6,095 | 4,215 | 4,590 | 11,620 | 9,915 | 9,680 | 9,088 | 6,456 |
+| Canada | Vancouver | 9,512 | 7,071 | 5,092 | 8,917 | 9,105 | 6,056 | 5,472 | 1,144 |
+| US Gulf | N. Orleans | 9,541 | 11,514 | 10,080 | 4,880 | 5,300 | 1,707 |  | 4,346 |
+| East Coast South America | N. York | 9,541 | 10,169 | 10,669 | 3,270 | 3,825 |  | 1,707 | 3,780 |
+| West Coast South America | L. Angeles | 10,308 | 7,867 | 5,810 | 7,747 | 7,980 | 1,707 | 4,346 |  |
+| Brazil | Rio | 7,863 | 8,863 | 10,877 | 5,256 | 4,900 | 4,780 | 5,136 | 7,245 |
+| W.Africa | Lagos | 7,188 | 8,188 | 10,202 | 4,310 | 3,810 | 4,883 | 5,749 | 8,006 |
+| N. Africa | Algiers | 4,570 | 6,565 | 8,805 | 1,791 | 410 | 3,545 | 5,300 | 7,705 |
+| B. Sea | Odessa | 4,230 | 6,214 | 8,465 | 3,508 | 1,720 | 5,265 | 6,740 | 9,450 |
+| Europe | Rotterdam | 6,337 | 8,308 | 10,590 |  | 2,070 | 3,270 | 4,880 | 7,747 |
+| Asia | Osaka | 5,112 | 2,671 | 790 | 10,985 | 9,221 | 9,986 | 6,348 | 5,193 |
+|  |  |  |  |  |  |  |  |  | 6,671 |
 
 
 **Figure 9.3** Four maritime logistics variables Source: Martin Stopford, 2007
@@ -7505,60 +7293,53 @@ THE MARITIME TRADING NETWORK 9.3
 **Table 9.4** The economies of the Atlantic trading countries 2005
 
 
-| Country | Size | Economic activity | Country | Size | Economic activity |
-| Area | Pop. | GDP | GNP/Cap | Area | Pop. | GDP | GNP/Cap |
-| m ha | million | US$bill. | US$ | m ha | million | US$bill. | US$ |
-
-*1. North America*
-
+| Country | Size |  | Economic activity |  | Country | Size |  | Economic activity |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Country | Aream ha | Pop. million | GDPUSSbill. | GNP/CapUS$ | Country | Aream ha | Pop. million | GDPUSSbill. | GNP/CapUS$ |
+| 1. North America |  |  |  |  |  |  |  |  |  |
 | Canada | 998 | 32 | 1,115 | 34,844 | Latvia | 7 | 2 | 16 | 6,870 |
 | USA | 937 | 297 | 12,455 | 42,007 | Estonia | 5 | 2 | 13 | 8,125 |
 | Total | 1935 | 329 | 13,570 | 41,309 | Lithuania | 7 | 3 | 26 | 7,500 |
-
-*2. Caribbean & Central America Poland 31 38 299 7,832*
-
+| 2. Caribbean & Central America |  |  |  |  | Poland | 31 | 38 | 299 | 7,832 |
 | Mexico | 196 | 103 | 768 | 7,456 | Total | 1786 | 157 | 1311 | 5,333 |
-| Guatemala | 11 | 13 | 32 | 2,462 | 6. Mediterranean Sea |
+| Guatemala | 11 | 13 | 32 | 2,462 | 6. Mediterranean Sea |  |  |  |  |
 | Honduras | 11 | 8 | 8 | 1,000 | Turkey | 78 | 73 | 363 | 4,973 |
 | Nicaragua | 13 | 5 | 5 | 1,000 | Greece | 13 | 11 | 214 | 19,455 |
 | Costa Rica | 5 | 4 | 19 | 4,750 | Israel | 2 | 7 | 123 | 17,571 |
 | Panama | 8 | 3 | 15 | 5,000 | Syria | 19 | 19 | 26 | 1,368 |
-| Dominican Rep. | 5 | 28 | 28 | 1,000 | Cyprus | 1 |
+| Dominican Rep. | 5 | 28 | 28 | 1,000 | Cyprus | 1 |  |  |  |
 | El Salvador | 2 | 74 | 17 | 230 | Jordan | 9 | 5 | 13 | 2,600 |
-| Trinidad & Tobago | 1 | 15 | 15 | 1,000 | 122 | 115 | 739 | 6,426 |
-| Jamaica | 1 | 3 | 10 | 3,333 | 7. Black Sea |
+| Trinidad & Tobago | 1 | 15 | 15 | 1,000 |  | 122 | 115 | 739 | 6,426 |
+| Jamaica | 1 | 3 | 10 | 3,333 | 7. Black Sea |  |  |  |  |
 | Puerto Rico | 1 | 4 | 8 | 2,000 | Georgia | 7 | 5 | 6 | 1,422 |
 | Total | 267 | 269 | 929 | 3,454 | Bulgaria | 11 | 8 | 27 | 3,455 |
-
-*3. E. Coast S. America Romania 24 22 99 4,565*
-
+| 3. E. Coast S. America |  |  |  |  | Romania | 24 | 22 | 99 | 4,565 |
 | Brazil | 851 | 186 | 794 | 4,269 | Total | 102 | 81 | 213 | 2,637 |
-| Venezuela | 91 | 27 | 139 | 5,148 | 8. North Africa |
+| Venezuela | 91 | 27 | 139 | 5,148 | 8. North Africa |  |  |  |  |
 | Colombia | 114 | 46 | 122 | 2,652 | Egypt | 100 | 74 | 89 | 1,203 |
 | Uruguay | 18 | 3 | 17 | 5,667 | Algeria | 238 | 33 | 102 | 3,091 |
 | Argentina | 277 | 39 | 5 | 128 | Tunisia | 16 | 10 | 29 | 2,900 |
-| Total | 1793 | 302 | 635 | 2,101 | 9 West Africa |
-| 4. Western Europe | Morocco | 45 | 30 | 52 | 1,733 |
+| Total | 1793 | 302 | 635 | 2,101 | 9 West Africa |  |  |  |  |
+| 4. Western Europe |  |  |  |  | Morocco | 45 | 30 | 52 | 1,733 |
 | Germany | 36 | 82 | 2,782 | 33,927 | Mauritania | 103 | 3 | 5 | 1,800 |
 | United Kingdom | 24 | 60 | 2,193 | 36,550 | Senegal | 20 | 12 | 8 | 667 |
 | France | 55 | 61 | 2,110 | 34,590 | Guinea | 25 | 9 | 3 | 333 |
 | Italy | 30 | 57 | 1,723 | 30,228 | Sierra Leone | 7 | 6 | 1 | 124 |
 | Spain | 50 | 43 | 1,124 | 26,140 | Liberia | 10 | 3 | 1 | 333 |
-| Netherlands | 4 | 16 | 595 | 37,188 | Cote d'Ivoire | 32 | 18 | 16 | 889 |
+| Netherlands | 4 | 16 | 595 | 37,188 | Cote d'lvoire | 32 | 18 | 16 | 889 |
 | Belgium | 3 | 10 | 365 | 36,500 | Ghana | 24 | 22 | 11 | 500 |
 | Norway | 32 | 5 | 284 | 56,800 | Nigeria | 92 | 132 | 99 | 750 |
 | Denmark | 4 | 5 | 254 | 50,800 | Cameroon | 48 | 16 | 17 | 1,063 |
 | Ireland | 7 | 4 | 196 | 49,000 | Gabon | 27 | 1 | 8 | 8,000 |
 | Portugal | 9 | 11 | 173 | 15,727 | Congo | 34 | 58 | 7 | 121 |
 | Total | 256 | 354 | 11,799 | 33,331 | Angola | 125 | 16 | 28 | 1,750 |
-| 5. The Baltic Sea | Namibia | 235 | 6 | 2 | 333 |
+| 5. The Baltic Sea |  |  |  |  | Namibia | 235 | 6 | 2 | 333 |
 | Sweden | 45 | 9 | 354 | 39,333 | Total | 825 | 332 | 258 | 778 |
 | Finland | 34 | 5 | 193 | 38,600 | 10 South Africa | 122 | 45 | 1,124 | 24,978 |
 | Russia | 1708 | 143 | 764 | 5,333 | Total Atlantic | 7,860 | 2,107 | 30,837 | 14,636 |
 
 *Source: Compiled from various sources, including the United Nations*
-
-| Regional groupings based on data availability. Not all trading countries are shown |
+Regional groupings based on data availability. Not all trading countries are shown
 
 
 combined Pacific and the Indian oceans. The North Atlantic is particularly well served, with the rivers Rhine and Elbe providing water transport deep into Europe and the St Lawrence and Mississippi deep into North America. The five associated seas, the Baltic, the Mediterranean, the Black Sea, the Gulf of Mexico and the Caribbean, also play an important part in trade, extending the coastline accessible to merchant ships.
@@ -7593,10 +7374,10 @@ THE MARITIME TRADING NETWORK 9.3
 **Table 9.5** The economies of the Pacific trading countries 2005
 
 
-| Size | Economic activity |
-| Country | Area | Pop. | Arable | GNP | GNP/Cap | Steel |
-| mill HA | million | m. ha | US$ bill. | US$ | mt |
-| Asia |
+| Country | Size |  |  | Economic activity |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Country | Area mill HA | Pop. million | Arable m. ha | GNP US$ bill. | GNP/Cap US$ | Steel mt |
+| Asia |  |  |  |  |  |  |
 | Japan | 38 | 128 | 5 | 4,506 | 35,203 | 113 |
 | China | 960 | 1,305 | 97 | 2,229 | 1,708 | 342 |
 | Korea, Rep. | 10 | 48 | 2 | 788 | 16,417 | 48 |
@@ -7607,24 +7388,25 @@ THE MARITIME TRADING NETWORK 9.3
 | Singapore | 0 | 4 | 0 | 117 | 29,250 | 1 |
 | Philippines | 30 | 83 | 8 | 98 | 1,181 | 1 |
 | Vietnam | 33 | 83 | 6 | 52 | N/A | 0 |
-| Korea, PDR | 12 | 22 | 2 | N/A | 7 |
-| Other | 198 | 5 | 0 |
+| Korea, PDR | 12 | 22 | 2 |  | N/A | 7 |
+| Other | 198 |  | 5 |  |  | 0 |
 | Total Asia | 1556 | 1990 | 172 | 8562 | 4,303 | 517 |
-| Oceania |
+| Oceania |  |  |  |  |  |  |
 | Australia | 771 | 20 | 47 | 701 | 35,050 | 6 |
 | New Zealand | 27 | 4 | 0 | 109 | 27,250 | 1 |
 | Papua New Guinea | 46 | 6 | 0 | 5 | 833 | 0 |
-| Other Oceania | 9 | 1 | 0 |
+| Other Oceania | 9 |  | 1 |  |  | 0 |
 | Total | 854 | 30 | 48 | 815 | 27,167 | 7 |
-| West Coast South America |
+| West Coast South America |  |  |  |  |  |  |
 | Ecuador | 28 | 13 | 3 | 36 | 2,769 | 0 |
 | Bolivia | 110 | 9 | 2 | 9 | 1,000 | 0 |
 | Peru | 129 | 28 | 4 | 78 | 2,786 | 0 |
 | Chile | 76 | 16 | 4 | 115 | 7,188 | 1 |
 | Total | 342 | 66 | 13 | 238 | 3,606 | 1 |
 | Total Pacific | 2752 | 2086 | 234 | 9,615 | 4,609 | 525 |
-| Compiled from various sources |
-| Regional groupings based on data availability. Not all trading countries are shown |
+
+Compiled from various sources
+Regional groupings based on data availability. Not all trading countries are shown
 
 <!-- Page 387 -->
 The Indian Ocean maritime area
@@ -7649,43 +7431,41 @@ THE MARITIME TRADING NETWORK 9.3
 **Table 9.6** The economies of the Indian Ocean trading countries, 2005
 
 
-| Size | Economic activity |
-| Country | Area | Pop. | Arable | GNP | GNP/Cap | Steel |
-| mill HA | million | m. ha | US$ bill. | US$ | mt |
-| S. Asia |
+| Country | Size |  |  | Economic activity |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Country | Area mill HA | Pop. million | Arable m. ha | GNP US$ bill. | GNP/Cap US$ | Steel mt |
+| S. Asia |  |  |  |  |  |  |
 | India | 329 | 1,095 | 170 | 785 | 717 | 38 |
 | Pakistan | 80 | 156 | 21 | 111 | 712 | 1 |
-| Sri Lanka | 7 | 20 | 2 | 23 | 1,150 | -- |
+| Sri Lanka | 7 | 20 | 2 | 23 | 1,150 | — |
 | Bangladesh | 14 | 142 | 9 | 60 | 423 | 0 |
-| Bhutan | 5 | 1 | 0 | 1 | 1,000 | -- |
-| Other | 2 | 0 | -- |
+| Bhutan | 5 | 1 | 0 | 1 | 1,000 | — |
+| Other | 2 |  | 0 |  |  | — |
 | Total | 515 | 1,414 | 213 | 980 | 693 | 14 |
-| Middle East |
+| Middle East |  |  |  |  |  |  |
 | Saudi Arabia | 215 | 25 | 2 | 310 | 12,400 | 4 |
 | Iran | 165 | 68 | 15 | 196 | 2,882 | 9 |
-| Kuwait | 2 | 3 | 0 | 75 | 25,000 | -- |
-| Yemen, Rep. | 53 | 21 | 2 | 14 | 667 | -- |
+| Kuwait | 2 | 3 | 0 | 75 | 25,000 | — |
+| Yemen, Rep. | 53 | 21 | 2 | 14 | 667 | — |
 | Qatar | 1 | 0 | 0 | 7 | 18,450 | 1 |
-| Iraq | 44 | 5 | -- |
-| Oman | 21 | 3 | 0 | 0 | -- |
-| UAE | 8 | 5 | 0 | 0 | -- |
-| Other M.East | 0 | 0 | -- |
+| Iraq | 44 |  | 5 |  |  | — |
+| Oman | 21 | 3 | 0 |  | 0 | — |
+| UAE | 8 | 5 | 0 |  | 0 | — |
+| Other M.East | 0 |  | 0 |  |  | — |
 | Total | 510 | 129 | 25 | 624 | 4,825 | 14 |
-| East Africa |
-| Sudan | 251 | 36 | 13 | 28 | n/a | -- |
-| Mauritius | 0 | 1 | 1 | 6 | 6,000 | -- |
-| Somalia | 64 | 1 | 1 | 8 | 8,000 | -- |
-| Kenya | 58 | 34 | 2 | 18 | 529 | -- |
-| Madagascar | 59 | 19 | 3 | 5 | 263 | -- |
-| Djibouti | 2 | 1 | N/A | 1 | 1000 | -- |
-| Mozambique | 80 | 20 | 3 | 7 | 350 | -- |
-| Total | 514 | 112 | 23 | 73 | 652 | -- |
+| East Africa |  |  |  |  |  |  |
+| Sudan | 251 | 36 | 13 | 28 | n/a | — |
+| Mauritius | 0 | 1 | 1 | 6 | 6,000 | — |
+| Somalia | 64 | 1 | 1 | 8 | 8,000 | — |
+| Kenya | 58 | 34 | 2 | 18 | 529 | — |
+| Madagascar | 59 | 19 | 3 | 5 | 263 | — |
+| Djibouti | 2 | 1 | N/A | 1 | 1000 | — |
+| Mozambique | 80 | 20 | 3 | 7 | 350 | — |
+| Total | 514 | 112 | 23 | 73 | 652 | — |
 | Total Indian Ocean | 4359 | 1,751 | 322 | 2,730 | 1,559 | 258 |
-| Pacific & Indian Ocean Total | 7,111 | 3,837 | 556 | 12,345 |
+| Pacific & Indian Ocean Total | 7,111 | 3,837 | 556 | 12,345 |  |  |
 
-*Source: Compiled from various sources*
-
-| Regional groupings based on data availability. Not all trading countries are shown |
+*Source: Compiled from various sources Regional groupings based on data availability. Not all trading countries are shown*
 
 <!-- Page 389 -->
 12,000 miles from the USA and 6,000 miles from Asia, flanked by Egypt and Sudan to the west and Saudi Arabia to the east. Turning right past the entrance to the Gulf we come to Pakistan, India, Bangladesh, Myanmar (Burma) and various smaller countries. These densely populated countries have an area of 0.5 billion hectares and a population of 1.1 billion. They produce 254 mt of cereals, much the same as the USA as well as 229 mt of coal and 57 mt of iron ore. However, most of these commodities never enter trade, and India's GDP of $785 billion in 2005 was relatively low, about the same as South Korea's $788 billion. About half of the import volume is crude oil and oil products, since domestic reserves are very limited. There are sizable exports of iron ore from India.
@@ -7702,17 +7482,18 @@ miles long and transit takes 13-15 hours. Tolls are charged in US dollars based 
 **Table 9.7** Distances saved by using Suez Canal (miles)
 
 
-| By Cape | By Canal | Saving |
-| Rotterdam to: | % |
+|  | By Cape | By Canal | Saving |
+| --- | --- | --- | --- |
+| Rotterdam to: |  |  | % |
 | Mumbai | 10,800 | 6,300 | 42% |
 | Kuwait | 11,300 | 6,500 | 42% |
 | Melbourne | 12,200 | 11,000 | 10% |
 | Calcutta | 11,700 | 7,900 | 32% |
 | Singapore | 11,800 | 8,300 | 30% |
-| Marseilles to: |
+| Marseilles to: |  |  |  |
 | Mumbai | 10,400 | 4,600 | 56% |
 | Melbourne | 11,900 | 9,400 | 21% |
-| New York to: |
+| New York to: |  |  |  |
 | Mumbai | 11,800 | 8,200 | 31% |
 | Singapore | 12,500 | 10,200 | 18% |
 | Ras Tanura | 11,765 | 9,543 | 19% |
@@ -8006,12 +7787,13 @@ BUILDING-BLOCKS OF SEA TRADE 10.1
 
 
 | Million tonnes | 1986 | 2005 | % pa |
+| --- | --- | --- | --- |
 | Iron ore | 311 | 631 | 3.8% |
 | Coking coal | 141 | 191 | 1.6% |
 | Steam coal | 134 | 491 | 7.1% |
 | Grain | 187 | 273 | 2.0% |
 | Bauxite & alumina | 42 | 69 | 2.7% |
-| Phosphate rock | 45 | 30 | − | 2.1% |
+| Phosphate rock | 45 | 30 | -2.1% |
 | Minor ores | 555 | 781 | 1.8% |
 | Crude oil | 1030 | 1848 | 3.1% |
 | Oil products | 401 | 672 | 2.7% |
@@ -8020,8 +7802,9 @@ BUILDING-BLOCKS OF SEA TRADE 10.1
 | Containerized cargo* | 173 | 1015 | 9.8% |
 | Other cargo | 555 | 995 | 3.1% |
 | World sea trade | 3634 | 7163 | 3.6% |
-| World GDP (1960 | = | 100) | 279 | 543 | 3.6% |
-| *estimate |
+| World GDP (1960=100) | 279 | 543 | 3.6% |
+
+*estimate
 
 *Source: Clarkson Research Services Ltd*
 
@@ -8064,26 +7847,26 @@ THE COUNTRIES THAT TRADE BY SEA 10.2
 
 
 | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (9) | (10) | (11) | (12) |
-| 1 | 2 | Sea trade 2004 | Country size, 2004 | Trade intensity |
-| Exports | Imports | Area | Pop. | GDP | Pop. | Trade intensity (tons) |
-| Country | mt | mt | Total | m HA | m | US$ bill | Per HA | per capita | per $mn GDP |
-| Germany | 100 | 164 | 264 | 36 | 83 | 2,714 | 2.3 | 3.2 | 97 |
-| Belgium | 446 | 452 | 898 | 4 | 10 | 350 | 2.8 | 89.8 | 2,566 |
-| Netherlands | 102 | 329 | 431 | 3 | 16 | 577 | 5.2 | 26.9 | 747 |
-| France | 97 | 224 | 321 | 55 | 60 | 2,003 | 1.1 | 5.3 | 160 |
-| 1 | Total NW Europe | a | 745 | 1,168 | 1,913 | 97 | 169 | 5,644 | 1.7 | 11.3 | 339 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | Sea trade 2004 | Sea trade 2004 | Sea trade 2004 | Country size, 2004 |  |  |  | Trade intensity |  |
+|  | Country | Exportsmt | Importsmt | Total | Aream HA | Pop.m | GDPUSS$ bill | Pop.Per HA | Trade intensity (tons)per capita | per $mn GDP |
+|  | Germany | 100 | 164 | 264 | 36 | 83 | 2,714 | 2.3 | 3.2 | 97 |
+|  | Belgium | 446 | 452 | 898 | 4 | 10 | 350 | 2.8 | 89.8 | 2,566 |
+|  | Netherlands | 102 | 329 | 431 | 3 | 16 | 577 | 5.2 | 26.9 | 747 |
+|  | France | 97 | 224 | 321 | 55 | 60 | 2,003 | 1.1 | 5.3 | 160 |
+| 1 | Total NW Europea | 745 | 1,168 | 1,913 | 97 | 169 | 5,644 | 1.7 | 11.3 | 339 |
 | 2 | USA | 350 | 956 | 1,306 | 937 | 294 | 11,668 | 0.3 | 4.4 | 112 |
 | 3 | Middle East | 1,084 | 148 | 1,231 | 730 | 294 | 600 | 0.4 | 4.2 | 4,188 |
 | 4 | Japan | 178 | 829 | 1,008 | 38 | 128 | 4,623 | 3.4 | 7.9 | 218 |
 | 5 | China | 352 | 646 | 998 | 960 | 1297 | 1,649 | 1.4 | 0.8 | 605 |
 | 6 | S. Korea | 184 | 486 | 669 | 10 | 48 | 680 | 4.8 | 13.9 | 985 |
 | 7 | Australia | 587 | 67 | 653 | 771 | 20 | 631 | 0.0 | 32.7 | 1,035 |
-| 8 | E. Coast S. America | b | 463 | 128 | 591 | 1,390 | 45 | 97 | 0.0 | 13.1 | 6,063 |
+| 8 | E. Coast S. Americab | 463 | 128 | 591 | 1,390 | 45 | 97 | 0.0 | 13.1 | 6,063 |
 | 9 | Singapore | 197 | 197 | 393 | 0 | 4 | 107 | 58.8 | 98.3 | 3,680 |
 | 10 | Spain | 108 | 258 | 366 | 50 | 41 | 991 | 0.8 | 8.9 | 369 |
 | 11 | Indonesia | 246 | 82 | 328 | 190 | 218 | 258 | 1.1 | 1.5 | 1,275 |
-| 12 | Central Asia | c | 190 | 50 | 240 | 1,708 | 143 | 582 | 0.1 | 1.7 | 412 |
-| 13 | W. Coast S. America | d | 136 | 85 | 221 | 364 | 102 | 290 | 0.3 | 2.2 | 762 |
+| 12 | Central Asiac | 190 | 50 | 240 | 1,708 | 143 | 582 | 0.1 | 1.7 | 412 |
+| 13 | W. Coast S. Americad | 136 | 85 | 221 | 364 | 102 | 290 | 0.3 | 2.2 | 762 |
 | 14 | Hong Kong | 86 | 135 | 221 | 0 | 7 | 163 | 62.5 | 32.1 | 1,355 |
 | 15 | South Africa | 163 | 40 | 203 | 122 | 46 | 213 | 0.4 | 4.4 | 954 |
 | 16 | Panama | 114 | 80 | 194 | 8 | 3 | 14 | 0.4 | 64.6 | 14,039 |
@@ -8111,9 +7894,9 @@ THE COUNTRIES THAT TRADE BY SEA 10.2
 | 38 | Slovenia | 3 | 9 | 12 | 2 | 2 | 32 | 1.0 | 6.0 | 375 |
 | 39 | Cyprus | 2 | 5 | 7 | 1 | 1 | 15 | 1.1 | 6.7 | 438 |
 | 40 | Brunei | 0 | 2 | 2 | 1 | 0 | 5 | 0.4 | 5.4 | 386 |
-| Total 1-40 | 6,018 | 6,037 | 12,054 | 8,180 | 3,583 | 30,722 | 3.4 | 392 |
-| Other countries | 741 | 750 | 1,491 |
-| World | 6,758 | 6,787 | 13,545 |
+|  | Total 1-40 | 6,018 | 6,037 | 12,054 | 8,180 | 3,583 | 30,722 |  | 3.4 | 392 |
+|  | Other countries | 741 | 750 | 1,491 |  |  |  |  |  |  |
+|  | World | 6,758 | 6,787 | 13,545 |  |  |  |  |  |  |
 
 *Source: World Bank (GDP), UNCTAD Monthly Bulletin of Statistics, UNCTAD (2005)*
 
@@ -8195,17 +7978,21 @@ WHY COUNTRIES TRADE 10.3
 <!-- Page 419 -->
 though both have some influence. The countries that trade more than others generally have bigger economies (GDP), but trade volumes are also a matter of supply and demand. The USA, a major oil producer, imports oil because demand has outstripped supply. Similarly, China suddenly imported 60 mt of steel products in 2003 because local demand surged ahead of local steel production. That is fine for raw materials, and the bulk shipping industry, but what about manufactures? Why is the Japanese export trade in manufactures so high? Why does Europe import so many Japanese motor cars when it has a car industry of its own? These issues become more important when we study the container trade.
 
-
 #### The three fundamental reasons for trade
-
 
 The starting point is that trade takes place because someone makes a profit from it. There are a few minor exceptions to this rule, such as food aid, but it applies to most trade and our quest to explain trade in theoretical terms starts here. That leads on to the question of what makes trade profitable, and the answer is generally a difference in costs. If it is possible to sell a foreign product for less than the price of locally produced goods, after deducting freight and duties, and make a profit, someone is going to do it. It does not need a model to figure that out, but it is useful to state the model anyway:
 
-TR = f ( p , p , T F ) (10.1) ij i j i, ij
+\[
+TR_{ij} = f(p_i, p_j, T_i, F_{ij})
+\]
 
-This model stipulates that the trade ( TR ) between regions i and j depends on the price in country i ( p ), the price in country j ( p ), any tariffs between the two areas ( T ) and i j ij the cost of freight ( F ). So all we have to do is explain why products produced overseas ij cost less than their local counterparts. Of course, there are an infinite number of specific circumstances, but as far as explaining global sea trade of the type we reviewed in Tables 10.1 and 10.2 is concerned, three stand out: differences in manufacturing costs, differences in local natural resources, and temporary shortages or surpluses which disrupt the normal pricing process. We will consider each of these in the following sections, but a brief preview puts them into perspective:
+(10.1)
 
-1. Differences in manufacturing costs. If one country can manufacture a product cheaper than another, for whatever reason, and the price difference is more than the transport costs and tariffs, trade is profitable. So we need to explain why certain goods cost more to manufacture in one area than another, an issue which has preoccupied trade economists more than any other. 2. Differences in natural resources. Natural resources are not spread evenly around the world, so another set of trade flows developed moving them from where they are located to where they are needed. Unlike manufacturing plants which can be relocated, commodity trades are dictated by the distribution of resources. But the cost of recovering natural resources is important, too. If a country has no oil and there is a demand for motor cars, it has to import. But where there are local supplies, trade is determined by relative delivered costs of domestic and imported oil.
+This model stipulates that the trade (TR) between regions i and j depends on the price in country i (p_i), the price in country j (p_j), any tariffs between the two areas (T_{ij}) and the cost of freight (F_{ij}). So all we have to do is explain why products produced overseas cost less than their local counterparts. Of course, there are an infinite number of specific circumstances, but as far as explaining global sea trade of the type we reviewed in Tables 10.1 and 10.2 is concerned, three stand out: differences in manufacturing costs, differences in local natural resources, and temporary shortages or surpluses which disrupt the normal pricing process. We will consider each of these in the following sections, but a brief preview puts them into perspective:
+
+1. Differences in manufacturing costs. If one country can manufacture a product cheaper than another, for whatever reason, and the price difference is more than the transport costs and tariffs, trade is profitable. So we need to explain why certain goods cost more to manufacture in one area than another, an issue which has preoccupied trade economists more than any other.
+
+2. Differences in natural resources. Natural resources are not spread evenly around the world, so another set of trade flows developed moving them from where they are located to where they are needed. Unlike manufacturing plants which can be relocated, commodity trades are dictated by the distribution of resources. But the cost of recovering natural resources is important, too. If a country has no oil and there is a demand for motor cars, it has to import. But where there are local supplies, trade is determined by relative delivered costs of domestic and imported oil.
 
 <!-- Page 420 -->
 3. Temporary imbalances. A third category of trade is a subset of item 2 which is important for shipping. Temporary local imbalances create a price differential between local and overseas products. This type of trade often happens during business cycles when, for example, shortages of chemicals, petroleum products or steel products result in imports of commodities, even if they can normally be manufactured competitively at home. However, cyclical patterns of trade also occur over much longer periods as economies develop, which we will refer to as the 'trade development cycle'.
@@ -8253,39 +8040,39 @@ DIFFERENCES IN PRODUCTION COSTS 10.4
 
 *1. Absolute advantage example*
 
-| Big | Bouncy |
+| **1. Absolute advantage example** | | |
+| --- | --- | --- |
+|  | Big | Bouncy |
 | Available labourers | 60 | 60 |
-| Labour required per unit of output |
+| **Labour required per unit of output** | | |
 | Food (tons) | 4 | 3 |
 | Cloth (bales) | 2 | 6 |
-| Production possibilities |
+| **Production possibilities** | | |
 | Food production (tons) | 15 | 20 |
 | Cloth production (bales) | 30 | 10 |
-| Production without trade (full output) |
+| **Production without trade (full output)** | | |
 | Food production (tons) | 12 | 12 |
 | Cloth production (bales) | 6 | 6 |
 | Total (units) | 18 | 18 |
-| Production with trade |
+| **Production with trade** | | |
 | Food production (tons) | 4 | 20 |
 | Cloth production (bales) | 22 | 0 |
 | Total (units) | 26 | 20 |
 | Memo: exports | 11 | 8 |
-
-*2. Comparative advantage example*
-
-| Big | Bouncy |
-| Labour required per unit of output |
+| **2. Comparative advantage example** | | |
+|  | Big | Bouncy |
+| **Labour required per unit of output** | | |
 | Food | 4 | 3 |
 | Cloth | 2 | 1 |
-| Production without trade (full output) |
+| **Production without trade (full output)** | | |
 | Food production (tons) | 12 | 12 |
 | Cloth production (bales) | 6 | 24 |
 | Total (units) | 18 | 36 |
-| Production with trade |
+| **Production with trade** | | |
 | Food production (tons) | 15 | 9 |
 | Cloth production (bales) | 0 | 33 |
 | Total (units) | 15 | 42 |
-| Memo: extra output | 3 bales of cloth |
+| Memo: extra output | 3 bales of cloth |  |
 
 <!-- Page 423 -->
 without trade, so trade has increased output by 3 bales of cloth. The question is how much of this does Big get?
@@ -8330,100 +8117,75 @@ Island B has the same population but open-cast coalmines and better land. If tra
 <!-- Page 426 -->
 trade in Figure 10.2. The countries on the left of the dotted line are like island A and the countries on the right of it are like island B.
 
+#### The commodity trade supply–demand model
 
-#### The commodity trade supply-demand model
-
-
-This is a good point at which to discuss the commodity trade model. Raw materials account for a large part of seaborne cargo, and one of the main tasks of the bulk shipping industry is to anticipate future trade, so that efficient transport can be planned. For this reason alone shipping analysts often have to analyse trends in the commodity trades. The supply-demand model is the most commonly used technique for carrying out this analysis. For example, Japan has no local supplies of iron ore, so it must import what it needs from mines in Australia or Brazil. Iron ore is traded in an international market and supply and demand for the commodity are controlled by price movements. Thus the model consists of a demand function for the commodity, showing the relationship between demand and price, and a supply function, showing how supply responds to price changes.
+This is a good point at which to discuss the commodity trade model. Raw materials account for a large part of seaborne cargo, and one of the main tasks of the bulk shipping industry is to anticipate future trade, so that efficient transport can be planned. For this reason alone shipping analysts often have to analyse trends in the commodity trades. The supply–demand model is the most commonly used technique for carrying out this analysis. For example, Japan has no local supplies of iron ore, so it must import what it needs from mines in Australia or Brazil. Iron ore is traded in an international market and supply and demand for the commodity are controlled by price movements. Thus the model consists of a demand function for the commodity, showing the relationship between demand and price, and a supply function, showing how supply responds to price changes.
 
 The demand function describes the relationship between per capita income, commodity prices, and the consumption of the product and is generally referred to as the consumer demand function. It is expressed as
 
-q = ( p , p , y ) (10.2) it 1 it 2 it it
+\[
+q _ {i t} = \left(p _ {1 i t}, p _ {2 i t}, y _ {i t}\right)
+\]
 
-where q is per capita consumption of the commodity, p is its price in domestic 1 currency, p is the price of other commodities and y is per capita income for the i th 2 9 country in year t . This function suggests that the demand for a commodity responds to changes in relative prices and income. To explain how demand responds to a change in price we need to introduce two economic concepts, the income elasticity and the price elasticity.
+(10.2)
+
+where *q* is per capita consumption of the commodity,  \( p_{1} \)  is its price in domestic currency,  \( p_{2} \)  is the price of other commodities and *y* is per capita income for the *i*th country in year *t*. \( ^{9} \)  This function suggests that the demand for a commodity responds to changes in relative prices and income. To explain how demand responds to a change in price we need to introduce two economic concepts, the income elasticity and the price elasticity.
 
 The income elasticity shows how consumers of the commodity adjust their consumption in response to a change in income. It is defined as the proportionate change in the purchase of the commodity such as energy for a change in income, with prices constant:
 
+\[
+e _ {i} = \frac {(\log q)}{\mathrm{d} (\log y)}
+\]
+
 (10.3)
 
-In other words, the income elasticity is the percentage change in demand divided by the percentage change in income. The nature of this relationship varies from one commodity to another, with important consequences for trade. We can use the income elasticity to classify commodities into three different groups. Inferior goods have a negative income elasticity (i.e. less than 0), so when income rises, demand falls. For example, at higher incomes people typically consume less of basic foods such as bread and potatoes, switching their demand to other foodstuffs such as meat. Necessities are goods whose demand increases as income rises, but more slowly than income (i.e. the income elasticity is in the range 0-1). Finally, luxuries are goods for which demand
-
-q e
-
-(log ) = i y
-
-d (log )
-
-TRADE DUE TO DIFFERENCES IN NATURAL RESOURCES 10.5
+In other words, the income elasticity is the percentage change in demand divided by the percentage change in income. The nature of this relationship varies from one commodity to another, with important consequences for trade. We can use the income elasticity to classify commodities into three different groups. *Inferior goods* have a negative income elasticity (i.e. less than 0), so when income rises, demand falls. For example, at higher incomes people typically consume less of basic foods such as bread and potatoes, switching their demand to other foodstuffs such as meat. *Necessities* are goods whose demand increases as income rises, but more slowly than income (i.e. the income elasticity is in the range 0–1). Finally, *luxuries* are goods for which demand
 
 <!-- Page 427 -->
 grows faster as income rises (i.e. the income elasticity is greater than 1). These differences are important because they warn us to expect demand relationships to change when income changes. For example, the income elasticity of motor cars could be very high at low income levels because buying a motor car is a priority. When most people have a car the demand continues to rise with income as a few buy second cars, but the rate of increase slows and car demand eventually stagnates, or switches to higher value-added vehicles. The same is true of housing. For anyone modelling the demand for steel, much of which is used in construction and motor vehicle production, it is vital to model these relationships in a way which allows for these changing relationships.
 
 The price elasticity shows how demand responds to a change in prices. It is derived from the demand function and represents the percentage change of consumption for a 1% change in prices. In mathematical terms the price elasticity can be expressed as follows:
 
+\[
+e _ {p} = \frac {\mathrm{d} (\log p)}{\mathrm{d} (\log q)} = \frac {p . \mathrm{d} q}{q . \mathrm{d} p}
+\]
+
 (10.4)
 
-where e is the price elasticity, p is the price of the commodity and q the quantity p consumed. It is possible to sub-divide the price elasticity into two components, the substitution effect and the income effect.
+where ep is the price elasticity, p is the price of the commodity and q the quantity consumed. It is possible to sub-divide the price elasticity into two components, the substitution effect and the income effect.
+
+\[
+\frac {\mathrm{d} q}{\mathrm{d} p} = \left. \frac {\mathrm{d} p}{\mathrm{d} q} \right| _ {u} - \frac {\mathrm{d} p}{\mathrm{d} m} q
+\]
 
 (10.5)
 
-where m is income. Equation (10.5) is known as the Slutsky equation. The first term on the right-hand side represents the substitution effect and the second the income effect . The substitution effect measures the extent to which a change in the price of a commodity results in the substitution (negative or positive) of other commodities in the total budget. The income effect measures the change in the level of consumption due to the change in real disposable income as a result of the price change.
+where m is income. Equation (10.5) is known as the Slutsky equation. The first term on the right-hand side represents the substitution effect and the second the income effect. The substitution effect measures the extent to which a change in the price of a commodity results in the substitution (negative or positive) of other commodities in the total budget. The income effect measures the change in the level of consumption due to the change in real disposable income as a result of the price change.
 
 This relationship is helpful to analysts in explaining and modelling sudden commodity price changes because it shows the different factors involved. For example, it was useful in explaining the crude oil trade during the two oil crises in 1973 and 1979 (see Figure 11.8, which shows the relationship between oil prices and seaborne crude oil shipments). When the price of oil increased sharply in 1973, the income effect was dominant because oil was a necessity and there was not very much substitution. Consumers spent more of their income on oil and had less to spend on other goods, triggering a recession in the world economy. But by the time the oil price went up again in 1979, the substitution effect was the dominant response because by that time it was technically possible to substitute coal and gas for oil. As a result consumers, particularly power stations, switched from high-priced oil to cheaper coal and gas and the crude oil trade fell sharply (see Figure 4.5 which shows how the oil trade declined), providing another different example of the two components of the Slutsky equation at work.
-
-d d
-
-d d
-
-q d p d
-
-p q
-
-p q m
-
-= − u
-
-p e q
-
-d p q = = p q p
-
-d
-
-(log )
-
-(log )
-
-. .
-
-d d
 
 <!-- Page 428 -->
 #### Derived demand for a commodity
 
+The next step in the commodity trade model is to reproduce the relationship between the demand for raw materials in an industry, and demand for the products of that industry which are sold to the final consumer. Industrial users often have a choice in sourcing their raw materials, raising the possibility that manufacturers will substitute one raw material for another. Heavy industries such as steel production and motor manufacturing are major users of raw materials, as is the transport industry (e.g. ships’ bunkers). These industries will be concerned with minimizing their costs, and their demand for raw materials is derived from the underlying demand for the commodities the industry produces. The starting point is the cost function. For a given output level the cost function is
 
-The next step in the commodity trade model is to reproduce the relationship between the demand for raw materials in an industry, and demand for the products of that industry which are sold to the final consumer. Industrial users often have a choice in sourcing their raw materials, raising the possibility that manufacturers will substitute one raw material for another. Heavy industries such as steel production and motor manufacturing are major users of raw materials, as is the transport industry (e.g. ships' bunkers). These industries will be concerned with minimizing their costs, and their demand for raw materials is derived from the underlying demand for the commodities the industry produces. The starting point is the cost function. For a given output level the cost function is
+\[
+C = P _ {1} X _ {1} + P _ {2} X _ {2} + b
+\]
 
-C = P X + P X + b (10.6) 1 1 2 2
+(10.6)
 
-where C is the cost of production, P is the price of each commodity, X represents the quantities of factor inputs required at that price level and b is capital cost, which is assumed to be fixed. Faced with a change in the price of raw material ( P ) and a fixed 1 capital stock, the key issue for the industrialist will be whether it is cheaper to use less of one input ( X ) and more of some other input ( X ). The answer to this question is 1 2 provided by the rate of technical substitution ( RTS ) which represents the extent to which commodity inputs can be substituted for each other with the available industry technology. It can be defined as
+where C is the cost of production, P is the price of each commodity, X represents the quantities of factor inputs required at that price level and b is capital cost, which is assumed to be fixed. Faced with a change in the price of raw material \( (P_{1}) \) and a fixed capital stock, the key issue for the industrialist will be whether it is cheaper to use less of one input \( (X_{1}) \) and more of some other input \( (X_{2}) \). The answer to this question is provided by the rate of technical substitution (RTS) which represents the extent to which commodity inputs can be substituted for each other with the available industry technology. It can be defined as
+
+\[
+R T S = \frac {\mathrm{d} X _ {2}}{\mathrm{d} X _ {1}}
+\]
 
 (10.7)
 
-We have already mentioned the example of power stations which can use oil, coal or gas. In 1973 when the oil price increased sharply, most power stations used oil and were not equipped to burn other fuels, so the substitution effect ( RTS ) was small. By 1979, when the price of oil rose to over $30 per barrel, most power stations had invested to allow other fuels such as coal or gas to be burned. As a result the substitution effect was very large and oil consumption fell sharply. But that substitution is a one-off change which could not be repeated when the oil price started to rise again twenty years later. Thus RTS shows how the manufacturers respond to a change in the relative price of their raw materials. The relationship expressed in equation (10.7) is subject to the influence of technical development and change, which may significantly influence the amount of primary energy required to achieve a given effect - for example as a result of an improvement in the fuel conversion rate in marine diesel engines.
+We have already mentioned the example of power stations which can use oil, coal or gas. In 1973 when the oil price increased sharply, most power stations used oil and were not equipped to burn other fuels, so the substitution effect (RTS) was small. By 1979, when the price of oil rose to over $30 per barrel, most power stations had invested to allow other fuels such as coal or gas to be burned. As a result the substitution effect was very large and oil consumption fell sharply. But that substitution is a one-off change which could not be repeated when the oil price started to rise again twenty years later. Thus RTS shows how the manufacturers respond to a change in the relative price of their raw materials. The relationship expressed in equation (10.7) is subject to the influence of technical development and change, which may significantly influence the amount of primary energy required to achieve a given effect – for example as a result of an improvement in the fuel conversion rate in marine diesel engines.
 
 Picking up the example of forecasting Japanese iron ore imports, there is the impact of stock building during periods of economic change to consider. For example, as the Japanese economy matured in the 1980s, the growth rate of steel demand slowed. This caught out forecasters who, in the early 1970s, had assumed that steel demand in Europe and Japan would continue to grow at the same rate in the 1970s as it had in the 1960s. To meet this demand steel-makers planned to expand output from 110 mt to 180 mt.
-
-X RTS
-
-d = X
-
-d
-
-2
-
-1
-
-TRADE DUE TO DIFFERENCES IN NATURAL RESOURCES 10.5
 
 <!-- Page 429 -->
 But as the economy matured steel demand stopped growing and Japanese steel production never exceeded 120 mt. The same issue arose with the Chinese steel industry when it started to grow very rapidly in 2003-8. Analysts had to estimate how long the very rapid growth of steel production would continue. The problem was that the underlying demand was growing rapidly because the economy was building infrastructure, housing and durable goods stocks such as motor cars, and once the stocks were built up demand growth would slow. In both cases a carefully structured forecasting model would show how much of the demand growth was driven by stock building of steel-intensive products such as buildings and motor vehicles and how that trend might change as the economy matured. What it cannot usually do is predict how rationally people will approach the process of building the economy - whether it will be a sequence of boom and bust cycles or a carefully planned evolution. That is a matter of judgement.
@@ -8493,7 +8255,8 @@ COMMODITY TRADE CYCLES 10.6
 **Table 10.4** Pattern of manufacturing production per head, 1955 prices and percentages
 
 
-| $100 | $250 | $500 | $750 | $1,000 |
+|  | $100 | $250 | $500 | $750 | $1,000 |
+| --- | --- | --- | --- | --- | --- |
 | Food and beverages | 40 | 33 | 26 | 21 | 18 |
 | Metals | 4 | 5 | 7 | 7 | 8 |
 | Metal products | 4 | 10 | 18 | 24 | 29 |
@@ -8601,43 +8364,53 @@ ROLE OF SEA TRANSPORT IN TRADE 10.7
 **Table 10.5** Economies of scale model for different bulk carrier sizes and distances
 
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-| (a) Basic assumptions | Ship costs |
-| General | Ship size | Timecharter hire (1) | Bunker costs (2) | Total |
-| assumptions | dwt | $/day (1) | $ mill pa | Tons/day | $ mill pa | $/dwt/pa |
+*(a) Basic assumptions*
+
+| General assumptions (column 1) | Value (column 2) |
+| --- | --- |
 | Port days per trip | 6 |
-| Days on hire pa | 350 | 170,000 | 24,374 | 8.53 | 39 | 2.73 | 66 |
-| Speed (knots) | 14 | 72,000 | 16,360 | 5.73 | 30.5 | 2.135 | 109 |
-| Bunker price $/ton (1) | 200 | 46,000 | 13,657 | 4.78 | 24.3 | 1.701 | 141 |
-| Backhaul % | 0 | 30,000 | 11,494 | 4.02 | 22 | 1.54 | 185 |
-| (b) Transport performance calculation |
-| Round trip distance |
+| Days on hire pa | 350 |
+| Speed (knots) | 14 |
+| Bunker price $/ton (1) | 200 |
+| Backhaul % | 0 |
+
+| Ship size dwt (2) | Timecharter hire (1) $/day (3) | Timecharter hire $ mill pa (4) | Bunker costs (2) tons/day (5) | Bunker costs $ mill pa (6) | Total ship costs $/dwt/pa (7) |
+| --- | --- | --- | --- | --- | --- |
+| 170,000 | 24,374 | 8.53 | 39 | 2.73 | 66 |
+| 72,000 | 16,360 | 5.73 | 30.5 | 2.135 | 109 |
+| 46,000 | 13,657 | 4.78 | 24.3 | 1.701 | 141 |
+| 30,000 | 11,494 | 4.02 | 22 | 1.54 | 185 |
+
+*(b) Transport performance calculation (columns: round trip distance, miles)*
+
 | Ship size (dwt) | 4,000 | 5,000 | 6,000 | 7,000 | 8,000 | 9,000 | 10,000 | 11,000 |
-| A | Trips per year (number) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **A Trips per year (number)** | | | | | | | | |
 | All sizes | 30 | 24 | 20 | 17 | 15 | 13 | 12 | 11 |
-| B | Days at Sea per year (no Backhaul) |
+| **B Days at Sea per year (no Backhaul)** | | | | | | | | |
 | All sizes | 170 | 206 | 230 | 247 | 260 | 270 | 278 | 285 |
-| C | Tons of cargo transported per year (million tonnes) |
+| **C Tons of cargo transported per year (million tonnes)** | | | | | | | | |
 | 170,000 | 5.09 | 4.07 | 3.39 | 2.91 | 2.54 | 2.26 | 2.03 | 1.85 |
 | 72,000 | 2.15 | 1.72 | 1.44 | 1.23 | 1.08 | 0.96 | 0.86 | 0.78 |
 | 46,000 | 1.38 | 1.10 | 0.92 | 0.79 | 0.69 | 0.61 | 0.55 | 0.50 |
 | 30,000 | 0.90 | 0.72 | 0.60 | 0.51 | 0.45 | 0.40 | 0.36 | 0.33 |
-| D | Total cost per tonne of cargo transported ($ per tonne) |
+| **D Total cost per tonne of cargo transported ($ per tonne)** | | | | | | | | |
 | 170,000 | 2.21 | 2.77 | 3.32 | 3.87 | 4.43 | 4.98 | 5.53 | 6.09 |
 | 72,000 | 3.65 | 4.56 | 5.47 | 6.38 | 7.30 | 8.21 | 9.12 | 10.03 |
 | 46,000 | 4.71 | 5.89 | 7.06 | 8.24 | 9.42 | 10.59 | 11.77 | 12.95 |
 | 30,000 | 6.20 | 7.75 | 9.29 | 10.84 | 12.39 | 13.94 | 15.49 | 17.04 |
-| E | Cost per tonne ratios |
+| **E Cost per tonne ratios** | | | | | | | | |
 | 170,000 | 35.7% | 35.7% | 35.7% | 35.7% | 35.7% | 35.7% | 35.7% | 35.7% |
 | 72,000 | 58.9% | 58.9% | 58.9% | 58.9% | 58.9% | 58.9% | 58.9% | 58.9% |
 | 46,000 | 76.0% | 76.0% | 76.0% | 76.0% | 76.0% | 76.0% | 76.0% | 76.0% |
 | 30,000 | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
-| Notes |
+
+Notes
 
 *1. Time-charter rates from the final column of Table 6.1 based on 2005 capital costs and OPEX*
 
 
-*2. From 1990 to 2006 380cSt bunker oil in Rotterdam varied from $90/tonne to $340/tonn e*
+*2. From 1990 to 2006 380cSt bunker oil in Rotterdam varied from $90/tonne to $340/tonne*
 
 <!-- Page 439 -->
 In Part C we look at the tonnes of cargo carried in a year, and the result is dramatic. The Capesize bulk carrier operating on a 4,000 mile trip transports 5 million tonnes of cargo, whilst the 30,000 deadweight vessel operating on a 11,000 mile trip transports only 300,000 tonnes. This reveals an important logistics characteristic of the economies of scale model. Big ships are cheaper in any trade, but the volumes of cargo they transport may be too large to provide a regular delivery service. In this example to permit a monthly delivery of cargo, the trade would need to be 60 million tonnes a year. This is an important constraint on ship size in both the liner and bulk markets. By the time you get down to the small and medium-size trades there just is not the cargo volume to support a bigger vessel. However, it does mean that small ship trades are always 'upsizing'.
@@ -8750,14 +8523,14 @@ THE BULK TRADES 11.3
 **Table 11.1** Bulk cargoes fixed spot 2001-2
 
 
-| Number of | Tonnage of | Average |
-| Type of cargo | cargoes | cargo (tonnes) | size (tonnes) |
-| Major Bulks |
+| Type of cargo | Number of cargoes | Tonnage of cargo (tonnes) | Average size (tonnes) |
+| --- | --- | --- | --- |
+| **Major Bulks** | | | |
 | Iron ore | 889 | 131,397,500 | 147,804 |
-| Coal |
+| **Coal** | | | |
 | Coking coal | 72 | 3,114,500 | 43,257 |
 | Coal | 743 | 81,021,000 | 109,046 |
-| Grain |
+| **Grain** | | | |
 | Oats | 2 | 197,000 | 98,500 |
 | Grain | 326 | 16,540,135 | 50,737 |
 | Heavy grain | 104 | 4,639,787 | 44,613 |
@@ -8765,19 +8538,19 @@ THE BULK TRADES 11.3
 | Wheat | 64 | 2,175,960 | 33,999 |
 | Corn | 14 | 444,000 | 31,714 |
 | Maize | 13 | 322,000 | 24,769 |
-| Agribulks |
+| **Agribulks** | | | |
 | Canola | 3 | 110,000 | 36,667 |
 | Agriprods | 4 | 69,000 | 17,250 |
-| Rice - bagged | 7 | 55,250 | 7,893 |
-| Sugar |
-| Sugar - bulk | 116 | 1,981,400 | 17,230 |
-| Sugar - bagged | 47 | 518,575 | 11,034 |
-| Fertilizers |
+| Rice – bagged | 7 | 55,250 | 7,893 |
+| **Sugar** | | | |
+| Sugar – bulk | 116 | 1,981,400 | 17,230 |
+| Sugar – bagged | 47 | 518,575 | 11,034 |
+| **Fertilizers** | | | |
 | Fertilizers | 18 | 468,000 | 26,000 |
 | Phosphates | 7 | 168,000 | 24,000 |
 | Phosphate rock | 8 | 171,000 | 21,375 |
 | Urea | 16 | 287,000 | 17,938 |
-| Metals & minerals |
+| **Metals & minerals** | | | |
 | Manganese ore | 9 | 185,000 | 20,556 |
 | Concentrates | 2 | 160,000 | 80,000 |
 | Pig iron | 2 | 75,000 | 37,500 |
@@ -8785,7 +8558,7 @@ THE BULK TRADES 11.3
 | Bauxite | 20 | 1,097,000 | 54,850 |
 | Petcoke | 13 | 600,000 | 46,154 |
 | Coke | 7 | 198,000 | 28,286 |
-| Steel products |
+| **Steel products** | | | |
 | Scrap | 16 | 334,000 | 20,875 |
 | Steel billets | 4 | 98,600 | 24,650 |
 | Steel pipes | 4 | 91,000 | 22,750 |
@@ -8808,25 +8581,19 @@ TRANSPORT OF BULK CARGOES
 **Table 11.2** Bulk commodities transported by sea
 
 
-| Growth |
-| Million tons | 1985 | 1990 | 1995 | 2004 | 2005 | 1985-2005 (% pa) |
-
-*1. Liquid bulks*
-
+| Million tons | 1985 | 1990 | 1995 | 2004 | 2005 | Growth 1985–2005 (% pa) |
+| --- | --- | --- | --- | --- | --- | --- |
+| **1. Liquid bulks** | | | | | | |
 | Crude oil | 984 | 1,190 | 1,450 | 1,802 | 1,820 | 3.1% |
 | Oil Products | 288 | 336 | 381 | 219 | 488 | 2.7% |
 | Totals | 1,272 | 1,526 | 1,831 | 2,021 | 2,308 | 3.0% |
-
-*2. Three major bulks*
-
+| **2. Three major bulks** | | | | | | |
 | Iron ore | 321 | 347 | 402 | 589 | 650 | 3.6% |
 | Coking coal | 144 | 342 | 160 | 186 | 184 | 1.2% |
-| Thermal coal | 132 | 242 | 475 | 498 | 6.9% |
+| Thermal coal | 132 |  | 242 | 475 | 498 | 6.9% |
 | Grain | 181 | 192 | 216 | 273 | 242 | 1.5% |
 | Total | 778 | 881 | 1,020 | 1,523 | 1,574 | 3.6% |
-
-*3. Minor bulks (see Table 11.12 for more details of the commodities)*
-
+| **3. Minor bulks (see Table 11.12 for more details of the commodities)** | | | | | | |
 | Agribulks | 79 | 87 | 106 | 136 | 158 | 3.5% |
 | Sugar | 28 | 28 | 34 | 37 | 46 | 2.6% |
 | Fertilizers | 96 | 90 | 93 | 100 | 109 | 0.6% |
@@ -8867,19 +8634,19 @@ TRANSPORT OF BULK CARGOES
 **Table 11.3** Examples of monthly plant throughput
 
 
-| Economic plant size ('000 tons) |
-| Commodity | Year | Month | Typical ship size |
-| ('000 dwt) |
-| Oil refining | 10,000 | 833 | 30-320 |
-| Steel-making | 5,000 | 417 | 120-180 |
-| Power station (coal) | 3,000 | 250 | 60-120 |
-| Cement | 2,000 | 167 | 20-50 |
-| Sulphuric acid | 1,000 | 83 | 20-50 |
-| Automobiles (no. cars) | 1,000 | 83 | 1,000-6,000 cars |
-| Sugar refining | 500 | 42 | 20-35 |
-| Ammonium nitrate | 350 | 29 | 20-30 |
-| Ethylene | 300 | 25 | 5-8 |
-| Aluminium smelting | 200 | 17 | 20-30 |
+| Commodity | Economic plant size ('000 tons) |  | Typical ship size ('000 dwt) |
+| --- | --- | --- | --- |
+| Commodity | Year | Month | Typical ship size ('000 dwt) |
+| Oil refining | 10,000 | 833 | 30–320 |
+| Steel-making | 5,000 | 417 | 120–180 |
+| Power station (coal) | 3,000 | 250 | 60–120 |
+| Cement | 2,000 | 167 | 20–50 |
+| Sulphuric acid | 1,000 | 83 | 20–50 |
+| Automobiles (no. cars) | 1,000 | 83 | 1,000–6,000 cars |
+| Sugar refining | 500 | 42 | 20–35 |
+| Ammonium nitrate | 350 | 29 | 20–30 |
+| Ethylene | 300 | 25 | 5–8 |
+| Aluminium smelting | 200 | 17 | 20–30 |
 | Synthetic fibres | 80 | 7 | Container |
 
 *Source: Compiled by Martin Stopford from various sources*
@@ -9117,8 +8884,9 @@ THE CRUDE OIL TRADE 11.7
 **Table 11.4** Crude oil seaborne trade 2004 (million tonnes)
 
 
-| To: | Western | North | South | Other | Total 2004 |
-| From: | Europe | America | America | Japan | Asia | Others | mt | % |
+| To: From: | Western Europe | North America | South America | Japan | Other Asia | Others | Total 2004 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| To: From: | Western Europe | North America | South America | Japan | Other Asia | Others | mt | % |
 | Middle East | 129 | 130 | 11 | 180 | 353 | 30 | 832 | 47% |
 | Near East | 11 | 1 | 0 | 0 | 0 | 0 | 12 | 1% |
 | North Africa | 82 | 22 | 4 | 0 | 5 | 1 | 115 | 7% |
@@ -9128,7 +8896,7 @@ THE CRUDE OIL TRADE 11.7
 | North Sea | 11 | 46 | 1 | 0 | 4 | 0 | 62 | 4% |
 | Others | 155 | 40 | 14 | 2 | 32 | 6 | 250 | 14% |
 | Total 2004 | 428 | 526 | 51 | 200 | 493 | 57 | 1,754 | 100% |
-| % | 24% | 30% | 3% | 11% | 28% | 3% | 100% |
+| % | 24% | 30% | 3% | 11% | 28% | 3% | 100% |  |
 
 *Source: Fearnleys Review 2005*
 
@@ -9147,16 +8915,14 @@ TRANSPORT OF BULK CARGOES
 **Table 11.5** Oil product characteristics
 
 
-| Density at 15 | ∞ | C | Stowage/tonne |
-| Typical |
-| Specific | Range | Cargo | Special | cargo |
-| gravity | ºAPI | + | or | − | type | characteristics | size- tons | Cu. ft | M | 3 |
+|  | Density at 15°C |  |  |  |  |  | Stowage/tonne |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Specific gravity | °API | Range + or - | Cargo type | Special characteristics | Typical cargo size- tons | Cu. ft | \( M^3 \) |
 | Heavy fuel oil | 0.98 | 13.53 | 3% | Dirty | Cargo heating | 50-80,000 | 32.8 | 0.93 |
 | Heavy crude oil | 0.95 | 17.34 | 3% | Dirty | Cargo heating | 60-300,000 | 33.7 | 0.95 |
-| Diesel oil | 0.86 | 32.92 | 3% | Dirty | 40,000 | 37.2 | 1.05 |
-| Light crude oil | 0.85 | 34.85 | 3% | Dirty | 60-300,000 | 37.6 | 1.07 |
-| Gas oil (light fuel oil) | 0.83 | 38.86 | 2% | Mainly | 30,000 | 38.6 | 1.09 |
-| clean |
+| Diesel oil | 0.86 | 32.92 | 3% | Dirty |  | 40,000 | 37.2 | 1.05 |
+| Light crude oil | 0.85 | 34.85 | 3% | Dirty |  | 60-300,000 | 37.6 | 1.07 |
+| Gas oil (light fuel oil) | 0.83 | 38.86 | 2% | Mainly clean |  | 30,000 | 38.6 | 1.09 |
 | Paraffin | 0.80 | 46.36 | 2% | Clean | Clean tanks | 30,000 | 40.3 | 1.14 |
 | Motor spirit (petrol) | 0.74 | 59.58 | 5% | Clean | Clean tanks | 30,000 | 43.2 | 1.22 |
 | Aviation spirit | 0.71 | 67.65 | 3% | Clean | Clean tanks | 30,000 | 45.1 | 1.28 |
@@ -9207,7 +8973,8 @@ THE OIL PRODUCTS TRADE 11.8
 **Table 11.6** Oil products imports and exports, 2006 (million tonnes)
 
 
-| Imports | % | Exports | % |
+|  | Imports | % | Exports | % |
+| --- | --- | --- | --- | --- |
 | USA | 168.2 | 26% | 60.4 | 26% |
 | Canada | 13.5 | 2% | 26.1 | 2% |
 | Mexico | 20.1 | 2% | 6.9 | 2% |
@@ -9223,9 +8990,10 @@ THE OIL PRODUCTS TRADE 11.8
 | Japan | 48.4 | 9% | 5.5 | 9% |
 | Singapore | 55.8 | 19% | 58.3 | 19% |
 | Other Asia Pacific | 101.5 | 0% | 72.0 | 0% |
-| Unidentified * | -- | 36.8 |
-| TOTAL WORLD | 657.8 | 657.8 |
-| Includes changes in the quantity of oil in transit, movements not otherwise shown, unidentified military use, etc. |
+| Unidentified * | — |  | 36.8 |  |
+| TOTAL WORLD | 657.8 |  | 657.8 |  |
+
+Includes changes in the quantity of oil in transit, movements not otherwise shown, unidentified military use, etc.
 
 *Source: BP Statistical Review of World Energy , June 2007*
 
@@ -9260,9 +9028,9 @@ THE MAJOR DRY BULK TRADES 11.9
 **Table 11.7** Oil products cargo types Jan 2005 to July 2006
 
 
-| Ships fixed |
-| Cargo | Cargo | Av. cargo | Av. ship |
-| Number | Mill. dwt | Mill. (t) | % dwt | '000 t | '000 dwt |
+|  | Ships fixed |  | CargoMill. (t) | Cargo% dwt | Av. cargo‘000 t | Av. ship‘000 dwt |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Number | Mill. dwt | CargoMill. (t) | Cargo% dwt | Av. cargo‘000 t | Av. ship‘000 dwt |
 | Gasoline | 5,390 | 254.5 | 198.5 | 78% | 36.8 | 47.2 |
 | Fuel oil | 3,431 | 216.6 | 192.7 | 89% | 56.2 | 63.1 |
 | Gasoil | 1,169 | 57.5 | 47.8 | 83% | 40.9 | 49.2 |
@@ -9272,9 +9040,7 @@ THE MAJOR DRY BULK TRADES 11.9
 | Other | 37 | 1.8 | 2.9 | 166% | 79.5 | 47.8 |
 | TOTAL | 11,577 | 622 | 517 | 83% | 44.6 | 53.8 |
 
-*Note: In some instances vessels have not been named for individual fixtures - as a result 'total vessel deadweight' may*
-
-| under-report actual tonnage used |
+*Note: In some instances vessels have not been named for individual fixtures - as a result 'total vessel deadweight' may under-report actual tonnage used*
 
 *Source: Sample of products tanker fixtures, 2005*
 
@@ -9299,15 +9065,16 @@ TRANSPORT OF BULK CARGOES
 **Table 11.8** The three 'major' bulk commodities shipped by sea (mt)
 
 
-| Commodity | 1965 | 1975 | 1985 | 1995 | 2005 | % pa 1965-2005 |
+| Commodity | 1965 | 1975 | 1985 | 1995 | 2005 | % pa 1965–2005 |
+| --- | --- | --- | --- | --- | --- | --- |
 | Iron ore | 152 | 292 | 321 | 399 | 650 | 3.7% |
-| growth % pa | 7% | 1% | 2% | 5% |
+| growth % pa |  | 7% | 1% | 2% | 5% |  |
 | Coal | 59 | 127 | 272 | 403 | 690 | 6.3% |
-| growth % pa | 8% | 8% | 4% | 6% |
+| growth % pa |  | 8% | 8% | 4% | 6% |  |
 | Grain | 70 | 137 | 181 | 184 | 242 | 3.1% |
-| growth % pa | 7% | 3% | 0% | 3% |
+| growth % pa |  | 7% | 3% | 0% | 3% |  |
 | Total | 281 | 556 | 774 | 986 | 1,582 | 4.4% |
-| growth % pa | 7% | 3% | 2% | 5% |
+| growth % pa |  | 7% | 3% | 2% | 5% |  |
 
 *Source: Fearnleys World Bulk Trades , CRSL*
 
@@ -9336,8 +9103,7 @@ By far the largest iron ore exporters are Australia (206 mt in 2004) and Brazil 
 TRANSPORT OF BULK CARGOES
 
 
-| FIGURE 11.11 |
-| Iron ore imports, 1962-2005 |
+**Figure 11.11** Iron ore imports, 1962-2005
 
 *Source: Fearnleys Review 2005 and earlier editions*
 
@@ -9352,16 +9118,17 @@ FIGURE 11.12 Major iron ore exporters and ports, 2005. Note: The numbers against
 **Table 11.9** Seaborne iron ore trade 2004
 
 
-| To: | UK/ | Mediter- | Other | Other | Total |
-| From: | Cont. | ranean | Europe | USA | Japan | China | Far East | Others | mt | % |
-| Scandinavia | 7 | 1 | 1 | 1 | 0 | 7 | 16 | 3% |
-| Other Europe | 0 | 0 | 1 | 3 | 5 | 1% |
-| West Africa | 8 | 1 | 3 | 11 | 2% |
-| S. Africa | 7 | 0 | 3 | 10 | 17 | 2 | 2 | 42 | 7% |
-| North America | 12 | 1 | 0 | 1 | 2 | 2 | 4 | 23 | 4% |
+| To: From: | UK/ Cont. | Mediterranean | Other Europe | USA | Japan | China | Other Far East | Others | Total |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| To: From: | UK/ Cont. | Mediterranean | Other Europe | USA | Japan | China | Other Far East | Others | mt | % |
+| Scandinavia | 7 | 1 | 1 |  |  | 1 | 0 | 7 | 16 | 3% |
+| Other Europe | 0 |  |  |  |  | 0 | 1 | 3 | 5 | 1% |
+| West Africa | 8 |  | 1 |  |  |  |  | 3 | 11 | 2% |
+| S. Africa | 7 | 0 | 3 |  | 10 | 17 | 2 | 2 | 42 | 7% |
+| North America | 12 | 1 | 0 |  | 1 | 2 | 2 | 4 | 23 | 4% |
 | Brazil | 46 | 2 | 8 | 7 | 27 | 54 | 21 | 38 | 205 | 35% |
-| S.America Pac. | 0 | 4 | 6 | 3 | 1 | 14 | 2% |
-| India | 1 | 0 | 22 | 40 | 4 | 2 | 68 | 12% |
+| S.America Pac. |  |  |  | 0 | 4 | 6 | 3 | 1 | 14 | 2% |
+| India | 1 | 0 |  |  | 22 | 40 | 4 | 2 | 68 | 12% |
 | Australia | 15 | 1 | 1 | 0 | 76 | 70 | 39 | 5 | 206 | 35% |
 | Total 2004 | 95 | 6 | 14 | 8 | 140 | 190 | 71 | 66 | 590 | 100% |
 
@@ -9400,8 +9167,7 @@ The main coal importers and exporters are shown in Figure 11.14 and Table 11.10.
 THE MAJOR DRY BULK TRADES 11.9
 
 
-| FIGURE 11.13 |
-| Coal imports, 1962-2005 |
+**Figure 11.13** Coal imports, 1962-2005
 
 *Source: Fearnleys Review 2005 and earlier editions*
 
@@ -9409,8 +9175,7 @@ THE MAJOR DRY BULK TRADES 11.9
 TRANSPORT OF BULK CARGOES
 
 
-| FIGURE 11.14 |
-| Major coal exporters and ports, 2005. |
+**Figure 11.14** Major coal exporters and ports, 2005.
 
 *Note: The numbers against each port indicate the approximate maximum draft in metres.*
 
@@ -9421,19 +9186,20 @@ TRANSPORT OF BULK CARGOES
 **Table 11.10** Seaborne coal trade 2004
 
 
-| To: | South | Other | Total |
-| From: | Europe | America | Japan | Far East | Others | mt | % |
+| To: From: | Europe | South America | Japan | Other Far East | Others | Total |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| To: From: | Europe | South America | Japan | Other Far East | Others | mt | % |
 | N. America | 23 | 8 | 10 | 9 | 3 | 54 | 8% |
 | Australia | 29 | 10 | 103 | 59 | 23 | 225 | 34% |
-| S. Africa | 46 | 2 | 1 | 6 | 56 | 8% |
+| S. Africa | 46 | 2 |  | 1 | 6 | 56 | 8% |
 | S. Am. Caribbean | 25 | 2 | 0 | 0 | 21 | 48 | 7% |
 | China | 4 | 1 | 29 | 44 | 7 | 85 | 13% |
 | FSU | 42 | 0 | 9 | 7 | 1 | 59 | 9% |
-| 0th.E Europe | 13 | 0 | 1 | 14 | 2% |
+| 0th.E Europe | 13 | 0 |  |  | 1 | 14 | 2% |
 | Indonesia | 14 | 1 | 25 | 55 | 10 | 106 | 16% |
 | Others | 4 | 1 | 4 | 8 | 1 | 17 | 3% |
 | Total | 200 | 26 | 180 | 184 | 75 | 665 | 100% |
-| 30% | 4% | 27% | 28% | 11% | 100% |
+|  | 30% | 4% | 27% | 28% | 11% | 100% |  |
 
 *Source: Fearnleys Review 2005*
 
@@ -9509,19 +9275,20 @@ TRANSPORT OF BULK CARGOES
 **Table 11.11** Seaborne grain trade, 2004
 
 
-| From: | South | Total |
-| To: | USA | Canada | America | Australia | Others | mt | % |
+| From: To: | USA | Canada | South America | Australia | Others | Total |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| From: To: | USA | Canada | South America | Australia | Others | mt | % |
 | Gulf/Continent | 2.8 | 0.7 | 6.0 | 0.0 | 0.3 | 9.8 | 4% |
 | Total Europe | 5.0 | 1.8 | 8.9 | 0.7 | 7.4 | 23.9 | 10% |
 | Africa | 14.6 | 2.2 | 7.4 | 3.8 | 12.0 | 40.1 | 17% |
 | Americas | 26.5 | 3.2 | 7.8 | 0.2 | 0.2 | 37.9 | 16% |
-| Near East | 3.6 | 1.0 | 0.1 | 2.9 | 7.6 | 3% |
+| Near East | 3.6 |  | 1.0 | 0.1 | 2.9 | 7.6 | 3% |
 | Indian Ocean | 2.1 | 0.8 | 4.7 | 6.7 | 5.0 | 19.2 | 8% |
 | Japan | 22.8 | 1.7 | 0.8 | 2.7 | 0.7 | 28.6 | 12% |
 | Oth. FE | 30.1 | 5.2 | 16.4 | 9.9 | 6.7 | 68.4 | 29% |
-| Oth. & Unspec. | 0.5 | 0.5 | 0% |
+| Oth. & Unspec. |  |  |  | 0.5 |  | 0.5 | 0% |
 | Total | 107.6 | 15.7 | 53.0 | 24.6 | 35.1 | 236.0 | 100% |
-| % total | 46% | 7% | 22% | 10% | 15% | 100% |
+| % total | 46% | 7% | 22% | 10% | 15% | 100% |  |
 
 *Source: Fearnleys Review 2005*
 
@@ -9539,8 +9306,7 @@ The third and most diverse sector of the bulk trades are the minor bulks, a mix 
 THE MINOR BULK TRADES 11.10
 
 
-| FIGURE 11.16 |
-| Major grain exporters and ports, 2005 |
+**Figure 11.16** Major grain exporters and ports, 2005
 
 *Source: CRSL, Dry Bulk Trade Outlook , 2005*
 
@@ -9553,52 +9319,45 @@ TRANSPORT OF BULK CARGOES
 **Table 11.12** Selected minor bulk trades (mt)
 
 
-| 1985 | 1990 | 1995 | 2000 | 2005 | % p.a. |
-| growth |
-| '85-'05 |
-
-*1. Agribulks*
-
+|  | 1985 | 1990 | 1995 | 2000 | 2005 | % p.a. growth '85-'05 |
+| --- | --- | --- | --- | --- | --- | --- |
+| **1. Agribulks** | | | | | | |
 | Soya beans | 25.5 | 28.2 | 32.2 | 45.5 | 64.9 | 4.8% |
 | Soya meal | 23.2 | 26.0 | 30.9 | 39.0 | 45.4 | 3.4% |
 | Oilseed/meals | 19.0 | 21.0 | 21.9 | 28.3 | 19.8 | 0.2% |
 | Rice | 11.3 | 12.1 | 20.9 | 22.8 | 27.8 | 4.6% |
 | Total agribulks | 79.0 | 87.3 | 105.9 | 135.6 | 157.8 | 3.5% |
-| Average % pa | 2% | 4% | 6% | 3% |
-
-*2. Sugar*
-
+| Average % pa |  | 2% | 4% | 6% | 3% |  |
+| **2. Sugar** | | | | | | |
 | White sugar | 9.9 | 10.5 | 17.9 | 16.1 | 21.4 | 3.9% |
 | Raw sugar | 17.0 | 18.0 | 16.1 | 20.4 | 24.9 | 1.9% |
 | Total sugar | 27.8 | 28.5 | 34.1 | 36.5 | 46.3 | 2.6% |
-| Average % pa | 0% | 4% | 1% | 5% |
-
-*3. Fertilizers*
-
-| Phosphate rock | 43.0 | 35.0 | 30.0 | 30.0 | 31.0 | − | 1.6% |
+| Average % pa |  | 0% | 4% | 1% | 5% |  |
+| **3. Fertilizers** | | | | | | |
+| Phosphate rock | 43.0 | 35.0 | 30.0 | 30.0 | 31.0 | -1.6% |
 | Phosphates | 9.6 | 9.9 | 14.2 | 14.7 | 16.6 | 2.8% |
 | Potash | 16.6 | 17.7 | 20.6 | 23.3 | 26.0 | 2.3% |
 | Sulphur | 17.3 | 17.7 | 16.6 | 20.4 | 22.4 | 1.3% |
 | Urea | 9.4 | 9.7 | 11.2 | 11.7 | 12.7 | 1.5% |
 | Total fertilisers | 95.9 | 90.1 | 92.6 | 100.1 | 108.7 | 0.6% |
-| Average % pa | − | 1% | 1% | 2% | 2% |
-| 4. Metals & minerals |
+| Average % pa |  | -1% | 1% | 2% | 2% |  |
+| **4. Metals & minerals** | | | | | | |
 | Bauxite & alumina | 44.0 | 49.0 | 50.0 | 53.0 | 73.0 | 2.6% |
 | Manganese ore | 8.2 | 7.1 | 5.4 | 6.7 | 11.0 | 1.5% |
 | Coke | 12.5 | 11.8 | 17.2 | 24.4 | 24.7 | 3.5% |
 | Cement | 50.0 | 49.0 | 53.0 | 45.5 | 60.0 | 0.9% |
 | Scrap | 25.5 | 35.8 | 51.1 | 62.4 | 93.5 | 6.7% |
 | Pig iron | 10.6 | 13.2 | 14.4 | 13.1 | 17.0 | 2.4% |
-| DRI/HBI | a | 0.8 | 1.8 | 3.8 | 6.7 | 7.2 | 11.6% |
+| DRI/HBIa | 0.8 | 1.8 | 3.8 | 6.7 | 7.2 | 11.6% |
 | Salt & soda ash | 18.0 | 20.1 | 22.2 | 23.0 | 23.9 | 1.4% |
 | Total metals & mins. | 169.6 | 187.8 | 217.1 | 234.8 | 310.3 | 3.1% |
-| Average % pa | 2% | 3% | 2% | 6% |
-| 5. Steel products |
+| Average % pa |  | 2% | 3% | 2% | 6% |  |
+| **5. Steel products** | | | | | | |
 | Steel prods. | 170.0 | 168.0 | 198.0 | 183.7 | 217.0 | 1.2% |
-| 6. Forest products |
+| **6. Forest products** | | | | | | |
 | Forest prods. | 131.0 | 157.0 | 167.0 | 161.0 | 169.9 | 1.3% |
 | Total minor bulk | 673.3 | 718.6 | 814.6 | 851.7 | 1,010.1 | 2.0% |
-| Average % pa | 1.3% | 2.7% | 0.9% | 3.7% |
+| Average % pa |  | 1.3% | 2.7% | 0.9% | 3.7% |  |
 
 *Source: CRSL, USDA, IISI, IBJ and various*
 
@@ -9643,7 +9402,8 @@ TRANSPORT OF BULK CARGOES
 **Table 11.13** Sugar Trade, 2004 (million tons)
 
 
-| Exports | Imports |
+| Exports |  | Imports |  |
+| --- | --- | --- | --- |
 | Brazil | 16.3 | Russian Fed. | 3.6 |
 | Thailand | 4.9 | EU | 2.4 |
 | Australia | 4.3 | Persian Gulf | 1.8 |
@@ -9809,44 +9569,36 @@ THE TRANSPORT OF SPECIALIZED CARGOES
 
 
 | Design | Number | Capacity | Units |
-
-*1. Chemical tankers (see Table 12.3)*
-
+| --- | --- | --- | --- |
+| **1. Chemical tankers (see Table 12.3)** | | | |
 | Chemical Parcel >1k dwt | 1,015 | 15,274 | M dwt |
 | Chemical Bulk | 179 | 2,395 | M dwt |
 | Chemical products | 682 | 19,942 | M dwt |
 | Unknown type | 699 | 5,703 | M dwt |
-| Total | 2,575 | 43,314 |
-
-*2. Gas Tankers*
-
-| LPG (see Table 12.5) | 993 | 14,612 | 000 m | 3 |
-| LNG | 193 | 22,871 | 000 m | 3 |
-| Total | 1,186 | 37,483 |
-
-*3. Refrigerated ships*
-
+| Total | 2,575 | 43,314 |  |
+| **2. Gas Tankers** | | | |
+| LPG (see Table 12.5) | 993 | 14,612 | 000 m3 |
+| LNG | 193 | 22,871 | 000 m3 |
+| Total | 1,186 | 37,483 |  |
+| **3. Refrigerated ships** | | | |
 | Refrigerated >10k cuft | 1,242 | 333 | M Cu ft |
-| Container | 899 | M Cu ft |
-| 4. Unit load vessels |
+| Container |  | 899 | M Cu ft |
+| **4. Unit load vessels** | | | |
 | Open hatch bulk | 486 | 16,508 | M dwt |
 | Ro-Ro | 1,040 | 9,183 | M dwt |
 | PCC | 560 | 7,848 | M dwt |
 | Multipurpose (>10k dwt) | 741 | 13,151 | M dwt |
 | Heavy Lift | 193 | 3,113 | M dwt |
-| Total | 3,020 | 49,803 |
-| 5. Passenger vessels |
-| Ferry | 2,300 | Lane length |
-| Cruise | 235 | Berths |
-| Total | 2,535 |
-| Total | 10,558 |
+| Total | 3,020 | 49,803 |  |
+| **5. Passenger vessels** | | | |
+| Ferry | 2,300 |  | Lane length |
+| Cruise | 235 |  | Berths |
+| Total | 2,535 |  |  |
+| Total | 10,558 |  |  |
 
 *Source: Clarkson Research Services Ltd*
-
-
 *Note: ship numbers differ from Table 2.5 due to differences*
-
-| in the lower size limits and date |
+in the lower size limits and date
 
 <!-- Page 496 -->
 related possibilities. Third, the system can be adapted to integrate with the customer's inland transport operation. For example, a shipping company transporting cars is a vital link in the manufacturer's distribution chain and this has resulted in some specialist shipping companies entering the terminal and storage business. Providing these services requires an appropriate management structure and proven sector-specific expertise which acts as a barrier to entry, often leading to a higher concentration of ownership. As a result pools and cooperative arrangements are more common in the transport of specialized cargo, for example cars, chemicals and gas.
@@ -9912,7 +9664,8 @@ THE TRANSPORT OF SPECIALIZED CARGOES
 **Table 12.2** Sample of chemical parcels by size
 
 
-| Cargo parcel size analysis |
+| **Cargo parcel size analysis** | | |
+| --- | --- | --- |
 | Cargo product group | Average parcel size, tonnes | Cargo % Ship |
 | Caustic products | 2925 | 51% |
 | Styrene products | 2195 | 35% |
@@ -9943,11 +9696,10 @@ THE TRANSPORT OF SPECIALIZED CARGOES
 | Grand Total | 1,475 | 24% |
 
 *Source: 1) Based on a sample of parcels transported on many routes over*
-
-| several years 2) The cargo type indicates the broad product category and |
-| in some cases covers a range of related products 3) The cargo % ship was |
-| calculated by dividing each cargo parcel by the dwt of the ship which carried |
-| it and averaging the resulting percentage over the cargo group. |
+several years 2) The cargo type indicates the broad product category and
+in some cases covers a range of related products 3) The cargo % ship was
+calculated by dividing each cargo parcel by the dwt of the ship which carried
+it and averaging the resulting percentage over the cargo group.
 
 <!-- Page 500 -->
 Singapore, US Gulf, West coast North America, NW Europe and Asia and distributed to a large number of importers around the world. The cargo flow on individual routes is often small, which adds to the complexity of the transport operation. Finally, chemicals may explode, corrode, pollute, taint, and be toxic to the crew or marine life, so the transport of products with these characteristics is regulated under the IMO Code on the Carriage of Hazardous Cargoes. All these features of the trade make chemical transport by sea a complex business.
@@ -10001,15 +9753,16 @@ THE SEA TRANSPORT OF CHEMICALS 12.2
 **Table 12.3** The chemical tanker fleet by vessel type, 2006
 
 
-| Size | Chemical Parcel | Chemical Bulk | Chem. Products | Unknown | Total |
-| (000 dwt) | No. | '000 dwt | No. | '000 dwt | No. | '000 dwt | No. | '000 dwt | No. | '000 dwt |
-| 1-4.9 | 192 | 639.9 | 62 | 200.7 | 56 | 187.1 | 393 | 880.0 | 703 | 1,907.7 |
-| 5-9.9 | 304 | 2,278.1 | 39 | 289.3 | 89 | 616.9 | 176 | 1,258.3 | 608 | 4,442.6 |
-| 10-19.9 | 279 | 4,232.2 | 36 | 489.5 | 102 | 1,489.3 | 53 | 758.5 | 470 | 6,969.5 |
-| 20-29.9 | 70 | 1,761.2 | 23 | 589.0 | 32 | 841.7 | 16 | 425.0 | 141 | 3,616.9 |
-| 30-39.9 | 130 | 4,619.1 | 4 | 141.5 | 163 | 5,910.1 | 35 | 1,266.5 | 332 | 11,937.2 |
-| 40-49.9 | 40 | 1,743.6 | 14 | 633.5 | 224 | 10,037.1 | 26 | 1,114.7 | 304 | 13,528.9 |
-| 50 | + | - | - | 1 | 51.7 | 16 | 859.4 | - | - | 17 | 911.1 |
+| Size(000 dwt) | Chemical Parcel |  | Chemical Bulk |  | Chem. Products |  | Unknown |  | Total |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Size(000 dwt) | No. | '000 dwt | No. | '000 dwt | No. | '000 dwt | No. | '000 dwt | No. | '000 dwt |
+| 1–4.9 | 192 | 639.9 | 62 | 200.7 | 56 | 187.1 | 393 | 880.0 | 703 | 1,907.7 |
+| 5–9.9 | 304 | 2,278.1 | 39 | 289.3 | 89 | 616.9 | 176 | 1,258.3 | 608 | 4,442.6 |
+| 10–19.9 | 279 | 4,232.2 | 36 | 489.5 | 102 | 1,489.3 | 53 | 758.5 | 470 | 6,969.5 |
+| 20–29.9 | 70 | 1,761.2 | 23 | 589.0 | 32 | 841.7 | 16 | 425.0 | 141 | 3,616.9 |
+| 30–39.9 | 130 | 4,619.1 | 4 | 141.5 | 163 | 5,910.1 | 35 | 1,266.5 | 332 | 11,937.2 |
+| 40–49.9 | 40 | 1,743.6 | 14 | 633.5 | 224 | 10,037.1 | 26 | 1,114.7 | 304 | 13,528.9 |
+| 50+ | - | - | 1 | 51.7 | 16 | 859.4 | - | - | 17 | 911.1 |
 | Total | 1,015 | 15,274.1 | 179 | 2,395.3 | 682 | 19,941.6 | 699 | 5,703.1 | 2,575 | 43,314.0 |
 
 *Source: Clarkson Research Services July 2006*
@@ -10046,27 +9799,21 @@ THE LIQUEFIED PETROLEUM GAS TRADE 12.3
 **Table 12.4** Some major traded liquified gas commodities
 
 
-| Boiling | Specific |
-| point ºC | Gravity | Ship Type | Primary Markets |
-
-*1. Liquified petroleum gas*
-
-| Propane | − | 42.3 | 0.58 | LPG tanker | Feedstock & heating |
-| Ethane | − | 88.6 | 0.55 | LPG tanker | Feedstock & heating |
-| Butane | − | 0.5 | 0.60 | LPG tanker | Feedstock & heating |
-
-*2. Chemical gases*
-
-| Ammonia | − | 33.4 | 0.68 | LPG tanker | Fertilizer manufacture |
-
-*3. Olefines*
-
-| Ethylene | − | 103.9 | 0.57 | LPG tanker | Chemical feedstock |
-| Propylene | − | 47 | 0.61 | LPG tanker | Feedstock |
-| Butadiene | − | 5 | 0.65 | LPG tanker | Feedstock |
-| Vinyl chloride monomer | − | 13.8 | 0.97 | LPG tanker | Feedstock |
-| Memo |
-| Methane | − | 161.5 | 0.48 | LNG tanker | Electricity generation |
+|  | Boiling point °C | Specific Gravity | Ship Type | Primary Markets |
+| --- | --- | --- | --- | --- |
+| **1. Liquified petroleum gas** | | | | |
+| Propane | -42.3 | 0.58 | LPG tanker | Feedstock & heating |
+| Ethane | -88.6 | 0.55 | LPG tanker | Feedstock & heating |
+| Butane | -0.5 | 0.60 | LPG tanker | Feedstock & heating |
+| **2. Chemical gases** | | | | |
+| Ammonia | -33.4 | 0.68 | LPG tanker | Fertilizer manufacture |
+| **3. Olefines** | | | | |
+| Ethylene | -103.9 | 0.57 | LPG tanker | Chemical feedstock |
+| Propylene | -47 | 0.61 | LPG tanker | Feedstock |
+| Butadiene | -5 | 0.65 | LPG tanker | Feedstock |
+| Vinyl chloride monomer | -13.8 | 0.97 | LPG tanker | Feedstock |
+| **Memo** | | | | |
+| Methane | -161.5 | 0.48 | LNG tanker | Electricity generation |
 
 <!-- Page 505 -->
 Propane and butane , two major cargoes for LPG tankers, are mainly produced from crude oil, natural gas fields and oil refining. Because of the difficulty of transport they were often flared off, but nowadays most of the gas is either used in local chemical plants in oil-producing areas such as Saudi Arabia, or exported by pipeline or liquefied and shipped by LPG tanker. In 2006, 50% of the market was domestic, 12% in industry, 8% in transport and 27% as a feedstock. In the domestic and commercial energy markets the gas is used in restaurants, hotels and industry for cooking, heating and generally as an alternative to natural gas where that facility is not available. The demand for LPG as a chemical feedstock originated with the plastics revolution in the second half of the twentieth century, and this remains the main driving force behind demand. Petrochemical plants (ethylene crackers) produce the 'primary petrochemicals', especially ethylene, from which plastics, synthetic fibres and synthetic rubber are manufactured. The structure of the production process is briefly summarized in Table 12.5, which shows that the product mix of ethylene, propylene and butadiene varies depending on the proportions of ethane, propane, butane and naphtha used as feedstock. The early US plants used ethane which was plentifully available from natural gas fields, but modern plants are generally capable of adjusting their feedstock mix in response to price and availability. When LPG is used as a feedstock for chemical manufacture, price is important because supply and demand imbalances in the petrochemical industry lead to price differences between regions and, of course, LPG is in competition with other feedstocks such as naphtha. In the transport market LPG is used as a fuel for cars, trucks, taxis and industrial equipment such as fork-lift trucks. It has the advantage of cleanliness and low maintenance, and currently in some countries LPG users receive tax concessions.
@@ -10079,15 +9826,15 @@ THE TRANSPORT OF SPECIALIZED CARGOES
 **Table 12.5** Typical ethylene plant yield pattern weight % yield
 
 
-| Feedstock |
-| Light | Typical end products produced from the primary |
-| Product | Ethane | Propane | n | -Butane | Naptha | chemical products shown on the left hand axis |
+| Product | Feedstock |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Product | Ethane | Propane | n-Butane | Light Naptha | Typical end products produced from the primary chemical products shown on the left hand axis |
 | Ethylene | 78 | 42 | 37 | 32 | Plastic bags, antifreeze, plastic packaging, etc. |
 | Propylene | 2 | 16 | 17 | 16 | Polyurethane foam, plastic coatings, moulded plastics |
-| Butadiene, etc. | a | 3 | 11 | 19 | 30 | Tyres, nylon, detergents, fibreglass, pesticides |
+| Butadiene, etc.a | 3 | 11 | 19 | 30 | Tyres, nylon, detergents, fibreglass, pesticides |
 | Fuel oil | 15 | 29 | 25 | 20 | heating, etc |
-| Loss | 2 | 2 | 2 | 2 |
-| Total | 100 | 100 | 100 | 100 |
+| Loss | 2 | 2 | 2 | 2 |  |
+| Total | 100 | 100 | 100 | 100 |  |
 
 *a Includes Butylene, benzene, toluene, raffinate*
 
@@ -10129,12 +9876,13 @@ THE TRANSPORT OF SPECIALIZED CARGOES
 **Table 12.6** LPG gas tankers - type and capacity analysis
 
 
-| C | apacity Range | Pressurized | Semi-refrigerated | Fully-refrigerated | Total |
-| m | 3 | No. | m | 3 | No. | m | 3 | No. | m | 3 | No. | m | 3 |
-| 0-5,000 | 466 | 917 | 114 | 344 | 12 | 20 | 592 | 1,281 |
-| 5-20,000 | 50 | 336 | 150 | 1,356 | 6 | 92 | 206 | 1,783 |
-| 20-60,000 | -- | -- | 16 | 353 | 73 | 2,914 | 89 | 3,266 |
-| 60,000 plus | -- | -- | -- | -- | 106 | 8,283 | 106 | 8,283 |
+| Capacity Range | Pressurized |  | Semi-refrigerated |  | Fully-refrigerated |  | Total |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| \( m^3 \) | No. | \( m^3 \) | No. | \( m^3 \) | No. | \( m^3 \) | No. | \( m^3 \) |
+| 0–5,000 | 466 | 917 | 114 | 344 | 12 | 20 | 592 | 1,281 |
+| 5–20,000 | 50 | 336 | 150 | 1,356 | 6 | 92 | 206 | 1,783 |
+| 20–60,000 | — | — | 16 | 353 | 73 | 2,914 | 89 | 3,266 |
+| 60,000 plus | — | — | — | — | 106 | 8,283 | 106 | 8,283 |
 | Total | 516 | 1,252 | 280 | 2,052 | 197 | 11,308 | 993 | 14,612 |
 
 *Source: Clarkson Liquid Gas Carrier Register 2006*
@@ -10175,26 +9923,24 @@ THE TRANSPORT OF SPECIALIZED CARGOES
 **Table 12.7** World natural gas reserves, demand and LNG trade 2006
 
 
-| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
-| Gas reserves | Gas demand | LNG imports |
-| Billion m | 3 | % | Billion m | 3 | Mtoe | a | R/D years | b | billion m | 3 | Mtoe | a |
+| (1) | (2) Gas reserves: Billion m³ | (3) Gas reserves: % | (4) Gas demand: Billion m³ | (5) Gas demand: Mtoe ᵃ | (6) Gas demand: R/D years ᵇ | (7) LNG imports: billion m³ | (8) LNG imports: Mtoe ᵃ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | USA | 5,925 | 3 | 630 | 566.9 | 9 | 16.6 | 14.9 |
 | Russian Federation | 47,650 | 27 | 432 | 388.9 | 110 | 0.0 | 0.0 |
 | Middle East | 73,471 | 41 | 289 | 260.3 | 254 | 0.0 | 0.0 |
-| Japan | -- | 0 | 85 | 76.1 | 0 | 81.9 | 73.7 |
-| South Korea | -- | 0 | 34 | 30.8 | 0 | 34.1 | 30.7 |
+| Japan | — | 0 | 85 | 76.1 | 0 | 81.9 | 73.7 |
+| South Korea | — | 0 | 34 | 30.8 | 0 | 34.1 | 30.7 |
 | European Union | 2,426 | 1.3 | 467 | 420.6 | 5 | 57.4 | 51.7 |
 | China | 2,449 | 1 | 56 | 50.0 | 44 | 1.0 | 0.9 |
 | Other Asia | 12,371 | 7 | 264 | 237.7 | 47 | 18.2 | 16.4 |
 | Other | 37,300 | 21 | 604 | 543.6 | 62 | 1.9 | 1.7 |
 | Total | 181,458 | 101 | 2861 | 2574.9 | 63.4 | 211.1 | 190.0 |
 
-*a Million tonnes of oil equivalent.*
+*ᵃ Million tonnes of oil equivalent.*
 
+*ᵇ R/D is the reserves to demand ratio in years.*
 
-*b R/D is the reserves to demand ratio in years.*
-
-| Source BP | Annual Review | 2007 |
+*Source BP Annual Review 2007*
 
 <!-- Page 510 -->
 multi-billion dollar investment projects are needed to ship the gas to market. This locks investors into a very inflexible long-term commitment, so political stability and future pricing worries weigh heavily on their minds, often leading to delays. But price is the central issue and for many years Europe and the USA had access to cheap natural gas from domestic gas fields, so high-cost imported LNG struggled to be competitive in these important markets, especially from long-haul sources such as the Middle East.
@@ -10235,33 +9981,27 @@ THE LIQUEFIED NATURAL GAS TRADE 12.4
 **Table 12.8** LNG trade movements, 2006 (billion cubic metres)
 
 
-| LNG Exports from |
-| Americas | Middle East | North & West Africa | SE Asia & Oceania |
-| Indonesia |
-| Trinidad | Australia | Malaysia |
-| Algeria | Nigeria | Brunei |
-| Oman | Qatar | Egypt | Libya |
-| USA | UAE | Total |
-| to |
-| Atlantic |
-| USA | 10.9 | 0.5 | 3.6 | 1.6 | 16.6 |
-| Dom. Rep | 0.3 | 0.3 |
-| Puerto Rico | 0.7 | 0.7 |
-| Mexico | 0.2 | 0.1 | 0.2 | 0.5 | 0.9 |
-| Belgium | 0.2 | 0.4 | 3.4 | 0.3 | 0.2 | 4.3 |
-| France | 7.4 | 2.3 | 4.2 | 13.9 |
-| Greece | 0.5 | 0.0 | 0.5 |
-| Italy | 3.0 | 0.1 | 3.1 |
-| Portugal | 2.0 | 2.0 |
-| Spain | 3.0 | 1.0 | 5.0 | 2.8 | 4.8 | 0.7 | 7.1 | 24.4 |
-| Turkey | 4.6 | 1.1 | 5.7 |
-| UK | 0.6 | 2.0 | 1.0 | 3.6 |
-| Asia Pacific |
-| China | 1.0 | 1.0 |
-| India | 0.2 | 6.8 | 0.1 | 0.1 | 0.6 | 0.1 | 0.1 | 0.1 | 8.0 |
-| Japan | 1.7 | 0.4 | 3.0 | 9.9 | 7.0 | 0.2 | 0.8 | 0.2 | 15.7 | 8.7 | 18.6 | 15.6 | 81.9 |
-| South Korea | 0.1 | 7.1 | 9.0 | 0.3 | 1.3 | 0.2 | 0.9 | 1.2 | 6.7 | 7.5 | 34.1 |
-| Taiwan | 0.2 | 0.2 | 0.4 | 0.4 | 4.3 | 4.9 | 10.2 |
+| LNG imports to | Americas: USA | Americas: Trinidad | Middle East: Oman | Middle East: Qatar | Middle East: UAE | North & West Africa: Algeria | North & West Africa: Egypt | North & West Africa: Libya | North & West Africa: Nigeria | SE Asia & Oceania: Australia | SE Asia & Oceania: Brunei | SE Asia & Oceania: Indonesia | SE Asia & Oceania: Malaysia | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Atlantic** | | | | | | | | | | | | | | |
+| USA |  | 10.9 |  |  |  | 0.5 | 3.6 |  | 1.6 |  |  |  |  | 16.6 |
+| Dom. Rep |  | 0.3 |  |  |  |  |  |  |  |  |  |  |  | 0.3 |
+| Puerto Rico |  | 0.7 |  |  |  |  |  |  |  |  |  |  |  | 0.7 |
+| Mexico |  | 0.2 |  | 0.1 |  |  | 0.2 |  | 0.5 |  |  |  |  | 0.9 |
+| Belgium |  | 0.2 |  | 0.4 |  | 3.4 | 0.3 |  | 0.2 |  |  |  |  | 4.3 |
+| France |  |  |  |  |  | 7.4 | 2.3 |  | 4.2 |  |  |  |  | 13.9 |
+| Greece |  |  |  |  |  | 0.5 | 0.0 |  |  |  |  |  |  | 0.5 |
+| Italy |  |  |  |  |  | 3.0 | 0.1 |  |  |  |  |  |  | 3.1 |
+| Portugal |  |  |  |  |  |  |  |  | 2.0 |  |  |  |  | 2.0 |
+| Spain |  | 3.0 | 1.0 | 5.0 |  | 2.8 | 4.8 | 0.7 | 7.1 |  |  |  |  | 24.4 |
+| Turkey |  |  |  |  |  | 4.6 |  |  | 1.1 |  |  |  |  | 5.7 |
+| UK |  | 0.6 |  |  |  | 2.0 | 1.0 |  |  |  |  |  |  | 3.6 |
+| **Asia Pacific** | | | | | | | | | | | | | | |
+| China |  |  |  |  |  |  |  |  |  | 1.0 |  |  |  | 1.0 |
+| India |  |  | 0.2 | 6.8 | 0.1 | 0.1 | 0.6 |  | 0.1 | 0.1 |  |  | 0.1 | 8.0 |
+| Japan | 1.7 | 0.4 | 3.0 | 9.9 | 7.0 | 0.2 | 0.8 |  | 0.2 | 15.7 | 8.7 | 18.6 | 15.6 | 81.9 |
+| South Korea |  | 0.1 | 7.1 | 9.0 |  | 0.3 | 1.3 |  | 0.2 | 0.9 | 1.2 | 6.7 | 7.5 | 34.1 |
+| Taiwan |  |  | 0.2 |  |  |  | 0.2 |  | 0.4 | 0.4 |  | 4.3 | 4.9 | 10.2 |
 | TOTAL | 1.7 | 16.3 | 11.5 | 31.1 | 7.1 | 24.7 | 15.0 | 0.7 | 17.6 | 18.0 | 9.8 | 29.6 | 28.0 | 211.1 |
 
 *Source: BP and Cedigaz (provisional)*
@@ -10315,18 +10055,17 @@ THE TRANSPORT OF SPECIALIZED CARGOES
 **Table 12.9** World trade in perishable foodstuffs (mt)
 
 
-| Commodity |
-| Total | Memo: |
-| Citrus | Deciduous | Total | Dairy | Total | growth | Other |
-| Year | Bananas | fruits | fruits | fruit | products | Meat | Fish | trade | Yr on Yr | Fruit & Veg. |
-| 1983 | 6 | 7 | 5 | 19 | 10 | 9 | 20 | 58 | 59 |
+| Year | Commodity |  |  |  |  |  |  |  | TotalgrowthYr on Yr | Memo:OtherFruit & Veg. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Year | Bananas | Citrusfruits | Deciduousfruits | Totalfruit | Dairyproducts | Meat | Fish | Totaltrade | TotalgrowthYr on Yr | Memo:OtherFruit & Veg. |
+| 1983 | 6 | 7 | 5 | 19 | 10 | 9 | 20 | 58 |  | 59 |
 | 1984 | 7 | 8 | 5 | 20 | 11 | 9 | 22 | 61 | 5.9% | 63 |
 | 1985 | 7 | 7 | 5 | 19 | 12 | 9 | 25 | 64 | 5.1% | 66 |
 | 1986 | 7 | 9 | 5 | 21 | 12 | 10 | 27 | 69 | 7.7% | 70 |
 | 1987 | 8 | 8 | 6 | 21 | 12 | 10 | 28 | 71 | 2.8% | 73 |
 | 1988 | 8 | 8 | 6 | 21 | 13 | 11 | 29 | 74 | 3.5% | 77 |
 | 1989 | 8 | 8 | 6 | 22 | 13 | 11 | 31 | 77 | 4.5% | 81 |
-| 1990 | 9 | 8 | 6 | 24 | 12 | 12 | 29 | 77 | − | 0.5% | 84 |
+| 1990 | 9 | 8 | 6 | 24 | 12 | 12 | 29 | 77 | -0.5% | 84 |
 | 1991 | 10 | 8 | 7 | 25 | 13 | 13 | 29 | 81 | 5.1% | 88 |
 | 1992 | 11 | 9 | 7 | 26 | 15 | 14 | 31 | 85 | 5.4% | 91 |
 | 1993 | 12 | 9 | 8 | 29 | 15 | 14 | 34 | 92 | 7.8% | 96 |
@@ -10334,7 +10073,7 @@ THE TRANSPORT OF SPECIALIZED CARGOES
 | 1995 | 13 | 10 | 8 | 32 | 16 | 17 | 38 | 103 | 0.0% | 101 |
 | 1996 | 14 | 10 | 9 | 33 | 17 | 18 | 38 | 105 | 1.7% | 104 |
 | 1997 | 15 | 10 | 9 | 34 | 18 | 19 | 39 | 110 | 4.5% | 107 |
-| 1998 | 14 | 11 | 9 | 33 | 18 | 19 | 32 | 104 | − | 5.4% | 109 |
+| 1998 | 14 | 11 | 9 | 33 | 18 | 19 | 32 | 104 | -5.4% | 109 |
 | 1999 | 14 | 10 | 9 | 34 | 19 | 21 | 36 | 110 | 6.1% | 115 |
 | 2000 | 14 | 11 | 9 | 34 | 20 | 22 | 41 | 117 | 6.7% | 117 |
 | 2001 | 15 | 11 | 10 | 35 | 20 | 22 | 41 | 118 | 0.9% | 123 |
@@ -10408,9 +10147,9 @@ UNIT LOAD CARGO TRANSPORT 12.6
 **Table 12.10** The cargo ro-ro fleet, 1996-2006
 
 
-| Growth |
-| 1 Jan. | No. | Dwt | % p.a. | Av. dwt |
-| 1996 | 962 | 7,754 | 8,061 |
+| 1 Jan. | No. | Dwt | Growth % p.a. | Av. dwt |
+| --- | --- | --- | --- | --- |
+| 1996 | 962 | 7,754 |  | 8,061 |
 | 1997 | 981 | 7,989 | 3% | 8,143 |
 | 1998 | 996 | 7,984 | 0% | 8,016 |
 | 1999 | 1,007 | 8,118 | 2% | 8,062 |
@@ -10463,9 +10202,9 @@ UNIT LOAD CARGO TRANSPORT 12.6
 **Table 12.11** The pure car carrier fleet, 1996-2006
 
 
-| Growth |
-| 1 Jan. | No. | Dwt | % p.a. | Av. dwt |
-| 1996 | 379 | 4,552 | 12,011 |
+| 1 Jan. | No. | Dwt | Growth % p.a. | Av. dwt |
+| --- | --- | --- | --- | --- |
+| 1996 | 379 | 4,552 |  | 12,011 |
 | 1997 | 381 | 4,636 | 2% | 12,168 |
 | 1998 | 395 | 4,831 | 4% | 12,230 |
 | 1999 | 436 | 5,298 | 10% | 12,151 |
@@ -10550,17 +10289,18 @@ PASSENGER SHIPPING 12.7
 **Table 12.12** Multi-purpose and tramp fleet
 
 
-| 1st | MPP fleet | Tramp fleet | Liner fleet | Total fleet |
-| Jan | No. | m dwt | No. | m dwt | No. | m dwt | No. | m dwt | % growth |
-| 1996 | 1,955 | 19.8 | 678 | 7.5 | 1,111 | 15.9 | 3,744 | 43.2 |
-| 1997 | 2,025 | 25.3 | 632 | 6.8 | 1,044 | 15.0 | 3,701 | 42.0 | − | 3% |
-| 1998 | 2,095 | 20.6 | 623 | 6.7 | 895 | 13.0 | 3,613 | 40.1 | − | 5% |
-| 1999 | 2,170 | 21.1 | 618 | 6.3 | 786 | 11.4 | 3,574 | 38.8 | − | 3% |
-| 2000 | 2,219 | 21.3 | 606 | 6.0 | 727 | 10.3 | 3,552 | 37.8 | − | 3% |
-| 2001 | 2,296 | 21.6 | 598 | 5.7 | 624 | 9.1 | 3,518 | 36.5 | − | 4% |
-| 2002 | 2,227 | 21.4 | 585 | 5.5 | 546 | 7.9 | 3,358 | 34.8 | − | 5% |
-| 2003 | 2,346 | 21.5 | 571 | 5.3 | 492 | 9.0 | 3,409 | 33.7 | − | 3% |
-| 2004 | 2,365 | 21.6 | 562 | 5.1 | 442 | 6.2 | 3,369 | 32.9 | − | 2% |
+| 1stJan | MPP fleet |  | Tramp fleet |  | Liner fleet |  | Total fleet |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1stJan | No. | m dwt | No. | m dwt | No. | m dwt | No. | m dwt | % growth |
+| 1996 | 1,955 | 19.8 | 678 | 7.5 | 1,111 | 15.9 | 3,744 | 43.2 |  |
+| 1997 | 2,025 | 25.3 | 632 | 6.8 | 1,044 | 15.0 | 3,701 | 42.0 | -3% |
+| 1998 | 2,095 | 20.6 | 623 | 6.7 | 895 | 13.0 | 3,613 | 40.1 | -5% |
+| 1999 | 2,170 | 21.1 | 618 | 6.3 | 786 | 11.4 | 3,574 | 38.8 | -3% |
+| 2000 | 2,219 | 21.3 | 606 | 6.0 | 727 | 10.3 | 3,552 | 37.8 | -3% |
+| 2001 | 2,296 | 21.6 | 598 | 5.7 | 624 | 9.1 | 3,518 | 36.5 | -4% |
+| 2002 | 2,227 | 21.4 | 585 | 5.5 | 546 | 7.9 | 3,358 | 34.8 | -5% |
+| 2003 | 2,346 | 21.5 | 571 | 5.3 | 492 | 9.0 | 3,409 | 33.7 | -3% |
+| 2004 | 2,365 | 21.6 | 562 | 5.1 | 442 | 6.2 | 3,369 | 32.9 | -2% |
 | 2005 | 2,424 | 22.1 | 575 | 5.2 | 425 | 5.9 | 3,424 | 33.3 | 1% |
 | 2006 | 2,533 | 22.8 | 605 | 5.4 | 419 | 5.8 | 3,557 | 34.1 | 2% |
 
@@ -10698,9 +10438,9 @@ TRANSPORT OF GENERAL CARGO
 **Table 13.1** World container fleet, 1960-2005
 
 
-| Container box | Container ship | Containers (TEU) |
-| Year-end | fleet (TEU) | fleet (TEU capacity) | Per slot |
-| 1960* | 18,000 |
+| Year-end | Container box fleet (TEU) | Container ship fleet (TEU capacity) | Containers (TEU) Per slot |
+| --- | --- | --- | --- |
+| 1960* | 18,000 |  |  |
 | 1965* | 54,000 | 16,000 | 3.4 |
 | 1970 | 500,000 | 140,500 | 3.6 |
 | 1975 | 1,300,000 | 366,000 | 3.6 |
@@ -10713,7 +10453,7 @@ TRANSPORT OF GENERAL CARGO
 
 *Sources: US Steel Commercial Research Division and CI Market Analysis, MTR (1976), Vol 6 Table 51, CRSL*
 
-| *estimate |
+\*estimate
 
 <!-- Page 534 -->
 the Ideal-X loaded 58 containers in New Jersey, and sailed for Houston, the first seaborne shipment of modern containers (although there are many earlier cases of cargo being shipped in standard boxes). The boxes weathered the 3,000-mile journey and handling costs were 16 cents per ton, compared with $5.83 per tonne for break-bulk cargo 8 handling so it was a commercial success. A second tanker was converted and on 4 October, 1957 the maiden voyage of the first fully cellular vessel the 226 TEU Gateway City, from Newark to Miami was watched by a crowd of 400 (including New 9 Jersey governor Robert B. Meyner, who helicoptered to the pier to deliver an address) . When it docked in Miami its cargo was delivered to the consignee within 90 minutes.
@@ -10757,26 +10497,25 @@ ORIGINS OF THE LINER SERVICE 13.2
 **Table 13.2** World container stock by principal type
 
 
-| Container type 20-foot equivalent units ('000s) | % in |
-| 1985 | 1995 | 2004 | 2004 |
+| Container type 20-foot equivalent units ('000s) |  |  |  | % in |
+| --- | --- | --- | --- | --- |
+|  | 1985 | 1995 | 2004 | 2004 |
 | Standard | 4,090 | 8,050 | 26,699 | 94% |
-| of which | 0% |
-| 20' 8'6" | 5,060 | 18% |
-| 40' 8'6" (5.3 million units) | 10,620 | 37% |
-| 40' 9'6" (5.2 million units) | 10,362 | 36% |
-| 45' 8'6" | 639 | 2% |
+| of which |  |  |  | 0% |
+| 20' 8'6" |  |  | 5,060 | 18% |
+| 40' 8'6" (5.3 million units) |  |  | 10,620 | 37% |
+| 40' 9'6" (5.2 million units) |  |  | 10,362 | 36% |
+| 45' 8'6" |  |  | 639 | 2% |
 | Open-top | 221 | 225 | 258 | 1% |
 | Ventilated | 46 | 89 | 26 | 0% |
 | Folding flatrack | 36 | 42 | 151 | 1% |
 | Other | 115 | 112 | 217 | 1% |
 | Integral reefer | 157 | 520 | 1,111 | 4% |
 | Insulated reefer | 77 | 72 | 24 | 0% |
-| Tank | 34 | 84 | -- | -- |
+| Tank | 34 | 84 | — | — |
 | Total | 4,776 | 9,194 | 28,486 | 100% |
 
-*Source: Containerisation International 2005*
-
-| World Container Census January 2005 |
+*Source: Containerisation International 2005 World Container Census January 2005*
 
 <!-- Page 537 -->
 carrier or tanker markets. Sixth, minor bulk cargoes which had occupied the deep-well tanks, lower cargo holds and ro-ro decks of cargo liners moved into specialist vessels such as open hatch bulk carriers, parcel tankers, car carriers, MPP vessels and heavy lift ships (see Chapter 12).
@@ -10805,9 +10544,9 @@ increasingly become potential targets for containerization. Second, the containe
 ECONOMIC PRINCIPLES OF LINER OPERATION 13.3
 
 
-| *A 'loop' is a round trip, usually with several calls on the outward voyage and several more on the return |
-| Figure 13.1 |
-| The liner transport system, 2007 |
+*\*A 'loop' is a round trip, usually with several calls on the outward voyage and several more on the return*
+
+**Figure 13.1** The liner transport system, 2007
 
 *Source: Martin Stopford, 2007, Fleet Figures 1st Sept 2007 CRSL, Service figures NYK*
 
@@ -10854,14 +10593,12 @@ TRANSPORT OF GENERAL CARGO
 **Table 13.3** The container and break-bulk trades, 1983-2006
 
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| World Economy % pa | Containerized cargo movements (moves) |
-| GDP | manufactures | Container lifts | Container cargo | Tons | Break bulk | Dry bulk | Total dry cargo |
-| %pa | exports (value) | TEU (m) | % pa | mt | %pa | per lift | mt | mt | mt | %pa |
-| 1983 | 6.3% | 5.1% | 46 | 127 | 2.8 | 487 | 1,254 | 1,868 |
+| Year | GDP % pa (col 1) | Manufactures exports (value) % pa (col 2) | Container lifts TEU (m) (col 3) | Container lifts % pa (col 4) | Container cargo mt (col 5) | Container cargo % pa (col 6) | Tons per lift (col 7) | Break bulk mt (col 8) | Dry bulk mt (col 9) | Total dry cargo mt (col 10) | Total dry cargo % pa (col 11) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1983 | 6.3% | 5.1% | 46 |  | 127 |  | 2.8 | 487 | 1,254 | 1,868 |  |
 | 1984 | 7.0% | 10.8% | 53 | 17% | 148 | 16% | 2.8 | 511 | 1,396 | 2,055 | 10% |
 | 1985 | 4.0% | 4.8% | 57 | 7% | 160 | 8% | 2.8 | 549 | 1,461 | 2,170 | 6% |
-| 1986 | 6.8% | 4.1% | 62 | 9% | 173 | 8% | 2.8 | 555 | 1,415 | 2,143 | − | 1% |
+| 1986 | 6.8% | 4.1% | 62 | 9% | 173 | 8% | 2.8 | 555 | 1,415 | 2,143 | -1% |
 | 1987 | 7.6% | 6.3% | 68 | 10% | 192 | 11% | 2.8 | 549 | 1,472 | 2,213 | 3% |
 | 1988 | 7.0% | 9.5% | 75 | 10% | 211 | 10% | 2.8 | 559 | 1,565 | 2,335 | 6% |
 | 1989 | 5.2% | 7.8% | 82 | 9% | 231 | 10% | 2.8 | 578 | 1,610 | 2,419 | 4% |
@@ -10876,20 +10613,27 @@ TRANSPORT OF GENERAL CARGO
 | 1998 | 0.2% | 4.8% | 183 | 8% | 503 | 7% | 2.8 | 859 | 1,900 | 3,262 | 0% |
 | 1999 | 5.5% | 5.1% | 205 | 12% | 560 | 11% | 2.7 | 877 | 1,896 | 3,334 | 2% |
 | 2000 | 5.8% | 13.0% | 227 | 11% | 628 | 12% | 2.8 | 929 | 2,042 | 3,598 | 8% |
-| 2001 | 1.1% | − | 1.4% | 239 | 5% | 647 | 3% | 2.7 | 910 | 2,095 | 3,652 | 1% |
+| 2001 | 1.1% | -1.4% | 239 | 5% | 647 | 3% | 2.7 | 910 | 2,095 | 3,652 | 1% |
 | 2002 | 3.3% | 4.0% | 275 | 15% | 718 | 11% | 2.6 | 961 | 2,172 | 3,851 | 5% |
 | 2003 | 2.6% | 4.9% | 303 | 10% | 806 | 12% | 2.7 | 955 | 2,291 | 4,052 | 5% |
 | 2004 | 5.3% | 10.0% | 343 | 13% | 919 | 14% | 2.7 | 926 | 2,469 | 4,313 | 6% |
 | 2005 | 4.9% | 6.0% | 381 | 11% | 1,017 | 11% | 2.7 | 920 | 2,564 | 4,502 | 4% |
 | 2006 | 5.4% | 8.0% | 419 | 10% | 1,134 | 11% | 2.7 | 882 | 2,703 | 4,719 | 5% |
-| Av. '83-'06 | 4.8% | 6.6% | 10.1% | 10.0% | 2.6% | 3.4% | 4.1% |
-| Notes |
-| Col 2: manufactures exports show % change at constant prices; source World Bank |
-| Col 3/4: shows container lifts, including empties |
-| Col 5/6: shows container cargo moved in the year (estimate - the actual amount is not known) |
-| Col 7: col 3 divided by col 5. 20' containers usually carry 10-12 tons, so there are many unexplained lifts |
-| Col 8: break bulk cargo is the residual after deducting containerized cargo and bulk from col 10 |
-| Col 9: dry bulk commodities like ore, coal, grain etc. |
+| Av. '83–'06 | 4.8% | 6.6% |  | 10.1% |  | 10.0% |  | 2.6% | 3.4% |  | 4.1% |
+
+Notes
+
+Col 2: manufactures exports show % change at constant prices; source World Bank
+
+Col 3/4: shows container lifts, including empties
+
+Col 5/6: shows container cargo moved in the year (estimate – the actual amount is not known)
+
+Col 7: col 3 divided by col 5. 20' containers usually carry 10–12 tons, so there are many unexplained lifts
+
+Col 8: break bulk cargo is the residual after deducting containerized cargo and bulk from col 10
+
+Col 9: dry bulk commodities like ore, coal, grain etc.
 
 *Source: Cols 1 & 2 World Bank; cols 3-11 Clarksons SRO (spring 2006)*
 
@@ -10897,12 +10641,14 @@ TRANSPORT OF GENERAL CARGO
 GENERAL CARGO AND LINER TRANSPORT DEMAND 13.4
 
 
-**Table 13.4** Port of Vancouver trade 13.4.1 Principal containerized commodities inbound
+**Table 13.4** Port of Vancouver trade
+
+**13.4.1** Principal containerized commodities inbound
 
 
-| Increase |
-| Commodity ('000 metric tonnes) | 2003 | 2004 | 2005 | 2004-5 |
-| A. Containerized commodities inbound |
+| Commodity ('000 metric tonnes) | 2003 | 2004 | 2005 | Increase 2004-5 |
+| --- | --- | --- | --- | --- |
+| **A. Containerized commodities inbound** | | | | |
 | Misc. consumer products | 586 | 605 | 687 | 14% |
 | Home & bldg products | 419 | 506 | 620 | 23% |
 | Furniture | 440 | 489 | 543 | 11% |
@@ -10911,40 +10657,39 @@ GENERAL CARGO AND LINER TRANSPORT DEMAND 13.4
 | Misc. industrial products | 239 | 312 | 338 | 8% |
 | Autos/auto parts | 287 | 311 | 312 | 0% |
 | Consumer electronics | 284 | 293 | 307 | 5% |
-| Iron/steel | 196 | 247 | 231 | − | 6% |
+| Iron/steel | 196 | 247 | 231 | -6% |
 | Toys/sports equipment | 198 | 200 | 205 | 2% |
 | Others | 1,419 | 1,496 | 1,675 | 12% |
 | Total | 4,974 | 5,401 | 5,992 | 11% |
-| B. Container movements ('000 TEU) |
+| **B. Container movements ('000 TEU)** | | | | |
 | Loaded with cargo | 713 | 783 | 857 | 9% |
-| Empty containers | 35 | 42 | 27 | − | 36% |
+| Empty containers | 35 | 42 | 27 | -36% |
 | Total | 748 | 825 | 884 | 7% |
 | Tons cargo per loaded TEU | 7.0 | 6.9 | 7.0 | 1% |
 
 
-#### 13.4.2 Principal containerized commodities outbound
+**13.4.2** Principal containerized commodities outbound
 
-
-| Increase |
-| Commodity ('000 metric tonnes) | 2003 | 2004 | 2005 | 2004-5 |
-| A. Containerized commodities outbound |
-| Wood pulp | 1,646 | 1,966 | 1,840 | − | 6% |
-| Lumber | 1,348 | 1,550 | 1,272 | − | 18% |
+| Commodity ('000 metric tonnes) | 2003 | 2004 | 2005 | Increase 2004–5 |
+| --- | --- | --- | --- | --- |
+| **A. Containerized commodities outbound** | | | | |
+| Wood pulp | 1,646 | 1,966 | 1,840 | −6% |
+| Lumber | 1,348 | 1,550 | 1,272 | −18% |
 | Peas/beans/lentils | 448 | 427 | 524 | 23% |
 | Waste paper | 408 | 376 | 510 | 36% |
 | Hay/alfalfa | 241 | 356 | 401 | 13% |
 | Fresh/frozen pork | 313 | 351 | 382 | 9% |
 | Soya beans | 214 | 337 | 357 | 6% |
-| Malt | 173 | 287 | 264 | − | 8% |
+| Malt | 173 | 287 | 264 | −8% |
 | Newsprint | 209 | 244 | 245 | 0% |
-| Scrap metal | 193 | 231 | 229 | − | 1% |
-| Others | 2,449 | 2,534 | 2,383 | − | 6% |
-| Total | 7,642 | 8,659 | 8,407 | − | 3% |
-| B. Container movements (000 TEU) |
+| Scrap metal | 193 | 231 | 229 | −1% |
+| Others | 2,449 | 2,534 | 2,383 | −6% |
+| Total | 7,642 | 8,659 | 8,407 | −3% |
+| **B. Container movements (000 TEU)** | | | | |
 | Loaded with cargo | 577 | 695 | 708 | 2% |
 | Empty containers | 214 | 145 | 175 | 21% |
 | Outbound containers (000 TEU) | 791 | 840 | 883 | 5% |
-| Tons cargo per TEU | 13.3 | 12.5 | 11.9 | − | 5% |
+| Tons cargo per TEU | 13.3 | 12.5 | 11.9 | −5% |
 
 *Source: Port of Vancouver*
 
@@ -10981,7 +10726,8 @@ GENERAL CARGO AND LINER TRANSPORT DEMAND 13.4
 **Table 13.5** Example of container transport costs UK to Canada ($ per container)
 
 
-| 20 | ′ | 40 | ′ |
+|  | 20' | 40' |
+| --- | --- | --- |
 | Inland charges (origin) | 225 | 225 |
 | Terminal charges (origin) | 248 | 340 |
 | Ocean freight | 700 | 1100 |
@@ -11401,61 +11147,41 @@ TRANSPORT OF GENERAL CARGO
 **Table 13.8** The eight building-blocks of liner costs
 
 
-| Vessel size (TEU) | 1,200 | 2,600 | 4,300 | 6,500 | 8,500 | 11,000 |
-
-*1. Ship characteristics*
-
-| Container-ship size | 1,200 | 2,600 | 4,300 | 6,500 | 8,500 | 11,000 |
-| Design speed (knots) | 18.3 | 20.9 | 23.8 | 25.2 | 25.5 | 25.5 |
-| Design fuel consumption | 42 | 79 | 147 | 214 | 230 | 240 |
-| (tons/day) | container-ship |
-| Operating speed | characteristics | 17.4 | 19.9 | 22.6 | 23.9 | 24.2 | 24.2 |
-| terminal to terminal |
-| Fuel Consumption | 36.3 | 67.7 | 126.2 | 183.2 | 197.2 | 205.8 |
-| (tons/day) |
-| Time per port call (days) | 0.7 | 1.0 | 1.2 | 1.6 | 2.0 | 2.4 |
-
-*2. Service schedule*
-
-| Distance of round trip | 14,000 | 14,000 | 14,000 | 14,000 | 14,000 | 14,000 |
+| Vessel size (TEU) | Group | 1,200 | 2,600 | 4,300 | 6,500 | 8,500 | 11,000 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **1. Ship characteristics** | | | | | | | |
+| Container-ship size | container-ship characteristics | 1,200 | 2,600 | 4,300 | 6,500 | 8,500 | 11,000 |
+| Design speed (knots) | container-ship characteristics | 18.3 | 20.9 | 23.8 | 25.2 | 25.5 | 25.5 |
+| Design fuel consumption (tons/day) | container-ship characteristics | 42 | 79 | 147 | 214 | 230 | 240 |
+| Operating speed terminal to terminal | container-ship characteristics | 17.4 | 19.9 | 22.6 | 23.9 | 24.2 | 24.2 |
+| Fuel Consumption (tons/day) | container-ship characteristics | 36.3 | 67.7 | 126.2 | 183.2 | 197.2 | 205.8 |
+| Time per port call (days) | container-ship characteristics | 0.7 | 1.0 | 1.2 | 1.6 | 2.0 | 2.4 |
+| **2. Service schedule** | | | | | | | |
+| Distance of round trip | schedule | 14,000 | 14,000 | 14,000 | 14,000 | 14,000 | 14,000 |
 | Service frequency | schedule | weekly | weekly | weekly | weekly | weekly | weekly |
-| Portcalls on round voyage | 7 | 7 | 7 | 7 | 7 | 7 |
-| Days at sea | 33.6 | 29.4 | 25.8 | 24.4 | 24.1 | 24.1 |
-| Days in port | performance | 5.0 | 6.7 | 8.7 | 11.4 | 13.8 | 16.9 |
-| Total voyage time (days) | variable | 38.5 | 36.0 | 34.5 | 35.8 | 37.9 | 40.9 |
-| Voyages per annum | 9.5 | 10.1 | 10.6 | 10.2 | 9.6 | 8.9 |
-| Required number of | 5.5 | 5.1 | 4.9 | 5.1 | 5.4 | 5.8 |
-| ships in weekly string |
-
-*3. Capacity utilization (to calculate the number of loaded containers carried)*
-
-| Eastbound Capacity | 90% | 90% | 90% | 90% | 90% | 90% |
-| Utilization (%) |
-| Westbound Capacity | 40% | 40% | 40% | 40% | 40% | 40% |
-| Utilization (%) | how full |
-| Containers shipped | ships are | 1,080 | 2,340 | 3,870 | 5,850 | 7,650 | 9,900 |
-| outward (TEU) |
-| Containers shipped | 480 | 1,040 | 1,720 | 2,600 | 3,400 | 4,400 |
-| back (TEU) |
-| Cargo transported | 1,560 | 3,380 | 5,590 | 8,450 | 11,050 | 14,300 |
-| per voyage (TEU) |
-| Annual transport | 14,785 | 34,232 | 59,097 | 86,235 | 106,391 | 127,467 |
-| capacity per ship (TEU) |
-| 4. Ship costs $ per day |
-| 4.1 Operating costs | 4,643 | 5,707 | 6,000 | 6,500 | 7,000 | 7,500 |
-| (OPEX) $/day |
-| 4.2 Capital cost/$ day | capital | 8,904 | 17,096 | 23,863 | 31,699 | 39,178 | 46,301 |
-| -Capital value $mill | cost | 25 | 48 | 67 | 89 | 110 | 130 |
-| -Depreciation period (years) | 20 | 20 | 20 | 20 | 20 | 20 |
-| -Interest rate (% pa) | 8% | 8% | 8% | 8% | 8% | 8% |
-| 4.3 Bunker cost ($/day) | bunker | 12,690 | 23,700 | 44,160 | 64,110 | 69,000 | 72,000 |
-| -Bunker price $/ton | cost | 300 | 300 | 300 | 300 | 300 | 300 |
-| (average) |
-| 4.4 Total cost per | 648 | 496 | 457 | 433 | 395 | 360 |
-| vessel TEU | capacity |
-| per day($/day) |
-| 4.5 Cost per container | 648 | 496 | 457 | 433 | 395 | 360 |
-| transported per annum ($) |
+| Portcalls on round voyage | schedule | 7 | 7 | 7 | 7 | 7 | 7 |
+| Days at sea | performance variable | 33.6 | 29.4 | 25.8 | 24.4 | 24.1 | 24.1 |
+| Days in port | performance variable | 5.0 | 6.7 | 8.7 | 11.4 | 13.8 | 16.9 |
+| Total voyage time (days) | performance variable | 38.5 | 36.0 | 34.5 | 35.8 | 37.9 | 40.9 |
+| Voyages per annum | performance variable | 9.5 | 10.1 | 10.6 | 10.2 | 9.6 | 8.9 |
+| **Required number of ships in weekly string** |  | 5.5 | 5.1 | 4.9 | 5.1 | 5.4 | 5.8 |
+| **3. Capacity utilization (to calculate the number of loaded containers carried)** | | | | | | | |
+| Eastbound Capacity Utilization (%) | how full ships are | 90% | 90% | 90% | 90% | 90% | 90% |
+| Westbound Capacity Utilization (%) | how full ships are | 40% | 40% | 40% | 40% | 40% | 40% |
+| Containers shipped outward (TEU) | how full ships are | 1,080 | 2,340 | 3,870 | 5,850 | 7,650 | 9,900 |
+| Containers shipped back (TEU) | how full ships are | 480 | 1,040 | 1,720 | 2,600 | 3,400 | 4,400 |
+| Cargo transported per voyage (TEU) | how full ships are | 1,560 | 3,380 | 5,590 | 8,450 | 11,050 | 14,300 |
+| **Annual transport capacity per ship (TEU)** |  | 14,785 | 34,232 | 59,097 | 86,235 | 106,391 | 127,467 |
+| **4. Ship costs $ per day** | | | | | | | |
+| 4.1 Operating costs (OPEX) $/day | capital cost | 4,643 | 5,707 | 6,000 | 6,500 | 7,000 | 7,500 |
+| 4.2 Capital cost/$ day | capital cost | 8,904 | 17,096 | 23,863 | 31,699 | 39,178 | 46,301 |
+| -Capital value $mill | capital cost | 25 | 48 | 67 | 89 | 110 | 130 |
+| -Depreciation period (years) | capital cost | 20 | 20 | 20 | 20 | 20 | 20 |
+| -Interest rate (% pa) | capital cost | 8% | 8% | 8% | 8% | 8% | 8% |
+| 4.3 Bunker cost ($/day) | bunker cost | 12,690 | 23,700 | 44,160 | 64,110 | 69,000 | 72,000 |
+| -Bunker price $/ton (average) | bunker cost | 300 | 300 | 300 | 300 | 300 | 300 |
+| 4.4 Total cost per vessel TEU capacity per day ($/day) |  | 648 | 496 | 457 | 433 | 395 | 360 |
+| **4.5 Cost per container transported per annum ($)** |  | 648 | 496 | 457 | 433 | 395 | 360 |
 
 <!-- Page 566 -->
 PRINCIPLES OF LINER SERVICE ECONOMICS 13.8
@@ -11464,102 +11190,85 @@ PRINCIPLES OF LINER SERVICE ECONOMICS 13.8
 **Table 13.8** The eight building-blocks of liner costs--cont'd
 
 
-| Vessel size (TEU) | 1,200 | 2,600 | 4,300 | 6,500 | 8,500 | 11,000 |
-| 5. Port & charges (excluding cargo handling) |
-| Port cost $/TEU | 22 | 15 | 12 | 11 | 11 | 10 |
-| Port cost $/call | 22,000 | 29,000 | 35,000 | 43,000 | 60,000 | 65,000 |
-| 6. The deployment of containers |
-| 20' containers | 14% | 14% | 14% | 14% | 14% | 14% |
-| (% ship capacity) |
-| '-Number of units loaded | 168 | 364 | 602 | 910 | 1,190 | 1,540 |
-| 40' containers | 80% | 80% | 80% | 80% | 80% | 80% |
-| (% ship capacity) | mix of boxes |
-| -Number of units loaded | needed to | 480 | 1,040 | 1,720 | 2,600 | 3,400 | 4,400 |
-| Reefer containers (% total) | operate | 6% | 6% | 6% | 6% | 6% | 6% |
-| -Number of 40' | service | 36 | 78 | 129 | 195 | 255 | 330 |
-| units loaded |
-| Total units on full | 684 | 1,482 | 2,451 | 3,705 | 4,845 | 6,270 |
-| vessel (all sizes) |
-| Container turnaround | efficiency | 75 | 75 | 75 | 75 | 75 | 75 |
-| time (days/voyage) | variables |
-| Inter-zonal repositioning (%) | 10.0% | 10.0% | 10.0% | 10.0% | 10.0% | 10.0% |
-| 7. The cost of containers and container handling |
+| Vessel size (TEU) | Group | 1,200 | 2,600 | 4,300 | 6,500 | 8,500 | 11,000 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **5. Port & charges (excluding cargo handling)** | | | | | | | |
+| Port cost $/TEU |  | 22 | 15 | 12 | 11 | 11 | 10 |
+| Port cost $/call |  | 22,000 | 29,000 | 35,000 | 43,000 | 60,000 | 65,000 |
+| **6. The deployment of containers** | | | | | | | |
+| 20' containers (% ship capacity) | mix of boxes needed to operate service | 14% | 14% | 14% | 14% | 14% | 14% |
+| '-Number of units loaded | mix of boxes needed to operate service | 168 | 364 | 602 | 910 | 1,190 | 1,540 |
+| 40' containers (% ship capacity) | mix of boxes needed to operate service | 80% | 80% | 80% | 80% | 80% | 80% |
+| -Number of units loaded | mix of boxes needed to operate service | 480 | 1,040 | 1,720 | 2,600 | 3,400 | 4,400 |
+| Reefer containers (% total) | mix of boxes needed to operate service | 6% | 6% | 6% | 6% | 6% | 6% |
+| -Number of 40' units loaded | mix of boxes needed to operate service | 36 | 78 | 129 | 195 | 255 | 330 |
+| Total units on full vessel (all sizes) | mix of boxes needed to operate service | 684 | 1,482 | 2,451 | 3,705 | 4,845 | 6,270 |
+| Container turnaround time (days/voyage) | efficiency variables | 75 | 75 | 75 | 75 | 75 | 75 |
+| Inter-zonal repositioning (%) | efficiency variables | 10.0% | 10.0% | 10.0% | 10.0% | 10.0% | 10.0% |
+| **7. The cost of containers and container handling** | | | | | | | |
 | Container costs ($/TEU/day) | 20 foot | 0.7 | 0.7 | 0.7 | 0.7 | 0.7 | 0.7 |
-| 40 foot | 1.1 | 1.1 | 1.1 | 1.1 | 1.1 | 1.1 |
-| 40 foot reefer | 6.0 | 6.0 | 6.0 | 6.0 | 6.0 | 6.0 |
-| Maintenance & repair | 50.0 | 50.0 | 50.0 | 50.0 | 50.0 | 50.0 |
-| ($/box/voyage) |
-| Terminal costs for | 220 | 220 | 220 | 220 | 220 | 220 |
-| container handling ($/lift) |
-| Refrigeration cost for | 150.0 | 150.0 | 150.0 | 150.0 | 150.0 | 150.0 |
-| reefer containers ($/TEU) |
-| Trans-shipment | 225.0 | 225.0 | 225.0 | 225.0 | 225.0 | 225.0 |
-| by sea ($/TEU) |
-| Inland intermodal | 220.0 | 220.0 | 220.0 | 220.0 | 220.0 | 220.0 |
-| transport cost ($/TEU) |
-| Interzone re-positioning ($/TEU) | 240.0 | 240.0 | 240.0 | 240.0 | 240.0 | 240.0 |
-| Cargo claims ($/box/voyage) | 30 | 30 | 30 | 30 | 30 | 30 |
-| 8. Administration costs |
-| Administrative productivity | 640 | 640 | 640 | 640 | 640 | 640 |
-| (TEU/employee) |
-| Number of employees | 23 | 53 | 92 | 135 | 166 | 199 |
-| required |
-| Cost/employee $ per annum | 60,000 | 60,000 | 60,000 | 60,000 | 60,000 | 60,000 |
-| Administration cost ($000/voyage) | 146 | 317 | 524 | 792 | 1,036 | 1,341 |
-| Source | : | CRSL, HSH Nordbanlk, Drewry Shipping Consultants |
+| Container costs ($/TEU/day) | 40 foot | 1.1 | 1.1 | 1.1 | 1.1 | 1.1 | 1.1 |
+| Container costs ($/TEU/day) | 40 foot reefer | 6.0 | 6.0 | 6.0 | 6.0 | 6.0 | 6.0 |
+| Maintenance & repair ($/box/voyage) |  | 50.0 | 50.0 | 50.0 | 50.0 | 50.0 | 50.0 |
+| Terminal costs for container handling ($/lift) |  | 220 | 220 | 220 | 220 | 220 | 220 |
+| Refrigeration cost for reefer containers ($/TEU) |  | 150.0 | 150.0 | 150.0 | 150.0 | 150.0 | 150.0 |
+| Trans-shipment by sea ($/TEU) |  | 225.0 | 225.0 | 225.0 | 225.0 | 225.0 | 225.0 |
+| Inland intermodal transport cost ($/TEU) |  | 220.0 | 220.0 | 220.0 | 220.0 | 220.0 | 220.0 |
+| Interzone re-positioning ($/TEU) |  | 240.0 | 240.0 | 240.0 | 240.0 | 240.0 | 240.0 |
+| Cargo claims ($/box/voyage) |  | 30 | 30 | 30 | 30 | 30 | 30 |
+| **8. Administration costs** | | | | | | | |
+| Administrative productivity (TEU/employee) |  | 640 | 640 | 640 | 640 | 640 | 640 |
+| Number of employees required |  | 23 | 53 | 92 | 135 | 166 | 199 |
+| Cost/employee $ per annum |  | 60,000 | 60,000 | 60,000 | 60,000 | 60,000 | 60,000 |
+| Administration cost ($000/voyage) |  | 146 | 317 | 524 | 792 | 1,036 | 1,341 |
 
 <!-- Page 567 -->
 **Table 13.9** Liner voyage cashflow model ($000 per voyage)
 
 
-| TRANSPORT OF GENERAL CARGO |
 | Vessel size (TEU) | 1,200 | 2,600 | 4,300 | 6,500 | 8,500 | 11,000 |
-| $000s |
-
-*1. Cost of the ship on the voyage*
-
+| --- | --- | --- | --- | --- | --- | --- |
+|  | $000s | $000s | $000s | $000s | $000s | $000s |
+| 1. Cost of the ship on the voyage |  |  |  |  |  |  |
 | 1.1 Operating costs | 179 | 206 | 207 | 232 | 265 | 307 |
 | 1.2 Capital costs | 343 | 616 | 824 | 1,134 | 1,485 | 1,896 |
 | 1.3 Bunker costs | 426 | 696 | 1,139 | 1,562 | 1,662 | 1,734 |
 | 1.4 Port costs | 154 | 203 | 245 | 301 | 420 | 455 |
 | 1.5 Total ship costs | 1,102 | 1,721 | 2,415 | 3,229 | 3,832 | 4,392 |
 | 1.6 Ship costs, % of total costs | 54% | 46% | 42% | 39% | 37% | 34% |
-
-*2. Costs of the containers on voyage*
-
+| 2. Costs of the containers on voyage |  |  |  |  |  |  |
 | 2.1 Cost of supplying containers | 32 | 65 | 104 | 162 | 225 | 314 |
 | 2.2 Cost of container maintenance | 34 | 74 | 123 | 185 | 242 | 314 |
 | 2.3 Total container cost | 66 | 139 | 226 | 347 | 467 | 628 |
 | 2.4 Container cost, % of total cost | 3% | 4% | 4% | 4% | 4% | 5% |
-
-*3. Administration cost*
-
+| 3. Administration cost |  |  |  |  |  |  |
 | 3.1 Administrative cost per voyage | 146 | 317 | 524 | 792 | 1,036 | 1,341 |
-| 7% | 9% | 9% | 10% | 10% | 10% |
-| 4. Cargo handling and onward transport |
+|  | 7% | 9% | 9% | 10% | 10% | 10% |
+| 4. Cargo handling and onward transport |  |  |  |  |  |  |
 | 4.1 Terminal costs for container handling | 301 | 652 | 1,078 | 1,630 | 2,132 | 2,759 |
 | 4.2 Refrigeration cost for reefer containers | 11 | 23 | 39 | 59 | 77 | 99 |
 | 4.3 Inland intermodal transport cost | 343 | 744 | 1,230 | 1,859 | 2,431 | 3,146 |
 | 4.4 Interzone repositioning | 58 | 125 | 206 | 312 | 408 | 528 |
 | 4.5 Cargo claims | 47 | 101 | 168 | 254 | 332 | 429 |
 | 4.6 Total handling & onward transport | 713 | 1,544 | 2,553 | 3,860 | 5,047 | 6,532 |
-| 4.7 Handling and onward transport, % of | 35% | 41% | 45% | 47% | 49% | 51% |
-| total cost |
-| 5. Voyage cost |
+| 4.7 Handling and onward transport, % of total cost | 35% | 41% | 45% | 47% | 49% | 51% |
+| 5. Voyage cost |  |  |  |  |  |  |
 | 5.1 Total voyage cost | 2,027 | 3,721 | 5,719 | 8,229 | 10,382 | 12,892 |
 | 5.2 Cost Per TEU eastbound leg | 938 | 795 | 739 | 703 | 679 | 651 |
 | 5.3 Cost Per TEU westbound leg | 2,111 | 1,789 | 1,662 | 1,582 | 1,527 | 1,465 |
 | 5.4 Average cost/TEU | 1,299 | 1,101 | 1,023 | 974 | 940 | 902 |
-| 5.5 % change in average cost/TEU | − | 15.3% | − | 7.1% | − | 4.8% | − | 3.5% | − | 4.0% |
-| 6. Voyage revenue ($000s) |
+| 5.5 % change in average cost/TEU |  | -15.3% | -7.1% | -4.8% | -3.5% | -4.0% |
+| 6. Voyage revenue ($000s) |  |  |  |  |  |  |
 | 6.1 Freight rate per TEU eastbound leg | 1,750 | 1,750 | 1,750 | 1,750 | 1,750 | 1,750 |
 | 6.2 Freight rate per TEU westbound leg | 750 | 750 | 750 | 750 | 750 | 750 |
 | 6.3 Total revenue eastbound leg | 1,890 | 4,095 | 6,773 | 10,238 | 13,388 | 17,325 |
 | 6.4 Revenue westbound leg | 360 | 780 | 1,290 | 1,950 | 2,550 | 3,300 |
 | 6.5 Total voyage revenue | 2,250 | 4,875 | 8,063 | 12,188 | 15,938 | 20,625 |
-| 7. Voyage profit (loss) ($000s) |
+| 7. Voyage profit (loss) ($000s) |  |  |  |  |  |  |
 | Voyage profit (loss) | 223 | 1,154 | 2,344 | 3,959 | 5,555 | 7,733 |
 | % total revenue | 10% | 24% | 29% | 32% | 35% | 37% |
+
+TRANSPORT OF GENERAL CARGO
 
 <!-- Page 568 -->
 PRINCIPLES OF LINER SERVICE ECONOMICS 13.8
@@ -11867,10 +11576,9 @@ CONTAINER PORTS AND TERMINALS 13.11
 **Table 13.10** Container traffic of 36 major ports, 1994 and 2005
 
 
-| Traffic (lifts) M TEU |
-| World |
-| rank 2005 | Country | 1994 | 2005 | % pa | Region |
-| Asia |
+| World rank 2005 |  | Country | Traffic (lifts) M TEU: 1994 | 2005 | % pa | Region |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | **Asia** |  |  |  |  |  |
 | 1 | Singapore | Singapore | 9.0 | 23.2 | 8.6% | Asia |
 | 2 | Hong Kong | Hong Kong | 9.2 | 22.4 | 8.1% | Asia |
 | 3 | Shanghai | PRC | 0.9 | 18.1 | 27.3% | Asia |
@@ -11886,8 +11594,8 @@ CONTAINER PORTS AND TERMINALS 13.11
 | 25 | Kobe | Japan | 2.7 | 2.3 | -1.5% | Asia |
 | 27 | Keelung | Taiwan | 1.9 | 2.1 | 1.1% | Asia |
 | 33 | Bangkok | Thailand | 1.3 | 1.3 | 0.6% | Asia |
-| Total Asia | 41.3 | 113.4 | 9.2% |
-| W. Europe |
+|  | Total Asia |  | 41.3 | 113.4 | 9.2% |  |
+|  | **W. Europe** |  |  |  |  |  |
 | 6 | Rotterdam | Netherlands | 4.2 | 9.3 | 7.6% | Europe |
 | 7 | Hamburg | Germany | 2.5 | 8.1 | 11.3% | Europe |
 | 11 | Antwerp | Belgium | 1.9 | 6.5 | 11.9% | Europe |
@@ -11896,12 +11604,12 @@ CONTAINER PORTS AND TERMINALS 13.11
 | 20 | Felixstowe | UK | 1.6 | 2.7 | 4.6% | Europe |
 | 26 | Le Havre | France | 0.9 | 2.1 | 8.1% | Europe |
 | 36 | La Spezia | Italy | 0.8 | 1.0 | 2.5% | Europe |
-| Total Europe | 14.0 | 36.6 | 9.1% |
-| Middle East |
+|  | Total Europe |  | 14.0 | 36.6 | 9.1% |  |
+|  | **Middle East** |  |  |  |  |  |
 | 8 | Dubai | UAE | 1.7 | 7.6 | 14.7% | Middle East |
 | 19 | Jeddah | Saudi Arabia | 0.9 | 2.9 | 10.6% | Middle East |
-| Total Middle East | 2.6 | 10.5 | 13.4% |
-| North America |
+|  | Total Middle East |  | 2.6 | 10.5 | 13.4% |  |
+|  | **North America** |  |  |  |  |  |
 | 9 | Los Angeles | USA | 2.4 | 7.5 | 11.0% | N.America |
 | 10 | Long Beach | USA | 2.1 | 6.7 | 11.3% | N.America |
 | 13 | New York | USA | 2.0 | 4.8 | 8.4% | N.America |
@@ -11910,13 +11618,12 @@ CONTAINER PORTS AND TERMINALS 13.11
 | 29 | Tacoma | USA | 1.1 | 2.1 | 6.2% | N.America |
 | 30 | Charleston | USA | 0.8 | 2.0 | 8.1% | N.America |
 | 31 | Hampton Roads | USA | 0.8 | 2.0 | 8.8% | N.America |
-| Total N. America | 11.6 | 29.4 | 8.9% |
-| Other |
+|  | Total N. America |  | 11.6 | 29.4 | 8.9% |  |
+|  | **Other** |  |  |  |  |  |
 | 32 | Melbourne | Australia | 0.7 | 1.9 | 9.3% | Oceania |
-| 34 | San Juan | Puerto Rico | 1.6 | 1.3 | − | 1.8% | S. America |
+| 34 | San Juan | Puerto Rico | 1.6 | 1.3 | -1.8% | S. America |
 | 35 | Honolulu | USA | 0.7 | 1.1 | 3.5% | N.America |
-| Total container lifts by 36 ports | 72.5 | 194.0 | 9.4% |
-| Source | : | CRSL, | Containerisation International |
+|  | Total container lifts by 36 ports |  | 72.5 | 194.0 | 9.4% |  |
 
 <!-- Page 587 -->
 TRANSPORT OF GENERAL CARGO
@@ -11945,13 +11652,7 @@ The lessons from the liner business are simple enough. By using containers to me
 SUMMARY 13.12
 
 <!-- Page 590 -->
-# Part 5
-
-
-# T H E M E R C H A N T F L E E T A N D
-
-
-# T R A N S P O R T S U P P LY
+# Part 5: THE MERCHANT FLEET AND TRANSPORT SUPPLY
 
 <!-- Page 592 -->
 ### 14.1 WHAT TYPE OF SHIP?
@@ -12008,57 +11709,46 @@ per annum, but the growth rate differed significantly between segments. The cont
 **Table 14.1** World cargo fleet showing growth rates 1990-2006 of 19 ship type segments
 
 
-| Design | Fleet m.dwt | Number | Growth |
-| No. | Start | 1990 | a | 2006 | 2006 | 1990-2006 | b | Key design issues |
+| Group | Sub-group | No. | Design start | Fleet m.dwt 1990ᵃ | Fleet m.dwt 2006 | Number 2006 | Growth 1990–2006ᵇ | Key design issues |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1. General cargo | Container | 1 | 100–999 TEU | 5 | 9 | 1,167 | 4.2% | Slow, geared |
+| 1. General cargo | Container | 1 | 1,000–2,999 TEU | 17 | 41 | 1,659 | 5.8% | Faster, some geared |
+| 1. General cargo | Container | 1 | 3,000 + TEU | 4 | 61 | 1,113 | 18.0% | Fast (25 kts), no gear |
+| 1. General cargo | Container | 1 | Total container | 26 | 111 | 3,939 | 9.4% |  |
+| 1. General cargo |  | 2 | Ro-ro | 7 | 9 | 1,109 | 2.1% | Ramp access to holds |
+| 1. General cargo |  | 3 | MPP | 17 | 23 | 2,533 | 2.0% | Open hatch, cargo gear |
+| 1. General cargo |  | 6 | Heavy lift | — | 1 | 53 |  | 53 ships, excludes MMPs |
+| 1. General cargo |  | 4 | Barge carriers |  |  | 6 |  |  |
+| 1. General cargo |  | 5 | Gen. cargo | 27 | 11 | 1,024 | –5.3% | Includes liner types and tramps |
+| 1. General cargo |  | 7 | Reefer | 7 | 7 | 1,237 | –0.1% | Refrigerated, palletized |
+| 1. General cargo |  |  | Total liner | 84 | 163 | 9,901 | 4.2% |  |
+| 2. Dry Bulk | Bulk carrier | 8 | Capesize | 48 | 111 | 703 | 5.4% | Carry ore and coal |
+| 2. Dry Bulk | Bulk carrier | 8 | Panamax | 43 | 94 | 1,386 | 5.1% | Coal, grain, few geared |
+| 2. Dry Bulk | Bulk carrier | 8 | Handymax | 31 | 67 | 1,488 | 5.0% | Workhorse, mainly geared |
+| 2. Dry Bulk | Bulk carrier | 8 | Handy | 82 | 74 | 2,762 | –0.7% | Smaller workhorse |
+| 2. Dry Bulk | of which: | 9 | Open hatch | — | 17 | 481 |  | Designed for unit loads |
+| 2. Dry Bulk |  | 10 | Ore carrier | 9 | 9 | 51 | –0.4% | Low cubic (0.6 m³/tonne)) |
+| 2. Dry Bulk |  | 11 | Chip carrier | — | 6 | 129 |  | High cubic (2 m³/tonne) |
+| 2. Dry Bulk |  | 12 | Vehicle carrier | 4 | 8 | 594 | 4.2% | Multiple decks |
+| 2. Dry Bulk |  | 13 | Cement carrier |  |  | 77 |  |  |
+| 2. Dry Bulk |  |  | Total dry bulk | 203 | 345 | 6,339 | 3.4% |  |
+| 3. Liquid Bulk | Crude | 14 | VLCC | 114 | 143 | 483 | 1.4% | Long-haul crude oil |
+| 3. Liquid Bulk | Crude | 14 | Suezmax | 35 | 54 | 350 | 2.8% | Medium-haul crude |
+| 3. Liquid Bulk | Crude | 14 | Aframax | 38 | 73 | 705 | 4.2% | Some carry products |
+| 3. Liquid Bulk | Crude | 14 | Panamax | 14 | 23 | 305 | 3.0% | Very short haul |
+| 3. Liquid Bulk | Crude | 14 | Handy | 50 | 76 | 2,414 | 2.6% | Mainly products |
+| 3. Liquid Bulk | Crude | 14 | Total oil | 243 | 368 | 4,257 | 2.6% |  |
+| 3. Liquid Bulk | of which: | 15 | Products tanker |  | 49 | 1,196 |  | Some overlap with chemicals |
+| 3. Liquid Bulk |  | 16 | Specialized tanker | 10 | 41 | 2,517 | 9.1% | More tanks and pumps |
+| 3. Liquid Bulk |  | 17 | Oil/bulk/ore | 32 | 10 | 95 | –7.2% | dry and wet |
+| 3. Liquid Bulk |  | 18 | LPG | 7 | 11 | 1,030 | 3.2% | Several freezing systems |
+| 3. Liquid Bulk |  | 19 | LNG | 4 | 17.5 | 222 | 9.3% | –161°C |
+| World Fleet |  |  |  | 573.1 | 914.7 |  | 2.9% |  |
 
-*1. General cargo 1 100-999 TEU 5 9 1,167 4.2% Slow, geared*
+ᵃ Container-ship dwt 1990 estimated from TEU statistics
 
-| Container | 1,000-2,999 TEU | 17 | 41 | 1,659 | 5.8% | Faster, some geared |
-| 3,000 | + | TEU | 4 | 61 | 1,113 | 18.0% | Fast (25 kts), no gear |
-| Total container | 26 | 111 | 3,939 | 9.4% |
-| 2 | Ro-ro | 7 | 9 | 1,109 | 2.1% | Ramp access to holds |
-| 3 | MPP | 17 | 23 | 2,533 | 2.0% | Open hatch, cargo gear |
-| 6 | Heavy lift | -- | 1 | 53 | 53 ships, excludes MMPs |
-| 4 | Barge carriers | 6 |
-| 5 | Gen. cargo | 27 | 11 | 1,024 | − | 5.3% | Includes liner types and |
-| tramps |
-| 7 | Reefer | 7 | 7 | 1,237 | − | 0.1% | Refrigerated, palletized |
-| Total liner | 84 | 163 | 9,901 | 4.2% |
+ᵇ To show the growth rate since 1990 it was necessary to use slightly different statistical groupings from those shown in Figure 14.1 and Table 2.5.
 
-*2. Dry Bulk 8 Capesize 48 111 703 5.4% Carry ore and coal*
-
-| Bulk | carrier |
-| Panamax | 43 | 94 | 1,386 | 5.1% | Coal, grain, few geared |
-| Handymax | 31 | 67 | 1,488 | 5.0% | Workhorse, mainly geared |
-| Handy | 82 | 74 | 2,762 | − | 0.7% | Smaller workhorse |
-| of which: | 9 | Open hatch | -- | 17 | 481 | Designed for unit loads |
-| 10 | Ore carrier | 9 | 9 | 51 | − | 0.4% | Low cubic (0.6 m | 3 | /tonne)) |
-| 11 | Chip carrier | -- | 6 | 129 | High cubic (2 m | 3 | /tonne) |
-| 12 | Vehicle carrier | 4 | 8 | 594 | 4.2% | Multiple decks |
-| 13 | Cement carrier | 77 |
-| Total dry bulk | 203 | 345 | 6,339 | 3.4% |
-
-*3. Liquid Bulk 14 VLCC 114 143 483 1.4% Long-haul crude oil*
-
-| Suezmax | 35 | 54 | 350 | 2.8% | Medium-haul crude |
-| Crude | Aframax | 38 | 73 | 705 | 4.2% | Some carry products |
-| Panamax | 14 | 23 | 305 | 3.0% | Very short haul |
-| Handy | 50 | 76 | 2,414 | 2.6% | Mainly products |
-| Total oil | 243 | 368 | 4,257 | 2.6% |
-| of which: | 15 | Products tanker | 49 | 1,196 | Some overlap with |
-| chemicals |
-| 16 | Specialized tanker | 10 | 41 | 2,517 | 9.1% | More tanks and pumps |
-| 17 | Oil/bulk/ore | 32 | 10 | 95 | − | 7.2% | dry and wet |
-| 18 | LPG | 7 | 11 | 1,030 | 3.2% | Several freezing systems |
-| 19 | LNG | 4 | 17.5 | 222 | 9.3% | − | 161 | ∞ | C |
-| World Fleet | 573.1 | 914.7 | 2.9% |
-
-*a Container-ship dwt 1990 estimated from TEU statistics*
-
-
-*b To show the growth rate since 1990 it was necessary to use slightly different statistical groupings from those shown in Figure 14.1 and*
-
-| Table 2.5. |
 
 *Source: Clarkson Registers April 2006 and Shipping Review and Outlook Spring 2007, CRS, London*
 
@@ -12113,49 +11803,22 @@ SEVEN QUESTIONS THAT DEFINE A DESIGN 14.2
 ### BOX 14.1 PHYSICAL UNITS IN WHICH COMMODITIES ARE SHIPPED BY SEA
 
 
-Cargo unit Comment/commodity
-
-Natural cargoes: General cargo Small parcels of loose items - e.g. boxes, bags, packing cases,
-
-drums, a few cars, machines. Dry bulk cargo Cargo in shipor hold-sized parcels that can be handled in bulk
-
-
-| by gravity/pump loading and grab/suction/pump and stowed |
-| in its natural form - e.g. oil, iron ore, coal, grain and cargo. |
-| Liquid bulk cargo | Liquid bulks raise four issues: parcel size which can vary from |
-
-*a few thousand tons to 300,000 tons; density of the liquids*
-
-| transported varies; some liquids are corrosive; some liquids |
-| are considered hazardous by regulators and require special |
-| transport. |
-| Unit bulk cargo | Large quantities of units that must be handled individually - e.g. |
-| logs, sawn lumber, steel products, bales of wool or wood |
-| pulp. |
-| Heavy and awkward cargo | Heavy loads up to 2,500 tons - e.g. project cargo, modular |
-| industrial plant, ship sections, oilfield equipment, locomo- |
-| tives, yachts, shiploader cranes. |
+| Cargo unit | Comment/commodity |
+| --- | --- |
+| **Natural cargoes:** |  |
+| General cargo | Small parcels of loose items – e.g. boxes, bags, packing cases, drums, a few cars, machines. |
+| Dry bulk cargo | Cargo in ship- or hold-sized parcels that can be handled in bulk by gravity/pump loading and grab/suction/pump and stowed in its natural form – e.g. oil, iron ore, coal, grain and cargo. |
+| Liquid bulk cargo | Liquid bulks raise four issues: parcel size which can vary from a few thousand tons to 300,000 tons; density of the liquids transported varies; some liquids are corrosive; some liquids are considered hazardous by regulators and require special transport. |
+| Unit bulk cargo | Large quantities of units that must be handled individually – e.g. logs, sawn lumber, steel products, bales of wool or wood pulp. |
+| Heavy and awkward cargo | Heavy loads up to 2,500 tons – e.g. project cargo, modular industrial plant, ship sections, oilfield equipment, locomotives, yachts, shiploader cranes. |
 | Wheeled bulk cargo | Cars, tractors, lorries, etc. shipped in large quantities. |
-| Artificial units |
-| Containers (ISO) | Standard boxes usually 8 | ′ | wide | × | 8 | ′ | 6 | ′′ | high in lengths of 20 | ′ | and |
-| 40 | ′ | , with a 20 | ′ | box typically handling 7-15 tons of cargo, |
-| typically stowing at 2.5-5 m | 3 | per ton. |
-| Intermediate Bulk Container | Large bags typically 45 | ′′ | in diameter with capacity of around |
-| 1 tonne of granular material and designed for efficient |
-| mechanical stacking, handling and discharging. |
-| Pre-slung or banded | Usually used for sacks, bales and forest products, to speed up |
-| loading and discharge. The slings are left in place during |
-| transit. |
-| Palletized cargo | Cargo is stacked on a pallet and usually held in place by steel |
-| or plastic bands or 'shrink fit' plastic - e.g. cartons of fruit. Can be |
-| handled by fork-lift truck. Dozens of sizes up to 6 | ′ | × | 4 | ′ | . |
-| Palletized cargo stows at about 4 m | 3 | /ton. |
-| Flats | Normally about 15 | ′ | × | 8 | ′ | , often with corner posts to allow |
-| stacking two high. Handled by fork-lift or crane. |
-| Barges | LASH barges load about 400 tons cargo and Seabee about |
-| 600 tons. The barges are designed to be floated to the ship |
-| and loaded/discharged as a unit. Never caught on and now |
-| obsolete. |
+| **Artificial units** |  |
+| Containers (ISO) | Standard boxes usually 8' wide × 8'6" high in lengths of 20' and 40', with a 20' box typically handling 7–15 tons of cargo, typically stowing at 2.5–5 m³ per ton. |
+| Intermediate Bulk Container | Large bags typically 45" in diameter with capacity of around 1 tonne of granular material and designed for efficient mechanical stacking, handling and discharging. |
+| Pre-slung or banded | Usually used for sacks, bales and forest products, to speed up loading and discharge. The slings are left in place during transit. |
+| Palletized cargo | Cargo is stacked on a pallet and usually held in place by steel or plastic bands or 'shrink fit' plastic – e.g. cartons of fruit. Can be handled by fork-lift truck. Dozens of sizes up to 6' × 4'. Palletized cargo stows at about 4 m³/ton. |
+| Flats | Normally about 15' × 8', often with corner posts to allow stacking two high. Handled by fork-lift or crane. |
+| Barges | LASH barges load about 400 tons cargo and Seabee about 600 tons. The barges are designed to be floated to the ship and loaded/discharged as a unit. Never caught on and now obsolete. |
 
 <!-- Page 599 -->
 A dry bulk cargo unit is a shipor hold-size parcel of homogeneous cargo - for example, 150,000 tonnes of iron ore, 70,000 tonnes of coal, 30,000 tonnes of grain, 12,000 tonnes of sugar - whilst liquid bulk cargoes range in size from 500 tonnes of a chemical to 450,000 tonnes of crude oil. Homogeneous bulk cargoes can be loaded and unloaded using grabs or suction as appropriate, and the aim is generally to design a ship that can load its full cargo deadweight of a single commodity, though in some trades that does not always apply. For example, in oil products many ships carry cargo parcels that do not fully utilize the ship's deadweight, such as naphtha, and may be designed with this in mind. In practice, the hold is the smallest size unit for dry bulk cargo and the cargo tank the smallest unit for liquid bulk. Unit bulk cargoes consist of ship-sized parcels made up of units each of which must be handled individually - for example, steel products, forest products or bales of wool. In such cases it may be possible to design 'tailored' vessels offering improved stowage or faster cargo handling. Finally, the other natural cargo units are heavy and awkward cargoes and wheeled cargoes. Heavy and awkward cargoes are worth singling out because they present special shipping problems in terms of handling and stowing the cargo. For example, the tunnel kiln for a cement plant or a small warship being shipped from Europe to the Far East both present stowage problems.
@@ -12202,12 +11865,13 @@ Getting the cargo on and off the ship is one of the most important aspects of sh
 **Table 14.2** Stowage factors for various commodity trades
 
 
-| Stowage factor |
-| Cargo type | Cu. ft/ton | Cu. m./tonne | Density index | a |
-| Dry cargo |
+| Cargo type | Stowage factor |  | Density indexa |
+| --- | --- | --- | --- |
+| Cargo type | Cu. ft/ton | Cu. m./tonne | Density indexa |
+| Dry cargo |  |  |  |
 | Iron ore | 14 | 0.40 | 31 |
 | Bauxite | 28 | 0.80 | 62 |
-| Phosphate (rock) | 30-34 | 1.00 | 77 |
+| Phosphate (rock) | 30–34 | 1.00 | 77 |
 | Soya beans | 44 | 1.20 | 92 |
 | Grain (heavy) | 45 | 1.30 | 100 |
 | Coal | 48 | 1.40 | 108 |
@@ -12219,11 +11883,11 @@ Getting the cargo on and off the ship is one of the most important aspects of sh
 | Paper (rolls) | 90 | 2.50 | 192 |
 | Wood chips | 90 | 2.50 | 192 |
 | Logs | 100 | 2.80 | 215 |
-| Containers, 20 ft | 56-105 | 1.6-3.0 | 123-230 |
-| Containers, 40 ft | 85-175 | 2.4-5.0 | 185-385 |
+| Containers, 20 ft | 56–105 | 1.6–3.0 | 123–230 |
+| Containers, 40 ft | 85–175 | 2.4–5.0 | 185–385 |
 | Cars (vehicle carrier) | 150 | 4.2 | 323 |
-| Toys, footwear | 300-400 | 8.5-11.3 | 230-869 |
-| Liquid cargo | 0 |
+| Toys, footwear | 300–400 | 8.5–11.3 | 230–869 |
+| Liquid cargo |  |  | 0 |
 | Molasses | 27.0 | 0.80 | 62 |
 | Heavy fuel oil | 32.8 | 0.93 | 72 |
 | Heavy crude oil | 33.7 | 0.95 | 73 |
@@ -12235,9 +11899,7 @@ Getting the cargo on and off the ship is one of the most important aspects of sh
 | Aviation spirit | 45.1 | 1.28 | 98 |
 | Naphtha | 46.4 | 1.32 | 101 |
 
-*a Density index based on grain (heavy) = 100. Big numbers take more hold space, whilst small numbers like iron ore*
-
-| take up little. |
+*a Density index based on grain (heavy) = 100. Big numbers take more hold space, whilst small numbers like iron ore take up little.*
 
 *Source: Various*
 
@@ -12275,9 +11937,9 @@ In practice, big ships face two important restrictions. The first is the maximum
 **Table 14.3** Economies of scale in bulk shipping (% cost per ton mile)
 
 
-| Ship size (dwt) |
-| Round voyage |
-| (miles) | 15,170 | 40,540 | 65,500 | 120,380 |
+| Round voyage (miles) | Ship size (dwt) |  |  |  |
+| --- | --- | --- | --- | --- |
+| Round voyage (miles) | 15,170 | 40,540 | 65,500 | 120,380 |
 | 1,000 | 100 | 53 | 47 | 37 |
 | 6,000 | 56 | 34 | 27 | 20 |
 | 22,000 | 52 | 30 | 24 | 17 |
@@ -12288,19 +11950,19 @@ In practice, big ships face two important restrictions. The first is the maximum
 **Table 14.4** Relationship between ship draft and port access
 
 
-| Ship draught |
-| Average size | Standard deviation* | % of world ports |
-| feet | metres | dwt | dwt | accessible |
-| 25-30 | 7.6-9.1 | 16,150 | 3,650 | 73 |
-| 30-35 | 9.2-10.7 | 23,600 | 3,000 | 55 |
-| 36-38 | 10.8-11.6 | 38,700 | 5,466 | 43 |
-| 39-44 | 11.7-13.4 | 61,000 | 5,740 | 27 |
-| 45-50 | 13.5-15.2 | 89,200 | 8,600 | 22 |
-| 51-55 | 15.3-18.5 | 123,000 | 9,000 | 19 |
+| Ship draught |  | Average size dwt | Standard deviation* dwt | % of world ports accessible |
+| --- | --- | --- | --- | --- |
+| feet | metres | Average size dwt | Standard deviation* dwt | % of world ports accessible |
+| 25–30 | 7.6–9.1 | 16,150 | 3,650 | 73 |
+| 30–35 | 9.2–10.7 | 23,600 | 3,000 | 55 |
+| 36–38 | 10.8–11.6 | 38,700 | 5,466 | 43 |
+| 39–44 | 11.7–13.4 | 61,000 | 5,740 | 27 |
+| 45–50 | 13.5–15.2 | 89,200 | 8,600 | 22 |
+| 51–55 | 15.3–18.5 | 123,000 | 9,000 | 19 |
 
 *Source: Sample of bulk carriers from the Clarkson Bulk Carrier Register and Ports of the World*
 
-| *Standard deviation is the spread of the average size |
+\*Standard deviation is the spread of the average size
 
 <!-- Page 604 -->
 #### How fast should the ship go?
@@ -12316,13 +11978,13 @@ SEVEN QUESTIONS THAT DEFINE A DESIGN 14.2
 **Table 14.5** Value per ton of sea imports
 
 
-| $ per tonne | Quantity traded, |
-| Commodity | f.o.b. | (million tonnes) | Value trade $m |
+| Commodity | $ per tonne f.o.b. | Quantity traded, (million tonnes) | Value trade $m |
+| --- | --- | --- | --- |
 | Stone, sand, gravel | 9 | 101 | 888 |
 | Iron ore | 35 | 650 | 22,750 |
 | Coal | 47 | 682 | 32,054 |
 | Grain | 200 | 273 | 54,600 |
-| TV sets | 43,076 | -- | -- |
+| TV sets | 43,076 | — | — |
 | World imports | 1,341 | 6,893 | 9,244,700 |
 
 *Source: UNCTAD (2006) Table 41 and Annex 2 and various*
@@ -12368,8 +12030,9 @@ SHIPS FOR THE GENERAL CARGO TRADES 14.3
 **Table 14.6** Principal dimensions of flat roof steel containers
 
 
-| Dimensions |
-| 20 | ′ | ¥ | 8 | ′ | ¥ | 8 | ′ | 6 | ′′ | 40 | ′ | ¥ | 8 | ′ | ¥ | 8 | ′ | 6 | ′′ |
+|  | Dimensions |  |
+| --- | --- | --- |
+|  | 20' × 8' × 8'6" | 40' × 8' × 8'6" |
 | Length (metres) | 6.1 | 12.2 |
 | Width (metres) | 2.44 | 2.44 |
 | Height (metres) | 2.6 | 2.6 |
@@ -12395,28 +12058,28 @@ SHIPS FOR THE GENERAL CARGO TRADES 14.3
 **Figure 14.3** Example of typical 8,200 TEU container-ship design Source: Drawing by Martin Stopford, based on container-ships built by Hyundai Heavy Industries
 
 
-8,200 TEU Container-ship
+**8,200 TEU Container-ship**
 
-HULL CARGO MACHINERY
-
-
+| HULL | CARGO | MACHINERY |
+| --- | --- | --- |
 | Deadweight (design): 84,200 | Maximum TEU capacity: 8,189 | Engine: MAN-B&W |
 | Deadweight (scantling): 101,662 | on deck 4,148 | Power output (hp): 91,977 |
 | Gross tonnage: 88,600 | in holds | 4,041 at 97 rpm (67.6 MW) |
-| dimensions | TEU capacity @14t per TEU: 6,130 | Six bladed propeller |
-| Overall length (m): 339 | Maximum speed (Kn): 25.4 |
+| *dimensions* | TEU capacity @14t per TEU: 6,130 | Six bladed propeller |
+| Overall length (m): 339 |  | Maximum speed (Kn): 25.4 |
 | Overall beam (m): 42.8 | Container tiers/rows: | Speed, service 90% MCR* |
-| On deck: 7/17 | 15% sea margin 24.4 knots |
+|  | On deck: 7/17 | 15% sea margin 24.4 knots |
 | Draft (m): scantling 14.5 | In holds: 8/15 | Consumption: 271 tons/day |
 | Draft (m): design 13.0 | TEU bays on deck: 19 | Bunker capacity: |
-| Width of double side: 2.23 m | TEU bays below deck: 18 | heavy oil 10,900 m | 3 |
-| Height of double bottom: 2.00 m | Reefer containers: 700 electric | diesel oil 700 m | 3 |
-| Percent high tensile steel 60% | sockets to supply 40' boxes | Diesel alternators 5 |
-| complement | Alternator output: |
-| Officers 16 | 3 | × | 2200 kW and 2 | × | 2800 kW |
+| Width of double side: 2.23 m | TEU bays below deck: 18 | heavy oil 10,900 m³ |
+| Height of double bottom: 2.00 m | Reefer containers: 700 electric | diesel oil 700 m³ |
+| Percent high tensile steel 60% | sockets to supply 40’ boxes | Diesel alternators 5 |
+|  | *complement* | Alternator output: |
+|  | Officers 16 | 3×2200 kW and 2×2800 kW |
 | Tin free SPC paint, 5 year life | Ratings 18 | Exhaust gas scrubbing plant |
-| Suez crew 6 | Bow thruster 1 | × | 2500 kW |
-| *MCR is the maximum continuous rating i.e. maximum power |
+|  | Suez crew 6 | Bow thruster 1×2500 kW |
+
+*\*MCR is the maximum continuous rating i.e. maximum power*
 
 <!-- Page 609 -->
 the bigger ships are generally used on long-haul routes where speed is an important aspect of the service. High speed brings a cost penalty in terms of fuel consumption and restricted hull design, since high speeds require a fine hull form. For short-haul trades where there are many port calls, speed is less important than economy and cargo payload. Conversely, on long hauls speed is highly productive, reducing journey times and the number of ships required to run a service. Whatever the economic justification, and it is complex, the relationship between speed and size in container-ships is clear.
@@ -12431,16 +12094,16 @@ Finally, there has also been much research into containers for transporting smal
 **Table 14.7** The container-ship fleet, by size and hull characteristics
 
 
-| Container-ship fleet size | Hull characteristics |
-| Ship size | Tot TEU | Capacity | Beam | Draft | Speed | Cons. | % |
-| TEU | No | Av. TEU | (000s) | dwt/TEU | metres | metres | knots | t/day | Geared |
-| Feeder | 0-499 | 443 | 310 | 137 | 17.2 | 17.1 | 6.1 | 14.0 | 15.7 | 29% |
-| Feedermax | 500-999 | 695 | 722 | 502 | 14.1 | 21.1 | 7.7 | 16.8 | 27.5 | 48% |
-| Handy | 1000-1999 | 1012 | 1412 | 1429 | 14.9 | 26.3 | 9.7 | 19.0 | 49.2 | 53% |
-| Sub-Panamax | 2000-2999 | 596 | 2504 | 1492 | 14.2 | 31.0 | 11.5 | 21.2 | 79.3 | 43% |
-| Panamax | 3000-3999 | 297 | 3411 | 1013 | 13.8 | 32.3 | 12.0 | 22.5 | 104.5 | 9% |
-| Post-Panamax | 4000-5999 | 533 | 4817 | 2567 | 12.9 | 35.4 | 13.3 | 24.5 | 159.5 | 0% |
-| VLBC | 6000-12000 | 215 | 7419 | 1595 | 12.6 | 41.9 | 14.2 | 25.2 | 211.3 | 0% |
+|  | Ship size TEU | Container-ship fleet size |  |  | Hull characteristics |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Ship size TEU | No | Av. TEU | Tot TEU (000s) | Capacity dwt/TEU | Beam metres | Draft metres | Speed knots | Cons. t/day | % Geared |
+| Feeder | 0–499 | 443 | 310 | 137 | 17.2 | 17.1 | 6.1 | 14.0 | 15.7 | 29% |
+| Feedermax | 500–999 | 695 | 722 | 502 | 14.1 | 21.1 | 7.7 | 16.8 | 27.5 | 48% |
+| Handy | 1000–1999 | 1012 | 1412 | 1429 | 14.9 | 26.3 | 9.7 | 19.0 | 49.2 | 53% |
+| Sub-Panamax | 2000–2999 | 596 | 2504 | 1492 | 14.2 | 31.0 | 11.5 | 21.2 | 79.3 | 43% |
+| Panamax | 3000–3999 | 297 | 3411 | 1013 | 13.8 | 32.3 | 12.0 | 22.5 | 104.5 | 9% |
+| Post-Panamax | 4000–5999 | 533 | 4817 | 2567 | 12.9 | 35.4 | 13.3 | 24.5 | 159.5 | 0% |
+| VLBC | 6000–12000 | 215 | 7419 | 1595 | 12.6 | 41.9 | 14.2 | 25.2 | 211.3 | 0% |
 | Total | Grand total | 3791 | 2304 | 8736 | 13.6 | 27.6 | 10.0 | 19.7 | 64.5 | 34% |
 
 *Source: Container-ship Register 2006, Clarkson Research Services Ltd, London*
@@ -12467,6 +12130,7 @@ SHIPS FOR THE GENERAL CARGO TRADES 14.3
 
 
 | Type | TEU '000s | Number | Av. TEU | Av. dwt | Age (yrs) | Av. speed (units) |
+| --- | --- | --- | --- | --- | --- | --- |
 | Ro-ro | 1,440 | 1,109 | 1,604 | 12,132 | 20 | 17.1 |
 | MPP | 1,057 | 2,533 | 417 | 9,142 | 16 | 14.2 |
 | Heavy lift | 15 | 40 | 364 | 18,031 | 21 | 13.9 |
@@ -12510,32 +12174,33 @@ offers a high degree of flexibility and good operating efficiency, but it is a v
 **Figure 14.4** Multi-purpose heavy lift ship, 12,000 dwt Source: Drawing by Martin Stopford, based on Damen Shipyard Combi-Freighter design
 
 
-12,000 Deadweight MPP Ship
+**12,000 Deadweight MPP Ship**
 
-CAPACITY HULL PROPULSION & EQUIPMENT
-
-
+| CAPACITY | HULL | PROPULSION & EQUIPMENT |
+| --- | --- | --- |
 | Maximum TEU capacity: 684 | Ice strengthened to class 1A | Engine: Caterpillar MaK |
-| on deck 372 | dimensions | Power output (hp): 6,000 4.4 MW |
+| on deck 372 | *dimensions* | Power output (hp): 6,000 4.4 MW |
 | in holds 312 | Overall length (m): 142.9 | Gearbox: 1 output 121 rev/min |
 | Reefer plugs: 80 | Overall beam (m): 18.9 | Propeller diameter: 5000 mm |
-| Depth, to main deck 10.95 | Maximum speed (knots): 16 |
+|  | Depth, to main deck 10.95 | Maximum speed (knots): 16 |
 | On deck: 4 tiers and 7 rows | Draft (m): scantling 8.08 | Consumption: 25 tons/day |
 | Below deck: 4 tiers and 6 rows | Draft (m): design 7.93 | Bunker capacity: |
-| TEU bays on deck: 8 | Width of double side: 2.23 m | heavy oil 765 m | 3 |
-| TEU bays below deck: 7 | Height of double bottom: 2.00 m | diesel oil 105 m | 3 |
-| Cargo capacity: 17,273 m | 3 | No 1 Hold (m): 40.9 | × | 15.8 | × | 10.5 | Water ballast 4790 m | 3 |
-| No 2 Hold (m): 55.9 | × | 15.9 | × | 10.5 | Alternator main engine driven: 1 |
-| Deadweight (scantling): 12,000 | 'Tween deck: 15 removable panels* | Alternators diesel driven: 3 |
-| Deadweight (design): 11,650 | cargo gear | 3 | × | 430 kW/1500 rpm |
+| TEU bays on deck: 8 | Width of double side: 2.23 m | heavy oil 765 m³ |
+| TEU bays below deck: 7 | Height of double bottom: 2.00 m | diesel oil 105 m³ |
+| Cargo capacity: 17,273 m³ | No 1 Hold (m): 40.9×15.8×10.5 | Water ballast 4790 m³ |
+|  | No 2 Hold (m): 55.9×15.9×10.5 | Alternator main engine driven: 1 |
+| Deadweight (scantling): 12,000 | ’Tween deck: 15 removable panels* | Alternators diesel driven: 3 |
+| Deadweight (design): 11,650 | *cargo gear* | 3×430 kW/1500 rpm |
 | Gross tonnage: 8,999 | Cargo cranes**: 2 Liebherr | Exhaust gas scrubbing plant |
-| compliment | electric-hydraulic; cylinder luffing | Bow thruster 1 | × | 730 kW |
-| Officers 8 | Lift (tonnes) | Radius |
-| Crew 5 | 80 | 14 m | hatch covers: hydraulic, folding |
-| Suez crew 4 | Max lift | 40 | 28 m | Mooring winches: 2 |
-| 30 | 32 m | Anti-heeling pump: 1 |
-| *the 'tween deck panels stow at the aft end of hold no 2 when not in use. Can be used as grain divisions. |
-| **crane structure built into double side, leaving deck and hatch cover space clear for project cargo. |
+| *compliment* | electric-hydraulic; cylinder luffing | Bow thruster 1×730 kW |
+| Officers 8 | Lift (tonnes) / Radius |  |
+| Crew 5 | 80 / 14 m | hatch covers: hydraulic, folding |
+| Suez crew 4 | Max lift 40 / 28 m | Mooring winches: 2 |
+|  | 30 / 32 m | Anti-heeling pump: 1 |
+
+*\*the 'tween deck panels stow at the aft end of hold no 2 when not in use. Can be used as grain divisions.*
+
+*\*\*crane structure built into double side, leaving deck and hatch cover space clear for project cargo.*
 
 <!-- Page 614 -->
 HEAVY LIFT VESSELS
@@ -12590,24 +12255,24 @@ SHIPS FOR THE DRY BULK TRADES 14.4
 **Table 14.9** Bulk carrier fleet, February 2007, by size and hull characteristics
 
 
-| Bulk carrier fleet size | Hull characteristics |
-| Av.dwt | Total | Length | Beam | Draft | Speed | Cons. | Cubic | % |
-| Size | No | 000s | dwt | m. | m. | m. | knots | t/day | m | 3 | /tonne | geared |
-| Handy |
+| Size | Bulk carrier fleet size |  |  | Hull characteristics |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Size | No | Av.dwt 000s | Total dwt | Length m. | Beam m. | Draft m. | Speed knots | Cons. t/day | Cubic \(m^3/tonne\) | % geared |
+| **Handy** | | | | | | | | | | |
 | 10-19,999 | 611 | 15,679 | 9.6 | 136 | 22 | 8.7 | 14.1 | 22.5 | 1.22 | 73% |
 | 20-24,999 | 487 | 23,025 | 11.2 | 154 | 24 | 9.7 | 14.3 | 26.1 | 1.27 | 89% |
 | 25-29,999 | 820 | 27,627 | 22.7 | 166 | 25 | 9.9 | 14.3 | 28.6 | 1.28 | 93% |
 | 30-39,999 | 917 | 35,270 | 32.3 | 178 | 27 | 10.7 | 14.4 | 31.3 | 1.25 | 87% |
-| Handymax |
+| **Handymax** | | | | | | | | | | |
 | 40-49,999 | 969 | 44,761 | 43.4 | 182 | 31 | 11.4 | 14.4 | 30.4 | 1.31 | 94% |
 | 50-59,999 | 498 | 53,026 | 26.4 | 186 | 32 | 12.1 | 14.5 | 34.4 | 1.28 | 80% |
-| Panamax |
+| **Panamax** | | | | | | | | | | |
 | 60-79,999 | 1,292 | 71,350 | 92.2 | 218 | 32 | 13.4 | 14.4 | 36.7 | 1.18 | 7% |
 | 80-99,999 | 121 | 87,542 | 10.6 | 230 | 37 | 13.7 | 14.3 | 42.0 | 1.14 | 2% |
-| Capesize |
+| **Capesize** | | | | | | | | | | |
 | 100-149,999 | 173 | 137,714 | 23.8 | 257 | 43 | 16.6 | 14.2 | 49.8 | 1.10 | 2% |
 | 150-199,999 | 468 | 170,227 | 79.7 | 276 | 45 | 17.6 | 14.5 | 53.9 | 1.09 | 0% |
-| 199,999 | + | 74 | 229,096 | 17.0 | 303 | 52 | 18.9 | 14.0 | 60.3 | 0.87 | 1% |
+| 199,999+ | 74 | 229,096 | 17.0 | 303 | 52 | 18.9 | 14.0 | 60.3 | 0.87 | 1% |
 | Grand total | 6,430 | 57,355 | 368.8 | 191 | 30 | 11.9 | 14.4 | 33.4 | 1.18 | 60% |
 
 *Source: Bulk Carrier Register 2006, Clarkson Research Studies, London*
@@ -12634,29 +12299,28 @@ SHIPS FOR THE DRY BULK TRADES 14.4
 **Figure 14.5** Panamax bulk carrier (77,000 dwt), built 2006 Source: Drawing by Martin Stopford based on vessel built by Oshima Shipbuilding Co., Japan
 
 
-77,000 Deadweight Panamax Bulk Carrier
+**77,000 Deadweight Panamax Bulk Carrier**
 
-HULL CARGO MACHINERY & EQUIPMENT
-
-
+| HULL | CARGO | MACHINERY & EQUIPMENT |
+| --- | --- | --- |
 | Deadweight (summer draft): 77,053 | Strengthened for heavy cargoes | Engine: MAN B&W 5S60MC-C two-stroke |
-| Deadweight (winter draft): 75,073 | Bale capacity: 89,121 m | 3 | Power max (hp): 12,670@89 rpm (9.32 MW) |
-| Gross tonnage: 40,424 | hatches | Power continuous: 10,135@83 rpm (7.45 MW) |
-| Net tonnage (international): 25,482 | Hatch dimensions: 1 18.8 | × | 14.1 | Maximum speed (knots): 14.5 (15% SM) |
-| 6 17.9 | × | 19.3 | Fuel consumption: 35 tons/day |
-| dimensions (all in metres) | hatch covers: side rolling, hydraulic |
-| Length, overall (m): 225.0 | Cargo capacity of holds | auxiliary engines |
-| Length between perpendiculars: 220.0 | Grain 000 m | 3 | 000 tonnes | Generators: 2 AC generators 475 KVA |
-| Overall beam (m): 32.3 | No 1 Hold: | 12.6 | 10.5 at 1.2m | 3 | /t | Generator engines: 2 | × | 570 hp diesels |
-| Summer draft (m): scantling 14.19 | No 2 Hold: | 13.3 | 11.1 typical of | Aux boiler: 1 cylindrical composite boiler |
-| Winter draft (m): scantling 13.90 | No 3 Hold: | 13.0 | 10.9 coal | Emergency generator: 120 KVA |
-| No 4 Hold: | 12.3 | 10.3 | Ballast pumps: 2 centrifugal type 800 m | 3 | /h |
-| tank capacities | No 5 Hold: | 13.0 | 10.9 | Fire pumps: 2 centrifugal type |
-| heavy oil 2,193 m | 3 | No 6 Hold: | 13.0 | 10.9 | Crew |
-| diesel oil 145 m | 3 | No 7 Hold: | 12.2 | 10.2 | Officers: | 9 |
-| lubricating oil 114 m | 3 | Total | 89.5 | 74.6 | Petty officer: | 3 |
-| water ballast 37,164 m | 3 | Holds, Nos 2, 4 and 6 may be empty | Ratings, pilot, 2 spare | 14 |
-| with dense iron ore in holds 1, 3, 5, and 7 | Total | 24 + 2 spare |
+| Deadweight (winter draft): 75,073 | Bale capacity: 89,121 m³ | Power max (hp): 12,670@89 rpm (9.32 MW) |
+| Gross tonnage: 40,424 | *hatches* | Power continuous: 10,135@83 rpm (7.45 MW) |
+| Net tonnage (international): 25,482 | Hatch dimensions: 1 18.8×14.1 | Maximum speed (knots): 14.5 (15% SM) |
+|  | 6 17.9×19.3 | Fuel consumption: 35 tons/day |
+| *dimensions (all in metres)* | hatch covers: side rolling, hydraulic |  |
+| Length, overall (m): 225.0 | *Cargo capacity of holds* | *auxiliary engines* |
+| Length between perpendiculars: 220.0 | Grain 000 m³ 000 tonnes | Generators: 2 AC generators 475 KVA |
+| Overall beam (m): 32.3 | No 1 Hold: 12.6 10.5 at 1.2m³/t | Generator engines: 2×570 hp diesels |
+| Summer draft (m): scantling 14.19 | No 2 Hold: 13.3 11.1 typical of | Aux boiler: 1 cylindrical composite boiler |
+| Winter draft (m): scantling 13.90 | No 3 Hold: 13.0 10.9 coal | Emergency generator: 120 KVA |
+|  | No 4 Hold: 12.3 10.3 | Ballast pumps: 2 centrifugal type 800 m³/h |
+| *tank capacities* | No 5 Hold: 13.0 10.9 | Fire pumps: 2 centrifugal type |
+| heavy oil 2,193 m³ | No 6 Hold: 13.0 10.9 | *Crew* |
+| diesel oil 145 m³ | No 7 Hold: 12.2 10.2 | Officers: 9 |
+| lubricating oil 114 m³ | Total 89.5 74.6 | Petty officer: 3 |
+| water ballast 37,164 m³ | Holds, Nos 2, 4 and 6 may be empty | Ratings, pilot, 2 spare 14 |
+|  | with dense iron ore in holds 1, 3, 5, and 7 | Total 24 + 2 spare |
 
 <!-- Page 619 -->
 a consumption of 35 tonnes per day, which is normal for a bulk carrier. There are two AC generators driven by diesel engines, an auxiliary boiler and an emergency generator. In addition, the ship has two ballast pumps handling 800 cubic metres an hour and ballast water is carried in the topside tanks, the double bottom and hopper side tanks and a floodable hold for use in heavy weather.
@@ -12716,25 +12380,25 @@ Oil tankers (Table 14.10) form by far the largest fleet of specialist bulk vesse
 **Table 14.10** The tanker fleet, January 2006
 
 
-| Tanker fleet size | Hull characteristics | Performance |
-| Size | Total dwt | Age | Beam | Draught | Capacity | Tanks | Speed | Fuel cons |
-| 000 dwt | No. | (mill.) | Av dwt | 2006 | m | m | 000 bbl | (number) | (knots) | (t/day) |
-| Small |
+| Tanker fleet size |  |  |  |  | Hull characteristics |  |  |  | Performance |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Size000 dwt | No. | Total dwt (mill.) | Av dwt | Age2006 | Beam m | Draught m | Capacity000 bbl | Tanks(number) | Speed(knots) | Fuel cons(t/day) |
+| **Small** | | | | | | | | | | |
 | 1-5 | 921 | 2.6 | 2,783 | 19 | 12.7 | 5.1 | 19 | 11 | 12.2 | 7.9 |
 | 5-9 | 1115 | 7.7 | 6,867 | 16 | 17 | 6.8 | 48 | 13.6 | 13 | 13 |
-| Handy |
+| **Handy** | | | | | | | | | | |
 | 10-19 | 728 | 11 | 15,051 | 14 | 21.7 | 8.6 | 106 | 16.5 | 14 | 22.5 |
 | 20-29 | 313 | 8.3 | 26,611 | 19 | 25.5 | 10.3 | 201 | 19 | 14.7 | 29.9 |
 | 30-39 | 589 | 21 | 35,626 | 13 | 28.8 | 11 | 254 | 18.1 | 15.1 | 37 |
 | 40-60 | 740 | 34 | 45,895 | 9 | 31.8 | 12.1 | 320 | 13.4 | 14.7 | 34.1 |
-| Panamax |
+| **Panamax** | | | | | | | | | | |
 | 60-79 | 325 | 22.6 | 69,466 | 11 | 32.8 | 13.4 | 482 | 10.9 | 14.8 | 39.1 |
-| Aframax |
+| **Aframax** | | | | | | | | | | |
 | 80-120 | 721 | 72.9 | 101,100 | 10 | 41.7 | 14.3 | 702 | 10.9 | 15 | 46 |
-| Suezmax |
+| **Suezmax** | | | | | | | | | | |
 | 120-200 | 361 | 54.4 | 150,673 | 10 | 46.7 | 16.6 | 1,011 | 11.9 | 14.9 | 62.9 |
-| VLCC |
-| 200 | + | 488 | 142.7 | 292,412 | 9 | 58.4 | 21.2 | 2,040 | 14.2 | 15.3 | 85.7 |
+| **VLCC** | | | | | | | | | | |
+| 200+ | 488 | 142.7 | 292,412 | 9 | 58.4 | 21.2 | 2,040 | 14.2 | 15.3 | 85.7 |
 | Total/Av. | 6,301 | 377 | 59,834 | 12.9 | 31.7 | 11.9 | 518 | 13.9 | 14.4 | 37.8 |
 
 *Source: Clarkson Research Studies, Tanker Register 2006, London*
@@ -12761,30 +12425,29 @@ to known areas of weakness such as the end connections of the longitudinal stiff
 **Figure 14.6** 'Suezmax' crude oil tanker (157,800 dwt) design Source: Drawing by Martin Stopford, based on design by DSME Shipbuilding Group, S. Korea
 
 
-Suezmax 157,800 dwt crude oil tanker (87,167 gt)
+**Suezmax 157,800 dwt crude oil tanker (87,167 gt)**
 
-HULL MACHINERY OTHER
-
-
-| Main Dimensions (m) | Speed & Main Engine | Navigation Equipment |
+| HULL |  | MACHINERY |  | OTHER |  |
+| --- | --- | --- | --- | --- | --- |
+| Main Dimensions (m) |  | Speed & Main Engine |  | Navigation Equipment |  |
 | Deadweight (design) | 145,900 dwt | Speed, | 15.2 kts 15% sea margin | Radar plant | 2 |
 | Scantling (scantling) | 157,800 dwt | Engine Type | Man B&W 6S70MC-C | Auto pilot/Gyro compass | 1 |
-| Length over all (m) | 274 | Power output | 22,920 bhp | × | 91 rpm (16.8 MW) | DGPS navigator | 2 |
-| Length between perp. | 264 | NCR (90% DMCR) | 20,630 bhp | × | 87.9 rpm (15.2 MW) | Painting System |
-| Breadth, moulded (m) | 48 | D.F.O.C at NCR | 60.5 MT/day | Under water hull: epoxy anti-corrosive |
-| Depth, moulded (m) | 23.2 | Cruising range | 22,900 NM | Antifouling | + | Tin free SPC |
-| Draught (design) (m) | 16 | Power Supply | Cargo tanks | Tar free epoxy |
-| Draught (scantling) (m) | 17 | Main generators | Diesel: 3 Sets | × | 950 kW | Water ballast tanks: | Tar free epoxy |
-| Tank Capacity (m | 3 | ) | Emergency generator | 1 Set | × | 300 kW | (Bottom & up to 0.5 m deck head |
-| Cargo tanks inc. slop | 175,000 | Steam Generating Plant | and down to 1.7 m only) |
-| Heavy fuel oil tanks | 4,300 | Aux. boiler | : 2 Sets | × | 35 ton/h |
-| Diesel oil tanks | 200 | Economizer: | 1 Set | × | 1.8 ton/h | Crew | 28 |
-| Fresh water tanks | 400 | Water Ballast System | % high tensile steel | 53% |
-| Ballast water tanks | 54,500 | System | Two main line |
-| Cargo System | Pump | 2 pumps | × | 2,500 m | 3 | /h | × | 30m head |
-| Segregation | Three groups | Vertical centrifugal type |
-| Pump | 3 Sets | × | 4,000 m | 3 | /h | × | 135mc | 1-Electric motor driven |
-| Vertical centrifugal, steam turbine driven | 1-Steam turbine driven |
+| Length over all (m) | 274 | Power output | 22,920 bhp×91 rpm (16.8 MW) | DGPS navigator | 2 |
+| Length between perp. | 264 | NCR (90% DMCR) | 20,630 bhp×87.9 rpm (15.2 MW) | Painting System |  |
+| Breadth, moulded (m) | 48 | D.F.O.C at NCR | 60.5 MT/day | Under water hull: epoxy anti-corrosive |  |
+| Depth, moulded (m) | 23.2 | Cruising range | 22,900 NM | Antifouling | + Tin free SPC |
+| Draught (design) (m) | 16 |  | Power Supply | Cargo tanks | Tar free epoxy |
+| Draught (scantling) (m) | 17 | Main generators | Diesel: 3 Sets × 950 kW | Water ballast tanks: | Tar free epoxy |
+| Tank Capacity (m³) |  | Emergency generator | 1 Set×300 kW | (Bottom & up to 0.5 m deck head |  |
+| Cargo tanks inc. slop | 175,000 |  | Steam Generating Plant | and down to 1.7 m only) |  |
+| Heavy fuel oil tanks | 4,300 | Aux. boiler | : 2 Sets × 35 ton/h |  |  |
+| Diesel oil tanks | 200 | Economizer: | 1 Set × 1.8 ton/h | Crew 28 |  |
+| Fresh water tanks | 400 |  | Water Ballast System | % high tensile steel | 53% |
+| Ballast water tanks | 54,500 | System | Two main line |  |  |
+| Cargo System |  | Pump | 2 pumps × 2,500 m³/h × 30m head |  |  |
+| Segregation | Three groups |  | Vertical centrifugal type |  |  |
+| Pump | 3 Sets × 4,000 m³/h × 135mc |  | 1-Electric motor driven |  |  |
+| Vertical centrifugal, steam turbine driven |  |  | 1-Steam turbine driven |  |  |
 
 <!-- Page 624 -->
 useful for carrying a combination of smaller parcels and for multi-port discharge. The cargo tanks are coated with tar-free epoxy, another useful extra.
@@ -12849,35 +12512,34 @@ SHIPS FOR LIQUID BULK CARGOES 14.5
 **Figure 14.7** Chemical parcel tanker, 11,340 dwt Source: Drawing by Martin Stopford, based on vessel built by INP Heavy Industries Co. Ltd, S. Korea
 
 
-Chemical Tanker 11,340 dwt
+**Chemical Tanker 11,340 dwt**
 
-HULL MACHINERY OTHER
-
-
-| Main Dimensions (m) | Propulsion Machinery | Cargo System |
+| HULL |  | MACHINERY |  | OTHER |  |
+| --- | --- | --- | --- | --- | --- |
+| Main Dimensions (m) |  | Propulsion Machinery |  | Cargo System |  |
 | Gtoss tons | 7,903 gt | Speed, | 14.17 kts 90% MCR | Tank segregations | 18 plus 2 slop tanks |
-| Deadweight (design) | 9,751 dwt | Engine Type | Caterpillar MAK 6M43 | Tanks on deck | 2 | × | 120 m | 3 |
+| Deadweight (design) | 9,751 dwt | Engine Type | Caterpillar MAK 6M43 | Tanks on deck | 2×120 m³ |
 | Scantling (scantling) | 11,339 dwt | Power output | 5400 kW at 500 rpm | Cargo grades | IMO II and oil products |
-| Length over all (m) | 126.2 | Fuel Consumption - main | 20.5 MT/day | Pumps (submerged) | 18 plus 2 slop tanks |
-| Length between perp. (m) | 119.2 | - auxiliaries 2.9 MT/day | Pump capacity | 14 | × | 300 m | 3 | /hr and |
-| 6 | × | 100 m | 3 | /hr |
-| Breadth, moulded (m) | 19 | Cruising range | 9,124 NM | Total discharge rate | 1500 m | 3 | per hour |
-| Depth, moulded (m) | 10.7 | Prop shaft | 140 rpm | Vapour collector for shore return |
-| Draught (design) (m) | 7.6 | -shaft generator | 1000 kW | 2 tank washing appliances per tank |
-| Draught (scantling) (m) | 8.34 | -emergency prop motor | 1000 kW | Stainless steel heating coils to |
-| maintain tanks at 82 | ∞ | C |
-| Lightweight (tonnes) | 4,300 | -main engine boost | 5,400 kW | + | 1000 kW | Vertical centrifugal, steam turbine driven |
-| Tank Capacity (m | 3 | ) | Propellor diameter | 4,600 mm | Fire extinguishing system |
-| Cargo tanks | 12,120 | Power Supply | Fire detection system |
-| Tank construction | Stainless, inc. pipes | Shaft generator | 1000 kW at 1800rpm | Complement |
-| Heavy fuel oil tanks | 550 | Diesel alternators | 3 | × | 660 kW at 900 rpm | Officers | 6 |
-| Diesel oil tanks | 162 | 3 | × | 600 kW at 900 rpm | Ratings | 8 |
-| Ballast water tanks | 4300 | Power take-in on gearbox can drive ship at 7 kts | Spare | 3 |
-| Paint System | Boilers | 2 | × | 6 ton/h | Total | 17 |
-| Under water hull: epoxy anti-corrosion | Class: Ice Class 1A |
-| Antifouling | + Tin free SPC | Bow thruster | 1 | × | 600 kW | High tensile steel | 8% |
-| Cargo tanks | Tar free epoxy |
-| Water ballast tanks: | Tar free epoxy bottom & up to 0.5 m, deck head and down to 1.7 m only |
+| Length over all (m) | 126.2 | Fuel Consumption – main | 20.5 MT/day | Pumps (submerged) | 18 plus 2 slop tanks |
+| Length between perp. (m) | 119.2 | – auxiliaries | 2.9 MT/day | Pump capacity | 14×300 m³/hr and |
+|  |  |  |  |  | 6×100 m³/hr |
+| Breadth, moulded (m) | 19 | Cruising range | 9,124 NM | Total discharge rate | 1500 m³ per hour |
+| Depth, moulded (m) | 10.7 | Prop shaft | 140 rpm | Vapour collector for shore return |  |
+| Draught (design) (m) | 7.6 | -shaft generator | 1000 kW | 2 tank washing appliances per tank |  |
+| Draught (scantling) (m) | 8.34 | -emergency prop motor | 1000 kW | Stainless steel heating coils to |  |
+|  |  |  |  | maintain tanks at 82°C |  |
+| Lightweight (tonnes) | 4,300 | -main engine boost | 5,400 kW + 1000 kW | Vertical centrifugal, steam turbine driven |  |
+| Tank Capacity (m³) |  | Propellor diameter | 4,600 mm | Fire extinguishing system |  |
+| Cargo tanks | 12,120 | Power Supply |  | Fire detection system |  |
+| Tank construction | Stainless, inc. pipes | Shaft generator | 1000 kW at 1800rpm | Complement |  |
+| Heavy fuel oil tanks | 550 | Diesel alternators | 3×660 kW at 900 rpm | Officers | 6 |
+| Diesel oil tanks | 162 |  | 3×600 kW at 900 rpm | Ratings | 8 |
+| Ballast water tanks | 4300 | Power take-in on gearbox can drive ship at 7 kts |  | Spare | 3 |
+| Paint System |  | Boilers | 2×6 ton/h | Total | 17 |
+| Under water hull: epoxy anti-corrosion |  |  |  | Class: Ice Class 1A |  |
+| Antifouling | + Tin free SPC | Bow thruster | 1×600 kW | High tensile steel | 8% |
+| Cargo tanks | Tar free epoxy |  |  |  |  |
+| Water ballast tanks: | Tar free epoxy bottom & up to 0.5 m, deck head and down to 1.7 m only |  |  |  |  |
 
 <!-- Page 628 -->
 triangulate, for example shipping oil from the Middle East to Europe and returning to Asia with a cargo of Polish coal. They could also switch between the tanker and dry bulk markets to take advantage of a rate differential, or to reduce ballast time by carrying dry and liquid cargoes on alternate legs ('triangulation voyages'). In practice, the rewards for flexibility have been slim.
@@ -12943,28 +12605,27 @@ GAS TANKERS 14.6
 **Figure 14.8** LNG tanker design with membrane tank system, 145,600 m 3 capacity, with steam turbine Source: Drawing by Martin Stopford, based on vessel built by Samsung Heavy Industries Co. S. Korea
 
 
-3 LNG Tanker 145,600m
+**LNG Tanker 145,600m³**
 
-HULL MACHINERY OTHER
-
-
-| Main Dimensions (m) | Propulsion Machinery | Cargo System |
+| HULL |  | MACHINERY |  | OTHER |  |
+| --- | --- | --- | --- | --- | --- |
+| Main Dimensions (m) |  | Propulsion Machinery |  | Cargo System |  |
 | Deadweight (design) | 71,450 dwt | Speed, | 20.6 kts 85% MCR | Cargo tanks | 4 IMO Type 2 Membrane |
 | Scantling (scantling) | 81,450 dwt | Engine Type | Steam turbine | Pump type | submerged electric |
-| Gross tons | 95,508 gt | Power output | 39,500 hp, 29,050kW | Pump capacity | 8 | × | 1800 m | 3 | /hr |
-| Length over all (m) | 283 | Main boilers | 2 | × | 66 tonnes sleem/hour | Discharge rate | 12,100 m | 3 | /hour |
-| Length between perp. | 270 | Consumption - main 171.1 MT/day | Boil off rate per day | 0.15% |
-| Breadth, moulded (m) | 43.4 | Cruising range | 9,124 miles |
-| Depth, moulded (m) | 26 | Prop shaft | 90 rpm | Bow thruster | 1 | × | 2500KW |
-| Draught (design) (m) | 11.4 | Propellor diameter | 8,600 mm fixed pitch | Complement |
-| Draught (scantling) (m) | 12.4 | Power Supply | Crew | 41 |
-| Lightweight (tonnes) | 30,740 | Turbo alternators | 2 | × | 3450 kW at 1800 rpm | Suez crew | 6 |
-| Tank Capacity (m | 3 | ) | Diesel alternator:- |
-| Cargo tanks | 145,600 | - engine | 1 | × | 3664 kW at 720 rpm |
-| Tank construction | GTT Membrane | - alternator | 1 | × | 3450 kW at 720 rpm |
-| Heavy fuel oil tanks | 7,490 |
-| Diesel oil tanks | 440 |
-| Ballast water tanks | 57,000 |
+| Gross tons | 95,508 gt | Power output | 39,500 hp, 29,050kW | Pump capacity | 8×1800 m³/hr |
+| Length over all (m) | 283 | Main boilers | 2×66 tonnes sleem/hour | Discharge rate | 12,100 m³/hour |
+| Length between perp. | 270 | Consumption – main | 171.1 MT/day | Boil off rate per day | 0.15% |
+| Breadth, moulded (m) | 43.4 | Cruising range | 9,124 miles |  |  |
+| Depth, moulded (m) | 26 | Prop shaft | 90 rpm | Bow thruster | 1×2500KW |
+| Draught (design) (m) | 11.4 | Propellor diameter | 8,600 mm fixed pitch | Complement |  |
+| Draught (scantling) (m) | 12.4 | Power Supply |  | Crew | 41 |
+| Lightweight (tonnes) | 30,740 | Turbo alternators | 2×3450 kW at 1800 rpm | Suez crew | 6 |
+| Tank Capacity (m³) |  | Diesel alternator:- |  |  |  |
+| Cargo tanks | 145,600 | - engine | 1×3664 kW at 720 rpm |  |  |
+| Tank construction | GTT Membrane | - alternator | 1×3450 kW at 720 rpm |  |  |
+| Heavy fuel oil tanks | 7,490 |  |  |  |  |
+| Diesel oil tanks | 440 |  |  |  |  |
+| Ballast water tanks | 57,000 |  |  |  |  |
 
 <!-- Page 633 -->
 3 eight submerged electric cargo pumps, each with a capacity of 1700m per hour, and the cargo can be discharged in 12 hours.
@@ -13102,26 +12763,27 @@ REGIONAL STRUCTURE OF WORLD SHIPBUILDING 15.2
 **Table 15.1** Merchant ships completed during years, 1960-2005 ('000 GT)
 
 
-| 1960 | 1977 | 1980 | 1985 | 1990 | 1995 | 2000 | 2005 |
-| Asia |
+|  | 1960 | 1977 | 1980 | 1985 | 1990 | 1995 | 2000 | 2005 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Asia** | | | | | | | | |
 | Japan | 1,839 | 11,708 | 6,094 | 9,503 | 6,663 | 9,263 | 12,020 | 16,100 |
-| South Korea | -- | 562 | 522 | 2,620 | 3,441 | 6,264 | 12,228 | 15,400 |
-| Chinese PR | -- | 110 | -- | 166 | 404 | 784 | 1,647 | 5,700 |
-| Taiwan | -- | 196 | 240 | 278 | 685 | 488 | 603 | 500 |
-| Singapore | -- | 49 | 99 | 17 |
+| South Korea | — | 562 | 522 | 2,620 | 3,441 | 6,264 | 12,228 | 15,400 |
+| Chinese PR | — | 110 | — | 166 | 404 | 784 | 1,647 | 5,700 |
+| Taiwan | — | 196 | 240 | 278 | 685 | 488 | 603 | 500 |
+| Singapore | — |  |  |  | 49 | 99 | 17 |  |
 | Total Far East | 1,839 | 12,576 | 6,856 | 12,567 | 11,242 | 16,898 | 26,515 | 37,700 |
 | % world | 22% | 46% | 52% | 69% | 70% | 75% | 84% | 85% |
-| Europe |
+| **Europe** | | | | | | | | |
 | Belgium | 123 | 132 | 138 | 133 | 60 | 11 | 0 | 0 |
 | Denmark | 214 | 709 | 208 | 458 | 408 | 1,003 | 373 | 500 |
 | France | 429 | 1,107 | 283 | 200 | 64 | 254 | 202 | 0 |
 | Germany FR | 1,124 | 1,595 | 376 | 562 | 874 | 1,120 | 974 | 1200 |
-| German DR | -- | 378 | 346 | 358 in German FR |
-| Greece | -- | 81 | 25 | 37 | 19 | 0 | 0 | 0 |
-| Irish Republic | -- | 40 | 1 | 0 | 0 | 0 | 0 | 0 |
+| German DR | — | 378 | 346 | 358 in German FR |  |  |  |  |
+| Greece | — | 81 | 25 | 37 | 19 | 0 | 0 | 0 |
+| Irish Republic | — | 40 | 1 | 0 | 0 | 0 | 0 | 0 |
 | Italy | 447 | 778 | 248 | 88 | 392 | 395 | 569 | 300 |
 | Netherlands | 682 | 240 | 122 | 180 | 190 | 205 | 300 | 200 |
-| Portugal | -- | 98 | 11 | 41 | 74 | 18 | 47 |
+| Portugal | — | 98 | 11 | 41 | 74 | 18 | 47 |  |
 | Spain | 173 | 1,813 | 395 | 551 | 366 | 250 | 462 | 100 |
 | UK | 1,298 | 1,020 | 427 | 172 | 126 | 126 | 105 | 0 |
 | Finland | 111 | 361 | 200 | 213 | 256 | 317 | 223 | 0 |
@@ -13129,19 +12791,19 @@ REGIONAL STRUCTURE OF WORLD SHIPBUILDING 15.2
 | Sweden | 710 | 2,311 | 348 | 201 | 27 | 29 | 33 | 0 |
 | Total Europe | 5,565 | 11,230 | 3,336 | 3,316 | 2,945 | 3,875 | 3,402 | 4,400 |
 | % world | 66% | 41% | 25% | 18% | 18% | 17% | 11% | 10% |
-| Eastern Europe |
-| Bulgaria | -- | 144 | 206 | 173 | 92 | 92 | 21 | 0 |
+| **Eastern Europe** | | | | | | | | |
+| Bulgaria | — | 144 | 206 | 173 | 92 | 92 | 21 | 0 |
 | Poland | 220 | 478 | 362 | 361 | 141 | 524 | 630 | 700 |
-| Romania | 296 | 170 | 204 | 175 | 229 | 139 | 0 |
-| USSR/Russia | 421 | 460 | 229 | 430 |
-| Yugoslavia | 173 | 421 | 149 | 259 | 462 |
-| Russia | 83 | 17 | -- |
-| Ukraine | 185 | 5 | 0 |
-| Croatia | 179 | 342 | 600 |
+| Romania |  | 296 | 170 | 204 | 175 | 229 | 139 | 0 |
+| USSR/Russia |  | 421 | 460 | 229 | 430 |  |  |  |
+| Yugoslavia | 173 | 421 | 149 | 259 | 462 |  |  |  |
+| Russia |  |  |  |  |  | 83 | 17 | — |
+| Ukraine |  |  |  |  |  | 185 | 5 | 0 |
+| Croatia |  |  |  |  |  | 179 | 342 | 600 |
 | Total | 393 | 1,760 | 1,347 | 1,226 | 1,300 | 1,291 | 1,154 | 1,300 |
 | % world | 5% | 6% | 10% | 7% | 8% | 6% | 4% | 3% |
-| Others |
-| Brazil | 380 | 729 | 581 | 255 | 172 | 10 | 0 |
+| **Others** | | | | | | | | |
+| Brazil |  | 380 | 729 | 581 | 255 | 172 | 10 | 0 |
 | USA | 379 | 1,012 | 555 | 180 | 23 | 7 | 92 | 300 |
 | Other countries | 586 | 573 | 278 | 286 | 288 | 225 | 523 | 744 |
 | Total | 965 | 1,965 | 1,562 | 1,047 | 566 | 404 | 626 | 1,044 |
@@ -13302,25 +12964,24 @@ ECONOMICS OF SHIPBUILDING AND SCRAPPING
 **Table 15.2** Shipbuilding cycles, 1902-2007
 
 
-| Cycle | Cyclical | peak and downswing | Cyclical trough and upswing | Full cycle |
-| no | years |
-| Year | Peak | Peak to next trough | Year | Trough | Trough to next peak |
-| '000 grt | years | % | '000 grt | years | % |
-| 1 | 1901 | 2,617 | 3 | − | 24% | 1904 | 1,987 | 2 | 47% | 5 |
-| 2 | 1906 | 2,919 | 3 | − | 45% | 1909 | 1,602 | 4 | 108% | 7 |
-| 3 | 1913 | 3,332 | 2 | − | 59% | 1915 | 1,358 | 4 | 426% | 6 |
-| 4 | 1919 | 7,144 | 4 | − | 77% | 1923 | 1,643 | 1 | 37% | 5 |
-| 5 | 1924 | 2,247 | 2 | − | 26% | 1926 | 1,674 | 4 | 73% | 6 |
-| 6 | 1930 | 2,889 | 3 | − | 83% | 1933 | 489 | 5 | 520% | 8 |
-| 7 | 1938 | 3,033 | 2 | − | 42% | 1940 | 1,754 | 4 | 1057% | 6 |
-| 8 | 1944 | 20,300 | 3 | − | 90% | 1947 | 2,092 | 11 | 343% | 14 |
-| 9 | 1958 | 9,269 | 3 | − | 14% | 1961 | 7,940 | 14 | 352% | 17 |
-| 10 | 1975 | 35,897 | 4 | − | 67% | 1979 | 11,787 | 3 | 47% | 7 |
-| 11 | 1982 | 17,289 | 5 | − | 43% | 1987 | 9,770 | 20 | 534% | 25 |
-| 12 | 2007 | 61,900 | Based on the orderbook output likely to double by 2010 |
-| Analysis of cycles |
-| Average length | 3.1 | -52% | 6.5 | 322% | 9.6 |
-| Standard deviation | 0.9 | 25% | 5.9 | 313% | 6.4 |
+| Cycle no | Cyclical peak and downswing |  |  |  | Cyclical trough and upswing |  |  |  | Full cycle years |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cycle no | Year | Peak ‘000 grt | Peak to next trough years | % | Year | Trough ‘000 grt | Trough to next peak years | % | Full cycle years |
+| 1 | 1901 | 2,617 | 3 | -24% | 1904 | 1,987 | 2 | 47% | 5 |
+| 2 | 1906 | 2,919 | 3 | -45% | 1909 | 1,602 | 4 | 108% | 7 |
+| 3 | 1913 | 3,332 | 2 | -59% | 1915 | 1,358 | 4 | 426% | 6 |
+| 4 | 1919 | 7,144 | 4 | -77% | 1923 | 1,643 | 1 | 37% | 5 |
+| 5 | 1924 | 2,247 | 2 | -26% | 1926 | 1,674 | 4 | 73% | 6 |
+| 6 | 1930 | 2,889 | 3 | -83% | 1933 | 489 | 5 | 520% | 8 |
+| 7 | 1938 | 3,033 | 2 | -42% | 1940 | 1,754 | 4 | 1057% | 6 |
+| 8 | 1944 | 20,300 | 3 | -90% | 1947 | 2,092 | 11 | 343% | 14 |
+| 9 | 1958 | 9,269 | 3 | -14% | 1961 | 7,940 | 14 | 352% | 17 |
+| 10 | 1975 | 35,897 | 4 | -67% | 1979 | 11,787 | 3 | 47% | 7 |
+| 11 | 1982 | 17,289 | 5 | -43% | 1987 | 9,770 | 20 | 534% | 25 |
+| 12 | 2007 | 61,900 | Based on the orderbook output likely to double by 2010 |  |  |  |  |  |  |
+| **Analysis of cycles** | | | | | | | | | |
+| Average length |  |  | 3.1 | -52% |  |  | 6.5 | 322% | 9.6 |
+| Standard deviation |  |  | 0.9 | 25% |  |  | 5.9 | 313% | 6.4 |
 
 *Source: Compiled by Martin Stopford from Lloyd's Register and other sources*
 
@@ -13474,43 +13135,32 @@ moves left to D2. As a result the equilibrium price falls to P2. At this lower p
 
 Putting the supply and demand dynamics shown in Figure 15.7 together, we have the basic model which drives the shipbuilding cycles we reviewed in Figure 15.3. During periods of expansion such as the long upswing from 1963 to 1977, or from 1988 to 2007, the demand curve is constantly moving to the right, with the shipyard capacity unable to keep up. As demand surges ahead so do prices, but when supply surges ahead, prices slump. The shape of the curves makes volatility normal.
 
-The long-term shipbuilding demand
+#### The long-term shipbuilding demand
 
-The volatility of shipbuilding demand means that planning ahead is a priority for the shipbuilding and the marine engineering industries, and that calls for long-term forecasts of demand for new ships. The long-term demand forecasting model splits shipbuilding demand into two parts: expansion demand ( X ) which is the tonnage of new ships needed to carry trade growth in a given period, and replacement demand ( R ), which is the tonnage of new ships required to replace ships scrapped or removed from the fleet in the same period. Both are important. For example, between 1963 and 2005 expansion demand accounted for 57% of demand for new merchant ships and replacement demand for 43%. Using this model, which is discussed further in Appendix A, shipbuilding demand forecasts are made by estimating future values of X and R .
+The volatility of shipbuilding demand means that planning ahead is a priority for the shipbuilding and the marine engineering industries, and that calls for long-term forecasts of demand for new ships. The long-term demand forecasting model splits shipbuilding demand into two parts: *expansion demand* (*X*) which is the tonnage of new ships needed to carry trade growth in a given period, and *replacement demand* (*R*), which is the tonnage of new ships required to replace ships scrapped or removed from the fleet in the same period. Both are important. For example, between 1963 and 2005 expansion demand accounted for 57% of demand for new merchant ships and replacement demand for 43%. Using this model, which is discussed further in Appendix A, shipbuilding demand forecasts are made by estimating future values of *X* and *R*.
 
 This long-term shipbuilding demand forecasting model is given by
 
+$$
+SBD_t = X_t + R_t
+$$
 (15.2)
 
 where
 
+$$
+X_t = \frac{\partial DD_t}{P_t} = \frac{DD_t - DD_{t-1}}{P_t}
+$$
 (15.3)
 
+$$
+R_t \approx F_{t-\sigma}
+$$
 (15.4)
 
-Here, for forecast year t , SBD is the requirement for new ships (in deadweight or compensated gross tonnage terms, for example) X the expansion demand, R the replacement demand, DD is the tonnage of cargo transported, P is ship productivity (measured by dividing weight of cargo delivered by ship deadweight), F is the fleet of ships by year σ of delivery, and is the economic life of ship in years (e.g. 25 years).
+Here, for forecast year *t*, *SBD* is the requirement for new ships (in deadweight or compensated gross tonnage terms, for example) *X* the expansion demand, *R* the replacement demand, *DD* is the tonnage of cargo transported, *P* is ship productivity (measured by dividing weight of cargo delivered by ship deadweight), *F* is the fleet of ships by year of delivery, and $\sigma$ is the economic life of ship in years (e.g. 25 years).
 
-Shipbuilders often use this basic model to forecast shipbuilding requirements for their own strategic planning and as a basis for international discussion of capacity levels. Expansion demand is estimated from trade growth and the incremental shipping capacity needed to carry it is calculated by applying the productivity factor P . So if t trade is projected to grow by 70 million tonnes and the productivity is 7 tonnes per deadweight per annum, the expansion demand forecast for year t would be 10 million deadweight. Forecasting replacement demand involves two steps. First, the economic life of the fleet is determined and its age profile is used to estimate the tonnage of ships
-
-≈ R F −σ t t
-
-DD X
-
-P
-
-DD DD t P
-
-t
-
-t
-
-t t
-
-∂ − − 1 = = t
-
-= + SBD X R t t t
-
-ECONOMICS OF SHIPBUILDING AND SCRAPPING
+Shipbuilders often use this basic model to forecast shipbuilding requirements for their own strategic planning and as a basis for international discussion of capacity levels. Expansion demand is estimated from trade growth and the incremental shipping capacity needed to carry it is calculated by applying the productivity factor \( P_t \). So if trade is projected to grow by 70 million tonnes and the productivity is 7 tonnes per deadweight per annum, the expansion demand forecast for year *t* would be 10 million deadweight. Forecasting replacement demand involves two steps. First, the economic life of the fleet is determined and its age profile is used to estimate the tonnage of ships
 
 <!-- Page 662 -->
 likely to be replaced in the forecast period. For example, if tankers have an expected economic life of 25 years and the fleet has 10 m.dwt of tankers 25 years old, the expected replacement demand would be 10 m.dwt. Put the two together as shown in equation (15.2) and the forecast shipbuilding demand in year t is 20 m.dwt.
@@ -13523,14 +13173,10 @@ ECONOMIC PRINCIPLES 15.4
 **Table 15.3** Shipbuilding demand model, 1990-2006, showing expansion and replacement demand in million deadweight (except where otherwise stated)
 
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| memo: | Expansion demand | Replacement demand | Total | memo: |
-| Fleet | World | Total ship | Expansion | Ships | Other | Total | ship- | ship- |
-| (1st jan) | trade | demand | demand | scrapped | removals | replacement | building | building |
-| (Mt) | X | R | demand | deliveries |
-| t | t |
-| SDM |
-| t |
+|  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | memo:Fleet(1st jan) | Expansion demand |  |  | Replacement demand |  |  | Total ship-building demand SDMt | memo:ship-building deliveries |
+|  | memo:Fleet(1st jan) | World trade (Mt) | Total ship demand | Expansion demand Xt | Ships scrapped | Other removals | Total replacement Rt | Total ship-building demand SDMt | memo:ship-building deliveries |
 | 1990 | 587.2 | 4,126 | 589 | 10.6 | 4.6 | 1.4 | 6.1 | 16.6 | 20.7 |
 | 1991 | 603.2 | 4,313 | 616 | 26.7 | 3.8 | 4.5 | 8.2 | 34.9 | 20.6 |
 | 1992 | 617.7 | 4,479 | 640 | 23.8 | 15.8 | 0.9 | 16.7 | 40.5 | 24.2 |
@@ -13548,14 +13194,9 @@ ECONOMIC PRINCIPLES 15.4
 | 2004 | 787.6 | 6,893 | 985 | 42.3 | 9.8 | 3.8 | 13.6 | 55.9 | 61.8 |
 | 2005 | 834.0 | 7,122 | 1,017 | 32.7 | 5.7 | 3.2 | 8.9 | 41.6 | 70.2 |
 | 2006 | 895.4 | 7,407 | 1,058 | 40.7 | 6.5 | 2.7 | 9.2 | 49.9 | 75.3 |
-| Total | 308.2 | 479.3 | 291.6 | 42.1 | 333.8 | 813.1 | 702.4 |
-| increase |
-| Notes |
-| Col. 1 | Clarkson fleet at year end from SRO | Col. 6 | Other removals in year |
-| Col. 2 | World Trade UNCTAD | Col. 7 | Sum col. 5 and col. 6 |
-| Col. 3 | Ship demand based on 7 tons per dwt pa | Col. 8 | col. 4 + col. 7 |
-| Col. 4 | Increase in col. 3 since previous year | Col. 9 | Memo: deliveries in year |
-| Col. 5 | Demolition in year |
+| Total increase | 308.2 |  |  | 479.3 | 291.6 | 42.1 | 333.8 | 813.1 | 702.4 |
+
+Notes
 
 <!-- Page 663 -->
 moves from around 20 m.dwt in the early 1990s to around 40 m.dwt per annum in 2006. Then, in columns 5-7 we calculate the replacement demand. Since we are dealing with history, scrapping and removals are used as the indicator of replacement demand. However, forecasters would use a model based on the life expectancy of ships.
@@ -13719,15 +13360,13 @@ SHIPBUILDING COSTS AND COMPETITIVENESS 15.6
 **Table 15.4** Merchant shipbuilding productivity by country
 
 
-| 1 | 2 | 3 | 4 | 5 |
-| PRODUCTIVITY | LABOUR COST |
-| Numbers employed | Tonnage | Productivity | Hourly | Labour |
-| on merchant new | completed | cgt per | pay | cost $ |
-| work, 2005 | 2005 | man-year | 2005 | per CGT |
-| Country | ('000 cgt) | US$ | a |
-| South Korea | b | 38,600 | 5,600 | 145.1 | 13.56 | 159 |
+|  | 1 | 2PRODUCTIVITY | 3 | 4LABOUR COST |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Numbers employedon merchant newwork, 2005 | Tonnagecompleted2005 | Productivitycgt perman-year | Hourlypay2005 | Labourcost $per CGT |
+| Country |  | ('000 cgt) |  | US$a |  |
+| South Koreab | 38,600 | 5,600 | 145.1 | 13.56 | 159 |
 | Poland | 11,818 | 500 | 42.3 | 4.54 | 182 |
-| Japan | c | 14,605 | 2,668 | 182.7 | 21.76 | 202 |
+| Japanc | 14,605 | 2,668 | 182.7 | 21.76 | 202 |
 | Spain | 2,222 | 200 | 90.0 | 17.78 | 336 |
 | Italy | 8,689 | 500 | 57.5 | 21.05 | 622 |
 | Denmark | 3,300 | 300 | 90.9 | 33.47 | 626 |
@@ -13735,7 +13374,7 @@ SHIPBUILDING COSTS AND COMPETITIVENESS 15.6
 | Germany | 14,600 | 1,100 | 75.3 | 33.00 | 745 |
 | Netherlands | 4,300 | 300 | 69.8 | 31.81 | 775 |
 | Finland | 4,290 | 200 | 46.6 | 31.93 | 1,164 |
-| Total | 65,153 | 11,568 | 177.6 |
+| Total | 65,153 | 11,568 | 177.6 |  |  |
 
 *Source: CESA, KSA (all figures are approximate)*
 
@@ -13801,17 +13440,18 @@ The People's Republic of China entered the ship demolition market in the early 1
 **Table 15.5** Shipbreaking, by country, (1985-2005)
 
 
-| 1986 | 1991 | 1995 | 2005 |
-| GT | % | GT | % | GT | % | GT | % |
-| Taiwan | 7,773 | 38 | 48 | 2 | - | 0 | 0 |
+|  | 1986 | 1986 | 1991 | 1991 | 1995 | 1995 | 2005 | 2005 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | GT | % | GT | % | GT | % | GT | % |
+| Taiwan | 7,773 | 38 | 48 | 2 | - | 0 | 0 |  |
 | China | 4,567 | 23 | 172 | 7 | 754 | 9 | 200 | 3% |
-| South Korea | 2,658 | 13 | 8 | 0 | 3 | 0 | 0 |
-| Pakistan | 861 | 4 | 445 | 19 | 1,670 | 20 | 0 |
-| Japan | 770 | 4 | 81 | 3 | 146 | 2 | 0 |
+| South Korea | 2,658 | 13 | 8 | 0 | 3 | 0 | 0 |  |
+| Pakistan | 861 | 4 | 445 | 19 | 1,670 | 20 | 0 |  |
+| Japan | 770 | 4 | 81 | 3 | 146 | 2 | 0 |  |
 | India | 636 | 3 | 695 | 29 | 2,809 | 33 | 1000 | 16% |
-| Spain | 581 | 3 | 13 | 1 | 40 | 0 | 0 |
-| Turkey | 418 | 2 | 77 | 3 | 207 | 2 | 0 |
-| Italy | 311 | 2 | 8 | 0 | 1 | 0 | 0 |
+| Spain | 581 | 3 | 13 | 1 | 40 | 0 | 0 |  |
+| Turkey | 418 | 2 | 77 | 3 | 207 | 2 | 0 |  |
+| Italy | 311 | 2 | 8 | 0 | 1 | 0 | 0 |  |
 | Bangladesh | 268 | 1 | 512 | 22 | 2,539 | 30 | 4600 | 75% |
 | Others | 1,444 | 7 | 306 | 13 | 354 | 4 | 300 | 5% |
 | Total | 20,287 | 100 | 2,365 | 100 | 8,523 | 100 | 6,100 | 100% |
@@ -13974,9 +13614,10 @@ REGULATION OF THE MARITIME INDUSTRY
 **Table 16.1** The major classification societies, November 2006
 
 
-| Fleet classed | Average ship |
-| Number | Million gt | Thousand gt | Age |
-| IACS members |
+|  |  | Fleet classed |  | Average ship |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Number | Million gt | Thousand gt | Age |
+| **IACS members** | | | | | |
 | Nippon Kaiji Kyokei | NK | 6,494 | 142.9 | 22.0 | 12.8 |
 | Lloyd's Register (LR) | LR | 6,190 | 125.8 | 20.3 | 18.4 |
 | American Bureau of Shipping | ABS | 6,292 | 103.2 | 16.4 | 19.6 |
@@ -13987,10 +13628,10 @@ REGULATION OF THE MARITIME INDUSTRY
 | China Classification Society | CCS | 1,897 | 21.6 | 11.4 | 19.4 |
 | Russian Register | RS | 3,174 | 12.5 | 3.9 | 25.2 |
 | Registro Italiano | RINA | 1,345 | 12.0 | 9.0 | 23.8 |
-| Others |
-| Indian Register | 352 | 1.5 | 4.2 | 17.6 |
-| 11 Others (under 1,000 ships) | 1,819 | 5.3 | 54.6 | 24.8 |
-| Total | 42,810 | 650.2 | 15.2 | 0 |
+| **Others** | | | | | |
+| Indian Register |  | 352 | 1.5 | 4.2 | 17.6 |
+| 11 Others (under 1,000 ships) |  | 1,819 | 5.3 | 54.6 | 24.8 |
+| Total |  | 42,810 | 650.2 | 15.2 | 0 |
 
 *Note: The statistics cover only vessels included in Clarkson Registers*
 
@@ -14105,6 +13746,7 @@ In recent years the flag state issue has been crucial for maritime economics bec
 
 
 | Distance miles | Number countries |
+| --- | --- |
 | 3 | 20 |
 | 4 | 2 |
 | 6 | 4 |
@@ -14150,55 +13792,20 @@ REGULATION OF THE MARITIME INDUSTRY
 
 
 | Period | Flag of registry | Motivation |
-| 16th century | Spanish | English merchants circumvented restrictions |
-| limiting non-Spanish vessels from |
-| West Indies trade. |
-| 17th century | French | English fishermen in Newfoundland used |
-| French registry as a means to continue |
-| operation in conjunction with British registry |
-| fishing boats. |
-| 19th century | Norwegian | British trawler owners changed registry to fish |
-| off Moray Firth. |
-| Napoleonic War | German | English shipowners changed registry to avoid |
-| the French blockade. |
-| Portuguese | US shipowners in Massachusetts changed |
-| registry to avoid capture by the British. |
-| 1922 | Panamanian | Two ships of United American Lines |
-| changed from US registry to avoid laws on |
-| serving alcoholic beverages aboard US |
-| ships. |
-| 1920-1930 | Panamanian | US shipowners switched registry to reduce |
-| operating costs by employing cheaper |
-| shipboard labour. |
-| 1930s | Panamanian | Shipowners with German-registered ships |
-| switched to Panamanian registry to avoid |
-| possible seizure. |
-| 1939-1941 | Panamanian | With encouragement from the US government, |
-| shipowners switched to Panamanian registry |
-| to assist the Allies without violating the |
-| neutrality laws. European shipowners |
-| also switched to Panamanian registry to |
-| avoid wartime requisitioning of their |
-| vessels. |
-| 1946-1949 | Panamanian | More than 150 ships sold under the US |
-| Merchant Sales Act of 1946 were registered |
-| in Panama - as it offered liberal registration |
-| and taxation advantages. |
-| 1949 | Liberian | Low registration fees, absence of Liberian |
-| taxes, absence of operating and |
-| crewing restrictions made registry |
-| economically attractive. |
-| 1950-late 1970s | Flags of convenience | As registry in USA and other countries became |
-| develop as preferred | increasingly uneconomical, many countries |
-| registration for the | competed to become 'flags of convenience' |
-| independent | for ship registrations; only a few succeeded |
-| shipping industry | in attracting significant tonnage. |
-| 1982-2007 | National flags start | 1982 Paris Memorandum of Understanding |
-| to enforce regulations | in which 14 European states agreed to work |
-| on ships in their | together to ensure that ships visiting their |
-| coastal waters | ports complied with international |
-| conventions on safety and pollution. |
-| Others followed. |
+| --- | --- | --- |
+| 16th century | Spanish | English merchants circumvented restrictions limiting non-Spanish vessels from West Indies trade. |
+| 17th century | French | English fishermen in Newfoundland used French registry as a means to continue operation in conjunction with British registry fishing boats. |
+| 19th century | Norwegian | British trawler owners changed registry to fish off Moray Firth. |
+| Napoleonic War | German | English shipowners changed registry to avoid the French blockade. |
+| Napoleonic War | Portuguese | US shipowners in Massachusetts changed registry to avoid capture by the British. |
+| 1922 | Panamanian | Two ships of United American Lines changed from US registry to avoid laws on serving alcoholic beverages aboard US ships. |
+| 1920–1930 | Panamanian | US shipowners switched registry to reduce operating costs by employing cheaper shipboard labour. |
+| 1930s | Panamanian | Shipowners with German-registered ships switched to Panamanian registry to avoid possible seizure. |
+| 1939–1941 | Panamanian | With encouragement from the US government, shipowners switched to Panamanian registry to assist the Allies without violating the neutrality laws. European shipowners also switched to Panamanian registry to avoid wartime requisitioning of their vessels. |
+| 1946–1949 | Panamanian | More than 150 ships sold under the US Merchant Sales Act of 1946 were registered in Panama - as it offered liberal registration and taxation advantages. |
+| 1949 | Liberian | Low registration fees, absence of Liberian taxes, absence of operating and crewing restrictions made registry economically attractive. |
+| 1950–late 1970s | Flags of convenience develop as preferred registration for the independent shipping industry | As registry in USA and other countries became increasingly uneconomical, many countries competed to become ‘flags of convenience’ for ship registrations; only a few succeeded in attracting significant tonnage. |
+| 1982–2007 | National flags start to enforce regulations on ships in their coastal waters | 1982 Paris Memorandum of Understanding in which 14 European states agreed to work together to ensure that ships visiting their ports complied with international conventions on safety and pollution. Others followed. |
 
 *Source: Cooper (1986)*
 
@@ -14232,13 +13839,10 @@ REGULATION OF THE MARITIME INDUSTRY
 **Table 16.4** World merchant fleet by ownership and registration, January 2005
 
 
-| (1) | (2) | (3) | (4) | (5) |
-| Flag state | '000 dwt |
+*1. National registers ('000 dwt)*
 
-*1. NATIONAL REGISTERS*
-
-| Registered | % on home |
-| Home | Overseas | Total | register |
+| Flag state (1) | Registered home (2) | Registered overseas (3) | Total (4) | % on home register (5) |
+| --- | --- | --- | --- | --- |
 | Greece | 50,997 | 104,147 | 155,144 | 33% |
 | Japan | 12,611 | 105,051 | 117,662 | 11% |
 | Germany | 9,033 | 48,878 | 57,911 | 16% |
@@ -14254,12 +13858,12 @@ REGULATION OF THE MARITIME INDUSTRY
 | India | 11,729 | 980 | 12,709 | 92% |
 | Sweden | 1,530 | 3,889 | 5,419 | 28% |
 | Others | 70,915 | 80,963 | 151,877 | 47% |
-| Total national registers | 274,697 | 523,326 | 798,022 |
+| Total national registers | 274,697 | 523,326 | 798,022 |  |
 
-*2. INTERNATIONAL REGISTERS*
+*2. International registers ('000 dwt)*
 
-| Fleet Owned by | % owned by |
-| Total | Nationals | Foreigners | nationals |
+| Flag state (1) | Fleet total (2) | Owned by nationals (3) | Owned by foreigners (4) | % owned by nationals (5) |
+| --- | --- | --- | --- | --- |
 | Singapore | 40,934 | 12,424 | 28,510 | 30% |
 | Norwegian Int. Registry | 21,262 | 12,424 | 8,838 | 58% |
 | Hong Kong (China) | 43,957 | 17,246 | 26,711 | 39% |
@@ -14270,29 +13874,28 @@ REGULATION OF THE MARITIME INDUSTRY
 | Netherlands Antilles | 2,132 | 616 | 1,516 | 29% |
 | Total international registers | 131,798 | 55,913 | 75,885 | 42% |
 
-*3. OPEN REGISTERS ('FLAGS OF CONVENIENCE')*
+*3. Open registers ('flags of convenience') ('000 dwt)*
 
-| Fleet Owned by | % owned by |
-| Total | Nationals | Foreigners | nationals |
-| Panama | 177,866 | 0 | 177,866 | -- |
-| Liberia | 76,372 | 0 | 76,372 | -- |
-| Bahamas | 41,835 | 0 | 41,835 | -- |
-| Malta | 30,971 | 0 | 30,971 | -- |
+| Flag state (1) | Fleet total (2) | Owned by nationals (3) | Owned by foreigners (4) | % owned by nationals (5) |
+| --- | --- | --- | --- | --- |
+| Panama | 177,866 | 0 | 177,866 | — |
+| Liberia | 76,372 | 0 | 76,372 | — |
+| Bahamas | 41,835 | 0 | 41,835 | — |
+| Malta | 30,971 | 0 | 30,971 | — |
 | Cyprus | 31,538 | 459 | 31,079 | 1% |
-| Bermuda | 6,206 | -- | 6,206 | -- |
+| Bermuda | 6,206 | — | 6,206 | — |
 | St Vincent & Grenadines | 6,857 | 0 | 6,857 | 0 |
 | Antigua & Barbuda | 8,383 | 0 | 8,383 | 0 |
 | Cayman Islands | 4,040 | 0 | 4,040 | 0 |
 | Luxemburg | 794 | 0 | 794 | 0 |
 | Vanuatu | 2,077 | 0 | 2,077 | 0 |
 | Gibraltar | 1,281 | 0 | 1,281 | 0 |
-| Total open registers | 388,220 | -- | 387,761 | 0% |
-| World total* (sum of col 2) | 794,715 |
+| Total open registers | 388,220 | — | 387,761 | 0% |
+| World total* (sum of col 2) | 794,715 |  |  |  |
 
-*Source: United Nations Review of Maritime Transport, 2005. Section 1 "National Registers" is from Table 16, p. 33; Sections 2 "International*
+*Source: United Nations Review of Maritime Transport, 2005. Section 1 "National Registers" is from Table 16, p. 33; Sections 2 "International Registers" and 3 "Open Registers" are from Table 18 p. 37*
 
-| Registers" and 3 "Open Registers" are from Table 18 p. 37 |
-| * Of which: National registers 35%; International registers 17%; Open registers 48% |
+\* Of which: National registers 35%; International registers 17%; Open registers 48%
 
 <!-- Page 696 -->
 #### The economic role of open registers
@@ -14476,46 +14079,27 @@ INTERNATIONAL MARITIME ORGANIZATION 16.7
 **Table 16.5** Major IMO conventions relating to maritime safety and pollution prevention for merchant shipping
 
 
-| Entry into force |
-| No. | Instrument | Date | % fleet |
-| 1 | SOLAS | International Convention for the Safety of Life at | 25/05/80 | 99 |
-| Sea, 1974* as amended, and its Protocols |
-| (1978, 1988) |
-| 2 | SAR | International Convention on Maritime Search and | 22/06/85 | 52 |
-| Rescue, 1979 |
-| 3 | INTERVENTION | International Convention relating to Intervention on | 06/05/75 | 73 |
-| the High Seas in Cases of Oil Pollution Casualties, |
-| 1969, and its Protocol (1973) |
-| 4 | MARPOL | International Convention for the Prevention of | 02/10/83 | 98 |
-| Pollution from Ships, 1973, and its Protocol (1978) |
-| Annex I (2 Oct. 1983); Annex II (6 April 1987) |
-| Annex III (1 July 1992); IV; Annex V (31 Dec. 1988) |
+| No. |  | Instrument | Entry into force |  |
+| --- | --- | --- | --- | --- |
+| No. |  | Instrument | Date | % fleet |
+| 1 | SOLAS | International Convention for the Safety of Life at Sea, 1974* as amended, and its Protocols (1978, 1988) | 25/05/80 | 99 |
+| 2 | SAR | International Convention on Maritime Search and Rescue, 1979 | 22/06/85 | 52 |
+| 3 | INTERVENTION | International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969, and its Protocol (1973) | 06/05/75 | 73 |
+| 4 | MARPOL | International Convention for the Prevention of Pollution from Ships, 1973, and its Protocol (1978) Annex I (2 Oct. 1983); Annex II (6 April 1987) Annex III (1 July 1992); IV; Annex V (31 Dec. 1988) | 02/10/83 | 98 |
 | 5 | CSC | International Convention for Safe Containers (1972) | 06/07/77 | 62 |
-| 6 | OPRC | International Convention on Oil Pollution Preparedness, | 13/05/95 | 65 |
-| Response and Co-operation, 1990 |
-| 7 | LC | Convention on the Prevention of Marine Pollution | 30/08/75 | 69 |
-| by Dumping of Wastes and Other Matter, 1972 |
-| as amended, and its Protocol (1996) |
-| 8 | COLREG | Convention on the International Regulations for | 15/07/77 | 98 |
-| Preventing Collisions at Sea, 1972, as amended |
-| 9 | FAL | Convention on Facilitation of International | 05/03/67 | 69 |
-| Maritime Traffic, 1965, as amended |
-| 10 | STCW | International Convention on Standards of | 28/04/84 | 99 |
-| Training, Certification and Watchkeeping for |
-| Seafarers, 1978, as amended |
-| 11 | SUA | Convention for the Suppression of Unlawful Acts | 01/03/92 | 92 |
-| against the Safety of Maritime Navigation, |
-| 1988, and its Protocol (1988) |
-| 12 | LL | International Convention on Load Lines, 1966, | 21/07/68 | 99 |
-| as amended, and its Protocol (1988) |
-| 13 | TONNAGE | International Convention on Tonnage Measurement | 18/07/82 | 99 |
-| of Ships, 1969 |
-| 14 | CSC | International Convention for Safe Containers, 1972 | 06/09/77 | 62 |
-| as amended |
+| 6 | OPRC | International Convention on Oil Pollution Preparedness, Response and Co-operation, 1990 | 13/05/95 | 65 |
+| 7 | LC | Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972 as amended, and its Protocol (1996) | 30/08/75 | 69 |
+| 8 | COLREG | Convention on the International Regulations for Preventing Collisions at Sea, 1972, as amended | 15/07/77 | 98 |
+| 9 | FAL | Convention on Facilitation of International Maritime Traffic, 1965, as amended | 05/03/67 | 69 |
+| 10 | STCW | International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, as amended | 28/04/84 | 99 |
+| 11 | SUA | Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, 1988, and its Protocol (1988) | 01/03/92 | 92 |
+| 12 | LL | International Convention on Load Lines, 1966, as amended, and its Protocol (1988) | 21/07/68 | 99 |
+| 13 | TONNAGE | International Convention on Tonnage Measurement of Ships, 1969 | 18/07/82 | 99 |
+| 14 | CSC | International Convention for Safe Containers, 1972 as amended | 06/09/77 | 62 |
 | 15 | SALVAGE | International Convention on Salvage, 1989 | 14/07/96 | 38 |
-| 16 | ISM Code | Management Code for the Safe Operation of Ships | 01/12/09 |
-| and Pollution Prevention |
-| Status as at October 2006 |
+| 16 | ISM Code | Management Code for the Safe Operation of Ships and Pollution Prevention | 01/12/09 |  |
+
+Status as at October 2006
 
 *Source: International Maritime Organization (London)*
 
@@ -14645,43 +14229,51 @@ REGULATORY ROLE OF THE COASTAL AND PORT STATES 16.9
 
 **Table 16.6** ILO Consolidated Maritime Labour Regulations, 2006*
 
+*Title 1. Minimum requirements for seafarers to work on a ship*
 
-| Title 1. Minimum requirements for seafarers to work on a ship |
-| • | Minimum age |
-| • | Medical certificate |
-| • | Training and qualifications |
-| • | Recruitment and placement |
-| Title 2. Conditions of employment: seafarers' employment |
-| • | Wages |
-| • | Hours of work and hours of rest; entitlement of leave |
-| • | Repatriation |
-| • | Seafarer compensation for the ship's loss; manning levels |
-| • | Career and skill development and opportunities for seafarers' employment |
-| Title 3. Accommodation, recreational facilities, food and cater | ing |
-| • | Accommodation and recreational facilities |
-| • | Food and catering |
-| Title 4: Health protection |
-| • | Medical care, welfare and social security protection |
-| • | Medical care on board ship and ashore |
-| • | Shipowner's liability |
-| • | Health and safety protection and accident prevention |
-| • | Access to shore-based welfare facilities |
-| • | Social security |
-| Title 5. Compliance and enforcement |
-| Flag state responsibilities |
-| • | General principles |
-| • | Authorization of recognized organizations |
-| • | Maritime labour certificate and declaration of maritime labour compliance |
-| • | Inspection and enforcement; on-board complaint procedures; marine |
-| casualties |
-| Port state responsibilities |
-| • | Inspections in port |
-| • | Onshore seafarer complaint-handling procedures |
-| • | Labour-supplying responsibilities |
+- Minimum age
+- Medical certificate
+- Training and qualifications
+- Recruitment and placement
 
-*Note: This regulation was adopted in 2006, but is not expected to come into force until 2011*
+*Title 2. Conditions of employment: seafarers' employment*
 
-| when the necessary ratifications have been achieved |
+- Wages
+- Hours of work and hours of rest; entitlement of leave
+- Repatriation
+- Seafarer compensation for the ship's loss; manning levels
+- Career and skill development and opportunities for seafarers' employment
+
+*Title 3. Accommodation, recreational facilities, food and catering*
+
+- Accommodation and recreational facilities
+- Food and catering
+
+*Title 4: Health protection*
+
+- Medical care, welfare and social security protection
+- Medical care on board ship and ashore
+- Shipowner's liability
+- Health and safety protection and accident prevention
+- Access to shore-based welfare facilities
+- Social security
+
+*Title 5. Compliance and enforcement*
+
+Flag state responsibilities
+
+- General principles
+- Authorization of recognized organizations
+- Maritime labour certificate and declaration of maritime labour compliance
+- Inspection and enforcement; on-board complaint procedures; marine casualties
+
+Port state responsibilities
+
+- Inspections in port
+- Onshore seafarer complaint-handling procedures
+- Labour-supplying responsibilities
+
+*Note: This regulation was adopted in 2006, but is not expected to come into force until 2011 when the necessary ratifications have been achieved*
 
 <!-- Page 711 -->
 specific areas in which legislation is permitted - the main ones are safety of navigation; protection of navigational aids; preservation of the environment and prevention, reduction and control of pollution; and the prevention of infringement of customs and sanitary laws, etc. However Article 21 of UNCLOS 1982 specifically states that the legislation of coastal states 'shall not apply to the design, construction, manning or equipment of foreign ships, unless they are giving effect to generally accepted international rules or standards'. This is intended to prevent a 'nightmare scenario' in which ships are subject to different construction and crewing standards in different territorial waters. However, it also endorses the coastal state's right to enforce international regulations in its territorial waters, and this gave rise to the port state control movement.
@@ -14835,13 +14427,7 @@ Finally, the competitive practices of the shipping industry are also subject to 
 SUMMARY 16.11
 
 <!-- Page 720 -->
-# Part 6
-
-
-# F O R E C A S T I N G A N D
-
-
-# P L A N N I N G
+# Part 6: FORECASTING AND PLANNING
 
 <!-- Page 722 -->
 ### 17.1 THE APPROACH TO MARITIME FORECASTING
@@ -15110,18 +14696,18 @@ MARITIME FORECASTING AND MARKET RESEARCH
 **Table 17.1** The forecasting applications matrix
 
 
-| Time-scale |
-| Momentary | Short | Medium | Long |
-| 1 week | 18 Months | 5-10 Years | 20 Years |
+|  | Time-scale |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Momentary1 week | Short18 Months | Medium5–10 Years | Long20 Years |
 | Bulk shipping companies | Chartering | Budget | Investment | Strategy |
-| Liner shipping companies | Budget | Investment | Strategy |
+| Liner shipping companies |  | Budget | Investment | Strategy |
 | Cargo owner | Chartering | Budget | Investment | Strategy |
 | Trader | Charteing | Advisory | Business Plan | Strategy |
 | Shipbroker | Chartering | Advisory | Business Plan | Strategy |
-| Shipyard | Budget | Business Plan | Strategy |
-| Equipment manufacturer | Budget | Business Plan | Strategy |
-| Port/terminal | Budget | Business Plan | Strategy |
-| Government | Budget | Policy | Policy |
+| Shipyard |  | Budget | Business Plan | Strategy |
+| Equipment manufacturer |  | Budget | Business Plan | Strategy |
+| Port/terminal |  | Budget | Business Plan | Strategy |
+| Government |  | Budget | Policy | Policy |
 | Total | 4 | 8 | 7 | 1 |
 
 <!-- Page 736 -->
@@ -15262,23 +14848,33 @@ STAGE 2: THE SEABORNE TRADE FORECAST
 
 The next step is to forecast seaborne trade during the period under review. The simplest method is to use a regression model of the following type:
 
-= ST f ( GDP ) (17.1) t t
+\[
+ST_t = f(GDP_t)
+\]
 
-where ST is seaborne trade and GDP is gross domestic product, both in year t .
+(17.1)
+
+where ST is seaborne trade and GDP is gross domestic product, both in year t.
 
 Suppose, for example, we assume that there is a linear relationship between seaborne trade and gross domestic product. The linear equation which represents this model is:
 
-= + ST a bGDP (17.2) t t
+\[
+ST_t = a + bGDP_t
+\]
 
-This model suggests that the two variables, seaborne trade and gross domestic product move together in a linear way. For example, if industrial production increases by $1 billion, seaborne trade increases by 100,000 tons; whilst if industrial production increases by $2 billion, seaborne trade increases by 200,000 tons. The precise nature of the relationship is measured by the two parameters a and b . Using past data and the linear regression technique we can estimate the value of these parameters. As an example, Figure 17.4(a) shows this model fitted to data for the period 1982-1995 using a linear regression:
+(17.2)
 
-= − + ST 26.289 30.9. GDP (17.3) t t
+This model suggests that the two variables, seaborne trade and gross domestic product move together in a linear way. For example, if industrial production increases by $1 billion, seaborne trade increases by 100,000 tons; whilst if industrial production increases by $2 billion, seaborne trade increases by 200,000 tons. The precise nature of the relationship is measured by the two parameters \(a\) and \(b\). Using past data and the linear regression technique we can estimate the value of these parameters. As an example, Figure 17.4(a) shows this model fitted to data for the period 1982–1995 using a linear regression:
 
-What does this model tell us? The estimate for b shows us that during the period 1982-1995, for each 1 point increase in the GDP index, seaborne trade increased by 30.9 million tonnes. The 'fit' of the equation is excellent, with a correlation coefficient of 0.99, which means that changes in industrial production 'explain' 99% of the changes in sea trade. If we accept the model, a forecast of seaborne trade can then be made by substituting an assumed value of GDP and calculating the associated level of seaborne trade.
+\[
+ST_t = -26.289 + 30.9. GDP_t
+\]
 
-How reliable is this model? One way to test it is by carrying out a simulation analysis. We feed the actual GDP index for the years 1995-2005 into the equation and compare the predicted level of sea trade with the actual trade volume. The comparison of projected with actual trade growth in Figure 17.4(a) shows that the model worked very well. Anyone who used it in 1995 to forecast trade volume would have been correct to within 0.1%. There were a few small divergences along the way, as the dotted line showing the predicted trade shows - the prediction was low in 1997 and high in 2002. But overall the model works very well, and provided the correct assumptions were made about GDP the result would have been very accurate.
+(17.3)
 
-MARITIME FORECASTING AND MARKET RESEARCH
+What does this model tell us? The estimate for b shows us that during the period 1982–1995, for each 1 point increase in the GDP index, seaborne trade increased by 30.9 million tonnes. The ‘fit’ of the equation is excellent, with a correlation coefficient of 0.99, which means that changes in industrial production ‘explain’ 99% of the changes in sea trade. If we accept the model, a forecast of seaborne trade can then be made by substituting an assumed value of GDP and calculating the associated level of seaborne trade.
+
+How reliable is this model? One way to test it is by carrying out a simulation analysis. We feed the actual GDP index for the years 1995–2005 into the equation and compare the predicted level of sea trade with the actual trade volume. The comparison of projected with actual trade growth in Figure 17.4(a) shows that the model worked very well. Anyone who used it in 1995 to forecast trade volume would have been correct to within 0.1%. There were a few small divergences along the way, as the dotted line showing the predicted trade shows – the prediction was low in 1997 and high in 2002. But overall the model works very well, and provided the correct assumptions were made about GDP the result would have been very accurate.
 
 <!-- Page 744 -->
 FREIGHT RATE FORECASTING 17.6
@@ -15387,36 +14983,27 @@ ANALYTICAL TECHNIQUES 17.8
 **Table 17.2** Overview of five analytical techniques used in shipping
 
 
-| Analytical technique | Main characteristic |
-| 1 | Opinion survey |
-| Delphi technique | Discussion session in which group of experts make a consensus |
-| forecast |
-| Opinion surveys | Send questionnaire to selection of experts and analyse results |
-| 2 | Trend analysis |
-| Naive | Simple rule e.g. 'no change', or 'if earnings are more than twice OPEX |
-| they will fall' |
-| Trend extrapolation | Fit a trend using one of several methodologies and extrapolate |
-| forward |
-| Smoothing | Smooth out fluctuations to obtain average change, and project this |
-| Decomposition | Split out trend, seasonality, cyclicality and random fluctuations, |
-| and project each separately |
-| Filters | Forecasts are expressed as a linear combination of past actual values |
-| and/or errors |
-| Autoregressive (ARMA) | Forecasts expressed as a linear combination of past actual values |
-| Box-Jenkins model | Variant of the ARMA model, with rules to deal with the problem |
-| of stability |
-| 3 | Mathematical model |
-| Single regression | Estimated equation with one explanatory variable to predict target |
-| variable |
-| Multiple regression | Estimated equation with more than one independent variable to predict |
-| target variable |
-| Econometric models | System of regression equations to predict target variable |
-| Supply-demand models | Estimate supply and demand from their component parts and predict |
-| change in balance |
-| Sensitivity analysis | Examine the sensitivity of the forecast to different assumptions |
-| 4 | Probability analysis |
-| Monte Carlo | Probability analysis used to calculate the likelihood of a particular |
-| outcome occurring. |
+| Analytical technique |  | Main characteristic |
+| --- | --- | --- |
+| 1 | Opinion survey |  |
+| 1 | Delphi technique | Discussion session in which group of experts make a consensus forecast |
+| 1 | Opinion surveys | Send questionnaire to selection of experts and analyse results |
+| 2 | Trend analysis |  |
+| 2 | Naive | Simple rule e.g. ‘no change’, or ‘if earnings are more than twice OPEX they will fall’ |
+| 2 | Trend extrapolation | Fit a trend using one of several methodologies and extrapolate forward |
+| 2 | Smoothing | Smooth out fluctuations to obtain average change, and project this |
+| 2 | Decomposition | Split out trend, seasonality, cyclicality and random fluctuations, and project each separately |
+| 2 | Filters | Forecasts are expressed as a linear combination of past actual values and/or errors |
+| 2 | Autoregressive (ARMA) | Forecasts expressed as a linear combination of past actual values |
+| 2 | Box-Jenkins model | Variant of the ARMA model, with rules to deal with the problem of stability |
+| 3 | Mathematical model |  |
+| 3 | Single regression | Estimated equation with one explanatory variable to predict target variable |
+| 3 | Multiple regression | Estimated equation with more than one independent variable to predict target variable |
+| 3 | Econometric models | System of regression equations to predict target variable |
+| 3 | Supply-demand models | Estimate supply and demand from their component parts and predict change in balance |
+| 3 | Sensitivity analysis | Examine the sensitivity of the forecast to different assumptions |
+| 4 | Probability analysis |  |
+| 4 | Monte Carlo | Probability analysis used to calculate the likelihood of a particular outcome occurring. |
 
 <!-- Page 751 -->
 there is a 20% chance that freight rates will be $20,000 per day next year. This approach only works if you can find a way of calculating probability in numeric terms.
@@ -15446,22 +15033,27 @@ MARITIME FORECASTING AND MARKET RESEARCH
 <!-- Page 752 -->
 the trend, the two cycles, plus an error term E to reflect the random disturbances that affect all time series, thus:
 
-= + + + Y T C S E (17.4) t t t t t
+\[
+Y _ {t} = T _ {t} + C _ {t} + S _ {t} + E _ {t}
+\]
 
-In shipping the cycles C are the shipping cycles we discussed at length in Chapter 4; t the seasonal cycles S are found in many trades in agricultural commodities, and t especially in oil demand in the Northern Hemisphere; and the trend T reflects long-run t factors such as the trade development cycle we discussed in Chapter 10.
+(17.4)
 
-Because time series mix trends and cycles, extrapolation must be carried out with care. A forecast based on one phase of a cycle, for example between points B and 1 B in Figure 17.5, is highly 2 misleading because it suggests faster growth than the true trend A A . In fact the 1 2 cyclical component C t changes from negative at B 1 to positive at B . Just after 2 point B the cycle peaks 2 and turns down, so it would not be correct to extrapolate this trend. This is not just a fanciful example; it is one of the 'bear traps' with which maritime forecasting is littered. The economic world dangles the 'bait' of rapid exponential growth in front of forecasters, who are delighted to predict a positive outlook. After all, that is what their clients usually want to hear. But no sooner have they made their positive forecast than the ground opens under them and they are in the trap. Our discussion of 'stages of growth' in Chapter 9 showed that growth rates often change as economies and industries mature, so the fact that a trade has grown at 6% per annum for 10 years does not really prove anything. Trends change.
+In shipping the cycles  \( C_{t} \)  are the shipping cycles we discussed at length in Chapter 4; the seasonal cycles  \( S_{t} \)  are found in many trades in agricultural commodities, and especially in oil demand in the Northern Hemisphere; and the trend  \( T_{t} \)  reflects long-run factors such as the trade development cycle we discussed in Chapter 10.
 
-In conclusion, trend extrapolation is handy for quick forecasts, but the 'bear trap' awaits forecasters who rely on it for long-term structural forecasts. Remember the second principle of forecasting - there must be a rational explanation for the forecast. Data series must be examined to establish what is driving the growth, including cyclical influences, and, as far as possible, these must be taken into account. Fortunately there are well-established techniques for doing this.
+Because time series mix trends and cycles, extrapolation must be carried out with care.
+
+**Figure 17.5** Cyclical components in a time series model
+
+A forecast based on one phase of a cycle, for example between points  \( B_{1} \)  and  \( B_{2} \)  in Figure 17.5, is highly misleading because it suggests faster growth than the true trend  \( A_{1}A_{2} \) . In fact the cyclical component  \( C_{t} \)  changes from negative at  \( B_{1} \)  to positive at  \( B_{2} \) . Just after point  \( B_{2} \)  the cycle peaks and turns down, so it would not be correct to extrapolate this trend. This is not just a fanciful example; it is one of the ‘bear traps’ with which maritime forecasting is littered. The economic
+
+world dangles the ‘bait’ of rapid exponential growth in front of forecasters, who are delighted to predict a positive outlook. After all, that is what their clients usually want to hear. But no sooner have they made their positive forecast than the ground opens under them and they are in the trap. Our discussion of ‘stages of growth’ in Chapter 9 showed that growth rates often change as economies and industries mature, so the fact that a trade has grown at 6% per annum for 10 years does not really prove anything. Trends change.
+
+In conclusion, trend extrapolation is handy for quick forecasts, but the ‘bear trap’ awaits forecasters who rely on it for long-term structural forecasts. Remember the second principle of forecasting – there must be a rational explanation for the forecast. Data series must be examined to establish what is driving the growth, including cyclical influences, and, as far as possible, these must be taken into account. Fortunately there are well-established techniques for doing this.
 
 EXAMPLE OF TIME SERIES ANALYSIS
 
-Now we will analyse a time series in a different way, known as 'decomposition analysis'. Figure 17.6 shows a 16-year series for the freight rate for grain from the US Gulf to Japan.
-
-ANALYTICAL TECHNIQUES 17.8
-
-
-**Figure 17.5** Cyclical components in a time series model
+Now we will analyse a time series in a different way, known as ‘decomposition analysis’. Figure 17.6 shows a 16-year series for the freight rate for grain from the US Gulf to Japan.
 
 <!-- Page 753 -->
 Brokers watch this series carefully for signs that rates are moving in or out of a cycle. We have three components to think about: the trend; some big cycles which seem to peak in 1995, 2000 and 2004; and what looks like short-term volatility which may turn out to be seasonal.
@@ -15512,25 +15104,31 @@ MARITIME FORECASTING AND MARKET RESEARCH
 <!-- Page 756 -->
 of the ship when it was sold). Thus we aim to reduce the relationship between Y and X to an equation of the form
 
-= + + Y a bX e (17.5) t t t
+\[
+Y _ {t} = a + b X _ {t} + e _ {t}
+\]
 
-In this equation, which represents a straight line, ' a ' and ' b ' are parameters (i.e. constants) and e is the error term. The parameter ' a' shows the value of Y when X is zero (i.e. where the line cuts the vertical axis), the parameter b measures the slope of the line (i.e. the change in Y for each unit change in X ), and e is the difference between the actual value and the value indicated by the estimated line. This is 'simple regression'. If we have several independent variables it is a 'multiple regression'. The aim is to find the line which fits the data best.
+(17.5)
+
+In this equation, which represents a straight line, ‘a’ and ‘b’ are parameters (i.e. constants) and e is the error term. The parameter ‘a’ shows the value of Y when X is zero (i.e. where the line cuts the vertical axis), the parameter b measures the slope of the line (i.e. the change in Y for each unit change in X), and e is the difference between the actual value and the value indicated by the estimated line. This is ‘simple regression’. If we have several independent variables it is a ‘multiple regression’. The aim is to find the line which fits the data best.
 
 FITTING A REGRESSION EQUATION
 
 The three main steps are set out below and illustrated graphically in Figure 17.8.
 
-Step 1: What type of function? The first step is to plot the data on a scatter diagram and examine it to see whether there appears to be a relationship. In this case the data is plotted in a scatter graph shown in Figure 17.8(a), with the price of the ship ( Y ) on the vertical axis, and the age ( X ) on the horizontal axis. We seem to have a negative linear relationship, since as the variable X increases, the variable Y declines. The points are scattered about, but there is clearly a relationship. If we draw a line by hand we can see if the relationship makes sense. The line crosses the Y axis at about $21 million, which is the value of the parameter a , or in economic terms the value of the ship when X (its age) equals zero, that is, the ship is new. It then falls steadily to cross the X axis at about 22.5 years, which is the age of the ship when it has no value. That certainly makes sense. A new Panamax bulk carrier cost about $22 million in the second half of 2001, and on average Panamax bulk carriers get scrapped at about 25 years old. By fitting a regres- 23 sion equation we can estimate the line that fits the data best.
+Step 1: What type of function? The first step is to plot the data on a scatter diagram and examine it to see whether there appears to be a relationship. In this case the data is plotted in a scatter graph shown in Figure 17.8(a), with the price of the ship (Y) on the vertical axis, and the age (X) on the horizontal axis. We seem to have a negative linear relationship, since as the variable X increases, the variable Y declines. The points are scattered about, but there is clearly a relationship. If we draw a line by hand we can see if the relationship makes sense. The line crosses the Y axis at about $21 million, which is the value of the parameter a, or in economic terms the value of the ship when X (its age) equals zero, that is, the ship is new. It then falls steadily to cross the X axis at about 22.5 years, which is the age of the ship when it has no value. That certainly makes sense. A new Panamax bulk carrier cost about $22 million in the second half of 2001, and on average Panamax bulk carriers get scrapped at about 25 years old. By fitting a regression equation we can estimate the line that fits the data best.\( ^{23} \)
 
-Step 2: What Equation? To fit the equation we use the 'ordinary least squares' (OLS) technique. This method calculates the line that produces the smallest difference between the actual values Y and the calculated value which we refer to as Y (see Figure 17.8(b)). c 2 The values of these parameters which minimize the squared differences ( Y - Y ) can be c found by solving the 'normal equations' for ' a ' and ' b '. This can be done using the Regression 'Add-in' provided by most spreadsheet packages. The results are as follows:
+Step 2: What Equation? To fit the equation we use the ‘ordinary least squares’ (OLS) technique. This method calculates the line that produces the smallest difference between the actual values Y and the calculated value which we refer to as  \( Y_{c} \)  (see Figure 17.8(b)). The values of these parameters which minimize the squared differences  \( (Y-Y_{\mathrm{c}})^{2} \)  can be found by solving the ‘normal equations’ for ‘a’ and ‘b’. This can be done using the Regression ‘Add-in’ provided by most spreadsheet packages. The results are as follows:
 
-= Y 20.47 - 0.88 X (17.6)
+\[
+Y = 20.47 - 0.88X
+\]
 
-− In this case the estimated value of a is $20.47 million and the value of b is 0.88, (see Table 17.3) which means that the value of the ship falls by $0.88 million a year. That is very close to the line we fitted by eye.
+(17.6)
 
-Step 3: How good is the fit ? Having found the line which fits the data most closely, the third stage is to examine just how close the fit really is. The OLS technique splits
+In this case the estimated value of a is $20.47 million and the value of b is -0.88, (see Table 17.3) which means that the value of the ship falls by $0.88 million a year. That is very close to the line we fitted by eye.
 
-ANALYTICAL TECHNIQUES 17.8
+Step 3: How good is the fit? Having found the line which fits the data most closely, the third stage is to examine just how close the fit really is. The OLS technique splits
 
 <!-- Page 757 -->
 the variation in Y from its mean into two parts: the part explained by the regression equation, and the 'error' term e which is not explained. This is shown diagrammatically in Figure 17.8(c). From this basic information we can derive three central test statistics, the standard error, the ttest, and the correlation coefficient ( R ) (see Box 17.2 for 2 definitions). These statistics are a quick way of summarizing how good the fit is. The test statistics in Table 17.3 were obtained for the regression of Panamax price on age illustrated in Figure 17.7. The standard error is 1.43, which tells us that on average $1.43 million variance in the price of a Panamax is not explained by the equation. The t statistic is the value of b divided by its standard error. It should be at least 2 in absolute − value. In this case it is 13.2, which is highly significant. Finally, the R is 0.9, 2 which tells us that 90% of the variation in y is explained by the equation. So overall the equation works pretty well.
@@ -15545,117 +15143,108 @@ MARITIME FORECASTING AND MARKET RESEARCH
 **Table 17.3** Example of regression statistics for 2 variable equation SUMMARY OUTPUT (regression of Panamax price on ship age)
 
 
-| (a) Regression statistics |
-| Number of observations | 21 |
-| Multiple R | 0.95 | Adjusted R | 2 | 0.90 |
-| R | 2 | 0.90 | Standard error | 1.43 |
-| (b) Analysis of variances (ANOVA) |
-| Row label | df | SS | MS | F | Significance F |
-| Regression | 1 | 355.6 | 355.6 | 173.3 | 5E-11 |
-| Residual | 19 | 39.0 | 2.1 |
-| Total | 20 | 394.5 |
-| (c) Parameter estimates and test statistics |
-| Row label | Coeff- | Standard | t | P | Lower | Upper |
-| icients | error | stat | value | 95% | 95% |
+| **(a) Regression statistics** | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| Number of observations |  | 21 |  |  |  |  |
+| Multiple R | 0.95 | Adjusted \( R^2 \) |  | 0.90 |  |  |
+| \( R^2 \) | 0.90 | Standard error |  | 1.43 |  |  |
+| **(b) Analysis of variances (ANOVA)** | | | | | | |
+| Row label | df | SS | MS | F | Significance F |  |
+| Regression | 1 | 355.6 | 355.6 | 173.3 | 5E-11 |  |
+| Residual | 19 | 39.0 | 2.1 |  |  |  |
+| Total | 20 | 394.5 |  |  |  |  |
+| **(c) Parameter estimates and test statistics** | | | | | | |
+| Row label | Coefficients | Standard error | tstat | Pvalue | Lower 95% | Upper 95% |
 | Intercept | 20.47 | 0.90 | 22.63 | 3.3336E-15 | 18.57 | 22.36 |
-| X variable 1 | − | 0.88 | 0.07 | − | 13.17 | 5.3277E-11 | − | 1.02 | − | 0.74 |
+| X variable 1 | -0.88 | 0.07 | -13.17 | 5.3277E-11 | -1.02 | -0.74 |
 
 *Source: Based on output of regression function produced by popular spreadsheet 'add in'*
 
 <!-- Page 758 -->
-ANALYTICAL TECHNIQUES 17.8
-
-
 ### BOX 17.2 SUMMARY OF TEST STATISTICS
 
+Test 1: Standard error. The standard error of the regression measures how well the curve fits the data by calculating the average dispersion of the Y values around the regression line. It is given by:
 
-The standard error of the regression measures how well the Test 1: Standard error. curve fits the data by calculating the average dispersion of the Y values around the regression line. It is given by:
+\[
+SER = s _ {Y} = \sqrt {\frac {\sum (Y - Y _ {C}) ^ {2}}{N - K}}
+\]
 
 where N is the number of observations and K is the number of parameters estimated.
 
-Test 2: Standard error of the regression coefficient. Although the standard error is an interesting descriptive statistic, it does not in itself test the equation for significance. To do this we need to establish the confidence limits which can be placed on the estimated value of the regression parameters a and b . If we can make the assumption that b is normally distributed, it is possible to estimate its standard error:
+Test 2: Standard error of the regression coefficient. Although the standard error is an interesting descriptive statistic, it does not in itself test the equation for significance. To do this we need to establish the confidence limits which can be placed on the estimated value of the regression parameters a and b. If we can make the assumption that b is normally distributed, it is possible to estimate its standard error:
 
-Test 3: The t -test . If the independent variable does not contribute significantly to an explanation of the dependent variable we would expect the estimated value of b to equal zero (i.e. X will vary randomly in relation to Y ). To test whether b could have come from a population in which the true value was zero we use the t -test. Divide the coefficient by its standard error ( s ) b
+\[
+s _ {b} = \frac {s _ {y}}{\sqrt {\sum x ^ {2}}}
+\]
 
-and look up the resulting ratio in the t -table for N-K degrees of freedom. As a rule of thumb the value of t needs to be at least 2 to pass the test at the 5% significance level. If it is less than 2 the estimated parameter is probably not worth using.
+Test 3: The t-test. If the independent variable does not contribute significantly to an explanation of the dependent variable we would expect the estimated value of b to equal zero (i.e. X will vary randomly in relation to Y). To test whether b could have come from a population in which the true value was zero we use the t-test. Divide the coefficient by its standard error \(s_{b}\)
 
-Test 4: The F statistic . An alternative test statistic to the t test is the F statistic which is defined as follows:
+\[
+t = \frac {b}{s _ {b}}
+\]
 
-Typically F will be a number in the range 1-5, with higher numbers indicating better fit. The statistic is tested by looking up the value of F In a table of critical values for the appropriate degrees of freedom of the numerator and the denominator.
+and look up the resulting ratio in the t-table for N–K degrees of freedom. As a rule of thumb the value of t needs to be at least 2 to pass the test at the 5% significance level. If it is less than 2 the estimated parameter is probably not worth using.
 
-Variance explained = F Variance unexplained
+Test 4: The \(F\) statistic. An alternative test statistic to the \(t\) test is the \(F\) statistic which is defined as follows:
 
-b t =
+\[
+F = \frac {\text {Variance explained}}{\text {Variance unexplained}}
+\]
 
-s b
+Typically \( F \) will be a number in the range 1–5, with higher numbers indicating better fit. The statistic is tested by looking up the value of \( F \) in a table of critical values for the appropriate degrees of freedom of the numerator and the denominator.
 
-s =
-
-s
-
-b x
-
-y
-
-2 ∑
-
-
-| ∑ | ( | Y | − | Y | ) | 2 |
-| SER | = | s | = | C |
-| Y | N | − | K |
-| Continued |
+Continued
 
 <!-- Page 759 -->
-2 We have already discussed Regression statistics. The correlation coefficient R in Table 17.3(a) explains the variation of the dependent variable Y from its mean, as a c 2 percentage of the total variation. In this case an R of 0.9 tells us that 90% of the variation in Y was explained by variations in X , which is a good result.
+### BOX 17.2—cont'd
 
-The first column of the ANOVA table in Table 17.3(b) shows the row labels; the second shows the degrees of freedom (df) accruing to the sum of squares appearing in the corresponding row; the third states the sum of squares (SS) of the regression and the residual. The bigger SS is for the regression and the smaller the summed square of the residuals the better; the 4th column shows the mean square (MS). The final column shows the value of F , which is the mean square of the regression divided by the mean square of the residual (355.6/2.1), which is a test of goodness of fit and should be looked up in a table of the F distribution for the number of degrees of freedom for the numerator and denominator.
+Test 5: The coefficient of correlation ( \( R^{2} \) ). A more general measure of the relationship between two variables is the coefficient of correlation. This statistic shows the average variation in Y from its mean as a proportion of the total variation in Y:
 
-MARITIME FORECASTING AND MARKET RESEARCH
+\[
+R ^ {2} = \frac {\sum (Y _ {c} - \overline {{Y}})}{\sum (Y - \overline {{Y}})}
+\]
 
+A little reflection will make it clear that the value of R will fall between 0 and 1 (or -1). This makes the statistic particularly easy to interpret, and probably accounts for its popularity. It can, however, be misleading in time series analysis, since the variances are calculated in relation to the mean and two time series which are changing rapidly will invariably give a higher value of R than two time series which are not growing. For this reason the correlation coefficient should be treated with some caution. In multiple regression the correlation coefficient shows the overall fit of the equation, and is a quick test to see how successful additional variables are in explaining variation in Y.
 
-### BOX 17.2--cont'd
+Test 6: The Durbin–Watson statistic. This a test for autocorrelation of the residuals. This statistic should show a value of about 2 and is defined as follows:
 
+\[
+D = \frac {\sum (e _ {t} - e _ {t - 1}) ^ {2}}{\sum (e _ {t} ^ {2})}
+\]
 
-2 ). A more general measure of the relationTest 5: The coefficient of correlation ( R ship between two variables is the coefficient of correlation. This statistic shows the average variation in Y from its mean as a proportion of the total variation in Y :
+D takes values between 0 and 4. Values of D below 2 indicate that the residual values (e) are close together and that there is positive autocorrelation which causes bias in the parameter estimates. Values of D above 2 indicate negative autocorrelation.
 
-A little reflection will make it clear that the value of R will fall between 0 and 1 − (or 1). This makes the statistic particularly easy to interpret, and probably accounts for its popularity. It can, however, be misleading in time series analysis, since the variances are calculated in relation to the mean and two time series which are changing rapidly will invariably give a higher value of R than two time series which are not growing. For this reason the correlation coefficient should be treated with some caution. In multiple regression the correlation coefficient shows the overall fit of the equation, and is a quick test to see how successful additional variables are in explaining variation in Y .
+We have already discussed Regression statistics. The correlation coefficient \( R^2 \) in Table 17.3(a) explains the variation of the dependent variable \( Y_c \) from its mean, as a percentage of the total variation. In this case an \( R^2 \) of 0.9 tells us that \( 90\% \) of the variation in \( Y \) was explained by variations in \( X \), which is a good result.
 
-Test 6: The Durbin-Watson statistic . This a test for autocorrelation of the residuals. This statistic should show a value of about 2 and is defined as follows:
-
-D takes values between 0 and 4. Values of D below 2 indicate that the residual values ( e ) are close together and that there is positive autocorrelation which causes bias in the parameter estimates. Values of D above 2 indicate negative autocorrelation.
-
-e e D e
-
-t t
-
-
-| ∑ | ( | Y | − | Y | ) |
-| R | 2 | = | c |
-| ∑ | ( | Y | − | Y | ) |
-| ∑ | ( | − | ) | 2 |
-| = | − | 1 |
-| ∑ | ( | 2 | ) |
-| t |
+The first column of the ANOVA table in Table 17.3(b) shows the row labels; the second shows the degrees of freedom (df) accruing to the sum of squares appearing in the corresponding row; the third states the sum of squares (SS) of the regression and the residual. The bigger SS is for the regression and the smaller the summed square of the residuals the better; the 4th column shows the mean square (MS). The final column shows the value of F, which is the mean square of the regression divided by the mean square of the residual (355.6/2.1), which is a test of goodness of fit and should be looked up in a table of the F distribution for the number of degrees of freedom for the numerator and denominator.
 
 <!-- Page 760 -->
-Table 17.3(c) shows the coefficients in the second column and the standard error, the t statistic, p value and the 95% confidence limits. The latter show that we can be 95% certain that the intercept lies in the range 18.57 to 22.36 and the b coefficient lies in the − − range 1.02 to 0.74. These are useful results.
+Table 17.3(c) shows the coefficients in the second column and the standard error, the t statistic, p value and the 95% confidence limits. The latter show that we can be 95% certain that the intercept lies in the range 18.57 to 22.36 and the b coefficient lies in the range -1.02 to -0.74. These are useful results.
 
 MULTIPLE REGRESSION ANALYSIS
 
-Regression analysis can be extended by adding more explanatory variables. Continuing with secondhand prices, we can construct a time series model to forecast the price of a five-year-old Aframax tanker using the data shown in Figure 17.9. This time series starts in 1976, showing many fluctuations in the price over the years which the model needs to explain. In Chapter 4 it was argued that two key variables drive second-hand prices, newbuilding prices and earnings. To model this we run a multiple regression analysis using the five-year-old price of an Aframax tanker as the dependent variable ( Y ) and the newbuilding price ( X ) and one-year time-charter rates 1 ( X ) as the independent (exogenous) variables: 2
+**Figure 17.9** Example of time series trend analysis
+*Source: CRSL 5 year old Aframax price*
 
-= + + Y a b X b X (17.7) t 1 1 t 2 2 t
+Regression analysis can be extended by adding more explanatory variables. Continuing with second-hand prices, we can construct a time series model to forecast the price of a five-year-old Aframax tanker using the data shown in Figure 17.9. This time series starts in 1976, showing many fluctuations in the price over the years which the model needs to explain. In Chapter 4 it was argued that two key
 
-where Y is the second-hand price, X is measured in millions of dollars and X in thou- 1 2 2 sands of dollars per day. Running this regression produces a high R of 0.92 and significant t test results for all the parameters. The equation we estimate is
+variables drive second-hand prices, newbuilding prices and earnings. To model this we run a multiple regression analysis using the five-year-old price of an Aframax tanker as the dependent variable (Y) and the newbuilding price ( \( X_{1} \) ) and one-year time-charter rates ( \( X_{2} \) ) as the independent (exogenous) variables:
 
-= − + + Y 10.6 0.589 X 1.1478 X (17.8) t 1 t 2 t
+\[
+Y_{t} = a + b_{1} X_{1t} + b_{2} X_{2t}
+\]
+
+(17.7)
+
+where Y is the second-hand price, \( X_{1} \) is measured in millions of dollars and \( X_{2} \) in thousands of dollars per day. Running this regression produces a high \( R^{2} \) of 0.92 and significant t test results for all the parameters. The equation we estimate is
+
+\[
+Y_{t} = -10.6 + 0.589 X_{1t} + 1.1478 X_{2t}
+\]
+
+(17.8)
 
 This equation tells us that on average the second-hand price of the ship increases by $0.589 million for each $1 million increase in the newbuilding price, and $1.148 million for each $1,000 increase in the one-year time charter rates. When we compare the estimated past values shown by the dotted line in Figure 17.10, it is clear that the fit is reasonably close. Throughout the 22-year period the equation explains the main cycles in second-hand prices very well. Its weakness is that it sometimes overestimates the second-hand price at the peak of cycles, and underestimates it at the trough. These are quite significant differences.
-
-ANALYTICAL TECHNIQUES 17.8
-
-
-**Figure 17.9** Example of time series trend analysis Source: CRSL 5 year old Aframax price
 
 <!-- Page 761 -->
 However, there are two important matters to consider before we risk using this model for forecasting. The first is the specification of the model. We have assumed that new prices influence second-hand prices, and got an equation with a good fit. However, in Chapter 15 we argued that shipbuilding prices are influenced by secondhand prices. So which is it? Unfortunately statistical analysis will not answer this question. It is an economic question which we have to resolve by examining how the economics of the shipbuilding price model really works. In fact in, Section 15.4 we suggested that shipyard prices are determined by the interaction of shipbuilding demand and supply functions and one of the demand variables is the second-hand price - when second-hand ships become too expensive shipowners start to buy new ships. So there is much more that could be done to develop this simplistic model before relying on it too much.
@@ -15803,67 +15392,94 @@ So forecasting really does matter. The market has just one objective, to reduce 
 SUMMARY 17.10
 
 <!-- Page 770 -->
-The early chapters of this book, and particularly Chapter 4, were devoted to a discussion of the economic principles that underlie the shipping market. With the increasing power of microcomputers it has become possible to develop shipping market models that can assist in judging future trends in the shipping market. This appendix provides a brief description of the basic supply-demand framework, using numerical examples. This is not intended to be a complete model, but rather a skeleton that can then be developed in a number of different ways.
+## An Introduction to Shipping Market Modelling A
+
+The early chapters of this book, and particularly Chapter 4, were devoted to a discussion of the economic principles that underlie the shipping market. With the increasing power of microcomputers it has become possible to develop shipping market models that can assist in judging future trends in the shipping market. This appendix provides a brief description of the basic supply–demand framework, using numerical examples. This is not intended to be a complete model, but rather a skeleton that can then be developed in a number of different ways.
 
 Since for most cargoes there is no viable alternative to ships on deep-sea routes, the supply and demand for sea transport can be defined in the following way:
 
-DD f ( CT , AH ) (A.1) = t t t
+\[
+DD_t = f(CT_t, AH_t)
+\]
 
-= SS f ( MF , P ) (A.2) t t t
+(A.1)
 
-where, for year t , DD is demand for seaborne transport, CT the tonnages of cargo transported, AH the average haul of cargo, SS the supply of seaborne transport, P is ship productivity and MF the size of the merchant fleet.
+\[
+SS_t = f(MF_t, P_t)
+\]
 
-Demand, measured in ton miles of transport required, is determined by the tonnage of cargo to be moved and the average distance in miles over which each ton of cargo is transported. The supply of shipping capacity, measured in cargo ton miles, is determined by the merchant fleet capacity measured in deadweight tonnage and fleet performance, which is the average ton miles of cargo delivered per deadweight per annum. Market balance occurs when demand ( DD ) equals supply ( SS ). The cycles which dominate shipping markets are driven by the endless adjustment of these two variables in pursuit of equilibrium. This dynamic process is one of most difficult parts of the shipping market to reproduce in a model.
+(A.2)
+
+where, for year t, DD is demand for seaborne transport, CT the tonnages of cargo transported, AH the average haul of cargo, SS the supply of seaborne transport, P is ship productivity and MF the size of the merchant fleet.
+
+Demand, measured in ton miles of transport required, is determined by the tonnage of cargo to be moved and the average distance in miles over which each ton of cargo is transported. The supply of shipping capacity, measured in cargo ton miles, is determined by the merchant fleet capacity measured in deadweight tonnage and fleet performance, which is the average ton miles of cargo delivered per deadweight per annum. Market balance occurs when demand (DD) equals supply (SS). The cycles which dominate shipping markets are driven by the endless adjustment of these two variables in pursuit of equilibrium. This dynamic process is one of most difficult parts of the shipping market to reproduce in a model.
 
 These definitions are highly simplified, but they make the important point that, in economic terms, although the physical supply of ships is fixed at a given point in time, the available transportation capacity is flexible. As we saw in Chapter 4, transport supply depends on fleet performance, which is in turn determined partly by market variables and partly by physical characteristics of the ships in the fleet.
-
-
-## An Introduction to Shipping Market Modelling A
 
 <!-- Page 771 -->
 Building on the definition of supply and demand in equations (A.1) and (A.2), we can specify the basic structural equations of the macro model as follows. The demand equations are:
 
+\[
+C T _ {t k} = f (E _ {t}, \dots)
+\]
+
 (A.3)
+
+\[
+C T _ {t} = \sum_ {k} (C T _ {t k})
+\]
 
 (A.4)
 
+\[
+D D _ {t k} = C T _ {t k} - A H _ {t k}
+\]
+
 (A.5)
 
+\[
+D D _ {t m} = \sum_ {k} (A _ {t k m} D D _ {t k})
+\]
+
 (A.6)
+
+\[
+A _ {t k m} = \frac {D D _ {t k m}}{D D _ {t k}}
+\]
 
 (A.7)
 
 The supply equations are:
 
-= + MF MF D - S (A.8) tm ( t -,1) m tm tm
+\[
+M F _ {t m} = M F _ {(t-1) m} + D _ {t m} - S _ {t m}
+\]
 
-= AMF MF - L (A.9) tm tm tm
+(A.8)
 
-= SS AMF - P (A.10) tm tm tm
+\[
+A M F _ {t m} = M F _ {t m} - L _ {t m}
+\]
+
+(A.9)
+
+\[
+S S _ {t m} = A M F _ {t m} - P _ {t m}
+\]
+
+(A.10)
 
 Finally, an equilibrium condition is required:
 
-= SS ( FR ) DD ( FR ) (A.11) tm tm tm tm
+\[
+S S _ {t m} (F R _ {t m}) = D D _ {t m} (F R _ {t m})
+\]
 
-In the above equations, again for year t , E is an indicator of economic activity, A is the market share of ship type m (tankers, ...), D represents deliveries of merchant ships (m.dwt), S the amount of scrapping of merchant ships, P is ship productivity as in equation (A.2), AMF represents the active merchant fleet (m.dwt), L the laid-up ton- … nage, FR the freight rate, and k is an index representing the commodities (oil, ).
+(A.11)
+
+In the above equations, again for year t, E is an indicator of economic activity, A is the market share of ship type m (tankers, ...), D represents deliveries of merchant ships (m.dwt), S the amount of scrapping of merchant ships, P is ship productivity as in equation (A.2), AMF represents the active merchant fleet (m.dwt), L the laid-up tonnage, FR the freight rate, and k is an index representing the commodities (oil, ...).
 
 Dealing first with the demand side of the model, in equations (A.3) and (A.4) we define seaborne trade as the aggregate of k individual commodity trades. The simplest forecasting model would treat seaborne trade in aggregate, as we did in the example in Chapter 14. This simulation analysis emphasized the importance of treating major commodity trades separately. Clearly the oil trade should be modelled separately in a way which takes account of developments in the energy market such as changing energy prices.
-
-DD A
-
-tkm DD
-
-tkm
-
-= tk
-
-= ∑ DD ( A DD ) tm tkm tk k
-
-= − DD CT AH tk tk tk
-
-= ∑ CT ( CT ) t tk k
-
-= CT f ( E ,...) tk t
 
 <!-- Page 772 -->
 A more detailed discussion of the approach to specifying the form of the functions in equation (A.3) is presented in Chapter 7. If this approach is followed the trade model can become complex and very time-consuming to update. Alternatively, the volume of seaborne trade by commodity may be treated as an exogenous variable, and obtained from some other source, for example by using forecasts of trade published by consultancy organizations.
@@ -15884,12 +15500,8 @@ As a practical illustration of the basic shipping market model, we can take the 
 **Table A.1** Supply-demand model, tanker fleet
 
 
-| Tanker demand | Tanker supply (m. dwt) |
-| Trade | Av. | Transport | combined | Total | Fleet | Active | less: | less: | Total |
-| volume | haul | required | carriers | demand | productivity | tanker | laid | storage | tanker |
-| Year | mt | miles | btm | btm | btm | tm dwt | fleet | up | & grain | fleet |
-| per annum |
-| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) |
+| Year | (1) Trade volume mt | (2) Av. haul miles | (3) Tanker demand: Transport required btm | (4) Tanker demand: combined carriers btm | (5) Tanker demand: Total demand btm | (6) Fleet productivity tm dwt per annum | (7) Tanker supply (m. dwt): Active tanker fleet | (8) Tanker supply (m. dwt): less: laid up | (9) Tanker supply (m. dwt): less: storage & grain | (10) Tanker supply (m. dwt): Total tanker fleet |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1963 | 582 | 4,210 | 2,450 | - | 2,450 | 35,871 | 68.3 | 0.7 | 1.0 | 70 |
 | 1964 | 652 | 4,248 | 2,770 | - | 2,770 | 37,534 | 73.8 | 0.5 | 1.7 | 76 |
 | 1965 | 727 | 4,292 | 3,120 | 24 | 3,096 | 38,128 | 81.2 | 0.4 | 3.4 | 85 |
@@ -15933,11 +15545,25 @@ As a practical illustration of the basic shipping market model, we can take the 
 | 2003 | 2,113 | 5,007 | 10,580 | 293 | 10,287 | 33,976 | 302.8 | 0.4 | 0.6 | 304 |
 | 2004 | 2,254 | 4,925 | 11,100 | 106 | 10,994 | 34,415 | 319.5 | 0.1 | 0.5 | 320 |
 | 2005 | 2,308 | 4,965 | 11,460 | 109 | 11,351 | 33,120 | 342.7 | 0.1 | 0.5 | 343 |
-| (1) | Fearnleys Annual Review - oil and products | (6) | (5)/(7) | × | 1,000 |
-| (2) | (3)/(1) | (7) | (11) | − | (8) | − | (9) |
-| (3) | Fearnleys Annual Review - oil and products | (8) | Fearnleys Review |
-| (4) | Fearnleys Review 2006, assumes 4,551 average haul | (9) | Fearnleys Review incl. tankers in Grain |
-| (5) | (3) | − | (4) | (10) | CRSL Shipping Review and Outlook |
+*(1) Fearnleys Annual Review - oil and products*
+
+*(2) (3)/(1)*
+
+*(3) Fearnleys Annual Review - oil and products*
+
+*(4) Fearnleys Review 2006, assumes 4,551 average haul*
+
+*(5) (3)–(4)*
+
+*(6) (5)/(7)×1,000*
+
+*(7) (11)–(8)–(9)*
+
+*(8) Fearnleys Review*
+
+*(9) Fearnleys Review incl. tankers in Grain*
+
+*(10) CRSL Shipping Review and Outlook*
 
 <!-- Page 774 -->
 2. Oil tanker demand in column 5 is calculated by deducting combined carrier cargo (column 4) from oil trade (column 3). This calls for a judgement about how the combined carrier fleet will change in size and how it will be distributed between the oil and dry cargo trades. This is usually a matter of relative freight rates, which means that so long as there is a combined carrier fleet the tanker market cannot be treated in isolation from the rest of the market (though as the combined carrier fleet shrinks the link is becoming more tenuous). 3. The supply of tanker capacity starts from the total fleet in column 10, deducts tankers in grain (a rarity nowadays) and tankers in oil storage (column 9) and tankers laid up (column 8), deriving the active tanker fleet in column 7. 4. Fleet productivity is shown in column 6 in ton miles per deadweight per annum and tanker supply in column 6 in billion ton miles.
@@ -16000,9 +15626,13 @@ gross ton than others. For example, a passenger ferry of 5,000 gross tons may in
 
 A set of standard cgt conversion factors were agreed in 1984, but in 2005 they were replaced by a formula which is used to calculate the compensated gross tonnage of the ship from the gross tonnage:
 
-B = cgt A x gt (B.1)
+\[
+\mathrm{cgt} = A \times \mathrm{gt}^{B}
+\]
 
-where A represents the influence of ship type, and B the influence of ship size and gt is the gross tonnage of the vessel. ( B is = + itself defined as B b 1 where b represents the diminishing influence of ship size on the work input required to build a single gross ton, this factor having been derived from a substantial sampling of shipyard outputs.) The internationally agreed A and B parameters developed on the basis of sampling shipyard output are shown in Table B.1. For example, using this formula and the parameters in Table B.1, a crude oil tanker of 157,800 dwt (see Figure 14.6), of 87,167 gross tons would have a cgt coefficient of 0.36 and a cgt of 31,423.
+(B.1)
+
+where A represents the influence of ship type, and B the influence of ship size and gt is the gross tonnage of the vessel. (*B* is itself defined as \( B = b + 1 \) where *b* represents the diminishing influence of ship size on the work input required to build a single gross ton, this factor having been derived from a substantial sampling of shipyard outputs.) The internationally agreed A and B parameters developed on the basis of sampling shipyard output are shown in Table B.1. For example, using this formula and the parameters in Table B.1, a crude oil tanker of 157,800 dwt (see Figure 14.6), of 87,167 gross tons would have a cgt coefficient of 0.36 and a cgt of 31,423.
 
 Some examples of cgt coefficients calculated using the formula are summarized in Table B.2. The cgt coefficients in this table were obtained by calculating the cgt and dividing it by the gt to get the cgt coefficient shown in the table. For each ship type the cgt coefficient changes. For example a 50,000 gt container-ship has a cgt coefficient of 0.7, whilst a 50,000 gt tanker has a lower cgt coefficient of 0.46, indicating the lower work content per gross ton. The highest coefficients are for the LNG tankers and the passenger ships. So this table also gives a useful insight into the relative work content of different ship types.
 
@@ -16016,9 +15646,8 @@ LIGHTWEIGHT
 #### TABLE B.1 cgt parameters 2005
 
 
-Ship type A B
-
-
+| Ship type | A | B |
+| --- | --- | --- |
 | Oil tankers (double hull) | 48 | 0.57 |
 | Chemical tankers | 84 | 0.55 |
 | Bulk carriers | 29 | 0.61 |
@@ -16050,8 +15679,8 @@ TONNAGE MEASUREMENT AND CONVERSION FACTORS
 **Table B.2** Approximate cgt coefficients calculated using the 2005 formula
 
 
-| Parameters | Ship size (gt) |
-| Ship type | A | B | 4,000 | 10,000 | 30,000 | 50,000 | 80,000 100,000 150,000 |
+| Ship type | Parameters: A | Parameters: B | Ship size (gt): 4,000 | 10,000 | 30,000 | 50,000 | 80,000 | 100,000 | 150,000 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Crude oil tankers (double) | 48 | 0.57 | 1.36 | 0.91 | 0.57 | 0.46 | 0.37 | 0.34 | 0.29 |
 | Chemical tankers | 84 | 0.55 | 1.48 | 1.46 | 1.42 | 1.41 | 1.40 | 1.39 | 1.38 |
 | Bulk carriers | 29 | 0.61 | 0.57 | 0.60 | 0.64 | 0.66 | 0.68 | 0.69 | 0.71 |
@@ -16063,216 +15692,314 @@ TONNAGE MEASUREMENT AND CONVERSION FACTORS
 | Car carriers | 15 | 0.7 | 0.84 | 0.89 | 0.96 | 1.00 | 1.03 | 1.05 | 1.08 |
 | LPG carriers | 62 | 0.57 | 1.41 | 1.25 | 1.08 | 1.01 | 0.95 | 0.93 | 0.88 |
 | LNG carriers | 32 | 0.68 | 1.29 | 1.42 | 1.60 | 1.70 | 1.79 | 1.83 | 1.91 |
-| Ferries | 20 | 0.71 | 0.80 | 0.82 | 0.85 | 0.86 |
-| Passenger ships | 49 | 0.67 | 1.76 | 1.69 | 1.62 | 1.59 |
-| Fishing vessels | 24 | 0.71 | 0.68 | 0.71 | 0.74 | 0.76 |
-| Other non-cargo | 46 | 0.62 | 0.91 | 0.84 | 0.76 | 0.72 |
+| Ferries | 20 | 0.71 | 0.80 | 0.82 | 0.85 | 0.86 |  |  |  |
+| Passenger ships | 49 | 0.67 | 1.76 | 1.69 | 1.62 | 1.59 |  |  |  |
+| Fishing vessels | 24 | 0.71 | 0.68 | 0.71 | 0.74 | 0.76 |  |  |  |
+| Other non-cargo | 46 | 0.62 | 0.91 | 0.84 | 0.76 | 0.72 |  |  |  |
 
-*Note: The cgt of a ship is calculated by multiplying the gross tonnage by the appropriate factor in the table. For ship sizes not shown, the cgt*
-
-| coefficients can calculated by interpolation. |
+*Note: The cgt of a ship is calculated by multiplying the gross tonnage by the appropriate factor in the table. For ship sizes not shown, the cgt coefficients can calculated by interpolation.*
 
 <!-- Page 780 -->
-| Index (market prices) | Index (2000 prices) | Index (market prices) | Index (2000 prices) |
-| Year | Index | % | Deflator | Index | Year | Index | % | Deflator | Index |
-| 1741 | 100 | 1791 | 133 | − | 6% | 1,539 | 2,044 |
-| 1742 | 83 | − | 17% | 1792 | 192 | 45% | 1,574 | 3,025 |
-| 1743 | 148 | 79% | 1793 | 200 | 4% | 1,428 | 2,856 |
-| 1744 | 113 | − | 24% | 1794 | 213 | 6% | 1,399 | 2,973 |
-| 1745 | 91 | − | 19% | 1795 | 192 | − | 10% | 1,204 | 2,315 |
-| 1746 | 80 | − | 12% | 1796 | 166 | − | 14% | 1,194 | 1,978 |
-| 1747 | 70 | − | 12% | 1797 | 166 | 0% | 1,307 | 2,164 |
-| 1748 | 88 | 24% | 1798 | 273 | 65% | 1,283 | 3,507 |
-| 1749 | 94 | 7% | 1799 | 294 | 7% | 1,108 | 3,255 |
-| 1750 | 80 | − | 15% | 1,887 | 1,504 | 1800 | 186 | − | 37% | 917 | 1,706 |
-| 1751 | 78 | − | 2% | 1,971 | 1,540 | 1801 | 172 | − | 8% | 888 | 1,526 |
-| 1752 | 69 | − | 12% | 2,218 | 1,525 | 1802 | 239 | 39% | 1,135 | 2,714 |
-| 1753 | 67 | − | 2% | 2,218 | 1,490 | 1803 | 222 | − | 7% | 1,117 | 2,478 |
-| 1754 | 111 | 65% | 1,868 | 2,072 | 1804 | 225 | 1% | 1,117 | 2,513 |
-| 1755 | 152 | 37% | 1,829 | 2,772 | 1805 | 222 | − | 1% | 1,018 | 2,260 |
-| 1756 | 159 | 5% | 1,792 | 2,856 | 1806 | 236 | 6% | 1,026 | 2,421 |
-| 1757 | 163 | 2% | 1,774 | 2,883 | 1807 | 256 | 9% | 1,057 | 2,709 |
-| 1758 | 150 | − | 8% | 1,658 | 2,487 | 1808 | 303 | 18% | 955 | 2,896 |
-| 1759 | 113 | − | 25% | 1,658 | 1,865 | 1809 | 294 | − | 3% | 894 | 2,625 |
-| 1760 | 147 | 31% | 1,628 | 2,391 | 1810 | 280 | − | 5% | 905 | 2,532 |
-| 1761 | 175 | 19% | 1,658 | 2,902 | 1811 | 228 | − | 18% | 955 | 2,179 |
-| 1762 | 108 | − | 38% | 1,628 | 1,755 | 1812 | 242 | 6% | 845 | 2,045 |
-| 1763 | 130 | 20% | 1,628 | 2,111 | 1813 | 303 | 25% | 820 | 2,484 |
-| 1764 | 119 | − | 8% | 1,658 | 1,969 | 1814 | 263 | − | 13% | 899 | 2,361 |
-| 1765 | 106 | − | 11% | 1,690 | 1,795 | 1815 | 178 | − | 32% | 1,065 | 1,898 |
-| 1766 | 91 | − | 15% | 1,690 | 1,531 | 1816 | 150 | − | 16% | 1,164 | 1,746 |
-| 1767 | 98 | 9% | 1,690 | 1,663 | 1817 | 180 | 20% | 1,049 | 1,886 |
-| 1768 | 89 | − | 10% | 1,706 | 1,519 | 1818 | 166 | − | 7% | 996 | 1,657 |
-| 1769 | 108 | 21% | 1,810 | 1,952 | 1819 | 154 | − | 7% | 1,082 | 1,667 |
-| 1770 | 130 | 20% | 1,774 | 2,301 | 1820 | 161 | 4% | 1,204 | 1,938 |
-| 1771 | 120 | − | 7% | 1,774 | 2,135 | 1821 | 157 | − | 3% | 1,385 | 2,169 |
-| 1772 | 97 | − | 19% | 1,706 | 1,653 | 1822 | 160 | 2% | 1,574 | 2,513 |
-| 1773 | 102 | 5% | 1,690 | 1,716 | 1823 | 174 | 9% | 1,413 | 2,454 |
-| 1774 | 106 | 5% | 1,706 | 1,813 | 1824 | 172 | − | 1% | 1,358 | 2,332 |
-| 1775 | 145 | 37% | 1,706 | 2,479 | 1825 | 160 | − | 7% | 1,226 | 1,955 |
-
 
 ## Maritime Economics Freight Index, 1741-2007 C
 
+<!-- printed over pages 780-783 in two side-by-side blocks per page; joined here into one series -->
 
-Continued
-
-<!-- Page 781 -->
-| MARITIME ECONOMICS FREIGHT INDEX, 1741-2007 |
-| Index (market prices) | Index (2000 prices) | Index (market prices) | Index (2000 prices) |
-| Year | Index | % | Deflator | Index | Year | Index | % | Deflator | Index |
-| 1776 | 155 | 6% | 1,658 | 2,565 | 1826 | 147 | − | 8% | 1,385 | 2,041 |
-| 1777 | 172 | 11% | 1,628 | 2,798 | 1827 | 141 | − | 4% | 1,399 | 1,970 |
-| 1778 | 158 | − | 8% | 1,598 | 2,522 | 1828 | 133 | − | 6% | 1,443 | 1,916 |
-| 1779 | 158 | 0% | 1,516 | 2,393 | 1829 | 132 | − | 1% | 1,443 | 1,898 |
-| 1780 | 202 | 28% | 1,478 | 2,980 | 1830 | 130 | − | 1% | 1,458 | 1,898 |
-| 1781 | 213 | 5% | 1,516 | 3,222 | 1831 | 139 | 7% | 1,458 | 2,032 |
-| 1782 | 136 | − | 36% | 1,386 | 1,884 | 1832 | 125 | − | 10% | 1,506 | 1,882 |
-| 1783 | 144 | 6% | 1,431 | 2,057 | 1833 | 113 | − | 9% | 1,556 | 1,763 |
-| 1784 | 131 | − | 9% | 1,543 | 2,025 | 1834 | 117 | 3% | 1,592 | 1,866 |
-| 1785 | 116 | − | 12% | 1,556 | 1,799 | 1835 | 125 | 7% | 1,630 | 2,037 |
-| 1786 | 113 | − | 3% | 1,478 | 1,663 | 1836 | 135 | 8% | 1,458 | 1,975 |
-| 1787 | 113 | 0% | 1,504 | 1,691 | 1837 | 145 | 7% | 1,474 | 2,130 |
-| 1788 | 119 | 6% | 1,478 | 1,756 | 1838 | 153 | 6% | 1,413 | 2,164 |
-| 1789 | 141 | 18% | 1,556 | 2,189 | 1839 | 144 | − | 6% | 1,332 | 1,915 |
-| 1790 | 141 | 0% | 1,556 | 2,189 | 1840 | 136 | − | 5% | 1,345 | 1,828 |
-| 1841 | 109 | − | 20% | 1,413 | 1,546 | 1893 | 63 | 9% | 2,052 | 1,303 |
-| 1842 | 105 | − | 4% | 1,556 | 1,629 | 1894 | 61 | − | 3% | 2,180 | 1,336 |
-| 1843 | 97 | − | 7% | 1,731 | 1,677 | 1895 | 59 | − | 3% | 2,236 | 1,325 |
-| 1844 | 108 | 11% | 1,710 | 1,844 | 1896 | 59 | 0% | 2,295 | 1,360 |
-| 1845 | 116 | 7% | 1,669 | 1,930 | 1897 | 59 | 0% | 2,265 | 1,342 |
-| 1846 | 106 | − | 8% | 1,611 | 1,711 | 1898 | 72 | 21% | 2,180 | 1,569 |
-| 1847 | 127 | 19% | 1,428 | 1,807 | 1899 | 69 | − | 4% | 2,208 | 1,519 |
-| 1848 | 103 | − | 19% | 1,689 | 1,742 | 1900 | 80 | 17% | 2,028 | 1,631 |
-| 1849 | 98 | − | 5% | 1,872 | 1,843 | 1901 | 60 | − | 25% | 2,101 | 1,268 |
-| 1850 | 98 | 0% | 1,872 | 1,843 | 1902 | 52 | − | 14% | 2,101 | 1,090 |
-| 1851 | 92 | − | 6% | 1,868 | 1,722 | 1903 | 52 | 0% | 2,101 | 1,090 |
-| 1852 | 95 | 3% | 1,847 | 1,761 | 1904 | 52 | 0% | 2,076 | 1,077 |
-| 1853 | 128 | 34% | 1,517 | 1,944 | 1905 | 54 | 4% | 2,076 | 1,121 |
-| 1854 | 138 | 7% | 1,416 | 1,947 | 1906 | 55 | 2% | 2,005 | 1,103 |
-| 1855 | 130 | − | 6% | 1,428 | 1,852 | 1907 | 57 | 4% | 1,917 | 1,095 |
-| 1856 | 119 | − | 8% | 1,428 | 1,696 | 1908 | 48 | − | 17% | 1,982 | 944 |
-| 1857 | 100 | − | 16% | 1,371 | 1,371 | 1909 | 49 | 2% | 1,960 | 954 |
-| 1858 | 88 | − | 13% | 1,588 | 1,390 | 1910 | 53 | 9% | 1,875 | 992 |
-| 1859 | 97 | 11% | 1,531 | 1,483 | 1911 | 61 | 16% | 1,855 | 1,139 |
-| 1860 | 103 | 6% | 1,465 | 1,511 | 1912 | 83 | 34% | 1,762 | 1,454 |
-| 1861 | 106 | 3% | 1,478 | 1,570 | 1913 | 72 | − | 13% | 1,744 | 1,255 |
-| 1862 | 97 | − | 9% | 1,428 | 1,384 | 1914 | 71 | − | 1% | 1,722 | 1,221 |
-| 1863 | 97 | 0% | 1,405 | 1,361 | 1915 | 211 | 49% | 1,705 | 3,590 |
-| 1864 | 108 | 11% | 1,371 | 1,478 | 1916 | 386 | 0% | 1,580 | 6,102 |
-| 1865 | 105 | − | 2% | 1,428 | 1,506 | 1917 | 735 | 0% | 1,345 | 9,895 |
-| 1866 | 97 | − | 8% | 1,416 | 1,372 | 1918 | 795 | 0% | 1,140 | 9,063 |
-| 1867 | 95 | − | 2% | 1,440 | 1,373 | 1919 | 519 | 0% | 995 | 5,161 |
-| 1868 | 91 | − | 5% | 1,465 | 1,328 | 1920 | 396 | 0% | 861 | 3,408 |
-| 1869 | 94 | 3% | 1,478 | 1,385 | 1921 | 176 | 66% | 962 | 1,690 |
-| 1870 | 97 | 3% | 1,504 | 1,457 | 1922 | 138 | − | 22% | 1,025 | 1,410 |
-| 1871 | 88 | − | 10% | 1,504 | 1,316 | 1923 | 130 | − | 5% | 1,007 | 1,311 |
-| 1872 | 109 | 25% | 1,395 | 1,521 | 1924 | 128 | − | 2% | 1,007 | 1,289 |
-
-<!-- Page 782 -->
-| MARITIME ECONOMICS FREIGHT INDEX, 1741-2007 |
-| Index (market prices) | Index (2000 prices) | Index (market prices) | Index (2000 prices) |
-| Year | Index | % | Deflator | Index | Year | Index | % | Deflator | Index |
-| 1873 | 124 | 14% | 1,342 | 1,661 | 1925 | 116 | − | 9% | 984 | 1,145 |
-| 1874 | 114 | − | 8% | 1,384 | 1,582 | 1926 | 141 | 21% | 973 | 1,369 |
-| 1875 | 105 | − | 8% | 1,441 | 1,510 | 1927 | 129 | − | 8% | 990 | 1,278 |
-| 1876 | 104 | − | 1% | 1,478 | 1,533 | 1928 | 119 | − | 8% | 1,007 | 1,194 |
-| 1877 | 105 | 1% | 1,441 | 1,510 | 1929 | 122 | 3% | 1,007 | 1,226 |
-| 1878 | 96 | − | 8% | 1,543 | 1,486 | 1930 | 98 | − | 19% | 1,031 | 1,015 |
-| 1879 | 90 | − | 7% | 1,630 | 1,466 | 1931 | 95 | − | 3% | 1,133 | 1,079 |
-| 1880 | 92 | 2% | 1,571 | 1,447 | 1932 | 93 | − | 2% | 1,257 | 1,171 |
-| 1881 | 92 | 0% | 1,600 | 1,473 | 1933 | 90 | − | 3% | 1,325 | 1,192 |
-| 1882 | 86 | − | 7% | 1,586 | 1,359 | 1934 | 90 | 0% | 1,285 | 1,156 |
-| 1883 | 79 | − | 7% | 1,615 | 1,282 | 1935 | 93 | 4% | 1,239 | 1,154 |
-| 1884 | 68 | − | 15% | 1,780 | 1,205 | 1936 | 109 | 17% | 1,239 | 1,350 |
-| 1885 | 67 | − | 2% | 1,896 | 1,264 | 1937 | 1,196 |
-| 1886 | 62 | − | 6% | 2,005 | 1,252 | 1938 | 1,221 |
-| 1887 | 69 | 10% | 2,052 | 1,411 | 1939 | 1,239 |
-| 1888 | 80 | 17% | 2,005 | 1,612 | 1940 | 1,230 |
-| 1889 | 79 | − | 1% | 1,960 | 1,555 | 1941 | 1,171 |
-| 1890 | 68 | − | 15% | 1,960 | 1,327 | 1942 | 1,056 |
-| 1891 | 67 | − | 2% | 1,896 | 1,264 | 1943 | 995 |
-| 1892 | 58 | − | 13% | 2,005 | 1,167 | 1944 | 978 |
-| 1945 | 957 | 1997 | 166 | − | 4% | 107 | 178 |
-| 1946 | 883 | 1998 | 110 | − | 34% | 106 | 116 |
-| 1947 | 100 | 772 | 772 | 1999 | 135 | 23% | 103 | 140 |
-| 1948 | 79 | − | 21% | 715 | 564 | 2000 | 164 | 21% | 100 | 164 |
-| 1949 | 71 | − | 10% | 724 | 517 | 2001 | 145 | − | 12% | 97 | 141 |
-| 1950 | 74 | 4% | 715 | 530 | 2002 | 155 | 7% | 96 | 148 |
-| 1951 | 154 | 108% | 662 | 1,023 | 2003 | 253 | 63% | 92 | 233 |
-| 1952 | 99 | − | 36% | 650 | 641 | 2004 | 425 | 68% | 89 | 379 |
-| 1953 | 77 | − | 22% | 645 | 495 | 2005 | 355 | − | 16% | 86 | 307 |
-| 1954 | 82 | 6% | 640 | 523 | 2006 | 283 | − | 20% | 83 | 236 |
-| 1955 | 113 | 39% | 643 | 729 | 2007 | 587 | 107% | 81 | 477 |
+| Year | Index (market prices): Index | Index (market prices): % | Index (2000 prices): Deflator | Index (2000 prices): Index |
+| --- | --- | --- | --- | --- |
+| 1741 | 100 |  |  |  |
+| 1742 | 83 | −17% |  |  |
+| 1743 | 148 | 79% |  |  |
+| 1744 | 113 | −24% |  |  |
+| 1745 | 91 | −19% |  |  |
+| 1746 | 80 | −12% |  |  |
+| 1747 | 70 | −12% |  |  |
+| 1748 | 88 | 24% |  |  |
+| 1749 | 94 | 7% |  |  |
+| 1750 | 80 | −15% | 1,887 | 1,504 |
+| 1751 | 78 | −2% | 1,971 | 1,540 |
+| 1752 | 69 | −12% | 2,218 | 1,525 |
+| 1753 | 67 | −2% | 2,218 | 1,490 |
+| 1754 | 111 | 65% | 1,868 | 2,072 |
+| 1755 | 152 | 37% | 1,829 | 2,772 |
+| 1756 | 159 | 5% | 1,792 | 2,856 |
+| 1757 | 163 | 2% | 1,774 | 2,883 |
+| 1758 | 150 | −8% | 1,658 | 2,487 |
+| 1759 | 113 | −25% | 1,658 | 1,865 |
+| 1760 | 147 | 31% | 1,628 | 2,391 |
+| 1761 | 175 | 19% | 1,658 | 2,902 |
+| 1762 | 108 | −38% | 1,628 | 1,755 |
+| 1763 | 130 | 20% | 1,628 | 2,111 |
+| 1764 | 119 | −8% | 1,658 | 1,969 |
+| 1765 | 106 | −11% | 1,690 | 1,795 |
+| 1766 | 91 | −15% | 1,690 | 1,531 |
+| 1767 | 98 | 9% | 1,690 | 1,663 |
+| 1768 | 89 | −10% | 1,706 | 1,519 |
+| 1769 | 108 | 21% | 1,810 | 1,952 |
+| 1770 | 130 | 20% | 1,774 | 2,301 |
+| 1771 | 120 | −7% | 1,774 | 2,135 |
+| 1772 | 97 | −19% | 1,706 | 1,653 |
+| 1773 | 102 | 5% | 1,690 | 1,716 |
+| 1774 | 106 | 5% | 1,706 | 1,813 |
+| 1775 | 145 | 37% | 1,706 | 2,479 |
+| 1776 | 155 | 6% | 1,658 | 2,565 |
+| 1777 | 172 | 11% | 1,628 | 2,798 |
+| 1778 | 158 | −8% | 1,598 | 2,522 |
+| 1779 | 158 | 0% | 1,516 | 2,393 |
+| 1780 | 202 | 28% | 1,478 | 2,980 |
+| 1781 | 213 | 5% | 1,516 | 3,222 |
+| 1782 | 136 | −36% | 1,386 | 1,884 |
+| 1783 | 144 | 6% | 1,431 | 2,057 |
+| 1784 | 131 | −9% | 1,543 | 2,025 |
+| 1785 | 116 | −12% | 1,556 | 1,799 |
+| 1786 | 113 | −3% | 1,478 | 1,663 |
+| 1787 | 113 | 0% | 1,504 | 1,691 |
+| 1788 | 119 | 6% | 1,478 | 1,756 |
+| 1789 | 141 | 18% | 1,556 | 2,189 |
+| 1790 | 141 | 0% | 1,556 | 2,189 |
+| 1791 | 133 | −6% | 1,539 | 2,044 |
+| 1792 | 192 | 45% | 1,574 | 3,025 |
+| 1793 | 200 | 4% | 1,428 | 2,856 |
+| 1794 | 213 | 6% | 1,399 | 2,973 |
+| 1795 | 192 | −10% | 1,204 | 2,315 |
+| 1796 | 166 | −14% | 1,194 | 1,978 |
+| 1797 | 166 | 0% | 1,307 | 2,164 |
+| 1798 | 273 | 65% | 1,283 | 3,507 |
+| 1799 | 294 | 7% | 1,108 | 3,255 |
+| 1800 | 186 | −37% | 917 | 1,706 |
+| 1801 | 172 | −8% | 888 | 1,526 |
+| 1802 | 239 | 39% | 1,135 | 2,714 |
+| 1803 | 222 | −7% | 1,117 | 2,478 |
+| 1804 | 225 | 1% | 1,117 | 2,513 |
+| 1805 | 222 | −1% | 1,018 | 2,260 |
+| 1806 | 236 | 6% | 1,026 | 2,421 |
+| 1807 | 256 | 9% | 1,057 | 2,709 |
+| 1808 | 303 | 18% | 955 | 2,896 |
+| 1809 | 294 | −3% | 894 | 2,625 |
+| 1810 | 280 | −5% | 905 | 2,532 |
+| 1811 | 228 | −18% | 955 | 2,179 |
+| 1812 | 242 | 6% | 845 | 2,045 |
+| 1813 | 303 | 25% | 820 | 2,484 |
+| 1814 | 263 | −13% | 899 | 2,361 |
+| 1815 | 178 | −32% | 1,065 | 1,898 |
+| 1816 | 150 | −16% | 1,164 | 1,746 |
+| 1817 | 180 | 20% | 1,049 | 1,886 |
+| 1818 | 166 | −7% | 996 | 1,657 |
+| 1819 | 154 | −7% | 1,082 | 1,667 |
+| 1820 | 161 | 4% | 1,204 | 1,938 |
+| 1821 | 157 | −3% | 1,385 | 2,169 |
+| 1822 | 160 | 2% | 1,574 | 2,513 |
+| 1823 | 174 | 9% | 1,413 | 2,454 |
+| 1824 | 172 | −1% | 1,358 | 2,332 |
+| 1825 | 160 | −7% | 1,226 | 1,955 |
+| 1826 | 147 | −8% | 1,385 | 2,041 |
+| 1827 | 141 | −4% | 1,399 | 1,970 |
+| 1828 | 133 | −6% | 1,443 | 1,916 |
+| 1829 | 132 | −1% | 1,443 | 1,898 |
+| 1830 | 130 | −1% | 1,458 | 1,898 |
+| 1831 | 139 | 7% | 1,458 | 2,032 |
+| 1832 | 125 | −10% | 1,506 | 1,882 |
+| 1833 | 113 | −9% | 1,556 | 1,763 |
+| 1834 | 117 | 3% | 1,592 | 1,866 |
+| 1835 | 125 | 7% | 1,630 | 2,037 |
+| 1836 | 135 | 8% | 1,458 | 1,975 |
+| 1837 | 145 | 7% | 1,474 | 2,130 |
+| 1838 | 153 | 6% | 1,413 | 2,164 |
+| 1839 | 144 | −6% | 1,332 | 1,915 |
+| 1840 | 136 | −5% | 1,345 | 1,828 |
+| 1841 | 109 | −20% | 1,413 | 1,546 |
+| 1842 | 105 | −4% | 1,556 | 1,629 |
+| 1843 | 97 | −7% | 1,731 | 1,677 |
+| 1844 | 108 | 11% | 1,710 | 1,844 |
+| 1845 | 116 | 7% | 1,669 | 1,930 |
+| 1846 | 106 | −8% | 1,611 | 1,711 |
+| 1847 | 127 | 19% | 1,428 | 1,807 |
+| 1848 | 103 | −19% | 1,689 | 1,742 |
+| 1849 | 98 | −5% | 1,872 | 1,843 |
+| 1850 | 98 | 0% | 1,872 | 1,843 |
+| 1851 | 92 | −6% | 1,868 | 1,722 |
+| 1852 | 95 | 3% | 1,847 | 1,761 |
+| 1853 | 128 | 34% | 1,517 | 1,944 |
+| 1854 | 138 | 7% | 1,416 | 1,947 |
+| 1855 | 130 | −6% | 1,428 | 1,852 |
+| 1856 | 119 | −8% | 1,428 | 1,696 |
+| 1857 | 100 | −16% | 1,371 | 1,371 |
+| 1858 | 88 | −13% | 1,588 | 1,390 |
+| 1859 | 97 | 11% | 1,531 | 1,483 |
+| 1860 | 103 | 6% | 1,465 | 1,511 |
+| 1861 | 106 | 3% | 1,478 | 1,570 |
+| 1862 | 97 | −9% | 1,428 | 1,384 |
+| 1863 | 97 | 0% | 1,405 | 1,361 |
+| 1864 | 108 | 11% | 1,371 | 1,478 |
+| 1865 | 105 | −2% | 1,428 | 1,506 |
+| 1866 | 97 | −8% | 1,416 | 1,372 |
+| 1867 | 95 | −2% | 1,440 | 1,373 |
+| 1868 | 91 | −5% | 1,465 | 1,328 |
+| 1869 | 94 | 3% | 1,478 | 1,385 |
+| 1870 | 97 | 3% | 1,504 | 1,457 |
+| 1871 | 88 | −10% | 1,504 | 1,316 |
+| 1872 | 109 | 25% | 1,395 | 1,521 |
+| 1873 | 124 | 14% | 1,342 | 1,661 |
+| 1874 | 114 | −8% | 1,384 | 1,582 |
+| 1875 | 105 | −8% | 1,441 | 1,510 |
+| 1876 | 104 | −1% | 1,478 | 1,533 |
+| 1877 | 105 | 1% | 1,441 | 1,510 |
+| 1878 | 96 | −8% | 1,543 | 1,486 |
+| 1879 | 90 | −7% | 1,630 | 1,466 |
+| 1880 | 92 | 2% | 1,571 | 1,447 |
+| 1881 | 92 | 0% | 1,600 | 1,473 |
+| 1882 | 86 | −7% | 1,586 | 1,359 |
+| 1883 | 79 | −7% | 1,615 | 1,282 |
+| 1884 | 68 | −15% | 1,780 | 1,205 |
+| 1885 | 67 | −2% | 1,896 | 1,264 |
+| 1886 | 62 | −6% | 2,005 | 1,252 |
+| 1887 | 69 | 10% | 2,052 | 1,411 |
+| 1888 | 80 | 17% | 2,005 | 1,612 |
+| 1889 | 79 | −1% | 1,960 | 1,555 |
+| 1890 | 68 | −15% | 1,960 | 1,327 |
+| 1891 | 67 | −2% | 1,896 | 1,264 |
+| 1892 | 58 | −13% | 2,005 | 1,167 |
+| 1893 | 63 | 9% | 2,052 | 1,303 |
+| 1894 | 61 | −3% | 2,180 | 1,336 |
+| 1895 | 59 | −3% | 2,236 | 1,325 |
+| 1896 | 59 | 0% | 2,295 | 1,360 |
+| 1897 | 59 | 0% | 2,265 | 1,342 |
+| 1898 | 72 | 21% | 2,180 | 1,569 |
+| 1899 | 69 | −4% | 2,208 | 1,519 |
+| 1900 | 80 | 17% | 2,028 | 1,631 |
+| 1901 | 60 | −25% | 2,101 | 1,268 |
+| 1902 | 52 | −14% | 2,101 | 1,090 |
+| 1903 | 52 | 0% | 2,101 | 1,090 |
+| 1904 | 52 | 0% | 2,076 | 1,077 |
+| 1905 | 54 | 4% | 2,076 | 1,121 |
+| 1906 | 55 | 2% | 2,005 | 1,103 |
+| 1907 | 57 | 4% | 1,917 | 1,095 |
+| 1908 | 48 | −17% | 1,982 | 944 |
+| 1909 | 49 | 2% | 1,960 | 954 |
+| 1910 | 53 | 9% | 1,875 | 992 |
+| 1911 | 61 | 16% | 1,855 | 1,139 |
+| 1912 | 83 | 34% | 1,762 | 1,454 |
+| 1913 | 72 | −13% | 1,744 | 1,255 |
+| 1914 | 71 | −1% | 1,722 | 1,221 |
+| 1915 | 211 | 49% | 1,705 | 3,590 |
+| 1916 | 386 | 0% | 1,580 | 6,102 |
+| 1917 | 735 | 0% | 1,345 | 9,895 |
+| 1918 | 795 | 0% | 1,140 | 9,063 |
+| 1919 | 519 | 0% | 995 | 5,161 |
+| 1920 | 396 | 0% | 861 | 3,408 |
+| 1921 | 176 | 66% | 962 | 1,690 |
+| 1922 | 138 | −22% | 1,025 | 1,410 |
+| 1923 | 130 | −5% | 1,007 | 1,311 |
+| 1924 | 128 | −2% | 1,007 | 1,289 |
+| 1925 | 116 | −9% | 984 | 1,145 |
+| 1926 | 141 | 21% | 973 | 1,369 |
+| 1927 | 129 | −8% | 990 | 1,278 |
+| 1928 | 119 | −8% | 1,007 | 1,194 |
+| 1929 | 122 | 3% | 1,007 | 1,226 |
+| 1930 | 98 | −19% | 1,031 | 1,015 |
+| 1931 | 95 | −3% | 1,133 | 1,079 |
+| 1932 | 93 | −2% | 1,257 | 1,171 |
+| 1933 | 90 | −3% | 1,325 | 1,192 |
+| 1934 | 90 | 0% | 1,285 | 1,156 |
+| 1935 | 93 | 4% | 1,239 | 1,154 |
+| 1936 | 109 | 17% | 1,239 | 1,350 |
+| 1937 |  |  | 1,196 |  |
+| 1938 |  |  | 1,221 |  |
+| 1939 |  |  | 1,239 |  |
+| 1940 |  |  | 1,230 |  |
+| 1941 |  |  | 1,171 |  |
+| 1942 |  |  | 1,056 |  |
+| 1943 |  |  | 995 |  |
+| 1944 |  |  | 978 |  |
+| 1945 |  |  | 957 |  |
+| 1946 |  |  | 883 |  |
+| 1947 | 100 |  | 772 | 772 |
+| 1948 | 79 | −21% | 715 | 564 |
+| 1949 | 71 | −10% | 724 | 517 |
+| 1950 | 74 | 4% | 715 | 530 |
+| 1951 | 154 | 108% | 662 | 1,023 |
+| 1952 | 99 | −36% | 650 | 641 |
+| 1953 | 77 | −22% | 645 | 495 |
+| 1954 | 82 | 6% | 640 | 523 |
+| 1955 | 113 | 39% | 643 | 729 |
 | 1956 | 133 | 18% | 633 | 845 |
-| 1957 | 109 | − | 18% | 613 | 668 |
-| 1958 | 68 | − | 38% | 596 | 406 |
+| 1957 | 109 | −18% | 613 | 668 |
+| 1958 | 68 | −38% | 596 | 406 |
 | 1959 | 69 | 2% | 592 | 410 |
 | 1960 | 72 | 4% | 582 | 418 |
 | 1961 | 74 | 2% | 576 | 423 |
-| 1962 | 68 | − | 8% | 570 | 386 |
+| 1962 | 68 | −8% | 570 | 386 |
 | 1963 | 68 | 0% | 563 | 382 |
 | 1964 | 73 | 7% | 555 | 405 |
 | 1965 | 87 | 19% | 547 | 474 |
-| 1966 | 74 | − | 15% | 531 | 393 |
+| 1966 | 74 | −15% | 531 | 393 |
 | 1967 | 84 | 13% | 516 | 433 |
-| 1968 | 60 | − | 29% | 495 | 297 |
-| 1969 | 58 | − | 3% | 469 | 273 |
+| 1968 | 60 | −29% | 495 | 297 |
+| 1969 | 58 | −3% | 469 | 273 |
 | 1970 | 95 | 63% | 444 | 422 |
-| 1971 | 44 | − | 54% | 425 | 186 |
-| Continued |
-
-<!-- Page 783 -->
-| MARITIME ECONOMICS FREIGHT INDEX, 1741-2007 |
-| Index (market prices) | Index (2000 prices) | Index (market prices) | Index (2000 prices) |
-| Year | Index | % | Deflator | Index | Year | Index | % | Deflator | Index |
-| 1972 | 42 | − | 5% | 412 | 171 |
+| 1971 | 44 | −54% | 425 | 186 |
+| 1972 | 42 | −5% | 412 | 171 |
 | 1973 | 135 | 225% | 388 | 524 |
 | 1974 | 168 | 24% | 349 | 586 |
-| 1975 | 73 | − | 57% | 320 | 232 |
-| 1976 | 72 | − | 1% | 303 | 218 |
-| 1977 | 71 | − | 2% | 284 | 201 |
+| 1975 | 73 | −57% | 320 | 232 |
+| 1976 | 72 | −1% | 303 | 218 |
+| 1977 | 71 | −2% | 284 | 201 |
 | 1978 | 98 | 39% | 264 | 259 |
 | 1979 | 152 | 55% | 237 | 361 |
 | 1980 | 207 | 36% | 209 | 432 |
-| 1981 | 178 | − | 14% | 189 | 337 |
-| 1982 | 117 | − | 34% | 178 | 208 |
+| 1981 | 178 | −14% | 189 | 337 |
+| 1982 | 117 | −34% | 178 | 208 |
 | 1983 | 118 | 2% | 173 | 205 |
-| 1984 | 108 | − | 9% | 166 | 180 |
-| 1985 | 98 | − | 10% | 160 | 157 |
-| 1986 | 74 | − | 25% | 157 | 116 |
+| 1984 | 108 | −9% | 166 | 180 |
+| 1985 | 98 | −10% | 160 | 157 |
+| 1986 | 74 | −25% | 157 | 116 |
 | 1987 | 116 | 58% | 152 | 176 |
 | 1988 | 164 | 41% | 146 | 239 |
 | 1989 | 183 | 11% | 139 | 254 |
-| 1990 | 167 | − | 9% | 132 | 220 |
+| 1990 | 167 | −9% | 132 | 220 |
 | 1991 | 189 | 13% | 126 | 239 |
-| 1992 | 154 | − | 19% | 123 | 188 |
+| 1992 | 154 | −19% | 123 | 188 |
 | 1993 | 175 | 14% | 119 | 209 |
 | 1994 | 174 | 0% | 116 | 203 |
 | 1995 | 236 | 35% | 113 | 267 |
-| 1996 | 172 | − | 27% | 110 | 189 |
-| Sources |
-| A. 1741-1817 Tyne coal trade freight statistics in shillings per chaldron converted to shillings per ton |
-| at 0.85 tons per chaldron; Beveridge | et al | . (1965, pp. 264-95). |
-| B. 1818-1835: Tyne coal trade freight rates from the testimony of James Bentley before the Select |
-| Committee on the Coal Trade, | Parliamentary Papers | , 1836, XI, p. 98. |
-| C. 1836-1837: Tyne coal trade freight rates from the testimony of James Bentley before the Select |
-| Committee on the Coal Trade (Port of London) Bill, | Parliamentary Papers | . 1837-8, XV, p. 79. |
-| D. 1838-1868: Tyne coal trade freight rates extracted by C.K. Harley from freight quotations in the | Newcastle |
-| Courant | , average of six quotes (first week of Jan., May, July, Sept., Nov. or nearest available date). |
-| E. 1869-1936: A composite global freight index compiled by Isserlis (1938). |
-| F. 1947-1959: A dry bulk freight index published monthly as the Norwegian Shipping New's Worldwide |
-| Dry Cargo Tripcharter Index July/December 1947 | = | 100, average of monthly rates, reproduced from |
-| summary tables published in | Norwegian Shipping News | no. 10C, 1970. |
-| G. 1960-1985: Grain freight statistics for a voyage from the US Gulf to Japan via the Panama Canal |
-| published in | Fearnleys | Review | 1966, Table 9, based on fixtures of vessels 15,000-25,000 dwt and free |
-| discharge. Data for later years was reported in subsequent editions of this publication. |
-| By the early 1980s the vessel referred to was a Panamax bulk carrier. |
-| H. 1986-2007: Grain freight statistics for a voyage from the US Gulf to Japan via the Panama Canal |
-| published in | Clarkson's Shipping Review and Outlook | , spring 2008, Table 30. |
-| Price deflator: The freight index at 2006 constant prices shown in Figure 3.5 calculated using a composite |
-| price deflator based on US and UK prices by Randy Young, Civil Maritime Analysis Department, US Office |
-| of Naval Intelligence. |
+| 1996 | 172 | −27% | 110 | 189 |
+| 1997 | 166 | −4% | 107 | 178 |
+| 1998 | 110 | −34% | 106 | 116 |
+| 1999 | 135 | 23% | 103 | 140 |
+| 2000 | 164 | 21% | 100 | 164 |
+| 2001 | 145 | −12% | 97 | 141 |
+| 2002 | 155 | 7% | 96 | 148 |
+| 2003 | 253 | 63% | 92 | 233 |
+| 2004 | 425 | 68% | 89 | 379 |
+| 2005 | 355 | −16% | 86 | 307 |
+| 2006 | 283 | −20% | 83 | 236 |
+| 2007 | 587 | 107% | 81 | 477 |
+
+<!-- Page 781 -->
+
+<!-- Page 782 -->
+
+<!-- Page 783 -->
+
+**Sources**
+
+*A. 1741–1817 Tyne coal trade freight statistics in shillings per chaldron converted to shillings per ton at 0.85 tons per chaldron; Beveridge et al. (1965, pp. 264–95).*
+
+*B. 1818–1835: Tyne coal trade freight rates from the testimony of James Bentley before the Select Committee on the Coal Trade, Parliamentary Papers, 1836, XI, p. 98.*
+
+*C. 1836–1837: Tyne coal trade freight rates from the testimony of James Bentley before the Select Committee on the Coal Trade (Port of London) Bill, Parliamentary Papers. 1837–8, XV, p. 79.*
+
+*D. 1838–1868: Tyne coal trade freight rates extracted by C.K. Harley from freight quotations in the Newcastle Courant, average of six quotes (first week of Jan., May, July, Sept., Nov. or nearest available date).*
+
+*E. 1869–1936: A composite global freight index compiled by Isserlis (1938).*
+
+*F. 1947–1959: A dry bulk freight index published monthly as the Norwegian Shipping New's Worldwide Dry Cargo Tripcharter Index July/December 1947 = 100, average of monthly rates, reproduced from summary tables published in Norwegian Shipping News no. 10C, 1970.*
+
+*G. 1960–1985: Grain freight statistics for a voyage from the US Gulf to Japan via the Panama Canal published in Fearnleys Review 1966, Table 9, based on fixtures of vessels 15,000–25,000 dwt and free discharge. Data for later years was reported in subsequent editions of this publication. By the early 1980s the vessel referred to was a Panamax bulk carrier.*
+
+*H. 1986–2007: Grain freight statistics for a voyage from the US Gulf to Japan via the Panama Canal published in Clarkson's Shipping Review and Outlook, spring 2008, Table 30.*
+
+*Price deflator: The freight index at 2006 constant prices shown in Figure 3.5 calculated using a composite price deflator based on US and UK prices by Randy Young, Civil Maritime Analysis Department, US Office of Naval Intelligence.*
 
 *Note: sources A-D were published in summary as a series by Harley (1988).*
 
