@@ -4,7 +4,32 @@ Last updated: 2026-10-12 ~03:00 IST. Worktree: `.claude/worktrees/maritime-audit
 branch `claude/restore-damaged-md` (WIP pushed to origin). Goal: every `data/extracted/md` file correct
 and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest automation.
 
-## RESUME HERE (2026-10-12 night) — GIBSON + FEARNLEYS DONE, NEXT BANCHERO
+## RESUME HERE (2026-10-18) — SATURDAY REVIEW: GEMINI LANES REDONE AGAINST THE PDF
+
+- **Gemini lane verdicts are void.** Every source was re-checked by rendering the MD and the PDF page.
+- **Iron ore (MMi, 1,173 MDs)**:
+  - number precision: a printed 3-decimal value (120.409) now keeps 3 decimals;
+  - the steel consumption/production "table" was a chart read → chart note, and its series was deleted;
+  - the benchmark table is rebuilt from the PDF text layer (`mmi_text_tables.read_benchmarks`), 480 MDs;
+  - a HOLIDAY box covers some cells: only the cells under the drawn box become `-`, with `HOLIDAY` in the
+    Assessment cell (2026-04-03: Price/Change hidden, MTD..High printed);
+  - `hellenic_iron_ore_pdf_indices_series.csv` is rebuilt from the MDs by
+    `scripts/extract/publishers/iron_ore_indices_from_md.py`. One schema for MMi and SMM rows. It was 99% empty
+    (SMM writer schema clash). The MMi runner no longer writes it from the stale gitignored sidecars;
+  - SMM writer: key price drivers had an invented `change: 0.0` → empty; 143 rows cleared.
+  - Other iron ore series: every number is present in its MD (checked).
+- **Banchero**: 43 fabricated commodity-chart tables (line charts with no printed values) → chart notes. W36-38
+  2026 had `-5.1+/-%` artefacts (595) → `-5.1%`, all checked against the text layer. Image tables with printed
+  labels (crude imports by source, 2021 commodity page) are kept: they match the render.
+- **Intermodal**: W03 2023 soybean table rewritten from the printed table; 6 chart reads → notes.
+- **ISM**: series regenerated with the l2-series label fixes.
+- **New tools**: `scripts/qa/unprinted_tables.py` (table numbers on neither the text layer nor the Nace read),
+  `scripts/ci/fidelity_gate.py` (CI: new MDs only; replaces a table only when nothing of it is printed and the PDF
+  has no images, otherwise queues `_FIDELITY_REVIEW.json`), `nace_second_read.py --only`.
+- **Open**: `unprinted_tables` on the other sources; the MMi wide dashboard series (lost to the SMM writer long ago,
+  only SMM rows remain); LlamaCloud key rotation at the very end.
+
+## Earlier: RESUME HERE (2026-10-12 night) — GIBSON + FEARNLEYS DONE, NEXT BANCHERO
 
 - **Gibson** done (pushed b2a9bd3a5e). 5 WordPress error-page MDs removed (4 duplicated good PDF-era MDs;
   2023-11-24 production-predicament is lost upstream). `run_gibson_html.py` never caches or parses error pages.

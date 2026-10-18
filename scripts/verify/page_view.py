@@ -50,7 +50,14 @@ def nums(s: str) -> list[str]:
 
 
 def canon(n: str) -> set[str]:
-    return {n, n.replace(",", "."), n.replace(".", ","), re.sub(r"[.,]", "", n)}
+    """3.285 = 3,285 = 3285, and the value itself (881 = 881.00, 24.0 = 24) under each separator reading."""
+    out = {n, n.replace(",", "."), n.replace(".", ","), re.sub(r"[.,]", "", n)}
+    for s in (n.replace(",", ""), n.replace(".", "").replace(",", "."), n.replace(",", ".")):
+        try:
+            out.add(repr(round(float(s), 4)))
+        except ValueError:
+            pass
+    return out
 
 
 def resolve(p: str, root: str) -> Path:

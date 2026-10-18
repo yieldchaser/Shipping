@@ -30,7 +30,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas pillow openpyxl
+        run: pip install requests beautifulsoup4 pandas pillow openpyxl pymupdf
 
       - name: Configure Git identity
         run: |
@@ -56,6 +56,7 @@ jobs:
       - name: Commit & Push New Signal Intelligence
         run: |
           python scripts/ci/protect_accepted_md.py
+          python scripts/ci/fidelity_gate.py || true
           for fpath in corpus/07-signal; do
             if [ -e "$fpath" ]; then
               git add -f "$fpath" || true
