@@ -26,29 +26,7 @@ The chart below shows the relative price strength between heating oil (#2 oil ba
 
 $/MMBTU Relative Price Strength - Heating Oil v. Natural Gas
 
-### $30
-
 #2 Oil Premium Natural Gas Premium
-
-### $20
-
-### $10
-
-### $0
-
-### -$10
-
-### -$20
-
-### -$30
-
-### -$40
-
-### -$50
-
-### -$60
-
-### -$70
 
 ### #2 Oil (NYH) to Natural Gas
 

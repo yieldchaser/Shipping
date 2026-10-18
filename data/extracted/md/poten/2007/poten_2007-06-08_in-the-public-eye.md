@@ -56,25 +56,7 @@ One sector in particular that has been of interest to several public companies h
 
 ### Product Carrier Spot Market Rates
 
-### $40,000
-
-### $35,000
-
 ### TCE UKC - USAC (37kt)
-
-### $30,000
-
-### $25,000
-
-### $20,000
-
-### $15,000
-
-### $10,000
-
-### $5,000
-
-### $0
 
 UKC - USAC TCE Trendline Investors and market consensus has traditionally reacted to short- term rates. It is more difficult to rationalize an investment of $48 million dollars per product carrier, when day rates are under $10,000 per day. With better information and a more educated investor base, tanker companies can be valued in expectation of longer-term fundamentals.
 

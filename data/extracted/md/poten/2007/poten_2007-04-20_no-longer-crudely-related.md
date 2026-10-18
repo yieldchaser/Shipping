@@ -18,39 +18,17 @@ Recent events - some transient and some not - appear to have compromised any sen
 
 From early 1987 through 2005, WTI's price premium over Brent meandered around the value of about one and a half dollars per barrel. The chart below, however, illustrates that swings in a price relationship can be masked by averaging prices.
 
-### $6.00
-
-### $5.00
-
 Monthly High, Low & Average are from May 1987 to Dec 2005
-
-### $4.00
 
 ### High
 
 ### WTI-Brent Price Spread, $/bbl
 
-### $3.00
-
-### $2.00
-
 ### Average
-
-### $1.00
-
-### $0.00
 
 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
 
-### -$1.00
-
 ### Low
-
-### -$2.00
-
-### -$3.00
-
-### -$4.00
 
 High Low Average 2006 2007 Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1 On the plot of highs, WTI's premium reached a monthly peak of almost $5 per barrel over Brent in November 2004. Market repercussions of Kuwait's invasion in August 1990 led to Brent's temporary rise over WTI and produced a premium low one month later. Although the band of highest monthly highs and lowest monthly lows is quite broad, the majority of the lows were still positive indicating that the price of WTI held mostly above Brent's.
 

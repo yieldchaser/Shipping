@@ -20,22 +20,6 @@ Rail infrastructure, barges and ships have been called upon to serve current tra
 
 ### Price Spread between WTI and LLS
 
-### $35
-
-### $30
-
-### $25
-
-### $20
-
-### $15
-
-### $10
-
-### $5
-
-### $0
-
 ### Jul-12
 
 ### Jul-11

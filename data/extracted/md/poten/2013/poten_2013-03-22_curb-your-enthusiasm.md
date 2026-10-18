@@ -48,29 +48,7 @@ Not surprisingly, a significant part of dirty orderbooks are currently slated to
 
 VLCCs largely heading to Eastern owners It did not take much to incite ordering in 2010
 
-### $100
-
-### $90
-
-### $80
-
 ### Earnings per Day (000s)
-
-### $70
-
-### $60
-
-### $50
-
-### $40
-
-### $30
-
-### $20
-
-### $10
-
-### $0
 
 Asia/Middle East Other
 

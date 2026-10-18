@@ -20,31 +20,9 @@ Looking at the chart below, TCE rates have clearly taken a rather lackluster pat
 
 ### Clean MR TCE from UK Continent to US Atlantic Coast
 
-### $50
-
-### $45
-
-### $40
-
-### $35
-
 ### 1,000 $/day
 
 Min/Max TCE Range from 2003 to 2007 4/18/08
-
-### $30
-
-### $25
-
-### $20
-
-### $15
-
-### $10
-
-### $5
-
-### $0
 
 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Min 2007 2008 Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1
 

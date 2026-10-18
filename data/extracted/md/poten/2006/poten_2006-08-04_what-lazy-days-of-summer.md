@@ -40,25 +40,9 @@ As summer is typically the high season for gasoline consumption, product stocks 
 
 ### Gasoline Prices and Stocks
 
-### $3.50
-
-### $3.00
-
-### $2.50
-
 ### Price Per Gallon
 
 ### (000 Barrels)
-
-### $2.00
-
-### $1.50
-
-### $1.00
-
-### $0.50
-
-### $0.00
 
 Jan Feb Mar Apr May Jun Aug Sep Oct Nov Dec 2006 - Gasoline Stocks 2005 - Gasoline Stocks 2006 - Prices 2005 - Prices In terms of total gasoline stocks, this year looks very similar to 2005, but the price of gasoline is much higher. With the relatively tight stock levels of today, there is less of a cushion in the face of hurricane season. Given that the forward market for gasoline is in backwardation, meaning that future prices are lower than current spot prices, there is less incentive to build up storage. The effects of a hurricane are physically devastating to a region, but with today's supply picture being what it is, expect the upward price implications on gasoline at the pump to be just as drastic.
 

@@ -28,29 +28,7 @@ Limited opportunities for non-double hull ships in the Atlantic Basin tend to ke
 
 ### Freight Rates in West Africa
 
-### $200,000
-
-### $180,000
-
-### $160,000
-
-### $140,000
-
 ### TCE ($/day)
-
-### $120,000
-
-### $100,000
-
-### $80,000
-
-### $60,000
-
-### $40,000
-
-### $20,000
-
-### $0
 
 WAF - USA (260kt) WAF - USA (130kt) 12 Mo. VLCC Average 12 Mo. Suezmax Average Since cargoes are stemmed as 130,000 MT (approximately 1 millon barrels) the market is attractive to both VLCCs and Suezmaxes. A differential arises from the required coordination to co-load two cargoes in order to fill a VLCC, often requiring two load ports and many times two different charterers. The balance in rates between the VLCCs and Suezmaxes in the region has remained pretty steady on a Worldscale basis during the last few years. However, the stable differential in Worldscale (WS) rates has resulted in a wide range in freight costs to charterers from $915,000 on average in 2007 with VLCC averaging WS 80, to almost $2 million on average in 2008 to-date as VLCCs average WS 136. Any psychology attached to maintaining a differential is sometimes not that clear cut.
 

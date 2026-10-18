@@ -18,27 +18,7 @@ Although it is only the first official week of summer, the time charter market i
 
 ### Historical VLCC Time Charter Rates
 
-### $90,000
-
-### $80,000
-
-### $70,000
-
-### $60,000
-
 ### ($/day)
-
-### $50,000
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
 
 ### Sep-06
 

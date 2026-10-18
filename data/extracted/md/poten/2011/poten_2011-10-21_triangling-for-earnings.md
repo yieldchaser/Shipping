@@ -20,23 +20,7 @@ Year to date, a hypothetical triangulated voyage has generally resulted in highe
 
 ### VLCC Spot Market Earnings 2011 YTD
 
-### $70,000
-
-### $60,000
-
-### $50,000
-
-### $40,000
-
 ### TCE ($/Day)
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
 
 ### Aug‐11
 
@@ -72,17 +56,11 @@ While owners may be bound to a certain extent by the intrinsic fuel efficiency o
 
 ### Comparative Earnings 2011 YTD
 
-### $20,000
-
 Full speed: 15.5 kt laden / 16 kt ballast Market speed: 14 kt laden / 13.5 kt ballast Piracy deviation: 1,150 nm
 
 ### Ras Tanura - LOOP - Bonny -
 
 ### Ningpo - Ras Tanura
-
-### $10,000
-
-### $17,600
 
 ### TCE ($/Day)
 
@@ -90,11 +68,7 @@ Full speed: 15.5 kt laden / 16 kt ballast Market speed: 14 kt laden / 13.5 kt ba
 
 ### Ras Tanura - LOOP (280kt)
 
-### $3,900
-
 ### ‐$1,120
-
-### $0
 
 Round trip Round trip Triangulated Voyage No piracy deviation With piracy deviation With piracy deviation Full speed Market speed Market Speed
 

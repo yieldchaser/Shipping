@@ -26,24 +26,6 @@ Black Sea Baltic Arctic/Far East Baku-Tblisi-Ceyhan Pipeline Druzhba Pipeline Ot
 
 ### Mediterranean Aframax Spot Rates
 
-### $70,000
-
-### $60,000
-
-### $50,000
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
-
-### -$10,000
-
 Black Sea - Mediterranean Cross - Mediterranean As recently as February, daily earnings averaged upwards of $60,000 per day on the intra-Mediterranean trades. Current spot rates rates are significantly less, yielding time charter equivalents in the $10,000 to $15,000 per day range, demonstrating the volatility that persists in these regions.
 
 Since Russian Urals crude oil flows from disparate export locations, anticipating price trends can be difficult for refiners purchasing the crude oil. Historically, Urals has traded at a discount to Brent due to differences in API and sulfur content, however the spread has collapsed to less than $0.85 per barrel during the last week, perhaps due to perceived future supply short-falls. Further upward pressure on Urals prices would suggest that other crude oil grades may become competitive in the European refining system. Replacement barrels from the Caribbean or West Africa would effectively lengthen ton-mile demand.

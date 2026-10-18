@@ -20,8 +20,6 @@ Since the start of the New Year, a sharp divergence in the spread between Light 
 
 $0 $2 $4 $6 $8 $10 $12 $14
 
-### $/bbl
-
 ‐$6 ‐$4 ‐$2
 
 ### Feb‐07
@@ -53,8 +51,6 @@ Common factors cited for the price divergence most often include several of the 
 ‐6 ‐4 ‐2 0 2 4 6 8 10 12 14
 
 ### PTI vs. WTI/Brent Spread
-
-### $/bbl
 
 ### PTI
 

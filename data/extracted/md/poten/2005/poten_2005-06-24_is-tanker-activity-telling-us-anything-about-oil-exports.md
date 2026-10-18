@@ -48,41 +48,13 @@ On the next page we can see the positive influence of heightened spot fixture ac
 
 ### VLCC $/Day vs AG VLCC Fixture Activity
 
-### $26,000
-
-### $24,000
-
-### $22,000
-
-### $/Day
-
-### $20,000
-
-### $18,000
-
-### $16,000
-
 5/23 5/25 5/27 6/1 6/3 6/7 6/9 6/13 6/15 6/17 6/21 6/23 $14,000 The next chart shows that vessel availability in the Arabian Gulf, which had peaked in March as a consequence of low fixture activity over the last 30 days, is declining somewhat.
 
 ### VLCC $/Day vs AG VLCC Availability
 
-### $26,000
-
 $/Day # VLCCs
 
-### $24,000
-
-### $22,000
-
 ### #VLCCs
-
-### $/Day
-
-### $20,000
-
-### $18,000
-
-### $16,000
 
 5/23 5/25 5/27 6/1 6/3 6/7 6/9 6/13 6/15 6/17 6/21 6/23 $14,000 Previous analysis has shown that VLCC rates tend to get much stronger when the number of available vessels falls below 30.
 

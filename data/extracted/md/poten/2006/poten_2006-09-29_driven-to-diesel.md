@@ -56,24 +56,6 @@ Automakers have been publicizing the advantages of driving diesel cars in the Un
 
 The chart above shows the nationwide average prices of retail gasoline versus the prices of retail diesel over the last two years. For the time series above, the average price of gasoline is $2.42/gallon while the average price of diesel is $2.49/gallon.
 
-### $3.15
-
-### $2.95
-
-### $2.75
-
-### $/gallon
-
-### $2.55
-
-### $2.35
-
-### $2.15
-
-### $1.95
-
-### $1.75
-
 Retail Gasoline Price Retail Diesel Price
 
 ### Changing the Mix

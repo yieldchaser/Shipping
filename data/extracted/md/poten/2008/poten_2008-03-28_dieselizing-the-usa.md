@@ -60,8 +60,6 @@ Since the end of last summer, diesel's wholesale price has consistently remained
 
 ### New York Harbor Gasoline and Diesel Price
 
-### $/bbl
-
 NYH USLD, $/bbl NYH UNL Regular gasoline, $/bbl While high prices might wring more diesel from domestic refineries, how much more production can be raised remains to be demonstrated.
 
 The chart below suggests that the yield of distillate from US refineries has - on average - increased in recent times. But squeezing more of one product from a refinery usually robs production of another. Although the total yield of gasoline from US refineries appears steady, once the menagerie of assorted non-refinery blendstocks are netted out of production, net refinery gasoline yield seems to be declining lately.

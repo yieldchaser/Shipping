@@ -18,23 +18,7 @@ Even as the lull of August manifests itself in the empty desks of colleagues on 
 
 ### Newbuilding Prices
 
-### $100
-
-### $90
-
-### $80
-
-### $70
-
 ### Millions of $
-
-### $60
-
-### $50
-
-### $40
-
-### $30
 
 Jan-99 Nov-99 Sep-00 Jul-01 May-02 Mar-03 Jan-04 $20
 
@@ -44,23 +28,7 @@ With steel in demand for China's growth and yards soaking up steel to complete e
 
 ### Plate Steel Prices
 
-### $650
-
-### $600
-
-### $550
-
-### $500
-
 ### US$/ton
-
-### $450
-
-### $400
-
-### $350
-
-### $300
 
 The litany of reasons for high steel prices include the favorite excuse of China, but also steel consumed in the reconstruction of Iraq and a shortage of scrap steel to make rebar, reinforcing steel rods, used in construction. The use of rebar made from new steel rather than scrap becomes another demand factor pushing up steel prices. Another is hoarding in anticipation of even higher prices, an indication that perhaps this bubble in steel prices may soon burst.
 

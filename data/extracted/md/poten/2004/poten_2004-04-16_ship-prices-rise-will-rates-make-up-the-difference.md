@@ -28,67 +28,23 @@ In spite of rates being low, VLCC prices were high from 1995 to 2000, as seen in
 
 ### Newbuilding Prices
 
-### $90
-
-### $80
-
 ### Millions US$
-
-### $70
-
-### $60
-
-### $50
 
 This market is seeing second hand modern double-hull ship prices on par with newbuilding prices, as in the graph on the next page. This is associated with owners wanting to buy an existing ship to take advantage of current high rates rather than wait for one to be built.
 
 ### VLCC Newbuilding Prices Vs. Second Hand Prices
 
-### $85
-
-### $85
-
 ### Newbuilding Prices
-
-### $80
-
-### $75
 
 ### Millions of $
 
-### $75
-
 ### Second Hand Prices
-
-### $65
-
-### $70
-
-### $55
-
-### $65
-
-### $45
 
 China May as Well Build Ships, They're Taking all the Steel Steel prices have increased by $140 during the past two years as shown below. China's need for steel is blamed - or alternatively credited - for the increase. The steel needed to build bridges, roads and housing to accommodate the millions of people relocating to China's urban areas from remote rural villages has sent scrap prices above $400 Ldt from the low $100s/Ldt approximately two years ago.
 
 ### Plate Steel Prices
 
-### $400
-
-### $380
-
-### $360
-
-### $340
-
 ### US$/ton
-
-### $320
-
-### $300
-
-### $280
 
 ### And the Other Vessel Classes?
 

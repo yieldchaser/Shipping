@@ -16,26 +16,6 @@ charts_count: 1
 
 The United States of America has a new president. The "Chief Executive" position is to be passed over to Senator Barack Obama in January 2009 and it seems that the new team in the White House has their work cut out for them. The next year will likely prove to be trying for the American people for a variety of reasons both economic and social. Change will come, but it will be largely influenced by the general state of the economy. Although the duration of the economic downturn remains to be seen, it will be significantly influenced by the actions of policy makers in the coming months. Gasoline prices have softened considerably since the highs seen early in the year, as shown in the chart below, but energy remains a key focus for the President-elect.
 
-### $4.50
-
-### $4.00
-
-### $3.50
-
-### $3.00
-
-### $2.50
-
-### $2.00
-
-### $1.50
-
-### $1.00
-
-### $0.50
-
-### $0.00
-
 ### Jul-04
 
 ### Jul-05

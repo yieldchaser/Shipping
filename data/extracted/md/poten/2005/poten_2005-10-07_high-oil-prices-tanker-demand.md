@@ -22,19 +22,7 @@ Inventory Imports Refinery Output Gasoline inventories have been falling since t
 
 Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 Gasoline consumption is calculated on the basis of domestic refinery production plus imports plus changes in inventory in terms of bpd. A decrease in inventory adds to consumption and vice versa. As shown below, U.S. gasoline consumption was rising over the period June through August. However, consumption fell markedly in late August and early September primarily from disruptions in imports caused by Katrina (port closures and disruptions in distribution); not necessarily due to price increases, a conclusion one might draw in viewing the chart.
 
-### $3.20
-
 Price Consumption
-
-### $2.90
-
-### $/Gallon
-
-### $2.60
-
-### $2.30
-
-### $2.00
 
 The classical economic relation between price and consumption is that as price increases, consumption decreases. The above chart does not bear this out. In June, July, and the first part of August, consumption actually increased along with price. American motorists complained about higher gasoline prices, but they did not change their vacation plans. But there is a price where economics, not personal desires, takes over.
 

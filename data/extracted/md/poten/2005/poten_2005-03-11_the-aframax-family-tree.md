@@ -18,19 +18,7 @@ Family trees allow us to figure out who is related to whom- here we are going to
 
 ### Newbuilding Prices vs Second Hand Values
 
-### $60
-
 Newbuilding Prices Second Hand (5 Yr) Values
-
-### $50
-
-### $40
-
-### $30
-
-### $20
-
-### $10
 
 Jan-00 Jan-01 Jan-02 Jan-03 Jan-04 Jan-05 $0 There is a strong relationship between newbuilding prices and second hand values. Normally there is a discount between the two reflecting the age difference, but in strong markets, having a ship is better than waiting for a ship 18 or more months after it has been ordered. Thus the discount has virtually disappeared since 2003. Tanker owners who had purchased a five-year old Aframax in 2002 have doubled their investment. Of course to realize that profit, they would have to sell at this time.
 
@@ -40,27 +28,7 @@ The next chart shows the relationship between newbuilding prices and timecharter
 
 ### Newbuilding Prices vs Timecharter Rates
 
-### $60
-
-### $45,000
-
 Newbuilding Prices 1 Yr Timecharter 3 Yr Timecharter
-
-### $50
-
-### $35,000
-
-### $/Day
-
-### $40
-
-### $25,000
-
-### $30
-
-### $15,000
-
-### $5,000
 
 While not quite as strong as the relationship between newbuilding prices and second hand values, there was a strong family resemblance between the three up to last year. The logic of the relationship is that a strong market drives up term charter rates, which in turn increases owners' desires for new tonnage. Their inquiries and orders provide an incentive for shipyards to increase quotes for newbuildings. Recently newbuilding prices seem to be departing from term charter rates reflecting continuing orders to shipyards whose order books are full.
 
@@ -68,23 +36,7 @@ While not quite as strong as the relationship between newbuilding prices and sec
 
 This relationship is shown below.
 
-### $42,000
-
 Caribs Upcoast 1 Yr Timecharter 3 Yr Timecharter
-
-### $35,000
-
-### $28,000
-
-### $/Day
-
-### $21,000
-
-### $14,000
-
-### $7,000
-
-### $0
 
 The relationship is relatively weak because the term charter market is not nearly as volatile as spot rates, although one can see that term charter rates follow the general trend in spot rates.
 

@@ -28,41 +28,9 @@ The high concentration of fuel oil trading on Panamaxes makes demand for these v
 
 Even at $300 per ton, fuel oil was a relative bargain compared to natural gas. This is no longer the case. As shown below in the past year, the price of natural gas has declined from over $14.00 to under $5.00 per million btu with a two year low reached last Friday of $4.86 per million btu.
 
-### $16.00
-
-### $60,000
-
-### $14.00
-
-### $50,000
-
-### $12.00
-
-### $40,000
-
-### $10.00
-
 ### ($/Mbtu)
 
 ### ($/day)
-
-### $8.00
-
-### $30,000
-
-### $6.00
-
-### $20,000
-
-### $4.00
-
-### $10,000
-
-### $2.00
-
-### $0.00
-
-### $0
 
 Henry Hub Price - $/Mbtu 1 Mo. Ahead Panamax Spot TCE Declining natural gas prices in the past few months have been an incentive for utilities to switch to natural gas-based generation instead of burning the more expensive fuel oil.
 

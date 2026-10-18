@@ -52,22 +52,6 @@ Brent crude has been the standard stock of floating storage deals for crude oil,
 
 ### 6 Month Crude Oil Contango vs. Cost of Floating Storage
 
-### $12.00
-
-### $10.00
-
-### $8.00
-
-### $/bbl
-
-### $6.00
-
-### $4.00
-
-### $2.00
-
-### $0.00
-
 ### Sep‐09
 
 ### Sep‐10

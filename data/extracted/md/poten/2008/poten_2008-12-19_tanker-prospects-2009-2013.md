@@ -20,21 +20,7 @@ The tanker market has experienced one of the strongest 12 month earnings periods
 
 ### VLCC Spot Market Rates
 
-### $300,000
-
 ### Time Charter Equivalent ($/day)
-
-### $250,000
-
-### $200,000
-
-### $150,000
-
-### $100,000
-
-### $50,000
-
-### $0
 
 ### Sep-07
 

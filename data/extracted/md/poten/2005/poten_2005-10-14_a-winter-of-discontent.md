@@ -36,27 +36,13 @@ The EIA raised its forecasts for diesel, heating oil, and gasoline prices. While
 
 ### Effect
 
-### 000 Tons
-
 Starting from a modest 500,000 tons per month of UKC clean exports to the U.S. Atlantic Coast at the start of 1996, clean cargo exports have been steadily growing reaching an estimated 2,300,000 tons in October. The total amount of cargo moved from northern Europe to the U.S. Atlantic coast from January- October 2004 was 14.4 million tons compared to 17.7 tons this year, up 3.3 million tons or 23%. Such large scale imports have affected U.S. wholesale prices that have to rise to cover the extra cost of importing clean cargoes from offshore markets. The chart on the next page tracks the cost in terms of $/bbl for moving 37,000 ton clean cargoes from northern Europe to the U.S. Atlantic Coast. The cost of moving clean products has increased 90% in September to $4.04 per barrel from a recent low of $2.13 per barrel in August.
 
 ### Shipping Costs 37,000 Ton Cargoes UKC-USAC
 
-### $5
-
 ### Katrina-Rita
 
 ### Effect
-
-### $4
-
-### $3
-
-### $/Bbl
-
-### $2
-
-### $1
 
 ### Conclusion
 

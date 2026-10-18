@@ -30,21 +30,9 @@ Within the ten‐year historical range the fundamentals suggest that the closer 
 
 ### VLCC Fleet Utilization & Volatility
 
-### $250
-
-### $200
-
 ### Ratio (Demand/Supply)
 
 ### TCE (000$/day)
-
-### $150
-
-### $100
-
-### $50
-
-### $0
 
 Furthermore, discontinuous events certainly drive the most dramatic spikes in the market: an oil spill, a war, even a trade agreement will have significant impacts.
 

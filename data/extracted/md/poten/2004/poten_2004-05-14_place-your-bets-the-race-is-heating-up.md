@@ -20,21 +20,7 @@ Ever watch a horse race? First one horse is in the lead, then another. The crowd
 
 ### & Oil Prices
 
-### $30
-
 $/BBl MM Bpd
-
-### $27
-
-### $24
-
-### $/BBl
-
-### $21
-
-### $18
-
-### $15
 
 The previous chart shows that oil prices roughly follow demand. In 2000, the world economies peaked with a simultaneous climax of oil demand and prices. Then the dot.com bubble burst. Although the U.S. economy tanked and stagnation marked other economies, emerging economies took up the slack to keep world oil consumption flat. Oil prices declined somewhat, but not markedly. Now, both the U.S. economy and emerging economies are growing and oil demand is climbing as are oil prices. As we know, oil prices hit a record high of just over $41 per barrel this week.
 

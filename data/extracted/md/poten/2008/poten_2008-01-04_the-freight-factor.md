@@ -18,23 +18,7 @@ This week crude oil prices touched the $100 per barrel mark and have continued t
 
 ### Charterers' Transportation Cost Per Barrel
 
-### $6.00
-
-### $5.00
-
-### $4.00
-
 10-Yr. Avg. 2007 Avg.
-
-### $/bbl
-
-### $3.00
-
-### $2.00
-
-### $1.00
-
-### $0.00
 
 AG - FE (260kt) $/bbl $/bbl Average (10 Yr.) 2007 Average Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1 The 10-year average freight rate is $1.49 per barrel whereas the 2007 average freight rate is only 30% higher at $1.93 per barrel.
 

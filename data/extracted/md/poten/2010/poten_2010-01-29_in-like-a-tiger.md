@@ -116,23 +116,9 @@ When asked whether VLCC freight rates would average $75,000 per day, $50,000 per
 
 ### 2009 VLCC Spot Market Earnings
 
-### $90,000
-
 Average Earnings ($/day) AG ‐ FE (260kt): $26,029 AG ‐ LOOP (280kt): $14,184 Top Answer: $50,000
 
-### $75,000
-
-### $60,000
-
 ### TCE ($/day)
-
-### $45,000
-
-### $30,000
-
-### $15,000
-
-### $0
 
 ### A
 

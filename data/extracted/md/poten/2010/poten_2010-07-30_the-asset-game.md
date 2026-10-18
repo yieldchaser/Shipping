@@ -18,49 +18,9 @@ One can't help but notice a disconnect between slipping freight rates, weak dema
 
 ### Assessed VLCC Prices & Spot Market Rates
 
-### $200,000
-
-### $170
-
-### $180,000
-
-### $160
-
 ### Time Charter Equivalent ($/day)
 
-### $160,000
-
-### $150
-
-### $140,000
-
 ### Assessed Price ($M)
-
-### $140
-
-### $120,000
-
-### $100,000
-
-### $130
-
-### $80,000
-
-### $120
-
-### $60,000
-
-### $110
-
-### $40,000
-
-### $100
-
-### $20,000
-
-### $0
-
-### $90
 
 ### Feb‐10
 
@@ -130,29 +90,9 @@ The charts below show the average reported prices for vessels ordered in Korean 
 
 ### Price Ratio & Average Reported Prices ‐ VLCC
 
-### $180
-
-### $160
-
 ### Secondhand/Newbuilding Prices
 
-### $140
-
 ### Assessed Price ($M)
-
-### $120
-
-### $100
-
-### $80
-
-### $60
-
-### $40
-
-### $20
-
-### $0
 
 ### Feb‐08
 
@@ -220,21 +160,7 @@ New Orders ‐ China New Orders ‐ Korea Secondhand:Newbuilding
 
 ### Price Ratio & Average Reported Prices ‐ Suezmax
 
-### $120
-
-### $100
-
 ### Assessed Price ($M)
-
-### $80
-
-### $60
-
-### $40
-
-### $20
-
-### $0
 
 ### Sep‐09
 

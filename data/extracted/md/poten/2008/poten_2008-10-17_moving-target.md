@@ -18,27 +18,7 @@ In an effort to head off a potential collapse in the oil market, the Organizatio
 
 ### OPEC Production vs. Crude Oil Price
 
-### $160
-
-### $140
-
 ### Million Barrels Per Day
-
-### $120
-
-### $100
-
-### $/Barrel
-
-### $80
-
-### $60
-
-### $40
-
-### $20
-
-### $0
 
 ### Feb-08
 

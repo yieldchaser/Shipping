@@ -30,43 +30,11 @@ Since the start of 2002, the rising value of rebar (the most common use of scrap
 
 ### Scrap Prices vs Steel Prices
 
-### $450
-
 $/Ton Rebar $/Ldt
-
-### $400
-
-### $350
-
-### $300
-
-### $250
-
-### $200
-
-### $150
 
 Historically, owners have scrapped vessels when Worldscale (WS) rates are low, and have kept ships afloat when rates are robust. As shown on the next page, owners are now facing a difficult decision. Namely do they continue to trade in the high spot market, or sell at historically high scrap prices?
 
-### $400
-
 $/Ldt WS Rate
-
-### $350
-
-### $300
-
-### $250
-
-### $/Ldt
-
-### $200
-
-### $150
-
-### $100
-
-### $50
 
 ### When Tonnage is Low, Scrap Prices are High
 
@@ -74,35 +42,13 @@ One conclusion we can draw from the graph below is that the lack of available ve
 
 ### Scrap Prices vs LDT Scrapped
 
-### $420
-
 $/Ldt 000 Tons
-
-### $360
-
-### $300
-
-### $240
-
-### 000 Tons
-
-### $/Ldt
-
-### $180
-
-### $120
-
-### $60
-
-### $0
 
 ### Do Tanker Rates Drive Scrapping?
 
 The chart below shows that scrapping activity does inversely follow tanker rates. Scrapping activity tends to rise when tanker rates are low and vice-versa. Owners often have to scrap around the fifth special survey when the market cannot justify a further investment in a vessel, particularly if steel has to be replaced in the hull. In a high market, an owner can economically justify the cost of the special survey, which subdues scrapping activity. In recent years, mandatory phase out of single hull tankers has also pushed some tankers into scrap yards independent of the level of market rates.
 
 ### VLCC Rates vs LDT Scrapped
-
-### 000 Tons
 
 ### What to Do?
 

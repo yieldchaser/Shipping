@@ -44,21 +44,7 @@ Price divergence among similar grades of crude oil has challenged the economic l
 
 ### Brent Premium to WTI : 2001 ‐ 2011 YTD
 
-### $30
-
 ### Brent Price Differential ($/bbl)
-
-### $25
-
-### $20
-
-### $15
-
-### $10
-
-### $5
-
-### $0
 
 ### ‐$5
 
@@ -94,21 +80,9 @@ If approved by the US government, construction of the Keystone XL pipeline could
 
 Without question, tanker oversupply is much to blame for the current state of affairs. The supply overhang has overshadowed real demand increases, as seen in the chart below.
 
-### $100,000
-
-### $80,000
-
 ### TCE ($/Day)
 
 ### No. Ships
-
-### $60,000
-
-### $40,000
-
-### $20,000
-
-### $0
 
 2005 2006 2007 2008 2009 2010 Oct‐ 2011 No. Ships Spot: AG‐FE (260kt) 1 Year TC 3 Year TC 5 Year TC Since the majority of single hull vessels have already exited the trading fleet, reconciliation of supply will likely result from voluntary removal of older double hull tonnage. Age restrictions at terminals and more stringent industry standards for trading vessels, together with high scrap prices, might convince owners of older double hull vessels to finally exit the market.
 

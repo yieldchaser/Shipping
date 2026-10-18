@@ -28,29 +28,11 @@ However, the price differential is causing a diversion of cargoes destined for t
 
 ### TransAtlantic Clean Cargo Fixtures
 
-### $40,000
-
 ### As Is Fixture
 
 ### Activity!
 
-### $35,000
-
-### $30,000
-
 ### Rates Up!
-
-### $25,000
-
-### $/Day
-
-### $20,000
-
-### $15,000
-
-### $10,000
-
-### $5,000
 
 A 1.5 million bpd sustained shortage translates to 5-6 cargoes per day, or around 300-350 extra cargoes over the next two months as a result of the one-two punch. Cargoes currently being diverted from the Northeast to the Gulf have to be replaced. Vessels with cargoes moving into the Gulf region that cannot be offloaded because of port and terminal congestion become floating storage, thus reducing vessel availability for other trades.
 

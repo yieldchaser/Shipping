@@ -64,31 +64,13 @@ October's lull in gasoline imports is also reflected in its weekly Time Charter 
 
 UK Continent to US Atlantic Coast 37 kt Clean Cargo Time Charter Equivalent (TCE)
 
-### $40
-
-### $35
-
-### $30
-
 ### TCE, 1,000 $/day
 
 ### Monthly Ave TCE
 
-### $25
-
 Weekly Average TCE Oct 2008 2008
 
-### $20
-
-### $15
-
 ### Max-Min Monthly Average TCE Range from 2000 to 2008
-
-### $10
-
-### $5
-
-### $0
 
 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Even in times of more vibrant economic activity, US gasoline imports in the late fall and early winter typically are not strong. But they are not necessarily weak, either. The structural bottom to the level of these imports usually tends to keep clean tankers busy in this trade. If lower prices soon spur an unexpected uptick in US gasoline demand, tankers many be called on to supply some of this unforeseen volume if the price arbitrage between markets supports freight costs and also rewards risk. In these shifting times, it is prudent for both owners and charterers to be aware of the potential to be blindsided by either abruptly rising or falling demand.
 

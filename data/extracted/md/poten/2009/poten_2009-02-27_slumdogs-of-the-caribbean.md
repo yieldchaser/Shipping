@@ -20,23 +20,7 @@ Aframaxes and Panamaxes have demonstrated the ability to earn over $60,000 and $
 
 ### Caribbean Rates
 
-### $70,000
-
-### $60,000
-
-### $50,000
-
 ### TCE ($/day)
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
 
 ### Sep-07
 
@@ -80,39 +64,15 @@ PLC - Houston Aframax 70kt TCE PLC - Houston Panamax 50kt TCE A slower market pr
 
 ### TCE/Demurrage Assessments
 
-### $/Day
-
 ### CAR-USG (70kt/50kt)
-
-### $100,000
-
-### $90,000
 
 February 27, 2009 CAR-USG (70kt): $7,500
 
-### $80,000
-
 ### Demurrage: $21,000
-
-### $70,000
-
-### $60,000
 
 ### CAR-USG (50kt): $14,300
 
 ### Demurrage: $20,000
-
-### $50,000
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
 
 CAR-USG (50kt) CAR-USG (70kt) Panamax Demurrage Aframax Demurrage In February to date, demurrage assessments for Aframaxes and Panamaxes have been 2.2 and 2.7 times that of daily timecharter equivalent earnings on average. Due to crude storage, lower refinery runs and less crude production in the region, the Caribbean has become a stagnant market with each part of the supply chain waiting for the downstream link to open up some demand. The current slow nature of crude movements has caused shipowners and charterers alike to slow down ship movements, sitting on cargoes with the ability to collect demurrage or take advantage of the spot to fixture crude price relationship.
 

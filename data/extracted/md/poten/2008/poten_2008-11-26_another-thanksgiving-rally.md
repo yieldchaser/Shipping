@@ -18,21 +18,9 @@ On this day last year, the tanker market was on the brink of one of the most dra
 
 ### Worldwide VLCC Liftings
 
-### $250,000
-
-### $200,000
-
 ### Number of Liftings
 
 ### TCE ($/day)
-
-### $150,000
-
-### $100,000
-
-### $50,000
-
-### $0
 
 Jan-07 Apr-07 Jul-07 Oct-07 Jan-08 Apr-08 Jul-08 Oct-08 AG WAF Other TCE Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1
 

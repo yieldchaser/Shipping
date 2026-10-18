@@ -50,31 +50,9 @@ The Summer Fuels Outlook highlights the obvious changes in market conditions fro
 
 ### Gasoline/Diesel Retail Prices
 
-### $5.0
-
 Outlook Historical
 
-### $4.5
-
-### $4.0
-
-### $3.5
-
 ### Price Per Gallon
-
-### $3.0
-
-### $2.5
-
-### $2.0
-
-### $1.5
-
-### $1.0
-
-### $0.5
-
-### $0.0
 
 ### Jul‐09
 

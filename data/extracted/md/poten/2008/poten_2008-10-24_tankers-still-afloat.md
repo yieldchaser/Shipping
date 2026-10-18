@@ -18,21 +18,7 @@ The shipping markets tend to ebb and flow with the health and cycles of the worl
 
 ### Comparitive Freight Rates
 
-### $120.00
-
-### $100.00
-
-### $80.00
-
 ### ($/MT)
-
-### $60.00
-
-### $40.00
-
-### $20.00
-
-### $0.00
 
 ### Jan-06
 

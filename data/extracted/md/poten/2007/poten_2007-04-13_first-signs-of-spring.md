@@ -16,23 +16,7 @@ charts_count: 1
 
 While New Yorkers are eagerly anticipating the arrival of spring, many tanker owners are happy to prolong the arrival of the annual April slump in freight rates. During April, VLCC rates tend to recede from strong winter levels, but rates on average this month have been higher than previous years, thus far. The chart below shows the historical average time charter equivalents for VLCCs AG - US Gulf (280kt). Spot VLCC rates have begun to evidence the first signs of softening this week. Due to the recent build-up of available tonnage in the Arabian Gulf awaiting cargoes, rates may continue to soften in the very near term. The downward pressure on rates should not be misinterpreted as a long-term softening in the market, but rather as seasonal cyclicality in anticipation of summer.
 
-### $140,000
-
-### $120,000
-
 ### AG - USG (280kt) TCE ($/day)
-
-### $100,000
-
-### $80,000
-
-### $60,000
-
-### $40,000
-
-### $20,000
-
-### $0
 
 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1
 

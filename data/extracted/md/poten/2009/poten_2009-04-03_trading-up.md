@@ -46,21 +46,7 @@ In the chart below, the value of US imports and exports over the past 45+ years 
 
 ### US Imports/Exports Value
 
-### $3,000,000
-
-### $2,500,000
-
-### $2,000,000
-
 ### (In Thousands)
-
-### $1,500,000
-
-### $1,000,000
-
-### $500,000
-
-### $0
 
 ### We Have Come So Far
 

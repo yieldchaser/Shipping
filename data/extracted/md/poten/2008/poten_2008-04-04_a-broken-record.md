@@ -20,39 +20,9 @@ st, also known as April Fool's Day, the United States House of Representatives' 
 
 ### Crude and Gasoline Prices, 2000-Present
 
-### $120
-
-### $3.50
-
-### $3.00
-
-### $100
-
-### $2.50
-
-### $80
-
 ### Gasoline $/gal
 
 ### WTI $/bbl
-
-### $2.00
-
-### $60
-
-### $1.50
-
-### $40
-
-### $1.00
-
-### $20
-
-### $0.50
-
-### $0
-
-### $0.00
 
 Jan-00 Jan-02 Jan-04 Jan-06 Jan-08 Crude Gasoline Poten & Partners | • athens • guangzhou • hong kong • london • new york • perth • singapore 1
 

@@ -30,27 +30,9 @@ What then does a current crude price of $48-49 per barrel mean in terms of dolla
 
 ### Crude Oil Prices
 
-### $55
-
 ### $6.50/Bbl Difference
 
 Current $ Constant 2000$
-
-### $50
-
-### $45
-
-### $40
-
-### $/Bbl
-
-### $35
-
-### $30
-
-### $25
-
-### $20
 
 The current price of crude of $48-$49 is equivalent to $42-$43 in 2000 dollars. How has the crude price changed in other currencies? The following chart shows the exchange rates of British pounds, Euros and the Japanese yen to the U.S. dollar.
 

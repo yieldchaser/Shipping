@@ -22,17 +22,7 @@ The fuel oil industry will continue its pace of fast-changing developments. Fuel
 
 ### July 2003 - July 2008
 
-### $800
-
 ### Monthly Average $/MT
-
-### $600
-
-### $400
-
-### $200
-
-### $0
 
 ### Jul-08
 

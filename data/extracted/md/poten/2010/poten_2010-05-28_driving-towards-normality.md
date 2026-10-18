@@ -28,28 +28,6 @@ Pressured by the European debt crisis, a strengthening dollar and various geopol
 
 ### U.S. Retail Gasoline Prices
 
-### $4.50
-
-### $4.00
-
-### $3.50
-
-### $3.00
-
-### $/gallon
-
-### $2.50
-
-### $2.00
-
-### $1.50
-
-### $1.00
-
-### $0.50
-
-### $0.00
-
 ### Sep‐09
 
 ### Sep‐08

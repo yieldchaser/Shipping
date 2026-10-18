@@ -18,27 +18,7 @@ The combination of general uncertainty and little activity in the sale and purch
 
 ### Assessed Asset Price
 
-### $180
-
-### $160
-
-### $140
-
-### $120
-
 ### Price ($M)
-
-### $100
-
-### $80
-
-### $60
-
-### $40
-
-### $20
-
-### $0
 
 ### Sep-06
 

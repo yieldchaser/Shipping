@@ -16,21 +16,7 @@ charts_count: 1
 
 As the public continues to complain about high gasoline prices, there is an analogous sentiment heard among some ship owners and charterers regarding the cost of both light and heavy fuel for ships. It is logical that the price of products would increase with increases in the price of crude, but not as logical that one type of fuel would increase more than another. As gasoline demand continues to climb, and refiners continue to favor lighter distillates in order to capture the high margins, the supply of heavier products is likely to decline
 
-### $600
-
-### $500
-
-### $400
-
 ### ($/MT)
-
-### $300
-
-### $200
-
-### $100
-
-### $0
 
 Price - IFO 380 CST Price - MDO Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 leading to even higher fuel bills for ship owners.
 
@@ -40,31 +26,9 @@ The chart on the previous page shows the month average of the daily assessed pri
 
 Looking at the price spread for MDO versus IFO, it would seem that refiners would have an incentive to produce more MDO. However, the sustained nature of the price premium indicates that refiners may not be able to produce as much MDO as the market demands.
 
-### $600
-
-### $550
-
-### $500
-
 ### Relative Price Strength
 
-### $450
-
 ### Crude Price ($/MT)
-
-### $400
-
-### $350
-
-### $300
-
-### $250
-
-### $200
-
-### $150
-
-### $100
 
 NYMEX Cash Crude Price Price Strength - MDO:Crude
 

@@ -24,31 +24,9 @@ Prior support levels broken in early 2013
 
 ### Weekly Data, 2007-2012
 
-### $100
-
-### $90
-
-### $80
-
 ### Time Charter, US$000s
 
-### $70
-
 ### Spot, World Scale
-
-### $60
-
-### $50
-
-### $40
-
-### $30
-
-### $20
-
-### $10
-
-### $0
 
 Jan-07 Jan-08 Jan-09 Jan-10 Jan-11 Jan-12 1 Year Time Charter 3 Year Time Charter TD1 TD3 There have been a few notable orders of VLCCs thusfar in 2013, and in a move that we did not previously foresee materializing this soon, the VLCC orderbook has begun to rebound, reaching 83 vessels or approximately 13.5% of the total fleet size.
 
@@ -70,29 +48,11 @@ Some newbuildings likely replacing aging vessels
 
 ### Annual Data, 2001-2012
 
-### $80
-
-### $70
-
-### $60
-
 ### 1 Year Time Charter, US$000s
-
-### $50
 
 ### y = 25.494e8.2189x
 
 ### R² = 0.7883
-
-### $40
-
-### $30
-
-### $20
-
-### $10
-
-### $0
 
 ### Vessel Class Utilization
 
@@ -104,25 +64,11 @@ TD1 6 Month MA Spot vs. 1 Year VLCC Time Charter
 
 ### Weekly Data, 2006-2012
 
-### $100
-
-### $80
-
 ### 6 Mo. Moving Avg. Spot Rate, US$000s
 
 ### y = -1E-10x3 + 2E-05x2 + 0.231x - 12656
 
 ### R² = 0.9458
-
-### $60
-
-### $40
-
-### $20
-
-### $0
-
-### -$20
 
 $0 $20 $40 $60 $80 $100
 

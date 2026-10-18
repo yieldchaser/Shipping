@@ -26,19 +26,7 @@ Poten & Partners | new york • london • athens • perth • hong kong • gu
 
 ### Freight Revenue for VLCC Cargo AG East
 
-### $12,000
-
-### $10,000
-
 Bunker Cost Freight Revenue Net of Bunkers
-
-### $8,000
-
-### $6,000
-
-### $4,000
-
-### $2,000
 
 The above chart seems to suggest that only a small portion of the freight revenue is related to bunkers. The portion of the bunker cost contained in the freight revenue, shown below, has varied from a low of 6% in November 2004 to a high of 51% in April and August of 2002. The average portion of freight revenue to cover bunkers since 2000 has been 21%.
 
@@ -51,16 +39,6 @@ Fluctuations in the portion of freight revenue to cover bunkers reflect changes 
 After paying for voyage charges (bunkers and canal/port charges) and commissions, the owner can calculate the vessel's daily earnings. Excluding the first half of 2002, the last five years have been one of the most prosperous periods in tanker history. As seen below, owners have not really been overly concerned about the increased costs they have had to pay for bunkers because of their spectacular earnings.
 
 ### $/Day TCE for VLCC Owner Trading AG/East
-
-### $250,000
-
-### $200,000
-
-### $150,000
-
-### $100,000
-
-### $50,000
 
 ### Lest We Forget
 

@@ -16,25 +16,7 @@ charts_count: 1
 
 With the exception of the VLCC market, rates on nearly all other large tanker sectors are up significantly from their month ago lows. Two of the more impressive increases occurred in the Baltic and Black Sea trades. For example, since last week, time charter equivalents (TCE) for Aframaxes trading from the Black Sea to ports in the Mediterranean increased by 174% to $74,500 per day. The chart below shows the average TCEs for all vessel sizes on representative trades.
 
-### $80,000
-
-### $70,000
-
-### $60,000
-
-### $50,000
-
 ### TCE ($/day)
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
 
 AG - FE (260kt) WAF - USAC (130kt) BSEA - MED (80kt) CAR - USG (50kt) CAR - USAC (38kt) Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1
 

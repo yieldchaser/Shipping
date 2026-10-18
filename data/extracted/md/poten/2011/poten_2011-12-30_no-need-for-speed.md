@@ -20,37 +20,13 @@ Dropping speeds by even one knot can have a significant impact on overall daily 
 
 ### Impact of VLCC Voyage Speeds on Daily Earnings
 
-### $60,000
-
 Bunkers = 68% of total Voyage Bunkers = 59% of total Voyage Revenue
-
-### $52,963
 
 Bunkers = 57% of total Voyage Revenue
 
 ### Revenue
 
-### $50,000
-
-### $43,501
-
-### $38,725
-
-### $40,000
-
-### $/Day
-
-### $30,000
-
 $24,570 $24,213
-
-### $19,113
-
-### $20,000
-
-### $10,000
-
-### $0
 
 13kt 14kt 15kt Not e: Voyage basis Ras Tanura - Chiba (260kt) Assumes current Worldscale rate of WS 60; bunkers $650/$1,000 HFO/M DO Time Charter Equivalent ($/Day) Daily Bunker Costs In better markets, it was not uncommon for VLCCs to undergo voyages at speeds in the range of 15 or 16 knots (kt). High demand created much incentive for vessels to complete voyages and load their next cargo as quickly as possible. However the weak freight rate environment has removed this sense of urgency. Currently average market speeds are in the range of 13 to 14 knots. It is estimated that this two knot reduction in speed can allow VLCC owners to increase their daily earnings on the Arabian Gulf to Far East trade by approximately $5,400 per day at current market levels.
 
@@ -62,53 +38,13 @@ Slow steaming decreases overall bunker consumption but can also distribute voyag
 
 ### VLCC Speeds and Bunker Fuel Prices vs. Daily Voyage Earnings
 
-### $800
-
-### $200,000
-
 13.5 laden / 14.0 ballast $16,750
-
-### $180,000
-
-### $700
-
-### $160,000
 
 15.5 laden / 16.0 ballast $13,425
 
-### $600
-
 ### HFO Fuel Price ($/MT)
 
-### $140,000
-
 ### TCE ($/Day)
-
-### $500
-
-### $120,000
-
-### $100,000
-
-### $400
-
-### $80,000
-
-### $300
-
-### $60,000
-
-### $200
-
-### $40,000
-
-### $100
-
-### $20,000
-
-### $0
-
-### $0
 
 ### Jul‐09
 

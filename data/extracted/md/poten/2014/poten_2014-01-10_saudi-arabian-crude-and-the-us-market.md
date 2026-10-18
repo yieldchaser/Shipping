@@ -24,27 +24,7 @@ In 2013 the discount for Saudi crude has closely matched the discount of Bakken 
 
 EIA Data supports a general upward trend in imports since 2010, although imports have not reached pre financial crisis levels.
 
-### $30
-
-### $25
-
-### $20
-
-### $15
-
 ### $/bbl Spread
-
-### $10
-
-### $5
-
-### $0
-
-### -$5
-
-### -$10
-
-### -$15
 
 ### Bakken/WTI Spread vs. Saudi Discount for US Buyers
 

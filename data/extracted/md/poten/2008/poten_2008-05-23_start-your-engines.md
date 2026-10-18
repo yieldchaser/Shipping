@@ -18,27 +18,7 @@ This weekend may serve as one of the first official tests of whether demand for 
 
 ### Light Products vs. Crude Oil
 
-### $4.50
-
-### $4.00
-
-### $3.50
-
-### $3.00
-
 ### ($/gallon)
-
-### $2.50
-
-### $2.00
-
-### $1.50
-
-### $1.00
-
-### $0.50
-
-### $0.00
 
 ### Sep-07
 

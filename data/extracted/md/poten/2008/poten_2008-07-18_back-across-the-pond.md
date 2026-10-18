@@ -28,8 +28,6 @@ Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Poten & Partners _ x athens x gu
 
 ### Price incentive to move USA to Europe
 
-### $/MT
-
 ### ULSD Europe vs. ULSD United States
 
 Data points in positive territory are a signal to move less expensive product from the United States into a higher priced European market. For the majority of the 2008, the market has seen this type of structure to varying degrees.

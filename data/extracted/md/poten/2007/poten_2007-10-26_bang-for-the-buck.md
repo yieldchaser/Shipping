@@ -20,8 +20,6 @@ The increase in vessel prices across all sectors has clearly raised the stakes f
 
 ### $ Million
 
-### $/Won
-
 Jan-02 Jan-03 Jan-04 Jan-05 Jan-06 Jan-07 Won/$ VLCC NB Price ($) Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1 Clearly, currency fluctuations are yet another risk relevant in today's markets that shipowners and charterers have to be wary of this effect as they formulate long-term plans. Perhaps though the ones at greatest risk are the shipyards.
 
 In dollar terms the price of a VLCC has essentially doubled from $69.3 million in January 2002 to a price of around $140 million today. Over the same period, however, the price of the US dollar in South Korean won declined by approximately 30%. While there is no doubt that prices have fundamentally increased, the magnitude of the increase has been buffered in some countries by the strength in their currencies.

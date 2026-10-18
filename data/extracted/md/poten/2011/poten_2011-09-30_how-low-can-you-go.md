@@ -20,25 +20,11 @@ So far, 2011 has proven uglier than expected, with year to date earnings on the 
 
 ### Range of VLCC Earnings 1996‐2011 YTD
 
-### $300,000
-
 ### 2011 YTD
 
 ### Weeks Below Opex
 
-### $250,000
-
 ### TCE ($/Day)
-
-### $200,000
-
-### $150,000
-
-### $100,000
-
-### $50,000
-
-### $0
 
 Maximum Average Minimum Weeks below Opex In most rational markets, vessel operating expense will serve as a floor for rate levels. Operating expenses include day‐to‐day costs of running a ship such as crewing and supplies, and are assessed between $10,000 and $12,000 per day for a modern VLCC.
 
@@ -49,20 +35,6 @@ Owners always have the option to refuse offers when rates are in the doldrums. H
 While operating expense may reflect a short‐term floor, the more important number over the long term is the vessel breakeven cost. This yardstick reflects the rate required for owners to recover both the day‐to‐day operating expense as well as the original cost of their investment. The time charter market can serve to hedge the volatility of the spot market exposure, providing owners a steady stream of revenue. While protecting owners from periods of weakness, out‐chartering vessels can also limit owners' ability to profit from upward swings in the spot market, and usually generates returns at a discount to average spot market earnings, as seen in the chart below.
 
 ### VLCC Earnings ‐ Spot vs. Time Charter
-
-### $100,000
-
-### $80,000
-
-### $/Day
-
-### $60,000
-
-### $40,000
-
-### $20,000
-
-### $0
 
 Spot 1 Year 3 Year 5 Year 10 Year 2005‐2008 Average 2008 2009 Jan‐11 Current In a "normal" market, rates lessen as the term of the charter increases, becoming more reflective of vessel breakeven. However, this trend reverses in a weak market. The past three years have seen time charter rates outperform the spot market across all sectors. However, many owners have resisted committing their tonnage, holding out for the possibility of an upward swing in the spot market. Over that time, the term market has significantly weakened. Current opportunities to fix are somewhat limited as many charterers are unwinding their time charter portfolio. The assessed rate for a one year time VLCC time charter, currently assessed at $18,250 per day, has fallen over $10,000 per day since the beginning of the year.
 

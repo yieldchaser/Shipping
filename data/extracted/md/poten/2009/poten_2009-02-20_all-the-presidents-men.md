@@ -20,27 +20,9 @@ In the midst of the turmoil, it is interesting to note how Big Oil has fared com
 
 ### Oil Company Equities/Dow Jones Industrial Average Close Prices
 
-### $110
-
-### $100
-
-### $90
-
-### $80
-
 ### Equity Prices
 
 ### DJIA
-
-### $70
-
-### $60
-
-### $50
-
-### $40
-
-### $30
 
 ### 25-Aug-08
 

@@ -16,23 +16,7 @@ charts_count: 1
 
 The change from 2005 to 2006 marked some substantial increases in flat rates and the difference between 2006 and 2007 will be just as sizeable. The adjustments to flat rates aims to cover any changes in bunker prices, port charges and exchange rates. As shown below, the flat rates have been steadily increasing.
 
-### $35.00
-
-### $30.00
-
-### $25.00
-
-### $20.00
-
 ### ($/MT)
-
-### $15.00
-
-### $10.00
-
-### $5.00
-
-### $0.00
 
 Amuay Bay - Houston Bonny - Philadelphia Ras Tanura - LOOP Ras Tanura - Yokohama Poten & Partners | • athens • guangzhou • hong kong • london • new york • perth • singapore 1
 
@@ -42,25 +26,11 @@ The primary driver for the increase in flat rates for 2007 is the significant ch
 
 The Worldscale Association's bunker price represents the average worldwide bunker price for fuel oil during between October 1
 
-### $350
-
 ### 2006 Average
-
-### $300
 
 ### 2005 Average
 
-### $250
-
-### $/MT
-
-### $200
-
 2003 Average 2004 Average
-
-### $150
-
-### $100
 
 ### IFO 380
 

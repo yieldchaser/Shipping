@@ -18,24 +18,6 @@ The past few weeks have proven to be a wild ride for the Aframax sector. Althoug
 
 $/day Aframax Time Charter Equivalents
 
-### $160,000
-
-### $140,000
-
-### $120,000
-
-### $100,000
-
-### $80,000
-
-### $60,000
-
-### $40,000
-
-### $20,000
-
-### $0
-
 ### Jun-13
 
 ### Jul-13
@@ -73,8 +55,6 @@ $/day Aframax Time Charter Equivalents
 ### Oct-13
 
 ### Oct-13
-
-### -$20,000
 
 Cayo Arcas - Houston (70kt) Sidi Kerir - Lavera (80kt) Novorossisk - Augusta (80kt) The Aframax sector has long-been a darling of the oil companies. Its prefix "AFRA" is derived from a historical convention from the 1970s by which oil company shipping groups could allocate transportation costs in a transparent (read: taxable) manner. The industry relied on Average Freight Rate Asessments (AFRA) issued by a panel of London tanker brokers in order to minimize internal distpute. The original deadweight (DWT) designations as prescribed by the AFRA system, shown in the following table, suggested the oil company shipping groups could "maximize" the rates charged to their affiliates if they were to use vessels with a 79,999 DWT load lines.
 

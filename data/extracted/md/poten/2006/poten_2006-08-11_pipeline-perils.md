@@ -18,31 +18,13 @@ U.S. crude oil supplies have been under scrutiny for several years as foreign im
 
 The initial indications suggested of loss of 400,000 barrels per day of Alaskan North Slope (ANS) crude, but this was later revised downward to about 200,000 per day. Recent history has indicated it does not take much of a supply threat to send oil prices through the roof and stir tanker rates.
 
-### $160,000
-
 ### Outlook
-
-### $140,000
-
-### $120,000
-
-### $100,000
 
 ### (000 bbl/day)
 
 ### ANS Field Maintenance
 
 ### ($/day)
-
-### $80,000
-
-### $60,000
-
-### $40,000
-
-### $20,000
-
-### $0
 
 ### Jul-05
 

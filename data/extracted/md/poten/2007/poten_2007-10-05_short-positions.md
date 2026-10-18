@@ -18,28 +18,6 @@ Momentum in the sale and purchase and time charter tanker markets has historical
 
 ### Historical MR Rates
 
-### $45,000
-
-### $40,000
-
-### $35,000
-
-### $30,000
-
-### $25,000
-
-### $/day
-
-### $20,000
-
-### $15,000
-
-### $10,000
-
-### $5,000
-
-### $0
-
 ### May-05
 
 ### May-06

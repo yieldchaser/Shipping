@@ -34,18 +34,6 @@ When the Facts Get in the Way of a Good Story!
 
 While it seems politically expedient to question energy company executives about high energy prices, and complain that it is really hurting consumers, the facts would suggest that American consumers really do not care all that much about prices nor have high prices done anything to change driving habits and hence dampen demand.
 
-### $3.00
-
-### $2.50
-
-### $/Gallon
-
-### $2.00
-
-### $1.50
-
-### $1.00
-
 For those who live and work in such places as Houston, Los Angeles, New York, Fairfax, you have probably not noticed a significant reduction in commuting times. The incremental cost of gasoline has gone up by about $20 per week (30 miles each way to work at 15 miles to the gallon for a SUV; a $1 dollar increase in gasoline prices translates to $4 per day round trip in extra commuting expenses.) This incremental $80 per month is nominal when compared to the increased mortgage payments that have resulted from rising interest rates caused by the looming deficits by the federal government and increased taxes thanks to the Alternative Minimum Tax.
 
 ### You Can't Have It Both Ways

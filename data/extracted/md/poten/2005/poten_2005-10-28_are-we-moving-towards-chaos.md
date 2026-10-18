@@ -18,29 +18,7 @@ What is chaos? Chaos is the inherent unpredictability of the behavior of a natur
 
 ### TCE Earnings for Aframaxes
 
-### $100,000
-
-### $90,000
-
 Caribs Upcoast Intra-Med Singapore Far East
-
-### $80,000
-
-### $70,000
-
-### $60,000
-
-### $50,000
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
 
 Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 The standard deviation is associated with the risk of price or rate changes and is a good measure of volatility. The higher the standard deviation, the greater the risk of an adverse price or rate change as price stability is low. The lower the standard deviation, the less the risk as price stability is high. Unstable systems are difficult to predict, at least in the short term, and make it difficult for participants to plan.
 
@@ -48,21 +26,7 @@ If we look upon the standard deviation as an indicator of the inherent risk asso
 
 ### Running Standard Deviation of Aframax TCE Earnings
 
-### $30,000
-
 Caribs Upcoast Intra-Med Singapore Far East
-
-### $25,000
-
-### $20,000
-
-### $15,000
-
-### $10,000
-
-### $5,000
-
-### $0
 
 Plus or minus one standard deviation from a mean represents about 2/3 of the underlying data. In December 2004 when rates averaged about $65,000 per day and the standard deviation was about $30,000 per day, the chances of rates being between $35,000 and $95,000 per day was only 67%. This is an enormously wide set of probable outcomes!
 
@@ -70,19 +34,7 @@ The following chart measures the standard deviation for Aframaxes, Panamaxes, an
 
 ### Running Standard Deviation of Tanker TCE Earnings
 
-### $25,000
-
 Aframax Panamax Handymax
-
-### $20,000
-
-### $15,000
-
-### $10,000
-
-### $5,000
-
-### $0
 
 While the standard deviation for Panamaxes trading Caribs upcoast accompanied the increasing volatility with Aframaxes during the first two cycles, volatility has remained essentially unchanged during the last cycle. For Handymaxes trading Caribs upcoast, the trend is up, but far more subdued than that for Panamaxes and Aframaxes.
 

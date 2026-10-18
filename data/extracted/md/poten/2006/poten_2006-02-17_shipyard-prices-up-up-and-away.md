@@ -20,21 +20,11 @@ While most of the interest in the tanker market may focus on rates, a much more 
 
 ### VLCCs
 
-### $140
-
 Shipyard Price Number VLCCS
-
-### $120
 
 ### Order Book
 
 ### $Millions
-
-### $100
-
-### $80
-
-### $60
 
 Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 million a few years ago was a steep price. At the same time, two option two VLCCs were ordered for delivery from a yard in China reportedly with a significant discount from the Korean yard price. The previous chart shows the number of VLCCs on order and the shipyard price since 2002.
 
@@ -48,21 +38,11 @@ Suezmax shipyard prices have been stable since the beginning of the year with a 
 
 ### Suezmaxes
 
-### $80
-
 Shipyard Price Number Suezmaxes
-
-### $70
 
 ### Order Book
 
 ### $Millions
-
-### $60
-
-### $50
-
-### $40
 
 ### Aframaxes - Cooling in the Breeze
 
@@ -72,21 +52,11 @@ Shipyard prices have cooled a bit since mid-2005 when prices peaked at $68 milli
 
 ### Aframaxes
 
-### $70
-
 Shipyard Price Number Aframaxes
-
-### $60
 
 ### Order Book
 
 ### $Millions
-
-### $50
-
-### $40
-
-### $30
 
 ### There's More to Shipyard Prices Than Tankers
 

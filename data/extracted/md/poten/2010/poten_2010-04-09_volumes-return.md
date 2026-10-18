@@ -62,23 +62,11 @@ These signals of improving economic conditions have translated into increased de
 
 The increase in refining activity has already led to a 500 kbd increase in crude oil imports into the United States last week. Greater refinery utilizations in Asia, along with the introduction of new refining capacity and a resulting accumulation of stockpiles, have helped vessel demand. As shown in the chart below, earnings on the benchmark Arabian Gulf - Far East (260 kt) voyage improved over the course of March after retreating from January's heights.
 
-### $250,000
-
 2008 2009 2010 YTD 30 day Availability: 75 79 75 AG ‐ FE (260kt) TCE: $96,841 $25,840 $54,370
-
-### $200,000
 
 ### No. VLCCs Available
 
 ### TCE ($/day)
-
-### $150,000
-
-### $100,000
-
-### $50,000
-
-### $0
 
 ### Feb‐09
 

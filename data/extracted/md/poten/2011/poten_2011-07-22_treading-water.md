@@ -22,21 +22,7 @@ The low freight rate environment seen since the latter half of 2009 has caused r
 
 ### Ras Tanura ‐ Yokohama (260kt)
 
-### $12
-
-### $10
-
-### $8
-
 ### $M
-
-### $6
-
-### $4
-
-### $2
-
-### $0
 
 ### Jan‐96
 
@@ -80,33 +66,9 @@ The chart below shows estimated 20 year breakeven levels given assessed historic
 
 ### VLCC Breakeven vs. Spot Charter Rates
 
-### $100,000
-
-### $200
-
-### $80,000
-
-### $160
-
 ### Earnings ($/Day)
 
 ### Asset Price ($M)
-
-### $60,000
-
-### $120
-
-### $40,000
-
-### $80
-
-### $20,000
-
-### $40
-
-### $0
-
-### $0
 
 ### 2011 YTD
 

@@ -18,15 +18,11 @@ While the role of the United States as the largest crude oil consumer should not
 
 ### Arabian Gulf ‐ West Discount
 
-### $0
-
 ### ‐$10,000
 
 ### ‐$20,000
 
 ### ‐$30,000
-
-### $/day
 
 ### ‐$40,000
 

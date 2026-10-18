@@ -18,25 +18,7 @@ charts_count: 0
 
 Comments about future Fed policy impacting interest rates
 
-### $108
-
-### $106
-
-### $104
-
-### $102
-
 ### per barrel
-
-### $100
-
-### $98
-
-### $96
-
-### $94
-
-### $92
 
 Crude Oil Benchmark Prices Daily Settlement, Present Week 17-Jun 18-Jun 19-Jun 20-Jun 21-Jun WTI Brent Dubai Marine Money Week made its annual appearance in New York this week, and everyone from owners to brokers to capital markets professionals were there to discuss where opportunities to capitalize on the current state of shipping markets might exist. The theme of the week was "Risk On," which is typically indicative of bullish sentiment driving investors to venture out along the risk spectrum on the notion that risk is underpriced in the market. Risk was anything but "on" in the broader financial markets this week, though, and there were pronounced implications for oil prices, which fell sharply across the board.
 

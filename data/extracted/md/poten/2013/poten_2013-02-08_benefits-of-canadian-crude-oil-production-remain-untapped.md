@@ -46,8 +46,6 @@ Majority of US imports from Canada are land- based Price situation has gone from
 
 ### kbpd
 
-### $/bbl
-
 ### Monthly Data
 
 East Coast (PADD1) Midwest (PADD 2) Gulf Coast (PADD 3) Rocky Mountain (PADD 4) West Coast (PADD 5)

@@ -34,18 +34,6 @@ Over 5 MM Bpd in 4 Years!
 
 ### West Texas Monthly Crude Prices
 
-### $50
-
-### $40
-
-### $30
-
-### $/Bbl
-
-### $20
-
-### $10
-
 ### Dow Jones Energy Service/Poten
 
 Continued sabotage of Iraqi pipelines, Russia's impoundment of Yukos' assets, and horrendous weather each contribute to supply uncertainty. Even though OPEC production is stable, the rest of the world is not.

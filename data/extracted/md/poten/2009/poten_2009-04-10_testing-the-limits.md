@@ -58,45 +58,9 @@ The chart below shows the timecharter equivalents for MRs trading in the Caribbe
 
 ### MR Earnings/Caribbean HFO Price
 
-### $40,000
-
-### $800
-
-### $35,000
-
-### $700
-
-### $30,000
-
-### $600
-
 ### Bunkers ($/MT)
 
-### $25,000
-
-### $500
-
 ### TCE
-
-### $20,000
-
-### $400
-
-### $15,000
-
-### $300
-
-### $10,000
-
-### $200
-
-### $5,000
-
-### $100
-
-### $0
-
-### $0
 
 ### Feb‐08
 

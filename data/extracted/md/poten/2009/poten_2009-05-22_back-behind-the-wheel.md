@@ -18,28 +18,6 @@ Memorial Day weekend in the United States signifies to most the unofficial start
 
 ### U.S. Retail Gasoline Prices
 
-### $4.50
-
-### $4.00
-
-### $3.50
-
-### $3.00
-
-### $/gallon
-
-### $2.50
-
-### $2.00
-
-### $1.50
-
-### $1.00
-
-### $0.50
-
-### $0.00
-
 ### Sep-05
 
 ### Sep-07
@@ -109,8 +87,6 @@ With the health of the overall economy starkly different from a year ago, gasoli
 Refining margins, shown in the graph below as the 3-2-1 Crack Spread can provide insight as to the directional call on imports.
 
 ### 3-2-1 Crack Spread
-
-### $/bbl
 
 ### Feb
 

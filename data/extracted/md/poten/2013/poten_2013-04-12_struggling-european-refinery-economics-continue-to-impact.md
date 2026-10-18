@@ -32,26 +32,6 @@ European refined product demand falling in conjunction with economic stagnation 
 
 ### ...and product arbs
 
-### $/bbl
-
-### $30
-
-### $20
-
-### $10
-
-### $0
-
-### -$10
-
-### -$20
-
-### -$30
-
-### -$40
-
-### -$50
-
 WTI-Brent Spread Daily Data, 2010-present
 
 ### Northwest Europe-US Gulf Gasoline Arb

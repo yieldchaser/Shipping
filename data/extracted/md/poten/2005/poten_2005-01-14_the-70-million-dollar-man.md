@@ -26,31 +26,11 @@ As seen below, the charterers aggregate charter hire payments for the past 12 mo
 
 ### 3-Year TCE versus Monthly TCE for VLCCs
 
-### $225,000
-
-### $200,000
-
 Monthly 3-Year Fixed Dec 2003
-
-### $175,000
-
-### $150,000
 
 $20 Million Left on the Table
 
-### $125,000
-
-### $/Day
-
 ### So Far!
-
-### $100,000
-
-### $75,000
-
-### $50,000
-
-### $25,000
 
 ### Maybe We Will Take A Suezmax?
 
@@ -58,23 +38,11 @@ In December 2003, the monthly average spot market timecharter equivalent rate wa
 
 ### 3-Year TCE versus Monthly TCE for Suezmaxes
 
-### $125,000
-
 Monthly 3-Year Fixed Dec 2003
-
-### $100,000
 
 $12 Million Left on the Table
 
-### $75,000
-
-### $/Day
-
 ### So Far!
-
-### $50,000
-
-### $25,000
 
 ### Surely We Took an Aframax or Two?
 
@@ -82,19 +50,11 @@ Repeating the same analysis for Aframaxes, in December 2003 the spot market aver
 
 ### 3-Year TCE versus Monthly TCE for Aframaxes
 
-### $75,000
-
 Monthly 3-Year Fixed Dec 2003
-
-### $50,000
 
 $6 Million Left on the Table
 
-### $/Day
-
 ### So Far!
-
-### $25,000
 
 ### Fix Aframax for 3 Years
 

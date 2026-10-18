@@ -30,25 +30,11 @@ The graph below shows the NYMEX wholesale cash prices for gasoline and crude for
 
 ### Crude Oil vs. Gasoline Prices
 
-### $3.50
-
-### $3.00
-
 ### Price of Oil as a % of Gasoline
-
-### $2.50
 
 ### Price Per Gallon
 
-### $2.00
-
-### $1.50
-
 Gasoline Unleaded Crude Oil Crude/Gas Ratio
-
-### $1.00
-
-### $0.50
 
 In short, recent run-ups in gasoline prices cannot be linked to just oil prices. The challenge is finding what has been driving gasoline prices. Is it possible that crude prices are going up because the demand for gasoline remains so strong?
 

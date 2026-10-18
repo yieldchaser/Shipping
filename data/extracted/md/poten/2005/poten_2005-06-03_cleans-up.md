@@ -52,21 +52,9 @@ With U.S. clean product imports projected to rise, we can only conclude that dem
 
 ### TCE  Rates for Clean Spot Trading
 
-### $50,000
-
 Handymax Panamax
 
-### $40,000
-
-### $30,000
-
-### $/Day
-
-### $20,000
-
 ### Another Upward Trend!
-
-### $10,000
 
 It looks to us that the clean up batter is about to hit a home run!
 

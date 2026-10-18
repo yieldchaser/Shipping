@@ -66,8 +66,6 @@ As a result of the high crude oil prices seen thus far in 2011, US gasoline pric
 
 $2.15 $2.35 $2.55 $2.75 $2.95 $3.15 $3.35 $3.55
 
-### $/gallon
-
 ### 11‐Apr‐11
 
 ### 14‐Feb‐11

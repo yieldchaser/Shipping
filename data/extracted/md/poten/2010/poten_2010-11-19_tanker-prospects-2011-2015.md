@@ -22,19 +22,7 @@ Two years after the collapse of Lehman brothers, it seems as though the high tid
 
 ### VLCC Spot Market Earnings
 
-### $250,000
-
-### $200,000
-
 ### TCE ($/day)
-
-### $150,000
-
-### $100,000
-
-### $50,000
-
-### $0
 
 ### Jan‐06
 

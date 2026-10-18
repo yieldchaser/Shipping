@@ -22,21 +22,7 @@ The chart below provides an overview of the toll revenues over the past three fi
 
 ### Panama Canal Toll Revenues
 
-### $1,550,000
-
-### $1,300,000
-
 ### Toll Revenue ($ mm)
-
-### $1,050,000
-
-### $800,000
-
-### $550,000
-
-### $300,000
-
-### $50,000
 
 FY ‐ 2006 FY ‐ 2007 FY ‐ 2008 Tanker/LPG Container Drybulk Vehicle/RoRo Reefer Other Although on‐time and on‐budget so far, some details and hurdles surrounding the expansion still remain to be tackled. For example, the ACP is undergoing the selection process for contractors to design and build the locks - the most expensive and arguably the most important part of the project.
 

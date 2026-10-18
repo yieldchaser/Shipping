@@ -18,27 +18,7 @@ The continued decline in the price of crude oil has created opportunities for ma
 
 ### Crude Oil Spot vs. Future Prices
 
-### $9.00
-
-### $8.00
-
 ### Differential From Spot Price
-
-### $7.00
-
-### $6.00
-
-### $5.00
-
-### $4.00
-
-### $3.00
-
-### $2.00
-
-### $1.00
-
-### $0.00
 
 1 Mo. 2 Mo. 3 Mo. 4 Mo. 5 Mo. 6 Mo.
 
@@ -52,27 +32,7 @@ Instead of spot chartering a ship and exercising a storage option, charterers wi
 
 ### VLCC Freight Rates
 
-### $9.00
-
-### $8.00
-
 ### Transportation Cost Per Barrel
-
-### $7.00
-
-### $6.00
-
-### $5.00
-
-### $4.00
-
-### $3.00
-
-### $2.00
-
-### $1.00
-
-### $0.00
 
 AG - USG (260kt) Average Spot Rate 3 Mo. Storage 6 Mo. Storage Additionally, charterers must consider the financial costs associated with holding the barrels for the duration of their position. Assuming a 10% cost of capital, the monthly carrying costs are approximately $.38 per barrel on the basis of a $45 per barrel spot market price. For a six month period, would total about $2.25 per barrel. Add in the freight element for a similar period and the total carrying cost would be roughly $7.20 per barrel.
 

@@ -30,27 +30,11 @@ The chart below shows interplay between distillate demand in North America, frei
 
 ### AG ‐ FE LR2 & L1 Spot Voyage Earnings
 
-### $30,000
-
 ### Storage Up
-
-### $25,000
-
-### $20,000
-
-### $/day
 
 ### MBD
 
-### $15,000
-
-### $10,000
-
-### $5,000
-
 ### Storage Down
-
-### $0
 
 ### Sep‐09
 

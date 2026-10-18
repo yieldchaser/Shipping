@@ -32,19 +32,7 @@ The chart below demonstrates the relative price between various crude oil grades
 
 ### Light‐Heavy Crude Oil Spread
 
-### $8.00
-
 Heavy Oil Discount Light Oil Discount
-
-### $6.00
-
-### $4.00
-
-### $2.00
-
-### $/bbl
-
-### $0.00
 
 ### Jan‐11
 

@@ -22,17 +22,11 @@ The interest in acquiring assets right now is understandable when one compares c
 
 ### MR Newbuilding Asset vs. Secondhand Prices
 
-### $60
-
 $40 $50
 
 ### $M
 
-### $30
-
 $10 $20
-
-### $0
 
 ### Sep‐06
 

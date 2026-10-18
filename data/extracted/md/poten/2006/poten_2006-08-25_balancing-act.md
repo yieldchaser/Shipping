@@ -16,31 +16,11 @@ charts_count: 1
 
 The recent indications made by the Federal Reserve hinted at the idea that the U.S. economy may be cooling off. Among the leading indicators that point to a potential slowdown in the economy are the decline in new home sales and orders for durable goods- cars, household appliances etc. Recently at an industry conference, Exxon Mobil Chairman and CEO Rex Tillerson commented that, "[Oil] prices at these levels are not healthy for economies anywhere." This begs the question: how much will high oil prices impact global economic growth?
 
-### $80.00
-
-### $70.00
-
-### $60.00
-
 2007 Outlook: High Base Case
 
 ### Growth in GDP
 
-### $50.00
-
-### $/bbl
-
-### $40.00
-
 ### Low
-
-### $30.00
-
-### $20.00
-
-### $10.00
-
-### $0.00
 
 Oil Prices U.S. Change in GDP Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 The chart on the previous page shows the quarter-on-quarter change in GDP experienced by the U.S. versus crude oil prices, and an outlook for 2007. To date high energy prices have not impacted economic growth in the United States.
 

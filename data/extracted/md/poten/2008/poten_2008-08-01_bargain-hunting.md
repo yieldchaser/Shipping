@@ -18,27 +18,7 @@ Newbuilding asset prices have continued to escalate through 2008 to date and are
 
 ### Price Differential
 
-### $90
-
-### $80
-
-### $70
-
-### $60
-
 ### Price $M
-
-### $50
-
-### $40
-
-### $30
-
-### $20
-
-### $10
-
-### $0
 
 VLCC to Suezmax Suezmax to Aframax VLCC to Aframax Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1 For context, the chart below shows the rise in average prices on an annual basis for the large crude tanker sectors.
 
@@ -58,19 +38,7 @@ The chart below shows the relative earnings for VLCCs on the voyage Arabian Gulf
 
 ### VLCC & Suezmax Earnings
 
-### $250,000
-
-### $200,000
-
 ### TCE ($/day)
-
-### $150,000
-
-### $100,000
-
-### $50,000
-
-### $0
 
 AG - FE (260kt) WAF - USA (130kt) On average since January 2000, VLCCs have earned $56,000 per day as compared to Suezmaxes which have earned $39,000 per day - a difference of $17,000 per day which is enough of a margin even for today's newbuilding prices. In the past 18 months, however, this differential has nearly doubled to over $30,000 per day in these two markets suggesting that the spread in earnings appears to be outweighing the spread in the asset prices. It would seem that one of the variables will have to give, yet the upward pressures at the shipyards indicate prices will not soften substantially in the near term. In fact continued upward pressure to VLCC prices will logically trigger further price increases in other sectors as well. It's time to catch up.
 

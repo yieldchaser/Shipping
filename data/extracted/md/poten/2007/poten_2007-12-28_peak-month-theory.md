@@ -64,25 +64,7 @@ Seven of the last twelve years' highest monthly average TCE's occurred in the fo
 
 ### 4th Qtr "Volatility" of AG - Far East VLCC TCEs
 
-### $160,000
-
-### $140,000
-
 ### Difference: Highest-Average, $/day
-
-### $120,000
-
-### $100,000
-
-### $80,000
-
-### $60,000
-
-### $40,000
-
-### $20,000
-
-### $0
 
 With roughly 110 spot VLCC fixtures monthly in a fleet some 500 vessels strong, tanker owners have about a 20 percent chance of being lucky and hitting the jackpot in a peak month. Lately, though, it seems that owners participating in the fourth quarter spot market stand a better chance of being lucky than in the other quarters of the year.
 

@@ -34,25 +34,9 @@ The tune has changed somewhat in the past few weeks however, with more credit co
 
 ### VLCC Orders & Prices
 
-### $170.0
-
-### $160.0
-
 ### Number VLCCs Ordered
 
-### $150.0
-
 ### $ Million
-
-### $140.0
-
-### $130.0
-
-### $120.0
-
-### $110.0
-
-### $100.0
 
 New Orders Newbuilding Price On a short-term basis, psychology can contribute to sharp swings in markets, either stock or shipping, however fundamentals will pervade in the longer-term. Lower crude oil prices could help lessen the pressure on the economy and it stands to reason that crude oil demand could regain some legs as a result.
 

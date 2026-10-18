@@ -32,8 +32,6 @@ High oil prices have incentivized technological innovation Will lower oil prices
 
 WTI Spot Price Quarterly Data, 1983-present
 
-### $/bbl
-
 3q1983 1q1989 3q1994 1q2000 3q2005 1q2011 OPEC's cartel status, combined with spare capacity, has meant that global oil supply has generally been reactive to oil demand, and has allowed it to influence prices in a manner beneficial to domestic leadership. Rapid production expansions in North America have the potential, however, to undercut this arrangement. Bank of America Merrill Lynch suggested earlier this year that US crude oil futures could fall to $50/bbl in the next two years, while Citi has suggested a similar temporary drop with a more stable price range of $65-90/bbl.
 
 Politicians on both sides of the aisle in the United States have made a habit of coupling aforementioned "energy independence" with national security. As if crude oil markets could simply be domesticated, they argue that less reliance on crude oil produced outside the US would serve as some sort of panacea for its foreign policy missteps in a region that has proven bewildering. On the contrary, Benjamin Alter and Edward Fishman pointed out in an opinion piece in last Sunday's New York Times that increased North American production "will drive down global energy prices, undercutting the foundations of petrostates everywhere." They go on to argue that "lower energy prices will undermine the stability of the Persian Gulf monarchies, whose hefty oil revenues have allowed them to win their populations' loyalties through patronage and a lack of taxation." In a possible precursor to making more barrels available for export in an attempt to offset revenue reductions caused by falling prices, a policy disagreement has emerged in Saudi Arabia this week over the necessity of a possible expansion of production capacity of 20% by 2020.
@@ -43,8 +41,6 @@ Politicians on both sides of the aisle in the United States have made a habit of
 Lower prices could paradoxically spur both increased consumption and production
 
 ### Estimated, Present
-
-### $/bbl
 
 Algeria Iran Iraq Kuwait Libya Oman Qatar KSA UAE Yemen Russia Barring any unforeseen supply shocks, the notion that oil prices are heading lower is currently in vogue, and lower prices may actually beget even lower prices as production could be boosted in some countries in an attempt to solve budgetary woes. Such a move would be supportive of tanker demand to a certain extent: a 2010 IMF working paper - Peaks, Spikes, and Barrels: Modeling Sharp Movements in Oil Prices - suggests an oil price elasticity of demand of -0.32 for OECD consumption and -0.14 for emerging markets, meaning lower prices should increase demand for the commodity.
 

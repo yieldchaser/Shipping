@@ -32,31 +32,13 @@ The size of the orderbook has generally suggested a bearish picture for rates, y
 
 ### Aframax Profile
 
-### $40,000
-
 ### Total Fleet
 
-### $35,000
-
 ### Avg. TCE (CAR - USG 70kt)
-
-### $30,000
-
-### $25,000
 
 ### Number of Vessels
 
 ### ($/day)
-
-### $20,000
-
-### $15,000
-
-### $10,000
-
-### $5,000
-
-### $0
 
 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 YTD
 

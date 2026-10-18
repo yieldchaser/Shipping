@@ -34,11 +34,7 @@ Robust economies, particularly in certain emerging markets, can be linked to pop
 
 Shown in the chart below is the GDP per capita in several countries. This data is plotted against the amount of GDP per unit of oil that is consumed.
 
-### $50,000
-
 ### USA
-
-### $40,000
 
 Canada Hong Kong
 
@@ -46,11 +42,7 @@ Canada Hong Kong
 
 Qatar UK
 
-### $30,000
-
 Greece South Korea
-
-### $20,000
 
 ### Kuwait
 
@@ -58,13 +50,9 @@ Greece South Korea
 
 China Russia
 
-### $10,000
-
 Bangladesh Philippines India
 
 ### Poten / CIA Factbook
-
-### $0
 
 $0 $500 $1,000 $1,500 $2,000 $2,500 $3,000 $3,500 $4,000 $4,500
 

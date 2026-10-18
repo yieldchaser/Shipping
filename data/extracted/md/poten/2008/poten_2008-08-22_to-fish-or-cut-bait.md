@@ -30,23 +30,7 @@ The momentum of a market downturn can vary. For example, the largest one-day cha
 
 ### Daily VLCC Earnings Volatility
 
-### $45,000
-
-### $30,000
-
-### $15,000
-
-### $0
-
 ### ($/day)
-
-### -$15,000
-
-### -$30,000
-
-### -$45,000
-
-### -$60,000
 
 ### What's Next
 

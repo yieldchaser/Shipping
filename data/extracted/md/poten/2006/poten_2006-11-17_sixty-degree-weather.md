@@ -16,31 +16,11 @@ charts_count: 1
 
 As New York City continues to see unseasonably warm temperatures, visitors to town are not the only fortunate ones. Like many others on the East Coast, most New Yorkers are enjoying a respite from heating oil bills. With distillate stocks near historically high levels, product tanker demand has remained relatively weak. Handymax rates have experienced steady downward pressure in the Caribbean market in the past few weeks as demand for imported distillates and gasoline has subsided. The chart below shows the time charter equivalent (TCE) and Worldscale rate for St. Croix-New York (38kt) since the start of 2005. With daily earnings currently as low as $10,800 per day, there are certainly a few New Yorkers that are wishing for a cold snap.
 
-### $45,000
-
 Worldscale Rate TCE
-
-### $40,000
-
-### $35,000
-
-### $30,000
 
 ### TCE ($/day)
 
 ### WS Rate
-
-### $25,000
-
-### $20,000
-
-### $15,000
-
-### $10,000
-
-### $5,000
-
-### $0
 
 Jan-05 Jul-05 Jan-06 Jul-06 Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1
 

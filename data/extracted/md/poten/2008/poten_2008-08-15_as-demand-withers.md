@@ -48,8 +48,6 @@ Contracting US demand has ramifications for the shipping industry as the import 
 
 ### Utilization, percent
 
-### $/bbl
-
 Refinery Utilization, % of Operable Capacity 3-2-1 Crack Spread Despite the decline in US gasoline demand, reported fixtures of gasoline stocks moving from the UK Continent to the USA this year appear comparable to those of last year. The average reported monthly fixtures for the first half of each year are similar - 61 during 2007 versus 59 in the first half of this year. While fixtures reported for this July are noticeably lower than last year's July, August 2008's level - with only a half month reported - appear destined to wind up comparable to August of last year.
 
 Time charter equivalent earnings (TCE), as noted in the chart below have also held up well in the trans-Atlantic trade.
@@ -58,17 +56,7 @@ Time charter equivalent earnings (TCE), as noted in the chart below have also he
 
 ### Atlantic Coast
 
-### $40
-
-### $30
-
 ### 1,000 $/day
-
-### $20
-
-### $10
-
-### $0
 
 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Whatever lies ahead for the volume of US gasoline demand, the trade of gasoline stocks from across the Atlantic will remain interlinked with supply. So far, the pull back in demand has had minimal impact on vessel fixtures or earnings. Perhaps the US Atlantic Coast's tight gasoline manufacturing capacity as well as limitations on bring more domestic supply into it promote this trade. With gasoline inventories near seasonal lows, currently high distillate inventories may constrain refiners' flexibility to restore gasoline inventory. The recent drop in gasoline prices may also prompt an unexpected late summer spurt in demand. A potentially perfect storm might form if low inventories and a constraint to fill them collide with a spurt in demand. This would be a tempest that only more trans-Atlantic gasoline supply could quell.
 

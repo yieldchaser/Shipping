@@ -20,19 +20,7 @@ For most of the past decade, both one and three‐year timecharter markets remai
 
 ### Historical VLCC Spot & Time Charter Earnings
 
-### $250,000
-
-### $200,000
-
 ### TCE ($/day)
-
-### $150,000
-
-### $100,000
-
-### $50,000
-
-### $0
 
 Jan‐00 Jan‐01 Jan‐02 Jan‐03 Jan‐04 Jan‐05 Jan‐06 Jan‐07 Jan‐08 Jan‐09 AG ‐ FE (260kt) 1YR TC 3YR TC The enormous gap between the spot market's average and top earnings helped attract new sources of capital into the industry. The heightened profile of tankers was reflected in a frenzy of shipping‐related IPOs and a series of newbuilding orders placed with an expectation of selling the delivered vessel for profit. The resulting glut of newly‐built vessels coincided with a sharp drop in worldwide oil demand and remains as the legacy of the mid‐decade bull market for tankers.
 

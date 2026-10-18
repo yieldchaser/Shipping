@@ -34,21 +34,9 @@ This represents almost 25% of the existing fleet of 432 vessels, which, to put i
 
 ### Freight Rate Aframax Vs. VLCCs to UKC
 
-### $30
-
 VLCC-AG to UKC Aframax North Sea-UKC
 
-### $25
-
-### $20
-
 ### $ per Ton
-
-### $15
-
-### $10
-
-### $5
 
 ### The Existing Situation
 

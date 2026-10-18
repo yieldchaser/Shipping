@@ -20,23 +20,11 @@ We tend to think that VLCC demand is a one-way street up or down. The chart show
 
 ### by Load Area
 
-### $100
-
-### $80
-
-### $60
-
 ### $000/Day
 
 Other RedSea Med UKC Carib Wafr AG
 
-### $40
-
 ### $/Day AG/FE
-
-### $20
-
-### $0
 
 Clearly VLCC trading is concentrated in two loading areas: Arabian Gulf and West Africa. The rest is frosting on the cake. The percentage shares for the principal load areas are on the next page.
 

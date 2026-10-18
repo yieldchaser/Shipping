@@ -16,27 +16,7 @@ charts_count: 1
 
 The VLCC spot market has followed up on a very strong third quarter with an extremely weak fourth quarter to-date. Strong summer rates, at a time of the year when rates have been relatively weak historically, may have created some false hope about the freight prospects for the end of the year. There was much reason to believe that this year's fourth quarter was poised to be just as strong as 2004 and 2005. The chart below shows the historical fourth-quarter time charter equivalents for VLCCs trading Arabian Gulf to the US Gulf on 280kt. During this same week in 2004 and 2005, rates were in the $100,000 per day range. In November of this year, rates averaged $37,400 per day. While charterers are enjoying a break in transportation costs, many owners are asking, "What happened to the fourth quarter?"
 
-### $180,000
-
-### $160,000
-
-### $140,000
-
-### $120,000
-
 ### TCE ($/day)
-
-### $100,000
-
-### $80,000
-
-### $60,000
-
-### $40,000
-
-### $20,000
-
-### $0
 
 Oct Nov Dec Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1
 

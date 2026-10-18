@@ -24,61 +24,15 @@ Credit prices have increased astronomically Though falling off since, the credit
 
 ### Daily Settlement
 
-### $1.20
-
-### $1.00
-
-### $0.80
-
 ### Price per Gallon
-
-### $0.60
-
-### $0.40
-
-### $0.20
-
-### $0.00
 
 Jan-13 Feb-13 Mar-13 2013 RIN 2012 RIN Ethanol crush spread substantially tighter since last summer "Blend wall" is coupled with declining mogas demand
 
-### $850
-
-### $800
-
-### $750
-
 ### Price per Bushel
-
-### $700
-
-### $650
-
-### $600
-
-### $550
-
-### $500
 
 US Corn and Ethanol Daily Settlement, Front Month Contract
 
-### $3.01
-
-### $2.58
-
-### $2.15
-
 ### Price per Gallon
-
-### $1.72
-
-### $1.29
-
-### $0.86
-
-### $0.43
-
-### $0.00
 
 Corn Ethanol The drastically reduced crush spread is a factor tightening the supply of RINs. It not only developed last summer due to drought conditions, but has largely remained intact as corn prices have stayed about 17% above their level from this time last year.
 

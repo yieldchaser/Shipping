@@ -22,8 +22,6 @@ Brent, Dubai, and LLS prices have all risen by $10 ‐ $20 per barrel since July
 
 ### Benchmark Crude Oil Prices
 
-### $/bbl
-
 Brent Dubai LLS
 
 ### Sources: Bloomberg, Poten

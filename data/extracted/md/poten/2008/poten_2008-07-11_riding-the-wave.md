@@ -18,22 +18,6 @@ There is no sign of shipowners having the summertime blues as the crude oil ship
 
 ### Weekly VLCC Spot Market Time Charter Equivalents
 
-### $300,000
-
-### $250,000
-
-### $200,000
-
-### $/day
-
-### $150,000
-
-### $100,000
-
-### $50,000
-
-### $0
-
 ### Jul
 
 ### Jun

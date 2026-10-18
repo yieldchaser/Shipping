@@ -18,28 +18,6 @@ It appears that those who initially predicted the days of $100 barrels of oil ma
 
 ### WTI Prices
 
-### $90.00
-
-### $85.00
-
-### $80.00
-
-### $75.00
-
-### $70.00
-
-### $/bbl
-
-### $65.00
-
-### $60.00
-
-### $55.00
-
-### $50.00
-
-### $45.00
-
 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1 The scapegoat, for lack of a better word, for these price spurts has been "geopolitical tension" but it is difficult to attribute a near $20 run-up in the price of crude to this generally pervasive condition that has been present in the market for quite some time. Since mid-August, crude oil prices have increased approximately 25%.
 
 A jump in prices as the result of political tensions would be logical if there was an imminent supply crunch in the future. Today, however, the opposite conditions appear to be present and many believe that the market is well supplied with crude oil.

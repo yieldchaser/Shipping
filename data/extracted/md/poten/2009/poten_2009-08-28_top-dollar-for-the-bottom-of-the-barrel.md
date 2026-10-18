@@ -22,25 +22,9 @@ As shown in the chart below, the premium garnered by light crude oil has weakene
 
 ### Light to Heavy Crude Oil Spreads
 
-### $14
-
-### $12
-
 Average $4.81/bbl Average $0.04/bbl
 
-### $10
-
-### $8
-
-### $/bbl
-
-### $6
-
 ### Average $1.85/bbl
-
-### $4
-
-### $2
 
 ### Jan‐03
 
@@ -72,23 +56,9 @@ As shown in the chart below, bunker costs as a percentage of overall voyage reve
 
 ### Fuel Cost as % of Voyage Revenue
 
-### $12,000
-
-### $10,000
-
 ### Voyage Revenue ($ 000's)
 
-### $8,000
-
 ### Percent
-
-### $6,000
-
-### $4,000
-
-### $2,000
-
-### $0
 
 ### May‐04
 

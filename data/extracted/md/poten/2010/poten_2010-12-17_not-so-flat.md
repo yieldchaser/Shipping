@@ -18,30 +18,6 @@ It's that time of year again! The Worldscale Association has published the new s
 
 ### Worldscale Flat Rates
 
-### $50.00
-
-### $45.00
-
-### $40.00
-
-### $35.00
-
-### $30.00
-
-### $/MT
-
-### $25.00
-
-### $20.00
-
-### $15.00
-
-### $10.00
-
-### $5.00
-
-### $0.00
-
 Ras Tanura ‐ LOOP Ras Tanura ‐ Bonny ‐ Philadelphia Puerto La Cruz ‐
 
 ### Yokohama
@@ -53,26 +29,6 @@ Ras Tanura ‐ LOOP Ras Tanura ‐ Bonny ‐ Philadelphia Puerto La Cruz ‐
 Given the wild ride of oil prices over the past five years, it is not surprising to see similar volatility in marine fuels. The chart below shows the historical monthly average bunker prices for a blend of ports, the Poten basket: New York, Rotterdam, Fujairah, Singapore and Houston. The Worldscale bunker prices used in the determination of the flat rates are also shown on the graph. The Worldscale bunker assumption is an average of assessments of 380 cSt fuel oil between October 1 to September 30 provided by LQM Petroleum Services. The bunker price increased 37% to $467.48 for 2011.
 
 ### Bunker Prices ‐ IFO 380
-
-### $800
-
-### $700
-
-### $600
-
-### $500
-
-### $/MT
-
-### $400
-
-### $300
-
-### $200
-
-### $100
-
-### $0
 
 ### Jan‐11
 

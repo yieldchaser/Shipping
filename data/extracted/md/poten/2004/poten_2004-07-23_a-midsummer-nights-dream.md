@@ -24,17 +24,7 @@ Crude oil output from Iraq's Basra Oil Terminal, which was under siege in early 
 
 ### VLCC Shipping Costs AG-Far East
 
-### $3
-
-### $2
-
-### $2
-
 ### $ per Barrel
-
-### $1
-
-### $1
 
 ### Worldwide Oil Demand Highest in 10 Years
 
@@ -48,25 +38,7 @@ OPEC's output is also currently at its highest output since 1990 at 29 million b
 
 ### VLCC TCE Rates AG-Far East
 
-### $90,000
-
-### $80,000
-
-### $70,000
-
-### $60,000
-
 ### $ per Day
-
-### $50,000
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
 
 ### The Dream
 

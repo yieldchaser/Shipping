@@ -34,8 +34,6 @@ Peak Quarter St. Dev.
 
 ### Peak TCE
 
-### $/day
-
 | Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |
 | --- | --- | --- | --- | --- | --- |
 | 1 | $4,640 |  |  | 4 | 2000 |

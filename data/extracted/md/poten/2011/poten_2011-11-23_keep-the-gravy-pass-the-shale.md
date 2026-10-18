@@ -32,17 +32,9 @@ Increased domestic production from inland sources and higher volumes of imported
 
 Crude Oil Stocks at Cushing, OK vs. WTI Discount to Brent
 
-### $15
-
-### $10
-
 ### WTI Discount to Brent ($/bbl)
 
-### $5
-
 ### Crude Oil Stocks (M bbls)
-
-### $0
 
 ### ‐$5
 

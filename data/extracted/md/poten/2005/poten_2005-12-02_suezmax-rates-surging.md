@@ -18,21 +18,7 @@ With tanker rates across all sectors currently at levels well above long-term av
 
 ### The Surge in Suezmax TCE Earnings
 
-### $120,000
-
 North Sea Med Average W. Africa Far East
-
-### $100,000
-
-### $80,000
-
-### $/Day
-
-### $60,000
-
-### $40,000
-
-### $20,000
 
 05-Aug 19-Aug 02-Sep 16-Sep 30-Sep 14-Oct 28-Oct 11-Nov 25-Nov $0
 
@@ -58,31 +44,7 @@ The chart on the next page shows average Suezmax earnings on four trades (North 
 
 ### Shipping Cost & Suezmax Earnings
 
-### $160,000
-
-### $4
-
 $/Bbl $/Day
-
-### $120,000
-
-### $3
-
-### $/Day
-
-### $/Bbl
-
-### $80,000
-
-### $2
-
-### $40,000
-
-### $1
-
-### $0
-
-### $0
 
 ### It's All Relative
 
@@ -90,19 +52,7 @@ As shown below, the relatively high tanker rates as a percentage of the delivere
 
 ### Crude Price & Shipping Cost as % of Crude Price
 
-### $80
-
 % of Crude Crude Oil Price
-
-### $60
-
-### $/Bbl
-
-### $40
-
-### $20
-
-### $0
 
 Since the weather will remain a factor throughout the winter, crude oil demand will remain strong, and with deliveries coming slowly, expect the market to remain firm!
 

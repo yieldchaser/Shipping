@@ -20,29 +20,15 @@ According to the US National Bureau of Economic Research, the American economy h
 
 ### Global Oil Demand vs. Crude Oil Price 1970‐2010
 
-### $125
-
 ### Inflation Adjusted Oil Price (2010 $USD
 
-### $105
-
 2007‐2009 Global Financial Crisis
-
-### $85
 
 1980, 1981‐1982* Iranian Revolution 1990‐1991 Gulf War
 
 ### Change y‐o‐y (kbd)
 
-### $65
-
 (Counted as two distinct recessions)
-
-### $45
-
-### $25
-
-### $5
 
 ### ‐$15
 

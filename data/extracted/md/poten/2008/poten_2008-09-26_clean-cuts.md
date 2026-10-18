@@ -18,23 +18,7 @@ One market that has stood out rate-wise recently is the clean product trade in t
 
 ### Aframaxes in the East
 
-### $70,000
-
-### $60,000
-
-### $50,000
-
 ### TCE ($/day)
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
 
 ### Sep-08
 

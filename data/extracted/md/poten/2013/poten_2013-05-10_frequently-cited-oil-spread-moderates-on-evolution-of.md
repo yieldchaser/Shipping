@@ -20,8 +20,6 @@ Spread off highs of $30, down around $10 Abundance of lighter domestic crude a "
 
 Brent-WTI Spread Daily Settlement, 2009-present
 
-### $/bbl
-
 Much of the increased production in the US has been of a lighter, sweeter variety, which is most compatible with refineries on the East Coast. This has created a notable intra-US supply-refinery configuration imbalance. Although forward curves indicate market expectations of a sub $10 spread through the end of 2016, a repeat widening on a further production glut or untenable storage levels could prompt domestic refiners to adjust processing grades. EIA noted in last week's This Week in Petroleum that, near- term, "refiners that switch from heavy to light crude may need to reduce their total volume of refinery runs given operating constraints that limit their ability to handle light fractions. Over time, these refineries may invest capital to increase the capability to run light crudes."
 
 ### Crude Oil Attributes at US Refineries

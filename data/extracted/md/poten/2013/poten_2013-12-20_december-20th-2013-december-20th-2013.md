@@ -24,21 +24,7 @@ The time of year has come for the Worldscale Association to publish its schedule
 
 ### Historical and Current Flat Rates for Benchmark Voyages
 
-### $60
-
-### $50
-
-### $40
-
 ### Flat Rate
-
-### $30
-
-### $20
-
-### $10
-
-### $0
 
 Ras Tanura-Loop Ras Tanura-Chiba Bonny-Philadelphia Rotterdam-New York Puerto La Cruz-Houston The effects of flat rate deflation are Worldscale rate inflation, shown in the following table. The majority of changes are less than five Worldscale points. As 2013 comes to an end, all parties should be aware of whether 2013 or 2014 flat rates are being quoted. A limited number of trades saw flat rate increases particularly those with shorter distances.
 
@@ -65,38 +51,6 @@ Bunker price decline a bigger factor than port costs and canal transit increase.
 Flat rates are determined by a number of inputs in an attempt to normalize the voyage revenue paid to shipowners. The primary driver in the annual adjustments in flat rates is the cost of bunkers; a cost that is borne by shipowners in the spot market. Worldscale calculates its bunker price basis from October 1, 2012 through September 30, 2013. During that time, bunker prices softened, resulting in a revision of Worldscale bunker price basis from$686/MT to $632/MT for heavy fuel oil with high sulphur content. The chart below shows the Worldscale Association's bunker prices used in flat rate calculations.
 
 ### 380 CST HSFO
-
-### $800
-
-### $686
-
-### $700
-
-### $632
-
-### $607
-
-### $554
-
-### $600
-
-### $467
-
-### $500
-
-### $341
-
-### $400
-
-### $329
-
-### $300
-
-### $200
-
-### $100
-
-### $0
 
 ### 380 CST HSFO
 

@@ -42,23 +42,7 @@ Poten & Partners | new york • london • athens • perth • hong kong • gu
 
 ### From Caribbean Load Area
 
-### $35
-
 USEC NWE Italy Singapore
-
-### $30
-
-### $25
-
-### $20
-
-### $/Ton
-
-### $15
-
-### $10
-
-### $5
 
 The above cargoes are for 50,000 ton shipments except for shipments from Singapore, which are 80,000 tons. Shipping costs are also available for the following combinations of load and discharge areas.
 

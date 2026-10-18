@@ -48,55 +48,13 @@ While gasoline consumption, refinery output, and inventories do influence prices
 
 ### U.S. Gasoline and Crude Oil Prices
 
-### $40
-
-### $1.15
-
 ### Close as a Married Couple!
-
-### $1.10
-
-### $38
 
 ### Family Squabble?
 
-### $1.05
-
-### $36
-
-### $1.00
-
-### $34
-
-### $0.95
-
-### $/Gallon
-
-### $/Bbl
-
-### $32
-
-### $0.90
-
-### $0.85
-
-### $30
-
-### $0.80
-
-### $28
-
-### $0.75
-
-### $26
-
 Gasoline $/Gallon Crude Oil $/Bbl
 
-### $0.70
-
 Jan 2, 2003 Apr 3, 2003 Jul 3, 2003 Oct 2, 2003 Jan 6, 2004 Apr 6, 2004 $24
-
-### $0.65
 
 Let's See....
 
@@ -113,20 +71,6 @@ One would think that MR or handymax product carrier rates would be booming. They
 ### Handymax Weekly TCE Rates
 
 ### Caribs Up Coast
-
-### $35,000
-
-### $30,000
-
-### $25,000
-
-### $/Day
-
-### $20,000
-
-### $15,000
-
-### $10,000
 
 01/03/2003 04/04/2003 07/04/2003 10/03/2003 01/02/2004 04/02/2004 $5,000 In the last few days, handymax rates have improved. Our prognosis of increasing gasoline imports to keep gas lines from forming supports product carrier rates taking off again.
 

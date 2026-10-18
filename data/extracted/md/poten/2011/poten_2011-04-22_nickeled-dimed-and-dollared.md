@@ -18,28 +18,6 @@ Spring is in the air: the birds are chirping, the flowers are blooming and the m
 
 ### U.S. Retail Gasoline Prices (Regular)
 
-### $4.50
-
-### $4.00
-
-### $3.50
-
-### $3.00
-
-### $/gallon
-
-### $2.50
-
-### $2.00
-
-### $1.50
-
-### $1.00
-
-### $0.50
-
-### $0.00
-
 ### Sep‐04
 
 ### Feb‐11

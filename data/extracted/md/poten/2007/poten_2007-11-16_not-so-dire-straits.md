@@ -64,23 +64,7 @@ The chart below shows the comparative spot market rates across several key Afram
 
 ### Spot Market Rates - Aframaxes
 
-### $70,000
-
-### $60,000
-
-### $50,000
-
 ### TCE ($/day)
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
 
 CAR - USG BSEA - MED X MED As would be expected, the trend for Black Sea rates closely mirrors that of the cross-Mediterranean (X MED) trade, but at substantially higher levels on a TCE basis. For the entire time series, July through this week, rates in the Black Sea have been 50% higher than those of vessels trading in the Mediterranean. Delays in the Black Sea can serve to significantly reduce the pool of available tonnage leading to spikes in charter rates. Expect to see increasing volatility in these rates through the duration of the winter.
 

@@ -18,30 +18,6 @@ Christmas is just around the corner. If you're a member of the Worldscale Associ
 
 ### Worldscale Flat Rates ‐ 2008‐2012
 
-### $50
-
-### $45
-
-### $40
-
-### $35
-
-### $/MT
-
-### $30
-
-### $25
-
-### $20
-
-### $15
-
-### $10
-
-### $5
-
-### $0
-
 Ras Tanura ‐ LOOP Ras Tanura ‐ Yokohama Bonny ‐ Philadelphia Puerto La Cruz ‐
 
 ### Houston
@@ -52,27 +28,7 @@ The cost of marine fuel tends to rise and fall with the price of crude oil, and 
 
 ### Bunker Prices ‐ IFO 380
 
-### $800
-
 Historical 2012
-
-### $700
-
-### $600
-
-### $500
-
-### $/MT
-
-### $400
-
-### $300
-
-### $200
-
-### $100
-
-### $0
 
 ### Jul‐11
 

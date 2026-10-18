@@ -20,27 +20,7 @@ After a 38% average rise in flat rates in 2009, the decrease among the 111 rate 
 
 ### Historical Flat Rates
 
-### $45
-
-### $40
-
-### $35
-
-### $30
-
 ### Flat Rate ($/MT)
-
-### $25
-
-### $20
-
-### $15
-
-### $10
-
-### $5
-
-### $0
 
 ### WAF ‐ USAC
 

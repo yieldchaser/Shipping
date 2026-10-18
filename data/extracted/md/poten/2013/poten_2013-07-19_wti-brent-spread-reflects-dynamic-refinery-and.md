@@ -22,25 +22,7 @@ There is increasing optimism that the economic recovery in the United States is 
 
 WTI-Brent Spread Daily Settlement, 2009-present
 
-### $5
-
-### $0
-
-### -$5
-
 ### WTI-Brent Spread (per barrel)
-
-### -$10
-
-### -$15
-
-### -$20
-
-### -$25
-
-### -$30
-
-### -$35
 
 Jan-09 Jan-10 Jan-11 Jan-12 Jan-13 The comparative advantage of prolonged periods of low prices had led to record high builds of crude oil stocks in the US. These have substantially dropped off as of late - more so than typical seasonality would suggest - presumably in response to higher WTI prices, higher levels of crude runs, and higher interest rates that have increased the carrying cost associated with crude oil inventories.
 

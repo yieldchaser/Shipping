@@ -18,31 +18,9 @@ The hurricane season continues full-swing in the Atlantic Basin. Currently, citi
 
 ### Historical MR Spot Market Rates
 
-### $50,000
-
 ### 2005 Hurricanes Katrina & Rita
 
-### $45,000
-
-### $40,000
-
-### $35,000
-
 ### TCE ($/day)
-
-### $30,000
-
-### $25,000
-
-### $20,000
-
-### $15,000
-
-### $10,000
-
-### $5,000
-
-### $0
 
 ### Feb-08
 
@@ -98,23 +76,7 @@ Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth 
 
 Gasoline stocks are also at an all time low for the year at 187 million barrels, down over 10% from merely a month ago. The chart below shows the US gasoline stocks against the gallon price of gasoline.
 
-### $6.00
-
-### $5.00
-
 ### Thousand Barrels
-
-### $4.00
-
-### $/gallon
-
-### $3.00
-
-### $2.00
-
-### $1.00
-
-### $0.00
 
 Gasoline Stocks Gasoline Price Although gasoline prices have been on the decline recently, the confluence of current events is already contributing to a dramatic reversal in this trend. The storm's path has already caused gasoline to jump to almost $5 per gallon in the Gulf Coast in anticipation of continued refinery shut-downs.
 

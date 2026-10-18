@@ -20,41 +20,9 @@ The chart below displays the average domestic refining "3‐2‐1" crack spread 
 
 ### Prices & Refining Margins
 
-### $30
-
-### $160
-
-### $140
-
-### $25
-
 ### 3‐2‐1 Crack Spread ($/Bbl)
 
-### $120
-
-### $20
-
-### $100
-
 ### Prices ($/Bbl)
-
-### $80
-
-### $15
-
-### $60
-
-### $10
-
-### $40
-
-### $5
-
-### $20
-
-### $0
-
-### $0
 
 ### Feb‐11
 

@@ -18,53 +18,13 @@ charts_count: 1
 
 VLCC Earnings and Cumulative Cash Generation
 
-### $225
-
-### $45
-
-### $200
-
-### $40
-
 $/Day Earnings Cumulative Cash
-
-### $175
-
-### $35
-
-### $150
-
-### $30
 
 ### $Millions
 
-### $125
-
-### $25
-
-### $/Day
-
-### $100
-
-### $20
-
-### $75
-
-### $15
-
-### $50
-
-### $10
-
 Enough to pay off 55% of $75 Million Vessel Cost!
 
-### $25
-
-### $5
-
 Jan-03 Apr-03 Jul-03 Oct-03 Jan-04 Apr-04 Jul-04 Oct-04 $0
-
-### $0
 
 ### Half of Cost of Crude Carriers Recouped in Two Years!
 

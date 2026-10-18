@@ -36,22 +36,6 @@ Although conspicuously absent for the past few years, the VLCC market is no stra
 
 ### VLCC Spot & Term Charter Rates
 
-### $300,000
-
-### $250,000
-
-### $200,000
-
-### $/day
-
-### $150,000
-
-### $100,000
-
-### $50,000
-
-### $0
-
 1-Yr TC Ras Tanura - Chiba Bonny - Chiba Spot market rates for both trades have averaged around $53,000 per day over the historical period shown above, while the one-year time charter rate has averaged $49,000 per day. The average disparity between one-year term charter and spot rates is minimal, the relative volatility is not. The standard deviation for the Ras Tanura to Chiba voyage is $46,200 per day and $35,300 per day for the Bonny to Chiba voyage. It is $17,400 per day for the one-year time charter rates highlighting the more stable nature of the term charter market.
 
 If spot rates continue their upward climb, term charter rates will likely rally in tandem. When the ship supply in the Arabian Gulf rebalances at some point in the future, spot charter rates will soften accordingly. But as history has shown, term charter rates demonstrate more resistance. Optimism from a spot market spike tends to provide lingering support for term charter rates. There is reason to believe the spot run-up could persist due to increased movements from factors like Chinese strategic stocking. Those interested in securing term charters for one year should strike while the iron is hot.

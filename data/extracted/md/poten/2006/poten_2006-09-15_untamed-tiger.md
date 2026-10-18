@@ -16,29 +16,11 @@ charts_count: 2
 
 When trying to assess the future of the world economy, crude oil demand and formulate an outlook for tanker rates, one of the key factors to consider is the state of the economy in China. For the second quarter, China's GDP grew at its fastest pace in more than a decade- over 11.3%. As demand for crude oil generally moves in line with economic growth especially in developing countries, the marked increase in crude oil imports is not surprising. What continues to be most interesting is that there are no looming downward pressures on the horizon for this giant economy.
 
-### $80.00
-
-### $70.00
-
-### $60.00
-
 ### (Quarter on Quarter)
-
-### $50.00
 
 ### ($/bbl)
 
-### $40.00
-
-### $30.00
-
-### $20.00
-
-### $10.00
-
 ### Poten/Bloomberg
-
-### $0.00
 
 ### 1Q01
 

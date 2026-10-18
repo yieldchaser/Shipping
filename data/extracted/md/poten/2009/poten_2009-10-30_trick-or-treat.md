@@ -22,27 +22,9 @@ The reduction and eventual flattening of recent VLCC availabilities has caused e
 
 ### Arabian Gulf VLCC Earning & Availabilities
 
-### $80,000
-
 ### Time Charter Equivalent ($/day
 
 ### Spot Vessels Next 30 Days
-
-### $70,000
-
-### $60,000
-
-### $50,000
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
 
 ### Aug‐09
 

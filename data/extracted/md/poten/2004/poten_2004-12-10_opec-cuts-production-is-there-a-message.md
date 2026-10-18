@@ -18,49 +18,15 @@ OPEC announced today a reduction of about 1 million bpd to stem falling oil pric
 
 ### AG Exports and Oil Prices
 
-### $60
-
 MM Bpd $/Bbl
 
-### $52
-
-### $44
-
-### $/Bbl
-
-### $36
-
-### $28
-
-### $20
-
 Jan-01 Jul-01 Jan-02 Jul-02 Jan-03 Jul-03 Jan-04 Jul-04 18
-
-### $12
 
 ### Economics at Work
 
 The following chart plots oil prices versus AG exports. As the world economy improves, oil demand increases. This causes OPEC/AG oil exports to rise, putting upward pressure on prices.
 
 ### Oil Prices versus AG Exports
-
-### $50
-
-### $45
-
-### $40
-
-### $35
-
-### $/Bbl
-
-### $30
-
-### $25
-
-### $20
-
-### $15
 
 18 19 20 21 22 23 24 MM Bpd There is a fairly good correlation between oil prices and AG exports (65% of the variation in oil prices can be described by variation in AG exports). This degree of correlation can be interpreted to mean that it is easier for OPEC to keep prices high when demand is high and that it is more difficult to maintain price when demand is low.
 

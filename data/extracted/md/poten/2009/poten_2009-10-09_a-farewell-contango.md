@@ -20,27 +20,7 @@ Contango refers to a price structure where prices on the spot market offer a dis
 
 ### Crude Oil (WTI) Spot vs. Future Prices
 
-### $9.00
-
-### $8.00
-
-### $7.00
-
 ### Differential From Spot Price
-
-### $6.00
-
-### $5.00
-
-### $4.00
-
-### $3.00
-
-### $2.00
-
-### $1.00
-
-### $0.00
 
 1 Mo. 2 Mo. 3 Mo. 4 Mo. 5 Mo. 6 Mo.
 

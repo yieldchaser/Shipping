@@ -22,18 +22,6 @@ In the chart below, quarterly WTI price curves beginning from nearly a year ago 
 
 ### WTI Price Curve
 
-### $10
-
-### $8
-
-### $6
-
-### $4
-
-### $2
-
-### $0
-
 1 Mo. 2 Mo. 3 Mo. 4 Mo. 5 Mo. 6 Mo.
 
 ### ‐$2

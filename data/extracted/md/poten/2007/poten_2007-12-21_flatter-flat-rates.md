@@ -16,23 +16,7 @@ charts_count: 1
 
 Each year, the Worldscale Association publishes its assessment of nominal freight rates for designated voyage routes. After a spate of hefty year-to-year increases from 2005 to 2007, 2008's flat rates are only modestly above those of 2007's. Pushed mainly by the rising price of bunkers - but also by higher port charges and fluctuating exchange rates, the step increases in 2006's and 2007's flat rates were intended to reflect these added costs. As the chart below suggests, the magnitude of 2008's changes are more muted than those in recent years.
 
-### $35
-
-### $30
-
-### $25
-
-### $20
-
 ### ($/MT)
-
-### $15
-
-### $10
-
-### $5
-
-### $0
 
 Amuay Bay - Houston Bonny - Philadelphia Ras Tanura - LOOP Ras Tanura - Yokohama Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1 Changes in flat rates, denominated in $/metric ton, from one year to the next aim to account for changes in an assortment of chartering costs for port-to-port voyages worldwide.
 
@@ -50,8 +34,6 @@ Price Strength of Rotterdam IFO 380 Bunkers to Dubai Fateh Crude
 
 2007Ave.
 
-### $/MT
-
 2006Ave.
 
 2004 Ave.
@@ -65,8 +47,6 @@ Price Strength of Rotterdam IFO 380 Bunkers to Dubai Fateh Crude
 Creating a yearly average of price can mask the magnitude between their high and low during a year.
 
 ### Rotterdam IFO 380 Bunker Price
-
-### $/MT
 
 High Low Average Difference, High-Low 2003 177 128 153 49 2004 175 137 156 38 2005 287 158 234 128 2006 324 258 293 66 2007 478 232 345 246 While the increase of 2007's average bunker price over 2006's is lower than similar increases from 2005 to 2006 and 2004 to 2005, the swing between the high and low price in 2007 is almost double that of recent history. The Worldscale assignment of $328.75/MT for 2008's bunker price was based on prices from October 1, 2006 to September 30, 2007. With bunker prices continuing to flirt with $500/MT, the assigned bunker price embodied in 2008's flat rates implies the hope of retreating prices next year.
 

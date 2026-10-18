@@ -20,18 +20,6 @@ Worldscale allows for owners, charterers, and brokers to easily determine market
 
 ### WS100 Flat Rate Various Voyages
 
-### $30.00
-
-### $25.00
-
-### $20.00
-
-### $15.00
-
-### $10.00
-
-### $5.00
-
 Carib/USGulf AG/Sing UKC/USAC AG/LOOP $0.00 The 2005 edition of the Worldscale Book had an assumed bunker price of $173.00 per ton, which was revised upward to $231.50 per ton for the 2006 edition, an increase of 34%. Bunker prices in the Worldscale Book are the average bunker prices for the previous year. The revision of the assumed bunker price is responsible for the increase of 15% on the flat rate for the long haul AG/LOOP voyage and 11% on the short haul Carib/USGulf voyage.
 
 ### What Does the Market Say?

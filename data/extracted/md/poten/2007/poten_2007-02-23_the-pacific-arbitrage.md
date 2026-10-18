@@ -24,27 +24,7 @@ When considering the current clean market it is difficult not to notice the deve
 
 At current market levels, transportation costs roughly $41 per metric ton. While the freight market certainly has its swings, when compared to the product price market, freight looks relatively steady. For the past 12 months, charterers' transportation costs have stayed between $30-40 per metric ton overall. The chart below shows the charterers' transportation costs basis 40,000 MT and the arbitrage between Japanese and US West Coast gasoline and diesel.
 
-### $180
-
-### $160
-
-### $140
-
-### $120
-
 ### ($/MT)
-
-### $100
-
-### $80
-
-### $60
-
-### $40
-
-### $20
-
-### $0
 
 ### ** Basis Ulsan - Los Angeles (40kt); 90% utilization
 

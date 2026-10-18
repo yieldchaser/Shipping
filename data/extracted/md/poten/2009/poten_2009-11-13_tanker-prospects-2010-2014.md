@@ -22,27 +22,7 @@ The past year has seen rapidly contracting demand for crude oil and refined prod
 
 ### VLCC Spot Market Earnings
 
-### $225,000
-
-### $200,000
-
-### $175,000
-
-### $150,000
-
 ### TCE ($/day)
-
-### $125,000
-
-### $100,000
-
-### $75,000
-
-### $50,000
-
-### $25,000
-
-### $0
 
 ### Jan‐06
 

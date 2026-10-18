@@ -50,23 +50,9 @@ In the past month, rates have increased nearly 900% for VLCCs loading in the Ara
 
 ### Daily Spot Market TCE
 
-### $300,000
-
 Ex-AG one-month rate increases of nearly 900%! Current TCE: AG - FE (260kt) - $260,000 AG - USG (280kt) - $155,100 WAF - USG (260kt) - $182,000
 
-### $250,000
-
-### $200,000
-
 ### TCE ($/day)
-
-### $150,000
-
-### $100,000
-
-### $50,000
-
-### $0
 
 AG - USG (280kt) AG - FE (260kt) WAF - USG (260kt) It appears that rates in the East have tended to lead those in the West. If this pattern is to continue in the next couple of weeks, rates in the West may have the capacity to increase further still.
 

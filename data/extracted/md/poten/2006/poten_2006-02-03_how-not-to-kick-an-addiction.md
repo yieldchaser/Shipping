@@ -22,23 +22,11 @@ President Bush proposed several solutions, including reliance on technology to e
 
 Absolutely! The chart on the next page shows weekly gasoline consumption and gasoline prices since last summer. Gasoline consumption is calculated as the total of gasoline produced by domestic refineries, gasoline imports, and changes to Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 gasoline inventories. A decrease in gasoline inventories adds to consumption whereas an increase in gasoline inventories reduces consumption.
 
-### $3.20
-
 Rising Prices Not Inhibiting Price Consumption
 
 ### Demand
 
-### $2.90
-
-### $/Gallon
-
-### $2.60
-
 ### Impact Katrina & Rita
-
-### $2.30
-
-### $2.00
 
 The chart shows that for gasoline below $3 per gallon, automobile usage is independent of price. We drove more in the summer as gasoline prices rose because this was the time to take the family on a vacation. We drove less in the autumn as gasoline prices fell because the kids were back in school. However although hybrid car sales spurted and large sized SUVs sales declined, America's favorite automobile is still large sized SUVs. But price discounting on large sized SUVs was enough to send Ford and General Motors into the red.
 

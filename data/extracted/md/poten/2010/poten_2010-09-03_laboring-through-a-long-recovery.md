@@ -54,26 +54,6 @@ As mentioned above, it had been expected that overcapacity would limit the impac
 
 ### Rotterdam ‐ New York (37 kt)
 
-### $18,000
-
-### $16,000
-
-### $14,000
-
-### $12,000
-
 ### $ per day
-
-### $10,000
-
-### $8,000
-
-### $6,000
-
-### $4,000
-
-### $2,000
-
-### $0
 
 In the absence of a sustained support from clean imports into the United States, refined product deliveries to West Africa have helped keep the Transatlantic MR market from reaching last year's lows this summer. As demand recovery in the United States continues in the years to come, imports to help cover driving season gasoline demand are expected to reassume their role as primary market driver during the summer months.

@@ -48,25 +48,7 @@ VLCC timecharter equivalent rates for AG to Far East voyages are hovering at the
 
 ### Timecharter Equivalent for VLCCs AG to Far East
 
-### $80,000
-
-### $70,000
-
-### $60,000
-
-### $50,000
-
 ### TCE $/Day
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
 
 ### WE - 08/17/2007
 

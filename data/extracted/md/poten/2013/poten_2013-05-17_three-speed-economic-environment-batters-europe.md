@@ -32,15 +32,11 @@ Product price benchmarks in Europe weak Refinery margins frequently flirting wit
 
 ### Daily Settlement, 2013-present
 
-### $/MT
-
 At current prices of crude and other products, it is likely that this is in fact a relatively firm level of support for ULSD. A Bloomberg estimate of the typical Northwestern Europe refinery output mix and efficiency shows that margins have been flirting with zero for the better part of the last three years. This estimate of margins has in fact been negative as recently as this week. Not surprisingly, European crude oil demand has been falling over this period of time as well.
 
 ### Northwestern Europe Refinery Margin Estimate
 
 ### Daily Settlement, 2010-present
-
-### $/bbl
 
 The US, historically an importer of refined products from Europe, not only is demanding lesser import volumes, but has exceedingly become a competitor for European refineries as a result of crude oil production increases (see 26 April 2013 Opinion). Clean spot fixtures from Europe to the US have indeed fallen precipitously, leaving European refiners to find different markets, an effort that has not been particularly successful.
 

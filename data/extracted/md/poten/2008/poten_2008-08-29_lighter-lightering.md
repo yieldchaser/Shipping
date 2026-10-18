@@ -34,29 +34,7 @@ Lightering occurs offshore when smaller vessels, generally Aframaxes, offload ca
 
 ### CAR - USA Aframax Rates
 
-### $100,000
-
-### $90,000
-
-### $80,000
-
-### $70,000
-
 ### TCE ($/day)
-
-### $60,000
-
-### $50,000
-
-### $40,000
-
-### $30,000
-
-### $20,000
-
-### $10,000
-
-### $0
 
 The capital expenses associated with the TOPS are estimated at $1.8 billion. So far there are 750,000 barrels committed to the project and the operators are tasked with filling the remaining capacity in the system; something which may prove to be difficult. In order to entice oil companies to use the platform, the dollar per barrel transportation cost must be low enough to commit barrels to the project, yet high enough to generate a return for investors in TOPS. For now, the lightering business is safe, but there is potential for impact in the longer-term if the capacity of TOPS ramps up.
 

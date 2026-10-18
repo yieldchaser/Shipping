@@ -20,27 +20,7 @@ The chart below shows assessed newbuilding prices for VLCCs, Suezmaxes and Mediu
 
 ### Newbuilding Asset Prices
 
-### $180.0
-
-### $160.0
-
-### $140.0
-
-### $120.0
-
 ### Price ($M)
-
-### $100.0
-
-### $80.0
-
-### $60.0
-
-### $40.0
-
-### $20.0
-
-### $0.0
 
 ### Jan‐2008
 

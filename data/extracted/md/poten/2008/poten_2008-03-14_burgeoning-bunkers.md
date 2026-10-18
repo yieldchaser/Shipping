@@ -18,30 +18,6 @@ The growing industry awareness of air quality and emissions in the world's ports
 
 ### Singapore Bunker Prices
 
-### $1,000
-
-### $900
-
-### $800
-
-### $700
-
-### $600
-
-### $/MT
-
-### $500
-
-### $400
-
-### $300
-
-### $200
-
-### $100
-
-### $0
-
 ### Sep-06
 
 ### Sep-07

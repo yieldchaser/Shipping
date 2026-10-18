@@ -42,33 +42,9 @@ Most seaborne streams consumed by coastal refineries are priced off of the Brent
 
 ### Crude Oil Pricing Differential to West Texas Intermediate (WTI)
 
-### $35
-
-### $190
-
-### $30
-
-### $140
-
-### $25
-
 ### Brent Spot Price ($/bbl)
 
-### $20
-
 ### Differential ($/bbl)
-
-### $90
-
-### $15
-
-### $10
-
-### $40
-
-### $5
-
-### $0
 
 ### ‐$10
 

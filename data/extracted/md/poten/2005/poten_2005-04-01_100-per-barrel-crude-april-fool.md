@@ -22,23 +22,9 @@ The chart on the next page shows the historical price of oil in terms of constan
 
 ### Last Time Oil Prices Peaked
 
-### $90
-
 Constant 2003$ Current $
 
-### $75
-
 ### Today's Price
-
-### $60
-
-### $/Bbl
-
-### $45
-
-### $30
-
-### $15
 
 1970 1975 1980 1985 1990 $0
 
@@ -48,14 +34,6 @@ The following chart shows total gasoline consumption from 1970 to 1990. There wa
 
 ### Speaking of Lags
 
-### $90
-
-### $60
-
-### $/Bbl
-
-### $30
-
 1970 1975 1980 1985 1990 $0 Americans endured a decade of oil price increases of unprecedented magnitude before there was any real reduction in gasoline consumption. And when they did cut back on gasoline consumption, they continued to do so after the price of oil began to fall. Gasoline consumption then turned the corner with oil prices still in free fall.
 
 ### What Can We Conclude?
@@ -63,16 +41,6 @@ The following chart shows total gasoline consumption from 1970 to 1990. There wa
 Americans don't seem to know a thing about Economics 101- they violate all the rules! They buy more as prices climb and buy less when prices fall. Who can predict such irrational behavior? But when they did react, it was noticeable. The following chart shows miles driven per year per automobile.
 
 ### Miles Driven Per Year Per Automobile
-
-### $90
-
-### $60
-
-### 000 Miles
-
-### $/Bbl
-
-### $30
 
 Oil Price Constant $ 000 Miles Driven
 
@@ -84,15 +52,7 @@ The chart on the following page shows the change in fuel mileage for the America
 
 ### Miles Per Gallon
 
-### $90
-
-### $60
-
-### $/Bbl
-
 ### Mpg
-
-### $30
 
 Oil Price Constant $ Miles per Gallon
 

@@ -32,11 +32,7 @@ As seen in the chart below, pools tend to form in weak freight rate environments
 
 ### VLCC Spot Rates 1996‐2011 YTD: AG‐FE (260kt)
 
-### $250,000
-
 2009‐2011 YTD Average $23,600 per day
-
-### $200,000
 
 ### TCE ($/Day)
 
@@ -44,21 +40,13 @@ As seen in the chart below, pools tend to form in weak freight rate environments
 
 1996‐1999 Average $28,700 per day 2000‐2008 Average $52,900 per day
 
-### $150,000
-
 ### Navig8 V8 Pool Founded
 
 ### Tankers International
 
-### $100,000
-
 ### Plan for New VLCC Pool
 
 ### Annouced
-
-### $50,000
-
-### $0
 
 ### Jan‐11
 

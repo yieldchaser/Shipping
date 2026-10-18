@@ -20,15 +20,11 @@ The price of crude oil, particularly light sweet grades, has significantly incre
 
 Cross Med Freight Rates vs. Brent Oil Price 2010 ‐ 2011 YTD
 
-### $150
-
 ### Higher oil prices
 
 ### February 2011 -
 
 ### Brent Crude Oil Price ($/bbl)
-
-### $130
 
 ### Begin of Libyan
 
@@ -36,19 +32,7 @@ Cross Med Freight Rates vs. Brent Oil Price 2010 ‐ 2011 YTD
 
 ### Worldscale Rate
 
-### $110
-
-### $90
-
 ### Lower daily earnings
-
-### $70
-
-### $50
-
-### $30
-
-### $10
 
 ### ‐$10
 

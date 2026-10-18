@@ -18,8 +18,6 @@ The recent run‐up in crude oil prices has led many to speculate that the emoti
 
 ### Crude Oil Prices
 
-### $/bbl
-
 ### Jan‐07
 
 ### Jan‐06

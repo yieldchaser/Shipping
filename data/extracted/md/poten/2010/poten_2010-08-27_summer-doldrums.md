@@ -22,23 +22,7 @@ A number of factors can lead to a slowdown in the tanker market as August winds 
 
 ### (260kt)
 
-### $140,000
-
-### $120,000
-
-### $100,000
-
 ### TCE ($/Day)
-
-### $80,000
-
-### $60,000
-
-### $40,000
-
-### $20,000
-
-### $0
 
 2007 2008 2009 2010 YTD 1Q Average 2Q Average Last Week of August 3Q Average 4Q Average
 

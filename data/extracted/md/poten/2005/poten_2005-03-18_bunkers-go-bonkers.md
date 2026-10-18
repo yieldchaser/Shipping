@@ -18,45 +18,11 @@ How are bunkers (380 CST) over $200 a ton, and marine diesel oil (MDO) inching c
 
 ### Bunker and Crude Prices in Arabian Gulf
 
-### $450
-
 MDO Crude CST
-
-### $400
-
-### $350
-
-### $300
-
-### $250
-
-### $/Ton
-
-### $200
-
-### $150
-
-### $100
-
-### $50
 
 Jan-99 Jan-00 Jan-01 Jan-02 Jan-03 Jan-04 Jan-05 $0 As seen above, bunker prices follow crude oil prices to some extent (a moderately weak R Square of 40%). The spread between the two varies depending on refinery output, fuel oil availability, and demand for fuel oil in refinery centers.
 
 ### Spread in AG Between Crude and Bunker Prices
-
-### $100
-
-### $80
-
-### $60
-
-### $40
-
-### $20
-
-### $/Ton
-
-### $0
 
 ### ($20)
 
@@ -71,26 +37,6 @@ The principal driver behind the rising spread between crude and bunker prices si
 The following chart shows WS and TCE rates AG/Japan for VLCCs.
 
 ### VLCC AG/Japan Spot WS & TCE Rates
-
-### $240,000
-
-### $210,000
-
-### $180,000
-
-### $150,000
-
-### $/Day
-
-### $120,000
-
-### $90,000
-
-### $60,000
-
-### $30,000
-
-### $0
 
 The following chart shows the differential in WS points to compensate for fluctuations in bunker prices from the average price of bunkers in 2001. (WS rates adjusted to reflect changes in the annual base rate).
 

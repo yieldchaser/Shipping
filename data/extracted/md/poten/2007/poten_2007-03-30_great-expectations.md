@@ -16,25 +16,11 @@ charts_count: 1
 
 In today's market oil companies are continuously managing complex and expensive upstream projects in an unpredictable price environment. BP just published their "Annual Review 2006". The report provides a clear summary of some of the top challenges that oil companies face today. Shipping faces some of these challenges as well. One of them is rate volatility. As shown below, it can be challenging to make long-term plans in a volatile spot market.
 
-### $120,000
-
 12 Month Average: $54,269 12 Month Low: $24,716 12 Month High: $97,272
-
-### $100,000
 
 ### TCE AG - FE (260kt)
 
-### $80,000
-
-### $60,000
-
-### $40,000
-
-### $20,000
-
 ### Poten/IEA
-
-### $0
 
 ### Feb-07
 

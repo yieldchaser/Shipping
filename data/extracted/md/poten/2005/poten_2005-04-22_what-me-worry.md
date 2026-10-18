@@ -46,21 +46,15 @@ Not yet: the GDP for the United States strengthened in 2003 and does not show si
 
 U.S. GDP (Constant 2000 $)
 
-### $12
-
 ### Rate of change
 
 ### Increasing
-
-### $11
 
 ### Trillions 2000$
 
 ### Rate of change
 
 ### Stagnant
-
-### $10
 
 ### Federal Reserve/Poten
 

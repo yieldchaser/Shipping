@@ -18,31 +18,9 @@ The past couple of weeks have been quite tumultuous in the United States financi
 
 ### S&P 500 vs. Bear Stearns
 
-### $100
-
-### $90
-
-### $80
-
 ### Bear Stearns Closing Price
 
-### $70
-
 ### S&P 500 Index
-
-### $60
-
-### $50
-
-### $40
-
-### $30
-
-### $20
-
-### $10
-
-### $0
 
 1/3/08 1/14/08 1/24/08 2/4/08 2/13/08 2/25/08 3/5/08 3/14/08 S&P 500 Bear Stearns (BSC) Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1
 
@@ -51,8 +29,6 @@ The past couple of weeks have been quite tumultuous in the United States financi
 The question is whether or not the tanker market could experience a similar liquidity crisis. The table below shows the size of the orderbook in the large tanker sectors and the approximate values at current price assessments. Based on today's prices the forward orderbook for delivery in 2009 and beyond has a value in excess of $110 billion. In simple terms, to take delivery shipowners will need to either draw on internal funds, or reach out to the banks or the investment community to raise the necessary cash.
 
 2009 2010 2011+ ($ Million) ($ Billions) VLCC 60 58 40 $150 $29.4 Suezmax 54 41 21 $92 $12.7 Aframax 105 83 30 $76 $21.5 Panamax 46 25 19 $67 $9.2 MR 228 171 97 $52 $37.9 Total 493 378 207
-
-### $110.8
 
 The above figure of $110 billion excludes the financing needed for chemical carriers, dry bulk carriers, container ships, LNG and LPG tankers and the vast orderbook for the offshore sector. With a conservative 70%/30% debt to debt to equity financing structure, the implication is that tanker owners will need to tap into the markets for nearly $80 billion.
 

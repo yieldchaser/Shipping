@@ -48,28 +48,6 @@ The chart below shows historical freight rates on a lumpsum basis from the US Gu
 
 Lumpsum US Gulf - Caribbean (basis Atlantic Colombia)
 
-### $1,000,000
-
-### $900,000
-
-### $800,000
-
-### $700,000
-
-### $600,000
-
-### $500,000
-
-### $400,000
-
-### $300,000
-
-### $200,000
-
-### $100,000
-
-### $0
-
 If export volumes increase further, the knock-effect for Medium-Range (MR) product tanker freight rates could be positive.
 
 ## Market Exhibits & Charts

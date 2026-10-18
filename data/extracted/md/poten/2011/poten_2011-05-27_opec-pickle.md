@@ -22,8 +22,6 @@ Brent oil prices experienced an upward pop in early January as conflict erupted 
 
 $0 $20 $40 $60 $80 $100 $120 $140 $160
 
-### $/bbl
-
 ### Jan‐07
 
 ### Jan‐08

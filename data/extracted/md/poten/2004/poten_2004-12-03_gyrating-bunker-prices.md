@@ -42,17 +42,7 @@ Average Price and Measure of Volatility of Bunkers at Various Bunkering Ports* N
 
 ### Bunker Price Differentials
 
-### $40
-
 AG-UKC AG-USG
-
-### $30
-
-### $20
-
-### $10
-
-### $0
 
 ### ($10)
 

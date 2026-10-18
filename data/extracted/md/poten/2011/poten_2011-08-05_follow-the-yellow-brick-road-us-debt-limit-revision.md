@@ -18,29 +18,9 @@ Welcome to Oz! While it is nothing new, now more than ever it seems the United S
 
 ### U.S. Debt v. Gold Prices
 
-### $1,800
-
-### $1,600
-
-### $1,400
-
 ### Debt (Trillion USD)
 
-### $1,200
-
 ### Gold ($/troy oz.)
-
-### $1,000
-
-### $800
-
-### $600
-
-### $400
-
-### $200
-
-### $0
 
 Public Debt Debt Limit New Debt Limit Gold Price 1 Debt Limit: Myth v. Fact, Department of the Treasury; graph sources Bloomberg, US Department of Treasury Concerns about future currency debasement seem to be validated by the previous chart that compares public debt and the debt limit versus the price of gold. As the amount of currency in the system impacts the value per unit, prices for commodities will naturally have to rise nominally.
 
@@ -52,45 +32,15 @@ The publicity of the Greek debt crisis rightfully created concerns about the wea
 
 ### Exchange Rates v. Crude Oil Prices
 
-### $140
-
-### $1.60
-
 ### SPR release
 
 Greece Debt Crisis Lead‐up and Implementation of QE2
 
-### $120
-
-### $1.50
-
 ### Exchange Rate ($/Euro)
-
-### $100
 
 ### Crude Oil Price ($/bbl)
 
-### $1.40
-
-### $80
-
-### $1.30
-
-### $60
-
 ### CME margin hikes
-
-### $1.20
-
-### $40
-
-### $1.10
-
-### $20
-
-### $0
-
-### $1.00
 
 ### May‐10
 

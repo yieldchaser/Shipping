@@ -28,23 +28,7 @@ The chart above shows the Suezmax time charter equivalents (TCE) for voyages Wes
 
 ### Time Charter Equivalent WAF - USAC (130kt)
 
-### $90,000
-
-### $80,000
-
-### $70,000
-
 ### TCE $/day
-
-### $60,000
-
-### $50,000
-
-### $40,000
-
-### $30,000
-
-### $20,000
 
 ### Jun
 
