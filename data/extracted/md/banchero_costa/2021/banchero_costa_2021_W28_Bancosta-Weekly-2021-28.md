@@ -184,22 +184,7 @@ In the Americas, the market for 70,000 mt ex USG to UKC-Med increased slightly t
 
 > **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| TD6 SUEZMAX BSEA-MED (USD/DAY) | TD6 SUEZMAX BSEA-MED (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Jul-20 | 5000 |
-| Aug-20 | 10000 |
-| Sep-20 | 2000 |
-| Oct-20 | -5000 |
-| Nov-20 | -8000 |
-| Dec-20 | -6000 |
-| Jan-21 | -4000 |
-| Feb-21 | -2000 |
-| Mar-21 | 25000 |
-| Apr-21 | 1000 |
-| May-21 | -5000 |
-| Jun-21 | -8000 |
-| Jul-21 | -10000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
 > **Chart (not transcribed):** TD17 AFRAMAX BALTIC-UKC (USD/DAY). The report prints no values for it.
 

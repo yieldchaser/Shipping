@@ -214,39 +214,19 @@ The **VLCC** market started the week quietly, mostly due to holidays in China, b
 
 ### TD3C VLCC MEG-FAR EAST (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 10,000 |
-| Feb-22 | 20,000 |
-| Jun-22 | -30,000 |
-| Oct-22 | 70,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### TD6 SUEZMAX BSEA-MED (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 0 |
-| Feb-22 | 150,000 |
-| Jun-22 | 50,000 |
-| Oct-22 | 80,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### TD17 AFRAMAX BALTIC-UKC (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | -10,000 |
-| Feb-22 | 300,000 |
-| Jun-22 | 90,000 |
-| Oct-22 | 80,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### TD19 AFRAMAX MED-MED (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 10,000 |
-| Feb-22 | 70,000 |
-| Jun-22 | 50,000 |
-| Oct-22 | 60,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### 1 YR TC PERIOD (USD/DAY)
 
@@ -289,30 +269,15 @@ The Russian BSea market was still active with several owners looking for cargoes
 
 ### TC1 LR2 MEG-JAPAN (usd/day)
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 0 |
-| Feb-22 | 10,000 |
-| Jun-22 | 60,000 |
-| Oct-22 | 25,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### MR ATLANTIC BASKET (usd/day)
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 0 |
-| Feb-22 | 10,000 |
-| Jun-22 | 60,000 |
-| Oct-22 | 50,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### MR PACIFIC BASKET (usd/day)
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 0 |
-| Feb-22 | 10,000 |
-| Jun-22 | 70,000 |
-| Oct-22 | 40,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### 1 YR TC PERIOD (USD/DAY)
 
@@ -467,12 +432,7 @@ VLCC **PRINCESS MARY** 306,200 dwt blt 2004 Mitsubishi (BWTS fitted) is sold in 
 
 ### SECONDHAND VALUES (USD MLN)
 
-| Date | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Oct-21 | 35 | 40 | 26 |
-| Feb-22 | 36 | 42 | 27 |
-| Jun-22 | 37 | 46 | 32 |
-| Oct-22 | 34 | 56 | 39 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 40/2022
 
@@ -544,16 +504,7 @@ VLCC **PRINCESS MARY** 306,200 dwt blt 2004 Mitsubishi (BWTS fitted) is sold in 
 
 **HANDYSIZE FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Oct-21 | 36000 |
-| Jan-22 | 16000 |
-| Apr-22 | 30000 |
-| Jul-22 | 16000 |
-| Oct-22 | 16000 |
-| Jan-23 | 13000 |
-| Apr-23 | 13000 |
-| Oct-23 | 13000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # EXCHANGE RATES
 

@@ -28,20 +28,7 @@ Still in May 2022, Russia exported 3.2 mln tonnes of coal to the EU, which was a
 ## Russia to EU - Monthly Coal Exports - Seasonality
 (Aug 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes)
 
-| Month | 2018 | 2019 | 2020 | 2021 | 2022 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 2.9 | 3.4 | 2.9 | 3.1 | 3.2 |
-| Feb | 2.5 | 3.4 | 2.0 | 2.8 | 2.9 |
-| Mar | 2.7 | 3.5 | 2.1 | 2.8 | 3.5 |
-| Apr | 2.8 | 3.5 | 1.6 | 3.4 | 3.7 |
-| May | 2.6 | 2.9 | 2.0 | 3.0 | 3.1 |
-| Jun | 2.5 | 2.8 | 2.0 | 2.9 | 1.1 |
-| Jul | 2.5 | 2.7 | 2.3 | 2.8 | 1.2 |
-| Aug | 2.6 | 2.8 | 2.5 | 3.7 | 3.5 |
-| Sep | 2.7 | 2.9 | 2.7 | 3.4 | 3.4 |
-| Oct | 2.8 | 2.4 | 3.5 | 3.5 | 3.5 |
-| Nov | 2.5 | 2.5 | 2.9 | 3.4 | 3.4 |
-| Dec | 2.6 | 2.8 | 3.5 | 3.6 | 3.6 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CAPESIZE MARKET
 

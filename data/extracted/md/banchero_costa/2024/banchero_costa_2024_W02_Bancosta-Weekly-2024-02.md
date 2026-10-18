@@ -229,20 +229,7 @@ Delays at Turkish straits at abt 12.0 days n/b and abt 9.0 days s/b.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Chart Title | Date | Value (usd/day) |
-| --- | --- | --- |
-| MR PACIFIC BASKET (usd/day) | Jan-23 | 35000 |
-| MR PACIFIC BASKET (usd/day) | Feb-23 | 40000 |
-| MR PACIFIC BASKET (usd/day) | Mar-23 | 45000 |
-| MR PACIFIC BASKET (usd/day) | Apr-23 | 42000 |
-| MR PACIFIC BASKET (usd/day) | May-23 | 18000 |
-| MR PACIFIC BASKET (usd/day) | Jun-23 | 20000 |
-| MR PACIFIC BASKET (usd/day) | Jul-23 | 25000 |
-| MR PACIFIC BASKET (usd/day) | Aug-23 | 30000 |
-| MR PACIFIC BASKET (usd/day) | Sep-23 | 32000 |
-| MR PACIFIC BASKET (usd/day) | Oct-23 | 35000 |
-| MR PACIFIC BASKET (usd/day) | Nov-23 | 30000 |
-| MR PACIFIC BASKET (usd/day) | Jan-24 | 32000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
@@ -496,23 +483,26 @@ The Kasmarmax Kavala 83,000 dwt built 2009 Sanoyas (SS/DD due April 2024) was so
 |  | Palm Oil Malaysia | usd/t | 813.5 | 793.3 | +2.6% | -10.1% |
 |  | Ferts Urea Middle East | usd/t | 341.5 | 341.5 | +0.0% | -37.7% |
 
-| Category | Item | Unit | 12-Jan | 5-Jan | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| BUNKER PRICES @ SINGAPORE (USD/T) |  |  |  |  |  |  |
-|  | IFO380 |  | 750 | 760 | -1.3% | +12.5% |
-|  | VLSFO |  | 650 | 660 | -1.5% | +13.0% |
-|  | LSMGO |  | 850 | 870 | -2.3% | +15.0% |
-| BRENT & WTI OIL PRICE (USD/BBL) |  |  |  |  |  |  |
-|  | Brent |  | 82 | 80 | +2.4% | -5.0% |
-|  | WTI |  | 76 | 74 | +2.7% | -6.2% |
-| HENRY HUB PRICE (USD/MMBTU) |  |  |  |  |  |  |
-|  | Henry Hub Nat Gas |  | 3.0 | 2.8 | +7.1% | -6.0% |
-| COAL & IRON ORE PRICE (USD/T) |  |  |  |  |  |  |
-|  | Steam Coal |  | 150 | 140 | +7.1% | -10.0% |
-|  | Iron Ore |  | 130 | 125 | +4.0% | -8.0% |
-| STEEL PRICES IN CHINA (RMB/T) |  |  |  |  |  |  |
-|  | HRC |  | 4100 | 4000 | +2.5% | -3.0% |
-|  | Plate |  | 4200 | 4100 | +2.4% | -2.8% |
-| WHEAT & CORN PRICES (USD/T) |  |  |  |  |  |  |
-|  | Corn |  | 500 | 480 | +4.3% | -10.0% |
-|  | Wheat |  | 600 | 580 | +3.4% | -12.0% |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.

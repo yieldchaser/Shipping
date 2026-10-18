@@ -404,12 +404,7 @@ The **XING TONG** 799 49,962 dwt 2011 Onomichi Dockyard is understood to have ch
 | **Aframax** | usd mln | 84.0 | 84.0 | +0.0% | +33.3% |
 | **MR Product** | usd mln | 49.5 | 49.5 | -0.1% | +21.8% |
 
-| Date | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Aug-25 | 34 | 62 | 42 |
-| Dec-25 | 35 | 65 | 43 |
-| Apr-26 | 38 | 78 | 47 |
-| Aug-26 | 39 | 85 | 48 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 35/2026
 

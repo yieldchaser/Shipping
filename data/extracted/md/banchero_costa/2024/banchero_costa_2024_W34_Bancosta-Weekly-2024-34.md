@@ -236,20 +236,7 @@ Good activity kept Handy rates steady at the beginning of the week then a shorta
 | **Med-Med (30k)** | ws | 220.0 | 225.0 | -2.2% | +39.7% |
 | **Black Sea-Med (30k)** | ws | 300.0 | 300.0 | +0.0% | +33.3% |
 
-| Chart Title | Date | Value |
-| --- | --- | --- |
-| TC1 LR2 MEG-JAPAN (usd/day) | Aug-23 | 25000 |
-| TC1 LR2 MEG-JAPAN (usd/day) | Dec-23 | 100000 |
-| TC1 LR2 MEG-JAPAN (usd/day) | Apr-24 | 20000 |
-| MR ATLANTIC BASKET (usd/day) | Aug-23 | 30000 |
-| MR ATLANTIC BASKET (usd/day) | Dec-23 | 60000 |
-| MR ATLANTIC BASKET (usd/day) | Apr-24 | 30000 |
-| MR PACIFIC BASKET (usd/day) | Aug-23 | 30000 |
-| MR PACIFIC BASKET (usd/day) | Dec-23 | 55000 |
-| MR PACIFIC BASKET (usd/day) | Apr-24 | 20000 |
-| 1 YR TC PERIOD (USD/DAY) | Aug-23 | 40000 |
-| 1 YR TC PERIOD (USD/DAY) | Dec-23 | 50000 |
-| 1 YR TC PERIOD (USD/DAY) | Apr-24 | 40000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 

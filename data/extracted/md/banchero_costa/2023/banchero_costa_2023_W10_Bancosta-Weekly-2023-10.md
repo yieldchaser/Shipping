@@ -512,30 +512,15 @@ DERIVATIVES MARKET REPORT – WEEK 10/2023 12
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Mar-22 | 110 | 110 |
-| Jul-22 | 90 | 120 |
-| Nov-22 | 80 | 70 |
-| Mar-23 | 80 | 75 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Mar-22 | 5.0 |
-| Jul-22 | 9.0 |
-| Nov-22 | 4.0 |
-| Mar-23 | 2.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Mar-22 | 800 | 1,100 |
-| Jul-22 | 700 | 800 |
-| Nov-22 | 700 | 750 |
-| Mar-23 | 700 | 700 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

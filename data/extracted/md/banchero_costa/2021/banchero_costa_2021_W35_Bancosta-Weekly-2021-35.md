@@ -54,13 +54,7 @@ The C17 route has also been impacted by the lower assessment of C3 and C5 freigh
 | **Newcastlemax 1-Y Period** | usd/day | 32,500 | 33,000 | -1.5% | +85.7% |
 | **Capesize 1-Y Period** | usd/day | 29,000 | 30,000 | -3.3% | +93.3% |
 
-| BCI TC & CAPESIZE 1-YR TC (USD/DAY) | BCI TC & CAPESIZE 1-YR TC (USD/DAY) | BCI TC & CAPESIZE 1-YR TC (USD/DAY) |
-| --- | --- | --- |
-| Date | 1-YR TC | BCI TC |
-| Sep-20 | 10,000 | 15,000 |
-| Jan-21 | 12,000 | 10,000 |
-| May-21 | 25,000 | 40,000 |
-| Sep-21 | 28,000 | 50,000 |
+> **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
 ## PANAMAX MARKET
 
@@ -79,13 +73,7 @@ The North Atlantic is without a doubt the area that suffered the most losses, wi
 | **Kamsarmax 1-Y Period** | usd/day | 29,000 | 29,000 | +0.0% | +123.1% |
 | **Panamax 1-Y Period** | usd/day | 25,500 | 25,500 | +0.0% | +121.7% |
 
-| BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY) | BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY) | BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY) |
-| --- | --- | --- |
-| Date | 1-YR TC | BPI 82 TC |
-| Sep-20 | 12,000 | 12,000 |
-| Jan-21 | 15,000 | 15,000 |
-| May-21 | 25,000 | 35,000 |
-| Sep-21 | 28,000 | 32,000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -147,21 +135,11 @@ During this week, the market on the ECSAm remained strong and firm, particularly
 
 ### BSI TC & SUPRAMAX 1-YR TC (USD/DAY)
 
-| Date | 1-YR TC | BSI 58 TC |
-| --- | --- | --- |
-| Sep-20 | 10000 | 10000 |
-| Jan-21 | 12000 | 15000 |
-| May-21 | 20000 | 25000 |
-| Sep-21 | 28000 | 38000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### BHSI 38 TC & HANDY 1-YR TC (USD/DAY)
 
-| Date | 1-YR TC | BHSI 38 TC |
-| --- | --- | --- |
-| Sep-20 | 10000 | 10000 |
-| Jan-21 | 12000 | 15000 |
-| May-21 | 18000 | 25000 |
-| Sep-21 | 26000 | 35000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -219,58 +197,15 @@ Rates in the East, on the other hand, have softened to the WS95 level.
 
 ### TD6 SUEZMAX BSEA-MED (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 2000 |
-| Oct-20 | 0 |
-| Nov-20 | 5000 |
-| Dec-20 | 10000 |
-| Jan-21 | 10000 |
-| Feb-21 | 15000 |
-| Mar-21 | 25000 |
-| Apr-21 | 5000 |
-| May-21 | 0 |
-| Jun-21 | -5000 |
-| Jul-21 | -5000 |
-| Aug-21 | -5000 |
-| Sep-21 | -5000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### TD17 AFRAMAX BALTIC-UKC (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Aug-20 | 5000 |
-| Sep-20 | 0 |
-| Oct-20 | 0 |
-| Nov-20 | 0 |
-| Dec-20 | 5000 |
-| Jan-21 | 10000 |
-| Feb-21 | 35000 |
-| Mar-21 | 25000 |
-| Apr-21 | 5000 |
-| May-21 | 5000 |
-| Jun-21 | 0 |
-| Jul-21 | 0 |
-| Aug-21 | 0 |
-| Sep-21 | 0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### TD19 AFRAMAX MED-MED (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 0 |
-| Oct-20 | 0 |
-| Nov-20 | 0 |
-| Dec-20 | 0 |
-| Jan-21 | 5000 |
-| Feb-21 | 15000 |
-| Mar-21 | 35000 |
-| Apr-21 | 25000 |
-| May-21 | 0 |
-| Jun-21 | 0 |
-| Jul-21 | 5000 |
-| Aug-21 | 0 |
-| Sep-21 | 0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### 1 YR TC PERIOD (USD/DAY)
 
@@ -328,21 +263,7 @@ For UKC, There hasn't been much activity this week, and rates have dropped to **
 
 ### MR PACIFIC BASKET (usd/day)
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 6000 |
-| Oct-20 | 7000 |
-| Nov-20 | 8000 |
-| Dec-20 | 13000 |
-| Jan-21 | 14000 |
-| Feb-21 | 2000 |
-| Mar-21 | 10000 |
-| Apr-21 | 10000 |
-| May-21 | 0 |
-| Jun-21 | 15000 |
-| Jul-21 | 14000 |
-| Aug-21 | 14000 |
-| Sep-21 | 14000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### 1 YR TC PERIOD (USD/DAY)
 
@@ -377,12 +298,7 @@ Container shipping vessel schedule reliability dropped further in July as global
 
 ### GEARLESS - 1 YR TC PERIOD (USD/DAY)
 
-| Date | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Sep-20 | 10000 | 10000 | 10000 |
-| Jan-21 | 20000 | 20000 | 20000 |
-| May-21 | 40000 | 35000 | 30000 |
-| Sep-21 | 85000 | 80000 | 75000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### GEARED - 1 YR TC PERIOD (USD/DAY)
 
@@ -567,63 +483,15 @@ DERIVATIVES MARKET REPORT – WEEK 35/2021 11
 
 # PANAMAX FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 8000 |
-| Oct-20 | 10000 |
-| Nov-20 | 12000 |
-| Dec-20 | 15000 |
-| Jan-21 | 18000 |
-| Feb-21 | 25000 |
-| Mar-21 | 35000 |
-| Apr-21 | 38000 |
-| May-21 | 36000 |
-| Jun-21 | 34000 |
-| Jul-21 | 33000 |
-| Sep-21 | 32000 |
-| Oct-21 | 30000 |
-| Nov-21 | 24000 |
-| Dec-21 | 24000 |
-| Mar-22 | 24000 |
-| Sep-22 | 24000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SUPRAMAX FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 10000 |
-| Oct-20 | 12000 |
-| Nov-20 | 14000 |
-| Dec-20 | 18000 |
-| Jan-21 | 22000 |
-| Feb-21 | 28000 |
-| Mar-21 | 35000 |
-| Apr-21 | 34000 |
-| May-21 | 34000 |
-| Jun-21 | 32000 |
-| Jul-21 | 24000 |
-| Sep-21 | 34000 |
-| Oct-21 | 32000 |
-| Nov-21 | 22000 |
-| Sep-22 | 22000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # HANDYSIZE FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 8000 |
-| Oct-20 | 10000 |
-| Nov-20 | 12000 |
-| Dec-20 | 15000 |
-| Jan-21 | 20000 |
-| Feb-21 | 28000 |
-| Mar-21 | 38000 |
-| Apr-21 | 36000 |
-| May-21 | 34000 |
-| Jun-21 | 24000 |
-| Sep-21 | 34000 |
-| Oct-21 | 22000 |
-| Sep-22 | 22000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # INTEREST RATES / CURRENCIES
 
@@ -692,21 +560,11 @@ DERIVATIVES MARKET REPORT – WEEK 35/2021 11
 
 ### BRENT & WTI OIL PRICE (USD/BBL)
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Sep-20 | 40 | 35 |
-| Jan-21 | 55 | 50 |
-| May-21 | 70 | 75 |
-| Sep-21 | 75 | 70 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### HENRY HUB NAT GAS PRICE (USD/MMBTU)
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Sep-20 | 2.0 |
-| Jan-21 | 2.5 |
-| May-21 | 3.0 |
-| Sep-21 | 5.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## COAL
 

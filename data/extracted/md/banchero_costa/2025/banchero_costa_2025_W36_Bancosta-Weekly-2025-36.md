@@ -386,12 +386,7 @@ A reduced activity in the container market has reported limited fixtures. Lack o
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | China - N. Europe |
-| --- | --- |
-| Sep-24 | 8000 |
-| Jan-25 | 3000 |
-| May-25 | 2500 |
-| Sep-25 | 3000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 36/2025
 

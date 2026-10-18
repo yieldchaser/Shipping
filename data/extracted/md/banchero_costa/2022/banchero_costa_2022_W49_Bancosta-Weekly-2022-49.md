@@ -527,19 +527,9 @@ Looking at Suezmax segment, the most significant sale was GRENA KNUTSEN 148,500 
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Dec-21 | 4.0 |
-| Apr-22 | 8.0 |
-| Aug-22 | 9.0 |
-| Dec-22 | 6.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Dec-21 | 150 | 100 |
-| Apr-22 | 400 | 120 |
-| Aug-22 | 450 | 100 |
-| Dec-22 | 400 | 100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

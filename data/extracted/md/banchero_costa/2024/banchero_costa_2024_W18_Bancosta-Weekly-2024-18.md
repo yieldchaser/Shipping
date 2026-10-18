@@ -213,24 +213,7 @@ Med: Good activity was spotted in Med where the tonnage list for Handies was red
 | **Med-Med (30k)** | ws | 172.5 | 170.0 | +1.5% | -29.6% |
 | **Black Sea-Med (30k)** | ws | 300.0 | 300.0 | +0.0% | -30.2% |
 
-| Chart Title | Date | Value (usd/day) |
-| --- | --- | --- |
-| TC1 LR2 MEG-JAPAN | May-23 | 30000 |
-| TC1 LR2 MEG-JAPAN | Sep-23 | 40000 |
-| TC1 LR2 MEG-JAPAN | Jan-24 | 100000 |
-| TC1 LR2 MEG-JAPAN | May-24 | 50000 |
-| MR ATLANTIC BASKET | May-23 | 20000 |
-| MR ATLANTIC BASKET | Sep-23 | 25000 |
-| MR ATLANTIC BASKET | Jan-24 | 60000 |
-| MR ATLANTIC BASKET | May-24 | 30000 |
-| MR PACIFIC BASKET | May-23 | 40000 |
-| MR PACIFIC BASKET | Sep-23 | 20000 |
-| MR PACIFIC BASKET | Jan-24 | 55000 |
-| MR PACIFIC BASKET | May-24 | 40000 |
-| 1 YR TC PERIOD (USD/DAY) | May-23 | 45000 |
-| 1 YR TC PERIOD (USD/DAY) | Sep-23 | 40000 |
-| 1 YR TC PERIOD (USD/DAY) | Jan-24 | 50000 |
-| 1 YR TC PERIOD (USD/DAY) | May-24 | 45000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 

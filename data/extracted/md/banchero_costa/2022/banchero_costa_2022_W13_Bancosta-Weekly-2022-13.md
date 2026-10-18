@@ -575,12 +575,7 @@ This week, the Pakistani and (especially) Indian markets have rebounded to take 
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Mar-21 | 60 | 60 |
-| Jul-21 | 75 | 75 |
-| Nov-21 | 80 | 80 |
-| Mar-22 | 115 | 115 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
@@ -588,12 +583,7 @@ This week, the Pakistani and (especially) Indian markets have rebounded to take 
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Mar-21 | 600 | 700 |
-| Jul-21 | 700 | 750 |
-| Nov-21 | 750 | 800 |
-| Mar-22 | 750 | 1100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

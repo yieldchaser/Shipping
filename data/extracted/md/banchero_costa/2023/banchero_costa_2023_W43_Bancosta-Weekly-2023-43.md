@@ -453,26 +453,29 @@ This indicates a price increase considering that during week 40 the EVINOS 50,00
 |  | **Fujairah** | usd/t | 182.0 | 186.0 | -2.2% | -44.0% |
 |  | **Singapore** | usd/t | 189.0 | 187.0 | +1.1% | -41.8% |
 
-| Category | Item | Unit | 27-Oct | 20-Oct | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| BUNKER PRICES @ SINGAPORE (USD/T) |  |  |  |  |  |  |
-| IFO380 |  |  | 400 | 400 | 400 | 850 |
-| VLSFO |  |  | 700 | 700 | 650 | 600 |
-| LSMGO |  |  | 1100 | 1000 | 900 | 850 |
-| BRENT & WTI OIL PRICE (USD/BBL) |  |  |  |  |  |  |
-| Brent |  |  | 90 | 90 | 85 | 90 |
-| WTI |  |  | 80 | 80 | 75 | 90 |
-| HENRY HUB PRICE (USD/MMBTU) |  |  |  |  |  |  |
-| Henry Hub Nat Gas |  |  | 6.0 | 2.0 | 2.5 | 3.5 |
-| COAL & IRON ORE PRICE (USD/T) |  |  |  |  |  |  |
-| Steam Coal |  |  | 350 | 180 | 150 | 150 |
-| Iron Ore |  |  | 100 | 120 | 115 | 120 |
-| STEEL PRICES IN CHINA (RMB/T) |  |  |  |  |  |  |
-| HRC |  |  | 3800 | 3600 | 4500 | 3700 |
-| Plate |  |  | 3800 | 3700 | 4500 | 3700 |
-| WHEAT & CORN PRICES (USD/T) |  |  |  |  |  |  |
-| Corn |  |  | 600 | 550 | 500 | 550 |
-| Wheat |  |  | 800 | 700 | 650 | 600 |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## BUNKERS
 

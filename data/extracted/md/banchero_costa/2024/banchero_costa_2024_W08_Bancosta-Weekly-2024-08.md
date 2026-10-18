@@ -506,12 +506,7 @@ During the week the Newcastlemax Pacific Assurance 207,000 dwt built 2014 Imabar
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Feb-23 | 3.0 |
-| Jun-23 | 2.5 |
-| Oct-23 | 3.2 |
-| Feb-24 | 1.8 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

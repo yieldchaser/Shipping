@@ -399,14 +399,7 @@ Pakistan remains on the sidelines, watching market developments in both India an
 | Q2 22 | usd/day | 21,550 | 21,782 | -1.1% | -33.1% |
 | Q3 22 | usd/day | 25,464 | 23,725 | +7.3% | -20.9% |
 
-| CAPESIZE FORWARD CURVE (USD/DAY) | CAPESIZE FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Nov-20 | 10000 |
-| May-21 | 40000 |
-| Nov-21 | 100000 |
-| May-22 | 20000 |
-| Nov-22 | 30000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -419,14 +412,7 @@ Pakistan remains on the sidelines, watching market developments in both India an
 | Q2 22 | usd/day | 22,054 | 21,668 | +1.8% | +7.0% |
 | Q3 22 | usd/day | 20,036 | 19,807 | +1.2% | -2.8% |
 
-| PANAMAX FORWARD CURVE (USD/DAY) | PANAMAX FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Nov-20 | 10000 |
-| May-21 | 30000 |
-| Nov-21 | 25000 |
-| May-22 | 20000 |
-| Nov-22 | 20000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (58k)
 
@@ -439,14 +425,7 @@ Pakistan remains on the sidelines, watching market developments in both India an
 | Q2 22 | usd/day | 20,417 | 19,917 | +2.5% | -17.0% |
 | Q3 22 | usd/day | 18,746 | 18,625 | +0.6% | -23.8% |
 
-| SUPRAMAX FORWARD CURVE (USD/DAY) | SUPRAMAX FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Nov-20 | 10000 |
-| May-21 | 30000 |
-| Nov-21 | 25000 |
-| May-22 | 18000 |
-| Nov-22 | 18000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -459,14 +438,7 @@ Pakistan remains on the sidelines, watching market developments in both India an
 | Q2 22 | usd/day | 19,825 | 18,900 | +4.9% | -28.8% |
 | Q3 22 | usd/day | 18,025 | 17,500 | +3.0% | -35.3% |
 
-| HANDYSIZE FORWARD CURVE (USD/DAY) | HANDYSIZE FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Nov-20 | 10000 |
-| May-21 | 30000 |
-| Nov-21 | 35000 |
-| May-22 | 20000 |
-| Nov-22 | 20000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # INTEREST RATES / CURRENCIES
 
@@ -494,13 +466,7 @@ Pakistan remains on the sidelines, watching market developments in both India an
 | KRW/USD | 1,187 | 1,179 | +0.7% | +6.4% |
 | CNY/USD | 6.39 | 6.38 | +0.1% | -3.0% |
 
-| JPY/USD EXCHANGE RATE | JPY/USD EXCHANGE RATE |
-| --- | --- |
-| Date | Value |
-| Nov-20 | 105 |
-| Mar-21 | 110 |
-| Jul-21 | 110 |
-| Nov-21 | 115 |
+> **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 46/2021
 

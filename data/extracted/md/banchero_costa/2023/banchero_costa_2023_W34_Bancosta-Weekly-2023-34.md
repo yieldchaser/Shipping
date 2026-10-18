@@ -268,17 +268,9 @@ After a few quite weeks due to the Summer holidays and falling charter rates, it
 | **1700 teu (1Y, geared)** | usd/day | 12,283 | 12,443 | -1.3% | -75.4% |
 | **1100 teu (1Y, geared)** | usd/day | 10,163 | 10,395 | -2.2% | -67.5% |
 
-| Category | Value |
-| --- | --- |
-| 4250 | 42500 |
-| 3500 | 35000 |
-| 2700 | 27000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Value |
-| --- | --- |
-| 2500 | 25000 |
-| 1700 | 17000 |
-| 1100 | 11000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -298,12 +290,7 @@ After a few quite weeks due to the Summer holidays and falling charter rates, it
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | China - N. Europe | N. Europe - China |
-| --- | --- | --- |
-| Aug-22 | 12000 | 500 |
-| Dec-22 | 2000 | 200 |
-| Apr-23 | 1000 | 100 |
-| Aug-23 | 2000 | 100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 34/2023
 

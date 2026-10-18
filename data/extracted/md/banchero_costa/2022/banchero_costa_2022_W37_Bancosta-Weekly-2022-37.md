@@ -372,12 +372,7 @@ Last week's transactions in the 2nd Hand Market have been mainly focused on tank
 | **Aframax** | usd mln | 53.3 | 52.6 | +1.2% | +33.7% |
 | **MR Product** | usd mln | 37.9 | 37.5 | +1.2% | +36.5% |
 
-| Category | Value |
-| --- | --- |
-| Sep-21 | Kamsarmax: 32, Aframax: 40, MR: 27 |
-| Jan-22 | Kamsarmax: 34, Aframax: 41, MR: 28 |
-| May-22 | Kamsarmax: 36, Aframax: 44, MR: 30 |
-| Sep-22 | Kamsarmax: 35, Aframax: 50, MR: 37 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 DERIVATIVES MARKET REPORT – WEEK 37/2022 12
 

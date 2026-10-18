@@ -499,12 +499,7 @@ As for Supramaxes, the SOLAR AFRICA 58,000 dwt 2011 Tsuneishi Cebu was sold to G
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Feb-23 | 2.5 |
-| Jun-23 | 2.8 |
-| Oct-23 | 3.5 |
-| Feb-24 | 2.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

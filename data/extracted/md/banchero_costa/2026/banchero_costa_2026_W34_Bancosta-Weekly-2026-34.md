@@ -327,14 +327,7 @@ Rates rose to/above WS 250 for 80,000 mt cross-Mediterranean and eased to WS 320
 | **TD32 UKC-UKC (30K)** | ws | 343.3 | 341.7 | +0.5% | +45.8% |
 | **Med-Med (30k)** | ws | 370.0 | 365.0 | +1.4% | +60.9% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Aug-25 | 25000 |
-| Dec-25 | 40000 |
-| Jan-26 | 45000 |
-| Apr-26 | 160000 |
-| Aug-26 | 145000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 

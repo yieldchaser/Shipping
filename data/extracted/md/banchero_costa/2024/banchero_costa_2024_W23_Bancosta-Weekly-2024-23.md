@@ -507,12 +507,7 @@ Not many sales reported during last week in the tanker market, although
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Jun-23 | 2.5 |
-| Oct-23 | 3.5 |
-| Feb-24 | 1.5 |
-| Jun-24 | 2.8 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

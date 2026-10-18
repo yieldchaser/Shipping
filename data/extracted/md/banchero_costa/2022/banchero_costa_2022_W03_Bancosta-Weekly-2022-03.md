@@ -526,19 +526,9 @@ In the tanker segment, Aeolos Management is mentioned with the
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Jan-21 | 2.0 |
-| May-21 | 3.0 |
-| Sep-21 | 5.0 |
-| Jan-22 | 4.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Jan-21 | 80 | 150 |
-| May-21 | 100 | 170 |
-| Sep-21 | 160 | 70 |
-| Jan-22 | 250 | 100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

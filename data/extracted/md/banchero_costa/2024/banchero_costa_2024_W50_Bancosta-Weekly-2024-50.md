@@ -285,12 +285,7 @@ In the container sector MSC ordered 10 x 24,000 teu carriers to Hengli Heavy Ind
 | **LR2 Coated** | usd mln | 69.8 | 69.4 | +0.6% | +10.1% |
 | **MR2 Coated** | usd mln | 44.8 | 44.9 | -0.3% | +6.5% |
 
-| Time | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Dec-23 | 36 | 76 | 42 |
-| Apr-24 | 37 | 80 | 43 |
-| Aug-24 | 37 | 81 | 44 |
-| Dec-24 | 37 | 80 | 44 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -345,12 +340,7 @@ Soft week in the in the Dry Bulk sector which saw the sale of **ZAMPA BLUE** 179
 | **Aframax** | usd mln | 72.0 | 72.1 | -0.1% | +7.1% |
 | **MR Product** | usd mln | 46.1 | 46.1 | -0.1% | +6.7% |
 
-| Month | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Dec-23 | 33 | 68 | 43 |
-| Apr-24 | 36 | 70 | 46 |
-| Aug-24 | 37 | 71 | 47 |
-| Dec-24 | 35 | 69 | 46 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 50/2024
 

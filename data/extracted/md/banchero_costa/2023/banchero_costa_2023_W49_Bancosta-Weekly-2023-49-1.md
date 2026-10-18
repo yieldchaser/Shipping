@@ -376,13 +376,7 @@ On Aframax, S-TREASURE 106,000 dwt 2005 Hyundai Samho was reported sold at $32 m
 
 ### SECONDHAND VALUES (USD MLN)Dec-22
 
-| Apr-23 | SECONDHAND VALUES (USD MLN) | SECONDHAND VALUES (USD MLN) | SECONDHAND VALUES (USD MLN) | SECONDHAND VALUES (USD MLN) |
-| --- | --- | --- | --- | --- |
-| Aug-23 | Kamsarmax | Aframax | MR |  |
-| Dec-23 | 30 | 58 | 42 |  |
-|  | 31 | 62 | 42 |  |
-|  | 31 | 64 | 43 |  |
-|  | 31 | 67 | 44 |  |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 49/2023
 
@@ -515,19 +509,9 @@ On Aframax, S-TREASURE 106,000 dwt 2005 Hyundai Samho was reported sold at $32 m
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Brent | WTI |
-| --- | --- | --- |
-| Dec-22 | 75 | 70 |
-| Apr-23 | 70 | 65 |
-| Aug-23 | 90 | 90 |
-| Dec-23 | 75 | 70 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Dec-22 | 7.0 |
-| Apr-23 | 2.0 |
-| Aug-23 | 2.5 |
-| Dec-23 | 2.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

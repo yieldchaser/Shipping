@@ -446,12 +446,7 @@ In the bulk sector, the Kamsarmax **MOANA** 82,000 dwt 2026 Yizheng Yangzi Shipb
 | **Aframax** | usd mln | 79.1 | 79.0 | +0.2% | +22.9% |
 | **MR Product** | usd mln | 47.9 | 47.4 | +1.0% | +18.0% |
 
-| Date | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| May-25 | 30 | 63 | 38 |
-| Sep-25 | 32 | 62 | 40 |
-| Jan-26 | 34 | 70 | 42 |
-| May-26 | 36 | 77 | 46 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 21/2026
 
@@ -577,12 +572,7 @@ In the bulk sector, the Kamsarmax **MOANA** 82,000 dwt 2026 Yizheng Yangzi Shipb
 
 # JPY/USD EXCHANGE RATE
 
-| Date | Value |
-| --- | --- |
-| May-25 | 145 |
-| Sep-25 | 155 |
-| Jan-26 | 160 |
-| May-26 | 160 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 21/2026
 

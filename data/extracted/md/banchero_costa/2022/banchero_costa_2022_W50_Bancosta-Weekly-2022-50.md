@@ -516,26 +516,29 @@ Another interesting week in the tanker market, especially in the Aframax segment
 |  | **Palm Oil Malaysia** | usd/t | 873.8 | 891.3 | -2.0% | -29.8% |
 |  | **Ferts Urea Middle East** | usd/t | 562.5 | 562.5 | +0.0% | -40.5% |
 
-| Category | Item | Unit | 16-Dec | 09-Dec | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **BUNKER PRICES @ SINGAPORE (USD/T)** |  |  |  |  |  |  |
-| IFO380 |  |  | 800 | 1100 | 1000 | 900 |
-| VLSFO |  |  | 600 | 1150 | 1100 | 700 |
-| LSMGO |  |  | 500 | 1300 | 1250 | 900 |
-| **BRENT & WTI OIL PRICE (USD/BBL)** |  |  |  |  |  |  |
-| Brent |  |  | 70 | 110 | 100 | 75 |
-| WTI |  |  | 75 | 120 | 115 | 70 |
-| **HENRY HUB PRICE (USD/MMBTU)** |  |  |  |  |  |  |
-| Henry Hub Nat Gas |  |  | 4.0 | 8.0 | 9.0 | 7.0 |
-| **COAL & IRON ORE PRICE (USD/T)** |  |  |  |  |  |  |
-| Steam Coal |  |  | 150 | 400 | 420 | 430 |
-| Iron Ore |  |  | 120 | 150 | 130 | 110 |
-| **STEEL PRICES IN CHINA (RMB/T)** |  |  |  |  |  |  |
-| Rebar |  |  | 5000 | 5200 | 4200 | 4000 |
-| Plate |  |  | 5000 | 5500 | 4300 | 4100 |
-| **WHEAT & CORN PRICES (USD/T)** |  |  |  |  |  |  |
-| Corn |  |  | 700 | 750 | 700 | 750 |
-| Wheat |  |  | 800 | 1300 | 850 | 750 |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 50/2022
 

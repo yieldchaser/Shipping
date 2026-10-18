@@ -602,26 +602,11 @@ SALE & PURCHASE MARKET REPORT – WEEK 22/2026 15
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| May-25 | 70 | 60 |
-| Sep-25 | 65 | 60 |
-| Jan-26 | 110 | 110 |
-| May-26 | 95 | 90 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| May-25 | 3.5 |
-| Sep-25 | 2.5 |
-| Jan-26 | 5.5 |
-| May-26 | 3.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| May-25 | 100 | 95 |
-| Sep-25 | 110 | 105 |
-| Jan-26 | 130 | 100 |
-| May-26 | 135 | 110 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

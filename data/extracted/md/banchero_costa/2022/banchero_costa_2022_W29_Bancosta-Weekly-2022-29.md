@@ -506,23 +506,13 @@ Two MRs were calling for offers earlier in the week Largo Sun abt 50 k blt 2016 
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Jul-21 | 4.0 |
-| Nov-21 | 4.0 |
-| Mar-22 | 8.0 |
-| Jul-22 | 8.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Corn | Wheat |
-| --- | --- | --- |
-| Jul-21 | 600 | 700 |
-| Nov-21 | 700 | 800 |
-| Mar-22 | 750 | 1400 |
-| Jul-22 | 700 | 750 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 29/2022
 

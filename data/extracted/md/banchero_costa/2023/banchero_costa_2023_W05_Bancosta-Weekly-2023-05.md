@@ -233,29 +233,11 @@ Delays at Turkish Straits 11 days northbound and 11 days southbound.
 | **Med-Med (30k)** | ws | 230.0 | 235.0 | -2.1% | +31.4% |
 | **Black Sea-Med (30k)** | ws | 460.0 | 440.0 | +4.5% | +148.6% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Feb-22 | -20,000 |
-| Jun-22 | 60,000 |
-| Oct-22 | 60,000 |
-| Feb-23 | 10,000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| MR ATLANTIC BASKET (usd/day) | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Feb-22 | 0 |
-| Jun-22 | 60,000 |
-| Oct-22 | 60,000 |
-| Feb-23 | 0 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-| MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Feb-22 | 0 |
-| Jun-22 | 70,000 |
-| Oct-22 | 60,000 |
-| Feb-23 | 30,000 |
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
 | 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) |
 | --- | --- |

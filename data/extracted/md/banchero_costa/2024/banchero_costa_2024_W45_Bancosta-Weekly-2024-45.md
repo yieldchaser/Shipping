@@ -193,33 +193,13 @@ rates to china closed at ws 50 (from middle east) and ws 52.5 (ex west africa) l
 | **Aframax TCE Average** | usd/day | 27,391 | 32,662 | -16.1% | -60.9% |
 | **Aframax 1-Y Period** | usd/day | 35,500 | 37,500 | -5.3% | -13.4% |
 
-| Date | TD3C VLCC MEG-FAR EAST (USD/DAY) |
-| --- | --- |
-| Nov-23 | 45000 |
-| Mar-24 | 70000 |
-| Jul-24 | 25000 |
-| Nov-24 | 25000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | TD6 SUEZMAX BSEA-MED (USD/DAY) |
-| --- | --- |
-| Nov-23 | 80000 |
-| Mar-24 | 40000 |
-| Jul-24 | 20000 |
-| Nov-24 | 35000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | TD7 AFRAMAX NSEA-UKC (USD/DAY) |
-| --- | --- |
-| Nov-23 | 90000 |
-| Mar-24 | 30000 |
-| Jul-24 | 25000 |
-| Nov-24 | 35000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | TD19 AFRAMAX MED-MED (USD/DAY) |
-| --- | --- |
-| Nov-23 | 90000 |
-| Mar-24 | 20000 |
-| Jul-24 | 80000 |
-| Nov-24 | 35000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
@@ -513,19 +493,9 @@ Slow week in the second hand market, with few sales reported, mainly in the kams
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Brent | WTI |
-| --- | --- | --- |
-| Nov-23 | 80 | 70 |
-| Mar-24 | 90 | 85 |
-| Jul-24 | 80 | 65 |
-| Nov-24 | 75 | 70 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Nov-23 | 3.5 |
-| Mar-24 | 1.5 |
-| Jul-24 | 2.0 |
-| Nov-24 | 2.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

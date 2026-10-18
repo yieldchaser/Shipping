@@ -407,13 +407,7 @@ DERIVATIVES MARKET REPORT – WEEK 37/2021 11
 
 **CAPESIZE FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 20000 |
-| Mar-21 | 45000 |
-| Sep-21 | 55000 |
-| Mar-22 | 22000 |
-| Sep-22 | 25000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### PANAMAX (82k)
 
@@ -428,13 +422,7 @@ DERIVATIVES MARKET REPORT – WEEK 37/2021 11
 
 **PANAMAX FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 10000 |
-| Mar-21 | 35000 |
-| Sep-21 | 35000 |
-| Mar-22 | 25000 |
-| Sep-22 | 25000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### SUPRAMAX (58k)
 
@@ -449,13 +437,7 @@ DERIVATIVES MARKET REPORT – WEEK 37/2021 11
 
 **SUPRAMAX FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 10000 |
-| Mar-21 | 30000 |
-| Sep-21 | 38000 |
-| Mar-22 | 25000 |
-| Sep-22 | 25000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### HANDYSIZE (38k)
 
@@ -470,13 +452,7 @@ DERIVATIVES MARKET REPORT – WEEK 37/2021 11
 
 **HANDYSIZE FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 10000 |
-| Mar-21 | 30000 |
-| Sep-21 | 38000 |
-| Mar-22 | 25000 |
-| Sep-22 | 25000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # INTEREST RATES / CURRENCIES
 
@@ -503,12 +479,7 @@ DERIVATIVES MARKET REPORT – WEEK 37/2021 11
 
 **JPY/USD EXCHANGE RATE**
 
-| Date | Value |
-| --- | --- |
-| Sep-20 | 105 |
-| Jan-21 | 103 |
-| May-21 | 110 |
-| Sep-21 | 110 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 37/2021
 
@@ -544,11 +515,9 @@ DERIVATIVES MARKET REPORT – WEEK 37/2021 11
 | Jet Fuel Singapore | usd/bbl | 80.3 | 77.1 | +4.2% | +108.0% |
 | Nat Gas Henry Hub | usd/mmbtu | 5.32 | 5.13 | +3.7% | +175.9% |
 
-| Category | Item | Unit | Sep-20 | Jan-21 | May-21 |
-| --- | --- | --- | --- | --- | --- |
-| **BRENT & WTI OIL PRICE (USD/BBL)** |  |  |  |  |  |
-| Brent | 40 | 50 | 70 | 75 | 75 |
-| WTI | 35 | 55 | 75 | 78 | 74 |
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

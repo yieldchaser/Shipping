@@ -183,45 +183,15 @@ The Far East market maintained its positive trend also last week, particularly o
 | **Aframax TCE Average** | usd/day | 43,671 | 4,411 | +890.0% | +425.5% |
 | **Aframax 1-Y Period** | usd/day | 17,100 | 16,900 | +1.2% | +0.6% |
 
-| TD3C VLCC MEG-FAR EAST (USD/DAY) | TD3C VLCC MEG-FAR EAST (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Feb-21 | -3000 |
-| Jun-21 | -5000 |
-| Oct-21 | 5000 |
-| Feb-22 | -14000 |
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| TD6 SUEZMAX BSEA-MED (USD/DAY) | TD6 SUEZMAX BSEA-MED (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Feb-21 | 10000 |
-| Jun-21 | 5000 |
-| Oct-21 | 5000 |
-| Feb-22 | 150000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-| TD17 AFRAMAX BALTIC-UKC (USD/DAY) | TD17 AFRAMAX BALTIC-UKC (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Feb-21 | 20000 |
-| Jun-21 | 0 |
-| Oct-21 | 20000 |
-| Feb-22 | 140000 |
+> **Chart (not transcribed):** TD17 AFRAMAX BALTIC-UKC (USD/DAY). The report prints no values for it.
 
-| TD19 AFRAMAX MED-MED (USD/DAY) | TD19 AFRAMAX MED-MED (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Feb-21 | 20000 |
-| Jun-21 | 5000 |
-| Oct-21 | 10000 |
-| Feb-22 | 60000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
-| 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) |
-| --- | --- | --- | --- |
-| Date | VLCC | Suezmax | Aframax |
-| Feb-21 | 30000 | 18000 | 15000 |
-| Jun-21 | 25000 | 17000 | 16000 |
-| Oct-21 | 20000 | 17000 | 16000 |
-| Feb-22 | 18000 | 17000 | 16000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # PRODUCT TANKER MARKET
 

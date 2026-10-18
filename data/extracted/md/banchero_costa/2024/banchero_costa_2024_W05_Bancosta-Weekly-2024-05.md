@@ -501,12 +501,7 @@ During the week a modern Chinese eco Ultramax SSI Splendid abt 64k blt 2019 Jinl
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Feb-23 | 2.5 |
-| Jun-23 | 2.2 |
-| Oct-23 | 3.2 |
-| Feb-24 | 2.3 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

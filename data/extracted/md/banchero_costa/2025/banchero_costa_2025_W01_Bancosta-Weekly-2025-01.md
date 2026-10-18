@@ -141,13 +141,7 @@ Not available
 
 > **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
-| BHSI 38 TC & HANDY 1-YR TC (USD/DAY) | BHSI 38 TC & HANDY 1-YR TC (USD/DAY) |  |
-| --- | --- | --- |
-| Date | 1-YR TC | BHSI 38 TC |
-| Jan-24 | 13500 | 12000 |
-| May-24 | 14500 | 13000 |
-| Sep-24 | 14000 | 12500 |
-| Jan-25 | 12000 | 10000 |
+> **Chart (not transcribed):** BHSI 38 TC & HANDY 1-YR TC (USD/DAY). The report prints no values for it.
 
 # CRUDE TANKER MARKET
 

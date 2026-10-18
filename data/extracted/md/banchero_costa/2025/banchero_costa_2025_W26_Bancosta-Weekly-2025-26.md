@@ -363,19 +363,9 @@ The charter market saw a quiet, but stable week, hinting at a typical summer slo
 | **1700 teu (1Y, geared)** | usd/day | 26,695 | 26,684 | +0.0% | +33.6% |
 | **1100 teu (1Y, geared)** | usd/day | 16,455 | 16,432 | +0.1% | +37.0% |
 
-| DATE | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Jun-24 | 4250 | 3500 | 2700 |
-| Oct-24 | 4250 | 3500 | 2700 |
-| Feb-25 | 4250 | 3500 | 2700 |
-| Jun-25 | 4250 | 3500 | 2700 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Jun-24 | 2500 | 1700 | 1100 |
-| Oct-24 | 2500 | 1700 | 1100 |
-| Feb-25 | 2500 | 1700 | 1100 |
-| Jun-25 | 2500 | 1700 | 1100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | DATE | FBX |
 | --- | --- |

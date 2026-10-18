@@ -500,21 +500,11 @@ With regards to MRs, the **LADY MALOU** 51,000 DWT 2013 Hyundai Mipo was reporte
 | Palm Oil Malaysia | usd/t | 850.0 | 839.5 | +1.3% | -5.9% |
 | Ferts Urea Middle East | usd/t | 341.5 | 341.5 | +0.0% | -22.8% |
 
-| DATE | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Jan-23 | 400 | 600 | 1000 |
-| May-23 | 450 | 550 | 800 |
-| Sep-23 | 450 | 600 | 900 |
-| Jan-24 | 450 | 600 | 800 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Jan-23 | 3.0 |
-| May-23 | 2.2 |
-| Sep-23 | 3.5 |
-| Jan-24 | 2.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

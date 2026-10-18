@@ -523,19 +523,28 @@ In the tanker sector, The **MR1 EASTERLY JUPITER** 36,677 dwt 2009 Hyundai Mipo 
 | **Sugar ICE N.11** | usc/lb | 14.69 | 14.95 | -1.7% | -14.6% |
 | Palm Oil Malaysia | usd/t | 1142.3 | 1134.0 | +0.7% | +24.5% |
 
-| Chart Title | Category | Value |
-| --- | --- | --- |
-| BUNKER PRICES @ SINGAPORE (USD/T) | IFO380 | 800 |
-|  | VLSFO | 750 |
-|  | LSMGO | 1500 |
-| BRENT & WTI OIL PRICE (USD/BBL) | Brent | 100 |
-|  | WTI | 105 |
-| HENRY HUB PRICE (USD/MMBTU) | Henry Hub Nat Gas | 3.5 |
-| COAL & IRON ORE PRICE (USD/T) | Steam Coal | 105 |
-|  | Iron Ore | 108 |
-| STEEL PRICES IN CHINA (RMB/T) | HRC | 3100 |
-|  | Plate | 3300 |
-| WHEAT & CORN PRICES (USD/T) | Corn | 450 |
-|  | Wheat | 550 |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 [banchero costa RESEARCH]

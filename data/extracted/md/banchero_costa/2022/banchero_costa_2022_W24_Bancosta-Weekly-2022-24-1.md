@@ -227,29 +227,11 @@ After several weeks of negative trend, the Far East market began to show some po
 | **Med-Med (30k)** | ws | 300.0 | 290.0 | +3.4% | +160.9% |
 | **Black Sea-Med (30k)** | ws | 525.0 | 525.0 | +0.0% | +320.0% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Jun-21 | 0 |
-| Oct-21 | 10,000 |
-| Feb-22 | 30,000 |
-| Jun-22 | 60,000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| MR ATLANTIC BASKET (usd/day) | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Jun-21 | 0 |
-| Oct-21 | 10,000 |
-| Feb-22 | 30,000 |
-| Jun-22 | 60,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-| MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Jun-21 | 0 |
-| Oct-21 | 10,000 |
-| Feb-22 | 30,000 |
-| Jun-22 | 80,000 |
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
@@ -524,12 +506,7 @@ DERIVATIVES MARKET REPORT – WEEK 24/2022 12
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Jun-21 | 3.0 |
-| Oct-21 | 5.5 |
-| Feb-22 | 6.0 |
-| Jun-22 | 8.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

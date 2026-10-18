@@ -236,26 +236,11 @@ The market remained tight in Med with only few available positions and enough en
 | **Med-Med (30k)** | ws | 300.0 | 300.0 | +0.0% | +37.9% |
 | **Black Sea-Med (30k)** | ws | 380.0 | 380.0 | +0.0% | +18.8% |
 
-| Chart Title | Date | Value (usd/day) |
-| --- | --- | --- |
-| TC1 LR2 MEG-JAPAN | May-23 | 30,000 |
-| TC1 LR2 MEG-JAPAN | Sep-23 | 40,000 |
-| TC1 LR2 MEG-JAPAN | Jan-24 | 100,000 |
-| TC1 LR2 MEG-JAPAN | May-24 | 60,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Chart Title | Date | Value (usd/day) |
-| --- | --- | --- |
-| MR ATLANTIC BASKET | May-23 | 20,000 |
-| MR ATLANTIC BASKET | Sep-23 | 25,000 |
-| MR ATLANTIC BASKET | Jan-24 | 60,000 |
-| MR ATLANTIC BASKET | May-24 | 45,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Chart Title | Date | Value (usd/day) |
-| --- | --- | --- |
-| MR PACIFIC BASKET | May-23 | 30,000 |
-| MR PACIFIC BASKET | Sep-23 | 25,000 |
-| MR PACIFIC BASKET | Jan-24 | 55,000 |
-| MR PACIFIC BASKET | May-24 | 45,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Chart Title | Category | Value (USD/DAY) |
 | --- | --- | --- |
@@ -529,17 +514,22 @@ The dry bulk sector was dominant compared to the tanker one. The Capesize Easter
 | Palm Oil Malaysia | usd/t | 864.3 | 821.8 | +5.2% | +10.9% |
 | Ferts Urea Middle East | usd/t | 392.5 | 392.5 | +0.0% | +9.8% |
 
-| Category | Item | Unit | 31-May | 24-May | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| BUNKERS | IFO380 | USD/T | 750 | 780 | +4.0% | +12.0% |
-| BUNKERS | VLSFO | USD/T | 600 | 650 | +8.3% | +15.0% |
-| BUNKERS | LSMGO | USD/T | 900 | 950 | +5.6% | +18.0% |
-| BRENT & WTI OIL PRICE | Brent | USD/BBL | 85 | 82 | -3.5% | +2.0% |
-| BRENT & WTI OIL PRICE | WTI | USD/BBL | 80 | 78 | -2.5% | +1.5% |
-| HENRY HUB PRICE | Henry Hub Nat Gas | USD/MMBTU | 2.8 | 2.6 | -7.1% | +5.0% |
-| COAL & IRON ORE PRICE | Steam Coal | USD/T | 140 | 150 | +7.1% | +8.0% |
-| COAL & IRON ORE PRICE | Iron Ore | USD/T | 120 | 125 | +4.2% | +6.0% |
-| STEEL PRICES IN CHINA | HRC | RMB/T | 3800 | 3700 | -2.6% | +1.0% |
-| STEEL PRICES IN CHINA | Plate | RMB/T | 3900 | 3850 | -1.3% | +2.0% |
-| WHEAT & CORN PRICES | Corn | USD/T | 450 | 440 | -2.2% | -5.0% |
-| WHEAT & CORN PRICES | Wheat | USD/T | 600 | 650 | +8.3% | +10.0% |
+### BRENT & WTI OIL PRICE
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES
+
+> **Chart (not transcribed).** The report prints no values for it.

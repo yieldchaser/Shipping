@@ -308,12 +308,7 @@ Greek based owners Capital Ship Management placed an order for 2+2 LR2 (abt 115,
 | **LR2 Coated** | usd mln | 60.5 | 60.6 | -0.2% | +4.7% |
 | **MR2 Coated** | usd mln | 39.6 | 39.7 | -0.1% | +7.2% |
 
-| Time | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Dec-21 | 36 | 65 | 37 |
-| Apr-22 | 37 | 66 | 38 |
-| Aug-22 | 37 | 67 | 40 |
-| Dec-22 | 36 | 68 | 40 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -512,12 +507,7 @@ Scrubber fitted vessels were also of interest in the Suezmax segment, with two r
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Dec-21 | 4.0 |
-| Apr-22 | 7.0 |
-| Aug-22 | 9.0 |
-| Dec-22 | 7.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

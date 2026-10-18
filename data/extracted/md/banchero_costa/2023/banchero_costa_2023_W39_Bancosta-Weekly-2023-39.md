@@ -453,13 +453,13 @@ A very modern MR controlled by Greek owners **Pyxis, PIXYS EPSILON** 50,000 dwt 
 |  | Fujairah | usd/t | 125.0 | 135.0 | -7.4% | -53.9% |
 |  | Singapore | usd/t | 139.0 | 138.0 | +0.7% | -54.4% |
 
-| Currency | 29-Sep | 22-Sep | W-o-W |
-| --- | --- | --- | --- |
-| BUNKER PRICES @ SINGAPORE (USD/T) | IFO380 | VLSFO | LSMGO |
+### BUNKER PRICES @ SINGAPORE (USD/T)
 
-| Commodity / Fuel | 29-Sep | 22-Sep |
-| --- | --- | --- |
-| BRENT & WTI OIL PRICE (USD/BBL) | Brent | WTI |
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 | OIL & GAS | Unit | 29-Sep | 22-Sep | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
@@ -496,20 +496,29 @@ A very modern MR controlled by Greek owners **Pyxis, PIXYS EPSILON** 50,000 dwt 
 | Palm Oil Malaysia | usd/t | 786.3 | 784.5 | +0.2% | -2.1% |
 | Ferts Urea Middle East | usd/t | 422.5 | 425.0 | -0.6% | -50.3% |
 
-| Chart Title | Category | Value |
-| --- | --- | --- |
-| BUNKER PRICES @ SINGAPORE (USD/T) | IFO380 | 400, 450, 500, 600, 700, 800, 900, 1000, 1100, 1200 |
-|  | VLSFO | 400, 450, 500, 600, 700, 800 |
-|  | LSMGO | 400, 500, 600, 700, 800, 900, 1000, 1100, 1200 |
-| BRENT & WTI OIL PRICE (USD/BBL) | Brent | 40, 60, 80, 100, 120 |
-|  | WTI | 40, 60, 70, 80, 90, 100, 120 |
-| HENRY HUB PRICE (USD/MMBTU) | Henry Hub Nat Gas | 0.0, 2.0, 4.0, 6.0, 8.0 |
-| COAL & IRON ORE PRICE (USD/T) | Steam Coal | 0, 100, 200, 300, 400, 500 |
-|  | Iron Ore | 0, 100, 200 |
-| STEEL PRICES IN CHINA (RMB/T) | HRC | 3000, 3500, 4000, 4500, 5000 |
-|  | Plate | 3000, 3500, 4000, 4500 |
-| WHEAT & CORN PRICES (USD/T) | Corn | 400, 600, 800, 1000, 1200 |
-|  | Wheat | 400, 600, 800, 1000, 1200 |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 39/2023
 

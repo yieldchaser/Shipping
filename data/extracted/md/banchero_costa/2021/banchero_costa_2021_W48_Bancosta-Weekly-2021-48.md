@@ -247,39 +247,9 @@ Couple of Panamaxes fxd both in the Med and in the Cont, although for short halt
 | **Med-Med (30k)** | ws | 273.0 | 273.0 | +0.0% | +173.0% |
 | **Black Sea-Med (30k)** | ws | 283.0 | 283.0 | +0.0% | +157.3% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Dec-20 | 15000 |
-| Jan-21 | 5000 |
-| Feb-21 | 20000 |
-| Mar-21 | 0 |
-| Apr-21 | 20000 |
-| May-21 | 5000 |
-| Jun-21 | 10000 |
-| Jul-21 | 5000 |
-| Aug-21 | 10000 |
-| Sep-21 | 5000 |
-| Oct-21 | 10000 |
-| Nov-21 | 10000 |
-| Dec-21 | 10000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| MR ATLANTIC BASKET (usd/day) | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Dec-20 | 8000 |
-| Jan-21 | 10000 |
-| Feb-21 | 8000 |
-| Mar-21 | 10000 |
-| Apr-21 | 20000 |
-| May-21 | 5000 |
-| Jun-21 | 5000 |
-| Jul-21 | 0 |
-| Aug-21 | 0 |
-| Sep-21 | 5000 |
-| Oct-21 | 10000 |
-| Nov-21 | 10000 |
-| Dec-21 | 10000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 

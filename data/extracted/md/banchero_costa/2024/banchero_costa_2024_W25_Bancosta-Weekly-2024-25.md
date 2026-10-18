@@ -221,39 +221,15 @@ Soft TC2 with rates at WS150 on Friday.
 
 ### Chart 1: TC1 LR2 MEG-JAPAN (usd/day)
 
-| Date | Value |
-| --- | --- |
-| Jun-23 | 10,000 |
-| Aug-23 | 20,000 |
-| Oct-23 | 30,000 |
-| Dec-23 | 40,000 |
-| Feb-24 | 100,000 |
-| Apr-24 | 80,000 |
-| Jun-24 | 50,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### Chart 2: MR ATLANTIC BASKET (usd/day)
 
-| Date | Value |
-| --- | --- |
-| Jun-23 | 20,000 |
-| Aug-23 | 30,000 |
-| Oct-23 | 50,000 |
-| Dec-23 | 60,000 |
-| Feb-24 | 35,000 |
-| Apr-24 | 35,000 |
-| Jun-24 | 35,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### Chart 3: MR PACIFIC BASKET (usd/day)
 
-| Date | Value |
-| --- | --- |
-| Jun-23 | 20,000 |
-| Aug-23 | 30,000 |
-| Oct-23 | 40,000 |
-| Dec-23 | 50,000 |
-| Feb-24 | 55,000 |
-| Apr-24 | 45,000 |
-| Jun-24 | 40,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### Chart 4: 1 YR TC PERIOD (USD/DAY)
 

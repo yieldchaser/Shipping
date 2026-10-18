@@ -375,12 +375,7 @@ In the bulk sector, Chinese company Fujian GuoHang Ocean placed an order of 2 x 
 | **LR2 Coated** | usd mln | 68.3 | 68.9 | -0.9% | +0.1% |
 | **MR2 Coated** | usd mln | 44.3 | 44.3 | -0.0% | +0.2% |
 
-| Time | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Jul-24 | 38 | 80 | 44 |
-| Nov-24 | 38 | 80 | 44 |
-| Mar-25 | 37 | 80 | 44 |
-| Jul-25 | 37 | 80 | 44 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 

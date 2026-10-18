@@ -251,29 +251,11 @@ Market in the Med both on handies and MR is not changing sentiment with little f
 | **Med-Med (30k)** | ws | 160.0 | 172.5 | -7.2% | -14.7% |
 | **Black Sea-Med (30k)** | ws | 450.0 | 450.0 | +0.0% | +127.8% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Mar-21 | 20,000 |
-| Jul-21 | 2,000 |
-| Nov-21 | 5,000 |
-| Mar-22 | 28,000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| MR ATLANTIC BASKET (usd/day) | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Mar-21 | 8,000 |
-| Jul-21 | 2,000 |
-| Nov-21 | 15,000 |
-| Mar-22 | 28,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-| MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Mar-21 | 12,000 |
-| Jul-21 | 1,000 |
-| Nov-21 | 10,000 |
-| Mar-22 | 26,000 |
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
 | 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) |
 | --- | --- |
@@ -562,27 +544,13 @@ It has been reported that undisclosed Buyers purchased the M/v Jin Fan 92,500 dw
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Date | Value |
-| --- | --- | --- |
-| Henry Hub Nat Gas | Mar-21 | 2.5 |
-| Henry Hub Nat Gas | Jul-21 | 4.5 |
-| Henry Hub Nat Gas | Nov-21 | 3.5 |
-| Henry Hub Nat Gas | Mar-22 | 5.2 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Date | Value |
-| --- | --- | --- |
-| Corn | Mar-21 | 650 |
-| Corn | Jul-21 | 700 |
-| Corn | Nov-21 | 750 |
-| Corn | Mar-22 | 800 |
-| Wheat | Mar-21 | 700 |
-| Wheat | Jul-21 | 750 |
-| Wheat | Nov-21 | 800 |
-| Wheat | Mar-22 | 1400 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

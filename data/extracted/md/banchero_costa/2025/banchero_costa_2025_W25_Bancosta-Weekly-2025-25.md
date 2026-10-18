@@ -350,20 +350,7 @@ In the LPG sector, the South Korean yard Hyundai secured and order for 2 x 88,00
 | **LR2 Coated** | usd mln | 68.9 | 69.4 | -0.7% | +5.1% |
 | **MR2 Coated** | usd mln | 44.3 | 44.5 | -0.4% | +2.3% |
 
-| Category | Date | Price (USD MLN) |
-| --- | --- | --- |
-| Kamsarmax | Jun-24 | 80 |
-| Kamsarmax | Oct-24 | 80 |
-| Kamsarmax | Feb-25 | 80 |
-| Kamsarmax | Jun-25 | 80 |
-| Suezmax | Jun-24 | 80 |
-| Suezmax | Oct-24 | 80 |
-| Suezmax | Feb-25 | 80 |
-| Suezmax | Jun-25 | 80 |
-| MR | Jun-24 | 45 |
-| MR | Oct-24 | 45 |
-| MR | Feb-25 | 45 |
-| MR | Jun-25 | 45 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -493,54 +480,15 @@ Europeans Interests were behind the LR2 LIMERICK SPIRIT 112,000 dwt 2007 Hyundai
 
 # PANAMAX FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Jun-24 | 16000 |
-| Jul-24 | 14000 |
-| Aug-24 | 10000 |
-| Dec-24 | 8000 |
-| Jun-25 | 12000 |
-| Jul-25 | 12000 |
-| Aug-25 | 12000 |
-| Sep-25 | 11000 |
-| Oct-25 | 11000 |
-| Nov-25 | 10000 |
-| Dec-25 | 10000 |
-| Jun-26 | 9000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SUPRAMAX FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Jun-24 | 17000 |
-| Jul-24 | 15000 |
-| Aug-24 | 12000 |
-| Dec-24 | 11000 |
-| Jun-25 | 13000 |
-| Jul-25 | 13000 |
-| Aug-25 | 13000 |
-| Sep-25 | 13000 |
-| Oct-25 | 13000 |
-| Nov-25 | 12000 |
-| Dec-25 | 12000 |
-| Jun-26 | 11000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # HANDYSIZE FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Jun-24 | 15000 |
-| Jul-24 | 14000 |
-| Aug-24 | 10000 |
-| Dec-24 | 9000 |
-| Jun-25 | 11000 |
-| Jul-25 | 11000 |
-| Aug-25 | 11000 |
-| Sep-25 | 11000 |
-| Oct-25 | 11000 |
-| Nov-25 | 10000 |
-| Dec-25 | 10000 |
-| Jun-26 | 9000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # EXCHANGE RATES
 

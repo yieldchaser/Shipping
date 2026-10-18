@@ -374,12 +374,7 @@ The charter market remained firm with gains across all vessel segments. Demand w
 | **China - WCNA** | usd/feu | 2,767 | 2,788 | -0.8% | -43.7% |
 | **China - N. Europe** | usd/feu | 2,361 | 2,350 | +0.5% | -51.6% |
 
-| Period | China - N. Europe |
-| --- | --- |
-| May-24 | 8000 |
-| Sep-24 | 3500 |
-| Jan-25 | 3000 |
-| May-25 | 2000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 22/2025
 
@@ -613,12 +608,7 @@ In the Bulk sector, the Capesize **IMPERATOR AUSTRALIS** 176,000 dwt 2012 Chines
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| May-24 | 2.5 |
-| Sep-24 | 2.0 |
-| Jan-25 | 4.5 |
-| May-25 | 3.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

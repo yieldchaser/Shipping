@@ -233,53 +233,11 @@ Unlike Med the Handy market in Cont recorded another bear week with rates down t
 | ****Med-Med (30k)**** | ws | 235.0 | 230.0 | +2.2% | +22.1% |
 | ****Black Sea-Med (30k)**** | ws | 510.0 | 460.0 | +10.9% | +148.8% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Feb-22 | -20,000 |
-| Apr-22 | 20,000 |
-| May-22 | 60,000 |
-| Jun-22 | 60,000 |
-| Jul-22 | 40,000 |
-| Aug-22 | 80,000 |
-| Sep-22 | 60,000 |
-| Oct-22 | 60,000 |
-| Nov-22 | 80,000 |
-| Dec-22 | 80,000 |
-| Jan-23 | 20,000 |
-| Feb-23 | 10,000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| MR ATLANTIC BASKET (usd/day) | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Feb-22 | 0 |
-| Apr-22 | 20,000 |
-| May-22 | 60,000 |
-| Jun-22 | 60,000 |
-| Jul-22 | 40,000 |
-| Aug-22 | 80,000 |
-| Sep-22 | 20,000 |
-| Oct-22 | 40,000 |
-| Nov-22 | 60,000 |
-| Dec-22 | 80,000 |
-| Jan-23 | 20,000 |
-| Feb-23 | 60,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-| MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Feb-22 | 0 |
-| Apr-22 | 20,000 |
-| May-22 | 40,000 |
-| Jun-22 | 60,000 |
-| Jul-22 | 40,000 |
-| Aug-22 | 60,000 |
-| Sep-22 | 40,000 |
-| Oct-22 | 60,000 |
-| Nov-22 | 40,000 |
-| Dec-22 | 20,000 |
-| Jan-23 | 40,000 |
-| Feb-23 | 40,000 |
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
@@ -447,13 +405,7 @@ Hectic week in the LR1 segment which saw the sale of **JUNIOR G** 70,000 dwt 200
 | **Q3 23** | usd/day | 18,314 | 18,479 | -0.9% | +313.2% |
 | **Q4 23** | usd/day | 18,175 | 9,300 | +95.4% | +310.1% |
 
-| Category | Value |
-| --- | --- |
-| Feb-22 | 10000 |
-| Aug-22 | 0 |
-| Feb-23 | 5000 |
-| Aug-23 | 15000 |
-| Feb-24 | 8000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -468,13 +420,7 @@ Hectic week in the LR1 segment which saw the sale of **JUNIOR G** 70,000 dwt 200
 | **Q3 23** | usd/day | 15,122 | 15,522 | -2.6% | +94.8% |
 | **Q4 23** | usd/day | 14,890 | 15,250 | -2.4% | +91.8% |
 
-| Category | Value |
-| --- | --- |
-| Feb-22 | 25000 |
-| Aug-22 | 10000 |
-| Feb-23 | 8000 |
-| Aug-23 | 14000 |
-| Feb-24 | 13000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## SUPRAMAX (58k)
 
@@ -489,13 +435,7 @@ Hectic week in the LR1 segment which saw the sale of **JUNIOR G** 70,000 dwt 200
 | **Q3 23** | usd/day | 13,733 | 14,038 | -2.2% | +99.8% |
 | **Q4 23** | usd/day | 13,583 | 13,888 | -2.2% | +97.6% |
 
-| Category | Value |
-| --- | --- |
-| Feb-22 | 30000 |
-| Aug-22 | 5000 |
-| Feb-23 | 8000 |
-| Aug-23 | 13000 |
-| Feb-24 | 12000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -510,13 +450,7 @@ Hectic week in the LR1 segment which saw the sale of **JUNIOR G** 70,000 dwt 200
 | **Q3 23** | usd/day | 13,300 | 13,338 | -0.3% | +69.7% |
 | **Q4 23** | usd/day | 13,163 | 13,163 | +0.0% | +68.0% |
 
-| Category | Value |
-| --- | --- |
-| Feb-22 | 25000 |
-| Aug-22 | 10000 |
-| Feb-23 | 8000 |
-| Aug-23 | 13000 |
-| Feb-24 | 12000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -587,12 +521,7 @@ Hectic week in the LR1 segment which saw the sale of **JUNIOR G** 70,000 dwt 200
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Feb-22 | 4.0 |
-| Jun-22 | 8.0 |
-| Oct-22 | 5.0 |
-| Feb-23 | 2.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

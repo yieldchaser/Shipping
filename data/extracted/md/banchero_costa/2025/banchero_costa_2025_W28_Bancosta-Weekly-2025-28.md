@@ -563,12 +563,9 @@ In the Chemical segment, **GWEN** 19,702 dwt 2008 Fukuoka built was reported sol
 |  | **Fujairah** | usd/t | 97.0 | 117.0 | -17.1% | -15.7% |
 |  | **Singapore** | usd/t | 109.0 | 110.0 | -0.9% | +12.4% |
 
-| Currency | 11-Jul | 4-Jul | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **BUNKER PRICES @ SINGAPORE (USD/T)** |  |  |  |  |
-| IFO380 | 450 | 430 | +2.3% | -13.0% |
-| VLSFO | 505 | 500 | +1.0% | -11.0% |
-| LSMGO | 700 | 685 | +2.2% | -4.0% |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed):** BRENT & WTI OIL PRICE (USD/BBL). The report prints no values for it.
 

@@ -380,15 +380,7 @@ Clients of United Maritime London were reported to be the Buyers of 2 Capesize J
 | **Q3 23** | usd/day | 18,268 | 18,550 | -1.5% | +38.0% |
 | **Q4 23** | usd/day | 17,336 | 9,792 | +77.0% | +31.0% |
 
-| CAPESIZE FORWARD CURVE (USD/DAY) | CAPESIZE FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Jan-22 | 20000 |
-| Mar-22 | 38000 |
-| Jul-22 | 0 |
-| Jan-23 | 15000 |
-| Jul-23 | 18000 |
-| Jan-24 | 18000 |
+> **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## PANAMAX (82k)
 
@@ -433,15 +425,7 @@ Clients of United Maritime London were reported to be the Buyers of 2 Capesize J
 | **Q3 23** | usd/day | 13,075 | 13,100 | -0.2% | +34.1% |
 | **Q4 23** | usd/day | 12,638 | 12,638 | +0.0% | +29.6% |
 
-| HANDYSIZE FORWARD CURVE (USD/DAY) | HANDYSIZE FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Jan-22 | 20000 |
-| Mar-22 | 30000 |
-| Jul-22 | 10000 |
-| Jan-23 | 12000 |
-| Jul-23 | 13000 |
-| Jan-24 | 13000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 

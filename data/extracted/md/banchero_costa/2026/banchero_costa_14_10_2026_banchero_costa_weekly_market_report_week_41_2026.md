@@ -54,14 +54,7 @@ Mainland China is by far the largest importer of iron ore in the world. China ac
 
 2026), Tangshan/Jingtang (91.3 mln t), Lanshan (81.0 mln t), Ningbo/Zhoushan (80.9 mln t), Tianjin (64.1 mln t), Rizhao (58.2 mln t), Lianyungang (57.2 mln t), Dongjiakou (54.4 mln t), Huanghua (45.1 mln t), Fangcheng (39.5 mln t), Zhanjiang (38.8 mln t). In terms of sources for China’s iron ore imports, Australia remains by far the top source country, with a 62.7% share in Jan-Sep 2026. Iron ore imports from Australia to China in Jan-Sep 2026 have increased by +1.9% y-o-y to an all- time high for the period of 606.5 mln tonnes, from 595.0 mln t in Jan-Sep 2025. The top loading port in Australia for iron ore cargoes to China is Port Hedland (354.2 mln t in Jan-Sep 2026). Brazil remains in second spot with a 21.5% share in Jan-Sep 2026. Imports to China from Brazil increased by +5.1% y-o-y in Jan-Sep 2026 to 208.3 mln tonnes, from 198.2 mln t in Jan-Sep 2025. The top port in Brazil for cargoes to China was Ponta da Madeira (78.2 mln t in Jan-Sep 2026). Volumes from South Africa to China declined by -7.1% y-o-y to 23.4 mln t in Jan-Sep 2026. From India volumes increased by +12.4% y-o-y to 19.4 mln t. From Peru volumes surged by +49.6% y-o-y to 18.5 mln t.
 
-| 582.1595.0606.5 |  |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  | 200.3198.2208.3 |  |  |  |
-|  |  |  | 200.31 | 98.22 | 08.3 |  |
-|  |  |  |  |  |  | 56.957.869.9 24.125.223.4 31.017.319.4 17.912.418.5 12.414.111.6 8.310.110.3 |
+> **Chart (not transcribed).**
 
 ### Page 3
 

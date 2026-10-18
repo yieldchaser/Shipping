@@ -503,12 +503,7 @@ On the MR side a couple of transactions were reported as well: two sister vessel
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Oct-21 | 5.0 |
-| Feb-22 | 4.0 |
-| Jun-22 | 9.0 |
-| Oct-22 | 7.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

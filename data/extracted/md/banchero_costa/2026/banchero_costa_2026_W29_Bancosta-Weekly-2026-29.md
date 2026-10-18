@@ -352,12 +352,7 @@ The container market remains stable at high levels despite lower summer transact
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | FBX |
-| --- | --- |
-| Jul-25 | 2500 |
-| Nov-25 | 2000 |
-| Mar-26 | 2000 |
-| Jul-26 | 4000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)

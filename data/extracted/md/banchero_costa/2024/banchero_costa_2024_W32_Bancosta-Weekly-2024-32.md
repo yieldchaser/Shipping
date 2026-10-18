@@ -399,13 +399,7 @@ In the tanker market, the most notable sale of the week has certainly been the o
 | **Q4 24** | usd/day | 26,576 | 26,562 | +0.1% | +32.8% |
 | **Q1 25** | usd/day | 16,393 | 16,407 | -0.1% | -18.1% |
 
-| Category | Date |
-| --- | --- |
-| Aug-23 | 10000 |
-| Feb-24 | 55000 |
-| Aug-24 | 25000 |
-| Feb-25 | 15000 |
-| Aug-25 | 20000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## PANAMAX (82k)
 

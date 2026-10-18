@@ -366,12 +366,7 @@ The charter market stayed firm, with little variation across vessel classes. Ava
 | **China - WCNA** | usd/feu | 1,715 | 1,903 | -9.9% | -66.5% |
 | **China - N. Europe** | usd/feu | 2,467 | 2,457 | +0.4% | -45.1% |
 
-| DATE | China - N. Europe |
-| --- | --- |
-| Nov-24 | 5000 |
-| Mar-25 | 2500 |
-| Jul-25 | 3500 |
-| Nov-25 | 2500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 48/2025
 

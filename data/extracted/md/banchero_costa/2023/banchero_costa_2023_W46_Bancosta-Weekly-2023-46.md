@@ -490,19 +490,9 @@ Back in week 39, a two-year younger vessel, was sold for a similar price: the FU
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Brent | WTI |
-| --- | --- | --- |
-| Nov-22 | 90 | 80 |
-| Mar-23 | 85 | 70 |
-| Jul-23 | 90 | 85 |
-| Nov-23 | 80 | 80 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Nov-22 | 7.0 |
-| Mar-23 | 2.0 |
-| Jul-23 | 3.0 |
-| Nov-23 | 3.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

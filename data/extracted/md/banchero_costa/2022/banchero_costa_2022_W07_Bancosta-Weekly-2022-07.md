@@ -197,13 +197,7 @@ Following the market boom of two weeks ago, the Far East market increased last w
 
 > **Chart (not transcribed):** TD17 AFRAMAX BALTIC-UKC (USD/DAY). The report prints no values for it.
 
-| TD19 AFRAMAX MED-MED (USD/DAY) | TD19 AFRAMAX MED-MED (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Feb-21 | 35000 |
-| Jun-21 | 0 |
-| Oct-21 | 15000 |
-| Feb-22 | 5000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
 | 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) |
 | --- | --- | --- | --- | --- |
@@ -310,13 +304,7 @@ Assuming that trade between Asia and the United States and Europe remains unaffe
 
 > **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
-| FREIGHTOS BALTIC CONTAINER INDEX | FREIGHTOS BALTIC CONTAINER INDEX | FREIGHTOS BALTIC CONTAINER INDEX |
-| --- | --- | --- |
-| Date | China - N. Europe | N. Europe - China |
-| Feb-21 | 8,000 | 2,000 |
-| Jun-21 | 12,000 | 2,000 |
-| Oct-21 | 15,000 | 2,000 |
-| Feb-22 | 16,000 | 2,000 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 07/2022
 
@@ -540,23 +528,13 @@ A greek controlled handy Tramontana abt 28k blt 2010 Shimanami (SS due 8/2025 DD
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Feb-21 | 2.5 |
-| Jun-21 | 4.0 |
-| Oct-21 | 5.5 |
-| Feb-22 | 4.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Corn | Wheat |
-| --- | --- | --- |
-| Feb-21 | 550 | 600 |
-| Jun-21 | 500 | 750 |
-| Oct-21 | 550 | 800 |
-| Feb-22 | 600 | 800 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

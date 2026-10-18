@@ -450,20 +450,13 @@ On smaller sizes, Naftomar was rumoured behind the purchase of LR1s SIENA and AE
 |  | **Fujairah** | usd/t | 186.0 | 187.0 | -0.5% | -41.3% |
 |  | **Singapore** | usd/t | 187.0 | 192.0 | -2.6% | -43.2% |
 
-| Route / Benchmark | Unit | 20-Oct | 13-Oct | W-o-W | Y-o-Y |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **BUNKER PRICES @ SINGAPORE (USD/T)** | IFO380 | 400 | 450 | 500 | 600 | 700 | 800 | 900 | 1000 | 1100 | 1200 |
-|  | Oct-22 | Feb-23 | Jun-23 | Oct-23 |  |  |  |  |  |  |  |
-|  | IFO380 | 400 | 420 | 450 | 500 |  |  |  |  |  |  |
-|  | VLSFO | 700 | 600 | 550 | 650 |  |  |  |  |  |  |
-|  | LSMGO | 1100 | 800 | 650 | 900 |  |  |  |  |  |  |
+### BUNKER PRICES @ SINGAPORE (USD/T)
 
-| Commodity / Fuel | Unit | 20-Oct | 13-Oct | W-o-W | Y-o-Y |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| **BRENT & WTI OIL PRICE (USD/BBL)** | Brent | 40 | 60 | 80 | 100 | 120 |
-|  | Oct-22 | Feb-23 | Jun-23 | Oct-23 |  |  |
-|  | Brent | 90 | 80 | 85 | 95 |  |
-|  | WTI | 85 | 70 | 75 | 90 |  |
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Commodity / Fuel | Unit | 20-Oct | 13-Oct | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
@@ -480,18 +473,13 @@ On smaller sizes, Naftomar was rumoured behind the purchase of LR1s SIENA and AE
 | LNG TTF Netherlands | usd/mmbtu | 15.63 | 17.06 | -8.4% | -61.3% |
 | LNG North East Asia | usd/mmbtu | 17.90 | 14.50 | +23.4% | -44.9% |
 
-| Commodity / Fuel | Unit | 20-Oct | 13-Oct | W-o-W | Y-o-Y |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| **HENRY HUB PRICE (USD/MMBTU)** | Harry Hub Nat Gas | 0.0 | 2.0 | 4.0 | 6.0 | 8.0 |
-|  | Oct-22 | Feb-23 | Jun-23 | Oct-23 |  |  |
-|  | Harry Hub Nat Gas | 5.5 | 2.5 | 2.5 | 3.5 |  |
+### HENRY HUB PRICE (USD/MMBTU)
 
-| Commodity / Fuel | Unit | 20-Oct | 13-Oct | W-o-W | Y-o-Y |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **COAL & IRON ORE PRICE (USD/T)** | Steam Coal | 0 | 100 | 200 | 300 | 400 | 500 |
-|  | Oct-22 | Feb-23 | Jun-23 | Oct-23 |  |  |  |
-|  | Steam Coal | 380 | 180 | 160 | 140 |  |  |
-|  | Iron Ore | 100 | 120 | 120 | 130 |  |  |
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Commodity / Fuel | Unit | 20-Oct | 13-Oct | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
@@ -500,12 +488,9 @@ On smaller sizes, Naftomar was rumoured behind the purchase of LR1s SIENA and AE
 | Steam Coal Newcastle | usd/t | 138.8 | 143.2 | -3.1% | -64.4% |
 | Coking Coal Australia SGX | usd/t | 352.5 | 363.0 | -2.9% | +23.8% |
 
-| Commodity / Fuel | Unit | 20-Oct | 13-Oct | W-o-W | Y-o-Y |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| **STEEL PRICES IN CHINA (RMB/T)** | HRC | 3,000 | 3,500 | 4,000 | 4,500 | 5,000 |
-|  | Oct-22 | Feb-23 | Jun-23 | Oct-23 |  |  |
-|  | HRC | 3900 | 4400 | 3500 | 3600 |  |
-|  | Plate | 3900 | 4500 | 3800 | 3700 |  |
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Commodity / Fuel | Unit | 20-Oct | 13-Oct | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
@@ -514,12 +499,9 @@ On smaller sizes, Naftomar was rumoured behind the purchase of LR1s SIENA and AE
 | Rebar Steel in China | rmb/t | 3590.0 | 3501.0 | +2.5% | -10.7% |
 | HRC Steel in China | rmb/t | 3799.0 | 3790.0 | +0.2% | -6.8% |
 
-| Commodity / Fuel | Unit | 20-Oct | 13-Oct | W-o-W | Y-o-Y |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| **WHEAT & CORN PRICES (USD/T)** | Corn | 0 | 400 | 600 | 800 | 1200 |
-|  | Oct-22 | Feb-23 | Jun-23 | Oct-23 |  |  |
-|  | Corn | 650 | 600 | 650 | 550 |  |
-|  | Wheat | 800 | 750 | 700 | 650 |  |
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Commodity / Fuel | Unit | 20-Oct | 13-Oct | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |

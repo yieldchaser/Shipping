@@ -504,14 +504,7 @@ DERIVATIVES MARKET REPORT – WEEK 04/2023 12
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Jan-22 | 4.0 |
-| Mar-22 | 8.0 |
-| May-22 | 9.0 |
-| Jul-22 | 6.0 |
-| Sep-22 | 9.0 |
-| Jan-23 | 3.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

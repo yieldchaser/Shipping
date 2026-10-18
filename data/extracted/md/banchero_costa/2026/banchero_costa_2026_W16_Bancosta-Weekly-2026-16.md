@@ -323,12 +323,7 @@ In the tanker sector, China's Yangzhou Ryuwa Shipbuilding secured an order for 1
 
 ### Category
 
-| MR | 45 |
-| --- | --- |
-| Apr-25 | Kamsarmax: 80, Suezmax: 80, MR: 45 |
-| Aug-25 | Kamsarmax: 80, Suezmax: 80, MR: 45 |
-| Dec-25 | Kamsarmax: 80, Suezmax: 80, MR: 45 |
-| Apr-26 | Kamsarmax: 80, Suezmax: 80, MR: 45 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -517,19 +512,26 @@ The LR1 **CAPE TAMPA** 73,719 dwt 2009 NTS built SS Mar 2029 DD May 2027 IMO III
 |  | **Sugar ICE N.11** | usc/lb | 13.31 | 13.75 | -3.2% | -26.1% |
 |  | **Palm Oil Malaysia** | usd/t | 1108.8 | 1131.3 | -2.0% | +9.9% |
 
-| Category | Item | Unit | 17-Apr | 10-Apr | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **BUNKERS** | BUNKER PRICES @ SINGAPORE (USD/T) |  |  |  |  |  |
-|  | IFO380 |  | 500 | 500 | 500 | 2100 |
-|  | VLSFO |  | 500 | 800 | 1000 | 900 |
-|  | LSMGO |  | 500 | 500 | 1500 | 2000 |
-| **BRENT & WTI OIL PRICE (USD/BBL)** |  |  |  |  |  |  |
-|  | Brent |  | 50 | 60 | 70 | 115 |
-|  | WTI |  | 55 | 65 | 85 | 110 |
-| **HENRY HUB PRICE (USD/MMBTU)** | Henry Hub Nat Gas |  | 2.5 | 3.0 | 5.0 | 2.5 |
-| **COAL & IRON ORE PRICE (USD/T)** | Steam Coal |  | 90 | 100 | 135 | 135 |
-|  | Iron Ore |  | 95 | 105 | 105 | 108 |
-| **STEEL PRICES IN CHINA (RMB/T)** | HRC |  | 2900 | 3100 | 3200 | 3100 |
-|  | Plate |  | 3200 | 3400 | 3400 | 3350 |
-| **WHEAT & CORN PRICES (USD/T)** | Corn |  | 480 | 400 | 450 | 450 |
-|  | Wheat |  | 520 | 500 | 550 | 580 |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.

@@ -508,12 +508,7 @@ Active week in the tanker market. The most notable deal has been the en bloc tra
 
 ### Chart: HENRY HUB PRICE (USD/MMBTU)
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Jul-23 | 2.5 |
-| Nov-23 | 1.5 |
-| Mar-24 | 2.0 |
-| Jul-24 | 2.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## COAL
 
@@ -525,12 +520,7 @@ Active week in the tanker market. The most notable deal has been the en bloc tra
 
 ### Chart: COAL & IRON ORE PRICE (USD/T)
 
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Jul-23 | 130 | 110 |
-| Nov-23 | 160 | 135 |
-| Mar-24 | 140 | 115 |
-| Jul-24 | 140 | 110 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## IRON ORE & STEEL
 

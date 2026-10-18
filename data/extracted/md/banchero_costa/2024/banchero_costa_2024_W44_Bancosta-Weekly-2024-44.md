@@ -257,19 +257,9 @@ Despite the holidays celebrated in several countries the container market remain
 | 1700 teu (1Y, geared) | usd/day | 20,005 | 19,945 | +0.3% | +94.4% |
 | 1100 teu (1Y, geared) | usd/day | 13,705 | 13,655 | +0.4% | +60.9% |
 
-| DATE | 4250 | 3500 | 2700 |
-| --- | --- | --- | --- |
-| Nov-23 | 10000 | 10000 | 10000 |
-| Mar-24 | 25000 | 20000 | 15000 |
-| Jul-24 | 45000 | 38000 | 32000 |
-| Nov-24 | 50000 | 38000 | 30000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Nov-23 | 10000 | 8000 | 8000 |
-| Mar-24 | 18000 | 12000 | 10000 |
-| Jul-24 | 30000 | 18000 | 12000 |
-| Nov-24 | 28000 | 20000 | 13000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
@@ -449,24 +439,21 @@ After offers were invited 2 weeks ago, the Spring Bright 175,000 dwt built 2010 
 |  | Fujairah | usd/t | 129.0 | 116.0 | +11.2% | -45.1% |
 |  | Singapore | usd/t | 112.0 | 106.0 | +5.7% | -51.1% |
 
-| HENRY HUB PRICE (USD/MMBTU) |
-| --- |
-| Harry Hub Nat Gas |
+### HENRY HUB PRICE (USD/MMBTU)
 
-| COAL & IRON ORE PRICE (USD/T) |
-| --- |
-| Steam Coal |
-| Iron Ore |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| STEEL PRICES IN CHINA (RMB/T) |
-| --- |
-| HRC |
-| Plate |
+### COAL & IRON ORE PRICE (USD/T)
 
-| WHEAT & CORN PRICES (USD/T) |
-| --- |
-| Corn |
-| Wheat |
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## BUNKERS
 

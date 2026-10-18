@@ -514,12 +514,7 @@ After the purchase of the sisterhip Maestro Pearl, Devbulk seems to have found t
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Date | Value |
-| --- | --- | --- |
-| Henry Hub Nat Gas | May-22 | 8.0 |
-| Henry Hub Nat Gas | Sep-22 | 9.0 |
-| Henry Hub Nat Gas | Jan-23 | 2.0 |
-| Henry Hub Nat Gas | May-23 | 2.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

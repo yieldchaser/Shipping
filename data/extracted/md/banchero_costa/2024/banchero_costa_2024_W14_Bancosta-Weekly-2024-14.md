@@ -242,23 +242,7 @@ A very quiet week in Med where a long vessel list was met by a large shortage of
 | **Med-Med (30k)** | ws | 180.0 | 200.0 | -10.0% | -28.7% |
 | **Black Sea-Med (30k)** | ws | 360.0 | 360.0 | +0.0% | -29.4% |
 
-| Chart Title | Period | Value |
-| --- | --- | --- |
-| TC1 LR2 MEG-JAPAN (usd/day) | Apr-23 | 45000 |
-| TC1 LR2 MEG-JAPAN (usd/day) | Aug-23 | 25000 |
-| TC1 LR2 MEG-JAPAN (usd/day) | Dec-23 | 50000 |
-| TC1 LR2 MEG-JAPAN (usd/day) | Apr-24 | 55000 |
-| MR ATLANTIC BASKET (usd/day) | Apr-23 | 40000 |
-| MR ATLANTIC BASKET (usd/day) | Aug-23 | 25000 |
-| MR ATLANTIC BASKET (usd/day) | Dec-23 | 60000 |
-| MR ATLANTIC BASKET (usd/day) | Apr-24 | 40000 |
-| MR PACIFIC BASKET (usd/day) | Apr-23 | 40000 |
-| MR PACIFIC BASKET (usd/day) | Aug-23 | 15000 |
-| MR PACIFIC BASKET (usd/day) | Dec-23 | 55000 |
-| MR PACIFIC BASKET (usd/day) | Apr-24 | 35000 |
-| 1 YR TC PERIOD (USD/DAY) | Apr-23 | 35000 |
-| 1 YR TC PERIOD (USD/DAY) | Aug-23 | 40000 |
-| 1 YR TC PERIOD (USD/DAY) | Dec-23 | 45000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -527,26 +511,26 @@ After offers were invited two weeks ago, the Japanese controlled baby cape Sprin
 | Palm Oil Malaysia |  | usd/t | 961.8 | 939.3 | +2.4% | +4.7% |
 | Ferts Urea Middle East |  | usd/t | 392.5 | 392.5 | +0.0% | +15.3% |
 
-| Category | Item | Unit | 05-Apr | 29-Mar | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **COAL & IRON ORE PRICE (USD/T)** |  |  |  |  |  |  |
-| Steam Coal |  |  | 180 | 140 | -22% | -20% |
-| Iron Ore |  |  | 110 | 115 | +4.5% | +5% |
-| **STEEL PRICES IN CHINA (RMB/T)** |  |  |  |  |  |  |
-| HRC |  |  | 4200 | 3800 | -9.5% | -10% |
-| Plate |  |  | 4300 | 3700 | -14% | -14% |
-| **WHEAT & CORN PRICES (USD/T)** |  |  |  |  |  |  |
-| Corn |  |  | 650 | 450 | -31% | -30% |
-| Wheat |  |  | 680 | 550 | -19% | -19% |
+### COAL & IRON ORE PRICE (USD/T)
 
-| Category | Item | Unit | 05-Apr | 29-Mar | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **BUNKER PRICES @ SINGAPORE (USD/T)** |  |  |  |  |  |  |
-| IFO380 |  |  | 700 | 500 | -29% | -28% |
-| VLSFO |  |  | 600 | 550 | -8% | -8% |
-| LSMGO |  |  | 850 | 750 | -12% | -12% |
-| **BRENT & WTI OIL PRICE (USD/BBL)** |  |  |  |  |  |  |
-| Brent |  |  | 80 | 85 | +6.25% | +5% |
-| WTI |  |  | 75 | 85 | +13.33% | +13% |
-| **HENRY HUB PRICE (USD/MMBTU)** |  |  |  |  |  |  |
-| Harry Hub Nat Gas |  |  | 2.5 | 1.8 | -28% | -28% |
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.

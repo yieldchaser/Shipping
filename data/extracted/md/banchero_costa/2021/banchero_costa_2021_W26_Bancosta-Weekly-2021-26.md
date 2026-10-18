@@ -128,21 +128,9 @@ Market on the ECSAm was still showing good results on both Handy and Supramax. A
 | **38k Handy 1-Y Period**      | usd/day | 22,000 | 21,000 | +4.8%  | +183.9% |
 | **30k Handy 1-Y Period**      | usd/day | 19,500 | 18,500 | +5.4%  | +200.0% |
 
-| BSI TC & SUPRAMAX 1-YR TC (USD/DAY) |         |           |
-| ----------------------------------- | ------- | --------- |
-| Date                                | 1-YR TC | BSI 58 TC |
-| Jul-20                              | 8000    | 8000      |
-| Nov-20                              | 10000   | 10000     |
-| Mar-21                              | 15000   | 20000     |
-| Jul-21                              | 25000   | 32000     |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| BHSI 38 TC & HANDY 1-YR TC (USD/DAY) |         |            |
-| ------------------------------------ | ------- | ---------- |
-| Date                                 | 1-YR TC | BHSI 38 TC |
-| Jul-20                               | 7000    | 7000       |
-| Nov-20                               | 10000   | 10000      |
-| Mar-21                               | 15000   | 23000      |
-| Jul-21                               | 21000   | 28000      |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CRUDE TANKER MARKET
 
@@ -261,21 +249,9 @@ The Port of Yantian is finally back, operating at full capacity, but it will tak
 ## VHSS CONTAINERSHIP TIMECHARTER
 (source: Hamburg Shipbrokers' Association) <table> <tr> <th></th> <th>Unit</th> <th>2-Jul</th> <th>25-Jun</th> <th>W-o-W</th> <th>Y-o-Y</th> </tr> <tr> <td><b>ConTex</b></td> <td>index</td> <td>1,769</td> <td>1,645</td> <td>+7.5%</td> <td>+468.8%</td> </tr> <tr> <td><b>4250 teu (1Y, g'less)</b></td> <td>usd/day</td> <td>57,100</td> <td>52,960</td> <td>+7.8%</td> <td>+634.8%</td> </tr> <tr> <td><b>3500 teu (1Y, g'less)</b></td> <td>usd/day</td> <td>47,605</td> <td>43,880</td> <td>+8.5%</td> <td>+519.2%</td> </tr> <tr> <td><b>2700 teu (1Y, g'less)</b></td> <td>usd/day</td> <td>42,445</td> <td>38,914</td> <td>+9.1%</td> <td>+472.4%</td> </tr> <tr> <td><b>2500 teu (1Y, geared)</b></td> <td>usd/day</td> <td>38,486</td> <td>35,532</td> <td>+8.3%</td> <td>+444.0%</td> </tr> <tr> <td><b>1700 teu (1Y, geared)</b></td> <td>usd/day</td> <td>31,463</td> <td>29,888</td> <td>+5.3%</td> <td>+390.0%</td> </tr> <tr> <td><b>1100 teu (1Y, geared)</b></td> <td>usd/day</td> <td>20,825</td> <td>19,779</td> <td>+5.3%</td> <td>+276.4%</td> </tr> </table>
 
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) |       |       |       |   |
-| ----------------------------------- | ----- | ----- | ----- | - |
-| Date                                | 4250  | 3500  | 2700  |   |
-| Jul-20                              | 8000  | 8000  | 8000  |   |
-| Nov-20                              | 20000 | 18000 | 15000 |   |
-| Mar-21                              | 30000 | 28000 | 25000 |   |
-| Jul-21                              | 58000 | 48000 | 42000 |   |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| GEARED - 1 YR TC PERIOD (USD/DAY) |       |       |       |   |
-| --------------------------------- | ----- | ----- | ----- | - |
-| Date                              | 2500  | 1700  | 1100  |   |
-| Jul-20                            | 8000  | 8000  | 8000  |   |
-| Nov-20                            | 18000 | 15000 | 10000 |   |
-| Mar-21                            | 28000 | 22000 | 15000 |   |
-| Jul-21                            | 42000 | 30000 | 20000 |   |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)

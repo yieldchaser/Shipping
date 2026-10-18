@@ -354,19 +354,9 @@ The market remained stable. Rates for small Feeders were rising, while those for
 |  | 1700 |
 |  | 1100 |
 
-| Date | Value |
-| --- | --- |
-| May-24 | 2500 |
-| Sep-24 | 5500 |
-| Jan-25 | 3500 |
-| May-25 | 2000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Value |
-| --- | --- |
-| May-24 | 3000 |
-| Sep-24 | 5500 |
-| Jan-25 | 4000 |
-| May-25 | 2000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -377,12 +367,7 @@ The market remained stable. Rates for small Feeders were rising, while those for
 | **China - WCNA** | usd/feu | 2,321 | 2,328 | -0.3% | -25.0% |
 | **China - N. Europe** | usd/feu | 2,261 | 2,337 | -3.3% | -32.8% |
 
-| Date | Value |
-| --- | --- |
-| May-24 | 3000 |
-| Sep-24 | 8000 |
-| Jan-25 | 5000 |
-| May-25 | 2000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 18/2025
 

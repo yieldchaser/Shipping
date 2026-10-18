@@ -594,10 +594,9 @@ In the tanker sector, the scrubber-fitted **suezmax STEN SUNSHINE** 159,039 dwt 
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Chart Title | Category | Nov-24 | Mar-25 | Jul-25 | Nov-25 |
-| --- | --- | --- | --- | --- | --- |
-| BRENT & WTI OIL PRICE (USD/BBL) | Brent | 70 | 80 | 65 | 58 |
-|  | WTI | 68 | 75 | 58 | 56 |
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

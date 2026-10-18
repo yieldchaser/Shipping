@@ -497,19 +497,9 @@ During the week Korean controlled Capesize West Trader 176,000 dwt built 2009 Ji
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Sep-22 | 80 | 80 |
-| Jan-23 | 85 | 70 |
-| May-23 | 85 | 75 |
-| Sep-23 | 90 | 90 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Sep-22 | 7.0 |
-| Jan-23 | 2.0 |
-| May-23 | 2.5 |
-| Sep-23 | 2.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

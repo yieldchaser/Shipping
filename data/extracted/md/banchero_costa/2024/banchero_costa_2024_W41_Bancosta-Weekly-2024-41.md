@@ -228,41 +228,11 @@ Handy activity in Med increased during the week pushing rates up to WS175, then 
 | **Med-Med (30k)** | ws | 170.0 | 170.0 | +0.0% | -39.3% |
 | **Black Sea-Med (30k)** | ws | 215.0 | 215.0 | +0.0% | -36.8% |
 
-| Date | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Oct-23 | 30,000 |
-| Jan-24 | 40,000 |
-| Feb-24 | 100,000 |
-| Mar-24 | 80,000 |
-| Apr-24 | 60,000 |
-| Jun-24 | 50,000 |
-| Jul-24 | 40,000 |
-| Aug-24 | 30,000 |
-| Oct-24 | 20,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Oct-23 | 20,000 |
-| Jan-24 | 30,000 |
-| Feb-24 | 60,000 |
-| Mar-24 | 40,000 |
-| Apr-24 | 35,000 |
-| Jun-24 | 50,000 |
-| Jul-24 | 45,000 |
-| Aug-24 | 30,000 |
-| Oct-24 | 35,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Oct-23 | 40,000 |
-| Jan-24 | 20,000 |
-| Feb-24 | 55,000 |
-| Mar-24 | 45,000 |
-| Apr-24 | 40,000 |
-| Jun-24 | 45,000 |
-| Jul-24 | 35,000 |
-| Aug-24 | 25,000 |
-| Oct-24 | 20,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

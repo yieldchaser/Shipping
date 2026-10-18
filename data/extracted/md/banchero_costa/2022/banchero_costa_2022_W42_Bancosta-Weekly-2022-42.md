@@ -295,12 +295,7 @@ The market kept falling and both Owners and Charterers had to deal with major ch
 | **Med - China** | usd/feu | 882 | 882 | +0.0% | -37.9% |
 | **ECNA - Europe** | usd/feu | 876 | 839 | +4.4% | +85.6% |
 
-| Date | FBX |
-| --- | --- |
-| Oct-21 | 10,000 |
-| Feb-22 | 9,500 |
-| Jun-22 | 7,000 |
-| Oct-22 | 3,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

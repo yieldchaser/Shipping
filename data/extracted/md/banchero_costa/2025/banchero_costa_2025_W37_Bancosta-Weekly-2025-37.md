@@ -605,12 +605,7 @@ In the bulk sector, Greek interests were behind the purchase of the Minicapesize
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Sep-24 | 2.5 |
-| Jan-25 | 4.0 |
-| May-25 | 3.0 |
-| Sep-25 | 2.8 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

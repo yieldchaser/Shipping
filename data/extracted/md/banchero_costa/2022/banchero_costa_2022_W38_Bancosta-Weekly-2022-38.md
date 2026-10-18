@@ -474,11 +474,9 @@ During the week a vintage Capesize MV Cougar abt 178,000 dwt built 2002 Mitsui (
 | Fujairah | usd/t | 271.0 | 264.0 | +2.7% | +222.6% |
 | Singapore | usd/t | 288.0 | 264.0 | +9.1% | +227.3% |
 
-| Category | Unit | 23-Sep | 16-Sep | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- |
-| **BRENT & WTI OIL PRICE (USD/BBL)** |  |  |  |  |  |
-| Brent |  | 75 | 78 | -5% | +10% |
-| WTI |  | 70 | 72 | -3% | +8% |
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## OIL & GAS
 

@@ -254,21 +254,9 @@ Containerships at anchor are becoming a regular sight in the English Channel as 
 | **1700 teu (1Y, geared)** | usd/day | 49,454 | 49,275 | +0.4% | +453.5% |
 | **1100 teu (1Y, geared)** | usd/day | 36,942 | 36,733 | +0.6% | +465.0% |
 
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | GEARLESS - 1 YR TC PERIOD (USD/DAY) | GEARLESS - 1 YR TC PERIOD (USD/DAY) | GEARLESS - 1 YR TC PERIOD (USD/DAY) |
-| --- | --- | --- | --- |
-| Date | 4250 | 3500 | 2700 |
-| Oct-20 | 20000 | 20000 | 20000 |
-| Feb-21 | 30000 | 30000 | 30000 |
-| Jun-21 | 50000 | 45000 | 40000 |
-| Oct-21 | 100000 | 85000 | 80000 |
+> **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
-| GEARED - 1 YR TC PERIOD (USD/DAY) | GEARED - 1 YR TC PERIOD (USD/DAY) | GEARED - 1 YR TC PERIOD (USD/DAY) | GEARED - 1 YR TC PERIOD (USD/DAY) |
-| --- | --- | --- | --- |
-| Date | 2500 | 1700 | 1100 |
-| Oct-20 | 10000 | 10000 | 10000 |
-| Feb-21 | 25000 | 20000 | 15000 |
-| Jun-21 | 40000 | 30000 | 25000 |
-| Oct-21 | 85000 | 50000 | 40000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -290,13 +278,7 @@ Containerships at anchor are becoming a regular sight in the English Channel as 
 | Europe - ECSA | usd/feu | 3,705 | 3,705 | +0.0% | +352.4% |
 | Europe - WCSA | usd/feu | 5,558 | 5,558 | +0.0% | +260.4% |
 
-| FREIGHTOS BALTIC CONTAINER INDEX | FREIGHTOS BALTIC CONTAINER INDEX |
-| --- | --- |
-| Date | FBX |
-| Oct-20 | 2000 |
-| Feb-21 | 4000 |
-| Jun-21 | 6000 |
-| Oct-21 | 10000 |
+> **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 41/2021
 
@@ -444,13 +426,7 @@ PANAMAX FORWARD CURVE (USD/DAY)
 
 SUPRAMAX FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Oct-20 | 8000 |
-| Apr-21 | 35000 |
-| Oct-21 | 42000 |
-| Apr-22 | 25000 |
-| Oct-22 | 23000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 HANDYSIZE FORWARD CURVE (USD/DAY)
 

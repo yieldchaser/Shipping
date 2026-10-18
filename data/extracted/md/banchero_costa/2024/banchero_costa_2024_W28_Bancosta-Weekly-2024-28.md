@@ -497,32 +497,12 @@ A lot of interest was recorded in the Handysize segment. Modern eco Handysize Ma
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Jul-23 | 75 | 70 |
-| Nov-23 | 70 | 65 |
-| Mar-24 | 85 | 80 |
-| Jul-24 | 85 | 80 |
-
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Jul-23 | 2.5 |
-| Nov-23 | 3.5 |
-| Mar-24 | 1.5 |
-| Jul-24 | 2.5 |
-
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Jul-23 | 140 | 110 |
-| Nov-23 | 160 | 130 |
-| Mar-24 | 130 | 110 |
-| Jul-24 | 130 | 110 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Jul-23 | 500 | 700 |
-| Nov-23 | 400 | 550 |
-| Mar-24 | 400 | 550 |
-| Jul-24 | 400 | 550 |
+> **Chart (not transcribed).** The report prints no values for it.
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+> **Chart (not transcribed).** The report prints no values for it.

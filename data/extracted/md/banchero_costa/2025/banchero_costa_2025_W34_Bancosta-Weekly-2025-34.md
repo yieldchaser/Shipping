@@ -433,12 +433,7 @@ In the bulk sector, the newcastlesmax **MINERAL UTAMORO** 207,000 dwt 2016 Imaba
 | **Aframax** | usd mln | 63.0 | 63.3 | -0.4% | -13.3% |
 | **MR Product** | usd mln | 40.6 | 40.7 | -0.3% | -12.5% |
 
-| Date | Kamsarmax | Aframax | MR |
-| --- | --- | --- | --- |
-| Aug-24 | 36 | 73 | 47 |
-| Dec-24 | 33 | 70 | 45 |
-| Apr-25 | 31 | 64 | 41 |
-| Aug-25 | 31 | 63 | 40 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DERIVATIVES MARKET REPORT – WEEK 34/2025
 

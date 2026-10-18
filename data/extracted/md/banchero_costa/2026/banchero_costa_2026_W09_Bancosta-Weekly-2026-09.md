@@ -369,12 +369,7 @@ The market remains stable at elevated levels, demonstrating strong resilience de
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | FBX |
-| --- | --- |
-| Feb-25 | 2500 |
-| Jun-25 | 3500 |
-| Oct-25 | 2000 |
-| Feb-26 | 2000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)

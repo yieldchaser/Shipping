@@ -499,19 +499,9 @@ In the dry segment the **CAPE DREAM 179,000 dwt 2011 Hyundai (SS due 2026 BWTS f
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Brent | WTI |
-| --- | --- | --- |
-| Dec-23 | 75 | 70 |
-| Apr-24 | 90 | 85 |
-| Aug-24 | 75 | 65 |
-| Dec-24 | 75 | 65 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Dec-23 | 3.0 |
-| Apr-24 | 1.5 |
-| Aug-24 | 2.0 |
-| Dec-24 | 3.2 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
@@ -525,21 +515,11 @@ In the dry segment the **CAPE DREAM 179,000 dwt 2011 Hyundai (SS due 2026 BWTS f
 
 # BRENT & WTI OIL PRICE (USD/BBL)
 
-| DATE | Brent | WTI |
-| --- | --- | --- |
-| Dec-23 | 75 | 70 |
-| Apr-24 | 90 | 85 |
-| Aug-24 | 75 | 65 |
-| Dec-24 | 75 | 65 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # HENRY HUB PRICE (USD/MMBTU)
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Dec-23 | 3.0 |
-| Apr-24 | 1.5 |
-| Aug-24 | 2.0 |
-| Dec-24 | 3.2 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COAL & IRON ORE PRICE (USD/T)
 

@@ -484,19 +484,9 @@ In the chemical sector the **DH GLORY** 13,000 dwt 2020 China built (SS due 2025
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Brent | WTI |
-| --- | --- | --- |
-| Jan-24 | 75 | 70 |
-| May-24 | 90 | 85 |
-| Sep-24 | 70 | 65 |
-| Jan-25 | 80 | 78 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Jan-24 | 3.0 |
-| May-24 | 2.8 |
-| Sep-24 | 2.5 |
-| Jan-25 | 4.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

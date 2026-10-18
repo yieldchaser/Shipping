@@ -245,22 +245,7 @@ Down to 2 (vs 3) VLCC and 1 (vs 3) Suezmax waiting off China laden for more than
 | **Med-Med (30k)** | ws | 245.0 | 245.0 | +0.0% | +16.7% |
 | **Black Sea-Med (30k)** | ws | 500.0 | 500.0 | +0.0% | +25.0% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Apr-22 | 0 |
-| May-22 | 60000 |
-| Jun-22 | 40000 |
-| Jul-22 | 60000 |
-| Aug-22 | 60000 |
-| Sep-22 | 40000 |
-| Oct-22 | 60000 |
-| Nov-22 | 80000 |
-| Dec-22 | 80000 |
-| Jan-23 | 100000 |
-| Feb-23 | 20000 |
-| Mar-23 | 40000 |
-| Apr-23 | 40000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
@@ -316,12 +301,7 @@ Mixed signal from the market: the disconnect between spot freights and the chart
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | China - N. Europe | N. Europe - China |
-| --- | --- | --- |
-| Apr-22 | 12000 | 1000 |
-| Aug-22 | 8000 | 500 |
-| Dec-22 | 3000 | 200 |
-| Apr-23 | 1000 | 100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 15/2023
 

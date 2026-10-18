@@ -227,24 +227,7 @@ After some weeks of fairly stable trend, last week the market started again to d
 | **Med-Med (30k)** | ws | 340.0 | 340.0 | +0.0% | +183.3% |
 | **Black Sea-Med (30k)** | ws | 515.0 | 515.0 | +0.0% | +296.2% |
 
-| Category | Period | Value |
-| --- | --- | --- |
-| TC1 LR2 MEG-JAPAN (usd/day) | Sep-21 | 10000 |
-| TC1 LR2 MEG-JAPAN (usd/day) | Jan-22 | 15000 |
-| TC1 LR2 MEG-JAPAN (usd/day) | May-22 | 60000 |
-| TC1 LR2 MEG-JAPAN (usd/day) | Sep-22 | 60000 |
-| MR ATLANTIC BASKET (usd/day) | Sep-21 | 0 |
-| MR ATLANTIC BASKET (usd/day) | Jan-22 | 20000 |
-| MR ATLANTIC BASKET (usd/day) | May-22 | 70000 |
-| MR ATLANTIC BASKET (usd/day) | Sep-22 | 20000 |
-| MR PACIFIC BASKET (usd/day) | Sep-21 | 5000 |
-| MR PACIFIC BASKET (usd/day) | Jan-22 | 10000 |
-| MR PACIFIC BASKET (usd/day) | May-22 | 70000 |
-| MR PACIFIC BASKET (usd/day) | Sep-22 | 60000 |
-| 1 YR TC PERIOD (USD/DAY) | Sep-21 | 15000 |
-| 1 YR TC PERIOD (USD/DAY) | Jan-22 | 15000 |
-| 1 YR TC PERIOD (USD/DAY) | May-22 | 20000 |
-| 1 YR TC PERIOD (USD/DAY) | Sep-22 | 30000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -502,26 +485,29 @@ During the week the dry secondhand market was quiet with most of the active play
 | **Palm Oil Malaysia** | usd/t | 854.0 | 929.0 | -8.1% | -21.6% |
 | **Ferts Urea Middle East** | usd/t | 863.5 | 795.0 | +8.6% | +94.0% |
 
-| Category | Item | 2-Sep | 26-Aug | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- |
-| **BUNKER PRICES @ SINGAPORE (USD/T)** |  |  |  |  |  |
-| IFO380 | 750 | 750 | 1300 | 1100 | 1100 |
-| VLSFO | 700 | 700 | 1100 | 1100 | 900 |
-| LSMGO | 600 | 600 | 1400 | 1300 | 1100 |
-| **BRENT & WTI OIL PRICE (USD/BBL)** |  |  |  |  |  |
-| Brent | 70 | 70 | 110 | 115 | 90 |
-| WTI | 65 | 65 | 115 | 120 | 90 |
-| **HENRY HUB PRICE (USD/MMBTU)** |  |  |  |  |  |
-| Henry Hub Nat Gas | 5.0 | 4.0 | 7.0 | 9.0 | 9.0 |
-| **COAL & IRON ORE PRICE (USD/T)** |  |  |  |  |  |
-| Steam Coal | 150 | 180 | 400 | 450 | 450 |
-| Iron Ore | 100 | 120 | 150 | 140 | 100 |
-| **STEEL PRICES IN CHINA (RMB/T)** |  |  |  |  |  |
-| Rebar | 5500 | 5000 | 5500 | 4000 | 4000 |
-| Plate | 5500 | 5000 | 5500 | 4000 | 4000 |
-| **WHEAT & CORN PRICES (USD/T)** |  |  |  |  |  |
-| Corn | 600 | 600 | 700 | 600 | 700 |
-| Wheat | 700 | 700 | 1500 | 1000 | 800 |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

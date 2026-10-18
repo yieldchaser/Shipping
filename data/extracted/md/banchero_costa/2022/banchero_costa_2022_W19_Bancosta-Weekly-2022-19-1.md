@@ -216,29 +216,11 @@ Cargoes covered open positions last week, giving owners confidence to reach up t
 | **Med-Med (30k)** | ws | 315.0 | 315.0 | +0.0% | +142.3% |
 | **Black Sea-Med (30k)** | ws | 500.0 | 525.0 | -4.8% | +257.1% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| May-21 | 0 |
-| Sep-21 | 10,000 |
-| Jan-22 | 0 |
-| May-22 | 80,000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| MR ATLANTIC BASKET (usd/day) | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| May-21 | 0 |
-| Sep-21 | 0 |
-| Jan-22 | 20,000 |
-| May-22 | 80,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-| MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| May-21 | 0 |
-| Sep-21 | 10,000 |
-| Jan-22 | 20,000 |
-| May-22 | 60,000 |
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 

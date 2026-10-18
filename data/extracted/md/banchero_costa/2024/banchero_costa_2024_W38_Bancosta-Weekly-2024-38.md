@@ -283,19 +283,9 @@ The reduced number of ships available for prompt delivery is keeping charter rat
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | FREIGHTOS BALTIC CONTAINER INDEX |
-| --- | --- |
-| Sep-23 | 1000 |
-| Jan-24 | 3000 |
-| May-24 | 5000 |
-| Sep-24 | 5000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | FREIGHTOS BALTIC CONTAINER INDEX |
-| --- | --- |
-| Sep-23 | 500 |
-| Jan-24 | 5000 |
-| May-24 | 8000 |
-| Sep-24 | 5000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 38/2024
 
@@ -508,13 +498,7 @@ During the week, Japanese owners were reported to have sold Bright Gemini abt 82
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Date | Henry Hub Nat Gas |
-| --- | --- | --- |
-| **HENRY HUB PRICE (USD/MMBTU)** |  |  |
-| Sep-23 |  | 3.0 |
-| Jan-24 |  | 1.5 |
-| May-24 |  | 2.5 |
-| Sep-24 |  | 2.4 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

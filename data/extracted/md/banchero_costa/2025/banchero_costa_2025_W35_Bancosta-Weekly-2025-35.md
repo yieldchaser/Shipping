@@ -499,13 +499,7 @@ In the bulk sector, the post-panamax **COSTANZA 92,000 dwt 2010 Oshima** built w
 
 **SUPRAMAX FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Aug-24 | 16000 |
-| Feb-25 | 8000 |
-| Aug-25 | 19000 |
-| Feb-26 | 13000 |
-| Aug-26 | 15000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### HANDYSIZE (38k)
 
@@ -522,13 +516,7 @@ In the bulk sector, the post-panamax **COSTANZA 92,000 dwt 2010 Oshima** built w
 
 **HANDYSIZE FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Aug-24 | 14000 |
-| Feb-25 | 6000 |
-| Aug-25 | 14000 |
-| Feb-26 | 10000 |
-| Aug-26 | 12000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # EXCHANGE RATES
 

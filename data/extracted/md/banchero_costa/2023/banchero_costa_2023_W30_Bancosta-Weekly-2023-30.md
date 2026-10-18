@@ -85,22 +85,7 @@ Another week of low rates, mainly driven by a lack of cargoes. Indonesia-China/S
 | **Kamsarmax 1-Y Period** | usd/day | 11,300 | 11,500 | -1.7% | -43.5% |
 | **Panamax 1-Y Period** | usd/day | 9,300 | 9,500 | -2.1% | -46.9% |
 
-| BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY) | BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY) |  |
-| --- | --- | --- |
-| Date | 1-YR TC | BPI 82 TC |
-| Jul-22 | 18000 | 18000 |
-| Aug-22 | 16000 | 12000 |
-| Sep-22 | 16000 | 18000 |
-| Oct-22 | 16000 | 16000 |
-| Nov-22 | 16000 | 8000 |
-| Dec-22 | 17000 | 10000 |
-| Jan-23 | 18000 | 14000 |
-| Feb-23 | 18000 | 16000 |
-| Mar-23 | 18000 | 15000 |
-| Apr-23 | 16000 | 12000 |
-| May-23 | 14000 | 10000 |
-| Jun-23 | 13000 | 9000 |
-| Jul-23 | 12000 | 9000 |
+> **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX & HANDYSIZE MARKET
 

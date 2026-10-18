@@ -554,19 +554,9 @@ In the Handysize segment **MAZURY** 40,000 dwt built 2005 Tianjin Xinggang was s
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Feb-24 | 75 | 75 |
-| Jun-24 | 85 | 70 |
-| Oct-24 | 70 | 65 |
-| Feb-25 | 75 | 70 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Feb-24 | 1.5 |
-| Jun-24 | 2.8 |
-| Oct-24 | 3.5 |
-| Feb-25 | 4.2 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

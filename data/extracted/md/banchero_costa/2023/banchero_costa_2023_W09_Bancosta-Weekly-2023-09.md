@@ -508,12 +508,7 @@ The **HONG KONG SPIRIT** 32,000 dwt 2011 Taizhou was sold for $10.7mln to undisc
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Mar-22 | 4.0 |
-| Jul-22 | 9.0 |
-| Nov-22 | 5.0 |
-| Mar-23 | 2.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

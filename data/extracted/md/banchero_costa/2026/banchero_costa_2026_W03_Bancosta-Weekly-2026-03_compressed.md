@@ -556,19 +556,9 @@ In the bulk sector, the scrubber-fitted newcastlemax **BERGE MOLDOVEANU** 211,06
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Brent | WTI |
-| --- | --- | --- |
-| Jan-25 | 78 | 75 |
-| May-25 | 60 | 55 |
-| Sep-25 | 65 | 58 |
-| Jan-26 | 62 | 58 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Jan-25 | 3.5 |
-| May-25 | 2.8 |
-| Sep-25 | 2.5 |
-| Jan-26 | 3.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
@@ -582,21 +572,11 @@ BUNKER PRICES @ SINGAPORE (USD/T)
 
 BRENT & WTI OIL PRICE (USD/BBL)
 
-| DATE | Brent | WTI |
-| --- | --- | --- |
-| Jan-25 | 78 | 75 |
-| May-25 | 60 | 55 |
-| Sep-25 | 65 | 58 |
-| Jan-26 | 62 | 58 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 HENRY HUB PRICE (USD/MMBTU)
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Jan-25 | 3.5 |
-| May-25 | 2.8 |
-| Sep-25 | 2.5 |
-| Jan-26 | 3.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 COAL & IRON ORE PRICE (USD/T)
 

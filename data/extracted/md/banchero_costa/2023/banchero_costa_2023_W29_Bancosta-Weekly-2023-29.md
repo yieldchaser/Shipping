@@ -509,12 +509,7 @@ In a press release Imperial Petroleum reported the sale of the LR2 STEALTH BERAN
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Jul-22 | \~8.0 |
-| Nov-22 | \~2.5 |
-| Mar-23 | \~2.5 |
-| Jul-23 | \~2.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

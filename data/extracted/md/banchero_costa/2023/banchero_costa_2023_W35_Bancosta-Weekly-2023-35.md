@@ -509,13 +509,7 @@ Turkish buyers were reported to be behind the purchase of Santa Lucia 176,000 dw
 | **LNG TTF Netherlands** | usd/mmbtu | 11.27 | 11.14 | +1.2% | -87.4% |
 | **LNG North East Asia** | usd/mmbtu | 13.00 | 13.00 | +0.0% | -81.6% |
 
-| HENRY HUB PRICE (USD/MMBTU) | HENRY HUB PRICE (USD/MMBTU) |
-| --- | --- |
-| Date | Henry Hub Nat Gas |
-| Sep-22 | 9.0 |
-| Jan-23 | 2.5 |
-| May-23 | 2.5 |
-| Sep-23 | 2.5 |
+> **Chart (not transcribed):** HENRY HUB PRICE (USD/MMBTU). The report prints no values for it.
 
 ## COAL
 

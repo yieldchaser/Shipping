@@ -243,37 +243,9 @@ After a steady period, Handy rates in Cont started increasing a bit, with levels
 | **DIRTY** | **Med-Med (30k)** | ws | 175.0 | 175.0 | +0.0% | -42.2% |
 | **DIRTY** | **Black Sea-Med (30k)** | ws | 185.0 | 185.0 | +0.0% | -47.1% |
 
-| Date | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Oct-23 | 40000 |
-| Nov-23 | 50000 |
-| Dec-23 | 30000 |
-| Jan-24 | 60000 |
-| Feb-24 | 100000 |
-| Mar-24 | 80000 |
-| Apr-24 | 70000 |
-| May-24 | 60000 |
-| Jun-24 | 50000 |
-| Jul-24 | 40000 |
-| Aug-24 | 35000 |
-| Sep-24 | 30000 |
-| Oct-24 | 25000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Oct-23 | 20000 |
-| Nov-23 | 30000 |
-| Dec-23 | 60000 |
-| Jan-24 | 40000 |
-| Feb-24 | 45000 |
-| Mar-24 | 35000 |
-| Apr-24 | 40000 |
-| May-24 | 30000 |
-| Jun-24 | 40000 |
-| Jul-24 | 35000 |
-| Aug-24 | 25000 |
-| Sep-24 | 20000 |
-| Oct-24 | 18000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
@@ -309,12 +281,7 @@ Reduce activity was noticeable, particularly in the Panamax segment and in the 2
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Oct-23 | 10000 | 10000 | 8000 |
-| Feb-24 | 15000 | 14000 | 10000 |
-| Jun-24 | 30000 | 20000 | 13000 |
-| Oct-24 | 28000 | 20000 | 13000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

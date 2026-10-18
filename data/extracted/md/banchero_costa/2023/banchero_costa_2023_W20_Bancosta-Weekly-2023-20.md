@@ -488,41 +488,29 @@ Greek buyers purchased the Xin Han 82,000 dwt 2013 built Dalian (Tier 2, BWTS fi
 |  | **Palm Oil Malaysia** | usd/t | 810.3 | 858.5 | -5.6% | -49.4% |
 |  | **Ferts Urea Middle East** | usd/t | 357.5 | 357.5 | +0.0% | -50.5% |
 
-| Category | Item | Unit | 19-May | 12-May | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **COAL & IRON ORE PRICE (USD/T)** |  |  |  |  |  |  |
-|  | **Steam Coal** |  | 400 | 450 | 400 | 150 |
-|  | **Iron Ore** |  | 150 | 120 | 110 | 100 |
+### COAL & IRON ORE PRICE (USD/T)
 
-| Category | Item | Unit | 19-May | 12-May | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **STEEL PRICES IN CHINA (RMB/T)** |  |  |  |  |  |  |
-|  | **HRC** |  | 5000 | 4000 | 4200 | 3800 |
-|  | **Plate** |  | 5000 | 4000 | 4400 | 3800 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Item | Unit | 19-May | 12-May | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **BUNKER PRICES @ SINGAPORE (USD/T)** |  |  |  |  |  |  |
-|  | **IFO380** |  | 600 | 450 | 400 | 300 |
-|  | **VLSFO** |  | 900 | 700 | 600 | 500 |
-|  | **LSMGO** |  | 1200 | 800 | 700 | 600 |
+### STEEL PRICES IN CHINA (RMB/T)
 
-| Category | Item | Unit | 19-May | 12-May | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **BRENT & WTI OIL PRICE (USD/BBL)** |  |  |  |  |  |  |
-|  | **Brent** |  | 110 | 80 | 75 | 70 |
-|  | **WTI** |  | 115 | 85 | 78 | 72 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Item | Unit | 19-May | 12-May | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **HENRY HUB PRICE (USD/MMBTU)** |  |  |  |  |  |  |
-|  | **Henry Hub Nat Gas** |  | 8.0 | 3.0 | 2.5 | 2.0 |
+### BUNKER PRICES @ SINGAPORE (USD/T)
 
-| Category | Item | Unit | 19-May | 12-May | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **WHEAT & CORN PRICES (USD/T)** |  |  |  |  |  |  |
-|  | **Corn** |  | 800 | 700 | 700 | 650 |
-|  | **Wheat** |  | 1100 | 750 | 750 | 700 |
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 20/2023
 

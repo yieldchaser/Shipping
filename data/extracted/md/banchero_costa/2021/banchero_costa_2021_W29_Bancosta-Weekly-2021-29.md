@@ -425,21 +425,7 @@ DERIVATIVES MARKET REPORT – WEEK 29/2021 11
 
 **SUPRAMAX FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Jul-20 | 8000 |
-| Aug-20 | 10000 |
-| Jan-21 | 15000 |
-| Feb-21 | 20000 |
-| Mar-21 | 25000 |
-| Apr-21 | 30000 |
-| May-21 | 35000 |
-| Jun-21 | 36000 |
-| Jul-21 | 33000 |
-| Aug-21 | 30000 |
-| Jan-22 | 18000 |
-| Feb-22 | 19000 |
-| Jul-22 | 19000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### HANDYSIZE (38k)
 
@@ -454,21 +440,7 @@ DERIVATIVES MARKET REPORT – WEEK 29/2021 11
 
 **HANDYSIZE FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Jul-20 | 10000 |
-| Aug-20 | 10000 |
-| Jan-21 | 15000 |
-| Feb-21 | 20000 |
-| Mar-21 | 25000 |
-| Apr-21 | 30000 |
-| May-21 | 32000 |
-| Jun-21 | 32000 |
-| Jul-21 | 30000 |
-| Aug-21 | 25000 |
-| Jan-22 | 18000 |
-| Feb-22 | 18000 |
-| Jul-22 | 18000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # INTEREST RATES / CURRENCIES
 

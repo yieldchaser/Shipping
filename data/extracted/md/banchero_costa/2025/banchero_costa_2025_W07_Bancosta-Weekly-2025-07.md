@@ -569,19 +569,9 @@ In the dry bulk segment, SENTOSA CHALLENGER 81,600 dwt 2020 Imabari built (SS an
 | Palm Oil Malaysia |  | usd/t | 1059.8 | 1077.8 | -1.7% | +28.8% |
 | Ferts Urea Middle East |  | usd/t | 345.5 | 345.5 | +0.0% | -14.7% |
 
-| Date | IFO380 | VLSFO | LSMGO |
-| --- | --- | --- | --- |
-| Feb-24 | 700 | 700 | 800 |
-| Jun-24 | 750 | 700 | 750 |
-| Oct-24 | 600 | 600 | 700 |
-| Feb-25 | 700 | 600 | 750 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Feb-24 | 80 | 75 |
-| Jun-24 | 85 | 70 |
-| Oct-24 | 70 | 65 |
-| Feb-25 | 75 | 70 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

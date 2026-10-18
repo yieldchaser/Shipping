@@ -508,30 +508,15 @@ On 45,000 mt cross-Med rates were at around WS 250, whilst ARA-UKC was seen fail
 
 ## Chart 2: MR ATLANTIC BASKET (usd/day)
 
-| Date | Value |
-| --- | --- |
-| Oct-25 | 30,000 |
-| Feb-26 | 40,000 |
-| Jun-26 | 30,000 |
-| Oct-26 | 60,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## Chart 3: MR PACIFIC BASKET (usd/day)
 
-| Date | Value |
-| --- | --- |
-| Oct-25 | 20,000 |
-| Feb-26 | 30,000 |
-| Jun-26 | 25,000 |
-| Oct-26 | 90,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## Chart 4: 1 YR TC PERIOD (USD/DAY)
 
-| Date | LR2 | MR2 |
-| --- | --- | --- |
-| Oct-25 | 30,000 | 20,000 |
-| Feb-26 | 45,000 | 25,000 |
-| Jun-26 | 60,000 | 30,000 |
-| Oct-26 | 100,000 | 35,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 The container charter market remained stable during Week 40, with limited tonnage availability continuing to support rates.
 
@@ -794,13 +779,7 @@ A couple of sales to report this week including the U-Ming of Taiwan controlled 
 
 # SUPRAMAX FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Oct-25 | 15000 |
-| Apr-26 | 20000 |
-| Oct-26 | 23000 |
-| Apr-27 | 17000 |
-| Oct-27 | 17000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 

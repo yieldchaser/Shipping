@@ -239,22 +239,7 @@ In the Americas rates for 70,000 mt USG-UKCM jumped up to WS217.5 level. East of
 
 > **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-| MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Feb-22 | 5,000 |
-| Mar-22 | 15,000 |
-| Apr-22 | 40,000 |
-| May-22 | 70,000 |
-| Jun-22 | 50,000 |
-| Jul-22 | 30,000 |
-| Aug-22 | 55,000 |
-| Sep-22 | 60,000 |
-| Oct-22 | 50,000 |
-| Nov-22 | 60,000 |
-| Dec-22 | 25,000 |
-| Jan-23 | 40,000 |
-| Feb-23 | 40,000 |
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
@@ -335,12 +320,7 @@ Hyundai Mipo received an order for 4 x MRs from Nissen Kaiun. Vessel are priced 
 | **LR2 Coated** | usd mln | 60.2 | 60.3 | -0.2% | +4.0% |
 | **MR2 Coated** | usd mln | 39.7 | 39.7 | -0.1% | +6.1% |
 
-| Date | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Feb-22 | 35 | 68 | 38 |
-| Jun-22 | 34 | 70 | 39 |
-| Oct-22 | 33 | 70 | 39 |
-| Feb-23 | 33 | 70 | 39 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 

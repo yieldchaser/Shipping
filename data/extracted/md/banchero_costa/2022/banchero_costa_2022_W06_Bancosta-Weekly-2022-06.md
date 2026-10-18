@@ -305,12 +305,7 @@ Due to limited tonnage and the impact of the Lunar New Year, the last two weeks 
 | **Europe - ECSA** | usd/feu | 3,856 | 3,856 | +0.0% | +314.2% |
 | **Europe - WCSA** | usd/feu | 8,399 | 8,399 | +0.0% | +241.7% |
 
-| DATE | FBX |
-| --- | --- |
-| Feb-21 | 4,000 |
-| Jun-21 | 8,000 |
-| Oct-21 | 10,000 |
-| Feb-22 | 10,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
@@ -515,12 +510,7 @@ IMC is reported to have sold to COSCO at undisclosed levels 4 x Oshima Ultramaxe
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Feb-21 | 60 | 58 |
-| Jun-21 | 75 | 75 |
-| Oct-21 | 85 | 85 |
-| Feb-22 | 90 | 95 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

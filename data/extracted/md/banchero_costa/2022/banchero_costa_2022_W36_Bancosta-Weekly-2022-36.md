@@ -513,19 +513,9 @@ The Handy tanker BALTIC MONARCH 37,000 dwt built 2006 HMD (ice class 1B) got sol
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Date | Henry Hub Nat Gas |
-| --- | --- | --- |
-| HENRY HUB PRICE (USD/MMBTU) | Sep-21 | 5.0 |
-|  | Jan-22 | 4.0 |
-|  | May-22 | 8.0 |
-|  | Sep-22 | 9.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Date | Steam Coal | Iron Ore |
-| --- | --- | --- | --- |
-| COAL & IRON ORE PRICE (USD/T) | Sep-21 | 150 | 100 |
-|  | Jan-22 | 180 | 100 |
-|  | May-22 | 400 | 120 |
-|  | Sep-22 | 450 | 100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

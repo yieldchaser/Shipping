@@ -551,17 +551,26 @@ In the bulk sector, the capesize vessel **SQUIRESHIP 170,022 dwt 2010** Namura b
 | **AGRICULTURAL** | Sugar ICE N.11 | usc/lb | 15.70 | 14.37 | +9.3% | -18.2% |
 | **AGRICULTURAL** | Palm Oil Malaysia | usd/t | 1164.3 | 1153.0 | +1.0% | +10.1% |
 
-| Category | Item | Unit | 20-Mar | 13-Mar | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **BUNKER PRICES @ SINGAPORE (USD/T)** | IFO380 |  | 600 | 600 | 600 | 1800 |
-| **BUNKER PRICES @ SINGAPORE (USD/T)** | VLSFO |  | 600 | 600 | 600 | 1000 |
-| **BUNKER PRICES @ SINGAPORE (USD/T)** | LSMGO |  | 600 | 600 | 600 | 1900 |
-| **BRENT & WTI OIL PRICE (USD/BBL)** | Brent |  | 60 | 70 | 110 | 115 |
-| **BRENT & WTI OIL PRICE (USD/BBL)** | WTI |  | 65 | 60 | 100 | 105 |
-| **HENRY HUB PRICE (USD/MMBTU)** | Henry Hub Nat Gas |  | 3.5 | 3.0 | 5.0 | 3.0 |
-| **COAL & IRON ORE PRICE (USD/T)** | Steam Coal |  | 90 | 110 | 100 | 120 |
-| **COAL & IRON ORE PRICE (USD/T)** | Iron Ore |  | 100 | 105 | 105 | 105 |
-| **STEEL PRICES IN CHINA (RMB/T)** | HRC |  | 2900 | 3000 | 3100 | 3050 |
-| **STEEL PRICES IN CHINA (RMB/T)** | Plate |  | 3350 | 3400 | 3350 | 3350 |
-| **WHEAT & CORN PRICES (USD/T)** | Corn |  | 450 | 380 | 420 | 450 |
-| **WHEAT & CORN PRICES (USD/T)** | Wheat |  | 550 | 500 | 500 | 600 |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.

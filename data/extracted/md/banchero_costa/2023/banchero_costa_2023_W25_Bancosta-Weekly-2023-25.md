@@ -526,12 +526,7 @@ After a quiet week, s&p activity returns to normal with several ships reported s
 
 ### DATE
 
-| Harry Hub Nat Gas | HENRY HUB PRICE (USD/MMBTU) |
-| --- | --- |
-| Jun-22 | 6.0 |
-| Oct-22 | 9.0 |
-| Feb-23 | 2.5 |
-| Jun-23 | 2.8 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### DATE
 

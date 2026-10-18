@@ -398,20 +398,7 @@ In the Bulk sector, Chinese yard Hengli H.I. secured an order from undisclosed G
 | **LR2 Coated** | usd mln | 68.3 | 68.3 | -0.0% | -1.5% |
 | **MR2 Coated** | usd mln | 44.3 | 44.3 | +0.0% | -2.5% |
 
-| Category | Date | Value |
-| --- | --- | --- |
-| Kamsarmax | Sep-24 | 80 |
-| Kamsarmax | Jan-25 | 80 |
-| Kamsarmax | May-25 | 35 |
-| Kamsarmax | Sep-25 | 35 |
-| Suezmax | Sep-24 | 82 |
-| Suezmax | Jan-25 | 82 |
-| Suezmax | May-25 | 82 |
-| Suezmax | Sep-25 | 82 |
-| MR | Sep-24 | 45 |
-| MR | Jan-25 | 45 |
-| MR | May-25 | 45 |
-| MR | Sep-25 | 45 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 
@@ -600,12 +587,7 @@ In the Newcastlemax market, BULK SHENZHEN 208,000 DWT, 2020 New Times built, was
 | LNG TTF Netherlands | usd/mmbtu | 11.18 | 11.11 | +0.6% | -0.8% |
 | LNG North East Asia | usd/mmbtu | 11.20 | 11.50 | -2.6% | -14.5% |
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Sep-24 | 2.5 |
-| Jan-25 | 4.5 |
-| May-25 | 3.0 |
-| Sep-25 | 3.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## COAL
 
@@ -616,12 +598,7 @@ In the Newcastlemax market, BULK SHENZHEN 208,000 DWT, 2020 New Times built, was
 | Steam Coal Newcastle | usd/t | 102.2 | 102.2 | +0.0% | -25.4% |
 | Coking Coal Australia SGX | usd/t | 187.0 | 187.0 | +0.0% | +2.7% |
 
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Sep-24 | 150 | 100 |
-| Jan-25 | 120 | 100 |
-| May-25 | 100 | 100 |
-| Sep-25 | 100 | 100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed):** STEEL PRICES IN CHINA (RMB/T). The report prints no values for it.
 

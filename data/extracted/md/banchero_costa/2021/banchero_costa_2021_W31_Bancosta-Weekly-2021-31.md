@@ -380,13 +380,7 @@ DERIVATIVES MARKET REPORT – WEEK 31/2021 11
 
 **CAPESIZE FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Aug-20 | 20000 |
-| Feb-21 | 15000 |
-| Aug-21 | 40000 |
-| Feb-22 | 15000 |
-| Aug-22 | 22000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### PANAMAX (82k)
 
@@ -401,13 +395,7 @@ DERIVATIVES MARKET REPORT – WEEK 31/2021 11
 
 **PANAMAX FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Aug-20 | 10000 |
-| Feb-21 | 20000 |
-| Aug-21 | 38000 |
-| Feb-22 | 20000 |
-| Aug-22 | 22000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### SUPRAMAX (58k)
 
@@ -512,62 +500,29 @@ DERIVATIVES MARKET REPORT – WEEK 31/2021 11
 | Sugar ICE N.11 |  | usc/lb | 18.68 | 17.91 | +4.3% | +47.8% |
 | Palm Oil Malaysia |  | usd/t | 1072.0 | 1103.0 | -2.8% | +63.6% |
 
-| Category | Item | Date | Price (USD/T) |
-| --- | --- | --- | --- |
-| **BUNKER PRICES @ SINGAPORE (USD/T)** |  |  |  |
-| IFO380 | Aug-20 | 350 | 380 |
-| IFO380 | Dec-20 | 320 | 400 |
-| IFO380 | Apr-21 | 550 | 580 |
-| IFO380 | Aug-21 | 580 | 590 |
-| VLSFO | Aug-20 | 380 | 400 |
-| VLSFO | Dec-20 | 350 | 420 |
-| VLSFO | Apr-21 | 560 | 570 |
-| VLSFO | Aug-21 | 570 | 580 |
-| LSMGO | Aug-20 | 360 | 390 |
-| LSMGO | Dec-20 | 340 | 410 |
-| LSMGO | Apr-21 | 570 | 600 |
-| LSMGO | Aug-21 | 590 | 600 |
-| **BRENT & WTI OIL PRICE (USD/BBL)** |  |  |  |
-| Brent | Aug-20 | 40 | 42 |
-| Brent | Dec-20 | 45 | 48 |
-| Brent | Apr-21 | 65 | 70 |
-| Brent | Aug-21 | 72 | 75 |
-| WTI | Aug-20 | 42 | 44 |
-| WTI | Dec-20 | 48 | 52 |
-| WTI | Apr-21 | 68 | 72 |
-| WTI | Aug-21 | 75 | 78 |
-| **HENRY HUB NAT GAS PRICE (USD/MMBTU)** |  |  |  |
-| Henry Hub Nat Gas | Aug-20 | 2.0 | 2.2 |
-| Henry Hub Nat Gas | Dec-20 | 2.5 | 2.8 |
-| Henry Hub Nat Gas | Apr-21 | 2.8 | 5.8 |
-| Henry Hub Nat Gas | Aug-21 | 3.5 | 4.2 |
-| **COAL & IRON ORE PRICE (USD/T)** |  |  |  |
-| Steam Coal | Aug-20 | 40 | 45 |
-| Steam Coal | Dec-20 | 70 | 80 |
-| Steam Coal | Apr-21 | 85 | 140 |
-| Steam Coal | Aug-21 | 150 | 160 |
-| Iron Ore | Aug-20 | 90 | 100 |
-| Iron Ore | Dec-20 | 110 | 130 |
-| Iron Ore | Apr-21 | 150 | 180 |
-| Iron Ore | Aug-21 | 170 | 185 |
-| **STEEL PRICES IN CHINA (RMB/T)** |  |  |  |
-| Rebar | Aug-20 | 3800 | 4000 |
-| Rebar | Dec-20 | 4000 | 4200 |
-| Rebar | Apr-21 | 4800 | 5500 |
-| Rebar | Aug-21 | 5600 | 5800 |
-| Plate | Aug-20 | 3800 | 4000 |
-| Plate | Dec-20 | 4000 | 4300 |
-| Plate | Apr-21 | 5000 | 6200 |
-| Plate | Aug-21 | 5700 | 5800 |
-| **WHEAT & CORN PRICES (USD/T)** |  |  |  |
-| Corn | Aug-20 | 300 | 350 |
-| Corn | Dec-20 | 400 | 500 |
-| Corn | Apr-21 | 550 | 600 |
-| Corn | Aug-21 | 520 | 580 |
-| Wheat | Aug-20 | 500 | 550 |
-| Wheat | Dec-20 | 600 | 650 |
-| Wheat | Apr-21 | 750 | 780 |
-| Wheat | Aug-21 | 650 | 680 |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB NAT GAS PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS

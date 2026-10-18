@@ -233,15 +233,7 @@ Still 1 (vs 1) VLCC and 2 (vs 2) Suezmaxes waiting off China laden for more than
 | **Med-Med (30k)** | ws | 175.0 | 180.0 | -2.8% | -28.6% |
 | **Black Sea-Med (30k)** | ws | 300.0 | 360.0 | -16.7% | -40.0% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Apr-23 | 40000 |
-| Jun-23 | 35000 |
-| Aug-23 | 30000 |
-| Oct-23 | 45000 |
-| Dec-23 | 100000 |
-| Apr-24 | 40000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
@@ -347,18 +339,7 @@ Last week's sale of the Sinokor Container Vessel in excess of $600 LT/LDT seems 
 | **Tnk India** | usd/ldt | 509.8 | 504.7 | +1.0% | -11.0% |
 | **Tnk Bangladesh** | usd/ldt | 533.1 | 532.9 | +0.0% | +3.9% |
 
-| Category | Price (USD/LDT) |
-| --- | --- |
-| Dry Bulk | 570 |
-| Dry Bulk | 560 |
-| Dry Bulk | 550 |
-| Dry Bulk | 540 |
-| Dry Bulk | 530 |
-| Tanker | 575 |
-| Tanker | 565 |
-| Tanker | 555 |
-| Tanker | 545 |
-| Tanker | 535 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 15/2024
 

@@ -368,12 +368,7 @@ In the LNG segment, Danish based company Celsius Shipping placed an order for 1 
 | **LR2 Coated** | usd mln | 69.8 | 69.8 | -0.0% | +9.5% |
 | **MR2 Coated** | usd mln | 44.7 | 44.8 | -0.3% | +5.9% |
 
-| Time | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Jan-24 | 36 | 78 | 43 |
-| May-24 | 37 | 80 | 44 |
-| Sep-24 | 37 | 81 | 45 |
-| Jan-25 | 37 | 80 | 45 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 

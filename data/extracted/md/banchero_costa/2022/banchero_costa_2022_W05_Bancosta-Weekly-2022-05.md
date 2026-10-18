@@ -448,19 +448,7 @@ DERIVATIVES MARKET REPORT – WEEK 05/2022 12
 | Q3 22 | usd/day | 24,025 | 23,313 | +3.1% | +34.1% |
 | Q4 22 | usd/day | 21,838 | 21,188 | +3.1% | +21.9% |
 
-| Date | Value |
-| --- | --- |
-| Feb-21 | 12000 |
-| Apr-21 | 35000 |
-| Jun-21 | 40000 |
-| Aug-21 | 40000 |
-| Oct-21 | 15000 |
-| Feb-22 | 20000 |
-| Apr-22 | 26000 |
-| Jun-22 | 24000 |
-| Aug-22 | 23000 |
-| Oct-22 | 22000 |
-| Feb-23 | 21000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # EXCHANGE RATES
 
@@ -471,15 +459,7 @@ DERIVATIVES MARKET REPORT – WEEK 05/2022 12
 | KRW/USD | 1,198 | 1,193 | +0.5% | +7.0% |
 | CNY/USD | 6.4 | 6.3 | +0.3% | -1.7% |
 
-| Date | Value |
-| --- | --- |
-| Feb-21 | 105 |
-| Apr-21 | 110 |
-| Jun-21 | 110 |
-| Aug-21 | 110 |
-| Oct-21 | 115 |
-| Dec-21 | 115 |
-| Feb-22 | 115 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES MARKET REPORT – WEEK 05/2022
 

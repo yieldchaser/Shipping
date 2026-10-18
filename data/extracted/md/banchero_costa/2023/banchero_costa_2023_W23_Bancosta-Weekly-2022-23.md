@@ -292,19 +292,9 @@ The market was still showing an activity slowdown and a little more units availa
 | **Med - China** | usd/feu | 442 | 443 | -0.2% | -66.6% |
 | **ECNA - Europe** | usd/feu | 416 | 356 | +16.9% | -14.6% |
 
-| Date | FBX |
-| --- | --- |
-| Jun-22 | 7500 |
-| Oct-22 | 2500 |
-| Feb-23 | 1500 |
-| Jun-23 | 1000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | China - N. Europe | N. Europe - China |
-| --- | --- | --- |
-| Jun-22 | 11000 | 500 |
-| Oct-22 | 3000 | 200 |
-| Feb-23 | 1000 | 100 |
-| Jun-23 | 500 | 100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 23/2023
 

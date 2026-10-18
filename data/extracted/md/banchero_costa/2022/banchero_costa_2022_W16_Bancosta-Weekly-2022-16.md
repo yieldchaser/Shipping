@@ -236,16 +236,7 @@ After several weeks of a stable/negative trend, the Far East market began to slo
 
 > **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| MR ATLANTIC BASKET (usd/day) | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Apr-21 | 5000 |
-| Jun-21 | 2000 |
-| Aug-21 | 1000 |
-| Oct-21 | 15000 |
-| Dec-21 | 20000 |
-| Feb-22 | 60000 |
-| Apr-22 | 20000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
@@ -516,30 +507,15 @@ On wet, 3 aframaxes reported sold: Silver 107,507 dwt Blt 2010 Tsuneishi reporte
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Apr-21 | 60 | 60 |
-| Aug-21 | 70 | 70 |
-| Dec-21 | 80 | 80 |
-| Apr-22 | 110 | 110 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Apr-21 | 2.5 |
-| Aug-21 | 5.5 |
-| Dec-21 | 3.5 |
-| Apr-22 | 7.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Corn | Wheat |
-| --- | --- | --- |
-| Apr-21 | 700 | 700 |
-| Aug-21 | 700 | 700 |
-| Dec-21 | 750 | 800 |
-| Apr-22 | 800 | 1100 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITIES
 # COMMODITY NEWS – DRY BULK

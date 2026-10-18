@@ -172,19 +172,19 @@ Tubarao–Qingdao slipped 25 cents/wmt to USD 42.00/wmt on 14 September and 15 c
 
 | CAPESIZE | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| BCI 182 TC Average | usd/day | 52,315 | 55,139 | -5.1+/-% | +63.4+/-% |
-| C2 Tubarao- Rotterdam | usd/t | 19.59 | 19.69 | -0.5+/-% | +53.3+/-% |
-| C3 Tubarao - Qingdao | usd/t | 42.96 | 42.12 | +2.0+/-% | +75.2+/-% |
-| C5 W. Aust. - Qingdao | usd/t | 16.58 | 17.85 | -7.1+/-% | +51.3+/-% |
-| C7 Bolivar-Rotterdam | usd/t | 23.13 | 23.46 | -1.4+/-% | +58.9+/-% |
-| C17 S.Africa-China | usd/day | 31.66 | 31.47 | +0.6+/-% | +69.8+/-% |
-| C8 Transatlantic r/v | usd/day | 54,750 | 56,313 | -2.8+/-% | +91.9+/-% |
-| C9 Fronthaul | usd/day | 87,333 | 87,611 | -0.3+/-% | +78.9+/-% |
-| C10 Pacific r/v | usd/day | 50,341 | 57,379 | -12.3+/-% | +66.7+/-% |
-| C14 China-Brazil r/v | usd/day | 51,379 | 50,773 | +1.2+/-% | +99.3+/-% |
-| C16 Backhaul | usd/day | 21,778 | 23,722 | -8.2+/-% | +157.7+/-% |
-| Newcastlemax 1-Y Period | usd/day | 47,000 | 48,750 | -3.6+/-% | +74.7+/-% |
-| Capesize 1-Y Period | usd/day | 42,000 | 43,500 | -3.4+/-% | +75.0+/-% |
+| BCI 182 TC Average | usd/day | 52,315 | 55,139 | -5.1% | +63.4% |
+| C2 Tubarao- Rotterdam | usd/t | 19.59 | 19.69 | -0.5% | +53.3% |
+| C3 Tubarao - Qingdao | usd/t | 42.96 | 42.12 | +2.0% | +75.2% |
+| C5 W. Aust. - Qingdao | usd/t | 16.58 | 17.85 | -7.1% | +51.3% |
+| C7 Bolivar-Rotterdam | usd/t | 23.13 | 23.46 | -1.4% | +58.9% |
+| C17 S.Africa-China | usd/day | 31.66 | 31.47 | +0.6% | +69.8% |
+| C8 Transatlantic r/v | usd/day | 54,750 | 56,313 | -2.8% | +91.9% |
+| C9 Fronthaul | usd/day | 87,333 | 87,611 | -0.3% | +78.9% |
+| C10 Pacific r/v | usd/day | 50,341 | 57,379 | -12.3% | +66.7% |
+| C14 China-Brazil r/v | usd/day | 51,379 | 50,773 | +1.2% | +99.3% |
+| C16 Backhaul | usd/day | 21,778 | 23,722 | -8.2% | +157.7% |
+| Newcastlemax 1-Y Period | usd/day | 47,000 | 48,750 | -3.6% | +74.7% |
+| Capesize 1-Y Period | usd/day | 42,000 | 43,500 | -3.4% | +75.0% |
 
 > **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
@@ -204,15 +204,15 @@ Richards Bay/Paradip led the gains, rising to USD 25.60/mt.
 
 | PANAMAX | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| BPI 82 TC Average | usd/day | 20,262 | 21,662 | -6.5+/-% | +19.7+/-% |
-| P1A_82 Transatlantic r/v | usd/day | 18,859 | 20,077 | -6.1+/-% | -6.8+/-% |
-| P2A_82 Skaw-Gib - F. East | usd/day | 29,598 | 30,703 | -3.6+/-% | +9.4+/-% |
-| P3A_82 Pacific r/v | usd/day | 20,400 | 22,163 | -8.0+/-% | +40.8+/-% |
-| P4_82 Far East - Skaw-Gib | usd/day | 12,955 | 13,288 | -2.5+/-% | +52.4+/-% |
-| P5_82 China - Indo rv | usd/day | 19,461 | 20,244 | -3.9+/-% | +43.7+/-% |
-| P6_82 Spore Atlantic rv | usd/day | 20,640 | 22,343 | -7.6+/-% | +32.0+/-% |
-| Kamsarmax 1-Y Period | usd/day | 19,500 | 21,500 | -9.3+/-% | +31.8+/-% |
-| Panamax 1-Y Period | usd/day | 18,250 | 18,250 | +0.0+/-% | +35.2+/-% |
+| BPI 82 TC Average | usd/day | 20,262 | 21,662 | -6.5% | +19.7% |
+| P1A_82 Transatlantic r/v | usd/day | 18,859 | 20,077 | -6.1% | -6.8% |
+| P2A_82 Skaw-Gib - F. East | usd/day | 29,598 | 30,703 | -3.6% | +9.4% |
+| P3A_82 Pacific r/v | usd/day | 20,400 | 22,163 | -8.0% | +40.8% |
+| P4_82 Far East - Skaw-Gib | usd/day | 12,955 | 13,288 | -2.5% | +52.4% |
+| P5_82 China - Indo rv | usd/day | 19,461 | 20,244 | -3.9% | +43.7% |
+| P6_82 Spore Atlantic rv | usd/day | 20,640 | 22,343 | -7.6% | +32.0% |
+| Kamsarmax 1-Y Period | usd/day | 19,500 | 21,500 | -9.3% | +31.8% |
+| Panamax 1-Y Period | usd/day | 18,250 | 18,250 | +0.0% | +35.2% |
 
 > **Chart (not transcribed):** BPI 82 TC & KAMSARMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
@@ -248,26 +248,26 @@ On Ultramaxes/Supramaxes the week ended at the usual slow pace, but Asia improve
 
 | SUPRAMAX | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| BSI 63 TC Avg. (S11TC) | usd/day | 22,332 | 21,728 | +2.8+/-% | +18.4+/-% |
-| BSI 63 Asia TC Avg. (S3TC_63) | usd/day | 20,802 | 19,861 | +4.7+/-% | +23.8+/-% |
-| S4A USG-Skaw/Pass | usd/day | 32,763 | 33,100 | -1.0+/-% | -0.2+/-% |
-| S1C USG-China/S Jpn | usd/day | 33,331 | 33,694 | -1.1+/-% | +6.3+/-% |
-| S9 WAF-ECSA-Med | usd/day | 22,838 | 22,469 | +1.6+/-% | +27.0+/-% |
-| S1B Canakkale-FEast | usd/day | 25,621 | 24,671 | +3.9+/-% | +24.2+/-% |
-| S2 N China Aus/Pac RV | usd/day | 20,919 | 19,988 | +4.7+/-% | +25.0+/-% |
-| S10 S China-Indo RV | usd/day | 16,206 | 15,869 | +2.1+/-% | +11.8+/-% |
-| Ultramax 1-Y Period | usd/day | 20,000 | 20,000 | +0.0+/-% | +37.9+/-% |
-| Supramax 1-Y Period | usd/day | 17,000 | 17,000 | +0.0+/-% | +27.8+/-% |
+| BSI 63 TC Avg. (S11TC) | usd/day | 22,332 | 21,728 | +2.8% | +18.4% |
+| BSI 63 Asia TC Avg. (S3TC_63) | usd/day | 20,802 | 19,861 | +4.7% | +23.8% |
+| S4A USG-Skaw/Pass | usd/day | 32,763 | 33,100 | -1.0% | -0.2% |
+| S1C USG-China/S Jpn | usd/day | 33,331 | 33,694 | -1.1% | +6.3% |
+| S9 WAF-ECSA-Med | usd/day | 22,838 | 22,469 | +1.6% | +27.0% |
+| S1B Canakkale-FEast | usd/day | 25,621 | 24,671 | +3.9% | +24.2% |
+| S2 N China Aus/Pac RV | usd/day | 20,919 | 19,988 | +4.7% | +25.0% |
+| S10 S China-Indo RV | usd/day | 16,206 | 15,869 | +2.1% | +11.8% |
+| Ultramax 1-Y Period | usd/day | 20,000 | 20,000 | +0.0% | +37.9% |
+| Supramax 1-Y Period | usd/day | 17,000 | 17,000 | +0.0% | +27.8% |
 
 | HANDYSIZE | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| BHSI 38 TC Average | usd/day | 17,776 | 16,925 | +5.0+/-% | +22.0+/-% |
-| HS2_38 Skaw/Pass-US | usd/day | 12,700 | 12,164 | +4.4+/-% | +5.9+/-% |
-| HS3_38 ECSAm-Skaw/Pass | usd/day | 25,167 | 24,222 | +3.9+/-% | +13.1+/-% |
-| HS4_38 USG-Skaw/Pass | usd/day | 24,000 | 18,779 | +27.8+/-% | +19.3+/-% |
-| HS5_38 SE Asia-Spore/Jpn | usd/day | 18,044 | 18,250 | -1.1+/-% | +31.1+/-% |
-| HS6_38 Pacific RV | usd/day | 17,244 | 17,275 | -0.2+/-% | +34.3+/-% |
-| 38k Handy 1-Y Period | usd/day | 17,000 | 16,500 | +3.0+/-% | +30.8+/-% |
+| BHSI 38 TC Average | usd/day | 17,776 | 16,925 | +5.0% | +22.0% |
+| HS2_38 Skaw/Pass-US | usd/day | 12,700 | 12,164 | +4.4% | +5.9% |
+| HS3_38 ECSAm-Skaw/Pass | usd/day | 25,167 | 24,222 | +3.9% | +13.1% |
+| HS4_38 USG-Skaw/Pass | usd/day | 24,000 | 18,779 | +27.8% | +19.3% |
+| HS5_38 SE Asia-Spore/Jpn | usd/day | 18,044 | 18,250 | -1.1% | +31.1% |
+| HS6_38 Pacific RV | usd/day | 17,244 | 17,275 | -0.2% | +34.3% |
+| 38k Handy 1-Y Period | usd/day | 17,000 | 16,500 | +3.0% | +30.8% |
 
 > **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
 
@@ -289,40 +289,40 @@ The Eastern market kept rising dramatically, up to the WS 800 level for 270,000 
 
 | VLCC | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| TD2 AG-Singapore | ws | 1112.8 | 825.0 | +34.9+/-% | +936.9+/-% |
-| TD3C AG-China | ws | 1165.0 | 929.4 | +25.3+/-% | +1006.0+/-% |
-| TD3C-TCE AG-China | usd/day | 1,241,097 | 982,072 | +26.4+/-% | +1195.0+/-% |
-| TD15 WAF-China | ws | 533.1 | 423.1 | +26.0+/-% | +448.9+/-% |
-| TD15-TCE WAF-China | usd/day | 527,477 | 410,759 | +28.4+/-% | +516.9+/-% |
-| TD32 Oman-China | ws | 297.9 | 293.8 | +1.4+/-% | n/a |
-| VLCC TCE Average | usd/day | 722,946 | 554,170 | +30.5+/-% | +725.9+/-% |
-| VLCC 1-Y Period | usd/day | 180,000 | 142,500 | +26.3+/-% | +295.6+/-% |
+| TD2 AG-Singapore | ws | 1112.8 | 825.0 | +34.9% | +936.9% |
+| TD3C AG-China | ws | 1165.0 | 929.4 | +25.3% | +1006.0% |
+| TD3C-TCE AG-China | usd/day | 1,241,097 | 982,072 | +26.4% | +1195.0% |
+| TD15 WAF-China | ws | 533.1 | 423.1 | +26.0% | +448.9% |
+| TD15-TCE WAF-China | usd/day | 527,477 | 410,759 | +28.4% | +516.9% |
+| TD32 Oman-China | ws | 297.9 | 293.8 | +1.4% | n/a |
+| VLCC TCE Average | usd/day | 722,946 | 554,170 | +30.5% | +725.9% |
+| VLCC 1-Y Period | usd/day | 180,000 | 142,500 | +26.3% | +295.6% |
 
 | SUEZMAX | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| TD6 BSea-Med | ws | 502.8 | 496.7 | +1.2+/-% | +252.7+/-% |
-| TD6-TCE BSea-Med | usd/day | 368,578 | 365,140 | +0.9+/-% | +408.4+/-% |
-| TD20 WAF-Cont | ws | 453.9 | 451.7 | +0.5+/-% | +291.9+/-% |
-| TD23 AG-Med | ws | 790.6 | 722.2 | +9.5+/-% | +671.3+/-% |
-| TD23-TCE AG-Med | usd/day | 557,689 | 506,628 | +10.1+/-% | +1043.8+/-% |
-| TD33 USG-UKC | ws | 392.2 | 333.9 | +17.5+/-% | n/a |
-| Suezmax TCE Average | usd/day | 303,674 | 301,719 | +0.6+/-% | +382.9+/-% |
-| Suezmax 1-Y Period | usd/day | 135,000 | 100,000 | +35.0+/-% | +260.0+/-% |
+| TD6 BSea-Med | ws | 502.8 | 496.7 | +1.2% | +252.7% |
+| TD6-TCE BSea-Med | usd/day | 368,578 | 365,140 | +0.9% | +408.4% |
+| TD20 WAF-Cont | ws | 453.9 | 451.7 | +0.5% | +291.9% |
+| TD23 AG-Med | ws | 790.6 | 722.2 | +9.5% | +671.3% |
+| TD23-TCE AG-Med | usd/day | 557,689 | 506,628 | +10.1% | +1043.8% |
+| TD33 USG-UKC | ws | 392.2 | 333.9 | +17.5% | n/a |
+| Suezmax TCE Average | usd/day | 303,674 | 301,719 | +0.6% | +382.9% |
+| Suezmax 1-Y Period | usd/day | 135,000 | 100,000 | +35.0% | +260.0% |
 
 | AFRAMAX | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| TD7 NSea-Cont | ws | 304.2 | 259.2 | +17.4+/-% | +134.7+/-% |
-| TD7-TCE NSea-Cont | usd/day | 189,659 | 146,494 | +29.5+/-% | +368.0+/-% |
-| TD8 Kuwait-China | ws | 749.17 | 490.83 | +52.6+/-% | +367.2+/-% |
-| TD8-TCE Kuwait-China | usd/day | 223,122 | 136,184 | +63.8+/-% | +464.0+/-% |
-| TD9 Caribs-USG | ws | 431.1 | 469.4 | -8.2+/-% | +169.0+/-% |
-| TD9-TCE Caribs-USG | usd/day | 122,950 | 138,341 | -11.1+/-% | +243.3+/-% |
-| TD19 Med-Med | ws | 511.7 | 388.9 | +31.6+/-% | +264.7+/-% |
-| TD19-TCE Med-Med | usd/day | 213,711 | 147,920 | +44.5+/-% | +549.0+/-% |
-| TD25 USG-UKC | ws | 444.4 | 495.6 | -10.3+/-% | +176.8+/-% |
-| TD25-TCE USG-UKC | usd/day | 123,487 | 142,690 | -13.5+/-% | +208.0+/-% |
-| Aframax TCE Average | usd/day | 162,238 | 129,311 | +25.5+/-% | +345.1+/-% |
-| Aframax 1-Y Period | usd/day | 80,000 | 71,500 | +11.9+/-% | +158.1+/-% |
+| TD7 NSea-Cont | ws | 304.2 | 259.2 | +17.4% | +134.7% |
+| TD7-TCE NSea-Cont | usd/day | 189,659 | 146,494 | +29.5% | +368.0% |
+| TD8 Kuwait-China | ws | 749.17 | 490.83 | +52.6% | +367.2% |
+| TD8-TCE Kuwait-China | usd/day | 223,122 | 136,184 | +63.8% | +464.0% |
+| TD9 Caribs-USG | ws | 431.1 | 469.4 | -8.2% | +169.0% |
+| TD9-TCE Caribs-USG | usd/day | 122,950 | 138,341 | -11.1% | +243.3% |
+| TD19 Med-Med | ws | 511.7 | 388.9 | +31.6% | +264.7% |
+| TD19-TCE Med-Med | usd/day | 213,711 | 147,920 | +44.5% | +549.0% |
+| TD25 USG-UKC | ws | 444.4 | 495.6 | -10.3% | +176.8% |
+| TD25-TCE USG-UKC | usd/day | 123,487 | 142,690 | -13.5% | +208.0% |
+| Aframax TCE Average | usd/day | 162,238 | 129,311 | +25.5% | +345.1% |
+| Aframax 1-Y Period | usd/day | 80,000 | 71,500 | +11.9% | +158.1% |
 
 > **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
@@ -346,30 +346,30 @@ The Eastern market kept rising dramatically, up to the WS 800 level for 270,000 
 
 | CLEAN | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| TC1 LR2 AG-Japan (75k) | ws | 833.9 | 800.6 | +4.2+/-% | +603.1+/-% |
-| TC1-TCE LR2 AG-Japan (75k) | usd/day | 237,454 | 227,888 | +4.2+/-% | +887.2+/-% |
-| TC20 LR2 AG-UKC (90k) | usd mln | 16,606,250 | 16,500,000 | +0.6+/-% | +387.5+/-% |
-| TC20-TCE LR2 AG-UKC (90k) | usd/day | 246,934 | 246,250 | +0.3+/-% | +835.5+/-% |
-| TC5 LR1 AG-Japan (55k) | ws | 849.7 | 821.3 | +3.5+/-% | +481.0+/-% |
-| TC5-TCE LR1 AG-Japan (55k) | usd/day | 171,732 | 166,093 | +3.4+/-% | +682.8+/-% |
-| TC8 LR1 AG-UKC (65k) | usd/mt | 172.31 | 164.40 | +4.8+/-% | +281.5+/-% |
-| TC2 MR UKC-USAC (37k) | ws | 149.4 | 100.0 | +49.4+/-% | +14.4+/-% |
-| TC2-TCE MR UKC-USAC | usd/day | 1,350 | -6,533 | +120.7+/-% | -88.8+/-% |
-| TC14 MR USG-UKC (38k) | ws | 231.4 | 217.9 | +6.2+/-% | +49.3+/-% |
-| TC14-TCE MR USG-UKC | usd/day | 7,390,000 | 6,190,000 | +19.4+/-% | +131.1+/-% |
-| TC19 MR UKC-Wafr (37k) | ws | 219.5 | 153.9 | +42.6+/-% | +45.8+/-% |
-| TC19-TCE MR UKC-Wafr | usd/day | 20,702 | 8,220 | +151.8+/-% | +14.5+/-% |
-| TC6 Handy Med-Med (30k) | ws | 185.2 | 186.3 | -0.6+/-% | +25.3+/-% |
-| TC6-TCE Handy Med-Med | usd/day | 10,414 | 11,929 | -12.7+/-% | -8.4+/-% |
-| TC11-TCE SK-Spore (40k) | usd/day | 50,157 | 48,077 | +4.3+/-% | +136.7+/-% |
-| MR Atlantic Basket | usd/day | 28,460 | 21,063 | +35.1+/-% | +1.0+/-% |
-| MR Pacific Basket | usd/day | 61,258 | 53,490 | +14.5+/-% | +192.6+/-% |
-| LR2 1-Y Period | usd/day | 77,000 | 70,000 | +10.0+/-% | +152.5+/-% |
-| MR2 1-Y Period | usd/day | 33,000 | 30,000 | +10.0+/-% | +67.1+/-% |
-| MR1 1-Y Period | usd/day | 23,000 | 22,500 | +2.2+/-% | +27.8+/-% |
+| TC1 LR2 AG-Japan (75k) | ws | 833.9 | 800.6 | +4.2% | +603.1% |
+| TC1-TCE LR2 AG-Japan (75k) | usd/day | 237,454 | 227,888 | +4.2% | +887.2% |
+| TC20 LR2 AG-UKC (90k) | usd mln | 16,606,250 | 16,500,000 | +0.6% | +387.5% |
+| TC20-TCE LR2 AG-UKC (90k) | usd/day | 246,934 | 246,250 | +0.3% | +835.5% |
+| TC5 LR1 AG-Japan (55k) | ws | 849.7 | 821.3 | +3.5% | +481.0% |
+| TC5-TCE LR1 AG-Japan (55k) | usd/day | 171,732 | 166,093 | +3.4% | +682.8% |
+| TC8 LR1 AG-UKC (65k) | usd/mt | 172.31 | 164.40 | +4.8% | +281.5% |
+| TC2 MR UKC-USAC (37k) | ws | 149.4 | 100.0 | +49.4% | +14.4% |
+| TC2-TCE MR UKC-USAC | usd/day | 1,350 | -6,533 | +120.7% | -88.8% |
+| TC14 MR USG-UKC (38k) | ws | 231.4 | 217.9 | +6.2% | +49.3% |
+| TC14-TCE MR USG-UKC | usd/day | 7,390,000 | 6,190,000 | +19.4% | +131.1% |
+| TC19 MR UKC-Wafr (37k) | ws | 219.5 | 153.9 | +42.6% | +45.8% |
+| TC19-TCE MR UKC-Wafr | usd/day | 20,702 | 8,220 | +151.8% | +14.5% |
+| TC6 Handy Med-Med (30k) | ws | 185.2 | 186.3 | -0.6% | +25.3% |
+| TC6-TCE Handy Med-Med | usd/day | 10,414 | 11,929 | -12.7% | -8.4% |
+| TC11-TCE SK-Spore (40k) | usd/day | 50,157 | 48,077 | +4.3% | +136.7% |
+| MR Atlantic Basket | usd/day | 28,460 | 21,063 | +35.1% | +1.0% |
+| MR Pacific Basket | usd/day | 61,258 | 53,490 | +14.5% | +192.6% |
+| LR2 1-Y Period | usd/day | 77,000 | 70,000 | +10.0% | +152.5% |
+| MR2 1-Y Period | usd/day | 33,000 | 30,000 | +10.0% | +67.1% |
+| MR1 1-Y Period | usd/day | 23,000 | 22,500 | +2.2% | +27.8% |
 | DIRTY |  |  |  |  |  |
-| TD32 UKC-UKC (30K) | ws | 297.9 | 293.8 | +1.4+/-% | n/a |
-| Med-Med (30k) | ws | 275.0 | 260.0 | +5.8+/-% | +41.0+/-% |
+| TD32 UKC-UKC (30K) | ws | 297.9 | 293.8 | +1.4% | n/a |
+| Med-Med (30k) | ws | 275.0 | 260.0 | +5.8% | +41.0% |
 
 > **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
@@ -388,13 +388,13 @@ The container charter market maintains its strong and positive momentum, driven 
 
 | VHSS | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| ConTex | index | 1,646 | 1,644 | +0.1+/-% | +6.5+/-% |
-| 4250 teu (1Y, g'less) | usd/day | 59,300 | 59,250 | +0.1+/-% | +12.1+/-% |
-| 3500 teu (1Y, g'less) | usd/day | 45,500 | 45,255 | +0.5+/-% | +4.5+/-% |
-| 2700 teu (1Y, g'less) | usd/day | 41,145 | 40,986 | +0.4+/-% | +12.5+/-% |
-| 2500 teu (1Y, geared) | usd/day | 37,882 | 37,714 | +0.4+/-% | +9.8+/-% |
-| 1700 teu (1Y, geared) | usd/day | 34,877 | 34,595 | +0.8+/-% | +30.5+/-% |
-| 1100 teu (1Y, geared) | usd/day | 17,395 | 17,357 | +0.2+/-% | +3.9+/-% |
+| ConTex | index | 1,646 | 1,644 | +0.1% | +6.5% |
+| 4250 teu (1Y, g'less) | usd/day | 59,300 | 59,250 | +0.1% | +12.1% |
+| 3500 teu (1Y, g'less) | usd/day | 45,500 | 45,255 | +0.5% | +4.5% |
+| 2700 teu (1Y, g'less) | usd/day | 41,145 | 40,986 | +0.4% | +12.5% |
+| 2500 teu (1Y, geared) | usd/day | 37,882 | 37,714 | +0.4% | +9.8% |
+| 1700 teu (1Y, geared) | usd/day | 34,877 | 34,595 | +0.8% | +30.5% |
+| 1100 teu (1Y, geared) | usd/day | 17,395 | 17,357 | +0.2% | +3.9% |
 
 | Category | Value |
 | :--- | :--- |
@@ -428,14 +428,14 @@ Swiss/Turkish owner Advantage Tankers reportedly ordered 2x 50,000 dwt MR2 produ
 
 |  | Unit | Aug-26 | Jul-26 | M-o-M | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Capesize | usd mln | 74.1 | 74.4 | -0.3+/-% | +5.2+/-% |
-| Kamsarmax | usd mln | 37.1 | 37.0 | +0.4+/-% | +3.3+/-% |
-| Ultramax | usd mln | 35.0 | 34.8 | +0.6+/-% | +4.9+/-% |
-| Handysize | usd mln | 30.7 | 30.7 | +0.2+/-% | +3.3+/-% |
-| VLCC | usd mln | 124.1 | 123.7 | +0.4+/-% | +2.3+/-% |
-| Suezmax | usd mln | 83.5 | 83.3 | +0.1+/-% | +3.7+/-% |
-| LR2 Coated | usd mln | 72.6 | 72.0 | +0.8+/-% | +6.3+/-% |
-| MR2 Coated | usd mln | 45.8 | 45.3 | +1.1+/-% | +3.4+/-% |
+| Capesize | usd mln | 74.1 | 74.4 | -0.3% | +5.2% |
+| Kamsarmax | usd mln | 37.1 | 37.0 | +0.4% | +3.3% |
+| Ultramax | usd mln | 35.0 | 34.8 | +0.6% | +4.9% |
+| Handysize | usd mln | 30.7 | 30.7 | +0.2% | +3.3% |
+| VLCC | usd mln | 124.1 | 123.7 | +0.4% | +2.3% |
+| Suezmax | usd mln | 83.5 | 83.3 | +0.1% | +3.7% |
+| LR2 Coated | usd mln | 72.6 | 72.0 | +0.8% | +6.3% |
+| MR2 Coated | usd mln | 45.8 | 45.3 | +1.1% | +3.4% |
 
 > **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
@@ -452,13 +452,13 @@ Among the smaller tankers, **DYLAN 50,000 dwt 2009 Guangzhou Shipyard Intl** was
 
 | Category | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Capesize | usd mln | 71.8 | 71.8 | +0.0+/-% | +16.6+/-% |
-| Kamsarmax | usd mln | 39.6 | 39.6 | +0.1+/-% | +24.4+/-% |
-| Handysize | usd mln | 30.1 | 30.0 | +0.1+/-% | +19.1+/-% |
-| VLCC | usd mln | 159.5 | 155.4 | +2.6+/-% | +37.7+/-% |
-| Suezmax | usd mln | 108.3 | 106.6 | +1.6+/-% | +40.3+/-% |
-| Aframax | usd mln | 84.9 | 84.6 | +0.3+/-% | +34.4+/-% |
-| MR Product | usd mln | 50.2 | 49.9 | +0.5+/-% | +22.3+/-% |
+| Capesize | usd mln | 71.8 | 71.8 | +0.0% | +16.6% |
+| Kamsarmax | usd mln | 39.6 | 39.6 | +0.1% | +24.4% |
+| Handysize | usd mln | 30.1 | 30.0 | +0.1% | +19.1% |
+| VLCC | usd mln | 159.5 | 155.4 | +2.6% | +37.7% |
+| Suezmax | usd mln | 108.3 | 106.6 | +1.6% | +40.3% |
+| Aframax | usd mln | 84.9 | 84.6 | +0.3% | +34.4% |
+| MR Product | usd mln | 50.2 | 49.9 | +0.5% | +22.3% |
 
 | Category | Value |
 | :--- | :--- |
@@ -504,12 +504,12 @@ While the ongoing conflict in the Middle East shows little sign of any resolutio
 
 |  | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Dry Pakistan | usd/ldt | 506.7 | 507.0 | -0.1+/-% | +19.1+/-% |
-| Dry India | usd/ldt | 475.4 | 470.7 | +1.0+/-% | +12.4+/-% |
-| Dry Bangladesh | usd/ldt | 507.1 | 504.8 | +0.5+/-% | +29.7+/-% |
-| Tnk Pakistan | usd/ldt | 522.4 | 522.7 | -0.1+/-% | +20.0+/-% |
-| Tnk India | usd/ldt | 487.1 | 481.1 | +1.3+/-% | +12.6+/-% |
-| Tnk Bangladesh | usd/ldt | 524.1 | 523.8 | +0.1+/-% | +29.9+/-% |
+| Dry Pakistan | usd/ldt | 506.7 | 507.0 | -0.1% | +19.1% |
+| Dry India | usd/ldt | 475.4 | 470.7 | +1.0% | +12.4% |
+| Dry Bangladesh | usd/ldt | 507.1 | 504.8 | +0.5% | +29.7% |
+| Tnk Pakistan | usd/ldt | 522.4 | 522.7 | -0.1% | +20.0% |
+| Tnk India | usd/ldt | 487.1 | 481.1 | +1.3% | +12.6% |
+| Tnk Bangladesh | usd/ldt | 524.1 | 523.8 | +0.1% | +29.9% |
 
 > **Chart (not transcribed).** The report prints no values for it.
 
@@ -521,15 +521,15 @@ While the ongoing conflict in the Middle East shows little sign of any resolutio
 
 |  | Unit | 21-Sep | 14-Sep | W-o-W | Premium |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sep-26 | usd/day | 52,885 | 53,167 | -0.5+/-% | +1.1+/-% |
-| Oct-26 | usd/day | 51,810 | 52,199 | -0.7+/-% | -1.0+/-% |
-| Nov-26 | usd/day | 49,792 | 50,071 | -0.6+/-% | -4.8+/-% |
-| Dec-26 | usd/day | 47,367 | 47,607 | -0.5+/-% | -9.5+/-% |
-| Jan-27 | usd/day | 37,024 | 37,142 | -0.3+/-% | -29.2+/-% |
-| Feb-27 | usd/day | 32,199 | 32,057 | +0.4+/-% | -38.5+/-% |
-| Q4 26 | usd/day | 49,656 | 49,959 | -0.6+/-% | -5.1+/-% |
-| Q1 27 | usd/day | 35,212 | 35,299 | -0.2+/-% | -32.7+/-% |
-| Q2 27 | usd/day | 39,674 | 39,735 | -0.2+/-% | -24.2+/-% |
+| Sep-26 | usd/day | 52,885 | 53,167 | -0.5% | +1.1% |
+| Oct-26 | usd/day | 51,810 | 52,199 | -0.7% | -1.0% |
+| Nov-26 | usd/day | 49,792 | 50,071 | -0.6% | -4.8% |
+| Dec-26 | usd/day | 47,367 | 47,607 | -0.5% | -9.5% |
+| Jan-27 | usd/day | 37,024 | 37,142 | -0.3% | -29.2% |
+| Feb-27 | usd/day | 32,199 | 32,057 | +0.4% | -38.5% |
+| Q4 26 | usd/day | 49,656 | 49,959 | -0.6% | -5.1% |
+| Q1 27 | usd/day | 35,212 | 35,299 | -0.2% | -32.7% |
+| Q2 27 | usd/day | 39,674 | 39,735 | -0.2% | -24.2% |
 
 > **Chart (not transcribed):** CAPESIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
@@ -537,15 +537,15 @@ While the ongoing conflict in the Middle East shows little sign of any resolutio
 
 |  | Unit | 21-Sep | 14-Sep | W-o-W | Premium |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sep-26 | usd/day | 21,268 | 21,325 | -0.3+/-% | +5.0+/-% |
-| Oct-26 | usd/day | 22,400 | 22,446 | -0.2+/-% | +10.6+/-% |
-| Nov-26 | usd/day | 22,643 | 22,636 | +0.0+/-% | +11.8+/-% |
-| Dec-26 | usd/day | 21,782 | 21,779 | +0.0+/-% | +7.5+/-% |
-| Jan-27 | usd/day | 18,393 | 18,343 | +0.3+/-% | -9.2+/-% |
-| Feb-27 | usd/day | 17,550 | 17,461 | +0.5+/-% | -13.4+/-% |
-| Q4 26 | usd/day | 22,275 | 22,287 | -0.1+/-% | +9.9+/-% |
-| Q1 27 | usd/day | 18,194 | 18,114 | +0.4+/-% | -10.2+/-% |
-| Q2 27 | usd/day | 19,114 | 19,029 | +0.4+/-% | -5.7+/-% |
+| Sep-26 | usd/day | 21,268 | 21,325 | -0.3% | +5.0% |
+| Oct-26 | usd/day | 22,400 | 22,446 | -0.2% | +10.6% |
+| Nov-26 | usd/day | 22,643 | 22,636 | +0.0% | +11.8% |
+| Dec-26 | usd/day | 21,782 | 21,779 | +0.0% | +7.5% |
+| Jan-27 | usd/day | 18,393 | 18,343 | +0.3% | -9.2% |
+| Feb-27 | usd/day | 17,550 | 17,461 | +0.5% | -13.4% |
+| Q4 26 | usd/day | 22,275 | 22,287 | -0.1% | +9.9% |
+| Q1 27 | usd/day | 18,194 | 18,114 | +0.4% | -10.2% |
+| Q2 27 | usd/day | 19,114 | 19,029 | +0.4% | -5.7% |
 
 > **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
@@ -553,15 +553,15 @@ While the ongoing conflict in the Middle East shows little sign of any resolutio
 
 |  | Unit | 21-Sep | 14-Sep | W-o-W | Premium |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sep-26 | usd/day | 22,045 | 22,123 | -0.4+/-% | -1.3+/-% |
-| Oct-26 | usd/day | 23,773 | 23,788 | -0.1+/-% | +6.5+/-% |
-| Nov-26 | usd/day | 23,659 | 23,652 | +0.0+/-% | +5.9+/-% |
-| Dec-26 | usd/day | 22,834 | 22,795 | +0.2+/-% | +2.2+/-% |
-| Jan-27 | usd/day | 19,088 | 19,088 | +0.0+/-% | -14.5+/-% |
-| Feb-27 | usd/day | 17,955 | 17,963 | -0.0+/-% | -19.6+/-% |
-| Q4 26 | usd/day | 23,422 | 23,411 | +0.0+/-% | +4.9+/-% |
-| Q1 27 | usd/day | 18,701 | 18,696 | +0.0+/-% | -16.3+/-% |
-| Q2 27 | usd/day | 19,659 | 19,591 | +0.3+/-% | -12.0+/-% |
+| Sep-26 | usd/day | 22,045 | 22,123 | -0.4% | -1.3% |
+| Oct-26 | usd/day | 23,773 | 23,788 | -0.1% | +6.5% |
+| Nov-26 | usd/day | 23,659 | 23,652 | +0.0% | +5.9% |
+| Dec-26 | usd/day | 22,834 | 22,795 | +0.2% | +2.2% |
+| Jan-27 | usd/day | 19,088 | 19,088 | +0.0% | -14.5% |
+| Feb-27 | usd/day | 17,955 | 17,963 | -0.0% | -19.6% |
+| Q4 26 | usd/day | 23,422 | 23,411 | +0.0% | +4.9% |
+| Q1 27 | usd/day | 18,701 | 18,696 | +0.0% | -16.3% |
+| Q2 27 | usd/day | 19,659 | 19,591 | +0.3% | -12.0% |
 
 > **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
@@ -569,15 +569,15 @@ While the ongoing conflict in the Middle East shows little sign of any resolutio
 
 |  | Unit | 21-Sep | 14-Sep | W-o-W | Premium |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sep-26 | usd/day | 17,040 | 17,000 | +0.2+/-% | -4.1+/-% |
-| Oct-26 | usd/day | 19,090 | 19,050 | +0.2+/-% | +7.4+/-% |
-| Nov-26 | usd/day | 18,810 | 18,760 | +0.3+/-% | +5.8+/-% |
-| Dec-26 | usd/day | 18,070 | 17,950 | +0.7+/-% | +1.7+/-% |
-| Jan-27 | usd/day | 14,470 | 14,390 | +0.6+/-% | -18.6+/-% |
-| Feb-27 | usd/day | 14,170 | 14,110 | +0.4+/-% | -20.3+/-% |
-| Q4 26 | usd/day | 18,657 | 18,587 | +0.4+/-% | +5.0+/-% |
-| Q1 27 | usd/day | 14,273 | 14,220 | +0.4+/-% | -19.7+/-% |
-| Q2 27 | usd/day | 15,340 | 15,340 | +0.0+/-% | -13.7+/-% |
+| Sep-26 | usd/day | 17,040 | 17,000 | +0.2% | -4.1% |
+| Oct-26 | usd/day | 19,090 | 19,050 | +0.2% | +7.4% |
+| Nov-26 | usd/day | 18,810 | 18,760 | +0.3% | +5.8% |
+| Dec-26 | usd/day | 18,070 | 17,950 | +0.7% | +1.7% |
+| Jan-27 | usd/day | 14,470 | 14,390 | +0.6% | -18.6% |
+| Feb-27 | usd/day | 14,170 | 14,110 | +0.4% | -20.3% |
+| Q4 26 | usd/day | 18,657 | 18,587 | +0.4% | +5.0% |
+| Q1 27 | usd/day | 14,273 | 14,220 | +0.4% | -19.7% |
+| Q2 27 | usd/day | 15,340 | 15,340 | +0.0% | -13.7% |
 
 > **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
@@ -585,10 +585,10 @@ While the ongoing conflict in the Middle East shows little sign of any resolutio
 
 | CURRENCIES | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- |
-| USD/EUR | 1.15 | 1.16 | -1.0+/-% | -2.1+/-% |
-| JPY/USD | 156.86 | 153.54 | +2.2+/-% | +6.2+/-% |
-| KRW/USD | 1386 | 1341 | +3.3+/-% | -0.5+/-% |
-| CNY/USD | 6.70 | 6.71 | -0.2+/-% | -6.0+/-% |
+| USD/EUR | 1.15 | 1.16 | -1.0% | -2.1% |
+| JPY/USD | 156.86 | 153.54 | +2.2% | +6.2% |
+| KRW/USD | 1386 | 1341 | +3.3% | -0.5% |
+| CNY/USD | 6.70 | 6.71 | -0.2% | -6.0% |
 
 > **Chart (not transcribed):** JPY/USD EXCHANGE RATE. The report prints no values for it.
 
@@ -599,67 +599,70 @@ While the ongoing conflict in the Middle East shows little sign of any resolutio
 | Category | Item | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | BUNKERS |  |  |  |  |  |  |
-| IFO 380 (3.5+/-%) | Rotterdam | usd/t | 609.5 | 618.0 | -1.4+/-% | +52.8+/-% |
-| IFO 380 (3.5+/-%) | Fujairah | usd/t | 705.5 | 703.3 | +0.3+/-% | +83.7+/-% |
-| IFO 380 (3.5+/-%) | Singapore | usd/t | 721.5 | 678.5 | +6.3+/-% | +75.5+/-% |
-| VLSFO (0.5+/-%) | Rotterdam | usd/t | 712.8 | 717.5 | -0.7+/-% | +56.3+/-% |
-| VLSFO (0.5+/-%) | Fujairah | usd/t | 979.5 | 885.0 | +10.7+/-% | +102.8+/-% |
-| VLSFO (0.5+/-%) | Singapore | usd/t | 859.3 | 885.5 | -3.0+/-% | +76.8+/-% |
-| LSMGO (0.1+/-%) | Rotterdam | usd/t | 1440.5 | 1308.5 | +10.1+/-% | +114.4+/-% |
-| LSMGO (0.1+/-%) | Fujairah | usd/t | 1639.8 | 1531.0 | +7.1+/-% | +128.1+/-% |
-| LSMGO (0.1+/-%) | Singapore | usd/t | 1340.0 | 1284.0 | +4.4+/-% | +98.8+/-% |
-| SPREAD (LS/HS) | Rotterdam | usd/t | 103.3 | 99.5 | +3.8+/-% | +81.1+/-% |
-| SPREAD (LS/HS) | Fujairah | usd/t | 274.0 | 181.8 | +50.8+/-% | +176.8+/-% |
-| SPREAD (LS/HS) | Singapore | usd/t | 137.8 | 207.0 | -33.5+/-% | +83.7+/-% |
+| IFO 380 (3.5%) | Rotterdam | usd/t | 609.5 | 618.0 | -1.4% | +52.8% |
+| IFO 380 (3.5%) | Fujairah | usd/t | 705.5 | 703.3 | +0.3% | +83.7% |
+| IFO 380 (3.5%) | Singapore | usd/t | 721.5 | 678.5 | +6.3% | +75.5% |
+| VLSFO (0.5%) | Rotterdam | usd/t | 712.8 | 717.5 | -0.7% | +56.3% |
+| VLSFO (0.5%) | Fujairah | usd/t | 979.5 | 885.0 | +10.7% | +102.8% |
+| VLSFO (0.5%) | Singapore | usd/t | 859.3 | 885.5 | -3.0% | +76.8% |
+| LSMGO (0.1%) | Rotterdam | usd/t | 1440.5 | 1308.5 | +10.1% | +114.4% |
+| LSMGO (0.1%) | Fujairah | usd/t | 1639.8 | 1531.0 | +7.1% | +128.1% |
+| LSMGO (0.1%) | Singapore | usd/t | 1340.0 | 1284.0 | +4.4% | +98.8% |
+| SPREAD (LS/HS) | Rotterdam | usd/t | 103.3 | 99.5 | +3.8% | +81.1% |
+| SPREAD (LS/HS) | Fujairah | usd/t | 274.0 | 181.8 | +50.8% | +176.8% |
+| SPREAD (LS/HS) | Singapore | usd/t | 137.8 | 207.0 | -33.5% | +83.7% |
 | OIL & GAS |  |  |  |  |  |  |
-| Crude Oil ICE Brent |  | usd/bbl | 103.9 | 104.6 | -0.7+/-% | +55.1+/-% |
-| Crude Oil Nymex WTI |  | usd/bbl | 100.3 | 100.1 | +0.2+/-% | +60.0+/-% |
-| Crude Oil Russia Urals |  | usd/bbl | 106.9 | 101.3 | +5.6+/-% | +83.9+/-% |
-| Crude Oil Shanghai |  | rmb/bbl | 766.4 | 809.9 | -5.4+/-% | +59.9+/-% |
-| Gasoil ICE |  | usd/t | 1509.3 | 1479.3 | +2.0+/-% | +118.4+/-% |
-| Gasoline Nymex |  | usd/gal | 3.53 | 3.31 | +6.7+/-% | +77.7+/-% |
-| Naphtha C&F Japan |  | usd/t | 880.4 | 917.2 | -4.0+/-% | +48.8+/-% |
-| Jet Fuel Singapore |  | usd/bbl | 175.5 | 182.3 | -3.7+/-% | +106.4+/-% |
-| Nat Gas Henry Hub |  | usd/mmbtu | 2.91 | 2.83 | +2.9+/-% | -1.0+/-% |
-| LNG TTF Netherlands |  | usd/mmbtu | 26.62 | 27.02 | -1.5+/-% | +137.1+/-% |
-| LNG North East Asia |  | usd/mmbtu | 27.00 | 26.00 | +3.8+/-% | +134.8+/-% |
+| Crude Oil ICE Brent |  | usd/bbl | 103.9 | 104.6 | -0.7% | +55.1% |
+| Crude Oil Nymex WTI |  | usd/bbl | 100.3 | 100.1 | +0.2% | +60.0% |
+| Crude Oil Russia Urals |  | usd/bbl | 106.9 | 101.3 | +5.6% | +83.9% |
+| Crude Oil Shanghai |  | rmb/bbl | 766.4 | 809.9 | -5.4% | +59.9% |
+| Gasoil ICE |  | usd/t | 1509.3 | 1479.3 | +2.0% | +118.4% |
+| Gasoline Nymex |  | usd/gal | 3.53 | 3.31 | +6.7% | +77.7% |
+| Naphtha C&F Japan |  | usd/t | 880.4 | 917.2 | -4.0% | +48.8% |
+| Jet Fuel Singapore |  | usd/bbl | 175.5 | 182.3 | -3.7% | +106.4% |
+| Nat Gas Henry Hub |  | usd/mmbtu | 2.91 | 2.83 | +2.9% | -1.0% |
+| LNG TTF Netherlands |  | usd/mmbtu | 26.62 | 27.02 | -1.5% | +137.1% |
+| LNG North East Asia |  | usd/mmbtu | 27.00 | 26.00 | +3.8% | +134.8% |
 | COAL |  |  |  |  |  |  |
-| Steam Coal Richards Bay |  | usd/t | 127.4 | 113.1 | +12.6+/-% | +49.7+/-% |
-| Steam Coal Newcastle |  | usd/t | 148.6 | 137.1 | +8.4+/-% | +38.1+/-% |
-| Coking Coal Australia SGX |  | usd/t | 275.0 | 268.0 | +2.6+/-% | +47.7+/-% |
+| Steam Coal Richards Bay |  | usd/t | 127.4 | 113.1 | +12.6% | +49.7% |
+| Steam Coal Newcastle |  | usd/t | 148.6 | 137.1 | +8.4% | +38.1% |
+| Coking Coal Australia SGX |  | usd/t | 275.0 | 268.0 | +2.6% | +47.7% |
 | IRON ORE & STEEL |  |  |  |  |  |  |
-| Iron Ore SGX 62+/-% |  | usd/t | 97.4 | 97.4 | +0.1+/-% | -7.8+/-% |
-| Iron Ore Dalian CE |  | rmb/t | 722.0 | 730.5 | -1.2+/-% | -11.7+/-% |
-| Rebar Steel in China |  | rmb/t | 3050.0 | 3004.0 | +1.5+/-% | +3.7+/-% |
-| HRC Steel in China |  | rmb/t | 3301.0 | 3241.0 | +1.9+/-% | -2.8+/-% |
-| HR Coil in China CISA |  | rmb/t | 3301.0 | 3241.0 | +1.9+/-% | -2.8+/-% |
+| Iron Ore SGX 62% |  | usd/t | 97.4 | 97.4 | +0.1% | -7.8% |
+| Iron Ore Dalian CE |  | rmb/t | 722.0 | 730.5 | -1.2% | -11.7% |
+| Rebar Steel in China |  | rmb/t | 3050.0 | 3004.0 | +1.5% | +3.7% |
+| HRC Steel in China |  | rmb/t | 3301.0 | 3241.0 | +1.9% | -2.8% |
+| HR Coil in China CISA |  | rmb/t | 3301.0 | 3241.0 | +1.9% | -2.8% |
 | AGRICULTURAL |  |  |  |  |  |  |
-| Soybeans CBoT |  | usc/bu | 1303.5 | 1280.2 | +1.8+/-% | +24.6+/-% |
-| Corn CBoT |  | usc/bu | 527.5 | 510.2 | +3.4+/-% | +22.7+/-% |
-| Wheat CBoT |  | usc/bu | 714.2 | 707.0 | +1.0+/-% | +36.4+/-% |
-| Sugar ICE N.11 |  | usc/lb | 17.42 | 18.15 | -4.0+/-% | +10.3+/-% |
-| Palm Oil Malaysia |  | usd/t | 1151.0 | 1118.5 | +2.9+/-% | +9.7+/-% |
+| Soybeans CBoT |  | usc/bu | 1303.5 | 1280.2 | +1.8% | +24.6% |
+| Corn CBoT |  | usc/bu | 527.5 | 510.2 | +3.4% | +22.7% |
+| Wheat CBoT |  | usc/bu | 714.2 | 707.0 | +1.0% | +36.4% |
+| Sugar ICE N.11 |  | usc/lb | 17.42 | 18.15 | -4.0% | +10.3% |
+| Palm Oil Malaysia |  | usd/t | 1151.0 | 1118.5 | +2.9% | +9.7% |
 
-| Category | Item | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| BUNKER PRICES @ SINGAPORE (USD/T) |  |  |  |  |  |  |
-| IFO380 |  |  | 700 | 700 | 0 | 0 |
-| VLSFO |  |  | 600 | 600 | 0 | 0 |
-| LSMGO |  |  | 800 | 800 | 0 | 0 |
-| BRENT & WTI OIL PRICE (USD/BBL) |  |  |  |  |  |  |
-| Brent |  |  | 60 | 60 | 0 | 0 |
-| WTI |  |  | 65 | 65 | 0 | 0 |
-| HENRY HUB PRICE (USD/MMBTU) |  |  |  |  |  |  |
-| Henry Hub Nat Gas |  |  | 3.0 | 3.0 | 0 | 0 |
-| COAL & IRON ORE PRICE (USD/T) |  |  |  |  |  |  |
-| Steam Coal |  |  | 105 | 105 | 0 | 0 |
-| Iron Ore |  |  | 105 | 105 | 0 | 0 |
-| STEEL PRICES IN CHINA (RMB/T) |  |  |  |  |  |  |
-| HRC |  |  | 3000 | 3000 | 0 | 0 |
-| Plate |  |  | 3400 | 3400 | 0 | 0 |
-| WHEAT & CORN PRICES (USD/T) |  |  |  |  |  |  |
-| Corn |  |  | 450 | 450 | 0 | 0 |
-| Wheat |  |  | 550 | 550 | 0 | 0 |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 # banchero costa NETWORK
 

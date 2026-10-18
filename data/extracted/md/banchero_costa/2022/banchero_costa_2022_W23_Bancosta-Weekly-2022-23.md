@@ -229,26 +229,11 @@ Explosive week for the MRs on the transatlantic route with TC2 market (MRs/Cont-
 | **Med-Med (30k)** | ws | 290.0 | 300.0 | -3.3% | +146.8% |
 | **Black Sea-Med (30k)** | ws | 525.0 | 510.0 | +2.9% | +320.0% |
 
-| Date | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Jun-21 | 0 |
-| Oct-21 | 20,000 |
-| Feb-22 | 40,000 |
-| Jun-22 | 20,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Jun-21 | 0 |
-| Oct-21 | 20,000 |
-| Feb-22 | 40,000 |
-| Jun-22 | 40,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Jun-21 | 0 |
-| Oct-21 | 20,000 |
-| Feb-22 | 40,000 |
-| Jun-22 | 40,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

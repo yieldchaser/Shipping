@@ -35,20 +35,7 @@ In the first 10 months of 2021, LPG imports from the USA to the EU declined by -
 
 ### European Union - Monthly LPG Imports - Seasonality (Nov 2021 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
 
-| Month | 2017 | 2018 | 2019 | 2020 | 2021 |
-| --- | --- | --- | --- | --- | --- |
-| Jan | 1.4 | 1.9 | 1.8 | 1.9 | 1.8 |
-| Feb | 1.5 | 1.9 | 2.0 | 1.8 | 1.7 |
-| Mar | 1.6 | 1.7 | 2.0 | 2.3 | 2.0 |
-| Apr | 1.6 | 1.7 | 1.6 | 2.0 | 2.0 |
-| May | 1.5 | 1.8 | 1.7 | 1.4 | 1.5 |
-| Jun | 1.5 | 1.7 | 1.7 | 1.3 | 1.7 |
-| Jul | 1.5 | 1.7 | 2.0 | 1.8 | 1.8 |
-| Aug | 1.4 | 1.6 | 1.5 | 1.4 | 1.7 |
-| Sep | 1.5 | 1.7 | 1.6 | 2.0 | 1.7 |
-| Oct | 1.6 | 1.8 | 1.7 | 1.8 | 1.8 |
-| Nov | 1.5 | 1.8 | 1.9 | 1.8 | 1.8 |
-| Dec | 1.7 | 1.8 | 1.7 | 1.8 | 1.8 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## CAPESIZE MARKET
 
@@ -65,12 +52,7 @@ Positive week for Capesize indexes, which have seen a slight improvement, provid
 
 **BCI TC & CAPESIZE 1-yr TC (USD/DAY)**
 
-| Date | 1-YR TC | BCI TC |
-| --- | --- | --- |
-| Nov-20 | 10000 | 10000 |
-| Mar-21 | 35000 | 40000 |
-| Jul-21 | 30000 | 80000 |
-| Nov-21 | 25000 | 30000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## PANAMAX MARKET
 
@@ -89,12 +71,7 @@ Positive week for Capesize indexes, which have seen a slight improvement, provid
 
 **BPI 82 TC & KAMSARMAX 1-yr TC (USD/DAY)**
 
-| Date | 1-YR TC | BPI 82 TC |
-| --- | --- | --- |
-| Nov-20 | 10000 | 10000 |
-| Mar-21 | 25000 | 30000 |
-| Jul-21 | 28000 | 38000 |
-| Nov-21 | 25000 | 35000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -288,12 +265,7 @@ Carriers are increasingly skipping port calls in an effort to meet schedules ami
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Period | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- | --- |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | Nov-20 | 10,000 | 10,000 | 10,000 |
-|  | Mar-21 | 20,000 | 15,000 | 12,000 |
-|  | Jul-21 | 40,000 | 30,000 | 25,000 |
-|  | Nov-21 | 80,000 | 50,000 | 40,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -315,12 +287,7 @@ Carriers are increasingly skipping port calls in an effort to meet schedules ami
 | **Europe - ECSA** | usd/feu | 4,054 | 3,611 | +12.3% | +367.6% |
 | **Europe - WCSA** | usd/feu | 5,501 | 5,227 | +5.2% | +252.0% |
 
-| Category | Period | FBX |
-| --- | --- | --- |
-| FREIGHTOS BALTIC CONTAINER INDEX | Nov-20 | 2,000 |
-|  | Mar-21 | 4,000 |
-|  | Jul-21 | 10,000 |
-|  | Nov-21 | 10,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 45/2021
 

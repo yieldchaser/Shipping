@@ -508,19 +508,9 @@ After offers got invited on the 13th of November Japanese controlled Capesize Fr
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Nov-22 | 7.0 |
-| Mar-23 | 2.5 |
-| Jul-23 | 3.0 |
-| Nov-23 | 3.2 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| Nov-22 | 400 | 100 |
-| Mar-23 | 150 | 120 |
-| Jul-23 | 150 | 130 |
-| Nov-23 | 150 | 135 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

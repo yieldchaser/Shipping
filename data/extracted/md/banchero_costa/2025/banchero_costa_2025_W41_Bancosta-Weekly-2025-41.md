@@ -467,13 +467,7 @@ In the Suezmax segment, **ECO BEVERLY HILLS 157,000 dwt 2019** Hyundai Samho bui
 | **Q3 26** | usd/day | 25,896 | 25,639 | +1.0% | -7.9% |
 | **Q4 26** | usd/day | 26,196 | 25,943 | +1.0% | -6.9% |
 
-| Category | Date |
-| --- | --- |
-| Oct-24 | 25000 |
-| Apr-25 | 5000 |
-| Oct-25 | 30000 |
-| Apr-26 | 15000 |
-| Oct-26 | 25000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## PANAMAX (82k)
 

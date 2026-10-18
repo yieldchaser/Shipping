@@ -183,31 +183,13 @@ The **VLCC** market eased back to WS 99 level for 270,000 mt MEG-China and WS 10
 | **Aframax TCE Average** | usd/day | 65,902 | 65,622 | +0.4% | +547.4% |
 | **Aframax 1-Y Period** | usd/day | 34,250 | 34,250 | +0.0% | +105.1% |
 
-| TD3C VLCC MEG-FAR EAST (USD/DAY) | TD3C VLCC MEG-FAR EAST (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Oct-21 | 10,000 |
-| Feb-22 | -25,000 |
-| Jun-22 | -30,000 |
-| Oct-22 | 70,000 |
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| TD6 SUEZMAX BSEA-MED (USD/DAY) | TD6 SUEZMAX BSEA-MED (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Oct-21 | 0 |
-| Feb-22 | 150,000 |
-| Jun-22 | 20,000 |
-| Oct-22 | 80,000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
 > **Chart (not transcribed):** TD17 AFRAMAX BALTIC-UKC (USD/DAY). The report prints no values for it.
 
-| TD19 AFRAMAX MED-MED (USD/DAY) | TD19 AFRAMAX MED-MED (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Oct-21 | 10,000 |
-| Feb-22 | 75,000 |
-| Jun-22 | 30,000 |
-| Oct-22 | 70,000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
 > **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 

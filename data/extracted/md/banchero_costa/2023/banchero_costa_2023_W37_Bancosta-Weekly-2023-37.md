@@ -458,26 +458,29 @@ In the dry market, the modern **TESS82 GENEVA STAR 82,000 dwt 2015 Tsuneishi Ceb
 |  | Fujairah | usd/t | 138.0 | 123.0 | +12.2% | -52.2% |
 |  | Singapore | usd/t | 120.0 | 103.0 | +16.5% | -57.4% |
 
-| Category | Item | Unit | 15-Sep |
-| --- | --- | --- | --- |
-| BUNKER PRICES @ SINGAPORE (USD/T) |  |  |  |
-| IFO380 |  |  | 400 |
-| VLSFO |  |  | 650 |
-| LSMGO |  |  | 1000 |
-| BRENT & WTI OIL PRICE (USD/BBL) |  |  |  |
-| Brent |  |  | 80 |
-| WTI |  |  | 70 |
-| HENRY HUB PRICE (USD/MMBTU) |  |  |  |
-| Henry Hub Nat Gas |  |  | 8.0 |
-| COAL & IRON ORE PRICE (USD/T) |  |  |  |
-| Steam Coal |  |  | 450 |
-| Iron Ore |  |  | 100 |
-| STEEL PRICES IN CHINA (RMB/T) |  |  |  |
-| HRC |  |  | 4000 |
-| Plate |  |  | 3800 |
-| WHEAT & CORN PRICES (USD/T) |  |  |  |
-| Corn |  |  | 500 |
-| Wheat |  |  | 700 |
+### BUNKER PRICES @ SINGAPORE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### BRENT & WTI OIL PRICE (USD/BBL)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### HENRY HUB PRICE (USD/MMBTU)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### COAL & IRON ORE PRICE (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## OIL & GAS
 

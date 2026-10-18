@@ -510,19 +510,9 @@ We have recorded 2 large Supramax changing hands, the ISABELITA 58,000 dwt built
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Brent | WTI |
-| --- | --- | --- |
-| Sep-22 | 90 | 80 |
-| Jan-23 | 85 | 75 |
-| May-23 | 80 | 70 |
-| Sep-23 | 90 | 85 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Sep-22 | 8.0 |
-| Jan-23 | 2.5 |
-| May-23 | 2.5 |
-| Sep-23 | 2.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

@@ -237,26 +237,9 @@ In contrast to the Med market, Cont continues to suffer from a lack of activity,
 | **Med-Med (30 k)** | ws | 210.0 | 155.0 | +35.5% | +5.0% |
 | **Black Sea-Med (30 k)** | ws | 400.0 | 400.0 | +0.0% | +90.5% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Apr-21 | 18000 |
-| Jun-21 | 2000 |
-| Aug-21 | 8000 |
-| Oct-21 | 12000 |
-| Dec-21 | 15000 |
-| Feb-22 | -5000 |
-| Apr-22 | 28000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| MR ATLANTIC BASKET (usd/day) | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Apr-21 | 5000 |
-| Jun-21 | 1000 |
-| Aug-21 | 500 |
-| Oct-21 | 1000 |
-| Dec-21 | 15000 |
-| Apr-22 | 70000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 

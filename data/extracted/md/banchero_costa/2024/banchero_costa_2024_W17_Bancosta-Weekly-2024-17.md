@@ -508,14 +508,7 @@ After offers were invited the Federal Island 62,000 dwt built 2017 Tadotsu (elet
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| Apr-23 | 2.0 |
-| Jun-23 | 2.5 |
-| Aug-23 | 3.5 |
-| Oct-23 | 2.5 |
-| Dec-23 | 1.5 |
-| Apr-24 | 1.8 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

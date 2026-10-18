@@ -504,14 +504,7 @@ After offers were invited two weeks ago, the Japanese controlled baby cape Sprin
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Apr-23 | 2.2 |
-| Jun-23 | 2.5 |
-| Aug-23 | 3.2 |
-| Oct-23 | 2.8 |
-| Dec-23 | 1.8 |
-| Apr-24 | 1.7 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

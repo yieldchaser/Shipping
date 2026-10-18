@@ -478,13 +478,7 @@ In the bulk sector, the capesize LAKE DOLPHIN 179,418 dwt 2011 Hanjin HI & Const
 
 **CAPESIZE FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Dec-24 | 10000 |
-| Jun-25 | 30000 |
-| Dec-25 | 40000 |
-| Jun-26 | 25000 |
-| Dec-26 | 25000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### PANAMAX (82k)
 
@@ -518,13 +512,7 @@ In the bulk sector, the capesize LAKE DOLPHIN 179,418 dwt 2011 Hanjin HI & Const
 
 **SUPRAMAX FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Dec-24 | 10000 |
-| Jun-25 | 18000 |
-| Dec-25 | 16000 |
-| Jun-26 | 15000 |
-| Dec-26 | 15000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### HANDYSIZE (38k)
 
@@ -541,13 +529,7 @@ In the bulk sector, the capesize LAKE DOLPHIN 179,418 dwt 2011 Hanjin HI & Const
 
 **HANDYSIZE FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Dec-24 | 10000 |
-| Jun-25 | 16000 |
-| Dec-25 | 12000 |
-| Jun-26 | 12000 |
-| Dec-26 | 11000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # EXCHANGE RATES
 

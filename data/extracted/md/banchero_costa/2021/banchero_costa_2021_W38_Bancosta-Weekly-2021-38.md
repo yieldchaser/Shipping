@@ -185,21 +185,9 @@ Market at ECSAm was firm both on handy and supramax during the week. A nice 37,0
 
 > **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| TD6 SUEZMAX BSEA-MED (USD/DAY) | TD6 SUEZMAX BSEA-MED (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Sep-20 | -5000 |
-| Jan-21 | 15000 |
-| May-21 | -5000 |
-| Sep-21 | -10000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-| TD17 AFRAMAX BALTIC-UKC (USD/DAY) | TD17 AFRAMAX BALTIC-UKC (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Sep-20 | 0 |
-| Jan-21 | 35000 |
-| May-21 | 5000 |
-| Sep-21 | 0 |
+> **Chart (not transcribed):** TD17 AFRAMAX BALTIC-UKC (USD/DAY). The report prints no values for it.
 
 > **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 

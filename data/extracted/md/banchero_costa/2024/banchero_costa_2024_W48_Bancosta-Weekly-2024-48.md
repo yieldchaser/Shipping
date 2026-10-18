@@ -214,40 +214,13 @@ In Med, Handy rates kept a slightly soft sentiment dropping from **WS170s** to *
 | **Med-Med (30k)** | ws | 165.0 | 170.0 | -2.9% | -50.0% |
 | **Black Sea-Med (30k)** | ws | 170.0 | 175.0 | -2.9% | -55.3% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Nov-23 | 10,000 |
-| Nov-24 | 20,000 |
-| Mar-24 | 100,000 |
-| Jul-24 | 30,000 |
-| Nov-24 | 20,000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| MR ATLANTIC BASKET (usd/day) | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Nov-23 | 60,000 |
-| Nov-24 | 25,000 |
-| Mar-24 | 35,000 |
-| Jul-24 | 25,000 |
-| Nov-24 | 25,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-| MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Nov-23 | 15,000 |
-| Nov-24 | 15,000 |
-| Mar-24 | 55,000 |
-| Jul-24 | 15,000 |
-| Nov-24 | 15,000 |
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) |  |
-| --- | --- | --- |
-| Date | LR2 | MR2 |
-| Nov-23 | 40,000 | 25,000 |
-| Mar-24 | 50,000 | 30,000 |
-| Jul-24 | 35,000 | 20,000 |
-| Nov-24 | 35,000 | 25,000 |
+> **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -294,12 +267,7 @@ The lack of prompt tonnage is keeping the market stable with rate increasing in 
 | **China - WCNA** | usd/feu | 4,905 | 5,122 | -4.2% | +204.1% |
 | **China - N. Europe** | usd/feu | 4,491 | 4,491 | +0.0% | +270.9% |
 
-| DATE | China - N. Europe |
-| --- | --- |
-| Nov-23 | 1000 |
-| Mar-24 | 3000 |
-| Jul-24 | 8000 |
-| Nov-24 | 4500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 48/2024
 

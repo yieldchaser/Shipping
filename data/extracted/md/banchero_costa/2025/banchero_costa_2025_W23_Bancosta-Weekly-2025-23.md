@@ -346,19 +346,9 @@ Busy week at steady market levels. Limited vessel availability affected some seg
 |  | 1700 |
 |  | 1100 |
 
-| Date | FBX |
-| --- | --- |
-| Jun-24 | 3500 |
-| Oct-24 | 3000 |
-| Feb-25 | 2000 |
-| Jun-25 | 3500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | FBX |
-| --- | --- |
-| Jun-24 | 10000 |
-| Oct-24 | 3000 |
-| Feb-25 | 2000 |
-| Jun-25 | 2000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
@@ -369,12 +359,7 @@ Busy week at steady market levels. Limited vessel availability affected some seg
 | **China - WCNA** | usd/feu | 5,488 | 2,767 | +98.3% | +9.1% |
 | **China - N. Europe** | usd/feu | 2,757 | 2,361 | +16.8% | -45.1% |
 
-| Date | China - N. Europe |
-| --- | --- |
-| Jun-24 | 8000 |
-| Oct-24 | 3000 |
-| Feb-25 | 2000 |
-| Jun-25 | 2000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 23/2025
 
@@ -592,12 +577,7 @@ In the Bulk sector undisclosed buyers were behind the purchase of the Kamsarmax 
 
 ### Chart Title: HENRY HUB PRICE (USD/MMBTU)
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Jun-24 | 2.8 |
-| Oct-24 | 3.0 |
-| Feb-25 | 4.2 |
-| Jun-25 | 3.6 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### Chart Title: COAL & IRON ORE PRICE (USD/T)
 

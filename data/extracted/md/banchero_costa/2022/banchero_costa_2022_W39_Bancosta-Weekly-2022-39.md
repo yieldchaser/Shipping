@@ -477,19 +477,9 @@ The **KEROS VOYAGER** 108,000 dwt blt 2008 HHI (coated) is sold to Teodor Shippi
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Date | Brent | WTI |
-| --- | --- | --- | --- |
-| BRENT & WTI OIL PRICE (USD/BBL) | Sep-21 | 70 | 70 |
-|  | Jan-22 | 100 | 110 |
-|  | May-22 | 120 | 120 |
-|  | Sep-22 | 80 | 75 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Date | Henry Hub Nat Gas |
-| --- | --- | --- |
-| HENRY HUB PRICE (USD/MMBTU) | Sep-21 | 5.0 |
-|  | Jan-22 | 3.5 |
-|  | May-22 | 8.0 |
-|  | Sep-22 | 7.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

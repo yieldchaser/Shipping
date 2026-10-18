@@ -490,12 +490,7 @@ In the Panamax segment, MV **FORTUNE UNION** (73,729/1998/Sumitomo/RI SS: 24/11/
 
 # HENRY HUB PRICE (USD/MMBTU)
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Jul-21 | 4 |
-| Nov-21 | 4 |
-| Mar-22 | 8 |
-| Jul-22 | 6 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COAL & IRON ORE PRICE (USD/T)
 

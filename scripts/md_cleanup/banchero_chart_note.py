@@ -43,6 +43,8 @@ MON = r"(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*"
 AXIS = re.compile(rf"^(?:{MON}[-' ]?\d{{2,4}}|{MON}|(?:19|20)\d\d|Q[1-4][-' ]?\d{{2,4}}|\d{{1,2}}-{MON}(?:-\d{{2,4}})?"
                   rf"|W\d{{1,2}}|Week ?\d+)$", re.I)
 TABLE = re.compile(r"(?:^\|[^\n]*\n)+", re.M)
+# header words of the tables Banchero prints (rates, S&P / demolition lists): never chart readings
+PRINTED_TABLE = re.compile(r"W-o-W|Y-o-Y|M-o-M|Premium|\bUnit\b|VESSEL|IMO|\bDWT\b|BUYER", re.I)
 
 
 def key(s):
@@ -260,7 +262,12 @@ def axis_chart_tables(text, printed):
             continue
         nums = [_norm(n) for r in body for c in r[1:] for n in NUM.findall(c.replace("**", ""))]
         nums = [n for n in nums if n not in ("", "0")]
-        if not nums or all(n in printed for n in nums):
+        if not nums or PRINTED_TABLE.search(lines[0]):
+            continue
+        # Line-chart readings land on the axis tick labels (Brent 40 / 55 / 70), which ARE printed, so
+        # "every number printed" only clears a table that is not a time series down its rows.
+        rows_axis = _is_axis([r[0] for r in body if r]) or (long_axis and _is_axis([r[1] for r in body if len(r) > 1]))
+        if all(n in printed for n in nums) and not (rows_axis and len(body) >= 3):
             continue
         # the parse often put the chart title into the header cells ("TITLE<br/>Date | TITLE<br/>Value")
         heads = [re.split(r"<br\s*/?>", c)[0].strip("* ") for c in hdr]

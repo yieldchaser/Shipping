@@ -512,19 +512,9 @@ Transportation Recovery Fund (TRF) has sold 2 x handy tanker sisterships TRF MAN
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Jun-23 | 75 | 70 |
-| Oct-23 | 85 | 80 |
-| Feb-24 | 80 | 75 |
-| Jun-24 | 70 | 65 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Jun-23 | 2.5 |
-| Oct-23 | 3.5 |
-| Feb-24 | 1.5 |
-| Jun-24 | 2.8 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

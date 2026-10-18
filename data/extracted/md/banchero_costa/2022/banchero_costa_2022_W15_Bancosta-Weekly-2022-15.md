@@ -231,29 +231,11 @@ MRs has a similar trend with x-med paying WS175 bss 45 and 45@350-360 levels. Ha
 | **Med-Med (30k)** | ws | 250.0 | 210.0 | +19.0% | +75.4% |
 | **Black Sea-Med (30k)** | ws | 450.0 | 400.0 | +12.5% | +195.1% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Apr-21 | 10000 |
-| Aug-21 | 8000 |
-| Dec-21 | -5000 |
-| Apr-22 | 25000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| MR ATLANTIC BASKET (usd/day) | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Apr-21 | 10000 |
-| Aug-21 | 2000 |
-| Dec-21 | 20000 |
-| Apr-22 | 60000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-| MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Apr-21 | 10000 |
-| Aug-21 | 15000 |
-| Dec-21 | 10000 |
-| Apr-22 | 20000 |
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 

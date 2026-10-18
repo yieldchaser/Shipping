@@ -176,22 +176,7 @@ The market in NW Europe moved up by 10 points to 80,000 mt at WS105 for North Se
 
 > **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| TD6 SUEZMAX BSEA-MED (USD/DAY) | TD6 SUEZMAX BSEA-MED (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Oct-20 | -5000 |
-| Nov-20 | -2000 |
-| Dec-20 | 5000 |
-| Jan-21 | 8000 |
-| Feb-21 | 25000 |
-| Mar-21 | 5000 |
-| Apr-21 | -5000 |
-| May-21 | -8000 |
-| Jun-21 | -10000 |
-| Jul-21 | -10000 |
-| Aug-21 | -10000 |
-| Sep-21 | -5000 |
-| Oct-21 | 5000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
 > **Chart (not transcribed):** TD17 AFRAMAX BALTIC-UKC (USD/DAY). The report prints no values for it.
 
@@ -290,13 +275,7 @@ With production in China slowed during the Golden Week holiday and by power rest
 | Europe - ECSA | usd/feu | 3,705 | 3,302 | +12.2% | +309.4% |
 | Europe - WCSA | usd/feu | 5,558 | 5,577 | -0.3% | +238.1% |
 
-| GEARED - 1 YR TC PERIOD (USD/DAY) | GEARED - 1 YR TC PERIOD (USD/DAY) |  |  |
-| --- | --- | --- | --- |
-| Date | 2500 | 1700 | 1100 |
-| Oct-20 | 10,000 | 10,000 | 10,000 |
-| Feb-21 | 20,000 | 15,000 | 12,000 |
-| Jun-21 | 40,000 | 30,000 | 25,000 |
-| Oct-21 | 80,000 | 50,000 | 40,000 |
+> **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 > **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 

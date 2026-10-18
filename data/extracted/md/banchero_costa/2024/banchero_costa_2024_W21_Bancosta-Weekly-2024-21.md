@@ -395,14 +395,7 @@ Another, but significantly older, VLCC was sold last week. The 22-year-old MARJA
 | **Q3 24** | usd/day | 17,459 | 17,574 | -0.7% | +6.4% |
 | **Q4 24** | usd/day | 16,461 | 16,486 | -0.2% | +0.3% |
 
-| PANAMAX FORWARD CURVE (USD/DAY) | PANAMAX FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| May-23 | 10,000 |
-| Nov-23 | 22,000 |
-| May-24 | 17,000 |
-| Nov-24 | 15,000 |
-| May-25 | 14,000 |
+> **Chart (not transcribed):** PANAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## SUPRAMAX (58k)
 
@@ -417,14 +410,7 @@ Another, but significantly older, VLCC was sold last week. The 22-year-old MARJA
 | **Q3 24** | usd/day | 15,111 | 15,184 | -0.5% | +3.6% |
 | **Q4 24** | usd/day | 14,542 | 14,542 | +0.0% | -0.3% |
 
-| SUPRAMAX FORWARD CURVE (USD/DAY) | SUPRAMAX FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| May-23 | 10,000 |
-| Nov-23 | 16,000 |
-| May-24 | 15,000 |
-| Nov-24 | 13,000 |
-| May-25 | 12,000 |
+> **Chart (not transcribed):** SUPRAMAX FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 ## HANDYSIZE (38k)
 
@@ -439,14 +425,7 @@ Another, but significantly older, VLCC was sold last week. The 22-year-old MARJA
 | **Q3 24** | usd/day | 13,271 | 13,346 | -0.6% | +7.2% |
 | **Q4 24** | usd/day | 13,275 | 13,225 | +0.4% | +7.2% |
 
-| HANDYSIZE FORWARD CURVE (USD/DAY) | HANDYSIZE FORWARD CURVE (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| May-23 | 10,000 |
-| Nov-23 | 15,000 |
-| May-24 | 13,000 |
-| Nov-24 | 12,000 |
-| May-25 | 11,000 |
+> **Chart (not transcribed):** HANDYSIZE FORWARD CURVE (USD/DAY). The report prints no values for it.
 
 # EXCHANGE RATES
 

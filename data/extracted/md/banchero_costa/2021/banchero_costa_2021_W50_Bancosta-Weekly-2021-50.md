@@ -190,54 +190,11 @@ Couple of 140kt Basrah/Med cargos covered at ws 35, whilst 130kt AG/East remain 
 | **Aframax TCE Average** | usd/day | 11,453 | 7,971 | +43.7% | +1546.1% |
 | **Aframax 1-Y Period** | usd/day | 17,500 | 17,500 | +0.0% | +0.0% |
 
-| TD3C VLCC MEG-FAR EAST (USD/DAY) | TD3C VLCC MEG-FAR EAST (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Dec-20 | 18000 |
-| Jan-21 | 0 |
-| Apr-21 | -5000 |
-| May-21 | -7000 |
-| Jun-21 | -6000 |
-| Jul-21 | -4000 |
-| Aug-21 | -3000 |
-| Sep-21 | -1000 |
-| Oct-21 | 2000 |
-| Nov-21 | 4000 |
-| Dec-21 | 2000 |
+> **Chart (not transcribed):** TD3C VLCC MEG-FAR EAST (USD/DAY). The report prints no values for it.
 
-| TD6 SUEZMAX BSEA-MED (USD/DAY) | TD6 SUEZMAX BSEA-MED (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Dec-20 | 5000 |
-| Jan-21 | 10000 |
-| Feb-21 | 25000 |
-| Mar-21 | 5000 |
-| Apr-21 | -5000 |
-| May-21 | -10000 |
-| Jun-21 | -15000 |
-| Jul-21 | -10000 |
-| Aug-21 | -5000 |
-| Sep-21 | -2000 |
-| Oct-21 | 5000 |
-| Nov-21 | 8000 |
-| Dec-21 | 8000 |
+> **Chart (not transcribed):** TD6 SUEZMAX BSEA-MED (USD/DAY). The report prints no values for it.
 
-| TD17 AFRAMAX BALTIC-UKC (USD/DAY) | TD17 AFRAMAX BALTIC-UKC (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Dec-20 | 5000 |
-| Jan-21 | 10000 |
-| Feb-21 | 35000 |
-| Mar-21 | 5000 |
-| Apr-21 | 0 |
-| May-21 | -5000 |
-| Jun-21 | -10000 |
-| Jul-21 | -5000 |
-| Aug-21 | -5000 |
-| Sep-21 | 10000 |
-| Oct-21 | 15000 |
-| Nov-21 | 20000 |
-| Dec-21 | 20000 |
+> **Chart (not transcribed):** TD17 AFRAMAX BALTIC-UKC (USD/DAY). The report prints no values for it.
 
 > **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
@@ -477,18 +434,7 @@ DERIVATIVES MARKET REPORT – WEEK 50/2021 12
 
 **PANAMAX FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 10000 |
-| Jun-21 | 35000 |
-| Jul-21 | 38000 |
-| Aug-21 | 38000 |
-| Sep-21 | 25000 |
-| Oct-21 | 24000 |
-| Nov-21 | 24000 |
-| Dec-21 | 23000 |
-| Jun-22 | 23000 |
-| Dec-22 | 23000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 ### SUPRAMAX (58k)
 
@@ -518,18 +464,7 @@ DERIVATIVES MARKET REPORT – WEEK 50/2021 12
 
 **HANDYSIZE FORWARD CURVE (USD/DAY)**
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 10000 |
-| Jun-21 | 38000 |
-| Jul-21 | 38000 |
-| Aug-21 | 28000 |
-| Sep-21 | 25000 |
-| Oct-21 | 23000 |
-| Nov-21 | 22000 |
-| Dec-21 | 20000 |
-| Jun-22 | 20000 |
-| Dec-22 | 20000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # INTEREST RATES / CURRENCIES
 

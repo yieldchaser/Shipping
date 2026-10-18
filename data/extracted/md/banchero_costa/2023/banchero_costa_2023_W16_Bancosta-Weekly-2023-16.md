@@ -279,12 +279,7 @@ Charter market remains active, albeit number of fixings decreased slightly compa
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | China - N. Europe | N. Europe - China |
-| --- | --- | --- |
-| Apr-22 | 11000 | 500 |
-| Aug-22 | 7000 | 500 |
-| Dec-22 | 2000 | 500 |
-| Apr-23 | 1000 | 500 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SALE & PURCHASE MARKET REPORT – WEEK 16/2023
 

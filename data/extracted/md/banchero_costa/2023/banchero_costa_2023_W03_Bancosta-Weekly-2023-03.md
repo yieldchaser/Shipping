@@ -505,14 +505,7 @@ An active SAP market both for tanker and dry units with considerable requirement
 
 **BUNKER PRICES @ SINGAPORE (USD/T)**
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Jan-22 | 80 | 85 |
-| Mar-22 | 110 | 115 |
-| May-22 | 120 | 125 |
-| Jul-22 | 90 | 100 |
-| Sep-22 | 85 | 80 |
-| Jan-23 | 80 | 75 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 **BRENT & WTI OIL PRICE (USD/BBL)**
 

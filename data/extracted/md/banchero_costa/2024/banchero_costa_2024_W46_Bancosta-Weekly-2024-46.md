@@ -169,28 +169,13 @@ The **Aframax** market remained weak with rates easing to WS117.5 both CrossMed 
 | **Aframax TCE Average** | usd/day | 24,085 | 27,391 | -12.1% | -59.6% |
 | **Aframax 1-Y Period** | usd/day | 35,500 | 35,500 | +0.0% | -17.4% |
 
-| Date | TD3C VLCC MEG-FAR EAST (USD/DAY) |
-| --- | --- |
-| Nov-23 | 50000 |
-| Mar-24 | 70000 |
-| Jul-24 | 30000 |
-| Nov-24 | 30000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | TD7 AFRAMAX NSEA-UKC (USD/DAY) |
-| --- | --- |
-| Nov-23 | 75000 |
-| Mar-24 | 25000 |
-| Jul-24 | 25000 |
-| Nov-24 | 25000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | TD19 AFRAMAX MED-MED (USD/DAY) |
-| --- | --- |
-| Nov-23 | 50000 |
-| Mar-24 | 80000 |
-| Jul-24 | 20000 |
-| Nov-24 | 30000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 | Category | 1 YR TC PERIOD (USD/DAY) |
 | --- | --- |
@@ -229,24 +214,7 @@ The **Aframax** market remained weak with rates easing to WS117.5 both CrossMed 
 | **Med-Med (30k)** | ws | 167.5 | 160.0 | +4.7% | -47.7% |
 | **Black Sea-Med (30k)** | ws | 175.0 | 170.0 | +2.9% | -51.4% |
 
-| Chart Title | Date | Value (usd/day) |
-| --- | --- | --- |
-| TC1 LR2 MEG-JAPAN | Nov-23 | 20000 |
-| TC1 LR2 MEG-JAPAN | Mar-24 | 100000 |
-| TC1 LR2 MEG-JAPAN | Jul-24 | 40000 |
-| TC1 LR2 MEG-JAPAN | Nov-24 | 10000 |
-| MR ATLANTIC BASKET | Nov-23 | 50000 |
-| MR ATLANTIC BASKET | Mar-24 | 30000 |
-| MR ATLANTIC BASKET | Jul-24 | 25000 |
-| MR ATLANTIC BASKET | Nov-24 | 20000 |
-| MR PACIFIC BASKET | Nov-23 | 20000 |
-| MR PACIFIC BASKET | Mar-24 | 55000 |
-| MR PACIFIC BASKET | Jul-24 | 40000 |
-| MR PACIFIC BASKET | Nov-24 | 15000 |
-| 1 YR TC PERIOD (USD/DAY) | Nov-23 | 40000 |
-| 1 YR TC PERIOD (USD/DAY) | Mar-24 | 50000 |
-| 1 YR TC PERIOD (USD/DAY) | Jul-24 | 40000 |
-| 1 YR TC PERIOD (USD/DAY) | Nov-24 | 30000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # CONTAINERSHIP MARKET
 
@@ -274,12 +242,7 @@ The PostPanamax segment has been quite active with MSC extending 4 x 8,000 teu a
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Time Period | 2500 | 1700 | 1100 |
-| --- | --- | --- | --- |
-| Nov-23 | 10,000 | 10,000 | 8,000 |
-| Mar-24 | 15,000 | 15,000 | 10,000 |
-| Jul-24 | 29,000 | 20,000 | 13,000 |
-| Nov-24 | 29,000 | 19,000 | 13,000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

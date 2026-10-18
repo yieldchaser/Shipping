@@ -185,22 +185,7 @@ In NW Europe rates moved up to WS100 level. American market finally recovered up
 
 > **Chart (not transcribed):** TD7 AFRAMAX NSEA-UKC (USD/DAY). The report prints no values for it.
 
-| TD19 AFRAMAX MED-MED (USD/DAY) | TD19 AFRAMAX MED-MED (USD/DAY) |
-| --- | --- |
-| Date | Value |
-| Oct-22 | 50000 |
-| Nov-22 | 150000 |
-| Dec-22 | 140000 |
-| Jan-23 | 100000 |
-| Feb-23 | 80000 |
-| Mar-23 | 70000 |
-| Apr-23 | 60000 |
-| May-23 | 50000 |
-| Jun-23 | 30000 |
-| Jul-23 | 20000 |
-| Aug-23 | 10000 |
-| Sep-23 | 5000 |
-| Oct-23 | -5000 |
+> **Chart (not transcribed):** TD19 AFRAMAX MED-MED (USD/DAY). The report prints no values for it.
 
 > **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 

@@ -498,21 +498,9 @@ During the week, scrubber fitted Capesize Nord Ferrum abt 179k blt 2011 Hanjin (
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| May-23 | 2.0 |
-| Jul-23 | 3.0 |
-| Sep-23 | 3.5 |
-| Jan-24 | 1.5 |
-| May-24 | 2.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| DATE | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| May-23 | 180 | 100 |
-| Jul-23 | 160 | 110 |
-| Sep-23 | 150 | 120 |
-| Jan-24 | 140 | 130 |
-| May-24 | 140 | 120 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
@@ -528,23 +516,11 @@ During the week, scrubber fitted Capesize Nord Ferrum abt 179k blt 2011 Hanjin (
 
 # HENRY HUB PRICE (USD/MMBTU)
 
-| DATE | Henry Hub Nat Gas |
-| --- | --- |
-| May-23 | 2.0 |
-| Jul-23 | 3.0 |
-| Sep-23 | 3.5 |
-| Jan-24 | 1.5 |
-| May-24 | 2.0 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COAL & IRON ORE PRICE (USD/T)
 
-| DATE | Steam Coal | Iron Ore |
-| --- | --- | --- |
-| May-23 | 180 | 100 |
-| Jul-23 | 160 | 110 |
-| Sep-23 | 150 | 120 |
-| Jan-24 | 140 | 130 |
-| May-24 | 140 | 120 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # STEEL PRICES IN CHINA (RMB/T)
 

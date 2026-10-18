@@ -367,20 +367,7 @@ The demolition market still remains quiet, with very few reported transactions. 
 | **Aframax** | usd mln | 40.8 | 40.7 | +0.1% | +18.6% |
 | **MR Product** | usd mln | 28.4 | 28.2 | +0.5% | +9.2% |
 
-| Category | Date | Value (USD MLN) |
-| --- | --- | --- |
-| Kamsarmax | Dec-20 | 20 |
-| Kamsarmax | Apr-21 | 28 |
-| Kamsarmax | Aug-21 | 32 |
-| Kamsarmax | Dec-21 | 32 |
-| Aframax | Dec-20 | 35 |
-| Aframax | Apr-21 | 37 |
-| Aframax | Aug-21 | 40 |
-| Aframax | Dec-21 | 40 |
-| MR | Dec-20 | 26 |
-| MR | Apr-21 | 27 |
-| MR | Aug-21 | 27 |
-| MR | Dec-21 | 27 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 DERIVATIVES MARKET REPORT – WEEK 49/2021 12
 
@@ -436,33 +423,15 @@ DERIVATIVES MARKET REPORT – WEEK 49/2021 12
 
 # PANAMAX FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 12000 |
-| Jun-21 | 38000 |
-| Dec-21 | 25000 |
-| Jun-22 | 20000 |
-| Dec-22 | 20000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # SUPRAMAX FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 10000 |
-| Jun-21 | 35000 |
-| Dec-21 | 25000 |
-| Jun-22 | 20000 |
-| Dec-22 | 20000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # HANDYSIZE FORWARD CURVE (USD/DAY)
 
-| Date | Value |
-| --- | --- |
-| Dec-20 | 10000 |
-| Jun-21 | 38000 |
-| Dec-21 | 30000 |
-| Jun-22 | 20000 |
-| Dec-22 | 18000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # INTEREST RATES / CURRENCIES
 

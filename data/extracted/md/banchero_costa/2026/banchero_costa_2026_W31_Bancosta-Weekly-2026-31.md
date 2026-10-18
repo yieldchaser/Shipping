@@ -577,20 +577,14 @@ The recycling market found its voice this week, breaking a month-long drought wi
 | Sugar ICE N.11 |  | usc/lb | 14.66 | 14.77 | -0.7% | -10.0% |
 | Palm Oil Malaysia |  | usd/t | 1110.0 | 1121.5 | -1.0% | +11.1% |
 
-| Category | Item | Unit | 31-Jul | 24-Jul | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **COAL & IRON ORE PRICE (USD/T)** |  |  |  |  |  |  |
-| Steam Coal |  |  | 110 | 105 | -4.5% | +5.0% |
-| Iron Ore |  |  | 100 | 102 | +2.0% | -2.0% |
+### COAL & IRON ORE PRICE (USD/T)
 
-| Category | Item | Unit | 31-Jul | 24-Jul | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **STEEL PRICES IN CHINA (RMB/T)** |  |  |  |  |  |  |
-| HRC |  |  | 3100 | 3200 | +3.2% | +2.8% |
-| Plate |  |  | 3400 | 3450 | +1.5% | +1.2% |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Category | Item | Unit | 31-Jul | 24-Jul | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- | --- | --- |
-| **WHEAT & CORN PRICES (USD/T)** |  |  |  |  |  |  |
-| Corn |  |  | 420 | 450 | +7.1% | +8.5% |
-| Wheat |  |  | 550 | 580 | +5.5% | +12.0% |
+### STEEL PRICES IN CHINA (RMB/T)
+
+> **Chart (not transcribed).** The report prints no values for it.
+
+### WHEAT & CORN PRICES (USD/T)
+
+> **Chart (not transcribed).** The report prints no values for it.

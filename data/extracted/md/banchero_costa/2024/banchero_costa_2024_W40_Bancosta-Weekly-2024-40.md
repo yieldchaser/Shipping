@@ -228,26 +228,11 @@ Handies in UKC remained steady 30@200. In MED rates increased from WS165 up to W
 | **Med-Med (30k)** | ws | 170.0 | 170.0 | +0.0% | -34.6% |
 | **Black Sea-Med (30k)** | ws | 215.0 | 215.0 | +0.0% | -28.3% |
 
-| Date | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Oct-23 | 30000 |
-| Feb-24 | 100000 |
-| Jun-24 | 50000 |
-| Oct-24 | 30000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Oct-23 | 20000 |
-| Feb-24 | 60000 |
-| Jun-24 | 30000 |
-| Oct-24 | 20000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Oct-23 | 35000 |
-| Feb-24 | 55000 |
-| Jun-24 | 40000 |
-| Oct-24 | 20000 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

@@ -233,29 +233,11 @@ Concerning Russian liftings (which remain completely owner/insurance dependent),
 | **Med-Med (30k)** | ws | 300.0 | 305.0 | -1.6% | +160.9% |
 | **Black Sea-Med (30k)** | ws | 510.0 | 515.0 | -1.0% | +308.0% |
 
-| TC1 LR2 MEG-JAPAN (usd/day) | TC1 LR2 MEG-JAPAN (usd/day) |
-| --- | --- |
-| Date | Value |
-| Jun-21 | 0 |
-| Oct-21 | 10,000 |
-| Feb-22 | 20,000 |
-| Jun-22 | 60,000 |
+> **Chart (not transcribed):** TC1 LR2 MEG-JAPAN (usd/day). The report prints no values for it.
 
-| MR ATLANTIC BASKET (usd/day) | MR ATLANTIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Jun-21 | 0 |
-| Oct-21 | 10,000 |
-| Feb-22 | 40,000 |
-| Jun-22 | 60,000 |
+> **Chart (not transcribed):** MR ATLANTIC BASKET (usd/day). The report prints no values for it.
 
-| MR PACIFIC BASKET (usd/day) | MR PACIFIC BASKET (usd/day) |
-| --- | --- |
-| Date | Value |
-| Jun-21 | 0 |
-| Oct-21 | 10,000 |
-| Feb-22 | 20,000 |
-| Jun-22 | 60,000 |
+> **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
 > **Chart (not transcribed):** 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 

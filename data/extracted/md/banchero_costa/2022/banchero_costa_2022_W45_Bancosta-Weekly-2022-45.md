@@ -305,12 +305,7 @@ Swiss based Sallaum Lines placed an order for 2 x 7,600 ceu car carriers from Fu
 | LR2 Coated | usd mln | 60.6 | 60.7 | -0.1% | +6.5% |
 | MR2 Coated | usd mln | 39.7 | 39.7 | +0.0% | +8.5% |
 
-| Time | Kamsarmax | Suezmax | MR |
-| --- | --- | --- | --- |
-| Nov-21 | 35 | 68 | 38 |
-| Mar-22 | 36 | 68 | 39 |
-| Jul-22 | 36 | 69 | 39 |
-| Nov-22 | 35 | 70 | 40 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 # DEMOLITION SALES
 

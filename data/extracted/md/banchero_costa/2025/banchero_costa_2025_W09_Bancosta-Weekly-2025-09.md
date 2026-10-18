@@ -589,12 +589,7 @@ In the tanker sector, the two Suezmax **ONISILOS** 159,100 dwt 2004 Hyundai buil
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Feb-24 | 1.5 |
-| Jun-24 | 2.8 |
-| Oct-24 | 3.5 |
-| Feb-25 | 4.2 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 

@@ -507,11 +507,7 @@ Though the most relevant deal announced is the purchase of eight LR2 by TORM; th
 
 ### HENRY HUB PRICE (USD/MMBTU)<br/>Harry Hub Nat Gas
 
-| Nov-22 | 7.0 |
-| --- | --- |
-| Mar-23 | 2.5 |
-| Jul-23 | 3.0 |
-| Nov-23 | 3.5 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed):** COAL & IRON ORE PRICE (USD/T). The report prints no values for it.
 

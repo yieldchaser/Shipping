@@ -542,19 +542,9 @@ The MR2 GT FREEDOM 46,000 dwt 2003 Shin Kurushima built SS Jun 2026 was reported
 
 > **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Brent | WTI |
-| --- | --- | --- |
-| Apr-25 | 65 | 60 |
-| Aug-25 | 65 | 65 |
-| Dec-25 | 70 | 70 |
-| Apr-26 | 110 | 90 |
+> **Chart (not transcribed).** The report prints no values for it.
 
-| Date | Henry Hub Nat Gas |
-| --- | --- |
-| Apr-25 | 3.5 |
-| Aug-25 | 2.8 |
-| Dec-25 | 5.2 |
-| Apr-26 | 2.8 |
+> **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.
 
