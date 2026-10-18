@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "e9ca698b-f926-443b-b187-9f3f23aa4f70"
 images_count: 24
 local_pdf: "../pdfs/2025/2025-08-18_fearnleys-dry-bulk-market-outlook-august-2025-1.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2025/2025-08-18_fearnleys-dry-bulk-market-outlook-august-2025-1.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/e9ca698b-f926-443b-b187-9f3f23aa4f70/report.pdf"
 ---
 # Fearnleys Dry Bulk Market Outlook

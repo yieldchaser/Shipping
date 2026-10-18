@@ -5,7 +5,7 @@ report_week: 8
 date_range: "17th February 2025 to 23rd February 2025"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2025-02-25_Week-08-2025-Athenian-Demo-Report-1.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2025-02-25_Week-08-2025-Athenian-Demo-Report-1.pdf"
 prices_count: 12
 ---
 

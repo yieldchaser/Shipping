@@ -5,7 +5,7 @@ report_week: 47
 date_range: "18th November to 24th November 2024"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2024-11-26_Week-47-Athenian-Demo-Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2024-11-26_Week-47-Athenian-Demo-Report.pdf"
 prices_count: 12
 ---
 

@@ -5,7 +5,7 @@ report_week: 42
 date_range: "14th October to 20th October 2024"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2024-10-22_Week-42-Athenian-Demo-Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2024-10-22_Week-42-Athenian-Demo-Report.pdf"
 prices_count: 12
 ---
 

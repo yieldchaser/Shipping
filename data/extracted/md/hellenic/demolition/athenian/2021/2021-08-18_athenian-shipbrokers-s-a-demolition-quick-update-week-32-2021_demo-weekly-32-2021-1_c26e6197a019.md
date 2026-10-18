@@ -5,7 +5,7 @@ report_week: 32
 date_range: "9th- 15th August"
 weekly_trend: "N/A"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2021-08-18_athenian-shipbrokers-s-a-demolition-quick-update-week-32-2021_demo-weekly-32-2021-1_c26e6197a019.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2021-08-18_athenian-shipbrokers-s-a-demolition-quick-update-week-32-2021_demo-weekly-32-2021-1_c26e6197a019.pdf"
 prices_count: 8
 ---
 

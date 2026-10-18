@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "9bb07133-4895-4c32-9f0f-726e381c7837"
 images_count: 7
 local_pdf: "../pdfs/2026/2026-04-07_lng-fsru-quarterly-q126.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-04-07_lng-fsru-quarterly-q126.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/9bb07133-4895-4c32-9f0f-726e381c7837/report.pdf"
 ---
 # FSRU Quarterly - Q1/26

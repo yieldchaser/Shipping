@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "6ba0bda4-c3f0-468b-ac96-ecd258b42165"
 images_count: 7
 local_pdf: "../pdfs/2026/2026-01-01_lng-fsru-annual-report-2025.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-01-01_lng-fsru-annual-report-2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/6ba0bda4-c3f0-468b-ac96-ecd258b42165/report.pdf"
 ---
 # FSRU Annual Review - 2025

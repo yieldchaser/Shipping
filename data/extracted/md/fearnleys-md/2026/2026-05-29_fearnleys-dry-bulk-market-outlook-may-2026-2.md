@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "7946d9ff-b6ff-4431-808f-c9a9d19c75d1"
 images_count: 24
 local_pdf: "../pdfs/2026/2026-05-29_fearnleys-dry-bulk-market-outlook-may-2026-2.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-05-29_fearnleys-dry-bulk-market-outlook-may-2026-2.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/7946d9ff-b6ff-4431-808f-c9a9d19c75d1/report.pdf"
 ---
 # Fearnleys Dry Bulk Market Outlook

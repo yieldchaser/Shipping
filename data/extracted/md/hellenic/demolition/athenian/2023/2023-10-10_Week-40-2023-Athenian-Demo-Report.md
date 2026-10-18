@@ -5,7 +5,7 @@ report_week: 40
 date_range: "2nd October to 8th October 2023"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2023-10-10_Week-40-2023-Athenian-Demo-Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2023-10-10_Week-40-2023-Athenian-Demo-Report.pdf"
 prices_count: 12
 ---
 

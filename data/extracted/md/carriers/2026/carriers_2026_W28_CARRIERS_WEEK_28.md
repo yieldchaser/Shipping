@@ -2,7 +2,7 @@
 title: "Carriers Freight Review Dry carriers_2026_W28_CARRIERS_WEEK_28"
 issue_date: "2026-07-06"
 report_week: 28
-source_file: "carriers_2026_W28_CARRIERS_WEEK_28.pdf"
+source_file: "corpus/01-brokers/carriers/2026/carriers_2026_W28_CARRIERS_WEEK_28.pdf"
 publisher: carriers
 pages_total: 6
 substantive_pages: [1, 2, 3, 4, 5, 6]

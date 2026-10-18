@@ -5,7 +5,7 @@ report_week: 26
 date_range: "27th June to 3rd July 2022"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2022-07-05_Week_26_2022_Athenian_Demo_report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2022-07-05_Week_26_2022_Athenian_Demo_report.pdf"
 prices_count: 12
 ---
 

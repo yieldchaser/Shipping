@@ -5,7 +5,7 @@ report_week: 39
 date_range: "27th September to 3rd October 2021"
 weekly_trend: "Weaker"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2021-10-06_athenian-shipbrokers-s-a-demolition-quick-update-week-39-2021_demo-ig-weekly-39-2021_9e3246a481ac.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2021-10-06_athenian-shipbrokers-s-a-demolition-quick-update-week-39-2021_demo-ig-weekly-39-2021_9e3246a481ac.pdf"
 prices_count: 12
 ---
 

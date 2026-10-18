@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "ce100923-6f8b-4644-bdcc-afa64d8c042f"
 images_count: 29
 local_pdf: "../pdfs/2026/2026-01-29_fearnleys-tanker-market-wrap-up-jan-2026.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-01-29_fearnleys-tanker-market-wrap-up-jan-2026.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/ce100923-6f8b-4644-bdcc-afa64d8c042f/report.pdf"
 ---
 # Fearnleys Tanker Market Wrap-up Jan 2026

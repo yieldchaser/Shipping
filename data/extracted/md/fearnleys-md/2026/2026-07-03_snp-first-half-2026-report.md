@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "7e27f798-72b1-46e3-9a53-3b2a3079e30d"
 images_count: 4
 local_pdf: "../pdfs/2026/2026-07-03_snp-first-half-2026-report.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-07-03_snp-first-half-2026-report.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/report.pdf"
 ---
 # SnP First Half 2026 report

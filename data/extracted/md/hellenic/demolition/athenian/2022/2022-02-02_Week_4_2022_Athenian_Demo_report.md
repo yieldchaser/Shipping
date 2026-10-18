@@ -5,7 +5,7 @@ report_week: 4
 date_range: "24th to 30th January 2022"
 weekly_trend: "Upwards"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2022-02-02_Week_4_2022_Athenian_Demo_report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2022-02-02_Week_4_2022_Athenian_Demo_report.pdf"
 prices_count: 12
 ---
 

@@ -5,7 +5,7 @@ report_week: 15
 date_range: "11th April to 17th April 2022"
 weekly_trend: "Upward"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2022-04-19_Week_15_2022_Athenian_Demo_report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2022-04-19_Week_15_2022_Athenian_Demo_report.pdf"
 prices_count: 12
 ---
 

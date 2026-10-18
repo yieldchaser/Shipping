@@ -5,7 +5,7 @@ report_week: 3
 date_range: "17th January to 23rd January 2022"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2022-01-26_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2026_week-36-athenian-demolition-report-2_2c3e38bed81c.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/athenian/2022-01-26_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2026_week-36-athenian-demolition-report-2_2c3e38bed81c.pdf"
 prices_count: 12
 ---
 

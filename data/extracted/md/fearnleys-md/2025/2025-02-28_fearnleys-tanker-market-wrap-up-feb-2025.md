@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "b8be760d-ef36-4161-b897-edefac72910d"
 images_count: 23
 local_pdf: "../pdfs/2025/2025-02-28_fearnleys-tanker-market-wrap-up-feb-2025.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2025/2025-02-28_fearnleys-tanker-market-wrap-up-feb-2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/b8be760d-ef36-4161-b897-edefac72910d/report.pdf"
 ---
 # Fearnleys Tanker Market Wrap-up Feb 2025

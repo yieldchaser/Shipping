@@ -5,7 +5,7 @@ report_week: 30
 date_range: "20th July 2026 to 26th July 2026"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2026-07-28_athenian-shipbrokers-s-a-demolition-quick-update-week-30-2026_week-30-athenian-demolition-report-2_d3e763423c50.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2026-07-28_athenian-shipbrokers-s-a-demolition-quick-update-week-30-2026_week-30-athenian-demolition-report-2_d3e763423c50.pdf"
 prices_count: 12
 ---
 

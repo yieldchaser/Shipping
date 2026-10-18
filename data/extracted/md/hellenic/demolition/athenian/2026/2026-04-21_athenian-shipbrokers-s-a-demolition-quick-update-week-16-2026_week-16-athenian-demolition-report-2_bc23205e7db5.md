@@ -5,7 +5,7 @@ report_week: 16
 date_range: "13th April 2026 to 19th April 2026"
 weekly_trend: "Upwards"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2026-04-21_athenian-shipbrokers-s-a-demolition-quick-update-week-16-2026_week-16-athenian-demolition-report-2_bc23205e7db5.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2026-04-21_athenian-shipbrokers-s-a-demolition-quick-update-week-16-2026_week-16-athenian-demolition-report-2_bc23205e7db5.pdf"
 prices_count: 12
 ---
 

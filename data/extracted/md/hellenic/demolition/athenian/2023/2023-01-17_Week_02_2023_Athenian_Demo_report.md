@@ -5,7 +5,7 @@ report_week: 2
 date_range: "9th January to 15th January 2023"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2023-01-17_Week_02_2023_Athenian_Demo_report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2023-01-17_Week_02_2023_Athenian_Demo_report.pdf"
 prices_count: 12
 ---
 

@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "ef867da7-1e29-485a-a5cd-146b1d9a8e4b"
 images_count: 13
 local_pdf: "../pdfs/2024/2024-12-30_lng-snp-report-december-2024.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2024/2024-12-30_lng-snp-report-december-2024.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/report.pdf"
 ---
 # LNG SnP report - December

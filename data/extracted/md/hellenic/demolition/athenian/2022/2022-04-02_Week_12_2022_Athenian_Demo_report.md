@@ -5,7 +5,7 @@ report_week: 12
 date_range: "21st March to 27th March 2022"
 weekly_trend: "Downward"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2022-04-02_Week_12_2022_Athenian_Demo_report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2022-04-02_Week_12_2022_Athenian_Demo_report.pdf"
 prices_count: 12
 ---
 

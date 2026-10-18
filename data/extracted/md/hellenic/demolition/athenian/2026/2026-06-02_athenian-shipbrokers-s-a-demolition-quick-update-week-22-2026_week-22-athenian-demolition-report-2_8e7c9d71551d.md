@@ -5,7 +5,7 @@ report_week: 22
 date_range: "25th May 2026 to 31st May 2026"
 weekly_trend: "Downwards"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2026-06-02_athenian-shipbrokers-s-a-demolition-quick-update-week-22-2026_week-22-athenian-demolition-report-2_8e7c9d71551d.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2026-06-02_athenian-shipbrokers-s-a-demolition-quick-update-week-22-2026_week-22-athenian-demolition-report-2_8e7c9d71551d.pdf"
 prices_count: 12
 ---
 

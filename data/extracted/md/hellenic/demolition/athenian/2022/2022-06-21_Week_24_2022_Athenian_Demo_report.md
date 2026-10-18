@@ -5,7 +5,7 @@ report_week: 24
 date_range: "13th June to 19th June 2022"
 weekly_trend: "Downward"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2022-06-21_Week_24_2022_Athenian_Demo_report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2022-06-21_Week_24_2022_Athenian_Demo_report.pdf"
 prices_count: 12
 ---
 

@@ -5,7 +5,7 @@ report_week: 28
 date_range: "12th- 16nd July"
 weekly_trend: "N/A"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-2021_ship-recycling-weekly-28-2021-atheni_168830057a95.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-2021_ship-recycling-weekly-28-2021-atheni_168830057a95.pdf"
 prices_count: 8
 ---
 

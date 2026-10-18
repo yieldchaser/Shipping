@@ -5,7 +5,7 @@ report_week: 35
 date_range: "30th August to 5th September 2021"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2021-09-08_athenian-shipbrokers-s-a-demolition-quick-update-week-35-2021_demo-ig-weekly-35-2021pdf_19c1d8a85fb7.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2021-09-08_athenian-shipbrokers-s-a-demolition-quick-update-week-35-2021_demo-ig-weekly-35-2021pdf_19c1d8a85fb7.pdf"
 prices_count: 12
 ---
 

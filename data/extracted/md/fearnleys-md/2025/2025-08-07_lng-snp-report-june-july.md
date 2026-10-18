@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "e726f5d2-513f-4f95-945f-97ffbedb63e1"
 images_count: 10
 local_pdf: "../pdfs/2025/2025-08-07_lng-snp-report-june-july.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2025/2025-08-07_lng-snp-report-june-july.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/e726f5d2-513f-4f95-945f-97ffbedb63e1/report.pdf"
 ---
 # LNG SnP report - June & July

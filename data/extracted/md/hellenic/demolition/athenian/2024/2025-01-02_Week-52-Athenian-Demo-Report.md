@@ -5,7 +5,7 @@ report_week: 52
 date_range: "23rd December to 29th December 2024"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2025-01-02_Week-52-Athenian-Demo-Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2025-01-02_Week-52-Athenian-Demo-Report.pdf"
 prices_count: 12
 ---
 

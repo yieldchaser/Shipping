@@ -5,7 +5,7 @@ report_week: 5
 date_range: "30th January to 5th February 2023"
 weekly_trend: "Stable"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2023-02-07_Week_05_2023_Athenian_Demo.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2023-02-07_Week_05_2023_Athenian_Demo.pdf"
 prices_count: 12
 ---
 

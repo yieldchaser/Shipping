@@ -5,7 +5,7 @@ report_week: 42
 date_range: "18th October to 24th October 2021"
 weekly_trend: "Upward"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2021-10-27_athenian-shipbrokers-s-a-demolition-quick-update-week-42-2021_demo-ig-weekly-42-2021_60fd1273cfe4.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2021-10-27_athenian-shipbrokers-s-a-demolition-quick-update-week-42-2021_demo-ig-weekly-42-2021_60fd1273cfe4.pdf"
 prices_count: 12
 ---
 

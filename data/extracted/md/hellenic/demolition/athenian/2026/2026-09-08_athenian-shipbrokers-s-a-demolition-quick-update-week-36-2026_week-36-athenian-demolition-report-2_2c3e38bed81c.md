@@ -5,7 +5,7 @@ report_week: 36
 date_range: "31st August 2026 to 6th September 2026"
 weekly_trend: "Upwards"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2026-09-08_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2026_week-36-athenian-demolition-report-2_2c3e38bed81c.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2026-09-08_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2026_week-36-athenian-demolition-report-2_2c3e38bed81c.pdf"
 prices_count: 12
 ---
 

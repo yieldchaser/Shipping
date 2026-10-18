@@ -5,7 +5,7 @@ report_week: 34
 date_range: "18th August 2025 to 24th August 2025"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2025-08-26_Week_34_Athenian_Demo_Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2025-08-26_Week_34_Athenian_Demo_Report.pdf"
 prices_count: 12
 ---
 

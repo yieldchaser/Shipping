@@ -5,7 +5,7 @@ report_week: 44
 date_range: "30th October to 5th November 2023"
 weekly_trend: "Downward"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2023-11-07_Week_44_2023_Athenian_Demo_Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2023-11-07_Week_44_2023_Athenian_Demo_Report.pdf"
 prices_count: 12
 ---
 

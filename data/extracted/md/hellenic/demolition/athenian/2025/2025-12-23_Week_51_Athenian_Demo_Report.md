@@ -5,7 +5,7 @@ report_week: 51
 date_range: "15th December 2025 to 21st December 2025"
 weekly_trend: "Upward"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2025-12-23_Week_51_Athenian_Demo_Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2025-12-23_Week_51_Athenian_Demo_Report.pdf"
 prices_count: 12
 ---
 

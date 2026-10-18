@@ -5,7 +5,7 @@ report_week: 29
 date_range: "19th- 23rd July"
 weekly_trend: "N/A"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2021-07-28_athenian-shipbrokers-s-a-demolition-quick-update-week-29-2021_ath-demo-weekly-29-2021-athenian-1_d8c39ac71a7a.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2021-07-28_athenian-shipbrokers-s-a-demolition-quick-update-week-29-2021_ath-demo-weekly-29-2021-athenian-1_d8c39ac71a7a.pdf"
 prices_count: 8
 ---
 

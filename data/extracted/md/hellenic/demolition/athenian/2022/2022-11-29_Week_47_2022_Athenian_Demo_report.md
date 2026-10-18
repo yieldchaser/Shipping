@@ -5,7 +5,7 @@ report_week: 47
 date_range: "21st November to 27th November 2022"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2022-11-29_Week_47_2022_Athenian_Demo_report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2022-11-29_Week_47_2022_Athenian_Demo_report.pdf"
 prices_count: 12
 ---
 

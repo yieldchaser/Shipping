@@ -5,7 +5,7 @@ report_week: 6
 date_range: "7th February to 13th February 2023"
 weekly_trend: "Stable"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2023-02-14_Week_06_DEMO_REPORT.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2023-02-14_Week_06_DEMO_REPORT.pdf"
 prices_count: 12
 ---
 

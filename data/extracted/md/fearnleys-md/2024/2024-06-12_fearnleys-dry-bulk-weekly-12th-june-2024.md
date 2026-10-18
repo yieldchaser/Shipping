@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "04debf61-6d63-4bd9-9bc8-2ef35537721b"
 images_count: 11
 local_pdf: "../pdfs/2024/2024-06-12_fearnleys-dry-bulk-weekly-12th-june-2024.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2024/2024-06-12_fearnleys-dry-bulk-weekly-12th-june-2024.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/04debf61-6d63-4bd9-9bc8-2ef35537721b/report.pdf"
 ---
 # Fearnleys Dry Bulk Weekly

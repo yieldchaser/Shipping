@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "f13e2f1b-acc2-4517-83e4-79035eaf7553"
 images_count: 8
 local_pdf: "../pdfs/2025/2025-01-14_fearnleys-tanker-sanctions-special-report.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2025/2025-01-14_fearnleys-tanker-sanctions-special-report.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/f13e2f1b-acc2-4517-83e4-79035eaf7553/report.pdf"
 ---
 # Fearnleys Tanker Sanctions Special Report

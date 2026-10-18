@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "1ccdee03-2a41-4879-9967-e806d6bb39bd"
 images_count: 13
 local_pdf: "../pdfs/2024/2024-07-05_vlgc-quarterly-market-report-q2-2024.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2024/2024-07-05_vlgc-quarterly-market-report-q2-2024.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/1ccdee03-2a41-4879-9967-e806d6bb39bd/report.pdf"
 ---
 # VLGC Quarterly Market Report - Q2 2024

@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "fb340245-ad39-43ce-a380-c6e999ba9899"
 images_count: 27
 local_pdf: "../pdfs/2025/2025-01-31_fearnleys-tanker-market-wrap-up-jan-2025.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2025/2025-01-31_fearnleys-tanker-market-wrap-up-jan-2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/fb340245-ad39-43ce-a380-c6e999ba9899/report.pdf"
 ---
 # Fearnleys Tanker Market Wrap-up Jan 2025

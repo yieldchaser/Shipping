@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "995010c6-8b2b-43c4-bac0-8381de5c7609"
 images_count: 38
 local_pdf: "../pdfs/2025/2025-01-13_lng-shipping-annual-report-2024.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2025/2025-01-13_lng-shipping-annual-report-2024.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/995010c6-8b2b-43c4-bac0-8381de5c7609/report.pdf"
 ---
 # LNG Shipping - Annual Report 2024

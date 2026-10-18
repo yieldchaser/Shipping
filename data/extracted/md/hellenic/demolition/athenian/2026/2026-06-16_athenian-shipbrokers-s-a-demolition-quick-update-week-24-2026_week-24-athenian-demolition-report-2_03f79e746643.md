@@ -5,7 +5,7 @@ report_week: 24
 date_range: "8th June 2026 to 14th June 2026"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2026-06-16_athenian-shipbrokers-s-a-demolition-quick-update-week-24-2026_week-24-athenian-demolition-report-2_03f79e746643.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2026-06-16_athenian-shipbrokers-s-a-demolition-quick-update-week-24-2026_week-24-athenian-demolition-report-2_03f79e746643.pdf"
 prices_count: 12
 ---
 

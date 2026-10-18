@@ -5,7 +5,7 @@ report_week: 12
 date_range: "18th to 24th March 2024"
 weekly_trend: "Downwards"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2024-03-26_Week-12-2024-Athenian-Demo-Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2024-03-26_Week-12-2024-Athenian-Demo-Report.pdf"
 prices_count: 12
 ---
 

@@ -5,7 +5,7 @@ report_week: 36
 date_range: "2nd September to 8th September 2024"
 weekly_trend: "Downward"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2024-09-10_Week_36_Athenian_Demo_Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2024-09-10_Week_36_Athenian_Demo_Report.pdf"
 prices_count: 12
 ---
 

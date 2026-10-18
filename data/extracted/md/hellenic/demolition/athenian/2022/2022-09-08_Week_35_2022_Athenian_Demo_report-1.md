@@ -5,7 +5,7 @@ report_week: 35
 date_range: "29th August to 4th September 2022"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2022-09-08_Week_35_2022_Athenian_Demo_report-1.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2022-09-08_Week_35_2022_Athenian_Demo_report-1.pdf"
 prices_count: 12
 ---
 

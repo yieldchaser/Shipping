@@ -5,7 +5,7 @@ report_week: 46
 date_range: "15th to 21st November 2021"
 weekly_trend: "Upward"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2021-11-24_athenian-shipbrokers-s-a-demolition-quick-update-week-46-2021_demo-ig-weekly-46-2021_ac1ddac8a248.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2021-11-24_athenian-shipbrokers-s-a-demolition-quick-update-week-46-2021_demo-ig-weekly-46-2021_ac1ddac8a248.pdf"
 prices_count: 12
 ---
 

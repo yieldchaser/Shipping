@@ -5,7 +5,7 @@ report_week: 22
 date_range: "27th May to 2nd June 2024"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2024-06-04_Week-22-2024-Athenian-Demo-Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2024-06-04_Week-22-2024-Athenian-Demo-Report.pdf"
 prices_count: 12
 ---
 

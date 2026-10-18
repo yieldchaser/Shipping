@@ -5,7 +5,7 @@ report_week: 41
 date_range: "6th October 2025 to 12th October 2025"
 weekly_trend: "Upwards"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2025-10-14_Week_41_Athenian_Demo_Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2025-10-14_Week_41_Athenian_Demo_Report.pdf"
 prices_count: 12
 ---
 

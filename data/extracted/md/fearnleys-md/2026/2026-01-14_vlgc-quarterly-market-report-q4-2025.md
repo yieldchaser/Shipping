@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "9d012376-4fb6-405e-a762-772651ef992a"
 images_count: 21
 local_pdf: "../pdfs/2026/2026-01-14_vlgc-quarterly-market-report-q4-2025.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-01-14_vlgc-quarterly-market-report-q4-2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/9d012376-4fb6-405e-a762-772651ef992a/report.pdf"
 ---
 # VLGC Quarterly Report - 2025 Review

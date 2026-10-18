@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0"
 images_count: 28
 local_pdf: "../pdfs/2025/2025-10-09_lng-shipping-quarterly-report-q3-2025.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2025/2025-10-09_lng-shipping-quarterly-report-q3-2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/report.pdf"
 ---
 # LNG Shipping - Quarterly Report Q3 2025

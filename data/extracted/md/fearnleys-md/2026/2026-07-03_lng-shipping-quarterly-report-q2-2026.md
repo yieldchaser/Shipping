@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "d673e9de-e5bb-46ef-8aeb-b758087b1563"
 images_count: 28
 local_pdf: "../pdfs/2026/2026-07-03_lng-shipping-quarterly-report-q2-2026.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-07-03_lng-shipping-quarterly-report-q2-2026.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/report.pdf"
 ---
 # LNG Shipping - Quarterly Report Q2 2026

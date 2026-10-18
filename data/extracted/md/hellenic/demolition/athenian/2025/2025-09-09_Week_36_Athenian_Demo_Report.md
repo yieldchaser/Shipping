@@ -5,7 +5,7 @@ report_week: 36
 date_range: "1st September 2025 to 7th September 2025"
 weekly_trend: "Downwards"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2025-09-09_Week_36_Athenian_Demo_Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2025-09-09_Week_36_Athenian_Demo_Report.pdf"
 prices_count: 12
 ---
 

@@ -5,7 +5,7 @@ report_week: 30
 date_range: "24th July to 30th July 2023"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2023-08-01_Week_30_2023_Athenian_Demo_report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2023-08-01_Week_30_2023_Athenian_Demo_report.pdf"
 prices_count: 12
 ---
 

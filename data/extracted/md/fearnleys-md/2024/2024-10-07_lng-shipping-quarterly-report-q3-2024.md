@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13"
 images_count: 33
 local_pdf: "../pdfs/2024/2024-10-07_lng-shipping-quarterly-report-q3-2024.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2024/2024-10-07_lng-shipping-quarterly-report-q3-2024.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/report.pdf"
 ---
 # LNG Shipping - Quarterly Report Q3 2024

@@ -5,7 +5,7 @@ report_week: 45
 date_range: "6th to 12th November 2023"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2023-11-14_Week_45_2023_Athenian_Demo_report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2023-11-14_Week_45_2023_Athenian_Demo_report.pdf"
 prices_count: 12
 ---
 

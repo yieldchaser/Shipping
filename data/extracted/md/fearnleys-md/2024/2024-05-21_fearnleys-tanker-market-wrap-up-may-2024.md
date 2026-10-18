@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b"
 images_count: 28
 local_pdf: "../pdfs/2024/2024-05-21_fearnleys-tanker-market-wrap-up-may-2024.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2024/2024-05-21_fearnleys-tanker-market-wrap-up-may-2024.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/report.pdf"
 ---
 # Fearnleys Tanker Market Wrap-up May 2024

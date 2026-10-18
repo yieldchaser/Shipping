@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "93f12843-c398-404a-8b66-b2e4eb4201c5"
 images_count: 7
 local_pdf: "../pdfs/2025/2025-07-04_lng-fsru-report-q225.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2025/2025-07-04_lng-fsru-report-q225.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/93f12843-c398-404a-8b66-b2e4eb4201c5/report.pdf"
 ---
 # FSRU Quarterly - Q2/25

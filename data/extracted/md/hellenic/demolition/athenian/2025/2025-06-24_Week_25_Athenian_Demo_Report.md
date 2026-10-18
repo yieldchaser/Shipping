@@ -5,7 +5,7 @@ report_week: 25
 date_range: "16th June 2025 to 22nd June 2025"
 weekly_trend: "Downward"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2025-06-24_Week_25_Athenian_Demo_Report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2025-06-24_Week_25_Athenian_Demo_Report.pdf"
 prices_count: 12
 ---
 

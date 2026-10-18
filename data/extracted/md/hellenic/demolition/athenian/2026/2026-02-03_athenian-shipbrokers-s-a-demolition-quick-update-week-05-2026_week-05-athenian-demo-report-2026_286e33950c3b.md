@@ -5,7 +5,7 @@ report_week: 5
 date_range: "26th January 2026 to 1st February 2026"
 weekly_trend: "Upwards"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2026-02-03_athenian-shipbrokers-s-a-demolition-quick-update-week-05-2026_week-05-athenian-demo-report-2026_286e33950c3b.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2026-02-03_athenian-shipbrokers-s-a-demolition-quick-update-week-05-2026_week-05-athenian-demo-report-2026_286e33950c3b.pdf"
 prices_count: 12
 ---
 

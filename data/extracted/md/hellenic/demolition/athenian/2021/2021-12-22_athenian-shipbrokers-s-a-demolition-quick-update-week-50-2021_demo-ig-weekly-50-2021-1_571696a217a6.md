@@ -5,7 +5,7 @@ report_week: 50
 date_range: "13th December to 19th December 2021"
 weekly_trend: "Weaker"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2021-12-22_athenian-shipbrokers-s-a-demolition-quick-update-week-50-2021_demo-ig-weekly-50-2021-1_571696a217a6.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2021-12-22_athenian-shipbrokers-s-a-demolition-quick-update-week-50-2021_demo-ig-weekly-50-2021-1_571696a217a6.pdf"
 prices_count: 12
 ---
 

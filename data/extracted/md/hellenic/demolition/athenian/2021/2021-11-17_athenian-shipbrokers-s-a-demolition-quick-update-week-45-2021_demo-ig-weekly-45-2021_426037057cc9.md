@@ -5,7 +5,7 @@ report_week: 45
 date_range: "8th to 14th November 2021"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2021-11-17_athenian-shipbrokers-s-a-demolition-quick-update-week-45-2021_demo-ig-weekly-45-2021_426037057cc9.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2021-11-17_athenian-shipbrokers-s-a-demolition-quick-update-week-45-2021_demo-ig-weekly-45-2021_426037057cc9.pdf"
 prices_count: 12
 ---
 

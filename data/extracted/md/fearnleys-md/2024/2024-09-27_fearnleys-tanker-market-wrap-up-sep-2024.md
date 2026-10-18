@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "98ffeaef-4949-4ee6-9d27-19b50b212be7"
 images_count: 45
 local_pdf: "../pdfs/2024/2024-09-27_fearnleys-tanker-market-wrap-up-sep-2024.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2024/2024-09-27_fearnleys-tanker-market-wrap-up-sep-2024.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/98ffeaef-4949-4ee6-9d27-19b50b212be7/report.pdf"
 ---
 # Fearnleys Tanker Market Wrap-up Sep 2024

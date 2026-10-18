@@ -5,7 +5,7 @@ report_week: 33
 date_range: "12th August to 18th August 2024"
 weekly_trend: "Steady"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2024-08-20_Week-33-2024-Athenian-Demo-report.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/2024-08-20_Week-33-2024-Athenian-Demo-report.pdf"
 prices_count: 12
 ---
 

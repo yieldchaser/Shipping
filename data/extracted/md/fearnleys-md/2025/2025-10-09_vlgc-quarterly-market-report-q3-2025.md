@@ -8,6 +8,7 @@ category: "bespoke_research"
 report_id: "d254833f-b752-48b8-bd36-58b75bc53202"
 images_count: 21
 local_pdf: "../pdfs/2025/2025-10-09_vlgc-quarterly-market-report-q3-2025.pdf"
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2025/2025-10-09_vlgc-quarterly-market-report-q3-2025.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/d254833f-b752-48b8-bd36-58b75bc53202/report.pdf"
 ---
 # VLGC Quarterly Report - Q3 2025
