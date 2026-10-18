@@ -31,27 +31,27 @@ Target Marine have committed their MR2 "Horizon Aphrodite" 50/2008 Spp, Korea (S
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1968.0 | 1633.0 | 20.51% |
-| BCI | 3722.0 | 2842.0 | 30.96% |
-| BPI | 1401.0 | 1246.0 | 12.44% |
-| BSI | 936.0 | 933.0 | 0.32% |
-| BHSI | 604.0 | 600.0 | 0.67% |
+| BDI | 1968 | 1633 | 20.51% |
+| BCI | 3722 | 2842 | 30.96% |
+| BPI | 1401 | 1246 | 12.44% |
+| BSI | 936 | 933 | 0.32% |
+| BHSI | 604 | 600 | 0.67% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 30866.0 | 23572.0 | 7294.0 |
-| Kamsarmax | 12610.0 | 11210.0 | 1400.0 |
-| Ultramax | 11836.0 | 11796.0 | 40.0 |
-| Handysize 38 | 10866.0 | 10802.0 | 64.0 |
+| Capesize | 30866 | 23572 | 7294 |
+| Kamsarmax | 12610 | 11210 | 1400 |
+| Ultramax | 11836 | 11796 | 40 |
+| Handysize 38 | 10866 | 10802 | 64 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 928.0 | 951.0 | -2.42% |
-| BCTI | 604.0 | 626.0 | -3.51% |
+| BDTI | 928 | 951 | -2.42% |
+| BCTI | 604 | 626 | -3.51% |
 
 ## Page 2
 
@@ -154,10 +154,10 @@ A number of Indonesian trips into China were reported at the level of usd 9,000/
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 405.0 | 415.0 |
-| Bangladesh | 425.0 | 440.0 |
-| Pakistan | 440.0 | 445.0 |
-| Turkey | 250.0 | 260.0 |
+| India | 405 | 415 |
+| Bangladesh | 425 | 440 |
+| Pakistan | 440 | 445 |
+| Turkey | 250 | 260 |
 
 ## Page 7
 
@@ -169,31 +169,31 @@ A number of Indonesian trips into China were reported at the level of usd 9,000/
 | Bulkers | Capesize | 180k | 5 years | 62.5 | 62.5 | 0.0% |
 | Bulkers | Capesize | 180k | 10 years | 44.5 | 44.5 | 0.0% |
 | Bulkers | Capesize | 176k | 15 years | 25.5 | 26.5 | -3.77% |
-| Bulkers | Kamsarmax | 82k | Resale | 37.5 | 38.0 | -1.32% |
-| Bulkers | Kamsarmax | 82k | 5 years | 30.0 | 31.0 | -3.23% |
+| Bulkers | Kamsarmax | 82k | Resale | 37.5 | 38 | -1.32% |
+| Bulkers | Kamsarmax | 82k | 5 years | 30 | 31 | -3.23% |
 | Bulkers | Kamsarmax | 82k | 10 years | 23.5 | 23.8 | -1.26% |
 | Bulkers | Kamsarmax | 82k | 15 years | 14.3 | 14.8 | -3.38% |
 | Bulkers | Ultramax | 64k | Resale | 37.5 | 37.5 | 0.0% |
-| Bulkers | Ultramax | 63k | 5 years | 30.0 | 30.0 | 0.0% |
+| Bulkers | Ultramax | 63k | 5 years | 30 | 30 | 0.0% |
 | Bulkers | Ultramax | 61k | 10 years | 22.5 | 22.5 | 0.0% |
 | Bulkers | Supramax | 56k | 15 years | 14.5 | 14.5 | 0.0% |
-| Bulkers | Handysize | 40k | Resale | 32.0 | 32.5 | -1.54% |
-| Bulkers | Handysize | 37k | 5 years | 24.0 | 24.5 | -2.04% |
+| Bulkers | Handysize | 40k | Resale | 32 | 32.5 | -1.54% |
+| Bulkers | Handysize | 37k | 5 years | 24 | 24.5 | -2.04% |
 | Bulkers | Handysize | 37k | 10 years | 17.5 | 17.8 | -1.69% |
 | Bulkers | Handysize | 32k | 15 years | 11.3 | 11.5 | -1.74% |
-| Tankers | VLCC | 310k | Resale | 144.0 | 144.0 | 0.0% |
+| Tankers | VLCC | 310k | Resale | 144 | 144 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 114.5 | 114.5 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 84.5 | 84.5 | 0.0% |
 | Tankers | VLCC | 300k | 15 years | 57.5 | 57.5 | 0.0% |
-| Tankers | Suezmax | 160k | Resale | 93.0 | 93.0 | 0.0% |
+| Tankers | Suezmax | 160k | Resale | 93 | 93 | 0.0% |
 | Tankers | Suezmax | 160k | 5 years | 76.5 | 76.5 | 0.0% |
 | Tankers | Suezmax | 150k | 10 years | 61.5 | 61.5 | 0.0% |
 | Tankers | Suezmax | 150k | 15 years | 40.5 | 40.5 | 0.0% |
-| Tankers | Aframax | 110k | Resale | 74.0 | 74.0 | 0.0% |
-| Tankers | Aframax | 110k | 5 years | 62.0 | 62.0 | 0.0% |
+| Tankers | Aframax | 110k | Resale | 74 | 74 | 0.0% |
+| Tankers | Aframax | 110k | 5 years | 62 | 62 | 0.0% |
 | Tankers | Aframax | 105k | 10 years | 49.5 | 49.5 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 33.5 | 33.5 | 0.0% |
-| Tankers | MR | 52k | Resale | 49.0 | 49.0 | 0.0% |
+| Tankers | MR | 52k | Resale | 49 | 49 | 0.0% |
 | Tankers | MR | 51k | 5 years | 39.5 | 39.5 | 0.0% |
 | Tankers | MR | 47k | 10 years | 29.5 | 29.5 | 0.0% |
 | Tankers | MR | 45k | 15 years | 20.5 | 20.5 | 0.0% |

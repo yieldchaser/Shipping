@@ -34,27 +34,27 @@ Onassis Group have committed their VLCC "Olympic Target" 319/2011 Hyundai, Korea
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 3148.0 | 3426.0 | -8.11% |
-| BCI | 5042.0 | 5784.0 | -12.83% |
-| BPI | 2372.0 | 2407.0 | -1.45% |
-| BSI | 1789.0 | 1786.0 | 0.17% |
-| BHSI | 1007.0 | 1011.0 | -0.4% |
+| BDI | 3148 | 3426 | -8.11% |
+| BCI | 5042 | 5784 | -12.83% |
+| BPI | 2372 | 2407 | -1.45% |
+| BSI | 1789 | 1786 | 0.17% |
+| BHSI | 1007 | 1011 | -0.4% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 45731.0 | 52457.0 | -6726.0 |
-| Kamsarmax | 21349.0 | 21662.0 | -313.0 |
-| Ultramax | 22619.0 | 22579.0 | 40.0 |
-| Handysize 38 | 18117.0 | 18190.0 | -73.0 |
+| Capesize | 45731 | 52457 | -6726 |
+| Kamsarmax | 21349 | 21662 | -313 |
+| Ultramax | 22619 | 22579 | 40 |
+| Handysize 38 | 18117 | 18190 | -73 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 6586.0 | 5366.0 | 22.74% |
-| BCTI | 2414.0 | 2160.0 | 11.76% |
+| BDTI | 6586 | 5366 | 22.74% |
+| BCTI | 2414 | 2160 | 11.76% |
 
 ## Page 2
 
@@ -171,10 +171,10 @@ In the Pacific, regional departures from South East Asia and North China to Japa
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 430.0 | 445.0 |
-| Bangladesh | 485.0 | 510.0 |
-| Pakistan | 480.0 | 490.0 |
-| Turkey | 220.0 | 290.0 |
+| India | 430 | 445 |
+| Bangladesh | 485 | 510 |
+| Pakistan | 480 | 490 |
+| Turkey | 220 | 290 |
 
 ## Page 7
 
@@ -188,29 +188,29 @@ In the Pacific, regional departures from South East Asia and North China to Japa
 | Bulkers | Capesize | 176k | 15 years | 38.5 | 38.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | Resale | 46.5 | 46.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 5 years | 41.5 | 41.5 | 0.0% |
-| Bulkers | Kamsarmax | 82k | 10 years | 33.0 | 32.5 | 1.54% |
-| Bulkers | Kamsarmax | 82k | 15 years | 22.5 | 22.0 | 2.27% |
+| Bulkers | Kamsarmax | 82k | 10 years | 33 | 32.5 | 1.54% |
+| Bulkers | Kamsarmax | 82k | 15 years | 22.5 | 22 | 2.27% |
 | Bulkers | Ultramax | 64k | Resale | 43.5 | 43.5 | 0.0% |
 | Bulkers | Ultramax | 63k | 5 years | 38.5 | 38.5 | 0.0% |
-| Bulkers | Ultramax | 61k | 10 years | 30.0 | 29.5 | 1.69% |
-| Bulkers | Supramax | 56k | 15 years | 19.5 | 19.0 | 2.63% |
-| Bulkers | Handysize | 40k | Resale | 37.0 | 37.0 | 0.0% |
+| Bulkers | Ultramax | 61k | 10 years | 30 | 29.5 | 1.69% |
+| Bulkers | Supramax | 56k | 15 years | 19.5 | 19 | 2.63% |
+| Bulkers | Handysize | 40k | Resale | 37 | 37 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 30.5 | 30.5 | 0.0% |
 | Bulkers | Handysize | 37k | 10 years | 23.5 | 23.5 | 0.0% |
 | Bulkers | Handysize | 32k | 15 years | 12.5 | 12.5 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 204.5 | 192.0 | 6.51% |
+| Tankers | VLCC | 310k | Resale | 204.5 | 192 | 6.51% |
 | Tankers | VLCC | 310k | 5 years | 179.5 | 168.5 | 6.53% |
 | Tankers | VLCC | 300k | 10 years | 154.5 | 143.5 | 7.67% |
 | Tankers | VLCC | 300k | 15 years | 124.5 | 111.5 | 11.66% |
-| Tankers | Suezmax | 160k | Resale | 139.0 | 135.0 | 2.96% |
+| Tankers | Suezmax | 160k | Resale | 139 | 135 | 2.96% |
 | Tankers | Suezmax | 160k | 5 years | 119.5 | 115.5 | 3.46% |
 | Tankers | Suezmax | 150k | 10 years | 99.5 | 95.5 | 4.19% |
 | Tankers | Suezmax | 150k | 15 years | 84.5 | 77.5 | 9.03% |
-| Tankers | Aframax | 110k | Resale | 94.0 | 94.0 | 0.0% |
+| Tankers | Aframax | 110k | Resale | 94 | 94 | 0.0% |
 | Tankers | Aframax | 110k | 5 years | 84.5 | 84.5 | 0.0% |
-| Tankers | Aframax | 105k | 10 years | 72.0 | 72.0 | 0.0% |
+| Tankers | Aframax | 105k | 10 years | 72 | 72 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 63.5 | 59.5 | 6.72% |
-| Tankers | MR | 52k | Resale | 59.0 | 59.0 | 0.0% |
+| Tankers | MR | 52k | Resale | 59 | 59 | 0.0% |
 | Tankers | MR | 51k | 5 years | 49.5 | 49.5 | 0.0% |
 | Tankers | MR | 47k | 10 years | 39.5 | 39.5 | 0.0% |
 | Tankers | MR | 45k | 15 years | 26.5 | 26.5 | 0.0% |

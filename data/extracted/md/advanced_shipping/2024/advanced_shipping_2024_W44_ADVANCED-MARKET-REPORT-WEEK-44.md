@@ -31,27 +31,27 @@ Zodiac Maritime have committed their LR1 "Fulham Road" 75/2013 Stx, Korea (SS 11
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1388.0 | 1410.0 | -1.56% |
-| BCI | 1853.0 | 1856.0 | -0.16% |
-| BPI | 1204.0 | 1201.0 | 0.25% |
-| BSI | 1182.0 | 1240.0 | -4.68% |
-| BHSI | 719.0 | 728.0 | -1.24% |
+| BDI | 1388 | 1410 | -1.56% |
+| BCI | 1853 | 1856 | -0.16% |
+| BPI | 1204 | 1201 | 0.25% |
+| BSI | 1182 | 1240 | -4.68% |
+| BHSI | 719 | 728 | -1.24% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 15365.0 | 15395.0 | -30.0 |
-| Kamsarmax | 10835.0 | 10813.0 | 22.0 |
-| Ultramax | 14936.0 | 15669.0 | -733.0 |
-| Handysize 38 | 12950.0 | 13098.0 | -148.0 |
+| Capesize | 15365 | 15395 | -30 |
+| Kamsarmax | 10835 | 10813 | 22 |
+| Ultramax | 14936 | 15669 | -733 |
+| Handysize 38 | 12950 | 13098 | -148 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 966.0 | 1036.0 | -6.76% |
-| BCTI | 523.0 | 552.0 | -5.25% |
+| BDTI | 966 | 1036 | -6.76% |
+| BCTI | 523 | 552 | -5.25% |
 
 ## Page 2
 
@@ -118,10 +118,10 @@ Arabian Gulf trips into East Coast India were reported at the level of usd 12,00
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 425.0 | 440.0 |
-| Bangladesh | 430.0 | 450.0 |
-| Pakistan | 415.0 | 425.0 |
-| Turkey | 330.0 | 340.0 |
+| India | 425 | 440 |
+| Bangladesh | 430 | 450 |
+| Pakistan | 415 | 425 |
+| Turkey | 330 | 340 |
 
 ## Page 5
 
@@ -155,7 +155,7 @@ Arabian Gulf trips into East Coast India were reported at the level of usd 12,00
 | Bulkers | Capesize | 180k | Resale | 76.5 | 76.5 | 0.0% |
 | Bulkers | Capesize | 180k | 5 years | 63.5 | 63.5 | 0.0% |
 | Bulkers | Capesize | 180k | 10 years | 44.5 | 44.5 | 0.0% |
-| Bulkers | Capesize | 176k | 15 years | 28.0 | 28.0 | 0.0% |
+| Bulkers | Capesize | 176k | 15 years | 28 | 28 | 0.0% |
 | Bulkers | Kamsarmax | 82k | Resale | 40.8 | 40.8 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 5 years | 35.5 | 35.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 10 years | 24.8 | 24.8 | 0.0% |
@@ -164,23 +164,23 @@ Arabian Gulf trips into East Coast India were reported at the level of usd 12,00
 | Bulkers | Ultramax | 63k | 5 years | 35.3 | 35.3 | 0.0% |
 | Bulkers | Ultramax | 61k | 10 years | 24.5 | 24.5 | 0.0% |
 | Bulkers | Supramax | 56k | 15 years | 15.5 | 15.5 | 0.0% |
-| Bulkers | Handysize | 40k | Resale | 34.0 | 34.0 | 0.0% |
-| Bulkers | Handysize | 37k | 5 years | 27.0 | 27.0 | 0.0% |
+| Bulkers | Handysize | 40k | Resale | 34 | 34 | 0.0% |
+| Bulkers | Handysize | 37k | 5 years | 27 | 27 | 0.0% |
 | Bulkers | Handysize | 37k | 10 years | 19.5 | 19.5 | 0.0% |
-| Bulkers | Handysize | 32k | 15 years | 12.0 | 12.0 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 148.0 | 148.0 | 0.0% |
+| Bulkers | Handysize | 32k | 15 years | 12 | 12 | 0.0% |
+| Tankers | VLCC | 310k | Resale | 148 | 148 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 115.5 | 115.5 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 85.5 | 85.5 | 0.0% |
 | Tankers | VLCC | 300k | 15 years | 55.5 | 55.5 | 0.0% |
-| Tankers | Suezmax | 160k | Resale | 98.0 | 98.0 | 0.0% |
+| Tankers | Suezmax | 160k | Resale | 98 | 98 | 0.0% |
 | Tankers | Suezmax | 160k | 5 years | 79.5 | 79.5 | 0.0% |
 | Tankers | Suezmax | 150k | 10 years | 64.5 | 64.5 | 0.0% |
-| Tankers | Suezmax | 150k | 15 years | 46.0 | 46.0 | 0.0% |
-| Tankers | Aframax | 110k | Resale | 84.0 | 84.0 | 0.0% |
+| Tankers | Suezmax | 150k | 15 years | 46 | 46 | 0.0% |
+| Tankers | Aframax | 110k | Resale | 84 | 84 | 0.0% |
 | Tankers | Aframax | 110k | 5 years | 69.5 | 69.5 | 0.0% |
-| Tankers | Aframax | 105k | 10 years | 57.0 | 57.0 | 0.0% |
+| Tankers | Aframax | 105k | 10 years | 57 | 57 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 39.5 | 39.5 | 0.0% |
-| Tankers | MR | 52k | Resale | 56.0 | 56.0 | 0.0% |
+| Tankers | MR | 52k | Resale | 56 | 56 | 0.0% |
 | Tankers | MR | 51k | 5 years | 46.5 | 46.5 | 0.0% |
 | Tankers | MR | 47k | 10 years | 36.5 | 36.5 | 0.0% |
 | Tankers | MR | 45k | 15 years | 25.5 | 25.5 | 0.0% |

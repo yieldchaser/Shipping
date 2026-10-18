@@ -31,27 +31,27 @@ Hafnia Tankers committed their MR2 "Hafnia Pegasus" 50/2010 Guangzhou, China (SS
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1902.0 | 1997.0 | -4.76% |
-| BCI | 2973.0 | 3296.0 | -9.8% |
-| BPI | 1714.0 | 1678.0 | 2.15% |
-| BSI | 1374.0 | 1364.0 | 0.73% |
-| BHSI | 752.0 | 741.0 | 1.48% |
+| BDI | 1902 | 1997 | -4.76% |
+| BCI | 2973 | 3296 | -9.8% |
+| BPI | 1714 | 1678 | 2.15% |
+| BSI | 1374 | 1364 | 0.73% |
+| BHSI | 752 | 741 | 1.48% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 24652.0 | 27338.0 | -2686.0 |
-| Kamsarmax | 15427.0 | 15106.0 | 321.0 |
-| Supramax 58 | 15117.0 | 15004.0 | 113.0 |
-| Handysize 38 | 13543.0 | 13339.0 | 204.0 |
+| Capesize | 24652 | 27338 | -2686 |
+| Kamsarmax | 15427 | 15106 | 321 |
+| Supramax 58 | 15117 | 15004 | 113 |
+| Handysize 38 | 13543 | 13339 | 204 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 1056.0 | 1064.0 | -0.75% |
-| BCTI | 822.0 | 849.0 | -3.18% |
+| BDTI | 1056 | 1064 | -0.75% |
+| BCTI | 822 | 849 | -3.18% |
 
 ## Page 2
 
@@ -131,10 +131,10 @@ A generally quiet week for this segment. Continental trips into West Africa were
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 500.0 | 520.0 |
-| Bangladesh | 500.0 | 525.0 |
-| Pakistan | 495.0 | 515.0 |
-| Turkey | 340.0 | 350.0 |
+| India | 500 | 520 |
+| Bangladesh | 500 | 525 |
+| Pakistan | 495 | 515 |
+| Turkey | 340 | 350 |
 
 ## Page 6
 
@@ -176,35 +176,35 @@ A generally quiet week for this segment. Continental trips into West Africa were
 
 | Sector | Vessel Class | Size | Age | Current Price ($M) | Prior Price ($M) | Change (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bulkers | Capesize | 180k | Resale | 76.0 | 76.0 | 0.0% |
-| Bulkers | Capesize | 180k | 5 years | 63.0 | 63.0 | 0.0% |
-| Bulkers | Capesize | 180k | 10 years | 44.0 | 44.0 | 0.0% |
+| Bulkers | Capesize | 180k | Resale | 76 | 76 | 0.0% |
+| Bulkers | Capesize | 180k | 5 years | 63 | 63 | 0.0% |
+| Bulkers | Capesize | 180k | 10 years | 44 | 44 | 0.0% |
 | Bulkers | Capesize | 176k | 15 years | 28.5 | 28.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | Resale | 42.5 | 42.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 5 years | 37.5 | 37.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 10 years | 28.5 | 28.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 15 years | 18.5 | 18.5 | 0.0% |
-| Bulkers | Ultramax | 64k | Resale | 41.0 | 41.0 | 0.0% |
-| Bulkers | Ultramax | 63k | 5 years | 36.0 | 36.0 | 0.0% |
+| Bulkers | Ultramax | 64k | Resale | 41 | 41 | 0.0% |
+| Bulkers | Ultramax | 63k | 5 years | 36 | 36 | 0.0% |
 | Bulkers | Ultramax | 61k | 10 years | 27.5 | 27.5 | 0.0% |
-| Bulkers | Supramax | 56k | 15 years | 16.0 | 16.0 | 0.0% |
-| Bulkers | Handysize | 40k | Resale | 34.0 | 34.0 | 0.0% |
+| Bulkers | Supramax | 56k | 15 years | 16 | 16 | 0.0% |
+| Bulkers | Handysize | 40k | Resale | 34 | 34 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 27.5 | 27.5 | 0.0% |
-| Bulkers | Handysize | 37k | 10 years | 20.0 | 20.0 | 0.0% |
+| Bulkers | Handysize | 37k | 10 years | 20 | 20 | 0.0% |
 | Bulkers | Handysize | 32k | 15 years | 12.5 | 12.5 | 0.0% |
 | Tankers | VLCC | 310k | Resale | 143.5 | 143.5 | 0.0% |
-| Tankers | VLCC | 310k | 5 years | 114.0 | 114.0 | 0.0% |
-| Tankers | VLCC | 300k | 10 years | 84.0 | 84.0 | 0.0% |
-| Tankers | VLCC | 300k | 15 years | 57.0 | 57.0 | 0.0% |
+| Tankers | VLCC | 310k | 5 years | 114 | 114 | 0.0% |
+| Tankers | VLCC | 300k | 10 years | 84 | 84 | 0.0% |
+| Tankers | VLCC | 300k | 15 years | 57 | 57 | 0.0% |
 | Tankers | Suezmax | 160k | Resale | 97.5 | 97.5 | 0.0% |
-| Tankers | Suezmax | 160k | 5 years | 82.0 | 82.0 | 0.0% |
-| Tankers | Suezmax | 150k | 10 years | 67.0 | 67.0 | 0.0% |
+| Tankers | Suezmax | 160k | 5 years | 82 | 82 | 0.0% |
+| Tankers | Suezmax | 150k | 10 years | 67 | 67 | 0.0% |
 | Tankers | Suezmax | 150k | 15 years | 46.5 | 46.5 | 0.0% |
-| Tankers | Aframax | 110k | Resale | 84.0 | 84.0 | 0.0% |
-| Tankers | Aframax | 110k | 5 years | 72.0 | 72.0 | 0.0% |
-| Tankers | Aframax | 105k | 10 years | 59.0 | 59.0 | 0.0% |
+| Tankers | Aframax | 110k | Resale | 84 | 84 | 0.0% |
+| Tankers | Aframax | 110k | 5 years | 72 | 72 | 0.0% |
+| Tankers | Aframax | 105k | 10 years | 59 | 59 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 39.5 | 39.5 | 0.0% |
 | Tankers | MR | 52k | Resale | 53.5 | 53.5 | 0.0% |
 | Tankers | MR | 51k | 5 years | 46.5 | 46.5 | 0.0% |
-| Tankers | MR | 47k | 10 years | 38.0 | 38.0 | 0.0% |
+| Tankers | MR | 47k | 10 years | 38 | 38 | 0.0% |
 | Tankers | MR | 45k | 15 years | 27.5 | 27.5 | 0.0% |

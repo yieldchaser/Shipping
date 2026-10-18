@@ -31,27 +31,27 @@ Sinokor Merchant Marine committed the VLCC "Monaco Loyalty" 307/2007 Dalian, Chi
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1979.0 | 2025.0 | -2.27% |
-| BCI | 2835.0 | 2925.0 | -3.08% |
-| BPI | 1802.0 | 1847.0 | -2.44% |
-| BSI | 1456.0 | 1465.0 | -0.61% |
-| BHSI | 787.0 | 767.0 | 2.61% |
+| BDI | 1979 | 2025 | -2.27% |
+| BCI | 2835 | 2925 | -3.08% |
+| BPI | 1802 | 1847 | -2.44% |
+| BSI | 1456 | 1465 | -0.61% |
+| BHSI | 787 | 767 | 2.61% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 23513.0 | 24257.0 | -744.0 |
-| Kamsarmax | 16221.0 | 16623.0 | -402.0 |
-| Ultramax | 18399.0 | 18521.0 | -122.0 |
-| Handysize 38 | 14165.0 | 13807.0 | 358.0 |
+| Capesize | 23513 | 24257 | -744 |
+| Kamsarmax | 16221 | 16623 | -402 |
+| Ultramax | 18399 | 18521 | -122 |
+| Handysize 38 | 14165 | 13807 | 358 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 1066.0 | 1045.0 | 2.01% |
-| BCTI | 638.0 | 622.0 | 2.57% |
+| BDTI | 1066 | 1045 | 2.01% |
+| BCTI | 638 | 622 | 2.57% |
 
 ## Page 2
 
@@ -167,10 +167,10 @@ Trips from Japan into Arabian Gulf were reported at the level of usd 14,000/15,0
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 420.0 | 435.0 |
-| Bangladesh | 385.0 | 405.0 |
-| Pakistan | 405.0 | 410.0 |
-| Turkey | 250.0 | 260.0 |
+| India | 420 | 435 |
+| Bangladesh | 385 | 405 |
+| Pakistan | 405 | 410 |
+| Turkey | 250 | 260 |
 
 ## Page 7
 
@@ -180,33 +180,33 @@ Trips from Japan into Arabian Gulf were reported at the level of usd 14,000/15,0
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers | Capesize | 180k | Resale | 75.5 | 75.5 | 0.0% |
 | Bulkers | Capesize | 180k | 5 years | 61.5 | 61.5 | 0.0% |
-| Bulkers | Capesize | 180k | 10 years | 46.0 | 46.0 | 0.0% |
-| Bulkers | Capesize | 176k | 15 years | 26.0 | 26.0 | 0.0% |
+| Bulkers | Capesize | 180k | 10 years | 46 | 46 | 0.0% |
+| Bulkers | Capesize | 176k | 15 years | 26 | 26 | 0.0% |
 | Bulkers | Kamsarmax | 82k | Resale | 38.5 | 38.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 5 years | 31.5 | 31.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 10 years | 24.5 | 24.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 15 years | 15.5 | 15.5 | 0.0% |
 | Bulkers | Ultramax | 64k | Resale | 37.5 | 37.5 | 0.0% |
-| Bulkers | Ultramax | 63k | 5 years | 31.3 | 31.0 | 0.97% |
-| Bulkers | Ultramax | 61k | 10 years | 23.0 | 22.5 | 2.22% |
-| Bulkers | Supramax | 56k | 15 years | 15.0 | 15.0 | 0.0% |
+| Bulkers | Ultramax | 63k | 5 years | 31.3 | 31 | 0.97% |
+| Bulkers | Ultramax | 61k | 10 years | 23 | 22.5 | 2.22% |
+| Bulkers | Supramax | 56k | 15 years | 15 | 15 | 0.0% |
 | Bulkers | Handysize | 40k | Resale | 32.5 | 32.5 | 0.0% |
-| Bulkers | Handysize | 37k | 5 years | 26.0 | 26.0 | 0.0% |
-| Bulkers | Handysize | 37k | 10 years | 20.0 | 20.0 | 0.0% |
+| Bulkers | Handysize | 37k | 5 years | 26 | 26 | 0.0% |
+| Bulkers | Handysize | 37k | 10 years | 20 | 20 | 0.0% |
 | Bulkers | Handysize | 32k | 15 years | 11.5 | 11.5 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 146.0 | 146.0 | 0.0% |
+| Tankers | VLCC | 310k | Resale | 146 | 146 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 116.5 | 116.5 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 86.5 | 86.5 | 0.0% |
 | Tankers | VLCC | 300k | 15 years | 57.5 | 57.5 | 0.0% |
-| Tankers | Suezmax | 160k | Resale | 92.0 | 92.0 | 0.0% |
+| Tankers | Suezmax | 160k | Resale | 92 | 92 | 0.0% |
 | Tankers | Suezmax | 160k | 5 years | 75.5 | 75.5 | 0.0% |
 | Tankers | Suezmax | 150k | 10 years | 60.5 | 60.5 | 0.0% |
 | Tankers | Suezmax | 150k | 15 years | 39.5 | 39.5 | 0.0% |
-| Tankers | Aframax | 110k | Resale | 74.0 | 74.0 | 0.0% |
-| Tankers | Aframax | 110k | 5 years | 62.0 | 62.0 | 0.0% |
+| Tankers | Aframax | 110k | Resale | 74 | 74 | 0.0% |
+| Tankers | Aframax | 110k | 5 years | 62 | 62 | 0.0% |
 | Tankers | Aframax | 105k | 10 years | 49.5 | 49.5 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 33.5 | 33.5 | 0.0% |
-| Tankers | MR | 52k | Resale | 51.0 | 51.0 | 0.0% |
+| Tankers | MR | 52k | Resale | 51 | 51 | 0.0% |
 | Tankers | MR | 51k | 5 years | 41.5 | 41.5 | 0.0% |
 | Tankers | MR | 47k | 10 years | 31.5 | 31.5 | 0.0% |
-| Tankers | MR | 45k | 15 years | 18.0 | 18.0 | 0.0% |
+| Tankers | MR | 45k | 15 years | 18 | 18 | 0.0% |

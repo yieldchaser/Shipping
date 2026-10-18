@@ -27,27 +27,27 @@ Following the sale of the Newcastlemax "Bulk Sao Paulo" 208/2020 New Times, Chin
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 2275.0 | 2125.0 | 7.06% |
-| BCI | 3653.0 | 3252.0 | 12.33% |
-| BPI | 1928.0 | 1897.0 | 1.63% |
-| BSI | 1432.0 | 1408.0 | 1.7% |
-| BHSI | 820.0 | 819.0 | 0.12% |
+| BDI | 2275 | 2125 | 7.06% |
+| BCI | 3653 | 3252 | 12.33% |
+| BPI | 1928 | 1897 | 1.63% |
+| BSI | 1432 | 1408 | 1.7% |
+| BHSI | 820 | 819 | 0.12% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 30292.0 | 26968.0 | 3324.0 |
-| Kamsarmax | 17354.0 | 17071.0 | 283.0 |
-| Ultramax | 18098.0 | 17799.0 | 299.0 |
-| Handysize 38 | 14760.0 | 14745.0 | 15.0 |
+| Capesize | 30292 | 26968 | 3324 |
+| Kamsarmax | 17354 | 17071 | 283 |
+| Ultramax | 18098 | 17799 | 299 |
+| Handysize 38 | 14760 | 14745 | 15 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 1457.0 | 1453.0 | 0.28% |
-| BCTI | 811.0 | 702.0 | 15.53% |
+| BDTI | 1457 | 1453 | 0.28% |
+| BCTI | 811 | 702 | 15.53% |
 
 ## Page 2
 
@@ -166,10 +166,10 @@ Trips from North China into South East Asia were fixed around usd 8,000/10,000 p
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 385.0 | 400.0 |
-| Bangladesh | 395.0 | 430.0 |
-| Pakistan | 390.0 | 400.0 |
-| Turkey | 260.0 | 270.0 |
+| India | 385 | 400 |
+| Bangladesh | 395 | 430 |
+| Pakistan | 390 | 400 |
+| Turkey | 260 | 270 |
 
 ## Page 7
 
@@ -181,19 +181,19 @@ Trips from North China into South East Asia were fixed around usd 8,000/10,000 p
 | Bulkers | Capesize | 180k | 5 years | 64.5 | 64.5 | 0.0% |
 | Bulkers | Capesize | 180k | 10 years | 49.5 | 49.5 | 0.0% |
 | Bulkers | Capesize | 176k | 15 years | 28.5 | 28.5 | 0.0% |
-| Bulkers | Kamsarmax | 82k | Resale | 39.0 | 39.0 | 0.0% |
+| Bulkers | Kamsarmax | 82k | Resale | 39 | 39 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 5 years | 32.5 | 32.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 10 years | 25.5 | 25.5 | 0.0% |
-| Bulkers | Kamsarmax | 82k | 15 years | 16.5 | 16.0 | 3.13% |
-| Bulkers | Ultramax | 64k | Resale | 38.0 | 38.0 | 0.0% |
+| Bulkers | Kamsarmax | 82k | 15 years | 16.5 | 16 | 3.13% |
+| Bulkers | Ultramax | 64k | Resale | 38 | 38 | 0.0% |
 | Bulkers | Ultramax | 63k | 5 years | 31.5 | 31.5 | 0.0% |
-| Bulkers | Ultramax | 61k | 10 years | 24.0 | 23.0 | 4.35% |
+| Bulkers | Ultramax | 61k | 10 years | 24 | 23 | 4.35% |
 | Bulkers | Supramax | 56k | 15 years | 15.3 | 15.3 | 0.0% |
 | Bulkers | Handysize | 40k | Resale | 32.5 | 32.5 | 0.0% |
-| Bulkers | Handysize | 37k | 5 years | 26.0 | 26.0 | 0.0% |
+| Bulkers | Handysize | 37k | 5 years | 26 | 26 | 0.0% |
 | Bulkers | Handysize | 37k | 10 years | 19.8 | 19.8 | 0.0% |
 | Bulkers | Handysize | 32k | 15 years | 11.5 | 11.5 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 147.0 | 147.0 | 0.0% |
+| Tankers | VLCC | 310k | Resale | 147 | 147 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 117.5 | 117.5 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 87.5 | 87.5 | 0.0% |
 | Tankers | VLCC | 300k | 15 years | 58.5 | 58.5 | 0.0% |
@@ -201,11 +201,11 @@ Trips from North China into South East Asia were fixed around usd 8,000/10,000 p
 | Tankers | Suezmax | 160k | 5 years | 79.5 | 79.5 | 0.0% |
 | Tankers | Suezmax | 150k | 10 years | 63.5 | 63.5 | 0.0% |
 | Tankers | Suezmax | 150k | 15 years | 41.5 | 41.5 | 0.0% |
-| Tankers | Aframax | 110k | Resale | 79.0 | 79.0 | 0.0% |
-| Tankers | Aframax | 110k | 5 years | 67.0 | 67.0 | 0.0% |
+| Tankers | Aframax | 110k | Resale | 79 | 79 | 0.0% |
+| Tankers | Aframax | 110k | 5 years | 67 | 67 | 0.0% |
 | Tankers | Aframax | 105k | 10 years | 54.5 | 54.5 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 35.5 | 35.5 | 0.0% |
-| Tankers | MR | 52k | Resale | 52.0 | 52.0 | 0.0% |
+| Tankers | MR | 52k | Resale | 52 | 52 | 0.0% |
 | Tankers | MR | 51k | 5 years | 42.5 | 42.5 | 0.0% |
 | Tankers | MR | 47k | 10 years | 32.5 | 31.5 | 3.17% |
-| Tankers | MR | 45k | 15 years | 18.5 | 18.0 | 2.78% |
+| Tankers | MR | 45k | 15 years | 18.5 | 18 | 2.78% |

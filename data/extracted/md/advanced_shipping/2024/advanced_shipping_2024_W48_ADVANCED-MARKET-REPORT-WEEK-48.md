@@ -31,27 +31,27 @@ MM Marine committed their Suezmax "Umnenga II" 162/2006 Daewoo, Korea (SS/DD 04/
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1354.0 | 1537.0 | -11.91% |
-| BCI | 2133.0 | 2626.0 | -18.77% |
-| BPI | 1018.0 | 1083.0 | -6.0% |
-| BSI | 980.0 | 984.0 | -0.41% |
-| BHSI | 659.0 | 670.0 | -1.64% |
+| BDI | 1354 | 1537 | -11.91% |
+| BCI | 2133 | 2626 | -18.77% |
+| BPI | 1018 | 1083 | -6.0% |
+| BSI | 980 | 984 | -0.41% |
+| BHSI | 659 | 670 | -1.64% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 17686.0 | 21778.0 | -4092.0 |
-| Kamsarmax | 9161.0 | 9747.0 | -586.0 |
-| Ultramax | 12384.0 | 12438.0 | -54.0 |
-| Handysize 38 | 11865.0 | 12055.0 | -190.0 |
+| Capesize | 17686 | 21778 | -4092 |
+| Kamsarmax | 9161 | 9747 | -586 |
+| Ultramax | 12384 | 12438 | -54 |
+| Handysize 38 | 11865 | 12055 | -190 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 892.0 | 908.0 | -1.76% |
-| BCTI | 663.0 | 627.0 | 5.74% |
+| BDTI | 892 | 908 | -1.76% |
+| BCTI | 663 | 627 | 5.74% |
 
 ## Page 2
 
@@ -149,10 +149,10 @@ North Pacific rounds ranged at the usd 12,000/14,000 pd. West African trips into
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 445.0 | 465.0 |
-| Bangladesh | 445.0 | 460.0 |
-| Pakistan | 425.0 | 435.0 |
-| Turkey | 320.0 | 330.0 |
+| India | 445 | 465 |
+| Bangladesh | 445 | 460 |
+| Pakistan | 425 | 435 |
+| Turkey | 320 | 330 |
 
 ## Page 7
 
@@ -168,27 +168,27 @@ North Pacific rounds ranged at the usd 12,000/14,000 pd. West African trips into
 | Bulkers | Kamsarmax | 82k | 5 years | 34.5 | 34.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 10 years | 24.8 | 24.8 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 15 years | 15.8 | 15.8 | 0.0% |
-| Bulkers | Ultramax | 64k | Resale | 39.0 | 39.5 | -1.27% |
-| Bulkers | Ultramax | 63k | 5 years | 33.5 | 34.0 | -1.47% |
+| Bulkers | Ultramax | 64k | Resale | 39 | 39.5 | -1.27% |
+| Bulkers | Ultramax | 63k | 5 years | 33.5 | 34 | -1.47% |
 | Bulkers | Ultramax | 61k | 10 years | 23.8 | 24.3 | -2.06% |
 | Bulkers | Supramax | 56k | 15 years | 15.3 | 15.3 | 0.0% |
-| Bulkers | Handysize | 40k | Resale | 34.0 | 34.0 | 0.0% |
+| Bulkers | Handysize | 40k | Resale | 34 | 34 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 26.5 | 26.5 | 0.0% |
-| Bulkers | Handysize | 37k | 10 years | 19.0 | 19.0 | 0.0% |
-| Bulkers | Handysize | 32k | 15 years | 12.0 | 12.0 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 148.0 | 148.0 | 0.0% |
+| Bulkers | Handysize | 37k | 10 years | 19 | 19 | 0.0% |
+| Bulkers | Handysize | 32k | 15 years | 12 | 12 | 0.0% |
+| Tankers | VLCC | 310k | Resale | 148 | 148 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 115.5 | 115.5 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 85.5 | 85.5 | 0.0% |
 | Tankers | VLCC | 300k | 15 years | 54.5 | 54.5 | 0.0% |
-| Tankers | Suezmax | 160k | Resale | 98.0 | 98.0 | 0.0% |
+| Tankers | Suezmax | 160k | Resale | 98 | 98 | 0.0% |
 | Tankers | Suezmax | 160k | 5 years | 78.5 | 79.5 | -1.26% |
 | Tankers | Suezmax | 150k | 10 years | 63.5 | 64.5 | -1.55% |
-| Tankers | Suezmax | 150k | 15 years | 45.5 | 46.0 | -1.09% |
-| Tankers | Aframax | 110k | Resale | 83.0 | 84.0 | -1.19% |
+| Tankers | Suezmax | 150k | 15 years | 45.5 | 46 | -1.09% |
+| Tankers | Aframax | 110k | Resale | 83 | 84 | -1.19% |
 | Tankers | Aframax | 110k | 5 years | 68.5 | 69.5 | -1.44% |
-| Tankers | Aframax | 105k | 10 years | 54.5 | 57.0 | -4.39% |
-| Tankers | Aframax | 105k | 15 years | 37.0 | 39.5 | -6.33% |
-| Tankers | MR | 52k | Resale | 55.0 | 56.0 | -1.79% |
+| Tankers | Aframax | 105k | 10 years | 54.5 | 57 | -4.39% |
+| Tankers | Aframax | 105k | 15 years | 37 | 39.5 | -6.33% |
+| Tankers | MR | 52k | Resale | 55 | 56 | -1.79% |
 | Tankers | MR | 51k | 5 years | 45.5 | 46.5 | -2.15% |
 | Tankers | MR | 47k | 10 years | 35.5 | 36.5 | -2.74% |
 | Tankers | MR | 45k | 15 years | 24.5 | 25.5 | -3.92% |

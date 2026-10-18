@@ -31,27 +31,27 @@ Lila Global have committed their VLCC "Lila Kochi" 313/2008 Kawasaki, Japan (SS 
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 2524.0 | 2722.0 | -7.27% |
-| BCI | 3640.0 | 4149.0 | -12.27% |
-| BPI | 2110.0 | 2096.0 | 0.67% |
-| BSI | 1670.0 | 1718.0 | -2.79% |
-| BHSI | 945.0 | 934.0 | 1.18% |
+| BDI | 2524 | 2722 | -7.27% |
+| BCI | 3640 | 4149 | -12.27% |
+| BPI | 2110 | 2096 | 0.67% |
+| BSI | 1670 | 1718 | -2.79% |
+| BHSI | 945 | 934 | 1.18% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 33014.0 | 37631.0 | -4617.0 |
-| Kamsarmax | 18990.0 | 18860.0 | 130.0 |
-| Ultramax | 21115.0 | 21715.0 | -600.0 |
-| Handysize 38 | 17014.0 | 16804.0 | 210.0 |
+| Capesize | 33014 | 37631 | -4617 |
+| Kamsarmax | 18990 | 18860 | 130 |
+| Ultramax | 21115 | 21715 | -600 |
+| Handysize 38 | 17014 | 16804 | 210 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 1914.0 | 2092.0 | -8.51% |
-| BCTI | 1298.0 | 1307.0 | -0.69% |
+| BDTI | 1914 | 2092 | -8.51% |
+| BCTI | 1298 | 1307 | -0.69% |
 
 ## Page 2
 
@@ -145,10 +145,10 @@ In the Far East, a South East Asia prompt run via West Coast India with South Ea
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 400.0 | 415.0 |
-| Bangladesh | 425.0 | 450.0 |
-| Pakistan | 460.0 | 470.0 |
-| Turkey | 260.0 | 270.0 |
+| India | 400 | 415 |
+| Bangladesh | 425 | 450 |
+| Pakistan | 460 | 470 |
+| Turkey | 260 | 270 |
 
 ## Page 6
 
@@ -156,27 +156,27 @@ In the Far East, a South East Asia prompt run via West Coast India with South Ea
 
 | Sector | Vessel Class | Size | Age | Current Price ($M) | Prior Price ($M) | Change (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bulkers | Capesize | 180k | Resale | 81.0 | 81.0 | 0.0% |
-| Bulkers | Capesize | 180k | 5 years | 71.0 | 71.0 | 0.0% |
+| Bulkers | Capesize | 180k | Resale | 81 | 81 | 0.0% |
+| Bulkers | Capesize | 180k | 5 years | 71 | 71 | 0.0% |
 | Bulkers | Capesize | 180k | 10 years | 55.5 | 55.5 | 0.0% |
-| Bulkers | Capesize | 176k | 15 years | 36.0 | 36.0 | 0.0% |
+| Bulkers | Capesize | 176k | 15 years | 36 | 36 | 0.0% |
 | Bulkers | Kamsarmax | 82k | Resale | 44.5 | 44.5 | 0.0% |
-| Bulkers | Kamsarmax | 82k | 5 years | 39.5 | 39.0 | 1.28% |
-| Bulkers | Kamsarmax | 82k | 10 years | 30.0 | 29.0 | 3.45% |
-| Bulkers | Kamsarmax | 82k | 15 years | 21.0 | 20.8 | 0.96% |
+| Bulkers | Kamsarmax | 82k | 5 years | 39.5 | 39 | 1.28% |
+| Bulkers | Kamsarmax | 82k | 10 years | 30 | 29 | 3.45% |
+| Bulkers | Kamsarmax | 82k | 15 years | 21 | 20.8 | 0.96% |
 | Bulkers | Ultramax | 64k | Resale | 42.5 | 42.5 | 0.0% |
 | Bulkers | Ultramax | 63k | 5 years | 37.5 | 37.5 | 0.0% |
-| Bulkers | Ultramax | 61k | 10 years | 28.0 | 28.0 | 0.0% |
-| Bulkers | Supramax | 56k | 15 years | 18.0 | 18.0 | 0.0% |
+| Bulkers | Ultramax | 61k | 10 years | 28 | 28 | 0.0% |
+| Bulkers | Supramax | 56k | 15 years | 18 | 18 | 0.0% |
 | Bulkers | Handysize | 40k | Resale | 35.5 | 35.5 | 0.0% |
-| Bulkers | Handysize | 37k | 5 years | 30.0 | 29.3 | 2.39% |
+| Bulkers | Handysize | 37k | 5 years | 30 | 29.3 | 2.39% |
 | Bulkers | Handysize | 37k | 10 years | 23.5 | 22.5 | 4.44% |
 | Bulkers | Handysize | 32k | 15 years | 12.5 | 12.5 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 174.0 | 174.0 | 0.0% |
+| Tankers | VLCC | 310k | Resale | 174 | 174 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 144.5 | 144.5 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 114.5 | 114.5 | 0.0% |
-| Tankers | VLCC | 300k | 15 years | 83.0 | 83.0 | 0.0% |
-| Tankers | Suezmax | 160k | Resale | 118.0 | 118.0 | 0.0% |
+| Tankers | VLCC | 300k | 15 years | 83 | 83 | 0.0% |
+| Tankers | Suezmax | 160k | Resale | 118 | 118 | 0.0% |
 | Tankers | Suezmax | 160k | 5 years | 103.5 | 103.5 | 0.0% |
 | Tankers | Suezmax | 150k | 10 years | 88.5 | 88.5 | 0.0% |
 | Tankers | Suezmax | 150k | 15 years | 53.5 | 53.5 | 0.0% |
@@ -184,7 +184,7 @@ In the Far East, a South East Asia prompt run via West Coast India with South Ea
 | Tankers | Aframax | 110k | 5 years | 79.5 | 79.5 | 0.0% |
 | Tankers | Aframax | 105k | 10 years | 69.5 | 69.5 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 44.5 | 44.5 | 0.0% |
-| Tankers | MR | 52k | Resale | 60.0 | 60.0 | 0.0% |
+| Tankers | MR | 52k | Resale | 60 | 60 | 0.0% |
 | Tankers | MR | 51k | 5 years | 50.5 | 50.5 | 0.0% |
 | Tankers | MR | 47k | 10 years | 40.5 | 40.5 | 0.0% |
 | Tankers | MR | 45k | 15 years | 28.5 | 28.5 | 0.0% |

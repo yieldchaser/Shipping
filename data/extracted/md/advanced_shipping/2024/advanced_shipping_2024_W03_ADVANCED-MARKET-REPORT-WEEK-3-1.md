@@ -31,27 +31,27 @@ Angelicoussis Shipping committed their VLCC "Elizabeth I.A." 306/2004 Daewoo, Ko
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1503.0 | 1460.0 | 2.95% |
-| BCI | 2244.0 | 2172.0 | 3.31% |
-| BPI | 1550.0 | 1410.0 | 9.93% |
-| BSI | 1030.0 | 1088.0 | -5.33% |
-| BHSI | 594.0 | 616.0 | -3.57% |
+| BDI | 1503 | 1460 | 2.95% |
+| BCI | 2244 | 2172 | 3.31% |
+| BPI | 1550 | 1410 | 9.93% |
+| BSI | 1030 | 1088 | -5.33% |
+| BHSI | 594 | 616 | -3.57% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 18608.0 | 18015.0 | 593.0 |
-| Kamsarmax | 13946.0 | 12693.0 | 1253.0 |
-| Supramax 58 | 11328.0 | 11967.0 | -639.0 |
-| Handysize 38 | 10692.0 | 11089.0 | -397.0 |
+| Capesize | 18608 | 18015 | 593 |
+| Kamsarmax | 13946 | 12693 | 1253 |
+| Supramax 58 | 11328 | 11967 | -639 |
+| Handysize 38 | 10692 | 11089 | -397 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 1423.0 | 1473.0 | -3.39% |
-| BCTI | 1039.0 | 741.0 | 40.22% |
+| BDTI | 1423 | 1473 | -3.39% |
+| BCTI | 1039 | 741 | 40.22% |
 
 ## Page 2
 
@@ -131,10 +131,10 @@ Trips from China into India were fixed around usd 9,000/11,000 pd. Continental t
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 475.0 | 490.0 |
-| Bangladesh | 490.0 | 505.0 |
-| Pakistan | 510.0 | 525.0 |
-| Turkey | 350.0 | 360.0 |
+| India | 475 | 490 |
+| Bangladesh | 490 | 505 |
+| Pakistan | 510 | 525 |
+| Turkey | 350 | 360 |
 
 ## Page 6
 
@@ -171,35 +171,35 @@ Trips from China into India were fixed around usd 9,000/11,000 pd. Continental t
 
 | Sector | Vessel Class | Size | Age | Current Price ($M) | Prior Price ($M) | Change (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bulkers | Capesize | 180k | Resale | 71.0 | 69.0 | 2.9% |
+| Bulkers | Capesize | 180k | Resale | 71 | 69 | 2.9% |
 | Bulkers | Capesize | 180k | 5 years | 54.5 | 53.5 | 1.87% |
-| Bulkers | Capesize | 180k | 10 years | 35.0 | 33.0 | 6.06% |
-| Bulkers | Capesize | 176k | 15 years | 23.3 | 22.0 | 5.91% |
+| Bulkers | Capesize | 180k | 10 years | 35 | 33 | 6.06% |
+| Bulkers | Capesize | 176k | 15 years | 23.3 | 22 | 5.91% |
 | Bulkers | Kamsarmax | 82k | Resale | 39.5 | 39.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 5 years | 34.5 | 34.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 10 years | 25.5 | 25.5 | 0.0% |
-| Bulkers | Kamsarmax | 82k | 15 years | 16.0 | 16.0 | 0.0% |
-| Bulkers | Ultramax | 64k | Resale | 37.0 | 37.0 | 0.0% |
-| Bulkers | Ultramax | 63k | 5 years | 31.0 | 31.0 | 0.0% |
-| Bulkers | Ultramax | 61k | 10 years | 23.5 | 23.0 | 2.17% |
-| Bulkers | Supramax | 56k | 15 years | 14.8 | 14.0 | 5.71% |
-| Bulkers | Handysize | 40k | Resale | 33.0 | 33.0 | 0.0% |
-| Bulkers | Handysize | 37k | 5 years | 27.0 | 27.0 | 0.0% |
-| Bulkers | Handysize | 37k | 10 years | 17.8 | 17.0 | 4.71% |
-| Bulkers | Handysize | 32k | 15 years | 11.8 | 11.0 | 7.27% |
-| Tankers | VLCC | 310k | Resale | 134.0 | 132.0 | 1.52% |
-| Tankers | VLCC | 310k | 5 years | 106.0 | 106.0 | 0.0% |
+| Bulkers | Kamsarmax | 82k | 15 years | 16 | 16 | 0.0% |
+| Bulkers | Ultramax | 64k | Resale | 37 | 37 | 0.0% |
+| Bulkers | Ultramax | 63k | 5 years | 31 | 31 | 0.0% |
+| Bulkers | Ultramax | 61k | 10 years | 23.5 | 23 | 2.17% |
+| Bulkers | Supramax | 56k | 15 years | 14.8 | 14 | 5.71% |
+| Bulkers | Handysize | 40k | Resale | 33 | 33 | 0.0% |
+| Bulkers | Handysize | 37k | 5 years | 27 | 27 | 0.0% |
+| Bulkers | Handysize | 37k | 10 years | 17.8 | 17 | 4.71% |
+| Bulkers | Handysize | 32k | 15 years | 11.8 | 11 | 7.27% |
+| Tankers | VLCC | 310k | Resale | 134 | 132 | 1.52% |
+| Tankers | VLCC | 310k | 5 years | 106 | 106 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 75.5 | 75.5 | 0.0% |
-| Tankers | VLCC | 300k | 15 years | 55.0 | 55.5 | -0.9% |
-| Tankers | Suezmax | 160k | Resale | 95.0 | 95.0 | 0.0% |
-| Tankers | Suezmax | 160k | 5 years | 79.0 | 79.0 | 0.0% |
-| Tankers | Suezmax | 150k | 10 years | 63.0 | 62.5 | 0.8% |
-| Tankers | Suezmax | 150k | 15 years | 40.0 | 39.5 | 1.27% |
-| Tankers | Aframax | 110k | Resale | 83.0 | 83.0 | 0.0% |
-| Tankers | Aframax | 110k | 5 years | 72.0 | 72.0 | 0.0% |
-| Tankers | Aframax | 105k | 10 years | 57.0 | 57.0 | 0.0% |
+| Tankers | VLCC | 300k | 15 years | 55 | 55.5 | -0.9% |
+| Tankers | Suezmax | 160k | Resale | 95 | 95 | 0.0% |
+| Tankers | Suezmax | 160k | 5 years | 79 | 79 | 0.0% |
+| Tankers | Suezmax | 150k | 10 years | 63 | 62.5 | 0.8% |
+| Tankers | Suezmax | 150k | 15 years | 40 | 39.5 | 1.27% |
+| Tankers | Aframax | 110k | Resale | 83 | 83 | 0.0% |
+| Tankers | Aframax | 110k | 5 years | 72 | 72 | 0.0% |
+| Tankers | Aframax | 105k | 10 years | 57 | 57 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 36.5 | 36.5 | 0.0% |
 | Tankers | MR | 52k | Resale | 52.5 | 52.5 | 0.0% |
 | Tankers | MR | 51k | 5 years | 44.5 | 44.5 | 0.0% |
-| Tankers | MR | 47k | 10 years | 35.3 | 35.0 | 0.86% |
-| Tankers | MR | 45k | 15 years | 26.0 | 26.0 | 0.0% |
+| Tankers | MR | 47k | 10 years | 35.3 | 35 | 0.86% |
+| Tankers | MR | 45k | 15 years | 26 | 26 | 0.0% |

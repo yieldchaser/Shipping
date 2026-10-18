@@ -31,27 +31,27 @@ The Suezmax "Cosmo Sail" 159/2007 Hyundai Samho, Korea (SS/DD 07/2027) has been 
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 2722.0 | 2729.0 | -0.26% |
-| BCI | 4149.0 | 4107.0 | 1.02% |
-| BPI | 2096.0 | 2283.0 | -8.19% |
-| BSI | 1718.0 | 1642.0 | 4.63% |
-| BHSI | 934.0 | 900.0 | 3.78% |
+| BDI | 2722 | 2729 | -0.26% |
+| BCI | 4149 | 4107 | 1.02% |
+| BPI | 2096 | 2283 | -8.19% |
+| BSI | 1718 | 1642 | 4.63% |
+| BHSI | 934 | 900 | 3.78% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 37631.0 | 37251.0 | 380.0 |
-| Kamsarmax | 18860.0 | 20545.0 | -1685.0 |
-| Ultramax | 21715.0 | 20756.0 | 959.0 |
-| Handysize 38 | 16804.0 | 16195.0 | 609.0 |
+| Capesize | 37631 | 37251 | 380 |
+| Kamsarmax | 18860 | 20545 | -1685 |
+| Ultramax | 21715 | 20756 | 959 |
+| Handysize 38 | 16804 | 16195 | 609 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 2092.0 | 1950.0 | 7.28% |
-| BCTI | 1307.0 | 1363.0 | -4.11% |
+| BDTI | 2092 | 1950 | 7.28% |
+| BCTI | 1307 | 1363 | -4.11% |
 
 ## Page 2
 
@@ -162,10 +162,10 @@ Far East activity saw Japan trips to SE Asia at USD 16,000 pd, while NoPac busin
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 400.0 | 415.0 |
-| Bangladesh | 425.0 | 450.0 |
-| Pakistan | 460.0 | 470.0 |
-| Turkey | 260.0 | 270.0 |
+| India | 400 | 415 |
+| Bangladesh | 425 | 450 |
+| Pakistan | 460 | 470 |
+| Turkey | 260 | 270 |
 
 ## Page 7
 
@@ -173,27 +173,27 @@ Far East activity saw Japan trips to SE Asia at USD 16,000 pd, while NoPac busin
 
 | Sector | Vessel Class | Size | Age | Current Price ($M) | Prior Price ($M) | Change (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bulkers | Capesize | 180k | Resale | 81.0 | 81.0 | 0.0% |
-| Bulkers | Capesize | 180k | 5 years | 71.0 | 71.0 | 0.0% |
+| Bulkers | Capesize | 180k | Resale | 81 | 81 | 0.0% |
+| Bulkers | Capesize | 180k | 5 years | 71 | 71 | 0.0% |
 | Bulkers | Capesize | 180k | 10 years | 55.5 | 55.5 | 0.0% |
-| Bulkers | Capesize | 176k | 15 years | 36.0 | 36.0 | 0.0% |
+| Bulkers | Capesize | 176k | 15 years | 36 | 36 | 0.0% |
 | Bulkers | Kamsarmax | 82k | Resale | 44.5 | 44.5 | 0.0% |
-| Bulkers | Kamsarmax | 82k | 5 years | 39.0 | 39.0 | 0.0% |
-| Bulkers | Kamsarmax | 82k | 10 years | 29.0 | 29.0 | 0.0% |
+| Bulkers | Kamsarmax | 82k | 5 years | 39 | 39 | 0.0% |
+| Bulkers | Kamsarmax | 82k | 10 years | 29 | 29 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 15 years | 20.8 | 20.8 | 0.0% |
 | Bulkers | Ultramax | 64k | Resale | 42.5 | 42.5 | 0.0% |
 | Bulkers | Ultramax | 63k | 5 years | 37.5 | 37.5 | 0.0% |
-| Bulkers | Ultramax | 61k | 10 years | 28.0 | 28.0 | 0.0% |
-| Bulkers | Supramax | 56k | 15 years | 18.0 | 17.0 | 5.88% |
+| Bulkers | Ultramax | 61k | 10 years | 28 | 28 | 0.0% |
+| Bulkers | Supramax | 56k | 15 years | 18 | 17 | 5.88% |
 | Bulkers | Handysize | 40k | Resale | 35.5 | 35.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 29.3 | 29.3 | 0.0% |
 | Bulkers | Handysize | 37k | 10 years | 22.5 | 22.5 | 0.0% |
 | Bulkers | Handysize | 32k | 15 years | 12.5 | 12.5 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 174.0 | 174.0 | 0.0% |
+| Tankers | VLCC | 310k | Resale | 174 | 174 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 144.5 | 144.5 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 114.5 | 114.5 | 0.0% |
-| Tankers | VLCC | 300k | 15 years | 83.0 | 82.5 | 0.61% |
-| Tankers | Suezmax | 160k | Resale | 118.0 | 114.0 | 3.51% |
+| Tankers | VLCC | 300k | 15 years | 83 | 82.5 | 0.61% |
+| Tankers | Suezmax | 160k | Resale | 118 | 114 | 3.51% |
 | Tankers | Suezmax | 160k | 5 years | 103.5 | 94.5 | 9.52% |
 | Tankers | Suezmax | 150k | 10 years | 88.5 | 79.5 | 11.32% |
 | Tankers | Suezmax | 150k | 15 years | 53.5 | 50.5 | 5.94% |
@@ -201,7 +201,7 @@ Far East activity saw Japan trips to SE Asia at USD 16,000 pd, while NoPac busin
 | Tankers | Aframax | 110k | 5 years | 79.5 | 79.5 | 0.0% |
 | Tankers | Aframax | 105k | 10 years | 69.5 | 69.5 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 44.5 | 44.5 | 0.0% |
-| Tankers | MR | 52k | Resale | 60.0 | 60.0 | 0.0% |
+| Tankers | MR | 52k | Resale | 60 | 60 | 0.0% |
 | Tankers | MR | 51k | 5 years | 50.5 | 50.5 | 0.0% |
 | Tankers | MR | 47k | 10 years | 40.5 | 40.5 | 0.0% |
 | Tankers | MR | 45k | 15 years | 28.5 | 28.5 | 0.0% |

@@ -110,10 +110,10 @@ Metrostar Management have sold their Aframax "Prostar" 115/2019 Daehan, Korea (S
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 525.0 | 540.0 |
-| Bangladesh | 575.0 | 585.0 |
-| Pakistan | 570.0 | 580.0 |
-| Turkey | 320.0 | 330.0 |
+| India | 525 | 540 |
+| Bangladesh | 575 | 585 |
+| Pakistan | 570 | 580 |
+| Turkey | 320 | 330 |
 
 ## Page 5
 
@@ -144,35 +144,35 @@ Metrostar Management have sold their Aframax "Prostar" 115/2019 Daehan, Korea (S
 | Sector | Vessel Class | Size | Age | Current Price ($M) | Prior Price ($M) | Change (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers | Capesize | 180k | Resale | 59.5 | 59.5 | 0.0% |
-| Bulkers | Capesize | 180k | 5 years | 46.0 | 46.0 | 0.0% |
-| Bulkers | Capesize | 180k | 10 years | 33.0 | 33.0 | 0.0% |
-| Bulkers | Capesize | 170k | 15 years | 21.0 | 21.0 | 0.0% |
-| Bulkers | Kamsarmax | 82k | Resale | 40.5 | 40.0 | 1.25% |
-| Bulkers | Kamsarmax | 82k | 5 years | 33.0 | 32.0 | 3.13% |
+| Bulkers | Capesize | 180k | 5 years | 46 | 46 | 0.0% |
+| Bulkers | Capesize | 180k | 10 years | 33 | 33 | 0.0% |
+| Bulkers | Capesize | 170k | 15 years | 21 | 21 | 0.0% |
+| Bulkers | Kamsarmax | 82k | Resale | 40.5 | 40 | 1.25% |
+| Bulkers | Kamsarmax | 82k | 5 years | 33 | 32 | 3.13% |
 | Bulkers | Panamax | 76k | 10 years | 23.5 | 23.5 | 0.0% |
 | Bulkers | Panamax | 74k | 15 years | 16.8 | 16.8 | 0.0% |
-| Bulkers | Ultramax | 63k | Resale | 37.0 | 37.0 | 0.0% |
-| Bulkers | Ultramax | 61k | 5 years | 30.0 | 30.0 | 0.0% |
+| Bulkers | Ultramax | 63k | Resale | 37 | 37 | 0.0% |
+| Bulkers | Ultramax | 61k | 5 years | 30 | 30 | 0.0% |
 | Bulkers | Supramax | 58k | 5 years | 27.5 | 27.5 | 0.0% |
-| Bulkers | Supramax | 56k | 10 years | 21.0 | 21.0 | 0.0% |
+| Bulkers | Supramax | 56k | 10 years | 21 | 21 | 0.0% |
 | Bulkers | Supramax | 52k | 15 years | 15.8 | 15.8 | 0.0% |
-| Bulkers | Handysize | 38k | Resale | 30.0 | 30.0 | 0.0% |
+| Bulkers | Handysize | 38k | Resale | 30 | 30 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 25.5 | 25.5 | 0.0% |
-| Bulkers | Handysize | 32k | 10 years | 17.0 | 17.0 | 0.0% |
+| Bulkers | Handysize | 32k | 10 years | 17 | 17 | 0.0% |
 | Bulkers | Handysize | 28k | 15 years | 10.5 | 10.5 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 99.0 | 99.0 | 0.0% |
-| Tankers | VLCC | 310k | 5 years | 70.0 | 70.0 | 0.0% |
-| Tankers | VLCC | 300k | 10 years | 46.0 | 46.0 | 0.0% |
-| Tankers | VLCC | 300k | 15 years | 33.0 | 33.0 | 0.0% |
-| Tankers | Suezmax | 160k | Resale | 69.0 | 69.0 | 0.0% |
-| Tankers | Suezmax | 160k | 5 years | 47.0 | 47.0 | 0.0% |
-| Tankers | Suezmax | 150k | 10 years | 31.0 | 31.0 | 0.0% |
+| Tankers | VLCC | 310k | Resale | 99 | 99 | 0.0% |
+| Tankers | VLCC | 310k | 5 years | 70 | 70 | 0.0% |
+| Tankers | VLCC | 300k | 10 years | 46 | 46 | 0.0% |
+| Tankers | VLCC | 300k | 15 years | 33 | 33 | 0.0% |
+| Tankers | Suezmax | 160k | Resale | 69 | 69 | 0.0% |
+| Tankers | Suezmax | 160k | 5 years | 47 | 47 | 0.0% |
+| Tankers | Suezmax | 150k | 10 years | 31 | 31 | 0.0% |
 | Tankers | Suezmax | 150k | 15 years | 16.5 | 16.5 | 0.0% |
-| Tankers | Aframax | 110k | Resale | 56.0 | 56.0 | 0.0% |
+| Tankers | Aframax | 110k | Resale | 56 | 56 | 0.0% |
 | Tankers | Aframax | 110k | 5 years | 40.5 | 40.5 | 0.0% |
 | Tankers | Aframax | 105k | 10 years | 26.5 | 26.5 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 16.3 | 16.3 | 0.0% |
 | Tankers | MR | 52k | Resale | 38.5 | 38.5 | 0.0% |
 | Tankers | MR | 51k | 5 years | 28.5 | 28.5 | 0.0% |
-| Tankers | MR | 47k | 10 years | 18.0 | 18.0 | 0.0% |
-| Tankers | MR | 45k | 15 years | 11.0 | 11.0 | 0.0% |
+| Tankers | MR | 47k | 10 years | 18 | 18 | 0.0% |
+| Tankers | MR | 45k | 15 years | 11 | 11 | 0.0% |

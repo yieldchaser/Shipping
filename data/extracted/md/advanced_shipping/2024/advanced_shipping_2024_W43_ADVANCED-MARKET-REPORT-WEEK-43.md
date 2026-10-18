@@ -27,27 +27,27 @@ Chinese owners have committed the Kamsarmax "Nova Optimus" 81/2012 Jiangsu, Chin
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1410.0 | 1576.0 | -10.53% |
-| BCI | 1856.0 | 2276.0 | -18.45% |
-| BPI | 1201.0 | 1285.0 | -6.54% |
-| BSI | 1240.0 | 1250.0 | -0.8% |
-| BHSI | 728.0 | 727.0 | 0.14% |
+| BDI | 1410 | 1576 | -10.53% |
+| BCI | 1856 | 2276 | -18.45% |
+| BPI | 1201 | 1285 | -6.54% |
+| BSI | 1240 | 1250 | -0.8% |
+| BHSI | 728 | 727 | 0.14% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 15395.0 | 18875.0 | -3480.0 |
-| Kamsarmax | 10813.0 | 11562.0 | -749.0 |
-| Ultramax | 15669.0 | 15802.0 | -133.0 |
-| Handysize 38 | 13098.0 | 13078.0 | 20.0 |
+| Capesize | 15395 | 18875 | -3480 |
+| Kamsarmax | 10813 | 11562 | -749 |
+| Ultramax | 15669 | 15802 | -133 |
+| Handysize 38 | 13098 | 13078 | 20 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 1036.0 | 1043.0 | -0.67% |
-| BCTI | 552.0 | 580.0 | -4.83% |
+| BDTI | 1036 | 1043 | -0.67% |
+| BCTI | 552 | 580 | -4.83% |
 
 ## Page 2
 
@@ -112,10 +112,10 @@ Trips from China via Indonesia into Continent were reported at the level of usd 
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 425.0 | 440.0 |
-| Bangladesh | 430.0 | 450.0 |
-| Pakistan | 415.0 | 425.0 |
-| Turkey | 330.0 | 340.0 |
+| India | 425 | 440 |
+| Bangladesh | 430 | 450 |
+| Pakistan | 415 | 425 |
+| Turkey | 330 | 340 |
 
 ## Page 5
 
@@ -148,7 +148,7 @@ Trips from China via Indonesia into Continent were reported at the level of usd 
 | Bulkers | Capesize | 180k | Resale | 76.5 | 76.5 | 0.0% |
 | Bulkers | Capesize | 180k | 5 years | 63.5 | 63.5 | 0.0% |
 | Bulkers | Capesize | 180k | 10 years | 44.5 | 44.5 | 0.0% |
-| Bulkers | Capesize | 176k | 15 years | 28.0 | 28.0 | 0.0% |
+| Bulkers | Capesize | 176k | 15 years | 28 | 28 | 0.0% |
 | Bulkers | Kamsarmax | 82k | Resale | 40.8 | 40.8 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 5 years | 35.5 | 35.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 10 years | 24.8 | 24.8 | 0.0% |
@@ -157,23 +157,23 @@ Trips from China via Indonesia into Continent were reported at the level of usd 
 | Bulkers | Ultramax | 63k | 5 years | 35.3 | 35.3 | 0.0% |
 | Bulkers | Ultramax | 61k | 10 years | 24.5 | 24.5 | 0.0% |
 | Bulkers | Supramax | 56k | 15 years | 15.5 | 15.5 | 0.0% |
-| Bulkers | Handysize | 40k | Resale | 34.0 | 34.0 | 0.0% |
-| Bulkers | Handysize | 37k | 5 years | 27.0 | 27.0 | 0.0% |
+| Bulkers | Handysize | 40k | Resale | 34 | 34 | 0.0% |
+| Bulkers | Handysize | 37k | 5 years | 27 | 27 | 0.0% |
 | Bulkers | Handysize | 37k | 10 years | 19.5 | 19.5 | 0.0% |
-| Bulkers | Handysize | 32k | 15 years | 12.0 | 12.0 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 148.0 | 148.0 | 0.0% |
+| Bulkers | Handysize | 32k | 15 years | 12 | 12 | 0.0% |
+| Tankers | VLCC | 310k | Resale | 148 | 148 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 115.5 | 115.5 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 85.5 | 85.5 | 0.0% |
 | Tankers | VLCC | 300k | 15 years | 55.5 | 55.5 | 0.0% |
-| Tankers | Suezmax | 160k | Resale | 98.0 | 98.0 | 0.0% |
+| Tankers | Suezmax | 160k | Resale | 98 | 98 | 0.0% |
 | Tankers | Suezmax | 160k | 5 years | 79.5 | 79.5 | 0.0% |
 | Tankers | Suezmax | 150k | 10 years | 64.5 | 64.5 | 0.0% |
-| Tankers | Suezmax | 150k | 15 years | 46.0 | 46.0 | 0.0% |
-| Tankers | Aframax | 110k | Resale | 84.0 | 84.0 | 0.0% |
-| Tankers | Aframax | 110k | 5 years | 69.5 | 72.0 | -3.47% |
-| Tankers | Aframax | 105k | 10 years | 57.0 | 57.5 | -0.87% |
-| Tankers | Aframax | 105k | 15 years | 39.5 | 40.0 | -1.25% |
-| Tankers | MR | 52k | Resale | 56.0 | 57.0 | -1.75% |
+| Tankers | Suezmax | 150k | 15 years | 46 | 46 | 0.0% |
+| Tankers | Aframax | 110k | Resale | 84 | 84 | 0.0% |
+| Tankers | Aframax | 110k | 5 years | 69.5 | 72 | -3.47% |
+| Tankers | Aframax | 105k | 10 years | 57 | 57.5 | -0.87% |
+| Tankers | Aframax | 105k | 15 years | 39.5 | 40 | -1.25% |
+| Tankers | MR | 52k | Resale | 56 | 57 | -1.75% |
 | Tankers | MR | 51k | 5 years | 46.5 | 47.5 | -2.11% |
 | Tankers | MR | 47k | 10 years | 36.5 | 37.5 | -2.67% |
 | Tankers | MR | 45k | 15 years | 25.5 | 26.5 | -3.77% |

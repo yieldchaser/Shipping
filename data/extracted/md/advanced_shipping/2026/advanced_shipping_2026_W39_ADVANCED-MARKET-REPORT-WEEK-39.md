@@ -31,27 +31,27 @@ The VLCC "Atherina" 319/2011 Hyundai, Korea (SS 01/2031, DD 04/2029) was committ
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 3426.0 | 3370.0 | 1.66% |
-| BCI | 5784.0 | 5768.0 | 0.28% |
-| BPI | 2407.0 | 2251.0 | 6.93% |
-| BSI | 1786.0 | 1767.0 | 1.08% |
-| BHSI | 1011.0 | 988.0 | 2.33% |
+| BDI | 3426 | 3370 | 1.66% |
+| BCI | 5784 | 5768 | 0.28% |
+| BPI | 2407 | 2251 | 6.93% |
+| BSI | 1786 | 1767 | 1.08% |
+| BHSI | 1011 | 988 | 2.33% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 52457.0 | 52315.0 | 142.0 |
-| Kamsarmax | 21662.0 | 20262.0 | 1400.0 |
-| Ultramax | 22579.0 | 22332.0 | 247.0 |
-| Handysize 38 | 18190.0 | 17776.0 | 414.0 |
+| Capesize | 52457 | 52315 | 142 |
+| Kamsarmax | 21662 | 20262 | 1400 |
+| Ultramax | 22579 | 22332 | 247 |
+| Handysize 38 | 18190 | 17776 | 414 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 5366.0 | 4899.0 | 9.53% |
-| BCTI | 2160.0 | 1943.0 | 11.17% |
+| BDTI | 5366 | 4899 | 9.53% |
+| BCTI | 2160 | 1943 | 11.17% |
 
 ## Page 2
 
@@ -177,10 +177,10 @@ In the Atlantic, ECSA grain runs to WCSA range secured strong levels between USD
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 430.0 | 445.0 |
-| Bangladesh | 485.0 | 510.0 |
-| Pakistan | 480.0 | 490.0 |
-| Turkey | 275.0 | 285.0 |
+| India | 430 | 445 |
+| Bangladesh | 485 | 510 |
+| Pakistan | 480 | 490 |
+| Turkey | 275 | 285 |
 
 ## Page 7
 
@@ -195,28 +195,28 @@ In the Atlantic, ECSA grain runs to WCSA range secured strong levels between USD
 | Bulkers | Kamsarmax | 82k | Resale | 46.5 | 46.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 5 years | 41.5 | 41.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 10 years | 32.5 | 32.5 | 0.0% |
-| Bulkers | Kamsarmax | 82k | 15 years | 22.0 | 22.0 | 0.0% |
+| Bulkers | Kamsarmax | 82k | 15 years | 22 | 22 | 0.0% |
 | Bulkers | Ultramax | 64k | Resale | 43.5 | 43.5 | 0.0% |
 | Bulkers | Ultramax | 63k | 5 years | 38.5 | 38.5 | 0.0% |
 | Bulkers | Ultramax | 61k | 10 years | 29.5 | 29.5 | 0.0% |
-| Bulkers | Supramax | 56k | 15 years | 19.0 | 19.0 | 0.0% |
-| Bulkers | Handysize | 40k | Resale | 37.0 | 37.0 | 0.0% |
+| Bulkers | Supramax | 56k | 15 years | 19 | 19 | 0.0% |
+| Bulkers | Handysize | 40k | Resale | 37 | 37 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 30.5 | 30.5 | 0.0% |
 | Bulkers | Handysize | 37k | 10 years | 23.5 | 23.5 | 0.0% |
 | Bulkers | Handysize | 32k | 15 years | 12.5 | 12.5 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 199.0 | 186.0 | 6.99% |
+| Tankers | VLCC | 310k | Resale | 199 | 186 | 6.99% |
 | Tankers | VLCC | 310k | 5 years | 179.5 | 161.5 | 11.15% |
 | Tankers | VLCC | 300k | 10 years | 149.5 | 136.5 | 9.52% |
 | Tankers | VLCC | 300k | 15 years | 129.5 | 108.5 | 19.35% |
-| Tankers | Suezmax | 160k | Resale | 144.0 | 132.0 | 9.09% |
+| Tankers | Suezmax | 160k | Resale | 144 | 132 | 9.09% |
 | Tankers | Suezmax | 160k | 5 years | 119.5 | 110.5 | 8.14% |
 | Tankers | Suezmax | 150k | 10 years | 97.5 | 90.5 | 7.73% |
 | Tankers | Suezmax | 150k | 15 years | 79.5 | 69.5 | 14.39% |
-| Tankers | Aframax | 110k | Resale | 99.0 | 94.0 | 5.32% |
+| Tankers | Aframax | 110k | Resale | 99 | 94 | 5.32% |
 | Tankers | Aframax | 110k | 5 years | 89.5 | 84.5 | 5.92% |
-| Tankers | Aframax | 105k | 10 years | 79.5 | 72.0 | 10.42% |
+| Tankers | Aframax | 105k | 10 years | 79.5 | 72 | 10.42% |
 | Tankers | Aframax | 105k | 15 years | 59.5 | 57.5 | 3.48% |
-| Tankers | MR | 52k | Resale | 59.0 | 59.0 | 0.0% |
+| Tankers | MR | 52k | Resale | 59 | 59 | 0.0% |
 | Tankers | MR | 51k | 5 years | 49.5 | 49.5 | 0.0% |
 | Tankers | MR | 47k | 10 years | 39.5 | 39.5 | 0.0% |
 | Tankers | MR | 45k | 15 years | 26.5 | 26.5 | 0.0% |

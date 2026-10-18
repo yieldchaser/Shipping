@@ -31,27 +31,27 @@ The MR2 sister vessels "Clearocean Maria" & "Clearocean Mary" 50/2014 Spp, Korea
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1633.0 | 1418.0 | 15.16% |
-| BCI | 2842.0 | 2277.0 | 24.81% |
-| BPI | 1246.0 | 1119.0 | 11.35% |
-| BSI | 933.0 | 951.0 | -1.89% |
-| BHSI | 600.0 | 601.0 | -0.17% |
+| BDI | 1633 | 1418 | 15.16% |
+| BCI | 2842 | 2277 | 24.81% |
+| BPI | 1246 | 1119 | 11.35% |
+| BSI | 933 | 951 | -1.89% |
+| BHSI | 600 | 601 | -0.17% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 23572.0 | 18885.0 | 4687.0 |
-| Kamsarmax | 11210.0 | 10072.0 | 1138.0 |
-| Ultramax | 11796.0 | 12026.0 | -230.0 |
-| Handysize 38 | 10802.0 | 10813.0 | -11.0 |
+| Capesize | 23572 | 18885 | 4687 |
+| Kamsarmax | 11210 | 10072 | 1138 |
+| Ultramax | 11796 | 12026 | -230 |
+| Handysize 38 | 10802 | 10813 | -11 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 951.0 | 922.0 | 3.15% |
-| BCTI | 626.0 | 698.0 | -10.32% |
+| BDTI | 951 | 922 | 3.15% |
+| BCTI | 626 | 698 | -10.32% |
 
 ## Page 2
 
@@ -145,10 +145,10 @@ Trips from Japan into West Coast South America were fixed around usd 12,000/13,0
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 425.0 | 435.0 |
-| Bangladesh | 430.0 | 445.0 |
-| Pakistan | 445.0 | 450.0 |
-| Turkey | 250.0 | 260.0 |
+| India | 425 | 435 |
+| Bangladesh | 430 | 445 |
+| Pakistan | 445 | 450 |
+| Turkey | 250 | 260 |
 
 ## Page 7
 
@@ -160,31 +160,31 @@ Trips from Japan into West Coast South America were fixed around usd 12,000/13,0
 | Bulkers | Capesize | 180k | 5 years | 62.5 | 62.5 | 0.0% |
 | Bulkers | Capesize | 180k | 10 years | 44.5 | 44.5 | 0.0% |
 | Bulkers | Capesize | 176k | 15 years | 26.5 | 26.5 | 0.0% |
-| Bulkers | Kamsarmax | 82k | Resale | 38.0 | 38.0 | 0.0% |
-| Bulkers | Kamsarmax | 82k | 5 years | 31.0 | 31.0 | 0.0% |
+| Bulkers | Kamsarmax | 82k | Resale | 38 | 38 | 0.0% |
+| Bulkers | Kamsarmax | 82k | 5 years | 31 | 31 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 10 years | 23.8 | 23.8 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 15 years | 14.8 | 14.8 | 0.0% |
 | Bulkers | Ultramax | 64k | Resale | 37.5 | 37.5 | 0.0% |
-| Bulkers | Ultramax | 63k | 5 years | 30.0 | 30.0 | 0.0% |
+| Bulkers | Ultramax | 63k | 5 years | 30 | 30 | 0.0% |
 | Bulkers | Ultramax | 61k | 10 years | 22.5 | 22.5 | 0.0% |
 | Bulkers | Supramax | 56k | 15 years | 14.5 | 14.5 | 0.0% |
 | Bulkers | Handysize | 40k | Resale | 32.5 | 32.5 | 0.0% |
 | Bulkers | Handysize | 37k | 5 years | 24.5 | 24.5 | 0.0% |
 | Bulkers | Handysize | 37k | 10 years | 17.8 | 17.8 | 0.0% |
 | Bulkers | Handysize | 32k | 15 years | 11.5 | 11.5 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 144.0 | 144.0 | 0.0% |
+| Tankers | VLCC | 310k | Resale | 144 | 144 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 114.5 | 114.5 | 0.0% |
 | Tankers | VLCC | 300k | 10 years | 84.5 | 84.5 | 0.0% |
 | Tankers | VLCC | 300k | 15 years | 57.5 | 57.5 | 0.0% |
-| Tankers | Suezmax | 160k | Resale | 93.0 | 93.0 | 0.0% |
+| Tankers | Suezmax | 160k | Resale | 93 | 93 | 0.0% |
 | Tankers | Suezmax | 160k | 5 years | 76.5 | 76.5 | 0.0% |
 | Tankers | Suezmax | 150k | 10 years | 61.5 | 61.5 | 0.0% |
 | Tankers | Suezmax | 150k | 15 years | 40.5 | 40.5 | 0.0% |
-| Tankers | Aframax | 110k | Resale | 74.0 | 74.0 | 0.0% |
-| Tankers | Aframax | 110k | 5 years | 62.0 | 62.0 | 0.0% |
+| Tankers | Aframax | 110k | Resale | 74 | 74 | 0.0% |
+| Tankers | Aframax | 110k | 5 years | 62 | 62 | 0.0% |
 | Tankers | Aframax | 105k | 10 years | 49.5 | 49.5 | 0.0% |
 | Tankers | Aframax | 105k | 15 years | 33.5 | 33.5 | 0.0% |
-| Tankers | MR | 52k | Resale | 49.0 | 49.0 | 0.0% |
+| Tankers | MR | 52k | Resale | 49 | 49 | 0.0% |
 | Tankers | MR | 51k | 5 years | 39.5 | 39.5 | 0.0% |
 | Tankers | MR | 47k | 10 years | 29.5 | 29.5 | 0.0% |
 | Tankers | MR | 45k | 15 years | 20.5 | 20.5 | 0.0% |

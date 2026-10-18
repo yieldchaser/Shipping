@@ -31,27 +31,27 @@ DHT Holdings committed the VLCC "DHT Scandinavia" 317/2006 Hyundai Samho, Korea 
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1051.0 | 1167.0 | -9.94% |
-| BCI | 1263.0 | 1535.0 | -17.72% |
-| BPI | 995.0 | 1067.0 | -6.75% |
-| BSI | 959.0 | 974.0 | -1.54% |
-| BHSI | 618.0 | 644.0 | -4.04% |
+| BDI | 1051 | 1167 | -9.94% |
+| BCI | 1263 | 1535 | -17.72% |
+| BPI | 995 | 1067 | -6.75% |
+| BSI | 959 | 974 | -1.54% |
+| BHSI | 618 | 644 | -4.04% |
 
 ### Baltic Daily T/C Average
 
 | Vessel Type | Current ($) | Previous ($) | Change ($) |
 | --- | --- | --- | --- |
-| Capesize | 10474.0 | 12727.0 | -2253.0 |
-| Kamsarmax | 8955.0 | 9606.0 | -651.0 |
-| Ultramax | 12117.0 | 12309.0 | -192.0 |
-| Handysize 38 | 11133.0 | 11588.0 | -455.0 |
+| Capesize | 10474 | 12727 | -2253 |
+| Kamsarmax | 8955 | 9606 | -651 |
+| Ultramax | 12117 | 12309 | -192 |
+| Handysize 38 | 11133 | 11588 | -455 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 921.0 | 943.0 | -2.33% |
-| BCTI | 661.0 | 625.0 | 5.76% |
+| BDTI | 921 | 943 | -2.33% |
+| BCTI | 661 | 625 | 5.76% |
 
 ## Page 2
 
@@ -142,10 +142,10 @@ Japanese trips into South East Asia were fixed around usd 8,000/10,000 pd. India
 
 | Country | Bulkers ($/ldt) | Tankers ($/ldt) |
 | --- | --- | --- |
-| India | 445.0 | 465.0 |
-| Bangladesh | 455.0 | 470.0 |
-| Pakistan | 425.0 | 435.0 |
-| Turkey | 310.0 | 320.0 |
+| India | 445 | 465 |
+| Bangladesh | 455 | 470 |
+| Pakistan | 425 | 435 |
+| Turkey | 310 | 320 |
 
 ## Page 6
 
@@ -153,12 +153,12 @@ Japanese trips into South East Asia were fixed around usd 8,000/10,000 pd. India
 
 | Sector | Vessel Class | Size | Age | Current Price ($M) | Prior Price ($M) | Change (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bulkers | Capesize | 180k | Resale | 75.0 | 75.0 | 0.0% |
+| Bulkers | Capesize | 180k | Resale | 75 | 75 | 0.0% |
 | Bulkers | Capesize | 180k | 5 years | 61.5 | 61.5 | 0.0% |
 | Bulkers | Capesize | 180k | 10 years | 42.5 | 42.5 | 0.0% |
-| Bulkers | Capesize | 176k | 15 years | 26.0 | 26.0 | 0.0% |
+| Bulkers | Capesize | 176k | 15 years | 26 | 26 | 0.0% |
 | Bulkers | Kamsarmax | 82k | Resale | 39.5 | 39.5 | 0.0% |
-| Bulkers | Kamsarmax | 82k | 5 years | 34.0 | 34.0 | 0.0% |
+| Bulkers | Kamsarmax | 82k | 5 years | 34 | 34 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 10 years | 24.5 | 24.5 | 0.0% |
 | Bulkers | Kamsarmax | 82k | 15 years | 15.3 | 15.3 | 0.0% |
 | Bulkers | Ultramax | 64k | Resale | 38.5 | 38.5 | 0.0% |
@@ -169,19 +169,19 @@ Japanese trips into South East Asia were fixed around usd 8,000/10,000 pd. India
 | Bulkers | Handysize | 37k | 5 years | 26.3 | 26.3 | 0.0% |
 | Bulkers | Handysize | 37k | 10 years | 18.8 | 18.8 | 0.0% |
 | Bulkers | Handysize | 32k | 15 years | 11.5 | 11.5 | 0.0% |
-| Tankers | VLCC | 310k | Resale | 148.0 | 148.0 | 0.0% |
+| Tankers | VLCC | 310k | Resale | 148 | 148 | 0.0% |
 | Tankers | VLCC | 310k | 5 years | 114.5 | 115.5 | -0.87% |
 | Tankers | VLCC | 300k | 10 years | 84.5 | 85.5 | -1.17% |
 | Tankers | VLCC | 300k | 15 years | 53.5 | 54.5 | -1.83% |
-| Tankers | Suezmax | 160k | Resale | 97.0 | 97.0 | 0.0% |
+| Tankers | Suezmax | 160k | Resale | 97 | 97 | 0.0% |
 | Tankers | Suezmax | 160k | 5 years | 77.5 | 77.5 | 0.0% |
 | Tankers | Suezmax | 150k | 10 years | 61.5 | 61.5 | 0.0% |
 | Tankers | Suezmax | 150k | 15 years | 45.5 | 45.5 | 0.0% |
-| Tankers | Aframax | 110k | Resale | 83.0 | 83.0 | 0.0% |
+| Tankers | Aframax | 110k | Resale | 83 | 83 | 0.0% |
 | Tankers | Aframax | 110k | 5 years | 67.5 | 67.5 | 0.0% |
 | Tankers | Aframax | 105k | 10 years | 52.5 | 52.5 | 0.0% |
-| Tankers | Aframax | 105k | 15 years | 37.0 | 37.0 | 0.0% |
-| Tankers | MR | 52k | Resale | 53.0 | 54.0 | -1.85% |
+| Tankers | Aframax | 105k | 15 years | 37 | 37 | 0.0% |
+| Tankers | MR | 52k | Resale | 53 | 54 | -1.85% |
 | Tankers | MR | 51k | 5 years | 43.5 | 44.5 | -2.25% |
 | Tankers | MR | 47k | 10 years | 33.5 | 34.5 | -2.9% |
 | Tankers | MR | 45k | 15 years | 22.5 | 22.5 | 0.0% |
