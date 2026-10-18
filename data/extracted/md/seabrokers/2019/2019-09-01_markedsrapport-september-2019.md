@@ -285,20 +285,10 @@ Caspian Voyager(Caspian Voyager (pictured c/o G. Curran))
 |                                                 | Oct               | £12,555                         | £-      |
 |                                                 | Nov               | £9,567                          | £-      |
 |                                                 | Dec               | £12,516                         | £-      |
-
-### 2018: £6,815
-
-| **Average Day Rates To Month (September 2019)** | PSVs < 900m² | 2019: £10,457 |
-|                                                 |
-
- PSVs > 900m²      | 2018: £7,597<br/>2019: £11,563  |         |
-
-### 2018: £12,946
-
-| AHTS < 22,000 bhp | 2019: £22,564 |
-|                                                 |
-
- AHTS > 22,000 bhp | 2018: £16,597<br/>2019: £24,230 |         |
+| **Average Day Rates To Month (September 2019)** | PSVs < 900m² | 2018: £6,815 | 2019: £10,457 |
+|  | PSVs > 900m² | £7,597 | £11,563 |
+|  | AHTS < 22,000 bhp | £12,946 | £22,564 |
+|  | AHTS > 22,000 bhp | £16,597 | £24,230 |
 
 # FEATURE VESSEL
 
@@ -548,7 +538,7 @@ At Seabrokers, we take our social responsibility seriously. Earlier this year we
 | SEABROKERS HEAD OFFICE | Internet: www\.seabrokers-group.com |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | SEABROKERS CHARTERING AS - STAVANGER     | Duty Telephone ++47 51 815400 (24 Hrs)<br/>E-mail chartering\@seabrokers.no                                       |
-| SEABROKERS LTD - ABERDEEN                | Duty Telephone ++44 1224 747744 (24 Hrs)<br/>Duty Mobile ++44 7802 304129<br/>E-Mail chartering\@seabrokers.co.uk |
+| SEABROKERS LTD - ABERDEEN                | Duty Telephone ++44 1224 747744 (24 Hrs)<br/><br/>E-Mail chartering\@seabrokers.co.uk |
 | SEABROKERS BRAZIL LTDA - RIO DE JANEIRO  | Duty Telephone ++55 21 3505 4200 (24 Hrs)<br/>E-mail chartering\@seabrokers.com.br                                |
 | SECURALIFT AS - STAVANGER                | Telephone ++47 51 800000<br/>E-mail stig\@seabrokers.no                                                           |
 | SEA SURVEILLANCE AS - BERGEN             | Telephone ++47 55 136500<br/>E-mail info\@seasurv.net                                                             |

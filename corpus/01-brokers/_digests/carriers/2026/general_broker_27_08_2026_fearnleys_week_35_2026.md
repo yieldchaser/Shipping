@@ -20,7 +20,6 @@ pdf_url: " https://www.hellenicshippingnews.com/wp-content/uploads/2026/08/Fearn
 ## Fearnleys Weekly Report
 
 **Week 35 - August 26, 2026**
-
 drougas@hellenicshippingnews.com
 
 **01**
@@ -44,22 +43,17 @@ North Sea After the large number of vessels we have seen ballast towards the US 
 Mediterranean Activity in the Mediterranean remains consistent with dates pushing into September and cargoes from certain ports pushing out to the 5th. Like the North Sea the Mediterranean had seen vessels leaving for the US which has helped owners push for increases in rate levels. List remain interesting with some tonnage compromised due to trading history.
 
 ### Rates
-
-##### Dirty
+Dirty
 
 **(Spot WS 2026, Daily Change)**
 
 **Click rate to view graph**
-
-##### MEG/WEST
-
-##### 280'
+MEG/WEST
+280'
 
 **290** **10**
-
-##### MEG/Japan
-
-##### 280'
+MEG/Japan
+280'
 
 |600|90|
 |---|---|
@@ -95,9 +89,7 @@ Mediterranean Activity in the Mediterranean remains consistent with dates pushin
 |Available in MEG next 30 days||
 |90|-13|
 |1 Year T/C Crude||
-
 VLCC Suezmax **150k**
-
 © 2026 Fearnleys AS **125k**
 
 **100k** ay D r e **75k** p SD U **50k**
@@ -125,161 +117,99 @@ The Panamax market has firmed steadily through the week, with the index posting 
 The Supramax market remained largely subdued and stable. The Atlantic was mixed, with the Mediterranean gradually softening while the Continent saw some fresh enquiry and the US Gulf and South Atlantic remained broadly balanced. In the Pacific, activity was stronger in the NOPAC and parts of Southeast Asia, while Indonesian coal activity was relatively limited. The Handysize market showed a modestly firmer tone, supported by improving cargos in East Coast South America, tighter prompt tonnage in parts of the Pacific and better sentiment in the US Gulf. While the US Gulf was still soft in the short term despite expectations of improvement ahead.
 
 ### Rates
-
-##### Capesize
-
-**(USD/Day, USD/Tonne, Daily Change)**
-
-**Click rate to view graph**
-
-##### TCE Cont/Far East
-
-#### $79,333
-
-##### $3,389
-
-##### Australia/China
-
-#### $15.24
-
-##### $0.77
-
-##### Pacific RV
-
-#### $45,286
-
-##### $3,381
-
-##### Panamax
+Capesize
 
 **(USD/Day, USD/Tonne, Daily Change)**
 
 **Click rate to view graph**
+TCE Cont/Far East
+$79,333 $3,389
 
-##### Transatlantic RV
+Australia/China
+$15.24 $0.77
 
-#### $19,777
+Pacific RV
+$45,286 $3,381
 
-##### $772
-
-##### TCE Cont/Far East
-
-#### $29,754
-
-##### $401
-
-##### TCE Far East/Cont
-
-#### $11,981
-
-##### $240
-
-##### TCE Far East RV
-
-#### $18,591
-
-##### $711
-
-##### Supramax
+Panamax
 
 **(USD/Day, USD/Tonne, Daily Change)**
 
 **Click rate to view graph**
+Transatlantic RV
+$19,777 $772
 
-##### Transatlantic RV
+TCE Cont/Far East
+$29,754 $401
 
-#### $22,513
+TCE Far East/Cont
+$11,981 $240
 
-**$21**
+TCE Far East RV
+$18,591 $711
 
-##### US Gulf-China/South Japan
+Supramax
 
-#### $30,238
+**(USD/Day, USD/Tonne, Daily Change)**
 
-**$60**
+**Click rate to view graph**
+Transatlantic RV
+$22,513 $21
 
-##### South China-Indonesia RV
+US Gulf-China/South Japan
+$30,238 $60
 
-#### $15,878
+South China-Indonesia RV
+$15,878 $84
 
-**$84**
-
-##### 1 Year T/C
+1 Year T/C
 
 **(USD/Day, Weekly Change)**
 
 **Click rate to view graph**
+Newcastlemax
+208'
+$49,635 $3,612
 
-##### Newcastlemax
-
-##### 208'
-
-#### $49,635
-
-##### $3,612
-
-##### Kamsarmax
+Kamsarmax
 
 **82'**
+$21,750 $2,250
 
-#### $21,750
-
-##### $2,250
-
-##### Ultramax
+Ultramax
 
 **64'**
+$19,500 $0
 
-#### $19,500
+Capesize
+180'
+$36,526 $2,913
 
-**$0**
-
-##### Capesize
-
-##### 180'
-
-#### $36,526
-
-##### $2,913
-
-##### Panamax
+Panamax
 
 **75'**
+$18,500 $1,500
 
-#### $18,500
-
-##### $1,500
-
-##### Supramax
+Supramax
 
 **58'**
+$17,000 $0
 
-#### $17,000
-
-**$0**
-
-##### Handysize
+Handysize
 
 **38'**
+$14,500 $0
 
-#### $14,500
+Baltic Dry Index (BDI)
+$3,056 $130
 
-**$0**
-
-##### Baltic Dry Index (BDI)
-
-#### $3,056
-
-##### $130
 
 ### 1 Year T/C Dry Bulk
-
 180 000 dwt 75 000 dwt **40k**
 
 **35k** © 2026 Fearnleys AS
 
 **30k**
-
 ay D **25k** r e p SD**20k** U **15k**
 
 **10k**
@@ -293,177 +223,110 @@ ay D **25k** r e p SD**20k** U **15k**
 The September position list holds whilst activity softens. Thirteen vessels left for September dates, the majority of which are trader controlled meaning the downside for the market is limited because FOB interest will outrun freight appetite should the market come off. Panama Canal limitation leads to higher and higher auction slots, something which in the short term will push more vessels via the Cape both laden and ballast.
 
 ### LPG Rates
-
-##### Spot Market
+Spot Market
 
 **(USD/Month, Weekly Change)**
 
 **Click rate to view graph**
-
-##### VLGC
+VLGC
 
 **84'**
+$5,350,000 $50,000
 
-#### $5,350,000
-
-##### $50,000
 
 **LGC** **60'**
+$3,300,000 $100,000
 
-#### $3,300,000
-
-##### $100,000
 
 **MGC** **38'**
+$1,700,000 $100,000
 
-#### $1,700,000
+HDY SR
+20-22'
+$980,000 $0
 
-##### $100,000
+HDY ETH
+21-22'
+$1,100,000 $0
 
-##### HDY SR
-
-##### 20-22'
-
-#### $980,000
-
-**$0**
-
-##### HDY ETH
-
-##### 21-22'
-
-#### $1,100,000
-
-**$0**
 
 **ETH** **8-12'**
+$620,000 $0
 
-#### $620,000
-
-**$0**
 
 **SR**
 
 **6.5'**
-#### $580,000
+$580,000 $0
 
-**$0**
+COASTER Europe (3 500-5 000 cbm)
+$520,000 $0
 
-##### COASTER Europe (3 500-5 000 cbm)
-
-#### $520,000
-
-**$0**
-
-##### LPG/FOB Prices (Propane)
+LPG/FOB Prices (Propane)
 
 **(USD/Tonne, Weekly Change)**
 
 **Click rate to view graph**
+FOB North Sea/Ansi
+$514.5 $0
 
-##### FOB North Sea/Ansi
+Saudi Arabia/CP
+$620 $0
 
-#### $514.5
+MT Belvieu (US Gulf)
+$354.6 -$15.31
 
-**$0**
+Sonatrach/Bethioua
+$540 $0
 
-##### Saudi Arabia/CP
-
-#### $620
-
-**$0**
-
-##### MT Belvieu (US Gulf)
-
-#### $354.6
-
-##### -$15.31
-
-##### Sonatrach/Bethioua
-
-#### $540
-
-**$0**
-
-##### LPG/FOB Prices (Butane)
+LPG/FOB Prices (Butane)
 
 **(USD/Tonne, Weekly Change)**
 
 **Click rate to view graph**
+FOB North Sea/Ansi
+$595.5 $0
 
-##### FOB North Sea/Ansi
+Saudi Arabia/CP
+$640 $0
 
-#### $595.5
+MT Belvieu (US Gulf)
+$478.19 -$7.65
 
-**$0**
+Sonatrach/Bethioua
+$570 $0
 
-##### Saudi Arabia/CP
-
-#### $640
-
-**$0**
-
-##### MT Belvieu (US Gulf)
-
-#### $478.19
-
-##### -$7.65
-
-##### Sonatrach/Bethioua
-
-#### $570
-
-**$0**
 
 ### LNG Rates
-
-##### Spot Market
+Spot Market
 
 **(USD/Day, Weekly Change)**
 
 **Click rate to view graph**
+East of Suez MEGI / XDF
+$55,000 -$12,500
 
-##### East of Suez MEGI / XDF
+West of Suez MEGI / XDF
+$10,000 -$10,000
 
-#### $55,000
+1 Year T/C MEGI / XDF
+$60,000 -$3,000
 
-##### -$12,500
-
-##### West of Suez MEGI / XDF
-
-#### $10,000
-
-##### -$10,000
-
-##### 1 Year T/C MEGI / XDF
-
-#### $60,000
-
-##### -$3,000
 
 **04**
 
 # Newbuilding
 
 ### Activity Levels
-
-##### Tank Activity
-
-#### Strong
-
-##### Dry Bulk Activity
-
-#### Increasing
-
-##### LNG Activity
-
-#### Slow
-
-##### LPG Activity
-
-#### Strong
-
-##### Container Activity
+Tank Activity
+Strong
+Dry Bulk Activity
+Increasing
+LNG Activity
+Slow
+LPG Activity
+Strong
+Container Activity
 
 |Moderat e||
 |---|---|
@@ -479,26 +342,18 @@ The September position list holds whilst activity softens. Thirteen vessels left
 |$49.5|$0|
 |Newcastlemax|210'|
 |$82|$0|
-
-##### Kamsarmax
+Kamsarmax
 
 **82'** **$38** **$0**
-
-##### Ultramax
+Ultramax
 
 **64'**
+$35.5 $0
 
-#### $35.5
+LNGC (MEGI) (cbm)
+170'
+$250 $0
 
-**$0**
-
-##### LNGC (MEGI) (cbm)
-
-##### 170'
-
-#### $250
-
-**$0**
 
 **05**
 
@@ -529,26 +384,16 @@ The September position list holds whilst activity softens. Thirteen vessels left
 # Market Brief
 
 ### Exchange Rates
+USD/JPY
+159.24 0.12
 
-##### USD/JPY
+USD/NOK
+9.34 0.03
 
-#### 159.24
+USD/KRW
+1,235.5 -7.3
 
-##### 0.12
-
-##### USD/NOK
-
-#### 9.34
-
-##### 0.03
-
-##### USD/KRW
-
-#### 1,235.5
-
-##### -7.3
-
-##### EUR/USD
+EUR/USD
 
 |1.16|0|
 |---|---|
@@ -567,7 +412,6 @@ The September position list holds whilst activity softens. Thirteen vessels left
 **Week 35 - August 26, 2026**
 
 All rates published in this report do not necessarily reflect actual transactions occurring in the market. Certain estimates may be based on prevailing market conditions. In some circumstances, rates for certain vessel types are based on theoretical assumptions of premium or discount for particular vessel versus other vessel types.'
-
 Disclaimer
 
 **An Astrup Fearnley Company** © 2026 Fearnleys AS

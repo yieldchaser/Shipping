@@ -20,7 +20,6 @@ pdf_url: " https://www.hellenicshippingnews.com/wp-content/uploads/2026/09/Fearn
 ## Fearnleys Weekly Report
 
 **Week 36 - September 2, 2026**
-
 info@hellenicshippingnews.com
 
 **01**
@@ -44,16 +43,13 @@ North Sea After a long weekend activity has been slow on the pick up. Natural da
 Mediterranean Activity stalled at the end of last week which has rebuilt the early part of the list. Activity has picked up again at the start of the week but the increased tonnage has changed the sentiment for now and charterers have managed to pushed the market down. Natural window pushing into the 2nd decade with tonnage to clear which in the short term may lead to some more weakening before we find the bottom.
 
 ### Rates
-
-##### Dirty
+Dirty
 
 **(Spot WS 2026, Daily Change)**
 
 **Click rate to view graph**
-
-##### MEG/WEST
-
-##### 280'
+MEG/WEST
+280'
 
 |MEG/Japan|280'|
 |---|---|
@@ -86,9 +82,7 @@ Mediterranean Activity stalled at the end of last week which has rebuilt the ear
 |80|-10|
 
 ### 1 Year T/C Crude
-
 VLCC Suezmax **150k**
-
 © 2026 Fearnleys AS **125k**
 
 **100k** ay D r e **75k** p SD U **50k**
@@ -118,161 +112,99 @@ The Panamax market has firmed steadily through the week, with the gains broadeni
 The Supramax market remained mixed and largely directionless, with activity picking up selectively across both the Atlantic and Asia. The Atlantic saw pockets of strength, particularly around the USG and South Atlantic, supported by steady demand for grains, petcoke and minor bulks, while Asia remained active but positional with varied tonnage availability between areas. Handysize trading was generally subdued, although fundamentals remained healthy in parts of the Pacific and South Atlantic. The US Gulf continued to show relatively firm conditions despite limited fixing, while the Continent and Mediterranean markets remained softer. Overall, sentiment across both sectors remains cautious, with regional tonnage positioning and pockets of enquiry driving the market rather than any clear broader trend. There is good appetite for period with quite a few fixtures reported past weeks.
 
 ### Rates
-
-##### Capesize
-
-**(USD/Day, USD/Tonne, Daily Change)**
-
-**Click rate to view graph**
-
-##### TCE Cont/Far East
-
-#### $89,167
-
-##### $7,000
-
-##### Australia/China
-
-#### $16.5
-
-##### $1.16
-
-##### Pacific RV
-
-#### $51,036
-
-##### $4,359
-
-##### Panamax
+Capesize
 
 **(USD/Day, USD/Tonne, Daily Change)**
 
 **Click rate to view graph**
+TCE Cont/Far East
+$89,167 $7,000
 
-##### Transatlantic RV
+Australia/China
+$16.5 $1.16
 
-#### $21,623
+Pacific RV
+$51,036 $4,359
 
-##### $637
-
-##### TCE Cont/Far East
-
-#### $31,364
-
-##### $582
-
-##### TCE Far East/Cont
-
-#### $12,860
-
-##### $335
-
-##### TCE Far East RV
-
-#### $20,998
-
-##### $980
-
-##### Supramax
+Panamax
 
 **(USD/Day, USD/Tonne, Daily Change)**
 
 **Click rate to view graph**
+Transatlantic RV
+$21,623 $637
 
-##### Transatlantic RV
+TCE Cont/Far East
+$31,364 $582
 
-#### $22,652
+TCE Far East/Cont
+$12,860 $335
 
-##### $108
+TCE Far East RV
+$20,998 $980
 
-##### US Gulf-China/South Japan
+Supramax
 
-#### $31,222
+**(USD/Day, USD/Tonne, Daily Change)**
 
-##### $709
+**Click rate to view graph**
+Transatlantic RV
+$22,652 $108
 
-##### South China-Indonesia RV
+US Gulf-China/South Japan
+$31,222 $709
 
-#### $15,806
+South China-Indonesia RV
+$15,806 -$13
 
-##### -$13
-
-##### 1 Year T/C
+1 Year T/C
 
 **(USD/Day, Weekly Change)**
 
 **Click rate to view graph**
+Newcastlemax
+208'
+$51,935 $2,300
 
-##### Newcastlemax
-
-##### 208'
-
-#### $51,935
-
-##### $2,300
-
-##### Kamsarmax
+Kamsarmax
 
 **82'**
+$23,000 $1,250
 
-#### $23,000
-
-##### $1,250
-
-##### Ultramax
+Ultramax
 
 **64'**
+$20,250 $750
 
-#### $20,250
+Capesize
+180'
+$38,380 $1,854
 
-##### $750
-
-##### Capesize
-
-##### 180'
-
-#### $38,380
-
-##### $1,854
-
-##### Panamax
+Panamax
 
 **75'**
+$20,000 $1,500
 
-#### $20,000
-
-##### $1,500
-
-##### Supramax
+Supramax
 
 **58'**
+$17,750 $750
 
-#### $17,750
-
-##### $750
-
-##### Handysize
+Handysize
 
 **38'**
+$14,500 $0
 
-#### $14,500
+Baltic Dry Index (BDI)
+$3,331 $174
 
-**$0**
-
-##### Baltic Dry Index (BDI)
-
-#### $3,331
-
-##### $174
 
 ### 1 Year T/C Dry Bulk
-
 180 000 dwt 75 000 dwt **40k**
 
 **35k** © 2026 Fearnleys AS
 
 **30k**
-
 ay D **25k** r e p SD**20k** U **15k**
 
 **10k**
@@ -286,177 +218,110 @@ ay D **25k** r e p SD**20k** U **15k**
 With September fixing slowly coming to an end, still 4 vessels open 2H Sep, we count 32 fixtures September dates. October window opened last week and continued this week, 6 fixtures October dates so far. Freight strengthened with news of Panama canal restrictions and Tropical Storm Edouard making landfall yesterday. Latest fixing in mid to high USD 270s H/C.
 
 ### LPG Rates
-
-##### Spot Market
+Spot Market
 
 **(USD/Month, Weekly Change)**
 
 **Click rate to view graph**
-
-##### VLGC
+VLGC
 
 **84'**
+$5,200,000 -$150,000
 
-#### $5,200,000
-
-##### -$150,000
 
 **LGC** **60'**
+$3,300,000 $0
 
-#### $3,300,000
-
-**$0**
 
 **MGC** **38'**
+$1,700,000 $0
 
-#### $1,700,000
+HDY SR
+20-22'
+$980,000 $0
 
-**$0**
+HDY ETH
+21-22'
+$1,100,000 $0
 
-##### HDY SR
-
-##### 20-22'
-
-#### $980,000
-
-**$0**
-
-##### HDY ETH
-
-##### 21-22'
-
-#### $1,100,000
-
-**$0**
 
 **ETH** **8-12'**
+$630,000 $10,000
 
-#### $630,000
-
-##### $10,000
 
 **SR**
 
 **6.5'**
-#### $580,000
+$580,000 $0
 
-**$0**
+COASTER Europe (3 500-5 000 cbm)
+$500,000 -$20,000
 
-##### COASTER Europe (3 500-5 000 cbm)
-
-#### $500,000
-
-##### -$20,000
-
-##### LPG/FOB Prices (Propane)
+LPG/FOB Prices (Propane)
 
 **(USD/Tonne, Weekly Change)**
 
 **Click rate to view graph**
+FOB North Sea/Ansi
+$526.5 $12
 
-##### FOB North Sea/Ansi
+Saudi Arabia/CP
+$625 $5
 
-#### $526.5
+MT Belvieu (US Gulf)
+$382.93 $28.33
 
-**$12**
+Sonatrach/Bethioua
+$560 $20
 
-##### Saudi Arabia/CP
-
-#### $625
-
-**$5**
-
-##### MT Belvieu (US Gulf)
-
-#### $382.93
-
-##### $28.33
-
-##### Sonatrach/Bethioua
-
-#### $560
-
-**$20**
-
-##### LPG/FOB Prices (Butane)
+LPG/FOB Prices (Butane)
 
 **(USD/Tonne, Weekly Change)**
 
 **Click rate to view graph**
+FOB North Sea/Ansi
+$600 $4.5
 
-##### FOB North Sea/Ansi
+Saudi Arabia/CP
+$660 $20
 
-#### $600
+MT Belvieu (US Gulf)
+$507.92 $29.73
 
-##### $4.5
+Sonatrach/Bethioua
+$610 $40
 
-##### Saudi Arabia/CP
-
-#### $660
-
-**$20**
-
-##### MT Belvieu (US Gulf)
-
-#### $507.92
-
-##### $29.73
-
-##### Sonatrach/Bethioua
-
-#### $610
-
-**$40**
 
 ### LNG Rates
-
-##### Spot Market
+Spot Market
 
 **(USD/Day, Weekly Change)**
 
 **Click rate to view graph**
+East of Suez MEGI / XDF
+$20,000 -$35,000
 
-##### East of Suez MEGI / XDF
+West of Suez MEGI / XDF
+$20,000 $10,000
 
-#### $20,000
+1 Year T/C MEGI / XDF
+$58,000 -$2,000
 
-##### -$35,000
-
-##### West of Suez MEGI / XDF
-
-#### $20,000
-
-##### $10,000
-
-##### 1 Year T/C MEGI / XDF
-
-#### $58,000
-
-##### -$2,000
 
 **04**
 
 # Newbuilding
 
 ### Activity Levels
-
-##### Tank Activity
-
-#### Strong
-
-##### Dry Bulk Activity
-
-#### Increasing
-
-##### LNG Activity
-
-#### Slow
-
-##### LPG Activity
-
-#### Strong
-
-##### Container Activity
+Tank Activity
+Strong
+Dry Bulk Activity
+Increasing
+LNG Activity
+Slow
+LPG Activity
+Strong
+Container Activity
 
 |Moderat e||
 |---|---|
@@ -472,26 +337,18 @@ With September fixing slowly coming to an end, still 4 vessels open 2H Sep, we c
 |$49.5|$0|
 |Newcastlemax|210'|
 |$82|$0|
-
-##### Kamsarmax
+Kamsarmax
 
 **82'** **$38** **$0**
-
-##### Ultramax
+Ultramax
 
 **64'**
+$35.5 $0
 
-#### $35.5
+LNGC (MEGI) (cbm)
+170'
+$250 $0
 
-**$0**
-
-##### LNGC (MEGI) (cbm)
-
-##### 170'
-
-#### $250
-
-**$0**
 
 **05**
 
@@ -522,26 +379,16 @@ With September fixing slowly coming to an end, still 4 vessels open 2H Sep, we c
 # Market Brief
 
 ### Exchange Rates
+USD/JPY
+160.16 0.43
 
-##### USD/JPY
+USD/NOK
+9.33 -0.01
 
-#### 160.16
+USD/KRW
+1,235.5 -7.3
 
-##### 0.43
-
-##### USD/NOK
-
-#### 9.33
-
-##### -0.01
-
-##### USD/KRW
-
-#### 1,235.5
-
-##### -7.3
-
-##### EUR/USD
+EUR/USD
 
 |1.16|0|
 |---|---|
@@ -560,7 +407,6 @@ With September fixing slowly coming to an end, still 4 vessels open 2H Sep, we c
 **Week 36 - September 2, 2026**
 
 All rates published in this report do not necessarily reflect actual transactions occurring in the market. Certain estimates may be based on prevailing market conditions. In some circumstances, rates for certain vessel types are based on theoretical assumptions of premium or discount for particular vessel versus other vessel types.'
-
 Disclaimer
 
 **An Astrup Fearnley Company** © 2026 Fearnleys AS
