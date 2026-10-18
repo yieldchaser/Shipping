@@ -275,20 +275,10 @@ ISLAND VICTORY MEDITERRANEAN / BLACK SEA
 |                                                | Oct               | £75,462                          | £-       |
 |                                                | Nov               | £80,726                          | £-       |
 |                                                | Dec               | £98,383                          | £-       |
-
-### 2025: £10,644
-
-| **Average Spot Day Rates To Month (May 2026)** | PSVs < 900m² | 2026: £12,535 |
-|                                                |
-
- PSVs > 900m²      | 2025: £10,180<br/>2026: £13,270  |          |
-
-### 2025: £47,818
-
-| AHTS < 22,000 bhp | 2026: £93,187 |
-|                                                |
-
- AHTS > 22,000 bhp | 2025: £47,133<br/>2026: £113,930 |          |
+| **Average Spot Day Rates To Month (May 2026)** | PSVs < 900m² | 2025: £10,644 | 2026: £12,535 |
+|  | PSVs > 900m² | £10,180 | £13,270 |
+|  | AHTS < 22,000 bhp | £47,818 | £93,187 |
+|  | AHTS > 22,000 bhp | £47,133 | £113,930 |
 
 # 2026 FIFA WORLD CUP WALL CHART
 ## USA | CANADA | MEXICO

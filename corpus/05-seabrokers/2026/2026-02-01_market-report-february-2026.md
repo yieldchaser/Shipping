@@ -305,20 +305,10 @@ Skandi Kvitsøy (c/o H. Otneim)
 |                                                     | Oct               | £10,369                          | £-       |
 |                                                     | Nov               | £7,964                           | £-       |
 |                                                     | Dec               | £7,775                           | £-       |
-
-### 2025: £6,059
-
-| **Average Spot Day Rates To Month (February 2026)** | PSVs < 900m² | 2026: £7,728 |
-|                                                     |
-
- PSVs > 900m²      | 2025: £7,747<br/>2026: £8,401    |          |
-
-### 2025: £24,008
-
-| AHTS < 22,000 bhp | 2026: £86,699 |
-|                                                     |
-
- AHTS > 22,000 bhp | 2025: £27,418<br/>2026: £109,124 |          |
+| **Average Spot Day Rates To Month (February 2026)** | PSVs < 900m² | 2025: £6,059 | 2026: £7,728 |
+|  | PSVs > 900m² | £7,747 | £8,401 |
+|  | AHTS < 22,000 bhp | £24,008 | £86,699 |
+|  | AHTS > 22,000 bhp | £27,418 | £109,124 |
 
 # Feature vessel
 

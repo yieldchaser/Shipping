@@ -285,20 +285,10 @@ Caspian Voyager(Caspian Voyager (pictured c/o G. Curran))
 |                                                 | Oct               | £12,555                         | £-      |
 |                                                 | Nov               | £9,567                          | £-      |
 |                                                 | Dec               | £12,516                         | £-      |
-
-### 2018: £6,815
-
-| **Average Day Rates To Month (September 2019)** | PSVs < 900m² | 2019: £10,457 |
-|                                                 |
-
- PSVs > 900m²      | 2018: £7,597<br/>2019: £11,563  |         |
-
-### 2018: £12,946
-
-| AHTS < 22,000 bhp | 2019: £22,564 |
-|                                                 |
-
- AHTS > 22,000 bhp | 2018: £16,597<br/>2019: £24,230 |         |
+| **Average Day Rates To Month (September 2019)** | PSVs < 900m² | 2018: £6,815 | 2019: £10,457 |
+|  | PSVs > 900m² | £7,597 | £11,563 |
+|  | AHTS < 22,000 bhp | £12,946 | £22,564 |
+|  | AHTS > 22,000 bhp | £16,597 | £24,230 |
 
 # FEATURE VESSEL
 
