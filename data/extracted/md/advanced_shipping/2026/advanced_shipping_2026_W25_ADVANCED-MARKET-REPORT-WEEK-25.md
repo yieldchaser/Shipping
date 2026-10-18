@@ -114,7 +114,7 @@ Far East activity saw Japan trips to SE Asia at USD 16,000 pd, while NoPac busin
 | LR2 | Seriana | 109.991 | 2015 | Sumitomo, Japan | 09/2030 | MAN-B&W | $ 72m | Indian (GESCO) |  |
 | Aframax | Samos | 104.649 | 2010 | Sumitomo, Japan | 09/2030 | MAN-B&W | $ 44,5m | Undisclosed | Basis Oct'26 cancelling |
 | LR1 | Nave Ariadne | 74.875 | 2007 | Stx, Korea | 05/2027 | MAN-B&W | $ 22,5m | Undisclosed |  |
-| LR1 | Cape Tempest | 73.720 | 2008 | New Times, China | 06/2031 | MAN-B&W | $ 43 5m enbloc | Undisclosed |  |
+| LR1 | Cape Tempest | 73.720 | 2008 | New Times, China | 06/2031 | MAN-B&W | $ 43,5m enbloc | Undisclosed |  |
 | LR1 | Cape Taura | 73.634 | 2007 | New Times, China | 05/2031 | MAN-B&W | $ 43,5m enbloc | Undisclosed |  |
 | MR | Sandpiper Pacific | 51.833 | 2013 | Sungdong, Korea | 06/2028 | MAN-B&W | $ 32m | Undisclosed | DD 09/2026 |
 | MR | Hansa Oslo | 51.215 | 2007 | Stx, Korea | 11/2030 | MAN-B&W | $ 20m | Middle Eastern |  |

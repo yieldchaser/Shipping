@@ -343,13 +343,13 @@
       "YARD": "Guangzhou, China",
       "M_E": "MAN-B&W",
       "GEAR": "",
-      "PRICE": "$ 36 5m enbloc",
-      "PRICE_USD_MILL": 36.0,
+      "PRICE": "$ 36,5m enbloc",
+      "PRICE_USD_MILL": 36.5,
       "BUYERS": "Undisclosed",
       "SS": "05/2026",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf",
-      "extra_json": "{\"issue_date\": \"2025-08-01\", \"report_week\": \"31\", \"source_file\": \"advanced_shipping_2025_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf\", \"raw_price\": \"$ 36 5m enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2025-08-01\", \"report_week\": \"31\", \"source_file\": \"advanced_shipping_2025_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf\", \"raw_price\": \"$ 36,5m enbloc\"}"
     },
     {
       "issue": "2025-08-01",

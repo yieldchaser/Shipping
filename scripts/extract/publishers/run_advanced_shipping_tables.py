@@ -100,6 +100,19 @@ MONTH_MAP = {
 }
 
 
+def _unclip(page, clip, val: str) -> str:
+    """A merged en-bloc price cell straddles the row clip and loses its decimal comma ("$ 44 5m" for the
+    printed "$ 44,5m"): put back the printed word from the text layer."""
+    if not re.search(r"\d \d", val):
+        return val
+    for w in page.get_text("words"):
+        if pymupdf.Rect(w[:4]).intersects(clip) and re.search(r"\d[,.]\d", w[4]):
+            broken = re.sub(r"(\d)[,.](\d)", r"\1 \2", w[4])
+            if broken in val:
+                val = val.replace(broken, w[4])
+    return val
+
+
 def clean_text(s: str) -> str:
     """Normalize whitespace and fix unicode font mojibake."""
     if not s:
@@ -258,7 +271,7 @@ def extract_ruled_tables_from_page(page: pymupdf.Page, page_kind: str) -> List[D
             row_dict: Dict[str, str] = {}
             for col_name, cx0, cx1 in cols:
                 cell_clip = pymupdf.Rect(cx0 - 2, ry0 - 1, cx1 + 2, ry1 + 1)
-                val = clean_text(page.get_text("text", clip=cell_clip))
+                val = _unclip(page, cell_clip, clean_text(page.get_text("text", clip=cell_clip)))
                 if not val:
                     # Check for vertically merged cells across multiple rows
                     for mr in rects:

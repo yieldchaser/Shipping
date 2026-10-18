@@ -95,7 +95,7 @@ No fixture reported for this segment. No period activity to report here
 | Aframax | Advantage Award | 115.984 | 2011 | Samsung, Korea | 07/2026 | MAN-B&W | $ 36,5m | Turkish |  |
 | Aframax | Aqua Pearl | 105.712 | 2005 | Sumitomo, Japan | 01/2026 | Sulzer | High $ 24m | Undisclosed |  |
 | MR | Lakshmi | 50.192 | 2009 | Sls, Korea | 08/2029 | MAN-B&W | $ 17,5m | Indian |  |
-| MR | Hafnia Andromeda | 49.999 | 2011 | Guangzhou, China | 05/2026 | MAN-B&W | $ 36 5m enbloc | Undisclosed |  |
+| MR | Hafnia Andromeda | 49.999 | 2011 | Guangzhou, China | 05/2026 | MAN-B&W | $ 36,5m enbloc | Undisclosed |  |
 | MR | Hafnia Taurus | 49.999 | 2011 | Guangzhou, China | 06/2026 | MAN-B&W | $ 36,5m enbloc | Undisclosed |  |
 | MR | Seaways Titan | 49.999 | 2008 | Hyundai Mipo, Korea | 11/2028 | MAN-B&W | $ 16,5m | Undisclosed |  |
 | MR | Aliakmon | 46.792 | 2006 | Stx, Korea | 06/2029 | MAN-B&W | $ 14,3m | Chinese |  |

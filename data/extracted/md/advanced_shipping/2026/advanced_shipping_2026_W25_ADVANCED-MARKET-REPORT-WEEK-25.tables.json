@@ -607,13 +607,13 @@
       "YARD": "New Times, China",
       "M_E": "MAN-B&W",
       "GEAR": "",
-      "PRICE": "$ 43 5m enbloc",
-      "PRICE_USD_MILL": 43.0,
+      "PRICE": "$ 43,5m enbloc",
+      "PRICE_USD_MILL": 43.5,
       "BUYERS": "Undisclosed",
       "SS": "06/2031",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2026_W25_ADVANCED-MARKET-REPORT-WEEK-25.pdf",
-      "extra_json": "{\"issue_date\": \"2026-06-19\", \"report_week\": \"25\", \"source_file\": \"advanced_shipping_2026_W25_ADVANCED-MARKET-REPORT-WEEK-25.pdf\", \"raw_price\": \"$ 43 5m enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2026-06-19\", \"report_week\": \"25\", \"source_file\": \"advanced_shipping_2026_W25_ADVANCED-MARKET-REPORT-WEEK-25.pdf\", \"raw_price\": \"$ 43,5m enbloc\"}"
     },
     {
       "issue": "2026-06-19",

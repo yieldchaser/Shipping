@@ -93,7 +93,7 @@ A generally quiet week for this segment. A number of Continental trips via Balti
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR | Torm Republican | 46.920 | 2006 | Hyundai Mipo, Korea | 03/2026 | MAN-B&W | $ 18,8m | Undisclosed | BWTS fitted |
 | MR | Valle Di Granada | 40.218 | 2005 | Hyundai Mipo, Korea | 01/2025 | B&W | $ 13,4m | UAE | BWTS fitted |
-| Chemical/Oil Products | Monax | 20.762 | 2005 | Usuki, Japan | 07/2025 | MAN-B&W | $ 31 2m enbloc | Undisclosed | St St, BWTS fitted |
+| Chemical/Oil Products | Monax | 20.762 | 2005 | Usuki, Japan | 07/2025 | MAN-B&W | $ 31,2m enbloc | Undisclosed | St St, BWTS fitted |
 | Chemical/Oil Products | Marmotas | 19.953 | 2005 | Usuki, Japan | 02/2025 | MAN-B&W | $ 31,2m enbloc | Undisclosed | St St, BWTS fitted |
 | Chemical/Oil Products | Cumbrian Fisher | 12.921 | 2004 | Samho, Korea | 03/2025 | B&W | $ 7,15m | Undisclosed | BWTS fitted |
 

@@ -527,6 +527,8 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2025-10-31,44,Premium Bahari,GC,10300.0,2627.0,2000,275.0,Undisclosed,"""As Is"" Jakarta",5,advanced_shipping_2025_W44_ADVANCED-MARKET-REPORT-WEEK-44.pdf
 2025-11-07,45,Raissa,Tanker,47343.0,9711.0,1998,473.0,Bangladesh,,6,advanced_shipping_2025_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
 2025-11-07,45,Monica P,Bulker,46667.0,7800.0,1998,380.0,Bangladesh,"""As Is"" Belawan",6,advanced_shipping_2025_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
+2025-11-14,46,Zenith,Tanker,105161.0,17013.0,1998,359.0,India,,5,advanced_shipping_2025_W46_ADVANCED-MARKET-REPORT-WEEK-46-1.pdf
+2025-11-14,46,Raissa,Tanker,47343.0,9711.0,1998,473.0,Bangladesh,,5,advanced_shipping_2025_W46_ADVANCED-MARKET-REPORT-WEEK-46-1.pdf
 2025-11-21,47,Star Advance,Tanker,47363.0,9691.0,1998,440.0,Undisclosed,"""As Is"" Singapore, incl. 280T bunkers",6,advanced_shipping_2025_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
 2025-11-21,47,Tara,General Cargo,9038.0,3135.0,1994,370.0,India,,6,advanced_shipping_2025_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
 2025-11-28,48,Kohzan Maru,Tanker,45299.0,9963.0,2000,442.0,Bangladesh,,6,advanced_shipping_2025_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
@@ -537,7 +539,6 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2025-12-12,50,Morality,Tanker,49474.0,9824.0,2003,416.0,India,,5,advanced_shipping_2025_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2025-12-12,50,Sea Star,GC,6150.0,2041.0,1980,260.0,Turkish,,5,advanced_shipping_2025_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2025-12-19,51,Sage Sagittarius,Bulker,105708.0,19934.0,2001,426.0,Bangladesh,,5,advanced_shipping_2025_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
-2026-09-18,38,Uniorder,Bulker,47240.0,7060.0,1997,450.0,Undisclosed,"""As Is"" Indonesia",6,advanced_shipping_2026_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
 2026-01-09,2,Chang Ming Yang,Bulker,99761.0,19529.0,1993,380.0,Undisclosed,"""As Is"" China",6,advanced_shipping_2026_W02_ADVANCED-MARKET-REPORT-WEEK-2.pdf
 2026-01-09,2,Gold Origin,GC,8300.0,2485.0,2005,330.0,Bangladesh,"""As Is"" SE Asia",6,advanced_shipping_2026_W02_ADVANCED-MARKET-REPORT-WEEK-2.pdf
 2026-01-16,3,Sheng Lu,Bulker,28510.0,6300.0,1994,405.0,Undisclosed,,7,advanced_shipping_2026_W03_ADVANCED-MARKET-REPORT-WEEK-3.pdf
@@ -597,5 +598,5 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2026-09-11,37,Portland II,Bulker,42586.0,8182.0,1985,517.0,Pakistan,,6,advanced_shipping_2026_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2026-09-11,37,Hero SD,Bulker,23726.0,5010.0,1995,512.0,Pakistan,,6,advanced_shipping_2026_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2026-09-11,37,Larus,GC,4896.0,2632.0,1997,515.0,Pakistan,,6,advanced_shipping_2026_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
+2026-09-18,38,Uniorder,Bulker,47240.0,7060.0,1997,450.0,Undisclosed,"""As Is"" Indonesia",6,advanced_shipping_2026_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
 2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
-2026-10-16,42,LNG Kano,Gas,83961.0,38616.0,2007,530.0,India,,6,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf

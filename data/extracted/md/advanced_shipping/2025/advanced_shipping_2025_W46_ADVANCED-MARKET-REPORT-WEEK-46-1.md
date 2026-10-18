@@ -97,7 +97,7 @@ A number of Indonesian trips into China were reported fixed in the usd 8,000/11,
 | MR | STI Yorkville | 49.990 | 2014 | Hyundai Mipo, Korea | 10/2029 | MAN-B&W | $ 32m | Danish (TORM) | Scrubber fitted |
 | MR | Stena Imprimis | 49.718 | 2017 | Guangzhou, China | 10/2027 | MAN-B&W | rgn $ 70m | Undisclosed | Scrubber fitted |
 | MR | Stena Impero | 49.683 | 2018 | Guangzhou, China | 02/2028 | MAN-B&W | enbloc | Undisclosed | Scrubber fitted |
-| MR | Maersk Maru | 48.020 | 2011 | Iwagi, Japan | 09/2030 | MAN-B&W | $ 44 5m enbloc | Undisclosed |  |
+| MR | Maersk Maru | 48.020 | 2011 | Iwagi, Japan | 09/2030 | MAN-B&W | $ 44,5m enbloc | Undisclosed |  |
 | MR | Maersk Mississippi | 47.990 | 2010 | Iwagi, Japan | 02/2030 | MAN-B&W | $ 44,5m enbloc | Undisclosed |  |
 | MR | Bristol Trader | 35.863 | 2016 | Shin Kurushima, Japan | 07/2026 | MAN-B&W | $ 39m | Undisclosed | St St |
 | Chemical/Oil Products | Golden Ray | 19.802 | 2012 | Kitanihon, Japan | 09/2027 | Mitsubishi | $ 23m | Vietnamese | St St, DD 11/2025 |
