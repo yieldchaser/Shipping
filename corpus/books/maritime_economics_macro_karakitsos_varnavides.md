@@ -56,9 +56,9 @@ summary: 'ECONOMICS
 
   LIST OF ABBREVIATIONS
 
-  Lower-case lett ers indicate natural logs. A = average age of fl eet
+  Lower-case lett ers indicate natural logs. A = average age of fleet
 
-  CU = fl eet capacity utilisation or demand-supply balance in the freight market
+  CU = fleet capacity utilisation or demand-supply balance in the freight market
 
   DL = deliveries of new vessels by shipyards, measured in tonnage
 
@@ -72,26 +72,26 @@ summary: 'ECONOMICS
 
   FR = (spot) freight rate, expressed in US dollars per day
 
-  Hτ = a time charter contract of duration, τ, paying a fi xed rate per period, expressed
+  Hτ = a time charter contract of duration, τ, paying a fixed rate per period, expressed
 
   in $/day
 
   I = gross investment expenditure by owners for newbuilding vessels
 
-  K = net fl eet, that is, operational fl eet plus deliveries less scrapping less
+  K = net fleet, that is, operational fleet plus deliveries less scrapping less
   lay-ups and
 
   losses, expressed in dwt
 
-  KG = gross fl eet, measured in tonnage
+  KG = gross fleet, measured in tonnage
 
-  KTR = traded fl eet in the secondhand market, measured in tonnage
+  KTR = traded fleet in the secondhand market, measured in tonnage
 
   NB = newbuilding
 
   OC = operating cost
 
-  p = infl ation rate
+  p = inflation rate
 
   P = Price of newbuilding vessels
 
@@ -211,7 +211,7 @@ UCS = user cost of capital in the secondhand market
 W = wages of ship crew
 x = output gap in the economy
 y = rate of growth of real GDP
-z = a vector of variables aff ecting supply, such as bunker costs and port congestion
+z = a vector of variables affecting supply, such as bunker costs and port congestion
 p = profit per ship per time period
 
 INTRODUCTION
@@ -862,7 +862,7 @@ capacity) until normal profits are restored. Normal profit is the minimum profit
 that the owner must earn to remain in business. Normal profits include payment
 for risk bearing, for providing organisation and for managerial services.
 
-> **Figure 2.3**: portrays the mechanics of the entire market and a typical owner. The
+Figure 2.3 portrays the mechanics of the entire market and a typical owner. The
 
 left-hand panel plots the market demand and supply functions in the short run. The
 right-hand panel portrays the supply side of an individual owner in the short run. In
@@ -1113,7 +1113,7 @@ power of the owner, the steeper the iso-utility curves become with respect to th
 Xaxis for a given value of X .14
 2 1
 
-> **Figure 2.7**: plots two iso-utility curves for the same level of utility U0 but for
+Figure 2.7 plots two iso-utility curves for the same level of utility U0 but for
 
 different levels of bargaining power for the owner. The one labelled W represents weak bargaining power for the owner and consequently strong power for
 the charterer. The other, labelled S, represents strong bargaining power for the
@@ -1122,7 +1122,7 @@ iso-utility curves are drawn for the same level of utility, for each value of b 
 utility function (2.3) defines a different utility map. The steeper curve represents
 stronger bargaining power for the owner, as for each level of X the payoff of the owner is larger than for weak bargaining power.15
 
-> **Figure 2.8**: illustrates the solution of the bargaining game for three different
+Figure 2.8 illustrates the solution of the bargaining game for three different
 
 levels of bargaining power of the owner. The contract or bargaining curve is the
 straight line CD representing a larger payoff (cardinal or ordinal) for the charterer than the owner. Point G represents the solution of the bargaining game when
@@ -1885,7 +1885,7 @@ r
 For each level of total cost, such as TC1, equation (3.5) or (3.6) defines combinations of fleet and average speed along which the total cost is unchanged. For this
 reason, equation (3.5) or (3.6) is called the ‘isocost' curve, namely equal cost.
 
-> **Figure 3.2**: plots one isocost curve for total cost, TC1. For a higher total cost, TC2,
+Figure 3.2 plots one isocost curve for total cost, TC1. For a higher total cost, TC2,
 
 K
 Q1
@@ -2149,7 +2149,7 @@ increase the supply because the prices along EE are higher than equilibrium. The
 stability of the system requires that vessel prices increase sharply in the short run
 so that they can decline along the stable dynamic adjustment path EE. In terms of
 
-> **Figure 3.3**: the vessel price would jump from P to P* before the fleet had any time
+Figure 3.3 the vessel price would jump from P to P* before the fleet had any time
 to adjust, that is, when it is still at K . But from P* vessel prices would decline, gradually reaching the new long-run equilibrium at point C. Therefore, the
 optimal adjustment path of NB vessel prices involves an overshooting of the new
 long-run equilibrium (P* > P ). The overshooting is the result of the perverse effect of vessel prices on the demand for vessels in the short run under rational
@@ -2629,7 +2629,7 @@ capacity in the shipyard industry the supply of vessels is constrained by the le
 of demand. Hence,
 S = SCU if D ≥ SCU or S = D if SCU ≥ D (3.18)
 
-> **Figure 3.5**: plots the orderbook of all shipyards for all type of vessels in the dry,
+Figure 3.5 plots the orderbook of all shipyards for all type of vessels in the dry,
 
 wet and specialised markets, along with a projection from the K-model. This is
 an appropriate measure upon which to build demand in the shipyard industry,
@@ -2641,55 +2641,19 @@ However, the orderbook is not an accurate measure of the cumulative demand
 for vessels because of order cancellations. Figure 3.6 plots the order cancellations for each month from 1996 onwards. It can be seen that there were no order
 % YoY World orderbook-All ship DWT
 Projection
-50% 700,000,000
-40%
-600,000,000
-30%
-20% 500,000,000
-10%
-400,000,000
-0%
-300,000,000
--10%
--20% 200,000,000
--30%
-100,000,000
--40%
--50% 0
-6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
-9 9 9 9 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
-n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n-
-a a a a a a a a a a a a a a a a a a a a
-J J J J J J J J J J J J J J J J J J J J
-
 > **Figure 3.5**: World orderbook
 
 Source: K-model.
 
 Cancellations DWT 6M MA
 Order Cancellations
-4,500,000
-4,000,000
-3,500,000
-3,000,000
-2,500,000
-2,000,000
-1,500,000
-1,000,000
-500,000
-6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
-9 9 9 9 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
-n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n-
-a a a a a a a a a a a a a a a a a a a a
-J J J J J J J J J J J J J J J J J J J J
-
 > **Figure 3.6**: Order cancellations
 
 Source: K-model.
 cancellations until 2006, but they soared afterwards as many smart owners felt
 that the boom of 2005-08 was ephemeral.
 
-> **Figure 3.7**: shows the evolution of the demand for and the supply of vessels
+Figure 3.7 shows the evolution of the demand for and the supply of vessels
 
 since 1996. With the exception of 12 months (from mid-2003 to mid-2004) there
 was spare capacity in the shipyard industry until early 2006. There was an excess
@@ -2702,7 +2666,7 @@ looking, whereas the entire shipyard industry is backward looking. This led ship
 boom was only transient. Demand declined, while supply soared. Hence, the twoand-a-half year boom in the shipping industry triggered an excess demand for
 shipyard capacity for a while, but overcapacity in the last four years.
 
-> **Figure 3.8**: shows the demand-supply balance in the shipyard industry, namely
+Figure 3.8 shows the demand-supply balance in the shipyard industry, namely
 
 the deviation of the demand for vessels from the shipyard supply in Figure 3.7.
 Shipyard capacity was sufficient to meet the demand for vessels until the spring
@@ -3002,7 +2966,7 @@ function of their relative prices.
 Ksh ⎛PS⎞
 = f⎜ ⎟ f < 0 (3.31)
 Kn ⎝ P ⎠ 1
-As the price of secondhand ships rises relative to newbuilding ones, the proportion of secondhand ships to new ones declines. Th is simple relationship compares the expected profitability of each ship category. Th is can easily be verifi ed
+As the price of secondhand ships rises relative to newbuilding ones, the proportion of secondhand ships to new ones declines. Th is simple relationship compares the expected profitability of each ship category. Th is can easily be verified
 by comparing the determinants of each price.
 PS t = E t ∑
 s
@@ -3340,7 +3304,7 @@ MCR = − G > 0 (A.23)
 K
 As it is clear from (A.21) expectations are important for investment decisions. Th e computation of the expected stream of future marginal revenues
 of the fleet requires assumptions about technology and about the demand
-curves facing the fi rm in the freight market as well as input markets. In general, it will involve expectations of the time path of the demand for shipping
+curves facing the firm in the freight market as well as input markets. In general, it will involve expectations of the time path of the demand for shipping
 services (output), the freight rate, NB vessel prices, the interest rate and the
 depreciation rate.
 To illustrate some of the points related to expectations denote the marginal
@@ -3350,7 +3314,7 @@ autoregression,
 l = m l + e (A.24)
 t t - 1 t
 where m is an expectations parameter and e is an expectations error. Under
-rational expectations, e is orthogonal to all variables known to the fi rm in period t.
+rational expectations, e is orthogonal to all variables known to the firm in period t.
 t
 Hence, the expectation of l is
 E (l ) = ms+1 l (A.25)
@@ -3388,16 +3352,16 @@ economic fundamentals, such as GDP, consumption, exports, industrial production,
 Let Y denote the vector of all these economic fundamentals, then the shipping
 variables included in the vector-Z are explained by the model:
 Z t = Z(Y t ,Y t−i )+e t for all i (A.29)
-In equation (A.29) e stands for all other non-systematic variables that aff ect the
+In equation (A.29) e stands for all other non-systematic variables that affect the
 vector-Z, which are not included in the vector-Y. Th e values of e are randomly
 drawn from a normal distribution with zero mean and constant variance. Th e
-vector-Y is explained by a macro model, such as the macro K-model, where fi scal
+vector-Y is explained by a macro model, such as the macro K-model, where fiscal
 and monetary policy, denoted by U, plays an important role. Th us, the macro
 model can be writt en as
 Y t = Y(U t ,U t−i )+e t for all i (A.30)
 In equation (A.30) e stands for all other non-systematic variables, not included
 t
-in vector-U that aff ect the vector-Y, again drawn randomly from a normal distribution with zero mean and constant variance.
+in vector-U that affect the vector-Y, again drawn randomly from a normal distribution with zero mean and constant variance.
 According to this framework, the owner forms expectations of the vector-Z by
 substituting equations (A.29) and (A.30) into (A.28) and setting the expected
 value of all error terms equal to zero:
@@ -6202,7 +6166,7 @@ t −2 t − 12 t
 where y = US GDP year-on-year (yoy) growth rate and u = residuals from this
 equation.4
 
-> **Figure 5.4**: illustrates the fit of this equation, the residuals or errors along
+Figure 5.4 illustrates the fit of this equation, the residuals or errors along
 
 with its post-sample forecasting performance for 1997. The equation provides a
 close fit; it explains 90 per cent of the total variation of the year-on-year growth
@@ -6963,7 +6927,7 @@ short-run Phillips curve by adopting and announcing an explicit inflation target
 pT. In the long run, the economy would achieve this inflation target as the central
 bank influences expected inflation. Thus, if the inflation target is p in terms of
 
-> **Figure 5.6**: then the central bank can choose the short-run Phillips curve along
+Figure 5.6 then the central bank can choose the short-run Phillips curve along
 
 which expected inflation is equal to the target. In terms of Figure 5.6, this
 short-run Phillips curve is labelled PC(pT = p ) and passes through the vertical long-run Phillips curve at point A.
@@ -6999,33 +6963,10 @@ oscillatory and takes a few years, although the shock was only transient lasting
 for one year only.
 
 Output Gap Y(g)
-8%
-6%
-4%
-2%
-0%
--2%
--4%
--6%
-Dec-07 Jun-08 Dec-08 Jun-09 Dec-09 Jun-10 Dec-10 Jun-11 Dec-11 Jun-12 Dec-12 Jun-13 Dec-13
-
 > **Figure 5.7**: Output gap response to a negative demand shock under optimal policy
 
 Interest rate R Inflation P
-5.0%
-4.5%
-4.0%
-3.5%
-3.0%
-2.5%
-2.0%
-1.5%
-1.0%
-0.5%
-0.0%
-Dec-07 Jun-08 Dec-08 Jun-09 Dec-09 Jun-10 Dec-10 Jun-11 Dec-11 Jun-12 Dec-12 Jun-13 Dec-13
-
-> **Figure 5.8**: inflation and interest rate response to a negative demand shock under optimal monetary policy
+Figure 5.8 inflation and interest rate response to a negative demand shock under optimal monetary policy
 
 ### 6 A Reformulation of the Ncm Model
 
@@ -7248,8 +7189,8 @@ that the budget remains balanced, we get the total impact on GDP:
 dY = ⋅dG + Y ⋅ (dG − t ⋅dY)= dG (5.50)
 1 − C ⋅(1 − t ) 1 − C ⋅(1 − t ) Y
 Y Y Y Y
-Th us, the balanced budget multiplier is one, which implies that fi scal policy can
-still stimulate the economy without causing a budget defi cit.
+Th us, the balanced budget multiplier is one, which implies that fiscal policy can
+still stimulate the economy without causing a budget deficit.
 But there are further leakages to the multiplier process when money is introduced into the economy. This is because the demand for money increases with
 higher income, as households need to finance the extra consumer purchases in
 every round of the multiplier process (purchases must be backed by money). With
@@ -7748,17 +7689,16 @@ economy using the supply determinants of equation (5.54). These are CBO estimate
 is derived by summing up the potential output of five sectors: non-farm business,
 Table 5.1 Accounting for growth in US potential output
 Average annual percent change
-Item 1960 III to 1973 IV 1973 IV to 1990 III 1990 III to 2003
-Working age population 1.8 1.5 1.0
-(16 and over)
-Labour force participation 0.2 0.5 0.1
-Rate
-Average weekly hours - 0.4 - 0.3 0
-Productivity 2.8 1.1 1.2
-(Output per hour)
-Share of non-farm business output in GDP - 0.2 - 0.1 0
-Potential 4.2 2.7 2.3
-output growth
+
+| Item | 1960 III to 1973 IV | 1973 IV to 1990 III | 1990 III to 2003 |
+| --- | --- | --- | --- |
+| Working age population (16 and over) | 1.8 | 1.5 | 1.0 |
+| Labour force participation Rate | 0.2 | 0.5 | 0.1 |
+| Average weekly hours | -0.4 | -0.3 | 0 |
+| Productivity (Output per hour) | 2.8 | 1.1 | 1.2 |
+| Share of non-farm business output in GDP | -0.2 | -0.1 | 0 |
+| Potential output growth | 4.2 | 2.7 | 2.3 |
+
 Source: Adapted from the ‘Economic Report of the President' (1997).
 government, households and non-profit institutions, residential housing and farm.
 The non-farm business sector accounts for more than three-quarters of GDP, the
@@ -7789,19 +7729,15 @@ there was no structural change in the US economy with the implication that there
 was a need for tight monetary policy to contain inflationary pressures. Greenspan,
 
 Table 5.2 Accounting for growth in US potential output - CBO method
-Contributions to 1951 1974 1982 1991 1996 2000 Average
-growth of potential to to to to to to 1951-2000
-output (Percentage 1973 1981 1990 1995 2000 2011
-points)
-Potential hours worked 0.9 1.5 1.1 1.1 1.0 0.8 1.1
-Capital input 1.1 1.3 1.1 0.8 1.5 1.5 1.1
-Potential TFP 2.0 0.8 1.0 1.1 1.5 1.4 1.5
-Potential Output
-(Non-farm business 4.0 3.6 3.2 2.9 4.0 3.7 3.7
-sector)
-Potential Output
-3.9 3.2 3.0 2.6 3.5 3.3 3.5
-(Overall economy)
+
+| Contributions to growth of potential output (Percentage points) | 1951 to 1973 | 1974 to 1981 | 1982 to 1990 | 1991 to 1995 | 1996 to 2000 | 2000 to 2011 | Average 1951–2000 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Potential hours worked | 0.9 | 1.5 | 1.1 | 1.1 | 1.0 | 0.8 | 1.1 |
+| Capital input | 1.1 | 1.3 | 1.1 | 0.8 | 1.5 | 1.5 | 1.1 |
+| Potential TFP | 2.0 | 0.8 | 1.0 | 1.1 | 1.5 | 1.4 | 1.5 |
+| Potential Output (Non-farm business sector) | 4.0 | 3.6 | 3.2 | 2.9 | 4.0 | 3.7 | 3.7 |
+| Potential Output (Overall economy) | 3.9 | 3.2 | 3.0 | 2.6 | 3.5 | 3.3 | 3.5 |
+
 Source: Adapted from Table 2 of ‘CBO's Method for Estimating Potential Output' (2001).
 the then Fed chairman, sided with the structural change camp and did not tighten
 monetary policy; and yet higher inflation never materialised. The US economy
@@ -8509,7 +8445,7 @@ freight rates move symmetrically but in opposite cycles (one rises and the other
 falls). Each cycle lasts for six years, but the system never converges to equilibrium. It exhibits oscillations of constant amplitude of six-year cycles around the
 equilibrium.
 
-> **Figure 6.2**: plots the dynamic adjustment of fleet and freight rates when
+Figure 6.2 plots the dynamic adjustment of fleet and freight rates when
 
 - lr = 0.7. Recall from Table 6.1 that the system converges to equilibrium in an
 oscillatory way with damped cycles. The first cycle lasts for seven years and the
@@ -8523,12 +8459,15 @@ The Tinbergen-Koopmans model may be rudimentary, but it captures a very
 important aspect of shipping cycles, namely the shipyard delivery lag. The model
 links the shipyard and freight markets in explaining shipping cycles by invoking
 Table 6.1 Dynamic fleet adjustment
-- lr < 0.25 Real roots. Monotonic convergence to equilibrium.
-- lr = 0.25 Two equal roots. Fast monotonic convergence to equilibrium.
-- lr > 0.25 Complex roots. Oscillatory (cyclical) adjustment.
-- lr < 1 Damped oscillations. Stable system.
-- lr = 1 Regular oscillations around equilibrium.
-- lr > 1 Explosive oscillations. Unstable system.
+
+| \(-\lambda\rho < 0.25\) | Real roots. Monotonic convergence to equilibrium. |
+| --- | --- |
+| \(-\lambda\rho = 0.25\) | Two equal roots. Fast monotonic convergence to equilibrium. |
+| \(-\lambda\rho > 0.25\) | Complex roots. Oscillatory (cyclical) adjustment. |
+| \(-\lambda\rho < 1\) | Damped oscillations. Stable system. |
+| \(-\lambda\rho = 1\) | Regular oscillations around equilibrium. |
+| \(-\lambda\rho > 1\) | Explosive oscillations. Unstable system. |
+
 Fleet Freight rates
 700 2550
 0 2250
@@ -9131,7 +9070,7 @@ any perturbation from equilibrium that implies lower SH prices than consistent
 with equilibrium imply even lower prices; owners are selling ships when prices
 are falling.
 
-> **Figure 6.7**: combines the dynamic adjustment of the fleet capacity utilisation
+Figure 6.7 combines the dynamic adjustment of the fleet capacity utilisation
 
 and SH prices in all quadrants formed by the two lines. The system is unstable in
 points like B and D, which lie in quadrants II and IV, but it is stable in points such
@@ -9747,7 +9686,7 @@ the elasticity of freight rates to the fleet capacity utilisation rate, the coef
 two different values, representing a small response (b = 15) and a large response
 (b = 40). The results are studied with the help of Figures 6.13 and 6.14.
 
-> **Figure 6.13**: plots the dynamic adjustment path of freight rates with a small
+Figure 6.13 plots the dynamic adjustment path of freight rates with a small
 
 response to fleet capacity utilisation. The freight rate falls on impact, but the drop
 is very small compared to the normal case. In this case the drop is just -12 per cent,
@@ -9755,7 +9694,7 @@ whereas in the normal case it is -56 per cent. The adjustment back to the long-r
 equilibrium takes an equally long time as in the normal case and it is oscillatory
 rather than monotonic (compare Figures 6.11 and 6.13).
 
-> **Figure 6.14**: plots the dynamic adjustment path of freight rates with a large
+Figure 6.14 plots the dynamic adjustment path of freight rates with a large
 
 response to fleet capacity utilisation. The freight rate does not fall even on impact.
 Due to rational expectations and the large response to future rates of fleet capacity
@@ -9874,19 +9813,22 @@ and demand. In 2004 it was calculated that a shortage of just 20 capesize vessel
 caused freight rates to rise from US$20,000 per day to more than US$50,000 per
 day. By the end of 2013 the rollercoaster ride was still continuing with freight rates
 Table 7.1 Yearly TC averages
-BCI TC BPI TC BSI TC BHSI TC
-2003 $40,330.48 $20,063.52 N/A $14,810.23
-2004 $69,057.88 $35,736.19 N/A $28,191.21
-2005 $50,128.26 $24,700.71 N/A $21,419.48
-2006 $45,139.32 $23,778.47 $22,619.45 $19,425.15
-2007 $116,049.44 $56,814.63 $47,449.01 $32,447.03
-2008 $106,024.83 $49,014.23 $41,545.65 $29,281.62
-2009 $42,656.26 $19,295.08 $17,338.03 $11,342.15
-2010 $33,298.34 $25,041.29 $22,455.61 $16,427.39
-2011 $15,639.46 $14,000.29 $14,400.50 $10,551.61
-2012 $7,678.71 $7,684.16 $9,452.52 $7,626.15
-2013 $14,580.46 $9,471.61 $10,275.11 $8,179.24
-24/12/13 $38,998.75 $14,555.75 $15,195.13 $11,499.75
+
+|  | BCITC | BPITC | BSITC | BHSITC |
+| --- | --- | --- | --- | --- |
+| 2003 | $40,330.48 | $20,063.52 | N/A | $14,810.23 |
+| 2004 | $69,057.88 | $35,736.19 | N/A | $28,191.21 |
+| 2005 | $50,128.26 | $24,700.71 | N/A | $21,419.48 |
+| 2006 | $45,139.32 | $23,778.47 | $22,619.45 | $19,425.15 |
+| 2007 | $116,049.44 | $56,814.63 | $47,449.01 | $32,447.03 |
+| 2008 | $106,024.83 | $49,014.23 | $41,545.65 | $29,281.62 |
+| 2009 | $42,656.26 | $19,295.08 | $17,338.03 | $11,342.15 |
+| 2010 | $33,298.34 | $25,041.29 | $22,455.61 | $16,427.39 |
+| 2011 | $15,639.46 | $14,000.29 | $14,400.50 | $10,551.61 |
+| 2012 | $7,678.71 | $7,684.16 | $9,452.52 | $7,626.15 |
+| 2013 | $14,580.46 | $9,471.61 | $10,275.11 | $8,179.24 |
+| 24/12/13 | $38,998.75 | $14,555.75 | $15,195.13 | $11,499.75 |
+
 Source: Baltic Exchange.
 
 recovering owing to an anticipated reduction in new supply from 2014 and
@@ -9929,24 +9871,63 @@ The mean of the data is the simple average of each dataset. The median is the
 middle point of the data - half of the observations are smaller than the median
 and half are larger.
 
+Table 7.2 The capital structure of shipping – Marsoft data
+
+| Marsoft data | 1993–2013 Mean | 1993–2013 Median | 1990–2013 (ex. 03/08) Mean | 1990–2013 (ex. 03/08) Median |
+| :--- | ---: | ---: | ---: | ---: |
+| **Dry Bulk** |  |  |  |  |
+| *One-Year TC rate (USD/day):* |  |  |  |  |
+| Cape Size, 170,000 dwt | 33,000 | 20,000 | 19,000 | 18,000 |
+| Panamax Size, 74,000 dwt | 19,000 | 13,000 | 12,000 | 11,000 |
+| Handymax Size, 51,000 dwt | 17,000 | 12,000 | 11,000 | 11,000 |
+| Handy Size, 27,000 dwt | 12,000 | 8,000 | 8,000 | 7,000 |
+| *Second-hand 10 year (USD mm):* |  |  |  |  |
+| Cape Size, 170,000 dwt | 34 | 23 | 24 | 21 |
+| Panamax Size, 74,000 dwt | 22 | 16 | 16 | 15 |
+| Handymax Size, 51,000 dwt | 20 | 16 | 15 | 14 |
+| Handy Size, 27,000 dwt | 14 | 12 | 11 | 10 |
+| **Tanker** |  |  |  |  |
+| *One-year TC Rate (USD/day):* |  |  |  |  |
+| VLCC | 36,000 | 31,000 | 29,000 | 27,000 |
+| Suezmax | 27,000 | 23,000 | 22,000 | 21,000 |
+| Aframax | 21,000 | 19,000 | 18,000 | 17,000 |
+| LR1 | 19,000 | 17,000 | 16,000 | 17,000 |
+| MR2 | 17,000 | 15,000 | 14,000 | 14,000 |
+| *Secondhand 10 year (USD mm):* |  |  |  |  |
+| VLCC | 55 | 42 | 41 | 38 |
+| Suezmax | 41 | 35 | 32 | 30 |
+| Aframax | 32 | 28 | 25 | 26 |
+| LR1 | 27 | 24 | 23 | 22 |
+| MR2 | 23 | 20 | 19 | 19 |
+| **Container** |  |  |  |  |
+| *One-year TC rate (USD/day):* |  |  |  |  |
+| 650 TEU, Geared | 7,000 | 6,000 | 7,000 | 6,000 |
+| 1000 TEU, Geared | 9,000 | 9,000 | 8,000 | 9,000 |
+| 1700 TEU, Geared | 14,000 | 14,000 | 13,000 | 13,000 |
+| 2000 TEU, Gearless | 15,000 | 15,000 | 14,000 | 14,000 |
+
+
 ### 2 The Capital Market Structure for Shipping
 
 Since the arrival of the Eurodollar markets around 1966, the market for financing
 vessels has been dominated by commercial bank lending. Around 80 per cent
 
 Table 7.2 Continued
-Container 1993-2013 1990-2013
-(ex. 03/08)
-One-year TC rate (USD/day): Mean Median Mean Median
-2500 TEU, Geared 18,000 19,000 17,000 18,000
-4300 TEU, Gearless 25,000 26,000 23,000 26,000
-Secondhand 10-year (USD mm):
-650 TEU, Geared 9 9 9 8
-1000 TEU, Geared 12 12 11 11
-1700 TEU, Geared 18 17 16 16
-2000 TEU, Gearless 20 18 18 18
-2500 TEU, Geared 26 25 23 24
-4300 TEU, Gearless 36 35 33 34
+
+| Marsoft data | 1993–2013 Mean | 1993–2013 Median | 1990–2013 (ex. 03/08) Mean | 1990–2013 (ex. 03/08) Median |
+| :--- | ---: | ---: | ---: | ---: |
+| **Container** |  |  |  |  |
+| *One-year TC rate (USD/day):* |  |  |  |  |
+| 2500 TEU, Geared | 18,000 | 19,000 | 17,000 | 18,000 |
+| 4300 TEU, Gearless | 25,000 | 26,000 | 23,000 | 26,000 |
+| *Secondhand 10-year (USD mm):* |  |  |  |  |
+| 650 TEU, Geared | 9 | 9 | 9 | 8 |
+| 1000 TEU, Geared | 12 | 12 | 11 | 11 |
+| 1700 TEU, Geared | 18 | 17 | 16 | 16 |
+| 2000 TEU, Gearless | 20 | 18 | 18 | 18 |
+| 2500 TEU, Geared | 26 | 25 | 23 | 24 |
+| 4300 TEU, Gearless | 36 | 35 | 33 | 34 |
+
 Source: Marsoft Inc.
 of the current debts of owners - or around $300 billion - has been provided
 by commercial banks. At their peak two German banks, namely HSH and
@@ -10580,7 +10561,7 @@ liquidity and more is created. When risk appetite gives way to risk aversion les
 use of the existing liquidity is made and deleveraging (i.e. shrinking of balance
 sheets) occurs.
 
-> **Figure 8.3**: shows the degree of asset leverage of US investment banks, defined
+Figure 8.3 shows the degree of asset leverage of US investment banks, defined
 
 as the ratio of bank assets over capital. The fluctuations in asset leverage are
 triggered by corresponding changes in the degree of risk aversion. When risk
@@ -10841,7 +10822,7 @@ that in commodity markets backwardation is not an abnormal market situation
 because producers of commodities are more prone than consumers to hedge their
 price risk.5
 
-> **Figure 8.4**: confirms the coexistence of contango and backwardation in the oil
+Figure 8.4 confirms the coexistence of contango and backwardation in the oil
 
 market and the trading opportunities that arise from these patterns. The graph
 plots yearly changes (not percentages) in the dollar price of oil (LHS) along with
@@ -10886,23 +10867,6 @@ barrel per year, or $0.01 per gallon per month.
 Deviation from Equilibrium % Mean+SD Mean-SD
 Actual Total Demand M DWT LN LEVEL Equil Total Demand M DWT LRE
 Projection
-30% 5.9
-25% 5.8
-5.7
-20%
-5.6
-15%
-5.5
-10%
-5.4
-5%
-5.3
-0%
-5.2
--5% 5.1
--10% 5.0
-Jan-90 Jan-92 Jan-94 Jan-96 Jan-98 Jan-00 Jan-02 Jan-04 Jan-06 Jan-08 Jan-10 Jan-12
-
 > **Figure 8.5**: Demand - long-run equilibrium
 
 Oil-storage trading is profitable if the future price exceeds the spot price by the
@@ -10958,42 +10922,28 @@ less than one-third of the increase in demand for seaborne oil trade. Two-thirds
 of the change in the demand for seaborne oil trade is accounted for by excessive
 Total Demand Million DWT LN LEVEL LD
 World Oil Consumption, Total Demand mb/d LN Level LC
-5.9 4.6
-4.5
-5.8
-4.5
-5.7 4.4
-4.4
-5.6
-4.3
-5.5 4.3
-4.2
-5.4
-4.2
-5.3 4.1
-Jan-88 Jan-90 Jan-92 Jan-94 Jan-96 Jan-98 Jan-00 Jan-02 Jan-04 Jan-06 Jan-08 Jan-10
-
 > **Figure 8.6**: Demand for seaborne trade and demand for oil
 Table 8.1 The oil tanker market in the last eight years
-Percent Average rate Standard Max over Min over
-change of growth deviation the period the period
-between over the
-2003 and period
-Demand for Seaborne trade 30% 4.3% 2.3% 8.1% 0.9%
-Fleet expansion M dwt 40% 4.9% 1.2% 7.0% 3.3%
-Average Earnings $pd -75% 30,423 12,103 44,591 13,907
-Secondhand prices $ per dwt 8% 583 157 794 405
-Newbuilding prices $ per dwt 28% 564 108 739 379
+
+|  | Percent change between 2003 and 2011 | Average rate of growth over the period | Standard deviation | Max over the period | Min over the period |
+| --- | --- | --- | --- | --- | --- |
+| Demand for Seaborne trade | 30% | 4.3% | 2.3% | 8.1% | 0.9% |
+| Fleet expansion M dwt | 40% | 4.9% | 1.2% | 7.0% | 3.3% |
+| Average Earnings $pd | -75% | 30,423 | 12,103 | 44,591 | 13,907 |
+| Secondhand prices $ per dwt | 8% | 583 | 157 | 794 | 405 |
+| Newbuilding prices $ per dwt | 28% | 564 | 108 | 739 | 379 |
+
 Table 8.2 Decomposition of change in demand for seaborne trade between 2003 and 2011
-Percent change Contribution Percent
-between 2003 to Demand Contribution to
-and 2011 growth Demand growth
-World oil consumption 11% 8.6% 28%
-US dollar -23% 8.1% 27%
-Oil price 112% 8.2% 27%
-Oil storage trade 3.6% 4.3% 14%
-Other factors 1.1% 4%
-Total demand change 30.3% 100%
+
+|  | Percent change between 2003 and 2011 | Contribution to Demand growth | Percent Contribution to Demand growth |
+| --- | --- | --- | --- |
+| World oil consumption | 11% | 8.6% | 28% |
+| US dollar | -23% | 8.1% | 27% |
+| Oil price | 112% | 8.2% | 27% |
+| Oil storage trade | 3.6% | 4.3% | 14% |
+| Other factors |  | 1.1% | 4% |
+| Total demand change |  | 30.3% | 100% |
+
 liquidity. Of the three factors that account for the impact of liquidity, the dollar
 accounts for 27 per cent, the price of oil for another 27 per cent and the oil storage trade for 14 per cent (see Table 8.2). The implication of this new framework
 is that the oil tanker market has changed from a fundamental transport industry
@@ -11321,33 +11271,12 @@ An owner in late 2012 observed: if shipping is leading business cycles
 in the same manner as stock prices do and sometimes even faster, what
 should be my guidance to shipping developments?
 The answer is economic policy. Forming expectations of the likely
-conduct of monetary and fi scal policy would enable the owner to predict,
+conduct of monetary and fiscal policy would enable the owner to predict,
 to a reasonable degree, the business cycle and then through a structural
 model of shipping, like the K-model, the impact on the demand-supply
 balance in the dry market and the other key variables, freight rates and
 vessel prices.
 Baltic Dry Index % YoY S&P 500 % YoY
-200% 60%
-150%
-40%
-100%
-50% 20%
-0%
-0%
--50%
--20%
--100%
--150% -40%
--200%
--60%
--250% Correlation: 50%
--300% -80%
-5 7 9 1 3 5 7 9 1 3 5 7 9
-8 8 8 9 9 9 9 9 0 0 0 0 0
-n- n- n- n- n- n- n- n- n- n- n- n- n-
-a a a a a a a a a a a a a
-J J J J J J J J J J J J J
-
 > **Figure 9.1**: BDI and S&P 500
 
 Figure 9.1 shows the increasing correlation of the BDI with the S&P 500 index
@@ -11507,19 +11436,6 @@ the former mean reverts on the latter. The mean-reverting property (which in
 layman's terms means that what goes up must come down) helps to distinguish
 between ‘signal' (that is, systematic factors, whose impact is long-lasting) and
 Real GDP YoY Real GDP QoQ Potential Growth YoY
-10%
-8%
-6%
-4%
-2%
-0%
--2%
--4%
--6%
--8%
--10%
-Mar-87 Mar-90 Mar-93 Mar-96 Mar-99 Mar-02 Mar-05 Mar-08 Mar-11
-
 > **Figure 9.3**: US real GDP in the last business cycle
 
 ‘noise' (that is, factors which are purely random and whose impact dissipates very
@@ -11539,7 +11455,7 @@ the entire cyclical nature of the economy. In what follows an alternative divisi
 of the cycle is employed, which is more informative than the traditional textbook treatment and has implications for the formation of forward expectations
 in shipping.
 
-> **Figure 9.4**: divides the business cycle into four or five phases according to the
+Figure 9.4 divides the business cycle into four or five phases according to the
 
 peak and the trough of the rate of growth of GDP and the peak and trough of
 inflation. Point A represents the trend rate of growth of GDP, which is otherwise
@@ -11709,7 +11625,7 @@ to growth than to inflation. However, the characterisation of a central bank as
 balanced, tough or dove (wet) is only pertinent at point A in terms of Figure 9.4,
 that is, when monetary policy is neutral, as every central bank would alter the relative inflation priority in the course of the business cycle. Thus, only at point A in
 
-> **Figure 9.4**: is one comparing like with like.
+Figure 9.4 is one comparing like with like.
 
 Nonetheless, in the course of the business cycle the speed at which and the
 degree to which a central bank moves still both depend on this characterisation.
@@ -11785,7 +11701,7 @@ in the shipping market and explain the shipping cycles.
 Table 9.2 provides a summary of the US business cycles in the post-Second World
 War era; Table 9.3 lists the length of each phase in these business cycles, while
 
-> **Figure 9.5**: is an empirical version of Figure 9.4; it identifies the various phases
+Figure 9.5 is an empirical version of Figure 9.4; it identifies the various phases
 
 of the business cycles since 1960. There is a difference, however, between the
 two aforementioned tables. Table 9.2 follows the official definition of measuring
@@ -11795,13 +11711,17 @@ GDP defines the trough of the recession, which is defined as the period between
 the peak and the bottom. The recovery is defined as the period of time between
 trough and the time it gets to return to the previous peak. The expansion phase
 Table 9.3 The US business cycles
-Cycle trough-to-trough Phase IV years Phase I years Phase II years Phase III years
-1961-70 <2 5½ 2 1
-1970-75 <2 <1 2 <1
-1975-82 <2 2½ 2 <3
-1982-91 4½ 1 3 <1
-1991-01 7 2 <1 1
-2001-09 3 3 1 1 is defined as the time the economy spends from the recovery point to the next
+
+| Cycle trough-to-trough | Phase IV years | Phase I years | Phase II years | Phase III years |
+| --- | --- | --- | --- | --- |
+| 1961–70 | <2 | 5½ | 2 | 1 |
+| 1970–75 | <2 | <1 | 2 | <1 |
+| 1975–82 | <2 | 2½ | 2 | <3 |
+| 1982–91 | 4½ | 1 | 3 | <1 |
+| 1991–01 | 7 | 2 | <1 | 1 |
+| 2001–09 | 3 | 3 | 1 | 1 |
+
+is defined as the time the economy spends from the recovery point to the next
 peak. Table 9.3, on the other hand, applies these concepts to the rate of growth
 (y-o-y) rather than the level of GDP. This approach is more informative as it
 takes into account that the economy exhibits an uneven pattern of growth due to
@@ -11858,16 +11778,6 @@ E' E
 0%
 -2% D
 -4% D
--6%
--8%
-D
--10%
-6 8 0 2 4 6 8 0 2 4 6 8 0
-8 8 9 9 9 9 9 0 0 0 0 0 1
-n- n- n- n- n- n- n- n- n- n- n- n- n-
-a a a a a a a a a a a a a
-J J J J J J J J J J J J J
-
 > **Figure 9.5**: US business cycles
 
 bubble in the recent one. The characteristic of asset-led cycles is that the expansion phase is very long and inflation is subdued, but the recession is long and deep.
@@ -12097,14 +12007,17 @@ on how expectations should be formed in shipping.
 The first cycle is from 1980 to 1984. Industrial production peaked at nearly
 9 per cent in early 1980 as the Bank of Japan hiked interest rates to 9 per cent
 Table 9.4 Japan business cycles
-Cycle Slowdown Recession Recovery
-Apr 80-Jul 84 Apr 80-Feb 81 Mar 81-Mar 83 Apr 83-Jul 84
-Jul 84-Jun 88 Jul 84-May 86 Jun 86-Jan 87 Feb 87-Jun 88
-Jun 88-Jun 97 Jun 88-Oct 91 Nov 91-Jul 94 Aug 94-Jun 97
-Jun 97-Sep 00 Jun 97-Jan 98 Feb 98-Jul 99 Aug 99-Sep 00
-Sep 00-Dec 06 Sep 00-May 01 Jun 01-Sep 02 Oct 02-Dec 06
-Dec 06-Jun 10 Dec 06-Aug 08 Sep 08-Jan 10 Feb 10-Jun 10
-Jun 10-Jun 12 Jun 10-Mar 11 Apr 11-Feb 12 Mar 12-Jun 12
+
+| Cycle | Slowdown | Recession | Recovery |
+| --- | --- | --- | --- |
+| Apr 80–Jul 84 | Apr 80–Feb 81 | Mar 81–Mar 83 | Apr 83–Jul 84 |
+| Jul 84–Jun 88 | Jul 84–May 86 | Jun 86–Jan 87 | Feb 87–Jun 88 |
+| Jun 88–Jun 97 | Jun 88–Oct 91 | Nov 91–Jul 94 | Aug 94–Jun 97 |
+| Jun 97–Sep 00 | Jun 97–Jan 98 | Feb 98–Jul 99 | Aug 99–Sep 00 |
+| Sep 00–Dec 06 | Sep 00–May 01 | Jun 01–Sep 02 | Oct 02–Dec 06 |
+| Dec 06–Jun 10 | Dec 06–Aug 08 | Sep 08–Jan 10 | Feb 10–Jun 10 |
+| Jun 10–Jun 12 | Jun 10–Mar 11 | Apr 11–Feb 12 | Mar 12–Jun 12 |
+
 to combat ramping inflation following the second oil shock in the late 1970s.
 Exports, the driving force of Japan, also fell precipitously in response to the
 world recession. As a result, the economy fell into the first leg of recession, in line
@@ -12151,35 +12064,37 @@ monetary policy from February 1994 till the end of the year as the US economy
 showed signs of overheating. This pre-emptive tightening cooled the US economy
 
 Table 9.5 Japan cycle phases
-Cycle turning Growth inflation Cycle Phase
-points
-Apr-80 B 9% 1 Overheating
-Sep-80 C 8.7% Slowdown
-Mar-83 D -1.9% Recession
-Sep-83 E 0.9% Recovery
-Jul-84 B 10.1% 2 Overheating
-Aug-85 C 3.0% Slowdown
-Aug-86 D -0.7% Recession
-Jan-87 E -1.0% Recovery
-Jun-88 B 11% 3 Overheating
-Jan-91 C 4.0% Slowdown
-Dec-92 D -6.9% Recession
-Oct-95 E -0.7% Recovery
-Jun-97 B 6.2% 4 Overheating
-Oct-97 C 2.6% Slowdown
-Oct-98 D -8.6% Recession
-Nov-99 E -1.1% Recovery
-Sep-00 B 6% 5 Overheating
-Jan-01 C -0.3% Slowdown
-Jan-02 D -11.7% Recession
-Feb-02 E -1.6% Recovery
-Dec-06 B 5.3% 6 Overheating
-Jul-08 C 2.3% Slowdown
-Jun-09 D -29.6% Recession
-Oct-09 E -2.5% Recovery
-Jun-10 B 24.2% 7 Overheating
-Mar-12 C 0.5% Slowdown
-Aug-11 D -5.7% Recession
+
+|  |  | Cycle turning points | Cycle turning points | Growth | Inflation | Cycle | Phase |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Apr-80 | B |  | 9% |  | 1 | Overheating |
+| Sep-80 |  |  | C |  | 8.7% |  | Slowdown |
+|  | Mar-83 | D |  | -1.9% |  |  | Recession |
+| Sep-83 |  |  | E |  | 0.9% |  | Recovery |
+|  | Jul-84 | B |  | 10.1% |  | 2 | Overheating |
+| Aug-85 |  |  | C |  | 3.0% |  | Slowdown |
+|  | Aug-86 | D |  | -0.7% |  |  | Recession |
+| Jan-87 |  |  | E |  | -1.0% |  | Recovery |
+|  | Jun-88 | B |  | 11% |  | 3 | Overheating |
+| Jan-91 |  |  | C |  | 4.0% |  | Slowdown |
+|  | Dec-92 | D |  | -6.9% |  |  | Recession |
+| Oct-95 |  |  | E |  | -0.7% |  | Recovery |
+|  | Jun-97 | B |  | 6.2% |  | 4 | Overheating |
+| Oct-97 |  |  | C |  | 2.6% |  | Slowdown |
+|  | Oct-98 | D |  | -8.6% |  |  | Recession |
+| Nov-99 |  |  | E |  | -1.1% |  | Recovery |
+|  | Sep-00 | B |  | 6% |  | 5 | Overheating |
+| Jan-01 |  |  | C |  | -0.3% |  | Slowdown |
+|  | Jan-02 | D |  | -11.7% |  |  | Recession |
+| Feb-02 |  |  | E |  | -1.6% |  | Recovery |
+|  | Dec-06 | B |  | 5.3% |  | 6 | Overheating |
+| Jul-08 |  |  | C |  | 2.3% |  | Slowdown |
+|  | Jun-09 | D |  | -29.6% |  |  | Recession |
+| Oct-09 |  |  | E |  | -2.5% |  | Recovery |
+|  | Jun-10 | B |  | 24.2% |  | 7 | Overheating |
+| Mar-12 |  |  | C |  | 0.5% |  | Slowdown |
+|  | Aug-11 | D |  | -5.7% |  |  | Recession |
+
 down in 1995 and this dampened Japanese exports for a while. But as the US
 economy gathered steam in 1996 and beyond Japan rebounded until mid-1997.
 But then the Asian-Russian crisis of 1997-98 dragged Japan into an even deeper
@@ -12187,26 +12102,6 @@ recession than in the first half of the 1990s. Industrial production fell more t
 Japan IP 6M MA % YoY Japan CPI % YoY RHS JP Discount rate RHS
 30% 10%
 C B
-20% 8%
-B B B
-10% 6%
-B B B
-B
-0% 4%
-C D
-D C CC
-D
--10% D D 2%
-D C
--20% E C 0%
--30% E E E E D -2%
--40% -4%
-0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0 2
-8 8 8 8 8 9 9 9 9 9 0 0 0 0 0 1 1
-n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n-
-a a a a a a a a a a a a a a a a a
-J J J J J J J J J J J J J J J J J
-
 > **Figure 9.6**: Japan business cycles
 
 per cent and the recession lasted for one and a half years until mid-1999. Deflation
@@ -12266,36 +12161,19 @@ Germany Lombard rate (ceiling)
 15% B
 C C B 8%
 10% B
-B B BC B B B B
-5% 6%
-BB
-0%
-D D 4%
--5% D D
-D D C
--10% 2%
-D D
--15%
-0%
--20% E E
-E D
--25% -2%
-1 3 5 7 9 1 3 5 7 9 1 3 5 7 9 1 3 5 7 9 1 3 5 7 9 1
-6 6 6 6 6 7 7 7 7 7 8 8 8 8 8 9 9 9 9 9 0 0 0 0 0 1
-n- n- n- n- n- n- n- n- n-n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n-
-a a a a a a a a a a a a a a a a a a a a a a a a a a
-J J J J J J J J J J J J J J J J J J J J J J J J J J
-
 > **Figure 9.7**: Germany business cycles
 Table 9.6 Germany business cycles
-Slowdown Recession Recovery
-Aug 79 - Aug 85 Aug 79 - Aug 80 Sep 80 - Aug 83 Sep 83 - Aug 85
-Aug 85 - Jun 91 Aug 85 - Feb 87 Mar 87 - Jul 87 Aug 87 - Jun 91
-Jun 91 - Dec 94 Jun 91 - Jun 92 Jul 92 - Apr 94 May 94 - Dec 94
-Dec 94 - May 98 Dec 94 - Oct 95 Nov 95 - Sep 96 Oct 96 - May 98
-May 98 - Sep 00 May 98 - Feb 99 Mar 99 - Jul 99 Aug 99 - Sep 00
-Sep 00 - Apr 07 Sep 00 - Aug 01 Sep 01 - Nov 03 Dec 03 - Apr 07
-Apr 07 - Mar 11 Apr 07 - Sep 08 Oct 08 - Mar 10 Apr 10 - Mar 11
+
+|  | Slowdown | Recession | Recovery |
+| --- | --- | --- | --- |
+| Aug 79 – Aug 85 | Aug 79 – Aug 80 | Sep 80 – Aug 83 | Sep 83 – Aug 85 |
+| Aug 85 – Jun 91 | Aug 85 – Feb 87 | Mar 87 – Jul 87 | Aug 87 – Jun 91 |
+| Jun 91 – Dec 94 | Jun 91 – Jun 92 | Jul 92 – Apr 94 | May 94 – Dec 94 |
+| Dec 94 – May 98 | Dec 94 – Oct 95 | Nov 95 – Sep 96 | Oct 96 – May 98 |
+| May 98 – Sep 00 | May 98 – Feb 99 | Mar 99 – Jul 99 | Aug 99 – Sep 00 |
+| Sep 00 – Apr 07 | Sep 00 – Aug 01 | Sep 01 – Nov 03 | Dec 03 – Apr 07 |
+| Apr 07 – Mar 11 | Apr 07 – Sep 08 | Oct 08 – Mar 10 | Apr 10 – Mar 11 |
+
 production came to a standstill at the beginning of 1972 and then rebounded,
 retaining the V-shape. The Bundesbank reversed the easing of monetary policy
 from September 1972, a year earlier than the first oil shock. The Lombard rate
@@ -12393,29 +12271,6 @@ days it was Japan. Fluctuations in Japan's industrial production account for 44 
 cent of the variance of BDI in the 1980s and the 1990s, whereas fluctuations in
 Germany's industrial production account for just 11 per cent. The reason that
 1 Year Timecharter Rate 30,000 dwt Bulkcarrier Baltic Dry Index
-45000 12000
-B
-40000
-10000
-35000
-30000 8000
-25000
-B 6000
-20000
-15000 4000
-B
-B B
-10000
-D D 2000
-D
-D D
-0 0
-6 8 0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0 2 4
-7 7 8 8 8 8 8 9 9 9 9 9 0 0 0 0 0 1 1 1
-n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n- n-
-a a a a a a a a a a a a a a a a a a a a
-J J J J J J J J J J J J J J J J J J J J
-
 > **Figure 9.8**: Shipping cycles
 
 Japan played a more important role than Germany in that time period is that steel
@@ -12792,7 +12647,7 @@ that their errors (that is, the deviation of actual earnings from those justifie
 economic fundamentals) are much closer to the normal distribution than the
 historical distribution of earnings.
 
-> **Figure 10.3**: provides the distribution of errors of the aforementioned
+Figure 10.3 provides the distribution of errors of the aforementioned
 
 structural model. The distribution is not normal, but it is a big improvement
 compared with the historical distribution of earnings. The model can be of use
@@ -12962,16 +12817,6 @@ According to SAIL, the multiplier is variable rather than fixed. A fiscal stimul
 would boost growth more if: there is spare capacity in the economy; stocks are
 HOPE Demand % SAIL model Demand %
 Projection
-20%
-15%
-10%
-5%
-0%
--5%
-0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7
-0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1
-ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec-
-D D D D D D D D D D D D D D D D D D
 Figure 10.A1 HOPE and SAIL demand
 low; monetary policy is accommodative; the cost of money is low; credit is available; and confidence is low. In this case, the multiplier in the first year of the
 stimulus may be high as 3, fading in the second and third years to less than 1. In
@@ -13000,19 +12845,6 @@ plotted in Figure 10.A2, along with the actual historical errors and the margin
 
 HOPE Demand Error % Margin of error % Margin of error %
 Actual Demand (HOPE data) M DWT RHS HOPE Rule of Thumb Demand M DWT RHS
-25% 800
-20% 700
-15% 600
-10% 500
-5% 400
-0% 300
--5% 200
--10% 100
--15% 0
-0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7
-0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1
-ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec- ec-
-D D D D D D D D D D D D D D D D D D
 Figure 10.A2 HOPE rule of thumb demand
 of error based on one standard deviation. The demand trajectories are obtained
 by applying the rule of thumb of a fixed multiplier (1.43 times) of world GDP
@@ -13106,20 +12938,6 @@ that the projection of NB prices should be based on the SAIL model.
 Forecast Error % Mean+2SD Mean-2SD Actual Vessel Prices $/DWT
 Main Scenario Risk Scenario
 Projection
-20% 1000
-15%
-10%
-5%
-0% 500
--5%
--10%
--15%
--20% 0
-5 7 9 1 3 5 7 9 1 3 5 7 9 1 3
-8 8 8 9 9 9 9 9 0 0 0 0 0 1 1
-n- n- n- n- n- n- n- n- n- n- n- n- n- n- n-
-a a a a a a a a a a a a a a a
-J J J J J J J J J J J J J J J
 Figure 10.A7 New vessel prices - SAIL model
 
 NOTES

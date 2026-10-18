@@ -1709,72 +1709,36 @@ victory in the American Revolutionary War. That said, however, nearly
 <!-- Page 51 -->
 **Table 3.1** Balance of payments of the New England and Middle Colonies,  average 1768-72
 
-Imports p New England 1054 Middle Colonies 1202 Combined 2256
-
-Earnings
-g
-% of earnings
-Commodity exports all destinations:
-New England
-477
-53
-Middle Colonies
-559
-69
-Combined
-1036
-60
-
-[Of which to West Indies]
-New England
-303
-34
-Middle Colonies
-244
-30
-Combined
-548
-32
-
-[Of which to Britain]
-New England
-87
-10
-Middle Colonies
-75
-9
-Combined
-162
-9
-
-Shipping earnings
-New England
-327
-36
-Middle Colonies
-177
-22
-Combined
-504
-29
-
-Other invisibles
-New England
-100
-11
-Middle Colonies
-74
-9
-Combined
-174
-10
-
-Total earnings
-New England
-904
-Middle Colonies
-810
-1714
+| Imports |  |  |
+| --- | --- | --- |
+| New England | 1054 |  |
+| Middle Colonies | 1202 |  |
+| Combined | 2256 |  |
+| Earnings |  | % of earnings |
+| **Commodity exports all destinations:** | | |
+| New England | 477 | 53 |
+| Middle Colonies | 559 | 69 |
+| Combined | 1036 | 60 |
+| **[Of which to West Indies]** | | |
+| New England | 303 | 34 |
+| Middle Colonies | 244 | 30 |
+| Combined | 548 | 32 |
+| **[Of which to Britain]** | | |
+| New England | 87 | 10 |
+| Middle Colonies | 75 | 9 |
+| Combined | 162 | 9 |
+| **Shipping earnings** | | |
+| New England | 327 | 36 |
+| Middle Colonies | 177 | 22 |
+| Combined | 504 | 29 |
+| **Other invisibles** | | |
+| New England | 100 | 11 |
+| Middle Colonies | 74 | 9 |
+| Combined | 174 | 10 |
+| **Total earnings** | | |
+| New England | 904 |  |
+| Middle Colonies | 810 |  |
+|  | 1714 |  |
 
 Source : Shepherd and Walton (1972), pp. 115, 128 and 134.
 
@@ -2139,26 +2103,15 @@ only. This is somewhat more problematic but such figures emphasize
 
 **Table 4.1** Sail and steamship vessels' share of  total tonnage entrances with cargo and in ballast,  1860-1910
 
-Sail % Steam %
+|  | Sail % | Steam % |
+| --- | --- | --- |
+| 1860 | 79.1 | 20.9 |
+| 1870 | 66.2 | 33.8 |
+| 1880 | 37.0 | 63.0 |
+| 1890 | 17.2 | 82.8 |
+| 1900 | 8.2 | 91.8 |
+| 1910 | 2.9 | 97.1 |
 
-1860
-79.1
-20.9
-1870
-66.2
-33.8
-1880
-37.0
-63.0
-1890
-17.2
-82.8
-1900
-8.2
-91.8
-1910
-2.9
-97.1
 
 Sources : Calculated from Annual Statement of Trade and Navigation, 1861 and Annual Statement of the Navigation and Shipping of the United Kingdom, 1871, 1881, 1891, 1901 and 1911.
 
@@ -2169,115 +2122,21 @@ incoming bulk trades (the prime focus of study in the past); additionally, entra
 
 **Table 4.2** Percentage steam participation by tonnage per region of origin,  1855-1910
 
-Percentage steam by tonnage, British and foreign vessels 'with cargo and in ballast' entering UK ports
-
-1855 1860 1870 1880 1890 1900 1910
-
-N. Europe
-4.4
-10.2
-24.0
-40.4
-61.5
-78.3
-91.8
-W. Europe
-30.9
-31.4
-43.0
-78.3
-90.6
-94.2
-97.7
-W. Mediterranean
-9.1
-30.5
-39.2
-87.4
-97.0
-97.0
-99.5
-E. Mediterranean
-17.1
-24.3
-43.8
-90.3
-99.0
-99.4
-99.9
-W. Africa
-7.4
-13.3
-41.5
-77.3
-97.9
-100.0
-99.4
-S. Africa
-8.0
-13.6
-41.7
-83.6
-89.3
-99.9
-99.9
-N. America
-3.8
-9.3
-32.1
-50.1
-81.4
-86.0
-99.7
-S. America (east)
-11.4
-23.6
-33.0
-65.6
-72.4
-94.0
-99.5
-W. America
-1.0
-0.0
-7.6
-7.6
-18.9
-27.2
-66.0
-India
-0.0
-1.0
-10.0
-45.1
-77.3
-94.5
-99.9
-Far East
-0.0
-0.0
-22.5
-86.3
-99.4
-99.7
-99.8
-Australasia
-5.5
-2.1
-2.3
-17.9
-55.6
-71.8
-89.7
-
-All entrances
-15.8
-20.9
-33.8
-63.0
-82.8
-91.8
-97.1
+|  | 1855 | 1860 | 1870 | 1880 | 1890 | 1900 | 1910 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| N. Europe | 4.4 | 10.2 | 24.0 | 40.4 | 61.5 | 78.3 | 91.8 |
+| W. Europe | 30.9 | 31.4 | 43.0 | 78.3 | 90.6 | 94.2 | 97.7 |
+| W. Mediterranean | 9.1 | 30.5 | 39.2 | 87.4 | 97.0 | 97.0 | 99.5 |
+| E. Mediterranean | 17.1 | 24.3 | 43.8 | 90.3 | 99.0 | 99.4 | 99.9 |
+| W. Africa | 7.4 | 13.3 | 41.5 | 77.3 | 97.9 | 100.0 | 99.4 |
+| S. Africa | 8.0 | 13.6 | 41.7 | 83.6 | 89.3 | 99.9 | 99.9 |
+| N. America | 3.8 | 9.3 | 32.1 | 50.1 | 81.4 | 86.0 | 99.7 |
+| S. America (east) | 11.4 | 23.6 | 33.0 | 65.6 | 72.4 | 94.0 | 99.5 |
+| W. America | 1.0 | 0.0 | 7.6 | 7.6 | 18.9 | 27.2 | 66.0 |
+| India | 0.0 | 1.0 | 10.0 | 45.1 | 77.3 | 94.5 | 99.9 |
+| Far East | 0.0 | 0.0 | 22.5 | 86.3 | 99.4 | 99.7 | 99.8 |
+| Australasia | 5.5 | 2.1 | 2.3 | 17.9 | 55.6 | 71.8 | 89.7 |
+| All entrances | 15.8 | 20.9 | 33.8 | 63.0 | 82.8 | 91.8 | 97.1 |
 
 Source : Trade & Navigation Accounts in British Parliamentary Papers.
 
@@ -2306,114 +2165,21 @@ entrances only just exceeded 50 per cent and Northern Europe only just
 
 **Table 4.3** Percentage steam participation by number of vessels per region of  origin, 1855-1910
 
-Percentage steam by number of vessels 'with cargo and in ballast' entering UK ports
-
-1855 1860 1870 1880 1890 1900 1910
-
-N. Europe
-2.6
-4.7
-9.9
-18.9
-38.3
-55.6
-81.7
-W. Europe
-17.6
-21.5
-34.5
-60.0
-79.0
-89.3
-91.9
-W. Mediterranean
-4.1
-12.0
-21.5
-84.6
-96.7
-97.0
-97.4
-E. Mediterranean
-1.0
-9.9
-21.0
-76.1
-95.8
-98.1
-99.6
-W. Africa
-7.1
-6.1
-19.1
-55.6
-91.8
-100.0
-98.8
-S. Africa
-5.8
-10.0
-19.8
-51.1
-70.8
-99.4
-99.3
-N. America
-2.0
-4.8
-16.6
-28.5
-60.6
-77.8
-98.9
-S. America (east)
-2.6
-5.1
-11.4
-29.1
-49.7
-87.5
-97.8
-W. America
-1.0
-0.0
-3.3
-3.2
-13.6
-21.4
-52.4
-India
-0.0
-1.0
-9.2
-39.3
-73.4
-92.0
-98.5
-Far East
-0.0
-0.0
-15.8
-74.1
-99.2
-99.0
-99.5
-Australasia
-3.1
-1.3
-1.2
-8.3
-36.5
-49.9
-76.3
-All entrances
-12.4
-15.5
-22.8
-47.0
-69.8
-81.4
-90.5
+|  | 1855 | 1860 | 1870 | 1880 | 1890 | 1900 | 1910 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| N. Europe | 2.6 | 4.7 | 9.9 | 18.9 | 38.3 | 55.6 | 81.7 |
+| W. Europe | 17.6 | 21.5 | 34.5 | 60.0 | 79.0 | 89.3 | 91.9 |
+| W. Mediterranean | 4.1 | 12.0 | 21.5 | 84.6 | 96.7 | 97.0 | 97.4 |
+| E. Mediterranean | 1.0 | 9.9 | 21.0 | 76.1 | 95.8 | 98.1 | 99.6 |
+| W. Africa | 7.1 | 6.1 | 19.1 | 55.6 | 91.8 | 100.0 | 98.8 |
+| S. Africa | 5.8 | 10.0 | 19.8 | 51.1 | 70.8 | 99.4 | 99.3 |
+| N. America | 2.0 | 4.8 | 16.6 | 28.5 | 60.6 | 77.8 | 98.9 |
+| S. America (east) | 2.6 | 5.1 | 11.4 | 29.1 | 49.7 | 87.5 | 97.8 |
+| W. America | 1.0 | 0.0 | 3.3 | 3.2 | 13.6 | 21.4 | 52.4 |
+| India | 0.0 | 1.0 | 9.2 | 39.3 | 73.4 | 92.0 | 98.5 |
+| Far East | 0.0 | 0.0 | 15.8 | 74.1 | 99.2 | 99.0 | 99.5 |
+| Australasia | 3.1 | 1.3 | 1.2 | 8.3 | 36.5 | 49.9 | 76.3 |
+| All entrances | 12.4 | 15.5 | 22.8 | 47.0 | 69.8 | 81.4 | 90.5 |
 
 Source : Trade & Navigation Accounts in British Parliamentary Papers.
 
@@ -3042,6 +2808,32 @@ cbm 368 500
 
 **Table 5.1** The development of cargo-hauling efficiency of ships
 
+| Period | Type of ship | Dwt, metric tons | Speed, knots | Capacity, ton/cbm | ‘000 ton/ cbm-miles per day |
+| --- | --- | --- | --- | --- | --- |
+| 1870s | Sailing bulk carrier | 1 500 | 4 | ton 1 500 | 150 |
+| 1870s | China clipper | 1 500 | 5 | cbm 2 500 | 300 |
+| 1880s | Handysize steamer | 1 425 | 9 | ton 1 000 | 216 |
+|  |  |  |  | cbm 1 700 | 370 |
+| 1910s | Two-deck steam liner | 7 350 | 12 | ton 5 100 | 1 470 |
+|  |  |  |  | cbm 10 900 | 3 100 |
+| 1910s | Steel four-mast bark | 4 100 | 6 | ton 4 100 | 645 |
+|  |  |  |  | cbm 6 400 | 920 |
+| 1920s | Ore carrier | 20 600 | 11 | ton 16 500 | 4 360 |
+| 1930s | Oil tanker | 14 200 | 13 | ton 11 300 | 3 500 |
+| 1940s | Liberty ship | 10 850 | 11 | ton 8 700 | 2 300 |
+|  |  |  |  | cbm 15 700 | 4 100 |
+| 1940s | T2 tanker | 16 610 | 14 | ton 13 300 | 4 460 |
+| 1950s | Cargo liner | 13 400 | 20 | ton 10 700 | 5 100 |
+|  |  |  |  | cbm 24 000 | 11 500 |
+| 1960s | First-generation container ship | 24 820 | 22 | cbm 46520 (1414 TEU) | 24600 |
+| 1970s | Panamax bulk carrier | 66 000 | 14 | ton 55 000 | 18 480 |
+| 1970s | Ultra large crude tanker | 300 000 | 15 | ton 250 000 | 90 000 |
+| 1990s | Capemax bulk carrier | 180 000 | 14 | ton 150 000 | 50 400 |
+| 2000s | Ro-Ro cargo ship | 11 750 | 20 | cbm 36 100 | 17 300 |
+| 2000s | Container feeder | 11 500 | 20 | cbm 27 000 (820 TEU) | 13 000 |
+| 2000s | Post-Panamax container ship | 156 300 | 22 | cbm 368 500 (11 200 TEU) | 178 000 |
+
+
 Notes : Cargo capacity indicated in metric tons and/or cubic metres (cbm). Ships' capacity for
 heavy goods is limited by deadweight tonnage (dwt) minus the weight of fuels and stores,
 while their capacity for light cargo is limited by the cubic volume of their holds plus the
@@ -3135,19 +2927,10 @@ An interesting element in the development of bulk carriers were ships designed t
 
 **Table 5.2** Total oil tanker fleets and average ship sizes, 1950-1980
 
-1950 1960 1970 1980
-
-Total fleet ( '000 grt )
-16,866
-41,465
-86,140
-175,004
-t
-Average size ( '000 grt/dwt )
-7.8/c. 12
-9.1/c. 14
-14.1/c. 28   24.6/c. 48
-t
+|  | 1950 | 1960 | 1970 | 1980 |
+| --- | --- | --- | --- | --- |
+| Total fleet ('000 grt) | 16,866 | 41,465 | 86,140 | 175,004 |
+| Average size ('000 grt/dwt) | 7.8/c. 12 | 9.1/c. 14 | 14.1/c. 28 | 24.6/c. 48 |
 
 Note: As Lloyd's statistics do not reveal deadweight tonnages, the average dwt figures have
 been estimated by dwt/grt ratios derived from samples of individual ships. Before the 1966
@@ -3186,35 +2969,12 @@ The oil crises of the 1970s stopped the growth of the global tanker tonnage, shi
 
 **Table 5.3** Total ore-bulk and ore-bulk-oil fleets and average ship sizes, 1960-80
 
-1960 1970 1980
+|  | 1960 | 1960 | 1970 | 1970 | 1980 | 1980 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Total fleet('000 grt) | Average size('000 grt/dwt) | Total fleet('000 grt) | Average size('000 grt/dwt) | Total fleet('000 grt) | Average size('000 grt/dwt) |
+| Ore-bulk | 16,665 | 8.5/c.12 | 38,334 | 16.5/c. 29 | 113,421 | 23.7/c. 41 |
+| Ore-bulk-oil | - | - | 8,317 | 40.2/c. 70 | 19,769 | 54.9/c. 96 |
 
-Total
-Average
-Total
-Average
-Total
-Average
-fleet
-size
-fleet
-size
-fleet
-size
-('000 grt) ('000 grt/dwt) ('000 grt) ('000 grt/dwt) ('000 grt) ('000 grt/dwt)
-
-Ore-bulk
-16,665
-8.5/c.12
-38,334
-16.5/c. 29
-113,421
-23.7/c. 41
-Ore-bulk-oil -
--
-8,317
-40.2/c. 70
-19,769
-54.9/c. 96
 
 Note : Average dwt figures have been estimated; see Table 5.2. Before the new load lines, the
 typical dwt/grt ratio was about 1.4:1, after that it rose to about 1.75 :1.
@@ -3250,31 +3010,6 @@ seems as if the tanker and bulker revolutions have come of age.
 10
 
 5
-
-0
-1930
-1940
-1950
-1960
-1970
-1980
-1990
-2000
-2010
-
-Tankers-1985 Bulkers-1985 Containers-1985
-
-General cargo-1985
-
-General cargo 1986-
-
-Tankers 1986-
-
-Bulkers 1986-
-
-Total-1985
-
-Total 1986- Containers 1986-
 
 **Figure 5.1** Average ship sizes, selected categories, 1930-2008 Note :  Until 1985, the lower limit is 100 grt, from 1986 onwards 300 grt. The definition of  bulk carriers is slightly different before and after 1986. OBO carriers were not included in the post-1985 averages of bulk carriers, but these fleets have been rapidly diminishing. Sources : Lloyd's Register, Statistical Tables/World Fleet Statistics  (-1985); ISL,  Shipping Statistics Yearbook (1986-).
 
@@ -3416,34 +3151,21 @@ efficient. Deck cargoes increased as post-Panamax ships were built with
 
 **Table 5.4** Examples of typical deadweight tonnage / cargo  hold volume ratios
 
-Type of ship Dwt/vol
-
-Sailing vessel, wood or iron
-0.54-0.61
-Sailing vessel, steel
-0.56-0.66
-General purpose steamer, 1880s-1913
-0.63-0.73
-Shelter-deck liner, 1910-30
-0.52-0.54
-General purpose steamer, 1920s-30s
-0.68-0.76
-Liberty ship
-0.68
-Cargo liner, 1950s
-c. 0.56
-Oil tanker, 1950s
-0.72-0.81
-Big oil tanker, 1970s
-0.82-0.85
-Bulk carrier, 1970s
-0.87-0.91
-Container feeder, 2000s
-0.39-0.43
-Big container ship, 2000s
-0.34-0.42
-RoRo cargo ship, over 10,000 dwt, 2000s
-0.36
+| Type of ship | Dwt/vol |
+| --- | --- |
+| Sailing vessel, wood or iron | 0.54–0.61 |
+| Sailing vessel, steel | 0.56–0.66 |
+| General purpose steamer, 1880s–1913 | 0.63–0.73 |
+| Shelter-deck liner, 1910–30 | 0.52–0.54 |
+| General purpose steamer, 1920s–30s | 0.68–0.76 |
+| Liberty ship | 0.68 |
+| Cargo liner, 1950s | c. 0.56 |
+| Oil tanker, 1950s | 0.72–0.81 |
+| Big oil tanker, 1970s | 0.82–0.85 |
+| Bulk carrier, 1970s | 0.87–0.91 |
+| Container feeder, 2000s | 0.39–0.43 |
+| Big container ship, 2000s | 0.34–0.42 |
+| RoRo cargo ship, over 10,000 dwt, 2000s | 0.36 |
 
 Notes : Dwt in metric tons, volume in cubic metres. For container
 ships, the volume has been computed in two ways: a) from the
@@ -3476,26 +3198,14 @@ hand, in terms of cargo hold volumes - which are more important for
 
 **Table 5.5** Container ships, average dead weight, TEU and gross tonnage ratios
 
-Dwt/TEU Gt/Dwt
-
-1986
-19.2
-0.93
-1990
-17.4
-0.92
-1995
-16.5
-0.90
-2000
-14.8
-0.87
-2005
-13.8
-0.86
-2008
-13.4
-0.86
+|  | Dwt/TEU | Gt/Dwt |
+| --- | --- | --- |
+| 1986 | 19.2 | 0.93 |
+| 1990 | 17.4 | 0.92 |
+| 1995 | 16.5 | 0.90 |
+| 2000 | 14.8 | 0.87 |
+| 2005 | 13.8 | 0.86 |
+| 2008 | 13.4 | 0.86 |
 
 Source : ISL; Shipping Statistics Yearbook , various years, tables of special fleets.
 
@@ -3531,24 +3241,6 @@ Relative cost
 0.4
 
 0.2
-
-0
-0
-20
-40
-60
-80
-100
-120
-
-Ship size, '000 deadweight tons
-
-140
-160
-180
-200
-
-Building cost Total cost/ton-mile
 
 **Figure 5.2** Scale economies: building and carrying costs per ton-mile, bulk  shipping Sources : Building cost: 'compensated gross tonnage coefficients' (based on actual building  costs) for bulk carriers of different size, agreed at the OECD in 1984, cf. Stopford (2002), p. 525. Total cost per ton-mile according to R.O. Goss and C.D. Jones (1971)  The economics of size in dry bulk carriers  (London: HMSO), table 3.
 
@@ -3771,22 +3463,6 @@ costs clearly reduced more slowly than voyage costs. In the mid-
 
 20
 
-0
-0
-2000
-4000
-6000
-8000
-10000
-
-Fixed prices, US$ 2001:1-6
-
-Nautical miles
-
-1998-2001 1986-1990 1963-1969 1953-1956
-
-1933-1938 1921-1927 1872-1880
-
 **Figure 5.5** Average projected coal freight at different distances, 1872-2001 Note : see Figure 5.4. Source : Kaukiainen (2006), pp. 53-4, Appendix Table 1a and 1b.
 
 <!-- Page 97 -->
@@ -3808,29 +3484,12 @@ Summing up, it seems that the scope and impact of scale economies have effective
 
 **Table 5.6** Terminal component as proportion of average freights of grain and coal, selected distances, 1872-2001
 
-Freight at
-Freight at
-Freight at
-2000 nm, %
-5000 nm, %
-10,000 nm, %
-
-1872-1880
-63
-41
-27
-1907-1913
-54
-34
-21
-1953-1956
-61
-41
-29
-1998-2001
-81
-61
-44
+|  | Freight at 2000 nm, % | Freight at 5000 nm, % | Freight at 10,000 nm, % |
+| --- | --- | --- | --- |
+| 1872–1880 | 63 | 41 | 27 |
+| 1907–1913 | 54 | 34 | 21 |
+| 1953–1956 | 61 | 41 | 29 |
+| 1998–2001 | 81 | 61 | 44 |
 
 Note : All freights include loading and discharging costs ('gross' or 'liner
 terms').
@@ -5347,50 +5006,18 @@ shipowners who failed to adapt to change'. 9
 
 **Table 8.1** The UK-registered merchant fleet 1950-95 (500+ gross registered  tonne vessels)
 
-Number of vessels Gross registered tonnes (GRT) (millions)
-
-UK-registered fleet as proportion of world tonnage (% dwt)
-
-1950
-3,092
-17,198
--
-1955
-3,041
-18,208
--
-1960
-2,902
-20,202
--
-1965
-2,401
-29,382
--
-1970
-1,977
-24,061
-11.4
-1975
-1,682
-31,489
-9.7
-1980
-1,275
-25,769
-6.4
-1985
-693
-12,208
-3.2
-1990
-427
-5,512
-1.2
-1995
-365
-5,761
-1.0
+|  | Number of vessels | Gross registered tonnes (GRT) (millions) | UK-registered fleet as proportion of world tonnage (% dwt) |
+| --- | --- | --- | --- |
+| 1950 | 3,092 | 17,198 | - |
+| 1955 | 3,041 | 18,208 | - |
+| 1960 | 2,902 | 20,202 | - |
+| 1965 | 2,401 | 29,382 | - |
+| 1970 | 1,977 | 24,061 | 11.4 |
+| 1975 | 1,682 | 31,489 | 9.7 |
+| 1980 | 1,275 | 25,769 | 6.4 |
+| 1985 | 693 | 12,208 | 3.2 |
+| 1990 | 427 | 5,512 | 1.2 |
+| 1995 | 365 | 5,761 | 1.0 |
 
 Note : Data 1950-1985 includes Crown Dependency vessels registered in the Isle of Man and
 Channel Islands.
@@ -6984,60 +6611,21 @@ reformist Fourth Labour Government, elected in 1984. 41
 
 **Table 10.1** New Zealand port labour productivity (all ports), 1976-88
 
-Year Tons of cargo handled Total paid hours Tons/total paid hours
-
-1976
-33,321,305
-13,481,350
-2.47
-1977
-36,167,714
-13,226,514
-2.73
-1978
-34,076,157
-12,263,487
-2.78
-1979
-35,908,364
-11,381,645
-3.15
-1980
-37,760,888
-10,981,663
-3.44
-1981
-12,894,508
-10,719,085
-1.18
-1982
-13,738,491
-10,339,971
-1.33
-1983
-13,530,833
-10,044,869
-1.35
-1984
-16,153,652
-9,830,442
-1.64
-1985
-15,979,370
-9,252,480
-1.73
-1986
-14,916,180
-9,217,018
-1.62
-1987
-14,836,566
-8,625,701
-1.79
-1988
-15,877,493
-7,599,078
-2.09
+| Year | Tons of cargo handled | Total paid hours | Tons/total paid hours |
+| --- | --- | --- | --- |
+| 1976 | 33,321,305 | 13,481,350 | 2.47 |
+| 1977 | 36,167,714 | 13,226,514 | 2.73 |
+| 1978 | 34,076,157 | 12,263,487 | 2.78 |
+| 1979 | 35,908,364 | 11,381,645 | 3.15 |
+| 1980 | 37,760,888 | 10,981,663 | 3.44 |
+| 1981 | 12,894,508 | 10,719,085 | 1.18 |
+| 1982 | 13,738,491 | 10,339,971 | 1.33 |
+| 1983 | 13,530,833 | 10,044,869 | 1.35 |
+| 1984 | 16,153,652 | 9,830,442 | 1.64 |
+| 1985 | 15,979,370 | 9,252,480 | 1.73 |
+| 1986 | 14,916,180 | 9,217,018 | 1.62 |
+| 1987 | 14,836,566 | 8,625,701 | 1.79 |
+| 1988 | 15,877,493 | 7,599,078 | 2.09 |
 
 Source : Waterfront Industry Commission, Annual Reports , various years.
 
@@ -7864,72 +7452,17 @@ with container handling capacity, 15 and this figure had risen to 235
 
 **Table 11.1** Container throughputs of major Chinese ports in TEU, 1995-2000
 
-Port 1995 1996 1997 1998 1999 2000
-
-Shanghai
-1,526,500
-1,971,000
-2,064,000
-3,060,000
-4,216,000
-5,612,000
-Shenzhen
-283,600
-589,000
-1,147,300
-1,951,700
-2,986,100
-3,993,000
-Qingdao
-603,018
-830,000
-1,000,000
-1,213,700
-1,543,000
-2,116,000
-Tianjin
-702,051
-800,000
-850,000
-1,018,000
-1,302,000
-1,708,000
-Guangzhou
-250,000
-558,000
-600,000
-846,600
-1,120,000
-1,427,000
-Xiamen
-329,000
-400,168
-450,000
-654,000
-848,000
-1,085,000
-Dalian
-374,259
-420,751
-450,000
-525,700
-736,000
-1,012,000
-Ningbo
-160,000
-170,000
-175,000
-350,200
-601,000
-902,000
-
-TOTAL
-4,228,428
-5,738,919
-6,736,300
-9,619,900
-13,352,100
-17,855,000
+| Port | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Shanghai | 1,526,500 | 1,971,000 | 2,064,000 | 3,060,000 | 4,216,000 | 5,612,000 |
+| Shenzhen | 283,600 | 589,000 | 1,147,300 | 1,951,700 | 2,986,100 | 3,993,000 |
+| Qingdao | 603,018 | 830,000 | 1,000,000 | 1,213,700 | 1,543,000 | 2,116,000 |
+| Tianjin | 702,051 | 800,000 | 850,000 | 1,018,000 | 1,302,000 | 1,708,000 |
+| Guangzhou | 250,000 | 558,000 | 600,000 | 846,600 | 1,120,000 | 1,427,000 |
+| Xiamen | 329,000 | 400,168 | 450,000 | 654,000 | 848,000 | 1,085,000 |
+| Dalian | 374,259 | 420,751 | 450,000 | 525,700 | 736,000 | 1,012,000 |
+| Ningbo | 160,000 | 170,000 | 175,000 | 350,200 | 601,000 | 902,000 |
+| TOTAL | 4,228,428 | 5,738,919 | 6,736,300 | 9,619,900 | 13,352,100 | 17,855,000 |
 
 Source : Shippers Today (2001) 'The co-development of the ports of Hong Kong and Shenzhen: a past y review and future prospect at the millennium' (in Chinese).
 
@@ -7980,33 +7513,19 @@ between administration and operation.
 <!-- Page 202 -->
 **Table 11.2** The world's top ten container ports in 2000
 
-Port Country or region Throughput in TEU
+|  | Port | Country or region | Throughput in TEU |
+| --- | --- | --- | --- |
+| 1 | Hong Kong | Hong Kong | 18,000,000 |
+| 2 | Singapore | Singapore | 17,000,000 |
+| 3 | Busan | South Korea | 7,500,000 |
+| 4 | Kaohsiung | Taiwan | 7,400,000 |
+| 5 | Rotterdam | The Netherlands | 6,100,000 |
+| 6 | Shanghai | Mainland China | 5,600,000 |
+| 7 | Los Angeles | United States | 4,900,000 |
+| 8 | Long Beach | United States | 4,500,000 |
+| 9 | Hamburg | Germany | 4,000,000 |
+| 10 | Antwerp | Belgium | 3,800,000 |
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-
-Hong Kong Singapore Busan Kaohsiung Rotterdam Shanghai Los Angeles Long Beach Hamburg Antwerp
-
-Hong Kong Singapore South Korea Taiwan The Netherlands Mainland China United States United States Germany Belgium
-
-18,000,000
-17,000,000
-7,500,000
-7,400,000
-6,100,000
-5,600,000
-4,900,000
-4,500,000
-4,000,000
-3,800,000
 
 Source : Containerisation International (2000) Containerisation International Yearbook 2000 (London: Containerisation International).
 

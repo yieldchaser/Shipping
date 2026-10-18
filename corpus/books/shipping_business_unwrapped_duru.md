@@ -720,69 +720,6 @@ ANNUAL COST AND ANNUAL COMMERCIAL PERFORMANCE OF FIVE MERCHANT STEAMERS RECENTLY
 
 First Cost
 
-4,500
-2,450
-1,850
-8,800
-1,000
-38      ,,     
-0.057d.
-37,000
-2.-Balstic Goods Carrier  ........................
-1,500
-520
-1,250
-3,270
-350
-0.058d.
-13½   ,,     
-38,000
-3.-Home Trade Grain Carrier  .................
-3,500
-4,750
-1,550
-9,800
-500
-0.124d.
-19      ,,     
-38,000
-4.-Foreign Coasting Steamer  .................
-18,000
-8,400
-1,300
-34,700
-1,200
-0.165d.
-50½   ,,     
-42,000
-5.-North Atlantic Mail Steamer  ..............
-
-540
-1,350
-4,990
-1,000
-38,000
-38 millions
-0.031d.
-
-Performance
-
-Commercial
-
-OF SHIPS.
-
-Ton-miles.
-Tons.
-Nautical
-
-per Year.
-
-Mileage
-
-Year.
-
-per
-
 Figure 2.1 The first use of the ton-mile metric for shipping services by Walter C. Bergius (1871)
 
 besides
@@ -1017,45 +954,6 @@ volume for various cargoes has had a steadily increasing trend with no significa
 25.00
 
 10.00
-
-1992
-1994
-1996
-1998
-2000
-2002
-2004
-2006
-2008
-2010
-2012
-2014
-2016
-
-2014
-
-World Seaborne Coking Coal Trade Million Tonnes
-World Seaborne Crude Oil Trade Million Tonnes
-World Seaborne Container Trade Million Tonnes
-
-World Seaborne Grain Trade Million Tonnes
-World Seaborne Crude Oil Trade M bpd
-
-2011
-
-6,000.00
-World Seaborne Coking Coal Trade Million Tonnes and others
-
-2008
-
-World Seaborne Chemical Trade Million Tonnes
-World Seaborne Car Trade Million Tonnes
-
-Source: Clarksons Research
-
-2005
-
-2002
 
 > **Figure 2.3** World seaborne trade volume for various cargoes
 
@@ -4286,33 +4184,6 @@ NPV
 0
 
 1
-
-2
-3
-4
-5
-6
-7
-8
-
-9 10 11 12 13 14 15
-
-Discount Factor
-0,00
-40
-
--5
-
-0,01 0,02 0,03
-
-0,04 0,05 0,06 0,07 0,08
-
-Year
-
--10
-
-(a)
-(b)
 
 > **Figure 21.2** The net cash flow diagram of project A and project B (a) and their NPV
 
