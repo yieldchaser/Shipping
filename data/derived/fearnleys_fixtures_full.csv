@@ -569257,3 +569257,7 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 866202,2026-10-18,,,FERTILE,,,,,Mini-Handysize,BULK,grain,,,,SINGLE HULL
 866203,2026-10-18,,,FORTUNATE,,,,,Mini-Handysize,BULK,grain,,,,SINGLE HULL
 866204,2026-10-18,,,,,,,,Panamax,BULK,Catamaran,,,,"FLT WATER TO WATER, Part cgo ok, On deck ok"
+866205,2026-10-18,Comc Or Nomi,,,,,,,Panamax,BULK,Rice,,,,chopt
+866206,2026-10-18,Comc Or Nomi,,,,,,,Panamax,BULK,Rice,,,,Exclusive/firm requirements
+866207,2026-10-18,Comc Or Nomi,,,,,,,Panamax,BULK,Rice,,,,chopt
+866208,2026-10-18,Comc Or Nomi,,,,,,,Panamax,BULK,Sugar,,,,1sp Pakistan/1sp Djibouti
