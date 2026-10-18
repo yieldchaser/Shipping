@@ -14,17 +14,17 @@ While Handysize vessels historically have longer operating lives than the larger
 
 Source:Drewry Maritime Research
 
-According to Drewry, around 5% of the Handysize fleet is already operating beyond its usual demolition age range, compared to only 1–2% across other dry bulk vessel segments. This highlights the extent to which this segment has historically relied on extending vessel operating lives to sustain fleet availability. Yet the segment’s replacement tonnage is likely to be inadequate over the ageing fleet profile.
+According to Drewry, around 5% of the Handysize fleet is already operating beyond its usual demolition age range, compared to only 1â€“2% across other dry bulk vessel segments. This highlights the extent to which this segment has historically relied on extending vessel operating lives to sustain fleet availability. Yet the segmentâ€™s replacement tonnage is likely to be inadequate over the ageing fleet profile.
 
 The orderbook-to-fleet ratio stands at only around 2%, the lowest among other segments. Scheduled deliveries over the next five years remain insufficient to offset the replacement of vessels approaching their demolition age, let alone support meaningful fleet expansion.
 
 Source:Drewry Maritime Research
 
-Over the past few years, the segment has begun to show signs of this supply imbalance. Demolitions have steadily increased YoY, reflecting the growing pressure from ageing tonnage. At the same time, annual vessel deliveries have continued to trend lower, reducing the segment’s replacement capacity.
+Over the past few years, the segment has begun to show signs of this supply imbalance. Demolitions have steadily increased YoY, reflecting the growing pressure from ageing tonnage. At the same time, annual vessel deliveries have continued to trend lower, reducing the segmentâ€™s replacement capacity.
 
-This imbalance becomes more prominent when viewed against current shipyard capacity constraints. Major Asian yards have seen strong ordering activity across other segments, such as container vessels, limiting near-term newbuilding availability for smaller vessels and the segment’s ability to respond rapidly to market sentiment improvements through fresh ordering. As a result, the Handysize fleet may be entering a period wherein the ageing fleet outpaces replacement tonnage.
+This imbalance becomes more prominent when viewed against current shipyard capacity constraints. Major Asian yards have seen strong ordering activity across other segments, such as container vessels, limiting near-term newbuilding availability for smaller vessels and the segmentâ€™s ability to respond rapidly to market sentiment improvements through fresh ordering. As a result, the Handysize fleet may be entering a period wherein the ageing fleet outpaces replacement tonnage.
 
-The segment’s operational flexibility has allowed older vessels to remain commercially viable for extended periods. Handysize vessels continue to serve regional trades, niche cargo flows, and port-restricted routes where larger vessels remain unsuitable. This flexibility has suppressed demolition activity relative to larger dry bulk sectors.
+The segmentâ€™s operational flexibility has allowed older vessels to remain commercially viable for extended periods. Handysize vessels continue to serve regional trades, niche cargo flows, and port-restricted routes where larger vessels remain unsuitable. This flexibility has suppressed demolition activity relative to larger dry bulk sectors.
 
 Drewry believes that maintaining older tonnage may become challenging amid rising drydocking expenses, rising environmental compliance costs and lowering fuel efficiency, gradually increasing the economic burden of operating ageing vessels. At the same time, tightening emissions regulations and growing carbon-intensity requirements could reduce the commercial viability of older vessels long before the end of their actual operating life.
 

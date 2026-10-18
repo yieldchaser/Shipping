@@ -69,4 +69,4 @@ Established in 2014 with offices in London, Athens, and Singapore, The Signal Gr
 
 Founded in 2000, AXSMarine is a global provider of sophisticated software solutions serving the international shipping industry, earning the trust of over 18,000 users worldwide. The company delivers unparalleled efficiency through its specialized Ship Chartering & Freight Solutions and deep Commodity Flows & Maritime Data Insights, reflecting a dedication to security, speed, and reliability in every tool designed.
 
-**Media Contact:**  Coenraad van Wyk | [c.vanwyk@thesignalgroup.com](mailto:c.vanwyk@thesignalgroup.com) | +44 7887 768361
+**Media Contact:**  Coenraad van Wyk | [c.vanwyk@thesignalgroup.com](mailto:c.vanwyk@thesignalgroup.com) |

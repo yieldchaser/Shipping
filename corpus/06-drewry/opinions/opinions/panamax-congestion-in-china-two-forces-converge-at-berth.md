@@ -4,7 +4,7 @@
 
 The queue of laden Panamaxes waiting to berth in China has elongated in recent weeks, driven by two overlapping forces. Inland, a wave of mine safety suspensions in Shanxi triggered a surge in seaborne coal imports that southern terminals are unable to absorb. Offshore, successive typhoons have slowed discharges. As a result of these two factors, congestion is rising at Chinese ports.
 
-1. Shanxi’s mines go quiet: A fatal mine explosion in late May at the Liushenyu mine in Shanxi province killed at least 82 people, making it the deadliest coal mining disaster in China in more than 16 years. This triggered massive safety crackdowns across Shanxi province, forcing widespread mine closures and production halts. By mid-June, the regulatory response led to the suspension of 148 mines; 97 had restarted, and 51 remained closed. Even those reopening are running 20 to 30% below earlier levels, as many had previously operated beyond capacity.
+1. Shanxiâ€™s mines go quiet: A fatal mine explosion in late May at the Liushenyu mine in Shanxi province killed at least 82 people, making it the deadliest coal mining disaster in China in more than 16 years. This triggered massive safety crackdowns across Shanxi province, forcing widespread mine closures and production halts. By mid-June, the regulatory response led to the suspension of 148 mines; 97 had restarted, and 51 remained closed. Even those reopening are running 20 to 30% below earlier levels, as many had previously operated beyond capacity.
 
 Safety inspections expanded beyond Shanxi into Shandong and Hubei, suggesting regulators are treating this as a systemic compliance failure rather than a site-specific incident. Following this, global coal shipments to China jumped in June as the country moved to offset weaker domestic supply and meet higher electricity demand. Coal now accounts for more than half of the laden Panamax cargo queuing at Chinese terminals.
 
@@ -18,7 +18,7 @@ Source:Drewry AIS, Press Finishing
 
 Panamax vessel deliveries are projected to reach a record high in 2026, with 15 mdwt of new capacity entering the market, up from roughly 11-12 mdwt in the previous year. On paper, that is a headwind for rates. In practice, congestion is absorbing effective supply before it reaches the market. Vessels tied up at anchor for Chinese coal terminals are not available to trade in the market.
 
-*  Scheduled delivery at start of year, YTD average rates.
+* Â Scheduled delivery at start of year, YTD average rates.
 
 Source:Drewry Maritime Research
 

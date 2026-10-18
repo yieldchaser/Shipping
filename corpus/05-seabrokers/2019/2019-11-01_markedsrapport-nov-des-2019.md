@@ -561,7 +561,7 @@ E-mail chartering@seabrokers.no
 
 ### SEABROKERS LTD - ABERDEEN
 Duty Telephone ++44 1224 747744 (24 Hrs)
-Duty Mobile ++44 7802 304129
+
 E-Mail chartering@seabrokers.co.uk
 
 ### SEABROKERS BRAZIL LTDA - RIO DE JANEIRO

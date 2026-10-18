@@ -546,7 +546,7 @@ Valaris has entered into a binding Restructuring Support Agreement and Backstop 
 | -------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------ |
 | **SEABROKERS HEAD OFFICE**                   | Forusbeen 78 - 4033 Stavanger - Norway | Tel: (+47) 51 80 00 00                                                    | Internet: www\.seabrokers-group.com  |
 | **SEABROKERS CHARTERING AS - STAVANGER**     |                                        | Duty Telephone ++47 51 815400 (24 Hrs)                                    | E-mail chartering\@seabrokers.no     |
-| **SEABROKERS LTD - ABERDEEN**                |                                        | Duty Telephone ++44 1224 747744 (24 Hrs)<br/>Duty Mobile ++44 7802 304129 | E-Mail chartering\@seabrokers.co.uk  |
+| **SEABROKERS LTD - ABERDEEN**                |                                        | Duty Telephone ++44 1224 747744 (24 Hrs)<br/> | E-Mail chartering\@seabrokers.co.uk  |
 | **SEABROKERS BRAZIL LTDA - RIO DE JANEIRO**  |                                        | Duty Telephone ++55 21 3505 4200 (24 Hrs)                                 | E-mail chartering\@seabrokers.com.br |
 | **SECURALIFT AS - STAVANGER**                |                                        | Telephone ++47 51 800000                                                  | E-mail stig\@seabrokers.no           |
 | **SEA SURVEILLANCE AS - BERGEN**             |                                        | Telephone ++47 55 136500                                                  | E-mail info\@seasurv.net             |

@@ -255,7 +255,7 @@ The Ulstein X-Bow vessels are outfitted with a frequency controlled electric pro
 Please contact Tord Stemland for more details:
 
 Email: snp@seabrokers.no  
-Mobile: +47 90205660
+
 
 **Despina & Larissa specs:**
 
