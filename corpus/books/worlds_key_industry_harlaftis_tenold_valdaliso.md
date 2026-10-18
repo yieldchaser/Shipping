@@ -107,21 +107,6 @@ A catalogue record for this book is available from the British Library.
 
 A catalog record for this book is available from the Library of Congress.
 
-10
-9
-8
-7
-6
-5
-4
-3
-2
-1
-21
-20
-19 18 17 16 15
-14
-13 12
 
 Softcover reprint of the hardcover 1st edition 2012 978-0-230-36914-6
 
@@ -2997,20 +2982,6 @@ ding 550,000 dwt were scrapped in the 1980s, and no new ones above
 kers bigger than the Berge Stahl (1986; 364,800 dwt) been constructed. It
 seems as if the tanker and bulker revolutions have come of age.
 
-30
-
-25
-
-20
-
-15
-
-'000 grt/gt
-
-10
-
-5
-
 **Figure 5.1** Average ship sizes, selected categories, 1930-2008 Note :  Until 1985, the lower limit is 100 grt, from 1986 onwards 300 grt. The definition of  bulk carriers is slightly different before and after 1986. OBO carriers were not included in the post-1985 averages of bulk carriers, but these fleets have been rapidly diminishing. Sources : Lloyd's Register, Statistical Tables/World Fleet Statistics  (-1985); ISL,  Shipping Statistics Yearbook (1986-).
 
 <!-- Page 86 -->
@@ -3228,20 +3199,6 @@ published empirical data are presented in Figure 5.2.
 
 **Figure 5.2** tells a fairly commonsense and straightforward story: both capital and other cargo-specific unit costs decrease with bigger ships.
 
-1.2
-
-1
-
-0.8
-
-0.6
-
-Relative cost
-
-0.4
-
-0.2
-
 **Figure 5.2** Scale economies: building and carrying costs per ton-mile, bulk  shipping Sources : Building cost: 'compensated gross tonnage coefficients' (based on actual building  costs) for bulk carriers of different size, agreed at the OECD in 1984, cf. Stopford (2002), p. 525. Total cost per ton-mile according to R.O. Goss and C.D. Jones (1971)  The economics of size in dry bulk carriers  (London: HMSO), table 3.
 
 <!-- Page 92 -->
@@ -3262,36 +3219,6 @@ be understood as a deterministic law: there was more than one scale
 across the different sectors of shipping.
 
 One of the most obvious constraints on ship sizes is the depth and width of navigable waters and ports. Coastal shipping has always depended on small vessels and will continue to do so as long as they enjoy scale economies vis-à-vis road transport. For bigger ships, the
-
-1600
-
-1800
-
-1400
-
-1200
-
-1000
-
-800
-
-Number of ships
-
-600
-
-400
-
-200
-
-0
-< 20
-20 < 30
-
-Size class, '000 DWT
-
-30 < 40 40 < 50 50 < 60 60 < 70 70 < 80 80 < 100 > 100
-
-1980 1995 2008
 
 **Figure 5.3** World container fleet, number of ships by size class, 1980, 1995 and 2008 Note : For 1980, size classes only according to dwt; for 2008 the lowest size class is <20 000  dwt. Source : ISL,  Shipping Statistics  Yearbook.
 
@@ -3398,38 +3325,6 @@ charge', being made for the latter. 38 In both cases, ships were still left
 with pilot, mooring and berth charges and - above all - with day costs
 in port, but the elimination of the cargo handling element produced a
 
-160
-
-140
-
-120
-
-100
-
-80
-
-60
-
-Fixed prices, US$ 2001:1-6
-
-40
-
-20
-
-0
-0
-2000
-4000
-6000
-
-Nautical miles
-
-8000 10000
-
-1998-2001 1986-1990 1963-1969 1953-1956
-
-1933-1938 1921-1927 1872-1880
-
 **Figure 5.4** Average projected grain freight at different distances, 1872-2001 Notes : The curves have been estimated by regressing freights per ton with distances between respective loading and unloading ports as the independent variable. Current values (pound sterling until 1965 and US$ thereafter) were deflated by respective wholesale (producer) price indices. Source : Kaukiainen (2006), pp. 53-4, Appendix Table 1a and 1b.
 
 <!-- Page 96 -->
@@ -3454,14 +3349,6 @@ according to the 'gross rate' principle, the decline after the 1950s
 becomes much more moderate. As Table 5.6 demonstrates, terminal
 costs clearly reduced more slowly than voyage costs. In the mid-
 1950s the former roughly equalled the cost of moving goods for some
-
-80
-
-60
-
-40
-
-20
 
 **Figure 5.5** Average projected coal freight at different distances, 1872-2001 Note : see Figure 5.4. Source : Kaukiainen (2006), pp. 53-4, Appendix Table 1a and 1b.
 
@@ -6755,32 +6642,6 @@ In addition to the monopoly power exercised by the main maritime union, other in
 
 In Australia the search for economies of scale in the use of container handling technology, combined with relatively low cargo volumes, has tended to lead to a concentrated market structure. In the mid-1950s there
 
-0
-
-1950 1952 1954 1956 1958 1960 1962 1964 1966 1968 1970 1972 1974 1976 1978 1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000 2004 2006 2008 2010
-
-5
-
-10
-
-15
-
-20
-
-25
-
-30
-
-35
-
-40
-
-45
-
-Per cent
-
-Years
-
 **Figure 10.2** Working days lost in stevedoring due to industrial disputes as a  percentage of the Australian total, 1950-2010 Note : 1997-2008 includes transport, storage and communications; 2008-10 includes trans- port, postal and warehousing. Source : Australian Bureau of Statistics, Industrial Disputes , Canberra, various issues.
 
 <!-- Page 185 -->
@@ -6929,58 +6790,6 @@ A drive to make full effective use of the technology available to
 increase productivity and improve ship turnaround times.
 Improved training and promotion of apprenticeship programmes.
 •
-
-0
-
-Jun-90
-
-Sep-91
-
-Dec-92
-
-Mar-94
-
-Jun-95
-
-Sep-96
-
-Dec-97
-
-Mar-99
-
-Jun-00
-
-Sep-01
-
-Dec-02
-
-Mar-04
-
-Jun-05
-
-Sep-06
-
-Dec-07
-
-Mar-09
-
-Jun-10
-
-5
-
-10
-
-15
-
-20
-
-25
-
-30
-
-35
-
-TEUs per crane hour
 
 **Figure 10.3** National container crane rates, June 1990-June 2010 Note : Data missing between September 1992 and September 1993.  Source : Bureau of Infrastructure, Transport and Regional Economics, Waterline , Canberra,  various issues.
 

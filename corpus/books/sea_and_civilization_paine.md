@@ -179,48 +179,26 @@ For distances at sea, I have used nautical miles.
 For land measures, I have used the metric system.
 By convention, distances on rivers in the United States are given in
 statute miles.
- 
-  Nautical mile   Kilometers   Statute miles
-  1
-  1.85
-  1.15
-  0.54
-  1
-  0.62
-  0.87
-  1.61
-  1
- 
- 
-  Meter   Foot  
-  1
-  3.28    
-  0.3
-  1
-   
- 
- 
-  Centimeter   Inch  
-  1
-  0.39    
-  2.54
-  1
+
+| Nautical mile | Kilometers | Statute miles |
+| --- | --- | --- |
+| 1 | 1.85 | 1.15 |
+| 0.54 | 1 | 0.62 |
+| 0.87 | 1.61 | 1 |
+
+| Meter | Foot |
+| --- | --- |
+| 1 | 3.28 |
+| 0.3 | 1 |
+
+| Centimeter | Inch |
+| --- | --- |
+| 1 | 0.39 |
+| 2.54 | 1 |
 
 ## Introduction
 
-I want to change the way you see the world. Specifically, I want to change the way you see the world map by focusing your attention on the blues that shade 70 percent of the image before you, and letting the earth tones fade. This shift in emphasis from land to water makes many trends and patterns of world history stand out in ways they simply cannot otherwise. Before the development of the locomotive in the nineteenth century, culture, commerce, contagion, and conflict generally moved faster by sea than by land. The opening of sea routes sometimes resulted in immediate transformation, but more often it laid the groundwork for what was later mistaken for sudden change. The best example of this is the trade networks of the Indian Ocean, the oldest of which were pioneered at least four thousand years ago by navigators sailing between Mesopotamia and the mouths of the Indus River. By the start of the common era two thousand years ago, the Indian subcontinent was a point of departure and destination for merchants and mendicants from across the Arabian Sea and the Bay of Bengal. This is all but unnoticed in the written record, which boasts of no figure comparable to a Gilgamesh or Odysseus, and despite a growing body of
-
-archaeological
-
-evidence,
-
-these
-
-undertakings
-
-remain
-
-largely unrecognized. As a result, the later arrival in Southeast Asia of Muslim traders from the Indian subcontinent and Southwest Asia, of Chinese merchants of various faiths, and of Portuguese Christians seem like so many historical surprises. Only the last were absolute newcomers to the Monsoon Seas that stretch from the shores of East Africa to the coasts of Korea and Japan. The others were heirs to ancient, interlinked traditions of seafaring and trade that long ago connected the shores of East Africa with those of Northeast Asia. This book shows many similar examples of maritime regions that were quietly exploited before events conspired to thrust them into the historical limelight.
+I want to change the way you see the world. Specifically, I want to change the way you see the world map by focusing your attention on the blues that shade 70 percent of the image before you, and letting the earth tones fade. This shift in emphasis from land to water makes many trends and patterns of world history stand out in ways they simply cannot otherwise. Before the development of the locomotive in the nineteenth century, culture, commerce, contagion, and conflict generally moved faster by sea than by land. The opening of sea routes sometimes resulted in immediate transformation, but more often it laid the groundwork for what was later mistaken for sudden change. The best example of this is the trade networks of the Indian Ocean, the oldest of which were pioneered at least four thousand years ago by navigators sailing between Mesopotamia and the mouths of the Indus River. By the start of the common era two thousand years ago, the Indian subcontinent was a point of departure and destination for merchants and mendicants from across the Arabian Sea and the Bay of Bengal. This is all but unnoticed in the written record, which boasts of no figure comparable to a Gilgamesh or Odysseus, and despite a growing body of archaeological evidence, these undertakings remain largely unrecognized. As a result, the later arrival in Southeast Asia of Muslim traders from the Indian subcontinent and Southwest Asia, of Chinese merchants of various faiths, and of Portuguese Christians seem like so many historical surprises. Only the last were absolute newcomers to the Monsoon Seas that stretch from the shores of East Africa to the coasts of Korea and Japan. The others were heirs to ancient, interlinked traditions of seafaring and trade that long ago connected the shores of East Africa with those of Northeast Asia. This book shows many similar examples of maritime regions that were quietly exploited before events conspired to thrust them into the historical limelight.
 
 Two questions merit consideration before taking on a maritime history of the world as either writer or reader: What is maritime history? and What is world history? The answers to both have as much to do with perspective as with subject matter. World history involves the synthetic investigation of complex interactions between people of distinct backgrounds and orientations. It therefore transcends historians' more traditional focus on politically, religiously, or culturally distinct communities seen primarily in their own terms at a local, national, or regional level. As a subject of interdisciplinary and interregional inquiry, maritime history is a branch of world history that covers obvious topics like shipbuilding, maritime trade, oceanic exploration, human migration, and naval history. Considered as a perspective, however, the premise of maritime history is that the study of events that take place on or in relation to the water offers unique insights into human affairs. The maritime historian therefore draws on such disciplines as the arts, religion, language, the law, and political economy.
 
@@ -300,23 +278,7 @@ That people were able to make so many minute landfalls again and again was due t
 
 But locating land at a distance is not the same as purposefully navigating from one island to another, which the sailors of Oceania accomplished by observation of both the environment and the heavens. Their approach to celestial navigation requires memorizing "the direction of every known island from every other one." An island's bearing relative to another is determined by the rising or setting star under which the island lies relative to the observer. When sailing between two islands, a third is chosen as the etak, or reference island. The navigator knows the stars under which the etak lies in relation to the islands of departure and destination, as well as the stars under which the etak lies at various stages of the passage between them. Thus a passage is broken into a series of etak stages. Using etak depends on knowing how all known islands are related to one another with respect to different stars, so a navigator sailing between, for example, the Caroline Islands of Woleai and Olimarao (117 miles apart) would use Faraulep (70 miles to the north) as the etak; but when sailing from Olimarao to Faraulep, Woleai would be the etak.
 
-Sailors in different areas of the Pacific tended to apply different methods of traditional navigation. Among the few remaining practitioners today, Marshall Islanders pay most attention to ocean swells, while sailors in the Federated States of Micronesia rely more on the rising and setting of stars. Starting in the 1970s, researchers began interviewing and sailing with the last adepts of traditional navigation to learn their secrets and determine whether these were reliable enough for the sorts of voyages necessary to maintain contact between islands separated by many hundreds of miles of open water. In 1976, the Polynesian Voyaging Society built the Hokule'a, a double canoe rigged with claw sails, which sailed from Hawaii via the Tuamotus to Tahiti, about twenty-four hundred miles. Mau Piailug, a wayfinder from Satawal (an island of about four square kilometers) in the Carolines, navigated the Hokule'a across the northeast trade winds, the equator, and then into the southeast trades before they made Tahiti, thirtyfour days out from Maui. In 1985, a Hawaiian student of Piailug's named Nainoa Thompson navigated the Hokule'a on an expedition that covered many of the old routes within Polynesia--sixteen thousand miles' worth-- between the Cook Islands, New Zealand, Tonga, Samoa, Tahiti, and the Tuamotus. In 1999, the Polynesian triangle was closed with a voyage from Hawaii to Easter Island via the Marquesas. The successful completion of these voyages, among others, proved that early sailors relying on an orally transmitted body of navigational knowledge were able to explore the farflung islands of the Pacific methodically and deliberately, and that given vessels of adequate size and speed they could easily transport the people and
-
-goods
-
-necessary
-
-to
-
-populate
-
-these
-
-islands
-
-and
-
-maintain communications between them.
+Sailors in different areas of the Pacific tended to apply different methods of traditional navigation. Among the few remaining practitioners today, Marshall Islanders pay most attention to ocean swells, while sailors in the Federated States of Micronesia rely more on the rising and setting of stars. Starting in the 1970s, researchers began interviewing and sailing with the last adepts of traditional navigation to learn their secrets and determine whether these were reliable enough for the sorts of voyages necessary to maintain contact between islands separated by many hundreds of miles of open water. In 1976, the Polynesian Voyaging Society built the Hokule'a, a double canoe rigged with claw sails, which sailed from Hawaii via the Tuamotus to Tahiti, about twenty-four hundred miles. Mau Piailug, a wayfinder from Satawal (an island of about four square kilometers) in the Carolines, navigated the Hokule'a across the northeast trade winds, the equator, and then into the southeast trades before they made Tahiti, thirtyfour days out from Maui. In 1985, a Hawaiian student of Piailug's named Nainoa Thompson navigated the Hokule'a on an expedition that covered many of the old routes within Polynesia--sixteen thousand miles' worth-- between the Cook Islands, New Zealand, Tonga, Samoa, Tahiti, and the Tuamotus. In 1999, the Polynesian triangle was closed with a voyage from Hawaii to Easter Island via the Marquesas. The successful completion of these voyages, among others, proved that early sailors relying on an orally transmitted body of navigational knowledge were able to explore the farflung islands of the Pacific methodically and deliberately, and that given vessels of adequate size and speed they could easily transport the people and goods necessary to populate these islands and maintain communications between them.
 
 By the time of her passage to Easter Island in 1999, the Hokule'a was the oldest of a fleet of at least six traditional deepwater craft that had been built in Hawaii, the Cook Islands, and New Zealand. Archaeological remains of ancient vessels in the Pacific are few and the people of Oceania had no written language, so our understanding of ancient boatbuilding practice depends on interpreting written descriptions and illustrations by European voyagers of the sixteenth century and later, in light of surviving practices. Vessels tended to be built of planks lashed together to achieve the desired hull shape after which frames or ribs were inserted to strengthen the hull, a process called shell-first construction. Single-hull vessels were used for fishing in Tonga, Tuamotu, and the Society Islands, and in New Zealand to carry warriors into battle, but these were not stable enough for ocean passages. Shipwrights compensated for this either by adding outriggers or by yoking two hulls with transverse beams on which they could erect a sheltered platform. Outriggers consist of two or more poles laid between the hull and a small piece of wood called a float on the outboard end, and they are found not only in Oceania but throughout Southeast Asia--where they were probably developed--as well as in the Indian Ocean.
 
@@ -970,19 +932,7 @@ The Ptolemaic kings who ruled Egypt for the three centuries after the death of A
 
 The elephant trade was a dangerous business on an unforgiving sea. In a grim account reminiscent of the Old Kingdom story "The Shipwrecked Sailor," Agatharchides describes the loss of an elephant ship south of Port Sudan, where the sea, being all shoals, is found to be not more than three fathoms [5.5 meters] in depth and extremely green in color.… The region presents no problems for oared ships as waves do not come in from afar, and it furnishes abundant fishing. But the elephant transports, which ride deep in the water because of their weight and are burdened with their gear, encounter great and terrible dangers in these areas. For running with sails set and often continuing through the night, because of strong winds, they are wrecked when they run aground on the rocks and submerged bars. The sailors are unable to disembark because generally the water is deeper than the height of a man. When they do not succeed in saving their ship with their poles, they throw overboard everything except the food. If they do not escape in this way, they fall into great despair because there is neither island nor headland nor another ship to be seen in the vicinity. For these places are completely inhospitable and rarely do people sail through them in ships. The great dangers notwithstanding, the Ptolemies pursued elephants for their ivory as well as for warfare, and as herds were killed off hunters moved ever southward, establishing new ports at Adulis (Massawa, Eritrea), and south of the Bab al-Mandeb. By the 240s BCE, Ptolemy III had a force of some three hundred war elephants, but the African breed proved no match for the Seleucid animals and the hunt for war elephants was abandoned by the end of the century.
 
-Even more important as a source of revenue for the imperial coffers was the luxury trade with southern Arabia and India, over which the Ptolemies exercised a tight monopoly. The nature of this trade is laid out by Agatharchides, who describes a mature network of trade down the Red Sea and across the western Indian Ocean. Once through the Bab al-Mandeb, ships may have called at the island of Socotra, about five hundred miles east of Aden, and the name of which comes from the Sanskrit Sukhataradvipa,
-
-meaning
-
-"fortunate"
-
-or
-
-"most
-
-pleasant"
-
-island. Agatharchides describes the bustle of Socotra where "one can see riding at anchor merchant vessels from neighboring countries. Most of those encountered there are from the port [Patala] Alexander built by the Indus River. Not a few, however, come from Persia and Carmania [southern Iran] and the whole nearby region." Later, the western terminus of this Indian Ocean trade was on the African mainland, at Malaô (Berbera, Somalia) or farther east on the Horn of Africa at a place called Mosyllon.
+Even more important as a source of revenue for the imperial coffers was the luxury trade with southern Arabia and India, over which the Ptolemies exercised a tight monopoly. The nature of this trade is laid out by Agatharchides, who describes a mature network of trade down the Red Sea and across the western Indian Ocean. Once through the Bab al-Mandeb, ships may have called at the island of Socotra, about five hundred miles east of Aden, and the name of which comes from the Sanskrit Sukhataradvipa, meaning "fortunate" or "most pleasant" island. Agatharchides describes the bustle of Socotra where "one can see riding at anchor merchant vessels from neighboring countries. Most of those encountered there are from the port [Patala] Alexander built by the Indus River. Not a few, however, come from Persia and Carmania [southern Iran] and the whole nearby region." Later, the western terminus of this Indian Ocean trade was on the African mainland, at Malaô (Berbera, Somalia) or farther east on the Horn of Africa at a place called Mosyllon.
 
 The period in which Agatharchides wrote was a turning point in the development of Indian Ocean trade. One theory holds that this is when a Ptolemaic sailor named Hippalus "discovered" the monsoon winds, although for indigenous sailors the monsoons were a fact of life and Nearchus had ascribed his delay in sailing from the Indus to seasonal winds almost two hundred years before. Government-sponsored trade between Egypt and India seems to have begun in the closing decades of the third century BCE, after a shipwrecked Indian merchant was rescued on the Red Sea and brought to Alexandria. Restored to health, "he promised to act as guide on the trip to India for the men who had been previously selected by the king." Eudoxus of Cyzicus was probably the captain chosen for this expedition. He is said to have returned from India with perfumes and precious stones only to have them confiscated by Ptolemy VII. Eudoxus made a second voyage under the auspices of Ptolemy's widow. "But on his return voyage he was driven south of his course by the winds to the south of Ethiopia, and being driven to certain places he conciliated the people by sharing with them bread, wine, and dried figs (for they had no share of such things), and in return therefore he received a supply of freshwater and the guidance of pilots, and he also made a list of some of their words."
 
@@ -1008,21 +958,7 @@ The western port with the strongest ties to the Indian Ocean was Alexandria, who
 
 That this was not just rhetorical gilding of Alexandria's reputation is borne out by a singular document (in Greek) of the second century detailing the substance of a loan arrangement between a lender in Muziris, India, and a borrower in need of funds to pay for a shipment to Alexandria. As was likely typical, the goods--in this case nard, ivory, and fabric--were pledged as security for the loan, which the borrower promised to repay to the lender or his agents at Alexandria. In the meantime, the shipper-borrower was responsible for all costs associated with getting the goods from Muziris to either Berenike or Myos Hormos, from there overland to Coptos, and then down the Nile to Alexandria, where all goods were subject to a 25 percent duty. The contract does not give the name or nationality of the borrower, lender, or agents, but the lender was probably a member of a "Roman" (but certainly Greek-speaking) expatriate community in Muziris, and his agents were probably colleagues from Egypt or elsewhere in the eastern Mediterranean. This agreement, along with Dio's description of Alexandria's cosmopolitanism and what we know of Indian Ocean trade generally, indicates the likelihood of other arrangements involving lenders and borrowers from India and elsewhere. Just as trade was not limited to citizens of the Roman Empire, it was not the exclusive preserve of men, either. A secondor third-century inscription tells of "Aelia Isidora and Aelia Olympias, distinguished matrons, naukleroi [shipowners or charterers] and merchants of the Red Sea." Unfortunately, we know nothing else of their business, except that they were rich enough to make a dedication in an Egyptian temple and that they employed a captain or business agent named Apollinarios, whose name appears after theirs.
 
-From the start of Rome's Indian Ocean trade, citizens of a certain stripe warned against the constant export of gold to pay for eastern goods. Pliny the Elder complained that Romans squandered their wealth on oriental luxuries, exporting fifty million sesterces per year to Asia (half this amount to India alone) for the purchase of beryl, pearls, ivory, silks, and pepper.b Pliny's sentiment was widespread, especially among conservatives who worried that Romans were becoming decadent. Augustus's successor, Tiberius, sought to curb the extravagance of the wealthiest and most ostentatious
-
-senators,
-
-whom
-
-he
-
-criticized
-
-for
-
-their
-
-"vast mansions … cosmopolitan hordes of slaves … ponderous gold and silver plate," and above all, "the feminine specialty--the export of our currency to foreign or enemy countries for precious stones." He considered imposing new sumptuary laws but succumbed to political pressure and in the end did nothing.
+From the start of Rome's Indian Ocean trade, citizens of a certain stripe warned against the constant export of gold to pay for eastern goods. Pliny the Elder complained that Romans squandered their wealth on oriental luxuries, exporting fifty million sesterces per year to Asia (half this amount to India alone) for the purchase of beryl, pearls, ivory, silks, and pepper.b Pliny's sentiment was widespread, especially among conservatives who worried that Romans were becoming decadent. Augustus's successor, Tiberius, sought to curb the extravagance of the wealthiest and most ostentatious senators, whom he criticized for their "vast mansions … cosmopolitan hordes of slaves … ponderous gold and silver plate," and above all, "the feminine specialty--the export of our currency to foreign or enemy countries for precious stones." He considered imposing new sumptuary laws but succumbed to political pressure and in the end did nothing.
 
 ### Southern Indian Maritime Trade in the
 
@@ -1034,37 +970,7 @@ This was a period of formative change in southern India, the economy of which de
 
 Ilanko Atikal's second-century Cilappatikaram, or The Tale of an Anklet, is a love story about Kannaki and Kovalan, both children of prosperous merchants from Puhar (also called Kaveripattinam), the seaport capital of the early Chola kingdom on the Bay of Bengal. Kannaki is a "Noble daughter of a prince among merchants"--a characterization reminiscent of Isaiah's description of the Tyrians, "whose merchants were princes." Puhar is "the city / that prospered from the wealth of the ocean," where "lofty banners seemed to proclaim:  / 'In this expanse of white sand is the wealth / Brought in ships by men who have voyaged / From their native lands to live here.' " Ilanko Atikal writes how at night the port glows with the lights of artisans, jewelers, fishmongers, peddlers from the interior, and "with the undying lamps of foreigners / Speaking strange tongues; and with the lamps / Of guards watching over piles of merchandise." Along the shore of her sheltered coves, "with the beacons lit up to guide ships / …were row / Upon row of boats overburdened with a profusion / Of fresh produce from the hills and seas."
 
-Kaveripattinam
-
-and
-
-its
-
-merchants
-
-are
-
-equally
-
-celebrated
-
-in Uruthirankannanar's fourth-century Pattinappalai, which presents a livelier accounting of trade than is found in most other sources. In addition to the fish,
-
-grain,
-
-pepper,
-
-and
-
-precious
-
-stones
-
-of
-
-southern
-
-India, Uruthirankannanar writes of "Swift, prancing steeds [brought] by sea in ships"--horses were a staple export from Persia and Arabia for hundreds of years--gold and gems from the Himalayas, sandalwood, pearls, and red coral from Southeast Asia, manufactured goods from Myanmar, and food from Sri Lanka. Uruthirankannanar is at pains to stress the ethical conduct of Kaveripattinam's seafarers and notes that "For others' goods they have / The same regard as for their own / In trade. Nor do they try to get / Too much in selling their own goods, / Nor give too little when they buy. / They set a fair price on all things." A passage in a sequel to the Cilappatikaram suggests that the people of Kaveripattinam were relative newcomers to fair dealing and that their initial prosperity may have grown from more roughand-tumble pursuits. "In the past, we have made feast, devouring the bodies of the survivors of the very many ships that have been wrecked in the sea not far from our shores. We have plundered all the goods they carried, their cargoes of precious aloes and sweet-scented sandalwood, their bales of cloth, their precious objects--gold, diamonds, and rubies--and other booty of shipwreck." The metamorphosis from plunder to productive trade seems to have been made within living memory, but it recalls a comparable transformation in attitudes toward piracy noted by Thucydides in the ancient Mediterranean and notable elsewhere throughout history. The existence of piracy presumes the presence of a lucrative trade, but it only flourishes in the absence of legitimate state power with the means to contain it and redirect pirates' entrepreneurship. The eradication of piracy therefore depends on the ability of states not just to overpower pirates, but to create lawful alternatives for gain. By this time, trade in southern India had passed a critical threshold that facilitated the growth of maritime commerce to the benefit of merchants and kings.
+Kaveripattinam and its merchants are equally celebrated in Uruthirankannanar's fourth-century Pattinappalai, which presents a livelier accounting of trade than is found in most other sources. In addition to the fish, grain, pepper, and precious stones of southern India, Uruthirankannanar writes of "Swift, prancing steeds [brought] by sea in ships"--horses were a staple export from Persia and Arabia for hundreds of years--gold and gems from the Himalayas, sandalwood, pearls, and red coral from Southeast Asia, manufactured goods from Myanmar, and food from Sri Lanka. Uruthirankannanar is at pains to stress the ethical conduct of Kaveripattinam's seafarers and notes that "For others' goods they have / The same regard as for their own / In trade. Nor do they try to get / Too much in selling their own goods, / Nor give too little when they buy. / They set a fair price on all things." A passage in a sequel to the Cilappatikaram suggests that the people of Kaveripattinam were relative newcomers to fair dealing and that their initial prosperity may have grown from more roughand-tumble pursuits. "In the past, we have made feast, devouring the bodies of the survivors of the very many ships that have been wrecked in the sea not far from our shores. We have plundered all the goods they carried, their cargoes of precious aloes and sweet-scented sandalwood, their bales of cloth, their precious objects--gold, diamonds, and rubies--and other booty of shipwreck." The metamorphosis from plunder to productive trade seems to have been made within living memory, but it recalls a comparable transformation in attitudes toward piracy noted by Thucydides in the ancient Mediterranean and notable elsewhere throughout history. The existence of piracy presumes the presence of a lucrative trade, but it only flourishes in the absence of legitimate state power with the means to contain it and redirect pirates' entrepreneurship. The eradication of piracy therefore depends on the ability of states not just to overpower pirates, but to create lawful alternatives for gain. By this time, trade in southern India had passed a critical threshold that facilitated the growth of maritime commerce to the benefit of merchants and kings.
 
 ### Sasanian-Byzantine Rivalry in the Indian
 
@@ -1108,19 +1014,7 @@ Southeast Asian navigators also introduced a number of boat construction techniq
 
 ### Continent and Archipelagoes in the East
 
-That China should have exercised an attraction on the maritime merchants of the Indian Ocean is not surprising, for it was home to one of the world's oldest and richest cultures. Traders from India to Rome knew of and traded with China (at least indirectly) in antiquity via the silk roads of Central Asia. With their continental origins, the Chinese approached the maritime world more circumspectly than did their contemporaries, but approach it they did. First they harnessed their webs of elaborately branching rivers through feats of hydraulic engineering that protected the land from flooding,
-
-improved
-
-agricultural
-
-capacity,
-
-and
-
-facilitated
-
-inland communication. They then began their annexation of southern China, the Land of the Hundred Yue whose Austronesian-speaking ancestors had launched themselves into Southeast Asia in the second millennium BCE. As a result of these efforts, before the start of the common era it was possible to travel via river and canal from Guangzhou in the southeast to the ancient capital of Chang'an in the northwest.
+That China should have exercised an attraction on the maritime merchants of the Indian Ocean is not surprising, for it was home to one of the world's oldest and richest cultures. Traders from India to Rome knew of and traded with China (at least indirectly) in antiquity via the silk roads of Central Asia. With their continental origins, the Chinese approached the maritime world more circumspectly than did their contemporaries, but approach it they did. First they harnessed their webs of elaborately branching rivers through feats of hydraulic engineering that protected the land from flooding, improved agricultural capacity, and facilitated inland communication. They then began their annexation of southern China, the Land of the Hundred Yue whose Austronesian-speaking ancestors had launched themselves into Southeast Asia in the second millennium BCE. As a result of these efforts, before the start of the common era it was possible to travel via river and canal from Guangzhou in the southeast to the ancient capital of Chang'an in the northwest.
 
 Although the exploitation and development of reliable water routes through the interior was crucial to the formation and maintenance of the Chinese state, the cultivation of domestic and foreign sea trade helped assure China's primacy among its maritime neighbors. If, as some claim, the catalyst for sea trade was the desire to circumvent the Parthian Empire, centered in modern Iran, and trade directly with Rome, it fell far short of expectations. But the effort brought riches to China and effected cultural and political change in Southeast Asia. Merchant mariners chasing the monsoons helped spur the development of agriculture--to generate food surpluses adequate to attract and feed these sojourners--and gave rise to the earliest recognizable states in Vietnam, Cambodia, Thailand, the Malay Peninsula, Sumatra, and Java. Foreign sailors and their ships dominated long-distance trade, but China was the unmoved mover of maritime commerce and contributed directly to the diffusion of tangible and intangible goods. Buddhism first reached China overland from India, but seafaring monks reinforced it there and established it from Sumatra and Vietnam to Korea and Japan.
 
@@ -1274,21 +1168,7 @@ It is doubtful that such weapons were used in the campaigns against Jiaozhi or t
 
 Maritime life in the medieval Mediterranean was shaped by the collapse of the Western Roman Empire, the rise to power of the Byzantine Empire and the Islamic caliphates, and the emergence of religious ideology in political conflict. Disputes over heresies undermined the cohesion of the Byzantine Empire in the seventh century and the resulting stresses are reflected in diminished activity that led to truncated or abandoned shipping routes, and fewer and smaller ships. In its weakened state, the empire was unable to prevent the expansion of Islam in the Levant, whose seafaring communities helped carry the new faith west. Muslim states' encouragement of industry, trade, and the arts revitalized existing port cities of North Africa and gave rise to new ones, and emirates of the eighth and ninth centuries ruled most of the major islands from Cyprus to the Balearics. In the tenth century, rivalries between Shiites and Sunnis contributed to the loss of Muslim territories to Christian princes. The outstanding long-term change, however, was the gradual decline of the maritime primacy of Egypt, the Levant, and the Aegean, which had constituted the fulcrum of the Mediterranean for millennia. In their place arose commercial and naval powers--Muslim giving way to Christian--that emerged from almost complete obscurity in the central and western Mediterranean.
 
-These developments were accompanied by a major transition in naval architecture as Mediterranean shipwrights abandoned shell-first for framefirst hull construction, a process more economical in material, labor, skill, and time and that ultimately gave rise to the ships that launched European mariners into the Atlantic and beyond. Interfaith conflict posed real obstacles to trade and led to the most intense period of Mediterranean naval warfare since the end of republican Rome. Even so, merchants' efforts to reconcile different religious and legal principles among Jews, Christians, and Muslims fostered the creation of novel forms of financing commerce, the spread of legal practices designed to protect merchant shippers and their investments, and the forging of compromise solutions to which all could subscribe, regardless of faith. Eventually, this nascent international law fostered
-
-further
-
-commercial
-
-expansion
-
-within
-
-and
-
-beyond
-
-the Mediterranean.
+These developments were accompanied by a major transition in naval architecture as Mediterranean shipwrights abandoned shell-first for framefirst hull construction, a process more economical in material, labor, skill, and time and that ultimately gave rise to the ships that launched European mariners into the Atlantic and beyond. Interfaith conflict posed real obstacles to trade and led to the most intense period of Mediterranean naval warfare since the end of republican Rome. Even so, merchants' efforts to reconcile different religious and legal principles among Jews, Christians, and Muslims fostered the creation of novel forms of financing commerce, the spread of legal practices designed to protect merchant shippers and their investments, and the forging of compromise solutions to which all could subscribe, regardless of faith. Eventually, this nascent international law fostered further commercial expansion within and beyond the Mediterranean.
 
 ### Through a Glass Darkly: The Serçe
 
@@ -1304,15 +1184,7 @@ The Serçe Limani ship probably measured 16 by 5 meters, with a depth in hold of
 
 When, where, and why shipwrights realized that one could erect a hull's frame around a centerline keel and then attach planks to the frames are questions not answered in any contemporary sources. Most modern discussion attributes this technological change to the wrenching economic transformations that roiled the Mediterranean between the third and eleventh centuries: the barbarian invasions and division of the Roman Empire; decades of plague in the sixth century; the conflict between the Byzantine Empire and the Muslim caliphates; and sectarian violence within Christianity and Islam. This was not an era of uninterrupted decline, and there were periods of dazzling brilliance and prosperity across the Mediterranean.
 
-Yet
-
-Rome's
-
-Pax
-
-Mediterraneana--an
-
-historically anomalous period in which there was almost no conflict at sea--was a thing of the past. With less state support of maritime commerce, the inherent uncertainties of sea trade discouraged investment in large, expensive ships, and it behooved merchant-owners of relatively modest means to run ships that were small and easy to build. These comparatively inexpensive framefirst hulls also gave smaller polities such as the Italian city-states the opportunity to develop niche trades in which they could compete against more established maritime powers.
+Yet Rome's Pax Mediterraneana--an historically anomalous period in which there was almost no conflict at sea--was a thing of the past. With less state support of maritime commerce, the inherent uncertainties of sea trade discouraged investment in large, expensive ships, and it behooved merchant-owners of relatively modest means to run ships that were small and easy to build. These comparatively inexpensive framefirst hulls also gave smaller polities such as the Italian city-states the opportunity to develop niche trades in which they could compete against more established maritime powers.
 
 Whereas the shell-first sequence requires considerable skill at all stages of construction, frame-first lends itself to a more hierarchical workforce; the most skilled shipwrights were responsible for erecting the keel, stemand sternposts, and frames; fixing the planks to a skeleton frame required less experience; and caulking the seams between planks entailed no knowledge of carpentry at all. Though frame-first hulls require more maintenance, this is offset by the fact that they can be built and repaired faster and at less expense, and hull forms can be duplicated more easily. In addition, plankon-frame construction requires less wood, which lowered the material cost of shipbuilding. Thus, the shift to frame-first construction was a technological revolution that resulted in a manufacturing one.
 
@@ -1424,21 +1296,7 @@ Archaeological and written records testify to the diversity of routes and goods 
 
 Too few records survive to give us more than the occasional snapshot of trade over the centuries. The most exhaustive single list of goods commonly handled is found in the tenth-century Arabic Treatise Concerning the Leasing of Ships, which reels off a series of commodities, essential and luxury foodstuffs, animals, textiles, raw materials, slaves, precious stones, gold, and silver. Essential foods include various grains and beans, oil, honey, vinegar, dates, olives, raisins, and salt. Among the luxuries are rice, edible lupine, "marmalades, concentrated juices, licit drinks, and that which is used for seasoning cheese, dried yogurt, rape, yogurt, butter, dried curd, and cottage cheese" as well as "fruits from trees  …  eaten for pleasure  …  walnuts, hazelnuts, pine nuts, and other dried and fresh fruits … fried meats, fish, pepper, vegetables, seeds, and eggs." These lists are complemented by the archaeological manifests from Yassi Ada, Serçe Limani, and other sites that have yielded an eclectic array of goods that reveals a more complex economic life than ordinarily encountered in written texts.
 
-The
-
-natural
-
-and
-
-man-made
-
-hazards
-
-of
-
-medieval
-
-seafaring notwithstanding, people from across a broad economic, religious, and geographic spectrum traveled by ship for any number of reasons. Merchants frequently accompanied their goods; ambassadors and other dignitaries shuttled between Constantinople and Venice or the Po valley, Mahdia and Palermo, or Ceuta and Seville; and church officials frequented the route between Rome and Constantinople. A major reason for nonmerchants to travel was to make pilgrimages or collect relics, although this was sometimes incidental to trade in ordinary goods. Venice's Basilica of St. Mark was erected to house his body after merchants stole it from the evangelist's church in Alexandria.
+The natural and man-made hazards of medieval seafaring notwithstanding, people from across a broad economic, religious, and geographic spectrum traveled by ship for any number of reasons. Merchants frequently accompanied their goods; ambassadors and other dignitaries shuttled between Constantinople and Venice or the Po valley, Mahdia and Palermo, or Ceuta and Seville; and church officials frequented the route between Rome and Constantinople. A major reason for nonmerchants to travel was to make pilgrimages or collect relics, although this was sometimes incidental to trade in ordinary goods. Venice's Basilica of St. Mark was erected to house his body after merchants stole it from the evangelist's church in Alexandria.
 
 Regardless of one's station, conditions aboard ship were onerous. Under Byzantine regulations, male passengers were allocated a space of 3 cubits by 1 cubit (1.1 square meters), while "Women on board are to have a space allowance of one cubit; and a boy … half a cubit." While the ship carried water for the ship's company, passengers were responsible for their own food, which they prepared themselves. Whether women were allowed to commingle with men in Byzantine ships is unknown, but Muslim practice encouraged the strict separation of the sexes by assigning men and women to different decks or at least ensuring that women had segregated toilets, "so that they are not exposed to view when they need to use them." There are also instances of women sailing aboard ships in military operations. When the caliph Uthman gave Muawiya permission to attack Cyprus, he said "If thou sailest with thy wife we allow thee to do so; otherwise not," on the assumption that Muawiya would not risk his wife's life at sea. She and possibly her sister sailed with the fleet, while the wife of another officer is said to have praised the efforts of a subordinate for saving their ship.
 
@@ -1902,17 +1760,7 @@ The relative ease with which the Italians were able to supply the Crusaders was 
 
 The Fatimids also suffered from having the only standing navy in the eastern Mediterranean. The crusader states had neither ships nor the manpower to crew them, but an endless stream of armed shipping brought merchants, pilgrims, and crusaders to the Holy Land for two centuries. The fleets seldom coordinated with each other, so the Fatimids faced not a unitary navy that it might destroy root and branch in a single campaign, but a kaleidoscope of fleets from not only Venice, Genoa, and Pisa, but also the Byzantine Empire, Spain, France, Sicily, and even England and Scandinavia.
 
-Given
-
-these
-
-geographic,
-
-strategic,
-
-and
-
-logistical disadvantages, that the Fatimid fleet remained remotely effective for as long as it did is remarkable.
+Given these geographic, strategic, and logistical disadvantages, that the Fatimid fleet remained remotely effective for as long as it did is remarkable.
 
 As if to accentuate the importance of maritime power to the crusader states, the first to fall to a resurgent Islam was the landlocked county of Edessa, the loss of which prompted the Second Crusade (1147-49). This was not limited to the Holy Land, but included campaigns on the Iberian Peninsula and against the pagan Wends, Slavs living in what is now northern Germany. The eastern crusade was a fiasco, and the Baltic campaign fared little better although it did initiate a century-long period of eastward expansion. But the pressure on al-Andalus was considerable. At its greatest extent, the Umayyad Caliphate of Córdoba reached as far north as the mountains of Asturias and León, and it was here that the Iberian Reconquista took shape under Alfonso VI, king of León and Castile and self-styled emperor of all Spain. The caliphate had lost its monopoly on power in al-Andalus at the beginning of the eleventh century, and Christian kings took advantage of divisions among the roughly thirty or so Muslim taifas that had sprung up in its place. The starting point of the Reconquista is generally taken to be Alfonso's capture of Toledo in 1085, news of which helped fuel the drive to reclaim the Holy Land from Muslim rule prior to the First Crusade. This also led the taifas to seek help from the North African Almoravids who defeated Alfonso in 1086 and consolidated their authority over al-Andalus, including the major ports from Cádiz to Almería and the Balearics. They were succeeded by a rival Berber dynasty, the Almohads, who had been active in the Atlantic Moroccan port of Salé and "who organized their fleet in the most perfect manner ever known and on the largest scale ever observed." By midcentury, the Almohads had advanced into al-Andalus, where they made their capital at Seville, and after consolidating their control of Almoravid North Africa they ousted the Normans from Mahdia, Sfax, and Tripoli (in Libya), which they had controlled for less than a decade.
 
@@ -2116,19 +1964,7 @@ Despite Aden's strong fortifications and its distance from the Persian Gulf, its
 
 Ramisht was no run-of-the-mill trader and he is renowned for his sumptuous endowments at Mecca: a gold waterspout, a silk covering for the Kaaba, and a hospice for Sufi pilgrims. According to an anonymous contemporary who knew the family, one of Ramisht's employees told me that when he came back from China twenty years before, his merchandise was worth half a million dinars; if that is the wealth of his clerk, what will he himself [Ramisht] be worth! It was Ramisht who removed the silver water-spout of the Ka'ba and replaced it with a golden one, and also covered the Ka'ba with Chinese cloth, the value of which cannot be estimated. In short, I have heard of no merchant in our time who has equaled Ramisht in wealth or prestige. Given the general state of trade in the Persian Gulf, Ramisht's wealth seems extraordinary: the value of the Kaaba covering was recorded as either four thousand or eighteen thousand dinars--at a time when a lower-middle-class family could live in Cairo on twenty-four dinars a year. But if Ramisht was more successful than most, he was not unique. The freedman of a governor of Aden who died in 1152 left an estate valued at 650,000 local dinars, 300,000 Egyptian dinars, seventeen hundred pounds of silver ornaments, and vast quantities of perfumes, spices, weapons, and other merchandise; there is no record of what the governor himself was worth.
 
-Notwithstanding the benefits to the state of a prosperous trade, later Egyptian rulers seem to have viewed successful merchants in the India trade as a threat rather than an asset. The Mamluks were especially quick to undercut anyone they suspected of amassing excessive influence. As a result, the more institutionalized nature of the later karim may have evolved to protect merchants not from pirates as much as from the caprice of political rulers. Perhaps the most outrageous of these was al-Malik alMansur, the first Rasulid sultan of Yemen, who notoriously cheated merchants by impounding the pepper they imported and then forcing them to repurchase it at a profit of 50 percent for himself. He further decreed that when he made purchases from the merchants, a buhar should measure 170 kilograms, but that when he sold, it should be only 100 kilos. Although their actions were no less arbitrary, not all rulers acted against merchants' interests, and some went so far as to exempt a portion of merchants' import duties. The benefits of such largesse to the port, and therefore the sultanate, were
-
-obvious.
-
-A
-
-fourteenth-century
-
-Rasulid
-
-sultan
-
-"dispensed unaccustomed justice" by conferring honors on the maritime merchants of Aden and abolishing many of their taxes, with the result that "the merchants began to tell to every part on land or sea of his good conduct and his great liberality."
+Notwithstanding the benefits to the state of a prosperous trade, later Egyptian rulers seem to have viewed successful merchants in the India trade as a threat rather than an asset. The Mamluks were especially quick to undercut anyone they suspected of amassing excessive influence. As a result, the more institutionalized nature of the later karim may have evolved to protect merchants not from pirates as much as from the caprice of political rulers. Perhaps the most outrageous of these was al-Malik alMansur, the first Rasulid sultan of Yemen, who notoriously cheated merchants by impounding the pepper they imported and then forcing them to repurchase it at a profit of 50 percent for himself. He further decreed that when he made purchases from the merchants, a buhar should measure 170 kilograms, but that when he sold, it should be only 100 kilos. Although their actions were no less arbitrary, not all rulers acted against merchants' interests, and some went so far as to exempt a portion of merchants' import duties. The benefits of such largesse to the port, and therefore the sultanate, were obvious. A fourteenth-century Rasulid sultan "dispensed unaccustomed justice" by conferring honors on the maritime merchants of Aden and abolishing many of their taxes, with the result that "the merchants began to tell to every part on land or sea of his good conduct and his great liberality."
 
 Compared with the uncertainties of conducting trade in the lands of their coreligionists, Muslim merchants seem to have had a more stable and satisfying reception on the coasts of the Indian subcontinent. Contrary to a conventional narrative that stresses religious animosity between Hindus and Muslims, maritime enterprise in medieval India often transcended confessional divisions. A number of stories accounting for good intercommunal relations have little to do with business per se. According to one inscription from the turn of the eleventh century, a Muslim merchant saved a Hindu king from shipwreck near Goa. In acknowledgment of this act of charity, his grandson was made a regional administrator and allowed to found a mosque at Goa, the upkeep of which was paid for by duties collected in the port. Other inscriptions reveal that Hindu rulers from the Konkan Coast routinely made the pilgrimage by sea to the Hindu shrine in the predominately Muslim port of Somnath in Gujarat. A later tradition holds that the Chalukya king of Gujarat, Jayasimha Siddharaja, founded Muslim communities there in the twelfth century, and several sects claim to have converted Siddharaja to Islam.
 
@@ -2198,19 +2034,7 @@ That those responsible for the discovery of the Canaries and, perhaps, Madeira w
 
 The European exploration and exploitation of the eastern Atlantic was due to any number of causes, and it is impossible to distinguish any one of them as of paramount importance. Newly discovered and translated classical geographies excited people's curiosity about the world. Literacy was expanding beyond the traditional confines of the church and ecclesiastical universities, which led to the growing secularization of vernacular literature like that of Dante, Boccaccio, and Chaucer. The latter two were especially drawn to, and drew from, the commercial life of their times. Boccaccio's father represented the Bardi bank of Florence and merchants throng the stories of the Decameron; Chaucer was the son of a wine merchant and his Canterbury Tales reveal a more than passing knowledge of business and trade. His description of the Shipman invites us to consider the mental map of the fourteenth-century English mariner, which spanned from North Africa to the Baltic: As for his skill in reckoning his tides, Currents and many another risk besides, Moons, harbours, pilots, he had such dispatch That none from Hull to Carthage was his match. Hardy he was, prudent in undertaking; His beard in many a tempest had its shaking, And he knew all the havens as they were From Gottland to the Cape of Finisterre, And every creek in Brittany and Spain; The barge he owned was called The Maudelayne.
 
-From a technological standpoint, literacy and improvements to navigation were accelerated by the invention of movable type, and the first printed sailing directions were published in Venice in 1490, only thirty-five years after Gutenberg's Bible. The practice of compiling information about sailing routes was nothing new, but whereas earlier guides tended to emphasize the commercial opportunities in different places, there was now a distinction between merchants' manuals with raw data about various commodities, their prices, and where to purchase them, and navigational instructions. Ancient works such as the Periplus of the Erythraean Sea sometimes combined this information in one text, but as new tools and methods for determining direction or fixing one's position developed in the early
-
-modern
-
-period,
-
-navigational
-
-information
-
-was
-
-increasingly differentiated.
+From a technological standpoint, literacy and improvements to navigation were accelerated by the invention of movable type, and the first printed sailing directions were published in Venice in 1490, only thirty-five years after Gutenberg's Bible. The practice of compiling information about sailing routes was nothing new, but whereas earlier guides tended to emphasize the commercial opportunities in different places, there was now a distinction between merchants' manuals with raw data about various commodities, their prices, and where to purchase them, and navigational instructions. Ancient works such as the Periplus of the Erythraean Sea sometimes combined this information in one text, but as new tools and methods for determining direction or fixing one's position developed in the early modern period, navigational information was increasingly differentiated.
 
 As to the actual practice of navigation, we can consider four distinct approaches: coastal piloting, dead reckoning, latitude sailing, and position fixing. Coastal piloting is in principle the easiest but in some respects the most dangerous type of navigation, for inshore hazards are more numerous than those encountered on the open sea. As the term suggests, the essence of coastal piloting is sailing more or less in sight of land and relying on a familiarity with its terrestrial and hydrographic features to get safely from place to place. Sailors everywhere learn from a young age the landmarks and seamarks of their own waters: the location of shoals, rock outcroppings, the best holding ground for anchors, the direction of the prevailing winds, the nature of tidal currents along the shore or in the approaches to a bay, harbor, or river mouth. Similarly, they have a familiarity with terrestrial features: bays, headlands, hills, stands of trees, or man-made structures. Knowing the depth of water is of great importance, but so, too, is a familiarity with the composition of the seabed, which differs from place to place. For this reason, sounding leads attached to long lines marked off at fixed intervals were fashioned with a hollow depression on the underside that could be smeared with tallow or wax; when the lead landed on the bottom, a sample stuck to the tallow. By gauging the depth and composition of the seabed--white sand in one place, crushed shells in another--one could approximate one's location even when well out of sight of land.
 
@@ -2506,19 +2330,7 @@ The losses sustained by the Armada and Philip's determination to focus his effor
 
 The seventeenth century represents the coming of age of the maritime powers of Atlantic Europe. Apart from the Iberian kingdoms, no one had been satisfied with the church-sanctioned division of the non-Christian world between Spain and Portugal, but it was not until the 1600s that Hugo Grotius articulated cogent and accessible arguments in favor of "the free sea." People and governments deployed this thesis in opportunistic and sometimes contradictory ways, but support for the doctrine encouraged broader participation in intercontinental trade. For the most part these were private initiatives, typically undertaken by joint-stock companies endowed with considerable latitude of action to defend their business and their flag. The Dutch in particular exercised armed force with the blessing of their home government to create an empire of "ledger and sword" that overlay far older networks of trade in which Asian merchants continued to predominate.
 
-Companies
-
-took
-
-on
-
-such
-
-sweeping
-
-responsibilities
-
-because, notwithstanding the baroque grandeur of their courts and their ships, European monarchs lacked navies capable of executing their will overseas. Even so, rivalries between England, the Dutch Republic, France, and Spain turned the English Channel and adjacent waters into the dark alley of seventeenth-century trade, where corsairs and privateers threatened all comers, and tricked-out ships of state occasionally swaggered out with their gilded entourages as a reminder of who was in charge. But the ineffectiveness of naval power is obvious from the staggering numbers of merchant ships captured in the course of five major conflicts in less than half a century. Between the first Anglo-Dutch War and the Nine Years' War (1652-97), the English are thought to have seized between 3,600 and 4,300 enemy merchantmen, while in the same period they lost between 5,500 and 6,300 of their own. Many of these vessels were ransomed back to their owners or recaptured.
+Companies took on such sweeping responsibilities because, notwithstanding the baroque grandeur of their courts and their ships, European monarchs lacked navies capable of executing their will overseas. Even so, rivalries between England, the Dutch Republic, France, and Spain turned the English Channel and adjacent waters into the dark alley of seventeenth-century trade, where corsairs and privateers threatened all comers, and tricked-out ships of state occasionally swaggered out with their gilded entourages as a reminder of who was in charge. But the ineffectiveness of naval power is obvious from the staggering numbers of merchant ships captured in the course of five major conflicts in less than half a century. Between the first Anglo-Dutch War and the Nine Years' War (1652-97), the English are thought to have seized between 3,600 and 4,300 enemy merchantmen, while in the same period they lost between 5,500 and 6,300 of their own. Many of these vessels were ransomed back to their owners or recaptured.
 
 Northern European warships rarely operated beyond European waters. Over the course of the seventeenth century, ships, fleets, and infrastructure grew in size and complexity, and innovative approaches to financing and administration were adopted. Combined with legal and diplomatic remedies, these gradually exerted a stabilizing influence on maritime trade, and smugglers and pirates working without political sanction found themselves increasingly marginalized. The apparent free-for-alls in the Caribbean and the Indian Ocean at the end of the century were less a sign of widening chaos than a demonstration of more effective navies, especially on the part of the English, who in the following century would become the world's preeminent naval power.
 
@@ -2616,17 +2428,7 @@ The English never lost interest in northern Virginia, as they called it, especia
 
 Privation and hardships notwithstanding, the early North American settlements attracted immigrants from England, France, the Netherlands, and Sweden. Puritan Boston was founded in 1629, and twenty-three thousand people reached New England before the English Civil War (1642- 46) ended the first wave of settlement. Although this is referred to as the Great Migration, over the course of the century New England attracted fewer immigrants than the Chesapeake and vastly more people migrated to the Caribbean islands than to all of mainland North America. Yet New England's population grew steadily thanks to natural increase and an astonishing safety record. In the 1630s, none of the 198 ships that made the ten-and-a-half-week crossing was lost at sea. The Puritans attributed their good fortune to divine providence, but it probably owed more to a sense of shared purpose and deliberate organization, and the relatively low incidence of the sorts of disease that plagued the majority of transatlantic immigrants afloat and ashore, especially in the tropics. New England colonists tended to travel as families, shared strong religious bonds, and worked for themselves rather than as indentured servants for exploitive masters.
 
-The founders of Massachusetts sought to create a Calvinist sanctuary for landed gentry and their servants, but New England's rocky soil forced them to take to the sea as fishermen and traders. The disruptions caused by the English Civil War "set our people on work to provide fish, clapboards, plank, etc., and to sow hemp and flax … and to look out to the West Indies for a trade," exporting wood and fish to the Caribbean sugar plantations. Bostonians captured a considerable share of the intercolonial and transatlantic trades. To England itself, North America supplied naval stores and shipbuilding timber. Although wood was plentiful in England, the cost of transporting it to the coast was prohibitive, and England's access to naval stores from the Baltic was at the mercy of European politics. A latesixteenth-century
-
-treatise
-
-"containing
-
-important
-
-inducements"
-
-for settlement in North America stressed that "It may also be a matter of great consequence for the good and securitie of England; that out of these Northerly regions we shall be able to furnish this realme of all manner of prouisions for our nauies; namely, Pitch, Rosen, Cables, Ropes, Masts and such like." A cargo of masts reached England in the 1630s, but the trade got its real start during the First Anglo-Dutch War, when the Danes, who were allied with the Dutch, closed the Baltic to English shipping.
+The founders of Massachusetts sought to create a Calvinist sanctuary for landed gentry and their servants, but New England's rocky soil forced them to take to the sea as fishermen and traders. The disruptions caused by the English Civil War "set our people on work to provide fish, clapboards, plank, etc., and to sow hemp and flax … and to look out to the West Indies for a trade," exporting wood and fish to the Caribbean sugar plantations. Bostonians captured a considerable share of the intercolonial and transatlantic trades. To England itself, North America supplied naval stores and shipbuilding timber. Although wood was plentiful in England, the cost of transporting it to the coast was prohibitive, and England's access to naval stores from the Baltic was at the mercy of European politics. A latesixteenth-century treatise "containing important inducements" for settlement in North America stressed that "It may also be a matter of great consequence for the good and securitie of England; that out of these Northerly regions we shall be able to furnish this realme of all manner of prouisions for our nauies; namely, Pitch, Rosen, Cables, Ropes, Masts and such like." A cargo of masts reached England in the 1630s, but the trade got its real start during the First Anglo-Dutch War, when the Danes, who were allied with the Dutch, closed the Baltic to English shipping.
 
 The importance of New England masts, the tallest of which measured thirty-five meters, has been likened to that of oil today, an apt comparison as is suggested in the relieved diary entry of naval administrator Samuel Pepys during the Second Anglo-Dutch War: There is also the very good news come, of seven New-England ships come home safe to Falmouth with masts for the King; which is a blessing mighty unexpected, and without which (if for nothing else) we must have failed the next year. But God be praised for thus much good fortune, and send us the continuance of his favour in other things. So to bed. New England was not the only source of naval stores, but for most of the seventeenth century, southern oak, pine, pitch, and tar from the Carolinas were invariably carried by New Englanders.
 
@@ -2826,23 +2628,7 @@ Although British and French navigators would reap most of the credit for opening
 
 By this time, English, French, and Spanish explorers had been busily sketching in the map of the Pacific for more than three decades. The wealth generated from international trade helped finance a wave of governmentbacked expeditions animated by a spirit of inquiry into natural phenomena and human society. Central to their mission was the resolution of two outstanding mysteries of the Pacific: whether the vast and assuredly rich southern continent, Terra Australis, existed in temperate latitudes of the southern hemisphere and whether there was a western outlet for a Northwest Passage. Our retrospective admiration for the cultural and scientific outcomes should not obscure the commercial and diplomatic imperatives that underlay them. As much as they owed to Enlightenment sensibilities, these voyages were motivated by imperial rivalry and a desire to expand trade. The potential of commercial advantage was essential to the success of exploration. In 1642, the VOC had commissioned Abel Jansen Tasman "to discover the partly known and still unreached South and Easternland [Australia] for the improvement, and increase of the Comp[an]y's general welfare." Sailing from Batavia, Tasman reached Tasmania, New Zealand, Tonga, and northern Australia, but "no riches or things of profit but only the said lands and apparently good passage [toward South America] were discovered." When a second voyage proved even less rewarding, the VOC summarily abandoned the effort.
 
-In
-
-1764-66,
-
-John
-
-Byron,
-
-a
-
-veteran
-
-of
-
-Anson's
-
-agonizing circumnavigation in the Centurion, was ordered to search for the western outlet of the Northwest Passage, the expectation being that such a discovery worked toward "the advancement of the Trade and Navigation" of Great Britain. Insisting that his ships were not up to the task, he opted to cross the Pacific. Keeping between 20°S and the equator, Byron believed that a continental landmass lay somewhere over the horizon, and his report forced the Admiralty to turn its exploratory focus to the South Pacific. Shortly after his return, Samuel Wallis was sent out in HMS Dolphin to find "Land or Islands of Great extent  …  in the Southern Hemisphere between Cape Horn and New Zeeland  …  in Climates adapted to the produce of Commodities useful in Commerce." The great accomplishment of this expedition was the European discovery of Tahiti, where the English spent six idyllic weeks recovering from scurvy and marveling at the people and climate.
+In 1764-66, John Byron, a veteran of Anson's agonizing circumnavigation in the Centurion, was ordered to search for the western outlet of the Northwest Passage, the expectation being that such a discovery worked toward "the advancement of the Trade and Navigation" of Great Britain. Insisting that his ships were not up to the task, he opted to cross the Pacific. Keeping between 20°S and the equator, Byron believed that a continental landmass lay somewhere over the horizon, and his report forced the Admiralty to turn its exploratory focus to the South Pacific. Shortly after his return, Samuel Wallis was sent out in HMS Dolphin to find "Land or Islands of Great extent  …  in the Southern Hemisphere between Cape Horn and New Zeeland  …  in Climates adapted to the produce of Commodities useful in Commerce." The great accomplishment of this expedition was the European discovery of Tahiti, where the English spent six idyllic weeks recovering from scurvy and marveling at the people and climate.
 
 By coincidence, two ships under Louis Antoine de Bougainville arrived at Tahiti a few months after the Dolphin's departure. Bougainville's expedition is notable for including the naturalist Philibert Commerson and his helpmate, Jeanne Baret, who disguised herself as a manservant. In addition to finding and taking possession of any places useful to trade and navigation, Bougainville was instructed to "examine the soils, trees and main productions [and] bring back samples and drawings of everything he may consider worthy of attention. He will note as far as is possible all the places that could serve as ports of call for ships and everything related to navigation." Reports about the island paradise of Tahiti from participants in the two expeditions had a profound effect on the European imagination. Here was a society, in Commerson's words, in "the state of natural man, born essentially good, free from all preconceptions, and following, without suspicion and without remorse, the gentle impulse of an instinct that is always sure because it has not yet degenerated into reason"--a manifestation of the concept of the "noble savage" then in vogue. As a greater familiarity with the realities of life in Oceania would show, these assumptions owed more to a loss of reason on the part of Europeans than to a lack of it among Polynesians.
 
@@ -2888,19 +2674,7 @@ Even without maps based on scientific projections, great progress was made in ch
 
 "Annihilation of Space and Time." So trumpeted a newspaper headline announcing the arrival of the first commercially viable transatlantic steamship in New York on April 22, 1838, barely three decades after the inauguration of regular steamship service on the Hudson River. In an age of the jumbo jet and Internet, it is difficult to appreciate the staggering advance represented by the arrival of the Sirius and, the following day, the Great Western, after transatlantic crossings of eighteen and fifteen days, respectively. The best times under sail were three weeks eastbound and twice that westbound. Soon, steamships would routinely make the crossing in less than two weeks, and by the turn of the century the fastest ships easily crossed in fewer than six days. Yet the invention of the marine engine had global implications far beyond what its sea-minded developers could have imagined. Initially, the greatest impact was on coastal and short sea trades, but steam technology did as much to open continents as to connect them: steam shipping gave rise to an era of canal digging and other improvements to inland navigation that transformed landscapes, created opportunities for industrial and economic development in continental interiors, facilitated the movement of goods and people across the land, and thereby changed the tempo of life for people worldwide.
 
-The development of steam navigation cannot be separated from the rise of industrialization generally. This led to realignments in trade that favored states with flexible financial markets upon which to draw for investment in capital-intensive
-
-machinery.
-
-It
-
-also
-
-produced
-
-tensions
-
-between industrialists, merchants, and shippers, at one end of a widening economic spectrum, and laborers and seamen at the other. The financial division between rich and poor was not absolute and industrialism fostered the growth of a professional middle class whose bourgeois values gave rise to a humanitarian impulse characterized by a belief in fairness and social welfare. In Great Britain, the superpower of the nineteenth century, the same merchant marine that facilitated the growth of British economic and industrial power was at once an emblem of much that was wrong with unfettered capitalism and a vector for the reforms that mitigated its worst excesses.
+The development of steam navigation cannot be separated from the rise of industrialization generally. This led to realignments in trade that favored states with flexible financial markets upon which to draw for investment in capital-intensive machinery. It also produced tensions between industrialists, merchants, and shippers, at one end of a widening economic spectrum, and laborers and seamen at the other. The financial division between rich and poor was not absolute and industrialism fostered the growth of a professional middle class whose bourgeois values gave rise to a humanitarian impulse characterized by a belief in fairness and social welfare. In Great Britain, the superpower of the nineteenth century, the same merchant marine that facilitated the growth of British economic and industrial power was at once an emblem of much that was wrong with unfettered capitalism and a vector for the reforms that mitigated its worst excesses.
 
 ### The Advent of Steam
 
@@ -2934,19 +2708,7 @@ The Arctic exceeded the requirements of the safety regulations set forth in the 
 
 The loss of life aboard the Arctic was horrendous by any standard. That she was the pride of the American merchant marine heightened the tragedy. But what fixed the infamy of the Arctic in the public imagination were reports of the crew's appalling behavior: sixty-one of the eighty-six survivors were members of the ship's company. The New York Daily Times observed, "One in view of their conduct, can scarcely help deploring their escape as much as the loss of the dead." More shocking still, the survivors included not one woman or child--not even Collins's wife and two children (Collins himself was not on board)--a fact memorialized by editorialists, ministers, and others of the day, most hauntingly Walt Whitman, who wrote Of the flower of the marine science of fifty generations  …  Of the steamship Arctic going down, Of the veil'd tableau--Women gather'd together on deck, pale, heroic, waiting the moment that draws so close--O the moment! A huge sob--A few bubbles--the white foam spirting up--and then the women gone, Sinking there, while the passionless wet flows on-- Despite ample precedent, no charges seem to have been filed against the Arctic's crew, but public indignation animated congressional opponents of the mail subsidy, who could now point to the fatal extravagance of its beneficiaries. As one congressman asserted, "If [the Collins Line] had spent in lifeboats for that vessel the money which they spent in gingerbread ornaments and decorations, there might have been hundreds of valuable lives saved."
 
-The tragedy was followed by widespread calls for reform. The fate of the sturdy Vesta (aptly named for the virgin goddess of hearth and home) made it clear that iron hulls with watertight compartments were more likely to survive a collision than uncompartmentalized wooden hulls. That western shipwrights
-
-did
-
-not
-
-incorporate
-
-compartmentalization
-
-into
-
-their construction principles prior to this seems inexplicable. The concept was known and employed in Chinese ships from a very early date, and in the eighteenth century Benjamin Franklin, among others, proposed building hulls in emulation of "the well known practice of the Chinese, to divide the hold of a great ship into a number of separate chambers by partitions tight caulked … so that, if a leak should spring in one of them, the others are not affected by it; and, though that chamber should fill to a level with the sea, it would not be sufficient to sink the vessel." Franklin believed that whatever additional cost this might entail would be offset by reduced insurance rates "and by a higher price taken of passengers, who would rather prefer going in such a vessel." In a pamphlet called Steam-Lanes Across the Atlantic (1855), superintendent of the U.S. Naval Observatory Lieutenant Matthew Fontaine Maury included these among a number of improvements suggested in the wake of the disaster: Life-boats and life-preservers, water-tight compartments, station-bills for passengers and crew to "save ship" were among the remedial plans, and among those preventive were fog signals, true compasses, rate of sailing, lookout, and lanes, or a double track for the steamers crossing this part of the Atlantic, viz, a lane for them to go in and another for them to come in.b
+The tragedy was followed by widespread calls for reform. The fate of the sturdy Vesta (aptly named for the virgin goddess of hearth and home) made it clear that iron hulls with watertight compartments were more likely to survive a collision than uncompartmentalized wooden hulls. That western shipwrights did not incorporate compartmentalization into their construction principles prior to this seems inexplicable. The concept was known and employed in Chinese ships from a very early date, and in the eighteenth century Benjamin Franklin, among others, proposed building hulls in emulation of "the well known practice of the Chinese, to divide the hold of a great ship into a number of separate chambers by partitions tight caulked … so that, if a leak should spring in one of them, the others are not affected by it; and, though that chamber should fill to a level with the sea, it would not be sufficient to sink the vessel." Franklin believed that whatever additional cost this might entail would be offset by reduced insurance rates "and by a higher price taken of passengers, who would rather prefer going in such a vessel." In a pamphlet called Steam-Lanes Across the Atlantic (1855), superintendent of the U.S. Naval Observatory Lieutenant Matthew Fontaine Maury included these among a number of improvements suggested in the wake of the disaster: Life-boats and life-preservers, water-tight compartments, station-bills for passengers and crew to "save ship" were among the remedial plans, and among those preventive were fog signals, true compasses, rate of sailing, lookout, and lanes, or a double track for the steamers crossing this part of the Atlantic, viz, a lane for them to go in and another for them to come in.b
 
 The last recommendation fit Maury's interests well. An analysis of Cunard and Collins Line logbooks showed that their ships sailed within a band about three hundred miles wide. After consulting the extensive oceanographic data held by his office, Maury recommended that westbound steamers keep to a northerly lane twenty to twenty-five miles wide, and that eastbound steamers use a more southerly lane of fifteen to twenty miles in width. These lanes would reduce the likelihood of steamers colliding with one another and lessen the likelihood of collision between steamers and sailing ships, whose "public-spirited ship-masters" were enjoined to avoid the steamer lanes to the extent possible. The New York Board of Underwriters published Maury's recommendations and he mapped the steam lanes in that year's edition of his Explanations and Sailing Directions to Accompany the Wind and Current Charts. Although the U.S. Navy and many shipping lines required that their captains follow these lanes, compliance was voluntary. The benefits, however, could not be ignored and several subsequent accidents were attributed to ships not being in their proper lane. In 1889, the steam lane issue was debated at a conference in Washington convened "to decide the momentous question of fixed routes for steamers crossing the Atlantic," but Maury's plan was not adopted until a meeting of the International Maritime Conference in 1900, forty-six years after the Arctic's loss.
 
@@ -3062,19 +2824,7 @@ The Nantucket whale fishery contracted severely during and after the American Re
 
 The mass production of kerosene had begun with the discovery of oil in Pennsylvania in 1859, and until the end of the century it was the most important product refined from oil. In addition to lighting, it was used in early internal combustion engines, although the preferred fuel was gasoline, a by-product of kerosene cracking. The birth of the oil age can be dated to 1885, when Karl Benz registered a patent for his Motorwagen. Within decades, the automobile had changed human society beyond all recognition, with enormous implications for the history of maritime trade, naval warfare, and geopolitics. Given the great distances between industrialized Europe and North America and the world's major petroleum reserves--at the time found only in the Caspian Sea and the continental United States--the personal car could hardly have succeeded without the development of the oceangoing oil tanker, the prototype of which, the Glückauf, was coincidentally launched the year Benz received his patent.
 
-The United States had been a major exporter of kerosene, which was known as case oil because it was usually shipped in five-gallon cans carried two to a case. This was costly and inefficient, but carrying oil in bulk was problematic. Wooden barrels weighed too much, and explosive fumes gathered in the spaces between the barrels. One solution was to pump oil directly into a ship's hull, an approach pioneered by Caspian Sea oilman Ludwig Nobel, brother of Alfred Nobel of prize fame. In 1878, Nobel built the tanker Zoroaster to carry oil from Baku to Astrakhan and up the Volga River for distribution into Europe. (Zoroaster, or Zarathustra, was the prophet of the ancient Persian religion whose cult was associated with fire altars built around natural petroleum seeps.) In 1885 Wilhelm A. Riedemann contracted the British firm of Armstrong, Mitchell & Co. to build the Glückauf, a hundred-meter auxiliary barkentine whose hull was divided into eight tanks separated by bulkheads. On her maiden voyage she carried "910,221 gallons petroleum in bulk," or 21,672 barrels, a measure held over from the whaling trade. Resistance to the new tankers came mostly
-
-from
-
-longshoremen
-
-concerned
-
-for
-
-their
-
-safety--German dockworkers nicknamed the Glückauf (good luck), the Fliegauf (blow up) --and worried that the less labor-intensive method of loading the ships threatened their livelihood. Nonetheless the design was technically sound and enormously profitable and by 1906, 99 percent of the world's oil was carried in tankers.
+The United States had been a major exporter of kerosene, which was known as case oil because it was usually shipped in five-gallon cans carried two to a case. This was costly and inefficient, but carrying oil in bulk was problematic. Wooden barrels weighed too much, and explosive fumes gathered in the spaces between the barrels. One solution was to pump oil directly into a ship's hull, an approach pioneered by Caspian Sea oilman Ludwig Nobel, brother of Alfred Nobel of prize fame. In 1878, Nobel built the tanker Zoroaster to carry oil from Baku to Astrakhan and up the Volga River for distribution into Europe. (Zoroaster, or Zarathustra, was the prophet of the ancient Persian religion whose cult was associated with fire altars built around natural petroleum seeps.) In 1885 Wilhelm A. Riedemann contracted the British firm of Armstrong, Mitchell & Co. to build the Glückauf, a hundred-meter auxiliary barkentine whose hull was divided into eight tanks separated by bulkheads. On her maiden voyage she carried "910,221 gallons petroleum in bulk," or 21,672 barrels, a measure held over from the whaling trade. Resistance to the new tankers came mostly from longshoremen concerned for their safety--German dockworkers nicknamed the Glückauf (good luck), the Fliegauf (blow up) --and worried that the less labor-intensive method of loading the ships threatened their livelihood. Nonetheless the design was technically sound and enormously profitable and by 1906, 99 percent of the world's oil was carried in tankers.
 
 As a fuel, oil had enormous advantages over coal: it burned more efficiently and therefore took up less space, and it was easier and cleaner to handle. In 1912, newly appointed First Lord of the Admiralty Winston Churchill ordered the construction of five oil-fueled Queen Elizabeth-class battleships. To ensure that the navy not be caught short during the pending conflict with Germany, in June 1914 Churchill negotiated for the Admiralty a 51 percent share in the Anglo-Persian Oil Company (the forerunner of BP), which had begun exporting oil through Abadan three years before. Many questioned the wisdom of abandoning one of Britain's great industrial advantages, namely its native coal, the best in the world for powering marine engines, but the switch to oil was based entirely on military considerations and during World War I oil-burning British ships had significantly better operational endurance than their coal-fired counterparts in the German fleet. But there was no shortage of British coal, which accounted for three-quarters of the eighty million tons of marine coal consumed annually--the bulk of it by British ships--and by the end of World War I, Britain maintained 181 overseas coaling stations.
 
@@ -7399,17 +7149,7 @@ Intelligence, 1882-1892: A Technological Perspective." Journal of
 
 Military History 62 (1998): 291-313.
 
-Anglo-Japanese
-
-Alliance.
-
-Jan.
-
-30,
-
-1902.
-
-http://www.jacar.go.jp/nichiro/uk-japan.htm.
+Anglo-Japanese Alliance. Jan. 30, 1902. http://www.jacar.go.jp/nichiro/uk-japan.htm.
 
 Anna Comnena. The Alexiad. Trans. E. R. A. Sewter. Harmondsworth:
 
@@ -7573,19 +7313,7 @@ Barr, Pat. The Deer Cry Pavilion; A Story of Westerners in Japan,
 
 Bartholomew, Michael. "James Lind and Scurvy: A Revaluation."
 
-Journal
-
-for
-
-Maritime
-
-Research,
-
-Jan.
-
-2002.
-
-http://www.jmr.nmm.ac.uk/server/show/conJmrArticle.3.
+Journal for Maritime Research, Jan. 2002. http://www.jmr.nmm.ac.uk/server/show/conJmrArticle.3.
 
 Bass, George F. "Bronze Age Shipwreck at Ulu Burun (Kas˛): 1984
 
@@ -7969,19 +7697,7 @@ Burckhardt, Carl J. Richelieu and His Age. 3 vols. New York: Harcourt
 
 Brace and World, 1940.
 
-Burningham,
-
-Nick.
-
-"The
-
-Borobudur
-
-Ship--Design
-
-Outline."
-
-www.borobudurshipexpedition.com/design-outline.htm (June 26,
+Burningham, Nick. "The Borobudur Ship--Design Outline." www.borobudurshipexpedition.com/design-outline.htm (June 26,
 
 2006).
 
@@ -8475,21 +8191,7 @@ Russian Primary Chronicle: Laurentian Text. Cambridge: Mediaeval
 
 Academy of America, 1953.
 
-Cruise
-
-Baltic.
-
-Cruise
-
-Baltic
-
-Status
-
-Report.
-
-2007.
-
-http://www.cruisebaltic.com/media(636,1033)/Cruise_Baltic_status_
+Cruise Baltic. Cruise Baltic Status Report. 2007. http://www.cruisebaltic.com/media(636,1033)/Cruise_Baltic_status_
 
 report_Jan_07.pdf.
 
@@ -8517,25 +8219,7 @@ New York: Walker, 2002.
 
 1500. New York: Oxford Univ. Press, 2001.
 
-Cust,
-
-Richard.
-
-Charles
-
-I:
-
-A
-
-Political
-
-Life.
-
-New
-
-York:
-
-Pearson/Longman, 2005.
+Cust, Richard. Charles I: A Political Life. New York: Pearson/Longman, 2005.
 
 Dalby, Michael T. "Court Politics in Late T'ang Times." In The
 
@@ -8613,21 +8297,7 @@ Woodbridge, UK: Boydell, 1999.
 
 De Witte, Hubert. "The Maritime Topography of Medieval Bruges." In
 
-Maritime Topography and the Medieval Town: Papers from the 5th
-
-International
-
-Conference
-
-on
-
-Waterfront
-
-Archaeology
-
-in
-
-Copenhagen, 14-16 May 1998, ed. by Jan Bill and Berthe L.
+Maritime Topography and the Medieval Town: Papers from the 5th International Conference on Waterfront Archaeology in Copenhagen, 14-16 May 1998, ed. by Jan Bill and Berthe L.
 
 Clausen. Copenhagen: Nationalmuseet, 1999.
 
@@ -8735,21 +8405,7 @@ Dotson, John E. "Fleet Operations in the First Genoese-Venetian War,
 
 Douglass, Frederick. The New National Era, Aug. 17, 1871.
 
-Doumas,
-
-Christos.
-
-Wall-Paintings
-
-of
-
-Thera.
-
-Athens:
-
-Thera
-
-Foundation, 1992.
+Doumas, Christos. Wall-Paintings of Thera. Athens: Thera Foundation, 1992.
 
 Drake, Francis, and Francis Fletcher. The World Encompassed. 1628.
 
@@ -9189,21 +8845,7 @@ Renaissance, ed. by John B. Hattendorf and Richard W. Unger, 217-
 
 32. Rochester, NY: Boydell, 2003.
 
-------. Navies and Nations: Warships, Navies, and State Building in
-
-Europe
-
-and
-
-America,
-
-1500-1860.
-
-Acta
-
-Universitatis
-
-Stockholmiensis. Stockholm Studies in History, 48. Stockholm:
+------. Navies and Nations: Warships, Navies, and State Building in Europe and America, 1500-1860. Acta Universitatis Stockholmiensis. Stockholm Studies in History, 48. Stockholm:
 
 Almqvist & Wiksell International, 1993.
 
@@ -9631,21 +9273,7 @@ Howe, Octavius T., and Frederick C. Matthews. American Clipper
 
 Ships, 1833-1858. 2 vols. Salem: Marine Research Society, 1927.
 
-Howse,
-
-Derek.
-
-"The
-
-Lunar-Distance
-
-Method
-
-of
-
-Measuring
-
-Longitude." In The Quest for Longitude, ed. by Andrewes, 150-61.
+Howse, Derek. "The Lunar-Distance Method of Measuring Longitude." In The Quest for Longitude, ed. by Andrewes, 150-61.
 
 Hsü, Immanuel C. Y. The Rise of Modern China. 4th ed. Oxford:
 
@@ -9717,15 +9345,7 @@ Centre, 2009.
 
 ------.
 
-"List
-
-of
-
-IMO
-
-Conventions."
-
-http://www.imo.org/About/Conventions/ListOfConventions/Pages/D
+"List of IMO Conventions." http://www.imo.org/About/Conventions/ListOfConventions/Pages/D
 
 efault.aspx.
 
@@ -9743,17 +9363,7 @@ Before the International Military Tribunal, Nuremberg. Vol. 17,
 
 Proceedings, 25 June 1946-8 July 1946. Nuremberg: n.p., 1948.
 
-International
-
-Whaling
-
-Commission.
-
-"Whale
-
-Sanctuaries."
-
-http://iwcoffice.org/conservation/sanctuaries.htm.
+International Whaling Commission. "Whale Sanctuaries." http://iwcoffice.org/conservation/sanctuaries.htm.
 
 Irwin, Geoffrey. The Prehistoric Exploration and Colonisation of the
 
@@ -9779,21 +9389,7 @@ De Jure Praedae (1604-1606)." Asian Journal of Social Science 31
 
 (2003): 511-48.
 
-Jackson,
-
-Richard
-
-P.
-
-"From
-
-Profit-Sailing
-
-to
-
-Wage-Sailing:
-
-Mediterranean Owner-Captains and Their Crews During the
+Jackson, Richard P. "From Profit-Sailing to Wage-Sailing: Mediterranean Owner-Captains and Their Crews During the
 
 Medieval Commercial Revolution." Journal of European Economic
 
@@ -10437,15 +10033,7 @@ Mahan, Alfred Thayer. The Influence of Sea Power upon History,
 
 1600-1783. 5th ed. 1894. Reprint, New York: Dover, 1987.
 
-------. "The United States Looking Outward." Atlantic Monthly 66
-
-(Dec.
-
-1809):
-
-816-24.
-
-http://www.theatlantic.com/doc/189012/mahan-outward.
+------. "The United States Looking Outward." Atlantic Monthly 66 (Dec. 1809): 816-24. http://www.theatlantic.com/doc/189012/mahan-outward.
 
 Major, John. "The Navy Plans for War." In In Peace and War:
 
@@ -10583,29 +10171,7 @@ Ocean Liner. New York: Norton, 2007.
 
 ------. The Only Way to Cross. New York: Macmillan, 1972.
 
-McCormick,
-
-Michael.
-
-Origins
-
-of
-
-the
-
-European
-
-Economy:
-
-Communications and Commerce,
-
-ad
-
-300-900.
-
-Cambridge:
-
-Cambridge Univ. Press, 2001.
+McCormick, Michael. Origins of the European Economy: Communications and Commerce, ad 300-900. Cambridge: Cambridge Univ. Press, 2001.
 
 McGhee, Robert. "Epilogue: Was There Continuity from Norse to
 
@@ -10855,15 +10421,7 @@ National Maritime Museum learning team. "Ships, Seafarers and Life
 
 at Sea." http://www.nmm.ac.uk/explore/sea-and-ships/facts/shipsand-seafarers/load-lines.
 
-National Research Council. Crew Size and Maritime Safety.
-
-Washington:
-
-National
-
-Academy,
-
-1990.
+National Research Council. Crew Size and Maritime Safety. Washington: National Academy, 1990.
 
 http://www.nap.edu/openbook.php?record_id=1620&page=R1.
 
@@ -11771,21 +11329,7 @@ Frank Salomon and Stuart B. Schwartz, 350-517. Cambridge:
 
 Cambridge Univ. Press, 1999.
 
-Sicking, Louis. "Amphibious Warfare in the Baltic: Holland, the Hansa
-
-and
-
-the
-
-Habsburgs
-
-(Fourteenth-Sixteenth
-
-Centuries)."
-
-In
-
-Amphibious Warfare, 1000-1700: Commerce, State Formation and
+Sicking, Louis. "Amphibious Warfare in the Baltic: Holland, the Hansa and the Habsburgs (Fourteenth-Sixteenth Centuries)." In Amphibious Warfare, 1000-1700: Commerce, State Formation and
 
 European Expansion, ed. by Mark Charles Fissel and D. J. B. Trim,
 
@@ -11841,21 +11385,7 @@ Smith, Bernard. European Vision and the South Pacific. New Haven:
 
 Yale University Press, 1985.
 
-Smith,
-
-Crosbie,
-
-Ian
-
-Higginson,
-
-and
-
-Phillip
-
-Wolstenholme.
-
-" 'Imitations of God's Own Works' : Making Trustworthy the Ocean
+Smith, Crosbie, Ian Higginson, and Phillip Wolstenholme. " 'Imitations of God's Own Works' : Making Trustworthy the Ocean
 
 Steamship." History of Science 41 (2003): 379-426.
 
@@ -12053,19 +11583,7 @@ Society and History 37:4. (1995): 750-80.
 
 Suetonius.
 
-The
-
-Twelve
-
-Caesars.
-
-Trans.
-
-Robert
-
-Graves.
-
-Harmondsworth: Penguin, 1957.
+The Twelve Caesars. Trans. Robert Graves. Harmondsworth: Penguin, 1957.
 
 Sugden, John. Sir Francis Drake. New York: Simon & Schuster, 1990.
 
@@ -12379,19 +11897,7 @@ Maritime Transport, 2009. New York: United Nations, 2009.
 
 http://www.unctad.org/en/docs/rmt2009_en.pdf.
 
-U.S. Navy, U.S. Coast Guard, and U.S. Marine Corps. "A Cooperative
-
-Strategy
-
-for
-
-21st
-
-Century
-
-Seapower."
-
-http://www.navy.mil/maritime/Maritimestrategy.pdf.
+U.S. Navy, U.S. Coast Guard, and U.S. Marine Corps. "A Cooperative Strategy for 21st Century Seapower." http://www.navy.mil/maritime/Maritimestrategy.pdf.
 
 U.S. Senate. Report of the Select Committee of the Senate of the United
 
@@ -12651,21 +12157,7 @@ Geography of the Malay Peninsula Before a.d. 1500. Kuala
 
 Lumpur: Univ. of Malaya Press, 1961.
 
-Wheeler,
-
-Mortimer.
-
-Rome
-
-Beyond
-
-the
-
-Imperial
-
-Frontiers.
-
-Harmondsworth: Penguin, 1954.
+Wheeler, Mortimer. Rome Beyond the Imperial Frontiers. Harmondsworth: Penguin, 1954.
 
 Wheeler, Ryan J., et al. "Archaic Period Canoes from Newnans Lake,
 
@@ -12771,23 +12263,7 @@ pt. 2., ed. by John King Fairbank, Denis C. Twitchett, and Frederick
 
 W. Mote, 333-75. Cambridge: Cambridge Univ. Press, 1998.
 
-Wilson, Woodrow. "President Woodrow Wilson's Fourteen Points, 8
-
-January,
-
-1918."
-
-Avalon
-
-Project,
-
-Yale
-
-Law
-
-School.
-
-http://avalon.law.yale.edu/20th_century/wilson14.asp.
+Wilson, Woodrow. "President Woodrow Wilson's Fourteen Points, 8 January, 1918." Avalon Project, Yale Law School. http://avalon.law.yale.edu/20th_century/wilson14.asp.
 
 Winius, George D. "The Enterprise Focused on India: The Work of D.
 
@@ -12913,23 +12389,7 @@ Imperial Policy, 31 bc-ad 305. New York: Routledge, 2001.
 
 Yu Huan. The Peoples of the West: From the Weilue, a Third Century
 
-Chinese Account Composed between 239 and 265 ce. Draft English
-
-translation
-
-by
-
-John
-
-E.
-
-Hill,
-
-Sept.
-
-2004.
-
-http://depts.washington.edu/uwch/silkroad/texts/weilue/weilue.html.
+Chinese Account Composed between 239 and 265 ce. Draft English translation by John E. Hill, Sept. 2004. http://depts.washington.edu/uwch/silkroad/texts/weilue/weilue.html.
 
 Yun, Lisa, and Ricardo René Laremont. "Chinese Coolies and African
 

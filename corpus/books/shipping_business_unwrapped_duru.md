@@ -892,31 +892,7 @@ explanatory power of seaborne trade is very low since the seaborne trade
 volume for various cargoes has had a steadily increasing trend with no significant decline except for years when there was a market collapse (e.g. 2008)
 (Figure 2.3).
 
-40.00
-
-25.00
-
-10.00
-
 > **Figure 2.3** World seaborne trade volume for various cargoes
-
-1999
-
-World Seaborne Dry Bulk Trade Million Tonnes
-
-1996
-
-1993
-
-1900
-
-1990
-
-3,000.00
-
-0.00
-
-Million Tonnes
 
 It is common to find a high level of correlation between long-term data sets
 since many of them are either positively or negatively trended. In a recent
@@ -4094,40 +4070,6 @@ and other unexpected operations events. When spreadsheets look perfect, they
 are self-serving and confirmatory instruments that just rationalize our intentions. It does not show what we should be looking for. In addition, if our
 actions are not based on the plan, then the spreadsheets are worth nothing.
 
-140
-
-25
-
-A
-B
-
-20
-
-A
-B
-
-120
-
-15
-
-NetCashFlow
-
-100
-
-NPV
-
-10
-
-80
-
-5
-
-60
-
-0
-
-1
-
 > **Figure 21.2** The net cash flow diagram of project A and project B (a) and their NPV
 
 results (b)
@@ -4213,91 +4155,7 @@ Since a Treasury bill does not earn much, lenders tend to increase their credit
 businesses and take on more risks to ensure their return objectives. In addition to that, regional or national banks can find cheaper, syndicated funds
 from global lenders and can sell these funds to local customers at a premium.
 
-May-13
-Sep-13
-
-May-12
-Sep-12
-Jan-13
-
-EURO
-UK
-
-May-11
-Sep-11
-Jan-12
-
-May-10
-Sep-10
-Jan-11
-
-Liquidity Trap
-
-May-09
-Sep-09
-Jan-10
-
-LIBOR 12M
-US
-JAPAN
-
-May-08
-Sep-08
-Jan-09
-
-May-07
-Sep-07
-Jan-08
-
-May-06
-Sep-06
-Jan-07
-
-May-05
-Sep-05
-Jan-06
-
 > **Figure 22.1** Liquidity engineering through interest rate reduction
-
-May-04
-Sep-04
-Jan-05
-
-May-03
-Sep-03
-Jan-04
-
-May-02
-Sep-02
-Jan-03
-
-May-01
-Sep-01
-Jan-02
-
-May-00
-Sep-00
-Jan-01
-
-Jan-00
-
-8.00
-
-7.00
-
-6.00
-
-5.00
-
-4.00
-
-3.00
-
-2.00
-
-1.00
-
-0.00
 
 As a result, liquidity engineering creates an optimistic climate and an incentive
 to lend.
