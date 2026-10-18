@@ -172,6 +172,341 @@ Global Economic Research and CEPP, University of Cambridge
 LAMBROS VARNAVIDES
 MD & Global Head of Shipping, Royal Bank of Scotland xiv
 
+<!-- Page 5 (Nace parse) -->
+
+© Elias Karakitsos and Lambros Varnavides 2014
+Softcover reprint of the hardcover 1st edition 2014 978-1-137-44117-1
+
+All rights reserved. No reproduction, copy or transmission of this publication may be made without written permission.
+
+No portion of this publication may be reproduced, copied or transmitted save with written permission or in accordance with the provisions of the Copyright, Designs and Patents Act 1988, or under the terms of any licence permitting limited copying issued by the Copyright Licensing Agency, Saffron House, 6–10 Kirby Street, London EC1N 8TS.
+
+Any person who does any unauthorized act in relation to this publication may be liable to criminal prosecution and civil claims for damages.
+
+The authors have asserted their rights to be identified as the authors of this work in accordance with the Copyright, Designs and Patents Act 1988.
+
+First published 2014 by
+PALGRAVE MACMILLAN
+
+Palgrave Macmillan in the UK is an imprint of Macmillan Publishers Limited, registered in England, company number 785998, of Houndmills, Basingstoke, Hampshire RG21 6XS.
+
+Palgrave Macmillan in the US is a division of St Martin's Press LLC, 175 Fifth Avenue, New York, NY 10010.
+
+Palgrave Macmillan is the global academic imprint of the above companies and has companies and representatives throughout the world.
+
+Palgrave® and Macmillan® are registered trademarks in the United States, the United Kingdom, Europe and other countries.
+
+ISBN 978-1-137-38340-2 ISBN 978-1-137-38341-9 (eBook)
+DOI 10.1057/9781137383419
+
+This book is printed on paper suitable for recycling and made from fully managed and sustained forest sources. Logging, pulping and manufacturing processes are expected to conform to the environmental regulations of the country of origin.
+
+A catalogue record for this book is available from the British Library.
+
+A catalog record for this book is available from the Library of Congress.
+
+Typeset by MPS Limited, Chennai, India.
+
+<!-- Page 6 (Nace parse) -->
+
+# CONTENTS
+
+
+
+List of Figures ix
+List of Tables xii
+List of Boxes xiii
+List of Abbreviations xiv
+1 Introduction 1
+The scope of the book 1
+1 The benefits of a macroeconomic approach 2
+2 The structure of the book 4
+3 How this book should be read and its potential readership 7
+4 Model and data series 8
+Acknowledgements 8
+Part I The microfoundations of maritime economics 9
+2 The theoretical foundations of the freight market 11
+Executive summary 11
+1 A framework for maritime economics 12
+2 The traditional model 16
+3 A critique of the traditional model 18
+4 A game-theoretic approach to freight rates 21
+5 A formal statement of the bargaining problem – the contract or bargaining curve 22
+6 The bargaining utility function 23
+7 The solution of the bargaining game 25
+8 Economic conditions and bargaining power 27
+9 Comparison with the conventional model 29
+10 The time charter (or period) market 32
+11 Summary and conclusions 37
+Appendix: how expectations of freight rates are generated 40
+3 The shipyard, scrap and secondhand markets 41
+Executive summary 41
+1 The supply of shipping services in the short run 42
+1.1 Introduction 42
+1.2 Optimal capacity utilisation and optimal speed in the short run 44
+2 Optimal fleet and optimal speed in the long run 47
+3 The aggregate fleet 53
+4 Investment under uncertainty 53
+
+<!-- Page 7 (Nace parse) -->
+
+5 Case study 56
+6 The model in perspective 58
+7 The supply of vessels – the impact of shipyard capacity on NB prices 61
+7.1 Introduction 61
+7.2 A framework for analysing shipyard capacity 62
+7.3 An empirical estimate of the impact of shipyard capacity on NB prices 64
+7.4 Explaining the stylised facts 67
+8 The scrap market and the net fleet 68
+9 The relationship of NB and SH prices 70
+Appendix: optimal fleet capacity expansion 76
+Optimal fleet and optimal speed – long-run analysis 76
+The demand for vessels 80
+The role of expectations 81
+A comparison with conventional models 84
+Long-run equilibrium and adjustment 87
+
+Part II The macroeconomics of shipping markets 93
+The efficiency of shipping markets 95
+Executive summary 95
+1 Introduction 99
+2 The efficient market hypothesis 100
+3 The martingale model 104
+4 The random walk model 104
+5 The efficiency of freight markets 105
+5.1 Statement of the problem 105
+5.2 Expectations-generating mechanisms 107
+5.3 A VAR example 109
+5.4 A generalisation of the restrictions 110
+5.5 Remarks 110
+5.6 Alternative tests of market efficiency 112
+5.7 Weak form of market efficiency – cointegration tests 117
+5.8 Remarks 119
+5.9 Time-varying risk premia – an explanation of the weak form of market efficiency 120
+5.10 The empirical evidence 125
+6 The efficiency of ship prices 126
+6.1 Statement of the problem 126
+6.2 Tests of market efficiency 128
+6.3 Weak form of market efficiency – cointegrating tests 129
+6.4 Time-varying risk premia 130
+6.5 The empirical evidence 131
+7 Conclusions 132
+Statistical appendix 132
+Stationary and non-stationary univariate time series 132
+Stationarity (unit root) tests 136
+Cointegration in single equations 139
+
+<!-- Page 8 (Nace parse) -->
+
+The VAR methodology 145
+The Johansen approach to cointegration 147
+
+5 Business cycles 153
+Executive summary 153
+1 A statistical explanation of business cycles 155
+2 An economic interpretation of business cycles 160
+3 The new consensus macroeconomics or neo-Wicksellian model 166
+4 Monetary policy in the NCM model 172
+5 The interaction of shocks and monetary policy in generating business cycles 175
+6 A reformulation of the NCM model 179
+7 Fiscal policy in business cycles 181
+7.1 Conclusions on fiscal policy 187
+8 Fiscal policy in practice: the US President's budget for FY 2013 188
+8.1 The macroeconomic effects of the President's budget 188
+8.1.1 Short-to-medium-term economic effects 188
+8.1.2 Long-term economic effects 190
+9 Potential output 191
+9.1 Statistical estimates 192
+9.2 Supply-side determinants 192
+9.3 Conclusions on potential output 197
+10 Conclusions 198
+Appendix: nominal rigidities 199
+Implicit contracts 199
+Unions or insider–outsider models 200
+Efficiency wages 202
+Real price rigidity models 204
+Nominal price and wage rigidity models 204
+6 The theory of shipping cycles 209
+Executive summary 209
+1 Supply-led shipping cycles: the Tinbergen–Koopmans model 211
+2 Expectations-led shipping cycles: the Beenstock–Vergottis (BV) model 216
+2.1 A summary of the BV model 218
+2.2 The steady-state properties of the BV model 224
+2.3 The dynamic adjustment in the BV model 227
+3 An integrated model of business and shipping cycles 232
+4 The properties of the integrated model 237
+5 The interaction of business and shipping cycles 241
+6 Conclusions 249
+
+Part III From theory to practice 251
+
+7 The market structure of shipping and ship finance 253
+Executive summary 253
+1 The market structure 253
+2 The capital market structure for shipping 255
+3 Banks, shipping cycles and the supply and demand equation 266
+4 An evaluation of ship finance constraints 267
+
+<!-- Page 9 (Nace parse) -->
+
+5 Optimal strategies 270
+6 Conspiracy theories in shipping 271
+8 The financialisation of shipping markets 272
+Executive summary 272
+1 Asset-led business cycles 273
+2 Hedging and speculation 278
+3 The financialisation of the oil tanker market 281
+4 A structural change in the oil tanker market 284
+5 Solving the puzzle of the structural change 285
+6 The financialisation of the dry bulk market 286
+7 Conclusions 292
+9 The interaction of business and shipping cycles in practice 293
+Executive summary 293
+1 Freight rates as a leading indicator of business cycles 295
+2 Shipping cycles: the stylised facts 296
+3 US business cycles 299
+4 US monetary policy in the course of the business cycle 305
+5 Why do US business cycles differ? 308
+6 The business cycles of Japan 315
+7 The business cycles of Germany 319
+8 An explanation of the stylised facts of shipping cycles 322
+9 Uncertainty-led shipping cycles 323
+10 Finance-led shipping cycles 325
+11 Summary and conclusions 327
+10 Investment strategy 328
+Executive summary 328
+1 The major decisions in shipping 329
+2 Case study: when to invest in the dry market 332
+3 A non-technical assessment of methodological issues 334
+Appendix 1: the demand for dry 335
+Appendix 2: NB prices 339
+Notes 342
+Bibliography 356
+Index 365
+
+<!-- Page 10 (Nace parse) -->
+
+# LIST OF FIGURES
+
+
+
+2.1 Demand and supply of shipping service 17  
+2.2 The impact of higher bunker costs 18  
+2.3 Market demand and supply and individual owner in the short run 19  
+2.4 Market demand and supply and individual owner in the long run 20  
+2.5 Contract or bargaining curves 22  
+2.6 Iso-utility curves 24  
+2.7 Iso-utility curves in strong and weak bargaining power 26  
+2.8 Freight rates in 'good' and 'bad' times 26  
+3.1 Isoquants 43  
+3.2 Optimum speed and capacity utilisation 45  
+3.3 Dynamic adjustment of NB vessel prices 52  
+3.4 Dynamic adjustment of NB vessel prices 63  
+3.5 World orderbook 64  
+3.6 Order cancellations 65  
+3.7 Demand and supply in the shipyard industry 66  
+3.8 Excess supply in the shipyard market and excess demand in the freight market 66  
+3.9 The impact on SH prices and traded fleet when the supply is upward sloping 73  
+3.10 The impact on SH prices and traded fleet when the supply is downward sloping 73  
+3.A1 Shipyard long-run equilibrium 88  
+3.A2 Adjustment of fleet 88  
+3.A3 Adjustment of NB vessel prices 90  
+3.A4 Unique saddlepoint solution 90  
+3.A5 Dynamic adjustment of NB vessel prices 91  
+3.A6 Dynamic adjustment of NB vessel prices 91  
+3.A7 Dynamic adjustment of investment 92  
+3.A8 Dynamic adjustment of fleet 92  
+5.1 Nominal and real oil price (WTI) 156  
+5.2 Actual and potential output 157
+
+<!-- Page 11 (Nace parse) -->
+
+5.3 Output gap 158
+5.4 US real GDP %YOY 159
+5.5 Generating business cycles using US GDP ARMA (12, 12) permanent shock =+1 160
+5.6 Long-run equilibrium in the NCM model 177
+5.7 Output gap response to a negative demand shock under optimal policy 179
+5.8 Inflation and interest rate response to a negative demand shock under optimal monetary policy 179
+6.1 Fleet and freight rates adjustment when -λρ =1 215
+6.2 Fleet and freight rates adjustment when -λρ =0.7 215
+6.3 Fleet and freight rates adjustment when -λρ =0.25 216
+6.4 Long-run equilibrium in the BV model 229
+6.5 Adjustment of capacity utilisation 230
+6.6 Adjustment of SH prices 230
+6.7 Adjustment to long-run equilibrium 231
+6.8 Adjustment for a permanent increase in demand 232
+6.9 Output gap and demand for shipping 245
+6.10 Interest rate and inflation 245
+6.11 Freight rate and fleet capacity utilisation 246
+6.12 NB and SH price adjustment 246
+6.13 Adjustment with small response of freight rates to fleet capacity utilisation 248
+6.14 Adjustment with large response of freight rates to fleet capacity utilisation 248
+8.1 Growth of assets of four sectors in the US 274
+8.2 Liabilities of US shadow and traditional banking 274
+8.3 Asset leverage of US investment banks 275
+8.4 Oil premium and spot oil price 282
+8.5 Demand – long-run equilibrium 284
+8.6 Demand for seaborne trade and demand for oil 285
+8.7 Demand, supply growth in dry market 287
+8.8 Fleet capacity utilisation and BDI 288
+8.9 The deviations of demand from a linear trend 289
+8.10 Deviations of China steel production from trend 290
+8.11 Chinese cargo: deviation from trend 290
+9.1 BDI and S&P 500 296
+9.2 TC rates, SH prices and NB prices 298
+9.3 US real GDP in the last business cycle 302
+9.4 Business cycle 303
+
+<!-- Page 12 (Nace parse) -->
+
+9.5 US business cycles 310
+9.6 Japan business cycles 318
+9.7 Germany business cycles 319
+9.8 Shipping cycles 322
+10.1 Average earnings in the dry market 329
+10.2 Average earnings in the oil tanker market 330
+10.3 The errors of a model of average earnings in the oil tanker market 331
+10.A1 HOPE and SAIL demand 336
+10.A2 HOPE rule of thumb demand 337
+10.A3 HOPE log-linear demand model on world GDP 338
+10.A4 Demand for dry (% YoY) – SAIL model 338
+10.A5 HOPE NB rule of thumb 340
+10.A6 Log-linear NB prices model 340
+10.A7 New vessel prices – SAIL model 341
+
+<!-- Page 13 (Nace parse) -->
+
+# LIST OF TABLES
+
+5.1 Accounting for growth in US potential output 196  
+5.2 Accounting for growth in US potential output – CBO method 197  
+6.1 Dynamic fleet adjustment 214  
+7.1 Yearly TC averages 254  
+7.2 The capital structure of shipping – Marsoft data 256  
+7.3 *Marine Money* list of public shopping companies 259  
+8.1 The oil tanker market in the last eight years 286  
+8.2 Decomposition of change in demand for seaborne trade between 2003 and 2011 286  
+9.1 Shipping cycles 297  
+9.2 The US business cycles 300  
+9.3 The US business cycles 308  
+9.4 Japan business cycles 315  
+9.5 Japan cycle phases 317  
+9.6 Germany business cycles 320
+
+<!-- Page 14 (Nace parse) -->
+
+# LIST OF BOXES
+
+2.1 A macroeconomic (hierarchical) approach to shipping 14  
+2.2 The structure of the dry market 15  
+3.1 Owners and central banks 46  
+3.2 Optimal fleet 46  
+3.3 NB prices 49  
+3.4 Investment under uncertainty 55  
+3.5 Case study 56  
+8.1 Freight rates as asset prices 291  
+9.1 Freight rates as a leading indicator of business cycles 295
+
 ## List of Abbreviations
 
 Lower-case letters indicate natural logs.
@@ -1130,6 +1465,17 @@ the owner has strong bargaining power, whereas point B the solution with weak
 bargaining power. The solution at G implies a higher payoff for the owner than at
 B. Both points are ‘acceptable' solutions as they imply a move along the highest isoutility curve, which at the same time satisfies the contract or bargaining curve (that
 is, the feasible set). The bargaining implies that one of the players gives something
+
+<!-- Page 40 (Nace parse) -->
+
+> **Figure 2.7**: Iso-utility curves in strong and weak bargaining power
+
+
+> **Figure 2.8**: Freight rates in 'good' and 'bad' times
+
+26
+
+up for the benefit of the other, but the joint utility level of the bargaining game remains the same. Both solutions represent a tangency point between the contract curve and the highest iso-utility curve. If the charterer pushed for a solution that implies a larger payoff for her/him (a move in the south-easterly direction), the resulting solution of the game will lie on a lower iso-utility curve. Mutatis mutandis, if the owner pushed for a higher payoff for herself/himself (a move in the north-westerly direction from G), the resulting solution of the game will lie on a lower iso-utility curve. The solutions at B and G are equilibrium points because a move away from them implies that a player cannot become better off without the other becoming worse off in a way that makes the joint welfare worse.
 
 Point N represents the solution when both players have equal bargaining power.
 This is simply the point of intersection between the 450 line and the contract
@@ -2615,6 +2961,16 @@ Appendix 1, which assumes no change in shipyard capacity, the new equilibrium is
 K . It is worth remembering that because of the forward-looking behaviour of owners and their short-run destabilising behaviour, according to which they buy
 more vessels when prices are increasing, the dynamic adjustment path of prices
 would jump on impact to B, where prices overshoot their long-run equilibrium
+
+<!-- Page 77 (Nace parse) -->
+
+by \( P^{*} - P_{2} \). Because of this short-term destabilising behaviour of owners, vessel prices would decline subsequently following the unique saddlepoint path EE to C. This analysis is consistent with the well-founded empirical result that vessel prices increase in the short run more than justified by economic fundamentals and decline subsequently as they approach their new long-run equilibrium. Nonetheless, at the new long-run equilibrium vessel prices are higher than the initial equilibrium. As a result of the short-run overshooting of prices owners that do not succeed in placing their orders before the market captures the impact of easy fiscal policy in China and the US would likely suffer capital losses on their new vessels.
+
+But this is not the end of the story. In time, shipyards would gradually increase capacity as a result of higher vessel demand. In Figure 3.4 this increase in shipyard capacity is portrayed as a shift to the right of the supply curve from \( S_1 \) to \( S_2 \). The new long-run equilibrium would be established at F, instead of C. At this new long-run equilibrium vessel prices at \( P_3 \) are even lower than at C and the fleet produced at \( K_3 \) is even bigger than at C. Prices would still jump to \( P^* \) initially and then would decline to \( P_3 \) following the new saddlepoint path \( E_1E_1 \). The saddlepoint path rotates clockwise around point B as the supply curve shifts to the right. Therefore, with fixed shipyard capacity prices would increase from \( P_1 \) to \( P_2 \) via \( P^* \), as a result of the fiscal stimulus in China and the US. By allowing shipyards to expand capacity, vessel prices would increase from \( P_1 \) to \( P_3 \) via \( P^* \). Thus, the impact of shipyard capacity is a drop in prices equal to \( P_3 - P_2 \). Moreover, the drop in vessel prices is steeper when shipyard capacity expands than when it remains fixed. With fixed capacity, prices fall by \( P_2 - P^* \), whereas with variable capacity they fall by \( P_3 - P^* \). In the next section we provide an empirical estimate of \( P_3 - P^* \) and decompose it to the factors that cause this change.
+
+
+**Figure 3.4** Dynamic adjustment of NB vessel prices
+
 ### 7.3 An Empirical Estimate Of The Impact Of Shipyard
 Capacity On Nb Prices
 
@@ -2711,6 +3067,14 @@ per cent. Therefore, out of the 50 per cent fall in vessel prices in the last fo
 nearly 20 per cent is due to the deterioration of the shipyard capacity and 30 per
 cent is due, firstly, to the drop of secondhand and the three major bulk prices and,
 secondly, and to a lesser extent to the increase in bunker costs.
+
+> **Figure 3.7**: Demand and supply in the shipyard industry
+
+*Source*: K-model.
+
+> **Figure 3.8**: Excess supply in the shipyard market and excess demand in the freight market
+
+*Source*: K-model.
 
 ### 7.4 Explaining The Stylised Facts
 
@@ -2939,6 +3303,19 @@ demand is equal to supply in each market. The equilibrium in the shipyard market
 determines the stock of new fleet and newbuilding prices, while equilibrium in
 the secondhand market determines the volume of purchase and sale of existing
 fleet ships and the secondhand price. The interrelationship of newbuilding and
+
+<!-- Page 87 (Nace parse) -->
+
+secondhand prices is analysed with the help of Figures 3.4, 3.9 and 3.10. Initial equilibrium is attained at point A in each graph. An increase in the demand for shipping services induces owners to demand new ships from the shipyards. This shifts the demand curve from  \( D_{1} \)  to  \( D_{2} \)  in Figure 3.4. In the long run, shipyards increase capacity and this shifts the supply curve to the right. The new long-run equilibrium is attained at F with higher newbuilding prices and a bigger fleet. The dynamic adjustment path involves an overshooting of the long-run equilibrium; the price rises from  \( P_{1} \)  to  \( P^{*} \)  but then falls to  \( P_{3} \) . The fleet expands from  \( K_{1} \)  to  \( K_{3} \) .
+
+In the secondhand market the increase in demand shifts to the right the demand curve from  \( D_{1} \)  to  \( D_{2} \)  in Figure 3.9. But for reasons already explained the supply of secondhand ships is reduced. This shifts the supply curve to the left from  \( S_{1} \)  to  \( S_{2} \) . If the supply curve has the normal upward slope then the volume of
+
+
+> **Figure 3.9**: The impact on SH prices and traded fleet when the supply is upward sloping
+
+
+> **Figure 3.10**: The impact on SH prices and traded fleet when the supply is downward sloping
+
 purchase and sale is likely to increase, as the shift in demand outweighs the shift
 in supply. The new equilibrium is attained at B in Figure 3.9. The secondhand
 price increases from PS to PS and the traded fleet increases from K to K . The
@@ -3528,10 +3905,10 @@ S
 P E
 D
 O K K
-Figure 3.A1 Shipyard long-run equilibrium
+> **Figure 3.A1**: Shipyard long-run equilibrium
 
 O K
-Figure 3.A2 Adjustment of fleet
+> **Figure 3.A2**: Adjustment of fleet
 
 Figure 3.A1 plots the long-run demand curve for fleet and the long-run supply
 curve of the fleet (equations A.42 and A.43). The intersection of the demand and
@@ -3578,14 +3955,10 @@ not stable. In quadrant (III) the system is again not stable; vessel prices and 
 would shrink towards zero. But the system is not necessarily unstable in quadrants
 (II) and (IV). If we start with a price that is lower than the long-run equilibrium,
 such as point A in quadrant (IV), then the system is unstable. But if we started
-Figure 3.A3 Adjustment of NB vessel prices
+> **Figure 3.A3**: Adjustment of NB vessel prices
 
-II
-A IV
-E′
-III D
-O K
-Figure 3.A4 Unique saddlepoint solution
+> **Figure 3.A4**: Unique saddlepoint solution
+
 with a higher price than the long-run equilibrium, such as point E, then the system
 is stable; it would converge to the long-run equilibrium. Similarly, if we started
 with a very high vessel price, such as point B in quadrant (II), then the system
@@ -3597,6 +3970,15 @@ unique stable path, which must satisfy the saddlepoint property.16 For this reas
 the line EE' is called the ‘saddlepoint' equilibrium path.
 The saddlepoint path implies the following adjustment path for vessel prices,
 investment and the stock of fleet. The vessel price would jump from P to P*
+before the fleet had any time to adjust, that is, when it is still at  \( K_{1} \)  in Figure 3.A5. But from  \( P^{*} \)  the vessel price would decline gradually, reaching the new long-run equilibrium at point C. Therefore, the optimal adjustment path of NB vessel prices involves an overshooting of the new long-run equilibrium ( \( P^{*} > P_{2} \) ). The time path of gross investment follows the adjustment path of vessel prices (see Figure 3.A6). Investment rises on impact to its maximum pace and then declines towards its higher new long-run equilibrium (see Figure 3.A7). The investment path also involves an instantaneous overshooting of the new long-run equilibrium. Despite the overshooting of gross investment, the fleet (capital) adjusts gradually and monotonically from the initial equilibrium to the new equilibrium with higher fleet (see Figure 3.A8).
+
+> **Figure 3.A5**: Dynamic adjustment of NB vessel prices
+
+> **Figure 3.A6**: Dynamic adjustment of NB vessel prices
+
+> **Figure 3.A7**: Dynamic adjustment of investment
+
+> **Figure 3.A8**: Dynamic adjustment of fleet
 
 ## Chapter 4: The Efficiency of Shipping Markets
 
@@ -5810,7 +6192,55 @@ b (L)y = b (L)y +b (L)y +q (L)e +q (L)e +q (L)e
 b (L)y = b (L)y +b (L)y +q (L)e +q (L)e +q (L)e
 33 3t 32 2t 31 1t 31 1t 22 2t 33 3t
 This system of equations is called vector-ARMA or simply (VAR) and can be
-written in matrix notation in the same form as (A.38):
+written in matrix notation in the same form
+
+<!-- Page 160 (Nace parse) -->
+
+where \(\mathbf{Y} = [y_{1t}, y_{2t}, y_{3t}]\), \(\varepsilon = [\varepsilon_{1\mathbf{t}}, \varepsilon_{2t}, \varepsilon_{3t}]\) and \(\mathbf{B}(\mathbf{L})\) and \(\boldsymbol{\Theta}(\mathbf{L})\) are comfortable matrices of coefficients \(\beta_{ij}\) and \(\Theta_{ij}\). The coefficients \(\beta_{11}, \beta_{22}\) and \(\beta_{33}\) have a similar structure. For example, \(\beta_{11} = (1 - \beta_{11}L - \beta_{11}^2L^2 - \ldots)\).
+
+Using Wold's decomposition theorem the above system of equations in the vector-ARMA representation (A.41) has two alternative representations, a moving average of current and past white noise terms or an infinite vector autoregression plus a linear combination of white noise error terms:
+
+\[
+\mathbf {Y} _ {\mathbf {t}} = \mathbf {B} ^ {- 1} (\mathbf {L}) \boldsymbol {\Theta} (\mathbf {L}) \varepsilon_ {t} \quad \text { or } \quad \boldsymbol {\Theta} ^ {- 1} (\mathbf {L}) \mathbf {B} (\mathbf {L}) \mathbf {Y} _ {\mathbf {t}} = \varepsilon_ {t}
+\]
+
+(A.42)
+
+A VAR model of an n-order can be reduced to order one. Thus, the above system of equations can be represented as a vector-AR(1) process:
+
+\[
+\mathbf {Y _ {t}} = \mathbf {A} (\mathbf {L}) \mathbf {Y _ {t - 1}} + \nu_ {t}
+\]
+
+(A.43)
+
+In the above representation each variable  \( y_{it} \) , such as  \( y_{1t} \) , is of the form:
+
+\[
+y _ {1 t} = a _ {1} (L) y _ {1 t - 1} + a _ {2} (L) y _ {2 t - 1} + a _ {3} (L) y _ {3 t - 1} + \nu_ {t}
+\]
+
+(A.44)
+
+This representation is particularly helpful in applying the stationarity methodology developed for a univariate AR(1) process to a multivariate context.
+
+Moreover, a multivariable VAR model of \( m \)-variables can be reduced to a univariate AR process in terms of \( y_{1t} \). This can be done by solving (or expressing) each of the last \( m - 1 \) endogenous variables as a function of \( y_{1t} \).
+
+# THE JOHANSEN APPROACH TO COINTEGRATION
+
+The Johansen approach generalises the cointegration tests of a single equation to a VAR system and overcomes some theoretical problems of the Engle–Granger two-stage estimation procedure for a single equation of many variables.
+
+Using the methodology of the previous section it is assumed that a VAR model can be reduced to the following form:
+
+\[
+\mathbf {z} _ {\mathbf {t}} = \mathbf {A} _ {1} \mathbf {z} _ {t - 1} + \dots + \mathbf {A} _ {k} \mathbf {z} _ {\mathbf {t} - \mathbf {k}} + \mathbf {u} _ {\mathbf {t}} \quad \mathbf {u} _ {t} \approx \mathrm{NIID} (\mathbf {0}, \Sigma)
+\]
+
+(A.45)
+
+\( \Sigma \) is the variance-covariance matrix of the residuals with the usual property of constant variance and zero serial correlation. The vector-z includes the total number of n-variables considered by a modeller, which may consist of \( y_{i} \) endogenous variables and \( x_{j} \) exogenous variables. The modeller is not certain whether the variables he regards as exogenous are truly exogenous and in order to test for their exogeneity he includes them in the vector-z. Thus the sum of y and x variables is n and they are all included in the vector-z. Thus, the vector-z includes all potential endogenous variables with a maximum lag-k. Each of the \( A_{i} \) for \( i = 1,\ldots,k - 1 \), is an \( (n \times n) \) matrix of coefficients. A VAR in the form of (A.45) is called a reduced form because all variables on the right-hand side are predetermined (i.e. all endogenous variables on the right hand side appear with
+
+as (A.38):
 B(L)Y =Θ(L)e (A.41)
 t t
 a lag). This means that the system is not simultaneous; none of the variables on
@@ -5905,6 +6335,67 @@ i 1 2 k−1 1 2 k
 subject to the constraint that Π can be written in the form of (A.47).
 The Johansen approach involves three steps. First, it estimates a set of auxiliary
 regressions. The first set estimates a VAR(k - 1) for ∆z. In other words, each
+
+<!-- Page 163 (Nace parse) -->
+
+element of \(\Delta \mathbf{z}_i\) is regressed on \(\Delta z_{t - 1},\Delta z_{t - 2},\ldots ,\Delta z_{t - k + 1}\) with OLS to obtain estimates of \(\mathbf{P}_1,\mathbf{P}_2,\dots ,\mathbf{P}_{k - 1}\). All these OLS regressions for \(i = 1,\dots ,n\) are collected in a vector form:
+
+\[
+\Delta \mathbf {z} _ {\mathrm{t}} = \mathbf {P} _ {1} \Delta \mathbf {z} _ {\mathrm{t-1}} + \mathbf {P} _ {2} \Delta \mathbf {z} _ {\mathrm{t-2}} + \dots + \mathbf {P} _ {\mathrm{k-1}} \Delta \mathbf {z} _ {\mathrm{t-k+1}} + \boldsymbol {\eta} _ {\mathrm{t}}
+\]
+
+(A.51)
+
+The second set of auxiliary regressions estimates again through OLS each element of \( z_{t - k} \) on the same regressors to obtain estimates of \( \mathrm{R}_1, \mathrm{R}_2, \dots, \mathrm{R}_{k-1} \). All these regressions for \( I = 1, \dots, n \)) are stacked together in a vector form:
+
+\[
+\mathbf {z} _ {\mathbf {t} - k} = \mathbf {R} _ {1} \Delta \mathbf {z} _ {\mathbf {t} - 1} + \mathbf {R} _ {2} \Delta \mathbf {z} _ {\mathbf {t} - 2} + \dots + \mathbf {R} _ {\mathbf {k} - 1} \Delta \mathbf {z} _ {\mathbf {t} - \mathbf {k} + 1} + \varsigma_ {\mathbf {t}}
+\]
+
+(A.52)
+
+The second step involves the calculation of the variance-covariance matrices of the OLS estimates of the residuals  \( \eta \)  and  \( \zeta \)  from (A.51) and (A.52):
+
+\[
+\sum_ {\eta \eta} = (1 / T) \sum_ {t = 1} ^ {T} \boldsymbol {\eta} _ {t} \boldsymbol {\eta} _ {t} ^ {\prime}
+\]
+
+(A.53a)
+
+\[
+\sum_ {\varsigma \varsigma} = (1 / T) \sum_ {t = 1} ^ {T} \varsigma_ {t} \varsigma_ {t} ^ {\prime}
+\]
+
+(A.53b)
+
+\[
+\sum_ {\eta \varsigma} = (1 / T) \sum_ {t = 1} ^ {T} \varsigma_ {t} \eta_ {t} ^ {\prime}
+\]
+
+(A.53c)
+
+\[
+\sum_ {\eta \varsigma} = \sum_ {\varsigma \eta} ^ {\prime}
+\]
+
+(A.53d)
+
+The first two equation denote the variance of the \(\eta\)-vector and \(\zeta\)-vector, whereas the last two their covariance. These are the observed variance-covariance matrices from the sample.
+
+From equations (A.53) find the eigenvalues of the following equation:
+
+\[
+\left| \Sigma_ {\eta \eta} ^ {- 1} \Sigma_ {\eta \varsigma} \Sigma_ {\varsigma \varsigma} ^ {- 1} \Sigma_ {\varsigma \eta} \right| = 0
+\]
+
+(A.54)
+
+and order the eigenvalues in descending order:  \( \lambda_{1} > \lambda_{2} > \cdots > \lambda_{n} \) . The third step involves maximising the log-likelihood function by choosing  \( \Pi \)  subject to the constraint (A.47).
+
+Johansen proposes two types of tests for \( r \): the trace statistic and the maximum eigenvalue statistic. In the trace statistic the null hypothesis \( (\mathrm{H}_0) \) is there are exactly \( r \) cointegrating relations among the elements of \( \mathbf{z}_t \) in (A.46). The VAR is restricted by the requirement that \( \Pi \) can be written in the form (A.47) with \( \alpha (n\times r) \) and \( \beta (r\times n) \) matrices. Under the alternative hypothesis \( (\mathrm{H}_{\mathrm{A}}) \) there are \( n \) cointegrating relations, where \( n \) is the number of the endogenous variables included in \( \mathbf{z}_t \). This amounts to the claim that every linear combination of \( \mathbf{z}_t \) is stationary.
+
+A likelihood ratio test of the null that there are exactly r cointegrating relations against the alternative that there are n can be computed by comparing the maximum value,  \( L_{0} \) , that can be achieved for the log likelihood function that
+
 t satisfies the constraints with the maximum value, L , for the log-likelihood function without the constraints. The trace statistic is a likelihood ratio (that is, the
 log difference) test based on:
 n
@@ -6136,6 +6627,29 @@ J J J J J J J J J J J J J J J J J
 > **Figure 5.1**: Nominal and real oil price (WTI)
 
 Source: Federal Reserve Bank of St Louis and authors' calculations.
+
+<!-- Page 170 (Nace parse) -->
+
+as it lasted for approximately two quarters. For energy policy all shocks from 1973 to 2003 can be considered as transitory as the real price of oil fluctuated around a mean value of $15 per barrel in inflation-adjusted (real) 1983 prices.
+
+The distinction between permanent and transitory shocks is important in separating the trend from the cycle in equation (5.1). Permanent shocks give rise to a trend, whereas transitory shocks give rise to cyclical fluctuations. It is easy to understand why this is the case. The trend is a non-stationary series. Permanent shocks shape the trend, as they are also non-stationary. On the other hand, transitory shocks are stationary.\(^{2}\) By construction they cannot affect the trend, hence they give rise to transient fluctuations around the trend – namely, they give rise to cyclical fluctuations. Demand shocks are usually transitory, whereas most supply shocks are permanent.
+
+As an example of generating business cycles consider a specific form of (1) estimated using US data over the period 1978Q1–1997Q1
+
+\[
+YGAP = 0.83 * 10^{-4} + 1.29 YGAP_{t-1} - 0.41 YGAP_{t-2} - 0.32 u_{t-8} - 0.39 u_{t-12} + u_t
+\]
+
+(5.2)
+
+where YGAP is the deviation of the logarithm of the level of real GDP from a cubic trend and u are the residuals (shocks) from this equation.\(^{3}\)
+
+In this formulation the level of GDP is equal to its trend (or potential output) and random shocks cause it to deviate from this value. The trend in GDP is defined, for simplicity, by a cubic trend. Figure 5.2 shows the level of potential output and actual GDP. When the level of GDP exceeds its potential the economy
+
+ACTUAL OUTPUT POTENTIAL OUTPUT
+
+> **Figure 5.2**: Actual and potential output
+
 -1
 -2
 -3
@@ -6178,6 +6692,33 @@ FO
 OUTPUT GAP SERIOUSLY OVERHEATED SERIOUS UNDERCAPACITY
 
 > **Figure 5.3**: Output gap
+
+<!-- Page 172 (Nace parse) -->
+
+> **Figure 5.4**: US real GDP %YOY
+
+as the standard error of the equation is 0.6 per cent. Nonetheless, the equation exhibits the long lag structure inherent both in the dependent variable and the residuals, up to 12-quarters, which is characteristic for all major industrialised economies. \( ^{5} \)
+
+The implications of this equation can be examined by computing the underlying steady state rate of growth. This is found by setting
+
+\[
+\begin{array}{l} y _ {t} = y _ {t - 1} = y _ {t - n} = \overline {{y}} \\ u _ {t} = u _ {t - 1} = u _ {t - n} = 0 \end{array}
+\]
+
+(5.3)
+
+The equilibrium (steady-state) rate of growth is
+
+\[
+\overline{y} = \frac{1.13}{1 - 1.1 + 0.28 + 0.14 + 0.085} = 2.8\%
+\]
+
+(5.4)
+
+This compares with 2.9 per cent for the average rate of growth over the historical period 1983–96 and 2.7 per cent for the last business cycle 1978:Q4–1987:Q4 measured from peak to peak on the year-on-year rate.
+
+Figure 5.5 illustrates how business cycles can be generated using this equation. We start from a steady state with growth in the absence of shocks at 2.8 per cent. Let us now consider the effects of a positive shock, for example an increase in labour productivity by 1 per cent. This shock generates business cycles in terms of the year-on-year rate of growth, which ultimately die out. However, it leads to a permanent shock in terms of the level of GDP.
+
 3.5
 2.5
 1.5
@@ -8463,7 +9004,53 @@ Table 6.1 Dynamic fleet adjustment
 | \(-\lambda\rho < 0.25\) | Real roots. Monotonic convergence to equilibrium. |
 | --- | --- |
 | \(-\lambda\rho = 0.25\) | Two equal roots. Fast monotonic convergence to equilibrium. |
-| \(-\lambda\rho > 0.25\) | Complex roots. Oscillatory (cyclical) adjustment. |
+| \(-\lambda\rho > 0.25\) | Complex roots. Oscillatory (cyclical) adjustment.
+
+<!-- Page 228 (Nace parse) -->
+
+> **Figure 6.1**: Fleet and freight rates adjustments when  \( -\lambda\rho=1 \)
+
+
+> **Figure 6.2**: Fleet and freight rates adjustments when  \( -\lambda\rho=0.7 \)
+
+the delivery lag between orders for new ships and the ability of shipyards to deliver. In this model, even when the demand for shipping services, the price of bunkers and scrapping are constant, the fleet and freight rates exhibit oscillations, which are moving in reverse order. The freight market clears instantly, whereas the
+
+–1000
+–800
+–600
+–400
+–200
+200
+400
+600
+800
+1000
+8500
+9000
+9500
+10000
+10500
+11000
+–500
+6500
+6600
+6700
+6800
+6900
+7000
+7100
+7200
+7300
+7400
+–400
+–300
+–200
+–100
+100
+200
+300
+
+|
 | \(-\lambda\rho < 1\) | Damped oscillations. Stable system. |
 | \(-\lambda\rho = 1\) | Regular oscillations around equilibrium. |
 | \(-\lambda\rho > 1\) | Explosive oscillations. Unstable system. |
@@ -9030,7 +9617,21 @@ long-run equilibrium value, ps*, namely to points on the right or the left of th
 cu = 0 locus. When SH prices are higher than ps* then the fleet capacity utilisation is decreasing and vice versa.5 For example, when SH prices are higher than
 ps*, such as at point C, then the fleet capacity utilisation is decreasing; notice the
 ∑
-downward direction of the arrows at points on the right of the cu = 0 locus in
+downward direction of the arrows at points on the right of the cu = 0 locus
+
+<!-- Page 243 (Nace parse) -->
+
+Figure 6.5. Similarly, when prices are lower than \( ps^* \), such as point B, then the fleet capacity utilisation is increasing; notice the upward direction of the arrows to the left of the \( cu = 0 \) locus Figure 6.5.
+
+Next consider the dynamic adjustment of SH prices for a given level of the fleet capacity utilisation when the system is at points that lie on the left or the right of the \( p_{s}=0 \) locus (see Figure 6.6).
+
+It is obvious from equation (6.54) that at points on the right-hand side of the \( p_{s}=0 \) locus, such as E in Figure 6.6, SH prices are increasing for a given value
+
+> **Figure 6.5**: Adjustment of capacity utilisation
+
+> **Figure 6.6**: Adjustment of SH prices
+
+in
 •
 cu = 0
 •
@@ -9632,7 +10233,8 @@ Figure 6.9). With the economy in recession inflation decreases from 2 per cent t
 1.5 per cent in 2008 (see Figure 6.10).
 With the economy in recession and inflation falling, the central bank cuts the
 nominal interest rate from 4.5 per cent to 3 per cent in 2008 (see Figure 6.10). The
-nominal interest rate cut is sufficient to decrease real interest rates, a necessary condition for the effectiveness of monetary policy (see Chapter 5). The drop
+nominal interest rate cut is sufficient to decrease real interest rates, a necessary
+condition for the effectiveness of monetary policy (see Chapter 5). The drop
 in demand for shipping services lowers the fleet capacity utilisation rate from
 its equilibrium rate of 90 per cent to 83.7 per cent in 2008 (see Figure 6.11).
 As a result, the spot freight rate drops from $25 to $11, equivalent to a fall of
@@ -9674,7 +10276,8 @@ equation:
 k t = gk* + (1 − g)k t − 1 0 <g <1 0 < g < 1 (6.100)
 The desired fleet by owners is k*. But shipyards can only deliver a proportion g
 of the desired fleet in a period of time. The proportion g varies between zero
-and one. Equation (6.100) nests the previous model when g = 0, as the fleet grows at the same pace as the last period. Starting from the long-run equilibrium
+and one. Equation (6.100) nests the previous model when g = 0, as the fleet
+grows at the same pace as the last period. Starting from the long-run equilibrium
 with fleet growing at 6 per cent and introducing an unexpected shock, the fleet
 would continue to grow at 6 per cent throughout the adjustment. Therefore, the
 higher the value of g, the more flexibility is introduced in the adjustment process.
@@ -9685,6 +10288,18 @@ the elasticity of freight rates to the fleet capacity utilisation rate, the coef
 20, very near to empirical estimates. In this set of simulations this elasticity takes
 two different values, representing a small response (b = 15) and a large response
 (b = 40). The results are studied with the help of Figures 6.13 and 6.14.
+
+> **Figure 6.9**: Output gap and demand for shipping
+
+> **Figure 6.10**: Interest rate and inflation
+
+> **Figure 6.11**: Freight rate and fleet capacity utilisation
+
+> **Figure 6.12**: NB and SH price adjustment
+
+> **Figure 6.13**: Adjustment with small response of freight rates to fleet capacity utilisation
+
+> **Figure 6.14**: Adjustment with large response of freight rates to fleet capacity utilisation
 
 Figure 6.13 plots the dynamic adjustment path of freight rates with a small
 
@@ -10123,6 +10738,17 @@ at just 50 per cent of NAV.
 | Top Ships Inc. | 345.3919 | 150.7949 | 141.1083 | na | na | na | na | na |
 | Arlington Tankers Ltd. | 337.125 | 362.235 | 343.015 | na | na | na | na | na |
 | U.S. Shipping Partners L.P. | 303.324 | 212.4938 | 239.3219 | na | na | na | na | na |
+| Premuda SPA | 283.3166 | 291.0639 | 332.5369 | na | na | na | na | na |
+| American Commercial Lines Inc. | na | 4053.955 | 1015.796 | 309.9495 | 156.5709 | na | na | na |
+| James Fisher & Sons, plc | 318.9612 | 586.7256 | 649.2936 | 255.2368 | 353.1407 | na | na | na |
+| Noble Group | 1845.841 | 1721.08 | 3586.804 | 2360.604 | 8890.706 | na | na | na |
+| Sinotrans Shipping Ltd | 1658.49 | 1531.504 | 1971.936 | 963.2327 | 1853.254 | na | na | na |
+| PT Berlian Laju Tanker | 414.1365 | 769.9435 | 1053.002 | 215.5579 | 356.6503 | na | na | na |
+| Star Reefers ASA | 184.3191 | 235.7889 | 380.875 | 188.26 | 190.0026 | na | na | na |
+| Belships ASA | 26.18093 | 47.51968 | 112.6074 | 17.45495 | 37.23608 | na | na | na |
+| Crude Carriers | na | na | na | na | na | na | na | na |
+
+Source: "Analysis of Public Shipping Company performance over the last ten years" Marine Money Magazine with permission of the author and the publisher. | Source: "Analysis of Public Shipping Company performance over the last ten years" Marine Money Magazine with permission of the author and the publisher. | Source: "Analysis of Public Shipping Company performance over the last ten years" Marine Money Magazine with permission of the author and the publisher. | Source: "Analysis of Public Shipping Company performance over the last ten years" Marine Money Magazine with permission of the author and the publisher. | Source: "Analysis of Public Shipping Company performance over the last ten years" Marine Money Magazine with permission of the author and the publisher. | Source: "Analysis of Public Shipping Company performance over the last ten years" Marine Money Magazine with permission of the author and the publisher. | Source: "Analysis of Public Shipping Company performance over the last ten years" Marine Money Magazine with permission of the author and the publisher. | Source: "Analysis of Public Shipping Company performance over the last ten years" Marine Money Magazine with permission of the author and the publisher. | Source: "Analysis of Public Shipping Company performance over the last ten years" Marine Money Magazine with permission of the author and the publisher. |```json {
 
 However, 2013 witnessed the beginning of a rally in the price of shipping
 stocks. The Platou Shipping Index increased by 28 per cent in 2013 with dry bulk
@@ -10474,6 +11100,17 @@ gains competitiveness in the medium term and takes advantage of the stimulus
 in world trade generated by the other countries. This was, for example, the reaction of Germany and Japan to the first oil shock, and it proved successful because
 the Anglo-Saxon countries pursued easy policies to fight unemployment, thereby
 boosting the overall levels of world trade. When all countries opt to fight inflation,
+
+<!-- Page 286 (Nace parse) -->
+
+> **Figure 8.1**: Growth of assets of four sectors in the US (in logs 1954 = 1)
+
+
+> **Figure 8.2**: Liabilities of US shadow and traditional banking
+
+274
+
+as happened in the second oil shock, the optimal response is to assign monetary policy to inflation and fiscal policy to unemployment, as the US did. By doing so, a country protects itself from other countries exporting their inflation to the rest of the world, while simultaneously it fights unemployment by stimulating domestic demand.¹ However, even such a policy mix has long-term costs, as in the medium term it leads to a twin deficit in the budget and the current account of the balance of payments. A twin deficit would require the reversal of policies in the long run, which nonetheless may not be very costly if the rest of the world has recovered.
 
 From the 1990s onwards, though, business cycles are no longer demand- or
 supply-led, they have been asset-led driven by liquidity. Asset-led business cycles,
@@ -11063,23 +11700,7 @@ There is a premium or discount in freight rates that depends on liquidity and th
 degree of aversion for risky assets. In good times there is a premium as liquidity
 is channelled into commodities, as occurred in the boom years of 2003-08 and
 again in 2009-11. But in bad times, as in the period 2011-13, freight rates are at a
-Deviation from Equil Mean+SD Mean-SD
-Total Dry Demand Trend demand
-10% 6.4
-6.2
-5%
-6.0
-0%
-5.8
--5%
-5.6
--10%
-5.4
--15% 5.2
-Jan-87 Jan-88 Jan-89 Jan-90 Jan-91 Jan-92 Jan-93 Jan-94 Jan-95 Jan-96 Jan-97 Jan-98 Jan-99 Jan-00 Jan-01 Jan-02 Jan-03 Jan-04 Jan-05 Jan-06 Jan-07 Jan-08 Jan-09 Jan-10 Jan-11 Jan-12
-
-> **Figure 8.9**: The deviations of demand from a linear trend discount to economic fundamentals, as liquidity is withdrawn from commodities
-
+discount to economic fundamentals, as liquidity is withdrawn from commodities
 and other risky assets. This change has occurred gradually as business cycles are
 no longer demand- or supply-led, but rather asset-led, driven by liquidity. This
 has made shipping cycles more coincident with business cycles and subject to the
@@ -11131,6 +11752,12 @@ to owners and charterers, but on this occasion by creating gloomy expectations.
 Astute owners (see Box 1) have observed that there is sufficient cargo yet freight
 rates are depressed.
 
+> **Figure 8.9**: The deviations of demand from a linear trend
+
+> **Figure 8.10**: Deviations of China steel production from trend (8%, 17%, 12%)
+
+> **Figure 8.11**: Chinese cargo: deviation from trend (8%, 17%, 12%)
+
 ### 7 Conclusions
 
 In 2003 there was a structural change in both the oil tanker market and the dry
@@ -11156,10 +11783,7 @@ than justified by economic fundamentals, namely from the level consistent with
 demand and supply. There is a premium over the fundamental price when risk
 appetite increases; and there is a discount when there is rising risk aversion.
 
-### 9 The Interaction of Business
-
-AND SHIPPING CYCLES IN
-PRACTICE
+## Chapter 9: The Interaction of Business and Shipping Cycles in Practice
 
 ### Executive Summary
 
@@ -11279,6 +11903,19 @@ vessel prices.
 Baltic Dry Index % YoY S&P 500 % YoY
 > **Figure 9.1**: BDI and S&P 500
 
+<!-- Page 309 (Nace parse) -->
+
+### Table 9.1 Shipping cycles
+
+| Shipping Cycle (Peak to Peak) | Length of Shipping Cycle (months) | Recession Cycle (peak to end of recovery) | Recession Cycle Length (Months from Peak to Recovery) | Recession | Length of the Recession (months between Peak and Trough) | Depth of the Recession (Peak to Trough % fall) | Recovery | Recovery Length (Time between trough and previous peak level) | Expansion (Recovery to Peak) | Expansion Length (months) | Expansion Strength |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 80–Apr 88 | 96 | Apr 80–Apr 88 | 96 | Apr 80–Dec 82 | 32 | -65% | Dec 82–Apr 88 | 64 | 0 | 0 | 0 |
+| Apr 88–May 95 | 85 | Apr 88–Dec 94 | 80 | Apr 88–Jan 91 | 33 | -37% | Jan 91–Dec 94 | 47 | Dec 94–May 95 | 5 | 12% |
+| May 95–Mar 04 | 106 | May 95–Oct 03 | 101 | May 95–Feb 99 | 45 | -51% | Feb 99–Oct 03 | 56 | Oct 03–Mar 04 | 5 | 102% |
+| Mar 04–May 08 | 50 | Mar 04–Mar 07 | 36 | Mar 04–Feb 06 | 23 | -46% | Feb 06–Mar 07 | 13 | Mar 07–May 08 | 14 | 94% |
+| May 08– |  |  |  | May 08–Feb 12 | 45 | -94% |  |  |  |  |  |
+| Average | 84 |  | 78 |  | 36 | -59% |  | 45 |  | 6 | 52% |
+
 Figure 9.1 shows the increasing correlation of the BDI with the S&P 500 index
 over the past decade. The graph confirms that the shipping market acts increasingly like a leading indicator of economic activity. The association has been
 particularly pertinent over the past ten years or so, with the correlation rising to
@@ -11390,7 +12027,28 @@ are the primary conceptual measures of economic activity. In determining the
 chronology of business cycles with quarterly data the NBER uses the two most
 reliable comprehensive estimates of aggregate domestic production. These are the
 quarterly estimate of real GDP and the quarterly estimate of real Gross Domestic
-Income (GDI), both produced by the Bureau of Economic Analysis. Conceptually, the two are the same, because sales of goods and services generate income for
+Income (GDI), both produced by the Bureau of Economic Analysis. Conceptually,
+
+<!-- Page 312 (Nace parse) -->
+
+### Table 9.2 The US business cycles
+
+|  | Cycle Length (Quarters from Peak to Peak) | Characteristics | Recession | Depth of the Recession (Peak to Trough % fall) | Length of the Recession (quarters between Peak and Trough) | Recovery | Recovery Length (Time between trough and previous peak level) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1948-IV-1950-I | 5 | Double dip recession | 1948-IV-1949-II | -1.7% | 2 | 1949-II-1950-I | 3 |
+| 1953-II-1954-IV | 6 | V-type recovery | 1953-IV-1954-I | -2.7% | 3 | 1954-I-1954-IV | 3 |
+| 1957-III-1958-IV | 5 | V-type recovery | 1957-III-1958-I | -3.7% | 2 | 1958-I-1958-IV | 3 |
+| 1960-I-1961-II | 5 | V-type recovery | 1960-I-1960-IV | -1.6% | 3 | 1960-IV-1961-II | 2 |
+| 1969-III-1971-I | 6 | Double dip recession | 1969-III-1970-IV | -0.6% | 5 | 1970-IV-1971-I | 1 |
+| 1973-IV-1975-IV | 8 | False Recovery 74-II | 1973-IV-1975-I | -3.4% | 5 | 1975-I-1975-IV | 3 |
+| 1980-I-1981-I | 4 | First Leg of Recession | 1980-I-1980-III | -2.2% | 2 | 1980-III-1981-I | 2 |
+| 1981-I-1983-II | 9 | Second Leg of Recession | 1981-I-1982-III | -2.4% | 6 | 1982-III-1983-II | 3 |
+| 1990-II-1992-I | 7 | Anaemic Recovery | 1990-II-1991-I | -1.5% | 3 | 1991-I-1992-I | 4 |
+| 2001-I-2001-IV | 4 | Anaemic Recovery | 2000-IV-2001-III | -0.6% | 3 | 2001-III-2001-IV | 1 |
+| 2007-IV-2009 II |  | Anaemic Recovery | 2007-IV-2009-II | -4.6% | 7 | 2009-II-? |  |
+| Average | 5.9 |  |  | -2.3% | 3.4 |  | 2.5 |
+
+the two are the same, because sales of goods and services generate income for
 producers and workers equal to the value of the sales. However, because the measurement on the product and income sides proceeds somewhat independently, the
 two actual measures differ by a statistical discrepancy.
 In determining the beginning of the 2008 recession using quarterly data the
@@ -12845,7 +13503,57 @@ plotted in Figure 10.A2, along with the actual historical errors and the margin
 
 HOPE Demand Error % Margin of error % Margin of error %
 Actual Demand (HOPE data) M DWT RHS HOPE Rule of Thumb Demand M DWT RHS
-Figure 10.A2 HOPE rule of thumb demand
+
+<!-- Page 350 (Nace parse) -->
+
+> **Figure 10.A3**: HOPE log-linear demand model on world GDP
+
+
+> **Figure 10.A4**: Demand for dry (% YoY) – SAIL model
+
+100
+200
+300
+400
+500
+600
+700
+800
+Dec-00
+Dec-02
+Dec-04
+Dec-06
+Dec-08
+Dec-10
+Dec-12
+Dec-14
+Dec-16
+Model Error %
+Margin of error 0.072786
+Actual Demand (HOPE data) M DWT RHS
+Margin of error
+Estimated Demand M DWT RHS
+Jan-89
+Jan-91
+Jan-93
+Jan-95
+Jan-97
+Jan-99
+Jan-01
+Jan-03
+Jan-05
+Jan-07
+Jan-09
+Jan-11
+Jan-13
+Projection
+Main Scenario
+Forecast Error %
+Mean+2SD
+Mean-2SD
+Risk Scenario
+
+> **Figure 10.A2**: HOPE rule of thumb demand
 of error based on one standard deviation. The demand trajectories are obtained
 by applying the rule of thumb of a fixed multiplier (1.43 times) of world GDP
 and applying a bias favourable to HOPE-FUND. HOPE-FUND does not provide
@@ -12916,6 +13624,11 @@ the tightness of the labour market, which depends in turn on the rate of growth 
 the economy. Hence, it is unlikely that variations in equipment and labour costs can account for the large volatility of NB prices. Accordingly, from the three cost
 components only the price of hot rolled steel can directly contribute to the variability of NB prices. To test this hypothesis a log-linear model is built of NB prices
 on the price of hot rolled steel (see Figure 10.A6).
+
+> **Figure 10.A5**: HOPE NB rule of thumb
+
+> **Figure 10.A6**: Log-linear NB prices model
+
 This log-linear model has a slightly smaller margin of error than the original
 HOPE-FUND model (14.7 per cent relative to 15 per cent), implying approximately the same average profit margin This casts doubt on the usefulness of
 the HOPE-FUND model in forecasting NB prices, as the projections depend
@@ -12938,7 +13651,7 @@ that the projection of NB prices should be based on the SAIL model.
 Forecast Error % Mean+2SD Mean-2SD Actual Vessel Prices $/DWT
 Main Scenario Risk Scenario
 Projection
-Figure 10.A7 New vessel prices - SAIL model
+> **Figure 10.A7**: New vessel prices - SAIL model
 
 NOTES
 
@@ -13252,6 +13965,65 @@ difference.
 stationary). See the Statistical Appendix.
 14. This cointegrating vector is postulated in Kavussanos and Alizadeh (2002b).
 But there are other possible cointegrating vectors, which are based on an explicit
+
+<!-- Page 361 (Nace parse) -->
+
+structural model of the newbuilding and secondhand markets. See below for justification and references.
+
+15. The variance definition is the sum of squared deviations from the mean, but as the mean is zero, the variance is simplified to (A.3b).
+
+16. The covariance of \(\varepsilon_{t}\) and \(\varepsilon_{t - j}\) (for any \(j\) different than zero) is defined as
+
+\[
+\operatorname{cov} \left(\varepsilon_ {t}, \varepsilon_ {t - j}\right) = E \left(\varepsilon_ {t} - E \varepsilon_ {t}\right) \left(\varepsilon_ {t - j} - E \varepsilon_ {t - j}\right) = E \left(\varepsilon_ {t} \cdot \varepsilon_ {t - j}\right).
+\]
+
+The simplification in the last term comes from the assumption that the mean is zero for all t. The covariance can be computed from the correlation coefficient \( \rho \), which is defined as the covariance divided by the standard deviation of \( \varepsilon_{t} \) and \( \varepsilon_{t-j} \).
+
+\[
+\rho = \operatorname{cov} (\varepsilon_ {t}, \varepsilon_ {t - j}) / \left\{\left[ \operatorname{var} (\varepsilon_ {t}) ^ {- 1 / 2} \right] \cdot \left[ \operatorname{var} (\varepsilon_ {t - j}) ^ {- 1 / 2} \right] \right\} \quad \text {or}
+\]
+
+\[
+\operatorname{cov} \left(\varepsilon_ {t}, \varepsilon_ {t - j}\right) = \rho \cdot \operatorname{var} \left(\varepsilon_ {t}\right) = \rho \cdot \sigma^ {2}
+\]
+
+As the standard deviation of \( \varepsilon_{t} \) is equal to that of \( \varepsilon_{t-j} \) the denominator is simply the variance of \( \varepsilon_{t} \). Hence, the covariance would only be zero, if the correlation coefficient is zero.
+
+17. A mathematically oriented reader can easily see that the coefficient \(\beta\) should be within the unit circle (that is, \(\pm 1\)), as equation (A.1) is a first-order difference equation. See the next footnote for more details.
+
+18. The requirement of the condition (absolute) \(\beta < 1\) is also apparent from the solution of the first-order difference equation (A.1) derived through back substitution of (A.1)
+
+\[
+y _ {t} = a [ 1 + \beta + \beta^ {2} + \dots ] + \beta^ {n} y _ {t - n} + \sum_ {i = 0} ^ {n - 1} \beta^ {i} \varepsilon_ {t - i} = \frac {a}{1 - \beta} + \sum_ {i = 0} ^ {n - 1} \beta^ {i} \varepsilon_ {t - i}
+\]
+
+(A.7)
+
+In deriving this relation we have used that the second term on the right-hand side tends to zero as \( n \) tends to infinity and that the first term in the parenthesis on the right-hand side is the sum of a geometric series with declining weights at the rate \( \beta \). The sum is only equal to \( 1 / (1 - \beta) \), if \( \beta < 1 \).
+
+Using (A.7) the variance of \(y\) is
+
+\[
+\operatorname{var} \left(y _ {t}\right) = E \left(y _ {t} - \mu\right) ^ {2} = E \left(\sum_ {i = 0} ^ {n - 1} \beta^ {i} \varepsilon_ {t - i}\right) = \sigma^ {2} \left[ 1 + \beta^ {2} + \beta^ {4} + \dots \right] = \frac {\sigma^ {2}}{1 - \beta^ {2}}
+\]
+
+(A.6b)
+
+In deriving (A.6b) we replaced \( a/(1-\beta) \) in (A.7) with \( \mu \) and made use of the hypothesis that the term in the parenthesis \( [1+\beta^{2}+\beta^{4}+\cdots] \) is the sum of a geometric series with declining weights at the rate \( \beta^{2} \). The sum is only equal to \( 1/(1-\beta^{2}) \), if \( \beta<1 \).
+
+19. The concept of stationarity is equivalent to stability. A time series variable \( y \) is stable if for any exogenous shock it returns to its equilibrium value.
+
+20. In a spurious regression two variables are seemingly related through a third variable, such a time trend. The correlation is high, but this is due to the trend. When the trend is removed the two variables are not correlated.
+
+21. The Akaike Information Criterion (AIC) measures the trade-off between the ‘goodness of fit’ and the information loss from the complexity of the model. The AIC is defined as:
+
+\[
+\mathrm{AIC} = 2 p - 2 \ln (L)
+\]
+
+(A.23)
+
 where p is the number of coefficients estimated in the statistical model and L is the
 maximised value of the likelihood function. Hence, the AIC is a measure of the
 relative quality of the statistical model. The AIC is used in the literature.

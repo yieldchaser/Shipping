@@ -2594,85 +2594,27 @@ thirteen routes. The panel's recommended rates are entered into a
 computer which has been appropriately programmed. From the
 computer is derived the so-called Baltic Freight Index, which is
 published in maritime and commercial journals:
-Baltic Freight Index
-954.50 (Previous Day -
-986.00)
-The BanlC InternallOnal Freight Futures Exchange in London and the InternatIOnal Futures Exchange
-(Bermuda) Ltd. offer owners and charterers in the bulk shipping community a forum for futures trading of a
-freight rate index. The contracts are based on the Banic Freight Index. announced daily. of13 routes listed
-belOw.
-.
-DoIIanI
-Routes
-Commodity
-Weight
-MetJic Ton
-lftcIea
-U.S. Gulf·North ContInent
-Grain
-20'<>
-9.100
-1002.5
-U.S. Gulf-Japan
-Grain
-20%
-14.000
-980.0
-U.S. North PacIfIC Japan
-Grain
-15%
-8.492
-920.5
-U.S. Gulf-Venezuela
-Grain
-5%
-11.417
-978.0
-Antwerp-Red Saa
-Grain
-5%
-18.867
-912.5
-Hampton Roads-Richards Bay-Japan
-Coal
-5%
-9.850
-955.0
-. Hampton Roads-North Continent
-Coal
-5%
-5.383
-931.5
-Queensland-Rotterdam
-Coal
-5%
-9.175
-810.5
-Vancouver-San Dieg~oIferdam
-Petcoke
-5%
-10.833
-809.0
-Monrovla-Rotlerdam
-Iron Ore
-5%
-4.717
-1048.0
-RecHe-U .S. East Coast
-Sugar
-5%
-15.375
-938.5
-Hamburg-West Coast India
-Potash
-2.5%
-28.000
-968.0
-Aqaba-West eoest India
-Phosrock
-2.5%
-12.125
-895.5
+**Baltic Freight Index**
+*954.50 (Previous Day — 986.00)*
+
+The Baltic International Freight Futures Exchange in London and the International Futures Exchange (Bermuda) Ltd. offer owners and charterers in the bulk shipping community a forum for futures trading of a freight rate index. The contracts are based on the Baltic Freight Index, announced daily, of 13 routes listed below.
+
+| Routes | Commodity | Weight | Dollars/Metric Ton | Index |
+| :--- | :--- | ---: | ---: | ---: |
+| U.S. Gulf-North Continent | Grain | 20% | 9.100 | 1002.5 |
+| U.S. Gulf-Japan | Grain | 20% | 14.000 | 980.0 |
+| U.S. North Pacific Japan | Grain | 15% | 8.492 | 920.5 |
+| U.S. Gulf-Venezuela | Grain | 5% | 11.417 | 978.0 |
+| Antwerp-Red Sea | Grain | 5% | 18.867 | 912.5 |
+| Hampton Roads-Richards Bay-Japan | Coal | 5% | 9.850 | 955.0 |
+| Hampton Roads-North Continent | Coal | 5% | 5.383 | 931.5 |
+| Queensland-Rotterdam | Coal | 5% | 9.175 | 810.5 |
+| Vancouver-San Diego-Rotterdam | Petcoke | 5% | 10.633 | 809.0 |
+| Monrowia-Rotterdam | Iron Ore | 5% | 4.717 | 1048.0 |
+| Recife-U.S. East Coast | Sugar | 5% | 15.375 | 936.5 |
+| Hamburg-West Coast India | Potash | 2.5% | 28.000 | 968.0 |
+| Aqaba-West Coast India | Phosrock | 2.5% | 12.125 | 895.5 |
+
 Each Baltic Freight Index point has been assigned an arbitrary
 value of $10.00. Any shipowner or charterer may purchase or sell
 points by arranging with a member of the BIFFEX to represent
@@ -6044,49 +5986,26 @@ Labor is, by all odds, the most expensive single element in the
 commodity rate. It is, moreover, an element that consists of both
 wages and those items tied directly to wages. The components of
 the labor cost are illustrated by the following hypothetical schedule:
-Labor cost
-18men
-1 foreman
-Insurance
-Social security
-Workmen's compensa-
-tion, state and federal
-unemployment taxes
-@ $14.00 per hour
-@
-14.50 per hour
-@45.8% of wages
-@ 7.5% of wages
-@ 14.0% of wages
-Subtotal
-Subtotal
-$252.00
-14.50
-266.50
-122.06
-19.99
-37.31
-179.36
-Total direct labor costs per hour $445.86
+| Item | Rate | Amount |
+| :--- | :--- | ---: |
+| **Labor cost** |  |  |
+| 18 men | @ $14.00 per hour | $252.00 |
+| 1 foreman | @ 14.50 per hour | 14.50 |
+|  | Subtotal | 266.50 |
+| Insurance | @ 45.8% of wages | 122.06 |
+| Social security | @ 7.5% of wages | 19.99 |
+| Workmen's compensation, state and federal unemployment taxes | @ 14.0% of wages | 37.31 |
+|  | Subtotal | 179.36 |
+|  | Total direct labor costs per hour | $445.86 |
+| **Fringe benefits** |  |  |
+| Vacation | @ $2.10/man/hr | 39.90 |
+| Welfare | @ 1.05/man/hr | 19.95 |
+| Pension | @ 1.50/man/hr | 28.50 |
+| Guaranteed income | @ 0.22/man/hr | 4.18 |
+| Port security | @ 0.05/man/hr | .95 |
+|  | Subtotal | $ 93.48 |
+|  | Total labor costs per hour | $539.34 |
 
-Fringe benefits
-Vacation
-Welfare
-Pension
-Guaranteed income
-Port security
-@ $2.10/man/hr
-@ 1.05/man/hr
-@ 1.50/man/hr
-@ 0.22/man/hr
-@ 0.05/man/hr
-39.90
-19.95
-28.50
-4.18
-.95
-Subtotal $ 93.48
-Total labor costs per hour $539.34
 U sing this determination of the total hourly wage cost for a gang
 oflongshoremen, the contractor must forecast what his production
 will be; i.e., how many tons of a given commodity this gang of
@@ -6096,24 +6015,17 @@ rate, somewhat in the following manner:
 Commodity: Coffee beans, in bags
 Handling rate: 28 tons per hour
 Basic labor cost: $539.34 per gang hour
-Labor cost ($539.34 divided by 28 tons)
-Checker's services @ $28.38, prorated
-per ton
-Equipment costs (2 forklift trucks @ $14 per
-hour, supporting equipment @$8per
-hour), prorated per ton
-Supervision @ 10% of labor and checking
-costs, prorated per ton
-Overhead @ 15% of all above prorated costs
-Profit @ 8% of all above prorated costs
-Commodity rate, per ton
-$19.2621
-1.0138
-1.2857
-2.1562
-3.5577
-2.1821
-$29.4576
+
+| Component | Per ton |
+| :--- | ---: |
+| Labor cost ($539.34 divided by 28 tons) | $19.2621 |
+| Checker's services @ $28.38, prorated per ton | 1.0138 |
+| Equipment costs (2 forklift trucks @ $14 per hour, supporting equipment @ $8 per hour), prorated per ton | 1.2857 |
+| Supervision @ 10% of labor and checking costs, prorated per ton | 2.1562 |
+| Overhead @ 15% of all above prorated costs | 3.5577 |
+| Profit @ 8% of all above prorated costs | 2.1821 |
+| Commodity rate, per ton | $29.4576 |
+
 From this illustration, it may be seen what factors must be taken
 into account, and how carefully each commodity must be con-
 sidered in establishing this rate schedule. In deciding which steve-
@@ -10724,41 +10636,25 @@ is Class 1, and the least expensive is Class 8. The higher the number
 of the class the lower the rate will be. There is no mathematical
 proportion or relation among these various classes.
 Examples of classification of cargo are shown below:
-Article
-Class
-Flowers, artificial
-1
-Formaldehyde
-2
-Fuses, hazardous
-D
-Glass, sheets, frosted
-7
-Grilles, iron or steel
-4
-Graphite, not otherwise specified
-3
-Graphite, in bulk, in bags or barrels
-6
-Gypsum
-8
-Heaters, coal burning
-5
+| Article | Class |
+| :--- | :--- |
+| Flowers, artificial | 1 |
+| Formaldehyde | 2 |
+| Fuses, hazardous | D |
+| Glass, sheets, frosted | 7 |
+| Grilles, iron or steel | 4 |
+| Graphite, not otherwise specified | 3 |
+| Graphite, in bulk, in bags or barrels | 6 |
+| Gypsum | 8 |
+| Heaters, coal burning | 5 |
+
 The corresponding rates would be
-D
-1
-2
-345 678
-Per 100 Ibs.
-$4.45 $3.50 $2.90 $2.25 $2.00 $1.78 $1.65 $1.56 $1.35
-Per cu. ft.
-2.50
-1.95
-1.65
-1.25 1.12 1.00
-.92
-.88
-.75
+
+|  | D | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Per 100 lbs. | $4.45 | $3.50 | $2.90 | $2.25 | $2.00 | $1.78 | $1.65 | $1.56 | $1.35 |
+| Per cu. ft. | 2.50 | 1.95 | 1.65 | 1.25 | 1.12 | 1.00 | .92 | .88 | .75 |
+
 Commodity rates are fixed by water carriers usually as a result
 of pressure from shippers who find it competitively impossible·to
 pay the freight rate of the class to which the commodity otherwise
@@ -13223,35 +13119,23 @@ ple, it is estimated that a tanker of 30,000 tons deadweight will cost
 $42,400,000. She is to operate between Texas and New York, and
 her normal load will be 28,200 revenue tons. To determine what
 she must earn, these assumptions are made:
-Operating days per year
-Length of voyage, in days
-N umber of trips to be completed in a year
-Cargo delivered in one year, tons
-Crew wages for 26 persons, per year
-Subsistence of crew
-Stores, supplies, and equipment
-Maintenance and repair
-Insurance
-Other expenses
-Port fees and charges
-Fuel costs
-Capital cost (construction amortized over 20
-years; interest payable at 16 percent per year)
-Total annual costs
-350
-10.1
-34.7
-978,840
-$1,470,000
-50,000
-95,000
-350,000
-190,000
-35,000
-682,000
-1,980,000
-4,980,000
-$9,832,0002
+| Assumption | Value |
+| :--- | ---: |
+| Operating days per year | 350 |
+| Length of voyage, in days | 10.1 |
+| Number of trips to be completed in a year | 34.7 |
+| Cargo delivered in one year, tons | 978,840 |
+| Crew wages for 26 persons, per year | $1,470,000 |
+| Subsistence of crew | 50,000 |
+| Stores, supplies, and equipment | 95,000 |
+| Maintenance and repair | 350,000 |
+| Insurance | 190,000 |
+| Other expenses | 35,000 |
+| Port fees and charges | 682,000 |
+| Fuel costs | 1,980,000 |
+| Capital cost (construction amortized over 20 years; interest payable at 16 percent per year) | 4,980,000 |
+| Total annual costs | $9,832,000² |
+
 The freight rate required to meet these costs is $10.04 per ton.
 lt is derived by dividing the total annual cost by the number of tons
 of cargo carried in a year. The senior traffic executive must de-
@@ -17169,90 +17053,23 @@ derived, and this figure was subtracted from 100 percent (the
 American wage level) to establish the actual percentage of the
 seamen's wages to be subsidized. The table below demonstrates
 these steps in the computation.
-United
-Nether-
-States
-lands
-Belgium
-Norway
-(a)
-(b)
-(c)
-(d)
-1. Number in ship's
-crew
-39
-26
-39
-32
-2. Base wages
-$ 53,687
-$ 23,127
-$ 24,779
-$ 27,257
-3. Allowances
-1,074
-3,097
-4,584
-289
-4. Vacation pay
-35,681
-9,499
-13,009
-11,976
-5. Pension and welfare
-33,407
-3,923
-2,065
-124
-6. Social security
-6,608
-4,584
-7,227
-10,118
-7. Overtime and other
-variable costs
-48,732
-7,021
-10,944
-12,389
-8. Repatriation
-413
-9. Total wage costs
-184,189
-51,251
-62,608
-62,566
+|  | United States (a) | Netherlands (b) | Belgium (c) | Norway (d) |
+| :--- | ---: | ---: | ---: | ---: |
+| 1. Number in ship's crew | 39 | 26 | 39 | 32 |
+| 2. Base wages | $ 53,687 | $ 23,127 | $ 24,779 | $ 27,257 |
+| 3. Allowances | 1,074 | 3,097 | 4,584 | 289 |
+| 4. Vacation pay | 35,681 | 9,499 | 13,009 | 11,976 |
+| 5. Pension and welfare | 33,407 | 3,923 | 2,065 | 124 |
+| 6. Social security | 6,608 | 4,584 | 7,227 | 10,118 |
+| 7. Overtime and other variable costs | 48,732 | 7,021 | 10,944 | 12,389 |
+| 8. Repatriation | - | - | - | 413 |
+| 9. Total wage costs | 184,189 | 51,251 | 62,608 | 62,566 |
+| 10. Unweighted percentage, United States to foreign wage costs | - | 27.82% | 33.99% | 33.96% |
+| 11. Competition weight factor | - | 19.1% | 22.1% | 39.2% |
+| 12. Weighted percentage | - | 5.31% | 7.51% | 13.31% |
 
-United
-Nether-
-States
-lands
-Belg-illl1l
-\: orwav
-(a)
-(b)
-(c)
-(d)
-10. Unweighted per-
-centage, United
-States to foreign
-wage costs
-27.82%
-33.99%
-33.96%
-11. Competition weight
-factor
-19.1%
-22.1%
-39.2%
-12. Weighted percent-
-age
-5.31%
-7.51%
-13.31%
-13. Composite weighted percentage (sum ofb, c, and d) is 26.13%
-14. Percentage of wage costs subject to subsidy is 73.62%7
+13. Composite weighted percentage (sum of b, c, and d) is 26.13%
+14. Percentage of wage costs subject to subsidy is 73.62%⁷
 Similar calculations are performed for the other items of oper-
 ating cost to which subsidy assistance is applicable.
 The operating-differential subsidy contract requires that the

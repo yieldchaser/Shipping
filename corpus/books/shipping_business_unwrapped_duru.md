@@ -704,75 +704,6 @@ Walter C. Bergius is an interesting figure in industrial history. His father-in-
 William Teacher, was the founder of Teacher Scotch Whiskey Distillery (still
 active and owned by Bean Suntory Co.), and his son, Walter McDonald Bergius,
 was the founding partner of Kelvin Marine Engines (still active and owned by
-
-Miles.
-Pence per ton-
-
-mile of Carriage.
-
-of Commercial
-
-ANNUAL COMMERCIAL PERFORMANCE
-
-Performance.
-
-ANNUAL COST AND ANNUAL COMMERCIAL PERFORMANCE OF FIVE MERCHANT STEAMERS RECENTLY CONSTRUCTED
-
-First Cost
-
-Figure 2.1 The first use of the ton-mile metric for shipping services by Walter C. Bergius (1871)
-
-besides
-
-weight
-
-Dead-
-
-Coal.
-
-of Ships.
-
-Annual
-
-Total
-
-Cost
-
-1.-German Ocean Water Ballast Collier
-3,100
-£
-£
-£
-£
-
-ANNUAL COST OF SHIPS.
-
-Accounts.
-
-Crew and
-
-Provision
-
-Accounts.
-
-Coal and
-
-Engine
-
-Store
-
-tear and wear,
-
-and insurance
-
-maintenance,
-
-accounts.
-
-Interest,
-
-TYPE OF SHIP.
-
 British Polar Engines Ltd.) He was born in Germany (1847) and worked for a
 shipyard in Kiel as well as engaging in physical and mathematical studies at the
 University of Kiel. Then, he moved to Edinburgh and naturalized in Scottish
@@ -780,6 +711,18 @@ citizenship while teaching astronomy at the Anderson College of Glasgow. He
 was the first chairman of the British-German Astronomical Society. Later, he
 returned to the shipbuilding industry. He owned Walter C. Bergius & Co.,
 Engineers and Naval Architects, Glasgow.9
+
+**Annual Cost and Annual Commercial Performance of Five Merchant Steamers Recently Constructed**
+
+| Type of Ship | Annual Cost of Ships: Interest, tear and wear, maintenance, and insurance accounts (£) | Annual Cost of Ships: Coal and Engine Store Accounts (£) | Annual Cost of Ships: Crew and Provision Accounts (£) | Annual Cost of Ships: Total Annual Cost of Ships (£) | Annual Commercial Performance of Ships: Dead-weight besides Coal (Tons) | Annual Commercial Performance of Ships: Mileage per Year (Nautical Miles) | Annual Commercial Performance of Ships: Commercial Performance per Year (Ton-miles) | Annual Commercial Performance of Ships: First Cost of Commercial Performance (Pence per ton-mile of Carriage) |
+|:---|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1.-German Ocean Water Ballast Collier | 3,100 | 540 | 1,350 | 4,990 | 1,000 | 38,000 | 38 millions | 0.031*d.* |
+| 2.-Balstic Goods Carrier | 4,500 | 2,450 | 1,850 | 8,800 | 1,000 | 37,000 | 38 ,, | 0.057*d.* |
+| 3.-Home Trade Grain Carrier | 1,500 | 520 | 1,250 | 3,270 | 350 | 38,000 | 13½ ,, | 0.058*d.* |
+| 4.-Foreign Coasting Steamer | 3,500 | 4,750 | 1,550 | 9,800 | 500 | 38,000 | 19 ,, | 0.124*d.* |
+| 5.-North Atlantic Mail Steamer | 18,000 | 8,400 | 1,300 | 34,700 | 1,200 | 42,000 | 50½ ,, | 0.165*d.* |
+
+*Figure 2.1* The first use of the ton-mile metric for shipping services by Walter C. Bergius (1871)
 
 There are some publications utilizing and emphasizing the approach in the
 last quarter of the 19th century. For example, Thomas F. Woodlock wrote a

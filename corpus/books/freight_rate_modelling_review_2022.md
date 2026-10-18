@@ -200,7 +200,7 @@ Transportation Review.
 
 > **Figure 1**: Distribution of articles per year versus BDI (Source of BDI: Clarksons Research 2020).
 
-### Table 1: Distribution of Articles in Journals
+### Table 1. Distribution of articles in journals.
 
 | Journal | Number of Papers | Percentage |
 | :--- | :---: | :---: |
@@ -209,7 +209,7 @@ Transportation Review.
 | Transportation Research Part E: Logistics and Transportation Review | 25 | 14.88% |
 | The Asian Journal of Shipping and Logistics | 8 | 4.76% |
 | Journal of Transport Economics and Policy | 6 | 3.57% |
-| Physica A: Statistical Mechanics and Its Applications | 6 | 3.57% |
+| Physica A-Statistical Mechanics and Its Applications | 6 | 3.57% |
 | International Journal of Shipping and Transport Logistics | 6 | 3.57% |
 | Energy Economics | 5 | 2.98% |
 | Applied Economics | 5 | 2.98% |
@@ -307,26 +307,26 @@ forecasting. The traditional econometric models applied here are autoregressive 
 (ARMA), autoregressive integrated moving average (ARIMA), and ARCH-type models. Other
 nonlinear and nonparametric methods such as empirical mode decomposition (EMD), multifractal
 detrended fluctuation analysis (MF-DFA), rescaled range analysis, stochastic differential equation
-### Table 2: Summary of Common Quantitative Methods
+### Table 2. Summary of common methods.
 
-| Category | Method | First Introduced | Number of Papers |
-| :--- | :--- | :---: | :---: |
-| Classic Econometric Model | Linear Regressions | 1886 | 14 |
-| Classic Econometric Model | Autoregressive Moving Average (ARMA) | 1951 | 6 |
-| Classic Econometric Model | Autoregressive Integrated Moving Average (ARIMA) | 1970 | 15 |
-| Classic Econometric Model | ARCH-type | 1982 | 37 |
-| Classic Econometric Model | Vector Autoregression (VAR) | 1980 | 33 |
-| Classic Econometric Model | Vector Error Correction Model (VECM) | 1995 | 25 |
-| Classic Econometric Model | Structural Equation Model (SEM) | 1960s | 3 |
-| Theoretical Model | Equilibrium Model | 1870s | 8 |
-| Simulation | System Dynamics (SD) Simulation | 1958 | 5 |
-| Other Data-Driven Mathematical Approach | Empirical Mode Decomposition (EMD) | 1998 | 7 |
-| Other Data-Driven Mathematical Approach | Multifractal Detrended Fluctuation Analysis (MF-DFA) | 2002 | 5 |
-| Other Data-Driven Mathematical Approach | Rescaled Range Analysis | 1951 | 7 |
-| Other Data-Driven Mathematical Approach | Stochastic Differential Equation (SDE) | 1942 | 6 |
-| Other Data-Driven Mathematical Approach | Wavelet Transform | 1984 | 3 |
-| Machine Learning | Artificial Neural Network (ANN) | 1964 | 12 |
-| Machine Learning | Support Vector Machine (SVM) | 1995 | 1 |
+| Method |  | First introduced in | Number of papers |
+| :--- | :--- | ---: | ---: |
+| Classic econometric model | Linear Regressions | 1886 | 14 |
+| Classic econometric model | Autoregressive moving average (ARMA) | 1951 | 6 |
+| Classic econometric model | Autoregressive integrated moving average (ARIMA) | 1970 | 15 |
+| Classic econometric model | ARCH-type | 1982 | 37 |
+| Classic econometric model | VAR | 1980 | 33 |
+| Classic econometric model | VECM | 1995 | 25 |
+| Classic econometric model | Structural equation model (SEM) | 1960s | 3 |
+| Theoretical model | Equilibrium model | 1870s | 8 |
+| Simulation | System dynamics (SD) simulation | 1958 | 5 |
+| Other data-driven mathematical approach | Empirical mode decomposition (EMD) | 1998 | 7 |
+| Other data-driven mathematical approach | Multifractal detrended fluctuation analysis (MF-DFA) | 2002 | 5 |
+| Other data-driven mathematical approach | Rescaled range analysis | 1951 | 7 |
+| Other data-driven mathematical approach | Stochastic differential equation (SDE) | 1942 | 6 |
+| Other data-driven mathematical approach | Wavelet transform | 1984 | 3 |
+| Machine learning | Artificial neural network (ANN) | 1964 | 12 |
+| Machine learning | Support vector machine (SVM) | 1995 | 1 |
 
 (SDE), and wavelet transform are mainly used for the analysis of time series characteristics (e.g.,
 cyclic behaviour, volatility cluster, and stationarity) of freight rates, as they have the advantage of
@@ -377,10 +377,11 @@ A potential explanation for this observation could be that commodity prices and 
 correlated and prices of liquid bulk such as crude oil are more volatile than prices of dry bulk such
 as wheat and steel. Therefore, it is important to investigate the differences among the shipping
 sectors and differentiate them while studying the freight rates.
-### Table 3: Forecast Performance Comparisons Among Models
+### Table 3. Forecast performance comparisons among models.
 
-> **Note on Table 3**: This table reports the forecast performance of models evaluated across reviewed literature. Forecast error measurements include Mean Absolute Deviation (MAD), Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Median Relative Absolute Error (MdRAE), Mean Error (ME), Mean Percentage Error (MPE), Mean Squared Error (MSE), Normalized Root Mean Squared Error (NRMSE), Root Mean Squared Error (RMSE), and Standard Deviation of Error (SDE).  
-> **Model Acronyms**: RW (Random Walk), EGARCH (Exponential GARCH), TGARCH (Threshold GARCH), APGARCH (Asymmetric Power ARCH), IGARCH (Integrated GARCH), CGARCH (Component GARCH), GJR-GARCH (Glosten-Jagannathan-Runkle GARCH), GARCH-M (GARCH-in-mean), ARIMARCH (Hybrid ARIMA + ARCH), BPNN (Back Propagation Neural Network), RBFNN (Radial Basis Function Neural Network), ELM (Extreme Learning Machine), DFN (Dynamic Fluctuation Network), AGA (Adaptive Genetic Algorithm), MNN (Modular Neural Network), GFNN (Generalized Feedforward Neural Network), PCANN (Principal Components Analysis Neural Network), SOFM (Self-Organizing Feature Map), MLP (Multi-Layer Perceptron), FTS (Fuzzy Time Series), FNN (Fuzzy Neural Network).
+*The table body is printed as an image (rank grid of papers against models, colour-coded); it has no text layer and is not transcribed here.*
+
+Note: This table reports the forecast performance of each model used in different papers. Comparison should be done within each row, using the colour from green to yellow (or small to large numbers), where green (larger number) represents the better performing models and yellow (smaller number) represents the worse performing models. Forecast error measurements include mean absolute deviation (MAD), mean absolute error (MAE), mean absolute percentage error (MAPE), median relative absolute error (MdRAE), mean error (ME), mean percentage error (MPE), mean square Error (MSE), normalized root mean squared error (NRMSE), root mean squared error (RMSE), and standard deviation of error (SDE). Besides the model abbreviations defined previously, RW refers to random walk; EGARCH, Exponential GARCH; TGARCH, Threshold-GARCH, APGARCH, Asymmetric Power-ARCH; IGARCH, Integrated-GARCH; CGARCH, Component GARCH; GJR-GARCH, Glosten-Jagannathan- Runkle GARCH; and GARCH-M, GARCH-in-mean. ARIMARCH is a model developed in Munim and Joachim Schramm (2017) that combines ARIMA and ARCH. BPNN, RBFNN, ELM, and DFN stand for back propagation neural network, radial basis function neural network, the extreme learning machine, and dynamic fluctuation network, respectively. AGA, adaptive genetic algorithm; MNN, modular neural network; GFNN, generalized feedforward neural network; PCANN, principal components analysis neural network; SOFM, self-organizing feature map; MLP, multi-layer perceptron; FTS, fuzzy time series; FNN, fuzzy neural network.
 
 Most papers studied freight rates of dry bulk (62.5%) and tanker (29.2%), with only 13.1% on
 container. However, when only looking at the papers with multivariate models, the percentage
@@ -451,7 +452,7 @@ market.
 Furthermore, some freight rate influencing factors that are considered in the container liner
 shipping practices are not yet discussed extensively in the scientific literature. For example, port
 congestion and empty container shortage have been the consequences of COVID-19 pandemic,
-### Table 4: Summary of Common Influencing Factors by Shipping Sector
+### Table 4. Summary of common factors.
 
 | Category | Variable | Dry Bulk (44 papers) | Tanker (26 papers) | Container (17 papers) |
 | :--- | :--- | :---: | :---: | :---: |

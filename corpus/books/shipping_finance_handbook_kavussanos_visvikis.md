@@ -19,6 +19,843 @@ category: "Shipping Finance / Theory & Practice"
 
 **Publisher:** Palgrave Macmillan
 
+<!-- Page 4 (Nace parse) -->
+
+Editors
+
+Manolis G. Kavussanos
+
+Ilias D. Visvikis
+
+Athens University of Economics and Business
+
+Athens , Greece
+
+World Maritime University
+
+e-mail: mkavus@aueb.gr
+
+Malmö , Sweden
+
+e-mail: iv@wmu.se
+
+ISBN 978-1-137-46545-0
+
+ISBN 978-1-137-46546-7 (eBook)
+
+DOI 10.1057/978-1-137-46546-7
+
+Library of Congress Control Number: 2016957773
+
+© The Editor(s) (if applicable) and The Author(s) 2016
+
+The author(s) has/have asserted their right(s) to be identified as the author(s) of this work in accordance with the Copyright, Design and Patents Act 1988.
+
+Th is work is subject to copyright. All rights are solely and exclusively licensed by the Publisher, whether the whole or part of the material is concerned, specifi cally the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfi lms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed.
+
+Th e use of general descriptive names, registered names, , trademarks, service marks, etc. in this publication does not imply, even in the absence of a specifi c statement, that such names are exempt from the relevant protective laws and regulations and therefore free for general use
+
+Th e publisher, the authors and the editors are safe to assume that the advice and information in this book are believed to be true and accurate at the date of publication. Neither the publisher nor the authors or the editors give a warranty, express or implied, with respect to the material contained herein or for any errors or omissions that may have been made.
+
+Printed on acid-free paper
+
+Th is Palgrave Macmillan imprint is published by Springer Nature
+
+Th e registered company is Macmillan Publishers Ltd. London
+
+The registered company address is: The Campus, 4 Crinan Street, London, N1 9XW, United Kingdom
+
+<!-- Page 5 (Nace parse) -->
+
+# About the Editors
+
+**Manolis G. Kavussanos** is Professor at the Athens University of Economics and Business (AUEB), Greece. He is the director of the MSc program in International Shipping, Finance and Management and of the Laboratory for Finance since their inception. He is also a member of the steering committees of the MSc program in Accounting and Finance, of the Athens MBA program, and was for five years the director of the MSc and PhD programs in Accounting and Finance at AUEB. He holds a BSc and an MSc (Economics) from the University of London and a PhD (Applied Economics) from City University Cass Business School (Cass), London. He launched and directed, until he joined AUEB, the MSc in Trade, Logistics and Finance at Cass. He has held various posts as professor of finance and shipping in universities in more than eight countries around the globe, such as the UK, France, The Netherlands, Belgium, Italy, Singapore, China, Greece and Cyprus. He has provided consultancy and executive training services in finance and shipping to private companies and public sector national and international organizations, has been a member of international committees for the evaluation of academic programs in tertiary academic institutions and for the award of prestigious prizes and research funding. Professor Kavussanos has written extensively in the areas of finance, shipping and applied economics, and is the author of numerous academic papers published in top international refereed journals, in conference proceedings and in books. He is a member of the editorial board on a number of international scientific journals. His work has been presented in international conferences and professional meetings around the world, gaining awards for its quality, financed by both public (e.g. European Community) and private sector organizations, companies and foundations (e.g. the Propontis Foundation) and cited extensively by other
+
+
+<!-- Page 6 (Nace parse) -->
+
+researchers in the area. Since 1992 he has worked in developing the area of risk analysis and management in shipping and is the co-author of three books in this area.
+
+**Ilias D. Visvikis** is Professor of Shipping Finance and Risk Management, and Director of Executive Education and Professional Development at the World Maritime University (WMU) in Malmö (Sweden), founded by the International Maritime Organization, a specialized agency of the United Nations. He is Co-Director of the Postgraduate Diploma in Executive Maritime Management, jointly delivered by WMU and the DNV GL Maritime Academy. He is a Visiting Professor at the ICMA Centre—Henley Business School of the University of Reading (UK). He has previously held academic appointments at the ALBA Graduate Business School at the American College of Greece, having the position of Associate Professor and Academic Director of its shipping programmes. He has taught (either at BSc, MSc and MBA levels) in several universities around the world, including Sweden, the United Kingdom, the Netherlands, Belgium, China, Germany, Greece and Cyprus, while he has extensive international experience in consultancy and executive education. He has trained managerial-level maritime professionals in the areas of shipping finance and shipping freight derivatives from numerous companies around the world. At the same time, he has designed and directed postgraduate academic programmes (MSc and MBA) and also directed and coordinated professional development courses delivered in Asia, Europe and Africa. His research work has been published in international refereed scientific journals, books and magazines. He has extensively presented his work in international academic and business conferences held in the USA, Europe and Asia. He serves as an editorial board member of several scientific journals, and has served as a member of conference steering committees and as a reviewer for several scientific journals. He holds a degree in Business Administration from the University of the Aegean (Greece), an MSc in International Financial Markets from the University of Southampton, an MSc in International Shipping from the University of Plymouth, and a PhD in Finance from the Cass Business School of City University in London.
+
+<!-- Page 7 (Nace parse) -->
+
+# Book Chapter Reviewers
+
+Th e editors would like to thank sincerely the following chapter reviewers for their commitment and support in providing constructive comments and feedback to the book contributors.
+
+| Basil Karatzas | Karatzas Marine Advisors & Co. |
+| --- | --- |
+| Cecilie Lind | Jefferies LLC |
+| George Theocharidis | World Maritime University |
+| Simon Norton | Cardiff Business School |
+| Fotis Giannakoulis | Morgan Stanley |
+| Henriette Brent-Petersen | DVB Bank SE |
+| Ioannis Alexopoulos | Eurofin Group |
+| Lars Patterson | Pacomarine Ltd. |
+| Wolfgang Drobetz | University of Hamburg |
+| Marc Huybrechts | University of Antwerp |
+| Photis Panayides | Cyprus University of Technology |
+| Siri Strandenes | NHH—Norwegian School of Economics |
+| Ron Crean | IHS Maritime & Trade |
+| Ted Petropoulos | Petrofin |
+| Tony Foster | Marine Capital Ltd. |
+
+Special thanks are due to Stella Moysiadou for her diligent reading and feedback on all chapters, which helped improve the presentation and explanation of the concepts.
+
+vii
+
+<!-- Page 8 (Nace parse) -->
+
+# Preface
+
+Following the financial collapse of 2008, the financing of shipping activities and the financial management of maritime enterprises have become extremely important for the performance and ultimately the survival of shipping companies around the world.
+
+Th e current handbook provides a balanced blend between the theory and practice of shipping fi nance. It comprises a series of chapters, written by leading expert practitioners and academics in the fi eld, discussing the best practices in the area. Chapter contributors represent diff erent market segments involved in shipping fi nance. Th ese include shipping companies, charterers, banks, consultants, traders, fi nanciers, maritime lawyers and academics, among others. Th us, individual chapters in the book cover the diff erent aspects of shipping fi nance, off ering to the reader a spherical view of the relevant issues in this area.
+
+Th is comprehensive handbook is of great value to both shipping practitioners and the academic community, as it contributes to the training and education of market participants, academics and students and, as such, is a must-read for everyone already involved or likely to be involved in the maritime industry. It off ers to its readers a rigorous understanding of the diff erent aspects of modern shipping fi nance, fi nancial management and investment, the various characteristics of the available products, the capital needs and requirements, and a clear view on the diff erent fi nancial management strategies through a series of practical examples and applications. It can be used as the main reference point for companies and organizations involved in shipping fi nance, and as a teaching and reference textbook in both undergraduate and postgraduate maritime programs in universities worldwide.
+
+The handbook comprises 16 chapters. Chapter 1, “Shipping Markets and their Economic Drivers”, is written by Jan-Henrik Hübner of DNV GL, and
+
+ix
+
+<!-- Page 9 (Nace parse) -->
+
+serves as an introduction to the shipping industry and its various markets. He considers current developments and trends in shipping sub-markets, and analyses the economic factors that influence them. More specifically, the chapter starts by presenting the various “players” in the ship transportation value chain; that is, shipowners, shipyards, charterers, cargo owners, freight forwarders, ship managers and shipbrokers. It presents the various markets involved in the shipping industry; that is, newbuilding, sale and purchase (S&P), demolition, and time charter and spot freight markets. The cost structures of different types of vessels are also discussed and there is analysis of the various demand and supply factors that drive developments in shipping markets and their performance. It then presents in detail the shipping markets for various vessel types, which involves their supply–demand factors and current developments, including the dry-bulk market, tankers, the market for containers and the offshore shipping markets.
+
+Chapter 2, “Asset Risk Assessment, Analysis and Forecasting in Asset Backed Finance”, is by Henriette Brent-Petersen of DVB Bank SE. She discusses the overall cyclicality of the shipping and offshore industries with primary focus on the supply side—shipyard capacity and future asset prices. She also outlines the methodology of forecasting the markets for dry bulk and container vessels, as well as the importance of evaluating the quality of the individual asset and the mitigation of the risks involved. Global demand and the role of China is examined in the effort to understand cyclicality and super cycles, sectoral cycles and counter-cycles, while the variables that affect cyclicality are discussed in detail. She applies the above notions in providing a market outlook of container and dry bulk markets, and finishes with the evaluation of the individual competitive advantages of the assets in relation to peers and the prior-mentioned analysis, as well as the quality of the asset (vessel) and the risks associated with the assets in asset-backed finance.
+
+Chapter 3, “Overview of Ship Finance”, is by Fotis Giannakoulis of Morgan Stanley. He presents the available sources of finance for the maritime industry, arguing that “the ability of a shipping company to navigate the ebbs and flows of the market is primarily dependent on the timing of its investments and its chartering policy, with the selection among funding alternatives being of equal importance”. He discusses in detail: financing from banks, including mortgage-backed loans, newbuilding financing, mezzanine, unsecured/corporate loans and leasing finance; high yield bonds; convertible notes; initial public offerings (IPOs); follow-on offerings; master limited partnerships (MLPs); special purpose acquisition companies (SPAC); and private equity offerings.
+
+Chapter 4, “Shipbuilding Finance”, by Charles R. Cushing of C. R. Cushing & Co. Inc., discusses vessel acquisitions. The first part of the chapter
+
+<!-- Page 10 (Nace parse) -->
+
+outlines: the reasons for undertaking and alternatives to a new construction; project financing; issues that can go wrong in ship acquisition projects; project management issues; strategic planning and sub-plans, such as business, financing, operations, marketing, technology, competitor, human resources and organization plans; mission statements; and vessel design. The second part of the chapter discusses the choice of sources of funds for ship construction, such as: debt financing; loan syndication; mezzanine financing; high yield bonds; leasing; export credit agencies (ECAs); hybrid financing schemes, such as Kommanditgesellschaft—K/G, Kommandittselskap—K/S, DIFKO, blocked currency and barter trades; Islamic bank financing; government grants; public equity financing; private placements; and MLPs. The chapter concludes with financial aspects of shipbuilding contracts and progress payments.
+
+Chapter 5, “Debt Financing in Shipping”, is contributed by George Paleokrassas of Watson Farley & Williams. He discusses the various types of debt financing, including the standard loan facility; that is, the lender, the borrower, syndications, the financing vessel, the facility amount, the conditions precedent, the currency, the tenor and repayment of the loan facility, the interest, the representations and warranties, the covenants, the governing law and jurisdiction, the events of default, and the bank fees; forms of leasing; bond financing; mezzanine financing; and ECAs. Then, the security package that the lender can receive from the borrower and its group is discussed, as this is critical in terms of assessing the risk in any particular transaction. The ship mortgage is then presented, followed by the assignment of earnings, charter hire, insurances, requisition compensation, charge or pledge over accounts, shares charge or pledge, and pre-delivery security assignment.
+
+Chapter 6, “Public Debt Markets for Shipping”, by Basil M. Karatzas of Karatzas Marine Advisors & Co., discusses shipping bond financing and its details. This includes an example of a shipping bond issue, its pricing in the secondary market, the process of filing the relevant prospectus, of obtaining a credit rating, selecting an underwriter, the timing of the issue and the interest rate cost. The differences between shipping bonds and shipping loans are also outlined. The classification of shipping bonds based on collateral, and the covenants and special conditions, are discussed in detail. Finally, the chapter provides the main taxonomy of bonds, with special emphasis on those that are more suitable for shipping companies.
+
+Chapter 7, “Public and Private Equity Markets”, is by Jeffrey Pribor and Cecilie Skajem Lind of Jefferies LLC. It focuses on the most relevant equity products available to private shipping companies. The discussion includes: the pros and cons of being a public versus a private company; IPO structures and
+
+<!-- Page 11 (Nace parse) -->
+
+processes; and the role of private equity in the maritime industry. The chapter starts with an overview of public equity capital, such as C-corporations, limited partnerships, MLPs and SPACs, and continues by outlining the advantages and disadvantages of being a public company. It proceeds with the evolution of the shipping equity landscape since 2000, and continues with stock exchanges where there is shipping capital market activity. The four-phase process of an IPO is then analysed; that is, company preparation; drafting, diligence and initial Securities and Exchange Commission (SEC) filing; SEC review and response; and marketing, pricing and aftermarket. Also dealt with are what makes a good IPO and the pitfalls to avoid in the process. Equity valuation metrics are proposed, such as those of net asset value (NAV), forward earnings—earnings before interest, taxes, depreciation and amortization (EBITDA)—and dividend yield metrics. The chapter concludes with an overview of private equity (PE) in shipping and the relationship between PE firms and company management.
+
+Chapter 8, “Structured Finance in Shipping” is by Ioannis Alexopoulos of Eurofin Group and Nikos Stratis of Augustea Group. They present structured finance instruments, as sets of complex financial transactions, and in particular ECA-backed shipping finance, leasing and mezzanine shipping finance. They start by explaining what ECAs are, their role in shipping finance, the various ECA shipping financing structures, the ECA requirements and OECD guidelines, and the pros and cons of ECA finance for shipping. Ship leasing, the types of leases, their benefits and drawbacks and the providers are then discussed prior to a detailed overview of mezzanine finance for shipping, the forms that it takes, the important issues to consider, the applications of it, and its pros and cons.
+
+Chapter 9, “Key Clauses of a Shipping Loan Agreement” is by Kyriakos Spoullos of Norton Rose Fulbright. It provides a general overview of certain key clauses (commercial terms), commonly found in shipping loan agreements. Besides the financial terms of the relevant loan (e.g. the loan amount, the margin, the repayment profile, the interest periods, the last availability date), the chapter presents the operative clauses which constitute the “heart” of most financing documents. These clauses include the: representations and warranties; conditions precedent; covenants (e.g. minimum value clause, financial ratios); events of default; mandatory prepayment events; and assignment and transfer provisions.
+
+Chapter 10, “Legal Aspects of Ship Mortgages”, is written by Simon D. Norton of Cardiff Business School, Cardiff University and Claudio Chistè of Investec Bank plc. They put forward the legal definition of mortgages, the limitations of ship mortgages as a form of security, the registration and
+
+<!-- Page 12 (Nace parse) -->
+
+priority of mortgages, the powers of mortgagees (power of sale, power to take possession and the appointment of a receiver) and the rights of the mortgagor (right/obligation to insure the vessel, right to sell the vessel, application for sale by court order, the right to redeem the mortgage and foreclosure). Th e chapter closes with the authors’ views of the likely future directions in ship mortgages as a form of fi nancing, through the process of securitization.
+
+Chapter 11, “Reasons and Mechanics of Handling Defaulted Shipping Loans and Methods of Recovery”, is written by Dimitris Anagnostopoulos and Philippos E. Tsamanis of the Aegean Baltic Bank. They present the standard actions and procedures applied when handling problematic bank loans, the early detection of signs and, once the problem is detected, how to handle it. They proceed by explaining the preparation for remedial action when a loan approaches default and the determinants of the bank’s course of action. This includes several considerations, including financial, ship management and market outlook, collateral and bank related. They conclude with a discussion of the loan recovery process that takes place through the auction of the collateral vessel and the possible situations the bank may face during the arrest of vessels.
+
+Chapter 12, “Marine Insurance”, is written by Marc A. Huybrechts of the University of Antwerp and Theodora Nikaki of Swansea University. They focus on insurance coverage needs taken out by the shipyard, the vessel’s financiers and the shipowners as operators of the vessel. They discuss the specifics of marine insurance, which an insured should always keep in mind. These are: the “risks” that a shipowner wants to be covered for, including property, liability, legal issues, lost time, compulsory risks and the associated insurances; the need to purchase insurance cover for the successful and safe operation of the vessel; by whom these risks could be insured against; and who the providers of the insurance cover are. Finally, the cost of each type of insurance and other specific aspects of marine insurance are presented.
+
+Chapter 13, “Maritime Investment Appraisal and Budgeting”, is contributed by Wolfgang Drobetaz of the University of Hamburg, Stefan Albertijn of HAMANT Beratungs- und Investitions GmbH and Max Johns from the German Shipowners’ Association. They present the basic principles of vessel valuation, by illustrating the “mark-to-market” approach, and the long term asset value (LTAV) method as an example of the discounted cash flow (DCF) approach (“mark-to-model”). They also discuss the necessary conditions for the equivalence of market prices and the fundamental values of vessels. The valuation of listed shipping companies using the above methods and other commonly used financial ratios is compared with a matched sample of manufacturing firms, where it is found that: ratios generally tend to be less cyclical
+
+<!-- Page 13 (Nace parse) -->
+
+in the manufacturing sector; shipping companies have a much higher leverage than comparable manufacturing companies; and, as shipping companies are portfolios of vessels, asset tangibility is notably high in the shipping sample.
+
+Chapter 14, “Financial Analysis and the Modeling of Ship Investment” is contributed by Lars Patterson of Pacomarine Limited. He presents several practical examples of financial models for the evaluation of shipping investments, their assumptions, the key ratios and indicators, and the theory behind investment criteria and value drivers. The value of flexibility (optionality) for the shipowner is also discussed in terms of the timing of the purchase of a ship, its sale, the type of charter chosen and the amount of debt financing utilized. Key practical issues in maritime financial analysis are also discussed, including: purchasing the ship and the timing of the exit; going for a new-building versus a second-hand purchase; scrapping; the selection of operating expenses; the type of employment in terms of charter parties; and the financing methods. The chapter concludes by considering ships as investments, with important features determining their valuation that include the market price of the vessel, its cash flow, its charter, market expectations, the secondary markets for trading vessels, the age of the vessels, as well as market risk and credit risk.
+
+Chapter 15, “Maritime Business Freight Risk Management” is written by Manolis G. Kavussanos of the Athens University of Economics and Business and Ilias D. Visvikis of the World Maritime University. They cover the freight derivatives market and the latest developments and trends in this area, including: freight rate indices and routes that are used as the underlying assets of freight derivatives; the available freight derivative products, that is, freight futures, forward freight agreements (FFAs) and freight options; the freight markets established around the word; and the various usages of freight derivatives for risk management—hedging—purposes. The various trading screens for freight risk management, as well as the latest regulations in derivatives markets, are included in this chapter.
+
+Chapter 16, “Mergers and Acquisitions in Shipping” is contributed by George Alexandridis of Henley Business School at the University of Reading and Manish Singh of V.Group Ltd. The chapter provides a detailed overview of M&As in shipping and the motives behind them, including their role in attaining operating synergies operating synergies in the form of cost reduction and revenue enhancement opportunities; financial synergies; market share enhancement and reduction of competition; and diversification of the asset base. The discussion on the M&A process also covers: strategy formulation; identification and analysis of M&A targets; cultivation of the targets; due diligence; and the post-acquisition integration process. The chapter provides
+
+<!-- Page 14 (Nace parse) -->
+
+a road map of M&A valuation in shipping and in particular cash flow, asset based and relative valuation methods. The financing of shipping M&As is also discussed. The chapter concludes by presenting new empirical research on whether shipping M&As create value for shareholders.
+
+Manolis G. Kavussanos
+
+Athens University of Economics and Business
+
+Athens, Greece
+
+e-mail: mkavus@aueb.gr
+
+Ilias D. Visvikis
+
+World Maritime University
+
+Malmö, Sweden
+
+e-mail: iv@wmu.se
+
+September 2016
+
+<!-- Page 15 (Nace parse) -->
+
+# Contents
+
+1 Shipping Markets and Their Economic Drivers Jan-Henrik Hübner 1   
+1.1 An Introduction to Shipping 1   
+1.2 The Drivers of Shipping Markets 9   
+1.3 Shipping Market Performance 13   
+1.4 The Bulk Shipping Market 15   
+1.5 The Tanker Shipping Market 20   
+1.6 The Container Shipping Market 26   
+1.7 The Offshore Market 31   
+1.8 Summary 37   
+Bibliography 38   
+2 Asset Risk Assessment, Analysis and Forecasting in Asset Backed Finance 41   
+Henriette Brent-Petersen   
+2.1 Introduction 41   
+2.2 Global Demand and China: Cyclicality, Super Cycles, Sector Cycles and Counter-Cyclicality 43   
+2.3 The Shipping Sector Market Outlook 53   
+2.4 The Asset: Importance of Asset Specifications 63   
+2.5 Mitigation of Risks 65   
+2.6 Conclusion 66
+
+xvii
+
+<!-- Page 16 (Nace parse) -->
+
+3 Overview of Shipping Finance 71
+Fotis Giannakoulis
+3.1 Introduction 71
+3.2 Sources of Ship Financing 72
+3.3 Conclusion 93
+Bibliography 94
+
+4 Shipbuilding Finance 95
+Charles R. Cushing
+4.1 Introduction 95
+4.2 Conclusion 123
+Bibliography 124
+
+5 Debt Financing in Shipping 125
+George Paleokrassas
+5.1 Introduction 125
+5.2 Types of Debt Financing 126
+5.3 Security Package 141
+5.4 Conclusion 144
+Bibliography 145
+
+6 Public Debt Markets for Shipping 147
+Basil M. Karatzas
+6.1 Introduction 147
+6.2 Basic Concepts of Bonds 147
+6.3 Bond Issuing Example 149
+6.4 Bond Pricing in the Secondary Market Example 149
+6.5 Issuing of a Shipping Bond 150
+6.6 Filing a Prospectus 150
+6.7 Obtaining a Credit Rating 151
+6.8 Selecting an Underwriter 152
+6.9 Timing of Issuing Shipping Bonds 154
+6.10 Shipping Bonds and Interest Rate Cost 155
+6.11 Considerations for the Cost of Shipping Bonds 156
+6.12 Difference from Shipping Loans 157
+6.13 Classification of Shipping Bonds Based on Collateral 160
+6.14 Covenants and Special Conditions 163
+6.15 Types of Shipping Bonds 164
+6.16 Conclusion 167
+
+<!-- Page 17 (Nace parse) -->
+
+7 Public and Private Equity Markets
+Jeffrey Pribor and Cecilie Skajem Lind
+7.1 Introduction
+7.2 Public Equity
+7.3 Private Equity
+7.4 Conclusion
+References
+169
+169
+170
+184
+188
+189
+8 Structured Finance in Shipping
+Ioannis Alexopoulos and Nikos Stratis
+8.1 The Changing Landscape of the Ship Financing Market
+8.2 ECAs
+8.3 Leasing Ship Finance
+8.4 Mezzanine Ship Finance
+8.5 Conclusion
+Bibliography
+191
+191
+193
+199
+206
+209
+211
+9 Key Clauses of a Shipping Loan Agreement
+Kyriakos Spoullos
+9.1 Introduction
+9.2 Operative Clauses
+9.3 Representations and Warranties
+9.4 Conditions Precedent
+9.5 Covenants
+9.6 Events of Default
+9.7 Mandatory Prepayments
+9.8 Assignment and Transfer
+9.9 Conclusion
+Bibliography
+213
+213
+214
+216
+217
+218
+224
+225
+226
+228
+229
+10 Legal Aspects of Ship Mortgages
+Simon D. Norton and Claudio Chiste
+10.1 Mortgages: A Definition
+10.2 Limitations of Ship Mortgages as a Form of Security
+10.3 Registration and the Priority of Mortgages
+10.4 Powers of Mortgagees
+10.5 Rights of the Mortgagor
+10.6 Future Directions in Ship Mortgages as a Form of Financing: Securitization
+231
+231
+234
+236
+238
+245
+249
+
+<!-- Page 18 (Nace parse) -->
+
+10.7 Conclusion 250
+Bibliography 251
+
+11 Mechanics of Handling Defaulted Shipping Loans and the Methods of Recovery 253
+Dimitris C. Anagnostopoulos and Philippos E. Tsamanis
+11.1 Introduction 253
+11.2 The 1981–86 Shipping Crisis vs the Post-2008 Period 254
+11.3 The Mechanics of Handling Problematic Bank Loans 255
+11.4 Early Detection of Signs 255
+11.5 Once the Problem Is Detected 256
+11.6 Preparation for Remedial Action 258
+11.7 Determinants of the Bank's Course of Action 260
+11.8 Loan Recovery Through Auction of the Collateral Vessel 263
+11.9 Situations a Bank May Face During a Vessel's Arrest 265
+11.10 Conclusion: The Other Side of the Coin 266
+References 266
+
+12 Marine Insurance 267
+Marc A. Huybrechts and Theodora Nikaki
+12.1 Overview 267
+12.2 Builders' Risk Insurance 268
+12.3 Financiers' Insurance 269
+12.4 Owners' Insurance 271
+12.5 Conclusion 279
+References 282
+
+13 Maritime Investment Appraisal and Budgeting 285
+Stefan Albertijn, Wolfgang Drobetz, and Max Johns
+13.1 Introduction 285
+13.2 Market Approach 287
+13.3 Discounted Cash-Flow Approach 295
+13.4 Comparing Value and Price 302
+13.5 Financial Analysis of Shipping Companies 304
+13.6 Conclusion 307
+References 312
+
+<!-- Page 19 (Nace parse) -->
+
+14 Financial Analysis and the Modeling of Ship Investment
+Lars Patterson
+14.1 Introduction
+14.2 An Example of a Financial Model
+14.3 Theory Behind the Ship Investment Criteria and Value Drivers
+14.4 A Few Comments on Ship Investment Practice
+14.5 Ships as an Investment
+14.6 Conclusion
+References and Links
+Bibliography
+315
+315
+316
+320
+324
+332
+334
+334
+335
+15 Maritime Business Freight Risk Management
+Manolis G. Kavussanos and Ilias D. Visvikis
+15.1 Introduction
+15.2 Freight Derivatives Market
+15.3 Freight Rate Indices: The Underlying Assets of Freight Derivatives
+15.4 Freight Derivatives Markets and Products
+15.5 The Baltic Forward Assessments
+15.6 Trading Screens
+15.7 Regulations in Derivatives Markets
+15.8 Conclusion
+Bibliography and References
+337
+337
+338
+340
+349
+358
+360
+362
+365
+367
+16 Mergers and Acquisitions in Shipping
+George Alexandridis and Manish Singh
+16.1 Introduction
+16.2 The Shipping M&A Market
+16.3 Motives for M&As in Shipping
+16.4 M&A Process
+16.5 Shipping M&A Valuation
+16.6 Financing of Shipping M&As
+16.7 Value Creation in Shipping M&As
+16.8 Conclusion
+References
+371
+371
+372
+377
+381
+385
+394
+398
+407
+411
+Index 415
+
+<!-- Page 20 (Nace parse) -->
+
+# About the Contributors
+
+**Stefan Albertijn** joined the Baltic Exchange Board as Shareholders Director in 2012 and became Chairman of Baltic Exchange Information Services Ltd, which produces the Baltic shipping benchmarks and indices, in 2014. He started his career in 1999 when he joined Deutsche Bank AG, holding various corporate and investment banking positions in Germany and Belgium before joining the shipping department at ADM Alfred C. Toepfer International GmbH in 2005 and becoming its Global Head of Risk Management in 2010. In 2015 he joined Ocean Finance & Consultancy BVBA (Oficon) and Hamant Beratungs- und Investitionsgesellschaft mbH, niche consultants specializing in risk management for the shipping and agri-industries, as Managing Director. He has been a Guest Lecturer in shipping finance at Hamburg University since 2009 where he was also a founding member of the Hamburg Financial Research Centre. Furthermore he is a member of various shipping, financial and grain trading associations in Belgium and Germany and is actively engaged in the alumni groups Alechia and VEUK. He studied economics at the Universities of Antwerp and Konstanz and has authored various publications on shipping finance and financial derivatives.
+
+**George Alexandridis** is an Associate Professor of finance at the ICMA Centre of Henley Business School, University of Reading, UK. He is also the program area director for all finance masters at the ICMA Centre and is the co-founder and director of the MSc in International Shipping and Finance. He is renowned for his work on mergers and acquisitions and shipping finance. His research is published in leading international journals and presented at major global conferences. As part of his role as Director of Shipping Programmes at Henley, he has established international collaborations with universities and business schools as well as relationships with financial institutions, shipping companies and other organizations. He also frequently appears as a commentator on financial and political issues on national television. He is an affiliate member of the Chartered Institute for Securities & Investment and is a fellow of the Higher Education Academy.
+
+xxiii
+
+<!-- Page 21 (Nace parse) -->
+
+**Ioannis Alexopoulos** has more than 15 years of professional experience in the shipping, banking and the maritime finance industries. He is a Director at the Athens office of Eurofin Group; a ship-financing, investment boutique established in 1984 with offices in London, Athens and Singapore. Mr. Alexopoulos gained experience in shipping through short-term employments with Golden Union Shipping Co. (which included time at sea), Carriers Chartering S.A. in Piraeus and Angus Graham & Partners in London. He then joined Laiki Private Banking in Cyprus, an HSBC Group associate in 1999 where he held positions in both portfolio management and client advice, servicing expatriate as well as offshore High Net Worth Individuals. He joined the Athens office of Eurofin Group in 2002 and is responsible for the Group's ship financing operations in Greece. In addition, he is a key part of the Eurofin team, which acts as a Consultant to KfW IPEX-Bank for its Greek debt shipping portfolio. He has delivered a number of speeches on ship finance, at several Shipping and Ship-finance Conferences around the world. He is a visiting lecturer on Shipping Finance, at the ALBA Graduate Business School in Athens, Greece and on Maritime Economics, at the Henley Business School of the University of Reading in the UK. He holds a BSc in Economics and Business Economics from Southampton University and an MSc in Shipping, Trade and Finance from Cass Business School, City University in London.
+
+**Dimitris Anagnostopoulos** has over 40 years of experience in shipping, shipping finance and bank management. He obtained his BSc at the Athens University of Economics and Business. His career began in the 1970s as Assistant Lecturer at the same university followed by four years with the Onassis Shipping Group in Monaco. He has also held various posts at the National Investment Bank of Industrial Development, the Continental Illinois National Bank of Chicago, the Greyhound Corporation and ABN AMRO Bank, where he has spent nearly two decades, holding the positions of Senior Vice President and Head of Shipping. Since 2010 he has been an advisor and board member of the Aegean Baltic Bank. He has been a speaker and panelist at various shipping conferences in Europe, and is a regular guest lecturer at the City University Cass Business School in London and the Erasmus University in Rotterdam. He is a member (and ex-vice chairman) of the Association of Banking and Financial Executives of Greek Shipping and an Associate Member of the Institute of Energy of South East Europe. He was in 2008 named by the Lloyd's Organization as Shipping Financier of the Year.
+
+**Henriette Brent-Petersen** is Managing Director of the Shipping and Offshore Research department with DVB Bank, which provides fundamental shipping and offshore research in all sectors and is an integrated part of the bank's business model. Externally she represents DVB by presenting shipping and offshore market outlooks to customers and rating agencies and is a frequent speaker at conferences such as Marine Money, Capital Link, Informa, Euromoney and ibc. She is also a voting member of the bank's investment fund SIIM. Before joining DVB Bank, she had headed for almost a decade the Maersk Broker Research Department, which
+
+<!-- Page 22 (Nace parse) -->
+
+provided research on all sectors of the maritime shipping industry for international companies, banks and other stakeholders. She also has a strong financial background from Citibank where she started as a management associate before working for several years as a relationship manager, joining Maersk Broker in 2003. She started her working life as a country and bank analyst, covering Eastern Europe and CIS with the Danish ECA, Eksport Kredit Fonden. She holds a master's degree in economic science from Copenhagen University and has worked as an external teacher, lecturer and examiner for almost a decade at the Copenhagen Business School—initially in the field of financial statement analysis and marketing, but today in relation to the blue MBA.
+
+Claudio Chistè works at Investec Bank plc in the Shipping and Marine Finance Team. His career began as an officer in the South African Navy, graduating from the Military Academy (Faculty of Military Science of the University of Stellenbosch) with a degree in mathematics and nautical science. Four years at sea followed, when he served as both gunnery and diving officer, culminating in being appointed for a period in command of a vessel within the Mine Countermeasures Flotilla. He also completed a B.Comm (Hons) through the University of Cape Town whilst serving. After leaving the Navy, he qualified as a yacht skipper and scuba diving instructor, going on to manage a 28-meter luxury motor yacht in the Mediterranean. Subsequently, he chose a land-based career and read for a master's degree in shipping, trade and finance at London's Cass Business School as a means to bridge the gap between practical skills and the commercial world. He was ranked in the "Next Generation" of Lloyd's List in their "On our Radar" (for the most influential people in shipping). He is the chairman of the Shipping Professional Network in London, a networking forum for young shipping professionals, having a strong following of over 1,000 members and associates with industry backing from the UK Chamber of Shipping.
+
+Charles R. Cushing is a naval architect and marine engineer. His firm C.R. Cushing & Co. was founded in 1968 and has designed and/or supervised the construction or conversion of over 250 vessels of all types in most major shipyards worldwide. Because of his pioneering work at Sea-Land in the early 1960s and ongoing expertise in this field, he was inducted into the National Academy of Engineering. He has received numerous awards and is a member of several maritime professional societies. He is a licensed deck officer and a graduate of USMMA (BS), MIT (BS, NA & ME), SUNY Maritime (MS, OT) and Cardiff University (PhD, maritime studies). He has been an adjunct professor at the World Maritime University, both in Malmo, from 1988 (where he received a DSc (Hon) degree), and in Dalian, China, from 2005.
+
+Wolfgang Drobetz is Professor of Corporate Finance and Shipping Finance at the University of Hamburg. He holds a PhD in economics from the University of St. Gallen and completed his habilitation at the University of Basel. He taught fi nancial theory at the Bucerius Law School and the WHU Otto Beisheim Graduate School. His research interests include corporate fi nance, corporate governance, asset management and shipping fi nance. His research has been published in leading academic and
+
+<!-- Page 23 (Nace parse) -->
+
+practitioner journals. He is a member of the editorial board of several academic journals and served as Co-President of the European Financial Management Association.
+
+Fotis Giannakoulis is the Lead US Maritime Analyst at Morgan Stanley, covering tankers, dry bulk, containership, gas carriers and offshore supply vessels, which he joined 2010. Since then he has worked on a number of public offerings, raising over USD10 billion. He is the no. 1 winner of the 2015 Thomson Reuters StarMine Analyst Award for the marine sector. Prior to joining Morgan Stanley, he was a banker at Fortis Bank (currently ABN AMRO) and Poten Capital Services, putting together a number of debt and equity financings and working on several advisory mandates. He holds a bachelor's degree in economics from the University of Piraeus and earned his MBA with honors from Loyola University Chicago, where he was the Walter F. Mullady scholar.
+
+Jan-Henrik Hübner is the global head of DNV GL's Shipping Advisory. Together with his team he is supporting shipping companies, ship financing banks and funds, yards, terminals and governmental organizations across a wide range of strategic and operational challenges, including energy management and operational improvement programs for ship operators as well as portfolio analyses and decision support for ship financing banks. Before joining DNV GL in 2010 he worked for nine years for the global management consulting firm McKinsey & Company. He advised clients in various process industries on strategic and operational challenges. Key aspects were operational improvement programs and various aspects of energy efficiency. He graduated in wood science and technology at the University of Hamburg and received his PhD on the effects of emission trading and other aspects of environmental economics.
+
+Marc A. Huybrechts received a Doctor of Laws from the Catholic University of Leuven in 1964, and an LLM from Berkeley, Boalt Hall (California) in 1966. He is a member of the Antwerp Bar and is Emeritus Professor of Law at the Catholic University of Leuven and at Antwerp University (Belgium). He is also Visiting Professor at the Dalian Maritime University in the People's Republic of China, and at ALBA in Athens. He is Emeritus Auxiliary Justice at the Antwerp Court of Appeal and a former board member of the Antwerp Bar; Arbitrator in the International Maritime Conciliation and Mediation Panel (London); Editor for Transport Law of the Encyclopedia of International Law; and member of the editorial board of Tijdschrift voor Vervoer en Recht. He is a titular member of the Comité Maritime International (CMI) and a member of the Law Commission to revise the Belgian Maritime Law.
+
+Max Johns is Managing Director at VDR German Shipowners' Association in Hamburg. He has taught shipping finance at the Maritime Business School of the Hamburg School of Business Administration (HSBA) since 2008 and has become a professor at HSBA in 2016. He holds BA and MA degrees from the Université Paul Valéry Montpellier III in France, an MBA from KU Leuven in Belgium and was
+
+<!-- Page 24 (Nace parse) -->
+
+awarded a doctoral degree from the University of Tübingen in Germany. He publishes frequently on maritime issues.
+
+Basil M. Karatzas is the CEO of Karatzas Marine Advisors & Co based in New York, a shipping finance advisory and ship brokerage firm, advising and representing shipowners and institutional investors on shipping and financial matters. He has an extensive and successful record on representing, upon exclusive mandate, financial owners of vessels seeking asset management optimization through remarketing, disposition, restructuring, co-investments and private placements, and has worked with the biggest players in the industry. He is a member of numerous industry bodies and organizations and a frequent speaker at industry conferences and a contributor to business publications. He holds an MBA from Rice University in Houston, Texas.
+
+Cecilie Skajem Lind is an associate in the Global Industrials Investment Banking Group at Jefferies LLC, which she joined in August 2014. Previously she had worked in operations and risk management at A. M. Nomikos & Son, a Greek dry bulk shipowner and operator, and was an investment advisor at Beacon Shipping Investments. She received an MBA from Harvard Business School and a BA (Hons) from University College London.
+
+Theodora Nikaki joined Swansea University in 2005 as a lecturer and was promoted to Associate Professor in 2013. She is currently Deputy Head of the Department of Postgraduate Legal Studies, College of Law. She is a graduate of the Aristotle University of Thessalonica (LLB and LLM in commercial and economic law, with distinction). Having worked in private practice for several years, she also obtained an LLM degree in admiralty and maritime law from Tulane Law School (New Orleans, USA) in 2001 with distinction. She then went to work in a maritime law firm in the United States before undertaking her PhD degree in the carriage of goods by sea and transport law in the UK. Her principal research interest is in the field of carriage of goods by sea, but her interests extend to private international law and multimodal transport. During the 2011–12 academic year she was awarded a visiting fellowship at the Institute of Advanced Legal Studies (University of London) and a visiting researcher position at the Scandinavian Institute of Maritime Law in Oslo. She is an active researcher and has published in several significant journals such as The Journal of Business Law, the Journal of Maritime Law and Commerce, the Berkeley Journal of International Law and the Tulane Maritime Law Journal.
+
+Simon D. Norton lectures at Cardiff Business School in the field of banking law and regulation and financial crime, principally money laundering. He holds a doctorate in shipping finance and is the course director for this subject with the Institute of Chartered Shipbrokers, for which he has written the standard textbook. He also lectures in shipping finance and maritime law at an international business school in the West Indies. He has previously worked in the capital markets in London with a 'Top 10' Japanese finance house where he specialized in interest rate and currency swaps, and new issues. It was here that he developed his interest in complex financial
+
+<!-- Page 25 (Nace parse) -->
+
+structures and their applicability to ship financing. He also has a current interest in the application of Islamic finance principles and instruments to ship purchase. He maintains his interests and contacts in the practical (as opposed to academic) maritime world through attendance at workshops and social engagements with bankers, lawyers and brokers. He recently wrote a practitioner-oriented course on the commercial aspects of setting up and running, from scratch, a ship-owning business.
+
+George Paleokrassas is a partner in the asset finance group of Watson Farley & Williams and is head of the firm's Greek office. For more than 20 years he has worked on a broad range of transactions in the maritime sector, acting for major shipping lenders and shipowners in the structuring and restructuring of loan transactions, the acquisition, sale and transfer of shipping loan portfolios, transactions involving distressed assets as well as for owners, operators and investors in shipbuilding projects, long-term charter arrangements, leasing transactions, joint ventures and other general corporate matters involving shipowning groups. Watson Farley & Williams is a leading international law firm dedicated to client care, industry focus and investment in its people, delivering valued advice on a wide range of corporate and finance transactions and disputes from 14 offices in major financial centres in Europe, the Middle East, Asia and the USA.
+
+Lars Patterson is a graduate of the Norwegian School of Economics. He started his working career in shipping and finance with the merchant bank Samuel Montagu & Co and the shipbroking firm Galbraith's (Galbraith Montagu). During his time working for Torstein Hagen and Marine Investments S.A. he learnt to appreciate the value of financial modeling and how the process can improve the quality of analysis and create value for shareholders. Over the last 25 years he has been a non-executive director, advisor and consultant to a large number of shipping companies. From 2003 to 2015 he worked as a shipping investment analyst with London-based investment manager Marine Capital Limited. Together with Marcus Martinsson he is a founder and shareholder of Pacomarine Limited which provides software applications for the analysis of shipping investments.
+
+Jeffrey Pribor is a managing director and Global Head of Maritime Investment Banking at Jefferies LLC. He has more than 30 years of corporate finance and maritime shipping experience. Prior to joining Jefferies, he was the Chief financial officer (CFO) of General Maritime, a leading international tanker company, which he helped guide through a pre-arranged Chapter 11 bankruptcy proceeding, and where he helped to conduct a successful hostile takeover defense and a leveraged recapitalization with a USD500 million special dividend to shareholders. Prior to joining General Maritime, he was Managing Director and President of DnB NOR Markets, Inc. and a senior banker at Merrill Lynch. He received a JD and an MBA from Columbia University and a BA from Yale University.
+
+Manish Singh, as a third-generation seafarer, he started his maritime career with seagoing experience on tankers, dry cargo and self-unloaders. With over 20 years of
+
+<!-- Page 26 (Nace parse) -->
+
+industry experience, Manish has held diverse roles in ship management, marine conversions and infrastructure projects, offshore, marine financial and commercial services. As Group Commercial Director, Manish is responsible for the formulation and implementation of V.Group's commercial and corporate strategies and leads on acquisition projects and the Group's legal function. Since 2007, Manish has held senior management roles in V.Group's corporate team, with responsibilities including Offshore, Asset Management and Business Development for Asia region. Manish is a Master Mariner and an MBA from Cranfield University – School of Management. When not pursuing all things marine, Manish loves to travel, is a voracious reader, follows folk music and plays traditional Indian percussion. Manish writes extensively as a columnist on various industry, management journals and on his blogs.
+
+Kyriakos Spoullos studied law in Greece and obtained his degree from the Kapodistrian University of Athens. He obtained his master's degree in shipping, trade and finance from the Sir John Cass Business School of the City University in London. He joined Norton Rose Fulbright in June 2006 from a Greek leading law firm (V&P). He is a member of the Athens Bar and is a UK solicitor. He represents a number of major Greek and international banks that do business in shipping as well as numerous large shipping groups based or doing business in Greece; he specializes in various finance sectors and industries, including shipping and asset finance, project finance and structured and complex banking products. He has vast experience in big syndicated and bilateral loans, secured and unsecured facilities, bond loans, restructuring and work out arrangements, monitoring “problem” loans as well as contract negotiations (i.e. charterparties, Memorandum Of Agreements (MOAs) and shipbuilding contracts). Additionally, he has significant experience in international capital markets, M&As, Initial Public Offerings (IPOs), joint ventures schemes and sale and purchase of shares agreements in shipping. Norton Rose Fulbright is a top 10 global legal practice with more than 3800 lawyers and other legal staff based in more than 50 cities across Europe, the United States, Canada, Latin America, Asia, Australia, Africa, the Middle East and Central Asia.
+
+Nikos Stratis currently serves as a managing director with Chief financial officer (CFO) responsibilities for Augustea Group dry bulk business unit, which collectively controls a fleet of 35 vessels. Prior to that he co-founded Northern Shipping Funds where from 2008 to 2014 he held positions in the fund's investment committee and board of portfolio companies and operated as a senior investment manager responsible primarily for European and Middle East markets. His role included sourcing, structuring and the execution of shipping investments as well as investor relations. From 2001 to 2008 he was employed by DVB Bank, seconded to the bank's shipping investment fund as a senior investment manager. He was instrumental in the launching of a series of shipping funds, including the then largest Islamic Shipping Fund. He holds a BEng and an MSc in marine engineering from the University of Newcastle-upon-Tyne and an MSc in shipping, trade and finance from the City University Business School, London. Prior to joining DVB Bank, he gained experience in
+
+<!-- Page 27 (Nace parse) -->
+
+various shipping firms such as Lloyd’s Register of Shipping, Aeolos Maritime and Ionian Tugboats, where he also served as an officer on ocean-going vessels.
+
+Philippos E. Tsamanis has been with Aegean Baltic Bank, a Greek bank specializing in shipping finance, since its establishment in 2002. From 2006, he has headed the Bank’s Business Development Department and since 2008 has been the Head of Shipping. He is a member of the Bank’s Credit Committee and its Assets & Liabilities Committee. Previously, he worked for Euro Finance Services SA (1995–2002), a shipping finance and advisory firm specializing in the arrangement and management of syndicated shipping loans, the handling of problematic loans/third party accounts, and the providing of consultancy to shipping companies and banks on shipping debt and equity capital raising. Following his graduation from Athens College, he obtained a BA in government and economics from the University of Essex. He also holds a master’s degree in shipping, trade and finance from Cass Business School of the City University of London.
+
+<!-- Page 28 (Nace parse) -->
+
+# List of Abbreviations
+
+| AHTs | Anchor handling tugs |
+| --- | --- |
+| ANPL | Arrears and non-performing loans |
+| APV | Adjusted present value |
+| ASEAN | Association of Southeast Asia Nations |
+| BALMO | Balance-of-month |
+| Baltex | Baltic Exchange trading screen |
+| BCI | Baltic Capesize Index |
+| BCTI | Baltic Clean Tanker Index |
+| BDI | Baltic Dry Index |
+| BDTI | Baltic Dirty Tanker Index |
+| BEDT | Baltic Exchange Derivatives Trading |
+| BEP Asia | Baltic Exchange Panamax Asia |
+| BES 58 Asia | Baltic Exchange Supramax 58 Asia |
+| BES Asia | Baltic Exchange Supramax Asia |
+| BFAs | Baltic Forward Assessments |
+| BHAR | Buy-and-hold abnormal return |
+| BHSI | Baltic Handysize Index |
+| BIS | Bank of International Settlements |
+| BITR | Baltic International Tanker Route |
+| BOA | Baltic Options' Assessments |
+| bp | Basis points |
+| BPI | Baltic Panamax Index |
+| BSI | Baltic Supramax Index |
+| BSI 58 | Supramax Index |
+| BSPA | Baltic Sale and Purchase Assessments |
+| BUNKER | Civil liability for bunker oil pollution damage |
+| CAGR | Compound annual growth rate |
+| CAPEX | Capital expenses |
+
+xxxi
+
+<!-- Page 29 (Nace parse) -->
+
+| CAPM | Capital asset pricing model |
+| --- | --- |
+| CAR | Cumulative abnormal return |
+| CCFI | China Containerized Freight Index |
+| CCP | Central counterparty clearing house |
+| CEXIM | Chinese Export Import Bank |
+| CFDs | Contracts-for-difference |
+| CFSAs | Container forward swap agreements |
+| CFTC | Commodity Futures Trading Commission |
+| CGT | Compensated gross tonnage |
+| CIRR | Commercial interest reference rate |
+| CLC | Civil liability for oil pollution damage |
+| CLO | Collateralized loan obligations |
+| CLTX | Cleartrade Exchange |
+| CME Group | Chicago Mercantile Exchange Group |
+| COA | Contract of affreightment |
+| ConTex | Container Ship Time Charter Assessment Index |
+| CPT | Capesize 2014 time-charter basket |
+| CTARs | Calendar time abnormal returns |
+| CTC | Capesize time-charter basket |
+| CTR | Calendar-time approach |
+| DCF | Discounted cash flow |
+| DCM | Designated contract market |
+| DCO | Derivatives clearing organization |
+| DD | Dry docking |
+| DFA | Dodd-Frank Wall Street Reform and Consumer Protection Act |
+| dwt | Deadweight tonnage |
+| E&P | Exploration and production |
+| EBIAT | Earnings before interest and after taxes |
+| EBITDA | Earnings before interest, taxes, depreciation and amortization |
+| ECA | Export credit agency |
+| ECGD | Export Credit Guarantee Department (UK) |
+| EEDI | Energy Efficiency Design Index |
+| EGC | Emerging growth company |
+| EIBC | Export-Import Bank of China |
+| EMIR | European Markets Infrastructure Regulation |
+| ERSB | European Systemic Risk Board |
+| ESMA | European Securities and Markets Authority |
+| EU | European Union |
+| Euribor | Euro Interbank Offered Rate |
+| EV | Enterprise value |
+| EXIM | Export-Import Bank of U.S. |
+| FATCA | Foreign Account Tax Compliance Act |
+| FCA | Financial Conduct Authorities |
+
+<!-- Page 30 (Nace parse) -->
+
+FCF Free cash fl ows FDI Foreign direct investment FEU Forty-foot equivalent unit FFA Forward freight agreements FFABA FFA Brokers Association FMV Fair market value FPSO Floating production storage and offl oading FR Financial ratio FSRU Floating storage and regasifi cation unit GAAP Generally accepted accounting principles GCM General clearing member GDP Gross domestic product GT Gross tonnage H&M Hull and machinery HFO Heavy fuel oil HTC Handysize time-charter basket Hx Handymax ICBR Institute Clauses for Builders’ Risks ICE Intercontinental Exchange ICS International Chamber of Shipping IDR Incentive distribution rights IGA P&I International Group of P&I Clubs IM Information memorandum IMAREX International Maritime Exchange IMF International Monetary Fund IMIC Institute Mortgagees’ Interest Clauses IOSCO International Organization of Securities Commissions IPO Initial public off ering IRR Internal rate of return ISM International safety management ISPS International ship and port facility code JOBS Jumpstart Our Business Startups JBIC Japan Bank for International Cooperation JV Joint ventures KEXIM Export-Import Bank of Korea LBO Leveraged buyout LCH London Clearing House LCH.Clearnet London Clearing House Clearnet LDT Light displacement ton LIBOR London Interbank Off ered Rate LLMC Limitation of Liability for Maritime Claims LNG Liquefi ed natural gas LP Limited partnership
+
+<!-- Page 31 (Nace parse) -->
+
+| LPG | Liquefied petroleum gas |
+| --- | --- |
+| LR | Long range |
+| LSE | London Stock Exchange |
+| LTAV | Long term asset value |
+| LTV | Loan to value |
+| LWT | Lightweight tonnage |
+| M&A | Mergers and acquisitions |
+| MAC | Material adverse change |
+| MAPP | Mortgagee's Additional Perils (Pollution) Insurance |
+| MarCAR | Marine Construction All Risks |
+| MAS | Monetary Authority of Singapore |
+| Mbpd | Million barrels per day |
+| MIA | Marine Insurance Act |
+| MiFID | Markets in Financial Instruments Directive |
+| MiFIR | Markets in Financial Instruments Regulation |
+| MII | Mortgagees interest insurance |
+| MLP | Master limited partnership |
+| MOU | Mobile offshore unit |
+| MQD | Minimum quarterly distribution |
+| MR | Medium range |
+| MRP | Market risk premium |
+| MSA | Merchant Shipping Act |
+| MSP | Major swap participants |
+| MTF | Multilateral trading facility |
+| MV | Market value |
+| MVC | Minimum-value clause |
+| NAFTA | North America Free Trade Agreement |
+| NAV | Net asset value |
+| NBSE | Ningbo Shipping Exchange |
+| NCFI | Ningbo Containerized Freight Index |
+| NDA | Non-disclosure agreements |
+| NOS | Norwegian Options and Futures |
+| NOTC | Norwegian OTC |
+| NPV | Net present value |
+| NYMEX | New York Mercantile Exchange |
+| NYSE | New York Stock Exchange |
+| OB | Oslo Børs |
+| OECD | Organisation for Economic Co-operation and Development |
+| OLS | Ordinary least squares |
+| OPEC | Organization of Petroleum Exporting Countries |
+| OPEX | Operating expenses |
+| OSV | Offshore support vessel |
+| OTC | Over-the-counter |
+
+<!-- Page 32 (Nace parse) -->
+
+OTF Organized trading facility
+P&I Protection and indemnity
+PAL Carriage of passengers and their luggage by sea
+PE Private equity
+PIK Pay in kind
+PIPE Private investment in public equity
+PSV Platform supply vessel
+PTC Panamax time-charter basket
+RM Regulated market
+RMO Recognized market operator
+ROA Real options analysis
+ROA Return-on-assets
+ROE Return on equity
+RV Residual value
+S&N Stay-in and negotiate
+S&P Sale and purchase
+SCAR Standardized cumulative abnormal return
+SCFI Shanghai Containerized Freight Index
+SD Swap dealers
+SDR Swap data repository
+SEC Securities and Exchange Commission
+SEF Swap execution facility
+SEHK Stock Exchange of Hong Kong
+SGX Singapore Exchange Limited
+SGX AsiaClear Singapore Exchange AsiaClear
+SHCH Shanghai Clearing House
+SIN Clarkson Shipping Intelligence Network
+SPAC Special purpose acquisition company
+SPC Special purpose company
+SPPx Super Post Panamax vessel
+SPV Special purpose vehicle
+SPx Sub-Panamax
+SS Special survey
+SSE Shanghai Shipping Exchange
+SSEFC Shanghai Shipping Freight Exchange Co.
+STC Supramax time-charter basket
+STC Straight-through processing to clearing
+STP Straight-through processing
+TC Time charter
+TCE Time-charter equivalent
+TEU Twenty-foot equivalent unit
+TR Trade repository
+TSE Tokyo Stock Exchange
+
+<!-- Page 33 (Nace parse) -->
+
+| ULCC | Ultra large crude carrier |
+| --- | --- |
+| ULCV | Ultra large container vessel |
+| UNCTAD | United Nations Conference on Trade and Development |
+| VDD | Vendor due diligence |
+| VLBC | Very large bulk carrier |
+| VLCC | Very large crude carrier |
+| VLCS | Very large container ship |
+| VLOC | Very large ore carrier |
+| VMC | Value maintenance clause |
+| WACC | Weighted average cost of capital |
+| WCI | World Container Index |
+| WS | Worldscale rate |
+| WTO | World Trade Organization |
+| YTM | Yield-to-maturity |
+| ΔNWC | Change in net working capital |
+
+<!-- Page 34 (Nace parse) -->
+
+# List of Figures
+
+Fig. 1.1 The maritime value chain 2
+Fig. 1.2 Overview of the global merchant fleet 5
+Fig. 1.3 Cost structure of a panamax container vessel 8
+Fig. 1.4 Cost structure of a VLCC 9
+Fig. 1.5 Earnings in merchant shipping since 1965 (ClarkSea Index) 14
+Fig. 1.6 Dry bulk demand development (seaborne trade) 17
+Fig. 1.7 Dry bulk fleet development 18
+Fig. 1.8 Dry bulk (expected) contracting 18
+Fig. 1.9 Dry bulk (expected) deliveries and removals 18
+Fig. 1.10 Dry bulk, one-year, time charter rates 19
+Fig. 1.11 Dry bulk newbuilding and secondhand prices 20
+Fig. 1.12 Tanker demand development 23
+Fig. 1.13 Tanker fleet development 23
+Fig. 1.14 Tanker (expected) contracting 24
+Fig. 1.15 Tanker order book vs existing fleet 24
+Fig. 1.16 Tanker (expected) deliveries and removals 25
+Fig. 1.17 Crude oil tanker earnings 25
+Fig. 1.18 Tanker newbuilding and secondhand prices 26
+Fig. 1.19 Container vessel demand development (containerized trade) 28
+Fig. 1.20 Container vessel fleet development 29
+Fig. 1.21 Container vessel (expected) contracting 29
+Fig. 1.22 Container vessel (expected) deliveries and removals 29
+Fig. 1.23 Container vessel idle fleet 30
+Fig. 1.24 Container freight rate development (CCFI China—Europe) 30
+Fig. 1.25 Container vessel, one-year, time charter rates 31
+Fig. 1.26 Container vessel newbuilding and secondhand prices 32
+
+xxxvii
+
+<!-- Page 35 (Nace parse) -->
+
+Fig. 1.27 Offshore exploration and production CAPEX 33
+Fig. 1.28 Offshore vessel fleet development (MOU) 34
+Fig. 1.29 Offshore vessel fleet development (offshore support vessels) 35
+Fig. 1.30 Offshore vessel (expected) contracting 35
+Fig. 1.31 Offshore vessel (expected) deliveries and removals 36
+Fig. 1.32 Offshore vessel, one-year, time charter rates 36
+Fig. 1.33 Offshore vessel newbuilding prices 37
+Fig. 2.1 Timeline of shipbuilding related policy in China 44
+Fig. 2.2 Shipping market cycle 45
+Fig. 2.3 Shipbuilding countries market share and shipyard start-ups by major shipbuilding country 46
+Fig. 2.4 Shipbuilding capacity 47
+Fig. 2.5 Flooding effect across segments 49
+Fig. 2.6 China gaining market share with more lucrative orders 50
+Fig. 2.7 Average time to delivery at contracting time 51
+Fig. 2.8 Chinese shipyard capacity utilization rate and estimated capacity 51
+Fig. 2.9 Forecasted structure of the Chinese shipbuilding industry 52
+Fig. 2.10 Manufacturing-Sourcing Cost Index: total landed costs 55
+Fig. 2.11 Cascading of larger capacity vessels (December 2013–December 2014) 57
+Fig. 2.12 Cascading of smaller capacity vessels (December 2013–December 2014) 58
+Fig. 2.13 Container market outlook: trend indicator 59
+Fig. 2.14 Dry-bulk market outlook: trend indicator, demand–supply modeling 62
+Fig. 2.15 Vessel developments over the years 64
+Fig. 3.1 Clarkson's ClarkSea index 72
+Fig. 3.2 Clarkson's ClarkSea index volatility 73
+Fig. 3.3 World vessel contracting 73
+Fig. 3.4 Second-hand vessel transactions 74
+Fig. 3.5 New capital to the shipping industry 74
+Fig. 3.6 Aggregate bank shipping portfolios 76
+Fig. 3.7 Bank lending activity 76
+Fig. 3.8 Top 20 shipping bank loan portfolios by bank 77
+Fig. 3.9 Shipping loans interest cost: spread over LIBOR (basis points) 80
+Fig. 3.10 Example of a leasing transaction 84
+Fig. 3.11 Indicative shipping corporate bond issuances 86
+Fig. 3.12 Global shipping public offerings of common equity 88
+Fig. 3.13 Global shipping public offerings of common equity by country 88
+Fig. 3.14 US-listed shipping public offerings of common equity 89
+Fig. 3.15 Non-US shipping public offerings of common equity 89
+Fig. 3.16 Typical MLP structure 90
+
+<!-- Page 36 (Nace parse) -->
+
+Fig. 3.17 US-listed shipping public offerings of common equity by payout strategy 92
+Fig. 3.18 Blank check IPOs in the shipping industry 93
+Fig. 3.19 Private equity investments in the shipping industry 93
+Fig. 6.1 Credit rating of bonds and typical distribution of shipping bonds 153
+Fig. 7.1 Equity options available to public and private companies 170
+Fig. 7.2 US C-corporation structure vs MLP structure 172
+Fig. 7.3 Advantages and disadvantages of going public 173
+Fig. 7.4 IPO process on a senior exchange in the USA 177
+Fig. 7.5 Aftermarket trading: shipping IPOs 2008–14 180
+Fig. 7.6 Net asset calculation 183
+Fig. 7.7 VLCC and Capesize ~ 180,000 dwt dry-bulk second-hand prices 185
+Fig. 7.8 Monetizing investments 186
+Fig. 8.1 Export Credit Agency guaranteed financing structure 196
+Fig. 8.2 Export Credit Agency direct loan to buyer/importer 196
+Fig. 8.3 Ship leasing structure 202
+Fig. 8.4 Capital structure with mezzanine finance 206
+Fig. 10.1 Enforcement flow chart 246
+Fig. 14.1 Ship investment risk and returns 321
+Fig. 14.2 Historical ship prices and one-year TC rates 324
+Fig. 14.3 Historical ship prices for five-year-old and ten-year-old dry-bulk Panamax 325
+Fig. 14.4 Dry-bulk Panamax scrap value and ship price 327
+Fig. 14.5 Comparison of six-month, one-year and three-year TC rates 329
+Fig. 15.1 Weekly average of total trade FFA dry-bulk volumes (in lots) 339
+Fig. 15.2 Baltic Capesize, Panamax, Supramax and Handysize Indices (January 2000–December 2015) 345
+Fig. 15.3 Baltic Dirty and Clean Tanker Index (January 2000–December 2015) 347
+Fig. 15.4 Weekly average trade volumes cleared vs OTC by sector (in lots) 349
+Fig. 16.1 Shipping M&A key participants and flows 373
+Fig. 16.2 Breakdown of shipping M&As, 1990–2014 375
+Fig. 16.3 Shipping M&A activity vs freight rates 376
+Fig. 16.4 Main motives in shipping M&As 378
+Fig. 16.5 Consolidation in liner shipping 379
+Fig. 16.6 The M&A process 381
+Fig. 16.7 M&A pricing framework 386
+Fig. 16.8 Overview of DCF valuation approach 388
+Fig. 16.9 Forward valuation multiples for selected container/liner companies 391
+Fig. 16.10 Selected M&A transaction multiples 392
+Fig. 16.11 Shipping M&A financing methods 395
+Fig. 16.12 Shipping M&A financing: 1990–2014 397
+
+<!-- Page 37 (Nace parse) -->
+
+Fig. 16.13 Financing terms of a shipping mega-deal 399  
+Fig. 16.14 Measuring M&A value creation 403  
+Fig. 16.15 Recent research of value creation through shipping M&As 404  
+Fig. 16.16 Some key ingredients of shipping M&A success 406
+
+<!-- Page 38 (Nace parse) -->
+
+# List of Tables
+
+Table 4.1 Islamic financing terms 117
+Table 6.1 The most important export credit agencies for the maritime, cruise and offshore shipping sectors 194
+Table 8.2 Examples of publicly reported export credit agency transactions concluded in the maritime, cruise and the offshore shipping sectors 195
+Table 8.3 OECD guidelines: export credits for ships 198
+Table 11.1 Market characteristics in relation to the impact on shipowning and banking institutions 258
+Table 13.1 Sales of Capesize ships 289
+Table 13.2 LTAV sample computation 300
+Table 13.3 Financial analysis of listed shipping companies 305
+Table 14.1 Example of a financial model of ship investment for a five-year-old Panamax (USD millions) 316
+Table 14.2 Assumptions for simple financial model 317
+Table 14.3 Sensitivity table I: sensitivity of equity IRR to changes in assumptions 318
+Table 14.4 Sensitivity table II: sensitivity of equity IRR to changes in ship residual value and average TC rate 318
+Table 14.5 Key ratios and indicators 319
+Table 14.6 Individual bank lending criteria (illustrative assumptions) 331
+Table 14.7 Calculation of loan trade out rate 331
+Table 15.1 The Baltic Exchange Dry-Bulk Freight Indices, January 2016 341
+Table 15.2 The Baltic Tanker Freight Indices, January 2016 346
+Table 15.3 Shanghai Containerized Freight Index (SCFI), January 2016 348
+Table 15.4 World Container Index (WCI), January 2016 348
+Table 15.5 CME group freight futures, January 2016 350
+
+xli
+
 xlii
 List of Tables
 
@@ -1584,7 +2421,62 @@ as new refining capacity projects and changes in the oil price, is critical to
 understand the key drivers of future trade patterns and their changes for the
 respective tanker and offshore sectors. However, this will not be discussed in
 this chapter.
-2 Asset Risk Assessment, Analysis and Forecasting in Asset Backed...
+2 Asset Risk Assessment,
+
+<!-- Page 82 (Nace parse) -->
+
+Fig. 2.1 Timeline of shipbuilding related policy in China (Source: DVB Shipping Research, Clarksons)
+
+# 2.2.2 Cyclicality and Variables Affecting Cyclicality: A Political Variable in a Commercial Industry
+
+In cyclical markets, such as the shipping and offshore industries, understanding the overall cyclicality, the respective sector and subsector cyclicality, and
+
+In cyclical markets, such as the shipping and oﬀ shore industries, understand-
+ing the overall cyclicality, the respective sector and subsector cyclicality, and
+100
+120
+140
+160
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+No. of Yards Start Up in Each Year
+Government’s policies play an important role in the
+development of Chinese shipbuilding industry since the
+government regards shipbuilding industry to be critical
+to national security.
+The National Medium-and Long-Term Plan of the
+Ship building Industry (2006-2015)
+• By 2010, output to reach 17mdwt and capacity will
+reach 23mdwt
+• By 2015, output will reach 22mdwt and capacity will
+reach 28mdwt
+Stimulus and Adjustment Plan for
+• Annual shipbuilding output to reaches 50m
+dwt in 2011 and global market share to increase
+• Optimize product mix of Chinese yards
+• Control new shipbuilding capacity
+Implementation Scheme for Accelerating and Structural
+Adjustment and Promoting the Transformation and
+Upgrading of the Shipbuilding Industry (2013-2015)
+• Extends the support for scrapping old tonnage to the end of
+2015
+• Urges credit support for shipbuilders, studies the potential of
+securitization of shipbuilders’ loans
+• No authorization from local governments to approve any new
+capacity. Close down unauthorized projects.
+
+Analysis and Forecasting in Asset Backed...
 43
 
 #### 2.2.2  Cyclicality and Variables Affecting Cyclicality:
@@ -2658,7 +3550,75 @@ second-hand acquisitions have led shipowners to seek financing beyond
 their own private funds. European merchant banks have a long history
 in financing shipping assets, which can be traced back to the United
 Kingdom in the 1850s, with the expansion of the steamship fleet. Bank
-**Fig. 3.1  Clarkson’s ClarkSea index ( Source : Clarksons, Morgan Stanley Research**
+**Fig. 3.1  Clarkson’s ClarkSea index ( Source : Clarksons, Morgan Stanley
+
+<!-- Page 110 (Nace parse) -->
+
+debt financing remains the most important source of capital for the shipping industry today. The capital market’s embracing of the shipping industry, especially during the last decade, has opened the doors to a much wider range of capital beyond bank debt. Shipping companies today have an array of financing alternatives that range from traditional mortgage-backed loans to more complex financing structures that may include: high yield debt; sale and leasebacks; mezzanine financing and other forms of equity-linked debt; private equity or funding through the formation of publicly listed spin-offs, such as master limited partnerships (MLPs) and special purpose
+
+ 
+
+Fig. 3.2 Clarkson's ClarkSea index volatility (Source: Clarksons, Morgan Stanley Research)
+
+ 
+
+Fig. 3.3 World vessel contracting (Source: Clarksons, Morgan Stanley Research)
+
+debt ﬁ nancing remains the most important source of capital for the ship-
+ping industry today. Th e capital market’s embracing of the shipping indus-
+try, especially during the last decade, has opened the doors to a much wider
+of ﬁ nancing alternatives that range from traditional mortgage-backed loans
+to more complex ﬁ nancing structures that may include: high yield debt;
+sale and leasebacks; mezzanine ﬁ nancing and other forms of equity-linked
+1999
+1998
+1997
+1996
+1994
+1993
+1992
+1991
+1990
+2000
+2001
+2003
+2004
+2005
+2006
+2007
+2008
+2010
+2011
+2012
+2013
+2014
+ClarkSea Index |QoQ change
+150
+100
+200
+250
+300
+US$ billion
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Oﬀshore
+Cruiseships
+Gas Carriers
+Containerships
+Bulkcarriers
+Tankers
+
+Research**
 
 72
 F. Giannakoulis
@@ -2773,6 +3733,68 @@ ance of the loan. The borrower is typically a single-purpose company that
 
 excludes bilateral loans.  Source : Marine Money International; Dealogic data)
 **Fig. 3.6  Aggregate bank shipping portfolios ( Source : Marine Money International)**
+
+<!-- Page 114 (Nace parse) -->
+
+Fig. 3.8 Top 20 shipping bank loan portfolios by bank (Source: Marine Money International)
+
+owns the collateral vessel and is registered in a legally acceptable jurisdiction, most likely in Liberia, the Marshall Islands or Panama. This offers the lender direct access to the collateral and isolates the vessel from any claims or liabilities unrelated to the financed asset. In many cases, the holding company that owns the shares of the single-purpose company acts as a guarantor of the obligations of the borrower. A mortgage-backed loan may finance multiple vessels that are cross-collateralized and, when this happens, the loan is usually split in different tranches, which facilitates the repayment in the event of the sale of any of the vessels. This usually happens when the shipping company is acquiring a fleet of multiple vessels that are financed by the same bank or when the lender is asked to enhance the collateral package adding debt-free vessels in order to reduce the leverage of a credit facility.
+
+The amount and terms of the financing determines the cost of capital for the shipowner, and also the ability of the borrower to meet its obligations and navigate through the volatility of the market. As shipping rates and vessel
+
+owns the collateral vessel and is registered in a legally acceptable jurisdic-
+tion, most likely in Liberia, the Marshall Islands or Panama. Th is oﬀ ers the
+liabilities unrelated to the ﬁ nanced asset. In many cases, the holding company
+obligations of the borrower. A mortgage-backed loan may ﬁ nance multiple
+split in diﬀ erent tranches, which facilitates the repayment in the event of the
+is acquiring a ﬂ eet of multiple vessels that are ﬁ nanced by the same bank or
+Th e amount and terms of the ﬁ nancing determines the cost of capital for
+SEB
+Dankse Bank/
+Fokus Bank
+Bremer
+Landesbank
+ABN Amro
+Danish Ship
+SuMi TRUST
+Nord LB
+China
+Development
+BNB Paribas
+China EXIM
+KEXIM
+Bank of China
+Credit Agricode
+KfW/IPEX Bank
+Commerzbank
+SMBC
+SMBC
+Bremer
+Landesbank
+HVB
+Danish Ship
+Deutsche Bank
+BNP Paribas
+Lloyds/HBOS
+BTMU
+DVB
+DVB
+Calyon
+Nordea
+Nordea
+KfW
+RBS
+RBS
+DnbNOR
+DnbNOR
+Deutsche
+Schiﬀsbank
+HSH Nordbank
+HSH Nordbank
+US$ billion
+2013
+2008
+US$ billion
 
 76
 F. Giannakoulis
@@ -3158,10 +4180,42 @@ listed shipping companies and that offer access to investors and ample avail-
 ability of capital. According to Morgan Stanley Research data, between 2004
 and 2014, shipping companies raised over USD60 billion of common equity
 in 363 public offerings of which 118 were IPOs. Half of this activity was in the
-Company
-Issued
-Amount
-50,000,000 USD
+
+| Company | Issued | Amount | Currency | Coupon | Maturity |
+| :--- | ---: | ---: | :--- | ---: | ---: |
+| Star Bulk Carriers Corp. | 7-Nov-14 | 50,000,000 | USD | 8.00% | 1-Jan-2019 |
+| Scorpio Tankers Inc. | 28-Oct-14 | 45,000,000 | USD | 7.50% | 1-Jan-2017 |
+| A. P. Moller-Maersk A/s | 16-Sep-14 | 750,000,000 | USD | 2.55% | 1-Sep-2019 |
+| A. P. Moller-Maersk A/s | 16-Sep-14 | 500,000,000 | USD | 3.75% | 1-Sep-2024 |
+| Dynagas LNG Partners | 8-Sep-14 | 250,000,000 | USD | 6.25% | 1-Jan-2019 |
+| Scorpio Tankers Inc. | 25-Jun-14 | 300,000,000 | USD | 2.375% | 1-Jan-2019 |
+| Teekay Offshore Partners LP | 30-May-14 | 275,000,000 | USD | 6.00% | 1-Jan-2019 |
+| Paragon Shipping Inc. | 9-May-14 | 25,000,000 | USD | 8.375% | 9-May-2021 |
+| Scorpio Tankers Inc. | 7-May-14 | 50,000,000 | USD | 6.75% | 1-Jan-2020 |
+| Seaspan Corporation | 2-Apr-14 | 345,000,000 | USD | 6.375% | 30-Apr-2019 |
+| Navios Maritime Acquisition | 31-Mar-14 | 60,000,000 | USD | 8.125% | 1-Jan-2021 |
+| Global Ship Lease Inc. | 19-Mar-14 | 420,000,000 | USD | 10.00% | 1-Jan-2019 |
+| Ridgebury Tankers | 14-Mar-14 | 210,000,000 | USD | 7.625% | 14-Mar-2017 |
+| Matson Navigation Co. | 28-Jan-14 | 100,000,000 | USD | 4.35% | 28-Jan-2044 |
+| Navios Maritime Holdings Inc | 29-Nov-13 | 650,000,000 | USD | 7.375% | 1-Jan-2022 |
+| Navios Maritime Acquisition | 14-Nov-13 | 610,000,000 | USD | 8.125% | 1-Nov-2021 |
+| Navigator Gas | 1-Dec-12 | 125,000,000 | USD | 9.00% | 1-Dec-2017 |
+| Viking Cruises | 12-Oct-12 | 250,000,000 | USD | 8.50% | 15-Oct-2022 |
+| Navios Maritime Holdings Inc | 10-Jul-12 | 88,000,000 | USD | 8.875% | 1-Jan-2017 |
+| General Maritime Corporation | 30-Jul-11 | 300,000,000 | USD | 12% | 30-Jul-2017 |
+| Navios Maritime Acquisition | 26-May-11 | 105,000,000 | USD | 8.83% | 26-May-2017 |
+| Dryships Inc. | 28-Apr-11 | 500,000,000 | USD | 9.50% | 28-Apr-2016 |
+| CMA CGM (CMACG) | 21-Apr-11 | 475,000,000 | USD | 8.50% | 21-Apr-2017 |
+| Navios Maritime Holdings Inc | 28-Jan-11 | 350,000,000 | USD | 8.13% | 28-Jan-2019 |
+| Navios Maritime Acquisition | 21-Oct-10 | 400,000,000 | USD | 8.63% | 21-Oct-2017 |
+| Hapag-Lloyd AG | 8-Oct-10 | 250,000,000 | USD | 9.75% | 15-Oct-2017 |
+| American Petroleum Tankers | 17-May-10 | 275,000,000 | USD | 10.25% | 15-May-2015 |
+| Overseas Shipholding Group Ltd. | 30-Mar-10 | 300,000,000 | USD | 8.13% | 30-Mar-2018 |
+| SK Shipping | 19-Mar-10 | 100,000,000 | USD | Float | 9-Mar-2013 |
+| Overseas Shipholding Group Ltd. | 1-Mar-10 | 300,000,000 | USD | 8.13% | 1-Mar-2018 |
+| Berlian Laju Tanker | 10-Feb-10 | 125,000,000 | USD | 12.00% | 10-Feb-2015 |
+| Teekay Corp | 1-Jan-10 | 450,000,000 | USD | 8.50% | 1-Jan-2020 |
+
 **Fig. 3.11  Indicative shipping corporate bond issuances ( Source : Clarksons,**
 
 Morgan Stanley Research)
@@ -17493,6 +18547,27 @@ in question. In a typical strategic business combination (merger or acquisition
 of a controlling stake of shares) that involves a synergy gain, the value of the
 
 ## 16  Mergers and Acquisitions in Shipping
+
+<!-- Page 416 (Nace parse) -->
+
+|  |
+| --- |
+
+Fig. 16.7 M&A pricing framework
+
+combined entity is expected to be higher than the standalone value of the two companies involved. The distribution of the synergy gains between the acquiring and target shareholders is determined by the offer price. Figure 16.7 illustrates a basic M&A pricing framework. The sum of the standalone values of the acquirer ( \( V_{A} \) ), the target ( \( V_{T} \) ) and the synergy gain from the combination ( \( V_{S} \) ) yields the total value of the combined company ( \( V_{C} \) ). The purchase price or deal value ( \( V_{D} \) ) tends to be higher than the standalone value of the target by an amount equal to the offer premium ( \( O_{P} \) ). \( ^{6} \)  This is the share of the synergy gain allocated to target shareholders. Any residual value generated from the combination over and above the price paid by the acquiring company (and any acquisition process expenses incurred) is the net present value (NPV) accruing to acquiring shareholders. \( ^{7} \)
+
+It becomes obvious that estimating a standalone intrinsic value for the target company as well as the synergies from the combination is central to M&A valuation. The ultimate value of the target to the acquiring company is given by:
+
+\[
+\mathbf {V} _ {\mathrm{T} _ {\max}} = \mathbf {V} _ {\mathrm{T}} + \mathbf {V} _ {\mathrm{S}}
+\]
+
+(16.1)
+
+If  \( V_{Tmax} \)  is paid by the acquirer, then the entire value of synergies ( \( V_{s} \) ) is allocated to target shareholders, and the NPV of the deal for the acquiring company is zero. This is a key threshold in M&A valuation and, if exceeded, the deal will destroy value for acquiring shareholders (see pp. 398–406). Thus, the final offer price will typically be between  \( V_{T} \)  (“floor value”) and  \( V_{Tmax} \), when acquiring and target shareholders share the synergistic gains from the combination.
+
+The main valuation methods commonly employed in the shipping industry are discounted cash flow (DCF), market and transaction multiples, and
 
 385
 
