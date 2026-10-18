@@ -66,12 +66,12 @@ On August 13, the operating rate of blast furnaces at 242 steel mills, as survey
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 120.15 | -1.50 | -1.23% | 111.56 | 124.33 | 98.23 | 171.65 |
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 918.00 | -7.00 | -0.80% | 899.00 | 973.00 | 820.00 | 1,210.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 114.94 | -0.74 | -0.64% | 111.93 | 121.94 | 102.77 | 153.57 |
-| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 771.00 | +770.00 | +738.00% | 772.00 | 780.00 | 774.00 | 837.00 |
-| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 99.27 | +99.19 | +95.15% | 100.15 | 100.83 | 100.16 | 109.05 |
-| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 664.00 | +668.00 | +650.00% | 664.00 | 680.00 | 674.00 | 732.00 |
-| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 85.93 | +86.44 | +84.27% | 86.58 | 88.37 | 87.76 | 95.85 |
-| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 883.00 | +882.00 | +850.00% | 884.00 | 892.00 | 886.00 | 949.00 |
-| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 114.18 | +114.14 | +110.12% | 115.17 | 115.82 | 115.17 | 124.08 |
+| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 800.00 | -2.00 | -0.20% | 780.00 | 837.00 | 683.00 | 1,063.00 |
+| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 104.10 | -0.25 | -0.20% | 100.83 | 109.05 | 89.33 | 140.24 |
+| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 684.00 | -4.00 | -0.60% | 680.00 | 732.00 | 610.00 | 963.00 |
+| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 89.43 | -0.53 | -0.60% | 88.37 | 95.85 | 80.25 | 128.13 |
+| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 912.00 | -2.00 | -0.20% | 892.00 | 949.00 | 794.00 | 1,175.00 |
+| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 119.20 | -0.25 | -0.20% | 115.82 | 124.08 | 104.47 | 155.37 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |

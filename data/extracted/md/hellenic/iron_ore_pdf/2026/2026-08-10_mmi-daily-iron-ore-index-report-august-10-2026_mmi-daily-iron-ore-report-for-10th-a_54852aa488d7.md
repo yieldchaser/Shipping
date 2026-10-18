@@ -68,12 +68,12 @@ On the news front, the strike at Port Hedland continues to progress, with approx
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 115.50 | +0.06 | +0.05% | 116.87 | 123.32 | 98.23 | 171.65 |
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 873.00 | +5.00 | +0.60% | 896.00 | 946.00 | 820.00 | 1,210.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 114.72 | +0.69 | +0.60% | 113.42 | 119.44 | 102.77 | 153.57 |
-| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 775.00 | +787.00 | +732.00% | 701.00 | 699.00 | 775.00 | 816.00 |
-| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 104.58 | +106.84 | +99.38% | 95.26 | 102.26 | 101.79 | 107.08 |
-| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 711.00 | +713.00 | +661.00% | 634.00 | 633.00 | 687.00 | 720.00 |
-| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 96.68 | +97.43 | +90.37% | 86.68 | 91.30 | 90.74 | 95.14 |
-| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 935.00 | +938.00 | +861.00% | 836.00 | 834.00 | 891.00 | 931.00 |
-| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 127.02 | +128.06 | +117.55% | 114.37 | 118.18 | 117.64 | 122.71 |
+| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 686.00 | -1.00 | -0.10% | 699.00 | 816.00 | 663.00 | 1,063.00 |
+| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 93.24 | -0.08 | -0.10% | 102.26 | 107.08 | 89.33 | 140.24 |
+| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 632.00 | -3.00 | -0.50% | 633.00 | 720.00 | 610.00 | 963.00 |
+| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 86.53 | -0.41 | -0.50% | 91.30 | 95.14 | 80.25 | 128.13 |
+| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 829.00 | -1.00 | -0.10% | 834.00 | 931.00 | 794.00 | 1,175.00 |
+| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 113.50 | -0.11 | -0.10% | 118.18 | 122.71 | 104.47 | 155.37 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
@@ -270,29 +270,8 @@ On the news front, the strike at Port Hedland continues to progress, with approx
 | **Hot-rolled coil cost - Blast furnace** | 3,206.00 | RMB/tonne | +23.00 | based on actual weight, incl. tax |
 | **Hot-rolled coil profit - Blast furnace** | 54.00 | RMB/tonne | -33.00 | based on Shanghai prices, incl. tax |
 
-## Chinese Steel Consumption & Production Monthly Matrix (Rebar & HRC 2022-Present)
-| Metric | Product | Year | M01 | M02 | M03 | M04 | M05 | M06 | M07 | M08 | M09 | M10 | M11 | M12 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Consumption** | **Rebar** | 2022 | 2,000.00 | -1,500.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 2,500.00 | 3,000.00 | 3,000.00 | 2,500.00 | 2,000.00 |
-| **Consumption** | **Rebar** | 2023 | 1,500.00 | -2,000.00 | 3,200.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 2,500.00 | 3,000.00 | 3,000.00 | 2,500.00 | 2,000.00 |
-| **Consumption** | **Rebar** | 2024 | 2,000.00 | 2,500.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 2,500.00 | 2,000.00 | 2,500.00 | 3,000.00 | 2,500.00 | 2,000.00 |
-| **Consumption** | **Rebar** | 2025 | 2,000.00 | 1,000.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,000.00 | 2,000.00 | 2,000.00 | 1,500.00 | 2,000.00 | 1,800.00 |
-| **Consumption** | **Rebar** | 2026 | 1,800.00 | 1,500.00 | 2,000.00 | 2,000.00 | 2,000.00 | 2,000.00 | 1,800.00 | 1,800.00 | 1,800.00 | 1,800.00 | 1,800.00 | 1,800.00 |
-| **Consumption** | **Hot-rolled Coil** | 2022 | 2,700.00 | 2,500.00 | 3,100.00 | 3,200.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,200.00 | 3,100.00 | 2,700.00 | 3,200.00 | 3,200.00 |
-| **Consumption** | **Hot-rolled Coil** | 2023 | 2,700.00 | 1,800.00 | 3,100.00 | 3,500.00 | 3,200.00 | 3,300.00 | 3,400.00 | 3,300.00 | 3,200.00 | 3,000.00 | 3,300.00 | 3,200.00 |
-| **Consumption** | **Hot-rolled Coil** | 2024 | 3,100.00 | 3,000.00 | 3,200.00 | 3,300.00 | 3,300.00 | 3,400.00 | 3,300.00 | 3,200.00 | 3,100.00 | 3,000.00 | 3,200.00 | 3,100.00 |
-| **Consumption** | **Hot-rolled Coil** | 2025 | 3,200.00 | 3,100.00 | 3,300.00 | 3,400.00 | 3,300.00 | 3,300.00 | 3,300.00 | 3,200.00 | 3,100.00 | 3,100.00 | 3,200.00 | 3,200.00 |
-| **Consumption** | **Hot-rolled Coil** | 2026 | 3,200.00 | 3,100.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,100.00 | 3,100.00 | 3,200.00 | 3,200.00 |
-| **Production** | **Rebar** | 2022 | 2,800.00 | 2,500.00 | 2,000.00 | 3,000.00 | 3,000.00 | 2,500.00 | 2,500.00 | 2,000.00 | 3,000.00 | 2,500.00 | 2,500.00 | 2,500.00 |
-| **Production** | **Rebar** | 2023 | 2,400.00 | 2,300.00 | 3,000.00 | 3,000.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,000.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,600.00 |
-| **Production** | **Rebar** | 2024 | 2,200.00 | 2,000.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,000.00 | 2,400.00 | 1,600.00 | 2,400.00 | 2,000.00 | 2,200.00 | 2,200.00 |
-| **Production** | **Rebar** | 2025 | 2,200.00 | 2,100.00 | 2,200.00 | 2,200.00 | 2,100.00 | 2,000.00 | 2,000.00 | 2,000.00 | 2,000.00 | 1,900.00 | 1,800.00 | 1,700.00 |
-| **Production** | **Rebar** | 2026 | 1,900.00 | 1,800.00 | 1,700.00 | 2,000.00 | 2,000.00 | 2,000.00 | 2,000.00 | 1,900.00 | 1,800.00 | 1,700.00 | 1,700.00 | 1,700.00 |
-| **Production** | **Hot-rolled Coil** | 2022 | 3,000.00 | 3,100.00 | 3,200.00 | 3,200.00 | 3,100.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,000.00 | 2,900.00 | 3,100.00 | 3,100.00 |
-| **Production** | **Hot-rolled Coil** | 2023 | 3,100.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,100.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,000.00 | 3,000.00 | 3,200.00 | 3,200.00 |
-| **Production** | **Hot-rolled Coil** | 2024 | 3,100.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,200.00 | 3,300.00 | 3,300.00 | 3,200.00 | 3,000.00 | 2,900.00 | 3,000.00 | 3,100.00 |
-| **Production** | **Hot-rolled Coil** | 2025 | 3,300.00 | 3,200.00 | 3,300.00 | 3,300.00 | 3,200.00 | 3,400.00 | 3,400.00 | 3,400.00 | 3,100.00 | 3,100.00 | 3,200.00 | 3,200.00 |
-| **Production** | **Hot-rolled Coil** | 2026 | 3,150.00 | 3,100.00 | 3,100.00 | 3,100.00 | 3,000.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,000.00 | 3,100.00 | 3,150.00 | 3,150.00 |
+## Chinese Steel Consumption & Production
+> **Chart (not transcribed).** The report prints no values for these charts.
 
 ---
 

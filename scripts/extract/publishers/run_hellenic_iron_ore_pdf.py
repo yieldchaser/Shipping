@@ -59,6 +59,8 @@ def report_markdown(sidecar: Dict[str, Any], pdf_path: Path) -> str:
         print(f"  [WARN] printed-table rebuild skipped for {pdf_path.name}: {e}")
     return md
 
+STEEL_CHART_NOTE = ("## Chinese Steel Consumption & Production\n"
+                    "> **Chart (not transcribed).** The report prints no values for these charts.")
 CACHE_DIR = ROOT / "data" / "extracted" / "cache_mmi_iron_ore_pdf"
 OUT_MD_DIR = ROOT / "data" / "extracted" / "md" / "hellenic" / "iron_ore_pdf"
 OUT_SERIES_DIR = ROOT / "data" / "extracted" / "series"
@@ -1676,18 +1678,24 @@ def generate_report_markdown(sidecar: Dict[str, Any]) -> str:
     year = meta["year"]
     source_file = meta["source_file"]
 
+    def _dp(v: float) -> int:
+        # MMi prints some assessments to 3 decimals (118.715); 2 decimals would round them. Values parsed
+        # from the report keep their printed digits in repr; longer reprs are computed, kept at 2.
+        frac = repr(float(v)).partition(".")[2]
+        return len(frac) if 2 < len(frac) <= 3 and "e" not in frac else 2
+
     def fmt_num(v: Any, suffix: str = "") -> str:
-        return f"{v:,.2f}{suffix}" if isinstance(v, (int, float)) else (str(v) if v is not None else "-")
+        return f"{v:,.{_dp(v)}f}{suffix}" if isinstance(v, (int, float)) else (str(v) if v is not None else "-")
 
     def fmt_pct(v: Any) -> str:
         if v is None:
             return "-"
-        return f"{v:+.2f}%" if isinstance(v, (int, float)) else str(v)
+        return f"{v:+.{_dp(v)}f}%" if isinstance(v, (int, float)) else str(v)
 
     def fmt_chg(v: Any) -> str:
         if v is None:
             return "-"
-        return f"{v:+.2f}" if isinstance(v, (int, float)) else str(v)
+        return f"{v:+.{_dp(v)}f}" if isinstance(v, (int, float)) else str(v)
 
     # PAGE 1: Executive Dashboard
     p1 = f"""<!-- Page 1 -->
@@ -1948,7 +1956,9 @@ def generate_report_markdown(sidecar: Dict[str, Any]) -> str:
 
     p5_parts = [f"""<!-- Page 5 -->\n\n# Steel Spot Market & Mill Profitability\n\n## Chinese Domestic Steel Spot Market Prices\n{stl_block}\n\n## Chinese Steel Mill Cost & Profitability Model\n{pnl_block}"""]
     if sc_block:
-        p5_parts.append(f"## Chinese Steel Consumption & Production Monthly Matrix (Rebar & HRC 2022-Present)\n{sc_block}")
+        # 2026-10-18: the parser's "matrix" was read off four unlabelled line charts (round hundreds, and
+        # values for months after the issue date). The charts print no numbers, so none are kept.
+        p5_parts.append(STEEL_CHART_NOTE)
     p5 = "\n\n".join(p5_parts)
 
     # PAGE 6: Specifications & Directory
@@ -2554,16 +2564,8 @@ def save_stacked_series(
             w.writerows(dash_rows)
         print(f"Saved {len(dash_rows)} cumulative rows to {p_dash.name}")
 
-    # 2. Detailed Benchmark Indices
-    idx_rows = sorted(indices_dict.values(), key=lambda x: (str(x.get("date", "")), str(x.get("index_name", ""))))
-    if idx_rows:
-        p_idx = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_indices_series.csv"
-        idx_keys = ["date", "year", "index_name", "market", "fe_content", "unit", "price", "change", "change_pct", "mtd", "ytd", "low_52w", "high_52w", "source_file"]
-        with open(p_idx, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=idx_keys, extrasaction="ignore")
-            w.writeheader()
-            w.writerows(idx_rows)
-        print(f"Saved {len(idx_rows)} cumulative rows to {p_idx.name}")
+    # 2. Detailed Benchmark Indices: hellenic_iron_ore_pdf_indices_series.csv is rebuilt from the
+    #    corrected MD tables by iron_ore_indices_from_md.py (these sidecars hold pre-correction numbers).
 
     # 3. Brand Spot Assessments
     brand_rows = sorted(brands_dict.values(), key=lambda x: (str(x.get("date", "")), str(x.get("brand", ""))))
@@ -2682,7 +2684,8 @@ def save_stacked_series(
         print(f"Saved {len(imp_rows)} cumulative rows to {p_imp.name}")
 
     # 13. Historical Steel Production & Consumption Monthly Matrix (Page 5)
-    sc_rows = sorted(steel_charts_dict.values(), key=lambda x: (str(x.get("date", "")), str(x.get("indicator", "")), str(x.get("product", "")), str(x.get("year_series", ""))))
+    # Retired 2026-10-18: chart readings, not printed values (see STEEL_CHART_NOTE); the CSV was deleted.
+    sc_rows = []
     if sc_rows:
         p_sc = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_steel_production_consumption_series.csv"
         sc_keys = ["date", "year", "indicator", "product", "year_series", "m01", "m02", "m03", "m04", "m05", "m06", "m07", "m08", "m09", "m10", "m11", "m12", "source_file"]

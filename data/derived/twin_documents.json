@@ -846,6 +846,78 @@
     "pdf_numbers_found_twin": null,
     "pdf_numbers_found_canonical": null
    }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-06_mmi-daily-iron-ore-index-report-october-_io20261006-en.md",
+   "twin_pdf": "2026-10-06_mmi-daily-iron-ore-index-report-october-6-2026_io20261006-en_647632f6c6ef.pdf",
+   "canonical_pdf": "2026-10-06_mmi-daily-iron-ore-index-report-october-_io20261006-en.pdf",
+   "reason": "HSN re-drop of the MMi issue: Markdown body byte-identical to the canonical (twin PDF not kept)",
+   "action": "archive"
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-07_mmi-daily-iron-ore-index-report-october-_io20261007-en.md",
+   "twin_pdf": "2026-10-07_mmi-daily-iron-ore-index-report-october-7-2026_io20261007-en_eb7ed742c1da.pdf",
+   "canonical_pdf": "2026-10-07_mmi-daily-iron-ore-index-report-october-_io20261007-en.pdf",
+   "reason": "HSN re-drop of the MMi issue: Markdown body byte-identical to the canonical (twin PDF not kept)",
+   "action": "archive"
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-08_mmi-daily-iron-ore-index-report-october-8-2026_io20261008-en_3d6b08a15284.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-08_mmi-daily-iron-ore-index-report-october-_io20261008-en.md",
+   "twin_pdf": "2026-10-08_mmi-daily-iron-ore-index-report-october-8-2026_io20261008-en_3d6b08a15284.pdf",
+   "canonical_pdf": "2026-10-08_mmi-daily-iron-ore-index-report-october-_io20261008-en.pdf",
+   "reason": "HSN re-drop of the MMi issue: Markdown body byte-identical to the canonical (twin PDF not kept)",
+   "action": "archive"
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-09_mmi-daily-iron-ore-index-report-october-_io20261009-en.md",
+   "twin_pdf": "2026-10-09_mmi-daily-iron-ore-index-report-october-9-2026_io20261009-en_03d1fe1a4f11.pdf",
+   "canonical_pdf": "2026-10-09_mmi-daily-iron-ore-index-report-october-_io20261009-en.pdf",
+   "reason": "HSN re-drop of the MMi issue: Markdown body byte-identical to the canonical (twin PDF not kept)",
+   "action": "archive"
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-12_mmi-daily-iron-ore-index-report-october-_io20261012-en.md",
+   "twin_pdf": "2026-10-12_mmi-daily-iron-ore-index-report-october-12-2026_io20261012-en_834f0ab3d388.pdf",
+   "canonical_pdf": "2026-10-12_mmi-daily-iron-ore-index-report-october-_io20261012-en.pdf",
+   "reason": "HSN re-drop of the MMi issue: Markdown body byte-identical to the canonical (twin PDF not kept)",
+   "action": "archive"
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-13_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-13th-October-2026.md",
+   "twin_pdf": "2026-10-13_mmi-daily-iron-ore-index-report-october-13-2026_mmi-daily-iron-ore-report-for-13th-o_3b2108bc0d2d.pdf",
+   "canonical_pdf": "2026-10-13_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-13th-October-2026.pdf",
+   "reason": "HSN re-drop of the MMi issue: Markdown body byte-identical to the canonical (twin PDF not kept)",
+   "action": "archive"
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-14_mmi-daily-iron-ore-index-report-october-14-2026_mmi-daily-iron-ore-report-for-14th-o_50334dd753f2.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-14_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-14th-October-2026.md",
+   "twin_pdf": "2026-10-14_mmi-daily-iron-ore-index-report-october-14-2026_mmi-daily-iron-ore-report-for-14th-o_50334dd753f2.pdf",
+   "canonical_pdf": "2026-10-14_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-14th-October-2026.pdf",
+   "reason": "HSN re-drop of the MMi issue: Markdown body byte-identical to the canonical (twin PDF not kept)",
+   "action": "archive"
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-15_mmi-daily-iron-ore-index-report-october-15-2026_mmi-daily-iron-ore-report-for-15th-o_befd1e4a651d.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-15_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-15th-October-2026.md",
+   "twin_pdf": "2026-10-15_mmi-daily-iron-ore-index-report-october-15-2026_mmi-daily-iron-ore-report-for-15th-o_befd1e4a651d.pdf",
+   "canonical_pdf": "2026-10-15_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-15th-October-2026.pdf",
+   "reason": "HSN re-drop of the MMi issue: Markdown body byte-identical to the canonical (twin PDF not kept)",
+   "action": "archive"
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-16_mmi-daily-iron-ore-index-report-october-16-2026_mmi-daily-iron-ore-report-for-16th-o_1dc6280854a0.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-16_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-16th-October-2026.md",
+   "twin_pdf": "2026-10-16_mmi-daily-iron-ore-index-report-october-16-2026_mmi-daily-iron-ore-report-for-16th-o_1dc6280854a0.pdf",
+   "canonical_pdf": "2026-10-16_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-16th-October-2026.pdf",
+   "reason": "HSN re-drop of the MMi issue: Markdown body byte-identical to the canonical (twin PDF not kept)",
+   "action": "archive"
   }
  ]
 }

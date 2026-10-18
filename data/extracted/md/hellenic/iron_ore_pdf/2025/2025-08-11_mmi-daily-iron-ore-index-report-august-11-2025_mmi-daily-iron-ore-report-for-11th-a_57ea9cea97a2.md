@@ -66,12 +66,12 @@ Last week, SMM's global iron ore shipment volume totaled 31.12 million mt, down 
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 117.50 | +0.05 | +0.04% | 111.41 | 124.36 | 98.23 | 171.65 |
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 918.00 | -7.00 | -0.80% | 899.00 | 973.00 | 820.00 | 1,210.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 114.94 | -0.74 | -0.64% | 111.93 | 121.94 | 102.77 | 153.57 |
-| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 771.00 | +770.00 | +738.00% | 772.00 | 780.00 | 773.00 | 838.00 |
-| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 99.27 | +99.19 | +95.15% | 100.15 | 100.78 | 100.10 | 109.08 |
-| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 664.00 | +668.00 | +650.00% | 664.00 | 680.00 | 674.00 | 732.00 |
-| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 85.93 | +86.44 | +84.27% | 86.58 | 88.35 | 87.73 | 95.90 |
-| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 883.00 | +882.00 | +850.00% | 884.00 | 891.00 | 885.00 | 949.00 |
-| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 114.18 | +114.14 | +110.12% | 115.17 | 115.77 | 115.12 | 124.12 |
+| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 799.00 | +3.00 | +0.40% | 780.00 | 838.00 | 683.00 | 1,063.00 |
+| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 103.86 | +0.37 | +0.40% | 100.78 | 109.08 | 89.33 | 140.24 |
+| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 683.00 | +1.00 | +0.10% | 680.00 | 732.00 | 610.00 | 963.00 |
+| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 89.21 | +0.11 | +0.10% | 88.35 | 95.90 | 80.25 | 128.13 |
+| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 911.00 | +3.00 | +0.30% | 891.00 | 949.00 | 794.00 | 1,175.00 |
+| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 118.95 | +0.37 | +0.30% | 115.77 | 124.12 | 104.47 | 155.37 |
 
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
@@ -336,25 +336,8 @@ Last week, SMM's global iron ore shipment volume totaled 31.12 million mt, down 
 | **Hot-rolled coil cost - Blast furnace** | 3,186.00 | RMB/tonne | +28.00 | based on actual weight, incl. tax |
 | **Hot-rolled coil profit - Blast furnace** | 274.00 | RMB/tonne | +3.00 | based on Shanghai prices, incl. tax |
 
-## Chinese Steel Consumption & Production Monthly Matrix (Rebar & HRC 2022–2026)
-| Metric | Product | Year | M01 | M02 | M03 | M04 | M05 | M06 | M07 | M08 | M09 | M10 | M11 | M12 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Consumption** | **Rebar** | 2022 | 2,500.00 | -1,500.00 | 3,000.00 | 3,000.00 | 3,000.00 | 2,500.00 | 2,000.00 | 2,000.00 | 2,500.00 | 3,000.00 | 2,500.00 | 2,000.00 |
-| **Consumption** | **Rebar** | 2023 | 2,000.00 | 0.00 | 3,200.00 | 3,000.00 | 3,000.00 | 2,500.00 | 2,000.00 | 2,000.00 | 2,500.00 | 3,000.00 | 2,500.00 | 2,000.00 |
-| **Consumption** | **Rebar** | 2024 | 1,500.00 | -500.00 | 2,500.00 | 3,000.00 | 3,000.00 | 2,500.00 | 2,000.00 | 2,000.00 | 2,500.00 | 3,000.00 | 2,000.00 | 1,800.00 |
-| **Consumption** | **Rebar** | 2025 | 1,800.00 | 1,000.00 | 2,000.00 | 2,200.00 | 2,000.00 | 1,800.00 | 1,700.00 | 1,700.00 | 1,800.00 | 2,000.00 | 1,800.00 | 1,700.00 |
-| **Consumption** | **Hot-rolled Coil** | 2022 | 2,900.00 | 2,600.00 | 3,200.00 | 3,200.00 | 3,100.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 2,800.00 | 3,000.00 | 3,000.00 |
-| **Consumption** | **Hot-rolled Coil** | 2023 | 2,700.00 | 2,500.00 | 3,100.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,100.00 | 3,100.00 |
-| **Consumption** | **Hot-rolled Coil** | 2024 | 3,100.00 | 2,700.00 | 3,200.00 | 3,300.00 | 3,100.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 |
-| **Consumption** | **Hot-rolled Coil** | 2025 | 3,000.00 | 2,700.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,300.00 | 3,300.00 | 3,200.00 | 3,000.00 | 3,000.00 | 3,100.00 | 3,100.00 |
-| **Production** | **Rebar** | 2022 | 2,800.00 | 2,700.00 | 3,000.00 | 3,000.00 | 3,000.00 | 2,800.00 | 2,600.00 | 2,500.00 | 2,800.00 | 3,000.00 | 3,000.00 | 2,800.00 |
-| **Production** | **Rebar** | 2023 | 2,400.00 | 2,500.00 | 3,000.00 | 2,800.00 | 2,800.00 | 2,600.00 | 2,500.00 | 2,500.00 | 2,600.00 | 2,800.00 | 2,700.00 | 2,600.00 |
-| **Production** | **Rebar** | 2024 | 2,000.00 | 1,800.00 | 2,000.00 | 2,200.00 | 2,400.00 | 2,300.00 | 2,400.00 | 2,200.00 | 1,800.00 | 2,000.00 | 2,400.00 | 2,200.00 |
-| **Production** | **Rebar** | 2025 | 2,000.00 | 1,800.00 | 2,200.00 | 2,200.00 | 2,200.00 | 2,100.00 | 2,100.00 | 2,200.00 | 2,000.00 | 2,000.00 | 2,000.00 | 2,100.00 |
-| **Production** | **Hot-rolled Coil** | 2022 | 3,000.00 | 3,100.00 | 3,100.00 | 3,100.00 | 3,000.00 | 3,000.00 | 3,100.00 | 3,000.00 | 3,000.00 | 2,900.00 | 3,000.00 | 3,000.00 |
-| **Production** | **Hot-rolled Coil** | 2023 | 3,000.00 | 3,000.00 | 3,100.00 | 3,100.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,100.00 | 3,100.00 |
-| **Production** | **Hot-rolled Coil** | 2024 | 3,000.00 | 3,100.00 | 3,200.00 | 3,200.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,200.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 |
-| **Production** | **Hot-rolled Coil** | 2025 | 3,000.00 | 3,200.00 | 3,300.00 | 3,100.00 | 3,100.00 | 3,400.00 | 3,400.00 | 3,300.00 | 3,000.00 | 3,000.00 | 3,100.00 | 3,100.00 |
+## Chinese Steel Consumption & Production
+> **Chart (not transcribed).** The report prints no values for these charts.
 
 ---
 

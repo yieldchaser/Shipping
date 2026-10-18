@@ -62,12 +62,12 @@ According to SMM statistics, the impact from blast furnace maintenance on pig ir
 ## MMi Detailed Iron Ore Benchmark Assessments
 | Index Name | Delivery Point / Market | Grade Profile | Currency / Unit | Assessment | Change | Change % | MTD Avg | YTD Avg | 52w Low | 52w High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 791.00 | +786.00 | +821.00% | 787.00 | 788.00 | 777.00 | 853.00 |
-| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 102.08 | +101.55 | +106.36% | 101.83 | 101.93 | 100.67 | 111.24 |
-| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 706.00 | +689.00 | +709.00% | 677.00 | 690.00 | 679.00 | 746.00 |
-| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 91.67 | +89.46 | +92.40% | 87.92 | 89.67 | 88.45 | 97.95 |
-| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 903.00 | +899.00 | +933.00% | 899.00 | 900.00 | 889.00 | 964.00 |
-| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 117.03 | +116.56 | +121.35% | 116.79 | 116.92 | 115.69 | 126.28 |
+| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 770.00 | +5.00 | +0.60% | 788.00 | 853.00 | 683.00 | 1,063.00 |
+| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 99.07 | +0.65 | +0.70% | 101.93 | 111.24 | 89.33 | 140.24 |
+| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 663.00 | +1.00 | +0.20% | 690.00 | 746.00 | 610.00 | 963.00 |
+| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 85.77 | +0.20 | +0.20% | 89.67 | 97.95 | 80.25 | 128.13 |
+| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 882.00 | +5.00 | +0.60% | 900.00 | 964.00 | 794.00 | 1,175.00 |
+| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 113.98 | +0.65 | +0.60% | 116.92 | 126.28 | 104.47 | 155.37 |
 | **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 101.88 | -0.93 | -0.90% | 103.09 | 112.31 | 89.79 | 142.65 |
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 106.98 | -2.58 | -2.35% | 114.73 | 128.23 | 98.28 | 171.65 |
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 892.00 | -8.00 | -0.90% | 901.00 | 988.00 | 820.00 | 1,210.00 |
@@ -264,25 +264,8 @@ According to SMM statistics, the impact from blast furnace maintenance on pig ir
 | **Hot-rolled coil cost - Blast furnace** | 3,098.00 | RMB/tonne | +10.00 | based on actual weight, incl. tax |
 | **Hot-rolled coil profit - Blast furnace** | 102.00 | RMB/tonne | -60.00 | based on Shanghai prices, incl. tax |
 
-## Chinese Steel Consumption & Production Monthly Matrix (Rebar & HRC 2022-Present)
-| Metric | Product | Year | M01 | M02 | M03 | M04 | M05 | M06 | M07 | M08 | M09 | M10 | M11 | M12 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Consumption** | **Rebar** | 2022 | 2,500.00 | -1,500.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 2,500.00 | 3,000.00 | 3,000.00 | 2,500.00 | 2,000.00 |
-| **Consumption** | **Rebar** | 2023 | 3,000.00 | 0.00 | 3,200.00 | 3,200.00 | 3,000.00 | 3,000.00 | 3,000.00 | 2,500.00 | 3,000.00 | 3,000.00 | 2,500.00 | 2,000.00 |
-| **Consumption** | **Rebar** | 2024 | 2,500.00 | -500.00 | 2,000.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,000.00 | 1,500.00 | 2,000.00 | 1,500.00 | 2,000.00 | 2,000.00 |
-| **Consumption** | **Rebar** | 2025 | 2,000.00 | 1,000.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,500.00 |
-| **Consumption** | **Hot-rolled Coil** | 2022 | 3,000.00 | 2,700.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 2,800.00 | 2,800.00 | 2,800.00 | 2,800.00 | 3,000.00 | 3,000.00 |
-| **Consumption** | **Hot-rolled Coil** | 2023 | 3,000.00 | 2,700.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,200.00 | 3,200.00 |
-| **Consumption** | **Hot-rolled Coil** | 2024 | 3,000.00 | 2,700.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 |
-| **Consumption** | **Hot-rolled Coil** | 2025 | 3,000.00 | 2,700.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 |
-| **Production** | **Rebar** | 2022 | 2,800.00 | 2,500.00 | 3,000.00 | 3,000.00 | 3,000.00 | 2,800.00 | 2,500.00 | 2,200.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,500.00 |
-| **Production** | **Rebar** | 2023 | 2,400.00 | 2,000.00 | 3,000.00 | 2,600.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,400.00 | 2,500.00 | 2,500.00 | 2,500.00 | 2,500.00 |
-| **Production** | **Rebar** | 2024 | 2,400.00 | 2,000.00 | 2,000.00 | 2,200.00 | 2,400.00 | 2,400.00 | 2,400.00 | 1,700.00 | 1,700.00 | 2,400.00 | 2,400.00 | 2,200.00 |
-| **Production** | **Rebar** | 2025 | 2,000.00 | 1,800.00 | 2,200.00 | 2,300.00 | 2,300.00 | 2,300.00 | 2,300.00 | 2,300.00 | 2,300.00 | 2,300.00 | 2,300.00 | 2,200.00 |
-| **Production** | **Hot-rolled Coil** | 2022 | 3,000.00 | 3,100.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,300.00 | 3,000.00 | 3,000.00 | 2,900.00 | 3,000.00 | 3,000.00 |
-| **Production** | **Hot-rolled Coil** | 2023 | 3,000.00 | 3,100.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,200.00 | 3,200.00 |
-| **Production** | **Hot-rolled Coil** | 2024 | 3,000.00 | 3,100.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,300.00 | 3,300.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 |
-| **Production** | **Hot-rolled Coil** | 2025 | 3,000.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,200.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 |
+## Chinese Steel Consumption & Production
+> **Chart (not transcribed).** The report prints no values for these charts.
 
 ---
 
@@ -305,34 +288,34 @@ According to SMM statistics, the impact from blast furnace maintenance on pig ir
 ## Average Iron Ore Specifications Applied for Brand Price Assessments
 | Brand Name | Market Segment | Fe Content % | Alumina (Al2O3) % | Silica (SiO2) % | Phosphorus (P) % | Moisture Content % |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roy Hill** | Port Stock | 60.88% | 2.35% | 4.45% | 0.06% | 9.26% |
-| **Roy Hill** | Seaborne | 60.70% | 2.30% | 4.90% | 0.06% | 8.00% |
+| **Roy Hill** | Port Stock | 60.88% | 2.35% | 4.45% | 0.055% | 9.26% |
+| **Roy Hill** | Seaborne | 60.70% | 2.30% | 4.90% | 0.055% | 8.00% |
 | **SIMEC Fines** | Port Stock | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
 | **SIMEC Fines** | Seaborne | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
-| **PB Fines** | Port Stock | 61.64% | 2.31% | 3.87% | 0.10% | 9.45% |
+| **PB Fines** | Port Stock | 61.64% | 2.31% | 3.87% | 0.099% | 9.45% |
 | **PB Fines** | Seaborne | 62.00% | 2.60% | 4.30% | 0.09% | 9.50% |
 | **Newman Fines** | Port Stock | 62.49% | 2.31% | 3.98% | 0.09% | 7.72% |
 | **Newman Fines** | Seaborne | 62.30% | 2.40% | 4.40% | 0.09% | 8.00% |
-| **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.08% | 7.57% |
+| **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.078% | 7.57% |
 | **MAC Fines** | Seaborne | 60.80% | 2.35% | 4.70% | 0.08% | 7.80% |
-| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.11% | 7.32% |
+| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
 | **Jimblebar Blended Fines** | Seaborne | 60.50% | 3.00% | 4.50% | 0.12% | 8.00% |
 | **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
 | **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
 | **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
 | **Brazilian SSF** | Seaborne | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
-| **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.09% | 8.72% |
+| **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |
 | **Brazilian Blend Fines** | Seaborne | 63.00% | 1.50% | 5.00% | 0.07% | 7.00% |
-| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.14% | 7.50% |
-| **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.14% | 7.50% |
-| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.07% | 8.50% |
-| **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.07% | 8.50% |
-| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.07% | 9.18% |
-| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.06% | 8.29% |
-| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.04% | 8.44% |
-| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.06% | 7.45% |
+| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.065% | 9.18% |
+| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.057% | 8.29% |
+| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.042% | 8.44% |
+| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.062% | 7.45% |
 | **Atlas Fines** | Port Stock | 58.00% | 1.85% | 5.50% | 0.09% | 9.00% |
-| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.04% | 9.53% |
+| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.042% | 9.53% |
 
 ## Bloomberg Terminal Tickers
 | Index Identifier | Market Segment | Delivery Terms | Bloomberg Ticker |

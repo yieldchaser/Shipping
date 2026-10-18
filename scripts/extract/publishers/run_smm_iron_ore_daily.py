@@ -820,7 +820,7 @@ def update_master_series(data: Dict[str, Any], pdf_stem: str) -> None:
             "indicator": k,
             "value": v,
             "unit": "pct" if "pct" in k else ("USD/mt" if "usd" in k else "mt_m"),
-            "change": 0.0,
+            "change": "",  # the report prints no change for these drivers
             "source_file": source_file
         })
     p_dash = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_dashboard_series.csv"
@@ -835,14 +835,15 @@ def update_master_series(data: Dict[str, Any], pdf_stem: str) -> None:
             "index_name": idx["index_name"],
             "market_type": idx["market_type"],
             "fe_content": idx["fe_content"],
-            "value": idx["price"],
+            "price": idx["price"],
             "unit": idx["unit"],
             "change": idx["change"],
             "change_pct": idx["change_pct"],
             "source_file": source_file
         })
+    # one schema with the MMi rows (scripts/extract/publishers/iron_ore_indices_from_md.py)
     p_idx = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_indices_series.csv"
-    upsert_rows_to_csv(p_idx, idx_rows, ["date", "index_name"], ["date", "year", "index_name", "market_type", "fe_content", "value", "unit", "change", "change_pct", "source_file"])
+    upsert_rows_to_csv(p_idx, idx_rows, ["date", "index_name"], ["date", "year", "index_name", "market", "market_type", "fe_content", "unit", "price", "change", "change_pct", "mtd", "ytd", "low_52w", "high_52w", "source_file"])
 
     # 3. Brands Series (Qingdao CNY & CFR Qingdao USD)
     brand_rows = []

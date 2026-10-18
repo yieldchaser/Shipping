@@ -62,12 +62,12 @@ _No desk commentary reported for this session._
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 114.85 | -13.95 | -10.83% | 139.35 | 143.15 | 93.75 | 221.85 |
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 136.45 | -16.40 | -10.73% | 163.32 | 168.93 | 108.20 | 262.95 |
-| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 946.00 | +1020.00 | +1030.00% | 981.00 | 989.00 | 1,001.00 | 977.00 |
-| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 139.07 | +150.42 | +150.00% | 136.86 | 137.99 | 142.04 | 141.24 |
-| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 696.00 | +812.00 | +874.00% | 841.00 | 868.00 | 860.00 | 789.00 |
-| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 102.36 | +120.15 | +128.09% | 118.11 | 121.94 | 122.80 | 114.32 |
-| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 1,139.00 | +1219.00 | +1206.00% | 1,152.00 | 1,145.00 | 1,170.00 | 1,160.00 |
-| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 168.36 | +180.56 | +176.31% | 161.44 | 160.34 | 166.70 | 168.55 |
+| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 848.00 | -77.00 | -8.30% | 989.00 | 977.00 | 587.00 | 1,595.00 |
+| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 117.52 | -11.41 | -8.80% | 137.99 | 141.24 | 84.25 | 232.75 |
+| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 761.00 | -63.00 | -7.60% | 868.00 | 789.00 | 454.00 | 1,266.00 |
+| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 106.20 | -9.47 | -8.20% | 121.94 | 114.32 | 64.78 | 186.03 |
+| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 987.00 | -80.00 | -7.50% | 1,145.00 | 1,160.00 | 843.00 | 1,843.00 |
+| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 137.44 | -11.90 | -8.00% | 160.34 | 168.55 | 122.83 | 269.61 |
 
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |

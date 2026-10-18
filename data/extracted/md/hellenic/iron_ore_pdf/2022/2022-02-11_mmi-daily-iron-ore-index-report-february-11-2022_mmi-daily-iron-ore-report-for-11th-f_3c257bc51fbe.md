@@ -62,14 +62,14 @@ _No desk commentary reported for this session._
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 1,145.00 | +75.00 | +7.00% | 1,145.00 | 1,068.00 | 730.00 | 1,868.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 150.68 | +0.00 | +0.00% | 147.80 | 147.80 | 101.31 | 262.13 |
-| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 893.00 | +694.00 | +770.00% | 886.00 | 1,004.00 | 910.00 | 910.00 |
-| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 135.31 | +100.58 | +112.01% | 129.82 | 147.60 | 133.52 | 133.52 |
-| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 646.00 | +500.00 | +560.00% | 646.00 | 732.00 | 664.00 | 664.00 |
-| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 93.31 | +72.07 | +81.21% | 94.58 | 107.53 | 97.28 | 97.28 |
-| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 1,043.00 | +888.00 | +962.00% | 1,079.00 | 1,198.00 | 1,104.00 | 1,104.00 |
-| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 214.06 | +129.88 | +141.30% | 159.15 | 176.90 | 162.85 | 162.85 |
-| **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 126.13 | +99.03 | +115.86% | 137.28 | 147.56 | 140.67 | 140.67 |
-| **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 146.52 | +114.32 | +127.26% | 154.88 | 176.36 | 161.97 | 161.97 |
+| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 1,010.00 | +7.00 | +0.70% | 1,004.00 | 910.00 | 587.00 | 1,680.00 |
+| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 148.17 | +0.71 | +0.50% | 147.60 | 133.52 | 84.25 | 247.30 |
+| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 746.00 | +16.00 | +2.20% | 732.00 | 664.00 | 454.00 | 1,421.00 |
+| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 109.52 | +2.18 | +2.00% | 107.53 | 97.28 | 64.78 | 210.83 |
+| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 1,204.00 | +7.00 | +0.60% | 1,198.00 | 1,104.00 | 843.00 | 1,894.00 |
+| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 177.44 | +0.63 | +0.40% | 176.90 | 162.85 | 122.83 | 278.61 |
+| **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 152.60 | +0.00 | +0.00% | 147.56 | 140.67 | 93.75 | 230.50 |
+| **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 182.75 | +0.00 | +0.00% | 176.36 | 161.97 | 108.20 | 262.95 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
@@ -238,25 +238,8 @@ _No desk commentary reported for this session._
 | **Hot-rolled coil cost - Blast furnace** | 4,535.00 | RMB/tonne | -81.00 | based on actual weight, incl. tax |
 | **Hot-rolled coil profit - Blast furnace** | 565.00 | RMB/tonne | +251.00 | based on Shanghai prices, incl. tax |
 
-## Chinese Steel Consumption & Production Monthly Matrix (Rebar & HRC 2022-Present)
-| Metric | Product | Year | M01 | M02 | M03 | M04 | M05 | M06 | M07 | M08 | M09 | M10 | M11 | M12 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Consumption** | **Rebar** | 2019 | 2,700.00 | 2,500.00 | 1,100.00 | 4,100.00 | 4,200.00 | 3,800.00 | 3,500.00 | 3,200.00 | 3,000.00 | 2,500.00 | 3,000.00 | 2,800.00 |
-| **Consumption** | **Rebar** | 2020 | 2,600.00 | -700.00 | -500.00 | 4,300.00 | 4,400.00 | 4,000.00 | 3,500.00 | 3,300.00 | 3,200.00 | 4,000.00 | 3,500.00 | 3,800.00 |
-| **Consumption** | **Rebar** | 2021 | 4,000.00 | 800.00 | 4,000.00 | 4,200.00 | 4,300.00 | 3,900.00 | 3,600.00 | 3,400.00 | 3,300.00 | 2,600.00 | 3,200.00 | 2,900.00 |
-| **Consumption** | **Rebar** | 2022 | 2,600.00 | 1,000.00 | 3,000.00 | 3,500.00 | 3,800.00 | 3,600.00 | 3,700.00 | 3,500.00 | 3,600.00 | 3,800.00 | 3,700.00 | 3,700.00 |
-| **Consumption** | **Hot-rolled Coil** | 2019 | 3,100.00 | 3,300.00 | 3,000.00 | 3,500.00 | 3,400.00 | 3,100.00 | 3,200.00 | 3,400.00 | 3,500.00 | 2,900.00 | 3,200.00 | 3,200.00 |
-| **Consumption** | **Hot-rolled Coil** | 2020 | 3,100.00 | 2,700.00 | 3,000.00 | 3,200.00 | 3,000.00 | 2,800.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,100.00 | 3,300.00 | 3,400.00 |
-| **Consumption** | **Hot-rolled Coil** | 2021 | 3,200.00 | 3,000.00 | 3,100.00 | 3,400.00 | 3,500.00 | 3,200.00 | 3,300.00 | 3,400.00 | 3,500.00 | 2,900.00 | 3,000.00 | 2,900.00 |
-| **Consumption** | **Hot-rolled Coil** | 2022 | 3,200.00 | 2,700.00 | 3,200.00 | 3,400.00 | 3,500.00 | 3,300.00 | 3,200.00 | 3,400.00 | 3,500.00 | 3,300.00 | 3,400.00 | 3,200.00 |
-| **Production** | **Rebar** | 2019 | 3,300.00 | 2,900.00 | 2,900.00 | 3,600.00 | 3,700.00 | 3,700.00 | 3,700.00 | 3,600.00 | 3,400.00 | 3,200.00 | 3,500.00 | 3,500.00 |
-| **Production** | **Rebar** | 2020 | 3,500.00 | 2,400.00 | 2,400.00 | 3,700.00 | 3,900.00 | 3,900.00 | 3,900.00 | 3,700.00 | 3,600.00 | 3,600.00 | 3,700.00 | 3,700.00 |
-| **Production** | **Rebar** | 2021 | 3,400.00 | 3,000.00 | 3,100.00 | 3,700.00 | 3,800.00 | 3,800.00 | 3,600.00 | 3,400.00 | 3,200.00 | 2,500.00 | 2,700.00 | 2,700.00 |
-| **Production** | **Rebar** | 2022 | 2,800.00 | 2,400.00 | 2,600.00 | 3,600.00 | 3,600.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 |
-| **Production** | **Hot-rolled Coil** | 2019 | 3,200.00 | 3,200.00 | 3,100.00 | 3,300.00 | 3,300.00 | 3,400.00 | 3,300.00 | 3,400.00 | 3,400.00 | 3,100.00 | 3,200.00 | 3,300.00 |
-| **Production** | **Hot-rolled Coil** | 2020 | 3,400.00 | 3,200.00 | 3,000.00 | 2,900.00 | 2,800.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,400.00 | 3,300.00 | 3,400.00 |
-| **Production** | **Hot-rolled Coil** | 2021 | 3,300.00 | 3,400.00 | 3,100.00 | 3,300.00 | 3,400.00 | 3,400.00 | 3,200.00 | 3,300.00 | 3,000.00 | 2,800.00 | 2,900.00 | 2,700.00 |
-| **Production** | **Hot-rolled Coil** | 2022 | 3,100.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,000.00 | 3,100.00 | 3,300.00 | 3,400.00 | 3,200.00 | 3,000.00 | 2,900.00 |
+## Chinese Steel Consumption & Production
+> **Chart (not transcribed).** The report prints no values for these charts.
 
 ---
 
@@ -279,34 +262,34 @@ _No desk commentary reported for this session._
 ## Average Iron Ore Specifications Applied for Brand Price Assessments
 | Brand Name | Market Segment | Fe Content % | Alumina (Al2O3) % | Silica (SiO2) % | Phosphorus (P) % | Moisture Content % |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roy Hill** | Port Stock | 60.88% | 2.35% | 4.45% | 0.06% | 9.26% |
-| **Roy Hill** | Seaborne | 60.70% | 2.30% | 4.90% | 0.06% | 8.00% |
+| **Roy Hill** | Port Stock | 60.88% | 2.35% | 4.45% | 0.055% | 9.26% |
+| **Roy Hill** | Seaborne | 60.70% | 2.30% | 4.90% | 0.055% | 8.00% |
 | **SIMEC Fines** | Port Stock | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
 | **SIMEC Fines** | Seaborne | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
-| **PB Fines** | Port Stock | 61.64% | 2.31% | 3.87% | 0.10% | 9.45% |
+| **PB Fines** | Port Stock | 61.64% | 2.31% | 3.87% | 0.099% | 9.45% |
 | **PB Fines** | Seaborne | 62.00% | 2.60% | 4.30% | 0.09% | 9.50% |
 | **Newman Fines** | Port Stock | 62.49% | 2.31% | 3.98% | 0.09% | 7.72% |
 | **Newman Fines** | Seaborne | 62.30% | 2.40% | 4.40% | 0.09% | 8.00% |
-| **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.08% | 7.57% |
+| **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.078% | 7.57% |
 | **MAC Fines** | Seaborne | 60.80% | 2.35% | 4.70% | 0.08% | 7.80% |
-| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.11% | 7.32% |
+| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
 | **Jimblebar Blended Fines** | Seaborne | 60.50% | 3.00% | 4.50% | 0.12% | 8.00% |
 | **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
 | **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
 | **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
 | **Brazilian SSF** | Seaborne | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
-| **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.09% | 8.72% |
+| **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |
 | **Brazilian Blend Fines** | Seaborne | 63.00% | 1.50% | 5.00% | 0.07% | 7.00% |
-| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.14% | 7.50% |
-| **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.14% | 7.50% |
-| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.07% | 8.50% |
-| **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.07% | 8.50% |
-| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.07% | 9.18% |
-| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.06% | 8.29% |
-| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.04% | 8.44% |
-| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.06% | 7.45% |
+| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.065% | 9.18% |
+| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.057% | 8.29% |
+| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.042% | 8.44% |
+| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.062% | 7.45% |
 | **Atlas Fines** | Port Stock | 58.00% | 1.85% | 5.50% | 0.09% | 9.00% |
-| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.04% | 9.53% |
+| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.042% | 9.53% |
 
 ## Bloomberg Terminal Tickers
 | Index Identifier | Market Segment | Delivery Terms | Bloomberg Ticker |

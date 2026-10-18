@@ -194,3 +194,67 @@ def signed(change, pct=None):
     if change.startswith("-") or (pct is not None and pct.startswith("-")):
         return change
     return "+" + change
+
+
+# ----------------------------------------------------------------------------------------- benchmarks
+
+BENCH_LABELS = ("IOPI62", "IOPI61", "IOPI58", "IOPI65", "IOPLI62", "IOSI62", "IOSI61", "IOSI65")
+
+
+def st_box(page, stamp):
+    """The drawn box a HOLIDAY stamp is printed in (the smallest table-sized drawing around it)."""
+    mid = pymupdf.Point((stamp["rect"].x0 + stamp["rect"].x1) / 2, (stamp["rect"].y0 + stamp["rect"].y1) / 2)
+    boxes = [d["rect"] for d in page.get_drawings() if d["rect"].contains(mid) and d["rect"].width < 300]
+    return min(boxes, key=lambda r: r.width * r.height) if boxes else stamp["rect"]
+
+
+def read_benchmarks(doc):
+    """{printed label: [price, change, change %, MTD, YTD, low, high] (+ the same 7 for the CFR Qingdao
+    equivalent on IOPI / IOPLI rows)} from the daily price tables, or None.
+
+    The index labels are printed twice per table family: in the daily price table (header row
+    "Price | Change | Change % ...") and in the monthly averages table ("March | April ..."). A row is
+    taken from the table whose own header row (the "Index" cell above it, same column) prints "Price".
+    On a Chinese holiday a "HOLIDAY" box is drawn over one side of a table; the text layer still holds
+    numbers underneath it, but the page does not show them, so the cells under the box are None."""
+    page = _find_page(doc, "IOSI", "Fe Content")
+    if page is None:
+        return None
+    spans = _spans(page)
+    heads = [s for s in spans if s["text"] == "Index"]
+    stamps = [s for s in spans if s["text"] == "HOLIDAY"]
+    rows = []                                    # (label span, its table's "Index" header span, header row)
+    for lab in (s for s in spans if s["text"] in BENCH_LABELS):
+        above = [h for h in heads if h["rect"].y1 <= lab["rect"].y0 + 1 and abs(h["rect"].x0 - lab["rect"].x0) < 12]
+        if not above:
+            continue
+        head = max(above, key=lambda h: h["rect"].y0)
+        hrow = _row(spans, head["rect"])
+        if "Price" in [s["text"] for s in hrow]:
+            rows.append((lab, head, hrow))
+    out = {}
+    for lab, head, hrow in rows:
+        row = [s for s in _row(spans, lab["rect"]) if s["text"] != "HOLIDAY"]
+        if not row or NUM.match(row[0]["text"]):
+            return None                      # the Fe content cell is missing: layout not understood
+        # the commentary column (or another table) can continue the line on the right: the row is the
+        # unbroken run of numbers after the Fe content cell
+        cells = []
+        for c in row[1:]:
+            if not NUM.match(c["text"]):
+                break
+            cells.append(c)
+        want = 7 if lab["text"].startswith("IOSI") else 14
+        if len(cells) != want or lab["text"] in out:
+            return None
+        # a HOLIDAY stamp inside this table (between its header and its last row) is drawn as a box over
+        # some of the columns; a cell whose number sits inside that box is not shown on the page
+        last = max(r[0]["rect"].y1 for r in rows if r[1] is head)
+        right = max(s["rect"].x1 for s in hrow)  # a stamp right of the header row is the commentary box
+        covered = [st_box(page, st) for st in stamps
+                   if head["rect"].y1 < (st["rect"].y0 + st["rect"].y1) / 2 < last + 6
+                   and lab["rect"].x1 < st["rect"].x0 < right]
+        vals = [None if any(b.x0 < (c["rect"].x0 + c["rect"].x1) / 2 < b.x1 for b in covered) else c["text"]
+                for c in cells]
+        out[lab["text"]] = vals
+    return out or None

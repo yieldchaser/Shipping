@@ -31,7 +31,7 @@ import pymupdf
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 from scripts.extract.publishers.mmi_text_tables import (  # noqa: E402
-    read_dashboard, read_futures, read_port_inventories, signed)
+    read_benchmarks, read_dashboard, read_futures, read_port_inventories, signed)
 
 CORPUS_ROOTS = [ROOT] + ([ROOT.parents[2]] if ROOT.parent.name == "worktrees" else [])
 
@@ -40,8 +40,14 @@ def num(s):
     return float(str(s).replace(",", "").replace("%", "").replace("+", "").strip())
 
 
+def _dp(s):
+    """Printed decimals when the print carries 3 (118.715); 2 otherwise (the template style)."""
+    frac = str(s).replace("%", "").strip().partition(".")[2]
+    return 3 if len(frac) == 3 and frac.isdigit() else 2
+
+
 def f_num(s):
-    return f"{num(s):,.2f}"
+    return f"{num(s):,.{_dp(s)}f}"
 
 
 def f_chg(chg, pct):
@@ -49,7 +55,7 @@ def f_chg(chg, pct):
     if chg is None:                 # blank in the print
         return "not printed"
     s = signed(chg, pct)
-    v = f"{abs(num(chg)):,.2f}"
+    v = f"{abs(num(chg)):,.{_dp(chg)}f}"
     if num(chg) == 0:
         return v
     return ("-" if s.startswith("-") else "+" if s.startswith("+") else "") + v
@@ -59,7 +65,7 @@ def f_pct(pct):
     if pct is None:                 # printed as "######", or blank
         return "not printed"
     v = num(pct)
-    return f"{v:+.2f}%" if v else "0.00%"
+    return f"{v:+.{_dp(pct)}f}%" if v else "0.00%"
 
 
 def pdf_for(md):
@@ -178,6 +184,42 @@ def build_futures(fut):
     return head + "\n".join(rows) + "\n"
 
 
+BENCH_HEADING = "## MMi Detailed Iron Ore Benchmark Assessments"
+# MD row name -> (printed labels, offset of its 7 cells in the printed row: 0 FOT/seaborne, 7 CFR equivalent)
+BENCH_ROWS = {
+    "IOPI62_61": (("IOPI62", "IOPI61"), 0), "IOPI62_61_CFR_EQ": (("IOPI62", "IOPI61"), 7),
+    "IOPI58": (("IOPI58",), 0), "IOPI58_CFR_EQ": (("IOPI58",), 7),
+    "IOPI65": (("IOPI65",), 0), "IOPI65_CFR_EQ": (("IOPI65",), 7),
+    "IOPLI62": (("IOPLI62",), 0), "IOPLI62_CFR_EQ": (("IOPLI62",), 7),
+    "IOSI62_61": (("IOSI62", "IOSI61"), 0), "IOSI65": (("IOSI65",), 0),
+}
+
+
+def build_benchmarks(table, bench):
+    """The benchmark table with every row's 7 numbers replaced by the printed ones (template style:
+    price/averages '1,558.00', change '+1.00' (no thousands separator), change % '+0.10%'); name, market,
+    grade and unit cells are kept. None when a row cannot be matched to a printed row."""
+    lines = table.rstrip("\n").split("\n")
+    out = lines[:2]
+    for line in lines[2:]:
+        c = cells(line)
+        name = plain(c[0])
+        spec = BENCH_ROWS.get(name)
+        lab = next((x for x in (spec[0] if spec else ()) if x in bench), None)
+        if lab is None or len(c) != 11:
+            return None
+        v = bench[lab][spec[1]:spec[1] + 7]
+        if all(x is None for x in v):        # the whole side is under the print's HOLIDAY box
+            out.append("| " + " | ".join(c[:4] + ["HOLIDAY"] + ["-"] * 6) + " |")
+            continue
+        fmt = (f_num, lambda x: f"{num(x):+.{_dp(x)}f}", lambda x: f"{num(x):+.{_dp(x)}f}%") + (f_num,) * 4
+        new = c[:4] + ["-" if x is None else f(x) for f, x in zip(fmt, v)]   # '-': cell under the box
+        if v[0] is None:
+            new[4] = "HOLIDAY"
+        out.append("| " + " | ".join(new) + " |")
+    return "\n".join(out) + "\n"
+
+
 # --------------------------------------------------------------------------------------------- checks
 
 def old_values(table):
@@ -239,6 +281,23 @@ def patch(md, doc, checked=False):
         built["## Iron Ore Futures Contracts (DCE & SGX)"] = build_futures(fut)
     else:
         probs.append("futures not read")
+    bench = read_benchmarks(doc)
+    span = table_span(md, BENCH_HEADING)
+    if bench and span:
+        table = build_benchmarks(md[span[0]:span[1]], bench)
+        if table is None:
+            probs.append("benchmark rows not matched")
+        elif table != md[span[0]:span[1]]:
+            # the printed table is authoritative here: the old parse often took the monthly-averages
+            # row (March, April, ...) for the daily one, so a disagreement is the old MD's error
+            olds = old_values(md[span[0]:span[1]])
+            news = dict(old_values(table))
+            diff = [f"{o[0]}: {o[1][:1]} -> {news.get(o[0], [None])[:1]}" for o in olds if o[1] != news.get(o[0])]
+            probs.append("BENCHMARK REBUILT: " + "; ".join(diff[:3]) + (" ..." if len(diff) > 3 else ""))
+            md = md[:span[0]] + table + md[span[1]:]
+            done.append(BENCH_HEADING)
+    elif span:
+        probs.append("benchmarks not read")
     edits = []
     for heading, table in built.items():
         span = table_span(md, heading)
@@ -292,6 +351,8 @@ def main():
     stat = Counter()
     for n, rel in enumerate(paths[:limit], 1):
         path = ROOT / rel
+        if not path.exists():               # tracked but removed in the working tree (an archived twin)
+            continue
         raw = path.read_bytes().decode("utf-8")
         crlf = "\r\n" in raw
         md = raw.replace("\r\n", "\n")

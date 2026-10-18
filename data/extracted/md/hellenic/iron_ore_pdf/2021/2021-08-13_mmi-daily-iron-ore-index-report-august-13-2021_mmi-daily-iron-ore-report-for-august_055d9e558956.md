@@ -262,21 +262,8 @@ As of August 13, iron ore inventories across 35 ports tracked by SMM totaled 118
 | **Hot-rolled coil cost - Blast furnace** | 4,675.00 | RMB/tonne | -138.00 | based on actual weight, incl. tax |
 | **Hot-rolled coil profit - Blast furnace** | 1,125.00 | RMB/tonne | +138.00 | based on Shanghai prices, incl. tax |
 
-## Chinese Steel Consumption & Production Monthly Matrix (Rebar & HRC 2022-Present)
-| Metric | Product | Year | M01 | M02 | M03 | M04 | M05 | M06 | M07 | M08 | M09 | M10 | M11 | M12 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Consumption** | **Rebar** | 2018 | 3,000.00 | 2,800.00 | 2,900.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,200.00 | 3,300.00 | 3,400.00 | 3,400.00 | 3,400.00 |
-| **Consumption** | **Rebar** | 2019 | 3,500.00 | 2,400.00 | 2,500.00 | 3,800.00 | 3,900.00 | 3,900.00 | 3,800.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 |
-| **Consumption** | **Rebar** | 2020 | 3,500.00 | 3,100.00 | 3,200.00 | 3,500.00 | 3,700.00 | 3,700.00 | 3,600.00 | 3,200.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 |
-| **Consumption** | **Rebar** | 2021 | - | - | - | - | - | - | - | - | - | - | - | - |
-| **Consumption** | **Hot-rolled Coil** | 2018 | 3,000.00 | 2,800.00 | 2,900.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,200.00 | 3,300.00 | 3,400.00 | 3,400.00 | 3,400.00 |
-| **Consumption** | **Hot-rolled Coil** | 2019 | 3,500.00 | 2,400.00 | 2,500.00 | 3,800.00 | 3,900.00 | 3,900.00 | 3,800.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 |
-| **Consumption** | **Hot-rolled Coil** | 2020 | 3,500.00 | 3,100.00 | 3,200.00 | 3,500.00 | 3,700.00 | 3,700.00 | 3,600.00 | 3,200.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 |
-| **Consumption** | **Hot-rolled Coil** | 2021 | - | - | - | - | - | - | - | - | - | - | - | - |
-| **Production** | **Rebar** | 2018 | 3,100.00 | 3,000.00 | 2,800.00 | 3,000.00 | 3,100.00 | 3,000.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,300.00 | 3,300.00 |
-| **Production** | **Rebar** | 2019 | 3,000.00 | 2,800.00 | 2,900.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,200.00 | 3,300.00 | 3,400.00 | 3,400.00 | 3,400.00 |
-| **Production** | **Rebar** | 2020 | 3,500.00 | 2,400.00 | 2,500.00 | 3,800.00 | 3,900.00 | 3,900.00 | 3,800.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 |
-| **Production** | **Rebar** | 2021 | 3,500.00 | 3,100.00 | 3,200.00 | 3,500.00 | 3,700.00 | 3,700.00 | 3,600.00 | 3,200.00 | 3,500.00 | 3,500.00 | 3,500.00 | 3,500.00 |
+## Chinese Steel Consumption & Production
+> **Chart (not transcribed).** The report prints no values for these charts.
 
 ---
 
@@ -299,17 +286,17 @@ As of August 13, iron ore inventories across 35 ports tracked by SMM totaled 118
 ## Average Iron Ore Specifications Applied for Brand Price Assessments
 | Brand Name | Market Segment | Fe Content % | Alumina (Al2O3) % | Silica (SiO2) % | Phosphorus (P) % | Moisture Content % |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roy Hill** | Port Stock | 60.88% | 2.35% | 4.45% | 0.06% | 9.26% |
+| **Roy Hill** | Port Stock | 60.88% | 2.35% | 4.45% | 0.055% | 9.26% |
 | **SIMEC Fines** | Port Stock | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
-| **PB Fines** | Port Stock | 61.64% | 2.31% | 3.87% | 0.10% | 9.45% |
+| **PB Fines** | Port Stock | 61.64% | 2.31% | 3.87% | 0.099% | 9.45% |
 | **Newman Fines** | Port Stock | 62.49% | 2.31% | 3.98% | 0.09% | 7.72% |
-| **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.08% | 7.57% |
-| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.11% | 7.32% |
+| **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.078% | 7.57% |
+| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
 | **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
 | **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
-| **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.09% | 8.72% |
-| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.14% | 7.50% |
-| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.07% | 8.50% |
+| **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |
+| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
 
 ## Bloomberg Terminal Tickers
 | Index Identifier | Market Segment | Delivery Terms | Bloomberg Ticker |

@@ -64,12 +64,12 @@ DCE iron ore futures market falling trends by 3.33% the main contract closed 683
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 134.15 | +0.00 | +0.00% | 126.05 | 187.43 | 108.20 | 262.95 |
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 955.00 | +85.00 | +9.80% | 859.00 | 1,364.00 | 730.00 | 1,868.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 134.06 | +12.22 | +10.03% | 120.19 | 189.48 | 101.00 | 262.00 |
-| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 1,174.00 | +937.00 | +893.00% | 694.00 | 761.00 | 765.00 | 1,143.00 |
-| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 170.18 | +135.90 | +135.31% | 100.58 | 110.76 | 110.83 | 166.13 |
-| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 894.00 | +648.00 | +646.00% | 500.00 | 556.00 | 557.00 | 917.00 |
-| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 130.00 | +93.62 | +93.31% | 72.07 | 80.62 | 80.49 | 133.90 |
-| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 1,466.00 | +1152.00 | +1043.00% | 888.00 | 955.00 | 959.00 | 1,346.00 |
-| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 213.59 | +214.41 | +214.06% | 129.88 | 140.05 | 139.99 | 196.39 |
+| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 834.00 | -8.00 | -1.00% | 761.00 | 1,143.00 | 587.00 | 1,680.00 |
+| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 121.95 | -0.98 | -0.80% | 110.76 | 166.13 | 84.25 | 247.30 |
+| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 597.00 | -7.00 | -1.20% | 556.00 | 917.00 | 454.00 | 1,421.00 |
+| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 87.04 | -0.91 | -1.00% | 80.62 | 133.90 | 64.78 | 210.83 |
+| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 1,028.00 | -8.00 | -0.80% | 955.00 | 1,346.00 | 843.00 | 1,894.00 |
+| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 151.31 | -0.93 | -0.60% | 140.05 | 196.39 | 122.83 | 278.61 |
 
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
@@ -243,25 +243,8 @@ DCE iron ore futures market falling trends by 3.33% the main contract closed 683
 | **Hot-rolled coil cost - Blast furnace** | 4,696.00 | RMB/tonne | +126.00 | based on actual weight, incl. tax |
 | **Hot-rolled coil profit - Blast furnace** | 234.00 | RMB/tonne | -116.00 | based on Shanghai prices, incl. tax |
 
-## Chinese Steel Consumption & Production Monthly Matrix (Rebar & HRC 2022-Present)
-| Metric | Product | Year | M01 | M02 | M03 | M04 | M05 | M06 | M07 | M08 | M09 | M10 | M11 | M12 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Consumption** | **Rebar** | 2018 | 2,700.00 | 2,000.00 | 1,100.00 | 4,000.00 | 4,200.00 | 4,000.00 | 3,200.00 | 3,000.00 | 3,100.00 | 2,500.00 | 3,000.00 | 2,800.00 |
-| **Consumption** | **Rebar** | 2019 | 2,700.00 | 2,200.00 | 1,100.00 | 4,100.00 | 4,300.00 | 4,100.00 | 3,300.00 | 3,100.00 | 3,200.00 | 2,600.00 | 3,100.00 | 2,900.00 |
-| **Consumption** | **Rebar** | 2020 | 2,500.00 | -700.00 | -600.00 | 4,200.00 | 4,400.00 | 4,200.00 | 3,400.00 | 3,200.00 | 3,300.00 | 2,700.00 | 3,200.00 | 3,800.00 |
-| **Consumption** | **Rebar** | 2021 | 2,700.00 | 800.00 | 900.00 | 4,200.00 | 4,300.00 | 4,100.00 | 3,300.00 | 3,100.00 | 3,200.00 | 2,500.00 | 3,000.00 | 2,800.00 |
-| **Consumption** | **Hot-rolled Coil** | 2018 | 3,200.00 | 2,300.00 | 3,100.00 | 3,200.00 | 3,500.00 | 3,400.00 | 3,300.00 | 3,200.00 | 3,300.00 | 3,100.00 | 3,400.00 | 3,300.00 |
-| **Consumption** | **Hot-rolled Coil** | 2019 | 3,200.00 | 2,500.00 | 3,200.00 | 3,300.00 | 3,400.00 | 3,300.00 | 3,200.00 | 3,300.00 | 3,400.00 | 3,200.00 | 3,500.00 | 3,400.00 |
-| **Consumption** | **Hot-rolled Coil** | 2020 | 3,200.00 | 2,400.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,200.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,100.00 | 3,400.00 | 3,300.00 |
-| **Consumption** | **Hot-rolled Coil** | 2021 | 3,200.00 | 2,800.00 | 3,100.00 | 3,200.00 | 3,500.00 | 3,400.00 | 3,300.00 | 3,200.00 | 3,300.00 | 2,800.00 | 3,000.00 | 2,900.00 |
-| **Production** | **Rebar** | 2018 | 3,100.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,100.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,300.00 | 3,200.00 | 3,300.00 | 3,400.00 |
-| **Production** | **Rebar** | 2019 | 2,900.00 | 2,800.00 | 2,900.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,300.00 | 3,400.00 | 3,300.00 | 3,200.00 | 3,400.00 | 3,500.00 |
-| **Production** | **Rebar** | 2020 | 3,600.00 | 2,400.00 | 2,400.00 | 3,700.00 | 3,900.00 | 3,900.00 | 3,800.00 | 3,700.00 | 3,600.00 | 3,500.00 | 3,500.00 | 3,600.00 |
-| **Production** | **Rebar** | 2021 | 3,500.00 | 3,200.00 | 3,300.00 | 3,400.00 | 3,600.00 | 3,500.00 | 3,600.00 | 3,400.00 | 3,300.00 | 2,500.00 | 2,700.00 | 2,600.00 |
-| **Production** | **Hot-rolled Coil** | 2018 | 3,100.00 | 3,000.00 | 3,000.00 | 3,100.00 | 3,300.00 | 3,400.00 | 3,400.00 | 3,300.00 | 3,400.00 | 3,400.00 | 3,300.00 | 3,200.00 |
-| **Production** | **Hot-rolled Coil** | 2019 | 3,300.00 | 3,200.00 | 3,100.00 | 3,200.00 | 3,400.00 | 3,500.00 | 3,500.00 | 3,400.00 | 3,500.00 | 3,500.00 | 3,400.00 | 3,300.00 |
-| **Production** | **Hot-rolled Coil** | 2020 | 3,500.00 | 3,400.00 | 3,300.00 | 3,400.00 | 3,500.00 | 3,600.00 | 3,600.00 | 3,500.00 | 3,400.00 | 3,300.00 | 3,400.00 | 3,500.00 |
-| **Production** | **Hot-rolled Coil** | 2021 | 3,300.00 | 3,400.00 | 3,100.00 | 3,200.00 | 3,400.00 | 3,400.00 | 3,400.00 | 3,300.00 | 3,100.00 | 2,900.00 | 3,000.00 | 2,800.00 |
+## Chinese Steel Consumption & Production
+> **Chart (not transcribed).** The report prints no values for these charts.
 
 ---
 

@@ -66,12 +66,12 @@ Today, India's steel minister announced that India might impose a provisional ta
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 119.84 | -2.37 | -1.94% | 115.11 | 130.37 | 98.28 | 171.65 |
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 935.00 | +15.00 | +1.60% | 892.00 | 998.00 | 820.00 | 1,210.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 116.62 | +2.00 | +1.75% | 111.18 | 125.44 | 102.77 | 153.57 |
-| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 781.00 | +779.00 | +791.00% | 786.00 | 787.00 | 772.00 | 862.00 |
-| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 102.03 | +100.71 | +102.08% | 101.55 | 101.82 | 100.11 | 112.63 |
-| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 690.00 | +692.00 | +706.00% | 689.00 | 695.00 | 679.00 | 756.00 |
-| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 90.61 | +89.97 | +91.67% | 89.46 | 90.47 | 88.50 | 99.42 |
-| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 894.00 | +891.00 | +903.00% | 899.00 | 899.00 | 884.00 | 974.00 |
-| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 117.10 | +115.71 | +117.03% | 116.56 | 116.83 | 115.17 | 127.69 |
+| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 823.00 | -3.00 | -0.40% | 787.00 | 862.00 | 683.00 | 1,063.00 |
+| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 106.63 | -0.42 | -0.40% | 101.82 | 112.63 | 89.33 | 140.24 |
+| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 709.00 | -4.00 | -0.60% | 695.00 | 756.00 | 610.00 | 963.00 |
+| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 92.34 | -0.55 | -0.60% | 90.47 | 99.42 | 80.25 | 128.13 |
+| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 935.00 | -3.00 | -0.30% | 899.00 | 974.00 | 794.00 | 1,175.00 |
+| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 121.65 | -0.42 | -0.30% | 116.83 | 127.69 | 104.47 | 155.37 |
 
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
@@ -320,25 +320,8 @@ Today, India's steel minister announced that India might impose a provisional ta
 | **Hot-rolled coil cost - Blast furnace** | 3,293.00 | RMB/tonne | +24.00 | based on actual weight, incl. tax |
 | **Hot-rolled coil profit - Blast furnace** | 147.00 | RMB/tonne | -24.00 | based on Shanghai prices, incl. tax |
 
-## Chinese Steel Consumption & Production Monthly Matrix (Rebar & HRC 2022–2026)
-| Metric | Product | Year | M01 | M02 | M03 | M04 | M05 | M06 | M07 | M08 | M09 | M10 | M11 | M12 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Consumption** | **Rebar** | 2022 | 2,500.00 | 1,000.00 | 3,200.00 | 3,000.00 | 3,000.00 | 2,800.00 | 2,700.00 | 2,600.00 | 2,700.00 | 3,200.00 | 2,500.00 | 2,200.00 |
-| **Consumption** | **Rebar** | 2023 | 2,000.00 | 500.00 | 3,200.00 | 3,000.00 | 2,800.00 | 2,700.00 | 2,600.00 | 2,500.00 | 2,600.00 | 3,000.00 | 2,400.00 | 2,100.00 |
-| **Consumption** | **Rebar** | 2024 | 1,500.00 | -500.00 | 2,500.00 | 2,800.00 | 2,700.00 | 2,600.00 | 2,500.00 | 2,400.00 | 2,500.00 | 2,800.00 | 2,300.00 | 2,000.00 |
-| **Consumption** | **Rebar** | 2025 | 1,700.00 | 500.00 | 3,000.00 | 2,800.00 | 2,700.00 | 2,600.00 | 2,500.00 | 2,400.00 | 2,500.00 | 3,000.00 | 2,200.00 | 2,000.00 |
-| **Consumption** | **Hot-rolled Coil** | 2022 | 2,900.00 | 2,600.00 | 3,200.00 | 3,100.00 | 3,000.00 | 2,900.00 | 2,800.00 | 2,700.00 | 2,800.00 | 2,700.00 | 3,100.00 | 3,000.00 |
-| **Consumption** | **Hot-rolled Coil** | 2023 | 2,700.00 | 2,500.00 | 3,100.00 | 3,000.00 | 2,900.00 | 2,800.00 | 2,700.00 | 2,600.00 | 2,700.00 | 2,600.00 | 3,000.00 | 2,900.00 |
-| **Consumption** | **Hot-rolled Coil** | 2024 | 3,100.00 | 2,800.00 | 3,200.00 | 3,100.00 | 3,000.00 | 2,900.00 | 2,800.00 | 2,700.00 | 2,800.00 | 2,700.00 | 3,100.00 | 3,000.00 |
-| **Consumption** | **Hot-rolled Coil** | 2025 | 3,000.00 | 2,700.00 | 3,100.00 | 3,000.00 | 2,900.00 | 2,800.00 | 2,700.00 | 2,600.00 | 2,700.00 | 2,600.00 | 3,200.00 | 3,100.00 |
-| **Production** | **Rebar** | 2022 | 2,800.00 | 2,500.00 | 3,000.00 | 2,900.00 | 2,800.00 | 2,700.00 | 2,600.00 | 2,400.00 | 2,500.00 | 2,600.00 | 2,700.00 | 2,700.00 |
-| **Production** | **Rebar** | 2023 | 2,400.00 | 2,300.00 | 3,000.00 | 2,800.00 | 2,700.00 | 2,600.00 | 2,500.00 | 2,400.00 | 2,500.00 | 2,600.00 | 2,600.00 | 2,600.00 |
-| **Production** | **Rebar** | 2024 | 2,100.00 | 2,000.00 | 2,200.00 | 2,100.00 | 2,000.00 | 2,100.00 | 2,000.00 | 1,600.00 | 1,700.00 | 2,000.00 | 2,400.00 | 2,200.00 |
-| **Production** | **Rebar** | 2025 | 1,800.00 | 1,700.00 | 2,000.00 | 2,100.00 | 2,000.00 | 2,200.00 | 2,300.00 | 2,400.00 | 2,500.00 | 2,600.00 | 2,500.00 | 2,200.00 |
-| **Production** | **Hot-rolled Coil** | 2022 | 3,000.00 | 3,200.00 | 2,900.00 | 3,200.00 | 3,200.00 | 3,100.00 | 3,300.00 | 3,000.00 | 2,900.00 | 2,800.00 | 3,000.00 | 3,000.00 |
-| **Production** | **Hot-rolled Coil** | 2023 | 3,000.00 | 3,100.00 | 3,000.00 | 3,100.00 | 3,100.00 | 3,000.00 | 3,200.00 | 2,900.00 | 2,800.00 | 2,700.00 | 3,100.00 | 3,000.00 |
-| **Production** | **Hot-rolled Coil** | 2024 | 3,100.00 | 3,200.00 | 3,100.00 | 3,300.00 | 3,300.00 | 3,200.00 | 3,400.00 | 3,000.00 | 2,900.00 | 2,800.00 | 3,100.00 | 3,000.00 |
-| **Production** | **Hot-rolled Coil** | 2025 | 3,000.00 | 3,200.00 | 3,000.00 | 3,100.00 | 3,200.00 | 3,100.00 | 3,000.00 | 3,000.00 | 2,900.00 | 3,000.00 | 3,200.00 | 3,100.00 |
+## Chinese Steel Consumption & Production
+> **Chart (not transcribed).** The report prints no values for these charts.
 
 ---
 
@@ -361,17 +344,17 @@ Today, India's steel minister announced that India might impose a provisional ta
 ## Average Iron Ore Specifications Applied for Brand Price Assessments
 | Brand Name | Market Segment | Fe Content % | Alumina (Al2O3) % | Silica (SiO2) % | Phosphorus (P) % | Moisture Content % |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roy Hill** | Port Stock | 60.88% | 2.35% | 4.45% | 0.06% | 9.26% |
-| **Roy Hill** | Seaborne | 60.70% | 2.30% | 4.90% | 0.06% | 8.00% |
+| **Roy Hill** | Port Stock | 60.88% | 2.35% | 4.45% | 0.055% | 9.26% |
+| **Roy Hill** | Seaborne | 60.70% | 2.30% | 4.90% | 0.055% | 8.00% |
 | **SIMEC Fines** | Port Stock | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
 | **SIMEC Fines** | Seaborne | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
-| **PB Fines** | Port Stock | 61.64% | 2.31% | 3.87% | 0.10% | 9.45% |
+| **PB Fines** | Port Stock | 61.64% | 2.31% | 3.87% | 0.099% | 9.45% |
 | **PB Fines** | Seaborne | 62.00% | 2.60% | 4.30% | 0.09% | 9.50% |
 | **Newman Fines** | Port Stock | 62.49% | 2.31% | 3.98% | 0.09% | 7.72% |
 | **Newman Fines** | Seaborne | 62.30% | 2.40% | 4.40% | 0.09% | 8.00% |
-| **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.08% | 7.57% |
+| **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.078% | 7.57% |
 | **MAC Fines** | Seaborne | 60.80% | 2.35% | 4.70% | 0.08% | 7.80% |
-| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.11% | 7.32% |
+| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
 | **Jimblebar Blended Fines** | Seaborne | 60.50% | 3.00% | 4.50% | 0.12% | 8.00% |
 | **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
 | **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
