@@ -17,6 +17,8 @@ pages: 6
 
 <!-- Page 1 -->
 
+> **Source note.** This issue's PDF is a text-only reflow of the report (no page layout). Values the original page covered with a HOLIDAY box (Lunar New Year) are reported as HOLIDAY; the numbers under them (the previous session's) are not transcribed.
+
 # MMi Dashboard
 
 ## Executive Summary & Core Daily Indicators
@@ -24,29 +26,29 @@ pages: 6
 ### Iron Ore Benchmark Price Indices
 | Benchmark Index | Fe Grade | Market / Delivery Point | Unit | Price | Change | Change % | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IOPI62** | 62% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | - | - | - | 2022-01-31 |
-| **IOPI65** | 65% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | - | - | - | 2022-01-31 |
-| **IOPI58** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | - | - | - | 2022-01-31 |
-| **IOSI62** | 62% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | - | - | - | 2022-01-31 |
-| **IOSI65** | 65% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | - | - | - | 2022-01-31 |
-| **IOPLI62** | 62.5% Fe Lump | Port Stock (FOT Qingdao) | RMB/wmt | - | - | - | 2022-01-31 |
+| **IOPI62** | 62% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | HOLIDAY | - | - | 2022-01-31 |
+| **IOPI65** | 65% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | HOLIDAY | - | - | 2022-01-31 |
+| **IOPI58** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | HOLIDAY | - | - | 2022-01-31 |
+| **IOSI62** | 62% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | 144.15 | 0.00 | 0.00% | 2022-01-31 |
+| **IOSI65** | 65% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | 172.45 | 0.00 | 0.00% | 2022-01-31 |
+| **IOPLI** | 62.5% Fe Lump | Port Stock (FOT Qingdao) | RMB/t | 1,070.00 | 0.00 | 0.00% | Week ending 2022-01-28 |
 
 ### Exchange Traded Futures & Derivatives
 | Contract | Exchange | Unit | Settlement / Close | Change | Change % | Session |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Iron Ore Front Month** | DCE | RMB/wmt | - | - | - | 3:00 pm Close |
-| **Iron Ore Front Month** | SGX | USD/dmt | - | - | - | 5:30 pm Print |
-| **Steel Rebar** | SHFE | RMB/t | - | - | - | 3:00 pm Close |
+| **DCE Iron Ore 62% Fines, I2201 (Jan)** | DCE | RMB/t | HOLIDAY | - | - | 3pm close, 2022-01-31 |
+| **SGX Iron Ore (CFR Qingdao) 62% Fe Fines, December 21** | SGX | USD/dmt | 137.75 | -9.35 | -6.36% | 5.30 pm Print, 2022-01-31 |
+| **SHFE Rebar, RB2205 (Jan)** | SHFE | RMB/t | HOLIDAY | - | - | 3pm close, 2022-01-31 |
 
 ### Dry Bulk Freight Rates, Spot Steel & Inventories
-| Indicator | Category / Route | Value | Change | Change % | Basis / Date |
+| Indicator | Category / Route | Value | Change | Change % | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C3 Freight** | Tubarao - Qingdao | 144.15 USD/t | - | - | Capesize Spot |
-| **C5 Freight** | W. Australia - Qingdao | 172.45 USD/t | - | - | Capesize Spot |
-| **Steel Rebar** | China Domestic Spot | - | - | - | Shanghai Spot |
-| **Steel HRC** | China Domestic Spot | 482.00 RMB/t | +4940.00 | - | Shanghai Spot |
-| **Port Iron Ore Inventory** | 35 Chinese Ports | 829.00 Mt | +149.02 | - | Weekly Survey |
-| **Total Steel Inventory** | China Commercial / Mills | 137.75 Mt | - | - | Weekly Survey |
+| **C3 Freight** | Tubarao - Qingdao | HOLIDAY | - | - | 2022-01-28 |
+| **C5 Freight** | W. Australia - Qingdao | HOLIDAY | - | - | 2022-01-28 |
+| **Steel Rebar** | China Domestic | 4,730.00 RMB/t | 0.00 | 0.00% | Week ending 2022-01-28 |
+| **Steel HRC** | China Domestic | 4,940.00 RMB/t | -10.00 | -0.20% | Week ending 2022-01-28 |
+| **Port Iron Ore Inventory** | 35 Chinese Ports | 149.02 Mt | -1.06 | -0.71% | Week ending 2022-01-28 |
+| **Steel Inventory** | China | 12.11 Mt | +1.60 | +15.20% | Week ending 2022-01-28 |
 
 ---
 
@@ -55,15 +57,57 @@ pages: 6
 # Benchmark Price Indices & Domestic Concentrates
 
 ## Desk Commentary
-_No desk commentary reported for this session._
+DCE iron ore futures strong pull up again by 7.59% throughout the day. the main contract closed 829. With the continuous strengthening of the disk, traders speculation operation increased, the port spot transaction atmosphere has improved. PBF at Shandong port dealt 910-945 yuan/mt, increased 10-45 yuan/mt over yesterday; SSF at Shandong port dealt 600 yuan/mt, increased 25 yuan/mt over yesterday; PBF at Tangshan port dealt 920-940 yuan/mt, increased 20-40 yuan/mt over yesterday; As of Jan. 28, stocks at 35 ports tracked by SMM totaled 149.02 million tons, down 1.07 million tons month-on-week, but less than last week. Mainly from the recent import of ore to the port cargo volume decreased obviously caused by. In addition, the average daily port clearance volume of imported ore decreased by 88,000 tons to 3.087 million tons. During the Spring Festival holiday next week, the average daily port clearance volume is expected to continue to decline. Although overseas mine shipments have decreased recently, port operation efficiency is expected to decline significantly during the Spring Festival holiday, and the decline in port inventory is expected to slow down.
 
 ## MMi Detailed Iron Ore Benchmark Assessments
-_No benchmark index assessments reported for this session._
+| Index Name | Delivery Point / Market | Grade Profile | Currency / Unit | Assessment | Change | Change % | MTD Avg | YTD Avg | 52w Low | 52w High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 144.15 | +0.00 | +0.00% | 138.27 | 138.27 | 93.75 | 230.50 |
+| **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 172.45 | +0.00 | +0.00% | 156.93 | 156.93 | 108.20 | 262.95 |
+| **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 1,070.00 | +0.00 | +0.00% | 1,049.00 | 1,049.00 | 730.00 | 1,868.00 |
+| **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 150.68 | -0.48 | -0.32% | 147.80 | 147.80 | 101.31 | 262.13 |
+| **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | HOLIDAY | - | - | - | - | - | - |
+| **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | HOLIDAY | - | - | - | - | - | - |
+| **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | HOLIDAY | - | - | - | - | - | - |
+| **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | HOLIDAY | - | - | - | - | - | - |
+| **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | HOLIDAY | - | - | - | - | - | - |
+| **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | HOLIDAY | - | - | - | - | - | - |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Hebei | **** |  | Hanxing | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 1,039.00 | +0.00% | 779.00 | 1,645.00 | 163.78 | +0.19% | 110.31 | 1,039.00 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,085.00 | -0.90% | 780.00 | 1,630.00 | 171.03 | -0.73% | 110.51 | 1,085.00 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 890.00 | +3.50% | 620.00 | 1,310.00 | 140.29 | +3.68% | 87.40 | 890.00 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,090.00 | +3.30% | 800.00 | 1,752.00 | 171.81 | +3.51% | 122.55 | 1,090.00 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 1,002.81 | +1.82% | 706.36 | 1,511.22 | - | - | - | - |
+
+## Freight Rates - Dry Bulk (US$/wet tonne, 2022-01-28)
+| Route | Designation | Rate | Change | Change % | 12m Low | 12m High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| W. Australia - Qingdao | C5 | 6.47 | 0.00 | 0.00% | 3.57 | 16.77 |
+| Tubarao - Qingdao | C3 | 17.91 | 0.00 | 0.00% | 6.70 | 36.40 |
+
+## Iron Ore Index Premiums / Discounts (Spreads)
+| Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | HOLIDAY | - |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +28.30 | +19.63% |
+| **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | HOLIDAY | - |
+
+## Multi-Period Monthly, Quarterly & YTD Averages
+| Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 999.00 | 800.00 | 877.00 | 1,049.00 | **1,049.00** | 908.00 | 1,049.00 |
+| **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 254.64 | 196.49 | 147.90 | 147.80 | **147.80** | 126.58 | 147.80 |
+| **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 893.00 | 694.00 | 770.00 | 886.00 | HOLIDAY | - | - |
+| **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 135.31 | 100.58 | 112.01 | 129.82 | HOLIDAY | - | - |
+| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 646.00 | 500.00 | 560.00 | 646.00 | HOLIDAY | - | - |
+| **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 93.31 | 72.07 | 81.21 | 94.58 | HOLIDAY | - | - |
+| **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 1,043.00 | 888.00 | 962.00 | 1,079.00 | HOLIDAY | - | - |
+| **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 214.06 | 129.88 | 141.30 | 159.15 | HOLIDAY | - | - |
+| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 126.13 | 99.03 | 115.86 | 137.28 | **138.27** | 138.27 | 138.27 |
+| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 146.52 | 114.32 | 127.26 | 154.88 | **156.93** | 156.93 | 156.93 |
 
 ---
 
@@ -72,13 +116,41 @@ _No benchmark index assessments reported for this session._
 # Iron Ore Brand Spot Price Assessments & Port Differentials
 
 ## 62% Fe Benchmark Brand Assessments
-_No 62% Fe brand assessments reported for this session._
+| Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Roy Hill** | HOLIDAY | - | - | **Roy Hill** | 139.65 | 0.00 | -4.50 |
+| **SIMEC Fines** | HOLIDAY | - | - | **SIMEC Fines** | 136.15 | 0.00 | -8.00 |
+| **PB Fines** | HOLIDAY | - | - | **PB Fines** | 142.90 | 0.00 | -1.25 |
+| **Newman Fines** | HOLIDAY | - | - | **Newman Fines** | 144.05 | 0.00 | -0.10 |
+| **MAC Fines** | HOLIDAY | - | - | **MAC Fines** | 140.05 | 0.00 | -4.10 |
+| **Jimblebar Blended Fines** | HOLIDAY | - | - | **Jimblebar Blended Fines** | 133.45 | 0.00 | -10.70 |
+| **Carajas Fines** | HOLIDAY | - | - | **Carajas Fines** | 173.70 | 0.00 | +29.55 |
+| **Brazilian SSF** | HOLIDAY | - | - | **Brazilian SSF** | 147.90 | 0.00 | +3.75 |
+| **Brazilian Blend Fines** | HOLIDAY | - | - | **Brazilian Blend Fines** | 149.55 | 0.00 | +5.40 |
+| **RTX Fines** | HOLIDAY | - | - | **RTX Fines** | 134.05 | 0.00 | -10.10 |
+| **West Pilbara Fines** | HOLIDAY | - | - | **West Pilbara Fines** | 138.40 | 0.00 | -5.75 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
-_No 58% Fe brand assessments reported for this session._
+| Brand | Fe Grade | Market / Delivery Point | Unit | Price | Change | Diff to IOPI58 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **SSF** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | HOLIDAY | - | - |
+| **FMG Blended Fines** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | HOLIDAY | - | - |
+| **Robe River** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | HOLIDAY | - | - |
+| **Western Fines** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | HOLIDAY | - | - |
+| **Atlas Fines** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | HOLIDAY | - | - |
+| **Yandi** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | HOLIDAY | - | - |
 
 ## PB Fines Port Stock Price Differentials to Qingdao Port
-_No port differentials reported for this session._
+| Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Bayuquan** | -100.00 | +0.00 | **Lanshan** | 0.00 | +0.00 |
+| **Beilun** | 0.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
+| **Caofeidian** | 0.00 | +0.00 | **Majishan** | 0.00 | +0.00 |
+| **Dalian** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
+| **Fangcheng** | -25.00 | +0.00 | **Rizhao** | 0.00 | +0.00 |
+| **Jiangyin** | -60.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
+| **Jingtang** | 0.00 | +0.00 | **Taicang** | -95.00 | +0.00 |
+| **Lanqiao** | 0.00 | +0.00 | **Tianjin** | -40.00 | +0.00 |
 
 ---
 
@@ -99,12 +171,12 @@ _No port differentials reported for this session._
 ## Iron Ore Futures Contracts (DCE & SGX)
 | Metric | DCE I2205 (RMB/WMT) | Change | Change % | SGX Nov. 21 (USD/DMT) | Change | Change % |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Closing Date | Jan 31st, 3pm close (holiday) | | | Jan 31st, 5:30pm | | |
-| Closing Price | 829.00 | +60.00 | +7.80% | 137.75 | -9.35 | -6.36% |
-| Vol traded ('000 lots) | 70.31 | +11.21 | +18.96% | 0.45 | -1.45 | -76.14% |
-| Open positions ('000 lots) | 58.79 | -1.60 | -2.65% | 19.66 | +0.07 | +0.36% |
-| Day Low | 772.50 | +11.50 | +1.51% | 135.90 | -2.35 | -1.70% |
-| Day High | 830.00 | +49.00 | +6.27% | 146.60 | -1.45 | -0.98% |
+| Closing Date | Jan 31st, 3pm close | | | Jan 31st, 5:30pm | | |
+| Closing Price | HOLIDAY | - | - | 137.75 | -9.35 | -6.36% |
+| Vol traded ('000 lots) | - | - | - | 0.45 | -1.45 | -76.14% |
+| Open positions ('000 lots) | - | - | - | 19.66 | +0.07 | +0.36% |
+| Day Low | - | - | - | 135.90 | -2.35 | -1.70% |
+| Day High | - | - | - | 146.60 | -1.45 | -0.98% |
 
 ---
 
