@@ -134,7 +134,7 @@ A generally quiet week for this segment. A number of East Coast South American t
 | --- | --- | --- |
 | India | 490.0 | 500.0 |
 | Bangladesh | 515.0 | 530.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 320.0 | 330.0 |
 
 ## Page 6

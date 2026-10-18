@@ -151,7 +151,7 @@ Trips from Japan into South Africa were fixed around usd 5,000/6,000 pd. A numbe
 | --- | --- | --- |
 | India | 535.0 | 560.0 |
 | Bangladesh | 530.0 | 545.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 280.0 | 290.0 |
 
 ## Page 7

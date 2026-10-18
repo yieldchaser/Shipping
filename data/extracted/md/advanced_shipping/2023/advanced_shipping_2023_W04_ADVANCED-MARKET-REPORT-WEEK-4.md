@@ -127,7 +127,7 @@ A Handysize was fixed for a trip from South Africa for inter South African busin
 | --- | --- | --- |
 | India | 535.0 | 560.0 |
 | Bangladesh | 535.0 | 550.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 300.0 | 310.0 |
 
 ## Page 6

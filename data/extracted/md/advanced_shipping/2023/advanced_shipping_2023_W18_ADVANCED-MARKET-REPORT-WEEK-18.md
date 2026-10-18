@@ -137,7 +137,7 @@ A number of Inter-Mediterranean trips via Black Sea were reported at the level o
 | --- | --- | --- |
 | India | 505.0 | 515.0 |
 | Bangladesh | 515.0 | 530.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 320.0 | 330.0 |
 
 ## Page 6

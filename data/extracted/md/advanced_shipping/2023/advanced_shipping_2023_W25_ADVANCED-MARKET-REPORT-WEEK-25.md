@@ -133,7 +133,7 @@ A generally quiet week for this segment. A number of trips from Japan into Persi
 | --- | --- | --- |
 | India | 505.0 | 515.0 |
 | Bangladesh | 535.0 | 545.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 330.0 | 340.0 |
 
 ## Page 6

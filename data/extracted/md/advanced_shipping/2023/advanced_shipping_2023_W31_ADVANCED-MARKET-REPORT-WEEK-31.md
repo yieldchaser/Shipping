@@ -31,16 +31,27 @@ Oman Shipping have committed their VLCC sister vessels "Fida" & "Sifa" 316/2011 
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1136.0 | 1110.0 | None% |
-| BPI | 1133.0 | 975.0 | None% |
-| BHSI | 390.0 | 396.0 | None% |
+| BDI | 1136.0 | 1110.0 | 2.34% |
+| BCI | 1818.0 | 1830.0 | -0.66% |
+| BPI | 1133.0 | 975.0 | 16.21% |
+| BSI | 688.0 | 726.0 | -5.23% |
+| BHSI | 390.0 | 396.0 | -1.52% |
+
+### Baltic Daily T/C Average
+
+| Vessel Type | Current ($) | Previous ($) | Change ($) |
+| --- | --- | --- | --- |
+| Capesize | 15080.0 | 15180.0 | -100.0 |
+| Kamsarmax | 10200.0 | 8774.0 | 1426.0 |
+| Supramax 58 | 7568.0 | 7989.0 | -421.0 |
+| Handysize 38 | 7020.0 | 7123.0 | -103.0 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 800.0 | 873.0 | None% |
-| BDTI | None | None | None% |
+| BDTI | 800.0 | 873.0 | -8.36% |
+| BCTI | 706.0 | 697.0 | 1.29% |
 
 ## Page 2
 
@@ -125,7 +136,7 @@ Trips from China into South Africa were reported at the level of usd 6,000/7,000
 | --- | --- | --- |
 | India | 470.0 | 485.0 |
 | Bangladesh | 525.0 | 535.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 300.0 | 310.0 |
 
 ## Page 6

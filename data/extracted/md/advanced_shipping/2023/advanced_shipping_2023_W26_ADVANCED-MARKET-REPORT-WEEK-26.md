@@ -114,7 +114,7 @@ Trips from China into India were fixed around usd 6,000/8,000 pd. Inter- Mediter
 | --- | --- | --- |
 | India | 505.0 | 515.0 |
 | Bangladesh | 535.0 | 545.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 330.0 | 340.0 |
 
 ## Page 5

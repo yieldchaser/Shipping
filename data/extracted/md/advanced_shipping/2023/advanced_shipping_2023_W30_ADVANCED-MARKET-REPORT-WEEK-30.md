@@ -115,7 +115,7 @@ A number of Indonesian trips with alumina were reported at the level of usd 4,00
 | --- | --- | --- |
 | India | 470.0 | 485.0 |
 | Bangladesh | 525.0 | 535.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 300.0 | 310.0 |
 
 ## Page 5

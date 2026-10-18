@@ -31,16 +31,27 @@ The Suezmax "Namsen" 157/2016 New Times, China (SS 11/2026, DD 05/2024, BWTS & S
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1080.0 | 1237.0 | None% |
-| BPI | 1449.0 | 1542.0 | None% |
-| BHSI | 507.0 | 469.0 | None% |
+| BDI | 1080.0 | 1237.0 | -12.69% |
+| BCI | 1174.0 | 1598.0 | -26.53% |
+| BPI | 1449.0 | 1542.0 | -6.03% |
+| BSI | 908.0 | 879.0 | 3.30% |
+| BHSI | 507.0 | 469.0 | 8.10% |
+
+### Baltic Daily T/C Average
+
+| Vessel Type | Current ($) | Previous ($) | Change ($) |
+| --- | --- | --- | --- |
+| Capesize | 9735.0 | 13255.0 | -3520.0 |
+| Kamsarmax | 13041.0 | 13876.0 | -835.0 |
+| Supramax 58 | 9993.0 | 9674.0 | 319.0 |
+| Handysize 38 | 9122.0 | 8449.0 | 673.0 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 793.0 | 803.0 | None% |
-| BDTI | None | None | None% |
+| BDTI | 793.0 | 803.0 | -1.25% |
+| BCTI | 807.0 | 772.0 | 4.53% |
 
 ## Page 2
 

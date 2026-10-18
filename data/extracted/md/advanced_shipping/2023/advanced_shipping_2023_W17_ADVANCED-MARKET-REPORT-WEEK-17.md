@@ -137,7 +137,7 @@ No fixture reported for this segment. No period activity to report here.
 | --- | --- | --- |
 | India | 510.0 | 525.0 |
 | Bangladesh | 535.0 | 550.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 330.0 | 340.0 |
 
 ## Page 6

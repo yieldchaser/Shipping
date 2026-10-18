@@ -115,7 +115,7 @@ North Pacific rounds ranged at the usd 10,000/12,000 pd. Indonesian sugar trips 
 | --- | --- | --- |
 | India | 540.0 | 565.0 |
 | Bangladesh | 545.0 | 560.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 310.0 | 320.0 |
 
 ## Page 6

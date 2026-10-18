@@ -144,7 +144,7 @@ A generally quiet week for this segment. A number of trips from Black Sea into M
 | --- | --- | --- |
 | India | 530.0 | 545.0 |
 | Bangladesh | 580.0 | 590.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 340.0 | 350.0 |
 
 ## Page 6

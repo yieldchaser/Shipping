@@ -31,16 +31,27 @@ Union Maritime have committed their Aframax "Fulmar" 115/2009 Hanjin, Korea (SS 
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1381.0 | 1186.0 | None% |
-| BPI | 1656.0 | 1489.0 | None% |
-| BHSI | 634.0 | 572.0 | None% |
+| BDI | 1381.0 | 1186.0 | 16.44% |
+| BCI | 1602.0 | 1289.0 | 24.28% |
+| BPI | 1656.0 | 1489.0 | 11.22% |
+| BSI | 1221.0 | 1079.0 | 13.16% |
+| BHSI | 634.0 | 572.0 | 10.84% |
+
+### Baltic Daily T/C Average
+
+| Vessel Type | Current ($) | Previous ($) | Change ($) |
+| --- | --- | --- | --- |
+| Capesize | 13284.0 | 10693.0 | 2591.0 |
+| Kamsarmax | 14906.0 | 13405.0 | 1501.0 |
+| Supramax 58 | 13426.0 | 11870.0 | 1556.0 |
+| Handysize 38 | 11420.0 | 10295.0 | 1125.0 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 740.0 | 713.0 | None% |
-| BDTI | None | None | None% |
+| BDTI | 740.0 | 713.0 | 3.79% |
+| BCTI | 849.0 | 764.0 | 11.13% |
 
 ## Page 2
 

@@ -118,7 +118,7 @@ Trips from China into India were fixed around usd 6,000/7,000 pd. A number of In
 | --- | --- | --- |
 | India | 495.0 | 505.0 |
 | Bangladesh | 545.0 | 555.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 330.0 | 340.0 |
 
 ## Page 5

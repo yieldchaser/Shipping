@@ -31,16 +31,27 @@ Lila Global have committed their Suezmax "Lila Orlando" 158/2005 Daewoo, Korea (
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1065.0 | 1080.0 | None% |
-| BPI | 1478.0 | 1449.0 | None% |
-| BHSI | 541.0 | 507.0 | None% |
+| BDI | 1065.0 | 1080.0 | -1.39% |
+| BCI | 1032.0 | 1174.0 | -12.10% |
+| BPI | 1478.0 | 1449.0 | 2.00% |
+| BSI | 980.0 | 908.0 | 7.93% |
+| BHSI | 541.0 | 507.0 | 6.71% |
+
+### Baltic Daily T/C Average
+
+| Vessel Type | Current ($) | Previous ($) | Change ($) |
+| --- | --- | --- | --- |
+| Capesize | 8561.0 | 9735.0 | -1174.0 |
+| Kamsarmax | 13300.0 | 13041.0 | 259.0 |
+| Supramax 58 | 10779.0 | 9993.0 | 786.0 |
+| Handysize 38 | 9742.0 | 9122.0 | 620.0 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 740.0 | 793.0 | None% |
-| BDTI | None | None | None% |
+| BDTI | 740.0 | 793.0 | -6.68% |
+| BCTI | 837.0 | 807.0 | 3.72% |
 
 ## Page 2
 

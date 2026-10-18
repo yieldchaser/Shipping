@@ -138,7 +138,7 @@ West African trips into Mediterranean with steel billets were reported fixed aro
 | --- | --- | --- |
 | India | 530.0 | 545.0 |
 | Bangladesh | 565.0 | 580.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 310.0 | 320.0 |
 
 ## Page 6

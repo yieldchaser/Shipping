@@ -140,7 +140,7 @@ A number of East Coast South American trips into US Gulf- US East Coast were rep
 | --- | --- | --- |
 | India | 490.0 | 500.0 |
 | Bangladesh | 535.0 | 545.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 330.0 | 340.0 |
 
 ## Page 6

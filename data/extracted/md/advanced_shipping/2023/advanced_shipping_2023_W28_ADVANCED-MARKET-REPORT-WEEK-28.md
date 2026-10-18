@@ -136,7 +136,7 @@ Trips from South China via North China into West Coast India-Persian Gulf were f
 | --- | --- | --- |
 | India | 490.0 | 505.0 |
 | Bangladesh | 535.0 | 545.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 320.0 | 330.0 |
 
 ## Page 6

@@ -158,7 +158,7 @@ A number of Australian trips into Japan were reported at the level of usd 13,000
 | --- | --- | --- |
 | India | 530.0 | 545.0 |
 | Bangladesh | 565.0 | 580.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 330.0 | 340.0 |
 
 ## Page 7

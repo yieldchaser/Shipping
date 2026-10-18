@@ -129,7 +129,7 @@ A generally quiet week for this segment. A number of Indonesian and Australian t
 | --- | --- | --- |
 | India | 490.0 | 505.0 |
 | Bangladesh | 535.0 | 545.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 330.0 | 340.0 |
 
 ## Page 6

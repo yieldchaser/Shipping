@@ -175,7 +175,7 @@ Mediterranean trips into US Gulf were reported at the level of usd 11,000/13,000
 | --- | --- | --- |
 | India | 530.0 | 545.0 |
 | Bangladesh | 590.0 | 600.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 340.0 | 350.0 |
 
 ## Page 8

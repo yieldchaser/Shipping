@@ -143,7 +143,7 @@ A generally quiet week for this segment. North Pacific rounds ranged at the usd 
 | --- | --- | --- |
 | India | 530.0 | 545.0 |
 | Bangladesh | 565.0 | 580.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 330.0 | 340.0 |
 
 ## Page 7

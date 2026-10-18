@@ -147,7 +147,7 @@ A generally quiet week for this segment. A number of Indonesian trips into China
 | --- | --- | --- |
 | India | 530.0 | 555.0 |
 | Bangladesh | 565.0 | 580.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 310.0 | 320.0 |
 
 ## Page 7

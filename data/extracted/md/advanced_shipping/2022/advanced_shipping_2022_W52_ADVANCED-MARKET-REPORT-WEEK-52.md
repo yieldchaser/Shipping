@@ -1,5 +1,5 @@
 ---
-title: "Advanced Shipping & Trading Weekly Market Report - Week 52, 2022"
+title: "Advanced Shipping & Trading Weekly Market Report - Week 52, 2021"
 issue_date: "2021-12-31"
 year: 2021
 report_week: 52
@@ -29,18 +29,29 @@ Metrostar Management have sold their Aframax "Prostar" 115/2019 Daehan, Korea (S
 
 ### Baltic Dry Indices
 
-| Index | Current | Previous | Change (%) |
+| Index | 31-Dec | 24-Dec | ± (%) |
 | --- | --- | --- | --- |
-| BDI | 2217.0 | None | 2312.0% |
-| BPI | 2573.0 | None | 2290.0% |
-| BHSI | 1466.0 | None | None% |
+| BDI |  | 2.217 |  |
+| BCI |  | 2.312 |  |
+| BPI |  | 2.573 |  |
+| BSI |  | 2.290 |  |
+| BHSI |  | 1.466 |  |
+
+### Daily T/C Avg
+
+| Daily T/C Avg | 31-Dec | 24-Dec | ± ($) |
+| --- | --- | --- | --- |
+| Capesize |  | $ 19.176 |  |
+| Kamsarmax |  | $ 23.158 |  |
+| Supramax 58 |  | $ 25.188 |  |
+| Handysize 38 |  | $ 26.384 |  |
 
 ### Baltic Tanker Indices
 
-| Index | Current | Previous | Change (%) |
+| Index | 31-Dec | 24-Dec | ± (%) |
 | --- | --- | --- | --- |
-| BDTI | 786.0 | None | 788.0% |
-| BDTI | None | None | None% |
+| BDTI |  | 786 |  |
+| BCTI |  | 788 |  |
 
 ## Page 2
 

@@ -138,7 +138,7 @@ A number of trips from China via Japan into Continent were fixed around usd 10,0
 | --- | --- | --- |
 | India | 490.0 | 500.0 |
 | Bangladesh | 545.0 | 555.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 330.0 | 340.0 |
 
 ## Page 6

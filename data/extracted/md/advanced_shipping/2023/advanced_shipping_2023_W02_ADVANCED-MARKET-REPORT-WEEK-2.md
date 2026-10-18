@@ -147,7 +147,7 @@ South East Asian trips via Australia into Japan were fixed around usd 8.000 pd. 
 | --- | --- | --- |
 | India | 525.0 | 545.0 |
 | Bangladesh | 520.0 | 535.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 280.0 | 290.0 |
 
 ## Page 6

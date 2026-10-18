@@ -133,7 +133,7 @@ Trips from China into South East Asia with steels were reported at the level of 
 | --- | --- | --- |
 | India | 480.0 | 495.0 |
 | Bangladesh | 535.0 | 545.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 300.0 | 310.0 |
 
 ## Page 6

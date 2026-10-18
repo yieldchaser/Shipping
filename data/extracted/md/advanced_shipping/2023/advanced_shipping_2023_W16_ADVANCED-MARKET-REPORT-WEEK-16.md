@@ -138,7 +138,7 @@ A generally quiet week for this segment. A number of trips from Thailand into In
 | --- | --- | --- |
 | India | 510.0 | 525.0 |
 | Bangladesh | 535.0 | 550.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 340.0 | 350.0 |
 
 ## Page 6

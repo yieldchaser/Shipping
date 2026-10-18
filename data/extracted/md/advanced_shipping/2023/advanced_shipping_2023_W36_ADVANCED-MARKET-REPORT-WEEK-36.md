@@ -31,16 +31,27 @@ Athenian Sea Carriers have committed their VLCC "Athenian Freedom" 300/2013 Hyun
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDI | 1186.0 | 1065.0 | None% |
-| BPI | 1489.0 | 1478.0 | None% |
-| BHSI | 572.0 | 541.0 | None% |
+| BDI | 1186.0 | 1065.0 | 11.36% |
+| BCI | 1289.0 | 1032.0 | 24.90% |
+| BPI | 1489.0 | 1478.0 | 0.74% |
+| BSI | 1079.0 | 980.0 | 10.10% |
+| BHSI | 572.0 | 541.0 | 5.73% |
+
+### Baltic Daily T/C Average
+
+| Vessel Type | Current ($) | Previous ($) | Change ($) |
+| --- | --- | --- | --- |
+| Capesize | 10693.0 | 8561.0 | 2132.0 |
+| Kamsarmax | 13405.0 | 13300.0 | 105.0 |
+| Supramax 58 | 11870.0 | 10779.0 | 1091.0 |
+| Handysize 38 | 10295.0 | 9742.0 | 553.0 |
 
 ### Baltic Tanker Indices
 
 | Index | Current | Previous | Change (%) |
 | --- | --- | --- | --- |
-| BDTI | 713.0 | 740.0 | None% |
-| BDTI | None | None | None% |
+| BDTI | 713.0 | 740.0 | -3.65% |
+| BCTI | 764.0 | 837.0 | -8.72% |
 
 ## Page 2
 

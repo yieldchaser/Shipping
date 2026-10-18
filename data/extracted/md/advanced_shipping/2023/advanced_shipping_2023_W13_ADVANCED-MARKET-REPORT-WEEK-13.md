@@ -129,7 +129,7 @@ A generally quiet week for this segment. Inter-Mediterranean trips were reported
 | --- | --- | --- |
 | India | 525.0 | 540.0 |
 | Bangladesh | 570.0 | 580.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 340.0 | 350.0 |
 
 ## Page 6

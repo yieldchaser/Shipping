@@ -127,7 +127,7 @@ A number of trips from Japan into South East Asia were fixed around usd 6,000/7,
 | --- | --- | --- |
 | India | 520.0 | 535.0 |
 | Bangladesh | 555.0 | 570.0 |
-| Pakistan | None | None |
+| Pakistan |  |  |
 | Turkey | 340.0 | 350.0 |
 
 ## Page 6
