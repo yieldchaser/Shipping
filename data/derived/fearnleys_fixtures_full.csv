@@ -569256,3 +569256,4 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 866201,2026-10-18,,,DEMIRHAN,,,,,Panamax,BULK,grain,,,,
 866202,2026-10-18,,,FERTILE,,,,,Mini-Handysize,BULK,grain,,,,SINGLE HULL
 866203,2026-10-18,,,FORTUNATE,,,,,Mini-Handysize,BULK,grain,,,,SINGLE HULL
+866204,2026-10-18,,,,,,,,Panamax,BULK,Catamaran,,,,"FLT WATER TO WATER, Part cgo ok, On deck ok"
