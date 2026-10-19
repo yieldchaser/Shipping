@@ -114,7 +114,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W06_WK-6-24-CARRIERS_SP-M
 | CAPE 180K | 17766 | 1429 | 16337 |
 | TESS 82K | 12768 | -2407 | 15175 |
 | LME 74K | 11432 | -2407 | 13839 |
-| SUPRA 63K | 11411 | -300 |  |
+| TESS 58K | 11411 | -300 | 11,711 |
 | HANDY 38K | 10478 | -268 | 10746 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

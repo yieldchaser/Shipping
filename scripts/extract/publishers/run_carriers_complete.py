@@ -128,6 +128,28 @@ def parse_numeric(val: Any) -> Optional[float]:
     return None
 
 
+def write_md(path: Path, text: str) -> None:
+    """The existing Carriers MDs are owner-audited and row-repaired against the PDFs (carriers_rows_fix, printed
+    number forms); a full re-run must not replace them. New reports are written; pass --force-md to overwrite."""
+    if path.exists() and "--force-md" not in sys.argv:
+        return
+    path.write_text(text, encoding="utf-8")
+
+
+# A printed number cell: plain ('3575'), comma thousands ('22,620'), dot thousands ('388.612') or decimal
+# ('507.00'). Comma-thousands cells used to fail the plain-digit match and were dropped from the MD.
+NUM_TOKEN = re.compile(r"^[-+]?(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?$")
+
+
+def cell_text(raw: Optional[str], val: Optional[float]) -> str:
+    """MD cell: the token as the PDF prints it; a parsed value only when no token was kept."""
+    if raw:
+        return raw
+    if val is None:
+        return ""
+    return str(int(val)) if float(val).is_integer() else str(val)
+
+
 def extract_metadata(pdf_path: Path) -> Tuple[Optional[str], Optional[int]]:
     """Extract ISO issue_date and report_week."""
     fn = pdf_path.stem
@@ -634,11 +656,11 @@ def extract_bspa_and_bda(
                 m_rng = re.search(r"(\d+)\s*[-–]\s*(\d+)", bda_str)
                 ldt_rng = f"{m_rng.group(1)} - {m_rng.group(2)}" if m_rng else None
                 nums = re.findall(r"\d+(?:\.\d+)?", bda_str)
-                p_ldt = None
+                p_ldt = p_raw = None
                 for n in nums:
                     f = float(n)
                     if 200 <= f <= 800:
-                        p_ldt = f
+                        p_ldt, p_raw = f, n  # keep the printed token ('507.00')
                 arrow = "UP" if any(k in bda_str for k in ["\ua71b", "ꜛ", "↑", "▲"]) else ("DOWN" if any(k in bda_str for k in ["\ua71c", "ꜜ", "↓", "▼"]) else (None if "N/A" in bda_str else "STEADY"))
                 bda_recs.append({
                     "issue_date": issue_date,
@@ -647,6 +669,7 @@ def extract_bspa_and_bda(
                     "place": "Subcontinent",
                     "ldt_range": ldt_rng,
                     "price_usd_per_ldt": p_ldt,
+                    "price_raw": p_raw or ("N/A" if "N/A" in bda_str else None),
                     "sentiment_arrow": arrow,
                     "source_file": source_file,
                 })
@@ -687,6 +710,7 @@ def extract_shipping_indices(
                 m = re.search(rf"\b{iname}\b\s*([0-9.]+)?(\ua71b|\ua71c|ꜛ|ꜜ|↑|↓)?", ln_str)
                 if m and m.group(1):
                     indices_dict[iname]["val"] = float(m.group(1))
+                    indices_dict[iname]["raw"] = m.group(1)
                     indices_dict[iname]["arrow"] = "UP" if any(k in ln_str for k in ["\ua71b", "ꜛ", "↑", "▲"]) else ("DOWN" if any(k in ln_str for k in ["\ua71c", "ꜜ", "↓", "▼"]) else "STEADY")
 
     indices_recs: List[Dict[str, Any]] = []
@@ -697,6 +721,7 @@ def extract_shipping_indices(
             "index_category": idata["cat"],
             "index_name": iname,
             "current_value": idata["val"],
+            "current_raw": idata.get("raw"),
             "change_val": None,
             "prev_value": None,
             "sentiment_arrow": idata["arrow"],
@@ -732,18 +757,19 @@ def extract_baltic_dry(
     bdi_cols = ["BDI", "BCI", "BPI", "BSI", "BHSI"]
     bdi_bands = [(100, 160), (200, 260), (300, 360), (400, 460), (480, 550)]
     bdi_grid = {k: [None]*5 for k in ["This WK", "Week Ch.", "Previous"]}
+    bdi_raw = {k: [None]*5 for k in bdi_grid}
 
     for w in all_words:
         if y_start <= w[1] < y_end:
-            val_m = re.match(r"^[-+]?\d+$", w[4])
-            if val_m:
-                val = float(w[4])
+            if NUM_TOKEN.match(w[4]) and "." not in w[4]:  # index points are whole numbers
+                val = float(w[4].replace(",", ""))
                 closest_row = min(bdi_y_labels.keys(), key=lambda k: abs(w[1] - bdi_y_labels[k]))
                 if abs(w[1] - bdi_y_labels[closest_row]) > 9.0:
                     continue
                 for c_idx, (bx0, bx1) in enumerate(bdi_bands):
                     if bx0 <= w[0] <= bx1:
                         bdi_grid[closest_row][c_idx] = val
+                        bdi_raw[closest_row][c_idx] = w[4]
                         break
 
     recs: List[Dict[str, Any]] = []
@@ -756,6 +782,9 @@ def extract_baltic_dry(
             "current_value": bdi_grid["This WK"][c_idx],
             "change_val": bdi_grid["Week Ch."][c_idx],
             "prev_value": bdi_grid["Previous"][c_idx],
+            "current_raw": bdi_raw["This WK"][c_idx],
+            "change_raw": bdi_raw["Week Ch."][c_idx],
+            "prev_raw": bdi_raw["Previous"][c_idx],
             "sentiment_arrow": None,
             "source_file": source_file,
         })
@@ -789,19 +818,26 @@ def extract_weighted_routes(
     weighted_cols = ["CAPE 180K", "TESS 82K", "LME 74K", "SUPRA 63K", "HANDY 38K"]
     weighted_bands = [(90, 150), (150, 225), (225, 305), (305, 410), (410, 520)]
     weighted_grid = {k: [None]*5 for k in ["This WK", "Week Ch.", "Prev. WK"]}
+    weighted_raw = {k: [None]*5 for k in weighted_grid}
 
     for w in all_words:
         if y_start <= w[1] < y_end:
-            val_m = re.match(r"^[-+]?\d+$", w[4])
-            if val_m:
-                val = float(w[4])
+            # '22,620' (comma thousands) is printed in some weeks; '^\d+$' dropped it (W40-26 SUPRA, W22-26)
+            if NUM_TOKEN.match(w[4]) and "." not in w[4]:
+                val = float(w[4].replace(",", ""))
                 closest_row = min(wr_y_labels.keys(), key=lambda k: abs(w[1] - wr_y_labels[k]))
                 if abs(w[1] - wr_y_labels[closest_row]) > 9.0:
                     continue
                 for c_idx, (bx0, bx1) in enumerate(weighted_bands):
                     if bx0 <= w[0] <= bx1:
                         weighted_grid[closest_row][c_idx] = val
+                        weighted_raw[closest_row][c_idx] = w[4]
                         break
+
+    # 2023-24 issues head the fourth column 'TESS 58K', later ones 'SUPRA 63K': use the printed header
+    band_text = " ".join(w[4] for w in all_words if y_start - 40 <= w[1] < y_end)
+    if re.search(r"\bTESS\s+58K\b", band_text):
+        weighted_cols = weighted_cols[:3] + ["TESS 58K"] + weighted_cols[4:]
 
     weighted_recs: List[Dict[str, Any]] = []
     for c_idx, rname in enumerate(weighted_cols):
@@ -812,6 +848,9 @@ def extract_weighted_routes(
             "current_rate_usd_day": weighted_grid["This WK"][c_idx],
             "week_change_usd_day": weighted_grid["Week Ch."][c_idx],
             "prev_rate_usd_day": weighted_grid["Prev. WK"][c_idx],
+            "current_raw": weighted_raw["This WK"][c_idx],
+            "change_raw": weighted_raw["Week Ch."][c_idx],
+            "prev_raw": weighted_raw["Prev. WK"][c_idx],
             "source_file": source_file,
         })
     return weighted_recs
@@ -935,14 +974,16 @@ def extract_tanker_tce(
     # tokens, then attach each sign to the NEAREST unsigned value in the SAME x
     # band (nearest, not merely near - the '-' sits between the This-WK value and
     # the change, so a plain distance window grabs the wrong one).
-    val_tokens = []  # [x, y, value, col_idx, has_sign]
+    val_tokens = []  # [x, y, value, col_idx, has_sign, printed token]
     for w in all_words:
-        if y_start <= w[1] < y_end and re.match(r"^[-+]?\d+(?:\.\d+)?$", w[4]):
+        if y_start <= w[1] < y_end and NUM_TOKEN.match(w[4]):
             for c_idx, (bx0, bx1) in enumerate(tanker_bands):
                 if bx0 <= w[0] <= bx1:
-                    # the $/day TCE columns print thousands with a dot: '25.290' is $25,290, not 25.29
-                    tok = w[4].replace(".", "") if c_idx >= 2 and re.match(r"^[-+]?\d{1,3}\.\d{3}$", w[4]) else w[4]
-                    val_tokens.append([w[0], w[1], float(tok), c_idx, w[4].startswith(("-", "+"))])
+                    # the $/day TCE columns print thousands with a dot: '25.290' is $25,290, not 25.29;
+                    # some weeks use a comma instead ('832,637', W40-26)
+                    tok = w[4].replace(",", "")
+                    tok = tok.replace(".", "") if c_idx >= 2 and re.match(r"^[-+]?\d{1,3}\.\d{3}$", tok) else tok
+                    val_tokens.append([w[0], w[1], float(tok), c_idx, w[4].startswith(("-", "+")), w[4]])
                     break
 
     for w in all_words:
@@ -955,13 +996,16 @@ def extract_tanker_tce(
                         best = min(cands, key=lambda t: abs(t[1] - w[1]))
                         best[2] *= sg
                         best[4] = True
+                        best[5] = ("-" if sg < 0 else "+") + best[5]
                     break
 
-    for x, y, val, c_idx, _ in val_tokens:
+    tanker_raw = {k: [None]*6 for k in tanker_grid}
+    for x, y, val, c_idx, _, raw in val_tokens:
         closest_row = min(tr_y_labels.keys(), key=lambda k: abs(y - tr_y_labels[k]))
         if abs(y - tr_y_labels[closest_row]) > 9.0:
             continue
         tanker_grid[closest_row][c_idx] = val
+        tanker_raw[closest_row][c_idx] = raw
 
     tanker_tce_recs: List[Dict[str, Any]] = []
     for c_idx, mname in enumerate(tanker_cols):
@@ -972,6 +1016,9 @@ def extract_tanker_tce(
             "current_value": tanker_grid["This WK"][c_idx],
             "week_change": tanker_grid["Week Ch."][c_idx],
             "prev_value": tanker_grid["Previous"][c_idx],
+            "current_raw": tanker_raw["This WK"][c_idx],
+            "change_raw": tanker_raw["Week Ch."][c_idx],
+            "prev_raw": tanker_raw["Previous"][c_idx],
             "source_file": source_file,
         })
     return tanker_tce_recs
@@ -1133,7 +1180,7 @@ def generate_markdown(
         for bd in data["bda"]:
             lines.append(
                 f"| {bd['segment']} | {bd['place']} | {bd['ldt_range'] or ''} | "
-                f"{bd['price_usd_per_ldt'] or ''} | {bd['sentiment_arrow'] or ''} |"
+                f"{cell_text(bd.get('price_raw'), bd['price_usd_per_ldt'])} | {bd['sentiment_arrow'] or ''} |"
             )
         lines.append("")
 
@@ -1144,9 +1191,9 @@ def generate_markdown(
         lines.append("| Category | Index Name | Current Value | Change | Previous Value | Sentiment |")
         lines.append("| --- | --- | --- | --- | --- | --- |")
         for idx_row in data["indices"]:
-            c_val = str(idx_row["current_value"]) if idx_row["current_value"] is not None else ""
-            ch_val = str(idx_row["change_val"]) if idx_row["change_val"] is not None else ""
-            p_val = str(idx_row["prev_value"]) if idx_row["prev_value"] is not None else ""
+            c_val = cell_text(idx_row.get("current_raw"), idx_row["current_value"])
+            ch_val = cell_text(idx_row.get("change_raw"), idx_row["change_val"])
+            p_val = cell_text(idx_row.get("prev_raw"), idx_row["prev_value"])
             s_arrow = idx_row.get("sentiment_arrow") or ""
             lines.append(
                 f"| {idx_row['index_category']} | {idx_row['index_name']} | {c_val} | "
@@ -1161,9 +1208,9 @@ def generate_markdown(
         lines.append("| Route / Class | This WK ($/day) | Week Ch. ($/day) | Prev. WK ($/day) |")
         lines.append("| --- | --- | --- | --- |")
         for wr in data["weighted_routes"]:
-            c_r = str(wr["current_rate_usd_day"]) if wr["current_rate_usd_day"] is not None else ""
-            ch_r = str(wr["week_change_usd_day"]) if wr["week_change_usd_day"] is not None else ""
-            p_r = str(wr["prev_rate_usd_day"]) if wr["prev_rate_usd_day"] is not None else ""
+            c_r = cell_text(wr.get("current_raw"), wr["current_rate_usd_day"])
+            ch_r = cell_text(wr.get("change_raw"), wr["week_change_usd_day"])
+            p_r = cell_text(wr.get("prev_raw"), wr["prev_rate_usd_day"])
             lines.append(f"| {wr['route_vessel_class']} | {c_r} | {ch_r} | {p_r} |")
         lines.append("")
 
@@ -1185,9 +1232,9 @@ def generate_markdown(
         lines.append("| Metric Name | This WK | Week Ch. | Previous |")
         lines.append("| --- | --- | --- | --- |")
         for tr in data["tanker_tce"]:
-            c_v = str(tr["current_value"]) if tr["current_value"] is not None else ""
-            ch_v = str(tr["week_change"]) if tr["week_change"] is not None else ""
-            p_v = str(tr["prev_value"]) if tr["prev_value"] is not None else ""
+            c_v = cell_text(tr.get("current_raw"), tr["current_value"])
+            ch_v = cell_text(tr.get("change_raw"), tr["week_change"])
+            p_v = cell_text(tr.get("prev_raw"), tr["prev_value"])
             lines.append(f"| {tr['metric_name']} | {c_v} | {ch_v} | {p_v} |")
         lines.append("")
 
@@ -1241,7 +1288,7 @@ def run():
             doc_data = parse_vessel_values_report_2021(doc, issue_date or "2021-11-19", report_week or 46, pdf_path.name)
             master_sales.extend(doc_data["sales"])
             md_doc = generate_markdown(stem, pdf_path, doc, [1], issue_date or "2021-11-19", report_week or 46, doc_data)
-            (OUT_MD / f"{stem}.md").write_text(md_doc, encoding="utf-8")
+            write_md(OUT_MD / f"{stem}.md", md_doc)
             sidecar = {
                 "stem": stem,
                 "issue_date": issue_date or "2021-11-19",
@@ -1275,7 +1322,7 @@ def run():
             )
             for pno in range(len(doc)):
                 md_text += f"\n## Page {pno+1}\n\n" + doc[pno].get_text() + "\n"
-            (OUT_MD / f"{stem}.md").write_text(md_text, encoding="utf-8")
+            write_md(OUT_MD / f"{stem}.md", md_text)
             sidecar = {
                 "stem": stem,
                 "issue_date": issue_date or "2026-07-13",
@@ -1410,7 +1457,7 @@ def run():
 
         # Write markdown
         md_content = generate_markdown(stem, pdf_path, doc, substantive_pages, issue_date or "", report_week, doc_data_combined)
-        (OUT_MD / f"{stem}.md").write_text(md_content, encoding="utf-8")
+        write_md(OUT_MD / f"{stem}.md", md_content)
 
         # Write sidecar JSON
         sidecar = {
