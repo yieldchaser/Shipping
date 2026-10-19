@@ -239,7 +239,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Coverage Span:** `2021-11-19` to `2026-10-12`
 - **Latest Ingested Document:** `carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf` (Status: **CURRENT (5d ago)**)
 - **Sample Ingested Report (Corpus):** [`carriers_2026_W41_WK-41-26-CARRIERS_SP-MARKET-REPORT.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/carriers/2026/carriers_2026_W41_WK-41-26-CARRIERS_SP-MARKET-REPORT.pdf)
-- **Sample Extracted Markdown (Digest):** [`general_broker_21_09_2026_carriers_sales_purchase_market_report_week_38.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/carriers/2026/general_broker_21_09_2026_carriers_sales_purchase_market_report_week_38.md)
+- **Sample Extracted Markdown (Digest):** [`carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/carriers/2026/carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.md)
 - **Raw Corpus Inventory:** 140 PDFs
 - **Extracted Markdown Dossiers:** 137 Markdown files + 135 .tables.json sidecars
 - **Chart Extraction:** No (Tabular S&P and Baltic BSPA/BDA indices)

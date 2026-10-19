@@ -795,9 +795,8 @@ def run_all() -> Dict[str, Any]:
     print(f"  -> Written Markdown: {gen_md_file}")
     print(f"  -> Written Sidecar JSON: {gen_json_file} ({len(carriers_records)} stamped records)")
 
-    # Mirror to data/extracted/md/carriers/ and data/extracted/carriers/tables/
-    shutil.copy2(gen_md_file, DIR_MD_CAR / f"{gen_stem}.md")
-    shutil.copy2(gen_json_file, DIR_MD_CAR / f"{gen_stem}.tables.json")
+    # Mirror the tables to data/extracted/carriers/tables/. No MD copy into data/extracted/md/carriers/: that
+    # series already holds this week as carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.md (same PDF).
     carriers_tables_dir = ROOT / "data" / "extracted" / "carriers" / "tables"
     carriers_tables_dir.mkdir(parents=True, exist_ok=True)
     with open(carriers_tables_dir / f"{gen_stem}.json", "w", encoding="utf-8") as f:
