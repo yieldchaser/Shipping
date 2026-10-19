@@ -1,3 +1,17 @@
+---
+title: GMS Week 17 – STARVED OF SUPPLY!
+publisher: GMS Inc.
+source: gms
+issue_date: '2022-05-03'
+report_week: 17
+issue_date_source: hsn_article_publication_date
+document_header_date: null
+issue_date_conflict: false
+year: 2022
+source_file: corpus/02-hellenic/demolition/2022/2022-05-03_gms-week-17-starved-of-supply.html
+source_sha256: ef5e37dcb5146baf980a2055f6bab196b707099339da353ed8c7405c05a95d1d
+parser: hsn_article_html (no GMS PDF for this week: weeks 1 and 20 were never attached, week 17's attachment is the week 16 PDF)
+---
 # GMS Week 17 – STARVED OF SUPPLY!
 
 - **Issue Date**: 2022-05-03

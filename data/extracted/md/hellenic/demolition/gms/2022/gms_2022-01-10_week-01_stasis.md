@@ -1,3 +1,17 @@
+---
+title: GMS Week 1 – STASIS!
+publisher: GMS Inc.
+source: gms
+issue_date: '2022-01-10'
+report_week: 1
+issue_date_source: hsn_article_publication_date
+document_header_date: null
+issue_date_conflict: false
+year: 2022
+source_file: corpus/02-hellenic/demolition/2022/2022-01-10_gms-week-1-welcome-2022.html
+source_sha256: ffdff7f560968626352122916b43a94a6a3bd98ce93b608d37c18a341a5f60a8
+parser: hsn_article_html (no GMS PDF for this week: weeks 1 and 20 were never attached, week 17's attachment is the week 16 PDF)
+---
 # GMS Week 1 – STASIS!
 
 - **Issue Date**: 2022-01-10

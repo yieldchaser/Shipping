@@ -1,3 +1,17 @@
+---
+title: GMS Week 20 – WHAT GOES UP MUST COME DOWN!
+publisher: GMS Inc.
+source: gms
+issue_date: '2022-05-23'
+report_week: 20
+issue_date_source: hsn_article_publication_date
+document_header_date: null
+issue_date_conflict: false
+year: 2022
+source_file: corpus/02-hellenic/demolition/2022/2022-05-23_gms-week-20-what-goes-up-must-come-down.html
+source_sha256: dd286087ec2cc47ec54f77184181dea7f506c659d513617339c9dc6f120f6dfe
+parser: hsn_article_html (no GMS PDF for this week: weeks 1 and 20 were never attached, week 17's attachment is the week 16 PDF)
+---
 # GMS Week 20 – WHAT GOES UP MUST COME DOWN!
 
 - **Issue Date**: 2022-05-23
