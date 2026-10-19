@@ -182,7 +182,7 @@
         "data/extracted/md/intermodal/"
       ],
       "rows_extracted": 61181,
-      "skipped": "None (100% cover-to-cover, zero cherry-picking across all 8 pages)",
+      "skipped": "Final market page (by design)",
       "verification": "252/252 reports processed cover-to-cover (100.0%, 1,994 pages); 0 failures. Audited and resolved 3 subtle defects: (1) Removed Jan/Feb header exclusion unlocking 27 missing newbuilding reports; (2) Unpacked multi-line <br/>-compressed cells recovering 38 missing tanker spot reports; (3) Pre-cleaned malformed HTML td> tags achieving 100% coverage; 61,181 rows across 16 series",
       "tooling": "LlamaParse cost_effective (all 252 reports / 1,994 pages cover-to-cover) + PyMuPDF chart vector curves (run_intermodal_full.py)"
     },
@@ -231,7 +231,7 @@
       "newbuilding_order_rows": 1329,
       "freight_benchmark_rows": 238,
       "macro_bunker_rows": 651,
-      "skipped": "None (100% cover-to-cover, zero cherry-picking across all 9 pages)",
+      "skipped": "Contacts page (by design). The commodities page was missing until 08e38a6712; `xclusiv_freight_benchmarks_series.csv` stops at 2026-01-19 (not built by the weekly ingest)",
       "verification": "266/266 PDFs processed cover-to-cover (100.0%, 1,938 pages); Pages 2-3 freight benchmarks and Pages 8-9 bunker spreads recovered with 100% ground-truth verification; 21,135 rows across 10 series",
       "tooling": "LiteParse cover-to-cover + LlamaParse table parser (run_xclusiv_full_cover_to_cover.py)"
     },

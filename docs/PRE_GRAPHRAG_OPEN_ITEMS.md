@@ -28,7 +28,9 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
    publisher and diffing against the repaired MD.
    - [x] Star Asia (02d4dfb3e3 and after: builder = MD tables, ferrous scrap via Nace + print gate in CI; price-trend
      series deleted as unlabelled-chart estimates; LDT comparison from printed labels, rebuilt offline, not in CI)
-   - [ ] Xclusiv  - [ ] Hellenic MMI  - [ ] Clarksons  - [ ] Breakwave  - [ ] Intermodal
+   - [ ] Xclusiv: CI writes 4 of 10 series (sales, demolition, secondhand, demo sales). baltic_indices, macro_bunkers,
+     newbuilding(_orders/_prices) stop 2026-09-28 (offline repair), freight_benchmarks 2026-01-19. Port
+     the macro/bunker page builder and freight benchmarks into `extract_xclusiv`.  - [ ] Hellenic MMI  - [ ] Clarksons  - [ ] Breakwave  - [ ] Intermodal
    - [x] Advanced Shipping (extractor fixed in bc6be6f998)
 2. **Duplicate Star Asia PDFs from two ingest paths.** `report_ingest.yml` saves `star_asia_2026_W4x_Market-Report-Week-4x.pdf`
    and `broker_reports_weekly.yml` saves `star_asia_DD_MM_2026_..._week_4x.pdf` (identical bytes, W41/W42).
@@ -54,8 +56,8 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
 - [x] Star Asia W40: PORTLAND 11 beaching printed blank, MD said "AWAITING" (old builder default) - fixed.
 - [ ] Intermodal: 23 MDs with "(en bloc)" sale rows, 74 single-cell residuals.
 - [ ] Advanced Shipping: 15 cell conflicts left after the geometry splice.
-- [ ] `docs/EXTRACTION_REGISTER.md`: claims Xclusiv is "100% cover-to-cover" (false: contacts page excluded; the
-      commodities page was missing until 08e38a6712).
+- [x] `docs/EXTRACTION_REGISTER.md`: claimed Xclusiv is "100% cover-to-cover" (false: contacts page excluded; the
+      commodities page was missing until 08e38a6712). Corrected, with Intermodal's same claim (final page excluded).
 - [ ] Hellenic MMI generator prints 696 as `696.00` / `+5.00` (values exact; 1,190 MDs cosmetic).
 - [x] Clarksons 2021-08-06 EUR/USD `1.12370`: kept as printed (by design).
 
