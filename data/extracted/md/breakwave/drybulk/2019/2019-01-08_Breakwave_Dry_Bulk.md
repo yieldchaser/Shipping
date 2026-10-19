@@ -76,6 +76,9 @@ Slower economic growth and the maturing nature of the Chinese economy when it co
 | Demand | Brazil Iron Ore Exports | 368mt | 4.8% |
 | Demand | Australia Iron Ore Exports | 696mt | 2.1% |
 | Supply | Dry Bulk Fleet | 841dwt | 2.9% |
+| Freight Rates | Baltic Dry Index, Average | 1,264 | -2.8% |
+| Freight Rates | Capesize Spot Rates, Average | 15,302 | -14.0% |
+| Freight Rates | Panamax Spot rates, Average | 10,798 | -0.9% |
 
 ---
 

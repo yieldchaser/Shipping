@@ -68,6 +68,9 @@ As we look at the fundamental drivers for freight, it is hard to see how rates c
 | Demand | Brazil Iron Ore Exports | 27mt | -19.4% |
 | Demand | Australia Iron Ore Exports | 903mt | 0.3% |
 | Supply | Dry Bulk Fleet | 885dwt | 0.8% |
+| Freight Rates | Baltic Dry Index, Average | 589 | -28.0% |
+| Freight Rates | Capesize Spot Rates, Average | 4,720 | -50.8% |
+| Freight Rates | Panamax Spot rates, Average | 5,714 | -15.8% |
 
 ---
 

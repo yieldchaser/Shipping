@@ -72,6 +72,9 @@ In an economic environment characterized by extreme uncertainty in all fronts, i
 | Demand | Brazil Iron Ore Exports | 172mt | -12.5% |
 | Demand | Australia Iron Ore Exports | 347mt | 4.9% |
 | Supply | Dry Bulk Fleet | 906dwt | 3.1% |
+| Freight Rates | Baltic Dry Index, Average | 832 | -21.3% |
+| Freight Rates | Capesize Spot Rates, Average | 9,879 | -23.7% |
+| Freight Rates | Panamax Spot rates, Average | 6,700 | -28.7% |
 
 ---
 

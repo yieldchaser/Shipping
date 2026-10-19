@@ -68,6 +68,9 @@ Strong demand for grain cargoes out of South America is providing much needed su
 | Demand | Brazil Iron Ore Exports | 62mt | 14.5% |
 | Demand | Australia Iron Ore Exports | 64mt | -1.8% |
 | Supply | Dry Bulk Fleet | 846dwt | 0.6% |
+| Freight Rates | Baltic Dry Index, Average | 798 | -32.1% |
+| Freight Rates | Capesize Spot Rates, Average | 8,740 | -32.6% |
+| Freight Rates | Panamax Spot rates, Average | 7,007 | -39.2% |
 
 ---
 

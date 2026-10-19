@@ -72,6 +72,9 @@ Trillions of stimulus dollars are currently supporting the global economy and sl
 | Demand | Brazil Iron Ore Exports | 145mt | -10.7% |
 | Demand | Australia Iron Ore Exports | 271mt | 6.7% |
 | Supply | Dry Bulk Fleet | 903dwt | 2.7% |
+| Freight Rates | Baltic Dry Index, Average | 722 | -21.6% |
+| Freight Rates | Capesize Spot Rates, Average | 7,956 | -24.6% |
+| Freight Rates | Panamax Spot rates, Average | 6,035 | -28.0% |
 
 ---
 

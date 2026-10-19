@@ -45,6 +45,10 @@ The Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight 
 | Demand | Brazil Iron Ore Exports | 149mt | 0.2% |
 | Demand | Australia Iron Ore Exports | 349mt | 4.8% |
 | Demand | China Coal Imports | 48mt | 4.8% |
+| Supply | Dry Bulk Fleet | 831dwt | 1.7% |
+| Freight Rates | Baltic Dry Index, Average | 1,276 | 32.2% |
+| Freight Rates | Capesize Spot Rates, Average | 15,388 | 38.6% |
+| Freight Rates | Panamax Spot Rates, Average | 11,146 | 29.2% |
 
 ---
 

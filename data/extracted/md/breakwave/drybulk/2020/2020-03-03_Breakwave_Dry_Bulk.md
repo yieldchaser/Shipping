@@ -66,6 +66,9 @@ As the months progress and the epidemic spreads around the world, Asia should be
 | Demand | Brazil Iron Ore Exports | 27mt | -19.4% |
 | Demand | Australia Iron Ore Exports | 838mt | 10.1% |
 | Supply | Dry Bulk Fleet | 886dwt | 0.8% |
+| Freight Rates | Baltic Dry Index, Average | 587 | -31.5% |
+| Freight Rates | Capesize Spot Rates, Average | 5,257 | -51.2% |
+| Freight Rates | Panamax Spot rates, Average | 5,221 | -22.2% |
 
 ---
 

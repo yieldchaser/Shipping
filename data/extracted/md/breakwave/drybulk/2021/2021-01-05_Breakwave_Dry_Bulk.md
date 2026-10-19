@@ -66,6 +66,9 @@ We expect spot rate volatility to increase this year, as demand and supply growt
 | Demand | Brazil Iron Ore Exports | 335mt | -4.5% |
 | Demand | Australia Iron Ore Exports | 723mt | 5.1% |
 | Supply | Dry Bulk Fleet | 879dwt | 0.0% |
+| Freight Rates | Baltic Dry Index, Average | 1,374 | 45.9% |
+| Freight Rates | Capesize Spot Rates, Average | 16,656 | 46.1% |
+| Freight Rates | Panamax Spot rates, Average | 10,936 | 46.8% |
 
 ---
 

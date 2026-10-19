@@ -72,6 +72,9 @@ For shipping, developments as it relates to carbon emissions are rapidly becomin
 | Demand | Brazil Iron Ore Exports | 285mt | -13.0% |
 | Demand | Australia Iron Ore Exports | 688mt | -1.3% |
 | Supply | Dry Bulk Fleet | 872dwt | 3.7% |
+| Freight Rates | Baltic Dry Index, Average | 1,356 | 0.2% |
+| Freight Rates | Capesize Spot Rates, Average | 18,049 | 9.3% |
+| Freight Rates | Panamax Spot rates, Average | 11,131 | -4.5% |
 
 ---
 

@@ -66,6 +66,9 @@ The prospects for 2021 look promising. Vale, the Brazilian miner, remains optimi
 | Demand | Brazil Iron Ore Exports | 309mt | -5.3% |
 | Demand | Australia Iron Ore Exports | 723mt | 5.1% |
 | Supply | Dry Bulk Fleet | 912dwt | 3.8% |
+| Freight Rates | Baltic Dry Index, Average | 1,063 | -21.6% |
+| Freight Rates | Capesize Spot Rates, Average | 13,033 | -27.8% |
+| Freight Rates | Panamax Spot rates, Average | 8,562 | -23.1% |
 
 ---
 

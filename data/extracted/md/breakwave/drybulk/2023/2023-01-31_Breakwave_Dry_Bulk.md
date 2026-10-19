@@ -66,6 +66,9 @@ Following a period of high uncertainty and significant disruptions across the co
 | Demand | Brazil Iron Ore Exports | 344mt | -3.7% |
 | Demand | Australia Iron Ore Exports | 807mt | 1.4% |
 | Supply | Dry Bulk Fleet | 968dwt | 2.4% |
+| Freight Rates | Baltic Dry Index, Average | 933 | -48.2% |
+| Freight Rates | Capesize Spot Rates, Average | 9,555 | -27.7% |
+| Freight Rates | Panamax Spot rates, Average | 8,961 | -55.8% |
 
 ---
 

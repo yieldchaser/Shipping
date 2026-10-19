@@ -53,6 +53,10 @@ Although the fundamental drivers for dry bulk look promising, the macro environm
 | Demand | Brazil Iron Ore Exports | 149mt | 0.2% |
 | Demand | Australia Iron Ore Exports | 349mt | 4.8% |
 | Demand | China Coal Imports | 48mt | 4.8% |
+| Supply | Dry Bulk Fleet | 831dwt | 1.7% |
+| Freight Rates | Baltic Dry Index, Average | 1,247 | 29.1% |
+| Freight Rates | Capesize Spot Rates, Average | 14,687 | 30.3% |
+| Freight Rates | Panamax Spot Rates, Average | 11,056 | 29.3% |
 
 ---
 

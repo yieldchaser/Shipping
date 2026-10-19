@@ -68,6 +68,9 @@ Following approximately 4% net growth in 2019, the global dry bulk fleet is up ~
 | Demand | Brazil Iron Ore Exports | 179mt | -9.0% |
 | Demand | Australia Iron Ore Exports | 428mt | 5.6% |
 | Supply | Dry Bulk Fleet | 907dwt | 3.2% |
+| Freight Rates | Baltic Dry Index, Average | 875 | -20.9% |
+| Freight Rates | Capesize Spot Rates, Average | 10,510 | -23.6% |
+| Freight Rates | Panamax Spot rates, Average | 7,085 | -27.6% |
 
 ---
 

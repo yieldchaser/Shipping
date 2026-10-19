@@ -76,6 +76,9 @@ September China’s PMI data looked reasonably strong, given all the negative ma
 | Demand | Brazil Iron Ore Exports | 226mt | -11.6% |
 | Demand | Australia Iron Ore Exports | 475mt | -2.6% |
 | Supply | Dry Bulk Fleet | 863dwt | 2.6% |
+| Freight Rates | Baltic Dry Index, Average | 1,285 | -4.7% |
+| Freight Rates | Capesize Spot Rates, Average | 16,682 | -0.4% |
+| Freight Rates | Panamax Spot rates, Average | 10,916 | -4.2% |
 
 ---
 

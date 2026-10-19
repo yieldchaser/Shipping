@@ -68,6 +68,9 @@ Panamax and Supramax rates have found some support over the last few weeks, with
 | Demand | Brazil Iron Ore Exports | 71mt | -16.3% |
 | Demand | Australia Iron Ore Exports | 272mt | 7.0% |
 | Supply | Dry Bulk Fleet | 896dwt | 2.0% |
+| Freight Rates | Baltic Dry Index, Average | 589 | -31.2% |
+| Freight Rates | Capesize Spot Rates, Average | 5,146 | -44.1% |
+| Freight Rates | Panamax Spot rates, Average | 5,547 | -31.7% |
 
 ---
 

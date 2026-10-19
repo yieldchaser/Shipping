@@ -68,6 +68,9 @@ The last few years have been characterized by increased geopolitical uncertainty
 | Demand | Brazil Iron Ore Exports | 113mt | 13.6% |
 | Demand | Australia Iron Ore Exports | 212mt | -2.3% |
 | Supply | Dry Bulk Fleet | 1014dwt | 2.7% |
+| Freight Rates | Baltic Dry Index, Average | 1,821 | 54.9% |
+| Freight Rates | Capesize Spot Rates, Average | 23,251 | 93.8% |
+| Freight Rates | Panamax Spot rates, Average | 14,526 | 33.3% |
 
 ---
 

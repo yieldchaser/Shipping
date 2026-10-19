@@ -76,6 +76,9 @@ The IMO 2020 upcoming regulations can potentially lead to considerable disruptio
 | Demand | Brazil Iron Ore Exports | 353mt | 0.5% |
 | Demand | Australia Iron Ore Exports | 696mt | 2.1% |
 | Supply | Dry Bulk Fleet | 841dwt | 2.8% |
+| Freight Rates | Baltic Dry Index, Average | 1,353 | 18.9% |
+| Freight Rates | Capesize Spot Rates, Average | 16,540 | 10.4% |
+| Freight Rates | Panamax Spot rates, Average | 11,652 | 19.9% |
 
 ---
 

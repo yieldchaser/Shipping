@@ -66,6 +66,9 @@ Although the high level of volatility of 2021 might slow down, the dry bulk sect
 | Demand | Brazil Iron Ore Exports | 72mt | -10.9% |
 | Demand | Australia Iron Ore Exports | 135mt | 2.7% |
 | Supply | Dry Bulk Fleet | 893dwt | 3.1% |
+| Freight Rates | Baltic Dry Index, Average | 2,062 | 11.4% |
+| Freight Rates | Capesize Spot Rates, Average | 14,374 | -24.4% |
+| Freight Rates | Panamax Spot rates, Average | 22,492 | 27.6% |
 
 ---
 

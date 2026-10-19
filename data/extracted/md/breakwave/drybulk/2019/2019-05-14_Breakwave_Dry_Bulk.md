@@ -58,6 +58,9 @@ indicators:
 | Category | Metric | YTD Value | YoY Change |
 | :--- | :--- | :---: | :---: |
 | Supply | Dry Bulk Fleet | 848dwt | 0.8% |
+| Freight Rates | Baltic Dry Index, Average | 809 | -31.7% |
+| Freight Rates | Capesize Spot Rates, Average | 8,413 | -36.3% |
+| Freight Rates | Panamax Spot rates, Average | 7,677 | -31.5% |
 
 ---
 

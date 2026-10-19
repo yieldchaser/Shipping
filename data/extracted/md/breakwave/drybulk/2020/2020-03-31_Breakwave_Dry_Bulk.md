@@ -72,6 +72,9 @@ Given a recovering Chinese economy, improving weather, a relatively high iron or
 | Demand | Brazil Iron Ore Exports | 27mt | -19.4% |
 | Demand | Australia Iron Ore Exports | 903mt | 0.3% |
 | Supply | Dry Bulk Fleet | 887dwt | 1.0% |
+| Freight Rates | Baltic Dry Index, Average | 591 | -25.9% |
+| Freight Rates | Capesize Spot Rates, Average | 4,538 | -48.1% |
+| Freight Rates | Panamax Spot rates, Average | 5,749 | -18.0% |
 
 ---
 

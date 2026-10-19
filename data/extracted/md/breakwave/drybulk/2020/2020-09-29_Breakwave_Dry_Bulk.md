@@ -66,6 +66,9 @@ The macro environment remains highly uncertain not only for shipping but for mos
 | Demand | Brazil Iron Ore Exports | 210mt | -8.7% |
 | Demand | Australia Iron Ore Exports | 501mt | 5.5% |
 | Supply | Dry Bulk Fleet | 909dwt | 3.5% |
+| Freight Rates | Baltic Dry Index, Average | 960 | -25.0% |
+| Freight Rates | Capesize Spot Rates, Average | 11,625 | -30.0% |
+| Freight Rates | Panamax Spot rates, Average | 7,854 | -27.8% |
 
 ---
 

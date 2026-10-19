@@ -72,6 +72,9 @@ Despite decade highs in rates for most dry bulk sectors, the market remains extr
 | Demand | Brazil Iron Ore Exports | 196mt | -11.0% |
 | Demand | Australia Iron Ore Exports | 406mt | -3.7% |
 | Supply | Dry Bulk Fleet | 860dwt | 2.2% |
+| Freight Rates | Baltic Dry Index, Average | 1,164 | -12.9% |
+| Freight Rates | Capesize Spot Rates, Average | 14,664 | -12.1% |
+| Freight Rates | Panamax Spot rates, Average | 10,201 | -9.3% |
 
 ---
 

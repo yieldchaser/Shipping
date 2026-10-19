@@ -68,6 +68,9 @@ Despite all the negative structural headwinds that coal is facing, year-to- date
 | Demand | Brazil Iron Ore Exports | 62mt | 14.5% |
 | Demand | Australia Iron Ore Exports | 64mt | -1.8% |
 | Supply | Dry Bulk Fleet | 846dwt | 0.6% |
+| Freight Rates | Baltic Dry Index, Average | 815 | -31.3% |
+| Freight Rates | Capesize Spot Rates, Average | 9,472 | -30.5% |
+| Freight Rates | Panamax Spot rates, Average | 6,801 | -40.0% |
 
 ---
 

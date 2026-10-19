@@ -72,6 +72,9 @@ With Capesize rates down closer to the year-to-date average, we believe the rece
 | Category | Metric | YTD Value | YoY Change |
 | :--- | :--- | :---: | :---: |
 | Supply | Dry Bulk Fleet | 835dwt | 2.2% |
+| Freight Rates | Baltic Dry Index, Average | 1,343 | 34.8% |
+| Freight Rates | Capesize Spot Rates, Average | 16,782 | 40.2% |
+| Freight Rates | Panamax Spot rates, Average | 11,293 | 27.6% |
 
 ---
 

@@ -80,6 +80,9 @@ We expect Capesize rates to jump above 20,000/day in the short term, and probabl
 | Demand | Brazil Iron Ore Exports | 256mt | 2.6% |
 | Demand | Australia Iron Ore Exports | 488mt | 4.2% |
 | Supply | Dry Bulk Fleet | 835dwt | 2.2% |
+| Freight Rates | Baltic Dry Index, Average | 1,346 | 32.1% |
+| Freight Rates | Capesize Spot Rates, Average | 16,737 | 34.8% |
+| Freight Rates | Panamax Spot rates, Average | 11,354 | 25.9% |
 
 ---
 
