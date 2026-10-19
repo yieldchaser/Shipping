@@ -391,7 +391,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/ssy`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/ssy)
 - **Publication Cadence:** Weekly (Monday) (Expected day: Monday)
 - **Coverage Span:** `2021-07-05` to `2026-10-19`
-- **Latest Ingested Document:** `ssy_19_10_2026_ssy_atlantic_capesize_index_19_october_2026.pdf` (Status: **CURRENT (0d)**)
+- **Latest Ingested Document:** `ssy_19_10_2026_ssy_pacific_capesize_index_19_october_2026.pdf` (Status: **CURRENT (0d)**)
 - **Sample Ingested Report (Corpus):** [`ssy_2026_20261009-Pacific-Capesize-Report.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/ssy/2026/ssy_2026_20261009-Pacific-Capesize-Report.pdf)
 - **Sample Extracted Markdown (Digest):** [`ssy_2026_20260925-Pacific-Capesize-Report.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/ssy/2026/ssy_2026_20260925-Pacific-Capesize-Report.md)
 - **Raw Corpus Inventory:** 538 PDFs
@@ -439,7 +439,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/demolition`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/demolition)
 - **Publication Cadence:** Weekly (Saturday/Sunday) (Expected day: Saturday)
 - **Coverage Span:** `2021-07-02` to `2026-10-10`
-- **Latest Ingested Document:** `2026-10-10_gms-week-41-owners-hold-all-the-cards_Ship-recycling-market-insight-Week-41-10-09-2026-Owners-Hold-All-The-Cards.pdf` (Status: **CURRENT (9d)**)
+- **Latest Ingested Document:** `2026-10-10_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-03-October-09-October-2026.pdf` (Status: **CURRENT (9d)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-10_gms-week-41-owners-hold-all-the-cards.html`](file:///c:/Users/Dell/Github/Shipping/corpus/02-hellenic/demolition/2026/2026-10-10_gms-week-41-owners-hold-all-the-cards.html)
 - **Sample Extracted Markdown (Digest):** [`gms_2026-10-09_week-41_owners-hold-all-the-cards.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/demolition/gms/2026/gms_2026-10-09_week-41_owners-hold-all-the-cards.md)
 - **Raw Corpus Inventory:** 2,147 PDFs, 813 HTML files, 1,212 Images
@@ -654,7 +654,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/baltic`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/baltic)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2015-01-09` to `2026-10-16`
-- **Latest Ingested Document:** `2026-10-16_W42_tanker-report-week-42_tanker.html` (Status: **CURRENT (3d)**)
+- **Latest Ingested Document:** `2026-10-16_ningbo-containerised-freight-index-16102_ningbo.html` (Status: **CURRENT (3d)**)
 - **Sample Ingested Report (Corpus):** [`2026_tanker-report-week-9_tanker.html`](file:///c:/Users/Dell/Github/Shipping/corpus/08-baltic/tanker/2026/2026_tanker-report-week-9_tanker.html)
 - **Sample Extracted Markdown (Digest):** [`2026_tanker-report-week-9_tanker.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/baltic/tanker/2026/2026_tanker-report-week-9_tanker.md)
 - **Raw Corpus Inventory:** 3,059 HTML files, 2,239 Native Markdown files
@@ -670,7 +670,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/commodities`](file:///c:/Users/Dell/Github/Shipping/data/commodities)
 - **Publication Cadence:** Monthly (20th of Month) (Expected day: 20th of Month)
 - **Coverage Span:** `2016-03-11` to `2026-07-28`
-- **Latest Ingested Document:** `test_july2026.pdf` (Status: **DUE (83d, cadence monthly)**)
+- **Latest Ingested Document:** `live_ppa_cargo_stats_by_destination_origin_july2026_pdf.pdf` (Status: **DUE (83d, cadence monthly)**)
 - **Sample Ingested Report (Corpus):** [`ff4753bc9213.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/09-ppa/ppa_pdf/ff4753bc9213.pdf)
 - **Sample Extracted Markdown (Digest):** [`world_crude_steel_monthly.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/world_crude_steel_monthly.csv)
 - **Raw Corpus Inventory:** 518 PDFs
