@@ -142,7 +142,12 @@ def test_alibra_time_charter_integrity():
         dry_rows = list(csv.DictReader(f))
     assert len(dry_rows) >= 5000, f"Expected >= 5,000 Dry TC rows, got {len(dry_rows)}"
     assert all(r["rate_usd_pdpr"] and int(r["rate_usd_pdpr"]) > 0 for r in dry_rows)
-    assert all(r["trend"] in ("up", "down", "flat") for r in dry_rows)
+    # n/a only where the publisher's image prints no marker (2024-01-10 PANA/KMAX 6-month ATL cell is garbled)
+    no_marker = {("2024-01-10", "PANA/KMAX", "ATL")}
+    assert all(r["trend"] in ("up", "down", "flat")
+               or (r["trend"] == "n/a" and (r["issue_date"], r["vessel_class"], r["basin"]) in no_marker)
+               for r in dry_rows)
+    assert all(r["tenor"] in ("6 MOS", "4/6 MOS", "1 YR", "2 YR") for r in dry_rows)
 
     with open(wet_csv, "r", encoding="utf-8") as f:
         wet_rows = list(csv.DictReader(f))

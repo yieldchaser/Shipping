@@ -83,11 +83,8 @@ def parse_dry_table(md_text: str, issue_date: str, source_file: str) -> List[Dic
     if len(lines) < 3:
         return rows
 
-    col_specs = [
-        ("6 MOS", "ATL"), ("6 MOS", "PAC"),
-        ("1 YR", "ATL"), ("1 YR", "PAC"),
-        ("2 YR", "ATL"), ("2 YR", "PAC"),
-    ]
+    from alibra_image_grid import dry_cols
+    col_specs = dry_cols(issue_date)   # printed short tenor: "6 MOS" until 2022-01-05, "4/6 MOS" after
 
     for l in lines[2:]:
         parts = [p.strip() for p in l.strip("|").split("|")]

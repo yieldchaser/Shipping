@@ -798,6 +798,25 @@ REGISTRY_DATA = [
     }
 ]
 
+# Where each source's parsed MDs really live (audited 2026-10-19). The counts, dates and statuses in REGISTRY_DATA
+# above are only placeholders: refresh_registry_data() replaces every one of them from disk on each run.
+_MD_DIR_FIX = {
+    "companies_sec_filings": "corpus/10-companies",            # SEC MDs are native in the corpus (1 file in data/extracted/md/companies)
+    "maritime_books": "corpus/books",                          # data/extracted/md/books does not exist
+    "hellenic_shipbuilding": "data/extracted/md/clarksons",   # Clarksons Weekly Sales promoted there 2026-10-08
+}
+_NOTE_FIX = {
+    "maritime_books": "12 reference books; the normalized MDs live in corpus/books/ and are the GraphRAG input. "
+                      "knowledge/docs/books/ is the legacy RAG layer (built by process_knowledge.py from reports/*.pdf, "
+                      "older headings) and must not be ingested.",
+}
+for _e in REGISTRY_DATA:
+    _e["md_dir"] = _MD_DIR_FIX.get(_e["category_id"], _e["md_dir"])
+    _e["notes"] = _NOTE_FIX.get(_e["category_id"], _e["notes"])
+    if _e["category_id"] == "hellenic_shipbuilding":
+        _e["raw_match"] = r"clarkson"       # the folder also holds HSN article HTML and Breakwave PDF attachments
+        _e["superseded_by"] = "corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31)"
+
 # Granular sub-sector and vessel class breakdowns across complex multi-format publishers
 SUBSECTOR_DATA = [
     # --- Drewry Maritime AIS Fleet Performance (10 Vessel Classes) ---
@@ -1438,127 +1457,28 @@ def parse_date_from_filename(filename: str) -> Optional[date]:
 
 
 def refresh_registry_data(today: date) -> None:
-    """Dynamically refresh file counts, latest dates, days elapsed, and row counts across REGISTRY_DATA."""
+    """Measure file counts, latest issue / parsed dates, parse backlog and quality, and status for REGISTRY_DATA."""
+    if getattr(refresh_registry_data, "_done", None) == today:   # the MD and the xlsx writer both call it
+        return
+    refresh_registry_data._done = today
     global UNTRACKED_CORPUS_PATHS
     UNTRACKED_CORPUS_PATHS = _load_untracked_inventory_paths()
 
+    # Every count, date and status is measured from disk here; nothing is carried over from the placeholder
+    # values in REGISTRY_DATA (the old max(counted, hardcoded) meant a count could never go down, and no source
+    # could ever be STALE).
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import registry_facts
+    facts = registry_facts.collect(ROOT, REGISTRY_DATA, UNTRACKED_CORPUS_PATHS, parse_date_from_filename, today)
     for item in REGISTRY_DATA:
-        c_folder = ROOT / item["folder"]
-        md_folder = ROOT / item["md_dir"]
-        folder_prefix = item["folder"].replace("\\", "/").rstrip("/") + "/"
-
-        best_date = None
-        best_file = None
-
-        # 1. Union of on-disk corpus files and untracked inventory entries
-        corpus_rel_files = set()
-        if c_folder.exists():
-            for root, dirs, files in os.walk(c_folder):
-                for fname in files:
-                    if fname.startswith("."):
-                        continue
-                    rel_p = (Path(root) / fname).resolve().relative_to(ROOT.resolve()).as_posix()
-                    corpus_rel_files.add(rel_p)
-
-        for inv_p in UNTRACKED_CORPUS_PATHS:
-            if inv_p.startswith(folder_prefix):
-                fname = os.path.basename(inv_p)
-                if not fname.startswith("."):
-                    corpus_rel_files.add(inv_p)
-
-        if corpus_rel_files:
-            pdf_cnt = 0
-            html_cnt = 0
-            img_cnt = 0
-            corpus_md_cnt = 0
-            total_cnt = 0
-            for rel_p in corpus_rel_files:
-                fname = os.path.basename(rel_p)
-                total_cnt += 1
-                lower = fname.lower()
-                if lower.endswith(".pdf"):
-                    pdf_cnt += 1
-                elif lower.endswith((".html", ".htm")):
-                    html_cnt += 1
-                elif lower.endswith((".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg")):
-                    img_cnt += 1
-                elif lower.endswith(".md"):
-                    corpus_md_cnt += 1
-
-                d = parse_date_from_filename(fname)
-                if d and (best_date is None or d > best_date):
-                    best_date = d
-                    best_file = fname
-
-            item["pdf_count"] = max(pdf_cnt, item.get("pdf_count", 0))
-            item["html_count"] = max(html_cnt, item.get("html_count", 0))
-            item["image_count"] = max(img_cnt, item.get("image_count", 0))
-            item["corpus_md_count"] = max(corpus_md_cnt, item.get("corpus_md_count", 0))
-            item["total_files"] = max(total_cnt, item.get("total_files", 0))
-
-        # 2. Single-pass traversal of markdown folder
-        if md_folder.exists() and md_folder != c_folder:
-            md_cnt = 0
-            for root, dirs, files in os.walk(md_folder):
-                parent_name = os.path.basename(root)
-                is_recent_year = parent_name in ("2026", "2027")
-                for fname in files:
-                    if fname.startswith("."):
-                        continue
-                    is_md = fname.lower().endswith(".md")
-                    if is_md:
-                        md_cnt += 1
-                    d = parse_date_from_filename(fname)
-                    if d is None and is_md and is_recent_year:
-                        try:
-                            with open(os.path.join(root, fname), "r", encoding="utf-8", errors="ignore") as f_md:
-                                head_txt = f_md.read(500)
-                            fm_m = re.search(r'(?:issue_date|date):\s*["\']?(\d{4}-\d{2}-\d{2})["\']?', head_txt)
-                            if fm_m:
-                                d = parse_date_from_filename(fm_m.group(1))
-                        except Exception:
-                            pass
-                    if d and (best_date is None or d > best_date):
-                        best_date = d
-                        best_file = fname
-            item["md_count"] = max(md_cnt, item.get("md_count", 0))
-        elif corpus_rel_files and md_folder == c_folder:
-            item["md_count"] = max(item.get("corpus_md_count", 0), item.get("md_count", 0))
-
-        if best_date:
-            init_date = None
-            if item.get("latest_date"):
-                try:
-                    parts = [int(p) for p in item["latest_date"].split("-")]
-                    init_date = date(parts[0], parts[1], parts[2])
-                except Exception:
-                    pass
-
-            if init_date is None or best_date >= init_date:
-                item["latest_date"] = best_date.strftime("%Y-%m-%d")
-                if best_file:
-                    item["latest_report"] = best_file
-
-        if item.get("latest_date"):
-            try:
-                parts = [int(p) for p in item["latest_date"].split("-")]
-                rep_date = date(parts[0], parts[1], parts[2])
-                days_ago = max(0, (today - rep_date).days)
-                item["days_ago"] = days_ago
-
-                if days_ago <= 7:
-                    item["status"] = f"CURRENT ({days_ago}d ago)"
-                elif days_ago <= 14:
-                    item["status"] = f"CURRENT ({days_ago}d ago)"
-                else:
-                    if item.get("frequency") == "Monthly" and days_ago <= 65:
-                        item["status"] = f"NORMAL INTERVAL ({days_ago}d ago)"
-                    elif item.get("frequency") == "Daily / Bi-weekly" and days_ago <= 14:
-                        item["status"] = f"CURRENT ({days_ago}d ago)"
-                    else:
-                        item["status"] = f"NORMAL INTERVAL ({days_ago}d ago)"
-            except Exception:
-                pass
+        f = facts[item["category_id"]]
+        item.update(f)
+        latest = max(f["latest_raw_date"], f["latest_md_date"])
+        item["latest_date"] = latest or "n/a"
+        item["latest_report"] = (f["latest_raw_file"] if latest and latest == f["latest_raw_date"]
+                                 else f["latest_md_file"]) or "n/a"
+        item["earliest_date"] = f["earliest_md_date"] or item.get("earliest_date", "n/a")
 
         # 3. Dynamically update row counts in series_csvs
         if item.get("series_csvs"):
@@ -1587,34 +1507,54 @@ def generate_markdown_audit():
     total_corpus_mds = sum(item.get("corpus_md_count", 0) for item in REGISTRY_DATA)
     total_extracted_mds = sum(item["md_count"] for item in REGISTRY_DATA)
     total_assets = sum(item["total_files"] for item in REGISTRY_DATA)
-    current_count = sum(1 for item in REGISTRY_DATA if item["days_ago"] <= 7)
+    by_state: Dict[str, List[str]] = {}
+    for item in REGISTRY_DATA:
+        by_state.setdefault(item["status"].split(" (")[0], []).append(item["publisher"])
+    sec = next((i for i in REGISTRY_DATA if i["category_id"] == "companies_sec_filings"), None)
+    books = next((i for i in REGISTRY_DATA if i["category_id"] == "maritime_books"), None)
+    brokers = [i for i in REGISTRY_DATA if i["category_id"].startswith("broker_")]
+
+    def _names(state: str) -> str:
+        return ", ".join(by_state.get(state, [])) or "none"
 
     md_lines = [
         "# Master Corpus Registry, Publication Cadence & Extraction Audit",
         "",
         f"**Audit Snapshot Date:** {today_str} | **Repository:** Shipping Knowledge Base  ",
-        "**Authoritative Ledger:** Combines the Master Extraction Register, Live Publication Cadence, Format Breakdown, Granular Sub-Sector/Fleet Breakdown, and Vector Chart Inventory across all corpus directories.",
+        "**Generated by** `scripts/audit/generate_cadence_audit.py` on every ingest run. Every count, date and status "
+        "below is measured from disk at generation time (raw corpus folder + `corpus/_inventory_untracked.json` for "
+        "gitignored PDFs; parsed MDs with their frontmatter `issue_date` / `source_file`).",
         "",
         "---",
         "",
-        "## 1. Executive Summary & Fleet Publication Status",
+        "## 1. Executive Summary",
         "",
-        f"- **Total Raw Corpus Assets Cataloged:** Over {total_assets:,} documents across {len(REGISTRY_DATA)} discrete publishers and categories in `corpus/`.",
-        f"- **Raw Ingested Formats in Corpus:** {total_pdfs:,} PDFs, {total_html:,} HTML files, {total_imgs:,} JPG/PNG images, {total_corpus_mds:,} Native Markdown files.",
-        f"- **Normalized Extracted Markdown Dossiers:** Over {total_extracted_mds:,} cover-to-cover Markdown files in `data/extracted/md/` (accompanied by structured `.tables.json` sidecars and 98+ stacked relational CSV series).",
-        f"- **Status as of {today_str}:**",
-        f"  - **Current & Up to Date (<= 7 days ago):** {current_count} publishers/categories have their latest reports and filings fully digested.",
-        "  - **Week 40 Comprehensive Ingest:** Clarksons Hellas, Lion Shipbrokers, Agora Shipbroking, Advanced Shipping, Affinity Tankers, GMS Demolition, Best Oasis, Fearnleys Weekly, and Fearnleys Broker Voice (4,742 weekly desk comment files) have been harvested, parsed, and stacked into production series.",
-        "  - **Reference Literature:** 12 foundational maritime textbooks and handbooks fully normalized and audited with 100% byte parity in `corpus/books/` and `knowledge/docs/books/`.",
-        "  - **Normal Interval / Monthly Reporting Lag:** Seabrokers, PPA, and Drewry AIS operate on 30-to-60 day reporting cycles where August figures are published in late September or early October.",
-        "  - **Chinese National Day Notice:** Hellenic Iron Ore (MMI Daily) spot updates pause during China's Golden Week (October 1 to October 7).",
+        f"- **Raw corpus:** {total_assets:,} files across {len(REGISTRY_DATA)} sources: {total_pdfs:,} PDF, "
+        f"{total_html:,} HTML, {total_imgs:,} images, {total_corpus_mds:,} native MD.",
+        f"- **Parsed Markdown:** {total_extracted_mds:,} MDs.",
+        f"  - Broker reports: {sum(i['md_count'] for i in brokers):,} MDs from {len(brokers)} brokers.",
+        f"  - SEC filings: {sec['md_count']:,} MDs." if sec else "  - SEC filings: n/a",
+        f"  - Reference books: {books['md_count']} MDs for {books['pdf_count']} PDFs." if books else "  - Books: n/a",
+        f"- **Status ({today_str})**, from each source's cadence (CURRENT within the allowed gap, DUE up to twice it, "
+        "STALE beyond; PARSE BEHIND = a raw issue from the last 120 days has no MD near its date, or the newest MD "
+        "is older than the newest issue):",
+        f"  - CURRENT: {len(by_state.get('CURRENT', []))}",
+        f"  - DUE: {_names('DUE')}",
+        f"  - STALE: {_names('STALE')}",
+        f"  - PARSE BEHIND: {_names('PARSE BEHIND')}",
+        f"  - REFERENCE (static): {_names('REFERENCE')}",
+        f"  - SUPERSEDED (channel replaced): {_names('SUPERSEDED')}",
+        "- **Parse quality signals** (section 2): share of MDs with a `.tables.json` sidecar, MDs under "
+        f"{800} bytes, and MDs written by the orchestrator's universal fallback instead of the source's own parser.",
+        "- **GraphRAG input:** the MDs listed here (`data/extracted/md/<source>/`, `corpus/10-companies/`, "
+        "`corpus/books/`). `knowledge/docs/` is the legacy RAG layer and is not an input.",
         "",
         "---",
         "",
         "## 2. Master Publisher Cadence & Inventory Matrix",
         "",
-        f"| Publisher / Source | Cadence | Latest Issue Date | Days Elapsed | Status ({today_str}) | Raw Ingested Format (Corpus) | Extracted MD Path (data/extracted/md/) | Vector Charts Extracted | Primary Master Series CSV |",
-        "| :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- | :--- |"
+        f"| Publisher / Source | Cadence | Latest Issue (raw) | Latest Parsed MD | Status ({today_str}) | Raw Corpus | Parsed MDs | Tables sidecars | Tiny / Fallback MDs | Extracted MD Path | Charts Extracted | Primary Master Series CSV |",
+        "| :--- | :---: | :---: | :---: | :---: | :--- | ---: | ---: | :---: | :--- | :--- | :--- |"
     ]
 
     for item in REGISTRY_DATA:
@@ -1631,8 +1571,21 @@ def generate_markdown_audit():
         first_csv_parts = re.split(r",\s*(?=[a-zA-Z0-9_\-]+\.(?:csv|xlsx)|Direct)", item["series_csvs"])
         first_csv = first_csv_parts[0] if first_csv_parts else item["series_csvs"]
         md_lines.append(
-            f"| **{item['publisher']}** | {item['cadence']} | `{item['latest_date']}` | {item['days_ago']}d | **{item['status']}** | {formats_str} | [`{item['md_dir']}`](file:///{str(ROOT / item['md_dir']).replace(chr(92), '/')}) | {item['charts_extracted']} | `{first_csv}` |"
+            f"| **{item['publisher']}** | {item['cadence']} | `{item['latest_raw_date'] or 'n/a'}` | `{item['latest_md_date'] or 'n/a'}` | **{item['status']}** | {formats_str} | {item['md_count']:,} | {item['sidecar_pct']}% | {item['tiny_md']} / {item['fallback_md']} | [`{item['md_dir']}`](file:///{str(ROOT / item['md_dir']).replace(chr(92), '/')}) | {item['charts_extracted']} | `{first_csv}` |"
         )
+
+    issues = [i for i in REGISTRY_DATA if i["backlog"] or i["fallback_md"]
+              or not i["status"].startswith(("CURRENT", "REFERENCE", "SUPERSEDED"))]
+    md_lines.extend(["", "### 2.1 Sources needing attention", ""])
+    if not issues:
+        md_lines.append("None: every source is CURRENT with no parse backlog or fallback MDs.")
+    for i in issues:
+        bits = [f"status **{i['status']}**"]
+        if i["backlog"]:
+            bits.append(f"{i['backlog']} recent issue(s) without MD, e.g. " + ", ".join(f"`{x}`" for x in i["backlog_examples"]))
+        if i["fallback_md"]:
+            bits.append(f"{i['fallback_md']} universal-fallback MD(s), e.g. " + ", ".join(f"`{x}`" for x in i["fallback_examples"]))
+        md_lines.append(f"- **{i['publisher']}**: " + "; ".join(bits))
 
     md_lines.extend([
         "",
@@ -2031,7 +1984,8 @@ def generate_excel_audit():
     headers = [
         "Category ID", "Publisher / Source", "Corpus Folder", "Extracted MD Folder",
         "Cadence", "Pub Day", "Earliest Date", "Latest Date", "Days Ago",
-        f"Status ({today_str})", "PDFs (Corpus)", "HTML (Corpus)", "Images (Corpus)", "Native MD (Corpus)", "Extracted MD (data/extracted)", "Total Corpus Files",
+        f"Status ({today_str})", "Latest Issue (raw)", "Latest Parsed MD", "Parse Backlog (120d)",
+        "Tables Sidecars %", "Tiny MDs", "Fallback MDs", "PDFs (Corpus)", "HTML (Corpus)", "Images (Corpus)", "Native MD (Corpus)", "Extracted MD (data/extracted)", "Total Corpus Files",
         "Charts Extracted", "Chart Engine", "Master Series CSVs", "Primary Script", "Notes"
     ]
 
@@ -2054,6 +2008,12 @@ def generate_excel_audit():
             item["latest_date"],
             item["days_ago"],
             item["status"],
+            item["latest_raw_date"],
+            item["latest_md_date"],
+            item["backlog"],
+            item["sidecar_pct"],
+            item["tiny_md"],
+            item["fallback_md"],
             item["pdf_count"],
             item["html_count"],
             item["image_count"],
@@ -2073,17 +2033,19 @@ def generate_excel_audit():
             cell = ws.cell(row=row_idx, column=col_idx)
             cell.border = thin_border
             cell.font = Font(name="Calibri", size=10)
-            if col_idx in (1, 6, 7, 8, 9, 11, 12, 13, 14, 15):
+            if col_idx in (1, 6, 7, 8, 9) or 11 <= col_idx <= 22:
                 cell.alignment = Alignment(horizontal="center", vertical="center")
             else:
                 cell.alignment = Alignment(horizontal="left", vertical="center")
 
             # Color code status
             if col_idx == 10:
-                if "CURRENT" in item["status"]:
+                if item["status"].startswith(("CURRENT", "REFERENCE", "SUPERSEDED")):
                     cell.fill = current_fill
-                else:
+                elif item["status"].startswith("DUE"):
                     cell.fill = normal_fill
+                else:
+                    cell.fill = PatternFill(start_color="F8CBAD", end_color="F8CBAD", fill_type="solid")
 
     # Sheet 2: Images & Graphic Analytical Breakdown
     ws2 = wb.create_sheet(title="Graphic & Chart Extraction")

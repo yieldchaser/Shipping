@@ -20,6 +20,16 @@ import numpy as np
 from PIL import Image
 
 DRY_COLS = [("6 MOS", "ATL"), ("6 MOS", "PAC"), ("1 YR", "ATL"), ("1 YR", "PAC"), ("2 YR", "ATL"), ("2 YR", "PAC")]
+DRY_SHORT_TENOR_SINCE = "2022-01-12"   # the image header reads "6 MOS" up to 2022-01-05, "4/6 MOS" from 2022-01-12
+
+
+def dry_short_tenor(issue_date: str) -> str:
+    return "4/6 MOS" if str(issue_date) >= DRY_SHORT_TENOR_SINCE else "6 MOS"
+
+
+def dry_cols(issue_date: str):
+    short = dry_short_tenor(issue_date)
+    return [(short if t == "6 MOS" else t, b) for t, b in DRY_COLS]
 TNK_COLS = [("1 YR", False), ("2 YR", False), ("3 YR", True), ("5 YR", True)]   # 3/5 YEAR* = eco tonnage
 NUMTOK = re.compile(r"^\$?(\d{1,3}(?:[,.]\d{3})|\d{4,6})$")
 # OCR / parse misreads of the size labels -> the label the image prints (each checked on an image)
@@ -139,7 +149,7 @@ def verify_rows(rows: List[Dict[str, Any]], img_path: Optional[Path], cat: str, 
     if not rows or img_path is None:
         return rows
     dry = cat == "dry"
-    cols = DRY_COLS if dry else TNK_COLS
+    cols = dry_cols(rows[0]["issue_date"]) if dry else TNK_COLS
     keys = [c if dry else c[0] for c in cols]
     proto = rows[0]
     classes = list(dict.fromkeys(clean_label(r["vessel_class"]) for r in rows))

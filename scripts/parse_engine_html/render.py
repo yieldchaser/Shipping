@@ -1,6 +1,7 @@
 """Markdown + .tables.json rendering of one parsed VV issue."""
 from __future__ import annotations
 
+import re
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 
@@ -11,8 +12,8 @@ from scripts.parse_engine_html.matrix import AGES, COLUMNS, MATRIX_VERSION, Matr
 PUBLISHER = "VesselsValue (via Hellenic Shipping News)"
 SOURCE = "hellenic_vessel_valuations"
 MATRIX_HEADING = "VV Mini Matrix \u2013 Weekly Change (%)"
-DEAL_HEADERS = ("Vessel", "Class", "Size", "Built", "Yard", "Buyer", "Price ($M)", "VV Value ($M)",
-                "Premium (%)", "Comments")
+# no premium column: price / VV value - 1 is not printed in the report (premium_pct stays in the series CSV)
+DEAL_HEADERS = ("Vessel", "Class", "Size", "Built", "Yard", "Buyer", "Price ($M)", "VV Value ($M)", "Comments")
 
 OTHER_DEALS_LABEL = "**Other reported deals (as printed, not tabulated):**"
 NO_MATRIX_IMAGE = "No matrix image"
@@ -61,19 +62,29 @@ def _num(x: float | None) -> str:
     return "" if x is None else f"{x:.4f}".rstrip("0").rstrip(".")
 
 
+_TOKEN = re.compile(r"\d[\d,]*(?:\.\d+)?")
+
+
+def _printed(raw: str, value: float | None) -> str:
+    """The figure as the report prints it ('40.0', not 40) when it is already in USD million."""
+    m = _TOKEN.search(raw or "")
+    if m and value is not None and abs(float(m.group(0).replace(",", "")) - value) < 1e-9:
+        return m.group(0)
+    return _num(value)
+
+
 def deal_row(d) -> list[str]:
     size = f"{d.size_text} {d.size_unit}".strip() if d.size_text else ""
     buyer = d.buyer
     if d.seller:
         buyer = f"{buyer} (seller: {d.seller})" if buyer else f"(seller: {d.seller})"
     if d.price_usd_m is not None:
-        price = _num(d.price_usd_m)
+        price = _printed(d.price_raw, d.price_usd_m)
     else:
         price = d.price_raw or "n/a"
-    prem = "" if d.premium_pct is None else f"{d.premium_pct:+.2f}"
     cls = f"{d.count_text}x {d.vessel_class}" if d.count_text else d.vessel_class
     return [d.vessel_name, cls, size, d.built_text, d.yard, buyer, price,
-            _num(d.vv_value_usd_m), prem, d.comments_all]
+            _printed(d.vv_value_raw, d.vv_value_usd_m), d.comments_all]
 
 
 def matrix_rows(ctx: IssueContext) -> tuple[list[str], list[list[str]]]:

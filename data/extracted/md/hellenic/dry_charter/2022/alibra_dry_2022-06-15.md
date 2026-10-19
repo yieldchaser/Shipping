@@ -20,26 +20,26 @@ source_file: "corpus/02-hellenic/dry_charter/2022/2022-06-15_weekly-dry-time-cha
 
 | Size | Tenor | Basin | Rate ($/day) | Trend |
 |---|---|---|---|---|
-| HANDY (38k dwt) | 6 MOS | ATL | $21,000 | down |
-| HANDY (38k dwt) | 6 MOS | PAC | $29,850 | down |
+| HANDY (38k dwt) | 4/6 MOS | ATL | $21,000 | down |
+| HANDY (38k dwt) | 4/6 MOS | PAC | $29,850 | down |
 | HANDY (38k dwt) | 1 YR | ATL | $21,500 | down |
 | HANDY (38k dwt) | 1 YR | PAC | $24,500 | down |
 | HANDY (38k dwt) | 2 YR | ATL | $23,000 | flat |
 | HANDY (38k dwt) | 2 YR | PAC | $23,000 | down |
-| SMAX/ULTRA | 6 MOS | ATL | $25,500 | down |
-| SMAX/ULTRA | 6 MOS | PAC | $36,000 | flat |
+| SMAX/ULTRA | 4/6 MOS | ATL | $25,500 | down |
+| SMAX/ULTRA | 4/6 MOS | PAC | $36,000 | flat |
 | SMAX/ULTRA | 1 YR | ATL | $26,000 | down |
 | SMAX/ULTRA | 1 YR | PAC | $28,250 | down |
 | SMAX/ULTRA | 2 YR | ATL | $25,000 | flat |
 | SMAX/ULTRA | 2 YR | PAC | $26,500 | flat |
-| PANA/KMAX | 6 MOS | ATL | $24,500 | down |
-| PANA/KMAX | 6 MOS | PAC | $25,000 | down |
+| PANA/KMAX | 4/6 MOS | ATL | $24,500 | down |
+| PANA/KMAX | 4/6 MOS | PAC | $25,000 | down |
 | PANA/KMAX | 1 YR | ATL | $24,000 | down |
 | PANA/KMAX | 1 YR | PAC | $22,000 | down |
 | PANA/KMAX | 2 YR | ATL | $22,500 | down |
 | PANA/KMAX | 2 YR | PAC | $20,000 | down |
-| CAPESIZE | 6 MOS | ATL | $28,500 | down |
-| CAPESIZE | 6 MOS | PAC | $28,500 | down |
+| CAPESIZE | 4/6 MOS | ATL | $28,500 | down |
+| CAPESIZE | 4/6 MOS | PAC | $28,500 | down |
 | CAPESIZE | 1 YR | ATL | $26,750 | down |
 | CAPESIZE | 1 YR | PAC | $27,000 | down |
 | CAPESIZE | 2 YR | ATL | $25,000 | flat |
