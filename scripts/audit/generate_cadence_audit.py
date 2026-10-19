@@ -792,7 +792,7 @@ REGISTRY_DATA = [
         "total_files": 24,
         "charts_extracted": "Yes (LaTeX math formulas, figures, port facilities)",
         "chart_engine": "Native GFM normalizer + LaTeX math blocks ($$...$$)",
-        "series_csvs": "Clean Markdown in data/extracted/md/books/*.md and knowledge/docs/books/*.md",
+        "series_csvs": "Normalized Markdown in corpus/books/*.md (no series; text corpus)",
         "primary_script": "normalize_maritime_books.py",
         "notes": "12 foundational academic textbooks and handbooks fully normalized and audited with 100% byte parity in corpus/books/, data/extracted/md/books/, and knowledge/docs/books/."
     }
@@ -1657,7 +1657,7 @@ def generate_markdown_audit():
         "",
         "### 3.5 Maritime Reference Literature & Academic Textbooks (12 Foundational Books)",
         "",
-        "Foundational reference textbooks, econometric monographs, maritime law handbooks, port atlases, and industry literature providing the theoretical ground truth for knowledge extraction and GraphRAG semantic graph indexing. Both the raw source PDFs and normalized Markdown files reside together under [`corpus/books/`](file:///C:/Users/Dell/Github/Shipping/corpus/books) and are mirrored in [`knowledge/docs/books/`](file:///C:/Users/Dell/Github/Shipping/knowledge/docs/books):",
+        "Foundational reference textbooks, econometric monographs, maritime law handbooks, port atlases, and industry literature providing the theoretical ground truth for knowledge extraction and GraphRAG semantic graph indexing. Both the raw source PDFs and normalized Markdown files reside together under [`corpus/books/`](file:///C:/Users/Dell/Github/Shipping/corpus/books), which is the GraphRAG input (`knowledge/docs/books/` is the legacy RAG copy with older headings and is not ingested):",
         "",
         "| # | Work Title & Authors | Domain & Sector | Raw Source PDF | Normalized Markdown File | Key Structural Normalizations Applied |",
         "| :-: | :--- | :--- | :--- | :--- | :--- |",
@@ -1877,7 +1877,7 @@ def generate_markdown_audit():
         "",
         "| Feature / Dimension | Earlier Legacy Approach | Current Production Architecture |",
         "| :--- | :--- | :--- |",
-        "| **Storage Location** | Fragmented across `knowledge/docs/books/` and temporary workspace directories. | Centrally unified in `corpus/books/*.md` and mirrored with 100% byte parity in `knowledge/docs/books/*.md` (9,748,609 bytes across 139,248 lines). |",
+        "| **Storage Location** | Fragmented across `knowledge/docs/books/` and temporary workspace directories. | Centrally unified in `corpus/books/*.md` (the GraphRAG input); `knowledge/docs/books/` is the legacy copy and is not kept in parity. |",
         "| **Table Structure** | Delimiter rows missing (Stopford Tables 13.6/13.7); financial term tables flattened into plain text (Kavussanos ECA/Islamic finance). | 100% verified GFM tables with restored headers, aligned delimiters, and validated figures. |",
         "| **Mathematical Formulas** | Raw text garbled fractions, exponents, and summation signs. | Standardized LaTeX math syntax (`$formula$` and `$$display$$`). |",
         "| **Visual Inspection** | Unchecked conversion artifacts. | Cover-to-cover pixel audit of key chapters, tables, and maps rendered to high-resolution PNG artifacts. |",
