@@ -39,7 +39,11 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
    (hellenic `iron_ore/pdfs/` vs `pdfs/YYYY/`, `demolition/pdfs/` vs `pdfs/<slug>/`, `shipbuilding/breakwave_pdfs/`,
    PPA `_root_pdfs/` vs `ppa_pdf/`, `corpus/archive/`). Duplicate **MDs** (what GraphRAG reads): 11 groups.
    - [x] Hellenic MMI daily: every issue 2026-10-06..10-19 extracted twice (two filename schemes, same PDF bytes)
-   - [ ] Agora W41 2026 extracted twice (`agora_09_10_2026_*` and `agora_2026_W41_*`)
+   - [x] Agora W41 2026 extracted twice: `agora_09_10_2026_*` archived as a twin (identical PDF bytes and body)
+   - [ ] `corpus/01-brokers/_digests/` (HSN fetcher output, 215 MDs) is a second Markdown copy of the issues in
+     `data/extracted/md`. 108 are filed under `carriers/` whatever the broker. About 60 have a `raw_pdf_path` that
+     is not in the repo (twin PDFs removed, or `reports/shipbrokers/...`). `sync_digests.py` hardcodes two files.
+     Recommendation: GraphRAG reads `data/extracted/md` only and `_digests` is excluded (or removed).
    - [x] the ingest path producing the MMI twins fixed (`run_smm_iron_ore_daily.py` skips a flat PDF held in a year
      folder; `resolve_twins.py` KeyError fixed)
 

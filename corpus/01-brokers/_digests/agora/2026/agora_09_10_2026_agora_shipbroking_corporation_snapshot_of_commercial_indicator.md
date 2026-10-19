@@ -5,7 +5,7 @@ source: "agora"
 category: "broker_report"
 source_url: "https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-41-2026/"
 pdf_url: " https://www.hellenicshippingnews.com/wp-content/uploads/2026/10/AGORA.-Week-41-2026.-Snapshot-of-Commercial-Indicators.pdf"
-raw_pdf_path: "corpus/01-brokers/agora/2026/agora_09_10_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.pdf"
+raw_pdf_path: "corpus/01-brokers/agora/2026/agora_2026_W41_AGORA.-Week-41-2026.-Snapshot-of-Commercial-Indicators.pdf"
 ---
 
 # Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report – Week 41 2026

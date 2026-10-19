@@ -926,6 +926,14 @@
    "canonical_pdf": "2026-10-19_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-19th-October-2026.pdf",
    "reason": "HSN re-drop of the MMi issue: Markdown body byte-identical to the canonical (twin PDF not kept)",
    "action": "archive"
+  },
+  {
+   "twin": "data/extracted/md/agora/2026/agora_09_10_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md",
+   "canonical": "data/extracted/md/agora/2026/agora_2026_W41_AGORA.-Week-41-2026.-Snapshot-of-Commercial-Indicators.md",
+   "twin_pdf": "agora_09_10_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.pdf",
+   "canonical_pdf": "agora_2026_W41_AGORA.-Week-41-2026.-Snapshot-of-Commercial-Indicators.pdf",
+   "reason": "Week 41 2026 collected by both ingest paths: PDF bytes identical, Markdown body identical below the frontmatter (twin PDF not kept)",
+   "action": "archive"
   }
  ]
 }
