@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-10-19_2026_10_19_the_global_economy_is_navigating_a_complex_adjustment__root",
+  "doc_id": "breakwave_insights_insights_2026-10-19_2026_10_19_the_global_economy_is_navigating_a_complex_adjustment",
+  "parent_id": null,
+  "title": "The global economy is navigating a complex adjustment",
+  "section_path": [
+    "The global economy is navigating a complex adjustment"
+  ],
+  "section_path_text": "The global economy is navigating a complex adjustment",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nThe global economy is navigating a complex adjustment, with strongerthan-anticipated activity coexisting with persistent inflationary pressures, geopolitical disruption and increasingly divergent regional trajectories. In its October 2026 World Economic Outlook, entitled \"Resilience Under Strain, Urgent Choices,\" the IMF projects global growth of 3.1 percent in 2026 and 3.4 percent in 2027, modestly above its previous forecasts. Technology-related investment, resilient international trade and the adaptability of businesses have helped offset the effects of geopolitical tensions and higher energy costs.",
+  "keywords": [
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "india",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "percent",
+    "investment"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1591,
+  "source_path": "reports/breakwave/2026/2026-10-19_the-global-economy-is-navigating-a-complex-adjustment.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/10/18/the-global-economy-is-navigating-a-complex-adjustment",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-10-19_2026_10_19_the_global_economy_is_navigating_a_complex_adjustment__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-10-19_2026_10_19_the_global_economy_is_navigating_a_complex_adjustment",
+      "parent_id": "breakwave_insights_insights_2026-10-19_2026_10_19_the_global_economy_is_navigating_a_complex_adjustment__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nThe global economy is navigating a complex adjustment, with strongerthan-anticipated activity coexisting with persistent inflationary pressures, geopolitical disruption and increasingly divergent regional trajectories. In its October 2026 World Economic Outlook, entitled \"Resilience Under Strain, Urgent Choices,\" the IMF projects global growth of 3.1 percent in 2026 and 3.4 percent in 2027, modestly above its previous forecasts.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "india",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1589,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
