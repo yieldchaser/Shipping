@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_tankers_2026-10-20__root",
+  "doc_id": "breakwave_tankers_2026-10-20",
+  "parent_id": null,
+  "title": "Tanker Shipping - October 20, 2026",
+  "section_path": [
+    "Tanker Shipping - October 20, 2026"
+  ],
+  "section_path_text": "Tanker Shipping - October 20, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "VLCC Supported at Record High Amid Exceptional Geopolitical Risks - Short-term Indicators Continued attacks on shipping and energy infrastructure are keeping transportation Momentum: Negative costs exceptionally high. The reported Houthi strike on Saudi Aramco's Dhahran headquarters added to concerns over regional energy security, while recent tanker Sentiment: Positive incidents in the Gulf underline the persistent threats to maritime operations. At Fundamentals: Positive their October 12 meeting, OPEC+ ministers warned that shipping and insurance costs have now risen above one-third of commodity value, highlighting the growing Breakwave Tanker burden on international oil trade.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "yoy"
+  ],
+  "page_start": 1,
+  "page_end": 2,
+  "token_count": 1002,
+  "source_path": "reports/tankers/2026/2026-10-20_Breakwave_Tankers.pdf",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "breakwave_tankers_2026-10-20__s01_overview",
+      "doc_id": "breakwave_tankers_2026-10-20",
+      "parent_id": "breakwave_tankers_2026-10-20__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- VLCC Supported at Record High Amid Exceptional Geopolitical Risks - Short-term Indicators Continued attacks on shipping and energy infrastructure are keeping transportation Momentum: Negative costs exceptionally high. The reported Houthi strike on Saudi Aramco's Dhahran headquarters added to concerns over regional energy security, while recent tanker Sentiment: Positive incidents in the Gulf underline the persistent threats to maritime operations.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "us_gulf",
+        "crude_oil"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "token_count": 721,
+      "section_type": "overview",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_tankers_2026-10-20__s02_fundamentals",
+      "doc_id": "breakwave_tankers_2026-10-20",
+      "parent_id": "breakwave_tankers_2026-10-20__root",
+      "title": "Fundamentals",
+      "section_path": [
+        "Fundamentals"
+      ],
+      "section_path_text": "Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "- World Oil Demand (YTD: 106,744 kbpd, YOY: 1.2%)\n- Oil Supply, OPEC (YTD: 20,710 kbpd, YOY: -28.6%)\n- Oil Supply, non-OPEC (YTD: 79,417 kbpd, YOY: 8.3%)\n- OECD Total Crude Oil Stocks (YTD: 1035.5 MMbls, YOY: -1.4%)\n- US Crude Oil Exports (YTD: 31.9 MMbls, YOY: 18.6%)\n- China Oil Imports (YTD: 358.5 MMbls, YOY: -15.4%)\n- Global Crude Oil On Water (YTD: 1349.7 MMbls, YOY: 3.1%)\n- Tanker Fleet (YTD: 740.9 mdwt, YOY: 4.7%)\n- VLCC Middle East-Asia, USD/ton (YTD: 96.29, YOY: 600.6%)\n- Suezmax West Africa-Europe, USD/ton (YTD: 48.86, YOY: 184.5%)",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "yoy",
+        "ytd"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "token_count": 280,
+      "section_type": "fundamentals",
+      "children": []
+    }
+  ]
+}

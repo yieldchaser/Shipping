@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T16:55:35Z",
+ "generated_at": "2026-10-19T22:01:30Z",
  "compiler_version": 2,
  "count": 105,
  "files": [
@@ -148,7 +148,7 @@
    "path": "knowledge/chunks/breakwave_tankers_2026.jsonl",
    "stem": "breakwave_tankers_2026",
    "year": 2026,
-   "bytes": 53576
+   "bytes": 61116
   },
   {
    "file": "broker_reports_broker_report_2024.jsonl",
