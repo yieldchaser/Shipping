@@ -80,7 +80,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W08_WK-8-24-CARRIERS_SP-M
 | --- | --- | --- | --- | --- |
 | Tankers | Subcontinent | 15000 - 25000 | 512.25 | UP |
 | Containers | Subcontinent | 6000 - 10000 | N/A |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 507.0 | UP |
+| Bulkers | Subcontinent | 7000 - 12000 | 507.00 | UP |
 
 ## Market & Baltic Indices
 
@@ -108,7 +108,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W08_WK-8-24-CARRIERS_SP-M
 | CAPE 180K | 20378 | 37 | 20341 |
 | TESS 82K | 15132 | 1397 | 13735 |
 | LME 74K | 13796 | 1397 | 12399 |
-| TESS 58K | 11985.0 | 452.0 | 11533.0 |
+| TESS 58K | 11985 | 452 | 11533 |
 | HANDY 38K | 10386 | 150 | 10236 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
@@ -146,7 +146,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W08_WK-8-24-CARRIERS_SP-M
 | --- | --- | --- | --- |
 | Baltic DIRTY Tanker Index | 1338 | 53 | 1285 |
 | Baltic CLEAN Tanker Index | 1099 | -56 | 1155 |
-| VLCC TCE | 65196 | 17899 | 47297 |
-| SUEZ TCE | 48451 | 698 | 47753 |
-| AFRA TCE | 49527 | 2197 | 47330 |
-| MR ATLANTIC TC routes | 38350 | 540 | 37810 |
+| VLCC TCE | 65.196 | 17899 | 47.297 |
+| SUEZ TCE | 48.451 | 698 | 47.753 |
+| AFRA TCE | 49.527 | 2197 | 47.330 |
+| MR ATLANTIC TC routes | 38.350 | 540 | 37.810 |

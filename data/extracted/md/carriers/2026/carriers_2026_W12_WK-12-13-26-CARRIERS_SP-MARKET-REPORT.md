@@ -66,7 +66,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W12_WK-12-13-26-CARRIERS_
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 448.0 | UP |
+| Tankers | Subcontinent | 15000 - 25000 | 448.00 | UP |
 | Containers | Subcontinent | 6000 - 10000 | N/A |  |
 | Bulkers | Subcontinent | 7000 - 12000 | 436.39 | UP |
 
@@ -134,7 +134,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W12_WK-12-13-26-CARRIERS_
 | --- | --- | --- | --- |
 | Baltic DIRTY Tanker Index | 3723 | 603 | 3120 |
 | Baltic CLEAN Tanker Index | 1930 | 182 | 1748 |
-| VLCC TCE | 204003 | -10479 | 214482 |
-| SUEZ TCE | 267694 | 78156 | 189538 |
-| AFRA TCE | 232070 | 72642 | 159428 |
-| MR ATLANTIC TC routes | 81640 | -8957 | 90597 |
+| VLCC TCE | 204.003 | -10479 | 214.482 |
+| SUEZ TCE | 267.694 | 78156 | 189.538 |
+| AFRA TCE | 232.070 | 72642 | 159.428 |
+| MR ATLANTIC TC routes | 81.640 | -8957 | 90.597 |

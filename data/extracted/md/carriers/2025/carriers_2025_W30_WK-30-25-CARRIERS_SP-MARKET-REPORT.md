@@ -67,7 +67,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W30_WK-30-25-CARRIERS_SP-
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 420.0 | DOWN |
+| Tankers | Subcontinent | 15000 - 25000 | 420.00 | DOWN |
 | Containers | Subcontinent | 6000 - 10000 | N/A |  |
 | Bulkers | Subcontinent | 7000 - 12000 | 410.81 | DOWN |
 
@@ -135,7 +135,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W30_WK-30-25-CARRIERS_SP-
 | --- | --- | --- | --- |
 | Baltic DIRTY Tanker Index | 881 | -28 | 909 |
 | Baltic CLEAN Tanker Index | 659 | 38 | 621 |
-| VLCC TCE | 27626 | -6552 | 34178 |
-| SUEZ TCE | 30261 | -940 | 31201 |
-| AFRA TCE | 23519 | -588 | 24107 |
-| MR ATLANTIC TC routes | 30076 | 11904 | 18172 |
+| VLCC TCE | 27.626 | -6552 | 34.178 |
+| SUEZ TCE | 30.261 | -940 | 31.201 |
+| AFRA TCE | 23.519 | -588 | 24.107 |
+| MR ATLANTIC TC routes | 30.076 | 11904 | 18.172 |

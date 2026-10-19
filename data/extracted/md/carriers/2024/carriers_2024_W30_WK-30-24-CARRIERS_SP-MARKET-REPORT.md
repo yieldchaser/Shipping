@@ -108,7 +108,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W30_WK-30-24-CARRIERS_SP-
 | CAPE 180K | 24521 | -2537 | 27058 |
 | TESS 82K | 15405 | 85 | 15320 |
 | LME 74K | 14069 | 1671 | 12398 |
-| TESS 58K | 15116.0 | 71.0 | 15045.0 |
+| TESS 58K | 15116 | 71 | 15045 |
 | HANDY 38K | 13612 | 252 | 13360 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
@@ -146,7 +146,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W30_WK-30-24-CARRIERS_SP-
 | --- | --- | --- | --- |
 | Baltic DIRTY Tanker Index | 1054 | -3 | 1057 |
 | Baltic CLEAN Tanker Index | 822 | -20 | 842 |
-| VLCC TCE | 32903 | 5039 | 27864 |
-| SUEZ TCE | 34861 | -5914 | 40775 |
-| AFRA TCE | 38728 | -1255 | 39983 |
-| MR ATLANTIC TC routes | 37764 | -3862 | 41626 |
+| VLCC TCE | 32.903 | 5039 | 27.864 |
+| SUEZ TCE | 34.861 | -5914 | 40.775 |
+| AFRA TCE | 38.728 | -1255 | 39.983 |
+| MR ATLANTIC TC routes | 37.764 | -3862 | 41.626 |

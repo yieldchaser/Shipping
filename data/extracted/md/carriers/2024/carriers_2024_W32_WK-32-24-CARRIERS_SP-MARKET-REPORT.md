@@ -31,7 +31,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W32_WK-32-24-CARRIERS_SP-
 | NAVE ORBIT | TANKER | 49999 | 2009 | SPP Shipbuilding | 26.00 | UNDISCLOSED | SS/DD due 10/2024 |
 | LINCOLN PARK | TANKER | 19801 | 2012 | Kitanihon Shipbuilding | 25.50 | CHINESE |  |
 | AGARTHA | TANKER | 4693 | 2003 | Ceksan,Turkey | 4.80 | UNDISCLOSED |  |
-| YAS | ETHYLENE | 9023.0 | 2014 | STX Busan | 28.50 | DONG-A TANKER | including tc till 11/2024 |
+| YAS | ETHYLENE | 9,023 | 2014 | STX Busan | 28.50 | DONG-A TANKER | including tc till 11/2024 |
 
 ## Demolition Market
 
@@ -76,7 +76,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W32_WK-32-24-CARRIERS_SP-
 | Recycling Index | TSRA | 12.437 |  |  | DOWN |
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
-| Newbuilding Index | DNBI | 5.0 |  |  | UP |
+| Newbuilding Index | DNBI | 5 |  |  | UP |
 | Newbuilding Index | TNBI | 7.703 |  |  | UP |
 | Baltic Dry Indices | BDI | 1677 | -120 | 1797 |  |
 | Baltic Dry Indices | BCI | 2351 | -231 | 2582 |  |
@@ -91,7 +91,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W32_WK-32-24-CARRIERS_SP-
 | CAPE 180K | 19499 | -1901 | 21411 |
 | TESS 82K | 15273 | -859 | 16132 |
 | LME 74K | 13937 | -859 | 14796 |
-| TESS 58K | 14635.0 | -581.0 | 15216.0 |
+| TESS 58K | 14635 | -581 | 15216 |
 | HANDY 38K | 13649 | -21 | 13670 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
@@ -129,7 +129,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W32_WK-32-24-CARRIERS_SP-
 | --- | --- | --- | --- |
 | Baltic DIRTY Tanker Index | 940 | -77 | 1017 |
 | Baltic CLEAN Tanker Index | 729 | -77 | 806 |
-| VLCC TCE | 27770 | -5524 | 33294 |
-| SUEZ TCE | 27020 | -4975 | 31995 |
-| AFRA TCE | 28599 | -5698 | 34297 |
-| MR ATLANTIC TC routes | 34800 | -76 | 34876 |
+| VLCC TCE | 27.770 | -5524 | 33.294 |
+| SUEZ TCE | 27.020 | -4975 | 31.995 |
+| AFRA TCE | 28.599 | -5698 | 34.297 |
+| MR ATLANTIC TC routes | 34.800 | -76 | 34.876 |

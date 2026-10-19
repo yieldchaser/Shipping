@@ -82,7 +82,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W30_WK-30-26-CARRIERS_SP-
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI | 5.091 |  |  | UP |
 | Newbuilding Index | TNBI | 8.045 |  |  | UP |
-| Baltic Dry Indices | BDI | 2696.0 | 25.0 | 2671.0 |  |
+| Baltic Dry Indices | BDI | 2696 | 25 | 2671 |  |
 | Baltic Dry Indices | BCI | 4200 | 311 | 3889 |  |
 | Baltic Dry Indices | BPI | 1999 | -228 | 2227 |  |
 | Baltic Dry Indices | BSI | 1670 | -68 | 1738 |  |
@@ -133,7 +133,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W30_WK-30-26-CARRIERS_SP-
 | --- | --- | --- | --- |
 | Baltic DIRTY Tanker Index | 2582 | 284 | 2298 |
 | Baltic CLEAN Tanker Index | 1379 | 117 | 1262 |
-| VLCC TCE | 199194 | 3547 | 195647 |
-| SUEZ TCE | 180150 | 30369 | 149781 |
-| AFRA TCE | 109034 | 22505 | 86529 |
-| MR ATLANTIC TC routes | 40292 | 5278 | 35014 |
+| VLCC TCE | 199.194 | 3547 | 195.647 |
+| SUEZ TCE | 180.150 | 30369 | 149.781 |
+| AFRA TCE | 109.034 | 22505 | 86.529 |
+| MR ATLANTIC TC routes | 40.292 | 5278 | 35.014 |

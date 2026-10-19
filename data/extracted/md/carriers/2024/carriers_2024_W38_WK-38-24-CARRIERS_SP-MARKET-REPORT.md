@@ -38,7 +38,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W38_WK-38-24-CARRIERS_SP-
 | GREAT ARSENAL | BC | 26566 | 1997 | Imabari Shbldg - Imabari | 4.85 | UNDISCLOSED |  |
 | CAPTAIN X KYRIAKOU | TANKER | 299991 | 2013 | Hyundai Heavy Inds - Ulsan | 80.00 | UNDISCLOSED |  |
 | JAG LALIT | TANKER | 158344 | 2005 | Hyundai Samho HI | 33.00 | UNDISCLOSED |  |
-| INF LIGHT | TANKER | 72735 | 2006 | Dalian Shipbuilding Ind - No 1 | 17.00 | UNDISCLOSED |  |
+| INF LIGHT | TANKER | 72.735 | 2006 | Dalian Shipbuilding Ind - No 1 | 17.00 | UNDISCLOSED |  |
 | GRACE COSMOS | LNG | 85224 | 2008 | Hyundai Heavy Inds - Ulsan | HIGH 50'S | CHINESE |  |
 | HOEGH NEW YORK | PCTC | 21099 | 2005 | Daewoo Shipbuilding & Marine | 60.60 | UNDISCLOSED | 6,545 CEU |
 
@@ -140,7 +140,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W38_WK-38-24-CARRIERS_SP-
 | --- | --- | --- | --- |
 | Baltic DIRTY Tanker Index | 882 | 2 | 880 |
 | Baltic CLEAN Tanker Index | 644 | 53 | 591 |
-| VLCC TCE | 34938 | 3394 | 31544 |
-| SUEZ TCE | 22824 | 45 | 22779 |
-| AFRA TCE | 22757 | 26 | 22731 |
-| MR ATLANTIC TC routes | 23696 | -422 | 24118 |
+| VLCC TCE | 34.938 | 3394 | 31.544 |
+| SUEZ TCE | 22.824 | 45 | 22.779 |
+| AFRA TCE | 22.757 | 26 | 22.731 |
+| MR ATLANTIC TC routes | 23.696 | -422 | 24.118 |

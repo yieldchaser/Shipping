@@ -63,7 +63,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W14_WK-14-26-CARRIERS_SP-
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 448.0 | UP |
+| Tankers | Subcontinent | 15000 - 25000 | 448.00 | UP |
 | Containers | Subcontinent | 6000 - 10000 | N/A |  |
 | Bulkers | Subcontinent | 7000 - 12000 | 436.39 | UP |
 
@@ -78,7 +78,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W14_WK-14-26-CARRIERS_SP-
 | Recycling Index | TSRA | 10.905 |  |  | UP |
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
-| Newbuilding Index | DNBI | 5.0 |  |  | UP |
+| Newbuilding Index | DNBI | 5 |  |  | UP |
 | Newbuilding Index | TNBI | 7.838 |  |  | UP |
 | Baltic Dry Indices | BDI | 2095 | 78 | 2017 |  |
 | Baltic Dry Indices | BCI | 3148 | 144 | 3004 |  |
@@ -131,7 +131,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W14_WK-14-26-CARRIERS_SP-
 | --- | --- | --- | --- |
 | Baltic DIRTY Tanker Index | 3498 | -225 | 3723 |
 | Baltic CLEAN Tanker Index | 1972 | 42 | 1930 |
-| VLCC TCE | 206358 | 2355 | 204003 |
-| SUEZ TCE | 236326 | -31368 | 267694 |
-| AFRA TCE | 208547 | -23523 | 232070 |
-| MR ATLANTIC TC routes | 97808 | 16168 | 81640 |
+| VLCC TCE | 206.358 | 2355 | 204.003 |
+| SUEZ TCE | 236.326 | -31368 | 267.694 |
+| AFRA TCE | 208.547 | -23523 | 232.070 |
+| MR ATLANTIC TC routes | 97.808 | 16168 | 81.640 |

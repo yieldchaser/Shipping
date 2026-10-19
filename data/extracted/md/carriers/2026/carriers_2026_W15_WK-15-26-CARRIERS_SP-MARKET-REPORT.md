@@ -88,7 +88,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W15_WK-15-26-CARRIERS_SP-
 | Recycling Index | TSRA | 11.124 |  |  | UP |
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
-| Newbuilding Index | DNBI | 5.0 |  |  | UP |
+| Newbuilding Index | DNBI | 5 |  |  | UP |
 | Newbuilding Index | TNBI | 7.838 |  |  | UP |
 | Baltic Dry Indices | BDI | 2250 | 155 | 2095 |  |
 | Baltic Dry Indices | BCI | 3437 | 289 | 3148 |  |
@@ -141,7 +141,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W15_WK-15-26-CARRIERS_SP-
 | --- | --- | --- | --- |
 | Baltic DIRTY Tanker Index | 3422 | -76 | 3498 |
 | Baltic CLEAN Tanker Index | 2146 | 174 | 1972 |
-| VLCC TCE | 232914 | 26556 | 206358 |
-| SUEZ TCE | 216943 | -19383 | 236326 |
-| AFRA TCE | 169182 | -39365 | 208547 |
-| MR ATLANTIC TC routes | 113755 | 15947 | 97808 |
+| VLCC TCE | 232.914 | 26556 | 206.358 |
+| SUEZ TCE | 216.943 | -19383 | 236.326 |
+| AFRA TCE | 169.182 | -39365 | 208.547 |
+| MR ATLANTIC TC routes | 113.755 | 15947 | 97.808 |

@@ -88,7 +88,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W22_WK-22-4-26-CARRIERS_S
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI | 5.084 |  |  | UP |
 | Newbuilding Index | TNBI | 7.990 |  |  | UP |
-| Baltic Dry Indices | BDI | 2720.0 | -196.0 | 2916.0 |  |
+| Baltic Dry Indices | BDI | 2720 | -196 | 2916 |  |
 | Baltic Dry Indices | BCI | 4053 | -666 | 4719 |  |
 | Baltic Dry Indices | BPI | 2291 | 73 | 2218 |  |
 | Baltic Dry Indices | BSI | 1664 | 68 | 1596 |  |
@@ -101,8 +101,8 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W22_WK-22-4-26-CARRIERS_S
 | CAPE 180K | 36756 | -6042 | 42798 |
 | TESS 82K | 20617 | 651 | 19966 |
 | LME 74K |  |  |  |
-| SUPRA 63K |  | 871 | 20168 |
-| HANDY 38K |  | 724 | 15565 |
+| SUPRA 63K | 21,039 | 871 | 20168 |
+| HANDY 38K | 16,289 | 724 | 15565 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
@@ -139,7 +139,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W22_WK-22-4-26-CARRIERS_S
 | --- | --- | --- | --- |
 | Baltic DIRTY Tanker Index | 1939 | -11 | 1950 |
 | Baltic CLEAN Tanker Index | 1363 | 0 | 1363 |
-| VLCC TCE | 205778 | 4246 | 201532 |
-| SUEZ TCE | 93557 | 1374 | 92183 |
-| AFRA TCE | 44500 | 728 | 43772 |
-| MR ATLANTIC TC routes | 29343 | -4571 | 33914 |
+| VLCC TCE | 205.778 | 4246 | 201.532 |
+| SUEZ TCE | 93.557 | 1374 | 92.183 |
+| AFRA TCE | 44.500 | 728 | 43.772 |
+| MR ATLANTIC TC routes | 29.343 | -4571 | 33.914 |
