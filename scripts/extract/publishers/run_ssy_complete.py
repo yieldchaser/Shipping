@@ -274,6 +274,14 @@ def extract_commentary_and_notes(doc: pymupdf.Document) -> dict:
             if not t_clean.startswith("SSY ") or len(t_clean) > 40:
                 commentary_paras.append(t_clean)
 
+    # the note wraps into a second text block ('... The latest update' / 'was on 26 June 2023.'): complete it
+    # from the page text up to its closing year
+    page = re.sub(r"\s+", " ", doc[0].get_text())
+    for i, n in enumerate(index_notes):
+        m = re.search(re.escape(n) + r"[^.]*?\d{4}\.", page)
+        if m:
+            index_notes[i] = m.group(0)
+
     return {
         "market_commentary": " ".join(commentary_paras) if commentary_paras else None,
         "index_notes": " ".join(index_notes) if index_notes else None,
@@ -420,11 +428,10 @@ def generate_markdown(meta: dict, comm: dict, tables: dict, source_rel: str) -> 
         ""
     ]
 
-    if comm.get("market_commentary"):
-        lines.append(comm["market_commentary"])
+    if comm.get("market_commentary"):  # most issues print none; no placeholder text is written for them
+        lines += [comm["market_commentary"], ""]
     else:
-        lines.append("*No desk narrative commentary published in this issue (pure quantitative data dashboard format).*")
-    lines.append("")
+        lines = lines[:-2]
 
     # Route Rates Table
     prev_d = meta["rates_date_prev"] or "Previous"
@@ -433,14 +440,14 @@ def generate_markdown(meta: dict, comm: dict, tables: dict, source_rel: str) -> 
     lines.extend([
         "## Route Freight Rates ($/t)",
         "",
-        f"| Route | Cargo Size | Weight (%) | {prev_d} ($/t) | {curr_d} ($/t) | Change ($/t) |",
-        "|---|---|---|---|---|---|"
+        f"| Route | Cargo Size | Weight (%) | {prev_d} ($/t) | {curr_d} ($/t) |",
+        "|---|---|---|---|---|"
     ])
+    # the report prints the two rate columns only; change_usd_t (computed) stays in the JSON, not the MD
     for r in tables["trade_rates"]:
-        chg_str = f"{r['change_usd_t']:+.2f}" if r["change_usd_t"] is not None else ""
         prev_str = f"{r['rate_prev']:.2f}" if r["rate_prev"] is not None else ""
         curr_str = f"{r['rate_curr']:.2f}" if r["rate_curr"] is not None else ""
-        lines.append(f"| {r['route']} | {r['cargo_size']} | {r['weight_pct']} | {prev_str} | {curr_str} | {chg_str} |")
+        lines.append(f"| {r['route']} | {r['cargo_size']} | {r['weight_pct']} | {prev_str} | {curr_str} |")
     lines.append("")
 
     # Calculated Index Table
@@ -471,18 +478,19 @@ def generate_markdown(meta: dict, comm: dict, tables: dict, source_rel: str) -> 
     lines.append("")
 
     # Timecharter Day Rates
-    if tables["timecharter_day_rates"]:
+    # printed table rows only: rows rebuilt from the commentary prose (2021-22) are already in the commentary
+    tc_rows = [tc for tc in tables["timecharter_day_rates"] if tc["source"] == "table"]
+    if tc_rows:
         lines.extend([
             "## Timecharter Equivalents ($/Day)",
             "",
-            f"| Route | Cargo Size | {prev_d} ($/Day) | {curr_d} ($/Day) | Change ($/Day) | Source |",
-            "|---|---|---|---|---|---|"
+            f"| Route | Cargo Size | {prev_d} ($/Day) | {curr_d} ($/Day) |",
+            "|---|---|---|---|"
         ])
-        for tc in tables["timecharter_day_rates"]:
+        for tc in tc_rows:
             prev_s = f"${tc['day_rate_prev']:,.0f}" if tc["day_rate_prev"] is not None else "—"
             curr_s = f"${tc['day_rate_curr']:,.0f}" if tc["day_rate_curr"] is not None else "—"
-            chg_s = f"{tc['change_usd_day']:+,.0f}" if tc["change_usd_day"] is not None else "—"
-            lines.append(f"| {tc['route']} | {tc['cargo_size'] or '180,000 DWT'} | {prev_s} | {curr_s} | {chg_s} | {tc['source']} |")
+            lines.append(f"| {tc['route']} | {tc['cargo_size']} | {prev_s} | {curr_s} |")
         lines.append("")
 
     # Index Inception Notes & Contact

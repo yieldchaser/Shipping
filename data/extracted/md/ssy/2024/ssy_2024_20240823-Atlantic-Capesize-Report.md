@@ -16,24 +16,20 @@ source_file: "corpus/01-brokers/ssy/2024/ssy_2024_20240823-Atlantic-Capesize-Rep
 **Assessment Dates:** Current: 2024-08-23 | Previous: 2024-08-16  
 **Source Document:** `corpus/01-brokers/ssy/2024/ssy_2024_20240823-Atlantic-Capesize-Report.pdf`
 
-## Market Commentary
-
-*No desk narrative commentary published in this issue (pure quantitative data dashboard format).*
-
 ## Route Freight Rates ($/t)
 
-| Route | Cargo Size | Weight (%) | 2024-08-16 ($/t) | 2024-08-23 ($/t) | Change ($/t) |
-|---|---|---|---|---|---|
-| NARVIK/ROTTERDAM | 150,000/10% | 10% | 3.90 | 4.15 | +0.25 |
-| TUBARAO/ROTTERDAM | 170,000/10% | 10% | 9.25 | 9.90 | +0.65 |
-| RICHARDS BAY/ROTTERDAM | 150,000/10% | 10% | 7.70 | 8.35 | +0.65 |
-| SEVEN ISLANDS/ROTTERDAM | 170,000/10% | 10% | 7.45 | 7.75 | +0.30 |
-| PUERTO BOLIVAR/ROTTERDAM | 160,000/10% | 10% | 10.55 | 11.25 | +0.70 |
-| NOUADHIBOU/QINGDAO | 170,000/10% | 10% | 26.75 | 28.00 | +1.25 |
-| TUBARAO/JAPAN | 160,000/10% | 10% | 24.75 | 26.00 | +1.25 |
-| TUBARAO/QINGDAO | 160,000/10% | 10% | 25.05 | 26.30 | +1.25 |
-| T/C TRIP CONT/FAR EAST | 180,000 DWT | 10% | 7.91 | 8.36 | +0.45 |
-| T/C TRANSATLANTIC ROUND | 180,000 DWT | 10% | 2.45 | 2.90 | +0.45 |
+| Route | Cargo Size | Weight (%) | 2024-08-16 ($/t) | 2024-08-23 ($/t) |
+|---|---|---|---|---|
+| NARVIK/ROTTERDAM | 150,000/10% | 10% | 3.90 | 4.15 |
+| TUBARAO/ROTTERDAM | 170,000/10% | 10% | 9.25 | 9.90 |
+| RICHARDS BAY/ROTTERDAM | 150,000/10% | 10% | 7.70 | 8.35 |
+| SEVEN ISLANDS/ROTTERDAM | 170,000/10% | 10% | 7.45 | 7.75 |
+| PUERTO BOLIVAR/ROTTERDAM | 160,000/10% | 10% | 10.55 | 11.25 |
+| NOUADHIBOU/QINGDAO | 170,000/10% | 10% | 26.75 | 28.00 |
+| TUBARAO/JAPAN | 160,000/10% | 10% | 24.75 | 26.00 |
+| TUBARAO/QINGDAO | 160,000/10% | 10% | 25.05 | 26.30 |
+| T/C TRIP CONT/FAR EAST | 180,000 DWT | 10% | 7.91 | 8.36 |
+| T/C TRANSATLANTIC ROUND | 180,000 DWT | 10% | 2.45 | 2.90 |
 
 ## Calculated Index & Historical Changes
 
@@ -47,12 +43,12 @@ source_file: "corpus/01-brokers/ssy/2024/ssy_2024_20240823-Atlantic-Capesize-Rep
 
 ## Timecharter Equivalents ($/Day)
 
-| Route | Cargo Size | 2024-08-16 ($/Day) | 2024-08-23 ($/Day) | Change ($/Day) | Source |
-|---|---|---|---|---|---|
-| T/C TRIP CONT/FAR EAST | 180,000 DWT | $46,850 | $49,500 | +2,650 | table |
-| T/C TRANSATLANTIC ROUND | 180,000 DWT | $14,500 | $17,150 | +2,650 | table |
+| Route | Cargo Size | 2024-08-16 ($/Day) | 2024-08-23 ($/Day) |
+|---|---|---|---|
+| T/C TRIP CONT/FAR EAST | 180,000 DWT | $46,850 | $49,500 |
+| T/C TRANSATLANTIC ROUND | 180,000 DWT | $14,500 | $17,150 |
 
 ## Index Background & Contact
 
-**Index Definition:** The Atlantic Capesize Index started at 5,000 points on 2 October 1989 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was on 26  
+**Index Definition:** The Atlantic Capesize Index started at 5,000 points on 2 October 1989 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was on 26 June 2023.  
 **Contact:** For more information please contact David Beard/Roar Adland

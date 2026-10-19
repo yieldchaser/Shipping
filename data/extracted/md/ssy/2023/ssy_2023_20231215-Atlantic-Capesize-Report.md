@@ -22,18 +22,18 @@ The SSY Atlantic Capesize Index weakened 1,961 points in the past week to 11,949
 
 ## Route Freight Rates ($/t)
 
-| Route | Cargo Size | Weight (%) | 2023-12-08 ($/t) | 2023-12-15 ($/t) | Change ($/t) |
-|---|---|---|---|---|---|
-| NARVIK/ROTTERDAM | 150,000/10% | 10% | 12.20 | 10.10 | -2.10 |
-| TUBARAO/ROTTERDAM | 160,000/10% | 10% | 16.20 | 15.20 | -1.00 |
-| RICHARDS BAY/ROTTERDAM | 150,000/10% | 10% | 14.40 | 13.35 | -1.05 |
-| SEVEN ISLANDS/ROTTERDAM | 170,000/10% | 10% | 12.65 | 10.25 | -2.40 |
-| PUERTO BOLIVAR/ROTTERDAM | 150,000/10% | 10% | 20.15 | 17.50 | -2.65 |
-| NOUADHIBOU/QINGDAO | 140,000/10% | 10% | 30.15 | 26.30 | -3.85 |
-| TUBARAO/JAPAN | 160,000/10% | 10% | 28.05 | 24.20 | -3.85 |
-| TUBARAO/QINGDAO | 160,000/10% | 10% | 28.35 | 24.50 | -3.85 |
-| T/C TRIP CONT/FAR EAST | 180,000 DWT | 10% | 10.67 | 8.40 | -2.27 |
-| T/C TRANSATLANTIC ROUND | 180,000 DWT | 10% | 8.47 | 7.07 | -1.40 |
+| Route | Cargo Size | Weight (%) | 2023-12-08 ($/t) | 2023-12-15 ($/t) |
+|---|---|---|---|---|
+| NARVIK/ROTTERDAM | 150,000/10% | 10% | 12.20 | 10.10 |
+| TUBARAO/ROTTERDAM | 160,000/10% | 10% | 16.20 | 15.20 |
+| RICHARDS BAY/ROTTERDAM | 150,000/10% | 10% | 14.40 | 13.35 |
+| SEVEN ISLANDS/ROTTERDAM | 170,000/10% | 10% | 12.65 | 10.25 |
+| PUERTO BOLIVAR/ROTTERDAM | 150,000/10% | 10% | 20.15 | 17.50 |
+| NOUADHIBOU/QINGDAO | 140,000/10% | 10% | 30.15 | 26.30 |
+| TUBARAO/JAPAN | 160,000/10% | 10% | 28.05 | 24.20 |
+| TUBARAO/QINGDAO | 160,000/10% | 10% | 28.35 | 24.50 |
+| T/C TRIP CONT/FAR EAST | 180,000 DWT | 10% | 10.67 | 8.40 |
+| T/C TRANSATLANTIC ROUND | 180,000 DWT | 10% | 8.47 | 7.07 |
 
 ## Calculated Index & Historical Changes
 
@@ -47,10 +47,10 @@ The SSY Atlantic Capesize Index weakened 1,961 points in the past week to 11,949
 
 ## Timecharter Equivalents ($/Day)
 
-| Route | Cargo Size | 2023-12-08 ($/Day) | 2023-12-15 ($/Day) | Change ($/Day) | Source |
-|---|---|---|---|---|---|
-| T/C TRIP CONT/FAR EAST | 180,000 DWT | $63,150 | $49,750 | -13,400 | table |
-| T/C TRANSATLANTIC ROUND | 180,000 DWT | $50,150 | $41,850 | -8,300 | table |
+| Route | Cargo Size | 2023-12-08 ($/Day) | 2023-12-15 ($/Day) |
+|---|---|---|---|
+| T/C TRIP CONT/FAR EAST | 180,000 DWT | $63,150 | $49,750 |
+| T/C TRANSATLANTIC ROUND | 180,000 DWT | $50,150 | $41,850 |
 
 ## Index Background & Contact
 

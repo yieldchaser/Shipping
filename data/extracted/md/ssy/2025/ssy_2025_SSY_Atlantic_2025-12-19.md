@@ -16,24 +16,20 @@ source_file: "corpus/01-brokers/ssy/2025/ssy_2025_SSY_Atlantic_2025-12-19.pdf"
 **Assessment Dates:** Current: 2025-12-19 | Previous: 2025-12-12  
 **Source Document:** `corpus/01-brokers/ssy/2025/ssy_2025_SSY_Atlantic_2025-12-19.pdf`
 
-## Market Commentary
-
-*No desk narrative commentary published in this issue (pure quantitative data dashboard format).*
-
 ## Route Freight Rates ($/t)
 
-| Route | Cargo Size | Weight (%) | 2025-12-12 ($/t) | 2025-12-19 ($/t) | Change ($/t) |
-|---|---|---|---|---|---|
-| NARVIK/ROTTERDAM | 150,000/10% | 10% | 7.15 | 6.80 | -0.35 |
-| TUBARAO/ROTTERDAM | 170,000/10% | 10% | 14.10 | 14.30 | +0.20 |
-| RICHARDS BAY/ROTTERDAM | 150,000/10% | 10% | 12.90 | 13.15 | +0.25 |
-| SEVEN ISLANDS/ROTTERDAM | 170,000/10% | 10% | 12.20 | 12.10 | -0.10 |
-| PUERTO BOLIVAR/ROTTERDAM | 160,000/10% | 10% | 16.70 | 15.30 | -1.40 |
-| NOUADHIBOU/QINGDAO | 170,000/10% | 10% | 24.00 | 26.30 | +2.30 |
-| TUBARAO/JAPAN | 160,000/10% | 10% | 21.60 | 23.90 | +2.30 |
-| TUBARAO/QINGDAO | 160,000/10% | 10% | 21.90 | 24.20 | +2.30 |
-| T/C TRIP CONT/FAR EAST | 180,000 DWT | 10% | 8.98 | 8.61 | -0.37 |
-| T/C TRANSATLANTIC ROUND | 180,000 DWT | 10% | 6.31 | 5.60 | -0.71 |
+| Route | Cargo Size | Weight (%) | 2025-12-12 ($/t) | 2025-12-19 ($/t) |
+|---|---|---|---|---|
+| NARVIK/ROTTERDAM | 150,000/10% | 10% | 7.15 | 6.80 |
+| TUBARAO/ROTTERDAM | 170,000/10% | 10% | 14.10 | 14.30 |
+| RICHARDS BAY/ROTTERDAM | 150,000/10% | 10% | 12.90 | 13.15 |
+| SEVEN ISLANDS/ROTTERDAM | 170,000/10% | 10% | 12.20 | 12.10 |
+| PUERTO BOLIVAR/ROTTERDAM | 160,000/10% | 10% | 16.70 | 15.30 |
+| NOUADHIBOU/QINGDAO | 170,000/10% | 10% | 24.00 | 26.30 |
+| TUBARAO/JAPAN | 160,000/10% | 10% | 21.60 | 23.90 |
+| TUBARAO/QINGDAO | 160,000/10% | 10% | 21.90 | 24.20 |
+| T/C TRIP CONT/FAR EAST | 180,000 DWT | 10% | 8.98 | 8.61 |
+| T/C TRANSATLANTIC ROUND | 180,000 DWT | 10% | 6.31 | 5.60 |
 
 ## Calculated Index & Historical Changes
 
@@ -47,12 +43,12 @@ source_file: "corpus/01-brokers/ssy/2025/ssy_2025_SSY_Atlantic_2025-12-19.pdf"
 
 ## Timecharter Equivalents ($/Day)
 
-| Route | Cargo Size | 2025-12-12 ($/Day) | 2025-12-19 ($/Day) | Change ($/Day) | Source |
-|---|---|---|---|---|---|
-| T/C TRIP CONT/FAR EAST | 180,000 DWT | $53,150 | $51,000 | -2,150 | table |
-| T/C TRANSATLANTIC ROUND | 180,000 DWT | $37,350 | $33,150 | -4,200 | table |
+| Route | Cargo Size | 2025-12-12 ($/Day) | 2025-12-19 ($/Day) |
+|---|---|---|---|
+| T/C TRIP CONT/FAR EAST | 180,000 DWT | $53,150 | $51,000 |
+| T/C TRANSATLANTIC ROUND | 180,000 DWT | $37,350 | $33,150 |
 
 ## Index Background & Contact
 
-**Index Definition:** The Atlantic Capesize Index started at 5,000 points on 2 October 1989 and has since been subject to periodic updating to reflect changing trade patterns. The latest update  
+**Index Definition:** The Atlantic Capesize Index started at 5,000 points on 2 October 1989 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was on 26 June 2023.  
 **Contact:** For more information please contact Ben Dudman/Roar Adland

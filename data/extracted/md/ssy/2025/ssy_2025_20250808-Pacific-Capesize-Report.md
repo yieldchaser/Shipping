@@ -16,24 +16,20 @@ source_file: "corpus/01-brokers/ssy/2025/ssy_2025_20250808-Pacific-Capesize-Repo
 **Assessment Dates:** Current: 2025-08-08 | Previous: 2025-08-01  
 **Source Document:** `corpus/01-brokers/ssy/2025/ssy_2025_20250808-Pacific-Capesize-Report.pdf`
 
-## Market Commentary
-
-*No desk narrative commentary published in this issue (pure quantitative data dashboard format).*
-
 ## Route Freight Rates ($/t)
 
-| Route | Cargo Size | Weight (%) | 2025-08-01 ($/t) | 2025-08-08 ($/t) | Change ($/t) |
-|---|---|---|---|---|---|
-| RICHARDS BAY/MUNDRA | 150,000/10% | 10% | 10.95 | 12.10 | +1.15 |
-| DAMPIER/QINGDAO | 170,000/10% | 10% | 10.70 | 10.60 | -0.10 |
-| SALDAHNA BAY/QINGDAO | 170,000/10% | 10% | 17.85 | 19.00 | +1.15 |
-| RICHARDS BAY/FANGCHENG | 150,000/10% | 10% | 15.70 | 16.85 | +1.15 |
-| CAPE LAMBERT/ROTTERDAM | 160,000/10% | 10% | 13.30 | 13.55 | +0.25 |
-| QUEENSLAND/JAPAN | 150,000/10% | 10% | 12.20 | 12.40 | +0.20 |
-| QUEENSLAND/ROTTERDAM | 150,000/10% | 10% | 19.90 | 20.30 | +0.40 |
-| NSW/ZHOUSHAN | 130,000/10% | 10% | 13.50 | 13.70 | +0.20 |
-| T/C TRIP FAR EAST/CONT | 180,000 DWT | 10% | 0.72 | 0.79 | +0.07 |
-| T/C TRANSPACIFIC ROUND | 180,000 DWT | 10% | 4.60 | 4.70 | +0.10 |
+| Route | Cargo Size | Weight (%) | 2025-08-01 ($/t) | 2025-08-08 ($/t) |
+|---|---|---|---|---|
+| RICHARDS BAY/MUNDRA | 150,000/10% | 10% | 10.95 | 12.10 |
+| DAMPIER/QINGDAO | 170,000/10% | 10% | 10.70 | 10.60 |
+| SALDAHNA BAY/QINGDAO | 170,000/10% | 10% | 17.85 | 19.00 |
+| RICHARDS BAY/FANGCHENG | 150,000/10% | 10% | 15.70 | 16.85 |
+| CAPE LAMBERT/ROTTERDAM | 160,000/10% | 10% | 13.30 | 13.55 |
+| QUEENSLAND/JAPAN | 150,000/10% | 10% | 12.20 | 12.40 |
+| QUEENSLAND/ROTTERDAM | 150,000/10% | 10% | 19.90 | 20.30 |
+| NSW/ZHOUSHAN | 130,000/10% | 10% | 13.50 | 13.70 |
+| T/C TRIP FAR EAST/CONT | 180,000 DWT | 10% | 0.72 | 0.79 |
+| T/C TRANSPACIFIC ROUND | 180,000 DWT | 10% | 4.60 | 4.70 |
 
 ## Calculated Index & Historical Changes
 
@@ -47,12 +43,12 @@ source_file: "corpus/01-brokers/ssy/2025/ssy_2025_20250808-Pacific-Capesize-Repo
 
 ## Timecharter Equivalents ($/Day)
 
-| Route | Cargo Size | 2025-08-01 ($/Day) | 2025-08-08 ($/Day) | Change ($/Day) | Source |
-|---|---|---|---|---|---|
-| T/C TRIP FAR EAST/CONT | 180,000 DWT | $4,250 | $4,650 | +400 | table |
-| T/C TRANSPACIFIC ROUND | 180,000 DWT | $27,250 | $27,850 | +600 | table |
+| Route | Cargo Size | 2025-08-01 ($/Day) | 2025-08-08 ($/Day) |
+|---|---|---|---|
+| T/C TRIP FAR EAST/CONT | 180,000 DWT | $4,250 | $4,650 |
+| T/C TRANSPACIFIC ROUND | 180,000 DWT | $27,250 | $27,850 |
 
 ## Index Background & Contact
 
-**Index Definition:** The Pacific Capesize Index started at 5,000 points on 27 December 1995 and has since been subject to periodic updating to reflect changing trade patterns. The latest  
+**Index Definition:** The Pacific Capesize Index started at 5,000 points on 27 December 1995 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was on 17 July 2015.  
 **Contact:** For more information please contact Ben Dudman/Roar Adland

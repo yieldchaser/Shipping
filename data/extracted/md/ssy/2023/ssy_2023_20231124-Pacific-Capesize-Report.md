@@ -22,18 +22,18 @@ The SSY Pacific Capesize Index went up 759 points week-on-week to 7,020. SSY’s
 
 ## Route Freight Rates ($/t)
 
-| Route | Cargo Size | Weight (%) | 2023-11-17 ($/t) | 2023-11-24 ($/t) | Change ($/t) |
-|---|---|---|---|---|---|
-| RICHARDS BAY/MUNDRA | 150,000/10% | 10% | 11.15 | 13.35 | +2.20 |
-| DAMPIER/QINGDAO | 150,000/10% | 10% | 10.25 | 11.00 | +0.75 |
-| SALDAHNA BAY/QINGDAO | 150,000/10% | 10% | 16.80 | 19.00 | +2.20 |
-| RICHARDS BAY/FANGCHENG | 150,000/10% | 10% | 15.85 | 18.05 | +2.20 |
-| CAPE LAMBERT/ROTTERDAM | 160,000/10% | 10% | 12.85 | 14.25 | +1.40 |
-| QUEENSLAND/JAPAN | 150,000/10% | 10% | 10.90 | 11.80 | +0.90 |
-| QUEENSLAND/ROTTERDAM | 150,000/10% | 10% | 14.75 | 16.15 | +1.40 |
-| NSW/ZHOUSHAN | 130,000/10% | 10% | 14.45 | 15.35 | +0.90 |
-| T/C TRIP FAR EAST/CONT | 180,000 DWT | 10% | 0.18 | 0.53 | +0.35 |
-| T/C TRANSPACIFIC ROUND | 180,000 DWT | 10% | 3.67 | 4.22 | +0.55 |
+| Route | Cargo Size | Weight (%) | 2023-11-17 ($/t) | 2023-11-24 ($/t) |
+|---|---|---|---|---|
+| RICHARDS BAY/MUNDRA | 150,000/10% | 10% | 11.15 | 13.35 |
+| DAMPIER/QINGDAO | 150,000/10% | 10% | 10.25 | 11.00 |
+| SALDAHNA BAY/QINGDAO | 150,000/10% | 10% | 16.80 | 19.00 |
+| RICHARDS BAY/FANGCHENG | 150,000/10% | 10% | 15.85 | 18.05 |
+| CAPE LAMBERT/ROTTERDAM | 160,000/10% | 10% | 12.85 | 14.25 |
+| QUEENSLAND/JAPAN | 150,000/10% | 10% | 10.90 | 11.80 |
+| QUEENSLAND/ROTTERDAM | 150,000/10% | 10% | 14.75 | 16.15 |
+| NSW/ZHOUSHAN | 130,000/10% | 10% | 14.45 | 15.35 |
+| T/C TRIP FAR EAST/CONT | 180,000 DWT | 10% | 0.18 | 0.53 |
+| T/C TRANSPACIFIC ROUND | 180,000 DWT | 10% | 3.67 | 4.22 |
 
 ## Calculated Index & Historical Changes
 
@@ -47,10 +47,10 @@ The SSY Pacific Capesize Index went up 759 points week-on-week to 7,020. SSY’s
 
 ## Timecharter Equivalents ($/Day)
 
-| Route | Cargo Size | 2023-11-17 ($/Day) | 2023-11-24 ($/Day) | Change ($/Day) | Source |
-|---|---|---|---|---|---|
-| T/C TRIP FAR EAST/CONT | 180,000 DWT | $1,050 | $3,150 | +2,100 | table |
-| T/C TRANSPACIFIC ROUND | 180,000 DWT | $21,750 | $25,000 | +3,250 | table |
+| Route | Cargo Size | 2023-11-17 ($/Day) | 2023-11-24 ($/Day) |
+|---|---|---|---|
+| T/C TRIP FAR EAST/CONT | 180,000 DWT | $1,050 | $3,150 |
+| T/C TRANSPACIFIC ROUND | 180,000 DWT | $21,750 | $25,000 |
 
 ## Index Background & Contact
 

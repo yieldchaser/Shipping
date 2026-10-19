@@ -16,24 +16,20 @@ source_file: "corpus/02-hellenic/shipbuilding/pdfs/2026-05-18_ssy-pacific-capesi
 **Assessment Dates:** Current: 2026-05-15 | Previous: 2026-05-08  
 **Source Document:** `corpus/02-hellenic/shipbuilding/pdfs/2026-05-18_ssy-pacific-capesize-index-18-may-2026_20260515-pacific-capesize-report_090a95d37484.pdf`
 
-## Market Commentary
-
-*No desk narrative commentary published in this issue (pure quantitative data dashboard format).*
-
 ## Route Freight Rates ($/t)
 
-| Route | Cargo Size | Weight (%) | 2026-05-08 ($/t) | 2026-05-15 ($/t) | Change ($/t) |
-|---|---|---|---|---|---|
-| RICHARDS BAY/MUNDRA | 150,000/10% | 10% | 19.75 | 20.45 | +0.70 |
-| DAMPIER/QINGDAO | 170,000/10% | 10% | 15.20 | 15.00 | -0.20 |
-| SALDAHNA BAY/QINGDAO | 170,000/10% | 10% | 26.45 | 27.15 | +0.70 |
-| RICHARDS BAY/FANGCHENG | 150,000/10% | 10% | 26.60 | 27.30 | +0.70 |
-| CAPE LAMBERT/ROTTERDAM | 160,000/10% | 10% | 20.05 | 21.05 | +1.00 |
-| QUEENSLAND/JAPAN | 150,000/10% | 10% | 19.90 | 20.40 | +0.50 |
-| QUEENSLAND/ROTTERDAM | 150,000/10% | 10% | 28.15 | 29.35 | +1.20 |
-| NSW/ZHOUSHAN | 130,000/10% | 10% | 19.20 | 19.10 | -0.10 |
-| T/C TRIP FAR EAST/CONT | 180,000 DWT | 10% | 3.46 | 3.67 | +0.21 |
-| T/C TRANSPACIFIC ROUND | 180,000 DWT | 10% | 7.56 | 7.52 | -0.04 |
+| Route | Cargo Size | Weight (%) | 2026-05-08 ($/t) | 2026-05-15 ($/t) |
+|---|---|---|---|---|
+| RICHARDS BAY/MUNDRA | 150,000/10% | 10% | 19.75 | 20.45 |
+| DAMPIER/QINGDAO | 170,000/10% | 10% | 15.20 | 15.00 |
+| SALDAHNA BAY/QINGDAO | 170,000/10% | 10% | 26.45 | 27.15 |
+| RICHARDS BAY/FANGCHENG | 150,000/10% | 10% | 26.60 | 27.30 |
+| CAPE LAMBERT/ROTTERDAM | 160,000/10% | 10% | 20.05 | 21.05 |
+| QUEENSLAND/JAPAN | 150,000/10% | 10% | 19.90 | 20.40 |
+| QUEENSLAND/ROTTERDAM | 150,000/10% | 10% | 28.15 | 29.35 |
+| NSW/ZHOUSHAN | 130,000/10% | 10% | 19.20 | 19.10 |
+| T/C TRIP FAR EAST/CONT | 180,000 DWT | 10% | 3.46 | 3.67 |
+| T/C TRANSPACIFIC ROUND | 180,000 DWT | 10% | 7.56 | 7.52 |
 
 ## Calculated Index & Historical Changes
 
@@ -47,10 +43,10 @@ source_file: "corpus/02-hellenic/shipbuilding/pdfs/2026-05-18_ssy-pacific-capesi
 
 ## Timecharter Equivalents ($/Day)
 
-| Route | Cargo Size | 2026-05-08 ($/Day) | 2026-05-15 ($/Day) | Change ($/Day) | Source |
-|---|---|---|---|---|---|
-| T/C TRIP FAR EAST/CONT | 180,000 DWT | $20,500 | $21,750 | +1,250 | table |
-| T/C TRANSPACIFIC ROUND | 180,000 DWT | $44,750 | $44,500 | -250 | table |
+| Route | Cargo Size | 2026-05-08 ($/Day) | 2026-05-15 ($/Day) |
+|---|---|---|---|
+| T/C TRIP FAR EAST/CONT | 180,000 DWT | $20,500 | $21,750 |
+| T/C TRANSPACIFIC ROUND | 180,000 DWT | $44,750 | $44,500 |
 
 ## Index Background & Contact
 
