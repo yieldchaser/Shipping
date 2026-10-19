@@ -139,6 +139,26 @@ report_date,year,month,vessel_class,metric,value,unit,source,source_page
 2018-11-01,2018,11,PSVs > 900m2,min_dayrate,3636.0,GBP/day,seabrokers_osv_dayrates.csv (reused),
 2018-11-01,2018,11,PSVs > 900m2,prev_year_dayrate,5203.0,GBP/day,seabrokers_osv_dayrates.csv (reused),
 2018-11-01,2018,11,PSVs > 900m2,yoy_change,15.39,percent,seabrokers_osv_dayrates.csv (reused),
+2018-12-01,2018,12,"AHTS < 22,000 bhp",avg_dayrate,12172.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,"AHTS < 22,000 bhp",max_dayrate,34000.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,"AHTS < 22,000 bhp",min_dayrate,6283.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,"AHTS < 22,000 bhp",prev_year_dayrate,20196.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,"AHTS < 22,000 bhp",yoy_change,-39.73,percent,seabrokers,2.0
+2018-12-01,2018,12,"AHTS > 22,000 bhp",avg_dayrate,12516.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,"AHTS > 22,000 bhp",max_dayrate,23310.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,"AHTS > 22,000 bhp",min_dayrate,4500.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,"AHTS > 22,000 bhp",prev_year_dayrate,16674.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,"AHTS > 22,000 bhp",yoy_change,-24.94,percent,seabrokers,2.0
+2018-12-01,2018,12,PSVs < 900m2,avg_dayrate,5493.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,PSVs < 900m2,max_dayrate,9000.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,PSVs < 900m2,min_dayrate,3500.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,PSVs < 900m2,prev_year_dayrate,8208.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,PSVs < 900m2,yoy_change,-33.08,percent,seabrokers,2.0
+2018-12-01,2018,12,PSVs > 900m2,avg_dayrate,6143.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,PSVs > 900m2,max_dayrate,13500.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,PSVs > 900m2,min_dayrate,4114.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,PSVs > 900m2,prev_year_dayrate,7447.0,GBP/day,seabrokers,2.0
+2018-12-01,2018,12,PSVs > 900m2,yoy_change,-17.51,percent,seabrokers,2.0
 2019-01-01,2019,1,"AHTS < 22,000 bhp",avg_dayrate,29893.0,GBP/day,seabrokers_osv_dayrates.csv (reused),
 2019-01-01,2019,1,"AHTS < 22,000 bhp",max_dayrate,67500.0,GBP/day,seabrokers_osv_dayrates.csv (reused),
 2019-01-01,2019,1,"AHTS < 22,000 bhp",min_dayrate,6960.0,GBP/day,seabrokers_osv_dayrates.csv (reused),
