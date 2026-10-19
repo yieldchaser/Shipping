@@ -2,18 +2,18 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2933,
-      "untracked_bytes": 2297417240
+      "untracked_files": 2940,
+      "untracked_bytes": 2301858109
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4057,
-      "untracked_bytes": 2389108169
+      "untracked_files": 4068,
+      "untracked_bytes": 2396643371
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 15,
+      "untracked_bytes": 2172842
     },
     {
       "path": "corpus/04-poten",
@@ -1318,6 +1318,11 @@
       "sha256": "65cfe5f2afb8feb3b295356965e488d620377b628bb791b70b7c8be282126764"
     },
     {
+      "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_2026_W42_ADVANCED-MARKET-REPORT-WEEK-42.pdf",
+      "bytes": 1027616,
+      "sha256": "1f33df81bb847f1b7319ae2be7c24c53ee21530f19ed43d51f0b853540f2a8a9"
+    },
+    {
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_26_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
       "bytes": 1050793,
       "sha256": "b182986ee6bc84bc699517cf0e25c7e609404ddda0a0b62242835932e02d99c7"
@@ -2491,6 +2496,11 @@
       "path": "corpus/01-brokers/affinity/2026/affinity_2026_Affinity-Tanker-Weekly-16.01.2026-HSN.pdf",
       "bytes": 185080,
       "sha256": "90ce79d505c219a11a12c7bb791e57b73b28022ad044f28033c89b2c63cf7f07"
+    },
+    {
+      "path": "corpus/01-brokers/affinity/2026/affinity_2026_Affinity-Tanker-Weekly-16.10.2026-HSN.pdf",
+      "bytes": 274875,
+      "sha256": "ea7f5aafddb0d517b38ba413e86fef7a701a2bba8e1aea668f72a4056bbc30b2"
     },
     {
       "path": "corpus/01-brokers/affinity/2026/affinity_2026_Affinity-Tanker-Weekly-17.04.2026-HSN.pdf",
@@ -5636,6 +5646,11 @@
       "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-14th-Aug-2026.pdf",
       "bytes": 229738,
       "sha256": "d6d2477d6458a10dbed138fdc3e96ae560740c632cca0e194389d4aebba9e1dd"
+    },
+    {
+      "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-16th-October-2026.pdf",
+      "bytes": 224526,
+      "sha256": "823f9b15b739378120055775717db8b2d6eebf9834808e0116a6d2dbe70c76a9"
     },
     {
       "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-18th-Sept-2026.pdf",
@@ -9708,6 +9723,11 @@
       "sha256": "f6f19434443cd370be0109bd415ee4c6c8063d2565c376703dcdcd5979194806"
     },
     {
+      "path": "corpus/01-brokers/lion/2026/lion_2026_W42_Lion-Weekly-Report-16-October-2026-W42.pdf",
+      "bytes": 1849831,
+      "sha256": "05e8236a67e94326344fb6af1484cf4c819d12495533891543746aab9d576941"
+    },
+    {
       "path": "corpus/01-brokers/ssy/2021/ssy_2021_A20210705.pdf",
       "bytes": 219652,
       "sha256": "d45d96556cdbda37b40ae4558c258d6b0cef3e0b266228a965cc00732e82cc1b"
@@ -12298,6 +12318,16 @@
       "sha256": "f0fbb8ae76960171fa1d93a79aa36fe31e920cf1f262194c7d5e7c3efc7e9e8c"
     },
     {
+      "path": "corpus/01-brokers/ssy/2026/ssy_2026_20261016-Atlantic-Capesize-Report.pdf",
+      "bytes": 191114,
+      "sha256": "39cad48dbb116734fa70af0bcec51edba1d26d3dc2d9fcb269634d66b5fca635"
+    },
+    {
+      "path": "corpus/01-brokers/ssy/2026/ssy_2026_20261016-Pacific-Capesize-Report.pdf",
+      "bytes": 190877,
+      "sha256": "f88719e7cbf27648d7cad874d0cb41a660a587e8b3d0bc2ab186b81605958a38"
+    },
+    {
       "path": "corpus/01-brokers/ssy/2026/ssy_2026_nan_20260807-Atlantic-Capesize-Report.pdf",
       "bytes": 173935,
       "sha256": "3421fc3642620b2dbba9cb4c27334d6060cfb13fa2360c3ad31d312c33a30010"
@@ -13346,6 +13376,11 @@
       "path": "corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf",
       "bytes": 657605,
       "sha256": "68555d113f74f7565a853f684f49757aa41b72908541d4437695e75c310b1c8e"
+    },
+    {
+      "path": "corpus/01-brokers/star_asia/2026/star_asia_2026_W42_Market-Report-Week-42.pdf",
+      "bytes": 682030,
+      "sha256": "68f273448dda6ead7fd8c5d0ec59a4afa780171c9f27442a0435a8e885c2f3e3"
     },
     {
       "path": "corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf",
@@ -14728,6 +14763,21 @@
       "sha256": "0bba66ef4bd0790e891d2fa8957aff2678eaaf35df892acb039919ba36270d07"
     },
     {
+      "path": "corpus/02-hellenic/demolition/2026/2026-10-17_best-oasis-weekly-recycling-market-report-16-october-2026.html",
+      "bytes": 3145,
+      "sha256": "b977a1a663c0ec345980a873e63d69d45ee20dfb95c9d84200e5fb3c76b858aa"
+    },
+    {
+      "path": "corpus/02-hellenic/demolition/2026/2026-10-17_gms-week-42-freight-finally-flinches.html",
+      "bytes": 6891,
+      "sha256": "b7b17960f1d6f6c530e6301ed346099ce306b1666dce3861d73f92f587247d7c"
+    },
+    {
+      "path": "corpus/02-hellenic/demolition/2026/assets/2026-10-17_gms-week-42-freight-finally-flinches_6102026gms_7e7a9c3f5184.jpg",
+      "bytes": 42759,
+      "sha256": "83471cacf506815dc4cb0a5c0eca8aad324c40643ba2926fb8cb1f514884e463"
+    },
+    {
       "path": "corpus/02-hellenic/demolition/pdfs/2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence\u2026Or_Not.pdf",
       "bytes": 653148,
       "sha256": "a79a268821e132d8cdeb7fcd037d30c80ded62b9953ad0804fd3f7244207ab74"
@@ -14751,6 +14801,16 @@
       "path": "corpus/02-hellenic/demolition/pdfs/2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf",
       "bytes": 1526416,
       "sha256": "52b23f9d42d155925f97c66cebc616237a05be249ba46e4de12f1473f63b3c70"
+    },
+    {
+      "path": "corpus/02-hellenic/demolition/pdfs/2026-10-17_best-oasis-weekly-recycling-market-report-16-october-2026_weekly-ship-recycling-report-10-octo_0103d211f85f.pdf",
+      "bytes": 1532226,
+      "sha256": "4fef7bbd6cd485ec775b4e172c666409a0597f93d353df1e76dadd9303893616"
+    },
+    {
+      "path": "corpus/02-hellenic/demolition/pdfs/2026-10-17_gms-week-42-freight-finally-flinches_ship-recycling-market-insight-week-4_ee8586838c9d.pdf",
+      "bytes": 934666,
+      "sha256": "b2ccb4f473644c1c0c9bc977cf917df280ec8d2e4334f14e26443f1499a000c3"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2021-07-07_athenian-shipbrokers-s-a-demolition-quick-update-week-26-2021_ship-recycling-weekly-26-2021-atheni_3c137c5215b0.pdf",
@@ -17663,6 +17723,11 @@
       "sha256": "7a526abe182eb3180698b293ecab270c9013bd392dab9c82c8d27534dac96b4e"
     },
     {
+      "path": "corpus/02-hellenic/demolition/pdfs/best_oasis/2026-10-17_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-10-October-16-October-2026.pdf",
+      "bytes": 1532226,
+      "sha256": "4fef7bbd6cd485ec775b4e172c666409a0597f93d353df1e76dadd9303893616"
+    },
+    {
       "path": "corpus/02-hellenic/demolition/pdfs/gms/2021-07-05_gms-week-27-double-trouble_web_818af89830b3.pdf",
       "bytes": 92695,
       "sha256": "7e926d7c780688c2730e09f8d3b78f1f80cfcc722d8d092b87398031a9b35d29"
@@ -20173,9 +20238,24 @@
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
     },
     {
+      "path": "corpus/02-hellenic/demolition/pdfs/gms/2026-10-17_gms-week-42-freight-finally-flinches_Ship-recycling-market-insight-Week-42-10-16-2026-Freight-Finally-Flinches.pdf",
+      "bytes": 934666,
+      "sha256": "b2ccb4f473644c1c0c9bc977cf917df280ec8d2e4334f14e26443f1499a000c3"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-19_mmi-daily-iron-ore-index-report-october-19-2026.html",
+      "bytes": 4626,
+      "sha256": "e8b15963dec6ebc919db03b57e9c276efe1d052ebffc141ff96808eaa3a1e2ab"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-19_mmi-daily-iron-ore-index-report-october-19-2026_19102026chinese_516af69590a1.jpg",
+      "bytes": 174427,
+      "sha256": "edc0b3e8e33ea9b76fa6d6b58e6521924dc94006c09549bdff4bbea3da4aaaac"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30173,6 +30253,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-19_mmi-daily-iron-ore-index-report-october-19-2026_mmi-daily-iron-ore-report-for-19th-o_b9a0747ecd88.pdf",
+      "bytes": 1184785,
+      "sha256": "f82ba7754f074a1ec2b971fbafd2eba62eaa1a951b247ead96e7a71a4b4ab1fd"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31561,6 +31646,11 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-19_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-19th-October-2026.pdf",
+      "bytes": 1184785,
+      "sha256": "f82ba7754f074a1ec2b971fbafd2eba62eaa1a951b247ead96e7a71a4b4ab1fd"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -34998,6 +35088,26 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-19_the-global-economy-is-navigating-a-complex-adjustment.html",
+      "bytes": 11989,
+      "sha256": "5491a7bc35683071519a73ce398b725fdcabcab050e2a423990c5958d88b55fe"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-19_the-global-economy-is-navigating-a-complex-adjustment.md",
+      "bytes": 10218,
+      "sha256": "c146dafa71e64d3598832fea4473821444a2322c0bbeb889fecf7e6055e4f443"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-19_thermal-coal-prices-in-china-at-highest-level-in-three-years.html",
+      "bytes": 3660,
+      "sha256": "a39d2bd09c7772d39b6e004d92c4de8b8286ca5fcd61c55ae32a71b710e0b857"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-19_thermal-coal-prices-in-china-at-highest-level-in-three-years.md",
+      "bytes": 2271,
+      "sha256": "94e60a508c0c7d1cf3a6527c201bb4167647e66a2eed13d576b8a2eed4eb9a4b"
+    },
+    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35041,6 +35151,16 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-19_thermal-coal-prices-in-china-at-highest-level-in-three-years_img_chart1_6ec73d4972c0.jpg",
+      "bytes": 64401,
+      "sha256": "60525c5a4caddddd3ff21d8f4da37a96474a2bee6aa1d0ed02621669e30ecc8d"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-19_thermal-coal-prices-in-china-at-highest-level-in-three-years_img_chart2_933efcd88951.jpg",
+      "bytes": 44317,
+      "sha256": "99e5b93dbafb384d732997557a7fcca86298384102cedf79e369093ff856d282"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
