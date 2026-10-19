@@ -368,6 +368,13 @@ def extract_star_asia(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
                            ["issue_date", "category", "index_name"])
         upsert_rows_to_csv(SERIES_DIR / "star_asia_5y_history_series.csv", rows["history_5y"], run_star_asia.HIST_COLS,
                            ["issue_date", "destination"])
+        # ferrous scrap prices are prose: Nace reads the section, each price is gated on the printed sentence
+        try:
+            import run_star_asia_ferrous_scrap as fe
+            upsert_rows_to_csv(SERIES_DIR / "star_asia_ferrous_scrap_series.csv", fe.rows_for_md(md_text, pdf_path.stem),
+                               fe.COLS, fe.KEY)
+        except Exception as e:  # no Nace key / Nace down: the MD and table series still land
+            print(f"  [WARN] star asia ferrous scrap skipped for {pdf_path.stem}: {e}")
 
     return {
         "stem": pdf_path.stem,

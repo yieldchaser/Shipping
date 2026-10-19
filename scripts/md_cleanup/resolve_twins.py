@@ -114,7 +114,7 @@ def fix_series(twins: list[dict], apply: bool, stat: Counter) -> None:
                 out.append(rec)
                 continue
             changed = True
-            if t["misfile"]:
+            if t.get("misfile"):
                 stat[f"series rows dropped (misfile twin) {csv_path.name}"] += 1
                 continue
             twin_names = {n for n, x in by_name.items() if x is t}

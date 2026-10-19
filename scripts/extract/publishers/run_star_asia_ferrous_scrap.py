@@ -1,469 +1,312 @@
 """
-Star Asia Ferrous Scrap Intelligence Extraction Pipeline.
+Star Asia ferrous scrap prices from the "Sub-Continent and Turkey ferrous scrap markets insight" prose.
 
-Extracts weekly ferrous scrap and steel market intelligence from Star Asia reports (2022-2026):
-- Explicit $/t pricing for steel scrap, busheling, shredded, HMS 80:20, turning, PNS, billet, rebar.
-- Local domestic steel and scrap prices across India, Pakistan, Bangladesh, Turkey.
-- Detailed origins, terms (CFR, Ex-Works, Domestic), price types (Offer, Bid, Deal Concluded, Indication),
-  and foreign exchange rates.
+The section is prose, so a regex cannot tell which grade/origin a price belongs to (the old regex extractor labelled
+European HMS as shredded, African HMS as US shredded, PNS as HMS 90:10 ... on about half its rows). Each issue's
+section is sent to Nace Extract (one item per printed price, grade/origin as worded), and every item is gated on the
+source before it becomes a row:
+  - the price is printed verbatim in the section, and its numbers are the row's numbers;
+  - the grade and origin words occur in the sentence that carries the price.
+Items failing the gate are dropped (and listed by --report); nothing is estimated or computed from FX.
 
-Outputs:
-  - data/extracted/series/star_asia_ferrous_scrap_series.csv
+Used by orchestrate_incremental_ingest.extract_star_asia for each new issue (rows_for_md), and as a backfill over all
+Star Asia MDs:
+    python scripts/extract/publishers/run_star_asia_ferrous_scrap.py [--cache DIR] [--write] [--report]
+
+Output: data/extracted/series/star_asia_ferrous_scrap_series.csv
 """
-
 from __future__ import annotations
 
 import argparse
 import csv
+import glob
+import io
+import json
 import re
 import sys
+import time
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
-import pymupdf
-
 ROOT = Path(__file__).resolve().parents[3]
-PUB = "star_asia"
-CORPUS_DIR = ROOT / "corpus" / "01-brokers" / PUB
-OUT_SERIES = ROOT / "data" / "extracted" / "series"
-FERROUS_SERIES_CSV = OUT_SERIES / "star_asia_ferrous_scrap_series.csv"
+MD_DIR = ROOT / "data" / "extracted" / "md" / "star_asia"
+SERIES_CSV = ROOT / "data" / "extracted" / "series" / "star_asia_ferrous_scrap_series.csv"
 
-MONTHS = {
-    "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
-    "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12,
-    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
-    "jul": 7, "aug": 8, "sep": 9, "sept": 9, "oct": 10, "nov": 11, "dec": 12,
-}
+COLS = ["issue_date", "report_week", "country", "origin", "grade", "price_text", "currency", "price_low", "price_high",
+        "usd_low", "usd_high", "price_type", "terms", "destination_port", "source_file"]
+KEY = ["issue_date", "country", "origin", "grade", "price_text"]
 
-ORIGIN_RULES = [
-    ("Mozambique", "Mozambique"),
-    ("Malaysia", "Malaysia"),
-    ("Malaysian", "Malaysia"),
-    ("Australia", "Australia"),
-    ("Australian", "Australia"),
-    ("New Zealand", "New Zealand"),
-    ("UK/EU", "UK/EU"),
-    ("UK", "UK"),
-    ("British", "UK"),
-    ("EU", "EU"),
-    ("European", "EU"),
-    ("US", "US"),
-    ("USA", "US"),
-    ("American", "US"),
-    ("UAE", "UAE"),
-    ("Bahrain", "Bahrain"),
-    ("Israel", "Israel"),
-    ("Latin American", "Latin American"),
-    ("South American", "South American"),
-    ("Southeast Asian", "Southeast Asian"),
-    ("Baltic", "Baltic"),
-    ("African", "African"),
-    ("Middle East", "Middle East"),
-    ("Japanese", "Japan"),
-    ("Japan", "Japan"),
-]
+START = re.compile(r"(sub-?cont?i?nent.*scrap|ferrous scrap markets? insight|global ferrous scrap insight)", re.I)
+STOP = re.compile(r"^(HMS 1/2|COMMODITIES|BUNKER|EXCHANGE RATES|TIDE|Commodities|Bunker|Exchange Rates|Tide Dates|Iron Ore|"
+                  r"Industrial Metal|Crude Oil|Disclaimer|DISCLAIMER|Ship Recycling|SHIP RECYCLING|Demolition|DEMOLITION)\b")
 
-GRADE_RULES = [
-    ("HMS 80:20", "HMS 80:20"),
-    ("HMS 90:10", "HMS 90:10"),
-    ("HMS 1/2", "HMS 1/2"),
-    ("HMS (80:20)", "HMS 80:20"),
-    ("shredded and busheling", "Shredded and Busheling"),
-    ("busheling and shredded", "Shredded and Busheling"),
-    ("busheling", "Busheling"),
-    ("turning scrap", "Turning"),
-    ("turning", "Turning"),
-    ("shredded scrap", "Shredded"),
-    ("shredded", "Shredded"),
-    ("pns scrap", "PNS"),
-    ("pns", "PNS"),
-    ("tangshan billet", "Billet"),
-    ("square billet", "Billet"),
-    ("billet", "Billet"),
-    ("rebar", "Rebar"),
-    ("hms scrap", "HMS"),
-    ("hms", "HMS"),
-    ("ship plates", "Domestic Scrap"),
-    ("domestic ship scrap", "Domestic Scrap"),
-    ("local scrap", "Domestic Scrap"),
-    ("domestic scrap", "Domestic Scrap"),
-    ("melting scrap", "Melting Scrap"),
-]
+SCHEMA = {"type": "object", "properties": {"quotes": {"type": "array", "items": {"type": "object", "properties": {
+    "country": {"type": "string", "description": "Market the paragraph is about: India, Pakistan, Bangladesh, Turkiye (Turkey), or other as printed"},
+    "origin": {"type": "string", "description": "Origin of the scrap exactly as worded (e.g. UK, European, Australian, US West Coast, Brazilian). Empty if not stated."},
+    "grade": {"type": "string", "description": "Scrap grade exactly as worded for THIS price (e.g. shredded, HMS 80:20, HMS 1&2, PNS, turnings, H2, bonus, domestic scrap). Empty if not stated."},
+    "price_text": {"type": "string", "description": "The price exactly as printed, e.g. US$405-410/t, USD416/ton, PKR 132,000-134,000/t"},
+    "price_kind": {"type": "string", "description": "offer, bid, deal, indication, workable or domestic"},
+    "terms_port": {"type": "string", "description": "Terms and port as printed, e.g. CFR Mundra. Empty if none."},
+    "sentence": {"type": "string", "description": "The full sentence containing the price, verbatim"}}}}}}
+INSTR = ("One item per printed scrap price (ferrous scrap only; skip rebar, billet, freight, iron ore, coal and other "
+         "non-scrap prices, and skip price changes such as 'up US$5/t'). Attribute grade and origin only from the words that "
+         "grammatically belong to that price; never carry a grade or origin from a neighbouring price. Copy text verbatim.")
 
-PORT_RULES = [
-    ("Chattogram", "Chattogram"),
-    ("Chittagong", "Chattogram"),
-    ("Qasim", "Qasim"),
-    ("Karachi", "Karachi"),
-    ("Mundra", "Mundra"),
-    ("Chennai", "Chennai"),
-    ("Mandi", "Mandi"),
-    ("Ludhiana", "Ludhiana"),
-    ("Aliaga", "Aliaga"),
-    ("Turkey", "Turkey"),
-    ("Nhava Sheva", "Nhava Sheva"),
-    ("Kandla", "Kandla"),
-    ("Mumbai", "Mumbai"),
-]
+COUNTRY = {"india": "India", "pakistan": "Pakistan", "bangladesh": "Bangladesh", "turkiye": "Turkey", "turkey": "Turkey",
+           "turkish": "Turkey", "türkiye": "Turkey", "turkiye (turkey)": "Turkey", "turkey (turkiye)": "Turkey"}
+COUNTRY_ADJ = {"indian": "India", "pakistani": "Pakistan", "bangladeshi": "Bangladesh", "turkish": "Turkey"}
+NOT_SCRAP = re.compile(r"\b(rebar|billet|freight|iron ore|coal|coke|steel price|bar)s?\b", re.I)
+WORD = re.compile(r"[a-z0-9]+")
 
 
-def clean_ord(s: str) -> str:
-    return re.sub(r"(\d+)(st|nd|rd|th)", r"\1", s, flags=re.I)
+def _norm(line: str) -> str:
+    return line.strip().strip("|").strip().lstrip("#").strip().strip("*").strip()
 
 
-def extract_meta(doc: pymupdf.Document, pdf_path: Path) -> Tuple[int, str]:
-    p1 = doc[0].get_text()
-    m_wk = re.search(r"WEEK\s*(\d{1,2})", p1, re.I)
-    week = int(m_wk.group(1)) if m_wk else None
-    if week is None:
-        m_fn_wk = re.search(r"week[_\-\s]*(\d{1,2})", pdf_path.name, re.I) or re.search(r"W(\d{1,2})", pdf_path.name, re.I)
-        if m_fn_wk:
-            week = int(m_fn_wk.group(1))
-
-    dt = None
-    for line in p1.splitlines()[:25]:
-        cleaned = clean_ord(line)
-        m = re.search(r"([A-Za-z]+)\s+(\d{1,2}),?\s+(202\d)", cleaned)
-        if m and m.group(1).lower() in MONTHS:
-            mo = MONTHS[m.group(1).lower()]
-            da = int(m.group(2))
-            yr = int(m.group(3))
-            dt = f"{yr:04d}-{mo:02d}-{da:02d}"
-            break
-        m2 = re.search(r"(\d{1,2})\s+([A-Za-z]+),?\s+(202\d)", cleaned)
-        if m2 and m2.group(2).lower() in MONTHS:
-            da = int(m2.group(1))
-            mo = MONTHS[m2.group(2).lower()]
-            yr = int(m2.group(3))
-            dt = f"{yr:04d}-{mo:02d}-{da:02d}"
-            break
-        m3 = re.search(r"(\d{1,2})[./\-](\d{1,2})[./\-](202\d)", cleaned)
-        if m3:
-            da, mo, yr = int(m3.group(1)), int(m3.group(2)), int(m3.group(3))
-            if 1 <= mo <= 12 and 1 <= da <= 31:
-                dt = f"{yr:04d}-{mo:02d}-{da:02d}"
-                break
-
-    if dt is None:
-        m_fn_dt = re.search(r"(\d{2})_(\d{2})_(202\d)", pdf_path.name)
-        if m_fn_dt:
-            da, mo, yr = int(m_fn_dt.group(1)), int(m_fn_dt.group(2)), int(m_fn_dt.group(3))
-            dt = f"{yr:04d}-{mo:02d}-{da:02d}"
-
-    if dt is None and "2024_W05_ISM" in pdf_path.name:
-        dt, week = "2024-02-02", 5
-    elif dt is None and "2024_W10_ISM" in pdf_path.name:
-        dt, week = "2024-03-08", 10
-
-    return week or 0, dt or "2026-00-00"
-
-
-def clean_num(s: Optional[str]) -> Optional[float]:
-    if not s:
+def section(md_text: str) -> Optional[str]:
+    """The ferrous-scrap prose of one issue (page markers, table rules and images dropped; table cells kept as text)."""
+    ls = md_text.replace("\r\n", "\n").split("\n")
+    s = next((i for i, l in enumerate(ls) if START.search(_norm(l)) and len(_norm(l)) < 140
+              and (l.startswith("#") or l.startswith("|") or len(_norm(l)) < 80)), None)
+    if s is None:
         return None
-    try:
-        return float(s.replace(",", "").strip())
-    except Exception:
-        return None
-
-
-def extract_table_fx_rates(doc: pymupdf.Document) -> Dict[str, float]:
-    fx_rates = {}
-    for pg in doc:
-        txt = pg.get_text()
-        if "EXCHANGE RATES" in txt.upper():
-            for tab in pg.find_tables():
-                ext = tab.extract()
-                for r in ext:
-                    if not r: continue
-                    r_str = " ".join(str(c or "") for c in r).upper()
-                    val = None
-                    for c in r[1:]:
-                        v = clean_num(str(c or ""))
-                        if v and 1.0 < v < 1000.0:
-                            val = v
-                            break
-                    if val is not None:
-                        if "INR" in r_str or "INDIA" in r_str: fx_rates["India"] = val
-                        elif "BDT" in r_str or "BANGLADESH" in r_str: fx_rates["Bangladesh"] = val
-                        elif "PKR" in r_str or "PAKISTAN" in r_str: fx_rates["Pakistan"] = val
-                        elif "TRY" in r_str or "TURKEY" in r_str: fx_rates["Turkey"] = val
-    return fx_rates
-
-
-def extract_ferrous_intel_from_text(
-    full_text: str, issue_date: str, report_week: int, pdf_name: str, doc_fx: Dict[str, float]
-) -> List[Dict[str, Any]]:
-    records = []
-
-    # Find the target section(s)
-    # 1. Primary: Sub-Continent and Turkey ferrous scrap markets insights
-    # 2. Secondary: Country insight blocks mentioning scrap prices
-    sections = []
-    
-    m_sec = re.search(r"(?:Sub-Continent\s*(?:and|&)\s*Turkey\s*(?:ferrous\s*)?scrap\s*markets?\s*insights?|SUB-CONTINENT\s*&\s*TURKEY\s*SCRAP\s*MARKETS)(.*?)(?:HMS\s*1/2|BUNKER\s*PRICES|COMMODITIES|EXCHANGE\s*RATES|TIDE\s*DATES|\Z)", full_text, flags=re.I | re.S)
-    if m_sec:
-        sections.append(("dedicated", m_sec.group(1)))
-    else:
-        # Fallback to general insights text
-        m_ins = re.search(r"(?:Market\s*Insights?|Insights?)(.*?)(?:Anchorage\s*&\s*Beaching|BUNKER\s*PRICES|COMMODITIES|\Z)", full_text, flags=re.I | re.S)
-        if m_ins:
-            sections.append(("insights", m_ins.group(1)))
-
-    for sec_kind, sec_text in sections:
-        # Split by country headers
-        country_splits = re.split(r"(?:^|\n|\b)(India|Pakistan|Bangladesh|Turkiye|Turkey|Alang|Chattogram|Gadani|Gaddani|Aliaga)(?::|\s+[A-Z]|\s*\n)", sec_text, flags=re.I)
-        
-        i = 1
-        while i < len(country_splits):
-            cty_raw = country_splits[i].strip()
-            chunk = country_splits[i+1] if i+1 < len(country_splits) else ""
-            i += 2
-
-            cu = cty_raw.upper()
-            country = "India"
-            if "PAKISTAN" in cu or "GADANI" in cu or "GADDANI" in cu: country = "Pakistan"
-            elif "BANGLADESH" in cu or "CHATTOGRAM" in cu: country = "Bangladesh"
-            elif "TURKEY" in cu or "TURKIYE" in cu or "ALIAGA" in cu: country = "Turkey"
-            elif "INDIA" in cu or "ALANG" in cu: country = "India"
-
-            # Check FX rate in prose, fallback to table FX
-            fx_val = doc_fx.get(country)
-            m_fx = re.search(r"\b(?:INR|BDT|PKR|TRY)\s*(\d+(?:\.\d+)?)\s*(?:/\s*USD|\bto\s+the\s+(?:dollar|USD))", chunk, re.I)
-            if m_fx:
-                fx_val = float(m_fx.group(1))
-
-            # Process sentence by sentence
-            sentences = re.split(r"\.\s+", chunk)
-            for sent in sentences:
-                sent = sent.strip().replace("\n", " ")
-                if not sent: continue
-
-                # A. Domestic scrap price in local currency
-                # e.g. BDT 56,000/t (US$456/t) or INR 39,800 to INR 40,500 per ton
-                m_dom = re.search(r"(?:holding\s+at|prices?\s+at|around|standing\s+at|between|holding\s+between)\s*(BDT|INR|PKR|Rs\.?)\s*([\d,]+)(?:\s*[-~–—to]+\s*(?:BDT|INR|PKR|Rs\.?)?\s*([\d,]+))?\s*(?:/t|/ton|per\s+ton)?(?:\s*\(\s*(?:US\$|USD|\$)\s*([\d,]+)\s*(?:/t|/ton)?\s*\))?", sent, re.I)
-                if m_dom:
-                    d_cur = m_dom.group(1).upper().replace("RS.", "INR").replace("RS", "INR")
-                    d_low = clean_num(m_dom.group(2))
-                    d_high = clean_num(m_dom.group(3)) or d_low
-                    d_usd = clean_num(m_dom.group(4))
-                    if not d_usd and fx_val and d_low and d_low > 1000:
-                        d_usd = round(d_low / fx_val, 2)
-                    
-                    if d_low and d_low > 1000:
-                        records.append({
-                            "issue_date": issue_date,
-                            "report_week": report_week,
-                            "country": country,
-                            "grade": "Domestic Scrap",
-                            "origin": "",
-                            "price_usd_per_t": d_usd if d_usd else "",
-                            "price_range_low": d_usd if d_usd else "",
-                            "price_range_high": d_usd if d_usd else "",
-                            "price_type": "Indication",
-                            "terms": "Domestic",
-                            "destination_port": "",
-                            "domestic_price_local_cur": d_low,
-                            "domestic_currency": d_cur,
-                            "fx_rate": fx_val if fx_val else "",
-                            "source_file": pdf_name,
-                        })
-
-                # B. Respectively pattern: e.g. 'offers for HMS and shredded material hovered near US$395~420/t, respectively'
-                m_resp = re.search(r"offers?\s+for\s+([A-Za-z0-9/:\s]+)\s+and\s+([A-Za-z0-9/:\s]+)\s+(?:material|scrap|cargo)?\s*hovered\s+near\s*(?:US\$|USD|\$)\s*([\d,]+)\s*[-~–—to]+\s*([\d,]+)\s*(?:/t|/ton)", sent, re.I)
-                if m_resp:
-                    g1_raw, g2_raw = m_resp.group(1).strip(), m_resp.group(2).strip()
-                    p1 = clean_num(m_resp.group(3))
-                    p2 = clean_num(m_resp.group(4))
-                    g1 = "HMS" if "HMS" in g1_raw.upper() else g1_raw.title()
-                    g2 = "Shredded" if "SHREDDED" in g2_raw.upper() else g2_raw.title()
-                    
-                    orig = ""
-                    for op, on in ORIGIN_RULES:
-                        if re.search(r"\b" + re.escape(op) + r"\b", sent, re.I):
-                            orig = on
-                            break
-                    port = "Chattogram" if country == "Bangladesh" else ("Turkey" if country == "Turkey" else "")
-                    
-                    records.append({
-                        "issue_date": issue_date, "report_week": report_week, "country": country,
-                        "grade": g1, "origin": orig, "price_usd_per_t": p1,
-                        "price_range_low": p1, "price_range_high": p1, "price_type": "Offer",
-                        "terms": "CFR", "destination_port": port, "domestic_price_local_cur": "",
-                        "domestic_currency": "", "fx_rate": fx_val if fx_val else "", "source_file": pdf_name
-                    })
-                    records.append({
-                        "issue_date": issue_date, "report_week": report_week, "country": country,
-                        "grade": g2, "origin": orig, "price_usd_per_t": p2,
-                        "price_range_low": p2, "price_range_high": p2, "price_type": "Offer",
-                        "terms": "CFR", "destination_port": port, "domestic_price_local_cur": "",
-                        "domestic_currency": "", "fx_rate": fx_val if fx_val else "", "source_file": pdf_name
-                    })
-                    continue
-
-                # C. Split sentence into discrete deal/offer/bid clauses
-                clause_delims = re.compile(
-                    r"(?:,\s*while\s+|\s+while\s+|\s+against\s+|,\s*whereas\s+|\s+whereas\s+|;\s*|\s+and\s+(?=[a-zA-Z\s]*(?:shredded|turning|busheling|hms|scrap|deal|cargo|origin|material|new zealand|australian|bids|offers)))",
-                    re.I
-                )
-                clauses = clause_delims.split(sent)
-
-                last_grade = ""
-                last_origin = ""
-                last_port = ""
-
-                for clause in clauses:
-                    p_matches = list(re.finditer(r"(?:US\$|USD|\$)\s*([\d,]+)(?:\s*(?:[-~–—]|to)\s*(?:US\$|USD|\$)?\s*([\d,]+))?\s*(?:/(?:t|ton|MT)|per\s+(?:ton|MT))?", clause, re.I))
-                    if not p_matches:
-                        continue
-
-                    for pm in p_matches:
-                        # Skip if part of local currency parenthesis already parsed
-                        if m_dom and abs(pm.start() - m_dom.start()) < 60:
-                            continue
-
-                        p_low = clean_num(pm.group(1))
-                        p_high = clean_num(pm.group(2)) if pm.group(2) else p_low
-                        # Validate realistic scrap/steel price range: $150 to $950/t
-                        if not p_low or not (150 <= p_low <= 950):
-                            continue
-                        p_mid = round((p_low + p_high) / 2.0, 2)
-
-                        # Detect grade in clause
-                        grade = ""
-                        for gp, gn in GRADE_RULES:
-                            if re.search(r"\b" + re.escape(gp) + r"\b", clause, re.I):
-                                grade = gn
-                                break
-                        if not grade and last_grade:
-                            grade = last_grade
-                        elif grade:
-                            last_grade = grade
-
-                        # Detect origin in clause (stripping currency symbols first so 'US$' != 'US')
-                        clean_clause = re.sub(r"(?:US\$|USD|\$)\s*[\d,]+", "", clause)
-                        origin = ""
-                        for op, on in ORIGIN_RULES:
-                            if re.search(r"\b" + re.escape(op) + r"\b", clean_clause, re.I):
-                                origin = on
-                                break
-                        if not origin and last_origin and ("bid" in clause.lower() or "conservative" in clause.lower()):
-                            origin = last_origin
-                        elif origin:
-                            last_origin = origin
-
-                        # Detect port
-                        port = ""
-                        for pp, pn in PORT_RULES:
-                            if re.search(r"\b" + re.escape(pp) + r"\b", clause, re.I):
-                                port = pn
-                                break
-                        if not port and last_port:
-                            port = last_port
-                        elif port:
-                            last_port = port
-                        elif not port:
-                            if country == "Turkey": port = "Turkey"
-                            elif country == "Bangladesh" and "CHATTOGRAM" in chunk.upper(): port = "Chattogram"
-
-                        # Price Type
-                        cl_low = clause.lower()
-                        p_type = "Indication"
-                        if any(w in cl_low for w in ["bid", "bids", "bidding", "buyer target", "targets"]):
-                            p_type = "Bid"
-                        elif any(w in cl_low for w in ["offer", "offered", "asking", "seller offer"]):
-                            p_type = "Offer"
-                        elif any(w in cl_low for w in ["sale of", "concluded", "finalised", "sold", "transacted", "deal", "agreement was reached"]):
-                            p_type = "Deal Concluded"
-                        elif any(w in cl_low for w in ["heard", "indicated", "quoted", "assessed", "hovered", "priced"]):
-                            p_type = "Indication"
-
-                        # Terms
-                        terms = "CFR"
-                        if "fob" in cl_low: terms = "FOB"
-                        elif "ex-works" in cl_low or "ex-mill" in cl_low: terms = "Ex-Works"
-                        elif "delivered" in cl_low: terms = "Delivered"
-
-                        records.append({
-                            "issue_date": issue_date,
-                            "report_week": report_week,
-                            "country": country,
-                            "grade": grade or "Steel Scrap",
-                            "origin": origin,
-                            "price_usd_per_t": p_mid,
-                            "price_range_low": p_low,
-                            "price_range_high": p_high,
-                            "price_type": p_type,
-                            "terms": terms,
-                            "destination_port": port,
-                            "domestic_price_local_cur": "",
-                            "domestic_currency": "",
-                            "fx_rate": fx_val if fx_val else "",
-                            "source_file": pdf_name,
-                        })
-
-    return records
-
-
-def process_star_asia_ferrous_scrap() -> Dict[str, Any]:
-    OUT_SERIES.mkdir(parents=True, exist_ok=True)
-    pdfs = sorted(CORPUS_DIR.rglob("*.pdf"))
-    print(f"Extracting ferrous scrap intelligence from {len(pdfs)} Star Asia PDFs...")
-
-    all_records: List[Dict[str, Any]] = []
-    reports_with_scrap_intel = 0
-
-    for idx, pdf in enumerate(pdfs, 1):
-        if "ISM_" in pdf.name:
+    body = []
+    for l in ls[s + 1:]:
+        n = _norm(l)
+        if STOP.match(n) or (l.startswith("# ") and not re.search(r"scrap|india|pakistan|bangladesh|turk", l, re.I)):
+            break
+        if re.fullmatch(r"\|[\s:|-]*\|?", l.strip()) or re.match(r"^## Page \d+", l) or l.startswith("!["):
             continue
-
-        with pymupdf.open(pdf) as doc:
-            report_week, issue_date = extract_meta(doc, pdf)
-            doc_fx = extract_table_fx_rates(doc)
-            
-            # Combine text of all pages
-            full_text = "\n".join(pg.get_text() for pg in doc)
-
-            doc_records = extract_ferrous_intel_from_text(full_text, issue_date, report_week, pdf.name, doc_fx)
-            if doc_records:
-                reports_with_scrap_intel += 1
-                all_records.extend(doc_records)
-
-        if idx % 25 == 0 or idx == len(pdfs):
-            print(f"Processed {idx:>3}/{len(pdfs)} documents... (extracted {len(all_records)} records so far)")
-
-    # Write Ferrous Scrap Series CSV
-    headers = [
-        "issue_date", "report_week", "country", "grade", "origin",
-        "price_usd_per_t", "price_range_low", "price_range_high",
-        "price_type", "terms", "destination_port",
-        "domestic_price_local_cur", "domestic_currency", "fx_rate", "source_file"
-    ]
-    with open(FERROUS_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=headers)
-        writer.writeheader()
-        writer.writerows(all_records)
-
-    summary = {
-        "total_documents": len(pdfs),
-        "reports_with_scrap_intel": reports_with_scrap_intel,
-        "ferrous_scrap_series_rows": len(all_records),
-    }
-
-    print("=" * 60)
-    print("STAR ASIA FERROUS SCRAP EXTRACTION COMPLETE")
-    print("=" * 60)
-    for k, v in summary.items():
-        print(f"  {k:<30}: {v}")
-
-    return summary
+        body.append(" ".join(c.strip() for c in l.strip().strip("|").split("|")) if l.startswith("|") else l)
+    text = "\n".join(body).strip()
+    return text or None
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Extract Star Asia ferrous scrap market intelligence.")
-    args = parser.parse_args()
-    process_star_asia_ferrous_scrap()
+def nace_quotes(text: str, name: str) -> List[Dict[str, Any]]:
+    """Nace Extract over the section text; keys rotate on exhausted credit, transient errors retry."""
+    import tempfile
+    from nace_sdk import NaceClient
+    sys.path.insert(0, str(ROOT / "scripts" / "extract"))
+    from nace_backend import nace_keys
+    keys = nace_keys()
+    if not keys:
+        raise RuntimeError("ferrous scrap: no NACE_API_KEY configured")
+    tmp = Path(tempfile.mkdtemp(prefix="fe_")) / (name[:80] + ".txt")
+    tmp.write_text(text + "\n", encoding="utf-8")
+    last: Optional[Exception] = None
+    for key in keys:
+        for attempt in range(4):
+            try:
+                with NaceClient(api_key=key) as c:
+                    up = c.documents.upload(str(tmp), path="ferrous/" + tmp.name, on_conflict="new_version")
+                    src = {"type": "workspace_file", "workspace_id": up.workspace_id, "file_id": up.file_id}
+                    job = c.documents.extract(src, schema=SCHEMA, instructions=INSTR, citations={"enabled": False},
+                                              wait_seconds=60)
+                    t0 = time.time()
+                    while job.status not in ("succeeded", "failed", "cancelled") and time.time() - t0 < 600:
+                        job = c.jobs.wait(job.job_id)
+                    if job.status != "succeeded":
+                        raise RuntimeError(f"nace job {job.job_id} {job.status}")
+                    return ((job.result or {}).get("data") or {}).get("quotes") or []
+            except Exception as e:  # noqa: BLE001 - next key on no credit, retry transient
+                last = e
+                if "402" in str(e) or "insufficient_credit" in str(e).lower():
+                    break
+                time.sleep(10 * (attempt + 1))
+    raise RuntimeError(f"ferrous scrap: Nace extract failed for {name}: {last}")
+
+
+CUR_RE = r"(?:US\$|USD|\$|PKR|BDT|INR|Rs\.?|TRY|Euro|EUR)"
+NUM = r"(\d[\d,]*(?:\.\d+)?)"
+UNIT = r"(?:\s*/\s*(?:t|ton|tonne|mt)\b|\s*per\s+(?:metric\s+)?ton(?:ne)?\b)?"
+# a printed price: one value or a range, with an optional bracketed USD equivalent ("PKR 132,000-134,000/t (US$477-484/t)")
+MENTION = re.compile(rf"({CUR_RE})\s*{NUM}{UNIT}(?:\s*(?:-|to|and)\s*{CUR_RE}?\s*{NUM}{UNIT})?"
+                     rf"(?:\s*\(\s*(?:US\$|USD|\$)\s*{NUM}{UNIT}(?:\s*-\s*(?:US\$|USD|\$)?\s*{NUM}{UNIT})?\s*\))?", re.I)
+SINGLE = re.compile(rf"({CUR_RE})\s*{NUM}{UNIT}", re.I)
+GENERIC = {"scrap", "scraps", "imported", "import", "material", "materials", "cargo", "cargoes", "deep", "sea", "origin",
+           "the", "of", "and", "mix", "grade", "grades", "domestic", "local", "offers", "bulk", "containerised",
+           "containerized", "quality", "high", "s", "type"}
+
+
+def _clean(s: str) -> str:
+    """Markdown escapes off, dashes plain, whitespace single."""
+    s = re.sub(r"\\([$*_\[\]()#.\-])", r"\1", s or "")
+    s = re.sub(r"[ \t\r\f\v]+", " ", s.replace("\u2013", "-").replace("\u2014", "-"))
+    return re.sub(r" ?\n[\s]*", "\n", s).strip()   # paragraph breaks kept: they end a sentence
+
+
+def _num(s: Optional[str]) -> Any:
+    return float(s.replace(",", "")) if s else ""
+
+
+def _cur(s: str) -> str:
+    s = s.upper().rstrip(".")
+    return {"US$": "USD", "$": "USD", "RS": "INR", "EURO": "EUR"}.get(s, s)
+
+
+def _key(m: re.Match) -> Tuple:
+    g = m.groups()
+    return (_cur(g[0]), _num(g[1]), _num(g[2]) if len(g) > 2 and g[2] else _num(g[1]))
+
+
+def _mentions(text: str) -> List[Tuple[Tuple, int, int]]:
+    """Every printed price (ranges and each single value) as (key, start, end) in the cleaned text."""
+    out = [(_key(m), m.start(), m.end()) for m in MENTION.finditer(text)]
+    out += [(_key(m), m.start(), m.end()) for m in SINGLE.finditer(text)]
+    return out
+
+
+def _sentence(text: str, i: int) -> str:
+    """The sentence holding position i (a period ends a sentence only after two letters, digits or a bracket,
+    so U.S. / H.M.S. abbreviations do not split)."""
+    starts = [0] + [m.end() for m in re.finditer(r"(?<=[A-Za-z0-9)%*/\"]{2}[.!?])\s+|\n", text)]
+    s = max(x for x in starts if x <= i)
+    e = min([x for x in starts if x > i] + [len(text)])
+    return text[s:e]
+
+
+def gate(q: Dict[str, Any], text: str) -> Tuple[Optional[Dict[str, Any]], str]:
+    """(row fields, '') when the item is supported by the printed text, else (None, reason).
+    The price must be a printed price (same currency and numbers); the row keeps the PRINTED wording of it. A label
+    (grade, origin, terms, port) is kept only when its words (generic words aside) occur in the printed sentence that
+    carries the price; otherwise it is left blank, so the price survives without a guessed label."""
+    text = _clean(text)
+    pt = _clean(q.get("price_text") or "")
+    grade, origin = _clean(q.get("grade") or ""), _clean(q.get("origin") or "")
+    if origin.lower() in ("null", "none", "n/a"):
+        origin = ""
+    if not pt:
+        return None, "no price"
+    if NOT_SCRAP.search(grade):
+        return None, "not scrap"
+    m = MENTION.search(pt)
+    if not m:
+        return None, "price unparsed"
+    k = _key(m)
+    cands = [(s, e) for kk, s, e in _mentions(text) if kk == k]
+    if not cands:
+        return None, "price not printed"
+    sent_hint = _clean(q.get("sentence") or "").lower().replace("*", "")[:50]
+    q_country = COUNTRY.get((q.get("country") or "").strip().lower(), "")
+    country_words = {"India": ("india",), "Pakistan": ("pakistan",), "Bangladesh": ("bangladesh",),
+                     "Turkey": ("turk",)}.get(q_country, ())
+
+    def proven(v: str, sent: str) -> bool:
+        return all(w in sent for w in WORD.findall(v.lower()) if w not in GENERIC)
+
+    def score(se: Tuple[int, int]) -> Tuple[int, bool, bool]:
+        sent = _sentence(text, se[0]).lower()
+        return (proven(grade, sent) + proven(origin, sent), bool(sent_hint) and sent_hint in sent.replace("*", ""),
+                any(w in sent for w in country_words))
+
+    # the printed occurrence whose sentence proves the most labels (ties: the sentence Nace quoted)
+    s, e = max(cands, key=score)
+    sent = _sentence(text, s).lower()
+    blanked = [lab for lab, v in (("grade", grade), ("origin", origin)) if v and not proven(v, sent)]
+    grade = grade if proven(grade, sent) else ""
+    origin = origin if proven(origin, sent) else ""
+    printed = text[s:e]
+    g = MENTION.match(printed).groups()
+    cur, low = _cur(g[0]), _num(g[1])
+    high = _num(g[2]) if g[2] else low
+    usd_low = usd_high = ""
+    if cur == "USD":
+        usd_low, usd_high = low, high
+    elif g[3]:
+        usd_low = _num(g[3])
+        usd_high = _num(g[4]) if g[4] else usd_low
+    tp = _clean(q.get("terms_port") or "")
+    mt = re.match(r"^(CFR|CIF|FOB|ex-?works|delivered)\b\s*(.*)$", tp, re.I)
+    terms, port = (mt.group(1), mt.group(2)) if mt else ("", tp)
+    port = re.sub(r"^(into|at|to)\s+", "", port).strip().rstrip(".,")
+    if terms and not proven(terms, sent):
+        terms = ""
+    if port and not proven(port, sent):
+        blanked.append("port")
+        port = ""
+    terms = terms.upper() if terms.lower() in ("cfr", "cif", "fob") else terms.capitalize()
+    country = (q.get("country") or "").strip()
+    country = COUNTRY.get(country.lower(), country)
+    # a cross-market aside inside another country's paragraph: "...showing Bangladeshi bids for US HMS near US$370/t"
+    other = {COUNTRY_ADJ[a.lower()] for a in re.findall(r"\b(Bangladeshi|Pakistani|Indian|Turkish)\s+(?:bids|buyers|mills|importers|market)\b", sent, re.I)}
+    if len(other) == 1 and country not in other:
+        country = other.pop()
+    return {"country": country, "origin": origin, "grade": grade,
+            "price_text": printed, "currency": cur, "price_low": low, "price_high": high, "usd_low": usd_low,
+            "usd_high": usd_high, "price_type": (q.get("price_kind") or "").strip().capitalize(), "terms": terms,
+            "destination_port": port, "_sentence": _sentence(text, s)}, ("blanked " + "/".join(blanked)) if blanked else ""
+
+
+def _meta(md_text: str, k: str) -> str:
+    m = re.search(rf'^{k}:\s*"?([^"\n]+)', md_text, re.M)
+    return m.group(1).strip() if m else ""
+
+
+def rows_from_quotes(md_text: str, quotes: List[Dict[str, Any]], text: str) -> Tuple[List[Dict[str, Any]], List[Tuple]]:
+    base = {"issue_date": _meta(md_text, "issue_date"), "report_week": int(_meta(md_text, "report_week") or 0),
+            "source_file": Path(_meta(md_text, "source_file")).name}
+    rows, dropped, seen = [], [], set()
+    for q in quotes:
+        r, why = gate(q, text)
+        if r is None or why:
+            dropped.append((why, q.get("price_text"), q.get("grade"), q.get("origin")))
+        if r is None:
+            continue
+        k = tuple(str(r[c]).lower() for c in KEY[1:])
+        if k in seen:
+            continue
+        seen.add(k)
+        rows.append(dict(base, **r))
+    return rows, dropped
+
+
+def rows_for_md(md_text: str, name: str) -> List[Dict[str, Any]]:
+    """CI entry: one new issue's gated rows ([] when the issue has no ferrous section)."""
+    text = section(md_text)
+    if not text:
+        return []
+    rows = rows_from_quotes(md_text, nace_quotes(text, name), text)[0]
+    return [{c: r[c] for c in COLS} for r in rows]
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__.split("\n")[1])
+    ap.add_argument("--cache", help="dir of <md stem>.json Nace results ({'data': {'quotes': [...]}}); missing ones are fetched")
+    ap.add_argument("--write", action="store_true")
+    ap.add_argument("--report", action="store_true", help="list every dropped item")
+    a = ap.parse_args()
+    cache = Path(a.cache) if a.cache else None
+    out, n_drop = [], 0
+    for md in sorted(glob.glob(str(MD_DIR / "*" / "*.md"))):
+        t = open(md, encoding="utf-8").read()
+        text = section(t)
+        if not text:
+            continue
+        stem = Path(md).stem
+        cf = cache / f"{stem}.json" if cache else None
+        if cf and cf.exists():
+            quotes = (json.loads(cf.read_text(encoding="utf-8")).get("data") or {}).get("quotes") or []
+        else:
+            quotes = nace_quotes(text, stem)
+            if cf:
+                cf.write_text(json.dumps({"data": {"quotes": quotes}}, indent=1), encoding="utf-8")
+        rows, dropped = rows_from_quotes(t, quotes, text)
+        out += rows
+        n_drop += len(dropped)
+        print(f"{_meta(t, 'issue_date')} {stem[:60]:60} quotes {len(quotes):3} rows {len(rows):3} dropped {len(dropped)}")
+        if a.report:
+            for d in dropped:
+                print("     -", *d, sep=" | ")
+    out.sort(key=lambda r: r["issue_date"])
+    print(f"{len(out)} rows, {n_drop} items dropped by the gate")
+    if a.write:
+        s = io.StringIO()
+        w = csv.DictWriter(s, fieldnames=COLS, lineterminator="\n", extrasaction="ignore")
+        w.writeheader()
+        w.writerows(out)
+        SERIES_CSV.write_bytes(s.getvalue().encode("utf-8"))
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

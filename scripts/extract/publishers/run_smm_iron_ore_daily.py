@@ -955,8 +955,13 @@ def process_single_smm_report(pdf_path: Path) -> Dict[str, Any]:
     md_file = out_year_dir / f"{stem}.md"
     json_file = out_year_dir / f"{stem}.tables.json"
 
-    # Write Markdown
+    # Write Markdown (frontmatter cites the PDF by its corpus path, like every other MMI MD)
     md_content = generate_smm_markdown(data)
+    try:
+        rel = pdf_path.resolve().relative_to(ROOT).as_posix()
+        md_content = md_content.replace(f'source_file: "{pdf_path.name}"', f'source_file: "{rel}"', 1)
+    except ValueError:
+        pass
     md_file.write_text(md_content, encoding="utf-8")
 
     # Write Sidecar JSON
@@ -987,7 +992,13 @@ def get_all_1page_reports(pdf_root: Path) -> List[Path]:
             except ValueError:
                 candidates.extend(yr_dir.glob("*.pdf"))
 
+    # hellenic_scraper.py saves each issue flat in pdfs/ and sync_hellenic_live.py saves the same bytes in
+    # pdfs/<year>/; the year copy is canonical, so a flat copy holding bytes already in a year folder is skipped
+    # (otherwise every issue is extracted twice under two names, as 2026-10-06..10-19 were).
+    year_md5 = {hashlib.md5(f.read_bytes()).hexdigest() for f in candidates if f.parent != pdf_root}
     for f in sorted(candidates):
+        if f.parent == pdf_root and hashlib.md5(f.read_bytes()).hexdigest() in year_md5:
+            continue
         try:
             doc = pymupdf.open(str(f))
             if len(doc) == 1:

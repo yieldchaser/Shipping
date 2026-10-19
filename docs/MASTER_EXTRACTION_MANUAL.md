@@ -312,7 +312,7 @@ All normalized time-series datasets are persisted in [`data/extracted/series/`](
 | `hellenic_iron_ore_series.csv` | **1,171** | `issue_date,product_origin,grade,price_usd_per_dmt` | Spot iron ore assessments (62% Fe CFR China, lump, pellets). |
 | `hellenic_capesize_freight_series.csv` | **1,164** | `issue_date,route,freight_usd_per_t` | Key iron ore Capesize routes (Tubarao-Qingdao, W.Aust-Qingdao). |
 | `lion_sales_series.csv` | **1,145** | `issue_date,week,vessel_name,type,dwt,built,price_usd_m` | Lion Shipbrokers secondhand sales transactions. |
-| `star_asia_ferrous_scrap_series.csv` | **771** | `issue_date,week,origin,grade,price_usd_per_t,currency` | Domestic scrap, billet, rebar prices across Asia. |
+| `star_asia_ferrous_scrap_series.csv` | **1,315** | `issue_date,report_week,country,origin,grade,price_text,currency,price_low,price_high,usd_low,usd_high,price_type,terms,destination_port,source_file` | Ferrous scrap prices from the Sub-Continent & Turkey prose ($/t by country, origin, grade; Nace-read, gated on the printed sentence). |
 | `affinity_bda_series.csv` | **750** | `issue_date,week,segment,price_usd_per_ldt,change_wow` | Baltic Demolition Assessments (TKR/LRG, MED, SML). |
 | `lion_demolition_series.csv` | **516** | `issue_date,week,vessel_name,type,ldt,price_usd_per_ldt` | Demolition sales fixtures and country beachings. |
 | `star_asia_ldt_comparison_series.csv` | **210** | `issue_date,week,location,year,ldt_tonnage` | 5-Year Light Displacement Tonnage (LDT) totals. |
