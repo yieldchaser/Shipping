@@ -19,6 +19,7 @@ from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from asset_guard import asset_payload_verdict  # noqa: E402  (shared wall guard)
+from acquire.pdf_dedup import identical_copy  # noqa: E402  (byte-identical re-post guard)
 try:
     import anydoc  # optional accelerator: pip install firecrawl-anydoc
 except ImportError:  # fall back to pypdf extraction
@@ -194,7 +195,12 @@ def process_article(article_url, title, date_str):
                 if not ok:
                     print(f"    [!] Not saving raw PDF ({why}): {slug}")
                 elif not pdf_target.exists():
-                    pdf_target.write_bytes(pdf_bytes)
+                    twin = identical_copy(raw_pdf_dir, pdf_bytes)
+                    if twin is not None:
+                        print(f"    [=] Same bytes already held as {twin.name}; not saving {slug}.pdf")
+                        pdf_target = twin
+                    else:
+                        pdf_target.write_bytes(pdf_bytes)
                 local_pdf_path = str(pdf_target.relative_to(REPO_ROOT)).replace("\\", "/")
             except Exception as pe:
                 print(f"    [!] Failed saving raw PDF {slug}: {pe}")

@@ -319,6 +319,221 @@ def _parse_sp_fixtures_block(sp_text: str, valid_types: list[str]) -> list[str]:
     return rows_out
 
 
+# ---------------------------------------------------------------------------
+# Text-layer + word-geometry builders (2026-10 audit). The LiteParse route lost the Alang section, emptied the
+# VESSEL/TYPE header cells (so clean_star_asia dropped those columns), merged Reported Sales rows, cut paragraphs
+# and wrote "AWAITING" into blank BEACHING cells. These builders read only what the page prints.
+# ---------------------------------------------------------------------------
+_TYPO = {"–": "-", "—": "-", "’": "'", "‘": "'", "“": '"', "”": '"', "�": "-"}
+_RUNNING = re.compile(r"^(STAR ASIA\s*\||Week \d+\s*\||snp@|Page \d+$|Member of BIMCO|\(A Member of BIMCO|Singapore \| London"
+                      r"|Tel:|For Privacy Policy|This report is performed|and we emphasise|have obtained from|upon this report"
+                      r"|action or failure to act)")
+_LDT = re.compile(r"^\d{1,3}(,\d{3})*$")
+_LABEL = re.compile(r"^((?:Alang|Chattogram|Gaddani|Gadani|Aliaga), (?:India|Bangladesh|Pakistan|Turkey|Türkiye|Turkiye)"
+                    r"|India|Pakistan|Bangladesh|Turkiye|Türkiye|Turkey|China):\s")
+
+
+def _typo(s: str) -> str:
+    for a, b in _TYPO.items():
+        s = s.replace(a, b)
+    return s
+
+
+def _word_lines(words, tol=3.0):
+    out = []
+    for w in sorted(words, key=lambda w: ((w[1] + w[3]) / 2, w[0])):
+        cy = (w[1] + w[3]) / 2
+        if out and abs(out[-1][0] - cy) <= tol:
+            out[-1][1].append(w)
+        else:
+            out.append([cy, [w]])
+    return [(cy, sorted(ws, key=lambda w: w[0])) for cy, ws in out]
+
+
+def vessel_tables(page: pymupdf.Page):
+    """Tables whose header line holds VESSEL, TYPE and LDT (Reported Sales, <Port> Anchorage & Beaching Position).
+    Columns = header word clusters; rows anchored on the LDT number; other words join the nearest anchor row
+    (multi-line cells such as 'GENERAL / CARGO'). Returns [(title, header, rows, y_top, y_bottom)]; an empty
+    printed table ('-' cells) gives rows == []."""
+    L = _word_lines(page.get_text("words"))
+    res = []
+    for k, (cy, ws) in enumerate(L):
+        if not {"VESSEL", "TYPE", "LDT"} <= {w[4] for w in ws}:
+            continue
+        cols = []
+        for w in ws:
+            if cols and w[0] - cols[-1][2] < 12:
+                cols[-1][2] = w[2]; cols[-1][3] += " " + w[4]
+            else:
+                cols.append([w[0], cy, w[2], w[4]])
+        ldt = next(i for i, c in enumerate(cols) if c[3] == "LDT")
+        tx0, tx1 = cols[0][0] - 5, max(c[2] for c in cols) + 40
+        body, last = [], cy
+        for cy2, ws2 in L[k + 1:]:
+            wide = (ws2[-1][2] - ws2[0][0]) > 0.7 * (tx1 - tx0)
+            if cy2 - last > 28 or (len(ws2) > 9 and wide and not any(_LDT.match(w[4]) for w in ws2)):
+                break
+            body.append((cy2, ws2)); last = cy2
+
+        def col_of(w):
+            mx = (w[0] + w[2]) / 2
+            c = [i for i in range(len(cols)) if mx >= cols[i][0] - 6]
+            return c[-1] if c else 0
+        anchors = [cy2 for cy2, ws2 in body for w in ws2 if col_of(w) == ldt and _LDT.match(w[4])]
+        rows = [[[] for _ in cols] for _ in anchors]
+        if anchors:
+            for cy2, ws2 in body:
+                for w in ws2:
+                    r = min(range(len(anchors)), key=lambda i: abs(anchors[i] - cy2))
+                    rows[r][col_of(w)].append((cy2, w[0], w[4]))
+        rows = [[_typo(" ".join(t for _, _, t in sorted(c))) for c in r] for r in rows]
+        # printed slip dd.mmyyyy (e.g. 01.102026) -> dd.mm.yyyy
+        rows = [[re.sub(r"^(\d\d)\.(\d\d)(\d{4})$", r"\1.\2.\3", c) for c in r] for r in rows]
+        title = _typo(" ".join(w[4] for w in L[k - 1][1])) if k else ""
+        res.append((title, [c[3] for c in cols], rows, L[k - 1][0] - 4 if k else cy - 4, last + 4))
+    return res
+
+
+def _table_md(header, rows, align=None):
+    out = ["| " + " | ".join(header) + " |", align or "|" + "---|" * len(header)]
+    out += ["| " + " | ".join(c if c else " " for c in r) + " |" for r in rows]
+    return "\n".join(out)
+
+
+def _paragraphs(lines):
+    """Text-layer lines -> paragraphs: blank line / large gap / label start opens a new one; a line ending in '-'
+    joins the next without a space (dollar-/priced, near-/term)."""
+    paras, cur, last_y = [], "", None
+    for y, txt in lines:
+        txt = _typo(txt.strip())
+        if not txt:
+            continue
+        new = cur and (last_y is not None and y - last_y > 16 or _LABEL.match(txt))
+        if new:
+            paras.append(cur); cur = ""
+        cur = cur + txt if cur.endswith("-") or not cur else cur + " " + txt
+        last_y = y
+    if cur:
+        paras.append(cur)
+    out = []
+    for p in paras:
+        m = _LABEL.match(p)
+        out.append(f"**{m.group(1)}:** {p[m.end():]}" if m else p)
+    return out
+
+
+def _page_text_lines(page, exclude=()):
+    """(y, text) per text-layer line, running header/footer removed, lines inside `exclude` y-bands dropped."""
+    out = []
+    for b in page.get_text("dict")["blocks"]:
+        for ln in b.get("lines", []):
+            t = "".join(s["text"] for s in ln["spans"]).strip()
+            y = (ln["bbox"][1] + ln["bbox"][3]) / 2
+            if not t or _RUNNING.match(t) or any(a <= y <= z for a, z in exclude):
+                continue
+            out.append((y, ln["bbox"][0], t))
+    out.sort()
+    merged = []
+    for y, x, t in out:      # same visual line split into spans -> one line
+        if merged and abs(merged[-1][0] - y) < 2.5:
+            merged[-1] = (merged[-1][0], merged[-1][1] + " " + t)
+        else:
+            merged.append((y, t))
+    return merged
+
+
+_HEADINGS = {
+    "Market Insights": "## Market Insights",
+    "SUB-CONTINENT & TURKEY SCRAP MARKETS": "# SUB-CONTINENT & TURKEY SCRAP MARKETS",
+    "COMMODITIES, BUNKERS & RATES": "# COMMODITIES, BUNKERS & RATES",
+    "Commodities Focus": "## Commodities Focus",
+}
+
+
+def anchorage_page_md(page: pymupdf.Page) -> str:
+    """Market Insights / Anchorage & Beaching pages, in print order: port commentary (bold port labels), each
+    '<Port> Anchorage & Beaching Position' table from word geometry, TIDE DATES, scrap-market commentary."""
+    tabs = vessel_tables(page)
+    events = [(y0, "T", (title, hdr, rows)) for title, hdr, rows, y0, y1 in tabs]
+    lines = _page_text_lines(page, exclude=[(y0, y1) for *_, y0, y1 in tabs])
+    out, buf = [], []
+
+    def flush():
+        if buf:
+            out.extend(p + "\n" for p in _paragraphs(buf)); buf.clear()
+    seq = sorted([(y, "L", t) for y, t in lines] + events, key=lambda e: e[0])
+    for y, kind, v in seq:
+        if kind == "T":
+            flush()
+            title, hdr, rows = v
+            if title:
+                out.append(f"## {title}\n")
+            out.append((_table_md(hdr, rows) if rows else _table_md(hdr, [["-"] * len(hdr)])) + "\n")
+            continue
+        t = _typo(v).strip()
+        if t in _HEADINGS:
+            flush(); out.append(_HEADINGS[t] + "\n")
+        elif t.startswith("TIDE DATES"):
+            flush()
+            if out and out[-1].startswith("## TIDE DATES"):
+                out[-1] = out[-1].rstrip("\n") + " " + t + "\n"
+            else:
+                out.append(f"## {t}\n")
+        elif re.match(r"^(Alang|Chattogram):\s", t) and out and out[-1].startswith("## TIDE DATES") and not buf:
+            out[-1] = out[-1].rstrip("\n") + " " + t + "\n"
+        else:
+            buf.append((y, t))
+    flush()
+    return "\n".join(out).strip()
+
+
+def prose_before(page: pymupdf.Page, stop_titles) -> str:
+    """Prose and section headings above the first table title on a page (e.g. Commodities Focus above Iron Ore)."""
+    lines = _page_text_lines(page)
+    stop = next((y for y, t in lines if t.strip() in stop_titles), None)
+    out, buf = [], []
+    for y, t in lines:
+        if stop is not None and y >= stop:
+            break
+        t = _typo(t).strip()
+        if t in _HEADINGS:
+            if buf:
+                out.extend(_paragraphs(buf)); buf = []
+            out.append(_HEADINGS[t])
+        else:
+            buf.append((y, t))
+    if buf:
+        out.extend(_paragraphs(buf))
+    return "\n\n".join(out)
+
+
+def note_lines(page: pymupdf.Page, start: str, stop_prefixes) -> list:
+    """Footnote block starting with `start` (e.g. '* Turkey prices'), up to a line starting with a stop prefix."""
+    lines = _page_text_lines(page)
+    i = next((k for k, (_, t) in enumerate(lines) if t.strip().startswith(start)), None)
+    if i is None:
+        return []
+    out = []
+    for _, t in lines[i:]:
+        t = _typo(t).strip()
+        if any(t.startswith(s) for s in stop_prefixes):
+            break
+        if t in ("", "•", "-") or len(t) <= 1:
+            out.append("")
+            continue
+        out.append(t)
+    blocks, cur = [], ""
+    for t in out:
+        if not t:
+            if cur:
+                blocks.append(cur); cur = ""
+            continue
+        cur = cur + t if cur.endswith("-") or not cur else cur + " " + t
+    if cur:
+        blocks.append(cur)
+    return blocks
+
+
 def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
     """Reconstructs clean markdown for tabular pages with proper headers and complete columns."""
     text = page.get_text("text").replace("\ufffd", "-").replace("\u2013", "-").replace("\u2014", "-")
@@ -484,6 +699,18 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
                 s_clean = " ".join(s.split()).rstrip("/").strip()
                 out_lines.append(f"| {dest} | {t} | {b} | {g} | {c} | {s_clean} |")
         out_lines.append("")
+        notes = note_lines(page, "* ", ("5-Year Historical", "Reported Sales", "SHIPS SOLD"))
+        if notes:
+            first = notes[0].lstrip("* ")
+            if " less. " in first:
+                first, rest = first.split(" less. ", 1)
+                out_lines.append(f"*{first} less.*\n")
+                out_lines.append(rest + "\n")
+                out_lines.extend(f"- {n}" for n in notes[1:])
+            else:
+                out_lines.append(f"*{first}*\n")
+                out_lines.extend(n + "\n" for n in notes[1:])
+            out_lines.append("")
 
         if hist_text:
             # Extract the 5 historical year column headers (e.g. 2021, 2022, 2023, 2024, 2025)
@@ -505,7 +732,18 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
                     out_lines.extend(hist_rows)
                     out_lines.append("")
 
-        if "Reported Sales" in text or "SHIPS SOLD FOR RECYCLING" in text:
+        geo_sales = [v for v in vessel_tables(page) if v[1] and v[1][0].startswith("VESSEL") and "ARRIVAL" not in v[1]]
+        if geo_sales:
+            out_lines.append("### Demolition - Reported Sales\n")
+            out_lines.append("| VESSEL | TYPE | LDT | BUILT | PRICE ($/LDT) | DELIVERY / TERMS |")
+            out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
+            rows = geo_sales[0][2]
+            for r in rows:
+                r = (r + [""] * 6)[:6]
+                out_lines.append("| " + " | ".join(c or "-" for c in r) + " |")
+            if not rows:
+                out_lines.append("| NIL | NIL | NIL | NIL | NIL | No reported sales this week |")
+        elif "Reported Sales" in text or "SHIPS SOLD FOR RECYCLING" in text:
             out_lines.append("### Demolition - Reported Sales\n")
             out_lines.append("| VESSEL | TYPE | LDT | BUILT | PRICE ($/LDT) | DELIVERY / TERMS |")
             out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
@@ -644,6 +882,9 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
     elif any(k in text for k in ["Copper (Comex)", "Industrial Metal Rates", "Commodity Prices", "Crude Oil & Natural Gas"]):
         out_sections = []
         lines = [l.strip() for l in text.splitlines() if l.strip()]
+        prose = prose_before(page, {"Iron Ore", "Industrial Metal Rates", "Crude Oil & Natural Gas", "Exchange Rates", "Commodity Prices"})
+        if prose:
+            out_sections.append(prose + "\n")
 
         # 6a. Iron Ore
         if any(k in text for k in ["Iron Ore Lumps", "Iron Ore Fines"]):
@@ -740,6 +981,9 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
                 for r in rows:
                     out_sections.append(f"| {r[0]} | {r[1]} | {r[2]} | {r[3]} | {r[4]} | {r[5]} |")
                 out_sections.append("")
+                cob = next((l for l in lines if l.startswith("* All rates")), "")
+                if cob:
+                    out_sections.append(f"*{_typo(cob.lstrip('* '))}*\n")
 
         # 6d. Exchange Rates
         if "Exchange Rates" in text or "USD / CNY" in text:
@@ -770,11 +1014,30 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
                     out_sections.append(f"| {r[0]} | {r[1]} | {r[2]} | {r[3]} |")
                 out_sections.append("")
 
+        if "Bunker Prices" in text:
+            bunker = _bunker_md(text)
+            if bunker:
+                out_sections.append(bunker)
         if out_sections:
             return "\n".join(out_sections)
 
     # 7. PAGE: Bunker Prices & Disclaimer
     elif "Bunker Prices" in text:
+        return _bunker_md(text)
+
+    # 8. PAGE: Market Insights & Anchorage / Beaching Positions (pages 12-14): text layer + word geometry
+    elif "Anchorage & Beaching Position" in text:
+        return anchorage_page_md(page)
+
+    # 9. PAGE: commodities commentary without tables (continues the scrap-market prose)
+    elif "Commodities Focus" in text:
+        return prose_before(page, ())
+
+    return ""
+
+
+def _bunker_md(text: str) -> str:
+    if True:
         ports = ["SINGAPORE", "HONG KONG", "FUJAIRAH", "ROTTERDAM", "HOUSTON", "GIBRALTAR", "PANAMA"]
         headers = ["PORT", "VLSFO (0.5%)", "HSFO (3.5%)", "MGO (0.1%)"]
         lines = [l.strip() for l in text.splitlines() if l.strip()]
@@ -806,68 +1069,6 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
                 out.append(f"| {r[0]} | {r[1]} | {r[2]} | {r[3]} |")
             out.append("")
         return "\n".join(out)
-
-    # 8. PAGE: Market Insights & Anchorage / Beaching Positions (Pages 12 & 13)
-    elif "Anchorage & Beaching Position" in text and lp_md:
-        augmented_md = lp_md
-        demo_types_set = {
-            "BULKER", "TANKER", "CONTAINER", "GENERAL CARGO", "GC", "GEN CARGO",
-            "MPP", "ROPAX", "RORO", "LNG", "LPG", "REEFER", "FERRY", "OFFSHORE",
-            "TUG", "BARGE", "DRILLSHIP", "FPSO", "FSO", "VLOC", "PCC", "PCTC", "CHEM"
-        }
-        for port_lbl, next_anchor in [
-            ("Alang", "**Chattogram"),
-            ("Chattogram", "**Gaddani"),
-            ("Gaddani", "**Aliaga"),
-        ]:
-            m_ab = re.search(rf"({port_lbl}\s+Anchorage\s*&\s*Beaching\s+Position[^\n]*)\n(.*?)(?=(?:Chattogram,\s*Bangladesh:|Gaddani,\s*Pakistan:|Aliaga,\s*Turkey:|SUB-CONTINENT|TIDE DATES|\Z))", text, re.DOTALL)
-            if m_ab and f"{port_lbl} Anchorage" not in augmented_md:
-                hdr_title = m_ab.group(1).strip()
-                ab_body = m_ab.group(2).strip()
-                ab_lines = [l.strip() for l in ab_body.splitlines() if l.strip()]
-                # Advance past BEACHING header
-                k = 0
-                while k < len(ab_lines) and ab_lines[k].upper() != "BEACHING":
-                    k += 1
-                k += 1
-                rem = ab_lines[k:]
-                tbl_md_lines = [
-                    f"\n### {hdr_title}\n",
-                    "| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |",
-                    "| :--- | :---: | :---: | :---: | :---: |",
-                ]
-                if not rem or all(x == "-" for x in rem):
-                    tbl_md_lines.append("| NIL | NIL | NIL | NIL | No vessels reported |")
-                else:
-                    r_idx = 0
-                    while r_idx < len(rem):
-                        v_p = [rem[r_idx]]
-                        r_idx += 1
-                        while r_idx < len(rem) and rem[r_idx].upper() not in demo_types_set:
-                            v_p.append(rem[r_idx])
-                            r_idx += 1
-                        v_n = " ".join(v_p).strip()
-                        v_t = rem[r_idx].upper() if r_idx < len(rem) else "-"
-                        r_idx += 1
-                        v_l = rem[r_idx] if (r_idx < len(rem) and re.match(r"^[\d,]+$", rem[r_idx])) else "-"
-                        if v_l != "-":
-                            r_idx += 1
-                        v_arr = rem[r_idx] if (r_idx < len(rem) and re.match(r"^\d{2}\.\d{2}\.\d{4}$", rem[r_idx])) else "-"
-                        if v_arr != "-":
-                            r_idx += 1
-                        v_bch = "AWAITING"
-                        if r_idx < len(rem) and (re.match(r"^\d{2}\.\d{2}\.\d{4}$", rem[r_idx]) or rem[r_idx].upper() in ["AWAITING", "BEACHED", "DELIVERED", "-"]):
-                            v_bch = rem[r_idx]
-                            r_idx += 1
-                        if v_n:
-                            tbl_md_lines.append(f"| {v_n} | {v_t} | {v_l} | {v_arr} | {v_bch} |")
-                tbl_block = "\n".join(tbl_md_lines) + "\n\n"
-                ins_pos = augmented_md.find(next_anchor)
-                if ins_pos != -1:
-                    augmented_md = augmented_md[:ins_pos] + tbl_block + augmented_md[ins_pos:]
-                else:
-                    augmented_md = augmented_md + "\n" + tbl_block
-        return augmented_md
 
     return ""
 

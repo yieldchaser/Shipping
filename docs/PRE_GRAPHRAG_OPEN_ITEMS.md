@@ -31,10 +31,20 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
 2. **Duplicate Star Asia PDFs from two ingest paths.** `report_ingest.yml` saves `star_asia_2026_W4x_Market-Report-Week-4x.pdf`
    and `broker_reports_weekly.yml` saves `star_asia_DD_MM_2026_..._week_4x.pdf` (identical bytes, W41/W42).
    `star_asia_deals_series.csv` W40 rows cite `star_asia_05_10_2026_*.pdf`, which is not on disk.
-   - [ ] one canonical fetch path  - [ ] duplicates removed  - [ ] dangling source_file fixed
+   - [x] fetch guard: both fetchers skip bytes already held (`scripts/acquire/pdf_dedup.py`)
+   - [ ] duplicates removed  - [x] dangling W40 source_file fixed (series rows rebuilt from the W40 MD)
+   **Wider scan (2026-10-20):** 2,607 byte-identical PDF groups on disk, mostly untracked mirror folders
+   (hellenic `iron_ore/pdfs/` vs `pdfs/YYYY/`, `demolition/pdfs/` vs `pdfs/<slug>/`, `shipbuilding/breakwave_pdfs/`,
+   PPA `_root_pdfs/` vs `ppa_pdf/`, `corpus/archive/`). Duplicate **MDs** (what GraphRAG reads): 11 groups.
+   - [ ] Hellenic MMI daily: every issue 2026-10-06..10-19 extracted twice (two filename schemes, same PDF bytes)
+   - [ ] Agora W41 2026 extracted twice (`agora_09_10_2026_*` and `agora_2026_W41_*`)
+   - [ ] the ingest path producing the MMI twins fixed
 
 ## Residuals (not blockers, to close)
 
+- [ ] Star Asia pages 2/3/5/6 (dry-bulk segment table, vessel-value DWT column, tanker WS rates, an S&P row):
+      numbers missing in both the stored MDs and the live builder; scope across the corpus and fix.
+- [x] Star Asia W40: PORTLAND 11 beaching printed blank, MD said "AWAITING" (old builder default) - fixed.
 - [ ] Intermodal: 23 MDs with "(en bloc)" sale rows, 74 single-cell residuals.
 - [ ] Advanced Shipping: 15 cell conflicts left after the geometry splice.
 - [ ] `docs/EXTRACTION_REGISTER.md`: claims Xclusiv is "100% cover-to-cover" (false: contacts page excluded; the

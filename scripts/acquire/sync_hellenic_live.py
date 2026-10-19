@@ -22,6 +22,8 @@ from pathlib import Path
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from pdf_dedup import identical_copy  # noqa: E402  (byte-identical re-post guard)
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 HEADERS = {"User-Agent": USER_AGENT}
 
@@ -128,6 +130,11 @@ def download_file(url, target_path):
             with urllib.request.urlopen(req, timeout=30) as resp:
                 data = resp.read()
                 if len(data) > 500:
+                    if target_path.suffix.lower() == ".pdf":
+                        twin = identical_copy(target_path.parent, data)
+                        if twin is not None:
+                            print(f"  [=] Same bytes already held as {twin.name}; not saving {target_path.name}")
+                            return False, "duplicate"
                     with open(target_path, "wb") as f:
                         f.write(data)
                     # Dual-save mirror if under corpus/02-hellenic

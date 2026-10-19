@@ -241,7 +241,7 @@ Container shipping market halted its upward climb this week as the SCFI index ed
 
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
 | :--- | :---: | :---: | :---: | :---: |
-| PORTLAND 11 | BULKER | 7,381 | 28.09.2026 | AWAITING |
+| PORTLAND 11 | BULKER | 7,381 | 28.09.2026 |  |
 
 **Aliaga, Turkey:** Aliaga experienced a subtle positive shift, with indications inching upward in tandem with the traditional seasonal firming. Buyers have shown more flexibility on price to secure available inventory, responding to a modest pickup in regional manufacturing inquiries and firmer scrap demand across domestic mills.
 
