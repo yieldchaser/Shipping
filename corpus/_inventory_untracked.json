@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2933,
-      "untracked_bytes": 2297417240
+      "untracked_files": 2934,
+      "untracked_bytes": 2299180156
     },
     {
       "path": "corpus/02-hellenic",
@@ -12,8 +12,8 @@
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 10,
+      "untracked_bytes": 2555839
     },
     {
       "path": "corpus/04-poten",
@@ -14701,6 +14701,11 @@
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_2026_xclusiv-2026_09_28.pdf",
       "bytes": 1806465,
       "sha256": "2f3d3072b41c38fed848d40a4d98026103404a08fb8da41591764c2e8877e53c"
+    },
+    {
+      "path": "corpus/01-brokers/xclusiv/2026/xclusiv_2026_xclusiv-2026_10_19.pdf",
+      "bytes": 1762916,
+      "sha256": "5fd1b881aa3244d806a199a85c2f1336e918412e024c72bef8981706ccc9732f"
     },
     {
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026.pdf",
@@ -35041,6 +35046,11 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/tankers/2026/2026-10-20_Breakwave_Tankers.pdf",
+      "bytes": 519853,
+      "sha256": "6154738bceeb2a3176f6060c3cfe39a387b6305832f69699e8a877aa5fd31270"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
