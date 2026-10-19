@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T18:25:18Z",
-  "current_date": "2026-10-18",
-  "warning_count": 4,
+  "generated_at": "2026-10-19T16:51:00Z",
+  "current_date": "2026-10-19",
+  "warning_count": 2,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -12,53 +12,10 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 4
+      "watch": 2
     }
   },
   "warnings": [
-    {
-      "severity": "watch",
-      "kind": "topic_divergence",
-      "key": "coal_and_grain_flows",
-      "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
-      "details": {
-        "topic_id": "coal_and_grain_flows",
-        "title": "Coal and Grain Flows",
-        "severity": "watch",
-        "score_diff": 0.75,
-        "source_scores": [
-          {
-            "source": "hellenic",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "neutral",
-            "doc_count": 6,
-            "latest_date": "2026-10-14"
-          },
-          {
-            "source": "baltic",
-            "avg_tone_score": 0.5,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-10-16"
-          },
-          {
-            "source": "breakwave",
-            "avg_tone_score": 0.6,
-            "dominant_tone": "constructive",
-            "doc_count": 5,
-            "latest_date": "2026-10-13"
-          },
-          {
-            "source": "breakwave_insights",
-            "avg_tone_score": 0.75,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-10-16"
-          }
-        ],
-        "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
-      }
-    },
     {
       "severity": "watch",
       "kind": "topic_divergence",
@@ -100,49 +57,6 @@
           }
         ],
         "message": "Oil and OPEC shows recent tone divergence: breakwave reads constructive while hellenic reads neutral."
-      }
-    },
-    {
-      "severity": "watch",
-      "kind": "topic_divergence",
-      "key": "panamax_and_supramax",
-      "message": "Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
-      "details": {
-        "topic_id": "panamax_and_supramax",
-        "title": "Panamax and Supramax",
-        "severity": "watch",
-        "score_diff": 0.83,
-        "source_scores": [
-          {
-            "source": "hellenic",
-            "avg_tone_score": -0.08,
-            "dominant_tone": "neutral",
-            "doc_count": 6,
-            "latest_date": "2026-10-14"
-          },
-          {
-            "source": "baltic",
-            "avg_tone_score": 0.5,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-10-16"
-          },
-          {
-            "source": "breakwave",
-            "avg_tone_score": 0.5,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-10-13"
-          },
-          {
-            "source": "breakwave_insights",
-            "avg_tone_score": 0.75,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-10-16"
-          }
-        ],
-        "message": "Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
       }
     },
     {

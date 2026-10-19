@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2937,
-      "untracked_bytes": 2298750672
+      "untracked_files": 2933,
+      "untracked_bytes": 2297417240
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,16 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/advanced_shipping/2026/advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.md",
-      "bytes": 18580,
-      "sha256": "b7aa5ea542aebb0a1d8b145bda2e411ad6d15a92522d4c7504988e983cacf3ff"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/affinity/2026/affinity_17_10_2026_affinity_tanker_weekly_16_october_2026.md",
-      "bytes": 12361,
-      "sha256": "32e28d542f6d72633b5cde4a757de16c544b5b88acc3e7360f7d5e14d7cca32f"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -1131,11 +1121,6 @@
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
       "bytes": 1023184,
       "sha256": "65cfe5f2afb8feb3b295356965e488d620377b628bb791b70b7c8be282126764"
-    },
-    {
-      "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
-      "bytes": 1027616,
-      "sha256": "1f33df81bb847f1b7319ae2be7c24c53ee21530f19ed43d51f0b853540f2a8a9"
     },
     {
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
@@ -2416,11 +2401,6 @@
       "path": "corpus/01-brokers/affinity/2026/affinity_03_10_2026_affinity_tanker_weekly_2_october_2026.pdf",
       "bytes": 270530,
       "sha256": "dcbcb0dc5c0a7ae86f9b7a364ca86153b5c50566f99a9ec18c900db6839ef838"
-    },
-    {
-      "path": "corpus/01-brokers/affinity/2026/affinity_17_10_2026_affinity_tanker_weekly_16_october_2026.pdf",
-      "bytes": 274875,
-      "sha256": "ea7f5aafddb0d517b38ba413e86fef7a701a2bba8e1aea668f72a4056bbc30b2"
     },
     {
       "path": "corpus/01-brokers/affinity/2026/affinity_19_09_2026_affinity_tanker_weekly_18_september_2026.pdf",

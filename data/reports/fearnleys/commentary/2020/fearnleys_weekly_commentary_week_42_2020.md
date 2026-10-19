@@ -6,7 +6,7 @@ week: 42
 date_range: "2020-10-12 to 2020-10-14"
 comments_count: 12
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-19 11:11:32"
+generated_at: "2026-10-19 14:47:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 42, 2020

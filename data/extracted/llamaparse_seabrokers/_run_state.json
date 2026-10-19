@@ -1260,6 +1260,19 @@
       "source_file": "corpus/05-seabrokers/pdfs/2026-09-01_market-report-september-2026.pdf",
       "extracted_file": "data/extracted/md/seabrokers/2026/2026-09-01_market-report-september-2026.md",
       "tables_file": "data/extracted/md/seabrokers/2026/2026-09-01_market-report-september-2026.tables.json"
+    },
+    "2023-12-01_markedsrapport-desember-2023": {
+      "stem": "2023-12-01_markedsrapport-desember-2023",
+      "issue_date": "2023-12-01",
+      "year": 2023,
+      "month": 12,
+      "title": "Seabreeze Monthly Offshore Market Report - December 2023",
+      "pages": 4,
+      "tables_count": 4,
+      "word_count": 1605,
+      "source_file": "corpus/05-seabrokers/pdfs/2023-12-01_markedsrapport-desember-2023.pdf",
+      "extracted_file": "data/extracted/md/seabrokers/2023/2023-12-01_markedsrapport-desember-2023.md",
+      "tables_file": "data/extracted/md/seabrokers/2023/2023-12-01_markedsrapport-desember-2023.tables.json"
     }
   },
   "failed": {
