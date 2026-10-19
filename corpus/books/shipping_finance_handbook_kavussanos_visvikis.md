@@ -4247,84 +4247,86 @@ MLPs are publicly listed entities that combine stable revenue and tax ben-
 efi ts under US federal law when the majority of their income is generated from
 qualifying resources, mostly related to energy or other natural resources, such
 as petroleum and natural gas extraction and transportation. Most MLPs are
-US
-Oslo
-Hong Kong
-Other
-Total
-2004
-11
-\# of
-Offerings
-Amount
-($m)
-Mkt
-share
-\# of
-Offerings
-Amount
-($m)
-Mkt
-share
-\# of
-Offerings
-Amount
-($m)
-Mkt
-share
-\# of
-Offerings
-\# of
-Offerings
-Amount
-($m)
-Amount
-($m)
-Mkt
-share
+
+**Fig. 3.12  Global shipping public offerings of common equity**
+
+\$ million — Other, Gas, Container, Dry, Tanker (chart legend)
+
+( Note : Excludes underwriters’ over-allotment option and listings in the offshore
+sector
+Source : Morgan Stanley Research)
+
+| Year | US # of Offerings | US Amount ($m) | US Mkt share | Oslo # of Offerings | Oslo Amount ($m) | Oslo Mkt share | Hong Kong # of Offerings | Hong Kong Amount ($m) | Hong Kong Mkt share | Other # of Offerings | Other Amount ($m) | Other Mkt share | Total # of Offerings | Total Amount ($m) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2004 | 11 | 1,204 | 48% | 2 | 60 | 2% | 2 | 1,065 | 43% | 2 | 161 | 6% | 17 | 2,490 |
+| 2005 | 20 | 3,608 | 56% | 2 | 335 | 5% | 2 | 1,428 | 22% | 8 | 1,078 | 17% | 32 | 6,448 |
+| 2006 | 13 | 1,713 | 50% | 3 | 404 | 12% | - | - | 0% | 9 | 1,311 | 38% | 25 | 3,427 |
+| 2007 | 23 | 3,488 | 33% | 4 | 313 | 3% | 1 | 1,470 | 14% | 10 | 5,196 | 50% | 38 | 10,467 |
+| 2008 | 15 | 2,372 | 66% | 1 | 350 | 10% | 1 | 35 | 1% | 2 | 810 | 23% | 19 | 3,567 |
+| 2009 | 22 | 2,639 | 34% | 3 | 276 | 4% | 1 | 98 | 1% | 9 | 4,855 | 62% | 35 | 7,868 |
+| 2010 | 27 | 3,297 | 63% | 3 | 357 | 7% | 2 | 429 | 8% | 9 | 1,176 | 22% | 41 | 5,259 |
+| 2011 | 13 | 1,478 | 50% | 2 | 359 | 12% | - | - | 0% | 4 | 1,141 | 38% | 19 | 2,978 |
+| 2012 | 10 | 1,055 | 42% | - | - | 0% | - | - | 0% | 5 | 1,485 | 58% | 15 | 2,540 |
+| 2013 | 40 | 4,871 | 52% | 17 | 3,232 | 35% | - | - | 0% | 9 | 1,192 | 13% | 66 | 9,296 |
+| 2014 | 34 | 3,888 | 64% | 11 | 1,344 | 22% | - | - | 0% | 11 | 832 | 14% | 56 | 6,063 |
+| **Total** | 228 | 29,614 | 49% | 48 | 7,030 | 12% | 9 | 4,525 | 7% | 78 | 19,236 | 32% | 363 | 60,405 |
+
 **Fig. 3.13  Global shipping public offerings of common equity by country**
 
 ( Note : Excludes underwriters’ over-allotment option and listings in the offshore
 sector
 Source : Morgan Stanley Research)
--
-2,000
-4,000
-6,000
-8,000
-Other
-Gas
-Container
-Dry
-Tanker
-10,000
-12,000
-2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
-$ million
 
-**Fig. 3.12  Global shipping public offerings of common equity**
+88
+F. Giannakoulis
+
+| Year | IPOs # of Offerings | IPOs Amount ($m) | Additional # of Offerings | Additional Amount ($m) | Total # of Offerings | Total Amount ($m) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2004 | 3 | 510 | 8 | 694 | 11 | 1,204 |
+| 2005 | 15 | 3,041 | 5 | 567 | 20 | 3,608 |
+| 2006 | 5 | 898 | 8 | 815 | 13 | 1,713 |
+| 2007 | 6 | 1,276 | 17 | 2,213 | 23 | 3,488 |
+| 2008 | 4 | 554 | 11 | 1,818 | 15 | 2,372 |
+| 2009 | - | - | 22 | 2,639 | 22 | 2,639 |
+| 2010 | 5 | 878 | 22 | 2,419 | 27 | 3,297 |
+| 2011 | 3 | 453 | 10 | 1,026 | 13 | 1,478 |
+| 2012 | 1 | 329 | 9 | 726 | 10 | 1,055 |
+| 2013 | 5 | 1,379 | 35 | 3,492 | 40 | 4,871 |
+| 2014 | 3 | 490 | 31 | 3,398 | 34 | 3,888 |
+| **Total** | 50 | 9,807 | 178 | 19,807 | 228 | 29,614 |
+
+**Fig. 3.14  US-listed shipping public offerings of common equity**
 
 ( Note : Excludes underwriters’ over-allotment option and listings in the offshore
 sector
 Source : Morgan Stanley Research)
-88
-F. Giannakoulis
+
+| Year | IPOs # of Offerings | IPOs Amount ($m) | Additional # of Offerings | Additional Amount ($m) | Total # of Offerings | Total Amount ($m) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2004 | 4 | 1,195 | 2 | 91 | 6 | 1,286 |
+| 2005 | 9 | 2,729 | 3 | 111 | 12 | 2,840 |
+| 2006 | 7 | 1,191 | 5 | 524 | 12 | 1,715 |
+| 2007 | 11 | 6,666 | 4 | 313 | 15 | 6,979 |
+| 2008 | 2 | 810 | 2 | 385 | 4 | 1,195 |
+| 2009 | 2 | 134 | 11 | 5,095 | 13 | 5,229 |
+| 2010 | 8 | 1,061 | 6 | 901 | 14 | 1,962 |
+| 2011 | 4 | 549 | 2 | 951 | 6 | 1,500 |
+| 2012 | 4 | 285 | 1 | 1,200 | 5 | 1,485 |
+| 2013 | 8 | 1,402 | 18 | 3,023 | 26 | 4,425 |
+| 2014 | 9 | 855 | 13 | 1,320 | 22 | 2,175 |
+| **Total** | 68 | 16,876 | 67 | 13,914 | 135 | 30,791 |
+
+**Fig. 3.15  Non-US shipping public offerings of common equity**
+
+( Note : Excludes underwriters’ over-allotment option and listings in the offshore
+sector
+Source : Morgan Stanley Research)
 
 limited partnerships, but they can also be limited liability companies or busi-
 ness trusts that are managed and operated by a general partner who is owned
 by the sponsor. Because MLPs are classified as partnerships, they are treated as
 “pass through” for tax purposes and avoid corporate income tax at both state
 and federal levels, reducing therefore their cost of funding which allows them to
-**Fig. 3.14  US-listed shipping public offerings of common equity**
-
-( Note : Excludes underwriters’ over-allotment option and listings in the offshore
-sector
-Source : Morgan Stanley Research)
-**Fig. 3.15  Non-US shipping public offerings of common equity**
-
-( Note : Excludes underwriters’ over-allotment option and listings in the offshore
-sector
-Source : Morgan Stanley Research)
 
 ## 3 Overview of Shipping Finance
 
