@@ -992,11 +992,10 @@ Steven Jones
 Professional Development Manager
 The Nautical Institute
 
-## Contents
 
 # CONTENTS
 
-# PAGE
+PAGE
 
 INSIDE FRONT COVER
 WORLD DISTANCE TABLE
@@ -1038,7 +1037,7 @@ Clyde
 30 Strait of Gibraltar
 31 Northern Mediterranean
 
-# PAGE
+PAGE
 
 31 Gulf of Naples
 31 Gulf of Tunis

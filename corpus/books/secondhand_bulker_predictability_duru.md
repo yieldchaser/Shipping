@@ -28,16 +28,16 @@ models_evaluated:
 
 <!-- Page 2 -->
 
-# journal homepage: www.elsevier.com/locate/ajsl
+journal homepage: www.elsevier.com/locate/ajsl
 
-# The Asian Journal of Shipping and Logistics
+The Asian Journal of Shipping and Logistics
 
-# Contents lists available at ScienceDirect
+Contents lists available at ScienceDirect
 
-# HOSTED BY
+HOSTED BY
 ELSEVIER
 
-# The Asian Journal of Shipping and Logistics
+The Asian Journal of Shipping and Logistics
 
 # Predictability of second-hand bulk carriers with a novel hybrid algorithm
 
@@ -49,7 +49,7 @@ b Department of Econometrics, Dokuz Eylul University, Turkey
 
 c Maritime and Logistics Management Department, University of Tasmania-Australian Maritime College, Launceston, Australia
 
-# ARTICLE INFO
+## ARTICLE INFO
 
 Article history:
 Received 29 January 2021
@@ -62,13 +62,13 @@ Predictability
 Lead-lag structure
 Shipping Q index
 
-# ABSTRACT
+## ABSTRACT
 
 This paper investigates the predictability of the asset prices of commodity transport (i.e. dry bulk carriers) by testing the shipping Q index as a leading indicator. We employ a comprehensive back-testing procedure with a broad spectrum of benchmark simulations. The shipping Q index (an adaptation of Tobin's Q index) has been introduced to benchmark models to observe predictive gain and interpret predictability features. This study presents a novel hybrid model to forecast time series data. The forecasting ability of the proposed hybrid algorithm is compared to specific univariate time series models, dynamic models, nonlinear models, and widely used hybrid models in the literature. The findings document that not only the proposed hybrid model performs better than the other competitive models in terms of hold out sample forecasting, but also using the shipping Q index improves the forecast accuracy by remarkably reducing forecasting error.
 
 © 2021 The Author. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-# 1. Introduction
+## 1. Introduction
 
 Dry cargo ships are designed and operated in this supply chain for centuries. Based on the cargo capacity of ships, there are four major size groups namely Handysize (20k–45k dwt \( ^{1} \) ), Handymax (45k–60k dwt), Panamax \( ^{2} \)  (60k–90k dwt) and Capesize (90k + dwt, mostly 120k–150k). Two primary raw materials, iron ore and coal (both coking coal and steam coal) are usually carried on Capesize bulk carriers over 120k metric tons of parcel size. Investors in the shipping business need to allocate large amounts of capital on acquiring new and second-hand assets (i.e. ships) to employ in major commodity trades and gain revenue streams in operating income (based on freight rate). However, ships are not only cash-generating units through operating income, but their asset value may also cause gain/loss in oscillating ship markets. In this regard, the 'asset play' strategy (revenues on buy-sell spread) is an essential component of the portfolio management in the shipping corpora-
 
@@ -92,7 +92,7 @@ https://doi.org/10.1016/j.ajsl.2021.07.002
 
 <!-- Page 3 -->
 
-# Nomenclature
+## Nomenclature
 
 | \( \omega_{\zeta_{sARDL},k} \) | intrinsic mode functions of the residual obtained from the ARDL model which has the minimum Root Mean Square Error (RMSE) and Mean Absolute Error (MAE) in validation set |
 | **---** | |
@@ -113,13 +113,13 @@ notion of cobweb theory. The rigidity of the supply of shipping services is led 
 
 This paper investigated the SQ index in terms of investment timing in counter-cyclical asset play through parametric methodologies in predictive analytics. The significance of the index for bulk carriers was tested by incremental improvements in predictive accuracy comparing to benchmarks in post-sample test data. Empirical results validated the incremental improvements in predictive accuracy by the introduction of the SQ index in a given set of predictive models for bulk carriers with various age and vessel profiles.
 
-# 2. Literature review
+## 2. Literature review
 
 Forecasting models and their application to the financial and commodity markets are commonly found in the literature, whereas, studies on the predictability of the ship investment timing, either second-hand or new building, are relatively limited in the literature (Karlis et al., 2019). We briefly referred to exist-
 
 ing studies on ship investment timing and broadly explained the benchmark methods in the forecasting literature.
 
-# 2.1. Ship investment literature
+### 2.1. Ship investment literature
 
 In the maritime economics literature, the studies after the 1990s widely focus on ship investment decision-making processes and developing a more in-depth insight into the predictability of the market. Girgin et al. (2018) emphasized the recent literature investigates ship investment decision with various techniques and approaches. There are some seminal papers in the maritime literature, which would be referred to as the fundamental studies worked on investment modelling. For example, Dikos and Marcus (2003) worked on the valuation of second-hand dry bulks by utilising a model derived from the real options approach (ROA) to understand the second-hand ship investment decision process from 1976 to 2002. They elaborated the model to analyse second-hand vessels prices with the prices of new vessels and the charter rates. Their findings showed that second-hand ships prices comprise hidden asset play value. Following their study, Tsolakis et al. (2003) also studied the valuation of second-hand tankers and dry bulks over the period of 1960 and 2001 with the Error Correction Model. Along with Dikos and Marcus (2003), they emphasised a further insight about the pricing of second-hand vessels and stated that each vessel segment, based on their tonnage, corresponds to the market changes in a different way.
 
@@ -129,7 +129,7 @@ More recently, strategic investment policies analysed by various models as the i
 
 From early literature to up-to-date, studies on ship investments expand from using static market price analysis to complex modelling to optimize ship investments. Recent studies scientifically proved the role of using advanced methods to interpret dynamic market data.
 
-# 2.2. Forecasting literature
+### 2.2. Forecasting literature
 
 In this section, the forecasting literature part was divided into three folds. The first section reviewed the most common linear models. The second section discussed the forecasting performances of nonlinear forecasting models. The third section provided studies about the hybrid forecasting models in terms of out-of-sample forecasting performance.
 
@@ -189,21 +189,21 @@ Output: Optimal model optimal  \( \zeta' _{\epsilon_{ARDL},\zeta_t} \)  with opt
 
 Fig. 1. The proposed hybrid algorithm.
 
-# 2.2.1. Linear forecasting models
+#### 2.2.1. Linear forecasting models
 
 There are a number of different econometric models in the literature proposed by researchers to predict the future movement of freight rates. Among those, the ARIMA model by Box and Jenkins (1976), the VAR model by Sims (1980), VECM by Engle and Granger (1987) were widely used, linear forecasting models. Franses and Veenstra (1997) proposed the VAR model to forecast Bulk Dry Index (BDI). Cullinane and Khanna (1999) employed the ARIMA model to forecast the Baltic Freight Index (BFI) dataset. Batchelor et al. (2007) concluded that ARIMA and VAR models provide better forecast accuracy than the VECM model for the Baltic Panamax Index. Chen et al. (2012) performed four different models, such as VAR, VARX, ARIMA, and ARIMAX, in the dry bulk market. They showed that VAR and VARX models perform compared to the others.
 
-# 2.2.2. Nonlinear forecasting models
+#### 2.2.2. Nonlinear forecasting models
 
 If the price series is linear, the models in question could generate useful results in terms of forecasting. However, forecasting becomes a challenging task because of the existence of nonlinearity in bulk shipping price series. Thus, as an artificial intelligence model, neural networks (ANN) and support vector machines (SVM) have been widely applied successfully in the bulk shipping market (Li and Parsons, 1997) carried out the comparison of artificial neural networks (ANNs) and ARMA models. The findings of a comparative analysis of ANNs and ARMA models showed that the ANNs model outperformed the ARMA model. Lyridis et al. (2004) suggested a nonlinear modelling framework by using the ANNs model to forecast Very Large Crude Carriers (VLCC). Thalassinos et al. (2013) focused on the nonlinear analysis approach, such as False Nearest Neighbors (FNN), to forecast the BDI. Uyar and Ilhan (2016) forecasted annual freight rates by using a recurrent fuzzy neural network. They emphasised the superiority of their proposed approach.
 
-# 2.2.3. Hybrid forecasting models
+#### 2.2.3. Hybrid forecasting models
 
 More recently, hybrid forecasting models have been extensively applied to combine linear and nonlinear models because they can have superior capabilities to deal with some weaknesses in the forecasting field when compared to traditional forecasting models. Han et al. (2014) employed wavelet transform to denoise the BDI series and proposed the algorithm that combined the model of wavelet transform and support vector machine (SVM). Zeng et al. (2016) contributed to knowledge in respect of improving the forecast accuracy by using Empirical Mode Decomposition (EMD). The BDI series was decomposed into several independent instinct mode functions (IMFs). In this context, each component was modelled by using ANN. It was concluded that the proposed methodology that was EMD-ANN approach led to improved forecasting performance rather than the VAR model (based on out-sample results). Guan et al. (2016) forecasted the Baltic Supramax Index by using hybrid multi-step SVM. Eslami et al. (2017) proposed a new hybrid forecasting approach that combined the ANN model and adaptive genetic algorithm (AGA) to improve forecast accuracy. They found that the proposed hybrid model performed better forecasting results by providing smaller mean square error (MSE) than the regression model, moving average (MA) model, and ANN model.
 
-# 3. Methodology and data
+## 3. Methodology and data
 
-# 3.1. Shipping Q as an adaptation of Tobin's Q index
+### 3.1. Shipping Q as an adaptation of Tobin's Q index
 
 SQ index, in other words, a momentum indicator for shipping asset prices, created following the fundamentals of capital investment model, Tobin Q theory (Brainard and Tobin, 1968; Tobin, 1969). In Tobin Q model, dynamic value change of assets throughout the time captured by the ratio of market value of a firm to replacement value. The Q ratio aimed to identify if the firm's value is over-valued, when the ratio is greater than 1, or under-valued, when the ratio is lower than 1. In Tobin Q theory, if ratio is greater
 
@@ -286,7 +286,7 @@ To utilize discounted cash flow method, the anticipated revenue and expenditure 
 
 <!-- Page 7 -->
 
-# Table 2
+### Table 2
 
 Accuracy metrics and predictive results for Handysize dry bulk ships.
 
@@ -325,7 +325,7 @@ e inputs, shipping Q, in linear modelling.
 
 f inputs, shipping Q, in linear modelling.
 
-# Table 3
+### Table 3
 
 Accuracy metrics and predictive results for Handymax dry bulk ships.
 
@@ -400,7 +400,7 @@ The approach used in the computation of this leading index was previously studie
 
 <!-- Page 8 -->
 
-# 3.2. Sample data and predictive models
+### 3.2. Sample data and predictive models
 
 The sample data was compiled from various databases (Bloomberg Inc., Thompson Reuters) including time-charter rate and second-hand prices over the period of 1980–2017 (monthly) for commodity carriers (Handysize, Handymax, Panamax, and Capesize dry bulk ships). Due to the requirements of DCF valuation, the SQ index was generated from 1990 to 2017 in a walk-forward valuation structure. The diagnostic features of the data were discussed in Section 4.
 
@@ -408,7 +408,7 @@ The predictive feature of the SQ was tested through a spectrum of univariate mod
 
 Lastly, post-sample illustrated in Fig. 2:
 
-# 4. Empirical results and discussion
+## 4. Empirical results and discussion
 
 Data for this study consisted of four dry bulk carriers in three age groups (5, 10, 15-years old). Table 1 summarises the basic statistical results of the SQ index for the given sample. The results indicated that the volatility increases as ship size increases; we can state that the time-charter rates for larger vessels fluctuate more than smaller ones.
 
@@ -476,7 +476,7 @@ Fig. 4. Second-hand dry bulk carriers 5 years-old: (a) Capesize, (b) Handymax, (
 
 <!-- Page 9 -->
 
-# Table 4
+### Table 4
 
 Accuracy metrics and predictive results for Panamax dry bulk ships.
 
@@ -515,7 +515,7 @@ e inputs, shipping Q, in linear modelling.
 
 f inputs, shipping Q, in linear modelling.
 
-# Table 5
+### Table 5
 
 Accuracy metrics and predictive results for Capesize dry bulk ships.
 
@@ -574,7 +574,7 @@ Fig. 6. Second-hand dry bulk carriers 15 years old: (a) Capesize, (b) Handymax, 
 
 not practically useful if the security shortfall arises as a result of the market collapse and asset bubbles. In this regard, the SQ index can be utilised in identifying overpriced assets and potential security value shortfalls during the credit analysis stage.
 
-# 5. Conclusion
+## 5. Conclusion
 
 This paper proposed a novel hybrid algorithm for second-hand bulk carriers forecasting, and ARDL-EMD-ANN hybrid model developed to test forecasting performance. The modelling and forecasting steps were described, and the empirical analysis was carried out based on various types of carriers. The forecasting accuracy of the hybrid model was compared with the competitive models in most of the forecasting studies. The results indicated that the proposed algorithm that uses the strength of the combination of the ARDL and ANN models by including the decomposition part for modelling residuals were superior to all benchmark models.
 
@@ -590,15 +590,15 @@ One-step ahead predictive performance in this study leads the future research on
 
 <!-- Page 11 -->
 
-# Author declaration
+## Author declaration
 
 There is no conflict of interest to declare. This manuscript has not been published or resented elsewhere in part or in entirety and is not under consideration by another journal. We have read and understood your journal’s policies, and we believe that neither the manuscript nor the study violates any of these.
 
-# Declarations of interest
+## Declarations of interest
 
 None.
 
-# References
+## References
 
 Alizadeh, A., & Nomikos, N. (2007). Investment timing and trading strategies in the sale and purchase market for ships. Transportation Research Part B Methodological, 41(1), 126–143.
 

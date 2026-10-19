@@ -127,44 +127,7 @@ vessel_classes:
 **Authors**: Elias Karakitsos and Lambros Varnavides  
 **Publisher**: Palgrave Macmillan (2014)  
 
-## Summary
-
-ECONOMICS
-A MACROECONOMIC APPROACH
-ELIAS KARAKITSOS
-Global Economic Research and CEPP, University of Cambridge
-LAMBROS VARNAVIDES
-MD & Global Head of Shipping, Royal Bank of Scotland xiv
-
----
-
-## List of Abbreviations
-
-Lower-case letters indicate natural logs. A = average age of fleet
-CU = fleet capacity utilisation or demand-supply balance in the freight market
-DL = deliveries of new vessels by shipyards, measured in tonnage
-DM = demolition of ships, measured in tonnage
-E = is the expectations operator with information available up to period t
-t
-EIA = US Energy Information Agency
-FR = (spot) freight rate, expressed in US dollars per day
-Hτ = a time charter contract of duration, τ, paying a fixed rate per period, expressed
-in $/day
-I = gross investment expenditure by owners for newbuilding vessels
-K = net fleet, that is, operational fleet plus deliveries less scrapping less lay-ups and
-losses, expressed in dwt
-KG = gross fleet, measured in tonnage
-KTR = traded fleet in the secondhand market, measured in tonnage
-NB = newbuilding
-OC = operating cost
-p = inflation rate
-P = Price of newbuilding vessels
-PB = price of bunkers
-PE = price of equipment
-PSC = price of scrap
-PS = price of seco
-
-## MARITIME
+MARITIME
 ECONOMICS
 A MACROECONOMIC APPROACH
 ELIAS KARAKITSOS
@@ -10598,7 +10561,7 @@ premium over NAV of nearly 50 per cent. By 2012 many companies were trading
 at just 50 per cent of NAV.
 
 
-### Table 7.3 Marine Money List of Public Shipping Companies (Market Values, USD Millions, 2005–2012)
+### Table 7.3 Marine Money list of public shipping companies
 
 | Company Name | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 |
 |:---|---:|---:|---:|---:|---:|---:|---:|---:|

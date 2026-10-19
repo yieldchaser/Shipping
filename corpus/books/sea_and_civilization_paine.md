@@ -232,9 +232,7 @@ Although airplanes have replaced ships in most long-distance passenger trades--t
 
 In fact we live in an age deeply influenced by maritime enterprise, but our perceptions of its importance have shifted almost 180 degrees in only two or three generations. Today we see pleasure where our forebears saw peril, and we can savor the fruits of maritime commerce without being remotely aware of its existence, even when we live in cities that originally grew rich from sea trade. In considering the course of maritime history, we must account for this change and remember that our collective relationship with maritime enterprise has undergone a profound metamorphosis in only half a century. The idea for this book began to take shape while I was writing Ships of the World: An Historical Encyclopedia--in essence, a collection of vessel biographies that sought to explore the reasons for certain ships' fame or infamy and to situate them in a broader historical context. Some of these stories have obviously found their way into this work. But while ships are integral to the narrative that unfolds here, this book is less about ships per se than about the things that they carried--people and their culture, their material creations, their crops and flocks, their conflicts and prejudices, their expectations for the future, and their memories of the past. In considering the prospects for this undertaking, I have been guided by the words of the naval historian Nicholas Rodger, who has written: "A general naval history would be a prize of great value, and if the first person to attempt it should fail altogether, he may still have the merit of stimulating other and better scholars to achieve it." The scope of this work goes well beyond naval history and entails correspondingly greater risks, but if nothing else I hope this book will inspire further exploration of this fascinating dimension of our common past. a Some may question whether the use of "maritime," from the Latin word for "sea," is appropriate to freshwater shipping. It is worth noting that the Association for Great Lakes Maritime History has seventy-five institutional members in the United States and Canada. The names of ten include "maritime," another thirteen use "marine," and Suttons Bay, Michigan, is home to the Inland Seas Education Association.
 
-## Chapter 1: Voyage into the Distant Past
-
-### Taking to the Water
+## Chapter 1: Taking to the Water
 
 Reindeer are powerful swimmers, but water is not their natural environment and they are at their most vulnerable when crossing rivers, lakes, or estuaries. People recognized this at an early date, and while humans are no more at home on the water than reindeer, we have an insuperable technological advantage: the arts of boatbuilding and navigation. Hunting quadrupeds is not an activity most people associate with watercraft, but people have myriad reasons for pushing off from land. This much is illustrated in six-thousand-year-old Norwegian rock carvings depicting reindeer hunters in boats. These are the oldest known pictorial representations of watercraft, but the distribution of human communities around the world proves that our ancestors launched themselves on the water tens of thousands of years before that.
 
@@ -358,9 +356,7 @@ Sophisticated though the process of making birchbark canoes is, there is a limit
 
 While plank boats proved a major stepping-stone in the development of deep-water vessels across Eurasia, the Californian tomol and the Chilean dalca proved technological dead ends. Why the tradition of composite joinery for hull construction did not spread, why sails were not used (or at least not widely), and why long-distance maritime networks did not develop more fully in the Americas are difficult questions to answer. It is tempting to cite environmental constraints, such as the fact that the waters of the Americas lack the enclosed seas that fostered sophisticated developments around the Mediterranean or Baltic, the predictable monsoon systems of the Indian Ocean, or the scattered archipelagoes of Southeast Asia that fostered island hopping. Yet the Great Lakes comprise an enclosed sea, while the islands of the Caribbean create an almost unbroken chain of intervisible islands from Venezuela to Florida and the Yucatán. Nor was the availability of natural resources a problem; from the sixteenth century onward, Europeans eagerly exploited the New World for its nearly endless variety and supply of timber and naval stores. The same questions can be asked of maritime communities in Eurasia, where despite the existence of dense networks of cross-cultural contact and exchange, relatively sophisticated construction techniques and means of propulsion developed in some places but not in others. The people of the Baltic did not use sails until the 600s, although they used boats for hunting, fishing, and transportation, and interacted with people in the Mediterranean, where the sail was known by at least the third millennium BCE. Cultural or sociopolitical explanations are likewise inadequate. Mesoamerica produced an unbroken succession of refined states from the Olmecs to the Aztecs, none of which exploited its proximity to the sea to any significant degree. As the example of Oceania shows, populous, centralized states endowed with abundant resources for shipbuilding and trade are not prerequisites for putting to sea. Pacific islanders were never as numerous as their contemporaries in Eurasia or the Americas, yet they ranged farther across the sea than anyone else. But maritime history is seldom susceptible to overarching theories. No less puzzling is the fact that the most comprehensive body of archaeological, written, and artistic evidence for the development of maritime enterprise in the ancient world comes from Egypt, a land associated more with sand than seafaring. a The suffix -nesia comes from the Greek word for island, neisos. Melanesia means black islands (for the relative color of the inhabitants' skin); Micronesia, small islands; and Polynesia, many islands. b Austronesian (literally, "southern islands") is a language family whose speakers are found across the islands of, and parts of mainland, Southeast Asia, in Oceania, and, to the west, on the island of Madagascar. c The Greater Antilles include the large islands of Jamaica, Cuba, Hispaniola, and Puerto Rico. The southward arc of the Lesser Antilles is divided into the northerly Leeward Islands, from the Virgin Islands to Dominica, and the southerly Windward Islands, from Martinique to Grenada. d A wherry is a light rowing boat for carrying passengers and freight.
 
-## Chapter 2: The River of Egypt
-
-### The River and Seas of Ancient Egypt
+## Chapter 2: The River and Seas of Ancient Egypt
 
 Ancient Egypt emerged as a regional power of enormous vigor five thousand years ago. Written, artistic, and archaeological finds make it clear that waterborne transportation was its people's lifeline, and their intimate association with boats and ships permeated every aspect of their lives, from their conception of the afterlife and the voyage of the sun across the sky, to the ways they organized themselves for work and how they envisioned the state. The region's arid climate should not blind us to the Egyptians' profound reliance on river and sea trade for political stability, domestic tranquility, and intercourse with distant people via the Mediterranean and the Red Seas. The last thousand kilometers of the Nile between Aswan and the Mediterranean were a cradle of maritime enterprise on which innumerable vessels moved people and goods, including thousand-ton stone blocks shipped hundreds of kilometers from quarries to the sites of pyramids and other monuments. By 2600 BCE, mariners routinely sailed to the Levant for bulk cargoes of cedar and other goods, and Egyptians also took to the Red Sea in search of incense, precious metals, exotic animals, and other marvels from the land of Punt. In the twelfth century BCE, the sealanes of the Mediterranean proved for the first time a double-edged sword as stateless raiders swept across the ancient Near East and precipitated the end of the New Kingdom. In the meantime, the Egyptians' embrace of sea trade had brought them into sustained communication with the leading powers of Mesopotamia and Asia Minor, and helped initiate sustained longdistance voyaging in the eastern Mediterranean.
 
@@ -464,9 +460,7 @@ Following the sack of Avaris, the Egyptians pursued the Hyksos into Canaan, a mo
 
 At the same time that the Thebans were advancing against the Hyksos in the north, they were also campaigning against the kingdom of Kush, which had expanded northward from Nubia. Egypt's southern boundary had moved back and forth between the First and Second Cataracts since the Old Kingdom, but the New Kingdom pharaohs' conquest of Kush was remarkable for its extent and duration. The Barkal Stela recounting Thutmose III's exploits in Syria was erected at Napata, twenty kilometers downstream from the Fourth Cataract, which remained Egypt's southern boundary for four hundred years. The kingdom was now at the height of its imperial reach, which extended 2,200 kilometers from Napata to Ugarit (Ras Shamra, Syria). The Egyptians concluded alliances with the Hittites of Anatolia, and the Assyrians, Babylonians, and Mitanni of Mesopotamia. In the eastern Mediterranean, the consolidation of Egyptian authority led to increased trade not only with Levantine ports but with Crete, and images of traders in Minoan dress first appear in a tomb painted for Thutmose III's high steward, Rekhmire, in which they are identified as "The People of the Isles in the midst of the Sea." Interest in the Levant waned under Thutmose's successors but revived in the Nineteenth Dynasty. At the end of the thirteenth century BCE, however, mass migrations swept southward by land and sea and destroyed the established order of the Bronze Age Near East and threatened the integrity of Egypt itself. The birth, expansion, and longevity of pharaonic Egypt depended on harnessing the Nile as a highway of internal communication, while the seas were a filter through which its people absorbed foreign goods and influences, a buffer against invasion, and a thoroughfare for projecting political and military power. Overland communication with Mesopotamia was possible, but saltwater and freshwater navigation facilitated communication between Egypt and the region's leading powers, most of the distance being covered on the Mediterranean and, after a portage of less than a hundred miles, the Euphrates River. What is most striking about the varied maritime endeavors of ancient Egypt is the impetus they gave to the development of maritime communities across the Levant and the eastern Mediterranean, which remained a preeminent center of maritime culture and commerce for nearly four thousand years. a The verb "to govern" derives from the Greek word meaning "to steer" by way of the Latin gubernare, which means "to steer" and "to govern."
 
-## Chapter 3: The Bronze Age Mediterranean
-
-### Bronze Age Seafaring
+## Chapter 3: Bronze Age Seafaring
 
 Southwest Asia constitutes one of the most vibrant cultural and commercial crossroads in the world. Overland routes converge there from Anatolia and the Caucasus, Central and South Asia, and the Arabian Peninsula and the Levant. Lying at the head of the Persian Gulf, Mesopotamia is connected by sea to the lands that ring the Indian Ocean and its subsidiary seas from the Red Sea to the Bay of Bengal. The Tigris and Euphrates also provide a direct connection from the gulf to the heart of Southwest Asia. While these rivers are more erratic than the stately Nile, they were vital arteries of communication by which the trade of the Indian Ocean reached Asia Minor in the north and the Mediterranean in the west. Astride these roads and rivers, the people of Mesopotamia developed some of the refinements of civilization such as writing and city dwelling in the late 3000s BCE, several centuries before the start of dynastic Egypt. The Sumerians and their successor states never achieved the political continuity characteristic of the Egyptians, but the people of Mesopotamia were pioneers in maritime and commercial law, and their oldest literature, including the story of King Sargon's origins and the Epic of Gilgamesh, has echoes in later Greek myth, Judeo-Christian and Muslim scripture, and Persian and Arabic folktales. These stories were carried via the Euphrates to the Levantine coast and from there by ship to the rest of the Mediterranean. Older still were Mesopotamia's maritime links to the east, via the Persian Gulf to the lands of Bahrain, Oman, and southern Iran, and the maritime frontier of the Harappan (Indus Valley) civilization of Pakistan and India, which reached its height in the late third millennium BCE. Traces of this long-range traffic, carried out in sailing vessels built of wood or bound reeds, are faint but unmistakable.
 
@@ -578,9 +572,7 @@ Although Ramesses III defeated the Sea People, Egypt's influence over its Asian 
 
 Times had changed. Tjekerbaal was no longer subject to the pharaoh, as his ancestors had been, and he was under no obligation to cut wood for Wenamun. He pointed out that Egypt's trade was not even carried in Egyptian ships, as before, but in Levantine vessels. Despite Wenamun's protestations that his ship and crew were Egyptian, Tjekerbaal suggested that this was the exception rather than the rule. Most of the ships carrying Egypt's trade came from her trading partners, including twenty from Byblos and fifty from neighboring Sidon. This may have always been the case, but in the eleventh century BCE the inferiority of Egypt's fleet seemed emblematic of the pharaoh's waning prestige. Eventually, Tjekerbaal allowed Wenamun to send seven finished ship's timbers to Egypt to secure an advance with which to pay for the remainder of the wood. Shortly after Wenamun sailed for home, a storm blew his ship off course to Cyprus where, mistaken for a pirate, he was brought before the queen and pleaded his case through an interpreter. Here the manuscript stops, and of his subsequent travails we know only that he lived to tell the tale. Wenamun's misadventures reflect the growing weakness of Egyptian authority beyond its traditional borders. Yet the distress suffered by the larger states of the Near East was offset by the comparative health of the Levantine ports. Having survived the upheaval associated with the Sea People, local rulers boasted fleets considerably larger than those available in Egypt where during the reign of Ramesses III, for instance, the temple of Amon-Re had had a fleet of eighty-eight ships. Egyptians would continue to play a role in the maritime realm of the eastern Mediterranean and the Red Sea, but the initiative passed to the Phoenicians and Greeks, who fanned out across the Mediterranean in the first episode of sustained maritime colonization of which a clear record survives, and who would also attempt to discover for themselves the secrets of the Atlantic and the Indian Oceans. a A seal is a stamp (such as a signet ring) inscribed with letters or a device indicating its owner; common images on seals include people, animals, boats, and geometric patterns. A sealing is the impression made by such a seal. b A shekel was a silver coin weighing between nine and seventeen grams. Two shekels were the equivalent of twelve days' rent. c Rules of the road--that is, a roadstead or narrow stretch of open water where ships ride at anchor-- were so called before the development of the automobile.
 
-## Chapter 4: Phoenicians, Greeks, and the Sea
-
-### Phoenicians, Greeks, and the Mediterranean
+## Chapter 4: Phoenicians, Greeks, and the Mediterranean
 
 The destruction that engulfed the Bronze Age Near East at the hands of the Sea People and other invaders was followed by a centuries-long dark age, the end of which is signaled by the rise of the Phoenician city-states of the Levant in the ninth century BCE and of Greek city-states shortly thereafter. The pace of maritime activity on the Mediterranean then quickly surpassed that of the most prosperous centuries of the previous millennium. Operating from small autonomous port cities with little or no hinterland or river networks, merchants plied ever longer sea routes and wove increasingly complex trade networks across the length and breadth of the Mediterranean. These maritime movements led to sustained two-way traffic in commodities, people, and culture, as distinct from one-way migrations or trade in prestige goods intended principally for elite consumers.
 
@@ -718,9 +710,7 @@ Despite their dependence on ships and their crews for everything from their dail
 
 In the fourth century BCE, Plato and Aristotle were among the most virulent critics of the "naval mob" unleashed by Themistocles. Plato argued that death was preferable to adopting the ways of sailors and "their plausible and ready excuses for throwing down their arms and betaking themselves to 'flight without dishonor,' as it is called. Phrases like this are the normal consequences of employing men-at-arms on shipboard, and what they call for is not infinite commendation, but the very reverse." He also recommended that to avoid the corruption that inevitably arises from sea trade a city should be situated at least eighty stades (fifteen kilometers) from the sea. Aristotle was hardly more generous, allowing that "There can be no doubt that the possession of a moderate naval force is advantageous to a city," but insisting that "The population of the state need not be much increased, since there is no necessity that the sailors should be citizens." Given such disdain, it is hardly surprising that only two shipowners of Classical Greece are known to have owned more than one ship, Phormio and Lampis, "the largest shipowner in Hellas." Biases against mariners and merchants were by no means limited to the Greeks, and Herodotus noted, "I have observed that Thracians, Scythians, Persians, Lydians--indeed, almost all foreigners--reckon craftsmen [including traders] and their descendants as lower in the social scale than people who have no connexion with manual work." Despite their conspicuous and measurable contributions, seafarers remained suspect and marginalized in many societies, even as merchants and others both relied upon and profited from their labor, not just in the Greek world but elsewhere. There were of course exceptions, and conspicuously absent from the list of "almost all foreigners" are the Phoenicians and Carthaginians, whose embrace of maritime commerce can be seen in their commercial diaspora and the fact that the most important of the three gods they recognized, Melqart, was a patron of trade and overseas colonies. Largely unaffected by the Greeks' incessant wars, by the start of the fourth century BCE Carthage was among the Mediterranean's strongest powers, and territorially the most extensive. Stranger still, the greatest challenge to its maritime preeminence would come not from Greece, but from a most unlikely quarter, the republic of Rome, which would make the sea its own.
 
-## Chapter 5: The Mediterranean, from Rome to Constantinople
-
-### Carthage, Rome, and the Mediterranean
+## Chapter 5: Carthage, Rome, and the Mediterranean
 
 Despite a shared history, language, and religion, the city-states of Greece were too fractious to remain at peace with each other for long. Two centuries of almost uninterrupted warfare had left them exhausted and power in the Greek heartland ebbed following the meteoric rise of Macedonia's Alexander the Great. His premature death in 323 BCE left the eastern Mediterranean in the hands of powerful warlords who carved huge states from the corpse of the Persian Empire. At the same time, maritimeoriented states in the central Mediterranean were tilting the balance of power away from the east. Phoenician Carthage controlled much of the trade of the western Mediterranean, while the Greek cities of southern Italy kept a watchful eye on each other, Carthage, and the rising power of Rome. The latter emerged as the dominant city of the Latin League by the end of the fifth century BCE, but the Romans did not take to the seas until the First Punic War (264-241 BCE). For the next five centuries Rome's growth and prosperity was inextricably tied to its control of the Mediterranean sealanes.
 
@@ -860,9 +850,7 @@ Second only to the grain trade was the wine trade. According to one estimate, du
 
 It would be excessive to claim that the Roman Empire was a product of sea power and sea trade alone, but these were as central to its creation as the Mediterranean was to the empire itself. The empire could not have survived had Roman institutions or sensibilities been in any practical way hostile to maritime enterprise. Perhaps the last word belongs to Seneca, who wrote in the first century of "god, our author…[who] gave us winds that we might get to know distant lands.… He gave us winds in order that the advantages of each region might become known to all; but not in order to carry legions and cavalry or to transport weapons to destroy mankind." While the Romans never beat their swords into plowshares, they did contribute to the economic integration of the world they occupied, and both shaped and were shaped by the wealth of lands well beyond the Mediterranean, including those bordering the Indian Ocean. a This Hamilcar should not be confused with Hamilcar Barca, who fought in the First Punic War and fathered Hannibal Barca, who fought in the Second. The Greek historian Polybius mentions five Hannibals, two Hamilcars, four Hannos, and four Hasdrubals. b Scipio Aemilianus was the adopted son of Publius Scipio, whose father was Scipio Africanus.
 
-## Chapter 6: Monsoons and Crossings: The Indian Ocean
-
-### Chasing the Monsoons
+## Chapter 6: Chasing the Monsoons
 
 The maritime history of the Indian Ocean unfolded in ways completely different from that of the confined seas of the Mediterranean world. The great distances, the lack of enclosure by opposing shores, and the paucity of island chains linking landmasses ensured that the interactions of Indian Ocean mariners and their respective societies were less intense and immediate than those of the Mediterranean. Seafaring allowed for the transmission of goods and ideas, but without generating the violent rivalries and naval clashes that accompanied such exchanges in the Mediterranean. At the same time, long-distance maritime trade had less impact on political developments, and seafaring never attained the cultural significance it did for people of the Mediterranean. Yet if maritime-driven change was more subtle here than elsewhere, it proved no less durable.
 
@@ -1010,9 +998,7 @@ If durable goods and language left few traces, studies in ethnobotany, ethnomusi
 
 Southeast Asian navigators also introduced a number of boat construction techniques to East Africa. The ngalawa, a type of outrigger canoe found between the Lamu archipelago and Mozambique and on Madagascar and the Comoro Islands well into the twentieth century, resembles prototypes from Java in significant details. The mtepe, a nimble sewn boat used in coastal trade along the Swahili coast, is considered "a relic of an Indonesian type bereft of its outriggers," and "the lineal descendant of the large sailing vessels used by Indonesians in their ancient traffic" on the coast of East Africa. The most obvious clue to the mtepe's Indonesian origins is the design of circle-and-dot (rather than naturally rendered) oculi. Indonesian craft traditionally have oculi painted not only on the bows but at the stern, as does the mtepe. A further parallel is the use of woven matting rather than cloth for sails. "The only cargo-carrying vessel on the Swahili coast that is not obviously of Persian or Arab origin," mtepes with a capacity of twenty tons were recorded in the nineteenth century. The similarity of East African and Indonesian vessels points to a channel of cultural transmission across the Indian Ocean free of influence from mainland Asia. In the second half of the first millennium, this divided into shorter segments oriented to the rejuvenated trading centers of Southwest Asia and the Indian subcontinent. After a long period of decline following the fall of the Indus Valley civilization and the withdrawal of Mesopotamian merchants from trade beyond the Persian Gulf, navigation on the Indian Ocean revived in the first millennium BCE and quickly came to encompass some of the longest uninterrupted sea routes in the world, across the Arabian Sea and the Bay of Bengal, with southern India and Sri Lanka lying at the crossroads of eastwest exchange. While Mediterranean sailors tended to think in terms of new frontiers lying to the west, in the Indian Ocean the east was more alluring. Greco-Roman sailors from the Ptolemaic period to the Roman Empire were attracted to the point of decadence by the exotica and spices of India and beyond, while Indian merchants in story and in fact were lured east by the land and islands of gold--Suvarnabhumi and Suvarnadvipa--in Southeast Asia, to which they incidentally transplanted their religions, language, and other cultural phenomena, as well as new goods and crafts. In so doing they laid the foundation for the prosperous trade that followed the rise of Islam and the consequent prosperity of the Near East in the seventh century and after. They also had a demonstrable impact on the political landscape of Southeast Asia and to a lesser extent, chiefly through the reinforcement of Buddhist ties, on China, Korea, and Japan. a The northeast monsoon rarely exceeds Force 4 (11-16 knots) in the Indian Ocean, and between the equator and 5ºN and north of 20ºN the winds are variable. The southwest monsoon averages Force 6 (22-27 knots) in the western Arabian Sea and Force 4-5 in the northern and eastern Arabian Sea and Bay of Bengal, but reaches Force 7 (28-33 knots) across all regions in July and August. b In the imperial period, a sesterce was a bronze coin weighing about twenty-five grams. One hundred million sesterces was a considerable amount, but the wealth of many Romans has been calculated at many times that. The philosopher Seneca was worth three hundred million sesterces and Pliny the Elder at least four hundred thousand; imperial grants of half a million sesterces to impoverished senators were not uncommon. By way of comparison, slaves were reckoned at about two thousand sesterces per head, and needy children received monthly subsidies of twelve to sixteen sesterces in the early second century.
 
-## Chapter 7: The Eastern Seas, from the Yangzi to the Yellow River
-
-### Continent and Archipelagoes in the East
+## Chapter 7: Continent and Archipelagoes in the East
 
 That China should have exercised an attraction on the maritime merchants of the Indian Ocean is not surprising, for it was home to one of the world's oldest and richest cultures. Traders from India to Rome knew of and traded with China (at least indirectly) in antiquity via the silk roads of Central Asia. With their continental origins, the Chinese approached the maritime world more circumspectly than did their contemporaries, but approach it they did. First they harnessed their webs of elaborately branching rivers through feats of hydraulic engineering that protected the land from flooding, improved agricultural capacity, and facilitated inland communication. They then began their annexation of southern China, the Land of the Hundred Yue whose Austronesian-speaking ancestors had launched themselves into Southeast Asia in the second millennium BCE. As a result of these efforts, before the start of the common era it was possible to travel via river and canal from Guangzhou in the southeast to the ancient capital of Chang'an in the northwest.
 
@@ -1162,9 +1148,7 @@ In addition to being employed for peacetime trade and transportation, river-craf
 
 It is doubtful that such weapons were used in the campaigns against Jiaozhi or the Korean Peninsula, the fleets for which likely comprised only armed troop transports. Whether they would have encountered vessels specifically designed for combat is difficult to know, for while the kingdom of Silla established an office of maritime administration (Seonbuseo) responsible for civilian and naval shipping in the sixth century, references to and archaeological finds of individual ships on the Korean Peninsula, as well as in Japan, are few. According to the Nihongi (which was compiled in the eighth century and may include anachronisms that reflect the authors' experience), the gods who introduced shipbuilding to Japan specified the use of Japanese cedar and camphorwood. The need for water transport was dictated by Japan's rugged terrain and the availability of coastal routes, but the throne may have had an interest in developing a fleet for trade or warfare early on. Emperor Sujin Tenno (third or fourth century) reportedly mandated that ships be built in all the coastal provinces of his realm, and the ships accidentally burned by the envoys from Silla in 300 CE were said to have been given to the throne as tribute from the provinces in exchange for gifts of salt, while another passage refers to a vessel being "enrolled among the number of Imperial vessels." How big these were or how they were constructed is unknown. One entry in the Nihongi mentions a ship built from a large tree, which might suggest a logboat of some sort, but another tells of the construction of a ship of thirty meters, which is indicative of a vessel of more complex design. These are only tantalizing hints of robust maritime cultures whose particulars do not come into sharp relief for several centuries. The inland origins of the Chinese state did not predispose its people to maritime pursuits, but the exploitation of rivers and canals facilitated territorial expansion and domestic stability, while accumulated wealth enabled members of the elite to import exotic goods, the most extraordinary of which came from Southeast Asia. The exposure to alien ideas that resulted from these exchanges was anathema to Confucianists, but the rise of Buddhism and the resulting demand for religious texts, statuary, incense, and other religious paraphernalia spurred trade not only with Southeast Asia and India but also Korea and Japan, where Buddhism was introduced from China. Initially the sea route between China, Southeast Asia, and the Indian Ocean wound through a series of small, loosely defined coastal and island networks, but when fifth-century mariners began crossing the South China Sea from the Strait of Malacca to Vietnam, they inaugurated the longest sailing routes the world would know for the next millennium and ensured the spectacular growth in long-distance trade that flourished in the early centuries of the Islamic caliphates and China's Tang Dynasty. a The northeast monsoon (September-November to April) averages about Force 4 (11-16 knots) south of 10ºN, Force 6 (22-27 knots) in the Luzon Strait between the Philippines and Taiwan, and Force 5 in the north; in December and January, Force 7 (28-33 knots) conditions are common from Vietnam to Japan. The southwest monsoon (May-June to August-September) averages Force 3 or 4 (7-16 knots) throughout the region, although squalls are not uncommon. b The Chinese apply the name Yangzi only to the lower reaches of the river they call Changjiang, meaning "long river." c The Pearl River (Zhu Jiang) refers both to the short, wide river that passes the port of Guangzhou, as well as a larger network of the Zhu Jiang's tributaries including the Xi (West), Bei (North), and Dong (East) Rivers. d The Han Dynasty is divided into the Former Han, 202 BCE to 2 ce, and the Latter Han, 25 to 220 ce. A cousin of one of the last Former Han emperors ruled in the interval. e Cash were copper coins minted with a hole in the center; a string of a thousand cash was a standard unit of currency.
 
-## Chapter 8: The Sea Roads to Islam
-
-### The Christian and Muslim Mediterranean
+## Chapter 8: The Christian and Muslim Mediterranean
 
 Maritime life in the medieval Mediterranean was shaped by the collapse of the Western Roman Empire, the rise to power of the Byzantine Empire and the Islamic caliphates, and the emergence of religious ideology in political conflict. Disputes over heresies undermined the cohesion of the Byzantine Empire in the seventh century and the resulting stresses are reflected in diminished activity that led to truncated or abandoned shipping routes, and fewer and smaller ships. In its weakened state, the empire was unable to prevent the expansion of Islam in the Levant, whose seafaring communities helped carry the new faith west. Muslim states' encouragement of industry, trade, and the arts revitalized existing port cities of North Africa and gave rise to new ones, and emirates of the eighth and ninth centuries ruled most of the major islands from Cyprus to the Balearics. In the tenth century, rivalries between Shiites and Sunnis contributed to the loss of Muslim territories to Christian princes. The outstanding long-term change, however, was the gradual decline of the maritime primacy of Egypt, the Levant, and the Aegean, which had constituted the fulcrum of the Mediterranean for millennia. In their place arose commercial and naval powers--Muslim giving way to Christian--that emerged from almost complete obscurity in the central and western Mediterranean.
 
@@ -1324,9 +1308,7 @@ Apart from contracts, one of the most complex issues to be considered in maritim
 
 The Muslim approach gradually spread. According to the Libro del Consulado del Mar (Book of the Consulate of the Sea), a digest of maritime law promulgated at Barcelona in the 1300s but the roots of which are much older, the captain had to explain the need for jettisoning cargo and the risks of not doing so. But the larger issue involved general average: whether losses were to be assessed by weight or value, whether values were determined based on prices at the place of purchase or the intended place of sale, whether the ship and its gear were included, whether nonmerchant passengers and the crew were liable because their lives were saved, and how slaves should be considered. The Rhodian Sea Law fixed the value of personal slaves at three minas, but "if any one is being carried for sale, he is to be valued at two minas." Most Muslim jurists deplored the concept of human jettison, but some ruled that slaves could be jettisoned provided that they could swim and were within reach of land, while others considered it permissible to sacrifice non-Muslims to save Muslims. Taking a more equitable view, a twelfth-century jurist maintained that if necessary people could be "chosen by lot [and] indiscriminately subjected to being thrown overboard, regardless of their social status and allegiance, whether they were males or females, slaves or free men, Muslims or dhimmis [protected minorities]." In general, however, the issue of human jettison was of secondary concern because the lives of free people had no monetary value and maritime codes were preoccupied with commercial rather than humanitarian concerns. The codification and refinement of principles of commercial maritime law rationalized the way people conducted business and helped create an enlarged multicultural trading network whose benefits, restrictions, and penalties could be easily understood by all participants. By the time these were committed to writing, the Byzantine Empire and Dar al-Islam in the Mediterranean were at or past their mercantile prime. Yet they were not being challenged by anything so obvious as an empire. Instead, small citystates on the Italian Peninsula were enriching themselves at the expense of their former Byzantine overlords and of their Muslim antagonists and competitors. To a degree not seen since the time of Carthage, the citizens of Venice, Genoa, Amalfi, and Pisa actively embraced maritime trade and forged relationships between merchants and the state that made commerce a civic virtue and led to developments as unexpected as they were unprecedented. These would change the nature and conduct of trade not only in the Mediterranean, but also among the newly minted commercial enclaves of northern Europe. a Maghreb, which means "west" or "setting sun," can refer to the lands from western Libya to Morocco, or specifically to Morocco. Ifriqiya comprised western Libya, Tunisia, and eastern Algeria. b "Average"--in Latin, averia--comes from the Arabic awar, meaning "damage to goods."
 
-## Chapter 9: Northern Oceans: From Ireland to the White Sea
-
-### Northern Europe Through the Viking Age
+## Chapter 9: Northern Europe Through the Viking Age
 
 As late as the twelfth century, much of northern Europe was a backward and remote corner of Eurasia, far removed from the high civilizations of the Mediterranean and Near East. The earliest historical records--foreign and subject to bias, ignorance, and guesswork--do not flatter, but the nautical dimension of its disparate cultures is evident in the sketch of northern Europe teased from the archaeological record and writers from Herodotus on. To a degree found nowhere else, the people of the European subcontinent are bound equally to saltand freshwater; but the process of integrating fully the great river networks that today facilitate transcontinental exchange with the coastal and deep-sea shipping lanes of the Baltic, North, Mediterranean, and Black Seas, and the Arctic and Atlantic Oceans, only began in the Middle Ages. While northern Europeans absorbed the sophisticated influences of pagan and Christian Rome, seafaring developed from within, most notably among Angles and Saxons in the third to eighth centuries, Frisians from the fifth to ninth centuries, and Scandinavian Vikings in the ninth to eleventh centuries. Considered by volume, value, or organizational sophistication, this maritime activity was on a far smaller scale than in the Mediterranean or Monsoon Seas. The emergence of ports of trade such as Dorestad in the Netherlands, Birka in Sweden, and Novgorod in Russia reflects the ambition of local sovereigns to capture the benefits of trade in the form of revenues, or exemption from revenues; Frankish kings routinely curried favor by relieving their agents and religious houses from paying duties. The indifferent defense against foreign--especially Viking--attack shows that sea trade was not yet the priority it would become.
 
@@ -1484,9 +1466,7 @@ Fewer ship remains survive from the east, where there is no indication that the 
 
 Extensive though the Vikings' trade was, virtually all of it was in prestige, luxury, or highly specialized items and in this respect it was not unlike that of the Frisians and others who preceded them. With few exceptions there was virtually no bulk commerce in northern Europe before the eleventh century. Farmers lacked the surplus capacity for an export trade and the only agricultural products shipped in bulk with any frequency were wine, that of Burgundy and the Seine being shipped via river and coastal waters to the Rhine delta, and wool. The bulk trades characteristic of the maritime commerce of the later Middle Ages--in grain, fish, and wood, as well as wine--were all but unknown. When population and agricultural and artisanal output began to expand, trade was organized around guilds and free associations of merchants whose use of bigger ships of distinctly novel design forced radical changes in the organization of maritime transportation and the conduct of war at sea. Such adaptations were by no means unique to western Eurasia, and similar approaches to long-distance trade could be found in southern India from where they spread across the Monsoon Seas. a The exceptions that prove the rule are Agri Decumates, a small province that occupied a triangle of land between the upper Danube and upper Rhine, and Dacia, north of the lower Danube. These were the last provinces established, in 106 ce, and the first abandoned, in the next century. b In the twelfth century, the inundation of the Aelmere formed the Zuider Zee. In the twentieth century, Dutch engineers enclosed and divided this "Southern Sea" into the Ijsselmeer and Markermeer to protect the Netherlands from further flooding. c The remains originally identified as Wreck 4 turned out to be part of Wreck 2. This was not discovered until later, and the fourth and fifth ships have always been known as Wrecks 5 and 6.
 
-## Chapter 10: The Medieval Mediterranean
-
-### The Silk Road of the Seas
+## Chapter 10: The Silk Road of the Seas
 
 The history of Eurasia in the seventh and subsequent centuries is dominated by the advent of the Muslim caliphates and the resurgence of a unified China, and understandably so. Within little more than a hundred years, Islam was the dominant religion across an arc of Asia and Africa from Portugal to Kazakhstan and the Indus. In Central Asia it butted up against the western border of Tang China, whose armies had simultaneously pushed the Middle Kingdom's borders west across two thousand miles of desert and steppe. Yet at the very moment of immediate contact, upheaval within the Dar al-Islam and in China directed merchants' attention away from the silk road across Central Asia to the silk road of the sea. Bustling maritime markets at either end of this maritime trade route from Southwest to Northeast Asia drew merchants and mendicants from around the Monsoon Seas and helped give their respective empires a cosmopolitan flourish. Segments of this commercial network had been in place for hundreds of years, but by the seventh century, mariners on the Monsoon Seas were gaining ever more confidence and expanding the scope of their voyaging, and local rulers in whose territories they stopped, such places as Srivijaya and the Chola kingdom, were able to amass the wealth and prestige necessary to build durable and influential states of their own. So was born a virtuous circle in which the transmission of goods and culture benefited local and regional rulers whose more powerful and stable states in turn drew the attention of merchants from ever greater distances.
 
@@ -1598,9 +1578,7 @@ The evidence for navigational practice per se comes from scattered references to
 
 In his fifteenth-century Book of Profitable Things in the Principles of Navigation, the Omani navigator Ahmad ibn Majid explains that navigators should be able to track the courses of the sun and moon, determine "the risings and settings of the stars," know distances and routes between ports, and how to use various navigational instruments to determine latitude. "It is also desirable that you should know all the coasts and their landfalls and the various guides such as mud, or grass, animals or fish, sea-snakes and winds. You should consider the tides, and the sea currents and the islands on every route, make sure all the instruments are in order, and inspect the protection afforded the ship and its instruments and its men." Although Ibn Majid's epitome of navigational practice dates from the fifteenth century, he refers to a number of antecedent navigational manuals, the oldest of which are Persian works from the twelfth century, and his recommendations bear comparison with the advice given in the "Suparaga Jataka," as well as latefirst-millennium practice in the Mediterranean and northern Europe. Between the seventh and eleventh centuries, Indian Ocean mariners led the process of integrating the disparate regional markets of the Monsoon Seas between East Africa and the Red Sea in the west, and Southeast Asia and China in the east. In so doing, they laid the foundations for the all but uninterrupted maritime growth of this region that has lasted to the present day. The maritime trade of Monsoon Asia shows many of the hallmarks of what we now call globalization, a process that creates networks of interdependence in which changes in one place can have ripple effects that spread from region to region. The clearest manifestations of this are seen in the rise and shifting fortunes of the Islamic caliphates and the Tang and Song Dynasties, whose wealth exerted powerful forces on the maritime endeavor of the two realms, as well as on other regions from East Africa and India to Southeast Asia and Japan. The resulting interdependency had many positive benefits, facilitating the growth of commerce and its underlying enterprises from agriculture to crafts, and encouraging the spread of religion and technology. At the same time, technological and political change in one place could have a negative impact on another thousands of miles away. Overall, however, the period was one of growth in maritime trade and political consolidation. While much of this resulted from local initiative, these were spurred by the unification and intensifying seamindedness of China in the Tang and Song Dynasties. a The modern port of Basra was founded on the site of Ubulla in the 1700s. b The dirham was a silver coin weighing less than 3 grams; the dinar was a gold coin of 4.25 grams. c Malabar is a hybrid of the Dravidian malai (mountain) and Persian bar (land). Al-Idrisi wrote of "Manibar" in the mid-twelfth century, and the geographer Yakut referred to "Manibar" in 1228. Zhao Rugua called the region "Malimo" (1225), while John of Montecorvino (1293) and Marco Polo (1298) both wrote about "Malabar." The region is known locally as Malayalam or Kerala. d Kalah probably referred to the region of Kedah, Malaysia, except in the ninth century when the name also referred to an island in the vicinity of Takuapa, Thailand, to the north.
 
-## Chapter 11: The Golden Age of Asian Trade
-
-### China Looks Seaward
+## Chapter 11: China Looks Seaward
 
 The founding of the Tang Dynasty (618-907) ushered in a golden age of Chinese civilization, when an ecumenical and broad-minded spirit infused the visual, written, and performing arts, gave new life to religious, philosophical, and political discourse, and made China an object of wonder and renown across Asia. The Tang emperors pushed Chinese influence farther west than ever before or since, but by the middle of the ninth century the borders of the Celestial Kingdom had contracted so far that the venerable capital of Chang'an was closer to barbarian lands than to the center of Han China. Between the later Tang and the Song (960-1279) Dynasties, the Chinese capital was displaced ever eastward, to Luoyang, Kaifeng, and ultimately Hangzhou (Lin'an).a The former two are on the Yellow River and closer to the heart of the canal system that knit the empire together while Hangzhou lay on the sea itself.
 
@@ -1722,9 +1700,7 @@ Stray remarks in the Chinese annals suggest that the vessels employed on the Kor
 
 Because the high civilization of China was the cultural cynosure of all Northeast Asia, the Yellow Sea figures prominently in the written accounts of trade and warfare from the earliest times. The Sea of Japan (in Korean, Tonghae, or Eastern Sea) played a far less obvious role in the relations between the underdeveloped east coast of Korea, western Japan, and the territory of the Jurchen. Apart from those on either side of the Korea Strait, the principal ports of Korea and Japan all had a southerly orientation, and there were no major ports on the eastern shore of the Korean Peninsula, or the western side of Honshu. Yet even the Jurchen in the vicinity of northeast Korea and modern Vladivostok had seafaring experience, and in 1019 fifty Jurchen ships raided along the east coast of Korea, the islands of Ise and Tsushima, and the Japanese port at Hakata Bay on Kyushu. Yet the Jurchen never fully exploited this maritime capability and the focus of their southward expansion was always on the more direct overland routes toward northern China. China's embrace of sea trade under the Northern Song was due to a combination of misfortune and opportunity. The collapse of its western frontier forced the emperor and many of his subjects to relocate to the east, closer to the center of the empire's elaborate canal system and to the seaports upon whose business the treasury increasingly relied for revenues. Through all these vicissitudes, the Chinese economy continued to grow, however. Imports once considered exotic and rare came to be seen as commodities, while mass-produced ceramics and other goods fed a growing export market that spanned the Monsoon Seas. At the same time that China's sea trade was expanding, that of the Korean kingdoms was in decline, opening the way for Chinese merchants to dominate the traffic of Northeast Asia. China's receptivity to trade had profound consequences for the states of Southeast Asia, not just in neighboring Vietnam, which achieved its independence from China, but also more southerly realms. From Champa to Srivijaya and Java, new, increasingly centralized states developed their own institutions to profit from and maintain trade. In the coming centuries, their prosperity would attract attention not only from their traditional trading partners in China and the Indian Ocean, but also from the Mediterranean world to the west. a The Song Dynasty is traditionally divided into the Northern Song (960-1127) and, after the Jurchen Jin invasions, the Southern Song (1127-1279). b Abu Zayd claims that the number of victims was known thanks to the Chinese penchant for record keeping. c A picul was a unit of weight equivalent to what one man could carry, about sixty kilograms.
 
-## Chapter 12: Europeans on the World Stage
-
-### The Medieval Mediterranean and Europe
+## Chapter 12: The Medieval Mediterranean and Europe
 
 The establishment of the Fatimid Caliphate in Egypt in the tenth century signaled the start of a major realignment of Mediterranean and European commerce. The Red Sea became the destination of choice for Indian Ocean trade, which had spillover effects across the Levant. Yet the rise of the only major Muslim state with maritime roots also led to a decline of Muslim fortunes in the central Mediterranean. The Fatimids possessed considerable naval experience, but they established their new capital up the Nile at Cairo and political realities directed their energies to threats from Southwest Asia, so that by the start of the Crusades at the end of the eleventh century they had lost their initiative on the Mediterranean. Political and religious factionalism likewise rendered the North African emirates incapable of effectively resisting the incipient commercial and military strength of Genoa, Pisa, Amalfi, and Venice. The Italian city-states hardly presented a united front, but a host of religious, political, economic, and commercial changes in Latin (Catholic) Europe facilitated their takeover of Muslimdominated trade routes and territories.
 
@@ -1870,9 +1846,7 @@ As the numbers of individuals with an interest in maritime commerce increased, a
 
 Although the commerce of the age was transformative, the total volume of trade carried to Venice during an entire year of the fifteenth century could probably fit in a single twenty-first-century cargo ship. Yet modern cargo ships are routinely run by crews of fewer than thirty and use facilities far removed from the center of the ports they serve. In medieval Europe, maritime commerce engaged huge amounts of capital and manpower and lay at the heart of civic identity for many cities. What ultimately made the commercial revolution of the European Middle Ages revolutionary was the quickening pace of interregional exchange and the allocation of resources and talent to the constant search for new markets, whether within the familiar realms of the Mediterranean and Europe, or in the fabulous lands of the Orient. a Orthodox authors generally referred to Catholics, and Muslim authors to Christians generally, as Franks, regardless of their place of origin. b Traditionally, sovereigns were entitled to any wrecked ship or cargo cast up on their shores. Abolition of the right of wreck made it possible for goods recovered from a wreck to revert to their original owners. c The pintle and gudgeon are pieces of hardware--the pintle with a pin, the gudgeon with a socket for the pin. Two or more gudgeons are attached to the sternpost (or transom), and a corresponding number of pintles to the leading edge of the rudder. These keep the rudder fastened to the hull while allowing the helmsman to maneuver it to turn the ship. d The windlass and capstan are mechanical devices for lifting heavy weights, the salient difference being that the barrel of the capstan around which the rope is wound is vertical and that of the windlass is horizontal. e A "cloth" measured two yards by twenty-four yards, about forty square meters.
 
-## Chapter 13: The Great Voyages: From the Renaissance to the Age of Discovery
-
-### The Golden Age of Maritime Asia
+## Chapter 13: The Golden Age of Maritime Asia
 
 By the eleventh century a steady stream of trade flowed along interlinked routes between the western and eastern extremes of Eurasia by sea and land. There are no reports at this time of individual goods, or even people, traveling from the Atlantic coasts of Morocco or Spain and the Pacific shores of China or Japan, or vice versa; but the possibility that this did happen is quite good and it was certainly happening by the fourteenth century. While the rise of Fatimid Egypt attracted trade to the Red Sea, Christian merchants and naval powers were in the ascendant on the Mediterranean. Jewish and Muslim merchants were driven into more marginal trades or abandoned the Mediterranean for the Indian Ocean, where they capitalized on the commercial relationships elaborated in the preceding centuries. In so doing, they helped sate Mediterranean and northern European appetites for spices and other eastern luxuries and thus complemented the efforts of Venetian, Genoese, and other western Christian merchants. By this time, long-distance seafaring and trade on the Monsoon Seas had entered a settled, mature phase. But this should not be equated with stagnation. The expansion of sea trade led to growth in the size and numbers of ships, attempts to exercise naval power over ever greater distances, and advances in navigational aids, including printed sea charts and the magnetic compass.
 
@@ -2012,9 +1986,7 @@ By coincidence this is only two years before Ibn Battuta began his travels, and 
 
 Had Ibn Battuta measured the ships he saw at Calicut, it might have helped historians determine the size of the ships in Zheng He's fleets, one of the most contentious issues surrounding the expeditions. Much of the debate turns on how to interpret the units of measurement given in the surviving sources and the theoretical limits on the size of wooden hulls. On the basis of a strict translation of the units of length, the actual size of which differed from place to place around China, the largest ships were between 117 and 135 meters long and 48 to 55 meters broad. Based on what is known of wooden ship construction, however, 60 meters seems a more reasonable if possibly conservative estimate for the largest ships, which carried as many as nine masts setting fore-and-aft sails. Less contested are the numbers of ships and people involved. Zheng He's first expedition comprised 317 ships, including 62 "treasure ships" (baochuan) with a total complement of 27,870 people. The second expedition sailed with 249 ships. The third carried 30,000 people in 48 ships, most of which must have been of the largest size. The fourth fleet comprised 63 ships and 28,560 crew; the sixth, 41 ships; and the last expedition sailed with more than 100 ships. (Figures for the fifth fleet do not survive.) All the expeditions sailed with a variety of specialized vessels, the most important of which were the treasure ships, so-called because they carried treasure "of untold quantities." In addition, there were supply ships, water carriers, troop transports, at least three classes of warships, and purpose-built horse carriers. The trading networks of the Monsoon Seas between the eleventh and fifteenth centuries were the most dynamic of any in the world, with the longest routes, the busiest ports, and the most diverse selection of goods in circulation. As a result, there were many centers of maritime vitality along the southern and eastern littoral of Asia, whose merchants were in regular communication with each other and facilitated the exchange of ideas, manufactures, and raw products over vast distances and incidentally fostered the formation of distinctive hybrid communities whose members mediated between indigenous populations and traveling merchants. In rumor and fact, the vitality of maritime Asia attracted ever more merchants and travelers from the Mediterranean basin and Europe, whose reports added to the region's allure and helped set in train the events that would culminate in the discovery of a direct sea route to Asia and, incidentally, Europe's discovery of the Americas. a The word Khitan is the origin of the word Cathay, as medieval Europeans called China. b Seram is a large island on the northern edge of the Banda Sea. Massoia is a flavoring from the bark of the massoia tree (Cryptocaria massoia), which is native to New Guinea. c Cubeb (Piper cubeba) is a fruit of the pepper family.
 
-## Chapter 14: The Early Modern Maritime World
-
-### The World Encompassed
+## Chapter 14: The World Encompassed
 
 Columbus's crossing of the Atlantic; Gama's opening of an all-sea route between Europe and the Indian Ocean; Magellan's circumnavigation of the globe, from east to west; and Urdaneta's first west-to-east crossing of the Pacific--these were the navigational triumphs of the age, indeed of any age. They made possible the forging of new links between formerly unconnected regions of the globe, and laid the foundation of Europe's gradual ascendancy on the world stage. Singular though these accomplishments were they must be seen as the result of deliberate processes of purposeful exploration, as incidents rather than accidents of history. They were the result of long experience through which mariners, shipwrights, and cartographers steadily improved the capabilities of their ships and the art of navigation, expanded their knowledge of oceanic currents and winds, and refined the methods by which to profit from the commercial exploitation of newly encountered lands and people. While we celebrate these milestones, we must bear in mind that such progress was hard won. Hundreds of Spanish sailors died just in the four-decade search for the winds that would carry ships across the Pacific from Asia to the Americas, and the search for the Northwest and Northeast Passages from the Atlantic to the Orient in the sixteenth century were costly failures because these routes were impassable with the technology, experience, and climate of the time. Above all it has to be acknowledged that the introduction of Eurasian and African diseases in susceptible populations of the Americas led to catastrophic and wholly unanticipated loss of life--more than 80 percent (some estimates put the figure at 95 percent) of the population--and the consequent eradication of entire states and cultures.
 
@@ -2536,9 +2508,7 @@ The movement to ban the slave trade spanned the Atlantic, but to secure passage 
 
 While survival rates were worse for slaves than for free passengers, the difference is less dramatic than one might suppose--a fact that does not reflect well on the carriage of slaves, but indicates the deplorable circumstances of life afloat for most people. Although there are examples of colonial legislation in North America aimed at mitigating the conditions to which free passengers were subject earlier in the century, the first national laws to lessen the physical horrors of the slave trade preceded those intended to guarantee minimum standards for nonslaves. As British North America began to prosper in the eighteenth century, it attracted immigrants from beyond Great Britain, including French Huguenots and Germans from the Rhineland. The French tended to migrate to the Southern colonies, to which some of them had been introduced through their involvement in the slave trade, while Germans tended to sail for Philadelphia. A German immigrant wrote of his experience in 1725: "The ship voyage is as one takes it. For my part, I maintain that it is a comfortable trip if one carries along victuals to which one is accustomed and controls one's imagination." But the halcyon days of the Great Migration to New England were long past and such sanguine views of an Atlantic crossing were probably rare in the eighteenth century. More people would seem to have concurred with Gottlieb Mittelberger, who left Germany in 1750 to take up a four-year post as organist in Pennsylvania. Mittelberger originally had no intention of writing about his experiences and did so solely to warn innocent travelers of "the sad and miserable condition of those traveling from Germany to the New World, and the irresponsible and merciless proceedings of the Dutch traders in human beings and their man-stealing emissaries--I mean the socalled Newlanders. For these at one and the same time steal German people under all sorts of fine pretexts, and deliver them into the hands of the great Dutch traffickers in human souls. From this business the latter make a huge profit." His description of shipboard life is a litany of agonies almost indistinguishable from Falconbridge's account of a slave ship: During the journey the ship is full of pitiful signs of distress--smells, fumes, horrors, vomiting, various kinds of sea sickness, fever, dysentery, headaches, heat, constipation, boils, scurvy, cancer, mouth rot, and similar inflictions [sic], all of them caused by the age and the highly salted state of the food, especially the meat, as well as the very bad and filthy water, which brings about the miserable destruction and death of many. Add to all that shortage of food, hunger, thirst, frost, heat, dampness, fear, misery, vexation, and lamentation, as well as other troubles. With such apotropaic testimony in circulation, it is remarkable that anyone would consider the prospect of leaving Europe for America, but leave they did. Of the 11.4 million people who sailed to the Americas between 1500 and 1820, 2.7 million were Europeans; the remainder--more than threequarters of the total--were African slaves.
 
-### The Balance of Power in Eighteenth-
-
-### Century Europe
+### The Balance of Power in Eighteenth-Century Europe
 
 Religious conflict, warfare, land hunger, the apparent abundance of opportunity, and the diminished threat of pirates and privateers were all inducements for crossing the Atlantic. By the eighteenth century, the security of overseas territories was increasingly assured by the naval power of their home countries, and the governments of England, France, and the Dutch Republic were assuming a role in transoceanic affairs that had previously been delegated to private interests. But there was no direct correspondence between a strong navy and a large merchant marine. The Dutch Republic maintained a vigorous carrying trade even as its navy declined; the French built a huge navy and had a prosperous merchant marine, although merchants wielded comparatively little influence in naval circles; and Russia's navy antedated the creation of its commercial fleet altogether. England was the country in which naval and foreign policy objectives tallied most closely with the aims of merchants.
 
@@ -2669,8 +2639,6 @@ A separate problem from determining one's place on the globe was how to represen
 Even without maps based on scientific projections, great progress was made in charting coastal waters by cartographers centered in Antwerp and Amsterdam. In 1584, Lucas Janszoon Waghenaer published his Spieghel der Zeevaerdt (Mirror of navigation, or Mariner's mirror), a collection of forty-four charts of northern European waters that focused on the contours of the coast (often out of scale to provide details of harbors), landmarks, profiles of the coast as seen from seaward, and depth of water. Waghenaer's compilations were so popular that the English adopted the term "waggoner" to describe any collection of charts with accompanying descriptions of the coasts. Waghenaer's methods were refined by Willem Blaeu, whose Het Licht der Zeevaerdt (The light of navigation, 1608) rendered coasts and harbors more accurately, among other improvements. In acknowledgment of his accomplishments, the VOC named Blaeu their chief examiner of pilots and chartmaker. Cartographers in other nations expanded the scope of waggoners and other pilot books to incorporate as much information as they could about all the major sea routes of the world, but institutionalization of the discipline proceeded fitfully. France established its Dépôt des Cartes et Plans in 1720; the English East India Company appointed Alexander Dalrymple their hydrographer in 1769, and he held the same position concurrently with the Royal Navy from 1795. Charting by navies, merchants, and explorers progressed in spite of this haphazard approach. Among the more notable accomplishments beyond European waters was the British charting of the St. Lawrence River during the Seven Years' War by a team of surveyors including James Cook and Joseph F. W. Des Barres. Between 1774 and 1780, Des Barres published the Atlantic Neptune, the first comprehensive compilation of charts of the east coast of North America. In the next century, improvements in navigational instruments would be dwarfed by the invention of wholly new technologies for propulsion but there would be no comparable advances in navigation until the invention of sonar and radar, the gyroscopic compass, and global positioning systems in the 1900s. The scope of maritime trade and naval operations expanded dramatically in the eighteenth century. Voyages considered exotic or possibly fatal at the beginning of the century became commonplace and explorers opened previously remote lands and people to interaction with the rest of the world. New combinations of commercial and state power were in evidence, while countries with previously untapped or underdeveloped maritime resources like Russia and the United States were launching themselves on the world stage. Among the most far-reaching developments occurred in Asia, where Europeans had at long last succeeded in reshaping the ancient patterns and composition of trade. This was most evident in the English East India Company's takeover of Bengal, which prefigured the British Raj in India, but also in the United States' engagement in the fur trade between the Pacific Northwest and Canton, and the rapid growth of the China tea trade. In some respects, these were merely variations on trends one can trace from the end of the fifteenth century, and few if any people foresaw the enormous changes in the balance, reach, and pace of global power that would result from the technological and economic revolutions already under way on both sides of the Atlantic. a This conflict is also known as the War of the Grand Alliance, the War of the Palatine Succession, and, in North America, King William's War. b The strait is named for the Spanish explorer Luis Baéz de Torres, who sailed through it in 1606. c Originally "brigantine" and "brig" were used interchangeably; in current usage, a brig is squarerigged on both masts. d Twoand three-masted schooners sometimes set square sails on the foremast. There was one sevenmasted schooner, built in 1902.
 
 ## Chapter 18: "Annihilation of Space and Time"
-
-### "Annihilation of Space and Time"
 
 "Annihilation of Space and Time." So trumpeted a newspaper headline announcing the arrival of the first commercially viable transatlantic steamship in New York on April 22, 1838, barely three decades after the inauguration of regular steamship service on the Hudson River. In an age of the jumbo jet and Internet, it is difficult to appreciate the staggering advance represented by the arrival of the Sirius and, the following day, the Great Western, after transatlantic crossings of eighteen and fifteen days, respectively. The best times under sail were three weeks eastbound and twice that westbound. Soon, steamships would routinely make the crossing in less than two weeks, and by the turn of the century the fastest ships easily crossed in fewer than six days. Yet the invention of the marine engine had global implications far beyond what its sea-minded developers could have imagined. Initially, the greatest impact was on coastal and short sea trades, but steam technology did as much to open continents as to connect them: steam shipping gave rise to an era of canal digging and other improvements to inland navigation that transformed landscapes, created opportunities for industrial and economic development in continental interiors, facilitated the movement of goods and people across the land, and thereby changed the tempo of life for people worldwide.
 
@@ -12431,9 +12399,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 
 *Page numbers in italics refer to illustration captions.*
 
-
-## A
-
 - Abadan, 10.1, 10.2, 18.1
 - Abbasid Caliphate, 10.1, 10.2, 11.1, 11.2, 13.1
   - and the Mediterranean, 8.1, 8.2, 15.1
@@ -12788,8 +12753,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Azov, Sea of, 4.1, 9.1, 17.1
 - Aztec Empire, 1.1, 1.2, 15.1, 18.1
 
-## B
-
 - Bab al-Mandeb, 1.1, 6.1, 8.1, 15.1
 - Babylonian Empire, 3.1, 3.2, 4.1, 4.2, 4.3, 6.1
 - Baekje Kingdom, 7.1, 11.1, 11.2
@@ -13056,8 +13019,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Venice and, 8.1, 12.1, 12.2, 12.3
 - Byzantium, 9.1, 9.2
   - in antiquity, 4.1, 4.2, 5.1, 5.2, 8.1
-
-## C
 
 - Cabot, John, 9.1, 16.1
 - Cabot, Matthew
@@ -13449,8 +13410,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Cyrene
 - Cyrus the Great, 4.1, 6.1
 
-## D
-
 - Dadu, 13.1, 13.2, 13.3
 - Dahlgren, John A., 19.1, 19.2
 - Dai Viet, 11.1, 11.2, 13.1, 13.2, 13.3
@@ -13602,8 +13561,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Dyrrachium, 8.1, 12.1, 12.2
 - Ea (god), 3.1, 3.2
 
-## E
-
 - Eanes, Gil
 - East Africa, itr.1, 15.1, 15.2, 16.1, 18.1, nts.1n
 - Chinese and, 13.1, 13.2, 13.3, 13.4
@@ -13752,8 +13709,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
   - of North America, 9.1, 16.1, 16.2
 - Ezekiel, 4.1, 4.2
 
-## F
-
 - Fabri, Felix
 - Falconbridge, Alexander, 17.1, 17.2
 - Falkland Islands, 18.1, 20.1
@@ -13854,8 +13809,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Furious, HMS,
 - Fustat, 8.1, 8.2
 - Fuzhou, 11.1, 13.1, 13.2, 18.1, nts.1n
-
-## G
 
 - Gabbard Shoal, battle of the
 - Gadir/Gades (Cádiz), 4.1, 5.1, 6.1, 12.1
@@ -14060,8 +14013,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Guthrum, King
 - Gyllenborg, Carl
 
-## H
-
 - Habsburgs
 - Hadramawt, 6.1, 10.1, 15.1
 - Haida, 1.1, 1.2
@@ -14231,8 +14182,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Hyder Ali
 - Hydrographer of the Navy, 17.1, 18.1, 18.2
 - Hyksos, 2.1, 3.1, 3.2
-
-## I
 
 - Iberia, 5.1, 12.1, 14.1, 16.1
 - Iberian Peninsula, 5.1, 8.1, 12.1, 14.1
@@ -14411,8 +14360,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Ivan IV, "the Terrible,"
 - Iwasaki, Yataro
 
-## J
-
 - Jabal Tarik, 8.1, 8.2
 - Jahangir, Emperor
 - Jains, 6.1, 10.1, 10.2, 13.1
@@ -14484,8 +14431,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Jutes
 - Jutland, 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 12.1
 - Jutland, battle of
-
-## K
 
 - Kaaba
 - Kadiri, kingdom of
@@ -14594,8 +14539,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Kyrenia II
 - Kyrgyzstan
 - Kyushu, 7.1, 7.2, 7.3, 11.1, 11.2, 13.1
-
-## L
 
 - Labrador, 1.1, 16.1
 - Lac Long Quan
@@ -14764,8 +14707,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Lu Zushang
 - Lycia, 3.1, 4.1
 - Lydians
-
-## M
 
 - MacArthur, Douglas
 - MacArthur, Ellen
@@ -15069,8 +15010,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Myos Hormos, 6.1, 6.2, 6.3
 - Mysore, Sultan of
 
-## N
-
 - Nagapattinam, 10.1, 13.1
   - nagarams
 - Nagasaki, 15.1, 16.1, 18.1
@@ -15267,8 +15206,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Nystad, Treaty of
 - Nzinga, King
 
-## O
-
   - oarsmen, 2.1, 12.1, 12.2
   - in Asian vessels, 7.1, 11.1, 13.1
   - in galleys, 4.1, 5.1, 8.1, 8.2
@@ -15348,8 +15285,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Ottoman navy, 15.1, 15.2, 19.1, 19.2
 - Ouse River, 9.1, 9.2
   - outriggers, 1.1-1.2, 4.1, 6.1, 6.2, 6.3, 10.1
-
-## P
 
 - Pachymeres, George
 - Pacific
@@ -15623,8 +15558,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Pyrrhus of Epirus
 - Pytheas, 4.1, 9.1, 9.2
 
-## Q
-
 - Qadim, Quseir, al-, 6.1, 13.1
 - Qais, see Kish
   - qarib
@@ -15651,8 +15584,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
   - quinqueremes, 5.1, 5.2
 - Qulzum, 10.1, 10.2, 13.1
 - Quran, itr.1, 8.1, 8.2, 11.1, 12.1
-
-## R
 
   - radar, 17.1, 19.1, 19.2
   - radeaux
@@ -15820,8 +15751,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Ruyter, Michiel de, 16.1, 16.2
 - Ryswyck, Treaty of
 - Ryukyu Islands, 10.1, 13.1, 15.1, 16.1, nts.1n
-
-## S
 
 - Sabaeans
 - Safavid Empire, 15.1, 15.2, 16.1
@@ -16317,8 +16246,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Syro-Canaanites, 2.1, 2.2
 - Szczecin
 
-## T
-
 - Tacitus, 9.1, 9.2
 - Taejo, King
 - Tagus River
@@ -16528,8 +16455,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Tyre, 4.1, 4.2, 4.3, 4.4
 - Tyrrhenian Sea, 5.1, 5.2, 12.1, 14.1
 
-## U
-
 - U-110
 - U-boats, 18.1, 19.1, 19.2, 19.3, 19.4, 19.5
 - Ubulla, 10.1, 10.2, 10.3
@@ -16582,8 +16507,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Utnapishtim
 - Utrecht, Treaty of, 9.1, 9.2, 12.1
 - Uzbekistan, 7.1, 10.1
-
-## V
 
 - Vajrabodhi, 10.1, 11.1
 - Valdemar I, "the Great,"
@@ -16674,8 +16597,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Voltairen
 - Voyage in the "Sunbeam" (Brassey),
 
-## W
-
 - Waal River, 9.1, 9.2
 - Wadi Hammamat, 2.1, 2.2
   - wadis, 2.1, 6.1
@@ -16752,8 +16673,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Wu, kingdom of, 7.1, 7.2, 7.3, 7.4
 - Wulfstan, 9.1, 9.2
 
-## X
-
 - Xavier, Saint Francis
 - Xenophon
 - Xerxes, 4.1, 4.2, 4.3, 5.1
@@ -16764,8 +16683,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Xi River, n
 - Xi Xia, 11.1, 13.1, 13.2
 - Xuanzang, 10.1, nts.1n
-
-## Y
 
   - yachting, 18.1, 18.2, 18.3
 - Yalta Conference, 19.1, 19.2
@@ -16815,8 +16732,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Yunnan Plateau, 7.1, 7.2, 7.3, 7.4, 11.1
 - Yuwen Kai
 
-## Z
-
 - Zabaj, 10.1, 10.2, 10.3, nts.1n
 - Zagros Mountains, 3.1, 3.2, 6.1
 - Zaire (Congo) River
@@ -16851,7 +16766,6 @@ Prestage. 2 vols. London: Hakluyt, 1896-99.
 - Zwin River
   - zygians
 
-
 ## A Note About the Author
 
 Lincoln Paine is the author of four books and more than fifty articles,
@@ -16866,7 +16780,7 @@ For more information, please visit www.aaknopf.com
 - Warships of the World to 1900
 - Down East: A Maritime History of Maine
 
-## Illustrations and Captions
+## Illustrations
 
 1. An Egyptian faience plate decorated with a papyrus raft being poled on the Nile. The longitudinal papyrus bundles are held together by lashings. Dating from 1400-1200 bce, this plate was found in a tomb at Enkomi, on Famagusta Bay in eastern Cyprus, which testifies to the interconnectedness of the eastern Mediterranean more than three thousand years ago. Courtesy of the British Museum, London.
 

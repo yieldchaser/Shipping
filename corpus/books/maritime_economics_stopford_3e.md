@@ -13270,7 +13270,9 @@ Stage 3: The steel stockyard (3, 4) The steel is one of the first items to be or
 ECONOMICS OF SHIPBUILDING AND SCRAPPING
 
 
-### BOX 15.1--cont'd plates and rolled sections, which are used primarily to stiffen the plates. They are delivered to the yard by sea or road. The stockyard is laid out in an orderly manner and materials are retrieved using an overhead gantry crane.
+### BOX 15.1--cont'd
+
+plates and rolled sections, which are used primarily to stiffen the plates. They are delivered to the yard by sea or road. The stockyard is laid out in an orderly manner and materials are retrieved using an overhead gantry crane.
 
 
 Stage 4: Surface preparation (5) Steel plates and sections are retrieved from the steel stockyard and processed through a surface preparation plant to ensure they meet the precise standards required for construction. This involves rolling plates and straightening sections to ensure that they are true, followed by shot blasting to remove rust and priming to protect the plate from further rusting and provide a foundation for paint. The edges of plate to be welded are chamfered ready for the welding machines.
@@ -13288,7 +13290,9 @@ SHIPBUILDING PRODUCTION PROCESS 15.5
 **Figure 15.10** Shipyard layout plan Source: loosely based on Odense Lindo shipyard, part of A.P. Møller
 
 
-### BOX 15.1--cont'd hardening unit (12) to finish the process. When complete the blocks are taken back to the storage area (10) to await the next stage.
+### BOX 15.1--cont'd
+
+hardening unit (12) to finish the process. When complete the blocks are taken back to the storage area (10) to await the next stage.
 
 
 Stage 8: Pre-outfitting (13, 16) The next step is to fit into the blocks and sub-assemblies as many as possible of the thousands of outfit items such as pipes, electrical cables, switchboards, furnishings and machinery. Most of this is done in the block outfitting hall (16). Blocks are brought there from the storage area and pipes and components from the pipe stockyard (14) and storage area (15) are fitted into them. This method allows better access and material scheduling control than is possible when working on the hull in the dock and is an important way of increasing shipyard productivity. Advance outfit requires sophisticated information management, accuracy control and tight organization. Plans must be made, and materials ordered and delivered to the work zone at precisely the right moment so that assembly can proceed smoothly. When materials
@@ -13311,7 +13315,9 @@ Materials account for 60% or more of costs. Countries with large numbers of ship
 ECONOMICS OF SHIPBUILDING AND SCRAPPING
 
 
-### BOX 15.1--cont'd arrive in the yard they must be precisely as specified and fit into the assembly with- out adjustment or rework. However, in the real world things inevitably go wrong and the greatest skill is the ability to adjust schedules when things do not go as planned. This sounds easy, but calls for great care in planning and accuracy control. After pre- outfitting the blocks are taken to the storage area (17).
+### BOX 15.1--cont'd
+
+arrive in the yard they must be precisely as specified and fit into the assembly with- out adjustment or rework. However, in the real world things inevitably go wrong and the greatest skill is the ability to adjust schedules when things do not go as planned. This sounds easy, but calls for great care in planning and accuracy control. After pre- outfitting the blocks are taken to the storage area (17).
 
 
 Stage 9: Assembly in the dock (18) Finally, prefabricated sections of the ship, together with those items of outfitting already installed, are lifted into the assembly dock and lowered in place, using the 800-tonne Goliath crane. They are carefully aligned, then welded into position. Outfit installations such as pipe runs are linked up.

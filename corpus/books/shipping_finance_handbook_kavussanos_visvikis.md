@@ -2336,8 +2336,7 @@ Henriette   Brent-Petersen
 H.  Brent-Petersen (
 )
 DVB Bank SE ,  WTC Schiphol Tower F 6th Floor, Schiphol Boulevard 255 ,
-
-## 1118 BH  Schiphol ,  The Netherlands
+1118 BH  Schiphol ,  The Netherlands
 
 by the “German dentists” tax driven investments in German owned container
 vessels. With this kind of niche sector financing, combined with relatively
@@ -2421,35 +2420,11 @@ as new refining capacity projects and changes in the oil price, is critical to
 understand the key drivers of future trade patterns and their changes for the
 respective tanker and offshore sectors. However, this will not be discussed in
 this chapter.
-2 Asset Risk Assessment,
+2 Asset Risk Assessment, Analysis and Forecasting in Asset Backed...
+43
 
 <!-- Page 82 (Nace parse) -->
 
-Fig. 2.1 Timeline of shipbuilding related policy in China (Source: DVB Shipping Research, Clarksons)
-
-# 2.2.2 Cyclicality and Variables Affecting Cyclicality: A Political Variable in a Commercial Industry
-
-In cyclical markets, such as the shipping and offshore industries, understanding the overall cyclicality, the respective sector and subsector cyclicality, and
-
-In cyclical markets, such as the shipping and oﬀ shore industries, understand-
-ing the overall cyclicality, the respective sector and subsector cyclicality, and
-100
-120
-140
-160
-2001
-2002
-2003
-2004
-2005
-2006
-2007
-2008
-2009
-2010
-2011
-2012
-2013
 No. of Yards Start Up in Each Year
 Government’s policies play an important role in the
 development of Chinese shipbuilding industry since the
@@ -2462,8 +2437,10 @@ reach 23mdwt
 • By 2015, output will reach 22mdwt and capacity will
 reach 28mdwt
 Stimulus and Adjustment Plan for
+Shipbuilding Industry
 • Annual shipbuilding output to reaches 50m
 dwt in 2011 and global market share to increase
+to 35%
 • Optimize product mix of Chinese yards
 • Control new shipbuilding capacity
 Implementation Scheme for Accelerating and Structural
@@ -2476,17 +2453,12 @@ securitization of shipbuilders’ loans
 • No authorization from local governments to approve any new
 capacity. Close down unauthorized projects.
 
-Analysis and Forecasting in Asset Backed...
-43
+Fig. 2.1 Timeline of shipbuilding related policy in China (Source: DVB Shipping Research, Clarksons)
 
-#### 2.2.2  Cyclicality and Variables Affecting Cyclicality:
+#### 2.2.2  Cyclicality and Variables Affecting Cyclicality: A Political Variable in a Commercial Industry
 
-A Political Variable in a Commercial Industry
-In cyclical markets, such as the shipping and offshore industries, understand-
+In cyclical markets, such as the shipping and oﬀ shore industries, understand-
 ing the overall cyclicality, the respective sector and subsector cyclicality, and
-**Fig. 2.1  Timeline of shipbuilding related policy in China ( Source : DVB Shipping**
-
-Research, Clarksons)
 44
 H. Brent-Petersen
 
@@ -4282,27 +4254,27 @@ Other
 Total
 2004
 11
-# of
+\# of
 Offerings
 Amount
 ($m)
 Mkt
 share
-# of
+\# of
 Offerings
 Amount
 ($m)
 Mkt
 share
-# of
+\# of
 Offerings
 Amount
 ($m)
 Mkt
 share
-# of
+\# of
 Offerings
-# of
+\# of
 Offerings
 Amount
 ($m)
@@ -7308,9 +7280,7 @@ tee is controlled by institutional investors, typically the borrowers can expect
 stronger negotiations and professional efforts to recover as much money as
 possible, exhausting all options and legal venues.
 
-### 6.13  Classification of Shipping Bonds Based
-
-on Collateral
+### 6.13  Classification of Shipping Bonds Based on Collateral
 A bond, as a standard debt instrument, has to offer to creditors certain assur-
 ances that the borrower will be able to perform on the bond and make good
 on coupon payments and return of principal amounts. The higher the assur-
