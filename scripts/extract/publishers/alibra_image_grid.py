@@ -39,7 +39,10 @@ def clean_label(s: str) -> str:
 
 
 def markers(img_path: Path):
-    a = np.asarray(Image.open(img_path).convert("RGB")).astype(int)
+    im = Image.open(img_path).convert("RGB")
+    if im.width > 800:   # sizes/gaps below are tuned on the usual 600 px image; 2026-10-14 came at 1717 px
+        im = im.resize((600, round(im.height * 600 / im.width)), Image.BOX)
+    a = np.asarray(im).astype(int)
     r, g, b = a[..., 0], a[..., 1], a[..., 2]
     # row backgrounds (blue, pale green) have g-b <= 20 and g-r <= 25
     masks = {

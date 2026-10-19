@@ -310,16 +310,19 @@ def validate_argentina_dataset():
     df_monthly = pd.read_csv(OUT_MONTHLY_CSV)
     df_ports = pd.read_csv(OUT_PORTS_CSV)
 
-    # 1. Continuous sequence check: exactly 55 continuous monthly records
-    if len(df_monthly) != 55:
-        raise ValueError(f"Expected exactly 55 monthly records (2022-01 to 2026-07), got {len(df_monthly)}")
-
+    # 1. Continuous sequence check: every month from 2022-01 to the latest published month, no gaps, never
+    #    shrinking below the 55 months (to 2026-07) already verified. A fixed count of 55 failed every run
+    #    once MAGyP published 2026-08.
     dates = list(df_monthly["date"])
     if len(dates) != len(set(dates)):
         raise ValueError("Duplicate dates found in monthly records!")
 
-    if dates[0] != "2022-01-01" or dates[-1] != "2026-07-01":
-        raise ValueError(f"Unexpected date span: {dates[0]} to {dates[-1]}, expected 2022-01-01 to 2026-07-01")
+    expected = [d.strftime("%Y-%m-%d") for d in pd.date_range("2022-01-01", dates[-1], freq="MS")]
+    if dates != expected:
+        raise ValueError(f"Monthly records are not the continuous span 2022-01 to {dates[-1][:7]}: "
+                         f"{len(dates)} rows, expected {len(expected)}")
+    if len(dates) < 55:
+        raise ValueError(f"Expected at least 55 monthly records (2022-01 to 2026-07), got {len(dates)}")
 
     # 2. Component and Port reconciliation for every row
     crops = ["corn_mt", "wheat_mt", "soybeans_mt", "soymeal_pellets_mt", "barley_mt", "sorghum_mt", "sunflower_mt", "other_grains_mt"]

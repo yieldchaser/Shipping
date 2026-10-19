@@ -420,9 +420,24 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
     return stocks, bunkers, macro, macro_daily
 
 
-def run_all():
-    files = sorted(glob.glob(str(CORPUS_DIR / "*/*.pdf")))
-    _dup = duplicate_stems()
+def _write_series(path, fieldnames, rows, merge_sources):
+    """Full run: rewrite. --files run: keep the CSV's rows from other reports, replace this run's reports."""
+    if merge_sources is not None and path.exists():
+        with open(path, newline="", encoding="utf-8") as fp:
+            kept = [r for r in csv.DictReader(fp) if r.get("source_file") not in merge_sources]
+        rows = kept + rows   # appended, not re-sorted: the diff shows only the new reports
+    with open(path, "w", newline="", encoding="utf-8") as fp:
+        writer = csv.DictWriter(fp, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+def run_all(only_files=None):
+    """All PDFs on disk (rewrites the series CSVs), or only_files: just those reports, merged into the CSVs
+    (CI sees only the newly downloaded PDFs, so a full rewrite there would drop every older report)."""
+    files = sorted(glob.glob(str(CORPUS_DIR / "*/*.pdf"))) if not only_files else [str(f) for f in only_files]
+    merge_sources = {Path(f).name for f in files} if only_files else None
+    _dup = duplicate_stems() if not only_files else set()
     if _dup:
         _b = len(files)
         files = [f for f in files if Path(f).stem not in _dup]
@@ -473,46 +488,54 @@ def run_all():
 
     # Write series CSVs
     if all_stocks:
-        with open(STOCKS_SERIES_CSV, "w", newline="", encoding="utf-8") as fp:
-            writer = csv.DictWriter(fp, fieldnames=[
+        _write_series(STOCKS_SERIES_CSV, [
                 "issue_date", "report_week", "company", "exchange", "currency",
                 "current_price", "prior_price", "change_pct", "source_file"
-            ])
-            writer.writeheader()
-            writer.writerows(all_stocks)
+            ], all_stocks, merge_sources)
         print(f"Exported {len(all_stocks)} rows to {STOCKS_SERIES_CSV.name}")
 
     if all_bunkers:
-        with open(BUNKERS_SERIES_CSV, "w", newline="", encoding="utf-8") as fp:
-            writer = csv.DictWriter(fp, fieldnames=[
+        _write_series(BUNKERS_SERIES_CSV, [
                 "issue_date", "report_week", "fuel_grade", "port",
                 "price_usd_per_mt", "prior_price_usd_per_mt", "change_pct", "source_file"
-            ])
-            writer.writeheader()
-            writer.writerows(all_bunkers)
+            ], all_bunkers, merge_sources)
         print(f"Exported {len(all_bunkers)} rows to {BUNKERS_SERIES_CSV.name}")
 
     if all_macro:
-        with open(MACRO_SERIES_CSV, "w", newline="", encoding="utf-8") as fp:
-            writer = csv.DictWriter(fp, fieldnames=[
+        _write_series(MACRO_SERIES_CSV, [
                 "issue_date", "report_week", "category", "indicator",
                 "latest_value", "prior_value", "wow_change_pct", "source_file"
-            ])
-            writer.writeheader()
-            writer.writerows(all_macro)
+            ], all_macro, merge_sources)
         print(f"Exported {len(all_macro)} rows to {MACRO_SERIES_CSV.name}")
 
     if all_macro_daily:
-        with open(MACRO_DAILY_SERIES_CSV, "w", newline="", encoding="utf-8") as fp:
-            writer = csv.DictWriter(fp, fieldnames=[
+        _write_series(MACRO_DAILY_SERIES_CSV, [
                 "issue_date", "report_week", "category", "indicator",
                 "print_date", "day_offset", "value", "is_latest",
                 "wow_change_pct", "source_file"
-            ])
-            writer.writeheader()
-            writer.writerows(all_macro_daily)
+            ], all_macro_daily, merge_sources)
         print(f"Exported {len(all_macro_daily)} rows to {MACRO_DAILY_SERIES_CSV.name}")
 
 
 if __name__ == "__main__":
-    run_all()
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--files", nargs="*", help="only these PDFs; their rows are merged into the series CSVs")
+    ap.add_argument("--new-only", action="store_true",
+                    help="CI: merge the current-year PDFs that no series CSV has a row from yet")
+    a = ap.parse_args()
+    if a.new_only:
+        import csv as _csv, datetime as _dt
+        seen = set()
+        for _p in (STOCKS_SERIES_CSV, BUNKERS_SERIES_CSV, MACRO_SERIES_CSV, MACRO_DAILY_SERIES_CSV):
+            if _p.exists():
+                with open(_p, encoding="utf-8", newline="") as _fh:
+                    seen |= {r.get("source_file", "") for r in _csv.DictReader(_fh)}
+        _dup = duplicate_stems()
+        _new = [f for f in sorted((CORPUS_DIR / str(_dt.date.today().year)).glob("*.pdf"))
+                if f.name not in seen and f.stem not in _dup]
+        print(f"[new-only] {len(_new)} report(s) without finance rows: {[f.name for f in _new]}")
+        if _new:
+            run_all(_new)
+    else:
+        run_all(a.files)

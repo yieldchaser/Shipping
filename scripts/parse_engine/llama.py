@@ -91,6 +91,10 @@ class LlamaParseClient:
         while True:
             key = self.pool.current()
             if key is None:
+                payload = self._parse_nace(pdf_path, pages)
+                if payload is not None:
+                    payload["keys_skipped_exhausted"] = tried
+                    return payload
                 raise CreditsExhausted("all LlamaCloud keys exhausted this month (tried: %s)" % ", ".join(tried))
             try:
                 try:
@@ -166,6 +170,29 @@ class LlamaParseClient:
             "markdown": "\n\n".join(p["markdown"] for p in markdown_pages),
             "credits_estimated": estimate_credits(tier, len(page_list)),
             "parsed_at_epoch": int(time.time()),
+        }
+
+    # -- Nace NDI Parse, when every LlamaCloud key is exhausted -------------
+    def _parse_nace(self, pdf_path, pages) -> dict[str, Any] | None:
+        """Same payload shape as v2. None when Nace has no keys or PARSE_BACKEND=llama."""
+        import os
+        try:
+            from scripts.extract.nace_backend import nace_keys, nace_parse_pdf
+        except ImportError:
+            return None
+        if os.environ.get("PARSE_BACKEND", "").lower() == "llama" or not nace_keys():
+            return None
+        page_list = spec_to_pages(pages)
+        docs = nace_parse_pdf(str(pdf_path), ",".join(str(p - 1) for p in page_list))   # 0-based, as LlamaParse v1
+        markdown_pages = [{"page": d.metadata.get("page"), "markdown": d.text or "", "success": True,
+                           "error": None} for d in docs]
+        return {
+            "api": "nace", "engine": "nace", "tier": "high", "version_requested": "nace",
+            "version_resolved": "nace-ndi-parse-high", "pages": pages, "job_id": None,
+            "leak_cut": any(d.metadata.get("leak_cut") for d in docs),
+            "markdown_pages": markdown_pages,
+            "markdown": "\n\n".join(p["markdown"] for p in markdown_pages),
+            "credits_estimated": 0, "parsed_at_epoch": int(time.time()),
         }
 
     # -- v1 fallback -------------------------------------------------------

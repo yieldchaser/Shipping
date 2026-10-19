@@ -547,9 +547,11 @@ def process_report(pdf_path: Path):
     }
 
     # Write files
-    OUT_MD.mkdir(parents=True, exist_ok=True)
-    (OUT_MD / f"{stem}.md").write_text(md_content, encoding="utf-8")
-    (OUT_MD / f"{stem}.tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+    # year subfolder, like the whole history (a root copy was a stray duplicate)
+    year_dir = OUT_MD / str(meta.get("year") or (meta.get("issue_date") or "")[:4] or "unknown")
+    year_dir.mkdir(parents=True, exist_ok=True)
+    (year_dir / f"{stem}.md").write_text(md_content, encoding="utf-8")
+    (year_dir / f"{stem}.tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
 
     return {
         "stem": stem,

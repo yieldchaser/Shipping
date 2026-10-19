@@ -33,7 +33,9 @@ from typing import Any, Dict, List, Optional, Tuple
 
 import pymupdf
 from bs4 import BeautifulSoup
-from llama_parse import LlamaParse
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))  # scripts/extract
+from nace_backend import LlamaParse  # LlamaParse first, Nace NDI Parse when its keys are exhausted
 
 # Set UTF-8 output
 sys.stdout.reconfigure(encoding="utf-8")
@@ -256,6 +258,7 @@ def parse_single_pdf(
             save_state_entry(stem, {
                 "status": "success",
                 "account": acc["id"],
+                "parser": getattr(parser, "backend_used", None) or "llama",
                 "pages": num_target_pages,
                 "md_size": len(full_md),
                 "timestamp": dt.datetime.now().isoformat()
@@ -780,6 +783,9 @@ def build_final_md_and_tables(stem: str, pdf_path: Path):
     content = polish_markdown_tables(content)
 
     report_week, issue_date = parse_date_and_week(pdf_path)
+    engine = ("Nace NDI Parse mode=high (LlamaParse keys exhausted)"
+              if load_state().get(stem, {}).get("parser") == "nace"
+              else "LlamaParse tier=cost_effective version=latest")
 
     # Clean frontmatter
     frontmatter = f"""---
@@ -789,18 +795,14 @@ report_week: {report_week}
 year: {issue_date[:4]}
 broker: "Banchero Costa"
 source_file: "corpus/01-brokers/banchero_costa/{pdf_path.parent.name}/{pdf_path.name}"
-parsed_engine: "LlamaParse tier=cost_effective version=latest"
+parsed_engine: "{engine}"
 ---
 
 """
     cleaned_body = clean_banchero_document_text(content, report_week, issue_date)
     full_md = frontmatter + cleaned_body
 
-    # Save to both flat root and year subfolder
-    MD_OUT_DIR.mkdir(parents=True, exist_ok=True)
-    out_md_path = MD_OUT_DIR / f"{stem}.md"
-    out_md_path.write_text(full_md, encoding="utf-8")
-
+    # Year subfolder only: a flat-root copy became a tracked duplicate of the same issue
     year_dir = MD_OUT_DIR / issue_date[:4]
     year_dir.mkdir(parents=True, exist_ok=True)
     (year_dir / f"{stem}.md").write_text(full_md, encoding="utf-8")
@@ -811,15 +813,12 @@ parsed_engine: "LlamaParse tier=cost_effective version=latest"
         sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "md_cleanup"))
         import banchero_chart_note
         banchero_chart_note.process(year_dir / f"{stem}.md", True, pdf=pdf_path)
-        out_md_path.write_bytes((year_dir / f"{stem}.md").read_bytes())
     except Exception as e:
         print(f"  [!] banchero_chart_note failed for {stem}: {e}")
 
     # Extract tables into .tables.json sidecar
     tables_data = extract_structured_tables_from_md(cleaned_body, issue_date, report_week, pdf_path.name)
     tables_data.pop("chart_series", None)   # eyeballed chart points, not printed values: never stored
-    out_json_path = MD_OUT_DIR / f"{stem}.tables.json"
-    out_json_path.write_text(json.dumps(tables_data, indent=2), encoding="utf-8")
     (year_dir / f"{stem}.tables.json").write_text(json.dumps(tables_data, indent=2), encoding="utf-8")
     return tables_data
 
@@ -1095,7 +1094,9 @@ def extract_structured_tables_from_md(
                             })
 
             # 3. Indicative Newbuilding Prices
-            elif "NEWBUILDING" in ctx and ("m-o-m" in header_str or "y-o-y" in header_str):
+            # (not under a SECONDHAND heading: a Nace parse can leave "# NEWBUILDING ORDERS" as h1 above the
+            # Baltic secondhand table, which also has a Y-o-Y column)
+            elif "NEWBUILDING" in ctx and "SECONDHAND" not in ctx and ("m-o-m" in header_str or "y-o-y" in header_str):
                 for r in rows:
                     if len(r) >= 3:
                         v_type = r[0].strip()

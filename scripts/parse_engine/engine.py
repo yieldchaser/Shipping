@@ -283,7 +283,8 @@ def run_llama(plan: FilePlan, profile: dict[str, Any], client: LlamaParseClient 
     resolved = payload.get("version_resolved") or version
     return {
         "markdown": html_tables_to_gfm(payload["markdown"]).replace("<br />", " "), "tables": [],
-        "parser": f"llamaparse {tier} {resolved} ({payload['api']})",
+        "parser": ("Nace NDI Parse mode=high (LlamaParse keys exhausted)" if payload.get("api") == "nace"
+                   else f"llamaparse {tier} {resolved} ({payload['api']})"),
         "api": payload["api"], "tier": tier, "credits_used": used, "cache_hit": hit,
         "parsed_at": _epoch_iso(payload.get("parsed_at_epoch")), "job_id": payload.get("job_id"),
         "key_prefix": payload.get("key_prefix"),

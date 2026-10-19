@@ -599,11 +599,10 @@ def extract_single_ism_doc(p: Path, out_dir: Path = OUT) -> dict:
         
     md = render_md(p, charts, commentary, meta)
     
-    # Save both flat and year subdirectories
+    # year subfolder only, like the whole history (a flat root copy was a stray duplicate)
     year_dir = out_dir / str(year)
     year_dir.mkdir(parents=True, exist_ok=True)
-    
-    (out_dir / (p.stem + '.md')).write_text(md, encoding='utf-8')
+
     (year_dir / (p.stem + '.md')).write_text(md, encoding='utf-8')
     
     sidecar_data = dict(
@@ -615,7 +614,6 @@ def extract_single_ism_doc(p: Path, out_dir: Path = OUT) -> dict:
         charts=charts,
         warnings=meta['warnings']
     )
-    (out_dir / (p.stem + '.charts.json')).write_text(json.dumps(sidecar_data, indent=1), encoding='utf-8')
     (year_dir / (p.stem + '.charts.json')).write_text(json.dumps(sidecar_data, indent=1), encoding='utf-8')
     
     return {

@@ -48,7 +48,9 @@ from typing import Any, Dict, List, Optional, Tuple
 
 import pymupdf
 from bs4 import BeautifulSoup
-from llama_parse import LlamaParse
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))  # scripts/extract
+from nace_backend import LlamaParse  # LlamaParse first, Nace NDI Parse when its keys are exhausted
 
 ROOT = pathlib.Path(__file__).resolve().parents[3]
 if str(ROOT) not in sys.path:
@@ -566,6 +568,11 @@ def parse_all_intermodal_tables(
             for row in grid[1:]:
                 if not row or len(row) < 3:
                     continue
+                # "265k MEG-SPORE" split into two cells ("265k" | "MEG-SPORE") shifts every value one column
+                # right (WS read from the $/day column): join them back into the one printed route
+                if (len(row) > 3 and re.fullmatch(r"\d+k", row[1].strip(), re.I)
+                        and re.fullmatch(r"[A-Za-z][A-Za-z.\-/ ]*", row[2].strip())):
+                    row = [row[0], f"{row[1].strip()} {row[2].strip()}"] + list(row[3:])
                 has_nums = any(re.search(r"\d", c) for c in row[2:6]) if len(row) > 2 else False
                 if not has_nums:
                     continue

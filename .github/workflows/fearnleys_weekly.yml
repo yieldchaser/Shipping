@@ -86,14 +86,8 @@ jobs:
 
           git commit -m "Update Fearnleys TC rates and custom reports $(date -u +'%Y-%m-%d') UTC [skip ci]"
 
-          for attempt in 1 2 3; do
-            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
-              echo "Push succeeded on attempt $attempt."
-              exit 0
-            fi
-            echo "Push race on attempt $attempt. Retrying in 10s..."
-            sleep 10
-          done
+          # rebases over concurrent bot pushes; regenerated audit files may conflict, anything else fails
+          bash scripts/ci/push_rebase.sh && exit 0
 
           echo "Failed to push after 3 attempts."
           exit 1

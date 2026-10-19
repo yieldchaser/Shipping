@@ -29,7 +29,9 @@ if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(line_buffering=True)
 
 import pymupdf
-from llama_parse import LlamaParse
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))  # scripts/extract
+from nace_backend import LlamaParse  # LlamaParse first, Nace NDI Parse when its keys are exhausted
 
 ROOT = Path(__file__).resolve().parents[3]
 sys.path.insert(0, str(ROOT / "scripts" / "extract"))

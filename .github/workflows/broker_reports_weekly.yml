@@ -34,7 +34,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 pypdf pandas firecrawl-anydoc pymupdf pillow llama-parse openpyxl liteparse
+          pip install requests beautifulsoup4 pypdf pandas firecrawl-anydoc pymupdf pillow llama-parse nace-sdk openpyxl liteparse
           npm install -g @llamaindex/liteparse || true
 
       - name: Configure Git identity
@@ -48,6 +48,7 @@ jobs:
       - name: Scrape Multi-Broker Reports
         env:
           LLAMA_CLOUD_API_KEY: ${{ secrets.LLAMA_CLOUD_API_KEY }}
+          NACE_API_KEY: ${{ secrets.NACE_API_KEY }}   # Nace NDI Parse when LlamaParse credits run out
         run: |
           PAGES="${{ github.event.inputs.pages || '5' }}"
           python scripts/scrapers/fetch_hsn_shipbrokers.py "$PAGES"
@@ -57,6 +58,8 @@ jobs:
           python scripts/build_views.py || true
           python scripts/extract_demolition_pdfs.py || true
           python scripts/extract/orchestrate_incremental_ingest.py || true
+          # Intermodal finance page (stocks, bunkers, macro): merge new issues into the series CSVs
+          python scripts/extract/publishers/run_intermodal_finance.py --new-only || true
           # Intermodal: rebuild tables the parse left as a header row only (new issues; checked against the PDF page)
           python scripts/md_cleanup/intermodal_table_rebuild.py --untracked --parse -j 2 --apply || true
           python scripts/md_cleanup/intermodal_chart_guess_note.py --apply || true
@@ -103,11 +106,6 @@ jobs:
             exit 0
           fi
           git commit -m "data(broker-reports): ingest weekly market reports and update cadence audit [skip ci]"
-          for attempt in 1 2 3; do
-            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
-              echo "Push succeeded on attempt $attempt."
-              exit 0
-            fi
-            sleep 10
-          done
+          # rebases over concurrent bot pushes; regenerated audit files may conflict, anything else fails
+          bash scripts/ci/push_rebase.sh && exit 0
           exit 1

@@ -38,7 +38,7 @@ jobs:
           cache-dependency-path: requirements_knowledge.txt
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pymupdf pandas numpy lxml openpyxl llama-parse pillow
+        run: pip install requests beautifulsoup4 pymupdf pandas numpy lxml openpyxl llama-parse nace-sdk pillow
 
       - name: Configure Git identity
         run: |
@@ -51,6 +51,7 @@ jobs:
       - name: Run Seabrokers Harvester & Cache Builder
         env:
           LLAMA_CLOUD_API_KEY: ${{ secrets.LLAMA_CLOUD_API_KEY }}
+          NACE_API_KEY: ${{ secrets.NACE_API_KEY }}   # Nace NDI Parse when LlamaParse credits run out
         run: |
           if [ "${{ github.event.inputs.force_all }}" = "true" ]; then
             python scripts/scrapers/fetch_seabrokers_reports.py --all
@@ -99,14 +100,8 @@ jobs:
 
           git commit -m "data(offshore): ingest latest Seabreeze market report, dayrate series, and update cadence audit [skip ci]"
 
-          for attempt in 1 2 3; do
-            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
-              echo "Push succeeded on attempt $attempt."
-              exit 0
-            fi
-            echo "Push race on attempt $attempt. Retrying in 10s..."
-            sleep 10
-          done
+          # rebases over concurrent bot pushes; regenerated audit files may conflict, anything else fails
+          bash scripts/ci/push_rebase.sh && exit 0
 
           echo "Failed to push after 3 attempts."
           exit 1

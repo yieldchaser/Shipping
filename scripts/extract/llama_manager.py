@@ -136,6 +136,14 @@ import threading
 _lock = threading.Lock()
 
 
+def _nace_available() -> bool:
+    try:
+        from scripts.extract.nace_backend import nace_keys
+    except ImportError:
+        from nace_backend import nace_keys
+    return bool(nace_keys())
+
+
 class KeyManager:
     """Manages active key selection and automatic rotation upon quota errors."""
 
@@ -152,6 +160,9 @@ class KeyManager:
                 idx += 1
                 
             if idx >= len(KEY_POOL):
+                if _nace_available():
+                    # nace_backend.LlamaParse treats an empty key as "skip LlamaParse, parse with Nace"
+                    return ""
                 raise RuntimeError(
                     "ALL LlamaParse API keys in the pool are exhausted! "
                     "Please provide a new key to continue."
@@ -213,6 +224,9 @@ class KeyManager:
             _save_state(self.state)
             
             if idx >= len(KEY_POOL):
+                if _nace_available():
+                    logger.warning("All LlamaParse keys exhausted; parsing continues with the Nace fallback")
+                    return ""
                 raise RuntimeError(
                     f"ALL {len(KEY_POOL)} LlamaParse API keys are exhausted! Last reason: {reason}"
                 )
@@ -228,7 +242,10 @@ def get_active_parser(tier: str = "agentic", version: str = "latest", **kwargs):
     """
     Creates a LlamaParse parser instance using the active API key from the pool.
     """
-    from llama_parse import LlamaParse
+    try:
+        from scripts.extract.nace_backend import LlamaParse
+    except ImportError:
+        from nace_backend import LlamaParse
 
     api_key = manager.get_current_key()
     result_type = kwargs.pop("result_type", "markdown")

@@ -1687,12 +1687,6 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
     )
     (dest_dir / f"{stem}.md").write_text(md_content, encoding="utf-8")
 
-    # Also sync to top-level OUT_MD for backward-compatibility
-    (OUT_MD / f"{stem}.tables.json").write_text(
-        json.dumps(sidecar_json, indent=2, ensure_ascii=False), encoding="utf-8"
-    )
-    (OUT_MD / f"{stem}.md").write_text(md_content, encoding="utf-8")
-
     return {
         "stem": stem,
         "issue_date": issue_date,

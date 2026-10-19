@@ -27,7 +27,9 @@ from typing import Any, Dict, List, Optional, Tuple
 
 import pymupdf
 from bs4 import BeautifulSoup
-from llama_parse import LlamaParse
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))  # scripts/extract
+from nace_backend import LlamaParse  # LlamaParse first, Nace NDI Parse when its keys are exhausted
 
 ROOT = Path(__file__).resolve().parents[3]
 DRY_DIR = ROOT / "corpus" / "02-hellenic" / "dry_charter"
@@ -59,13 +61,14 @@ def clean_text(s: str) -> str:
 
 
 def parse_cell(cell: str) -> Tuple[Optional[int], str]:
-    """Extract numeric day-rate and standard trend string without emojis."""
-    trend = "flat"
+    """Extract numeric day-rate and standard trend string without emojis. No marker glyph in the cell (a Nace
+    parse drops them) -> trend "" (unknown), never a guessed "flat"; the image marker grid fills it."""
+    trend = ""
     if any(u in cell for u in ["▲", "🔺", "^", "+", "🟢"]):
         trend = "up"
     elif any(d in cell for d in ["▼", "🔻", "🔴"]):   # a bare "-" is the yellow "unchanged" dash, not down
         trend = "down"
-    elif any(e in cell for e in ["=", "—", "–", "~"]):
+    elif any(e in cell for e in ["=", "—", "–", "~", "-"]):
         trend = "flat"
 
     m = re.search(r"[\d,]+", cell)
@@ -236,7 +239,9 @@ async def process_item_async(cat: str, corpus_dir: Path, out_md_dir: Path,
     year_dir = out_md_dir / year
     md_path = year_dir / f"{stem}.md"
     json_path = year_dir / f"{stem}.tables.json"
-    if md_path.exists() and md_path.stat().st_size > 100:
+    # An MD whose image table failed to parse (LlamaParse keys exhausted) is not final: parse it again
+    if md_path.exists() and md_path.stat().st_size > 100 and not (
+            find_companion_image(h_path) and "*Table estimates not available.*" in md_path.read_text(encoding="utf-8")):
         rows = []
         title_cached = f"Weekly Time Charter Estimates - {issue_date}"
         if json_path.exists():
@@ -293,7 +298,15 @@ async def process_item_async(cat: str, corpus_dir: Path, out_md_dir: Path,
             table_rows = []
 
     # Build clean markdown
-    md_lines = [
+    title_yaml = title.replace("\\", "\\\\").replace('"', '\\"')
+    md_lines = [   # frontmatter as normalized across the corpus (scripts/md_cleanup/frontmatter_fix.py)
+        "---",
+        f'title: "{title_yaml}"',
+        f'issue_date: "{issue_date}"',
+        f"year: {year}",
+        'publisher: "Alibra Shipping Limited"',
+        f'source_file: "corpus/02-hellenic/{corpus_dir.name}/{year}/{fname}"',
+        "---",
         f"# {title}",
         "",
         f"- **Issue Date**: {issue_date}",
