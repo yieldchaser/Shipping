@@ -8,7 +8,7 @@ publisher: "Shanghai Metals Market (SMM)"
 source: "hellenic"
 category: "iron_ore"
 pages: 1
-source_file: "2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_mmi-daily-iron-ore-report-for-22th-s_f7eb62eaf90a.pdf"
+source_file: "corpus/02-hellenic/iron_ore/pdfs/2026/2026-09-22_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-22th-September-2026.pdf"
 pipeline_version: "smm_v1_complete"
 ---
 
