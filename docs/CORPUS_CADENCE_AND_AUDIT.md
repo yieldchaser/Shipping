@@ -8,8 +8,8 @@
 ## 1. Executive Summary
 
 - **Raw corpus:** 59,600 files across 32 sources: 13,530 PDF, 9,031 HTML, 23,190 images, 13,415 native MD.
-- **Parsed Markdown:** 20,492 MDs.
-  - Broker reports: 7,997 MDs from 16 brokers.
+- **Parsed Markdown:** 20,493 MDs.
+  - Broker reports: 7,998 MDs from 16 brokers.
   - SEC filings: 1,333 MDs.
   - Reference books: 12 MDs for 12 PDFs.
 - **Status (2026-10-19)**, from each source's cadence (CURRENT within the allowed gap, DUE up to twice it, STALE beyond; PARSE BEHIND = a raw issue from the last 120 days has no MD near its date, or the newest MD is older than the newest issue):
@@ -35,7 +35,7 @@
 | **Carriers Chartering (General Broker)** | Weekly (Monday) | `2026-10-12` | `2026-10-12` | **CURRENT (7d)** | 140 PDF | 134 | 100.0% | 0 / 0 | [`data/extracted/md/carriers`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/carriers) | No (Tabular S&P and Baltic BSPA/BDA indices) | `carriers_sales_series.csv (3,081 rows)` |
 | **Clarksons / Clarksons Hellas** | Weekly (Friday) | `2026-10-09` | `2026-10-09` | **CURRENT (10d)** | 13 PDF | 10 | 100.0% | 0 / 0 | [`data/extracted/md/clarksons`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/clarksons) | No (Bulker & Tanker reported sales transaction tables) | `clarksons_sales_series.csv (1,375 rows)` |
 | **Fearnleys Weekly** | Weekly (Wednesday/Thursday) | `2026-10-15` | `2026-10-15` | **CURRENT (4d)** | 267 PDF | 262 | 100.0% | 0 / 0 | [`data/extracted/md/fearnleys`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys) | Yes (Tanker spot WS, Dry bulk BDI & TC, LPG/LNG) | `fearnleys_rates_series.csv (17,153 rows)` |
-| **Fearnleys Broker Voice (Hasura Desk Feeds)** | Weekly (Wednesday-Friday) | `n/a` | `2026-10-14` | **CURRENT (5d)** | 4,764 MD | 4,774 | 0.0% | 35 / 0 | [`data/extracted/md/fearnleys/voice`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys/voice) | No (Dense narrative intelligence across 35 desks & routes) | `fearnleys_broker_comments.csv (11,759 comments), corpus/01-brokers/fearnleys/voice/ (4,748 files), data/extracted/md/fearnleys/voice/ (4,765 comment files)` |
+| **Fearnleys Broker Voice (Hasura Desk Feeds)** | Weekly (Wednesday-Friday) | `n/a` | `2026-10-16` | **CURRENT (3d)** | 4,764 MD | 4,775 | 0.0% | 41 / 0 | [`data/extracted/md/fearnleys/voice`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys/voice) | No (Dense narrative intelligence across 35 desks & routes) | `fearnleys_broker_comments.csv (11,759 comments), corpus/01-brokers/fearnleys/voice/ (4,748 files), data/extracted/md/fearnleys/voice/ (4,765 comment files)` |
 | **Fearnleys-MD (Econometric Research)** | Monthly / Bespoke (Bi-weekly) | `2026-10-14` | `2026-10-14` | **CURRENT (5d)** | 183 PDF, 2,858 IMG, 186 MD | 185 | 100.0% | 2 / 0 | [`data/extracted/md/fearnleys-md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys-md) | No (raster PNG charts carry no data; chart titles and printed tables only) | `fearnleys-md .tables.json sidecars (56 exact API tables, 14 printed Cape composite-model tables, chart titles); earlier chart-calibrated series deleted` |
 | **Gibson Shipbrokers** | Weekly (Friday) | `2026-10-16` | `2026-10-16` | **CURRENT (3d)** | 109 PDF, 166 HTML | 263 | 100.0% | 0 / 0 | [`data/extracted/md/gibson`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/gibson) | Yes (wpDataCharts daily vector curves for all 155 HTML reports in .charts.json) | `gibson_tanker_spot_series.csv (3,612 rows)` |
 | **Intermodal Shipbrokers** | Weekly (Tuesday) | `2026-10-14` | `2026-10-13` | **CURRENT (5d)** | 261 PDF | 257 | 100.0% | 0 / 0 | [`data/extracted/md/intermodal`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/intermodal) | Yes (Baltic & Time Charter vector curves, Page 3) | `intermodal_tc_rates_series.csv (5,273 rows)` |
@@ -44,12 +44,12 @@
 | **SSY (Simpson Spence Young)** | Weekly (Monday) | `2026-10-12` | `2026-10-09` | **CURRENT (7d)** | 536 PDF | 520 | 99.4% | 0 / 0 | [`data/extracted/md/ssy`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/ssy) | Yes (Atlantic & Pacific Capesize index vector curves) | `ssy_capesize_index_series.csv (10,294 rows)` |
 | **Star Asia Demolition** | Weekly (Friday) | `2026-10-12` | `2026-10-09` | **CURRENT (7d)** | 203 PDF | 198 | 100.0% | 0 / 0 | [`data/extracted/md/star_asia`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/star_asia) | Yes (Subcontinent scrap price trends $/LDT, metals/energy) | `star_asia_snp_sales_series.csv (3,575 rows)` |
 | **Xclusiv Shipbrokers** | Weekly (Monday) | `2026-10-13` | `2026-10-13` | **CURRENT (6d)** | 275 PDF | 265 | 100.0% | 0 / 0 | [`data/extracted/md/xclusiv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/xclusiv) | Yes (Pages 2-3 freight curves, Pages 8-9 bunker spreads) | `xclusiv_secondhand_series.csv (8,593 rows)` |
-| **Hellenic: Demolition Market** | Weekly (Saturday/Sunday) | `2026-10-10` | `2026-10-10` | **CURRENT (9d)** | 2,147 PDF, 813 HTML, 1,212 IMG | 753 | 62.3% | 0 / 0 | [`data/extracted/md/hellenic/demolition`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/demolition) | Yes (Port position queue charts, cash buyer price matrices) | `athenian_indicative_demolition_series.csv (3,064 rows)` |
-| **Hellenic: Dry Bulk Charter (Alibra)** | Weekly (Wednesday) | `2026-10-14` | `2026-10-14` | **CURRENT (5d)** | 281 HTML, 763 IMG | 267 | 0.4% | 0 / 0 | [`data/extracted/md/hellenic/dry_charter`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/dry_charter) | Yes (Alibra rate fixture comparison graphics) | `hellenic_alibra_dry_tc_series.csv (6,563 rows)` |
-| **Hellenic: Iron Ore (MMI & SMM Daily)** | Daily (Mon-Fri) | `2026-10-16` | `2026-10-16` | **CURRENT (3d)** | 4,542 PDF | 1,190 | 1.9% | 0 / 0 | [`data/extracted/md/hellenic/iron_ore_pdf`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/iron_ore_pdf) | Yes (4 SMM driver vector charts + MMi inventory/margin curves) | `hellenic_iron_ore_pdf_brands_series.csv (31,527 rows)` |
+| **Hellenic: Demolition Market** | Weekly (Saturday/Sunday) | `2026-10-10` | `2026-10-10` | **CURRENT (9d)** | 2,147 PDF, 813 HTML, 1,212 IMG | 753 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/demolition`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/demolition) | Yes (Port position queue charts, cash buyer price matrices) | `athenian_indicative_demolition_series.csv (3,064 rows)` |
+| **Hellenic: Dry Bulk Charter (Alibra)** | Weekly (Wednesday) | `2026-10-14` | `2026-10-14` | **CURRENT (5d)** | 281 HTML, 763 IMG | 267 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/dry_charter`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/dry_charter) | Yes (Alibra rate fixture comparison graphics) | `hellenic_alibra_dry_tc_series.csv (6,563 rows)` |
+| **Hellenic: Iron Ore (MMI & SMM Daily)** | Daily (Mon-Fri) | `2026-10-16` | `2026-10-16` | **CURRENT (3d)** | 4,542 PDF | 1,190 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/iron_ore_pdf`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/iron_ore_pdf) | Yes (4 SMM driver vector charts + MMi inventory/margin curves) | `hellenic_iron_ore_pdf_brands_series.csv (31,527 rows)` |
 | **Hellenic: Shipbuilding & Contracting** | Weekly (Friday) | `2026-07-31` | `2026-07-31` | **SUPERSEDED (new issues arrive via corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31))** | 1,363 PDF, 380 HTML, 180 IMG | 170 | 100.0% | 0 / 0 | [`data/extracted/md/clarksons`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/clarksons) | No (Shipyard contracting and orderbook tables) | `clarksons_snp_sales_series.csv (1,329 rows)` |
-| **Hellenic: Tanker Time Charter (Alibra)** | Weekly (Wednesday) | `2026-10-14` | `2026-10-14` | **CURRENT (5d)** | 281 HTML, 760 IMG | 267 | 0.4% | 0 / 0 | [`data/extracted/md/hellenic/tanker_charter`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/tanker_charter) | Yes (Crude & clean period earnings comparison graphics) | `hellenic_alibra_tanker_tc_series.csv (7,476 rows)` |
-| **Hellenic: VesselsValue Valuations** | Weekly (Tuesday) | `2026-10-14` | `2026-10-13` | **CURRENT (5d)** | 276 HTML, 733 IMG | 257 | 99.6% | 0 / 0 | [`data/extracted/md/hellenic/vessel_valuations`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/vessel_valuations) | Yes (VesselsValue fleet valuation index graphs) | `hellenic_vv_matrix_series.csv (12,373 rows)` |
+| **Hellenic: Tanker Time Charter (Alibra)** | Weekly (Wednesday) | `2026-10-14` | `2026-10-14` | **CURRENT (5d)** | 281 HTML, 760 IMG | 267 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/tanker_charter`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/tanker_charter) | Yes (Crude & clean period earnings comparison graphics) | `hellenic_alibra_tanker_tc_series.csv (7,476 rows)` |
+| **Hellenic: VesselsValue Valuations** | Weekly (Tuesday) | `2026-10-14` | `2026-10-13` | **CURRENT (5d)** | 276 HTML, 733 IMG | 257 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/vessel_valuations`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/vessel_valuations) | Yes (VesselsValue fleet valuation index graphs) | `hellenic_vv_matrix_series.csv (12,373 rows)` |
 | **Breakwave Advisors** | Weekly (Tuesday) & Daily Insights | `2026-10-16` | `2026-10-16` | **CURRENT (3d)** | 306 PDF, 3,254 HTML, 15,120 IMG, 3,225 MD | 3,517 | 0.0% | 0 / 0 | [`data/extracted/md/breakwave`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/breakwave) | Yes (Dry bulk freight fundamentals, ETF trajectories, & localized Insights charts) | `breakwave_fundamentals_series.csv (2,759 rows)` |
 | **Poten & Partners (Tanker Opinions)** | Weekly (Friday) | `2026-10-09` | `2026-10-09` | **CURRENT (10d)** | 1,095 PDF, 5 MD | 1,091 | 100.0% | 0 / 0 | [`data/extracted/md/poten`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/poten) | Yes (Top Charterers annual/biannual volume rankings) | `poten_opinions_metadata.csv (1,095 rows)` |
 | **Seabrokers (Seabreeze Monthly Offshore)** | Monthly (1st of Month) | `2026-09-01` | `2026-09-01` | **DUE (48d, cadence monthly)** | 99 PDF, 99 MD | 98 | 100.0% | 0 / 0 | [`data/extracted/md/seabrokers`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/seabrokers) | Yes (OSV utilisation curves, rig dayrates, offshore wind) | `seabrokers_osv_monthly_history_series.csv (6,376 rows)` |
@@ -216,7 +216,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Coverage Span:** `2021-06-25` to `2026-10-09`
 - **Latest Ingested Document:** `agora_09_10_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.pdf` (Status: **CURRENT (10d)**)
 - **Sample Ingested Report (Corpus):** [`agora_2026_W41_AGORA.-Week-41-2026.-Snapshot-of-Commercial-Indicators.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/agora/2026/agora_2026_W41_AGORA.-Week-41-2026.-Snapshot-of-Commercial-Indicators.pdf)
-- **Sample Extracted Markdown (Digest):** [`agora_2026_W41_AGORA.-Week-41-2026.-Snapshot-of-Commercial-Indicators.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/agora/2026/agora_2026_W41_AGORA.-Week-41-2026.-Snapshot-of-Commercial-Indicators.md)
+- **Sample Extracted Markdown (Digest):** [`agora_2026_w14.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/agora/2026/agora_2026_w14.md)
 - **Raw Corpus Inventory:** 221 PDFs
 - **Extracted Markdown Dossiers:** 216 Markdown files + 216 .tables.json sidecars
 - **Chart Extraction:** No (Dense indicator tables across 5 pages)
@@ -262,7 +262,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/clarksons`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/clarksons)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2026-08-07` to `2026-10-09`
-- **Latest Ingested Document:** `clarksons_09_10_2026_clarksons_hellas_snp_weekly.pdf` (Status: **CURRENT (10d)**)
+- **Latest Ingested Document:** `clarksons_2026_Weekly-Sales-9th-October-2026.pdf` (Status: **CURRENT (10d)**)
 - **Sample Ingested Report (Corpus):** [`clarksons_2026_Weekly-Sales-9th-October-2026.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-9th-October-2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`clarksons_2026_Weekly-Sales-9th-October-2026.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/clarksons/2026/clarksons_2026_Weekly-Sales-9th-October-2026.md)
 - **Raw Corpus Inventory:** 13 PDFs
@@ -293,12 +293,12 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Corpus Directory (Raw Source):** [`corpus/01-brokers/fearnleys/voice`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys/voice)
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/fearnleys/voice`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys/voice)
 - **Publication Cadence:** Weekly (Wednesday-Friday) (Expected day: Friday)
-- **Coverage Span:** `2018-09-16` to `2026-10-14`
-- **Latest Ingested Document:** `2026-10-14_chartering_20f416da.md` (Status: **CURRENT (5d)**)
+- **Coverage Span:** `2018-09-16` to `2026-10-16`
+- **Latest Ingested Document:** `2026-10-16_snp_8435d822.md` (Status: **CURRENT (3d)**)
 - **Sample Ingested Report (Corpus):** [`2026-09-30_vlcc_weekly_comment.md`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-09-30_vlcc_weekly_comment.md)
 - **Sample Extracted Markdown (Digest):** N/A
 - **Raw Corpus Inventory:** 4,764 Native Markdown files
-- **Extracted Markdown Dossiers:** 4,774 Markdown files
+- **Extracted Markdown Dossiers:** 4,775 Markdown files
 - **Chart Extraction:** No (Dense narrative intelligence across 35 desks & routes)
 - **Chart Engine / Technique:** Direct Hasura GraphQL feed parser with clean Markdown reformatting
 - **Stacked Series CSVs:** [`fearnleys_broker_comments.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_broker_comments.csv) (11,759 comments), corpus/01-brokers/fearnleys/voice/ (4,748 files), data/extracted/md/fearnleys/voice/ (4,765 comment files)
@@ -390,7 +390,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/ssy`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/ssy)
 - **Publication Cadence:** Weekly (Monday) (Expected day: Monday)
 - **Coverage Span:** `2021-07-05` to `2026-10-12`
-- **Latest Ingested Document:** `ssy_12_10_2026_ssy_pacific_capesize_index_12_october_2026.pdf` (Status: **CURRENT (7d)**)
+- **Latest Ingested Document:** `ssy_12_10_2026_ssy_atlantic_capesize_index_12_october_2026.pdf` (Status: **CURRENT (7d)**)
 - **Sample Ingested Report (Corpus):** [`ssy_2026_20261009-Pacific-Capesize-Report.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/ssy/2026/ssy_2026_20261009-Pacific-Capesize-Report.pdf)
 - **Sample Extracted Markdown (Digest):** [`ssy_2026_20260925-Pacific-Capesize-Report.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/ssy/2026/ssy_2026_20260925-Pacific-Capesize-Report.md)
 - **Raw Corpus Inventory:** 536 PDFs
@@ -438,11 +438,11 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/demolition`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/demolition)
 - **Publication Cadence:** Weekly (Saturday/Sunday) (Expected day: Saturday)
 - **Coverage Span:** `2021-07-02` to `2026-10-10`
-- **Latest Ingested Document:** `2026-10-10_gms-week-41-owners-hold-all-the-cards.html` (Status: **CURRENT (9d)**)
+- **Latest Ingested Document:** `2026-10-10_best-oasis-weekly-recycling-market-report-9-october-2026_weekly-ship-recycling-report-03-octo_c07569f4e589.pdf` (Status: **CURRENT (9d)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-10_gms-week-41-owners-hold-all-the-cards.html`](file:///c:/Users/Dell/Github/Shipping/corpus/02-hellenic/demolition/2026/2026-10-10_gms-week-41-owners-hold-all-the-cards.html)
 - **Sample Extracted Markdown (Digest):** [`gms_2026-10-09_week-41_owners-hold-all-the-cards.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/demolition/gms/2026/gms_2026-10-09_week-41_owners-hold-all-the-cards.md)
 - **Raw Corpus Inventory:** 2,147 PDFs, 813 HTML files, 1,212 Images
-- **Extracted Markdown Dossiers:** 753 Markdown files + 469 .tables.json sidecars
+- **Extracted Markdown Dossiers:** 753 Markdown files
 - **Chart Extraction:** Yes (Port position queue charts, cash buyer price matrices)
 - **Chart Engine / Technique:** BeautifulSoup HTML + PyMuPDF spatial coordinate table parser
 - **Stacked Series CSVs:** [`athenian_indicative_demolition_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_indicative_demolition_series.csv) (3,064 rows), [`hellenic_gms_port_positions_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_gms_port_positions_series.csv) (3,014 rows), [`hellenic_gms_demolition_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_gms_demolition_series.csv) (1,104 rows), [`hellenic_best_oasis_deals_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_deals_series.csv) (905 rows), [`hellenic_best_oasis_demolition_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_demolition_series.csv) (866 rows)
@@ -458,7 +458,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Sample Ingested Report (Corpus):** [`2026-10-14_weekly-dry-time-charter-estimates-october-14-2026.html`](file:///c:/Users/Dell/Github/Shipping/corpus/02-hellenic/dry_charter/2026/2026-10-14_weekly-dry-time-charter-estimates-october-14-2026.html)
 - **Sample Extracted Markdown (Digest):** [`alibra_dry_2026-10-14.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/dry_charter/2026/alibra_dry_2026-10-14.md)
 - **Raw Corpus Inventory:** 281 HTML files, 763 Images
-- **Extracted Markdown Dossiers:** 267 Markdown files + 1 .tables.json sidecars
+- **Extracted Markdown Dossiers:** 267 Markdown files
 - **Chart Extraction:** Yes (Alibra rate fixture comparison graphics)
 - **Chart Engine / Technique:** HTML table & image graphic OCR parsing
 - **Stacked Series CSVs:** [`hellenic_alibra_dry_tc_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_dry_tc_series.csv) (6,563 rows)
@@ -474,7 +474,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Sample Ingested Report (Corpus):** [`2026-10-16_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-16th-October-2026.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-16_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-16th-October-2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-10-16_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-16th-October-2026.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-16_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-16th-October-2026.md)
 - **Raw Corpus Inventory:** 4,542 PDFs
-- **Extracted Markdown Dossiers:** 1,190 Markdown files + 23 .tables.json sidecars
+- **Extracted Markdown Dossiers:** 1,190 Markdown files
 - **Chart Extraction:** Yes (4 SMM driver vector charts + MMi inventory/margin curves)
 - **Chart Engine / Technique:** PyMuPDF 2D spatial coordinate parser + SMM vector chart clipper
 - **Stacked Series CSVs:** [`hellenic_iron_ore_pdf_brands_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_brands_series.csv) (31,527 rows)
@@ -506,7 +506,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Sample Ingested Report (Corpus):** [`2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026.html`](file:///c:/Users/Dell/Github/Shipping/corpus/02-hellenic/tanker_charter/2026/2026-10-14_weekly-tanker-time-charter-estimates-october-14-2026.html)
 - **Sample Extracted Markdown (Digest):** [`alibra_wet_2026-10-14.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/tanker_charter/2026/alibra_wet_2026-10-14.md)
 - **Raw Corpus Inventory:** 281 HTML files, 760 Images
-- **Extracted Markdown Dossiers:** 267 Markdown files + 1 .tables.json sidecars
+- **Extracted Markdown Dossiers:** 267 Markdown files
 - **Chart Extraction:** Yes (Crude & clean period earnings comparison graphics)
 - **Chart Engine / Technique:** HTML table & image graphic OCR parsing
 - **Stacked Series CSVs:** [`hellenic_alibra_tanker_tc_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_tanker_tc_series.csv) (7,476 rows)
@@ -522,7 +522,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Sample Ingested Report (Corpus):** [`2026-10-14_weekly-vessel-valuations-report-october-13-2026.html`](file:///c:/Users/Dell/Github/Shipping/corpus/02-hellenic/vessel_valuations/2026/2026-10-14_weekly-vessel-valuations-report-october-13-2026.html)
 - **Sample Extracted Markdown (Digest):** [`vv_2026-10-13.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/vessel_valuations/2026/vv_2026-10-13.md)
 - **Raw Corpus Inventory:** 276 HTML files, 733 Images
-- **Extracted Markdown Dossiers:** 257 Markdown files + 256 .tables.json sidecars
+- **Extracted Markdown Dossiers:** 257 Markdown files
 - **Chart Extraction:** Yes (VesselsValue fleet valuation index graphs)
 - **Chart Engine / Technique:** HTML table parser + VV valuation matrix calculator
 - **Stacked Series CSVs:** [`hellenic_vv_matrix_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_matrix_series.csv) (12,373 rows), [`hellenic_vv_sales_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_sales_series.csv) (2,077 rows)
@@ -534,7 +534,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/breakwave`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/breakwave)
 - **Publication Cadence:** Weekly (Tuesday) & Daily Insights (Expected day: Tuesday / Daily)
 - **Coverage Span:** `2018-07-03` to `2026-10-16`
-- **Latest Ingested Document:** `2026-10-16_would-ofac-sanctions-relief-cool-freight-costs.html` (Status: **CURRENT (3d)**)
+- **Latest Ingested Document:** `2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie.html` (Status: **CURRENT (3d)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-06_Breakwave_Tankers.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/tankers/2026/2026-10-06_Breakwave_Tankers.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-10-06_Breakwave_Tankers.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/breakwave/tankers/2026/2026-10-06_Breakwave_Tankers.md)
 - **Raw Corpus Inventory:** 306 PDFs, 3,254 HTML files, 15,120 Images, 3,225 Native Markdown files
@@ -582,8 +582,8 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/drewry/ais`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais)
 - **Publication Cadence:** Weekly (Tuesday) (Expected day: Tuesday)
 - **Coverage Span:** `2024-01-09` to `2026-10-13`
-- **Latest Ingested Document:** `Drewry_AIS_Crude_Suezmax_Week41_2026.md` (Status: **CURRENT (6d)**)
-- **Sample Ingested Report (Corpus):** [`Drewry_AIS_Product_LR2_Week39_2026.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf)
+- **Latest Ingested Document:** `Drewry_AIS_LPG_FR_Week41_2026.md` (Status: **CURRENT (6d)**)
+- **Sample Ingested Report (Corpus):** [`Drewry_AIS_Product_LR1_Week40_2026.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/06-drewry/ais/Drewry_AIS_Product_LR1_Week40_2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`Drewry_AIS_Product_LR2_Week39_2026.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/drewry/ais/Product_LR2/Drewry_AIS_Product_LR2_Week39_2026.md)
 - **Raw Corpus Inventory:** 294 PDFs
 - **Extracted Markdown Dossiers:** 294 Markdown files + 294 .tables.json sidecars
@@ -638,7 +638,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Publication Cadence:** Weekly (Friday) & Live Telemetry (Expected day: Friday)
 - **Coverage Span:** `2018-06-06` to `2026-10-16`
 - **Latest Ingested Document:** `weekly-tanker-market-monitor-week-41-2026.md` (Status: **CURRENT (3d)**)
-- **Sample Ingested Report (Corpus):** [`Signal_January_Newsletter.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/07-signal/pdfs/Signal_January_Newsletter.pdf)
+- **Sample Ingested Report (Corpus):** [`revision-eu-ets_with-annex_en_0.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/07-signal/pdfs/revision-eu-ets_with-annex_en_0.pdf)
 - **Sample Extracted Markdown (Digest):** [`why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/signal/newsroom/2026/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like.md)
 - **Raw Corpus Inventory:** 10 PDFs, 521 HTML files, 1,564 Images, 456 Native Markdown files
 - **Extracted Markdown Dossiers:** 452 Markdown files + 4 .tables.json sidecars
@@ -653,7 +653,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/baltic`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/baltic)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2015-01-09` to `2026-10-16`
-- **Latest Ingested Document:** `2026-10-16_W42_bulk-report-week-42_dry.html` (Status: **CURRENT (3d)**)
+- **Latest Ingested Document:** `2026-10-16_W42_container-report-week-42_container.html` (Status: **CURRENT (3d)**)
 - **Sample Ingested Report (Corpus):** [`2026_tanker-report-week-9_tanker.html`](file:///c:/Users/Dell/Github/Shipping/corpus/08-baltic/tanker/2026/2026_tanker-report-week-9_tanker.html)
 - **Sample Extracted Markdown (Digest):** [`2026_tanker-report-week-9_tanker.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/baltic/tanker/2026/2026_tanker-report-week-9_tanker.md)
 - **Raw Corpus Inventory:** 3,059 HTML files, 2,239 Native Markdown files
@@ -669,7 +669,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/commodities`](file:///c:/Users/Dell/Github/Shipping/data/commodities)
 - **Publication Cadence:** Monthly (20th of Month) (Expected day: 20th of Month)
 - **Coverage Span:** `2016-03-11` to `2026-07-28`
-- **Latest Ingested Document:** `live_ppa_cargo_stats_by_destination_origin_july2026_pdf.pdf` (Status: **DUE (83d, cadence monthly)**)
+- **Latest Ingested Document:** `test_july2026.pdf` (Status: **DUE (83d, cadence monthly)**)
 - **Sample Ingested Report (Corpus):** [`ff4753bc9213.pdf`](file:///c:/Users/Dell/Github/Shipping/corpus/09-ppa/ppa_pdf/ff4753bc9213.pdf)
 - **Sample Extracted Markdown (Digest):** [`world_crude_steel_monthly.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/world_crude_steel_monthly.csv)
 - **Raw Corpus Inventory:** 518 PDFs
@@ -685,7 +685,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`corpus/10-companies`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies)
 - **Publication Cadence:** Continuous / Statutory Filing Triggers (10-K, 20-F, 10-Q, 6-K, Material 8-K) (Expected day: Continuous)
 - **Coverage Span:** `2015-03-02` to `2026-10-16`
-- **Latest Ingested Document:** `INSW_8-K_2026-10-16_0001104659-26-116371.md` (Status: **CURRENT (3d)**)
+- **Latest Ingested Document:** `VALE_6-K_2026-10-16_0001292814-26-004942.md` (Status: **CURRENT (3d)**)
 - **Sample Ingested Report (Corpus):** [`VALE_6-K_2026-10-16_0001292814-26-004942.md`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/VALE/6-K/VALE_6-K_2026-10-16_0001292814-26-004942.md)
 - **Sample Extracted Markdown (Digest):** [`VALE_6-K_2026-10-16_0001292814-26-004942.md`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/VALE/6-K/VALE_6-K_2026-10-16_0001292814-26-004942.md)
 - **Raw Corpus Inventory:** 1,333 Native Markdown files

@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (668,764 Total Rows across 165 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (686,797 Total Rows across 165 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -102,8 +102,8 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [gms_demolition_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_demolition_sales_series.csv) |  | 161 | Verified |
 | [gms_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_market_commentary_series.csv) |  | 1,262 | Verified |
 | [gms_port_positions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_port_positions_series.csv) |  | 3,014 | Verified |
-| [hellenic_alibra_dry_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_dry_tc_series.csv) |  | 6,539 | Verified |
-| [hellenic_alibra_tanker_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_tanker_tc_series.csv) |  | 7,448 | Verified |
+| [hellenic_alibra_dry_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_dry_tc_series.csv) |  | 6,563 | Verified |
+| [hellenic_alibra_tanker_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_tanker_tc_series.csv) |  | 7,476 | Verified |
 | [hellenic_best_oasis_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_deals_series.csv) |  | 905 | Verified |
 | [hellenic_best_oasis_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_demolition_series.csv) |  | 866 | Verified |
 | [hellenic_capesize_c3_c5_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_capesize_c3_c5_series.csv) | Daily Capesize iron ore freight rates C3 & C5 ($/t) | 1,164 | Verified |
@@ -111,20 +111,20 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [hellenic_gms_port_positions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_gms_port_positions_series.csv) |  | 3,014 | Verified |
 | [hellenic_iron_ore_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_commentary_series.csv) |  | 1,179 | Verified |
 | [hellenic_iron_ore_daily_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_daily_series.csv) | Daily iron ore spot, futures (DCE, SGX), steel benchmarks | 1,175 | Verified |
-| [hellenic_iron_ore_pdf_averages_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_averages_series.csv) | MMi Daily Iron Ore weekly/monthly brand price averages & historical benchmarks | 11,562 | Verified |
+| [hellenic_iron_ore_pdf_averages_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_averages_series.csv) | MMi Daily Iron Ore weekly/monthly brand price averages & historical benchmarks | 11,572 | Verified |
 | [hellenic_iron_ore_pdf_brand_specs_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_brand_specs_series.csv) | MMi Daily Iron Ore physical brand technical specifications (Fe, SiO2, Al2O3, P) | 29,506 | Verified |
-| [hellenic_iron_ore_pdf_brands_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_brands_series.csv) |  | 31,516 | Verified |
-| [hellenic_iron_ore_pdf_dashboard_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_dashboard_series.csv) |  | 309 | Verified |
-| [hellenic_iron_ore_pdf_domestic_concentrate_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_domestic_concentrate_series.csv) |  | 5,583 | Verified |
+| [hellenic_iron_ore_pdf_brands_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_brands_series.csv) |  | 31,527 | Verified |
+| [hellenic_iron_ore_pdf_dashboard_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_dashboard_series.csv) |  | 17,806 | Verified |
+| [hellenic_iron_ore_pdf_domestic_concentrate_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_domestic_concentrate_series.csv) |  | 5,587 | Verified |
 | [hellenic_iron_ore_pdf_freight_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_freight_rates_series.csv) | MMi Daily Iron Ore seaborne bulk freight rate benchmarks ($/t) | 22,781 | Verified |
 | [hellenic_iron_ore_pdf_futures_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_futures_series.csv) |  | 2,364 | Verified |
 | [hellenic_iron_ore_pdf_import_volumes_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_import_volumes_series.csv) | MMi Daily Iron Ore major Chinese port import volumes & arrival statistics | 21,561 | Verified |
 | [hellenic_iron_ore_pdf_index_comparisons_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_index_comparisons_series.csv) | MMi Daily Iron Ore 62% vs 58% vs 65% spread and index comparisons | 14,826 | Verified |
-| [hellenic_iron_ore_pdf_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_indices_series.csv) |  | 11,682 | Verified |
+| [hellenic_iron_ore_pdf_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_indices_series.csv) |  | 11,609 | Verified |
 | [hellenic_iron_ore_pdf_normalisations_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_normalisations_series.csv) | MMi Daily Iron Ore normalized value-in-use differentials across key brands | 10,740 | Verified |
-| [hellenic_iron_ore_pdf_port_differentials_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_port_differentials_series.csv) |  | 14,983 | Verified |
+| [hellenic_iron_ore_pdf_port_differentials_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_port_differentials_series.csv) |  | 14,999 | Verified |
 | [hellenic_iron_ore_pdf_port_inventories_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_port_inventories_series.csv) |  | 6,984 | Verified |
-| [hellenic_iron_ore_pdf_spreads_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_spreads_series.csv) | MMi Daily Iron Ore lump premium & pellet spread assessments | 3,240 | Verified |
+| [hellenic_iron_ore_pdf_spreads_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_spreads_series.csv) | MMi Daily Iron Ore lump premium & pellet spread assessments | 3,241 | Verified |
 | [hellenic_iron_ore_pdf_steel_mill_pnl_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_steel_mill_pnl_series.csv) |  | 9,627 | Verified |
 | [hellenic_iron_ore_pdf_steel_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_steel_series.csv) |  | 8,488 | Verified |
 | [hellenic_iron_ore_table_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_table_series.csv) |  | 5,614 | Verified |
@@ -132,22 +132,22 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [hellenic_vv_benchmark_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_benchmark_sales_series.csv) |  | 124 | Verified |
 | [hellenic_vv_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_matrix_series.csv) |  | 12,373 | Verified |
 | [hellenic_vv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_sales_series.csv) |  | 2,077 | Verified |
-| [intermodal_baltic_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_baltic_indices_series.csv) | Baltic Dry indices (BDI, BCI, BPI, BSI, BHSI) | 1,255 | Verified |
-| [intermodal_bunkers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_bunkers_series.csv) | Bunker prices across Rotterdam, Houston, Singapore ($/t) | 2,287 | Verified |
-| [intermodal_currencies_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_currencies_series.csv) | Demolition cash currencies (BDT, INR, PKR, TRY) | 684 | Verified |
-| [intermodal_demo_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_demo_sales_series.csv) | Reported demolition scrap sales fixtures ($/LDT) | 580 | Verified |
-| [intermodal_demolition_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_demolition_prices_series.csv) | Indicative demolition prices across subcontinent ($/LDT) | 2,040 | Verified |
-| [intermodal_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_demolition_series.csv) | Indicative demolition prices & sales fixtures combined | 2,620 | Verified |
-| [intermodal_indicative_values_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_indicative_values_series.csv) | Indicative secondhand 5Y asset values ($M) | 2,360 | Verified |
-| [intermodal_macro_daily_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_macro_daily_series.csv) | Intermodal Macro Daily historical structured dataset | 22,760 | Verified |
-| [intermodal_macro_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_macro_series.csv) | Macroeconomic indicators and energy commodity benchmarks | 4,818 | Verified |
-| [intermodal_maritime_stocks_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_maritime_stocks_series.csv) | Maritime listed shipping equities & stock indices | 3,152 | Verified |
-| [intermodal_newbuilding_orders_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_newbuilding_orders_series.csv) | Reported newbuilding contracting orders & shipyard contracts | 1,895 | Verified |
-| [intermodal_newbuilding_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_newbuilding_prices_series.csv) | Indicative newbuilding benchmark prices ($M) | 3,189 | Verified |
-| [intermodal_newbuilding_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_newbuilding_series.csv) | Indicative newbuilding prices & reported orders combined | 5,084 | Verified |
-| [intermodal_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_sales_series.csv) | Secondhand sales transactions ($M) | 3,479 | Verified |
-| [intermodal_tanker_spot_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_tanker_spot_series.csv) | Tanker spot market WS points & TCE ($/day) | 3,885 | Verified |
-| [intermodal_tc_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_tc_rates_series.csv) | Time charter rates across crude, product, and dry bulk | 5,233 | Verified |
+| [intermodal_baltic_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_baltic_indices_series.csv) | Baltic Dry indices (BDI, BCI, BPI, BSI, BHSI) | 1,265 | Verified |
+| [intermodal_bunkers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_bunkers_series.csv) | Bunker prices across Rotterdam, Houston, Singapore ($/t) | 2,305 | Verified |
+| [intermodal_currencies_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_currencies_series.csv) | Demolition cash currencies (BDT, INR, PKR, TRY) | 692 | Verified |
+| [intermodal_demo_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_demo_sales_series.csv) | Reported demolition scrap sales fixtures ($/LDT) | 581 | Verified |
+| [intermodal_demolition_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_demolition_prices_series.csv) | Indicative demolition prices across subcontinent ($/LDT) | 2,056 | Verified |
+| [intermodal_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_demolition_series.csv) | Indicative demolition prices & sales fixtures combined | 2,637 | Verified |
+| [intermodal_indicative_values_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_indicative_values_series.csv) | Indicative secondhand 5Y asset values ($M) | 2,378 | Verified |
+| [intermodal_macro_daily_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_macro_daily_series.csv) | Intermodal Macro Daily historical structured dataset | 22,940 | Verified |
+| [intermodal_macro_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_macro_series.csv) | Macroeconomic indicators and energy commodity benchmarks | 4,858 | Verified |
+| [intermodal_maritime_stocks_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_maritime_stocks_series.csv) | Maritime listed shipping equities & stock indices | 3,174 | Verified |
+| [intermodal_newbuilding_orders_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_newbuilding_orders_series.csv) | Reported newbuilding contracting orders & shipyard contracts | 1,917 | Verified |
+| [intermodal_newbuilding_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_newbuilding_prices_series.csv) | Indicative newbuilding benchmark prices ($M) | 3,213 | Verified |
+| [intermodal_newbuilding_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_newbuilding_series.csv) | Indicative newbuilding prices & reported orders combined | 5,130 | Verified |
+| [intermodal_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_sales_series.csv) | Secondhand sales transactions ($M) | 3,502 | Verified |
+| [intermodal_tanker_spot_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_tanker_spot_series.csv) | Tanker spot market WS points & TCE ($/day) | 3,915 | Verified |
+| [intermodal_tc_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_tc_rates_series.csv) | Time charter rates across crude, product, and dry bulk | 5,273 | Verified |
 | [ism_coaster_freight_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_coaster_freight_series.csv) | Coaster / Mini-bulker freight rates ($/t, TCE $/day) | 12,491 | Verified |
 | [ism_handy_freight_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_handy_freight_series.csv) | Handysize / Supramax freight & TCT dynamics ($/t, $/day) | 17,851 | Verified |
 | [lion_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/lion_deals_series.csv) | Secondhand sales transactions & demo deals | 1,312 | Verified |
@@ -200,7 +200,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,593 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (165 CSVs + 1 Master Workbook)** | **668,764** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (165 CSVs + 1 Master Workbook)** | **686,797** | **100.0% Pass** |
 
 ---
 
