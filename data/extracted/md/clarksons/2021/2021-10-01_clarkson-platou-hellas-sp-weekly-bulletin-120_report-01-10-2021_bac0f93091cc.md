@@ -72,3 +72,29 @@ Some congratulations are in order as the PHP Ship Breaking and Recycling Industr
 | EM LONGEVITY | 306,324 | 2000 KOREA | 46,657 LDT | USD 592 / LDT | BANGLADESH |
 | LUCKY DOLPHIN | 35,750 | 1996 JAPAN | 7,486 LDT | USD 608 / LDT | BANGLADESH |
 | PHARMONY | 10,749 | 1999 JAPAN | 3,193 LDT | USD 855 / LDT (including high quantity of solid st st content) | INDIA |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 5202 | + 35 |
+| BCI | 9066 | + 122 |
+| BPI | 3992 | - 21 |
+| BSI | 3383 | + 1 |
+| BHSI | 1987 | + 12 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.15888 |
+| YEN/USD | 0.00895 |
+| BRENT | 78.36 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 552.00 | 570.50 | 567.50 |
+| MGO | 648.50 | 654.50 | 690.50 |
+| IFO 380 | 446.00 | 495.50 | 493.50 |

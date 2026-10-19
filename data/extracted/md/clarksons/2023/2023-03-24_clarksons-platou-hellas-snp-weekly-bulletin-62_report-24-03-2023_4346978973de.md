@@ -70,3 +70,29 @@ Finally, there has been an announcement made by the local custom authorities in 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1489 | + 5 |
+| BCI | 1882 | + 26 |
+| BPI | 1572 | - 12 |
+| BSI | 1332 | - 1 |
+| BHSI | 703 | - 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.08776 |
+| YEN/USD | 0.00764 |
+| Brent (USD) | 73.20 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 542.50 | 565.00 | 566.50 |
+| MGO | 763.50 | 740.00 | 1054.50 |
+| IFO 380 | 386.50 | 415.00 | 414.50 |

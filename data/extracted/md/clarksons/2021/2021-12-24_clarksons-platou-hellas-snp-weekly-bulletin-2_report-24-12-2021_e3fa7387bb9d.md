@@ -67,3 +67,29 @@ We would like to take this opportunity of wishing you all a very Merry Christmas
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | QUBAA | 106,681 | 1998 JAPAN | 16,688 LDT | USD 615 / LDT | PAKISTAN |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | - |  |
+| BCI | - |  |
+| BPI | - |  |
+| BSI | - |  |
+| BHSI | - |  |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.13262 |
+| YEN/USD | 0.00875 |
+| BRENT | 76.11 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 541.50 | 615.00 | 604.50 |
+| MGO | 632.50 | 658.50 | 777.00 |
+| IFO 380 | 423.00 | 435.00 | 442.50 |

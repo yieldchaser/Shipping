@@ -68,3 +68,29 @@ The European Union announced their new list of approved recycling facilities thi
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1560 | + 32 |
+| BCI | 2208 | + 113 |
+| BPI | 1652 | - 6 |
+| BSI | 1157 | - 10 |
+| BHSI | 705 | - 8 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.06392 |
+| YEN/USD | 0.00732 |
+| Brent (USD) | 79.702 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 539.00 | 603.00 | 651.50 |
+| MGO | 894.00 | 958.00 | 1165.00 |
+| IFO 380 | 370.50 | 382.00 | 355.50 |

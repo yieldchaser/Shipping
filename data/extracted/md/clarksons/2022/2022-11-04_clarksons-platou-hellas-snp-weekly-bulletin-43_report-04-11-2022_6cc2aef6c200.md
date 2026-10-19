@@ -65,3 +65,29 @@ These really are trying times for the ship recyclers as the global insecurity is
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1323 | + 33 |
+| BCI | 1343 | + 118 |
+| BPI | 1700 | + 1 |
+| BSI | 1268 | - 19 |
+| BHSI | 836 | - 5 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 0.97758 |
+| YEN/USD | 0.00676 |
+| Brent (USD) | 99.405 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 633.50 | 693.00 | 678.00 |
+| MGO | 1017.00 | 1054.00 | 1237.00 |
+| IFO 380 | 396.00 | 406.00 | 389.50 |

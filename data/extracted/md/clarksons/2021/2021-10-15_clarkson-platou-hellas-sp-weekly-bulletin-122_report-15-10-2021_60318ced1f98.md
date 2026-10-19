@@ -67,3 +67,29 @@ In relation to market supply, it remains very much bare, with few workable units
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 4854 | - 208 |
+| BCI | 7767 | - 695 |
+| BPI | 4065 | + 42 |
+| BSI | 3575 | + 34 |
+| BHSI | 2021 | + 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.15975 |
+| YEN/USD | 0.00881 |
+| BRENT | 84.90 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 569.00 | 618.00 | 615.50 |
+| MGO | 703.50 | 708.50 | 758.50 |
+| IFO 380 | 491.00 | 522.00 | 522.00 |

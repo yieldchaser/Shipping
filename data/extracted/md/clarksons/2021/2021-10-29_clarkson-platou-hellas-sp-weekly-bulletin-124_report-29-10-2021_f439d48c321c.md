@@ -66,3 +66,29 @@ There is a lot of demand for steel in the Indian sub. Continent with many infras
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3519 | - 111 |
+| BCI | 4349 | - 193 |
+| BPI | 3896 | - 69 |
+| BSI | 3104 | - 86 |
+| BHSI | 1972 | - 38 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.16248 |
+| YEN/USD | 0.00877 |
+| BRENT | 83.30 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 594.00 | 615.50 | 629.50 |
+| MGO | 695.50 | 702.50 | 805.00 |
+| IFO 380 | 473.00 | 472.00 | 532.50 |

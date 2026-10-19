@@ -64,3 +64,29 @@ Elsewhere, there is some increased interest from the Pakistani recyclers as the 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1518 | + 19 |
+| BCI | 2135 | + 49 |
+| BPI | 1696 | + 6 |
+| BSI | 1065 | + 3 |
+| BHSI | 596 | - 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0853 |
+| YEN/USD | 0.0067 |
+| Brent (USD) | 80.65 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 566.00 | 630.50 | 621.00 |
+| MGO | 786.50 | 784.50 | 894.00 |
+| IFO 380 | 441.50 | 447.50 | 423 56,591.00 |

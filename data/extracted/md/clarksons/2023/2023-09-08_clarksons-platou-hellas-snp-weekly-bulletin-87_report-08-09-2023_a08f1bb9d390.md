@@ -66,3 +66,29 @@ The increased impetus from India may also be on the back of the renewed vigour f
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1185 | + 45 |
+| BCI | 1289 | + 100 |
+| BPI | 1489 | + 16 |
+| BSI | 1079 | + 23 |
+| BHSI | 572 | + 5 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0701 |
+| YEN/USD | 0.0067 |
+| Brent (USD) | 89.80 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 613.00 | 655.50 | 648.00 |
+| MGO | 922.00 | 931.00 | 956.00 |
+| IFO 380 | 590.00 | 558.50 | 536.50 |

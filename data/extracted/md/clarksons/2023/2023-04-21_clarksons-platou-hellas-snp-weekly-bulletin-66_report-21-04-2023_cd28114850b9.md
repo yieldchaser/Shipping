@@ -62,3 +62,29 @@ This marks an important step for the Bangladeshi recyclers who have upgraded the
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1504 | +72 |
+| BCI | 1962 | +184 |
+| BPI | 1692 | +15 |
+| BSI | 1201 | +22 |
+| BHSI | 660 | +10 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.09639 |
+| YEN/USD | 0.00744 |
+| Brent (USD) | 81.01 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 558.00 | 598.00 | 595.00 |
+| MGO | 734.50 | 726.50 | 1000.50 |
+| IFO 380 | 470.50 | 479.50 | 458.00 |

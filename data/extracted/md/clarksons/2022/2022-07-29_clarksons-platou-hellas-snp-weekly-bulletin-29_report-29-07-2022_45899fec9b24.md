@@ -66,3 +66,29 @@ Elsewhere, India is seemingly the more stable and competitive market, but again 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | FSU - BONGKOT STAR | 299,930 | 1997 HHI | 41,098 LDT | USD 530/LTD | ‘as is’ Malaysia |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1895 | -50 |
+| BCI | 2081 | -109 |
+| BPI | 2051 | -14 |
+| BSI | 1971 | -32 |
+| BHSI | 1173 | -23 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.01811 |
+| YEN/USD | 0.00741 |
+| Brent (USD) | 108.587 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 787.50 | 904.50 | 910.50 |
+| MGO | 1147.50 | 1079.50 | 1355.50 |
+| IFO 380 | 495.00 | 506.00 | 499.00 |

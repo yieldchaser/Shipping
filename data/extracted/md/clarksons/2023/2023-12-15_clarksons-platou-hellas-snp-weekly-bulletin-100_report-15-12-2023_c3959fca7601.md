@@ -59,3 +59,29 @@ We are seeing a slight increase in price indications from India and in addition,
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2348 | - 63 |
+| BCI | 4113 | - 163 |
+| BPI | 1900 | - 15 |
+| BSI | 1426 | - 16 |
+| BHSI | 908 | + 2 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0973 |
+| YEN/USD | 0.0070 |
+| Brent (USD) | 76.678 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 546.50 | 581.50 | 590.50 |
+| MGO | 737.00 | 734.50 | 900.00 |
+| IFO 380 | 442.00 | 447.00 | 409.50 |

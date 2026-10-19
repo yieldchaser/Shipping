@@ -58,3 +58,29 @@ Market conditions are rather sluggish this week where few, if any, transactions 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1090 | - 13 |
+| BCI | 1655 | - 36 |
+| BPI | 1095 | - 6 |
+| BSI | 743 | 0 |
+| BHSI | 409 | - 2 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.1209 |
+| YEN/USD | 0.0072 |
+| Brent (USD) | 79.92 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 550.00 | 577.00 | 577.00 |
+| MGO | 759.50 | 767.00 | 846.00 |
+| IFO 380 | 488.00 | 499.50 | 466.50 |

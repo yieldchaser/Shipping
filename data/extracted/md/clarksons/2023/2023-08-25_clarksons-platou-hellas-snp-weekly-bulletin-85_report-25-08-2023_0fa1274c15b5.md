@@ -59,3 +59,29 @@ We are certainly witnessing more dry bulk tonnage circulating into the market, c
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1080 | - 30 |
+| BCI | 1174 | - 85 |
+| BPI | 1449 | - 7 |
+| BSI | 908 | + 2 |
+| BHSI | 507 | + 7 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.08398 |
+| YEN/USD | 0.00687 |
+| Brent (USD) | 84.57 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 592.00 | 629.00 | 622.50 |
+| MGO | 909.50 | 895.50 | 948.00 |
+| IFO 380 | 543.50 | 541.50 | 510.00 |

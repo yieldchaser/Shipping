@@ -66,3 +66,29 @@ Pakistan is currently undergoing horrific flooding from the monsoon rains and th
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1086 | + 84 |
+| BCI | 733 | + 264 |
+| BPI | 1271 | + 41 |
+| BSI | 1514 | - 45 |
+| BHSI | 869 | - 11 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 0.99873 |
+| YEN/USD | 0.00716 |
+| Brent (USD) | 95.957 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 692.00 | 710.00 | 743.00 |
+| MGO | 1063.00 | 1064.00 | 1319.50 |
+| IFO 380 | 488.50 | 447.00 | 456.50 |

@@ -63,3 +63,29 @@ Looking further west towards Turkey, slot availability continues to cause some c
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2715 | - 54 |
+| BCI | 3280 | + 59 |
+| BPI | 3071 | - 95 |
+| BSI | 2416 | - 147 |
+| BHSI | 1726 | - 62 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.15653 |
+| YEN/USD | 0.00878 |
+| BRENT | 81.39 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 573.00 | 612.50 | 627.00 |
+| MGO | 683.50 | 700.50 | 778.50 |
+| IFO 380 | 443.00 | 467.00 | 497.00 |

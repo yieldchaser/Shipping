@@ -68,3 +68,29 @@ The supply of new units into the market continues to be at a slow pace with a mi
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1424 | +45 |
+| BCI | 1744 | +85 |
+| BPI | 1654 | +30 |
+| BSI | 1209 | +29 |
+| BHSI | 631 | +11 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0653 |
+| YEN/USD | 0.0074 |
+| Brent (USD) | 82.62 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 578.50 | 602.00 | 599.50 |
+| MGO | 795.00 | 787.50 | 1050.50 |
+| IFO 380 | 432.00 | 457.00 | 469.00 |

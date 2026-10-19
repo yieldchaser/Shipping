@@ -70,3 +70,29 @@ Moving West, Turkish recyclers continue to offer aggressive numbers with their p
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | SINAR TARAKAN | 3,821 | 1995 JAPAN | 2,080 LDT | USD 540/LT | BANGLADESH |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1610 | + 29 |
+| BCI | 2448 | + 54 |
+| BPI | 1646 | + 23 |
+| BSI | 1071 | + 13 |
+| BHSI | 572 | + 5 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0785 |
+| YEN/USD | 0.0067 |
+| Brent (USD) | 80.84 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 573.00 | 642.00 | 619.50 |
+| MGO | 822.00 | 822.50 | 888.50 |
+| IFO 380 | 450.50 | 442.50 | 437.50 |

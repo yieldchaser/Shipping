@@ -74,3 +74,29 @@ As for the current market conditions, everyone stressed how quiet the market has
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1819 | - 18 |
+| BCI | 2071 | - 40 |
+| BPI | 2144 | - 17 |
+| BSI | 1678 | + 2 |
+| BHSI | 961 | - 5 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 0.97862 |
+| YEN/USD | 0.00667 |
+| Brent (USD) | 92.305 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 669.00 | 720.50 | 707.50 |
+| MGO | 1055.50 | 1059.50 | 1295.00 |
+| IFO 380 | 388.00 | 388.50 | 381.50 |

@@ -63,3 +63,29 @@ Elsewhere, recyclers in both Bangladesh and Pakistan remain frustrated in their 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 621 | - 19 |
+| BCI | 429 | - 16 |
+| BPI | 940 | - 48 |
+| BSI | 682 | - 2 |
+| BHSI | 436 | 0 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.09676 |
+| YEN/USD | 0.00778 |
+| Brent (USD) | 82.076 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 589.00 | 690.50 | 657.50 |
+| MGO | 829.50 | 870.00 | 1139.00 |
+| IFO 380 | 394.50 | 397.50 | 381.50 |

@@ -59,3 +59,29 @@ Meantime, we take this opportunity to thank you for your continued support throu
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2094 | + 7 |
+| BCI | 3398 | + 37 |
+| BPI | 1909 | - 6 |
+| BSI | 1369 | - 9 |
+| BHSI | 879 | - 9 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0970 |
+| YEN/USD | 0.0070 |
+| Brent (USD) | 79.72 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 555.50 | 614.00 | 623.50 |
+| MGO | 767.00 | 768.00 | 915.00 |
+| IFO 380 | 460.00 | 466.00 | 406.00 |

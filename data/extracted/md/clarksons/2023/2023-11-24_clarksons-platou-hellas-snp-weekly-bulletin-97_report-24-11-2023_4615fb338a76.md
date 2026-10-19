@@ -61,3 +61,29 @@ With the elections set to take place in January, Bangladesh looks set to be the 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2102 | + 247 |
+| BCI | 3385 | + 706 |
+| BPI | 2064 | + 30 |
+| BSI | 1279 | + 14 |
+| BHSI | 670 | + 22 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0904 |
+| YEN/USD | 0.0066 |
+| Brent (USD) | 81.52 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 590.00 | 708.00 | 670.00 |
+| MGO | 803.00 | 800.00 | 922.50 |
+| IFO 380 | 485.50 | 472.00 | 446.00 |

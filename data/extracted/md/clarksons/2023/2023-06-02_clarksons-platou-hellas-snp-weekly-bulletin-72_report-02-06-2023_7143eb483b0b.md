@@ -68,3 +68,29 @@ As freight rates continue to keep tonnage away from the recycling industry, acti
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 919 | - 18 |
+| BCI | 1116 | - 28 |
+| BPI | 1030 | 0 |
+| BSI | 819 | - 28 |
+| BHSI | 545 | - 14 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.07175 |
+| YEN/USD | 0.00718 |
+| Brent (USD) | 76.46 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 522.50 | 558.00 | 547.00 |
+| MGO | 654.50 | 679.50 | 822.00 |
+| IFO 380 | 436.00 | 429.00 | 414.50 |

@@ -61,3 +61,29 @@ The Bangladeshi recyclers are therefore the most aggressive once again with it b
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | SEA GLAMOUR | 147,093 | 2000 KOREA | 23,267 LDT | USD 603 / LDT | BANGLADESH |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3944 | - 57 |
+| BCI | 5625 | - 91 |
+| BPI | 3605 | - 44 |
+| BSI | 3348 | - 45 |
+| BHSI | 1838 | - 5 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.18542 |
+| YEN/USD | 0.00909 |
+| BRENT | 73.60 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 520.00 | 534.50 | 532.50 |
+| MGO | 594.50 | 587.50 | 644.50 |
+| IFO 380 | 410.50 | 441.00 | 445.00 |

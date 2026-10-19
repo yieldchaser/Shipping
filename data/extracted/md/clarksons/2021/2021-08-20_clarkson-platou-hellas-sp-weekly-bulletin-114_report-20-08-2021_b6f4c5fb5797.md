@@ -57,3 +57,29 @@ Any available unit will no doubt arrive from the beleaguered tanker sector where
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | ANGEL 18 (Chemical tanker) | 11,629 | 1998 | 3,228 LDT | USD 875 / LDT | INDIA |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 4092 | + 116 |
+| BCI | 5997 | + 286 |
+| BPI | 3785 | + 31 |
+| BSI | 3276 | + 39 |
+| BHSI | 1878 | + 7 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.16835 |
+| YEN/USD | 0.00910 |
+| BRENT | 66.275 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 475.00 | 505.00 | 496.50 |
+| MGO | 527.50 | 532.50 | 622.50 |
+| IFO 380 | 386.50 | 394.50 | 402.50 |

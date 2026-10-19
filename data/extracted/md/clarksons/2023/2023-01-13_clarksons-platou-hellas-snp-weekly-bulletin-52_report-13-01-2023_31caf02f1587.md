@@ -58,3 +58,29 @@ There is still various market rumours surrounding the potential sale of 10 conta
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 946 | - 30 |
+| BCI | 1299 | - 50 |
+| BPI | 1069 | - 15 |
+| BSI | 686 | - 29 |
+| BHSI | 500 | - 8 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.07933 |
+| YEN/USD | 0.00766 |
+| Brent (USD) | 84.129 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 564.50 | 609.00 | 615.00 |
+| MGO | 877.50 | 886.50 | 1178.50 |
+| IFO 380 | 380.00 | 391.00 | 385.00 |

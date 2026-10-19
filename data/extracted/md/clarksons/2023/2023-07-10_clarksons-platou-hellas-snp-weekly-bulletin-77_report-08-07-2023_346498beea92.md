@@ -62,3 +62,29 @@ Moving West, the Turkish market is receiving several proposals for E.U. approved
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1009 | + 16 |
+| BCI | 1522 | + 43 |
+| BPI | 984 | + 16 |
+| BSI | 724 | - 4 |
+| BHSI | 424 | - 3 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0893 |
+| YEN/USD | 0.0069 |
+| Brent (USD) | 75.86 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 546.00 | 582.00 | 572.50 |
+| MGO | 724.00 | 731.00 | 815.00 |
+| IFO 380 | 472.00 | 473.50 | 439.50 |

@@ -60,3 +60,29 @@ We are now witnessing actual sales of tonnage for recycling fall to their lowest
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2146 | (+28) |
+| BCI | 2696 | (+43) |
+| BPI | 2093 | (+42) |
+| BSI | 2080 | (+7) |
+| BHSI | 1211 | (-1) |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.02022 |
+| YEN/USD | 0.00724 |
+| BRENT | 104.502 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 793.50 | 950.50 | 946.50 |
+| MGO | 1095.50 | 1080.00 | 1386.00 |
+| IFO 380 | 475.50 | 485.50 | 508.00 |

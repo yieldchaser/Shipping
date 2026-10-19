@@ -66,3 +66,29 @@ Overall, a quiet period has descended upon the market, which is expected to carr
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1643 | + 45 |
+| BCI | 2589 | + 103 |
+| BPI | 1530 | + 30 |
+| BSI | 1125 | + 9 |
+| BHSI | 594 | - 7 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0673 |
+| YEN/USD | 0.0066 |
+| Brent (USD) | 80.69 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 572.50 | 666.50 | 665.00 |
+| MGO | 789.00 | 785.50 | 928.00 |
+| IFO 380 | 456.50 | 450.50 | 433.50 |

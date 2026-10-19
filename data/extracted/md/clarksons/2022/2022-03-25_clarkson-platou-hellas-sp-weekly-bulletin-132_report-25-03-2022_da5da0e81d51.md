@@ -58,3 +58,29 @@ We have finished the week with the Bangladesh market suffering a slight downward
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2544 | - 23 |
+| BCI | 1887 | - 82 |
+| BPI | 3413 | + 34 |
+| BSI | 3020 | - 13 |
+| BHSI | 1782 | + 13 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.0988 |
+| YEN/USD | 0.00818 |
+| BRENT | 119.40 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 924.50 | 897.50 | 921.50 |
+| MGO | 1244.00 | 1122.00 | 1282.50 |
+| IFO 380 | 700.00 | 692.50 | 724.50 |

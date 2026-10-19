@@ -68,3 +68,29 @@ With the ongoing foreign exchange obstacles in Bangladesh and Pakistan, the fort
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1324 | + 82 |
+| BCI | 1613 | + 229 |
+| BPI | 1479 | + 13 |
+| BSI | 1182 | + 8 |
+| BHSI | 745 | - 2 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.04156 |
+| YEN/USD | 0.00721 |
+| Brent (USD) | 85.529 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 557.00 | 677.50 | 631.00 |
+| MGO | 876.50 | 1000.00 | 1213.00 |
+| IFO 380 | 361.50 | 413.50 | 372.00 |

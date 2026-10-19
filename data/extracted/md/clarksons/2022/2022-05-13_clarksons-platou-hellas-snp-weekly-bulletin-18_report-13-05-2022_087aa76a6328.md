@@ -67,3 +67,29 @@ The Turkish market has also suffered significant corrections on a negative manne
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3104 | (-13) |
+| BCI | 3947 | (-18) |
+| BPI | 3283 | (-27) |
+| BSI | 2752 | (+2) |
+| BHSI | 1673 | (+8) |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.04357 |
+| YEN/USD | 0.00776 |
+| BRENT | 110.543 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 783.50 | 847.00 | 880.00 |
+| MGO | 1141.50 | 1186.00 | 1336.50 |
+| IFO 380 | 613.00 | 657.50 | 693.00 |

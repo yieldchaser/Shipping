@@ -60,3 +60,29 @@ The Indian price levels seem to be hit more than their counterparts in Banglades
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | OCEAN RUBY | 153,152 | 1997 S KOREA | 22,029 LDT | USD 599 / LDT | BANGLADESH |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3272 | - 71 |
+| BCI | 4827 | - 162 |
+| BPI | 3068 | - 77 |
+| BSI | 2551 | + 10 |
+| BHSI | 1572 | 0 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.13115 |
+| YEN/USD | 0.00881 |
+| BRENT | 75.08 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 547.50 | 601.00 | 601.00 |
+| MGO | 622.00 | 659.00 | 758.50 |
+| IFO 380 | 417.00 | 430.00 | 445.00 |

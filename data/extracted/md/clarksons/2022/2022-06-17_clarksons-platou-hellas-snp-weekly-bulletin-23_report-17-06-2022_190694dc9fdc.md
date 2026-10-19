@@ -66,3 +66,29 @@ Pricing has stabilised this week following the recent correction from the local 
 |---|---|---|---|---|---|
 | HIKARI | 300,667 | 2003 MITSUI SB | 38,673 LTD | RGN USD 606/LTD | UAE |
 | KYOTO | 281,050 | 2000 MHI NAGASAKI | 42,099 LTD | RGN USD 606/LTD | UAE |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2578 | (+116) |
+| BCI | 2987 | (+285) |
+| BPI | 2862 | (+72) |
+| BSI | 2467 | (+7) |
+| BHSI | 1343 | (+2) |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.04749 |
+| YEN/USD | 0.00751 |
+| BRENT | 121.153 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 922.50 | 1085.50 | 1111.00 |
+| MGO | 1365.00 | 1409.50 | 1570.00 |
+| IFO 380 | 651.00 | 623.50 | 686.50 |

@@ -67,3 +67,29 @@ Whilst it is difficult to see the USD 700/ldt being breached again (only a few u
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | SCF URAL | 159,313 | 2002 S. KOREA | 23,303 LDT | USD 674 / LDT | BANGLADESH |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2357 | - 1 |
+| BCI | 1864 | + 104 |
+| BPI | 3073 | - 68 |
+| BSI | 2755 | - 53 |
+| BHSI | 1695 | - 40 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.1114 |
+| YEN/USD | 0.00821 |
+| BRENT | 103.35 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 876.50 | 863.50 | 893.00 |
+| MGO | 1098.00 | 1088.50 | 1232.00 |
+| IFO 380 | 656.50 | 677.00 | 695.00 |

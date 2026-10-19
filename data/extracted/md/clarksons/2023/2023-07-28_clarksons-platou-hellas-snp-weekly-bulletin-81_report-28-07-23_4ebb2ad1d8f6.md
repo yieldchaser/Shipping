@@ -63,3 +63,29 @@ Some good news arrived from Pakistan this week as it is felt that local recycler
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1110 | + 13 |
+| BCI | 1830 | + 29 |
+| BPI | 975 | + 20 |
+| BSI | 726 | - 7 |
+| BHSI | 396 | - 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.10537 |
+| YEN/USD | 0.00714 |
+| Brent (USD) | 83.586 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 579.50 | 608.00 | 602.50 |
+| MGO | 837.50 | 841.50 | 888.50 |
+| IFO 380 | 509.00 | 532.50 | 491.00 |

@@ -61,3 +61,29 @@ With Pakistan and Bangladesh also witnessing further falls, the recycling market
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2681 | (-252) |
+| BCI | 2818 | (-660) |
+| BPI | 3048 | (-92) |
+| BSI | 2796 | (-27) |
+| BHSI | 1647 | (-5) |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.07053 |
+| YEN/USD | 0.00786 |
+| BRENT | 117.961 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 849.00 | 1058.50 | 997.00 |
+| MGO | 1159.00 | 1145.00 | 1392.00 |
+| IFO 380 | 676.50 | 675.00 | 699.50 |

@@ -72,3 +72,29 @@ Meantime, the Covid pandemic continues to affect particular regions of the indus
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | MAYA VN | 318,778 | 2003 S. KOREA | 44,217 LDT (+ 600 tons ROB) | USD 560 / LDT | “AS-IS” BATAN |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3285 | - 53 |
+| BCI | 3510 | - 180 |
+| BPI | 4269 | + 32 |
+| BSI | 2935 | - 4 |
+| BHSI | 1555 | + 6 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.18520 |
+| YEN/USD | 0.00898 |
+| BRENT | 75.63 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 533.00 | 553.50 | 546.50 |
+| MGO | 593.50 | 604.00 | 649.50 |
+| IFO 380 | 424.50 | 432.00 | 435.50 |

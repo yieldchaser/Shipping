@@ -64,3 +64,29 @@ In particular, reports suggest the Indian steel market has weakened this week wh
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | FERNAN VAZ | 323,100 | 1979 Singapore | FSO, 41,427 LDT | USD 255/260 per ldt. | ‘as is’ Gabon |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1576 | - 5 |
+| BCI | 2301 | + 25 |
+| BPI | 1586 | - 26 |
+| BSI | 1165 | - 20 |
+| BHSI | 663 | - 2 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.10341 |
+| YEN/USD | 0.00747 |
+| Brent (USD) | 76.42 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 539.50 | 580.50 | 574.00 |
+| MGO | 693.00 | 698.50 | 971.50 |
+| IFO 380 | 454.00 | 463.00 | 452.00 |

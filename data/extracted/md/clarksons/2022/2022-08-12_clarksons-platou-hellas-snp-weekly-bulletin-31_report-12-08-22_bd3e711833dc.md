@@ -74,3 +74,29 @@ We still expect to see a very subdued remainder of the summer. Holidays being ob
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1477 | -79 |
+| BCI | 1314 | -224 |
+| BPI | 1907 | -20 |
+| BSI | 1593 | +2 |
+| BHSI | 978 | -7 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.02849 |
+| YEN/USD | 0.00748 |
+| Brent (USD) | 97.855 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 759.50 | 771.00 | 830.50 |
+| MGO | 1040.50 | 999.00 | 1323 |
+| IFO 380 | 525.50 | 515.50 | 516.00 |

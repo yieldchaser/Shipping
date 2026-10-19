@@ -65,3 +65,29 @@ We have seen a slight upturn in price indications this week, most likely due to 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1610 | + 29 |
+| BCI | 2448 | + 54 |
+| BPI | 1646 | + 23 |
+| BSI | 1071 | + 13 |
+| BHSI | 572 | + 5 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0827 |
+| YEN/USD | 0.0066 |
+| Brent (USD) | 81.14 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 580.00 | 640.50 | 633.50 |
+| MGO | 805.50 | 807.00 | 891.00 |
+| IFO 380 | 467.00 | 436.00 | 436.00 |

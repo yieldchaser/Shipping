@@ -66,3 +66,29 @@ Meantime, we wish all those currently celebrating this weeks festivities, a Happ
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1091 | - 21 |
+| BCI | 1704 | - 55 |
+| BPI | 1030 | - 13 |
+| BSI | 749 | - 1 |
+| BHSI | 446 | - 2 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0844 |
+| YEN/USD | 0.0069 |
+| Brent (USD) | 74.54 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 537.00 | 587.00 | 576.50 |
+| MGO | 702.50 | 712.00 | 801.00 |
+| IFO 380 | 478.50 | 445.00 | 417.00 |

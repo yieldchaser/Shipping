@@ -67,3 +67,29 @@ With Pakistan remaining absent from the bidding table, there really is a sense o
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | HENG YANG | 8,143 | 1994 BELGIUM | 3,535 LDT | 930/LT | ‘AS IS’ INDONESIA |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 978 | + 1 |
+| BCI | 1442 | + 21 |
+| BPI | 1095 | - 21 |
+| BSI | 924 | 0 |
+| BHSI | 400 | - 3 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.1131 |
+| YEN/USD | 0.007 |
+| Brent (USD) | 79.44 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 549.50 | 569.00 | 562.00 |
+| MGO | 767.50 | 779.50 | 845.00 |
+| IFO 380 | 484.00 | 500.00 | 458.00 |

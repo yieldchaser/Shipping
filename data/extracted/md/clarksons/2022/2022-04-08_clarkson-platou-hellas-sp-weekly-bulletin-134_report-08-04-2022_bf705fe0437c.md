@@ -72,3 +72,29 @@ This price follows an announcement from the Central Bank in Pakistan that impose
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2055 | - 6 |
+| BCI | 1444 | + 27 |
+| BPI | 2777 | - 1 |
+| BSI | 2502 | - 45 |
+| BHSI | 1544 | - 24 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.0896 |
+| YEN/USD | 0.00807 |
+| BRENT | 101.08 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 840.00 | 820.00 | 849.00 |
+| MGO | 1151.00 | 1088.50 | 1171.50 |
+| IFO 380 | 643.00 | 688.00 | 695.50 |

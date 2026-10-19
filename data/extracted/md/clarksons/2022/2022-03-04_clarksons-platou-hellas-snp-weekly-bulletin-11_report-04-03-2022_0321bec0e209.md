@@ -66,3 +66,29 @@ There are so many global uncertainties at this precise time due to the conflict 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | STAR I | 105,816 | 2001 S. KOREA | 17,586 LDT | USD 650 / LDT | PAKISTAN |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2148 | + 44 |
+| BCI | 1635 | - 4 |
+| BPI | 2785 | + 86 |
+| BSI | 2586 | + 66 |
+| BHSI | 1443 | + 9 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.0908 |
+| YEN/USD | 0.00865 |
+| BRENT | 113.24 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 836.50 | 904.50 | 918.00 |
+| MGO | 1081.00 | 1021.00 | 1076.50 |
+| IFO 380 | 620.00 | 621.50 | 631.50 |

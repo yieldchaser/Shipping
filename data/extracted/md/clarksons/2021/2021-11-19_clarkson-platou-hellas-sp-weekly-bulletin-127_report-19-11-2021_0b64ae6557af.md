@@ -59,3 +59,29 @@ The Bangladeshi recyclers appear to be in the prime position to acquire any avai
 |---|---|---|---|---|---|
 | BANYAN PRIDE | 37,808 | 2002 CHINA | 9,508 LDT | USD 595 / LDT (HKC Green recycling) | “As-Is” INDIA |
 | D&K 1 | 47,262 | 1998 JAPAN | 9,276 LDT | USD 640 / LDT | “As-Is” COLOMBO |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2552 | + 98 |
+| BCI | 3610 | + 350 |
+| BPI | 2282 | - 54 |
+| BSI | 2237 | - 11 |
+| BHSI | 1561 | - 12 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.13434 |
+| YEN/USD | 0.00876 |
+| BRENT | 78.77 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 560.50 | 610.50 | 608.00 |
+| MGO | 661.00 | 681.00 | 765.00 |
+| IFO 380 | 431.00 | 457.50 | 479.00 |

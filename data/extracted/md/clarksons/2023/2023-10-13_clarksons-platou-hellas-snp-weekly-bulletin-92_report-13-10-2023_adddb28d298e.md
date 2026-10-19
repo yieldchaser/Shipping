@@ -69,3 +69,29 @@ One other topic that attracted lengthy discussions, was concerning the 'shadow f
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1945 | + 10 |
+| BCI | 3327 | + 49 |
+| BPI | 1567 | - 26 |
+| BSI | 1268 | + 2 |
+| BHSI | 687 | + 3 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0585 |
+| YEN/USD | 0.0066 |
+| Brent (USD) | 87.35 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 602.00 | 660.00 | 643.50 |
+| MGO | 871.00 | 883.50 | 935.50 |
+| IFO 380 | 514.50 | 477.00 | 479.00 |

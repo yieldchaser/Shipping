@@ -55,3 +55,29 @@ One further piece of news to emanate from Bangladesh this week is that the ‘Ba
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1237 | - 10 |
+| BCI | 1598 | - 67 |
+| BPI | 1542 | + 20 |
+| BSI | 879 | + 20 |
+| BHSI | 469 | + 10 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0866 |
+| YEN/USD | 0.0068 |
+| Brent (USD) | 84.20 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 600.50 | 640.00 | 632.50 |
+| MGO | 895.50 | 889.50 | 947.00 |
+| IFO 380 | 561.50 | 560.50 | 523.00 |

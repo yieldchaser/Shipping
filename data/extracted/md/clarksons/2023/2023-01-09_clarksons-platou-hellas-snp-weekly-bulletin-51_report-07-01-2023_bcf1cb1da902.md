@@ -63,3 +63,29 @@ The Indian market remains in a positive mode with all the domestic commodity mar
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1130 | - 16 |
+| BCI | 1512 | + 8 |
+| BPI | 1299 | - 33 |
+| BSI | 839 | - 32 |
+| BHSI | 552 | - 19 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.05596 |
+| YEN/USD | 0.0075 |
+| Brent (USD) | 78.658 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 531.50 | 586.50 | 587.00 |
+| MGO | 828.00 | 867.50 | 1120.50 |
+| IFO 380 | 367.50 | 380.00 | 369.50 |

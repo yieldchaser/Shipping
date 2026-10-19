@@ -61,3 +61,29 @@ Despite these impressive offers being tables, as can be evidenced by the sales c
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | OMAN PRIDE | 300,959 | 1998 JAPAN | 38,959 LDT | USD 527 / LDT | “As-Is” OMAN |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2807 | - 37 |
+| BCI | 3836 | - 36 |
+| BPI | 2930 | - 96 |
+| BSI | 2253 | + 2 |
+| BHSI | 1613 | - 13 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.14641 |
+| YEN/USD | 0.00877 |
+| BRENT | 81.19 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 573.50 | 630.50 | 628.50 |
+| MGO | 676.50 | 712.00 | 792.50 |
+| IFO 380 | 440.00 | 465.50 | 501.00 |

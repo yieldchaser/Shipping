@@ -68,3 +68,29 @@ Moving Eastwards, there is a real lack of demand for steel from the domestic mil
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2110 | + 24 |
+| BCI | 3798 | + 147 |
+| BPI | 1666 | - 61 |
+| BSI | 1212 | - 24 |
+| BHSI | 695 | - 21 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0913 |
+| YEN/USD | 0.0068 |
+| Brent (USD) | 77.96 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 563.50 | 606.00 | 616.00 |
+| MGO | 750.00 | 759.50 | 892.00 |
+| IFO 380 | 455.50 | 476.00 | 428.50 |

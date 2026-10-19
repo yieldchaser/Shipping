@@ -64,3 +64,29 @@ All recycling destinations in the Indian sub-Continent have aggressive appetite 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1415 | - 59 |
+| BCI | 891 | -140 |
+| BPI | 2010 | -14 |
+| BSI | 1749 | -24 |
+| BHSI | 1103 | -19 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.13385 |
+| YEN/USD | 0.00875 |
+| BRENT | 87.13 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 657.50 | 693.50 | 693.50 |
+| MGO | 773.50 | 770.50 | 823.50 |
+| IFO 380 | 493.50 | 505.50 | 516.00 |

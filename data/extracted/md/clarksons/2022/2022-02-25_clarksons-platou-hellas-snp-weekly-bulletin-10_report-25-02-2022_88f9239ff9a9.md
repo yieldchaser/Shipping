@@ -79,3 +79,29 @@ The surprising element this week is the lack of sales to report. We are hearing 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | HARMONY | 35,966 | 1999 S KOREA | 8,356 LDT | USD 650 / LDT (200mt IFO and 40mt MGO included) | “As-Is” COLOMBO |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2076 | - 111 |
+| BCI | 1691 | - 309 |
+| BPI | 2658 | - 31 |
+| BSI | 2417 | + 2 |
+| BHSI | 1399 | + 15 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.12075 |
+| YEN/USD | 0.00869 |
+| BRENT | 98.11 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 718.00 | 763.50 | 792.00 |
+| MGO | 860.00 | 877.50 | 956.50 |
+| IFO 380 | 554.50 | 547.00 | 575.00 |

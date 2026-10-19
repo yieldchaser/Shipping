@@ -64,3 +64,29 @@ The market will now need sales across the main sectors after this correction for
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | MASCOT 8 | 107,261 | 1998 KOYO | 16,616 LDT | USD 650/LDT | BANGLADESH |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3344 | (+55) |
+| BCI | 4526 | (+141) |
+| BPI | 3382 | (+12) |
+| BSI | 2816 | (+16) |
+| BHSI | 1662 | (-2) |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.05357 |
+| YEN/USD | 0.00781 |
+| BRENT | 112.667 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 829.00 | 919.50 | 918.00 |
+| MGO | 1091.00 | 1036.50 | 1329.00 |
+| IFO 380 | 636.00 | 644.50 | 654.50 |

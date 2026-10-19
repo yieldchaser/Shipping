@@ -80,3 +80,29 @@ Bangladeshi recyclers still have demand on the back of increasing infrastructure
 |---|---|---|---|---|---|
 | ESCAPADE | 107,181 | 1998 JAPAN | 16,696 LDT | USD 613 / LDT | PAKISTAN |
 | EVER EXUBERANT | 17,080 | 1994 GERMANY | 5,989 LDT | USD 605 / LDT | BANGLADESH |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 4275 | + 60 |
+| BCI | 6420 | + 116 |
+| BPI | 3904 | + 52 |
+| BSI | 3307 | + 24 |
+| BHSI | 1861 | + 16 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.17787 |
+| YEN/USD | 0.00913 |
+| BRENT | 75.50 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 534.00 | 558.50 | 555.50 |
+| MGO | 603.50 | 611.50 | 666.00 |
+| IFO 380 | 419.50 | 475.00 | 471.50 |

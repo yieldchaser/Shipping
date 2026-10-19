@@ -72,3 +72,29 @@ Elsewhere, recycling buyers in the Indian sub. Continent remain starved of tonna
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1460 | - 94 |
+| BCI | 2172 | + 252 |
+| BPI | 1410 | - 11 |
+| BSI | 1212 | - 20 |
+| BHSI | 616 | - 9 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.096 |
+| YEN/USD | 0.0068 |
+| Brent (USD) | 79.06 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 540.50 | 589.00 | 597.50 |
+| MGO | 746.50 | 758.00 | 898.50 |
+| IFO 380 | 455.00 | 452.00 | 412.50 |

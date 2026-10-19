@@ -83,3 +83,29 @@ The lack of available tonnage on offer, should help sentiment and increase appet
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1535 | - 25 |
+| BCI | 1913 | - 63 |
+| BPI | 1723 | - 23 |
+| BSI | 1318 | + 6 |
+| BHSI | 694 | + 6 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.06044 |
+| YEN/USD | 0.00752 |
+| Brent (USD) | 72.33 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 535.00 | 560.50 | 553.50 |
+| MGO | 726.00 | 728.50 | 1057.50 |
+| IFO 380 | 382.00 | 416.50 | 437.00 |

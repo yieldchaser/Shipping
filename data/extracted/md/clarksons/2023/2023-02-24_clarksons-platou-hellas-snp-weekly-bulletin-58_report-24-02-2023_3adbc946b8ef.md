@@ -61,3 +61,29 @@ Pakistan unfortunately remains quiet.
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | DA QING 439 | 37,603 | 1999 CHINA | 9,827 LDT | USD 500/LDT | ‘as is’ Nanjing |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 883 | + 67 |
+| BCI | 636 | + 63 |
+| BPI | 1271 | + 102 |
+| BSI | 996 | + 56 |
+| BHSI | 505 | + 12 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.06041 |
+| YEN/USD | 0.00742 |
+| Brent (USD) | 81.789 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 556.50 | 588.50 | 592.50 |
+| MGO | 765.00 | 774.00 | 1084.00 |
+| IFO 380 | 406.50 | 427.00 | 419.00 |

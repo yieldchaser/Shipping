@@ -65,3 +65,29 @@ Across the way, India and Pakistan are not fairing any better with their own dom
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2331 | (-23) |
+| BCI | 2396 | (-23) |
+| BPI | 2695 | (-37) |
+| BSI | 2449 | (-17) |
+| BHSI | 1334 | (-5) |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.05311 |
+| YEN/USD | 0.00739 |
+| BRENT | 112.741 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 906.00 | 1078.00 | 1099.00 |
+| MGO | 1307.50 | 1343.50 | 1482.50 |
+| IFO 380 | 569.00 | 583.50 | 632.00 |

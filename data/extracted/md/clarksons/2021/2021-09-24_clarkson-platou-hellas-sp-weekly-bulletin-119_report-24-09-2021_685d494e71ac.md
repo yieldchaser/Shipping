@@ -69,3 +69,29 @@ Moving west, the Turkish market also looks set to suffer a correction as the Tur
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | GEMA | 19,831 | 2001 RUSSIA | 7,638 LDT | USD 616 / LDT | PAKISTAN |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 4644 | - 7 |
+| BCI | 7393 | - 45 |
+| BPI | 4012 | + 18 |
+| BSI | 3359 | + 10 |
+| BHSI | 1925 | + 9 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.17234 |
+| YEN/USD | 0.00909 |
+| BRENT | 77.23 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 547.50 | 572.50 | 568.50 |
+| MGO | 630.50 | 627.00 | 674.50 |
+| IFO 380 | 432.50 | 485.00 | 486.50 |

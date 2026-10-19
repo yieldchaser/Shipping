@@ -66,3 +66,29 @@ With the Iron ore price falling to an 18-month low, rocked by dismal demand outl
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3171 | + 56 |
+| BCI | 4594 | + 60 |
+| BPI | 3128 | + 98 |
+| BSI | 2431 | + 29 |
+| BHSI | 1559 | + 4 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.13189 |
+| YEN/USD | 0.00884 |
+| BRENT | 71.62 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 529.50 | 593.00 | 575.50 |
+| MGO | 590.00 | 603.00 | 719.50 |
+| IFO 380 | 387.50 | 405.00 | 417.00 |

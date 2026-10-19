@@ -61,3 +61,29 @@ In addition, demand to buy tonnage should remain in place as the infrastructure 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 5526 | - 124 |
+| BCI | 10112 | - 373 |
+| BPI | 3866 | - 18 |
+| BSI | 3417 | + 13 |
+| BHSI | 2015 | + 6 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.15573 |
+| YEN/USD | 0.00897 |
+| BRENT | 82.85 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 569.00 | 581.00 | 578.50 |
+| MGO | 699.50 | 682.50 | 713.50 |
+| IFO 380 | 473.50 | 514.50 | 504.50 |

@@ -63,3 +63,29 @@ The effect of this means that less tonnage is ending up on the Pakistani shores,
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3292 | + 78 |
+| BCI | 4306 | + 250 |
+| BPI | 3304 | - 38 |
+| BSI | 2945 | + 17 |
+| BHSI | 1760 | + 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.18726 |
+| YEN/USD | 0.00912 |
+| BRENT | 75.00 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 534.50 | 551.00 | 547.00 |
+| MGO | 599.00 | 607.00 | 644.00 |
+| IFO 380 | 418.00 | 427.00 | 436.50 |

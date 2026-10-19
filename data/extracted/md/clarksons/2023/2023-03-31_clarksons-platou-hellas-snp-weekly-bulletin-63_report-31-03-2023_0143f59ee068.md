@@ -67,3 +67,29 @@ With Ramadan now under way and the forthcoming global Easter holidays creeping u
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1389 | - 14 |
+| BCI | 1665 | - 11 |
+| BPI | 1635 | + 10 |
+| BSI | 1198 | - 39 |
+| BHSI | 687 | - 4 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.08757 |
+| YEN/USD | 0.00754 |
+| Brent (USD) | 76.56 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 564.00 | 577.00 | 570.50 |
+| MGO | 750.00 | 744.00 | 1031.50 |
+| IFO 380 | 418.50 | 438.50 | 427.00 |

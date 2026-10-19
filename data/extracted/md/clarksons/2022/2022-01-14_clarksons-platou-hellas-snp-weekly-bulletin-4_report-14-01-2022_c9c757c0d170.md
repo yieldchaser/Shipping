@@ -59,3 +59,29 @@ The dry bulk market had one of its best years last year with strong GDP growth g
 |---|---|---|---|---|---|
 | PROPSERITY | 19,481 | 1997 JAPAN | 5,314 LDT (Including abt 515 tons stst and abt 160 tons cladded) | USD 930 / LDT | INDIA |
 | EXPRESS | 8,821 | 1999 JAPAN | 2,999 LDT (Including abt 235 tons stst and abt 97 tons cladded) | USD 830 / LDT | INDIA |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1764 | -109 |
+| BCI | 1496 | -250 |
+| BPI | 2375 | -77 |
+| BSI | 1897 | -18 |
+| BHSI | 1192 | -17 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.14557 |
+| YEN/USD | 0.00874 |
+| BRENT | 84.62 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 606.00 | 677.50 | 671.00 |
+| MGO | 730.00 | 735.00 | 810.50 |
+| IFO 380 | 468.50 | 478.50 | 497.00 |

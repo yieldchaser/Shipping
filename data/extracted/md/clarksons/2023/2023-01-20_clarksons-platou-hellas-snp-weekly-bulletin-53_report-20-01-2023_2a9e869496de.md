@@ -75,3 +75,29 @@ With the Lunar holidays commencing from today, we are expecting a very quiet tim
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 763 | - 38 |
+| BCI | 787 | - 106 |
+| BPI | 1060 | - 11 |
+| BSI | 652 | - 2 |
+| BHSI | 441 | - 8 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.08111 |
+| YEN/USD | 0.00779 |
+| Brent (USD) | 86.738 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 580.00 | 667.00 | 645.00 |
+| MGO | 916.00 | 929.50 | 1172.00 |
+| IFO 380 | 402.50 | 411.50 | 413.00 |

@@ -62,3 +62,29 @@ The container sector continues to struggle in terms of charter rates and the exp
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1515 | - 135 |
+| BCI | 2261 | - 365 |
+| BPI | 1535 | - 28 |
+| BSI | 1062 | - 21 |
+| BHSI | 663 | - 8 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.06157 |
+| YEN/USD | 0.00757 |
+| Brent (USD) | 83.269 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 534.50 | 614.50 | 619.50 |
+| MGO | 869.50 | 916.50 | 1153.00 |
+| IFO 380 | 456.50 | 399.50 | 390.00 |

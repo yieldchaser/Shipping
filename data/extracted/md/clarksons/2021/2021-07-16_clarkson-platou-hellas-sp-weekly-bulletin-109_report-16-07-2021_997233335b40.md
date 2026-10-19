@@ -55,3 +55,29 @@ The summer holiday period has certainly been felt this week as the market has fe
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | MR NAUTILUS | 43,538 | 1998 CROATIA | 10,650 LDT | USD 570 / LDT | PAKISTAN |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3039 | - 34 |
+| BCI | 3442 | - 18 |
+| BPI | 3635 | - 73 |
+| BSI | 2775 | - 24 |
+| BHSI | 1669 | + 7 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.18207 |
+| YEN/USD | 0.00910 |
+| BRENT | 73.58 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 530.00 | 550.50 | 544.50 |
+| MGO | 592.00 | 591.00 | 654.00 |
+| IFO 380 | 410.50 | 422.50 | 418.00 |

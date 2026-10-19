@@ -63,3 +63,29 @@ Generally, however, the rates from India remain lower than their counterparts fr
 |---|---|---|---|---|---|
 | BULL PAPUA | 106,681 | 1999 JAPAN | 15,681 LDT | USD 650 / LDT | INDIA – SUB CONT RANGE |
 | HIPPO | 46,092 | 1997 POLAND | 12,141 LDT | USD 642 / LDT | BANGLADESH |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1423 | - 2 |
+| BCI | 1242 | - 49 |
+| BPI | 1796 | + 25 |
+| BSI | 1594 | + 23 |
+| BHSI | 990 | + 2 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.13495 |
+| YEN/USD | 0.00768 |
+| BRENT | 92.77 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 678.50 | 710.00 | 709.00 |
+| MGO | 812.00 | 795.50 | 843.00 |
+| IFO 380 | 508.50 | 523.50 | 529.50 |

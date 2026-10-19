@@ -60,3 +60,29 @@ The Pakistani recyclers look set to try to compete with their counterparts in Ba
 | SHARIFA 4 | 95,416 | 1995 SOUTH KOREA | 16,484 LDT | USD 616 / LDT | PAKISTAN |
 | HAFID | 47,228 | 2000 JAPAN | 9,246 LDT | USD 605 / LDT | PAKISTAN |
 | SANMAR STANZA | 47,110 | 1999 JAPAN | 9,384 LDT | USD 578 / LDT | AS-IS COLOMBO |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3864 | + 221 |
+| BCI | 5567 | + 605 |
+| BPI | 3595 | + 85 |
+| BSI | 3170 | - 9 |
+| BHSI | 1807 | + 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.18234 |
+| YEN/USD | 0.00910 |
+| BRENT | 72.92 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 517.00 | 546.00 | 543.00 |
+| MGO | 583.50 | 587.00 | 643.50 |
+| IFO 380 | 410.50 | 462.00 | 453.50 |

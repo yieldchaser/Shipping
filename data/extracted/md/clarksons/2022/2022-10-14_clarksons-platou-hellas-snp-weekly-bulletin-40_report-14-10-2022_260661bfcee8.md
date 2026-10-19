@@ -73,3 +73,29 @@ With all industry players gathering in one area, it usually helps to stimulate t
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1838 | + 20 |
+| BCI | 2166 | + 72 |
+| BPI | 2081 | - 7 |
+| BSI | 1690 | - 6 |
+| BHSI | 1012 | - 8 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 0.97316 |
+| YEN/USD | 0.0068 |
+| Brent (USD) | 94.629 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 661.00 | 735.50 | 715.00 |
+| MGO | 1090.50 | 1072.00 | 1286.00 |
+| IFO 380 | 380.50 | 395.00 | 390.00 |

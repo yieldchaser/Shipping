@@ -60,3 +60,29 @@ We are in an odd space at this current time as despite lower tanker freight rate
 |---|---|---|---|---|---|
 | JACOB | 157,499 | 2000 KOREA | 22,572 LDT | USD 603 / LDT | “As-Is” BATAM |
 | QUEEN EMATHA | 13,937 | 1989 KOREA | 3,802 LDT | USD 615 / LDT | PAKISTAN |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2767 | + 89 |
+| BCI | 2906 | + 130 |
+| BPI | 2621 | + 132 |
+| BSI | 2316 | + 32 |
+| BHSI | 1539 | + 3 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.12130 |
+| YEN/USD | 0.00867 |
+| BRENT | 77.96 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 579.50 | 638.00 | 629.50 |
+| MGO | 665.00 | 692.00 | 779.00 |
+| IFO 380 | 444.50 | 469.50 | 474.00 |

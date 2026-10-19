@@ -66,3 +66,29 @@ Pakistan is the one area where negative sentiment remains, although hereto, we b
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2150 | (+140) |
+| BCI | 2919 | (+462) |
+| BPI | 1885 | (-35) |
+| BSI | 2039 | ( -11) |
+| BHSI | 1181 | (+9) |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.0083 |
+| YEN/USD | 0.00721 |
+| BRENT | 98.49 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 774.50 | 1001.50 | 1004.50 |
+| MGO | 1143.50 | 1109.00 | 1407.00 |
+| IFO 380 | 448.50 | 457.00 | 499.00 |

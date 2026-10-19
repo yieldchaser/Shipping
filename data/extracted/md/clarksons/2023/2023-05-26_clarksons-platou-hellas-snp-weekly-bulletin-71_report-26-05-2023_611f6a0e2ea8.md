@@ -64,3 +64,29 @@ The Turkish market softened slightly this week on the back of the news that the 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1172 | - 43 |
+| BCI | 1683 | - 75 |
+| BPI | 1119 | - 22 |
+| BSI | 946 | - 34 |
+| BHSI | 588 | - 6 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0729 |
+| YEN/USD | 0.0071 |
+| Brent (USD) | 76.34 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 532.00 | 582.00 | 565.50 |
+| MGO | 680.50 | 709.00 | 872.50 |
+| IFO 380 | 437.00 | 449.00 | 440.50 |

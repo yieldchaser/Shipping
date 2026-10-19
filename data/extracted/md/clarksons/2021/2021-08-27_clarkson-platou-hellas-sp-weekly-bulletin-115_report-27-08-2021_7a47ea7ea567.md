@@ -60,3 +60,29 @@ This has also resulted in less enquiry from Owners who wish to dispose of their 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | SKY SINO | 45,373 | 1998 CHINA | 12,235 LDT | U/D | “As Is” BATAM |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 4235 | + 40 |
+| BCI | 6162 | + 119 |
+| BPI | 3874 | - 37 |
+| BSI | 3470 | + 33 |
+| BHSI | 1897 | - 5 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.17606 |
+| YEN/USD | 0.00908 |
+| BRENT | 72.33 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 508.00 | 531.50 | 526.00 |
+| MGO | 574.50 | 570.00 | 657.50 |
+| IFO 380 | 403.50 | 432.50 | 434.50 |

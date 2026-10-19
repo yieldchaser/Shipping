@@ -60,3 +60,29 @@ Elsewhere, Bangladesh and Pakistan buyers continue to be frustrated with their d
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1593 | + 24 |
+| BCI | 2083 | + 76 |
+| BPI | 1685 | - 11 |
+| BSI | 1355 | + 5 |
+| BHSI | 670 | + 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0646 |
+| YEN/USD | 0.0067 |
+| Brent (USD) | 92.57 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 626.00 | 665.00 | 654.50 |
+| MGO | 971.00 | 948.50 | 975.00 |
+| IFO 380 | 588.00 | 528.50 | 519.50 |

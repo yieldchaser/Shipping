@@ -69,3 +69,29 @@ Finally, we would like to wish a very happy Eid Al-Adha Mubarak to our readers o
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2067 | (-6) |
+| BCI | 2270 | (+65) |
+| BPI | 2223 | (-55) |
+| BSI | 2163 | (-40) |
+| BHSI | 1185 | (-15) |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.01808 |
+| YEN/USD | 0.00736 |
+| BRENT | 106.842 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 831.50 | 994.00 | 1026.50 |
+| MGO | 1129.00 | 1063.00 | 1370.00 |
+| IFO 380 | 496.50 | 491.50 | 527.50 |

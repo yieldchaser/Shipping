@@ -61,3 +61,29 @@ Back to the current market and whilst there remains the lingering scenario with 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2046 | - 25 |
+| BCI | 3556 | - 77 |
+| BPI | 1638 | + 5 |
+| BSI | 1287 | 0 |
+| BHSI | 686 | - 3 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0587 |
+| YEN/USD | 0.0066 |
+| Brent (USD) | 91.40 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 622.50 | 680.50 | 688.50 |
+| MGO | 885.00 | 886.50 | 961.00 |
+| IFO 380 | 542.50 | 499.50 | 496.50 |

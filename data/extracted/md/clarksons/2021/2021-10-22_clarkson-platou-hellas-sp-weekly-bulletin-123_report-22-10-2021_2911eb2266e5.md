@@ -69,3 +69,29 @@ The domestic finished products prices in India have risen over the last week aid
 | WALLEYE | 70,297 | 2003 S KOREA | 13,907 LDT | USD 627 / LDT | INDIA |
 | MUSKIE | 70,297 | 2003 S KOREA | 13,848 LDT | USD 620 / LDT | INDIA |
 | CHEMICAL PIONEER | 35,489 | 1968 USA | 12,269 LDT | USD 515 / LDT (including abt 308 tons stst and abt 110 tons cladded) | “AS-IS” USA |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 4410 | - 243 |
+| BCI | 6205 | - 713 |
+| BPI | 4327 | + 23 |
+| BSI | 3584 | - 40 |
+| BHSI | 2057 | + 12 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.16405 |
+| YEN/USD | 0.00877 |
+| BRENT | 85.45 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 607.50 | 626.50 | 629.50 |
+| MGO | 706.00 | 720.50 | 775.00 |
+| IFO 380 | 477.00 | 505.50 | 512.50 |

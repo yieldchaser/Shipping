@@ -69,3 +69,29 @@ Activity from the Bangladeshi and Pakistani markets remain limited as the ongoin
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1820 | + 62 |
+| BCI | 2763 | + 99 |
+| BPI | 1874 | + 74 |
+| BSI | 1205 | + 27 |
+| BHSI | 599 | + 6 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0856 |
+| YEN/USD | 0.0066 |
+| Brent (USD) | 77.88 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 586.50 | 683.00 | 667.00 |
+| MGO | 811.50 | 806.50 | 924.00 |
+| IFO 380 | 484.50 | 464.00 | 444.50 |

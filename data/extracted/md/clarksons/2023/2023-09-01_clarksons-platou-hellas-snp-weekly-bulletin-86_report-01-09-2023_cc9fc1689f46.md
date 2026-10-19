@@ -60,3 +60,29 @@ The Recycling volume, whilst on par with 2022 levels, remains notably down on a 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1065 | - 21 |
+| BCI | 1032 | - 62 |
+| BPI | 1478 | - 25 |
+| BSI | 980 | + 18 |
+| BHSI | 541 | + 7 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0834 |
+| YEN/USD | 0.0068 |
+| Brent (USD) | 87.06 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 599.50 | 631.50 | 637.00 |
+| MGO | 902.50 | 907.00 | 948.50 |
+| IFO 380 | 555.50 | 533.50 | 524.00 |

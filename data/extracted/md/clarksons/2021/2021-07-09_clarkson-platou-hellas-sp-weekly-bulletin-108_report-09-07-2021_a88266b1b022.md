@@ -68,3 +68,29 @@ The Pakistani recyclers are making a sterling effort to compete with their count
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | JETSTAR | 9,750 | 1994 S KOREA | 2,621 LDT | USD 575 / LDT | BANGLADESH |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3300 | + 19 |
+| BCI | 3735 | + 86 |
+| BPI | 4101 | - 27 |
+| BSI | 2891 | - 6 |
+| BHSI | 1651 | + 14 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.18250 |
+| YEN/USD | 0.00909 |
+| BRENT | 74.60 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 521.50 | 535.50 | 537.50 |
+| MGO | 589.00 | 588.50 | 638.00 |
+| IFO 380 | 408.00 | 416.00 | 416.00 |

@@ -70,3 +70,29 @@ There has been a sale of a VLCC reported this week which at any other time, woul
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2379 | - 119 |
+| BCI | 2727 | - 167 |
+| BPI | 2444 | - 182 |
+| BSI | 2469 | - 45 |
+| BHSI | 1547 | - 10 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.13087 |
+| YEN/USD | 0.00878 |
+| BRENT | 73.67 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 539.00 | 602.50 | 598.00 |
+| MGO | 620.00 | 636.50 | 766.00 |
+| IFO 380 | 417.00 | 424.00 | 436.00 |

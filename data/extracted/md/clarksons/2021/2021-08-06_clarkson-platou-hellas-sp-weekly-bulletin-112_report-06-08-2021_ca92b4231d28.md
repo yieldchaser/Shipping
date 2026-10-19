@@ -67,3 +67,29 @@ There does however always seem to be something to soften the mood and this week,
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3371 | - 5 |
+| BCI | 4359 | - 55 |
+| BPI | 3449 | + 31 |
+| BSI | 3010 | + 14 |
+| BHSI | 1766 | 0 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.12370 |
+| YEN/USD | 0.00912 |
+| BRENT | 71.38 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 515.50 | 528.00 | 529.50 |
+| MGO | 586.00 | 588.50 | 643.50 |
+| IFO 380 | 407.50 | 413.50 | 434.00 |

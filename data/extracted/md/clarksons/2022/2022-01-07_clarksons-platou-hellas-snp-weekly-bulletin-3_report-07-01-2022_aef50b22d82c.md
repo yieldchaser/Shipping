@@ -64,3 +64,29 @@ Unfortunately, reports of an explosion onboard a tanker that was being dismantle
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2289 | - 7 |
+| BCI | 2432 | + 76 |
+| BPI | 2957 | - 56 |
+| BSI | 2074 | - 50 |
+| BHSI | 1300 | - 35 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.1354 |
+| YEN/USD | 0.0086 |
+| BRENT | 81.75 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 583.00 | 647.50 | 640.00 |
+| MGO | 699.00 | 698.50 | 777.00 |
+| IFO 380 | 463.00 | 474.50 | 474.50 |

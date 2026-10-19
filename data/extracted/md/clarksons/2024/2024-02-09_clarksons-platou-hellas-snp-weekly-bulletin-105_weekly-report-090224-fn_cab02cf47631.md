@@ -69,3 +69,29 @@ The major disruption to the shipping industry in general, caused by the Red Sea 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1473 | -14 |
+| BCI | 2196 | -67 |
+| BPI | 1474 | +29 |
+| BSI | 1050 | +3 |
+| BHSI | 570 | -4 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.07733 |
+| YEN/USD | 0.00671 |
+| Brent (USD) | 81,634 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 569.50 | 633.50 | 617.00 |
+| MGO | 804.00 | 818.50 | 884.00 |
+| IFO 380 | 451.00 | 447.50 | 431.50 |

@@ -57,3 +57,29 @@ Moving to the current market conditions, India has seen daily domestic falls in 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1643 | + 45 |
+| BCI | 2589 | + 103 |
+| BPI | 1530 | + 30 |
+| BSI | 1125 | + 9 |
+| BHSI | 594 | - 7 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0899 |
+| YEN/USD | 0.0067 |
+| Brent (USD) | 82.69 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 586.50 | 666.50 | 646.50 |
+| MGO | 816.00 | 804.50 | 921.50 |
+| IFO 380 | 494.50 | 488.00 | 454.00 |

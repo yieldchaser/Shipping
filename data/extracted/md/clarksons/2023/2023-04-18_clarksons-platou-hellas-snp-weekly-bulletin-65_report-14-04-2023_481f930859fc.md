@@ -61,3 +61,29 @@ Elsewhere, Indian remains the more stable market of the Sub. Continent destinati
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1463 | 0 |
+| BCI | 1888 | + 66 |
+| BPI | 1747 | - 65 |
+| BSI | 1105 | - 13 |
+| BHSI | 628 | - 3 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.1024 |
+| YEN/USD | 0.00753 |
+| Brent (USD) | 82.51 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 594.00 | 625.00 | 623.00 |
+| MGO | 782.00 | 761.00 | 1051.50 |
+| IFO 380 | 491.00 | 509.00 | 482.50 |

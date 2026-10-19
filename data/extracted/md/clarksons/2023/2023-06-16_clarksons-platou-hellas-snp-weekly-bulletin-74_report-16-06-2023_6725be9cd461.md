@@ -68,3 +68,29 @@ India has seen some slight improvements in rates this week which in encouraging 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1076 | - 18 |
+| BCI | 1528 | - 71 |
+| BPI | 1193 | + 9 |
+| BSI | 748 | + 8 |
+| BHSI | 464 | - 7 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0949 |
+| YEN/USD | 0.0070 |
+| Brent (USD) | 75.17 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 540.50 | 591.50 | 572.50 |
+| MGO | 685.50 | 818.50 | 702.00 |
+| IFO 380 | 457.50 | 437.00 | 418.50 |

@@ -53,3 +53,29 @@ Price levels are moving upwards and it would appear that some higher L/C’s are
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1213 | + 35 |
+| BCI | 672 | + 20 |
+| BPI | 1865 | + 108 |
+| BSI | 1475 | - 2 |
+| BHSI | 873 | + 6 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 0.99899 |
+| YEN/USD | 0.00695 |
+| Brent (USD) | 92.708 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 659.50 | 662.00 | 685.50 |
+| MGO | 1063.00 | 1032.50 | 1303.00 |
+| IFO 380 | 414.50 | 397.00 | 434.00 |

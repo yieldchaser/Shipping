@@ -58,3 +58,29 @@ However, both India and Bangladesh are reporting significant domestic steel pric
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1558 | + 13 |
+| BCI | 2384 | + 59 |
+| BPI | 1501 | - 13 |
+| BSI | 1096 | - 9 |
+| BHSI | 645 | - 6 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.10448 |
+| YEN/USD | 0.00744 |
+| Brent (USD) | 74.96 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 517.50 | 563.50 | 555.00 |
+| MGO | 644.00 | 656.00 | 910.00 |
+| IFO 380 | 423.50 | 455.50 | 436.00 |

@@ -73,3 +73,29 @@ We would like to wish those celebrating Eid, good health, happiness and success.
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | BULL SUMBAWA | 31,632 | 2001 S. KOREA | 7,718 LDT | USD 575 / LDT | BANGLADESH |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3199 | + 96 |
+| BCI | 3915 | + 286 |
+| BPI | 3528 | - 32 |
+| BSI | 2871 | + 29 |
+| BHSI | 1736 | + 10 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.17851 |
+| YEN/USD | 0.00908 |
+| BRENT | 71.69 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 516.50 | 539.00 | 538.50 |
+| MGO | 585.50 | 584.00 | 648.50 |
+| IFO 380 | 405.00 | 413.50 | 427.50 |

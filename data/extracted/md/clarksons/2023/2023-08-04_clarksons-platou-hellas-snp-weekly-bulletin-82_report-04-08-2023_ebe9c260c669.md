@@ -64,3 +64,29 @@ It does seem that there is some excitement once again from Cash Buyers who are n
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1136 | + 8 |
+| BCI | 1818 | + 15 |
+| BPI | 1133 | + 21 |
+| BSI | 688 | - 7 |
+| BHSI | 390 | - 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0947 |
+| YEN/USD | 0.007 |
+| Brent (USD) | 84.20 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 607.50 | 631.50 | 623.50 |
+| MGO | 876.50 | 897.50 | 937.50 |
+| IFO 380 | 555.50 | 567.50 | 517.50 |

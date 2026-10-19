@@ -59,3 +59,29 @@ There has been much emphasis on the Capesize sector in media outlets over the la
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1249 | - 41 |
+| BCI | 756 | - 111 |
+| BPI | 1688 | - 61 |
+| BSI | 1735 | + 37 |
+| BHSI | 960 | - 8 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.01397 |
+| YEN/USD | 0.00739 |
+| Brent (USD) | 96.203 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 732.00 | 748.50 | 812.00 |
+| MGO | 1083.50 | 1029.00 | 1341.00 |
+| IFO 380 | 539.50 | 510.50 | 490.00 |

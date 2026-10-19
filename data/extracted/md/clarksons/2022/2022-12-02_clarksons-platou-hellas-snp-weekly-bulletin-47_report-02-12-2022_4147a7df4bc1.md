@@ -66,3 +66,29 @@ Several more units are now being discussed in the recycling market which could w
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1324 | - 14 |
+| BCI | 1519 | - 51 |
+| BPI | 1618 | + 16 |
+| BSI | 1162 | - 3 |
+| BHSI | 741 | - 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.04679 |
+| YEN/USD | 0.00735 |
+| Brent (USD) | 88.549 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 560.00 | 661.50 | 645.00 |
+| MGO | 905.00 | 977.50 | 1110.00 |
+| IFO 380 | 375.00 | 385.50 | 345.00 |

@@ -57,3 +57,29 @@ Its neighbours, Bangladesh, continue to struggle with opening Letters of Credit 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1560 | - 43 |
+| BCI | 1411 | - 69 |
+| BPI | 1967 | - 16 |
+| BSI | 1700 | - 47 |
+| BHSI | 1058 | - 37 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.01995 |
+| YEN/USD | 0.00749 |
+| Brent (USD) | 97.058 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 725.00 | 786.00 | 882.00 |
+| MGO | 1058.00 | 1027.00 | 1222.50 |
+| IFO 380 | 494.50 | 499.00 | 480.50 |

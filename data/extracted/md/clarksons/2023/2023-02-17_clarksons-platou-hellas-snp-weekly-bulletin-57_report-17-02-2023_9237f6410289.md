@@ -67,3 +67,29 @@ The recycling market in Gadani, Pakistan remains closed for the time being. With
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 538 | + 8 |
+| BCI | 271 | - 4 |
+| BPI | 811 | - 7 |
+| BSI | 695 | + 35 |
+| BHSI | 438 | + 4 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.06915 |
+| YEN/USD | 0.00747 |
+| Brent (USD) | 82.895 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 594.50 | 653.00 | 644.50 |
+| MGO | 799.50 | 823.50 | 1112.50 |
+| IFO 380 | 416.50 | 433.00 | 414.50 |

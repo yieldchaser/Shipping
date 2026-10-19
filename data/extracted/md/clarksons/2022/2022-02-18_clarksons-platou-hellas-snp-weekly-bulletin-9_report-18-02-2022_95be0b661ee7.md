@@ -60,3 +60,29 @@ It would seem however that the rates have now ‘peaked’ and there may not pos
 |---|---|---|---|---|---|
 | NUSA MERDEKA | 104,875 | 2003 KOREA | 17,297 LDT | USD 670 / LDT | BANGLADESH |
 | BULL DAMAI 1 | 111,928 | 2004 KOREA | 19,132 LDT | USD 670 / LDT | BANGLADESH |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1964 | + 78 |
+| BCI | 1675 | + 228 |
+| BPI | 2375 | + 10 |
+| BSI | 2325 | - 1 |
+| BHSI | 1285 | + 27 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.13649 |
+| YEN/USD | 0.00869 |
+| BRENT | 92.35 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 677.50 | 738.50 | 745.50 |
+| MGO | 818.00 | 846.00 | 887.00 |
+| IFO 380 | 516.00 | 528.00 | 535.00 |

@@ -62,3 +62,29 @@ There are no sales to report this week.
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2718 | (+74) |
+| BCI | 2894 | (+173) |
+| BPI | 3175 | (+65) |
+| BSI | 2729 | (-3) |
+| BHSI | 1640 | (+8) |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.057 |
+| YEN/USD | 0.008 |
+| BRENT | 112.045 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 832.50 | 876.00 | 885.00 |
+| MGO | 1274.00 | 1230.00 | 1370.50 |
+| IFO 380 | 635.50 | 768.00 | 767.50 |

@@ -66,3 +66,29 @@ Interestingly, it now appears that the Indian market is the only reliable destin
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1355 | - 35 |
+| BCI | 1544 | - 108 |
+| BPI | 1637 | + 18 |
+| BSI | 1213 | - 14 |
+| BHSI | 787 | - 10 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.00737 |
+| YEN/USD | 0.00693 |
+| Brent (USD) | 97.31 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 636.50 | 683.00 | 669.00 |
+| MGO | 979.50 | 1045.50 | 1237.00 |
+| IFO 380 | 419.50 | 417.50 | 390.00 |

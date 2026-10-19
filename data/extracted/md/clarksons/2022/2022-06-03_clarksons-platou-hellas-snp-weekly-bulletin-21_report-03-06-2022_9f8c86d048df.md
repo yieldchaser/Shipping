@@ -68,3 +68,29 @@ The tanker sector has seen significantly improved conditions in recent months wi
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | - |  |
+| BCI | - |  |
+| BPI | - |  |
+| BSI | - |  |
+| BHSI | - |  |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.07006 |
+| YEN/USD | 0.0077 |
+| BRENT | 121.717 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 883.50 | 1086.00 | 1029.50 |
+| MGO | 1263.00 | 1247.50 | 1451.00 |
+| IFO 380 | 647.00 | 640.50 | 717.00 |

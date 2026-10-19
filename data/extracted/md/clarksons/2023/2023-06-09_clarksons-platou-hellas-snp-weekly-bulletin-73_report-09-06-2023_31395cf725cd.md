@@ -66,3 +66,29 @@ Meantime, as of today, Bangladesh and India remain the dominant areas in the Ind
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1055 | + 15 |
+| BCI | 1514 | + 54 |
+| BPI | 1146 | 0 |
+| BSI | 736 | - 11 |
+| BHSI | 501 | - 4 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.07753 |
+| YEN/USD | 0.00716 |
+| Brent (USD) | 75.65 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 545.00 | 588.50 | 567.50 |
+| MGO | 692.50 | 718.00 | 846.50 |
+| IFO 380 | 453.50 | 440.50 | 429.00 |

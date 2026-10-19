@@ -60,3 +60,29 @@ Looking west, the Turkish market suffered a significant drop this week due to th
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1558 | - 50 |
+| BCI | 2456 | - 110 |
+| BPI | 1402 | - 43 |
+| BSI | 1105 | - 7 |
+| BHSI | 632 | - 3 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.09371 |
+| YEN/USD | 0.00744 |
+| Brent (USD) | 74.97 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 536.50 | 571.50 | 561.50 |
+| MGO | 685.00 | 685.50 | 911.50 |
+| IFO 380 | 440.00 | 456.50 | 455.50 |

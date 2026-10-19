@@ -66,3 +66,29 @@ In addition, we have seen the dry freight market increase recently, which will l
 |---|---|---|---|---|---|
 | BRADLEY | 106,474 | 1999 JAPAN | 16,368 LDT | 500/LT (en bloc) | SINGAPORE |
 | GULF VENTURE | 105,365 | 1999 KOREA | 17,072 LDT | 500/LT (en bloc) | (INCL 250 TS ROB ON EACH) |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1929 | + 102 |
+| BCI | 3309 | + 6327 |
+| BPI | 1572 | - 20 |
+| BSI | 1233 | + 3 |
+| BHSI | 675 | + 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0508 |
+| YEN/USD | 0.0066 |
+| Brent (USD) | 84.00 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 578.50 | 632.00 | 626.00 |
+| MGO | 863.00 | 871.50 | 943.50 |
+| IFO 380 | 511.00 | 462.50 | 469.50 |

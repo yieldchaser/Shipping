@@ -68,3 +68,29 @@ The general feeling is that there will be little demand or activity from all thr
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2214 | (-26) |
+| BCI | 2381 | (-53) |
+| BPI | 2477 | (-8) |
+| BSI | 2290 | (-16) |
+| BHSI | 1276 | (-9) |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.04495 |
+| YEN/USD | 0.00735 |
+| BRENT | 114.257 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 919.00 | 1116.50 | 1141.50 |
+| MGO | 1251.00 | 1244.00 | 1504.00 |
+| IFO 380 | 573.50 | 600.00 | 635.50 |

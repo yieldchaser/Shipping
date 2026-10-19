@@ -58,3 +58,29 @@ As stated previously, the flow of tonnage and market activity is slowly but sure
 |---|---|---|---|---|---|
 | JUBILEE STAR | 309,892 | 1996 JAPAN | 42,760 LDT | USD 580 / LDT | AS - IS MALAYSIA |
 | SEA CORAL | 298,306 | 1996 SOUTH KOREA | 42,802 LDT | USD 578 / LDT | AS - IS MALAYSIA |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 3566 | +63 |
+| BCI | 4766 | +158 |
+| BPI | 3566 | +16 |
+| BSI | 3098 | +19 |
+| BHSI | 1816 | +17 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.17367 |
+| YEN/USD | 0.00906 |
+| BRENT | 71.409 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 505.00 | 535.50 | 524.50 |
+| MGO | 562.50 | 572.50 | 642.50 |
+| IFO 380 | 405.50 | 412.50 | 425.00 |

@@ -62,3 +62,29 @@ On the wet side, the lack of available tanker units coming into the recycling in
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1211 | + 66 |
+| BCI | 1195 | + 195 |
+| BPI | 1565 | + 9 |
+| BSI | 1189 | - 3 |
+| BHSI | 584 | + 9 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.06194 |
+| YEN/USD | 0.00732 |
+| Brent (USD) | 84.352 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 579.00 | 614.00 | 610.50 |
+| MGO | 820.00 | 805.00 | 1121.50 |
+| IFO 380 | 414.50 | 459.00 | 455.50 |

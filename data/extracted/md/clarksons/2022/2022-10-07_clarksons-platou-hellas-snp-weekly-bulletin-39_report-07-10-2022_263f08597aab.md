@@ -61,3 +61,29 @@ In the meantime, the lack of available candidates for recycling continues. There
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1961 | - 31 |
+| BCI | 2396 | - 110 |
+| BPI | 2235 | + 3 |
+| BSI | 1706 | + 16 |
+| BHSI | 1033 | + 5 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 0.9751 |
+| YEN/USD | 0.00691 |
+| Brent (USD) | 96.382 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 659.00 | 738.50 | 734.00 |
+| MGO | 1051.00 | 1045.00 | 1308.00 |
+| IFO 380 | 424.50 | 410.50 | 413.50 |

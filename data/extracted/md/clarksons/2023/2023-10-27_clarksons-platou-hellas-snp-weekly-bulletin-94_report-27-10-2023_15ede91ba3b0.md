@@ -63,3 +63,29 @@ Elsewhere, the current ship recycling market in Bangladesh is struggling due to 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1563 | - 99 |
+| BCI | 2226 | -239 |
+| BPI | 1605 | - 23 |
+| BSI | 1184 | -43 |
+| BHSI | 671 | 0 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0547 |
+| YEN/USD | 0.0066 |
+| Brent (USD) | 89.46 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 609.00 | 667.00 | 658.00 |
+| MGO | 868.50 | 868.00 | 958.00 |
+| IFO 380 | 521.00 | 481.00 | 474.00 |

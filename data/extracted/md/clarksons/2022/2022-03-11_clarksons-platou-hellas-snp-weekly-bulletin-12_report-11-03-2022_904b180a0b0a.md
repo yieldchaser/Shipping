@@ -63,3 +63,29 @@ Generally, the demand for tonnage from the recycling yards is outweighing the su
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2718 | + 14 |
+| BCI | 2676 | + 63 |
+| BPI | 3187 | - 46 |
+| BSI | 2939 | + 16 |
+| BHSI | 1548 | + 17 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.0998 |
+| YEN/USD | 0.00862 |
+| BRENT | 109.33 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 1002.50 | 942.50 | 963.00 |
+| MGO | 1102.50 | 1125.00 | 1189.50 |
+| IFO 380 | 652.50 | 670.00 | 653.50 |

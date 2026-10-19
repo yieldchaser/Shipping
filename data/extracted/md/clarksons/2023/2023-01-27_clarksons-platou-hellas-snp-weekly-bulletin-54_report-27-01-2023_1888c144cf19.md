@@ -61,3 +61,29 @@ India continues to be at the forefront with offers for available tonnage and thi
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 676 | - 1 |
+| BCI | 534 | - 15 |
+| BPI | 1054 | + 9 |
+| BSI | 650 | + 5 |
+| BHSI | 431 | - 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.08981 |
+| YEN/USD | 0.0077 |
+| Brent (USD) | 88.178 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 613.00 | 701.00 | 677.50 |
+| MGO | 933.00 | 928.00 | 1193.00 |
+| IFO 380 | 412.50 | 424.50 | 404.50 |

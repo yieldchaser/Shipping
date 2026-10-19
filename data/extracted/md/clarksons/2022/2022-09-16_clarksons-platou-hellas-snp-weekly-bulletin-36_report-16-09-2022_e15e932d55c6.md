@@ -64,3 +64,29 @@ Price levels have firmed on the back of speculation by some of the cash buyers a
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1553 | - 59 |
+| BCI | 1519 | - 118 |
+| BPI | 1900 | - 100 |
+| BSI | 1551 | + 22 |
+| BHSI | 905 | + 5 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 0.9963 |
+| YEN/USD | 0.00698 |
+| Brent (USD) | 91.72 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 679.00 | 696.00 | 715.50 |
+| MGO | 976.00 | 936.00 | 1246.00 |
+| IFO 380 | 443.50 | 411.50 | 439.00 |

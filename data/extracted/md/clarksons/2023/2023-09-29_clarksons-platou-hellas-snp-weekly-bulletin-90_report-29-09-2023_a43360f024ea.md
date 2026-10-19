@@ -63,3 +63,29 @@ Elsewhere, the Bangladesh market looks set to stay on the sidelines as they cont
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1701 | - 15 |
+| BCI | 2474 | - 19 |
+| BPI | 1701 | - 8 |
+| BSI | 1276 | - 18 |
+| BHSI | 679 | - 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0535 |
+| YEN/USD | 0.0067 |
+| Brent (USD) | 93.64 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 638.00 | 684.00 | 670.50 |
+| MGO | 967.00 | 959.00 | 975.50 |
+| IFO 380 | 597.00 | 558.00 | 537.00 |

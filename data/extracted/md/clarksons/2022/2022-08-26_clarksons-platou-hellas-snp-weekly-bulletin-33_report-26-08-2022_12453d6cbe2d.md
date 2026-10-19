@@ -61,3 +61,29 @@ There have also been more discussions that the US-Iranian talks are getting clos
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | URANUS | 299,157 | 2002 JAPAN | 39,825 LDT | USD 610/LDT | Full range Indian sub-continent during October |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1082 | - 41 |
+| BCI | 411 | - 63 |
+| BPI | 1372 | - 52 |
+| BSI | 1744 | - 19 |
+| BHSI | 933 | - 5 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 0.99813 |
+| YEN/USD | 0.00732 |
+| Brent (USD) | 100.56 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 746.00 | 795.00 | 817.50 |
+| MGO | 1212.50 | 1153.50 | 1404.50 |
+| IFO 380 | 540.00 | 517.00 | 509.50 |

@@ -76,3 +76,29 @@ Item (d) above could be of particular concern as the strategy behind this could 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2483 | - 12 |
+| BCI | 4259 | + 56 |
+| BPI | 2104 | - 93 |
+| BSI | 1521 | - 17 |
+| BHSI | 872 | + 10 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0778 |
+| YEN/USD | 0.0068 |
+| Brent (USD) | 75.71 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 540.50 | 604.00 | 595.50 |
+| MGO | 754.50 | 741.00 | 887.50 |
+| IFO 380 | 446.00 | 437.50 | 406.00 |

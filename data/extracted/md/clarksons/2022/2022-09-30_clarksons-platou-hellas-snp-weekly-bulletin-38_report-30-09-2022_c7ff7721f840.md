@@ -70,3 +70,29 @@ Interestingly, looking through the data of the capesize bulk carriers that have 
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1760 | + 3 |
+| BCI | 1955 | + 1 |
+| BPI | 2082 | + 19 |
+| BSI | 1663 | - 11 |
+| BHSI | 1009 | + 9 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 0.97839 |
+| YEN/USD | 0.00692 |
+| Brent (USD) | 86.866 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 634.50 | 690.00 | 687.50 |
+| MGO | 986.50 | 938.00 | 1237.50 |
+| IFO 380 | 426.50 | 397.50 | 416.00 |

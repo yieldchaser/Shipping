@@ -60,3 +60,29 @@ We are also edging closer to the Bangladesh budget, expected early June, and the
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1384 | - 18 |
+| BCI | 2105 | - 37 |
+| BPI | 1222 | - 13 |
+| BSI | 1077 | - 8 |
+| BHSI | 612 | - 2 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0793 |
+| YEN/USD | 0.00721 |
+| Brent (USD) | 75.29 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 537.50 | 584.50 | 566.00 |
+| MGO | 687.50 | 695.50 | 875.00 |
+| IFO 380 | 439.50 | 453.50 | 456.50 |

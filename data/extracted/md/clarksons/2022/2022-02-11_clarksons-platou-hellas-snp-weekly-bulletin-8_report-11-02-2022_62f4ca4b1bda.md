@@ -67,3 +67,29 @@ There has been a Capesize bulk carrier concluded for recycling this week, which 
 | AL SALAM | 47,065 | 2001 JAPAN | 9,409 LDT | USD 661 / LDT (650t rob included) | PAKISTAN |
 | THURAYA | 46,724 | 1999 POLAND | 11,916 LDT | USD 655 / LDT | PAKISTAN |
 | ARISTOS | 46,678 | 2004 CROATIA | 10,534 LDT | USD 675 / LDT | BANGLADESH |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1977 | + 37 |
+| BCI | 1857 | - 47 |
+| BPI | 2403 | + 70 |
+| BSI | 2158 | + 101 |
+| BHSI | 1168 | + 29 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.14336 |
+| YEN/USD | 0.00863 |
+| BRENT | 92.34 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 680.50 | 725.00 | 732.00 |
+| MGO | 821.50 | 819.50 | 878.50 |
+| IFO 380 | 513.50 | 513.50 | 535.50 |

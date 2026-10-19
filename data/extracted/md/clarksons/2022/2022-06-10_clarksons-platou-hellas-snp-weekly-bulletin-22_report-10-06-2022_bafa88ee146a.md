@@ -63,3 +63,29 @@ Next week sees members from the recycling industry descend on Rotterdam for a co
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2320 | (-22) |
+| BCI | 2371 | (+2) |
+| BPI | 2629 | (-45) |
+| BSI | 2495 | (-32) |
+| BHSI | 1417 | (-52) |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.06819 |
+| YEN/USD | 0.00746 |
+| BRENT | 122.678 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 974.50 | 1150.00 | 1124.00 |
+| MGO | 1341.50 | 1339.00 | 1574.00 |
+| IFO 380 | 635.50 | 613.50 | 699.50 |

@@ -60,3 +60,29 @@ The Middle East has been the centre of attention this week, apart from the world
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1189 | - 39 |
+| BCI | 1122 | - 66 |
+| BPI | 1594 | - 56 |
+| BSI | 1170 | - 5 |
+| BHSI | 763 | 0 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.03609 |
+| YEN/USD | 0.00715 |
+| Brent (USD) | 89.378 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 593.50 | 667.50 | 655.50 |
+| MGO | 954.00 | 1065.00 | 1254.00 |
+| IFO 380 | 412.00 | 432.00 | 386.50 |

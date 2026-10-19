@@ -63,3 +63,29 @@ Despite murmurings in the local market of a steel price drop, there should still
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1534 | - 78 |
+| BCI | 1670 | - 78 |
+| BPI | 1817 | - 83 |
+| BSI | 1483 | - 89 |
+| BHSI | 897 | - 25 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 0.99612 |
+| YEN/USD | 0.00679 |
+| Brent (USD) | 95.737 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 663.00 | 720.50 | 705.00 |
+| MGO | 1060.50 | 1076.50 | 1262.00 |
+| IFO 380 | 397.00 | 400.50 | 401.00 |

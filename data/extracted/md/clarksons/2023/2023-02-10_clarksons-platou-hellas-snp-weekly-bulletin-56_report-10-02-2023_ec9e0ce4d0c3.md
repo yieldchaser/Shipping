@@ -59,3 +59,29 @@ Meantime, our thoughts go to all those in Turkey and Syria who have been tragica
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 602 | + 10 |
+| BCI | 486 | + 34 |
+| BPI | 864 | + 3 |
+| BSI | 628 | - 8 |
+| BHSI | 436 | 0 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.07452 |
+| YEN/USD | 0.00762 |
+| Brent (USD) | 85.454 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 597.00 | 669.00 | 661.00 |
+| MGO | 799.00 | 825.50 | 1145.00 |
+| IFO 380 | 411.50 | 416.50 | 398.50 |

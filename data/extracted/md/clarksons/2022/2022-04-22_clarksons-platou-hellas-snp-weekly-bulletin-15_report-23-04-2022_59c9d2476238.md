@@ -63,3 +63,29 @@ Market supply, however, remains scarce and analysts suggest this week that the c
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | - | - |
+| BCI | - | - |
+| BPI | - | - |
+| BSI | - | - |
+| BHSI | - | - |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.0811 |
+| YEN/USD | 0.00778 |
+| BRENT | 106.20 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 842.50 | 864.50 | 866.50 |
+| MGO | 1277.50 | 1176.00 | 1284.00 |
+| IFO 380 | 639.50 | 751.00 | 736.50 |

@@ -71,3 +71,29 @@ For now, we look set to crawl further into the Autumnal equinox at a snail’s p
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1816 | + 96 |
+| BCI | 2206 | + 277 |
+| BPI | 1995 | - 3 |
+| BSI | 1652 | + 15 |
+| BHSI | 966 | + 14 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 0.98401 |
+| YEN/USD | 0.00699 |
+| Brent (USD) | 88.261 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 660.00 | 708.50 | 707.00 |
+| MGO | 999.00 | 948.50 | 1287.50 |
+| IFO 380 | 438.00 | 404.50 | 424.00 |

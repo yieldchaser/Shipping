@@ -57,3 +57,29 @@ Looking at the individual markets, Bangladesh recyclers are certainly lagging be
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | DEBO | 36,962 | 2002 CROATIA | 9,879 LDT | USD 720 / LDT | U/D |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | - | - |
+| BCI | - | - |
+| BPI | - | - |
+| BSI | - | - |
+| BHSI | - | - |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.08631 |
+| YEN/USD | 0.00796 |
+| BRENT | 111.66 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 849.50 | 868.50 | 883.50 |
+| MGO | 1198.50 | 1175.50 | 1270.00 |
+| IFO 380 | 631.00 | 746.00 | 736.50 |

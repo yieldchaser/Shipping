@@ -63,3 +63,29 @@ Meantime, looking to their counterparts, Bangladesh remains quiet with no real p
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1381 | + 41 |
+| BCI | 1602 | + 90 |
+| BPI | 1656 | + 14 |
+| BSI | 1221 | + 25 |
+| BHSI | 634 | + 10 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.06955 |
+| YEN/USD | 0.00679 |
+| Brent (USD) | 94.38 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 635.00 | 670.50 | 661.00 |
+| MGO | 990.00 | 963.50 | 984.50 |
+| IFO 380 | 603.00 | 564.50 | 546.00 |

@@ -68,3 +68,29 @@ Looking at the markets, India remains the most stable, although are being outbid
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1240 | + 24 |
+| BCI | 2080 | + 89 |
+| BPI | 1127 | - 13 |
+| BSI | 743 | - 8 |
+| BHSI | 455 | - 1 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.0871 |
+| YEN/USD | 0.0069 |
+| Brent (USD) | 79.88 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 5552.00 | 612.50 | 600.50 |
+| MGO | 733.50 | 737.00 | 831.50 |
+| IFO 380 | 491.00 | 457.00 | 441.50 |

@@ -60,3 +60,29 @@ Having seen a continued rise in rates over several weeks, the recycling market h
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 2605 | + 17 |
+| BCI | 2605 | + 1 |
+| BPI | 2874 | + 24 |
+| BSI | 2922 | + 30 |
+| BHSI | 1662 | + 42 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.10645 |
+| YEN/USD | 0.00843 |
+| BRENT | 107.58 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 855.00 | 842.00 | 885.00 |
+| MGO | 1026.50 | 1001.50 | 1171.50 |
+| IFO 380 | 638.50 | 614.50 | 645.00 |

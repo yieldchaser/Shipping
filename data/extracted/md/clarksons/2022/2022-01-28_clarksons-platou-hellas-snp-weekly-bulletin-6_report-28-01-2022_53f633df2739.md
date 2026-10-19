@@ -84,3 +84,29 @@ There are certainly not too many expectations of improved activity in the next c
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1381 | + 79 |
+| BCI | 1075 | + 257 |
+| BPI | 1840 | - 6 |
+| BSI | 1597 | - 16 |
+| BHSI | 1011 | - 6 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| EURO/USD | 1.11799 |
+| YEN/USD | 0.00869 |
+| BRENT | 91.05 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 655.00 | 687.00 | 691.00 |
+| MGO | 787.00 | 793.50 | 833.00 |
+| IFO 380 | 511.00 | 548.00 | 527.00 |
