@@ -1894,3 +1894,25 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-09-29,39,,Gas Carrier,2,"174,000 cbm","Hanwha Ocean, S. Korea",2029,UK (Zodiac Maritime),$ 250.0m,,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,,RoRo,2,"6,700",ceu,"HD Hyundai, S. Korea",2029,Luxembourg based (CLdN),$ 121.5m,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,,Passenger,2,"1,400",pax,"CMI Weihai, China",2030,Swedish (Stena RoRo AB),undisclosed,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
+2026-10-06,40,,Bulker,1,"211,000 dwt","Tangshan Dajin Offshore Engineering, China",2029-2030,Greek (Evalend),$ 77.5m,"scrubber fitted, option exercise",intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Bulker,4,"64,500 dwt","Taizhou Sanfu Ship Engineering, China",2030-2031,Thai (Precious Shipping),$ 35.5m,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Bulker,3,"64,500 dwt","COSCO HI Zhoushan, China",2030,Greek (Almi Marine),undisclosed,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Tanker,2,"306,000 dwt","Hengli Shipbuilding, China",2028,Monaco Based (Scorpio Tankers),$ 135.0m,scrubber fitted,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Tanker,4,"157,000 dwt","Penglai Zhongbai Jinglu Shipyard, China",2029-2030,Singaporean (X-Press Feeders),undisclosed,scrubber fitted,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Tanker,1,"157,000 dwt","New Times Shipbuilding, China",2029,Greek (Akrotiri Tankers),$ 84.4m,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Tanker,2,"114,000 dwt","Jiangsu New Hantong, China",2029,Monaco Based (Scorpio Tankers),$ 72.8m,scrubber fitted,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Tanker,6+2,"114,000 dwt","Jiangsu Haifeng Shipbuilding, China",2029-2030,Chinese (YZ) Maritime),undisclosed,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Tanker,2,"114,000 dwt","Imabari Shipbuilding, Japan",2029-2030,Greek (Carlova Maritime),undisclosed,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Containership,2,"1,900 teu","CSSC Huangpu Wenchong, China",2029,Chinese (Erasmus Shipinvest),$ 32.0m,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Containership,10+20,"1,324 teu",Hubei Guangji Green Energy Shipbuilding,2029,Greek (Contships),$ 28.0m,"340 reefer plugs, Tier III NOx",intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Gas Carrier,2,"174,000 cbm","Samsung HI, S. Korea",2029,Japanese (K Line),$ 247.5m,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Gas Carrier,2,"88,000 cbm","Samsung HI, S. Korea",2030,US based (JP Morgan),$ 113.0m,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,MPP/Hvy Lift,8,"60,000 dwt","COSCO HI Dalian, China",2029-2030,Chinese (Cosco Shipping),$ 48.9m,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,MPP/Hvy Lift,6,"60,000 dwt","Huanghai Shipbuilding, China",2029-2030,Chinese (Cosco Shipping),undisclosed,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-13,41,,Bulker,4+2,"82,000 dwt","Jiangsu Watts Energy, China",2029-2030,Chinese (Yangzijiang Maritime),undisclosed,,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,,Bulker,1,"65,000 dwt","Nam Trieu Shipbuilding, Vietnam",2028,Vietnamese (Hoa Phat Shipping),undisclosed,,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,,Bulker,4,"64,000 dwt","New Dayang Shipbuilding, China",2029-2030,Taiwanese (U-Ming Marine),undisclosed,,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,,Tanker,4,"50,000 dwt","GSI Nansha, China",2029-2030,Greek (Top Ships),undisclosed,,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,,Gas Carrier,2,"93,000 cbm","Hengli Shipbuilding, China",2028,Bermuda based (SFL Corporation),$ 108.0m,LPG/Ammonia,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,,Gas Carrier,3,"90,000 cbm","Hengli Shipbuilding, China",2029,UAE (Adnoc),$ 108.0m,,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,,PCC,2,"7,100",ceu,"Yantai CIMC Raffles, China",2030,Norwegian (NOCC),undisclosed,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf

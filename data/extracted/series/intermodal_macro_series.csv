@@ -4817,3 +4817,43 @@ issue_date,report_week,category,indicator,latest_value,prior_value,wow_change_pc
 2026-09-29,39,Currencies,$ INDEX,100.97,101.29,0.7%,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,Commodities,Brent,104.3,103.9,0.4%,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,Commodities,WTI,92.4,100.3,-7.9%,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
+2026-10-06,40,Bonds,10year US Bond,5.277,5.234,1.9%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Stock Indices,S&P 500,7722.72,7666.45,-0.3%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Stock Indices,Nasdaq,30807.93,30501.56,0.7%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Stock Indices,Dow Jones,51176.96,50926.56,-1.3%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Stock Indices,FTSE 100,10461.95,10428.27,-2.2%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Stock Indices,FTSE All-Share UK,5650.59,5633.2,-2.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Stock Indices,CAC40,7897.19,7835.31,-2.2%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Stock Indices,Xetra Dax,25231.2,24939.35,-0.7%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Stock Indices,Nikkei,68309.46,68956.72,2.9%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Stock Indices,Hang Seng,23972.29,24613.27,-2.2%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Stock Indices,DJ US Maritime,452.56,438.09,7.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Currencies,€ / $,1.13,1.12,-1.2%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Currencies,£ / $,1.32,1.32,-0.1%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Currencies,$ / ¥,157.83,158.07,0.4%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Currencies,$ / NoK,9.61,9.62,1.2%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Currencies,Yuan / $,6.7,6.7,-0.1%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Currencies,Won / $,1342.53,1358.78,-0.8%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Currencies,$ INDEX,101.93,102.1,1.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Commodities,Brent,102.3,104.3,-2.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Commodities,WTI,91.1,92.4,-1.4%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-13,41,Bonds,10year US Bond,5.244,5.233,-0.6%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Stock Indices,S&P 500,7811.54,7765.36,1.2%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Stock Indices,Nasdaq,30883.15,30725.81,0.2%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Stock Indices,Dow Jones,51654.95,51231.64,0.9%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Stock Indices,FTSE 100,10552.05,10441.6,0.9%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Stock Indices,FTSE All-Share UK,5693.9,5634.04,0.8%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Stock Indices,CAC40,7803.33,7729.69,-1.2%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Stock Indices,Xetra Dax,25087.27,24806.97,-0.6%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Stock Indices,Nikkei,69030.92,69042.11,1.1%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Stock Indices,Hang Seng,24211.35,23785.79,1.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Stock Indices,DJ US Maritime,447.24,453.35,-1.2%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Currencies,€ / $,1.12,1.12,-0.5%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Currencies,£ / $,1.32,1.32,-0.1%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Currencies,$ / ¥,158.31,157.86,0.3%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Currencies,$ / NoK,9.56,9.56,-0.6%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Currencies,Yuan / $,6.69,6.7,-0.2%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Currencies,Won / $,1340.25,1341.93,-0.2%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Currencies,$ INDEX,102.21,102.14,0.3%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Commodities,Brent,104.7,102.3,2.4%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Commodities,WTI,91.9,91.1,0.8%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf

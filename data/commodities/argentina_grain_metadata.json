@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-20T18:37:52.415885+00:00",
+  "generated_at": "2026-10-19T07:19:49.464119+00:00",
   "publisher": "Secretar\u00eda de Agricultura, Ganader\u00eda y Pesca (MAGyP) / Subsecretar\u00eda de Mercados Agropecuarios",
   "portal_url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/exportaciones/",
-  "total_monthly_points": 55,
+  "total_monthly_points": 57,
   "date_span": [
     "2022-01-01",
-    "2026-07-01"
+    "2026-09-01"
   ],
-  "latest_data_through": "2026-07-01",
+  "latest_data_through": "2026-09-01",
   "ports_tracked": [
     "BAHIA BLANCA",
     "NECOCHEA",
@@ -33,10 +33,10 @@
     ]
   },
   "latest_observation": {
-    "date": "2026-07-01",
-    "total_exports_mt": 8.101,
-    "up_river_parana_mt": 6.644,
-    "ocean_deepwater_mt": 1.457,
-    "up_river_share_pct": 82.01
+    "date": "2026-09-01",
+    "total_exports_mt": 8.529,
+    "up_river_parana_mt": 6.712,
+    "ocean_deepwater_mt": 1.817,
+    "up_river_share_pct": 78.69
   }
 }

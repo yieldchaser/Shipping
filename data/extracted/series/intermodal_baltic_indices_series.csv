@@ -1254,3 +1254,13 @@ issue_date,report_week,index_name,index_current,tce_usd_day_current,index_prev,t
 2026-09-29,39,BPI,2407.0,21662.0,2251.0,20262.0,156.0,6.9%,1476.0,1561.0,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,BSI,1786.0,20545.0,1767.0,20298.0,19.0,1.2%,1127.0,1238.0,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,BHSI,1011.0,18190.0,988.0,17776.0,23.0,2.3%,661.0,702.0,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
+2026-10-06,40,BDI,3148.0,,3426.0,,-278.0,,1677.0,1743.0,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,BCI,5042.0,42228.0,5784.0,48954.0,-742.0,-13.7%,2566.0,2696.0,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,BPI,2372.0,21349.0,2407.0,21662.0,-35.0,-1.4%,1476.0,1561.0,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,BSI,1789.0,20585.0,1786.0,20545.0,3.0,0.2%,1127.0,1238.0,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,BHSI,1007.0,18117.0,1011.0,18190.0,-4.0,-0.4%,661.0,702.0,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-13,41,BDI,2917.0,,3148.0,,-231.0,,1677.0,1743.0,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,BCI,4340.0,35860.0,5042.0,42228.0,-702.0,-15.1%,2566.0,2696.0,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,BPI,2424.0,21813.0,2372.0,21349.0,52.0,2.2%,1476.0,1561.0,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,BSI,1814.0,20895.0,1789.0,20585.0,25.0,1.5%,1127.0,1238.0,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,BHSI,996.0,17926.0,1007.0,18117.0,-11.0,-1.1%,661.0,702.0,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf

@@ -3188,3 +3188,27 @@ issue_date,report_week,sector,vessel_type,size,price_current_usd_m,price_previou
 2026-09-29,39,Gas,LNG 174k cbm,,246.5,247.0,-0.2%,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,Gas,MGC LPG 55k cbm,,85.5,85.0,0.6%,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,Gas,SGC LPG 25k cbm,,61.5,61.0,0.8%,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
+2026-10-06,40,Bulkers,Newcastlemax,205k,79.5,79.5,0.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Bulkers,Capesize,180k,76.5,76.5,0.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Bulkers,Kamsarmax,82k,38.5,38.5,0.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Bulkers,Ultramax,63k,36.0,35.5,1.4%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Bulkers,Handysize,38k,31.0,31.0,0.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Tankers,VLCC,300k,131.0,131.0,0.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Tankers,Suezmax,160k,90.0,90.0,0.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Tankers,Aframax,115k,79.0,78.5,0.6%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Tankers,MR,50k,52.5,52.0,1.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Gas,LNG 174k cbm,,246.0,246.5,-0.2%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Gas,MGC LPG 55k cbm,,85.5,85.5,0.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Gas,SGC LPG 25k cbm,,61.5,61.5,0.0%,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-13,41,Bulkers,Newcastlemax,205k,79.5,79.5,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Bulkers,Capesize,180k,76.5,76.5,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Bulkers,Kamsarmax,82k,38.5,38.5,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Bulkers,Ultramax,63k,36.0,36.0,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Bulkers,Handysize,38k,31.0,31.0,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Tankers,VLCC,300k,131.0,131.0,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Tankers,Suezmax,160k,90.0,90.0,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Tankers,Aframax,115k,79.0,79.0,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Tankers,MR,50k,52.5,52.5,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Gas,LNG 174k cbm,,246.0,246.0,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Gas,MGC LPG 55k cbm,,85.5,85.5,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Gas,SGC LPG 25k cbm,,61.5,61.5,0.0%,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf

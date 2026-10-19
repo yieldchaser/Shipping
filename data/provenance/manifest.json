@@ -274,23 +274,23 @@
     },
     {
       "series_id": "commodities_usda_grain_vessel_loading_queues",
-      "display_name": "Commodities \u2014 Usda Grain Vessel Loading Queues",
+      "display_name": "USDA AMS Grain Vessel Loading Queues (Gulf & PNW)",
       "status": "LIVE",
-      "source_name": "USDA Agricultural Marketing Service",
-      "source_url": "https://www.ams.usda.gov",
-      "fetch_method": "PDF/XLSX Parse",
-      "fetch_script": "scripts/scrapers/fetch_usda_grains.py",
+      "source_name": "USDA Agricultural Marketing Service (AMS)",
+      "source_url": "https://www.ams.usda.gov/services/transportation-analysis/gtr-datasets",
+      "fetch_method": "GTR Table 19 Structured Excel Harvester",
+      "fetch_script": "scripts/scrapers/fetch_usda_grain_queues.py",
       "output_file": "data/commodities/usda_grain_vessel_loading_queues.csv",
-      "row_count": 3306,
+      "row_count": 3314,
       "date_span": [
         "1995-01-04",
-        "2026-09-10"
+        "2026-10-08"
       ],
-      "last_fetched_utc": "2026-10-18T09:23:55Z",
-      "unit": "Vessels / MT",
+      "last_fetched_utc": "2026-10-19T07:17:25.997850+00:00",
+      "unit": "Vessels",
       "is_derived": false,
       "derivation": null,
-      "notes": "Sourced via scripts/scrapers/fetch_usda_grains.py."
+      "notes": "Weekly grain vessel queue depths (in port, loaded past 7 days, due next 10 days) with ISO date sorting."
     },
     {
       "series_id": "commodities_usda_us_vs_brazil_landed_costs",
@@ -2105,6 +2105,26 @@
       "is_derived": false,
       "derivation": null,
       "notes": "Sourced via scripts/build_views.py."
+    },
+    {
+      "series_id": "commodities_usda_grain_vessel_loading",
+      "display_name": "USDA AMS Grain Vessel Loading Activity (31-Year History)",
+      "status": "LIVE",
+      "source_name": "USDA Agricultural Marketing Service (AMS)",
+      "source_url": "https://www.ams.usda.gov/services/transportation-analysis/gtr-datasets",
+      "fetch_method": "GTR Table 19 Structured Excel Harvester",
+      "fetch_script": "scripts/scrapers/fetch_usda_grain_queues.py",
+      "output_file": "data/commodities/usda_grain_vessel_loading.csv",
+      "row_count": 3314,
+      "date_span": [
+        "1995-01-04",
+        "2026-10-08"
+      ],
+      "last_fetched_utc": "2026-10-19T07:17:25.997850+00:00",
+      "unit": "Vessels",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Weekly port region grain ocean vessel activity (Gulf & PNW) in ISO format (YYYY-MM-DD) from 1995 through September 2026."
     }
   ],
   "datasets": [
@@ -2176,12 +2196,12 @@
       "fetch_method": "MAGyP Official Port Loading Harvester",
       "fetch_script": "scripts/scrapers/fetch_argentina_grain.py",
       "output_file": "data/commodities/argentina_grain_exports_monthly.csv",
-      "row_count": 55,
+      "row_count": 57,
       "date_span": [
         "2022-01-01",
-        "2026-07-01"
+        "2026-09-01"
       ],
-      "last_fetched_utc": "2026-09-20T18:37:52.451488+00:00",
+      "last_fetched_utc": "2026-10-19T07:19:49.517660+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,

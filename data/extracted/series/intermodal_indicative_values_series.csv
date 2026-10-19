@@ -2359,3 +2359,21 @@ issue_date,report_week,sector,vessel_class,age_profile,price_usd_m_current,price
 2026-09-29,39,Bulker,Kamsarmax 82K,5Y,41.9,40.8,2.8%,32.3,36.6,32.0,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,Bulker,Ultramax 63k,5Y,39.0,38.5,1.3%,31.3,34.4,29.5,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,Bulker,Handysize 37K,5Y,31.0,31.0,0.0%,25.9,27.6,25.1,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
+2026-10-06,40,Tanker,VLCC 300KT DH,5Y,215.0,167.0,28.7%,115.5,113.0,99.5,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Tanker,Suezmax 150KT DH,5Y,130.0,130.0,0.0%,76.5,81.0,71.5,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Tanker,Aframax 110KT DH,5Y,85.0,85.0,0.0%,63.6,71.0,64.4,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Tanker,LR1 75KT DH,5Y,67.0,60.0,11.7%,47.9,53.8,49.2,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Tanker,MR 52KT DH,5Y,52.0,50.0,4.0%,41.4,45.8,41.4,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Bulker,Capesize Eco 180k,5Y,75.0,74.5,0.7%,63.1,62.0,48.8,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Bulker,Kamsarmax 82K,5Y,42.0,41.9,0.3%,32.3,36.6,32.0,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Bulker,Ultramax 63k,5Y,39.0,39.0,0.0%,31.3,34.4,29.5,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,Bulker,Handysize 37K,5Y,31.0,31.0,0.0%,25.9,27.6,25.1,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-13,41,Tanker,VLCC 300KT DH,5Y,215.0,167.0,28.7%,115.5,113.0,99.5,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Tanker,Suezmax 150KT DH,5Y,130.0,130.0,0.0%,76.5,81.0,71.5,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Tanker,Aframax 110KT DH,5Y,85.0,85.0,0.0%,63.6,71.0,64.4,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Tanker,LR1 75KT DH,5Y,67.0,60.0,11.7%,47.9,53.8,49.2,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Tanker,MR 52KT DH,5Y,52.0,50.0,4.0%,41.4,45.8,41.4,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Bulker,Capesize Eco 180k,5Y,75.5,74.5,1.3%,63.1,62.0,48.8,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Bulker,Kamsarmax 82K,5Y,42.0,41.9,0.3%,32.3,36.6,32.0,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Bulker,Ultramax 63k,5Y,39.0,39.0,0.0%,31.3,34.4,29.5,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,Bulker,Handysize 37K,5Y,31.5,31.0,1.6%,25.9,27.6,25.1,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
