@@ -525,8 +525,9 @@ def render_md(p: Path, charts: list, commentary: list, meta: dict) -> str:
         ""
     ]
 
-    if meta.get("warnings"):
-        L += ["**Extraction Notes**: " + "; ".join(meta["warnings"]), ""]
+    notes = [w for w in meta.get("warnings") or [] if "legend swatch" not in w]  # those described dropped value columns
+    if notes:
+        L += ["**Extraction Notes**: " + "; ".join(notes), ""]
 
     if commentary:
         L += ["## Market Commentary", ""]
@@ -544,23 +545,12 @@ def render_md(p: Path, charts: list, commentary: list, meta: dict) -> str:
             title = ch.get("title") or f"Chart {i}"
             L += [f"### Chart {i}: {title}", ""]
             
-            # Series summary
-            ser = ch.get("series", [])
-            if not ser:
-                L += ["*(No numeric vector series found)*", ""]
-                continue
-            
-            weeks = [s["weeks"] for s in ser]
-            n = max((len(w) for w in weeks), default=0)
-            hdr = ["week"] + [f'{s["label"] or "Series " + str(idx+1)}' for idx, s in enumerate(ser)]
-            L.append("| " + " | ".join(hdr) + " |")
-            L.append("|" + "---|" * len(hdr))
-            for j in range(n):
-                wv = next((w[j] for w in weeks if j < len(w) and w[j] is not None), None)
-                wk = "" if wv is None else str(wv)
-                cells = [str(s["values"][j]) if j < len(s["values"]) else "" for s in ser]
-                L.append("| " + wk + " | " + " | ".join(cells) + " |")
-            L.append("")
+            # Legend names only. The polyline values are pixel-resolution reads (71% of week values
+            # disagreed between reports by up to 1-2 $/t, 2026-10-19), and the corpus keeps chart
+            # values only when exact, so no value table is written.
+            names = [s["label"] for s in ch.get("series", []) if s["label"]]
+            if names:
+                L += ["Series: " + "; ".join(names), ""]
 
     return "\n".join(L)
 
