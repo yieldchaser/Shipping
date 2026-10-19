@@ -145,7 +145,7 @@ Supramax 10TC averaged \$ 15,114/day up +2.13% w-o-w, while the Handysize 7TC av
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | C. PROSPERITY | 313,525 | 2009 | HYUNDAI, S. Korea | MAN-B\&W | Jun-24 | DH | region $ 52.5m | Greek |
+| VLCC | C. PROSPERITY | 313,525 | 2009 | HYUNDAI, S. Korea | MAN-B\&W | Jun-24 | DH | region $ 52,5m | Greek |
 | MR2 | DIGNITY | 50,392 | 2010 | GSI, China | MAN-B\&W | Apr-25 | DH | region $ 29.0m | undisclosed |
 | MR2 | CSC PROGRESS | 45,791 | 2007 | JINLING, China | MAN-B\&W | Nov-26 | DH | $ 21.5m | European |
 

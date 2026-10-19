@@ -217,33 +217,40 @@ In the Supramax sector we had the sale of the "BAO PROGRESS" (56,729dwt-blt '11,
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | NORDIC MOON | 160,200 | 2002 | SAMSUNG, S. Korea | B&amp;W | Aug-22 | DH | $ 16.0m | undisclosed |  |
-| AFRA | SEA BEECH | 106,138 | 2003 | TSUNEISHI, Japan | B&amp;W | Nov-23 | DH | $ 16.0m | undisclosed |  |
-| MR2 | CYGNUS | 51,218 | 2007 | STX, S. Korea | MAN-B&amp;W | Aug-26 | DH | rgn $ 15.0m | German (Leonhardt &amp; Blumberg) | BWTS fitted |
-| MR2 | SEXTANS | 51,215 | 2007 | STX, S. Korea | MAN-B&amp;W | May-27 | DH | rgn $ 15.0m | German (Leonhardt &amp; Blumberg) | BWTS fitted |
-| Bulk Carriers |  |  |  |  |  |  |  |  |  |  |
+| SUEZ | NORDIC MOON | 160,200 | 2002 | SAMSUNG, S. Korea | B&W | Aug-22 | DH | $ 16.0m | undisclosed |  |
+| AFRA | SEA BEECH | 106,138 | 2003 | TSUNEISHI, Japan | B&W | Nov-23 | DH | $ 16.0m | undisclosed |  |
+| MR2 | CYGNUS | 51,218 | 2007 | STX, S. Korea | MAN-B&W | Aug-26 | DH | rgn $ 15.0m | German (Leonhardt & Blumberg) | BWTS fitted |
+| MR2 | SEXTANS | 51,215 | 2007 | STX, S. Korea | MAN-B&W | May-27 | DH | rgn $ 15.0m | German (Leonhardt & Blumberg) | BWTS fitted |
+
+## Bulk Carriers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CAPE | HL PRIDE | 179,656 | 2016 | DALIAN, China | MAN-B&W | Jul-26 |  | low mid $ 45.0m | US based (JP Morgan) | BWTS fitted |
+| KMAX | IZABELLA M | 79,200 | 2011 | COSCO DALIAN, China | MAN-B&W | Aug-26 | 4 X 35t CRANES | undisclosed | undisclosed | geared |
+| UMAX | TRITON SWAN | 61,457 | 2012 | IWAGI, Japan | MAN-B&W | Nov-25 | 4 X 30,5t CRANES | undisclosed | HK based |  |
+| SUPRA | BAO PROGRESS | 56,729 | 2011 | JIANGDONG, China | MAN-B&W | Jan-26 | 4 X 30t CRANES | $ 17.6m | Greek | BWTS fitted |
+| HANDY | ANNE METTE BULKER | 38,118 | 2012 | NAIKAI ZOSEN, Japan | MAN-B&W | Feb-27 | 4 X 30t CRANES | $ 23.0m | Turkish (Deval) |  |
+| HANDY | ANSAC COLUMBIA | 37,993 | 2017 | SHIMANAMI, Japan | MAN-B&W | Mar-27 | 4 X 30,5t CRANES | high $ 28.0m | undisclosed | BWTS fitted |
 
 © Intermodal Research 14/06/2022 4
 
 ---
 
 # Intermodal Secondhand Sales
-## Secondhand Sales
-
-| Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | ARCHIMIDIS | 8,266 | 2006 | DAEWOO, S.Korea | Sulzer | Apr-25 |  | $ 130.0m (en bloc) | Swiss (MSC) |
-| POST PMAX | AGAMEMNON | 8,266 | 2007 | DAEWOO, S. Korea | Wartsila | Sep-24 |  | $ 130.0m (en bloc) | Swiss (MSC) |
-| POST PMAX | SEAMAX GREENWICH | 8,238 | 2004 | HYUNDAI, S. Korea | MAN-B\&amp;W | Nov-24 |  | $ 300.0m (en bloc) | Swiss (MSC) |
-| POST PMAX | SEAMAX FAIRFIELD | 8,208 | 2006 | HYUNDAI, S. Korea | MAN-B\&amp;W |  |  | $ 300.0m (en bloc) | Swiss (MSC) |
-| POST PMAX | SEAMAX NEW HAVEN | 8,084 | 2005 | SAMSUNG, S. Korea | Sulzer | Sep-25 |  | $ 300.0m (en bloc) | Swiss (MSC) |
-| POST PMAX | SEAMAX DARIEN | 8,063 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Apr-23 |  | $ 300.0m (en bloc) | Swiss (MSC) |
-| POST PMAX | SEAMAX BRIDGEPORT | 8,063 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Mar-23 |  | $ 300.0m (en bloc) | Swiss (MSC) |
-| POST PMAX | LYON II | 6,627 | 2001 | HANJIN HI, S. Korea | B\&amp;W | Jun-26 |  | undisclosed | Swiss (MSC) |
-| POST PMAX | PARIS II | 6,627 | 2001 | HANJIN HI, S. Korea | B\&amp;W | Apr-26 |  | undisclosed | Swiss (MSC) |
+## Containers
+| Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| POST PMAX | ARCHIMIDIS | 8,266 | 2006 | DAEWOO, S.Korea | Sulzer | Apr-25 |  | $ 130.0m | Swiss (MSC) |  |
+| POST PMAX | AGAMEMNON | 8,266 | 2007 | DAEWOO, S. Korea | Wartsila | Sep-24 |  | $ 130.0m | Swiss (MSC) |  |
+| POST PMAX | SEAMAX GREENWICH | 8,238 | 2004 | HYUNDAI, S. Korea | MAN-B&W | Nov-24 |  | $ 300.0m | Swiss (MSC) |  |
+| POST PMAX | SEAMAX FAIRFIELD | 8,208 | 2006 | HYUNDAI, S. Korea | MAN-B&W |  |  | $ 300.0m | Swiss (MSC) |  |
+| POST PMAX | SEAMAX NEW HAVEN | 8,084 | 2005 | SAMSUNG, S. Korea | Sulzer | Sep-25 |  | $ 300.0m | Swiss (MSC) |  |
+| POST PMAX | SEAMAX DARIEN | 8,063 | 2003 | SAMSUNG, S. Korea | B&W | Apr-23 |  | $ 300.0m | Swiss (MSC) |  |
+| POST PMAX | SEAMAX BRIDGEPORT | 8,063 | 2003 | SAMSUNG, S. Korea | B&W | Mar-23 |  | $ 300.0m | Swiss (MSC) |  |
+| POST PMAX | LYON II | 6,627 | 2001 | HANJIN HI, S. Korea | B&W | Jun-26 |  | undisclosed | Swiss (MSC) |  |
+| POST PMAX | PARIS II | 6,627 | 2001 | HANJIN HI, S. Korea | B&W | Apr-26 |  | undisclosed | Swiss (MSC) |  |
 
 © Intermodal Research 14/06/2022 5
 

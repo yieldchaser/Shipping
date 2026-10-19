@@ -206,9 +206,9 @@ In the Ultramax sector we had the sale of the "ATLANTIC MONTERREY" (63,590dwt-bl
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR1 | NAUTICAL DEBORAH | 75,343 | 2018 | Jiangsu Hantong, China | MAN-B\&amp;W | Jul-23 | DH | $ 153.0m (en bloc) | Turkish | Scrubber fitted, bss TC attached |
-| LR1 | NAUTICAL SARAH | 75,144 | 2019 | Jiangsu Hantong, China | MAN-B\&amp;W | Apr-24 | DH | $ 153.0m (en bloc) | Turkish | Scrubber fitted, bss TC attached |
-| LR1 | NAUTICAL JANINE | 75,111 | 2019 | Jiangsu Hantong, China | MAN-B\&amp;W | Jan-24 | DH | $ 153.0m (en bloc) | Turkish | Scrubber fitted, bss TC attached |
+| LR1 | NAUTICAL DEBORAH | 75,343 | 2018 | Jiangsu Hantong, China | MAN-B\&amp;W | Jul-23 | DH | $ 153.0m | Turkish | Scrubber fitted, bss TC attached |
+| LR1 | NAUTICAL SARAH | 75,144 | 2019 | Jiangsu Hantong, China | MAN-B\&amp;W | Apr-24 | DH | $ 153.0m | Turkish | Scrubber fitted, bss TC attached |
+| LR1 | NAUTICAL JANINE | 75,111 | 2019 | Jiangsu Hantong, China | MAN-B\&amp;W | Jan-24 | DH | $ 153.0m | Turkish | Scrubber fitted, bss TC attached |
 | MR2 | VALLE BIANCA | 50,633 | 2007 | SPP, S. Korea | Wartsila | Oct-27 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
 | MR2 | VALVERDE | 50,344 | 2008 | SPP, S. Korea | Wartsila | Apr-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
 | MR2 | VALROSSA | 50,344 | 2008 | SPP, S. Korea | Wartsila | Mar-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |

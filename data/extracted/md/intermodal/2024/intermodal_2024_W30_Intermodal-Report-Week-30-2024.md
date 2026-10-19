@@ -183,8 +183,8 @@ Supramax 10TC averaged \$ 15,206/day up +2.27% w-o-w, while the Handysize 7TC av
 | SUPRA | HEILAN CRUISER | 56,922 | 2012 | SHANGHAI SHIPYARD, China | MAN-B\&W | Dec-26 | 4 X 35t CRANES | $ 14.2m | Chinese (Haitong) |  |
 | SUPRA | IONIC STORM | 56,032 | 2005 | MITSUI CHIBA, Japan | MAN-B\&W | Dec-25 | 4 X 30t CRANES | $ 13.3m | Greek |  |
 | HANDY | LIFE PASSION | 37,332 | 2018 | NANJING DONGZE, China | WinGD | October 2028 | 4 X 30t CRANES | $ 22.0m | German |  |
-| HANDY | LAGO DI CANCANO | 37,666 | 2014 | QINGSHAN, China | MAN-B\&W | Jan-29 | 4 X 30,5t CRANES | $ 37.0m (en bloc) | undisclosed | Eco, Ice Class 1C |
-| HANDY | LAGO DI COMO | 37,653 | 2014 | QINGSHAN, China | MAN-B\&W | Jun-29 | 4 X 30,5t CRANES | $ 37.0m (en bloc) | undisclosed | Eco, Ice Class 1C |
+| HANDY | LAGO DI CANCANO | 37,666 | 2014 | QINGSHAN, China | MAN-B\&W | Jan-29 | 4 X 30,5t CRANES | $ 37.0m | undisclosed | Eco, Ice Class 1C |
+| HANDY | LAGO DI COMO | 37,653 | 2014 | QINGSHAN, China | MAN-B\&W | Jun-29 | 4 X 30,5t CRANES | $ 37.0m | undisclosed | Eco, Ice Class 1C |
 | HANDY | SEA SMILE | 38,109 | 2012 | SHIMANAMI, Japan | MAN-B\&W | Apr-27 | 4 X 30,5t CRANES | $ 17.0m | Chinese |  |
 
 ## Secondhand Sales
@@ -192,8 +192,8 @@ Supramax 10TC averaged \$ 15,206/day up +2.27% w-o-w, while the Handysize 7TC av
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLGC | VICTORIA LYRA | 58,677 | 2008 | HYUNDAI HEAVY INDS - U, S. Korea | MAN-B\&W | Apr-28 | 80,623 | $ 60.0m | undisclosed |  |
-| VLGC | KEEGAN NO. 1 | 55,075 | 2020 | JIANGNAN SHIPYARD, China | MAN-B\&W | Oct-25 | 82,396 | $ 185.0m (en bloc) | U.S.A. (JP Morgan) | Eco, Scrubber fitted |
-| VLGC | KEEGAN NO. 2 | 55,065 | 2020 | JIANGNAN SHIPYARD, China | MAN-B\&W | Dec-25 | 82,373 | $ 185.0m (en bloc) | U.S.A. (JP Morgan) | Eco, Scrubber fitted |
+| VLGC | KEEGAN NO. 1 | 55,075 | 2020 | JIANGNAN SHIPYARD, China | MAN-B\&W | Oct-25 | 82,396 | $ 185.0m | U.S.A. (JP Morgan) | Eco, Scrubber fitted |
+| VLGC | KEEGAN NO. 2 | 55,065 | 2020 | JIANGNAN SHIPYARD, China | MAN-B\&W | Dec-25 | 82,373 | $ 185.0m | U.S.A. (JP Morgan) | Eco, Scrubber fitted |
 | VLGC | SC COMMANDER LVII | 49,723 | 1999 | MITSUBISHI NAGASAKI, Japan | Mitsubishi | Dec-27 | 76,929 | $ 43.0m | undisclosed |  |
 
 ---

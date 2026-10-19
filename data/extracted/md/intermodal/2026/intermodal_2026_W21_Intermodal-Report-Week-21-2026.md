@@ -170,8 +170,8 @@ Handysize markets eased overall. Atlantic activity was muted, particularly in th
 | SUPRA | SUMAQ QUEEN | 51,052 | 2017 | IMABARI, Japan | MAN B\&W | Mar-27 | 4 X 30,5t CRANES | $ 25.0m | Greek | OHBS, Eco |
 | POST PMAX | LOWLANDS DAWN | 93,500 | 2017 | OSHIMA, Japan | MAN B\&W | Jun-27 |  | $ 31.0m | Indian | Eco, TC attached |
 | KMAX | THE PATRON | 79,444 | 2010 | JINHAI, China | MAN B\&W | Jul-30 |  | $ 13.2m | undisclosed |  |
-| UMAX | QIAN DAO HU | 63,398 | 2017 | SAINTY, China | MAN B\&W | Jun-27 | 4 X 30t CRANES | $ 49,66m (en bloc) | Turkish | Eco, via online bidding platform |
-| UMAX | MO GAN SHAN | 63,326 | 2014 | SAINTY, China | MAN B\&W | Dec-29 | 4 X 30t CRANES | $ 49,66m (en bloc) | Turkish | Eco, via online bidding platform |
+| UMAX | QIAN DAO HU | 63,398 | 2017 | SAINTY, China | MAN B\&W | Jun-27 | 4 X 30t CRANES | $ 49,66m | Turkish | Eco, via online bidding platform |
+| UMAX | MO GAN SHAN | 63,326 | 2014 | SAINTY, China | MAN B\&W | Dec-29 | 4 X 30t CRANES | $ 49,66m | Turkish | Eco, via online bidding platform |
 | UMAX | BELTIGER | 63,025 | 2017 | NEW TIMES, China | MAN B\&W | Jan-27 | 4 X 30t CRANES | $ 26.8m | undisclosed | Eco |
 | SUPRA | SEA AFFLUENCE | 56,741 | 2012 | JIANGSU HANTONG, China | MAN B\&W | Apr-30 | 4 X 36t CRANES | low $ 15,0m | undisclosed | Tier II |
 | HANDY | AP ZATON | 37,729 | 2010 | JIANGSU EASTERN, China | Wartsila | Feb-30 | 4 X 30t CRANES | $ 11.0m | undisclosed | Ice class 1C |

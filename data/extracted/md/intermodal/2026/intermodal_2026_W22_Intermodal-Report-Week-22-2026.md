@@ -165,8 +165,8 @@ Secondhand Sales
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | EHIME QUEEN | 181,221 | 2016 | IMABARI, Japan | MAN B\&W | Jul-31 |  | $ 57.5m | Chinese | Eco, Scrubber fitted |
-| MINI CAPE | LOWLANDS AMBER | 100,309 | 2021 | OSHIMA, Japan | MAN B\&W | Jan-31 |  | $ 75.8m (en bloc) | Asyad Shipping | Eco |
-| MINI CAPE | LOWLANDS CRIMSON | 100,309 | 2020 | OSHIMA, Japan | MAN B\&W | Oct-30 |  | $ 75.8m (en bloc) | Asyad Shipping | Eco |
+| MINI CAPE | LOWLANDS AMBER | 100,309 | 2021 | OSHIMA, Japan | MAN B\&W | Jan-31 |  | $ 75.8m | Asyad Shipping | Eco |
+| MINI CAPE | LOWLANDS CRIMSON | 100,309 | 2020 | OSHIMA, Japan | MAN B\&W | Oct-30 |  | $ 75.8m | Asyad Shipping | Eco |
 | SUPRA | TIANJIN VENTURE | 53,600 | 2009 | CHENGXI, China | MAN B\&W | Sep-29 | 4 X 36t CRANES | $ 12.2m | undisclosed |  |
 | HANDY | SEACON COLOMBO | 40,400 | 2026 | JIANGSU DAJIN, China | MAN-B\&W |  | 4 X 30.5t CRANE | $ 35.6m | Middle Eastern | Eco |
 

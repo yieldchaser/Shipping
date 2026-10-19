@@ -183,8 +183,8 @@ Supramax 10TC averaged \$ 9,506/day, down -14.36% w-o-w, while the Handysize 7TC
 
 | Type | Name | Dwt | Yard | M/E | SS | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | GLOBAL SCORPIO | 58,814 | 2003 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-23 | 80,530 | $ 47.5m | undisclosed |
-| LPG | KOETA NO. 3 | 3,752 | 2014 | KITANIHON, Japan | Mitsubishi | May-24 | 3,448 | undisclosed | Japanese (Nippon Gas Lines) |
+| LPG | GLOBAL SCORPIO | 58,814 | HYUNDAI, S. Korea | MAN-B&W | MAN-B\&amp;W | Jul-23 | $ 47.5m | undisclosed | dely with DD due |
+| LPG | KOETA NO. 3 | 3,752 | KITANIHON, Japan | Mitsubishi | Mitsubishi | May-24 | undisclosed | Japanese (Nippon Gas Lines) |  |
 
 ---
 

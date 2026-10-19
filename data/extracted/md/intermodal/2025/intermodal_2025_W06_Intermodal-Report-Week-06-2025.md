@@ -153,17 +153,15 @@ Supramax 10TC averaged \$ 5,934/day up +3.70% w-o-w, while the Handysize 7TC ave
 
 Secondhand Sales
 
-## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | FPMC C INTELIGENCE | 301,861 | 2010 | IHI, Japan | Wartsila | Apr-25 | DH | high $ 40s | Chinese | Scrubber fitted |
+| VLCC | FPMC C INTELLIGENCE | 301,861 | 2010 | IHI, Japan | Wartsila | Apr-25 | DH | high $ 40s | Chinese | Scrubber fitted |
 | SMALL | ALMA MARINE | 9,057 | 2010 | TITAN QUANZHOU, China | MAN | Mar-28 | DH | $ 8.5m | Turkish | Marine line |
 
-## Bulk Carriers
-| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | ROSE | 76,619 | 2008 | SHIN KASADO, Japan | MAN-B\&amp;W | Apr-28 |  | $ 10.8m | Chinese |
-| UMAX | SAGAR KANTA | 60,835 | 2013 | Oshima Shipbuilding Co Ltd | MAN-B\&amp;W | Mar-28 | 4 X 30t CRANES | $ 19.0m | Indonesian |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PMAX | ROSE | 76,619 | 2008 | SHIN KASADO, Japan | MAN-B&W | Apr-28 |  | $ 10.8m | Chinese |  |
+| UMAX | SAGAR KANTA | 60,835 | 2013 | Oshima Shipbuilding Co Ltd | MAN-B&W | Mar-28 | 4 X 30t CRANES | $ 19.0m | Indonesian |  |
 
 ---
 

@@ -159,9 +159,9 @@ Supramax 10TC averaged \$ 12,082/day down -8.14% w-o-w, while the Handysize 7TC 
 | POST PMAX | POTINA | 93,183 | 2011 | JNS, China | MAN-B\&amp;W | Jul-26 |  | region high $ 13.0m | Chinese |  |
 | POST PMAX | CAPTAIN MIKE | 87,052 | 2005 | IHI, Japan | Sulzer | Sep-25 |  | $ 13.0m each | Chinese (Fujian Ocean) |  |
 | POST PMAX | IOANNIS M | 87,052 | 2005 | IHI, Japan | Sulzer | Mar-28 |  | $ 13.0m each | Chinese (Fujian Ocean) |  |
-| KMAX | CL SINGAPORE | 81,323 | 2016 | JINLING, China | MAN-B\&amp;W | Jan-26 |  | region $ 68.0m (en bloc) | undisclosed | Eco, via Chinese online bidding platform |
-| KMAX | CL TIANJING | 81,315 | 2016 | JINLING, China | MAN-B\&amp;W | Mar-26 |  | region $ 68.0m (en bloc) | undisclosed | Eco, via Chinese online bidding platform |
-| KMAX | CL RIZHAO | 81,296 | 2015 | JINLING, China | MAN-B\&amp;W | Aug-26 |  | region $ 68.0m (en bloc) | undisclosed | Eco, via Chinese online bidding platform |
+| KMAX | CL SINGAPORE | 81,323 | 2016 | JINLING, China | MAN-B\&amp;W | Jan-26 |  | region $ 68.0m | undisclosed | Eco, via Chinese online bidding platform |
+| KMAX | CL TIANJING | 81,315 | 2016 | JINLING, China | MAN-B\&amp;W | Mar-26 |  | region $ 68.0m | undisclosed | Eco, via Chinese online bidding platform |
+| KMAX | CL RIZHAO | 81,296 | 2015 | JINLING, China | MAN-B\&amp;W | Aug-26 |  | region $ 68.0m | undisclosed | Eco, via Chinese online bidding platform |
 | KMAX | ENERGY SUNRISE | 81,793 | 2014 | TSUNEISHI, Japan | MAN-B\&amp;W | Jun-29 |  | $ 23.5m | Greek |  |
 | SUPRA | HONG BO 6 | 56,880 | 2011 | YANGFAN, China | MAN-B\&amp;W | Nov-26 | 4 X 36t CRANES | $ 14.0m | Chinese |  |
 | HANDY | ARCTIC OCEAN | 36,009 | 2010 | SAMJIN, China | MAN-B\&amp;W | Aug-25 | 4 X 35t CRANES | $ 11.6m | Middle Eastern | Tier II |

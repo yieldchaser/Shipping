@@ -159,7 +159,7 @@ Supramax 10TC averaged \$ 12,617/day up +8.69% w-o-w, while the Handysize 7TC av
 | NEWCASTLEMAX | PACIFIC ASSURANCE | 207,842 | 2014 | IMABARI, Japan | MAN-B\&W | Nov-26 |  | $ 48.5m | Korean (PanOcean) | BWTS fitted, ECO |
 | CAPE | TRUE CARTIER | 181,380 | 2014 | IMABARI, Japan | MAN-B\&W | Jul-24 |  | $ 41.0m | German (Oldendorff) | BWTS & Scrubber fitted, ECO |
 | CAPE | SEALINK | 180,116 | 2010 | DAEHAN, S. Korea | MAN-B\&W | Nov-25 |  | $ 31.0m | U.A.E. based | BWTS & Scrubber fitted |
-| CAPE | HOUSTON | 177,729 | 2009 | SHANGHAI JIANGGANG, China | MAN-B\&W | Oct-24 |  | $ 23.3m | undisclosed | BWTS fitted, bss September delivery and DD due in October |
+| CAPE | HOUSTON | 177,729 | 2009 | SHANGHAI JIANGANG, China | MAN-B\&W | Oct-24 |  | $ 23.3m | undisclosed | BWTS fitted, bss September delivery and DD due in October |
 | POST PMAX | CMB POMEROL | 95,731 | 2012 | IMABARI, Japan | MAN-B\&W | Jan-27 |  | $ 21.0m | Greek | BWTS fitted |
 | POST PMAX | CONRAD OLDENDORFF | 93,039 | 2010 | TAIZHOU KOUAN, China | MAN-B\&W | Jan-25 |  | $ 16.5m | Greek | BWTS & Scrubber fitted |
 | KMAX | THE PROSPERITY | 81,922 | 2017 | TSUNEISHI ZHOUSHAN, China | MAN-B\&W | Jan-27 |  | $ 31.5m | European | BWTS fitted, ECO |

@@ -210,23 +210,31 @@ In the Handysize sector we had the sale of the "MAPLE AMBITION" (35,513dwt-blt '
 
 # Intermodal Secondhand Sales
 ## Tankers
-
-| Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | HILWAH | 316,808 | 2002 | HYUNDAI ULSAN, S. Korea | B\&W | Dec-22 | DH | $ 37.8m | Chinese |  |
-| LR1 | POLAR UNICORN | 73,956 | 2008 | ONOMICHI, Japan | MAN-B\&W | Jan-23 | DH | high $ 22.0m | undisclosed | BWTS fitted |
-| LR1 | STENA PROVENCE | 65,125 | 2006 | BRODOSPLIT, Croatia | MAN-B\&W | Mar-26 | DH | rgn $ 60,0m (en bloc) | European | BWTS fitted |
-| LR1 | STENA PRIMORSK | 65,079 | 2006 | BRODOSPLIT, Croatia | MAN-B\&W | May-26 | DH | rgn $ 60,0m (en bloc) | European | BWTS fitted |
-| LR1 | STENA PERFORMANCE | 65,065 | 2006 | BRODOSPLIT, Croatia | MAN-B\&W | Jun-26 | DH | rgn $ 60,0m (en bloc) | European | BWTS fitted |
-| MR2 | HIGH ADVENTURER | 49,997 | 2017 | ONOMICHI, Japan | MAN-B\&W | Nov-22 | DH | $ 30.4m | Italian (D' Amico) | purchase option exercised basis delivery within November 2022 |
-| MR2 | SEABRIGHT | 46,159 | 2006 | STX, S. Korea | MAN-B\&W | Nov-26 | DH | rgn $ 18.0m | undisclosed | BWTS fitted |
-| MR1 | SEAMERCURY | 39,634 | 2003 | HYUNDAI MIPO, S. Korea | B\&W | Jun-23 | DH | rgn $ 11.0m | undisclosed | Ice Class 1B |
-| SMALL | AEON | 18,041 | 2012 | ZHEJIANG, China | MAN-B\&W | Jan-26 | DH | $ 13.0m | undisclosed | via commercial auction |
-| SMALL | JUTLANDIA SWAN | 17,998 | 2008 | CICEK, Turkey | Ma K | Jan-23 | DH | $ 24.0m (en bloc) | German (Carl F. Peters) | Ice Class 1A |
-| SMALL | SELANDIA SWAN | 17,998 | 2008 | GISAN, Turkey | Ma K | Feb-23 | DH | $ 24.0m (en bloc) | German (Carl F. Peters) | Ice Class 1A |
-| SMALL | SOL | 11,479 | 2007 | NANTONG,China | MAN-B\&W |  | DH | $ 5.1m | Indian | via commercial auction |
-| SMALL | ORIENTAL FREESIA | 14,383 | 2006 | ASAKAWA, Japan | MAN-B\&W | Feb-25 | DH | $ 11.5m | undisclosed |  |
-| Bulk Carriers |  |  |  |  |  |  |  |  |  |  |
+| VLCC | HILWAH | 316,808 | 2002 | HYUNDAI ULSAN, S. Korea | B&W | Dec-22 | DH | $ 37.8m | Chinese |  |
+| LR1 | POLAR UNICORN | 73,956 | 2008 | ONOMICHI, Japan | MAN-B&W | Jan-23 | DH | high $ 22.0m | undisclosed | BWTS fitted |
+| LR1 | STENA PROVENCE | 65,125 | 2006 | BRODOSPLIT, Croatia | MAN-B&W | Mar-26 | DH | rgn $ 60,0m | European | BWTS fitted |
+| LR1 | STENA PRIMORSK | 65,079 | 2006 | BRODOSPLIT, Croatia | MAN-B&W | May-26 | DH | rgn $ 60,0m | European | BWTS fitted |
+| LR1 | STENA PERFORMANCE | 65,065 | 2006 | BRODOSPLIT, Croatia | MAN-B&W | Jun-26 | DH | rgn $ 60,0m | European | BWTS fitted |
+| MR2 | HIGH ADVENTURER | 49,997 | 2017 | ONOMICHI, Japan | MAN-B&W | Nov-22 | DH | $ 30.4m | Italian (D' Amico) | purchase option exercised basis delivery within November 2022 |
+| MR2 | SEABRIGHT | 46,159 | 2006 | STX, S. Korea | MAN-B&W | Nov-26 | DH | rgn $ 18.0m | undisclosed | BWTS fitted |
+| MR1 | SEAMERCURY | 39,634 | 2003 | HYUNDAI MIPO, S. Korea | B&W | Jun-23 | DH | rgn $ 11.0m | undisclosed | Ice Class 1B |
+| SMALL | AEON | 18,041 | 2012 | ZHEJIANG, China | MAN-B&W | Jan-26 | DH | $ 13.0m | undisclosed | via commercial auction |
+| SMALL | JUTLANDIA SWAN | 17,998 | 2008 | CICEK, Turkey | MaK | Jan-23 | DH | $ 24.0m | German (Carl F. Peters) | Ice Class 1A |
+| SMALL | SELANDIA SWAN | 17,998 | 2008 | GISAN, Turkey | MaK | Feb-23 | DH | $ 24.0m | German (Carl F. Peters) | Ice Class 1A |
+| SMALL | SOL | 11,479 | 2007 | NANTONG,China | MAN-B&W |  | DH | $ 5.1m | Indian | via commercial auction |
+| SMALL | ORIENTAL FREESIA | 14,383 | 2006 | ASAKAWA, Japan | MAN-B&W | Feb-25 | DH | $ 11.5m | undisclosed |  |
+
+## Bulk Carriers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| KMAX | BUENOS AIRES | 83,366 | 2011 | SANOYAS, Japan | MAN-B&W | Dec-26 |  | $ 21.0m | Greek | BWTS fitted |
+| PMAX | NAVIOS CAMELIA | 75,162 | 2009 | HUDONG- ZHONGHUA, China | MAN-B&W | Apr-24 |  | $ 15.0m | undisclosed | BWTS fitted |
+| PMAX | CORAL EMERALD | 75,632 | 2007 | SANOYAS, Japan | MAN-B&W | Jan-26 |  | $ 14.5m | undisclosed | BWTS fitted |
+| SUPRA | LIAN XIN | 52,512 | 2002 | KANASASHI, Japan | Mitsubishi | Jan-27 | 4 X 30,5t CRANES | $ 11.3m | undisclosed | BWTS fitted |
+| HANDY | MAPLE AMBITION | 35,513 | 2015 | TAIZHOU MAPLE, China | MAN-B&W | Oct-25 | 4 X 30,5t CRANES | $ 16.5m | Chinese |  |
+| HANDY | ORTOLAN ALPHA STRAIT | 34,184 | 2010 | SEKO, S. Korea | MAN-B&W | Aug-25 | 4 X 30t CRANES | $ 15.0m | Chinese |  |
 
 © Intermodal Research 20/09/2022 4
 

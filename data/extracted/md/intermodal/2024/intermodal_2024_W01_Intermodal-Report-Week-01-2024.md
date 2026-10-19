@@ -162,8 +162,8 @@ Supramax 10TC averaged \$ 13,827/day while the Handysize 7TC averaged \$ 13,338/
 | POST PMAX | GH HARMONY | 92,500 | 2010 | YANGFAN, China | MAN-B\&W | Feb-25 |  | $ 13.0m | undisclosed | BWTS fitted |
 | POST PMAX | THE EVOLUTION | 88,270 | 2010 | IMABARI, Japan | MAN-B\&W | Apr-28 |  | $ 17.2m | undisclosed | BWTS fitted |
 | KMAX | TOMINI BRAVERY | 81,027 | 2015 | JINLING, China | MAN-B\&W | Feb-25 |  | $ 24.5m | Greek | BWTS fitted |
-| UMAX | XING HE HAI | 61,473 | 2016 | COSCO DALIAN, China | MAN-B\&W | Mar-26 | 4 X 30t CRANES | $ 52.5m (en bloc) | Chinese | Eco, Domestic sale |
-| UMAX | XING HAO HAI | 61,452 | 2016 | COSCO DALIAN, China | MAN-B\&W | Mar-26 | 4 X 30t CRANES | $ 52.5m (en bloc) | Chinese | Eco, Domestic sale |
+| UMAX | XING HE HAI | 61,473 | 2016 | COSCO DALIAN, China | MAN-B\&W | Mar-26 | 4 X 30t CRANES | $ 52.5m | Chinese | Eco, Domestic sale |
+| UMAX | XING HAO HAI | 61,452 | 2016 | COSCO DALIAN, China | MAN-B\&W | Mar-26 | 4 X 30t CRANES | $ 52.5m | Chinese | Eco, Domestic sale |
 | SUPRA | SW PROSPEROUS | 57,480 | 2012 | STX, S. Korea | MAN-B\&W | Aug-27 | 4 X 36t CRANES | region $ 16.5m | UAE based | BWTS fitted |
 | SUPRA | IKAN PARANG | 56,618 | 2011 | TAIZHOU KOUAN, China | Mitsubishi | Dec-25 | 4 X 30t CRANES | $ 11.9m | Far Eastern | BWTS fitted |
 | SUPRA | ELGIZNUR CEBI | 57,305 | 2009 | STX, S. Korea | MAN-B\&W | Mar-24 | 4 X 35t CRANES | $ 13.2m | undisclosed | BWTS fitted |

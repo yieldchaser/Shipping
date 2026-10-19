@@ -228,12 +228,12 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 | SMAX | SEACON 6 | 57,000 | 2012 | NINGBO BEILUN, China | MAN-B&amp;W | Jun-22 | 4 X 30t CRANES | $ 15.3m | Chinese | online auction |
 | SMAX | MEDI OKINAWA | 56,118 | 2011 | MITSUI, Japan | MAN-B&amp;W | Oct-25 | 4 X 30t CRANES | excess $ 22.0m | Bangladeshi | BWTS fitted |
 | SMAX | SPRING HAWK | 55,688 | 2010 | MITSUI, Japan | MAN-B&amp;W | May-25 | 4 X 30t CRANES | $ 21.5m | Asian | BWTS fitted, delivery November-December 2021 |
-| HANDY | NEW FACE | 38,242 | 2017 | SHIN KOCHI, Japan | MAN-B&amp;W | Mar-22 | 4 X 30t CRANES | $ 52.0m (en bloc) | Greek |  |
-| HANDY | NEW DAYS | 38,230 | 2017 | SHIN KOCHI, Japan | MAN-B&amp;W | Jan-22 | 4 X 30t CRANES | $ 52.0m (en bloc) | Greek |  |
+| HANDY | NEW FACE | 38,242 | 2017 | SHIN KOCHI, Japan | MAN-B&amp;W | Mar-22 | 4 X 30t CRANES | $ 52.0m | Greek |  |
+| HANDY | NEW DAYS | 38,230 | 2017 | SHIN KOCHI, Japan | MAN-B&amp;W | Jan-22 | 4 X 30t CRANES | $ 52.0m | Greek |  |
 | HANDY | NEW INSPIRATION | 36,334 | 2013 | SHIKOKU, Japan | MAN-B&amp;W | May-23 | 4 X 30,5t CRANES | $ 20.6m | UK based (Tufton Oceanic) |  |
 | HANDY | NEW HISTORY | 36,332 | 2013 | SHIKOKU, Japan | MAN-B&amp;W | Feb-23 | 4 X 30t CRANES | $ 20.6m | UK based (Tufton Oceanic) |  |
-| HANDY | EOS ESPERANCE | 33,686 | 2012 | SHIN KURUSHIMA, Japan | Mitsubishi | May-22 | 4 X 30t CRANES | $ 35.0m (en bloc) | Chinese | OHBS, BWTS fitted |
-| HANDY | EOS VICTORY | 33,686 | 2012 | SHIN KURUSHIMA, Japan | Mitsubishi | Aug-22 | 4 X 30t CRANES | $ 35.0m (en bloc) | Chinese | OHBS, BWTS fitted |
+| HANDY | EOS ESPERANCE | 33,686 | 2012 | SHIN KURUSHIMA, Japan | Mitsubishi | May-22 | 4 X 30t CRANES | $ 35.0m | Chinese | OHBS, BWTS fitted |
+| HANDY | EOS VICTORY | 33,686 | 2012 | SHIN KURUSHIMA, Japan | Mitsubishi | Aug-22 | 4 X 30t CRANES | $ 35.0m | Chinese | OHBS, BWTS fitted |
 | HANDY | MEL PRIDE | 32,260 | 1999 | KANDA, Japan | Mitsubishi | Jan-22 | 4 X 30t CRANES | low-mid $ 8.0m | undisclosed |  |
 
 © Intermodal Research 05/10/2021 4

@@ -202,11 +202,21 @@ In the Supramax sector we had the sale of the "ADITYA" (55,496dwt-blt '08, Japan
 ---
 
 # Intermodal Secondhand Sales
-## Secondhand Sales
+## Tankers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | MAYA VN | 318,778 | 2003 | HYUNDAI SAMHO, S. Korea | MAN-B&W | Apr-23 | DH | rgn $ 27.0m | Chinese |  |
+| LR1 | CABO MISAKI | 74,177 | 2017 | SUNGDONG, S. Korea | MAN-B&W | Mar-22 | DH | rgn 32.0m | Chilean |  |
+| LR1 | CABO KAMUI | 74,214 | 2016 | SUNGDONG, S. Korea | MAN-B&W | Nov-21 | DH | rgn $ 31.0m | Chilean |  |
+| MR | MAERSK ERIK | 40,083 | 2008 | SLS, S. Korea | MAN-B&W | Jan-23 | DH | rgn 12.0m | French (Socatra) |  |
+| SMALL | TIGER SINGAPORE | 13,083 | 2009 | 21ST CENTURY, S. Korea | MAN-B&W | Mar-24 | DH | rgn 6.0m | Chinese |  |
 
-| Tankers Size VLCC LR1 LR1 MR SMALL | Tankers Name MAYA VN CABO MISAKI CABO KAMUI MAERSK ERIK TIGER SINGAPORE | Tankers Dwt 318,778 74,177 74,214 40,083 13,083 |
-| --- | --- | --- |
-| Bulk Carriers |  |  |
+## Bulk Carriers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| UMAX | LOWLANDS BEACON | 61,400 | 2011 | IWAGI ZOSEN, Japan | MAN-B&W | Apr-22 | 4 X 30.7t CRANES | rgn $ 21.0m | Vietnamese |  |
+| SMAX | ADITYA | 55,496 | 2008 | OSHIMA, Japan | MAN-B&W | Feb-23 | 4 X 30t CRANES | $ 16.5m | Norwegian | bss delivery September- October |
+| HANDY | MARATHA PROMISE | 37,187 | 2012 | SAIKI JUKOGYO, Japan | Mitsubishi | Mar-22 | 4 X 30t CRANES | $ 16.5m | undisclosed |  |
 
 © Intermodal Research 10/08/2021 4
 

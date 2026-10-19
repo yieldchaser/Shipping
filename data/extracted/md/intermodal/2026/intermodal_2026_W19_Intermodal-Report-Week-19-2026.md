@@ -155,8 +155,8 @@ In the Handysize segment, sentiment was cautiously positive but fragile. Europe 
 | POST PMAX | YANGZE 902 | 93,225 | 2012 | JIANGSU NEWYANGZI, China | MAN B\&W | Jan-27 |  | $ 13.0m | undisclosed | TC until end '26 |
 | KMAX | MANDY MORN | 82,612 | 2008 | TSUNEISHI ZHOUSHAN, China | MAN B\&W | Oct-28 |  | $ 14.0m | undisclosed |  |
 | KMAX | AVALON | 81,565 | 2011 | SUNGDONG, S. Korea | MAN B\&W | Jul-26 |  | high $ 17,0m | Chinese |  |
-| UMAX | HUAYANG ROSE | 63,562 | 2016 | CHINA SHIPPING JIANGSU, China | MAN B\&W | Jun-26 | 4 X 35t CRANES | $ 50.4m (en bloc) | Chinese | Eco |
-| UMAX | HUAYANG LILY | 63,553 | 2016 | CHINA SHIPPING JIANGSU, China | MAN B\&W | Jun-26 | 4 X 30t CRANES | $ 50.4m (en bloc) | Chinese | Eco |
+| UMAX | HUAYANG ROSE | 63,562 | 2016 | CHINA SHIPPING JIANGSU, China | MAN B\&W | Jun-26 | 4 X 35t CRANES | $ 50.4m | Chinese | Eco |
+| UMAX | HUAYANG LILY | 63,553 | 2016 | CHINA SHIPPING JIANGSU, China | MAN B\&W | Jun-26 | 4 X 30t CRANES | $ 50.4m | Chinese | Eco |
 | SUPRA | XING NING HE | 53,208 | 2009 | ZHEJIANG, China | MAN B\&W | Jan-29 | 4 X 35t CRANES | $ 11.0m | undisclosed |  |
 | HANDY | INTERLINK FORTUITY | 40,083 | 2017 | TAIZHOU KOUAN, China | MAN B\&W | May-27 | 4 X 30t CRANES | $ 21.6m | German | Ice 1C, Eco |
 

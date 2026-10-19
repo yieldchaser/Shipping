@@ -148,7 +148,7 @@ Supramax 10TC averaged \$ 8,224/day, down -0.71% w-o-w, while the Handysize 7TC 
 ## **Tankers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | BEACON HILL | 47,278 | 2005 | ONOMIACHI, Japan | B\&W | Jan-25 | DH | $ 19.0m | undisclosed | BWTS fitted |
+| MR2 | BEACON HILL | 47,278 | 2005 | ONOMICHI, Japan | B\&W | Jan-25 | DH | $ 19.0m | undisclosed | BWTS fitted |
 | MR2 | YONGSHENG OCEAN | 44,970 | 1997 | HALLA ENG, S. Korea | B\&W | Jun-27 | DH | $ 7.2m | undisclosed | BWTS fitted |
 | MR1 | SAMPURNA SWARAJYA | 32,950 | 1999 | HYUNDAI, S. Korea | MAN-B\&W | Jan-24 | DH | $ 4.22m | UAE based | at auction in India, dely 'as is' Ennore with DD due |
 
@@ -165,8 +165,7 @@ Supramax 10TC averaged \$ 8,224/day, down -0.71% w-o-w, while the Handysize 7TC 
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUB | MAERSK |  |  | KVAERNER WARNOW WERFT, Germany | B\&W |  |  | $ 8.0m | Greek (Rethymnis and Kulukundis) | SS/DD due |
-| PMAX | PENANG | 2,890 | 1998 |  |  |  |  |  |  |  |
+| SUB PMAX | MAERSK PENANG | 2,890 | 1998 | KVAERNER WARNOW WERFT, Germany | B\&W |  |  | $ 8.0m | Greek (Rethymnis and Kulukundis) | SS/DD due |
 
 ---
 

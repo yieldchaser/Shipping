@@ -213,24 +213,23 @@ In the Kamsarmax sector we had the sale of the "AROUZU" (82,113dwt-blt '12, Japa
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
-| Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | ORIENT ANGEL | 176,859 | 2007 | NAMURA, Japan | MAN-B\&amp;W | Jun-25 |  | undisclosed | Turkish |  |
-| POST PMAX | PELLONIA | 93,386 | 2010 | Jiangsu, China | MAN-B\&amp;W | Mar-25 |  | $ 17.2m | undisclosed | BWTS fitted |
-| POST PMAX | JIN LANG | 93,280 | 2010 | Jiangsu, China | MAN-B\&amp;W | Apr-25 |  | $ 34.5m (en bloc) | undisclosed | BWTS fitted, delivery November-December |
-| POST PMAX | JIN MEI | 93,204 | 2010 | Jiangsu, China | MAN-B\&amp;W | Mar-25 |  | $ 34.5m (en bloc) | undisclosed | BWTS fitted, delivery November-December |
-| KMAX | CCS ORCHID | 81,966 | 2017 | Jiangsu, China | MAN-B\&amp;W | Jan-27 |  | $ 54.0m (en bloc) | Chinese | BWTS fitted, eco |
-| KMAX | MSXT HERA | 81,738 | 2018 | CHENGXI, China | MAN-B\&amp;W | Nov-23 |  | $ 54.0m (en bloc) | Chinese | BWTS fitted, eco |
-| KMAX | AROZU | 82,113 | 2012 | TSUNEISHI, Japan | MAN-B\&amp;W | Mar-27 |  | $ 24.5m | Greek | BWTS &amp; Scrubber fitted |
-| PMAX | CABRILLO | 75,200 | 2010 | PENGLAI ZHONGBAI, China | MAN-B\&amp;W | Nov-25 |  | $ 15.75m | undisclosed | BWTS fitted |
-| PMAX | BLUE CHIP | 76,596 | 2007 | IMABARI, Japan | MAN-B\&amp;W | Nov-22 |  | low $ 15.0m | Korean | BWTS fitted, basis DD passed |
-| PMAX | SEAWIND | 75,637 | 2006 | SANOYAS, Japan | MAN-B\&amp;W | May-26 |  | $ 15.2m | undisclosed | BWTS fitted |
-| PMAX | TAI PROSPERITY | 77,747 | 2005 | CHINA SHIPBUILDING KEELUNG, China | MAN-B\&amp;W | Oct-25 |  | abt/mid $ 11.0m | Chinese | BWTS fitted, basis late November dely in China |
-| UMAX | VAN STAR | 61,508 | 2011 | SHIN KASADO, Japan | MAN-B\&amp;W | Dec-25 | 4 X 30,5t CRANES | high $ 21.0m | undisclosed | BWTS fitted |
-| SUPRA | EPIC | 55,651 | 2009 | MITSUI CHIBA, Japan | MAN-B\&amp;W | Jan-27 | 4 X 30t CRANES | $ 18.50m | undisclosed |  |
-| HANDY | BELLE OCEAN | 28,354 | 2014 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Mar-24 | 4 X 30,5t CRANES | $ 15.0m | Greek |  |
-| HANDY | ALAM SERI | 29,562 | 2011 | SHIKOKU, Japan | MAN-B\&amp;W | Mar-26 | 4 X 30,5t CRANES | $ 12.2m | undisclosed | BWTS fitted |
+| CAPE | ORIENT ANGEL | 176,859 | 2007 | NAMURA, Japan | MAN-B&W | Jun-25 |  | undisclosed | Turkish |  |
+| POST PMAX | PELLONIA | 93,386 | 2010 | JIANGSU, China | MAN-B&W | Mar-25 |  | $ 17.2m | undisclosed | BWTS fitted |
+| POST PMAX | JIN LANG | 93,280 | 2010 | JIANGSU, China | MAN-B&W | Apr-25 |  | $ 34.5m | undisclosed | BWTS fitted, delivery November-December |
+| POST PMAX | JIN MEI | 93,204 | 2010 | JIANGSU, China | MAN-B&W | Mar-25 |  | $ 34.5m | undisclosed | BWTS fitted, delivery November-December |
+| KMAX | CCS ORCHID | 81,966 | 2017 | JIANGSU, China | MAN-B&W | Jan-27 |  | $ 54.0m | Chinese | BWTS fitted, eco |
+| KMAX | MSXT HERA | 81,738 | 2018 | CHENGXI, China | MAN-B&W | Nov-23 |  | $ 54.0m | Chinese | BWTS fitted, eco |
+| KMAX | AROUZU | 82,113 | 2012 | TSUNEISHI, Japan | MAN-B&W | Mar-27 |  | $ 24.5m | Greek | BWTS & Scrubber fitted |
+| PMAX | CABRILLO | 75,200 | 2010 | PENGLAI ZHONGBAI, China | MAN-B&W | Nov-25 |  | $ 15.75m | undisclosed | BWTS fitted |
+| PMAX | BLUE CHIP | 76,596 | 2007 | IMABARI, Japan | MAN-B&W | Nov-22 |  | low $ 15.0m | Korean | BWTS fitted, basis DD passed |
+| PMAX | SEAWIND | 75,637 | 2006 | SANOYAS, Japan | MAN-B&W | May-26 |  | $ 15.2m | undisclosed | BWTS fitted |
+| PMAX | TAI PROSPERITY | 77,747 | 2005 | CHINA SHIPBUILDING KEELUNG, China | MAN-B&W | Oct-25 |  | abt/mid $ 11.0m | Chinese | BWTS fitted, basis late November dely in China |
+| UMAX | VAN STAR | 61,508 | 2011 | SHIN KASADO, Japan | MAN-B&W | Dec-25 | 4 X 30,5t CRANES | high $ 21.0m | undisclsosed | BWTS fitted |
+| SUPRA | EPIC | 55,651 | 2009 | MITSUI CHIBA, Japan | MAN-B&W | Jan-27 | 4 X 30t CRANES | $ 18.50m | undisclosed |  |
+| HANDY | BELLE OCEAN | 28,354 | 2014 | I-S SHIPYARD, Japan | MAN-B&W | Mar-24 | 4 X 30,5t CRANES | $ 15.0m | Greek |  |
+| HANDY | ALAM SERI | 29,562 | 2011 | SHIKOKU, Japan | MAN-B&W | Mar-26 | 4 X 30,5t CRANES | $ 12.2m | undisclosed | BWTS fitted |
 
 © Intermodal Research 25/10/2022 4
 
@@ -238,24 +237,23 @@ In the Kamsarmax sector we had the sale of the "AROUZU" (82,113dwt-blt '12, Japa
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | PACIFIC M | 299,546 | 2019 | HYUNDAI, S. Korea | MAN-B&amp;W | Jan-24 | DH | low $ 90.0m | undisclosed | Scrubber fitted, TC attached at below marker rate for another 18 months |
-| VLCC | NEPTUNE M | 299,546 | 2019 | HYUNDAI, S. Korea | MAN-B&amp;W | May-24 | DH | low $ 90.0m | undisclosed | Scrubber fitted, TC attached at below marker rate for another 18 months |
-| VLCC | SHIBLAH | 316,476 | 2003 | HYUNDAI, S. Korea | B&amp;W | Mar-23 | DH | $ 42.3m | Chinese | basis prompt delivery within early November |
-| VLCC | BRILLIANT JEWEL | 305,178 | 2002 | DAEWOO, S. Korea | B&amp;W | Jan-25 | DH | $ 40m | undisclosed |  |
-| AFRA | P. FOS | 115,577 | 2007 | SASEBO, Japan | MAN-B&amp;W | Mar-27 | DH | $ 34.0m | undisclosed | basis delivery November |
-| MR2 | FALCON BAY | 47,147 | 2009 | HYUNDAI, S. Korea | MAN-B&amp;W | Aug-24 | DH | $ 23.0m | Chinese | BWTS fitted |
+| VLCC | PACIFIC M | 299,546 | 2019 | HYUNDAI, S. Korea | MAN-B&W | Jan-24 | DH | low $ 90.0m | undisclosed | Scrubber fitted, TC attached at below marker rate for another 18 months |
+| VLCC | NEPTUNE M | 299,546 | 2019 | HYUNDAI, S. Korea | MAN-B&W | May-24 | DH | low $ 90.0m | undisclosed | Scrubber fitted, TC attached at below marker rate for another 18 months |
+| VLCC | SHIBLAH | 316,476 | 2003 | HYUNDAI, S. Korea | B&W | Mar-23 | DH | $ 42.3m | Chinese | basis prompt delivery within early November |
+| VLCC | BRILLIANT JEWEL | 305,178 | 2002 | DAEWOO, S. Korea | B&W | Jan-25 | DH | $ 40m | undisclosed |  |
+| AFRA | P. FOS | 115,577 | 2007 | SASEBO, Japan | MAN-B&W | Mar-27 | DH | $ 34.0m | undisclosed | basis delivery November |
+| MR2 | FALCON BAY | 47,147 | 2009 | HYUNDAI, S. Korea | MAN-B&W | Aug-24 | DH | $ 23.0m | Chinese | BWTS fitted |
 | J19 | FOREST PARK | 19,803 | 2013 | KITANIHON, Japan | Mitsubishi | Nov-23 | DH | $ 22.0m | undisclosed | St-St |
-| SMALL | DS COUGAR | 12,585 | 2009 | SHITANOE, Japan | MAN-B&amp;W | Sep-24 | DH | $ 13.5m | undisclosed | St-St |
-| SMALL | RF ALICE | 13,273 | 2008 | JINSE, S. Korea | MAN-B&amp;W | Mar-23 | DH | $ 7.1m | Vietnamese |  |
+| SMALL | DS COUGAR | 12,585 | 2009 | SHITANOE, Japan | MAN-B&W | Sep-24 | DH | $ 13.5m | undisclosed | St-St |
+| SMALL | RF ALICE | 13,273 | 2008 | JINSE, S. Korea | MAN-B&W | Mar-23 | DH | $ 7.1m | Vietnamese |  |
 | SMALL | MIS 3 | 3,842 | 2005 | MIURA SAIKI, Japan | Daihatsu | Apr-25 | DH | $ 3.0m | Korean | epoxy coated |
-## Secondhand Sales
 
-| Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
+## Gas/LPG/LNG
+| Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | GAS ARIES | 53,688 | 2016 | JIANGNAN SHIPYARD GROU, China | MAN-B\&amp;W | Mar-26 | 81,429 | Chinese (Cosco Shipping) | undisclosed | eco |
+| LPG | GAS ARIES | 53,688 | 2016 | JIANGNAN SHIPYARD GROU, China | MAN-B&W | Mar-26 | 81,429 | Chinese (Cosco Shipping) | undisclosed | eco |
 
 © Intermodal Research 25/10/2022 5
 

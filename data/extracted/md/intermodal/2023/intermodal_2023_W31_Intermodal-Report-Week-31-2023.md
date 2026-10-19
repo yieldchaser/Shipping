@@ -166,9 +166,9 @@ Supramax 10TC averaged \$ 7,723/day, down -5.39% w-o-w, while the Handysize 7TC 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEO PMAX | YM WARRANTY | 14,220 | 2019 | IMABARI, Japan | MAN-B\&W | Mar-24 |  | $ 306.0m (en bloc) | Taiwanese (Yang Ming Marine Transportation) |
-| NEO PMAX | YM WELLSPRING | 14,220 | 2019 | IMABARI, Japan | MAN-B\&W | Mar-24 |  | $ 306.0m (en bloc) | Taiwanese (Yang Ming Marine Transportation) |
-| NEO PMAX | YM WELLBEING | 14,220 | 2018 | IMABARI, Japan | MAN-B\&W | Oct-23 |  | $ 306.0m (en bloc) | Taiwanese (Yang Ming Marine Transportation) |
+| NEO PMAX | YM WARRANTY | 14,220 | 2019 | IMABARI, Japan | MAN-B\&W | Mar-24 |  | $ 306.0m | Taiwanese (Yang Ming Marine Transportation) |
+| NEO PMAX | YM WELLSPRING | 14,220 | 2019 | IMABARI, Japan | MAN-B\&W | Mar-24 |  | $ 306.0m | Taiwanese (Yang Ming Marine Transportation) |
+| NEO PMAX | YM WELLBEING | 14,220 | 2018 | IMABARI, Japan | MAN-B\&W | Oct-23 |  | $ 306.0m | Taiwanese (Yang Ming Marine Transportation) |
 | FEEDER | ARIANA | 2,732 | 2006 | GDYNIA STOC ZNIA, Poland | MAN-B\&W | Jun-26 | 3 X 45t CRANES | undisclosed | Swiss (MSC) |
 
 ---

@@ -146,26 +146,24 @@ Handysize trading remained largely stable but subdued. European markets lacked f
 
 ---
 
-# Secondhand Sales
-
 ## Tankers
-| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | SEAWAYS GATUN | 47,834 | 2007 | HYUNDAI MIPO, S. Korea | MAN B\&W | Nov-26 | DH | $ 12,5m each | European |
-| MR2 | SEAWAYS HURON | 47,781 | 2007 | HYUNDAI MIPO, S. Korea | MAN B\&W | Jan-27 | DH | $ 12,5m each | European |
-| SMALL | KOBE PIONEER | 3,499 | 2016 | DAE SUN, S. Korea | Hanshin | Apr-26 | DH | $ 13,7m each | European |
-| SMALL | YOKOHAMA PIONEER | 3,499 | 2016 | DAE SUN, S. Korea | Hanshin | May-26 | DH | $ 13,7m each | European |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MR2 | SEAWAYS GATUN | 47,834 | 2007 | HYUNDAI MIPO, S. Korea | MAN B&W | Nov-26 | DH | $ 12,5m each | European |  |
+| MR2 | SEAWAYS HURON | 47,781 | 2007 | HYUNDAI MIPO, S. Korea | MAN B&W | Jan-27 | DH | $ 12,5m each | European |  |
+| SMALL | KOBE PIONEER | 3,499 | 2016 | DAE SUN, S. Korea | Hanshin | Apr-26 | DH | $ 13,7m each | European |  |
+| SMALL | YOKOHAMA PIONEER | 3,499 | 2016 | DAE SUN, S. Korea | Hanshin | May-26 | DH | $ 13,7m each | European |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | ROSEMARY | 179,742 | 2010 | DAEWOO, S. Korea | MAN B\&W | Apr-30 |  | $ 28.5m | Chinese |  |
-| CAPE | MINERAL SUBIC | 179,397 | 2011 | HANJIN, S. Korea | MAN B\&W | May-26 |  | $ 30,25m | Chinese |  |
-| KMAX | FIELD SAGA | 82,908 | 2013 | SANOYAS, Japan | MAN B\&W | Aug-30 |  | $ 20.0m | European |  |
-| PMAX | ANTHOS | 75,120 | 2001 | HITACHI ZOSEN, Japan | B\&W | Jan-26 |  | $ 5.7m | Chinese |  |
-| UMAX | XIANG HANG 57 | 63,500 | 2025 | Jiangsu Soho, China | Mitsubishi | Apr-30 | 4 x 30t CRANE | $ 33.5m | undisclosed | Eco, Scrubber fitted |
+| CAPE | ROSEMARY | 179,742 | 2010 | DAEWOO, S. Korea | MAN B&W | Apr-30 |  | $ 28.5m | Chinese |  |
+| CAPE | MINERAL SUBIC | 179,397 | 2011 | HANJIN, S. Korea | MAN B&W | May-26 |  | $ 30,25m | Chinese |  |
+| KMAX | FJELD SAGA | 82,908 | 2013 | SANOYAS, Japan | MAN B&W | Aug-30 |  | $ 20.0m | European |  |
+| PMAX | ANTHOS | 75,120 | 2001 | HITACHI ZOSEN, Japan | B&W | Jan-26 |  | $ 5.7m | Chinese |  |
+| UMAX | XIANG HANG 57 | 63,500 | 2025 | JIANGSU SOHO, China | Mitsubishi | Apr-30 | 4 x 30t CRANE | $ 33.5m | undisclosed | Eco, Scrubber fitted |
 | SUPRA | XIE HAI YONG FENG | 52,063 | 2001 | SANOYAS, Japan | Sulzer | Sep-26 | 5 X 30t CRANES | $ 6.8m | Chinese |  |
-| SUPRA | ATACAMA QUEEN | 51,213 | 2011 | IMABARI, Japan | MAN B\&W | Feb-26 | 4 X 30,5t CRANES | $ 14.5m | Chinese |  |
+| SUPRA | ATACAMA QUEEN | 51,213 | 2011 | IMABARI, Japan | MAN B&W | Feb-26 | 4 X 30,5t CRANES | $ 14.5m | Chinese |  |
 | HANDY | SEACON MANILA | 33,412 | 2016 | SHIN KOCHI, Japan | Mitsubishi | Mar-26 | 4 X 30t CRANES | $ 17.5m | Greek | Eco |
 | HANDY | VEGA FALKTIND | 31,754 | 2011 | FUJIAN MAWEI, China | Mitsubishi | Mar-26 | 4 X 30t CRANES | $ 8.3m | undisclosed |  |
 

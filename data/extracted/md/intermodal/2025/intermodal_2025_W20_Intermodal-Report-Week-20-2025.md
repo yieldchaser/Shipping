@@ -151,8 +151,8 @@ Handysize rates remained largely stagnant across regions. European markets lacke
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | M. STAR | 313,798 | 2008 | KAWASAKI, Japan | MAN B\&W | Dec-28 | DH | high $ 40s | Chinese | scrubber fitted |
-| SUEZ | CASCADE SPIRIT | 156,853 | 2009 | JIANGSU RONGSHENG, China | MAN B\&W | Jun-29 | DH | $ 75.0m (en bloc) | Nigerian |  |
-| SUEZ | ASPEN SPIRIT | 156,813 | 2009 | JIANGSU RONGSHENG, China | MAN B\&W | Oct-29 | DH | $ 75.0m (en bloc) | Nigerian |  |
+| SUEZ | CASCADE SPIRIT | 156,853 | 2009 | JIANGSU RONGSHENG, China | MAN B\&W | Jun-29 | DH | $ 75.0m | Nigerian |  |
+| SUEZ | ASPEN SPIRIT | 156,813 | 2009 | JIANGSU RONGSHENG, China | MAN B\&W | Oct-29 | DH | $ 75.0m | Nigerian |  |
 | LR1 | CONQUEST | 73,917 | 2006 | NEW TIMES, China | MAN B\&W | Apr-25 | DH | $ 11.0m | undisclosed |  |
 | LR1 | FEDOR | 70,156 | 2003 | HYUNDAI, S. Korea | B\&W | Jul-27 | DH | mid $ 8's | undisclosed |  |
 | MR2 | SEAWAYS FRONTIER | 49,999 | 2007 | HYUNDAI MIPO, S. Korea | MAN B\&W | Dec-27 | DH | region $ 14.0m each | UAE based (GMS) |  |
@@ -163,8 +163,8 @@ Handysize rates remained largely stagnant across regions. European markets lacke
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | THALASSINI AGATHA | 182,307 | 2011 | UNIVERSAL, Japan | MAN B\&W | Jan-26 |  | $ 28.8m | undisclosed | scrubber fitted, Eco |
 | KMAX | MEDI NAGOYA | 81,671 | 2018 | TSUNEISHI CEBU, Philippines | MAN B\&W | Apr-28 |  | region $ 27,5m | Vietnamese | scrubber fitted, Eco |
-| KMAX | THUNDERBIRD | 79,508 | 2011 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  | mid high $ 19,0m (en bloc) | undisclosed |  |
-| KMAX | BONNEVILLE | 79,403 | 2010 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  | mid high $ 19,0m (en bloc) | undisclosed |  |
+| KMAX | THUNDERBIRD | 79,508 | 2011 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  | mid high $ 19,0m | undisclosed |  |
+| KMAX | BONNEVILLE | 79,403 | 2010 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  | mid high $ 19,0m | undisclosed |  |
 | HANDY | SIENA | 32,744 | 2002 | KANDA, Japan | Mitsubishi | Jul-25 | 4 X 30,5t CRANES | $ 5.8m | undisclosed |  |
 
 ---

@@ -160,31 +160,31 @@ The Ultramax and Supramax markets remained under strain, with charterers retaini
 ## **Tankers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | ATLANTAS | 321,300 | 2010 | HYUNDAI, S. Korea | Wartsila | May- 30 | DH | $ 140.0m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | ACHILLEAS | 297,863 | 2010 | UNIVERSAL, Japan | MAN B\&W | Jun-30 | DH | $ 140.0m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | ATLANTAS | 321,300 | 2010 | HYUNDAI, S. Korea | Wartsila | May- 30 | DH | $ 140.0m | S. Korean (Sinokor) |  |
+| VLCC | ACHILLEAS | 297,863 | 2010 | UNIVERSAL, Japan | MAN B\&W | Jun-30 | DH | $ 140.0m | S. Korean (Sinokor) |  |
 | VLCC | OCEANIS | 320,780 | 2011 | SAMSUNG, S. Korea | MAN B\&W | Apr-26 | DH | $ 68.0m | S. Korean (Sinokor) |  |
-| VLCC | DELTA ANGELICA | 319,911 | 2012 | HYUNDAI, S. Korea | MAN B\&W | Jan-27 | DH | $ 160.0m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | DELTA GLORY | 319,819 | 2012 | HYUNDAI, S. Korea | MAN B\&W | Mar-27 | DH | $ 160.0m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | DELTA ANGELICA | 319,911 | 2012 | HYUNDAI, S. Korea | MAN B\&W | Jan-27 | DH | $ 160.0m | S. Korean (Sinokor) |  |
+| VLCC | DELTA GLORY | 319,819 | 2012 | HYUNDAI, S. Korea | MAN B\&W | Mar-27 | DH | $ 160.0m | S. Korean (Sinokor) |  |
 | VLCC | SEAWAYS RAFFLES | 318,325 | 2010 | HYUNDAI, S. Korea | Wartsila | Feb- 30 | DH | undisclosed | S. Korean (Sinokor) |  |
 | VLCC | SEAWAYS KILIMANJARO | 296,999 | 2012 | DALIAN, China | MAN B\&W | Dec-26 | DH | undisclosed | S. Korean (Sinokor) |  |
 | VLCC | NISSOS PSARA | 301,861 | 2011 | IHI, Japan | Wartsila | Feb-26 | DH | $ 68.5m | S. Korean (Sinokor) |  |
-| VLCC | FRONT DEE | 299,999 | 2015 | DAEWOO, S. Korea | MAN B\&W | Sep-25 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | FRONT TAY | 299,999 | 2016 | DAEWOO, S. Korea | MAN B\&W | Jan-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | FRONT SPEY | 299,533 | 2016 | HYUNDAI, S. Korea | Wartsila | May-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | FRONT CLOUD | 299,446 | 2016 | HYUNDAI, S. Korea | Wartsila | Mar-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | FRONT FORTH | 299,392 | 2016 | HYUNDAI, S. Korea | MAN B\&W | Sep-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | FRONT CLYDE | 299,320 | 2016 | HYUNDAI, S. Korea | Wartsila | Jan-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | FRONT OTRA | 299,047 | 2016 | HYUNDAI, S. Korea | B\&W | Jun-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | FRONT OSEN | 298,991 | 2016 | HYUNDAI, S. Korea | MAN B\&W | Aug-26 | DH | $ 831.5m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | DAISHAN | 306,506 | 2007 | DAEWOO, S. Korea | Sulzer | Jun-27 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | HOJO | 302,965 | 2013 | JMU, Japan | MAN B\&W | Apr-28 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | HIRADO | 302,550 | 2011 | UNIVERSAL, Japan | MAN B\&W | May-26 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | DIA | 299,999 | 2015 | DAEWOO, S. Korea | MAN B\&W | Oct-25 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | ANTIGONE | 299,421 | 2015 | HYUNDAI, S. Korea | Wartsila | Sep- 30 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | AEGEAN | 299,011 | 2016 | HYUNDAI, S. Korea | B\&W | Sep-26 | DH | region $ 530m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | FRONT DEE | 299,999 | 2015 | DAEWOO, S. Korea | MAN B\&W | Sep-25 | DH | $ 831.5m | S. Korean (Sinokor) |  |
+| VLCC | FRONT TAY | 299,999 | 2016 | DAEWOO, S. Korea | MAN B\&W | Jan-26 | DH | $ 831.5m | S. Korean (Sinokor) |  |
+| VLCC | FRONT SPEY | 299,533 | 2016 | HYUNDAI, S. Korea | Wartsila | May-26 | DH | $ 831.5m | S. Korean (Sinokor) |  |
+| VLCC | FRONT CLOUD | 299,446 | 2016 | HYUNDAI, S. Korea | Wartsila | Mar-26 | DH | $ 831.5m | S. Korean (Sinokor) |  |
+| VLCC | FRONT FORTH | 299,392 | 2016 | HYUNDAI, S. Korea | MAN B\&W | Sep-26 | DH | $ 831.5m | S. Korean (Sinokor) |  |
+| VLCC | FRONT CLYDE | 299,320 | 2016 | HYUNDAI, S. Korea | Wartsila | Jan-26 | DH | $ 831.5m | S. Korean (Sinokor) |  |
+| VLCC | FRONT OTRA | 299,047 | 2016 | HYUNDAI, S. Korea | B\&W | Jun-26 | DH | $ 831.5m | S. Korean (Sinokor) |  |
+| VLCC | FRONT OSEN | 298,991 | 2016 | HYUNDAI, S. Korea | MAN B\&W | Aug-26 | DH | $ 831.5m | S. Korean (Sinokor) |  |
+| VLCC | DAISHAN | 306,506 | 2007 | DAEWOO, S. Korea | Sulzer | Jun-27 | DH | region $ 530m | S. Korean (Sinokor) |  |
+| VLCC | HOJO | 302,965 | 2013 | JMU, Japan | MAN B\&W | Apr-28 | DH | region $ 530m | S. Korean (Sinokor) |  |
+| VLCC | HIRADO | 302,550 | 2011 | UNIVERSAL, Japan | MAN B\&W | May-26 | DH | region $ 530m | S. Korean (Sinokor) |  |
+| VLCC | DIA | 299,999 | 2015 | DAEWOO, S. Korea | MAN B\&W | Oct-25 | DH | region $ 530m | S. Korean (Sinokor) |  |
+| VLCC | ANTIGONE | 299,421 | 2015 | HYUNDAI, S. Korea | Wartsila | Sep- 30 | DH | region $ 530m | S. Korean (Sinokor) |  |
+| VLCC | AEGEAN | 299,011 | 2016 | HYUNDAI, S. Korea | B\&W | Sep-26 | DH | region $ 530m | S. Korean (Sinokor) |  |
 | VLCC | ADVANTAGE VALUE | 297,557 | 2009 | SHANGHAI JIANGNAN, China | MAN B\&W | Jan-29 | DH | $ 56.0m | S. Korean (Sinokor) |  |
-| VLCC | DESIMI | 296,865 | 2011 | SHANGHAI JIANGNAN, China | MAN B\&W | Sep-26 | DH | $ 136.0m (en bloc) | S. Korean (Sinokor) |  |
-| VLCC | SOLANA | 296,790 | 2010 | SHANGHAI JIANGNAN, China | MAN B\&W | May- 30 | DH | $ 136.0m (en bloc) | S. Korean (Sinokor) |  |
+| VLCC | DESIMI | 296,865 | 2011 | SHANGHAI JIANGNAN, China | MAN B\&W | Sep-26 | DH | $ 136.0m | S. Korean (Sinokor) |  |
+| VLCC | SOLANA | 296,790 | 2010 | SHANGHAI JIANGNAN, China | MAN B\&W | May- 30 | DH | $ 136.0m | S. Korean (Sinokor) |  |
 | SUEZ | ECLIPSE I | 158,933 | 2006 | HYUNDAI, S. Korea | MAN B\&W | Aug-26 | DH | $ 32m net | undisclosed |  |
 | LR2 | STI KINGSWAY | 109,999 | 2015 | SUNGDONG, S. Korea | MAN B\&W | Aug-30 | DH | $ 57.5m | undisclosed | Eco, Scrubber fitted |
 | MR2 | MARITIME TRANQUILITY | 49,999 | 2020 | GSI, China | WinGD | Aug-30 | DH | $ 39.8m each | Greek | Eco |
@@ -194,7 +194,7 @@ The Ultramax and Supramax markets remained under strain, with charterers retaini
 ## **Bulk Carriers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | NORD PALLADIUM | 209,523 | 2021 | SWS, China | MAN B\&W | Apr-26 |  | $ 76.25m | Chinese | Eco, Scrubber fitted |
+| NEWCASTLEMAX | NORD PALLADIUM | 209,523 | 2021 | SWS, China | MAN B\&W | Apr-26 |  | $ 76,25m | Chinese | Eco, Scrubber fitted |
 | CAPE | MINERAL HONSHU | 181,408 | 2012 | KOYO MIHARA, Japan | MAN B\&W | Apr-27 |  | $ 37.7m | Chinese |  |
 | CAPE | KM OSAKA | 180,652 | 2012 | KOYO MIHARA, Japan | MAN B\&W | Jan-27 |  | $ 34.8m | Chinese |  |
 | KMAX | BW MATSUYAMA | 81,810 | 2019 | TSUNEISHI CEBU, Philippines | MAN B\&W | Sep-29 |  | $ 31.0m | Greek | Eco |

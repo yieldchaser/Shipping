@@ -230,8 +230,8 @@ In the Handysize sector we had the sale of the "INTERLINK EQUITY" (37,071dwt-blt
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | VLADIMIR VELIKIY | 159,990 | 2002 | SAMHO, S. Korea | B\&amp;W | Jan-22 | DH | low $ 16.0m | undisclosed |  |
-| LR2 | HHIC-PHIL 169 | 114,000 | 2021 | HHIC, Philippines | MAN-B\&amp;W |  | DH | $ 110.0m (en bloc) | U.S.A. based |  |
-| LR2 | HHIC-PHIL 170 | 114,000 | 2021 | HHIC, Philippines | MAN-B\&amp;W |  | DH | $ 110.0m (en bloc) | U.S.A. based |  |
+| LR2 | HHIC-PHIL 169 | 114,000 | 2021 | HHIC, Philippines | MAN-B\&amp;W |  | DH | $ 110.0m | U.S.A. based |  |
+| LR2 | HHIC-PHIL 170 | 114,000 | 2021 | HHIC, Philippines | MAN-B\&amp;W |  | DH | $ 110.0m | U.S.A. based |  |
 | MR | NAVIG8 TANZANITE | 49,478 | 2016 | STX, S. Korea | MAN-B\&amp;W | Nov-21 | DH | $ 30.7m | undisclosed |  |
 | MR | ADARA | 37,583 | 2011 | HYUNDAI, S. Korea | MAN-B\&amp;W | Apr-26 | DH | $ 15.75m | Greek (Leon Shipping and Trading) | BWTS fitted |
 | MR | GOLD OCEAN | 37,320 | 2007 | STX, S. Korea | MAN-B\&amp;W | Jan-22 | DH | $ 8.8m | undisclosed |  |

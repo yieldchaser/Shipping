@@ -270,8 +270,8 @@ In the Handysize sector we had the sale of the "WUHU" (39,182dwt-blt '14, China)
 | PMAX | IRENES WAVE | 6,039 | 2008 | CSBC CORP, Taiwan | Wartsila | Jan-23 |  | undisclosed | undisclosed |  |
 | FEEDER | IRENES ROSE | 2,553 | 2007 | NAIKAI ZOSEN, Japan | MAN-B\&amp;W | Jan-22 |  | undisclosed | undisclosed |  |
 | FEEDER | ATLANTIC SOLLI | 2,015 | 2008 | ZHEJIANG NINGBO, China | MAN-B\&amp;W | Mar-23 | 3 X 45t CRANES | $ 26.0m | undisclosed |  |
-| FEEDER | VEGA HERCULES | 957 | 2006 | YANGFAN, China | MAN | Apr-26 | 2 X 45t CRANES |  | undisclosed | Greek (Contships) |
-| FEEDER | VEGA JUNO | 957 | 2008 | YANGFAN, China | MAN | Sep-23 | 2 X 45t CRANES |  |  |  |
+| FEEDER | VEGA HERCULES | 957 | 2006 | YANGFAN, China | MAN | Apr-26 | 2 X 45t CRANES | undisclosed | Greek (Contships) |  |
+| FEEDER | VEGA JUNO | 957 | 2008 | YANGFAN, China | MAN | Sep-23 | 2 X 45t CRANES | undisclosed | Greek (Contships) |  |
 | FEEDER | JORK | 868 | 2001 | SIETAS KG, Germany | MaK | Sep-21 |  | $ 13.2m | German |  |
 
 © Intermodal Research 14/12/2021 6

@@ -152,7 +152,7 @@ Supramax 10TC averaged \$ 14,868/day up +0.37% w-o-w, while the Handysize 7TC av
 | MR | BERYL | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Feb-25 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
 | MR | QUARTZ | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Nov-25 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
 | MR | SILVER HAGUE | 49,680 | 2015 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Aug-24 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
-| MR | SILVER ROTTERDAM | 49,680 | 2015 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Aug-24 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
+| MR | SILVER ROTTERDAM | 49,680 | 2015 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Aug-24 | DH | $ 340.0m | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
 | MR | SILVER MONIKA | 49,746 | 2014 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Sep-24 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
 | MR | SILVER EMILY | 49,746 | 2014 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Sep-24 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
 | MR | SILVER AMANDA | 49,746 | 2014 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Jan-25 | DH | $ 340.0m (en bloc) | Danish (Torm) | Cash and Shares Deal, Eco, Silver Hague/ Rotterdam / Amanda/ Carla are Scrubber fitted |
@@ -165,10 +165,10 @@ Supramax 10TC averaged \$ 14,868/day up +0.37% w-o-w, while the Handysize 7TC av
 | POST PMAX | CLAAS OLDENDORFF | 95,750 | 2013 | IMABARI, Japan | MAN-B\&W | Jun-25 |  | $ 27.0m | Indian | Eco, Scrubber fitted |
 | PMAX | THE HOLY | 76,623 | 2001 | IMABARI, Japan | MAN-B\&W | Oct-26 |  | $ 9.2m | undisclosed |  |
 | SUPRA | SEACON YANTAI | 56,944 | 2010 | COSCO ZHOUSHAN, China | MAN-B\&W | Aug-25 | 4 X 30t CRANES | $ 13.8m | Indonesian (PT Primatama Energi Mandiri) |  |
-| HANDY | WESTERN DURBAN | 39,266 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Jun-25 | 4 X 30t CRANES | $ 78.0m (en bloc) | Thai (Precious Shipping) | Eco |
-| HANDY | WESTERN LIMA | 39,000 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Apr-25 | 4 X 30t CRANES | $ 78.0m (en bloc) | Thai (Precious Shipping) | Eco |
-| HANDY | WESTERN MIAMI | 39,000 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Jul-25 | 4 X 30t CRANES | $ 78.0m (en bloc) | Thai (Precious Shipping) | Eco |
-| HANDY | WESTERN PARIS | 38,800 | 2015 | JIANGSU HANTONG, China | MAN-B\&W | Nov-25 | 4 X 30t CRANES | $ 78.0m (en bloc) | Thai (Precious Shipping) | Eco |
+| HANDY | WESTERN DURBAN | 39,266 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Jun-25 | 4 X 30t CRANES | $ 78.0m | Thai (Precious Shipping) | Eco |
+| HANDY | WESTERN LIMA | 39,000 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Apr-25 | 4 X 30t CRANES | $ 78.0m | Thai (Precious Shipping) | Eco |
+| HANDY | WESTERN MIAMI | 39,000 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Jul-25 | 4 X 30t CRANES | $ 78.0m | Thai (Precious Shipping) | Eco |
+| HANDY | WESTERN PARIS | 38,800 | 2015 | JIANGSU HANTONG, China | MAN-B\&W | Nov-25 | 4 X 30t CRANES | $ 78.0m | Thai (Precious Shipping) | Eco |
 
 ## Secondhand Sales
 

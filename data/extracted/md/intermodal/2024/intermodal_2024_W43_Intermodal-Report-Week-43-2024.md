@@ -175,7 +175,7 @@ Supramax 10TC averaged \$ 13,720/day down -0.92% w-o-w, while the Handysize 7TC 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | HERO | 178,076 | 2010 | SWS, China | MAN-B\&W | Jun-25 |  | region $ 26.0m | Chinese |  |
+| CAPE | HERO | 178,076 | 2010 | SWS, China | MAN-B\&W | Jun-25 |  | region $ 26,0m | Chinese |  |
 | UMAX | GREENWICH PIONEER | 63,674 | 2020 | NANTONG XIANGYU, China | MAN-B\&W | Aug-25 | 4 X 35t CRANES | excess $ 32.0m | undisclosed | Eco |
 | SUPRA | VIRONO PRIDE | 58,761 | 2009 | TSUNEISHI CEBU, Philippines | MAN-B\&W | Jan-27 | 4 X 30t CRANES | low $ 15.0m | Chinese |  |
 | SUPRA | MEDI BANGKOK | 53,466 | 2006 | IMABARI, Japan | MAN-B\&W | Oct-25 | 4 X 31t CRANES | $ 11.8m | undisclosed |  |

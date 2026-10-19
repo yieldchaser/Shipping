@@ -198,7 +198,7 @@ Secondhand Sales
 | NEWCASTLEMAX | PANORAMIX | 203,512 | 2007 | CSBC, Taiwan | MAN-B\&amp;W | Jan-27 |  | $ 28.0m | Chinese | old sale/delivered |
 | KMAX | RU MENG LING | 81,487 | 2010 | UNIVERSAL, Japan | MAN-B\&amp;W | Apr-25 |  | mid $ 15.0m | Greek |  |
 | KMAX | BETTYS DREAM | 82,641 | 2008 | TSUNEISHI, Japan | MAN-B\&amp;W | Dec-25 |  | $ 12.8m | Chinese |  |
-| SUPRA | QING DAO GANG DA GANG | 56,444 | 2012 | QINGSHAN, China | MAN-B\&amp;W | Jun-27 | 4 X 30t CRANES | about $ 12,.2m |  | via Chinese bidding platform (RMB 94,34mil) |
+| SUPRA | QING DAO GANG DA GANG | 56,444 | 2012 | QINGSHAN, China | MAN-B\&amp;W | Jun-27 | 4 X 30t CRANES | about $ 12,.2m | via Chinese bidding platform (RMB 94,34mil) | via Chinese bidding platform (RMB 94,34mil) |
 
 ---
 

@@ -251,7 +251,7 @@ In the Ultramax sector we had the sale of the "CL EBISU" (61,330dwt-blt '14, Jap
 
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| RUI HAI 1 | 6,175 | 1998 | SANYO ONOMICHI, Japan | Akasaki | Jan-27 | 2 X 30,7t CRANES, 1 X 30t DERRICKS | $ 2.5m | undisclosed | BWTS fitted |
+| RUI HAI 1 | 6,175 | 1998 | SANYO ONOMICHI, Japan | Akasaka | Jan-27 | 2 X 30,7t CRANES, 1 X 30t DERRICKS | $ 2.5m | undisclosed | BWTS fitted |
 
 © Intermodal Research 25/04/2023 5
 

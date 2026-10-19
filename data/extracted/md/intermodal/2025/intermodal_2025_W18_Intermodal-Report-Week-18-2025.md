@@ -144,8 +144,8 @@ Secondhand Sales
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | IRIS | 314,000 | 2012 | HYUNDAI, S. Korea | Wartsila | Feb-27 | DH | undisclosed | Japanese (Modec) | Conversion project, Scrubber fitted |
-| VLCC | HAKONE | 302,624 | 2010 | UNIVERSAL, Japan | MAN B\&W | Nov-25 | DH | region $ 116,0m (en bloc) | UAE based | Scrubber fitted |
-| VLCC | HAKATA | 302,550 | 2010 | UNIVERSAL, Japan | MAN B\&W | Mar-28 | DH | region $ 116,0m (en bloc) | UAE based | Scrubber fitted |
+| VLCC | HAKONE | 302,624 | 2010 | UNIVERSAL, Japan | MAN B\&W | Nov-25 | DH | region $ 116,0m | UAE based | Scrubber fitted |
+| VLCC | HAKATA | 302,550 | 2010 | UNIVERSAL, Japan | MAN B\&W | Mar-28 | DH | region $ 116,0m | UAE based | Scrubber fitted |
 | VLCC | PACIFIC LOYALTY | 307,284 | 2006 | DALIAN, China | Wartsila | Dec-26 | DH | $ 42.0m | Chinese |  |
 | MR1 | ZAGARA | 37,320 | 2002 | STX, S. Korea | MAN B\&W | Apr-27 | DH | $ 8.0m | undisclosed |  |
 

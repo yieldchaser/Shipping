@@ -253,10 +253,10 @@ In the Handysize sector we had the auction sale of the "MARINE PRINCESS" (35,501
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | BALTIC BRIDGE | 7,471 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-25 |  | $ 350.0m (en bloc) | Swiss (MSC) | end Jan-2022 deal |
-| PMAX | BALTIC SOUTH | 4,432 | 2010 | HYUNDAI ULSAN, S. Korea | Wartsila | Aug-25 |  | $ 350.0m (en bloc) | Swiss (MSC) | end Jan-2022 deal |
-| PMAX | NORTH BRIDGE | 4,298 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Feb-23 |  | $ 350.0m (en bloc) | Swiss (MSC) | end Jan-2022 deal |
-| PMAX | SINGAPORE BRIDGE | 4,253 | 2002 | SAMSUNG, S. Korea | B\&amp;W | Dec-22 |  | $ 350.0m (en bloc) | Swiss (MSC) | end Jan-2022 deal |
+| POST PMAX | BALTIC BRIDGE | 7,471 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-25 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
+| PMAX | BALTIC SOUTH | 4,432 | 2010 | HYUNDAI ULSAN, S. Korea | Wartsila | Aug-25 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
+| PMAX | NORTH BRIDGE | 4,298 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Feb-23 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
+| PMAX | SINGAPORE BRIDGE | 4,253 | 2002 | SAMSUNG, S. Korea | B\&amp;W | Dec-22 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
 | FEEDER | SAG GOOD TIMING | 1,118 | 2009 | TAIZHOU KOUAN, China | MAN | Mar-24 | 2 X 45t CRANES | $ 22.0m | undisclosed |  |
 
 © Intermodal Research 08/02/2022 5

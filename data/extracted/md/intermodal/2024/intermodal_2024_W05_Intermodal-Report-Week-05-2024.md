@@ -162,8 +162,8 @@ Supramax 10TC averaged \$ 11,589/day up +0.6% w-o-w, while the Handysize 7TC ave
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | QING MAY | 206,117 | 2012 | SWS, China | MAN-B\&W | Aug-24 |  | $ 73.0m (en bloc) | Chinese (Winning) | BWTS, Scrubber fitted |
-| NEWCASTLEMAX | LAN MAY | 206,007 | 2011 | SWS, China | MAN-B\&W | Jul-24 |  | $ 73.0m (en bloc) | Chinese (Winning) | BWTS, Scrubber fitted |
+| NEWCASTLEMAX | QING MAY | 206,117 | 2012 | SWS, China | MAN-B\&W | Aug-24 |  | $ 73.0m | Chinese (Winning) | BWTS, Scrubber fitted |
+| NEWCASTLEMAX | LAN MAY | 206,007 | 2011 | SWS, China | MAN-B\&W | Jul-24 |  | $ 73.0m | Chinese (Winning) | BWTS, Scrubber fitted |
 | CAPE | NEW DELIGHT | 181,279 | 2012 | IMABARI, Japan | MAN-B\&W | Jul-27 |  | $ 30.95m | Chinese (Jinhui) | BWTS fitted |
 | CAPE | GUO MAY | 176,536 | 2011 | SWS, China | MAN-B\&W | Feb-26 |  | region $ 26.5m | Greek | BWTS fitted |
 | CAPE | YUE MAY | 176,552 | 2011 | SWS, China | MAN-B\&W | Jul-26 |  | region $ 26.5m | European | BWTS fitted |

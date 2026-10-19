@@ -213,25 +213,24 @@ In the Supramax sector we had the sale of the "TRANS OCEANIC" (58,168dwt-bl't '1
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | PROSPEROUS | 179,100 | 2011 | SUNGDONG, S. Korea | MAN-B&amp;W | Apr-26 |  | rgn $ 31.0m | Turkish (BEKS Shipping) | BWTS fitted, delivery October 2021, Tier II |
-| CAPE | AQUABELLA | 177,216 | 2005 | NAMURA, Japan | MAN-B&amp;W | Nov-24 |  | high $ 19.0m | Chinese | BWTS fitted |
-| KMAX | LOWLANDS NELLO | 82,014 | 2015 | SANOYAS, Japan | MAN-B&amp;W | Jun-25 |  | $ 32.2m | Greek | BWTS fitted, Tier II |
-| KMAX | PEAK LIBERTY | 81,837 | 2015 | TSUNEISHI, Japan | MAN-B&amp;W | Mar-25 |  | $ 29.0m | Greek (Globus) | BWTS fitted, Tier II |
-| KMAX | PEAK PEGASUS | 82,026 | 2013 | TSUNEISHI, Japan | MAN-B&amp;W | Oct-23 |  | $ 26.5m | Greek (Newport) | BWTS fitted, Tier II |
-| PMAX | SEA VISION | 77,154 | 2015 | IMABARI, Japan | MAN-B&amp;W | Jan-25 |  | $ 30.5m | undisclosed | BWTS fitted |
-| PMAX | SHAO SHAN 5 | 75,700 | 2012 | GUANGZHOU HUANGPU, China | MAN-B&amp;W | Jun-22 |  | $ 20.82m | Chinese | online auction sale, BWTS fitted |
-| PMAX | MAHAVIR | 74,005 | 2000 | IMABARI, Japan | B&amp;W | Mar-25 |  | $ 11.9m | Indian |  |
-| SMAX | TRANS OCEANIC | 58,168 | 2012 | TSUNEISHI, Japan | MAN-B&amp;W | Jul-26 | 4 X 30t CRANES | $ 23.5m | Bangladeshi (Meghna) | BWTS fitted |
-| SMAX | GUTIAN LOYAL | 52,686 | 2004 | OSHIMA, Japan | B&amp;W | Nov-24 | 4 X 30t CRANES | $ 13.8m | undisclosed | BWTS fitted |
-| HANDY | GOLDEN DAISY | 28,368 | 2014 | I-S SHIPYARD, Japan | MAN-B&amp;W | May-24 | 4 X 30,5t CRANES | $ 16.5m | Singapore based | BWTS fitted |
-| HANDY | OCEAN OPAL | 37,187 | 2012 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jul-22 | 4 X 30t CRANES | 18.7 | undisclosed |  |
-| HANDY | HAMBURG PEARL | 35,921 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jan-26 | 4 X 35t CRANES | $ 18.6m | undisclosed | OHBS, BWTS fitted, Tier II, delivery October-November 2021 |
+| CAPE | PROSPEROUS | 179,100 | 2011 | SUNGDONG, S. Korea | MAN-B&W | Apr-26 |  | rgn $ 31.0m | Turkish (BEKS Shipping) | BWTS fitted, delivery October 2021, Tier II |
+| CAPE | AQUABELLA | 177,216 | 2005 | NAMURA, Japan | MAN-B&W | Nov-24 |  | high $ 19.0m | Chinese | BWTS fitted |
+| KMAX | LOWLANDS NELLO | 82,014 | 2015 | SANOYAS, Japan | MAN-B&W | Jun-25 |  | $ 32.2m | Greek | BWTS fitted, Tier II |
+| KMAX | PEAK LIBERTY | 81,837 | 2015 | TSUNEISHI, Japan | MAN-B&W | Mar-25 |  | $ 29.0m | Greek (Globus) | BWTS fitted, Tier II |
+| KMAX | PEAK PEGASUS | 82,026 | 2013 | TSUNEISHI, Japan | MAN-B&W | Oct-23 |  | $ 26.5m | Greek (Newport) | BWTS fitted, Tier II |
+| PMAX | SEA VISION | 77,154 | 2015 | IMABARI, Japan | MAN-B&W | Jan-25 |  | $ 30.5m | undisclosed | BWTS fitted |
+| PMAX | SHAO SHAN 5 | 75,700 | 2012 | GUANGZHOU HUANGPU, China | MAN-B&W | Jun-22 |  | $ 20.82m | Chinese | online auction sale, BWTS fitted |
+| PMAX | MAHAVIR | 74,005 | 2000 | IMABARI, Japan | B&W | Mar-25 |  | $ 11.9m | Indian |  |
+| SMAX | TRANS OCEANIC | 58,168 | 2012 | TSUNEISHI, Japan | MAN-B&W | Jul-26 | 4 X 30t CRANES | $ 23.5m | Bangladeshi (Meghna) | BWTS fitted |
+| SMAX | GUTIAN LOYAL | 52,686 | 2004 | OSHIMA, Japan | B&W | Nov-24 | 4 X 30t CRANES | $ 13.8m | undisclosed | BWTS fitted |
+| HANDY | GOLDEN DAISY | 28,368 | 2014 | I-S SHIPYARD, Japan | MAN-B&W | May-24 | 4 X 30,5t CRANES | $ 16.5m | Singapore based | BWTS fitted |
+| HANDY | OCEAN OPAL | 37,187 | 2012 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jul-22 | 4 X 30t CRANES | 18.7 | undisclosed |  |
+| HANDY | HAMBURG PEARL | 35,921 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-26 | 4 X 35t CRANES | $ 18.6m | undisclosed | OHBS, BWTS fitted, Tier II, delivery October- November 2021 |
 | HANDY | MARITIME FAITH | 33,166 | 2011 | KANDA, Japan | Mitsubishi | Feb-26 | 4 X 30,5t CRANES | $ 16.75m | Hong Kong based (Taylor Maritime) | BWTS fitted |
-| HANDY | OCEAN RIDER | 34,250 | 2009 | SHINAN, S. Korea | MAN-B&amp;W | Oct-24 | 4 X 30t CRANES | rgn-xs $ 14.0m | undisclosed | BWTS fitted |
-| SMALL | NAREW | 17,060 | 2012 | TAIZHOU SANFU, China | MAN-B&amp;W | Mar-22 | 3 X 30t CRANES | $ 9.3m | undisclosed | grab fitted |
+| HANDY | OCEAN RIDER | 34,250 | 2009 | SHINAN, S. Korea | MAN-B&W | Oct-24 | 4 X 30t CRANES | rgn-xs $ 14.0m | undisclosed | BWTS fitted |
+| SMALL | NAREW | 17,060 | 2012 | TAIZHOU SANFU, China | MAN-B&W | Mar-22 | 3 X 30t CRANES | $ 9.3m | undisclosed | grab fitted |
 
 © Intermodal Research 21/09/2021 4
 
@@ -239,18 +238,24 @@ In the Supramax sector we had the sale of the "TRANS OCEANIC" (58,168dwt-bl't '1
 
 # Intermodal Secondhand Sales
 ## Tankers
-
-| Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | SONANGOL LUANDA | 159,178 | 2000 | DAEWOO, S. Korea | B\&amp;W | Sep-25 | DH | $ 14.1m | Indian | LDT: 23,192 |
-| SUEZ | SONANGOL GIRASSOL | 159,057 | 2000 | DAEWOO, S. Korea | B\&amp;W | Jan-25 | DH | $ 14.1m | Indian | LDT: 23,313 |
-| AFRA | MINERVA ZOE | 105,330 | 2004 | HYUNDAI SAMHO, S. Korea | B\&amp;W | Mar-24 | DH | $ 14.0m | undisclosed |  |
-| AFRA | BUNGA KELANA 7 | 105,194 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Jan-24 | DH | $ 13.3m | undisclosed |  |
-| AFRA | BUNGA KELANA 8 | 105,174 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Mar-24 | DH | $ 13.3m | undisclosed |  |
-| MR | JUSTICE EXPRESS | 45,998 | 2011 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Mar-26 | DH | $ 17.0m | Greek | BWTS fitted |
+| SUEZ | SONANGOL LUANDA | 159,178 | 2000 | DAEWOO, S. Korea | B&W | Sep-25 | DH | $ 14.1m | Indian | LDT: 23,192 |
+| SUEZ | SONANGOL GIRASSOL | 159,057 | 2000 | DAEWOO, S. Korea | B&W | Jan-25 | DH | $ 14.1m | Indian | LDT: 23,313 |
+| AFRA | MINERVA ZOE | 105,330 | 2004 | HYUNDAI SAMHO, S. Korea | B&W | Mar-24 | DH | $ 14.0m | undisclosed |  |
+| AFRA | BUNGA KELANA 7 | 105,194 | 2004 | SAMSUNG, S. Korea | B&W | Jan-24 | DH | $ 13.3m | undisclosed |  |
+| AFRA | BUNGA KELANA 8 | 105,174 | 2004 | SAMSUNG, S. Korea | B&W | Mar-24 | DH | $ 13.3m | undisclosed |  |
+| MR | JUSTICE EXPRESS | 45,998 | 2011 | SHIN KURUSHIMA, Japan | MAN-B&W | Mar-26 | DH | $ 17.0m | Greek | BWTS fitted |
 | SMALL | HANKUK CHEMI | 17,427 | 2000 | FUKUOKA, Japan | Mitsubishi | Aug-25 | DH | mid $ 5.0m | Chinese | St-St |
 | SMALL | OCEAN GULL | 9,551 | 2012 | NANJING, China | MaK | Jun-22 | DH | $ 3.0m | undisclosed | auction sale |
-| Containers |  |  |  |  |  |  |  |  |  |  |
+
+## Containers
+| Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PMAX | CONTI EVEREST | 8,238 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jul-24 |  | $ 78.0m | Swiss (MSC) |  |
+| PMAX | CAPE CHRONOS | 6,865 | 2015 | HHIC, Philippines | MAN-B&W | Jun-25 |  | $ 135.0m | Singapore based (OM Maritime) | BWTS fitted, delivery prompt |
+| PMAX | MP THE BROWN | 4,330 | 2009 | HHIC, Philippines | MAN-B&W | Nov-24 |  | $ 64.0m | Swiss (MSC) | BWTS & scrubber fitted |
+| PMAX | MP THE LAW | 4,330 | 2009 | HHIC, Philippines | MAN-B&W | Oct-24 |  | $ 64.0m | Swiss (MSC) | BWTS & scrubber fitted |
 
 © Intermodal Research 21/09/2021 5
 

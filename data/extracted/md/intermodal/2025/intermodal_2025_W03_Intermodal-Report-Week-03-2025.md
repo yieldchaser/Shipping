@@ -147,8 +147,8 @@ Supramax 10TC averaged \$ 7,831/day down -9.23% w-o-w, while the Handysize 7TC a
 ## **Tankers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | AMAX AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B\&W | Jun-25 | DH | region $ 79.0m (en bloc) | undisclosed |
-| AFRA | AMAX ANTHEM | 116,087 | 2011 | SAMSUNG, S. Korea | MAN-B\&W | Oct-26 | DH | region $ 79.0m (en bloc) | undisclosed |
+| AFRA | AMAX AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B\&W | Jun-25 | DH | region $ 79.0m | undisclosed |
+| AFRA | AMAX ANTHEM | 116,087 | 2011 | SAMSUNG, S. Korea | MAN-B\&W | Oct-26 | DH | region $ 79.0m | undisclosed |
 | SMALL | WOOLIM 3 | 11,460 | 2018 | STX, S. Korea | MAN-B\&W | Oct-28 | DH | $ 24.0m | undisclosed |
 
 ## **Bulk Carriers**

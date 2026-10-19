@@ -230,8 +230,8 @@ In the Panamax sector we had the sale of the "ORIENT VIOLET" (77,111dwt-blt '15,
 | SMAX | ATLANTIC YUCATAN | 55,863 | 2006 | KAWASAKI, Japan | MAN-B\&amp;W | Mar-23 | 4 X 30,5t CRANES | mid $ 17.0m | undisclosed |  |
 | HANDY | GLOBAL PASSION | 33,686 | 2011 | SHIN KOCHI, Japan | Mitsubishi | Jan-26 | 4 X 30t CRANES | $ 17.5m | undisclosed | BWTS fitted, delivery November 2021 - January 2022 |
 | HANDY | QUEEN ASIA | 28,425 | 2011 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Mar-26 | 4 X 30,7t CRANES | rgn $ 15.0m | undisclosed | BWTS fitted |
-| HANDY | FEDERAL DANUBE | 37,116 | 2004 | NEW TIMES, China | B\&amp;W | Apr-24 | 4 X 40t CRANES | $ 23.0m (en bloc) | undisclosed | delivery January 2022 |
-| HANDY | FEDERAL ELBE | 37,058 | 2003 | NEW TIMES, China | B\&amp;W | Sep-23 | 4 X 40t CRANES | $ 23.0m (en bloc) | undisclosed | delivery January 2022 |
+| HANDY | FEDERAL DANUBE | 37,116 | 2004 | NEW TIMES, China | B\&amp;W | Apr-24 | 4 X 40t CRANES | $ 23.0m | undisclosed | delivery January 2022 |
+| HANDY | FEDERAL ELBE | 37,058 | 2003 | NEW TIMES, China | B\&amp;W | Sep-23 | 4 X 40t CRANES | $ 23.0m | undisclosed | delivery January 2022 |
 
 © Intermodal Research 19/10/2021 4
 

@@ -157,7 +157,7 @@ Supramax 10TC averaged \$ 16,097/day, down -5.0% w-o-w, while the Handysize 7TC 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | MELODIA | 80,554 | 2013 | JMU, Japan | MAN-B\&W | May-28 |  | $ 22.0m | undisclosed | BWTS fitted, understand she had a gounding in the past |
+| KMAX | MELODIA | 80,554 | 2013 | JMU, Japan | MAN-B\&W | May-28 |  | $ 22.0m | undisclosed | BWTS fitted, understand she had a grouding in the past |
 | KMAX | ULTRA TIGER | 83,611 | 2009 | SANOYAS HISHINO, Japan | MAN-B\&W | May-26 |  | $ 16.0m | Indian | BWTS fitted |
 | UMAX | XING XI HAI | 60,498 | 2017 | MITSUI CHIBA, Japan | MAN-B\&W | Jan-27 | 4 X 30t CRANES | $ 29.0m | Scandinavian | BWTS fitted |
 | UMAX | XING SHOU HAI | 60,492 | 2016 | MITSUI CHIBA, Japan | MAN-B\&W | Oct-26 | 4 X 30t CRANES | $ 28.0m | Greek | BWTS fitted |

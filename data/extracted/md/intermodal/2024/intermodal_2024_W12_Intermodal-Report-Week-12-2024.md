@@ -149,9 +149,9 @@ Supramax 10TC averaged \$ 15,004/day up +3.93% w-o-w, while the Handysize 7TC av
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | NEWTON | 307,284 | 2009 | DALIAN, China | Wartsila | Feb-24 | DH | $ 154.9m (en bloc) | Asian | BWTS pending, installation year 2024 |
-| VLCC | NECTAR | 307,284 | 2008 | DALIAN, China | Wartsila | Jan-28 | DH | $ 154.9m (en bloc) | Asian | BWTS fitted |
-| VLCC | NOBLE | 307,284 | 2008 | DALIAN, China | Wartsila | Sep-28 | DH | $ 154.9m (en bloc) | Asian | BWTS fitted |
+| VLCC | NEWTON | 307,284 | 2009 | DALIAN, China | Wartsila | Feb-24 | DH | $ 154.9m | Asian | BWTS pending, installation year 2024 |
+| VLCC | NECTAR | 307,284 | 2008 | DALIAN, China | Wartsila | Jan-28 | DH | $ 154.9m | Asian | BWTS fitted |
+| VLCC | NOBLE | 307,284 | 2008 | DALIAN, China | Wartsila | Sep-28 | DH | $ 154.9m | Asian | BWTS fitted |
 | MR | STI LE ROCHER | 49,999 | 2013 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Oct-28 | DH | $36,2m each | U.A.E (Gulf Energy) | BWTS fitted, Eco |
 | MR | STI LARVOTTO | 49,990 | 2013 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&W | Jul-28 | DH | $36,2m each | U.A.E (Gulf Energy) | BWTS fitted, Eco |
 | MR | UOG SPARTA | 49,990 | 2009 | SPP, S. Korea | MAN-B\&W | Mar-24 | DH | $ mid 20s | undisclosed | SS/DD Due, BWTS pending, installation year 2024 |

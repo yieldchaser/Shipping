@@ -162,8 +162,8 @@ The Handysize sector remained the most stable performer. The Atlantic benefited 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | MINERAL SHOUGANG INTERNATIONAL | 206,392 | 2019 | QINGDAO, China | MAN B\&amp;W | Oct-29 |  | $ 65.5m | Chinese | Eco, Scrubber fitted |
-| KMAX | SDTR DORIS | 84,998 | 2021 | SHANGHAIGUAN, China | MAN B\&amp;W | Sep-26 |  | $ 55.0m (en bloc) | undisclosed | Eco, Wide Beam |
-| KMAX | SDTR CELESTE | 84,994 | 2021 | SHANGHAIGUAN, China | MAN B\&amp;W | Aug-26 |  | $ 55.0m (en bloc) | undisclosed | Eco, Wide Beam |
+| KMAX | SDTR DORIS | 84,998 | 2021 | SHANGHAIGUAN, China | MAN B\&amp;W | Sep-26 |  | $ 55.0m | undisclosed | Eco, Wide Beam |
+| KMAX | SDTR CELESTE | 84,994 | 2021 | SHANGHAIGUAN, China | MAN B\&amp;W | Aug-26 |  | $ 55.0m | undisclosed | Eco, Wide Beam |
 | KMAX | MONTANA I | 81,967 | 2011 | DAEWOO, S. Korea | MAN B\&amp;W | Dec-25 |  | $ 15.4m | undisclosed |  |
 | KMAX | NORD CRUX | 81,791 | 2016 | TSUNEISHI CEBU, Philippines | MAN B\&amp;W | Sep-26 |  | region high $ 26m | undisclosed | Eco |
 | PMAX | ATHERAS | 74,475 | 2006 | HUDONG-ZHONGHUA, China | MAN B\&amp;W | Sep-26 |  | region $ 8.5m | undisclosed |  |

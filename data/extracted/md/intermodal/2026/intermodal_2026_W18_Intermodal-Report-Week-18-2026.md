@@ -153,13 +153,13 @@ The Handysize market ticked higher, though the improvement was regionally uneven
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | RTM CARTIER | 205,507 | 2012 | HHIC, Philippines | MAN B\&W | Aug-27 |  | excess $ 90,0m (en bloc) | Chinese | Eco |
-| NEWCASTLEMAX | RTM ZHENG HE | 205,431 | 2012 | HHIC, Philippines | MAN B\&W | Nov-27 |  | excess $ 90,0m (en bloc) | Chinese | Eco |
+| NEWCASTLEMAX | RTM CARTIER | 205,507 | 2012 | HHIC, Philippines | MAN B\&W | Aug-27 |  | excess $ 90,0m | Chinese | Eco |
+| NEWCASTLEMAX | RTM ZHENG HE | 205,431 | 2012 | HHIC, Philippines | MAN B\&W | Nov-27 |  | excess $ 90,0m | Chinese | Eco |
 | UMAX | ASL IXORA | 61,470 | 2012 | SHIN KASADO, Japan | MAN B\&W | Jan-27 | 4 X 30,5t CRANES | excess $ 20,0m | Chinese |  |
 | CAPE | BULK JOYANCE | 175,636 | 2012 | JINHAI, China | MAN B\&W | Apr-27 |  | $ 33.0m | undisclosed |  |
 | POST PMAX | LESTARI MANJUNG | 93,200 | 2011 | Jiangsu Newyangzi, China | MAN B\&W | Sep-30 |  | $ 14.0m | undisclosed |  |
-| KMAX | SEACON NOLA | 85,611 | 2023 | HUANGPU WENCHONG, China | MAN B\&W | Jan-28 |  | $ 72.0m (en bloc) | Middle Eastern | Wide Beam, Eco |
-| KMAX | SEACON HAMBURG | 85,505 | 2023 | HUANGPU WENCHONG, China | MAN B\&W | Apr-28 |  | $ 72.0m (en bloc) | Middle Eastern | Wide Beam, Eco |
+| KMAX | SEACON NOLA | 85,611 | 2023 | HUANGPU WENCHONG, China | MAN B\&W | Jan-28 |  | $ 72.0m | Middle Eastern | Wide Beam, Eco |
+| KMAX | SEACON HAMBURG | 85,505 | 2023 | HUANGPU WENCHONG, China | MAN B\&W | Apr-28 |  | $ 72.0m | Middle Eastern | Wide Beam, Eco |
 | KMAX | SIROCCO | 82,000 | 2014 | SAINTY, China | MAN B\&W | Jan-29 |  | excess $ 20,0m | undisclosed |  |
 | HANDY | BRAVE STAR | 38,241 | 2019 | KANDA, Japan | J-ENG | Nov-29 | 4 X 30,5t CRANES | $ 28.5m | undisclosed | OHBS, bss 36 months BBHP |
 

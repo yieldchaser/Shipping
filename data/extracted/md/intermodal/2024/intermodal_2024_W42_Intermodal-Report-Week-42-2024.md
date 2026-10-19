@@ -164,11 +164,11 @@ Supramax 10TC averaged \$ 13,848/day down -0.91% w-o-w, while the Handysize 7TC 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | K. DAPHNE | 180,786 | 2009 | STX, S. Korea | MAN-B\&W | Dec-24 |  | $ 53.0m (en bloc) | Chinese |  |
-| CAPE | LAVENDER | 179,873 | 2010 | DAEWOO, S. Korea | MAN-B\&W | Aug-25 |  | $ 53.0m (en bloc) | Chinese |  |
+| CAPE | K. DAPHNE | 180,786 | 2009 | STX, S. Korea | MAN-B\&W | Dec-24 |  | $ 53.0m | Chinese |  |
+| CAPE | LAVENDER | 179,873 | 2010 | DAEWOO, S. Korea | MAN-B\&W | Aug-25 |  | $ 53.0m | Chinese |  |
 | KMAX | NOVA OPTIMUS | 81,805 | 2012 | JIANGSU EASTERN, China | MAN-B\&W | Sep-27 |  | $ 16.0m | Chinese (Haitong) |  |
-| UMAX | AUGUST OLDENDORFF | 61,090 | 2015 | JMU, Japan | Wartsila | Jan-25 | 4 X 30t CRANES | region $ 50,0m (en bloc) | Greek | Eco, Scrubber fitted |
-| UMAX | ALWINE OLDENDORFF | 61,090 | 2014 | JMU, Japan | Wartsila | Dec-24 | 4 X 30t CRANES | region $ 50,0m (en bloc) | Greek | Eco, Scrubber fitted |
+| UMAX | AUGUST OLDENDORFF | 61,090 | 2015 | JMU, Japan | Wartsila | Jan-25 | 4 X 30t CRANES | region $ 50,0m | Greek | Eco, Scrubber fitted |
+| UMAX | ALWINE OLDENDORFF | 61,090 | 2014 | JMU, Japan | Wartsila | Dec-24 | 4 X 30t CRANES | region $ 50,0m | Greek | Eco, Scrubber fitted |
 | SUPRA | DALIAN STAR | 55,802 | 2017 | OSHIMA, Japan | MAN-B\&W | Apr-27 | 5 X 30t CRANES | excess $ 27.0m | European | Eco, OHBS |
 | SUPRA | PARO | 55,691 | 2009 | MITSUI, Japan | MAN-B\&W | Dec-24 | 4 X 30t CRANES | $ 14.8m | Chinese |  |
 | HANDY | INTERLINK NOBILITY | 40,098 | 2017 | TAIZHOU KOUAN, China | MAN-B\&W | Jun-27 | 4 X 30t CRANES | $ 25,25 | Turkish | Eco, boxed |

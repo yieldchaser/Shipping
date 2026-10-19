@@ -295,7 +295,7 @@ In the Handysize sector we had the sale of the “IONIC HUNTRESS” (34,062dwt-b
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | KMAX | ORIENT UNION | 79,754 | 2011 | FUJIAN CROWN OCEAN, China | Wartsila | Aug-26 |  | high $17.0m | undisclosed | BWTS fitted |
 | SUPRA | HUA RONG 3 | 56,467 | 2013 | ZHEJIANG, China | MAN-B&W | May-23 | 4 X 36t CRANES | $ 17.85m | undisclosed | via online auction, BWTS fitted, Chinese flag |
-| SUPRA | AMOY DREAM | 56,873 | 2010 | XIAMEN, China | MAN-B&W | Jul-25 | 4 X 30t CRANES | $ 17.0m | Greek | BWTS fitted, bss dely May &#x27;22 |
+| SUPRA | AMOY DREAM | 56,873 | 2010 | XIAMEN, China | MAN-B&W | Jul-25 | 4 X 30t CRANES | $ 17.0m | Greek | BWTS fitted, bss dely May '22 |
 | SUPRA | THERESE SELMER | 55,682 | 2006 | MITSUI, Japan | MAN-B&W | Sep-26 | 4 X 30,5t CRANES | $ 17.5m | undisclosed |  |
 | SUPRA | AM OCEAN PRIDE | 53,553 | 2003 | IWAGI, Japan | MAN-B&W | Dec-25 | 4 X 30,5t CRANES | excess $14.0m | Chinese |  |
 | HMAX | ERISKAY | 39,810 | 2015 | CHENGXI, China | Wartsila | Jan-25 | 4 X 36t CRANES | $ 25.5m | European | Logs & BWTS fitted |

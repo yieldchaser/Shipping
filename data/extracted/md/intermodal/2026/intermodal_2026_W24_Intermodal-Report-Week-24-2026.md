@@ -154,8 +154,8 @@ Handysizes also improved over the week. Activity firmed across the Atlantic and 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR1 | NAVE ARIADNE | 74,875 | 2007 | STX, South Korea | MAN B\&W | May-27 | DH | 22,5 | undisclosed |  |
-| LR1 | CAPE TEMPEST | 73,720 | 2008 | NEW TIMES, China | MAN B\&W | Mar-28 | DH | $ 43.5m (en bloc) | undisclosed |  |
-| LR1 | CAPE TAURA | 73,634 | 2007 | NEW TIMES, China | MAN B\&W | Jun-28 | DH | $ 43.5m (en bloc) | undisclosed |  |
+| LR1 | CAPE TEMPEST | 73,720 | 2008 | NEW TIMES, China | MAN B\&W | Mar-28 | DH | $ 43.5m | undisclosed |  |
+| LR1 | CAPE TAURA | 73,634 | 2007 | NEW TIMES, China | MAN B\&W | Jun-28 | DH | $ 43.5m | undisclosed |  |
 | MR2 | SANDPIPER PACIFIC | 51,833 | 2013 | SUNGDONG, S. Korea | MAN B\&W | Jun-28 | DH | $ 32.0m | undisclosed | Eco |
 | SMALL | GB VENTURE | 14,445 | 2010 | YANGZHOU KEJIN, China | MAN B\&W | Jan-30 | DH | $ 10.5m | Vietnamese |  |
 

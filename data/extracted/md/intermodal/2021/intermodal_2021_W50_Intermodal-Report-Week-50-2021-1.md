@@ -226,13 +226,13 @@ In the Handysize sector we had the sale of the "DD VANGUARD" (26,479dwt-blt '07,
 | KMAX | ATLANTIC LEGEND | 83,685 | 2009 | SANOYAS, Japan | MAN-B\&amp;W | May-26 |  | rgn-xs $ 18.0m | undisclosed | BWTS fitted, incl. TC attached at USD 16,500 p/d until April-July 2022 |
 | SUPRA | BELOCEAN | 58,018 | 2011 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Mar-26 | 4 X 35t CRANES | $ 19.6m | German | SS/DD passed and BWTS fitted |
 | HANDY | BERGE TARANAKI | 36,896 | 2019 | OSHIMA, Japan | MAN-B\&amp;W | Apr-24 | 4 X 30t CRANES | $ 27.0m | undisclosed |  |
-| HANDY | NORDRUBICON | 37,985 | 2016 | OUHUA, China | MAN-B\&amp;W | Jan-26 | 4 X 30t CRANES | $ 42.8m (en bloc) | U.A.E. based |  |
-| HANDY | NORDCOLORADO | 37,976 | 2016 | OUHUA, China | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | $ 42.8m (en bloc) | U.A.E. based |  |
+| HANDY | NORDRUBICON | 37,985 | 2016 | OUHUA, China | MAN-B\&amp;W | Jan-26 | 4 X 30t CRANES | $ 42.8m | U.A.E. based |  |
+| HANDY | NORDCOLORADO | 37,976 | 2016 | OUHUA, China | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | $ 42.8m | U.A.E. based |  |
 | HANDY | MELBOURNE SPIRIT | 35,573 | 2013 | QINGSHAN, China | MAN-B\&amp;W | Nov-23 | 4 X 30t CRANES | rgn $ 27.0m | European |  |
 | HANDY | BOXY | 34,148 | 2012 | DAE SUN, S. Korea | MAN-B\&amp;W | Mar-22 | 4 X 30t CRANES | rgn $ 15,.5m | undisclosed | Tier II, BWTS fitted |
 | HANDY | DD VANGUARD | 26,479 | 2007 | SUNGDONG, S. Korea | MAN-B\&amp;W | Aug-22 | 4 X 30t CRANES | $ 12.0m | Turkish | basis waiving inspection |
-| HANDY | UBC SACRAMENTO | 31,773 | 2001 | SAIKI, Japan | Mitsubishi | Nov-26 | 4 X 30t CRANES | $ 21.0m (en bloc) | undisclosed |  |
-| HANDY | UBC SYDNEY | 31,759 | 2001 | SAIKI, Japan | Mitsubishi | May-26 | 4 X 30t CRANES | $ 21.0m (en bloc) | undisclosed |  |
+| HANDY | UBC SACRAMENTO | 31,773 | 2001 | SAIKI, Japan | Mitsubishi | Nov-26 | 4 X 30t CRANES | $ 21.0m | undisclosed |  |
+| HANDY | UBC SYDNEY | 31,759 | 2001 | SAIKI, Japan | Mitsubishi | May-26 | 4 X 30t CRANES | $ 21.0m | undisclosed |  |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |

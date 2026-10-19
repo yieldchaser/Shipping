@@ -158,12 +158,12 @@ Supramax 10TC averaged \$ 14,436/day up 0.56% w-o-w, while the Handysize 7TC ave
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | ORANGE TIARA | 181,396 | 2012 | KOYO MIHARA, Japan | MAN-B\&W | Jul-25 |  | $ 35.0m | undisclosed | BWTS fitted |
-| CAPE | GENCO MAXIMUS | 169,021 | 2009 | SUNGDONG, S. Korea | MAN-B\&W | Sep-24 |  | $ 47.0m (en bloc) | undisclosed | BWTS, Scrubber fitted |
-| CAPE | GENCO CLAUDIUS | 169,001 | 2010 | SUNGDONG, S. Korea | MAN-B\&W | Jan-25 |  | $ 47.0m (en bloc) | undisclosed | BWTS, Scrubber fitted |
+| CAPE | GENCO MAXIMUS | 169,021 | 2009 | SUNGDONG, S. Korea | MAN-B\&W | Sep-24 |  | $ 47.0m | undisclosed | BWTS, Scrubber fitted |
+| CAPE | GENCO CLAUDIUS | 169,001 | 2010 | SUNGDONG, S. Korea | MAN-B\&W | Jan-25 |  | $ 47.0m | undisclosed | BWTS, Scrubber fitted |
 | POST PMAX | MARIA G.O. | 87,378 | 2011 | HUDONG-ZHONGHUA, China | Wartsila | Jul-26 |  | $ 17.0m | undisclosed | BWTS fitted |
 | KMAX | KEY GUARDIAN | 83,468 | 2011 | SANOYAS, Japan | MAN-B\&W | Apr-26 |  | $ 23.7m | Ukrainian | BWTS fitted |
-| SUPRA | ARKADIA | 56,348 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&W | Jan-27 | 4 X 27,5t CRANES | $ 37.1m (en bloc) | Turkish (HGF Denizcilik) | Ice Clas 1A, BWTS-fitted, Tier II |
-| SUPRA | KUMPULA | 56,348 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&W | May-27 | 4 X 27,5t CRANES | $ 37.1m (en bloc) | Turkish (HGF Denizcilik) | Ice Clas 1A, BWTS-fitted, Tier II |
+| SUPRA | ARKADIA | 56,348 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&W | Jan-27 | 4 X 27,5t CRANES | $ 37.1m | Turkish (HGF Denizcilik) | Ice Clas 1A, BWTS-fitted, Tier II |
+| SUPRA | KUMPULA | 56,348 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&W | May-27 | 4 X 27,5t CRANES | $ 37.1m | Turkish (HGF Denizcilik) | Ice Clas 1A, BWTS-fitted, Tier II |
 | SUPRA | QUEEN BUSAN | 55,474 | 2010 | KAWASAKI, Japan | MAN-B\&W | Jan-25 | 4 X 30,5t CRANES | $ 17.2m | Greek | BWTS fitted |
 | HANDY | BBC PLUTO | 37,495 | 2010 | TIANJIN XINGANG, China | Wartsila | Oct-25 | 4 X 30t CRANES | $ 11.6m | Turkish | BWTS fitted |
 

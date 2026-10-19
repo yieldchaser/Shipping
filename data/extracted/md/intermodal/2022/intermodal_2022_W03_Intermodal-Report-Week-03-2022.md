@@ -281,8 +281,8 @@ In the Supramax sector we had the sale of the "WEST WIND" (56,557dwt-blt '08, Ja
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | RHODOS | 6,881 | 2013 | HYUNDAI SAMHO, S. Korea | Wartsila | Jan-23 |  | $ 140.0m | undisclosed |  |
-| POST PMAX | CATHERINE C | 6,178 | 2001 | SAMSUNG, S. Korea | Sulzer |  |  | $ 130.0m (en bloc) | Swiss (MSC) | delivery in November 2022 |
-| POST PMAX | LEO C | 6,178 | 2002 | SAMSUNG, S. Korea | Sulzer | Jan-22 |  | $ 130.0m (en bloc) | Swiss (MSC) | delivery in November 2022 |
+| POST PMAX | CATHERINE C | 6,178 | 2001 | SAMSUNG, S. Korea | Sulzer |  |  | $ 130.0m | Swiss (MSC) | delivery in November 2022 |
+| POST PMAX | LEO C | 6,178 | 2002 | SAMSUNG, S. Korea | Sulzer | Jan-22 |  | $ 130.0m | Swiss (MSC) | delivery in November 2022 |
 | SUB PMAX | AS PATRICIA | 2,496 | 2006 | CRIST SP Z OO, Poland | MAN-B\&amp;W | Sep-26 | 3 X 45t CRANES | $ 34.3m | German (Maersk) |  |
 | FEEDER | KANWAY GALAXY | 1,613 | 1997 | SHIN KURUSHIMA, Japan | Mitsubishi | Oct-22 | 3 X 40t CRANES | $ 19.0m | undisclosed |  |
 | FEEDER | DANCE | 801 | 2006 | PETERS SCHIFFBAU, Germany | MaK | Aug-26 |  | undisclosed | undisclosed |  |

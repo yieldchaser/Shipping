@@ -810,7 +810,7 @@
         "price_raw": "$ 42.4m",
         "price_usd_m": 42.4,
         "buyers": "Hong Kong based",
-        "comments": "BWTS & Scrubber fitted, Eco T/C back until 10/2026 \u2013 1/2027 at 24-25k p/d",
+        "comments": "BWTS & Scrubber fitted, Eco T/C back until 10/2026 – 1/2027 at 24-25k p/d",
         "source_file": "intermodal_2024_W14_Intermodal-Report-Week-14-2024.pdf"
       },
       {
@@ -1005,9 +1005,9 @@
         "m_e": "B\\&W",
         "ss_due": "Aug-26",
         "gear_hull": "",
-        "price_raw": "",
-        "price_usd_m": null,
-        "buyers": "",
+        "price_raw": "$ 45.0m",
+        "price_usd_m": 45.0,
+        "buyers": "Swiss Based (MSC Shipping)",
         "comments": "BWTS fitted",
         "source_file": "intermodal_2024_W14_Intermodal-Report-Week-14-2024.pdf"
       }
@@ -1874,7 +1874,7 @@
         "issue_date": "2024-04-09",
         "report_week": 14,
         "category": "Currencies",
-        "indicator": "\u20ac / $",
+        "indicator": "€ / $",
         "latest_value": 1.08,
         "prior_value": 1.08,
         "wow_change_pct": "0.4%",
@@ -1884,7 +1884,7 @@
         "issue_date": "2024-04-09",
         "report_week": 14,
         "category": "Currencies",
-        "indicator": "\u00a3 / $",
+        "indicator": "£ / $",
         "latest_value": 1.26,
         "prior_value": 1.26,
         "wow_change_pct": "0.1%",
@@ -1894,7 +1894,7 @@
         "issue_date": "2024-04-09",
         "report_week": 14,
         "category": "Currencies",
-        "indicator": "$ / \u00a5",
+        "indicator": "$ / ¥",
         "latest_value": 151.61,
         "prior_value": 151.33,
         "wow_change_pct": "0.2%",

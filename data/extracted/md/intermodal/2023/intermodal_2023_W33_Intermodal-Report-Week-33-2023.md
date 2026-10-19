@@ -153,14 +153,14 @@ Supramax 10TC averaged \$ 8,947/day, up +16.03% w-o-w, while the Handysize 7TC a
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWC ASTLEMAX | HL IMABARI | 206,312 | 2008 | IMABARI, Japan | MAN-B\&W | Oct-23 |  | $ 21.4m | Chinese |  |
-| C APE | \_MOUNT APO | 175,800 | 2012 | JIANGSU RONGSHENG, China | MAN-B\&W | Apr-27 |  | $ 25.6m | European | BWTS, scrubber fitted |
+| CAPE | MOUNT APO | 175,800 | 2012 | JIANGSU RONGSHENG, China | MAN-B\&W | Apr-27 |  | $ 25.6m | European | BWTS, scrubber fitted |
 | C APE | YUAN FU STAR | 176,000 | 2011 | JIANGSU RONGSHENG, China | MAN-B\&W | Dec-26 |  | region $ 23.0m | Middle Eastern | BWTS fitted |
 | C APE | ARIADNE | 180,010 | 2009 | DAEWOO, S. Korea | MAN-B\&W | Feb-24 |  | $ 21.6m | UK based |  |
 | POST PMAX | ATLANTIC HAWK | 95,720 | 2012 | IMABARI, Japan | MAN-B\&W | Jan-27 |  | $ 22.0m | Chinese |  |
 | KMAX | NAVIOS SOUTHERN STAR | 82,224 | 2013 | TSUNEISHI, Japan | MAN-B\&W | Apr-28 |  | $ 21.6m | Greek | BWTS fitted |
 | KMAX | BELO HORIZONTE | 81,681 | 2012 | TAIZHOU CATIC, China | Wartsila | Jul-27 |  | mid 17's | Greek | BWTS fitted, bss TC attached at Usd 14,500 p/d until Dec 2023 |
-| UMAX | IVS HAYAKITA | 60,402 | 2016 | MITSUI, Japan | MAN-B\&W | Sep-26 | 4 X 30t CRANES | $ 46.5m (en bloc) | Greek | BWTS fitted, Eco |
-| UMAX | IVS BOSCH HOEK | 60,269 | 2015 | ONOMICHI, Japan | MAN-B\&W | Oct-25 | 4 X 30t CRANES | $ 46.5m (en bloc) | Greek | BWTS fitted, Eco |
+| UMAX | IVS HAYAKITA | 60,402 | 2016 | MITSUI, Japan | MAN-B\&W | Sep-26 | 4 X 30t CRANES | $ 46.5m | Greek | BWTS fitted, Eco |
+| UMAX | IVS BOSCH HOEK | 60,269 | 2015 | ONOMICHI, Japan | MAN-B\&W | Oct-25 | 4 X 30t CRANES | $ 46.5m | Greek | BWTS fitted, Eco |
 | SUPRA | WINDSOR ADVENTURE | 55,975 | 2008 | MITSUI, Japan | MAN-B\&W | Mar-26 | 4 X 30,5t CRANES | $ 13.6m | undisclosed | BWTS fitted |
 
 ---

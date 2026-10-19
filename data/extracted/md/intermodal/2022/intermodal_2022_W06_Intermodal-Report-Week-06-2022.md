@@ -255,13 +255,13 @@ In the Handysize sector we had the sale of the "MAJESTY" (34,375dwt-blt '11, S. 
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUB PMAX | VIVALDI | 2,546 | 2010 | JIANGSU YANGZIJJIANG, China | Wartsila | Jan-25 | 3 X 45t Cranes | $ 18.0m | undisclosed |  |
-| SUB PMAX | HAMMONIA PALATIUM | 2,546 | 2006 | JIANGSU YANGZIJJIANG, China | MAN-B\&amp;W | Nov-26 | 3 X 45t CRANES | $ 19.35m | Swiss (MSC) | Eco, mid-January 2022 deal |
-| SUB PMAX | ELIZABETH | 2,496 | 2003 | DAEWOO-MANGALIA, Romania | Sulzer | Dec-23 | 3 X 45t CRANES | $ 21.5m (en bloc) | undisclosed | incl. low TC attached, ear February 2022 deal |
-| SUB PMAX | CINDY | 2,490 | 2004 | HDW AG-KIEL, Germany | Sulzer | Nov-24 | 3 X 45t CRANES | $ 21.5m (en bloc) | undisclosed | incl. low TC attached, ear February 2022 deal |
+| SUB PMAX | VIVALDI | 2,546 | 2010 | JIANGSU YANGZIJIANG, China | Wartsila | Jan-25 | 3 X 45t Cranes | $ 18.0m | undisclosed |  |
+| SUB PMAX | HAMMONIA PALATIUM | 2,546 | 2006 | JIANGSU YANGZIJIANG, China | MAN-B\&amp;W | Nov-26 | 3 X 45t CRANES | $ 19.35m | Swiss (MSC) | Eco, mid-January 2022 deal |
+| SUB PMAX | ELIZABETH | 2,496 | 2003 | DAEWOO-MANGALIA, Romania | Sulzer | Dec-23 | 3 X 45t CRANES | $ 21.5m | undisclosed | incl. low TC attached, ear February 2022 deal |
+| SUB PMAX | CINDY | 2,490 | 2004 | HDW AG-KIEL, Germany | Sulzer | Nov-24 | 3 X 45t CRANES | $ 21.5m | undisclosed | incl. low TC attached, ear February 2022 deal |
 | FEEDER | YANGFAN CV18H-VG01 | 1,868 | 2022 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
 | FEEDER | YANGFAN CV18H-VG02 | 1,868 | 2022 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
-| FEEDER | YANGFAN CV18H-VG03 | 1,868 | 2022 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
+| FEEDER | YANGFAN CV18H-VG03 | 1,868 | 2023 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
 | FEEDER | YANGFAN CV18H-VG03 | 1,868 | 2023 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
 | FEEDER | HOOGE | 1,368 | 2006 | SHANDONG WEIHAI, China | MAN-B\&amp;W | Jul-26 | 2 X 40t CRANES | $ 23.6m | Israeli (Carmel Shipping) |  |
 

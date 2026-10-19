@@ -155,7 +155,7 @@ Supramax 10TC averaged \$ 14,355/day up +5.57% w-o-w, while the Handysize 7TC av
 | CAPE | EPIC | 180,149 | 2010 | DAEHAN, S. Korea | MAN-B\&W | Dec-25 |  | $ 32.5m | Chinese | BWTS fitted |
 | POST PMAX | PANAYIOTA K | 92,018 | 2010 | SUNGDONG, S. Korea | MAN-B\&W | Apr-25 |  | $ 20.5m | undisclosed | BWTS & scrubber fitted |
 | KMAX | SANKO HAWKING | 82,514 | 2021 | TSUNEISHI, Japan | MAN-B\&W | Nov-28 |  | $ 41.5m | undisclosed | BWTS & scrubber fitted, Eco |
-| PMAX | PARASKEVI 2 | 74,979 | 2011 | SEABO, Japan | MAN-B\&W | Apr-26 |  | $ 20.3m | undisclosed | BWTS fitted |
+| PMAX | PARASKEVI 2 | 74,979 | 2011 | SASEBO, Japan | MAN-B\&W | Apr-26 |  | $ 20.3m | undisclosed | BWTS fitted |
 | PMAX | VITAHORIZON | 74,483 | 2007 | HUDONG-ZHONGHUA, China | MAN-B\&W | Mar-25 |  | $ 12.3m | undisclosed | BWTS fitted |
 | SUPRA | AULAC VANGUARD | 55,848 | 2012 | IHI, Japan | Wartsila | Jun-25 | 4 X 30t CRANES | $ 18.9m | undisclosed | BWTS fitted |
 | SUPRA | GANT MUSE | 56,024 | 2004 | MITSUI TAMANO, Japan | MAN-B\&W | Dec-24 | 4 X 30t CRANES | $ 11.3m | Vietnamese | BWTS fitted |

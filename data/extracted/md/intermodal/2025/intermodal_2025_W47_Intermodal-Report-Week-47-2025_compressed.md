@@ -151,8 +151,8 @@ The Handysize segment experienced a muted week overall. Europe held steady with 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | OCEANIC FORTUNE | 320,054 | 2010 | HYUNDAI, S. Korea | Wartsila | Jan-30 | DH | $ 57.0m | Chinese | scrubber fitted |
 | MR2 | UOG SYROS | 51,745 | 2010 | HYUNDAI MIPO, S. Korea | MAN B\&W | Aug-30 | DH | $ 21.5m | undisclosed |  |
-| MR2 | PS DREAM | 51,233 | 2006 | STX, S. Korea | MAN B\&W | Mar-30 | DH | $ 28.0m (en bloc) | undisclosed |  |
-| MR2 | PS QUEEN | 51,218 | 2006 | STX, S. Korea | MAN B\&W | Sep-26 | DH | $ 28.0m (en bloc) | undisclosed |  |
+| MR2 | PS DREAM | 51,233 | 2006 | STX, S. Korea | MAN B\&W | Mar-30 | DH | $ 28.0m | undisclosed |  |
+| MR2 | PS QUEEN | 51,218 | 2006 | STX, S. Korea | MAN B\&W | Sep-26 | DH | $ 28.0m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |

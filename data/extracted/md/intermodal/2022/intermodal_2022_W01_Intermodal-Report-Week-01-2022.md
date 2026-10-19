@@ -216,25 +216,23 @@ In the Supramax sector we had the sale of the "SPARROW" (53,459dwt-blt '05, Japa
 
 ---
 
-# Secondhand Sales
-## Bulk Carriers
-
-| Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
+## Tankers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | CHLOE V | 320,261 | 2011 | DSME, S. Korea | Wartsila |  | DH | $ 42.1m | Greek (TMS Tanker) | auction sale, scrubber fitted, sale incl. bunkers, DD due Mar 2022 |
-| VLCC | ARGENTA | 319,180 | 2005 | HYUNDAI SAMHO, S. Korea | B\&amp;W | Feb-25 | DH | $ 31.5m | undisclosed | scrubber fitted |
-| AFRA | KAZAN | 115,727 | 2003 | HYUNDAI SAMHO, S. Korea | B\&amp;W | Oct-23 | DH | $ 11.5m | undisclosed |  |
-| AFRA | KRYMSK | 115,663 | 2003 | HYUNDAI HI, S. Korea | B\&amp;W | Oct-23 | DH | $ 11.5m | undisclosed |  |
-| AFRA | JERSEY | 105,994 | 1998 | HYUNDAI HI, S. Korea | B\&amp;W | May-24 | DH | undisclosed | undisclosed |  |
-| MR | PS LONDON | 50,922 | 2008 | STX, S. Korea | MAN-B\&amp;W | Feb-23 | DH | $ 11.8m | Greek | ice class 1A |
+| VLCC | ARGENTA | 319,180 | 2005 | HYUNDAI SAMHO, S. Korea | B&W | Feb-25 | DH | $ 31.5m | undisclosed | scrubber fitted |
+| AFRA | KAZAN | 115,727 | 2003 | HYUNDAI SAMHO, S. Korea | B&W | Oct-23 | DH | $ 11.5m | undisclosed |  |
+| AFRA | KRYMSK | 115,663 | 2003 | HYUNDAI HI, S. Korea | B&W | Oct-23 | DH | $ 11.5m | undisclosed |  |
+| AFRA | JERSEY | 105,994 | 1998 | HYUNDAI HI, S. Korea | B&W | May-24 | DH | undisclosed | undisclosed |  |
+| MR | PS LONDON | 50,922 | 2008 | STX, S. Korea | MAN-B&W | Feb-23 | DH | $ 11.8m | Greek | ice class 1A |
 | HANDY | BOWMORE | 34,752 | 2021 | FUJIAN MAWEI, China | Wartsila | Oct-26 | DH | $ 23.5m | Singaporean |  |
 | HANDY | ARDBEG | 34,798 | 2021 | FUJIAN MAWEI, China | Wartsila | Nov-26 | DH | $ 23.5m | Singaporean |  |
-| HANDY | DICTATOR | 34,747 | 2019 | FUJIAN MAWEI, China | Wartsila | Nov-24 | DH | undisclosed | undisclosed | BWTS fitted |
+| HANDY | DICTADOR | 34,747 | 2019 | FUJIAN MAWEI, China | Wartsila | Nov-24 | DH | undisclosed | undisclosed | BWTS fitted |
 | SMALL | OCEAN JACK | 11,999 | 2018 | SAMJIN, China | Wartsila | Jan-23 | DH | undisclosed | undisclosed |  |
 | SMALL | OCEAN MANTA | 11,999 | 2017 | ZHEJIANG SHENZHOU, China | Wartsila | Jun-22 | DH | undisclosed | undisclosed |  |
-| SMALL | NORTHSEA BETA | 8,647 | 2010 | YANGZHOU KEJIN, China | MAN | May-25 | DH | $ 8.9m (en bloc) | undisclosed |  |
-| SMALL | PYXIS ALPHA | 8,615 | 2010 | YANGZHOU KEJIN, China | MAN | May-25 | DH | $ 8.9m (en bloc) | undisclosed |  |
-| SMALL | JIN FU XING 602 | 4,117 | 1992 | QIUXIN, China | B\&amp;W |  | DH | undisclosed | Chinese |  |
+| SMALL | NORTHSEA BETA | 8,647 | 2010 | YANGZHOU KEJIN, China | MAN | May-25 | DH | $ 8.9m | undisclosed |  |
+| SMALL | PYXIS ALPHA | 8,615 | 2010 | YANGZHOU KEJIN, China | MAN | May-25 | DH | $ 8.9m | undisclosed |  |
+| SMALL | JIN FU XING 602 | 4,117 | 1992 | QIUXIN, China | B&W |  | DH | undisclosed | Chinese |  |
 
 © Intermodal Research 11/01/2022 4
 
@@ -242,24 +240,23 @@ In the Supramax sector we had the sale of the "SPARROW" (53,459dwt-blt '05, Japa
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | ASL JUPITER | 87,052 | 2005 | IHI MARINE UNITED, Japan | Sulzer | Jul-23 |  | $ 13.15m | Chinese |  |
 | PMAX | EL SOL SALE | 75,894 | 2002 | KANASASHI, Japan | Mitsubishi | Jan-25 |  | $ 11.5m | Chinese | BWTS fitted |
 | PMAX | OCEAN DOTEY | 69,045 | 1995 | SUMITOMO, Japan | Sulzer | Apr-15 |  | $ 7.8m | undisclosed |  |
-| SUPRA | SPARROW | 53,459 | 2005 | IMABARI, Japan | MAN-B&amp;W | Mar-25 | 4 X 30,5t CRANES | $ 13.5m | undisclosed |  |
-| HANDY | TIENTSIN | 37,657 | 2016 | IMABARI, Japan | MAN-B&amp;W | Jul-26 | 4 X 30,5t CRANES | $ 26.5m | undisclosed |  |
-| HANDY | LONGSHORE | 34,399 | 2010 | SPP, S. Korea | MAN-B&amp;W | Jan-25 | 4 X 35t CRANES | $ 15.0m | European | BWTS fitted |
-| HANDY | UNIVERSE HONESTY | 28,520 | 2000 | IMABARI, Japan | B&amp;W | Mar-25 | 4 X 30,5t CRANES | $ 6.8m | undisclosed | BWTS fitted |
+| SUPRA | SPARROW | 53,459 | 2005 | IMABARI, Japan | MAN-B&W | Mar-25 | 4 X 30,5t CRANES | $ 13.5m | undisclosed |  |
+| HANDY | TIENTSIN | 37,657 | 2016 | IMABARI, Japan | MAN-B&W | Jul-26 | 4 X 30,5t CRANES | $ 26.5m | undisclosed |  |
+| HANDY | LONGSHORE | 34,399 | 2010 | SPP, S. Korea | MAN-B&W | Jan-25 | 4 X 35t CRANES | $ 15.0m | European | BWTS fitted |
+| HANDY | UNIVERSE HONESTY | 28,520 | 2000 | IMABARI, Japan | B&W | Mar-25 | 4 X 30,5t CRANES | $ 6.8m | undisclosed | BWTS fitted |
 | HANDY | BAO TENG | 24,086 | 1997 | SAIKI, Japan | Mitsubishi | Jul-22 | 4 X 30t CRANES | region $5.0m | undisclosed |  |
-## Containers
 
-| Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | CHESAPEAKE BAY | 4,253 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Apr-23 |  | $ 55.0m | German (Hapag-Lloyd) |
-| FEEDER | ST EVER | 2,553 | 2011 | NAIKAI ZOSEN, Japan | MAN-B\&amp;W | Jun-25 |  | $ 46.5m | Taiwanese |
-| FEEDER | MOUNT GOUGH | 1,756 | 2016 | OUHUA, China | MAN-B\&amp;W | Jan-22 | CR 1x45 T, CR 2x45 T, CR 1x35 T | $ 42.2m | undisclosed |
+## Containers
+| Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PMAX | CHESAPEAKE BAY | 4,253 | 2003 | SAMSUNG, S. Korea | B&W | Apr-23 |  | $ 55.0m | German (Hapag- Lloyd) |  |
+| FEEDER | ST EVER | 2,553 | 2011 | NAIKAI ZOSEN, Japan | MAN-B&W | Jun-25 |  | $ 46.5m | Taiwanese |  |
+| FEEDER | MOUNT GOUGH | 1,756 | 2016 | OUHUA, China | MAN-B&W | Jan-22 | CR 1x45 T, CR 2x45 T, CR 1x35 T | $ 42.2m | undisclosed |  |
 
 © Intermodal Research 11/01/2022 5
 

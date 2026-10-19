@@ -264,7 +264,7 @@ In the Supramax sector we had the sale of the “SERENE JESSICA” (57,295dwt-bl
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | CAPE | MULAN | 176,279 | 2005 | UNIVERSAL, Japan | MAN-B&W | Nov-25 |  | low $ 16.0m | Chinese | BWTS fitted, bss Sept/Oct 2023 delivery |
 | PMAX | EFROSSINI | 75,003 | 2012 | SASEBO, Japan | MAN-B&W | Feb-27 |  | $ 22.5m | undisclosed | BWTS fitted, bss June 2023 delivery, TCB for 10-14 months at $ 16,050 p/d |
-| PMAX | ES SAKURA | 76,596 | 2007 | IMABARI, Japan | MAN-B&W | Aug-27 |  | xs $ 15.0m | undisclosed | BWTS fitted |
+| PMAX | ES SAKURA | 76,596 | 2007 | IMABARI, Japan | MAN-B&W | Aug-27 |  | xs $ 15,0m | undisclosed | BWTS fitted |
 | SUPRA | NEW BEGINNING | 56,098 | 2013 | MITSUI, Japan | MAN-B&W | Jan-28 | 4 X 30t CRANES | $ 20.5m | European | BWTS fitted |
 | SUPRA | SERENE JESSICA | 57,275 | 2011 | STX DALIAN, China | MAN-B&W | Mar-26 | 4 X 30t CRANES | $ 14.9m | Greek (5 Ocean Shipping) | BWTS fitted |
 | SUPRA | GF ORIENT | 57,295 | 2011 | STX DALIAN, China | MAN-B&W | Jan-26 | 4 X 30t CRANES | $ 13.5m | Chinese (Haitong) | BWTS fitted |

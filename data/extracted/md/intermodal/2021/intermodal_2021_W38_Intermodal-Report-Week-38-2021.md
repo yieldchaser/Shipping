@@ -237,7 +237,7 @@ In the Ultramax sector we had the sale of the "SAILING SKY" (61,346dwt-blt '14, 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | ACACIA REI | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Apr-25 | 2 X 45t CRANES | $ 32.5m | Chinese |
-| FEEDER | ROBERT RICKMERS | 1,730 | 2003 | SZCZECINSKA NOWA STOCZNIА, Poland | Sulzer | Jun-23 | 3 X 40t CRANES | $ 20.0m | Swiss (MSC) |
+| FEEDER | ROBERT RICKMERS | 1,730 | 2003 | SZCZECINSKA NOWA STOCZNIA, Poland | Sulzer | Jun-23 | 3 X 40t CRANES | $ 20.0m | Swiss (MSC) |
 
 © Intermodal Research 28/09/2021 4
 

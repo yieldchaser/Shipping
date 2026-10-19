@@ -139,23 +139,21 @@ Supramax 10TC averaged \$ 10,532/day down -5.20% w-o-w, while the Handysize 7TC 
 
 ---
 
-## Secondhand Sales
-
 ## Tankers
-| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | TRICIA II | 281,050 | 2000 | MITSUBISHI, Japan | Mitsubishi | Dec-28 | DH | $ 20.9m | undisclosed |
-| AFRA | SOFIA II | 105,400 | 2008 | SUMITOMO, Japan | MAN-B\&W | Sep-28 | DH | low $ 31.0m | UAE based |
-| SMALL | VALLEY OAK | 13,131 | 2008 | SEKWANG, S. Korea | MAN-B\&W | Nov-28 | DH | $ 10.5m | undisclosed |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | TRICIA II | 281,050 | 2000 | MITSUBISHI, Japan | Mitsubishi | Dec-28 | DH | $ 20.9m | undisclosed |  |
+| AFRA | SOFIA II | 105,400 | 2008 | SUMITOMO, Japan | MAN-B&W | Sep-28 | DH | low $ 31.0m | UAE based |  |
+| SMALL | VALLEY OAK | 13,131 | 2008 | SEKWANG, S. Korea | MAN-B&W | Nov-28 | DH | $ 10.5m | undisclosed |  |
 
 ## Bulk Carriers
-| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | AMBER HORIZON | 207,993 | 2010 | UNIVERSAL, Japan | MAN-B\&W | Mar-28 |  | $ 33.0m | Chinese |
-| CAPE | NORDBOEN SUN | 169,092 | 2010 | DAEHAN, S. Korea | MAN-B\&W | May-25 |  | $ 23.5m | undisclosed |
-| POST PMAX | PISCES FIRST | 93,238 | 2010 | JIANGSU NEWYANGZI, China | MAN-B\&W | Dec-25 |  | high $ 12.0m | Chinese |
-| KMAX | AM CONTRECOEUR | 82,177 | 2011 | TSUNEISHI, Japan | MAN-B\&W | Nov-26 |  | region $ 17.5m | undisclosed |
-| SUPRA | AURORA 5B | 56,119 | 2009 | MITSUI CHIBA, Japan | MAN-B\&W | Sep-29 | 4 X 30t CRANES | mid high $ 15.0m | undisclosed |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| NEWCASTLEMAX | AMBER HORIZON | 207,993 | 2010 | UNIVERSAL, Japan | MAN-B&W | Mar-28 |  | $ 33.0m | Chinese |  |
+| CAPE | NORDBOEN SUN | 169,092 | 2010 | DAEHAN, S. Korea | MAN-B&W | May-25 |  | $ 23.5m | undisclosed |  |
+| POST PMAX | PISCES FIRST | 93,238 | 2010 | JIANGSU NEWYANGZI, China | MAN-B&W | Dec-25 |  | high $ 12.0m | Chinese |  |
+| KMAX | AM CONTRECOEUR | 82,177 | 2011 | TSUNEISHI, Japan | MAN-B&W | Nov-26 |  | region $ 17.5m | undisclosed |  |
+| SUPRA | AURORA SB | 56,119 | 2009 | MITSUI CHIBA, Japan | MAN-B&W | Sep-29 | 4 X 30t CRANES | mid high $ 15.0m | undisclosed |  |
 
 ---
 

@@ -154,8 +154,8 @@ Supramax 10TC averaged \$ 12,723/day, up +4.39% w-o-w, while the Handysize 7TC a
 | AFRA | P. KIKUMA | 115,915 | 2007 | SAMSUNG, S. Korea | MAN-B\&W | Nov-27 | DH | $ 39.3m | Middle Eastern | Delivery December 2023, BWTS fitted |
 | AFRA | AEGEAN MYTH | 115,838 | 2006 | SAMSUNG, S. Korea | MAN-B\&W | Aug-26 | DH | undisclosed | Chinese | BWTS fitted |
 | MR2 | CHEMTRANS CAROLINA | 53,160 | 2006 | GUANGZHOU, China | Wartsila | Dec-26 | DH | $ 20.1m | undisclosed | BWTS fitted, Ice Class 1A |
-| J19 | GION TRADER | 19,883 | 2015 | USUKI, Japan | MAN-B\&W | Mar-25 | DH | $ 59.4m (en bloc) | Chinese | BWTS fitted |
-| J19 | ALBATROSS TRADER | 19,862 | 2015 | USUKI, Japan | MAN-B\&W | Sep-25 | DH | $ 59.4m (en bloc) | Chinese | BWTS fitted |
+| J19 | GION TRADER | 19,883 | 2015 | USUKI, Japan | MAN-B\&W | Mar-25 | DH | $ 59.4m | Chinese | BWTS fitted |
+| J19 | ALBATROSS TRADER | 19,862 | 2015 | USUKI, Japan | MAN-B\&W | Sep-25 | DH | $ 59.4m | Chinese | BWTS fitted |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |

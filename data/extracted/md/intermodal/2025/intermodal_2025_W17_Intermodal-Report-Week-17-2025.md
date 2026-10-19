@@ -157,8 +157,8 @@ The Handysize market remained generally flat, with little variation in activity 
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | LANDBRIDGE WISDOM | 307,894 | 2020 | DALIAN, China | MAN B\&W | May-25 | DH | $ 206.0m (en bloc) | Oman Shipping | Scrubber fitted, Eco |
-| VLCC | LANDBRIDGE GLORY | 307,852 | 2019 | DALIAN, China | MAN B\&W | Apr-29 | DH | $ 206.0m (en bloc) | Oman Shipping | Scrubber fitted, Eco |
+| VLCC | LANDBRIDGE WISDOM | 307,894 | 2020 | DALIAN, China | MAN B\&W | May-25 | DH | $ 206.0m | Oman Shipping | Scrubber fitted, Eco |
+| VLCC | LANDBRIDGE GLORY | 307,852 | 2019 | DALIAN, China | MAN B\&W | Apr-29 | DH | $ 206.0m | Oman Shipping | Scrubber fitted, Eco |
 | MR2 | GULF ELAN | 46,894 | 2007 | HYUNDAI MIPO, S. Korea | Wartsila | Jan-27 | DH | $ 16.5m | Chinese |  |
 | MR2 | TAMIAT NAVIGATOR | 46,625 | 2010 | HYUNDAI MIPO, S. Korea | MAN B\&W | Aug-25 | DH | $ 18.0m | Greek |  |
 

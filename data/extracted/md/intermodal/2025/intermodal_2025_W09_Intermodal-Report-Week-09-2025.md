@@ -145,8 +145,8 @@ Supramax 10TC averaged \$ 9,351/day up +30.76% w-o-w, while the Handysize 7TC av
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | CAPRICORN SUN | 115,577 | 2007 | SASEBO, Japan | MAN-B\&amp;W | Aug-25 | DH | region $ 61,0 (en bloc) | Chinese |
-| AFRA | RED SUN | 115,325 | 2008 | SASEBO, Japan | MAN-B\&amp;W | Dec-28 | DH | region $ 61,0 (en bloc) | Chinese |
+| AFRA | CAPRICORN SUN | 115,577 | 2007 | SASEBO, Japan | MAN-B\&amp;W | Aug-25 | DH | region $ 61,0 | Chinese |
+| AFRA | RED SUN | 115,325 | 2008 | SASEBO, Japan | MAN-B\&amp;W | Dec-28 | DH | region $ 61,0 | Chinese |
 | LR1 | CHEMTRANS POLARIS | 72,291 | 2005 | HUDONG-ZHONGHUA, China | B\&amp;W | May-25 | DH | $ 12.0m | Chinese |
 | MR2 | NH ERLE | 49,999 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Sep-25 | DH | mid $ 22,0m each | undisclosed |
 | MR2 | NH SIRI | 49,999 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Dec-25 | DH | mid $ 22,0m each | undisclosed |

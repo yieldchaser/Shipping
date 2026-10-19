@@ -139,28 +139,26 @@ Handysize activity stayed steady overall, though trends varied by region. The At
 
 ---
 
-# Secondhand Sales
-
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | STENA SUNSHINE | 159,039 | 2013 | SAMSUNG, S. Korea | MAN B\&W | Sep-27 | DH | $ 58.0m | Greek | Scrubber fitted, Eco |
-| MR2 | STENA IMPRIMIS | 49,718 | 2017 | GSI, China | MAN B\&W | Oct-27 | DH | $ 70.0m (en bloc) | undisclosed | Scrubber fitted, Eco |
-| MR2 | STENA IMPERIO | 49,683 | 2018 | GSI, China | MAN B\&W | Oct-27 | DH | $ 70.0m (en bloc) | undisclosed |  |
+| SUEZ | STENA SUNSHINE | 159,039 | 2013 | SAMSUNG, S. Korea | MAN B&W | Sep-27 | DH | $ 58.0m | Greek | Scrubber fitted, Eco |
+| MR2 | STENA IMPRIMIS | 49,718 | 2017 | GSI, China | MAN B&W | Oct-27 | DH | $ 70.0m | undisclosed | Scrubber fitted, Eco |
+| MR2 | STENA IMPERO | 49,683 | 2018 | GSI, China | MAN B&W | Oct-27 | DH | $ 70.0m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | BULK SANTOS | 208,445 | 2020 | NEW TIMES, China | MAN B\&W | Jun-30 |  | $ 145.5m (en bloc) | undisclosed | Scrubber fitted, Eco |
-| NEWCASTLEMAX | BULK SYDNEY | 207,992 | 2020 | NEW TIMES, China | MAN B\&W | Mar-30 |  | $ 145.5m (en bloc) | undisclosed | Scrubber fitted, Eco |
+| NEWCASTLEMAX | BULK SANTOS | 208,445 | 2020 | NEW TIMES, China | MAN B&W | Jun-30 |  | $ 145.5m | undisclosed | Scrubber fitted, Eco |
+| NEWCASTLEMAX | BULK SYDNEY | 207,992 | 2020 | NEW TIMES, China | MAN B&W | Mar-30 |  | $ 145.5m | undisclosed | Scrubber fitted, Eco |
 | KMAX | CHANG XIN 66 | 79,998 | 2012 | FUJIAN CROWN, China | Wartsila | Jun-27 |  | $ 14.0m | undisclosed |  |
-| PMAX | GNS HARMONY | 77,509 | 2001 | SASEBO, Japan | B\&W | Apr-26 |  | $ 6,75m | undisclosed |  |
-| PMAX | IONIAN PRINCESS | 76,596 | 2007 | IMABARI, Japan | MAN B\&W | Jan-26 |  | $ 10.3m | undisclosed |  |
-| PMAX | JAL KUMUD | 76,302 | 2008 | IMABARI, Japan | MAN B\&W | Jan-28 | 4 X 30t CRANES | $ 13.1m | Chinese |  |
-| UMAX | GREAT VOYAGE | 61,088 | 2021 | DACKS, China | MAN B\&W | Apr-26 | 4 X 30t CRANES | $ 30.5m | Greek |  |
-| UMAX | GRACE HARMONY | 60,259 | 2015 | ONOMICHI, Japan | MAN B\&W | Jul-30 | 4 X 30t CRANES | high $ 24,0m | undisclosed | Eco |
-| SUPRA | TRIDENT STAR | 57,836 | 2015 | TSUNEISHI CEBU, Philippines | MAN B\&W | Oct-30 | 4 X 30t CRANES | $ 18.4m | Japanese | Eco |
-| HANDY | EMIL SELMER | 32,500 | 2010 | JIANGSU ZHEJIANG, China | MAN B\&W | Dec-25 | 4 X 30,5t CRANES | $ 8.0m | undisclosed |  |
+| PMAX | GNS HARMONY | 77,509 | 2001 | SASEBO, Japan | B&W | Apr-26 |  | $ 6,75m | undisclosed |  |
+| PMAX | IONIAN PRINCESS | 76,596 | 2007 | IMABARI, Japan | MAN B&W | Jan-26 |  | $ 10.3m | undisclosed |  |
+| PMAX | JAL KUMUD | 76,302 | 2008 | IMABARI, Japan | MAN B&W | Jan-28 | 4 X 30t CRANES | $ 13.1m | Chinese |  |
+| UMAX | GREAT VOYAGE | 61,088 | 2021 | DACKS, China | MAN B&W | Apr-26 | 4 X 30t CRANES | $ 30.5m | Greek |  |
+| UMAX | GRACE HARMONY | 60,259 | 2015 | ONOMICHI, Japan | MAN B&W | Jul-30 | 4 X 30t CRANES | high $ 24,0m | undisclosed | Eco |
+| SUPRA | TRIDENT STAR | 57,836 | 2015 | TSUNEISHI CEBU, Philippines | MAN B&W | Oct-30 | 4 X 30t CRANES | $ 18.4m | Japanese | Eco |
+| HANDY | EMIL SELMER | 32,500 | 2010 | JIANGSU ZHEJIANG, China | MAN B&W | Dec-25 | 4 X 30,5t CRANES | $ 8.0m | undisclosed |  |
 | HANDY | KALLISTI GS | 32,077 | 2010 | HAKODATE, Japan | Mitsubishi | Feb-30 | 4 X 30t CRANES | low $11,0m | undisclosed |  |
 
 ---

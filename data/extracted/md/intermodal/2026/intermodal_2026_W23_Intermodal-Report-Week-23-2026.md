@@ -151,8 +151,8 @@ Handysize conditions remained mostly restrained, although Asia and the US Gulf s
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | MAXIM | 296,887 | 2011 | SHANGHAI JIANGNAN, China | MAN B\&amp;W | Jun-26 | DH | $ 82.0m | S. Korean (Sinokor) | Scrubber fitted, forward delivery |
-| J19 | SINAR MALAHAYATI | 20,938 | 2006 | SHIN KURUSHIMA, Japan | MAN B\&amp;W | Jul-26 | DH | $ 22,95m (en bloc) | undisclosed | StSt, TC attached at 14,7k p/d |
-| J19 | SINAR MENDAWAI | 19,998 | 2008 | USUKI SHIPYARD, Japan | MAN B\&amp;W | Jul-28 | DH | $ 22,95m (en bloc) | undisclosed | StSt, TC attached at 13,7k p/d |
+| J19 | SINAR MALAHAYATI | 20,938 | 2006 | SHIN KURUSHIMA, Japan | MAN B\&amp;W | Jul-26 | DH | $ 22,95m | undisclosed | StSt, TC attached at 14,7k p/d |
+| J19 | SINAR MENDAWAI | 19,998 | 2008 | USUKI SHIPYARD, Japan | MAN B\&amp;W | Jul-28 | DH | $ 22,95m | undisclosed | StSt, TC attached at 13,7k p/d |
 | SMALL | GOLDEN CURL | 17,088 | 2008 | JIUJIANG, China | MAN B\&amp;W | Apr-28 | DH | $ 9.0m | undisclosed |  |
 
 ## Bulk Carriers

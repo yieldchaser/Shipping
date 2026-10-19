@@ -218,25 +218,24 @@ In the Handysize sector we had the sale of the “OCEAN FALCON” (37,152dwt-blt
 ---
 
 # Intermodal Secondhand Sales
-## Bulk Carriers
-
+## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | CHELSEA | 300,000 | 2020 | DAEWOO, S. Korea | MAN-B&amp;W | Jan-25 |  | rgn $ 184.0m (en bloc) | Greek (Euronav) | BWTS &amp; scrubber fitter |
-| VLCC | GHILLIE | 299,995 | 2019 | DAEWOO, S. Korea | MAN-B&amp;W | Nov-24 |  | rgn $ 184.0m (en bloc) | Greek (Euronav) | BWTS &amp; scrubber fitter |
+| VLCC | CHELSEA | 300,000 | 2020 | DAEWOO, S. Korea | MAN-B&W | Jan-25 |  | rgn $ 184.0m | Greek (Euronav) | BWTS & scrubber fitter |
+| VLCC | GHILLIE | 299,995 | 2019 | DAEWOO, S. Korea | MAN-B&W | Nov-24 |  | rgn $ 184.0m | Greek (Euronav) | BWTS & scrubber fitter |
 | AFRA | BANDA SEA | 105,576 | 2007 | SUMITOMO, Japan | Sulzer | May-22 |  | $ 21.0m | Greek |  |
-| AFRA | ASTRO SCULPTOR | 105,109 | 2003 | DAEWOO, Korea, South | B&amp;W | Jan-23 |  | $ 15.6m | undisclosed |  |
-| MR2 | HAMMONIA ARTEMIS | 49,708 | 2016 | HRVATSKA BRODOGRADNJA, Croatia | MAN-B&amp;W | Dec-21 |  | $ 25.75m | German (Hammonia Reederei) | old deal/delivered |
-| MR2 | HAMMONIA ATHENE | 49,708 | 2015 | HRVATSKA BRODOGRADNJA, Croatia | MAN-B&amp;W | Sep-25 |  | $ 24.75m | German (Hammonia Reederei) | old deal/delivered |
-| MR2 | ST.JACOBI | 50,209 | 2014 | STX, S. Korea | MAN-B&amp;W | Jan-24 |  | $ 22.9m | Indonesian |  |
-| MR2 | HIGH SATURN | 51,527 | 2008 | STX, S. Korea | MAN-B&amp;W | Apr-23 |  | $ 14.25m | Greek |  |
-| MR2 | ARCTIC BREEZE | 50,885 | 2006 | SPP, S. Korea | MAN-B&amp;W | Apr-26 |  | rgn $ 24.0m (en bloc) | undisclosed |  |
-| MR2 | ARCTIC BLIZZARD | 49,990 | 2006 | STX, S. Korea | MAN-B&amp;W | May-26 |  | rgn $ 24.0m (en bloc) | undisclosed |  |
-| MR1 | TORM GYDA | 36,207 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jan-24 |  | $ 13.7m | Greek (Ancora) |  |
-| MR1 | SEAWAYS CAPE HORN | 37,662 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Aug-26 |  | $ 9.9m | German (Chemikalien Seetransport) | BWTS fitted |
+| AFRA | ASTRO SCULPTOR | 105,109 | 2003 | DAEWOO, Korea, South | B&W | Jan-23 |  | $ 15.6m | undisclosed |  |
+| MR2 | HAMMONIA ARTEMIS | 49,708 | 2016 | HRVATSKA BRODOGRADNJA, Croatia | MAN-B&W | Dec-21 |  | $ 25.75m | German (Hammonia Reederei) | old deal/delivered |
+| MR2 | HAMMONIA ATHENE | 49,708 | 2015 | HRVATSKA BRODOGRADNJA, Croatia | MAN-B&W | Sep-25 |  | $ 24.75m | German (Hammonia Reederei) | old deal/delivered |
+| MR2 | ST.JACOBI | 50,209 | 2014 | STX, S. Korea | MAN-B&W | Jan-24 |  | $ 22.9m | Indonesian |  |
+| MR2 | HIGH SATURN | 51,527 | 2008 | STX, S. Korea | MAN-B&W | Apr-23 |  | $ 14.25m | Greek |  |
+| MR2 | ARCTIC BREEZE | 50,885 | 2006 | SPP, S. Korea | MAN-B&W | Apr-26 |  | rgn $ 24.0m | undisclosed |  |
+| MR2 | ARCTIC BLIZZARD | 49,990 | 2006 | STX, S. Korea | MAN-B&W | May-26 |  | rgn $ 24.0m | undisclosed |  |
+| MR1 | TORM GYDA | 36,207 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-24 |  | $ 13.7m | Greek (Ancora) |  |
+| MR1 | SEAWAYS CAPE HORN | 37,662 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&W | Aug-26 |  | $ 9.9m | German (Chemikalien Seetransport) | BWTS fitted |
 | MR1 | SEAWAYS AMBROSE | 37,623 | 2006 | HYUNDAI MIPO, S. Korea | Wartsila | Mar-26 |  | $ 9.9m | German (Chemikalien Seetransport) | BWTS fitted |
-| MR1 | SEAWAYS CHANIA | 36,713 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Apr-26 |  | $ 9.9m | German (Chemikalien Seetransport) | BWTS fitted |
-| MR1 | SEAWAYS CANAVERAL | 37,582 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jul-26 |  | $ 9.85m | Turkish (Trans KA) |  |
+| MR1 | SEAWAYS CHANIA | 36,713 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&W | Apr-26 |  | $ 9.9m | German (Chemikalien Seetransport) | BWTS fitted |
+| MR1 | SEAWAYS CANAVERAL | 37,582 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jul-26 |  | $ 9.85m | Turkish (Trans KA) |  |
 | J19 | FOREST PARK | 19,803 | 2013 | KITANIHON, Japan | Mitsubishi | Nov-23 |  | $ 16.5m | undisclosed |  |
 | SMALL | OCEAN COD | 13,499 | 2018 | ZHEJIANG SHENZHOU, China | Wartsila | Dec-23 |  | undisclosed | Chinese |  |
 | SMALL | OCEAN BASS | 13,498 | 2018 | ZHEJIANG SHENZHOU, China | Wartsila | Oct-23 |  | undisclosed | Chinese |  |
@@ -247,10 +246,21 @@ In the Handysize sector we had the sale of the “OCEAN FALCON” (37,152dwt-blt
 ---
 
 # Intermodal Secondhand Sales
-## Secondhand Sales
-
-| Bulk Carriers Size KMAX PMAX PMAX PMAX UMAX SUPRA SUPRA SUPRA HMAX HANDY HANDY HANDY | Bulk Carriers Name ROSCO PALM WEN JUN 2 DORIC ARROW SHAO SHAN 1 NAVIGARE BACCA GDF SUEZ NORTH SEA NZ SHANGHAI ELIM PEACE CORONA NILE CONFIDANTE OCEAN FALCON ZEUS IV | Bulk Carriers Dwt 82,153 75,259 75,121 74,009 61,213 55,848 54,808 51,187 46,685 37,405 37,152 32,165 | Bulk Carriers Built 2011 2001 2001 1997 2016 2012 2010 2003 1999 2012 2011 2009 | Bulk Carriers Yard TSUNEISHI ZHOUSHAN, China SAMHO, S. Korea HITACHI ZOSEN, Japan TSUNEISHI, Japan IMABARI, Japan IHI, Japan JIANGSU QINFENG, China NEW TIMES, China SANOYAS, Japan SHANDONG HUAHAI, China HYUNDAI MIPO, S. Korea HAKODATE, Japan | Bulk Carriers M/E MAN-B\&amp;W B\&amp;W B\&amp;W B\&amp;W MAN-B\&amp;W Wartsila MAN-B\&amp;W MAN-B\&amp;W Sulzer Wartsila MAN-B\&amp;W Mitsubishi | Bulk Carriers SS due Jan-26 Mar-26 Feb-26 Jun-22 Apr-26 Jun-25 Jul-25 Jan-23 Mar-24 May-24 May-26 May-22 | Bulk Carriers Gear4 X 30,7t CRANES 4 X 30t CRANES 4x36.0, 4x30.0 4 X 30t CRANES 4 X 30t CRANES 4 X 30t CRANES 4 X 30t CRANES 4 X 30t CRANES | Bulk Carriers Price $ 26.0m $ 9.9m rgn $ 13.0m $ 8.6m $ 32.3m $ 22.5m $ 16.9m rgn $ 12.5m $ 10.2m high $ 12.0m $ 18.2m $ 17.0m | Bulk Carriers Buyers undisclosed undisclosed undisclosed Chinese Bangladeshi Vietnamese undisclosed Chinese undisclosed Asian Greek undisclosed | Bulk Carriers Comments BWTS fitted old sale, delivery january 2023 rgn $ 13.0mBWTS fittedonline commercial auctionBWTS fittedBWTS fitted auction sale, BWTS fitted |
+## Bulk Carriers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| KMAX | ROSCO PALM | 82,153 | 2011 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jan-26 |  | $ 26.0m | undisclosed | BWTS fitted |
+| PMAX | WEN JUN 2 | 75,259 | 2001 | SAMHO, S. Korea | B&W | Mar-26 |  | $ 9.9m | undisclosed | old sale, delivery january 2023 |
+| PMAX | DORIC ARROW | 75,121 | 2001 | HITACHI ZOSEN, Japan | B&W | Feb-26 |  | rgn $ 13.0m | undisclosed | rgn $ 13.0m |
+| PMAX | SHAO SHAN 1 | 74,009 | 1997 | TSUNEISHI, Japan | B&W | Jun-22 |  | $ 8.6m | Chinese |  |
+| UMAX | NAVIGARE BACCA | 61,213 | 2016 | IMABARI, Japan | MAN-B&W | Apr-26 | 4 X 30,7t CRANES | $ 32.3m | Bangladeshi | BWTS fitted |
+| SUPRA | GDF SUEZ NORTH SEA | 55,848 | 2012 | IHI, Japan | Wartsila | Jun-25 | 4 X 30t CRANES | $ 22.5m | Vietnamese |  |
+| SUPRA | NZ SHANGHAI | 54,808 | 2010 | JIANGSU QINFENG, China | MAN-B&W | Jul-25 | 4x36.0, 4x30.0 | $ 16.9m | undisclosed | online commercial auction |
+| SUPRA | ELIM PEACE | 51,187 | 2003 | NEW TIMES, China | MAN-B&W | Jan-23 | 4 X 30t CRANES | rgn $ 12.5m | Chinese |  |
+| HMAX | CORONA | 46,685 | 1999 | SANOYAS, Japan | Sulzer | Mar-24 | 4 X 30t CRANES | $ 10.2m | undisclosed | BWTS fitted |
+| HANDY | NILE CONFIDANTE | 37,405 | 2012 | SHANDONG HUAHAI, China | Wartsila | May-24 | 4 X 30t CRANES | high $ 12.0m | Asian |  |
+| HANDY | OCEAN FALCON | 37,152 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&W | May-26 | 4 X 30t CRANES | $ 18.2m | Greek | BWTS fitted |
+| HANDY | ZEUS IV | 32,165 | 2009 | HAKODATE, Japan | Mitsubishi | May-22 | 4 X 30t CRANES | $ 17.0m | undisclosed | auction sale, BWTS fitted |
 
 © Intermodal Research 19/04/2022 5
 

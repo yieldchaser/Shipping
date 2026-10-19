@@ -228,7 +228,7 @@ In the Supramax sector we had the sale of the "OREO" (55,430dwt-bl't '08, Japan)
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | AS SERAFINA | 1,713 | 2010 | CSBC, Taiwan | MAN-B&amp;W | Jun-25 | 2 X 40t CRANES | $ 33.0m | French (CMA CGM) | auction sale |
-| FEEDER | X-PRESS YAMUNA | 1,162 | 1998 | SZCZECIINSKA STOCZNIA, Poland | B&amp;W | May-23 | 3 X 40t CRANES | undisclosed | Middle Eastern |  |
+| FEEDER | X-PRESS YAMUNA | 1,162 | 1998 | SZCZECINSKA STOCZNIA, Poland | B&amp;W | May-23 | 3 X 40t CRANES | undisclosed | Middle Eastern |  |
 ## Secondhand Sales
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |

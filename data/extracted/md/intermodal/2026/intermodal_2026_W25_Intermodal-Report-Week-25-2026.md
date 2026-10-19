@@ -163,8 +163,8 @@ Secondhand Sales
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | RTM COLUMBUS | 205,514 | 2013 | HHIC, Philippines | MAN B\&W | Apr-28 |  | $ 88.0m (en bloc) | undisclosed |  |
-| NEWCASTLEMAX | RTM DAMPIER | 205,449 | 2012 | HHIC, Philippines | MAN B\&W | Jun-27 |  | $ 88.0m (en bloc) | undisclosed |  |
+| NEWCASTLEMAX | RTM COLUMBUS | 205,514 | 2013 | HHIC, Philippines | MAN B\&W | Apr-28 |  | $ 88.0m | undisclosed |  |
+| NEWCASTLEMAX | RTM DAMPIER | 205,449 | 2012 | HHIC, Philippines | MAN B\&W | Jun-27 |  | $ 88.0m | undisclosed |  |
 | KMAX | MONT BLANC HAWK | 81,638 | 2017 | IMABARI, Japan | MAN B\&W | Jul-27 |  | high $ 32,0m | undisclosed | Eco type |
 | SUPRA | LILA CUMBERLAND | 56,531 | 2013 | JIANGSU HANTONG, China | Wartsila | Jun-28 | 4 x 36t CRANES | $ 16.5m | UAE based | Tier II |
 | SUPRA | OCEAN BRIGHT | 56,032 | 2013 | MITSUI TAMANO, Japan | MAN B\&W | Aug-28 | 4 X 30t CRANES | high $ 19,0m | undisclosed |  |

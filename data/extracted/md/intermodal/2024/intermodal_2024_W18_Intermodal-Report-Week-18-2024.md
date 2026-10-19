@@ -163,7 +163,7 @@ Panamax 5TC averaged \$ 17,999/day, up **+7.56%** w-o-w. The transatlantic earni
 | SUPRA | DELTA AVON | 56,897 | 2012 | COSCO GUANGDONG, China | MAN-B\&W | Mar-27 | 4 X 30t CRANES | $ 14.3m | Chinese | BWTS fitted |
 | SUPRA | PACIFIC HONOR | 58,912 | 2011 | KAWASAKI, Japan | MAN-B\&W | Sep-25 | 4 X 30,5t CRANES | $ 19.45m | undisclosed |  |
 | SUPRA | CHEVAL BLANC | 56,732 | 2009 | JIANGSU HANTONG, China | MAN-B\&W | Sep-24 | 4 X 35t CRANES | $ 11.5m | undisclosed | BWTS fitted |
-| SUPRA | SIBULK TRADITION | 53,206 | 2008 | IWAGI ZOSEN, Japan | MAN-B\&W | Jul-25 | 4x30,5t CRANES | $ 14.5m | undisclosed | BWTS fitted |
+| SUPRA | SIBULK TRADITION | 53,206 | 2008 | IWAGI ZOSEN, Japan | MAN-B\&W | Jul-25 | 4x30.5t CRANES | $ 14.5m | undisclosed | BWTS fitted |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |

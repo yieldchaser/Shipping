@@ -203,27 +203,48 @@ In the Handysize sector we had the sale of the "MALTO HOPE" (28,226dwt-blt '13, 
 ---
 
 # Intermodal Secondhand Sales
-## Secondhand Sales
+## Tankers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LR2 | LILA FUJAIRAH | 113,849 | 2007 | DAEWOO, S. Korea | MAN-B&W | Oct-22 | DH | $ 27.8m | undisclosed | BWTS fitted |
+| LR1 | ARISTOS | 74,999 | 2006 | ONOMICHI, Japan | Mitsubishi | Aug-26 | DH | excess $ 22.0m | UAE based | BWTS fitted |
+| MR2 | HYDE | 46,858 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B&W | Oct-22 | DH | undisclosed | Nigerian | BWTS, Scrubber fitted |
+| MR2 | NCC SUDAIR | 46,012 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B&W | Nov-22 | DH | undisclosed | undisclosed |  |
+| MR2 | NCC RABIGH | 45,951 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B&W | Nov-22 | DH | undisclosed | undisclosed |  |
+| MR1 | BALTIC MONARCH | 37,273 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jul-26 | DH | $ 15.1m | Greek | BWTS fitted |
+| SMALL | TIGER INTEGRITY | 25,082 | 2018 | KITANIHON, Japan | MAN-B&W | Jan-23 | DH | $ 180.0m | undisclosed |  |
+| SMALL | TIGER JOY | 25,284 | 2017 | SHITANOE, Japan | MAN-B&W | Sep-22 | DH | $ 180.0m | undisclosed |  |
+| SMALL | TIGER GLORY | 25,273 | 2017 | FUKUOKA, Japan | MAN-B&W | Dec-22 | DH | $ 180.0m | undisclosed |  |
+| SMALL | TIGER TENACITY | 25,086 | 2017 | KITANIHON, Japan | MAN-B&W | Oct-22 | DH | $ 180.0m | undisclosed |  |
+| SMALL | TIGER HARMONY | 19,994 | 2016 | KITANIHON, Japan | Mitsubishi | May-26 | DH | $ 180.0m | undisclosed |  |
+| SMALL | CELSIUS MEXICO | 20,866 | 2008 | SHIN KURUSHIMA, Japan | MAN-B&W | Sep-22 | DH | $ 15.5m | Chinese | StSt |
+| SMALL | ATLANTIK MIRACLE | 11,320 | 2008 | SELAH, Turkey | MaK | Apr-22 | DH | $ 7.0m | Turkish |  |
+| SMALL | VALOUR ONE | 6,603 | 2010 | GEO MARINE, S. Korea | Hyundai Himsen | May-24 | DH | $ 7.5m | Middle Eastern |  |
 
-| Tankers Size LR2 LR1 MR2 MR2 MR2 MR1 SMALL SMALL SMALL SMALL SMALL SMALL SMALL SMALL | Tankers Name LILA FUJAIRA ARISTOS HYDE NCC SUDAIR NCC RABIGH BALTIC MONARCH TIGER INTEGRITY TIGER JOY TIGER GLORY TIGER TENACITY TIGER HARMONY CELSIUS MEXICO ATLANTIK MIRACLE VALOUR ONE | Tankers Dwt 113,849 74,999 46,858 46,012 45,951 37,273 25,082 25,284 25,273 25,086 19,994 20,866 11,320 6,603 |
-| --- | --- | --- |
-| Bulk Carriers |  |  |
+## Bulk Carriers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLOC | STELLA DAPHNE | 250,381 | 2017 | QINQDAO, China | WinGD | Jul-27 |  | region $ 98.0m | Singapore based (Berge Bulk) | BWTS fitted |
+| VLOC | STELLA ISABEL | 250,379 | 2015 | QINQDAO, China | Wartsila | Aug-25 |  | region $ 98.0m | Singapore based (Berge Bulk) | BWTS fitted |
+| PMAX | ZHONG LIAN SI FANG | 73,747 | 2000 | SUMITOMO, Japan | Sulzer | Apr-27 |  | $ 10.6m | undisclosed | via commercial auction, Chinese flag |
+| HANDY | MALTO HOPE | 28,226 | 2013 | I-S SHIPYARD, Japan | MAN-B&W | Jul-23 | 4 X 30,5t CRANES | $ 13.7m | Middle Eastern | BWTS fitted |
+| HANDY | ECO DESTINY | 35,287 | 2005 | SHIKOKU, Japan | B&W | May-25 | 4 X 30t CRANES | region $ 12.7m | Middle Eastern | BWTS fitted |
+| HANDY | VTC PLANET | 22,176 | 1993 | SAIKI, Japan | Mitsubishi | Mar-27 | 4 X 30t CRANES | $ 5.1m | Midde Eastern | BWTS fitted |
 
 © Intermodal Research 06/09/2022 4
 
 ---
 
 # Intermodal Secondhand Sales
-## Secondhand Sales
-
+## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | BURGUNDY | 3,426 | 2008 | NORDSEEWERKE, Germany | MAN-B&amp;W | Dec-23 |  | excess $ 24.0m | Italian (RifLine) | incl. TC attached |
-## Secondhand Sales
+| PMAX | BURGUNDY | 3,426 | 2008 | NORDSEEWERKE, Germany | MAN-B&W | Dec-23 |  | excess $ 24.0m | Italian (RifLine) | incl. TC attached |
 
-| Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LNG | KMARIN DIAMOND | 84,553 | 2008 | HYUNDAI SAMHO, S. Korea | Wartsila | Oct-23 | 151,883 | undisclosed | Greek |
+## Gas/LPG/LNG
+| Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LNG | KMARIN DIAMOND | 84,553 | 2008 | HYUNDAI SAMHO, S. Korea | Wartsila | Oct-23 | 151,883 | undisclosed | Greek |  |
 
 © Intermodal Research 06/09/2022 5
 

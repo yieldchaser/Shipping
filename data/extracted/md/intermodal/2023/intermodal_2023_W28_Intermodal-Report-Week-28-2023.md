@@ -160,11 +160,11 @@ Supramax 10TC averaged \$ 8,081/day, down -0.25% w-o-w, while the Handysize 7TC 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | BULK INGENUITY | 176,022 | 2011 | JINHAI, China | MAN-B\&W | Dec-26 |  | $ 106.0m (en bloc) | Greek (Danaos) | BWTS fitted |
-| CAPE | BULK INTEGRITY | 175,966 | 2010 | JINHAI, China | MAN-B\&W | Dec-25 |  | $ 106.0m (en bloc) | Greek (Danaos) | BWTS fitted |
-| CAPE | BULK PEACE | 175,858 | 2010 | JINHAI, China | MAN-B\&W | Mar-25 |  | $ 106.0m (en bloc) | Greek (Danaos) | BWTS fitted |
-| CAPE | BULK ACHIEVEMENT | 175,850 | 2011 | JINHAI, China | MAN-B\&W | Jan-26 |  | $ 106.0m (en bloc) | Greek (Danaos) | BWTS fitted |
-| CAPE | BULK GENIUS | 175,580 | 2012 | JINHAI, China | MAN-B\&W | Jun-27 |  | $ 106.0m (en bloc) | Greek (Danaos) | BWTS fitted |
+| CAPE | BULK INGENUITY | 176,022 | 2011 | JINHAI, China | MAN-B\&W | Dec-26 |  | $ 106.0m | Greek (Danaos) | BWTS fitted |
+| CAPE | BULK INTEGRITY | 175,966 | 2010 | JINHAI, China | MAN-B\&W | Dec-25 |  | $ 106.0m | Greek (Danaos) | BWTS fitted |
+| CAPE | BULK PEACE | 175,858 | 2010 | JINHAI, China | MAN-B\&W | Mar-25 |  | $ 106.0m | Greek (Danaos) | BWTS fitted |
+| CAPE | BULK ACHIEVEMENT | 175,850 | 2011 | JINHAI, China | MAN-B\&W | Jan-26 |  | $ 106.0m | Greek (Danaos) | BWTS fitted |
+| CAPE | BULK GENIUS | 175,580 | 2012 | JINHAI, China | MAN-B\&W | Jun-27 |  | $ 106.0m | Greek (Danaos) | BWTS fitted |
 | KMAX | JY ATLANTIC | 81,096 | 2019 | CHENGXI, China | MAN-B\&W | Nov-24 |  | $ 30.15m | European | Eco |
 | UMAX | MONA MANX | 63,878 | 2017 | TSUNEISHI ZHOUSHAN, China | MAN-B\&W | Jul-27 | 4 X 30t CRANES | excess $ 27.0m | Far Eastern | Eco |
 | HANDY | TOMINI ZONDA | 37,976 | 2016 | OUHUA, China | MAN-B\&W | Aug-26 | 4 X 30t CRANES | $19.36m | Greek | Eco |

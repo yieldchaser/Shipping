@@ -249,17 +249,19 @@ In the Kamsarmax sector we had the sale of the “SM AURORA” (81,970dwt-blt �
 
 | Tankers | Tankers | Tankers | Tankers | Tankers | Tankers | Tankers | Tankers | Tankers | Tankers | Tankers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | ASTRO PERSEUS | 159,116 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jan-24 | DH | $ 18.5m | Middle Eastern | DD due |
 | AFRA | ANTONIS | 113,563 | 2017 | DAEHAN, S. Korea | MAN-B&W | Jun-22 | DH | $ 44.5m | Swiss based (Advantage Tankers) |  |
-| MR2 | HYUNDAI VIETNAM SS01 | 50,000 | 2022 | HYUNDAI VIETNAM, Vietnam | MAN-B&W |  | DH | $ 38.0m |  | delivery November 2022, scrubber ready |
+| MR2 | HYUNDAI VIETNAM S501 | 50,000 | 2022 | HYUNDAI VIETNAM, Vietnam | MAN-B&W |  | DH | $ 38.0m |  | delivery November 2022, scrubber ready |
 | MR2 | PTI RHINE | 51,271 | 2007 | STX, S. Korea | MAN-B&W | Feb-22 | DH | $ 9.95m | Indian | SS/DD due |
 | MR2 | PTI AMAZON | 51,218 | 2007 | STX, S. Korea | MAN-B&W | Mar-22 | DH | $ 9.95m | Indian | SS/DD due |
 | SMALL | RESOLUTION | 9,971 | 2006 | YARDIMCI, Turkey | MAN-B&W | Mar-23 | DH | undisclosed | Indian |  |
 
-| Bulk Carriers | Bulk Carriers | Bulk Carriers | Bulk Carriers | Bulk Carriers | Bulk Carriers | Bulk Carriers | Bulk Carriers | Bulk Carriers | Bulk Carriers | Bulk Carriers |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | CHINA STEEL REALIST | 203,512 | 2007 | CSBC, Taiwan | MAN-B&W | Apr-22 |  | rgn $ 21.5m | Chinese |  |
 | KMAX | SM AURORA | 81,970 | 2012 | JIANGSU EASTERN, China | MAN-B&W | Aug-22 |  | $ 21.0m | Chinese | Tier II, bss delivery within Q1-2021 |
 | SUPRA | CHERRY DREAM | 51,703 | 2011 | OSHIMA, Japan | Mitsubishi | Feb-26 | 4 X 30t CRANES | high $ 17.0m | undisclosed | OHBS, BWTS fitted, Tier II |
@@ -281,7 +283,9 @@ In the Kamsarmax sector we had the sale of the “SM AURORA” (81,970dwt-blt �
 
 | Containers | Containers | Containers | Containers | Containers | Containers | Containers | Containers | Containers | Containers | Containers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | LOS ANGELES TRADER | 5,527 | 2007 | CSBC CORP, Taiwan | Wartsila | Sep-22 |  | undisclosed | Swiss (MSC) |  |
 | PMAX | LONG BEACH TRADER | 5,527 | 2007 | CSBC CORP, Taiwan | Wartsila | Nov-22 |  | undisclosed | Swiss (MSC) |  |
 | PMAX | X-PRESS GUERNSEY | 5,001 | 2015 | SAMJIN, China | MAN-B&W | Jan-25 |  | rgn $ 105.0m | Swiss (MSC) |  |

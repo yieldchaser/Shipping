@@ -224,16 +224,28 @@ In the Supramax sector we had the sale of the "MELATI LAUT" (56,643dwt-blt '11, 
 
 # Intermodal Secondhand Sales
 ## Tankers
-
-| Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | CHANG BAI SAN | 318,445 | 2012 | SWS, China | Wartsila | Jul-22 | DH | $ 41.5m | Greek |  |
-| VLCC | KATSURAGISAN | 311,620 | 2005 | KAWASAKI, Japan | MAN-B\&amp;W | Jun-22 | DH | excess $ 30.0m | undisclosed |  |
-| MR | TMN PRIDE | 48,676 | 2006 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Oct-21 | DH | $ 8.10m | undisclosed |  |
-| SMALL | FSL NEW YORK | 19,970 | 2006 | USUKI, Japan | MAN-B\&amp;W | Sep-21 | DH | $ 10.0m | Korean | St-St |
-| SMALL | GEMA | 19,831 | 2001 | ADMIRALTEYSKIY, Russia | B\&amp;W | Aug-21 | DH | $ 5.0m | undisclosed |  |
-| SMALL | ANUKET AMBER | 9,596 | 2008 | ZHEJIANG JINGANG, China | MaK | Jul-23 | DH | $ 5.0m | Singapore-based (FSL Trust) | incl. 8 yrs BB charter attached |
-| Bulk Carriers |  |  |  |  |  |  |  |  |  |  |
+| VLCC | KATSURAGISAN | 311,620 | 2005 | KAWASAKI, Japan | MAN-B&W | Jun-22 | DH | excess $ 30.0m | undisclosed |  |
+| MR | TMN PRIDE | 48,676 | 2006 | IWAGI ZOSEN, Japan | MAN-B&W | Oct-21 | DH | $ 8.10m | undisclosed |  |
+| SMALL | FSL NEW YORK | 19,970 | 2006 | USUKI, Japan | MAN-B&W | Sep-21 | DH | $ 10.0m | Korean | St-St |
+| SMALL | GEMA | 19,831 | 2001 | ADMIRALTEYSKIY, Russia | B&W | Aug-21 | DH | $ 5.0m | undisclosed |  |
+| SMALL | ANUKET AMBER | 9,596 | 2008 | ZHEJIANG JINGANG, China | MaK | Jul-23 | DH | $ 5.0m | Singapore- based (FSL Trust) | incl. 8 yrs BB charter attached |
+
+## Bulk Carriers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CAPE | FRONTIER PHOENIX | 181,356 | 2011 | KOYO MIHARA, Japan | MAN-B&W | Nov-21 |  | $ 33.75m | Greek |  |
+| POST PMAX | ISHIZUCHI | 77,247 | 2006 | SASEBO, Japan | MAN-B&W | Dec-21 |  | $ 16.5m | Chinese | Coal carrier, BEAM 36.5m, 5HO/HA |
+| PMAX | PRISCILLA VENTURE | 77,283 | 2008 | OSHIMA, Japan | MAN-B&W | Mar-23 |  | low $ 18.0m | Chinese |  |
+| PMAX | ADS GALTESUND | 75,395 | 2007 | UNIVERSAL, Japan | MAN-B&W | Jan-22 |  | $ 15.9m | Chinese | delivery January 2022 |
+| SMAX | MELATI LAUT | 56,643 | 2011 | QINGSHAN, China | MAN-B&W | Dec-21 | 4 X 30t CRANES | $ 15.3m | Chinese |  |
+| SMAX | ATLANTIC ENSENADA | 55,814 | 2006 | KAWASAKI, Japan | MAN-B&W | Apr-23 | 4 X 30,5t CRANES | $ 15.8m | high $ 15.0m | delivery October- November 2021 |
+| SMAX | SPAR DRACO | 53,565 | 2006 | CHENGXI, China | MAN-B&W | Oct-21 | 4 X 36t CRANES | $ 13.3m | undisclosed | delivery September 2021 in Korea |
+| SMAX | ASHIYA STAR | 52,223 | 2006 | OSHIMA, Japan | Mitsubishi | Oct-21 | 4 X 30t CRANES | rgn-low $ 13.0m | undisclosed | BWTS fitted, delivery February 2022 |
+| HMAX | WAN AN | 42,717 | 1998 | IHI, Japan | Sulzer | Jan-26 | 4 X 30t CRANES | $ 7.0m | Chinese |  |
+| HANDY | HOUSTON PEARL | 35,914 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-26 | 4 X 35t CRANES | undisclosed | undisclosed | BWTS fitted |
 
 © Intermodal Research 24/08/2021 4
 
@@ -241,13 +253,18 @@ In the Supramax sector we had the sale of the "MELATI LAUT" (56,643dwt-blt '11, 
 
 # Intermodal Secondhand Sales
 ## Containers
+| Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| FEEDER | CORDELIA | 2,824 | 2003 | HYUNDAI MIPO, S. Korea | B&W | Aug-23 |  | $ 39.0m | undisclosed |  |
+| FEEDER | OKEE ANN MARI | 1,740 | 2002 | GUANGZHOU WENCHONG, China | MAN-B&W | Dec-22 | 2 X 40t CRANES | low $ 20.0m | Swiss (MSC) |  |
+| FEEDER | GERRIT BRAREN | 1,706 | 2006 | AKER MTW WERFT, GERMANY | MAN | Oct-22 | 3 X 45t CRANES | $ 25.0m | Singapore-based (X-Press Feeders) |  |
 
-| Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | CORDELIA | 2,824 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Aug-23 |  | $ 39.0m | undisclosed |
-| FEEDER | OKEE ANN MARI | 1,740 | 2002 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Dec-22 | 2 X 40t CRANES | low $ 20.0m | Swiss (MSC) |
-| FEEDER | GERRIT BRAREN | 1,706 | 2006 | AKER MTW WERFT, GERMANY | MAN | Oct-22 | 3 X 45t CRANES | $ 25.0m | Singapore-based (X-Press Feeders) |
-| Gas/LPG/LNG |  |  |  |  |  |  |  |  |  |
+## Gas/LPG/LNG
+| Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | CAPTAIN MARKOS NL | 58,585 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Nov-21 | 80,701 | around $ 42- 43m | undisclosed |  |
+| LPG | BOW GUARDIAN | 9,999 | 2008 | STX, S. Korea | MAN-B&W | May-23 | 9,195 | undisclosed | Singapore based (BW Epic Kosan) | part cash-part shares |
+| LPG | BOW GALLANT | 9,999 | 2008 | STX, S. Korea | MAN-B&W | Jul-23 | 9,000 | undisclosed | Singapore based (BW Epic Kosan) | part cash-part shares |
 
 © Intermodal Research 24/08/2021 5
 

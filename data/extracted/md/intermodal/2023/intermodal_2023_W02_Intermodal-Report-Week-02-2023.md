@@ -215,31 +215,30 @@ In the Supramax sector we had the sale of the "ASTRA PERSEUS" (58,518dwt-blt '12
 
 # Intermodal Secondhand Sales
 ## Tankers
-
-| Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | FPMC C HONOR | 298,078 | 2008 | UNIVERSAL, Japan | MAN-B\&amp;W | Nov-23 | DH | region $ 55.5m | UAE based | BWTS, Scrubber fitted |
-| AFRA | SEAMAGIC | 116,905 | 2007 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-27 | DH | $ 47.0m | undisclosed | Ice Class 1A |
-| LR1 | LUMEN N | 63,599 | 2008 | STX, S. Korea | MAN-B\&amp;W | Aug-23 | DH | $ 23.0m | Turkish | Ice class 1A |
-| LR1 | AURORA N | 63,495 | 2008 | STX, S. Korea | MAN-B\&amp;W | May-23 | DH | $ 23.0m | Turkish | Ice class 1A |
-| LR1 | PETALI LADY | 71,830 | 2004 | STX, S. Korea | MAN-B\&amp;W | Mar-24 | DH | $ 18.8m | Middle Eastern | basis dely Med |
-| MR2 | CHALLENGE PASSAGE | 48,658 | 2005 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Apr-25 | DH | $ 17.5m | undisclosed | BWTS fitted, basis ppt dely WC Mexico |
-| MR1 | OLYMPIC VISION | 34,663 | 2006 | DALIAN, China | MAN-B\&amp;W | Sep-26 | DH | $ 15.45m | Turkish | BWTS fitted |
-| MR1 | BALTIC SKY I | 37,272 | 2001 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-26 | DH | $ 10.0m | Turkish | BWTS fitted, Ice Class 1B, basis prompt dely Rotterdam |
+| VLCC | FPMC C HONOR | 298,078 | 2008 | UNIVERSAL, Japan | MAN-B&W | Nov-23 | DH | region $ 55.5m | UAE based | BWTS, Scrubber fitted |
+| AFRA | SEAMAGIC | 116,905 | 2007 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Mar-27 | DH | $ 47.0m | undisclosed | Ice Class 1A |
+| LR1 | LUMEN N | 63,599 | 2008 | STX, S. Korea | MAN-B&W | Aug-23 | DH | $ 23.0m | Turkish | Ice class 1A |
+| LR1 | AURORA N | 63,495 | 2008 | STX, S. Korea | MAN-B&W | May-23 | DH | $ 23.0m | Turkish | Ice class 1A |
+| LR1 | PETALI LADY | 71,830 | 2004 | STX, S. Korea | MAN-B&W | Mar-24 | DH | $ 18.8m | Middle Eastern | basis dely Med |
+| MR2 | CHALLENGE PASSAGE | 48,658 | 2005 | IWAGI ZOSEN, Japan | MAN-B&W | Apr-25 | DH | $ 17.5m | undisclosed | BWTS fitted, basis ppt dely WC Mexico |
+| MR1 | OLYMPIC VISION | 34,663 | 2006 | DALIAN, China | MAN-B&W | Sep-26 | DH | $ 15.45m | Turkish | BWTS fitted |
+| MR1 | BALTIC SKY I | 37,272 | 2001 | HYUNDAI MIPO, S. Korea | MAN-B&W | Oct-26 | DH | $ 10.0m | Turkish | BWTS fitted, Ice Class 1B, basis prompt dely Rotterdam |
 | SMALL | MILD BLOOM | 20,768 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Dec-26 | DH | excess $ 16.0m | Greek | BWTS fitted |
 | SMALL | T RIGEL | 20,919 | 2021 | RUSHAN, China | Bergens | Oct-26 | DH | $ 28.5m | undisclosed | BWTS fitted, StSt, Hull build in 2012, Diesel electric propulsion |
 | SMALL | T PROCYON | 19,101 | 2021 | RUSHAN, China | Bergens | Aug-26 | DH | $ 28.5m | undisclosed | BWTS fitted, StSt, Hull build in 2012, Diesel electric propulsion |
-| SMALL | GIANCARLO D | 19,801 | 2016 | NINGBO XINLE, China | MAN-B\&amp;W | Mar-26 | DH | $ 28.0m | Chinese | BWTS fitted, StSt |
-| SMALL | NQ ALPINIA | 19,800 | 2016 | NINGBO XINLE, China | MAN-B\&amp;W | Jul-26 | DH | $ 28.0m | Chinese | BWTS fitted, StSt |
-| SMALL | DREGGEN | 19,994 | 2008 | FUKUOKA, Japan | MAN-B\&amp;W | Aug-26 | DH | $ 19.5m | Chinese (Dinheng Shipping) | StSt |
-## Secondhand Sales
+| SMALL | GIANCARLO D | 19,801 | 2016 | NINGBO XINLE, China | MAN-B&W | Mar-26 | DH | $ 28.0m | Chinese | BWTS fitted, StSt |
+| SMALL | NQ ALPINIA | 19,800 | 2016 | NINGBO XINLE, China | MAN-B&W | Jul-26 | DH | $ 28.0m | Chinese | BWTS fitted, StSt |
+| SMALL | DREGGEN | 19,994 | 2008 | FUKUOKA, Japan | MAN-B&W | Aug-26 | DH | $ 19.5m | Chinese (Dinheng Shipping) | StSt |
 
-| Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LNG | PUTERI INTAN SATU | 75,849 | 2002 | MITSUBISHI, Japan | Mitsubishi |  | 134,770 | $ 30.0m | South East Asian |
-| LPG | SYN ALTAIR | 7,553 | 1998 | CANTIERE NAVALE, Italy | Wartsila | Feb-23 | 7,031 | $ 6.0m | Far Eastern |
-| LPG | INGE KOSAN | 3,796 | 2011 | YANGZHOU KEJIN, China | MAN | Jun-26 | 3,604 | mid high $ 9.0m | Indonesian (Pertamina) |
-| LPG | TRACEY KOSAN | 3,791 | 2011 | YANGZHOU KEJIN, China | MAN | Nov-26 | 3,604 | mid high $ 9.0m | Indonesian (Pertamina) |
+## Gas/LPG/LNG
+| Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LNG | PUTERI INTAN SATU | 75,849 | 2002 | MITSUBISHI, Japan | Mitsubishi |  | 134,770 | $ 30.0m | South East Asian |  |
+| LPG | SYN ALTAIR | 7,553 | 1998 | CANTIERE NAVALE, Italy | Wartsila | Feb-23 | 7,031 | $ 6.0m | Far Eastern |  |
+| LPG | INGE KOSAN | 3,796 | 2011 | YANGZHOU KEJIN, China | MAN | Jun-26 | 3,604 | mid high $ 9.0m | Indonesian (Pertamina) |  |
+| LPG | TRACEY KOSAN | 3,791 | 2011 | YANGZHOU KEJIN, China | MAN | Nov-26 | 3,604 | mid high $ 9.0m | Indonesian (Pertamina) |  |
 
 © Intermodal Research 17/01/2023 4
 
@@ -247,26 +246,29 @@ In the Supramax sector we had the sale of the "ASTRA PERSEUS" (58,518dwt-blt '12
 
 # Intermodal Secondhand Sales
 
-## Secondhand Sales
-
+## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | AM LIBERIA | 98,730 | 2013 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jan-23 |  | $ 20.5m | Greek | BWTS fitted, bss SS/DD passed |
 | POST PMAX | DYNA GLOBE | 99,347 | 2006 | IMABARI, Japan | MAN-B&W | Jun-26 |  | $ 15.5m | Indonesian | BWTS fitted |
-| UMAX | ULTRA INTEGRITY | 61,181 | 2016 | TADOTSU, Japan | MAN-B&W | Feb-26 | 4 X 30,7t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
-| UMAX | ULTRA GUJARAT | 61,671 | 2012 | OSHIMA, Japan | MAN-B&W | Mar-27 | 4 X 30t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
-| UMAX | ULTRA SASKATOON | 61,470 | 2012 | SHIN KASADO, Japan | MAN-B&W | Jan-27 | 4 X 30,5t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
-| UMAX | ULTRA DWARKA | 61,395 | 2012 | SHIN KASADO, Japan | MAN-B&W | May-27 | 4 X 30,7t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
-| SUPRA | ULTRA LANIGAN | 58,032 | 2012 | TSUNEISHI CEBU, Philippines | MAN-B&W | Aug-23 | 4 X 30t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
-| HANDY | ULTRA FITZ ROY | 37,918 | 2016 | Imabari Shbldg - Marugame | MAN-B&W | Jan-26 | 4 X 30,5t CRANES | $ 124.65m (en bloc) | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| UMAX | ULTRA INTEGRITY | 61,181 | 2016 | TADOTSU, Japan | MAN-B&W | Feb-26 | 4 X 30,7t CRANES | $ 124.65m | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| UMAX | ULTRA GUJARAT | 61,671 | 2012 | OSHIMA, Japan | MAN-B&W | Mar-27 | 4 X 30t CRANES | $ 124.65m | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| UMAX | ULTRA SASKATOON | 61,470 | 2012 | SHIN KASADO, Japan | MAN-B&W | Jan-27 | 4 X 30,5t CRANES | $ 124.65m | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| UMAX | ULTRA DWARKA | 61,395 | 2012 | SHIN KASADO, Japan | MAN-B&W | May-27 | 4 X 30,7t CRANES | $ 124.65m | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| SUPRA | ULTRA LANIGAN | 58,032 | 2012 | TSUNEISHI CEBU, Philippines | MAN-B&W | Aug-23 | 4 X 30t CRANES | $ 124.65m | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
+| HANDY | ULTRA FITZ ROY | 37,918 | 2016 | Imabari Shbldg - Marugame | MAN-B&W | Jan-26 | 4 X 30,5t CRANES | $ 124.65m | Hong Kong based (Pacific Basin) | basis dely within February/July 2023 |
 | UMAX | PETIT CHAM | 63,526 | 2013 | CHENGXI, China | MAN-B&W | Jun-23 | 4 X 30t CRANES | $ 19.7m | Greek | BWTS fitted, Eco, dely April 2023 upon completion of TC |
 | SUPRA | ASTRA PERSEUS | 58,518 | 2012 | DSME SHANDONG, China | MAN-B&W | Oct-27 | 4 X 35t CRANES | $ 16.55m | undisclosed | BWTS fitted, Tier II |
 | SUPRA | KITAKAMI | 55,668 | 2009 | MITSUI, Japan | MAN-B&W | Mar-27 | 4 X 30t CRANES | low $ 15.0m | Indonesian | BWTS fitted |
 
-## Secondhand Sales
-
-| Size FEEDER FEEDER FEEDER FEEDER FEEDER | Name AMALIA C HAMMONIA BEROLINA X-PRESS BRAHMAPUTRA ACACIA WA ACACIA MING | Teu 2,452 2,546 1,162 704 704 | Built 1998 2007 1998 2006 2010 | Yard THYSSEN NORDSEEWERKE, Germany JIANGSU YANGZIJIANG, China SZCZECINSKA, Poland YANGFAN, China YANGFAN, China | M/E Mitsubishi MAN-B\&amp;W B\&amp;W MaK MAN | SS due Mar-23 Mar-27 Jun-23 Dec-26 Aug-27 | Gear 3 X 40t CRANES 3 X 45t CRANES 3 X 40t CRANES | Price region$ 6.0m $ 22.25m $ 4.0m $ 9.0m $ 10.0m | Buyers Chinese undisclosed Turkish Turkish Russian (FESCO) | CommentsTC to Maersk until end Q1 2025 at US$ 32,750 p/d |
+## Containers
+| Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| FEEDER | AMALIA C | 2,452 | 1998 | THYSSEN NORDSEEWERKE, Germany | Mitsubishi | Mar-23 | 3 X 40t CRANES | region$ 6.0m | Chinese |  |
+| FEEDER | HAMMONIA BEROLINA | 2,546 | 2007 | JIANGSU YANGZIJIANG, China | MAN-B&W | Mar-27 | 3 X 45t CRANES | $ 22.25m | undisclosed | TC to Maersk until end Q1 2025 at US$ 32,750 p/d |
+| FEEDER | X-PRESS BRAHMAPUTRA | 1,162 | 1998 | SZCZECINSKA, Poland | B&W | Jun-23 | 3 X 40t CRANES | $ 4.0m | Turkish |  |
+| FEEDER | ACACIA WA | 704 | 2006 | YANGFAN, China | MaK | Dec-26 |  | $ 9.0m | Turkish |  |
+| FEEDER | ACACIA MING | 704 | 2010 | YANGFAN, China | MAN | Aug-27 |  | $ 10.0m | Russian (FESCO) |  |
 
 © Intermodal Research 17/01/2023 5
 

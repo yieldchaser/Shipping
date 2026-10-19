@@ -127,14 +127,21 @@ Supramax 10TC averaged \$ 10,718/day up +2.25% w-o-w, while the Handysize 7TC av
 
 ---
 
-## Secondhand Sales
-
-## Secondhand Sales
-
+## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR1 | SW CAP FERRAT I | 36,031 | 2002 | STX, S. Korea | B\&W | Mar-27 | DH | high $ 7.0m | Chinese |  |
-| J19 | STRINDA | 19,959 | 2006 | FUKUOKA, Japan | MAN-B\&W | Aug-26 | DH | $ 15.9m | undisclosed | StSt |
+| MR1 | SW CAP FERRAT I | 36,031 | 2002 | STX, S. Korea | B&W | Mar-27 | DH | high $ 7.0m | Chinese |  |
+| J19 | STRINDA | 19,959 | 2006 | FUKUOKA, Japan | MAN-B&W | Aug-26 | DH | $ 15.9m | undisclosed | StSt |
+
+## Bulk Carriers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| NEWCASTLEMAX | GLOBAL COMMANDER | 207,953 | 2010 | UNIVERSAL, Japan | MAN-B&W | Jun-25 |  | $ 32.0m | Chinese |  |
+| NEWCASTLEMAX | HL SAIJO | 206,291 | 2010 | IMABARI, Japan | MAN-B&W | Jun-25 |  | $ 37.95m | Chinese (Winking) | basis 3 year BBHP |
+| KMAX | WANGARATTA | 82,206 | 2011 | TSUNEISHI, Japan | MAN-B&W | Jun-25 |  | around $ 17.2m | Chinese |  |
+| SUPRA | TELERI M | 55,851 | 2013 | JMU, Japan | Wartsila | Oct-25 | 4 X 35t CRANES | mid/high $ 16.0m | Vietnamese (Vosco) |  |
+| SUPRA | MERCURIUS | 50,296 | 2001 | MITSUI, Japan | MAN-B&W | Jan-26 | 4 X 30t CRANES | high $ 5.0m | Chinese |  |
+| HANDY | VANTAGE REEF | 29,263 | 2010 | NANTONG NIKKA, China | MAN-B&W | Jun-25 | 4 X 30t CRANES | $ 8.5m | Far Eastern |  |
 
 ## Indicative Newbuilding Prices ($ Million)
 

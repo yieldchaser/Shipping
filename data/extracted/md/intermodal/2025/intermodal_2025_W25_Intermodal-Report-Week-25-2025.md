@@ -155,8 +155,8 @@ This week saw broad declines across major dry bulk segments, with weakening fund
 | NEWCASTLEMAX | MINERAL HIROSHIGE | 208,572 | 2019 | IMABARI, Japan | MAN B\&W | Oct-29 |  | $ 64.0m | Chinese | Eco |
 | CAPE | BULK GINZA | 182,868 | 2020 | IMABARI, Japan | MAN B\&W | Mar-28 |  | $ 64.0m | undisclosed | Eco |
 | KMAX | SANTA GRACIELA | 82,149 | 2013 | TSUNEISHI, Japan | MAN B\&W | Mar-28 |  | region $ 19,0m | Greek |  |
-| KMAX | EXPLORER ASIA | 81,093 | 2016 | JIANGSU HANTONG, China | MAN B\&W | Jan-26 |  | $ 40.0m (en bloc) | Chinese | Eco |
-| KMAX | EXPLORER OCEANIA | 81,073 | 2015 | JIANGSU HANTONG, China | MAN B\&W | Dec-25 |  | $ 40.0m (en bloc) | Chinese | Eco |
+| KMAX | EXPLORER ASIA | 81,093 | 2016 | JIANGSU HANTONG, China | MAN B\&W | Jan-26 |  | $ 40.0m | Chinese | Eco |
+| KMAX | EXPLORER OCEANIA | 81,073 | 2015 | JIANGSU HANTONG, China | MAN B\&W | Dec-25 |  | $ 40.0m | Chinese | Eco |
 | SUPRA | FLC CELEBRATION | 57,000 | 2011 | QINGSHAN, China | MAN B\&W | Jan-26 | 4 X 30t CRANES | low $ 11,0m | undisclosed |  |
 | HANDY | ARIES SAKURA | 39,870 | 2020 | SHIN KURUSHIMA, Japan | MAN-B\&W | Jun-30 | 4 X 30t CRANES | $ 26.2m | undisclosed | Eco |
 

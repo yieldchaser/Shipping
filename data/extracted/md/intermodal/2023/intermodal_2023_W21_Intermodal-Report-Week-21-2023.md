@@ -172,14 +172,14 @@ Supramax 10TC averaged \$ 11,101/day, down -7.25% w-o-w, while the Handysize 7TC
 | VLCC | GOOD NEWS | 319,430 | 2002 | SAMHO, S. Korea | B\&W | Mar-26 | DH | $ 43.0m | undisclosed | BWTS fitted, prompt dely Fujairah |
 | AFRA | ASHAHDA | 105,221 | 2004 | SUMITOMO, Japan | Sulzer | Feb-24 | DH | excess $ 30.0m each | Middle Eastern |  |
 | AFRA | ADAFERA | 105,215 | 2004 | SUMITOMO, Japan | Sulzer | Jan-24 | DH | excess $ 30.0m each | Middle Eastern |  |
-| MR2 | USMA | 52,684 | 2007 | 3 MAJ BRODOGRADILIST E, Croatia | Wartsila | Sep-25 | DH | $ 90.0m (en bloc) | undisclosed | BWTS fitted, Ice 1B |
-| MR2 | TARGALE | 52,660 | 2007 | 3 MAJ BRODOGRADILIST E, Croatia | Wartsila | Oct-25 | DH | $ 90.0m (en bloc) | undisclosed | BWTS fitted, Ice 1B |
-| MR2 | PILTENE | 52,648 | 2007 | 3 MAJ BRODOGRADILIST E, Croatia | Wartsila | May-25 | DH | $ 90.0m (en bloc) | undisclosed | BWTS fitted, Ice 1B |
-| MR2 | UGALE | 52,642 | 2007 | 3 MAJ BRODOGRADILIST E, Croatia | Wartsila | Jul-25 | DH | $ 90.0m (en bloc) | undisclosed | BWTS fitted, Ice 1B |
+| MR2 | USMA | 52,684 | 2007 | 3 MAJ BRODOGRADILIST E, Croatia | Wartsila | Sep-25 | DH | $ 90.0m | undisclosed | BWTS fitted, Ice 1B |
+| MR2 | TARGALE | 52,660 | 2007 | 3 MAJ BRODOGRADILIST E, Croatia | Wartsila | Oct-25 | DH | $ 90.0m | undisclosed | BWTS fitted, Ice 1B |
+| MR2 | PILTENE | 52,648 | 2007 | 3 MAJ BRODOGRADILIST E, Croatia | Wartsila | May-25 | DH | $ 90.0m | undisclosed | BWTS fitted, Ice 1B |
+| MR2 | UGALE | 52,642 | 2007 | 3 MAJ BRODOGRADILIST E, Croatia | Wartsila | Jul-25 | DH | $ 90.0m | undisclosed | BWTS fitted, Ice 1B |
 | MR1 | LEON HERMES | 40,165 | 2008 | SLS, S. Korea | MAN-B\&W | Dec-23 | DH | undisclosed | Italian (Augusta Due) |  |
-| S SMALL | FAIRCHEM KISO | 21,167 | 2011 | USUKI, Japan | MAN-B\&W | Feb-26 | DH | $ 22.0m | Chinese | StSt |
-| S SMALL | HONGKONG PIONEER | 6,525 | 2009 | PHA RUNG, Vietnam | Hanshin | Jul-24 | DH | $ 6.8m | undisclosed |  |
-| S SMALL | AKRI | 6,137 | 2008 | NAKATANI, Japan | Hanshin | Jun-27 | DH | mid-high $ 8.0m | undisclosed |  |
+| SMALL | FAIRCHEM KISO | 21,167 | 2011 | USUKI, Japan | MAN-B\&W | Feb-26 | DH | $ 22.0m | Chinese | StSt |
+| SMALL | HONGKONG PIONEER | 6,525 | 2009 | PHA RUNG, Vietnam | Hanshin | Jul-24 | DH | $ 6.8m | undisclosed |  |
+| SMALL | AKRI | 6,137 | 2008 | NAKATANI, Japan | Hanshin | Jun-27 | DH | mid-high $ 8.0m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |

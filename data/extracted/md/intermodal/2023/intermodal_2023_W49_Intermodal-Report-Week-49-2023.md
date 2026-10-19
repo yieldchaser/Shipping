@@ -162,9 +162,9 @@ Supramax 10TC averaged \$ 16,945/day, up +11.8% w-o-w, while the Handysize 7TC a
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | IRON MIRACLE | 180,643 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&W | Oct-26 |  | region $ 27.0m | Greek | BWTS fitted, Eco |
-| CAPE | MINERAL DESTELBERGEN | 175,401 | 2010 | NEW TIMES, China | MAN-B\&W | Feb-28 |  | region $ 62.0m (en bloc) | Singapore based (EGPN) |  |
-| CAPE | MINERAL TEMSE | 175,401 | 2010 | NEW TIMES, China | MAN-B\&W | Jul-25 |  | region $ 62.0m (en bloc) | Singapore based (EGPN) |  |
-| CAPE | MINERAL BRUGGE | 175,155 | 2011 | NEW TIMES, China | MAN-B\&W | Feb-26 |  | region $ 62.0m (en bloc) | Singapore based (EGPN) |  |
+| CAPE | MINERAL DESTELBERGEN | 175,401 | 2010 | NEW TIMES, China | MAN-B\&W | Feb-28 |  | region $ 62.0m | Singapore based (EGPN) |  |
+| CAPE | MINERAL TEMSE | 175,401 | 2010 | NEW TIMES, China | MAN-B\&W | Jul-25 |  | region $ 62.0m | Singapore based (EGPN) |  |
+| CAPE | MINERAL BRUGGE | 175,155 | 2011 | NEW TIMES, China | MAN-B\&W | Feb-26 |  | region $ 62.0m | Singapore based (EGPN) |  |
 | CAPE | MINERAL NINGBO | 178,120 | 2009 | SWS, China | MAN-B\&W | Jul-24 |  | region $ 20.0m | Chinese (Agricore) | prompt dely China |
 | POST PMAX | DOUBLE MIRACLE | 95,444 | 2014 | IMABARI, Japan | MAN-B\&W | Jun-24 |  | region $ 25.0m | Greek | BWTS, Scrubber fitted, Eco |
 | PMAX | KING COAL | 76,361 | 2010 | OSHIMA, Japan | MAN-B\&W | Nov-25 |  | $ 15.8m | Greek | BWTS fitted |

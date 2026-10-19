@@ -155,7 +155,7 @@ Handysize market was largely stable. The Atlantic saw mild improvements supporte
 | MR2 | LVM WARRIOR | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN B\&amp;W | Jan-30 | DH | $ 33.0m | undisclosed | Eco |
 | MR2 | GLENDA MERYL | 47,251 | 2011 | HYUNDAI MIPO, S. Korea | MAN B\&amp;W | Nov-25 | DH | $ 19.5m | undisclosed |  |
 | MR2 | UACC MANAMA | 45,612 | 2010 | SLS, S. Korea | MAN B\&amp;W | passed | DH | $ 24.0m | undisclosed |  |
-| SMALL | ANGELINA AMORETTI | 23,740 | 2004 | Jiangsu Yangzijiang, China | Wartsila | Jun-27 | DH | $ 6.0m | undisclosed |  |
+| SMALL | ANGELINA AMORETTI | 23,740 | 2004 | JIANGSU YANGZIJIANG, China | Wartsila | Jun-27 | DH | $ 6.0m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |

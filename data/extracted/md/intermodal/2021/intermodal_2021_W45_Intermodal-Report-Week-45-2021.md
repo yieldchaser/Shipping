@@ -236,9 +236,9 @@ In the Ultramax sector we had the sale of the "IKAN SENYUR" (61,494dwt-blt '10, 
 | PMAX | BERLIN | 76,600 | 2009 | SHIN KASADO, Japan | MAN-B&amp;W | Jan-24 |  | $ 19.9m | U.S. based (Pangea Logistics) | BWTS fitted, incl TC until March 2022 at Usd 11,000 p/d |
 | PMAX | YUTAI AMBITIONS | 77,283 | 2008 | OSHIMA, Japan | MAN-B&amp;W | Nov-23 |  | low $ 18.0m | Greek | BWTS fitted |
 | UMAX | STAR CRIOS | 63,301 | 2012 | YANGZHOU DAYANG, China | MAN-B&amp;W | Jun-22 | 4 X 35t CRANES | rgn $ 22.5m | Greek | prompt delivery Far East |
-| UMAX | STAR DAMON | 63,227 | 2012 | YANGZHOU DAYANG, China | MAN-B&amp;W | Oct-22 | 4 X 35t CRANES | rgn $ 22.5m | BWTS fitted, incl TC at $36,500 p/d until March-May 2022 |  |
+| UMAX | STAR DAMON | 63,227 | 2012 | YANGZHOU DAYANG, China | MAN-B&amp;W | Oct-22 | 4 X 35t CRANES | rgn $ 22.5m | Greek | BWTS fitted, incl TC at $36,500 p/d until March-May 2022 |
 | UMAX | IKAN SENYUR | 61,494 | 2010 | SHIN KASADO, Japan | MAN-B&amp;W | Sep-25 | 4 X 30,7t CRANES | rgn $ 22.0m | Vietnamese | BWTS fitted |
-| SUPRA | SHANDONG HAI TONG | 56,724 | 2012 | JINLING, China | MAN-B&amp;W | May-22 | 4 X 30t CRANES | $ 16.7m | Chinese (Zhejiang Shipping) | online-commercial auction |
+| SUPRA | SHANDONG HAI TONG | 56,724 | 2012 | JINLING, China | MAN-B&amp;W | May-22 | 4 X 30t CRANES | $ 16.7m | Chinese (Zhehai Shipping) | online-commercial auction |
 | SUPRA | FU HENG SHAN | 57,034 | 2011 | Jiangsu Hantong, China | MAN-B&amp;W | Apr-26 | 4 X 36t CRANE | $ 18.76m | undisclosed | Chinese flag |
 | SUPRA | GUANG ZHOU FA ZHAN 5 | 56,970 | 2010 | Jiangsu Hantong, China | MAN-B&amp;W | Jan-25 | 4 X 35t CRANE | $ 20.0m | undisclosed | Chinese flag |
 | HANDY | ZHONG XING DA 98 | 38,448 | 2013 | ZHEJIANG HEXING, China | MAN-B&amp;W |  | 4 X 30t CRANES | around $ 14.1m | undisclosed | auction sale, Chinese flag |

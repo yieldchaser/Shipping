@@ -226,7 +226,7 @@ In the Supramax sector we had the sale of the "SEA KSANTI" (59,941dwt-blt '12, S
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | SEALAND GUAYAQUIL | 2,546 | 2009 | Jiangsu Yangtzejiang, China | Wartsila | Jan-24 | 3 X 45t CRANES | $ 13.0m | Undisclosed | Ice Clas II |
+| FEEDER | SEALAND GUAYAQUIL | 2,546 | 2009 | JIANGSU YANGZIJIANG, China | Wartsila | Jan-24 | 3 X 45t CRANES | $ 13.0m | Undisclosed | Ice Clas II |
 
 © Intermodal Research 10/01/2023 4
 

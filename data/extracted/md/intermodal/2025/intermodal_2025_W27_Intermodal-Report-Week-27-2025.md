@@ -146,24 +146,22 @@ dely Tuticorin 1 Jul \$12,250/day Cargill
 
 ---
 
-## Secondhand Sales
-
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | SAN FERNANDO | 48,315 | 2005 | MINAMI-NIPPON, Japan | B\&amp;W | Mar-28 | DH | $ 12.0m | undisclosed |  |
-| J19 | GWEN | 19,702 | 2008 | FUKUOKA, Japan | MAN B\&amp;W | Feb-28 | DH | $ 16.0m | UAE based | StSt |
+| MR2 | SAN FERNANDO | 48,315 | 2005 | MINAMI-NIPPON, Japan | B&W | Mar-28 | DH | $ 12.0m | undisclosed |  |
+| J19 | GWEN | 19,702 | 2008 | FUKUOKA, Japan | MAN B&W | Feb-28 | DH | $ 16.0m | UAE based | StSt |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | PACIFIC SOUTH | 176,000 | 2012 | JIANGSU RONGSHENG, China | MAN B\&amp;W | Jun-27 |  | $ 27.5m | undisclosed | Scrubber fitted |
-| CAPE | \_MOUNT K2 | 176,820 | 2011 | MITSUI, Japan | MAN B\&amp;W | Sep-25 |  | $ 26.5m | Chinese |  |
-| POST PMAX | AZALEA WAVE | 95,584 | 2013 | KOYO MIHARA, Japan | MAN B\&amp;W | Nov-26 |  | $ 17.5m | undisclosed |  |
-| PMAX | IVESTOS II | 76,284 | 2004 | TSUNEISHI, Japan | B\&amp;W | Feb-29 |  | $ 8.4m | Vietnamese |  |
-| UMAX | MONA LISA | 63,453 | 2019 | IMABARI, Japan | MAN B\&amp;W | Dec-29 | 4 X 30,7t CRANES | high $ 28's | Greek | Eco |
-| SUPRA | TENRO MARU | 57,593 | 2016 | TSUNEISHI CEBU, Philippines | MAN B\&amp;W | Feb-26 | 4 X 30t CRANES | $ 22.0m | Greek | Eco |
-| HANDY | DENEB HARMONY | 36,888 | 2020 | OSHIMA, Japan | MAN B\&amp;W | Sep-25 | 4 X 30t CRANES | $ 24.75m | Far Eastern | Eco |
+| CAPE | PACIFIC SOUTH | 176,000 | 2012 | JIANGSU RONGSHENG, China | MAN B&W | Jun-27 |  | $ 27.5m | undisclosed | Scrubber fitted |
+| CAPE | MOUNT K2 | 176,820 | 2011 | MITSUI, Japan | MAN B&W | Sep-25 |  | $ 26.5m | Chinese |  |
+| POST PMAX | AZALEA WAVE | 95,584 | 2013 | KOYO MIHARA, Japan | MAN B&W | Nov-26 |  | $ 17.5m | undisclosed |  |
+| PMAX | IVESTOS II | 76,284 | 2004 | TSUNEISHI, Japan | B&W | Feb-29 |  | $ 8.4m | Vietnamese |  |
+| UMAX | MONA LISA | 63,453 | 2019 | IMABARI, Japan | MAN B&W | Dec-29 | 4 X 30,7t CRANES | high $ 28's | Greek | Eco |
+| SUPRA | TENRO MARU | 57,593 | 2016 | TSUNEISHI CEBU, Philippines | MAN B&W | Feb-26 | 4 X 30t CRANES | $ 22.0m | Greek | Eco |
+| HANDY | DENEB HARMONY | 36,888 | 2020 | OSHIMA, Japan | MAN B&W | Sep-25 | 4 X 30t CRANES | $ 24.75m | Far Eastern | Eco |
 | HANDY | RIJN CONFIDENCE | 33,328 | 2013 | SHIN KURUSHIMA, Japan | Mitsubishi | Jun-28 | 4 X 30t CRANES | $ 14.3m | undisclosed | OHBS |
 
 ---

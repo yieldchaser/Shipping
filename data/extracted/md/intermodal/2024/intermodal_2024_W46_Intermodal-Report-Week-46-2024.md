@@ -168,8 +168,8 @@ Supramax 10TC averaged \$ 11,110/day down -8.04% w-o-w, while the Handysize 7TC 
 | UMAX | GREAT CENTURY | 61,441 | 2017 | DACKS, China | MAN-B\&W | Jan-29 | 4 X 30,5t CRANES | $ 24,52 | Chinese | via Chinese bidding platform, Eco |
 | SUPRA | NORDIC BC KIEL | 55,947 | 2010 | IHI, Japan | Wartsila | Jun-25 | 4 X 30t CRANES | high $ 14.0m | Chinese |  |
 | HMAX | RASHAD | 48,377 | 2001 | SANOYAS, Japan | Sulzer | May-26 | 4 X 30t CRANES | low/mid $ 5,0m | Chinese |  |
-| HANDY | FOUR AIDA | 37,763 | 2009 | SPP, S. Korea | MAN-B\&W | Sep-24 | 4 X 35t CRANES | region $ 23,0m (en bloc) | Greek |  |
-| HANDY | FOUR OTELLO | 36,391 | 2010 | SPP, S. Korea | MAN-B\&W | Jun-25 | 4 X 35t CRANES | region $ 23,0m (en bloc) | Greek |  |
+| HANDY | FOUR AIDA | 37,763 | 2009 | SPP, S. Korea | MAN-B\&W | Sep-24 | 4 X 35t CRANES | region $ 23,0m | Greek |  |
+| HANDY | FOUR OTELLO | 36,391 | 2010 | SPP, S. Korea | MAN-B\&W | Jun-25 | 4 X 35t CRANES | region $ 23,0m | Greek |  |
 | HANDY | NORD COPENHAGEN | 33,175 | 2012 | KANDA, Japan | Mitsubishi | Sep-27 | 4 X 30,5t CRANES | low $ 14,0m | undisclosed |  |
 
 ---

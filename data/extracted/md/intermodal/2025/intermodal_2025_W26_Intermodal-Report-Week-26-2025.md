@@ -153,9 +153,9 @@ The dry bulk sector delivered a mixed performance, with Capesize rates declining
 | KMAX | SDTR DORA | 81,780 | 2019 | JINLING, China |  | Oct-29 |  | $ 24.5m | Greek | Eco |
 | UMAX | IVS SWINLEY FOREST | 60,492 | 2017 | SANOYAS, Japan |  | Jan-27 | 4 X 31t CRANES | $ 23.2m | Greek | Eco |
 | SUPRA | OCEAN PRINCESS | 52,382 | 2002 | TSUNEISHI, Japan |  | Sep-27 | 4 X 30t CRANES | $ 7.3m | undisclosed |  |
-| HANDY | FOUR RIGOLETTO | 34,438 | 2011 | SPP, S. Korea |  | Apr-26 | 4 X 35t CRANES | around $ 39.0m (en bloc) | European |  |
-| HANDY | FOUR TURANDOT | 34,428 | 2012 | SPP, S. Korea |  | Dec-26 | 4 X 35t CRANES | around $ 39.0m (en bloc) | European |  |
-| HANDY | FOUR BUTTERFLY | 34,423 | 2011 | SPP, S. Korea |  | Dec-26 | 4 X 35t CRANES | around $ 39.0m (en bloc) | European |  |
+| HANDY | FOUR RIGOLETTO | 34,438 | 2011 | SPP, S. Korea |  | Apr-26 | 4 X 35t CRANES | around $ 39.0m | European |  |
+| HANDY | FOUR TURANDOT | 34,428 | 2012 | SPP, S. Korea |  | Dec-26 | 4 X 35t CRANES | around $ 39.0m | European |  |
+| HANDY | FOUR BUTTERFLY | 34,423 | 2011 | SPP, S. Korea |  | Dec-26 | 4 X 35t CRANES | around $ 39.0m | European |  |
 | HANDY | YUKA D | 34,268 | 2011 | ZHEJIANG JINGANG, China |  | Jan-26 | 4 X 30t CRANES | region $ 9.0m | undisclosed |  |
 
 ---

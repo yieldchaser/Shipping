@@ -203,34 +203,35 @@ In the Supramax sector we had the sale of the "ATLANTIC TULUM" (58,802dwt-blt '0
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
-| Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NMAX | AZUL LIBERO | 203,278 | 2004 | UNIVERSAL, Japan | MAN-B\&amp;W | Sep-24 |  | rgn-high $ 18.0m | Chinese | BWTS fitted |
-| KMAX | OCEAN GARLIC | 82,305 | 2012 | DALIAN, China | MAN-B\&amp;W | Jun-22 |  | mid $ 21.0m | undisclosed | Tier II |
-| KMAX | OCEANIC | 82,471 | 2007 | TSUNEISHI, Japan | MAN-B\&amp;W | Dec-26 |  | $ 20.7m | Greek (NGM) | BWTS fitted, dey prompt |
-| SUPRA | SEACON SINGAPORE | 56,501 | 2013 | TAIZHOU SANFU, China | MAN-B\&amp;W | Jan-23 | 4 X 30t CRANES | $ 19.45m | Chinese (Ningbo Honglong Shipping) | online commercial-auction, BWTS fitted, Tier II |
-| SUPRA | ORIENT RISE | 56,700 | 2010 | QINGSHAN, China | MAN-B\&amp;W | Apr-25 | 4 X 30t CRANES | rgn $ 17.0m | Greek | BWTS fitted, very prompt dely |
-| SUPRA | ATLANTIC TULUM | 58,802 | 2008 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Mar-23 | 4 X 30t CRANES | $ 17.3m | Singapore based (Diamond Star) |  |
-| SUPRA | LUCKY SEA | 52,246 | 2005 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Jan-25 | 4 X 30t CRANES | $ 12.0m | Chinese |  |
-| HANDY | VENTURE TEAM | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Nov-25 | 4 X 30,5t CRANES | $ 24.85m | Italian (Fratelli D'Amato) | Eco, BWTS fitted |
-| HANDY | IONIC HALO | 34,039 | 2012 | DAE SUN, S. Korea | MAN-B\&amp;W | Mar-22 | 4 X 30t CRANES | rgn $ 19.0m | undisclosed | basis SS/DD passed and BWTS fitted |
-| HANDY | GLOBAL ECHO | 28,207 | 2012 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Apr-25 | 4 X 30,5t CRANES | $ 15.3m | Middle Eastern |  |
+| NMAX | AZUL LIBERO | 203,278 | 2004 | UNIVERSAL, Japan | MAN-B&W | Sep-24 |  | rgn-high $ 18.0m | Chinese | BWTS fitted |
+| KMAX | OCEAN GARLIC | 82,305 | 2012 | DALIAN, China | MAN-B&W | Jun-22 |  | mid $ 21.0m | undisclosed | Tier II |
+| KMAX | OCEANIC | 82,471 | 2007 | TSUNEISHI, Japan | MAN-B&W | Dec-26 |  | $ 20.7m | Greek (NGM) | BWTS fitted, dey prompt |
+| SUPRA | SEACON SINGAPORE | 56,501 | 2013 | TAIZHOU SANFU, China | MAN-B&W | Jan-23 | 4 X 30t CRANES | $ 19.45m | Chinese (Ningbo Honglong Shipping) | online commercial- aution, BWTS fitted, Tier II |
+| SUPRA | ORIENT RISE | 56,700 | 2010 | QINGSHAN, China | MAN-B&W | Apr-25 | 4 X 30t CRANES | rgn $ 17.0m | Greek | BWTS fitted, very prompt dely |
+| SUPRA | ATLANTIC TULUM | 58,802 | 2008 | TSUNEISHI CEBU, Philippines | MAN-B&W | Mar-23 | 4 X 30t CRANES | $ 17.3m | Singapore based (Diamond Star) |  |
+| SUPRA | LUCKY SEA | 52,246 | 2005 | YANGZHOU DAYANG, China | MAN-B&W | Jan-25 | 4 X 30t CRANES | $ 12.0m | Chinese |  |
+| HANDY | VENTURE TEAM | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B&W | Nov-25 | 4 X 30,5t CRANES | $ 24.85m | Italian (Fratelli D'Amato) | Eco, BWTS fitted |
+| HANDY | IONIC HALO | 34,039 | 2012 | DAE SUN, S. Korea | MAN-B&W | Mar-22 | 4 X 30t CRANES | rgn $ 19.0m | undisclosed | basis SS/DD passed and BWTS fitted |
+| HANDY | GLOBAL ECHO | 28,207 | 2012 | I-S SHIPYARD, Japan | MAN-B&W | Apr-25 | 4 X 30,5t CRANES | $ 15.3m | Middle Eastern |  |
 | HANDY | CORSAIR | 35,062 | 2001 | MINAMI-NIPPON, Japan | Mitsubishi | Jul-25 | 4 X 30t CRANES | $ 11.7m | Turkish (Manta) |  |
 | HANDY | KIWI TRADER | 33,048 | 2000 | HAKODATE, Japan | Mitsubishi | Jul-24 | 4 X 30,5t CRANES | excess $ 10.0m | undisclosed | BWTS fitted |
-| Tankers |  |  |  |  |  |  |  |  |  |  |
+
+## Tankers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| SUEZ | NORDIC GRACE | 149,921 | 2002 | SAMHO, S. Korea | B&W | Mar-22 | DH | $ 15.0m | undisclosed | old deal |
 
 © Intermodal Research 22/03/2022 4
 
 ---
 
-# Secondhand Sales
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | TRF PESCARA | 3,534 | 2010 | SHANGHAI SHIPYARD, China | MAN-B&amp;W | Mar-25 |  | undisclosed | undisclosed | scrubber fitted |
-| FEEDER | THANA BHUM | 1,858 | 2005 | JIANGSU YANGZIJIANG, China | MAN-B&amp;W | Jul-25 |  | undisclosed | UK based (Mount Street) |  |
+| PMAX | TRF PESCARA | 3,534 | 2010 | SHANGHAI SHIPYARD, China | MAN-B&W | Mar-25 |  | undisclosed | undisclosed | scrubber fitted |
+| FEEDER | THANA BHUM | 1,858 | 2005 | JIANGSU YANGZIJIANG, China | MAN-B&W | Jul-25 |  | undisclosed | UK based (Mount Street) |  |
 
 © Intermodal Research 22/03/2022 5
 

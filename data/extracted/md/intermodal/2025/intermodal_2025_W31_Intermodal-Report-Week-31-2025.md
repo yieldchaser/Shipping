@@ -156,11 +156,11 @@ Secondhand Sales
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | HERUN ZHEJIANG | 181,056 | 2017 | SHANGHAI WAIGAOQIAO, China | MAN B\&W | Jul-27 |  | $ 48.0m | Chinese (Undisclosed) |
-| UMAX | BELINDA | 63,339 | 2016 | Jiangsu Hantong, China | MAN B\&W | Jan-26 | 4 X 36t CRANES | $ 84.0m (en bloc) | Singapore based |
-| UMAX | BELATLANTIC | 63,318 | 2016 | Jiangsu Hantong, China | MAN B\&W | May-26 | 4 X 36t CRANES | $ 84.0m (en bloc) | Singapore based |
-| UMAX | BELSOUTH | 63,297 | 2015 | Jiangsu Hantong, China | MAN B\&W | Mar-28 | 4 X 36t CRANES | $ 84.0m (en bloc) | Singapore based |
-| UMAX | BELMONT | 63,263 | 2016 | Jiangsu Hantong, China | MAN B\&W | Feb-26 | 4 X 36t CRANES | $ 84.0m (en bloc) | Singapore based |
-| SUPRA | CHEVAL BLANC | 56,732 | 2009 | Jiangsu Hantong, China | MAN B\&W | Sep-29 | 4 X 35t CRANES |  |  |
+| UMAX | BELINDA | 63,339 | 2016 | Jiangsu Hantong, China | MAN B\&W | Jan-26 | 4 X 36t CRANES | $ 84.0m | Singapore based |
+| UMAX | BELATLANTIC | 63,318 | 2016 | Jiangsu Hantong, China | MAN B\&W | May-26 | 4 X 36t CRANES | $ 84.0m | Singapore based |
+| UMAX | BELSOUTH | 63,297 | 2015 | Jiangsu Hantong, China | MAN B\&W | Mar-28 | 4 X 36t CRANES | $ 84.0m | Singapore based |
+| UMAX | BELMONT | 63,263 | 2016 | Jiangsu Hantong, China | MAN B\&W | Feb-26 | 4 X 36t CRANES | $ 84.0m | Singapore based |
+| SUPRA | CHEVAL BLANC | 56,732 | 2009 | Jiangsu Hantong, China | MAN B\&W | Sep-29 | 4 X 35t CRANES | $ 10.5m | Chinese (Undisclosed) |
 | SUPRA | IVY BLUE | 55,885 | 2011 | IHI, Japan | Wartsila | Jan-26 | 4 X 30t CRANES | $ 15.6m | Vietnamese |
 
 ---

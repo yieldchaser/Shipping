@@ -168,7 +168,7 @@ Supramax 10TC averaged \$ 9,153/day up +1.83% w-o-w, while the Handysize 7TC ave
 | PMAX | AM ZENICA | 76,089 | 2014 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Oct-29 |  | region $ 60.0m | undisclosed | Eco, Scrubber fitted |
 | PMAX | AM ANNABA | 76,079 | 2013 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Sep-28 |  | region $ 60.0m | undisclosed | Eco |
 | SUPRA | CS SONOMA | 56,704 | 2010 | Jiangsu Hantong, China | MAN-B\&amp;W | Feb-30 | 4 X 30t CRANES | $ 11.3m | Far Eastern | Scrubber fitted |
-| SUPRA | NEW VENTURE | 53,390 | 2009 | CHENGXI, China | MAN-B\&amp;W | Jan-29 | 4 X 36t CRANES | high $ 9.0m | undisclosed |  |
+| SUPRA | NEW VENTURE | 53,390 | 2009 | CHENGXI, China | MAN-B\&amp;W | Jan-29 | 4 X 36t CRANES | high $ 9,0m | undisclosed |  |
 | SUPRA | PORT MACAU | 58,730 | 2008 | TSUNEISHI, Japan | MAN-B\&amp;W | May-28 | 4 X 30t CRANES | high $ 11.0m | undisclosed |  |
 
 ---

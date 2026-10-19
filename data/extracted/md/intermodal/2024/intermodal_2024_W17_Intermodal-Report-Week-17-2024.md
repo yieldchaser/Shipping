@@ -148,20 +148,20 @@ Supramax 10TC averaged \$ 16,014/day up +8.86% w-o-w, while the Handysize 7TC av
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | CLARET PRINCE | 109,005 | 2010 | HUDONG-ZHONGHUA, China | MAN-B\&W | Jan-25 | DH | $ 43.5m | Chinese | BWTS & Scrubber fitted |
 | AFRA | SONA STAR | 105,483 | 2003 | SUMITOMO, Japan | Sulzer | Nov-23 | DH | $ 27.5m | undisclosed | BWTS fitted |
-| MR | SEAWAYS NIAGARA | 51,257 | 2008 | STX, S. Korea | MAN-B\&W | Jan-28 | DH | $ 50.4m (en bloc) | Middle Eastern | BWTS fitted |
-| MR | SEAWAYS NANTUCKET | 51,225 | 2008 | STX, S. Korea | MAN-B\&W | Jun-28 | DH | $ 50.4m (en bloc) | Middle Eastern | BWTS fitted |
-| HANDY | GOLD TRADER II | 33,324 | 2022 | NANTONG XIANGYU, China | WinGD | Dec-27 | DH | $ 114.0m (en bloc) | SFL Corporation | Will start 8-year TC to Stolt Nielsen, BWTS fitted, StSt coated, Eco |
-| HANDY | GOLD TRADER III | 33,338 | 2023 | NANTONG XIANGYU, China | WinGD | Mar-28 | DH | $ 114.0m (en bloc) | SFL Corporation | Will start 8-year TC to Stolt Nielsen, BWTS fitted, StSt coated, Eco |
-| J19 | TRF KOBE | 19,997 | 2016 | KITANIHON, Japan | MAN-B\&W | Mar-26 | DH | $ 64.0m (en bloc) | European (Hansa Shipping) | BWTS fitted, StSt coated, Eco |
-| J19 | TRF KRISTIANSAND | 19,996 | 2016 | KITANIHON, Japan | MAN-B\&W | Jul-26 | DH | $ 64.0m (en bloc) | European (Hansa Shipping) | BWTS fitted, StSt coated, Eco |
+| MR | SEAWAYS NIAGARA | 51,257 | 2008 | STX, S. Korea | MAN-B\&W | Jan-28 | DH | $ 50.4m | Middle Eastern | BWTS fitted |
+| MR | SEAWAYS NANTUCKET | 51,225 | 2008 | STX, S. Korea | MAN-B\&W | Jun-28 | DH | $ 50.4m | Middle Eastern | BWTS fitted |
+| HANDY | GOLD TRADER II | 33,324 | 2022 | NANTONG XIANGYU, China | WinGD | Dec-27 | DH | $ 114.0m | SFL Corporation | Will start 8-year TC to Stolt Nielsen, BWTS fitted, StSt coated, Eco |
+| HANDY | GOLD TRADER III | 33,338 | 2023 | NANTONG XIANGYU, China | WinGD | Mar-28 | DH | $ 114.0m | SFL Corporation | Will start 8-year TC to Stolt Nielsen, BWTS fitted, StSt coated, Eco |
+| J19 | TRF KOBE | 19,997 | 2016 | KITANIHON, Japan | MAN-B\&W | Mar-26 | DH | $ 64.0m | European (Hansa Shipping) | BWTS fitted, StSt coated, Eco |
+| J19 | TRF KRISTIANSAND | 19,996 | 2016 | KITANIHON, Japan | MAN-B\&W | Jul-26 | DH | $ 64.0m | European (Hansa Shipping) | BWTS fitted, StSt coated, Eco |
 | J19 | IVORY RAY | 19,991 | 2011 | FUKUOKA, Japan | MAN-B\&W | Mar-26 | DH | $ 24.9m | undisclosed | StSt, BWTS fitted, Basis DD due |
 | J19 | CHEM JUPITER | 19,814 | 2008 | FUKUOKA, Japan | MAN-B\&W | Dec-28 | DH | $ 20.0m | undisclosed | BWTS fitted, StSt coated |
 
 ## **Bulk Carriers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | NEWMAX | 203,067 | 2012 | BOHAI, China | Wartsila | Jun-27 |  | $ 76.0m (en bloc) | Pioneer Shipping | BWTS fitted |
-| CAPE | CAPE KALLIA | 203,027 | 2012 | BOHAI, China | Wartsila | Jun-27 |  | $ 76.0m (en bloc) | Pioneer Shipping | BWTS fitted |
+| CAPE | NEWMAX | 203,067 | 2012 | BOHAI, China | Wartsila | Jun-27 |  | $ 76.0m | Pioneer Shipping | BWTS fitted |
+| CAPE | CAPE KALLIA | 203,027 | 2012 | BOHAI, China | Wartsila | Jun-27 |  | $ 76.0m | Pioneer Shipping | BWTS fitted |
 | CAPE | HAITI | 174,766 | 2004 | SWS, China | MAN-B\&W | due |  | $ 15.0m | Jiangsu Steamship |  |
 | CAPE | P MELIS | 171,448 | 2003 | HYUNDAI, S. Korea | MAN-B\&W | Sep-28 |  |  | Chinese | BWTS due 2024 |
 | KMAX | LOWLANDS SAGE | 82,577 | 2021 | TSUNEISHI, Japan | MAN-B\&W | Nov-26 |  | $ 39.2m | undisclosed | T/C to Cargill at US$ 16,000 pd until Q1 2025 BWTS fitted |

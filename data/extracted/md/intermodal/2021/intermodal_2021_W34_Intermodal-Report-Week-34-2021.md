@@ -215,11 +215,22 @@ In the Supramax sector we had the sale of the "SHAIL AL RUWAIS" (52,822dwt-blt '
 ---
 
 # Intermodal Secondhand Sales
-## Secondhand Sales
+## Tankers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | STARLIGHT VENTURE | 318,825 | 2004 | HYUNDAI, S. Korea | B&W | Jan-25 | DH | rgn $ 30.0m | Nigerian |  |
+| MR | OCEAN VENUS | 50,322 | 2006 | SLS, S. Korea | MAN-B&W | Nov-21 | DH | $ 6.95m | undisclosed | old-auction sale, SS/DD due November 2021 |
 
-| Tankers Size VLCC MR | Tankers Name STARLIGHT VENTURE OCEAN VENUS | Tankers Dwt 318,825 50,322 |
-| --- | --- | --- |
-| Bulk Carriers |  |  |
+## Bulk Carriers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PMAX | OKEANOS BLISS | 76,636 | 2008 | IMABARI, Japan | MAN-B&W | Nov-23 |  | $ 18.75m | Greek | delivery Q4-2021 |
+| UMAX | IVS PHOENIX | 60,477 | 2019 | MITSUI, Japan | MAN-B&W | Jun-24 | 4 X 30t CRANES |  | Singapore based (Grindrod Shipping) | sold to current charterers Grindrod Shipping, at $ 23.5m with earlier T/C cancellation. Resold to Japanese buyers at $ 25.0m with BB (purchase option) back for 15 years. |
+| SMAX | OCEAN SUCCESS | 56,815 | 2011 | TIANJIN XINGANG, China | MAN-B&W | Nov-21 | 4 X 30t CRANES | high $ 15.0m | undisclosed | Tier II, basis delivery October- November 2021 with SS/DD due |
+| SMAX | TEIZAN | 50,448 | 2011 | OSHIMA, Japan | MAN-B&W | Dec-25 | 4 X 30t CRANES | $ 21.1m | undisclosed | OHBS, BWTS fitted |
+| SMAX | CRESSIDA | 55,614 | 2006 | NACKS, China | MAN-B&W | Jul-25 | 4 X 30,5t CRANES | rgn $ 16.0m | undisclosed |  |
+| SMAX | SHAIL AL RUWAIS | 52,822 | 2001 | ONOMICHI, Japan | B&W | Sep-21 | 4 X 30t CRANES | $ 9.2m | Chinese | delivery May 2022 |
+| HANDY | NICOLINE BULKER | 38,191 | 2012 | NAIKAI ZOSEN, Japan | MAN-B&W | Jan-22 | 4 X 30t CRANES | $ 20.2m | Hong Kong based (Pacific Basin) | prompt delivery |
 
 © Intermodal Research 31/08/2021 4
 
@@ -227,17 +238,16 @@ In the Supramax sector we had the sale of the "SHAIL AL RUWAIS" (52,822dwt-blt '
 
 # Intermodal Secondhand Sales
 ## Containers
-
-| Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | ITAL LIRICA | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&amp;W | Apr-22 |  | undisclosed | French (CMA CGM) |
-| PMAX | ITAL LAGUNA | 5,090 | 2006 | HANJIN HI, S. Korea | MAN-B&amp;W | Nov-21 |  | undisclosed | French (CMA CGM) |
-| PMAX | ITAL LUNARE | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&amp;W | May-22 |  | undisclosed | French (CMA CGM) |
-| PMAX | ITAL LIBERA | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&amp;W | Feb-22 |  | undisclosed | French (CMA CGM) |
-| PMAX | XIN FENG YANG PU | 3,739 | 2002 | SAMSUNG, S. Korea | Sulzer |  | 2 X 45t CRANES | $ 30.0m | undisclosed |
-| FEEDER | BUSAN TRADER | 2,664 | 2009 | STX, S. Korea | MAN-B&amp;W | Nov-24 | 4 X 45t CRANES | $ 35.0m | undisclosed |
-| FEEDER | VEGA SIGMA | 1,118 | 2007 | QINGSHAN, China | MAN | Nov-22 | 2 X 45t CRANES | mid $ 15.0m | Swiss (MSC) |
-| FEEDER | XIANG SHUN | 1,050 | 1997 | YVC YSSELWERF, Netherlands | Wartsila | May-22 |  | $ 5.8m | Chinese (Sinokor Merchant) |
+| Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PMAX | ITAL LIRICA | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&W | Apr-22 |  | undisclosed | French (CMA CGM) |  |
+| PMAX | ITAL LAGUNA | 5,090 | 2006 | HANJIN HI, S. Korea | MAN-B&W | Nov-21 |  | undisclosed | French (CMA CGM) |  |
+| PMAX | ITAL LUNARE | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&W | May-22 |  | undisclosed | French (CMA CGM) |  |
+| PMAX | ITAL LIBERA | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&W | Feb-22 |  | undisclosed | French (CMA CGM) |  |
+| PMAX | XIN FENG YANG PU | 3,739 | 2002 | SAMSUNG, S. Korea | Sulzer |  | 2 X 45t CRANES | $ 30.0m | undisclosed |  |
+| FEEDER | BUSAN TRADER | 2,664 | 2009 | STX, S. Korea | MAN-B&W | Nov-24 | 4 X 45t CRANES | $ 35.0m | undisclosed |  |
+| FEEDER | VEGA SIGMA | 1,118 | 2007 | QINGSHAN, China | MAN | Nov-22 | 2 X 45t CRANES | mid $ 15.0m | Swiss (MSC) |  |
+| FEEDER | XIANG SHUN | 1,050 | 1997 | YVC YSSELWERF, Netherlands | Wartsila | May-22 |  | $ 5.8m | Chinese (Sinokor Merchant) |  |
 
 © Intermodal Research 31/08/2021 5
 

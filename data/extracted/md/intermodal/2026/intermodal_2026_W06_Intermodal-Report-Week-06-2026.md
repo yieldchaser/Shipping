@@ -155,7 +155,7 @@ Handysize markets were marginally firmer, led by the Atlantic where improved con
 | VLCC | ILMA | 314,000 | 2012 | HYUNDAI, S. Korea | Wartsila | May-27 | DH | high $ 80s each | S. Korean (Sinokor) | Scrubber fitted |
 | VLCC | EAGLE VARNA | 299,989 | 2013 | DAEWOO, South Korea | MAN B\&W | Mar-28 | DH | $ 86.5m | S. Korean (Sinokor) |  |
 | SUEZ | MARAN PYTHIA | 158,266 | 2009 | HYUNDAI, S. Korea | MAN B\&W | Jun-29 | DH | $ 46.0m | undisclosed |  |
-| LR1 | CABO FROWARD | 74,543 | 2006 | SESEBO, Japan | MAN B\&W | Jun-26 | DH | $ 13.0m | undisclosed | bss forward delivery |
+| LR1 | CABO FROWARD | 74,543 | 2006 | SASEBO, Japan | MAN B\&W | Jun-26 | DH | $ 13.0m | undisclosed | bss forward delivery |
 | LR1 | UOG HERMES | 73,410 | 2009 | NEW TIMES, China | MAN B\&W | Aug-29 | DH | $ 21.2m | Greek |  |
 
 ## Bulk Carriers

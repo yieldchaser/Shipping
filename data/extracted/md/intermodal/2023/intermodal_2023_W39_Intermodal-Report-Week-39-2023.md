@@ -152,8 +152,8 @@ Supramax 10TC averaged \$ 14,482/day, up +0.41% w-o-w, while the Handysize 7TC a
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | CRUDEMED | 115,643 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Jul-28 | DH | $ 140.0m (en bloc) | South Korean | BWTS fitted, Fixed 3 yrs to Unipec at USD 40,000/day |
-| AFRA | CRUESUN | 115,643 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Jul-28 | DH | $ 140.0m (en bloc) | South Korean | BWTS fitted, Fixed 3 yrs to Unipec at USD 40,000/day |
+| AFRA | CRUDEMED | 115,643 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Jul-28 | DH | $ 140.0m | South Korean | BWTS fitted, Fixed 3 yrs to Unipec at USD 40,000/day |
+| AFRA | CRUDESUN | 115,643 | 2018 | DAEHAN, S. Korea | MAN-B\&W | Jul-28 | DH | $ 140.0m | South Korean | BWTS fitted, Fixed 3 yrs to Unipec at USD 40,000/day |
 | MR2 | TRF BERGEN | 49,126 | 2015 | HYUNDAI VINASHIN, Vietnam | MAN-B\&W | May-25 | DH | rgn $37 | Undisclosed | BWTS, Scrubber fitted |
 | MR2 | SANDPIPER PACIFIC | 51,833 | 2013 | SUNGDONG, S. Korea | MAN-B\&W | Jun-23 | DH | $ 34.0m | Undisclosed | BWTS fitted |
 | MR1 | SHANDONG ZIHE | 40,059 | 2004 | SHINA, S. Korea | MAN-B\&W | Mar-24 | DH | $ 14.5m | Undisclosed | BWTS fitted, sold via auction basis delivery UK/Med in December |
@@ -162,12 +162,12 @@ Supramax 10TC averaged \$ 14,482/day, up +0.41% w-o-w, while the Handysize 7TC a
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | AM GIJON | 178,462 | 2011 | MITSUI CHIBA, Japan | MAN-B\&W | Nov-25 |  | $ 26.0m | Greek | BWTS fitted |
-| PMAX | ORION III | 76,602 | 2005 | Imabari Shldg - Marugame | B\&W | Jan-25 |  | $ 10.1m | Far Eastern | BWTS fitted, carry cargo with DENSITY 2.11(T/M3), poor condition |
+| PMAX | ORION III | 76,602 | 2005 | Imabari Shbldg - Marugame | B\&W | Jan-25 |  | $ 10.1m | Far Eastern | BWTS fitted, carry cargo with DENSITY 2.11(T/M3), poor condition |
 | SUPRA | XING HONG DA 8 | 58,018 | 2012 | YANGZHOU DAYANG, China | MAN-B\&W | Jan-27 | 4 X 35t CRANES | $ 12.9m | Chinese |  |
 | SUPRA | VINAYAK | 58,089 | 2009 | TSUNEISHI ZHOUSHAN, China | MAN-B\&W | Sep-24 | 4 X 30t CRANES | $ 14.8m | undisclosed | BWTS fitted |
-| HANDY | FENGNING | 39,836 | 2015 | CHENGXI, China | Wartsila | Jan-25 | 4 X 36t CRANES | $ 58.5m (en bloc) | JP Morgan | BWTS fitted, Log fitted, Wartsila, eco |
-| HANDY | FUNING | 39784 | 2015 | CHENGXI, China | Wartsila | Oct-25 | 4 X 36t CRANES | $ 58.5m (en bloc) | JP Morgan | BWTS fitted, Log fitted, Wartsila, eco |
-| HANDY | FOOCHOW | 39,758 | 2015 | CHENGXI, China | Wartsila | Aug-25 | 4 X 36t CRANES | $ 58.5m (en bloc) | JP Morgan | BWTS fitted, Log fitted, Wartsila, eco |
+| HANDY | FENGNING | 39,836 | 2015 | CHENGXI, China | Wartsila | Jan-25 | 4 X 36t CRANES | $ 58.5m | JP Morgan | BWTS fitted, Log fitted, Wartsila, eco |
+| HANDY | FUNING | 39784 | 2015 | CHENGXI, China | Wartsila | Oct-25 | 4 X 36t CRANES | $ 58.5m | JP Morgan | BWTS fitted, Log fitted, Wartsila, eco |
+| HANDY | FOOCHOW | 39,758 | 2015 | CHENGXI, China | Wartsila | Aug-25 | 4 X 36t CRANES | $ 58.5m | JP Morgan | BWTS fitted, Log fitted, Wartsila, eco |
 | HANDY | 21 LUCKY | 29,756 | 2001 | SHIKOKU, Japan | B\&W | Jul-26 | 4 X 30t CRANES | $ 5.5m | undisclosed | BWTS fitted |
 | Small | SAGITTA | 13,464 | 2008 | Jiangsu Yangzi-Mitsui, China | MAN-B\&W | Feb-28 | 2 X 35t CRANES | $ 8.0m | undisclosed | BWTS fitted |
 

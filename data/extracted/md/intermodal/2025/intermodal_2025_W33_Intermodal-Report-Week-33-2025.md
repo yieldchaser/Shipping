@@ -143,13 +143,13 @@ The Handysize sector delivered mixed outcomes. The Atlantic basin demonstrated h
 # Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | MINERAL UTAMARO | 207,469 | 2016 | IMABARI, Japan | MAN B\&amp;W | Feb-26 |  | $ 165.0m (en bloc) | UAE (Asyad Shipping) |  |
-| NEWCASTLEMAX | MINERAL EDO | 207,219 | 2015 | IMABARI, Japan | MAN B\&amp;W | Apr-25 |  | $ 165.0m (en bloc) | UAE (Asyad Shipping) |  |
-| NEWCASTLEMAX | MINERAL HOKUSAI | 207,219 | 2015 | IMABARI, Japan | MAN B\&amp;W | Nov-25 |  | $ 165.0m (en bloc) | UAE (Asyad Shipping) |  |
+| NEWCASTLEMAX | MINERAL UTAMARO | 207,469 | 2016 | IMABARI, Japan | MAN B\&amp;W | Feb-26 |  | $ 165.0m | UAE (Asyad Shipping) |  |
+| NEWCASTLEMAX | MINERAL EDO | 207,219 | 2015 | IMABARI, Japan | MAN B\&amp;W | Apr-25 |  | $ 165.0m | UAE (Asyad Shipping) |  |
+| NEWCASTLEMAX | MINERAL HOKUSAI | 207,219 | 2015 | IMABARI, Japan | MAN B\&amp;W | Nov-25 |  | $ 165.0m | UAE (Asyad Shipping) |  |
 | CAPE | FRONTIER BONANZA | 179,435 | 2010 | HYUNDAI HI, S. Korea | MAN B\&amp;W | Oct-25 |  | $ 26.2m | Greek | BWTS |
 | MINI CAPE | ANGLO SAXON | 114,135 | 2010 | SHANGHAI SHIPYARD, China | MAN B\&amp;W | Sep-25 |  | $ 14.5m | Indian | BWTS, Scrubber fitted |
 | POST PMAX | KM NAGOYA | 95,349 | 2012 | IMABARI, Japan | MAN B\&amp;W | Aug-25 |  | $ 17.5m | undisclosed |  |
-| KMAX | RED MARLIN | 85,015 | 2017 | SESEBO, Japan | MAN B\&amp;W | Feb-27 |  | $ 26.0m | Asian |  |
+| KMAX | RED MARLIN | 85,015 | 2017 | SASEBO, Japan | MAN B\&amp;W | Feb-27 |  | $ 26.0m | Asian |  |
 | KMAX | SHANDONG FU HUI | 81,782 | 2017 | Jiangsu Jinling, China | MAN B\&amp;W | Oct-27 |  | $ 24.6m | Turkish | BWTS |
 | KMAX | SHANDONG FU YUAN | 81,781 | 2018 | Jiangsu Jinling, China | MAN B\&amp;W | May-28 |  | $ 25.1m | undisclosed | BWTS |
 | KMAX | ISTRIA | 81,699 | 2013 | WUHU XINLIAN, China | MAN B\&amp;W |  |  | $ 17.0m | Greek |  |

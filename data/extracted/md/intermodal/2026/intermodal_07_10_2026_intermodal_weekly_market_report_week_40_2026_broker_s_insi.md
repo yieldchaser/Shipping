@@ -263,8 +263,8 @@ www.intermodal.gr
 | SUEZ | TATAKI | 149,992 | 2010 | NEW TIMES, China | MAN B&W | Jan-30 | DH | $ 96.0m | undisclosed |  |
 | SUEZ | TIANLONG | 159,021 | 2009 | BOHAI, China | MAN B&W | Jan-29 | DH | high $ 80s | undisclosed |  |
 | SUEZ | NORDIC FREEDOM | 159,331 | 2005 | DAEWOO, South Korea | B&W | Mar-30 | DH | $ 65.0m | undisclosed |  |
-| LR1 | BLUEBIRD | 74,074 | 2016 | NEW TIMES, China | Wartsila | Jun-31 | DH | $ 55.0m each | undisclosed |  |
-| LR1 | STARLING | 74,033 | 2016 | NEW TIMES, China | Wartsila | Jul-31 | DH | $ 55.0m each | undisclosed |  |
+| LR1 | BLUEBIRD | 74,074 | 2016 | NEW TIMES, China | Wartsila | Jun-31 | DH | $ 55,0m each | undisclosed |  |
+| LR1 | STARLING | 74,033 | 2016 | NEW TIMES, China | Wartsila | Jul-31 | DH | $ 55,0m each | undisclosed |  |
 | MR1 | EASTERLY JUPITER | 36,677 | 2009 | HYUNDAI MIPO, S. Korea | MAN B&W | Feb-29 | DH | $ 19.0m | undisclosed |  |
 | SMALL | BOW VICTORY | 21,193 | 2016 | ASAKAWA ZOSEN, Japan | MAN B&W | Sep-31 | DH | $ 29.5m | undisclosed | StSt |
 
@@ -274,8 +274,8 @@ www.intermodal.gr
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | EKATERINI V | 173,555 | 2012 | BOHAI, China | Wartsila | Jan-27 |  | $ 35.0m | Far Eastern |
 | KMAX | MOON | 80,505 | 2012 | STX, S. Korea | MAN B&W | Feb-27 |  | $ 19.5m | undisclosed |
-| SUPRA | OAK | 57,275 | 2011 | STX DALIAN, China | MAN B&W | Mar-31 | 4 X 30t CRANES | $ 16.5m each | undisclosed |
-| SUPRA | JUNIPER | 57,185 | 2011 | STX DALIAN, China | MAN B&W | Feb-31 | 4 X 30t CRANES | $ 16.5m each | undisclosed |
+| SUPRA | OAK | 57,275 | 2011 | STX DALIAN, China | MAN B&W | Mar-31 | 4 X 30t CRANES | $ 16,5m each | undisclosed |
+| SUPRA | JUNIPER | 57,185 | 2011 | STX DALIAN, China | MAN B&W | Feb-31 | 4 X 30t CRANES | $ 16,5m each | undisclosed |
 
 4
 

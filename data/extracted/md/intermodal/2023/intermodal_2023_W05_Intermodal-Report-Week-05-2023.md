@@ -225,9 +225,9 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 | SUB PMAX | TRF KAYA | 2,824 | 2007 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-22 |  | $ 15.0m | Norwegian | BWTS &amp; Scrubber fitted, Incl. TC attached |
 | SUB PMAX | NORTHERN VIVACITY | 2,742 | 2005 | AKER MTW WERFT, Germany | B\&amp;W | Sep-25 |  | $ 13.0m | undisclosed | Ice Class II |
 | SUB PMAX | NORTHERN VOLITION | 2,742 | 2005 | AKER MTW WERFT, Germany | B\&amp;W | Nov-25 |  | $ 13.0m | undisclosed | Ice Class II |
-| FEEDER | TS YOKOHAMA | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B\&amp;W | Nov-24 |  | $ 40.0m (en bloc) | European | BWTS fitted |
-| FEEDER | TS SHANGHAI | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B\&amp;W | Aug-24 |  | $ 40.0m (en bloc) | European | BWTS fitted |
-| FEEDER | TS MOJI | 962 | 2006 | DAE SUN, S. Korea | MAN-B\&amp;W | Dec-26 |  | $ 40.0m (en bloc) | European | BWTS fitted |
+| FEEDER | TS YOKOHAMA | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B\&amp;W | Nov-24 |  | $ 40.0m | European | BWTS fitted |
+| FEEDER | TS SHANGHAI | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B\&amp;W | Aug-24 |  | $ 40.0m | European | BWTS fitted |
+| FEEDER | TS MOJI | 962 | 2006 | DAE SUN, S. Korea | MAN-B\&amp;W | Dec-26 |  | $ 40.0m | European | BWTS fitted |
 
 © Intermodal Research 08/02/2023 4
 

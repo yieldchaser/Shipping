@@ -220,10 +220,10 @@ In the Handysize sector we had the sale of the "NEW DAYS" (38,230dwt-blt '17, Ja
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR2 | FRONT LION | 115,162 | 2014 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Sep-24 | DH | $ 160.0m (en bloc) | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
-| LR2 | FRONT TIGER | 115,024 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Jun-25 | DH | $ 160.0m (en bloc) | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
-| LR2 | FRONT PANTHER | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Jan-25 | DH | $ 160.0m (en bloc) | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
-| LR2 | FRONT PUMA | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Mar-25 | DH | $ 160.0m (en bloc) | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
+| LR2 | FRONT LION | 115,162 | 2014 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Sep-24 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
+| LR2 | FRONT TIGER | 115,024 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Jun-25 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
+| LR2 | FRONT PANTHER | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Jan-25 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
+| LR2 | FRONT PUMA | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Mar-25 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
 | LR1 | NORDMERKUR | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | May-24 | DH | $ 10.0m | Indian | deck heaters, old deal |
 | LR1 | NORDNEPTUN | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Apr-24 | DH | $ 10.0m | Indian | deck heaters, old deal |
 | MR2 | GRAZIA | 50,213 | 2010 | GSI, China | MAN-B\&amp;W | Nov-25 | DH | $ 15.15m | Greek | BWTS fitted |

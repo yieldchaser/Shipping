@@ -160,9 +160,9 @@ Secondhand Sales
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | BULK SANDEFJORD | 207,992 | 2019 | NEW TIMES, China | MAN B\&W | Aug-29 |  | $ 209.0m (en bloc) | Middle Eastern | Eco, Scrubber fitted |
-| NEWCASTLEMAX | BULK SANTIAGO | 207,992 | 2019 | NEW TIMES, China | MAN B\&W | Sep-29 |  | $ 209.0m (en bloc) | Middle Eastern | Eco, Scrubber fitted |
-| NEWCASTLEMAX | BULK SHENZHEN | 207,992 | 2020 | NEW TIMES, China | MAN B\&W | Jan-30 |  | $ 209.0m (en bloc) | Middle Eastern | Eco, Scrubber fitted |
+| NEWCASTLEMAX | BULK SANDEFJORD | 207,992 | 2019 | NEW TIMES, China | MAN B\&W | Aug-29 |  | $ 209.0m | Middle Eastern | Eco, Scrubber fitted |
+| NEWCASTLEMAX | BULK SANTIAGO | 207,992 | 2019 | NEW TIMES, China | MAN B\&W | Sep-29 |  | $ 209.0m | Middle Eastern | Eco, Scrubber fitted |
+| NEWCASTLEMAX | BULK SHENZHEN | 207,992 | 2020 | NEW TIMES, China | MAN B\&W | Jan-30 |  | $ 209.0m | Middle Eastern | Eco, Scrubber fitted |
 | CAPE | EASTERN FREESIA | 180,096 | 2010 | QINGDAO BEIHAI, China | MAN B\&W | Oct-25 |  | $ 23.25m | undisclosed |  |
 | POST PMAX | CMB MEDOC | 95,746 | 2012 | IMABARI, Japan | MAN B\&W | Apr-30 |  | $ 18.5m | Indian |  |
 | KMAX | JIUXU 81 | 81,762 | 2013 | WUHU XINLIAN, China | MAN B\&W | Jul-28 |  | $ 18.5m | Chinese | Eco |

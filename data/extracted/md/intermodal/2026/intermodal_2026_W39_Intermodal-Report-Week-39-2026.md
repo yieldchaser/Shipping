@@ -185,7 +185,7 @@ Handysizes recorded a positive week, underpinned mainly by firmer Atlantic activ
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | RTM DIAS | 89,892 | 2013 | NAMURA, Japan | MITSUBISHI | Jan-28 | $ 21,4m each | undisclosed |  |
-| POST PMAX | RTM FLINDERS | 89,892 | 2013 | NAMURA, Japan | MITSUBISHI | Mar-28 |  |  |  |
+| POST PMAX | RTM FLINDERS | 89,892 | 2013 | NAMURA, Japan | MITSUBISHI | Mar-28 | $ 21,4m each | undisclosed |  |
 | KMAX | BABITONGA | 81,770 | 2019 | TSUNEISHI, Japan | MAN B\&W | Oct-29 | $ 38.5m | Taiwanese | Eco, basis delivery in Feb 2027 |
 
 ---

@@ -171,8 +171,8 @@ Supramax 10TC averaged \$ 8,266/day, up +2.28% w-o-w, while the Handysize 7TC av
 | PMAX | SUNNY ETERNITY | 77,211 | 2014 | OSHIMA, Japan | MAN-B\&W | J un-24 |  | mid high $ 19.0m | undisclosed | BWTS fitted |
 | SUPRA | RHINE CONFIDANTE | 57,016 | 2010 | NINGBO BEILUN, China | MAN-B\&W | Apr-25 | 4 X 35t CRANES | $ 10.9m | undisclosed | BWTS fitted |
 | SUPRA | RHL MARTA | 53,808 | 2007 | C HENGXI, China | MAN-B\&W | Oct-27 | 4 X 36t CRANES | mid $ 10.0m | undisclosed | BWTS fitted |
-| HANDY | PAN DAISY | 32,978 | 2009 | Taizhou Maple Leaf Shldg | MAN-B\&W | Mar-24 | 4 X 30,5t CRANES | high $ 9.0m each | undisclosed |  |
-| HANDY | PAN EDELWEISS | 32,949 | 2009 | Taizhou Maple Leaf Shldg | MAN-B\&W | Oct-24 | 4 X 30,5t CRANES | high $ 9.0m each | undisclosed | BWTS fitted |
+| HANDY | PAN DAISY | 32,978 | 2009 | Taizhou Maple Leaf Shbldg | MAN-B\&W | Mar-24 | 4 X 30,5t CRANES | high $ 9.0m each | undisclosed |  |
+| HANDY | PAN EDELWEISS | 32,949 | 2009 | Taizhou Maple Leaf Shbldg | MAN-B\&W | Oct-24 | 4 X 30,5t CRANES | high $ 9.0m each | undisclosed | BWTS fitted |
 | HANDY | SHENG LE A | 28,399 | 1997 | HAKODATE, Japan | B\&W | Sep-27 | 4 X 30,5t CRANES | $ 4.5m | Chinese |  |
 
 ---

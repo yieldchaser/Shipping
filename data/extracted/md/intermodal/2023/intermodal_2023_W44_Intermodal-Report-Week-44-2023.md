@@ -159,15 +159,15 @@ The BDI on Friday, November 3rd, closed at 1462, marking a decrease of 101 point
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | C. SPIRIT | 313,998 | 2013 | HYUNDAI HEAVY INDS - U, S. Korea | Wartsila | Mar-28 | DH | $ 67.0m | Greek (New Shipping) | BWTS &amp; Scubber fitted, TC at US$ 36,625 pd less 2.5% until October 2024-February 2025. |
 | VLCC | C. CHALLENGER | 313,918 | 2013 | DALIAN, China | MAN-B\&amp;W | Feb-28 | DH | $ 65.0m | Greek (New Shipping) | BWTS &amp; Scubber fitted, TC at US$ 31,000 pd less 1.25% until April-July 2024. |
-| VLCC | C. VISION | 314,000 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Jun-24 | DH | $ 34.5m (en bloc) | U.A.E Based | Scrubber fitted |
-| VLCC | C. EMPEROR | 314,000 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Mar-24 | DH | $ 34.5m (en bloc) | U.A.E Based | Scrubber fitted |
+| VLCC | C. VISION | 314,000 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Jun-24 | DH | $ 34.5m | U.A.E Based | Scrubber fitted |
+| VLCC | C. EMPEROR | 314,000 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Mar-24 | DH | $ 34.5m | U.A.E Based | Scrubber fitted |
 | MR1 | DICTADOR | 34,747 | 2019 | FUJIAN MAWEI, China | WinGD | Nov-24 | DH | $ 29.2m | undisclosed | BWTS fitted |
 | Small | BOW EMMA | 25,594 | 2009 | SHIN KURUSHIMA, Japan | Mitsubishi | Jan-24 | DH | $ 24.0m | Chinese (Taihua) | BWTS fitted |
 | Small | RAYANA | 14,958 | 2009 | STX RO OFFSHORE BRAILA, Romania | MAN | Nov-26 | DH | undisclosed | undisclosed | BWTS due 30/4/2023 |
 | Small | BRO DEVELOPER | 14,737 | 2007 | JINSE, S. Korea | MAN | Dec-26 | DH | $ 10.1m | Singaporean | BWTS fitted |
-| Small | VS SALMA | 8,011 | 2008 | ANADOLU TUZLA, Turkey | Ma K | Jun-27 | DH | $ 25.4m (en bloc) | Unidsclosed | BWTS fitted |
-| Small | ST SARA | 8,019 | 2007 | ANADOLU TUZLA, Turkey | Ma K | Jan-27 | DH | $ 25.4m (en bloc) | Unidsclosed | BWTS fitted |
-| Small | VS SALOME | 7,915 | 2007 | ANADOLU TUZLA, Turkey | Ma K | Aug-27 | DH | $ 25.4m (en bloc) | Unidsclosed | BWTS fitted |
+| Small | VS SALMA | 8,011 | 2008 | ANADOLU TUZLA, Turkey | Ma K | Jun-27 | DH | $ 25.4m | Unidsclosed | BWTS fitted |
+| Small | ST SARA | 8,019 | 2007 | ANADOLU TUZLA, Turkey | Ma K | Jan-27 | DH | $ 25.4m | Unidsclosed | BWTS fitted |
+| Small | VS SALOME | 7,915 | 2007 | ANADOLU TUZLA, Turkey | Ma K | Aug-27 | DH | $ 25.4m | Unidsclosed | BWTS fitted |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |

@@ -152,10 +152,10 @@ Supramax 10TC averaged \$ 12,511/day, down -9.51% w-o-w. while the Handysize 7TC
 | VLCC | NEREIDES | 300,544 | 2004 | IHI MARINE, Japan | Sulzer | May-24 | DH | $ 29.0m | undisclosed |  |
 | AFRA | VOLANS | 99,876 | 2009 | HYUNDAI, S. Korea | MAN-B\&W | Jan-26 | DH | $ 31.5m | undisclosed | BWTS fitted |
 | LR1 | PATARIS | 73,774 | 2009 | NEW TIMES, China | MAN-B\&W | Apr-24 | DH | regio $ 26.0m | UK based (Trafigura) | BWTS fitted |
-| MR1 | DINAH | 37,313 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&W | Nov-28 | DH | $ 41.75m (en bloc) | undisclosed | Ice 1A |
-| MR1 | PLUTO | 37,282 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&W | Oct-28 | DH | $ 41.75m (en bloc) | undisclosed | Ice 1A |
+| MR1 | DINAH | 37,313 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&W | Nov-28 | DH | $ 41.75m | undisclosed | Ice 1A |
+| MR1 | PLUTO | 37,282 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&W | Oct-28 | DH | $ 41.75m | undisclosed | Ice 1A |
 | SMALL | LIV KNUTSEN | 16,585 | 2009 | JIANGNAN, China | MAN | Aug-24 | DH | region high $ 13.0m each | Canadian (Algoma) | incl BB back to the sellers |
-| SMALL | ELI KNUTSEN | 16,544 | 2009 | JIANGNAN, China | MAN | Jun-24 | DH | region high $ 13.0m each | Canadian (Algoma) |  |
+| SMALL | ELI KNUTSEN | 16,544 | 2009 | JIANGNAN, China | MAN | Jun-24 | DH | region high $ 13.0m each | Canadian (Algoma) | incl BB back to the sellers |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |

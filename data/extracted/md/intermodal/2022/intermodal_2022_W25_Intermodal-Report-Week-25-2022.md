@@ -224,6 +224,7 @@ In the Handysize sector we had the sale of the "EVA BULKER" (38,140dwt-blt '12, 
 | MR2 | DAISY M | 50,319 | 2008 | GUANGZHOU, China | MAN-B\&amp;W | Sep-23 | DH | $ 15.0m | Greek (Aerio) |  |
 | MR1 | FRESIA | 37,320 | 2003 | STX, S. Korea | MAN-B\&amp;W | Oct-23 | DH | excess $ 8.0m | undisclosed | purchase option exercised |
 | SMALL | MAERSK BORNEO | 29,013 | 2007 | GUANGZHOU, China | MAN-B\&amp;W | Apr-25 | DH | $ 11.8m | undisclosed |  |
+| SMALL | CELSIUS MESSINA | 20,896 | 2007 | SHIN KURUSHIMA, Japan | MAN-B&W | Jul-22 | DH | $ 13.0m | Chinese | StSt |
 | SMALL | CELIUS MESSINA | 20,896 | 2007 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Jul-22 | DH | $ 13.0m | Chinese | StSt |
 | SMALL | FSL LONDON | 19,966 | 2006 | USUKI, Japan | MAN-B\&amp;W | Sep-26 | DH | $ 12.0m | Chinese | StSt |
 ## Bulk Carriers

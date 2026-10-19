@@ -164,10 +164,10 @@ Supramax 10TC averaged \$ 8,163/day, down -1.24% w-o-w, while the Handysize 7TC 
 | POST PMAX | MH HAMBURG | 6,494 | 2009 | KOYO MIHARA, Japan | MAN-B\&W | Mar-24 |  | $ 32.0m | German (Foroohari Schiff) | TC included, scrubber fitted |
 | PMAX | ZHONG GU JIANG SU | 4,963 | 2010 | DAEWOO-MANGALIA, Romania | MAN-B\&W | Apr-25 |  |  | Swiss (MSC) |  |
 | PMAX | MAERSK LAUNCESTON | 4,533 | 2005 | Odense Staalskibs - Lindo | Sulzer | Nov-24 |  |  | Swiss (MSC) |  |
-| PMAX | ZIM QINGDAO | 4,250 | 2006 | Dalian Shipbuilding Ind - No 1 | MAN-B\&W | Aug-26 |  | $ 80.0m (en bloc) | Swiss (MSC) |  |
-| PMAX | ZIM SHEKOU | 4,250 | 2007 | Dalian Shipbuilding Ind - No 1 | MAN-B\&W | May-27 |  | $ 80.0m (en bloc) | Swiss (MSC) |  |
-| PMAX | ZIM VANCOUVER | 4,250 | 2007 | Dalian Shipbuilding Ind - No 2 | MAN-B\&W | Aug-27 |  | $ 80.0m (en bloc) | Swiss (MSC) |  |
-| PMAX | ZIM YOKOHAMA | 4,250 | 2007 | Dalian Shipbuilding Ind - No 2 | MAN-B\&W | Aug-22 |  | $ 80.0m (en bloc) | Swiss (MSC) |  |
+| PMAX | ZIM QINGDAO | 4,250 | 2006 | Dalian Shipbuilding Ind - No 1 | MAN-B\&W | Aug-26 |  | $ 80.0m | Swiss (MSC) |  |
+| PMAX | ZIM SHEKOU | 4,250 | 2007 | Dalian Shipbuilding Ind - No 1 | MAN-B\&W | May-27 |  | $ 80.0m | Swiss (MSC) |  |
+| PMAX | ZIM VANCOUVER | 4,250 | 2007 | Dalian Shipbuilding Ind - No 2 | MAN-B\&W | Aug-27 |  | $ 80.0m | Swiss (MSC) |  |
+| PMAX | ZIM YOKOHAMA | 4,250 | 2007 | Dalian Shipbuilding Ind - No 2 | MAN-B\&W | Aug-22 |  | $ 80.0m | Swiss (MSC) |  |
 | FEEDER | WAN HAI 267 | 1,662 | 2002 | SHIN KURUSHIMA, Japan | B\&W | J un-27 |  |  | Indian |  |
 | FEEDER | A XINXIA | 907 | 2007 | KYOKUYO ZOSEN, Japan | MAN-B\&W | J un-24 |  | $ 8.0m | Vietnamese |  |
 

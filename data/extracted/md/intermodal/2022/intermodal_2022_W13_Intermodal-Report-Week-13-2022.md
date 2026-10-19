@@ -255,20 +255,20 @@ In the Supramax sector we had the sale of the “AMOY ACTION” (56,874dwt-blt '
 | Bulk Carriers |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
-| MINI CAPE | MARAN PROGRESS | 114,047 | 2014 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Jan-24 |  |  |  |  |
-| MINI CAPE | MARAN WISDOM | 114,046 | 2014 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | May-24 |  |  |  |  |
-| MINI CAPE | MARAN ZENITH | 114,038 | 2013 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Apr-23 |  |  |  |  |
+| MINI CAPE | MARAN PROGRESS | 114,047 | 2014 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Jan-24 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN WISDOM | 114,046 | 2014 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | May-24 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN ZENITH | 114,038 | 2013 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Apr-23 |  | rgn 200.0m | undisclosed |  |
 | MINI CAPE | MARAN ASPIRATION | 114,013 | 2012 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Oct-24 |  | rgn 200.0m | undisclosed |  |
-| MINI CAPE | MARAN DAWN | 114,091 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Oct-25 |  |  |  |  |
-| MINI CAPE | MARAN OCEAN | 114,007 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Aug-24 |  |  |  |  |
-| MINI CAPE | MARAN SKY | 114,078 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Jul-25 |  |  |  |  |
-| MINI CAPE | MARAN SUN | 114,078 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Aug-25 |  |  |  |  |
+| MINI CAPE | MARAN DAWN | 114,091 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Oct-25 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN OCEAN | 114,007 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Aug-24 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN SKY | 114,078 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Jul-25 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN SUN | 114,078 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Aug-25 |  | rgn 200.0m | undisclosed |  |
 | POST PMAX | CMB PAUILLAC | 95,707 | 2012 | IMABARI, Japan | MAN-B\&amp;W | Aug-22 |  | $ 25.0m | Greek |  |
 | KMAX | YANGTZE XING HUA | 81,678 | 2012 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | May-22 |  | $ 22.0m | Chinese |  |
 | KMAX | DARYA KIRTHI | 80,545 | 2012 | STX, S. Korea | MAN-B\&amp;W | Feb-27 |  | $ 26.5m | undisclosed |  |
 | KMAX | ROSCO LITCHI | 82,153 | 2011 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jan-26 |  | excess $ 25.0m | Greek |  |
 | PMAX | RIO TAMARA | 75,610 | 2014 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Apr-24 |  | $ 22.5m | undisclosed |  |
-| PMAX | RIO GRITA | 75,378 | 2014 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Feb-24 |  | $ 22.5m |  |  |
+| PMAX | RIO GRITA | 75,378 | 2014 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Feb-24 |  | $ 22.5m | undisclosed |  |
 
 © Intermodal Research 05/04/2022 5
 
@@ -281,9 +281,9 @@ In the Supramax sector we had the sale of the “AMOY ACTION” (56,874dwt-blt '
 | Bulk Carriers |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
-| UMAX | S HERMES | 61,272 | 2016 | I-S SHIPYARD, Japan | MAN-B&amp;W | Feb-26 | 4 X 30,7t CRANES | $ 32.0m |  |  |
+| UMAX | S HERMES | 61,272 | 2016 | I-S SHIPYARD, Japan | MAN-B&amp;W | Feb-26 | 4 X 30,7t CRANES | $ 32.0m | Greek |  |
 | UMAX | S ECHO | 61,258 | 2015 | IMABARI, Japan | MAN-B&amp;W | Jul-25 | 4 X 30,7t CRANES | $ 31.0m | Greek |  |
-| UMAX | S TANGO | 61,192 | 2015 | IMABARI, Japan | MAN-B&amp;W | Sep-25 | 4 X 30,7t CRANES | $ 31.0m |  |  |
+| UMAX | S TANGO | 61,192 | 2015 | IMABARI, Japan | MAN-B&amp;W | Sep-25 | 4 X 30,7t CRANES | $ 31.0m | Greek |  |
 | SUPRA | ORIENT LUCKY | 57,124 | 2010 | BOHAI, China | MAN-B&amp;W | Jul-25 | 4 X 30t CRANES | $ 17.9m | Greek |  |
 | SUPRA | AMOY ACTION | 56,874 | 2010 | XIAMEN, China | MAN-B&amp;W | Nov-25 | 4 X 30t CRANES | excess $ 18.0m | Greek |  |
 | SUPRA | VEGA ROSE | 55,711 | 2007 | KAWASAKI, Japan | MAN-B&amp;W | Oct-24 | 4 X 30,5t CRANES | $ 18.2m | Chinese | BWTS fitted |

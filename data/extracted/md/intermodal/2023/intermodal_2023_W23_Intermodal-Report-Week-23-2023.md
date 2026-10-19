@@ -158,7 +158,7 @@ Supramax 10TC averaged \$ 8,430/day, down -11.31% w-o-w, while the Handysize 7TC
 | SUPRA | YUAN AN HAI | 56,957 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Aug-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
 | SUPRA | YUAN SHUN HAI | 56,956 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Aug-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
 | SUPRA | JIN ZHOU HAI | 56,907 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Nov-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
-| HANDY | AMERICAN BULKER | 36,228 | 2016 | SHIKOKU, Japan | MAN-B\&amp;W | Feb-26 | 4 X 31,2t CRANES | region $ 22.7m | Greek | BWTS fitted, Eco, OHBS, dely OctNov 2023 |
+| HANDY | AMERICAN BULKER | 36,228 | 2016 | SHIKOKU, Japan | MAN-B\&amp;W | Feb-26 | 4 X 31,2t CRANES | region $ 22.7m | Greek | BWTS fitted, Eco, OHBS, dely Oct/Nov 2023 |
 
 ## Containers
 

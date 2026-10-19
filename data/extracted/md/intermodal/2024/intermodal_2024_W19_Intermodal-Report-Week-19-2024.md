@@ -147,34 +147,32 @@ Supramax 10TC averaged \$ 15,935/day down -1.96% w-o-w, while the Handysize 7TC 
 
 ---
 
-## Secondhand Sales
-
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | SM VENUS2 | 299,696 | 2020 | HYUNDAI SAMHO, S. Korea | Sulzer | Feb-27 | DH | $ 464.0m (en bloc) | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
-| VLCC | SM VENUS 1 | 299,696 | 2019 | HYUNDAI SAMHO, S. Korea | MAN-B\&W | Sep-24 | DH | $ 464.0m (en bloc) | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
-| VLCC | SM WHITE WHALE2 | 300,759 | 2019 | DAEWOO HEAVY INDUSTRIE, S. Korea | MAN-B\&W | Dec-24 | DH | $ 464.0m (en bloc) | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
-| VLCC | SM WHITE WHALE1 | 300,759 | 2019 | DAEWOO HEAVY INDUSTRIE, S. Korea | MAN-B\&W | Dec-24 | DH | $ 464.0m (en bloc) | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
-| VLCC | MARIJAN | 302,977 | 2002 | SAMSUNG, S. Korea | MAN-B\&W | Jan-25 | DH | $ 33.5m | Chinese |  |
-| LR2 | SANMAR SANGEET | 106,516 | 2004 | TSUNEISHI, Japan | B\&W | Sep-24 | DH | $ 26.9m | undisclosed |  |
-| LR1 | UOG AEOLOS | 73,427 | 2009 | NEW TIMES, China | MAN-B\&W | May-24 | DH | $ 28.8m | undisclosed |  |
-| MR | DEE4 LARCH | 49,737 | 2016 | SLS, S. Korea | MAN-B\&W | Jun-28 | DH | $ 41.0m | Danish | Eco, Basis Surveys Due |
-| MR | PACIFIC DIAMOND | 47,917 | 2010 | HYUNDAI VINASHIN, Vietnam | MAN-B\&W | Aug-26 | DH | $ 26.7m | undisclosed |  |
+| VLCC | SM VENUS2 | 299,696 | 2020 | HYUNDAI SAMHO, S. Korea | Sulzer | Feb-27 | DH | $ 464.0m | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
+| VLCC | SM VENUS 1 | 299,696 | 2019 | HYUNDAI SAMHO, S. Korea | MAN-B&W | Sep-24 | DH | $ 464.0m | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
+| VLCC | SM WHITE WHALE2 | 300,759 | 2019 | DAEWOO HEAVY INDUSTRIE, S. Korea | MAN-B&W | Dec-24 | DH | $ 464.0m | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
+| VLCC | SM WHITE WHALE1 | 300,759 | 2019 | DAEWOO HEAVY INDUSTRIE, S. Korea | MAN-B&W | Dec-24 | DH | $ 464.0m | U.A.E. (Bahri) | Scrubber fitted, Eco, Tier III |
+| VLCC | MARJAN | 302,977 | 2002 | SAMSUNG, S. Korea | MAN-B&W | Jan-25 | DH | $ 33.5m | Chinese |  |
+| LR2 | SANMAR SANGEET | 106,516 | 2004 | TSUNEISHI, Japan | B&W | Sep-24 | DH | $ 26.9m | undisclosed |  |
+| LR1 | UOG AEOLOS | 73,427 | 2009 | NEW TIMES, China | MAN-B&W | May-24 | DH | $ 28.8m | undisclosed |  |
+| MR | DEE4 LARCH | 49,737 | 2016 | SLS, S. Korea | MAN-B&W | Jun-28 | DH | $ 41.0m | Danish | Eco, Basis Surveys Due |
+| MR | PACIFIC DIAMOND | 47,917 | 2010 | HYUNDAI VINASHIN, Vietnam | MAN-B&W | Aug-26 | DH | $ 26.7m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | TRUST SHANGHAI | 209,523 | 2021 | SWS, China | MAN-B\&W | Apr-26 |  | $ 146.0m (en bloc) | Danish (Norden) | Scrubber fitted, Eco |
-| NEWCASTLEMAX | TRUST QINGDAO | 209,301 | 2021 | SWS, China | MAN-B\&W | Feb-26 |  | $ 146.0m (en bloc) | Danish (Norden) | Scrubber fitted, Eco |
-| CAPE | EL GRASSO | 181,365 | 2012 | IMABARI, Japan | MAN-B\&W | May-25 |  | $ 35.7m | Singaporean (Agricore) | Eco |
-| KMAX | VINCENT TALISMAN | 81,577 | 2020 | JIANGSU HANTONG, China | MAN-B\&W | Apr-25 |  | $ 33.0m | Chinese | Eco |
-| UMAX | SSI PRIVILEGE | 63,566 | 2019 | JINLING, China | MAN-B\&W | Jul-24 | 4 X 30t CRANES | $ 32.8m | South Korean | Eco |
-| UMAX | PING HAI | 62,623 | 2017 | OSHIMA, Japan | MAN-B\&W | Sep-27 | 4 X 30t CRANES | $ 32.0m | Chinese | Eco, DD due |
-| SUPRA | V RICH | 56,546 | 2014 | JIANGSU HANTONG, China | MAN-B\&W | Jan-29 | 4 X 36t CRANES | high $18m | Greek (Pioneer) | Eco |
-| SUPRA | HONY WORLD | 56,716 | 2012 | XIAMEN, China | MAN-B\&W | Jul-27 | 4 X 30t CRANES | $ 14.5m | Middle Eastern |  |
+| NEWCASTLEMAX | TRUST SHANGHAI | 209,523 | 2021 | SWS, China | MAN-B&W | Apr-26 |  | $ 146.0m | Danish (Norden) | Scrubber fitted, Eco |
+| NEWCASTLEMAX | TRUST QINGDAO | 209,301 | 2021 | SWS, China | MAN-B&W | Feb-26 |  | $ 146.0m | Danish (Norden) | Scrubber fitted, Eco |
+| CAPE | EL GRASSO | 181,365 | 2012 | IMABARI, Japan | MAN-B&W | May-25 |  | $ 35.7m | Singaporean (Agricore) | Eco |
+| KMAX | VINCENT TALISMAN | 81,577 | 2020 | JIANGSU HANTONG, China | MAN-B&W | Apr-25 |  | $ 33.0m | Chinese | Eco |
+| UMAX | SSI PRIVILEGE | 63,566 | 2019 | JINLING, China | MAN-B&W | Jul-24 | 4 X 30t CRANES | $ 32.8m | South Korean | Eco |
+| UMAX | PING HAI | 62,623 | 2017 | OSHIMA, Japan | MAN-B&W | Sep-27 | 4 X 30t CRANES | $ 32.0m | Chinese | Eco, DD due |
+| SUPRA | V RICH | 56,546 | 2014 | JIANGSU HANTONG, China | MAN-B&W | Jan-29 | 4 X 36t CRANES | high $18m | Greek (Pioneer) | Eco |
+| SUPRA | HONY WORLD | 56,716 | 2012 | XIAMEN, China | MAN-B&W | Jul-27 | 4 X 30t CRANES | $ 14.5m | Middle Eastern |  |
 | HANDY | TAWAKI | 39,855 | 2014 | CHENGXI, China | Wartsila | May-29 | 4 X 36t CRANES | $ 19.9m | Danish | Eco |
-| HANDY | SEVGI | 28,164 | 2012 | HUANGHAI, China | MAN-B\&W | Feb-27 | 2 X 200t CRANES, 1 X 45t CRANES | $ 16.2m | undisclosed | Auction Sale, Ice Class 1A, Eco, 1,746 TEU |
+| HANDY | SEVGI | 28,164 | 2012 | HUANGHAI, China | MAN-B&W | Feb-27 | 2 X 200t CRANES,1 X 45t CRANES | $ 16.2m | undisclosed | Auction Sale, Ice Class 1A, Eco, 1,746 TEU |
 
 ---
 

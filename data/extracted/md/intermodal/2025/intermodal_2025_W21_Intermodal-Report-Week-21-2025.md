@@ -163,9 +163,9 @@ Secondhand Sales
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KMAX | KEY ACTION | 82,168 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN B\&W | Apr-30 |  | $ 15.1m | Chinese | DD passed |
-| KMAX | CL TIFFANY | 81,687 | 2013 | YANGFAN, China | Mitsubishi | Apr-28 |  | $ 45.0m (en bloc) | Chinese |  |
-| KMAX | CL GRACE | 81,563 | 2012 | YANGFAN, China | Mitsubishi | Jan-28 |  | $ 45.0m (en bloc) | Chinese |  |
-| KMAX | CL MONA | 81,504 | 2013 | YANGFAN, China | Mitsubishi | Jan-28 |  | $ 45.0m (en bloc) | Chinese |  |
+| KMAX | CL TIFFANY | 81,687 | 2013 | YANGFAN, China | Mitsubishi | Apr-28 |  | $ 45.0m | Chinese |  |
+| KMAX | CL GRACE | 81,563 | 2012 | YANGFAN, China | Mitsubishi | Jan-28 |  | $ 45.0m | Chinese |  |
+| KMAX | CL MONA | 81,504 | 2013 | YANGFAN, China | Mitsubishi | Jan-28 |  | $ 45.0m | Chinese |  |
 | UMAX | NORD MISSISSIPPI | 60,456 | 2015 | MITSUI, Japan | MAN B\&W | Sep-25 | 4 X 30t CRANES | region $ 22,0m | Greek | Eco |
 | SUPRA | SOLDOY | 56,830 | 2011 | YANGFAN, China | MAN B\&W | Jul-26 | 4 X 36t CRANES | $ 12.5m | undisclosed | Tier II |
 | HANDY | MAPLE TULIP | 33,158 | 2011 | KANDA, Japan | Mitsubishi | Oct-25 | 4 X 30,5t CRANES | undisclosed | undisclosed | OHBS |

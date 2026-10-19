@@ -163,14 +163,14 @@ The Ultramax/Supramax segment enjoyed a favourable week, supported by better car
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | RTM CARTIER | 205,507 | 2012 | HHIC, Philippines | MAN B\&W | Aug-27 |  | excess $ 90,0m (en bloc) | Chinese | Eco |
-| NEWCASTLEMAX | RTM ZHENG HE | 205,431 | 2012 | HHIC, Philippines | MAN B\&W | Nov-27 |  | excess $ 90,0m (en bloc) | Chinese | Eco |
+| NEWCASTLEMAX | RTM CARTIER | 205,507 | 2012 | HHIC, Philippines | MAN B\&W | Aug-27 |  | excess $ 90,0m | Chinese | Eco |
+| NEWCASTLEMAX | RTM ZHENG HE | 205,431 | 2012 | HHIC, Philippines | MAN B\&W | Nov-27 |  | excess $ 90,0m | Chinese | Eco |
 | UMAX | ASL IXORA | 61,470 | 2012 | SHIN KASADO, Japan | MAN B\&W | Jan-27 | 4 X 30,5t CRANES | excess $ 20,0m | Chinese |  |
 | SUPRA | SUNNY ROYAL | 58,772 | 2011 | KAWASAKI, Japan | MAN B\&W | Nov-30 | 4 X 30,5t CRANES | $ 18.5m | Greek |  |
 | SUPRA | HONOUR | 57,050 | 2010 | COSCO ZHOUSHAN, China | MAN B\&W | Jul-30 | 4 X 30t CRANES | $ 13.3m | Chinese |  |
 | SUPRA | PHOENIX K | 54,881 | 2007 | OSHIMA, Japan | MAN B\&W | May-27 | 4 X 30t CRANES | excess $ 14,0m | Chinese | OHBS |
-| HANDY | DORYSIA | 36,863 | 2010 | HYUNDAI MIPO, S. Korea | MAN B\&W | Oct-30 | 4 X 30t CRANES | $ 25.0m (en bloc) | Vietnamese |  |
-| HANDY | STRADION | 36,863 | 2011 | HYUNDAI MIPO, S. Korea | MAN B\&W | Jan-31 | 4 X 30t CRANES | $ 25.0m (en bloc) | Vietnamese |  |
+| HANDY | DORYSIA | 36,863 | 2010 | HYUNDAI MIPO, S. Korea | MAN B\&W | Oct-30 | 4 X 30t CRANES | $ 25.0m | Vietnamese |  |
+| HANDY | STRADION | 36,863 | 2011 | HYUNDAI MIPO, S. Korea | MAN B\&W | Jan-31 | 4 X 30t CRANES | $ 25.0m | Vietnamese |  |
 | HANDY | KS GRACE | 36,320 | 2014 | SHIKOKU, Japan | MAN B\&W | Jan-29 | 4 X 30,5t CRANES | high $ 16,0m | Greek |  |
 
 ---

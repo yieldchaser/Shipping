@@ -212,8 +212,8 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | SVET | 321,039 | 2013 | BOHAI, China | Wartsila | Nov-23 | DH | undisclosed | U.A.E. (Al Seer Marine) | BWTS fitted, distressed sale |
 | VLCC | SCF SHANGHAI | 320,701 | 2014 | BOHAI, China | Wartsila | Feb-24 | DH | undisclosed | U.A.E. (Al Seer Marine) | BWTS fitted, distressed sale |
-| VLCC | TRINITY STAR | 160,391 | 2008 | SAMSUNG, S. Korea | MAN-B&amp;W | May-23 | DH | $ 46.0m (en bloc) | Greek | BWTS fitted |
-| VLCC | TRINITY SUN | 159,233 | 2007 | HYUNDAI, S. Korea | MAN-B&amp;W | Jun-22 | DH | $ 46.0m (en bloc) | Greek |  |
+| VLCC | TRINITY STAR | 160,391 | 2008 | SAMSUNG, S. Korea | MAN-B&amp;W | May-23 | DH | $ 46.0m | Greek | BWTS fitted |
+| VLCC | TRINITY SUN | 159,233 | 2007 | HYUNDAI, S. Korea | MAN-B&amp;W | Jun-22 | DH | $ 46.0m | Greek |  |
 | VLCC | NEPTUN | 307,284 | 2007 | DALIAN, China | Wartsila | Jul-22 | DH | $ 30.8m | Asian |  |
 | VLCC | NUCLEUS | 307,284 | 2007 | DALIAN, China | Wartsila | Oct-22 | DH | $ 30.8m | Asian |  |
 | AFRA | LOMONOSOV PROSPECT | 113,226 | 2018 | HYUNDAI, S. Korea | Wartsila | Oct-23 | DH | $ 40.8m | Greek (Capital) | BWTS fitted, Ice 1A, dual fuelled |

@@ -168,17 +168,17 @@ Supramax 10TC averaged \$ 13,726/day, up +7.88% w-o-w, while the Handysize 7TC a
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | NORTHERN DECENCY | 3,963 | 2003 | HYUNDAI, S. Korea | MAN-B\&W | Apr-28 |  | $12.65m | Chinese |
-| SUB PMAX | AS PETRA | 2,556 | 2004 | HYUNDAI, S. Korea | Sulzer | Apr-24 | 4 X 40t CRANES | $ 25.5m (en bloc) | undisclosed |
-| SUB PMAX | AS PAULINA | 2,556 | 2004 | HYUNDAI, S. Korea | Sulzer | May-24 | 4 X 40t CRANES | $ 25.5m (en bloc) | undisclosed |
-| SUB PMAX | AS PAULINE | 2,572 | 2006 | STX, S. Korea | MAN-B\&W | Feb-26 |  | $ 25.5m (en bloc) | undisclosed |
+| SUB PMAX | AS PETRA | 2,556 | 2004 | HYUNDAI, S. Korea | Sulzer | Apr-24 | 4 X 40t CRANES | $ 25.5m | undisclosed |
+| SUB PMAX | AS PAULINA | 2,556 | 2004 | HYUNDAI, S. Korea | Sulzer | May-24 | 4 X 40t CRANES | $ 25.5m | undisclosed |
+| SUB PMAX | AS PAULINE | 2,572 | 2006 | STX, S. Korea | MAN-B\&W | Feb-26 |  | $ 25.5m | undisclosed |
 
 ## Secondhand Sales
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | SEAPEAK NAPA | 10,790 | 2003 | HUDONG-ZHONGHUA, China | MAN | Oct-28 | 9,875 | $ 9.8m | undisclosed |  |
-| LPG | SOMBEKE | 29,213 | 2006 | DAEWOO, S. Korea | MAN-B\&W | Oct-26 | 37,678 | $ 69.3m (en bloc) | undisclosed | TC back |
-| LPG | LIBRAMONT | 29,328 | 2006 | DAEWOO, S. Korea | MAN-B\&W | May-26 | 37,686 | $ 69.3m (en bloc) | undisclosed | TC back |
+| LPG | SOMBEKE | 29,213 | 2006 | DAEWOO, S. Korea | MAN-B\&W | Oct-26 | 37,678 | $ 69.3m | undisclosed | TC back |
+| LPG | LIBRAMONT | 29,328 | 2006 | DAEWOO, S. Korea | MAN-B\&W | May-26 | 37,686 | $ 69.3m | undisclosed | TC back |
 
 ---
 

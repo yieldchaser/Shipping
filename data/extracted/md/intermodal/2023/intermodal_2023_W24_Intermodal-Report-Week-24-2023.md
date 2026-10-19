@@ -185,11 +185,11 @@ Supramax 10TC averaged \$ 8,063/day, down -4.35% w-o-w, while the Handysize 7TC 
 | PMAX | NORTHERN DEFENDER | 3,534 | 2007 | SHANGHAI SHIPYARD, China | MAN-B\&W | Dec-27 |  | $ 17.5m each | UAE based (GFS) |  |
 | SUB PMAX | NORTHERN VIGOUR | 2,742 | 2005 | AKER MTW WERFT, GERMANY | B\&W | Aug-25 |  | $ 17.0m | Swiss based (MSC) |  |
 | SUB PMAX | ELLA | 2,450 | 2003 | NAIKAI ZOSEN, Japan | B\&W | May-27 | 3 X 40t CRANES | $ 14.0m | Swiss based (MSC) | BWTS fitted |
-| SUB PMAX | QUEEN ESTHER | 2,190 | 2016 | GUANGZHOU WENCHONG, China | MAN-B\&W | Jun-26 | 3 X 45t CRANES | $ 136.4m (en bloc) | Norwegian (MPC C) |  |
-| FEEDER | B TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Feb-24 | CRANES 2x45 T | $ 136.4m (en bloc) | Norwegian (MPC C) |  |
-| FEEDER | TRIESTE TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Apr-24 | CRANES 2x45 T | $ 136.4m (en bloc) | Norwegian (MPC C) |  |
-| FEEDER | MADRID TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Jun-24 | CRANES 2x45 T | $ 136.4m (en bloc) | Norwegian (MPC C) |  |
-| FEEDER | LONDON TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Nov-24 |  | $ 136.4m (en bloc) | Norwegian (MPC C) |  |
+| SUB PMAX | QUEEN ESTHER | 2,190 | 2016 | GUANGZHOU WENCHONG, China | MAN-B\&W | Jun-26 | 3 X 45t CRANES | $ 136.4m | Norwegian (MPC C) |  |
+| FEEDER | B TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Feb-24 | CRANES 2x45 T | $ 136.4m | Norwegian (MPC C) |  |
+| FEEDER | TRIESTE TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Apr-24 | CRANES 2x45 T | $ 136.4m | Norwegian (MPC C) |  |
+| FEEDER | MADRID TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Jun-24 | CRANES 2x45 T | $ 136.4m | Norwegian (MPC C) |  |
+| FEEDER | LONDON TRADER | 1,762 | 2019 | COSCO GUANGDONG, China | WinGD | Nov-24 |  | $ 136.4m | Norwegian (MPC C) |  |
 | FEEDER | MARFRET MARAJO | 1,713 | 2008 | HYUNDAI, S. Korea | MAN-B\&W | Sep-23 | 2 X 45t CR, 1 X 25t CR | undisclosed | Argentinian (Interocean) |  |
 
 ---

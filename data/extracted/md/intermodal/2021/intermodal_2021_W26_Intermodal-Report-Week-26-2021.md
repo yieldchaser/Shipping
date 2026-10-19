@@ -223,14 +223,14 @@ In the Handysize sector we had the sale of the "MING YUAN" (33,002dwt-blt '10, C
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | DOUBLE PROVIDENCE | 95,720 | 2012 | IMABARI, Japan | MAN-B\&amp;W | Jan-22 |  | $ 21.3m | Greek | BWTS on order |
 | PMAX | QC MATILDE | 76,015 | 2002 | TSUNEISHI, Japan | B\&amp;W | Apr-25 |  | high $ 10.0m | undisclosed |  |
-| UMAX | NAVIGARE BELLUS | 63,310 | 2017 | CHENGXI, China | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES | $ 71.5m (en bloc) | USA based | BWTS, CO2, A60 &amp; AHL fitted |
-| UMAX | NAVIGARE BEATUS | 63,310 | 2017 | CHENGXI, China | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES | $ 71.5m (en bloc) | USA based | BWTS, CO2, A60 &amp; AHL fitted |
-| UMAX | NAVIGARE BONITAS | 63,166 | 2014 | ZHEJIANG, China | MAN-B\&amp;W | Oct-24 | 4 X 36t CRANES | $ 71.5m (en bloc) | USA based | BWTS, CO2, A60 &amp; AHL fitted |
+| UMAX | NAVIGARE BELLUS | 63,310 | 2017 | CHENGXI, China | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES | $ 71.5m | USA based | BWTS, CO2, A60 &amp; AHL fitted |
+| UMAX | NAVIGARE BEATUS | 63,310 | 2017 | CHENGXI, China | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES | $ 71.5m | USA based | BWTS, CO2, A60 &amp; AHL fitted |
+| UMAX | NAVIGARE BONITAS | 63,166 | 2014 | ZHEJIANG, China | MAN-B\&amp;W | Oct-24 | 4 X 36t CRANES | $ 71.5m | USA based | BWTS, CO2, A60 &amp; AHL fitted |
 | UMAX | KMARIN ULSAN | 63,151 | 2014 | JIANGSU NEW HANTONG, China | MAN-B\&amp;W | Jun-24 | 4x36.0, 4x30.0 | $ 21.0m | Chinese | BWTS fitted, delivery Janaury 2022 |
 | SMAX | CENTENARIO FORZA | 56,129 | 2012 | MITSUI, Japan | MAN-B\&amp;W | Apr-22 | 4 X 30t CRANES | $ 18.5m | undisclosed |  |
-| SMAX | BULK PATAGONIA | 58,723 | 2012 | KAWASAKI, Japan | MAN-B\&amp;W | Feb-23 | 4 X 30,5t CRANES | $ 60.0m (en bloc) | Greek |  |
-| SMAX | BULK ECUADOR | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Sep-21 | 4 X 30t CRANES | $ 60.0m (en bloc) | Greek |  |
-| SMAX | BULK CURACAO | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | May-26 | 4 X 30t CRANES | $ 60.0m (en bloc) | Greek | BWTS fitted |
+| SMAX | BULK PATAGONIA | 58,723 | 2012 | KAWASAKI, Japan | MAN-B\&amp;W | Feb-23 | 4 X 30,5t CRANES | $ 60.0m | Greek |  |
+| SMAX | BULK ECUADOR | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Sep-21 | 4 X 30t CRANES | $ 60.0m | Greek |  |
+| SMAX | BULK CURACAO | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | May-26 | 4 X 30t CRANES | $ 60.0m | Greek | BWTS fitted |
 | SMAX | VIET THUAN 56-01 | 57,334 | 2009 | STX, S. Korea | MAN-B\&amp;W | Sep-24 | 4 X 30t CRANES | rgn low $ 14.0m | undisclosed | BWTS fitted, Tier I compliant |
 | HANDY | CIELO DI CAPALBIO | 36,699 | 2012 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Mar-22 | 4 X 36t CRANES | high 15.0m | undisclosed | Tier II, Eco M/E |
 | HANDY | MING YUAN | 33,002 | 2010 | TAIZHOU HAIBIN, China | MAN-B\&amp;W | Jul-25 | 4 X 30.5t CRANES | $ 11.0m | Greek | delivery prompt |

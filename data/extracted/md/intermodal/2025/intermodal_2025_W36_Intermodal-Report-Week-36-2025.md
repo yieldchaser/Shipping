@@ -173,8 +173,8 @@ Handysize ships saw broadly stable conditions. Modest gains were recorded in Eur
 | SUPRA | MARINOR | 56,784 | 2009 | JIANGSU HANTONG, China | MAN B\&amp;W | Jul-29 | 4 X 35t CRANES | high $ 10,0m | Chinese |  |
 | SUPRA | JIN RONG | 58,729 | 2008 | TSUNEISHI CEBU, Philippines | MAN B\&amp;W | Apr-28 | 4 X 30t CRANES | $ 11.9m | Chinese |  |
 | HANDY | STELLAR ARAGVI | 28,368 | 2014 | IMABARI, Japan | MAN B\&amp;W | Jan-29 | 4 X 30,5t CRANES | $ 12.5m | Indonesian |  |
-| HANDY | MYKONOS | 30,912 | 2013 | TSUJI, China | MAN B\&amp;W | Jul-28 | 4 X 30t CRANES | $ 22.0m (en bloc) | Turkish |  |
-| HANDY | MADRID | 30,900 | 2013 | TSUJI, China | MAN B\&amp;W | Jul-28 | 4 X 30t CRANES | $ 22.0m (en bloc) | Turkish |  |
+| HANDY | MYKONOS | 30,912 | 2013 | TSUJI, China | MAN B\&amp;W | Jul-28 | 4 X 30t CRANES | $ 22.0m | Turkish |  |
+| HANDY | MADRID | 30,900 | 2013 | TSUJI, China | MAN B\&amp;W | Jul-28 | 4 X 30t CRANES | $ 22.0m | Turkish |  |
 | HANDY | ZUDAR | 38,273 | 2011 | IMABARI, Japan | MAN B\&amp;W | Jan-26 | 4 X 30,5t CRANES | mid $ 13's | Greek | Semi Boxed |
 
 ---

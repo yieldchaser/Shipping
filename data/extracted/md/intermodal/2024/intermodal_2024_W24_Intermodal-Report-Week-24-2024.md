@@ -192,8 +192,8 @@ Panamax 5TC averaged \$ 16,758/day, up +8.9% w-o-w. The transatlantic earnings i
 | NEWCASTLEMAX | HERMANN OLDENDORFF | 209,243 | 2016 | TAIZHOU CATIC, China | MAN-B\&W | May-24 |  | $ 55.0m | South Korean (HMM) | Scrubber fitted, Eco |
 | NEWCASTLEMAX | CLASSIC ARO | 206,331 | 2008 | IMABARI, Japan | MAN-B\&W | Sep-25 |  | $ 26.5m | Chinese | TC attached at usd 20,000 less usd 1,104 comm daily until 16th July 2025 – 16th Jan 2026, Scrubber fitted, Eco |
 | PMAX | CORAL JASPER | 78,087 | 2012 | SHIN KURUSHIMA, Japan | MAN-B\&W | May-27 |  | $ 22.8m | Greek |  |
-| UMAX | AUGUST OLDENDORFF | 61,090 | 2015 | JMU, Japan | Wartsila | Jan-25 | 4 X 30t CRANES | $ 61.0m (en bloc) | Far Eastern | Scrubber fitted, Eco |
-| UMAX | ALWINE OLDENDORFF | 61,090 | 2014 | JMU, Japan | Wartsila | Dec-24 | 4 X 30t CRANES | $ 61.0m (en bloc) | Far Eastern | Scrubber fitted, Eco |
+| UMAX | AUGUST OLDENDORFF | 61,090 | 2015 | JMU, Japan | Wartsila | Jan-25 | 4 X 30t CRANES | $ 61.0m | Far Eastern | Scrubber fitted, Eco |
+| UMAX | ALWINE OLDENDORFF | 61,090 | 2014 | JMU, Japan | Wartsila | Dec-24 | 4 X 30t CRANES | $ 61.0m | Far Eastern | Scrubber fitted, Eco |
 | SUPRA | AULAC VANGUARD | 55,848 | 2012 | IHI, Japan | Wartsila | Jun-25 | 4 X 30t CRANES | $ 18.8m | Greek |  |
 | HANDY | WESTERN PANAMA | 39,000 | 2015 | JIANGMEN NANYANG, China | MAN-B\&W | Jan-25 | 4 X 30t CRANES | $ 18.6m | Thai (Precious) | Eco |
 | HANDY | GOLD DUST | 28,420 | 2012 | IMABARI, Japan | MAN-B\&W | May-25 | 4x30.7, 4x30.5 | $ 12.0m | Vietnamese |  |

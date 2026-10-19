@@ -245,10 +245,10 @@ In the Handysize sector we had the sale of the "AFRICA PRIDE" (28,843dwt-bl't '9
 | PMAX | RIO CADIZ | 4,300 | 2008 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Jan-23 |  | undisclosed | Swiss (MSC) | Scrubber fitted |
 | PMAX | RIO CHARLESTON | 4,300 | 2008 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Jan-23 |  | undisclosed | Swiss (MSC) | Scrubber fitted |
 | PMAX | TRF PARTICI | 3,534 | 2010 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Jun-25 |  | undisclosed | undisclosed | TC attached, Scrubber fitted |
-| SUB PMAX | CSBC Kaohsiung 1185 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m (en bloc) | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
-| SUB PMAX | CSBC Kaohsiung 1186 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m (en bloc) | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
-| SUB PMAX | CSBC Kaohsiung 1187 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m (en bloc) | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
-| SUB PMAX | CSBC Kaohsiung 1188 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m (en bloc) | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
+| SUB PMAX | CSBC Kaohsiung 1185 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
+| SUB PMAX | CSBC Kaohsiung 1186 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
+| SUB PMAX | CSBC Kaohsiung 1187 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
+| SUB PMAX | CSBC Kaohsiung 1188 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
 | FEEDER | PINARA | 1,740 | 2004 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Oct-24 | 2 X 45t CRANES | low $ 20.0m | Turkish (Akar Deniz Tasimac) |  |
 
 © Intermodal Research 30/08/2022 5

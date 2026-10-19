@@ -214,20 +214,27 @@ In the Kamsarmax sector we had the sale of the "MAGNOLIA" (82,165dwt-blt '11, Ja
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
-| Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | BULK DENMARK | 181,360 | 2010 | KOYO MIHARA, Japan | MAN-B\&amp;W | Oct-25 |  | rgn $ 31.0m | Greek (Thenamaris) | BWTS &amp; scrubber fitted |
-| POST PMAX | LOWLANDS GREEN | 95,695 | 2011 | IMABARI, Japan | MAN-B\&amp;W | Sep-25 |  | $ 21.0m | undisclosed | BWTS fitted, delivery January 2022 |
-| KMAX | MAGNOLIA | 82,165 | 2011 | TSUNEISHI, Japan | MAN-B\&amp;W | Nov-25 |  | $ 22.0m | Greek (Diana Shipping) | BWTS fitted, delivery February 2022 |
-| KMAX | NAVIOS MARCO POLO | 80,647 | 2011 | UNIVERSAL, Japan | MAN-B\&amp;W | Feb-26 |  | $ 22.5m | Chinese (Chailease International Leasing) | BWTS fitted |
-| SMAX | VALOVINE | 52,000 | 2016 | ULJANIK BRODOGRADILISTE, Croatia | MAN-B\&amp;W | Sep-21 | 4 X 30t CRANES | rgn $ 16.0m | Croatian | Tier II, BWTS NOT fitted |
-| SMAX | PUNTA | 52,000 | 2013 | ULJANIK BRODOGRADILISTE, Croatia | MAN-B\&amp;W | Oct-23 | 4 X 30t CRANES | mid $ 14.0m | Croatian | Tier II, BWTS fitted |
-| SMAX | KEN SEA | 53,491 | 2009 | IWAGI, Japan | MAN-B\&amp;W | Jan-24 | 4 X 30,5t CRANES | $ 15.4m | Chinese |  |
-| HANDY | SIDER FAIOCH | 38,800 | 2015 | JIANGSU HANTONG, China | MAN-B\&amp;W | Jun-25 | 4 X 30t CRANES | $ 21.2m | European | basis delivery Med/Atlantic during September 2021 |
-| HANDY | KING RICE | 28,250 | 2012 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Oct-22 | 4 X 30,5t CRANES | high $ 12.0m | HK based (Taylor Maritime) | BWTS fitted, delivery January 2022 |
+| CAPE | BULK DENMARK | 181,360 | 2010 | KOYO MIHARA, Japan | MAN-B&W | Oct-25 |  | rgn $ 31.0m | Greek (Thenamaris) | BWTS & scrubber fitted |
+| POST PMAX | LOWLANDS GREEN | 95,695 | 2011 | IMABARI, Japan | MAN-B&W | Sep-25 |  | $ 21.0m | undisclosed | BWTS fitted, delivery January 2022 |
+| KMAX | MAGNOLIA | 82,165 | 2011 | TSUNEISHI, Japan | MAN-B&W | Nov-25 |  | $ 22.0m | Greek (Diana Shipping) | BWTS fitted, delivery February 2022 |
+| KMAX | NAVIOS MARCO POLO | 80,647 | 2011 | UNIVERSAL, Japan | MAN-B&W | Feb-26 |  | $ 22.5m | Chinese (Chailease International Leasing) | BWTS fitted |
+| SMAX | VALOVINE | 52,000 | 2016 | ULJANIK BRODOGRADILISTE, Croatia | MAN-B&W | Sep-21 | 4 X 30t CRANES | rgn $ 16.0m | Croatian | Tier II, BWTS NOT fitted |
+| SMAX | PUNTA | 52,000 | 2013 | ULJANIK BRODOGRADILISTE, Croatia | MAN-B&W | Oct-23 | 4 X 30t CRANES | mid $ 14.0m | Croatian | Tier II, BWTS fitted |
+| SMAX | KEN SEA | 53,491 | 2009 | IWAGI, Japan | MAN-B&W | Jan-24 | 4 X 30,5t CRANES | $ 15.4m | Chinese |  |
+| HANDY | SIDER FAIOCH | 38,800 | 2015 | JIANGSU HANTONG, China | MAN-B&W | Jun-25 | 4 X 30t CRANES | $ 21.2m | European | basis delivery Med/Atlantic during September 2021 |
+| HANDY | KING RICE | 28,250 | 2012 | I-S SHIPYARD, Japan | MAN-B&W | Oct-22 | 4 X 30,5t CRANES | high $ 12.0m | HK based (Taylor Maritime) | BWTS fitted, delivey January 2022 |
 | HANDY | KIRA OCEAN | 30,835 | 1997 | MINAMI-NIPPON, Japan | Mitsubishi | Mar-22 | 4 X 30t CRANES | $ 5.1m | Chinese |  |
-| Tankers |  |  |  |  |  |  |  |  |  |  |
+
+## Tankers
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | TAKAHASHI | 314,020 | 2007 | NACKS, China | MAN-B&W | Mar-25 | DH | rgn $ 34.0m | Greek (NGM) | BWTS fitted |
+| LR2 | PINK STAR | 115,592 | 2010 | SAMSUNG, S. Korea | MAN-B&W | Sep-25 | DH | excess $ 25.0m | Greek | basis BB back to sellers at $ 10,000 p/d till 2023 |
+| HANDY | LIME GALAXY | 19,992 | 2008 | USUKI, Japan | MAN-B&W | Dec-23 | DH | $ 12.0m | undisclosed | St-St |
+| HANDY | BEECH GALAXY | 19,998 | 2007 | USUKI, Japan | MAN-B&W | Jan-22 | DH | $ 11.0m | undisclosed | St-St |
+| HANDY | CELSIUS MANHATTAN | 19,807 | 2006 | KITANIHON, Japan | Mitsubishi | Oct-21 | DH | $ 11.5m | Chinese (Taihua Ship Management) | St-St |
 
 © Intermodal Research 20/07/2021 4
 
@@ -235,19 +242,18 @@ In the Kamsarmax sector we had the sale of the "MAGNOLIA" (82,165dwt-blt '11, Ja
 
 # Intermodal Secondhand Sales
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | S SANTIAGO | 5,050 | 2006 | HANJIN HI, S. Korea | MAN-B\&amp;W | Aug-21 |  | $ 58.0m | Singapore based (OM Maritime) | basis a forward delivery in March 2022 |
-| PMAX | WASHINGTON EXPRESS | 3,237 | 2003 | CSBC CORP, Taiwan | B\&amp;W | Jan-23 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
-| PMAX | PHILADELPHIA EXPRESS | 3,237 | 2003 | CSBC CORP, Taiwan | B\&amp;W | Feb-23 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
-| PMAX | CHARLESTON EXPRESS | 3,237 | 2002 | CSBC CORP, Taiwan | B\&amp;W | Jun-22 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
-| PMAX | YORKTOWN EXPRESS | 3,237 | 2002 | CSBC CORP, Taiwan | MAN-B\&amp;W | Oct-22 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
-| PMAX | ST LOUIS EXPRESS | 3,237 | 2002 | CSBC CORP, Taiwan | B\&amp;W | Jul-22 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
-| FEEDER | BANAK | 2,546 | 2014 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Mar-24 | 3 X 45t CRANES | $ 120.0m (en bloc) | undisclosed | delivery prompt |
-| FEEDER | BALSA | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Sep-23 | 3 X 45t CRANES | $ 120.0m (en bloc) | undisclosed | inlc. T/C till 2022 |
-| FEEDER | BALAO | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Apr-23 | 3 X 45t CRANES | $ 120.0m (en bloc) | undisclosed | inlc. T/C till 2022 |
-| FEEDER | BALLENITA | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Jul-23 | 3 X 45t CRANES | $ 120.0m (en bloc) | undisclosed | inlc. T/C till 2022 |
+| PMAX | S SANTIAGO | 5,050 | 2006 | HANJIN HI, S. Korea | MAN-B&W | Aug-21 |  | $ 58.0m | Singapore based (OM Maritime) | basis a forward delivery in March 2022 |
+| PMAX | WASHINGTON EXPRESS | 3,237 | 2003 | CSBC CORP, Taiwan | B&W | Jan-23 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
+| PMAX | PHILADELPHIA EXPRESS | 3,237 | 2003 | CSBC CORP, Taiwan | B&W | Feb-23 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
+| PMAX | CHARLESTON EXPRESS | 3,237 | 2002 | CSBC CORP, Taiwan | B&W | Jun-22 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
+| PMAX | YORKTOWN EXPRESS | 3,237 | 2002 | CSBC CORP, Taiwan | MAN-B&W | Oct-22 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
+| PMAX | ST LOUIS EXPRESS | 3,237 | 2002 | CSBC CORP, Taiwan | B&W | Jul-22 | 4 X 45t CRANES | undisclosed | Greek (Lomar Shipping) | basis 1-4 years Charter Back to the sellers (Hapag Lloyd) |
+| FEEDER | BANAK | 2,546 | 2014 | JIANGSU NEWYANGZI, China | MAN-B&W | Mar-24 | 3 X 45t CRANES | $ 120.0m | undisclosed | delivery prompt |
+| FEEDER | BALSA | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Sep-23 | 3 X 45t CRANES | $ 120.0m | undisclosed | inlc. T/C till 2022 |
+| FEEDER | BALAO | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Apr-23 | 3 X 45t CRANES | $ 120.0m | undisclosed | inlc. T/C till 2022 |
+| FEEDER | BALLENITA | 2,550 | 2013 | JIANGSU NEWYANGZI, China | Wartsila | Jul-23 | 3 X 45t CRANES | $ 120.0m | undisclosed | inlc. T/C till 2022 |
 | FEEDER | SINAR BIMA | 1,118 | 2008 | TAIZHOU KOUAN, China | MAN | Jan-23 | 2 X 45t CRANES | $ 12.5m | undisclosed |  |
 
 © Intermodal Research 20/07/2021 5

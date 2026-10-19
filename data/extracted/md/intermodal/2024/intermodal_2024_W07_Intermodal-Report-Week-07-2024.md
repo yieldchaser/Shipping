@@ -142,12 +142,12 @@ Supramax 10TC averaged \$ 11,608/day up +0.91% w-o-w, while the Handysize 7TC av
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | EXCELSIOR BAY | 49,990 | 2014 | SPP, S. Korea | MAN-B\&W | Oct-24 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
-| MR2 | CRYSTAL BAY | 49,990 | 2014 | SPP, S. Korea | MAN-B\&W | Nov-24 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
-| MR2 | HARRISON BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Sep-25 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
-| MR2 | SAINT ALBANS BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Oct-25 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
-| MR2 | JENNINGS BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | May-25 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
-| MR2 | LAFAYETTE BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Jul-25 | DH | $ 238.0m (en bloc) | US based (International Seaways) | Scrubber fitted |
+| MR2 | EXCELSIOR BAY | 49,990 | 2014 | SPP, S. Korea | MAN-B\&W | Oct-24 | DH | $ 238.0m | US based (International Seaways) | Scrubber fitted |
+| MR2 | CRYSTAL BAY | 49,990 | 2014 | SPP, S. Korea | MAN-B\&W | Nov-24 | DH | $ 238.0m | US based (International Seaways) | Scrubber fitted |
+| MR2 | HARRISON BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Sep-25 | DH | $ 238.0m | US based (International Seaways) | Scrubber fitted |
+| MR2 | SAINT ALBANS BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Oct-25 | DH | $ 238.0m | US based (International Seaways) | Scrubber fitted |
+| MR2 | JENNINGS BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | May-25 | DH | $ 238.0m | US based (International Seaways) | Scrubber fitted |
+| MR2 | LAFAYETTE BAY | 49,990 | 2015 | SPP, S. Korea | MAN-B\&W | Jul-25 | DH | $ 238.0m | US based (International Seaways) | Scrubber fitted |
 | MR1 | LEON HERMES | 40,165 | 2008 | SLS, S. Korea | MAN-B\&W | Dec-28 | DH | $ 23.0m | undisclosed |  |
 | MR1 | SHOGUN | 44,485 | 2002 | HYUNDAI MIPO, S. Korea | B\&W | Jun-27 | DH | high $ 13.0m | undisclosed | BWTS fitted |
 | SMALL | BEATRICE | 25,932 | 2013 | ASAKAWA, Japan | Mitsubishi | Nov-28 | DH | $ 29.0m | Korean (DM Shipping) | StSt |

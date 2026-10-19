@@ -232,8 +232,8 @@ In the Handysize sector we had the sale of the "AQUARIUS 77" (35,737dwt-bl't '16
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | BW PRINCE | 54,368 | 2007 | HYUNDAI, S. Korea | MAN-B&amp;W | Nov-22 | 80,735 | $ 45.0m | undisclosed |
 | LPG | CLIPPER SIRIUS | 54,048 | 2008 | HYUNDAI, S. Korea | MAN-B&amp;W | Jun-23 | 73,537 | $ 50.0m | undisclosed |
-| LPG | SCALI REALI | 3,804 | 2010 | BESIKTAS GEMI, Turkey | Wartsila | Aug-25 | 3,295 | $ 39.0m (en bloc) | undisclosed |
-| LPG | SCALI SANLORENZO | 3,801 | 2010 | NAVAL SSZ ZAO, Ukraine | Wartsila | May-25 | 3,294 | $ 39.0m (en bloc) | undisclosed |
+| LPG | SCALI REALI | 3,804 | 2010 | BESIKTAS GEMI, Turkey | Wartsila | Aug-25 | 3,295 | $ 39.0m | undisclosed |
+| LPG | SCALI SANLORENZO | 3,801 | 2010 | NAVAL SSZ ZAO, Ukraine | Wartsila | May-25 | 3,294 | $ 39.0m | undisclosed |
 ## Secondhand Sales
 
 | Sector | Size | Containers | Name | Teu | Built | Yard | M/E | SS due | Gear |

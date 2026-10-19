@@ -308,9 +308,9 @@ In the Supramax sector we had the sale of the “IKAN SELAYANG” (56,079dwt-blt
 | Containers | Containers | Containers | Containers | Containers | Containers | Containers | Containers | Containers | Containers | Containers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
-| PMAX | SC MARA | 5,050 | 2006 | HANJIN HI, S. Korea | MAN-B&W | Jun-26 |  | $ 68.0m |  |  |
+| PMAX | SC MARA | 5,050 | 2006 | HANJIN HI, S. Korea | MAN-B&W | Jun-26 |  | $ 68.0m | Swiss (MSC) |  |
 | PMAX | CITY OF ALEXANDRIA | 5,041 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Dec-21 |  | $ 68.0m | Swiss (MSC) |  |
-| PMAX | CSL SANTA MARIA | 4,839 | 2005 | HYUNDAI ULSAN, S. Korea | Sulzer | Jul-25 |  | $ 68.0m |  |  |
+| PMAX | CSL SANTA MARIA | 4,839 | 2005 | HYUNDAI ULSAN, S. Korea | Sulzer | Jul-25 |  | $ 68.0m | Swiss (MSC) |  |
 | FEEDER | STEFAN SIBUM | 1,036 | 2008 | SSW FAEHR & SPEZIALSCHIFFBA U, Germany | MaK | Dec-23 |  | $ 21.5m | undisclosed |  |
 | FEEDER | GRETE SIBUM | 1,036 | 2008 | SSW FAEHR & SPEZIALSCHIFFBA U, Germany | MaK | Mar-23 |  | $ 20.1m | undisclosed |  |
 

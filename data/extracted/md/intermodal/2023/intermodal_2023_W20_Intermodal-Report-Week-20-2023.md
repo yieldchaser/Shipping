@@ -145,9 +145,9 @@ Supramax 10TC averaged \$ 11,969/day, down -1.72% w-o-w, while the Handysize 7TC
 | AFRA | SPERCHIOS | 106,999 | 2018 | NAMURA, Japan | MAN-B\&W |  | DH | $ 68.5m | Middle Eastern | scrubber fitted |
 | AFRA | ACE | 113,005 | 2008 | NEW TIMES, China | MAN-B\&W | Sep-23 | DH | high $ 30's | undisclosed |  |
 | LR1 | GULF CRYSTAL | 74,999 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B\&W | Nov-24 | DH | $ 29.50m | undisclosed | BWTS fitted |
-| LR1 | GULF HORIZON | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Jul-25 | DH | $ 61.2m (en bloc) | undisclosed | BWTS fitted |
-| LR1 | GULF COAST | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Nov-25 | DH | $ 61.2m (en bloc) | undisclosed | BWTS fitted |
-| LR1 | GULF PEARL | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Apr-25 | DH | $ 61.2m (en bloc) | undisclosed | BWTS fitted |
+| LR1 | GULF HORIZON | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Jul-25 | DH | $ 61.2m | undisclosed | BWTS fitted |
+| LR1 | GULF COAST | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Nov-25 | DH | $ 61.2m | undisclosed | BWTS fitted |
+| LR1 | GULF PEARL | 74,999 | 2005 | HYUNDAI, S. Korea | B\&W | Apr-25 | DH | $ 61.2m | undisclosed | BWTS fitted |
 | MR1 | EASTERN QUINCE | 41,397 | 2009 | SLS, S. Korea | MAN-B\&W | May-24 | DH | high $ 21.0m | European |  |
 
 ## Bulk Carriers

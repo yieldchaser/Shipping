@@ -180,15 +180,15 @@ Supramax 10TC averaged \$ 8,102/day, down -1.48% w-o-w, while the Handysize 7TC 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | J AC KSON BAY | 4,250 | 2007 | DALIAN, China | MAN-B\&amp;W | Apr-27 |  | $ 23.0m | French (C MA-C GM) |  |
-| SUB PMAX | C IMBRIA | 2,824 | 2002 | HYUNDAI MIPO, S. Korea | B\&amp;W | Oct-27 |  | $ 42.5m (en bloc) | undsiclosed |  |
-| SUB PMAX | CARDONIA | 2,824 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W |  |  | $ 42.5m (en bloc) | undsiclosed |  |
+| SUB PMAX | C IMBRIA | 2,824 | 2002 | HYUNDAI MIPO, S. Korea | B\&amp;W | Oct-27 |  | $ 42.5m | undsiclosed |  |
+| SUB PMAX | CARDONIA | 2,824 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W |  |  | $ 42.5m | undsiclosed |  |
 | FEEDER | A KOBE | 1,800 | 2023 | J IANGSU YANGZI XINFU, C hina | MAN-B\&amp;W | Mar-28 |  | $ 28.0m | undisclosed | incl TC attached till May 2024 |
 
 ## Secondhand Sales
 
 | Type | Name | Dwt | Yard | M/E | SS | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | KENT | 26,438 | 2007 | HYUNDAI, S. Korea | MAN-B\&amp;W | May-27 | 34,501 | $ 34.0m | HK based |
+| LPG | KENT | 26,438 | HYUNDAI, S. Korea | MAN-B&W | MAN-B\&amp;W | May-27 | $ 34.0m | HK based |  |
 
 ---
 
