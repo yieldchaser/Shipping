@@ -236,12 +236,3 @@ In VLCC sector there is only the old sale of “Seeb” - 319K/2011 Daewoo and �
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
-
-
-## Market Charts & Quantitative Vectors
-
-### Xclusiv Tanker & Dry Bulk TCE Benchmarks (Page 3)
-
-![Xclusiv Tanker & Dry Bulk TCE Benchmarks](../../../charts/xclusiv/2026/xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026_tce_benchmarks_p3.png)
-
-*Extracted to time series: `xclusiv_freight_benchmarks_series.csv`*

@@ -51,13 +51,4 @@ source_file: "corpus/01-brokers/ssy/2026/ssy_12_10_2026_ssy_atlantic_capesize_in
 ## Index Background & Contact
 
 **Index Definition:** The Atlantic Capesize Index started at 5,000 points on 2 October 1989 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was on 26 June 2023.  
-**Contact:** For more information please contact Ben Dudman/Roar Adland  
-
-
-## Market Charts & Quantitative Vectors
-
-### SSY Capesize Routes & FFA Trajectories (Page 1)
-
-![SSY Capesize Routes & FFA Trajectories](../../../charts/ssy/2026/ssy_12_10_2026_ssy_atlantic_capesize_index_12_october_2026_capesize_ffa_p1.png)
-
-*Extracted to time series: `ssy_capesize_routes_points.csv`*
+**Contact:** For more information please contact Ben Dudman/Roar Adland

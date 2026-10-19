@@ -215,30 +215,9 @@ SIGNATURE_CATALOG = [
     # The two Fearnleys signatures (coal spread, vessel tightness) pointed at chart series read off
     # raster images with hardcoded axes; those series were deleted. The intermodal Baltic & TC curves
     # signature went too (2026-10-18): its series was 25-52% off the official Baltic indices we hold.
-    ChartSignature(
-        broker="ssy",
-        slug="capesize_ffa",
-        title="SSY Capesize Routes & FFA Trajectories",
-        keywords=["ssy capesize routes", "saldahna", "ffa 4tc", "tubarao"],
-        target_csv=SERIES_DIR / "ssy_capesize_routes_points.csv",
-        key_fields=["issue_date", "route_name"],
-        fieldnames=[
-            "issue_date", "route_name", "rate_usd", "trend_wow", "source_file"
-        ],
-        min_drawings=20
-    ),
-    ChartSignature(
-        broker="xclusiv",
-        slug="tce_benchmarks",
-        title="Xclusiv Tanker & Dry Bulk TCE Benchmarks",
-        keywords=["tce average", "rolling 2y", "aframax atlantic", "mr atlantic"],
-        target_csv=SERIES_DIR / "xclusiv_freight_benchmarks_series.csv",
-        key_fields=["issue_date", "segment"],
-        fieldnames=[
-            "issue_date", "segment", "rate_usd_day", "change_wow", "source_file"
-        ],
-        min_drawings=15
-    ),
+    # SSY capesize_ffa and Xclusiv tce_benchmarks went 2026-10-20: they only saved a full-page render and wrote
+    # "Extracted to time series" under it, but nothing read the chart (ssy_capesize_routes_points.csv never
+    # existed; the Xclusiv freight series is built from the page text, not from this signature).
     # Star Asia had a "scrap_trends" signature here: its keywords ("chattogram") matched prose pages, and the
     # price-trend line charts it pointed at carry no value labels, so the series it named was pixel-traced
     # estimates (deleted 2026-10-20). The charts stay in the MD as page text; nothing is read off them.
