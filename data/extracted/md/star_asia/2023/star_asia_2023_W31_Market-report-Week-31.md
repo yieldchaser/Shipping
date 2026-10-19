@@ -314,9 +314,10 @@ According to a commodity strategist, India is poised to offset a significant por
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 104 -7.96% 0% 113 104 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 103 -8.03% -8.03% 112 112 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 386.35 -3.60 -0.92% Sep 2023 3Mo Copper (L.M.E.) USD / MT 8,611.00 +101.50 +1.19% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,230.00 +21.00 +0.95% N/A 3Mo Zinc (L.M.E.) USD / MT 2,485.00 +2.50 +0.10% N/A 3Mo Tin (L.M.E.) USD / MT 28,023.00 +605.00 +2.21% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 104 | -7.96% | 0% | 113 | 104 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 103 | -8.03% | -8.03% | 112 | 112 |
 
 ### Industrial Metal Rates
 

@@ -296,9 +296,10 @@ group, the China Iron & Steel Association, urged caution in ramping up productio
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 91 -9.90% -24.16% 101 120 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 86 -16.50% -26.49% 103 117 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 407.35 -6.40 -1.55% Dec 2024 3Mo Copper (L.M.E.) USD / MT 9,092.00 +132.00 +1.47% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,378.50 -18.00 -0.75% N/A 3Mo Zinc (L.M.E.) USD / MT 2,737.50 -58.00 -2.07% N/A 3Mo Tin (L.M.E.) USD / MT 30,771.00 +272.00 +0.89% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 67.67 -1.48 -2.14% Oct 2024 Brent Crude (ICE.) USD / bbl. 71.06 -1.63 -2.24% Nov 2024 Crude Oil (Tokyo) J.P.Y. / kl 66,150.00 -450.00 -0.68% Sep 2024 Natural Gas (Nymex) USD / MMBtu 2.28 +0.02 +0.93% Oct 2024 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 91 | -9.90% | -24.16% | 101 | 120 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 86 | -16.50% | -26.49% | 103 | 117 |
 
 ### Industrial Metal Rates
 

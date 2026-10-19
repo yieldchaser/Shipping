@@ -219,8 +219,13 @@ Anchorage & Beaching Position (AUGUST 2025)
 | R PISCES | BULKER | 19,935 | 05.08.2025 | 09.08.2025 |
 | ANGE | TANKER | 1,974 | 29.07.2025 | 09.08.2025 |
 | AEWO | CHEM. TANKER | 5,245 Chattogram | 30.07.2025 | 06.08.2025 |
-| Once considered among markets have now demand. Price differentials US$30-40/ton Many recyclers in these to assess the evolving depressed levels and Overall, sentiment the immediate future. | the top-performing slumped under the weight against Alang reported. regions have stepped domestic situation. remain stagnant, with remains weak, and recyclers Anchorage & Beaching | ship recycling of political have widened back from Local ship scrap no signs of a see little Position | destinations, instability and faltering sharply, with gaps of active buying, choosing prices have slipped near-term recovery. indication of a bounce (AUGUST 2025) | Chattogram nearly instead to back in |
+
+Chattogram
+
+Once considered among the top-performing ship recycling destinations, Chattogram markets have now slumped under the weight of political instability and faltering demand. Price differentials against Alang have widened sharply, with gaps of nearly US$30–40/ton reported. Many recyclers in these regions have stepped back from active buying, choosing instead to assess the evolving domestic situation. Local ship scrap prices have slipped to depressed levels and remain stagnant, with no signs of a near-term recovery. Overall, sentiment remains weak, and recyclers see little indication of a bounce back in the immediate future. Anchorage & Beaching Position (AUGUST 2025)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | DALLIAN | BULKER | 21,413 | 13.08.2025 | AWAITING |
 | DK 03 | BULKER | 7,809 | 04.08.2025 | AWAITING |
 | GREAT ROYAL | BULKER | 6,580 | 28.07.2025 | 12.08.2025 |

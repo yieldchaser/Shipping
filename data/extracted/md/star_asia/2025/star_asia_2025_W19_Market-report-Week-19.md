@@ -231,7 +231,15 @@ Anchorage & Beaching Position (May 2025)
 | CHARLENE | BULKER | 6,071 | 05.05.2025 | AWAITING |
 | HU GANG YIN 2 | OFFSHORE | 4,351.30 | 05.05.2025 | AWAITING |
 | OHRYU | RORO | 2,468 Gadani | 27.04.2025 | 01.05.2025 |
-| Pakistan continues to minimal levels as recyclers that do emerge remain This pricing disadvantage signs of prolonged stagnation tensions also may further economic conditions. | experience inactivity. exhibit limited significantly below has sidelined rather than weigh on current Anchorage & Beaching | Transaction buying interest and those seen in Pakistan, with the cyclical slowdown. market sentiment, Position (MAY | volumes have dwindled the few tentative neighbouring markets. market showing The ongoing adding to already 2025) | to offers troubling political testing |
+
+Gadani
+
+Pakistan continues to experience inactivity. Transaction volumes have dwindled to minimal levels as recyclers exhibit limited buying interest and the few tentative offers that do emerge remain significantly below those seen in neighbouring markets.
+
+This pricing disadvantage has sidelined Pakistan, with the market showing troubling signs of prolonged stagnation rather than cyclical slowdown. The ongoing political tensions also may further weigh on current market sentiment, adding to already testing economic conditions.
+
+Anchorage & Beaching Position (MAY 2025)
+
 |  |  |  |  |  |
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | - | - | - | - | - |

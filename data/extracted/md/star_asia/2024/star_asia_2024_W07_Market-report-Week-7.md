@@ -210,15 +210,12 @@ Container 6-12 months T/C rates
 
 ## Page 11
 
-VESSEL NAME BONTRUP EMIRATES SINAR TARAKAN
-
 ## Ships Sold for Recycling
 
-| LDT / MT | YEAR / BUILT | TYPE | PRICE (US$/LDT) | COMMENTS |
-|---|---|---|---|---|
-| 11,722 | 1989 / S. KOREA | GENERAL CARGO | 520 | DELIVERED ALANG / CHATTOGRAM FOR HKC |
-
-RECYCLING 2,163 1995 / JAPAN LPG 538 DELIVERED CHATTOGRAM
+| VESSEL NAME | LDT / MT | YEAR / BUILT | TYPE | PRICE (US$/LDT) | COMMENTS |
+|---|---|---|---|---|---|
+| BONTRUP EMIRATES | 11,722 | 1989 / S. KOREA | GENERAL CARGO | 520 | DELIVERED ALANG / CHATTOGRAM FOR HKC RECYCLING |
+| SINAR TARAKAN | 2,163 | 1995 / JAPAN | LPG | 538 | DELIVERED CHATTOGRAM |
 
 ## Recycling Ships Price Trend
 
@@ -247,9 +244,19 @@ Anchorage & Beaching Position (February 2024)
 | SAS 4 | TUG |  | 935 | 16.12.2023 | 08.02.2024 |
 | VILIGA | FISHING |  | 804 | 18.01.2024 | 07.02.2024 |
 | ZE SHENG | AGGREGATES |  | 3,492 | 30.01.2024 | 01.02.2024 |
-| Chattogram, | Bangladesh |  |  |  |  |
-| Buyers in Chattogram ship scrap prices moderately displaying hesitancy, likely The spotlight is now on Chattogram once Chinese Experts anticipate a downward in a market There was a notable Emirates. Built in 1986 in price of USD520/ton for This transaction stands defeating the Alang green recycling. Anchorage | have cautiously fluctuating. influenced by China, with expectations owners return significant influx of where there are a transaction involving South Korea and green recycling. out as a significant recyclers in today's & Beaching | resumed However, the to ships limited the weighing | their recyclers cautious mounting business post-lunar into the market, number of sale of the 11,722 achievement for challenging market Position | purchasing activities, in Chattogram approach of their for a surge in ship New Year potentially driving recyclers left in general cargo vessel tons, the vessel fetched the Bangladeshi conditions when (February 2024) | with local are neighbours. supply to holidays. prices the industry. Bontrup a gross recyclers, it comes to |
+
+Chattogram, Bangladesh
+
+Buyers in Chattogram have cautiously resumed their purchasing activities, with local ship scrap prices moderately fluctuating. However, recyclers in Chattogram are displaying hesitancy, likely influenced by the cautious approach of their neighbours. The spotlight is now on China, with expectations mounting for a surge in ship supply to Chattogram once Chinese owners return to business post-lunar New Year holidays.
+
+Experts anticipate a significant influx of ships into the market, potentially driving prices downward in a market where there are a limited number of recyclers left in the industry.
+
+There was a notable transaction involving the sale of the general cargo vessel Bontrup Emirates. Built in 1986 in South Korea and weighing 11,722 tons, the vessel fetched a gross price of USD520/ton for green recycling. This transaction stands out as a significant achievement for the Bangladeshi recyclers, defeating the Alang recyclers in today's challenging market conditions when it comes to green recycling.
+
+Anchorage & Beaching Position (February 2024)
+
 | VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
 | FUKUDA | TANKER |  | 750 | 12.02.2023 | AWAITING |
 | DON FENG | CONTAINER |  | 2,405 | 12.02.2024 | AWAITING |
 | LEGASPI | GEN.CARGO |  | 1,506 | 11..02.2024 | AWAITING |
@@ -266,8 +273,23 @@ Anchorage & Beaching Position (February 2024)
 | SPAN 23 |  | CONTAINER | 2,197 | 31.01.2024 | 02.02.2024 |
 | P DELTA |  | CONTAINER | 5,256 | 24.01.2024 | 02.02.2024 |
 | KONSHIN |  | GEN. CARGO | 1,416 | 29.01.2024 | 01.02.2024 |
-| Gadani, Pakistan Last week's elections claim a clear victory. confusion and Despite the political business continuing of the emerging to collaborating to With Pakistan facing parties have little reversing Pakistan's FOREX rate. Former Prime Minister the need for Pakistan pressing deadline to starting in July, a sum Pakistan's inflation Investors are demanding purchase the country's points. The IMF has indicated new government to | in instability. turmoil, as coalition secure low choice recent to acquire three rate is an its discuss Anchorage | Pakistan have Regional protests Pakistan's usual, overcoming grasp the severity assistance from reserves and an but to cooperate. economic Shehbaz Sharif secure a new loan funds to cover times its foreign the highest in additional 11.5 bonds, significantly intention to send a medium-term & Beaching | descended into chaos, alleging electoral recycling markets a fractured election of the country's the IMF. IMF program set to This cooperation underperformance, emphasised the urgency program promptly. USD25 billion in exchange reserves. Asia, and its economy percentage points above the distress a team to Pakistan aid package. Position (February | with no single rigging have only have remained stable, mandate, as economic crisis expire in April, is seen as crucial particularly concerning of the situation, The nation is external debt Compounding contracted last of yield over threshold of 10 after the formation 2024) | party able to added to the with the leaders and commit political for its stressing facing a payments matters, fiscal year. Treasuries to percentage of the |
+
+Gadani, Pakistan
+
+Last week's elections in Pakistan have descended into chaos, with no single party able to claim a clear victory. Regional protests alleging electoral rigging have only added to the confusion and instability.
+
+Despite the political turmoil, Pakistan's recycling markets have remained stable, with business continuing as usual, overcoming a fractured election mandate, as the leaders of the emerging coalition grasp the severity of the country's economic crisis and commit to collaborating to secure assistance from the IMF.
+
+With Pakistan facing low reserves and an IMF program set to expire in April, political parties have little choice but to cooperate. This cooperation is seen as crucial for reversing Pakistan's recent economic underperformance, particularly concerning its FOREX rate.
+
+Former Prime Minister Shehbaz Sharif emphasised the urgency of the situation, stressing the need for Pakistan to secure a new loan program promptly. The nation is facing a pressing deadline to acquire funds to cover USD25 billion in external debt payments starting in July, a sum three times its foreign exchange reserves. Compounding matters, Pakistan's inflation rate is the highest in Asia, and its economy contracted last fiscal year. Investors are demanding an additional 11.5 percentage points of yield over Treasuries to purchase the country's bonds, significantly above the distress threshold of 10 percentage points.
+
+The IMF has indicated its intention to send a team to Pakistan after the formation of the new government to discuss a medium-term aid package.
+
+Anchorage & Beaching Position (February 2024)
+
 | VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
 | ZE HONG |  | CONTAINER | 11,618 | 27.01.2024 | AWAITING |
 
 ## Page 16

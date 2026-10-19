@@ -314,9 +314,10 @@ indicators from China, the world's largest consumer. The surge was driven by str
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 99 -1.98% -3.88% 101 103 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 102 -1.92% -1.92% 104 104 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 400.00 +4.10 +1.04% Sep 2024 3Mo Copper (L.M.E.) USD / MT 8,794.50 +25.00 +0.29% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,274.00 -14.00 -0.61% N/A 3Mo Zinc (L.M.E.) USD / MT 2,646.00 +64.50 +2.50% N/A 3Mo Tin (L.M.E.) USD / MT 30,494.00 +503.00 +1.68% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 99 | -1.98% | -3.88% | 101 | 103 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 102 | -1.92% | -1.92% | 104 | 104 |
 
 ### Industrial Metal Rates
 

@@ -345,13 +345,10 @@ shrinking exchange inventories in London and Shanghai as well as a multi-year hi
 
 ## Iron Ore
 
-| COMMODITY (USD/MT) | GRADE | THIS | LAST WEEK | LAST | WoW | YoY |
+| COMMODITY (USD/MT) | GRADE | THIS WEEK | LAST WEEK | LAST YEAR | WoW | YoY |
 |---|---|---|---|---|---|---|
-|  |  | WEEK |  | YEAR |  |  |
-| Iron Ore Lumps, | Fe 64/63% | $108 | $110 | $101 | -1.81% | +6.93% |
-| CNF Rizhao | (S. Africa) |  |  |  |  |  |
-| Iron Ore Fines, | Fe 62.5% | $98 | $100 | $97 | -2% | +1.03% |
-| CNF Qingdao | (Brazil) |  |  |  |  |  |
+| Iron Ore Lumps, CNF Rizhao | Fe 64/63% (S. Africa) | $108 | $110 | $101 | -1.81% | +6.93% |
+| Iron Ore Fines, CNF Qingdao | Fe 62.5% (Brazil) | $98 | $100 | $97 | -2% | +1.03% |
 
 ## Page 16
 

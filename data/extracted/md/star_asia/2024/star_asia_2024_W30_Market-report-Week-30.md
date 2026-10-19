@@ -354,9 +354,10 @@ plan, which may lead to smelter capacity cuts. According to the plan, smelters m
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 101 -6.48% -13.67% 108 117 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 104 -6.30% -9.56% 111 115 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 412.80 +0.25 +0.06% Sep 2024 3Mo Copper (L.M.E.) USD / MT 9,122.00 +18.00 +0.20% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,270.50 -30.00 -1.30% N/A 3Mo Zinc (L.M.E.) USD / MT 2,681.00 -4.00 -0.15% N/A 3Mo Tin (L.M.E.) USD / MT 29,416.00 -374.00 -1.26% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 78.42 +0.14 +0.18% Sep 2024 Brent Crude (ICE.) USD / bbl. 82.50 +0.13 +0.16% Sep 2024 Crude Oil (Tokyo) J.P.Y. / kl 83,270.00 -170.00 -0.20% Jul 2024 Natural Gas (Nymex) USD / MMBtu 2.06 +0.01 +0.69% Aug 2024 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 101 | -6.48% | -13.67% | 108 | 117 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 104 | -6.30% | -9.56% | 111 | 115 |
 
 ### Industrial Metal Rates
 

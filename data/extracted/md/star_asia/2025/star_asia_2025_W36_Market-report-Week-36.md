@@ -300,9 +300,10 @@ demand. Sentiment soured after BYD, the world's largest electric vehicle manufac
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 105 +0.96% +15.38% 104 91 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 102 +0.99% +10.86% 101 92 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 455.10 -0.75 -0.16% Dec 2025 3Mo Copper (L.M.E.) USD / MT 9,897.50 -0.50 -0.01% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,600.50 +9.00 +0.35% N/A 3Mo Zinc (L.M.E.) USD / MT 2,861.00 +17.50 +0.62% N/A 3Mo Tin (L.M.E.) USD / MT 34,314.00 -242.00 -0.70% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 61.87 -1.61 -2.54% Oct 2025 Brent Crude (ICE.) USD / bbl. 65.50 -1.49 -2.22% Nov 2025 Crude Oil (Tokyo) J.P.Y. / kl 63,490.00 -1,510.00 -2.32% Sep 2025 Natural Gas (Nymex) USD / MMBtu 3.05 -0.03 -0.85% Oct 2025 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 105 | +0.96% | +15.38% | 104 | 91 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 102 | +0.99% | +10.86% | 101 | 92 |
 
 ### Industrial Metal Rates
 

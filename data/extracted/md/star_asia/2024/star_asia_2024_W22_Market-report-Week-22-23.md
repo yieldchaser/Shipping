@@ -322,9 +322,10 @@ inquiries in anticipation of a mid-June Holiday, expecting range-bound prices du
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 109 -6.83% -0.90% 117 110 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 111 -7.5% -0.89% 120 112 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 448.35 -19.45 -4.16% Jul 2024 3Mo Copper (L.M.E.) USD / MT 9,762.50 -386.50 -3.81% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,578.00 -69.50 -2.63% N/A 3Mo Zinc (L.M.E.) USD / MT 2,767.00 -143.00 -4.91% N/A 3Mo Tin (L.M.E.) USD / MT 31,452.00 -746.00 -2.32% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 109 | -6.83% | -0.90% | 117 | 110 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 111 | -7.5% | -0.89% | 120 | 112 |
 
 ### Industrial Metal Rates
 

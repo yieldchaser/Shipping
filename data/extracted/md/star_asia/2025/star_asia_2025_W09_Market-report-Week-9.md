@@ -257,7 +257,13 @@ Anchorage & Beaching Position (FEBRUARY 2025)
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
-| Markets in Gadani have shown no change over recent weeks, with no new developments to report. As Ramadan approaches, industry observers expect activity to remain stagnant, suggesting that conditions are unlikely to improve in the near term. Anchorage & Beaching Position (FEBRUARY 2025) | Gadani Markets in Gadani have shown no change over recent weeks, with no new developments to report. As Ramadan approaches, industry observers expect activity to remain stagnant, suggesting that conditions are unlikely to improve in the near term. Anchorage & Beaching Position (FEBRUARY 2025) | Gadani Markets in Gadani have shown no change over recent weeks, with no new developments to report. As Ramadan approaches, industry observers expect activity to remain stagnant, suggesting that conditions are unlikely to improve in the near term. Anchorage & Beaching Position (FEBRUARY 2025) | Markets in Gadani have shown no change over recent weeks, with no new developments to report. As Ramadan approaches, industry observers expect activity to remain stagnant, suggesting that conditions are unlikely to improve in the near term. Anchorage & Beaching Position (FEBRUARY 2025) | Markets in Gadani have shown no change over recent weeks, with no new developments to report. As Ramadan approaches, industry observers expect activity to remain stagnant, |
+
+Gadani
+
+Markets in Gadani have shown no change over recent weeks, with no new developments to report. As Ramadan approaches, industry observers expect activity to remain stagnant, suggesting that conditions are unlikely to improve in the near term.
+
+Anchorage & Beaching Position (FEBRUARY 2025)
+
 |---|---|---|---|---|
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | - | - | - | - | - |

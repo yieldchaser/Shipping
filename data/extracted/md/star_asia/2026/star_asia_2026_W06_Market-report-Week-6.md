@@ -235,8 +235,13 @@ Anchorage & Beaching Position (FEBRUARY 2026)
 | RISING HARRIER | BULKER | 8,552 | 25.01.2026 | 03.02.2026 |
 | OLGA L | REEFER | 3,834 | 24.01.2026 | 05.02.206 |
 | YUN DA YOU 6 | TANKER | 1,019 | 20.01.2026 | 01.02.2026 |
-| Recyclers are showing week, with offer prices yards are currently available gas carriers, specialised units. On the domestic front, headlines, with the Consequently, while the remains somewhat | a renewed interest in remaining largely positioned more competitively as local buyers can the national conversation country's landmark elections appetite for new subdued as the industry Anchorage & Beaching | Chattogram acquiring fresh unchanged from than their leverage slightly is heavily just a week acquisitions is waits for the Position | tonnage in previous weeks. Indian counterparts better pricing to dominated by away on the growing, overall market election cycle to (FEBRUARY 2026) | Chattogram this Bangladeshi for attract these political 12th. activity conclude. |
+
+Chattogram
+
+Recyclers are showing a renewed interest in acquiring fresh tonnage in Chattogram this week, with offer prices remaining largely unchanged from previous weeks. Bangladeshi yards are currently positioned more competitively than their Indian counterparts for available gas carriers, as local buyers can leverage slightly better pricing to attract these specialised units. On the domestic front, the national conversation is heavily dominated by political headlines, with the country’s landmark elections just a week away on the 12th. Consequently, while the appetite for new acquisitions is growing, overall market activity remains somewhat subdued as the industry waits for the election cycle to conclude. Anchorage & Beaching Position (FEBRUARY 2026)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | FUJI | TANKER | 949 | 29.01.2026 | 04.02.2026 |
 | HAKATA | TANKER | 353 | 29.01.2026 | 04.02.2026 |
 | CHANG MING YANG | BULKER | 19,529 | 31.01.2026 | 04.02.2026 |
@@ -326,9 +331,10 @@ winter conditions prevented sellers from making deeper concessions, even as mill
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 103 -0.96% -2.83% 104 106 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 103 -0.96% -3.73% 104 107 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 582.10 -2.90 -0.50% Mar 2026 3Mo Copper (L.M.E.) USD / MT 13,044.50 -433.50 -3.22% N/A 3Mo Aluminum (L.M.E.) USD / MT 3,069.50 -37.00 -1.19% N/A 3Mo Zinc (L.M.E.) USD / MT 3,309.00 -29.50 -0.88% N/A 3Mo Tin (L.M.E.) USD / MT 48,526.00 -1,596.00 -3.18% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 63.29 -1.85 -2.84% Mar 2026 Brent Crude (ICE.) USD / bbl. 67.36 -2.10 -3.02% Apr 2026 Crude Oil (Tokyo) JPY / kl 66,770.00 +1,290.00 +1.97% Feb 2026 Natural Gas (Nymex) USD / MMBtu 3.51 +0.04 +1.27% Mar 2026 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 103 | -0.96% | -2.83% | 104 | 106 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 103 | -0.96% | -3.73% | 104 | 107 |
 
 ### Industrial Metal Rates
 

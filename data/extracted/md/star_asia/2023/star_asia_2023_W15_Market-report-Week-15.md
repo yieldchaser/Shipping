@@ -365,10 +365,10 @@ Alang, India: 18th ~ 25th April | 4th ~ 11th May
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE | THIS WEEK | LAST WEEK |
-| --- | --- | --- | --- |
-| Iron Ore Fines, C.N.F. Qingdao, China | Fines, Fe 62.5% (Brazil Origin) 108 +0.93% -9.24% | US$107 | US$119 |
-| Iron Ore Fines, C.N.F. Rizhao, China | Fines, Fe 62% (Australia Origin) 119 -0.83 -21.19% | US$120 | US$151 |
+| COMMODITY | SIZE / GRADE | PRICE/ MT | CHANGE W-O-W | CHANGE Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, C.N.F. Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 108 | +0.93% | -9.24% | US$107 | US$119 |
+| Iron Ore Fines, C.N.F. Rizhao, China | Fines, Fe 62% (Australia Origin) | 119 | -0.83 | -21.19% | US$120 | US$151 |
 
 ### Industrial Metal Rates
 

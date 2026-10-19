@@ -193,8 +193,17 @@ Anchorage & Beaching Position (December 2025)
 | ASENA | GENERAL CARGO | 3,195 | 12.12.2025 | 18.12.2025 |
 |---|---|---|---|---|
 | MORALITY | TANKER | 9,852 Chattogram | 05.12.2025 | 11.12.2025 |
-| Similarly, Bangladesh with local recyclers consistent decline in lack of further reductions remains slow. Sentiments are heavily weakened overall investor operate. Consequently, yards are already near Anchorage | saw a week of significant showing very little appetite steel plate prices since has not yet translated influenced by ongoing confidence and many buyers are capacity after a busy & Beaching | stagnation for acquiring late November into improved civil unrest made it increasingly avoiding new November. Position | as the year drew new tonnage. finally halted this sales, as market within the country, difficult for assets, especially (December 2025) | to a close, While the week, the activity which has yards to since many |
+
+Chattogram
+
+Similarly,  Bangladesh saw a week of significant stagnation as the year drew to a close, with local recyclers showing very little appetite for acquiring new tonnage. While the consistent decline in steel plate prices since late November finally halted this week, the lack of further reductions has not yet translated into improved sales, as market activity remains slow.
+
+Sentiments are heavily influenced by ongoing civil unrest within the country, which has weakened overall investor confidence and made it increasingly difficult for yards to operate. Consequently, many buyers are avoiding new assets, especially since many yards are already near capacity after a busy November.
+
+Anchorage & Beaching Position (December 2025)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | MAPLE | TANKER | 1,302 | 27.12.2025 | AWAITING |
 | ELITE PROSPERITY | BARGE | 13,733 | 19.12.2025 | 23.12.2025 |
 | UNGGUL | GENERAL CARGO | 1,238 | 20.12.2025 | 24.12.2025 |

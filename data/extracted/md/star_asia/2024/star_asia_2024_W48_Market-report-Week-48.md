@@ -363,9 +363,10 @@ by robust steel production despite China's mixed economic signals. The January i
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 105 +2.94% -27.08% 102 144 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 106 +1.92% -20.30% 104 133 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 414.25 +0.35 +0.08% Mar 2025 3Mo Copper (L.M.E.) USD / MT 9,002.00 -18.00 -0.20% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,599.00 +3.50 +0.13% N/A 3Mo Zinc (L.M.E.) USD / MT 3,054.00 -77.50 -2.47% N/A 3Mo Tin (L.M.E.) USD / MT 28,192.00 +242.00 +0.87% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 105 | +2.94% | -27.08% | 102 | 144 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 106 | +1.92% | -20.30% | 104 | 133 |
 
 ### Industrial Metal Rates
 

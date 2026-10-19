@@ -219,7 +219,11 @@ Anchorage & Beaching Position (SEPTEMBER 2025)
 | KHAZA | LNG | 33,456 | 07.09.2025 | 09.09.2025 |
 | MAHAR | TANKER | 18,264 | 03.09.2025 | 06.09.2025 |
 | ABDULLAH F | GENERAL CARGO | 2,766 Chattogram | 19.08.2025 | 02.09.2025 |
-| The ship recycling sector activity grinding to a triggered a sharp fall in sellers and extinguishing This internal market elections and the withdraw from | in Bangladesh saw halt. A significant local plate and scrap the confidence of collapse is deepened weakening of the local negotiations. | another week contraction in domestic prices, leading ship recyclers. by political currency, which | of downturn, with steel demand to competition uncertainty surrounding has prompted buyers | market has among steel upcoming to |
+
+Chattogram
+
+The ship recycling sector in Bangladesh saw another week of downturn, with market activity grinding to a halt. A significant contraction in domestic steel demand has triggered a sharp fall in local plate and scrap prices, leading to competition among steel sellers and extinguishing the confidence of ship recyclers. This internal market collapse is deepened by political uncertainty surrounding upcoming elections and the weakening of the local currency, which has prompted buyers to withdraw from negotiations. Anchorage & Beaching Position (SEPTEMBER 2025)
+
 |  |  |  |  |  |
 |  |  |  |  |  |
 
@@ -306,9 +310,10 @@ by recovering demand in China and emerging supply-side concerns. The resumption 
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 106 +0.95% +11.57% 105 95 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 103 +0.98% +6.18% 102 97 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 465.20 -0.60 -0.13% Dec 2025 3Mo Copper (L.M.E.) USD / MT 10,051.50 +38.50 +0.38% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,673.50 +48.50 +1.85% N/A 3Mo Zinc (L.M.E.) USD / MT 2,900.00 +13.50 +0.47% N/A 3Mo Tin (L.M.E.) USD / MT 34,698.00 +92.00 +0.27% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 62.69 +0.32 +0.51% Oct 2025 Brent Crude (ICE.) USD / bbl. 66.99 +0.62 +0.93% Nov 2025 Crude Oil (Tokyo) J.P.Y. / kl 65,010.00 +10.00 +0.02% Sep 2025 Natural Gas (Nymex) USD / MMBtu 2.94 +0.01 +0.24% Oct 2025 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 106 | +0.95% | +11.57% | 105 | 95 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 103 | +0.98% | +6.18% | 102 | 97 |
 
 ### Industrial Metal Rates
 

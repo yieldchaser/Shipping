@@ -371,9 +371,10 @@ In Bangladesh, the post-election, improved LC approvals and increased domestic s
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 130 -2.25% +4% 133 125 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 131 -2.96% +11% 135 118 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 368.15 -2.05 -0.55% Mar 2024 3Mo Copper (L.M.E.) USD / MT 8,169.00 -24.50 -0.30% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,216.00 -5.50 -0.25% N/A 3Mo Zinc (L.M.E.) USD / MT 2,300.50 -27.00 -1.16% N/A 3Mo Tin (L.M.E.) USD / MT 26,367.00 +472.00 +1.82% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 130 | -2.25% | +4% | 133 | 125 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 131 | -2.96% | +11% | 135 | 118 |
 
 ### Industrial Metal Rates
 

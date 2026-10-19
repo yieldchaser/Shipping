@@ -221,8 +221,17 @@ Anchorage & Beaching Position (JULY 2025)
 | RUN FU 2 |  | BULKER | 6,183 | `04.07.2025 | AWAITING |
 | CONICO ATLAS |  | TANKER | 20,001 | 13.06.2025 | AWAITING |
 | NIRVANA |  | TANKER | 9,623 | 07.05.2025 | AWAITING |
-| Markets remained navigate the evolving Kong Convention (HKC). under the new Monsoon factor further activity, reducing and semi-finished recycling sector, | subdued The framework demand steel keeping | this week, with regulatory landscape need to secure has added to the weighed on sentiment, for steel. Meanwhile, products continues momentum muted Anchorage & Beaching | Chattogram ship recyclers following the clearances uncertainty, as heavy the availability to suppress across the Position | and sellers continuing uniform adoption from multiple slowing activities. rains curtailed of cheaply buying interest in board. (JULY 2025) | to of the Hong departments construction imported scrap the ship |
+
+Chattogram
+
+Markets remained subdued this week, with ship recyclers and sellers continuing to navigate the evolving regulatory landscape following the uniform adoption of the Hong Kong Convention (HKC). The need to secure clearances from multiple departments under the new framework has added to the uncertainty, slowing activities.
+
+Monsoon factor further weighed on sentiment, as heavy rains curtailed construction activity, reducing demand for steel. Meanwhile, the availability of cheaply imported scrap and semi-finished steel products continues to suppress buying interest in the ship recycling sector, keeping momentum muted across the board.
+
+Anchorage & Beaching Position (JULY 2025)
+
 | VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
 | ANG MIN |  | BULKER | 11,243 | 23.06.2025 | 02.07.2025 |
 | NASO |  | BULKER | 23,292 | 27.06.2025 | 01.07.2025 |
 | ABRAHIM M |  | BULKER | 8,997 | 26.06.2025 | 01.07.2025 |
@@ -304,9 +313,10 @@ climbed over 16% to surpass USD10,000 per ton following the U.S. announcement of
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 96 +3.22% -15.78% 93 114 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 97 +4.30% -16.37% 93 116 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 505.75 -8.40 -1.63% Sep 2025 3Mo Copper (L.M.E.) USD / MT 9,954.50 -58.50 -0.58% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,605.00 -15.00 -0.57% N/A 3Mo Zinc (L.M.E.) USD / MT 2,750.50 -7.00 -0.25% N/A 3Mo Tin (L.M.E.) USD / MT 33,848.00 +134.00 +0.40% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 66.28 -0.72 -1.07% Aug 2025 Brent Crude (ICE.) USD / bbl. 68.14 -0.66 -0.96% Sep 2025 Crude Oil (Tokyo) J.P.Y. / kl 63,300.00 +500.00 +0.80% Jul 2025 Natural Gas (Nymex) USD / MMBtu 3.38 -0.03 -0.91% Aug 2025 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 96 | +3.22% | -15.78% | 93 | 114 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 97 | +4.30% | -16.37% | 93 | 116 |
 
 ### Industrial Metal Rates
 

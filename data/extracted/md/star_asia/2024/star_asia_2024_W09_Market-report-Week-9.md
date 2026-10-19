@@ -317,9 +317,10 @@ peak construction season post-Ramadan, increased their procurement of deep-sea s
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 117 -3.30% -7.87% 121 127 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 120 -3.22% +1.69% 124 118 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 386.15 +1.45 +0.38% May 2024 3Mo Copper (L.M.E.) USD / MT 8,503.50 +10.00 +0.12% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,245.00 +17.00 +0.76% N/A 3Mo Zinc (L.M.E.) USD / MT 2,417.00 -9.00 -0.37% N/A 3Mo Tin (L.M.E.) USD / MT 26,489.00 -67.00 -0.25% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 117 | -3.30% | -7.87% | 121 | 127 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 120 | -3.22% | +1.69% | 124 | 118 |
 
 ### Industrial Metal Rates
 

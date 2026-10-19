@@ -264,7 +264,17 @@ Anchorage & Beaching Position (DECEMBER 2024)
 | CORAL | LNG | 30,193 | 10.11.2024 | 11.12.2024 |
 | ARMADA SEIATI | CONTAINER | 3,321 | 05.12.2024 | 11.12.2024 |
 | FATIMA SARI | BULKER | 8,008 | 25.11.2024 | 04.12.2024 |
-| Gadani, Pakistan The local ship recycling remained subdued under finished and finished steel steel products from China significant obstacle to Due to this, the recyclers markets, particularly Despite these headwinds, prevailing prices. Anchorage | market endured the weight of cheaply products. The influx continues to dampen domestic price recovery. in the region are India. overall demand for & Beaching | another challenging available of low-cost domestic facing fierce end-of-life Position (DECEMBER | week as ship imported Chinese semi-finished and market sentiment, competition from vessels remains 2024) | prices semi- finished posing a neighbouring steady at the |
+
+Gadani, Pakistan
+
+The local ship recycling market endured another challenging week as ship prices remained subdued under the weight of cheaply available imported Chinese semi- finished and finished steel products. The influx of low-cost semi-finished and finished steel products from China continues to dampen domestic market sentiment, posing a significant obstacle to domestic price recovery.
+
+Due to this, the recyclers in the region are facing fierce competition from neighbouring markets, particularly India.
+
+Despite these headwinds, overall demand for end-of-life vessels remains steady at the prevailing prices.
+
+Anchorage & Beaching Position (DECEMBER 2024)
+
 |  |  |  |  |  |
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | - | - | - | - | - |
@@ -341,9 +351,10 @@ lowest level in over five weeks, amid persistent concerns about China's economic
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 101 +2.02% -28.36% 99 141 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 101 +1% -29.86% 100 144 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 413.00 +0.25 +0.06% Mar 2025 3Mo Copper (L.M.E.) USD / MT 8,950.50 +38.50 +0.43% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,565.00 +38.00 +1.50% N/A 3Mo Zinc (L.M.E.) USD / MT 3,049.00 +64.50 +2.16% N/A 3Mo Tin (L.M.E.) USD / MT 28,818.00 +276.00 +0.97% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 70.45 +0.83 +1.19% Feb 2025 Brent Crude (ICE.) USD / bbl. 74.01 +0.75 +1.02% Feb 2025 Crude Oil (Tokyo) J.P.Y. / kl 70,250.00 -180.00 -0.26% Dec 2024 Natural Gas (Nymex) USD / MMBtu 3.51 -0.20 -5.41% Jan 2025 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 101 | +2.02% | -28.36% | 99 | 141 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 101 | +1% | -29.86% | 100 | 144 |
 
 ### Industrial Metal Rates
 

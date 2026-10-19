@@ -316,7 +316,21 @@ Anchorage & Beaching Position (September 2023)
 | GLORIA 1 | BULKER | 11,259 | 03.09.2023 | 13.09.2023 |
 | SUN SHINE | BULKER | 10,317 | 28.08.2023 | 02.09.2023 |
 | CHANG MIN | BULKER | 9,483 | 26.08.2023 | 02.09.2023 |
-| Aliaga, Turkey Turkish steel mills have drop in the value of also been reported. Market revealed. Opinions on the scrap scrap offers, limited global price declines may not Meanwhile, a wait-and-see Bank's interest rate decision at US$570-590 per tonne low as US$565 per Turkish shipbreaking scrap midweek, depending on the | maintained their imported scrap since participants trend vary, with demand, and be possible due approach has influenced ex-works, though tonne. prices ranged requirements | domestic scrap the previous week. have noted more some anticipating a weak steel sales. to higher freight among domestic steel prices. Mills some producers from US$335 of western Turkish | purchasing prices Fresh imports bookings that downward trend However, others prices. buyers ahead of have maintained and stockists to $376 per mills. | despite a slight of scrap have have yet to be due to ample believe further Turkey's Central their prices have offered as tonne delivered |
+
+Aliaga, Turkey
+
+Turkish steel mills have maintained their domestic scrap purchasing prices despite a slight drop in the value of imported scrap since the previous week. Fresh imports of scrap have also been reported. Market participants have noted more bookings that have yet to be revealed.
+
+Opinions on the scrap trend vary, with some anticipating a downward trend due to ample scrap offers, limited global demand, and weak steel sales. However, others believe further price declines may not be possible due to higher freight prices.
+
+Meanwhile, a wait-and-see approach among domestic buyers ahead of Turkey's Central Bank's interest rate decision has influenced steel prices. Mills have maintained their prices at US$570-590 per tonne ex-works, though some producers and stockists have offered as low as US$565 per tonne.
+
+Turkish shipbreaking scrap prices ranged from US$335 to $376 per tonne delivered midweek, depending on the requirements of western Turkish mills.
+
+Chattogram, Bangladesh  :  28 ~ 30 September | 13 ~ 16 October
+
+Alang, India :   26 ~ 30 September | 01 ~ 05 October
+
 |  |  |  |  |  |
 
 ---

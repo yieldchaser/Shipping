@@ -221,8 +221,17 @@ Anchorage & Beaching Position (JULY 2025)
 | INDIA | TANKER | 17,647 | 10.07.2025 | 11.07.2025 |
 | ENTERPRISE | CONTAINER | 16,745 | 09.07.2025 | 10.07.2025 |
 | TECHNO | LNG CARRIER | 34,047 Chattogram | 08.07.2025 | 10.07.2025 |
-| It was a challenging contending with a severe demand and sharply pushing vessel pricing competitive position, geographically well India and Pakistan, where These pressures are key issue is that only a secured the necessary | week for the ship recycling downturn in activity. declining melting prices to its lowest point this struggling to attract suited for Chattogram more attractive being significantly small number of local HKC certification, Anchorage & Beaching | market in A combination has created year. This has tonnage. are being diverted levels are compounded by yards, about limiting the pool Position | Bangladesh, which of sluggish a difficult environment, left local recyclers Consequently, even vessels to competing offered. internal regulatory 15 of them, have so of active buyers. (JULY 2025) | is currently domestic steel in a non- that are yards in hurdles. A far |
+
+Chattogram
+
+It was a challenging week for the ship recycling market in Bangladesh, which is currently contending with a severe downturn in activity. A combination of sluggish domestic steel demand and sharply declining melting prices has created a difficult environment, pushing vessel pricing to its lowest point this year. This has left local recyclers in a non- competitive position, struggling to attract tonnage. Consequently, even vessels that are geographically well suited for Chattogram are being diverted to competing yards in India and Pakistan, where more attractive levels are offered.
+
+These pressures are being significantly compounded by internal regulatory hurdles. A key issue is that only a small number of local yards, about 15 of them, have so far secured the necessary HKC certification, limiting the pool of active buyers.
+
+Anchorage & Beaching Position (JULY 2025)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | TRAWIND GLORY | GENERAL CARGO | 1,026 | 16.07.2025 | AWAITING |
 | GOLD | GENERAL CARGO | 2,445 | 14.07.2025 | AWAITING |
 | MEIZAN MARU | CEMENT CARRIER | 835 | 11.07.2025 | AWAITING |
@@ -308,9 +317,10 @@ Iron ore futures continued their upward trend this week, closing higher for a se
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 100 +1.01% -4.76% 99 105 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 98 -1.01% -9.25% 99 108 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 558.45 +7.20 +1.31% Sep 2025 3Mo Copper (L.M.E.) USD / MT 9,666.50 +31.50 +0.33% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,578.00 +0.50 +0.02% N/A 3Mo Zinc (L.M.E.) USD / MT 2,737.00 +26.00 +0.96% N/A 3Mo Tin (L.M.E.) USD / MT 33,014.00 +215.00 +0.66% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 68.48 +0.94 +1.39% Aug 2025 Brent Crude (ICE.) USD / bbl. 70.39 +0.87 +1.25% Sep 2025 Crude Oil (Tokyo) J.P.Y. / kl 65,400.00 +400.00 +0.62% Jul 2025 Natural Gas (Nymex) USD / MMBtu 3.59 +0.05 +1.41% Aug 2025 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 100 | +1.01% | -4.76% | 99 | 105 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 98 | -1.01% | -9.25% | 99 | 108 |
 
 ### Industrial Metal Rates
 

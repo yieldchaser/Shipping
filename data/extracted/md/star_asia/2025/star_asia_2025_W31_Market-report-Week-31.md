@@ -223,8 +223,13 @@ Anchorage & Beaching Position (AUGUST 2025)
 | ANGE | TANKER | 1,974 | 29.07.2025 | AWAITING |
 | CONICO ATLAS | TANKER | 20,001 | 13.06.2025 | AWAITING |
 | NIRVANA | TANKER | 9,623 Chattogram | 07.05.2025 | AWAITING |
-| A quiet week with no engaging, recyclers are observing before which has remained Chattogram waterfront has Furthermore, the ongoing logistics, which in turn While offers for containerised minimal as steel mills show clearer signs of | activity reported as adopting a cautious, committing to new tonnage. unchanged. With very seen little to no monsoon season is suppressing demand scrap are are limiting their raw improvement. Anchorage & Beaching | buyers remain on wait-and-see This reluctance few vessels being fresh arrivals. is hampering for both present in the market, material bookings Position | the sidelines. Rather approach, carefully is reflected in circulated for construction activity finished steel and buying interest until market (AUGUST 2025) | than their pricing, sale, the and imported scrap. remains conditions |
+
+Chattogram
+
+A quiet week with no activity reported as buyers remain on the sidelines. Rather than engaging, recyclers are adopting a cautious, wait-and-see approach, carefully observing before committing to new tonnage. This reluctance is reflected in their pricing, which has remained unchanged. With very few vessels being circulated for sale, the Chattogram waterfront has seen little to no fresh arrivals. Furthermore, the ongoing monsoon season is hampering construction activity and logistics, which in turn is suppressing demand for both finished steel and imported scrap. While offers for containerised scrap are present in the market, buying interest remains minimal as steel mills are limiting their raw material bookings until market conditions show clearer signs of improvement. Anchorage & Beaching Position (AUGUST 2025)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | LEONID | TANKER | 13,605 | 28.07.2025 | AWAITING |
 
 Gadani
@@ -307,9 +312,10 @@ manufacturing activity contracted for a fourth straight month, compounded by dis
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 99 -1% -2.94% 100 102 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 96 -2.04% -8.57% 98 105 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 443.55 +8.10 +1.86% Sep 2025 3Mo Copper (L.M.E.) USD / MT 9,630.50 +19.50 +0.20% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,566.00 +1.00 +0.04% N/A 3Mo Zinc (L.M.E.) USD / MT 2,727.00 -33.50 -1.21% N/A 3Mo Tin (L.M.E.) USD / MT 33,378.00 +668.00 +2.04% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 67.33 -1.93 -2.79% Sep 2025 Brent Crude (ICE.) USD / bbl. 69.67 -2.03 -2.83% Oct 2025 Crude Oil (Tokyo) J.P.Y. / kl 69,500.00 +780.00 +1.13% Aug 2025 Natural Gas (Nymex) USD / MMBtu 3.08 -0.02 -0.74% Sep 2025 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 99 | -1% | -2.94% | 100 | 102 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 96 | -2.04% | -8.57% | 98 | 105 |
 
 ### Industrial Metal Rates
 

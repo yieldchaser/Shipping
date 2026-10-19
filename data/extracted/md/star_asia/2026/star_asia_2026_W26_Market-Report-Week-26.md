@@ -274,7 +274,13 @@ Overall sentiment showed signs of weakness as supply pressure eased and a large 
 | KANISHKA | BULKER | 10,026 | 09.06.2026 | 14.06.2026 |
 | DONG | GENERAL CARGO | 2,372 | 07.06.2026 | 12.06.2026 |
 | KOKOPO CHIEF | CONTAINER | 5,889 | 26.05.2026 | 06.06.2026 |
-| Gaddani, Pakistan: Gadani pause, no downward movement being. The region's structural certified recycling yards through the regulatory pipeline. positioning Gadani to pursue Gaddani Anchorage & | saw a subdued week, was observed foundation remains resilient, alongside a steady stream The compliance international tonnage Beaching Position - | with general across domestic supported of additional framework the moment June 2026 | trading and commercial yards, allowing safely by three fully facility upgrades continues to keep local normal activity | operations Pakistan to firmly operational, HKC- currently processing buyers optimistic, resumes. |
+
+Gaddani, Pakistan: Gadani saw a subdued week, with general trading and commercial operations restricted to just three working days due to local closures for the Ashura holidays. Despite this temporary pause, no downward movement was observed across domestic yards, allowing Pakistan to firmly preserve its position as the highest pricing destination across the entire sub-continent basin for the time being.
+
+The region's structural foundation remains resilient, supported safely by three fully operational, HKC- certified recycling yards alongside a steady stream of additional facility upgrades currently processing through the regulatory pipeline. The compliance framework continues to keep local buyers optimistic, positioning Gadani to pursue international tonnage the moment normal activity resumes.
+
+Gaddani Anchorage & Beaching Position — June 2026 VESSEL TYPE LDT ARRIVAL BEACHING
+
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
 | JENNY LUCKY | BULKER | 7,176 | 21.06.2026 | AWAITING |
 | LADONNA | BULKER | 5,191 | 21.06.2026 | AWAITING |

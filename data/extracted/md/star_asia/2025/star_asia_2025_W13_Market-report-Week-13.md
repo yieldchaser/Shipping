@@ -221,8 +221,15 @@ Anchorage
 | ATHINA I | TANKER |  | 14,883 | 28.02.2025 | 04.03.2025 |
 | IRIS OF SEA | RORO |  | 2,783 | 26.02.2025 | 03.03.2025 |
 | TALENT BLUE | BULKER |  | 3,589 | 21.02.2025 | 01.03.2025 |
-| As the nation heads into significantly. The ship recyclers already holding capacity needs. In March arrived at recycling yards, Looking ahead, the market production, while underlying Anchorage | an extended Ramadan recycling market has ample tonnage at alone, approximately ensuring a robust may experience a demand remains & Beaching | Chattogram also their supply | holiday, seen a decline yards, 132,683 light ahead of price correction lackluster. Position (MARCH | economic activity has in demand, with effectively satisfying displacement tons Eid-related as these vessels 2025) | slowed most current (LDT) buying. re-enter |
+
+Chattogram
+
+As the nation heads into an extended Ramadan holiday, economic activity has slowed significantly. The ship recycling market has also seen a decline in demand, with most recyclers already holding ample tonnage at their yards, effectively satisfying current capacity needs. In March alone, approximately 132,683 light displacement tons (LDT) arrived at recycling yards, ensuring a robust supply ahead of Eid-related buying. Looking ahead, the market may experience a price correction as these vessels re-enter production, while underlying demand remains lackluster.
+
+Anchorage & Beaching Position (MARCH 2025)
+
 | VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
 | ELLI | BULKER |  | 9,242 | 27.03.2025 | AWAITING |
 | RICH ANNA | GC |  | 1,010 | 27.03.2025 | AWAITING |
 | EQUATOR | VLCC |  | 43,649 | 19.03.2025 | AWAITING |

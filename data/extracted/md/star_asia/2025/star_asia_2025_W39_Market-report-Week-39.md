@@ -335,9 +335,10 @@ In a notable divergence from the South Asian markets, Turkey's imported scrap pr
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 105 +0.94% +16.66% 106 90 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 102 -0.97% +9.67% 103 93 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 461.55 +1.50 +0.33% Dec 2025 3Mo Copper (L.M.E.) USD / MT 9,940.00 -56.00 -0.56% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,684.50 +1.50 +0.06% N/A 3Mo Zinc (L.M.E.) USD / MT 2,916.50 -27.00 -0.92% N/A 3Mo Tin (L.M.E.) USD / MT 33,711.00 -634.00 -1.85% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 105 | +0.94% | +16.66% | 106 | 90 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 102 | -0.97% | +9.67% | 103 | 93 |
 
 ### Industrial Metal Rates
 

@@ -318,9 +318,10 @@ This week, copper gains as Risk-On Sentiment Strengthens Amid Economic Optimism.
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 107 0 -17.05% 107 129 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 110 +1.85% -16.03% 108 131 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 470.70 -11.85 -2.46% May 2025 3Mo Copper (L.M.E.) USD / MT 9,485.00 +30.50 +0.32% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,603.50 -17.50 -0.67% N/A 3Mo Zinc (L.M.E.) USD / MT 2,845.50 -17.00 -0.59% N/A 3Mo Tin (L.M.E.) USD / MT 31,981.00 +400.00 +1.27% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 107 | 0 | -17.05% | 107 | 129 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 110 | +1.85% | -16.03% | 108 | 131 |
 
 ### Industrial Metal Rates
 

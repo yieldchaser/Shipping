@@ -377,9 +377,13 @@ Alang, India : 25th Oct. ~ 31st Oct. | 6th Nov. ~ 13th Nov.
 
 | Commodity HMS 1/2 & Iron Ore | Price Tangshan Billet |
 |---|---|
-| COMMODITY SIZE / GRADE PRICE | CHANGE CHANGE LAST LAST W-O-W Y-O-Y WEEK YEAR |
-| Iron Ore Fines, Fines, Fe 62.5% US$96 C.N.F. Qingdao, (Brazil Origin) China | -2.04% -14.28% US$98 US$112 |
-| Iron Ore Fines, Fines, Fe 62% US$94 C.N.F. (Australia Origin) Rizhao, China | -2.08% -24.19% US$96 US$124 |
+
+### Iron Ore
+
+| COMMODITY | SIZE / GRADE | PRICE | CHANGE W-O-W | CHANGE Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, C.N.F. Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | US$96 | -2.04% | -14.28% | US$98 | US$112 |
+| Iron Ore Fines, C.N.F. Rizhao, China | Fines, Fe 62% (Australia Origin) | US$94 | -2.08% | -24.19% | US$96 | US$124 |
 
 ## Page 15
 

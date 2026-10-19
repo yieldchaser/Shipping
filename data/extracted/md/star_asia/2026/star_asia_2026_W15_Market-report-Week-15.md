@@ -239,8 +239,13 @@ Anchorage & Beaching Position (APRIL 2026)
 | YU YING NO.02 | TRAINING SHIP | 1,581 | 07.04.2206 | AWAITING |
 | TAI JI | REEFER | 3,241 | 31.03.2026 | 04.04.2026 |
 | SHUEN | CONTAINER | 1,589 Gadani | 31.03.2026 | 06.04.2026 |
-| Gadani market has benefited which jumped from PKR US$627/ton. This upward held firm at 279.07, providing volatility seen throughout temporarily bolstered the geopolitical events might Despite this newfound regional pricing hierarchy, difficulties and extended remains optimistic and the growing domestic | significantly 168,000 to approximately trend is further a much-needed much of March. local market, the impact these momentum that has buyers still face payment timelines. buoyant as recyclers requirements. Anchorage & Beaching | from a sharp PKR 175,000 supported by a sense of While the suspension industry is closely dynamics in the positioned hurdles such as Nevertheless, increasingly Position | increase in steel plate per ton, stabilising steady Pakistani stability compared to of imported watching how coming weeks. Pakistan ahead of India persistent foreign the current mood seek out fresh (APRIL 2026) | prices, at nearly Rupee, which the steel has the recent in the exchange in Gadani tonnage to meet |
+
+Gadani
+
+Gadani market has benefited significantly from a sharp increase in steel plate prices, which jumped from PKR 168,000 to approximately PKR 175,000 per ton, stabilising at nearly US$627/ton. This upward trend is further supported by a steady Pakistani Rupee, which held firm at 279.07, providing a much-needed sense of stability compared to the volatility seen throughout much of March. While the suspension of imported steel has temporarily bolstered the local market, the industry is closely watching how the recent geopolitical events might impact these dynamics in the coming weeks. Despite this newfound momentum that has positioned Pakistan ahead of India in the regional pricing hierarchy, buyers still face hurdles such as persistent foreign exchange difficulties and extended payment timelines. Nevertheless, the current mood in Gadani remains optimistic and buoyant as recyclers increasingly seek out fresh tonnage to meet the growing domestic requirements. Anchorage & Beaching Position (APRIL 2026)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | - | - | - | - | - |
 
 Aliaga, Turkiye
@@ -307,9 +312,10 @@ Copper prices led declines across the base metals complex this week, as uncertai
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 105 -3.66% 0 109 105 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 105 -3.66% +1.94% 109 103 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 587.65 +11.25 +1.94% MAY 2026 3Mo Copper (L.M.E.) USD / MT 12,681.50 -27.50 -0.22% N/A 3Mo Aluminum (L.M.E.) USD / MT 3,444.00 -11.00 -0.32% N/A 3Mo Zinc (L.M.E.) USD / MT 3,327.00 +34.50 +1.05% N/A 3Mo Tin (L.M.E.) USD / MT 47,686.00 +59.00 +0.12% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 96.59 -1.28 -1.31% MAY 2026 Brent Crude (ICE.) USD / bbl. 95.43 -0.49 -0.57% JUN 2026 Crude Oil (Tokyo) JPY / kl 103,230.00 +2,250.00 +2.23% APR 2026 Natural Gas (Nymex) USD / MMBtu 2.65 -0.03 -1.20% MAY 2026 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 105 | -3.66% | 0 | 109 | 105 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 105 | -3.66% | +1.94% | 109 | 103 |
 
 ### Industrial Metal Rates
 

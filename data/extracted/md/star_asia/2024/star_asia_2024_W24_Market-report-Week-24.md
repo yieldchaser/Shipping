@@ -307,9 +307,10 @@ from the UK/Europe stand at US$424-428 per ton CFR Qasim. A steel mill official 
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 107 -1.83% -7.75% 109 116 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 109 -1.80% -4.38% 111 114 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 447.50 -0.50 -0.11% Sep 2024 3Mo Copper (L.M.E.) USD / MT 9,741.50 -53.00 -0.54% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,517.50 -39.50 -1.54% N/A 3Mo Zinc (L.M.E.) USD / MT 2,767.50 -92.50 -3.23% N/A 3Mo Tin (L.M.E.) USD / MT 32,318.00 -476.00 -1.45% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 107 | -1.83% | -7.75% | 109 | 116 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 109 | -1.80% | -4.38% | 111 | 114 |
 
 ### Industrial Metal Rates
 

@@ -225,8 +225,17 @@ Anchorage & Beaching Position (November 2025)
 | ARK | GENERAL CARGO | 1,366 | 01.11.2025 | 06.11.2025 |
 | MASAL | TANKER | 23,159 | 29.10.2025 | 06.11.2025 |
 | NEER 1 | TANKER | 22,977 | 17.10.2025 | 06.11.2025 |
-| Bangladesh remains compared to previous restrictions, which strong buying interest the availability of such On the contrary, larger buyers currently possess the local steel market, divergence was observed while local scrap prices Anchorage | notably quiet, with weeks. The primary prevents most buyers from exists for medium-sized vessels is extremely vessels are attracting the necessary LC prices offered by this week: local surprisingly saw an & Beaching | Chattogram minimal activity constraint is the committing units, typically limited. less attention capacity to pursue recyclers have held steel plate prices increase of Position | and muted overall ongoing hurdle of to new vessel between 8,000 as only a small this high value steady, though were reduced by US$12/MT. (November 2025) | sentiment LCs purchases. While to 10,000LDT, number of buying. In an unusual US$6/MT, |
+
+Chattogram
+
+Bangladesh remains notably quiet, with minimal activity and muted overall sentiment compared to previous weeks. The primary constraint is the ongoing hurdle of LCs restrictions, which prevents most buyers from committing to new vessel purchases. While strong buying interest exists for medium-sized units, typically between 8,000 to 10,000LDT, the availability of such vessels is extremely limited.
+
+On the contrary, larger vessels are attracting less attention as only a small number of buyers currently possess the necessary LC capacity to pursue this high value buying. In the local steel market, prices offered by recyclers have held steady, though an unusual divergence was observed this week: local steel plate prices were reduced by US$6/MT, while local scrap prices surprisingly saw an increase of US$12/MT.
+
+Anchorage & Beaching Position (November 2025)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | RAISSA | TANKER | 9,711 | 11.11.2025 | AWAITING |
 | GULY | TANKER | 13,782 | 11.11.2025 | AWAITING |
 | RANA | BULKER | 8,082 | 10.11.2025 | AWAITING |

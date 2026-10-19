@@ -237,7 +237,11 @@ Anchorage & Beaching Position (JULY 2025)
 | ANG MIN | BULKER | 11,243 | 23.06.2025 | 02.07.2025 |
 | NASO | BULKER | 23,292 | 27.06.2025 | 01.07.2025 |
 | ABRAHIM M | BULKER | 8,997 Gadani | 26.06.2025 | 01.07.2025 |
-| The Pakistani market Supported by relaxed upgrades, Gadani currently in terms of pricing. Despite this advantage many shipowners, who compliance uncertainties. essential yard upgrades | presented a unique, import regulations for stands as the and existing buyer remain hesitant to The market is poised are expected to take Anchorage & Beaching | albeit temporary, yards undertaking most lucrative interest, a sense commit vessels for a period one to two Position | landscape for HKC compliance destination on the of caution prevails due to the ongoing of transition, as months. (JULY 2025) | owners. subcontinent among these |
+
+Gadani
+
+The Pakistani market presented a unique, albeit temporary, landscape for owners. Supported by relaxed import regulations for yards undertaking HKC compliance upgrades, Gadani currently stands as the most lucrative destination on the subcontinent in terms of pricing. Despite this advantage and existing buyer interest, a sense of caution prevails among many shipowners, who remain hesitant to commit vessels due to the ongoing compliance uncertainties. The market is poised for a period of transition, as these essential yard upgrades are expected to take one to two months. Anchorage & Beaching Position (JULY 2025)
+
 |  |  |  |  |  |
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 |  |  |  |  |  |

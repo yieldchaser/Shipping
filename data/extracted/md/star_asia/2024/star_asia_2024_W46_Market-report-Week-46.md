@@ -268,8 +268,15 @@ Prices quoted are basis simple Japanese / Korean-built tonnages trading units. P
 | CAPT.OSAMA | GENERAL CARGO |  | 5,207 | 21.10.2024 | 01.11.2024 |
 | TANA | GENERAL CARGO |  | 7,214 | 25.10.2024 | 01.11.2024 |
 | MSC ALEXA | CONTAINER |  | 16,228 | 27.10.2024 | 02.11.2024 |
-| Chattogram, Ship recyclers have acquiring vessels of all narrowly focused on steel conditions. This selective that recyclers likely factor immediate outlook suggests recyclers respond to the Once again, Chattogram Chinese ship owners due Alang. Anchorage | Bangladesh maintained consistent sizes for demolition. plates, against a demand could signal into their calculations. potential strengthening steel recyclers saw the to its geographical & Beaching | price improvement supply | levels while However, the backdrop of vulnerability Despite these in vessel plate market. of ships location and Position (November | showing renewed current price strength generally weak economic to quick price mixed signals, demolition prices easing, especially better pricing as 2024) | interest in appears reversals, a risk the as from the compared to |
+
+Chattogram, Bangladesh
+
+Ship recyclers have maintained consistent price levels while showing renewed interest in acquiring vessels of all sizes for demolition. However, the current price strength appears narrowly focused on steel plates, against a backdrop of generally weak economic conditions. This selective demand could signal vulnerability to quick price reversals, a risk that recyclers likely factor into their calculations. Despite these mixed signals, the immediate outlook suggests potential improvement in vessel demolition prices as recyclers respond to the strengthening steel plate market.
+
+Once again, Chattogram recyclers saw the supply of ships easing, especially from the Chinese ship owners due to its geographical location and better pricing as compared to Alang. Anchorage & Beaching Position (November 2024)
+
 | VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
 | RINCH | BULKER |  | 9,214 | 14.11.2024 | AWAITING |
 | THAILAEMTHONG 3 | TANKER |  | 843 | 11.11.2024 | AWAITING |
 | GOLD BRIDGE | BULKER |  | 6,889 | 10.11.2024 | AWAITING |
@@ -338,9 +345,10 @@ In India, Domestic scrap consumption remains subdued, with shredded offers from 
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 99 -6.60% -25% 106 132 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 101 -6.48% -24.62% 108 134 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 410.90 -3.15 -0.76% Mar 2025 3Mo Copper (L.M.E.) USD / MT 9,002.50 +12.50 +0.14% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,649.50 +133.00 +5.29% N/A 3Mo Zinc (L.M.E.) USD / MT 2,947.50 +5.00 +0.17% N/A 3Mo Tin (L.M.E.) USD / MT 28,742.00 -190.00 -0.66% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 99 | -6.60% | -25% | 106 | 132 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 101 | -6.48% | -24.62% | 108 | 134 |
 
 ### Industrial Metal Rates
 

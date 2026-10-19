@@ -369,9 +369,10 @@ production began to rebound. Trimet Aluminum SE announced increased output from 
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 117 0% +5.4% 117 111 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 120 0% +21.21% 120 99 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 505.00 +17.30 +3.55% Jul 2024 3Mo Copper (L.M.E.) USD / MT 10,424.00 +205.00 +2.01% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,586.50 -12.00 -0.46% N/A 3Mo Zinc (L.M.E.) USD / MT 2,960.00 -16.00 -0.54% N/A 3Mo Tin (L.M.E.) USD / MT 33,729.00 +319.00 +0.95% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 80.06 +0.83 +1.05% Jun 2024 Brent Crude (ICE.) USD / bbl. 83.98 +0.71 +0.85% Jul 2024 Crude Oil (Tokyo) J.P.Y. / kl 82,980.00 +200.00 +0.24% May 2024 Natural Gas (Nymex) USD / MMBtu 2.63 +0.13 +5.25% Jun 2024 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 117 | 0% | +5.4% | 117 | 111 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 120 | 0% | +21.21% | 120 | 99 |
 
 ### Industrial Metal Rates
 

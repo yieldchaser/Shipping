@@ -254,7 +254,17 @@ Anchorage & Beaching Position (May 2025)
 | CHARLENE | BULKER | 6,071 | 05.05.2025 | 12.05.2025 |
 | HU GANG YIN 2 | OFFSHORE | 4,351.30 | 05.05.2025 | 13.05.2025 |
 | OHRYU | RORO | 2,468 Gadani | 27.04.2025 | 01.05.2025 |
-| Pakistan continues to face becoming desperate to to continue demonstrating certifications. Recyclers are now prepared demonstrate their capabilities term business. So far, there have been no extension will be granted certifications. | inactivity despite acquire tonnage as recycling in to pay slightly and secure the developments from to provide the yards Anchorage & Beaching | the emerging the yards are accordance with HKC above their comfort HKC certifications the local with more time Position (MAY | demand. Recyclers empty, and they norms to obtain zone merely necessary for authorities indicating to obtain the 2025) | are require a ship their to their long- that an HKC |
+
+Gadani
+
+Pakistan continues to face inactivity despite the emerging demand. Recyclers are becoming desperate to acquire tonnage as the yards are empty, and they require a ship to continue demonstrating recycling in accordance with HKC norms to obtain their certifications.
+
+Recyclers are now prepared to pay slightly above their comfort zone merely to demonstrate their capabilities and secure the HKC certifications necessary for their long- term business.
+
+So far, there have been no developments from the local authorities indicating that an extension will be granted to provide the yards with more time to obtain the HKC certifications.
+
+Anchorage & Beaching Position (MAY 2025)
+
 |  |  |  |  |  |
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | - | - | - | - | - |
@@ -333,9 +343,10 @@ China's property sector. New home prices across 70 cities fell 0.12% in April, e
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 102 +2% -12.8% 100 117 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 101 +5.2% -15.8% 96 120 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 483.65 +15.70 +3.36% Jul 2025 3Mo Copper (L.M.E.) USD / MT 9,610.00 +109.50 +1.15% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,463.50 +7.50 +0.31% N/A 3Mo Zinc (L.M.E.) USD / MT 2,701.50 +4.00 +0.15% N/A 3Mo Tin (L.M.E.) USD / MT 32,819.00 +441.00 +1.36% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 61.53 +0.33 +0.54% Jul 2025 Brent Crude (ICE.) USD / bbl. 64.78 +0.34 +0.53% Jul 2025 Crude Oil (Tokyo) J.P.Y. / kl 58,000.00 -200.00 -0.34% May 2025 Natural Gas (Nymex) USD / MMBtu 3.33 +0.08 +2.49% Jun 2025 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 102 | +2% | -12.8% | 100 | 117 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 101 | +5.2% | -15.8% | 96 | 120 |
 
 ### Industrial Metal Rates
 

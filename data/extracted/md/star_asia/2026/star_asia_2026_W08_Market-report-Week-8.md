@@ -254,8 +254,13 @@ Anchorage & Beaching Position (FEBRUARY 2026)
 | HAKATA | TANKER | 353 | 29.01.2026 | 04.02.2026 |
 | CHANG MING YANG | BULKER | 19,529 | 31.01.2026 | 04.02.2026 |
 | HONG LI | BULKER | 6,132 Gadani | 26.01.2026 | 03.02.2026 |
-| Gadani maintained a market conditions remaining industry players continue by a positive undertone Iranian imports. This firm foundation has for another week, with approximately US$435/LDT healthy local steel plate measured with persistent Anchorage | remarkably steady steady. While to observe with a in the local steel allowed Pakistani indicative levels for and US$420/LDT price of nearly shortage of fresh & Beaching | course through general sentiment quiet, watchful sector and the recyclers to lead container vessels respectively. US$594/ton, trading tonnage. Position | the third week of remains eye, the market is ongoing absence of the sub-continent and tankers Despite these rates activity has (FEBRUARY 2026) | February, with unchanged and supported cheap in pricing holding firm at and a remained |
+
+Gadani
+
+Gadani maintained a remarkably steady course through the third week of February, with market conditions remaining steady. While general sentiment remains unchanged and industry players continue to observe with a quiet, watchful eye, the market is supported by a positive undertone in the local steel sector and the ongoing absence of cheap Iranian imports. This firm foundation has allowed Pakistani recyclers to lead the sub-continent in pricing for another week, with indicative levels for container vessels and tankers holding firm at approximately US$435/LDT and US$420/LDT respectively. Despite these rates and a healthy local steel plate price of nearly US$594/ton, trading activity has remained measured with persistent shortage of fresh tonnage. Anchorage & Beaching Position (FEBRUARY 2026)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | - | - | - | - | - |
 
 Aliaga, Turkiye

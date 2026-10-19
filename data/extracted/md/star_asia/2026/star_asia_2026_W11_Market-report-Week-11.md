@@ -252,8 +252,13 @@ Anchorage & Beaching Position (MARCH 2026)
 | SIRRAH | BULKER | 7,071 | 15.02.2026 | 08.03.2026 |
 | LIMA | LNG | 26,915 | 08.03.2026 | 09.03.2026 |
 | SAGE SAGITTARUS | BULKER | 19,943 Gadani | 25.02.2026 | 05.03.2026 |
-| The local industry is the official ban on the known as the Ceres I. any attempt to purchase consequences, reflecting assets. Amidst these external significant internal transition enforced HKC, however a standstill in fresh bookings, remaining steady at global shipping demand subcontinent. Anchorage | contending with strict recycling of the Balochistan regional or process this the heightened pressures, the Gadani as yards work the overall market with workable US$410/LDT mark. The softens enough to & Beaching | regulatory sanctioned 300,000-dwt authorities have blacklisted vessel scrutiny surrounding recycling market toward full remains quiet. price indications upcoming weeks release more Position | challenges, as demonstrated tanker Mali, strictly advised will result in severe sanctioned is also focused compliance with the Buyers are currently for the few will likely depend end-of-life vessels (MARCH 2026) | by formerly recyclers that legal "dark fleet" on a newly observing available units on whether to the |
+
+Gadani
+
+The local industry is contending with strict regulatory challenges, as demonstrated by the official ban on the recycling of the sanctioned 300,000-dwt tanker Mali, formerly known as the Ceres I. Balochistan regional authorities have strictly advised recyclers that any attempt to purchase or process this blacklisted vessel will result in severe legal consequences, reflecting the heightened scrutiny surrounding sanctioned "dark fleet" assets. Amidst these external pressures, the Gadani recycling market is also focused on a significant internal transition as yards work toward full compliance with the newly enforced HKC, however the overall market remains quiet. Buyers are currently observing a standstill in fresh bookings, with workable price indications for the few available units remaining steady at US$410/LDT mark. The upcoming weeks will likely depend on whether global shipping demand softens enough to release more end-of-life vessels to the subcontinent. Anchorage & Beaching Position (MARCH 2026)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | ATLAS | GENERAL CARGO | 2,573 | 26.02.2026 | 02.03.2026 |
 | XING FA | TANKER | 2,300 | 16.03.2026 | 01.03.2026 |
 

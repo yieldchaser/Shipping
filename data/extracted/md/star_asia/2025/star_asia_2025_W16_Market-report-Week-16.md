@@ -230,7 +230,11 @@ with import duties and anti-dumping probes by the EU, Vietnam, and Malaysia. Ind
 | ATHENA | AHTS |  | 1,177 | 03.04.2025 | 16.04.2025 |
 | SOCOL 9 | GENERAL CARGO |  | 3,672 | 08.04.2025 | 12.04.2025 |
 | ADVENTURE | GENERAL CARGO |  | 2,073 | 05.04.2025 | 10.04.2025 |
-| The Chattogram ship clarity from environmental continue cautiously, but yards remains on hold, verbally agreed to grant an awaited gazette, expected and market sentiment. There are a number of issuance of the NOC's, | recycling market saw authorities regarding the issuance of No limiting activity. Market extension, though next week, is likely ships sold in the past delaying the entire Anchorage & Beaching | Chattogram the to process | another subdued yard upgrade Objection Certificate participants official determine awaiting at outer Position (APRIL | week as recyclers extensions. for report that authorities notification is still the near-term pace anchorage due 2025) | await Activities non-HKC-compliant have pending. The of activity to the |
+
+Chattogram
+
+The Chattogram ship recycling market saw another subdued week as recyclers await clarity from environmental authorities regarding yard upgrade extensions. Activities continue cautiously, but the issuance of No Objection Certificate for non-HKC-compliant yards remains on hold, limiting activity. Market participants report that authorities have verbally agreed to grant an extension, though the official notification is still pending. The awaited gazette, expected next week, is likely to determine the near-term pace of activity and market sentiment. There are a number of ships sold in the past awaiting at outer anchorage due to the issuance of the NOC’s, delaying the entire process Anchorage & Beaching Position (APRIL 2025)
+
 |  |  |  |  |  |  |
 | VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
 | PILATUS 32 | LPG |  | 974 | 16.04.2025 | AWAITING |

@@ -255,8 +255,17 @@ Anchorage & Beaching Position (October 2023)
 | FRIO OLYMPIC | REEFER |  | 4,698 | 28.09.2023 | 04.10.2023 |
 |---|---|---|---|---|---|
 | HONG KONG | CONTAINER |  | 7,009 | 02.10.2023 | 04.10.2023 |
-| Chattogram, The ship recycling markets sales for ship scrap Nevertheless, issues with successfully securing L.C.s Looking ahead, the ship momentum as mills continue Anchorage | Bangladesh have been plates, driven L.C.s have persisted, lately. recycling industry their & Beaching | slowly by with in purchasing | recovering domestic mills only a Bangladesh activities. Position | with the resumption reinitiating their limited number of is expected to (October 2023) | of domestic purchases. ship recyclers gradually regain |
+
+Chattogram, Bangladesh
+
+The ship recycling markets have been slowly recovering with the resumption of domestic sales for ship scrap plates, driven by domestic mills reinitiating their purchases. Nevertheless, issues with L.C.s have persisted, with only a limited number of ship recyclers successfully securing L.C.s lately.
+
+Looking ahead, the ship recycling industry in Bangladesh is expected to gradually regain momentum as mills continue their purchasing activities.
+
+Anchorage & Beaching Position (October 2023)
+
 | VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
 | TAI H | RORO |  | 4,043.72 | 10.10.2023 | AWAITING |
 | YI DING 9 | TANKER |  | 1,552.20 | 21.09.2023 | AWAITING |
 | HARIN NAVEE 10 | GEN.CARGO |  | 959 | 01.10.2023 | 04.10.2023 |
@@ -326,9 +335,10 @@ On the other hand, Iron ore futures saw an uptick in price despite production cu
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 118 -1.6% +22.9% 120 96 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 121 0% +23.4% 121 98 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 360.80 +1.70 +0.47% Dec 2023 3Mo Copper (L.M.E.) USD / MT 7,991.00 -33.00 -0.41% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,200.00 -14.00 -0.63% N/A 3Mo Zinc (L.M.E.) USD / MT 2,449.50 -27.00 -1.09% N/A 3Mo Tin (L.M.E.) USD / MT 24,812.00 -107.00 -0.43% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 118 | -1.6% | +22.9% | 120 | 96 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 121 | 0% | +23.4% | 121 | 98 |
 
 ### Industrial Metal Rates
 

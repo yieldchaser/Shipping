@@ -1082,7 +1082,7 @@ issue_date,report_week,category,index_name,units,price,change,pct_change,contrac
 2023-10-14,41,Energy,Brent Crude (ICE.),USD / bbl.,88.20,+2.20,+2.56%,Dec 2023,corpus/01-brokers/star_asia/2023/star_asia_2023_W41_Market-report-Week-41.pdf
 2023-10-14,41,Energy,Crude Oil (Tokyo),J.P.Y. / kl,"83,340.00",+540.00,+0.65%,Oct 2023,corpus/01-brokers/star_asia/2023/star_asia_2023_W41_Market-report-Week-41.pdf
 2023-10-14,41,Energy,Natural Gas (Nymex),USD / MMBtu,3.29,-0.05,-1.64%,Nov 2023,corpus/01-brokers/star_asia/2023/star_asia_2023_W41_Market-report-Week-41.pdf
-2023-10-14,42,Energy,Brent Crude (I.C.E.),USD / bbl.,93.20,+0.82,+0.89%,Dec 2023,corpus/01-brokers/star_asia/2023/star_asia_2023_W42_Market-report-Week-42.pdf
+2023-10-21,42,Energy,Brent Crude (I.C.E.),USD / bbl.,93.20,+0.82,+0.89%,Dec 2023,corpus/01-brokers/star_asia/2023/star_asia_2023_W42_Market-report-Week-42.pdf
 2023-10-28,43,Industrial Metals,Copper (Comex),USD / lb.,361.80,+3.35,+0.93%,Dec 2023,corpus/01-brokers/star_asia/2023/star_asia_2023_W43_Market-report-Week-43.pdf
 2023-10-28,43,Industrial Metals,3Mo Copper (L.M.E.),USD / MT,"7,985.50",-46.50,-0.58%,N/A,corpus/01-brokers/star_asia/2023/star_asia_2023_W43_Market-report-Week-43.pdf
 2023-10-28,43,Industrial Metals,3Mo Aluminum (L.M.E.),USD / MT,"2,197.50",-21.50,-0.97%,N/A,corpus/01-brokers/star_asia/2023/star_asia_2023_W43_Market-report-Week-43.pdf

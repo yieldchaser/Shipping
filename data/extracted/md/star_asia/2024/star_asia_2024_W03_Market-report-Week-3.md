@@ -256,9 +256,19 @@ Anchorage & Beaching Position (January 2024)
 | GENERAL RUMOLO | CONTAINER | 2,533 | 03.01.2024 | 17.01.2024 |
 | JIN HAI XI | CONTAINER | 5,931 | 02.01.2024 | 13.01.2024 |
 | WEST OCEAN 12 | GEN.CARGO | 1,733 | 23.12.2023 | 11.01.2024 |
-| Gadani, Pakistan |  |  |  |  |
-| In the markets, there is are vying to secure ships recyclers, the prevailing The majority of ships Given its advantageous destination for these The market appears to its usual pace after a | a discernible sense to resume their situation presents being sold are originating geographical ships, leaving the be on a stable path, prolonged break. Anchorage & Beaching | of urgency as a activities but a significant from the location, Chattogram Gadani recyclers with the ship Position (January | growing number unfortunately, for Pakistani challenge. eastern regions, notably has become the empty-handed. recycling industry 2024) | of recyclers China. preferred returning to |
+
+Gadani, Pakistan
+
+In the markets, there is a discernible sense of urgency as a growing number of recyclers are vying to secure ships to resume their activities but unfortunately, for Pakistani recyclers, the prevailing situation presents a significant challenge.
+
+The majority of ships being sold are originating from the eastern regions, notably China. Given its advantageous geographical location, Chattogram has become the preferred destination for these ships, leaving the Gadani recyclers empty-handed.
+
+The market appears to be on a stable path, with the ship recycling industry returning to its usual pace after a prolonged break.
+
+Anchorage & Beaching Position (January 2024)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | SSL DELHI | CONTAINER | 10,669 | 16.01.2024 | AWAITING |
 | TUNE | BULKER | 9,986 | 16.01.2024 | AWAITING |
 | G HARMONY | GENERAL CARGO | 11,312 | 06.01.2024 | 13.01.2024 |
@@ -325,9 +335,10 @@ Premier Li's remarks, but earlier this week, the iron ore remained under pressur
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 131 -8.39% +4.8% 143 125 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 132 -8.33% +10.92% 144 119 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 377.10 +2.60 +0.69% Mar 2024 3Mo Copper (L.M.E.) USD / MT 8,310.00 +42.00 +0.51% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,163.50 -14.50 -0.67% N/A 3Mo Zinc (L.M.E.) USD / MT 2,462.50 -3.50 -0.14% N/A 3Mo Tin (L.M.E.) USD / MT 25,357.00 +124.00 +0.49% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 74.75 +0.67 +0.90% Feb 2024 Brent Crude (ICE.) USD / bbl. 79.64 +0.54 +0.68% Mar 2024 Crude Oil (Tokyo) J.P.Y. / kl 71,800.00 +250.00 +0.35% Jan 2024 Natural Gas (Nymex) USD / MMBtu 2.60 -0.10 -3.78% Feb 2024 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 131 | -8.39% | +4.8% | 143 | 125 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 132 | -8.33% | +10.92% | 144 | 119 |
 
 ### Industrial Metal Rates
 

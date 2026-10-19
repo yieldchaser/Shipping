@@ -332,9 +332,10 @@ to USD403/ton CFR, and HMS (80:20) to USD377/ton CFR, reflecting a preference fo
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 104 -12.6% -21.8% 119 133 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 110 -9.09% -10.56% 121 123 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 409.65 +5.10 +1.26% May 2024 3Mo Copper (L.M.E.) USD / MT 8,887.50 -39.50 -0.44% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,251.50 -12.50 -0.55% N/A 3Mo Zinc (L.M.E.) USD / MT 2,548.00 -28.00 -1.09% N/A 3Mo Tin (L.M.E.) USD / MT 28,258.00 +193.00 +0.69% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 104 | -12.6% | -21.8% | 119 | 133 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 110 | -9.09% | -10.56% | 121 | 123 |
 
 ### Industrial Metal Rates
 

@@ -1,17 +1,17 @@
 ---
-title: "Star Asia Shipbroking Weekly Demolition Report - Week 41, 2023"
-issue_date: "2023-10-14"
+title: "Star Asia Shipbroking Weekly Demolition Report - Week 42, 2023"
+issue_date: "2023-10-21"
 year: "2023"
-report_week: 41
+report_week: 42
 broker: "Star Asia Shipbroking"
 category: "demolition_report"
 source_file: "corpus/01-brokers/star_asia/2023/star_asia_2023_W42_Market-report-Week-42.pdf"
 pages: 19
 ---
 
-# Star Asia Weekly Demolition Report - Week 41, 2023
+# Star Asia Weekly Demolition Report - Week 42, 2023
 
-**Issue Date:** 2023-10-14 | **Report Week:** 41 | **Publisher:** Star Asia Shipbroking  
+**Issue Date:** 2023-10-21 | **Report Week:** 42 | **Publisher:** Star Asia Shipbroking  
 **Source Document:** `corpus/01-brokers/star_asia/2023/star_asia_2023_W42_Market-report-Week-42.pdf`  
 
 ---

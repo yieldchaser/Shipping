@@ -244,8 +244,15 @@ Anchorage & Beaching Position (APRIL 2026)
 | YU YING NO.02 | TRAINING SHIP | 1,581 | 07.04.2206 | 10.04.2206 |
 | TAI JI | REEFER | 3,241 | 31.03.2026 | 04.04.2026 |
 | SHUEN | CONTAINER | 1,589 Gadani | 31.03.2026 | 06.04.2026 |
-| Market conditions remained subdued levels and no fresh particularly the conflict in the region increasingly However, the prevailing influence trading decisions. attractive destination for disposal levels remain Overall, market sentiment on the sidelines, awaiting | largely unchanged transactions the Middle East, directed toward price differential Despite logistical Gulf units, given its comparatively lower. remains fragile and clearer direction Anchorage & Beaching | this week, reported. Ongoing have disrupted Pakistan. between Bangladesh shifts, Bangladesh stronger pricing highly volatile. and greater Position | with activity continuing geopolitical vessel flows, with and Pakistan remains the relative to Pakistan, Buyers have stability before (APRIL 2026) | at tensions, tonnage from continues to more where largely stayed re-engaging. |
+
+Gadani
+
+Market conditions remained largely unchanged this week, with activity continuing at subdued levels and no fresh transactions reported. Ongoing geopolitical tensions, particularly the conflict in the Middle East, have disrupted vessel flows, with tonnage from the region increasingly directed toward Pakistan. However, the prevailing price differential between Bangladesh and Pakistan continues to influence trading decisions. Despite logistical shifts, Bangladesh remains the more attractive destination for Gulf units, given its stronger pricing relative to Pakistan, where disposal levels remain comparatively lower. Overall, market sentiment remains fragile and highly volatile. Buyers have largely stayed on the sidelines, awaiting clearer direction and greater stability before re-engaging.
+
+Anchorage & Beaching Position (APRIL 2026)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | - | - | - | - | - |
 
 Aliaga, Turkiye

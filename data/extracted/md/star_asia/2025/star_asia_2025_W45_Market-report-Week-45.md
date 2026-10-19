@@ -212,8 +212,15 @@ Anchorage & Beaching Position (November 2025)
 | ARK | GENERAL CARGO | 1,366 | 01.11.2025 | 06.11.2025 |
 | MASAL | TANKER | 23,159 | 29.10.2025 | 06.11.2025 |
 | NEER 1 | TANKER | 22,977 | 17.10.2025 | 06.11.2025 |
-| The ship recycling evidenced by improved Although the overall the market continues highest price offers. Sentiment remains reflecting a more market remaining plate prices holding unexpectedly motivating Anchorage | market in Bangladesh price levels and volume remains limited to hold a competitive particularly positive for cautious stance by sluggish, with local scrap steady, the ongoing certain recyclers & Beaching | Chattogram is seeing a an increase in by a scarcity of edge over its tankers, while recyclers in that prices easing shortage of to make more Position | distinct recovery in purchasing intent available end-of-life regional peers, prices for bulkers segment. Despite the by US$2/MT this incoming recycling aggressive bids to (November 2025) | enthusiasm, from buyers. tonnage, maintaining the have softened, local steel week and local vessels is secure units. |
+
+Chattogram
+
+The ship recycling market in Bangladesh is seeing a distinct recovery in enthusiasm, evidenced by improved price levels and an increase in purchasing intent from buyers. Although the overall volume remains limited by a scarcity of available end-of-life tonnage, the market continues to hold a competitive edge over its regional peers, maintaining the highest price offers. Sentiment remains particularly positive for tankers, while prices for bulkers have softened, reflecting a more cautious stance by recyclers in that segment. Despite the local steel market remaining sluggish, with local scrap prices easing by US$2/MT this week and local plate prices holding steady, the ongoing shortage of incoming recycling vessels is unexpectedly motivating certain recyclers to make more aggressive bids to secure units.
+
+Anchorage & Beaching Position (November 2025)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | ANG | BARGE | 2,630 | 27.10.2025 | 04.11.2025 |
 
 Gadani

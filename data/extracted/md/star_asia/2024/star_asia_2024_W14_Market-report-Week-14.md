@@ -257,7 +257,21 @@ Anchorage & Beaching Position (March 2024)
 | QATAR ANA | BULKER | 8,015 | 26.03.2024 | AWATIING |
 | SEA FLOWER | GENERAL CARGO | 5,282 | 27.03.2024 | AWAITING |
 | BOS LINA | GENERAL CARGO | 3,287 | 29.03.2024 | AWAITING |
-| Aliaga, Turkey Turkey's annual inflation economists expecting achieve single-digit This would make the rates. The recent local Erdogan's ruling party, suggest uncertainty, unlikely before the next Meanwhile, Turkish mills week, while imported diverging expectations. mills resisting suppliers' situation, and some Turkey, with similar prices Demand overall remains week to US$375-402/t | saw a staggering further monetary inflation. eight times since June elections, in which may influence future others believe a return elections in 2028. have increased scrap prices are No imported scrap higher price targets. European suppliers are from US and UK subdued with delivered. | rise to 68.5% in tightening and fiscal 2023, that the the opposition party economic policies. to loosen monetary their domestic scrap seeking direction amid bookings have The stronger lira offering HMS 1&2 suppliers. Turkish shipbreaking | March, last month, policy adjustments Central Bank has dealt a blow to While some policy is very buying prices lacklustre trade been reported this has put traders 80:20 at scrap climbing | with many to increased President analysts much since last and week, with in a difficult US$390/tonne CFR slightly this |
+
+Aliaga, Turkey
+
+Turkey's annual inflation saw a staggering rise to 68.5% in March, last month, with many economists expecting further monetary tightening and fiscal policy adjustments to achieve single-digit inflation.
+
+This would make the eight times since June 2023, that the Central Bank has increased rates. The recent local elections, in which the opposition party dealt a blow to President Erdogan's ruling party, may influence future economic policies. While some analysts suggest uncertainty, others believe a return to loosen monetary policy is very much unlikely before the next elections in 2028.
+
+Meanwhile, Turkish mills have increased their domestic scrap buying prices since last week, while imported scrap prices are seeking direction amid lacklustre trade and diverging expectations. No imported scrap bookings have been reported this week, with mills resisting suppliers' higher price targets. The stronger lira has put traders in a difficult situation, and some European suppliers are offering HMS 1&2 80:20 at US$390/tonne CFR Turkey, with similar prices from US and UK suppliers.
+
+Demand overall remains subdued with Turkish shipbreaking scrap climbing slightly this week to US$375-402/t delivered.
+
+Chattogram, Bangladesh  :  08 ~ 11 April | 23 ~26 April
+
+Alang, India :   06 ~ 13 April | 23 ~ 29 April
+
 |  |  |  |  |  |
 | Chattogram, | Bangladesh : 08 ~ | 11 April \| 23 ~26 April |  |  |
 | Alang, India | : 06 ~ | 13 April \| 23 ~ 29 | April |  |
@@ -313,9 +327,10 @@ China's prolonged property crisis has led to a significant drop in iron ore pric
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 98 -2.97% -18.3% 101 120 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 105 +0.96% -1.86% 104 107 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 423.60 -1.30 -0.31% May 2024 3Mo Copper (L.M.E.) USD / MT 9,329.50 -29.50 -0.32% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,450.50 +6.00 +0.25% N/A 3Mo Zinc (L.M.E.) USD / MT 2,638.50 -7.00 -0.26% N/A 3Mo Tin (L.M.E.) USD / MT 28,795.00 +152.00 +0.53% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 86.91 +0.32 +0.37% May 2024 Brent Crude (ICE.) USD / bbl. 91.17 +0.52 +0.57% Jun 2024 Crude Oil (Tokyo) J.P.Y. / kl 86,500.00 +310.00 +0.36% Apr 2024 Natural Gas (Nymex) USD / MMBtu 1.79 +0.01 +0.62% May 2024 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 98 | -2.97% | -18.3% | 101 | 120 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 105 | +0.96% | -1.86% | 104 | 107 |
 
 ### Industrial Metal Rates
 

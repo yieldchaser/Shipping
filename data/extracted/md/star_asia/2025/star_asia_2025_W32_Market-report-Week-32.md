@@ -214,8 +214,15 @@ Anchorage & Beaching Position (AUGUST 2025)
 | CONICO ATLAS |  | TANKER | 20,001 | 13.06.2025 | AWAITING |
 | NIRVANA |  | TANKER | 9,623 | 07.05.2025 | AWAITING |
 | AEWO |  | CHEM. TANKER | 5,245 | 30.07.2025 | 06.08.2025 |
-| Bangladesh continues to a severe downturn three year low, driven issues, has reduced This has left Chattogram's tonnage, effectively rains have further the least competitive recovery to be found stabilise. | to in by demand dampened once Anchorage | face challenges, the domestic steel stalled public for recycled recycling yards sidelining them from the operational destination in the the weather & Beaching | Chattogram with market activity industry. A collapse infrastructure projects steel. unable to offer bidding tables. momentum. As subcontinent, hopefully improves and Position | nearly at a in local rebar and widespread competitive pricing To add, heavy a result, Bangladesh a potential, domestic economic (AUGUST 2025) | standstill due prices to a liquidity for new monsoon remains albeit distant, conditions |
+
+Chattogram
+
+Bangladesh continues to face challenges, with market activity nearly at a standstill due to a severe downturn in the domestic steel industry. A collapse in local rebar prices to a three year low, driven by stalled public infrastructure projects and widespread liquidity issues, has reduced demand for recycled steel.
+
+This has left Chattogram’s recycling yards unable to offer competitive pricing for new tonnage, effectively sidelining them from the bidding tables. To add, heavy monsoon rains have further dampened operational momentum. As a result, Bangladesh remains the least competitive destination in the subcontinent, hopefully a potential, albeit distant, recovery to be found once the weather improves and domestic economic conditions stabilise. Anchorage & Beaching Position (AUGUST 2025)
+
 | VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
 | DK 03 |  | BULKER | 7,809 | 04.08.2025 | AWAITING |
 | GREAT ROYAL |  | BULKER | 6,580 | 28.07.2025 | AWAITING |
 | WOND |  | TANKER | 2,229 | 03.08.2025 | AWAITING |
@@ -298,9 +305,10 @@ This week, copper prices edged higher as robust Chinese trade data underscored r
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 101 +2.02% 0 99 101 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 97 +1.04% -5.82% 96 103 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 442.10 +2.25 +0.51% Sep 2025 3Mo Copper (L.M.E.) USD / MT 9,684.50 +8.50 +0.09% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,610.00 +1.00 +0.04% N/A 3Mo Zinc (L.M.E.) USD / MT 2,813.00 +24.50 +0.88% N/A 3Mo Tin (L.M.E.) USD / MT 33,736.00 +359.00 +1.08% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 101 | +2.02% | 0 | 99 | 101 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 97 | +1.04% | -5.82% | 96 | 103 |
 
 ### Industrial Metal Rates
 

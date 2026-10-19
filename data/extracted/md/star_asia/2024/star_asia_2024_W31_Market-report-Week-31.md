@@ -257,9 +257,19 @@ Anchorage & Beaching Position (August 2024)
 | APJ MAHAKALI | BULKER | 9,126 | 25.07.2024 | AWAITING |
 | TAI 97 | BULKER | 3,231 | 24.07.2024 | AWAITING |
 | SIA 20 | CONTAINER | 1,747 | 20.07.2024 | AWAITING |
-| Gadani, Pakistan |  |  |  |  |
-| This week, Pakistani ship structure of domestic ship The price disparity with pushed them out of the Pakistani recyclers are more attractive pricing On the domestic economic by 100 basis points, bringing which reduced the rate a related development, currency issuer default certainty of continued Anchorage | recyclers are scrap prices and neighbouring competitive struggling, making from regional front, Pakistan's it down to 19.5 from a record high Fitch Ratings has rating from CCC to external funding as & Beaching | experiencing a lull as explore alternative countries, particularly arena. it challenging to competitors. central bank has percent. This of 22 percent, amid upgraded Pakistan's CCC+. The rating the primary reason Position (August | they reassess the imported scrap Bangladesh, has secure deals in the slashed its key follows a previous cut signs of easing long-term foreign agency cited for the upgrade. 2024) | cost options. once again face of interest rate in June, inflation. In increased |
+
+Gadani, Pakistan
+
+This week, Pakistani ship recyclers are experiencing a lull as they reassess the cost structure of domestic ship scrap prices and explore alternative imported scrap options. The price disparity with neighbouring countries, particularly Bangladesh, has once again pushed them out of the competitive arena.
+
+Pakistani recyclers are struggling, making it challenging to secure deals in the face of more attractive pricing from regional competitors.
+
+On the domestic economic front, Pakistan's central bank has slashed its key interest rate by 100 basis points, bringing it down to 19.5 percent. This follows a previous cut in June, which reduced the rate from a record high of 22 percent, amid signs of easing inflation. In a related development, Fitch Ratings has upgraded Pakistan's long-term foreign currency issuer default rating from CCC to CCC+. The rating agency cited increased certainty of continued external funding as the primary reason for the upgrade.
+
+Anchorage & Beaching Position (August 2024)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | - | - | - | - | - |
 
 Aliaga, Turkey

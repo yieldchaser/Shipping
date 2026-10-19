@@ -249,8 +249,13 @@ Anchorage & Beaching Position (MARCH 2026)
 | SIRRAH | BULKER | 7,071 | 15.02.2026 | 08.03.2026 |
 | LIMA | LNG | 26,915 | 08.03.2026 | 09.03.2026 |
 | SAGE SAGITTARUS | BULKER | 19,943 | 25.02.2026 | 05.03.2026 |
-| Gadani remains at a another quiet week at the available tonnage has consistently exceeded the Adding to these challenges, of steel from Iran, triggering implement a four-day conserve energy. Anchorage | standstill as the region bidding tables. been diverted to current reach of the ongoing a rise in local work week alongside & Beaching | Gadani observes the Local recyclers Chattogram this Pakistani buyers. conflict in the Middle prices and prompting widespread Position | Eid holidays, marking have watched as week, where offer East has disrupted the government work-from-home (MARCH 2026) | yet most prices have the flow to measures to |
+
+Gadani
+
+Gadani remains at a standstill as the region observes the Eid holidays, marking yet another quiet week at the bidding tables. Local recyclers have watched as most available tonnage has been diverted to Chattogram this week, where offer prices have consistently exceeded the current reach of Pakistani buyers. Adding to these challenges, the ongoing conflict in the Middle East has disrupted the flow of steel from Iran, triggering a rise in local prices and prompting the government to implement a four-day work week alongside widespread work-from-home measures to conserve energy. Anchorage & Beaching Position (MARCH 2026)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | LUMOSO PERMAI | BULKER | 7,628 | 09.03.2026 | 11.03.2026 |
 | ATLAS | GENERAL CARGO | 2,573 | 26.02.2026 | 02.03.2026 |
 | XING FA | TANKER | 2,300 | 16.03.2026 | 01.03.2026 |
@@ -306,9 +311,10 @@ The iron ore market faces significant indirect cost pressures. Although iron ore
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 105 +5% +2.94% 100 102 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 105 +5% +1.94% 100 103 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 529.20 -17.70 -3.24% MAY 2026 3Mo Copper (L.M.E.) USD / MT 12,146.50 -249.00 -2.01% N/A 3Mo Aluminum (L.M.E.) USD / MT 3,252.00 -148.00 -4.35% N/A 3Mo Zinc (L.M.E.) USD / MT 3,071.50 -62.00 -1.98% N/A 3Mo Tin (L.M.E.) USD / MT 43,540.00 -1,523.00 -3.38% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 97.93 +2.38 +2.49% MAY 2026 Brent Crude (ICE.) USD / bbl. 111.69 +3.04 +2.80% MAY 2026 Crude Oil (Tokyo) JPY / kl 136,060.00 +220.00 +0.16% MAR 2026 Natural Gas (Nymex) USD / MMBtu 3.09 -0.08 -2.46% APR 2026 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 105 | +5% | +2.94% | 100 | 102 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 105 | +5% | +1.94% | 100 | 103 |
 
 ### Industrial Metal Rates
 

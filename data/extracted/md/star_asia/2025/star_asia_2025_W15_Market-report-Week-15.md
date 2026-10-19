@@ -244,7 +244,17 @@ Anchorage & Beaching Position (APRIL 2025)
 |---|---|---|---|---|
 | KING HUNG NO.2 | TANKER | 947 | 27.03.2025 | 09.04.2025 |
 | RICH ANNA | GC | 1,010 Gadani | 27.03.2025 | 10.04.2025 |
-| The ship recycling market nation. Prices remained cautious. The recent executive orders targeting China with the economies dependent on For Pakistan, which has presents serious challenges. exportable services, now demand. Pakistan must institutional reforms while Anchorage | remained subdued unchanged from last from U.S. mark a highest tariff has US exports. received nearly US$67 The country's faces potential export develop a competitive carefully balancing & Beaching | this week, with and the atmosphere significant shift prompted similar, billion in US economy, largely losses due economic its relationships. Position (APRIL | limited activity in the region in economic policy. the impact extends assistance since dependent on to decreased US value proposition 2025) | across the was While to many 1947, this shift non- consumer through |
+
+Gadani
+
+The ship recycling market remained subdued this week, with limited activity across the nation. Prices remained unchanged from last and the atmosphere in the region was cautious.
+
+The recent executive orders from U.S. mark a significant shift in economic policy. While targeting China with the highest tariff has prompted similar, the impact extends to many economies dependent on US exports.
+
+For Pakistan, which has received nearly US$67 billion in US assistance since 1947, this shift presents serious challenges. The country's economy, largely dependent on non- exportable services, now faces potential export losses due to decreased US consumer demand. Pakistan must develop a competitive economic value proposition through institutional reforms while carefully balancing its relationships.
+
+Anchorage & Beaching Position (APRIL 2025)
+
 |  |  |  |  |  |
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | - | - | - | - | - |

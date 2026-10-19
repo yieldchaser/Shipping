@@ -256,8 +256,13 @@ Anchorage & Beaching Position (JANUARY 2026)
 | VIGO | TANKER | 17,740 | 07.07.2026 | 09.01.2026 |
 | GOLD ORIGIN | GENERAL CARGO | 2,485 | 02.01.2025 | 07.01.2025 |
 | VICTOR | BULKER | 6,086 Gadani | 02.01.2025 | 07.01.2026 |
-| Pakistan has shown activity levels compared steel prices, which has While Gadani recyclers weeks, most offers remain and US$420/LDT for local steel sector. Anchorage | encouraging signs of to previous weeks. helped lift the overall have shown more disciplined, typically containers as they wait & Beaching | growth recently, This is largely mood among willingness to capping bids for more aggressive Position | with a noticeable due to strengthening industry participants. engage compared at US$390/LDT price support (JANUARY 2026) | rise in local to previous for bulkers from the |
+
+Gadani
+
+Pakistan has shown encouraging signs of growth recently, with a noticeable rise in activity levels compared to previous weeks. This is largely due to strengthening local steel prices, which has helped lift the overall mood among industry participants. While Gadani recyclers have shown more willingness to engage compared to previous weeks, most offers remain disciplined, typically capping bids at US$390/LDT for bulkers and US$420/LDT for containers as they wait for more aggressive price support from the local steel sector. Anchorage & Beaching Position (JANUARY 2026)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | - | - | - | - | - |
 
 Aliaga, Turkiye

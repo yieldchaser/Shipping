@@ -221,9 +221,15 @@ Anchorage & Beaching Position (MARCH 2025)
 | ATHINA I | TANKER |  | 14,883 | 28.02.2025 | AWAITING |
 | IRIS OF SEA | RORO |  | 2,783 | 26.02.2025 | AWAITING |
 | TALENT BLUE | BULKER |  | 3,589 | 21.02.2025 | 01.03.2025 |
-|  |  | Chattogram |  |  |  |
-| Bangladesh's ship recycling inflation, which remained 9.32% February from slow activities in the ship pattern typical of the Despite these challenges, number of vessels currently recent easing of inflation trend remains uncertain, coming months. Anchorage | sector continues above 9% for the January's 9.94%. The recycling industry market. recyclers remain available for reflects improved potentially affecting & Beaching | to 24th arrival for recycling. | operate consecutive of Ramadan the first half actively engaged Economists commodity the recycling Position (MARCH | against a backdrop month despite is expected to of the holy month, in pursuing the suggest that supplies, the sustainability market's stability 2025) | of persistent easing to temporarily a seasonal limited while the of this in the |
+
+Chattogram
+
+Bangladesh's ship recycling sector continues to operate against a backdrop of persistent inflation, which remained above 9% for the 24th consecutive month despite easing to 9.32% February from January's 9.94%. The arrival of Ramadan is expected to temporarily slow activities in the ship recycling industry for the first half of the holy month, a seasonal pattern typical of the market.
+
+Despite these challenges, recyclers remain actively engaged in pursuing the limited number of vessels currently available for recycling. Economists suggest that while the recent easing of inflation reflects improved commodity supplies, the sustainability of this trend remains uncertain, potentially affecting the recycling market's stability in the coming months. Anchorage & Beaching Position (MARCH 2025)
+
 | VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
 | GENERALIS | GENERAL CARGO |  | 3,311 | 14.02.2025 | AWAITING |
 | THREE STAR | BULKER |  | 7,627 | 23.01.2025 | AWAITING |
 

@@ -306,9 +306,10 @@ With the Strait of Hormuz effectively closed to LNG shipments, major economies i
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 109 +3.80% +5.82% 105 103 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 109 +3.80% +4.80% 105 104 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 558.35 -6.30 -1.12% MAY 2026 3Mo Copper (L.M.E.) USD / MT 12,434.50 +99.00 +0.80% N/A 3Mo Aluminum (L.M.E.) USD / MT 3,531.50 +64.50 +1.86% N/A 3Mo Zinc (L.M.E.) USD / MT 3,289.50 +63.00 +1.95% N/A 3Mo Tin (L.M.E.) USD / MT 47,362.00 +615.00 +1.32% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 111.54 +11.42 +11.41% MAY 2026 Brent Crude (ICE.) USD / bbl. 109.00 +7.84 +7.75% JUN 2026 Crude Oil (Tokyo) JPY / kl 106,140.00 -1,000.00 -0.93% APR 2026 Natural Gas (Nymex) USD / MMBtu 2.80 -0.02 -0.67% MAY 2026 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 109 | +3.80% | +5.82% | 105 | 103 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 109 | +3.80% | +4.80% | 105 | 104 |
 
 ### Industrial Metal Rates
 

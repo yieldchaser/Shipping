@@ -206,8 +206,15 @@ Anchorage & Beaching Position (APRIL 2026)
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 |---|---|---|---|---|
 | - | - | - | - | - |
-| Chattogram faced flooding brought daily pause operations entirely, waterfront. While the Credit pipeline now approvals the actual sales. | operational disruptions, activities to a virtual creating a slowdown financial landscape moving at a much faster demand for new vessels Anchorage & Beaching | Chattogram as relentless standstill. This in recycling has improved pace following is being Position | heavy rains and has forced several throughput across remarkably with the consistent central tempered by sluggish (APRIL 2026) | widespread yards to the Letter of bank steel plate |
+
+Chattogram
+
+Chattogram faced operational disruptions, as relentless heavy rains and widespread flooding brought daily activities to a virtual standstill. This has forced several yards to pause operations entirely, creating a slowdown in recycling throughput across the waterfront. While the financial landscape has improved remarkably with the Letter of Credit pipeline now moving at a much faster pace following consistent central bank approvals the actual demand for new vessels is being tempered by sluggish steel plate sales.
+
+Anchorage & Beaching Position (APRIL 2026)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | SPRUCE | CONTAINER | 2,216 | 27.04.2026 | AWAITING |
 | FESTIVAL | BULKER | 6,993 | 26.04.2026 | AWAITING |
 | JIANG | BULKER | 21,238 | 21.04.2206 | AWAITING |

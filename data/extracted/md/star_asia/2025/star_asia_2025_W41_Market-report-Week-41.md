@@ -237,7 +237,11 @@ Anchorage & Beaching Position (October 2025)
 | DK 03 | BULKER | 7,809 | 04.08.2025 | ARRESTED |
 | NIGATA TRADER | CONTAINER | 4,809 | 09.10.2025 | AWAITING |
 | ASIAN ENTERPRISE | GENERAL CARGO | 9,016 Gadani | 05.10.2025 | 05.10.2025 |
-| Pakistan currently maintains significantly hindered by pending tranche from the While prices for local steel recyclers have preemptively operational capacity is the provisional DASR. Yards issues and scarcity of Anchorage | a slightly better prevailing economic IMF. and finished products reduced their restricted by the limited are operating well tonnage continue to & Beaching | standing uncertainty, have offering prices. number of below optimal suppress buying Position | compared to India, but particularly remained generally Furthermore, the recycling facilities capacity, as interest. (October 2025) | is surrounding the consistent, market's that hold regulatory |
+
+Gadani
+
+Pakistan currently maintains a slightly better standing compared to India, but is significantly hindered by prevailing economic uncertainty, particularly surrounding the pending tranche from the IMF. While prices for local steel and finished products have remained generally consistent, recyclers have preemptively reduced their offering prices. Furthermore, the market's operational capacity is restricted by the limited number of recycling facilities that hold the provisional DASR. Yards are operating well below optimal capacity, as regulatory issues and scarcity of tonnage continue to suppress buying interest. Anchorage & Beaching Position (October 2025)
+
 |  |  |  |  |  |
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
 | - | - | - | - | - |

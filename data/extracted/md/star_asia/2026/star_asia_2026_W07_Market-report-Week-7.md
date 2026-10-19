@@ -246,8 +246,15 @@ Anchorage & Beaching Position (FEBRUARY 2026)
 | HAKATA | TANKER | 353 | 29.01.2026 | 04.02.2026 |
 | CHANG MING YANG | BULKER | 19,529 | 31.01.2026 | 04.02.2026 |
 | HONG LI | BULKER | 6,132 Gadani | 26.01.2026 | 03.02.2026 |
-| Gadani has maintained interest from a few active there is a noticeable recyclers have shown a final outcome of several by a significant needed boost for the standing slump. Overall demand for recycled maintain their current offer destination for end-of-life Anchorage | a steady position buyers who continue shortage of new willingness to engage units that were improvement in domestic industry as local steel The local currency material remains levels and solidify vessels. & Beaching | throughout to search vessels entering at competitive recently beached. fundamentals, plate prices further supported healthy, Gadani's Position | this week, driven by for available tonnage. the global market, levels as they This resilience is which acted as finally broke through this positive allowing ship recyclers reputation as a reliable (FEBRUARY 2026) | targeted Although Pakistani wait for the largely fueled a much- a long- trend. to |
+
+Gadani
+
+Gadani has maintained a steady position throughout this week, driven by targeted interest from a few active buyers who continue to search for available tonnage. Although there is a noticeable shortage of new vessels entering the global market, Pakistani recyclers have shown a willingness to engage at competitive levels as they wait for the final outcome of several units that were recently beached. This resilience is largely fueled by a significant improvement in domestic fundamentals, which acted as a much- needed boost for the industry as local steel plate prices finally broke through a long- standing slump. The local currency further supported this positive trend.
+
+Overall demand for recycled material remains healthy, allowing ship recyclers to maintain their current offer levels and solidify Gadani's reputation as a reliable destination for end-of-life vessels. Anchorage & Beaching Position (FEBRUARY 2026)
+
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
 | - | - | - | - | - |
 
 ## Page 16
@@ -306,9 +313,10 @@ The copper market is currently experiencing a notable cooling period following a
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 100 -2.91% -4.76% 103 105 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 100 -2.91% -9.09% 103 110 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 575.75 -2.80 -0.48% Mar 2026 3Mo Copper (L.M.E.) USD / MT 12,875.50 -291.00 -2.21% N/A 3Mo Aluminum (L.M.E.) USD / MT 3,100.00 -3.00 -0.10% N/A 3Mo Zinc (L.M.E.) USD / MT 3,374.00 -32.50 -0.95% N/A 3Mo Tin (L.M.E.) USD / MT 49,663.00 +28.00 +0.06% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 62.82 -0.02 -0.06% Mar 2026 Brent Crude (ICE.) USD / bbl. 67.65 +0.13 +0.19% Apr 2026 Crude Oil (Tokyo) JPY / kl 65,460.00 -590.00 -0.89% Feb 2026 Natural Gas (Nymex) USD / MMBtu 3.17 -0.05 -1.55% Mar 2026 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 100 | -2.91% | -4.76% | 103 | 105 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 100 | -2.91% | -9.09% | 103 | 110 |
 
 ### Industrial Metal Rates
 

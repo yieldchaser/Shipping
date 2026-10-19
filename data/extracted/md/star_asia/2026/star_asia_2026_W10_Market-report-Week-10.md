@@ -226,8 +226,13 @@ Anchorage & Beaching Position (MARCH 2026)
 | ANTAR |  | GENERAL CARGO | 3,675 | 25.02.2026 | AWAITING |
 | GHADA A |  | GENERAL CARGO | 2,240 | 28.02.2026 | 06.03.2026 |
 | MOKHIA |  | CONTAINER | 25,536 Chattogram | 25.02.2026 | 02.03.2026 |
-| Bangladesh has entered the overall market surge in high-profile nearing 20,000 LDT large LNG carrier to Despite these deliveries, major escalating coming weeks. Local offers, as Bangladesh rates in the sub-continent. backdrop, where the inflows this February | sentiment and her conflict Anchorage | a quieter phase as remains deliveries, highlighted several smaller dry new recycling owners. the market is bracing in the Middle East recyclers currently see already maintains a Supporting this country celebrated a compared to the previous & Beaching | the observance remarkably steady. by the arrival of units, alongside for a potential is expected to no immediate leading position industrial stability significant 22% year. Position | of Ramadan This week featured a massive bulk the successful period of tightening; limit tonnage pressure to improve with the most is a robust increase in foreign (MARCH 2026) | begins, though a notable carrier handover of a the availability in the their competitive macroeconomic exchange |
+
+Chattogram
+
+Bangladesh has entered a quieter phase as the observance of Ramadan begins, though the overall market sentiment remains remarkably steady. This week featured a notable surge in high-profile deliveries, highlighted by the arrival of a massive bulk carrier nearing 20,000 LDT and several smaller dry units, alongside the successful handover of a large LNG carrier to her new recycling owners. Despite these deliveries, the market is bracing for a potential period of tightening; the major escalating conflict in the Middle East is expected to limit tonnage availability in the coming weeks. Local recyclers currently see no immediate pressure to improve their offers, as Bangladesh already maintains a leading position with the most competitive rates in the sub-continent. Supporting this industrial stability is a robust macroeconomic backdrop, where the country celebrated a significant 22% increase in foreign exchange inflows this February compared to the previous year. Anchorage & Beaching Position (MARCH 2026)
+
 | VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|---|
 | QUARTZ |  | TANKER | 9,453 | 26.02.206 | AWAITING |
 | SIRRAH |  | BULKER | 7,071 | 15.02.2026 | AWAITING |
 | SAGE SAGITTARUS |  | BULKER | 19,943 | 25.02.2026 | 05.03.2026 |

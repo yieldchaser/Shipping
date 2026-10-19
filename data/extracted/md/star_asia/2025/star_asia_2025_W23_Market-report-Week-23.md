@@ -316,9 +316,10 @@ concerns and robust Chinese demand. Inventories on the London Metal Exchange (LM
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 96 -1.03% -11.92% 97 109 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 95 0 -14.41% 95 111 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 483.10 -10.20 -2.07% Jul 2025 3Mo Copper (L.M.E.) USD / MT 9,739.50 +118.00 +1.23% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,478.00 -5.00 -0.20% N/A 3Mo Zinc (L.M.E.) USD / MT 2,686.00 -15.50 -0.57% N/A 3Mo Tin (L.M.E.) USD / MT 32,561.00 +543.00 +1.70% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 96 | -1.03% | -11.92% | 97 | 109 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 95 | 0 | -14.41% | 95 | 111 |
 
 ### Industrial Metal Rates
 

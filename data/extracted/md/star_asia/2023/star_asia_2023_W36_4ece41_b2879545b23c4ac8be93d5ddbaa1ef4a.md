@@ -333,9 +333,10 @@ The financial markets experienced a mixed performance as weak economic data was 
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 118 +2.6% +22.9% 115 96 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 115 +0.87% +17.3% 114 98 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 373.00 -3.20 -0.85% Dec 2023 3Mo Copper (L.M.E.) USD / MT 8,321.00 -50.50 -0.60% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,196.00 +2.50 +0.11% N/A 3Mo Zinc (L.M.E.) USD / MT 2,479.50 +16.50 +0.67% N/A 3Mo Tin (L.M.E.) USD / MT 26,085.00 -185.00 -0.70% N/A |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 118 | +2.6% | +22.9% | 115 | 96 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 115 | +0.87% | +17.3% | 114 | 98 |
 
 ### Industrial Metal Rates
 

@@ -313,9 +313,10 @@ Iron ore prices have tumbled to their weakest level in nine months, dropping bel
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 93 -2.10% -13.08% 95 107 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 92 -2.12% -15.59% 94 109 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 488.45 -2.15 -0.44% Sep 2025 3Mo Copper (L.M.E.) USD / MT 9,633.50 +18.50 +0.19% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,549.50 +28.00 +1.11% N/A 3Mo Zinc (L.M.E.) USD / MT 2,630.50 -10.00 -0.38% N/A 3Mo Tin (L.M.E.) USD / MT 32,683.00 +674.00 +2.11% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 74.93 -0.21 -0.28% Aug 2025 Brent Crude (ICE.) USD / bbl. 77.01 -1.84 -2.33% Aug 2025 Crude Oil (Tokyo) J.P.Y. / kl 64,050.00 -350.00 -0.54% Jun 2025 Natural Gas (Nymex) USD / MMBtu 3.85 -0.14 -3.56% Jul 2025 |
+| COMMODITY (USD/MT) | SIZE / GRADE | THIS WEEK | W-O-W | Y-O-Y | LAST WEEK | LAST YEAR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 93 | -2.10% | -13.08% | 95 | 107 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 92 | -2.12% | -15.59% | 94 | 109 |
 
 ### Industrial Metal Rates
 
