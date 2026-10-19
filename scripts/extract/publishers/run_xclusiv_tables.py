@@ -775,6 +775,76 @@ def enrich_secondhand_from_text(doc: pymupdf.Document, sh_prices: List[Dict[str,
             rec["printed_vals"] = r["vals"]
 
 
+_NB_NOTE = re.compile(r"Above prices/trends refer to [^\n]*?shipbuilding")
+
+
+def _parse_newbuilding_text(page_text: str, types: List[str]) -> Optional[Dict[str, Any]]:
+    """The 2024+ newbuilding box from the page text: per type this month, same month last year, ±% and
+    three yearly averages (the same layout as the secondhand box)."""
+    m = re.search(_SH_MONTHS, page_text)
+    yrs = re.search(r"(?m)^\s*(\d{4})\s*\n\s*(\d{4})\s*\n\s*(\d{4})\s*$", page_text)
+    if not m or not yrs:
+        return None
+    lines = [x.strip() for x in page_text.splitlines()]
+    rows: Dict[str, List[str]] = {}
+    for vt in types:
+        if vt not in lines:
+            return None
+        vals: List[str] = []
+        for ln in lines[lines.index(vt) + 1:]:
+            toks = [t for t in ln.split() if _SH_NUM.match(t)]
+            if ln and not toks:
+                break
+            vals += toks[: 6 - len(vals)]
+            if len(vals) == 6:
+                break
+        rows[vt] = vals
+    return {"cur": f"{m.group(1)} {m.group(2)}", "prev": f"{m.group(3)} {m.group(4)}",
+            "avg": [yrs.group(1), yrs.group(2), yrs.group(3)], "rows": rows}
+
+
+def enrich_newbuilding_from_text(doc: pymupdf.Document, nb_prices: List[Dict[str, Any]]) -> List[str]:
+    """Add the five printed columns next to each newbuilding price; return the printed notes
+    ("Above prices/trends refer to Chinese shipbuilding"). Applied per sector only when every row's
+    current price equals the existing extraction, so a value can never change, only be joined by the printed ones."""
+    page = next((pg.get_text() for pg in doc if "NEWBUILDING" in pg.get_text().upper()
+                 and "PRICES" in pg.get_text().upper() and "Average Prices" in pg.get_text()), None)
+    if not page:
+        return []
+    for sector in ("Dry", "Tanker"):
+        recs = [r for r in nb_prices if r.get("sector") == sector]
+        parsed = _parse_newbuilding_text(page, [r["vessel_type"] for r in recs]) if recs else None
+        if not parsed:
+            continue
+        if not all(len(parsed["rows"][r["vessel_type"]]) == 6 and r.get("price_usd_mill") is not None
+                   and not parsed["rows"][r["vessel_type"]][0].endswith("%")
+                   and abs(float(parsed["rows"][r["vessel_type"]][0]) - float(r["price_usd_mill"])) < 1e-6
+                   for r in recs):
+            continue
+        for r in recs:
+            r["printed_cols"] = [parsed["cur"], parsed["prev"], "±%"] + [f"Avg {y}" for y in parsed["avg"]]
+            r["printed_vals"] = parsed["rows"][r["vessel_type"]]
+    return _NB_NOTE.findall(page)
+
+
+def render_newbuilding_prices(nb_prices: List[Dict[str, Any]], notes: List[str]) -> List[str]:
+    lines = ["### Indicative Newbuilding Prices ($ mills)", ""]
+    if nb_prices and all(n.get("printed_vals") for n in nb_prices) and \
+            len({tuple(n["printed_cols"]) for n in nb_prices}) == 1:
+        lines.append("| Sector | Vessel Type | " + " | ".join(nb_prices[0]["printed_cols"]) + " |")
+        lines.append("|" + "---|" * (2 + len(nb_prices[0]["printed_cols"])))
+        for n in nb_prices:
+            lines.append(f"| {n.get('sector', '')} | {n.get('vessel_type', '')} | " + " | ".join(n["printed_vals"]) + " |")
+    else:
+        lines += ["| Sector | Vessel Type | Price ($M) |", "|---|---|---|"]
+        for n in nb_prices:
+            lines.append(f"| {n.get('sector', '')} | {n.get('vessel_type', '')} | ${n.get('price_usd_mill', '')}M |")
+    lines.append("")
+    if notes:
+        lines += [f"*{x}*" for x in notes] + [""]
+    return lines
+
+
 def extract_secondhand_prices(
     doc: pymupdf.Document, issue_date: str, report_week: int, source_file: str
 ) -> List[Dict[str, Any]]:
@@ -1351,6 +1421,7 @@ def generate_markdown(
     sales: List[Dict[str, Any]],
     demo_prices: List[Dict[str, Any]],
     demo_sales: List[Dict[str, Any]],
+    nb_notes: Optional[List[str]] = None,
 ) -> str:
     year = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
     max_useful = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
@@ -1437,15 +1508,7 @@ def generate_markdown(
     ])
     
     if nb_prices:
-        lines.extend([
-            "### Indicative Newbuilding Prices ($ mills)",
-            "",
-            "| Sector | Vessel Type | Price ($M) |",
-            "|---|---|---|",
-        ])
-        for np in nb_prices:
-            lines.append(f"| {np.get('sector', '')} | {np.get('vessel_type', '')} | ${np.get('price_usd_mill', '')}M |")
-        lines.append("")
+        lines.extend(render_newbuilding_prices(nb_prices, nb_notes or []))
         
     if nb_orders:
         lines.extend([
@@ -1645,6 +1708,7 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
     enrich_secondhand_from_text(doc, sh_prices)
     nb_orders = extract_newbuilding_orders(doc, issue_date, report_week, pdf_path.name)
     nb_prices = extract_newbuilding_prices(doc, issue_date, report_week, pdf_path.name)
+    nb_notes = enrich_newbuilding_from_text(doc, nb_prices)
 
     max_useful = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
 
@@ -1674,7 +1738,7 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
         stem, pdf_path, doc, issue_date, report_week,
         editorial_title, nutshell, commentary, baltic, freight,
         nb_prices, nb_orders, sh_prices, dry_act, wet_act,
-        sales, demo_prices, demo_sales
+        sales, demo_prices, demo_sales, nb_notes
     )
 
     year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"

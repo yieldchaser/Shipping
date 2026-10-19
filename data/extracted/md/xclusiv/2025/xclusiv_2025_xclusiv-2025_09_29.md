@@ -99,6 +99,9 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week lower by 1.2k/
 | Tanker | Panamax | $59.2M |
 | Tanker | MR2 | $49.2M |
 
+*Above prices/trends refer to Chinese shipbuilding*
+*Above prices/trends refer to S. Korean shipbuilding*
+
 ### Newbuilding Orders
 
 | Type | Units | Size | Yard | Buyer | Price | Delivery | Comments |

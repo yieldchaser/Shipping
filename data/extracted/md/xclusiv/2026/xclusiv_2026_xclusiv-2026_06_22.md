@@ -90,17 +90,20 @@ Products: The LR2 route (TC1) Middle East Japan is this week higher by 0.2k/day 
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Price ($M) |
-|---|---|---|
-| Dry | Capesize | $75.5M |
-| Dry | Kamsarmax | $37.5M |
-| Dry | Ultramax | $34.5M |
-| Dry | Handysize | $30.5M |
-| Tanker | VLCC | $131.5M |
-| Tanker | Suezmax | $89.8M |
-| Tanker | Aframax | $75.0M |
-| Tanker | Panamax | $61.0M |
-| Tanker | MR2 | $52.0M |
+| Sector | Vessel Type | Jun 2026 | Jun 2025 | ±% | Avg 2028 | Avg 2026 | Avg 2025 |
+|---|---|---|---|---|---|---|---|
+| Dry | Capesize | 75.5 | 74.0 | 2% | 75.0 | 74.2 | 73.2 |
+| Dry | Kamsarmax | 37.5 | 36.5 | 3% | 36.8 | 36.6 | 37.5 |
+| Dry | Ultramax | 34.5 | 33.5 | 3% | 34.1 | 33.9 | 35.1 |
+| Dry | Handysize | 30.5 | 30.0 | 2% | 29.9 | 29.8 | 31.0 |
+| Tanker | VLCC | 131.5 | 125.3 | 5% | 129.8 | 126.6 | 129.4 |
+| Tanker | Suezmax | 89.8 | 87.4 | 3% | 88.2 | 87.5 | 87.6 |
+| Tanker | Aframax | 75.0 | 73.1 | 3% | 74.0 | 73.0 | 72.7 |
+| Tanker | Panamax | 61.0 | 59.0 | 3% | 58.7 | 59.5 | 60.2 |
+| Tanker | MR2 | 52.0 | 48.5 | 7% | 50.5 | 49.3 | 50.2 |
+
+*Above prices/trends refer to Chinese shipbuilding*
+*Above prices/trends refer to S. Korean shipbuilding*
 
 ### Newbuilding Orders
 
