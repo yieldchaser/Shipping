@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-16T15:55:24.820685+00:00",
-  "brief_date": "2026-10-16",
+  "generated_at": "2026-10-19T17:05:04.554436+00:00",
+  "brief_date": "2026-10-19",
   "constituent_holdings": {
     "bdry": {
       "prompt_contract": {
         "name": "Capesize 5TC FFA 180kt Timecharter Average M Dec 26",
         "ticker": "C5TCM Z26 INDEX",
         "lots": 140.0,
-        "price": 35439.0,
-        "market_value": 4961460.0,
-        "weight": 18.48
+        "price": 34004.0,
+        "market_value": 4760560.0,
+        "weight": 18.22
       },
       "next_contract": {
         "name": "Capesize 5TC FFA 180kt Timecharter Average M Nov 26",
         "ticker": "C5TCM X26 INDEX",
         "lots": 140.0,
-        "price": 33439.0,
-        "market_value": 4681460.0,
-        "weight": 17.44
+        "price": 31964.0,
+        "market_value": 4474960.0,
+        "weight": 17.13
       },
-      "implied_roll_yield_pct": 5.64,
+      "implied_roll_yield_pct": 6.0,
       "curve_regime": "BACKWARDATION_CARRY",
-      "holding_bet_summary_30d": "30-Day Hold: Direct bet on Capesize 5TC FFA 180kt Timecharter Average M Dec 26 settling above $35,439/day with 5.6% monthly backwardation carry.",
-      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 16.9% cumulative 3-month backwardation carry.",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on Capesize 5TC FFA 180kt Timecharter Average M Dec 26 settling above $34,004/day with 6.0% monthly backwardation carry.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 18.0% cumulative 3-month backwardation carry.",
       "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
       "total_active_contracts": 15
     },
@@ -30,23 +30,23 @@
       "prompt_contract": {
         "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26",
         "ticker": "DD3CM X26 INDEX",
-        "lots": 297.0,
-        "price": 262.858,
-        "market_value": 78068826.0,
-        "weight": 26.05
+        "lots": 277.0,
+        "price": 227.156,
+        "market_value": 62922212.0,
+        "weight": 25.94
       },
       "next_contract": {
-        "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Dec 26",
-        "ticker": "DD3CM Z26 INDEX",
-        "lots": 307.0,
-        "price": 240.571,
-        "market_value": 73855297.0,
-        "weight": 24.65
+        "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Oct 26",
+        "ticker": "DD3CM V26 INDEX",
+        "lots": 242.0,
+        "price": 255.649,
+        "market_value": 61867058.0,
+        "weight": 25.5
       },
-      "implied_roll_yield_pct": 8.48,
-      "curve_regime": "BACKWARDATION_CARRY",
-      "holding_bet_summary_30d": "30-Day Hold: Direct bet on TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26 settling above WS 262.9 (~$262,858/d) with 8.5% monthly backwardation carry.",
-      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 25.4% cumulative 3-month backwardation carry.",
+      "implied_roll_yield_pct": -12.54,
+      "curve_regime": "CONTANGO_DRAG",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26 settling above WS 227.2 (~$227,156/d) with 12.5% monthly contango drag.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 37.6% cumulative 3-month contango drag.",
       "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
       "total_active_contracts": 12
     }
@@ -69,7 +69,7 @@
     ]
   },
   "executive_tldr": [
-    "Regime Split: Dry Bulk is in Neutral while Tankers exhibit Bull Confluence. Tankers outperform Dry Bulk on quantitative velocity (Z-differential -3.70σ), favoring energy freight over industrial dry bulk.",
+    "Regime Split: Dry Bulk is in Neutral while Tankers exhibit Bull Confluence. Tankers outperform Dry Bulk on quantitative velocity (Z-differential -3.48σ), favoring energy freight over industrial dry bulk.",
     "Tactical Desk Strategy: Overweight Dirty Tankers (BDTI/VLCC) relative to Dry Bulk on resilient crude flows.",
     "Catalyst & Risk Boundary: Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment. Invalidation Trigger: A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime."
   ],
@@ -120,22 +120,22 @@
       "roc60": 11.59
     },
     "clean_tanker": {
-      "value": 2522.0,
-      "z_score_252d": 2.235,
+      "value": 2538.0,
+      "z_score_252d": 2.237,
       "pctl_5y": 1.0,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1489.3,
-      "roc60": 90.2
+      "ma200": 1498.3,
+      "roc60": 89.12
     },
     "dirty_tanker": {
-      "value": 7727.0,
-      "z_score_252d": 3.683,
-      "pctl_5y": 0.996,
+      "value": 7556.0,
+      "z_score_252d": 3.464,
+      "pctl_5y": 0.994,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 2840.6,
-      "roc60": 221.96
+      "ma200": 2872.4,
+      "roc60": 202.0
     }
   },
   "vessel_classes": {
@@ -171,12 +171,12 @@
       "momentum_grade": "STRONG_UP",
       "positioning_bias": "LONG",
       "confidence_score": 0.8,
-      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+2.96sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
-      "summary": "Tanker is in expansion regime at 2522.0, with z-score +2.96sigma and ROC60 +90.2%. Recent analyst sentiment skews positive (positive:4, neutral:2). Quant momentum and analyst signals align bullishly for tanker (Z=+2.96sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+2.85sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "summary": "Tanker is in expansion regime at 2538.0, with z-score +2.85sigma and ROC60 +89.1%. Recent analyst sentiment skews positive (positive:4, neutral:2). Quant momentum and analyst signals align bullishly for tanker (Z=+2.85sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
       "key_signals": [
-        "Quant: CLEAN_TANKER value=2522.0, z=+2.96sigma, 5Y percentile=100.0%.",
+        "Quant: CLEAN_TANKER value=2538.0, z=+2.85sigma, 5Y percentile=100.0%.",
         "Qual: last 6 reports sentiment mix -> positive:4, neutral:2.",
-        "Cross-check: DIRTY_TANKER value=7727.0, z=+3.68sigma.",
+        "Cross-check: DIRTY_TANKER value=7556.0, z=+3.46sigma.",
         "Latest report 2026-10-06: momentum=negative, fundamentals=positive."
       ],
       "trade_idea": "Long DIRTY_TANKER vs CLEAN_TANKER spread to capture dirty tanker momentum outperformance.",
@@ -196,7 +196,7 @@
   },
   "macro_note": "Cross-sector signals are mixed with no broad confluence across dry bulk and tanker segments.",
   "cross_sector_analysis": {
-    "relative_value": "Tankers outperform Dry Bulk on quantitative velocity (Z-differential -3.70σ), favoring energy freight over industrial dry bulk.",
+    "relative_value": "Tankers outperform Dry Bulk on quantitative velocity (Z-differential -3.48σ), favoring energy freight over industrial dry bulk.",
     "dominant_driver": "Global industrial commodity restocking cycles and regional geopolitical rerouting across key maritime choke points.",
     "positioning_recommendation": "Overweight Dirty Tankers (BDTI/VLCC) relative to Dry Bulk on resilient crude flows."
   },
