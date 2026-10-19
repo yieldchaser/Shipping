@@ -2,7 +2,7 @@
 
 This dossier provides a comprehensive architectural audit and comparative reference detailing the two distinct data and retrieval systems within this repository:
 1. **The Earlier Simple Document RAG System (`knowledge/`)**: A classical, flat document chunking, BM25-indexed, and regex-signal knowledge base built by [`scripts/process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py). This system directly powers the live dashboard ([`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html)), client-side search, and the automated daily brief compiler ([`generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/generate_brief.py)).
-2. **The New Canonical Data Foundation (`corpus/` and `data/extracted/`)**: An immutable, complete raw data lake organizing all maritime intelligence into 10 structured namespaces, accompanied by cover-to-cover Markdown extractions ([`data/extracted/md/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/)) and over 60 stacked relational time-series datasets ([`data/extracted/series/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/)). This layer serves as the verified data substrate upon which future Graph RAG systems will be built.
+2. **The New Canonical Data Foundation (`corpus/` and `data/extracted/`)**: An immutable, complete raw data lake organizing all maritime intelligence into 10 structured namespaces, accompanied by cover-to-cover Markdown extractions ([`data/extracted/md/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/)) and over 60 stacked relational time-series datasets ([`data/extracted/series/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/)). This layer, together with `corpus/10-companies/` and `corpus/books/`, is the input to the Graph RAG build. `knowledge/` remains the legacy dashboard system and is not rebuilt for Graph RAG.
 
 ---
 
@@ -396,7 +396,7 @@ To eliminate any ambiguity prior to constructing the Graph RAG knowledge graph, 
 | **3. Graphic & Tabular Images** | `.png` / `.jpg` / `.jpeg` | Alibra Dry/Tanker TC tables (`02-hellenic/dry_charter/`, `tanker_charter/`), VesselsValue valuation matrices (`02-hellenic/vessel_valuations/`), Cash Buyer port queue diagrams (`02-hellenic/demolition/`), MMi/SMM iron ore infographics (`02-hellenic/iron_ore/`), Breakwave macro curves (`03-breakwave/insights/`) | Localized image downloads referenced in HTML/PDFs | Co-located with parent HTML in `corpus/` | Cropped 200 DPI artifacts in [`data/extracted/charts/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/charts/) + digitized coordinate series CSVs |
 | **4. Native Web / API Markdown** | `.md` (Raw Scraped Text) | Baltic Exchange Market Reports (`08-baltic/`: dry, tanker, gas, container, ningbo), Drewry Opinions (`06-drewry/opinions/`), Breakwave Insights (`03-breakwave/insights/`), Fearnleys Broker Voice (`01-brokers/fearnleys/voice/`), Shipbroker Digests (`01-brokers/_digests/`) | Scraped directly from web publisher CMS or GraphQL Hasura API feeds as clean text | `corpus/<namespace>/<category>/<year>/*.md` | Native Markdown in `corpus/` and mirrored in [`data/extracted/md/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/) |
 | **5. Statutory Regulatory Filings (SEC2MD)** | `.md` with YAML Frontmatter | SEC EDGAR Corporate Filings (`10-companies/`: 26 listed shipping and dry bulk issuers) | Ingested via `edgartools` and converted cover-to-cover via `sec2md` with YAML headers | `corpus/10-companies/<TICKER>/<FORM>/*.md` | Self-contained, publication-grade Markdown directly in `corpus/10-companies/` |
-| **6. Academic Reference Works** | Dual `.pdf` and `.md` | Maritime Literature (`books/`: 12 foundational textbooks) | High-resolution publication PDFs paired with hand-curated, LaTeX math-normalized Markdown | `corpus/books/*.pdf` and `corpus/books/*.md` | Mirrored with 100% byte parity in `knowledge/docs/books/` |
+| **6. Academic Reference Works** | Dual `.pdf` and `.md` | Maritime Literature (`books/`: 12 foundational textbooks) | High-resolution publication PDFs paired with hand-curated, LaTeX math-normalized Markdown | `corpus/books/*.pdf` and `corpus/books/*.md` | `corpus/books/*.md` is the Graph RAG input. `knowledge/docs/books/` is a legacy copy for the `knowledge/` system only and is not kept in parity |
 
 ### 5.2 Clarifying the Separation: `corpus/` vs `data/extracted/`
 * **`corpus/` is the Immutable Raw Data Lake (Ground Truth Archive)**:
@@ -413,16 +413,48 @@ When designing and executing the Graph RAG builder (entity resolution, node extr
 1. **Textual Node & Unstructured Prose Ingestion**:
    - Ingest **all Markdown files from [`data/extracted/md/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/)** across all broker houses, Poten opinions, Drewry AIS, Seabrokers, and Hellenic categories.
    - Ingest **native text Markdown files from [`corpus/10-companies/`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/)** (SEC corporate filings), [`corpus/03-breakwave/insights/`](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/) (macro research articles), [`corpus/08-baltic/`](file:///c:/Users/Dell/Github/Shipping/corpus/08-baltic/) (official Baltic assessments), and [`corpus/books/`](file:///c:/Users/Dell/Github/Shipping/corpus/books/) (theoretical ground truth).
-   - *Result*: The Graph RAG pipeline does **not** need to invoke PDF OCR, parse HTML tags, or decode encrypted fonts; all text is already 100% normalized, dehyphenated, and cover-to-cover in clean Markdown with YAML frontmatter.
+   - *Result*: The Graph RAG pipeline does **not** need to invoke PDF OCR, parse HTML tags, or decode encrypted fonts. The text is in Markdown with YAML frontmatter. Known by-design exclusions and open residuals are listed in §5.4.
+   - `knowledge/` (including `knowledge/docs/books/`) is the legacy dashboard system and is **not** a Graph RAG input.
 
 2. **Entity Resolution & Typed Edge Grounding via Relational Series**:
-   - Ground knowledge graph entities and edges directly against the **98 stacked CSV files in [`data/extracted/series/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/)** (over 273,000 structured rows):
+   - Ground knowledge graph entities and edges directly against the **stacked CSV files in [`data/extracted/series/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/)** (165 files as of 2026-10-19):
      - **Vessel Nodes**: Use `vessel_name` and verified 7-digit `imo` numbers from `bancosta_sales_series.csv`, `clarksons_sales_series.csv`, `intermodal_sales_series.csv`, `xclusiv_sales_series.csv`, and `advanced_shipping_sales_series.csv`.
      - **Commercial Edges (`REPORTED_SOLD`, `CHARTERED_BY`, `BEACHED_AT`)**: Extract price, buyer, seller, delivery terms, and scrap rates directly from transaction series (`star_asia_deals_series.csv`, `hellenic_athenian_demolition_series.csv`, `hellenic_gms_demolition_series.csv`, `carriers_sales_series.csv`, `lion_sales_series.csv`).
      - **Temporal Properties**: Every relational row is stamped with strict ISO `issue_date` (`YYYY-MM-DD`) and `report_week`, providing uniform time-series anchoring across graph edges.
 
 3. **Structured Table Sidecars (`*.tables.json`)**:
-   - Each Markdown document in `data/extracted/md/` is paired with an identical-stem `.tables.json` file. Use these JSON sidecars to extract table schemas and cell values programmatically without relying on regex or fragile markdown table parsing.
+   - Where a Markdown document in `data/extracted/md/` has an identical-stem `.tables.json` file, use it to read table cells programmatically. Coverage is partial: 6,064 of 19,149 MDs (2026-10-19). There are none for Breakwave, ISM or the Hellenic MMI iron-ore PDFs, and only some for Baltic, Drewry, Fearnleys and Signal. For those, the Markdown tables and the series CSVs are the structured source.
+
+### 5.4 Pre-Graph RAG Audit Status (2026-10-19)
+
+**Graph RAG inputs:** `data/extracted/md/`, `corpus/10-companies/`, and `corpus/books/`.
+
+**Method.** Stratified page sampling per publisher (random years, oldest to latest) was compared side by side against Nace parses and page renders. Each gap was then measured across the whole publisher and fixed from PDF geometry. A section is rewritten only where its content differs from the PDF.
+
+**Defects fixed in this pass (each commit message records the details):**
+- Intermodal: secondhand sales tables.
+- Star Asia: recycling tables, anchorage commentary, iron-ore tables.
+- Breakwave Dry Bulk: 161 Fundamentals tables.
+- Clarksons Hellas: 132 market boxes.
+- Advanced Shipping: 221 vessel-table MDs.
+- Xclusiv: the commodities/FX/bunkers/commentary page was missing from all 263 MDs.
+- Seabrokers: 2018-12.
+- Hellenic MMI: normalisation differentials, PB Fines ports and index spreads (1,120 MDs).
+- The matching series were re-derived.
+
+**By-design exclusions (not defects):**
+- Carriers: the Greek equities page.
+- Advanced Shipping: the final FX/stock/contact pages.
+- Intermodal: the final market page.
+- Fearnleys rate cards and S&P (these come from the Fearnpulse API).
+- Xclusiv: the final contacts/disclaimer page.
+
+**Open residuals:**
+- Lloyd's Maritime Atlas: distance matrices not extracted (copyrighted book; flagged, not reproduced).
+- Intermodal: 23 MDs with "(en bloc)" rows.
+- Advanced Shipping: 15 vessel tables kept in their previous form, because re-extraction would lose cells (2023 W31/W34–W37, W16; 2024 W40, W43/W44; 2025 W17; 2026 W40 Gas).
+- Clarksons 2021-08-06: EUR/USD 1.12370 kept as printed.
+- Xclusiv: averages kept in the house format ("2021: x / 2020: y").
 
 
 
