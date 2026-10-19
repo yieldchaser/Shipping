@@ -100,7 +100,7 @@ def fetch_psa_data(years=(2025, 2026)):
 def upsert_to_minor_bulks(df_new: pd.DataFrame):
     if df_new.empty or not OUT.exists():
         return
-    df_old = pd.read_csv(OUT)
+    df_old = pd.read_csv(OUT, dtype={"period": str})   # blank periods would turn 202201 into 202201.0
     key = ["date", "commodity"]
     merged = pd.concat([df_old[~df_old.set_index(key).index.isin(df_new.set_index(key).index)], df_new])
     merged = merged.sort_values(["commodity", "date"]).reset_index(drop=True)

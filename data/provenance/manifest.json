@@ -2157,12 +2157,12 @@
       "fetch_method": "Multi-Source National Statistics Harvesters",
       "fetch_script": "scripts/scrapers/fetch_minor_bulks.py",
       "output_file": "data/commodities/minor_bulks_monthly.csv",
-      "row_count": 662,
+      "row_count": 667,
       "date_span": [
         "2013-01-01",
-        "2026-08-01"
+        "2026-09-01"
       ],
-      "last_fetched_utc": "2026-09-20T19:09:51.621251+00:00",
+      "last_fetched_utc": "2026-10-19T08:24:17.106091+00:00",
       "unit": "Tonnes / USD FOB/CIF",
       "is_derived": false,
       "derivation": null
@@ -2176,16 +2176,16 @@
       "fetch_method": "Official Monthly Production Press Releases Harvester",
       "fetch_script": "scripts/scrapers/fetch_world_steel_production.py",
       "output_file": "data/commodities/world_crude_steel_monthly.csv",
-      "row_count": 31,
+      "row_count": 32,
       "date_span": [
         "2024-01-01",
-        "2026-07-01"
+        "2026-08-01"
       ],
-      "last_fetched_utc": "2026-09-20T18:40:40.444254+00:00",
+      "last_fetched_utc": "2026-10-19T08:03:23.029596+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,
-      "notes": "Monthly world crude steel production across 70 reporting countries (~98% global output) spanning 2024-01-01 to 2026-07-01 (31 months). Key macro demand indicator for iron ore (Capesize) and coking coal (Panamax)."
+      "notes": "Monthly world crude steel production across 70 reporting countries (~98% global output) spanning 2024-01-01 to 2026-08-01 (32 months). Key macro demand indicator for iron ore (Capesize) and coking coal (Panamax)."
     },
     {
       "series_id": "commodities_argentina_grain_exports_monthly",
@@ -2207,5 +2207,12 @@
       "derivation": null,
       "notes": "Official Argentine agriculture ministry (MAGyP) grain shipments by port and terminal (2023\u20132026). Captures Up-River Parana (San Lorenzo, Rosario ~82%) vs Deepwater (Bahia Blanca, Necochea ~18%) Panamax and Handysize loading demand. Validated against Rosario Board of Trade (BCR)."
     }
-  ]
+  ],
+  "china_customs_monthly_imports": {
+    "source": "General Administration of Customs (GACC) / chinadata.live",
+    "last_updated": "2026-10-19T08:04:04.479311+00:00",
+    "latest_observation": "2026-08-01",
+    "rows_count": 968,
+    "status": "LIVE"
+  }
 }

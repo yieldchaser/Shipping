@@ -86,7 +86,7 @@ def fetch_month_row(year, month, hs="3102"):
 def upsert_to_minor_bulks(rows: list[dict]):
     if not rows or not OUT.exists():
         return
-    df_old = pd.read_csv(OUT)
+    df_old = pd.read_csv(OUT, dtype={"period": str})   # blank periods would turn 202201 into 202201.0
     df_new = pd.DataFrame(rows)
     key = ["date", "commodity"]
     merged = pd.concat([df_old[~df_old.set_index(key).index.isin(df_new.set_index(key).index)], df_new])

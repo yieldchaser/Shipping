@@ -142,8 +142,13 @@ jobs:
         if: always()
         run: python scripts/cargo/build_cargo_cache.py
 
+      # Reports (issue + final step) but never blocks the commit: when it did, every run from 2026-09-21 to
+      # 10-12 scraped new data, failed here, skipped the commit and threw the data away, so the feeds stayed
+      # stale and the guard kept failing.
       - name: Check Data Freshness Guard
+        id: step_freshness
         if: always()
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/verify/check_data_freshness.py --create-issue
@@ -163,11 +168,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-update upstream commodity flows, port congestion and ton-mile matrix [skip ci]"
-            for attempt in 1 2 3; do
-              git pull --rebase --autostash origin main && git push && break
-              echo "push attempt $attempt failed (concurrent commit); retrying..."
-              sleep 15
-            done
+            bash scripts/ci/push_rebase.sh
           fi
 
       - name: Report Scraper Health & Enforce Non-Silent Failures
@@ -215,3 +216,9 @@ jobs:
           else:
             print('All upstream commodity scrapers succeeded!')
           "
+
+      - name: Fail the run on stale datasets
+        if: always() && steps.step_freshness.outcome == 'failure'
+        run: |
+          echo "Freshness guard found stale datasets (see the Check Data Freshness Guard step and the data-freshness issue)."
+          exit 1

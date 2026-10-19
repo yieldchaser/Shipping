@@ -243,7 +243,7 @@ def run_minor_bulks_harvest():
 
     df_new = pd.DataFrame(records)
     if OUT_CSV.exists():
-        df_old = pd.read_csv(OUT_CSV)
+        df_old = pd.read_csv(OUT_CSV, dtype={"period": str})   # blank periods would turn 202201 into 202201.0
         if not df_new.empty:
             key = ["date", "commodity"]
             df = pd.concat([df_old[~df_old.set_index(key).index.isin(df_new.set_index(key).index)], df_new])

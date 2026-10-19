@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-09-20T18:40:40.374416+00:00",
+  "generated_at": "2026-10-19T08:03:22.986729+00:00",
   "publisher": "World Steel Association (worldsteel)",
   "coverage": "70 reporting countries (~98% of total world crude steel output)",
-  "total_monthly_points": 31,
+  "total_monthly_points": 32,
   "date_span": [
     "2024-01-01",
-    "2026-07-01"
+    "2026-08-01"
   ],
-  "latest_data_through": "2026-07-01",
+  "latest_data_through": "2026-08-01",
   "latest_observation": {
-    "date": "2026-07-01",
-    "world_total_mt": 149.2,
-    "china_mt": 76.9,
-    "india_mt": 14.4,
-    "united_states_mt": 7.4,
-    "japan_mt": 6.9
+    "date": "2026-08-01",
+    "world_total_mt": 144.2,
+    "china_mt": 74.6,
+    "india_mt": 14.8,
+    "united_states_mt": 7.3,
+    "japan_mt": 6.7
   },
   "shipping_transmission_mechanisms": {
     "iron_ore_demand": "Crude steel production determines seaborne iron ore consumption (1.6t ore per 1t steel)",
