@@ -50,6 +50,15 @@ Dry bulk market opened the final quarter of the year on a sturdy footing, with f
 | WoW: -13.92% | WoW: +2.19% | WoW: +1.40% | WoW: -1.09% |
 | YoY: +55.06% | YoY: +37.41% | YoY: +29.39% | YoY: +14.09% |
 
+### Vessel Values (USD Million)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| CAPESIZE | 180,000 | $76M | $82M | $71M | $56M (E) | $35M |
+| KAMSARMAX | 82,000 | $38M | $45M | $38M | $31M (E) | $25M |
+| ULTRAMAX | 64,000 | $35M | $44M | $38M (E) | $29M | $19M |
+| HANDY | 38,000 | $31M | $37M | $29M | $23M | $18M |
+
 ### Sale & Purchase - Reported Fixtures
 
 | VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
@@ -123,13 +132,14 @@ Tanker segments are contending with intense logistical friction as downstream su
 | EUROSPIRIT | VLCC | 320,105 | 2011 / S. KOREA | 153.0 | UNDISCLOSED |
 | SEA LEOPARD | VLCC | 159,331 | 2005 / S. KOREA | 169.0 | UNDISCLOSED |
 | NORDIC FREEDOM | SUEZ | 159,331 | 2005 / S. KOREA | 65.0 | UNDISCLOSED |
-| STI ELYSEES / STI VENETO | AFRA | 109,999 | 2014 / S. KOREA | 70.0 | 73.0 |
-| UNDISCLOSED JAG SPARROW | LR1 | 74,999 | 2005 / S. KOREA | 23.5 | UNDISCLOSED |
-| BLUEBIRD / STARLING | LR1 | 74,074 | 2016 / CHINA | 55.0 EACH | YA-SA |
-| CASTOR MARITIME MP MR TANKER 1 | MR | 49,999 | 2011 / S. KOREA | 30.0 | UNDISCLOSED |
+| STI ELYSEES / STI VENETO | AFRA | 109,999 | 2014 / S. KOREA | 70.0 73.0 | UNDISCLOSED |
+| JAG SPARROW | LR1 | 74,999 | 2005 / S. KOREA | 23.5 | UNDISCLOSED |
+| BLUEBIRD / STARLING | LR1 | 74,074 | 2016 / CHINA | 55.0 EACH | YA-SA SHIPMANAGEMENT |
+| GREEN PLANET | MR | 50,844 | 2014 / S. KOREA | 36.0 | CASTOR MARITIME |
+| MP MR TANKER 1 | MR | 49,999 | 2011 / S. KOREA | 30.0 | UNDISCLOSED |
 | STI DAMA | MR | 49,990 | 2014 / S. KOREA | 37.5 | TORO CORP |
 | PUFFIN PACIFIC | MR | 49,904 | 2020 / S. KOREA | 49.0 | UNDISCLOSED |
-| BOW VICTORY PROD / | CHEM | 21,193 | 2016 / JAPAN | 29.5 (STST) | UNDISCLOSED |
+| BOW VICTORY | PROD / CHEM | 21,193 | 2016 / JAPAN | 29.5 (STST) | UNDISCLOSED |
 
 ## Page 7
 
@@ -161,8 +171,8 @@ The container market experienced a slight retreat this week as the SCFI index fe
 
 | VESSEL | TYPE | TEU | YEAR / BUILT | PRICE (USD M) | BUYER |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| COSCO HAMBURG / COSCO FELIXSTOWE | POST PMAX | 5,518 | 2001 / JAPAN | 2002 / CHINA | 32.0 EACH |
-| UNDISCLOSED BLPL BLESSING | FEEDER | 1,030 | 2007 / SINGAPORE | 11.0 | SINGAPOREAN BUYERS |
+| COSCO HAMBURG / COSCO FELIXSTOWE | POST PMAX | 5,518 | 2001 / JAPAN 2002 / CHINA | 32.0 EACH | UNDISCLOSED |
+| BLPL BLESSING | FEEDER | 1,030 | 2007 / SINGAPORE | 11.0 | SINGAPOREAN BUYERS |
 
 ## Page 9
 
@@ -188,11 +198,7 @@ The container market experienced a slight retreat this week as the SCFI index fe
 
 *Turkey prices for non-EU ships. EU vessels approx. US$20-30/ton less.*
 
-All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
-
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages. • All prices are USD per light displacement tonnage in the long ton. • The prices reported are net prices offered by the recycling yards. • Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
 ### 5-Year Historical Average Prices (USD / LDT)
 
@@ -230,7 +236,9 @@ An active week of macroeconomic developments across India, led by the Reserve Ba
 | EVS | FISHING | 1,226 | 05.10.2026 | 09.10.2026 |
 | RIGHT | TANKER | 10,088 | 04.10.2026 | 07.10.2026 |
 
-**Chattogram, Bangladesh:** Chattogram witnessed an encouraging pickup in pace, with overall market activity firming as buyers actively pursued available tonnage. This heightened commercial interest stems primarily from the persistent shortage of international candidates, which has left yards competing closely for a limited pool of arrivals. With the rainy season giving way to the autumn dry period, local attention is shifting toward the upcoming operational window, when clearer weather traditionally lifts yard productivity and revives construction-driven steel demand. Data released this week by Bangladesh Bank revealed that gross foreign exchange reserves are held firmly at US$36.12 billion, standing at US$31.31 billion under the IMF's BPM6 accounting methodology, providing nearly six months of national import cover. This external liquidity has been reinforced by an impressive surge in expatriate remittances, which brought in over US$9.36 billion between July and early October, reflecting a 13.1% y-o-y increase through formal banking channels.
+**Chattogram, Bangladesh:** Chattogram witnessed an encouraging pickup in pace, with overall market activity firming as buyers actively pursued available tonnage. This heightened commercial interest stems primarily from the persistent shortage of international candidates, which has left yards competing closely for a limited pool of arrivals. With the rainy season giving way to the autumn dry period, local attention is shifting toward the upcoming operational window, when clearer weather traditionally lifts yard productivity and revives construction-driven steel demand.
+
+Data released this week by Bangladesh Bank revealed that gross foreign exchange reserves are held firmly at US$36.12 billion, standing at US$31.31 billion under the IMF's BPM6 accounting methodology, providing nearly six months of national import cover. This external liquidity has been reinforced by an impressive surge in expatriate remittances, which brought in over US$9.36 billion between July and early October, reflecting a 13.1% y-o-y increase through formal banking channels.
 
 ## Page 13
 
@@ -247,21 +255,27 @@ Even as headline consumer inflation ticked up slightly to 8.34% in September due
 | PHIL | BARGE | 3,543 | 28.09.2026 | 01.10.2026 |
 | MERC | TUG | 489 | 28.09.2026 | 01.10.2026 |
 
-**Gaddani, Pakistan:** Gadani experienced another quiet week, with overall conditions holding largely unchanged from the previous week. While buyers continue to show baseline interest in securing tonnage, their price indications remain noticeably behind those offered in Bangladesh, leaving Gadani unable to compete effectively for the very few candidates circulating on the open market. Downstream steel consumption across the country remains slow and unpredictable, giving recyclers little incentive to chase marginal or overpriced vessels that could erode operating margins. Serious buyers remain quietly alert, and well-maintained vessels can still attract constructive bids whenever owners are open to realistic negotiations. In its latest statistical release on October 8, the State Bank of Pakistan confirmed that official central bank foreign exchange reserves rose to US$21.45 billion, lifting the country's total liquid foreign currency reserves to nearly US$26.8 billion. In addition, fresh remittance figures released this week showed strong inflows from overseas workers, which have helped stabilise the Pakistani rupee near 278 per USD. With the central bank keeping its key policy rate anchored at 11.5% to balance growth against inflation, commercial lenders face no liquidity strain when establishing LCs.
+**Gaddani, Pakistan:** Gadani experienced another quiet week, with overall conditions holding largely unchanged from the previous week. While buyers continue to show baseline interest in securing tonnage, their price indications remain noticeably behind those offered in Bangladesh, leaving Gadani unable to compete effectively for the very few candidates circulating on the open market. Downstream steel consumption across the country remains slow and unpredictable, giving recyclers little incentive to chase marginal or overpriced vessels that could erode operating margins. Serious buyers remain quietly alert, and well-maintained vessels can still attract constructive bids whenever owners are open to realistic negotiations.
 
-### Gaddani Anchorage & Beaching Position - October 2026
+In its latest statistical release on October 8, the State Bank of Pakistan confirmed that official central bank foreign exchange reserves rose to US$21.45 billion, lifting the country's total liquid foreign currency reserves to nearly US$26.8 billion. In addition, fresh remittance figures released this week showed strong inflows from overseas workers, which have helped stabilise the Pakistani rupee near 278 per USD. With the central bank keeping its key policy rate anchored at 11.5% to balance growth against inflation, commercial lenders face no liquidity strain when establishing LCs.
+
+## Gaddani Anchorage & Beaching Position - October 2026
 
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
-| :--- | :---: | :---: | :---: | :---: |
+|---|---|---|---|---|
 | LINA F | BULKER | 5,688 | 28.09.2026 | 02.10.2026 |
 
-**Aliaga, Turkey:** Aliaga maintained an orderly and predictable footing, with indications holding steady and displaying very little day-to-day volatility. While price levels remain relatively firm, this quiet tone stems from subdued domestic re-rolling demand and selective mill appetite. Freshly released figures from the Turkish Statistical Institute showed annual consumer inflation retreating below the 30% mark to 29.73% in September, reinforcing the country's disinflation path. With the Central
+**Aliaga, Turkey:** Aliaga maintained an orderly and predictable footing, with indications holding steady and displaying very little day-to-day volatility. While price levels remain relatively firm, this quiet tone stems from subdued domestic re-rolling demand and selective mill appetite.
+
+Freshly released figures from the Turkish Statistical Institute showed annual consumer inflation retreating below the 30% mark to 29.73% in September, reinforcing the country's disinflation path. With the Central
 
 ## Page 14
 
 Bank of the Republic of Türkiye maintaining its benchmark one-week repo rate at 37% to anchor pricing expectations and protect against currency volatility, local commercial borrowing remains tight.
 
-## TIDE DATES 2026 | Chattogram: 09 ~ 12 October | 25 ~ 28 October Alang: 09 ~ 11 October | 8 ~ 31 October
+**TIDE DATES 2026 | Chattogram:** 09 ~ 12 October | 25 ~ 28 October
+
+**Alang:** 09 ~ 11 October | 8 ~ 31 October
 
 # SUB-CONTINENT & TURKEY SCRAP MARKETS
 

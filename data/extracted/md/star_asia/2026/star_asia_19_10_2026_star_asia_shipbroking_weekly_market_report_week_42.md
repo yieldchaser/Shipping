@@ -32,7 +32,7 @@ Dry bulk saw a correction at this week's closing, as the benchmark Baltic Dry In
 
 ## Segment Highlights
 
-**Capesize:** Capesize market experienced a pronounced 13.9% contraction, primarily weighed down by an acute lack of fresh Atlantic enquiry and a growing buildup of ballast tonnage across the basin. Spot earnings retreated sharply across all core benchmarks as miner participation lagged, driving T/A rates down to US$35,680's, Pacific R/V to US$29,000's and Brazil R/V to US$28,875's per day. Post-holiday trading in China should help establish a floor, though Atlantic overhang will likely cap any immediate recovery.
+**Capesize:** Capesize market experienced a pronounced 13 .9% contraction, primarily weighed down by an acute lack of fresh Atlantic enquiry and a growing buildup of ballast tonnage across the basin. Spot earnings retreated sharply across all core benchmarks as miner participation lagged, driving T/A rates down to US$35,680's, Pacific R/V to US$29,000's and Brazil R/V to US$28,875's per day. Post-holiday trading in China should help establish a floor, though Atlantic overhang will likely cap any immediate recovery.
 
 **Panamax / Kamsarmax:** Panamax traded broadly sideways, as localised tonnage tightness for October laycans across Indonesia and EC South America helped counteract expanding ballast lists and softer Pacific coal flows. Driven by prompt capacity shortages and steady North American grain fixtures, key route earnings advanced, with F/H rates rising to US$31,200's and Indonesian R/V surging to US$20,500's.
 
@@ -51,6 +51,15 @@ Dry bulk saw a correction at this week's closing, as the benchmark Baltic Dry In
 | 3,249 | 2,314 | 1,865 | 1,011 |
 | WoW: -25.14% | WoW: -4.54% | WoW: +2.81% | WoW: +1.51% |
 | YoY: +4.10% | YoY: +26.66% | YoY: +30.97% | YoY: +14.24% |
+
+### Vessel Values (USD Million)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| CAPESIZE | 180,000 | $76M | $82M | $71M | $56M (E) | $35M |
+| KAMSARMAX | 82,000 | $38M | $45M | $38M | $31M (E) | $25M |
+| ULTRAMAX | 64,000 | $35M | $44M | $38M (E) | $29M | $19M |
+| HANDY | 38,000 | $31M | $37M | $29M | $23M | $18M |
 
 ### Sale & Purchase - Reported Fixtures
 
@@ -154,8 +163,8 @@ SCFI index rose 0.42% on Friday to 3,679.58 points as transpacific rates held fi
 
 | VESSEL | TYPE | TEU | YEAR / BUILT | PRICE (USD M) | BUYER |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| TAIZHOU JIANXING JX4350TEU-10 | PMAX | 4,350 | 2027 / CHINA | 58.5 | SM LINE NEW DAYANG |
-| NDY2007 / NEW DAYANG NDY2008 | PMAX | 3,100 | 2028 / CHINA | 55.0 EACH | GREEK BUYERS |
+| TAIZHOU JIANXING JX4350TEU-10 | PMAX | 4,350 | 2027 / CHINA | 58.5 | SM LINE |
+| NEW DAYANG NDY2007 / NEW DAYANG NDY2008 | PMAX | 3,100 | 2028 / CHINA | 55.0 EACH | GREEK BUYERS |
 
 ## Page 9
 
@@ -181,11 +190,7 @@ SCFI index rose 0.42% on Friday to 3,679.58 points as transpacific rates held fi
 
 *Turkey prices for non-EU ships. EU vessels approx. US$20-30/ton less.*
 
-All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
-
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages. • All prices are USD per light displacement tonnage in the long ton. • The prices reported are net prices offered by the recycling yards. • Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
 ### 5-Year Historical Average Prices (USD / LDT)
 
@@ -227,7 +232,13 @@ While domestic financial authorities remain vigilant regarding borrowing costs a
 | EVS | FISHING | 1,226 | 05.10.2026 | 09.10.2026 |
 | RIGHT | TANKER | 10,088 | 04.10.2026 | 07.10.2026 |
 
-**Chattogram, Bangladesh:** Chattogram maintained a steady undertone with an enduring hunger for incoming tonnage across all vessel types. Buyers show clear eagerness to secure tonnage, keeping bids competitive. With comparatively few vintage candidates circulating for demo, yards find themselves contending with a thin pipeline despite having the financial readiness to absorb fresh supply. The Chattogram ship recycling market remained cautious this week, with recyclers closely monitoring developments surrounding a potential relaxation of US sanctions on Russia linked shadow fleet vessels. Reports indicate that Washington is considering easing restrictions on certain sanctioned tankers, raising the possibility of additional ageing tonnage eventually entering the recycling market. Bangladesh, particularly Chattogram, could emerge as a potential destination should regulatory approvals and sanctions compliance permit such transactions. With a substantial number of ageing shadow fleet vessels approaching the end of their commercial lives, any meaningful easing of restrictions could unlock a sizeable pipeline of recycling candidates.
+**Chattogram, Bangladesh:** Chattogram maintained a steady undertone with an enduring hunger for incoming tonnage across all vessel types. Buyers show clear eagerness to secure tonnage, keeping bids competitive. With comparatively few vintage candidates circulating for demo, yards find themselves contending with a thin pipeline despite having the financial readiness to absorb fresh supply.
+
+The Chattogram ship recycling market remained cautious this week, with recyclers closely monitoring developments surrounding a potential relaxation of US sanctions on Russia linked shadow fleet vessels.
+
+Reports indicate that Washington is considering easing restrictions on certain sanctioned tankers, raising the possibility of additional ageing tonnage eventually entering the recycling market. Bangladesh, particularly Chattogram, could emerge as a potential destination should regulatory approvals and sanctions compliance permit such transactions.
+
+With a substantial number of ageing shadow fleet vessels approaching the end of their commercial lives, any meaningful easing of restrictions could unlock a sizeable pipeline of recycling candidates.
 
 ## Page 13
 
@@ -249,7 +260,13 @@ Recent national reserve figures reflect healthy liquidity support for essential 
 | PHIL | BARGE | 3,543 | 28.09.2026 | 01.10.2026 |
 | MERC | TUG | 489 | 28.09.2026 | 01.10.2026 |
 
-**Gaddani, Pakistan:** Gadani has witnessed a significant downward price correction, largely driven by the influx of finished steel products from Iran, reportedly entering the Pakistani market at prices comparable to, or even lower than, ship scrap plates. With the ongoing conflict placing considerable pressure on Iran's economy, Iranian suppliers appear to be exploring alternative channels to generate revenue and sustain economic activity. The availability of competitively priced Iranian steel, reportedly through unofficial trade channels, has created direct competition for locally recycled ship steel, forcing Gadani recyclers to adopt a more cautious approach and substantially soften their price indications. Meanwhile, some vessels previously committed at exceptionally high and commercially unsustainable price levels, whose fate was to be decided when they were committed for Gaddani, have ultimately been diverted to Chattogram, reportedly resulting in substantial losses for the cash buyers involved. Overall, Gadani remains under considerable pressure, with cheap Iranian steel imports, subdued recycler sentiment, and the fallout from overvalued transactions weighing heavily on market confidence and future price indications.
+**Gaddani, Pakistan:** Gadani has witnessed a significant downward price correction, largely driven by the influx of finished steel products from Iran, reportedly entering the Pakistani market at prices comparable to, or even lower than, ship scrap plates.
+
+With the ongoing conflict placing considerable pressure on Iran's economy, Iranian suppliers appear to be exploring alternative channels to generate revenue and sustain economic activity. The availability of competitively priced Iranian steel, reportedly through unofficial trade channels, has created direct competition for locally recycled ship steel, forcing Gadani recyclers to adopt a more cautious approach and substantially soften their price indications.
+
+Meanwhile, some vessels previously committed at exceptionally high and commercially unsustainable price levels, whose fate was to be decided when they were committed for Gaddani, have ultimately been diverted to Chattogram, reportedly resulting in substantial losses for the cash buyers involved.
+
+Overall, Gadani remains under considerable pressure, with cheap Iranian steel imports, subdued recycler sentiment, and the fallout from overvalued transactions weighing heavily on market confidence and future price indications.
 
 ## Page 14
 
@@ -265,13 +282,13 @@ The national economic landscape is seeing some relief from stabilising exchange 
 
 **Aliaga, Turkey:** Aliaga maintained an orderly and predictable footing, with indications holding steady and displaying very little day-to-day volatility. While price levels remain relatively firm, this quiet tone stems from subdued domestic re-rolling demand and selective mill appetite.
 
-## TIDE DATES 2026 | Chattogram: 25 ~28 October | 07 ~ 10 November Alang: 25 October ~ 01 November | 07 ~ 14 November
+## TIDE DATES 2026 | Chattogram:  25 ~28 October | 07 ~ 10 November Alang: 25 October ~ 01 November | 07 ~ 14 November
 
 # SUB-CONTINENT & TURKEY SCRAP MARKETS
 
 **India:** Scrap buyers maintained a cautious stance, leaving the imported containerised segment devoid of confirmed trades or firm bids as domestic availability limited import necessity. UK-origin shredded offers stood at US$405-410/t CFR against Mundra HMS 80:20 bids of US$355-360/t CFR, while Australian cargoes were quoted at US$360-365/t for HMS and US$375-380/t for shredded into Chennai, alongside Nhava Sheva indications at US$385-395/t CFR. Adding to the stalemate, climbing container freight costs prevented suppliers from softening their price tags, preserving a wide bid-offer divide.
 
-**Pakistan:** Imported scrap values faced continued downward pressure as European shredded offers softened to US$413-415/t CFR Qasim against buyer bids of US$410-412/t CFR, with UK shredded deemed workable near US$415/t CFR. Meanwhile, firm domestic scrap valuations holding between PKR 132,000- 134,000/t (US$477-484/t) restricted the overall competitiveness and urgency of offshore procurement. Mills remained measured in their approach, committing only to selective tonnages aligned with workable spreads.
+**Pakistan:** Imported scrap values faced continued downward pressure as European shredded offers softened to US$413-415/t CFR Qasim against buyer bids of US$410-412/t CFR, with UK shredded deemed workable near US$415/t CFR. Meanwhile, firm domestic scrap valuations holding between PKR 132,000-134,000/t (US$477-484/t) restricted the overall competitiveness and urgency of offshore procurement. Mills remained measured in their approach, committing only to selective tonnages aligned with workable spreads.
 
 **Bangladesh:** Import activity proved comparatively resilient, underlined by four confirmed transactions totalling 10,000 tonnes for CFR Chattogram delivery, including Brazilian HMS 90:10 at US$375/t, Polish and Chilean HMS 90:10 at US$390/t, and Australian shredded at US$405/t. Local scrap levels provided a steady domestic baseline at BDT 55,000-57,000/t, supporting broader sentiment. While firm freight rates
 
@@ -285,9 +302,19 @@ maintained a selective tone in mill procurement, ongoing negotiations kept both 
 
 ## Commodities Focus
 
-In the ferrous sector, Iron ore prices have slipped below USD 90 per metric tonne for the first time since 2024, reflecting mounting pressure on the global steel market amid weakening fundamentals and subdued demand from China. Chinese crude steel production stood at approximately 651 million tonnes during the first eight months of the year, marking its lowest output for the corresponding period since 2018. The slowdown highlights persistent weakness in the country's steel sector, where sluggish demand and narrowing profit margins continue to weigh on production. With Chinese steel mills operating on razor-thin margins, there is little incentive to replenish iron ore inventories, further dampening demand for the key steelmaking raw material.
+In the ferrous sector, Iron ore prices have slipped below USD 90 per metric tonne for the first time since 2024, reflecting mounting pressure on the global steel market amid weakening fundamentals and subdued demand from China.
 
-The continued weakness in iron ore prices, coupled with declining Chinese steel production, signals a bearish outlook for the broader steel market, potentially exerting additional downward pressure on global scrap and ship recycling prices. Base metals faced similar macroeconomic strain; Copper prices fell for a third consecutive session as stronger-than-expected US inflation data raised expectations of tighter monetary policy, dampening market sentiment. Supply concerns also eased following a preliminary labour agreement at Chile's Escondida mine, reducing the likelihood of strike-related disruptions. Meanwhile, the US strategic stockpiling programme continues to influence global copper flows, with an initial 12,000 tonnes reportedly delivered from the Democratic Republic of Congo under the USD 12 billion Project Vault initiative. The near-term outlook remains cautious, with monetary policy uncertainty and easing supply risks weighing on prices. However, US stockpiling could tighten availability in other markets, potentially providing longer-term price support. On the contrary, China's power sector is dealing with severe fuel inflation as benchmark thermal coal exceeded 1,000 yuan (US$150) per ton on October 12 for the first time in two years-a 25% jump since mid-July-propelled by a 3% y-o-y drop in domestic coal output through August, delayed mine recertifications following the Shanxi disaster, an annual railway maintenance window ending October 26th, and reduced
+Chinese crude steel production stood at approximately 651 million tonnes during the first eight months of the year, marking its lowest output for the corresponding period since 2018. The slowdown highlights persistent weakness in the country's steel sector, where sluggish demand and narrowing profit margins continue to weigh on production. With Chinese steel mills operating on razor-thin margins, there is little incentive to replenish iron ore inventories, further dampening demand for the key steelmaking raw material.
+
+The continued weakness in iron ore prices, coupled with declining Chinese steel production, signals a bearish outlook for the broader steel market, potentially exerting additional downward pressure on global scrap and ship recycling prices.
+
+Base metals faced similar macroeconomic strain; Copper prices fell for a third consecutive session as stronger-than-expected US inflation data raised expectations of tighter monetary policy, dampening market sentiment. Supply concerns also eased following a preliminary labour agreement at Chile's Escondida mine, reducing the likelihood of strike-related disruptions.
+
+Meanwhile, the US strategic stockpiling programme continues to influence global copper flows, with an initial 12,000 tonnes reportedly delivered from the Democratic Republic of Congo under the USD 12 billion Project Vault initiative.
+
+The near-term outlook remains cautious, with monetary policy uncertainty and easing supply risks weighing on prices. However, US stockpiling could tighten availability in other markets, potentially providing longer-term price support.
+
+On the contrary, China's power sector is dealing with severe fuel inflation as benchmark thermal coal exceeded 1,000 yuan (US$150) per ton on October 12 for the first time in two years-a 25% jump since mid-July-propelled by a 3% y-o-y drop in domestic coal output through August, delayed mine recertifications following the Shanxi disaster, an annual railway maintenance window ending October 26th, and reduced
 
 ## Page 16
 

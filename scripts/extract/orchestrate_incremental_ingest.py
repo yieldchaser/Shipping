@@ -329,53 +329,44 @@ def extract_advanced_shipping(pdf_path: Path, dry_run: bool = False) -> Dict[str
 
 
 def extract_star_asia(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
-    """Specialized extraction for Star Asia Shipbroking."""
-    import run_star_asia_tables as sa
-    import star_asia_dates as SAD
+    """Star Asia: MD from run_star_asia.build_md (text layer + word geometry); series rows and the sidecar are
+    derived from that MD's tables (run_star_asia.series_rows), so MD, sidecar and series always agree."""
+    import run_star_asia
 
-    doc = fitz.open(pdf_path)
-    report_week, issue_date = sa.extract_meta(doc, pdf_path)
-    ind_records, clean_ind = sa.extract_indicative_scrap_table(doc, issue_date, report_week, pdf_path.name)
-    deals = sa.extract_demolition_deals(doc, issue_date, report_week, pdf_path.name)
-    deals_norm = [SAD.normalise_deal_dates(d) for d in deals]
-    doc.close()
-
-    year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
+    md_text = run_star_asia.build_md(pdf_path)
+    issue_date = re.search(r'^issue_date:\s*"?([\d-]+)', md_text, re.M).group(1)
+    report_week = int(re.search(r"^report_week:\s*(\d+)", md_text, re.M).group(1))
+    year_str = issue_date[:4] if issue_date[:4].isdigit() else "2026"
     dest_dir = MD_DIR / "star_asia" / year_str
-    
+    pdf_rel = re.search(r'^source_file:\s*"?([^"\n]+)', md_text, re.M).group(1).strip()
+    rows = run_star_asia.series_rows(md_text, pdf_path.name, pdf_rel)
+
     if not dry_run:
         dest_dir.mkdir(parents=True, exist_ok=True)
-        # Generate markdown report
-        try:
-            import run_star_asia
-            md_text = run_star_asia.build_md(pdf_path)
-            (dest_dir / f"{pdf_path.stem}.md").write_text(md_text, encoding="utf-8")
-        except Exception as e:
-            logger.warning(f"Could not generate Star Asia MD for {pdf_path.stem}: {e}")
-
+        (dest_dir / f"{pdf_path.stem}.md").write_text(md_text, encoding="utf-8")
         sidecar_data = {
             "stem": pdf_path.stem,
             "issue_date": issue_date,
             "report_week": report_week,
             "tables": {
-                "indicative_demolition_prices": ind_records,
-                "demolition_deals": deals_norm
-            }
+                "indicative_demolition_prices": rows["demolition"],
+                "demolition_deals": rows["deals"],
+            },
         }
         (dest_dir / f"{pdf_path.stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8")
-        
-        ind_cols = ["issue_date", "report_week", "destination", "country", "segment", "price_low", "price_high", "price_usd_per_ldt", "sentiment", "source_file"]
-        upsert_rows_to_csv(SERIES_DIR / "star_asia_demolition_series.csv", ind_records, ind_cols, ["issue_date", "country", "segment"])
-        
-        deal_cols = ["issue_date", "report_week", "vessel_name", "vessel_type", "ldt", "price_usd_per_ldt", "built", "country_destination", "buyer_comments", "terms", "source_file"]
-        upsert_rows_to_csv(SERIES_DIR / "star_asia_deals_series.csv", deals_norm, deal_cols, ["issue_date", "vessel_name"])
+        upsert_rows_to_csv(SERIES_DIR / "star_asia_demolition_series.csv", rows["demolition"], run_star_asia.DEMO_COLS,
+                           ["issue_date", "destination", "segment"])
+        upsert_rows_to_csv(SERIES_DIR / "star_asia_deals_series.csv", rows["deals"], run_star_asia.DEALS_COLS,
+                           ["issue_date", "deal_type", "vessel_name", "destination_yard"])
+        upsert_rows_to_csv(SERIES_DIR / "star_asia_iron_ore_series.csv", rows["iron_ore"], run_star_asia.IRON_COLS,
+                           ["issue_date", "commodity"])
 
     return {
         "stem": pdf_path.stem,
         "issue_date": issue_date,
         "report_week": report_week,
-        "ind_count": len(ind_records),
-        "deals_count": len(deals_norm)
+        "ind_count": len(rows["demolition"]),
+        "deals_count": len(rows["deals"]),
     }
 
 

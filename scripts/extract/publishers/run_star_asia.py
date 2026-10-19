@@ -225,7 +225,7 @@ def _parse_sp_fixtures_block(sp_text: str, valid_types: list[str]) -> list[str]:
     else:
         i += 1
 
-    stop_markers = ("snp@starasiasg.com", "Member of BIMCO", "Page ", "Vessel Values", "Baltic ")
+    stop_markers = ("snp@starasiasg.com", "Member of BIMCO", "Page ", "Vessel Value", "Baltic ")
     rows_out: list[str] = []
 
     def _is_type_token(idx: int) -> tuple[str, int]:
@@ -358,7 +358,9 @@ def vessel_tables(page: pymupdf.Page):
     L = _word_lines(page.get_text("words"))
     res = []
     for k, (cy, ws) in enumerate(L):
-        if not {"VESSEL", "TYPE", "LDT"} <= {w[4] for w in ws}:
+        hw = {w[4] for w in ws}
+        anchor_name = next((a for a in ("LDT", "DWT", "TEU") if a in hw), None)
+        if not ({"VESSEL", "TYPE"} <= hw and anchor_name):
             continue
         cols = []
         for w in ws:
@@ -366,12 +368,14 @@ def vessel_tables(page: pymupdf.Page):
                 cols[-1][2] = w[2]; cols[-1][3] += " " + w[4]
             else:
                 cols.append([w[0], cy, w[2], w[4]])
-        ldt = next(i for i, c in enumerate(cols) if c[3] == "LDT")
+        ldt = next(i for i, c in enumerate(cols) if c[3] == anchor_name)
         tx0, tx1 = cols[0][0] - 5, max(c[2] for c in cols) + 40
         body, last = [], cy
         for cy2, ws2 in L[k + 1:]:
             wide = (ws2[-1][2] - ws2[0][0]) > 0.7 * (tx1 - tx0)
             if cy2 - last > 28 or (len(ws2) > 9 and wide and not any(_LDT.match(w[4]) for w in ws2)):
+                break
+            if any(w[4] in ("VESSEL", "Vessel") for w in ws2) and cy2 - cy > 5:
                 break
             body.append((cy2, ws2)); last = cy2
 
@@ -379,7 +383,11 @@ def vessel_tables(page: pymupdf.Page):
             mx = (w[0] + w[2]) / 2
             c = [i for i in range(len(cols)) if mx >= cols[i][0] - 6]
             return c[-1] if c else 0
-        anchors = [cy2 for cy2, ws2 in body for w in ws2 if col_of(w) == ldt and _LDT.match(w[4])]
+        anchors = []
+        for cy2, ws2 in body:
+            cell = "".join(w[4] for w in ws2 if col_of(w) == ldt)
+            if re.fullmatch(r"\d{1,3}(,\d{3})*(/\d{1,3}(,\d{3})*)?", cell):
+                anchors.append(cy2)
         rows = [[[] for _ in cols] for _ in anchors]
         if anchors:
             for cy2, ws2 in body:
@@ -387,6 +395,7 @@ def vessel_tables(page: pymupdf.Page):
                     r = min(range(len(anchors)), key=lambda i: abs(anchors[i] - cy2))
                     rows[r][col_of(w)].append((cy2, w[0], w[4]))
         rows = [[_typo(" ".join(t for _, _, t in sorted(c))) for c in r] for r in rows]
+        rows = [[re.sub(r"(\d),\s+(\d{3})\b", r"\1,\2", c) if i == ldt else c for i, c in enumerate(r)] for r in rows]
         # printed slip dd.mmyyyy (e.g. 01.102026) -> dd.mm.yyyy
         rows = [[re.sub(r"^(\d\d)\.(\d\d)(\d{4})$", r"\1.\2.\3", c) for c in r] for r in rows]
         title = _typo(" ".join(w[4] for w in L[k - 1][1])) if k else ""
@@ -541,7 +550,7 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
     # 1 & 2. PAGES: Dry Bulk & Tankers (Indices, Vessel Values, and/or Sale & Purchase, even when split across pages)
     has_dry_idx = "Baltic Dry Indices" in text
     has_tkr_idx = "Baltic Tanker Indices" in text
-    has_vv = ("Vessel Values" in text) and ("CONTAINERS" not in text)
+    has_vv = bool(re.search(r"Vessel Values?\b", text)) and ("CONTAINERS" not in text)
     has_sp = ("Sale & Purchase" in text) and ("CONTAINERS" not in text) and ("SHIP RECYCLING" not in text)
 
     if has_dry_idx or has_tkr_idx or has_vv or has_sp:
@@ -610,6 +619,7 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
 
         if has_vv:
             vv_search_text = text[:text.find("Sale & Purchase")] if "Sale & Purchase" in text else text
+            vv_search_text = re.sub(r"(\d),\s+(\d{3})\b", r"\1,\2", vv_search_text)
             vv_rows: list[str] = []
             for v_type in ["CAPESIZE", "KAMSARMAX", "ULTRAMAX", "HANDY", "VLCC", "SUEZMAX", "AFRAMAX", "LR1", "MR"]:
                 m_vv = re.search(rf"{v_type}\s*\n\s*([\d,]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)\s*\n\s*(\$?[^\n]+)", vv_search_text)
@@ -630,7 +640,11 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
                     "CAPE", "POST", "PMAX", "KMAX", "UMAX", "SMAX", "HANDY", "POST PMAX",
                     "VLCC", "SUEZ", "AFRA", "LR2", "LR1", "MR", "SMALL", "CHEM", "PROD"
                 ]
-                sp_rows = _parse_sp_fixtures_block(text[sp_start:], all_sp_types)
+                geo_sp = [v for v in vessel_tables(page) if v[1] and ("DWT" in v[1] or "TEU" in v[1])]
+                if geo_sp and geo_sp[0][2]:
+                    sp_rows = ["| " + " | ".join(c or "-" for c in (r + [""] * 6)[:6]) + " |" for r in geo_sp[0][2]]
+                else:
+                    sp_rows = _parse_sp_fixtures_block(text[sp_start:], all_sp_types)
                 if sp_rows:
                     out_lines.append("### Sale & Purchase - Reported Fixtures\n")
                     out_lines.append("| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |")
@@ -660,7 +674,11 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
 
         sp_start = text.find("Sale & Purchase")
         if sp_start != -1:
-            sp_rows = _parse_sp_fixtures_block(text[sp_start:], ["FEEDER", "CONTAINER", "SUB-PMAX", "PMAX", "POST PMAX", "NEOPANAMAX"])
+            geo_sp = [v for v in vessel_tables(page) if v[1] and ("DWT" in v[1] or "TEU" in v[1])]
+            if geo_sp and geo_sp[0][2]:
+                sp_rows = ["| " + " | ".join(c or "-" for c in (r + [""] * 6)[:6]) + " |" for r in geo_sp[0][2]]
+            else:
+                sp_rows = _parse_sp_fixtures_block(text[sp_start:], ["FEEDER", "CONTAINER", "SUB-PMAX", "PMAX", "POST PMAX", "NEOPANAMAX"])
             if sp_rows:
                 out_lines.append("### Sale & Purchase - Reported Fixtures\n")
                 out_lines.append("| VESSEL | TYPE | TEU | YEAR / BUILT | PRICE (USD M) | BUYER |")
@@ -1154,6 +1172,99 @@ def build_md(pdf: Path):
 
     return cleaned_md
 
+
+
+# ---------------------------------------------------------------------------
+# Series rows from the built MD (2026-10 audit). The old route (run_star_asia_tables.extract_*) labelled every
+# anchorage row Chattogram, stripped spaces from vessel names and read the 5-year averages as current prices.
+# The MD tables are built from print geometry, so the series are derived from them.
+# ---------------------------------------------------------------------------
+PORTS = {"ALANG": ("Alang, India", "India"), "CHATTOGRAM": ("Chattogram, Bangladesh", "Bangladesh"),
+         "GADDANI": ("Gaddani, Pakistan", "Pakistan"), "GADANI": ("Gaddani, Pakistan", "Pakistan"),
+         "ALIAGA": ("Aliaga, Turkey", "Turkey")}
+DEALS_COLS = ["issue_date", "report_week", "deal_type", "vessel_name", "vessel_type", "ldt", "price_usd_per_ldt",
+              "destination_yard", "year_built", "built_country", "arrival_date", "beaching_date", "terms_comments",
+              "source_file", "arrival_date_raw", "arrival_date_status", "arrival_date_note", "beaching_date_raw",
+              "beaching_date_status", "beaching_date_note", "built", "country_destination", "buyer_comments", "terms"]
+DEMO_COLS = ["issue_date", "report_week", "destination", "country", "segment", "price_low", "price_high",
+             "price_usd_per_ldt", "sentiment", "source_file"]
+IRON_COLS = ["issue_date", "report_week", "commodity", "grade_origin", "price_usd_mt", "change_wow_pct",
+             "change_yoy_pct", "last_week_usd_mt", "last_year_usd_mt", "source_file"]
+
+
+def _md_table(t, head):
+    m = re.search(rf"^#+ {re.escape(head)}", t, re.M)
+    if not m:
+        return None
+    i = t.find("\n|", m.end())
+    if i < 0:
+        return None
+    j = t.find("\n\n", i + 1)
+    ls = [l for l in t[i + 1:j if j > 0 else None].split("\n") if l.startswith("|")]
+    return [[c.strip() for c in l.strip().strip("|").split("|")] for l in ls[2:]]
+
+
+def _num(s):
+    s = s.replace(",", "").replace("$", "")
+    return float(s) if re.fullmatch(r"\d+(\.\d+)?", s) else ""
+
+
+def _iso(s):
+    m = re.fullmatch(r"(\d\d)\.(\d\d)\.(\d{4})", s)
+    return f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else ""
+
+
+def series_rows(md_text: str, pdf_name: str, pdf_rel: str) -> dict:
+    t = md_text.replace("\r\n", "\n")
+    date = re.search(r'^issue_date:\s*"?([\d-]+)', t, re.M).group(1)
+    week = re.search(r"^report_week:\s*(\d+)", t, re.M).group(1)
+    base = dict(issue_date=date, report_week=week)
+    deals, demo, iron = [], [], []
+    for r in _md_table(t, "Demolition - Reported Sales") or []:
+        if len(r) < 6 or r[0] == "NIL":
+            continue
+        v, ty, ldt, built, price, com = r[:6]
+        dest = next((PORTS[k][0] for k in PORTS if k in com.upper() and "DELIVERED" in com.upper()), "")
+        y, c = (built.split(" / ") + [""])[:2]
+        deals.append(dict(base, deal_type="Reported Sale", vessel_name=v, vessel_type=ty, ldt=_num(ldt),
+                          price_usd_per_ldt=_num(price), destination_yard=dest, year_built=y, built_country=c,
+                          terms_comments="" if com == "-" else com, source_file=pdf_name))
+    for port in ("Alang", "Chattogram", "Gaddani"):
+        for r in _md_table(t, f"{port} Anchorage & Beaching Position") or []:
+            if len(r) < 5 or not _LDT.match(r[2]):
+                continue
+            v, ty, ldt, arr, bea = (c.strip() for c in r[:5])
+            row = dict(base, deal_type="Beaching / Arrival", vessel_name=v, vessel_type=ty, ldt=_num(ldt),
+                       destination_yard=PORTS[port.upper()][0], arrival_date=_iso(arr), beaching_date=_iso(bea),
+                       arrival_date_raw=arr, beaching_date_raw=bea, source_file=pdf_name)
+            for k, raw in (("arrival", arr), ("beaching", bea)):
+                if not raw:
+                    continue
+                if _iso(raw):
+                    row[f"{k}_date_note"] = "EU_DDMMYYYY"
+                else:
+                    row[f"{k}_date_status"] = raw; row[f"{k}_date_note"] = "STATUS"
+            deals.append(row)
+    segs = ["Tankers", "Bulkers", "General Cargo", "Containers"]
+    for r in _md_table(t, "Ship Recycling - Current Market Snapshot") or []:
+        key = next((k for k in PORTS if r[0].upper().startswith(k)), None)
+        if not key or len(r) < 6:
+            continue
+        dname, country = PORTS[key]
+        for s, cell in zip(segs, r[1:5]):
+            nums = [float(x) for x in re.findall(r"\d+", cell.replace(",", ""))]
+            if not nums:
+                continue
+            lo, hi = nums[0], nums[-1]
+            demo.append(dict(base, destination=dname, country=country, segment=s, price_low=lo, price_high=hi,
+                             price_usd_per_ldt=(lo + hi) / 2, sentiment=r[5], source_file=pdf_name))
+    for r in _md_table(t, "Iron Ore") or []:
+        if len(r) == 7:
+            c, g, tw, lw, ly, w, y = r
+            iron.append(dict(base, commodity=c, grade_origin=g, price_usd_mt=tw.lstrip("$"), change_wow_pct=w,
+                             change_yoy_pct=y, last_week_usd_mt=lw.lstrip("$"), last_year_usd_mt=ly.lstrip("$"),
+                             source_file=pdf_rel))
+    return {"deals": deals, "demolition": demo, "iron_ore": iron}
 
 def chart_pages(pdf: Path):
     """Star Asia charts are RASTER, so record WHICH pages carry graphics rather

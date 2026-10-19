@@ -200,6 +200,10 @@ Container shipping market halted its upward climb this week as the SCFI index ed
 | GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | STABLE |
 | ALIAGA, TURKEY | $320-330 | $310-320 | $290-300 | $340-350 | STABLE |
 
+*Turkey prices for non-EU ships. EU vessels approx. US$20-30/ton less.*
+
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages. • All prices are USD per light displacement tonnage in the long ton. • The prices reported are net prices offered by the recycling yards. • Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
 ### 5-Year Historical Average Prices (USD / LDT)
 
 | DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
@@ -221,9 +225,21 @@ Container shipping market halted its upward climb this week as the SCFI index ed
 
 ## Market Insights
 
-**Alang, India:** Alang navigated a subdued trading environment in the opening week of October, as the combination of national holidays and acute vessel shortages brought deal-making to a virtual standstill. Domestic plate values managed a modest recovery following late September's sharp decline, but this improvement was partially offset by a softer rupee, which continues to elevate buying costs for dollardenominated ships. With the candidate pool remaining sparse, open market pricing spreads have narrowed, leading Alang's shipbreakers to become noticeably more selective in their bidding. While plot operators are eager to secure tonnage to maintain cutting schedules, the lack of candidate flow and competitive pressure from neighbouring beaches have encouraged buyers to exercise discipline. This restraint is set against an increasingly watchful macroeconomic climate across the broader Indian economy as financial markets look ahead to next week's Reserve Bank of India monetary policy meeting. With annual consumer inflation firming toward 4.8% and global energy prices remaining buoyant, financial analysts widely anticipate that the central bank may consider raising the benchmark repo rate from 5.25% to 5.50% to anchor domestic price expectations and defend currency stability. Even with potential borrowing adjustments on the horizon, India's underlying industrial momentum remains exceptionally sturdy, evidenced by an 8% expansion in industrial production and strong domestic infrastructure outlays that continue to provide a firm floor under rerollable scrap consumption.
+**Alang, India:** Alang navigated a subdued trading environment in the opening week of October, as the combination of national holidays and acute vessel shortages brought deal-making to a virtual standstill. Domestic plate values managed a modest recovery following late September's sharp decline, but this improvement was partially offset by a softer rupee, which continues to elevate buying costs for dollar-denominated ships. With the candidate pool remaining sparse, open market pricing spreads have narrowed, leading Alang's shipbreakers to become noticeably more selective in their bidding. While plot operators are eager to secure tonnage to maintain cutting schedules, the lack of candidate flow and competitive pressure from neighbouring beaches have encouraged buyers to exercise discipline.
 
-**Chattogram, Bangladesh:** Chattogram made a spirited push into the final quarter, with firm sentiment and competitive bidding propelling Bangladesh back to the top of the board. Even though actual transaction volumes remained relatively muted, local buying interest has noticeably sharpened. This renewed appetite is being driven primarily by operational necessity; with significant cutting capacity opening across local yards, buyers are eager to secure tonnage and are increasingly prepared to sweeten their indications. Fresh data from Bangladesh Bank shows that overseas worker remittances reached US$8.59 billion during the first quarter of the fiscal year, marking an impressive 13.3% y-o-y growth that continues to reinforce the country's foreign currency liquidity. Gross foreign exchange reserves have remained well anchored above US$36 billion, comfortably standing near US$22 billion under the IMF's BPM6 benchmark, providing the banking sector with the stability required to facilitate Letters of Credit without foreign exchange bottlenecks.
+This restraint is set against an increasingly watchful macroeconomic climate across the broader Indian economy as financial markets look ahead to next week's Reserve Bank of India monetary policy meeting. With annual consumer inflation firming toward 4.8% and global energy prices remaining buoyant, financial analysts widely anticipate that the central bank may consider raising the benchmark repo rate from 5.25% to 5.50% to anchor domestic price expectations and defend currency stability. Even with potential borrowing adjustments on the horizon, India's underlying industrial momentum remains exceptionally sturdy, evidenced by an 8% expansion in industrial production and strong domestic infrastructure outlays that continue to provide a firm floor under rerollable scrap consumption.
+
+## Alang Anchorage & Beaching Position - October 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
+| - | - | - | - | - |
+
+**Chattogram, Bangladesh:** Chattogram made a spirited push into the final quarter, with firm sentiment and competitive bidding propelling Bangladesh back to the top of the board. Even though actual transaction volumes remained relatively muted, local buying interest has noticeably sharpened. This renewed appetite is being driven primarily by operational necessity; with significant cutting capacity opening across local yards, buyers are eager to secure tonnage and are increasingly prepared to sweeten their indications.
+
+Fresh data from Bangladesh Bank shows that overseas worker remittances reached US$8.59 billion during the first quarter of the fiscal year, marking an impressive 13.3% y-o-y growth that continues to reinforce the country's foreign currency liquidity.
+
+Gross foreign exchange reserves have remained well anchored above US$36 billion, comfortably standing near US$22 billion under the IMF's BPM6 benchmark, providing the banking sector with the stability required to facilitate Letters of Credit without foreign exchange bottlenecks.
 
 ## Page 13
 
@@ -235,13 +251,15 @@ Container shipping market halted its upward climb this week as the SCFI index ed
 | PHIL | BARGE | 3,543 | 28.09.2026 | 01.10.2026 |
 | MERC | TUG | 489 | 28.09.2026 | 01.10.2026 |
 
-**Gaddani, Pakistan:** Gadani ceded its regional pricing lead as appetite cooled. Having secured several high-value vessels during earlier purchasing rounds, buyers have largely satisfied their immediate inventory requirements, leading to more selective and restrained bidding. While general inquiry remains visible, the scarcity of workable tonnage has made meaningful deal making difficult to conclude. Rather than chasing the market upward, buyers are taking a measured step back to digest existing tonnage and monitor local scrap absorption. Official data released this week showed that headline annual consumer inflation eased to 10.3% in September, providing welcome relief to domestic markets as food price pressures moderated. External financial stability also touched fresh milestones, with the State Bank of Pakistan reporting that its official foreign currency reserves reached a high of US$21.44 billion by late September, lifting the nation's total liquid foreign reserves to US$26.77 billion. With the central bank maintaining a steady benchmark policy rate of 11.5% and commercial lenders facing minimal foreign exchange constraints when opening Letters of Credit, Pakistan remain on solid financial footing.
+**Gaddani, Pakistan:** Gadani ceded its regional pricing lead as appetite cooled. Having secured several high-value vessels during earlier purchasing rounds, buyers have largely satisfied their immediate inventory requirements, leading to more selective and restrained bidding. While general inquiry remains visible, the scarcity of workable tonnage has made meaningful deal making difficult to conclude. Rather than chasing the market upward, buyers are taking a measured step back to digest existing tonnage and monitor local scrap absorption.
 
-### Gaddani Anchorage & Beaching Position - October 2026
+Official data released this week showed that headline annual consumer inflation eased to 10.3% in September, providing welcome relief to domestic markets as food price pressures moderated. External financial stability also touched fresh milestones, with the State Bank of Pakistan reporting that its official foreign currency reserves reached a high of US$21.44 billion by late September, lifting the nation's total liquid foreign reserves to US$26.77 billion. With the central bank maintaining a steady benchmark policy rate of 11.5% and commercial lenders facing minimal foreign exchange constraints when opening Letters of Credit, Pakistan remain on solid financial footing.
+
+## Gaddani Anchorage & Beaching Position - October 2026
 
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
-| :--- | :---: | :---: | :---: | :---: |
-| PORTLAND 11 | BULKER | 7,381 | 28.09.2026 |  |
+|---|---|---|---|---|
+| PORTLAND 11 | BULKER | 7,381 | 28.09.2026 |   |
 
 **Aliaga, Turkey:** Aliaga experienced a subtle positive shift, with indications inching upward in tandem with the traditional seasonal firming. Buyers have shown more flexibility on price to secure available inventory, responding to a modest pickup in regional manufacturing inquiries and firmer scrap demand across domestic mills.
 
@@ -271,6 +289,8 @@ Iron ore futures echoed this modest stabilization, lifting toward CNY 710 per to
 
 ## Page 15
 
+remains framed by ongoing supply variables, notably potential strike action at an Antofagasta-operated facility in Chile, discussions by Panamanian authorities to restart a major suspended mine, and the continued absence of a definitive White House decision on refined copper import tariffs.
+
 ### Iron Ore
 
 | COMMODITY (USD/MT) | GRADE | THIS WEEK | LAST WEEK | LAST YEAR | WoW | YoY |
@@ -296,6 +316,8 @@ Iron ore futures echoed this modest stabilization, lifting toward CNY 710 per to
 | Brent Crude (ICE) | USD / bbl. | 100.12 | +2.09 | +2.13% | DEC 2026 |
 | Crude Oil (Tokyo) | JPY / kl | 105,020.00 | +5,620.00 | +5.65% | OCT 2026 |
 | Natural Gas (Nymex) | USD / MMBtu | 3.01 | -0.01 | -0.46% | NOV 2026 |
+
+*All rates at C.O.B. London time, October 2nd, 2026*
 
 ### Exchange Rates
 
