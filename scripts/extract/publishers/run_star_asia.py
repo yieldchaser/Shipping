@@ -386,7 +386,7 @@ def vessel_tables(page: pymupdf.Page):
         anchors = []
         for cy2, ws2 in body:
             cell = "".join(w[4] for w in ws2 if col_of(w) == ldt)
-            if re.fullmatch(r"\d{1,3}(,\d{3})*(/\d{1,3}(,\d{3})*)?", cell):
+            if re.fullmatch(r"\d{1,3}([,.]\d{3})*(\.\d{1,2})?(/\d{1,3}(,\d{3})*)?", cell):
                 anchors.append(cy2)
         rows = [[[] for _ in cols] for _ in anchors]
         if anchors:
@@ -396,8 +396,34 @@ def vessel_tables(page: pymupdf.Page):
                     rows[r][col_of(w)].append((cy2, w[0], w[4]))
         rows = [[_typo(" ".join(t for _, _, t in sorted(c))) for c in r] for r in rows]
         rows = [[re.sub(r"(\d),\s+(\d{3})\b", r"\1,\2", c) if i == ldt else c for i, c in enumerate(r)] for r in rows]
-        # printed slip dd.mmyyyy (e.g. 01.102026) -> dd.mm.yyyy
-        rows = [[re.sub(r"^(\d\d)\.(\d\d)(\d{4})$", r"\1.\2.\3", c) for c in r] for r in rows]
+        # printed slips: dd.mmyyyy (01.102026) -> dd.mm.yyyy; AWAIITNG -> AWAITING
+        rows = [[re.sub(r"^(\d\d)\.(\d\d)(\d{4})$", r"\1.\2.\3", c).replace("AWAIITNG", "AWAITING") for c in r] for r in rows]
+        # stacked two-vessel rows ('LUCTOR /' over 'TURMOIL', DWT stacked): the row without a TYPE joins its partner
+        hdr_names = [c[3] for c in cols]
+        ti = hdr_names.index("TYPE") if "TYPE" in hdr_names else None
+        if ti is not None and len(rows) > 1:
+            merged = []
+            for r in rows:
+                if merged and not r[ti] and merged[-1][0].rstrip().endswith("/"):
+                    prev = merged[-1]
+                    merged[-1] = [prev[0] + " " + r[0]] + [
+                        (prev[i] + " / " + r[i]) if i == ldt and r[i] else (prev[i] or r[i]) for i in range(1, len(r))]
+                else:
+                    merged.append(r)
+            out2 = []
+            i = 0
+            while i < len(merged):
+                r = merged[i]
+                bare = all(not r[k] for k in range(1, len(r)) if k != ldt)
+                if not r[ti] and (r[0].rstrip().endswith("/") or bare) and i + 1 < len(merged):
+                    nx = merged[i + 1]
+                    out2.append([r[0] + (" " if r[0].rstrip().endswith("/") else " / ") + nx[0]] + [
+                        (r[k] + " / " + nx[k]) if k == ldt and r[k] and nx[k] else (nx[k] or r[k]) for k in range(1, len(r))])
+                    i += 2
+                    continue
+                out2.append(r)
+                i += 1
+            rows = out2
         title = _typo(" ".join(w[4] for w in L[k - 1][1])) if k else ""
         res.append((title, [c[3] for c in cols], rows, L[k - 1][0] - 4 if k else cy - 4, last + 4))
     return res
@@ -753,7 +779,8 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
         geo_sales = [v for v in vessel_tables(page) if v[1] and v[1][0].startswith("VESSEL") and "ARRIVAL" not in v[1]]
         if geo_sales:
             out_lines.append("### Demolition - Reported Sales\n")
-            out_lines.append("| VESSEL | TYPE | LDT | BUILT | PRICE ($/LDT) | DELIVERY / TERMS |")
+            hdr = (geo_sales[0][1] + [""] * 6)[:6]
+            out_lines.append("| " + " | ".join(hdr) + " |")
             out_lines.append("| :--- | :---: | :---: | :---: | :---: | :--- |")
             rows = geo_sales[0][2]
             for r in rows:
