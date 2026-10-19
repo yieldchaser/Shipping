@@ -499903,3 +499903,8 @@ observation_date,port_code,port_name,grade,delivery_term,price_usd,change_usd,hi
 2026-10-16,ZA DUR,Durban,MGO,Prompt,2328.0,,,,,USD/MT,ShipAndBunker_RPC
 2026-10-16,ZA DUR,Durban,VLSFO,Prompt,1204.0,,,,,USD/MT,ShipAndBunker_RPC
 2026-10-16,ZA RCB,Richards Bay,VLSFO,Prompt,1250.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-19,DE HAM,Hamburg,IFO380,Prompt,710.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-19,DE HAM,Hamburg,LSMGO,Prompt,1461.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-19,DE HAM,Hamburg,VLSFO,Prompt,760.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-19,MT MLA,Valletta (Malta),LSMGO,Prompt,1485.0,,,,,USD/MT,ShipAndBunker_RPC
+2026-10-19,MT MLA,Valletta (Malta),VLSFO,Prompt,780.0,,,,,USD/MT,ShipAndBunker_RPC
