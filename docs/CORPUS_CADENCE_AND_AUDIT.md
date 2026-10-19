@@ -694,15 +694,15 @@ All corporate filings are organized under `corpus/10-companies/{TICKER}/{FORM}/`
 | # | Ticker | Company Name | CIK | Segment | 10-K | 20-F | 10-Q | 6-K | 8-K | Total Files | Directory Link |
 | :---: | :--- | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | 01 | **VALE** | Vale S.A. | 0000917851 | Dry Bulk (Major Miner) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/VALE`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/VALE) |
-| 02 | **RIO** | Rio Tinto plc | 0001091587 | Dry Bulk (Major Miner) | 0 | 14 | 0 | 35 | 0 | 49 | [`corpus/10-companies/RIO`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/RIO) |
-| 03 | **BHP** | BHP Group Ltd | 0000817778 | Dry Bulk (Major Miner) | 0 | 13 | 0 | 35 | 0 | 48 | [`corpus/10-companies/BHP`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/BHP) |
+| 02 | **RIO** | Rio Tinto plc | 0000863064 | Dry Bulk (Major Miner) | 0 | 14 | 0 | 35 | 0 | 49 | [`corpus/10-companies/RIO`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/RIO) |
+| 03 | **BHP** | BHP Group Ltd | 0000811809 | Dry Bulk (Major Miner) | 0 | 13 | 0 | 35 | 0 | 48 | [`corpus/10-companies/BHP`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/BHP) |
 | 04 | **FSUGY** | Fortescue Ltd | 0001444325 | Dry Bulk (Rule 12g3-2(b) Exempt) | 0 | 0 | 0 | 0 | 0 | 0 | [`corpus/10-companies/FSUGY`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/FSUGY) |
-| 05 | **SBLK** | Star Bulk Carriers Corp. | 0001386909 | Dry Bulk (Capesize/Kamsarmax) | 0 | 14 | 0 | 35 | 0 | 49 | [`corpus/10-companies/SBLK`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/SBLK) |
+| 05 | **SBLK** | Star Bulk Carriers Corp. | 0001386716 | Dry Bulk (Capesize/Kamsarmax) | 0 | 14 | 0 | 35 | 0 | 49 | [`corpus/10-companies/SBLK`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/SBLK) |
 | 06 | **GOGL** | Golden Ocean Group Ltd | 0001029145 | Dry Bulk (Capesize/Panamax) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/GOGL`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/GOGL) |
-| 07 | **GNK** | Genco Shipping & Trading Ltd | 0001322439 | Dry Bulk (Capesize/Ultramax) | 15 | 0 | 18 | 0 | 44 | 77 | [`corpus/10-companies/GNK`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/GNK) |
-| 08 | **SB** | Safe Bulkers, Inc. | 0001423878 | Dry Bulk (Post-Panamax/Kamsarmax) | 0 | 12 | 0 | 36 | 0 | 48 | [`corpus/10-companies/SB`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/SB) |
-| 09 | **DSX** | Diana Shipping Inc. | 0001318605 | Dry Bulk (Capesize/Kamsarmax) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/DSX`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/DSX) |
-| 10 | **SHIP** | Seanergy Maritime Holdings Corp. | 0001438533 | Dry Bulk (Pure-play Capesize) | 0 | 14 | 0 | 35 | 0 | 49 | [`corpus/10-companies/SHIP`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/SHIP) |
+| 07 | **GNK** | Genco Shipping & Trading Ltd | 0001326200 | Dry Bulk (Capesize/Ultramax) | 15 | 0 | 18 | 0 | 44 | 77 | [`corpus/10-companies/GNK`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/GNK) |
+| 08 | **SB** | Safe Bulkers, Inc. | 0001434754 | Dry Bulk (Post-Panamax/Kamsarmax) | 0 | 12 | 0 | 36 | 0 | 48 | [`corpus/10-companies/SB`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/SB) |
+| 09 | **DSX** | Diana Shipping Inc. | 0001318885 | Dry Bulk (Capesize/Kamsarmax) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/DSX`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/DSX) |
+| 10 | **SHIP** | Seanergy Maritime Holdings Corp. | 0001448397 | Dry Bulk (Pure-play Capesize) | 0 | 14 | 0 | 35 | 0 | 49 | [`corpus/10-companies/SHIP`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/SHIP) |
 | 11 | **CTRM** | Castor Maritime Inc. | 0001720161 | Dry Bulk & Containerships | 0 | 10 | 0 | 35 | 0 | 45 | [`corpus/10-companies/CTRM`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/CTRM) |
 | 12 | **GLBS** | Globus Maritime Ltd | 0001499780 | Dry Bulk (Kamsarmax/Supramax) | 0 | 12 | 0 | 35 | 0 | 47 | [`corpus/10-companies/GLBS`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/GLBS) |
 | 13 | **EDRY** | EuroDry Ltd. | 0001731388 | Dry Bulk (Kamsarmax/Supramax) | 0 | 8 | 0 | 35 | 0 | 43 | [`corpus/10-companies/EDRY`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/EDRY) |
