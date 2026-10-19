@@ -83,8 +83,8 @@ US Gulf trips into West Coast Central America were fixed around usd 12,000/14,00
 | Kamsarmax | Sea Pluto | 81.007 | 2013 | New Times, China | 11/2028 | MAN-B&W | - | $ 16,5m | Greek |  |
 | Panamax | Evangelia | 74.381 | 2000 | Sasebo, Japan | 05/2025 | B&W | - | $ 4,7m | Chinese |  |
 | Ultramax | Nord Mamore | 64.050 | 2020 | Mitsui, Japan | 03/2030 | MAN-B&W | 4x30T | $ 30,6m | Undisclosed | Scrubber fitted |
-| Ultramax | Maplegate | 63.449 | 2019 | Iwagi, Japan | 08/2029 | MAN-B&W | 4x30,7T | $ 63m | Indonesian |  |
-| Ultramax | Oakgate | 60.407 | 2018 | Oshima, Japan | 11/2028 | MAN-B&W | 4x30T | enbloc | Indonesian |  |
+| Ultramax | Maplegate | 63.449 | 2019 | Iwagi, Japan | 08/2029 | MAN-B&W | 4x30,7T | $ 63m enbloc | Indonesian |  |
+| Ultramax | Oakgate | 60.407 | 2018 | Oshima, Japan | 11/2028 | MAN-B&W | 4x30T | $ 63m enbloc | Indonesian |  |
 | Ultramax | Vantage Lady | 63.194 | 2015 | Jiangsu, China | 11/2025 | MAN-B&W | 4x36T | $ 20m | Greek (Cosmoship) | T/C attached at 10.350 usd/pd |
 | Ultramax | El Comino | 61.465 | 2012 | Iwagi, Japan | 08/2027 | MAN-B&W | 4x30,7T | Mid $ 19m | Far Eastern | DD 09/2025 |
 | Supramax | Avigator | 53.806 | 2002 | New Century, China | 11/2027 | B&W | 4x40T | Low $ 6m | Chinese | DD 08/2025 |

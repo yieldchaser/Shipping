@@ -80,12 +80,15 @@ South East Asian trips into China were fixed around usd 5,000/6,000 pd. Indian t
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Newcastlemax | Solar Pride | 209.471 | 2020 | SWS, China | 11/2025 | MAN-B&W | - | $ 262m enbloc | Greek | BWTS fitted, Scrubber fitted |
-| Newcastlemax | Solar Quantum | 209.471 | 2020 | SWS, China | 11/2025 | MAN-B&W | - | $ 262m | Greek | BWTS fitted, Scrubber fitted |
-| Newcastlemax | Solar Nova | 208.892 | 2021 | New Times, China | 01/2026 | MAN-B&W | - | enbloc | Greek | BWTS fitted, Scrubber fitted |
+| Newcastlemax | Solar Quantum | 209.471 | 2020 | SWS, China | 11/2025 | MAN-B&W | - | $ 262m enbloc | Greek | BWTS fitted, Scrubber fitted |
+| Newcastlemax | Solar Nova | 208.892 | 2021 | New Times, China | 01/2026 | MAN-B&W | - | $ 262m enbloc | Greek | BWTS fitted, Scrubber fitted |
 | Newcastlemax | Solar Oak | 208.892 | 2021 | New Times, China | 01/2026 | MAN-B&W | - | $ 262m enbloc | Greek | BWTS fitted, Scrubber fitted |
-| Newcastlemax | Qing May | 206.117 | 2012 | SWS, China | 08/2024 | MAN-B&W | - | $ 73m | Chinese (Winning | BWTS fitted, Scrubber fitted |
-| Newcastlemax | Lan May | 206.007 | 2011 | SWS, China | 07/2024 | MAN-B&W | - | enbloc | (Winning Shipping) | BWTS fitted, Scrubber fitted |
+| Newcastlemax | Qing May | 206.117 | 2012 | SWS, China | 08/2024 | MAN-B&W | - | $ 73m enbloc | Chinese (Winning Shipping) | BWTS fitted, Scrubber fitted |
+| Newcastlemax | Lan May | 206.007 | 2011 | SWS, China | 07/2024 | MAN-B&W | - | $ 73m enbloc | Chinese (Winning Shipping) | BWTS fitted, Scrubber fitted |
+| Capesize | New Delight | 181.279 | 2012 | Imabari, Japan | 07/2027 | MAN-B&W | - | $ 30,95m | HK based (Jinhui Shipping & Transportation) | BWTS fitted |
+| Capesize | Seamate | 177.775 | 2010 | SWS, China | 09/2025 | MAN-B&W | - | $ 26m | Chinese (Agricore Shipping) | BWTS fitted, Scrubber fitted |
 | Capesize | Zhong May | 176.403 | 2011 | SWS, China | 01/2026 | MAN-B&W | - | $ 27m | European | BWTS fitted |
+| Capesize | Big Bang | 174.109 | 2007 | SWS, China | 04/2026 | MAN-B&W | - | Region $ 20m | Chinese | BWTS fitted, Scrubber fitted, DD 03/2024 |
 | Post Panamax | AM Point Lisas | 93.238 | 2010 | Jiangsu, China | 12/2025 | MAN-B&W | - | Region $ 14m | Chinese | BWTS fitted |
 | Post Panamax | AM Tubarao | 93.225 | 2011 | Jiangsu, China | 07/2026 | MAN-B&W | - | $ 14,9m | Undisclosed | BWTS fitted, DD 04/2024 |
 | Post Panamax | AM Ghent | 93.168 | 2011 | Jiangsu, China | 06/2026 | MAN-B&W | - | $ 15,2m | Undisclosed | BWTS fitted |
@@ -118,8 +121,8 @@ South East Asian trips into China were fixed around usd 5,000/6,000 pd. Indian t
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | TRF Horten | 297.638 | 2018 | HHIC, Philippines | 10/2028 | MAN-B&W | Region $ 102m | Undisclosed | Scrubber fitted |
-| Aframax | SKS Darent | 119.456 | 2011 | Hyundai Samho, Korea | 02/2026 | MAN-B&W | $ 104m enbloc | UK (Union | BWTS fitted |
-| Aframax | SKS Driva | 119.456 | 2010 | Hyundai Samho, Korea | 03/2025 | MAN-B&W | $ 104m enbloc | Maritime) | BWTS fitted |
+| Aframax | SKS Darent | 119.456 | 2011 | Hyundai Samho, Korea | 02/2026 | MAN-B&W | $ 104m enbloc | UK (Union Maritime) | BWTS fitted |
+| Aframax | SKS Driva | 119.456 | 2010 | Hyundai Samho, Korea | 03/2025 | MAN-B&W | $ 104m enbloc | UK (Union Maritime) | BWTS fitted |
 | Aframax | Afra Rossi | 115.829 | 2010 | HHIC, Philippines | 03/2025 | MAN-B&W | $ 45,5m | Chinese | BWTS fitted |
 | Aframax | Alita I | 112.118 | 2001 | Hyundai, Korea | 04/2028 | B&W | $ 19m | Undisclosed | Delivered, BWTS fitted |
 | Aframax | Koro Sea | 105.905 | 2008 | Namura & Sasebo, Japan | 02/2028 | MAN-B&W | $ 39,5m | Vietnamese | BWTS fitted, Scrubber fitted |

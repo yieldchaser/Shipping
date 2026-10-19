@@ -86,6 +86,7 @@ Trips from East Mediterranean via Black Sea into East/West Coast South America w
 | Ultramax | Jin Rui | 63.800 | 2014 | Jiangsu, China | 11/2029 | MAN-B&W | 4x30T | $ 24m | Chinese (Huaya Maritime) | Dely Jul-Aug'26 |
 | Supramax | XO Copenhagen | 58.107 | 2010 | Tsuneishi Zhoushan, China | 04/2030 | MAN-B&W | 4x30T | $ 16,3m | Chinese |  |
 | Supramax | Titanas | 57.360 | 2012 | Jiangsu, China | 11/2027 | MAN-B&W | 4x30T | $ 14m | Chinese |  |
+| Supramax | Valiant | 55.561 | 2009 | Hyundai- Vinashin, Vietnam | 10/2029 | MAN-B&W | 4x30T | $ 13,4m | Undisclosed |  |
 | Supramax | Figeac | 53.177 | 2011 | Chengxi, China | 04/2026 | MAN-B&W | 4x36T | $ 13m | Chinese |  |
 
 ### Tankers

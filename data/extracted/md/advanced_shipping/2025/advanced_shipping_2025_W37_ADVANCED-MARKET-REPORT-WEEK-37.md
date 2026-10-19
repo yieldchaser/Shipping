@@ -79,6 +79,7 @@ Trips from Arabian Gulf into East Africa were fixed around usd 10,000/11,000 pd.
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Cape Progress | 185.920 | 2006 | Kawasaki, Japan | 11/2025 | MAN-B&W | - | xs $ 20m | Undisclosed | T/C attached till Feb-Apr'26 at 16.650 usd/pd |
 | Capesize | Frontier Neige | 182.737 | 2011 | Kawasaki, Japan | 06/2026 | MAN-B&W | - | $ 25m | Greek | Dely 2H 2026 |
 | Capesize | Cape Jacaranda | 181.452 | 2011 | Imabari, Japan | 08/2026 | MAN-B&W | - | $ 25m | Greek | Dely 2H 2026 |
 | Mini Cape | NBA Rubens | 107.290 | 2011 | Oshima, Japan | 01/2026 | Mitsubishi | - | $ 15m | Greek |  |
@@ -87,10 +88,12 @@ Trips from Arabian Gulf into East Africa were fixed around usd 10,000/11,000 pd.
 | Kamsarmax | Aquabeauty | 82.023 | 2020 | Sanoyas, Japan | 05/2030 | MAN-B&W | - | $ 32m | Undisclosed |  |
 | Kamsarmax | Ultra Jaguar | 81.922 | 2016 | Tsuneishi Zhoushan, China | 01/2026 | MAN-B&W | - | Low $ 24m | Indian (Great Eastern) |  |
 | Kamsarmax | Silver Navigator | 80.312 | 2011 | Stx, Korea | 07/2026 | MAN-B&W | - | $ 15,5m | Greek (Bright Navigation) |  |
-| Ultramax | Jal Kalpavriksh | 66.337 | 2021 | Mitsui, Japan | 03/2026 | MAN-B&W | 4x30T | $ 32,55m | Thai (Precious |  |
-| Ultramax | Jal Kalpataru | 66.264 | 2021 | Mitsui, Japan | 07/2026 | MAN-B&W | 4x30T | $ 32,55m | Shipping) |  |
+| Ultramax | Jal Kalpavriksh | 66.337 | 2021 | Mitsui, Japan | 03/2026 | MAN-B&W | 4x30T | $ 32,55m | Thai (Precious Shipping) |  |
+| Ultramax | Jal Kalpataru | 66.264 | 2021 | Mitsui, Japan | 07/2026 | MAN-B&W | 4x30T | $ 32,55m | Thai (Precious Shipping) |  |
 | Ultramax | DSI Drammen | 63.379 | 2016 | I-S, Japan | 08/2026 | MAN-B&W | 4x30,7T | rgn $ 25m | Undisclosed | Scrubber fitted |
 | Ultramax | Hakata Queen | 60.481 | 2016 | Mitsui, Japan | 01/2026 | MAN-B&W | 4x30T | $ 23,5m | Greek | Scrubber fitted |
+| Supramax | Pacific Ace | 59.963 | 2012 | Hyundai- Vinashin, Vietnam | 01/2027 | MAN-B&W | 4x30T | $ 13,9m | Undisclosed |  |
+| Supramax | Pacific Pride | 59.944 | 2012 | Hyundai- Vinashin, Vietnam | 08/2027 | MAN-B&W | 4x30T | $ 13,9m | Undisclosed | DD 11/2025 |
 | Supramax | Lycavitos | 58.786 | 2007 | Tsuneishi Cebu, Philippines | 03/2027 | MAN-B&W | 4x30T | $ 12m | Chinese |  |
 | Supramax | Jin Rong | 58.729 | 2008 | Tsuneishi Cebu, Philippines | 04/2028 | MAN-B&W | 4x30T | $ 11,93m | HK (Liuliu Shun Shipping) |  |
 | Supramax | Sagar Kanya | 58.609 | 2013 | NACKS, China | 11/2028 | MAN-B&W | 4x30,5T | High $ 16m | Greek |  |
@@ -105,8 +108,8 @@ Trips from Arabian Gulf into East Africa were fixed around usd 10,000/11,000 pd.
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Handysize | Zudar | 38.273 | 2011 | Imabari, Japan | 01/2026 | MAN-B&W | 4x30,5T | Low-Mid $ 13m | Undisclosed | Semi boxed |
-| Handysize | Madrid | 30.976 | 2013 | Tsuji, China | 07/2028 | MAN-B&W | 4x30T | $ 11m | Turkish (Dramar |  |
-| Handysize | Mykonos | 30.976 | 2013 | Tsuji, China | 07/2028 | MAN-B&W | 4x30T | $ 11m | Shipping) |  |
+| Handysize | Madrid | 30.976 | 2013 | Tsuji, China | 07/2028 | MAN-B&W | 4x30T | $ 11m | Turkish (Dramar Shipping) |  |
+| Handysize | Mykonos | 30.976 | 2013 | Tsuji, China | 07/2028 | MAN-B&W | 4x30T | $ 11m | Turkish (Dramar Shipping) |  |
 | Handysize | Stellar Aragvi | 28.368 | 2014 | Imabari, Japan | 01/2029 | MAN-B&W | 4x30,5T | $ 12,5m | Indonesian |  |
 
 ### Tankers
@@ -117,6 +120,8 @@ Trips from Arabian Gulf into East Africa were fixed around usd 10,000/11,000 pd.
 | Suezmax | Kriti Vigor | 159.156 | 2005 | Hyundai, Korea | 02/2030 | MAN-B&W | rgn $ 29m | Undisclosed | Scrubber fitted |
 | Suezmax | Samurai | 149.993 | 2009 | Universal, Japan | 02/2029 | Wartsila | $ 39,5m | Indian (Seven Islands) | Scrubber fitted |
 | Suezmax | Jasmine Knutsen | 148.644 | 2005 | Samsung, Korea |  | B&W | $ 33m | Undisclosed | Shuttle tanker, SS/DD passed |
+| LR2 | Zhoushan Changhong CHB3026 | 115.000 | 2027 | Zhoushan Changhong, China |  | MAN-B&W | $ 66,5m | Greek (Navios Maritime) | Resale, Scrubber fitted, Methanol ready |
+| LR2 | Zhoushan Changhong CHB3027 | 115.000 | 2027 | Zhoushan Changhong, China |  | MAN-B&W | $ 66,5m | Greek (Navios Maritime) | Resale, Scrubber fitted, Methanol ready |
 | LR1 | Fair Winds | 73.976 | 2007 | New Century, China | 09/2027 | MAN-B&W | Undisclosed | Undisclosed | DD 11/2025 |
 | Chemical/Oil Products | Condor Trader | 22.423 | 2016 | Shin Kurushima, Japan | 08/2026 | Mitsubishi | $ 28,8m | Korean | St St |
 | Chemical/Oil Products | Eastern Orchid | 13.498 | 2018 | Zhejiang, China | 12/2028 | WinGD | rgn $ 17m | Undisclosed |  |

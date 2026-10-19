@@ -1703,6 +1703,14 @@ issue_date,issue,report_week,segment,country,price_usd_per_ldt,source_file
 2025-12-19,2025-12-19,51,Tankers,Bangladesh,420.0,advanced_shipping_2025_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2025-12-19,2025-12-19,51,Tankers,Pakistan,400.0,advanced_shipping_2025_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2025-12-19,2025-12-19,51,Tankers,Turkey,280.0,advanced_shipping_2025_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
+2026-10-16,2026-10-16,42,Bulkers,India,430.0,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,2026-10-16,42,Bulkers,Bangladesh,485.0,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,2026-10-16,42,Bulkers,Pakistan,480.0,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,2026-10-16,42,Bulkers,Turkey,280.0,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,2026-10-16,42,Tankers,India,445.0,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,2026-10-16,42,Tankers,Bangladesh,510.0,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,2026-10-16,42,Tankers,Pakistan,490.0,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,2026-10-16,42,Tankers,Turkey,290.0,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-01-09,2026-01-09,2,Bulkers,India,380.0,advanced_shipping_2026_W02_ADVANCED-MARKET-REPORT-WEEK-2.pdf
 2026-01-09,2026-01-09,2,Bulkers,Bangladesh,375.0,advanced_shipping_2026_W02_ADVANCED-MARKET-REPORT-WEEK-2.pdf
 2026-01-09,2026-01-09,2,Bulkers,Pakistan,390.0,advanced_shipping_2026_W02_ADVANCED-MARKET-REPORT-WEEK-2.pdf

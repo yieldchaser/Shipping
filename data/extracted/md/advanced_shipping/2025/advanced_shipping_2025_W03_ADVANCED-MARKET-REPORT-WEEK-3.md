@@ -94,12 +94,15 @@ A number of Australian trips into China were fixed around usd 5,000/7,000 pd. In
 | VLCC | Rolin | 308.829 | 2005 | Samsung, Korea | 10/2025 | MAN-B&W | $ 31m | Chinese | Scrubber fitted |
 | LR2 | Suvretta | 109.250 | 2008 | Stx, Korea | 06/2028 | MAN-B&W | $ 31m | Chinese | BWTS fitted, Scrubber fitted |
 | Chemical/Oil Products | Sanjin 3025 | 13.774 | 2020 | Samjin, China | 12/2025 | WinGD | $ 16,9m | Singaporean |  |
+| Chemical/Oil Products | DH Glory | 13.121 | 2020 | Nantong, China | 11/2025 | WinGD | Low $ 25m | Undisclosed | Online auction, BWTS fitted, St St, Ice Class II |
 
 ### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | Ri Zhao Hong Yun | 3.961 | 1997 | Daewoo, Korea |  | Sulzer | - | $ 13m | Chinese |  |
+| Sub Panamax | Cul Qingdao | 2.433 | 2023 | Jiangsu New Yangzijian, China | 11/2028 | MAN-B&W | - | $ 43m | Greek | BWTS fitted, Scrubber fitted |
+| Sub Panamax | Diamantis P. | 2.008 | 1998 | Gdynia Stocznia, Poland | 10/2028 | Sulzer | - | $ 13,15m | Undisclosed | BWTS fitted, Ice Class II |
 | Feeder | Jan | 1.708 | 2010 | Imabari, Japan | 03/2025 | MAN-B&W | 3x40T | $ 17,5m | Indonesian |  |
 
 ## Page 4
@@ -108,9 +111,10 @@ A number of Australian trips into China were fixed around usd 5,000/7,000 pd. In
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | Gaschem Antarctic | 18.955 | 2010 | Neptun, Germany | 07/2025 | Wartila | 16.978 |  | UK based | Ice Class 1C |
+| LPG | Gaschem Antarctic | 18.955 | 2010 | Neptun, Germany | 07/2025 | Wartila | 16.978 |  | UK based (Navigator Gas) | Ice Class 1C |
 | LPG | Gaschem Pacific | 18.844 | 2009 | Neptun, Germany |  | Wartila | 16.976 | $ 83,9m enbloc | UK based (Navigator Gas) |  |
-| LPG | Gaschem Adriatic | 18.895 | 2010 | Neptun, Germany | 02/2025 | Wartila | 16.974 |  | Gas) | Ice Class 1C |
+| LPG | Gaschem Adriatic | 18.895 | 2010 | Neptun, Germany | 02/2025 | Wartila | 16.974 |  | UK based (Navigator Gas) | Ice Class 1C |
+| LPG | Clipper Hebe | 18.826 | 2007 | Neptun, Germany | 07/2027 | Wartila | 16.785 | $ 27,5m | Indian (Sanmar Group) |  |
 | LPG | Helium Gas | 17.779 | 1999 | Sestri, Italy |  | Sulzer | 17.559 | Mid-High $ 13m | Undisclosed |  |
 
 ## Page 5

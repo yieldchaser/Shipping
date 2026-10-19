@@ -79,14 +79,15 @@ A number of trips from China into India with logs were reported at the level of 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Aquabella | 177.216 | 2005 | Namura & Sasebo, Japan | 11/2024 | MAN- B&W | - | High $ 19m | Chinese | BWTS fitted |
 | Capesize | Mineral Beijing | 174.083 | 2004 | SWS, China | 05/2022 | MAN- B&W | - | Undisclosed | Chinese (Agricore) | Old sale |
 | Post Panamax | Ldn Fortuna | 93.251 | 2011 | Jiangsu, China | 11/2021 | MAN- B&W | - | $ 19,7m | Chinese | BWTS fitted |
 | Panamax | Sea Vision | 77.154 | 2015 | Imabari, Japan | 01/2025 | MAN- B&W | - | $ 30m | Greek |  |
 | Panamax | Bellamys | 76.286 | 2005 | Tsuneishi, Japan | 01/2025 | B&W | - | $ 17m | Chinese | BWTS fitted |
 | Panamax | Shao Shan 5 | 75.700 | 2012 | Guangzhou, China | 06/2022 | MAN- B&W | - | $ 20,82m | Chinese | Auction sale, BWTS fitted |
 | Panamax | Sea Arirang | 71.535 | 1994 | Hitachi, Japan | 12/2021 | B&W | - | $ 6m | Chinese |  |
-| Supramax | Million Bell | 58.665 | 2012 | Kawasaki, Japan | 10/2022 | MAN- B&W | 4x30,5T | $ 44m | Undisclosed | Dely Q1 2022 |
-| Supramax | Glad Mark | 58.642 | 2012 | Kawasaki, Japan | 07/2022 | MAN- B&W | 4x30,5T | enbloc | Undisclosed | Dely Q1 2022 |
+| Supramax | Million Bell | 58.665 | 2012 | Kawasaki, Japan | 10/2022 | MAN- B&W | 4x30,5T | $ 44m enbloc | Undisclosed | Dely Q1 2022 |
+| Supramax | Glad Mark | 58.642 | 2012 | Kawasaki, Japan | 07/2022 | MAN- B&W | 4x30,5T | $ 44m enbloc | Undisclosed | Dely Q1 2022 |
 | Supramax | Great Amity | 56.050 | 2004 | Mitsui, Japan | 09/2024 | MAN- B&W | 4x30,5T | $ 15,7m | Chinese | Dely Nov- Dec'21 |
 | Supramax | Gutian Loyal | 52.686 | 2004 | Oshima, Japan | 11/2024 | B&W | 4x30T | $ 13,8m | Undisclosed | BWTS fitted |
 | Handysize | Ocean Opal | 37.187 | 2012 | Hyundai Mipo, Korea | 07/2022 | MAN- B&W | 4x30T | $ 18,4m | Undisclosed | Tier II |
@@ -106,6 +107,7 @@ A number of trips from China into India with logs were reported at the level of 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Handysize | Serenity C | 31.754 | 2011 | Fujian, China | 09/2021 | Mitsubishi | 4x30T | $ 13,5m | Norwegian (Vega Bulk Carriers) | Basis SS/DD passed & BWTS fitted |
 | Handysize | Vantage Key | 29.870 | 2004 | Shikoku, Japan | 09/2024 | MAN- B&W | 4x30,5T | Region $ 9m | Undisclosed |  |
 | Handysize | Golden Daisy | 28.368 | 2014 | I-S, Japan | 05/2024 | MAN- B&W | 4x30,5T | $ 16,5m | Singapore based | BWTS fitted |
 | Small | Narew | 16.573 | 2012 | Taizhou, China | 03/2022 | MAN- B&W | 3x30T | $ 9,3m | Undisclosed |  |
@@ -129,8 +131,9 @@ A number of trips from China into India with logs were reported at the level of 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Conti Everest | 8.238 | 2004 | Hyundai, Korea | 07/2024 | MAN-B&W | - | $ 78m | Swiss (MSC) |  |
-| Panamax | MP The Brown | 4.330 | 2009 | HHIC, Philippines | 11/2024 | MAN-B&W | - | $ 64m | Swiss | BWTS fitted, Scrubber fitted |
-| Panamax | MP The Law | 4.330 | 2009 | HHIC, Philippines | 10/2024 | MAN-B&W | - | $ 64m | (MSC) | BWTS fitted, Scrubber fitted |
+| Post Panamax | Cape Chronos | 6.865 | 2015 | HHIC, Philippines | 06/2025 | MAN-B&W | - | $ 135m | Singapore based (OM Maritime) |  |
+| Panamax | MP The Brown | 4.330 | 2009 | HHIC, Philippines | 11/2024 | MAN-B&W | - | $ 64m | Swiss (MSC) | BWTS fitted, Scrubber fitted |
+| Panamax | MP The Law | 4.330 | 2009 | HHIC, Philippines | 10/2024 | MAN-B&W | - | $ 64m | Swiss (MSC) | BWTS fitted, Scrubber fitted |
 
 ## Page 5
 

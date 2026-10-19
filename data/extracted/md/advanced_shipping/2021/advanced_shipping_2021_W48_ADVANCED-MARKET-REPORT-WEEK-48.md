@@ -81,13 +81,14 @@ A generally quiet week for this segment. US Gulf trips into East Coast Mexico wi
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Aquaprincess | 182.060 | 2009 | Odense, Denmark | 11/2024 | MAN- B&W | - | $ 25m | Greek | BWTS fitted |
 | Capesize | Cape Treasure | 180.201 | 2007 | Koyo, Japan | 02/2022 | MAN- B&W | - | $ 21,5m | Undisclosed | Rumored, Dely Jan-Feb'22 |
+| Post Panamax | Mayfair Spirit | 93.257 | 2011 | Jiangsu, China | 05/2026 | MAN- B&W | - | $ 19m | Greek (NGM) | BWTS fitted, T/C attached until Q2 2022 |
 | Kamsarmax | Chengxi CX0831 | 85.000 | 2021 | Chengxi, China |  | MAN- B&W | - | Undisclosed | Chinese (Pacific Rim) | Resales, BWTS fitted |
-| Kamsarmax | Chengxi CX0832 | 85.000 | 2022 | Chengxi, China |  | MAN- B&W | - | Undisclosed | Chinese | Resales, |
-| Kamsarmax | Chengxi CX0833 | 85.000 | 2022 | Chengxi, China |  | MAN- B&W | - | Undisclosed | (Pacific Rim) | BWTS fitted |
+| Kamsarmax | Chengxi CX0832 | 85.000 | 2022 | Chengxi, China |  | MAN- B&W | - | Undisclosed | Chinese (Pacific Rim) | Resales, BWTS fitted |
+| Kamsarmax | Chengxi CX0833 | 85.000 | 2022 | Chengxi, China |  | MAN- B&W | - | Undisclosed | Chinese (Pacific Rim) | Resales, BWTS fitted |
 | Kamsarmax | Chengxi CX0834 | 85.000 | 2022 | Chengxi, China |  | MAN- B&W | - | Undisclosed | Chinese (Pacific Rim) | Resales, BWTS fitted |
 | Panamax | SITC Huashan | 76.249 | 2012 | Yangfan, China | 05/2022 | MAN- B&W | - | $ 22m | Undisclosed | Old sale, BWTS fitted |
-| Ultramax | Star Artemis | 63.205 | 2015 | Yangzhou, China | 05/2025 | MAN- B&W | 4x35T | $ 53m | Greek |  |
-| Ultramax | Star Eos | 63.132 | 2015 | Yangzhou, China | 10/2025 | MAN- B&W | 4x35T | enbloc | (Goldenport) |  |
+| Ultramax | Star Artemis | 63.205 | 2015 | Yangzhou, China | 05/2025 | MAN- B&W | 4x35T | $ 53m enbloc | Greek (Goldenport) |  |
+| Ultramax | Star Eos | 63.132 | 2015 | Yangzhou, China | 10/2025 | MAN- B&W | 4x35T | $ 53m enbloc | Greek (Goldenport) |  |
 | Ultramax | Noni | 61.631 | 2015 | NACKS, China | 06/2025 | MAN- B&W | 4x30T | $ 27,5m | Chinese | BWTS fitted |
 | Supramax | GDF Suez North Sea | 55.848 | 2012 | IHI, Japan | 06/2025 | Wartsila | 4x30T | $ 21m | Undisclosed | BWTS fitted |
 | Supramax | Fareast Hope | 55.628 | 2004 | Oshima, Japan | 03/2024 | MAN- B&W | 4x30T | $ 14,75m | Chinese | DD 12/2021 |
@@ -102,18 +103,19 @@ A generally quiet week for this segment. US Gulf trips into East Coast Mexico wi
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | Daewoo 5496 | 300.000 | 2022 | Daewoo, Korea |  | MAN- B&W | $ 245m enbloc | Chinese (Bocomm) | Basis 7years lease structure to International |
-| VLCC | Daewoo 5497 | 300.000 | 2023 | Daewoo, Korea |  | MAN- B&W | $ 245m enbloc | Chinese (Bocomm) | to International Seaways with p.options and 7years T/C to |
-| VLCC | Daewoo 5498 | 300.000 | 2023 | Daewoo, Korea |  | MAN- B&W | $ 245m enbloc | Chinese (Bocomm) | 7years T/C to Shell upon delivery |
+| VLCC | Daewoo 5496 | 300.000 | 2022 | Daewoo, Korea |  | MAN- B&W | $ 245m enbloc | Chinese (Bocomm) | Basis 7years lease structure to International Seaways with p.options and 7years T/C to Shell upon delivery |
+| VLCC | Daewoo 5497 | 300.000 | 2023 | Daewoo, Korea |  | MAN- B&W | $ 245m enbloc | Chinese (Bocomm) | Basis 7years lease structure to International Seaways with p.options and 7years T/C to Shell upon delivery |
+| VLCC | Daewoo 5498 | 300.000 | 2023 | Daewoo, Korea |  | MAN- B&W | $ 245m enbloc | Chinese (Bocomm) | Basis 7years lease structure to International Seaways with p.options and 7years T/C to Shell upon delivery |
 | LR2 | Front Panther | 115.239 | 2015 | Guangzhou, China | 01/2025 | MAN- B&W | $ 160m enbloc | Bermuda based (SFL Corp) | BWTS fitted, Scrubber fitted 5years T/C to Trafigura with options |
-| LR2 | Front Lion | 115.162 | 2014 | Guangzhou, China | 09/2024 | MAN- B&W | $ 160m | Bermuda based | BWTS fitted, Scrubber fitted 5years T/C to |
-| LR2 | Front Puma | 115.054 | 2015 | Guangzhou, China | 03/2025 | MAN- B&W | enbloc | (SFL Corp) | 5years T/C to Trafigura with options |
+| LR2 | Front Lion | 115.162 | 2014 | Guangzhou, China | 09/2024 | MAN- B&W | $ 160m enbloc | Bermuda based (SFL Corp) | BWTS fitted, Scrubber fitted 5years T/C to Trafigura with options |
+| LR2 | Front Puma | 115.054 | 2015 | Guangzhou, China | 03/2025 | MAN- B&W | $ 160m enbloc | Bermuda based (SFL Corp) | BWTS fitted, Scrubber fitted 5years T/C to Trafigura with options |
 | LR2 | Front Tiger | 115.024 | 2015 | Guangzhou, China | 06/2025 | MAN- B&W | $ 160m enbloc | Bermuda based (SFL Corp) | BWTS fitted, Scrubber fitted 5years T/C to Trafigura with options |
 | LR1 | Nordmerkur | 74.999 | 2004 | Hyundai, Korea | 05/2024 | MAN- B&W | $ 10m | Undisclosed |  |
 | LR1 | Nordneptun | 74.999 | 2004 | Hyundai, Korea | 04/2024 | MAN- B&W | $ 10m | Undisclosed |  |
 | LR1 | Amazon Brilliance | 72.910 | 2005 | Hyundai, Korea | 02/2025 | MAN- B&W | Region $ 12m | Undisclosed |  |
 | MR | PS Houston | 50.922 | 2008 | Stx, Korea | 01/2023 | MAN- B&W | $ 12m | Greek | Ice Class 1A |
 | MR | Grazia | 50.213 | 2010 | Guangzhou, China | 11/2025 | MAN- B&W | $ 15m | Greek | BWTS fitted |
+| MR | Arctic Bay | 47.999 | 2006 | Stx, Korea | 03/2026 | MAN- B&W | Mid-High $ 11m | Norwegian (Atlantica Shipping) | BWTS fitted |
 | MR | UACC Harmony | 45.913 | 2005 | Shin Kurushima, Japan | 01/2025 | Mitsubishi | $ 9,2m | Undisclosed |  |
 | MR | UACC Consensus | 45.896 | 2005 | Shin Kurushima, Japan | 02/2025 | Mitsubishi | $ 9,2m | Undisclosed |  |
 | Chemical/Oil Products | Ocean Seal | 12.000 | 2018 | Samjin, China | 08/2023 | Wartsila | Excess $ 10m | Undisclosed | BWTS fitted |

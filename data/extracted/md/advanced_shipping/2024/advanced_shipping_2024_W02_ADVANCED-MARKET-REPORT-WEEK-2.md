@@ -87,7 +87,9 @@ A number of Australian trips into China with alumina were fixed around usd 7,000
 | Kamsarmax | Nian Nu Jiao | 83.601 | 2010 | Sanoyas, Japan | 07/2027 | MAN-B&W | - | Mid-High $ 17m | Undisclosed | BWTS fitted |
 | Kamsarmax | Artemis | 81.963 | 2013 | Cosco, China | 01/2028 | Wartsila | - | Low-Mid $ 19m | Chinese | BWTS fitted |
 | Kamsarmax | Super Luna | 81.517 | 2016 | Jinhai, China | 06/2026 | MAN-B&W | - | $ 22,6m | Greek (Modion) | BWTS fitted |
+| Kamsarmax | Tomini Bravery | 81.027 | 2015 | Jiangsu, China | 02/2025 | MAN-B&W | - | $ 24,5m | Greek | BWTS fitted, Incl. T/C till Mar- May'24 at 13.500 usd/pd |
 | Supramax | Anetos | 58.163 | 2009 | Tsuneishi Cebu, Philippines | 11/2027 | MAN-B&W | 4x30T | Region $ 15,5m | Undisclosed | BWTS fitted |
+| Supramax | SW Prosperous | 57.480 | 2012 | Stx, Korea | 08/2027 | MAN-B&W | 4x36T | Low-Mid $ 16m | UAE (Sea Sands Shipping) | Online bidding, BWTS fitted, Dely Mar'24 |
 | Supramax | Elgiznur Cebi | 57.305 | 2009 | Stx, Korea | 03/2024 | MAN-B&W | 4x35T | $ 13,6m | Undisclosed | BWTS fitted |
 | Supramax | Advance | 55.638 | 2007 | Mitsui, Japan | 02/2026 | MAN-B&W | 4x30T | $ 13,7m | Undisclosed | BWTS fitted |
 | Handymax | Notos Venture | 43.477 | 2017 | Qingshan, China | 03/2027 | MAN-B&W | 4x30T | $ 23m | Undisclosed | BWTS fitted |
@@ -104,6 +106,7 @@ A number of Australian trips into China with alumina were fixed around usd 7,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Suezmax | Bella Ciao | 156.586 | 2020 | New Times, China | 07/2025 | MAN-B&W | $ 86m | Indonesian (Pertamina) | BWTS fitted, Scrubber fitted, 1y BBHP with p.obligation at the end |
 | MR | Sochrina | 46.606 | 2008 | Sungdong, Korea | 09/2028 | MAN-B&W | $ 24m | Turkish (Besiktas) | BWTS fitted |
 | Chemical/Oil Products | Apatyth | 24.086 | 2004 | 3 Maj, Croatia | 04/2024 | Sulzer | $ 10m | Undisclosed | Ice Class 1B |
 

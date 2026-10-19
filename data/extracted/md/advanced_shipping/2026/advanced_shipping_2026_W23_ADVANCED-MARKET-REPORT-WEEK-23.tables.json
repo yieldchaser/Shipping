@@ -101,13 +101,13 @@
       "YARD": "SWS, China",
       "M_E": "MAN-B&W",
       "GEAR": "-",
-      "PRICE": "$ 60m",
+      "PRICE": "$ 60m enbloc",
       "PRICE_USD_MILL": 60.0,
       "BUYERS": "Undisclosed",
       "SS": "09/2029",
       "COMMENTS": "Scrubber fitted",
       "source_file": "advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf",
-      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"$ 60m\"}"
+      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"$ 60m enbloc\"}"
     },
     {
       "issue": "2026-06-05",
@@ -123,13 +123,13 @@
       "YARD": "SWS, China",
       "M_E": "MAN-B&W",
       "GEAR": "-",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 60m enbloc",
+      "PRICE_USD_MILL": 60.0,
       "BUYERS": "Undisclosed",
       "SS": "06/2030",
       "COMMENTS": "Scrubber fitted",
       "source_file": "advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf",
-      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"$ 60m enbloc\"}"
     },
     {
       "issue": "2026-06-05",
@@ -224,6 +224,28 @@
       "report_week": "23",
       "section": "Bulk Carriers",
       "page": "3",
+      "NAME": "AE Mars",
+      "TYPE": "Supramax",
+      "DWT": "53,630",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "2006",
+      "YARD": "Yangzhou, China",
+      "M_E": "MAN-B&W",
+      "GEAR": "4x35T",
+      "PRICE": "$ 9,05m",
+      "PRICE_USD_MILL": 9.05,
+      "BUYERS": "Undisclosed",
+      "SS": "08/2026",
+      "COMMENTS": "Online bidding, basis \"As Is, Where Is\"",
+      "source_file": "advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf",
+      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"$ 9,05m\"}"
+    },
+    {
+      "issue": "2026-06-05",
+      "report_week": "23",
+      "section": "Bulk Carriers",
+      "page": "3",
       "NAME": "Tianjin Venture",
       "TYPE": "Supramax",
       "DWT": "53,600",
@@ -299,13 +321,13 @@
       "YARD": "Hyundai Samho, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "",
-      "PRICE": "$ 285,8m in",
+      "PRICE": "$ 285,8m in aggregate",
       "PRICE_USD_MILL": 285.8,
       "BUYERS": "Undisclosed",
       "SS": "11/2029",
       "COMMENTS": "Scrubber fitted",
       "source_file": "advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf",
-      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"$ 285,8m in\"}"
+      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"$ 285,8m in aggregate\"}"
     },
     {
       "issue": "2026-06-05",
@@ -321,13 +343,13 @@
       "YARD": "Daehan, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "",
-      "PRICE": "aggregate",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 285,8m in aggregate",
+      "PRICE_USD_MILL": 285.8,
       "BUYERS": "Undisclosed",
       "SS": "04/2030",
       "COMMENTS": "Scrubber fitted",
       "source_file": "advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf",
-      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"aggregate\"}"
+      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"$ 285,8m in aggregate\"}"
     },
     {
       "issue": "2026-06-05",
@@ -387,13 +409,13 @@
       "YARD": "Shin Kurushima, Japan",
       "M_E": "MAN-B&W",
       "GEAR": "",
-      "PRICE": "$ 22,95m",
+      "PRICE": "$ 22,95m enbloc",
       "PRICE_USD_MILL": 22.95,
       "BUYERS": "Undisclosed",
       "SS": "07/2026",
       "COMMENTS": "St St",
       "source_file": "advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf",
-      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"$ 22,95m\"}"
+      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"$ 22,95m enbloc\"}"
     },
     {
       "issue": "2026-06-05",
@@ -409,13 +431,13 @@
       "YARD": "Usuki, Japan",
       "M_E": "MAN-B&W",
       "GEAR": "",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 22,95m enbloc",
+      "PRICE_USD_MILL": 22.95,
       "BUYERS": "Undisclosed",
       "SS": "07/2028",
       "COMMENTS": "St St, DD 08/2026",
       "source_file": "advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf",
-      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2026-06-05\", \"report_week\": \"23\", \"source_file\": \"advanced_shipping_2026_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf\", \"raw_price\": \"$ 22,95m enbloc\"}"
     },
     {
       "issue": "2026-06-05",

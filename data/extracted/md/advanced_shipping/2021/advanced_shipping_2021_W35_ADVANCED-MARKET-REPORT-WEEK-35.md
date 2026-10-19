@@ -79,15 +79,23 @@ A number of Continental trips into US Gulf were reported at the level of usd 35,
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Stella Naomi | 181.031 | 2016 | SWS, China | 06/2026 | MAN- B&W | - | $ 44m |  |  |
+| Capesize | Stella Hope | 180.007 | 2016 | Dalian, China | 09/2021 | MAN- B&W | - | $ 44m | Turkish (Ciner) | BWTS fitted, Incl. Index linked T/C |
 | Capesize | Stella Nora | 180.000 | 2016 | SWS, China | 07/2026 | MAN- B&W | - | $ 44m |  |  |
+| Kamsarmax | Ranger | 82.172 | 2012 | Tsuneishi Zhoushan, China | 07/2022 | MAN- B&W | - | $ 24m | Undisclosed | Dely Q4 2021 |
+| Panamax | Okeanos Bliss | 76.636 | 2008 | Imabari, Japan | 11/2023 | MAN- B&W | - | $ 18,75m | Greek (Castor Maritime) | Dely Oct-Nov'21 basis DD passed & BWTS fitted |
+| Supramax | Alam Molek | 58.074 | 2014 | Shin Kurushima, Japan | 10/2024 | MAN- B&W | 4x30,5T | $ 27m | Bangladeshi (Meghna) | Old sales |
+| Supramax | Alam Madu | 58.045 | 2014 | Shin Kurushima, Japan | 09/2024 | MAN- B&W | 4x30,5T | $ 27m | Bangladeshi (Meghna) | Old sales |
 | Supramax | Skylight | 56.847 | 2009 | Taizhou, China | 07/2024 | MAN- B&W | 4x30T | $ 16,35m | Undisclosed | BWTS fitted |
 | Supramax | Ocean Success | 56.815 | 2011 | Tianjin, China | 11/2021 | MAN- B&W | 4x30T | High $ 15m | Undisclosed | Dely Oct'21 |
 | Supramax | Hua Rong 1 | 56.381 | 2012 | Zhejiang, China | 08/2023 | MAN- B&W | 4x36T | $ 19,2m | Chinese | Auction sale |
 | Supramax | Centenario Forza | 56.129 | 2012 | Mitsui, Japan | 04/2022 | MAN- B&W | 4x30T | Excess $ 20m | Undisclosed | Dely Oct'21 |
 | Supramax | Cressida | 55.614 | 2006 | NACKS, China | 07/2025 | MAN- B&W | 4x30,5T | $ 16m | Undisclosed |  |
+| Supramax | Antoine | 55.498 | 2009 | Mitsui, Japan | 03/2024 | MAN- B&W | 4x30T | $ 19,2m | Turkish | BWTS fitted, T/C attached at BSI 97% until Oct-Feb'22 |
 | Supramax | Sibulk Tradition | 53.206 | 2008 | Iwagi, Japan | 07/2025 | MAN- B&W | 4x30,5T | $ 17m | Undisclosed | Dely Dec'21 |
 | Handysize | Houston Pearl | 35.914 | 2011 | Hyundai Mipo, Korea | 01/2026 | MAN- B&W | 4x35T | Low-Mid $ 18m | Undisclosed | OHBS, BWTS fitted |
 | Small | Rich Land 58 | 16.552 | 2006 | Linhai Huipu, China |  | Pielstick | - | $ 5m | Chinese |  |
+| Small | Bozok | 9.200 | 1997 | Bijlsma Lemmer, Netherlands | 10/2024 | Stork- Wartsila | - | $ 2,8m | Undisclosed |  |
 
 ## Page 4
 
@@ -106,12 +114,13 @@ A number of Continental trips into US Gulf were reported at the level of usd 35,
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Ital Laguna | 5.090 | 2006 | Hanjin, Korea | 11/2021 | MAN-B&W | - | Undisclosed | French (CMA CGM) |  |
-| Post Panamax | Ital Libera | 5.090 | 2007 | Hanjin, Korea | 02/2022 | MAN-B&W | - | Undisclosed | French |  |
-| Post Panamax | Ital Lirica | 5.090 | 2007 | Hanjin, Korea | 04/2022 | MAN-B&W | - | Undisclosed | (CMA CGM) |  |
+| Post Panamax | Ital Libera | 5.090 | 2007 | Hanjin, Korea | 02/2022 | MAN-B&W | - | Undisclosed | French (CMA CGM) |  |
+| Post Panamax | Ital Lirica | 5.090 | 2007 | Hanjin, Korea | 04/2022 | MAN-B&W | - | Undisclosed | French (CMA CGM) |  |
 | Post Panamax | Ital Lunare | 5.090 | 2007 | Hanjin, Korea | 05/2022 | MAN-B&W | - | Undisclosed | French (CMA CGM) |  |
 | Sub Panamax | Busan Trader | 2.664 | 2009 | Stx, Korea | 11/2024 | MAN-B&W | 4x45T | $ 35m | Undisclosed |  |
 | Feeder | Okee Ann Mari | 1.740 | 2002 | Guangzhou, China | 12/2022 | MAN-B&W | 2x40T | Low $ 20m | Swiss (MSC) |  |
 | Feeder | Vega Sigma | 1.118 | 2007 | Qingshan, China | 11/2022 | MAN | 2x45T | Mid $ 15m | Swiss (MSC) | Old sale |
+| Feeder | Xiang Shun | 1.050 | 1997 | Yvc Ysselwerf, Netherlands | 05/2022 | Wartsila | - | $ 5,8m | Korean (Sinokor) |  |
 
 ## Page 5
 

@@ -80,12 +80,15 @@ A number of trips from China into India with petcoke were reported at the level 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kamsarmax | Rich Rainforest | 82.300 | 2022 | Yamic, China | 01/2027 | MAN- B&W | - | $ 34,5m | Japanese | BWTS fitted, BBHP |
-| Panamax | Golden Strength | 75.744 | 2009 | Jiangsu, China | 04/2024 | MAN- B&W | - | $ 30m | Greek | BWTS fitted, Ice Class 1C |
-| Panamax | Golden Ice | 75.725 | 2008 | Jiangsu, China | 12/2023 | MAN- B&W | - | enbloc | Greek | Ice Class 1C |
+| Kamsarmax | Nord Pollux | 81.839 | 2016 | Tsuneishi Cebu, Philippines | 01/2026 | MAN- B&W | - | Low $ 25m | Greek | BWTS fitted |
+| Panamax | Golden Strength | 75.744 | 2009 | Jiangsu, China | 04/2024 | MAN- B&W | - | $ 30m enbloc | Greek | BWTS fitted, Ice Class 1C |
+| Panamax | Golden Ice | 75.725 | 2008 | Jiangsu, China | 12/2023 | MAN- B&W | - | $ 30m enbloc | Greek | Ice Class 1C |
 | Ultramax | Delsa | 63.166 | 2015 | Zhejiang, China | 05/2025 | MAN- B&W | 4x36T | $ 24,5m | Turkish | BWTS fitted, DD 03/2023 |
+| Supramax | Jaeger | 52.483 | 2004 | Tsuneishi Cebu, Philippines | 10/2024 | MAN- B&W | 4x30T | $ 10,5m | Middle Eastern | BWTS fitted, DD 01/2023 |
 | Supramax | Rio Choapa | 50.633 | 2012 | Oshima, Japan | 12/2027 | Mitsubishi | 4x30T | $ 16,5m | Greek | OHBS, BWTS fitted |
 | Handysize | Interlink Sagacity | 38.743 | 2015 | Taizhou, China | 08/2025 | MAN- B&W | 4x30T | $ 20m | Undisclosed | BWTS fitted, Ice Class 1C |
 | Handysize | Cygnus | 32.642 | 2005 | Kanda, Japan | 12/2025 | Mitsubishi | 4x30,5T | $ 9,5m | Middle Eastern |  |
+| Handysize | Shanghai | 31.923 | 2000 | Saiki, Japan | 12/2025 | Mitsubishi | 4x30T | $ 8,3m | Lebanese | OHBS, BWTS fitted, Ice Class II |
 | Handysize | Gant Grace | 28.375 | 2010 | Imabari, Japan | 01/2025 | MAN- B&W | 4x30,5T | $ 12,5m | Greek | BWTS fitted |
 
 ### Tankers
@@ -113,6 +116,7 @@ A number of trips from China into India with petcoke were reported at the level 
 | MR | Single | 37.824 | 2007 | Hyundai Mipo, Korea | 01/2023 | MAN-B&W | $ 13,5m | Undisclosed | Ice Class 1A |
 | Chemical/Oil Products | Nave Polaris | 25.145 | 2011 | Dae Sun, Korea | 01/2026 | MAN-B&W | $ 14,7m | Undisclosed |  |
 | Chemical/Oil Products | Nave Cosmos | 25.130 | 2010 | Dae Sun, Korea | 10/2025 | MAN-B&W | $ 13,6m | Undisclosed |  |
+| Chemical/Oil Products | Straum | 19.934 | 2010 | Qingshan, China | 01/2025 | MAN-B&W | $ 19m | Chinese | St St, BWTS fitted, Scrubber fitted, Ice Class 1A, DD 01/2023 |
 | Chemical/Oil Products | Bochem Chennai | 19.801 | 2012 | Kitanihon, Japan | 03/2027 | Mitsubishi | $ 23,8m | Undisclosed | St St, BWTS fitted |
 | Chemical/Oil Products | YC Dahlia | 10.977 | 2010 | Nokbong, Korea | 11/2025 | MAN-B&W | $ 11,2m | Thai | BWTS fitted |
 | Oil Products | Guang Hui 638 | 7.048 | 2013 | Haidong, China | 04/2023 | Wartsila | $ 7,2m | Undisclosed |  |
@@ -121,8 +125,8 @@ A number of trips from China into India with petcoke were reported at the level 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | Karoline N | 54.004 | 2009 | Hyundai, Korea | 02/2024 | MAN-B&W | 73.555 | $ 50m | Undisclosed | Incl. T/C |
-| LPG | Ronald N | 54.004 | 2008 | Hyundai, Korea | 08/2023 | MAN-B&W | 73.517 | $ 50m | Undisclosed | attached |
+| LPG | Karoline N | 54.004 | 2009 | Hyundai, Korea | 02/2024 | MAN-B&W | 73.555 | $ 50m | Undisclosed | Incl. T/C attached |
+| LPG | Ronald N | 54.004 | 2008 | Hyundai, Korea | 08/2023 | MAN-B&W | 73.517 | $ 50m | Undisclosed | Incl. T/C attached |
 | LPG | Berkshire | 26.466 | 2008 | Hyundai, Korea | 07/2023 | MAN-B&W | 34.483 | Excess $ 30m | Undisclosed |  |
 
 ## Page 5

@@ -75,9 +75,10 @@ Trips from North China into South East Asia were fixed around usd 8,000/10,000 p
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Newcastlemax | Bulk Santos | 208.445 | 2020 | New Times, China | 06/2030 | MAN-B&W | - | $ 145,5m | US based | Scrubber fitted |
-| Newcastlemax | Bulk Sydney | 207.992 | 2020 | New Times, China | 01/2030 | MAN-B&W | - | enbloc | (GENCO) | Scrubber fitted |
+| Newcastlemax | Bulk Santos | 208.445 | 2020 | New Times, China | 06/2030 | MAN-B&W | - | $ 145,5m enbloc | US based (GENCO) | Scrubber fitted |
+| Newcastlemax | Bulk Sydney | 207.992 | 2020 | New Times, China | 01/2030 | MAN-B&W | - | $ 145,5m enbloc | US based (GENCO) | Scrubber fitted |
 | Capesize | Belgravia | 169.391 | 2009 | Daehan, Korea | 10/2029 | MAN-B&W | - | rgn $ 25m | Chinese | Scrubber fitted |
+| Post Panamax | Piavia | 93.296 | 2011 | Yangfan, China | 04/2026 | MAN-B&W | - | $ 11,75m | Undisclosed | T/C attached at 102% of BPI with min redely Dec'25 |
 | Kamsarmax | Yasa Pioneer | 82.849 | 2006 | Tsuneishi, Japan | 02/2026 | MAN-B&W | - | $ 10,7m | Undisclosed |  |
 | Kamsarmax | Xin Tang Shan Hai 1 | 81.870 | 2013 | Cosco, China | 07/2027 | MAN-B&W | - | $ 15,36m | Undisclosed | Auction sale |
 | Kamsarmax | Chang Xin 66 | 79.998 | 2012 | Fujian, China | 06/2027 | Wartsila | - | $ 14m | Chinese | Ice Class II |
@@ -88,6 +89,7 @@ Trips from North China into South East Asia were fixed around usd 8,000/10,000 p
 | Ultramax | Santa Maria | 61.323 | 2014 | Iwagi, Japan | 11/2028 | MAN-B&W | 4x30,7T | Low $ 21m | Undisclosed | Dely Jun'26 |
 | Ultramax | Great Voyage | 61.088 | 2021 | DACKS, China | 04/2026 | MAN-B&W | 4x30T | $ 30,5m | Undisclosed | Online bidding |
 | Supramax | Trident Star | 57.836 | 2015 | Tsuneishi Cebu, Philippines | 10/2030 | MAN-B&W | 4x30T | $ 18,4m | Undisclosed |  |
+| Supramax | Victorious | 55.648 | 2011 | Hyundai- Vinashin, Vietnam | 09/2026 | MAN-B&W | 4x30T | Mid-High $ 13m | Undisclosed |  |
 | Handymax | Hisaronu-M | 48.893 | 2001 | IHI, Japan | 02/2026 | Sulzer | 4x30T | $ 6,2m | Undisclosed |  |
 | Handysize | Saturnia | 38.947 | 2015 | Jiangmen, China | 10/2030 | MAN-B&W | 4x30,5T | $ 18,5m | Greek |  |
 | Handysize | Sider Onda | 38.695 | 2015 | Naikai, Japan | 06/2029 | MAN-B&W | 4x30T | $ 21m | Greek | OHBS |
@@ -108,6 +110,10 @@ Trips from North China into South East Asia were fixed around usd 8,000/10,000 p
 | MR | Marlin Aquamarine | 49.999 | 2016 | Guangzhou, China | 06/2026 | MAN-B&W | $ 130m enbloc | Undisclosed | Scrubber fitted |
 | MR | Marlin Aventurine | 49.999 | 2016 | Guangzhou, China | 02/2026 | MAN-B&W |  |  | Scrubber fitted |
 | MR | Marlin Azyrite | 49.999 | 2016 | Guangzhou, China | 04/2026 | MAN-B&W |  |  | Scrubber fitted |
+| MR | Jingjiang Nanyang YZJF2024-001 | 49.800 | 2026 | Jingjiang, China |  | MAN-B&W | $ 45m | Monaco based (Scorpio Tankers) |  |
+| MR | Jingjiang Nanyang YZJF2024-002 | 49.800 | 2026 | Jingjiang, China |  | MAN-B&W | $ 45m | Monaco based (Scorpio Tankers) |  |
+| MR | Jingjiang Nanyang YZJF2024-003 | 49.800 | 2026 | Jingjiang, China |  | MAN-B&W | $ 45m | Monaco based (Scorpio Tankers) |  |
+| MR | Jingjiang Nanyang YZJF2024-004 | 49.800 | 2026 | Jingjiang, China |  | MAN-B&W | $ 45m | Monaco based (Scorpio Tankers) |  |
 | Chemical/Oil Products | MTM North Sound | 19.874 | 2006 | Fukuoka, Japan | 11/2029 | Mitsubishi | $ 15m | Undisclosed | St St |
 
 ### Containers
@@ -117,8 +123,8 @@ Trips from North China into South East Asia were fixed around usd 8,000/10,000 p
 | Panamax | Atlantica Power | 4.616 | 2010 | Daewoo, Korea | 04/2030 | MAN-B&W | - | $ 45m | Swiss based (MSC) |  |
 | Panamax | Irenes Resolve | 3.739 | 2001 | Samsung, Korea | 09/2026 | Sulzer | 2x45T | $ 23m | Undisclosed | Ice Class II |
 | Panamax | Newnew Star 2 | 3.534 | 2007 | Shanghai, China | 12/2027 | MAN-B&W | - | $ 26m | Swiss based (MSC) | Ice Class II |
-| Feeder | Contship Sea | 1.432 | 2007 | Jiangsu, China | 10/2027 | Wartsila | - | $ 34m | Undisclosed | Ice Class II |
-| Feeder | Contship Run | 1.432 | 2007 | Jiangsu, China | 07/2027 | Wartsila | - | enbloc | Undisclosed | Ice Class II |
+| Feeder | Contship Sea | 1.432 | 2007 | Jiangsu, China | 10/2027 | Wartsila | - | $ 34m enbloc | Undisclosed | Ice Class II |
+| Feeder | Contship Run | 1.432 | 2007 | Jiangsu, China | 07/2027 | Wartsila | - | $ 34m enbloc | Undisclosed | Ice Class II |
 | Feeder | EF Elena | 1.338 | 2007 | Jiangsu, China | 12/2027 | MAN-B&W | 2x45T | $ 17m | Undisclosed | Ice Class II, DD 02/2026 |
 
 ## Page 5

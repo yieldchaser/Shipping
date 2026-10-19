@@ -79,8 +79,8 @@ A number of trips from North China into South China with steels were fixed aroun
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Newcastlemax | Clear Horizon | 207.947 | 2012 | NACKS, China | 07/2027 | MAN-B&W | - | $ 31,5m | German (Neu | BWTS fitted |
-| Newcastlemax | Blue Horizon | 207.867 | 2012 | NACKS, China | 06/2027 | MAN-B&W | - | $ 31,5m | Seeschiffahrt) | BWTS fitted |
+| Newcastlemax | Clear Horizon | 207.947 | 2012 | NACKS, China | 07/2027 | MAN-B&W | - | $ 31,5m | German (Neu Seeschiffahrt) | BWTS fitted |
+| Newcastlemax | Blue Horizon | 207.867 | 2012 | NACKS, China | 06/2027 | MAN-B&W | - | $ 31,5m | German (Neu Seeschiffahrt) | BWTS fitted |
 | Capesize | Navios Beaufiks | 180.310 | 2004 | Koyo, Japan | 08/2026 | MAN-B&W | - | Region $ 13m | Undisclosed | BWTS fitted |
 | Capesize | Suigo | 174.802 | 2011 | Namura & Sasebo, Japan | 11/2026 | MAN-B&W | - | $ 23,5m | Greek | BWTS fitted |
 | Kamsarmax | Nord Sun | 82.146 | 2013 | Tsuneishi Cebu, Philippines | 10/2026 | MAN-B&W | - | High $ 21m | Greek | BWTS fitted |
@@ -104,6 +104,7 @@ A number of trips from North China into South China with steels were fixed aroun
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aframax | PS Venezia | 108.870 | 2010 | Hudong-Zhonghua, China | 08/2025 | MAN-B&W | Low-Mid $ 37m | Undisclosed | BWTS fitted |
+| MR | Pyxis Epsilon | 50.124 | 2015 | Spp, Korea | 01/2025 | MAN-B&W | $ 40,75m | US based | BWTS fitted, Military Sealift Command tender |
 | MR | Dominia | 40.174 | 2009 | Sls, Korea | 06/2024 | MAN-B&W | Mid $ 24m | Greek (Stealth Maritime) | Auction sale, Ice Class 1B |
 | MR | Shandong Zihe | 40.059 | 2004 | Shina, Korea | 03/2024 | MAN-B&W | $ 14,45m | Undisclosed | Auction sale |
 

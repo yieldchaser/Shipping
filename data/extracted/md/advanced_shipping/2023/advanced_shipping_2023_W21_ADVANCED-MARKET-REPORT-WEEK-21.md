@@ -84,8 +84,8 @@ A generally quiet week for this segment. A number of East Coast South American t
 | Kamsarmax | Sea Proteus | 81.762 | 2013 | Wuhu, China | 07/2023 | MAN-B&W | - |  |  |  |
 | Kamsarmax | Sea Pluto | 81.007 | 2013 | New Times, China | 11/2023 | MAN-B&W | - | $ 70,5m enbloc | Undisclosed |  |
 | Kamsarmax | Sea Venus | 80.888 | 2013 | New Century, China | 10/2023 | MAN-B&W | - |  |  |  |
-| Ultramax | Taurus Confidence | 63.270 | 2018 | New Dayang, China | 12/2023 | MAN-B&W | 4x35T | $ 27,9m | Norwegian | BWTS fitted, |
-| Ultramax | Aries Confidence | 63.153 | 2018 | New Dayang, China | 11/2023 | MAN-B&W | 4x35T | $ 27,9m | Norwegian | Dely Oct-Dec'23 |
+| Ultramax | Taurus Confidence | 63.270 | 2018 | New Dayang, China | 12/2023 | MAN-B&W | 4x35T | $ 27,9m | Norwegian | BWTS fitted, Dely Oct-Dec'23 |
+| Ultramax | Aries Confidence | 63.153 | 2018 | New Dayang, China | 11/2023 | MAN-B&W | 4x35T | $ 27,9m | Norwegian | BWTS fitted, Dely Oct-Dec'23 |
 | Supramax | Magnum Fortune | 53.631 | 2009 | Yangzhou, China | 11/2026 | MAN-B&W | 4x35T | $ 12,9m | Indonesian | BWTS fitted |
 | Supramax | Ella | 52.454 | 2003 | Tsuneishi, Japan | 11/2023 | B&W | 4x30T | $ 9,7m | Undisclosed | BWTS fitted |
 | Supramax | Great Wenjie | 50.777 | 2002 | Oshima, Japan | 09/2027 | Sulzer | 4x30T | $ 7,5m | Undisclosed | BWTS fitted |
@@ -98,6 +98,7 @@ A generally quiet week for this segment. A number of East Coast South American t
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aframax | Ace | 113.005 | 2008 | New Times, China | 09/2023 | MAN-B&W | $ 37,8m | Undisclosed |  |
+| Aframax | Sperchios | 106.999 | 2018 | Namura & Sasebo, Japan |  | MAN-B&W | $ 68,5m | Middle Eastern | BWTS fitted, Scrubber fitted, SS/DD due |
 | Aframax | Sea Hazel | 106.085 | 2004 | Tsuneishi, Japan | 01/2024 | B&W | Excess $ 31m | Undisclosed | BWTS fitted |
 | Aframax | Seascout | 105.330 | 2004 | Hyundai Samho, Korea | 01/2024 | B&W | $ 27m | Undisclosed | Ice Class II |
 | LR1 | Gulf Crystal | 74.999 | 2009 | Hyundai Mipo, Korea | 11/2024 | MAN-B&W | $ 29,5m | Undisclosed | BWTS fitted |

@@ -80,6 +80,7 @@ A number of Australian trips into China were reported at the level of usd 11,000
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | TW Manila | 93.250 | 2012 | Jiangsu, China | 04/2027 | MAN- B&W | - | $ 19m | Undisclosed |  |
+| Supramax | Sagar Moti | 58.097 | 2012 | Tsuneishi Zhoushan, China | 06/2027 | MAN- B&W | 4x30T | Excess $ 17m | Far Eastern | BWTS fitted |
 | Handymax | Zilos | 46.541 | 2000 | Oshima, Japan | 04/2025 | Sulzer | 4x30T | Undiscl | Turkish |  |
 | Handysize | Seastar Hawk | 40.355 | 2022 | Hakodate, Japan | 08/2027 | MAN- B&W | 4x30T | $ 30,9m | Japanese (Daido Kaiun) |  |
 
@@ -90,15 +91,17 @@ A number of Australian trips into China were reported at the level of usd 11,000
 | VLCC | Syfnos | 298.495 | 2006 | Universal, Japan | 06/2026 | MAN- B&W | $ 56m | UAE based | Scrubber fitted |
 | Suezmax | Front Balder | 156.436 | 2009 | Jiangsu, China | 07/2024 | MAN- B&W | $ 38,5m | Turkish | Scrubber fitted |
 | Suezmax | Grena Knutsen | 148.553 | 2003 | Samsung, Korea | 12/2023 | B&W | $ 27,5m | Undisclosed | Shuttle tanker |
+| Suezmax | Mike R | 146.427 | 2006 | Universal, Japan | 09/2026 | MAN- B&W | $ 45m | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1A |
 | Aframax | Southern Rouse | 108.467 | 2018 | Tsuneishi, Japan | 09/2027 | MAN- B&W | $ 62m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Aframax | Antaios | 106.005 | 2006 | Hyundai Samho, Korea | 01/2026 | MAN- B&W | $ 33,5m | Undisclosed | End October sale |
 | LR1 | Antikeros | 69.714 | 2004 | Daewoo, Korea | 10/2024 | B&W | Region $ 13m | Undisclosed | DD 01/2023 |
+| LR1 | Strofades | 69.431 | 2006 | Daewoo- Mangalia, Romania | 11/2025 | MAN- B&W | $ 17,3m | Undisclosed | BWTS fitted |
 | MR | Navigare Pactor | 51.034 | 2012 | Stx, Korea | 01/2027 | MAN- B&W | $ 32m | Undisclosed | BWTS fitted |
 | MR | Nord Magic | 49.999 | 2009 | Hyundai Mipo, Korea | 09/2024 | MAN- B&W | $ 25m | Undisclosed | BWTS fitted |
 | MR | Nord Minute | 49.999 | 2009 | Hyundai Mipo, Korea | 03/2024 | MAN- B&W | $ 25m | Undisclosed | BWTS fitted |
 | MR | Centennial Misumi | 47.186 | 2008 | Onomichi, Japan | 09/2023 | MAN- B&W | $ 21,5m | Undisclosed | BWTS fitted |
-| MR | Hawassa | 42.190 | 2013 | Jinling, China | 01/2023 | MAN- B&W | $ 34m | Singaporean (Stamford |  |
-| MR | Bahir Dar | 42.150 | 2012 | Jinling, China | 02/2023 | MAN- B&W | enbloc | (Stamford Shipping) |  |
+| MR | Hawassa | 42.190 | 2013 | Jinling, China | 01/2023 | MAN- B&W | $ 34m enbloc | Singaporean (Stamford Shipping) |  |
+| MR | Bahir Dar | 42.150 | 2012 | Jinling, China | 02/2023 | MAN- B&W | $ 34m enbloc | Singaporean (Stamford Shipping) |  |
 
 ## Page 4
 

@@ -321,13 +321,13 @@
       "YARD": "Spp, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "4x35T",
-      "PRICE": "$ 27m",
+      "PRICE": "$ 27m enbloc",
       "PRICE_USD_MILL": 27.0,
       "BUYERS": "Undisclosed",
       "SS": "01/2029",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf",
-      "extra_json": "{\"issue_date\": \"2025-05-30\", \"report_week\": \"22\", \"source_file\": \"advanced_shipping_2025_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf\", \"raw_price\": \"$ 27m\"}"
+      "extra_json": "{\"issue_date\": \"2025-05-30\", \"report_week\": \"22\", \"source_file\": \"advanced_shipping_2025_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf\", \"raw_price\": \"$ 27m enbloc\"}"
     },
     {
       "issue": "2025-05-30",
@@ -343,13 +343,13 @@
       "YARD": "Spp, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "4x35T",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 27m enbloc",
+      "PRICE_USD_MILL": 27.0,
       "BUYERS": "Undisclosed",
       "SS": "12/2028",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf",
-      "extra_json": "{\"issue_date\": \"2025-05-30\", \"report_week\": \"22\", \"source_file\": \"advanced_shipping_2025_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2025-05-30\", \"report_week\": \"22\", \"source_file\": \"advanced_shipping_2025_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf\", \"raw_price\": \"$ 27m enbloc\"}"
     },
     {
       "issue": "2025-05-30",

@@ -79,6 +79,7 @@ No fixture reported for this segment. No period activity to report here.
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Tasik Melati | 180.310 | 2004 | Koyo, Japan | 05/2024 | B&W | - | $ 15,5m | Chinese (Jiangsu Steamship) | BWTS fitted |
 | Capesize | Mineral Ningbo | 178.120 | 2009 | SWS, China | 07/2024 | MAN-B&W | - | Region $ 24m | Undisclosed | BWTS fitted |
 | Capesize | Olympius | 171.314 | 2004 | Hyundai Samho, Korea | 02/2024 | B&W | - | $ 17m | UAE based |  |
 | Capesize | Victorius | 171.314 | 2004 | Hyundai Samho, Korea | 06/2024 | B&W | - | $ 17m | UAE based |  |
@@ -96,6 +97,7 @@ No fixture reported for this segment. No period activity to report here.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Baltic Sunrise | 309.373 | 2005 | Hyundai, Korea | 11/2025 | Wartsila | $ 51,5m | Chinese | Scrubber fitted |
 | Suezmax | Agape Soul | 159.165 | 2001 | Daewoo, Korea | 01/2026 | MAN-B&W | $ 29m | Undisclosed | BWTS fitted |
+| Suezmax | Navigare Tolero | 156.516 | 2011 | Jiangsu, China | 04/2026 | MAN-B&W | High $ 30m | Turkish (Advantage Tankers) | Old sale, Scrubber fitted, Incl. T/C until Q1 2024 |
 | Aframax | Wonder Bellatrix | 115.341 | 2006 | Samsung, Korea | 04/2026 | MAN-B&W | $ 72m enbloc | Undisclosed | BWTS fitted |
 | Aframax | Wonder Polaris | 115.341 | 2005 | Samsung, Korea | 05/2025 | MAN-B&W | $ 72m enbloc | Undisclosed | BWTS fitted |
 | LR2 | Ampleforth | 108.912 | 2008 | SWS, China | 08/2023 | MAN-B&W | $ 36m | Undisclosed | DD 08/2023 |
@@ -110,6 +112,7 @@ No fixture reported for this segment. No period activity to report here.
 | Aframax | Aframax Riviera | 107.113 | 2005 | Koyo, Japan | 03/2025 | Sulzer | $ 35m | UAE based | DD 06/2023 |
 | MR | MTM Hudson | 51.319 | 2004 | Stx, Korea | 06/2024 | MAN-B&W | $ 18m | Undisclosed | BWTS fitted |
 | MR | Jenny I | 40.128 | 2003 | Hyundai Mipo, Korea | 01/2028 | MAN-B&W | $ 17m | Undisclosed | Delivered |
+| MR | Blue Trader | 37.270 | 2005 | Hyundai Mipo, Korea | 03/2025 | MAN-B&W | $ 18,2m | Undisclosed | BWTS fitted, Ice Class 1B, DD 07/2023 |
 | Chemical/Oil Products | Super Infinity | 15.004 | 2009 | Stx Ro Offshore, Romania | 08/2024 | MAN | $ 9m | Undisclosed | Ice Class 1A |
 | Chemical/Oil Products | Super Hero | 14.984 | 2009 | Stx Ro Offshore, Romania | 07/2024 | MAN | $ 9m | Undisclosed | Ice Class 1A |
 | Chemical/Oil Products | Super Eastern | 12.825 | 2009 | Stx Offshore, Korea | 09/2024 | MAN-B&W | $ 9m | Undisclosed | BWTS fitted |

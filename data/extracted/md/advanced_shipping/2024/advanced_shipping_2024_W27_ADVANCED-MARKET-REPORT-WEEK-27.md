@@ -109,8 +109,10 @@ A generally quiet week for this segment. US Gulf trips were fixed around usd 16,
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR2 | Aristofanis | 115.521 | 2020 | Daehan, Korea | 01/2025 | MAN-B&W | $ 78,8m | Azerbaijani (ASCO) | BWTS fitted, Scrubber fitted |
+| Aframax | Pusaka Java | 108.524 | 2018 | Tsuneishi, Japan | 01/2028 | MAN-B&W | $ 69m | Singaporean (Eastern Pacific Shipping) | BWTS fitted, Scrubber fitted |
 | LR1 | PGC Companion | 72.825 | 2005 | Hudong-Zhonghua, China | 10/2028 | MAN-B&W | Region $ 18m | Undisclosed | BWTS fitted |
 | MR | Crimson Jade | 51.504 | 2017 | Minaminippon, Japan | 06/2027 | MAN-B&W | $ 31m | Italian (D'Amico) | p.option exercised |
+| MR | NCC Tihama | 45.948 | 2006 | Hyundai Mipo, Korea | 03/2026 | MAN-B&W | $ 22,5m | Undisclosed | Delivered, BWTS fitted, DD 06/2024 |
 
 ### Containers
 
@@ -118,6 +120,7 @@ A generally quiet week for this segment. US Gulf trips were fixed around usd 16,
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feeder | Vega Daytona | 1.868 | 2023 | Yangfan, China | 06/2028 | WinGD | - | $ 32,7m | Greek | BWTS fitted |
 | Feeder | Hansa Wolfsburg | 1.732 | 2007 | Guangzhou, China | 12/2027 | MAN-B&W | 2x45T | Region $ 14m | Undisclosed | BWTS fitted, Ice Class II |
+| Feeder | Algol | 1.345 | 2006 | Jiangsu, China | 09/2026 | MAN-B&W | 2x45T | Undiscl. | Greek (Element Shipmgmt) | Delivered, BWTS fitted |
 | Feeder | HS Busan | 962 | 2006 | Dae Sun, Korea | 12/2026 | MAN-B&W | - | Region $ 7m | Undisclosed |  |
 
 ### General Cargo

@@ -80,10 +80,10 @@ Trips from China into Southeast Asia were reported at the level of usd 10,000/12
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Pellonia | 93.386 | 2010 | Jiangsu, China | 03/2025 | MAN- B&W | - | $ 17,2m | Undisclosed |  |
-| Post Panamax | Great Glen | 93.252 | 2010 | Jiangsu, China | 04/2025 | MAN- B&W | - | $ 37m | Middle |  |
-| Post Panamax | Great Animation | 93.204 | 2011 | Jiangsu, China | 11/2025 | MAN- B&W | - | enbloc | Eastern | BWTS fitted |
-| Kamsarmax | CCS Orchid | 81.966 | 2017 | Jiangsu, China | 01/2027 | MAN- B&W | - | $ 54m | Chinese | BWTS fitted |
-| Kamsarmax | MSXT Hera | 81.738 | 2018 | Chengxi, China | 11/2023 | MAN- B&W | - | enbloc | Chinese | BWTS fitted |
+| Post Panamax | Great Glen | 93.252 | 2010 | Jiangsu, China | 04/2025 | MAN- B&W | - | $ 37m enbloc | Middle Eastern |  |
+| Post Panamax | Great Animation | 93.204 | 2011 | Jiangsu, China | 11/2025 | MAN- B&W | - | $ 37m enbloc | Middle Eastern | BWTS fitted |
+| Kamsarmax | CCS Orchid | 81.966 | 2017 | Jiangsu, China | 01/2027 | MAN- B&W | - | $ 54m enbloc | Chinese | BWTS fitted |
+| Kamsarmax | MSXT Hera | 81.738 | 2018 | Chengxi, China | 11/2023 | MAN- B&W | - | $ 54m enbloc | Chinese | BWTS fitted |
 | Panamax | Tai Prosperity | 77.747 | 2005 | CSBC, Taiwan | 10/2025 | MAN- B&W | - | $ 11,5m | Chinese |  |
 | Panamax | Pan Diva | 76.830 | 2004 | Sasebo, Japan | 09/2024 | B&W | - | Low $ 13m | Undisclosed | BWTS fitted |
 | Panamax | Dooyang Jeju | 76.634 | 2002 | Imabari, Japan | 11/2022 | MAN- B&W | - | $ 10,2m | Undisclosed |  |
@@ -102,9 +102,10 @@ Trips from China into Southeast Asia were reported at the level of usd 10,000/12
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | Neptune M | 299.546 | 2019 | Hyundai Samho, Korea | 05/2024 | MAN- B&W | Low $ 90m | Undisclosed | BWTS fitted, Scrubber fitted, |
-| VLCC | Pacific M | 299.546 | 2019 | Hyundai Samho, Korea | 01/2024 | MAN- B&W | Low $ 90m | Undisclosed | Incl. T/C attached |
+| VLCC | Neptune M | 299.546 | 2019 | Hyundai Samho, Korea | 05/2024 | MAN- B&W | Low $ 90m | Undisclosed | BWTS fitted, Scrubber fitted, Incl. T/C attached |
+| VLCC | Pacific M | 299.546 | 2019 | Hyundai Samho, Korea | 01/2024 | MAN- B&W | Low $ 90m | Undisclosed | BWTS fitted, Scrubber fitted, Incl. T/C attached |
 | Suezmax | Euroglory | 166.447 | 2005 | Brodosplit, Croatia | 04/2025 | B&W | $ 26m | Undisclosed |  |
+| Suezmax | Cap Philippe | 158.880 | 2006 | Samsung, Korea | 07/2026 | MAN- B&W | Undisclosed | Undisclosed | Old sale, BWTS fitted, Ice Class 1C |
 | Suezmax | Valtamed | 158.609 | 2004 | Daewoo, Korea | 09/2024 | B&W | $ 26m | European |  |
 | Aframax | P. Fos | 115.577 | 2007 | Sasebo, Japan | 03/2027 | MAN- B&W | $ 34m | Undisclosed |  |
 | MR | Gotland Sofia | 53.187 | 2007 | Guangzhou, China | 03/2027 | Wartsila | $ 18m |  | BWTS fitted, Ice Class 1A Super |

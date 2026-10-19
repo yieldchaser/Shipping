@@ -431,13 +431,13 @@
       "YARD": "Hyundai Mipo, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "",
-      "PRICE": "Region $ 35m",
+      "PRICE": "Region $ 35m enbloc",
       "PRICE_USD_MILL": 35.0,
       "BUYERS": "Middle Eastern",
       "SS": "07/2029",
       "COMMENTS": "Ice Class 1B",
       "source_file": "advanced_shipping_2025_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf",
-      "extra_json": "{\"issue_date\": \"2025-06-13\", \"report_week\": \"24\", \"source_file\": \"advanced_shipping_2025_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf\", \"raw_price\": \"Region $ 35m\"}"
+      "extra_json": "{\"issue_date\": \"2025-06-13\", \"report_week\": \"24\", \"source_file\": \"advanced_shipping_2025_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf\", \"raw_price\": \"Region $ 35m enbloc\"}"
     },
     {
       "issue": "2025-06-13",
@@ -453,13 +453,13 @@
       "YARD": "Hyundai Mipo, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "Region $ 35m enbloc",
+      "PRICE_USD_MILL": 35.0,
       "BUYERS": "Middle Eastern",
       "SS": "07/2025",
       "COMMENTS": "Ice Class 1B",
       "source_file": "advanced_shipping_2025_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf",
-      "extra_json": "{\"issue_date\": \"2025-06-13\", \"report_week\": \"24\", \"source_file\": \"advanced_shipping_2025_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2025-06-13\", \"report_week\": \"24\", \"source_file\": \"advanced_shipping_2025_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf\", \"raw_price\": \"Region $ 35m enbloc\"}"
     },
     {
       "issue": "2025-06-13",

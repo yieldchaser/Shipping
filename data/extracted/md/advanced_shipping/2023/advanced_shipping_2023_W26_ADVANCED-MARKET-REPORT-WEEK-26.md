@@ -81,9 +81,11 @@ Trips from China into India were fixed around usd 6,000/8,000 pd. Inter- Mediter
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kamsarmax | Lord Star | 82.830 | 2013 | Sanoyas, Japan | 06/2027 | MAN-B&W | - | Region $ 22m | Greek (Thenamaris) | BWTS fitted, Scrubber fitted |
 | Kamsarmax | Rikke | 81.895 | 2016 | Tsuneishi Zhoushan, China | 07/2026 | MAN-B&W | - | $ 27m | Greek | BWTS fitted |
+| Kamsarmax | JY Hongkong | 81.107 | 2019 | Chengxi, China | 08/2024 | MAN-B&W | - | $ 30m | Undisclosed | BWTS fitted, Commercial auction sale |
 | Ultramax | KK Progression | 64.012 | 2018 | Tsuneishi Cebu, Philippines | 09/2023 | MAN-B&W | 4x36T | Mid $ 28m | Undisclosed | BWTS fitted |
 | Ultramax | Gemini Confidence | 63.270 | 2019 | New Dayang, China | 07/2024 | MAN-B&W | 4x35T | Low $ 27m | Undisclosed | BWTS fitted |
 | Ultramax | Virgo Confidence | 63.206 | 2019 | New Dayang, China | 07/2024 | MAN-B&W | 4x35T | Low $ 27m | Undisclosed | BWTS fitted |
+| Ultramax | Great Spirit | 61.087 | 2019 | DACKS, China | 11/2024 | MAN-B&W | 4x30,5T | $ 28,9m | Undisclosed | BWTS fitted, Commercial auction sale |
 | Supramax | RHL Julia | 55.701 | 2009 | Mitsui, Japan | 11/2024 | MAN-B&W | 4x30T | $ 15,2m | Undisclosed | BWTS fitted |
 | Handysize | Comity | 37.302 | 2010 | Huatai, China | 02/2025 | Wartsila | 4x30T | $ 12,8m | Greek (Sigma Shipping) | Delivered |
 
@@ -92,8 +94,10 @@ Trips from China into India were fixed around usd 6,000/8,000 pd. Inter- Mediter
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Lulu | 316.507 | 2003 | Hyundai, Korea | 07/2023 | B&W | $ 42,5m | Chinese |  |
+| VLCC | Athenian Glory | 298.996 | 2011 | Hyundai, Korea | 10/2025 | MAN-B&W | $ 65m | Greek (Thenamaris) | Delivered, BWTS fitted, DD 11/2023 |
 | Suezmax | Sonangol Kassanje | 158.706 | 2005 | Daewoo, Korea | 06/2025 | B&W | $ 37m | UAE based (Infinity Ships) | BWTS fitted, basis DD passed |
 | Suezmax | Melodia | 158.671 | 2011 | Samsung, Korea | 10/2024 | MAN-B&W | $ 47,5m | Gardsea Shipping |  |
+| Suezmax | Elandra Osprey | 157.470 | 2018 | Hyundai Samho, Korea | 04/2028 | WinGD | $ 75m | Singaporean (Eastern Pacific Shipping) | BWTS fitted, Scrubber fitted |
 | Aframax | Minerva Zoe | 105.330 | 2004 | Hyundai Samho, Korea | 03/2024 | B&W | Region $ 31m | Chinese | Ice Class II |
 | MR | Falcon Sextant | 50.994 | 2009 | Stx, Korea | 09/2024 | MAN-B&W | High $ 25m | Vietnamese (Pacific Ocean) |  |
 | MR | Ridgebury Galileo | 47.872 | 2006 | Hyundai Mipo, Korea | 05/2026 | MAN-B&W | $ 19,5m | Undisclosed | BWTS fitted, Ice Class 1A |

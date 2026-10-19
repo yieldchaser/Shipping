@@ -87,6 +87,8 @@ A number of trips from China via Japan into Continent were fixed around usd 10,0
 | Supramax | Yuan An Hai | 56.957 | 2009 | Cosco, China | 08/2024 | MAN-B&W | 4x30T | Undisclosed | Undisclosed | BWTS fitted |
 | Supramax | Yuan Shun Hai | 56.956 | 2009 | Cosco, China | 08/2024 | MAN-B&W | 4x30T | Undisclosed | Undisclosed | BWTS fitted |
 | Supramax | Jin Zhou Hai | 56.907 | 2009 | Cosco, China | 11/2024 | MAN-B&W | 4x30T | Undisclosed | Undisclosed | BWTS fitted |
+| Supramax | Arkadia | 56.348 | 2012 | Hyundai- Vinashin, Vietnam | 01/2027 | MAN-B&W | 4x27,5T | Low $ 17m | Undisclosed | BWTS fitted, Ice Class 1A |
+| Supramax | Kumpula | 56.348 | 2012 | Hyundai- Vinashin, Vietnam | 05/2027 | MAN-B&W | 4x27,5T | Low $ 17m | Undisclosed | BWTS fitted, Ice Class 1A |
 | Supramax | Nord Treasure | 55.888 | 2014 | Mitsui, Japan | 07/2024 | MAN-B&W | 4x30T | Mid-High $ 21m | Undisclosed | BWTS fitted |
 | Handysize | Jiangmen Nanyang 616 | 40.500 | 2023 | Jiangmen, China |  | MAN-B&W | 4x30T | $ 32m | German | Resale |
 | Handysize | Cielo Di Palermo | 37.059 | 2013 | Saiki, Japan | 08/2027 | MAN-B&W | 4x30,5T | $ 18,5m | Undisclosed | OHBS, BWTS fitted |

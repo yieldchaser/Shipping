@@ -79,6 +79,8 @@ Trips from East Mediterranean via Black Sea into East Coast South America and US
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kamsarmax | Seacon Vancouver | 85.688 | 2023 | Huangpu Wenchong, China | 06/2028 | MAN-B&W | - | $ 36m | Undisclosed | Wide beam, DD 06/2026, Dely Jul-Oct'26 |
+| Kamsarmax | Seacon Oslo | 85.507 | 2023 | Huangpu Wenchong, China | 09/2028 | MAN-B&W | - | $ 36m | Undisclosed | Wide beam, DD 09/2026, Dely Sep-Nov'26 |
 | Kamsarmax | Donghae Star | 82.861 | 2012 | Stx, Korea | 05/2027 | MAN-B&W | - | Low $ 17m | Undisclosed |  |
 | Kamsarmax | Diamantina | 82.139 | 2010 | Tsuneishi Zhoushan, China | 03/2030 | MAN-B&W | - | Rgn $ 19m | Undisclosed |  |
 | Kamsarmax | John M Carras | 82.057 | 2012 | Daewoo, Korea | 01/2027 | MAN-B&W | - | $ 18,2m | Greek (Bright Navigation) |  |
@@ -118,7 +120,9 @@ Trips from East Mediterranean via Black Sea into East Coast South America and US
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Panamax | Celsius Naples | 4.860 | 2009 | Daewoo, Korea | 04/2029 | MAN-B&W | - | $ 34,5m | Undisclosed | Ice Class II, DD 08/2026, Incl. T/C |
 | Sub Panamax | Monaco | 2.824 | 2006 | Hyundai Mipo, Korea | 11/2026 | MAN-B&W | - | $ 25,2m | Undisclosed |  |
+| Sub Panamax | Hammonia Baltica | 2.798 | 2011 | NYW, Germany | 05/2026 | MAN-B&W | - | $ 30,5m | Vietnamese (Hai An Transport) | Ice Class II, Incl. T/C |
 | Feeder | He Sheng | 1.102 | 2002 | Constanta, Romania | 07/2027 | MAN | 2x45T | Mid $ 5m | Chinese | Ice Class II |
 | Feeder | Erasmus Oasis | 1.049 | 2008 | Dae Sun, Korea | 06/2028 | MAN-B&W | - | $ 11m | Undisclosed |  |
 

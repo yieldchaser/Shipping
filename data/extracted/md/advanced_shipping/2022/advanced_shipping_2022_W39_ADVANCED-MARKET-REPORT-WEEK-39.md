@@ -79,13 +79,18 @@ A number of Indonesian trips into East Coast India were reported at the level of
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Frontier Triumph | 181.429 | 2012 | Imabari, Japan | 08/2025 | MAN- B&W | - | Region $ 30m | Chinese (Winning Shipping) |  |
 | Post Panamax | Great Wencheng | 91.439 | 2005 | Oshima, Japan | 01/2026 | Mitsubishi | - | $ 16,9m | Indonesian |  |
+| Kamsarmax | Cymona Gemini | 82.992 | 2006 | Tsuneishi, Japan | 06/2026 | MAN- B&W | - | $ 15,85m | Greek (Minoa Marine) | BWTS fitted |
 | Kamsarmax | Ocean Thyme | 82.306 | 2014 | Dalian, China | 01/2024 | MAN- B&W | - | $ 21m | Undisclosed | BWTS fitted |
+| Kamsarmax | Pedhoulas Trader | 82.214 | 2006 | Tsuneishi, Japan | 05/2026 | MAN- B&W | - | $ 15,85m | Greek (Minoa Marine) | BWTS fitted, Dely Dec'22 |
 | Kamsarmax | Nord Corona | 81.600 | 2019 | Jiangsu, China | 09/2024 | MAN- B&W | - | $ 29m | Undisclosed | BWTS fitted |
 | Panamax | Coral Emerald | 75.632 | 2007 | Sanoyas, Japan | 01/2026 | MAN- B&W | - | $ 14,5m | Undisclosed |  |
 | Ultramax | Nord Barents | 62.625 | 2019 | Oshima, Japan | 02/2024 | MAN- B&W | 4x30T | $ 33,3m | Undisclosed | BWTS fitted, Scrubber fitted |
+| Ultramax | Ultra Dynamic | 61.412 | 2011 | Shin Kasado, Japan | 07/2026 | MAN- B&W | 4x30,5T | $ 22,5m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Supramax | Taurus Honor | 56.758 | 2009 | Jiangsu, China | 11/2024 | MAN- B&W | 4x35T | $ 14,8m | Undisclosed | BWTS fitted |
 | Supramax | Navios Ulysses | 55.728 | 2007 | Oshima, Japan | 01/2027 | MAN- B&W | 4x30T | $ 14,5m | Undisclosed |  |
+| Handysize | Dream Ocean | 33.383 | 2013 | Shin Kurushima, Japan | 08/2025 | Mitsubishi | 4x30T | $ 17,65m | Undisclosed | OHBS, BWTS fitted |
 
 ### Tankers
 
@@ -93,6 +98,7 @@ A number of Indonesian trips into East Coast India were reported at the level of
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Maran Aquarius | 320.821 | 2005 | Daewoo, Korea | 09/2025 | MAN- B&W | $ 52m | Chinese | BWTS fitted, Scrubber fitted |
 | VLCC | Viki | 310.106 | 2000 | Samsung, Korea | 06/2023 | B&W | $ 29,5m | Undisclosed |  |
+| Suezmax | Lila Guangzhou | 159.149 | 2004 | Bohai, China | 05/2024 | MAN- B&W | $ 23,5m | Undisclosed | BWTS fitted, DD 12/2022, On subs |
 | Suezmax | Vinga | 158.982 | 2012 | Samsung, Korea | 11/2022 | MAN- B&W | Region $ 42m | Greek (Thenamaris) |  |
 | Suezmax | Nordic Rio | 151.174 | 2004 | Samsung, Korea | 04/2024 | MAN- B&W | Undisclosed | Undisclosed | Shuttle tanker, BWTS fitted |
 
@@ -103,14 +109,17 @@ A number of Indonesian trips into East Coast India were reported at the level of
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aframax | Concord Express | 111.920 | 2003 | Hyundai, Korea | 05/2023 | MAN- B&W | $ 23m | Chinese |  |
+| LR2 | STI Sanctity | 109.999 | 2016 | Sungdong, Korea | 03/2026 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | P. option declared, Dely Q1 2023 |
 | Aframax | Keros Voyager | 105.585 | 2008 | Hyundai, Korea | 11/2023 | MAN- B&W | $ 35,5m | Middle Eastern |  |
 | LR1 | Amber | 73.981 | 2008 | New Century, China | 08/2023 | MAN- B&W | $ 18,4m | Undisclosed |  |
 | LR1 | Azurite | 73.948 | 2008 | New Century, China | 09/2023 | MAN- B&W | $ 18,4m | Undisclosed |  |
-| MR | Ridgebury Birch | 53.712 | 2006 | Shin Kurushima, Japan | 02/2026 | Mitsubishi | $ 35m | Undisclosed | BWTS fitted |
-| MR | Ridgebury Acacia | 53.688 | 2006 | Shin Kurushima, Japan | 11/2025 | Mitsubishi | enbloc | Undisclosed | BWTS fitted |
+| MR | Ridgebury Birch | 53.712 | 2006 | Shin Kurushima, Japan | 02/2026 | Mitsubishi | $ 35m enbloc | Undisclosed | BWTS fitted |
+| MR | Ridgebury Acacia | 53.688 | 2006 | Shin Kurushima, Japan | 11/2025 | Mitsubishi | $ 35m enbloc | Undisclosed | BWTS fitted |
 | MR | Laperouse | 50.420 | 2011 | Guangzhou, China | 07/2026 | MAN- B&W | $ 26,3m | Undisclosed | BWTS fitted |
 | MR | Black Swan | 47.999 | 2007 | Iwagi, Japan | 01/2027 | MAN- B&W | Excess $ 19m | Undisclosed | BWTS fitted |
 | MR | Nord Gardenia | 39.999 | 2014 | Guangzhou, China | 08/2024 | MAN- B&W | Excess $ 26m | Undisclosed |  |
+| Chemical/Oil Products | Loch Lomond | 19.098 | 2010 | Zhejiang, China | 04/2025 | MAN- B&W | $ 11,25m | Undisclosed | Auction sale, BWTS fitted, Ice Class II |
+| Chemical/Oil Products | Wealthy Loyal | 19.098 | 2012 | Zhejiang, China | 05/2027 | MAN- B&W | $ 15,04m | Undisclosed | Auction sale, BWTS fitted, Ice Class II |
 
 ### Gas
 

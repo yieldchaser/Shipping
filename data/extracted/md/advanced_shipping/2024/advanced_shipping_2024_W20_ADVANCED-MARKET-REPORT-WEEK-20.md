@@ -81,7 +81,9 @@ A number of West African trips into East Coast South America were reported at th
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Newcastlemax | Trust Shanghai | 209.523 | 2021 | SWS, China | 04/2026 | MAN-B&W | - | Excess $ 73m | European | BWTS fitted, Scrubber fitted |
 | Newcastlemax | Trust Qingdao | 209.301 | 2021 | SWS, China | 02/2026 | MAN-B&W | - | Excess $ 73m | European | BWTS fitted, Scrubber fitted |
+| Newcastlemax | Fomento One | 206.810 | 2016 | Daehan, Korea | 10/2026 | MAN-B&W | - | Excess $ 55m | Greek | BWTS fitted, Scrubber fitted, Incl. index linked T/C till Aug'25 |
 | Capesize | Nord Ferrum | 179.678 | 2011 | HHIC, Philippines | 09/2026 | MAN-B&W | - | $ 34m | Undisclosed | Scrubber fitted |
+| Capesize | Corinthian Phoenix | 179.223 | 2009 | Hyundai, Korea | 09/2024 | MAN-B&W | - | $ 29m | UK based (Hayfin Capital Management) | BWTS fitted |
 | Kamsarmax | ASL Uranus | 82.372 | 2008 | Oshima, Japan | 02/2028 | MAN-B&W | - | $ 17m | Undisclosed | BWTS fitted |
 | Kamsarmax | Valiant Summer | 81.920 | 2016 | Tsuneishi Zhoushan, China | 06/2026 | MAN-B&W | - | $ 32,5m | German (Blumenthal) | BWTS fitted |
 | Panamax | Ying Hao 03 | 76.037 | 2012 | Hudong- Zhonghua, China | 05/2027 | MAN-B&W | - | Low $ 17m | Chinese | BWTS fitted |
@@ -89,8 +91,8 @@ A number of West African trips into East Coast South America were reported at th
 | Ultramax | Ping Hai | 62.623 | 2017 | Oshima, Japan | 09/2027 | MAN-B&W | 4x30T | $ 32m | Turkish | BWTS fitted, DD 07/2024 |
 | Supramax | Pacific Honor | 58.912 | 2011 | Kawasaki, Japan | 09/2025 | MAN-B&W | 4x30,5T | $ 19,5m | Undisclosed | BWTS fitted |
 | Supramax | Marylaki | 58.114 | 2010 | Tsuneishi Zhoushan, China | 07/2025 | MAN-B&W | 4x30T | Low $ 17m | Undisclosed | BWTS fitted |
-| Supramax | Belfriend | 57.679 | 2016 | Tsuneishi Cebu, Philippines | 09/2026 | MAN-B&W | 4x30T | $ 56,6m | US based (Pangaea | BWTS fitted |
-| Supramax | Beltide | 57.679 | 2016 | Tsuneishi Cebu, Philippines | 10/2026 | MAN-B&W | 4x30T | enbloc | Logistics Solutions) | BWTS fitted, DD 08/2024 |
+| Supramax | Belfriend | 57.679 | 2016 | Tsuneishi Cebu, Philippines | 09/2026 | MAN-B&W | 4x30T | $ 56,6m enbloc | US based (Pangaea Logistics Solutions) | BWTS fitted |
+| Supramax | Beltide | 57.679 | 2016 | Tsuneishi Cebu, Philippines | 10/2026 | MAN-B&W | 4x30T | $ 56,6m enbloc | US based (Pangaea Logistics Solutions) | BWTS fitted, DD 08/2024 |
 | Supramax | Delta Avon | 56.897 | 2012 | Cosco, China | 03/2027 | MAN-B&W | 4x30T | $ 14,3m | Chinese | BWTS fitted |
 | Supramax | Cheval Blanc | 56.732 | 2009 | Jiangsu, China | 09/2024 | MAN-B&W | 4x35T | Mid-High $ 11m | Undisclosed | BWTS fitted |
 | Supramax | Super Bergkamp | 55.651 | 2009 | Mitsui, Japan | 01/2027 | MAN-B&W | 4x30T | $ 15,5m | Greek | BWTS fitted |
@@ -107,6 +109,7 @@ A number of West African trips into East Coast South America were reported at th
 | MR | Gulf Esprit | 46.891 | 2006 | Hyundai Mipo, Korea | 11/2026 | Wartsila | $ 22m | Undisclosed | BWTS fitted |
 | MR | Ars Et Labor | 40.416 | 2008 | Constanta, Romania | 10/2028 | MAN-B&W | Low $ 24m | Italian | BWTS fitted |
 | Chemical/Oil Products | TRF Kirkenes | 19.997 | 2016 | Kitanihon, Japan | 02/2026 | MAN-B&W | $ 32,5m | Undisclosed | St St, BWTS fitted |
+| Chemical/Oil Products | G Bright | 19.931 | 2004 | Kitanihon, Japan | 06/2024 | Mitsubishi | $ 15,3m | Undisclosed | St St, BWTS fitted, SS/DD passed |
 
 ### Containers
 

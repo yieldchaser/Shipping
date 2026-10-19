@@ -79,9 +79,12 @@ South East Asian trips into India were reported at the level of usd 24,000 pd. W
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Post Panamax | Bunji | 98.704 | 2013 | Tsuneishi Zhoushan, China | 08/2023 | MAN- B&W | - | $ 23,75m | German (Oldendorff) |  |
 | Panamax | Yutai Ambitions | 77.283 | 2008 | Oshima, Japan | 11/2023 | MAN- B&W | - | $ 18,7m | Greek | BWTS fitted |
+| Panamax | Berlin | 76.600 | 2009 | Shin Kasado, Japan | 01/2024 | MAN- B&W | - | $ 19,9m | US based (Panagea Logistics) | BWTS fitted, T/C attached |
 | Panamax | Braveheart | 74.117 | 2001 | Imabari, Japan | 01/2026 | B&W | - | $ 13m | Undisclosed | BWTS fitted |
 | Ultramax | Star Crios | 63.301 | 2012 | Yangzhou, China | 06/2022 | MAN- B&W | 4x35T | $ 21,5m | Greek | Prompt dely Far East |
+| Ultramax | Star Damon | 63.227 | 2012 | Yangzhou, China | 10/2022 | MAN- B&W | 4x35T | $ 22,5m | Greek | BWTS fitted, T/C attached until Mar- May'22 |
 | Supramax | Fu Heng Shan | 57.034 | 2011 | Jiangsu, China | 04/2026 | MAN- B&W | - | $ 20m | Undisclosed | Chinese flag, BWTS fitted |
 | Handysize | Zhong Xing Da 98 | 38.448 | 2013 | Zhejiang, China |  | MAN- B&W | 4x30T | $ 14,1m | Undisclosed | Auction sale |
 | Handysize | Royal Justice | 36.976 | 2012 | Saiki, Japan | 12/2022 | Mitsubishi | 4x30T | Region $ 19,5m | Undisclosed | OHBS, BWTS fitted |
@@ -104,8 +107,8 @@ South East Asian trips into India were reported at the level of usd 24,000 pd. W
 | MR | Ocean Cosmos | 50.359 | 2008 | Sls, Korea | 01/2023 | MAN- B&W | $ 10,7m | Undisclosed | Auction sale |
 | MR | Ocean Globe | 50.344 | 2007 | Sls, Korea | 01/2022 | MAN- B&W | Region $ 10m | Undisclosed | Auction sale |
 | MR | Seaways Bodie | 37.627 | 2006 | Hyundai Mipo, Korea | 01/2022 | MAN- B&W | $ 7,6m | Undisclosed |  |
-| Chemical/Oil Products | LT Crystal | 13.200 | 2020 | Dayang, China | 01/2026 | Mitsubishi | $ 16,75m | Chinese (Nanjing Yangyang | BWTS fitted |
-| Chemical/Oil Products | LT Diamond | 13.200 | 2020 | Dayang, China |  | Mitsubishi | $ 16,75m | Chemical Transport) | BWTS fitted |
+| Chemical/Oil Products | LT Crystal | 13.200 | 2020 | Dayang, China | 01/2026 | Mitsubishi | $ 16,75m | Chinese (Nanjing Yangyang Chemical Transport) | BWTS fitted |
+| Chemical/Oil Products | LT Diamond | 13.200 | 2020 | Dayang, China |  | Mitsubishi | $ 16,75m | Chinese (Nanjing Yangyang Chemical Transport) | BWTS fitted |
 | Chemical/Oil Products | Mesabi | 12.934 | 2006 | Samho, Korea | 04/2025 | MAN- B&W | Region $ 6m | Undisclosed | BWTS fitted |
 | Chemical/Oil Products | Bardon | 12.902 | 2006 | Samho, Korea | 03/2026 | MAN- B&W | Region $ 6m | Undisclosed | BWTS fitted |
 

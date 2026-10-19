@@ -96,8 +96,8 @@ West African trips into Continent were reported at the level of usd 12,000/13,00
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Aframax | Dune | 113.667 | 2025 | Cosco, China | 06/2030 | MAN-B&W | $ 72m | Kazakhstani | Scrubber fitted, Ice Class 1C |
-| Aframax | Lamu | 113.633 | 2025 | Cosco, China | 05/2030 | MAN-B&W | $ 72m | (Kazmortransflot) | Scrubber fitted, Ice Class 1C |
+| Aframax | Dune | 113.667 | 2025 | Cosco, China | 06/2030 | MAN-B&W | $ 72m | Kazakhstani (Kazmortransflot) | Scrubber fitted, Ice Class 1C |
+| Aframax | Lamu | 113.633 | 2025 | Cosco, China | 05/2030 | MAN-B&W | $ 72m | Kazakhstani (Kazmortransflot) | Scrubber fitted, Ice Class 1C |
 | MR | Oriental Diamond | 50.781 | 2008 | Spp, Korea | 04/2028 | MAN-B&W | $ 15,5m | Greek |  |
 | MR | Oriental Gold | 50.591 | 2008 | Spp, Korea | 06/2028 | MAN-B&W | $ 15,5m | Greek |  |
 | MR | Bull Shark | 49.999 | 2009 | Hyundai Mipo, Korea | 03/2029 | MAN-B&W | Excess $ 17m | European |  |
@@ -112,6 +112,7 @@ West African trips into Continent were reported at the level of usd 12,000/13,00
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Feeder | Norderney | 1.930 | 2023 | Guangzhou, China | 09/2028 | MAN-B&W | - | $ 35m | Greek (Goldenport Shipmanagement) | Old sale, Incl. T/C to ONE |
 | Feeder | Hansa Bitburg | 1.740 | 2008 | Guangzhou, China | 10/2028 | MAN-B&W | 2x45T | Excess $ 20m | UAE | DD 11/2025 |
 | Feeder | Formosa Container No. 4 | 920 | 2007 | Nantong, China | 02/2027 | NAB-B&W | - | $ 7,5m | Singaporean |  |
 | Feeder | Shecan | 908 | 2008 | Nanjing, China | 10/2028 | MAN-B&W | - | Low-Mid $ 9m | Middle Eastern | Ice Class II |

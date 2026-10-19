@@ -80,9 +80,13 @@ A number of Chinese trips into Mediterranean were fixed around usd 21,000/23,000
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Agia Trias | 185.820 | 2002 | Kawasaki, Japan | 01/2023 | B&W | - | $ 15m | Turkish (Beks) |  |
+| Kamsarmax | Fiorela | 81.501 | 2011 | Hyundai Samho, Korea | 11/2026 | MAN- B&W | - | High $ 21m | Undisclosed | BWTS fitted |
 | Panamax | Bellatrix | 77.053 | 2006 | Oshima, Japan | 02/2026 | MAN- B&W | - | $ 14,6m | Greek | BWTS fitted |
+| Panamax | Navios Symmetry | 74.476 | 2006 | Hudong- Zhonghua, China | 06/2026 | MAN- B&W | - | Region $ 12m | Undisclosed | BWTS fitted |
 | Ultramax | Nord Biscay | 62.625 | 2019 | Oshima, Japan | 03/2024 | MAN- B&W | 4x30T | $ 33,2m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Ultramax | Berge Tronador | 61.087 | 2020 | DACKS, China | 04/2025 | MAN- B&W | 4x30T | $ 32,5m | Undisclosed | BWTS fitted |
+| Supramax | Pacific Hero | 58.677 | 2012 | Kawasaki, Japan | 01/2025 | MAN- B&W | 4x30,5T | $ 20,5m | Turkish (Aruna Shipping) | BWTS fitted, DD 01/2023 |
+| Supramax | Senorita | 58.300 | 2008 | Tsuneishi Cebu, Philippines | 03/2023 | MAN- B&W | 4x30T | Low $ 16m | Undisclosed | BWTS fitted |
 | Supramax | Teresa Oetker | 58.018 | 2010 | Yangzhou, China | 11/2025 | MAN- B&W | 4x35T | $ 16,1m | Greek | BWTS fitted |
 | Supramax | Ocean Adventure | 57.814 | 2015 | Tsuneishi, Japan | 10/2025 | MAN- B&W | 4x30T | Region $ 23m | Japanese | BWTS fitted |
 | Supramax | Jin Yao | 52.050 | 2004 | IHI, Japan | 06/2024 | Sulzer | 4x30T | Region $ 13m | Undisclosed | BWTS fitted |
@@ -90,6 +94,8 @@ A number of Chinese trips into Mediterranean were fixed around usd 21,000/23,000
 | Handysize | Royal Harmony | 37.238 | 2011 | Saiki, Japan | 10/2025 | Mitsubishi | 4x30T | $ 16,5m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Sunrise Bright | 36.371 | 2014 | Shikoku, Japan | 08/2024 | MAN- B&W | 4x30,5T | Excess $ 22m | Chinese | BWTS fitted |
 | Handysize | Nordic Oslo | 35.866 | 2012 | Nantong, China | 05/2027 | MAN- B&W | 4x30T | $ 18m | Undisclosed |  |
+| Handysize | ES Venus | 34.358 | 2014 | Namura & Sasebo, Japan | 04/2024 | Mitsubishi | 4x30T | $ 19m | Undisclosed | OHBS, BWTS fitted |
+| Handysize | Ansac Christine Nancy | 32.836 | 2013 | Kanda, Japan | 09/2025 | Mitsubishi | 4x30,5T | Low $ 17m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Singapore Spirit | 32.259 | 2002 | Saiki, Japan | 02/2027 | Mitsubishi | 4x30T | $ 12,5m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Grikos | 30.439 | 2006 | Shikoku, Japan | 06/2026 | MAN- B&W | 4x30,5T | Mid $ 12m | Undisclosed | Old sale |
 
@@ -100,10 +106,12 @@ A number of Chinese trips into Mediterranean were fixed around usd 21,000/23,000
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Rowan | 299.988 | 2001 | Kawasaki, Japan | 11/2025 | B&W | $ 29,8m | Chinese | Out of class |
-| LR2 | Sea Puma | 115.000 | 2023 | New Times, China |  | MAN- B&W | $ 71m | UK based | Resales, BWTS fitted |
-| LR2 | Sea Tiger | 115.000 | 2023 | New Times, China |  | MAN- B&W | $ 71m | (Navig8) | BWTS fitted, Scrubber fitted |
-| LR2 | Alburaq | 112.521 | 2008 | Hyundai, Korea | 10/2023 | MAN- B&W | Region $ 70m | Undisclosed |  |
-| LR2 | Sea Legend | 112.511 | 2008 | Hyundai, Korea | 12/2023 | MAN- B&W | $ 70m enbloc | Undisclosed |  |
+| LR2 | Sea Puma | 115.000 | 2023 | New Times, China |  | MAN- B&W | $ 71m | UK based (Navig8) | Resales, BWTS fitted, Scrubber fitted |
+| LR2 | Sea Tiger | 115.000 | 2023 | New Times, China |  | MAN- B&W | $ 71m | UK based (Navig8) | Resales, BWTS fitted, Scrubber fitted |
+| LR2 | Alburaq | 112.521 | 2008 | Hyundai, Korea | 10/2023 | MAN- B&W | Region $ 70m enbloc | Undisclosed |  |
+| LR2 | Sea Legend | 112.511 | 2008 | Hyundai, Korea | 12/2023 | MAN- B&W | Region $ 70m enbloc | Undisclosed |  |
+| LR1 | PGC Ikaros | 72.829 | 2004 | Hudong- Zhonghua, China | 11/2024 | MAN- B&W | $ 12,25m | Undisclosed | BWTS fitted |
+| LR1 | Ariel | 71.498 | 2003 | Stx, Korea | 01/2024 | B&W | $ 19m | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1C |
 
 ### Containers
 
@@ -111,6 +119,8 @@ A number of Chinese trips into Mediterranean were fixed around usd 21,000/23,000
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Northern Jasper | 8.814 | 2009 | Daewoo, Korea | 08/2024 | MAN- B&W | - | Region $ 85m | Swiss based (MSC) |  |
 | Panamax | Genova | 4.253 | 2007 | Dalian, China | 04/2027 | MAN- B&W | - | $ 45m | Swiss based (MSC) | BWTS fitted, Scrubber fitted |
+| Sub Panamax | X-Press Makalu | 2.714 | 2008 | Gdansk Stocznia, Poland | 03/2023 | MAN- B&W | 3x45T | $ 25m | Swiss based (MSC) |  |
+| Feeder | JSP Titan | 1.122 | 1996 | Volkswerft, Germany | 08/2026 | Sulzer | 2x40T | $ 5,8m | Undisclosed | Incl. T/C till Jun'23 at 12.000 usd/pd |
 | Feeder | Sunny Lotus | 1.048 | 2013 | Dae Sun, Korea | 04/2023 | MAN- B&W | - | $ 15,5m | Korean |  |
 | Feeder | AS Laetitia | 957 | 2007 | Yangfan, China | 10/2022 | MAN | 2x45T | $ 16m | US based |  |
 
@@ -120,13 +130,14 @@ A number of Chinese trips into Mediterranean were fixed around usd 21,000/23,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Progress | 58.560 | 2009 | Hyundai, Korea | 01/2024 | MAN-B&W | 80.793 | $ 50m | UK based (Foresight Group) | BWTS fitted |
 | LPG | Clipper | 56.864 | 1992 | Nkk, Japan | 03/2027 | Sulzer | 76.978 | $ 15m | Far Eastern |  |
 | LPG | Gas Tigers | 54.675 | 2016 | Hyundai, Korea | 05/2026 | MAN-B&W | 82.461 | $ 63m | Undisclosed |  |
 | LPG | Gas Grouper | 26.416 | 2009 | Hyundai, Korea | 06/2024 | MAN-B&W | 34.574 | $ 32m | Undisclosed |  |
 | LPG | Pacific Saturn | 23.724 | 2019 | Nantong CIMC, China | 11/2024 | MAN-B&W | 21.560 | $ 233m enbloc | JV of Navigator Gas & Greater Bay | BWTS fitted |
-| LPG | Pacific Mars | 23.708 | 2019 | Nantong CIMC, China | 07/2024 | MAN-B&W | 21.560 | $ 233m enbloc | JV of | BWTS fitted |
+| LPG | Pacific Mars | 23.708 | 2019 | Nantong CIMC, China | 07/2024 | MAN-B&W | 21.560 | $ 233m enbloc | JV of Navigator Gas & Greater Bay | BWTS fitted |
 | LPG | Pacific Mercury | 23.704 | 2019 | Nantong CIMC, China | 01/2024 | MAN-B&W | 21.560 | $ 233m enbloc | JV of Navigator Gas & Greater Bay | BWTS fitted |
-| LPG | Pacific Venus | 18.599 | 2018 | Nantong CIMC, China | 03/2023 | MAN-B&W | 17.077 | $ 233m enbloc | Greater Bay | BWTS fitted |
+| LPG | Pacific Venus | 18.599 | 2018 | Nantong CIMC, China | 03/2023 | MAN-B&W | 17.077 | $ 233m enbloc | JV of Navigator Gas & Greater Bay | BWTS fitted |
 | LPG | Pacific Jupiter | 18.599 | 2018 | Nantong CIMC, China | 09/2023 | MAN-B&W | 17.075 | $ 233m enbloc | JV of Navigator Gas & Greater Bay | BWTS fitted |
 
 ## Page 6

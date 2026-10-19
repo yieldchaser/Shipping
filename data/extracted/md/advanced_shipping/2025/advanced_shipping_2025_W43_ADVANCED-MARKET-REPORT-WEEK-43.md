@@ -82,6 +82,7 @@ Trips from China into India were fixed around usd 18,000/19,000 pd. West African
 | Newcastlemax | Bulk Sao Paulo | 208.445 | 2020 | New Times, China | 06/2030 | MAN-B&W | - | $ 72,75m | Belgian (Ebe NV) | Scrubber fitted |
 | Newcastlemax | Samc MG | 206.180 | 2006 | Imabari, Japan | 10/2026 | MAN-B&W | - | $ 25m | Chinese (Jiangsu Steamship) |  |
 | Capesize | Mineral Subic | 179.397 | 2011 | Hanjin, Korea | 05/2026 | MAN-B&W | - | $ 30,25m | Chinese |  |
+| Capesize | Cape Aqua | 178.055 | 2009 | SWS, China | 06/2029 | MAN-B&W | - | $ 25,5m | Chinese | T/C attached till Apr-Aug'26 at 99% BCI |
 | Capesize | AP Power | 173.541 | 2006 | Bohai, China | 09/2026 | Wartsila | - | $ 14,5m | Undisclosed |  |
 | Panamax | Navios Sun | 76.619 | 2005 | Imabari, Japan | 12/2025 | B&W | - | $ 8,3m | Undisclosed |  |
 | Supramax | Sea Dana | 57.000 | 2009 | Jiangsu, China | 05/2029 | MAN-B&W | 4x36T | $ 11m | Undisclosed |  |
@@ -96,6 +97,7 @@ Trips from China into India were fixed around usd 18,000/19,000 pd. West African
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Singapore Loyalty | 307.284 | 2007 | Dalian, China | 10/2027 | Wartsila | $ 46,5m | Undisclosed | DD 11/2025 |
+| VLCC | Saiq | 299.999 | 2011 | Universal, Japan | 04/2026 | MAN-B&W | $ 57m | Undisclosed | Scrubber fitted, T/C attached till Apr'26 at 41.000 usd/pd |
 | VLCC | Nave Constellation | 296.988 | 2010 | Dalian, China | 06/2030 | MAN-B&W | $ 52,5m | Greek (New Shipping) | Delivered, Scrubber fitted |
 | Suezmax | Crude Levante | 156.828 | 2021 | New Times, China | 07/2026 | MAN-B&W | $ 77,75m | Greek |  |
 | Suezmax | Crude Zephyrus | 156.828 | 2021 | New Times, China | 07/2026 | MAN-B&W | $ 77,75m | Greek |  |

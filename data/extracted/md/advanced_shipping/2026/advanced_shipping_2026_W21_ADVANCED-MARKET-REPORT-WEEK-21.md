@@ -90,8 +90,8 @@ China trips into South East Asia, East Coast India and US Gulf were fixed at usd
 | Panamax | Panstellar | 76.602 | 2003 | Imabari, Japan | 10/2026 | B&W | - | $ 11m | Undisclosed |  |
 | Panamax | Kamares | 74.444 | 2004 | Hudong- Zhonghua, China | 08/2029 | MAN-B&W | - | $ 8,6m | Chinese |  |
 | Panamax | Shen Yu 79 | 74.204 | 2002 | Oshima, Japan | 06/2027 | Sulzer | - | $ 9,78m | Undisclosed |  |
-| Ultramax | Qian Dao Hu | 63.398 | 2017 | Sainty, China | 06/2027 | MAN-B&W | 4x30T | $ 49,66m | Undisclosed | Online bidding |
-| Ultramax | Mo Gan Shan | 63.326 | 2014 | Sainty, China | 12/2029 | MAN-B&W | 4x45T | enbloc | Undisclosed | Online bidding |
+| Ultramax | Qian Dao Hu | 63.398 | 2017 | Sainty, China | 06/2027 | MAN-B&W | 4x30T | $ 49,66m enbloc | Undisclosed | Online bidding |
+| Ultramax | Mo Gan Shan | 63.326 | 2014 | Sainty, China | 12/2029 | MAN-B&W | 4x45T | $ 49,66m enbloc | Undisclosed | Online bidding |
 | Supramax | Crimson Knight | 58.651 | 2013 | NACKS, China | 01/2028 | MAN-B&W | 4x30,5T | $ 19,1m | Undisclosed |  |
 | Supramax | Desert Victory | 57.434 | 2011 | Hyundai Mipo, Korea | 11/2026 | MAN-B&W | 4x30T | $ 15,4m | Vietnamese |  |
 | Supramax | Hony Future | 56.689 | 2012 | Xiamen, China | 06/2027 | MAN-B&W | 4x30T | Mid $ 14m | Undisclosed |  |
@@ -123,8 +123,8 @@ China trips into South East Asia, East Coast India and US Gulf were fixed at usd
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Las Palmas | 306.000 | 2026 | Hengli, China | 04/2031 | Everllence B&W | $ 163m | Singapore based (Trafigura) | Resale, Scrubber fitted |
 | VLCC | Abie | 302.986 | 2002 | Samsung, Korea | 11/2027 | Sulzer | $ 41m | Undisclosed | Scrubber fitted, DD 07/2026 |
-| Suezmax | Olympic Star | 158.000 | 2027 | Daehan, Korea |  | Everllence B&W | $ 95m | Canadian | Resale, Scrubber fitted |
-| Suezmax | Daehan 5118 | 156.881 | 2027 | Daehan, Korea |  | Everllence B&W | $ 95m | (Teekay Tankers) | Resale, Scrubber fitted |
+| Suezmax | Olympic Star | 158.000 | 2027 | Daehan, Korea |  | Everllence B&W | $ 95m | Canadian (Teekay Tankers) | Resale, Scrubber fitted |
+| Suezmax | Daehan 5118 | 156.881 | 2027 | Daehan, Korea |  | Everllence B&W | $ 95m | Canadian (Teekay Tankers) | Resale, Scrubber fitted |
 | LR2 | STI Condotti | 109.999 | 2014 | Hyundai Samho, Korea | 11/2029 | MAN-B&W | $ 70m | Undisclosed | Scrubber fitted |
 | LR1 | Voula | 73.774 | 2009 | New Times, China | 06/2029 | MAN-B&W | $ 26m | Undisclosed | Scrubber fitted |
 | MR | High Tide | 51.768 | 2012 | Hyundai Mipo, Korea | 04/2027 | MAN-B&W | $ 28,45m | Thai (Precious Shipping) |  |

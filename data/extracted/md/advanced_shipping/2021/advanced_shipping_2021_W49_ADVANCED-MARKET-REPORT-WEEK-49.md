@@ -79,16 +79,19 @@ A number of Mediterranean trips via Black Sea into US Gulf with steels were fixe
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kamsarmax | Egyptian Mike | 81.601 | 2011 | Guangzhou, China | 09/2026 | MAN- B&W | - | $ 39m | Greek |  |
-| Kamsarmax | George P | 81.569 | 2012 | Guangzhou, China | 08/2022 | MAN- B&W | - | enbloc | (Costamare) |  |
+| Kamsarmax | King Barley | 82.177 | 2012 | Tsuneishi Zhoushan, China | 01/2022 | MAN- B&W | - | Mid-High $ 22m | German (Blumenthal) | Basis SS/DD passed & BWTS fitted |
+| Kamsarmax | Egyptian Mike | 81.601 | 2011 | Guangzhou, China | 09/2026 | MAN- B&W | - | $ 39m enbloc | Greek (Costamare) |  |
+| Kamsarmax | George P | 81.569 | 2012 | Guangzhou, China | 08/2022 | MAN- B&W | - | $ 39m enbloc | Greek (Costamare) |  |
+| Panamax | Shandong Hong Tu | 76.116 | 2012 | Hudong- Zhonghua, China | 01/2022 | MAN- B&W | - | $ 20,25m | Undisclosed | Auction sale |
 | Panamax | Zhong Xin Pearl | 75.321 | 2013 | Guangzhou, China | 09/2023 | MAN- B&W | - | Undisclosed | Chinese |  |
-| Ultramax | Soho Merchant | 63.800 | 2015 | Chengxi, China | 01/2025 | MAN- B&W | 4x30T | Undisclosed | Greek | BWTS fitted, |
-| Ultramax | Soho Trader | 63.473 | 2015 | Jiangsu, China | 03/2025 | Wartsila | 4x30T | Undisclosed | (Costamare) | Old sales |
+| Ultramax | Soho Merchant | 63.800 | 2015 | Chengxi, China | 01/2025 | MAN- B&W | 4x30T | Undisclosed | Greek (Costamare) | BWTS fitted, Old sales |
+| Ultramax | Soho Trader | 63.473 | 2015 | Jiangsu, China | 03/2025 | Wartsila | 4x30T | Undisclosed | Greek (Costamare) | BWTS fitted, Old sales |
 | Ultramax | Virgo Colossus | 61.616 | 2012 | Oshima, Japan | 09/2022 | MAN- B&W | 4x30T | $ 24m | Greek | Old sale |
-| Supramax | Belnor | 58.018 | 2010 | Yangzhou, China | 05/2025 | MAN- B&W | 4x35T | $ 33m | Greek | BWTS fitted |
-| Supramax | Belstar | 57.970 | 2009 | Yangzhou, China | 08/2024 | MAN- B&W | 4x36T | enbloc | (Costamare) | BWTS fitted |
-| Supramax | Universal Bangkok | 56.729 | 2012 | Qingshan, China | 04/2022 | MAN- B&W | 4x30T | $ 33m | Undisclosed |  |
-| Supramax | Universal Bremen | 56.726 | 2010 | Qingshan, China | 12/2025 | MAN- B&W | 4x30T | enbloc | Undisclosed | BWTS fitted |
+| Supramax | Moonbeam | 58.138 | 2013 | Tsuneishi Zhoushan, China | 01/2023 | MAN- B&W | 4x30T | Region $ 19,5m | Undisclosed |  |
+| Supramax | Belnor | 58.018 | 2010 | Yangzhou, China | 05/2025 | MAN- B&W | 4x35T | $ 33m enbloc | Greek (Costamare) | BWTS fitted |
+| Supramax | Belstar | 57.970 | 2009 | Yangzhou, China | 08/2024 | MAN- B&W | 4x36T | $ 33m enbloc | Greek (Costamare) | BWTS fitted |
+| Supramax | Universal Bangkok | 56.729 | 2012 | Qingshan, China | 04/2022 | MAN- B&W | 4x30T | $ 33m enbloc | Undisclosed |  |
+| Supramax | Universal Bremen | 56.726 | 2010 | Qingshan, China | 12/2025 | MAN- B&W | 4x30T | $ 33m enbloc | Undisclosed | BWTS fitted |
 | Supramax | Tomini Infinity | 56.720 | 2010 | Cosco, China | 01/2025 | MAN- B&W | 4x30T | $ 16,2m | Undisclosed | Dely Jan-Feb'22 |
 | Supramax | Xiang Hua | 53.350 | 2003 | Toyohashi, Japan | 05/2023 | MAN- B&W | 4x30,5T | $ 11,1m | Undisclosed |  |
 | Handymax | Wajed | 45.621 | 1998 | Tsuneishi, Japan | 01/2023 | B&W | 4x30T | $ 10,2m | Middle Eastern |  |
@@ -119,8 +122,8 @@ A number of Mediterranean trips via Black Sea into US Gulf with steels were fixe
 | MR | Hafnia Hope | 40.009 | 2007 | Saiki, Japan | 01/2022 | Mitsubishi | Low-Mid $ 9m | Undisclosed | DPP |
 | Chemical/Oil Products | Shamrock Mercury | 19.998 | 2010 | Usuki, Japan | 10/2025 | MAN- B&W | $ 16m | Undisclosed | St St, BWTS fitted, Incl. T/C |
 | Chemical/Oil Products | Bunga Laurel | 19.992 | 2010 | Fukuoka, Japan | 04/2025 | MAN- B&W | $ 15m | Undisclosed | St St |
-| Chemical/Oil Products | Mid Osprey | 19.969 | 2006 | Fukuoka, Japan | 10/2026 | MAN- B&W | $ 12m | Norwegian | St St, BWTS fitted |
-| Chemical/Oil Products | Mid Falcon | 19.959 | 2006 | Fukuoka, Japan | 08/2026 | MAN- B&W | $ 12m | Norwegian | BWTS fitted, Old sales |
+| Chemical/Oil Products | Mid Osprey | 19.969 | 2006 | Fukuoka, Japan | 10/2026 | MAN- B&W | $ 12m | Norwegian | St St, BWTS fitted, Old sales |
+| Chemical/Oil Products | Mid Falcon | 19.959 | 2006 | Fukuoka, Japan | 08/2026 | MAN- B&W | $ 12m | Norwegian | St St, BWTS fitted, Old sales |
 
 ## Page 5
 
@@ -130,11 +133,11 @@ A number of Mediterranean trips via Black Sea into US Gulf with steels were fixe
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | OOCL Italy | 5.888 | 2007 | Koyo, Japan | 06/2022 | MAN-B&W | - | Undisclosed | Undisclosed |  |
 | Feeder | Nordamstel | 1.774 | 2019 | Jiangsu, China | 11/2024 | Wartsila | - | Undisclosed | Undisclosed |  |
-| Feeder | A Fuji | 1.774 | 2021 | Jiangsu, China | 01/2026 | Wartsila | - | $ 42,75m | Taiwanese (Wan Hai |  |
-| Feeder | Bremen Trader | 1.762 | 2021 | Cosco, China | 04/2026 | Wartsila | - | $ 42,75m | (Wan Hai Lines) |  |
+| Feeder | A Fuji | 1.774 | 2021 | Jiangsu, China | 01/2026 | Wartsila | - | $ 42,75m | Taiwanese (Wan Hai Lines) |  |
+| Feeder | Bremen Trader | 1.762 | 2021 | Cosco, China | 04/2026 | Wartsila | - | $ 42,75m | Taiwanese (Wan Hai Lines) |  |
 | Feeder | Songa Lynx | 1.118 | 2006 | Jinling, China | 11/2021 | MAN | 2x40T | Undisclosed | Undisclosed |  |
-| Feeder | Vega Hercules | 957 | 2006 | Yangfan, China | 04/2026 | MAN | 2x45T | Undisclosed | Greek |  |
-| Feeder | Vega Juno | 957 | 2008 | Yangfan, China | 09/2023 | MAN | 2x45T | Undisclosed | (Contships) |  |
+| Feeder | Vega Hercules | 957 | 2006 | Yangfan, China | 04/2026 | MAN | 2x45T | Undisclosed | Greek (Contships) |  |
+| Feeder | Vega Juno | 957 | 2008 | Yangfan, China | 09/2023 | MAN | 2x45T | Undisclosed | Greek (Contships) |  |
 
 ## Page 6
 

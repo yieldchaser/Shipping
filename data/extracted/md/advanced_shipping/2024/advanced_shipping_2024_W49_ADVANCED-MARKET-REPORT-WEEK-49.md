@@ -80,6 +80,7 @@ A number of Mediterranean trips into Continent were fixed around usd 7,000/8,000
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | K. Victory | 181.500 | 2012 | Sasebo, Japan | 07/2027 | MAN-B&W | - | $ 33,5m | Undisclosed | BWTS fitted, Scrubber fitted |
+| Capesize | K. Confidence | 181.488 | 2013 | Sasebo, Japan | 01/2028 | MAN-B&W | - | $ 34,5m | Chinese (Chinaland Shipping) | BWTS fitted, Scrubber fitted |
 | Capesize | Cape Dream | 179.250 | 2011 | Hyundai, Korea | 06/2026 | MAN-B&W | - | Region $ 28m | Undisclosed | BWTS fitted |
 | Kamsarmax | Hellenic C | 81.805 | 2014 | Jiangsu, China | 09/2029 | MAN-B&W | - | $ 21m | Undisclosed | BWTS fitted |
 | Supramax | ND Armonia | 56.121 | 2011 | Mitsui, Japan | 09/2025 | MAN-B&W | 4x30T | Region $ 18m | Far Eastern | BWTS fitted |
@@ -87,8 +88,8 @@ A number of Mediterranean trips into Continent were fixed around usd 7,000/8,000
 | Handysize | Four Nabucco | 34.403 | 2010 | Spp, Korea | 05/2025 | MAN-B&W | 4x35T | $ 11,8m | Undisclosed | BWTS fitted |
 | Handysize | Aegean Spire | 33.401 | 2008 | Shin Kochi, Japan | 09/2025 | Mitsubishi | 4x30,7T | $ 11,8m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Global Aglaia | 33.158 | 2016 | Shin Kurushima, Japan | 01/2026 | Mitsubishi | 4x30T | Region $ 20m | Japanese | OHBS, BWTS fitted |
-| Handysize | Victoria Harbour | 29.100 | 2011 | Yangzhou, China | 05/2026 | MAN-B&W | 4x30T | $ 22m | Undisclosed | BWTS fitted |
-| Handysize | Uni Challenge | 29.078 | 2012 | Yangzhou, China | 04/2027 | MAN-B&W | 4x30T | enbloc | Undisclosed | BWTS fitted |
+| Handysize | Victoria Harbour | 29.100 | 2011 | Yangzhou, China | 05/2026 | MAN-B&W | 4x30T | $ 22m enbloc | Undisclosed | BWTS fitted |
+| Handysize | Uni Challenge | 29.078 | 2012 | Yangzhou, China | 04/2027 | MAN-B&W | 4x30T | $ 22m enbloc | Undisclosed | BWTS fitted |
 
 ### Tankers
 
@@ -96,6 +97,7 @@ A number of Mediterranean trips into Continent were fixed around usd 7,000/8,000
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Maran Aries | 320.871 | 2006 | Daewoo, Korea | 10/2025 | MAN-B&W | Region $ 45,5m | Chinese | BWTS fitted, Scrubber fitted |
 | Suezmax | Evagoras | 165.209 | 2003 | Hyundai Samho, Korea | 03/2028 | B&W | $ 25m | Undisclosed | BWTS fitted |
+| Chemical/Oil Products | Songa Breeze | 19.999 | 2009 | Fukuoka, Japan | 02/2029 | MAN-B&W | $ 24,8m | Undisclosed | St St, T/C to Bahri till Apr- May'26 at 20.250 usd/pd |
 
 ### Containers
 

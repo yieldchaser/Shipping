@@ -94,8 +94,8 @@ A number of trips from Japan into South East Asia were fixed around usd 6,000/7,
 | MR | Valle Azzurra | 50.633 | 2007 | Spp, Korea | 12/2027 | Wartsila | Undisclosed | Italian (Montanari Navigazione) | p.options declared |
 | MR | Valle Bianca | 50.633 | 2007 | Spp, Korea | 10/2027 | Wartsila | Undisclosed | Italian (Montanari Navigazione) | p.options declared |
 | MR | Valrossa | 50.344 | 2008 | Spp, Korea | 03/2023 | Wartsila | Undisclosed | Italian (Montanari Navigazione) | p.options declared |
-| MR | Valverde | 50.344 | 2008 | Spp, Korea | 04/2023 | Wartsila | Undisclosed | Italian (Montanari | p.options |
-| MR | Valcadore | 37.481 | 2008 | Hyundai Mipo, Korea | 02/2028 | MAN- B&W | Undisclosed | (Montanari Navigazione) | declared |
+| MR | Valverde | 50.344 | 2008 | Spp, Korea | 04/2023 | Wartsila | Undisclosed | Italian (Montanari Navigazione) | p.options declared |
+| MR | Valcadore | 37.481 | 2008 | Hyundai Mipo, Korea | 02/2028 | MAN- B&W | Undisclosed | Italian (Montanari Navigazione) | p.options declared |
 | MR | Valgardena | 37.481 | 2008 | Hyundai Mipo, Korea | 06/2023 | MAN- B&W | Undisclosed | Italian (Montanari Navigazione) | p.options declared |
 | MR | Valsesia | 37.481 | 2008 | Hyundai Mipo, Korea | 10/2023 | MAN- B&W | Undisclosed | Italian (Montanari Navigazione) | p.options declared |
 | MR | Valtellina | 37.481 | 2008 | Hyundai Mipo, Korea | 05/2023 | MAN- B&W | Undisclosed | Italian (Montanari Navigazione) | p.options declared |

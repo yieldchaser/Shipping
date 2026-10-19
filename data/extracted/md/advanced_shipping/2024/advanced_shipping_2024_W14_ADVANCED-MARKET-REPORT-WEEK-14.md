@@ -80,6 +80,8 @@ A generally quiet week for this segment. A number of trips from US Gulf into UK-
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mini Cape | Spring Samcheonpo | 119.597 | 2009 | Sanoyas, Japan | 07/2024 | MAN-B&W | - | $ 18,75m | Undisclosed | BWTS fitted, Dely Apr-Jun'24 |
+| Post Panamax | Federico II | 92.330 | 2009 | Oshima, Japan | 05/2024 | Mitsubishi | - | $ 19,6m | Chinese | BWTS fitted, basis SS/DD passed |
+| Kamsarmax | Sammy | 82.167 | 2012 | Tsuneishi, Japan | 11/2026 | MAN-B&W | - | Region $ 25m | Undisclosed | BWTS fitted, Scrubber fitted, Dely May-Jul'24 |
 | Ultramax | New Champ | 66.529 | 2018 | Mitsui, Japan | 10/2028 | MAN-B&W | 4x30T | High $ 33m | Undisclosed | BWTS fitted |
 | Ultramax | World Royal | 61.201 | 2022 | DACKS, China | 04/2027 | MAN-B&W | 4x30,5T | $ 35m | Undisclosed | BWTS fitted, Dely May-Sep'24 |
 | Supramax | Nord Seal | 57.631 | 2016 | Tsuneishi, Japan | 03/2026 | MAN-B&W | 4x30T | Low $ 28m | Undisclosed | BWTS fitted |

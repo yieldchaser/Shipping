@@ -79,6 +79,7 @@ A number of Mediterranean trips into US Gulf were fixed around usd 19,800 pd. In
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Supramax | SITC Taishan | 58.107 | 2010 | Tsuneishi Zhoushan, China | 04/2025 | MAN- B&W | 4x30T | $ 17,9m | Undisclosed | BWTS fitted |
 | Supramax | HTC Delta | 56.533 | 2014 | Taizhou, China | 06/2024 | MAN- B&W | 4x35T | $ 18m | Chinese | BWTS fitted |
 | Handysize | Crimson Princess | 38.395 | 2012 | Naikai, Japan | 06/2022 | MAN- B&W | 4x30T | $ 18,9m | Undisclosed |  |
 | Handysize | Intrepid Eagle | 33.500 | 2013 | Samjin, China | 04/2023 | MAN- B&W | 4x35T | Region $ 15,5m | Undisclosed | Incl. T/C until Jun-Jul'22 |
@@ -117,6 +118,7 @@ A number of Mediterranean trips into US Gulf were fixed around usd 19,800 pd. In
 | Sub Panamax | Cardiff Trader | 2.524 | 2003 | Kvaerner, Germany | 03/2023 | B&W | 3x45T | Region $ 30m | Swiss based (MSC) |  |
 | Feeder | Mount Gough | 1.730 | 2016 | Zhejiang, China | 01/2022 | MAN-B&W | 2x45T | $ 42,2m | Undisclosed |  |
 | Feeder | Mount Nicholson | 1.730 | 2017 | Zhejiang, China | 10/2022 | MAN-B&W | - | $ 45m | Undisclosed |  |
+| Feeder | Run He | 1.200 | 2003 | Peene- Werft, Germany | 03/2023 | B&W | - | $ 20m | Undisclosed |  |
 
 ## Page 6
 

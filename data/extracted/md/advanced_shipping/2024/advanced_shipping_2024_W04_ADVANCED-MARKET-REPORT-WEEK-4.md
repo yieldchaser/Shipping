@@ -85,14 +85,16 @@ No fixture reported for this segment. No period activity to report here.
 | Panamax | Artemis | 76.942 | 2006 | Namura & Sasebo, Japan | 11/2025 | MAN-B&W | - | $ 13m | Undisclosed | BWTS fitted |
 | Panamax | Kerveros | 76.602 | 2003 | Imabari, Japan | 07/2025 | B&W | - | $ 9,35m | Undisclosed | BWTS fitted |
 | Panamax | Golden Bull | 75.000 | 2012 | Pipavav, | 03/2027 | MAN-B&W | - | Region $ 16m | Undisclosed | Ice Class 1C |
+| Panamax | Alpha Afovos | 74.428 | 2001 | Daewoo, Korea | 03/2026 | B&W | - | $ 7m | Undisclosed | Delivered, BWTS fitted, DD 04/2024 |
 | Ultramax | CP Tianjin | 63.541 | 2016 | Chengxi, China | 09/2026 | MAN-B&W | 4x30T | $ 23,8m | Chinese | BWTS fitted |
 | Ultramax | CP Guangzhou | 63.527 | 2015 | Chengxi, China | 11/2025 | MAN-B&W | 4x30T | $ 23,8m | Chinese | BWTS fitted |
 | Supramax | Rui Fu Kang | 57.000 | 2011 | Xiamen, China | 09/2026 | MAN-B&W | 4x36T | High $ 12m | Undisclosed | BWTS fitted |
 | Supramax | Pan Pride | 56.907 | 2011 | Cosco, China | 05/2026 | MAN-B&W | 4x30T | High $ 12m | Undisclosed | BWTS fitted |
-| Supramax | Lan Hai Sheng Hui | 56.616 | 2011 | China Shipping Ind, China | 12/2026 | MAN-B&W | 4x30T | $ 24,7m | European | BWTS fitted |
-| Supramax | Hai Yang Zhi Hua | 56.603 | 2011 | China Shipping Ind, China | 09/2026 | MAN-B&W | 4x30T | enbloc | European |  |
+| Supramax | Lan Hai Sheng Hui | 56.616 | 2011 | China Shipping Ind, China | 12/2026 | MAN-B&W | 4x30T | $ 24,7m enbloc | European | BWTS fitted |
+| Supramax | Hai Yang Zhi Hua | 56.603 | 2011 | China Shipping Ind, China | 09/2026 | MAN-B&W | 4x30T | $ 24,7m enbloc | European |  |
 | Supramax | Sea Star | 56.591 | 2014 | Jiangdong, China | 04/2024 | MAN-B&W | 4x30T | Region $ 16m | Undisclosed | BWTS fitted |
 | Supramax | Isabella M | 56.056 | 2006 | Mitsui, Japan | 07/2026 | MAN-B&W | 4x30,5T | $ 12,5m | Chinese | BWTS fitted |
+| Supramax | Tomorrow | 56.025 | 2013 | Minaminippon, Japan | 05/2026 | MAN-B&W | 4x30T | $ 18,7m | Greek (Monte Nero) | BWTS fitted, DD 07/2024, Dely Apr-May'24 |
 | Supramax | King Baton Rouge | 55.884 | 2014 | Mitsui, Japan | 05/2024 | MAN-B&W | 4x30T | $ 22m | Greek (Monte Nero) | BWTS fitted, Dely Feb-Jun'24 |
 | Supramax | Amarnath | 53.169 | 2004 | Iwagi, Japan | 03/2024 | B&W | 4x30,5T | $ 7,75m | European | BWTS onboard |
 | Handysize | Rui Fu Xing | 37.064 | 2012 | Hyundai Mipo, Korea | 07/2027 | MAN-B&W | 4x30T | Low-Mid $ 16m | Undisclosed | OHBS, BWTS fitted |
@@ -105,11 +107,15 @@ No fixture reported for this segment. No period activity to report here.
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Miltiadis Junior | 320.926 | 2014 | SWS, China | 06/2024 | MAN-B&W | Region $ 80m | Undisclosed | BWTS fitted, Scrubber fitted |
+| Suezmax | Eurochampion 2004 | 164.608 | 2005 | Hyundai, Korea | 04/2025 | B&W | Undisclosed | Undisclosed | Delivered, BWTS fitted, Ice Class 1C |
 | Suezmax | Morviken | 157.610 | 2018 | Samsung, Korea | 04/2028 | MAN-B&W | $ 357m enbloc | Greek (Tsakos) | BWTS fitted |
+| LR2 | Breiviken | 112.504 | 2018 | Samsung, Korea | 07/2028 | MAN-B&W | $ 357m enbloc | Greek (Tsakos) | BWTS fitted, Scrubber fitted, Ice Class 1A |
+| LR2 | Eikeviken | 112.459 | 2019 | Samsung, Korea | 04/2024 | MAN-B&W | $ 357m enbloc | Greek (Tsakos) | BWTS fitted, Scrubber fitted, Ice Class 1A |
 | LR2 | Angleviken | 109.999 | 2023 | Guangzhou, China | 06/2028 | MAN-B&W | $ 357m enbloc | Greek (Tsakos) | BWTS fitted, LNG DF |
 | LR2 | Askviken | 109.999 | 2023 | Guangzhou, China | 08/2028 | MAN-B&W | $ 357m enbloc | Greek (Tsakos) | BWTS fitted, LNG DF |
 | Aframax | Wonder Sirius | 115.340 | 2005 | Samsung, Korea | 07/2025 | MAN-B&W | $ 33,8m | Undisclosed | BWTS fitted |
 | LR2 | Mare Oriens | 110.295 | 2008 | Mitsui, Japan | 09/2028 | MAN-B&W | $ 42m | Chinese | BWTS fitted |
+| MR | Pelagic Taimen | 50.885 | 2006 | Stx, Korea | 04/2026 | MAN-B&W | Region $ 20m | Undisclosed | BWTS fitted, Ice Class 1A, DD 06/2024 |
 | MR | STI Tribeca | 49.990 | 2015 | Spp, Korea | 01/2025 | MAN-B&W | $ 39,1m | Korean (KSS Line) | BWTS fitted, Scrubber fitted |
 | MR | Paprika | 40.128 | 2003 | Hyundai Mipo, Korea | 01/2028 | MAN-B&W | $ 15,5m | Undisclosed | BWTS fitted |
 | MR | Olympic Glory | 36.990 | 2005 | Hyundai Mipo, Korea | 01/2029 | MAN-B&W | $ 16,5m | Undisclosed | Delivered, Ice Class 1A |

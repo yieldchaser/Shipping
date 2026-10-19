@@ -85,6 +85,7 @@ No fixture reported for this segment. No period activity to report here.
 | Ultramax | Nord Columbia | 60.396 | 2018 | Oshima, Japan | 02/2023 | MAN- B&W | 4x30T | Excess $ 32m | Undisclosed | BWTS fitted Scrubber fitted |
 | Supramax | Silvia Glory | 56.797 | 2012 | Yangfan, China | 04/2022 | MAN- B&W | 4x36T | Undisclosed | Chinese | BWTS fitted, Delivered |
 | Supramax | Shandong Hai Da | 56.734 | 2013 | Jinling, China | 03/2023 | MAN- B&W | 4x30T | $ 18,05m | Chinese | BWTS fitted, Online bidding |
+| Supramax | Lan Hai He Xie | 56.620 | 2011 | China Shipping Ind, China |  | MAN- B&W | 4x30T | $ 18,5m | Undisclosed |  |
 | Supramax | Pacific Crown | 56.469 | 2012 | Jiangsu, China | 05/2022 | MAN- B&W | 4x36T | $ 17m | Undisclosed |  |
 | Supramax | Pacific Bless | 56.361 | 2012 | Jiangsu, China | 09/2022 | MAN- B&W | 4x36T | $ 17m | Undisclosed |  |
 | Supramax | Feronia | 56.058 | 2007 | Mitsui, Japan | 08/2025 | MAN- B&W | 4x30T | Low-Mid $ 16m | Undisclosed | BWTS fitted |
@@ -102,8 +103,9 @@ No fixture reported for this segment. No period activity to report here.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Athenian Harmony | 317.441 | 2010 | Hyundai, Korea | 02/2025 | MAN- B&W | $ 42m | Greek (Altomare) |  |
 | VLCC | Asian Progress III | 306.352 | 2004 | Mitsubishi, Japan | 05/2022 | Mitsubishi | $ 27,5-28m | Undisclosed |  |
-| Aframax | Silver | 107.507 | 2010 | Tsuneishi, Japan | 07/2025 | MAN- B&W | $ 24,5m | Greek (Seaworld) | BWTS fitted, |
-| Aframax | Gold | 107.488 | 2010 | Tsuneishi, Japan | 09/2025 | MAN- B&W | $ 24,5m | Greek (Seaworld) | On subs |
+| LR2 | Agneta Pallas | 115.341 | 2006 | Samsung, Korea | 04/2026 | MAN- B&W | $ 18,15m | Greek | BWTS fitted, Incl. 3 months T/C at 15.000 usd/pd |
+| Aframax | Silver | 107.507 | 2010 | Tsuneishi, Japan | 07/2025 | MAN- B&W | $ 24,5m | Greek (Seaworld) | BWTS fitted, On subs |
+| Aframax | Gold | 107.488 | 2010 | Tsuneishi, Japan | 09/2025 | MAN- B&W | $ 24,5m | Greek (Seaworld) | BWTS fitted, On subs |
 | Aframax | Kanpur | 106.094 | 2005 | Hyundai Samho, Korea | 11/2025 | B&W | $ 14,5m | Greek (Stalwart) | Old sales |
 | Aframax | Bareilly | 106.061 | 2005 | Hyundai Samho, Korea | 09/2025 | B&W | $ 14,5m | Greek (Stalwart) | Old sales |
 | MR | AG Mars | 50.546 | 2006 | Spp, Korea | 02/2022 | Sulzer | $ 10m | Undisclosed |  |
@@ -135,6 +137,7 @@ No fixture reported for this segment. No period activity to report here.
 | LPG | BW Sakura | 49.999 | 2010 | Mitsubishi, Japan | 02/2025 | Mitsubishi | 77.323 | $ 52m | Undisclosed |  |
 | LPG | BW Niigata | 49.999 | 2010 | Mitsubishi, Japan | 07/2025 | Mitsubishi | 77.330 | $ 52m | Undisclosed |  |
 | LPG | Cumulus Gas | 30.761 | 1994 | Kawasaki, Japan | 05/2022 | B&W | 34.058 | $ 7,5m | Undisclosed | "As Is" Panama |
+| LPG | Jotagas | 4.995 | 1997 | Hyundai, Korea | 03/2022 | B&W | 7.166 | Undisclosed | UAE (Stradeza Shipping) |  |
 
 ## Page 6
 

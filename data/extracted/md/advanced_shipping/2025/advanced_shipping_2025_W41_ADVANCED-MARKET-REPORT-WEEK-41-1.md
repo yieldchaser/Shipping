@@ -79,6 +79,7 @@ Trips from Japan via US West Coast into China were reported at the level of usd 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Newcastlemax | Mineral Shougang International | 206.392 | 2019 | Qingdao, China | 10/2029 | MAN-B&W | - | $ 65,5m | Chinese (Winning Shipping) | Scrubber fitted |
 | Mini Cape | Bastions | 119.376 | 2011 | Sanoyas, Japan | 01/2026 | MAN-B&W | - | $ 15m | Greek | Scrubber fitted |
 | Kamsarmax | SDTR Doris | 84.998 | 2021 | Shanhaiguan, China | 09/2026 | MAN-B&W | - | $ 27,5m | Undisclosed | Wide beam |
 | Kamsarmax | SDTR Celeste | 84.994 | 2021 | Shanhaiguan, China | 08/2026 | MAN-B&W | - | $ 27,5m | Undisclosed | Wide beam |
@@ -111,8 +112,8 @@ Trips from Japan via US West Coast into China were reported at the level of usd 
 | VLCC | Dalma | 306.543 | 2007 | Daewoo, Korea | 02/2027 | Sulzer | rgn $ 48,5m | Chinese |  |
 | Suezmax | Konya | 163.750 | 2005 | Hyundai, Korea | 05/2030 | B&W | $ 28,4m | Undisclosed |  |
 | Suezmax | Brightway | 160.095 | 2012 | HHIC, Philippines | 04/2027 | MAN-B&W | rgn $ 44,5m | Undisclosed | Scrubber fitted |
-| Suezmax | Eco Bel Air | 157.286 | 2019 | Hyundai Samho, Korea | 04/2029 | MAN-B&W | $ 76m | Greek (Performance | Scrubber fitted |
-| Suezmax | Eco Beverly Hills | 157.286 | 2019 | Hyundai Samho, Korea | 05/2029 | MAN-B&W | $ 76m | (Performance Shipping) | Scrubber fitted |
+| Suezmax | Eco Bel Air | 157.286 | 2019 | Hyundai Samho, Korea | 04/2029 | MAN-B&W | $ 76m | Greek (Performance Shipping) | Scrubber fitted |
+| Suezmax | Eco Beverly Hills | 157.286 | 2019 | Hyundai Samho, Korea | 05/2029 | MAN-B&W | $ 76m | Greek (Performance Shipping) | Scrubber fitted |
 | Aframax | Nafsika | 112.051 | 2022 | Sumitomo, Japan | 04/2027 | MAN-B&W | $ 75m | Pakistani (PNSC) | Scrubber fitted |
 | Aframax | Lorax | 109.990 | 2022 | Sumitomo, Japan | 01/2027 | MAN-B&W | $ 75m | Pakistani (PNSC) | Scrubber fitted |
 | LR1 | PGC Companion | 72.825 | 2005 | Hudong-Zhonghua, China | 10/2028 | MAN-B&W | $ 10,3m | Undisclosed | Old sale |
@@ -124,8 +125,9 @@ Trips from Japan via US West Coast into China were reported at the level of usd 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | Bharani | 3.635 | 2010 | Shanghai, China | 07/2030 | MAN-B&W | 4x45T | $ 30m | Undisclosed | Ice Class II |
-| Panamax | Newnew Star | 3.534 | 2007 | Shanghai, China | 10/2027 | MAN-B&W | - | $ 55m | Swiss based | Ice Class II |
-| Sub Panamax | Xin Xin Tian 2 | 2.553 | 2007 | Naikai, Japan | 04/2027 | MAN-B&W | - | enbloc | (MSC) |  |
+| Panamax | Atlantica Pioneer | 3.635 | 2012 | Shanghai, China | 11/2027 | MAN-B&W | 4x45T | $ 31,25m | Swiss based (MSC) | Balance of T/C attached, Ice Class II |
+| Panamax | Newnew Star | 3.534 | 2007 | Shanghai, China | 10/2027 | MAN-B&W | - | $ 55m enbloc | Swiss based (MSC) | Ice Class II |
+| Sub Panamax | Xin Xin Tian 2 | 2.553 | 2007 | Naikai, Japan | 04/2027 | MAN-B&W | - | $ 55m enbloc | Swiss based (MSC) |  |
 | Feeder | CNC Jupiter | 1.952 | 2020 | Tsuneishi Cebu, Philippines | 08/2030 | MAN-B&W | - | rgn $ 35,5m | French (CMA CGM) | Scrubber fitted |
 | Feeder | SC Potomac | 1.155 | 2002 | Sedef Tuzla, Turkey | 06/2027 | B&W | - | $ 9,2m | Undisclosed | Ice Class 1C |
 

@@ -81,8 +81,8 @@ Australian trips into the China were fixed at usd 20,000/21,000 pd. Japan trips 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kamsarmax | Elway | 81.911 | 2012 | Jiangsu, China | 05/2027 | MAN-B&W | - | $ 16,2m | Greek (Blue Seas Shipping) |  |
 | Panamax | Pabur | 76.167 | 2012 | Taizhou, China | 12/2027 | MAN-B&W | - | $ 16,5m | Undisclosed | Ice Class 1C |
-| Ultramax | New Dayang NDY1315 | 64.100 | 2027 | New Dayang, China |  | MAN-B&W | - | $ 36,5m | Greek (Niovis |  |
-| Ultramax | New Dayang NDY1316 | 64.100 | 2027 | New Dayang, China |  | MAN-B&W | - | $ 36,5m | Shipping) |  |
+| Ultramax | New Dayang NDY1315 | 64.100 | 2027 | New Dayang, China |  | MAN-B&W | - | $ 36,5m | Greek (Niovis Shipping) |  |
+| Ultramax | New Dayang NDY1316 | 64.100 | 2027 | New Dayang, China |  | MAN-B&W | - | $ 36,5m | Greek (Niovis Shipping) |  |
 | Ultramax | Amis Power | 64.012 | 2018 | Tsuneishi Cebu, Philippines | 09/2028 | MAN-B&W | 4x36T | $ 32,5m | Undisclosed | DD 07/2026 |
 | Supramax | Astra Perseus | 58.518 | 2012 | DSME Shandong, China | 10/2027 | MAN-B&W | 4x35T | $ 16,8m | Undisclosed |  |
 | Supramax | V Bravo | 56.659 | 2012 | Zhejiang, China | 01/2027 | MAN-B&W | 4x36T | xs $ 14m | Undisclosed |  |
@@ -95,11 +95,14 @@ Australian trips into the China were fixed at usd 20,000/21,000 pd. Japan trips 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Suezmax | Front Ull | 156.848 | 2014 | Jiangsu, China | 05/2029 | MAN-B&W | $ 140m enbloc | Greek (Silk Searoad | Scrubber fitted |
-| Suezmax | Front Idun | 156.657 | 2015 | Jiangsu, China | 01/2030 | MAN-B&W | $ 140m enbloc | Searoad Maritime) | Scrubber fitted |
+| Suezmax | Front Ull | 156.848 | 2014 | Jiangsu, China | 05/2029 | MAN-B&W | $ 140m enbloc | Greek (Silk Searoad Maritime) | Scrubber fitted |
+| Suezmax | Front Idun | 156.657 | 2015 | Jiangsu, China | 01/2030 | MAN-B&W | $ 140m enbloc | Greek (Silk Searoad Maritime) | Scrubber fitted |
+| LR2 | STI Madison | 109.999 | 2014 | Hyundai Samho, Korea | 09/2029 | MAN-B&W | $ 65m | Greek (Hercules Tanker Management) | Scrubber fitted |
 | LR2 | STI Park | 109.999 | 2014 | Hyundai Samho, Korea | 09/2029 | MAN-B&W | $ 65m | Greek | Scrubber fitted |
 | LR2 | STI Sloane | 109.999 | 2014 | Hyundai Samho, Korea | 11/2029 | MAN-B&W | $ 65m | Greek | Scrubber fitted |
 | Aframax | Southern Reverence | 108.534 | 2018 | Tsuneishi, Japan | 12/2027 | MAN-B&W | $ 74,5m | Undisclosed | Scrubber fitted, Dely Jun-Aug'26 |
+| Aframax | Pusaka Borneo | 108.459 | 2018 | Tsuneishi, Japan | 11/2028 | MAN-B&W | $ 77m | Undisclosed | Scrubber fitted, DD 11/2026, Dely Jun-Jul'26 |
+| MR | Pro Onyx | 49.999 | 2019 | Hyundai Mipo, Korea | 09/2029 | MAN-B&W | $ 40m | Undisclosed | Scrubber fitted, T/C till min Sep'26-max Sep'27 |
 
 ## Page 4
 

@@ -79,6 +79,7 @@ No fixture reported for this segment. No period activity to report here.
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Post Panamax | Corona Kingdom | 88.233 | 2004 | Imabari, Japan | 11/2026 | B&W | - | High $ 11m | Undisclosed | Coal carrier, BWTS fitted, DD 12/2024 |
 | Post Panamax | Navios Apollon I | 87.052 | 2005 | IHI, Japan | 07/2025 | Sulzer | - | $ 13m | Undisclosed | BWTS fitted |
 | Kamsarmax | Bellemar | 81.448 | 2007 | Universal, Japan | 03/2026 | MAN-B&W | - | $ 17,57m | Greek (Icon Energy) | BWTS fitted |
 | Panamax | Wu Zhou 6 | 75.981 | 2013 | Hudong- Zhonghua, China | 03/2028 | MAN-B&W | - | $ 18,5m | Undisclosed | BWTS fitted |
@@ -103,8 +104,8 @@ No fixture reported for this segment. No period activity to report here.
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sub Panamax | AS Paola | 2.478 | 2005 | Aker, Germany | 07/2025 | B&W | 3x45T | $ 20,5m | Korean (HMM) |  |
-| Sub Panamax | Wana Bhum | 2.378 | 2005 | Mitsubishi, Japan | 06/2025 | Mitsubishi | - | $ 20m | Korean | Scrubber fitted |
-| Sub Panamax | Xutra Bhum | 2.378 | 2005 | Mitsubishi, Japan | 08/2025 | Mitsubishi | - | $ 20m | (HMM) | Scrubber fitted |
+| Sub Panamax | Wana Bhum | 2.378 | 2005 | Mitsubishi, Japan | 06/2025 | Mitsubishi | - | $ 20m | Korean (HMM) | Scrubber fitted |
+| Sub Panamax | Xutra Bhum | 2.378 | 2005 | Mitsubishi, Japan | 08/2025 | Mitsubishi | - | $ 20m | Korean (HMM) | Scrubber fitted |
 
 ## Page 4
 

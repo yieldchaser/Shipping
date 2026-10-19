@@ -83,9 +83,11 @@ CIS Pacific rounds ranged at the usd 38,000/39,000 pd. Persian Gulf trips into I
 | Post Panamax | Ocean Emerald | 92.950 | 2012 | Cosco Dalian, China | 03/2022 | MAN- B&W | - | $ 17,25m | Undisclosed | Dely Nov'21- Jan'22 |
 | Panamax | Ishizuchi | 77.247 | 2006 | Sasebo, Japan | 12/2021 | MAN- B&W | - | $ 16,5m | Chinese | Coal carrier, Beam 36,5m |
 | Panamax | Ads Galtesund | 75.395 | 2007 | Universal, Japan | 01/2022 | MAN- B&W | - | $ 15,9m | Chinese | Dely Jan'22 |
+| Supramax | Belcargo | 58.729 | 2008 | Tsuneishi Cebu, Philippines | 09/2023 | MAN- B&W | 4x30T | $ 17m | HK based (Jinhui) | BWTS fitted, Dely Oct-Nov '21 |
 | Supramax | Melati Laut | 56.643 | 2011 | Qingshan, China | 12/2021 | MAN- B&W | 4x30T | $ 15,3m | Chinese | Tier II |
 | Supramax | Bulk Phoenix | 56.088 | 2013 | Mitsui, Japan | 09/2023 | MAN- B&W | 4x30T | $ 19,2m | Bangladeshi (Meghna) | Old sale, Delivered |
 | Supramax | Spar Draco | 53.565 | 2006 | Chengxi, China | 10/2021 | MAN- B&W | 4x36T | $ 13,8m | Undisclosed |  |
+| Supramax | Ashiya Star | 52.223 | 2006 | Oshima, Japan | 10/2026 | Mitsubishi | 4x30T | $ 13,8m | Undisclosed | OHBS, BWTS fitted, Dely Feb'22 |
 | Supramax | Teizan | 50.448 | 2011 | Oshima, Japan | 12/2025 | MAN- B&W | 4x30T | $ 21,1m | Undisclosed | OHBS, BWTS fitted |
 | Handymax | Wan An | 42.717 | 1998 | IHI, Japan | 01/2026 | Sulzer | 4x30T | $ 7m | Chinese |  |
 | Handysize | Nicoline Bulker | 38.191 | 2012 | Naikai, Japan | 01/2022 | MAN- B&W | 4x30T | $ 20m | Undisclosed | Prompt delivery |
@@ -109,16 +111,17 @@ CIS Pacific rounds ranged at the usd 38,000/39,000 pd. Persian Gulf trips into I
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sub Panamax | Cordelia | 2.824 | 2003 | Hyundai Mipo, Korea | 08/2023 | B&W | - | $ 39m | Undisclosed |  |
-| Feeder | Heung-A Jakarta | 653 | 1997 | Hanjin, Korea | 11/2022 | B&W | - | $ 5,5m | Singapore based |  |
-| Feeder | Heung-A Manila | 653 | 1997 | Hanjin, Korea | 06/2022 | B&W | - | $ 5,5m | (Straits Orient Lines) |  |
+| Feeder | Gerrit Braren | 1.706 | 2006 | Aker Mtw, Germany |  | MAN | 3x45T | $ 25m | Singapore based (X-Press Feeders) |  |
+| Feeder | Heung-A Jakarta | 653 | 1997 | Hanjin, Korea | 11/2022 | B&W | - | $ 5,5m | Singapore based (Straits Orient Lines) |  |
+| Feeder | Heung-A Manila | 653 | 1997 | Hanjin, Korea | 06/2022 | B&W | - | $ 5,5m | Singapore based (Straits Orient Lines) |  |
 
 ### Gas
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | Captain Markos NL | 58.585 | 2006 | Hyundai, Korea | 11/2021 | MAN-B&W | 80.701 | $ 42,5m | Undisclosed |  |
-| LPG | Bow Gallant | 9.999 | 2008 | Stx, Korea | 07/2023 | MAN-B&W | 8.922 | Undisclosed | Singapore based (BW | Cash & Shares |
-| LPG | Bow Guardian | 9.999 | 2008 | Stx, Korea | 05/2023 | MAN-B&W | 8.922 | Undisclosed | based (BW Epic Kosan) | deal |
+| LPG | Bow Gallant | 9.999 | 2008 | Stx, Korea | 07/2023 | MAN-B&W | 8.922 | Undisclosed | Singapore based (BW Epic Kosan) | Cash & Shares deal |
+| LPG | Bow Guardian | 9.999 | 2008 | Stx, Korea | 05/2023 | MAN-B&W | 8.922 | Undisclosed | Singapore based (BW Epic Kosan) | Cash & Shares deal |
 
 ## Page 5
 

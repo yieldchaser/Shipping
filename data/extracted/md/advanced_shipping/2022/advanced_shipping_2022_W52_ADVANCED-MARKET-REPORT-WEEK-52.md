@@ -59,6 +59,7 @@ Metrostar Management have sold their Aframax "Prostar" 115/2019 Daehan, Korea (S
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLOC | Sakura | 229.069 | 2010 | Namura & Sasebo, Japan | 08/2022 | Mitsubishi | - | Low-Mid $ 20's m | Singaporean |  |
 | Post Panamax | Jin Qi | 93.079 | 2012 | Jiangsu, China | 03/2022 | MAN- B&W | - | $ 17,34m | Undisclosed | Auction sale |
 | Post Panamax | Lowlands Light | 87.605 | 2017 | Oshima, Japan | 04/2022 | MAN- B&W | - | High $ 32m | Undisclosed | BWTS fitted |
 | Kamsarmax | Scarlet Albatross | 81.923 | 2015 | Tsuneishi, Japan | 07/2025 | MAN- B&W | - | $ 31,7m | Greek |  |
@@ -67,8 +68,11 @@ Metrostar Management have sold their Aframax "Prostar" 115/2019 Daehan, Korea (S
 | Supramax | Jin Tao | 56.731 | 2012 | Qingshan, China | 06/2022 | MAN- B&W | 4x30T | $ 16,06m | Chinese | Auction sale |
 | Handysize | Berge Taranaki | 36.896 | 2019 | Oshima, Japan | 04/2024 | MAN- B&W | 4x30T | $ 27m | Undisclosed | BWTS fitted |
 | Handysize | Melbourne Spirit | 35.573 | 2013 | Qingshan, China | 11/2023 | MAN- B&W | 4x30T | Region $ 17m | Undisclosed |  |
+| Handysize | Xing Jing Hai | 34.443 | 2015 | Namura & Sasebo, Japan | 07/2025 | MAN- B&W | 4x30T | Excess $ 22m | Undisclosed | BWTS fitted |
+| Handysize | Xing Yuan Hai | 34.443 | 2015 | Namura & Sasebo, Japan | 12/2025 | MAN- B&W | 4x30T | Excess $ 22m | Undisclosed | BWTS fitted |
 | Handysize | AS Elbia | 34.394 | 2011 | Spp, Korea | 05/2026 | MAN- B&W | 4x35T | $ 16,75m | Undisclosed | BWTS fitted |
 | Handysize | Boxy | 34.148 | 2012 | Dae Sun, Korea | 03/2022 | MAN- B&W | 4x30T | $ 15,5m | Undisclosed |  |
+| Cement Carrier | Sumise Maru No. 2 | 8.881 | 2002 | Kanrei Naruto, Japan | 09/2022 | B&W | - | $ 3,5m | Greek |  |
 
 ## Page 3
 
@@ -93,8 +97,8 @@ Metrostar Management have sold their Aframax "Prostar" 115/2019 Daehan, Korea (S
 | Sub Panamax | California Trader | 2.782 | 2017 | Jiangsu, China | 09/2022 | MAN-B&W | - | $ 48m | Taiwanese (Wan Hai Lines) |  |
 | Sub Panamax | Carolina Trader | 2.782 | 2017 | Jiangsu, China | 09/2022 | MAN-B&W | - | $ 48m | Taiwanese (Wan Hai Lines) |  |
 | Sub Panamax | Delaware Trader | 2.782 | 2018 | Guangzhou, China | 06/2023 | MAN-B&W | - | $ 49m | Taiwanese (Wan Hai Lines) |  |
-| Sub Panamax | MCC Chittagong | 2.548 | 2016 | Zhejiang, China | 10/2026 | MAN-B&W | 3x45T | Undisclosed | Danish |  |
-| Sub Panamax | MCC Ningbo | 2.548 | 2016 | Zhejiang, China | 08/2026 | MAN-B&W | 3x45T | Undisclosed | (Maersk) |  |
+| Sub Panamax | MCC Chittagong | 2.548 | 2016 | Zhejiang, China | 10/2026 | MAN-B&W | 3x45T | Undisclosed | Danish (Maersk) |  |
+| Sub Panamax | MCC Ningbo | 2.548 | 2016 | Zhejiang, China | 08/2026 | MAN-B&W | 3x45T | Undisclosed | Danish (Maersk) |  |
 | Feeder | Ren Jian Er | 1.684 | 1994 | Schichau, Germany | 12/2024 | B&W | - | $ 7,2m | Chinese | Online auction |
 
 ## Page 4

@@ -79,6 +79,7 @@ A generally quiet week for this segment. Continental trips into Mediterranean wi
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Newcastlemax | Beks Brown | 206.204 | 2005 | Imabari, Japan | 08/2025 | MAN-B&W | - | Region $ 16,5m | Chinese | BWTS fitted, Scrubber fitted, DD 01/2024 |
 | Capesize | Iron Miracle | 180.643 | 2011 | Tsuneishi Cebu, Philippines | 10/2026 | MAN-B&W | - | Low $ 27m | Greek (Costamare) | BWTS fitted, Dely Q1 2024 |
 | Capesize | Magic Orion | 180.200 | 2006 | Imabari, Japan | 03/2026 | MAN-B&W | - | $ 17,5m | Undisclosed | DD 03/2024 |
 | Capesize | Mineral Destelbergen | 175.401 | 2010 | New Times, China | 06/2025 | MAN-B&W | - |  |  | BWTS fitted |
@@ -93,6 +94,7 @@ A generally quiet week for this segment. Continental trips into Mediterranean wi
 | Supramax | TR Crown | 53.474 | 2005 | Imabari, Japan | 02/2025 | B&W | 4x30,5T | $ 10,3m | Chinese | BWTS fitted |
 | Supramax | Jin Sheng | 52.050 | 2006 | IHI, Japan | 09/2025 | Sulzer | 4x30T | $ 10,43m | Chinese | BWTS fitted |
 | Supramax | Merlin | 50.296 | 2001 | Mitsui, Japan | 03/2026 | MAN-B&W | 4x30T | Excess $ 6m | Chinese | BWTS fitted, DD 04/2024 |
+| Handysize | Shinsung Clever | 37.084 | 2014 | Saiki, Japan | 07/2024 | MAN-B&W | 4x30,5T | Low $ 18m | Undisclosed | OHBS, BWTS fitted, T/C attached at 11.250 usd/day til Nov'24 |
 | Handysize | Global Hero | 34.481 | 2015 | Hakodate, Japan | 01/2025 | Mitsubishi | 4x30T | Mid $ 17m | European | BWTS fitted |
 | Handysize | Timaru Star | 33.527 | 2004 | Hakodate, Japan | 05/2024 | Mitsubishi | 4x30,5T | $ 8,4m | Undisclosed |  |
 
@@ -111,8 +113,8 @@ A generally quiet week for this segment. Continental trips into Mediterranean wi
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | Avance Castor | 62.500 | 2024 | Daewoo, Korea |  | MAN-B&W | 89.450 | $ 120m | Indonesian | Resale |
-| LPG | Avance Pollux | 62.500 | 2024 | Daewoo, Korea |  | MAN-B&W | 89.450 | $ 120m | (Pertamina) | Resale |
+| LPG | Avance Castor | 62.500 | 2024 | Daewoo, Korea |  | MAN-B&W | 89.450 | $ 120m | Indonesian (Pertamina) | Resale |
+| LPG | Avance Pollux | 62.500 | 2024 | Daewoo, Korea |  | MAN-B&W | 89.450 | $ 120m | Indonesian (Pertamina) | Resale |
 
 ## Page 5
 

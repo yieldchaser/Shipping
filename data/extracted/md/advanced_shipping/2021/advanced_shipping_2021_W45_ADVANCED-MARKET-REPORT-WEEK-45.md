@@ -79,13 +79,18 @@ A number of trips from Black Sea into Continent were reported fixed around usd 3
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Newcastlemax | MP The Hightower | 208.000 | 2020 | Jiangsu, China | 01/2025 | MAN- B&W | - | $ 65m | Singapore |  |
-| Newcastlemax | MP The Kraft | 208.000 | 2020 | Jiangsu, China | 01/2025 | MAN- B&W | - | $ 65m | based |  |
+| Newcastlemax | MP The Hightower | 208.000 | 2020 | Jiangsu, China | 01/2025 | MAN- B&W | - | $ 65m | Singapore based |  |
+| Newcastlemax | MP The Kraft | 208.000 | 2020 | Jiangsu, China | 01/2025 | MAN- B&W | - | $ 65m | Singapore based |  |
 | Capesize | Bao May | 178.050 | 2010 | SWS, China | 05/2025 | MAN- B&W | - | $ 32m | Undisclosed |  |
 | Capesize | ASL Mars | 175.085 | 2004 | SWS, China | 08/2024 | MAN- B&W | - | High $ 16m | Undisclosed |  |
 | Kamsarmax | Ocean Rosemary | 82.265 | 2013 | Dalian, China | 04/2023 | MAN- B&W | - | Region $ 23m | Undisclosed |  |
+| Kamsarmax | Majulah Harbourfront | 81.922 | 2014 | Tsuneishi Zhoushan, China | 11/2024 | MAN- B&W | - | $ 31m | Far Eastern |  |
+| Panamax | Shandong Chong Wen | 76.098 | 2011 | Hudong- Zhonghua, China |  | MAN- B&W | - | $ 19,64m | Chinese | Auction sale |
+| Ultramax | Nautical Alice | 63.580 | 2016 | Jiangsu, China | 06/2026 | MAN- B&W | 4x30T | $ 28,5m | Undisclosed | BWTS fitted, Scrubber fitted, Dely Q1 2022 |
 | Ultramax | Ikan Senyur | 61.494 | 2010 | Shin Kasado, Japan | 09/2025 | MAN- B&W | 4x30,7T | $ 22m | Undisclosed | BWTS fitted |
 | Supramax | Shandong Hai Tong | 56.724 | 2012 | Jinling, China | 05/2022 | MAN- B&W | 4x30T | $ 16,71m | Undisclosed | Auction sale |
+| Handysize | Spring Breeze | 33.847 | 2013 | Jiangsu, China | 01/2023 | MAN- B&W | 4x30T | High $ 15m | Undisclosed | BWTS fitted, Incl. T/C until Aug'22 |
+| Handysize | Lake Dany | 28.358 | 2008 | Shimanami, Japan | 06/2025 | MAN- B&W | 4x30,5T | $ 11,9m | Undisclosed | BWTS fitted, sold to current Charterers |
 
 ## Page 4
 
@@ -95,6 +100,8 @@ A number of trips from Black Sea into Continent were reported fixed around usd 3
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR | Nord Skate | 51.332 | 2009 | Stx, Korea | 01/2024 | MAN- B&W | $ 17m | Undisclosed | BWTS fitted, Scrubber fitted |
 | MR | Nord Stingray | 51.291 | 2009 | Stx, Korea | 05/2024 | MAN- B&W | $ 17m | Undisclosed | BWTS fitted, Scrubber fitted |
+| MR | Hyundai Vietnam S501 | 50.000 | 2022 | Hyundai-Vietnam, Vietnam |  | MAN- B&W | $ 38m | Undisclosed | BWTS fitted, Scrubber ready, Dely Dec'22 |
+| MR | Angel 62 | 47.410 | 2009 | Onomichi, Japan | 07/2024 | MAN- B&W | $ 13,8m | Greek (Spring Marine Management) |  |
 | MR | Bauci | 37.320 | 2002 | Stx, Korea | 05/2022 | MAN- B&W | Low-Mid $ 6m | Undisclosed |  |
 | Chemical/Oil Products | Bow Fuling | 9.156 | 2012 | Chongqing, China | 06/2022 | MAN |  |  | St St |
 | Chemical/Oil Products | Bow Nangang | 9.124 | 2013 | Chongqing, China | 03/2023 | MAN | Undisclosed | German (E&S Tankers) | St St |

@@ -79,6 +79,7 @@ A number of Australian trips into China were reported at the level of usd 11,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Mineral Shougang International | 180.171 | 2009 | Dalian, China | 07/2024 | MAN-B&W | - | $ 22,7m | Undisclosed | Scrubber fitted |
 | Capesize | Cymona Iron | 176.505 | 2011 | SWS, China | 01/2026 | MAN-B&W | - | $ 26m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Kamsarmax | Royal Fukuyama | 82.224 | 2013 | Tsuneishi, Japan | 07/2028 | MAN-B&W | - | Region $ 23m | Greek | BWTS fitted |
 | Panamax | Magic Phoenix | 76.636 | 2008 | Imabari, Japan | 11/2023 | MAN-B&W | - | Region $ 14m | Undisclosed | BWTS fitted |
@@ -89,6 +90,7 @@ A number of Australian trips into China were reported at the level of usd 11,000
 | Supramax | Ocean Glory | 56.039 | 2006 | Mitsui, Japan | 09/2025 | MAN-B&W | 4x30T | $ 11,1m | Indonesian | BWTS fitted |
 | Supramax | Peace | 55.709 | 2006 | Oshima, Japan | 03/2026 | MAN-B&W | 4x30T | Mid-High $ 11m | Vietnamese | BWTS fitted |
 | Supramax | Ioanna Pol | 50.238 | 2004 | Mitsui, Japan | 06/2024 | B&W | 4x30T | $ 7,75m | Chinese |  |
+| Handysize | Pacific Island | 38.218 | 2012 | Shimanami, Japan | 11/2025 | MAN-B&W | 4x30,5T | Region $ 16m | Greek | Box holds, BWTS fitted, DD 11/2023 |
 | Handysize | Daiwan Dolphin | 34.393 | 2015 | Namura & Sasebo, Japan | 03/2025 | MAN-B&W | 4x30T | $ 18,6m | Dutch (OSR) | BWTS fitted |
 | Handysize | Sun Ruby | 32.754 | 2004 | Kanda, Japan | 03/2024 | Mitsubishi | 4x30,5T | $ 8,1m | Undisclosed | BWTS fitted |
 
@@ -111,6 +113,7 @@ A number of Australian trips into China were reported at the level of usd 11,000
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sub Panamax | Thorstar | 2.824 | 2003 | Hyundai Mipo, Korea | 03/2028 | B&W | - | $ 13m | Greek (Euroseas) | Ice Class II, Incl. T/C |
 | Feeder | AS Rafaela | 1.440 | 2007 | Peene, Germany | 09/2027 | MAN-B&W | - |  |  | Ice Class II |
+| Feeder | AS Roberta | 1.440 | 2006 | Peene, Germany | 09/2026 | MAN-B&W | - | $ 21,7m enbloc | Turkish (Arkas Shipping) | Ice Class II |
 | Feeder | AS Flora | 1.223 | 2005 | Peene, Germany | 03/2025 | MAN-B&W | - |  |  |  |
 | Feeder | Pegasus Prime | 710 | 2004 | Dae Sun, Korea | 02/2024 | MAN-B&W | - | Region $ 4m | UAE | BWTS fitted |
 

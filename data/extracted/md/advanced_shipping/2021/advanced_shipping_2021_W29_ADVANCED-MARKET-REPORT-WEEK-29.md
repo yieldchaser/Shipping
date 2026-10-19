@@ -81,6 +81,8 @@ A number of Indonesian trips into China were reported at the level of usd 24,000
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Lowlands Green | 95.695 | 2011 | Imabari, Japan | 09/2025 | MAN- B&W | - | $ 21m | Undisclosed | BWTS fitted, Dely Jan '22 |
 | Kamsarmax | Magnolia | 82.165 | 2011 | Tsuneishi, Japan | 11/2025 | MAN- B&W | - | $ 22m | Greek (Diana Shipping) | BWTS fitted, Dely Feb '22 |
+| Kamsarmax | Navios Marco Polo | 80.647 | 2011 | Universal, Japan | 02/2026 | MAN- B&W | - | $ 22,5m | Taiwanese (Chailease International Leasing) | BWTS fitted, Dely Oct '21 |
+| Panamax | Navios Azalea | 74.759 | 2005 | Hudong- Zhonghua, China | 06/2025 | MAN- B&W | - | $ 13m | Undisclosed |  |
 | Ultramax | Kmarin Ulsan | 63.151 | 2014 | Jiangsu, China | 06/2024 | MAN- B&W | 4x30T | $ 22m | Chinese | BWTS fitted, dely Jan '22 |
 | Ultramax | Nord Hudson | 61.617 | 2014 | NACKS, China | 08/2024 | MAN- B&W | 4x30T | Mid $ 24m | Undisclosed |  |
 | Ultramax | New Aspiration | 61.448 | 2011 | Iwagi, Japan | 10/2021 | MAN- B&W | 4x30,7T | $ 21m | Greek | BWTS fitted |
@@ -90,9 +92,11 @@ A number of Indonesian trips into China were reported at the level of usd 24,000
 | Supramax | Valovine | 52.000 | 2016 | Uljanik, Croatia | 09/2021 | MAN- B&W | 4x30T | Region $ 16m | Croatian |  |
 | Supramax | Punta | 52.000 | 2013 | Uljanik, Croatia | 10/2023 | MAN- B&W | 4x30T | Mid $ 14m | Croatian | BWTS fitted |
 | Handysize | Sider Faioch | 38.800 | 2015 | Jiangsu, China | 06/2025 | MAN- B&W | 4x30T | $ 21,2m | European | Dely Sep '21 |
+| Handysize | Ultra Calbuco | 37.981 | 2017 | I-S, Japan | 02/2022 | MAN- B&W | 4x30,7T | $ 23,5m | Indian (Chellaram Shipping) | BWTS fitted, Dely Dec '21 |
 | Handysize | Kira Ocean | 30.835 | 1997 | Minami- Nippon, Japan | 03/2022 | Mitsubishi | 4x30T | Low $ 5m | Undisclosed |  |
 | Handysize | Irongate | 28.316 | 2015 | I-S, Japan | 04/2025 | MAN- B&W | 4x30,5T | $ 13,9m | Undisclosed | BWTS fitted |
 | Handysize | Lucky Life | 28.197 | 2013 | Imabari, Japan | 06/2023 | MAN- B&W | 4x30,5T | Region $ 14m | Greek | Dely Nov '21 |
+| Small | Adaline | 12.259 | 2001 | Shin Kurushima, Japan | 09/2021 | Mitsubishi | 3x30T | $ 3,5m | Turkish | Old sale |
 
 ## Page 4
 
@@ -100,24 +104,27 @@ A number of Indonesian trips into China were reported at the level of usd 24,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Aframax | Pink Stars | 115.592 | 2010 | Samsung, Korea | 09/2025 | MAN- B&W | $ 25,3m | Greek | BB back to sellers at 10.000 usd/pd |
 | LR2 | Aquamarine | 99.990 | 2002 | Onomichi, Japan | 12/2022 | MAN- B&W | $ 9,7m | Taiwanese | Old sale |
 | MR | Fs Sincerity | 48.045 | 2009 | Iwagi, Japan | 04/2022 | MAN- B&W | Region $ 14m | Greek |  |
 | MR | Gold Ocean | 37.320 | 2007 | Stx, Korea | 01/2022 | MAN- B&W | $ 8,8m | Undisclosed |  |
 | Chemical/Oil Products | Beech Galaxy | 19.998 | 2007 | Usuki, Japan | 01/2022 | MAN- B&W | $ 11m | Undisclosed | St St |
 | Chemical/Oil Products | Lime Galaxy | 19.992 | 2008 | Usuki, Japan | 12/2023 | MAN- B&W | $ 12m | Undisclosed | St St |
+| Chemical/Oil Products | Celsius Manhattan | 19.807 | 2006 | Kitanihon, Japan | 10/2021 | Mitsubishi | $ 11,5m | Chinese (Taihua Ship Management) | St St |
 
 ### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Panamax | S Santiago | 5.059 | 2006 | Hanjin, Korea | 08/2026 | MAN-B&W | - | $ 58m | Singapore based (OM Maritime) | Dely Mar'22 |
 | Panamax | Charleston Express | 3.237 | 2002 | CSBC, Taiwan | 06/2022 | B&W | 4x45T | Undisclosed | Greek (Lomar Shipping) | 1-4 years T/C back to sellers |
-| Panamax | Philadelphia Express | 3.237 | 2003 | CSBC, Taiwan | 02/2023 | B&W | 4x45T | Undisclosed | Greek | 1-4 years T/C back to sellers |
+| Panamax | Philadelphia Express | 3.237 | 2003 | CSBC, Taiwan | 02/2023 | B&W | 4x45T | Undisclosed | Greek (Lomar Shipping) | 1-4 years T/C back to sellers |
 | Panamax | St Louis Express | 3.237 | 2002 | CSBC, Taiwan | 07/2022 | B&W | 4x45T | Undisclosed | Greek (Lomar Shipping) | 1-4 years T/C back to sellers |
-| Panamax | Washington Express | 3.237 | 2003 | CSBC, Taiwan | 01/2023 | B&W | 4x45T | Undisclosed | Shipping) | 1-4 years T/C back to sellers |
+| Panamax | Washington Express | 3.237 | 2003 | CSBC, Taiwan | 01/2023 | B&W | 4x45T | Undisclosed | Greek (Lomar Shipping) | 1-4 years T/C back to sellers |
 | Panamax | Yorktown Express | 3.237 | 2002 | CSBC, Taiwan | 10/2022 | B&W | 4x45T | Undisclosed | Greek (Lomar Shipping) | 1-4 years T/C back to sellers |
 | Sub Panamax | Balao | 2.550 | 2013 | Jiangsu, China | 04/2023 | Wartsila | 3x45T | $ 120m enbloc | Undisclosed |  |
-| Sub Panamax | Ballenita | 2.550 | 2013 | Jiangsu, China | 07/2023 | Wartsila | 3x45T | $ 120m | Undisclosed |  |
-| Sub Panamax | Balsa | 2.550 | 2013 | Jiangsu, China | 09/2023 | Wartsila | 3x45T | enbloc | Undisclosed |  |
+| Sub Panamax | Ballenita | 2.550 | 2013 | Jiangsu, China | 07/2023 | Wartsila | 3x45T | $ 120m enbloc | Undisclosed |  |
+| Sub Panamax | Balsa | 2.550 | 2013 | Jiangsu, China | 09/2023 | Wartsila | 3x45T | $ 120m enbloc | Undisclosed |  |
 | Sub Panamax | Banak | 2.546 | 2014 | Jiangsu, China | 03/2024 | MAN-B&W | 3x45T | $ 120m enbloc | Undisclosed |  |
 
 ## Page 5

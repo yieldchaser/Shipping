@@ -80,6 +80,10 @@ North Pacific rounds ranged at the usd 10,000/12,000 pd. Indonesian sugar trips 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Jupiter N | 93.099 | 2011 | Taizhou, China | 04/2026 | MAN- B&W | - | $ 16,5m | Greek (W Marine) | BWTS fitted |
+| Supramax | Navios Amaryllis | 58.735 | 2008 | Tsuneishi Zhoushan, China | 05/2027 | MAN- B&W | 4x30T | High $ 14m | Indonesian (Gurita Lintas Samudera) | Dec'22 sale, Delivered |
+| Supramax | Bonita | 58.105 | 2010 | Tsuneishi Zhoushan, China | 09/2025 | MAN- B&W | 4x30T | $ 15,7m | Greek | BWTS fitted |
+| Handysize | Venture Ocean | 38.947 | 2015 | Jiangmen, China | 10/2025 | MAN- B&W | 4x30,5T | Low-Mid $ 18m | Undisclosed | BWTS fitted, Dely Feb- Mar'23 |
+| Handysize | BBC Neptune | 38.400 | 2010 | Tianjin, China | 08/2025 | Wartsila | 4x30T | $ 12m | Turkish (Akson) | BWTS fitted, Ice Class 1C, Delivered |
 | Handysize | African Venture | 34.721 | 2012 | Chengxi, China | 06/2027 | MAN- B&W | 4x30T | Mid-High $ 12m | Undisclosed | BWTS fitted |
 | Handysize | Camila | 34.334 | 2015 | Namura & Sasebo, Japan | 09/2025 | MAN- B&W | 4x30T | $ 19,5m | Turkish | BWTS fitted |
 | Handysize | Tia Marta | 34.334 | 2015 | Namura & Sasebo, Japan | 09/2025 | MAN- B&W | 4x30T | $ 19,5m | Turkish | BWTS fitted |
@@ -89,9 +93,11 @@ North Pacific rounds ranged at the usd 10,000/12,000 pd. Indonesian sugar trips 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ULCC | Oceania | 441.585 | 2003 | Daewoo, Korea | 03/2025 | Sulzer | $ 50m | Undisclosed |  |
+| VLCC | Yasa Southern Cross | 318.348 | 2012 | SWS, China | 01/2027 | Wartsila | Undisclosed | Undisclosed | Scrubber fitted |
 | VLCC | Birdie | 308.829 | 2005 | Samsung, Korea | 12/2025 | MAN- B&W | $ 52,5m | Undisclosed | Scrubber fitted, Delivered |
 | VLCC | Rider 1 | 299.986 | 1998 | Hitachi, Japan | 04/2023 | B&W | Undisclosed | Undisclosed | DD overdue |
 | Suezmax | Amoroza | 159.168 | 2001 | Hyundai, Korea | 12/2025 | MAN- B&W | $ 27m | Undisclosed | BWTS fitted |
+| Aframax | Marathon | 105.042 | 2005 | Hyundai Samho, Korea | 01/2025 | B&W | $ 32m | Indonesian (Buana Lintas Lautan) | BWTS fitted, Ice Class 1C |
 | LR1 | Lila Alabama | 72.514 | 2004 | Samsung, Korea | 06/2024 | MAN- B&W | $ 21,5m | Middle Eastern |  |
 | MR | High Mercury | 51.501 | 2008 | Stx, Korea | 07/2023 | MAN- B&W | $ 21m | European |  |
 | MR | Proodos | 47.120 | 2005 | Stx, Korea | 01/2025 | MAN- B&W | High $ 18m | European | BWTS fitted |
@@ -104,6 +110,7 @@ North Pacific rounds ranged at the usd 10,000/12,000 pd. Indonesian sugar trips 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Sovereign Maersk | 9.578 | 1997 | Odense, Denmark | 06/2027 | B&W | - | Undisclosed | Swiss based (MSC) |  |
 | Sub Panamax | AS Carinthia | 2.824 | 2003 | Hyundai Mipo, Korea | 04/2023 | B&W | - | $ 7,6m | Chinese |  |
+| Sub Panamax | SITC Surabaya | 2.742 | 2006 | Aker Mtw Werft, Germany | 03/2026 | MAN-B&W | - | $ 13m | Undisclosed |  |
 | Feeder | SITC Bangkok | 1.620 | 2003 | Imabari, Japan | 07/2023 | B&W | - | $ 12,25m | Bangladeshi (HR Lines) |  |
 | Feeder | Dongjin Highness | 704 | 2007 | Yangfan, China | 08/2027 | MaK | - | $ 5,5m | Chinese |  |
 

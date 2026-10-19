@@ -85,8 +85,8 @@ Trips from China into Australia were reported at the level of usd 9,000/11,000 p
 | Mini Cape | Brilliant Jupiter | 119.480 | 2010 | Sanoyas, Japan | 07/2025 | MAN-B&W | - | $ 16m | Undisclosed |  |
 | Kamsarmax | Kazahaya | 81.774 | 2017 | Tsuneishi Cebu, Philippines | 03/2027 | MAN-B&W | - | $ 27,5m | German (Blumenthal) |  |
 | Kamsarmax | Medi Nagoya | 81.671 | 2018 | Tsuneishi Cebu, Philippines | 04/2028 | MAN-B&W | - | Region $ 28m | Undisclosed | Scrubber fitted |
-| Kamsarmax | Thunderbird | 79.508 | 2011 | Jiangsu, China | 11/2025 | Wartsila | - | Mid $ 19 | Undisclosed | Ice Class II |
-| Kamsarmax | Bonneville | 79.403 | 2010 | Jiangsu, China | 11/2025 | Wartsila | - | enbloc | Undisclosed | Ice Class II |
+| Kamsarmax | Thunderbird | 79.508 | 2011 | Jiangsu, China | 11/2025 | Wartsila | - | Mid $ 19 enbloc | Undisclosed | Ice Class II |
+| Kamsarmax | Bonneville | 79.403 | 2010 | Jiangsu, China | 11/2025 | Wartsila | - | Mid $ 19 enbloc | Undisclosed | Ice Class II |
 | Supramax | Soldoy | 56.830 | 2011 | Yangfan, China | 07/2026 | MAN-B&W | 4x36T | $ 12,5m | Undisclosed |  |
 | Supramax | NZ Hangzhou | 56.709 | 2012 | Qingshan, China | 06/2027 | MAN-B&W | 4x30T | $ 12m | Chinese | DD 09/2025 |
 | Supramax | Swan River | 56.025 | 2005 | Mitsui, Japan | 07/2025 | MAN-B&W | 4x30T | $ 10m | Undisclosed | Scrubber fitted |
@@ -122,13 +122,14 @@ Trips from China into Australia were reported at the level of usd 9,000/11,000 p
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | Athens Glory | 6.492 | 2003 | IHI, Japan | 11/2029 | Sulzer | - | $ 44m | Swiss based |  |
-| Post Panamax | MSC Aquarius | 6.492 | 2003 | IHI, Japan | 04/2026 | Sulzer | - | $ 44m | (MSC) |  |
+| Post Panamax | Athens Glory | 6.492 | 2003 | IHI, Japan | 11/2029 | Sulzer | - | $ 44m | Swiss based (MSC) |  |
+| Post Panamax | MSC Aquarius | 6.492 | 2003 | IHI, Japan | 04/2026 | Sulzer | - | $ 44m | Swiss based (MSC) |  |
 | Post Panamax | Dimitris Y | 5.936 | 2000 | Kvaerner, Germany | 05/2025 | Sulzer | - | $ 36m | Undisclosed |  |
 | Sub Panamax | Jeju Island | 2.742 | 2006 | Aker, Germany | 02/2026 | MAN-B&W | - | $ 20,5m | Undisclosed |  |
 | Sub Panamax | ST Success | 2.553 | 2010 | Naikai, Japan | 07/2025 | MAN-B&W | - | $ 27m | Undisclosed | Basis SS/DD passed |
-| Feeder | Kestrel | 1.805 | 2013 | CSBC, Taiwan | 05/2028 | MAN-B&W | - | $ 45m | Greek |  |
-| Feeder | Ela | 1.740 | 2012 | Guangzhou, China | 04/2027 | MAN-B&W | 2x40T | enbloc | (Erasmus) | Ice Class II |
+| Feeder | Kestrel | 1.805 | 2013 | CSBC, Taiwan | 05/2028 | MAN-B&W | - | $ 45m enbloc | Greek (Erasmus) |  |
+| Feeder | Ela | 1.740 | 2012 | Guangzhou, China | 04/2027 | MAN-B&W | 2x40T | $ 45m enbloc | Greek (Erasmus) | Ice Class II |
+| Feeder | Panda Vega | 1.060 | 2006 | Hakata, Japan | 02/2026 | MAN-B&W | - | $ 9,9m | HK based (Kawa Shipping) |  |
 
 ## Page 5
 

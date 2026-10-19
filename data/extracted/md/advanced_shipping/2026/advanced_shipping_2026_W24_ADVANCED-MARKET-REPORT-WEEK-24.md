@@ -81,8 +81,8 @@ East Coast South America trips into East Coast and West Coast South America were
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Kerkis | 176.862 | 2007 | Namura & Sasebo, Japan | 11/2026 | MAN-B&W | - | $ 25,5m | Chinese |  |
 | Capesize | Charm | 171.014 | 2003 | Sasebo, Japan | 05/2028 | MAN-B&W | - | $ 17,4m | Chinese | DD 05/2026 |
-| Mini Cape | Lowlands Amber | 100.309 | 2021 | Oshima, Japan | 01/2031 | MAN-B&W | - | $ 75,8m | Omani (Asyad |  |
-| Mini Cape | Lowlands Crimson | 100.309 | 2020 | Oshima, Japan | 10/2030 | MAN-B&W | - | enbloc | Shipping) |  |
+| Mini Cape | Lowlands Amber | 100.309 | 2021 | Oshima, Japan | 01/2031 | MAN-B&W | - | $ 75,8m enbloc | Omani (Asyad Shipping) |  |
+| Mini Cape | Lowlands Crimson | 100.309 | 2020 | Oshima, Japan | 10/2030 | MAN-B&W | - | $ 75,8m enbloc | Omani (Asyad Shipping) |  |
 | Kamsarmax | Seacon Antwerp | 82.806 | 2024 | Tsuneishi Zhoushan, China | 06/2029 | MAN-B&W | - | $ 43m | Undisclosed | Dely Sep'26 |
 | Kamsarmax | Dimitris A | 82.518 | 2008 | Tsuneishi Zhoushan, China | 08/2028 | MAN-B&W | - | $ 14,8m | Chinese | DD 09/2026 |
 | Supramax | White Bay | 52.502 | 2004 | Tsuneishi Cebu, Philippines | 04/2029 | B&W | 4x30T | $ 10m | Undisclosed | Scrubber fitted, DD 12/2026 |

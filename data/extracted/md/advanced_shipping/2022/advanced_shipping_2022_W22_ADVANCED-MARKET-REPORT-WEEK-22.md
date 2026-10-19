@@ -79,13 +79,20 @@ No fixture reported for this segment. No period activity to report here.
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Stella Flora | 176.292 | 2012 | Shanghai Jiangnan, China | 10/2022 | MAN- B&W | - | $ 31,75m | Greek (Safe Bulkers) | BWTS fitted, basis SS/DD passed |
+| Kamsarmax | Majulah Harbrourfront | 81.922 | 2014 | Tsuneishi Zhoushan, China | 11/2024 | MAN- B&W | - | $ 31,6m | Greek | BWTS fitted, DD 10/2022 |
+| Kamsarmax | Capricorn Moon | 81.828 | 2015 | Tsuneishi Cebu, Philippines | 04/2025 | MAN- B&W | - | Region $ 34m | German | BWTS fitted |
 | Panamax | ES Sakura | 76.596 | 2007 | Imabari, Japan | 08/2022 | MAN- B&W | - | $ 18,3m | Undisclosed |  |
+| Panamax | Zhong Liang Hua Nan | 74.786 | 2001 | Hudong- Zhonghua, China | 09/2022 | MAN- B&W | - | $ 13,25m | Chinese | Auction sale |
+| Ultramax | Fortune Bell | 61.397 | 2020 | Shin Kurushima, Japan | 05/2025 | MAN- B&W | 4x30,7T | $ 39m | Undisclosed | BWTS fitted |
+| Ultramax | Pavo Bright | 61.281 | 2017 | Shin Kurushima, Japan | 01/2027 | MAN- B&W | 4x30,7T | Mid-High $ 33m | Greek | BWTS fitted |
 | Supramax | Bao Chuan | 56.039 | 2007 | Mitsui, Japan | 04/2027 | MAN- B&W | 4x30T | $ 17,8m | Chinese | BWTS fitted |
+| Supramax | Evnia | 53.806 | 2003 | New Century, China | 08/2023 | B&W | 4x40T | $ 14,4m | Undisclosed |  |
 | Supramax | Prabhu Lal | 52.491 | 2004 | Tsuneishi, Japan | 03/2024 | B&W | 4x30T | $ 16m | Undisclosed | BWTS fitted, DD freshly passed |
 | Handymax | Zhong Liang Hua Dong | 46.513 | 2001 | Oshima, Japan | 01/2026 | Sulzer | 4x30T | $ 12m | Undisclosed | Auction sale |
 | Handymax | Fortune Lord | 45.600 | 1997 | Tsuneishi, Japan | 09/2022 | B&W | 4x30T | Low $ 7m | Undisclosed |  |
-| Handysize | Nordic Seoul | 35.882 | 2017 | Samjin, China | 08/2022 | MAN- B&W | 4x30T | $ 24,5m | Thai (Precious |  |
-| Handysize | Nordic Busan | 35.700 | 2018 | Samjin, China | 04/2023 | MAN- B&W | 4x30T | $ 25,5m | (Precious Shipping) |  |
+| Handysize | Nordic Seoul | 35.882 | 2017 | Samjin, China | 08/2022 | MAN- B&W | 4x30T | $ 24,5m | Thai (Precious Shipping) |  |
+| Handysize | Nordic Busan | 35.700 | 2018 | Samjin, China | 04/2023 | MAN- B&W | 4x30T | $ 25,5m | Thai (Precious Shipping) |  |
 | Handysize | Cetus Star | 33.773 | 2004 | Oshima, Japan | 10/2024 | B&W | 4x30T | High $ 12m | Chinese |  |
 | Handysize | Cassiopeia Star | 32.328 | 2005 | Naikai, Japan | 03/2025 | B&W | 4x30T | $ 13,3m | Turkish | OHBS |
 | Handysize | Conception Light | 32.256 | 2007 | Kanda, Japan | 12/2022 | Mitsubishi | 4x30,5T | $ 15,7m | Undisclosed | OHBS, BWTS fitted |
@@ -118,6 +125,7 @@ No fixture reported for this segment. No period activity to report here.
 | Sub Panamax | Maersk Niagara | 2.556 | 2008 | Hyundai, Korea | 11/2023 | Wartsila | 4x40T |  |  |  |
 | Sub Panamax | Maersk Niamey | 2.556 | 2009 | Hyundai, Korea | 03/2024 | Wartsila | 4x40T | $ 150m enbloc | European |  |
 | Sub Panamax | Maersk Nijmegen | 2.556 | 2009 | Hyundai, Korea | 05/2024 | Wartsila | 4x40T |  |  |  |
+| Feeder | Jiangsu Yangzi Xinfu YZJ2015-2073 | 1.800 | 2022 | Jiangsu, China |  | MAN-B&W | - | $ 43m | Singapore based (Transfar Shipping) |  |
 | Feeder | Suderoog | 1.402 | 2005 | Shandong, China | 12/2025 | MAN-B&W | 2x40T | $ 22m | Swiss based (MSC) |  |
 
 ## Page 5

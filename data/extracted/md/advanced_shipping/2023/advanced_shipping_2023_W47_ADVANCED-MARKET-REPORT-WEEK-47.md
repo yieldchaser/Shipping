@@ -79,12 +79,19 @@ A number of Australian trips into China were fixed around usd 5,000/7,000 pd. We
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Comanche | 180.882 | 2016 | SWS, China | 07/2026 | MAN-B&W | - | $ 43,1m | US based (Genco Shipping) | BWTS fitted, Scrubber fitted |
+| Capesize | Maran Innovation | 171.681 | 2004 | Daewoo, Korea | 03/2024 | MAN-B&W | - | Low-mid $ 13m | Chinese | BWTS fitted, Scrubber fitted, bss prompt dely |
 | Capesize | Genco Commodus | 169.098 | 2009 | Sungdong, Korea | 07/2024 | MAN-B&W | - | $ 19,5m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Kamsarmax | Star Jennifer | 82.295 | 2006 | Tsuneishi, Japan | 03/2026 | MAN-B&W | - | $ 14,5m | Undisclosed | BWTS fitted, Scrubber fitted |
+| Panamax | Omicron Light | 76.602 | 2005 | Imabari, Japan | 08/2024 | B&W | - | High $ 10m | Vietnamese (Hoanh Son Group) | Delivered, BWTS fitted |
+| Ultramax | Star Athena | 63.371 | 2015 | Chengxi, China | 09/2025 | MAN-B&W | 4x30T | High $ 23m | Greek (Super Eco Bulkers) | Delivered, BWTS fitted, Scrubber fitted |
+| Ultramax | Glory Harvest | 63.339 | 2014 | Jiangsu, China | 12/2024 | MAN-B&W | 4x30T | $ 21,5m | Greek | Old sale, BWTS fitted, Incl. T/C for 10-13 months |
 | Supramax | Star Glory | 58.680 | 2012 | NACKS, China | 01/2027 | MAN-B&W | 4x30,5T | $ 19m | Greek | BWTS fitted, Scrubber fitted |
 | Supramax | NPS Mosa | 53.556 | 2007 | Iwagi, Japan | 06/2027 | MAN-B&W | 4x30,5T | $ 11,6m | Undisclosed | BWTS fitted |
 | Supramax | Chennai Selvam | 52.489 | 2001 | Tsuneishi, Japan | 11/2026 | B&W | 4x30,5T | $ 6,5m | Undisclosed | BWTS fitted |
+| Supramax | Earth Ocean | 50.409 | 2013 | Oshima, Japan | 10/2023 | MAN-B&W | 4x30T | $ 19,4m | Greek | 2 years BBHP, OHBS, BWTS fitted, SS/DD passed |
 | Handysize | Ping Jing | 34.398 | 2015 | Namura & Sasebo, Japan | 05/2025 | MAN-B&W | 4x30T | $ 17,5m | European | BWTS fitted |
+| Handysize | Yangtze Pioneer | 32.613 | 2011 | Jiangmen, China | 01/2026 | MAN-B&W | 4x30T | Low $ 10m | Greek | Delivered, BWTS fitted, DD 01/2024 |
 | Handysize | Cetus | 32.449 | 2010 | Zhejiang, China | 07/2025 | MAN-B&W | 4x30T | $ 9,4m | Undisclosed | BWTS fitted, Ice Class II |
 
 ## Page 4

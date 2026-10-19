@@ -84,8 +84,10 @@ A number of trips from Japan into Thailand with steels were fixed around usd 40,
 | Ultramax | Lowlands Beacon | 61.400 | 2011 | Iwagi, Japan | 04/2022 | MAN- B&W | 4x30,7T | $ 21m | Vietnamese |  |
 | Ultramax | Santa Barbara | 61.381 | 2013 | Iwagi, Japan | 01/2023 | MAN- B&W | 4x30,7T | $ 24,5m | Vietnamese |  |
 | Supramax | Aditya | 55.496 | 2008 | Oshima, Japan | 02/2023 | MAN- B&W | 4x30T | $ 16,5m | Undisclosed | Dely Sep-Oct'21 |
+| Handysize | Ocean Mercury | 37.196 | 2012 | Hyundai Mipo, Korea | 03/2025 | MAN- B&W | 4x30T | Mid $ 13m | Undisclosed | Incl. T/C attached until May'22 at 9.000 usd/pd |
 | Handysize | Maratha Promise | 37.187 | 2012 | Saiki, Japan | 03/2022 | Mitsubishi | 4x30T | $ 16,5m | Undisclosed |  |
 | Handysize | Sheng Jia He 2 | 34.365 | 2013 | Huajie, China |  | MAN- B&W | - | $ 11,15m | Chinese | Auction sale |
+| Handysize | Sakura Kobe | 33.735 | 2011 | Shin Kochi, Japan | 11/2024 | Mitsubishi | 4x30T | $ 16,2m | HK based (Taylor Maritime) | OHBS, BWTS fitted |
 | Handysize | Albatross | 25.028 | 2011 | Yamanishi, Japan | 01/2026 | MAN- B&W | 3x30T | Very high $ 11m | Undisclosed | OHBS, BWTS fitted |
 | Small | Sexta | 18.367 | 2000 | Inp, Korea |  | B&W | 3x30T 1x24T | $ 3,9m | Greek | Auction sale |
 

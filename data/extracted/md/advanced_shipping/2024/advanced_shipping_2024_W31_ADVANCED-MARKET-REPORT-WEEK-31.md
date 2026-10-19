@@ -79,8 +79,10 @@ A generally quiet week for this segment. Continental trips into West Africa via 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Newcastlemax | Fomento Two | 206.960 | 2017 | Daehan, Korea | 09/2027 | MAN-B&W | - | $ 60m | Korean (Pan Ocean) | BWTS fitted, Scrubber fitted, T/C attached at 130% of index till Q3 2025. |
 | Capesize | Sea Triumph | 181.415 | 2012 | Koyo, Japan | 02/2027 | MAN-B&W | - | Region $ 36m | Chinese | BWTS fitted, DD 01/2025 |
 | Capesize | Herun Global | 181.056 | 2016 | SWS, China | 08/2026 | MAN-B&W | - | $ 49,5m | Greek (Alpha Bulkers) | BWTS fitted, DD 12/2024 |
+| Capesize | Great Navigator | 176.303 | 2006 | Universal, Japan | 06/2026 | MAN-B&W | - | High $ 18m | Chinese | Old sale, BWTS fitted, DD 10/2024 |
 | Ultramax | Jal Kamal | 63.319 | 2020 | Imabari, Japan | 02/2025 | MAN-B&W | 4x30,7T | $ 37,75m | European | BWTS fitted |
 | Supramax | Marinor | 56.784 | 2009 | Jiangsu, China | 10/2024 | MAN-B&W | 4x35T | $ 13m | Greek |  |
 | Handysize | Cielo Di Tampa | 39.202 | 2016 | Yangfan, China | 04/2026 | MAN-B&W | 4x36T | Region $ 23m | Undisclosed | OHBS, BWTS fitted |
@@ -99,8 +101,8 @@ A generally quiet week for this segment. Continental trips into West Africa via 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | Keegan No. 1 | 55.075 | 2020 | Jiangnan, China | 10/2025 | MAN-B&W | 82.396 | $ 92,5m | US based (JP | Scrubber fitted |
-| LPG | Keegan No. 2 | 55.065 | 2020 | Jiangnan, China | 12/2025 | MAN-B&W | 82.373 | $ 92,5m | Morgan) | Scrubber fitted |
+| LPG | Keegan No. 1 | 55.075 | 2020 | Jiangnan, China | 10/2025 | MAN-B&W | 82.396 | $ 92,5m | US based (JP Morgan) | Scrubber fitted |
+| LPG | Keegan No. 2 | 55.065 | 2020 | Jiangnan, China | 12/2025 | MAN-B&W | 82.373 | $ 92,5m | US based (JP Morgan) | Scrubber fitted |
 | LPG | Victoria Lyra | 58.677 | 2008 | Hyundai, Korea | 04/2028 | MAN-B&W | 80.623 | $ 60m | Undisclosed |  |
 | LPG | Sc Commander Lvii | 49.723 | 1999 | Mitsubishi, Japan | 12/2027 | Mitsubishi | 76.929 | $ 43m | Undisclosed | BWTS fitted |
 

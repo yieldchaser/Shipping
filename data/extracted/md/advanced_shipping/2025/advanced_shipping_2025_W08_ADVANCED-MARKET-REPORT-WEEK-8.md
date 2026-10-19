@@ -82,6 +82,7 @@ Trips from Japan into West Coast South America were fixed around usd 13,000/14,0
 | Newcastlemax | HL Frontier | 207.945 | 2010 | Universal, Japan | 05/2025 | MAN-B&W | - | $ 32,5m | Undisclosed |  |
 | Post Panamax | Cora Oldendorff | 93.005 | 2012 | Taizhou, China | 04/2025 | MAN-B&W | - | $ 13,8m | Chinese | Scrubber fitted |
 | Post Panamax | Petalon | 87.328 | 2010 | Hudong- Zhonghua, China | 04/2025 | MAN-B&W | - | $ 10,9m | Undisclosed |  |
+| Ultramax | Isabelle M | 63.695 | 2024 | Imabari, Japan | 02/2029 | MAN-B&W | 4x30,5T | $ 41m | Norwegian (Belships) | Delivered, p.option declared |
 | Supramax | Bittern | 57.809 | 2009 | Yangzhou, China | 10/2029 | MAN-B&W | 4x35T | $ 11,5m | Undisclosed | Scrubber fitted |
 | Supramax | Pacific Infinity | 56.104 | 2012 | Oshima, Japan | 04/2027 | MAN-B&W | 4x30T | $ 16,85m | Undisclosed | OHBS, DD 06/2025 |
 | Supramax | Spar Lynx | 53.162 | 2005 | Chengxi, China | 03/2025 | MAN-B&W | 4x36T | Region $ 8m | Chinese |  |
@@ -114,6 +115,7 @@ Trips from Japan into West Coast South America were fixed around usd 13,000/14,0
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | Ibri LNG | 77.282 | 2006 | Mitsubishi, Japan | 07/2026 | Kawasaki | 144.618 | $ 28m | Chinese |  |
+| LNG | Golar Arctic | 74.894 | 2003 | Daewoo, Korea | 12/2028 | Kawasaki | 137.814 | $ 24m | Indonesian (Soechi Lines) |  |
 
 ## Page 5
 

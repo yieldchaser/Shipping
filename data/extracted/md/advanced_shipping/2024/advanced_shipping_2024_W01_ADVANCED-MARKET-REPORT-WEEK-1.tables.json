@@ -145,13 +145,13 @@
       "YARD": "DACKS, China",
       "M_E": "MAN-B&W",
       "GEAR": "4x30T",
-      "PRICE": "$ 52m",
+      "PRICE": "$ 52m enbloc",
       "PRICE_USD_MILL": 52.0,
       "BUYERS": "Chinese",
       "SS": "03/2026",
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2024_W01_ADVANCED-MARKET-REPORT-WEEK-1.pdf",
-      "extra_json": "{\"issue_date\": \"2024-01-05\", \"report_week\": \"1\", \"source_file\": \"advanced_shipping_2024_W01_ADVANCED-MARKET-REPORT-WEEK-1.pdf\", \"raw_price\": \"$ 52m\"}"
+      "extra_json": "{\"issue_date\": \"2024-01-05\", \"report_week\": \"1\", \"source_file\": \"advanced_shipping_2024_W01_ADVANCED-MARKET-REPORT-WEEK-1.pdf\", \"raw_price\": \"$ 52m enbloc\"}"
     },
     {
       "issue": "2024-01-05",
@@ -167,13 +167,13 @@
       "YARD": "DACKS, China",
       "M_E": "MAN-B&W",
       "GEAR": "4x30T",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 52m enbloc",
+      "PRICE_USD_MILL": 52.0,
       "BUYERS": "Chinese",
       "SS": "03/2026",
       "COMMENTS": "BWTS fitted, DD 03/2024",
       "source_file": "advanced_shipping_2024_W01_ADVANCED-MARKET-REPORT-WEEK-1.pdf",
-      "extra_json": "{\"issue_date\": \"2024-01-05\", \"report_week\": \"1\", \"source_file\": \"advanced_shipping_2024_W01_ADVANCED-MARKET-REPORT-WEEK-1.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2024-01-05\", \"report_week\": \"1\", \"source_file\": \"advanced_shipping_2024_W01_ADVANCED-MARKET-REPORT-WEEK-1.pdf\", \"raw_price\": \"$ 52m enbloc\"}"
     },
     {
       "issue": "2024-01-05",
@@ -257,7 +257,7 @@
       "GEAR": "",
       "PRICE": "$ 65m enbloc",
       "PRICE_USD_MILL": 65.0,
-      "BUYERS": "Turkish (Advantage",
+      "BUYERS": "Turkish (Advantage Tankers)",
       "SS": "11/2025",
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2024_W01_ADVANCED-MARKET-REPORT-WEEK-1.pdf",
@@ -279,7 +279,7 @@
       "GEAR": "",
       "PRICE": "$ 65m enbloc",
       "PRICE_USD_MILL": 65.0,
-      "BUYERS": "Tankers)",
+      "BUYERS": "Turkish (Advantage Tankers)",
       "SS": "08/2025",
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2024_W01_ADVANCED-MARKET-REPORT-WEEK-1.pdf",

@@ -106,11 +106,11 @@ Trips from South China via North China into West Coast India-Persian Gulf were f
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | Dubai Bridge | 8.002 | 2024 | HD Hyundai, Korea |  | MAN-B&W | - | Excess $ 100m | Swiss based | Scrubber fitted |
-| Post Panamax | London Bridge | 8.002 | 2024 | HD Hyundai, Korea |  | MAN-B&W | - | Excess $ 100m | (MSC) | Scrubber fitted |
+| Post Panamax | Dubai Bridge | 8.002 | 2024 | HD Hyundai, Korea |  | MAN-B&W | - | Excess $ 100m | Swiss based (MSC) | Scrubber fitted |
+| Post Panamax | London Bridge | 8.002 | 2024 | HD Hyundai, Korea |  | MAN-B&W | - | Excess $ 100m | Swiss based (MSC) | Scrubber fitted |
 | Panamax | Jackson Bay | 4.250 | 2007 | Dalian, China | 04/2027 | MAN-B&W | - | $ 23m | French |  |
-| Sub Panamax | Cardonia | 2.824 | 2003 | Hyundai Mipo, Korea |  | B&W | - | $ 42,5m | Undisclosed | Ice Class II |
-| Sub Panamax | Cimbria | 2.824 | 2002 | Hyundai Mipo, Korea | 10/2027 | B&W | - | enbloc | Undisclosed | Ice Class II |
+| Sub Panamax | Cardonia | 2.824 | 2003 | Hyundai Mipo, Korea |  | B&W | - | $ 42,5m enbloc | Undisclosed | Ice Class II |
+| Sub Panamax | Cimbria | 2.824 | 2002 | Hyundai Mipo, Korea | 10/2027 | B&W | - | $ 42,5m enbloc | Undisclosed | Ice Class II |
 | Feeder | A Kobe | 1.800 | 2023 | Jiangsu, China | 03/2028 | MAN-B&W | - | $ 28m | Undisclosed | Incl. T/C till May'24 |
 
 ### Gas

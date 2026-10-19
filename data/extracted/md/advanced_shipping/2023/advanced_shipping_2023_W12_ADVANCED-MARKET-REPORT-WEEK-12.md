@@ -85,8 +85,10 @@ A generally quiet week for this segment. A number of trips from Black Sea into M
 | Capesize | Golden Feng | 169.232 | 2009 | Daehan, Korea | 03/2024 | MAN- B&W | - | Region $ 23m | Undisclosed | Scrubber fitted |
 | Kamsarmax | Blumenau | 81.652 | 2012 | Taizhou, China | 06/2027 | Wartsila | - | $ 19,9m | Greek | BWTS fitted |
 | Panamax | Magic Moon | 76.602 | 2005 | Imabari, Japan | 08/2025 | MAN- B&W | - | $ 14m | Korean | BWTS fitted |
+| Supramax | Iris Express | 58.785 | 2007 | Tsuneishi Cebu, Philippines | 03/2027 | MAN- B&W | 4x30T | $ 14,4m | Chinese | BWTS fitted |
 | Supramax | Eastern Begonia | 58.018 | 2010 | Yangzhou, China | 07/2025 | MAN- B&W | 4x36T | $ 14,8m | Greek | BWTS fitted |
 | Supramax | GF Orient | 57.295 | 2011 | Stx Dalian, China | 01/2026 | MAN- B&W | 4x30T | $ 13,5m | Chinese | BWTS fitted |
+| Supramax | Serene Jessica | 57.275 | 2011 | Stx Dalian, China | 03/2026 | MAN- B&W | 4x30T | $ 14,9m | Greek (5 Ocean Shipping) | BWTS fitted |
 | Supramax | AIS Sun | 57.000 | 2010 | Yangzhou, China | 08/2026 | Wartsila | 4x36T | $ 11,2m | Undisclosed | BWTS fitted, has grounding |
 | Supramax | Eastern Azalea | 56.771 | 2012 | Jiangsu, China | 11/2027 | MAN- B&W | 4x30T | $ 15m | Chinese | BWTS fitted |
 | Supramax | Eastern Laelia | 56.677 | 2011 | Jiangsu, China | 07/2025 | MAN- B&W | 4x36T | $ 14,5m | Chinese | BWTS fitted |

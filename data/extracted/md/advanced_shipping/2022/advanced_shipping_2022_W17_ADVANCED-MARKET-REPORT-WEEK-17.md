@@ -80,6 +80,7 @@ A large handysize was fixed basis delivery Nordic via Continent into US Gulf wit
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Aquamaka | 179.362 | 2009 | Hyundai, Korea | 09/2024 | MAN- B&W | - | $ 26m | Greek (Alpha Bulkers) | Old sale |
+| Capesize | Aquascope | 174.008 | 2006 | SWS, China | 11/2026 | MAN- B&W | - | $ 19,7m | Greek (Chartworld Shipping) | BWTS fitted |
 | Capesize | C H S Harvest | 173.624 | 2006 | Bohai, China | 04/2026 | Wartsila | - | $ 17,5m | Undisclosed | BWTS fitted |
 | Mini Cape | Spring Pride | 106.552 | 2007 | Oshima, Japan | 06/2022 | MAN- B&W | - | $ 17,5m | Chinese |  |
 | Post Panamax | Jin Jia | 93.077 | 2012 | Jiangsu, China | 05/2022 | MAN- B&W | - | $ 17,72m | Undisclosed | Auction sale |
@@ -87,10 +88,13 @@ A large handysize was fixed basis delivery Nordic via Continent into US Gulf wit
 | Panamax | Coral Topaz | 76.598 | 2007 | Sasebo, Japan | 05/2025 | MAN- B&W | - | $ 18,5m | Korean (SW Shipping) | BWTS fitted |
 | Panamax | Bulk Pangaea | 73.700 | 1999 | Sumitomo, Japan | 04/2024 | Sulzer | - | $ 8,8m | Undisclosed | DD 07/2022 |
 | Ultramax | Tomini Integrity | 60.220 | 2016 | Onomichi, Japan | 07/2026 | MAN- B&W | 4x30T | $ 33m | Hong Kong |  |
+| Supramax | Desert Peace | 57.414 | 2011 | Hyundai Mipo, Korea | 06/2026 | MAN- B&W | 4x30T | $ 45m enbloc | Turkish |  |
+| Supramax | Desert Hope | 57.411 | 2011 | Hyundai Mipo, Korea | 05/2026 | MAN- B&W | 4x30T | $ 45m enbloc | Turkish |  |
 | Supramax | Thunder | 57.334 | 2009 | Stx, Korea | 09/2024 | MAN- B&W | 4x30T | $ 18,4m | Chinese | DD 09/2022 |
 | Supramax | Jin Bo | 56.709 | 2012 | Qingshan, China | 06/2022 | MAN- B&W | 4x30T | $ 16,16m | Undisclosed | Auction sale |
 | Supramax | Asian Champion | 56.562 | 2012 | Cosco, China | 07/2022 | MAN- B&W | 4x30T | $ 19,25m | Undisclosed |  |
 | Supramax | Bulk Orion | 56.155 | 2011 | Mitsui, Japan | 06/2026 | MAN- B&W | 4x30T | $ 22m | Undisclosed |  |
+| Supramax | Elim Peace | 51.187 | 2003 | New Century, China | 01/2023 | MAN- B&W | 4x30T | $ 12,5m | Chinese |  |
 | Handysize | Dolce Vita | 38.690 | 2015 | Chengxi, China | 07/2025 | Wartsila | 4x30T | Region $ 25m | German |  |
 
 ## Page 4
@@ -107,6 +111,7 @@ A large handysize was fixed basis delivery Nordic via Continent into US Gulf wit
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LR2 | Wafrah | 113.849 | 2007 | Daewoo, Korea | 10/2022 | MAN- B&W | $ 17,5m | Greek | DPP, non-coiled, BWTS on board |
 | MR | St. Katharinen | 50.259 | 2013 | Spp, Korea | 10/2023 | MAN- B&W | $ 22,9m | Indonesian (Pertamina) | DPP, BWTS fitted |
 | MR | Matuku | 50.143 | 2016 | Spp, Korea | 03/2026 | MAN- B&W | $ 31m | Undisclosed | BWTS fitted |
 | MR | Ardmore Seahawk | 49.949 | 2015 | Spp, Korea | 11/2025 | MAN- B&W | $ 24,5m | Far Eastern |  |

@@ -101,6 +101,7 @@ A number of Arabian Gulf coastal trips were reported at the level of usd 3,000/4
 | Aframax | Sofia II | 105.400 | 2008 | Sumitomo, Japan | 09/2028 | MAN-B&W | Region $ 31m | Chinese |  |
 | MR | PS Augusta | 51.063 | 2011 | Stx, Korea | 03/2026 | MAN-B&W | $ 25,5m | Middle Eastern |  |
 | MR | Horizon Athena | 50.242 | 2008 | Spp, Korea | 12/2028 | MAN-B&W | $ 20m | Undisclosed |  |
+| Chemical/Oil Products | Bow Oceanic | 17.460 | 1997 | Kvaerner, Norway | 07/2027 | MaK | $ 6,5m | Chinese | St St, Ice Class 1C, DD 07/2025 |
 
 ## Page 4
 

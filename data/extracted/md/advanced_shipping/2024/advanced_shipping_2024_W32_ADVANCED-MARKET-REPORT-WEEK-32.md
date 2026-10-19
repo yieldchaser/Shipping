@@ -84,7 +84,9 @@ A number of trips from China into Continent were fixed around usd 15,000/17,000 
 | Kamsarmax | Theresa Jilin | 81.610 | 2012 | Sainty, China | 06/2027 | MAN-B&W | - | $ 19,2m |  | BWTS fitted |
 | Ultramax | Century Zhengzhou | 63.550 | 2024 | Nantong, China |  | MAN-B&W | 4x30T | $ 38,3m | Norwegian (Spar Shipping) | Resale |
 | Ultramax | Dolce Vita | 61.616 | 2012 | Oshima, Japan | 09/2027 | MAN-B&W | 4x30T | $ 23,5m | Chinese | BWTS fitted |
+| Supramax | Suzaku | 54.881 | 2006 | Oshima, Japan | 07/2026 | MAN-B&W | 4x30T | Mid $ 14m | Undisclosed | OHBS, BWTS fitted, Ice Class 1C |
 | Supramax | Monica D | 52.478 | 2001 | Shin Kurushima, Japan | 12/2026 | Mitsubishi | 4x30,5T | $ 7,8m | Undisclosed | DD 12/2024 |
+| Handysize | Ken Ryu | 31.949 | 2002 | Saiki, Japan | 06/2027 | Mitsubishi | 4x30T | $ 6,8m | Chinese | OHBS, BWTS fitted, DD 01/2025 |
 
 ### Tankers
 

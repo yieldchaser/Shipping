@@ -79,10 +79,13 @@ A number of Japanese trips into Australia with slag were reported at the level o
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ultramax | Hanton Trader I | 63.518 | 2014 | Jiangsu, China | 06/2024 | MAN- B&W | 4x30T | $ 25,4m | Chinese | BWTS fitted, Dely Sep-Nov'22 |
-| Ultramax | Western Santos | 63.518 | 2014 | Jiangsu, China | 04/2024 | MAN- B&W | 4x30T | $ 25,4m | (Jinhui) | BWTS fitted, Dely Sep-Dec'22 |
+| Capesize | XYG Fortune | 176.955 | 2006 | Namura & Sasebo, Japan | 07/2026 | MAN- B&W | - | $ 20,8m | Taiwan based (Franbo Lines) | BWTS fitted, Incl. T/C till max Mar'23, Delivered |
+| Panamax | Navios Camelia | 75.162 | 2009 | Hudong- Zhonghua, China | 04/2024 | MAN- B&W | - | $ 15m | Undisclosed | Dely Q4 2022 |
+| Ultramax | Hanton Trader I | 63.518 | 2014 | Jiangsu, China | 06/2024 | MAN- B&W | 4x30T | $ 25,4m | Chinese (Jinhui) | BWTS fitted, Dely Sep-Nov'22 |
+| Ultramax | Western Santos | 63.518 | 2014 | Jiangsu, China | 04/2024 | MAN- B&W | 4x30T | $ 25,4m | Chinese (Jinhui) | BWTS fitted, Dely Sep-Dec'22 |
 | Handymax | Marvel | 48.893 | 2001 | IHI, Japan | 02/2026 | Sulzer | 4x30T | $ 10,5m | Undisclosed | BWTS fitted |
 | Handymax | Amber L | 47.282 | 2000 | Oshima, Japan | 01/2025 | MAN- B&W | 4x25T | $ 9,5m | Undisclosed | BWTS fitted |
+| Handysize | Aquarius 77 | 35.737 | 2016 | Tsuneishi Cebu, Philippines | 02/2026 | MAN- B&W | 4x30T | $ 21m | Undisclosed | BWTS fitted |
 
 ### Tankers
 
@@ -91,9 +94,10 @@ A number of Japanese trips into Australia with slag were reported at the level o
 | VLCC | Tema | 311.620 | 2005 | Kawasaki, Japan | 09/2022 | MAN- B&W | $ 34m | Undisclosed | BWTS fitted |
 | Suezmax | Lila Guangzhou | 159.149 | 2004 | Bohai, China | 05/2024 | MAN- B&W | $ 23m | Undisclosed | BWTS fitted, DD 12/2022 |
 | Aframax | Piper | 114.809 | 2005 | Samsung, Korea | 02/2025 | B&W | Mid-High $ 27m | Middle Eastern | BWTS fitted, Scrubber fitted |
+| Aframax | Alba | 113.782 | 2005 | Samsung, Korea | 10/2024 | B&W | Region $ 31m | Middle Eastern | BWTS fitted, Scrubber fitted, Ice Class 1A, DD 11/2022 |
 | Aframax | STI Rambla | 109.999 | 2017 | Sungdong, Korea | 03/2027 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | Declaration of p. options |
-| Aframax | STI Rose | 109.999 | 2015 | Daehan, Korea | 01/2025 | MAN- B&W | Undisclosed | Monaco based (Scorpio | Declaration of |
-| MR | STI Brooklyn | 49.990 | 2015 | Spp, Korea | 07/2025 | MAN- B&W | Undisclosed | (Scorpio Tankers) | p. options |
+| Aframax | STI Rose | 109.999 | 2015 | Daehan, Korea | 01/2025 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | Declaration of p. options |
+| MR | STI Brooklyn | 49.990 | 2015 | Spp, Korea | 07/2025 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | Declaration of p. options |
 | MR | STI Ville | 49.990 | 2013 | Hyundai Mipo, Korea | 09/2023 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | Declaration of p. options |
 | LR1 | Energy Challenger | 70.681 | 2005 | Stx, Korea | 07/2025 | B&W | $ 16m | Undisclosed | DPP, Delivered |
 
@@ -104,12 +108,13 @@ A number of Japanese trips into Australia with slag were reported at the level o
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR | STI Meraux | 49.990 | 2014 | Spp, Korea | 04/2024 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | Declaration of p. options |
-| MR | STI Texas City | 49.990 | 2014 | Spp, Korea | 03/2024 | MAN- B&W | Undisclosed | Monaco based (Scorpio | Declaration of |
-| MR | STI Battersea | 38.734 | 2014 | Hyundai Mipo, Korea | 10/2024 | MAN- B&W | Undisclosed | (Scorpio Tankers) | p. options |
+| MR | STI Texas City | 49.990 | 2014 | Spp, Korea | 03/2024 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | Declaration of p. options |
+| MR | STI Battersea | 38.734 | 2014 | Hyundai Mipo, Korea | 10/2024 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | Declaration of p. options |
 | MR | STI Wembley | 38.734 | 2014 | Hyundai Mipo, Korea | 10/2024 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | Declaration of p. options |
+| MR | Astrea | 40.158 | 2006 | Shina, Korea | 01/2026 | MAN- B&W | $ 15,5m | Undisclosed | BWTS fitted, Ice Class 1B, DPP |
 | Chemical/Oil Products | SG Bahari | 9.600 | 2009 | Dongfang, China | 01/2024 | MaK | $ 4,5m | Turkish |  |
-| Chemical/Oil Products | Gazela | 6.480 | 2010 | Desan, Turkey | 03/2025 | MAN | $ 14m | Undisclosed | Ice Class 1C |
-| Chemical/Oil Products | Gunga | 6.480 | 2009 | Desan, Turkey | 05/2024 | MaK | enbloc | Undisclosed | Ice Class 1C |
+| Chemical/Oil Products | Gazela | 6.480 | 2010 | Desan, Turkey | 03/2025 | MAN | $ 14m enbloc | Undisclosed | Ice Class 1C |
+| Chemical/Oil Products | Gunga | 6.480 | 2009 | Desan, Turkey | 05/2024 | MaK | $ 14m enbloc | Undisclosed | Ice Class 1C |
 
 ### Containers
 

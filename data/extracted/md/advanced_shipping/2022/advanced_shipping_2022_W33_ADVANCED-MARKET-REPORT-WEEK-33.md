@@ -79,6 +79,10 @@ A number of Continental trips into Mediterranean with scrap were reported at the
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | New Orleans | 180.960 | 2015 | SWS, China | 11/2025 | MAN- B&W | - | $ 33,2m | Japanese | BBB for 8years with p.options at the end of the 3rd year, Dely Q3 2022 |
+| Capesize | Santa Barbara | 179.492 | 2015 | Qingdao, China | 01/2025 | MAN- B&W | - | $ 33,2m | Japanese | BBB for 8years with p.options at the end of the 3rd year, Dely Q3 2022 |
+| Supramax | Nathan Brandon | 56.489 | 2013 | Huatai, China | 08/2023 | MAN- B&W | 4x36T | Excess $ 18m | Turkish (Densay Shipping) | Old sale, BWTS fitted |
+| Supramax | Zhong Liang Dong Nan | 52.551 | 2001 | Shin Kurushima, Japan | 02/2023 | Mitsubishi | 4x30,5T | High $ 11m | Chinese | Auction sale, Incl. 13% VAT invoice of ship value |
 | Handysize | Dem Five | 31.842 | 2002 | Hakodate, Japan | 12/2022 | Mitsubishi | 4x30T | $ 11m | Middle Eastern |  |
 | Handysize | Biscayne Light | 24.341 | 1997 | Saiki, Japan | 11/2026 | Mitsubishi | 4x30T | Region $ 7m | Turkish | OHBS, BWTS fitted |
 
@@ -87,14 +91,14 @@ A number of Continental trips into Mediterranean with scrap were reported at the
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Suezmax | Atina | 159.500 | 2015 | Bohai, China | 01/2025 | MAN- B&W | $ 222,5m enbloc | Norwegian (SFL Corp) | BWTS fitted, Scrubber fitted, Incl. 6years T/C |
-| Suezmax | Istanbul | 159.500 | 2015 | Bohai, China | 03/2025 | MAN- B&W | $ 222,5m | Norwegian | BWTS fitted, Scrubber fitted |
-| Suezmax | Ayse C | 158.060 | 2020 | Hyundai, Korea | 08/2025 | MAN- B&W | enbloc | (SFL Corp) | Scrubber fitted, Incl. 6years T/C |
+| Suezmax | Istanbul | 159.500 | 2015 | Bohai, China | 03/2025 | MAN- B&W | $ 222,5m enbloc | Norwegian (SFL Corp) | BWTS fitted, Scrubber fitted, Incl. 6years T/C |
+| Suezmax | Ayse C | 158.060 | 2020 | Hyundai, Korea | 08/2025 | MAN- B&W | $ 222,5m enbloc | Norwegian (SFL Corp) | BWTS fitted, Scrubber fitted, Incl. 6years T/C |
 | Suezmax | Zeynep | 158.060 | 2020 | Hyundai, Korea | 08/2025 | MAN- B&W | $ 222,5m enbloc | Norwegian (SFL Corp) | BWTS fitted, Scrubber fitted, Incl. 6years T/C |
 | Suezmax | Ridgebury Mary Selena | 146.427 | 2006 | Universal, Japan | 09/2026 | MAN- B&W | $ 31m | Greek | Scrubber fitted, Ice Class 1A |
 | MR | Elandra Fjord | 51.408 | 2011 | Hyundai Mipo, Korea | 06/2025 | MAN- B&W | $ 25m | Undisclosed | BWTS fitted, Ice Class 1B |
 | MR | Elandra Baltic | 51.406 | 2011 | Hyundai Mipo, Korea | 11/2025 | MAN- B&W | $ 25m | Undisclosed | BWTS fitted, Ice Class 1B |
-| MR | Dee4 Dogwood | 47.399 | 2008 | Onomichi, Japan | 12/2023 | MAN- B&W | $ 44m | Undisclosed | BWTS fitted |
-| MR | Dee4 Cedar | 45.994 | 2010 | Shin Kurushima, Japan | 08/2025 | MAN- B&W | enbloc | Undisclosed | BWTS fitted |
+| MR | Dee4 Dogwood | 47.399 | 2008 | Onomichi, Japan | 12/2023 | MAN- B&W | $ 44m enbloc | Undisclosed | BWTS fitted |
+| MR | Dee4 Cedar | 45.994 | 2010 | Shin Kurushima, Japan | 08/2025 | MAN- B&W | $ 44m enbloc | Undisclosed | BWTS fitted |
 
 ## Page 4
 
@@ -103,6 +107,10 @@ A number of Continental trips into Mediterranean with scrap were reported at the
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | Northern Prelude | 4.616 | 2009 | Daewoo, Korea | 11/2024 | MAN-B&W | - | $ 65m | Swiss based (MSC) |  |
+| Sub Panamax | CSBC Kaohsiung 1188 | 2.940 | 2023 | CSBC, Taiwan |  | MAN-B&W | - | $ 53-55m each | Taiwanese (Wan Hai Lines) | Resales, Scrubber fitted |
+| Sub Panamax | CSBC Kaohsiung 1187 | 2.940 | 2023 | CSBC, Taiwan |  | MAN-B&W | - | $ 53-55m each | Taiwanese (Wan Hai Lines) | Resales, Scrubber fitted |
+| Sub Panamax | CSBC Kaohsiung 1186 | 2.940 | 2023 | CSBC, Taiwan |  | MAN-B&W | - | $ 53-55m each | Taiwanese (Wan Hai Lines) | Resales, Scrubber fitted |
+| Sub Panamax | CSBC Kaohsiung 1185 | 2.940 | 2023 | CSBC, Taiwan |  | MAN-B&W | - | $ 53-55m each | Taiwanese (Wan Hai Lines) | Resales, Scrubber fitted |
 | Feeder | Marine Taraba | 1.708 | 2008 | Imabari, Japan | 08/2026 | MAN-B&W | 3x40T | $ 28m | Undisclosed | BWTS fitted |
 | Feeder | Asiatic Reunion | 1.049 | 2008 | Dae Sun, Korea | 08/2023 | MAN-B&W | - | $ 18,5m | Far Eastern |  |
 

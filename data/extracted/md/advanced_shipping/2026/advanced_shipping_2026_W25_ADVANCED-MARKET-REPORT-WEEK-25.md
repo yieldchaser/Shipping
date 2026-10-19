@@ -81,6 +81,7 @@ Far East activity saw Japan trips to SE Asia at USD 16,000 pd, while NoPac busin
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Levante | 93.207 | 2012 | Jiangsu, China | 01/2027 | MAN-B&W | - | $ 15,6m | UAE |  |
 | Post Panamax | Ocean Artemis | 93.103 | 2011 | Jiangsu, China | 06/2026 | MAN-B&W | - | $ 15m | Undisclosed | Basis SS/DD passed |
+| Kamsarmax | Vulcania | 82.036 | 2015 | Jiangsu, China | 08/2030 | MAN-B&W | - | Low $ 26m | Greek | T/C attached at 105% BPI for 11- 14 months |
 | Kamsarmax | Mont Blanc Hawk | 81.638 | 2017 | Imabari, Japan | 07/2027 | MAN-B&W | - | $ 32,8m | Undisclosed | Dely Aug-Oct'26 |
 | Panamax | Proteas | 76.454 | 2005 | Tsuneishi, Japan | 05/2027 | MAN-B&W | - | $ 11,85m | Chinese |  |
 | Ultramax | Qidong Xiangyu XY197 | 63.800 | 2026 | Nantong, China |  | Everllence B&W | 4x30T | $ 37,5m | Undisclosed | Resale |
@@ -126,10 +127,12 @@ Far East activity saw Japan trips to SE Asia at USD 16,000 pd, while NoPac busin
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Ian H | 5.936 | 2000 | Aker, Germany | 12/2029 | Sulzer | - | $ 25m | Undisclosed | Dely Q4 2027 |
 | Post Panamax | HT Capricorn | 5.100 | 2010 | Shanghai, China | 06/2030 | MAN-B&W | - | $ 48m | Far Eastern | Ice Strengthened, Incl. T/C |
+| Post Panamax | Log-In Resiliente | 2.711 | 2006 | Gdynia Stocznia, Poland | 03/2031 | MAN-B&W | 3x45T | $ 23,5m | Swiss based (MSC) | Incl. BB charter back |
 | Post Panamax | Sheng Da Heng Qiang | 2.684 | 2024 | Taizhou, China | 12/2029 | MAN-B&W | - | $ 51m | Undisclosed | Ice Class II, Forward dely |
 | Sub Panamax | AS Alva | 2.015 | 2008 | Zhejiang, China | 04/2028 | MAN-B&W | 3x45T | $ 22,3m | Undisclosed | Ice Strengthened |
 | Feeder | Samskip Toubkal | 1.036 | 2012 | Sainty, China | 01/2027 | MAN | - | $ 14m | Spanish (Boluda Lines) | Ice Class 1A |
 | Feeder | Alexander | 957 | 2006 | Yangfan, China | 11/2026 | MAN | 2x45T | $ 11,5m | Undisclosed | Ice Class 1C |
+| Feeder | Steen | 905 | 2008 | Peters Schiffbau, Germany | 05/2028 | MaK | - | $ 10m | Undisclosed | Ice Class 1A, DD 11/2026 |
 
 ## Page 5
 

@@ -80,12 +80,13 @@ South East Asia trips into Japan were fixed at usd 17,000 pd. Meanwhile, North C
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Pigassos | 176.364 | 2011 | SWS, China | 07/2026 | MAN-B&W | - | $ 31,7m | Chinese |  |
+| Post Panamax | Yangze 902 | 93.225 | 2012 | Jiangsu, China | 01/2027 | MAN-B&W | - | $ 13m | Undisclosed | Sold to Charterers with T/C till end 2026 |
 | Kamsarmax | HC Pioneer | 83.476 | 2010 | Sanoyas, Japan | 11/2028 | MAN-B&W | - | High $ 17m | Undisclosed |  |
 | Kamsarmax | Avalon | 81.565 | 2011 | Sungdong, Korea | 07/2026 | MAN-B&W | - | High $ 17m | Chinese |  |
 | Panamax | Prabhu Yuvika | 76.310 | 2004 | Sumitomo, Japan | 07/2029 | MAN-B&W | - | $ 9,8m | Undisclosed |  |
 | Ultramax | Dominator | 63.652 | 2021 | Shin Kasado, Japan | 07/2026 | MAN-B&W | 4x30,5T | $ 38m | Greek |  |
-| Ultramax | Huayang Rose | 63.562 | 2016 | CSI, China | 06/2026 | MAN-B&W | 4x35T | $ 50,4m | Chinese |  |
-| Ultramax | Huayang Lily | 63.553 | 2016 | CSI, China | 06/2026 | MAN-B&W | 4x30T | enbloc | Chinese |  |
+| Ultramax | Huayang Rose | 63.562 | 2016 | CSI, China | 06/2026 | MAN-B&W | 4x35T | $ 50,4m enbloc | Chinese |  |
+| Ultramax | Huayang Lily | 63.553 | 2016 | CSI, China | 06/2026 | MAN-B&W | 4x30T | $ 50,4m enbloc | Chinese |  |
 | Ultramax | Jin Chao | 63.518 | 2014 | Jiangsu, China | 06/2029 | MAN-B&W | 4x30T | $ 25,1m | Undisclosed |  |
 | Supramax | Messinian Spire | 56.056 | 2008 | Mitsui, Japan | 05/2028 | MAN-B&W | 4x30,5T | $ 14,5m | Undisclosed | DD 05/2026 |
 | Supramax | Planet Team | 53.477 | 2009 | Zhejiang, China | 01/2029 | MAN-B&W | 4x35T | $ 10,5m | Undisclosed |  |
@@ -101,6 +102,8 @@ South East Asia trips into Japan were fixed at usd 17,000 pd. Meanwhile, North C
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | C. Innovator | 313.999 | 2012 | Dalian, China | 07/2027 | MAN-B&W | $ 60,3m | Undisclosed | Scrubber fitted, T/C till min Jul'26-max Jul'28 |
+| VLCC | C. Progress | 313.990 | 2012 | Hyundai, Korea | 11/2027 | Wartsila | $ 60,3m | Undisclosed | Scrubber fitted, T/C till min May'26-max May'27 |
 | Suezmax | Stella | 164.714 | 2011 | Hyundai Samho, Korea | 06/2026 | MAN-B&W | $ 67m | Undisclosed | Basis SS/DD passed |
 | Suezmax | Aegean Horizon | 158.738 | 2007 | Hyundai, Korea | 08/2027 | MAN-B&W | $ 50,1m | Undisclosed |  |
 | MR | Royal Jasmine | 53.148 | 2008 | Guangzhou, China | 07/2028 | Wartsila | xs $ 20m | Turkish | DD 06/2026 |

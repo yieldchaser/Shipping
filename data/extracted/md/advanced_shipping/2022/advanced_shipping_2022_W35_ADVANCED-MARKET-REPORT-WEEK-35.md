@@ -79,6 +79,7 @@ A number of trips from China into India with steels were fixed around usd 19,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Supramax | Clarke Quay | 55.618 | 2010 | Hyundai- Vinashin, Vietnam | 11/2025 | MAN- B&W | 4x30T | $ 17,1m | US based (Pangaea Logistics) | BWTS fitted, Dely Sep-Oct'22 |
 | Handysize | Singapore Spirit | 32.259 | 2002 | Saiki, Japan | 02/2027 | Mitsubishi | 4x30T | $ 11,3m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Kinatsi | 18.901 | 2007 | Yamanishi, Japan | 01/2027 | MAN- B&W | 4x30,5T | $ 10,3m | Syrian | Old sale |
 
@@ -89,14 +90,17 @@ A number of trips from China into India with steels were fixed around usd 19,000
 | VLCC | DHT Edelweiss | 301.021 | 2008 | Daewoo, Korea | 01/2023 | MAN- B&W | $ 37m | Undisclosed | Dely Q3 2022 |
 | VLCC | Tsurusaki | 300.838 | 2002 | IHI, Japan | 09/2022 | Sulzer | $ 33m | Undisclosed | Old sale |
 | VLCC | G. Dream | 299.580 | 2022 | Hyundai Samho, Korea | 07/2027 | MAN- B&W | $ 108m | Korean (HMM) | BWTS fitted, Scrubber fitted |
+| Suezmax | Ridgebury Captain Drogin | 166.468 | 2007 | Hyundai, Korea | 10/2022 | MAN- B&W | $ 28,75m | Greek | Ice Class 1A, Dely Oct'22 |
+| Aframax | Imperia | 114.849 | 2006 | Samsung, Korea |  | MAN- B&W | $ 31,5m | Undisclosed | Basis SS/DD passed & BWTS fitted, Ice Class 1A, Dely Sep-Oct'22 |
 | Aframax | Atlantic Pride | 114.500 | 2004 | Samsung, Korea | 05/2024 | B&W | $ 24m | Chinese | BWTS fitted, Ice Class 1C |
-| Aframax | Celsius Esbjerg | 113.043 | 2009 | New Times, China | 10/2024 | MAN- B&W | $ 64m | Undisclosed | BWTS fitted, DD 11/2022 |
-| Aframax | Celsius Everett | 113.010 | 2008 | New Times, China | 10/2023 | MAN- B&W | enbloc | Undisclosed | BWTS fitted |
+| Aframax | Celsius Esbjerg | 113.043 | 2009 | New Times, China | 10/2024 | MAN- B&W | $ 64m enbloc | Undisclosed | BWTS fitted, DD 11/2022 |
+| Aframax | Celsius Everett | 113.010 | 2008 | New Times, China | 10/2023 | MAN- B&W | $ 64m enbloc | Undisclosed | BWTS fitted |
 | Aframax | Lionheart | 109.672 | 2008 | Dalian, China | 05/2023 | Wartsila | Undisclosed | Undisclosed | Scrubber fitted |
 | Aframax | Maersk Penguin | 109.647 | 2007 | Dalian, China | 11/2022 | Wartsila | Undisclosed | Undisclosed |  |
 | Aframax | Zhen I | 105.588 | 2002 | Daewoo, Korea | 09/2022 | MAN- B&W | Mid-High $ 17m | Undisclosed |  |
-| MR | Alkaios | 50.137 | 2016 | Samsung Ningbo, China | 03/2026 | Wartsila | $ 36,5m | UK based (Tufton | BWTS fitted |
-| MR | Archon | 50.100 | 2016 | Samsung Ningbo, China | 09/2026 | WinGD | $ 36,5m | (Tufton Oceanic) | BWTS fitted |
+| MR | Gotland Carolina | 53.160 | 2006 | Guangzhou, China | 12/2026 | Wartsila | $ 18,5m | Norwegian | BWTS fitted, Ice Class 1A Super |
+| MR | Alkaios | 50.137 | 2016 | Samsung Ningbo, China | 03/2026 | Wartsila | $ 36,5m | UK based (Tufton Oceanic) | BWTS fitted |
+| MR | Archon | 50.100 | 2016 | Samsung Ningbo, China | 09/2026 | WinGD | $ 36,5m | UK based (Tufton Oceanic) | BWTS fitted |
 
 ## Page 4
 
@@ -104,10 +108,10 @@ A number of trips from China into India with steels were fixed around usd 19,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR | Glenda Meryl | 47.251 | 2011 | Hyundai Mipo, Korea | 11/2025 | MAN- B&W | $ 109,6m enbloc | Italian (d'Amico Tankers) | d'Amico is |
-| MR | Glenda Melody | 47.238 | 2011 | Hyundai Mipo, Korea | 10/2025 | MAN- B&W | $ 109,6m | Italian (d'Amico | d Amico is purchasing the 50% share of |
-| MR | Glenda Melissa | 47.203 | 2011 | Hyundai Mipo, Korea | 02/2026 | MAN- B&W | enbloc | (d Amico Tankers) | their JV partner based on the reported price |
-| MR | Glenda Melanie | 47.162 | 2010 | Hyundai Mipo, Korea | 11/2025 | MAN- B&W | $ 109,6m enbloc | Italian (d'Amico Tankers) | reported price |
+| MR | Glenda Meryl | 47.251 | 2011 | Hyundai Mipo, Korea | 11/2025 | MAN- B&W | $ 109,6m enbloc | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their JV partner based on the reported price |
+| MR | Glenda Melody | 47.238 | 2011 | Hyundai Mipo, Korea | 10/2025 | MAN- B&W | $ 109,6m enbloc | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their JV partner based on the reported price |
+| MR | Glenda Melissa | 47.203 | 2011 | Hyundai Mipo, Korea | 02/2026 | MAN- B&W | $ 109,6m enbloc | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their JV partner based on the reported price |
+| MR | Glenda Melanie | 47.162 | 2010 | Hyundai Mipo, Korea | 11/2025 | MAN- B&W | $ 109,6m enbloc | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their JV partner based on the reported price |
 | MR | Energy Patriot | 46.606 | 2008 | Sungdong, Korea | 09/2023 | MAN- B&W | High $ 19m | Undisclosed | Old sale |
 | Chemical/Oil Products | MTM Tokyo | 20.857 | 2003 | Kitanihon, Japan | 01/2023 | Mitsubishi | $ 10,5m | Undisclosed | St St, BWTS fitted |
 
@@ -115,6 +119,9 @@ A number of trips from China into India with steels were fixed around usd 19,000
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Panamax | Rio Cadiz | 4.300 | 2008 | Hyundai Samho, Korea | 01/2023 | MAN-B&W | - | Undisclosed | Swiss based (MSC) | BWTS fitted, Scrubber fitted |
+| Panamax | Rio Charleston | 4.300 | 2008 | Hyundai Samho, Korea | 01/2023 | MAN-B&W | - | Undisclosed | Swiss based (MSC) | BWTS fitted, Scrubber fitted |
+| Panamax | TRF Partici | 3.534 | 2010 | Shanghai, China | 06/2025 | MAN-B&W | - | Undisclosed | Undisclosed | BWTS fitted, Scrubber fitted, T/C attached |
 | Feeder | Pinara | 1.740 | 2004 | Guangzhou, China | 10/2024 | MAN-B&W | 2x45T | Low $ 20m | Turkish (Akar Deniz) | DD 11/2022 |
 
 ## Page 5

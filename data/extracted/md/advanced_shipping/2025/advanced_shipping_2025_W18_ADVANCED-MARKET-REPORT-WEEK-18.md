@@ -90,8 +90,8 @@ A number of Indonesian into India were fixed around usd 7,000/8,000 pd. West Afr
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | Landbridge Wisdom | 307.894 | 2020 | Dalian, China | 05/2025 | MAN-B&W | $ 205m enbloc | Omani | Scrubber fitted |
-| VLCC | Landbridge Glory | 307.852 | 2019 | Dalian, China | 04/2029 | MAN-B&W | $ 205m enbloc | (Asyad Shipping) | Scrubber fitted |
+| VLCC | Landbridge Wisdom | 307.894 | 2020 | Dalian, China | 05/2025 | MAN-B&W | $ 205m enbloc | Omani (Asyad Shipping) | Scrubber fitted |
+| VLCC | Landbridge Glory | 307.852 | 2019 | Dalian, China | 04/2029 | MAN-B&W | $ 205m enbloc | Omani (Asyad Shipping) | Scrubber fitted |
 
 ## Page 4
 

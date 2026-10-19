@@ -85,6 +85,7 @@ No fixture reported for this segment. No period activity to report here.
 | Ultramax | Nord Yucatan | 63.500 | 2019 | Nantong, China | 10/2024 | MAN- B&W | 4x35T | $ 28,5m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Supramax | Pan Crocus | 57.269 | 2009 | Stx Dalian, China | 05/2024 | MAN- B&W | 4x30T | $ 14,7m | Undisclosed | BWTS fitted |
 | Supramax | Fanoula | 56.560 | 2008 | IHI, Japan | 04/2023 | Wartsila | 4x35T | $ 16m | Chinese | Delivered, BWTS fitted |
+| Supramax | Sea Etiquette | 51.658 | 2011 | Oshima, Japan | 11/2026 | MAN- B&W | 4x30T | $ 19m | Cyprus based (SMT Shipping) | Old sale, BWTS fitted |
 | Handysize | Waal Confidence | 33.387 | 2009 | Shin Kochi, Japan | 06/2024 | Mitsubishi | 4x30T | $ 15,2m | Undisclosed | OHBS, BWTS fitted |
 
 ### Tankers
@@ -107,8 +108,8 @@ No fixture reported for this segment. No period activity to report here.
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Chemical/Oil Products | Avalon | 24.035 | 2005 | 3 Maj, Croatia | 12/2025 | MaK | $ 9,4m | Greek |  |
-| Chemical/Oil Products | Bro Anna | 16.979 | 2008 | Gemak, Turkey | 02/2023 | MAN | $ 27m | Undisclosed | Ice Class 1A |
-| Chemical/Oil Products | Bro Agnes | 16.791 | 2008 | Turkter, Turkey | 03/2023 | MAN | enbloc | Undisclosed | Ice Class 1A |
+| Chemical/Oil Products | Bro Anna | 16.979 | 2008 | Gemak, Turkey | 02/2023 | MAN | $ 27m enbloc | Undisclosed | Ice Class 1A |
+| Chemical/Oil Products | Bro Agnes | 16.791 | 2008 | Turkter, Turkey | 03/2023 | MAN | $ 27m enbloc | Undisclosed | Ice Class 1A |
 | Chemical/Oil Products | Bernora | 13.148 | 2008 | 21st Century, Korea | 03/2023 | MAN- B&W | $ 7,8m | Norwegian | BWTS fitted |
 
 ### Gas

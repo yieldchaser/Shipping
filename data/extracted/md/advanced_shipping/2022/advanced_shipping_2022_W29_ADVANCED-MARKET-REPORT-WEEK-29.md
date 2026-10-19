@@ -79,18 +79,22 @@ A number of South East Asian trips into Mediterranean were reported at the level
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Post Panamax | Celine Oldendorff | 93.018 | 2010 | COSCO, China | 01/2025 | MAN- B&W | - | High $ 19m | Indian | BWTS fitted, Scrubber fitted, Dely Sep'22 |
 | Kamsarmax | Lila Tokyo | 79.387 | 2010 | Jiangsu, China | 01/2025 | MAN- B&W | - | Low-Mid $ 19m | Undisclosed | DD 12/2022 |
 | Panamax | Fortune Union | 73.729 | 1998 | Sumitomo, Japan | 11/2023 | Sulzer | - | $ 8,5m | Undisclosed | BWTS fitted |
 | Ultramax | Dayang Confidence | 63.127 | 2017 | Yangzhou, China | 05/2027 | MAN- B&W | 4x35T | $ 30m | Undisclosed | BWTS fitted |
 | Ultramax | Soho Mandate | 61.436 | 2016 | DACKS, China | 08/2026 | MAN- B&W | 4x30,5T | Region $ 31m | Chinese |  |
 | Supramax | Shun Xin | 56.933 | 2010 | COSCO, China | 01/2025 | MAN- B&W | 4x30T | High $ 16m | Undisclosed | BWTS fitted |
 | Supramax | Oreo | 55.430 | 2008 | Kawasaki, Japan | 05/2026 | MAN- B&W | 4x30,5T | $ 19,35m | Greek based | BWTS fitted |
+| Handysize | Jun De | 34.420 | 2011 | Spp, Korea | 07/2026 | MAN- B&W | 4x35T | $ 16,3m | Chinese | BWTS fitted, T/C attached at 23.000 usd/pd till Oct'22 |
 
 ### Tankers
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Eco Leader | 299.999 | 2016 | Daewoo, Korea | 06/2026 | MAN- B&W | $ 82m | UAE | BWTS fitted, Scrubber fitted |
+| Suezmax | Torill Knutsen | 123.166 | 2013 | Hyundai, Korea | 11/2023 | MAN- B&W | $ 112m | Japanese | Shuttle tanker, 10years BBB with p. obligation at the end |
+| Aframax | Nicholas | 115.577 | 2007 | Sasebo, Japan | 08/2022 | MAN- B&W | $ 26,8m | Chinese | Dely Aug'22 basis SS/DD passed & BWTS fitted |
 | Aframax | Songa Coral | 107.081 | 2005 | Koyo, Japan | 01/2025 | B&W | $ 25m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Aframax | Super Sapphire | 99.876 | 2009 | Hyundai, Korea | 01/2026 | MAN- B&W | $ 26m | Korean | BWTS fitted |
 | LR1 | BW Lara | 73.495 | 2004 | New Century, China | 08/2024 | MAN- B&W | Undisclosed | Greek (Chemnav) | Old sale, BWTS fitted |

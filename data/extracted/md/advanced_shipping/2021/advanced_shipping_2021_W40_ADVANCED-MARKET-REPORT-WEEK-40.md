@@ -79,8 +79,20 @@ A number of trips from Black Sea into China with soda ash were reported at the l
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | True Endurance | 179.147 | 2012 | Hyundai, Korea | 04/2022 | MAN- B&W | - | Region $ 32,5m | Turkish (Beks) |  |
+| Post Panamax | Shuang Xi | 93.237 | 2010 | Jiangsu, China | 09/2025 | MAN- B&W | - | Undisclosed | Undisclosed |  |
 | Kamsarmax | Xin Hua | 82.269 | 2012 | Dalian, China | 07/2022 | MAN- B&W | - | $ 22m | Undisclosed | Dely Dec'21- Jan'22 |
+| Kamsarmax | Vorana Manx | 82.000 | 2021 | Tsuneishi Zhoushan, China |  | MAN- B&W | - | Excess $ 40m | Undisclosed | Resale, BWTS fitted, Dely Dec'21 |
+| Panamax | Ocean Ginger | 75.735 | 2002 | Sanoyas, Japan | 05/2022 | B&W | - | $ 11,5m | Undisclosed | Incl. T/C at 10.500 usd /pd until May'22 |
+| Supramax | HTC Charlie | 56.451 | 2014 | Taizhou, China | 02/2024 | MAN- B&W | 4x36T | $ 20,45m | Middle Eastern | BWTS fitted, Basis DD passed in November |
 | Supramax | Medi Okinawa | 56.118 | 2011 | Mitsui, Japan | 10/2025 | MAN- B&W | 4x30T | Excess $ 22,5m | Bangladeshi (Meghna) | BWTS fitted |
+| Supramax | Tesoro | 53.350 | 2007 | Shanghai, China | 03/2022 | MAN- B&W | 4x36T | $ 15,75m | HK based (Jinhui Shipping) | Dely Oct-Dec'21 |
+| Handymax | Spring Sunshine | 46.947 | 2013 | Jiangsu, China | 02/2023 | MAN- B&W | 4x30T | $ 17,9m | Chinese | BWTS fitted |
+| Handysize | New Face | 38.342 | 2017 | Shin Kochi, Japan | 03/2022 | MAN- B&W | 4x30T | $ 26m | Greek | BWTS fitted |
+| Handysize | New Days | 38.230 | 2017 | Shin Kochi, Japan | 01/2022 | MAN- B&W | 4x30T | $ 26m | Greek | BWTS fitted |
+| Handysize | New Inspiration | 36.334 | 2013 | Shikoku, Japan | 05/2023 | MAN- B&W | 4x30,5T | $ 20,6m | UK based (Tufton Oceanic) |  |
+| Handysize | New History | 36.332 | 2013 | Shikoku, Japan | 02/2023 | MAN- B&W | 4x30T | $ 20,6m | UK based (Tufton Oceanic) |  |
+| Handysize | Yangtze Brilliance | 32.323 | 2011 | Jiangmen, China | 10/2021 | MAN- B&W | 4x30,5T | $ 15,5m | Chinese | September sale, Basis dely Nov- Dec'21 with SS/DD passed & BWTS fitted |
 | Handysize | New Life | 28.227 | 2013 | I-S, Japan | 04/2023 | MAN- B&W | 4x30,5T | Low-Mid $ 15m | Greek | Dely Feb- Mar'22 |
 
 ## Page 4
@@ -92,18 +104,20 @@ A number of trips from Black Sea into China with soda ash were reported at the l
 | VLCC | E Mei San | 317.952 | 2010 | SWS, China | 03/2025 | MAN- B&W | $ 36,75m | Undisclosed | Auction sale, BWTS fitted |
 | MR | Pioneros | 49.990 | 2013 | Hyundai, Korea | 01/2023 | MAN- B&W | Undisclosed | Undisclosed |  |
 | MR | Stena Conqueror | 47.323 | 2003 | Uljanik, Croatia | 10/2023 | B&W | $ 6,9m | Chinese | DD 10/2021 |
-| Chemical/Oil Products | Easterly Beech Galaxy | 19.998 | 2007 | Usuki, Japan | 01/2022 | MAN- B&W | $ 23m | USA based (MLEP) |  |
-| Chemical/Oil Products | Easterly Lime Galaxy | 19.992 | 2008 | Usuki, Japan | 12/2023 | MAN- B&W | enbloc | USA based (MLEP) |  |
+| Chemical/Oil Products | Easterly Beech Galaxy | 19.998 | 2007 | Usuki, Japan | 01/2022 | MAN- B&W | $ 23m enbloc | USA based (MLEP) |  |
+| Chemical/Oil Products | Easterly Lime Galaxy | 19.992 | 2008 | Usuki, Japan | 12/2023 | MAN- B&W | $ 23m enbloc | USA based (MLEP) |  |
 | Chemical/Oil Products | Crane Argo | 12.163 | 2010 | Niigata, Japan | 06/2025 | MAN- B&W | $ 7,2m | Chinese (EGPN) |  |
 
 ### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Post Panamax | RDO Concert | 6.966 | 2009 | Hyundai, Korea | 12/2024 | MAN-B&W | - | Excess $ 110m | Singapore based (OM Maritime) |  |
 | Panamax | Tongva | 4.363 | 2008 | Hyundai Mipo, Korea | 10/2023 | MAN-B&W | - | Undisclosed | Undisclosed |  |
 | Sub Panamax | Aldi Wave | 2.824 | 2008 | Hyundai Mipo, Korea | 12/2025 | MAN-B&W | - | $ 40m | Swiss (MSC) |  |
 | Sub Panamax | Atlantic Flosta | 2.474 | 2002 | Volkswerft, Germany | 02/2022 | B&W | 3x45T | Mid-High $ 20m | Swiss (MSC) |  |
 | Sub Panamax | Milan Trader | 2.460 | 2002 | Thyssen, Germany | 08/2022 | B&W | 3x45T | $ 33m | Undisclosed |  |
+| Feeder | Filia T | 1.774 | 2019 | Jiangsu, China | 01/2024 | Wartsila | - | $ 41m | Taiwanese (Wan Hai Lines) | Dely Feb'22 |
 | Feeder | Robert Rickmers | 1.730 | 2003 | Szczecinska, Poland | 06/2023 | Sulzer | 3x40T | $ 20m | Swiss (MSC) |  |
 | Feeder | AS Riccarda | 1.496 | 2012 | Zhejiang, China | 02/2022 | MAN | - | $ 24m | Swiss (MSC) |  |
 

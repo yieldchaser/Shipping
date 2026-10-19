@@ -277,13 +277,13 @@
       "YARD": "Shin Kurushima, Japan",
       "M_E": "MAN-B&W",
       "GEAR": "4x30,7T",
-      "PRICE": "$ 53m",
+      "PRICE": "$ 53m enbloc",
       "PRICE_USD_MILL": 53.0,
       "BUYERS": "Greek",
       "SS": "08/2029",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
-      "extra_json": "{\"issue_date\": \"2025-07-18\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 53m\"}"
+      "extra_json": "{\"issue_date\": \"2025-07-18\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 53m enbloc\"}"
     },
     {
       "issue": "2025-07-18",
@@ -299,13 +299,13 @@
       "YARD": "Shin Kurushima, Japan",
       "M_E": "MAN-B&W",
       "GEAR": "4x30,7T",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 53m enbloc",
+      "PRICE_USD_MILL": 53.0,
       "BUYERS": "Greek",
       "SS": "09/2029",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
-      "extra_json": "{\"issue_date\": \"2025-07-18\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2025-07-18\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 53m enbloc\"}"
     },
     {
       "issue": "2025-07-18",
@@ -350,6 +350,28 @@
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
       "extra_json": "{\"issue_date\": \"2025-07-18\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"Mid $ 15m\"}"
+    },
+    {
+      "issue": "2025-07-18",
+      "report_week": "29",
+      "section": "Bulk Carriers",
+      "page": "3",
+      "NAME": "Pauline",
+      "TYPE": "Supramax",
+      "DWT": "53,464",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "2007",
+      "YARD": "Iwagi, Japan",
+      "M_E": "MAN-B&W",
+      "GEAR": "4x30,5T",
+      "PRICE": "$ 11m",
+      "PRICE_USD_MILL": 11.0,
+      "BUYERS": "Chinese (Fujian Yongija Shipping)",
+      "SS": "05/2027",
+      "COMMENTS": "Delivered, DD 08/2025",
+      "source_file": "advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
+      "extra_json": "{\"issue_date\": \"2025-07-18\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 11m\"}"
     },
     {
       "issue": "2025-07-18",
@@ -541,13 +563,13 @@
       "YARD": "Hyundai, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "",
-      "PRICE": "Excess $ 40m",
+      "PRICE": "Excess $ 40m enbloc",
       "PRICE_USD_MILL": 40.0,
       "BUYERS": "Undisclosed",
       "SS": "11/2028",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
-      "extra_json": "{\"issue_date\": \"2025-07-18\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"Excess $ 40m\"}"
+      "extra_json": "{\"issue_date\": \"2025-07-18\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"Excess $ 40m enbloc\"}"
     },
     {
       "issue": "2025-07-18",
@@ -563,13 +585,13 @@
       "YARD": "Universal, Japan",
       "M_E": "Sulzer",
       "GEAR": "",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "Excess $ 40m enbloc",
+      "PRICE_USD_MILL": 40.0,
       "BUYERS": "Undisclosed",
       "SS": "05/2029",
       "COMMENTS": "Scrubber fitted",
       "source_file": "advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
-      "extra_json": "{\"issue_date\": \"2025-07-18\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2025-07-18\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"Excess $ 40m enbloc\"}"
     },
     {
       "issue": "2025-07-18",
@@ -741,7 +763,7 @@
       "GEAR": "",
       "PRICE": "63,5m",
       "PRICE_USD_MILL": 63.5,
-      "BUYERS": "Indian (Shipping",
+      "BUYERS": "Indian (Shipping Corp of India)",
       "SS": "10/2028",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
@@ -763,7 +785,7 @@
       "GEAR": "",
       "PRICE": "63,5m",
       "PRICE_USD_MILL": 63.5,
-      "BUYERS": "Corp of India)",
+      "BUYERS": "Indian (Shipping Corp of India)",
       "SS": "03/2029",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",

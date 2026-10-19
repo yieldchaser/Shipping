@@ -86,14 +86,15 @@ South African trips into West Coast India were fixed around usd 19,000/22,000 pd
 | Post Panamax | Azalea Wave | 95.584 | 2013 | Koyo, Japan | 11/2026 | MAN-B&W | - | Low-Mid $ 17m | Undisclosed |  |
 | Kamsarmax | SDTR Dora | 81.780 | 2019 | Jiangsu, China | 10/2029 | MAN-B&W | - | $ 24,5m | Greek |  |
 | Panamax | Chola Virtue | 76.610 | 2003 | Imabari, Japan | 03/2027 | B&W | - | $ 6,3m | Undisclosed | DD 06/2025 |
+| Ultramax | Utopia | 64.499 | 2020 | Oshima, Japan | 07/2026 | MAN-B&W | 4x30T | $ 34m | Undisclosed | Scrubber fitted, T/C attached at 14.000 usd/pd for 3 years |
 | Supramax | Pythias | 58.018 | 2010 | Yangzhou, China | 07/2025 | MAN-B&W | 4x35T | $ 11,2m | Chinese |  |
 | Supramax | Medi Manila | 57.903 | 2014 | Tsuneishi Zhoushan, China | 07/2029 | MAN-B&W | 4x30T | $ 17,7m | Undisclosed |  |
 | Supramax | Juniper | 57.185 | 2011 | Stx Dalian, China | 02/2026 | MAN-B&W | 4x30T | $ 12,5m | Undisclosed |  |
 | Supramax | Luminous Sky | 54.514 | 2005 | Sanoyas, Japan | 09/2025 | MAN-B&W | 3x15,5T | $ 6,25m | Chinese | Woodchip carrier |
 | Supramax | Ocean Princess | 52.382 | 2002 | Tsuneishi, Japan | 09/2027 | B&W | 4x30T | $ 7,4m | Undisclosed | DD 09/2025 |
-| Handysize | Four Rigoletto | 34.438 | 2011 | Spp, Korea | 04/2026 | MAN-B&W | 4x35T | Region | European |  |
+| Handysize | Four Rigoletto | 34.438 | 2011 | Spp, Korea | 04/2026 | MAN-B&W | 4x35T | Region $ 39m enbloc | European |  |
 | Handysize | Four Turandot | 34.428 | 2012 | Spp, Korea | 12/2026 | MAN-B&W | 4x35T | Region $ 39m enbloc | European |  |
-| Handysize | Four Butterfly | 34.423 | 2011 | Spp, Korea | 10/2026 | MAN-B&W | 4x35T | enbloc | European |  |
+| Handysize | Four Butterfly | 34.423 | 2011 | Spp, Korea | 10/2026 | MAN-B&W | 4x35T | Region $ 39m enbloc | European |  |
 | Handysize | Yuka D | 34.268 | 2011 | Zhejiang, China | 01/2026 | MAN-B&W | 4x30T | $ 9m | Undisclosed |  |
 | Handysize | Strategic Endeavor | 33.078 | 2010 | Zhejiang, China | 06/2025 | MAN-B&W | 4x35T | $ 7,5m | Undisclosed |  |
 
@@ -119,6 +120,7 @@ South African trips into West Coast India were fixed around usd 19,000/22,000 pd
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feeder | Vega Coligny | 1.868 | 2023 | Yangfan, China | 02/2028 | WinGD | - | $ 31m | Saudi Arabian (Folk Maritime) | DD 02/2026 |
+| Feeder | Hansa Hornerburg | 1.732 | 2007 | Guangzhou, China | 09/2027 | MAN-B&W | 2x45T | $ 19,5m | UAE (Global Feeder Shipping) | Ice Class II, DD 09/2025 |
 
 ## Page 5
 

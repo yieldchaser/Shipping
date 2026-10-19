@@ -120,13 +120,13 @@ Trips from North China into West Coast India were fixed around usd 8,000/10,000 
 | VLCC | Front Dee | 299.999 | 2015 | Daewoo, Korea | 09/2030 | MAN-B&W | $ 831,5m enbloc | Korean (Sinokor) |  |
 | VLCC | Front Tay | 299.999 | 2016 | Daewoo, Korea | 01/2026 | MAN-B&W | $ 831,5m enbloc | Korean (Sinokor) |  |
 | VLCC | Front Spey | 299.533 | 2016 | Hyundai, Korea | 05/2026 | Wartsila | $ 831,5m enbloc | Korean (Sinokor) |  |
-| VLCC | Front Cloud | 299.446 | 2016 | Hyundai, Korea | 03/2026 | Wartsila | $ 831,5m | Korean (Sinokor) |  |
-| VLCC | Front Forth | 299.392 | 2016 | Hyundai, Korea | 09/2026 | MAN-B&W | enbloc | Korean (Sinokor) |  |
+| VLCC | Front Cloud | 299.446 | 2016 | Hyundai, Korea | 03/2026 | Wartsila | $ 831,5m enbloc | Korean (Sinokor) |  |
+| VLCC | Front Forth | 299.392 | 2016 | Hyundai, Korea | 09/2026 | MAN-B&W | $ 831,5m enbloc | Korean (Sinokor) |  |
 | VLCC | Front Clyde | 299.320 | 2016 | Hyundai, Korea | 01/2026 | Wartsila | $ 831,5m enbloc | Korean (Sinokor) |  |
 | VLCC | Front Otra | 299.047 | 2016 | Hyundai Samho, Korea | 06/2026 | MAN-B&W | $ 831,5m enbloc | Korean (Sinokor) |  |
 | VLCC | Front Osen | 298.991 | 2016 | Hyundai Samho, Korea | 08/2026 | MAN-B&W | $ 831,5m enbloc | Korean (Sinokor) |  |
-| VLCC | Hunter | 299.940 | 2021 | Hyundai Samho, Korea | 03/2026 | MAN-B&W | $ 250m enbloc | Singapore based | Scrubber fitted |
-| VLCC | Serendipity | 299.936 | 2021 | Hyundai Samho, Korea | 06/2026 | MAN-B&W | $ 250m enbloc | (Trafigura) | Scrubber fitted |
+| VLCC | Hunter | 299.940 | 2021 | Hyundai Samho, Korea | 03/2026 | MAN-B&W | $ 250m enbloc | Singapore based (Trafigura) | Scrubber fitted |
+| VLCC | Serendipity | 299.936 | 2021 | Hyundai Samho, Korea | 06/2026 | MAN-B&W | $ 250m enbloc | Singapore based (Trafigura) | Scrubber fitted |
 | VLCC | Felice | 297.958 | 2010 | Universal, Japan | 03/2030 | MAN-B&W | rgn $ 68m | Korean (Sinokor) | Scrubber fitted |
 | VLCC | Advantage Value | 297.557 | 2009 | Shanghai, China | 01/2029 | MAN-B&W | $ 55m | Korean (Sinokor) |  |
 | VLCC | Mermaid Hope | 297.274 | 2011 | Universal, Japan | 12/2026 | MAN-B&W | $ 65m | Korean (Sinokor) | Scrubber fitted |

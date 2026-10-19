@@ -81,6 +81,7 @@ A generally quiet week for this segment. Continental trips into Mediterranean wi
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Mineral Noble | 170.649 | 2004 | Hyundai, Korea | 03/2026 | MAN-B&W | - | $ 12,8m | UAE | BWTS fitted, DD 03/2024 |
 | Kamsarmax | Aurora Borealis | 82.315 | 2023 | Cosco, China | 05/2028 | MAN-B&W | - | $ 38,3m | Egyptian (NNC) | BWTS fitted |
+| Kamsarmax | Pedhoulas Cherry | 82.013 | 2015 | Jiangsu, China | 07/2025 | MAN-B&W | - | $ 26,6m | Greek | BWTS fitted, Scrubber fitted, Dely Jan-Feb'24 |
 | Kamsarmax | Aquavita Sol | 81.541 | 2020 | Jiangsu, China | 03/2025 | MAN-B&W | - | $ 30,5m | Chinese | BWTS fitted |
 | Kamsarmax | Aquavita Sea | 81.479 | 2020 | Jiangsu, China | 01/2025 | MAN-B&W | - | $ 30,5m | Chinese | BWTS fitted |
 | Ultramax | Santa Vitoria | 61.438 | 2012 | Iwagi, Japan | 04/2025 | MAN-B&W | 4x30,7T | $ 19,8m | Undisclosed | BWTS fitted |
@@ -126,9 +127,10 @@ A generally quiet week for this segment. Continental trips into Mediterranean wi
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | Libramont | 29.328 | 2006 | Daewoo, Korea | 05/2026 | MAN-B&W | 37.686 | $ 69,3m | Undisclosed | T/C back |
-| LPG | Sombeke | 29.213 | 2006 | Daewoo, Korea | 10/2026 | MAN-B&W | 37.678 | enbloc | Undisclosed | T/C back |
+| LPG | Libramont | 29.328 | 2006 | Daewoo, Korea | 05/2026 | MAN-B&W | 37.686 | $ 69,3m enbloc | Undisclosed | T/C back |
+| LPG | Sombeke | 29.213 | 2006 | Daewoo, Korea | 10/2026 | MAN-B&W | 37.678 | $ 69,3m enbloc | Undisclosed | T/C back |
 | LPG | Eco Ethereal | 26.645 | 2010 | Hyundai Mipo, Korea | 10/2025 | MAN-B&W | 34.300 | $ 43m | Undisclosed |  |
+| LPG | Seapeak Napa | 10.790 | 2003 | Hudong- Zhonghua, China | 10/2028 | MAN | 9.875 | $ 9,8m | Undisclosed |  |
 
 ## Page 5
 

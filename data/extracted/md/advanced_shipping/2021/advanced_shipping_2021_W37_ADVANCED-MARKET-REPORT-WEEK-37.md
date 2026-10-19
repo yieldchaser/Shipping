@@ -79,12 +79,20 @@ A number of Mediterranean trips into ARAG were reported at the level of usd 33,0
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Prosperous | 179.100 | 2011 | Sungdong, Korea | 04/2026 | MAN- B&W | - | $ 31m | Turkish | BWTS fitted, Dely Oct'21 |
+| Capesize | CHS Magnificence | 173.541 | 2006 | Bohai, China | 09/2021 | Wartsila | - | Undisclosed | Undisclosed | BWTS fitted |
+| Kamsarmax | Lowlands Nello | 82.014 | 2015 | Sanoyas, Japan | 06/2025 | MAN- B&W | - | $ 32m | Greek (Neda Maritime) | BWTS fitted |
 | Panamax | Great Talent | 76.773 | 2005 | Sasebo, Japan | 01/2025 | MAN- B&W | - | $ 17m | Chinese | BWTS fitted |
 | Panamax | Mahavir | 74.005 | 2000 | Imabari, Japan | 03/2025 | B&W | - | $ 11,8m | Undisclosed |  |
 | Supramax | Trans Oceanic | 58.168 | 2012 | Tsuneishi, Japan | 07/2026 | MAN- B&W | 4x30T | Undisclosed | Undisclosed | BWTS fitted |
 | Supramax | Atalanti Sb | 56.019 | 2006 | Mitsui, Japan | 02/2026 | MAN- B&W | 4x30T | $ 16m | Bangladeshi (Meghna) |  |
 | Supramax | Ivy Delta | 55.869 | 2011 | IHI, Japan | 06/2026 | Wartsila | 4x35T | $ 20,4m | German (Oskar Wehr) | BWTS fitted, Dely Dec'21 |
+| Supramax | Ingenious | 55.648 | 2011 | Hyundai- Vinashin, Vietnam | 01/2026 | MAN- B&W | 4x30T | $ 17,8m | Undisclosed | Dely Feb'22 |
 | Supramax | Kaiwo Maru | 50.433 | 2011 | Oshima, Japan | 11/2025 | MAN- B&W | 4x30T | $ 19m | Undisclosed |  |
+| Handysize | Kmarin Mugunghwa | 37.423 | 2014 | Hyundai- Vinashin, Vietnam | 06/2024 | MAN- B&W | 4x30T | $ 21m | Korean (Dong-A) |  |
+| Handysize | Hamburg Pearl | 36.266 | 2011 | Hyundai Mipo, Korea | 01/2026 | MAN- B&W | 4x35T | High $ 18m | Undisclosed | OHBS, BWTS fitted, Dely Oct- Nov'21 |
+| Handysize | Maritime Faith | 33.166 | 2011 | Kanda, Japan | 02/2026 | Mitsubishi | 4x30,5T | High $ 16m | HK based (Taylor Maritime) | OHBS, BWTS fitted |
+| Handysize | Niki C | 29.974 | 2011 | New Century, China | 09/2021 | MAN- B&W | 4x30T | $ 12m | Chinese |  |
 
 ## Page 4
 
@@ -95,14 +103,15 @@ A number of Mediterranean trips into ARAG were reported at the level of usd 33,0
 | VLCC | Kos | 305.870 | 2001 | Daewoo, Korea | 10/2021 | B&W | $ 26m | Undisclosed | Old sale |
 | Aframax | Sunny Atlantica | 114.896 | 2006 | Samsung, Korea | 11/2021 | MAN- B&W | $ 15,5m | Chinese | Ice Class 1A |
 | Aframax | Minerva Nike | 105.320 | 2004 | Hyundai Samho, Korea | 04/2024 | B&W | Undisclosed | Undisclosed | Old sale |
-| MR | Green Stars | 50.000 | 2022 | Hyundai Mipo, Korea |  | MAN- B&W | $ 35m | Danish (Hafnia | Incl. T/C to |
-| MR | Yellow Stars | 50.000 | 2021 | Hyundai Mipo, Korea | 07/2026 | MAN- B&W | $ 35m | Tankers) | Clearlake |
+| MR | Green Stars | 50.000 | 2022 | Hyundai Mipo, Korea |  | MAN- B&W | $ 35m | Danish (Hafnia Tankers) | Incl. T/C to Clearlake |
+| MR | Yellow Stars | 50.000 | 2021 | Hyundai Mipo, Korea | 07/2026 | MAN- B&W | $ 35m | Danish (Hafnia Tankers) | Incl. T/C to Clearlake |
 
 ### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Leo Paramount | 6.350 | 2005 | Koyo, Japan | 10/2025 | MAN-B&W | - | Undisclosed | Undisclosed |  |
+| Post Panamax | E. R. Sweden | 5.762 | 2002 | Samsung, Korea | 09/2022 | MAN-B&W | - | Low $ 40m | UK based (Mount Street) |  |
 | Feeder | Piraeus Trader | 1.732 | 2006 | Guangzhou, China | 09/2021 | MAN-B&W | 2x45T | $ 25,5m | Greek (Euroseas) |  |
 
 ## Page 5

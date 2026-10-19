@@ -81,13 +81,18 @@ A number of Continental trips into West Africa were reported at the level of usd
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Newcastlemax | Hans Oldendorff | 209.190 | 2017 | Taizhou, China | 08/2022 | MAN- B&W | - | $ 54m | Undisclosed | Scrubber fitted |
 | Kamsarmax | SDTR Julia | 84.800 | 2022 | Dalian, China |  | MAN- B&W | - | $ 35,18m | Chinese | Auction sale, Resale |
+| Panamax | Van Continent | 74.475 | 2007 | Hudong- Zhonghua, China | 01/2027 | MAN- B&W | - | $ 18,5m | Chinese (HNA Technology) |  |
 | Panamax | Christina IV | 72.493 | 2000 | Sasebo, Japan | 01/2025 | B&W | - | $ 13m | Middle Eastern | BWTS fitted |
+| Ultramax | Western Santos | 63.518 | 2014 | Jiangsu, China | 04/2024 | MAN- B&W | 4x30T | $ 26,4m | HK based (Jinhui Shipping) | BWTS fitted |
 | Supramax | Van General | 57.346 | 2011 | Stx Dalian, China | 07/2026 | MAN- B&W | 4x30T | $ 19,2m |  |  |
 | Supramax | Van Auspicious | 53.630 | 2006 | Yangzhou, China | 08/2026 | MAN- B&W | 4x35T | $ 16m |  |  |
 | Supramax | Van Eternity | 53.390 | 2007 | Chengxi, China | 09/2022 | MAN- B&W | 4x36T | $ 16,7m | Chinese (HNA Technology) |  |
 | Supramax | Van Bonita | 53.383 | 2008 | Chengxi, China | 10/2023 | MAN- B&W | 4x36T | $ 18,6m |  |  |
+| Supramax | Van Duffy | 52.385 | 2006 | Tsuneishi Cebu, Philippines | 08/2026 | MAN- B&W | 4x30T | $ 17m |  | BWTS fitted |
 | Supramax | Medi Bangkok | 53.466 | 2006 | Imabari, Japan | 10/2025 | MAN- B&W | 4x31T | $ 17,5m | Undisclosed | BWTS fitted |
 | Handysize | Milau Bulker | 38.173 | 2012 | Naikai, Japan | 01/2027 | MAN- B&W | 4x30T | $ 23m | Greek | OHBS, BWTS fitted |
+| Handysize | Dorthe Oldendorff | 37.873 | 2019 | Qingdao Beihai, China | 06/2024 | Mitsubishi | 4x45T | $ 25m | Undisclosed |  |
+| Handysize | Omnia | 36.787 | 2011 | Hyundai Mipo, Korea | 08/2026 | MAN- B&W | 4x30,5T | High $ 19m | Undisclosed | BWTS fitted |
 | Handysize | Lord Wellington | 31.921 | 2005 | Hakodate, Japan | 04/2025 | Mitsubishi | 4x30T | $ 14,3m | Chinese |  |
 | Handysize | Vantage Rider | 29.033 | 2011 | Nantong, China | 05/2026 | MAN- B&W | 4x30T | $ 15m | Vietnamese |  |
 | Handysize | Zhe Hai 355 | 26.750 | 2010 | Zhejiang, China |  | Pielstick | - | Region $ 7,8m | Chinese | Auction sale |
@@ -105,14 +110,16 @@ A number of Continental trips into West Africa were reported at the level of usd
 | LR1 | Stena Paris | 65.125 | 2005 | Brodosplit, Croatia | 12/2025 | MAN- B&W | $ 15m | Greek | BWTS fitted, Ice Class 1B |
 | MR | Explorer II | 47.326 | 2005 | Onomichi, Japan | 07/2025 | MAN- B&W | $ 12,1m | Undisclosed |  |
 | MR | Alicudi M | 40.083 | 2004 | Shina, Korea | 02/2024 | MAN- B&W | $ 14m | Undisclosed |  |
+| MR | Hafnia Rainier | 40.012 | 2004 | Saiki, Japan | 03/2024 | Mitsubishi | $ 10m | Undisclosed | BWTS fitted, DD 06/2022, June sale |
 | MR | Fresia | 37.320 | 2003 | Stx, Korea | 10/2023 | MAN- B&W | $ 8,1m | Undisclosed |  |
+| Chemical/Oil Products | Ebony Ray | 19.998 | 2008 | Usuki, Japan | 07/2023 | MAN- B&W | $ 14m | Indonesian (Samudera Shipping Line) | St St, Incl. 3years T/C attached at 13.750 usd/day to GSB Tankers |
 
 ### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | Northern Jasper | 8.814 | 2009 | Daewoo, Korea | 08/2024 | MAN-B&W | - | Low-Mid $ 130's m | Danish |  |
-| Post Panamax | Northern Jupiter | 8.814 | 2010 | Daewoo, Korea | 02/2025 | MAN-B&W | - | Low-Mid $ 130's m | (Maersk) |  |
+| Post Panamax | Northern Jasper | 8.814 | 2009 | Daewoo, Korea | 08/2024 | MAN-B&W | - | Low-Mid $ 130's m | Danish (Maersk) |  |
+| Post Panamax | Northern Jupiter | 8.814 | 2010 | Daewoo, Korea | 02/2025 | MAN-B&W | - | Low-Mid $ 130's m | Danish (Maersk) |  |
 | Panamax | Guenther Schulte | 3.534 | 2008 | Shanghai, China | 05/2023 | MAN-B&W | - | $ 55m | Middle Eastern |  |
 
 ## Page 5

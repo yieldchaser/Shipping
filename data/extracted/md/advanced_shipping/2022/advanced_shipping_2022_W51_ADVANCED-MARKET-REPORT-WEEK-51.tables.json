@@ -127,7 +127,7 @@
       "PRICE_USD_MILL": 23.8,
       "BUYERS": "Undisclosed",
       "SS": "11/2025",
-      "COMMENTS": "BWTS fitted, T/C attached",
+      "COMMENTS": "BWTS fitted, T/C attached until Mar-Jun'23",
       "source_file": "advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf",
       "extra_json": "{\"issue_date\": \"2022-12-23\", \"report_week\": \"51\", \"source_file\": \"advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf\", \"raw_price\": \"$ 23,8m\"}"
     },
@@ -149,9 +149,31 @@
       "PRICE_USD_MILL": 23.8,
       "BUYERS": "Undisclosed",
       "SS": "02/2026",
-      "COMMENTS": "T/C attached until Mar-Jun'23",
+      "COMMENTS": "BWTS fitted, T/C attached until Mar-Jun'23",
       "source_file": "advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf",
       "extra_json": "{\"issue_date\": \"2022-12-23\", \"report_week\": \"51\", \"source_file\": \"advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf\", \"raw_price\": \"$ 23,8m\"}"
+    },
+    {
+      "issue": "2022-12-23",
+      "report_week": "51",
+      "section": "Bulk Carriers",
+      "page": "3",
+      "NAME": "Stony Stream",
+      "TYPE": "Ultramax",
+      "DWT": "64,000",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "2015",
+      "YARD": "Chengxi, China",
+      "M_E": "MAN- B&W",
+      "GEAR": "4x30T",
+      "PRICE": "Low $ 24m",
+      "PRICE_USD_MILL": 24.0,
+      "BUYERS": "US (Eagle Bulk)",
+      "SS": "04/2025",
+      "COMMENTS": "BWTS fitted, Dely Feb- Mar'23",
+      "source_file": "advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf",
+      "extra_json": "{\"issue_date\": \"2022-12-23\", \"report_week\": \"51\", \"source_file\": \"advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf\", \"raw_price\": \"Low $ 24m\"}"
     },
     {
       "issue": "2022-12-23",
@@ -196,6 +218,28 @@
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf",
       "extra_json": "{\"issue_date\": \"2022-12-23\", \"report_week\": \"51\", \"source_file\": \"advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf\", \"raw_price\": \"Region $ 12m\"}"
+    },
+    {
+      "issue": "2022-12-23",
+      "report_week": "51",
+      "section": "Tankers",
+      "page": "3",
+      "NAME": "Cosmo Ace",
+      "TYPE": "VLCC",
+      "DWT": "320,054",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "2010",
+      "YARD": "Hyundai, Korea",
+      "M_E": "Wartsila",
+      "GEAR": "",
+      "PRICE": "Undisclosed",
+      "PRICE_USD_MILL": null,
+      "BUYERS": "Undisclosed",
+      "SS": "01/2025",
+      "COMMENTS": "BWTS fitted, Scrubber fitted, Converted from VLOC",
+      "source_file": "advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf",
+      "extra_json": "{\"issue_date\": \"2022-12-23\", \"report_week\": \"51\", \"source_file\": \"advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf\", \"raw_price\": \"Undisclosed\"}"
     },
     {
       "issue": "2022-12-23",
@@ -303,7 +347,7 @@
       "PRICE_USD_MILL": 35.0,
       "BUYERS": "Undisclosed",
       "SS": "02/2025",
-      "COMMENTS": "BWTS fitted, Scrubber fitted",
+      "COMMENTS": "BWTS fitted, Scrubber fitted, Ice Class 1A",
       "source_file": "advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf",
       "extra_json": "{\"issue_date\": \"2022-12-23\", \"report_week\": \"51\", \"source_file\": \"advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf\", \"raw_price\": \"$ 35m\"}"
     },
@@ -325,7 +369,7 @@
       "PRICE_USD_MILL": 35.0,
       "BUYERS": "Undisclosed",
       "SS": "01/2025",
-      "COMMENTS": "Scrubber fitted, Ice Class 1A",
+      "COMMENTS": "BWTS fitted, Scrubber fitted, Ice Class 1A",
       "source_file": "advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf",
       "extra_json": "{\"issue_date\": \"2022-12-23\", \"report_week\": \"51\", \"source_file\": \"advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf\", \"raw_price\": \"$ 35m\"}"
     },
@@ -460,6 +504,28 @@
       "COMMENTS": "",
       "source_file": "advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf",
       "extra_json": "{\"issue_date\": \"2022-12-23\", \"report_week\": \"51\", \"source_file\": \"advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf\", \"raw_price\": \"Undisclosed\"}"
+    },
+    {
+      "issue": "2022-12-23",
+      "report_week": "51",
+      "section": "Containers",
+      "page": "4",
+      "NAME": "AS Cleopatra",
+      "TYPE": "Sub Panamax",
+      "DWT": "2,742 teu",
+      "TEU": 2742.0,
+      "CBM": null,
+      "BUILT": "2006",
+      "YARD": "Aker Mtw Werft, Germany",
+      "M_E": "MAN-B&W",
+      "GEAR": "3x45T",
+      "PRICE": "$ 20,9m",
+      "PRICE_USD_MILL": 20.9,
+      "BUYERS": "Undisclosed",
+      "SS": "08/2026",
+      "COMMENTS": "",
+      "source_file": "advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf",
+      "extra_json": "{\"issue_date\": \"2022-12-23\", \"report_week\": \"51\", \"source_file\": \"advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf\", \"raw_price\": \"$ 20,9m\"}"
     }
   ],
   "newbuilding": [
@@ -599,6 +665,20 @@
     }
   ],
   "demolition_sales": [
+    {
+      "issue_date": "2022-12-23",
+      "report_week": 51,
+      "vessel_name": "Paschalis D",
+      "vessel_type": "Bulker",
+      "dwt": 170188.0,
+      "ldt": 22908.0,
+      "yob": 2002,
+      "price_usd_per_ldt": 525.0,
+      "country": "Undisclosed",
+      "comments": "\"As Is\" Singapore, Incl. bunkers for delivery voyage to Indian subcontinent",
+      "page": 5,
+      "source_file": "advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf"
+    },
     {
       "issue_date": "2022-12-23",
       "report_week": 51,

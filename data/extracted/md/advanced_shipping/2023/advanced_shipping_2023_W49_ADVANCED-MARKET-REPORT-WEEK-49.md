@@ -79,6 +79,7 @@ A number of trips from Japan into South East Asia were fixed around usd 10,000/1
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Herun China | 181.056 | 2017 | SWS, China | 01/2027 | MAN-B&W | - | Excess $ 42m | UK based (Union Maritime) | BWTS fitted, Dely Mar-Jul'24 |
 | Capesize | Mineral Ningbo | 178.120 | 2009 | SWS, China | 07/2024 | MAN-B&W | - | Region $ 20m | Chinese (Agricore) |  |
 | Capesize | The Mothership | 177.544 | 2006 | Mitsui, Japan | 03/2026 | MAN-B&W | - | $ 17,4m | Chinese | BWTS fitted, DD 05/2024 |
 | Kamsarmax | IC Harvest | 83.476 | 2010 | Sanoyas, Japan | 02/2024 | MAN-B&W | - | $ 17m | Chinese |  |
@@ -99,8 +100,8 @@ A number of trips from Japan into South East Asia were fixed around usd 10,000/1
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | Diyala | 320.596 | 2019 | Samsung, Korea | 04/2024 | MAN-B&W | $ 114m | Saudi Arabian | BWTS fitted, Scrubber fitted |
-| VLCC | Ninawa | 320.596 | 2019 | Samsung, Korea | 03/2024 | MAN-B&W | $ 114m | (Bahri) | BWTS fitted, Scrubber fitted |
+| VLCC | Diyala | 320.596 | 2019 | Samsung, Korea | 04/2024 | MAN-B&W | $ 114m | Saudi Arabian (Bahri) | BWTS fitted, Scrubber fitted |
+| VLCC | Ninawa | 320.596 | 2019 | Samsung, Korea | 03/2024 | MAN-B&W | $ 114m | Saudi Arabian (Bahri) | BWTS fitted, Scrubber fitted |
 | Aframax | S-Treasure | 106.061 | 2005 | Hyundai Samho, Korea | 09/2025 | B&W | $ 32m | Undisclosed | BWTS fitted |
 | LR1 | Leon Apollon | 74.999 | 2009 | Hyundai Mipo, Korea | 07/2024 | MAN-B&W | $ 28,5m | Greek |  |
 | MR | Nord Sustainable | 49.579 | 2015 | Stx, Korea | 05/2025 | MAN-B&W | $ 39m | Greek | BWTS fitted |

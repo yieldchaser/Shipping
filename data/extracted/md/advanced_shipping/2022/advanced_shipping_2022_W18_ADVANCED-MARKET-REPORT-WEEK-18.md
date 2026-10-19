@@ -90,7 +90,9 @@ A generally quiet week for this segment. A number of trips from SW Pass into Eas
 | Panamax | SITC Lushan | 76.132 | 2013 | Yangfan, China | 11/2023 | MAN- B&W | - | $ 22m | Undisclosed | BWTS fitted |
 | Panamax | Siana | 73.127 | 1999 | Hyundai, Korea | 06/2024 | B&W | - | $ 9,2m | Chinese | DD 06/2022 |
 | Supramax | Amoy Dream | 56.873 | 2010 | Xiamen, China | 07/2025 | MAN- B&W | 4x30T | $ 17m | Chinese | BWTS fitted |
+| Supramax | Lan Hai Sheng Hui | 56.616 | 2011 | China Shipping Ind, China | 12/2026 | MAN- B&W | 4x30T | $ 19,66m | Chinese | Auction sale, BWTS fitted |
 | Handysize | Eredine | 39.855 | 2014 | Chengxi, China | 05/2024 | Wartsila | 4x36T | $ 24,5m | Undisclosed | BWTS fitted |
+| Handysize | Leia | 38.271 | 2010 | Imabari, Japan | 09/2024 | MAN- B&W | 4x30,5T | $ 17,7m | European | BWTS fitted, Incl. T/C until Apr-Jul'23 at 13.700 $/day |
 
 ## Page 4
 

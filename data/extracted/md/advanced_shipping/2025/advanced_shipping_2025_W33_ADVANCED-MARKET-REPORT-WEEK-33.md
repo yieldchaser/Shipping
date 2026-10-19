@@ -94,6 +94,7 @@ A generally quiet week for this segment. Continental trips into West Africa were
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | Halcyon | 299.942 | 2020 | Hyundai Samho, Korea | 11/2025 | MAN-B&W | $ 119m | USA (International Seaways) | Scrubber fitted |
 | MR | Nave Equinox | 50.922 | 2007 | Stx, Korea | 12/2027 | MAN-B&W | $ 14m | Indonesian | Ice Class 1A |
 
 ### Containers

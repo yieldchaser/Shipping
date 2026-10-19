@@ -82,15 +82,17 @@ A generally quiet week for this segment. Mediterranean trips into East Coast Sou
 | Post Panamax | Jin Hang | 93.069 | 2012 | Jiangsu, China | 06/2022 | MAN- B&W | - | $ 17,22m | Chinese | Online auction |
 | Kamsarmax | Energy Triton | 82.122 | 2012 | Tsuneishi, Japan | 04/2025 | MAN- B&W | - | Region $ 25m | Chinese | BWTS fitted |
 | Panamax | Elva | 73.910 | 2001 | Namura & Sasebo, Japan | 09/2026 | B&W | - | Region $ 11m | Undisclosed | BWTS fitted |
+| Supramax | Molyvos Luck | 57.924 | 2014 | Tsuneishi Zhoushan, China | 04/2024 | MAN- B&W | 4x30T | $ 21,2m | Greek (EuroDry) | BWTS fitted, Incl. T/C until Apr'22 at 13.250 usd/pd |
 | Supramax | Jin Hao | 56.624 | 2012 | Qingshan, China | 06/2022 | MAN- B&W | 4x30T | $ 15,68m | Chinese | Online auction |
+| Supramax | West Wind | 56.557 | 2008 | IHI, Japan | 08/2023 | Wartsila | 4x35T | $ 16,85m | Indonesian (Gurita Lintas) | BWTS fitted |
 | Supramax | Safesea Neha II | 53.389 | 2008 | Yangzhou, China | 10/2023 | MAN- B&W | 4x35T | High $ 13m | Undisclosed |  |
 | Handysize | Interlink Audacity | 39.100 | 2016 | Zhejiang, China | 07/2026 | MAN- B&W | 4x30,5T | $ 280m enbloc | German (Oskar Wehr) | BWTS fitted |
 | Handysize | Interlink Affinity | 39.046 | 2016 | Zhejiang, China | 05/2026 | MAN- B&W | 4x30,5T | $ 280m enbloc | German (Oskar Wehr) | BWTS fitted |
 | Handysize | Interlink Fidelity | 38.792 | 2015 | Taizhou, China | 05/2025 | MAN- B&W | 4x30T | $ 280m enbloc | German (Oskar Wehr) | BWTS fitted |
 | Handysize | Interlink Tenacity | 38.785 | 2016 | Taizhou, China | 01/2026 | MAN- B&W | 4x30T | $ 280m enbloc | German (Oskar Wehr) | BWTS fitted |
 | Handysize | Interlink Equality | 38.781 | 2016 | Taizhou, China | 07/2026 | MAN- B&W | 4x30T | $ 280m enbloc | German (Oskar Wehr) | BWTS fitted |
-| Handysize | Interlink Mobility | 38.767 | 2015 | Taizhou, China | 07/2025 | MAN- B&W | 4x30T | $ 280m | German | BWTS fitted |
-| Handysize | Interlink Veracity | 38.763 | 2016 | Taizhou, China | 04/2026 | MAN- B&W | 4x30T | enbloc | (Oskar Wehr) | BWTS fitted |
+| Handysize | Interlink Mobility | 38.767 | 2015 | Taizhou, China | 07/2025 | MAN- B&W | 4x30T | $ 280m enbloc | German (Oskar Wehr) | BWTS fitted |
+| Handysize | Interlink Veracity | 38.763 | 2016 | Taizhou, China | 04/2026 | MAN- B&W | 4x30T | $ 280m enbloc | German (Oskar Wehr) | BWTS fitted |
 | Handysize | Interlink Quality | 38.719 | 2016 | Huatai, China | 02/2026 | MAN- B&W | 4x30T | $ 280m enbloc | German (Oskar Wehr) | BWTS fitted |
 | Handysize | Interlink Priority | 38.709 | 2015 | Taizhou, China | 09/2025 | MAN- B&W | 4x30T | $ 280m enbloc | German (Oskar Wehr) | BWTS fitted |
 | Handysize | Interlink Utility | 38.706 | 2016 | Huatai, China | 11/2026 | MAN- B&W | 4x30T | $ 280m enbloc | German (Oskar Wehr) | BWTS fitted |
@@ -105,6 +107,7 @@ A generally quiet week for this segment. Mediterranean trips into East Coast Sou
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Handysize | Ultra Tolhuaca | 37.429 | 2015 | Oshima, Japan | 07/2025 | MAN- B&W | 4x30T | $ 24,5m | Undisclosed | BWTS fitted |
 | Handysize | Hui Xin 18 | 35.045 | 2012 | Zhejiang, China | 06/2022 | MAN- B&W | 4x30T | $ 11,56m | Undisclosed | Online auction |
+| Handysize | Loch Maree | 33.382 | 2013 | Shin Kurushima, Japan | 05/2023 | Mitsubishi | 4x30,5T | $ 18m | Greek (Meadway Shipping) | BWTS fitted |
 
 ### Tankers
 
@@ -117,8 +120,8 @@ A generally quiet week for this segment. Mediterranean trips into East Coast Sou
 | LR1 | STI Pride | 74.997 | 2016 | Spp, Korea | 07/2026 | MAN- B&W | $ 414m enbloc | Danish (Hafnia) |  |
 | LR1 | STI Providence | 74.997 | 2016 | Spp, Korea | 08/2026 | MAN- B&W | $ 414m enbloc | Danish (Hafnia) |  |
 | LR1 | STI Experience | 74.669 | 2016 | Stx, Korea | 03/2026 | MAN- B&W | $ 414m enbloc | Danish (Hafnia) |  |
-| LR1 | STI Exceed | 74.665 | 2016 | Stx, Korea | 02/2026 | MAN- B&W | $ 414m | Danish (Hafnia) |  |
-| LR1 | STI Excelsior | 74.665 | 2016 | Stx, Korea | 01/2026 | MAN- B&W | enbloc | Danish (Hafnia) |  |
+| LR1 | STI Exceed | 74.665 | 2016 | Stx, Korea | 02/2026 | MAN- B&W | $ 414m enbloc | Danish (Hafnia) |  |
+| LR1 | STI Excelsior | 74.665 | 2016 | Stx, Korea | 01/2026 | MAN- B&W | $ 414m enbloc | Danish (Hafnia) |  |
 | LR1 | STI Express | 74.663 | 2016 | Stx, Korea | 05/2026 | MAN- B&W | $ 414m enbloc | Danish (Hafnia) |  |
 | LR1 | STI Expedite | 74.634 | 2016 | Stx, Korea | 01/2026 | MAN- B&W | $ 414m enbloc | Danish (Hafnia) |  |
 | LR1 | STI Excellence | 74.613 | 2016 | Stx, Korea | 05/2026 | MAN- B&W | $ 414m enbloc | Danish (Hafnia) |  |
@@ -133,20 +136,21 @@ A generally quiet week for this segment. Mediterranean trips into East Coast Sou
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR | Kerel | 37.297 | 2002 | Hyundai Mipo, Korea | 01/2022 | B&W | $ 9,2m | Undisclosed |  |
-| MR | Baltic Soul | 37.244 | 2001 | Hyundai Mipo, Korea |  | B&W | enbloc | Undisclosed | SS/DD due |
+| MR | Kerel | 37.297 | 2002 | Hyundai Mipo, Korea | 01/2022 | B&W | $ 9,2m enbloc | Undisclosed |  |
+| MR | Baltic Soul | 37.244 | 2001 | Hyundai Mipo, Korea |  | B&W | $ 9,2m enbloc | Undisclosed | SS/DD due |
 | Chemical/Oil Products | Fure Ferder | 18.736 | 2003 | Vulcano, Spain | 06/2023 | MAN | $ 5,5m | Undisclosed |  |
 | Chemical/Oil Products | Fure Fladen | 18.736 | 2003 | Vulcano, Spain | 01/2023 | MAN | $ 5,5m | Undisclosed |  |
 | Chemical/Oil Products | LS Evanne | 7.003 | 2010 | Umo Gemi, Turkey | 09/2022 | MaK | Undisclosed | Undisclosed |  |
-| Chemical/Oil Products | LS Anne | 5.757 | 2008 | Soli Shyd, Turkey | 08/2023 | MaK | $ 9m | Undisclosed |  |
-| Chemical/Oil Products | LS Jamie | 5.756 | 2009 | Soli Shyd, Turkey | 03/2024 | MaK | enbloc | Undisclosed |  |
+| Chemical/Oil Products | LS Anne | 5.757 | 2008 | Soli Shyd, Turkey | 08/2023 | MaK | $ 9m enbloc | Undisclosed |  |
+| Chemical/Oil Products | LS Jamie | 5.756 | 2009 | Soli Shyd, Turkey | 03/2024 | MaK | $ 9m enbloc | Undisclosed |  |
 
 ### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | Catherine C | 6.178 | 2001 | Samsung, Korea |  | Sulzer | - | $ 130m | Swiss based |  |
-| Post Panamax | Leo C | 6.178 | 2002 | Samsung, Korea | 01/2022 | Sulzer | - | enbloc | (MSC) |  |
+| Post Panamax | Rhodos | 6.881 | 2013 | Hyundai Samho, Korea | 01/2023 | Wartsila | - | $ 140m | Undisclosed |  |
+| Post Panamax | Catherine C | 6.178 | 2001 | Samsung, Korea |  | Sulzer | - | $ 130m enbloc | Swiss based (MSC) |  |
+| Post Panamax | Leo C | 6.178 | 2002 | Samsung, Korea | 01/2022 | Sulzer | - | $ 130m enbloc | Swiss based (MSC) |  |
 | Panamax | ALS Ceres | 4.380 | 2010 | Daewoo, Korea | 04/2025 | MAN-B&W | - | Undisclosed | Israeli (Zim) |  |
 | Sub Panamax | AS Patricia | 2.496 | 2006 | Crist SP Z PP, Poland | 09/2026 | MAN-B&W | 3x45T | $ 34,3m | Danish (Maersk) |  |
 

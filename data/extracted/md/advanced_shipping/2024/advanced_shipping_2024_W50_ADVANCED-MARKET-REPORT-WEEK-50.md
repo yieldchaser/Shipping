@@ -81,6 +81,7 @@ Japanese trips into South East Asia were fixed around usd 8,000/10,000 pd. India
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Blue Lhotse | 180.132 | 2011 | Daehan, Korea | 03/2026 | MAN-B&W | - | $ 28,8m | Korean (Korea Line) | BWTS fitted |
 | Capesize | OTSL Artemis | 177.736 | 2008 | Shanghai Jiangnan, China | 11/2028 | MAN-B&W | - | $ 24,5m | Undisclosed | BWTS fitted, Scrubber fitted |
+| Post Panamax | Century Wave | 91.686 | 2013 | Oshima, Japan | 07/2028 | MAN-B&W | - | High $ 21m | Chinese (Dongguan Haichang) | BWTS fitted |
 | Panamax | Stratton | 74.403 | 2004 | Hudong- Zhonghua, China | 10/2025 | MAN-B&W | - | Low $ 7m | Chinese | BWTS fitted |
 | Panamax | Summer Lady | 72.083 | 1999 | Kanasashi, Japan | 07/2029 | Mitsubishi | - | Mid-High $ 6m | Middle Eastern | BWTS fitted |
 | Supramax | Porthos | 56.825 | 2010 | Jiangsu, China | 08/2029 | MAN-B&W | 4x35T | $ 13,5m | Undisclosed | BWTS fitted |
@@ -101,6 +102,7 @@ Japanese trips into South East Asia were fixed around usd 8,000/10,000 pd. India
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sub Panamax | Ariana A | 2.702 | 2005 | Blohm+Voss, Germany | 12/2025 | MAN-B&W | - | $ 16,5m | Undisclosed | Ice Class II |
 | Sub Panamax | Sparkle | 2.553 | 2009 | Naikai, Japan | 06/2027 | MAN-B&W | - | $ 23m | Swiss based (MSC) |  |
+| Sub Panamax | Chiquita Merchant | 2.546 | 2007 | Jiangsu, China | 11/2027 | MAN-B&W | 3x45T | $ 22m | Undisclosed | BWTS fitted, T/C till Sep'26- Jan'27 at 26.500 usd/pd |
 
 ## Page 4
 

@@ -82,6 +82,7 @@ A number of Australian trips into South East Asia were fixed around usd 8,000/9,
 | Kamsarmax | Ultra Tiger | 83.611 | 2009 | Sanoyas, Japan | 05/2026 | MAN-B&W | - | $ 16,5m | Indian | BWTS fitted |
 | Kamsarmax | Presinge Trader | 81.115 | 2016 | Jiangsu, China | 12/2026 | MAN-B&W | - | High $ 25m | Greek (W Marine) | BWTS fitted |
 | Panamax | Topaz | 75.499 | 2004 | Sanoyas, Japan | 06/2024 | B&W | - | Excess $ 10,5m | Undisclosed | BWTS fitted |
+| Ultramax | Unity Endeavour | 61.617 | 2014 | NACKS, China | 08/2024 | MAN-B&W | 4x30T | $ 23m | Undisclosed | BWTS fitted, Scrubber fitted, Incl. index linked T/C attached |
 | Ultramax | Xing Xi Hai | 60.498 | 2017 | Mitsui, Japan | 01/2027 | MAN-B&W | 4x30T | $ 29m | Scandinavian | BWTS fitted |
 | Ultramax | Xing Shou Hai | 60.492 | 2016 | Mitsui, Japan | 10/2026 | MAN-B&W | 4x30T | $ 28m | Greek | BWTS fitted |
 | Supramax | Supra Oniki | 57.022 | 2010 | Qingshan, China | 07/2025 | MAN-B&W | 4x35T | Excess $ 11m | Undisclosed | BWTS fitted |

@@ -118,6 +118,7 @@ Trips from Japan into India were fixed around usd 10,000/12,000 pd. South East A
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feeder | Hansa Salzburg | 1.740 | 2011 | Guangzhou, China | 07/2026 | MAN-B&W | 2x40T | $ 18,5m | Chinese | Ice Class II |
+| Feeder | Margaret River Bridge | 1.708 | 2009 | Imabari, Japan | 09/2029 | MAN-B&W | - | $ 18,6m | Indonesian (Tanto Intim Line) |  |
 | Feeder | A Goryu | 1.096 | 2023 | Kyokuyo, Japan | 02/2028 | MAN-B&W | - | $ 32m | Greek (Minerva) |  |
 
 ## Page 5

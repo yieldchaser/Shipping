@@ -108,8 +108,8 @@ A generally quiet week for this segment. US Gulf trips into West Africa were rep
 | MR | Bowmore | 34.752 | 2021 | Fujian Mawei, China | 10/2026 | Wartsila | $ 23,5m | Undisclosed |  |
 | Chemical/Oil Products | Ocean Jack | 12.000 | 2018 | Samjin, China | 01/2023 | Wartsila | Undisclosed | Undisclosed | Auction sales |
 | Chemical/Oil Products | Ocean Manta | 11.999 | 2017 | Zhejiang, China | 06/2022 | Wartsila | Undisclosed | Undisclosed | Auction sales |
-| Chemical/Oil Products | Northsea Beta | 8.647 | 2010 | Yangzhou, China | 05/2025 | MAN | $ 8,9m | Undisclosed |  |
-| Chemical/Oil Products | Northsea Alpha | 8.615 | 2010 | Yangzhou, China | 05/2025 | MAN | enbloc | Undisclosed |  |
+| Chemical/Oil Products | Northsea Beta | 8.647 | 2010 | Yangzhou, China | 05/2025 | MAN | $ 8,9m enbloc | Undisclosed |  |
+| Chemical/Oil Products | Northsea Alpha | 8.615 | 2010 | Yangzhou, China | 05/2025 | MAN | $ 8,9m enbloc | Undisclosed |  |
 
 ## Page 5
 

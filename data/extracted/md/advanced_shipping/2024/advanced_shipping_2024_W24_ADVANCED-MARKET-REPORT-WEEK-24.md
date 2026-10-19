@@ -98,8 +98,8 @@ A number of trips from Japan into India were reported at the level of usd 14,000
 | MR | Gunmetal Jack | 49.999 | 2009 | Spp, Korea | 08/2029 | MAN-B&W | Excess $ 28m | Turkish | BWTS fitted |
 | MR | Paradise City | 49.999 | 2009 | Spp, Korea | 02/2029 | MAN-B&W | Excess $ 28m | Greek | Delivered, BWTS fitted |
 | MR | STI Beryl | 49.990 | 2013 | Hyundai Mipo, Korea | 04/2028 | MAN-B&W | $ 36,6m | Indian (Great Eastern Shipping) | BWTS fitted |
-| MR | Guangzhou 23110025 | 49.600 | 2026 | Guangzhou, China |  | MAN-B&W | $ 105,3m | Chinese (CSSC | 10years BB |
-| MR | Guangzhou 23110026 | 49.600 | 2026 | Guangzhou, China |  | MAN-B&W | enbloc | Shipping) | charter back |
+| MR | Guangzhou 23110025 | 49.600 | 2026 | Guangzhou, China |  | MAN-B&W | $ 105,3m enbloc | Chinese (CSSC Shipping) | 10years BB charter back |
+| MR | Guangzhou 23110026 | 49.600 | 2026 | Guangzhou, China |  | MAN-B&W | $ 105,3m enbloc | Chinese (CSSC Shipping) | 10years BB charter back |
 | MR | TRF Mandal | 37.596 | 2016 | Hyundai Mipo, Korea | 01/2026 | MAN-B&W | $ 38m | Undisclosed | BWTS fitted, Scrubber fitted |
 | MR | TRF Marquette | 37.596 | 2016 | Hyundai Mipo, Korea | 01/2026 | MAN-B&W | $ 38m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Oil Products | Zhong Da You 16 | 6.864 | 2012 | Zhoushan, China | 05/2027 | Guangzhou | $ 4m | Taiwanese | May sale, Ice Class II |

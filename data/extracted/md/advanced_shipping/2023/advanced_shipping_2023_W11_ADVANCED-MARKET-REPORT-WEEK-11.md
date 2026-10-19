@@ -79,16 +79,20 @@ Mediterranean trips into US Gulf were reported at the level of usd 11,000/13,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Newcastlemax | MP The Bruschi | 208.000 | 2020 | Jiangsu, China | 08/2025 | MAN- B&W | - | $ 121m | Middle | BWTS fitted, Scrubber fitted, |
-| Newcastlemax | MP The Vinatieri | 208.000 | 2021 | Jiangsu, China | 03/2024 | MAN- B&W | - | enbloc | Eastern | Incl. Index linked T/C |
+| Newcastlemax | MP The Bruschi | 208.000 | 2020 | Jiangsu, China | 08/2025 | MAN- B&W | - | $ 121m enbloc | Middle Eastern | BWTS fitted, Scrubber fitted, Incl. Index linked T/C |
+| Newcastlemax | MP The Vinatieri | 208.000 | 2021 | Jiangsu, China | 03/2024 | MAN- B&W | - | $ 121m enbloc | Middle Eastern | BWTS fitted, Scrubber fitted, Incl. Index linked T/C |
 | Capesize | Xin Jin Hai | 180.406 | 2009 | Dalian, China | 11/2024 | MAN- B&W | - | $ 23m | Undisclosed | BWTS fitted |
 | Capesize | Aquahaha | 179.023 | 2012 | HHIC, Philippines | 02/2027 | MAN- B&W | - | $ 28m | Undisclosed | BWTS fitted |
 | Capesize | Aquatonka | 178.733 | 2012 | HHIC, Philippines | 03/2027 | MAN- B&W | - | $ 28m | Undisclosed | BWTS fitted |
+| Capesize | C H S Creation | 174.110 | 2006 | SWS, China | 03/2026 | MAN- B&W | - | $ 17m | Chinese (Jiangsu Steamship) | BWTS fitted |
 | Panamax | Ikan Kerapu | 78.020 | 2015 | Sasebo, Japan | 01/2025 | MAN- B&W | - | $ 26m | Greek | BBHP, BWTS fitted |
 | Panamax | ES Sakura | 76.596 | 2007 | Imabari, Japan | 08/2027 | MAN- B&W | - | $ 14,5m | Undisclosed | BWTS fitted |
+| Panamax | Efrossini | 75.003 | 2012 | Sasebo, Japan | 02/2027 | MAN- B&W | - | $ 22,5m | Undisclosed | BWTS fitted, Dely Jun'23 with 10-14months T/C back at 16.000 $/day |
 | Panamax | Magic Rainbow | 73.593 | 2007 | Jiangnan, China | 12/2025 | MAN- B&W | - | $ 12,6m | Undisclosed | BWTS fitted |
 | Ultramax | Soho Principal | 63.229 | 2016 | Yangzhou, China | 04/2026 | MAN- B&W | 4x36T | $ 26,5m | Undisclosed | BWTS fitted |
+| Supramax | IVS Pinehurst | 57.811 | 2015 | Tsuneishi Cebu, Philippines | 07/2025 | MAN- B&W | 4x35T | Low $ 23m | Greek (Alpha Bulkers) | BWTS fitted |
 | Supramax | Ecopacific | 57.696 | 2010 | Stx Dalian, China | 03/2025 | MAN- B&W | 4x30T | High $ 14m | Undisclosed |  |
+| Supramax | Glovis Magellan | 56.582 | 2013 | Tianjin, China | 05/2023 | MAN- B&W | 4x35T | $ 15m | Greek | BWTS onboard but not commissioned |
 | Supramax | Ocean Cross | 53.617 | 2007 | Yangzhou, China | 05/2027 | MAN- B&W | 4x36T | $ 9,9m | Undisclosed | BWTS fitted |
 | Handymax | Boreas Venture | 43.389 | 2016 | Qingshan, China | 02/2026 | MAN- B&W | 4x30T | $ 23,2m | Undisclosed | BWTS fitted |
 | Handysize | Cielo Di Valparaiso | 39.232 | 2015 | Yangfan, China | 06/2025 | MAN- B&W | 4x30T | $ 20m | German | BWTS fitted |
@@ -100,6 +104,7 @@ Mediterranean trips into US Gulf were reported at the level of usd 11,000/13,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Handysize | Maestro Pearl | 36.920 | 2015 | Saiki, Japan | 07/2025 | MAN- B&W | 4x36T | $ 20,5m | Undisclosed | OHBS, BWTS fitted, DD 07/2023 |
 | Handysize | Nordic Skagen | 33.741 | 2010 | TK, Korea | 10/2025 | MAN- B&W | 4x30T | $ 12,5m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Crux | 32.744 | 2002 | Kanda, Japan | 07/2025 | Mitsubishi | 4x30,5T | $ 8m | Turkish |  |
 
@@ -115,6 +120,7 @@ Mediterranean trips into US Gulf were reported at the level of usd 11,000/13,000
 | Suezmax | Okeanos | 159.367 | 2003 | Hyundai, Korea | 02/2023 | B&W | Undisclosed | Undisclosed |  |
 | Suezmax | Lila Hong Kong | 159.149 | 2003 | Bohai, China | 11/2023 | MAN- B&W | Mid $ 30m | Chinese | BWTS fitted |
 | Aframax | Afra Royal | 115.948 | 2010 | HHIC, Philippines | 01/2025 | MAN- B&W | $ 43m | Undisclosed | DD 04/2023 |
+| LR2 | Pro Alliance | 105.348 | 2008 | Hyundai, Korea | 09/2023 | MAN- B&W | $ 38,25m | Greek | BWTS fitted, Scrubber fitted, DD 06/2023 |
 | MR | Navigare Pars | 51.034 | 2012 | Stx, Korea | 01/2027 | MAN- B&W | $ 32m | Italian (Socomar) | BWTS fitted |
 | MR | Pyxis Malou | 50.667 | 2009 | Spp, Korea | 02/2024 | MAN- B&W | $ 24,8m | UK based | BWTS fitted |
 | MR | Neutron Ray | 50.386 | 2005 | Shina, Korea | 03/2025 | B&W | $ 18,1m | Undisclosed | BWTS fitted |
@@ -153,8 +159,8 @@ Mediterranean trips into US Gulf were reported at the level of usd 11,000/13,000
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | TS Dubai | 6.350 | 2007 | Koyo, Japan | 11/2027 | MAN- B&W | - | $ 30m | Swiss based |  |
-| Post Panamax | TS Mumbai | 5.680 | 2003 | Hyundai, Korea | 03/2027 | B&W | - | $ 25m | (MSC) |  |
+| Post Panamax | TS Dubai | 6.350 | 2007 | Koyo, Japan | 11/2027 | MAN- B&W | - | $ 30m | Swiss based (MSC) |  |
+| Post Panamax | TS Mumbai | 5.680 | 2003 | Hyundai, Korea | 03/2027 | B&W | - | $ 25m | Swiss based (MSC) |  |
 
 ## Page 7
 

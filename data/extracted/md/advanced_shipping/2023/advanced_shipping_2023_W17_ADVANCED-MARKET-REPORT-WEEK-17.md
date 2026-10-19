@@ -81,10 +81,13 @@ No fixture reported for this segment. No period activity to report here.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Stella Cherise | 177.832 | 2010 | SWS, China | 04/2027 | MAN- B&W | - | Region $ 24m | Undisclosed | BWTS fitted |
 | Capesize | Mount Faber | 176.943 | 2008 | Namura & Sasebo, Japan | 06/2023 | MAN- B&W | - | Region $ 23m | Chinese | Scrubber fitted |
+| Kamsarmax | Valiant Spring | 81.920 | 2015 | Tsuneishi Zhoushan, China | 12/2025 | MAN- B&W | - | Low $ 28m | Greek | BWTS fitted, Dely Sep'23 |
 | Kamsarmax | DL Ivy | 81.805 | 2012 | Jiangsu, China | 09/2027 | MAN- B&W | - | Region $ 17m | Greek | BWTS fitted |
+| Panamax | Ying Hao 03 | 76.037 | 2012 | Hudong- Zhonghua, China | 05/2027 | MAN- B&W | - | $ 18m | European | BWTS fitted |
 | Panamax | Palma Bulker | 75.843 | 2009 | Tsuneishi, Japan | 01/2024 | MAN- B&W | - | Mid $ 17m | Greek |  |
 | Ultramax | CL Ebisu | 61.330 | 2014 | Iwagi, Japan | 11/2024 | MAN- B&W | 4x30,7T | $ 26,8m | US based (Pangaea) | BWTS fitted |
 | Supramax | Seacon Qingdao | 57.450 | 2013 | Taizhou, China | 03/2028 | MAN- B&W | 4x30T | Region $ 15,5m | Chinese | Auction sale, BWTS fitted |
+| Supramax | Ariadne | 57.038 | 2010 | Liaoning, China | 08/2025 | Wartsila | 4x30,5T | $ 13,3m | Undisclosed | Delivered, BWTS fitted, DD 08/2023 |
 | Supramax | Oren | 56.877 | 2010 | Jiangdong, China | 09/2025 | MAN- B&W | 4x30T | $ 13,3m | Undisclosed | BWTS fitted, DD 07/2023 |
 | Supramax | Worldera-3 | 50.296 | 2000 | Mitsui, Japan | 07/2025 | B&W | 4x30T | $ 8m | Undisclosed | BWTS fitted |
 | Handysize | Pacific Spirit | 35.283 | 2009 | Nantong, China | 04/2024 | MAN- B&W | 4x30,5T | Excess $ 10m | Undisclosed | Box holds, BWTS fitted |
@@ -94,6 +97,7 @@ No fixture reported for this segment. No period activity to report here.
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | Nautica | 307.284 | 2008 | Dalian, China | 04/2028 | Wartsila | $ 55m | United Nations | For removal of about 1m barrels from FSO "Safer" off Yemen |
 | VLCC | Princess Mary | 306.206 | 2004 | Mitsubishi, Japan | 01/2027 | Mitsubishi | $ 51m | Chinese | BWTS fitted |
 | Suezmax | Eagle Brenda | 164.626 | 2001 | Hyundai, Korea | 07/2026 | B&W | $ 26m | Undisclosed | BWTS fitted |
 
@@ -104,12 +108,17 @@ No fixture reported for this segment. No period activity to report here.
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aframax | STI Lobelia | 110.928 | 2018 | New Times, China | 01/2024 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | p.option declared |
+| MR | STI Magic | 47.499 | 2019 | Hyundai- Vinashin, Vietnam | 01/2024 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | p.option declared |
+| MR | STI Magister | 47.499 | 2019 | Hyundai- Vinashin, Vietnam | 06/2024 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | p.option declared |
+| MR | STI Marvel | 47.499 | 2019 | Hyundai- Vinashin, Vietnam | 03/2024 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | p.option declared |
+| MR | STI Mystery | 47.499 | 2019 | Hyundai- Vinashin, Vietnam | 02/2024 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | p.option declared |
+| MR | STI Mythic | 47.499 | 2019 | Hyundai- Vinashin, Vietnam | 07/2024 | MAN- B&W | Undisclosed | Monaco based (Scorpio Tankers) | p.option declared |
 | LR2 | Pro Alliance | 105.348 | 2008 | Hyundai, Korea | 09/2023 | MAN- B&W | $ 37m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Aframax | Jag Lavanya | 105.051 | 2004 | Samsung, Korea | 05/2027 | MAN- B&W | Region $ 25,5m | Undisclosed |  |
 | LR1 | Sauger | 72.718 | 2004 | Samsung, Korea | 02/2024 | B&W | Mid $ 18m | Turkish |  |
 | MR | Bahri Jasmine | 49.000 | 2005 | Daewoo, Korea | 04/2025 | MAN- B&W | $ 18,3m | Undisclosed | BWTS fitted, DD 07/2023 |
 | Chemical/Oil Products | Bunga Lilac | 19.992 | 2011 | Fukuoka, Japan | 04/2026 | MAN- B&W | $ 21,9m | Chinese | St St, BWTS fitted |
-| Chemical/Oil Products | Tiger Perseverance | 12.267 | 2019 | Shin Kurushima, Japan | 01/2024 | MAN- B&W | $ 27,5m | Chinese | BBB St St |
+| Chemical/Oil Products | Tiger Perseverance | 12.267 | 2019 | Shin Kurushima, Japan | 01/2024 | MAN- B&W | $ 27,5m | Chinese | BBB, St St |
 | Chemical/Oil Products | Tiger Reliance | 12.259 | 2018 | Shin Kurushima, Japan | 07/2023 | MAN- B&W | $ 27,5m | Chinese | BBB, St St |
 
 ### Containers

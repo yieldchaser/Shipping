@@ -75,6 +75,7 @@ In the Far East, departures from Japan and South East Asia fixed between USD 14,
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Post Panamax | Yangze 905 | 93.217 | 2010 | Jiangsu, China | 12/2030 | MAN-B&W | - | $ 12m | Greek (Modion Maritime) | T/C attached till early 2027 at 12.000 usd/pd |
 | Post Panamax | Ocean Rhea | 92.648 | 2011 | Jiangsu, China | 07/2031 | MAN-B&W | - | $ 15,25m | Chinese |  |
 | Kamsarmax | Pendulum | 82.619 | 2006 | Tsuneishi, Japan | 10/2026 | MAN-B&W | - | $ 14,5m | Undisclosed | Delivered, Scrubber fitted |
 | Kamsarmax | Polynesia Queen | 82.177 | 2012 | Tsuneishi Zhoushan, China | 05/2027 | MAN-B&W | - | $ 21m | Undisclosed |  |

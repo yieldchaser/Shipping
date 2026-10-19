@@ -83,15 +83,17 @@ A number of trips from China into South East Asia with steels were reported fixe
 | Mini Cape | Maran Dawn | 114.091 | 2011 | Shanghai, China | 10/2025 | MAN- B&W | - | $ 200m enbloc | Chinese | Scrubber fitted |
 | Mini Cape | Maran Sky | 114.078 | 2011 | Shanghai, China | 07/2025 | MAN- B&W | - | $ 200m enbloc | Chinese | Scrubber fitted |
 | Mini Cape | Maran Sun | 114.078 | 2011 | Shanghai, China | 08/2025 | MAN- B&W | - | $ 200m enbloc | Chinese | Scrubber fitted |
-| Mini Cape | Maran Progress | 114.047 | 2014 | Shanghai, China | 01/2024 | MAN- B&W | - | $ 200m | Chinese | Scrubber fitted |
-| Mini Cape | Maran Wisdom | 114.046 | 2014 | Shanghai, China | 05/2024 | MAN- B&W | - | enbloc | Chinese | Scrubber fitted |
+| Mini Cape | Maran Progress | 114.047 | 2014 | Shanghai, China | 01/2024 | MAN- B&W | - | $ 200m enbloc | Chinese | Scrubber fitted |
+| Mini Cape | Maran Wisdom | 114.046 | 2014 | Shanghai, China | 05/2024 | MAN- B&W | - | $ 200m enbloc | Chinese | Scrubber fitted |
 | Mini Cape | Maran Zenith | 114.038 | 2013 | Shanghai, China | 04/2023 | MAN- B&W | - | $ 200m enbloc | Chinese | Scrubber fitted |
 | Mini Cape | Maran Aspiration | 114.013 | 2012 | Shanghai, China | 10/2024 | MAN- B&W | - | $ 200m enbloc | Chinese | Scrubber fitted |
 | Mini Cape | Maran Ocean | 114.007 | 2011 | Shanghai, China | 08/2024 | MAN- B&W | - | $ 200m enbloc | Chinese | Scrubber fitted |
 | Post Panamax | CMB Pauillac | 95.707 | 2012 | Imabari, Japan | 08/2022 | MAN- B&W | - | $ 25m | Undisclosed |  |
+| Kamsarmax | Rosco Litchi | 82.153 | 2011 | Tsuneishi Zhoushan, China | 01/2026 | MAN- B&W | - | $ 25m | Greek | BWTS fitted |
 | Kamsarmax | Majestic Sky | 81.949 | 2014 | Tadotsu, Japan | 04/2022 | MAN- B&W | - | $ 31,5m | Greek | BWTS fitted |
 | Kamsarmax | Yangtze Xing Hua | 81.678 | 2012 | Guangzhou, China | 05/2022 | MAN- B&W | - | $ 22m | Undisclosed | BWTS fitted |
 | Kamsarmax | Sea Neptune | 81.631 | 2013 | Xiamen, China | 03/2023 | MAN- B&W | - | $ 23m | Turkish |  |
+| Panamax | Coral Crystal | 78.103 | 2012 | Shin Kurushima, Japan | 06/2025 | MAN- B&W | - | Region $ 25m | Undisclosed | BWTS fitted, Dely May- Jul'22 |
 | Panamax | Rio Grita | 75.378 | 2014 | Taizhou, China | 02/2024 | MAN- B&W | - | $ 22,5-23m | Greek | BWTS fitted |
 | Ultramax | S Hermes | 61.272 | 2016 | I-S, Japan | 02/2026 | MAN- B&W | 4x30,7T | $ 32m |  |  |
 | Ultramax | S Echo | 61.258 | 2015 | Imabari, Japan | 07/2025 | MAN- B&W | 4x30,7T | $ 31m | Greek (Centrofin) |  |
@@ -103,15 +105,17 @@ A number of trips from China into South East Asia with steels were reported fixe
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Supramax | Titan II | 57.337 | 2009 | Stx, Korea | 09/2024 | MAN- B&W | 4x30T | $ 17,5m | Undisclosed | BWTS fitted, DD 08/2022, Dely Aug'22 |
 | Supramax | ASL Mercury | 56.899 | 2010 | Jiangsu, China | 12/2025 | MAN- B&W | 4x36T | $ 16,5m | Undisclosed | BWTS fitted |
+| Supramax | Eny | 53.525 | 2006 | Iwagi, Japan | 06/2026 | MAN- B&W | 4x30,5T | $ 17,2m | Middle Eastern | BWTS fitted, Dely Jul- Aug'22 |
 | Handysize | Strategic Encounter | 33.000 | 2010 | Zhejiang, China | 08/2025 | MAN- B&W | 4x30T | Low $ 14m | Undisclosed |  |
 
 ### Tankers
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Aframax | Advantage Anthem | 116.087 | 2011 | Samsung, Korea | 09/2026 | MAN- B&W | $ 57m | Singapore based |  |
-| Aframax | Advantage Avenue | 115.785 | 2010 | Samsung, Korea | 06/2025 | MAN- B&W | enbloc | (Synergy Marine) |  |
+| Aframax | Advantage Anthem | 116.087 | 2011 | Samsung, Korea | 09/2026 | MAN- B&W | $ 57m enbloc | Singapore based (Synergy Marine) |  |
+| Aframax | Advantage Avenue | 115.785 | 2010 | Samsung, Korea | 06/2025 | MAN- B&W | $ 57m enbloc | Singapore based (Synergy Marine) |  |
 | Aframax | Berica | 115.146 | 2008 | Sasebo, Japan | 10/2023 | MAN- B&W | Region $ 23m | Undisclosed | BWTS fitted |
 | MR | Yufu Crown | 51.418 | 2020 | Minaminippon, Japan | 03/2025 | MAN- B&W | Undisclosed | Italian (Premuda) | BWTS fitted |
 | MR | Challenge Pegasus | 47.786 | 2007 | Stx, Korea | 08/2025 | MAN- B&W | $ 12,35m | Greek (R Shipping) | BWTS fitted |
@@ -127,12 +131,14 @@ A number of trips from China into South East Asia with steels were reported fixe
 | Chemical/Oil Products | Hafnia Spica | 25.268 | 2017 | Fukuoka, Japan | 05/2022 | MAN- B&W | $ 252,4m enbloc | Dutch (Ace Tankers) | St St, BWTS fitted |
 | Chemical/Oil Products | Hafnia Sol | 25.253 | 2017 | Fukuoka, Japan | 08/2022 | MAN- B&W | $ 252,4m enbloc | Dutch (Ace Tankers) | St St, BWTS fitted |
 | Chemical/Oil Products | Hafnia Sceptrum | 25.198 | 2017 | Kitanihon, Japan | 05/2022 | MAN- B&W | $ 252,4m enbloc | Dutch (Ace Tankers) | St St, BWTS fitted |
-| Chemical/Oil Products | Hafnia Sirius | 25.196 | 2016 | Kitanihon, Japan | 06/2026 | MAN- B&W | $ 252,4m | Dutch | St St, BWTS fitted |
-| Chemical/Oil Products | Hafnia Spark | 25.196 | 2016 | Kitanihon, Japan | 10/2026 | MAN- B&W | enbloc | (Ace Tankers) | St St, BWTS fitted |
+| Chemical/Oil Products | Hafnia Sirius | 25.196 | 2016 | Kitanihon, Japan | 06/2026 | MAN- B&W | $ 252,4m enbloc | Dutch (Ace Tankers) | St St, BWTS fitted |
+| Chemical/Oil Products | Hafnia Spark | 25.196 | 2016 | Kitanihon, Japan | 10/2026 | MAN- B&W | $ 252,4m enbloc | Dutch (Ace Tankers) | St St, BWTS fitted |
 | Chemical/Oil Products | Hafnia Stellar | 25.196 | 2016 | Kitanihon, Japan | 10/2026 | MAN- B&W | $ 252,4m enbloc | Dutch (Ace Tankers) | St St, BWTS fitted |
 | Chemical/Oil Products | Hafnia Saiph | 25.194 | 2017 | Kitanihon, Japan | 01/2027 | MAN- B&W | $ 252,4m enbloc | Dutch (Ace Tankers) | St St, BWTS fitted |
 | Chemical/Oil Products | Hafnia Sky | 25.193 | 2016 | Kitanihon, Japan | 08/2026 | MAN- B&W | $ 252,4m enbloc | Dutch (Ace Tankers) | St St, BWTS fitted |
 | Chemical/Oil Products | Saranga | 20.938 | 2006 | Shin Kurushima, Japan | 07/2026 | MAN- B&W | $ 12,5m | Indonesian (PT Samudera) | Old sale, St St, BWTS fitted |
+| Chemical/Oil Products | Songa Dream | 19.807 | 2010 | Fukuoka, Japan | 02/2025 | MAN- B&W | $ 17m | Korean | St St, BWTS fitted, Scrubber fitted |
+| Chemical/Oil Products | Ocean Marlin | 11.996 | 2018 | Samjin, China | 06/2023 | Wartsila | $ 10m | Singaporean (Hong Lam Marine) | Old sale, Auction sale, BWTS fitted |
 | Chemical/Oil Products | Hoko | 8.911 | 2010 | Shin Kurushima, Japan | 05/2025 | MAN- B&W | $ 8m | Undisclosed | St St, BWTS fitted |
 
 ### Gas

@@ -79,6 +79,7 @@ A number of Australian trips into China were fixed around usd 22,000/23,000 pd. 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Post Panamax | Hui Xin 8 | 92.974 | 2012 | COSCO Dalian, China | 08/2022 | MAN- B&W | - | Region $ 22m | Undisclosed | Old sale, basis SS/DD passed & BWTS fitted |
 | Kamsarmax | Ocean Scallion | 82.215 | 2013 | Dalian, China | 12/2023 | MAN- B&W | - | $ 23,5m | Chinese | BWTS fitted |
 | Kamsarmax | Theresa Shandong | 82.000 | 2012 | Jiangsu, China | 08/2022 | MAN- B&W | - | Excess $ 22m | Greek |  |
 | Ultramax | Golden Cecilie | 60.263 | 2015 | JMU, Japan | 02/2025 | Wartsila | 4x30T | $ 31,5m | Chinese | BWTS fitted |
@@ -86,9 +87,12 @@ A number of Australian trips into China were fixed around usd 22,000/23,000 pd. 
 | Supramax | Neutrino | 58.612 | 2012 | Kawasaki, Japan | 10/2022 | MAN- B&W | 4x30,5T | Region $ 24m | Undisclosed |  |
 | Supramax | Merida | 56.670 | 2012 | Taizhou, China | 01/2026 | Mitsubishi | 4x30T | $ 19,75m | Undisclosed | BWTS fitted |
 | Handymax | Sea Rose | 45.700 | 1995 | Hashihama, Japan | 05/2025 | B&W | 4x30T | Low $ 6m | Chinese |  |
+| Handysize | Interlink Eternity | 39.094 | 2019 | Zhejiang, China | 09/2024 | MAN- B&W | 4x30,5T Der | $ 29,6m | Undisclosed | OHBS, BWTS fitted, Ice Class 1C |
 | Handysize | Venture Ocean | 38.947 | 2015 | Jiangmen, China | 10/2025 | MAN- B&W | 4x30,5T | $ 25m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Venture Team | 38.947 | 2015 | Jiangmen, China | 11/2025 | MAN- B&W | 4x30,5T | $ 25m | Undisclosed | OHBS, BWTS fitted |
+| Handysize | San Fortune | 35.366 | 1999 | Kanasashi Toyohashi, Japan | 07/2024 | Mitsubishi | 4x30,5T | $ 10m | Syrian |  |
 | Handysize | Yangtze Spirit | 35.169 | 2012 | Nanjing, China | 01/2027 | MAN- B&W | 4x30T | Low $ 17m | Undisclosed | BWTS fitted |
+| Handysize | Eleftherios T | 33.789 | 2013 | Samho, Korea | 05/2023 | MAN- B&W | 4x30T | $ 20m | Undisclosed | TC attached at 26.000 usd/pd till Sep'22 + 6months option |
 | Handysize | Sunrise | 29.828 | 2006 | Shikoku, Japan | 08/2022 | MAN- B&W | 4x30,5T | High $ 11m | Vietnamese |  |
 
 ## Page 4
@@ -97,10 +101,11 @@ A number of Australian trips into China were fixed around usd 22,000/23,000 pd. 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | Elandra Everest | 299.999 | 2020 | Hyundai, Korea | 01/2025 | MAN- B&W | $ 95m | Greek (Tsakos) | BWTS fitted, Scrubber fitted, Dely Sep'22 |
 | Aframax | Matterhorn Spirit | 114.834 | 2005 | Daewoo, Korea | 11/2025 | MAN- B&W | $ 24,75m | UAE based | Ice Class 1A |
 | Aframax | Godam | 113.553 | 2006 | Samsung, Korea | 05/2026 | MAN- B&W | $ 79,5m enbloc | Greek (United Maritime) |  |
-| Aframax | Mandala | 113.553 | 2006 | Samsung, Korea | 02/2026 | MAN- B&W | $ 79,5m | Greek (United |  |
-| LR2 | Timberwolf | 109.647 | 2008 | Dalian, China | 01/2023 | Wartsila | enbloc | Maritime) |  |
+| Aframax | Mandala | 113.553 | 2006 | Samsung, Korea | 02/2026 | MAN- B&W | $ 79,5m enbloc | Greek (United Maritime) |  |
+| LR2 | Timberwolf | 109.647 | 2008 | Dalian, China | 01/2023 | Wartsila | $ 79,5m enbloc | Greek (United Maritime) |  |
 | LR2 | Thunderbolt | 108.817 | 2008 | SWS, China | 08/2023 | MAN- B&W | $ 79,5m enbloc | Greek (United Maritime) |  |
 | MR | Elandra Blu | 50.695 | 2008 | Spp, Korea | 07/2023 | MAN- B&W | Mid $ 18m | Undisclosed | BWTS fitted |
 | MR | Elandra Corallo | 50.607 | 2008 | Spp, Korea | 10/2023 | MAN- B&W | Mid $ 18m | Undisclosed | BWTS fitted |
@@ -118,6 +123,7 @@ A number of Australian trips into China were fixed around usd 22,000/23,000 pd. 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | Xin Feng Shang Hai | 4.992 | 2005 | Hanjin, Korea | 11/2025 | B&W | - | $ 60m | Undisclosed | BWTS Fitted, Dely Sep'22 |
 | Feeder | AS Serafina | 1.713 | 2010 | CSBC, Taiwan | 06/2025 | MAN-B&W | 2x40T | $ 33m | French (CMA CGM) | Dely Sep'22 |
+| Feeder | Crystal Arrow | 1.020 | 2017 | Tsuneishi Zhoushan, China | 07/2027 | MAN-B&W | - | $ 27m | Undisclosed | BWTS Fitted |
 
 ## Page 5
 

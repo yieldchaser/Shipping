@@ -81,8 +81,8 @@ It was a quiet week for the Handymax/Handysize segment with limited reported act
 | Kamsarmax | Nord Andromeda | 82.251 | 2022 | Yamic, China | 01/2027 | MAN-B&W | - | $ 37,5m | Undisclosed | Scrubber fitted |
 | Panamax | Yarra | 78.184 | 2015 | Sasebo, Japan | 05/2030 | MAN-B&W | - | Mid $ 28m | Chinese |  |
 | Ultramax | Seacon Tokyo | 66.628 | 2023 | Tsuneishi Zhoushan, China | 04/2028 | MAN-B&W | 4x36T | $ 41,6m | Undisclosed |  |
-| Ultramax | Benjamin Oldendorff | 62.623 | 2020 | Oshima, Japan | 03/2030 | MAN-B&W | 4x30T | Low $ 37m | Bangladeshi | Scrubber fitted |
-| Ultramax | Britta Oldendorff | 62.623 | 2020 | Oshima, Japan | 04/2030 | MAN-B&W | 4x30T | Low $ 37m | (Meghna) | Scrubber fitted |
+| Ultramax | Benjamin Oldendorff | 62.623 | 2020 | Oshima, Japan | 03/2030 | MAN-B&W | 4x30T | Low $ 37m | Bangladeshi (Meghna) | Scrubber fitted |
+| Ultramax | Britta Oldendorff | 62.623 | 2020 | Oshima, Japan | 04/2030 | MAN-B&W | 4x30T | Low $ 37m | Bangladeshi (Meghna) | Scrubber fitted |
 | Ultramax | Amis Wisdom VI | 61.456 | 2011 | Shin Kasado, Japan | 09/2026 | MAN-B&W | 4x30,5T | rgn $ 22m | Undisclosed |  |
 | Supramax | Aegir Selmer | 55.874 | 2011 | IHI, Japan | 09/2026 | Wartsila | 4x35T | $ 16,2m | Undisclosed |  |
 | Supramax | United Halo | 55.848 | 2012 | IHI, Japan | 01/2027 | Wartsila | 4x30T | rgn $ 19m | Undisclosed |  |

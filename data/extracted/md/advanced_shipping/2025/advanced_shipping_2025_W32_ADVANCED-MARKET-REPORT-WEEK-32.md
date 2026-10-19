@@ -85,8 +85,8 @@ A generally quiet week for this segment. Continental trips into US East Coast we
 | Kamsarmax | Aquavita Trader | 81.112 | 2016 | Jiangsu, China | 02/2026 | MAN-B&W | - | $ 22m | Undisclosed |  |
 | Panamax | Gorgo | 76.498 | 2005 | Tsuneishi, Japan | 05/2030 | MAN-B&W | - | Low $ 9m | Chinese |  |
 | Ultramax | Belinda | 63.339 | 2016 | Jiangsu, China | 01/2026 | MAN-B&W | 4x36T | $ 84m enbloc | Singaporean |  |
-| Ultramax | Belatlantic | 63.318 | 2016 | Jiangsu, China | 05/2026 | MAN-B&W | 4x36T | $ 84m | Singaporean |  |
-| Ultramax | Belsouth | 63.297 | 2015 | Jiangsu, China | 09/2025 | MAN-B&W | 4x36T | enbloc | Singaporean |  |
+| Ultramax | Belatlantic | 63.318 | 2016 | Jiangsu, China | 05/2026 | MAN-B&W | 4x36T | $ 84m enbloc | Singaporean |  |
+| Ultramax | Belsouth | 63.297 | 2015 | Jiangsu, China | 09/2025 | MAN-B&W | 4x36T | $ 84m enbloc | Singaporean |  |
 | Ultramax | Belmont | 63.263 | 2016 | Jiangsu, China | 02/2026 | MAN-B&W | 4x36T | $ 84m enbloc | Singaporean |  |
 | Ultramax | IVS Atsugi | 62.661 | 2020 | Oshima, Japan | 12/2025 | MAN-B&W | 4x30T | $ 29,2m | Greek (Eastmed) |  |
 | Supramax | Alora | 58.723 | 2012 | Kawasaki, Japan | 02/2028 | MAN-B&W | 4x30,5T | $ 16,1m | Undisclosed |  |

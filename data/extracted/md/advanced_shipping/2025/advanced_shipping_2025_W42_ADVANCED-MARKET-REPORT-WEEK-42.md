@@ -84,6 +84,7 @@ Trips from Red Sea into China-Japan range were reported at the level of usd 14,0
 | Kamsarmax | Generosity | 83.480 | 2011 | Sanoyas, Japan | 05/2028 | MAN-B&W | - | $ 17m | Greek |  |
 | Panamax | Tasik Sakura | 76.334 | 2011 | Oshima, Japan | 01/2026 | MAN-B&W | - | Low-Mid $ 15m | Greek |  |
 | Panamax | Andria | 75.375 | 2006 | Universal, Japan | 02/2029 | MAN-B&W | - | High $ 9m | Chinese |  |
+| Ultramax | Athena | 61.501 | 2011 | Oshima, Japan | 01/2026 | MAN-B&W | 4x30T | $ 17,75m | Undisclosed | T/C attached till Dec'25-Feb'26 at 14.750 usd/pd |
 | Supramax | Jin Mao | 56.469 | 2012 | Jiangsu, China | 05/2027 | MAN-B&W | 4x36T | $ 13,1m | Chinese |  |
 | Supramax | Stonewell Pioneer | 56.533 | 2014 | Taizhou, China | 06/2029 | MAN-B&W | 4x35T | Mid $ 14m | Chinese |  |
 | Supramax | JW Flora | 53.054 | 2002 | Oshima, Japan | 07/2027 | B&W | 4x30T | $ 6,8m | Undisclosed | DD 10/2025 |

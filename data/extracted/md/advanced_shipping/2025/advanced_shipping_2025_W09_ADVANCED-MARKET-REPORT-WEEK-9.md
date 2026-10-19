@@ -102,6 +102,7 @@ Trips from Japan into East Coast South America were fixed around usd 9,000/10,00
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Feeder | Alejandrina | 1.758 | 2008 | Hyundai Samho, Korea | 09/2028 | MAN-B&W | 2x45T Cr, 1x25T Cr | $ 17m | Chinese |  |
 | Feeder | Aydogan | 1.730 | 1999 | Szczecinska, Poland | 11/2029 | Sulzer | 3x40T | $ 8,9m | Chinese |  |
 
 ## Page 4

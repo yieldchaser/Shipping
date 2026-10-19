@@ -79,12 +79,18 @@ A number of Indian trips into US Gulf were fixed around usd 38,000/39,000 pd. Tr
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLOC | NSS Dynamic | 233.584 | 2002 | Imabari, Japan | 06/2022 | B&W | - | $ 18,5m | Chinese | Dely Dec'21- Jan'22 |
+| Capesize | DS Charme | 176.000 | 2011 | Jiangsu, China | 06/2026 | MAN- B&W | - | $ 28m | Greek (NGM) | Incl. Index linked T/C at 89% of 5TC until Jul'22 |
+| Kamsarmax | SDTR Irene | 84.800 | 2022 | Dalian, China |  | MAN- B&W | - | $ 36,03m | Chinese (Taizhou Jiahang) | Auction sale, Dely Jun'22 |
 | Kamsarmax | Vijayanagar | 82.167 | 2010 | Tsuneishi, Japan | 02/2025 | MAN- B&W | - | $ 24m | Undisclosed | BWTS fitted |
 | Kamsarmax | Seacon Shanghai | 82.000 | 2019 | Guangzhou, China | 06/2024 | MAN- B&W | - | $ 35m | Undisclosed | BWTS fitted, Tier III |
 | Panamax | Shao Shan 6 | 75.700 | 2012 | Guangzhou, China | 06/2022 | MAN- B&W | - | $ 20,9m | Chinese | Auction sale, BWTS fitted |
-| Ultramax | Nautical Runa | 63.577 | 2015 | Jiangsu, China | 09/2025 | MAN- B&W | 4x36T | $ 55m | Undisclosed | BWTS fitted, |
-| Ultramax | Nautical Lucia | 63.548 | 2016 | Jiangsu, China | 01/2026 | MAN- B&W | 4x36T | enbloc | Undisclosed | Scrubber fitted |
+| Panamax | Navios Altair I | 74.475 | 2006 | Hudong- Zhonghua, China | 12/2021 | MAN- B&W | - | $ 13,9m | Chinese |  |
+| Ultramax | Nautical Runa | 63.577 | 2015 | Jiangsu, China | 09/2025 | MAN- B&W | 4x36T | $ 55m enbloc | Undisclosed | BWTS fitted, Scrubber fitted |
+| Ultramax | Nautical Lucia | 63.548 | 2016 | Jiangsu, China | 01/2026 | MAN- B&W | 4x36T | $ 55m enbloc | Undisclosed | BWTS fitted, Scrubber fitted |
 | Ultramax | Nord Summit | 61.649 | 2012 | Oshima, Japan | 08/2022 | MAN- B&W | 4x30T | $ 22,5m | Chinese | BWTS fitted, Scrubber fitted |
+| Ultramax | Ivs Phoenix | 60.477 | 2019 | Mitsui, Japan | 06/2024 | MAN- B&W | 4x30T | $ 25m | Japanese | BWTS fitted, Incl. BBBack with p.options |
+| Supramax | New Pride | 58.761 | 2009 | Tsuneishi Cebu, Philippines | 01/2022 | MAN- B&W | 4x30T | $ 18,8m | Undisclosed | BWTS fitted, Dely Dec'21 |
 | Supramax | Prabhu Gopal | 56.060 | 2003 | Mitsui, Japan | 03/2023 | MAN- B&W | 4x30T | $ 13,3m | Undisclosed |  |
 | Supramax | Bao Ella | 53.468 | 2006 | Imabari, Japan | 05/2026 | MAN- B&W | 4x30,5T | $ 14,6m | Undisclosed | BWTS fitted |
 | Handymax | Josco Suzhou | 49.416 | 2004 | NACKS, China | 02/2024 | B&W | 4x25T | $ 13,5m | Undisclosed | Auction sale |
@@ -102,8 +108,8 @@ A number of Indian trips into US Gulf were fixed around usd 38,000/39,000 pd. Tr
 | MR | Hellas Explorer | 51.246 | 2008 | Stx, Korea | 01/2023 | MAN- B&W | $ 12,8m | Greek |  |
 | MR | Ocean Sunrise | 50.353 | 2004 | Shina, Korea | 11/2024 | B&W | High $ 6m | Undisclosed | Auction sale, BWTS fitted |
 | MR | Marvin Independence | 49.988 | 2018 | Hyundai Mipo, Korea | 08/2023 | Wartsila | $ 17,1m | Greek | Auction sale |
-| MR | Stena Important | 49.731 | 2015 | Comec, China | 10/2025 | MAN- B&W | Undisclosed | Chinese | BWTS fitted, Sale & |
-| MR | Stena Image | 49.719 | 2015 | Guangzhou, China | 04/2025 | MAN- B&W | Undisclosed | Chinese | Sale & Leaseback |
+| MR | Stena Important | 49.731 | 2015 | Comec, China | 10/2025 | MAN- B&W | Undisclosed | Chinese | BWTS fitted, Sale & Leaseback |
+| MR | Stena Image | 49.719 | 2015 | Guangzhou, China | 04/2025 | MAN- B&W | Undisclosed | Chinese | BWTS fitted, Sale & Leaseback |
 | MR | Amelia Pacific | 45.811 | 2006 | Shin Kurushima, Japan | 11/2021 | Mitsubishi | Low $ 8m | Undisclosed |  |
 | Chemical/Oil Products | Lutsen | 12.910 | 2006 | Samho, Korea | 01/2026 | MAN- B&W | $ 6,25m | Undisclosed | BWTS fitted, prompt delivery |
 
@@ -113,10 +119,11 @@ A number of Indian trips into US Gulf were fixed around usd 38,000/39,000 pd. Tr
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | E. R. Denmark | 5.762 | 2002 | Samsung, Korea | 07/2022 | MAN-B&W | - | $ 43,5m | Undisclosed |  |
 | Panamax | MP The Brady | 5.060 | 2005 | Hanjin, Korea | 06/2025 | MAN-B&W | - | $ 242m enbloc | Swiss (MSC) |  |
-| Panamax | MP The Edelman | 5.060 | 2005 | Hanjin, Korea | 01/2025 | B&W | - | $ 242m | Swiss (MSC) |  |
-| Panamax | MP The Gronk | 5.060 | 2005 | Hanjin, Korea | 04/2025 | B&W | - | enbloc | Swiss (MSC) |  |
+| Panamax | MP The Edelman | 5.060 | 2005 | Hanjin, Korea | 01/2025 | B&W | - | $ 242m enbloc | Swiss (MSC) |  |
+| Panamax | MP The Gronk | 5.060 | 2005 | Hanjin, Korea | 04/2025 | B&W | - | $ 242m enbloc | Swiss (MSC) |  |
 | Panamax | MP The Belichick | 5.041 | 2006 | Hyundai, Korea | 03/2025 | MAN-B&W | - | $ 242m enbloc | Swiss (MSC) |  |
 | Feeder | San Antonio | 1.819 | 2008 | Hyundai Mipo, Korea | 02/2023 | MAN-B&W | 3x45T | $ 32,5m | Undisclosed |  |
+| Feeder | Feeder 1 | 1.750 | 2021 | Cosco, China | 02/2026 | MAN-B&W | - | $ 39m | Singapore based (Sea Consortium) |  |
 | Feeder | Acacia Rei | 1.740 | 2010 | Guangzhou, China | 04/2025 | MAN-B&W | 2x45T | $ 32,5m | Chinese |  |
 
 ### General Cargo

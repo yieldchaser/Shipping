@@ -85,6 +85,7 @@ A generally quiet week for this segment. West Mediterranean trips into East Medi
 | Kamsarmax | Istria | 81.699 | 2013 | Wuhu, China | 11/2028 | MAN-B&W | - | Rgn $ 17m | Greek |  |
 | Ultramax | Nord Bering | 61.186 | 2015 | Tadotsu, Japan | 09/2025 | MAN-B&W | 4x30,7T | $ 23,2m | Undisclosed |  |
 | Supramax | Ci Yun Shan | 56.687 | 2010 | CSI, China | 11/2025 | MAN-B&W | 4x30T | $ 11,5m | Undisclosed |  |
+| Supramax | Moana Baq | 56.625 | 2012 | Qingshan, China | 06/2027 | MAN-B&W | 4x30T | $ 13,25m | Malaysian (Lianson Fleet Group) |  |
 | Handysize | Sea Sapphire | 32.550 | 2010 | Zhejiang, China | 03/2030 | MAN-B&W | 4x30T | $ 8,5m | Undisclosed |  |
 
 ### Tankers

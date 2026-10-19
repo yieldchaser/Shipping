@@ -460,6 +460,28 @@
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf",
       "extra_json": "{\"issue_date\": \"2025-02-07\", \"report_week\": \"6\", \"source_file\": \"advanced_shipping_2025_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf\", \"raw_price\": \"$ 20m\"}"
+    },
+    {
+      "issue": "2025-02-07",
+      "report_week": "6",
+      "section": "Tankers",
+      "page": "3",
+      "NAME": "Bow Oceanic",
+      "TYPE": "Chemical/Oil Products",
+      "DWT": "17,460",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "1997",
+      "YARD": "Kvaerner, Norway",
+      "M_E": "MaK",
+      "GEAR": "",
+      "PRICE": "$ 6,5m",
+      "PRICE_USD_MILL": 6.5,
+      "BUYERS": "Chinese",
+      "SS": "07/2027",
+      "COMMENTS": "St St, Ice Class 1C, DD 07/2025",
+      "source_file": "advanced_shipping_2025_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf",
+      "extra_json": "{\"issue_date\": \"2025-02-07\", \"report_week\": \"6\", \"source_file\": \"advanced_shipping_2025_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf\", \"raw_price\": \"$ 6,5m\"}"
     }
   ],
   "newbuilding": [

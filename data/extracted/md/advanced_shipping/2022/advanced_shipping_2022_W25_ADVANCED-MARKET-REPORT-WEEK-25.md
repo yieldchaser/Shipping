@@ -83,14 +83,19 @@ A number of Mediterranean trips into US Gulf-Caribbean-North Coast South America
 | Post Panamax | Clemens Oldendorff | 92.759 | 2012 | COSCO, China | 01/2027 | MAN- B&W | - | $ 21,75m | UAE |  |
 | Kamsarmax | Majestic Sky | 81.949 | 2014 | Tadotsu, Japan | 07/2022 | MAN- B&W | - | $ 32,5m | Greek | BWTS fitted |
 | Panamax | Orient Beauty | 76.598 | 2005 | Imabari, Japan | 05/2025 | MAN- B&W | - | $ 17,25m | Indonesian | BWTS fitted |
+| Panamax | Tina IV | 75.187 | 2009 | Hudong- Zhonghua, China | 04/2024 | MAN- B&W | - | High $ 16m | Undisclosed | BWTS fitted |
 | Panamax | Jal Shakti | 69.925 | 1995 | Sanoyas, Japan | 11/2023 | Sulzer | 4x30T | $ 7,5m | Chinese | Geared |
 | Ultramax | Triton Swan | 61.457 | 2012 | Iwagi, Japan | 11/2025 | MAN- B&W | 4x30,5T | Undisclosed | HK based | Delivered |
+| Supramax | Sagarjeet | 58.079 | 2009 | Tsuneishi Zhoushan, China | 05/2024 | MAN- B&W | 4x30T | $ 18,4m | Chinese |  |
 | Supramax | Sunny Horizon | 56.686 | 2012 | Xiamen, China | 06/2022 | MAN- B&W | 4x30T | $ 17,42m | Undisclosed | Auction sale |
+| Supramax | Cardinal | 55.408 | 2004 | Oshima, Japan | 07/2024 | MAN- B&W | 4x30T | High $ 15m | Chinese | BWTS fitted, DD 09/2022, Dely Jul-Aug'22 |
 | Supramax | Bao Wealth | 53.591 | 2005 | Yangzhou, China | 05/2025 | MAN- B&W | 4x35T | $ 14,8m | Undisclosed |  |
 | Supramax | Emilia | 53.098 | 2002 | Oshima, Japan | 06/2025 | B&W | 4x30T | $ 13,9m | Undisclosed |  |
 | Supramax | Seven Lady | 51.241 | 2009 | Imabari, Japan | 11/2024 | MAN- B&W | 4x30,5T | $ 22,5m | Far Eastern | BWTS fitted |
 | Supramax | Vicjour Ace | 50.209 | 2001 | Mitsui, Japan | 05/2026 | B&W | 4x30T | $ 13,3m | Undisclosed | BWTS fitted |
+| Handysize | Team Hope | 37.196 | 2012 | Hyundai Mipo, Korea | 02/2027 | MAN- B&W | 4x30T | $ 19,85m | Turkish | Old sale |
 | Handysize | CL Antwerp | 33.687 | 2010 | Samjin, China | 04/2025 | MAN- B&W | 4x35T | $ 16,5m | Undisclosed | BWTS fitted |
+| Handysize | Super Valentina | 33.382 | 2013 | Shin Kurushima, Japan | 02/2023 | Mitsubishi | 4x30T | Region $ 22m | Undisclosed | OHBS |
 
 ## Page 4
 
@@ -100,15 +105,18 @@ A number of Mediterranean trips into US Gulf-Caribbean-North Coast South America
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Koho I | 301.045 | 2002 | IHI, Japan | 11/2022 | Sulzer | $ 29m | Chinese | BWTS fitted |
 | Suezmax | Storviken | 152.013 | 2006 | Samsung, Korea | 02/2026 | MAN- B&W | $ 23,5m | Greek |  |
-| Aframax | Forties | 113.782 | 2005 | Samsung, Korea | 09/2025 | B&W | $ 45m | Undisclosed | BWTS fitted, Scrubber fitted |
-| Aframax | Tartan | 113.782 | 2005 | Samsung, Korea | 04/2025 | B&W | enbloc | Undisclosed | Scrubber fitted, Ice Class 1A |
+| Aframax | Carlton | 115.635 | 2004 | Samsung, Korea | 10/2024 | MAN- B&W | $ 22m | Chinese | BWTS fitted, Scrubber fitted, Ice Class 1A |
+| Aframax | Forties | 113.782 | 2005 | Samsung, Korea | 09/2025 | B&W | $ 45m enbloc | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1A |
+| Aframax | Tartan | 113.782 | 2005 | Samsung, Korea | 04/2025 | B&W | $ 45m enbloc | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1A |
 | Aframax | Angelica Schulte | 106.433 | 2005 | Universal, Japan | 04/2025 | Sulzer | Region $ 19,5m | Undisclosed | BWTS fitted |
+| Aframax | Maran Sagitta | 105.071 | 2009 | Hyundai, Korea | 09/2024 | MAN- B&W | $ 27,6m | Greek (Performance Shipping) | BWTS fitted, basis DD passed |
 | MR | Celsius Richmond | 50.083 | 2010 | Onomichi, Japan | 09/2025 | MAN- B&W | Excess $ 19m | Turkish | BWTS fitted |
 | MR | Daisy M | 49.999 | 2008 | Guangzhou, China | 09/2023 | MAN- B&W | $ 15,1m | Greek (Aerio Shipmanagement) |  |
 | MR | HY Cedar | 49.600 | 2023 | Guangzhou, China |  | MAN- B&W | $ 152m enbloc | US based (JP Morgan) | BWTS fitted |
-| MR | HY Ginkgo | 49.600 | 2022 | Guangzhou, China |  | MAN- B&W | $ 152m | US based | BWTS fitted |
-| MR | HY Oak | 49.600 | 2023 | Guangzhou, China |  | MAN- B&W | enbloc | (JP Morgan) | BWTS fitted |
+| MR | HY Ginkgo | 49.600 | 2022 | Guangzhou, China |  | MAN- B&W | $ 152m enbloc | US based (JP Morgan) | BWTS fitted |
+| MR | HY Oak | 49.600 | 2023 | Guangzhou, China |  | MAN- B&W | $ 152m enbloc | US based (JP Morgan) | BWTS fitted |
 | MR | HY Spruce | 49.600 | 2022 | Guangzhou, China |  | MAN- B&W | $ 152m enbloc | US based (JP Morgan) | BWTS fitted |
+| MR | Seacrown I | 40.039 | 2003 | Hyundai Mipo, Korea | 01/2023 | B&W | $ 8,5m | Peruvian (Transgas Shipping Lines) |  |
 | MR | Hafnia Victoria | 40.016 | 2007 | Saiki, Japan | 06/2022 | Mitsubishi | $ 12,5m | Undisclosed |  |
 | Chemical/Oil Products | Tiger Spring | 9.380 | 2009 | Dongfang, China | 11/2024 | MaK | $ 12,5m |  |  |
 | Chemical/Oil Products | Tiger Summer | 9.118 | 2009 | Dongfang, China | 11/2024 | MaK | $ 12,5m | Turkish |  |
@@ -121,10 +129,12 @@ A number of Mediterranean trips into US Gulf-Caribbean-North Coast South America
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Panamax | Zim Constanza | 4.250 | 2010 | Jiangsu, China | 08/2025 | MAN-B&W | - | $ 75m | Swiss based |  |
-| Panamax | Zim Tarragona | 4.250 | 2010 | Jiangsu, China | 08/2025 | MAN-B&W | - | $ 75m | (MSC) |  |
+| Panamax | Zim Constanza | 4.250 | 2010 | Jiangsu, China | 08/2025 | MAN-B&W | - | $ 75m | Swiss based (MSC) |  |
+| Panamax | Zim Tarragona | 4.250 | 2010 | Jiangsu, China | 08/2025 | MAN-B&W | - | $ 75m | Swiss based (MSC) |  |
 | Sub Panamax | Irenes Rainbow | 2.824 | 2006 | Hyundai Mipo, Korea | 04/2026 | MAN-B&W | - | $ 45m | French (CMA CGM) |  |
 | Feeder | Mount Kellett | 1.730 | 2017 | Zhejiang, China | 07/2022 | MAN-B&W | 2x45T | $ 40,3m | Undisclosed |  |
+| Feeder | Guangzhou Huangpu H2415 | 1.500 | 2023 | Guangzhou, China |  | MAN-B&W | - | $ 31,5m | Asian | Resales |
+| Feeder | Guangzhou Huangpu H2416 | 1.500 | 2023 | Guangzhou, China |  | MAN-B&W | - | $ 31,5m | Asian | Resales |
 
 ## Page 6
 

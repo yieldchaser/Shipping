@@ -100,10 +100,10 @@ South East Asian trips into China with steels were fixed around usd 18,000/20,00
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | Nissos Kea | 300.323 | 2022 | Hyundai, Korea | 03/2027 | MAN- B&W | $ 72,75m | Maltese (CMB |  |
-| VLCC | Nissos Nikouria | 299.240 | 2022 | Hyundai, Korea |  | MAN- B&W | $ 72,75m | Financial) |  |
-| VLCC | DHT Falcon | 298.971 | 2006 | NACKS, China | 09/2026 | MAN- B&W | $ 38m | Undisclosed | BWTS fitted, Scrubber fitted |
-| VLCC | DHT Hawk | 298.923 | 2007 | NACKS, China | 07/2022 | MAN- B&W | $ 40m | Undisclosed | Scrubber fitted, Dely Q2 2022 |
+| VLCC | Nissos Kea | 300.323 | 2022 | Hyundai, Korea | 03/2027 | MAN- B&W | $ 72,75m | Maltese (CMB Financial) |  |
+| VLCC | Nissos Nikouria | 299.240 | 2022 | Hyundai, Korea |  | MAN- B&W | $ 72,75m | Maltese (CMB Financial) |  |
+| VLCC | DHT Falcon | 298.971 | 2006 | NACKS, China | 09/2026 | MAN- B&W | $ 38m | Undisclosed | BWTS fitted, Scrubber fitted, Dely Q2 2022 |
+| VLCC | DHT Hawk | 298.923 | 2007 | NACKS, China | 07/2022 | MAN- B&W | $ 40m | Undisclosed | BWTS fitted, Scrubber fitted, Dely Q2 2022 |
 | Suezmax | Cap Pierre | 159.083 | 2004 | Samsung, Korea | 01/2024 | B&W | $ 21,5m | Greek (Metrostar Management) | Old sale |
 | Aframax | Helga Spirit | 115.515 | 2005 | Samsung, Korea | 01/2025 | B&W | $ 17-17,5m | Undisclosed | Old sale |
 | LR2 | Almi Star | 114.880 | 2005 | Daewoo, Korea | 08/2025 | B&W | Low-Mid $ 18m | Undisclosed | BWTS fitted |
@@ -120,8 +120,8 @@ South East Asian trips into China with steels were fixed around usd 18,000/20,00
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Xin Feng Yang Pu | 5.089 | 2006 | Hanjin, Korea | 05/2022 | MAN-B&W | - | $ 70m | Undisclosed |  |
-| Panamax | Seaspan Melbourne | 4.253 | 2005 | Samsung, Korea | 08/2025 | B&W | - | $ 18m | Greek | Incl. T/C until Mar'25 |
-| Panamax | Seaspan Manila | 4.248 | 2007 | Samsung, Korea | 05/2022 | MAN-B&W | - | $ 19m | (Euroseas) | Incl. T/C until Feb'25 |
+| Panamax | Seaspan Melbourne | 4.253 | 2005 | Samsung, Korea | 08/2025 | B&W | - | $ 18m | Greek (Euroseas) | Incl. T/C until Mar'25 |
+| Panamax | Seaspan Manila | 4.248 | 2007 | Samsung, Korea | 05/2022 | MAN-B&W | - | $ 19m | Greek (Euroseas) | Incl. T/C until Feb'25 |
 | Feeder | Tokata | 1.080 | 2006 | Yangzhou, China | 12/2026 | MAN | 2x45T | Undisclosed | Undisclosed |  |
 
 ## Page 5

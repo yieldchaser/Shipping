@@ -81,8 +81,8 @@ USG and ECSA trips were mainly reported in the $18,500/23,000 range. SW Pass tri
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kamsarmax | Spirit of Ho-Ping | 82.152 | 2011 | Tsuneishi, Japan | 12/2028 | MAN-B&W | - | $ 19,4m | Greek |  |
 | Kamsarmax | CCS Orchid | 81.966 | 2017 | Jiangsu, China | 01/2027 | MAN-B&W | - | $ 27,24m | Undisclosed | Online bidding |
-| Ultramax | Casda | 64.012 | 2018 | Tsuneishi Cebu, Philippines | 09/2028 | MAN-B&W | 4x30T | $ 61m | Undisclosed | DD 09/2026 |
-| Ultramax | Gemma | 63.878 | 2017 | Tsuneishi Zhoushan, China | 11/2027 | MAN-B&W | 4x30T | enbloc | Undisclosed |  |
+| Ultramax | Casda | 64.012 | 2018 | Tsuneishi Cebu, Philippines | 09/2028 | MAN-B&W | 4x30T | $ 61m enbloc | Undisclosed | DD 09/2026 |
+| Ultramax | Gemma | 63.878 | 2017 | Tsuneishi Zhoushan, China | 11/2027 | MAN-B&W | 4x30T | $ 61m enbloc | Undisclosed |  |
 | Ultramax | Sinop | 63.200 | 2013 | Yangzhou, China | 01/2028 | MAN-B&W | 4x35T | $ 22,5m | Greek | T/C till Mar'27 at 104% of BSI |
 | Ultramax | Clover | 61.377 | 2013 | Iwagi, Japan | 11/2026 | MAN-B&W | 4x30T | rgn $ 21m | Undisclosed | Scrubber fitted |
 | Supramax | Somnath | 55.707 | 2005 | Oshima, Japan | 02/2029 | B&W | 4x30T | $ 9m | Chinese |  |

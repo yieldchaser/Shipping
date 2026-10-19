@@ -79,10 +79,13 @@ South American trips into Mediterranean were reported at the level of usd 34,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kamsarmax | Atlantic Legend | 83.685 | 2009 | Sanoyas, Japan | 05/2026 | MAN- B&W | - | $ 18m | Undisclosed | BWTS fitted, T/C attached until Apr-Jul'22 at 16.500 usd/pd |
+| Supramax | Nikolas III | 58.081 | 2009 | Tsuneishi Zhoushan, China | 06/2024 | MAN- B&W | 4x30T | $ 17,5m | Chinese |  |
 | Supramax | Belocean | 58.018 | 2011 | Yangzhou, China | 03/2026 | MAN- B&W | 4x35T | $ 19,6m | German (Oskar Wehr) | BWTS fitted |
 | Handysize | Wuhu | 39.182 | 2014 | Chengxi, China | 01/2024 | Wartsila | 4x30T | $ 21m | Undisclosed | DD 01/2022 |
-| Handysize | Nordrubicon | 37.985 | 2016 | Zhejiang, China | 01/2026 | MAN- B&W | 4x30T | $ 21,4m | UAE (Tomini |  |
-| Handysize | Nordcolorado | 37.976 | 2016 | Zhejiang, China | 08/2026 | MAN- B&W | 4x30T | $ 21,4m | Shipping) |  |
+| Handysize | Nordrubicon | 37.985 | 2016 | Zhejiang, China | 01/2026 | MAN- B&W | 4x30T | $ 21,4m | UAE (Tomini Shipping) |  |
+| Handysize | Nordcolorado | 37.976 | 2016 | Zhejiang, China | 08/2026 | MAN- B&W | 4x30T | $ 21,4m | UAE (Tomini Shipping) |  |
+| Handysize | UBC Sacramento | 31.773 | 2001 | Saiki, Japan |  | Mitsubishi | 4x30T | $ 10,5m | Undisclosed | OHBS, SS/DD passed, BWTS fitted |
 | Handysize | UBC Sydney | 31.759 | 2001 | Saiki, Japan | 08/2026 | Mitsubishi | 4x30T | $ 10,5m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Universe Kaisa | 28.200 | 2004 | Imabari, Japan | 02/2024 | B&W | 4x30T | $ 8,2m | Undisclosed | DD 01/2022 |
 | Handysize | DD Vanguard | 26.479 | 2007 | Sungdong, Korea | 08/2022 | MAN- B&W | 4x30T | $ 12m | Turkish |  |
@@ -97,7 +100,9 @@ South American trips into Mediterranean were reported at the level of usd 34,000
 | VLCC | Hyundai Samho 8052 | 299.580 | 2022 | Hyundai Samho, Korea |  | MAN- B&W | $ 97,5m | Greek | Resale, Scrubber fitted |
 | VLCC | Hyundai Samho 8053 | 299.580 | 2022 | Hyundai Samho, Korea |  | MAN- B&W | $ 97,5m | Greek | Resale, Scrubber fitted |
 | Suezmax | Voyager | 149.991 | 2002 | Sasebo, Japan | 01/2022 | B&W | $ 13,6m | Undisclosed |  |
-| LR2 | STI Gallantry | 109.999 | 2016 | Guangzhou, China | 06/2026 | MAN- B&W | $ 35m | Norwegian | BWTS fitted, Scrubber fitted, 10years BBB to |
+| LR2 | Prosky | 115.643 | 2019 | Daehan, Korea | 01/2024 | MAN- B&W | $ 52m | Greek (Neda Maritime) | Balance of T/C to Shell 6+6 months with profit share |
+| LR2 | STI Gallantry | 109.999 | 2016 | Guangzhou, China | 06/2026 | MAN- B&W | $ 35m | Norwegian (Ocean Yield) | BWTS fitted, Scrubber fitted, 10years BBB to sellers with p.obligation at the end |
+| LR2 | STI Guard | 109.999 | 2016 | Guangzhou, China | 08/2026 | MAN- B&W | $ 35m | Norwegian (Ocean Yield) | BWTS fitted, Scrubber fitted, 10years BBB to sellers with p.obligation at the end |
 | Aframax | Guanabara | 106.045 | 2007 | Tsuneishi, Japan | 06/2022 | MAN- B&W | $ 16,5m | Greek (Castor Maritime) |  |
 | MR | Targale | 52.660 | 2007 | 3 Maj, Croatia | 10/2025 | Wartsila | $ 14,2m | Undisclosed |  |
 | MR | PS Houston | 50.922 | 2008 | Stx, Korea | 01/2023 | MAN- B&W | Mid-High $ 11m | Undisclosed | Ice Class 1A |

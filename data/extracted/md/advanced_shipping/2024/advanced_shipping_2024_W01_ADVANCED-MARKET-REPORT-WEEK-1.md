@@ -81,8 +81,8 @@ Continental trips into West Africa were fixed around usd 10,000/12,000 pd. West 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Highland Park | 174.093 | 2006 | SWS, China | 03/2026 | MAN-B&W | - | Low $ 15m | Chinese | BWTS fitted, DD 06/2024 |
 | Ultramax | Star Bovarius | 61.602 | 2015 | DACKS, China | 10/2025 | MAN-B&W | 4x30T | Low $ 25m | Greek | BWTS fitted |
-| Ultramax | Xing He Hai | 61.473 | 2016 | DACKS, China | 03/2026 | MAN-B&W | 4x30T | $ 52m | Chinese | BWTS fitted |
-| Ultramax | Xing Hao Hai | 61.452 | 2016 | DACKS, China | 03/2026 | MAN-B&W | 4x30T | enbloc | Chinese | BWTS fitted, DD 03/2024 |
+| Ultramax | Xing He Hai | 61.473 | 2016 | DACKS, China | 03/2026 | MAN-B&W | 4x30T | $ 52m enbloc | Chinese | BWTS fitted |
+| Ultramax | Xing Hao Hai | 61.452 | 2016 | DACKS, China | 03/2026 | MAN-B&W | 4x30T | $ 52m enbloc | Chinese | BWTS fitted, DD 03/2024 |
 | Supramax | Ikan Parang | 56.618 | 2011 | Taizhou, China | 12/2025 | Mitsubishi | 4x30T | High $ 11m | Undisclosed | BWTS fitted |
 | Supramax | Richmond Pearl | 53.100 | 2009 | Yangzhou, China | 06/2024 | MAN-B&W | 4x35T | $ 10,8m | Undisclosed | BWTS fitted |
 | Handysize | Agali | 28.202 | 2013 | Imabari, Japan | 07/2028 | MAN-B&W | 4x30,5T | Low $ 13m | Undisclosed | BWTS fitted |
@@ -91,8 +91,8 @@ Continental trips into West Africa were fixed around usd 10,000/12,000 pd. West 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR1 | Alpine Pembroke | 74.602 | 2010 | Hyundai Mipo, Korea | 11/2025 | MAN-B&W | $ 65m enbloc | Turkish (Advantage | BWTS fitted |
-| LR1 | Alpine Pioneer | 74.552 | 2011 | Hyundai Mipo, Korea | 08/2025 | MAN-B&W | $ 65m enbloc | Tankers) | BWTS fitted |
+| LR1 | Alpine Pembroke | 74.602 | 2010 | Hyundai Mipo, Korea | 11/2025 | MAN-B&W | $ 65m enbloc | Turkish (Advantage Tankers) | BWTS fitted |
+| LR1 | Alpine Pioneer | 74.552 | 2011 | Hyundai Mipo, Korea | 08/2025 | MAN-B&W | $ 65m enbloc | Turkish (Advantage Tankers) | BWTS fitted |
 
 ### Gas
 

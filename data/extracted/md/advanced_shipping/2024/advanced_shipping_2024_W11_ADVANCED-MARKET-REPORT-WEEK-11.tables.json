@@ -167,13 +167,13 @@
       "YARD": "Sungdong, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "-",
-      "PRICE": "$ 47m",
+      "PRICE": "$ 47m enbloc",
       "PRICE_USD_MILL": 47.0,
-      "BUYERS": "Greek (Golden",
+      "BUYERS": "Greek (Golden Union)",
       "SS": "09/2024",
       "COMMENTS": "BWTS fitted, Scrubber fitted",
       "source_file": "advanced_shipping_2024_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf",
-      "extra_json": "{\"issue_date\": \"2024-03-15\", \"report_week\": \"11\", \"source_file\": \"advanced_shipping_2024_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf\", \"raw_price\": \"$ 47m\"}"
+      "extra_json": "{\"issue_date\": \"2024-03-15\", \"report_week\": \"11\", \"source_file\": \"advanced_shipping_2024_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf\", \"raw_price\": \"$ 47m enbloc\"}"
     },
     {
       "issue": "2024-03-15",
@@ -189,13 +189,13 @@
       "YARD": "Sungdong, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "-",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
-      "BUYERS": "Union)",
+      "PRICE": "$ 47m enbloc",
+      "PRICE_USD_MILL": 47.0,
+      "BUYERS": "Greek (Golden Union)",
       "SS": "01/2025",
       "COMMENTS": "BWTS fitted, Scrubber fitted",
       "source_file": "advanced_shipping_2024_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf",
-      "extra_json": "{\"issue_date\": \"2024-03-15\", \"report_week\": \"11\", \"source_file\": \"advanced_shipping_2024_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2024-03-15\", \"report_week\": \"11\", \"source_file\": \"advanced_shipping_2024_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf\", \"raw_price\": \"$ 47m enbloc\"}"
     },
     {
       "issue": "2024-03-15",

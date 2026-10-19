@@ -91,8 +91,8 @@ A generally quiet week for this segment. A number of trips from Persian Gulf int
 | Handymax | Santorini Island | 48.549 | 2007 | Hakodate, Japan | 03/2025 | Mitsubishi | 4x30T | High $ 12m | Undisclosed | BWTS fitted |
 | Handysize | Tawaki | 39.855 | 2014 | Chengxi, China | 05/2029 | Wartsila | 4x36T | $ 19,8m | Undisclosed | BWTS fitted |
 | Handysize | Daydream Believer | 37.114 | 2012 | Onomichi, Japan | 03/2027 | Mitsubishi | 4x30T | $ 17,6m | Undisclosed | OHBS, BWTS fitted |
-| Handysize | Persenk | 30.361 | 2010 | Chengxi, China | 07/2025 | MAN-B&W | 4x30T | Excess $ 21m | Undisclosed | BWTS fitted |
-| Handysize | Belmeken | 30.347 | 2010 | Chengxi, China | 04/2025 | MAN-B&W | 4x30T | $ 21m enbloc | Undisclosed | BWTS fitted |
+| Handysize | Persenk | 30.361 | 2010 | Chengxi, China | 07/2025 | MAN-B&W | 4x30T | Excess $ 21m enbloc | Undisclosed | BWTS fitted |
+| Handysize | Belmeken | 30.347 | 2010 | Chengxi, China | 04/2025 | MAN-B&W | 4x30T | Excess $ 21m enbloc | Undisclosed | BWTS fitted |
 
 ### Tankers
 
@@ -100,8 +100,8 @@ A generally quiet week for this segment. A number of trips from Persian Gulf int
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Marjan | 302.977 | 2002 | Samsung, Korea | 02/2027 | Sulzer | $ 33,5m | UAE based | BWTS fitted |
 | VLCC | SM White Whale1 | 300.759 | 2019 | Daewoo, Korea | 12/2024 | MAN-B&W | $ 116m | Saudi Arabian (Bahri) | Scrubber fitted |
-| VLCC | SM White Whale2 | 300.759 | 2019 | Daewoo, Korea | 12/2024 | MAN-B&W | $ 116m | Saudi Arabian | Scrubber fitted |
-| VLCC | SM Venus 1 | 299.696 | 2019 | Hyundai Samho, Korea | 09/2024 | MAN-B&W | $ 116m | (Bahri) | Scrubber fitted |
+| VLCC | SM White Whale2 | 300.759 | 2019 | Daewoo, Korea | 12/2024 | MAN-B&W | $ 116m | Saudi Arabian (Bahri) | Scrubber fitted |
+| VLCC | SM Venus 1 | 299.696 | 2019 | Hyundai Samho, Korea | 09/2024 | MAN-B&W | $ 116m | Saudi Arabian (Bahri) | Scrubber fitted |
 | VLCC | SM Venus2 | 299.696 | 2020 | Hyundai Samho, Korea | 01/2025 | MAN-B&W | $ 116m | Saudi Arabian (Bahri) | Scrubber fitted |
 
 ## Page 4
@@ -113,6 +113,7 @@ A generally quiet week for this segment. A number of trips from Persian Gulf int
 | LR2 | Nippon Princess | 105.392 | 2008 | Sumitomo, Japan | 11/2028 | MAN-B&W | Region $ 38m | Undisclosed | BWTS fitted |
 | LR1 | UOG Aeolos | 73.427 | 2009 | New Times, China | 08/2024 | MAN-B&W | $ 28,8m | Undisclosed |  |
 | MR | Bachata | 50.179 | 2008 | Sls, Korea | 06/2028 | MAN-B&W | $ 27,5m | Undisclosed | BWTS fitted |
+| MR | Adamas I | 50.122 | 2009 | Spp, Korea |  | MAN-B&W | $ 27,5m | Undisclosed | BWTS fitted, basis SS/DD passed |
 | MR | Dee4 Larch | 49.737 | 2016 | Hyundai-Vinashin, Vietnam | 08/2026 | MAN-B&W | $ 41m | Danish | BWTS fitted |
 
 ### Containers
@@ -125,13 +126,16 @@ A generally quiet week for this segment. A number of trips from Persian Gulf int
 | Panamax | Northern Guild | 4.294 | 2009 | Hyundai Mipo, Korea | 01/2029 | MAN-B&W | - | $ 26m | French (CMA CGM) |  |
 | Feeder | Nordocelot | 1.756 | 2014 | Zhejiang, China | 09/2024 | MAN-B&W | - | High $ 15m | German |  |
 | Feeder | Josita B | 1.730 | 2014 | Zhejiang, China | 11/2024 | MAN-B&W | - | Low $ 16m | German (Reederei Nord) |  |
+| Feeder | M Wilmington | 1.708 | 2010 | Imabari, Japan | 02/2025 | MAN-B&W | 3x40T | $ 13,7m | Indonesian (Tanto Intim Line) | BWTS fitted |
 | Feeder | Da Bao | 1.708 | 2008 | Imabari, Japan | 06/2027 | MAN-B&W | - | Low $ 10m | European | BWTS fitted |
+| Feeder | Ren Jian 5 | 1.510 | 1997 | Shin Kurushima, Japan | 05/2027 | B&W | - | High $ 4m | Chinese |  |
 
 ### General Cargo
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | General Cargo | Chipol Baoan | 33.217 | 2009 | Zhejiang, China | 10/2024 | MAN-B&W | 4x60T | $ 10,8m | German | Old sale, BWTS fitted |
+| General Cargo | Sevgi | 28.164 | 2012 | Huanghai, China | 02/2027 | MAN-B&W | 2x200T | $ 16,2m | Undisclosed | Auction sale, Ice Class 1C, 1.746 Teu |
 
 ## Page 5
 

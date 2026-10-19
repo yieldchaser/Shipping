@@ -92,9 +92,11 @@ A number of East Coast South American trips into US Gulf- US East Coast were rep
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | Good News | 319.430 | 2002 | Samho, Korea | 03/2026 | B&W | $ 43m | Undisclosed | BWTS fitted, prompt dely Fujairah |
 | VLCC | Maria P. Lemos | 319.191 | 2018 | Hyundai, Korea | 10/2023 | MAN-B&W | $ 94,5m | DHT Holdings | Scrubber fitted, Dely Q3 2023 |
 | VLCC | Yio | 302.481 | 2005 | Mitsubishi, Japan | 08/2025 | Mitsubishi | Region $ 54m | Undisclosed | DD 11/2023 |
 | Suezmax | Front Njord | 156.760 | 2010 | Jiangsu, China | 08/2025 | MAN-B&W | $ 44,5m | Undisclosed | DD 11/2023 |
+| Suezmax | Jal Fighter | 146.427 | 2006 | Universal, Japan | 09/2026 | MAN-B&W | $ 43m | Undisclosed | Delivered, BWTS fitted, Scrubber fitted, Ice Class 1A |
 | Aframax | Dakota Strength | 115.878 | 2007 | Samsung, Korea | 11/2027 | MAN-B&W | Region $ 40m | Undisclosed | BWTS fitted |
 | Aframax | Ashahda | 105.221 | 2004 | Sumitomo, Japan | 02/2024 | Sulzer | Excess $ 30m | Middle Eastern |  |
 | Aframax | Adafera | 105.215 | 2004 | Sumitomo, Japan | 01/2024 | Sulzer | Excess $ 30m | Middle Eastern |  |
@@ -106,6 +108,10 @@ A number of East Coast South American trips into US Gulf- US East Coast were rep
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MR | Usma | 52.684 | 2007 | 3 Maj, Croatia | 09/2025 | Wartsila | $ 90m enbloc | Undisclosed | BWTS fitted, Ice Class 1B, DD 09/2023 |
+| MR | Targale | 52.660 | 2007 | 3 Maj, Croatia | 10/2025 | Wartsila | $ 90m enbloc | Undisclosed | BWTS fitted, Ice Class 1B, DD 09/2023 |
+| MR | Piltene | 52.648 | 2007 | 3 Maj, Croatia | 05/2025 | Wartsila | $ 90m enbloc | Undisclosed | BWTS fitted, Ice Class 1B, DD 09/2023 |
+| MR | Ugale | 52.642 | 2007 | 3 Maj, Croatia | 07/2025 | Wartsila | $ 90m enbloc | Undisclosed | BWTS fitted, Ice Class 1B, DD 10/2023 |
 | MR | Celsius Riga | 46.151 | 2010 | Hyundai Mipo, Korea | 05/2025 | MAN-B&W | $ 28,5m | USA based |  |
 | MR | Leon Hermes | 40.165 | 2008 | Sls, Korea | 12/2023 | MAN-B&W | Undisclosed | Italian (Augusta Due) |  |
 | Chemical/Oil Products | Fairchem Kiso | 21.167 | 2011 | Usuki, Japan | 02/2026 | MAN-B&W | $ 22m | Chinese | St St, BWTS fitted |

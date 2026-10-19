@@ -91,6 +91,7 @@ In the Pacific, regional departures from South East Asia and North China to Japa
 | Supramax | Placid Sea | 55.604 | 2004 | NACKS, China | 07/2029 | MAN-B&W | 4x30,5T | xs $ 10m | Undisclosed |  |
 | Supramax | Plate Queen | 55.649 | 2007 | Oshima, Japan | 08/2031 | MAN-B&W | 4x30T | Low $ 15m | Undisclosed |  |
 | Supramax | New Horizon | 55.445 | 2010 | Kawasaki, Japan | 03/2030 | MAN-B&W | 4x30,5T | $ 18,3m | Undisclosed |  |
+| Supramax | Prometheus 1 | 55.415 | 2012 | Hyundai- Vinashin, Vietnam | 09/2027 | MAN-B&W | 4x30T | $ 19m | Greek |  |
 | Handysize | Doris | 34.505 | 2011 | Spp, Korea | 02/2031 | MAN-B&W | 4x35T | $ 13m | Greek |  |
 | Handysize | Propel Progress | 30.848 | 1997 | Minami-Nippon, Japan | 03/2027 | Mitsubishi | 4x30T | $ 4,2m | Undisclosed |  |
 

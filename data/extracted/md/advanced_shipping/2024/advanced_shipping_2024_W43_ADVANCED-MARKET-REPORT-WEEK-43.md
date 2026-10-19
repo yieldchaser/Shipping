@@ -79,10 +79,11 @@ Trips from China via Indonesia into Continent were reported at the level of usd 
 | Panamax | Scorpio WQ | 76.759 | 2004 | Sasebo, Japan | 02/2029 | B&W | - | Region $ 10,6m | Undisclosed | BWTS fitted |
 | Panamax | HC Victory | 75.804 | 2005 | Sanoyas, Japan | 06/2025 | B&W | - | $ 10,5m | Undisclosed | BWTS fitted |
 | Ultramax | Ocean Ambitious | 63.577 | 2016 | CSI, China | 11/2026 | MAN-B&W | 4x30T | $ 25,5m | Undisclosed | BWTS fitted |
-| Ultramax | Alwine Oldendorff | 61.090 | 2014 | JMU, Japan | 12/2024 | Wartsila | 4x30T | $ 50,5m | Greek | BWTS fitted, Scrubber fitted |
-| Ultramax | August Oldendorff | 61.090 | 2015 | JMU, Japan | 01/2025 | Wartsila | 4x30T | enbloc | Greek | BWTS fitted, Scrubber fitted |
+| Ultramax | Alwine Oldendorff | 61.090 | 2014 | JMU, Japan | 12/2024 | Wartsila | 4x30T | $ 50,5m enbloc | Greek | BWTS fitted, Scrubber fitted |
+| Ultramax | August Oldendorff | 61.090 | 2015 | JMU, Japan | 01/2025 | Wartsila | 4x30T | $ 50,5m enbloc | Greek | BWTS fitted, Scrubber fitted |
 | Supramax | Virono Pride | 58.761 | 2009 | Tsuneishi Cebu, Philippines | 01/2027 | MAN-B&W | 4x30T | Low-Mid $ 15m | Chinese | BWTS fitted |
 | Supramax | Spar Spica | 53.565 | 2005 | Chengxi, China | 01/2025 | MAN-B&W | 4x36T | Region $ 10,5m | Undisclosed | BWTS fitted |
+| Handysize | Interlink Nobility | 40.098 | 2017 | Taizhou, China | 06/2027 | MAN-B&W | 4x30T | $ 25,25m | Turkish | OHBS, BWTS fitted, Ice Class 1C |
 | Handysize | Ken Mei | 29.825 | 2003 | Shikoku, Japan | 09/2028 | B&W | 4x30,5T | $ 7,3m | Undisclosed | BWTS fitted |
 | Handysize | Ken Toku | 29.678 | 2005 | Shikoku, Japan | 08/2025 | MAN-B&W | 4x30,5T | Mid $ 8m | Undisclosed | BWTS fitted |
 

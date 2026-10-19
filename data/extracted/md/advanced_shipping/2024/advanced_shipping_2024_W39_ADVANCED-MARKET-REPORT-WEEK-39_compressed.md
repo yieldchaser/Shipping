@@ -106,16 +106,20 @@ Trips from China into Indonesia were reported at the level of usd 14,000/16,000 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Advantage Virtue | 296.481 | 2009 | Bohai, China | 02/2029 | MAN-B&W | $ 51m | Chinese | BWTS fitted |
 | LR2 | STI Lily | 109.994 | 2019 | New Times, China | 01/2029 | MAN-B&W | $ 73,5m | Indonesian (Pertamina) | BWTS fitted, Scrubber fitted |
+| LR2 | Alkinoos | 109.900 | 2019 | SWS, China | 02/2029 | MAN-B&W | $ 74m | Indonesian (Pertamina) | BWTS fitted, Scrubber fitted, Ice Class 1A |
 | MR | Sea La Vie | 49.999 | 2007 | Hyundai Mipo, Korea | 08/2027 | MAN-B&W | $ 24,85m | Greek | Delivered, BWTS fitted |
 | MR | Elijah | 45.672 | 2007 | Bohai, China | 01/2027 | Wartsila | Region $ 21m | Nigerian | BWTS fitted, Ice Strengthened |
+| Chemical/Oil Products | Songa Peace | 19.992 | 2009 | Usuki, Japan | 11/2024 | MAN-B&W | $ 23,8m | Korean (Heung-A) | St St, BWTS fitted, Scrubber fitted |
 | Chemical/Oil Products | Horin Trader | 19.855 | 2015 | Usuki, Japan | 05/2025 | MAN-B&W | High $ 31m | Korean (Woojin) | St St |
 
 ### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Panamax | Spirit of Hong Kong | 4.255 | 2010 | Hyundai Samho, Korea | 04/2025 | Wartsila | - | Excess $ 30m | Korean (SM Line Corp) |  |
 | Panamax | Northern Dependant | 3.534 | 2008 | Shanghai, China | 02/2028 | MAN-B&W | - | $ 31m | Swiss based (MSC) |  |
 | Sub Panamax | Manila Voyager | 2.113 | 1997 | Daewoo, Korea | 07/2026 | B&W | 4x40T | $ 8m | Chinese |  |
+| Feeder | Turkon Istanbul | 1.849 | 2008 | Sedef Tuzla, Turkey | 03/2028 | MAN-B&W | - | $ 16,5m | Greek (Castor Maritime) | 4mo T/C back at 29.000 usd/pd |
 | Feeder | Melanesian Chief | 1.118 | 2008 | Jinling, China | 09/2027 | MAN | 2x45T | $ 9,4m | USA |  |
 
 ### Gas

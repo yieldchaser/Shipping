@@ -80,8 +80,8 @@ Trips from China into India were fixed around usd 10,000/12,000 pd. Continental 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLOC | NSU Inspire | 250.599 | 2011 | Namura & Sasebo, Japan | 03/2026 | MAN-B&W | - | $ 37m | Singaporean (Berge Bulk) | Scrubber fitted |
-| Capesize | Cape Heron | 177.656 | 2005 | Mitsui, Japan | 02/2025 | B&W | - | $ 30m | Chinese |  |
-| Capesize | Cape Hawk | 176.996 | 2006 | Namura & Sasebo, Japan | 10/2026 | MAN-B&W | - | enbloc | Chinese | DD 03/2025 |
+| Capesize | Cape Heron | 177.656 | 2005 | Mitsui, Japan | 02/2025 | B&W | - | $ 30m enbloc | Chinese |  |
+| Capesize | Cape Hawk | 176.996 | 2006 | Namura & Sasebo, Japan | 10/2026 | MAN-B&W | - | $ 30m enbloc | Chinese | DD 03/2025 |
 | Post Panamax | Alcmene | 93.193 | 2010 | Jiangsu, China | 01/2030 | MAN-B&W | - | $ 11,9m | Undisclosed | Scrubber fitted |
 | Post Panamax | Kambanos | 87.328 | 2010 | Hudong- Zhonghua, China | 06/2025 | MAN-B&W | - | $ 11,8m | Undisclosed |  |
 | Kamsarmax | Sentosa Spirit | 81.911 | 2020 | Tsuneishi, Japan | 02/2025 | MAN-B&W | - | $ 32m | Greek |  |
@@ -121,8 +121,8 @@ Trips from China into India were fixed around usd 10,000/12,000 pd. Continental 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sub Panamax | Cape Monterey | 2.190 | 2015 | Guangzhou, China | 04/2025 | MAN-B&W | 3x45T | $ 35m | French (CMA CGM) |  |
 | Feeder | Delphis Bothnia | 1.924 | 2016 | Hanjin, Korea | 08/2026 | MAN-B&W | - | $ 120m enbloc | French (CMA CGM) | Ice Class 1A |
-| Feeder | Delphis Finland | 1.924 | 2016 | Hanjin, Korea | 11/2026 | MAN-B&W | - | $ 120m | French (CMA | Ice Class 1A |
-| Feeder | Delphis Gdansk | 1.924 | 2017 | Hanjin, Korea | 01/2027 | MAN-B&W | - | enbloc | CGM) | Ice Class 1A |
+| Feeder | Delphis Finland | 1.924 | 2016 | Hanjin, Korea | 11/2026 | MAN-B&W | - | $ 120m enbloc | French (CMA CGM) | Ice Class 1A |
+| Feeder | Delphis Gdansk | 1.924 | 2017 | Hanjin, Korea | 01/2027 | MAN-B&W | - | $ 120m enbloc | French (CMA CGM) | Ice Class 1A |
 | Feeder | Delphis Riga | 1.924 | 2017 | Hanjin, Korea | 03/2027 | MAN-B&W | - | $ 120m enbloc | French (CMA CGM) | Ice Class 1A |
 
 ## Page 5

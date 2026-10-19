@@ -79,6 +79,7 @@ A generally quiet week for this segment. A number of trips Australian trips into
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Densa Cobra | 180.491 | 2011 | Stx, Korea | 11/2026 | MAN- B&W | - | $ 27,25m | Undisclosed | BWTS fitted, Incl. T/C until max May'24 |
 | Mini Cape | FPMC B 103 | 106.668 | 2011 | Stx Dalian, China | 11/2026 | MAN- B&W | - | $ 24m | Far Eastern | BWTS fitted, Scrubber fitted |
 | Post Panamax | Claire Z | 93.313 | 2009 | Jiangsu, China | 09/2024 | MAN- B&W | - | Low-Mid $ 16m | Chinese | BWTS fitted |
 | Kamsarmax | Sweet Lydia | 79.469 | 2012 | Jinhai, China | 06/2027 | MAN- B&W | - | Mid-High $ 17m | Undisclosed | BWTS fitted |
@@ -88,7 +89,9 @@ A generally quiet week for this segment. A number of trips Australian trips into
 | Ultramax | Bulk Electra | 66.604 | 2015 | Mitsui, Japan | 12/2025 | MAN- B&W | 4x30T | Low $ 27m | Undisclosed | BWTS fitted, Wide beam |
 | Ultramax | Vokaria | 63.614 | 2020 | Cosco, China | 03/2025 | MAN- B&W | 4x30T | Low-Mid $ 30's | Korean | BWTS fitted, Scrubber fitted |
 | Ultramax | Federal Iris | 63.498 | 2016 | Shin Kasado, Japan | 08/2026 | MAN- B&W | 4x30,7T | Region $ 30m | Undisclosed | BWTS fitted |
+| Ultramax | Mount Athos | 63.155 | 2014 | Jiangsu, China | 02/2024 | MAN- B&W | 4x30T | Region $ 25m | UAE based | BWTS fitted, Incl. T/C until end 2024 |
 | Supramax | Simge Aksoy | 53.393 | 2006 | Chengxi, China | 08/2026 | MAN- B&W | 4x36T | Region $ 11m | Undisclosed |  |
+| Handysize | Maestro Diamond | 36.920 | 2015 | Saiki, Japan | 05/2025 | MAN- B&W | 4x36T | $ 22,5m | Turkish (Devbulk Shipping) | OHBS, DD 05/2023 |
 | Handysize | Ithaca Stockholm | 35.033 | 2010 | Nantong, China | 07/2025 | MAN- B&W | 4x30T | $ 11m | Indian | BWTS fitted |
 | Handysize | Mardinik | 33.918 | 2011 | 21st Century, Korea | 11/2025 | MAN- B&W | 4x30,7T | $ 14,4m | Syrian | BWTS fitted |
 
@@ -99,8 +102,10 @@ A generally quiet week for this segment. A number of trips Australian trips into
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Suezmax | Classic | 159.195 | 2005 | Hyundai, Korea | 10/2025 | MAN- B&W | $ 36,75m | Undisclosed | BWTS fitted |
+| LR2 | PS Pisa | 108.835 | 2010 | Hudong- Zhonghua, China | 03/2025 | MAN- B&W | $ 35,6m | Middle Eastern | BWTS fitted |
 | LR1 | Lumen N | 63.599 | 2008 | Stx, Korea | 08/2023 | MAN- B&W | $ 22,25m | Chinese | Ice Class 1A |
 | MR | Atlantica Brave | 51.246 | 2008 | Stx, Korea | 07/2023 | MAN- B&W | Region $ 22m | Turkish |  |
+| MR | High Trust | 49.990 | 2016 | Hyundai- Vinashin, Vietnam | 01/2026 | MAN- B&W | $ 22,2m | Italian (D'Amico) | p.option declared |
 | MR | Symphony | 46.248 | 2004 | Stx, Korea | 01/2024 | MAN- B&W | $ 17,85m | Undisclosed |  |
 | MR | Splendour Chiltern | 44.999 | 1999 | Halla, Korea | 10/2023 | MAN- B&W | $ 14,2m | UAE | Ice Class 1C |
 | Chemical/Oil Products | Ayane | 16.971 | 2010 | Turkter, Turkey | 03/2024 | MAN | Region $ 15m | Undisclosed | Ice Class 1A |
@@ -111,8 +116,9 @@ A generally quiet week for this segment. A number of trips Australian trips into
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Northern Magnum | 6.732 | 2003 | Daewoo, Korea | 11/2023 | B&W | - | Undisclosed | Swiss based (MSC) |  |
-| Panamax | Northern Promotion | 4.616 | 2010 | Daewoo, Korea | 01/2025 | MAN- B&W | - | $ 28m | Italian (Ignazio |  |
-| Panamax | Northern Priority | 4.616 | 2009 | Daewoo, Korea | 10/2024 | MAN- B&W | - | $ 28m | (Ignazio Messina) |  |
+| Panamax | Northern Promotion | 4.616 | 2010 | Daewoo, Korea | 01/2025 | MAN- B&W | - | $ 28m | Italian (Ignazio Messina) |  |
+| Panamax | Northern Priority | 4.616 | 2009 | Daewoo, Korea | 10/2024 | MAN- B&W | - | $ 28m | Italian (Ignazio Messina) |  |
+| Feeder | Stonewell Brilliance | 1.684 | 1994 | Schichau Seebeckwerft, Germany | 12/2024 | B&W | - | $ 3,45m | Turkish |  |
 | Feeder | Ingrid | 698 | 2008 | Fujian, China | 05/2023 | MaK | - | $ 5,8m | Turkish | Ice Class 1A |
 
 ## Page 5
@@ -123,8 +129,8 @@ A generally quiet week for this segment. A number of trips Australian trips into
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | Sasaki 719 | 7.200 | 2023 | Sasaki, Japan |  | MAN-B&W | 7.350 | Low $ 26m | Indonesian (Samudera) | Resale |
 | LPG | Eco Czar | 5.158 | 2015 | Kitanihon, Japan | 08/2025 | MAN-B&W | 4.900 | $ 17,1m | Cyprus based (Toro Corp) |  |
-| LPG | Eco Nemesis | 5.155 | 2015 | Kitanihon, Japan | 09/2025 | MAN-B&W | 4.900 | $ 17,1m | Cyprus based |  |
-| LPG | Eco Enigma | 4.753 | 2015 | Murakami, Japan | 04/2025 | MAN-B&W | 4.923 | $ 16,7m | (Toro Corp) |  |
+| LPG | Eco Nemesis | 5.155 | 2015 | Kitanihon, Japan | 09/2025 | MAN-B&W | 4.900 | $ 17,1m | Cyprus based (Toro Corp) |  |
+| LPG | Eco Enigma | 4.753 | 2015 | Murakami, Japan | 04/2025 | MAN-B&W | 4.923 | $ 16,7m | Cyprus based (Toro Corp) |  |
 | LPG | Eco Texiana | 4.743 | 2020 | Murakami, Japan | 02/2025 | MAN-B&W | 4.929 | $ 19,8m | Cyprus based (Toro Corp) |  |
 
 ## Page 6

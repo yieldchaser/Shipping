@@ -79,18 +79,23 @@ A number of Inter-Mediterranean trips via Black Sea were reported at the level o
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLOC | Stella Ivy | 262.000 | 2015 | Qingdao, China | 11/2025 | Wartsila | - | $ 58m | Singapore based | BWTS fitted, Incl. T/C |
-| VLOC | Stella Bella | 250.380 | 2016 | Qingdao, China | 10/2026 | Wartsila | - | $ 60m | (Eastern Pacific) | BWTS fitted, Incl. T/C |
+| VLOC | Stella Ivy | 262.000 | 2015 | Qingdao, China | 11/2025 | Wartsila | - | $ 58m | Singapore based (Eastern Pacific) | BWTS fitted, Incl. T/C |
+| VLOC | Stella Bella | 250.380 | 2016 | Qingdao, China | 10/2026 | Wartsila | - | $ 60m | Singapore based (Eastern Pacific) | BWTS fitted, Incl. T/C |
 | Newcastlemax | Baogang Glory | 207.826 | 2008 | Universal, Japan | 11/2023 | MAN- B&W | - | $ 31,5m | Chinese | 1year BBHP |
 | Capesize | Cape Garland | 178.394 | 2009 | Mitsui, Japan | 01/2024 | MAN- B&W | - | $ 32,5m | Chinese | BWTS fitted |
 | Capesize | ASL Mars | 175.085 | 2004 | SWS, China | 08/2024 | MAN- B&W | - | $ 16,2m | Chinese | Dely Q1 2022 |
 | Capesize | Bluemoon | 170.089 | 2002 | IHI, Japan | 12/2021 | Sulzer | - | $ 15,75m | Undisclosed |  |
-| Kamsarmax | Golden Endurer | 79.457 | 2011 | Jinhai, China | 01/2026 | MAN- B&W | - | $ 37,2m | Undisclosed | BWTS fitted |
-| Panamax | Golden Opportunity | 75.825 | 2008 | Jiangsu, China | 08/2023 | MAN- B&W | - | enbloc | Undisclosed | Ice class 1C |
+| Kamsarmax | Ibis Wind | 82.937 | 2013 | Sanoyas, Japan | 07/2025 | MAN- B&W | - | $ 28,5m | Undisclosed | BWTS fitted, Dely End 2021- Start 2022 |
+| Kamsarmax | Zephyrus | 81.800 | 2019 | Jiangsu, China | 03/2024 | MAN- B&W | - | $ 36,5m | Hong Kong (Chellaram Shipping) | BWTS fitted, Scrubber ready, Dely Nov- Dec'21 |
+| Kamsarmax | Golden Endurer | 79.457 | 2011 | Jinhai, China | 01/2026 | MAN- B&W | - | $ 37,2m enbloc | Undisclosed | BWTS fitted |
+| Panamax | Golden Opportunity | 75.825 | 2008 | Jiangsu, China | 08/2023 | MAN- B&W | - | $ 37,2m enbloc | Undisclosed | Ice class 1C |
 | Supramax | HTC Delta | 56.533 | 2014 | Taizhou, China | 06/2024 | MAN- B&W | 4x35T | $ 21,5m | Undisclosed |  |
 | Supramax | Silver Eagle | 50.337 | 2003 | Jiangnan, China | 12/2023 | B&W | 4x36T | $ 13,5m | Chinese | DD 11/2021 |
+| Handysize | Xing Zhi Hai | 34.443 | 2015 | Namura & Sasebo, Japan | 12/2025 | MAN- B&W | 4x30T | $ 22m | Undisclosed | BWTS fitted, Dely Jan'22 |
 | Handysize | Oriana C | 34.417 | 2012 | Spp, Korea | 02/2022 | MAN- B&W | 4x35T | Mid-High $ 16m | Greek | Dely Nov'21 |
+| Handysize | ES Venus | 34.358 | 2014 | Namura & Sasebo, Japan | 04/2024 | Mitsubishi | 4x30T | $ 20,5m | Undisclosed |  |
 | Handysize | Mel Pride | 32.260 | 1999 | Kanda, Japan | 01/2022 | Mitsubishi | 4x30T | $ 9m | Undisclosed | OHBS |
+| Handysize | Gail | 29.966 | 2011 | New Century, China | 10/2021 | MAN- B&W | 4x30T | $ 13m | Chinese |  |
 
 ## Page 4
 
@@ -103,11 +108,12 @@ A number of Inter-Mediterranean trips via Black Sea were reported at the level o
 | LR1 | Stena Primorsk | 65.125 | 2006 | Brodosplit, Croatia | 05/2026 | MAN- B&W | Region $ 114m enbloc | Undisclosed | Incl. T/C back |
 | LR1 | Stena Paris | 65.125 | 2005 | Brodosplit, Croatia | 12/2025 | MAN- B&W | Region $ 114m enbloc | Undisclosed | Incl. T/C back |
 | LR1 | Stena Provence | 65.125 | 2006 | Brodosplit, Croatia | 03/2026 | MAN- B&W | Region $ 114m enbloc | Undisclosed | Incl. T/C back |
-| LR1 | Stena President | 65.112 | 2007 | Brodosplit, Croatia | 09/2022 | MAN- B&W | Region $ 114m | Undisclosed | Incl T/C back |
-| LR1 | Stena Performance | 65.065 | 2006 | Brodosplit, Croatia | 06/2026 | MAN- B&W | $ 114m enbloc | Undisclosed | Incl. T/C back |
+| LR1 | Stena President | 65.112 | 2007 | Brodosplit, Croatia | 09/2022 | MAN- B&W | Region $ 114m enbloc | Undisclosed | Incl. T/C back |
+| LR1 | Stena Performance | 65.065 | 2006 | Brodosplit, Croatia | 06/2026 | MAN- B&W | Region $ 114m enbloc | Undisclosed | Incl. T/C back |
 | LR1 | Stena Premium | 65.055 | 2011 | Brodosplit, Croatia | 06/2026 | MAN- B&W | Region $ 114m enbloc | Undisclosed | Incl. T/C back |
 | LR1 | Stena Polaris | 64.917 | 2010 | Brodosplit, Croatia | 02/2025 | MAN- B&W | Region $ 114m enbloc | Undisclosed | Incl. T/C back |
 | LR1 | Stena Penguin | 64.834 | 2010 | Brodosplit, Croatia | 10/2025 | MAN- B&W | Region $ 114m enbloc | Undisclosed | Incl. T/C back |
+| MR | Ivy Express | 51.442 | 2009 | Stx, Korea | 02/2024 | MAN- B&W | $ 15m | Greek (Spring Marine Management) |  |
 | MR | Grazia | 50.213 | 2010 | Guangzhou, China | 11/2025 | MAN- B&W | $ 14,25m | Undisclosed | BWTS fitted |
 | MR | Nord Highlander | 37.145 | 2007 | Hyundai Mipo, Korea | 01/2022 | MAN- B&W | Mid-High $ 8m | Undisclosed | BWTS included but not fitted |
 | MR | Ocean Dignity | 34.663 | 2006 | Dalian, China | 10/2021 | MAN- B&W | Undisclosed | Greek |  |

@@ -87,8 +87,12 @@ A number of Indonesian trips into Japan with metcoke were reported at the level 
 | Ultramax | Asia Ruby IV | 62.982 | 2014 | Jinling, China | 07/2024 | MAN- B&W | 4x36T | High $ 23m | Undisclosed | BWTS fitted |
 | Ultramax | Nord Peak | 61.649 | 2011 | Oshima, Japan | 03/2026 | MAN- B&W | 4x30T | $ 22,5m | Hong Kong | BWTS fitted |
 | Supramax | Atlantic Ensenada | 55.814 | 2006 | Kawasaki, Japan | 04/2023 | MAN- B&W | 4x30,5T | $ 15,7m | Bangladeshi |  |
+| Handysize | Nereus Island | 37.920 | 2014 | Imabari, Japan | 04/2024 | MAN- B&W | 4x30,5T | $ 21m | Hong Kong (Pacific Basin) |  |
+| Handysize | Glorious Saiki | 37.154 | 2012 | Saiki, Japan | 07/2022 | Mitsubishi | 4x30T | $ 17m | HK based (Taylor Maritime) | OHBS |
+| Handysize | Praslin | 36.782 | 2011 | Hyundai- Vinashin, Vietnam |  | MAN- B&W | 4x30T | $ 17m | HK based (Taylor Maritime) |  |
 | Handysize | Pacific Bulker | 36.309 | 2015 | Shikoku, Japan | 10/2024 | MAN- B&W | 4x30,5T | $ 21m | Undisclosed |  |
 | Handysize | Four Diamond | 34.059 | 2011 | Pha Rung, Vietnam | 10/2021 | MAN- B&W | 4x30T | Mid-High $ 12m | UAE |  |
+| Handysize | Four Emerald | 33.992 | 2013 | Pha Rung, Vietnam | 04/2023 | MAN- B&W | 4x30T | Low $ 15m | Turkish (Deval Shipping) | BWTS fitted |
 | Handysize | Orient Glory | 32.419 | 2013 | Samho, Korea | 05/2023 | MAN- B&W | 4x30T | $ 15,5m | Greek (Loadline) | BWTS fitted |
 | Handysize | Athos | 30.618 | 2007 | Cochin, India | 11/2025 | MAN- B&W | 4x30T | $ 11,1m | Undisclosed |  |
 | Small | Maximus-1 | 10.632 | 2004 | Zhejiang, China | 11/2021 | Daihatsu | - | $ 4,5m | Undisclosed |  |
@@ -100,16 +104,16 @@ A number of Indonesian trips into Japan with metcoke were reported at the level 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aframax | Seafalcon | 112.661 | 2002 | Samho, Korea | 02/2022 | B&W | $ 13,5m | Chinese |  |
-| LR1 | Cabo Kamui | 74.214 | 2016 | Sungdong, Korea | 11/2021 | MAN- B&W | $ 31,5m | Chilean | BWTS fitted |
-| LR1 | Cabo Misaki | 74.177 | 2017 | Sungdong, Korea | 03/2022 | MAN- B&W | $ 31,5m | (Ultratank) | BWTS fitted |
+| LR1 | Cabo Kamui | 74.214 | 2016 | Sungdong, Korea | 11/2021 | MAN- B&W | $ 31,5m | Chilean (Ultratank) | BWTS fitted |
+| LR1 | Cabo Misaki | 74.177 | 2017 | Sungdong, Korea | 03/2022 | MAN- B&W | $ 31,5m | Chilean (Ultratank) | BWTS fitted |
 | LR1 | Seaways Jademar | 69.708 | 2002 | Daewoo, Korea | 03/2022 | B&W | Undisclosed | Middle Eastern |  |
 | LR1 | Seaways Goldmar | 69.684 | 2002 | Daewoo, Korea | 05/2022 | B&W | Undisclosed | Middle Eastern |  |
 | LR1 | Seaways Hellas | 69.636 | 2003 | Daewoo, Korea | 11/2023 | B&W | Undisclosed | Middle Eastern | Delivered |
 | LR1 | Seaways Rubymar | 69.599 | 2002 | Daewoo, Korea | 04/2022 | B&W | Undisclosed | Middle Eastern |  |
 | MR | Atlantic Breeze | 49.999 | 2007 | Hyundai Mipo, Korea | 08/2022 | MAN- B&W | $ 10,62m | US based (Ridgebury Tankers) | Old sales |
 | MR | Atlantic Gemini | 49.999 | 2008 | Hyundai Mipo, Korea | 01/2023 | MAN- B&W | $ 10,62m | US based (Ridgebury Tankers) | Old sales |
-| MR | Assos | 47.872 | 2006 | Hyundai Mipo, Korea | 08/2021 | MAN- B&W | $ 8,95m | US based (Ridgebury | Old sales |
-| MR | Anemos I | 47.823 | 2007 | Hyundai Mipo, Korea | 04/2022 | MAN- B&W | $ 10,18m | (Ridgebury Tankers) | Old sales |
+| MR | Assos | 47.872 | 2006 | Hyundai Mipo, Korea | 08/2021 | MAN- B&W | $ 8,95m | US based (Ridgebury Tankers) | Old sales |
+| MR | Anemos I | 47.823 | 2007 | Hyundai Mipo, Korea | 04/2022 | MAN- B&W | $ 10,18m | US based (Ridgebury Tankers) | Old sales |
 | MR | Akeraios | 47.782 | 2007 | Hyundai Mipo, Korea | 09/2021 | MAN- B&W | $ 9,98m | US based (Ridgebury Tankers) | Old sales |
 | MR | Citrus | 46.938 | 2008 | Hyundai Mipo, Korea | 06/2023 | MAN- B&W | $ 11,01m | US based (Ridgebury Tankers) | Old sales |
 | Chemical/Oil Products | Bochem Antwerp | 19.806 | 2011 | Kitanihon, Japan | 11/2021 | Mitsubishi | $ 15,6m | Vietnamese |  |

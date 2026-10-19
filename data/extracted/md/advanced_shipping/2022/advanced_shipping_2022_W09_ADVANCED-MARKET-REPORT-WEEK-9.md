@@ -82,12 +82,16 @@ A number of Indian trips into South East Asia with steels were fixed around usd 
 | Post Panamax | Double Fortune | 95.790 | 2010 | Imabari, Japan | 09/2025 | MAN- B&W | - | Region $ 21m | Chinese |  |
 | Post Panamax | Jin Jia | 93.077 | 2012 | Jiangsu, China | 05/2022 | MAN- B&W | - | $ 14,5m | Undisclosed | Auction sale |
 | Post Panamax | Corona Infinity | 88.233 | 2002 | Imabari, Japan | 10/2022 | B&W | - | High $ 12m | Chinese |  |
+| Supramax | SITC Taishan | 58.107 | 2010 | Tsuneishi Zhoushan, China | 04/2025 | MAN- B&W | 4x30T | $ 18,5m | Greek | BWTS fitted |
 | Supramax | Jin Yun | 56.810 | 2012 | Jinling, China | 05/2022 | MAN- B&W | 4x30T | $ 17,36m | Chinese | Auction sale |
 | Supramax | Orchid | 55.598 | 2012 | Mitsui, Japan | 10/2024 | MAN- B&W | 4x30,5T | $ 22,6m | Greek | BWTS fitted, Dely Apr-Jun'22 |
+| Handymax | Jiangmen Nanyang 189 | 40.200 | 2022 | Jiangmen, China |  | MAN- B&W | 4x30T | $ 31-32m each | Undisclosed | Resales |
+| Handymax | Jiangmen Nanyang 190 | 40.200 | 2022 | Jiangmen, China |  | MAN- B&W | 4x30T | $ 31-32m each | Undisclosed | Resales |
 | Handysize | Interlink Audacity | 39.100 | 2016 | Zhejiang, China | 07/2026 | MAN- B&W | 4x30,5T | Region $ 25m each | UAE (Tomini Shipping) | BWTS fitted |
-| Handysize | Interlink Affinity | 39.046 | 2016 | Zhejiang, China | 05/2026 | MAN- B&W | 4x30,5T | Region $ 25m | UAE (Tomini | BWTS fitted |
-| Handysize | Interlink Tenacity | 38.785 | 2016 | Taizhou, China | 01/2026 | MAN- B&W | 4x30T | $ 25m each | Shipping) | BWTS fitted |
+| Handysize | Interlink Affinity | 39.046 | 2016 | Zhejiang, China | 05/2026 | MAN- B&W | 4x30,5T | Region $ 25m each | UAE (Tomini Shipping) | BWTS fitted |
+| Handysize | Interlink Tenacity | 38.785 | 2016 | Taizhou, China | 01/2026 | MAN- B&W | 4x30T | Region $ 25m each | UAE (Tomini Shipping) | BWTS fitted |
 | Handysize | Interlink Utility | 38.706 | 2016 | Huatai, China | 11/2026 | MAN- B&W | 4x30T | Region $ 25m each | UAE (Tomini Shipping) | BWTS fitted |
+| Handysize | ES Mercury | 32.248 | 2008 | Kanda, Japan | 08/2023 | Mitsubishi | 4x30,5T | Low $ 15m | Undisclosed | OHBS, BWTS fitted, Dely Q2 2022 |
 | Handysize | Anemos | 28.399 | 2006 | Shimanami, Japan | 12/2025 | MAN- B&W | 4x30,5T | Mid $ 11m | Undisclosed |  |
 
 ### Tankers
@@ -104,7 +108,9 @@ A number of Indian trips into South East Asia with steels were fixed around usd 
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sub Panamax | Marina Jade | 2.452 | 2001 | Thyssen, Germany | 11/2026 | MAN-B&W | 3x45T | Undisclosed | Singapore based (OM Maritime) |  |
 | Feeder | Sabre Trader | 1.774 | 2018 | Jiangsu, China | 09/2023 | Wartsila | - | $ 44m | Undisclosed |  |
+| Feeder | Hansa Magdeburg | 1.740 | 2003 | Guangzhou, China | 08/2023 | MAN-B&W | 2x40T | $ 30m | UK based (Mount Street) | Incl. T/C |
 | Feeder | Marine Bia | 1.708 | 2008 | Imabari, Japan | 02/2026 | MAN-B&W | 3x40T | Undisclosed | Undisclosed |  |
 | Feeder | Avra Miteras | 1.122 | 1996 | Volkswerft, Germany | 03/2022 | Sulzer | 2x40T | Undisclosed | Swiss based (MSC) | Old sale |
 | Feeder | Vega Kappa | 1.118 | 2007 | Qingshan, China | 12/2022 | MAN | 2x45T | $ 23m | Turkish |  |

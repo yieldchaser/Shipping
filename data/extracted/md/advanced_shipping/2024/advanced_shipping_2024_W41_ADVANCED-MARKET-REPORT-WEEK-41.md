@@ -84,6 +84,7 @@ North Pacific rounds ranged at the usd 14,000/16,000 pd. Continental trips into 
 | Post Panamax | Lowlands Energy | 95.719 | 2013 | Imabari, Japan | 02/2026 | MAN-B&W | - | Region $ 22,5m | Greek | BWTS fitted |
 | Kamsarmax | PS Cadiz | 82.256 | 2010 | Tsuneishi Zhoushan, China | 05/2025 | MAN-B&W | - | $ 16,8m | Greek (Pioneer Marine) | BWTS fitted |
 | Kamsarmax | Nord Virgo | 80.915 | 2014 | JMU, Japan | 09/2029 | MAN-B&W | - | Region $ 26m | Greek | BWTS fitted, Scrubber fitted |
+| Kamsarmax | Beluga | 81.841 | 2015 | Oshima, Japan | 04/2025 | MAN-B&W | - | Region $ 30m | Undisclosed | Old sale, BWTS fitted, Scrubber fitted |
 | Panamax | Glory | 76.508 | 2005 | Tsuneishi, Japan | 03/2025 | B&W | - | $ 11,1m | Chinese | BWTS fitted |
 | Ultramax | Beechgate | 63.449 | 2019 | Iwagi, Japan | 03/2029 | MAN-B&W | 4x30,7T | $ 35,6m | Bangladeshi (Meghna) | BWTS fitted |
 | Ultramax | Nord Adriatic | 61.254 | 2016 | Iwagi, Japan | 04/2026 | MAN-B&W | 4x30,7T | $ 29,1m | Undisclosed | BWTS fitted |
@@ -101,16 +102,19 @@ North Pacific rounds ranged at the usd 14,000/16,000 pd. Continental trips into 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR2 | PS Genova | 108.983 | 2010 | Hudong-Zhonghua, China | 05/2025 | MAN-B&W | Excess $ 40m | UAE based | BWTS fitted, DPP |
-| MR | Maritime Inspiration | 49.996 | 2021 | Guangzhou, China | 07/2026 | WinGD | $ 48m | Saudi Arabian | BWTS fitted, Scrubber fitted |
-| MR | Maritime Verity | 49.993 | 2021 | Guangzhou, China | 08/2026 | WinGD | $ 48m | (Bahri) | BWTS fitted, Scrubber fitted |
+| MR | White Peach | 53.187 | 2007 | Guangzhou, China | 03/2027 | Wartsila | $ 22m | Greek (IMS) | Delivered, BWTS fitted, Ice Class 1A |
+| MR | Maritime Inspiration | 49.996 | 2021 | Guangzhou, China | 07/2026 | WinGD | $ 48m | Saudi Arabian (Bahri) | BWTS fitted, Scrubber fitted |
+| MR | Maritime Verity | 49.993 | 2021 | Guangzhou, China | 08/2026 | WinGD | $ 48m | Saudi Arabian (Bahri) | BWTS fitted, Scrubber fitted |
 | MR | Alithini II | 49.900 | 2008 | Stx, Korea | 01/2028 | MAN-B&W | $ 27m | UAE based | Delivered, BWTS fitted |
 | MR | Butterfly | 46.048 | 2004 | Stx, Korea | 01/2029 | B&W | Region $ 18m | Chinese | BWTS fitted |
+| Chemical/Oil Products | Lila Frontier | 19.806 | 2004 | Kitanihon, Japan |  | Mitsubishi | $ 16,1m | Korean | St St, SS/DD passed & BWTS fitted |
 | Chemical/Oil Products | Larisa | 8.924 | 2003 | Shin Kurushima, Japan | 12/2028 | MAN-B&W | Mid $ 7m | Indonesian | St St, BWTS fitted |
 
 ### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Feeder | Cape Faro | 1.440 | 2006 | Peene- Werft, Germany | 05/2026 | MAN-B&W | - | $ 14m | Chinese (China United Lines) | Delivered, Ice Class II |
 | Feeder | Asiatic King | 1.155 | 2005 | Sedef, Turkey | 12/2025 | B&W | - | $ 8,5m | Middle Eastern | Delivered, Ice Class 1C |
 
 ## Page 5

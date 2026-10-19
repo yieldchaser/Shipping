@@ -80,11 +80,13 @@ Trips from Japan into South Africa were fixed around usd 5,000/6,000 pd. A numbe
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Dyna Globe | 99.347 | 2006 | Imabari, Japan | 06/2026 | MAN- B&W | - | $ 15,1m | Far Eastern | BWTS fitted |
+| Post Panamax | AM Liberia | 98.730 | 2013 | Tsuneishi Zhoushan, China | 01/2023 | MAN- B&W | - | $ 20,5m | Greek | BWTS fitted, basis SS/DD freshly passed |
 | Ultramax | Steel Grace | 63.118 | 2015 | New Times, China | 11/2025 | MAN- B&W | 4x35T | $ 24,5m | Greek | BWTS fitted |
 | Ultramax | Ultra Gujarat | 61.671 | 2012 | Oshima, Japan | 03/2027 | MAN- B&W | 4x30T | $ 20,6m | HK based (Pacific Basin) |  |
 | Ultramax | Ultra Saskatoon | 61.470 | 2012 | Shin Kasado, Japan | 01/2027 | MAN- B&W | 4x30,5T | $ 20,95m | HK based (Pacific Basin) |  |
-| Ultramax | Ultra Dwarka | 61.395 | 2012 | Shin Kasado, Japan | 05/2027 | MAN- B&W | 4x30,7T | $ 20,7m | HK based (P ifi |  |
-| Ultramax | Ultra Integrity | 61.181 | 2016 | Tadotsu, Japan | 05/2027 | MAN- B&W | 4x30,7T | $ 24,3m | (Pacific Basin) |  |
+| Ultramax | Ultra Dwarka | 61.395 | 2012 | Shin Kasado, Japan | 05/2027 | MAN- B&W | 4x30,7T | $ 20,7m | HK based (Pacific Basin) |  |
+| Ultramax | Ultra Integrity | 61.181 | 2016 | Tadotsu, Japan | 05/2027 | MAN- B&W | 4x30,7T | $ 24,3m | HK based (Pacific Basin) |  |
+| Supramax | Ultra Lanigan | 58.032 | 2012 | Tsuneishi Cebu, Philippines | 09/2027 | MAN- B&W | 4x30T | $ 17,5m | HK based (Pacific Basin) |  |
 | Handysize | Ultra Fitz Roy | 37.918 | 2016 | Imabari, Japan | 01/2026 | MAN- B&W | 4x30,5T | $ 20,6m | HK based (Pacific Basin) |  |
 | Handysize | Mireille Selmer | 33.716 | 2010 | Samjin, China | 05/2025 | MAN- B&W | 4x35T | High $ 10m | Undisclosed | BWTS fitted |
 | Handysize | Corkscrew | 33.193 | 2010 | Kanda, Japan | 07/2025 | Mitsubishi | 4x30,5T | $ 13,75m | Chinese | OHBS, BWTS fitted |
@@ -96,9 +98,10 @@ Trips from Japan into South Africa were fixed around usd 5,000/6,000 pd. A numbe
 | VLCC | FPMC C Honor | 298.078 | 2008 | Universal, Japan | 11/2023 | MAN- B&W | $ 59m | Indonesian | BWTS fitted, Scrubber fitted |
 | Aframax | Seamagic | 116.905 | 2007 | Hyundai, Korea | 03/2027 | MAN- B&W | $ 47m | Undisclosed | BWTS fitted, Ice Class 1A |
 | LR1 | Jo Pinari | 75.022 | 2012 | Stx, Korea | 10/2027 | MAN- B&W | $ 140m enbloc | Danish (TORM) |  |
-| LR1 | Jo Provel | 75.013 | 2013 | Stx, Korea | 03/2028 | MAN- B&W | $ 140m | Danish (TORM) |  |
-| LR1 | Jo Redwood | 73.847 | 2013 | New Times, China | 09/2023 | MAN- B&W | enbloc | Danish (TORM) |  |
+| LR1 | Jo Provel | 75.013 | 2013 | Stx, Korea | 03/2028 | MAN- B&W | $ 140m enbloc | Danish (TORM) |  |
+| LR1 | Jo Redwood | 73.847 | 2013 | New Times, China | 09/2023 | MAN- B&W | $ 140m enbloc | Danish (TORM) |  |
 | LR1 | Jo Rowan | 73.811 | 2013 | New Times, China | 08/2023 | MAN- B&W | $ 140m enbloc | Danish (TORM) |  |
+| LR1 | Summit Africa | 73.427 | 2009 | New Times, China | 08/2024 | MAN- B&W | $ 24,8m | Cyprus based (Pelagic Yield Fund) |  |
 
 ## Page 4
 
@@ -116,10 +119,11 @@ Trips from Japan into South Africa were fixed around usd 5,000/6,000 pd. A numbe
 | Chemical/Oil Products | T Rigel | 20.919 | 2021 | Rushan, China | 10/2026 | Bergens | $ 28,5m | Undisclosed | St St, BWTS fitted |
 | Chemical/Oil Products | T Procyon | 19.101 | 2021 | Rushan, China | 08/2026 | Bergens | $ 28,5m | Undisclosed | St St, BWTS fitted |
 | Chemical/Oil Products | Mild Bloom | 20.768 | 2006 | Shin Kurushima, Japan | 12/2026 | Mitsubishi | $ 16,1m | Greek | BWTS fitted |
+| Chemical/Oil Products | Dreggen | 19.994 | 2008 | Fukuoka, Japan | 08/2026 | MAN- B&W | $ 19,5m | Chinese (DingHeng Shipping) | St St |
 | Chemical/Oil Products | Giancarlo D | 19.801 | 2016 | Ningbo, China | 03/2026 | MAN- B&W | $ 28m | Chinese | St St, BWTS fitted |
 | Chemical/Oil Products | NQ Alpinia | 19.800 | 2016 | Ningbo, China | 07/2026 | MAN- B&W | $ 28m | Chinese | St St, BWTS fitted |
-| Chemical/Oil Products | Chiberta | 18.769 | 2007 | R.M.K, Turkey | 10/2026 | Wartsila | $ 20,7m | Canadian (Algoma | BWTS fitted, Ice Class 1A |
-| Chemical/Oil Products | Chantaco | 18.729 | 2007 | R.M.K, Turkey | 10/2026 | Wartsila | enbloc | (Algoma Central) | BWTS fitted, Ice Class 1A |
+| Chemical/Oil Products | Chiberta | 18.769 | 2007 | R.M.K, Turkey | 10/2026 | Wartsila | $ 20,7m enbloc | Canadian (Algoma Central) | BWTS fitted, Ice Class 1A |
+| Chemical/Oil Products | Chantaco | 18.729 | 2007 | R.M.K, Turkey | 10/2026 | Wartsila | $ 20,7m enbloc | Canadian (Algoma Central) | BWTS fitted, Ice Class 1A |
 
 ## Page 5
 
@@ -130,6 +134,7 @@ Trips from Japan into South Africa were fixed around usd 5,000/6,000 pd. A numbe
 | Panamax | Northern General | 4.294 | 2008 | Hyundai Mipo, Korea | 01/2023 | MAN-B&W | - | Undisclosed | Swiss based (MSC) |  |
 | Sub Panamax | G. Ace | 2.553 | 2007 | Naikai, Japan | 04/2027 | MAN-B&W | - | $ 13,7m | Chinese | BWTS fitted |
 | Sub Panamax | Hammonia Berolina | 2.546 | 2007 | Jiangsu, China | 03/2027 | MAN-B&W | 3x45T | Excess $ 20m | Undisclosed | Incl. T/C |
+| Sub Panamax | Buxcontact | 2.478 | 2002 | Aker Mtw Werft, Germany | 01/2023 | Sulzer | 3x45T | Undisclosed | Swiss based (MSC) |  |
 | Sub Panamax | Amalia C | 2.452 | 1998 | Thyssen, Germany | 03/2023 | Mitsubishi | 3x40T | $ 6m | Chinese |  |
 | Feeder | X-Press Brahmaputra | 1.162 | 1998 | Szczecinska, Poland | 06/2023 | B&W | 3x40T | $ 4m | Turkish |  |
 | Feeder | Acacia Ming | 704 | 2010 | Yangfan, China | 08/2027 | MAN | - | $ 10m | Russian (FESCO) |  |

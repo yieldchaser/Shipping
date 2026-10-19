@@ -80,6 +80,8 @@ North Pacific rounds ranged at the usd 7.000/9.000 pd. Trips from Vietnam into I
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Amity | 180.311 | 2009 | Dalian, China | 07/2024 | MAN- B&W | - | $ 19,2m | Undisclosed | BWTS fitted |
+| Capesize | Aquahope | 177.173 | 2007 | Namura & Sasebo, Japan | 04/2027 | MAN- B&W | - | Mid $ 18m | Turkish | BWTS fitted, DD 04/2023 |
+| Ultramax | Ultra Bellambi | 61.470 | 2012 | Shin Kasado, Japan | 08/2027 | MAN- B&W | 4x30,5T | $ 21,9m | Far Eastern | BWTS fitted |
 | Ultramax | ASL Grace | 60.259 | 2015 | Onomichi, Japan | 07/2025 | MAN- B&W | 4x30T | $ 25,5m | Undisclosed | BWTS fitted |
 | Supramax | Pan Begonia | 57.307 | 2009 | Stx Dalian, China | 04/2024 | MAN- B&W | 4x30T | $ 12,5m | Undisclosed | BWTS fitted |
 | Supramax | Anita N | 56.868 | 2010 | Jinling, China | 02/2025 | MAN- B&W | 4x30T | $ 14m | Undisclosed | BWTS fitted, DD 05/2023 |
@@ -94,6 +96,7 @@ North Pacific rounds ranged at the usd 7.000/9.000 pd. Trips from Vietnam into I
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | Ellinis | 306.507 | 2007 | Daewoo, Korea | 01/2027 | Sulzer | Undisclosed | Undisclosed | Old sale, BWTS fitted, Scrubber fitted |
 | Aframax | S-Trooper | 105.745 | 2003 | Sumitomo, Japan | 10/2023 | Sulzer | $ 24,3m | Undisclosed |  |
 | MR | GWN 3 | 50.192 | 2021 | Samsung, Korea | 01/2026 | MAN- B&W | $ 50m | Japanese | BWTS fitted, Scrubber fitted |
 

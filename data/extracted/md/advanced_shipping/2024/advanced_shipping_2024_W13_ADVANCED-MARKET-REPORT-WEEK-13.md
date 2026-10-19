@@ -84,6 +84,7 @@ No fixture reported for this segment. No period activity to report here.
 | Supramax | Desert Unity | 54.043 | 2006 | Kouan, China | 10/2026 | MAN-B&W | 4x36T | $ 10,1m | Undisclosed | BWTS fitted |
 | Handysize | Atlantic Prism | 39.172 | 2019 | Shin Kurushima, Japan | 05/2024 | MAN-B&W | 4x30T | $ 28,5m | Undisclosed | BWTS fitted |
 | Handysize | Sunrise | 37.268 | 2009 | Saiki, Japan | 01/2029 | Mitsubishi | 4x30T | $ 15m | Undisclosed | OHBS |
+| Handysize | Dragonera | 35.732 | 2011 | Qidong, China | 08/2026 | MAN-B&W | 4x30T | $ 14m | Undisclosed | OHBS, BWTS fitted, Ice Class 1C |
 | Handysize | Naruto Strait | 34.391 | 2016 | Namura & Sasebo, Japan | 12/2026 | MAN-B&W | 4x30T | $ 20,5m | Greek | BWTS fitted, Dely May-Jun'24 |
 | Handysize | Katya Atk | 28.467 | 2009 | Imabari, Japan | 09/2024 | MAN-B&W | 4x30,5T | $ 9m | Undisclosed |  |
 | Handysize | Margaret SW | 25.010 | 2012 | Kanasashi, Japan | 03/2027 | MAN-B&W | 3x30T | $ 13m | Undisclosed | BWTS fitted |

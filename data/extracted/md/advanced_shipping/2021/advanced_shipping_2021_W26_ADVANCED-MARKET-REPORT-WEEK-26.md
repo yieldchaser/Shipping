@@ -79,6 +79,7 @@ CIS Pacific rounds ranged at the usd 24,000/25,000 pd. A number of Continental t
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Springbank | 177.066 | 2010 | New Times, China | 11/2025 | MAN- B&W | - | $ 26,5m | Greek (Kassian Maritime) | BWTS fitted |
 | Kamsarmax | Feyha | 80.370 | 2010 | Stx, Korea | 10/2025 | MAN- B&W | - | $ 18,5m | Greek (NGM) | Old sale, Incl. T/C until Oct'21 |
 | Panamax | Koulitsa | 76.858 | 2003 | Oshima, Japan | 04/2023 | MAN- B&W | - | $ 13,6m | UAE based | BWTS fitted |
 | Panamax | Imperial Rose | 76.619 | 2008 | Shin Kasado, Japan | 08/2023 | MAN- B&W | - | $ 18m | Greek |  |
@@ -86,12 +87,14 @@ CIS Pacific rounds ranged at the usd 24,000/25,000 pd. A number of Continental t
 | Supramax | Serene Susannah | 57.266 | 2010 | Stx Dalian, China | 09/2025 | MAN- B&W | 4x30T | Region $ 15m | Undisclosed |  |
 | Supramax | Darya Lakshmi | 55.469 | 2009 | Mitsui, Japan | 07/2024 | MAN- B&W | 4x30T | $ 16,5m | Greek |  |
 | Supramax | YM Tradition | 55.457 | 2010 | Kawasaki, Japan | 01/2025 | MAN- B&W | 4x30,5T | $ 16,3m | Undisclosed | BWTS fitted, dely Jul-Oct '21 |
-| Handysize | Interlink Verity | 37.163 | 2012 | Huatai, China | 06/2022 | Wartsila | 4x30T | $ 14,75m | Greek |  |
-| Handysize | Interlink Parity | 37.152 | 2012 | Huatai, China | 03/2022 | Wartsila | 4x30T | $ 14,75m | (Costamare) |  |
+| Supramax | Imperial Fortune | 53.505 | 2006 | Imabari, Japan | 10/2025 | MAN- B&W | 4x30,5T | $ 13,2m | Undisclosed | BWTS fitted, dely Sep-Oct '21 |
+| Handysize | Interlink Verity | 37.163 | 2012 | Huatai, China | 06/2022 | Wartsila | 4x30T | $ 14,75m | Greek (Costamare) |  |
+| Handysize | Interlink Parity | 37.152 | 2012 | Huatai, China | 03/2022 | Wartsila | 4x30T | $ 14,75m | Greek (Costamare) |  |
 | Handysize | N Discovery | 37.019 | 2012 | Zhejiang, China | 10/2022 | Wartsila | 4x30T | Low $ 14m | Greek |  |
 | Handysize | Cielo Di Capalbio | 36.699 | 2012 | Hyundai Mipo, Korea | 03/2022 | MAN- B&W | 4x36T | $ 16m | Greek |  |
 | Handysize | Jia Tai | 35.112 | 2011 | Zhejiang, China | 12/2021 | MAN- B&W | 4x30T | $ 9,2m | European | Auction sale |
 | Handysize | Dream Island | 34.467 | 2015 | Hakodate, Japan | 08/2025 | Mitsubishi | 4x30T | $ 18,9m | Undisclosed | BWTS fitted |
+| Handysize | King Cotton | 33.622 | 2011 | Shin Kurushima, Japan | 08/2021 | Mitsubishi | 4x30T | $ 14m | Undisclosed | Incl. BWTS on order |
 | Handysize | Star Life | 28.210 | 2011 | Shimanami, Japan | 03/2026 | MAN- B&W | 4x30,7T | $ 11,25m | Undisclosed |  |
 
 ## Page 4
@@ -100,10 +103,10 @@ CIS Pacific rounds ranged at the usd 24,000/25,000 pd. A number of Continental t
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | Nissos Antiparos | 318.953 | 2019 | Hyundai, Korea | 07/2024 | Wartsila | $ 90m | Bermuda based | BWTS & Scrubber |
-| VLCC | Nissos Santorini | 318.953 | 2019 | Hyundai, Korea | 07/2024 | Wartsila | $ 90m | (Frontline) | fitted, dely Nov '21 |
-| VLCC | Nissos Kea | 299.240 | 2022 | Hyundai, Korea |  | MAN- B&W | $ 97m | Greek (Okeanis | BWTS & Scrubber |
-| VLCC | Nissos Nikouria | 299.240 | 2022 | Hyundai, Korea |  | MAN- B&W | $ 97m | Eco Tankers) | fitted, dely 1H 2022 |
+| VLCC | Nissos Antiparos | 318.953 | 2019 | Hyundai, Korea | 07/2024 | Wartsila | $ 90m | Bermuda based (Frontline) | BWTS & Scrubber fitted, dely Nov '21 |
+| VLCC | Nissos Santorini | 318.953 | 2019 | Hyundai, Korea | 07/2024 | Wartsila | $ 90m | Bermuda based (Frontline) | BWTS & Scrubber fitted, dely Nov '21 |
+| VLCC | Nissos Kea | 299.240 | 2022 | Hyundai, Korea |  | MAN- B&W | $ 97m | Greek (Okeanis Eco Tankers) | BWTS & Scrubber fitted, dely 1H 2022 |
+| VLCC | Nissos Nikouria | 299.240 | 2022 | Hyundai, Korea |  | MAN- B&W | $ 97m | Greek (Okeanis Eco Tankers) | BWTS & Scrubber fitted, dely 1H 2022 |
 | LR1 | Marilee | 74.898 | 2006 | Brodosplit, Croatia | 09/2021 | MAN- B&W | Undisclosed | Undisclosed |  |
 | MR | Jasmine Express | 46.999 | 2004 | Onomichi, Japan | 05/2022 | MAN- B&W | $ 7,6m | Greek |  |
 

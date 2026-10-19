@@ -101,13 +101,13 @@
       "YARD": "Qingdao, China",
       "M_E": "WinGD",
       "GEAR": "-",
-      "PRICE": "$ 98m",
+      "PRICE": "$ 98m enbloc",
       "PRICE_USD_MILL": 98.0,
-      "BUYERS": "Singapore based",
+      "BUYERS": "Singapore based (Berge Bulk)",
       "SS": "07/2027",
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf",
-      "extra_json": "{\"issue_date\": \"2022-09-09\", \"report_week\": \"36\", \"source_file\": \"advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf\", \"raw_price\": \"$ 98m\"}"
+      "extra_json": "{\"issue_date\": \"2022-09-09\", \"report_week\": \"36\", \"source_file\": \"advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf\", \"raw_price\": \"$ 98m enbloc\"}"
     },
     {
       "issue": "2022-09-09",
@@ -123,13 +123,13 @@
       "YARD": "Qingdao, China",
       "M_E": "Wartsila",
       "GEAR": "-",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
-      "BUYERS": "based (Berge Bulk)",
+      "PRICE": "$ 98m enbloc",
+      "PRICE_USD_MILL": 98.0,
+      "BUYERS": "Singapore based (Berge Bulk)",
       "SS": "08/2025",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf",
-      "extra_json": "{\"issue_date\": \"2022-09-09\", \"report_week\": \"36\", \"source_file\": \"advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2022-09-09\", \"report_week\": \"36\", \"source_file\": \"advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf\", \"raw_price\": \"$ 98m enbloc\"}"
     },
     {
       "issue": "2022-09-09",
@@ -378,6 +378,28 @@
       "report_week": "36",
       "section": "Tankers",
       "page": "3",
+      "NAME": "Aristodimos",
+      "TYPE": "Aframax",
+      "DWT": "113,553",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "2006",
+      "YARD": "Samsung, Korea",
+      "M_E": "MAN- B&W",
+      "GEAR": "",
+      "PRICE": "$ 32m",
+      "PRICE_USD_MILL": 32.0,
+      "BUYERS": "UAE based",
+      "SS": "04/2026",
+      "COMMENTS": "BWTS fitted, Scrubber fitted, Ice Class 1A",
+      "source_file": "advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf",
+      "extra_json": "{\"issue_date\": \"2022-09-09\", \"report_week\": \"36\", \"source_file\": \"advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf\", \"raw_price\": \"$ 32m\"}"
+    },
+    {
+      "issue": "2022-09-09",
+      "report_week": "36",
+      "section": "Tankers",
+      "page": "3",
       "NAME": "Aristos",
       "TYPE": "LR1",
       "DWT": "74,999",
@@ -431,13 +453,13 @@
       "YARD": "Hyundai Mipo, Korea",
       "M_E": "MAN- B&W",
       "GEAR": "",
-      "PRICE": "Excess $ 35m",
+      "PRICE": "Excess $ 35m enbloc",
       "PRICE_USD_MILL": 35.0,
       "BUYERS": "Undisclosed",
       "SS": "11/2022",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf",
-      "extra_json": "{\"issue_date\": \"2022-09-09\", \"report_week\": \"36\", \"source_file\": \"advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf\", \"raw_price\": \"Excess $ 35m\"}"
+      "extra_json": "{\"issue_date\": \"2022-09-09\", \"report_week\": \"36\", \"source_file\": \"advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf\", \"raw_price\": \"Excess $ 35m enbloc\"}"
     },
     {
       "issue": "2022-09-09",
@@ -453,13 +475,13 @@
       "YARD": "Hyundai Mipo, Korea",
       "M_E": "MAN- B&W",
       "GEAR": "",
-      "PRICE": "$ 35m enbloc",
+      "PRICE": "Excess $ 35m enbloc",
       "PRICE_USD_MILL": 35.0,
       "BUYERS": "Undisclosed",
       "SS": "11/2022",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf",
-      "extra_json": "{\"issue_date\": \"2022-09-09\", \"report_week\": \"36\", \"source_file\": \"advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf\", \"raw_price\": \"$ 35m enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2022-09-09\", \"report_week\": \"36\", \"source_file\": \"advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf\", \"raw_price\": \"Excess $ 35m enbloc\"}"
     },
     {
       "issue": "2022-09-09",
@@ -702,6 +724,28 @@
       "COMMENTS": "Incl. T/C",
       "source_file": "advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf",
       "extra_json": "{\"issue_date\": \"2022-09-09\", \"report_week\": \"36\", \"source_file\": \"advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf\", \"raw_price\": \"Excess $ 24m\"}"
+    },
+    {
+      "issue": "2022-09-09",
+      "report_week": "36",
+      "section": "Gas",
+      "page": "4",
+      "NAME": "Kmarin Diamond",
+      "TYPE": "LNG",
+      "DWT": "84,553",
+      "TEU": null,
+      "CBM": 151883.0,
+      "BUILT": "2008",
+      "YARD": "Hyundai Samho, Korea",
+      "M_E": "Wartsila",
+      "GEAR": "",
+      "PRICE": "Undisclosed",
+      "PRICE_USD_MILL": null,
+      "BUYERS": "Greek",
+      "SS": "10/2023",
+      "COMMENTS": "",
+      "source_file": "advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf",
+      "extra_json": "{\"issue_date\": \"2022-09-09\", \"report_week\": \"36\", \"source_file\": \"advanced_shipping_2022_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf\", \"raw_price\": \"Undisclosed\"}"
     }
   ],
   "newbuilding": [

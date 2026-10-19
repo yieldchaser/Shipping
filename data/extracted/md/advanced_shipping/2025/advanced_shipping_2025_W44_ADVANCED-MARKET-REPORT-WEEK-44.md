@@ -99,10 +99,10 @@ West African trips via Mediterranean into Mediterranean were reported at the lev
 | LR1 | Ryvingen Sun | 74.032 | 2007 | New Century, China | 05/2027 | MAN-B&W | $ 14,2m | Undisclosed |  |
 | MR | Petite Soeur | 50.420 | 2011 | Guangzhou, China | 07/2026 | MAN-B&W | $ 19m | Indian |  |
 | MR | Jag Pooja | 48.539 | 2005 | Iwagi, Japan | 08/2028 | MAN-B&W | High $ 10m | Undisclosed | Ice Class II |
-| MR | Seaways Gatun | 47.834 | 2007 | Hyundai Mipo, Korea | 11/2026 | MAN-B&W | $ 12,5m | Norwegian (Champion | Ice Class 1A |
-| MR | Seaways Huron | 47.781 | 2007 | Hyundai Mipo, Korea | 01/2027 | MAN-B&W | $ 12,5m | (Champion Tankers) | Ice Class 1A |
-| Chemical/Oil Products | Kobe Pioneer | 3.499 | 2016 | Dae Sun, Korea | 04/2026 | Hanshin | $ 13,7m | Polish (Oktan | St St |
-| Chemical/Oil Products | Yokohama Pioneer | 3.499 | 2016 | Dae Sun, Korea | 05/2026 | Hanshin | $ 13,7m | Energy) | St St |
+| MR | Seaways Gatun | 47.834 | 2007 | Hyundai Mipo, Korea | 11/2026 | MAN-B&W | $ 12,5m | Norwegian (Champion Tankers) | Ice Class 1A |
+| MR | Seaways Huron | 47.781 | 2007 | Hyundai Mipo, Korea | 01/2027 | MAN-B&W | $ 12,5m | Norwegian (Champion Tankers) | Ice Class 1A |
+| Chemical/Oil Products | Kobe Pioneer | 3.499 | 2016 | Dae Sun, Korea | 04/2026 | Hanshin | $ 13,7m | Polish (Oktan Energy) | St St |
+| Chemical/Oil Products | Yokohama Pioneer | 3.499 | 2016 | Dae Sun, Korea | 05/2026 | Hanshin | $ 13,7m | Polish (Oktan Energy) | St St |
 
 ## Page 4
 

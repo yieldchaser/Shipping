@@ -93,6 +93,8 @@ Australian trips into China were fixed around usd 15,000 pd. Trips from Black Se
 | Supramax | Crested Eagle | 55.989 | 2009 | IHI, Japan | 04/2024 | Wartsila | 4x30T | $ 14,95m | Chinese | BWTS fitted, Scrubber fitted |
 | Supramax | Konrad Schulte | 55.621 | 2010 | Mitsui, Japan | 09/2025 | MAN-B&W | 4x30T | Low $ 16m | Undisclosed | BWTS fitted |
 | Supramax | SSI Avenger | 52.949 | 2004 | Oshima, Japan | 10/2024 | MAN-B&W | 4x30T | $ 10,5m | Undisclosed | BWTS fitted |
+| Handysize | Interlink Amenity | 39.989 | 2018 | Huatai, China | 04/2028 | MAN-B&W | 4x30T | $ 25,25m | Thai (Precious Shipping) | BWTS fitted, Ice Class 1C, Incl. balance of index-linked T/C till Jul'24 |
+| Handysize | Australian Bulker | 36.228 | 2017 | Shikoku, Japan | 10/2027 | MAN-B&W | 4x30T | $ 24m | Undisclosed | OHBS, BWTS fitted, Scrubber fitted |
 | Handysize | Lucky Glory | 32.256 | 2007 | Kanda, Japan | 12/2027 | Mitsubishi | 4x30,5T | $ 10,3m | Turkish | OHBS, BWTS fitted |
 
 ## Page 4
@@ -101,8 +103,8 @@ Australian trips into China were fixed around usd 15,000 pd. Trips from Black Se
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | Chinagas Legend | 55.368 | 2020 | Jiangnan, China | 05/2025 | WinGD | 19.503 | $ 90m | Chinese | BWTS fitted, Scrubber fitted, |
-| LPG | Chinagas Glory | 55.183 | 2020 | Jiangnan, China | 07/2025 | WinGD | 19.688 | $ 90m | (Jovo Group) | Incl. T/C attached |
+| LPG | Chinagas Legend | 55.368 | 2020 | Jiangnan, China | 05/2025 | WinGD | 19.503 | $ 90m | Chinese (Jovo Group) | BWTS fitted, Scrubber fitted, Incl. T/C attached |
+| LPG | Chinagas Glory | 55.183 | 2020 | Jiangnan, China | 07/2025 | WinGD | 19.688 | $ 90m | Chinese (Jovo Group) | BWTS fitted, Scrubber fitted, Incl. T/C attached |
 
 ## Page 5
 

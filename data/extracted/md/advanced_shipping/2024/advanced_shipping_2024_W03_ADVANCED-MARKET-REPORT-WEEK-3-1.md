@@ -109,13 +109,13 @@ Trips from China into India were fixed around usd 9,000/11,000 pd. Continental t
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR1 | Brook Trout | 73.672 | 2007 | Stx, Korea | 08/2027 | MAN-B&W | $ 26m | UAE (Emarat | BWTS fitted, Ice Class 1A |
-| LR1 | Lake Trout | 73.580 | 2007 | Stx, Korea | 07/2027 | MAN-B&W | $ 26m | Maritime) | BWTS fitted, Ice Class 1A |
-| MR | Dinah | 37.313 | 2008 | Hyundai Mipo, Korea | 11/2028 | MAN-B&W | $ 41,75m | Undisclosed | Ice Class 1A |
-| MR | Pluto | 37.282 | 2008 | Hyundai Mipo, Korea | 10/2028 | MAN-B&W | enbloc | Undisclosed | Ice Class 1A |
+| LR1 | Brook Trout | 73.672 | 2007 | Stx, Korea | 08/2027 | MAN-B&W | $ 26m | UAE (Emarat Maritime) | BWTS fitted, Ice Class 1A |
+| LR1 | Lake Trout | 73.580 | 2007 | Stx, Korea | 07/2027 | MAN-B&W | $ 26m | UAE (Emarat Maritime) | BWTS fitted, Ice Class 1A |
+| MR | Dinah | 37.313 | 2008 | Hyundai Mipo, Korea | 11/2028 | MAN-B&W | $ 41,75m enbloc | Undisclosed | Ice Class 1A |
+| MR | Pluto | 37.282 | 2008 | Hyundai Mipo, Korea | 10/2028 | MAN-B&W | $ 41,75m enbloc | Undisclosed | Ice Class 1A |
 | Chemical/Oil Products | Aurelia | 24.025 | 2006 | 3 Maj, Croatia | 02/2026 | MaK | Region $ 13m | Undisclosed | Scrubber fitted, Ice Class 1B |
-| Chemical/Oil Products | Liv Knutsen | 16.585 | 2009 | Jiangnan, China | 08/2024 | MAN | $ 13,75m | Canadian (Algoma) | Ice Class 1A, BBback to sellers |
-| Chemical/Oil Products | Eli Knutsen | 16.544 | 2009 | Jiangnan, China | 06/2024 | MAN | $ 13,75m | Canadian (Algoma) | BBback to sellers till DD |
+| Chemical/Oil Products | Liv Knutsen | 16.585 | 2009 | Jiangnan, China | 08/2024 | MAN | $ 13,75m | Canadian (Algoma) | Ice Class 1A, BBback to sellers till DD |
+| Chemical/Oil Products | Eli Knutsen | 16.544 | 2009 | Jiangnan, China | 06/2024 | MAN | $ 13,75m | Canadian (Algoma) | Ice Class 1A, BBback to sellers till DD |
 
 ## Page 5
 

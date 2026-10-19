@@ -83,14 +83,14 @@ A number of Indonesian and Australian trips into China were reported at the leve
 | Capesize | Braverus | 170.913 | 2009 | Sungdong, Korea | 09/2028 | MAN-B&W | - | $ 22m | Undisclosed |  |
 | Kamsarmax | Energy Hope | 82.122 | 2012 | Tsuneishi, Japan | 02/2027 | MAN-B&W | - | $ 17m | Greek (Brave Maritime) |  |
 | Kamsarmax | AM Buchanan | 81.795 | 2013 | New Times, China | 07/2028 | MAN-B&W | - | $ 60m enbloc | Chinese |  |
-| Kamsarmax | AM Krakow | 81.752 | 2013 | New Times, China | 08/2028 | MAN-B&W | - | $ 60m | Chinese |  |
-| Panamax | AM Zenica | 76.089 | 2014 | Hudong- Zhonghua, China | 10/2029 | MAN-B&W | - | enbloc | Chinese | Scrubber fitted |
+| Kamsarmax | AM Krakow | 81.752 | 2013 | New Times, China | 08/2028 | MAN-B&W | - | $ 60m enbloc | Chinese |  |
+| Panamax | AM Zenica | 76.089 | 2014 | Hudong- Zhonghua, China | 10/2029 | MAN-B&W | - | $ 60m enbloc | Chinese | Scrubber fitted |
 | Panamax | AM Annaba | 76.079 | 2013 | Hudong- Zhonghua, China | 09/2028 | MAN-B&W | - | $ 60m enbloc | Chinese |  |
 | Panamax | Johnny P | 74.540 | 2001 | Daewoo, Korea | 02/2026 | B&W | - | $ 6,5m | Chinese |  |
 | Panamax | Magic Eclipse | 74.940 | 2011 | Sasebo, Japan | 02/2026 | MAN-B&W | - | $ 13,5m | Greek |  |
 | Supramax | Port Macau | 58.730 | 2008 | Tsuneishi Zhoushan, China | 05/2028 | MAN-B&W | 4x30T | $ 11,8m | Undisclosed |  |
-| Supramax | Indigo Flora | 58.724 | 2013 | Kawasaki, Japan | 06/2028 | MAN-B&W | 4x30,5T | $ 34m | Greek |  |
-| Supramax | Indigo Luffy | 58.051 | 2012 | Shin Kurushima, Japan | 07/2028 | MAN-B&W | 4x30,5T | enbloc | Greek | Scrubber fitted, DD 07/2025 |
+| Supramax | Indigo Flora | 58.724 | 2013 | Kawasaki, Japan | 06/2028 | MAN-B&W | 4x30,5T | $ 34m enbloc | Greek |  |
+| Supramax | Indigo Luffy | 58.051 | 2012 | Shin Kurushima, Japan | 07/2028 | MAN-B&W | 4x30,5T | $ 34m enbloc | Greek | Scrubber fitted, DD 07/2025 |
 | Supramax | CS Sonoma | 56.704 | 2010 | Jiangsu, China | 02/2030 | MAN-B&W | 4x30T | $ 11,3m | Far Eastern | Scrubber fitted |
 | Supramax | Strange Attractor | 55.742 | 2006 | Mitsui, Japan | 10/2026 | MAN-B&W | 4x30T | Mid $ 9m | Undisclosed | Scrubber fitted, DD 07/2025 |
 | Supramax | Moondance II | 55.566 | 2005 | NACKS, China | 06/2025 | B&W | 4x30,5T | Excess $ 8m | Undisclosed |  |
@@ -118,6 +118,7 @@ A number of Indonesian and Australian trips into China were reported at the leve
 | MR | UOG Constantine G | 49.999 | 2010 | Sls, Korea | 06/2025 | MAN-B&W | $ 21m | Undisclosed |  |
 | MR | Centennial Matsuyama | 47.165 | 2008 | Onomichi, Japan | 11/2028 | MAN-B&W | High $ 16m | Undisclosed |  |
 | MR | Challenge Procyon | 45.996 | 2011 | Shin Kurushima, Japan | 11/2025 | MAN-B&W | Mid $ 19m | Undisclosed | Dely Apr-Jul'25 |
+| MR | Eco Fleet | 39.208 | 2015 | Hyundai-Vinashin, Vietnam | 07/2025 | MAN-B&W | $ 30m | Italian (Navigazione Montanari) |  |
 | MR | Yash | 37.320 | 2002 | Stx, Korea | 05/2027 | MAN-B&W | $ 8,2m | Undisclosed | DD 08/2025 |
 | Chemical/Oil Products | Songa Winds | 19.954 | 2009 | Fukuoka, Japan | 06/2029 | Mitsubishi | Region $ 20m | Undisclosed | St St |
 | Chemical/Oil Products | TTC Vishaka | 18.041 | 2012 | Zhejiang, China | 01/2026 | MAN-B&W | $ 13,1m | Undisclosed |  |

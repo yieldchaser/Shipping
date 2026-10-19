@@ -84,6 +84,7 @@ A number of Inter-Mediterranean trips via Black Sea were reported at the level o
 | Ultramax | Amis Wisdom VI | 61.456 | 2011 | Shin Kasado, Japan | 09/2026 | MAN- B&W | 4x30,5T | $ 22,5m | Greek | BWTS fitted |
 | Supramax | Super Trader | 56.868 | 2011 | Jiangsu, China | 01/2026 | MAN- B&W | 4x35T | Low $ 15m | Greek | BWTS fitted |
 | Supramax | Eastern Azalea | 56.771 | 2012 | Jiangsu, China | 11/2027 | MAN- B&W | 4x30T | High $ 15m | Undisclosed | BWTS fitted |
+| Supramax | Mandarin Dalian | 56.604 | 2010 | Jiangsu, China | 11/2025 | MAN- B&W | 4x36T | Region $ 14m | Undisclosed | BWTS fitted, DD 09/2023 Dely Jun-Aug'23 |
 | Supramax | Kitakami | 55.668 | 2009 | Mitsui, Japan | 03/2027 | MAN- B&W | 4x30T | High $ 15m | Norwegian (Atlantica) | BWTS fitted |
 | Handysize | Olivian Confidence | 38.090 | 2013 | Shimanami, Japan | 12/2025 | MAN- B&W | 4x30,5T | Region $ 20m | Undisclosed | Old sale, BWTS fitted |
 | Handysize | Voge Julie | 34.734 | 2011 | Qidong, China | 12/2026 | MAN- B&W | 4x30T | Region $ 13m | Undisclosed | BWTS fitted, Ice Class 1C |
@@ -95,6 +96,7 @@ A number of Inter-Mediterranean trips via Black Sea were reported at the level o
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Suezmax | Ridgebury John Zipser | 164.772 | 2009 | Hyundai Samho, Korea | 05/2024 | MAN- B&W | $ 45m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Suezmax | Amoroza | 159.168 | 2001 | Hyundai, Korea | 12/2025 | MAN- B&W | Region $ 30m | Undisclosed | BWTS fitted |
+| Aframax | Songa Coral | 107.081 | 2005 | Koyo, Japan | 01/2025 | B&W | Region $ 35m | UAE | Old sale, BWTS fitted, Scrubber fitted |
 | LR2 | Wonder Avior | 106.162 | 2004 | Hyundai, Korea | 05/2024 | B&W | $ 30,1m | Undisclosed | DPP |
 | LR1 | Torm Sara | 72.718 | 2003 | Samsung, Korea | 11/2023 | MAN- B&W | Low-Mid $ 17m | Undisclosed |  |
 | LR1 | Ever Victory | 70.426 | 2005 | Universal, Japan | 06/2025 | MAN- B&W | $ 21m | Undisclosed | BWTS fitted |

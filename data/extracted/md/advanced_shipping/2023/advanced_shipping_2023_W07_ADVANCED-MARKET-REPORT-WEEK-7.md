@@ -81,7 +81,9 @@ West African trips into Mediterranean with steel billets were reported fixed aro
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Edward N | 176.216 | 2011 | SWS, China | 01/2026 | MAN- B&W | - | $ 24m | Undisclosed | BWTS fitted |
 | Panamax | Omicron Crest | 76.737 | 2004 | Sasebo, Japan | 11/2024 | B&W | - | $ 12m | Indonesian | Old sale, BWTS fitted |
+| Ultramax | Nord Potomac | 63.379 | 2016 | I-S, Japan | 08/2026 | MAN- B&W | 4x30,7T | $ 27,9m | Greek (Diana Shipping) | BWTS fitted, Scrubber fitted |
 | Supramax | Milos | 56.988 | 2010 | Cosco, China | 10/2025 | MAN- B&W | 4x30T | Mid $ 13m | Undisclosed | BWTS fitted |
+| Handysize | Auckland Spirit | 31.646 | 2003 | Saiki, Japan | 03/2023 | Mitsubishi | 4x30T | $ 9,5m | Undisclosed | OHBS, BWTS fitted, SS/DD passed |
 
 ### Tankers
 
@@ -92,12 +94,12 @@ West African trips into Mediterranean with steel billets were reported fixed aro
 | Aframax | Sea Bay | 108.760 | 2009 | Zhoushan, China | 04/2024 | MAN- B&W | $ 35m | Turkish | Scrubber fitted |
 | Aframax | Sea Hope | 108.701 | 2009 | Zhoushan, China | 04/2024 | MAN- B&W | $ 35m | Turkish | Scrubber fitted |
 | LR1 | Konstantin Jacob | 76.547 | 2011 | Dalian, China | 03/2026 | MAN- B&W | $ 121m enbloc | UK based (Navig8) | BWTS fitted |
-| LR1 | Cordula Jacob | 75.618 | 2012 | Dalian, China | 06/2027 | MAN- B&W | $ 121m | UK based | BWTS fitted |
-| LR1 | Georg Jacob | 75.618 | 2011 | Dalian, China | 07/2026 | MAN- B&W | enbloc | (Navig8) | BWTS fitted |
+| LR1 | Cordula Jacob | 75.618 | 2012 | Dalian, China | 06/2027 | MAN- B&W | $ 121m enbloc | UK based (Navig8) | BWTS fitted |
+| LR1 | Georg Jacob | 75.618 | 2011 | Dalian, China | 07/2026 | MAN- B&W | $ 121m enbloc | UK based (Navig8) | BWTS fitted |
 | LR1 | Till Jacob | 69.999 | 2012 | Dalian, China | 02/2027 | MAN- B&W | $ 121m enbloc | UK based (Navig8) | BWTS fitted |
-| LR1 | Stena Progress | 65.125 | 2009 | Brodosplit, Croatia | 09/2024 | MAN- B&W |  |  | BWTS fi d I |
+| LR1 | Stena Progress | 65.125 | 2009 | Brodosplit, Croatia | 09/2024 | MAN- B&W |  |  | BWTS fitted, Ice Class 1B & 1A, basis T/C back |
 | LR1 | Stena Premium | 65.055 | 2011 | Brodosplit, Croatia | 06/2026 | MAN- B&W | $ 90m enbloc | Undisclosed | BWTS fitted, Ice Class 1B & 1A, basis T/C back |
-| LR1 | Stena Penguin | 64.834 | 2010 | Brodosplit, Croatia | 10/2025 | MAN- B&W |  |  | basis T/C back |
+| LR1 | Stena Penguin | 64.834 | 2010 | Brodosplit, Croatia | 10/2025 | MAN- B&W |  |  | BWTS fitted, Ice Class 1B & 1A, basis T/C back |
 
 ## Page 4
 
@@ -105,6 +107,7 @@ West African trips into Mediterranean with steel billets were reported fixed aro
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MR | Nord Stingray | 51.291 | 2009 | Stx, Korea | 05/2024 | MAN- B&W | Region $ 24m | Turkish | BWTS fitted, Scrubber fitted, basis cancelling May'23 |
 | MR | UOG Andros | 49.999 | 2009 | Spp, Korea | 03/2024 | MAN- B&W | Mid $ 22m | Undisclosed | BWTS fitted, Ice Class II |
 | Chemical/Oil Products | DL Emerald | 13.034 | 2009 | 21st Century, Korea | 02/2024 | MAN- B&W | High $ 9m | Undisclosed |  |
 
@@ -119,6 +122,7 @@ West African trips into Mediterranean with steel billets were reported fixed aro
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | Trinity Arrow | 79.556 | 2008 | Koyo, Japan | 03/2023 | Kawasaki | 152.655 | Low $ 60's | Chinese (Jovo) |  |
+| LPG | Rubra | 56.745 | 2001 | Gdynia Stocznia, Poland | 02/2026 | Sulzer | 76.980 | $ 33,5m | Undisclosed |  |
 
 ## Page 5
 

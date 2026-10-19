@@ -89,8 +89,8 @@ A number of Indian trips into Arabian Gulf were reported at the level of usd 8,0
 | Supramax | Ivy Alliance | 55.886 | 2011 | IHI, Japan | 01/2026 | Wartsila | 4x30T | $ 15,6m | Vietnamese |  |
 | Handysize | Bunun Orchid | 37.875 | 2021 | I-S, Japan | 03/2026 | MAN-B&W | 4x30,5T | $ 24,75m | Greek (Stealth Maritime) |  |
 | Handysize | UBC Tokyo | 37.865 | 2005 | Saiki, Japan | 10/2025 | Mitsubishi | 4x36T | Region $ 8m | Undisclosed | OHBS |
-| Handysize | DL Lavender | 35.194 | 2014 | Spp, Korea | 01/2029 | MAN-B&W | 4x35T | $ 27m | Undisclosed |  |
-| Handysize | DL Olive | 35.194 | 2013 | Spp, Korea | 12/2028 | MAN-B&W | 4x35T | enbloc | Undisclosed |  |
+| Handysize | DL Lavender | 35.194 | 2014 | Spp, Korea | 01/2029 | MAN-B&W | 4x35T | $ 27m enbloc | Undisclosed |  |
+| Handysize | DL Olive | 35.194 | 2013 | Spp, Korea | 12/2028 | MAN-B&W | 4x35T | $ 27m enbloc | Undisclosed |  |
 | Handysize | Vega Dablam | 35.112 | 2011 | Zhejiang, China | 12/2026 | MAN-B&W | 4x30T | $ 8,5m | Undisclosed |  |
 | Handysize | Maple Tulip | 33.158 | 2011 | Kanda, Japan | 10/2025 | Mitsubishi | 4x30,5T | $ 11,8m | Undisclosed | OHBS |
 

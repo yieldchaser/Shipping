@@ -99,8 +99,8 @@ East African trips into Mediterranean were reported at the level of usd 12,000/1
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Oceanic Fortune | 320.054 | 2010 | Hyundai, Korea | 01/2030 | Wartsila | $ 57m | Chinese | Scrubber fitted |
 | Suezmax | Sonangol Namibe | 158.425 | 2007 | Daewoo, Korea | 03/2027 | MAN-B&W | $ 34m | Greek |  |
-| Suezmax | North Star | 157.000 | 2025 | Daehan, Korea |  | MAN-B&W | $ 97m | Greek (Okeanis | Resale, Scrubber fitted |
-| Suezmax | Viking Star | 157.000 | 2026 | Daehan, Korea |  | MAN-B&W | $ 97m | Eco Tankers) | Resale, Scrubber fitted |
+| Suezmax | North Star | 157.000 | 2025 | Daehan, Korea |  | MAN-B&W | $ 97m | Greek (Okeanis Eco Tankers) | Resale, Scrubber fitted |
+| Suezmax | Viking Star | 157.000 | 2026 | Daehan, Korea |  | MAN-B&W | $ 97m | Greek (Okeanis Eco Tankers) | Resale, Scrubber fitted |
 | Suezmax | Advantage Summer | 156.527 | 2010 | Jiangsu, China | 06/2030 | MAN-B&W | $ 40,4m | Undisclosed | Scrubber fitted |
 | Suezmax | Sapphira | 149.876 | 2008 | Universal, Japan | 07/2028 | Wartsila | $ 37m | Undisclosed | DD 04/2026 |
 

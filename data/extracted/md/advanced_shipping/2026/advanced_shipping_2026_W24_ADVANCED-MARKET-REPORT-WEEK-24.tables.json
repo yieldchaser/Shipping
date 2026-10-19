@@ -145,13 +145,13 @@
       "YARD": "Oshima, Japan",
       "M_E": "MAN-B&W",
       "GEAR": "-",
-      "PRICE": "$ 75,8m",
+      "PRICE": "$ 75,8m enbloc",
       "PRICE_USD_MILL": 75.8,
-      "BUYERS": "Omani (Asyad",
+      "BUYERS": "Omani (Asyad Shipping)",
       "SS": "01/2031",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2026_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf",
-      "extra_json": "{\"issue_date\": \"2026-06-12\", \"report_week\": \"24\", \"source_file\": \"advanced_shipping_2026_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf\", \"raw_price\": \"$ 75,8m\"}"
+      "extra_json": "{\"issue_date\": \"2026-06-12\", \"report_week\": \"24\", \"source_file\": \"advanced_shipping_2026_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf\", \"raw_price\": \"$ 75,8m enbloc\"}"
     },
     {
       "issue": "2026-06-12",
@@ -167,13 +167,13 @@
       "YARD": "Oshima, Japan",
       "M_E": "MAN-B&W",
       "GEAR": "-",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
-      "BUYERS": "Shipping)",
+      "PRICE": "$ 75,8m enbloc",
+      "PRICE_USD_MILL": 75.8,
+      "BUYERS": "Omani (Asyad Shipping)",
       "SS": "10/2030",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2026_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf",
-      "extra_json": "{\"issue_date\": \"2026-06-12\", \"report_week\": \"24\", \"source_file\": \"advanced_shipping_2026_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2026-06-12\", \"report_week\": \"24\", \"source_file\": \"advanced_shipping_2026_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf\", \"raw_price\": \"$ 75,8m enbloc\"}"
     },
     {
       "issue": "2026-06-12",

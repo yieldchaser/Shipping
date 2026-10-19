@@ -83,13 +83,20 @@ A number of Australian trips into South East Asia with alumina were reported at 
 | Capesize | Rosco Maple | 181.453 | 2010 | Sasebo, Japan | 06/2025 | MAN- B&W | - | $ 33,5m | Greek | BWTS fitted |
 | Capesize | Aqua Honor | 175.428 | 2012 | Jinhai, China | 05/2022 | MAN- B&W | - | $ 28m | Undisclosed |  |
 | Kamsarmax | Pedhoulas Fighter | 81.541 | 2012 | Zhejiang, China | 08/2022 | MAN- B&W | - | Region $ 24m | Chinese | Scrubber fitted |
+| Ultramax | Sailing Sky | 61.346 | 2014 | Shin Kasado, Japan | 06/2024 | MAN- B&W | 4x30,7T | $ 27,25m | Vietnamese | BWTS fitted, Dely Nov- Dec'21 |
+| Supramax | Stove Friend | 57.679 | 2016 | Tsuneishi Cebu, Philippines | 10/2021 | MAN- B&W | 4x30T | $ 29m | Undisclosed | Basis SS/DD freshly passed, BWTS fitted |
+| Supramax | Stove Tide | 57.679 | 2016 | Tsuneishi Cebu, Philippines | 10/2026 | MAN- B&W | 4x30T | $ 29m | Undisclosed | SS/DD freshly passed, BWTS fitted |
 | Supramax | Seacon 6 | 57.000 | 2012 | Ningbo, China | 06/2022 | MAN- B&W | 4x30T | $ 15,3m | Undisclosed | Auction sale |
+| Supramax | Spring Hawk | 55.688 | 2010 | Mitsui, Japan | 05/2025 | MAN- B&W | 4x30T | $ 22m | Undisclosed | BWTS fitted, Dely Nov- Dec'21 |
 | Handymax | Jun Benefit | 45.572 | 1997 | Tsuneishi, Japan | 11/2022 | B&W | 4x30T | Low $ 7m | Undisclosed |  |
 | Handysize | Cielo Di Gaspesie | 37.064 | 2012 | Hyundai Mipo, Korea | 07/2022 | MAN- B&W | 4x30T | Low $ 19m | Undisclosed | OHBS |
 | Handysize | Teo | 35.829 | 2011 | Qidong, China | 05/2026 | MAN- B&W | 4x30T | Region $ 16,5m | Undisclosed | BWTS fitted |
+| Handysize | EOS Esperance | 33.686 | 2012 | Shin Kurushima, Japan | 05/2022 | Mitsubishi | 4x30T | High $ 34m enbloc | Chinese | OHBS, BWTS fitted |
+| Handysize | EOS Victory | 33.686 | 2012 | Shin Kurushima, Japan | 08/2022 | Mitsubishi | 4x30T | High $ 34m enbloc | Chinese | OHBS, BWTS fitted |
 | Handysize | Bao Da | 28.107 | 2001 | Bohai, China | 03/2024 | Sulzer | 4x30T | $ 7m | Undisclosed |  |
-| Handysize | Bulker Bee 20 | 25.041 | 2010 | Ningbo, China | 09/2025 | MAN- B&W | 3x30T | $ 21,5m | German | BWTS fitted |
-| Handysize | Bulker Bee 21 | 25.012 | 2011 | Ningbo, China | 01/2026 | MAN- B&W | 3x30T | enbloc | German | BWTS fitted |
+| Handysize | Glorious Earth | 26.102 | 2013 | Shin Kurushima, Japan | 01/2023 | MAN- B&W | 3x30,7T | $ 14,5m | Undisclosed |  |
+| Handysize | Bulker Bee 20 | 25.041 | 2010 | Ningbo, China | 09/2025 | MAN- B&W | 3x30T | $ 21,5m enbloc | German | BWTS fitted |
+| Handysize | Bulker Bee 21 | 25.012 | 2011 | Ningbo, China | 01/2026 | MAN- B&W | 3x30T | $ 21,5m enbloc | German | BWTS fitted |
 
 ## Page 4
 

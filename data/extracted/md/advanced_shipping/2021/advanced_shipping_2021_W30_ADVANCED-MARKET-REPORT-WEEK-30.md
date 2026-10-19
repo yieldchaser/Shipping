@@ -80,10 +80,13 @@ North Pacific rounds ranged at the usd 30,000/31,000 pd. Continental trips via B
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Harvest Sky | 95.717 | 2013 | Imabari, Japan | 11/2023 | MAN- B&W | - | $ 23m | Greek | BWTS fitted, Dely Oct '21 |
+| Post Panamax | Dyna Camellia | 91.569 | 2007 | Imabari, Japan | 03/2022 | Mitsubishi | - | $ 17,5m | Chinese | BWTS fitted, Dely Sep-Oct '21 |
 | Kamsarmax | Glorious Wind | 83.410 | 2010 | Sanoyas, Japan | 08/2025 | MAN- B&W | - | Excess $ 20m | Greek | Dely Nov-Dec '21 |
 | Panamax | Canea | 75.356 | 2007 | Universal, Japan | 06/2022 | MAN- B&W | - | $ 17,5m | Undisclosed |  |
-| Ultramax | Calico Jack | 61.305 | 2015 | I-S, Japan | 10/2025 | MAN- B&W | 4x30,7T | $ 55m | Greek | BWTS fitted both incl |
-| Ultramax | Phoenix Rising | 60.417 | 2015 | Mitsui, Japan | 06/2025 | MAN- B&W | 4x30,7T | enbloc | Greek | both, incl. balance of T/C |
+| Ultramax | Komi | 63.628 | 2015 | Cosco Zhoushan, China | 01/2025 | MAN- B&W | 4x30T | $ 25m | Greek | BWTS fitted, Dely Sep '21 incl. T/C until Nov '21 |
+| Ultramax | Ocean Phoenix Tree | 62.623 | 2017 | Oshima, Japan | 09/2022 | MAN- B&W | 4x30T | $ 29,5m | Undisclosed | BWTS fitted, Dely Jan '22 |
+| Ultramax | Calico Jack | 61.305 | 2015 | I-S, Japan | 10/2025 | MAN- B&W | 4x30,7T | $ 55m enbloc | Greek | BWTS fitted both, incl. balance of T/C |
+| Ultramax | Phoenix Rising | 60.417 | 2015 | Mitsui, Japan | 06/2025 | MAN- B&W | 4x30,7T | $ 55m enbloc | Greek | BWTS fitted both, incl. balance of T/C |
 | Supramax | Atlantic Merida | 56.670 | 2012 | Taizhou, China | 01/2026 | Mitsubishi | 4x30T | $ 15m | Undisclosed | BWTS & Grabs fitted |
 | Supramax | Dory | 55.705 | 2010 | IHI, Japan | 09/2025 | Wartsila | 4x35T | $ 17,5m | Undisclosed | BWTS & Grabs fitted |
 | Handysize | Nordic Incheon | 35.817 | 2018 | Samjin, China | 01/2023 | MAN- B&W | 4x30T | $ 20,5m | Undisclosed |  |
@@ -114,17 +117,17 @@ North Pacific rounds ranged at the usd 30,000/31,000 pd. Continental trips via B
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | Northern Jade | 8.814 | 2005 | Daewoo, Korea | 08/2025 | MAN-B&W | - | $ 85m | Swiss (MSC) | Incl T/C |
+| Post Panamax | Northern Jade | 8.814 | 2005 | Daewoo, Korea | 08/2025 | MAN-B&W | - | $ 85m | Swiss (MSC) | Incl. T/C |
 | Post Panamax | Northern Julie | 8.814 | 2005 | Daewoo, Korea | 04/2025 | MAN-B&W | - | $ 85m | Swiss (MSC) | Incl. T/C |
 | Post Panamax | Wide India | 5.466 | 2015 | HHIC, Philippines | 04/2025 | MAN-B&W | - | $ 260m enbloc | Greek (Danaos Shipping) |  |
 | Post Panamax | Wide Juliet | 5.466 | 2015 | HHIC, Philippines | 05/2025 | MAN-B&W | - | $ 260m enbloc | Greek (Danaos Shipping) |  |
-| Post Panamax | Wide Hotel | 5.466 | 2015 | HHIC, Philippines | 03/2025 | MAN-B&W | - | $ 260m | Greek (Danaos |  |
-| Post Panamax | Wide Bravo | 5.466 | 2014 | HHIC, Philippines | 06/2024 | MAN-B&W | - | enbloc | (Danaos Shipping) |  |
+| Post Panamax | Wide Hotel | 5.466 | 2015 | HHIC, Philippines | 03/2025 | MAN-B&W | - | $ 260m enbloc | Greek (Danaos Shipping) |  |
+| Post Panamax | Wide Bravo | 5.466 | 2014 | HHIC, Philippines | 06/2024 | MAN-B&W | - | $ 260m enbloc | Greek (Danaos Shipping) |  |
 | Post Panamax | Wide Alpha | 5.466 | 2014 | HHIC, Philippines | 06/2024 | MAN-B&W | - | $ 260m enbloc | Greek (Danaos Shipping) |  |
 | Post Panamax | Maersk Euphrates | 5.466 | 2014 | HHIC, Philippines | 10/2024 | MAN-B&W | - | $ 260m enbloc | Greek (Danaos Shipping) |  |
 | Panamax | Maine Trader | 4.992 | 2004 | Hanjin, Korea | 11/2024 | B&W | - | $ 54m | Undisclosed |  |
-| Panamax | Dong Cheng Bi Hai | 3.768 | 2007 | Stx, Korea | 04/2022 | MAN-B&W | - | $ 44m | Danish |  |
-| Panamax | Dong Cheng Hao Hai | 3.768 | 2007 | Stx, Korea | 06/2022 | MAN-B&W | - | $ 44m | (AP Moller) |  |
+| Panamax | Dong Cheng Bi Hai | 3.768 | 2007 | Stx, Korea | 04/2022 | MAN-B&W | - | $ 44m | Danish (AP Moller) |  |
+| Panamax | Dong Cheng Hao Hai | 3.768 | 2007 | Stx, Korea | 06/2022 | MAN-B&W | - | $ 44m | Danish (AP Moller) |  |
 | Sub Panamax | Cosmos | 2.602 | 2006 | Stx, Korea | 12/2021 | MAN-B&W | 4x45T | $ 33m | Undisclosed |  |
 
 ## Page 5

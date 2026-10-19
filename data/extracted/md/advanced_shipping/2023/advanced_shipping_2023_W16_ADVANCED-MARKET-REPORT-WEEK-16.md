@@ -102,10 +102,13 @@ A generally quiet week for this segment. A number of trips from Thailand into In
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Suezmax | Ridgebury Elizabeth B | 158.574 | 2011 | Hyundai, Korea | 05/2026 | MAN- B&W | $ 47m | UK based | BWTS fitted |
-| Suezmax | Ridgebury Lessley B | 158.319 | 2013 | Samsung, Korea | 09/2023 | MAN- B&W | $ 54,5m | (Navig8) | BWTS fitted, Scrubber fitted |
+| Suezmax | Ridgebury Elizabeth B | 158.574 | 2011 | Hyundai, Korea | 05/2026 | MAN- B&W | $ 47m | UK based (Navig8) | BWTS fitted |
+| Suezmax | Ridgebury Lessley B | 158.319 | 2013 | Samsung, Korea | 09/2023 | MAN- B&W | $ 54,5m | UK based (Navig8) | BWTS fitted, Scrubber fitted |
+| Aframax | Aristoklis | 113.838 | 2017 | Daehan, Korea | 01/2027 | MAN- B&W | $ 68,5m | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1C |
 | LR1 | Hafnia Rhine | 76.578 | 2008 | Dalian, China | 03/2028 | MAN- B&W | $ 26,5m | Undisclosed | BWTS fitted |
 | LR1 | Pike | 73.723 | 2008 | New Times, China | 10/2023 | MAN- B&W | $ 22,5m | Undisclosed |  |
+| MR | Kiribora | 50.044 | 2013 | Spp, Korea | 01/2028 | MAN- B&W | $ 33,5m | UK based (Union Maritime) |  |
+| MR | Bahri Iris | 49.000 | 2005 | Daewoo, Korea | 01/2025 | MAN- B&W | $ 17m | Undisclosed | Old sale, BWTS fitted, DD 08/2023 |
 | MR | Dee4 Elm | 47.401 | 2009 | Onomichi, Japan | 01/2024 | MAN- B&W | $ 25m | Undisclosed | BWTS fitted |
 | MR | Maersk Michigan | 47.047 | 2003 | Onomichi, Japan | 07/2023 | B&W | High $ 14m | Undisclosed | BWTS fitted |
 | MR | Odori | 45.897 | 2005 | Shin Kurushima, Japan | 08/2025 | Mitsubishi | $ 20m | Undisclosed | BWTS fitted, DD 09/2023 |

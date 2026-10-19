@@ -80,22 +80,25 @@ A generally quiet week for this segment. South American trips into Continent wer
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Cape Mathilde | 178.831 | 2010 | Mitsui, Japan | 11/2025 | MAN-B&W | - | Region $ 30m | Chinese | BWTS fitted |
+| Capesize | HL Baltimore | 177.489 | 2006 | Mitsui, Japan | 09/2026 | MAN-B&W | - | $ 22m | Far Eastern | BWTS fitted, TC back for 9/11 months at 21.000 usd/pd |
 | Capesize | Genco Hadrian | 169.025 | 2008 | Sungdong, Korea | 12/2028 | MAN-B&W | - | $ 25m | Far Eastern | BWTS fitted, Scrubber fitted |
 | Kamsarmax | Kristian Oldendorff | 82.143 | 2024 | Jiangsu, China | 01/2029 | MAN-B&W | - | $ 40,85m | Korean (HMM) | BWTS fitted, Scrubber fitted |
 | Kamsarmax | Xing De Hai | 82.204 | 2017 | Oshima, Japan | 12/2027 | MAN-B&W | - | Region $ 37m | Indian | On subs, BWTS fitted |
 | Kamsarmax | Yu Qiang | 81.608 | 2012 | PLA 4807, China | 05/2027 | MAN-B&W | - | $ 17,5m | Greek | BWTS fitted |
 | Panamax | The Holy | 76.623 | 2001 | Imabari, Japan | 10/2026 | MAN-B&W | - | $ 9,2m | Undisclosed | BWTS fitted |
+| Panamax | Star Iris | 76.466 | 2004 | Tsuneishi, Japan | 04/2029 | B&W | - | $ 13,1m | Chinese | BWTS fitted, Scrubber fitted, Damaged by Houthis in Feb'24 |
 | Panamax | Aliyah Pertiwi | 73.461 | 2001 | Tsuneishi, Japan | 12/2026 | B&W | 4x30T | $ 7,5m | Chinese | Geared, BWTS fitted |
 | Ultramax | Swansea | 63.310 | 2015 | Yangzhou, China | 07/2025 | MAN-B&W | 4x35T | $ 25,5m | Greek (Castor Maritime) | BWTS fitted |
 | Ultramax | Tai Shine | 61.473 | 2012 | Shin Kasado, Japan | 10/2027 | MAN-B&W | 4x30,5T | Region $ 22m | Undisclosed | BWTS fitted |
+| Ultramax | Xing Xi Hai | 60.498 | 2017 | Mitsui, Japan | 01/2027 | MAN-B&W | 4x30T | $ 32,5m | Greek | BWTS fitted, Incl. existing T/C at 115% BSI58 till Oct'24-Jan'25 |
 | Supramax | Olympus | 57.374 | 2013 | Stx Dalian, China | 05/2028 | MAN-B&W | 4x30T | Excess $ 17m | Greek | BWTS fitted |
 | Supramax | H Juno | 57.353 | 2011 | Stx Dalian, China | 11/2025 | MAN-B&W | 4x30T | $ 14m | Vietnamese | BWTS fitted |
 | Supramax | Cebihan | 57.318 | 2009 | Stx, Korea | 04/2029 | MAN-B&W | 4x30T | Low $ 15m | Vietnamese | BWTS fitted |
 | Supramax | Heilan Cruiser | 56.922 | 2012 | Shanghai, China | 12/2026 | MAN-B&W | 4x35T | Excess $ 14m | Undisclosed | BWTS fitted |
 | Supramax | Ionic Storm | 56.032 | 2005 | Mitsui, Japan | 12/2025 | MAN-B&W | 4x30T | Low $ 13m | Greek | BWTS fitted |
 | Handysize | Sea Smile | 38.109 | 2012 | Shimanami, Japan | 04/2027 | MAN-B&W | 4x30,5T | $ 17m | Undisclosed | BWTS fitted |
-| Handysize | Lago Di Cancano | 37.666 | 2014 | Qingshan, China | 01/2029 | MAN-B&W | 4x30,5T | $ 36,5m | Undisclosed | BWTS fitted, Ice Class 1C |
-| Handysize | Lago Di Como | 37.653 | 2014 | Qingshan, China | 06/2029 | MAN-B&W | 4x30,5T | enbloc | Undisclosed | BWTS fitted, Ice Class 1C |
+| Handysize | Lago Di Cancano | 37.666 | 2014 | Qingshan, China | 01/2029 | MAN-B&W | 4x30,5T | $ 36,5m enbloc | Undisclosed | BWTS fitted, Ice Class 1C |
+| Handysize | Lago Di Como | 37.653 | 2014 | Qingshan, China | 06/2029 | MAN-B&W | 4x30,5T | $ 36,5m enbloc | Undisclosed | BWTS fitted, Ice Class 1C |
 
 ## Page 4
 
@@ -104,6 +107,7 @@ A generally quiet week for this segment. South American trips into Continent wer
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Handysize | Coreleader OL | 37.118 | 2012 | Saiki, Japan | 10/2027 | Mitsubishi | 4x30T | $ 17,4m | Turkish (Manta Shipping) | OHBS, BWTS fitted |
+| Handysize | SSI Daring | 36.228 | 2017 | Shikoku, Japan | 04/2027 | MAN-B&W | 4x30,5T | $ 26,5m | Korean (HMM) | OHBS, BWTS fitted, Scrubber fitted |
 | Handysize | DL Jasmine | 33.737 | 2012 | Samjin, China | 08/2027 | MAN-B&W | 4x35T | Region $ 12,3m | Greek | BWTS fitted |
 | Handysize | Seastar Titan | 30.439 | 2009 | Tsuji, China | 04/2029 | MAN-B&W | 4x30T | Mid-High $ 9m | Undisclosed | BWTS fitted |
 

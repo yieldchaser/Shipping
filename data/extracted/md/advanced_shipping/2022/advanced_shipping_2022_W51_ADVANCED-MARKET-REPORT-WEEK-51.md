@@ -80,8 +80,9 @@ A number of trips from China into East Coast India were reported at the level of
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Lowlands Sunrise | 181.458 | 2011 | Koyo, Japan | 06/2026 | MAN- B&W | - | $ 26m | Greek (Stealth Maritime) | BWTS fitted |
-| Capesize | Wisdom Of The Sea 2 | 180.184 | 2011 | Daehan, Korea | 11/2025 | MAN- B&W | - | $ 23,8m | Undisclosed | BWTS fitted, T/C attached |
-| Capesize | Wisdom Of The Sea 1 | 180.144 | 2011 | Daehan, Korea | 02/2026 | MAN- B&W | - | $ 23,8m | Undisclosed | T/C attached until Mar-Jun'23 |
+| Capesize | Wisdom Of The Sea 2 | 180.184 | 2011 | Daehan, Korea | 11/2025 | MAN- B&W | - | $ 23,8m | Undisclosed | BWTS fitted, T/C attached until Mar-Jun'23 |
+| Capesize | Wisdom Of The Sea 1 | 180.144 | 2011 | Daehan, Korea | 02/2026 | MAN- B&W | - | $ 23,8m | Undisclosed | BWTS fitted, T/C attached until Mar-Jun'23 |
+| Ultramax | Stony Stream | 64.000 | 2015 | Chengxi, China | 04/2025 | MAN- B&W | 4x30T | Low $ 24m | US (Eagle Bulk) | BWTS fitted, Dely Feb- Mar'23 |
 | Supramax | Equinox Dawn | 52.015 | 2002 | Brodosplit, Croatia | 02/2027 | B&W | 4x35T | $ 11,3m | Undisclosed | November sale |
 | Handysize | Mykonos | 34.340 | 2009 | Spp, Korea | 11/2024 | MAN- B&W | 4x35T | Region $ 12m | Undisclosed | BWTS fitted |
 
@@ -89,12 +90,13 @@ A number of trips from China into East Coast India were reported at the level of
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | Cosmo Ace | 320.054 | 2010 | Hyundai, Korea | 01/2025 | Wartsila | Undisclosed | Undisclosed | BWTS fitted, Scrubber fitted, Converted from VLOC |
 | Suezmax | Kriti Breeze | 151.736 | 2003 | Hyundai, Korea | 11/2023 | MAN- B&W | $ 30,5m | Undisclosed |  |
 | Suezmax | Crescent Moon | 150.581 | 2004 | Universal, Japan | 10/2024 | Sulzer | $ 33,5m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Aframax | Houston Star | 116.093 | 2007 | Universal, Japan | 07/2027 | Sulzer | $ 39,5m | Gardsea Shipping | BWTS fitted |
 | Aframax | Delta Pioneer | 111.013 | 2004 | Hyundai Samho, Korea | 10/2024 | B&W | $ 35m | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1A |
-| Aframax | Delta Captain | 111.009 | 2005 | Hyundai Samho, Korea | 02/2025 | B&W | $ 35m | Undisclosed | BWTS fitted, Scrubber fitted |
-| Aframax | Delta Victory | 111.006 | 2005 | Hyundai Samho, Korea | 01/2025 | B&W | $ 35m | Undisclosed | Scrubber fitted, Ice Class 1A |
+| Aframax | Delta Captain | 111.009 | 2005 | Hyundai Samho, Korea | 02/2025 | B&W | $ 35m | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1A |
+| Aframax | Delta Victory | 111.006 | 2005 | Hyundai Samho, Korea | 01/2025 | B&W | $ 35m | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1A |
 | Aframax | Delta Sailor | 111.004 | 2005 | Hyundai Samho, Korea | 03/2025 | B&W | $ 35m | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1A |
 | LR2 | Saint George | 109.390 | 2002 | Dalian, China | 06/2027 | Sulzer | $ 23,5m | Undisclosed | BWTS fitted |
 | Aframax | Minoansea | 108.817 | 2008 | SWS, China | 08/2023 | MAN- B&W | $ 39m | Gardsea Shipping |  |
@@ -108,6 +110,7 @@ A number of trips from China into East Coast India were reported at the level of
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sub Panamax | Carpathia | 2.824 | 2003 | Hyundai Mipo, Korea | 11/2023 | B&W | - | Undisclosed | Undisclosed |  |
+| Sub Panamax | AS Cleopatra | 2.742 | 2006 | Aker Mtw Werft, Germany | 08/2026 | MAN-B&W | 3x45T | $ 20,9m | Undisclosed |  |
 
 ## Page 5
 

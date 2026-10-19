@@ -86,6 +86,8 @@ No fixture reported for this segment. No period activity to report here.
 | Ultramax | Jonas Oldendorff | 61.148 | 2019 | DACKS, China | 08/2024 | MAN- B&W | 4x30,5T | $ 32m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Ultramax | Jens Oldendorff | 61.139 | 2019 | DACKS, China | 07/2024 | MAN- B&W | 4x30T | $ 32m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Ultramax | Jacob Oldendorff | 61.131 | 2019 | DACKS, China | 04/2024 | MAN- B&W | 4x30,5T | $ 32m | Undisclosed | BWTS fitted, Scrubber fitted |
+| Supramax | Ignazio | 58.126 | 2010 | Tsuneishi Cebu, Philippines | 04/2025 | MAN- B&W | 4x30T | $ 15,5m | Turkish | BWTS fitted, DD 05/2023, basis waiving inspection |
+| Supramax | Jaeger | 52.483 | 2004 | Tsuneishi Cebu, Philippines | 10/2024 | MAN- B&W | 4x30T | Low $ 9m | Turkish | BWTS fitted, DD 04/2023 |
 | Supramax | Worldera-1 | 51.024 | 2001 | Oshima, Japan | 12/2024 | Sulzer | 4x30T | $ 8m | Undisclosed | BWTS fitted |
 | Handysize | Cielo Di Angra | 39.202 | 2015 | Yangfan, China | 10/2025 | MAN- B&W | 4x30T | $ 20m | German | BWTS fitted |
 | Handysize | Octbreeze Island | 38.278 | 2011 | Shimanami, Japan | 10/2026 | MAN- B&W | 4x30,5T | Low-Mid $ 15m | Undisclosed | BWTS fitted |
@@ -100,6 +102,8 @@ No fixture reported for this segment. No period activity to report here.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Elizabeth I.A. | 306.229 | 2004 | Daewoo, Korea | 03/2024 | B&W | Undisclosed | Undisclosed | Scrubber fitted |
 | LR1 | Chemtrans Oceanic | 73.901 | 2005 | New Century, China | 01/2025 | MAN- B&W | $ 21m | Undisclosed | Delivered, DD 07/2023 |
+| LR1 | River Shiner | 73.788 | 2005 | Stx, Korea | 06/2025 | B&W | Undisclosed | Indian (Gatik) | BWTS fitted, Scrubber fitted, Ice Class 1A |
+| LR1 | Emerald Shiner | 73.741 | 2005 | Stx, Korea | 07/2025 | MAN- B&W | Undisclosed | Indian (Gatik) | BWTS fitted, Scrubber fitted, Ice Class 1A |
 | MR | Nord Skate | 51.332 | 2009 | Stx, Korea | 01/2024 | MAN- B&W | $ 25m | Turkish | BWTS fitted, Scrubber fitted |
 | MR | Lila Rhine | 51.271 | 2007 | Stx, Korea | 02/2027 | MAN- B&W | $ 22,5m | Undisclosed | BWTS fitted |
 | MR | Seamuse | 48.673 | 2007 | Iwagi, Japan | 08/2025 | MAN- B&W | $ 21,7m | Undisclosed | BWTS fitted |

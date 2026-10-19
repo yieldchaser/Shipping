@@ -80,8 +80,8 @@ Trips from China via Australia into China were fixed around usd 11,000/13,000 pd
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Eastern Freesia | 180.096 | 2010 | Qingdao, China | 10/2025 | MAN-B&W | - | $ 23,25m | Chinese |  |
-| Capesize | Battersea | 169.391 | 2009 | Daehan, Korea | 03/2029 | MAN-B&W | - | $ 49,6m | Swiss (Mercuria) | Scrubber fitted |
-| Capesize | Belgravia | 169.391 | 2009 | Daehan, Korea | 10/2029 | MAN-B&W | - | enbloc | Swiss (Mercuria) | Scrubber fitted |
+| Capesize | Battersea | 169.391 | 2009 | Daehan, Korea | 03/2029 | MAN-B&W | - | $ 49,6m enbloc | Swiss (Mercuria) | Scrubber fitted |
+| Capesize | Belgravia | 169.391 | 2009 | Daehan, Korea | 10/2029 | MAN-B&W | - | $ 49,6m enbloc | Swiss (Mercuria) | Scrubber fitted |
 | Post Panamax | CMB Medoc | 95.746 | 2012 | Imabari, Japan | 04/2030 | MAN-B&W | - | $ 18,5m | Undisclosed |  |
 | Kamsarmax | Nord Crux | 81.791 | 2016 | Tsuneishi Cebu, Philippines | 09/2026 | MAN-B&W | - | $ 26,5m | Undisclosed | Scrubber fitted |
 | Kamsarmax | Jiuxu 81 | 81.762 | 2013 | Wuhu, China | 07/2028 | MAN-B&W | - | $ 18,5m | Chinese |  |

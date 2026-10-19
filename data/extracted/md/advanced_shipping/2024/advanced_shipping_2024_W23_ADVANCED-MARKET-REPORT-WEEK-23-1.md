@@ -85,6 +85,7 @@ A generally quiet week for this segment. A number of Indian trips via Australia 
 | Panamax | Atlas | 75.124 | 2012 | Penglai, China | 10/2027 | MAN-B&W | - | $ 17,5m |  | BWTS fitted |
 | Ultramax | Swansea | 63.310 | 2015 | Yangzhou, China | 07/2025 | MAN-B&W | 4x35T | $ 25m | Undisclosed | BWTS fitted |
 | Supramax | Captain Andreadis | 58.760 | 2008 | Tsuneishi Zhoushan, China | 11/2028 | MAN-B&W | 4x30T | Low-Mid $ 16m | Undisclosed | BWTS fitted |
+| Supramax | Neo | 58.110 | 2011 | Tsuneishi Zhoushan, China | 05/2026 | MAN-B&W | 4x30T | Undiscl | Monaco based (Sea World Management) | Delivered |
 | Supramax | Seacon 8 | 57.000 | 2012 | Ningbo, China | 03/2027 | MAN-B&W | 4x30T | $ 14,13m | Chinese | Auction sale |
 | Handysize | Aktea R | 28.372 | 2010 | Imabari, Japan | 03/2025 | MAN-B&W | 4x30,5T | High $ 10m | Undisclosed | BWTS fitted |
 

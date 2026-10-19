@@ -145,13 +145,13 @@
       "YARD": "Tsuneishi Cebu, Philippines",
       "M_E": "MAN-B&W",
       "GEAR": "4x30T",
-      "PRICE": "$ 61m",
+      "PRICE": "$ 61m enbloc",
       "PRICE_USD_MILL": 61.0,
       "BUYERS": "Undisclosed",
       "SS": "09/2028",
       "COMMENTS": "DD 09/2026",
       "source_file": "advanced_shipping_2026_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf",
-      "extra_json": "{\"issue_date\": \"2026-03-13\", \"report_week\": \"11\", \"source_file\": \"advanced_shipping_2026_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf\", \"raw_price\": \"$ 61m\"}"
+      "extra_json": "{\"issue_date\": \"2026-03-13\", \"report_week\": \"11\", \"source_file\": \"advanced_shipping_2026_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf\", \"raw_price\": \"$ 61m enbloc\"}"
     },
     {
       "issue": "2026-03-13",
@@ -167,13 +167,13 @@
       "YARD": "Tsuneishi Zhoushan, China",
       "M_E": "MAN-B&W",
       "GEAR": "4x30T",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 61m enbloc",
+      "PRICE_USD_MILL": 61.0,
       "BUYERS": "Undisclosed",
       "SS": "11/2027",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2026_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf",
-      "extra_json": "{\"issue_date\": \"2026-03-13\", \"report_week\": \"11\", \"source_file\": \"advanced_shipping_2026_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2026-03-13\", \"report_week\": \"11\", \"source_file\": \"advanced_shipping_2026_W11_ADVANCED-MARKET-REPORT-WEEK-11.pdf\", \"raw_price\": \"$ 61m enbloc\"}"
     },
     {
       "issue": "2026-03-13",

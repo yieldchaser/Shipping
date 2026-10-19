@@ -257,7 +257,7 @@ def extract_ruled_tables_from_page(page: pymupdf.Page, page_kind: str) -> List[D
         left_x = cols[0][1]
         row_rects = [
             r for r in rects
-            if hy + 10 < r.y0 < next_hy - 3 and abs(r.x0 - left_x) < 6 and 15 <= r.height <= 35
+            if hy + 10 < r.y0 < next_hy - 3 and abs(r.x0 - left_x) < 6 and 15 <= r.height <= 150
         ]
         # Dedup rows by y0
         dedup_row_rects = []
@@ -269,8 +269,15 @@ def extract_ruled_tables_from_page(page: pymupdf.Page, page_kind: str) -> List[D
         for rr in dedup_row_rects:
             ry0, ry1 = rr.y0, rr.y1
             row_dict: Dict[str, str] = {}
+            row_cy = (ry0 + ry1) / 2
             for col_name, cx0, cx1 in cols:
-                cell_clip = pymupdf.Rect(cx0 - 2, ry0 - 1, cx1 + 2, ry1 + 1)
+                # The drawn cell holding this row's middle; a cell merged over several rows (en-bloc price, one
+                # buyer for two ships) is one tall rect, so every row it spans gets its whole printed text.
+                cell = min((r for r in rects if abs(r.x0 - cx0) < 4 and r.height >= 15 and r.y0 > hy + 5
+                            and r.y0 - 1 <= row_cy <= r.y1 + 1), key=lambda r: r.width * r.height, default=None)
+                # inset horizontally: a +1pt pad reaches the first glyph of the next cell ('2005 S' from 'Shin')
+                cell_clip = (pymupdf.Rect(cell.x0 + 0.5, cell.y0 - 1, cell.x1 - 0.5, cell.y1 + 1) if cell
+                             else pymupdf.Rect(cx0 - 2, ry0 - 1, cx1 + 2, ry1 + 1))
                 val = _unclip(page, cell_clip, clean_text(page.get_text("text", clip=cell_clip)))
                 if not val:
                     # Check for vertically merged cells across multiple rows
@@ -912,8 +919,8 @@ def generate_markdown(
                 rows = t.get("rows", [])
                 md_lines.append(f"### {sec}\n")
                 if hdr and rows:
-                    # Filter out columns that are 100% blank across all rows
-                    active_hdr = [c for c in hdr if any(str(r.get(c, "")).strip() for r in rows)]
+                    # Every printed column, even one left blank in all rows (e.g. Comments), as on the page
+                    active_hdr = list(hdr)
                     if active_hdr:
                         md_lines.append("| " + " | ".join(active_hdr) + " |")
                         md_lines.append("| " + " | ".join(["---"] * len(active_hdr)) + " |")

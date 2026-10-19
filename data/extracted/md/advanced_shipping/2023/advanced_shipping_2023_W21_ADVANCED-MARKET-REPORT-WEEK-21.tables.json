@@ -215,7 +215,7 @@
       "PRICE_USD_MILL": 27.9,
       "BUYERS": "Norwegian",
       "SS": "12/2023",
-      "COMMENTS": "BWTS fitted,",
+      "COMMENTS": "BWTS fitted, Dely Oct-Dec'23",
       "source_file": "advanced_shipping_2023_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf",
       "extra_json": "{\"issue_date\": \"2023-05-26\", \"report_week\": \"21\", \"source_file\": \"advanced_shipping_2023_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf\", \"raw_price\": \"$ 27,9m\"}"
     },
@@ -237,7 +237,7 @@
       "PRICE_USD_MILL": 27.9,
       "BUYERS": "Norwegian",
       "SS": "11/2023",
-      "COMMENTS": "Dely Oct-Dec'23",
+      "COMMENTS": "BWTS fitted, Dely Oct-Dec'23",
       "source_file": "advanced_shipping_2023_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf",
       "extra_json": "{\"issue_date\": \"2023-05-26\", \"report_week\": \"21\", \"source_file\": \"advanced_shipping_2023_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf\", \"raw_price\": \"$ 27,9m\"}"
     },
@@ -394,6 +394,28 @@
       "COMMENTS": "",
       "source_file": "advanced_shipping_2023_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf",
       "extra_json": "{\"issue_date\": \"2023-05-26\", \"report_week\": \"21\", \"source_file\": \"advanced_shipping_2023_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf\", \"raw_price\": \"$ 37,8m\"}"
+    },
+    {
+      "issue": "2023-05-26",
+      "report_week": "21",
+      "section": "Tankers",
+      "page": "3",
+      "NAME": "Sperchios",
+      "TYPE": "Aframax",
+      "DWT": "106,999",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "2018",
+      "YARD": "Namura & Sasebo, Japan",
+      "M_E": "MAN-B&W",
+      "GEAR": "",
+      "PRICE": "$ 68,5m",
+      "PRICE_USD_MILL": 68.5,
+      "BUYERS": "Middle Eastern",
+      "SS": "",
+      "COMMENTS": "BWTS fitted, Scrubber fitted, SS/DD due",
+      "source_file": "advanced_shipping_2023_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf",
+      "extra_json": "{\"issue_date\": \"2023-05-26\", \"report_week\": \"21\", \"source_file\": \"advanced_shipping_2023_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf\", \"raw_price\": \"$ 68,5m\"}"
     },
     {
       "issue": "2023-05-26",

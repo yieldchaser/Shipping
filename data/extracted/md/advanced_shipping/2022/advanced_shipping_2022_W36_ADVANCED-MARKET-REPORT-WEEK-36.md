@@ -79,8 +79,8 @@ A number of Indonesian trips into China were reported at the level of usd 18,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLOC | Stella Daphne | 250.381 | 2017 | Qingdao, China | 07/2027 | WinGD | - | $ 98m | Singapore based | BWTS fitted |
-| VLOC | Stella Isabel | 250.379 | 2015 | Qingdao, China | 08/2025 | Wartsila | - | enbloc | based (Berge Bulk) |  |
+| VLOC | Stella Daphne | 250.381 | 2017 | Qingdao, China | 07/2027 | WinGD | - | $ 98m enbloc | Singapore based (Berge Bulk) | BWTS fitted |
+| VLOC | Stella Isabel | 250.379 | 2015 | Qingdao, China | 08/2025 | Wartsila | - | $ 98m enbloc | Singapore based (Berge Bulk) |  |
 | Kamsarmax | Fortuna | 83.353 | 2010 | Sanoyas, Japan | 10/2025 | MAN- B&W | - | $ 23,5m | Undisclosed | BWTS fitted |
 | Panamax | Navios Alegria | 76.466 | 2004 | Tsuneishi, Japan | 09/2024 | MAN- B&W | - | $ 13m | Undisclosed | BWTS fitted, DD 12/2022 |
 | Panamax | Zhong Lian Si Fang | 73.747 | 2000 | Sumitomo, Japan | 04/2027 | Sulzer | - | $ 10,6m | Undisclosed | Auction sale |
@@ -97,10 +97,11 @@ A number of Indonesian trips into China were reported at the level of usd 18,000
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Abqaiq | 302.986 | 2002 | Samsung, Korea | 11/2022 | Sulzer | $ 30m | Chinese |  |
 | Aframax | Lila Fujairah | 113.849 | 2007 | Daewoo, Korea | 10/2022 | MAN- B&W | $ 27,8m | Undisclosed |  |
+| Aframax | Aristodimos | 113.553 | 2006 | Samsung, Korea | 04/2026 | MAN- B&W | $ 32m | UAE based | BWTS fitted, Scrubber fitted, Ice Class 1A |
 | LR1 | Aristos | 74.999 | 2006 | Onomichi, Japan | 08/2026 | Mitsubishi | $ 22,5m | UAE based | BWTS fitted |
 | MR | Hyde | 46.858 | 2007 | Hyundai Mipo, Korea | 10/2022 | MAN- B&W | Mid-High $ 22m | Undisclosed | BWTS fitted, Scrubber fitted |
-| MR | NCC Sudair | 46.012 | 2007 | Hyundai Mipo, Korea | 11/2022 | MAN- B&W | Excess $ 35m | Undisclosed |  |
-| MR | NCC Rabigh | 45.951 | 2007 | Hyundai Mipo, Korea | 11/2022 | MAN- B&W | $ 35m enbloc | Undisclosed |  |
+| MR | NCC Sudair | 46.012 | 2007 | Hyundai Mipo, Korea | 11/2022 | MAN- B&W | Excess $ 35m enbloc | Undisclosed |  |
+| MR | NCC Rabigh | 45.951 | 2007 | Hyundai Mipo, Korea | 11/2022 | MAN- B&W | Excess $ 35m enbloc | Undisclosed |  |
 
 ## Page 4
 

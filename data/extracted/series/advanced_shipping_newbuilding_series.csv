@@ -152,8 +152,8 @@ issue_date,report_week,section,units,capacity,capacity_raw,capacity_unit,yard,de
 2021-12-03,48,Containers,2+2,5300.0,5.300,teu,"Zhoushan Changhong, China",2024,"$ 62,5m",62.5,Greek (Navios),,6,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
 2021-12-03,48,Containers,10,2000.0,2.000,teu,"Hyundai Mipo, Korea",2023/2024,"$ 62,8m",62.8,French (CMA CGM),"LNG dual fuelled, Ice Class 1A",6,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
 2021-12-03,48,Containers,2,1900.0,1.900,teu,"Yangfan, China",2023,"$ 28,2m",28.2,Chinese (Shanghai Jinjiang),Options declared,6,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
-2021-12-03,48,Containers,8,1170.0,1.170,teu,"New Dayang, China",2023/2024,Undisclosed,,Singaporean,Methanol dual,6,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
-2021-12-03,48,Containers,8,1170.0,1.170,teu,"Ningbo Xinle, China",2023/2024,Undisclosed,,g p (X-Press Feeders),fuelled,6,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
+2021-12-03,48,Containers,8,1170.0,1.170,teu,"New Dayang, China",2023/2024,Undisclosed,,Singaporean (X-Press Feeders),Methanol dual fuelled,6,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
+2021-12-03,48,Containers,8,1170.0,1.170,teu,"Ningbo Xinle, China",2023/2024,Undisclosed,,Singaporean (X-Press Feeders),Methanol dual fuelled,6,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
 2021-12-03,48,Gas,2+2,174000.0,174.000,cbm,"DSME, Korea",2025,$ 207m,207.0,Norwegian (BW Gas),,6,advanced_shipping_2021_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
 2021-12-10,49,Bulk Carriers,2,181000.0,181.000,dwt,"Nihon, Japan",2023/2024,$ 60m,60.0,Greek (Samos Steamship),,7,advanced_shipping_2021_W49_ADVANCED-MARKET-REPORT-WEEK-49.pdf
 2021-12-10,49,Containers,2+2,8000.0,8.000,teu,"Hyundai, Korea",2024,$ 119m,119.0,Singapore based (OM Maritime),"Dual fuelled, LOI stage",7,advanced_shipping_2021_W49_ADVANCED-MARKET-REPORT-WEEK-49.pdf
@@ -163,6 +163,7 @@ issue_date,report_week,section,units,capacity,capacity_raw,capacity_unit,yard,de
 2021-12-17,50,Bulk Carriers,4+4,63500.0,63.500,dwt,"Chengxi, China",2023/2024,$ 32m,32.0,Chinese (HuaXia FL),EEDI Phase 3,7,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2021-12-17,50,Tankers,2,7630.0,7.630,dwt,"Chongqing, China",2023,Undisclosed,,Chinese (Guangxi Wuzhou),St St chemical tankers,7,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2021-12-17,50,Containers,4,15000.0,15.000,teu,"Yangzijiang, China",2023/2024,Undisclosed,,Greek (Costamare),"Options exercised, against long term T/C",7,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
+2021-12-17,50,Containers,4,13000.0,13.000,teu,"Yangzijiang, China",2023/2024,Undisclosed,,Greek (Costamare),"2 new orders + 2 options exercised, against long term T/C",7,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2021-12-17,50,Gas,2,174000.0,174.000,cbm,2025,"Samsung, Korea",$ 207m,207.0,USA (JP Morgan),,7,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2021-12-17,50,Gas,3,174000.0,174.000,cbm,2024/2025,"Hudong Zhonghua, China",Undisclosed,,Chinese (CSET),,7,advanced_shipping_2021_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2021-12-24,51,Bulk Carriers,2,63500.0,63.500,dwt,"NACKS, China",2023,Undisclosed,,Chinese (HuaXia FL),,6,advanced_shipping_2021_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
@@ -282,7 +283,7 @@ issue_date,report_week,section,units,capacity,capacity_raw,capacity_unit,yard,de
 2022-05-27,21,Containers,2,7000.0,7.000,teu,"SWS, China",2025,Undisclosed,,Thai (RCL),,7,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
 2022-05-27,21,Gas,3,174000.0,174.000,cbm,"Samsung, Korea",2025 or 2026,"$ 223,5m",223.5,Korean (H-Line Shipping),"LNG, T/C to Petronas",7,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
 2022-05-27,21,Gas,2,174000.0,174.000,cbm,"Samsung, Korea",2026,"$ 230,7m",230.7,Greek (TMS Cardiff Gas),LNG,7,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
-2022-05-27,21,Gas,2,174000.0,174.000,cbm,"Hyundai Samho, Korea",2025,"$ 222,5m",222.5,Korean (SK Shipping),LNG T/C to Petronas,7,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
+2022-05-27,21,Gas,2,174000.0,174.000,cbm,"Hyundai Samho, Korea",2025,"$ 222,5m",222.5,Korean (SK Shipping),"LNG, T/C to Petronas",7,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
 2022-05-27,21,Gas,2,174000.0,174.000,cbm,"Hyundai, Korea",2025,"$ 222,5m",222.5,Korean (SK Shipping),"LNG, T/C to Petronas",7,advanced_shipping_2022_W21_ADVANCED-MARKET-REPORT-WEEK-21.pdf
 2022-06-03,22,Bulk Carriers,4,63000.0,63.000,dwt,"New Dayang, China",2024,"$ 32,5m",32.5,Chinese (CMB FL),,6,advanced_shipping_2022_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf
 2022-06-03,22,Tankers,8,50000.0,50.000,dwt,"New Times, China",2025,Undisclosed,,Norwegian (EuroGreen Maritime),Methanol-fuelled,6,advanced_shipping_2022_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf
@@ -292,8 +293,8 @@ issue_date,report_week,section,units,capacity,capacity_raw,capacity_unit,yard,de
 2022-06-10,23,Bulk Carriers,2,82000.0,82.000,dwt,"COSCO, China",2024/2025,Undisclosed,,Greek (Safe Bulkers),EEDI phase 3,6,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
 2022-06-10,23,Bulk Carriers,4,63000.0,63.000,dwt,"New Dayang, China",2024,Undisclosed,,Chinese (CMB FL),,6,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
 2022-06-10,23,Tankers,2,7200.0,7.200,dwt,"Wuchang, China",2024,Undisclosed,,Chinese (SC Shipping),St St,6,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
-2022-06-10,23,Containers,5,13700.0,13.700,teu,"Hyundai, Korea",2025,Undisclosed,,Singaporean (ONE),"Scrubber fitted, Ammonia &",6,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
-2022-06-10,23,Containers,5,13700.0,13.700,teu,"Nihon, Korea",2025,Undisclosed,,Singaporean (ONE),Ammonia & Methanol ready,6,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
+2022-06-10,23,Containers,5,13700.0,13.700,teu,"Hyundai, Korea",2025,Undisclosed,,Singaporean (ONE),"Scrubber fitted, Ammonia & Methanol ready",6,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
+2022-06-10,23,Containers,5,13700.0,13.700,teu,"Nihon, Korea",2025,Undisclosed,,Singaporean (ONE),"Scrubber fitted, Ammonia & Methanol ready",6,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
 2022-06-10,23,Containers,4,1800.0,1.800,teu,"Hyundai Mipo, Korea",2024,"$ 32,2m",32.2,Korean (Pan Ocean),,6,advanced_shipping_2022_W23_ADVANCED-MARKET-REPORT-WEEK-23.pdf
 2022-06-17,24,Bulk Carriers,4,82000.0,82.000,dwt,"DACKS, China",2024,$ 40m,40.0,Chinese (CMB FL),,6,advanced_shipping_2022_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf
 2022-06-17,24,Bulk Carriers,4,63000.0,63.000,dwt,"Hyundai-Vinashin, Vietnam",2024/2025,"$ 36,5m",36.5,Greek (Thenamaris),,6,advanced_shipping_2022_W24_ADVANCED-MARKET-REPORT-WEEK-24.pdf
@@ -1441,6 +1442,16 @@ issue_date,report_week,section,units,capacity,capacity_raw,capacity_unit,yard,de
 2025-12-19,51,Containers,5,1100.0,1.100,teu,"Wuchang, China",2028/2030,Undisclosed,,Chinese (Cosco Shipping),,4,advanced_shipping_2025_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2025-12-19,51,Gas,1,174000.0,174.000,cbm,"Hanwha Ocean, Korea",2028,Undisclosed,,Norwegian (Knutsen OAS),"LNG, 15years T/C to Edison",4,advanced_shipping_2025_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2025-12-19,51,Gas,2,93000.0,93.000,cbm,"Hyundai, Korea",2028,"$ 120,4m",120.4,Greek (Benelux Overseas),Ammonia/LPG,4,advanced_shipping_2025_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
+2026-10-16,42,Bulk Carriers,4+2,82000.0,82.000,dwt,"Jiangsu Watts Energy, China",2029/2030,Undisclosed,,Chinese (Yangzijiang Maritime),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Bulk Carriers,1,82000.0,82.000,dwt,"Hengli, China",2029,$ 37m,37.0,Greek (EuroDry),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Tankers,3,157000.0,157.000,dwt,"Jiangsu New Hantong, China",2030,Undisclosed,,Greek (Liquimar Tankers),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Tankers,6,74000.0,74.000,dwt,"Jiangsu New Hantong, China",2029/2030,Undisclosed,,UAE (Emarat Maritime),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Tankers,4,50000.0,50.000,dwt,"GSI, China",2029/2030,Undisclosed,,Greek (Top Ships),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Containers,2,14000.0,14.000,teu,"Hudong-Zhonghua, China",2029/2030,Undisclosed,,Chinese (Zhonggu Logistics),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Containers,2,3200.0,3.200,teu,"Hengli, China",2028,$ 48m,48.0,German (Elbdeich Reederei),,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Containers,2,3200.0,3.200,teu,"Hengli, China",2028,$ 48m,48.0,Greek (Tsakos),Scrubber fitted,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Gas,2,93000.0,93.000,cbm,"Hengli, China",2028,$ 108m,108.0,Norwegian (SFL Corp),Ammonia,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-16,42,Gas,4,93000.0,93.000,cbm,"Hyundai, Korea",2030,Undisclosed,,Turkish (BGN),LPG DF,5,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-01-09,2,Bulk Carriers,2+2,211000.0,211.000,dwt,"Nantong Xiangyu, China",2028,"$ 77,5m",77.5,Swiss (Mercuria Energy),,5,advanced_shipping_2026_W02_ADVANCED-MARKET-REPORT-WEEK-2.pdf
 2026-01-09,2,Bulk Carriers,4,180000.0,180.000,dwt,"Hengli, China",2027/2028,Undisclosed,,Greek (Capital),,5,advanced_shipping_2026_W02_ADVANCED-MARKET-REPORT-WEEK-2.pdf
 2026-01-09,2,Bulk Carriers,4,180000.0,180.000,dwt,"Hengli, China",2027,Undisclosed,,Singaporean (Eastern Pacific),,5,advanced_shipping_2026_W02_ADVANCED-MARKET-REPORT-WEEK-2.pdf

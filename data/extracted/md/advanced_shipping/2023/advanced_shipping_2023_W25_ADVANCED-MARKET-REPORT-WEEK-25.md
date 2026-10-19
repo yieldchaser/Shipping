@@ -82,11 +82,13 @@ A generally quiet week for this segment. A number of trips from Japan into Persi
 | Capesize | Aquaenna | 175.975 | 2011 | Jinhai, China | 08/2025 | MAN-B&W | - | $ 22,4m | Greek (Costamare) | BWTS fitted |
 | Kamsarmax | Santa Cruz | 83.456 | 2011 | Sanoyas, Japan | 06/2026 | MAN-B&W | - | Low $ 18m | Undisclosed | BWTS fitted |
 | Kamsarmax | Danhil | 81.354 | 2012 | Sungdong, Korea | 08/2027 | MAN-B&W | - | $ 23m | Undisclosed | BWTS fitted |
+| Kamsarmax | JY Pacific | 81.139 | 2019 | Chengxi, China | 06/2024 | MAN-B&W | - | $ 28,76m | Undisclosed | BWTS fitted, Commercial auction sale |
 | Panamax | Coral Opal | 78.090 | 2012 | Shin Kurushima, Japan | 03/2027 | MAN-B&W | - | Low $ 19m | Undisclosed | BWTS fitted |
 | Ultramax | Hanton Trader III | 63.800 | 2014 | Jiangsu, China | 11/2024 | MAN-B&W | 4x30T | $ 23,6m | Undisclosed | BWTS fitted |
 | Supramax | Corinthian Emerald | 57.592 | 2012 | Stx, Korea | 03/2027 | MAN-B&W | 4x30T | $ 17,25m | Middle Eastern | BWTS fitted |
 | Supramax | New Direction | 56.097 | 2013 | Mitsui, Japan | 06/2028 | MAN-B&W | 4x30T | $ 19,6m | Undisclosed | BWTS fitted |
 | Handysize | Pacific Cypress | 38.055 | 2012 | Shimanami, Japan | 11/2026 | MAN-B&W | 4x30,5T | High $ 16m | Undisclosed | BWTS fitted, DD 10/2023 |
+| Handysize | Agia Irini | 28.207 | 2013 | Imabari, Japan | 01/2026 | MAN-B&W | 4x30,5T | $ 13,8m | Greek based (Florence Shipping) | BWTS fitted |
 
 ### Tankers
 
@@ -109,14 +111,14 @@ A generally quiet week for this segment. A number of trips from Japan into Persi
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | AS Emma | 4.256 | 2010 | Jiangsu, China | 01/2025 | MAN-B&W | - | $ 22m | Undisclosed | Dely Nov'23 |
-| Panamax | Northern Dedication | 3.534 | 2007 | Shanghai, China | 07/2027 | MAN-B&W | - | $ 17,5m | UAE (Global Feeder | Ice Class II |
-| Panamax | Northern Defender | 3.534 | 2007 | Shanghai, China | 12/2027 | MAN-B&W | - | $ 17,5m | Feeder Services) | Ice Class II |
+| Panamax | Northern Dedication | 3.534 | 2007 | Shanghai, China | 07/2027 | MAN-B&W | - | $ 17,5m | UAE (Global Feeder Services) | Ice Class II |
+| Panamax | Northern Defender | 3.534 | 2007 | Shanghai, China | 12/2027 | MAN-B&W | - | $ 17,5m | UAE (Global Feeder Services) | Ice Class II |
 | Sub Panamax | Northern Vigour | 2.742 | 2005 | Aker, Germany | 08/2025 | B&W | - | $ 17m | Swiss based (MSC) |  |
 | Sub Panamax | Ella | 2.450 | 2003 | Naikai, Japan | 05/2027 | B&W | 3x40T | $ 14m | Swiss based (MSC) | BWTS fitted |
 | Sub Panamax | Queen Esther | 2.190 | 2016 | Guangzhou, China | 06/2026 | MAN-B&W | 3x45T | $ 136,5m enbloc | Norwegian (MPC Container Ships) |  |
-| Feeder | B Trader | 1.762 | 2019 | Cosco, China | 02/2024 | WinGD | 2x45T | $ 136,5m enbloc | N i |  |
+| Feeder | B Trader | 1.762 | 2019 | Cosco, China | 02/2024 | WinGD | 2x45T | $ 136,5m enbloc | Norwegian (MPC Container Ships) |  |
 | Feeder | London Trader | 1.762 | 2019 | Cosco, China | 11/2024 | WinGD | - | $ 136,5m enbloc | Norwegian (MPC Container Ships) |  |
-| Feeder | Madrid Trader | 1.762 | 2019 | Cosco, China | 06/2024 | WinGD | 2x45T | $ 136,5m enbloc | Ships) |  |
+| Feeder | Madrid Trader | 1.762 | 2019 | Cosco, China | 06/2024 | WinGD | 2x45T | $ 136,5m enbloc | Norwegian (MPC Container Ships) |  |
 | Feeder | Trieste Trader | 1.762 | 2019 | Cosco, China | 04/2024 | WinGD | 2x45T | $ 136,5m enbloc | Norwegian (MPC Container Ships) |  |
 
 ## Page 5

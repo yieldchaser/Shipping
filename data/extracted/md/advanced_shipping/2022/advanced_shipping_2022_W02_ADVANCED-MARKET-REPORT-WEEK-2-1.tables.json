@@ -585,13 +585,13 @@
       "YARD": "Yangzhou, China",
       "M_E": "MAN",
       "GEAR": "",
-      "PRICE": "$ 8,9m",
+      "PRICE": "$ 8,9m enbloc",
       "PRICE_USD_MILL": 8.9,
       "BUYERS": "Undisclosed",
       "SS": "05/2025",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf",
-      "extra_json": "{\"issue_date\": \"2022-01-14\", \"report_week\": \"2\", \"source_file\": \"advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf\", \"raw_price\": \"$ 8,9m\"}"
+      "extra_json": "{\"issue_date\": \"2022-01-14\", \"report_week\": \"2\", \"source_file\": \"advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf\", \"raw_price\": \"$ 8,9m enbloc\"}"
     },
     {
       "issue": "2022-01-14",
@@ -607,13 +607,35 @@
       "YARD": "Yangzhou, China",
       "M_E": "MAN",
       "GEAR": "",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 8,9m enbloc",
+      "PRICE_USD_MILL": 8.9,
       "BUYERS": "Undisclosed",
       "SS": "05/2025",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf",
-      "extra_json": "{\"issue_date\": \"2022-01-14\", \"report_week\": \"2\", \"source_file\": \"advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2022-01-14\", \"report_week\": \"2\", \"source_file\": \"advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf\", \"raw_price\": \"$ 8,9m enbloc\"}"
+    },
+    {
+      "issue": "2022-01-14",
+      "report_week": "2",
+      "section": "Containers",
+      "page": "4",
+      "NAME": "Chesapeake Bay",
+      "TYPE": "Panamax",
+      "DWT": "4,253 teu",
+      "TEU": 4253.0,
+      "CBM": null,
+      "BUILT": "2003",
+      "YARD": "Samsung, Korea",
+      "M_E": "B&W",
+      "GEAR": "-",
+      "PRICE": "$ 55m",
+      "PRICE_USD_MILL": 55.0,
+      "BUYERS": "German (Hapag- Lloyd)",
+      "SS": "04/2023",
+      "COMMENTS": "",
+      "source_file": "advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf",
+      "extra_json": "{\"issue_date\": \"2022-01-14\", \"report_week\": \"2\", \"source_file\": \"advanced_shipping_2022_W02_ADVANCED-MARKET-REPORT-WEEK-2-1.pdf\", \"raw_price\": \"$ 55m\"}"
     }
   ],
   "newbuilding": [

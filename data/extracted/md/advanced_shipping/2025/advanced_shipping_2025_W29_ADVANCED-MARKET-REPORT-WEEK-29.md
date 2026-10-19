@@ -87,10 +87,11 @@ North Pacific rounds ranged at the usd 13,000/15,000 pd. Trips from North China 
 | Kamsarmax | Sea Pegasus | 81.728 | 2014 | Qingdao, China | 05/2029 | Wartsila | - | $ 17,5m | Undisclosed |  |
 | Kamsarmax | Sea Gemini | 81.716 | 2014 | Qingdao, China | 01/2029 | Wartsila | - | $ 17,5m | Undisclosed |  |
 | Panamax | White Whale | 76.039 | 2012 | Hudong- Zhonghua, China | 07/2027 | MAN-B&W | - | High $ 12m | Undisclosed | DD 10/2025 |
-| Ultramax | IVS Okudogo | 61.331 | 2019 | Shin Kurushima, Japan | 08/2029 | MAN-B&W | 4x30,7T | $ 53m | Greek |  |
-| Ultramax | IVS Prestwick | 61.305 | 2019 | Shin Kurushima, Japan | 09/2029 | MAN-B&W | 4x30,7T | enbloc | Greek |  |
+| Ultramax | IVS Okudogo | 61.331 | 2019 | Shin Kurushima, Japan | 08/2029 | MAN-B&W | 4x30,7T | $ 53m enbloc | Greek |  |
+| Ultramax | IVS Prestwick | 61.305 | 2019 | Shin Kurushima, Japan | 09/2029 | MAN-B&W | 4x30,7T | $ 53m enbloc | Greek |  |
 | Ultramax | Hakata Queen | 60.481 | 2016 | Mitsui, Japan | 01/2026 | MAN-B&W | 4x30T | $ 23m | Undisclosed | Scrubber fitted |
 | Supramax | Mindanao | 55.696 | 2010 | Mitsui, Japan | 01/2030 | MAN-B&W | 4x30T | Mid $ 15m | Chinese |  |
+| Supramax | Pauline | 53.464 | 2007 | Iwagi, Japan | 05/2027 | MAN-B&W | 4x30,5T | $ 11m | Chinese (Fujian Yongija Shipping) | Delivered, DD 08/2025 |
 | Supramax | Guo Dian 36 | 51.215 | 2002 | New Century, China | 09/2027 | MAN-B&W | 4x30T | $ 5,9m | Undisclosed |  |
 | Handysize | Hamburg Way | 39.376 | 2016 | Jiangmen, China | 06/2026 | MAN-B&W | 4x30,5T | Excess $ 17m | Undisclosed |  |
 | Handysize | Hamburg Pearl | 39.359 | 2016 | Jiangmen, China | 04/2026 | MAN-B&W | 4x30T | Excess $ 17m | Undisclosed |  |
@@ -106,8 +107,8 @@ North Pacific rounds ranged at the usd 13,000/15,000 pd. Trips from North China 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Atlantic Loyalty | 307.284 | 2007 | Dalian, China | 04/2027 | Wartsila | Excess $ 44m | Undisclosed | DD 10/2025 |
 | VLCC | City of Tokyo | 303.994 | 2004 | Universal, Japan | 03/2029 | B&W | $ 41,5m | Undisclosed |  |
-| Suezmax | Ijemo | 151.736 | 2003 | Hyundai, Korea | 11/2028 | MAN-B&W | Excess $ 40m | Undisclosed |  |
-| Suezmax | Adebomi | 150.611 | 2004 | Universal, Japan | 05/2029 | Sulzer | enbloc | Undisclosed | Scrubber fitted |
+| Suezmax | Ijemo | 151.736 | 2003 | Hyundai, Korea | 11/2028 | MAN-B&W | Excess $ 40m enbloc | Undisclosed |  |
+| Suezmax | Adebomi | 150.611 | 2004 | Universal, Japan | 05/2029 | Sulzer | Excess $ 40m enbloc | Undisclosed | Scrubber fitted |
 | Aframax | Hesperia Tide | 115.000 | 2025 | Zhoushan, China | 01/2030 | MAN-B&W | $ 71m | Greek (New Shipping) | Scrubber fitted |
 | MR | Harris | 40.960 | 2009 | Sls, Korea | 03/2029 | MAN-B&W | $ 17,2m | Nigerian |  |
 | Chemical/Oil Products | Fairchem Conquest | 21.176 | 2017 | Asakawa, Japan | 08/2027 | MAN-B&W | Excess $ 30m | Undisclosed | DD 12/2025 |
@@ -125,8 +126,8 @@ North Pacific rounds ranged at the usd 13,000/15,000 pd. Trips from North China 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | Bu Sidra | 54.534 | 2008 | Hyundai, Korea | 10/2028 | MAN-B&W | 80.770 | 63,5m | Indian (Shipping |  |
-| LPG | Lubara | 54.526 | 2009 | Hyundai, Korea | 03/2029 | MAN-B&W | 80.803 | 63,5m | Corp of India) |  |
+| LPG | Bu Sidra | 54.534 | 2008 | Hyundai, Korea | 10/2028 | MAN-B&W | 80.770 | 63,5m | Indian (Shipping Corp of India) |  |
+| LPG | Lubara | 54.526 | 2009 | Hyundai, Korea | 03/2029 | MAN-B&W | 80.803 | 63,5m | Indian (Shipping Corp of India) |  |
 | LPG | Sakura Spirit | 28.104 | 2017 | Hanjin, Korea | 04/2027 | MAN-B&W | 37.250 | Undisclosed | Turkish (Manta) |  |
 
 ## Page 5

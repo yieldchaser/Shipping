@@ -80,14 +80,19 @@ A number of Japanese trips via Australia into Continent with steels were fixed a
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Aquadiva | 182.060 | 2010 | Odense, Denmark | 02/2025 | MAN- B&W | - | $ 32,5m | Greek | BWTS fitted |
+| Capesize | Mount Nevis | 177.005 | 2005 | Namura & Sasebo, Japan | 09/2025 | MAN- B&W | - | 20,5m | Greek | Scrubber fitted |
 | Capesize | Formosabulk Clement | 170.085 | 2001 | IHI, Japan | 07/2026 | Sulzer | - | Low $ 14m | Undisclosed | BWTS fitted |
 | Kamsarmax | Coventry | 82.464 | 2011 | Oshima, Japan | 07/2026 | MAN- B&W | - | $ 26m | Undisclosed | BWTS fitted |
+| Kamsarmax | MBA Liberty | 82.217 | 2010 | Tsuneishi Zhoushan, China | 01/2025 | MAN- B&W | - | Undisclosed | Undisclosed | BWTS fitted |
+| Panamax | Rio Tamara | 75.610 | 2014 | Taizhou, China | 04/2024 | MAN- B&W | - | $ 24m | German | BWTS fitted, Ice Class 1C, DD 07/2022 |
 | Panamax | Rosco Banyan | 74.967 | 2010 | Sasebo, Japan | 10/2025 | MAN- B&W | - | $ 24m | Greek |  |
+| Ultramax | Atlantic Manzanillo | 63.590 | 2016 | Shin Kasado, Japan | 04/2026 | MAN- B&W | 4x30,7T | Excess $ 33m | Undisclosed | BWTS fitted |
 | Ultramax | Yangzhou Confidence | 63.165 | 2017 | Yangzhou, China | 05/2027 | MAN- B&W | 4x35T | Low $ 31m | Undisclosed | BWTS fitted, Dely Aug-Sep'22 |
 | Supramax | Pan Crocus | 57.269 | 2009 | Stx Dalian, China | 05/2024 | MAN- B&W | 4x30T | High $ 17m | Undisclosed | BWTS fitted |
 | Supramax | Xin Xiang Hai | 56.111 | 2012 | Mitsui, Japan | 07/2022 | MAN- B&W | 4x30T | Mid $ 23m | Undisclosed | BWTS fitted |
 | Supramax | Osios David | 55.831 | 2012 | IHI, Japan | 05/2025 | Wartsila | 4x30T | High $ 22m | Undisclosed | BWTS fitted |
 | Supramax | Stilianos K | 55.625 | 2010 | Mitsui, Japan | 10/2025 | MAN- B&W | 4x30T | $ 21,5m | Undisclosed | Old sale |
+| Supramax | Nicolaos A. | 53.806 | 2003 | New Century, China | 03/2023 | B&W | 4x40T | $ 14,4m | Undisclosed |  |
 | Supramax | Evans | 53.507 | 2009 | Zhejiang, China | 04/2024 | MAN- B&W | 4x35T | $ 16,2m | Undisclosed | BWTS fitted |
 | Supramax | Crestone | 53.406 | 2009 | Zhejiang, China | 08/2024 | MAN- B&W | 4x35T | $ 16,2m | Undisclosed | BWTS fitted |
 | Handysize | Cape Moreton | 32.959 | 2010 | Jiangmen, China | 02/2025 | MAN- B&W | 4x30,5T | Undisclosed | Chinese |  |
@@ -106,8 +111,8 @@ A number of Japanese trips via Australia into Continent with steels were fixed a
 | Suezmax | 17 February | 160.391 | 2008 | Samsung, Korea | 05/2023 | MAN- B&W | Undisclosed | Greek | BWTS fitted |
 | Suezmax | Libya | 159.233 | 2007 | Hyundai Samho, Korea | 06/2022 | MAN- B&W | Undisclosed | Greek |  |
 | Aframax | Lomonosov Prospect | 113.226 | 2018 | Hyundai Samho, Korea | 10/2023 | Wartsila | High $ 40's each | Greek (Capital) | Old sales, bank deal, LNG dual fuelled |
-| Aframax | Mendeleev Prospect | 113.189 | 2018 | Hyundai Samho, Korea | 11/2023 | Wartsila | High $ 40's | Greek (Capital) | Old sales, bank deal, |
-| Aframax | Gagarin Prospect | 113.170 | 2018 | Hyundai Samho, Korea | 07/2023 | Wartsila | each | Greek (Capital) | LNG dual fuelled |
+| Aframax | Mendeleev Prospect | 113.189 | 2018 | Hyundai Samho, Korea | 11/2023 | Wartsila | High $ 40's each | Greek (Capital) | Old sales, bank deal, LNG dual fuelled |
+| Aframax | Gagarin Prospect | 113.170 | 2018 | Hyundai Samho, Korea | 07/2023 | Wartsila | High $ 40's each | Greek (Capital) | Old sales, bank deal, LNG dual fuelled |
 | Aframax | Samuel Prospect | 113.095 | 2019 | Hyundai Samho, Korea | 04/2024 | Wartsila | High $ 40's each | Greek (Capital) | Old sales, bank deal, LNG dual fuelled |
 | LR1 | BW Orinoco | 76.580 | 2007 | Dalian, China | 11/2022 | MAN- B&W | $ 12m | German (CST) |  |
 | LR1 | BW Lena | 76.578 | 2007 | Dalian, China | 08/2022 | MAN- B&W | $ 12m | German (CST) |  |
@@ -130,6 +135,8 @@ A number of Japanese trips via Australia into Continent with steels were fixed a
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | MSC Paris | 8.204 | 2006 | Hyundai, Korea | 01/2026 | MAN-B&W | - | $ 31m | Undisclosed | T/C to MSC until 2025 |
+| Feeder | H Mercury | 1.800 | 2022 | Jiangsu, China | 04/2027 | MAN-B&W | - | $ 43m | Singaporean (Transfar Shipping) |  |
+| Feeder | A Daisen | 1.740 | 2010 | Guangzhou, China | 11/2025 | MAN-B&W | 2x45T | $ 32m | Singaporean (Transfar Shipping) |  |
 | Feeder | Hansa Coburg | 1.740 | 2007 | Guangzhou, China | 07/2022 | MAN-B&W | 2x40T | $ 30m | French (CMA CGM) |  |
 | Feeder | Easline Qingdao | 1.550 | 2001 | Guangzhou, China | 05/2026 | B&W | 2x40T | $ 19m | Swiss based (MSC) | BWTS fitted |
 
@@ -137,6 +144,8 @@ A number of Japanese trips via Australia into Continent with steels were fixed a
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Cougar | 54.450 | 2015 | Hyundai Samho, Korea | 06/2025 | MAN- B&W | 82.320 | $ 70m | Japanese | Sale & Leaseback for 10 years |
+| LPG | Pointis | 53.991 | 2016 | Hyundai Samho, Korea | 03/2026 | MAN- B&W | 82.320 | Excess $ 70m | Undisclosed |  |
 | LPG | Eupen | 29.121 | 1999 | Mitsubishi, Japan | 03/2024 | Mitsubishi | 38.156 | $ 16m | Undisclosed |  |
 | LPG | Jag Vijaya | 26.897 | 1997 | Mitsubishi, Japan | 07/2022 | Mitsubishi | 34.712 | $ 9,5m | Chinese |  |
 | LPG | Marigola | 17.779 | 1999 | Sestri, Italy | 10/2024 | Sulzer | 17.559 | Low $ 8m | Undisclosed |  |

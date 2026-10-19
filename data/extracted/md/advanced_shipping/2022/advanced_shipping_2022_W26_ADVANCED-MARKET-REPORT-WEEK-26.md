@@ -79,16 +79,21 @@ Trips from China into Mediterranean were fixed around usd 36,000 pd. A number of
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kamsarmax | Thunderbird | 79.508 | 2011 | Jiangsu, China | 11/2025 | Wartsila | - | $ 37m | Undisclosed | BWTS fitted |
-| Kamsarmax | Bonneville | 79.403 | 2010 | Jiangsu, China | 11/2025 | Wartsila | - | enbloc | Undisclosed | BWTS fitted |
+| Kamsarmax | Thestelia K | 82.108 | 2009 | Tsuneishi Zhoushan, China | 11/2024 | MAN- B&W | - | $ 23,2m | Undisclosed | BWTS fitted |
+| Kamsarmax | Thunderbird | 79.508 | 2011 | Jiangsu, China | 11/2025 | Wartsila | - | $ 37m enbloc | Undisclosed | BWTS fitted |
+| Kamsarmax | Bonneville | 79.403 | 2010 | Jiangsu, China | 11/2025 | Wartsila | - | $ 37m enbloc | Undisclosed | BWTS fitted |
 | Panamax | Theodor Oldendorff | 77.171 | 2008 | Oshima, Japan | 07/2023 | MAN- B&W | - | $ 19,5m | Turkish (Zihni) | 1year T/C back |
 | Panamax | Lowlands Maine | 76.784 | 2005 | Sasebo, Japan | 03/2025 | B&W | - | Low-Mid $ 16m | Chinese | BWTS fitted |
+| Panamax | Rui Fu Tai | 73.870 | 2002 | Namura & Sasebo, Japan | 02/2026 | B&W | - | Low $ 14m | Undisclosed |  |
 | Supramax | IDC Falcon | 55.803 | 2006 | Kawasaki, Japan | 05/2026 | MAN- B&W | 4x30,5T | Low $ 18m | Middle Eastern | BWTS fitted |
 | Supramax | Mamba Point | 55.614 | 2009 | Mitsui, Japan | 10/2025 | MAN- B&W | 4x30T | $ 20,2m | Undisclosed | BWTS fitted |
 | Handymax | Dux Benefit | 46.638 | 1995 | Mitsui, Japan | 09/2025 | B&W | 4x30,5T | Undisclosed | Undisclosed | BWTS 06/2022 |
 | Handysize | Eva Bulker | 38.140 | 2012 | Naikai, Japan | 08/2022 | MAN- B&W | 4x30T | $ 23m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Golden Bonnie | 32.280 | 2009 | Kanda, Japan | 07/2024 | Mitsubishi | 4x30,5T | $ 17,2m | Undisclosed | OHBS, DD 07/2022 |
+| Handysize | Ionian Spire | 32.269 | 2008 | Kanda, Japan | 01/2026 | Mitsubishi | 4x30,5T | $ 17m | Turkish (Kopuzlar Shipping) | OHBS, BWTS fitted |
 | Handysize | Mega Maggie | 31.922 | 2009 | Hakodate, Japan | 02/2024 | Mitsubishi | 4x30T | $ 17,5m | Undisclosed |  |
+| Handysize | Vega Granat | 31.780 | 2011 | Fujian Mawei, China | 11/2026 | Mitsubishi | 4x30T | $ 17,5m | Undisclosed | BWTS fitted |
+| Handysize | Pagona | 27.797 | 1999 | Naikai, Japan | 11/2026 | B&W | 4x30T | $ 10,5m | Undisclosed | OHBS, BWTS fitted, 779 TEU |
 | Handysize | Sunroad Yatsuka | 24.989 | 2005 | Kurinoura, Kapan | 03/2025 | B&W | 4x30T | $ 11m | Undisclosed |  |
 
 ## Page 4

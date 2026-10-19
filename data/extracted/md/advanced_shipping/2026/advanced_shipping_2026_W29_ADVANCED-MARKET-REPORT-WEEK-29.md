@@ -103,8 +103,8 @@ In the Atlantic, ECSA departures secured between USD 18,500/27,000 pd for grain 
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Panamax | Felixstowe | 4.253 | 2002 | Samsung, Korea | 10/2027 | B&W | - | $ 54m | Swiss based |  |
-| Panamax | Sunny Phoenix | 4.253 | 2002 | Samsung, Korea | 09/2027 | B&W | - | enbloc | (MSC) |  |
+| Panamax | Felixstowe | 4.253 | 2002 | Samsung, Korea | 10/2027 | B&W | - | $ 54m enbloc | Swiss based (MSC) |  |
+| Panamax | Sunny Phoenix | 4.253 | 2002 | Samsung, Korea | 09/2027 | B&W | - | $ 54m enbloc | Swiss based (MSC) |  |
 | Feeder | A Goryu | 1.096 | 2023 | Kyokuyo, Japan | 02/2028 | MAN-B&W | - | $ 26,5m | Undisclosed |  |
 
 ## Page 4

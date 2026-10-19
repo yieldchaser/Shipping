@@ -95,6 +95,7 @@ A number of West African trips into Continent were reported at the level of usd 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | Maran Andromeda | 320.472 | 2005 | Daewoo, Korea | 01/2025 | MAN- B&W | $ 37m | Singapore based | BWTS fitted, Scrubber fitted, DD 09/2022 |
 | Aframax | Oberon | 106.004 | 2006 | Hyundai Samho, Korea | 11/2022 | MAN- B&W | Low-Mid $ 25m | Undisclosed | BWTS fitted |
 | Aframax | Baroness | 105.335 | 2011 | Sumitomo, Japan | 01/2026 | MAN- B&W | $ 34,5m | Undisclosed | BWTS fitted |
 | MR | Ridgebury Rosemary E | 50.261 | 2009 | Spp, Korea | 05/2024 | MAN- B&W | $ 22m |  |  |
@@ -109,6 +110,7 @@ A number of West African trips into Continent were reported at the level of usd 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | Northern Decision | 3.534 | 2008 | Shanghai, China | 08/2023 | MAN-B&W | - | $ 44m | Swiss based (MSC) | Old sale |
+| Feeder | Songa Ocelot | 1.706 | 2007 | Aker Mtw Werft, Germany | 06/2027 | MAN | 3x45T | $ 30,1m | Undisclosed |  |
 
 ## Page 5
 

@@ -81,10 +81,14 @@ A generally quiet week for this segment. A number of Inter-Continental trips via
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Newcastlemax | Azul Libero | 203.278 | 2004 | Universal, Japan | 09/2024 | MAN- B&W | - | High $ 18m | Chinese | BWTS fitted |
 | Kamsarmax | Ocean Garlic | 82.305 | 2012 | Dalian, China | 06/2022 | MAN- B&W | - | Mid $ 21m | Undisclosed |  |
+| Supramax | Atlantic Tulum | 58.802 | 2008 | Tsuneishi Cebu, Philippines | 03/2023 | MAN- B&W | 4x30T | $ 17,4m | Singapore based (Diamond Star) |  |
 | Supramax | Orient Rise | 56.700 | 2010 | Qingshan, China | 04/2025 | MAN- B&W | 4x30T | $ 17,2m | Greek | BWTS fitted, prompt dely |
+| Supramax | Seacon Singapore | 56.501 | 2013 | Taizhou, China | 01/2023 | MAN- B&W | 4x30T | $ 19,45m | Chinese (Ningbo Honglong Shipping) | Auction sale, BWTS fitted |
 | Supramax | Lucky Sea | 52.246 | 2005 | Yangzhou, China | 01/2025 | MAN- B&W | 4x30T | $ 12m | Chinese |  |
 | Handysize | Cielo Di Monaco | 39.202 | 2014 | Yangfan, China | 06/2024 | MAN- B&W | 4x30T | $ 24m | Undisclosed |  |
 | Handysize | Venture Team | 38.947 | 2015 | Jiangmen, China | 11/2025 | MAN- B&W | 4x30,5T | $ 24,9m | Italian | OHBS, BWTS fitted |
+| Handysize | Corsair | 35.062 | 2001 | Minami- Nippon, Japan | 07/2025 | Mitsubishi | 4x30T | $ 11,7m | Undisclosed | OHBS, prompt dely |
+| Handysize | Ionic Halo | 34.039 | 2012 | Dae Sun, Korea | 03/2022 | MAN- B&W | 4x30T | Region $ 19m | Undisclosed | Basis SS/DD passed & BWTS fitted |
 | Handysize | Global Echo | 28.207 | 2012 | I-S, Japan | 04/2025 | MAN- B&W | 4x30,5T | $ 15,3m | Middle Eastern | BWTS fitted |
 
 ### Tankers
@@ -99,6 +103,7 @@ A generally quiet week for this segment. A number of Inter-Continental trips via
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | TRF Pescara | 3.534 | 2010 | Shanghai, China | 03/2025 | MAN-B&W | - | Undisclosed | Undisclosed | Scrubber fitted |
+| Feeder | Thana Bhum | 1.858 | 2005 | Jiangsu, China | 06/2025 | MAN-B&W | - | Undisclosed | UK based (Mount Street) |  |
 
 ## Page 4
 

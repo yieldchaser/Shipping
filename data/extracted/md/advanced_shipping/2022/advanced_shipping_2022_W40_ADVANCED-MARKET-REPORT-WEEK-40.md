@@ -79,12 +79,15 @@ A generally quiet week for this segment. A number of trips from China into South
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Shinyo Guardian | 177.216 | 2005 | Namura & Sasebo, Japan | 11/2024 | MAN- B&W | - | $ 17,25m | Turkish (Beks) | Rumored, BWTS fitted |
 | Capesize | Lila Nantong | 171.009 | 2003 | Sasebo, Japan | 03/2023 | B&W | - | $ 16m | Undisclosed |  |
 | Post Panamax | D Skalkeas | 93.281 | 2011 | Jiangsu, China | 05/2026 | MAN- B&W | - | $ 20m | Undisclosed | BWTS fitted |
 | Kamsarmax | Alexandra | 82.329 | 2006 | Tsuneishi, Japan | 12/2025 | MAN- B&W | - | Low-Mid $ 16m | Turkish | BWTS fitted |
 | Panamax | Agri Kinsale | 77.171 | 2009 | Oshima, Japan | 09/2024 | MAN- B&W | - | $ 16m | Chinese | BWTS fitted |
 | Panamax | Agri Queen | 77.171 | 2009 | Oshima, Japan | 10/2024 | MAN- B&W | - | $ 16m | Chinese | BWTS fitted |
 | Supramax | Genco Bourgogne | 58.020 | 2010 | Yangzhou, China | 01/2025 | MAN- B&W | 4x35T | Mid-High $ 15m | Bangladeshi | BWTS fitted |
+| Supramax | Cas Avanca | 55.561 | 2009 | Hyundai- Vinashin, Vietnam | 10/2024 | MAN- B&W | 4x30T | $ 14,3m | Undisclosed |  |
+| Handysize | Lodestar Pacific | 33.393 | 2015 | Shin Kochi, Japan | 03/2025 | Mitsubishi | 4x30T | High $ 19m | Greek (Evalend Shipping) | OHBS, BWTS fitted |
 | Handysize | Promise 2 | 32.401 | 2010 | Samho, Korea | 09/2025 | MAN- B&W | 4x30T | $ 13,8m | Undisclosed |  |
 | Handysize | Anacapa Light | 32.131 | 2005 | Saiki, Japan | 07/2025 | Mitsubishi | 4x30T | $ 12,4m | Turkish | OHBS, BWTS fitted |
 
@@ -95,8 +98,10 @@ A generally quiet week for this segment. A number of trips from China into South
 | VLCC | Princess Mary | 306.206 | 2004 | Mitsubishi, Japan | 01/2027 | Mitsubishi | Excess $ 48m | Undisclosed | BWTS fitted |
 | VLCC | Pride | 299.986 | 1998 | Hitachi, Japan | 04/2023 | B&W | $ 24,5m | Undisclosed |  |
 | Suezmax | Nordic Cosmos | 159.999 | 2003 | Samsung, Korea | 01/2023 | B&W | $ 21m | Undisclosed | Dely Q4 2022 |
+| Suezmax | Cap Guillaume | 158.889 | 2006 | Samsung, Korea | 09/2026 | MAN- B&W | $ 35m | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1C |
 | LR2 | Sea Legend | 112.511 | 2008 | Hyundai, Korea | 12/2023 | MAN- B&W | Undisclosed | Undisclosed |  |
 | Aframax | Seagrace | 105.941 | 2004 | Hyundai, Korea | 07/2024 | B&W | $ 23,5m | Chinese |  |
+| Aframax | Phoenix Beacon | 105.525 | 2011 | Hyundai, Korea | 09/2026 | MAN- B&W | $ 35m | Greek (Performance Shipping) | BWTS fitted, Dely Dec'22 |
 
 ## Page 4
 
@@ -104,6 +109,7 @@ A generally quiet week for this segment. A number of trips from China into South
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LR1 | Karadeniz Powership Anatolia | 72.515 | 2004 | Samsung, Korea | 07/2024 | MAN- B&W | Undisclosed | Turkish |  |
 | MR | High Mars | 51.543 | 2008 | Stx, Korea | 03/2023 | MAN- B&W | $ 20,5m | Undisclosed |  |
 | MR | Northern Ocean | 50.922 | 2005 | Stx, Korea | 05/2025 | MAN- B&W | High $ 19m | Undisclosed | BWTS fitted, Ice Class 1A |
 | MR | Jo Ask | 47.128 | 2007 | Hyundai Mipo, Korea | 11/2026 | MAN- B&W | $ 20,5m | Middle Eastern | BWTS fitted |
@@ -111,6 +117,7 @@ A generally quiet week for this segment. A number of trips from China into South
 | MR | Energy Progress | 46.606 | 2008 | Sungdong, Korea | 07/2023 | MAN- B&W | $ 20m | Middle Eastern |  |
 | MR | Energy Puma | 46.549 | 2008 | Sungdong, Korea | 11/2023 | MAN- B&W | $ 20m | Middle Eastern |  |
 | MR | Aurora Express | 45.770 | 2002 | Minami-Nippon, Japan | 11/2022 | MAN- B&W | $ 10m | Undisclosed |  |
+| MR | Dee4 Fig | 44.995 | 2011 | Onomichi, Japan | 06/2026 | MAN- B&W | $ 26,5m | Greek (United Overseas Group) | BWTS fitted |
 | MR | Baltic Advance | 37.332 | 2006 | Hyundai Mipo, Korea | 02/2026 | B&W | $ 16,5m | Undisclosed | Ice Class 1B |
 | MR | Synergy | 34.820 | 2020 | Fujian, China | 01/2025 | WinGD | $ 31m | Undisclosed |  |
 | Chemical/Oil Products | Battersea Park | 19.949 | 2002 | Usuki, Japan | 05/2027 | MAN- B&W | $ 10,5m | Undisclosed | St St, BWTS fitted |

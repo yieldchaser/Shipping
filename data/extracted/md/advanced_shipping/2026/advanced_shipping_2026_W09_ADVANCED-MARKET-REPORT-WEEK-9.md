@@ -100,8 +100,8 @@ Trips from North China into South East Asia were reported at the level of usd 10
 | VLCC | C. Freedom | 313.998 | 2013 | Hyundai, Korea | 07/2028 | Wartsila | $ 676m enbloc | Korean (Pan Ocean) | Scrubber fitted, T/C attached |
 | VLCC | C. Infinity | 313.990 | 2012 | Hyundai, Korea | 08/2027 | Wartsila | $ 676m enbloc | Korean (Pan Ocean) | Scrubber fitted, T/C attached |
 | VLCC | C. Progress | 313.990 | 2012 | Hyundai, Korea | 11/2027 | Wartsila | $ 676m enbloc | Korean (Pan Ocean) | Scrubber fitted, T/C attached |
-| VLCC | C. Dignity | 313.875 | 2009 | Hyundai, Korea | 09/2029 | MAN-B&W | $ 676m enbloc | Korean | Scrubber fitted, T/C attached |
-| VLCC | C. Eternity | 313.875 | 2010 | Hyundai, Korea | 05/2030 | MAN-B&W | $ 676m enbloc | (Pan Ocean) | Scrubber fitted, T/C attached |
+| VLCC | C. Dignity | 313.875 | 2009 | Hyundai, Korea | 09/2029 | MAN-B&W | $ 676m enbloc | Korean (Pan Ocean) | Scrubber fitted, T/C attached |
+| VLCC | C. Eternity | 313.875 | 2010 | Hyundai, Korea | 05/2030 | MAN-B&W | $ 676m enbloc | Korean (Pan Ocean) | Scrubber fitted, T/C attached |
 | VLCC | C. Mighty | 313.875 | 2010 | Hyundai Samho, Korea | 03/2030 | MAN-B&W | $ 676m enbloc | Korean (Pan Ocean) | Scrubber fitted, T/C attached |
 | VLCC | C. Primacy | 313.453 | 2010 | Hyundai Samho, Korea | 03/2030 | MAN-B&W | $ 676m enbloc | Korean (Pan Ocean) | Scrubber fitted, T/C attached |
 | VLCC | C. Majesty | 313.406 | 2008 | Hyundai, Korea | 10/2028 | MAN-B&W | $ 676m enbloc | Korean (Pan Ocean) | Scrubber fitted, T/C attached |
@@ -114,8 +114,8 @@ Trips from North China into South East Asia were reported at the level of usd 10
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Eagle Vancouver | 299.989 | 2013 | Daewoo, Korea | 01/2028 | MAN-B&W | $ 86,5m | Korean (Sinokor) | DD 04/2026 |
-| VLCC | Nave Buena Suerte | 297.491 | 2011 | Dalian, China | 03/2026 | MAN-B&W | $ 136,5m | Undisclosed | Old sale |
-| VLCC | Nave Galactic | 297.168 | 2009 | Shanghai, China | 10/2029 | MAN-B&W | enbloc | Undisclosed | Old sale, Scrubber fitted |
+| VLCC | Nave Buena Suerte | 297.491 | 2011 | Dalian, China | 03/2026 | MAN-B&W | $ 136,5m enbloc | Undisclosed | Old sale |
+| VLCC | Nave Galactic | 297.168 | 2009 | Shanghai, China | 10/2029 | MAN-B&W | $ 136,5m enbloc | Undisclosed | Old sale, Scrubber fitted |
 | VLCC | Trikwong Venture | 297.136 | 2012 | Dalian, China | 01/2027 | MAN-B&W | $ 70m | Korean (Sinokor) | Old sale |
 | Aframax | P. Sophia | 105.071 | 2009 | Hyundai, Korea | 09/2029 | MAN-B&W | $ 35,65m | Undisclosed |  |
 | LR1 | Agile | 73.611 | 2007 | New Times, China | 03/2027 | MAN-B&W | $ 13,5m | Greek | Delivered |
@@ -137,6 +137,7 @@ Trips from North China into South East Asia were reported at the level of usd 10
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Coral Shasta | 10.770 | 2003 | Hudong- Zhonghua, China | 03/2028 | MAN | 9.884 | $ 10,5m | Undisclosed | Ice Class II, DD 07/2026 |
 | LPG | Saehan Selina | 3.805 | 2012 | Shitanoe, Japan | 06/2027 | MAN-B&W | 3.447 | $ 8,9m | Undisclosed |  |
 
 ## Page 5

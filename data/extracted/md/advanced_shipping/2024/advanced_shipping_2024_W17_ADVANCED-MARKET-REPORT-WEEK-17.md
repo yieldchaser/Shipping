@@ -89,6 +89,7 @@ South East Asian trips into China were reported at the level of usd 12,000/14,00
 | Supramax | Tai Ping Shan | 56.607 | 2011 | CSI, China | 09/2026 | MAN-B&W | 4x30T |  |  | BWTS fitted, DD 08/2024 |
 | Supramax | Dayang Orient | 56.380 | 2011 | Jiangdong, China | 09/2026 | MAN-B&W | 4x30T | $ 12,66m | Undisclosed | Auction sale, BWTS fitted |
 | Supramax | Ocean Glory | 56.039 | 2006 | Mitsui, Japan | 09/2025 | MAN-B&W | 4x30T | Low $ 13m | Undisclosed | BWTS fitted |
+| Supramax | Valovine | 52.000 | 2016 | Uljanik, Croatia | 06/2026 | MAN-B&W | 4x30T | $ 17m | Undisclosed | BWTS fitted, Incl. T/C till Sep-Dec'24 |
 | Handysize | Carlota Bolten | 37.489 | 2015 | Yangzhou, China | 01/2025 | Wartsila | 4x30T | Mid-High $ 18m | Greek |  |
 | Handysize | Atlantic Laurel | 33.271 | 2012 | Hakodate, Japan | 07/2027 | Mitsubishi | 4x30T | Low-Mid $ 15m | Greek | BWTS fitted |
 | Handysize | Graceful Gertrude | 33.225 | 2008 | Shin Kochi, Japan | 08/2028 | Mitsubishi | 4x30T | Low-Mid $ 12m | Undisclosed | OHBS, BWTS fitted |
@@ -104,6 +105,7 @@ South East Asian trips into China were reported at the level of usd 12,000/14,00
 | Aframax | Amax Arrow | 115.655 | 2009 | Samsung, Korea | 11/2024 | MAN-B&W | $ 43,5m | Chinese | BWTS fitted, Scrubber fitted |
 | Aframax | Gstaad Grace II | 113.021 | 2009 | New Times, China | 01/2029 | MAN-B&W | $ 42m | Chinese | BWTS fitted |
 | Aframax | Afragold | 112.871 | 2009 | New Times, China | 11/2024 | MAN-B&W | $ 41m | Chinese | BWTS fitted |
+| Aframax | Stirling | 112.750 | 2021 | Cosco, China | 06/2026 | MAN-B&W | Low $ 70's | Greek | BWTS fitted, Scrubber fitted, DD 06/2024 |
 | MR | Aries Pearl | 50.605 | 2007 | Spp, Korea | 03/2027 | Wartsila | $ 22,5m | Undisclosed | BWTS fitted |
 | MR | Valle Di Nervion | 40.218 | 2004 | Hyundai Mipo, Korea | 07/2024 | B&W | $ 15,3m | Undisclosed |  |
 | MR | Skarven | 33.624 | 2009 | Kitanihon, Japan | 08/2024 | Mitsubishi | $ 29m | Chinese (Taihua Shipping) | St St |
@@ -114,8 +116,8 @@ South East Asian trips into China were reported at the level of usd 12,000/14,00
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Panamax | AS Nadia | 3.586 | 2007 | Stx, Korea | 07/2027 | MAN-B&W | - | $ 25m | Swiss based |  |
-| Feeder | AS Ragna | 1.496 | 2009 | Zhejiang, China | 08/2024 | MAN | - | enbloc | (MSC) | Ice Class II |
+| Panamax | AS Nadia | 3.586 | 2007 | Stx, Korea | 07/2027 | MAN-B&W | - | $ 25m enbloc | Swiss based (MSC) |  |
+| Feeder | AS Ragna | 1.496 | 2009 | Zhejiang, China | 08/2024 | MAN | - | $ 25m enbloc | Swiss based (MSC) | Ice Class II |
 | Sub Panamax | EM Astoria | 2.754 | 2004 | Gdynia, Poland | 07/2024 | B&W | 3x45T Cr, 1x35T Cr | $ 10m | Undisclosed |  |
 
 ### Gas

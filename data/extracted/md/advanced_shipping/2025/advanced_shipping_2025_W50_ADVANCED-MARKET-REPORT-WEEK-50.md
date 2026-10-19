@@ -98,6 +98,7 @@ Trips from North China into South East Asia were reported at the level of usd 7,
 | Suezmax | Olympic Future | 155.039 | 2004 | Namura & Sasebo, Japan | 08/2029 | Mitsubishi | $ 30m | Undisclosed |  |
 | MR | Aegea | 51.371 | 2008 | Sls, Korea | 04/2028 | MAN-B&W | $ 14,5m | Undisclosed | Ice Class 1B |
 | MR | Sea Adore | 47.803 | 2004 | Hyundai Mipo, Korea | 10/2029 | B&W | $ 10,5m | Indian |  |
+| MR | Eco Revolution | 39.208 | 2016 | Hyundai-Vinashin, Vietnam | 01/2026 | MAN-B&W | $ 32m | Italian (Navigazione Montanari) |  |
 | Oil Products | Lilac | 4.980 | 2009 | Mindong, China | 01/2029 | Guangzhou | $ 4,5m | Undisclosed |  |
 
 ## Page 4

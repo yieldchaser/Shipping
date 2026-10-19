@@ -94,12 +94,13 @@ In the Pacific, East Australia runs to South East Asia fetched between USD 19,50
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | Princess Natalie | 320.261 | 2011 | Daewoo, Korea | 11/2026 | Wartsila | $ 97m | Singaporean (Yinson Production) | For conversion |
 | Suezmax | Cape Benat | 156.642 | 2010 | Jiangsu, China | 03/2030 | MAN-B&W | $ 62,5m | UAE (Lila Global) | Delivered, Scrubber fitted |
 | Aframax | Minerva Nounou | 114.850 | 2006 | Daewoo, Korea | 07/2026 | Wartsila | xs $ 40m | Chinese | Ice Class 1A, SS/DD passed |
 | LR1 | Cabo San Vicente | 63.605 | 2008 | Stx, Korea | 04/2028 | MAN-B&W | $ 22m | Greek | Scrubber fitted, Ice Class 1A |
 | MR | Minerva Xanthe | 50.922 | 2006 | Stx, Korea | 07/2031 | MAN-B&W | $ 16m | Chinese | Ice Class 1A |
-| MR | Luctor | 50.383 | 2011 | Onomichi, Japan | 11/2026 | MAN-B&W | $ 26m | Undisclosed | 3 years BBB at |
-| MR | Turmoil | 49.997 | 2011 | Onomichi, Japan | 10/2026 | MAN-B&W | $ 26m | Undisclosed | 16.000 usd/pd |
+| MR | Luctor | 50.383 | 2011 | Onomichi, Japan | 11/2026 | MAN-B&W | $ 26m | Undisclosed | 3 years BBB at 16.000 usd/pd |
+| MR | Turmoil | 49.997 | 2011 | Onomichi, Japan | 10/2026 | MAN-B&W | $ 26m | Undisclosed | 3 years BBB at 16.000 usd/pd |
 | MR | Xing Tong 799 | 49.962 | 2011 | Onomichi, Japan | 11/2030 | MAN-B&W | $ 27,2m | Indonesian |  |
 | MR | PM Regent | 49.874 | 2018 | JMU, Japan | 11/2028 | MAN-B&W | $ 45,5m | Undisclosed | DD 12/2026 |
 | MR | Gran Couva | 47.128 | 2008 | Hyundai Mipo, Korea | 10/2028 | MAN-B&W | $ 19,25m | Undisclosed | DD 11/2026 |

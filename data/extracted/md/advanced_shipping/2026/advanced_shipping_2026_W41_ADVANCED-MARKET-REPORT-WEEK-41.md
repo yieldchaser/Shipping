@@ -97,8 +97,8 @@ In the Pacific, regional runs from North China to South East Asia range fixed be
 | Suezmax | Nordic Freedom | 159.331 | 2005 | Daewoo, Korea | 03/2030 | B&W | $ 65m | Undisclosed |  |
 | Suezmax | Tianlong | 159.021 | 2009 | Bohai, China | 01/2029 | MAN-B&W | High $ 80's m | Undisclosed | DD 11/2026 |
 | LR1 | Jag Sparrow | 74.999 | 2005 | Hyundai, Korea | 07/2030 | B&W | Mid-High $ 23m | Undisclosed |  |
-| LR1 | Bluebird | 74.074 | 2016 | New Times, China | 06/2031 | Wartsila | $ 55m | Turkish (Yasa |  |
-| LR1 | Starling | 74.033 | 2016 | New Times, China | 07/2031 | WinGD | $ 55m | Tankers) |  |
+| LR1 | Bluebird | 74.074 | 2016 | New Times, China | 06/2031 | Wartsila | $ 55m | Turkish (Yasa Tankers) |  |
+| LR1 | Starling | 74.033 | 2016 | New Times, China | 07/2031 | WinGD | $ 55m | Turkish (Yasa Tankers) |  |
 | MR | Green Planet | 50.844 | 2014 | Dae Sun, Korea | 04/2029 | MAN-B&W | $ 36,5m | Undisclosed |  |
 | MR | MP MR Tanker 1 | 49.999 | 2011 | Hyundai Mipo, Korea | 01/2031 | MAN-B&W | rgn $ 30m | Undisclosed |  |
 | MR | Vitality | 37.297 | 2002 | Hyundai Mipo, Korea | 01/2027 | B&W | $ 17m enbloc | Undisclosed | Ice Class 1B |
@@ -109,6 +109,8 @@ In the Pacific, regional runs from North China to South East Asia range fixed be
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Post Panamax | Cosco Felixstowe | 5.618 | 2002 | NACKS, China | 04/2027 | B&W | - | $ 32m | Undisclosed | Ice Class II, Incl. 3years T/C back |
+| Post Panamax | Cosco Hamburg | 5.618 | 2001 | Kawasaki, Japan | 10/2026 | B&W | - | $ 32m | Undisclosed | Scrubber fitted, Ice Class II, Incl. 3years T/C back |
+| Feeder | BLPL Blessing | 1.030 | 2007 | Singapore Technologies, Singapore | 10/2027 | Wartsila | 2x40T | $ 11m | Singaporean |  |
 
 ## Page 4
 

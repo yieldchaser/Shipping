@@ -79,6 +79,7 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2021-11-05,44,Ostrov Russkiy,Tanker,7199.0,2197.0,1985,658.0,Bangladesh,,5,advanced_shipping_2021_W44_ADVANCED-MARKET-REPORT-WEEK-44.pdf
 2021-11-12,45,Oman Pride,Tanker,300149.0,38959.0,1998,527.0,Pakistan,"""As Is"" Oman",5,advanced_shipping_2021_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
 2021-11-12,45,Ramagas,Gas,16137.0,6694.0,1989,675.0,India,,5,advanced_shipping_2021_W45_ADVANCED-MARKET-REPORT-WEEK-45.pdf
+2021-11-19,46,Berge Kangchenjunga,Bulker,263237.0,33703.0,1994,630.0,Undisclosed,"""As Is"" Singapore, Incl. bunkers for voyage to recycling location",5,advanced_shipping_2021_W46_ADVANCED-MARKET-REPORT-WEEK-46.pdf
 2021-11-19,46,Yuhua Star,Tanker,16026.0,4603.0,1997,1040.0,India,"""As Is"" UAE, St St",5,advanced_shipping_2021_W46_ADVANCED-MARKET-REPORT-WEEK-46.pdf
 2021-11-26,47,Zhen Hua 19,Specialised Cargo,30451.0,18660.0,1984,555.0,Pakistan,"""As Is, Where Is"" Dubai",5,advanced_shipping_2021_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
 2021-11-26,47,ETC Mena,Tanker,107181.0,16696.0,2001,630.0,Undisclosed,"""As Is"" Singapore",5,advanced_shipping_2021_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
@@ -106,6 +107,7 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2022-02-11,6,New Inspiration,Tanker,298399.0,40737.0,2002,660.0,Pakistan,,5,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
 2022-02-11,6,Petrogaruda,Tanker,112045.0,19015.0,2003,650.0,Bangladesh,,5,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
 2022-02-11,6,Hippo,Tanker,46092.0,12141.0,1997,642.0,Bangladesh,,5,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
+2022-02-11,6,Chemtrans Rugen,Tanker,34861.0,8866.0,2001,635.0,Undisclosed,"""As Is"" Singapore/Batam, Including extra payments for bunkers & lubes",5,advanced_shipping_2022_W06_ADVANCED-MARKET-REPORT-WEEK-6.pdf
 2022-02-18,7,Berge Aoraki,Bulker,172502.0,21221.0,2000,640.0,Bangladesh,HKC recycling,5,advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
 2022-02-18,7,Thuraya,Tanker,46724.0,11916.0,1999,655.0,Pakistan,,5,advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
 2022-02-18,7,Aristos,Tanker,46678.0,10534.0,2004,675.0,Bangladesh,,5,advanced_shipping_2022_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
@@ -172,6 +174,7 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2022-12-16,50,Uni-Ardent,Container,15511.0,6866.0,1998,505.0,Undisclosed,"""As Is"" Kaohsiung",5,advanced_shipping_2022_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2022-12-16,50,SSL Chennai,Container,11506.0,4039.0,1998,560.0,India,"""As Is"" Colombo",5,advanced_shipping_2022_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2022-12-16,50,Bosfor,Tanker,1887.0,703.0,1989,510.0,Bangladesh,,5,advanced_shipping_2022_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
+2022-12-23,51,Paschalis D,Bulker,170188.0,22908.0,2002,525.0,Undisclosed,"""As Is"" Singapore, Incl. bunkers for delivery voyage to Indian subcontinent",5,advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2022-12-23,51,Hai Feng 698,Fishing,11871.0,7262.0,1984,435.0,Bangladesh,,5,advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2022-12-23,51,Venus C,Container,14867.0,4394.0,1989,525.0,India,"""As Is"" Singapore, Incl. 150T bunkers ROB",5,advanced_shipping_2022_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
 2021-12-31,52,Sothys,Tanker,107123.0,16749.0,2003,605.0,Pakistan,,4,advanced_shipping_2022_W52_ADVANCED-MARKET-REPORT-WEEK-52.pdf
@@ -191,6 +194,7 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2023-02-17,7,Mahavir,Bulker,74005.0,10540.0,2000,515.0,Undisclosed,"""As Is"" Colombo",5,advanced_shipping_2023_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
 2023-02-17,7,MSC Floriana,Container,31205.0,8773.0,1986,525.0,India,HKC recycling,5,advanced_shipping_2023_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
 2023-02-17,7,Bunga Mas Enam,Container,8668.0,4751.0,1997,320.0,India,"""As Is, Where Is"" Malaysia, HKC recycling, under tow",5,advanced_shipping_2023_W07_ADVANCED-MARKET-REPORT-WEEK-7.pdf
+2023-02-24,8,Seapeak Arctic,Gas,48857.0,23667.0,1993,643.0,Bangladesh,"""As Is"" Malaysia, 3.678MT aluminium content, HKC recycling",6,advanced_shipping_2023_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
 2023-02-24,8,MSC Giovanna,Container,25904.0,11197.0,1987,500.0,India,HKC recycling,6,advanced_shipping_2023_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
 2023-02-24,8,Vadi,Bulker,64214.0,10247.0,1994,575.0,Bangladesh,Incl. 300MT bunkers and spare propeller,6,advanced_shipping_2023_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
 2023-02-24,8,Da Qing 439,Tanker,37603.0,9828.0,1999,500.0,Undisclosed,"""As Is"" China",6,advanced_shipping_2023_W08_ADVANCED-MARKET-REPORT-WEEK-8.pdf
@@ -264,7 +268,7 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2023-07-21,29,Heng Yang,Tanker,8143.0,3535.0,1994,930.0,Undisclosed,"""As Is"" Indonesia, Incl. St St",5,advanced_shipping_2023_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf
 2023-07-28,30,Yang Fan,Bulker,69163.0,10934.0,1997,540.0,Bangladesh,"""As Is"" Batam"" incl. bunkers",4,advanced_shipping_2023_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2023-07-28,30,Zheng Jie,Bulker,73409.0,10783.0,1997,495.0,Bangladesh,"""As Is"" China",4,advanced_shipping_2023_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
-2023-07-28,30,Zheng Hao,Bulker,73049.0,10750.0,1997,495.0,Bangladesh,As Is China,4,advanced_shipping_2023_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
+2023-07-28,30,Zheng Hao,Bulker,73049.0,10750.0,1997,495.0,Bangladesh,"""As Is"" China",4,advanced_shipping_2023_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf
 2023-08-04,31,Great Wenwu,Bulker,68621.0,9759.0,1994,465.0,Bangladesh,,5,advanced_shipping_2023_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
 2023-08-04,31,Sinokor Tianjin,Container,11031.0,4672.0,1998,622.0,Bangladesh,Incl. 250T ROB,5,advanced_shipping_2023_W31_ADVANCED-MARKET-REPORT-WEEK-31.pdf
 2023-08-25,34,Lila Ningbo,Bulker,175775.0,24181.0,2002,495.0,India,,4,advanced_shipping_2023_W34_ADVANCED-MARKET-REPORT-WEEK-34.pdf
@@ -313,8 +317,8 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2023-11-24,47,SAMC Eddie,Bulker,175775.0,24181.0,2002,505.0,Undisclosed,"""As Is"" Singapore",5,advanced_shipping_2023_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
 2023-11-24,47,Xin Feng Guang Zhou,Container,33522.0,8895.0,1994,495.0,Undisclosed,"""As Is"" Zhoushan",5,advanced_shipping_2023_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
 2023-11-24,47,Daytona Dynamic,Bulker,27877.0,6058.0,1990,510.0,India,,5,advanced_shipping_2023_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
-2023-11-24,47,MTT Tawau,Container,14099.0,5730.0,1997,520.0,Undisclosed,"""As Is"" Malaysia incl bunkers",5,advanced_shipping_2023_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
-2023-11-24,47,MTT Tanjung Manis,Container,12171.0,5468.0,1999,520.0,Undisclosed,"As Is Malaysia, incl. bunkers",5,advanced_shipping_2023_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
+2023-11-24,47,MTT Tawau,Container,14099.0,5730.0,1997,520.0,Undisclosed,"""As Is"" Malaysia, incl. bunkers",5,advanced_shipping_2023_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
+2023-11-24,47,MTT Tanjung Manis,Container,12171.0,5468.0,1999,520.0,Undisclosed,"""As Is"" Malaysia, incl. bunkers",5,advanced_shipping_2023_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf
 2023-12-01,48,Ze Hong,Container,41553.0,11614.0,1995,520.0,India,"""As Is"" Zhoushan, incl. 285T bunkers",5,advanced_shipping_2023_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
 2023-12-01,48,Neptune Star,Bulker,25398.0,5471.0,1996,512.0,India,,5,advanced_shipping_2023_W48_ADVANCED-MARKET-REPORT-WEEK-48.pdf
 2023-12-08,49,G Harmony,General Cargo,35014.0,11248.0,2005,531.0,Pakistan,,5,advanced_shipping_2023_W49_ADVANCED-MARKET-REPORT-WEEK-49.pdf
@@ -539,6 +543,7 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2025-12-12,50,Morality,Tanker,49474.0,9824.0,2003,416.0,India,,5,advanced_shipping_2025_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2025-12-12,50,Sea Star,GC,6150.0,2041.0,1980,260.0,Turkish,,5,advanced_shipping_2025_W50_ADVANCED-MARKET-REPORT-WEEK-50.pdf
 2025-12-19,51,Sage Sagittarius,Bulker,105708.0,19934.0,2001,426.0,Bangladesh,,5,advanced_shipping_2025_W51_ADVANCED-MARKET-REPORT-WEEK-51.pdf
+2026-10-16,42,LNG Kano,Gas,83961.0,38616.0,2007,530.0,India,,6,advanced_shipping_17_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-01-09,2,Chang Ming Yang,Bulker,99761.0,19529.0,1993,380.0,Undisclosed,"""As Is"" China",6,advanced_shipping_2026_W02_ADVANCED-MARKET-REPORT-WEEK-2.pdf
 2026-01-09,2,Gold Origin,GC,8300.0,2485.0,2005,330.0,Bangladesh,"""As Is"" SE Asia",6,advanced_shipping_2026_W02_ADVANCED-MARKET-REPORT-WEEK-2.pdf
 2026-01-16,3,Sheng Lu,Bulker,28510.0,6300.0,1994,405.0,Undisclosed,,7,advanced_shipping_2026_W03_ADVANCED-MARKET-REPORT-WEEK-3.pdf

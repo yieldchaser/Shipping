@@ -79,17 +79,20 @@ A generally quiet week for this segment. A number of Indonesian trips into China
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capesize | Ubuntu Community | 190.000 | 2023 | SWS, China |  | MAN- B&W | - | Undiscl | Greek | Resales, LNG dual fuelled, |
-| Capesize | Ubuntu Unity | 190.000 | 2023 | SWS, China |  | MAN- B&W | - | Undiscl. | (Maran Dry) | long T/C back to Anglo American |
+| Capesize | Ubuntu Community | 190.000 | 2023 | SWS, China |  | MAN- B&W | - | Undiscl. | Greek (Maran Dry) | Resales, LNG dual fuelled, long T/C back to Anglo American |
+| Capesize | Ubuntu Unity | 190.000 | 2023 | SWS, China |  | MAN- B&W | - | Undiscl. | Greek (Maran Dry) | Resales, LNG dual fuelled, long T/C back to Anglo American |
 | Capesize | Thalassini Astrid | 179.816 | 2014 | Tianjin, China | 03/2024 | MAN- B&W | - | $ 34m | UAE (Tomini Shipping) | BWTS fitted, Scrubber fitted |
 | Capesize | Aquamarie | 178.896 | 2012 | Sungdong, Korea | 04/2027 | MAN- B&W | - | Undiscl. | Greek | Old sale |
 | Capesize | Aquagenie | 177.346 | 2003 | Namura & Sasebo, Japan | 12/2023 | Mitsubishi | - | $ 13,25m | Undiscl. | Old sale |
+| Kamsarmax | Liberty K | 82.217 | 2010 | Tsuneishi Zhoushan, China | 01/2025 | MAN- B&W | - | $ 19,5m | Greek | BWTS fitted, DD 03/2023 |
 | Kamsarmax | Hampton Bay | 81.508 | 2009 | Universal, Japan | 03/2024 | MAN- B&W | - | $ 19,9m | Greek | BWTS fitted |
+| Panamax | Oceanic Power | 78.173 | 2013 | Shin Kurushima, Japan | 04/2023 | MAN- B&W | - | $ 23m | Greek | BWTS fitted, 18months BBHP structure |
 | Panamax | Navios Libertas | 75.511 | 2007 | Stx, Korea | 08/2027 | MAN- B&W | - | $ 13,8m | Undiscl. | BWTS fitted |
 | Ultramax | Springfield | 63.614 | 2020 | Cosco, China | 03/2025 | MAN- B&W | 4x30T | $ 30,75m | Undiscl. | BWTS fitted, Scrubber fitted |
 | Supramax | Serenitas N | 56.811 | 2011 | Yangzhou, China | 07/2026 | Wartsila | 4x30T | Low-Mid $ 12m | Greek | BWTS fitted |
 | Handysize | Shanghai Pearl | 35.921 | 2011 | Hyundai Mipo, Korea | 01/2026 | MAN- B&W | 4x35T | Region $ 14m | Undiscl. | OHBS, BWTS fitted |
 | Handysize | AS Elenia | 34.421 | 2011 | Spp, Korea | 09/2026 | MAN- B&W | 4x35T | $ 13,3m | Turkish | BWTS fitted |
+| Handysize | Lavieen Rose | 33.398 | 2014 | Shin Kurushima, Japan | 10/2024 | Mitsubishi | 4x30T | $ 17,5m | Greek | OHBS, BWTS fitted, Index linked T/C back |
 | Handysize | Belle Etoile | 28.230 | 2014 | I-S, Japan | 10/2024 | MAN- B&W | 4x30,5T | High $ 12m | Undiscl. | BWTS fitted |
 
 ## Page 4
@@ -100,6 +103,7 @@ A generally quiet week for this segment. A number of Indonesian trips into China
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Seahero | 306.507 | 2006 | Daewoo, Korea | 03/2026 | Sulzer | $ 56m | Middle Eastern | BWTS fitted, Scrubber fitted |
 | FSO | New Global | 305.704 | 2001 | Daewoo, Korea | 09/2026 | B&W | Undisclosed | Chinese |  |
+| VLCC | Arzoyi | 299.152 | 2002 | Hitachi, Japan |  | B&W | $ 26,7m | Chinese | Auction sale, Scrubber fitted, Laid out and out of class |
 | Suezmax | Aegean Dignity | 159.081 | 2004 | Hyundai, Korea | 02/2025 | MAN- B&W | $ 38m | Middle Eastern | Old sale, Delivered |
 | LR2 | Aether | 113.849 | 2007 | Daewoo, Korea |  | MAN- B&W | $ 37m | Middle Eastern |  |
 | Aframax | Atlantis | 105.400 | 2008 | Sumitomo, Japan | 09/2023 | MAN- B&W | $ 38m | Greek |  |
@@ -107,10 +111,12 @@ A generally quiet week for this segment. A number of Indonesian trips into China
 | LR1 | Hafnia Kronborg | 73.708 | 2007 | New Century, China | 03/2027 | MAN- B&W | High $ 22m | Undisclosed | BWTS fitted |
 | LR1 | Junior G | 70.426 | 2005 | Universal, Japan | 07/2024 | B&W | $ 21m | Middle Eastern |  |
 | MR | Super Emerald | 50.346 | 2005 | Shina, Korea | 12/2025 | MAN- B&W | $ 17,75m | Turkish | BWTS fitted |
+| MR | Sunny Horizon | 49.999 | 2010 | Guangzhou, China | 01/2025 | Wartsila | Undisclosed | Turkish (Zamanti Denizcilik) | BWTS fitted, Ice Class 1A Super, Delivered |
 | MR | Pink Coral | 49..474 | 2003 | Stx, Korea | 04/2023 | MAN- B&W | $ 13m | Middle Eastern |  |
 | MR | Markos I | 45.592 | 2005 | Uljanik, Croatia | 08/2025 | B&W | Low $ 17m | Chinese | BWTS fitted |
 | MR | Loukas I | 45.568 | 2005 | Uljanik, Croatia | 12/2025 | MAN- B&W | $ 17m | Undisclosed | BWTS fitted |
 | Chemical/Oil Products | Egeiro Cyan | 13.241 | 2008 | Jinse, Korea | 10/2023 | MAN- B&W | $ 7m | Undisclosed |  |
+| Chemical/Oil Products | Normanna | 10.044 | 1996 | Poli Pellestrina, Italy | 10/2026 | MaK | $ 5,8m | Turkish | St St, BWTS fitted, Ice Class 1C |
 
 ## Page 5
 
@@ -118,7 +124,10 @@ A generally quiet week for this segment. A number of Indonesian trips into China
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Panamax | Rio Centaurus | 3.426 | 2010 | Nordseewerke, Germany | 07/2025 | MAN- B&W | - | $ 18,9m | Norwegian | Scrubber fitted, Ice Class II, Incl. T/C |
 | Sub Panamax | TRF Kaya | 2.824 | 2007 | Hyundai Mipo, Korea | 02/2027 | MAN- B&W | - | $ 15m | Norwegian | Scrubber fitted, Incl. T/C |
+| Sub Panamax | Northern Vivacity | 2.742 | 2005 | Aker Mtw Werft, Germany | 09/2025 | B&W | - | $ 13m | Undisclosed | Ice Class II |
+| Sub Panamax | Northern Volition | 2.742 | 2005 | Aker Mtw Werft, Germany | 11/2025 | B&W | - | $ 13m | Undisclosed | Ice Class II |
 | Feeder | Kuo Lung | 1.405 | 1998 | CSBC, Taiwan | 05/2023 | B&W | - | $ 3,25m | Undisclosed |  |
 | Feeder | TS Shanghai | 1.096 | 2019 | Kyokuyo, Japan | 08/2024 | MAN- B&W | - |  |  |  |
 | Feeder | TS Yokohama | 1.096 | 2019 | Kyokuyo, Japan | 11/2024 | MAN- B&W | - | $ 40m enbloc | European |  |
@@ -129,8 +138,8 @@ A generally quiet week for this segment. A number of Indonesian trips into China
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | BW Thor | 58.610 | 2008 | Hyundai, Korea | 06/2023 | MAN-B&W | 80.657 | $ 55m | Undisclosed | BWTS fitted |
-| LNG | Seapeak Vision | 1.211 | 2011 | Avic, China | 10/2026 | MAN-B&W | 11.782 | $ 27m | Cypriot (Sole | BWTS fitted, Ice Class II, |
-| LNG | Seapeak Unikum | 12.210 | 2011 | Avic, China | 06/2026 | MAN-B&W | 11.782 | $ 27m | (Sole Shipping) | Incl. BB charter to Titan |
+| LNG | Seapeak Vision | 1.211 | 2011 | Avic, China | 10/2026 | MAN-B&W | 11.782 | $ 27m | Cypriot (Sole Shipping) | BWTS fitted, Ice Class II, Incl. BB charter to Titan |
+| LNG | Seapeak Unikum | 12.210 | 2011 | Avic, China | 06/2026 | MAN-B&W | 11.782 | $ 27m | Cypriot (Sole Shipping) | BWTS fitted, Ice Class II, Incl. BB charter to Titan |
 
 ## Page 6
 

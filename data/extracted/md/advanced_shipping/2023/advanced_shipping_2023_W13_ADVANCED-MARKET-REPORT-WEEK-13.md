@@ -79,17 +79,20 @@ A generally quiet week for this segment. Inter-Mediterranean trips were reported
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Newcastlemax | MP The Harrison | 208.000 | 2021 | Jiangsu, China | 02/2026 | MAN- B&W | - | $ 63m | Greek (TMS) | BWTS fitted, Scrubber fitted, |
-| Newcastlemax | MP The Vinatieri | 208.000 | 2021 | Jiangsu, China | 03/2026 | MAN- B&W | - | $ 63m | Greek (TMS) | Incl. index linked T/C |
+| Newcastlemax | MP The Harrison | 208.000 | 2021 | Jiangsu, China | 02/2026 | MAN- B&W | - | $ 63m | Greek (TMS) | BWTS fitted, Scrubber fitted, Incl. index linked T/C |
+| Newcastlemax | MP The Vinatieri | 208.000 | 2021 | Jiangsu, China | 03/2026 | MAN- B&W | - | $ 63m | Greek (TMS) | BWTS fitted, Scrubber fitted, Incl. index linked T/C |
 | Capesize | C H S Splendor | 170.000 | 2006 | IHI, Japan | 01/2026 | Sulzer | - | Mid-High $ 17m | Middle Eastern | BWTS fitted |
 | Kamsarmax | Bulk Japan | 82.951 | 2006 | Tsuneishi, Japan | 07/2026 | MAN- B&W | - | $ 15m | Undisclosed | BWTS fitted |
 | Panamax | TR Infinity | 77.113 | 2015 | Imabari, Japan | 08/2025 | MAN- B&W | - | Mid-High $ 25m | Greek (Newport) | BWTS fitted, DD 07/2023 |
 | Panamax | Hui Xin 9 | 75.658 | 2012 | Shanghai, China | 05/2027 | MAN- B&W | - | Excess $ 17m | Undisclosed | BWTS fitted |
+| Supramax | Carmencita | 58.773 | 2009 | Tsuneishi Cebu, Philippines | 05/2024 | MAN- B&W | 4x30T | $ 16m | Undisclosed | BWTS fitted |
+| Supramax | Amis Orchid | 58.120 | 2012 | Tsuneishi Cebu, Philippines | 07/2025 | MAN- B&W | 4x30T | $ 19m | Undisclosed | BWTS fitted, T/C attached until Feb-Jun'24 |
 | Supramax | Asali | 57.255 | 2010 | Stx, Korea | 11/2025 | MAN- B&W | 4x30T | $ 17m | Undisclosed | BWTS fitted, Dely Jul'23 |
 | Supramax | New Beginning | 56.098 | 2013 | Mitsui, Japan | 01/2028 | MAN- B&W | 4x30T | $ 20,5m | Greek | BWTS fitted |
 | Handysize | Erisort | 39.763 | 2014 | Chengxi, China | 10/2024 | Wartsila | 4x36T | Low-Mid $ 20m | US based (JP Morgan) | BWTS fitted |
 | Handysize | Erradale | 39.757 | 2014 | Chengxi, China | 08/2024 | Wartsila | 4x36T | Low-Mid $ 20m | US based (JP Morgan) | BWTS fitted |
 | Handysize | Wulin | 39.049 | 2014 | Chengxi, China | 03/2024 | Wartsila | 4x30T | Low-Mid $ 20m | US based (JP Morgan) | BWTS fitted |
+| Handysize | Daiwan Champion | 34.393 | 2015 | Namura & Sasebo, Japan | 02/2025 | MAN- B&W | 4x30T | Region $ 20m | Undisclosed | BWTS fitted, Incl. index linked T/C until May'24 |
 
 ## Page 4
 
@@ -102,10 +105,10 @@ A generally quiet week for this segment. Inter-Mediterranean trips were reported
 | MR | PTI Danube | 49.999 | 2017 | Spp, Korea | 01/2027 | MAN- B&W | Excess $ 40m | Undisclosed | BWTS fitted, Dely Jul'23 |
 | MR | Jo Kari | 47.128 | 2007 | Hyundai Mipo, Korea | 10/2026 | MAN- B&W | Excess $ 22m | Turkish | BWTS fitted |
 | MR | Jemma | 38.402 | 2008 | Guangzhou, China | 06/2023 | MAN- B&W | $ 18m | Turkish |  |
-| MR | Seahake | 32.464 | 2003 | Lindenau, Germany | 11/2023 | MAN | $ 30m | Undisclosed | Ice Class 1B |
-| MR | Searay | 32.310 | 2004 | Lindenau, Germany | 05/2024 | MAN | enbloc | Undisclosed | Ice Class 1A |
-| Chemical/Oil Products | Chemical Atlantik | 15.081 | 2018 | Selah, Turkey | 05/2023 | Hyundai Himsen | $ 30m | Dutch (Stolt | St St |
-| Chemical/Oil Products | Preveze 1 | 15.081 | 2019 | Selah, Turkey | 03/2024 | Hyundai Himsen | $ 30m | Tankers) | St St |
+| MR | Seahake | 32.464 | 2003 | Lindenau, Germany | 11/2023 | MAN | $ 30m enbloc | Undisclosed | Ice Class 1B |
+| MR | Searay | 32.310 | 2004 | Lindenau, Germany | 05/2024 | MAN | $ 30m enbloc | Undisclosed | Ice Class 1A |
+| Chemical/Oil Products | Chemical Atlantik | 15.081 | 2018 | Selah, Turkey | 05/2023 | Hyundai Himsen | $ 30m | Dutch (Stolt Tankers) | St St |
+| Chemical/Oil Products | Preveze 1 | 15.081 | 2019 | Selah, Turkey | 03/2024 | Hyundai Himsen | $ 30m | Dutch (Stolt Tankers) | St St |
 
 ### Containers
 
@@ -118,8 +121,8 @@ A generally quiet week for this segment. Inter-Mediterranean trips were reported
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LNG | Gaslog Saratoga | 81.855 | 2014 | Samsung, Korea | 12/2024 | Wartsila | 151.990 | $ 284m | Chinese (CDB |  |
-| LNG | Gaslog Sydney | 82.010 | 2013 | Samsung, Korea | 05/2023 | Wartsila | 151.900 | enbloc | (CDB Leasing) |  |
+| LNG | Gaslog Saratoga | 81.855 | 2014 | Samsung, Korea | 12/2024 | Wartsila | 151.990 | $ 284m enbloc | Chinese (CDB Leasing) |  |
+| LNG | Gaslog Sydney | 82.010 | 2013 | Samsung, Korea | 05/2023 | Wartsila | 151.900 | $ 284m enbloc | Chinese (CDB Leasing) |  |
 
 ## Page 5
 

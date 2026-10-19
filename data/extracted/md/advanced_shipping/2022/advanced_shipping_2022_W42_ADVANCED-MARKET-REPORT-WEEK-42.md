@@ -82,13 +82,18 @@ A generally quiet week for this segment. Trips from China into Southeast Asia we
 | Capesize | Arethousa | 169.770 | 2001 | Sasebo, Japan | 06/2026 | B&W | - | $ 15,1m | Greek | BWTS fitted |
 | Post Panamax | CMB Chardonnay | 95.707 | 2012 | Koyo, Japan | 11/2022 | MAN- B&W | - | $ 21,5m | Chinese |  |
 | Post Panamax | Lara Venture | 93.758 | 2011 | Shanhaiguan, China | 09/2026 | MAN- B&W | - | Low-Mid $ 20m | Middle Eastern | BWTS fitted |
-| Post Panamax | Jin Lang | 93.280 | 2010 | Jiangsu, China | 04/2025 | MAN- B&W | - | $ 17,25m | Greek (Evalend |  |
-| Post Panamax | Jin Mei | 93.204 | 2010 | Jiangsu, China | 03/2025 | MAN- B&W | - | $ 17,25m | (Evalend Shipping) |  |
+| Post Panamax | Jin Lang | 93.280 | 2010 | Jiangsu, China | 04/2025 | MAN- B&W | - | $ 17,25m | Greek (Evalend Shipping) |  |
+| Post Panamax | Jin Mei | 93.204 | 2010 | Jiangsu, China | 03/2025 | MAN- B&W | - | $ 17,25m | Greek (Evalend Shipping) |  |
 | Kamsarmax | Arouzu | 82.113 | 2012 | Tsuneishi, Japan | 03/2027 | MAN- B&W | - | High $ 24m | Greek | BWTS fitted, Scrubber fitted |
+| Kamsarmax | Nord Gemini | 81.870 | 2017 | Tsuneishi Cebu, Philippines | 02/2027 | MAN- B&W | - | $ 30,65m | Greek (Neda Maritime) | BWTS fitted |
+| Kamsarmax | Bulk Holland | 81.712 | 2017 | Tsuneishi Cebu, Philippines | 04/2027 | MAN- B&W | - | $ 29,65m | Greek (Newport) | BWTS fitted |
 | Ultramax | Ultra Wollongong | 61.684 | 2011 | Oshima, Japan | 06/2026 | MAN- B&W | 4x30T | $ 22m | HK based | BWTS fitted |
 | Supramax | Corinthian Emerald | 57.592 | 2012 | Stx, Korea | 03/2027 | MAN- B&W | 4x30T | $ 20,4m | Undisclosed | BWTS fitted |
+| Supramax | Medi Bangkok | 53.466 | 2006 | Imabari, Japan | 10/2025 | MAN- B&W | 4x31T | $ 14,5m | Chinese | BWTS fitted, basis 3years BBHP |
 | Handymax | Pacific Selina | 49.061 | 1997 | Oshima, Japan | 01/2027 | B&W | 4x35T | $ 8,2m | Undisclosed | BWTS fitted |
 | Handysize | Ocean Satoko | 37.215 | 2011 | Hyundai Mipo, Korea | 12/2026 | MAN- B&W | 4x30T | $ 16,9m | Far Eastern | BWTS fitted |
+| Handysize | Orient Mate | 32.471 | 2014 | Korea Yanase Tongyeong, Korea | 01/2024 | MAN- B&W | 4x30T | $ 16,9m | Greek | BWTS fitted, Scrubber fitted |
+| Small | Hippo Spirit | 24.800 | 1996 | Shin Kurushima, Japan | 01/2026 | Mitsubishi | 4x30,5T | $ 6,2m | Undisclosed | OHBS |
 | Small | Tai Fu | 21.955 | 1994 | Saiki, Japan | 06/2027 | Mitsubishi | 4x30T | $ 4,5m | Undisclosed | BWTS fitted |
 | Small | Adastar | 21.146 | 1998 | Hanjin, Korea | 11/2022 | MAN- B&W | 3x30T | $ 8,5m | Undisclosed | OHBS |
 
@@ -105,15 +110,18 @@ A generally quiet week for this segment. Trips from China into Southeast Asia we
 | Suezmax | Aquavirtue | 156.800 | 2022 | Samsung, Korea |  | MAN- B&W | $ 76m | Greek (Thenamaris) | Resale, Dely Dec'22 |
 | LR2 | Daehan 5075 | 115.000 | 2022 | Daehan, Korea |  | MAN- B&W | $ 72,5m | Undisclosed | Resale, Dely Nov'22 |
 | Aframax | Solviken | 114.523 | 2007 | Samsung, Korea | 01/2027 | MAN- B&W | $ 32,5m | Undisclosed | Incl. T/C |
-| Aframax | Bluesea | 113.553 | 2006 | Samsung, Korea | 02/2026 | MAN- B&W | $ 62,5m | Undisclosed | BWTS fitted, Ice Class 1A |
-| Aframax | Parosea | 113.553 | 2006 | Samsung, Korea | 05/2026 | MAN- B&W | enbloc | Undisclosed | BWTS fitted, Ice Class 1A |
+| Aframax | Bluesea | 113.553 | 2006 | Samsung, Korea | 02/2026 | MAN- B&W | $ 62,5m enbloc | Undisclosed | BWTS fitted, Ice Class 1A |
+| Aframax | Parosea | 113.553 | 2006 | Samsung, Korea | 05/2026 | MAN- B&W | $ 62,5m enbloc | Undisclosed | BWTS fitted, Ice Class 1A |
+| Aframax | Hao Yu | 105.522 | 2005 | Sumitomo, Japan | 06/2025 | Wartsila | $ 27m | Middle Eastern | BWTS fitted, Scrubber fitted DD 01/2023 |
 | LR1 | Alpine Plymouth | 74.606 | 2011 | Hyundai Mipo, Korea | 08/2025 | MAN- B&W | $ 112m enbloc | Undisclosed | BWTS fitted, Incl 3years T/C at 23.000 usd/pd |
-| LR1 | Alpine Pembroke | 74.602 | 2010 | Hyundai Mipo, Korea | 11/2025 | MAN- B&W | $ 112m | Undisclosed | BWTS fitted, Incl 3years T/C |
-| LR1 | Alpine Pearl | 74.552 | 2011 | Hyundai Mipo, Korea | 11/2025 | MAN- B&W | enbloc | Undisclosed | at 23.000 usd/pd |
+| LR1 | Alpine Pembroke | 74.602 | 2010 | Hyundai Mipo, Korea | 11/2025 | MAN- B&W | $ 112m enbloc | Undisclosed | BWTS fitted, Incl 3years T/C at 23.000 usd/pd |
+| LR1 | Alpine Pearl | 74.552 | 2011 | Hyundai Mipo, Korea | 11/2025 | MAN- B&W | $ 112m enbloc | Undisclosed | BWTS fitted, Incl 3years T/C at 23.000 usd/pd |
 | LR1 | Alpine Pacifica | 74.534 | 2011 | Hyundai Mipo, Korea | 08/2025 | MAN- B&W | $ 112m enbloc | Undisclosed | BWTS fitted, Incl 3years T/C at 23.000 usd/pd |
 | MR | BSL Elsa | 51.747 | 2009 | Hyundai Mipo, Korea | 06/2024 | MAN- B&W | $ 22m | Undisclosed | BWTS fitted, Incl. T/C |
+| MR | Swift Omaha | 46.087 | 2010 | Hyundai Mipo, Korea | 12/2025 | MAN- B&W | $ 25,5m | Greek (United Overseas Group) |  |
 | MR | Starman | 45.997 | 2008 | Shin Kurushima, Japan | 12/2025 | MAN- B&W | $ 21m | Undisclosed | BWTS fitted |
 | Chemical/Oil Products | Chem Tiger | 20.622 | 2003 | Usuki, Japan | 11/2023 | MAN- B&W | Mid-High $ 11m | Undisclosed | St St, BWTS fitted |
+| Chemical/Oil Products | Celsius Miami | 19.991 | 2005 | Usuki, Japan | 04/2025 | MAN- B&W | $ 13,75m | Singapore based (Raffles Shipping) | Old sale, St St, BWTS fitted |
 
 ## Page 5
 
@@ -129,6 +137,8 @@ A generally quiet week for this segment. Trips from China into Southeast Asia we
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Bellavista Explorer | 58.045 | 2021 | Hyundai Samho, Korea | 07/2026 | MAN-B&W | 88.200 | $ 93m | Undisclosed |  |
+| LPG | Monte Rosa Explorer | 58.045 | 2021 | Hyundai Samho, Korea | 10/2026 | MAN-B&W | 88.200 | $ 93m | Undisclosed |  |
 | LPG | Navigator Magellan | 23.292 | 1998 | Mitsui, Japan | 05/2025 | B&W | 20.510 | $ 13m | Undisclosed |  |
 
 ## Page 6

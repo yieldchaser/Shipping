@@ -79,12 +79,13 @@ South East Asia trips into US Gulf were fixed at a range of usd 15,000/16,000 pd
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capesize | Maran Argonaut | 177.835 | 2009 | SWS, China | 09/2029 | MAN-B&W | - | $ 60m | Undisclosed | Scrubber fitted |
-| Capesize | Maran Happiness | 177.720 | 2008 | SWS, China | 06/2030 | MAN-B&W | - | enbloc | Undisclosed | Scrubber fitted |
+| Capesize | Maran Argonaut | 177.835 | 2009 | SWS, China | 09/2029 | MAN-B&W | - | $ 60m enbloc | Undisclosed | Scrubber fitted |
+| Capesize | Maran Happiness | 177.720 | 2008 | SWS, China | 06/2030 | MAN-B&W | - | $ 60m enbloc | Undisclosed | Scrubber fitted |
 | Kamsarmax | Star Moira | 82.295 | 2006 | Tsuneishi, Japan | 07/2029 | MAN-B&W | - | $ 14,3m | Undisclosed | Scrubber fitted |
 | Kamsarmax | Key Hunter | 82.099 | 2011 | Tsuneishi, Japan | 12/2027 | MAN-B&W | - | $ 20,9m | Greek |  |
 | Kamsarmax | Themis | 81.882 | 2012 | Cosco, China | 07/2027 | Wartsila | - | xs $ 18m | Undisclosed |  |
 | Panamax | Hong Run 6 | 75.921 | 2001 | Kanasashi, Japan | 08/2026 | B&W | - | $ 7m | Undisclosed |  |
+| Supramax | AE Mars | 53.630 | 2006 | Yangzhou, China | 08/2026 | MAN-B&W | 4x35T | $ 9,05m | Undisclosed | Online bidding, basis "As Is, Where Is" |
 | Supramax | Tianjin Venture | 53.600 | 2009 | Chengxi, China | 09/2029 | MAN-B&W | 4x36T | $ 12,2m | Undisclosed | Scrubber fitted |
 | Handysize | Seacon Colombo | 40.400 | 2026 | Jiangsu, China |  | Everllence B&W | 4x30T | $ 35,6m | Undisclosed |  |
 
@@ -93,12 +94,12 @@ South East Asia trips into US Gulf were fixed at a range of usd 15,000/16,000 pd
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR2 | STI Broadway | 109.999 | 2014 | Daehan, Korea | 11/2029 | MAN-B&W | $ 285,8m in aggregate | Undisclosed | Scrubber fitted |
-| LR2 | STI Condotti | 109.999 | 2014 | Hyundai Samho, Korea | 11/2029 | MAN-B&W | $ 285,8m in | Undisclosed | Scrubber fitted |
-| LR2 | STI Lauren | 109.999 | 2015 | Daehan, Korea | 04/2030 | MAN-B&W | aggregate | Undisclosed | Scrubber fitted |
+| LR2 | STI Condotti | 109.999 | 2014 | Hyundai Samho, Korea | 11/2029 | MAN-B&W | $ 285,8m in aggregate | Undisclosed | Scrubber fitted |
+| LR2 | STI Lauren | 109.999 | 2015 | Daehan, Korea | 04/2030 | MAN-B&W | $ 285,8m in aggregate | Undisclosed | Scrubber fitted |
 | LR2 | STI Winnie | 109.999 | 2015 | Daehan, Korea | 03/2030 | MAN-B&W | $ 285,8m in aggregate | Undisclosed | Scrubber fitted |
 | MR | Hans Maersk | 37.961 | 2009 | Stx, Korea | 11/2029 | MAN-B&W | $ 21m | Undisclosed |  |
-| Chem/Oil Products | Sinar Malahayati | 20.938 | 2006 | Shin Kurushima, Japan | 07/2026 | MAN-B&W | $ 22,95m | Undisclosed | St St |
-| Chem/Oil Products | Sinar Mendawai | 19.998 | 2008 | Usuki, Japan | 07/2028 | MAN-B&W | enbloc | Undisclosed | St St, DD 08/2026 |
+| Chem/Oil Products | Sinar Malahayati | 20.938 | 2006 | Shin Kurushima, Japan | 07/2026 | MAN-B&W | $ 22,95m enbloc | Undisclosed | St St |
+| Chem/Oil Products | Sinar Mendawai | 19.998 | 2008 | Usuki, Japan | 07/2028 | MAN-B&W | $ 22,95m enbloc | Undisclosed | St St, DD 08/2026 |
 | Chem/Oil Products | Nobler | 19.949 | 2002 | Usuki, Japan | 05/2027 | MAN-B&W | $ 10m | Undisclosed | St St |
 | Chem/Oil Products | Grace | 17.579 | 2009 | Samho, Korea | 04/2029 | MAN-B&W | $ 11,5m | Undisclosed |  |
 

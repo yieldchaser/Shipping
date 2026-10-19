@@ -98,6 +98,7 @@ Trips from West Africa into the Mediterranean were fixed around usd 9,000 pd.
 | Aframax | Talurex | 115.984 | 2011 | Samsung, Korea | 07/2026 | MAN-B&W | $ 105m enbloc | Undisclosed |  |
 | LR2 | Solvante | 110.295 | 2009 | Mitsui, Japan | 02/2029 | MAN-B&W | $ 105m enbloc | Undisclosed | DD 06/2026 |
 | LR1 | Ever Victory | 70.426 | 2005 | Universal, Japan | 06/2030 | MAN-B&W | $ 14,7m | Undisclosed |  |
+| MR | Pro Onyx | 49.999 | 2019 | Hyundai Mipo, Korea | 09/2029 | MAN-B&W | $ 39m | Undisclosed | Scrubber fitted, T/C attached till Aug-Dec'26 |
 | MR | Ocean Spirit | 49.995 | 2012 | Spp, Korea | 10/2027 | MAN-B&W | $ 27m | Undisclosed |  |
 | Chem/Oil Products | YC Azalea | 19.997 | 2004 | Shin Kurushima, Japan | 08/2029 | Mitsubishi | $ 10,75m | Undisclosed | St St |
 | Chem/Oil Products | JBU Sapphire | 19.860 | 2009 | Kitanihon, Japan | 07/2029 | Mitsubishi | $ 18,7m | Chinese | St St |
@@ -109,8 +110,8 @@ Trips from West Africa into the Mediterranean were fixed around usd 9,000 pd.
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feeder | Arsos | 1.296 | 2007 | Zhejiang, China | 12/2027 | MAN | 2x45T | $ 53,2m enbloc | Undisclosed | Ice Class II |
-| Feeder | Varamo | 1.296 | 2007 | Zhejiang, China | 02/2027 | MAN | 2x45T | $ 53,2m | Undisclosed | Ice Class II |
-| Feeder | Warnow Dolphin | 1.296 | 2007 | Zhejiang, China | 06/2027 | MAN | 2x45T | enbloc | Undisclosed | Ice Class II |
+| Feeder | Varamo | 1.296 | 2007 | Zhejiang, China | 02/2027 | MAN | 2x45T | $ 53,2m enbloc | Undisclosed | Ice Class II |
+| Feeder | Warnow Dolphin | 1.296 | 2007 | Zhejiang, China | 06/2027 | MAN | 2x45T | $ 53,2m enbloc | Undisclosed | Ice Class II |
 | Feeder | Fouma | 1.284 | 2007 | Zhejiang, China | 08/2027 | MAN | 2x45T | $ 53,2m enbloc | Undisclosed | Ice Class II |
 
 ## Page 5

@@ -81,14 +81,17 @@ A number of Australian trips into Japan were reported at the level of usd 13,000
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Newcastlemax | HL Aquamarine | 207.999 | 2021 | New Times, China | 02/2026 | MAN- B&W | - | $ 291m enbloc | Norwegian (Golden Ocean) | BWTS fitted, Scrubber fitted, T/C back for 3years at 21.000 usd/pd |
 | Newcastlemax | HL Diamond | 207.999 | 2020 | New Times, China | 10/2025 | MAN- B&W | - | $ 291m enbloc | Norwegian (Golden Ocean) | BWTS fitted, Scrubber fitted, T/C back for 3years at 21.000 usd/pd |
-| Newcastlemax | HL Emerald | 207.999 | 2020 | New Times, China | 10/2025 | MAN- B&W | - | $ 291m | Norwegian (Golden | BWTS fitted, Scrubber fitted, T/C back for |
-| Newcastlemax | HL Pearl | 207.999 | 2020 | New Times, China | 11/2025 | MAN- B&W | - | $ 291m enbloc | (Golden Ocean) | T/C back for 3years at 21.000 usd/pd |
+| Newcastlemax | HL Emerald | 207.999 | 2020 | New Times, China | 10/2025 | MAN- B&W | - | $ 291m enbloc | Norwegian (Golden Ocean) | BWTS fitted, Scrubber fitted, T/C back for 3years at 21.000 usd/pd |
+| Newcastlemax | HL Pearl | 207.999 | 2020 | New Times, China | 11/2025 | MAN- B&W | - | $ 291m enbloc | Norwegian (Golden Ocean) | BWTS fitted, Scrubber fitted, T/C back for 3years at 21.000 usd/pd |
+| Newcastlemax | HL Port Walcott | 207.999 | 2017 | China Shipping Ind, China | 03/2027 | MAN- B&W | - | $ 291m enbloc | Norwegian (Golden Ocean) | BWTS fitted, Scrubber fitted, T/C back for 3years at 21.000 usd/pd |
 | Newcastlemax | HL Sapphire | 207.999 | 2021 | New Times, China | 01/2026 | MAN- B&W | - | $ 291m enbloc | Norwegian (Golden Ocean) | BWTS fitted, Scrubber fitted, T/C back for 3years at 21.000 usd/pd |
 | Capesize | Agia Trias | 185.820 | 2002 | Kawasaki, Japan | 03/2023 | B&W | - | $ 12,5m | Chinese | BWTS fitted |
+| Capesize | Ocean Caesar | 180.176 | 2008 | Imabari, Japan | 09/2026 | MAN- B&W | - | Region $ 20m | Chinese (Winning Shipping) | BWTS fitted |
 | Kamsarmax | Dona Tara | 81.323 | 2011 | Hyundai Samho, Korea | 11/2026 | MAN- B&W | - | $ 20,5m | Undisclosed | BWTS fitted |
 | Ultramax | Aston | 63.614 | 2020 | Cosco, China | 03/2025 | MAN- B&W | 4x30T | Region $ 30m | US based (Eagle Bulk) | BWTS fitted, Scrubber fitted |
-| Supramax | Pacific Dream | 56.531 | 2013 | Jiangsu, China | 06/2023 | Wartsila | 4x36T | $ 15,5m | Undisclosed | Basis SS/DD passed & |
-| Supramax | Pacific Vision | 56.425 | 2013 | Jiangsu, China | 08/2023 | Wartsila | 4x36T | $ 15,5m | Undisclosed | BWTS fitted, Dely May-Jul'23 |
+| Ultramax | Mutiara | 61.498 | 2012 | Shin Kasado, Japan | 04/2023 | MAN- B&W | 4x30,7T | $ 21m | HK based (Pacific Basin) | BWTS fitted |
+| Supramax | Pacific Dream | 56.531 | 2013 | Jiangsu, China | 06/2023 | Wartsila | 4x36T | $ 15,5m | Undisclosed | Basis SS/DD passed & BWTS fitted, Dely May-Jul'23 |
+| Supramax | Pacific Vision | 56.425 | 2013 | Jiangsu, China | 08/2023 | Wartsila | 4x36T | $ 15,5m | Undisclosed | Basis SS/DD passed & BWTS fitted, Dely May-Jul'23 |
 | Supramax | Ellie M | 52.510 | 2001 | Kanasashi, Japan | 11/2026 | Mitsubishi | 4x30,5T | $ 7,5m | Undisclosed | BWTS fitted |
 | Handysize | Paxi | 28.734 | 2010 | Imabari, Japan | 05/2025 | MAN- B&W | 4x30,5T | $ 11,2m | Undisclosed | BWTS fitted, DD 06/2023 |
 | Small | Prince Rupert | 18.917 | 2009 | Yamanishi, Japan | 04/2024 | MAN- B&W | 3x30,5T | $ 9,1m | Undisclosed |  |
@@ -101,19 +104,21 @@ A number of Australian trips into Japan were reported at the level of usd 13,000
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Cosglory Lake | 299.145 | 2003 | Universal, Japan | 04/2023 | B&W | $ 42m | Undisclosed |  |
 | Suezmax | Kriti Diamond | 166.739 | 2004 | Brodosplit, Croatia | 01/2024 | MAN- B&W | $ 35m | Undisclosed |  |
+| Suezmax | Cap Charles | 158.880 | 2006 | Samsung, Korea | 09/2026 | MAN- B&W | Region $ 42m | Indian (Gatik) | Delivered, BWTS fitted, Ice Class 1C |
 | Suezmax | Glorycrown | 156.654 | 2009 | Jiangsu, China | 11/2024 | MAN- B&W | $ 39m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Suezmax | Ridgebury Judith | 150.393 | 2008 | Universal, Japan | 07/2023 | Wartsila | $ 40m | Undisclosed | Scrubber fitted |
 | Aframax | Pelagos One | 111.775 | 2005 | Hyundai Samho, Korea | 05/2025 | B&W | $ 36,5m | UAE based | Ice Class 1A |
 | Aframax | Oaka | 106.395 | 2003 | Tsuneishi, Japan | 08/2026 | B&W | $ 24,1m | Undisclosed |  |
 | Aframax | Album | 105.857 | 2003 | Hyundai, Korea | 07/2023 | MAN- B&W | $ 19,8m | UAE (Aissot) | Internal deal |
 | LR1 | Megali | 73.919 | 2007 | Onomichi, Japan | 03/2027 | MAN- B&W | $ 30m | Indian (Gatik) | Delivered, Ice Class 1A |
+| LR1 | Lorelei | 73.673 | 2007 | Stx, Korea | 07/2026 | MAN- B&W | $ 33,5m | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1A |
 | MR | Ibis Pacific | 51.277 | 2007 | Stx, Korea | 06/2027 | MAN- B&W | $ 22m | Undisclosed | BWTS fitted |
 | MR | Ridgebury Katherine Z | 50.215 | 2009 | Spp, Korea | 09/2024 | MAN- B&W | $ 24,8m | Undisclosed |  |
 | MR | Johnny Trader | 46.195 | 2004 | Stx, Korea | 03/2024 | B&W | $ 18m | Undisclosed |  |
 | MR | Lisca Bianca M | 40.000 | 2005 | Hyundai Mipo, Korea | 05/2025 | B&W | $ 21m | Indian (Gatik) | Delivered, Ice Class 1B |
 | MR | Style | 37.923 | 2008 | Hyundai Mipo, Korea | 04/2023 | MAN- B&W | Low $ 16m | Undisclosed | Ice Class 1A |
-| MR | Baltic Sun II | 37.305 | 2005 | Hyundai Mipo, Korea | 01/2025 | B&W | $ 27,3m | European | Ice Class 1B |
-| MR | Giannutri | 37.299 | 2004 | Hyundai Mipo, Korea | 06/2024 | B&W | enbloc | European | Ice Class 1B |
+| MR | Baltic Sun II | 37.305 | 2005 | Hyundai Mipo, Korea | 01/2025 | B&W | $ 27,3m enbloc | European | Ice Class 1B |
+| MR | Giannutri | 37.299 | 2004 | Hyundai Mipo, Korea | 06/2024 | B&W | $ 27,3m enbloc | European | Ice Class 1B |
 | Chemical/Oil Products | Apollo | 23.998 | 2003 | 3 Maj, Croatia | 05/2026 | Sulzer | $ 10m | Chinese | Ice Class 1B |
 | Oil Products | Beluga Pacific | 17.988 | 2018 | PaxOcean, China | 04/2023 | MAN- B&W | $ 19,5m | UK | Delivered |
 

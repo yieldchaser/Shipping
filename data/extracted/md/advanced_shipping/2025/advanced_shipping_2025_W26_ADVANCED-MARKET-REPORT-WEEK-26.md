@@ -83,10 +83,10 @@ A number of Indonesian trips into China were reported at the level of usd 10,000
 | Capesize | Bulk Ginza | 182.868 | 2020 | Imabari, Japan | 04/2030 | MAN-B&W | - | $ 64m | Undisclosed |  |
 | Kamsarmax | Santa Graciela | 82.149 | 2013 | Tsuneishi, Japan | 03/2028 | MAN-B&W | - | High $ 18m | Singaporean |  |
 | Kamsarmax | Atalanta | 82.094 | 2010 | Tsuneishi Zhoushan, China | 01/2030 | MAN-B&W | - | $ 15,3m | Greek |  |
-| Kamsarmax | Explorer Asia | 81.093 | 2016 | Jiangsu, China | 01/2026 | MAN-B&W | - | $ 41m | Chinese |  |
-| Kamsarmax | Explorer Oceania | 81.073 | 2015 | Jiangsu, China | 12/2025 | MAN-B&W | - | enbloc | Chinese |  |
+| Kamsarmax | Explorer Asia | 81.093 | 2016 | Jiangsu, China | 01/2026 | MAN-B&W | - | $ 41m enbloc | Chinese |  |
+| Kamsarmax | Explorer Oceania | 81.073 | 2015 | Jiangsu, China | 12/2025 | MAN-B&W | - | $ 41m enbloc | Chinese |  |
 | Supramax | Star Runner | 57.809 | 2011 | Yangzhou, China | 09/2026 | MAN-B&W | 4x35T | $ 12,8m | Undisclosed | Scrubber fitted |
-| Supramax | SFL Humber | 56.970 | 2012 | Zhejiang, China | 01/2027 | MAN-B&W | 4x30T | Undiscl | Undisclosed |  |
+| Supramax | SFL Humber | 56.970 | 2012 | Zhejiang, China | 01/2027 | MAN-B&W | 4x30T | Undiscl. | Undisclosed |  |
 | Supramax | SFL Kate | 56.798 | 2011 | Zhejiang, China | 08/2026 | MAN-B&W | 4x30T | Undiscl. | Undisclosed |  |
 | Supramax | Castlegate | 53.503 | 2008 | Iwagi, Japan | 04/2027 | MAN-B&W | 4x30,5T | $ 11m | Undisclosed | DD 07/2025 |
 | Handysize | Aries Sakura | 39.870 | 2020 | Shin Kurushima, Japan | 06/2030 | MAN-B&W | 4x30T | $ 25,5m | Greek |  |
@@ -114,8 +114,8 @@ A number of Indonesian trips into China were reported at the level of usd 10,000
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feeder | XH Dolphin | 1.740 | 2013 | Guangzhou, China | 06/2028 | MAN-B&W | 2x45T | $ 23m | Undisclosed | Scrubber fitted |
-| Feeder | Escape | 1.436 | 2011 | Sainty, China | 12/2026 | Wartsila | - | $ 20m | Swiss based | Ice Class 1A |
-| Feeder | Espoir | 1.436 | 2011 | Sainty, China | 03/2026 | Wartsila | - | $ 20m | (MSC) | Ice Class 1A |
+| Feeder | Escape | 1.436 | 2011 | Sainty, China | 12/2026 | Wartsila | - | $ 20m | Swiss based (MSC) | Ice Class 1A |
+| Feeder | Espoir | 1.436 | 2011 | Sainty, China | 03/2026 | Wartsila | - | $ 20m | Swiss based (MSC) | Ice Class 1A |
 
 ## Page 5
 

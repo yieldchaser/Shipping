@@ -84,7 +84,9 @@ A number of Australian trips into China were reported at the level of usd 17,000
 | Post Panamax | Sunny Sailor | 91.443 | 2000 | Oshima, Japan | 01/2025 | Mitsubishi | - | $ 9,8m | Chinese | BWTS fitted |
 | Kamsarmax | Buenos Aires | 83.366 | 2011 | Sanoyas, Japan | 12/2026 | MAN- B&W | - | $ 21m | Greek | BWTS fitted |
 | Panamax | Pantelis | 74.020 | 2000 | Tsuneishi, Japan | 01/2025 | MAN- B&W | - | $ 9,7m | Undisclosed | BWTS fitted |
+| Ultramax | Nord Indian | 63.913 | 2018 | Tsuneishi Cebu, Philippines | 08/2023 | MAN- B&W | 4x36T | $ 31m | Undisclosed | BWTS fitted |
 | Ultramax | ASL Grace | 60.259 | 2015 | Onomichi, Japan | 07/2025 | MAN- B&W | 4x30T | $ 27m | Undisclosed | Old sale, BWTS fitted |
+| Supramax | Sagarjeet | 58.079 | 2009 | Tsuneishi Zhoushan, China | 05/2024 | MAN- B&W | 4x30T | $ 16,15m | Undisclosed |  |
 | Supramax | Lian Xin | 52.512 | 2002 | Kananashi, Japan | 01/2027 | Mitsubishi | 4x30,5T | $ 11,5m | Undisclosed | BWTS fitted |
 | Handysize | Maple Ambition | 35.513 | 2015 | Taizhou, China | 10/2025 | MAN- B&W | 4x30,5T | $ 16,5m | Chinese | BWTS fitted |
 | Handysize | Ortolan Alpha Strait | 34.126 | 2010 | Seko, Korea | 08/2025 | MAN- B&W | 4x30T | $ 15m | Chinese |  |
@@ -106,12 +108,13 @@ A number of Australian trips into China were reported at the level of usd 17,000
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MR | High Adventurer | 49.997 | 2017 | Onomichi, Japan | 11/2022 | MAN- B&W | $ 30,4m | Italian (D'Amico) | P. option exercised, Dely Nov'22 |
 | MR | Surfer Rosa | 46.719 | 2004 | Hyundai Mipo, Korea | 02/2024 | B&W | $ 16m | Greek | Ice Class 1C |
 | MR | Seabright | 46.159 | 2006 | Stx, Korea | 11/2026 | MAN- B&W | $ 18m | Undisclosed | BWTS fitted |
 | MR | Seamercury | 39.634 | 2003 | Hyundai Mipo, Korea | 06/2023 | B&W | Region $ 11m | Undisclosed | Ice Class 1B |
 | Chemical/Oil Products | Aeon | 18.041 | 2012 | Zhejiang, China | 01/2026 | MAN- B&W | $ 13m | Undisclosed | Auction sale |
-| Chemical/Oil Products | Jutlandia Swan | 17.998 | 2008 | Cicek, Turkey | 01/2023 | MaK | $ 24m | German | Ice Class 1A |
-| Chemical/Oil Products | Selandia Swan | 17.998 | 2008 | Gisan, Turkey | 02/2023 | MaK | enbloc | (Carl F. Peters) | Ice Class 1A |
+| Chemical/Oil Products | Jutlandia Swan | 17.998 | 2008 | Cicek, Turkey | 01/2023 | MaK | $ 24m enbloc | German (Carl F. Peters) | Ice Class 1A |
+| Chemical/Oil Products | Selandia Swan | 17.998 | 2008 | Gisan, Turkey | 02/2023 | MaK | $ 24m enbloc | German (Carl F. Peters) | Ice Class 1A |
 | Chemical/Oil Products | Oriental Freesia | 14.383 | 2006 | Asakawa, Japan | 02/2025 | MAN- B&W | $ 11,5m | Undisclosed |  |
 | Oil Products | Sol | 11.479 | 2007 | Nantong, China | Overdue | MAN- B&W | $ 5,1m | Indian | Auction sale |
 
@@ -120,8 +123,8 @@ A number of Australian trips into China were reported at the level of usd 17,000
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | Clipper Sirius | 54.048 | 2008 | Hyundai, Korea | 06/2023 | MAN-B&W | 73.537 | $ 50m | Undisclosed | BWTS fitted |
-| LPG | Scali Reali | 3.804 | 2010 | Besiktas, Turkey | 08/2025 | Wartsila | 3.295 | $ 39m | Undisclosed |  |
-| LPG | Scali Sanlorenzo | 3.801 | 2010 | Naval, Ukraine | 05/2025 | Wartsila | 3.294 | enbloc | Undisclosed |  |
+| LPG | Scali Reali | 3.804 | 2010 | Besiktas, Turkey | 08/2025 | Wartsila | 3.295 | $ 39m enbloc | Undisclosed |  |
+| LPG | Scali Sanlorenzo | 3.801 | 2010 | Naval, Ukraine | 05/2025 | Wartsila | 3.294 | $ 39m enbloc | Undisclosed |  |
 
 ## Page 5
 

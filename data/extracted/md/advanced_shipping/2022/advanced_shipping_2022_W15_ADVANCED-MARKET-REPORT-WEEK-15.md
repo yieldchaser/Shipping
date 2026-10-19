@@ -83,6 +83,9 @@ A number of Continental trips into Mediterranean were reported at the level of u
 | Capesize | Aquaproud | 178.055 | 2009 | SWS, China | 06/2024 | MAN- B&W | - | $ 26,5m | Greek (Alpha Bulkers) |  |
 | Panamax | Doric Arrow | 75.121 | 2001 | Hitachi, Japan | 02/2026 | B&W | - | Region $ 13m | Undisclosed | BWTS fitted |
 | Ultramax | Ultra Initiator | 62.647 | 2019 | Oshima, Japan | 06/2024 | MAN- B&W | 4x30T | Region $ 37m | Undisclosed | BWTS fitted |
+| Supramax | Jia Sheng Shan | 56.632 | 2011 | China Shipping Ind, China | 06/2026 | MAN- B&W | 4x30T | $ 18m | Undisclosed | BWTS fitted |
+| Supramax | Jia Mao Shan | 56.623 | 2011 | China Shipping Ind, China | 11/2026 | MAN- B&W | 4x30T | $ 18m | Undisclosed | BWTS fitted |
+| Supramax | Jia Long Shan | 56.602 | 2011 | China Shipping Ind, China | 05/2026 | MAN- B&W | 4x30T | $ 18m | Undisclosed | BWTS fitted |
 | Supramax | New Able | 55.889 | 2014 | Oshima, Japan | 05/2024 | MAN- B&W | 4x30T | $ 26,5m | Japanese | OHBS, BWTS fitted |
 | Supramax | Union Victory | 53.716 | 2010 | Chengxi, China | 07/2025 | MAN- B&W | 4x36T | $ 17,5m | Indian | BWTS fitted |
 | Supramax | Doric Spirit | 52.428 | 2001 | Tsuneishi, Japan | 10/2026 | B&W | 4x30T | Low $ 13m | Undisclosed | BWTS fitted |
@@ -90,6 +93,7 @@ A number of Continental trips into Mediterranean were reported at the level of u
 | Handysize | Nile Confidante | 37.405 | 2012 | Shandong, China | 05/2024 | Wartsila | 4x30T | High $ 12m | Asian |  |
 | Handysize | Seastar Empress | 35.000 | 2011 | Nantong, China | 11/2026 | MAN- B&W | 4x30T | Mid $ 16m | Norwegian (Vega Bulk) | BWTS fitted |
 | Handysize | Promise 3 | 32.312 | 2010 | Samho, Korea | 10/2025 | MAN- B&W | 4x30T | $ 17,2m | Undisclosed |  |
+| Handysize | African Hawk | 27.101 | 2004 | New Century, China | 05/2024 | MAN- B&W | 4x30T | Mid-High $ 9m | Undisclosed | DD 06/2022 |
 | Small | Stellar Toledo | 16.765 | 2003 | Shin Kochi, Japan | 07/2023 | Mitsubishi | 2x30T | $ 6,5m | Turkish |  |
 
 ## Page 4
@@ -99,14 +103,14 @@ A number of Continental trips into Mediterranean were reported at the level of u
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Suezmax | SKS Skeena | 158.933 | 2006 | Hyundai Samho, Korea | 08/2026 | MAN- B&W | $ 23,5m | Greek | BWTS fitted |
-| Aframax | New York Star | 115.000 | 2022 | Daehan, Korea |  | MAN- B&W | $ 61m | Lebanese | BWTS fitted |
-| Aframax | Philadelphia Star | 114.800 | 2022 | Daehan, Korea | 03/2027 | MAN- B&W | $ 61m | (GNMTC) | BWTS fitted |
+| Aframax | New York Star | 115.000 | 2022 | Daehan, Korea |  | MAN- B&W | $ 61m | Lebanese (GNMTC) | BWTS fitted |
+| Aframax | Philadelphia Star | 114.800 | 2022 | Daehan, Korea | 03/2027 | MAN- B&W | $ 61m | Lebanese (GNMTC) | BWTS fitted |
 | Aframax | STI Nautilus | 109.999 | 2016 | Guangzhou, China | 05/2026 | MAN- B&W | Region $ 45m | Danish (TORM) |  |
 | Aframax | Silver | 107.507 | 2010 | Tsuneishi, Japan | 07/2025 | MAN- B&W | $ 24,25m | Undisclosed | BWTS fitted |
 | MR | Maersk Tangier | 49.835 | 2016 | Sungdong, Korea | 02/2026 | MAN- B&W | $ 31m | Undisclosed |  |
-| MR | Ardmore Sealifter | 47.472 | 2008 | Onomichi, Japan | 07/2023 | MAN- B&W |  | G |  |
+| MR | Ardmore Sealifter | 47.472 | 2008 | Onomichi, Japan | 07/2023 | MAN- B&W |  | German (Leonhardt & Blumberg) |  |
 | MR | Ardmore Sealeader | 47.463 | 2008 | Onomichi, Japan | 08/2023 | MAN- B&W | $ 40m enbloc | German (Leonhardt & Blumberg) | 2years T/C back to sellers |
-| MR | Ardmore Sealancer | 47.451 | 2008 | Onomichi, Japan | 06/2023 | MAN- B&W |  | u be g) |  |
+| MR | Ardmore Sealancer | 47.451 | 2008 | Onomichi, Japan | 06/2023 | MAN- B&W |  | German (Leonhardt & Blumberg) |  |
 | MR | Pro Emerald | 46.101 | 2003 | Shin Kurushima, Japan | 01/2023 | MAN- B&W | High $ 6m | Far Eastern |  |
 | MR | Sunlight Express | 45.931 | 2011 | Shin Kurushima, Japan | 09/2025 | MAN- B&W | Region $ 17m | Undisclosed |  |
 | Chemical/Oil Products | Vale | 19.998 | 2008 | Sekwang, Korea | 11/2023 | MAN- B&W | $ 9m | Undisclosed |  |

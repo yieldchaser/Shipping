@@ -90,6 +90,7 @@ A number of East Coast South American trips into West Africa were reported at th
 | Handysize | Aprilia | 36.193 | 2017 | Jiangdong, China | 01/2027 | MAN-B&W | 4x30T | $ 20,2m | Greek | BWTS fitted |
 | Handysize | Ria | 34.039 | 2012 | Dae Sun, Korea | 03/2027 | MAN-B&W | 4x30T | $ 14,2m | Greek | BWTS fitted |
 | Handysize | African Ibis | 32.347 | 2004 | Kanda, Japan | 07/2024 | Mitsubishi | 4x30,5T | $ 8,6m | Undisclosed | OHBS, BWTS fitted |
+| Handysize | Lake Dany | 28.358 | 2008 | Shimanami, Japan | 06/2025 | MAN-B&W | 4x30,5T | $ 9m | Greek | BWTS fitted, prompt delivery China |
 
 ### Tankers
 
@@ -97,6 +98,8 @@ A number of East Coast South American trips into West Africa were reported at th
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | C. Emperor | 314.000 | 2004 | Samsung, Korea | 03/2024 | B&W | $ 34,5m | UAE based | Scrubber fitted |
 | VLCC | C. Vision | 314.000 | 2004 | Samsung, Korea | 06/2024 | B&W | $ 34,5m | UAE based | Scrubber fitted |
+| VLCC | C. Spirit | 313.998 | 2013 | Hyundai, Korea | 04/2028 | Wartsila | $ 67m | Greek (New Shipping) | BWTS fitted, Scrubber fitted, Incl. T/C attached at 36.625 usd/pd less 2,5% until Oct'24-Feb'25 |
+| VLCC | C. Challenger | 313.918 | 2013 | Dalian, China | 02/2028 | MAN-B&W | $ 65m | Greek (New Shipping) | BWTS fitted, Scrubber fitted, Incl. T/C attached at 31.000 usd/pd less 1,25% until May'24-Aug'24 |
 
 ## Page 4
 
@@ -106,6 +109,7 @@ A number of East Coast South American trips into West Africa were reported at th
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR | Chemtrans Leo | 37.662 | 2006 | Hyundai Mipo, Korea | 08/2026 | MAN-B&W | $ 54m enbloc | UAE based | Ice Class 1A |
 | MR | Chemtrans Mercury | 37.623 | 2006 | Hyundai Mipo, Korea | 03/2026 | Wartsila | $ 54m enbloc | UAE based | Ice Class 1A |
+| MR | Chemtrans Uranus | 36.713 | 2006 | Hyundai Mipo, Korea | 04/2026 | MAN-B&W | $ 54m enbloc | UAE based | Delivered, BWTS fitted, Ice Class 1A |
 | MR | Romoe Maersk | 34.806 | 2003 | Guangzhou, China | 02/2024 | B&W | $ 10m | Undisclosed |  |
 | MR | Robert Maersk | 34.801 | 2003 | Guangzhou, China | 01/2024 | B&W | $ 10m | Undisclosed |  |
 | MR | Dictador | 34.747 | 2019 | Fujian Mawei, China | 11/2024 | WinGD | $ 29,2m | Undisclosed | BWTS fitted |
@@ -126,6 +130,7 @@ A number of East Coast South American trips into West Africa were reported at th
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | BW Princess | 54.368 | 2008 | Hyundai, Korea | 02/2028 | MAN-B&W | 80.735 | $ 65m | Undisclosed | BWTS fitted |
+| LPG | Seaspeed | 28.460 | 2017 | Hyundai Mipo, Korea | 06/2027 | MAN-B&W | 37.390 | $ 55,7m | Turkish (Manta Shipping) |  |
 
 ## Page 5
 

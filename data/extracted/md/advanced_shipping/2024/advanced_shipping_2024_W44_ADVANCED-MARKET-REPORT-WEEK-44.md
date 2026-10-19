@@ -80,6 +80,7 @@ Arabian Gulf trips into East Coast India were reported at the level of usd 12,00
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Hero | 178.076 | 2010 | SWS, China | 06/2025 | MAN-B&W | - | Region $ 26m | Undisclosed | BWTS fitted |
+| Ultramax | Greenwich Pioneer | 63.674 | 2020 | Nantong, China | 08/2025 | MAN-B&W | 4x35T | Excess $ 32m | Chinese | BWTS fitted, T/C attached till Mar'25 |
 | Supramax | Global Genesis | 57.696 | 2010 | Stx Dalian, China | 09/2025 | MAN-B&W | 4x30T | High $ 12m | Undisclosed | BWTS fitted |
 | Supramax | Global Brave | 57.317 | 2010 | Stx Dalian, China | 05/2025 | MAN-B&W | 4x30T | High $ 12m | Undisclosed | BWTS fitted |
 | Supramax | Global Frontier | 57.298 | 2010 | Stx Dalian, China | 08/2025 | MAN-B&W | 4x30T | High $ 12m | Undisclosed | BWTS fitted |

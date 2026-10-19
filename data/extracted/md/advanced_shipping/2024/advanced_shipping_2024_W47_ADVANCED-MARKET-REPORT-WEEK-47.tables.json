@@ -409,13 +409,13 @@
       "YARD": "Spp, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "4x35T",
-      "PRICE": "$ 23m",
+      "PRICE": "$ 23m enbloc",
       "PRICE_USD_MILL": 23.0,
       "BUYERS": "Greek",
       "SS": "09/2029",
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2024_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf",
-      "extra_json": "{\"issue_date\": \"2024-11-22\", \"report_week\": \"47\", \"source_file\": \"advanced_shipping_2024_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf\", \"raw_price\": \"$ 23m\"}"
+      "extra_json": "{\"issue_date\": \"2024-11-22\", \"report_week\": \"47\", \"source_file\": \"advanced_shipping_2024_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf\", \"raw_price\": \"$ 23m enbloc\"}"
     },
     {
       "issue": "2024-11-22",
@@ -431,13 +431,13 @@
       "YARD": "Spp, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "4x35T",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 23m enbloc",
+      "PRICE_USD_MILL": 23.0,
       "BUYERS": "Greek",
       "SS": "06/2025",
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2024_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf",
-      "extra_json": "{\"issue_date\": \"2024-11-22\", \"report_week\": \"47\", \"source_file\": \"advanced_shipping_2024_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2024-11-22\", \"report_week\": \"47\", \"source_file\": \"advanced_shipping_2024_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf\", \"raw_price\": \"$ 23m enbloc\"}"
     },
     {
       "issue": "2024-11-22",
@@ -482,6 +482,28 @@
       "COMMENTS": "Delivered, BWTS fitted",
       "source_file": "advanced_shipping_2024_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf",
       "extra_json": "{\"issue_date\": \"2024-11-22\", \"report_week\": \"47\", \"source_file\": \"advanced_shipping_2024_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf\", \"raw_price\": \"$ 17,5m\"}"
+    },
+    {
+      "issue": "2024-11-22",
+      "report_week": "47",
+      "section": "Tankers",
+      "page": "4",
+      "NAME": "Sunflyte",
+      "TYPE": "MR",
+      "DWT": "37,272",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "2001",
+      "YARD": "Hyundai Mipo, Korea",
+      "M_E": "B&W",
+      "GEAR": "",
+      "PRICE": "$ 11,5m",
+      "PRICE_USD_MILL": 11.5,
+      "BUYERS": "Undisclosed",
+      "SS": "12/2026",
+      "COMMENTS": "Old sale, BWTS fitted, Ice Class 1B",
+      "source_file": "advanced_shipping_2024_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf",
+      "extra_json": "{\"issue_date\": \"2024-11-22\", \"report_week\": \"47\", \"source_file\": \"advanced_shipping_2024_W47_ADVANCED-MARKET-REPORT-WEEK-47.pdf\", \"raw_price\": \"$ 11,5m\"}"
     },
     {
       "issue": "2024-11-22",

@@ -79,6 +79,7 @@ Trips from Caribbean into Continent were reported at the level of usd 7,000/9,00
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Newcastlemax | HL Saijo | 206.291 | 2010 | Imabari, Japan | 06/2025 | MAN-B&W | - | $ 37,95m | HK based (Winking Shipping) | 3years BBHP |
 | Capesize | Arabella | 177.005 | 2005 | Namura & Sasebo, Japan | 02/2028 | MAN-B&W | - | $ 18m | Undisclosed | Scrubber fitted |
 | Mini Cape | Jubilant Devotion | 117.549 | 2016 | Sanoyas, Japan | 05/2026 | MAN-B&W | - | $ 26,5m | Greek | Scrubber fitted |
 | Post Panamax | Clemens Oldendorff | 92.759 | 2012 | Cosco, China | 01/2027 | MAN-B&W | - | $ 13,3m | Undisclosed | DD 05/2025 |

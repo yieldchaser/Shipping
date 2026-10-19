@@ -79,17 +79,21 @@ A generally quiet week for this segment. West African trips via South America in
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Newcastlemax | Shanghai Waigaoqiao H1525 | 210.000 | 2021 | SWS, China |  | MAN- B&W | - | $ 51m | Greek (Alpha Bulkers) |  |
+| Newcastlemax | Shanghai Waigaoqiao H1526 | 210.000 | 2021 | SWS, China |  | MAN- B&W | - | $ 51m | Greek (Alpha Bulkers) |  |
 | Capesize | Mangas | 173.918 | 2011 | Boihai, China | 03/2026 | Wartsila | - | $ 24m | Undisclosed | BWTS fitted |
 | Capesize | Leadership | 171.199 | 2001 | Koyo, Japan | 10/2021 | B&W | - | $ 12,5m | Undisclosed |  |
 | Post Panamax | Double Providence | 95.720 | 2012 | Imabari, Japan | 01/2022 | MAN- B&W | - | $ 21,3m | Greek |  |
 | Kamsarmax | Sea Express | 79.252 | 2012 | Cosco Dalian, China | 07/2022 | MAN- B&W | - | High $ 18m | Greek |  |
 | Panamax | Qc Matilde | 76.015 | 2002 | Tsuneishi, Japan | 04/2025 | B&W | - | High $ 10m | Undisclosed |  |
 | Panamax | Aquaman | 75.243 | 2001 | Samho, Korea | 08/2025 | B&W | - | $ 11m | Far Eastern | BWTS fitted |
-| Ultramax | Navigare Beatus | 63.310 | 2017 | Chengxi, China | 01/2022 | MAN- B&W | 4x30T | High $ 71m enbloc | US based | BWTS fitted |
+| Ultramax | Navigare Beatus | 63.310 | 2017 | Chengxi, China | 01/2022 | MAN- B&W | 4x30T | High $ 71m enbloc | US based (Genco Shipping) | BWTS fitted |
 | Ultramax | Navigare Bellus | 63.310 | 2017 | Chengxi, China | 01/2022 | MAN- B&W | 4x30T | High $ 71m enbloc | US based (Genco Shipping) | BWTS fitted |
-| Ultramax | Navigare Bonitas | 63.166 | 2014 | Zhejiang, China | 10/2024 | MAN- B&W | 4x36T | High $ 71m enbloc | Shipping) | BWTS fitted |
+| Ultramax | Navigare Bonitas | 63.166 | 2014 | Zhejiang, China | 10/2024 | MAN- B&W | 4x36T | High $ 71m enbloc | US based (Genco Shipping) | BWTS fitted |
 | Supramax | Bulk Costa Rica | 58.758 | 2012 | NACKS, China | 06/2022 | MAN- B&W | 4x30,5T | $ 18,6m | Greek | BWTS fitted |
 | Supramax | Bulk Patagonia | 58.723 | 2012 | Kawasaki, Japan | 02/2023 | MAN- B&W | 4x30,5T | $ 60m enbloc | Greek |  |
+| Supramax | Bulk Curacao | 57.937 | 2011 | Tsuneishi Cebu, Philippines | 05/2026 | MAN- B&W | 4x30T | $ 60m enbloc | Greek |  |
+| Supramax | Bulk Ecuador | 57.937 | 2011 | Tsuneishi Cebu, Philippines | 09/2021 | MAN- B&W | 4x30T | $ 60m enbloc | Greek |  |
 | Supramax | Viet Thuan 56-01 | 57.334 | 2009 | Stx, Korea | 09/2024 | MAN- B&W | 4x30T | Low -Mid $ 14m | Undisclosed |  |
 | Supramax | Lara | 56.557 | 2008 | IHI, Japan | 06/2023 | Wartsila | 4x35T | $ 15,3m | Undisclosed | BWTS fitted |
 | Supramax | Belfri | 55.866 | 2007 | Kawasaki, Japan | 06/2022 | MAN- B&W | 4x30,5T | $ 15,4m | Undisclosed |  |
@@ -113,10 +117,10 @@ A generally quiet week for this segment. West African trips via South America in
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | Mexico | 4.992 | 2002 | Hyundai, Korea | 02/2022 | B&W | - | $ 50,5m | Swiss (MSC) |  |
-| Panamax | Rhl Conscientia | 4.664 | 2012 | Shanghai, China | 02/2022 | MAN-B&W | - | Undisclosed | German |  |
-| Panamax | Rhl Concordia | 4.620 | 2012 | Shanghai, China | 05/2022 | MAN-B&W | - | Undisclosed | (Hapag-Lloyd) |  |
+| Panamax | Rhl Conscientia | 4.664 | 2012 | Shanghai, China | 02/2022 | MAN-B&W | - | Undisclosed | German (Hapag-Lloyd) |  |
+| Panamax | Rhl Concordia | 4.620 | 2012 | Shanghai, China | 05/2022 | MAN-B&W | - | Undisclosed | German (Hapag-Lloyd) |  |
 | Panamax | Zarnata Express | 4.250 | 2007 | Dalian, China | 08/2022 | MAN-B&W | - | Undisclosed | UK based (Mount Street) |  |
-| Panamax | Balthasar Schulte | 4.249 | 2012 | Jiangsu, China | 03/2022 | MAN-B&W | - | Undisclosed | Danish (A.P. Moller) |  |
+| Panamax | Balthasar Schulte | 4.249 | 2012 | Jiangsu, China | 03/2022 | MAN-B&W |  | Undisclosed | Danish (A.P. Moller) |  |
 | Sub Panamax | Harmony N | 2.824 | 2006 | Hyundai Mipo, Korea | 02/2022 | MAN-B&W | - | $ 29,1m | Undisclosed | BWTS fitted |
 | Sub Panamax | Nasia | 2.824 | 2005 | Hyundai Mipo, Korea | 11/2021 | B&W | - | Undisclosed | Swiss (MSC) |  |
 | Sub Panamax | Seoul Trader | 2.664 | 2009 | Stx, Korea | 01/2025 | MAN-B&W | 4x45T | Undisclosed | Swiss (MSC) |  |

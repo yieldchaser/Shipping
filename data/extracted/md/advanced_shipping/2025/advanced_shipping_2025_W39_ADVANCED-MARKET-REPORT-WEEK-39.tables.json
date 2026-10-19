@@ -365,13 +365,13 @@
       "YARD": "Shin Kasado, Japan",
       "M_E": "MAN-B&W",
       "GEAR": "4x30,7T",
-      "PRICE": "rgn $ 50m",
+      "PRICE": "rgn $ 50m enbloc",
       "PRICE_USD_MILL": 50.0,
       "BUYERS": "Korean (HMM)",
       "SS": "09/2025",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf",
-      "extra_json": "{\"issue_date\": \"2025-09-26\", \"report_week\": \"39\", \"source_file\": \"advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf\", \"raw_price\": \"rgn $ 50m\"}"
+      "extra_json": "{\"issue_date\": \"2025-09-26\", \"report_week\": \"39\", \"source_file\": \"advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf\", \"raw_price\": \"rgn $ 50m enbloc\"}"
     },
     {
       "issue": "2025-09-26",
@@ -387,13 +387,13 @@
       "YARD": "Shin Kasado, Japan",
       "M_E": "MAN-B&W",
       "GEAR": "4x30,7T",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "rgn $ 50m enbloc",
+      "PRICE_USD_MILL": 50.0,
       "BUYERS": "Korean (HMM)",
       "SS": "08/2026",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf",
-      "extra_json": "{\"issue_date\": \"2025-09-26\", \"report_week\": \"39\", \"source_file\": \"advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2025-09-26\", \"report_week\": \"39\", \"source_file\": \"advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf\", \"raw_price\": \"rgn $ 50m enbloc\"}"
     },
     {
       "issue": "2025-09-26",
@@ -607,13 +607,13 @@
       "YARD": "Shanghai, China",
       "M_E": "MAN-B&W",
       "GEAR": "4x30T",
-      "PRICE": "$ 13,25m",
+      "PRICE": "$ 13,25m enbloc",
       "PRICE_USD_MILL": 13.25,
-      "BUYERS": "Danish (Navision",
+      "BUYERS": "Danish (Navision Shipping)",
       "SS": "08/2027",
       "COMMENTS": "DD 10/2025",
       "source_file": "advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf",
-      "extra_json": "{\"issue_date\": \"2025-09-26\", \"report_week\": \"39\", \"source_file\": \"advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf\", \"raw_price\": \"$ 13,25m\"}"
+      "extra_json": "{\"issue_date\": \"2025-09-26\", \"report_week\": \"39\", \"source_file\": \"advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf\", \"raw_price\": \"$ 13,25m enbloc\"}"
     },
     {
       "issue": "2025-09-26",
@@ -629,13 +629,13 @@
       "YARD": "Shanghai, China",
       "M_E": "MAN-B&W",
       "GEAR": "4x30T",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
-      "BUYERS": "(Navision Shipping)",
+      "PRICE": "$ 13,25m enbloc",
+      "PRICE_USD_MILL": 13.25,
+      "BUYERS": "Danish (Navision Shipping)",
       "SS": "04/2027",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf",
-      "extra_json": "{\"issue_date\": \"2025-09-26\", \"report_week\": \"39\", \"source_file\": \"advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2025-09-26\", \"report_week\": \"39\", \"source_file\": \"advanced_shipping_2025_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf\", \"raw_price\": \"$ 13,25m enbloc\"}"
     },
     {
       "issue": "2025-09-26",

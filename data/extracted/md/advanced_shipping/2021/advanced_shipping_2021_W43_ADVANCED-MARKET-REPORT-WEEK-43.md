@@ -83,6 +83,7 @@ CIS Pacific rounds ranged at the usd 25,000/27,000 pd. A number of Australian tr
 | Kamsarmax | Ramanas Rose | 84.500 | 2021 | Oshima, Japan |  |  | - | $ 44m | Greek | Resale, Dely Nov'21 |
 | Kamsarmax | Key Discovery | 82.152 | 2010 | Tsuneishi, Japan | 11/2025 | MAN- B&W | - | $ 24,5m | Undisclosed | Rumored, BWTS fitted |
 | Panamax | MP Panamax 4 | 69.925 | 1995 | Sanoyas, Japan | 11/2023 | Sulzer | 4x30T | $ 6m | Undisclosed | Geared, delivery "As Is" |
+| Panamax | Bei Lun Hai 9 | 69.703 | 1989 | Imabari, Japan | 01/2022 | Sulzer | - | Region $ 4,7m | Chinese (Zhejiang Yihe) | Auction sale |
 | Ultramax | Daniela Oetker | 61.288 | 2015 | Shin Kasado, Japan | 03/2025 | MAN- B&W | 4x30,7T | $ 29,8m | Bangladeshi (Meghna) | BWTS fitted |
 | Supramax | Pacific 08 | 52.471 | 2004 | Tsuneishi, Japan | 09/2024 | B&W | 4x30T | Low-Mid $ 15m | Chinese | Dely Dec'21 |
 | Supramax | Lucky Sea | 52.246 | 2005 | Yangzhou, China | 01/2025 | MAN- B&W | 4x30T | $ 14,15m | Egyptian |  |
@@ -101,13 +102,14 @@ CIS Pacific rounds ranged at the usd 25,000/27,000 pd. A number of Australian tr
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | Seaways Diamond Head | 301.038 | 2016 | SWS, China | 10/2026 | MAN- B&W | $ 66,1m | Norwegian (Ocean Yield) | 10years BBB with p.obligation |
 | VLCC | Seaways Hendricks | 301.014 | 2016 | SWS, China | 05/2026 | MAN- B&W | $ 63,8m | Norwegian (Ocean Yield) | 10years BBB with p.obligation |
-| VLCC | Seaways Liberty | 300.973 | 2016 | SWS, China | 08/2026 | MAN- B&W | $ 63,7m | Norwegian | 10years BBB with |
-| VLCC | Seaways Tybee | 300.960 | 2015 | SWS, China | 10/2025 | MAN- B&W | $ 61,2m | (Ocean Yield) | with p.obligation |
+| VLCC | Seaways Liberty | 300.973 | 2016 | SWS, China | 08/2026 | MAN- B&W | $ 63,7m | Norwegian (Ocean Yield) | 10years BBB with p.obligation |
+| VLCC | Seaways Tybee | 300.960 | 2015 | SWS, China | 10/2025 | MAN- B&W | $ 61,2m | Norwegian (Ocean Yield) | 10years BBB with p.obligation |
 | VLCC | Seaways Cape Henry | 300.932 | 2016 | SWS, China | 03/2026 | MAN- B&W | $ 63,1m | Norwegian (Ocean Yield) | 10years BBB with p.obligation |
 | VLCC | Seaways Triton | 300.932 | 2016 | SWS, China | 01/2026 | MAN- B&W | $ 62,1m | Norwegian (Ocean Yield) | 10years BBB with p.obligation |
-| Aframax | Advantage Arrow | 115.804 | 2009 | Samsung, Korea | 11/2024 | MAN- B&W | $ 52m | Norwegian | BWTS fitted, Scrubber fitted, |
-| Aframax | Advantage Avenue | 115.785 | 2010 | Samsung, Korea | 06/2025 | MAN- B&W | enbloc | Norwegian | T/C attached till 2023 |
+| Aframax | Advantage Arrow | 115.804 | 2009 | Samsung, Korea | 11/2024 | MAN- B&W | $ 52m enbloc | Norwegian | BWTS fitted, Scrubber fitted, T/C attached till 2023 |
+| Aframax | Advantage Avenue | 115.785 | 2010 | Samsung, Korea | 06/2025 | MAN- B&W | $ 52m enbloc | Norwegian | BWTS fitted, Scrubber fitted, T/C attached till 2023 |
 | Aframax | Americas Spirit | 111.920 | 2003 | Hyundai, Korea | 05/2023 | MAN- B&W | $ 12,5m | Chinese | Old sale |
 | MR | Aiolos | 37.651 | 2007 | Hyundai Mipo, Korea | 03/2022 | MAN- B&W | $ 8m | Undisclosed | Ice class 1A, DPP |
 | Chemical/Oil Products | Celsius Macau | 20.768 | 2006 | Shin Kurushima, Japan | 12/2021 | Mitsubishi | Undisclosed | Chinese | St St |
@@ -128,6 +130,8 @@ CIS Pacific rounds ranged at the usd 25,000/27,000 pd. A number of Australian tr
 | Feeder | San Alvaro | 1.819 | 2007 | Hyundai Mipo, Korea | 12/2022 | MAN-B&W | 3x45T | Undisclosed | Danish |  |
 | Feeder | AS Faustina | 1.284 | 2007 | Zhejiang, China | 09/2022 | MAN | 2x45T | $ 23m | Undisclosed |  |
 | Feeder | AS Federica | 1.284 | 2007 | Zhejiang, China | 05/2022 | MAN | 2x45T | $ 23m | Undisclosed |  |
+| Feeder | Grete Sibum | 1.036 | 2008 | SSW Schichau, Germany | 03/2023 | MaK | - | $ 20,1m | Undisclosed |  |
+| Feeder | Stefan Sibum | 1.036 | 2008 | SSW Schichau, Germany | 12/2023 | MaK | - | $ 21,5m | Undisclosed |  |
 
 ## Page 6
 

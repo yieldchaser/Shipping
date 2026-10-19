@@ -80,12 +80,13 @@ A generally quiet week for this segment. A number of trips from Baltic into East
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Newcastlemax | China Steel Realist | 203.512 | 2007 | CSBC, Taiwan | 04/2022 | MAN- B&W | - | $ 21,5m | Chinese |  |
+| Capesize | Namura 503 | 181.500 | 2022 | Namura & Sasebo, Japan |  | MAN- B&W | - | $ 59m | Hong Kong (Ocean Longevity) |  |
 | Kamsarmax | SM Aurora | 81.970 | 2012 | Jiangsu, China | 08/2022 | MAN- B&W | - | $ 21m | Chinese | Dely Q1 2022 |
 | Ultramax | Drogba | 63.488 | 2015 | Chengxi, China | 10/2025 | MAN- B&W | 4x30T | $ 25m | Undisclosed |  |
 | Ultramax | Nord Colorado | 60.365 | 2018 | Oshima, Japan | 01/2023 | MAN- B&W | 4x30T | Region $ 32m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Supramax | Cherry Dream | 51.703 | 2011 | Oshima, Japan | 02/2026 | Mitsubishi | 4x30T | $ 17,8m | Undisclosed | OHBS, BWTS fitted |
-| Handysize | Dry Beam Neo | 38.180 | 2019 | Shin Kochi, Japan | 12/2024 | MAN- B&W | 4x30T | Excess $ 30m | Undisclosed | BWTS fitted, |
-| Handysize | Fragrant Athena | 38.131 | 2020 | Shin Kochi, Japan | 04/2025 | MAN- B&W | 4x30T | Excess $ 30m | Undisclosed | Incl. T/C |
+| Handysize | Dry Beam Neo | 38.180 | 2019 | Shin Kochi, Japan | 12/2024 | MAN- B&W | 4x30T | Excess $ 30m | Undisclosed | BWTS fitted, Incl. T/C |
+| Handysize | Fragrant Athena | 38.131 | 2020 | Shin Kochi, Japan | 04/2025 | MAN- B&W | 4x30T | Excess $ 30m | Undisclosed | BWTS fitted, Incl. T/C |
 | Handysize | Charmey | 35.697 | 2011 | Shinan, Korea | 12/2021 | MAN- B&W | 4x30T | High $ 15m | Middle Eastern | BWTS fitted |
 | Handysize | Lopi | 28.346 | 2010 | I-S, Japan | 05/2025 | MAN- B&W | 4x30,5T | $ 15,3m | Undisclosed | Old sale, BWTS fitted |
 | Handysize | Atlantic Veracruz | 28.339 | 2009 | Shimanami, Japan | 07/2022 | MAN- B&W | 4x30,5T | $ 12,7m | Undisclosed | Dely Jan'22 |
@@ -96,6 +97,7 @@ A generally quiet week for this segment. A number of trips from Baltic into East
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Suezmax | Astro Perseus | 159.116 | 2004 | Hyundai, Korea | 01/2024 | MAN- B&W | $ 18,5m | Middle Eastern | DD 12/2021 |
 | Suezmax | Astra | 149.995 | 2002 | Sasebo, Japan | 02/2022 | B&W | Undisclosed | Greek |  |
+| Aframax | Antonis | 113.563 | 2017 | Daehan, Korea | 06/2022 | MAN- B&W | $ 45m | Turkish (Advantage Tankers) | BWTS fitted, Ice Class 1C |
 | MR | Pyxis Lamda | 50.145 | 2017 | Spp, Korea | 01/2022 | MAN- B&W | $ 32m | Greek (Pyxis Tankers) | Internal deal |
 
 ## Page 4
@@ -108,8 +110,9 @@ A generally quiet week for this segment. A number of trips from Baltic into East
 | Panamax | Los Angeles Trader | 5.527 | 2007 | CSBC, Taiwan | 09/2022 | Wartsila | - | Undisclosed | Swiss (MSC) |  |
 | Panamax | X-Press Guernsey | 5.001 | 2015 | Samjin, China | 01/2025 | MAN-B&W | - | Region $ 105m | Swiss (MSC) |  |
 | Panamax | X-Press Jersey | 4.896 | 2014 | Zhejiang, China | 01/2024 | MAN-B&W | - | Region $ 105m | Swiss (MSC) |  |
-| Sub Panamax | As Palatia | 2.572 | 2006 | Stx, Korea | 04/2025 | MAN-B&W | 4x45T | $ 71,6m | Undisclosed |  |
-| Sub Panamax | As Petulia | 2.564 | 2008 | Xiamen, China | 05/2025 | Wartsila | 3x45T | enbloc | Undisclosed |  |
+| Sub Panamax | As Palatia | 2.572 | 2006 | Stx, Korea | 04/2025 | MAN-B&W | 4x45T | $ 71,6m enbloc | Undisclosed |  |
+| Sub Panamax | As Petulia | 2.564 | 2008 | Xiamen, China | 05/2025 | Wartsila | 3x45T | $ 71,6m enbloc | Undisclosed |  |
+| Feeder | Box Express | 1.700 | 2016 | Guangzhou, China | 02/2026 | Wartsila | - | $ 40,8m | Taiwanese (Wan Hai Lines) |  |
 
 ## Page 5
 

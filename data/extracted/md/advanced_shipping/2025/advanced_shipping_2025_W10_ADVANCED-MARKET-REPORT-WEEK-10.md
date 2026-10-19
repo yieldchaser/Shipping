@@ -104,8 +104,8 @@ South East Asian trips into Japan were reported at the level of usd 10,000/11,00
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Aframax | Capricorn Sun | 115.577 | 2007 | Sasebo, Japan | 08/2025 | MAN-B&W | $ 61m enbloc | Singapore based |  |
-| Aframax | Red Sun | 115.325 | 2008 | Sasebo, Japan | 12/2028 | MAN-B&W | $ 61m enbloc | (WYW Marine) |  |
+| Aframax | Capricorn Sun | 115.577 | 2007 | Sasebo, Japan | 08/2025 | MAN-B&W | $ 61m enbloc | Singapore based (WYW Marine) |  |
+| Aframax | Red Sun | 115.325 | 2008 | Sasebo, Japan | 12/2028 | MAN-B&W | $ 61m enbloc | Singapore based (WYW Marine) |  |
 | LR2 | Raffles Harmony | 105.405 | 2013 | Hyundai, Korea | 01/2028 | MAN-B&W | $ 41,9m | Chinese |  |
 | LR1 | Chemtrans Polaris | 72.291 | 2005 | Hudong-Zhonghua, China | 02/2025 | B&W | $ 12m | Chinese |  |
 | MR | NH Erle | 49.999 | 2010 | Hyundai Mipo, Korea | 09/2025 | MAN-B&W | Mid $ 22m | Undisclosed |  |
@@ -118,8 +118,8 @@ South East Asian trips into Japan were reported at the level of usd 10,000/11,00
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | Helane | 5.366 | 2009 | Shitanoe, Japan | 08/2029 | MAN-B&W | 4.918 | High $ 10m | Korean (Myungshin |  |
-| LPG | Debbie | 3.828 | 2009 | Shitanoe, Japan | 05/2029 | Akasaka | 3.447 | Mid $ 8m | (Myungshin Shipping) | Delivered |
+| LPG | Helane | 5.366 | 2009 | Shitanoe, Japan | 08/2029 | MAN-B&W | 4.918 | High $ 10m | Korean (Myungshin Shipping) |  |
+| LPG | Debbie | 3.828 | 2009 | Shitanoe, Japan | 05/2029 | Akasaka | 3.447 | Mid $ 8m | Korean (Myungshin Shipping) | Delivered |
 
 ## Page 5
 

@@ -80,6 +80,8 @@ Trips from China into Persian Gulf were fixed around usd 24,000 pd. A number of 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | HL Pride | 179.656 | 2016 | Dalian, China | 07/2026 | MAN- B&W | - | Low-Mid $ 45m | Undisclosed | BWTS fitted |
+| Capesize | Baltimore | 177.243 | 2005 | Namura & Sasebo, Japan | 03/2025 | MAN- B&W | - | $ 22m | Greek based (OceanPal) | 20% Cash & 80% Shares |
+| Ultramax | Navigare Boreas | 61.491 | 2016 | DACKS, China | 09/2026 | MAN- B&W | 4x30T | High $ 29m | Undisclosed | BWTS fitted, T/C attached until Aug- Oct'23 |
 | Supramax | Bao Progress | 56.729 | 2011 | Jiangdong, China | 01/2026 | MAN- B&W | 4x30T | $ 17,6m | Greek | BWTS fitted |
 | Supramax | Hayama Star | 52.900 | 2006 | Oshima, Japan | 07/2026 | MAN- B&W | 4x30T | Low-Mid $ 17m | Chinese | BWTS fitted |
 | Handysize | Anne Mette Bulker | 38.118 | 2012 | Naikai, Japan | 02/2027 | MAN- B&W | 4x30T | $ 23m | Turkish (Devel Shipping) | OHBS |
@@ -90,8 +92,8 @@ Trips from China into Persian Gulf were fixed around usd 24,000 pd. A number of 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Suezmax | Nordic Moon | 160.200 | 2002 | Samsung, Korea | 08/2022 | B&W | $ 16m | Undisclosed |  |
-| MR | Cygnus | 51.218 | 2007 | Stx, Korea | 08/2026 | MAN- B&W | $ 15m | German (Leonhardt & | BWTS fitted |
-| MR | Sextans | 51.218 | 2007 | Stx, Korea |  | MAN- B&W | $ 15m | (Leonhardt & Blumberg) | SS/DD passed, BWTS fitted |
+| MR | Cygnus | 51.218 | 2007 | Stx, Korea | 08/2026 | MAN- B&W | $ 15m | German (Leonhardt & Blumberg) | BWTS fitted |
+| MR | Sextans | 51.218 | 2007 | Stx, Korea |  | MAN- B&W | $ 15m | German (Leonhardt & Blumberg) | SS/DD passed, BWTS fitted |
 | MR | Hafnia Green | 40.003 | 2007 | Saiki, Japan | 08/2022 | Mitsubishi | $ 11,9m | Greek (Sea Hawk Maritime) |  |
 | Chemical/Oil Products | Chem Eagle | 25.421 | 2008 | Dae Sun, Korea | 07/2023 | MAN- B&W | $ 9m | Undisclosed |  |
 | Chemical/Oil Products | Chem Venus | 19.888 | 2004 | Usuki, Japan | 07/2023 | B&W | $ 9,9m | Undisclosed | BWTS fitted, St St |
@@ -102,15 +104,15 @@ Trips from China into Persian Gulf were fixed around usd 24,000 pd. A number of 
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | Agamemnon | 8.266 | 2007 | Daewoo, Korea | 09/2024 | Wartsila | - | $ 65,5m | Swiss based |  |
-| Post Panamax | Archimidis | 8.266 | 2006 | Daewoo, Korea | 05/2026 | Sulzer | - | $ 64,5m | (MSC) |  |
+| Post Panamax | Agamemnon | 8.266 | 2007 | Daewoo, Korea | 09/2024 | Wartsila | - | $ 65,5m | Swiss based (MSC) |  |
+| Post Panamax | Archimidis | 8.266 | 2006 | Daewoo, Korea | 05/2026 | Sulzer | - | $ 64,5m | Swiss based (MSC) |  |
 | Post Panamax | Seamax Greenwich | 8.238 | 2004 | Hyundai, Korea | 11/2024 | MAN-B&W | - |  |  |  |
 | Post Panamax | Seamax Fairfield | 8.208 | 2006 | Hyundai, Korea |  | MAN-B&W | - |  |  |  |
 | Post Panamax | Seamax New Haven | 8.084 | 2005 | Samsung, Korea | 09/2025 | Sulzer | - | $ 300m enbloc | Swiss based (MSC) |  |
 | Post Panamax | Seamax Bridgeport | 8.063 | 2003 | Samsung, Korea | 03/2023 | B&W | - |  |  |  |
 | Post Panamax | Seamax Darien | 8.063 | 2003 | Samsung, Korea | 04/2023 | B&W | - |  |  |  |
-| Post Panamax | Lyon II | 6.627 | 2001 | Hanjin, Korea | 06/2026 | B&W | - | Undisclosed | Swiss based |  |
-| Post Panamax | Paris II | 6.627 | 2001 | Hanjin, Korea | 04/2026 | B&W | - | Undisclosed | (MSC) |  |
+| Post Panamax | Lyon II | 6.627 | 2001 | Hanjin, Korea | 06/2026 | B&W | - | Undisclosed | Swiss based (MSC) |  |
+| Post Panamax | Paris II | 6.627 | 2001 | Hanjin, Korea | 04/2026 | B&W | - | Undisclosed | Swiss based (MSC) |  |
 | Panamax | OEL Kedarnath | 3.091 | 2003 | Szczecinska, Poland | 10/2026 | B&W | - | $ 45m | Swiss based (MSC) |  |
 
 ## Page 5

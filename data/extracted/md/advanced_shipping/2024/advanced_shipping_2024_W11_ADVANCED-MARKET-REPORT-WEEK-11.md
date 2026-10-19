@@ -82,8 +82,8 @@ Continental trips into US Gulf were fixed around usd 13,000/15,000 pd. Continent
 | Capesize | Penelope T | 180.201 | 2007 | Koyo, Japan | 04/2027 | MAN-B&W | - | $ 23,8m | Undisclosed | BWTS fitted |
 | Capesize | Epic | 180.149 | 2010 | Daehan, Korea | 12/2025 | MAN-B&W | - | $ 32,5m | Chinese | BWTS fitted, Scrubber fitted |
 | Capesize | Castillo De Catoira | 173.587 | 2005 | Bohai, China | 08/2025 | Sulzer | - | High $ 16m | Chinese | BWTS fitted |
-| Capesize | Genco Maximus | 169.021 | 2009 | Sungdong, Korea | 09/2024 | MAN-B&W | - | $ 47m | Greek (Golden | BWTS fitted, Scrubber fitted |
-| Capesize | Genco Claudius | 169.001 | 2010 | Sungdong, Korea | 01/2025 | MAN-B&W | - | enbloc | Union) | BWTS fitted, Scrubber fitted |
+| Capesize | Genco Maximus | 169.021 | 2009 | Sungdong, Korea | 09/2024 | MAN-B&W | - | $ 47m enbloc | Greek (Golden Union) | BWTS fitted, Scrubber fitted |
+| Capesize | Genco Claudius | 169.001 | 2010 | Sungdong, Korea | 01/2025 | MAN-B&W | - | $ 47m enbloc | Greek (Golden Union) | BWTS fitted, Scrubber fitted |
 | Panamax | Ying Hao 02 | 75.700 | 2012 | Guangzhou, China | 06/2027 | MAN-B&W | - | $ 16,8m | Undisclosed | BWTS fitted |
 | Panamax | Vitahorizon | 74.483 | 2007 | Hudong- Zhonghua, China | 03/2025 | MAN-B&W | - | $ 12,5m | Undisclosed | BWTS fitted |
 | Supramax | Gant Muse | 56.024 | 2004 | Mitsui, Japan | 12/2024 | MAN-B&W | 4x30T | Low-Mid $ 11m | Vietnamese | BWTS fitted |

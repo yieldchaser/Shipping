@@ -82,6 +82,7 @@ A Handysize was fixed for a trip from South Africa for inter South African busin
 | Capesize | Aliki | 180.235 | 2005 | Imabari, Japan | 03/2025 | B&W | - | $ 15,1m | Undisclosed | DD 04/2023 |
 | Panamax | Ocean Domina | 76.255 | 2005 | Tsuneishi, Japan | 06/2025 | B&W | - | Mid $ 10m | Undisclosed |  |
 | Panamax | Navios Prosperity I | 75.527 | 2007 | Stx, Korea | 10/2027 | MAN- B&W | - | $ 13,75m | Undisclosed |  |
+| Ultramax | IVS Hirono | 60.280 | 2015 | Onomichi, Japan | 08/2025 | MAN- B&W | 4x30T | $ 24,5m | HK based (Pacific Basin) |  |
 | Supramax | Bulk Newport | 52.587 | 2003 | Toyohashi, Japan | 05/2023 | B&W | 4x30,5T | Low $ 9m | Undisclosed | BWTS fitted |
 | Handysize | Kotor | 32.474 | 2014 | Korea Yanase, Korea | 11/2024 | MAN- B&W | 4x30T | Excess $ 14m | Turkish | Delivered |
 
@@ -110,8 +111,8 @@ A Handysize was fixed for a trip from South Africa for inter South African busin
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | Puteri Intan Satu | 75.849 | 2002 | Mitsubishi, Japan |  | Mitsubishi | 134.770 | Undisclosed | Greek (Capital) | Delivered |
-| LPG | Inge Kosan | 3.796 | 2011 | Yangzhou, China | 06/2026 | MAN | 3.604 | $ 9,5m | Indonesian |  |
-| LPG | Tracey Kosan | 3.791 | 2011 | Yangzhou, China | 11/2026 | MAN | 3.604 | $ 9,5m | (Pertamina) |  |
+| LPG | Inge Kosan | 3.796 | 2011 | Yangzhou, China | 06/2026 | MAN | 3.604 | $ 9,5m | Indonesian (Pertamina) |  |
+| LPG | Tracey Kosan | 3.791 | 2011 | Yangzhou, China | 11/2026 | MAN | 3.604 | $ 9,5m | Indonesian (Pertamina) |  |
 
 ## Page 5
 

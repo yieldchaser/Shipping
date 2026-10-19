@@ -83,9 +83,11 @@ A generally quiet week for this segment. West African trips via East Coast South
 | Post Panamax | Jin Fan | 93.069 | 2012 | Jiangsu, China | 06/2022 | MAN- B&W | - | $ 18,62m | Chinese | Auction sale |
 | Post Panamax | Xin Yuan | 91.439 | 2002 | Oshima, Japan | 07/2025 | Mitsubishi | - | $ 14,9m | Undisclosed | BWTS fitted |
 | Kamsarmax | Azur | 82.282 | 2007 | Oshima, Japan | 11/2022 | MAN- B&W | - | Region $ 20m | Undisclosed | Dely May'22 in Far East |
+| Kamsarmax | Darya Kirthi | 80.545 | 2012 | Stx, Korea | 02/2027 | MAN- B&W | - | $ 25m | Undisclosed | BWTS fitted, Dely May- Jun'22 |
 | Panamax | Maribella | 76.629 | 2004 | Imabari, Japan | 12/2024 | B&W | - | $ 14,9m | Chinese | Dely Apr- Jun'22 |
 | Panamax | Evershine | 75.933 | 2000 | Kanasashi, Japan | 09/2025 | B&W | - | $ 12m | Undisclosed |  |
 | Ultramax | Peng De | 64.485 | 2014 | Guangzhou, China |  | MAN- B&W | - | $ 25,5m | HK based (Jinhui) |  |
+| Ultramax | Nicon Fortune | 63.562 | 2019 | Shin Kasado, Japan | 01/2024 | MAN- B&W | 4x30,7T | Mid $ 30's m | Greek |  |
 | Supramax | Dayang Century | 56.780 | 2011 | Jiangdong, China | 04/2026 | MAN- B&W | 4x30T | $ 17,88m | Chinese | Auction sale, BWTS fitted |
 | Supramax | Mandarin Ocean | 56.741 | 2012 | Jiangsu, China | 04/2025 | MAN- B&W | 4x36T | $ 17,25m | Singaporean | Dely Jul- Oct'22 |
 | Supramax | Jin Fa | 56.699 | 2012 | Qingshan, China | 06/2022 | MAN- B&W | 4x30T | $ 17,9m | Chinese | Auction sale |
@@ -106,6 +108,7 @@ A generally quiet week for this segment. West African trips via East Coast South
 | Handysize | Interlink Quality | 38.719 | 2016 | Huatai, China | 02/2026 | MAN- B&W | 4x30T | $ 26,3m | Undisclosed | BWTS fitted |
 | Handysize | Interlink Ability | 38.683 | 2015 | Huatai, China | 05/2025 | MAN- B&W | 4x30T | $ 26,3m | Undisclosed | BWTS fitted |
 | Handysize | Ocean Ibis | 38.486 | 2013 | Minaminippon, Japan | 08/2026 | MAN- B&W | 4x30T | $ 24,5m | Undisclosed | OHBS, BBHP |
+| Handysize | Nong Lyla | 33.773 | 2004 | Oshima, Japan | 05/2024 | B&W | 4x30T | $ 11,6m | Undisclosed | BWTS fitted, Dely Q2 2022, DD 03/2022 |
 | Handysize | S-Brand | 33.745 | 2004 | Oshima, Japan | 06/2024 | MAN- B&W | 4x30T | $ 13m | Chinese | BWTS fitted |
 | Handysize | Eco Dynamic | 32.354 | 2005 | Kanda, Japan | 11/2025 | Mitsubishi | 4x30,5T | Excess $ 14m | Greek | OHBS, BWTS fitted |
 | Handysize | Nikolaos GS | 28.616 | 2002 | Imabari, Japan | 05/2025 | B&W | 4x30,5T | Low-Mid $ 9m | Undisclosed |  |
@@ -124,14 +127,15 @@ A generally quiet week for this segment. West African trips via East Coast South
 | VLCC | Front Force | 305.442 | 2004 | Hyundai, Korea | 07/2024 | MAN- B&W | Region $ 34m | Undisclosed | Scrubber fitted |
 | VLCC | Front Energy | 305.318 | 2004 | Hyundai, Korea | 09/2024 | MAN- B&W | Region $ 34m | Undisclosed | Scrubber fitted |
 | Suezmax | Nordic Passat | 164.274 | 2002 | Samho, Korea | 08/2022 | B&W | $ 15,5m | Undisclosed |  |
-| Suezmax | 17 February | 160.391 | 2008 | Samsung, Korea | 05/2023 | MAN- B&W | $ 46m | Undisclosed | BWTS fitted |
-| Suezmax | Libya | 159.233 | 2007 | Hyundai Samho, Korea | 06/2022 | MAN- B&W | enbloc | Undisclosed |  |
+| Suezmax | 17 February | 160.391 | 2008 | Samsung, Korea | 05/2023 | MAN- B&W | $ 46m enbloc | Undisclosed | BWTS fitted |
+| Suezmax | Libya | 159.233 | 2007 | Hyundai Samho, Korea | 06/2022 | MAN- B&W | $ 46m enbloc | Undisclosed |  |
 | Suezmax | Bari | 159.186 | 2005 | Hyundai, Korea | 04/2025 | MAN- B&W | $ 21,5m | Undisclosed |  |
-| LR2 | STI Carnaby | 109.999 | 2015 | Sungdong, Korea | 09/2025 | MAN- B&W | $ 86m | Undisclosed | Scrubber fitted |
-| LR2 | STI Savile Row | 109.999 | 2015 | Sungdong, Korea | 06/2025 | MAN- B&W | enbloc | Undisclosed | Scrubber fitted |
+| Suezmax | Da Yuan Hu | 159.149 | 2004 | Bohai, China | 05/2024 | MAN- B&W | Region $ 16,5m | Undisclosed | BWTS fitted, DD 05/2022, Dely Apr- May'22 |
+| LR2 | STI Carnaby | 109.999 | 2015 | Sungdong, Korea | 09/2025 | MAN- B&W | $ 86m enbloc | Undisclosed | Scrubber fitted |
+| LR2 | STI Savile Row | 109.999 | 2015 | Sungdong, Korea | 06/2025 | MAN- B&W | $ 86m enbloc | Undisclosed | Scrubber fitted |
 | MR | STI Benicia | 49.990 | 2014 | Spp, Korea | 09/2024 | MAN- B&W | $ 26,5m | Undisclosed | Scrubber fitted |
-| MR | K Shipbuilding 1930 | 49.750 | 2023 | K, Japan |  | MAN- B&W | $ 38,5m | Singapore based | Resales |
-| MR | K Shipbuilding 1931 | 49.750 | 2023 | K, Japan |  | MAN- B&W | $ 38,5m | (PCL) | Resales |
+| MR | K Shipbuilding 1930 | 49.750 | 2023 | K, Japan |  | MAN- B&W | $ 38,5m | Singapore based (PCL) | Resales |
+| MR | K Shipbuilding 1931 | 49.750 | 2023 | K, Japan |  | MAN- B&W | $ 38,5m | Singapore based (PCL) | Resales |
 | MR | Maersk Tokyo | 49.687 | 2016 | Sungdong, Korea | 06/2026 | MAN- B&W | $ 31m | Undisclosed |  |
 | Chemical/Oil Products | DL Violet | 13.093 | 2008 | 21st Century, Korea | 01/2023 | MAN- B&W | $ 5m | Vietnamese |  |
 | Chemical/Oil Products | DL Aster | 13.079 | 2007 | 21st Century, Korea | 03/2022 | MAN- B&W | $ 4,8m | Vietnamese |  |
@@ -149,8 +153,8 @@ A generally quiet week for this segment. West African trips via East Coast South
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | Copernicus | 54.656 | 2015 | Daewoo, Korea |  | MAN-B&W | 82.464 | $ 70m | Japanese | Scrubber fitted, 9y T/C back with p options |
-| LPG | Cratis | 54.656 | 2015 | Daewoo, Korea |  | MAN-B&W | 82.464 | $ 70m | Japanese | with p.options from 2025 on bareboat basis |
+| LPG | Copernicus | 54.656 | 2015 | Daewoo, Korea |  | MAN-B&W | 82.464 | $ 70m | Japanese | Scrubber fitted, 9y T/C back with p.options from 2025 on bareboat basis |
+| LPG | Cratis | 54.656 | 2015 | Daewoo, Korea |  | MAN-B&W | 82.464 | $ 70m | Japanese | Scrubber fitted, 9y T/C back with p.options from 2025 on bareboat basis |
 | LPG | Providence | 54.784 | 2008 | Daewoo, Korea | 07/2023 | MAN-B&W | 82.423 | $ 46,5m | Indonesian (Foresight) |  |
 
 ### General Cargo

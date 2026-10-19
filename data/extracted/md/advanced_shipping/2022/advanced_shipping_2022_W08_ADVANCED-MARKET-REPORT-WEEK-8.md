@@ -79,6 +79,7 @@ A number of Continental trips into US Gulf with fertilizers were reported at the
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Stella Hope | 180.007 | 2016 | Dalian, China | 09/2026 | MAN- B&W | - | $ 42,5m | UK based (Zodiac Maritime) | BWTS fitted, index linked T/C for 1+1years |
 | Capesize | Dong-A Astrea | 179.329 | 2010 | Hyundai, Korea | 04/2025 | MAN- B&W | - |  |  |  |
 | Capesize | Dong-A Eos | 179.329 | 2009 | Hyundai, Korea | 09/2024 | MAN- B&W | - | $ 81m enbloc | Greek (Minerva) |  |
 | Capesize | Dong-A Oknos | 179.329 | 2010 | Hyundai, Korea | 02/2025 | MAN- B&W | - |  |  |  |
@@ -86,6 +87,7 @@ A number of Continental trips into US Gulf with fertilizers were reported at the
 | Panamax | Lily Breeze | 74.744 | 1998 | Nkk, Japan | 01/2023 | Sulzer | - | $ 8,6m | Undisclosed |  |
 | Ultramax | Andros Island | 63.008 | 2016 | Zhejiang, China | 01/2026 | MAN- B&W | 4x35T | $ 25m | Undisclosed |  |
 | Ultramax | Syros Island | 63.008 | 2015 | Zhejiang, China | 07/2025 | MAN- B&W | 4x35T | $ 25m | Undisclosed |  |
+| Ultramax | Ultra Excellence | 61.214 | 2016 | Tadotsu, Japan | 06/2026 | MAN- B&W | 4x30,7T | Region $ 31m | Greek (Alexandria Shipping) | BWTS fitted |
 | Supramax | WP Brave | 58.627 | 2012 | Spp, Korea | 07/2022 | MAN- B&W | 4x30T | $ 19,5m | Undisclosed |  |
 | Supramax | Tomini Majesty | 56.942 | 2010 | Zhejiang, China | 12/2024 | MAN- B&W | 4x36T | $ 15,9m | Undisclosed | BWTS fitted |
 | Supramax | Mandarin Grace | 56.693 | 2011 | Jiangsu, China | 01/2026 | MAN- B&W | 4x36T | $ 17,1m | Chinese | BWTS fitted |
@@ -126,10 +128,16 @@ A number of Continental trips into US Gulf with fertilizers were reported at the
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | Navios Utmost | 8.208 | 2006 | Hyundai, Korea | 07/2026 | MAN-B&W | - | $ 220m | Undisclosed | Dely H2 2022 |
-| Post Panamax | Navios Unite | 8.208 | 2006 | Hyundai, Korea | 08/2026 | MAN-B&W | - | enbloc | Undisclosed | Dely H2 2022 |
+| Post Panamax | Navios Utmost | 8.208 | 2006 | Hyundai, Korea | 07/2026 | MAN-B&W | - | $ 220m enbloc | Undisclosed | Dely H2 2022 |
+| Post Panamax | Navios Unite | 8.208 | 2006 | Hyundai, Korea | 08/2026 | MAN-B&W | - | $ 220m enbloc | Undisclosed | Dely H2 2022 |
 | Sub Panamax | Windswept | 2.797 | 2010 | Yangfan, China | 03/2025 | MAN-B&W | - | $ 52m | Chinese (Transfar) |  |
+| Sub Panamax | Cape Magnus | 2.742 | 2008 | Aker Mtw, Germany | 01/2023 | MAN-B&W | - | $ 53m | Taiwanese (Wan Hai Lines) |  |
 | Sub Panamax | Vivaldi | 2.546 | 2010 | Jiangsu, China | 01/2025 | Wartsila | 3x45T | $ 18m | Greek |  |
+| Sub Panamax | Messini | 2.442 | 1997 | Thyssen, Germany | 12/2022 | Mitsubishi | 3x40T | Undisclosed | UK based (Mount Street) |  |
+| Feeder | Yangfan CV18H- VG01 | 1.868 | 2022 | Yangfan, China |  | Wartsila | - | $ 44,5m | French (CMA CGM) |  |
+| Feeder | Yangfan CV18H- VG02 | 1.868 | 2022 | Yangfan, China |  | Wartsila | - | $ 44,5m | French (CMA CGM) |  |
+| Feeder | Yangfan CV18H- VG03 | 1.868 | 2022 | Yangfan, China |  | Wartsila | - | $ 44,5m | French (CMA CGM) |  |
+| Feeder | Yangfan CV18H- VG04 | 1.868 | 2022 | Yangfan, China |  | Wartsila | - | $ 44,5m | French (CMA CGM) |  |
 | Feeder | Hooge | 1.402 | 2006 | Shangdong, China | 07/2026 | MAN-B&W | 2x40T | $ 23,6m | Israeli (Carmel Shipping) |  |
 
 ## Page 6

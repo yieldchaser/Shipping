@@ -91,8 +91,8 @@ Continental trips via Baltic into West Africa were reported at the level of usd 
 | Panamax | Alpha Loyalty | 75.949 | 2007 | Tsuneishi, Japan | 07/2027 | MAN-B&W | - | $ 10,25m | Chinese | DD 10/2025 |
 | Ultramax | African Cheetah | 66.684 | 2014 | Mitsui, Japan | 03/2029 | MAN-B&W | 4x30T | $ 24,5m | Bangladeshi | Scrubber fitted |
 | Ultramax | Elizabeth M II | 63.683 | 2020 | Nantong, China | 06/2030 | MAN-B&W | 4x35T | $ 30m | Greek | Scrubber fitted |
-| Ultramax | CMB Van Dijck | 63.667 | 2020 | Shin Kasado, Japan | 09/2025 | MAN-B&W | 4x30,7T | rgn $ 50m | Korean (HMM) |  |
-| Ultramax | CMB Teniers | 63.611 | 2021 | Shin Kasado, Japan | 08/2026 | MAN-B&W | 4x30,7T | enbloc | Korean (HMM) |  |
+| Ultramax | CMB Van Dijck | 63.667 | 2020 | Shin Kasado, Japan | 09/2025 | MAN-B&W | 4x30,7T | rgn $ 50m enbloc | Korean (HMM) |  |
+| Ultramax | CMB Teniers | 63.611 | 2021 | Shin Kasado, Japan | 08/2026 | MAN-B&W | 4x30,7T | rgn $ 50m enbloc | Korean (HMM) |  |
 | Ultramax | Ultra Colonsay | 61.470 | 2011 | Shin Kasado, Japan | 10/2026 | MAN-B&W | 4x30,5T | xs $ 18m | Far Eastern |  |
 | Ultramax | Great Vista | 61.072 | 2021 | DACKS, China | 03/2026 | MAN-B&W | 4x30,5T | $ 27,8m | Undisclosed | Auction sale |
 | Supramax | Ocean Knight | 56.808 | 2011 | Taizhou, China | 01/2026 | MAN-B&W | 4x30T | $ 12,1m | Chinese |  |
@@ -109,8 +109,8 @@ Continental trips via Baltic into West Africa were reported at the level of usd 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Supramax | Queen Flower | 50.477 | 2013 | Oshima, Japan | 04/2026 | MAN-B&W | 4x30T | Mid $ 16m | Turkish (Devbulk) | OHBS |
-| Handysize | Dvadesetprvi Maj | 34.987 | 2012 | Shanghai, China | 08/2027 | MAN-B&W | 4x30T | $ 13,25m | Danish (Navision | DD 10/2025 |
-| Handysize | Kotor | 34.987 | 2012 | Shanghai, China | 04/2027 | MAN-B&W | 4x30T | enbloc | (Navision Shipping) |  |
+| Handysize | Dvadesetprvi Maj | 34.987 | 2012 | Shanghai, China | 08/2027 | MAN-B&W | 4x30T | $ 13,25m enbloc | Danish (Navision Shipping) | DD 10/2025 |
+| Handysize | Kotor | 34.987 | 2012 | Shanghai, China | 04/2027 | MAN-B&W | 4x30T | $ 13,25m enbloc | Danish (Navision Shipping) |  |
 | Handysize | CH Bella | 33.144 | 2010 | Zhejiang, China | 11/2025 | MAN-B&W | 4x30T | Low $ 8m | Undisclosed |  |
 | Handysize | CH Doris | 33.144 | 2010 | Zhejiang, China | 11/2025 | MAN-B&W | 4x30T | Low $ 8m | Undisclosed |  |
 | Handysize | Golden Maple | 32.527 | 2009 | Zhejiang, China | 06/2029 | MAN-B&W | 4x30T | $ 7,3m | Vietnamese |  |

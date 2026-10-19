@@ -79,6 +79,8 @@ A generally quiet week for this segment. A number of trips from Japan into Medit
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kamsarmax | MBA Liberty | 82.217 | 2010 | Tsuneishi Zhoushan, China | 01/2025 | MAN- B&W | - | $ 22m | Undisclosed | BWTS fitted |
+| Kamsarmax | BW Rye | 81.783 | 2018 | Tsuneishi Zhoushan, China | 01/2024 | MAN- B&W | - | $ 37,5m | Greek | BWTS fitted |
 | Kamsarmax | Galaxy | 81.666 | 2012 | Qingdao, China | 11/2022 | Wartsila | - | $ 19,5m | Greek |  |
 | Kamsarmax | Darya Kirthi | 80.545 | 2012 | Stx, Korea | 05/2022 | MAN- B&W | - | $ 24,5m | Greek | BWTS fitted |
 | Kamsarmax | Golden Empress | 79.471 | 2010 | Jinhai, China | 12/2025 | MAN- B&W | - |  |  | BWTS fitted |
@@ -92,6 +94,7 @@ A generally quiet week for this segment. A number of trips from Japan into Medit
 | Supramax | Bao Grand | 58.015 | 2010 | Yangzhou, China | 06/2025 | MAN- B&W | 4x36T | Undisclosed | Greek |  |
 | Supramax | Bao Prosper | 56.722 | 2010 | Jiangsu, China | 08/2025 | MAN- B&W | 4x35T | Undisclosed | Greek | BWTS fitted |
 | Supramax | Karimu | 57.255 | 2010 | Stx, Korea | 12/2025 | MAN- B&W | 4x30T | $ 19m |  | BWTS fitted, Dely Jul'22 |
+| Supramax | Antero | 56.892 | 2011 | Jiangsu, China | 08/2026 | MAN- B&W | 4x30T | $ 17,8m | Bangladeshi | BWTS fitted, incl. T/C attached |
 | Supramax | Atlantic Mexico | 56.697 | 2011 | Taizhou, China | 10/2023 | Mitsubishi | 4x30T | $ 17m | Undisclosed |  |
 | Supramax | Nathan Brandon | 56.489 | 2013 | Huatai, China | 08/2023 | MAN- B&W | 4x36T | $ 19m | Undisclosed | BWTS fitted |
 | Supramax | Hai Long | 56.083 | 2007 | Mitsui, Japan | 06/2025 | MAN- B&W | 4x30T | $ 16m | Undisclosed |  |
@@ -105,6 +108,7 @@ A generally quiet week for this segment. A number of trips from Japan into Medit
 | Supramax | Prabhu Gopal | 56.060 | 2003 | Mitsui, Japan | 03/2023 | MAN- B&W | 4x30T | $ 14m | Undisclosed |  |
 | Supramax | TTM Phoenix | 55.947 | 2010 | IHI, Japan | 06/2025 | Wartsila | 4x30T | $ 20,4m | Vietnamese | BWTS fitted |
 | Supramax | Awesome Ashley | 55.596 | 2011 | Mitsui, Japan | 07/2024 | MAN- B&W | 4x30T | $ 22m | Lebanese | BWTS fitted, DD 07/2022 |
+| Supramax | Jin Cheng | 53.806 | 2004 | New Century, China | 01/2024 | B&W | 4x40T | $ 13,9m | HK based (Perfect Shipping) | BWTS fitted |
 | Handysize | Interlink Fidelity | 38.792 | 2015 | Taizhou, China | 05/2025 | MAN- B&W | 4x30T | $ 25m | Undisclosed | BWTS fitted, Ice class 1C |
 | Handysize | Interlink Mobility | 38.767 | 2015 | Taizhou, China | 07/2025 | MAN- B&W | 4x30T | Low-Mid $ 25m | Undisclosed | BWTS fitted, Ice class 1C |
 | Handysize | Atlantic Veracruz | 28.339 | 2009 | Shimanami, Japan | 07/2022 | MAN- B&W | 4x30,5T | Low-Mid $ 13m | Vietnamese |  |
@@ -115,8 +119,8 @@ A generally quiet week for this segment. A number of trips from Japan into Medit
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Landbridge Majesty | 308.206 | 2017 | Dalian, China | 01/2027 | MAN- B&W | $ 71,5m | Undisclosed | BWTS fitted Scrubber fitted |
-| VLCC | Nautilus | 307.284 | 2006 | Dalian, China | 12/2026 | Wartsila | $ 63,5m | Korean (Sinokor) | BWTS fitted |
-| VLCC | Navarin | 307.284 | 2007 | Dalian, China | 07/2022 | Wartsila | enbloc | Korean (Sinokor) |  |
+| VLCC | Nautilus | 307.284 | 2006 | Dalian, China | 12/2026 | Wartsila | $ 63,5m enbloc | Korean (Sinokor) | BWTS fitted |
+| VLCC | Navarin | 307.284 | 2007 | Dalian, China | 07/2022 | Wartsila | $ 63,5m enbloc | Korean (Sinokor) |  |
 | VLCC | Olympic Loyalty II | 306.999 | 2005 | Samsung, Korea | 03/2025 | MAN- B&W | Undisclosed | Undisclosed | BWTS fitted |
 | Aframax | Axel Spirit | 115.392 | 2004 | Samsung, Korea | 04/2024 | B&W | $ 13,2m | Chinese | DD 05/2022 |
 | Aframax | Blue Power | 106.360 | 2003 | Tsuneishi, Japan | 09/2023 | B&W | $ 13,5m | Vietnamese |  |
@@ -131,8 +135,8 @@ A generally quiet week for this segment. A number of trips from Japan into Medit
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR1 | Tectus | 74.862 | 2009 | Stx, Korea | 07/2024 | MAN- B&W | $ 15,5m | Greek (Centrofin) | BWTS fitted, DD 09/2022 |
 | LR1 | Stena President | 65.112 | 2007 | Brodosplit, Croatia | 09/2022 | MAN- B&W | Undisclosed | Undisclosed | Ice Class 1B |
-| MR | Clean Nirvana | 50.359 | 2008 | Sls, Korea | 01/2023 | MAN- B&W | $ 31m | Greek (Imperial |  |
-| MR | Clean Justice | 45.998 | 2011 | Shin Kurushima, Japan | 03/2026 | MAN- B&W | enbloc | Petroleum) | BWTS fitted |
+| MR | Clean Nirvana | 50.359 | 2008 | Sls, Korea | 01/2023 | MAN- B&W | $ 31m enbloc | Greek (Imperial Petroleum) |  |
+| MR | Clean Justice | 45.998 | 2011 | Shin Kurushima, Japan | 03/2026 | MAN- B&W | $ 31m enbloc | Greek (Imperial Petroleum) | BWTS fitted |
 | MR | Duke I | 40.050 | 2002 | Hyundai Mipo, Korea | 09/2026 | MAN- B&W | $ 7,1m | Undisclosed |  |
 | MR | Nord Swan | 38.326 | 2009 | Guangzhou, China | 07/2024 | MAN- B&W | $ 9,5m | Greek |  |
 | MR | Torm Tevere | 36.990 | 2005 | Hyundai Mipo, Korea | 07/2025 | MAN- B&W | $ 8,3m | Nigerian |  |
@@ -158,6 +162,7 @@ A generally quiet week for this segment. A number of trips from Japan into Medit
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Captain John Np | 58.691 | 2007 | Hyundai, Korea | 03/2022 | MAN-B&W | 80.595 | $ 47m | Indian (Sakura Energy) |  |
 | LPG | BW Trader | 53.151 | 2006 | Daewoo, Korea | 03/2026 | Sulzer | 77.058 | $ 43,5m | Indonesian (Foresight) | Incl. T/C |
 
 ### General Cargo

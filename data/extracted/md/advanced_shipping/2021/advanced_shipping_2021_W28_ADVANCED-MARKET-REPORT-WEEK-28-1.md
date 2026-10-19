@@ -79,10 +79,13 @@ A generally quiet week for this segment. A number of West Coast Indian trips int
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Bulk Denmark | 181.360 | 2010 | Koyo, Japan | 10/2025 | MAN- B&W | - | $ 31m | Greek (Thenamaris) | BWTS fitted Scrubber fitted |
 | Panamax | Xing Bao | 72.080 | 1997 | Hitachi, Japan | 12/2022 | B&W | - | $ 8m | Chinese |  |
 | Supramax | Centenario Forza | 56.129 | 2012 | Mitsui, Japan | 04/2022 | MAN- B&W | 4x30T | $ 18,6m | Undisclosed |  |
+| Handysize | Dry Beam Neo | 37.900 | 2019 | Shin Kochi, Japan | 12/2024 | MAN- B&W | 4x30T | $ 26m | Swiss (Nova Marine Carriers) | BWTS fitted, Log fitted |
 | Handysize | Great Resource | 31.776 | 2010 | Guangzhou, China | 05/2025 | MAN- B&W | 4x30T | Mid $ 12m | Greek | OHBS, BWTS fitted |
 | Handysize | Geki Star | 28.352 | 2008 | Shimanami, Japan | 07/2023 | MAN- B&W | 4x30,5T | $ 9,5m | Middle Eastern | Dely Q4 2021 |
+| Handysize | King Rice | 28.250 | 2012 | I-S, Japan | 10/2022 | MAN- B&W | 4x30,5T | $ 12,7m | HK based (Taylor Maritime) | BWTS fitted |
 | Small | Olza | 16.592 | 2012 | Taizhou, China | 04/2022 | MAN- B&W | 3x30T | $ 7,2m | German |  |
 
 ### Tankers
@@ -96,8 +99,8 @@ A generally quiet week for this segment. A number of West Coast Indian trips int
 | LR2 | HHIC-Phil 169 | 114.000 | 2021 | HHIC-Phil, Philippines | 08/2026 | YYY | $ 55m | USA (JP Morgan) |  |
 | LR2 | HHIC-Phil 170 | 114.000 | 2021 | HHIC-Phil, Philippines | 09/2026 | YYY | $ 55m | USA (JP Morgan) |  |
 | Aframax | Ocean Pegasus | 108.926 | 2009 | SWS, China | 03/2024 | MAN- B&W | Undisclosed | Undisclosed | Auction sale |
-| MR | Maersk Marmara | 51.182 | 2006 | Stx, Korea | 11/2021 | MAN- B&W | $ 21m | Undisclosed | Old sale, DPP |
-| MR | Maersk Mediterranean | 46.616 | 2007 | Hyundai Mipo, Korea | 01/2022 | MAN- B&W | enbloc | Undisclosed | Old sale, CPP |
+| MR | Maersk Marmara | 51.182 | 2006 | Stx, Korea | 11/2021 | MAN- B&W | $ 21m enbloc | Undisclosed | Old sale, DPP |
+| MR | Maersk Mediterranean | 46.616 | 2007 | Hyundai Mipo, Korea | 01/2022 | MAN- B&W | $ 21m enbloc | Undisclosed | Old sale, CPP |
 | MR | Adara | 37.583 | 2011 | Hyundai Mipo, Korea | 04/2026 | MAN- B&W | $ 15,75m | Greek (Leon Shipping) |  |
 | Small | Chemroute Brilliant | 25.594 | 2009 | Shin Kurushima, Japan | 01/2024 | Mitsubishi | $ 16,5m | German | St St |
 

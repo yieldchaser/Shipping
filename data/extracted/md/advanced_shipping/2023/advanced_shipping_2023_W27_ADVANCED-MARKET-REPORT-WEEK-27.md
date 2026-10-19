@@ -93,6 +93,7 @@ A generally quiet week for this segment. A number of Indonesian and Australian t
 | Supramax | Couga | 50.806 | 2010 | Oshima, Japan | 05/2025 | MAN-B&W | 4x30T | $ 16m | Far Eastern | OHBS, BWTS fitted |
 | Handymax | Bunun Brave | 45.556 | 2014 | Tsuneishi Zhoushan, China | 07/2024 | MAN-B&W | 4x30T | $ 19m | Undisclosed | Delivered, BWTS fitted |
 | Handysize | Tomini Bora | 37.985 | 2016 | Zhejiang, China | 01/2026 | MAN-B&W | 4x30T | $ 19,65m | Greek | BWTS fitted |
+| Handysize | African Bulker | 36.170 | 2015 | Shikoku, Japan | 11/2025 | MAN-B&W | 4x31,2T | Low-Mid $ 21m | Korean | OHBS, BWTS fitted, Scrubber fitted |
 | Handysize | IVS Orchard | 32.535 | 2011 | Jiangmen, China | 07/2025 | MAN-B&W | 4x30,5T | $ 10,8m | Undisclosed | BWTS fitted |
 
 ## Page 4
@@ -110,6 +111,11 @@ A generally quiet week for this segment. A number of Indonesian and Australian t
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Panamax | NYK Delphinus | 4.888 | 2007 | Hyundai, Korea | 10/2025 | MAN-B&W | - | $ 23m | Greek (Cosmoship Management) |  |
+| Panamax | Noro | 3.398 | 2007 | Hanjin, Korea | 04/2027 | MAN-B&W | - | Undisclosed | Greek (Cosmoship Management) | Incl. T/C |
+| Sub Panamax | Maersk Penang | 2.890 | 1998 | Kvaerner, Germany |  | B&W | - | $ 8m | Greek (Rethymnis and Kulukundis) | SS/DD due |
+| Feeder | Wan Hai 261 | 1.675 | 2001 | Shin Kurushima, Japan | 07/2026 | B&W | - | $ 7,1m | Chinese |  |
+| Feeder | Wan Hai 281 | 1.510 | 1998 | Shin Kurushima, Japan | 09/2027 | B&W | - | $ 6,85m | Chinese |  |
 | Feeder | Tacoma Trader | 1.102 | 2015 | Jiangsu, China | 08/2025 | MAN-B&W | 2x45T | Low-Mid $ 18m | German |  |
 
 ## Page 5

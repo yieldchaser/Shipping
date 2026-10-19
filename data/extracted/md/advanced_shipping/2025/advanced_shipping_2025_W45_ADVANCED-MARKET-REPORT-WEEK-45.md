@@ -95,6 +95,7 @@ Trips from China via Vietnam into Japan were fixed around usd 13,000/15,000 pd. 
 | Supramax | APJ Shirin | 56.594 | 2012 | Cosco, China | 05/2027 | MAN-B&W | 4x30T | $ 13,45m | Undisclosed |  |
 | Supramax | Super Saka | 55.596 | 2011 | Mitsui, Japan | 07/2029 | MAN-B&W | 4x30T | xs $ 17m | Vietnamese |  |
 | Supramax | Evriali | 53.554 | 2007 | Iwagi, Japan | 09/2027 | MAN-B&W | 4x30,5T | $ 10,5m | Undisclosed | DD 11/2025 |
+| Supramax | TM Hai Ha 988 | 53.505 | 2011 | Nam Trieu, Vietnam | 07/2026 | MAN-B&W | 4x36T | $ 9m | Vietnamese (Hoang Giang Shipping | Auction sale |
 | Handymax | Yangtze Nova | 47.180 | 2013 | Jiangsu, China | 01/2028 | MAN-B&W | 4x30T | $ 12m | Undisclosed | Ice Class II |
 | Handysize | Pacific Ocean | 36.009 | 2011 | Samjin, China | 05/2026 | MAN-B&W | 4x35T | $ 10,5m | Undisclosed |  |
 | Handysize | African Osprey | 34.697 | 2012 | Chengxi, China | 07/2027 | MAN-B&W | 4x30T | High $ 11m | Greek |  |
@@ -125,6 +126,7 @@ Trips from China via Vietnam into Japan were fixed around usd 13,000/15,000 pd. 
 | MR | Yosemite Trader | 47.980 | 2011 | Iwagi, Japan | 03/2026 | MAN-B&W | $ 21,5m | Vietnamese |  |
 | MR | STI Brixton | 38.734 | 2014 | Hyundai Mipo, Korea | 06/2029 | MAN-B&W | $ 30m | Undisclosed | Ice Class 1A |
 | Chemical/Oil Products | Ginostra M | 18.639 | 2024 | Fujian, China | 12/2029 | MAN-B&W | $ 27m | Undisclosed | Ice Class 1B |
+| Chemical/Oil Products | Fure West | 17.349 | 2006 | Shanghai Edward, China | 11/2026 | MaK | $ 11,3m | Chinese (China Kingdom Shipping) | Delivered, Ice Class 1A |
 
 ### Containers
 

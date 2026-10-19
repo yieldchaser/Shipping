@@ -79,6 +79,7 @@ Trips from Japan into Arabian Gulf were reported at the level of usd 14,000/15,0
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Newcastlemax | Karadeniz Powership Rauf Osman Bey | 207.945 | 2010 | Universal, Japan | 05/2030 | MAN-B&W | - | Low $ 33m | Chinese |  |
 | Kamsarmax | Yasa Neslihan | 82.849 | 2005 | Tsuneishi, Japan | 06/2030 | MAN-B&W | - | $ 10,6m | Far Eastern |  |
 | Kamsarmax | Sea Venus | 80.888 | 2013 | New Century, China | 10/2028 | MAN-B&W | - | $ 16,5m | Undisclosed |  |
 | Kamsarmax | Adam I | 79.775 | 2010 | Fujian, China | 06/2030 | Wartsila | - | $ 11,3m | Undisclosed | Ice Class II |
@@ -116,6 +117,7 @@ Trips from Japan into Arabian Gulf were reported at the level of usd 14,000/15,0
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feeder | PFL Matai | 1.730 | 2001 | Szczecinska, Poland | 10/2026 | Sulzer | 3x40T | $ 10,5m | Undisclosed | Ice Class II |
+| Feeder | HT Camellia | 1.030 | 2007 | Singapore Technologies, Singapore | 06/2027 | Wartsila | 2x40T | $ 9,8m | UAE based |  |
 | Feeder | Sco Shanghai | 707 | 2017 | Nam Trieu, Vietnam | 03/2026 | MaK | - | Rgn $ 7m | Undisclosed | Ice Class 1A, DD 09/2025 |
 
 ### Gas

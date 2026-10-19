@@ -83,12 +83,14 @@ Trips from US Gulf via UK-Continent were fixed around usd 17,000/19,000 pd. Inte
 | Capesize | Squireship | 170.018 | 2010 | Sungdong, Korea | 12/2029 | MAN-B&W | - | $ 29,5m | Undisclosed | Internal deal, Scrubber fitted |
 | Post Panamax | Copernicus N | 93.062 | 2010 | Taizhou, China | 08/2030 | MAN-B&W | - | $ 12,35m | Undisclosed |  |
 | Kamsarmax | MG Mercury | 84.790 | 2016 | Imabari, Japan | 08/2026 | MAN-B&W | - | $ 28,5m | Greek |  |
+| Kamsarmax | Loch Long | 81.896 | 2013 | Tsuneishi Zhoushan, China | 07/2028 | MAN-B&W | - | $ 22,8m | Greek | Scrubber fitted, Dely basis "As Is, Where Is" in Jun- Aug'26 with DD passed |
 | Kamsarmax | Nord Aries | 81.895 | 2020 | Jiangsu, China | 06/2030 | MAN-B&W | 4x40T | $ 32m | Greek | Geared, Scrubber fitted |
 | Kamsarmax | Trabzon | 81.660 | 2011 | Hyundai Mipo, Korea | 11/2026 | MAN-B&W | - | $ 17,5m | Greek |  |
 | Panamax | Barwon | 78.182 | 2015 | Sasebo, Japan | 03/2030 | MAN-B&W | - | xs $ 26m | Undisclosed |  |
 | Ultramax | Ability | 64.253 | 2021 | Shin Kurushima, Japan | 07/2026 | MAN-B&W | 4x30,7T | $ 37m | Undisclosed |  |
 | Supramax | Hony Future | 56.689 | 2012 | Xiamen, China | 06/2027 | MAN-B&W | 4x30T | Low $ 14m | Undisclosed |  |
 | Supramax | Papa John | 56.543 | 2010 | Qingshan, China | 11/2030 | MAN-B&W | 4x35T | $ 13,2m | Chinese |  |
+| Handysize | Sider Imabari | 40.320 | 2024 | Shimanami, Japan | 02/2029 | J-ENG | 4x30,7T | $ 34,75m | Turkish (Dadaylilar Shipping) |  |
 | Handysize | Sigma Pioneer | 32.613 | 2011 | Jiangmen, China | 03/2026 | MAN-B&W | 4x30T | $ 8,75m | Undisclosed |  |
 | Handysize | Sea Sapphire | 32.550 | 2010 | Zhejiang, China | 03/2030 | MAN-B&W | 4x30T | $ 8,5m | Undisclosed |  |
 

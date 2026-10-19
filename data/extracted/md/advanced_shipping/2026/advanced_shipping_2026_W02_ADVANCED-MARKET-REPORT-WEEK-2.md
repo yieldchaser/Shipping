@@ -82,6 +82,7 @@ Japanese into Continent were reported at the level of usd 11,000/12,000 pd. Trip
 | Capesize | Golden Magnum | 179.788 | 2009 | Daewoo, Korea | 11/2029 | MAN-B&W | - | $ 28,7m | Chinese | Scrubber fitted |
 | Capesize | Europe | 179.448 | 2010 | Daewoo, Korea | 11/2030 | MAN-B&W | - | $ 30,9m | Chinese |  |
 | Kamsarmax | Century Shanghai | 81.738 | 2018 | Chengxi, China | 11/2028 | MAN-B&W | - | $ 25,02m | Undisclosed | Online bidding |
+| Kamsarmax | Seacon Shanghai | 80.811 | 2019 | Huangpu Wenchong, China | 06/2029 | MAN-B&W | - | $ 26,7m | Greek (Dexter Navigation) |  |
 | Ultramax | Ocean Jasmin | 63.465 | 2019 | Cosco, China | 06/2029 | MAN-B&W | 4x30T | Mid $ 28m | Chinese | T/C attached |
 | Handymax | Jiang Yuan Nan Jing | 49.326 | 2003 | NACKS, China | 02/2028 | B&W | 4x30T | $ 7,5m | Undisclosed | Online bidding |
 | Handysize | Fethiye-M | 37.955 | 2011 | Spp, Korea | 09/2026 | MAN-B&W | 4x35T | $ 12,9m | Greek |  |
@@ -94,8 +95,8 @@ Japanese into Continent were reported at the level of usd 11,000/12,000 pd. Trip
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Oceanis | 320.780 | 2011 | Samsung, Korea | 04/2026 | MAN-B&W | $ 68,5m | Korean (Sinokor) | Scrubber fitted |
-| VLCC | DHT China | 317.794 | 2007 | Hyundai Samho, Korea | 05/2027 | MAN-B&W | $ 101,6m | Undisclosed | Scrubber fitted |
-| VLCC | DHT Europe | 317.713 | 2007 | Hyundai Samho, Korea | 04/2027 | MAN-B&W | enbloc | Undisclosed | Scrubber fitted |
+| VLCC | DHT China | 317.794 | 2007 | Hyundai Samho, Korea | 05/2027 | MAN-B&W | $ 101,6m enbloc | Undisclosed | Scrubber fitted |
+| VLCC | DHT Europe | 317.713 | 2007 | Hyundai Samho, Korea | 04/2027 | MAN-B&W | $ 101,6m enbloc | Undisclosed | Scrubber fitted |
 | VLCC | Nissos Psara | 301.861 | 2011 | IHI, Japan | 02/2026 | Wartsila | $ 68m | Korean (Sinokor) | Scrubber fitted |
 | VLCC | Desimi | 296.865 | 2011 | Shanghai, China | 09/2026 | MAN-B&W | $ 136m enbloc | Korean (Sinokor) | Scrubber fitted |
 | VLCC | Solana | 296.681 | 2010 | Shanghai, China | 05/2030 | MAN-B&W | $ 136m enbloc | Korean (Sinokor) | Scrubber fitted |
@@ -121,7 +122,8 @@ Japanese into Continent were reported at the level of usd 11,000/12,000 pd. Trip
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | Rio Kobe | 3.534 | 2009 | Shanghai, China | 12/2029 | MAN-B&W | - | $ 31,5m | Singapore based (Greta Shipping) | Incl. T/C |
-| Feeder | Nevzat Kalkavan | 1.849 | 2011 | Sedef Tuzla, Turkey | 08/2026 | MAN-B&W | - | $ 17m | (MSC) | Scrubber fitted, Ice Class 1C |
+| Feeder | Mukaddes Kalkavan | 1.849 | 2008 | Sedef Tuzla, Turkey | 03/2028 | MAN-B&W | - | $ 17m | Swiss based (MSC) | Scrubber fitted, Ice Class 1C, DD 02/2026 |
+| Feeder | Nevzat Kalkavan | 1.849 | 2011 | Sedef Tuzla, Turkey | 08/2026 | MAN-B&W | - | $ 17m | Swiss based (MSC) | Scrubber fitted, Ice Class 1C |
 | Feeder | Boat Blessing | 1.684 | 1997 | Szczecinska, Poland | 11/2027 | Sulzer | 3x45T | $ 8,6m | Undisclosed | Ice Class II |
 
 ### Gas

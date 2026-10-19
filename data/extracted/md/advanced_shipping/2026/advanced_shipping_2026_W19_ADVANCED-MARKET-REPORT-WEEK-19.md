@@ -82,6 +82,8 @@ South East Asia trips into China were fixed at usd 9,000/10,000 pd. Meanwhile, U
 | Capesize | Bulk Joyance | 175.636 | 2012 | Jinhai, China | 04/2027 | MAN-B&W | - | $ 33m | Undisclosed |  |
 | Post Panamax | Lestari Manjung | 93.200 | 2011 | Jiangsu, China | 09/2030 | MAN-B&W | - | $ 14m | Undisclosed |  |
 | Post Panamax | Ocean Fairy | 87.328 | 2010 | Hudong- Zhonghua, China | 04/2030 | MAN-B&W | 4x30T | $ 16,5m | Undisclosed | Geared |
+| Kamsarmax | Seacon Nola | 85.611 | 2023 | Huangpu Wenchong, China | 01/2028 | MAN-B&W | - | $ 72,7m enbloc | Middle Eastern |  |
+| Kamsarmax | Seacon Hamburg | 85.505 | 2023 | Huangpu Wenchong, China | 04/2028 | MAN-B&W | - | $ 72,7m enbloc | Middle Eastern |  |
 | Kamsarmax | Mandy Morn | 82.612 | 2008 | Tsuneishi Zhoushan, China | 10/2028 | MAN-B&W | - | $ 14m | Undisclosed | DD 07/2026 |
 | Kamsarmax | Sirocco | 82.000 | 2014 | Sainty, China | 01/2029 | MAN-B&W | - | rgn $ 20m | Undisclosed |  |
 | Supramax | Bulk Colombia | 57.937 | 2011 | Tsuneishi Cebu, Philippines | 10/2026 | MAN-B&W | 4x30T | Mid-High $ 16m | Undisclosed |  |

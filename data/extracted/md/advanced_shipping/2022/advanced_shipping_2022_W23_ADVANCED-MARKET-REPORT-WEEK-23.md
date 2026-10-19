@@ -84,9 +84,14 @@ A number of Continental trips into West Africa were reported at the level of usd
 | Kamsarmax | Nord Lyra | 82.000 | 2020 | Jiangsu, China | 12/2025 | MAN- B&W | - | High $ 37m | Undisclosed | Dely Mid Dec'22 |
 | Panamax | Elim Joyce | 77.834 | 2004 | CSBC, Taiwan | 02/2024 | MAN- B&W | - | $ 15m | Undisclosed | BWTS fitted |
 | Panamax | Orient Prima | 76.596 | 2005 | Imabari, Japan | 10/2025 | MAN- B&W | - | Region $ 17m | Undisclosed | BWTS fitted |
+| Panamax | Glory One | 73.180 | 2002 | Namura & Sasebo, Japan | 06/2022 | B&W | - | $ 10,3m | Chinese | Old sale |
 | Panamax | Agia Skepi | 73.018 | 1999 | Daedong, Korea | 01/2024 | B&W | - | Region $ 11m | Undisclosed |  |
+| Supramax | IVS Pinehurst | 57.811 | 2015 | Tsuneishi Cebu, Philippines | 07/2025 | MAN- B&W | 4x35T | $ 18m | S. African (Grindrod Shipping) | P.option declared |
+| Supramax | Van Fortune | 56.847 | 2009 | Taizhou Sanfu, China | 07/2024 | MAN- B&W | 4x30T | $ 16,5m | Chinese (HNA Technology) | BWTS fitted Dely Jul-Aug'22 |
+| Handysize | Interlink Dignity | 38.671 | 2015 | Huatai, China | 08/2025 | MAN- B&W | 4x30T | $ 26,3m | UK based (Tufton Oceanic) | OHBS, BWTS fitted, Ice Class 1C |
 | Handysize | Ansac Columbia | 37.993 | 2017 | Shimanami, Japan | 03/2027 | MAN- B&W | 4x30,5T | Undisclosed | Undisclosed | BWTS fitted |
 | Handysize | African Rook | 37.686 | 2015 | Naikai, Japan | 02/2025 | MAN- B&W | 4x30T | $ 27m | Undisclosed | OHBS |
+| Handysize | Adriatic Pearl | 37.294 | 2012 | Zhejiang, China | 06/2022 | Wartsila | 4x30T | High $ 19m | European | Dely Jul'22 basis SS/DD passed & BWTS fitted |
 | Handysize | Golden Maple | 32.527 | 2009 | Zhejiang, China | 12/2024 | MAN- B&W | 4x30T | $ 14m | Undisclosed | BWTS fitted |
 | Handysize | Asomatos | 28.498 | 2003 | Imabari, Japan | 04/2023 | MAN- B&W | 4x30,5T | $ 11,5m | Undisclosed |  |
 
@@ -105,8 +110,8 @@ A number of Continental trips into West Africa were reported at the level of usd
 | MR | Maersk Caelum | 45.999 | 2016 | Hyundai Mipo, Korea | 03/2026 | MAN- B&W | $ 230m enbloc | Korean (Kmarin) | BWTS fitted |
 | MR | Maersk Navigator | 45.999 | 2016 | Hyundai Mipo, Korea | 04/2026 | MAN- B&W | $ 230m enbloc | Korean (Kmarin) | BWTS fitted |
 | MR | Maersk Seafarer | 45.999 | 2016 | Hyundai Mipo, Korea | 09/2026 | MAN- B&W | $ 230m enbloc | Korean (Kmarin) | BWTS fitted |
-| MR | Maersk Altus | 39.999 | 2017 | Hyundai Mipo, Korea | 04/2027 | MAN- B&W | $ 230m | Korean (Kmarin) | BWTS fitted |
-| MR | Maersk Cirrus | 39.999 | 2017 | Hyundai Mipo, Korea | 08/2022 | MAN- B&W | enbloc | Korean (Kmarin) | BWTS fitted |
+| MR | Maersk Altus | 39.999 | 2017 | Hyundai Mipo, Korea | 04/2027 | MAN- B&W | $ 230m enbloc | Korean (Kmarin) | BWTS fitted |
+| MR | Maersk Cirrus | 39.999 | 2017 | Hyundai Mipo, Korea | 08/2022 | MAN- B&W | $ 230m enbloc | Korean (Kmarin) | BWTS fitted |
 | MR | Maersk Cumulus | 39.999 | 2016 | Hyundai Mipo, Korea | 10/2026 | MAN- B&W | $ 230m enbloc | Korean (Kmarin) | BWTS fitted |
 | MR | Maersk Nimbus | 39.999 | 2016 | Hyundai Mipo, Korea | 12/2026 | MAN- B&W | $ 230m enbloc | Korean (Kmarin) | BWTS fitted |
 | MR | Maersk Stratus | 39.999 | 2017 | Hyundai Mipo, Korea | 01/2027 | MAN- B&W | $ 230m enbloc | Korean (Kmarin) | BWTS fitted |

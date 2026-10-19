@@ -85,6 +85,7 @@ A number of Indonesian and Australian trips into China were reported at the leve
 | Panamax | Asia Graeca | 73.902 | 2004 | Namura & Sasebo, Japan | 09/2029 | B&W | - | Region $ 11m | Indonesian | BWTS fitted |
 | Ultramax | Erin Manx | 63.878 | 2020 | Tsuneishi Zhoushan, China | 05/2025 | MAN-B&W | 4x36T | Region $ 32,5m | Greek (White Sea Navigation) | BWTS fitted |
 | Ultramax | EY Haydn | 63.608 | 2015 | Chengxi, China | 08/2025 | MAN-B&W | 4x30T | Region $ 23,5m | Chinese | BWTS fitted |
+| Ultramax | Seacon Fuzhou | 63.342 | 2019 | Nantong, China | 05/2029 | MAN-B&W | 4x35T | $ 31,8m | Chinese (Shenyuan Leasing) | BWTS fitted |
 | Handysize | Emil Selmer | 32.626 | 2010 | Jiangsu, China | 12/2025 | MAN-B&W | 4x30,5T | $ 10,5m | Undisclosed | Old sale, BWTS fitted |
 
 ### Tankers
@@ -93,6 +94,7 @@ A number of Indonesian and Australian trips into China were reported at the leve
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Taiga | 311.141 | 2007 | Mitsui, Japan | 03/2027 | MAN-B&W | Region $ 44,5m | Chinese | BWTS fitted |
 | MR | Jag Padma | 47.999 | 2005 | Iwagi, Japan | 08/2028 | MAN-B&W | $ 17m | Undisclosed | BWTS fitted |
+| MR | Nina | 40.401 | 2010 | Constanta, Romania | 11/2025 | MAN-B&W | Region $ 24m | Greek (Ancora Investment) | BWTS fitted, Incl. T/C till Q4 25-Q1 26 at 24.000 usd/pd |
 | Chemical/Oil Products | Golden Oak | 13.168 | 2008 | Jinse, Korea | 05/2028 | MAN-B&W | $ 10,5m | Undisclosed | BWTS fitted |
 | Oil Products | Huitong 78 | 12.476 | 2012 | Zhoushan, China | 05/2027 | Chinese Std. Type | $ 7,2m | Undisclosed | BWTS fitted |
 

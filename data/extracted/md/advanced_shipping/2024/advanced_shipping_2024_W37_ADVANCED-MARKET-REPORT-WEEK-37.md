@@ -89,6 +89,7 @@ A generally quiet week for this segment. West African trips into Continent were 
 | Panamax | Apollon | 75.834 | 2003 | Sanoyas, Japan | 03/2027 | B&W | - | Undiscl | Chinese | July sale |
 | Ultramax | Amis Miracle | 62.601 | 2018 | Oshima, Japan | 01/2028 | MAN-B&W | 4x30T | $ 34,35m | Saudi Arabian (Bahri) | BWTS fitted |
 | Ultramax | Eternal Hakata | 61.353 | 2014 | Imabari, Japan | 02/2027 | MAN-B&W | 4x30T | $ 24,75m | Greek | BWTS fitted |
+| Supramax | Titan I | 58.090 | 2009 | Tsuneishi Cebu, Philippines | 11/2024 | MAN-B&W | 4x30T | $ 16m | Indonesian (Gurita Lintas Samudera) | BWTS fitted |
 | Supramax | Nasco Pearl | 56.861 | 2010 | Zhejiang, China | 11/2025 | MAN-B&W | 4x30T | High $ 12m | Chinese | BWTS fitted |
 | Supramax | Nasco Jade | 56.316 | 2010 | Zhejiang, China | 12/2025 | MAN-B&W | 4x30T | High $ 12m | Chinese | BWTS fitted |
 | Supramax | Imperial Eagle | 55.989 | 2010 | IHI, Japan | 02/2025 | Wartsila | 4x30T | Region $ 18m | Undisclosed | BWTS fitted, Scrubber fitted |

@@ -86,7 +86,11 @@ A generally quiet week for this segment. Mediterranean trips into US Gulf with c
 | Kamsarmax | Agri Grande | 81.966 | 2017 | Jiangsu, China | 01/2027 | MAN- B&W | - | $ 29,7m | Chinese | BWTS fitted |
 | Kamsarmax | Everglory | 81.666 | 2012 | Qingdao, China | 08/2022 | Wartsila | - | $ 19,5m | Undisclosed |  |
 | Kamsarmax | Renaissance | 81.666 | 2012 | Qingdao, China | 12/2022 | Wartsila | - | $ 19,5m | Undisclosed |  |
+| Panamax | Coral Opal | 78.090 | 2012 | Shin Kurushima, Japan | 03/2027 | MAN- B&W | - | Undisclosed | Undisclosed | BWTS fitted |
 | Ultramax | Ultra Initiator | 62.647 | 2019 | Oshima, Japan | 06/2024 | MAN- B&W | 4x30T | $ 36,5m | Far Eastern | BWTS fitted, DD 06/2022 |
+| Supramax | Friendly Seas | 58.779 | 2008 | Tsuneishi Zhoushan, China | 02/2023 | MAN- B&W | 4x30T | $ 18m | Chinese |  |
+| Supramax | Mandarin Fortune | 57.000 | 2008 | Jiangsu, China | 11/2023 | MAN- B&W | 4x35T | $ 14m | Undisclosed | BWTS fitted, T/C free dely Jun-Sep'22 |
+| Supramax | Mandarin Sky | 56.930 | 2009 | Jiangsu, China | 01/2024 | MAN- B&W | 4x35T | $ 14,5m | Undisclosed | BWTS fitted, T/C attached until May-Aug'22 at 96% BSI58 plus options for 6/9 months |
 | Supramax | HS Luck | 52.421 | 2002 | Tsuneishi, Japan | 05/2025 | MAN- B&W | 4x30T | $ 12m | Bangladeshi | Old sale |
 | Supramax | HS Winning | 51.104 | 2002 | Oshima, Japan | 06/2026 | B&W | 4x30T | $ 12,9m | Bangladeshi | Old sale, BWTS fitted |
 | Handysize | Kiwi Trader | 33.048 | 2000 | Hakodate, Japan | 07/2024 | Mitsubishi | 4x30,5T | Undisclosed | Chinese | BWTS fitted, DD 07/2022 |
@@ -117,11 +121,13 @@ A generally quiet week for this segment. Mediterranean trips into US Gulf with c
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | York | 8.648 | 2000 | Hyundai, Korea | 05/2025 | B&W | - | $ 61m |  | Low T/C |
+| Post Panamax | York | 8.648 | 2000 | Hyundai, Korea | 05/2025 | B&W | - | $ 61m |  | Low T/C attached until end 2022/ start 2023 |
 | Post Panamax | Sealand Illinois | 8.648 | 2000 | Hyundai, Korea | 02/2025 | B&W | - | $ 61m | Undisclosed | Low T/C attached until end 2022/ start 2023 |
-| Post Panamax | Sealand Michigan | 8.648 | 2000 | Hyundai, Korea | 10/2025 | B&W | - | $ 61m |  | start 2023 |
-| Post Panamax | Sealand Washington | 8.648 | 2000 | Hyundai, Korea | 08/2025 | B&W | - | $ 72,3m | Undisclosed | Low T/C attached until |
-| Post Panamax | Maersk Kalamata | 8.644 | 2003 | Hyundai, Korea | 06/2023 | B&W | - | $ 77,7m | Undisclosed | end 2022/ start 2023 |
+| Post Panamax | Sealand Michigan | 8.648 | 2000 | Hyundai, Korea | 10/2025 | B&W | - | $ 61m |  | Low T/C attached until end 2022/ start 2023 |
+| Post Panamax | Sealand Washington | 8.648 | 2000 | Hyundai, Korea | 08/2025 | B&W | - | $ 72,3m | Undisclosed | Low T/C attached until end 2022/ start 2023 |
+| Post Panamax | Maersk Kalamata | 8.644 | 2003 | Hyundai, Korea | 06/2023 | B&W | - | $ 77,7m | Undisclosed | Low T/C attached until end 2022/ start 2023 |
+| Post Panamax | Allegoria | 5.527 | 2006 | CSBC, Taiwan | 04/2026 | Sulzer | - | $ 109,5m | Taiwanese (Wan Hai Lines) |  |
+| Panamax | MP The Mcginest | 4.400 | 2010 | Hyundai Samho, Korea | 03/2025 | Wartsila | - | $ 40m | German | Index linked T/C attached until Jan'23- Jan'25 |
 | Feeder | Dongjin Aube | 1.060 | 2005 | Hakata, Japan | 08/2025 | B&W | - | Undisclosed | Swiss based (MSC) | BWTS fitted Scrubber fitted |
 
 ### Gas

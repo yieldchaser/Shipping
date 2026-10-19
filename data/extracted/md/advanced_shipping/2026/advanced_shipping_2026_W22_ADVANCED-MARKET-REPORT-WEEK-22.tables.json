@@ -211,13 +211,13 @@
       "YARD": "Sainty, China",
       "M_E": "MAN-B&W",
       "GEAR": "4x36T",
-      "PRICE": "$ 52,32m",
+      "PRICE": "$ 52,32m enbloc",
       "PRICE_USD_MILL": 52.32,
       "BUYERS": "Undisclosed",
       "SS": "01/2027",
       "COMMENTS": "Online bidding",
       "source_file": "advanced_shipping_2026_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf",
-      "extra_json": "{\"issue_date\": \"2026-05-29\", \"report_week\": \"22\", \"source_file\": \"advanced_shipping_2026_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf\", \"raw_price\": \"$ 52,32m\"}"
+      "extra_json": "{\"issue_date\": \"2026-05-29\", \"report_week\": \"22\", \"source_file\": \"advanced_shipping_2026_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf\", \"raw_price\": \"$ 52,32m enbloc\"}"
     },
     {
       "issue": "2026-05-29",
@@ -233,13 +233,13 @@
       "YARD": "Sainty, China",
       "M_E": "MAN-B&W",
       "GEAR": "4x30T",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 52,32m enbloc",
+      "PRICE_USD_MILL": 52.32,
       "BUYERS": "Undisclosed",
       "SS": "06/2027",
       "COMMENTS": "Online bidding",
       "source_file": "advanced_shipping_2026_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf",
-      "extra_json": "{\"issue_date\": \"2026-05-29\", \"report_week\": \"22\", \"source_file\": \"advanced_shipping_2026_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2026-05-29\", \"report_week\": \"22\", \"source_file\": \"advanced_shipping_2026_W22_ADVANCED-MARKET-REPORT-WEEK-22.pdf\", \"raw_price\": \"$ 52,32m enbloc\"}"
     },
     {
       "issue": "2026-05-29",

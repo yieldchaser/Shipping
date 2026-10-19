@@ -79,8 +79,8 @@ Trips from China into Australia were fixed around usd 12,000/13,000 pd. A number
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capesize | K. Daphne | 180.786 | 2009 | Stx, Korea | 12/2024 | MAN-B&W | - | $ 53,5m | Chinese | BWTS fitted |
-| Capesize | Lavender | 179.873 | 2010 | Daewoo, Korea | 08/2025 | MAN-B&W | - | enbloc | Chinese | BWTS fitted |
+| Capesize | K. Daphne | 180.786 | 2009 | Stx, Korea | 12/2024 | MAN-B&W | - | $ 53,5m enbloc | Chinese | BWTS fitted |
+| Capesize | Lavender | 179.873 | 2010 | Daewoo, Korea | 08/2025 | MAN-B&W | - | $ 53,5m enbloc | Chinese | BWTS fitted |
 | Capesize | SG Express | 180.157 | 2009 | Dalian, China | 11/2024 | MAN-B&W | - | $ 26m | Undisclosed | BWTS fitted |
 | Capesize | Sealeader II | 180.099 | 2011 | Qingdao, China | 01/2026 | MAN-B&W | - | $ 28m | Chinese | BWTS fitted |
 | Capesize | Spring Bright | 174.757 | 2010 | Namura & Sasebo, Japan | 01/2025 | MAN-B&W | - | High $ 27m | Undisclosed | BWTS fitted |
@@ -93,6 +93,7 @@ Trips from China into Australia were fixed around usd 12,000/13,000 pd. A number
 | Supramax | Paro | 55.691 | 2009 | Mitsui, Japan | 12/2024 | MAN-B&W | 4x30T | High $ 14m | Chinese | BWTS fitted |
 | Handysize | Ultra Bosque | 40.261 | 2020 | Jiangmen, China | 10/2025 | MAN-B&W | 4x30T | Region $ 27m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Kujawy | 38.890 | 2005 | Tianjin, China | 01/2025 | Sulzer | 4x30T | Region $ 8m | Undisclosed | BWTS fitted, Ice Class 1C |
+| Handysize | Ken Ryu | 31.949 | 2002 | Saiki, Japan | 06/2027 | Mitsubishi | 4x30T | $ 6,9m | Chinese | OHBS, BWTS fitted, DD 01/2025 |
 | Handysize | Sophia Ocean | 29.952 | 1999 | Oshima, Japan | 03/2029 | B&W | 4x30T | $ 5,3m | Undisclosed | BWTS fitted |
 
 ## Page 4
@@ -123,6 +124,7 @@ Trips from China into Australia were fixed around usd 12,000/13,000 pd. A number
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Bashundhara LPG Challenger | 53.677 | 2003 | Kawasaki, Japan | 01/2028 | MAN-B&W | 80.906 | Mid-High $ 50's | Thai (Siam Gas) |  |
 | LPG | Manifesto | 54.901 | 2013 | Hyundai, Korea | 05/2028 | MAN-B&W | 80.554 | $ 71,5m | Thai (Siam Gas) |  |
 | LPG | Navigator Pegasus | 23.640 | 2009 | Jiangnan, China | 06/2029 | MAN-B&W | 21.768 | $ 32m | Undisclosed | Ice Class II |
 

@@ -101,13 +101,13 @@
       "YARD": "HHIC, Philippines",
       "M_E": "MAN-B&W",
       "GEAR": "-",
-      "PRICE": "$ 88m",
+      "PRICE": "$ 88m enbloc",
       "PRICE_USD_MILL": 88.0,
       "BUYERS": "Undisclosed",
       "SS": "04/2028",
       "COMMENTS": "DD 07/2026",
       "source_file": "advanced_shipping_2026_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
-      "extra_json": "{\"issue_date\": \"2026-06-26\", \"report_week\": \"26\", \"source_file\": \"advanced_shipping_2026_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf\", \"raw_price\": \"$ 88m\"}"
+      "extra_json": "{\"issue_date\": \"2026-06-26\", \"report_week\": \"26\", \"source_file\": \"advanced_shipping_2026_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf\", \"raw_price\": \"$ 88m enbloc\"}"
     },
     {
       "issue": "2026-06-26",
@@ -123,13 +123,13 @@
       "YARD": "HHIC, Philippines",
       "M_E": "MAN-B&W",
       "GEAR": "-",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 88m enbloc",
+      "PRICE_USD_MILL": 88.0,
       "BUYERS": "Undisclosed",
       "SS": "06/2027",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2026_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
-      "extra_json": "{\"issue_date\": \"2026-06-26\", \"report_week\": \"26\", \"source_file\": \"advanced_shipping_2026_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2026-06-26\", \"report_week\": \"26\", \"source_file\": \"advanced_shipping_2026_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf\", \"raw_price\": \"$ 88m enbloc\"}"
     },
     {
       "issue": "2026-06-26",
@@ -174,6 +174,28 @@
       "COMMENTS": "Scrubber fitted",
       "source_file": "advanced_shipping_2026_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "extra_json": "{\"issue_date\": \"2026-06-26\", \"report_week\": \"26\", \"source_file\": \"advanced_shipping_2026_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf\", \"raw_price\": \"High $ 15m\"}"
+    },
+    {
+      "issue": "2026-06-26",
+      "report_week": "26",
+      "section": "Bulk Carriers",
+      "page": "3",
+      "NAME": "Seacon Hamburg",
+      "TYPE": "Kamsarmax",
+      "DWT": "85,505",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "2023",
+      "YARD": "Huangpu Wenchong, China",
+      "M_E": "MAN-B&W",
+      "GEAR": "-",
+      "PRICE": "$ 37,5m",
+      "PRICE_USD_MILL": 37.5,
+      "BUYERS": "Greek (Castor Maritime)",
+      "SS": "04/2028",
+      "COMMENTS": "",
+      "source_file": "advanced_shipping_2026_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
+      "extra_json": "{\"issue_date\": \"2026-06-26\", \"report_week\": \"26\", \"source_file\": \"advanced_shipping_2026_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf\", \"raw_price\": \"$ 37,5m\"}"
     },
     {
       "issue": "2026-06-26",

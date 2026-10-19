@@ -180,6 +180,28 @@
       "report_week": "29",
       "section": "Bulk Carriers",
       "page": "3",
+      "NAME": "Belmar",
+      "TYPE": "Ultramax",
+      "DWT": "63,641",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "2021",
+      "YARD": "Tadotsu, Japan",
+      "M_E": "MAN-B&W",
+      "GEAR": "4x30,5T",
+      "PRICE": "$ 25,5m",
+      "PRICE_USD_MILL": 25.5,
+      "BUYERS": "Norwegian (Belships)",
+      "SS": "09/2026",
+      "COMMENTS": "P.option declared, BWTS fitted",
+      "source_file": "advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
+      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 25,5m\"}"
+    },
+    {
+      "issue": "2024-07-19",
+      "report_week": "29",
+      "section": "Bulk Carriers",
+      "page": "3",
       "NAME": "Royal Samurai",
       "TYPE": "Supramax",
       "DWT": "58,091",
@@ -196,6 +218,28 @@
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
       "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 17,3m\"}"
+    },
+    {
+      "issue": "2024-07-19",
+      "report_week": "29",
+      "section": "Bulk Carriers",
+      "page": "3",
+      "NAME": "Seacon Yantai",
+      "TYPE": "Supramax",
+      "DWT": "56,944",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "2010",
+      "YARD": "Cosco, China",
+      "M_E": "MAN-B&W",
+      "GEAR": "4x30T",
+      "PRICE": "Mid-High $ 13m",
+      "PRICE_USD_MILL": 13.0,
+      "BUYERS": "Indonedian (PT Primatama Energi Mandiri)",
+      "SS": "08/2025",
+      "COMMENTS": "BWTS fitted",
+      "source_file": "advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
+      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"Mid-High $ 13m\"}"
     },
     {
       "issue": "2024-07-19",
@@ -233,13 +277,13 @@
       "YARD": "Jiangmen, China",
       "M_E": "MAN-B&W",
       "GEAR": "4x30T",
-      "PRICE": "$ 78m",
+      "PRICE": "$ 78m enbloc",
       "PRICE_USD_MILL": 78.0,
-      "BUYERS": "Thai (Precious",
+      "BUYERS": "Thai (Precious Shipping)",
       "SS": "04/2025",
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
-      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 78m\"}"
+      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 78m enbloc\"}"
     },
     {
       "issue": "2024-07-19",
@@ -255,13 +299,13 @@
       "YARD": "Jiangmen, China",
       "M_E": "MAN-B&W",
       "GEAR": "4x30T",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
-      "BUYERS": "Shipping)",
+      "PRICE": "$ 78m enbloc",
+      "PRICE_USD_MILL": 78.0,
+      "BUYERS": "Thai (Precious Shipping)",
       "SS": "07/2025",
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
-      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 78m enbloc\"}"
     },
     {
       "issue": "2024-07-19",
@@ -299,13 +343,13 @@
       "YARD": "Hyundai Mipo, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "4x30,5T",
-      "PRICE": "$ 30,6m",
+      "PRICE": "$ 30,6m enbloc",
       "PRICE_USD_MILL": 30.6,
       "BUYERS": "Undisclosed",
       "SS": "05/2026",
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
-      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 30,6m\"}"
+      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 30,6m enbloc\"}"
     },
     {
       "issue": "2024-07-19",
@@ -321,13 +365,13 @@
       "YARD": "Hyundai Mipo, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "4x30,5T",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 30,6m enbloc",
+      "PRICE_USD_MILL": 30.6,
       "BUYERS": "Undisclosed",
       "SS": "04/2025",
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
-      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 30,6m enbloc\"}"
     },
     {
       "issue": "2024-07-19",
@@ -453,13 +497,13 @@
       "YARD": "Hyundai Mipo, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "",
-      "PRICE": "$ 340m enbloc",
+      "PRICE": "$ 340m enbloc (Cash & Shares)",
       "PRICE_USD_MILL": 340.0,
       "BUYERS": "Danish (TORM)",
       "SS": "06/2024",
       "COMMENTS": "Scrubber fitted",
       "source_file": "advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
-      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 340m enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 340m enbloc (Cash & Shares)\"}"
     },
     {
       "issue": "2024-07-19",
@@ -475,13 +519,13 @@
       "YARD": "Hyundai Mipo, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "",
-      "PRICE": "(Cash & Shares)",
-      "PRICE_USD_MILL": null,
+      "PRICE": "$ 340m enbloc (Cash & Shares)",
+      "PRICE_USD_MILL": 340.0,
       "BUYERS": "Danish (TORM)",
       "SS": "08/2024",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf",
-      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"(Cash & Shares)\"}"
+      "extra_json": "{\"issue_date\": \"2024-07-19\", \"report_week\": \"29\", \"source_file\": \"advanced_shipping_2024_W29_ADVANCED-MARKET-REPORT-WEEK-29.pdf\", \"raw_price\": \"$ 340m enbloc (Cash & Shares)\"}"
     },
     {
       "issue": "2024-07-19",

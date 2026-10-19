@@ -79,6 +79,7 @@ A generally quiet week for this segment. A number of trips from North Vietnam vi
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kamsarmax | Jiangsu Yangzi-Mitsui YZJ2015-2686 | 82.300 | 2022 | Jiangsu, China |  | MAN- B&W | - | $ 38,5m | Greek | Resale, Built Jan'22 |
 | Kamsarmax | Seacon Shanghai | 82.000 | 2019 | Guangzhou, China | 06/2024 | MAN- B&W | - | $ 38m | Undisclosed | BWTS fitted |
 | Ultramax | Sunleaf Grace | 61.683 | 2011 | Oshima, Japan | 08/2023 | MAN- B&W | 4x30T | $ 21,5m | Undisclosed | Dely Mar- May'22 |
 | Supramax | Sophia N | 56.868 | 2009 | Qingshan, China | 08/2024 | MAN- B&W | 4x30T | $ 17,75m | Undisclosed | BWTS fitted |
@@ -114,14 +115,17 @@ A generally quiet week for this segment. A number of trips from North Vietnam vi
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | Cartagena Trader | 3.534 | 2008 | Shanghai, China | 03/2023 | MAN-B&W | - | Undisclosed | French (CMA CGM) |  |
+| Feeder | Asturiano II | 1.368 | 2012 | Avic, China | 03/2022 | MAN-B&W | 2x40T | Undisclosed | UAE based (Safeen Feeders) |  |
 
 ### General Cargo
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| General Cargo | AAL Mars | 33.200 | 2011 | Zhejiang, China | 11/2025 | MAN-B&W | 4x60T | $ 35m | Undisclosed | 1.158 TEU |
-| General Cargo | AAL Merkur | 33.192 | 2010 | Zhejiang, China | 10/2025 | MAN-B&W | 4x60T | enbloc | Undisclosed | 1.158 TEU |
+| General Cargo | AAL Mars | 33.200 | 2011 | Zhejiang, China | 11/2025 | MAN-B&W | 4x60T | $ 35m enbloc | Undisclosed | 1.158 TEU |
+| General Cargo | AAL Merkur | 33.192 | 2010 | Zhejiang, China | 10/2025 | MAN-B&W | 4x60T | $ 35m enbloc | Undisclosed | 1.158 TEU |
 | General Cargo | Mariwit | 12.190 | 2009 | Liaoning, China | 07/2024 | Hanshin | 2x30T Cr 2x25T Der | $ 5,8m | Chinese |  |
+| General Cargo | Mighty Champ | 10.084 | 2005 | Shin Kurushima, Japan | 02/2025 | B&W | 2x30,7T Cr 1x30T Der | Region $ 6m | Undisclosed |  |
+| General Cargo | Mighty Boss | 10.074 | 2004 | Shin Kurushima, Japan | 11/2024 | B&W | 2x30,7T Cr 1x30T Der | Region $ 6m | Undisclosed | BWTS fitted |
 
 ## Page 5
 

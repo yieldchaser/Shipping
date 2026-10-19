@@ -79,14 +79,22 @@ A generally quiet week for this segment. A number of Continental trips into US G
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kamsarmax | Lena B | 81.922 | 2017 | Tsuneishi Zhoushan, China | 01/2022 | MAN- B&W | - | $ 35m | Vietnamese (Hoa Phat) | BWTS fitted, Dely Nov- Dec'21 |
+| Panamax | Orient Violet | 77.111 | 2015 | Imabari, Japan | 04/2025 | MAN- B&W | - | Low $ 30m | Greek (TMS Shipping) | BWTS fitted, Dely Nov- Dec'21 |
 | Panamax | Shandong Hai Chang | 75.200 | 2011 | Penglai, China | 01/2022 | MAN- B&W | - | $ 16,73m | Undisclosed | Auction sale |
 | Panamax | Banasol | 72.562 | 2001 | Oshima, Japan | 01/2026 | B&W | - | Region $ 14m | Chinese | BWTS fitted |
 | Ultramax | Kanoura | 61.396 | 2013 | Iwagi, Japan | 04/2026 | MAN- B&W | 4x30,7T | $ 28,4m | Undisclosed | BWTS fitted |
+| Supramax | Carmencita | 58.773 | 2009 | Tsuneishi Cebu, Philippines | 05/2024 | MAN- B&W | 4x30T | $ 21m | Undisclosed | BWTS fitted |
 | Supramax | WP Brave | 58.627 | 2012 | Spp, Korea | 07/2022 | MAN- B&W | 4x30T | $ 21,75m | Undisclosed |  |
 | Supramax | Ikan Selayang | 56.139 | 2013 | Mitsui, Japan | 04/2026 | MAN- B&W | 4x30T | $ 26,5m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Supramax | Shandong Hai Sheng | 56.531 | 2011 | Yangzhou, China | 10/2021 | Wartsila | 4x36T | $ 17,1m | Chinese | Auction sale, BWTS fitted |
 | Supramax | Atlantic Yucatan | 55.863 | 2006 | Kawasaki, Japan | 03/2023 | MAN- B&W | 4x30,5T | Low-Mid $ 17m | Undisclosed |  |
-| Handysize | Kambos | 33.225 | 2008 | Shin Kochi, Japan | 08/2023 | Mitsubishi | 4x30T | Undisclosed | (Taylor Maritime) | Old sales |
+| Handysize | Federal Danube | 37.116 | 2004 | New Century, China | 04/2024 | B&W | 4x40T | $ 23m enbloc | Undisclosed | Lakes-fitted, BWTS fitted, Ice Class 1C, Dely Nov'21-Jan'22 |
+| Handysize | Federal Elbe | 37.058 | 2003 | New Century, China | 12/2023 | B&W | 4x40T | $ 23m enbloc | Undisclosed | Lakes-fitted, BWTS fitted, Ice Class 1C, Dely Nov'21-Jan'22 |
+| Handysize | Xing Ning Hai | 34.443 | 2015 | Namura & Sasebo, Japan | 07/2025 | MAN- B&W | 4x30T | Region $ 23m | Undisclosed | BWTS fitted |
+| Handysize | Global Passion | 33.686 | 2011 | Shin Kochi, Japan | 01/2026 | Mitsubishi | 4x30T | $ 17,5m | Undisclosed | OHBS, BWTS fitted, Dely Nov'21-Jan'22 |
+| Handysize | Skala | 33.628 | 2012 | Shin Kurushima, Japan | 06/2022 | Mitsubishi | 4x30T | Undisclosed | HK based (Taylor Maritime) | Old sales |
+| Handysize | Kambos | 33.225 | 2008 | Shin Kochi, Japan | 08/2023 | Mitsubishi | 4x30T | Undisclosed | HK based (Taylor Maritime) | Old sales |
 
 ## Page 4
 
@@ -103,11 +111,11 @@ A generally quiet week for this segment. A number of Continental trips into US G
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Gilos | 319.247 | 2004 | Hyundai Samho, Korea | 10/2024 | B&W | $ 29m | Undisclosed |  |
-| LR2 | Navig8 Pride LHJ | 110.928 | 2018 | New Times, China | 08/2023 | MAN- B&W | $ 48m | US based | Scrubber fitted |
-| LR2 | Navig8 Providence | 110.928 | 2018 | New Times, China | 08/2023 | MAN- B&W | $ 48m | (JP Morgan) | Scrubber fitted |
+| LR2 | Navig8 Pride LHJ | 110.928 | 2018 | New Times, China | 08/2023 | MAN- B&W | $ 48m | US based (JP Morgan) | Scrubber fitted |
+| LR2 | Navig8 Providence | 110.928 | 2018 | New Times, China | 08/2023 | MAN- B&W | $ 48m | US based (JP Morgan) | Scrubber fitted |
 | Aframax | Aspasia Lemos | 105.188 | 2009 | Hyundai, Korea | 04/2024 | MAN- B&W | Undisclosed | Greek | BWTS fitted |
-| MR | Eco Los Angeles | 50.185 | 2020 | Hyundai Mipo, Korea | 02/2025 | MAN- B&W | $ 36,5m | Danish (Norden) | BWTS fitted, Scrubber fitted, T/C to Trafigura |
-| MR | Eco City of Angels | 49.815 | 2020 | Hyundai Mipo, Korea | 02/2025 | MAN- B&W | $ 36,5m | Danish (Norden) | T/C to Trafigura for 2 years at 17.500 usd/pd |
+| MR | Eco Los Angeles | 50.185 | 2020 | Hyundai Mipo, Korea | 02/2025 | MAN- B&W | $ 36,5m | Danish (Norden) | BWTS fitted, Scrubber fitted, T/C to Trafigura for 2 years at 17.500 usd/pd |
+| MR | Eco City of Angels | 49.815 | 2020 | Hyundai Mipo, Korea | 02/2025 | MAN- B&W | $ 36,5m | Danish (Norden) | BWTS fitted, Scrubber fitted, T/C to Trafigura for 2 years at 17.500 usd/pd |
 | MR | K Shipbuilding 1928 | 49.800 | 2022 | K, Korea |  | MAN- B&W | $ 37,8m | Greek (Eastmed) | Resales |
 | MR | K Shipbuilding 1929 | 49.800 | 2022 | K, Korea |  | MAN- B&W | $ 37,8m | Greek (Eastmed) | Resales |
 | MR | Stenaweco Impulse | 49.762 | 2016 | Guangzhou, China | 03/2026 | MAN- B&W | $ 29m | Chinese |  |
@@ -119,19 +127,20 @@ A generally quiet week for this segment. A number of Continental trips into US G
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Panamax | ALS Fauna | 4.275 | 2008 | Samsung, Korea | 11/2023 | Wartsila | - | Undisclosed | Israeli (Zim Integrated |  |
-| Panamax | ALS Juno | 4.256 | 2009 | Jiangsu, China | 04/2024 | MAN-B&W | - | Undisclosed | Integrated Shipping) |  |
-| Panamax | Harpy Hunter | 4.255 | 2009 | Hyundai, Korea | 08/2024 | Wartsila | - | Undisclosed | Israeli (Zim Integrated |  |
-| Panamax | Heron Hunter | 4.255 | 2009 | Hyundai, Korea | 05/2024 | Wartsila | - | Undisclosed | Integrated Shipping) |  |
+| Panamax | ALS Fauna | 4.275 | 2008 | Samsung, Korea | 11/2023 | Wartsila | - | Undisclosed | Israeli (Zim Integrated Shipping) |  |
+| Panamax | ALS Juno | 4.256 | 2009 | Jiangsu, China | 04/2024 | MAN-B&W | - | Undisclosed | Israeli (Zim Integrated Shipping) |  |
+| Panamax | Harpy Hunter | 4.255 | 2009 | Hyundai, Korea | 08/2024 | Wartsila | - | Undisclosed | Israeli (Zim Integrated Shipping) |  |
+| Panamax | Heron Hunter | 4.255 | 2009 | Hyundai, Korea | 05/2024 | Wartsila | - | Undisclosed | Israeli (Zim Integrated Shipping) |  |
 | Sub Panamax | GH Meltemi | 2.796 | 2010 | Guangzhou, China | 09/2025 | Wartsila | 4x45T | $ 35m | Swiss (MSC) |  |
+| Sub Panamax | Georgia Trader | 2.127 | 2007 | Aker MTW Werft, Germany | 11/2022 | Wartsila | 3x45T | $ 33m | Swiss (MSC) |  |
 | Feeder | Viking Merlin | 1.740 | 2014 | Guangzhou, China | 04/2024 | MAN-B&W | 2x45T | $ 33m | French (CMA CGM) | Dely Jan- Feb'22 |
 
 ### Gas
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LNG | Gaslog Shanghai | 82.104 | 2013 | Samsung, Korea | 01/2023 | Wartsila | 151.900 | $ 120m | Chinese | Incl. 5years |
-| LNG | Gaslog Salem | 82.023 | 2015 | Samsung, Korea | 04/2025 | Wartsila | 151.900 | $ 128m | (CDBL) | BBB |
+| LNG | Gaslog Shanghai | 82.104 | 2013 | Samsung, Korea | 01/2023 | Wartsila | 151.900 | $ 120m | Chinese (CDBL) | Incl. 5years BBB |
+| LNG | Gaslog Salem | 82.023 | 2015 | Samsung, Korea | 04/2025 | Wartsila | 151.900 | $ 128m | Chinese (CDBL) | Incl. 5years BBB |
 | LPG | Iris Glory | 54.707 | 2008 | Daewoo, Korea | 03/2023 | MAN-B&W | 82.026 | $ 41,65m | Japanese | Incl. 9years BBB |
 | LPG | Happy Bride | 4.999 | 1999 | Hyundai, Korea | 05/2024 | B&W | 6.261 | $ 4,7m | Turkish (Hargaz) |  |
 

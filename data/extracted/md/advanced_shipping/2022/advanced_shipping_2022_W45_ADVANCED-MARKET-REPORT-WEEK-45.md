@@ -84,21 +84,24 @@ A number of Japanese trips into Southeast Asia with slag were fixed around usd 9
 | Post Panamax | CMB Van Mieghem | 95.737 | 2011 | Imabari, Japan | 08/2026 | MAN- B&W | - | $ 21m | Swiss | BWTS fitted |
 | Kamsarmax | Ocean Rosemary | 82.265 | 2013 | Dalian, China | 04/2023 | MAN- B&W | - | Region $ 21m | Undisclosed | BWTS fitted |
 | Ultramax | Caro Padre | 63.227 | 2012 | Yangzhou, China | 12/2022 | MAN- B&W | 4x35T | Excess $ 21m | Chinese |  |
+| Supramax | Bulk Carina | 57.819 | 2016 | Tsuneishi Cebu, Philippines | 12/2026 | MAN- B&W | 4x30T | $ 22m | Greek | BWTS fitted |
+| Supramax | Jin Feng | 52.686 | 2004 | Oshima, Japan | 12/2024 | MAN- B&W | 4x30T | $ 13,3m | Hong Kong (Xinfeng HK Shipping) | BWTS fitted |
+| Supramax | Worldera-6 | 52.292 | 2005 | Tsuneishi Cebu, Philippines | 12/2025 | B&W | 4x30T | Low-Mid $ 12m | Undisclosed | BWTS fitted |
 | Handysize | Belle Etoile | 28.230 | 2014 | I-S, Japan | 10/2024 | MAN- B&W | 4x30,5T | $ 14m | Undisclosed | BWTS fitted |
 
 ### Tankers
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | Elandra Denali | 299.999 | 2020 | Hyundai, Korea | 03/2025 | MAN- B&W | $ 112m | Saudi Arabia | BWTS fitted, Scrubber fitted |
-| VLCC | Elandra Elbrus | 299.999 | 2020 | Hyundai, Korea | 01/2025 | MAN- B&W | $ 112m | (Bahri) | BWTS fitted, Scrubber fitted |
+| VLCC | Elandra Denali | 299.999 | 2020 | Hyundai, Korea | 03/2025 | MAN- B&W | $ 112m | Saudi Arabia (Bahri) | BWTS fitted, Scrubber fitted |
+| VLCC | Elandra Elbrus | 299.999 | 2020 | Hyundai, Korea | 01/2025 | MAN- B&W | $ 112m | Saudi Arabia (Bahri) | BWTS fitted, Scrubber fitted |
 | Suezmax | Ridgebury Nicholas A | 159.395 | 2007 | Universal, Japan | 01/2023 | MAN- B&W | $ 34m | Undisclosed | Scrubber fitted |
 | LR1 | Ortolan Coco | 74.992 | 2008 | Brodosplit, Croatia | 04/2023 | MAN- B&W | $ 20,5m | Undisclosed | Ice Class 1A, Forward Dely |
 | LR1 | Liberty | 74.862 | 2009 | Stx, Korea | 07/2024 | MAN- B&W | $ 23m | Undisclosed | Delivered |
 | LR1 | Nordic Tristan | 73.604 | 2007 | New Times, China | 03/2027 | MAN- B&W | $ 20,5m | Undisclosed | BWTS fitted |
 | MR | Erawan 10 | 44.998 | 2003 | Iwagi, Japan | 07/2023 | MAN- B&W | $ 12m | Far Eastern |  |
-| MR | PSS Vitality | 37.297 | 2002 | Hyundai Mipo, Korea | 01/2027 | B&W | Excess $ 25m | Far Eastern | Ice Class 1B |
-| MR | PSS Energy | 37.255 | 2001 | Hyundai Mipo, Korea | 12/2026 | B&W | $ 25m enbloc | Far Eastern | Ice Class 1B |
+| MR | PSS Vitality | 37.297 | 2002 | Hyundai Mipo, Korea | 01/2027 | B&W | Excess $ 25m enbloc | Far Eastern | Ice Class 1B |
+| MR | PSS Energy | 37.255 | 2001 | Hyundai Mipo, Korea | 12/2026 | B&W | Excess $ 25m enbloc | Far Eastern | Ice Class 1B |
 
 ## Page 4
 
@@ -112,8 +115,11 @@ A number of Japanese trips into Southeast Asia with slag were fixed around usd 9
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LNG | Kool Boreas | 93.585 | 2015 | Stx, Korea | 04/2025 | MAN | 167.158 | enbloc | (CoolCo) |  |
+| LNG | Kool Orca | 93.000 | 2021 | Hyundai Samho, Korea | 01/2026 | WinGD | 170.551 | $ 660m enbloc | Norwegian (CoolCo) |  |
+| LNG | Kool Firn | 93.000 | 2020 | Hyundai Samho, Korea | 09/2025 | WinGD | 170.479 | $ 660m enbloc | Norwegian (CoolCo) |  |
+| LNG | Kool Boreas | 93.585 | 2015 | Stx, Korea | 04/2025 | MAN | 167.158 | $ 660m enbloc | Norwegian (CoolCo) |  |
 | LNG | Kool Baltic | 93.508 | 2015 | Stx, Korea | 01/2025 | MAN | 167.062 | $ 660m enbloc | Norwegian (CoolCo) |  |
+| LNG | Methane Heather Sally | 79.084 | 2007 | Samsung, Korea | 07/2025 | Kawasaki | 142.100 | $ 50m | Chinese (Shandong Shipping) | Incl. BBB charter |
 
 ## Page 5
 

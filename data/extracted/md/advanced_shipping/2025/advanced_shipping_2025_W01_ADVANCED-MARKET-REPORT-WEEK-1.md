@@ -60,6 +60,7 @@ The MR2 "Kyra" 47/2006 Iwagi, Japan (SS/DD 01/2026, BWTS fitted) was committed t
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Newcastlemax | Sikamia | 207.923 | 2008 | Universal, Japan | 08/2028 | MAN-B&W | - | $ 29m | Chinese | Scrubber fitted |
+| Newcastlemax | Panoramix | 203.512 | 2007 | CSBC, China | 12/2026 | MAN-B&W | - | $ 28m | Chinese | Delivered, BWTS fitted, Scrubber fitted |
 | Kamsarmax | Bettys Dream | 82.641 | 2008 | Tsuneishi, Japan | 12/2025 | MAN-B&W | - | $ 12,8m | Chinese | BWTS fitted |
 | Kamsarmax | Ru Meng Ling | 81.487 | 2010 | Universal, Japan | 04/2025 | MAN-B&W | - | $ 15,4m | Greek | BWTS fitted |
 | Ultramax | GLBS Magic | 64.195 | 2024 | NACKS, China | 09/2029 | MAN-B&W | 4x30T | $ 25m | Japanese | BWTS fitted, Sale & BB back |
@@ -72,7 +73,9 @@ The MR2 "Kyra" 47/2006 Iwagi, Japan (SS/DD 01/2026, BWTS fitted) was committed t
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aframax | Crude Centurion | 112.863 | 2010 | New Times, China | 05/2025 | MAN-B&W | $ 33,5m | Undisclosed | BWTS fitted |
 | MR | Kyra | 47.931 | 2006 | Iwagi, Japan | 01/2026 | MAN-B&W | $ 17,1m | Undisclosed | BWTS fitted |
+| MR | Torm Helvig | 46.081 | 2005 | Stx, Korea | 04/2025 | B&W | $ 18m | Undisclosed | Delivered, BWTS fitted, Scrubber fitted |
 | MR | Chiba | 45.975 | 2007 | Shin Kurushima, Japan | 01/2027 | MAN-B&W | $ 17m | Undisclosed | BWTS fitted, DD 04/2025 |
+| Chemical/Oil Products | DH Honesty | 13.148 | 2021 | Nantong, China | 03/2026 | WinGD | $ 25,6m | Chinese | Online auction, BWTS fitted St St, Ice Class II |
 | Chemical/Oil Products | Dai Thanh | 13.068 | 2007 | 21st Century, Korea | 04/2027 | MAN-B&W | $ 9,5m | Undisclosed | BWTS fitted |
 
 ## Page 3

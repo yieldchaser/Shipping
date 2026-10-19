@@ -95,6 +95,7 @@ Arabian Gulf trips into West Coast India were reported at the level of usd 12,00
 | Suezmax | Jag Lok | 158.280 | 2005 | Hyundai Samho, Korea | 06/2028 | MAN-B&W | $ 25,5m | Chinese | Scrubber fitted, Ice Class 1B |
 | Suezmax | Heather Knutsen | 148.644 | 2005 | Samsung, Korea | 03/2030 | MAN-B&W | $ 33m | Undisclosed | Shuttle tanker |
 | LR1 | Palm | 74.999 | 2005 | Hyundai, Korea | 02/2029 | B&W | $ 12,75m | Undisclosed |  |
+| MR | Nave Pulsar | 50.922 | 2007 | Stx, Korea | 10/2027 | MAN-B&W | $ 14m | Undisclosed | Delivered, Ice Class 1A, DD 11/2025 |
 | MR | Elandra Corallo | 50.607 | 2008 | Spp, Korea | 10/2028 | MAN-B&W | xs $ 17m | Greek (Ancora Investment Trust) |  |
 | Chemical/Oil Products | Camelia | 12.306 | 2007 | Sasaki, Japan | 04/2027 | MAN-B&W | $ 9,8m | Undisclosed |  |
 

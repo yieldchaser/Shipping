@@ -79,16 +79,20 @@ A generally quiet week for this segment. A number of South East Asian trips via 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | HL Harmony | 179.655 | 2015 | Dalian, China | 08/2025 | MAN-B&W | - | $ 43m | Undisclosed | BWTS fitted, Scrubber fitted, T/C back till Oct'26-Jan'27 at 24.000 usd/pd |
 | Post Panamax | Lowlands Rise | 95.711 | 2013 | Imabari, Japan | 06/2026 | MAN-B&W | - | Low $ 26m | Undisclosed | DD 05/2024 |
 | Kamsarmax | YMK Quartet | 82.212 | 2021 | Jiangsu, China | 02/2026 | MAN-B&W | - | High $ 35m | Greek | BWTS fitted |
 | Kamsarmax | Scarlet Island | 81.842 | 2014 | Tsuneishi Cebu, Philippines | 08/2024 | MAN-B&W | - | $ 29m | Greek | BWTS fitted |
 | Panamax | Glory Amsterdam | 77.171 | 2006 | Oshima, Japan | 04/2026 | MAN-B&W | - | $ 12m | Chinese | BWTS fitted |
+| Ultramax | African Lion | 66.721 | 2013 | Mitsui, Japan | 02/2027 | MAN-B&W | 4x30T | Region $ 25m | Undisclosed | BWTS fitted, Scrubber fitted, Dely Jun-Jul'24 |
 | Ultramax | Aries Sumire | 64.276 | 2020 | Shin Kurushima, Japan | 11/2025 | MAN-B&W | 4x30,7T | Region $ 36m | Undisclosed | BWTS fitted |
+| Ultramax | Kmarin Genoa | 63.253 | 2014 | Jiangsu, China | 12/2024 | MAN-B&W | 4x36T | $ 20m | Undisclosed | BWTS fitted, T/C attached till Sep'24-Mar'25 at 10.100 usd/pd |
 | Ultramax | Maritime Prosperity | 61.453 | 2012 | Shin Kasado, Japan | 11/2027 | MAN-B&W | 4x30,5T | Region $ 22m | Greek | BWTS fitted, Dely Jun'24 |
 | Supramax | Daidan Mustikawati | 55.765 | 2005 | Kawasaki, Japan | 01/2025 | B&W | 4x30,5T | $ 11m | Chinese |  |
 | Handysize | Susanoo Harmony | 37.140 | 2020 | Saiki, Japan | 10/2025 | MAN-B&W | 4x30T | $ 29,5m | Undisclosed | BWTS fitted |
 | Handysize | New Journey | 36.371 | 2015 | Shikoku, Japan | 03/2025 | MAN-B&W | 4x30,5T | $ 20m | Undisclosed | BWTS fitted |
 | Handysize | Morges | 35.697 | 2011 | Shinan, Korea | 12/2026 | MAN-B&W | 4x30T | Mid $ 14m | Undisclosed | BWTS fitted |
+| Handysize | FW Excursionist | 34.484 | 2019 | Hakodate, Japan | 08/2024 | MAN-B&W | 4x30T | $ 27m | Turkish (Dadaylilar Shipping) | BWTS fitted |
 | Handysize | Salvador | 31.770 | 2002 | Saiki, Japan | 08/2027 | Mitsubishi | 4x30T | Mid-High $ 7m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Singapore | 31.759 | 2002 | Saiki, Japan | 06/2027 | Mitsubishi | 4x30T | Low $ 7m | Undisclosed | OHBS, BWTS fitted |
 
@@ -98,11 +102,15 @@ A generally quiet week for this segment. A number of South East Asian trips via 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Aframax | Calypso | 111.930 | 2021 | Sumitomo, Japan | 07/2026 | MAN-B&W | $ 79m | Libyan (GNMTC) | BWTS fitted, Scrubber fitted, DD 07/2024 |
 | Aframax | Izumo Princess | 105.374 | 2007 | Sumitomo, Japan | 03/2027 | MAN-B&W | Low $ 37m | Undisclosed | BWTS fitted |
 | MR | Lady Malou | 51.486 | 2013 | Hyundai Mipo, Korea | 01/2028 | MAN-B&W | $ 36,5m | Indian | BWTS fitted |
 | MR | Avon | 49.999 | 2019 | Hyundai Mipo, Korea | 01/2029 | MAN-B&W | Region $ 45m | Undisclosed | BWTS fitted, basis T/C back |
+| MR | Jiangsu Newyangzi YZJ2023-1515 | 49.990 | 2025 | Jiangsu, China |  | MAN-B&W | $ 53m | Greek (Thenamaris) | Scrubber fitted |
+| MR | Jiangsu Newyangzi YZJ2023-1516 | 49.990 | 2025 | Jiangsu, China |  | MAN-B&W | $ 53m | Greek (Thenamaris) | Scrubber fitted |
 | MR | Jag Pahel | 46.319 | 2004 | Hanjin, Korea | 11/2027 | MAN-B&W | $ 14,85m | Undisclosed | BWTS fitted |
 | MR | Stolt Facto | 46.105 | 2010 | Sls, Korea | 03/2025 | MAN-B&W | $ 28m | Undisclosed | BWTS fitted |
+| MR | San Carlos | 37.258 | 2007 | Hyundai Mipo, Korea | 05/2025 | MAN-B&W | $ 20,5m | Turkish | Delivered, BWTS fitted, Ice Class 1B |
 | Chemical/Oil Products | Chem Bulldog | 21.306 | 2010 | Asakawa, Japan | 04/2025 | MAN-B&W | $ 23m | Undisclosed | St St, BWTS fitted |
 | Chemical/Oil Products | Livarden | 19.951 | 2007 | Fukuoka, Japan | 06/2027 | MAN-B&W | $ 18m | Undisclosed | St St |
 | Chemical/Oil Products | Patagonia | 16.772 | 2006 | Qiuxin, China | 04/2026 | MAN | $ 11,3m | Turkish | BWTS fitted, Ice Class 1A |
@@ -112,8 +120,8 @@ A generally quiet week for this segment. A number of South East Asian trips via 
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | Buxcliff | 6.712 | 2001 | Daewoo, Korea | 06/2026 | B&W | - | $ 45m | Swiss based |  |
-| Post Panamax | Buxcoast | 6.712 | 2001 | Daewoo, Korea | 08/2026 | B&W | - | enbloc | (MSC) |  |
+| Post Panamax | Buxcliff | 6.712 | 2001 | Daewoo, Korea | 06/2026 | B&W | - | $ 45m enbloc | Swiss based (MSC) |  |
+| Post Panamax | Buxcoast | 6.712 | 2001 | Daewoo, Korea | 08/2026 | B&W | - | $ 45m enbloc | Swiss based (MSC) |  |
 | Post Panamax | CMA CGM Bellini | 5.782 | 2004 | Samsung, Korea | 06/2024 | MAN-B&W | - | High $ 18m | Undisclosed |  |
 | Sub Panamax | Odysseus | 2.824 | 2006 | Hyundai Mipo, Korea | 03/2026 | MAN-B&W | - | $ 15,9m | Swiss based (MSC) |  |
 

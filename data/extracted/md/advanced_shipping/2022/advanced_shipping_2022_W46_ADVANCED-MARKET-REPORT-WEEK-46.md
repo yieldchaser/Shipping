@@ -79,15 +79,23 @@ A generally quiet week for this segment. Trips from Southeast Asia for 2 laden l
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Newcastlemax | China Steel Entrepreneur | 203.512 | 2007 | CSBC, Taiwan | 01/2027 | MAN- B&W | - | $ 35,5m | Greek (Alberta | BWTS fitted |
-| Newcastlemax | China Steel Team | 203.512 | 2006 | CSBC, Taiwan | 08/2026 | MAN- B&W | - | enbloc | Shipmgmt) |  |
+| Newcastlemax | China Steel Entrepreneur | 203.512 | 2007 | CSBC, Taiwan | 01/2027 | MAN- B&W | - | $ 35,5m enbloc | Greek (Alberta Shipmgmt) | BWTS fitted |
+| Newcastlemax | China Steel Team | 203.512 | 2006 | CSBC, Taiwan | 08/2026 | MAN- B&W | - | $ 35,5m enbloc | Greek (Alberta Shipmgmt) |  |
+| Capesize | Navios Obeliks | 181.415 | 2012 | Koyo, Japan | 07/2026 | MAN- B&W | - | High $ 29m | Greek (Synergy Maritime) | BWTS fitted, Scrubber fitted |
+| Capesize | HL Shinboryeong | 179.294 | 2010 | Hyundai Samho, Korea | 05/2025 | MAN- B&W | - | $ 25m | Greek (Stealth Maritime) | BWTS fitted |
+| Capesize | Edward N | 176.216 | 2011 | SWS, China | 01/2026 | MAN- B&W | - | Region $ 23m | Taiwanese (Eddie Steamship) | BWTS fitted |
 | Kamsarmax | Darya Lok | 81.874 | 2012 | Daewoo, Korea | 06/2027 | MAN- B&W | - | $ 21,5m | Undisclosed | BWTS fitted |
+| Kamsarmax | CMB Partner | 81.805 | 2016 | Tsuneishi Cebu, Philippines | 11/2026 | MAN- B&W | - | $ 29m | Greek (Minerva) | BWTS fitted, Dely Feb'23 |
 | Panamax | LT Ocean Star | 75.395 | 2005 | Universal, Japan | 07/2025 | B&W | - | $ 14m | Undisclosed | BWTS fitted |
+| Panamax | Cerafina | 74.759 | 2005 | Hudong- Zhonghua, China | 09/2025 | MAN- B&W | - | $ 12m | Greek | BWTS fitted |
 | Supramax | Azzura | 52.050 | 2004 | IHI, Japan | 06/2024 | Sulzer | 4x30T | High $ 12m | Undisclosed | BWTS fitted |
 | Handysize | Interlink Activity | 38.710 | 2015 | Taizhou, China | 09/2025 | MAN- B&W | 4x30T | $ 21m | Undisclosed | BWTS fitted, Ice Class 1C |
 | Handysize | Ocean Echo | 37.084 | 2013 | Saiki, Japan | 11/2025 | Mitsubishi | 4x30T | $ 17,5m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Nord Quebec | 36.546 | 2013 | Onomichi, Japan | 05/2023 | MAN- B&W | 4x30,5T | Mid $ 17m | Undisclosed | Ice Class 1C |
 | Handysize | Super Caroline | 33.427 | 2007 | Shin Kochi, Japan | 06/2025 | Mitsubishi | 4x30T | $ 13,7m | Undisclosed | OHBS |
+| Handysize | Manta Cicek | 31.997 | 2011 | Hakodate, Japan | 06/2027 | Mitsubishi | 4x30T | $ 15,5m | Turkish (Negmar Shipping) | Old sale, Delivered |
+| Handysize | Blue Baie | 31.734 | 2006 | Saiki, Japan | 01/2026 | Mitsubishi | 4x30T | $ 13m | Turkish | Old sale, OHBS, BWTS fitted, Dely Feb'23 |
+| Handysize | Trudy | 30.790 | 2009 | Jiangsu, China | 11/2024 | MAN- B&W | 3x30T | $ 12,5m | Swedish (Brodin Shipping) | Old sale, BWTS fitted, Ice Class 1C |
 | Handysize | Belle Ocean | 28.354 | 2014 | I-S, Japan | 03/2024 | MAN- B&W | 4x30,5T | $ 13,9m | Greek | BWTS fitted |
 
 ## Page 4
@@ -96,13 +104,16 @@ A generally quiet week for this segment. Trips from Southeast Asia for 2 laden l
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Aframax | Hyundai Vietnam S510 | 115.000 | 2023 | Hyundai Vietnam, Vietnam | 09/2028 | MAN- B&W | $ 75m | Greek (CM Lemos) | Scrubber ready, Incl. 3years T/C attached |
 | Aframax | Althea | 115.194 | 2022 | Daehan, Korea | 08/2027 | MAN- B&W | $ 72,5m | UK based (Navig8) | BWTS fitted, Scrubber fitted |
+| LR1 | Augusta | 72.344 | 2003 | Hudong- Zhonghua, China | 02/2023 | MAN- B&W | $ 12m | Undisclosed |  |
 | MR | High Mars | 51.543 | 2008 | Stx, Korea | 03/2023 | MAN- B&W | $ 20,3m | Undisclosed |  |
 | MR | Golden Camellia | 34.783 | 2021 | Fujian, China | 10/2026 | WinGD | Region $ 34,5m | Undisclosed | BWTS fitted |
-| Chemical/Oil Products | MTM Tokyo | 20.857 | 2003 | Kitanihon, Japan | 01/2023 | Mitsubishi | $ 22m | Undisclosed | St St, BWTS fitted |
-| Chemical/Oil Products | MTM Fairfield | 20.585 | 2002 | Fukuoka, Japan | 09/2027 | Mitsubishi | enbloc | Undisclosed | St St |
-| Chemical/Oil Products | GS Future | 17.532 | 2009 | Samho, Korea | 02/2024 | MAN- B&W | Region $ 24m | Undisclosed | Basis Dely within 2023 |
-| Chemical/Oil Products | GS Forward | 17.527 | 2008 | Samho, Korea | 01/2024 | MAN- B&W | $ 24m enbloc | Undisclosed |  |
+| Chemical/Oil Products | MTM Tokyo | 20.857 | 2003 | Kitanihon, Japan | 01/2023 | Mitsubishi | $ 22m enbloc | Undisclosed | St St, BWTS fitted |
+| Chemical/Oil Products | MTM Fairfield | 20.585 | 2002 | Fukuoka, Japan | 09/2027 | Mitsubishi | $ 22m enbloc | Undisclosed | St St |
+| Chemical/Oil Products | GS Future | 17.532 | 2009 | Samho, Korea | 02/2024 | MAN- B&W | Region $ 24m enbloc | Undisclosed | Basis Dely within 2023 |
+| Chemical/Oil Products | GS Forward | 17.527 | 2008 | Samho, Korea | 01/2024 | MAN- B&W | Region $ 24m enbloc | Undisclosed |  |
+| Chemical/Oil Products | Woojin Chems | 12.675 | 1999 | Asakawa, Japan | 03/2027 | B&W | Undisclosed | Indonesian (Berlian Laju Tanker) | St St, BWTS fitted |
 | Chemical/Oil Products | Sto Camellia | 11.679 | 2000 | Higaki, Japan | 09/2025 | Mitsubishi | $ 5,6m | Indonesian | St St, BWTS fitted |
 | Chemical/Oil Products | Chem Luck | 11.564 | 1997 | Fukuoka, Japan | 12/2022 | B&W | $ 3,3m | Chinese | St St, online auction |
 

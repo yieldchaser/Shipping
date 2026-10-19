@@ -79,9 +79,11 @@ A generally quiet week for this segment. East Coast South American trips into Bl
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kamsarmax | HL Ibt | 81.398 | 2011 | Hyundai Samho, Korea | 07/2026 | MAN-B&W | - | Region $ 19,5m | Undisclosed | BWTS fitted, 1year TCB at 16.000 usd/pd |
 | Panamax | W-Raptor | 76.499 | 2007 | Jiangnan, China | 04/2027 | MAN-B&W | - | $ 13m | Chinese | BWTS fitted |
 | Supramax | Ecoocean | 55.636 | 2011 | Mitsui, Japan | 03/2026 | MAN-B&W | 4x30T | Region $ 18m | Undisclosed | BWTS fitted |
 | Supramax | Navdhenu Purna | 53.490 | 2005 | Imabari, Japan | 08/2025 | MAN-B&W | 4x30,5T | $ 8,5m | Middle Eastern | BWTS fitted, DD overdue |
+| Handysize | Voge Sophie | 38.705 | 2019 | Taizhou, China | 01/2029 | MAN-B&W | 4x30T | $ 26,6m | European | OHBS, BWTS fitted, Ice Class 1C |
 | Handysize | Perseus Harmony | 37.155 | 2020 | Saiki, Japan | 09/2025 | MAN-B&W | 4x30T | $ 29,5m | Korean (Pan Ocean) | BWTS fitted |
 
 ### Tankers

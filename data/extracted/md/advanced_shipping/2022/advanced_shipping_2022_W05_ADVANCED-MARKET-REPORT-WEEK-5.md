@@ -82,11 +82,15 @@ A generally quiet week for this segment. A number of trips from Black Sea via Re
 | Newcastlemax | Baosteel Elevation | 206.312 | 2007 | Imabari, Japan | 04/2022 | MAN- B&W | - | Mid-High $ 18m | Greek (Dryships) |  |
 | Capesize | South Trader | 181.343 | 2014 | Koyo, Japan | 01/2024 | MAN- B&W | - | $ 33,8m | Greek (Safe Bulkers) |  |
 | Post Panamax | Bottiglieri Franco Vela | 93.274 | 2010 | Jiangsu, China | 07/2025 | MAN- B&W | - | $ 17m | Undisclosed | BWTS fitted |
+| Post Panamax | Bottiglieri Giulio Borriello | 93.258 | 2011 | Jiangsu, China | 01/2026 | MAN- B&W | - | $ 18,5m | Undisclosed | BWTS fitted |
 | Kamsarmax | Silver Star | 79.200 | 2011 | Cosco Dalian, China | 06/2026 | MAN- B&W | 4x35T | Region $ 18m | Middle Eastern | BWTS fitted, Geared |
 | Panamax | Nord Fortune | 76.596 | 2008 | Imabari, Japan | 07/2026 | MAN- B&W | - | Region $ 16m | Greek (Newport) |  |
 | Supramax | Kouju Lily | 58.872 | 2011 | Kawasaki, Japan | 11/2024 | MAN- B&W | 4x30,5T | $ 24,5m | Greek | BWTS fitted, 5years BBHP |
+| Supramax | G Taishan | 58.780 | 2008 | Tsuneishi Zhoushan, China | 01/2023 | MAN- B&W | 4x30T | $ 17,4m | Undisclosed | Incl. T/C until Apr'22 |
 | Supramax | Magda | 58.018 | 2010 | Yangzhou, China | 07/2025 | MAN- B&W | 4x35T | $ 16,85m | Greek (Costamare) | BWTS fitted |
+| Handysize | Cielo Di Virgin Gorda | 39.202 | 2015 | Yangfan, China | 02/2025 | MAN- B&W | 4x30T | $ 22,7m | German (Oldendorff) | OHBS |
 | Handysize | Daido Ambition | 37.800 | 2021 | I-S, Japan | 05/2026 | MAN- B&W | 4x30,5T | $ 33m | Undisclosed | BWTS fitted, BBHP |
+| Handysize | Marine Princess | 35.501 | 2012 | Cosco Guangdong, China | 11/2022 | MAN- B&W | 4x30T | $ 16,4m | Indian | Auction sale |
 | Handysize | Woori Star | 28.678 | 1999 | Imabari, Japan | 05/2024 | B&W | 4x30,5T | $ 7m | Chinese | OHBS |
 | Handysize | Royal Innovation | 28.374 | 2011 | Imabari, Japan | 11/2025 | MAN- B&W | 4x30,7T | Region $ 13m | Greek (Alma Shipmanagement) | BWTS fitted |
 | Small | Skawa | 17.073 | 2012 | Taizhou, China | 06/2022 | MAN- B&W | 4x30T | $ 10m | Undisclosed |  |
@@ -102,8 +106,8 @@ A generally quiet week for this segment. A number of trips from Black Sea via Re
 | Aframax | Glifa | 109.229 | 2005 | Hudong- Zhonghua, China | 08/2025 | MAN- B&W | $ 14,5m | Indonesian (Soechi) |  |
 | Aframax | Gundala | 107.127 | 2003 | Imabari, Japan | 01/2023 | B&W | $ 11,7m | Chinese |  |
 | LR1 | Polar Cod | 73.919 | 2007 | Onomichi, Japan | 03/2022 | MAN- B&W | $ 11,7m | Greek |  |
-| MR | Arctos | 49.999 | 2018 | Hyundai Mipo, Korea | 07/2023 | MAN- B&W | $ 68m | Undisclosed |  |
-| MR | Aquila L | 49.999 | 2018 | Hyundai Mipo, Korea | 09/2023 | MAN- B&W | enbloc | Undisclosed |  |
+| MR | Arctos | 49.999 | 2018 | Hyundai Mipo, Korea | 07/2023 | MAN- B&W | $ 68m enbloc | Undisclosed |  |
+| MR | Aquila L | 49.999 | 2018 | Hyundai Mipo, Korea | 09/2023 | MAN- B&W | $ 68m enbloc | Undisclosed |  |
 | MR | STI Fontvieille | 49.990 | 2013 | Hyundai Mipo, Korea | 07/2023 | MAN- B&W | $ 23,5m | Japanese |  |
 | MR | Prime Express | 45.996 | 2010 | Shin Kurushima, Japan | 11/2025 | MAN- B&W | Low $ 16m | Greek |  |
 | Chemical/Oil Products | Celsius Manila | 19.997 | 2002 | Shin Kurushima, Japan | 03/2022 | Mitsubishi | $ 7,85m | Far Eastern | St St, BWTS fitted |
@@ -115,6 +119,7 @@ A generally quiet week for this segment. A number of trips from Black Sea via Re
 | Panamax | Ionikos | 4.360 | 2009 | HHIC, Philippines | 07/2024 | MAN-B&W | - | $ 96m | Asian | Dely Jun'22 |
 | Sub Panamax | Miami Trader | 2.460 | 2002 | Nordseewerke, Germany | 10/2022 | MAN-B&W | 3x45T | Undisclosed | Undisclosed |  |
 | Feeder | Bindi Ipsa | 1.740 | 2013 | Guangzhou, China | 05/2023 | MAN-B&W | - | Undisclosed | Undisclosed | BWTS fitted |
+| Feeder | Kanway Galaxy | 1.613 | 1997 | Shin Kurushima, Japan | 10/2022 | Mitsubishi | 3x40T | $ 19m | Undisclosed |  |
 | Feeder | Songa Cougar | 1.118 | 2008 | Jinling, China | 09/2023 | MAN | 2x45T | Region $ 21m | Undisclosed |  |
 
 ## Page 5
@@ -125,15 +130,15 @@ A generally quiet week for this segment. A number of trips from Black Sea via Re
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | Excalibur | 77.822 | 2002 | Daewoo, Korea | 10/2022 | Kawasaki | 135.273 | Region $ 35m | Chinese |  |
 | LNG | AL Zubarah | 72.557 | 1996 | Mitsui, Japan | 05/2026 | Mitsubishi | 134.821 | Undisclosed | Qatari (Qatargas) | P.options declared |
-| LNG | AL Bidda | 72.462 | 1999 | Kawasaki, Japan | 11/2024 | Mitsubishi | 135.466 | Undisclosed | Qatari | P.options |
-| LNG | AL Wakrah | 72.453 | 1998 | Kawasaki, Japan | 12/2023 | Mitsubishi | 134.624 | Undisclosed | (Qatargas) | declared |
+| LNG | AL Bidda | 72.462 | 1999 | Kawasaki, Japan | 11/2024 | Mitsubishi | 135.466 | Undisclosed | Qatari (Qatargas) | P.options declared |
+| LNG | AL Wakrah | 72.453 | 1998 | Kawasaki, Japan | 12/2023 | Mitsubishi | 134.624 | Undisclosed | Qatari (Qatargas) | P.options declared |
 | LNG | AL Wajbah | 72.348 | 1997 | Mitsubishi, Japan | 05/2022 | Mitsubishi | 134.562 | Undisclosed | Qatari (Qatargas) | P.options declared |
 | LNG | Broog | 72.339 | 1998 | Mitsui, Japan | 04/2023 | Mitsubishi | 134.778 | Undisclosed | Qatari (Qatargas) | P.options declared |
-| LNG | Doha | 72.337 | 1999 | Mitsubishi, Japan | 05/2024 | Mitsubishi | 134.517 | Undisclosed | Qatari | P.options |
-| LNG | Al Jasra | 72.218 | 2000 | Mitsubishi, Japan | 06/2025 | Mitsubishi | 134.482 | Undisclosed | (Qatargas) | declared |
+| LNG | Doha | 72.337 | 1999 | Mitsubishi, Japan | 05/2024 | Mitsubishi | 134.517 | Undisclosed | Qatari (Qatargas) | P.options declared |
+| LNG | Al Jasra | 72.218 | 2000 | Mitsubishi, Japan | 06/2025 | Mitsubishi | 134.482 | Undisclosed | Qatari (Qatargas) | P.options declared |
 | LNG | AL Khor | 72.176 | 1996 | Mitsubishi, Japan | 11/2026 | Mitsubishi | 134.607 | Undisclosed | Qatari (Qatargas) | P.options declared |
-| LNG | AL Rayyan | 72.430 | 1997 | Kawasaki, Japan | 04/2022 | Mitsubishi | 134.671 | Undisclosed | Qatari | P.options |
-| LNG | Zekreet | 72.316 | 1998 | Mitsui, Japan | 08/2023 | Mitsubishi | 134.733 | Undisclosed | (Qatargas) | declared |
+| LNG | AL Rayyan | 72.430 | 1997 | Kawasaki, Japan | 04/2022 | Mitsubishi | 134.671 | Undisclosed | Qatari (Qatargas) | P.options declared |
+| LNG | Zekreet | 72.316 | 1998 | Mitsui, Japan | 08/2023 | Mitsubishi | 134.733 | Undisclosed | Qatari (Qatargas) | P.options declared |
 | LPG | Venture Gas | 49.701 | 1990 | Kawasaki, Japan | 06/2026 | MAN-B&W | 73.879 | $ 20m | UAE |  |
 
 ## Page 6

@@ -80,11 +80,16 @@ A number of East Coast South American trips into Continent were reported at the 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Aquataine | 181.725 | 2010 | Imabari, Japan | 08/2025 | MAN- B&W | - | Excess $ 26m | Greek (Brave Maritime) | BWTS fitted |
+| Kamsarmax | Mynika | 84.108 | 2013 | Hyundai Samho, Korea | 01/2023 | MAN- B&W | - | $ 24,5m | Indian (Five Stars Shipping) | Old sale, Delivered |
 | Kamsarmax | DL Carnation | 81.920 | 2014 | Jiangsu, China | 09/2024 | MAN- B&W | - | $ 18,8m | Undisclosed | BWTS fitted |
+| Kamsarmax | Lowlands Comfort | 81.845 | 2016 | Tsuneishi Cebu, Philippines | 02/2026 | MAN- B&W | - | $ 26,5m | Undisclosed | BWTS fitted |
+| Kamsarmax | Nord Virgo | 80.915 | 2014 | JMU, Japan | 09/2024 | MAN- B&W | - | $ 27,5m | Greek | BWTS fitted, Scrubber fitted, DD 01/2023 |
 | Panamax | Ultra Panache | 78.450 | 2011 | Sanoyas, Japan | 02/2026 | MAN- B&W | - | $ 18,5m | Undisclosed | BWTS fitted |
 | Panamax | Nord Libra | 77.134 | 2014 | Imabari, Japan | 11/2024 | MAN- B&W | - | High $ 22m | Greek (Velos) | BWTS fitted, Scrubber fitted |
 | Panamax | Navios Aldebaran | 76.529 | 2008 | Imabari, Japan | 08/2025 | MAN- B&W | - | $ 14m | Undisclosed |  |
 | Panamax | Fortune Lady | 74.694 | 1998 | Nkk, Japan | 03/2023 | Sulzer | - | $ 6m | Chinese | BWTS fitted |
+| Ultramax | Italian Bulker | 63.482 | 2017 | Shin Kasado, Japan | 03/2027 | MAN- B&W | 4x30,7T | $ 26,8m | Japanese (Dao Shipping) | BWTS fitted, Incl. T/C attached |
+| Supramax | Worldera-5 | 52.292 | 2004 | Tsuneishi Cebu, Philippines | 06/2024 | B&W | 4x30T | Low $ 10m | Undisclosed | BWTS fitted |
 | Handymax | Glorious Lotus | 49.602 | 2007 | Tsuneishi, Japan | 08/2027 | MAN- B&W | 3x14,7T | $ 13m | Undisclosed | Wood chips carrier |
 | Handysize | TS Bravo | 38.896 | 2015 | Shanhaigua n, China | 10/2025 | Wartsila | 4x30T | High $ 16m | Danish (Navision) | Boxed, BWTS fitted |
 | Handysize | Melina | 28.418 | 2009 | Imabari, Japan | 08/2024 | MAN- B&W | 4x30,5T | $ 10,9m | Turkish | basis DD passed & BWTS fitted |
@@ -104,8 +109,8 @@ A number of East Coast South American trips into Continent were reported at the 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aframax | Nordbay | 116.104 | 2007 | Universal, Japan | 02/2027 | Sulzer | $ 34m | Undisclosed | BWTS fitted |
-| Aframax | Alhani | 114.795 | 2007 | Samsung, Korea | 03/2027 | MAN- B&W | $ 84m | Chinese | BWTS fitted, Ice Class 1A |
-| Aframax | Samraa Alkhaleej | 114.858 | 2006 | Samsung, Korea | 07/2026 | MAN- B&W | enbloc | Chinese | BWTS fitted, Ice Class 1A |
+| Aframax | Alhani | 114.795 | 2007 | Samsung, Korea | 03/2027 | MAN- B&W | $ 84m enbloc | Chinese | BWTS fitted, Ice Class 1A |
+| Aframax | Samraa Alkhaleej | 114.858 | 2006 | Samsung, Korea | 07/2026 | MAN- B&W | $ 84m enbloc | Chinese | BWTS fitted, Ice Class 1A |
 | Aframax | Seatrust | 114.549 | 2004 | Samsung, Korea | 07/2024 | B&W | Excess $ 35m | Undisclosed | BWTS fitted, Ice Class 1C |
 | Aframax | S Puma | 105.034 | 2005 | SWS, China | 04/2025 | MAN- B&W | $ 23,5m | Middle Eastern | BWTS fitted |
 | LR1 | Freight Margie | 70.313 | 2004 | Daewoo, Korea | 06/2024 | MAN- B&W | $ 14,6m | Turkish |  |
@@ -113,14 +118,16 @@ A number of East Coast South American trips into Continent were reported at the 
 | MR | Atlantica Bridge | 50.921 | 2005 | Stx, Korea | 12/2025 | MAN- B&W | $ 19,75m | Undisclosed | Ice Class 1A |
 | MR | Pyxis Malou | 50.667 | 2009 | Spp, Korea | 02/2024 | MAN- B&W | $ 24,5m | Nigerian | BWTS fitted |
 | MR | Clean Imperial | 50.338 | 2007 | Sls, Korea | 11/2022 | MAN- B&W | $ 20m | Undisclosed | SS/DD passed & BWTS fitted |
-| MR | Celsius Riga | 46.151 | 2010 | Hyundai Mipo, Korea | 05/2025 | MAN- B&W | $ 55,5m | Undisclosed | BWTS fitted |
-| MR | Celsius Roskilde | 46.105 | 2009 | Hyundai Mipo, Korea | 08/2024 | MAN- B&W | enbloc | Undisclosed | BWTS fitted |
+| MR | GWN 2 | 50.192 | 2020 | Samsung, Korea | 09/2025 | MAN- B&W | $ 38,5m | Japanese | BWTS fitted, Scrubber fitted, Internal deal |
+| MR | Celsius Riga | 46.151 | 2010 | Hyundai Mipo, Korea | 05/2025 | MAN- B&W | $ 55,5m enbloc | Undisclosed | BWTS fitted |
+| MR | Celsius Roskilde | 46.105 | 2009 | Hyundai Mipo, Korea | 08/2024 | MAN- B&W | $ 55,5m enbloc | Undisclosed | BWTS fitted |
 | MR | Nordic Tatiana | 38.396 | 2007 | Guangzhou, China | 09/2027 | MAN- B&W | $ 15,7m | Undisclosed | BWTS fitted |
-| MR | Style | 37.923 | 2008 | Hyundai Mipo, Korea | 01/2023 | MAN- B&W | $ 33m | Undisclosed | Ice Class 1A |
-| MR | Sky | 37.879 | 2007 | Hyundai Mipo, Korea | 03/2023 | MAN- B&W | enbloc | Undisclosed | Ice Class 1A |
+| MR | Style | 37.923 | 2008 | Hyundai Mipo, Korea | 01/2023 | MAN- B&W | $ 33m enbloc | Undisclosed | Ice Class 1A |
+| MR | Sky | 37.879 | 2007 | Hyundai Mipo, Korea | 03/2023 | MAN- B&W | $ 33m enbloc | Undisclosed | Ice Class 1A |
 | MR | Petrolimex 10 | 37.256 | 2003 | Shina, Korea | 01/2023 | B&W | $ 10m | Vietnamese |  |
 | Oil Products | Ardbeg | 34.798 | 2021 | Fujian, China | 11/2026 | WinGD | $ 35m | Undisclosed | BWTS fitted |
 | Chemical/Oil Products | Onsan Chemi | 12.499 | 2001 | Fukuoka, Japan | 07/2026 | Mitsubishi | $ 6,8m | Undisclosed | St St, BWTS fitted |
+| Chemical/Oil Products | DH Diligency | 8.500 | 2018 | Nantong, China | 08/2024 | J-Eng | $ 20m | Chinese | St St, Ice Class II, Online auction |
 
 ## Page 5
 

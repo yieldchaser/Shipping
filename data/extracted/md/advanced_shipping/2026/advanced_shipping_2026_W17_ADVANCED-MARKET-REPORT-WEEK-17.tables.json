@@ -101,13 +101,13 @@
       "YARD": "HHIC, Philippines",
       "M_E": "MAN-B&W",
       "GEAR": "-",
-      "PRICE": "xs $ 90m",
+      "PRICE": "xs $ 90m enbloc",
       "PRICE_USD_MILL": 90.0,
       "BUYERS": "Chinese",
       "SS": "08/2027",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf",
-      "extra_json": "{\"issue_date\": \"2026-04-24\", \"report_week\": \"17\", \"source_file\": \"advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf\", \"raw_price\": \"xs $ 90m\"}"
+      "extra_json": "{\"issue_date\": \"2026-04-24\", \"report_week\": \"17\", \"source_file\": \"advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf\", \"raw_price\": \"xs $ 90m enbloc\"}"
     },
     {
       "issue": "2026-04-24",
@@ -123,13 +123,13 @@
       "YARD": "HHIC, Philippines",
       "M_E": "MAN-B&W",
       "GEAR": "-",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
+      "PRICE": "xs $ 90m enbloc",
+      "PRICE_USD_MILL": 90.0,
       "BUYERS": "Chinese",
       "SS": "11/2027",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf",
-      "extra_json": "{\"issue_date\": \"2026-04-24\", \"report_week\": \"17\", \"source_file\": \"advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2026-04-24\", \"report_week\": \"17\", \"source_file\": \"advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf\", \"raw_price\": \"xs $ 90m enbloc\"}"
     },
     {
       "issue": "2026-04-24",
@@ -321,13 +321,13 @@
       "YARD": "Hyundai Mipo, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "4x30T",
-      "PRICE": "$ 25m",
+      "PRICE": "$ 25m enbloc",
       "PRICE_USD_MILL": 25.0,
-      "BUYERS": "Vietnamese (Hoang Anh",
+      "BUYERS": "Vietnamese (Hoang Anh Shipping)",
       "SS": "10/2030",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf",
-      "extra_json": "{\"issue_date\": \"2026-04-24\", \"report_week\": \"17\", \"source_file\": \"advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf\", \"raw_price\": \"$ 25m\"}"
+      "extra_json": "{\"issue_date\": \"2026-04-24\", \"report_week\": \"17\", \"source_file\": \"advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf\", \"raw_price\": \"$ 25m enbloc\"}"
     },
     {
       "issue": "2026-04-24",
@@ -343,13 +343,13 @@
       "YARD": "Hyundai Mipo, Korea",
       "M_E": "MAN-B&W",
       "GEAR": "4x30T",
-      "PRICE": "enbloc",
-      "PRICE_USD_MILL": null,
-      "BUYERS": "(Hoang Anh Shipping)",
+      "PRICE": "$ 25m enbloc",
+      "PRICE_USD_MILL": 25.0,
+      "BUYERS": "Vietnamese (Hoang Anh Shipping)",
       "SS": "01/2031",
       "COMMENTS": "",
       "source_file": "advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf",
-      "extra_json": "{\"issue_date\": \"2026-04-24\", \"report_week\": \"17\", \"source_file\": \"advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf\", \"raw_price\": \"enbloc\"}"
+      "extra_json": "{\"issue_date\": \"2026-04-24\", \"report_week\": \"17\", \"source_file\": \"advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf\", \"raw_price\": \"$ 25m enbloc\"}"
     },
     {
       "issue": "2026-04-24",
@@ -394,6 +394,28 @@
       "COMMENTS": "",
       "source_file": "advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf",
       "extra_json": "{\"issue_date\": \"2026-04-24\", \"report_week\": \"17\", \"source_file\": \"advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf\", \"raw_price\": \"$ 9,3m\"}"
+    },
+    {
+      "issue": "2026-04-24",
+      "report_week": "17",
+      "section": "Tankers",
+      "page": "3",
+      "NAME": "Danship Tope",
+      "TYPE": "LR1",
+      "DWT": "76,578",
+      "TEU": null,
+      "CBM": null,
+      "BUILT": "2008",
+      "YARD": "Dalian, China",
+      "M_E": "MAN-B&W",
+      "GEAR": "",
+      "PRICE": "$ 19m",
+      "PRICE_USD_MILL": 19.0,
+      "BUYERS": "Greek (Petrochem General Management)",
+      "SS": "03/2028",
+      "COMMENTS": "Delivered, DD 06/2026",
+      "source_file": "advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf",
+      "extra_json": "{\"issue_date\": \"2026-04-24\", \"report_week\": \"17\", \"source_file\": \"advanced_shipping_2026_W17_ADVANCED-MARKET-REPORT-WEEK-17.pdf\", \"raw_price\": \"$ 19m\"}"
     },
     {
       "issue": "2026-04-24",

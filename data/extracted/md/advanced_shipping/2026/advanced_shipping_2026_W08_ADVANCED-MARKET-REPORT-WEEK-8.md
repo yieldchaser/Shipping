@@ -79,6 +79,7 @@ Trips from Japan into Continent were reported at the level of usd 12,000/13,000 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Michalis H | 180.355 | 2012 | Dalian, China | 01/2027 | MAN-B&W | - | $ 35,2m | Chinese | Scrubber fitted, T/C attached at 27.250 usd/pd till Q4 2026 |
 | Capesize | Cape Brazil | 177.897 | 2010 | Shanghai, China | 10/2030 | MAN-B&W | - | $ 31,5m | Far Eastern |  |
 | Ultramax | Berge Tateyama | 63.511 | 2020 | Shin Kasado, Japan | 04/2030 | MAN-B&W | 4x30,5T | Low $ 34m | Turkish |  |
 | Ultramax | Explorer America | 61.684 | 2011 | Oshima, Japan | 06/2026 | MAN-B&W | 4x30T | $ 18,2m | Chinese |  |
@@ -113,12 +114,12 @@ Trips from Japan into Continent were reported at the level of usd 12,000/13,000 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Leicester | 300.852 | 2017 | SWS, China | 01/2027 | MAN-B&W | $ 111m | Undisclosed | Scrubber fitted |
 | Suezmax | Fairway | 160.250 | 2013 | HHIC, Philippines | 06/2028 | MAN-B&W | $ 56,5m | Greek | Scrubber fitted, DD 05/2026 |
-| Suezmax | Emeraldway | 158.363 | 2022 | SWS, China | 03/2027 | MAN-B&W | $ 88m | Greek | Scrubber fitted |
-| Suezmax | Sunriseway | 158.307 | 2022 | SWS, China | 07/2027 | MAN-B&W | $ 88m | (Thenamaris) | Scrubber fitted |
+| Suezmax | Emeraldway | 158.363 | 2022 | SWS, China | 03/2027 | MAN-B&W | $ 88m | Greek (Thenamaris) | Scrubber fitted |
+| Suezmax | Sunriseway | 158.307 | 2022 | SWS, China | 07/2027 | MAN-B&W | $ 88m | Greek (Thenamaris) | Scrubber fitted |
 | Suezmax | Nordic Pollux | 150.103 | 2003 | Universal, Japan | 08/2027 | Sulzer | $ 25m | Undisclosed |  |
 | LR1 | PGC Alexandria | 74.996 | 2006 | Onomichi, Japan | 10/2029 | Mitsubishi | $ 15,75m | Greek |  |
-| LR1 | Cape Tees | 73.731 | 2009 | New Times, China | 05/2029 | MAN-B&W | $ 42m enbloc | Singapore based |  |
-| LR1 | Cape Tallin | 73.662 | 2008 | New Times, China | 12/2028 | MAN-B&W | $ 42m enbloc | (Trafigura) |  |
+| LR1 | Cape Tees | 73.731 | 2009 | New Times, China | 05/2029 | MAN-B&W | $ 42m enbloc | Singapore based (Trafigura) |  |
+| LR1 | Cape Tallin | 73.662 | 2008 | New Times, China | 12/2028 | MAN-B&W | $ 42m enbloc | Singapore based (Trafigura) |  |
 | MR | Hafnia Crux | 52.550 | 2012 | Guangzhou, China | 06/2027 | MAN-B&W | $ 23m | Undisclosed |  |
 | MR | Hafnia Leo | 49.999 | 2013 | Guangzhou, China | 11/2028 | MAN-B&W | $ 23m | Undisclosed |  |
 | MR | Florence | 47.999 | 2006 | Iwagi, Japan | 02/2026 | MAN-B&W | $ 11,1m | Thai (Precious Shipping) |  |

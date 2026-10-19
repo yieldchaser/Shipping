@@ -84,6 +84,7 @@ Continental trips into Mediterranean were reported at the level of usd 10,000/12
 | Capesize | Oriental Navigator | 172.490 | 1999 | Nkk, Japan | 06/2025 | B&W | - | Region $ 12m | Chinese | BWTS fitted |
 | Kamsarmax | Tomini Nobility | 81.093 | 2020 | Taizhou, China | 09/2025 | MAN-B&W | - | Excess $ 30m | Undisclosed | BWTS fitted |
 | Ultramax | Lowlands Amstel | 61.177 | 2015 | Iwagi, Japan | 05/2025 | MAN-B&W | 4x30,7T | Low-Mid $ 26m | Far Eastern | BWTS fitted |
+| Supramax | Zen-Noh Grain Pegasus | 54.958 | 2010 | Oshima, Japan | 05/2025 | MAN-B&W | 4x30T | $ 14,9m | Chinese | BWTS fitted, Grounding to be repaired on May'25 |
 | Supramax | A Wisdom | 53.503 | 2007 | Iwagi, Japan | 12/2024 | MAN-B&W | 4x30,5T | Low $ 13m | Greek | BWTS fitted |
 | Handysize | Fatih | 35.365 | 2011 | Samho, Korea | 02/2026 | MAN-B&W | 4x35T | $ 15,15m | Israeli | BWTS fitted |
 | Handysize | Ultra Tronador | 32.874 | 2000 | Kanda, Japan | 10/2024 | B&W | 4x30,5T | $ 5m | Undisclosed |  |

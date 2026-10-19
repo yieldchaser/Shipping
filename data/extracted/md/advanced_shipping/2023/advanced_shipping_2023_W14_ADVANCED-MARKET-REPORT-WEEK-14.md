@@ -79,10 +79,10 @@ A generally quiet week for this segment. South East Asian trips via Australia in
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capesize | Aquavictory | 182.060 | 2010 | Odense, Denmark | 05/2025 | MAN- B&W | - | $ 26,5m | Greek (Brave |  |
-| Capesize | Aquaexplorer | 178.929 | 2012 | Sungdong, Korea | 06/2027 | MAN- B&W | - | $ 28,5m | (Brave Maritime) |  |
-| Capesize | Star Borealis | 179.678 | 2011 | HHIC, Philippines | 09/2026 | MAN- B&W | - | $ 32,5m | Danish | Scrubber fitted |
-| Capesize | Star Polaris | 179.546 | 2011 | HHIC, Philippines | 11/2026 | MAN- B&W | - | $ 32,5m | (Norden) | Scrubber fitted |
+| Capesize | Aquavictory | 182.060 | 2010 | Odense, Denmark | 05/2025 | MAN- B&W | - | $ 26,5m | Greek (Brave Maritime) |  |
+| Capesize | Aquaexplorer | 178.929 | 2012 | Sungdong, Korea | 06/2027 | MAN- B&W | - | $ 28,5m | Greek (Brave Maritime) |  |
+| Capesize | Star Borealis | 179.678 | 2011 | HHIC, Philippines | 09/2026 | MAN- B&W | - | $ 32,5m | Danish (Norden) | Scrubber fitted |
+| Capesize | Star Polaris | 179.546 | 2011 | HHIC, Philippines | 11/2026 | MAN- B&W | - | $ 32,5m | Danish (Norden) | Scrubber fitted |
 | Capesize | Rosebank | 177.029 | 2010 | New Times, China | 08/2025 | MAN- B&W | - | Low $ 23m | Middle Eastern | BWTS fitted |
 | Panamax | Luck Fortune | 76.662 | 2002 | Imabari, Japan | 04/2027 | B&W | - | $ 9,8m | Undisclosed | BWTS fitted |
 | Ultramax | Sun | 63.672 | 2013 | Jinling, China | 02/2027 | MAN- B&W | 4x36T | Low-Mid $ 23m | Undisclosed |  |
@@ -91,6 +91,7 @@ A generally quiet week for this segment. South East Asian trips via Australia in
 | Supramax | Chris | 56.838 | 2010 | Cosco, China | 06/2025 | MAN- B&W | 4x30T | $ 13,4m | Undisclosed | BWTS fitted |
 | Supramax | Glovis Maine | 56.686 | 2013 | Tianjin, China | 06/2023 | MAN- B&W | 4x35T | Mid-High $ 15m | Undisclosed | BWTS fitted |
 | Supramax | Super Odegaard | 55.628 | 2011 | Mitsui, Japan | 10/2026 | MAN- B&W | 4x30T | Mid-High $ 18m | Greek | BWTS fitted |
+| Handymax | Geat Wisdom | 45.659 | 2000 | Tsuneishi Cebu, Philippines | 01/2025 | MAN- B&W | 4x30T | Region $ 7m | Undisclosed | BWTS fitted |
 | Handysize | Good Luck | 37.384 | 2018 | Nanjing, China | 01/2028 | WinGD | 4x30T | $ 21,35m | Undisclosed | BWTS fitted, Ice Class 1C |
 | Handysize | Eldoris | 36.045 | 2011 | Hyundai Mipo, Korea | 10/2026 | MAN- B&W | 4x30T | Mid $ 16m | Undisclosed |  |
 | Handysize | Kalixenos | 35.925 | 2010 | Samjin, China | 04/2025 | MAN- B&W | 4x35T | $ 10,9m | Middle Eastern | BWTS fitted, DD 06/2023 |
@@ -107,22 +108,24 @@ A generally quiet week for this segment. South East Asian trips via Australia in
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Suezmax | Everbright | 156.717 | 2010 | Jiangsu, China | 03/2025 | MAN- B&W | $ 43,5m | Turkish (Besiktas) | Scrubber fitted |
 | Aframax | Nectar Sea | 105.370 | 2008 | Sumitomo, Japan | 06/2023 | MAN- B&W | $ 37m | Undisclosed | Scrubber fitted |
-| LR1 | Nautical Deborah | 75.343 | 2018 | Jiangsu, China | 07/2023 | MAN- B&W | $ 51m | Greek | BWTS fitted, Scrubber fitted |
+| LR1 | Nautical Deborah | 75.343 | 2018 | Jiangsu, China | 07/2023 | MAN- B&W | $ 51m | Greek (Advantage Tankers) | BWTS fitted, Scrubber fitted |
 | LR1 | Nautical Sarah | 75.144 | 2019 | Jiangsu, China | 04/2024 | MAN- B&W | $ 51m | Greek (Advantage Tankers) | BWTS fitted, Scrubber fitted |
-| LR1 | Nautical Janine | 75.111 | 2019 | Jiangsu, China | 01/2024 | MAN- B&W | $ 51m | Tankers) | BWTS fitted, Scrubber fitted |
+| LR1 | Nautical Janine | 75.111 | 2019 | Jiangsu, China | 01/2024 | MAN- B&W | $ 51m | Greek (Advantage Tankers) | BWTS fitted, Scrubber fitted |
 | LR1 | Nordic Geneva | 73.766 | 2009 | New Times, China | 01/2024 | MAN- B&W | $ 23,5m | Undisclosed | BWTS fitted, DPP |
+| LR1 | Dhonoussa | 69.523 | 2005 | Daewoo- Mangalia, Romania | 06/2025 | B&W | Undisclosed | Turkish (Beks) |  |
 | MR | Doric Pioneer | 51.565 | 2013 | Hyundai Mipo, Korea | 01/2028 | MAN- B&W | $ 34m | Undisclosed | BWTS fitted |
-| MR | Elandra Blu | 50.696 | 2008 | Spp, Korea | 07/2023 | MAN- B&W | $ 24m | Norwegian | BWTS fitted |
-| MR | Elandra Corallo | 50.607 | 2008 | Spp, Korea | 10/2023 | MAN- B&W | $ 24m | (Viken Shipping) | BWTS fitted |
+| MR | Elandra Blu | 50.696 | 2008 | Spp, Korea | 07/2023 | MAN- B&W | $ 24m | Norwegian (Viken Shipping) | BWTS fitted |
+| MR | Elandra Corallo | 50.607 | 2008 | Spp, Korea | 10/2023 | MAN- B&W | $ 24m | Norwegian (Viken Shipping) | BWTS fitted |
 | MR | Wisby Pacific | 49.686 | 2017 | Guangzhou, China | 12/2027 | MAN- B&W | Low-Mid $ 43m | Middle Eastern | St St, BWTS fitted |
 | MR | Wisby Atlantic | 49.614 | 2017 | Guangzhou, China | 12/2027 | MAN- B&W | Low-Mid $ 43m | Middle Eastern | St St, BWTS fitted |
 | MR | Celsius Ravenna | 47.366 | 2010 | Onomichi, Japan | 05/2025 | MAN- B&W | $ 26m | Undisclosed | DD 06/2023 |
+| MR | Sanmar Songbird | 47.094 | 2003 | Onomichi, Japan | 01/2027 | MAN- B&W | Mid-High $ 15m | Middle Eastern | BWTS fitted, basis waiving inspection |
 | MR | Atlantica Breeze | 46.846 | 2007 | Sungdong, Korea | 09/2027 | MAN- B&W | $ 21,8m | Undisclosed |  |
 | MR | Celsius Randers | 46.046 | 2010 | Hyundai Mipo, Korea | 10/2025 | MAN- B&W | $ 27m | UAE | BWTS fitted |
 | MR | Ridgebury John B | 45.975 | 2007 | Shin Kurushima, Japan | 01/2027 | MAN- B&W | Region $ 23m | Undisclosed | BWTS fitted |
 | MR | Norient Saturn | 40.435 | 2007 | Constanta, Romania | 12/2027 | MAN- B&W | $ 19,7m | Nigerian (Sea Transport) | BWTS fitted |
-| MR | Voge Trust | 38.349 | 2009 | Guangzhou, China | 10/2024 | MAN- B&W | $ 19m | Undisclosed | BWTS fitted, |
-| MR | Voge Dignity | 38.334 | 2009 | Guangzhou, China | 05/2024 | MAN- B&W | $ 19m | Undisclosed | Dely Jun'23 |
+| MR | Voge Trust | 38.349 | 2009 | Guangzhou, China | 10/2024 | MAN- B&W | $ 19m | Undisclosed | BWTS fitted, Dely Jun'23 |
+| MR | Voge Dignity | 38.334 | 2009 | Guangzhou, China | 05/2024 | MAN- B&W | $ 19m | Undisclosed | BWTS fitted, Dely Jun'23 |
 | MR | Norviken | 37.874 | 2010 | Hyundai Mipo, Korea | 02/2025 | MAN- B&W | $ 22,5m | Undisclosed | BWTS fitted |
 
 ## Page 5

@@ -85,6 +85,7 @@ US Gulf trips into Australia were fixed around usd 14,000/15,000 pd. US Gulf tri
 | Ultramax | Mona Lisa | 63.453 | 2019 | Imabari, Japan | 12/2029 | MAN-B&W | 4x30,7T | $ 28,5m | Greek |  |
 | Ultramax | IVS Swinley Forest | 60.492 | 2017 | Sanoyas, Japan | 01/2027 | MAN-B&W | 4x31T | Low-Mid $ 23m | Greek |  |
 | Supramax | Tenro Maru | 57.593 | 2016 | Tsuneishi Cebu, Philippines | 02/2026 | MAN-B&W | 4x30T | $ 22m | Greek |  |
+| Supramax | Jin Gang | 56.928 | 2009 | Chengxi, China | 04/2029 | MAN-B&W | 4x35T | $ 10,8m | Singapore based (Huwell Shipping) |  |
 | Supramax | Pan Rapido | 56.915 | 2011 | Cosco, China | 03/2026 | MAN-B&W | 4x30T | $ 11,4m | Undisclosed |  |
 | Supramax | Riva Wind | 53.533 | 2005 | Zhejiang, China | 07/2025 | MAN-B&W | 4x35T | $ 7,75m | Chinese |  |
 | Handysize | Jiangsu Dajin DJHC6118 | 40.400 | 2025 | Jiangsu, China |  | MAN-B&W | 4x30,5T | Region $ 30m | Italian |  |

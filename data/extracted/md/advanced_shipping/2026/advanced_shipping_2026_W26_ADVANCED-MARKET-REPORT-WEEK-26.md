@@ -79,10 +79,11 @@ In the Far East, a South East Asia prompt run via West Coast India with South Ea
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Newcastlemax | RTM Columbus | 205.514 | 2013 | HHIC, Philippines | 04/2028 | MAN-B&W | - | $ 88m | Undisclosed | DD 07/2026 |
-| Newcastlemax | RTM Dampier | 205.449 | 2012 | HHIC, Philippines | 06/2027 | MAN-B&W | - | enbloc | Undisclosed |  |
+| Newcastlemax | RTM Columbus | 205.514 | 2013 | HHIC, Philippines | 04/2028 | MAN-B&W | - | $ 88m enbloc | Undisclosed | DD 07/2026 |
+| Newcastlemax | RTM Dampier | 205.449 | 2012 | HHIC, Philippines | 06/2027 | MAN-B&W | - | $ 88m enbloc | Undisclosed |  |
 | Capesize | Lady Deena | 182.588 | 2020 | JMU, Japan | 06/2030 | MAN-B&W | - | rgn $ 70m | Chinese | Scrubber fitted |
 | Post Panamax | Cornelie Oldendorff | 93.246 | 2011 | Yangfan, China | 03/2030 | MAN-B&W | - | High $ 15m | Greek | Scrubber fitted |
+| Kamsarmax | Seacon Hamburg | 85.505 | 2023 | Huangpu Wenchong, China | 04/2028 | MAN-B&W | - | $ 37,5m | Greek (Castor Maritime) |  |
 | Kamsarmax | Etron | 81.080 | 2016 | Jiangsu, China | 09/2026 | MAN-B&W | - | $ 27m | Chinese (Agricore) |  |
 | Ultramax | Ultra Saka | 63.526 | 2013 | Chengxi, China | 06/2028 | MAN-B&W | 4x30T | $ 23,2m | Chinese | DD 09/2026 |
 | Supramax | Ocean Bright | 56.032 | 2013 | Mitsui, Japan | 08/2028 | MAN-B&W | 4x30T | $ 19,5m | Chinese |  |

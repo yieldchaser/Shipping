@@ -99,8 +99,8 @@ A number of Indonesian trips into China were reported at the level of usd 9,000/
 | MR | Horizon Aphrodite | 49.996 | 2008 | Spp, Korea | 09/2028 | MAN-B&W | Region $ 16m | Undisclosed |  |
 | MR | UOG Phoenix | 47.367 | 2010 | Onomichi, Japan | 07/2025 | MAN-B&W | Region $ 17,5m | Undisclosed |  |
 | MR | Glenda Melissa | 47.203 | 2011 | Hyundai Mipo, Korea | 02/2026 | MAN-B&W | Region $ 19m | Greek |  |
-| MR | Baltic Sapphire | 37.594 | 2009 | Hyundai Mipo, Korea | 07/2029 | MAN-B&W | Region $ 35m | Middle Eastern | Ice Class 1B |
-| MR | Baltic Swift | 37.565 | 2010 | Hyundai Mipo, Korea | 07/2025 | MAN-B&W | enbloc | Middle Eastern | Ice Class 1B |
+| MR | Baltic Sapphire | 37.594 | 2009 | Hyundai Mipo, Korea | 07/2029 | MAN-B&W | Region $ 35m enbloc | Middle Eastern | Ice Class 1B |
+| MR | Baltic Swift | 37.565 | 2010 | Hyundai Mipo, Korea | 07/2025 | MAN-B&W | Region $ 35m enbloc | Middle Eastern | Ice Class 1B |
 | Chemical/Oil Products | Ginga Hawk | 19.998 | 2000 | Shin Kurushima, Japan | 11/2025 | Mitsubishi | $ 6,9m | Undisclosed | St St |
 
 ## Page 4

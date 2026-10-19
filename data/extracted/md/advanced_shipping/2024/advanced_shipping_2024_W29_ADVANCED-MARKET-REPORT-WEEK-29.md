@@ -83,13 +83,15 @@ A generally quiet week for this segment. Continental trips into West Africa were
 | Post Panamax | Claas Oldendorff | 95.750 | 2013 | Imabari, Japan | 06/2025 | MAN-B&W | - | Region $ 27m | Singaporean | BWTS fitted, Scrubber fitted |
 | Kamsarmax | BW Kobe | 81.703 | 2019 | Tsuneishi Cebu, Philippines | 07/2029 | MAN-B&W | - | $ 37m | Korean (HMM) | BWTS fitted |
 | Panamax | Glory Trader | 77.684 | 2004 | CSBC, Taiwan | 08/2027 | MAN-B&W | - | $ 11,7m | Chinese | BWTS fitted |
+| Ultramax | Belmar | 63.641 | 2021 | Tadotsu, Japan | 09/2026 | MAN-B&W | 4x30,5T | $ 25,5m | Norwegian (Belships) | P.option declared, BWTS fitted |
 | Supramax | Royal Samurai | 58.091 | 2010 | Tsuneishi Cebu, Philippines | 11/2025 | MAN-B&W | 4x30T | $ 17,3m | Undisclosed | BWTS fitted |
+| Supramax | Seacon Yantai | 56.944 | 2010 | Cosco, China | 08/2025 | MAN-B&W | 4x30T | Mid-High $ 13m | Indonedian (PT Primatama Energi Mandiri) | BWTS fitted |
 | Handysize | Western Durban | 39.266 | 2015 | Jiangmen, China | 06/2025 | MAN-B&W | 4x30T | $ 78m enbloc | Thai (Precious Shipping) | BWTS fitted |
-| Handysize | Western Lima | 39.000 | 2015 | Jiangmen, China | 04/2025 | MAN-B&W | 4x30T | $ 78m | Thai (Precious | BWTS fitted |
-| Handysize | Western Miami | 39.000 | 2015 | Jiangmen, China | 07/2025 | MAN-B&W | 4x30T | enbloc | Shipping) | BWTS fitted |
+| Handysize | Western Lima | 39.000 | 2015 | Jiangmen, China | 04/2025 | MAN-B&W | 4x30T | $ 78m enbloc | Thai (Precious Shipping) | BWTS fitted |
+| Handysize | Western Miami | 39.000 | 2015 | Jiangmen, China | 07/2025 | MAN-B&W | 4x30T | $ 78m enbloc | Thai (Precious Shipping) | BWTS fitted |
 | Handysize | Western Paris | 38.800 | 2015 | Jiangsu, China | 11/2025 | MAN -B&W | 4x36T | $ 78m enbloc | Thai (Precious Shipping) | BWTS fitted |
-| Handysize | Voge Mia | 36.866 | 2011 | Hyundai Mipo, Korea | 05/2026 | MAN-B&W | 4x30,5T | $ 30,6m | Undisclosed | BWTS fitted |
-| Handysize | Voge Emma | 36.839 | 2011 | Hyundai Mipo, Korea | 04/2025 | MAN-B&W | 4x30,5T | enbloc | Undisclosed | BWTS fitted |
+| Handysize | Voge Mia | 36.866 | 2011 | Hyundai Mipo, Korea | 05/2026 | MAN-B&W | 4x30,5T | $ 30,6m enbloc | Undisclosed | BWTS fitted |
+| Handysize | Voge Emma | 36.839 | 2011 | Hyundai Mipo, Korea | 04/2025 | MAN-B&W | 4x30,5T | $ 30,6m enbloc | Undisclosed | BWTS fitted |
 | Handysize | Darya Jamuna | 36.845 | 2012 | Hyundai Mipo, Korea | 05/2027 | MAN-B&W | 4x35T | Low $ 16m | Undisclosed | BWTS fitted |
 
 ## Page 4
@@ -102,8 +104,8 @@ A generally quiet week for this segment. Continental trips into West Africa were
 | MR | Beryl | 49.990 | 2015 | Spp, Korea | 02/2025 | MAN-B&W | $ 340m enbloc (Cash & Shares) | Danish (TORM) |  |
 | MR | Quartz | 49.990 | 2015 | Spp, Korea | 03/2025 | MAN-B&W | $ 340m enbloc (Cash & Shares) | Danish (TORM) |  |
 | MR | Silver Amanda | 49.746 | 2014 | Hyundai Mipo, Korea | 09/2024 | MAN-B&W | $ 340m enbloc (Cash & Shares) | Danish (TORM) | Scrubber fitted |
-| MR | Silver Emily | 49.746 | 2014 | Hyundai Mipo, Korea | 06/2024 | MAN-B&W | $ 340m enbloc | Danish (TORM) | Scrubber fitted |
-| MR | Silver Monika | 49.746 | 2014 | Hyundai Mipo, Korea | 08/2024 | MAN-B&W | (Cash & Shares) | Danish (TORM) |  |
+| MR | Silver Emily | 49.746 | 2014 | Hyundai Mipo, Korea | 06/2024 | MAN-B&W | $ 340m enbloc (Cash & Shares) | Danish (TORM) | Scrubber fitted |
+| MR | Silver Monika | 49.746 | 2014 | Hyundai Mipo, Korea | 08/2024 | MAN-B&W | $ 340m enbloc (Cash & Shares) | Danish (TORM) |  |
 | MR | Silver Carla | 49.680 | 2014 | Hyundai Mipo, Korea | 09/2024 | MAN-B&W | $ 340m enbloc (Cash & Shares) | Danish (TORM) | Scrubber fitted |
 | MR | Silver Hague | 49.680 | 2015 | Hyundai Mipo, Korea | 01/2025 | MAN-B&W | $ 340m enbloc (Cash & Shares) | Danish (TORM) | Scrubber fitted |
 | MR | Silver Rotterdam | 49.680 | 2015 | Hyundai Mipo, Korea | 01/2025 | MAN-B&W | $ 340m enbloc (Cash & Shares) | Danish (TORM) | Scrubber fitted |

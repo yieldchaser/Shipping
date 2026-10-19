@@ -80,14 +80,18 @@ A generally quiet week for this segment with limited fresh information. A number
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Newcastlemax | Hark Oldendorff | 209.325 | 2016 | Jiangsu, China | 07/2021 | MAN- B&W | - | $ 45m | US based (JP Morgan) | Dely Jan'22 |
-| Capesize | Stella Lucy | 179.666 | 2015 | Qingdao, China | 07/2025 | MAN- B&W | - | $ 38m | Greek | BWTS fitted, Incl. index linked T/C |
-| Capesize | Stella Laura | 179.549 | 2015 | Qingdao, China | 06/2025 | MAN- B&W | - | $ 36,5m | (Dryships) | BWTS fitted, Incl. fixed rate T/C |
+| Capesize | Stella Lucy | 179.666 | 2015 | Qingdao, China | 07/2025 | MAN- B&W | - | $ 38m | Greek (Dryships) | BWTS fitted, Incl. index linked T/C |
+| Capesize | Stella Laura | 179.549 | 2015 | Qingdao, China | 06/2025 | MAN- B&W | - | $ 36,5m | Greek (Dryships) | BWTS fitted, Incl. fixed rate T/C |
+| Kamsarmax | AM Express | 82.245 | 2010 | Tsuneishi Cebu, Philippines | 01/2025 | MAN- B&W | - | Excess $ 21m | Undisclosed |  |
 | Kamsarmax | Trans Africa | 81.270 | 2017 | Shanghai, China | 08/2022 | MAN- B&W | - | $ 31m | Undisclosed | BWTS fitted |
 | Kamsarmax | Ocean Opal | 81.166 | 2012 | New Century, China | 08/2022 | MAN- B&W | 4x35T | $ 19m | Undisclosed | Geared |
 | Panamax | Elinda Mare | 79.648 | 2010 | New Century, China | 12/2025 | MAN- B&W | - | High $ 18m | Undisclosed | Dely Oct '21 |
+| Panamax | MG Sakura | 75.397 | 2006 | Universal, Japan | 08/2021 | MAN- B&W | - | $ 18m | Greek | Basis SS/DD passed & BWTS fitted, Dely Nov-Dec'21 |
+| Panamax | Cabeiro | 74.475 | 2007 | Hudong- Zhonghua, China | 01/2022 | MAN- B&W | - | $ 13,3m | Chinese | Dely Nov '21 |
 | Supramax | Genco Provence | 55.317 | 2004 | NACKS, China | 08/2024 | MAN- B&W | 4x30T | $ 13,25m | Turkish | BWTS fitted |
 | Supramax | Helena | 50.206 | 2002 | Mitsui, Japan | 07/2022 | MAN- B&W | 4x30T | $ 9,7m | Undisclosed | Dely Nov'21 |
 | Handysize | TS Jasmine | 38.860 | 2018 | Shanhaiguan, China | 05/2023 | Wartsila | 4x30T | $ 20,5m | Chinese |  |
+| Handysize | Yunnan | 34.398 | 2015 | Namura & Sasebo, Japan | 05/2025 | MAN- B&W | 4x30T | $ 16m | Undisclosed | BWTS fitted, Incl. T/C attached until Dec '22 |
 | Handysize | Great Reward | 31.785 | 2011 | Guangzhou, China | 01/2026 | MAN- B&W | 4x30T | $ 13,2m | Chinese | OHBS, BWTS fitted, Dely Oct'21 |
 
 ## Page 4
@@ -98,8 +102,8 @@ A generally quiet week for this segment with limited fresh information. A number
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aframax | Governor Farkhutdinov | 109.295 | 2004 | Brodosplit, Croatia | 09/2024 | B&W | $ 14m | Undisclosed | Shuttle tanker |
 | LR2 | St. Helen | 105.661 | 2002 | Samho, Korea | 04/2022 | B&W | $ 12,5m | Chinese | Old sale |
-| MR | Dee4 Birch | 53.712 | 2006 | Shin Kurushima, Japan | 02/2026 | Mitsubishi | $ 12,2m | US based | BWTS fitted, |
-| MR | Dee4 Acacia | 53.688 | 2006 | Shin Kurushima, Japan | 11/2025 | Mitsubishi | $ 12,2m | (Ridgebury) | Old sales |
+| MR | Dee4 Birch | 53.712 | 2006 | Shin Kurushima, Japan | 02/2026 | Mitsubishi | $ 12,2m | US based (Ridgebury) | BWTS fitted, Old sales |
+| MR | Dee4 Acacia | 53.688 | 2006 | Shin Kurushima, Japan | 11/2025 | Mitsubishi | $ 12,2m | US based (Ridgebury) | BWTS fitted, Old sales |
 | MR | Grand Ace2 | 46.185 | 2006 | Stx, Korea | 03/2026 | MAN- B&W | $ 9,3m | Greek (Aerio Shipmanagement) | BWTS fitted |
 | Chemical/Oil Products | Nipayia | 19.997 | 2009 | Sekwang, Korea | 01/2024 | MAN- B&W | $ 15,75m | Greek |  |
 
@@ -107,6 +111,8 @@ A generally quiet week for this segment with limited fresh information. A number
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sub Panamax | Cape Mahon | 2.742 | 2007 | Aker Mtw Werft, Germany | 09/2022 | MAN-B&W | - | $ 38m | Taiwanese (TS Lines) |  |
+| Sub Panamax | Cape Mayor | 2.742 | 2007 | Aker Mtw Werft, Germany | 10/2022 | Mitsubishi | - | $ 38m | Taiwanese (TS Lines) |  |
 | Feeder | Anassa | 1.740 | 2006 | Guangzhou, China | 10/2021 | MAN-B&W | 2x40T | Region $ 20m | French (CMA CGM) |  |
 | Feeder | JJ Sky | 1.118 | 2006 | Yangzhou, China | 07/2026 | MAN | - | $ 15m | Undisclosed |  |
 

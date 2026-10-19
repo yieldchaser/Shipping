@@ -85,8 +85,8 @@ In the Atlantic, a Continent trip via West Med to USG fetched USD 10,000 pd, whi
 | Panamax | Melia | 76.225 | 2005 | Tsuneishi, Japan | 02/2030 | B&W | - | $ 11,8m | Undisclosed |  |
 | Panamax | AE Jupiter | 74.475 | 2007 | Hudong- Zhonghua, China | 01/2027 | MAN-B&W | - | Mid $ 11m | Chinese |  |
 | Ultramax | IVS Dunes | 62.661 | 2020 | Oshima, Japan | 09/2030 | MAN-B&W | 4x30T | $ 37m | Chinese | T/C attached till Mar-Jun'27 |
-| Supramax | SW North Wind I | 55.989 | 2009 | IHI, Japan | 03/2029 | Wartsila | 4x30T | $ 31m | Undisclosed | Scrubber fitted |
-| Supramax | SW South Wind I | 55.989 | 2009 | IHI, Japan | 01/2029 | Wartsila | 4x30T | enbloc | Undisclosed | Scrubber fitted |
+| Supramax | SW North Wind I | 55.989 | 2009 | IHI, Japan | 03/2029 | Wartsila | 4x30T | $ 31m enbloc | Undisclosed | Scrubber fitted |
+| Supramax | SW South Wind I | 55.989 | 2009 | IHI, Japan | 01/2029 | Wartsila | 4x30T | $ 31m enbloc | Undisclosed | Scrubber fitted |
 | Supramax | Columbia River | 55.922 | 2006 | Mitsui, Japan | 10/2026 | MAN-B&W | 4x30T | Low $ 13m | Chinese | Private deal, Scrubber fitted |
 | Supramax | Silver Star | 55.725 | 2006 | Mitsui, Japan | 08/2030 | MAN-B&W | 4x30T | High $ 8m | Turkish | Non IACS class |
 | Handymax | Ocean Glory | 48.437 | 2001 | Sanoyas, Japan | 10/2026 | Sulzer | 4x30T | High $ 5m | Undisclosed |  |
@@ -123,6 +123,7 @@ In the Atlantic, a Continent trip via West Med to USG fetched USD 10,000 pd, whi
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Post Panamax | Bhudthi Bhum | 6.310 | 2007 | Koyo, Japan | 09/2027 | MAN-B&W | - | $ 50m | UAE (Global Feeder Shipping) |  |
 | Feeder | Wes Sina | 1.049 | 2007 | Dae Sun, Korea | 10/2027 | MAN-B&W | - | $ 12,5m | Chinese |  |
 
 ## Page 5

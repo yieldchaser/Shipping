@@ -91,6 +91,7 @@ A generally quiet week for this segment. US Gulf trips into Continent were repor
 | Handysize | Darya Jamuna | 36.845 | 2012 | Hyundai Mipo, Korea | 05/2027 | MAN-B&W | 4x35T | $ 16m | Greek | BWTS fitted |
 | Handysize | Mighty Maud | 32.576 | 2007 | Kanda, Japan | 05/2027 | Mitsubishi | 4x30,5T | $ 9m | Undisclosed | BWTS fitted |
 | Handysize | Valor SW | 29.818 | 2008 | Shikoku, Japan | 12/2027 | MAN-B&W | 4x30,5T | $ 8,45m | Lebanese | BWTS fitted |
+| Handysize | Oceanic Island | 29.027 | 2010 | Shikoku, Japan | 11/2023 | MAN-B&W | 4x30,5T | $ 4m | Undisclosed | "As Is, Where Is" Laid up in Ukraine |
 
 ## Page 4
 
@@ -99,9 +100,11 @@ A generally quiet week for this segment. US Gulf trips into Continent were repor
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Jiu Yue | 305.749 | 2007 | Daewoo, Korea | 03/2027 | MAN-B&W | $ 48m | Turkish | Delivered |
+| Aframax | Hibernian Tide | 109.896 | 2019 | SWS, China | 03/2024 | MAN-B&W | $ 65,5m | Greek (Minerva) | Delivered, BWTS fitted, Ice Class 1A |
 | LR1 | Nordic Josephine | 74.045 | 2007 | New Century, China | 05/2027 | MAN-B&W | $ 23m | Greek |  |
 | MR | MR Euphrates | 49.999 | 2008 | Guangzhou, China | 12/2023 | MAN-B&W | $ 20,8m | Greek |  |
 | MR | STI Amber | 49.937 | 2012 | Hyundai Mipo, Korea | 07/2027 | MAN-B&W | $ 33,8m | Greek | BWTS fitted, Scrubber fitted |
+| Chemical/Oil Products | Chem Lyra | 17.055 | 2009 | Ningbo, China | 03/2024 | MAN-B&W | $ 14,6m | Chinese (Seacon) | BWTS fitted, Ice Class 1C, Basis 5years BBHP |
 | Chemical/Oil Products | Dolphin 03 | 13.080 | 2007 | 21st Century, Korea | 12/2027 | MAN-B&W | $ 18m enbloc | Undisclosed | BWTS fitted |
 | Chemical/Oil Products | Dolphin 02 | 13.079 | 2007 | 21st Century, Korea | 03/2027 | MAN-B&W | $ 18m enbloc | Undisclosed | BWTS fitted |
 

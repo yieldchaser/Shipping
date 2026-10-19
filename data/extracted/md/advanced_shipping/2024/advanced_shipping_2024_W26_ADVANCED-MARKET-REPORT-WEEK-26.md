@@ -107,6 +107,7 @@ Continental trips into US Gulf were reported at the level of usd 12,000/13,000 p
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Warinsart | 28.521 | 2014 | Hyundai Mipo, Korea | 06/2029 | MAN- B&W | 37.353 | Region $ 50m | German (Schulte Group) | Delivered, BWTS fitted |
 | LPG | Pertusola | 17.670 | 1999 | Sestri, Italy | 03/2027 | Sulzer | 17.395 | $ 14m | Turkish | BWTS fitted |
 | LPG | Sun Gas | 3.318 | 1998 | Shitanoe, Japan | 07/2028 | Mitsubishi | 3.444 | $ 2,5m | Undisclosed |  |
 

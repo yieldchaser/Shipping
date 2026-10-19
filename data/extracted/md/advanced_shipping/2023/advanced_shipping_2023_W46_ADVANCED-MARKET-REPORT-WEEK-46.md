@@ -82,11 +82,13 @@ A generally quiet week for this segment. East Coast South American trips into Co
 | Capesize | Agis | 182.334 | 2023 | Namura & Sasebo, Japan | 09/2028 | MAN-B&W | - | $ 67,5m | Undisclosed | BWTS fitted |
 | Capesize | Frontier Brilliance | 181.412 | 2013 | Imabari, Japan | 12/2028 | MAN-B&W | - | $ 30,5m | Chinese | BWTS fitted |
 | Capesize | True Cartier | 181.380 | 2014 | Imabari, Japan | 07/2024 | MAN-B&W | - | $ 37m | Undisclosed | BWTS fitted, Scrubber fitted |
+| Capesize | Chow | 181.146 | 2016 | SWS, China | 09/2026 | MAN-B&W | - | $ 43,1m | US based (Genco Shipping) | BWTS fitted, Scrubber fitted |
 | Capesize | Xin Bin Hai | 180.086 | 2010 | Dalian, China | 03/2025 | MAN-B&W | - | $ 21,5m | Greek | BWTS fitted |
 | Capesize | Honor | 179.469 | 2011 | Hyundai, Korea | 09/2026 | MAN-B&W | - | $ 24,5m | Greek | BWTS fitted |
 | Capesize | Glory | 179.461 | 2011 | Hyundai, Korea | 09/2026 | MAN-B&W | - | $ 24,5m | Greek | BWTS fitted |
 | Kamsarmax | Ultra Panther | 83.610 | 2008 | Sanoyas, Japan | 06/2028 | MAN-B&W | - | $ 16,3m | Undisclosed | BWTS fitted |
 | Kamsarmax | AP Lovrijenac | 82.000 | 2024 | Jiangsu, China |  | MAN-B&W | - | $ 37m | Undisclosed | Resale, Dely Jan'24 |
+| Kamsarmax | Nord Beluga | 81.841 | 2015 | Oshima, Japan | 04/2025 | MAN-B&W | - | High $ 27m | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1C |
 | Kamsarmax | Xin Yu Long | 80.226 | 2000 | CSBC, Taiwan | 07/2025 | B&W | - | $ 8,85m | Chinese | Delivered |
 | Panamax | Thor | 76.838 | 2005 | Oshima, Japan | 01/2025 | MAN-B&W | - | $ 11,9m | Indian (Ripley Shipping) | BWTS fitted |
 | Panamax | Magic Moon | 76.602 | 2005 | Imabari, Japan | 08/2025 | MAN-B&W | - | $ 11,8m | Turkish | BWTS fitted |
@@ -106,6 +108,7 @@ A generally quiet week for this segment. East Coast South American trips into Co
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Supramax | Navdhenu Purna | 53.490 | 2005 | Imabari, Japan | 08/2025 | MAN-B&W | 4x30,5T | $ 8,5m | Chinese | BWTS fitted, DD 11/2023 |
+| Supramax | Jin Quan | 52.525 | 2006 | Tsuneishi Cebu, Philippines | 06/2026 | MAN-B&W | 4x30T | $ 9,35m | Undisclosed | BWTS fitted, waiving inspection |
 | Supramax | New Lotus | 52.416 | 2001 | Tsuneishi, Japan | 02/2026 | B&W | 4x30T | $ 6,8m | Undisclosed |  |
 | Handysize | Iris Harmony | 38.593 | 2019 | Tsuneishi Cebu, Philippines | 02/2024 | MAN-B&W | 4x30T | Region $ 26m | Undisclosed | OHBS |
 | Handysize | Ijssel Confidence | 38.243 | 2012 | Imabari, Japan | 01/2027 | MAN-B&W | 4x30,5T | $ 15,35m | Undisclosed | Delivered |
@@ -122,8 +125,8 @@ A generally quiet week for this segment. East Coast South American trips into Co
 | LR2 | SKS Dokka | 119.950 | 2010 | Hyundai Samho, Korea | 11/2025 | MAN-B&W | $ 239m cash and 5,5m Torm shares | Danish (TORM) | BWTS fitted |
 | LR2 | SKS Dee | 119.456 | 2010 | Hyundai Samho, Korea | 07/2025 | MAN-B&W | $ 239m cash and 5,5m Torm shares | Danish (TORM) | BWTS fitted |
 | LR2 | SKS Delta | 119.456 | 2010 | Hyundai Samho, Korea | 01/2025 | MAN-B&W | $ 239m cash and 5,5m Torm shares | Danish (TORM) | BWTS fitted |
-| LR2 | SKS Demini | 119.456 | 2012 | Hyundai Samho, Korea | 02/2027 | MAN-B&W | $ 239m cash and 5 5m Torm | Danish (TORM) | BWTS fitted |
-| LR2 | SKS Doda | 119.456 | 2012 | Hyundai Samho, Korea | 04/2027 | MAN-B&W | and 5,5m Torm shares | Danish (TORM) | BWTS fitted |
+| LR2 | SKS Demini | 119.456 | 2012 | Hyundai Samho, Korea | 02/2027 | MAN-B&W | $ 239m cash and 5,5m Torm shares | Danish (TORM) | BWTS fitted |
+| LR2 | SKS Doda | 119.456 | 2012 | Hyundai Samho, Korea | 04/2027 | MAN-B&W | $ 239m cash and 5,5m Torm shares | Danish (TORM) | BWTS fitted |
 | LR2 | SKS Donggang | 119.456 | 2011 | Hyundai Samho, Korea | 04/2026 | MAN-B&W | $ 239m cash and 5,5m Torm shares | Danish (TORM) | BWTS fitted |
 | LR2 | SKS Douro | 119.456 | 2010 | Hyundai Samho, Korea | 05/2025 | MAN-B&W | $ 239m cash and 5,5m Torm shares | Danish (TORM) | BWTS fitted |
 | LR2 | SKS Doyles | 119.456 | 2010 | Hyundai Samho, Korea | 09/2025 | MAN-B&W | $ 239m cash and 5,5m Torm shares | Danish (TORM) | BWTS fitted |
@@ -137,14 +140,15 @@ A generally quiet week for this segment. East Coast South American trips into Co
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aframax | Concord Express | 111.920 | 2003 | Hyundai, Korea | 05/2028 | MAN-B&W | $ 26m | UAE based | BWTS fitted |
 | Aframax | Torm Marina | 109.672 | 2007 | Dalian, China | 03/2027 | Wartsila | $ 36,6m | Undisclosed | BWTS fitted, Scrubber fitted |
-| LR1 | Torm Estrid | 74.999 | 2004 | Hyundai, Korea | 01/2024 | MAN-B&W | $ 40 bl | Chi | Delivered, BWTS fitted |
+| LR1 | Torm Estrid | 74.999 | 2004 | Hyundai, Korea | 01/2024 | MAN-B&W | $ 40m enbloc | Chinese | Delivered, BWTS fitted |
+| LR1 | Torm Ismini | 74.999 | 2004 | Hyundai, Korea | 06/2024 | MAN-B&W | $ 40m enbloc | Chinese | Delivered, BWTS fitted, Scrubber fitted |
 | MR | Chemtrans Carolina | 53.160 | 2006 | Guangzhou, China | 12/2026 | Wartsila | Low $ 29m | Undisclosed | BWTS fitted, Ice Class 1A Super |
 | MR | Seaways Lorain | 51.218 | 2008 | Stx, Korea | 08/2028 | MAN-B&W | $ 24,5m | Undisclosed | BWTS fitted |
 | MR | Falcon Sextant | 50.994 | 2009 | Stx, Korea | 09/2024 | MAN-B&W | $ 25,4m | Undisclosed |  |
-| Chemical/Oil Products | Monax | 20.762 | 2005 | Usuki, Japan | 07/2025 | MAN-B&W | $ 13,5m | Norwegian (Stainless Tankers | St St |
-| Chemical/Oil Products | Marmotas | 19.953 | 2005 | Usuki, Japan | 02/2025 | MAN-B&W | $ 13,5m | (Stainless Tankers ASA) | St St |
-| Chemical/Oil Products | Enford | 16.886 | 2012 | Taizhou, China | 06/2027 | MAN-B&W | $ 14m | Chinese (Seacon | Sale & Leaseback |
-| Chemical/Oil Products | Kenrick | 16.788 | 2012 | Taizhou, China | 06/2027 | MAN-B&W | $ 14m | Shipping) | Sale & Leaseback |
+| Chemical/Oil Products | Monax | 20.762 | 2005 | Usuki, Japan | 07/2025 | MAN-B&W | $ 13,5m | Norwegian (Stainless Tankers ASA) | St St |
+| Chemical/Oil Products | Marmotas | 19.953 | 2005 | Usuki, Japan | 02/2025 | MAN-B&W | $ 13,5m | Norwegian (Stainless Tankers ASA) | St St |
+| Chemical/Oil Products | Enford | 16.886 | 2012 | Taizhou, China | 06/2027 | MAN-B&W | $ 14m | Chinese (Seacon Shipping) | Sale & Leaseback |
+| Chemical/Oil Products | Kenrick | 16.788 | 2012 | Taizhou, China | 06/2027 | MAN-B&W | $ 14m | Chinese (Seacon Shipping) | Sale & Leaseback |
 | Chemical/Oil Products | Bro Developer | 14.737 | 2007 | Jinling, China | 12/2026 | MAN | $ 10,1m | Singaporean | Delivered, Ice Class 1C |
 
 ### Containers

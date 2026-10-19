@@ -79,12 +79,16 @@ A generally quiet week for this segment. A number of trips from US Gulf into Med
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Newcastlemax | Newmax | 203.067 | 2012 | Bohai, China | 06/2027 | Wartsila | - | $ 38m | Singapore based | Delivered |
-| Newcastlemax | Cape Kallia | 203.027 | 2012 | Bohai, China | 06/2027 | Wartsila | - | $ 38m | (Pioneer Bulk) |  |
+| Newcastlemax | Newmax | 203.067 | 2012 | Bohai, China | 06/2027 | Wartsila | - | $ 38m | Singapore based (Pioneer Bulk) | Delivered |
+| Newcastlemax | Cape Kallia | 203.027 | 2012 | Bohai, China | 06/2027 | Wartsila | - | $ 38m | Singapore based (Pioneer Bulk) |  |
+| Capesize | Lowlands Prosperity | 179.895 | 2012 | HHIC, Philippines | 01/2027 | MAN-B&W | - | $ 30,5m | Greek | BWTS fitted, Incl. T/C attached till Dec'24 |
+| Capesize | Haiti | 174.766 | 2004 | SWS, China | Overdue | MAN-B&W | - | $ 15m | HK based (Jiangsu Steamship) | SS/DD overdue |
 | Capesize | Heng Shan | 174.145 | 2007 | SWS, China | 09/2026 | MAN-B&W | - | $ 22m | Chinese | BWTS fitted |
 | Capesize | P Melis | 171.448 | 2003 | Hyundai, Korea | 09/2028 | MAN-B&W | - | $ 16m | Chinese |  |
 | Mini Cape | Star Paola | 115.259 | 2011 | New Times, China | 08/2026 | MAN-B&W | - | $ 23,5m | Undisclosed | Scrubber fitted |
 | Kamsarmax | Cuma | 83.007 | 2006 | Tsuneishi, Japan | 04/2026 | MAN-B&W | - | $ 15m | Undisclosed | BWTS fitted |
+| Kamsarmax | Lowlands Sage | 82.577 | 2021 | Tsuneishi, Japan | 11/2026 | MAN-B&W | - | Low-Mid $ 39m | Undisclosed | Incl. T/C attached till Q1 2025 |
+| Panamax | Chailease Glory | 76.633 | 2003 | Imabari, Japan | 07/2028 | B&W | - | Excess $ 11m | Undisclosed | BWTS fitted, Incl. T/C attached till Jul-Oct'24 |
 | Panamax | ASL Yangpu | 76.015 | 2002 | Tsuneishi, Japan | 04/2025 | B&W | - | $ 9,2m | Undisclosed | Delivered, BWTS fitted |
 | Panamax | Magic Vela | 75.200 | 2011 | Penglai, China | 06/2026 | MAN-B&W | - | $ 16,5m | Turkish | BWTS fitted |
 | Ultramax | Ultra Rocanville | 61.683 | 2012 | Oshima, Japan | 03/2027 | MAN-B&W | 4x30T | Low $ 23m | European | BWTS fitted |
@@ -101,6 +105,7 @@ A generally quiet week for this segment. A number of trips from US Gulf into Med
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | Phoebe | 311.110 | 2005 | Mitsui, Japan | 05/2025 | MAN-B&W | $ 40m | Undisclosed | Old sale, BWTS fitted, Scrubber fitted |
 | Suezmax | Front Loki | 156.642 | 2010 | Jiangsu, China | 03/2025 | MAN-B&W | $ 47m | Norwegian | Scrubber fitted |
 | Aframax | Claret Prince | 109.005 | 2010 | Hudong-Zhonghua, China | 01/2025 | MAN-B&W | $ 43,5m | Chinese | BWTS fitted, Scrubber fitted |
 | Aframax | Sona Star | 105.483 | 2003 | Sumitomo, Japan | 11/2028 | Sulzer | $ 27,5m | Undisclosed | BWTS fitted |
@@ -108,8 +113,8 @@ A generally quiet week for this segment. A number of trips from US Gulf into Med
 | MR | Seaways Nantucket | 51.225 | 2008 | Stx, Korea | 06/2028 | MAN-B&W | $ 25,1m | Middle Eastern | BWTS fitted |
 | MR | STI Manhattan | 49.990 | 2015 | Spp, Korea | 03/2025 | MAN-B&W | $ 41m | Korean (KSS Line) | BWTS fitted, Scrubber fitted |
 | MR | Dai Minh | 47.148 | 2004 | Onomichi, Japan | 03/2027 | B&W | $ 16m | Middle Eastern | BWTS fitted |
-| MR | Gold Trader III | 33.338 | 2023 | Nantong, China | 03/2028 | WinGD | $ 114m enbloc | Bermuda based | St St, BWTS fitted |
-| MR | Gold Trader II | 33.324 | 2022 | Nantong, China | 12/2027 | WinGD | $ 114m enbloc | (SFL Corporation) | St St, BWTS fitted |
+| MR | Gold Trader III | 33.338 | 2023 | Nantong, China | 03/2028 | WinGD | $ 114m enbloc | Bermuda based (SFL Corporation) | St St, BWTS fitted |
+| MR | Gold Trader II | 33.324 | 2022 | Nantong, China | 12/2027 | WinGD | $ 114m enbloc | Bermuda based (SFL Corporation) | St St, BWTS fitted |
 | Chemical/Oil Products | TRF Kobe | 19.997 | 2016 | Kitanihon, Japan | 03/2026 | MAN-B&W | $ 32m | Undisclosed | St St, BWTS fitted |
 | Chemical/Oil Products | TRF Kristiansand | 19.996 | 2016 | Kitanihon, Japan | 07/2026 | MAN-B&W | $ 32m | Undisclosed | St St, BWTS fitted |
 | Chemical/Oil Products | Ivory Ray | 19.991 | 2011 | Fukuoka, Japan | 03/2026 | MAN-B&W | $ 24,9m | Undisclosed | St St, BWTS fitted |

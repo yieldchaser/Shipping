@@ -84,8 +84,8 @@ Australian trips into China were reported at usd 16,000 pd, while North China tr
 | Post Panamax | Lowlands Teal | 95.823 | 2020 | Oshima, Japan | 05/2030 | MAN-B&W | - | $ 36,5m | Japanese |  |
 | Kamsarmax | Panagia Force | 81.791 | 2007 | Mitsui, Japan | 04/2027 | MAN-B&W | - | $ 13,5m | Undisclosed |  |
 | Panamax | Exelixsea | 76.361 | 2011 | Oshima, Japan | 09/2026 | MAN-B&W | - | $ 17,5m | Undisclosed |  |
-| Ultramax | Tian Mu Shan | 63.437 | 2017 | Sainty, China | 01/2027 | MAN-B&W | 4x36T | $ 52,32m | Undisclosed | Online bidding |
-| Ultramax | Yan Dang Shan | 63.301 | 2017 | Sainty, China | 06/2027 | MAN-B&W | 4x30T | enbloc | Undisclosed | Online bidding |
+| Ultramax | Tian Mu Shan | 63.437 | 2017 | Sainty, China | 01/2027 | MAN-B&W | 4x36T | $ 52,32m enbloc | Undisclosed | Online bidding |
+| Ultramax | Yan Dang Shan | 63.301 | 2017 | Sainty, China | 06/2027 | MAN-B&W | 4x30T | $ 52,32m enbloc | Undisclosed | Online bidding |
 | Ultramax | Beltiger | 63.025 | 2017 | New Times, China | 01/2027 | MAN-B&W | 4x30T | $ 26,8m | Undisclosed |  |
 | Supramax | Ausone | 56.812 | 2012 | Yangzhou, China | 04/2027 | Wartsila | 4x36T | $ 14m | Undisclosed |  |
 | Supramax | Sea Affluence | 56.741 | 2012 | Jiangsu, China | 04/2030 | MAN-B&W | 4x36T | xs $ 15m | Undisclosed |  |

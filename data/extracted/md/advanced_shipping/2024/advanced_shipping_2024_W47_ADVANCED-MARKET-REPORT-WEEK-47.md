@@ -89,8 +89,8 @@ A number of Indonesian and Australian trips into Indonesia were reported at the 
 | Supramax | Bright Kowa | 51.156 | 2012 | Imabari, Japan | 04/2025 | MAN-B&W | 4x30,5T | $ 16m | Undisclosed | OHBS, BWTS fitted |
 | Handymax | Rashad | 48.377 | 2001 | Sanoyas, Japan | 05/2026 | Sulzer | 4x30T | $ 5,2m | Chinese |  |
 | Handysize | Wellpark | 37.429 | 2014 | Oshima, Japan | 06/2029 | MAN-B&W | 4x30T | $ 19,2m | Undisclosed | OHBS, BWTS fitted |
-| Handysize | Four Aida | 34.408 | 2009 | Spp, Korea | 09/2029 | MAN-B&W | 4x35T | $ 23m | Greek | BWTS fitted |
-| Handysize | Four Otello | 34.357 | 2010 | Spp, Korea | 06/2025 | MAN-B&W | 4x35T | enbloc | Greek | BWTS fitted |
+| Handysize | Four Aida | 34.408 | 2009 | Spp, Korea | 09/2029 | MAN-B&W | 4x35T | $ 23m enbloc | Greek | BWTS fitted |
+| Handysize | Four Otello | 34.357 | 2010 | Spp, Korea | 06/2025 | MAN-B&W | 4x35T | $ 23m enbloc | Greek | BWTS fitted |
 | Handysize | Nord Copenhagen | 33.175 | 2012 | Kanda, Japan | 09/2027 | Mitsubishi | 4x30,5T | Low $ 14m | Undisclosed | OHBS, BWTS fitted |
 
 ## Page 4
@@ -100,6 +100,7 @@ A number of Indonesian and Australian trips into Indonesia were reported at the 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR | Bruno | 46.101 | 2004 | Stx, Korea | 08/2028 | MAN-B&W | $ 17,5m | Chinese | Delivered, BWTS fitted |
+| MR | Sunflyte | 37.272 | 2001 | Hyundai Mipo, Korea | 12/2026 | B&W | $ 11,5m | Undisclosed | Old sale, BWTS fitted, Ice Class 1B |
 | Chemical/Oil Products | Kiisla | 14.750 | 2004 | Viana Do Castelo, Portugal | 10/2029 | Wartsila | $ 12m enbloc | Undisclosed | BWTS fitted, Ice Class 1A |
 | Chemical/Oil Products | Suula | 14.665 | 2005 | Viana Do Castelo, Portugal | 02/2025 | Wartsila | $ 12m enbloc | Undisclosed | BWTS fitted, Ice Class 1A |
 | Oil Products | JM Sutera 6 | 11.134 | 2010 | Yangzhou, China | 12/2024 | MAN | Mid $ 7m | Undisclosed |  |

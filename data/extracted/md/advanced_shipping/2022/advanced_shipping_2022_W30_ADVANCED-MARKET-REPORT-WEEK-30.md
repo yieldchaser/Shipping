@@ -93,7 +93,9 @@ A number of East Coast South American trips into Continent were reported fixed a
 | VLCC | Kioni | 310.389 | 2004 | Imabari, Japan | 10/2024 | MAN- B&W | $ 29,5m | Undisclosed | DD 08/2022 |
 | Suezmax | Astro Polaris | 159.073 | 2004 | Hyundai, Korea | 03/2024 | B&W | $ 21,5m | Chinese | DD 08/2022 |
 | Suezmax | Astro Phoenix | 159.055 | 2004 | Hyundai, Korea | 01/2024 | B&W | $ 21,5m | Chinese | DD 08/2022 |
+| Suezmax | Dolviken | 159.058 | 2012 | Samsung, Korea | 01/2027 | MAN- B&W | $ 42,5m | Turkish (Advantage Tankers) |  |
 | Aframax | Blue Pride | 115.048 | 2004 | Daewoo, Korea | 08/2024 | B&W | $ 23m | Undisclosed | BWTS fitted, DD 11/2022 |
+| Aframax | Jag Lyall | 110.531 | 2006 | Dalian, China | 05/2024 | MAN- B&W | $ 26,2m | Chinese | BWTS fitted, Scrubber fitted, basis DD passed |
 | Aframax | Oracle | 105.380 | 2008 | Sumitomo, Japan | 07/2023 | MAN- B&W | $ 28,75m | Undisclosed |  |
 | MR | Grand | 50.129 | 2008 | Spp, Korea | 11/2023 | MAN- B&W | Low-Mid $ 19m | Vietnamese | BWTS fitted |
 | MR | Largo Sun | 49.990 | 2016 | Spp, Korea | 02/2026 | MAN- B&W | $ 35m | Greek | BWTS fitted |
@@ -110,8 +112,8 @@ A number of East Coast South American trips into Continent were reported fixed a
 | MR | Hafnia Adamello | 40.002 | 2004 | Saiki, Japan | 08/2024 | Mitsubishi | $ 12m | Turkish (Beks) | BWTS fitted, DD 09/2022 |
 | MR | Baltic Favour | 37.105 | 2006 | Hyundai Mipo, Korea | 07/2026 | MAN- B&W | Excess $ 14m | Undisclosed | BWTS fitted, Ice Class 1A |
 | MR | Atlantic Symphony | 36.684 | 2009 | Hyundai Mipo, Korea | 09/2024 | MAN- B&W | $ 68m enbloc | Undisclosed |  |
-| MR | Atlantic Canyon | 36.677 | 2009 | Hyundai Mipo, Korea | 07/2024 | MAN- B&W | $ 68m | Undisclosed |  |
-| MR | Atlantic Jupiter | 36.677 | 2009 | Hyundai Mipo, Korea | 02/2024 | MAN- B&W | enbloc | Undisclosed |  |
+| MR | Atlantic Canyon | 36.677 | 2009 | Hyundai Mipo, Korea | 07/2024 | MAN- B&W | $ 68m enbloc | Undisclosed |  |
+| MR | Atlantic Jupiter | 36.677 | 2009 | Hyundai Mipo, Korea | 02/2024 | MAN- B&W | $ 68m enbloc | Undisclosed |  |
 | MR | Atlantic Sirius | 36.677 | 2010 | Hyundai Mipo, Korea | 03/2025 | MAN- B&W | $ 68m enbloc | Undisclosed |  |
 | Chemical/Oil Products | Rhaeo Rapid | 13.224 | 2008 | Jinse, Korea | 07/2023 | MAN- B&W | $ 7m | Undisclosed |  |
 
@@ -119,9 +121,10 @@ A number of East Coast South American trips into Continent were reported fixed a
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | Johanna Schulte | 9.403 | 2013 | Shanghai, China | 10/2023 | MAN-B&W | - | Undisclosed | Swiss based | BWTS fitted, |
-| Post Panamax | Judith Schulte | 9.403 | 2013 | Shanghai, China | 07/2023 | MAN-B&W | - | Undisclosed | (MSC) | Scrubber ready |
+| Post Panamax | Johanna Schulte | 9.403 | 2013 | Shanghai, China | 10/2023 | MAN-B&W | - | Undisclosed | Swiss based (MSC) | BWTS fitted, Scrubber ready |
+| Post Panamax | Judith Schulte | 9.403 | 2013 | Shanghai, China | 07/2023 | MAN-B&W | - | Undisclosed | Swiss based (MSC) | BWTS fitted, Scrubber ready |
 | Panamax | Cap Capricorn | 3.884 | 2013 | Zhejiang, China | 10/2023 | MAN-B&W | - | $ 75m | French (CMA CGM) |  |
+| Feeder | A Roku | 1.708 | 2008 | Imabari, Japan | 06/2027 | MAN-B&W | - | $ 30m | Vietnamese (Hai An Transport) |  |
 | Feeder | X-Press Yamuna | 1.162 | 1998 | Szczecinska, Poland | 05/2023 | B&W | 3x40T | Undisclosed | Middle Eastern |  |
 | Feeder | Harbour Express | 560 | 1998 | Watanabe, Japan | 03/2023 | B&W | 2x36T | $ 10m | Undisclosed |  |
 

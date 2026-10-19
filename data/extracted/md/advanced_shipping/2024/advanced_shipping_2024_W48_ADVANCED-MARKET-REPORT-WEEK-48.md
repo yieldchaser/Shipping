@@ -94,6 +94,7 @@ North Pacific rounds ranged at the usd 12,000/14,000 pd. West African trips into
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Xidi | 306.352 | 2004 | Mitsubishi, Japan | 05/2027 | Mitsubishi | Region $ 32m | Far Eastern | BWTS fitted |
 | VLCC | Tricia II | 281.050 | 2000 | Mitsubishi, Japan | 12/2028 | Mitsubishi | $ 20,9m | Undisclosed |  |
+| Suezmax | Umnenga II | 162.293 | 2006 | Daewoo, Korea | 04/2026 | MAN-B&W | $ 36m | Undisclosed | BWTS fitted, Scrubber fitted, Ice Class 1A, CPP |
 | Aframax | Sofia II | 105.400 | 2008 | Sumitomo, Japan | 09/2028 | MAN-B&W | Low $ 30's | Undisclosed | BWTS fitted |
 | Chemical/Oil Products | Maersk Bering | 29.057 | 2005 | Guangzhou, China | 08/2025 | MAN-B&W | High $ 15m | Chinese | BWTS fitted, Ice Class 1C |
 | Chemical/Oil Products | Valley Oak | 13.131 | 2008 | Sekwang, Korea | 06/2027 | MAN-B&W | $ 10,5m | Singaporean | BWTS fitted |

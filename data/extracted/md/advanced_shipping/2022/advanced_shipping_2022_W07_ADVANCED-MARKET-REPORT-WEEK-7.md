@@ -81,6 +81,8 @@ A number of trips from China into Mediterranean were reported at the level of us
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Newcastlemax | Baosteel Expedition | 203.198 | 2007 | Universal, Japan | 12/2025 | MAN- B&W | - | $ 19,5m | Greek |  |
 | Panamax | Bonanza | 73.613 | 2003 | Jiangnan, China | 12/2023 | MAN- B&W | - | Undisclosed | Undisclosed | BWTS fitted, DD 03/2022 |
+| Supramax | Doric | 58.514 | 2013 | Spp, Korea | 07/2023 | MAN- B&W | 4x36T | $ 21m | Greek | BWTS fitted, T/C until Jun- Aug'22 |
+| Supramax | Ionic | 58.468 | 2013 | Spp, Korea | 09/2023 | MAN- B&W | 4x36T | $ 21m | Greek | BWTS fitted, T/C until May- Sep'22 |
 | Supramax | Gravity | 56.546 | 2014 | Jiangsu, China | 01/2024 | MAN- B&W | 4x36T | $ 16,88m | Chinese | DD 02/2022 |
 | Supramax | Ivy Unicorn | 55.874 | 2011 | IHI, Japan | 09/2026 | Wartsila | 4x35T | $ 20,5m | German | BWTS fitted |
 | Supramax | Bumblebee | 55.628 | 2011 | Mitsui, Japan | 10/2026 | MAN- B&W | 4x30T | $ 20,4m | Middle Eastern | BWTS fitted |
@@ -108,6 +110,7 @@ A number of trips from China into Mediterranean were reported at the level of us
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panamax | North Bridge | 4.298 | 2006 | Hyundai, Korea | 02/2023 | MAN-B&W | - | Undisclosed | Swiss based (MSC) |  |
 | Sub Panamax | Hammonia Palatium | 2.546 | 2006 | Jiangsu, China | 11/2026 | MAN-B&W | 3x45T | Undisclosed | Swiss based (MSC) |  |
+| Sub Panamax | Elizabeth | 2.496 | 2003 | Daewoo- Mangalia, Romania | 03/2025 | Sulzer | 3x45T | $ 10,53m | Undisclosed | Incl. T/C |
 | Sub Panamax | Cindy | 2.490 | 2004 | Hdw Ag-Kiel- Geu, Germany | 11/2024 | Sulzer | 3x45T | $ 10,97m | Undisclosed | Incl. T/C |
 | Feeder | Sag Good Timing | 1.118 | 2009 | Taizhou, China | 03/2024 | MAN | 2x45T | $ 22m | German (Hapag-Lloyd) |  |
 | Feeder | Diana K | 642 | 1996 | Dae Sun, Korea | 03/2024 | B&W | 2x36T | Low $ 4m | Undisclosed | DD 03/2022 |
@@ -117,8 +120,8 @@ A number of trips from China into Mediterranean were reported at the level of us
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | General Cargo | Maritime Voyager | 64.942 | 2016 | Oshima, Japan | 07/2026 | MAN-B&W | 4x40T | $ 36m | Chinese (COSCO) | OHBS |
-| General Cargo | Maritime Sinchai | 64.928 | 2017 | Oshima, Japan | 02/2022 | MAN-B&W | 4x40T | $ 36m | Chinese | OHBS |
-| General Cargo | Maritime Challenger | 64.794 | 2017 | Oshima, Japan | 07/2022 | MAN-B&W | 2x75T Cr 2x40T Cr | $ 36m | (COSCO) | OHBS |
+| General Cargo | Maritime Sinchai | 64.928 | 2017 | Oshima, Japan | 02/2022 | MAN-B&W | 4x40T | $ 36m | Chinese (COSCO) | OHBS |
+| General Cargo | Maritime Challenger | 64.794 | 2017 | Oshima, Japan | 07/2022 | MAN-B&W | 2x75T Cr 2x40T Cr | $ 36m | Chinese (COSCO) | OHBS |
 | General Cargo | Maritime Sonia | 64.793 | 2017 | Oshima, Japan | 05/2022 | MAN-B&W | 4x75T Cr | $ 36m | Chinese (COSCO) | OHBS |
 | General Cargo | CS Future | 34.038 | 2010 | Nantong, China | 03/2025 | MAN-B&W | 2x40T Cr, 3x35T Cr | $ 17m | Undisclosed | BWTS fitted 974 Teu |
 | General Cargo | Doreen | 35.015 | 2004 | Kouan, China | 01/2027 | Sulzer | 4x35T | $ 22m | Singapore based | 1.878 Teu |

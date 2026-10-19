@@ -80,12 +80,15 @@ South East Asian trips via Australia into Japan were fixed around usd 8.000 pd. 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Newcastlemax | Cape Maple | 206.204 | 2005 | Imabari, Japan | 08/2025 | MAN- B&W | - | $ 15,1m | Chinese | BWTS fitted, Scrubber fitted |
-| Capesize | Aquasalwador | 180.012 | 2012 | Daehan, Korea | 01/2027 | MAN- B&W | - | $ 27m | Greek (Laskaridis | BWTS fitted |
-| Capesize | Aquanavigator | 179.905 | 2011 | Daehan, Korea | 12/2026 | MAN- B&W | - | $ 25m | (Laskaridis Maritime) | BWTS fitted |
-| Capesize | Goodship | 177.536 | 2005 | Mitsui, Japan | 11/2025 | B&W | - | $ 36,25m | Greek (U i d | Internal sales, |
+| Capesize | Aquasalwador | 180.012 | 2012 | Daehan, Korea | 01/2027 | MAN- B&W | - | $ 27m | Greek (Laskaridis Maritime) | BWTS fitted |
+| Capesize | Aquanavigator | 179.905 | 2011 | Daehan, Korea | 12/2026 | MAN- B&W | - | $ 25m | Greek (Laskaridis Maritime) | BWTS fitted |
+| Capesize | Goodship | 177.536 | 2005 | Mitsui, Japan | 11/2025 | B&W | - | $ 36,25m enbloc | Greek (United Maritime) | Internal sales, Incl. T/C |
+| Capesize | Tradership | 176.925 | 2006 | Namura & Sasebo, Japan | 07/2025 | MAN- B&W | - | $ 36,25m enbloc | Greek (United Maritime) | Internal sales, Incl. T/C |
 | Capesize | Bulk China | 176.274 | 2005 | Universal, Japan | 03/2025 | B&W | - | $ 13,3m | Turkish | BWTS fitted, DD 05/2023 |
 | Panamax | Achilles II | 75.785 | 2004 | Sanoyas, Japan | 01/2024 | MAN- B&W | - | $ 10,3m | Undisclosed | BWTS fitted |
 | Ultramax | Petit Cham | 63.526 | 2013 | Chengxi, China | 06/2023 | MAN- B&W | 4x30T | Region $ 20,5m | Undisclosed | BWTS fitted |
+| Ultramax | Sea Ksanti | 59.941 | 2012 | Hyundai Mipo, Korea | 01/2027 | MAN- B&W | 4x30T | $ 18,8m | Undisclosed | BWTS fitted |
+| Supramax | Astra Perseus | 58.518 | 2012 | DSME Shandong, China | 10/2027 | MAN- B&W | Region $ 16,55m | Region $ 16,55m | Norwegian KS fund | BWTS fitted |
 | Supramax | CN Journey | 57.005 | 2010 | Cosco, China | 05/2025 | MAN- B&W | 4x30T | $ 13m | Indonesian | BWTS fitted |
 | Supramax | Sunrise Rainbow | 56.416 | 2012 | Jiangsu, China | 07/2025 | MAN- B&W | 4x36T | $ 15,5m | Undisclosed | BWTS fitted, DD 04/2023 |
 | Supramax | Kitakami | 55.668 | 2009 | Mitsui, Japan | 03/2027 | MAN- B&W | 4x30T | Region $ 15m | Chinese | BWTS fitted |
@@ -107,6 +110,7 @@ South East Asian trips via Australia into Japan were fixed around usd 8.000 pd. 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Suezmax | Ice Transporter | 146.270 | 2006 | Universal, Japan | 10/2026 | MAN- B&W | $ 47,5m | Middle Eastern | BWTS fitted, Ice Class 1A |
+| Suezmax | Mike R | 146.427 | 2006 | Universal, Japan | 09/2026 | MAN- B&W | $ 50m | Middle Eastern | BWTS fitted, Scrubber fitted, Ice Class 1A |
 | Aframax | Syra | 105.309 | 2010 | Sumitomo, Japan | 03/2025 | MAN- B&W | $ 39,5m | Middle Eastern | BWTS fitted |
 | LR1 | Alpine Plymouth | 74.606 | 2011 | Hyundai Mipo, Korea | 08/2025 | MAN- B&W | $ 32,5m | Scandinavian | BWTS fitted |
 | LR1 | Alpine Pembroke | 74.602 | 2010 | Hyundai Mipo, Korea | 11/2025 | MAN- B&W | $ 32,5m | Scandinavian | BWTS fitted |

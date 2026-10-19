@@ -79,8 +79,8 @@ In the Atlantic, Continent trips into the US Gulf were fixed at usd 14,000 pd, w
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Newcastlemax | RTM Cartier | 205.507 | 2012 | HHIC, Philippines | 08/2027 | MAN-B&W | - | xs $ 90m | Chinese |  |
-| Newcastlemax | RTM Zheng He | 205.431 | 2012 | HHIC, Philippines | 11/2027 | MAN-B&W | - | enbloc | Chinese |  |
+| Newcastlemax | RTM Cartier | 205.507 | 2012 | HHIC, Philippines | 08/2027 | MAN-B&W | - | xs $ 90m enbloc | Chinese |  |
+| Newcastlemax | RTM Zheng He | 205.431 | 2012 | HHIC, Philippines | 11/2027 | MAN-B&W | - | xs $ 90m enbloc | Chinese |  |
 | Post Panamax | Corona Brave | 88.172 | 2006 | Imabari, Japan | 12/2027 | MAN-B&W | - | $ 12,9m | Chinese | DD 11/2026 |
 | Kamsarmax | Skyros | 79.366 | 2011 | Nanjing, China | 12/2026 | MAN-B&W | - | High $ 13m | Undisclosed |  |
 | Panamax | Alexandros Petrakis | 76.596 | 2008 | Shin Kasado, Japan | 06/2026 | MAN-B&W | - | $ 13,3m | Chinese |  |
@@ -89,8 +89,8 @@ In the Atlantic, Continent trips into the US Gulf were fixed at usd 14,000 pd, w
 | Ultramax | Amstel Tiger | 60.454 | 2016 | Oshima, Japan | 08/2026 | MAN-B&W | 4x30T | High $ 26m | Undisclosed |  |
 | Supramax | Phoenix K | 54.881 | 2007 | Oshima, Japan | 05/2027 | MAN-B&W | 4x30T | $ 14m | Chinese | OHBS |
 | Supramax | Asteris | 53.629 | 2007 | Yangzhou, China | 04/2027 | MAN-B&W | 4x35T | $ 9,8m | Undisclosed |  |
-| Handysize | Dorysia | 36.863 | 2010 | Hyundai Mipo, Korea | 10/2030 | MAN-B&W | 4x30T | $ 25m | Vietnamese (Hoang Anh |  |
-| Handysize | Stradion | 36.863 | 2011 | Hyundai Mipo, Korea | 01/2031 | MAN-B&W | 4x30T | enbloc | (Hoang Anh Shipping) |  |
+| Handysize | Dorysia | 36.863 | 2010 | Hyundai Mipo, Korea | 10/2030 | MAN-B&W | 4x30T | $ 25m enbloc | Vietnamese (Hoang Anh Shipping) |  |
+| Handysize | Stradion | 36.863 | 2011 | Hyundai Mipo, Korea | 01/2031 | MAN-B&W | 4x30T | $ 25m enbloc | Vietnamese (Hoang Anh Shipping) |  |
 | Handysize | KS Grace | 36.320 | 2014 | Shikoku, Japan | 01/2029 | MAN-B&W | 4x30,5T | High $ 16m | Undisclosed |  |
 | Handysize | Gulnak | 35.167 | 2011 | Lianyungang, China | 01/2031 | MAN-B&W | 4x30T | $ 9,3m | Greek |  |
 
@@ -98,6 +98,7 @@ In the Atlantic, Continent trips into the US Gulf were fixed at usd 14,000 pd, w
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LR1 | Danship Tope | 76.578 | 2008 | Dalian, China | 03/2028 | MAN-B&W | $ 19m | Greek (Petrochem General Management) | Delivered, DD 06/2026 |
 | LR1 | Cape Tampa | 73.719 | 2009 | New Times, China | 03/2029 | MAN-B&W | Low-Mid $ 20's | Turkish (Genel Shipping) | Delivered |
 | MR | Arion | 51.589 | 2010 | Hyundai Mipo, Korea | 03/2030 | MAN-B&W | $ 25m | Greek |  |
 | MR | Dai Phu | 50.530 | 2006 | Spp, Korea | 08/2026 | Sulzer | $ 13,3m | Undisclosed |  |

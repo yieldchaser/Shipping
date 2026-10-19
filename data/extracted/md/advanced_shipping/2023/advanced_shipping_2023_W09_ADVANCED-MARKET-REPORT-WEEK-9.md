@@ -79,8 +79,11 @@ A generally quiet week for this segment. North Pacific rounds ranged at the usd 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Navios Felix | 181.221 | 2016 | Imabari, Japan | 09/2026 | MAN- B&W | - | $ 40,7m | Greek (Navios) | Scrubber fitted, p.option exercised |
+| Supramax | Sun Globe | 58.790 | 2007 | Tsuneishi Cebu, Philippines | 08/2027 | MAN- B&W | 4x30T | $ 14,1m | Chinese | BWTS fitted |
 | Supramax | Supra Oniki | 57.022 | 2010 | Qingshan, China | 07/2025 | MAN- B&W | 4x35T | $ 12,9m | Undisclosed | BWTS fitted, DD 08/2023 |
 | Supramax | Soldoy | 56.830 | 2011 | Yangfan, China | 07/2026 | MAN- B&W | 4x36T | $ 14,95m | Undisclosed | Old sale, BWTS fitted |
+| Handysize | Interlink Priority | 38.709 | 2015 | Taizhou, China | 09/2025 | MAN- B&W | 4x30T | $ 19,8m | UK based (Tufton Oceanic) | BWTS fitted, Ice Class 1C |
 | Handysize | Basic Princess | 38.037 | 2012 | Imabari, Japan | 06/2025 | MAN- B&W | 4x30,5T | Undiscl. | Turkish | BBHP, BWTS fitted |
 | Handysize | Lancaster Strait | 37.405 | 2013 | Hyundai Mipo, Korea | 04/2023 | MAN- B&W | 4x30T | Low $ 16m | German | T/C attached |
 | Handysize | Taibo | 35.112 | 2011 | Zhejiang, China | 12/2026 | MAN- B&W | 4x30T | $ 10m | Norwegian (Pareto) | BWTS fitted |
@@ -94,13 +97,16 @@ A generally quiet week for this segment. North Pacific rounds ranged at the usd 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | Eminence | 321.300 | 2009 | Daewoo, Korea | 07/2024 | Wartsila | $ 61m | Malaysian (Yinson Holdings) | Delivered, BWTS fitted, Scrubber fitted |
 | Suezmax | Yellow Trader | 158.609 | 2004 | Daewoo, Korea | 09/2024 | B&W | $ 35m | Undisclosed | BWTS fitted |
 | LR2 | Four Sky | 115.708 | 2010 | Samsung, Korea | 03/2025 | MAN- B&W | Region $ 42,5m | Undisclosed | DD 03/2023 |
 | Aframax | Delaware Star | 115.000 | 2023 | Daehan, Korea |  | MAN- B&W | $ 76m | Libyan (GNMTC) | Resales |
 | Aframax | Galveston Star | 115.000 | 2023 | Daehan, Korea |  | MAN- B&W | $ 76m | Libyan (GNMTC) | Resales |
 | LR2 | Apostolos II | 105.852 | 2008 | Namura & Sasebo, Japan | 09/2025 | MAN- B&W | Region $ 38m | Indian | Delivered |
 | LR2 | Beks Indiana | 105.547 | 2007 | Sumitomo, Japan | 03/2027 | Wartsila | High $ 30's | Indian (Gatik) | Prompt dely Med |
+| LR1 | La Boheme | 73.762 | 2007 | Stx, Korea | 11/2026 | MAN- B&W | Undisclosed | Indian (Gatik) | Delivered, Scrubber fitted, Ice Class 1A |
 | LR1 | Sand Shiner | 73.715 | 2006 | New Century, China | 12/2026 | MAN- B&W | $ 23,25m | Undisclosed | Scrubber fitted |
+| LR1 | Chemtrans Saturn | 72.247 | 2006 | Hudong- Zhonghua, China | 03/2026 | MAN- B&W | Low $ 20m | Greek (IMS) | Delivered, BWTS fitted |
 | MR | Spruce Express | 51.218 | 2006 | Stx, Korea | 09/2026 | MAN- B&W | High $ 18m | Greek | BWTS fitted |
 | MR | Marlin Amethyst | 49.999 | 2015 | Comec, China | 07/2025 | MAN- B&W | High $ 33m | UK (Union Maritime) |  |
 | Bunkering | Pearl Majestic | 7.999 | 2018 | Bohai, China | 09/2024 | Yanmar | $ 14m | Peninsula Petroleum |  |
@@ -115,6 +121,7 @@ A generally quiet week for this segment. North Pacific rounds ranged at the usd 
 | Panamax | Hammonia Lipsia | 3.091 | 2004 | Szczecinska, Poland | 12/2026 | B&W | 3x45T | $ 14,5m | Swiss based (MSC) | Delivered |
 | Sub Panamax | Windermere | 2.797 | 2010 | Yangfan, China | 12/2027 | MAN- B&W | - | $ 17m | Undisclosed | BWTS fitted, Ice Class II |
 | Sub Panamax | TS Manila | 2.553 | 2007 | Naikai, Japan | 11/2027 | MAN- B&W | - | Undisclosed | Indian (Shreyas) |  |
+| Feeder | Julius | 1.368 | 2009 | Shandong, China | 11/2024 | MAN- B&W | 2x40T | $ 8,8m | German (Hermann Lohmann) | Ice Class 1A |
 | Feeder | A Fuku | 1.043 | 2007 | Dae Sun, Korea | 08/2027 | MAN- B&W | - | $ 10m | Undisclosed |  |
 | Feeder | A Kou | 1.043 | 2007 | Dae Sun, Korea | 11/2027 | MAN- B&W | - | $ 11m | Undisclosed |  |
 
@@ -122,6 +129,7 @@ A generally quiet week for this segment. North Pacific rounds ranged at the usd 
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LNG | Golar Seal | 82.048 | 2013 | Samsung, Korea | 10/2023 | Wartsila | 157.337 | $ 184,3m | Norwegian (Hoegh LNG Holdings) |  |
 | LNG | Gaslog Athens | 78.957 | 2006 | Samsung, Korea | 01/2025 | Kawasaki | 142.100 | $ 55m | Undisclosed |  |
 | LPG | Gaschem Bremen | 26.645 | 2010 | Hyundai Mipo, Korea | 10/2025 | MAN-B&W | 34.300 | $ 39m | Turkish |  |
 | LPG | Eco Evoluzione | 26.618 | 2010 | Hyundai Mipo, Korea | 12/2025 | MAN-B&W | 34.420 | $ 39m | Turkish |  |

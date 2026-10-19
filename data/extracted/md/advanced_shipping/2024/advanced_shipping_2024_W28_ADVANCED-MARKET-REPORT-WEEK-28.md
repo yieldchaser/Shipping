@@ -86,6 +86,7 @@ No fixture reported for this segment. No period activity to report here.
 | Handymax | Solar | 46.786 | 2000 | Kanasashi, Japan | 06/2025 | Mitsubishi | 4x30T | $ 7,4m | Turkish | BWTS fitted |
 | Handysize | Maestro Emerald | 39.830 | 2020 | Saiki, Japan | 06/2025 | MAN-B&W | 4x30T | Region $ 30m | Turkish | OHBS, BWTS fitted |
 | Handysize | Bamboo Star | 37.609 | 2019 | Minaminippon, Japan | 12/2024 | MAN-B&W | 4x30T | Region $ 28m | Korean (HMM) | OHBS, BWTS fitted |
+| Handysize | Cabrera | 35.732 | 2011 | Qidong, China | 11/2026 | MAN-B&W | 4x30T | $ 14,6m | Undisclosed | OHBS, BWTS fitted, Ice Class 1C, DD 12/2024 |
 | Handysize | Efi Theo | 34.295 | 2012 | Zhejiang, China | 02/2027 | MAN-B&W | 4x30T | $ 12m | Greek | BWTS fitted |
 | Handysize | Noble Oak | 28.492 | 2005 | Imabari, Japan | 09/2025 | MAN-B&W | 4x30,5T | $ 7,7m | Undisclosed | BWTS fitted, Dely Sep-Nov'24 |
 

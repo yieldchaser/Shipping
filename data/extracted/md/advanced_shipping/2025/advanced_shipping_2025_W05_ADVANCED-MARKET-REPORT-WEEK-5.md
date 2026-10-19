@@ -81,6 +81,7 @@ A number of trips from Japan into South East Asia were fixed around usd 2,000/3,
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Global Enterprise | 176.768 | 2010 | Namura & Sasebo, Japan | 04/2025 | MAN-B&W | - | $ 29m | Korean (HMM) | Scrubber fitted |
 | Kamsarmax | Volos | 82.172 | 2014 | Sanoyas, Japan | 06/2029 | MAN-B&W | - | Excess $ 24m | Greek (Sea Tribute) |  |
+| Kamsarmax | Athina II | 82.014 | 2015 | Sanoyas, Japan | 06/2025 | MAN-B&W | - | Excess $ 25m | Greek (Sealestial Navigation) |  |
 | Kamsarmax | Kleisoura | 80.982 | 2017 | JMU, Japan | 10/2027 | MAN-B&W | - | $ 27,6m | Greek (Polforce Shipping) |  |
 | Kamsarmax | DL Adonis | 79.329 | 2010 | Cosco, China | 12/2025 | MAN-B&W | - | High $ 11m | Chinese |  |
 | Panamax | Navios Asteriks | 76.801 | 2005 | Sasebo, Japan | 04/2025 | B&W | - | $ 8m | Vietnamese |  |

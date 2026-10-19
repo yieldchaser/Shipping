@@ -79,12 +79,15 @@ A number of trips from West Coast South America into Continent were reported fix
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kamsarmax | Rosco Palm | 82.153 | 2011 | Tsuneishi Zhoushan, China | 01/2026 | MAN- B&W | - | $ 26m | Greek | BWTS fitted |
 | Kamsarmax | Derby | 81.700 | 2011 | Stx, Korea | 07/2025 | MAN- B&W | - | Excess $ 24m | Undisclosed | BWTS fitted |
+| Panamax | Santa Cruz | 76.440 | 2005 | Tsuneishi, Japan | 08/2025 | B&W | - | $ 15,75m | Greek (EuroDry) | Incl. T/C until Jul'22 at 14.800 usd/pd |
 | Panamax | Aquaknight | 75.395 | 2007 | Universal, Japan | 06/2022 | MAN- B&W | - | $ 17m | Undisclosed |  |
 | Panamax | Shao Shan 1 | 74.009 | 1997 | Tsuneishi, Japan | 06/2022 | B&W | - | $ 8,6m | Chinese |  |
 | Ultramax | Navigare Bacca | 61.213 | 2016 | Imabari, Japan | 04/2026 | MAN- B&W | 4x30,7T | Low-Mid $ 32m | Bangladeshi | BWTS fitted |
 | Supramax | GDF Suez North Sea | 55.848 | 2012 | IHI, Japan | 06/2025 | Wartsila | 4x30T | $ 22m | Undisclosed | BWTS fitted |
 | Supramax | NZ Shanghai | 54.808 | 2010 | Jiangsu, China | 07/2025 | MAN- B&W | 4x36T | $ 17m | Undisclosed | Auction sale |
+| Handysize | Ocean Falcon | 37.152 | 2011 | Hyundai Mipo, Korea | 05/2026 | MAN- B&W | 4x30T | Excess $ 18m | Greek | BWTS fitted |
 
 ## Page 4
 
@@ -93,18 +96,18 @@ A number of trips from West Coast South America into Continent were reported fix
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Nissho Maru | 300.544 | 2004 | IHI, Japan | 05/2024 | Sulzer | Region $ 30m | Greek |  |
-| VLCC | Chelsea | 300.000 | 2020 | Daewoo, Korea | 01/2025 | MAN- B&W | $ 181m | Belgian (Euronav) | Scrubber fitted |
-| VLCC | Ghillie | 299.995 | 2019 | Daewoo, Korea | 11/2024 | MAN- B&W | enbloc | Belgian (Euronav) | Scrubber fitted |
+| VLCC | Chelsea | 300.000 | 2020 | Daewoo, Korea | 01/2025 | MAN- B&W | $ 181m enbloc | Belgian (Euronav) | Scrubber fitted |
+| VLCC | Ghillie | 299.995 | 2019 | Daewoo, Korea | 11/2024 | MAN- B&W | $ 181m enbloc | Belgian (Euronav) | Scrubber fitted |
 | Aframax | Banda Sea | 105.576 | 2007 | Sumitomo, Japan | 05/2022 | Sulzer | $ 21m | Greek | Scrubber fitted |
 | Aframax | Astro Sculptor | 105.109 | 2003 | Daewoo, Korea | 01/2023 | B&W | $ 15,6m | Undisclosed |  |
 | MR | High Saturn | 51.527 | 2008 | Stx, Korea | 04/2023 | MAN- B&W | $ 14,25m | Greek |  |
-| MR | Arctic Breeze | 50.885 | 2006 | Stx, Korea | 04/2026 | MAN- B&W | $ 24m | Undisclosed | BWTS fitted, Ice Class 1A |
-| MR | Arctic Blizzard | 49.990 | 2006 | Stx, Korea | 05/2026 | MAN- B&W | enbloc | Undisclosed | Ice Class 1A |
+| MR | Arctic Breeze | 50.885 | 2006 | Stx, Korea | 04/2026 | MAN- B&W | $ 24m enbloc | Undisclosed | BWTS fitted, Ice Class 1A |
+| MR | Arctic Blizzard | 49.990 | 2006 | Stx, Korea | 05/2026 | MAN- B&W | $ 24m enbloc | Undisclosed | Ice Class 1A |
 | MR | St Jacobi | 50.209 | 2014 | Spp, Korea | 01/2024 | MAN- B&W | $ 22,9m | Indonesian | BWTS fitted |
 | MR | Elandra Pine | 49.999 | 2018 | Hyundai Mipo, Korea | 09/2023 | MAN- B&W | Region $ 34m | Undisclosed |  |
 | MR | Largo Sea | 49.990 | 2016 | Spp, Korea | 09/2026 | MAN- B&W | Region $ 30m | Undisclosed | BWTS fitted |
-| MR | Songa Pride | 49.708 | 2016 | Brodotrogir, Croatia | 04/2022 | MAN- B&W | $ 50,5m | German |  |
-| MR | Trogir Kairos I | 49.708 | 2015 | Brodotrogir, Croatia | 09/2025 | MAN- B&W | enbloc | (Hammonia) |  |
+| MR | Songa Pride | 49.708 | 2016 | Brodotrogir, Croatia | 04/2022 | MAN- B&W | $ 50,5m enbloc | German (Hammonia) |  |
+| MR | Trogir Kairos I | 49.708 | 2015 | Brodotrogir, Croatia | 09/2025 | MAN- B&W | $ 50,5m enbloc | German (Hammonia) |  |
 | MR | Forres Park | 47.128 | 2009 | Hyundai Mipo, Korea | 02/2024 | MAN- B&W | Mid-High $ 16m | Undisclosed |  |
 | MR | Seaways Cape Horn | 37.662 | 2006 | Hyundai Mipo, Korea | 08/2026 | MAN- B&W | $ 9,5m |  | BWTS fitted |
 | MR | Seaways Ambrose | 37.623 | 2006 | Hyundai Mipo, Korea | 03/2026 | Wartsila | $ 9,5m | German | BWTS fitted |

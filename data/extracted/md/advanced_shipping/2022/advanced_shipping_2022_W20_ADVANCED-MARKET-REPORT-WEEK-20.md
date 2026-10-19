@@ -84,9 +84,11 @@ A generally quiet week for this segment. A number of Mediterranean trips into Ch
 | Panamax | Chailease Blossom | 77.684 | 2004 | CSBC, Taiwan | 08/2022 | B&W | - | Mid $ 13m | Chinese |  |
 | Panamax | Palais | 75.434 | 2014 | Jiangsu, China | 01/2024 | Wartsila | - | $ 22m | Chinese | BWTS fitted |
 | Panamax | Rosco Olive | 74.951 | 2010 | Sasebo, Japan | 09/2025 | MAN- B&W | - | $ 25m | Undisclosed | BWTS fitted |
+| Ultramax | Belpareil | 63.242 | 2015 | Jiangsu, China | 05/2025 | MAN- B&W | 4x36T | $ 29,5m | Norwegian | BWTS fitted, 1year TCB at 27.250 usd/pd |
 | Ultramax | Nord Baltic | 62.625 | 2018 | Oshima, Japan | 11/2023 | MAN- B&W | 4x30T | High $ 36m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Supramax | Serene Juniper | 57.185 | 2011 | Stx Dalian, China | 02/2026 | MAN- B&W | 4x30T | $ 19,5m | Chinese | BWTS fitted |
 | Supramax | Ru Cheng Shan | 56.439 | 2013 | Zhejiang, China | 08/2026 | MAN- B&W | 4x36T | $ 17,87m | Undisclosed | Old sale, Auction sale |
+| Handysize | Great Intelligence | 38.797 | 2017 | Guangzhou, China | 12/2022 | Wartsila | 4x30T | $ 21,5m | Hong Kong | Incl. T/C until Aug'22 at 5.600 usd/pd |
 | Handysize | Jin Da | 35.212 | 2011 | Nanjing, China | 09/2026 | MAN- B&W | 4x30,5T | Low $ 17m | Undisclosed | BWTS fitted, Logs fitted |
 | Handysize | Team Challenge | 28.710 | 2004 | Shin Kochi, Japan | 06/2022 | Mitsubishi | 4x30,5T | $ 10m | Undisclosed |  |
 | Small | Sensei | 21.955 | 1994 | Saiki, Japan | 08/2024 | Mitsubishi | 4x30T | $ 6m | Syrian |  |
@@ -97,15 +99,15 @@ A generally quiet week for this segment. A number of Mediterranean trips into Ch
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | Svet | 321.039 | 2013 | Bohai, China | 11/2023 | Wartsila | Undisclosed | UAE (Al Seer | Old sales |
-| VLCC | Scf Shanghai | 320.701 | 2014 | Bohai, China | 02/2024 | Wartsila | Undisclosed | Marine Supplies) | Old sales |
+| VLCC | Svet | 321.039 | 2013 | Bohai, China | 11/2023 | Wartsila | Undisclosed | UAE (Al Seer Marine Supplies) | Old sales |
+| VLCC | Scf Shanghai | 320.701 | 2014 | Bohai, China | 02/2024 | Wartsila | Undisclosed | UAE (Al Seer Marine Supplies) | Old sales |
 | VLCC | Leonidas | 318.325 | 2009 | Hyundai, Korea | 10/2024 | Wartsila | Region $ 42m | Undisclosed |  |
 | VLCC | New Spirit | 298.972 | 2005 | Universal, Japan | 07/2025 | B&W | $ 33,85m | Undisclosed | BWTS fitted |
 | VLCC | New Talisman | 296.068 | 2009 | Bohai, China | 09/2024 | MAN- B&W | $ 38,2m | Undisclosed | BWTS fitted, DD 09/2022 |
 | LR2 | Almi Spirit | 105.547 | 2007 | Hyundai, Korea | 08/2022 | MAN- B&W | Region $ 20m | Undisclosed |  |
 | LR2 | Torm Gudrun | 101.155 | 2000 | Hyundai, Korea | 05/2025 | B&W | $ 10m | Undisclosed |  |
-| MR | GWN 2 | 50.192 | 2020 | Samsung, Korea | 09/2025 | MAN- B&W | $ 78,5m | Undisclosed | Scrubber fitted |
-| MR | GWN 3 | 50.192 | 2021 | Samsung, Korea | 01/2026 | MAN- B&W | enbloc | Undisclosed | Scrubber fitted |
+| MR | GWN 2 | 50.192 | 2020 | Samsung, Korea | 09/2025 | MAN- B&W | $ 78,5m enbloc | Undisclosed | Scrubber fitted |
+| MR | GWN 3 | 50.192 | 2021 | Samsung, Korea | 01/2026 | MAN- B&W | $ 78,5m enbloc | Undisclosed | Scrubber fitted |
 | MR | ST. Pauli | 49.999 | 2017 | Hyundai Mipo, Korea | 07/2022 | MAN- B&W | Excess $ 33m | Undisclosed |  |
 | MR | Sanmar Soprano | 45.861 | 2002 | Shin Kurushima, Japan | 07/2022 | Mitsubishi | $ 6,1m | Undisclosed |  |
 | MR | Gold Ocean | 37.320 | 2007 | Stx, Korea | 01/2027 | MAN- B&W | $ 10m | European |  |
@@ -118,6 +120,7 @@ A generally quiet week for this segment. A number of Mediterranean trips into Ch
 | Feeder | Smiley Lady | 1.730 | 1999 | Szczecinska, Poland | 03/2024 | Sulzer | 3x40T | $ 20m | UK based (Mount Street) |  |
 | Feeder | Conmar Avenue | 1.036 | 2012 | Jiangdong, China | 10/2022 | MAN | - | Undisclosed | German (Ernst Russ) | Old sale |
 | Feeder | Motivation D | 917 | 2006 | Damen, Ukraine | 08/2026 | MaK | - | Undisclosed | German (Ernst Russ) | Old sale |
+| Feeder | Music | 803 | 2007 | Damen, Netherlands | 01/2027 | MaK | - | Undisclosed | German (Tailwind Shipping Lines) | Old sale |
 
 ## Page 5
 
@@ -125,10 +128,14 @@ A generally quiet week for this segment. A number of Mediterranean trips into Ch
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LNG | Scf Mitre | 93.585 | 2015 | Stx, Korea | 04/2025 | MAN | 167.158 | $ 150m | Pacific Shipping) | T/C attached to Shell |
+| LNG | Scf Timmerman | 93.000 | 2021 | Hyundai Samho, Korea | 01/2026 | Wartsila | 170.551 | $ 200m | Singapore based (Eastern Pacific Shipping) | Bank deal, T/C attached to Shell |
+| LNG | Scf Barents | 93.000 | 2020 | Hyundai Samho, Korea | 09/2025 | Wartsila | 170.479 | $ 200m | Singapore based (Eastern Pacific Shipping) | Bank deal, T/C attached to Shell |
+| LNG | Scf Mitre | 93.585 | 2015 | Stx, Korea | 04/2025 | MAN | 167.158 | $ 150m | Singapore based (Eastern Pacific Shipping) | Bank deal, T/C attached to Shell |
 | LNG | Scf Melampus | 93.508 | 2015 | Stx, Korea | 01/2025 | MAN | 167.062 | $ 150m | Singapore based (Eastern Pacific Shipping) | Bank deal, T/C attached to Shell |
 | LPG | BW Liberty | 54.975 | 2007 | Daewoo, Korea | 11/2022 | MAN- B&W | 82.908 | Undisclosed | Vietnamese |  |
 | LPG | Hellas Serenity | 54.993 | 2008 | Hyundai, Korea | 08/2023 | MAN- B&W | 80.791 | $ 47,5m | Indonesian |  |
+| LPG | Sibur Voronezh | 22.780 | 2013 | Hyundai Mipo, Korea | 07/2023 | MAN- B&W | 20.311 | Undisclosed | UAE (Al Seer Marine Supplies) | Old sales |
+| LPG | Sibur Tobol | 22.765 | 2013 | Hyundai Mipo, Korea | 09/2023 | MAN- B&W | 20.311 | Undisclosed | UAE (Al Seer Marine Supplies) | Old sales |
 
 ## Page 6
 

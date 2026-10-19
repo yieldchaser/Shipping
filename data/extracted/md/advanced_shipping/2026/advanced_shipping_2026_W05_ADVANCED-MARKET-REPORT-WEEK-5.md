@@ -79,8 +79,8 @@ Trips from South East Asia via Australia into China were reported at the level o
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capesize | Ally | 185.897 | 2005 | Kawasaki, Japan | 04/2030 | B&W | - | $ 37m | Undisclosed |  |
-| Capesize | Mikata | 177.173 | 2005 | Namura & Sasebo, Japan | 06/2030 | MAN-B&W | - | enbloc | Undisclosed | Delivered |
+| Capesize | Ally | 185.897 | 2005 | Kawasaki, Japan | 04/2030 | B&W | - | $ 37m enbloc | Undisclosed |  |
+| Capesize | Mikata | 177.173 | 2005 | Namura & Sasebo, Japan | 06/2030 | MAN-B&W | - | $ 37m enbloc | Undisclosed | Delivered |
 | Post Panamax | JP Caretta | 88.083 | 2008 | Imabari, Japan | 12/2028 | MAN-B&W | - | $ 13,6m | Chinese | Scrubber fitted |
 | Kamsarmax | Aya | 82.992 | 2006 | Tsuneishi, Japan | 06/2026 | MAN-B&W | - | $ 10,8m | Chinese |  |
 | Kamsarmax | Cretansea | 81.508 | 2009 | Universal, Japan | 03/2029 | MAN-B&W | - | $ 15,15m | Greek |  |
@@ -98,10 +98,11 @@ Trips from South East Asia via Australia into China were reported at the level o
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | CSSC Liao Ning | 307.880 | 2020 | Dalian, China | 05/2030 | MAN-B&W | $ 112m | Greek | Scrubber fitted, T/C till May'26 at 41.275 usd/pd |
 | VLCC | Agneta Pallas III | 299.991 | 2013 | Hyundai, Korea | 08/2028 | MAN-B&W | $ 90m | Korean (Sinokor) | Scrubber fitted |
 | Suezmax | Dilong Spirit | 159.021 | 2009 | Bohai, China | 12/2029 | MAN-B&W | $ 42,5m | Greek |  |
-| Suezmax | Arctic Star | 156.790 | 2026 | Daehan, Korea |  | MAN-B&W | $ 99,3m | Greek (Okeanis | Resale, Scrubber fitted |
-| Suezmax | Tromso Star | 156.790 | 2026 | Daehan, Korea |  | MAN-B&W | $ 99,3m | Eco Tankers) | Resale, Scrubber fitted |
+| Suezmax | Arctic Star | 156.790 | 2026 | Daehan, Korea |  | MAN-B&W | $ 99,3m | Greek (Okeanis Eco Tankers) | Resale, Scrubber fitted |
+| Suezmax | Tromso Star | 156.790 | 2026 | Daehan, Korea |  | MAN-B&W | $ 99,3m | Greek (Okeanis Eco Tankers) | Resale, Scrubber fitted |
 | Aframax | Elandra Swallow | 109.999 | 2023 | Hyundai-Vietnam, Vietnam | 09/2028 | MAN-B&W | $ 84m | Undisclosed | Scrubber fitted |
 | Aframax | Elandra Swift | 109.999 | 2024 | Hyundai-Vietnam, Vietnam | 01/2029 | MAN-B&W | $ 84m | Undisclosed | Scrubber fitted |
 

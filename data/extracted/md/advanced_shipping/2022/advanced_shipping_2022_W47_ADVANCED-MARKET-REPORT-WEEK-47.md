@@ -83,6 +83,7 @@ A generally quiet week for this segment. West Coast Central American trips into 
 | Panamax | Trina Oldendorff | 75.200 | 2013 | Penglai, China | 08/2027 | MAN- B&W | 4x36T | $ 25m | Iraqi | Geared, Scrubber fitted |
 | Ultramax | Achilleas | 63.227 | 2012 | Yangzhou, China | 03/2027 | MAN- B&W | 4x35T | $ 22,3m | Far Eastern |  |
 | Handysize | Seastar Harrier | 39.804 | 2022 | Hakodate, Japan | 11/2027 | MAN- B&W | 4x30T | $ 30,9m | Japanese |  |
+| Handysize | Penelope T | 32.377 | 2011 | Samho, Korea | 01/2026 | MAN- B&W | 4x30T | $ 14,3m | Greek | BWTS fitted, T/C attached for 4-6 months at 17.000 usd/pd |
 
 ### Tankers
 
@@ -91,8 +92,11 @@ A generally quiet week for this segment. West Coast Central American trips into 
 | VLCC | C. Passion | 313.998 | 2013 | Hyundai, Korea | 05/2023 | Wartsila | $ 62m | Undisclosed | BWTS fitted, Scrubber fitted |
 | Suezmax | Maria Grace | 160.289 | 2002 | Samsung, Korea | 11/2022 | B&W | $ 22,5m | Turkish | BWTS fitted |
 | Aframax | Sifis | 105.827 | 2007 | Tsuneishi, Japan | 01/2023 | MAN- B&W | $ 32m | Undisclosed |  |
+| LR2 | Fos Hamilton | 105.408 | 2013 | Hyundai, Korea | 09/2023 | MAN- B&W | $ 43,75m | Greek (Performance Shipping) | DPP, BWTS fitted |
 | LR1 | Nordneptun | 74.999 | 2004 | Hyundai, Korea | 04/2024 | MAN- B&W | Mid $ 15m | Undisclosed |  |
 | LR1 | Cape Tampa | 73.719 | 2009 | New Times, China | 03/2024 | MAN- B&W | $ 20,25m | Undisclosed | BWTS fitted |
+| LR1 | PGC Ikaros | 72.829 | 2004 | Hudong- Zhonghua, China | 11/2024 | MAN- B&W | $ 12,7m | Turkish | DPP, BWTS fitted, DD 01/2023 |
+| MR | Athlos | 50.034 | 2016 | Samsung Ningbo, China | 01/2026 | Wartsila | $ 41m | USA (US Military Sealift Command) |  |
 | MR | Vallermosa | 40.218 | 2003 | Hyundai Mipo, Korea | 01/2023 | B&W | $ 12m | Chinese |  |
 | MR | Cape Guinea | 37.554 | 2008 | Hyundai Mipo, Korea | 11/2023 | MAN- B&W | $ 16,4m | Greek |  |
 | MR | Perseus N | 36.264 | 2009 | Hyundai Mipo, Korea | 01/2024 | MAN- B&W | Undisclosed | Turkish | BWTS fitted, Ice Class 1A |

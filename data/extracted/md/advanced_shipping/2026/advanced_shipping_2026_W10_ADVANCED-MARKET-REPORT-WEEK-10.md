@@ -86,6 +86,7 @@ Trips from West Africa via East Coast South America into US Gulf were fixed arou
 | Post Panamax | Welfine | 93.146 | 2011 | Jiangsu, China | 05/2026 | MAN-B&W | - | $ 11,8m | Undisclosed |  |
 | Kamsarmax | Nord Auriga | 81.795 | 2020 | Jiangsu, China | 05/2030 | MAN-B&W | - | rgn $ 32m | Undisclosed | Scrubber fitted |
 | Kamsarmax | ASL Moon | 81.702 | 2008 | Mitsui, Japan | 09/2026 | MAN-B&W | - | $ 13,6m | Chinese |  |
+| Kamsarmax | Three Saskias | 81.094 | 2014 | JMU, Japan | 03/2029 | MAN-B&W | - | xs $ 27m | Indian (Great Eastern Shipping) |  |
 | Kamsarmax | Giewont | 79.649 | 2010 | New Century, China | 01/2030 | MAN-B&W | - | $ 11,7m | Undisclosed |  |
 | Panamax | Ocean Lion | 75.656 | 2005 | Sanoyas, Japan | 10/2030 | B&W | - | rgn $ 10m | Undisclosed |  |
 | Ultramax | Qidong Xiangyu XY197 | 63.800 | 2026 | Nantong, China |  | MAN-B&W | 4x30T | $ 36,5m | Greek | Resale |

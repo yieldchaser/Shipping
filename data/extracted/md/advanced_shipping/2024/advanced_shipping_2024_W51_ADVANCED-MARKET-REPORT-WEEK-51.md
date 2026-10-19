@@ -84,6 +84,7 @@ A generally quiet week for this segment. A number of Continental trips via Balti
 | Capesize | Zampa Blue | 178.459 | 2011 | Mitsui, Japan | 09/2025 | MAN-B&W | - | $ 30m | Undisclosed | BWTS fitted |
 | Supramax | Indigo Omega | 56.092 | 2012 | Mitsui, Japan | 10/2027 | MAN-B&W | 4x30T | Low $ 17m | Greek | BWTS fitted |
 | Supramax | SSI Nemesis | 56.023 | 2005 | Mitsui, Japan | 07/2025 | MAN-B&W | 4x30T | $ 10,9m | Undisclosed | BWTS fitted |
+| Supramax | JPS Barcelona | 55.783 | 2010 | Hyundai- Vinashin, Vietnam | 06/2025 | MAN-B&W | 4x30T | High $ 12m | Undisclosed | BWTS fitted |
 | Supramax | Zein | 52.402 | 2001 | Tsuneishi, Japan | 05/2027 | B&W | 4x30T | $ 7m | Undisclosed | BWTS fitted |
 | Supramax | Global Saikai | 51.828 | 2007 | Oshima, Japan | 08/2027 | Mitsubishi | 4x30T | $ 12,2m | Undisclosed | OHBS, BWTS fitted |
 

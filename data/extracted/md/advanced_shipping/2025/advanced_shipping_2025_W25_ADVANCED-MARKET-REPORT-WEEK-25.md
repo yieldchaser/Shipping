@@ -112,11 +112,11 @@ South Asian trips into China were reported at the level of usd 8,000/10,000 pd. 
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Feeder | Galen | 1.819 | 2007 | Hyundai Mipo, Korea | 12/2027 | MAN-B&W | 3x45T | Region $ 18,5m | Swiss based | DD 12/2025 |
-| Feeder | Garwood | 1.819 | 2008 | Hyundai Mipo, Korea | 01/2028 | MAN-B&W | 3x45T | Region $ 18,5m | (MSC) |  |
+| Feeder | Galen | 1.819 | 2007 | Hyundai Mipo, Korea | 12/2027 | MAN-B&W | 3x45T | Region $ 18,5m | Swiss based (MSC) | DD 12/2025 |
+| Feeder | Garwood | 1.819 | 2008 | Hyundai Mipo, Korea | 01/2028 | MAN-B&W | 3x45T | Region $ 18,5m | Swiss based (MSC) |  |
 | Feeder | Contship Key | 1.118 | 2006 | Jiangsu, China | 01/2027 | MAN-B&W | 2x45T | Excess $ 10,2m | Swiss based (MSC) | Ice Class II |
-| Feeder | Seaboard Ocean | 1.114 | 2008 | Yangzhou, China | 10/2028 | MAN | - | Excess $ 9m | Swiss based | Ice Class II |
-| Feeder | Seaboard Ranger | 1.114 | 2009 | Yangzhou, China | 07/2029 | MAN | 2x45T | Excess $ 9m | (MSC) | Ice Class II |
+| Feeder | Seaboard Ocean | 1.114 | 2008 | Yangzhou, China | 10/2028 | MAN | - | Excess $ 9m | Swiss based (MSC) | Ice Class II |
+| Feeder | Seaboard Ranger | 1.114 | 2009 | Yangzhou, China | 07/2029 | MAN | 2x45T | Excess $ 9m | Swiss based (MSC) | Ice Class II |
 
 ## Page 5
 

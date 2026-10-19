@@ -79,8 +79,10 @@ A generally quiet week for this segment. Mediterranean trips into Caribbean were
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | Pontotriton | 177.947 | 2007 | SWS, China | 07/2027 | MAN-B&W | - | Excess $ 23m | HK based (Kaishun Shipping) | BWTS fitted |
 | Capesize | Maran Prosperity | 174.240 | 2006 | SWS, China | 10/2025 | MAN-B&W | - | $ 21,5m | Chinese | BWTS fitted, Scrubber fitted |
 | Kamsarmax | Aurora Borealis | 82.315 | 2023 | Cosco, China | 05/2028 | MAN-B&W | - | $ 38,5m | Undisclosed | BWTS fitted |
+| Kamsarmax | Nord Penguin | 81.841 | 2015 | Oshima, Japan | 01/2025 | MAN-B&W | - | Mid $ 30m | Greek | BWTS fitted, Scrubber fitted, Ice Class 1C |
 | Supramax | Sania | 57.011 | 2010 | Qingshan, China | 10/2025 | MAN-B&W | 4x30T | Low-Mid $ 12m | Chinese | BWTS fitted |
 | Handysize | Isolda | 34.941 | 1999 | Mitsui, Japan | 04/2027 | B&W | 3x30T | High $ 5m | Undisclosed | BWTS fitted, Lakes fitted |
 | Handysize | Floriana | 33.862 | 2012 | 21st Century, Korea | 10/2027 | MAN-B&W | 4x30,7T | Region $ 14m | Greek | BWTS fitted |

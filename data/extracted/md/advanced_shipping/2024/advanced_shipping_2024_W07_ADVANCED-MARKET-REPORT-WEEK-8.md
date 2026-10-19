@@ -78,21 +78,24 @@ North Pacific rounds ranged at the usd 9,000/11,000 pd. South East Asian trips i
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capesize | True Cartier | 181.380 | 2014 | Imabari, Japan | 07/2024 | MAN-B&W | - | $ 40,9m | German (Oldendorff) | BWTS fitted, Scrubber fitted, Dely Apr-Jun'24 |
 | Capesize | Pantagruel | 180.181 | 2004 | Imabari, Japan | 06/2024 | MAN-B&W | - | Region $ 16,5m | Chinese | Scrubber fitted |
 | Capesize | Sapientza | 177.736 | 2008 | Shanghai Jiangnan, China | 11/2028 | MAN-B&W | - | High $ 22m | Chinese | BWTS fitted |
 | Capesize | Mineral Gent | 175.181 | 2011 | New Times, China | 04/2026 | MAN-B&W | - | Region $ 26m | Undisclosed |  |
-| Capesize | Genco Maximus | 169.021 | 2009 | Sungdong, Korea | 09/2024 | MAN-B&W | - | Undisc | Undisclosed | BWTS fitted, Scrubber fitted |
+| Capesize | Genco Maximus | 169.021 | 2009 | Sungdong, Korea | 09/2024 | MAN-B&W | - | Undisc. | Undisclosed | BWTS fitted, Scrubber fitted |
 | Capesize | Genco Claudius | 169.001 | 2012 | Sungdong, Korea | 01/2025 | MAN-B&W | - | Undisc. | Undisclosed | BWTS fitted, Scrubber fitted |
 | Post Panamax | CMB Pomerol | 95.731 | 2012 | Imabari, Japan | 01/2027 | MAN-B&W | - | $ 21m | Greek | BWTS fitted |
 | Kamsarmax | Yasa Fortune | 82.849 | 2006 | Tsuneishi, Japan | 05/2026 | MAN-B&W | - | Mid-High $ 12m | Chinese | DD 04/2024 |
 | Kamsarmax | Magic Nebula | 80.282 | 2010 | Stx, Korea | 05/2025 | MAN-B&W | - | Region $ 16m | Greek | BWTS fitted |
 | Panamax | W-Galaxy | 76.629 | 2006 | Imabari, Japan | 07/2026 | MAN-B&W | - | $ 13m | Chinese | BWTS fitted |
 | Panamax | Zhong Xin Pearl | 75.321 | 2013 | Guangzhou, China | 09/2028 | MAN-B&W | - | High $ 16m | Undisclosed | BWTS fitted |
+| Ultramax | Zeyno | 63.064 | 2014 | Yangzhou, China | 09/2024 | MAN-B&W | 4x36T | $ 22,5m | European | BWTS fitted, T/C attached till Jun-Aug'24 |
 | Ultramax | Darya Padma | 60.935 | 2015 | JMU, Japan | 09/2025 | MAN-B&W | 4x30T | $ 28,7m | Undisclosed | BWTS fitted |
 | Supramax | Seamec Nidhi | 56.755 | 2010 | Taizhou, China | 03/2025 | MAN-B&W | 4x30T | $ 10,8m | Undisclosed | BWTS fitted |
 | Supramax | Star Dorado | 56.507 | 2013 | Jiangsu, China | 01/2028 | MAN-B&W | 4x30T | Mid $ 16m | Undisclosed | Scrubber fitted |
 | Supramax | Pacific Integrity | 56.100 | 2013 | Mitsui, Japan | 04/2028 | MAN-B&W | 4x30T | Excess $ 20m | Undisclosed | BWTS fitted |
 | Supramax | Melia 1 | 55.612 | 2011 | Mitsui, Japan | 07/2026 | MAN-B&W | 4x30T | $ 17,8m | Undisclosed | BWTS fitted |
+| Handysize | Eco Splendor | 38.302 | 2013 | Naikai, Japan | 05/2028 | MAN-B&W | 4x30,7T | $ 18,2m | Turkish (Devbulk) | OHBS, BWTS fitted, basis BBHP |
 | Handysize | Ultra Vanscoy | 38.215 | 2013 | Mitsubishi, Japan | 01/2028 | MAN-B&W | 4x30,5T | $ 18,2m | Greek | BWTS fitted |
 | Handysize | Lago Di Lugano | 32.271 | 2008 | Kanda, Japan | 10/2025 | Mitsubishi | 4x30,5T | $ 10,5m | Undisclosed |  |
 
@@ -107,12 +110,12 @@ North Pacific rounds ranged at the usd 9,000/11,000 pd. South East Asian trips i
 | Suezmax | Front Thor | 156.719 | 2010 | Jiangsu, China | 01/2025 | MAN-B&W | $ 45,5m | Undisclosed | Scrubber fitted |
 | MR | Crystal Bay | 49.990 | 2014 | Spp, Korea | 11/2024 | MAN-B&W | $ 238m enbloc | US based (International Seaways) | BWTS fitted, Scrubber fitted |
 | MR | Excelsior Bay | 49.990 | 2014 | Spp, Korea | 10/2024 | MAN-B&W | $ 238m enbloc | US based (International Seaways) | BWTS fitted, Scrubber fitted |
-| MR | Harrison Bay | 49.990 | 2015 | Spp, Korea | 09/2025 | MAN-B&W | $ 238m enbloc | US based (International | BWTS fitted, Scrubber fitted |
-| MR | Jennings Bay | 49.990 | 2015 | Spp, Korea | 05/2025 | MAN-B&W | $ 238m enbloc | (International Seaways) | BWTS fitted, Scrubber fitted |
+| MR | Harrison Bay | 49.990 | 2015 | Spp, Korea | 09/2025 | MAN-B&W | $ 238m enbloc | US based (International Seaways) | BWTS fitted, Scrubber fitted |
+| MR | Jennings Bay | 49.990 | 2015 | Spp, Korea | 05/2025 | MAN-B&W | $ 238m enbloc | US based (International Seaways) | BWTS fitted, Scrubber fitted |
 | MR | Lafayette Bay | 49.990 | 2015 | Spp, Korea | 07/2025 | MAN-B&W | $ 238m enbloc | US based (International Seaways) | BWTS fitted, Scrubber fitted |
 | MR | Saint Albans Bay | 49.990 | 2015 | Spp, Korea | 10/2025 | MAN-B&W | $ 238m enbloc | US based (International Seaways) | BWTS fitted, Scrubber fitted |
-| MR | K Shipbuilding 1942 | 49.750 | 2024 | K, Korea |  | MAN-B&W | $ 49m | Singaporean | Resales, BWTS fitted |
-| MR | K Shipbuilding 1942 | 49.750 | 2024 | K, Korea |  | MAN-B&W | $ 49m | Singaporean | BWTS fitted, Scrubber fitted |
+| MR | K Shipbuilding 1942 | 49.750 | 2024 | K, Korea |  | MAN-B&W | $ 49m | Singaporean | Resales, BWTS fitted, Scrubber fitted |
+| MR | K Shipbuilding 1942 | 49.750 | 2024 | K, Korea |  | MAN-B&W | $ 49m | Singaporean | Resales, BWTS fitted, Scrubber fitted |
 | MR | Shogun | 44.485 | 2002 | Hyundai Mipo, Korea | 06/2027 | B&W | High $ 13m | Undisclosed | BWTS fitted |
 | MR | Leon Hermes | 40.165 | 2008 | Sls, Korea | 12/2028 | MAN-B&W | Region $ 23m | Undisclosed | BWTS fitted |
 | Chemical/Oil Products | Beatrice | 25.932 | 2013 | Asakawa, Japan | 11/2028 | Mitsubishi | Region $ 29m | Korean (DM Shipping) | St St, BWTS fitted |

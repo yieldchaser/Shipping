@@ -81,10 +81,12 @@ Trips from China into India were fixed around usd 6,000/7,000 pd. A number of In
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | Atlantic Tiger | 180.182 | 2006 | Imabari, Japan | 07/2024 | MAN-B&W | - | $ 16,85m | Far Eastern |  |
 | Capesize | Zampa Blue | 178.459 | 2011 | Mitsui, Japan | 09/2025 | MAN-B&W | - | Region $ 30m | Greek | BWTS fitted, DD 10/2023 |
+| Kamsarmax | JY Bulk | 81.112 | 2018 | Chengxi, China | 11/2023 | MAN-B&W | - | $ 28,49m | Undisclosed | Scrubber fitted, Commercial auction sale |
 | Kamsarmax | Magic Twilight | 80.700 | 2010 | Stx, Korea | 04/2025 | MAN-B&W | - | High $ 17m | Undisclosed | BWTS fitted, DD 07/2023 |
 | Panamax | Santa Barbara | 76.361 | 2011 | Oshima, Japan | 09/2026 | MAN-B&W | - | Mid $ 17m | Greek | BWTS fitted |
 | Ultramax | Victoria T | 61.266 | 2017 | Shin Kurushima, Japan | 07/2027 | MAN-B&W | 4x30,7T | Low-Mid $ 29m | Undisclosed | Old sale, BWTS fitted |
 | Supramax | CF Diamond | 57.700 | 2016 | Tsuneishi, Japan | 06/2026 | MAN-B&W | 4x30T | Region $ 24,2m | Undisclosed | BWTS fitted |
+| Supramax | Stove Ocean | 55.861 | 2013 | Oshima, Japan | 05/2028 | MAN-B&W | 4x30T | Region $ 21m | Norwegian (Gearbulk) | OHBS, BWTS fitted, 306 Teu |
 | Supramax | Oceanic Leader | 53.800 | 2006 | Kouan, China | 12/2025 | MAN-B&W | 4x36T | Excess $ 11m | Middle Eastern | Delivered |
 | Handysize | American Bulker | 36.228 | 2016 | Shikoku, Japan | 02/2026 | MAN-B&W | 4x31,2T | Mid-High $ 22m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Greenery Sea | 35.207 | 2012 | Nantong, China | 06/2027 | MAN-B&W | 4x30T | Mid $ 12m | Undisclosed | Semi boxed, BWTS fitted |

@@ -87,6 +87,7 @@ A generally quiet week for this segment. A number of Chinese trips into South Ea
 | Kamsarmax | Renaissance | 81.666 | 2012 | Qingdao, China | 12/2022 | Wartsila | - | High $ 19m |  |  |
 | Supramax | Universe 1 | 53.074 | 2003 | Oshima, Japan | 11/2023 | Mitsubishi | 4x30T | $ 10,1m | Chinese | DD due |
 | Handymax | Pola Anisia | 46.412 | 2006 | Oshima, Japan | 01/2026 | MAN- B&W | 4x30T | Region $ 13,2m | Turkish | BWTS fitted |
+| Handysize | New Journey | 36.371 | 2015 | Shikoku, Japan | 03/2025 | MAN- B&W | 4x30,5T | $ 23,7m | UK based (Tufton Oceanic) | Incl. 18-24 months T/C |
 | Small | Ina | 17.096 | 2012 | Taizhou, China | 06/2022 | MAN- B&W | 3x30T | Low $ 10m | Undisclosed |  |
 
 ### Tankers
@@ -94,6 +95,7 @@ A generally quiet week for this segment. A number of Chinese trips into South Ea
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | Athenian Success | 317.441 | 2010 | Hyundai, Korea | 01/2025 | MAN- B&W | $ 42,5m | Korean (Sinokor) |  |
+| LR1 | Red Eagle | 74.997 | 2011 | Sungdong, Korea | 04/2026 | MAN- B&W | $ 19,5m | US based (International Seaways) |  |
 | MR | Hyundai Vietnam S501 | 50.000 | 2022 | Hyundai-Vietnam, Vietnam |  | MAN- B&W | $ 36,8m | Danish (Norden) | Resales |
 | MR | Hyundai Vietnam S502 | 50.000 | 2022 | Hyundai-Vietnam, Vietnam |  | MAN- B&W | $ 36,8m | Danish (Norden) |  |
 | MR | STI Duchessa | 49.990 | 2014 | Hyundai Mipo, Korea | 01/2024 | MAN- B&W | $ 23,5m | Undisclosed |  |
@@ -108,6 +110,7 @@ A generally quiet week for this segment. A number of Chinese trips into South Ea
 | Chemical/Oil Products | Team Falcon | 25.419 | 2009 | Dae Sun, Korea | 01/2024 | MAN- B&W | $ 9m | Undisclosed |  |
 | Chemical/Oil Products | Team Hawk | 25.385 | 2008 | Dae Sun, Korea | 06/2023 | MAN- B&W | $ 9m |  |  |
 | Chemical/Oil Products | Celsius Monaco | 19.999 | 2005 | Shin Kurushima, Japan | 11/2025 | Mitsubishi | $ 7,75m | Korean | St St |
+| Chemical/Oil Products | Ocean Moray | 11.999 | 2018 | Zhejiang, China | 01/2023 | Wartsila | $ 10m | Singaporean (Hong Lam Marine) | Old sale, BWTS fitted |
 | Chemical/Oil Products | Eastern Liberty | 8.857 | 2002 | Usuki, Japan | 06/2022 | Mitsubishi | $ 3,6m | Indonesian | St St |
 | Small | Newocean 6 | 4.679 | 2014 | Chongqing, China | 09/2024 | Cummins | $ 5,3m | Undisclosed |  |
 
@@ -115,12 +118,14 @@ A generally quiet week for this segment. A number of Chinese trips into South Ea
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Panamax | Baltic South | 4.432 | 2010 | Hyundai, Korea | 08/2025 | Wartsila | - | Region $ 160m | Swiss based |  |
-| Panamax | Singapore Bridge | 4.253 | 2002 | Samsung, Korea | 12/2022 | B&W | - | $ 160m enbloc | (MSC) |  |
-| Sub Panamax | Cape Marin | 2.758 | 2012 | Guangzhou, China | 06/2022 | Wartsila | - | $ 52,5m | Danish |  |
+| Panamax | Baltic South | 4.432 | 2010 | Hyundai, Korea | 08/2025 | Wartsila | - | Region $ 160m enbloc | Swiss based (MSC) |  |
+| Panamax | Singapore Bridge | 4.253 | 2002 | Samsung, Korea | 12/2022 | B&W | - | Region $ 160m enbloc | Swiss based (MSC) |  |
+| Sub Panamax | Cape Marin | 2.758 | 2012 | Guangzhou, China | 06/2022 | Wartsila | - | $ 52,5m | Danish (Maersk) |  |
+| Sub Panamax | Cape Martin | 2.742 | 2007 | Aker Mtw Weft, Germany | 04/2022 | Mitsubishi | - | $ 52,5m | Danish (Maersk) |  |
 | Sub Panamax | HSL Sheffield | 2.556 | 2003 | Hyundai, Korea | 05/2022 | Sulzer | - | Region $ 23m | Undisclosed |  |
-| Feeder | Cape Nabil | 1.740 | 2010 | Guangzhou, China | 11/2025 | MAN-B&W | - | $ 31m | Danish | C/free dely May-Jun'22 |
-| Feeder | Cape Nemo | 1.740 | 2010 | Guangzhou, China | 09/2025 | MAN-B&W | - | $ 31m | (Maersk) | C/free dely Mar-Apr'22 |
+| Sub Panamax | HSL Porto | 2.478 | 2004 | Aker Mtw Weft, Germany | 09/2024 | B&W | 3x45T | Region $ 23m | Undisclosed |  |
+| Feeder | Cape Nabil | 1.740 | 2010 | Guangzhou, China | 11/2025 | MAN-B&W | - | $ 31m | Danish (Maersk) | C/free dely May-Jun'22 |
+| Feeder | Cape Nemo | 1.740 | 2010 | Guangzhou, China | 09/2025 | MAN-B&W | - | $ 31m | Danish (Maersk) | C/free dely Mar-Apr'22 |
 
 ## Page 5
 

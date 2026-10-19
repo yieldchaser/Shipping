@@ -87,6 +87,7 @@ A number of Indonesian trips with alumina were reported at the level of usd 4,00
 | Supramax | RHL Marta | 53.808 | 2007 | Chengxi, China | 10/2027 | MAN-B&W | 4x36T | Mid $ 10m | Undisclosed | BWTS fitted |
 | Supramax | Giscours | 53.208 | 2009 | Zhejiang, China | 01/2024 | MAN-B&W | 4x35T | $ 10m | Undisclosed |  |
 | Handysize | Voge Julie | 35.853 | 2011 | Qidong, China | 12/2026 | MAN-B&W | 4x30T | $ 12,5m | Undisclosed | BWTS fitted, Ice Class 1C |
+| Handysize | Ben Rinnes | 35.000 | 2015 | Jiangdong, China | 09/2025 | MAN-B&W | 4x30T | $ 16,5m | Greek | BWTS fitted, DD 10/2023, 2years index linked T/C back |
 | Handysize | Pan Daisy | 32.978 | 2009 | Taizhou, China | 03/2024 | MAN-B&W | 4x30,5T | High $ 9m | Undisclosed | BWTS fitted |
 | Handysize | Pan Edelweiss | 32.949 | 2009 | Taizhou, China | 10/2024 | MAN-B&W | 4x30,5T | High $ 9m | Undisclosed | BWTS fitted |
 | Handysize | Sheng Le A | 28.399 | 1997 | Hakodate, Japan | 09/2027 | B&W | 4x30,5T | $ 4,5m | Chinese | Delivered |
@@ -98,6 +99,7 @@ A number of Indonesian trips with alumina were reported at the level of usd 4,00
 | LR2 | Wellington | 108.640 | 2009 | SWS, China | 05/2024 | MAN-B&W | $ 39,5m | Far Eastern |  |
 | MR | Elandra Corallo | 50.607 | 2008 | Spp, Korea | 10/2023 | MAN-B&W | $ 23m | Undisclosed | BWTS fitted |
 | Chemical/Oil Products | Celsius Monaco | 19.999 | 2005 | Shin Kurushima, Japan | 11/2025 | Mitsubishi | High $ 13m | Undisclosed | BWTS fitted |
+| Chemical/Oil Products | Emin Reis | 6.623 | 2010 | Umo Gemi, Turkey | 06/2025 | Hyundai Himsen | $ 10m | Undisclosed | Delivered, BWTS fitted, Ice Class 1C |
 
 ## Page 4
 
