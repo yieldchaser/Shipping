@@ -105,6 +105,7 @@ Tanker segments are contending with intense logistical friction as downstream su
 
 ## Page 6
 
+
 **MR:** Far East market saw rates surge as a fresh wave of cargo inquiries from Southeast Asia rapidly cleared prompt tonnage lists. In the MEG, TC17 trips to E. Africa saw a slight cooling, ending the week at WS893, similarly, on the UKC TC2 trips, rates came off slightly closing at WS200.
 
 ### Baltic Tanker Indices
@@ -132,7 +133,7 @@ Tanker segments are contending with intense logistical friction as downstream su
 | EUROSPIRIT | VLCC | 320,105 | 2011 / S. KOREA | 153.0 | UNDISCLOSED |
 | SEA LEOPARD | VLCC | 159,331 | 2005 / S. KOREA | 169.0 | UNDISCLOSED |
 | NORDIC FREEDOM | SUEZ | 159,331 | 2005 / S. KOREA | 65.0 | UNDISCLOSED |
-| STI ELYSEES / STI VENETO | AFRA | 109,999 | 2014 / S. KOREA | 70.0 73.0 | UNDISCLOSED |
+| STI ELYSEES / STI VENETO | AFRA | 109,999 | 2014 / S. KOREA | 70.0 / 73.0 | UNDISCLOSED |
 | JAG SPARROW | LR1 | 74,999 | 2005 / S. KOREA | 23.5 | UNDISCLOSED |
 | BLUEBIRD / STARLING | LR1 | 74,074 | 2016 / CHINA | 55.0 EACH | YA-SA SHIPMANAGEMENT |
 | GREEN PLANET | MR | 50,844 | 2014 / S. KOREA | 36.0 | CASTOR MARITIME |
@@ -187,6 +188,7 @@ The container market experienced a slight retreat this week as the SCFI index fe
 
 ## Page 10
 
+
 ### Ship Recycling - Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
@@ -211,7 +213,7 @@ All prices are USD per light displacement tonnage (long ton), net prices offered
 
 ### Demolition - Reported Sales
 
-| VESSEL | TYPE | LDT | BUILT | PRICE ($/LDT) | DELIVERY / TERMS |
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | LNG KANO | LNG | 31,022 | 2007 / S. KOREA | 530 | DELIVERED ALANG |
 | SC DISCOVERY XLVI | LPG | 2,427 | 1996 / JAPAN | UNDISCLOSED | DELIVERED CHATTOGRAM |

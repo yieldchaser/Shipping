@@ -2127,126 +2127,162 @@ issue_date,report_week,sector,vessel_type,size_dwt_teu,nb_contract_usd_m,nb_prom
 2026-05-29,22,Tankers,LRI,"73,000",$65M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W22_Market-Report-Week-22.pdf
 2026-05-29,22,Tankers,MR,"51,000",$50M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W22_Market-Report-Week-22.pdf
 2026-05-29,22,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W22_Market-Report-Week-22.pdf
-2026-06-05,23,Dry Bulk,CAPESIZE,"180,000",$75M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Dry Bulk,KAMSARMAX,"82,000",$37M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Dry Bulk,HANDY,"38,000",$30M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Tankers,SUEZMAX,"160,000",$88M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Tankers,AFRAMAX,"115,000",$77M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Tankers,LRI,"73,000",$65M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Tankers,MR,"51,000",$50M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-12,24,Dry Bulk,CAPESIZE,"180,000",$75M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Dry Bulk,KAMSARMAX,"82,000",$37M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Dry Bulk,HANDY,"38,000",$30M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Tankers,SUEZMAX,"160,000",$88M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Tankers,AFRAMAX,"115,000",$77M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Tankers,LRI,"73,000",$65M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Tankers,MR,"51,000",$50M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-19,25,Dry Bulk,CAPESIZE,"180,000",$76M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Dry Bulk,KAMSARMAX,"82,000",$38M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Dry Bulk,HANDY,"38,000",$31M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Tankers,SUEZMAX,"160,000",$90M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Tankers,AFRAMAX,"115,000",$78M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Tankers,LR1,"73,000",$67M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Tankers,MR,"51,000",$51M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-26,26,Dry Bulk,CAPESIZE,"180,000",$76M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Dry Bulk,KAMSARMAX,"82,000",$38M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Dry Bulk,HANDY,"38,000",$31M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Tankers,SUEZMAX,"160,000",$90M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Tankers,AFRAMAX,"115,000",$78M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Tankers,LR1,"73,000",$67M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Tankers,MR,"51,000",$51M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-07-10,28,Dry Bulk,CAPESIZE,"180,000",$76M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Dry Bulk,KAMSARMAX,"82,000",$38M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Dry Bulk,HANDY,"38,000",$31M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Tankers,SUEZMAX,"160,000",$90M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Tankers,AFRAMAX,"115,000",$78M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Tankers,LR1,"73,000",$67M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Tankers,MR,"51,000",$51M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-17,29,Dry Bulk,CAPESIZE,"180,000",$76M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Dry Bulk,KAMSARMAX,"82,000",$38M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Dry Bulk,HANDY,"38,000",$31M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Tankers,SUEZMAX,"160,000",$90M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Tankers,AFRAMAX,"115,000",$78M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Tankers,LR1,"73,000",$67M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Tankers,MR,"51,000",$51M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-24,30,Dry Bulk,CAPESIZE,"180,000",$76M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Dry Bulk,KAMSARMAX,"82,000",$38M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Dry Bulk,HANDY,"38,000",$31M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Tankers,SUEZMAX,"160,000",$90M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Tankers,AFRAMAX,"115,000",$78M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Tankers,LR1,"73,000",$67M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Tankers,MR,"51,000",$51M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-08-01,31,Dry Bulk,CAPESIZE,"180,000",$76M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Dry Bulk,KAMSARMAX,"82,000",$38M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Dry Bulk,HANDY,"38,000",$31M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Tankers,SUEZMAX,"160,000",$90M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Tankers,AFRAMAX,"115,000",$78M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Tankers,LR1,"73,000",$67M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Tankers,MR,"51,000",$51M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-15,33,Dry Bulk,CAPESIZE,"180,000",$76M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Dry Bulk,KAMSARMAX,"82,000",$38M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Dry Bulk,HANDY,"38,000",$31M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Tankers,SUEZMAX,"160,000",$90M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Tankers,AFRAMAX,"115,000",$78M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Tankers,LRI,"73,000",$67M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Tankers,MR,"51,000",$51M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-21,34,Dry Bulk,CAPESIZE,"180,000",$76M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Dry Bulk,KAMSARMAX,"82,000",$38M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Dry Bulk,HANDY,"38,000",$31M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Tankers,SUEZMAX,"160,000",$90M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Tankers,AFRAMAX,"115,000",$78M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Tankers,LR1,"73,000",$67M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Tankers,MR,"51,000",$51M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-28,35,Dry Bulk,CAPESIZE,"180,000",$76M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Dry Bulk,KAMSARMAX,"82,000",$38M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Dry Bulk,HANDY,"38,000",$31M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Tankers,SUEZMAX,"160,000",$90M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Tankers,AFRAMAX,"115,000",$78M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Tankers,LRI,"73,000",$67M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Tankers,MR,"51,000",$51M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-09-18,38,Dry Bulk,CAPESIZE,"180,000",$76M,,,,,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Dry Bulk,KAMSARMAX,"82,000",$38M,,,,,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Dry Bulk,ULTRAMAX,"64,000",$35M,,,,,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Dry Bulk,HANDY,"38,000",$31M,,,,,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Tankers,VLCC,"310,000",$130M,,,,,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Tankers,SUEZMAX,"160,000",$90M,,,,,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Tankers,AFRAMAX,"115,000",$78M,,,,,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Tankers,LRI,"73,000",$67M,,,,,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Tankers,MR,"51,000",$51M,,,,,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Containers,,,$25M,,,,,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
+2026-06-05,23,Dry Bulk,CAPESIZE,"180,000",75.0,81.0,68.0,53.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Dry Bulk,KAMSARMAX,"82,000",37.0,43.0,36.0,30.0,23.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Dry Bulk,ULTRAMAX,"64,000",35.0,42.0,35.0,28.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Dry Bulk,HANDY,"38,000",30.0,36.0,28.0,21.0,17.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Tankers,VLCC,"310,000",130.0,175.0,135.0,109.0,60.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Tankers,SUEZMAX,"160,000",88.0,108.0,88.0,76.0,52.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Tankers,AFRAMAX,"115,000",77.0,88.0,73.0,63.0,47.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Tankers,LR1,"73,000",65.0,70.0,60.0,52.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Tankers,MR,"51,000",50.0,57.0,46.0,37.0,28.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-12,24,Dry Bulk,CAPESIZE,"180,000",75.0,81.0,68.0,53.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Dry Bulk,KAMSARMAX,"82,000",37.0,43.0,36.0,30.0,23.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Dry Bulk,ULTRAMAX,"64,000",35.0,42.0,35.0,28.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Dry Bulk,HANDY,"38,000",30.0,36.0,28.0,21.0,17.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Tankers,VLCC,"310,000",130.0,175.0,135.0,109.0,60.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Tankers,SUEZMAX,"160,000",88.0,108.0,88.0,76.0,52.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Tankers,AFRAMAX,"115,000",77.0,88.0,73.0,63.0,47.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Tankers,LR1,"73,000",65.0,70.0,60.0,52.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Tankers,MR,"51,000",50.0,57.0,46.0,37.0,28.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-19,25,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,70.0,55.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,37.0,30.0,24.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Dry Bulk,ULTRAMAX,"64,000",35.0,42.0,37.0,29.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Dry Bulk,HANDY,"38,000",31.0,36.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Tankers,VLCC,"310,000",130.0,175.0,140.0,112.0,62.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Tankers,SUEZMAX,"160,000",90.0,112.0,92.0,80.0,54.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Tankers,AFRAMAX,"115,000",78.0,92.0,78.0,68.0,49.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Tankers,LR1,"73,000",67.0,72.0,62.0,54.0,32.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-26,26,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,70.0,55.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,37.0,30.0,24.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Dry Bulk,ULTRAMAX,"64,000",35.0,42.0,37.0,29.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Dry Bulk,HANDY,"38,000",31.0,36.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Tankers,VLCC,"310,000",130.0,175.0,140.0,112.0,62.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Tankers,SUEZMAX,"160,000",90.0,112.0,92.0,80.0,54.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Tankers,AFRAMAX,"115,000",78.0,92.0,78.0,68.0,49.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Tankers,LR1,"73,000",67.0,72.0,62.0,54.0,32.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-07-10,28,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,70.0,55.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,37.0,30.0,24.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Dry Bulk,ULTRAMAX,"64,000",35.0,42.0,37.0,29.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Dry Bulk,HANDY,"38,000",31.0,36.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Tankers,VLCC,"310,000",130.0,175.0,140.0,112.0,62.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Tankers,SUEZMAX,"160,000",90.0,112.0,92.0,80.0,54.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Tankers,AFRAMAX,"115,000",78.0,92.0,78.0,68.0,49.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Tankers,LR1,"73,000",67.0,72.0,62.0,54.0,32.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-17,29,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,70.0,55.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,37.0,30.0,24.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Dry Bulk,ULTRAMAX,"64,000",35.0,42.0,37.0,29.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Dry Bulk,HANDY,"38,000",31.0,36.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Tankers,VLCC,"310,000",130.0,175.0,140.0,112.0,62.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Tankers,SUEZMAX,"160,000",90.0,112.0,92.0,80.0,54.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Tankers,AFRAMAX,"115,000",78.0,92.0,78.0,68.0,49.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Tankers,LR1,"73,000",67.0,72.0,62.0,54.0,32.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-24,30,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,70.0,55.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,37.0,30.0,24.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Dry Bulk,ULTRAMAX,"64,000",35.0,42.0,37.0,29.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Dry Bulk,HANDY,"38,000",31.0,36.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Tankers,VLCC,"310,000",130.0,175.0,140.0,112.0,62.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Tankers,SUEZMAX,"160,000",90.0,112.0,92.0,80.0,54.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Tankers,AFRAMAX,"115,000",78.0,92.0,78.0,68.0,49.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Tankers,LR1,"73,000",67.0,72.0,62.0,54.0,32.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-08-01,31,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,70.0,55.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,37.0,30.0,24.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Dry Bulk,ULTRAMAX,"64,000",35.0,42.0,37.0,29.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Dry Bulk,HANDY,"38,000",31.0,36.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Tankers,VLCC,"310,000",130.0,175.0,140.0,112.0,62.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Tankers,SUEZMAX,"160,000",90.0,112.0,92.0,80.0,54.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Tankers,AFRAMAX,"115,000",78.0,92.0,78.0,68.0,49.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Tankers,LR1,"73,000",67.0,72.0,62.0,54.0,32.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-15,33,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,71.0,56.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,38.0,31.0,25.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Dry Bulk,ULTRAMAX,"64,000",35.0,44.0,38.0,29.0,19.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Dry Bulk,HANDY,"38,000",31.0,37.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Tankers,VLCC,"310,000",130.0,175.0,141.0,112.0,64.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Tankers,SUEZMAX,"160,000",90.0,115.0,95.0,85.0,56.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Tankers,AFRAMAX,"115,000",78.0,95.0,80.0,70.0,51.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Tankers,LR1,"73,000",67.0,74.0,64.0,55.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-21,34,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,71.0,56.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,38.0,31.0,25.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Dry Bulk,ULTRAMAX,"64,000",35.0,44.0,38.0,29.0,19.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Dry Bulk,HANDY,"38,000",31.0,37.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Tankers,VLCC,"310,000",130.0,175.0,141.0,112.0,64.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Tankers,SUEZMAX,"160,000",90.0,115.0,95.0,85.0,56.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Tankers,AFRAMAX,"115,000",78.0,95.0,80.0,70.0,51.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Tankers,LR1,"73,000",67.0,74.0,64.0,55.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-28,35,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,71.0,56.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,38.0,31.0,25.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Dry Bulk,ULTRAMAX,"64,000",35.0,44.0,38.0,29.0,19.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Dry Bulk,HANDY,"38,000",31.0,37.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Tankers,VLCC,"310,000",130.0,175.0,141.0,112.0,64.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Tankers,SUEZMAX,"160,000",90.0,115.0,95.0,85.0,56.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Tankers,AFRAMAX,"115,000",78.0,95.0,80.0,70.0,51.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Tankers,LR1,"73,000",67.0,74.0,64.0,55.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-09-18,38,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,71.0,56.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,38.0,31.0,25.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Dry Bulk,ULTRAMAX,"64,000",35.0,44.0,38.0,29.0,19.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Dry Bulk,HANDY,"38,000",31.0,37.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Tankers,VLCC,"310,000",130.0,175.0,141.0,112.0,64.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Tankers,SUEZMAX,"160,000",90.0,115.0,95.0,85.0,56.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Tankers,AFRAMAX,"115,000",78.0,95.0,80.0,70.0,51.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Tankers,LR1,"73,000",67.0,74.0,64.0,55.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
 2025-01-10,12,Containers,Geared,"900 - 1,200",24,24,17,14,8,corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf
 2025-01-10,12,Containers,Geared,"1,600 - 1,850",30,33,25,19,15,corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf
 2025-01-10,12,Containers,Gearless,"2,700 - 2,900",41,43,34,27,23,corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf
@@ -3231,3 +3267,81 @@ issue_date,report_week,sector,vessel_type,size_dwt_teu,nb_contract_usd_m,nb_prom
 2022-12-24,51,Tankers,,"51,000",43,47,40,30,,corpus/01-brokers/star_asia/2022/star_asia_2022_W51_Market-report-Week-51_compressed-1.pdf
 2022-12-24,51,Containers,Geared,,23,23,18,14,,corpus/01-brokers/star_asia/2022/star_asia_2022_W51_Market-report-Week-51_compressed-1.pdf
 2022-12-24,51,Containers,Gearless,,42,38,32,21,,corpus/01-brokers/star_asia/2022/star_asia_2022_W51_Market-report-Week-51_compressed-1.pdf
+2026-09-04,36,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,71.0,56.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,38.0,31.0,25.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Dry Bulk,ULTRAMAX,"64,000",35.0,44.0,38.0,29.0,19.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Dry Bulk,HANDY,"38,000",31.0,37.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Tankers,VLCC,"310,000",130.0,175.0,141.0,112.0,64.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Tankers,SUEZMAX,"160,000",90.0,115.0,95.0,85.0,56.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Tankers,AFRAMAX,"115,000",78.0,95.0,80.0,70.0,51.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Tankers,LR1,"73,000",67.0,74.0,64.0,55.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-11,37,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,71.0,56.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,38.0,31.0,25.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Dry Bulk,ULTRAMAX,"64,000",35.0,44.0,38.0,29.0,19.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Dry Bulk,HANDY,"38,000",31.0,37.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Tankers,VLCC,"310,000",130.0,175.0,141.0,112.0,64.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Tankers,SUEZMAX,"160,000",90.0,115.0,95.0,85.0,56.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Tankers,AFRAMAX,"115,000",78.0,95.0,80.0,70.0,51.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Tankers,LR1,"73,000",67.0,74.0,64.0,55.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-25,39,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,71.0,56.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,38.0,31.0,25.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Dry Bulk,ULTRAMAX,"64,000",35.0,44.0,38.0,29.0,19.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Dry Bulk,HANDY,"38,000",31.0,37.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Tankers,VLCC,"310,000",130.0,175.0,141.0,112.0,64.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Tankers,SUEZMAX,"160,000",90.0,115.0,95.0,85.0,56.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Tankers,AFRAMAX,"115,000",78.0,95.0,80.0,70.0,51.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Tankers,LR1,"73,000",67.0,74.0,64.0,55.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-10-02,40,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,71.0,56.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,38.0,31.0,25.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Dry Bulk,ULTRAMAX,"64,000",35.0,44.0,38.0,29.0,19.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Dry Bulk,HANDY,"38,000",31.0,37.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Tankers,VLCC,"310,000",130.0,175.0,141.0,112.0,64.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Tankers,SUEZMAX,"160,000",90.0,115.0,95.0,85.0,56.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Tankers,AFRAMAX,"115,000",78.0,95.0,80.0,70.0,51.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Tankers,LR1,"73,000",67.0,74.0,64.0,55.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-09,41,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,71.0,56.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,38.0,31.0,25.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Dry Bulk,ULTRAMAX,"64,000",35.0,44.0,38.0,29.0,19.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Dry Bulk,HANDY,"38,000",31.0,37.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Tankers,VLCC,"310,000",130.0,175.0,141.0,112.0,64.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Tankers,SUEZMAX,"160,000",90.0,115.0,95.0,85.0,56.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Tankers,AFRAMAX,"115,000",78.0,95.0,80.0,70.0,51.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Tankers,LR1,"73,000",67.0,74.0,64.0,55.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-16,42,Dry Bulk,CAPESIZE,"180,000",76.0,82.0,71.0,56.0,35.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Dry Bulk,KAMSARMAX,"82,000",38.0,45.0,38.0,31.0,25.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Dry Bulk,ULTRAMAX,"64,000",35.0,44.0,38.0,29.0,19.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Dry Bulk,HANDY,"38,000",31.0,37.0,29.0,23.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Tankers,VLCC,"310,000",130.0,175.0,141.0,112.0,64.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Tankers,SUEZMAX,"160,000",90.0,115.0,95.0,85.0,56.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Tankers,AFRAMAX,"115,000",78.0,95.0,80.0,70.0,51.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Tankers,LR1,"73,000",67.0,74.0,64.0,55.0,33.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Tankers,MR,"51,000",51.0,60.0,49.0,40.0,30.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Containers,Geared,"900 - 1,200",25.0,29.0,23.0,18.0,12.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Containers,Gearless,"1,600 - 1,850",32.0,38.0,30.0,25.0,18.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Containers,Gearless,"2,700 - 2,900",44.0,46.0,40.0,35.0,26.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Containers,Gearless,"5,100 - 5,300",55.0,79.0,64.0,,39.0,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf

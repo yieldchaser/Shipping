@@ -343,23 +343,31 @@ def extract_star_asia(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
 
     if not dry_run:
         dest_dir.mkdir(parents=True, exist_ok=True)
-        (dest_dir / f"{pdf_path.stem}.md").write_text(md_text, encoding="utf-8")
+        (dest_dir / f"{pdf_path.stem}.md").write_text(md_text, encoding="utf-8", newline="\n")
         sidecar_data = {
             "stem": pdf_path.stem,
             "issue_date": issue_date,
             "report_week": report_week,
             "tables": {
-                "indicative_demolition_prices": rows["demolition"],
-                "demolition_deals": rows["deals"],
+                "indicative_demolition_prices": run_star_asia.sidecar_rows(rows["demolition"], run_star_asia.DEMO_COLS),
+                "demolition_deals": run_star_asia.sidecar_rows(rows["deals"], run_star_asia.SIDECAR_DEALS_COLS),
             },
         }
-        (dest_dir / f"{pdf_path.stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8")
+        (dest_dir / f"{pdf_path.stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8", newline="\n")
         upsert_rows_to_csv(SERIES_DIR / "star_asia_demolition_series.csv", rows["demolition"], run_star_asia.DEMO_COLS,
                            ["issue_date", "destination", "segment"])
         upsert_rows_to_csv(SERIES_DIR / "star_asia_deals_series.csv", rows["deals"], run_star_asia.DEALS_COLS,
                            ["issue_date", "deal_type", "vessel_name", "destination_yard"])
         upsert_rows_to_csv(SERIES_DIR / "star_asia_iron_ore_series.csv", rows["iron_ore"], run_star_asia.IRON_COLS,
                            ["issue_date", "commodity"])
+        upsert_rows_to_csv(SERIES_DIR / "star_asia_snp_sales_series.csv", rows["snp"], run_star_asia.SNP_COLS,
+                           ["issue_date", "vessel_name", "dwt"])
+        upsert_rows_to_csv(SERIES_DIR / "star_asia_valuation_matrix_series.csv", rows["valuation"], run_star_asia.VAL_COLS,
+                           ["issue_date", "sector", "vessel_type", "size_dwt_teu"])
+        upsert_rows_to_csv(SERIES_DIR / "star_asia_metals_energy_series.csv", rows["metals_energy"], run_star_asia.METALS_COLS,
+                           ["issue_date", "category", "index_name"])
+        upsert_rows_to_csv(SERIES_DIR / "star_asia_5y_history_series.csv", rows["history_5y"], run_star_asia.HIST_COLS,
+                           ["issue_date", "destination"])
 
     return {
         "stem": pdf_path.stem,

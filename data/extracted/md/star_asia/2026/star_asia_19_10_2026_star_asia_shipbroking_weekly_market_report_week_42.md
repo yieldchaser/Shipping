@@ -32,7 +32,7 @@ Dry bulk saw a correction at this week's closing, as the benchmark Baltic Dry In
 
 ## Segment Highlights
 
-**Capesize:** Capesize market experienced a pronounced 13 .9% contraction, primarily weighed down by an acute lack of fresh Atlantic enquiry and a growing buildup of ballast tonnage across the basin. Spot earnings retreated sharply across all core benchmarks as miner participation lagged, driving T/A rates down to US$35,680's, Pacific R/V to US$29,000's and Brazil R/V to US$28,875's per day. Post-holiday trading in China should help establish a floor, though Atlantic overhang will likely cap any immediate recovery.
+**Capesize:** Capesize market experienced a pronounced 13.9% contraction, primarily weighed down by an acute lack of fresh Atlantic enquiry and a growing buildup of ballast tonnage across the basin. Spot earnings retreated sharply across all core benchmarks as miner participation lagged, driving T/A rates down to US$35,680's, Pacific R/V to US$29,000's and Brazil R/V to US$28,875's per day. Post-holiday trading in China should help establish a floor, though Atlantic overhang will likely cap any immediate recovery.
 
 **Panamax / Kamsarmax:** Panamax traded broadly sideways, as localised tonnage tightness for October laycans across Indonesia and EC South America helped counteract expanding ballast lists and softer Pacific coal flows. Driven by prompt capacity shortages and steady North American grain fixtures, key route earnings advanced, with F/H rates rising to US$31,200's and Indonesian R/V surging to US$20,500's.
 
@@ -203,7 +203,7 @@ All prices are USD per light displacement tonnage (long ton), net prices offered
 
 ### Demolition - Reported Sales
 
-| VESSEL | TYPE | LDT | BUILT | PRICE ($/LDT) | DELIVERY / TERMS |
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | VIRINI PREM | FSO | 21,205 | 1988 / S. KOREA | UNDISCLOSED | AS IS NIGERIA, WAFR |
 | PACIFIC LEADER | BULKER | 897 | 1992 / JAPAN | UNDISCLOSED | DELIVERED CHATTOGRAM |

@@ -26,33 +26,27 @@ The cascading effects of ongoing Middle Eastern maritime disruptions are generat
 
 ## Page 2
 
+
 **DRY BULK | BDI: 2,863▼7.32% (w-o-w)**
 
 Severe logistics and inland transport disruptions across European supply chains took centre stage as water levels at Kaub on the Rhine River plunged to record historical lows, severely restricting barge capacities and forcing major industrial players to divert cargo to rail and road. Against this backdrop, the main Baltic Dry Index pulled back after its recent weather-driven surge, dropping about 200 points w-o-w to close at 2,863 points. This broader market retreat was largely led by the Capesize segment, where BCI slipped to 4,538 points, reflecting a 11.5% weekly decline compared to last week's peak. In contrast, BPI posted a 3% drop over the week to reach 2,228 points-despite ending its ten-day winning streak on Wednesday. Meanwhile, BSI showed modest regional resilience by edging up to 1,622 points.
 
 # Segment Highlights
 
-**Capesize: Capesize market strengthened further this week, as a strong seasonal concentration of West**
+**Capesize:** Capesize market strengthened further this week, as a strong seasonal concentration of West Australian iron ore and Brazilian stems coincided with tight Atlantic vessel supply following the inland passage of Typhoon Dolphin. However, widening discounts in near-month FFA contracts suggest the recent spot surge was driven more by immediate positioning mismatches than a structural recovery in Chinese demand. Reflecting these shifting regional dynamics, spot returns adjusted across key routes, bringing Pacific r/v down to US$43,250 per day with T/A trips at US$43,550's.
 
-Australian iron ore and Brazilian stems coincided with tight Atlantic vessel supply following the inland passage of Typhoon Dolphin. However, widening discounts in near-month FFA contracts suggest the recent spot surge was driven more by immediate positioning mismatches than a structural recovery in Chinese demand. Reflecting these shifting regional dynamics, spot returns adjusted across key routes, bringing Pacific r/v down to US$43,250 per day with T/A trips at US$43,550's.
+**Panamax / Kamsarmax:** Panamax market held a constructive tone this week, supported by tight prompt North Atlantic tonnage alongside steady South American and Black Sea grain programs. Stronger NOPAC grain enquiry and firm Australian coal demand further narrowed the Pacific supply-demand gap, offsetting a late week slowdown in Australian and Indonesian cargo volumes. Reflecting these balanced fundamentals, spot rates adjusted across key routes, bringing T/A rates to US$21,900's per day, and Pacific-India runs up to US$16,880's per day.
 
-**Panamax / Kamsarmax: Panamax market held a constructive tone this week, supported by tight prompt**
+**Supramax / Ultramax:** Supramax ended on a subdued note, with recovering Far East-bound fronthaul and transatlantic activity in the West being offset by flat, mixed performance in the East. A steady influx of long-haul and USG cargoes absorbed local vessel capacity to support Atlantic trading, keeping T/A rates at US$27,000's despite softer nearby positions and a widening gap between bids and offers. Meanwhile, Asian markets experienced muted regional demand and correcting backhauls, though slight upward adjustments helped lift Pacific r/v to US$15,350's and Indonesian r/v to US$13,700's per day.
 
-North Atlantic tonnage alongside steady South American and Black Sea grain programs. Stronger NOPAC grain enquiry and firm Australian coal demand further narrowed the Pacific supply-demand gap, offsetting a late week slowdown in Australian and Indonesian cargo volumes. Reflecting these balanced fundamentals, spot rates adjusted across key routes, bringing T/A rates to US$21,900's per day, and Pacific-India runs up to US$16,880's per day.
-
-**Supramax / Ultramax: Supramax ended on a subdued note, with recovering Far East-bound fronthaul**
-
-and transatlantic activity in the West being offset by flat, mixed performance in the East. A steady influx of long-haul and USG cargoes absorbed local vessel capacity to support Atlantic trading, keeping T/A rates at US$27,000's despite softer nearby positions and a widening gap between bids and offers. Meanwhile, Asian markets experienced muted regional demand and correcting backhauls, though slight upward adjustments helped lift Pacific r/v to US$15,350's and Indonesian r/v to US$13,700's per day.
-
-**Handysize: Handysize market conditions remained quiet and cautious this week, with growing vessel**
-
-availability weighing on Europe and the US Gulf despite early signs of stabilisation in the South Atlantic. Although Asian cargo demand held steady, overall volume was insufficient to tighten prompt vessel supply, keeping market sentiment soft yet broadly balanced across both basins. This stable-to-soft tone left Transatlantic ($T/A$) rates unchanged at $15,550 per day, while Inter-Pacific runs edged up slightly to $15,252 per day and CIS round voyages ($CIS\\ R/V$) slipped to $13,902 per day.
+**Handysize:** Handysize market conditions remained quiet and cautious this week, with growing vessel availability weighing on Europe and the US Gulf despite early signs of stabilisation in the South Atlantic. Although Asian cargo demand held steady, overall volume was insufficient to tighten prompt vessel supply, keeping market sentiment soft yet broadly balanced across both basins. This stable-to-soft tone left Transatlantic ($T/A$) rates unchanged at $15,550 per day, while Inter-Pacific runs edged up slightly to $15,252 per day and CIS round voyages ($CIS\\ R/V$) slipped to $13,902 per day.
 
 ## Page 3
 
+
 ### Baltic Dry Index (BDI)
 
-**BDI: 2,863** (WoW: -7.32% | YoY: +40.07%)
+**BDI:** 2,863 (WoW: -7.32% | YoY: +40.07%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |
@@ -73,10 +67,10 @@ availability weighing on Europe and the US Gulf despite early signs of stabilisa
 
 | VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| ASANAGI | CAPE | 182,162 | 2022 / JAPAN | 50.0 |  |
-| SEANERGY MARITIME HOLDINGS CORP ORANGE TIGER | CAPE | 181,395 | 2011 / JAPAN | 36.5 | UNDISCLOSED |
-| AQUAVITA AIM | KMAX | 82,192 | 2019 / JAPAN | 38.2 | EUROPEAN |
-| BUYERS VELOS JASPER | KMAX | 82,030 | 2012 / JAPAN | 23.5 | UNDISCLOSED |
+| ASANAGI | CAPE | 182,162 | 2022 / JAPAN | 50.0 | SEANERGY MARITIME HOLDINGS CORP |
+| ORANGE TIGER | CAPE | 181,395 | 2011 / JAPAN | 36.5 | UNDISCLOSED |
+| AQUAVITA AIM | KMAX | 82,192 | 2019 / JAPAN | 38.2 | EUROPEAN BUYERS |
+| VELOS JASPER | KMAX | 82,030 | 2012 / JAPAN | 23.5 | UNDISCLOSED |
 | MEDI POSITANO | KMAX | 81,661 | 2015 / JAPAN | 31.6 | UNDISCLOSED |
 | ROYAL HOPE | KMAX | 81,011 | 2015 / JAPAN | 30.8 | UNDISCLOSED |
 | UNION LOTUS | UMAX | 63,685 | 2015 / CHINA | 25.0 | UNDISCLOSED |
@@ -95,33 +89,25 @@ availability weighing on Europe and the US Gulf despite early signs of stabilisa
 
 ## Page 5
 
+
 **TANKERS | BDTI: 2,742 ▲+4.22% (w-o-w)**
 
 Saudi Arabia is actively re-establishing loading operations at its Persian Gulf export terminals while balancing ongoing security threats across both primary regional maritime corridors. Satellite imagery recently captured a VLCC at the Ju'aymah moorings within the Ras Tanura complex, the first recorded supertanker at the facility in nearly a month alongside a Suezmax vessel at the nearby sea island terminal. This activity coincides with Saudi Arabia reporting a July production increase of over 1 million BPD to OPEC, though total output remains significantly below pre-war baselines. However, tracking flows have grown exceptionally complex as most ships operate with transponders deactivated. Concurrently, export activity at the Red Sea port of Yanbu has slowed following Houthi threats, forcing a shift in logistics where northbound shipments through the Suez Canal and the SUMED pipeline to Sidi Kerir reached 2.2 million BPD last week, effectively replacing the more dangerous southern route through the Bab el-Mandeb Strait. With security concerns intensifying, total commercial transits through the Strait of Hormuz have plunged to just 5 to 10 vessels daily far below the pre-war norm of roughly 140 ships-confirming Tehran's de facto operational influence over the chokepoints. In response to these persistent vulnerabilities, Western and regional planners are advancing strategic infrastructure alternatives designed to bypass both the Strait of Hormuz and the Bab el-Mandeb Strait. The newly announced US$5 billion MERA Oil consortium is finalising a site for a 200,000 BPD refinery and deepwater export hub outside the Persian Gulf on the Gulf of Oman or Arabian Sea, targeted for completion by late 2029. This project aligns with a broader wartime redesign of the India-Middle East-Europe Economic Corridor (IMEC) anchored in Oman, as well as proposals for cross-peninsula land routes toward the Mediterranean.
 
 # Segment Highlights
 
-**VLCC: Middle East market continues to see surging rates, as Far East charterers rush to secure limited**
+**VLCC:** Middle East market continues to see surging rates, as Far East charterers rush to secure limited tonnage amid high war risk insurance premiums. Rates remain elevated with persistent regional transit risks, with WAFR/China sits around WS140's.
 
-tonnage amid high war risk insurance premiums. Rates remain elevated with persistent regional transit risks, with WAFR/China sits around WS140's.
+**Suezmax:** West African faces persistent bearish pressure as an influx of ballast vessels and returning Atlantic tonnage maintain a supply overhang against limited spot cargo growth. WAFR/China trips close around WS185. However, a tightening tonnage-to-cargo ratio and the imminent release of September CPC stems could stem further rate erosion.
 
-**Suezmax: West African faces persistent bearish pressure as an influx of ballast vessels and returning**
+**Aframax:** MEG is set to maintain a firm tone as a surge in VLCC rates prompts charterers to quickly secure tonnage, tightening local supply. The Med market faces rate erosion as a healthy position list and Black Sea tonnage push surplus vessels toward cross-Med voyages closing around WS210.
 
-Atlantic tonnage maintain a supply overhang against limited spot cargo growth. WAFR/China trips close around WS185. However, a tightening tonnage-to-cargo ratio and the imminent release of September CPC stems could stem further rate erosion.
+**LR1 / LR2:** MEG LR2 market closed strong as prolonged geopolitical risks and expanding STS operations between the Persian Gulf and Sohar continue to absorb local tonnage. Rates remain well-supported this with tight vessel availability with TC1 closing at WS517. LR1 rates on the other hand, did not see much activity with MEG/Japan TC5 closing lower at WS533.
 
-**Aframax: MEG is set to maintain a firm tone as a surge in VLCC rates prompts charterers to quickly secure**
-
-tonnage, tightening local supply. The Med market faces rate erosion as a healthy position list and Black Sea tonnage push surplus vessels toward cross-Med voyages closing around WS210.
-
-**LR1 / LR2: MEG LR2 market closed strong as prolonged geopolitical risks and expanding STS operations**
-
-between the Persian Gulf and Sohar continue to absorb local tonnage. Rates remain well-supported this with tight vessel availability with TC1 closing at WS517. LR1 rates on the other hand, did not see much activity with MEG/Japan TC5 closing lower at WS533.
-
-**MR: Far East market closed slightly lower as sluggish East Asian cargo demand saw local tonnage to build**
-
-up. Rates remain soft pressure whilst regional cargo activity. In the MEG, TC17 saw rates slipped to WS485 this week.
+**MR:** Far East market closed slightly lower as sluggish East Asian cargo demand saw local tonnage to build up. Rates remain soft pressure whilst regional cargo activity. In the MEG, TC17 saw rates slipped to WS485 this week.
 
 ## Page 6
+
 
 ### Baltic Tanker Indices
 
@@ -145,8 +131,9 @@ up. Rates remain soft pressure whilst regional cargo activity. In the MEG, TC17 
 
 | VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| CELESTE NOVA | VLCC | 318,510 | 2013 / CHINA | 120.0 |  |
-| ADNOC LOGISTICS AND SERVICES DHAN LAXMI | MR | 50,353 | 2004 / S. KOREA | 11.9 | UNDISCLOSED |
+| CELESTE NOVA | VLCC | 318,510 | 2013 / CHINA | 120.0 | ADNOC LOGISTICS AND SERVICES |
+| DHAN LAXMI | MR | 50,353 | 2004 / S. KOREA | 11.9 | UNDISCLOSED |
+| ANCHOR 18 | PROD / CHEM | 19,971 | 2009 / CHINA | 16.4 (STST) | CHINESE BUYERS |
 
 ## Page 7
 
@@ -194,40 +181,33 @@ Container market returned to an upward trajectory this week as the SCFI index ro
 
 ## Page 10
 
-# SHIP RECYCLING
 
-Current Market Snapshot (USD / LDT)
+### Ship Recycling - Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| --- | --- | --- | --- | --- | --- |
-| ALANG, INDIA | $440–450 | $430–440 | $420–430 | $470–480 | STABLE / ←→ |
-| CHATTOGRAM, BANGLADESH | $490–500 | $460–470 | $450–460 | $500–510 | BULLISH / ↑ |
-| GADDANI, PAKISTAN | $520–530 | $510–520 | $490–500 | $540–550 | BULLISH / ↑ |
-| ALIAGA, TURKEY* | $300–310 | $290–300 | $270–280 | $310–320 | STABLE / ←→ |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE |
+| CHATTOGRAM, BANGLADESH | $490-500 | $460-470 | $450-460 | $500-510 | BULLISH |
+| GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | BULLISH |
+| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE |
 
-* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
+*Turkey prices for non-EU ships. EU vessels approx. US$20-30/ton less.*
 
-All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages. • All prices are USD per light displacement tonnage in the long ton. • The prices reported are net prices offered by the recycling yards. • Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
-• All prices are USD per light displacement tonnage in the long ton.
-
-• The prices reported are net prices offered by the recycling yards.
-
-• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-
-5-Year Historical Average Prices (Week 33)
+### 5-Year Historical Average Prices (USD / LDT)
 
 | DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :---: | :---: | :---: | :---: | :---: |
 | ALANG, INDIA | 550 | 550 | 500 | 500 | 440 |
 | CHATTOGRAM, BANGLADESH | 580 | 620 | 510 | 510 | 410 |
 | GADDANI, PAKISTAN | 595 | 590 | 520 | 500 | 440 |
 | ALIAGA, TURKEY | 300 | 300 | 310 | 340 | 290 |
 
-Reported Sales
+### Demolition - Reported Sales
 
 | VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :---: | :---: | :---: | :---: | :--- |
 | GREEN STARS | TANKER | 8,274 | 2001 / S. KOREA | 500 | AS IS BELAWAN, INDONESIA FOR REDELIVERY GADDANI, PAKISTAN |
 | MARIA | BULKER | 6,182 | 1997 / S.KOREA | 532 | DELIVERED GADDANI |
 
@@ -235,28 +215,30 @@ Reported Sales
 
 ## Page 12
 
-# Market Insights
 
-Alang, India: Alang maintained a steady course, though local yards continue to find themselves at a visible competitive disadvantage against regional rivals. A downward slide in domestic steel prices over the past week has restricted what local operators can offer. Both Pakistan and Bangladesh are offering higher prices for normal commercial tonnage. As a result, standard dry bulk and container remain difficult for Indian cash buyers to secure. Nevertheless, Alang continues to carve out a resilient niche by capturing specialised and sanctioned assets; recent market sales of a passenger vessel and a refrigerated cargo ship concluded at strong levels, showing healthy domestic appetite for high value non-ferrous material, continues to keep local cutting activity ticking over.
+## Market Insights
+
+**Alang, India:** Alang maintained a steady course, though local yards continue to find themselves at a visible competitive disadvantage against regional rivals. A downward slide in domestic steel prices over the past week has restricted what local operators can offer. Both Pakistan and Bangladesh are offering higher prices for normal commercial tonnage. As a result, standard dry bulk and container remain difficult for Indian cash buyers to secure. Nevertheless, Alang continues to carve out a resilient niche by capturing specialised and sanctioned assets; recent market sales of a passenger vessel and a refrigerated cargo ship concluded at strong levels, showing healthy domestic appetite for high value non-ferrous material, continues to keep local cutting activity ticking over.
 
 Meanwhile, newly released government data confirmed that national consumer price inflation landed at a manageable 4.45% in July, sitting comfortably within the central bank's target band and cooling fears of immediate interest rate hikes. With the Reserve Bank of India keeping the benchmark repo rate steady at 5.25% and projecting robust annual economic growth of 6.7%, domestic borrowing costs and industrial expansion remain on predictable footing.
 
-Alang Anchorage & Beaching Position — August 2026
+## Alang Anchorage & Beaching Position - August 2026
 
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
-| --- | --- | --- | --- | --- |
+|---|---|---|---|---|
 | CUTTA | TANKER | 11,552 | 09.08.2026 | 12.08.2206 |
 | FT ISLAND | VLCC | 43,402 | 31.07.2027 | 04.08.2026 |
 
-Chattogram, Bangladesh: Chattogram saw overall sentiment moderate slightly, cooling from the heated buying climate witnessed a fortnight earlier. Domestic steel scrap prices softened modestly over the course of the week, yet buyers have managed to hold their price indications steady for the time being. While actual transactional activity remains somewhat limited across the waterfront, underlying appetite remains fundamentally strong, with buyers demonstrating renewed inquiries and an eagerness to secure workable tonnage.
+**Chattogram, Bangladesh:** Chattogram saw overall sentiment moderate slightly, cooling from the heated buying climate witnessed a fortnight earlier. Domestic steel scrap prices softened modestly over the course of the week, yet buyers have managed to hold their price indications steady for the time being. While actual transactional activity remains somewhat limited across the waterfront, underlying appetite remains fundamentally strong, with buyers demonstrating renewed inquiries and an eagerness to secure workable tonnage.
 
 Ship recyclers are watching the domestic trade closely, as the mild easing in local steel margins may begin to exert downward pressure on forward offers if downstream demand does not pick up over the coming week.
 
-Official data released this week showed that Bangladesh's gross foreign exchange reserves climbed past US$37.1 billion—reaching US$32.3 billion under the IMF's BPM6 standard—marking an important multi-year recovery that provides comfortable import coverage. Alongside this strengthening foreign currency cushion, national annual inflation cooled significantly to an eight-month low of 8.32% in July, down from 9.16% in June, driven by easing food and transport costs.
+Official data released this week showed that Bangladesh's gross foreign exchange reserves climbed past US$37.1 billion-reaching US$32.3 billion under the IMF's BPM6 standard-marking an important multi-year recovery that provides comfortable import coverage. Alongside this strengthening foreign currency cushion, national annual inflation cooled significantly to an eight-month low of 8.32% in July, down from 9.16% in June, driven by easing food and transport costs.
 
 ## Page 13
 
-# Chattogram Anchorage & Beaching Position - August 2026
+
+## Chattogram Anchorage & Beaching Position - August 2026
 
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
 |---|---|---|---|---|
@@ -264,51 +246,57 @@ Official data released this week showed that Bangladesh's gross foreign exchange
 | AVUNDA REEFER | REEFER | 4,085 | 31.07.2026 | 13.08.2025 |
 | GAS II | LPG | 2,213 | 29.07.2026 | 04.08.2026 |
 
-**Gaddani, Pakistan: Gadani maintained a firm footing this week, with local recyclers continuing to show**
+**Gaddani, Pakistan:** Gadani maintained a firm footing this week, with local recyclers continuing to show strong appetite for additional tonnage amid robust domestic demand. Offered prices have seen a sudden spike, driven by a combination of taxation-related considerations, the renewed HKC certification process, and increasingly aggressive buying from a handful of recyclers eager to secure tonnage. The strength in ship-recycling prices is particularly notable considering that prime-quality HRC (Hot Rolled Coil) is currently being imported at around US$560/ton, which may ultimately limit the sustainability of the present upward momentum.
 
-strong appetite for additional tonnage amid robust domestic demand. Offered prices have seen a sudden spike, driven by a combination of taxation-related considerations, the renewed HKC certification process, and increasingly aggressive buying from a handful of recyclers eager to secure tonnage. The strength in ship-recycling prices is particularly notable considering that prime-quality HRC (Hot Rolled Coil) is currently being imported at around US$560/ton, which may ultimately limit the sustainability of the present upward momentum. While local recyclers and steel re-rollers continue to navigate evolving tax and compliance measures, most notably the revenue authorities' recent introduction of an electricity consumption based sales tax for the domestic steel sector, underlying market sentiment has refused to waver. A major catalyst behind this persistent purchasing appetite is the drastic reduction in overland steel and scrap imports from neighbouring Iran, which has created an acute structural shortage of meltable material across the country. Accordingly, domestic steel mills are leaning far more heavily on shipbreakers to provide essential raw feedstock, considerably strengthening yard operators' willingness to compete aggressively and actively bid for any available candidate vessels. This coincides with a welcome easing in national economic pressures. Official data revealed that Pakistan's headline inflation slowed significantly to 9.2% in July, down from 11.1% in June, primarily driven by softer housing and transport costs. With the Asian Development Bank maintaining the country's annual economic growth projection at 3.7%, improving price stability is helping cushion heavy industries against earlier cost spikes.
+While local recyclers and steel re-rollers continue to navigate evolving tax and compliance measures, most notably the revenue authorities' recent introduction of an electricity consumption based sales tax for the domestic steel sector, underlying market sentiment has refused to waver.
 
-**Aliaga, Turkey: Aliaga hovered at subdued levels, with general trading sentiment remaining unchanged.**
+A major catalyst behind this persistent purchasing appetite is the drastic reduction in overland steel and scrap imports from neighbouring Iran, which has created an acute structural shortage of meltable material across the country. Accordingly, domestic steel mills are leaning far more heavily on shipbreakers to provide essential raw feedstock, considerably strengthening yard operators' willingness to compete aggressively and actively bid for any available candidate vessels.
 
-Local buying inquiries stayed flat, as Buyers continued to take a cautious approach toward securing fresh tonnage in the absence of upward price momentum.
+This coincides with a welcome easing in national economic pressures. Official data revealed that Pakistan's headline inflation slowed significantly to 9.2% in July, down from 11.1% in June, primarily driven by softer housing and transport costs. With the Asian Development Bank maintaining the country's annual economic growth projection at 3.7%, improving price stability is helping cushion heavy industries against earlier cost spikes.
+
+## Gaddani Anchorage & Beaching Position - August 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
+| - | - | - | - | - |
+
+**Aliaga, Turkey:** Aliaga hovered at subdued levels, with general trading sentiment remaining unchanged. Local buying inquiries stayed flat, as Buyers continued to take a cautious approach toward securing fresh tonnage in the absence of upward price momentum.
 
 Central Bank of the Republic of Türkiye raised its year-end 2026 inflation forecast to 28% during its latest quarterly report, citing volatile energy and commodity import costs. With the central bank maintaining a
 
 ## Page 14
 
+
 strict monetary stance and keeping its benchmark policy rate at 37%, high domestic borrowing costs and ongoing lira depreciation continue to constrain local purchasing power for dollar-denominated hulls.
 
-**TIDE DATES 2026 | Chattogram:** 12 ~ 15 August | 28 ~ 31 August
+TIDE DATES 2026 | Chattogram: 12 ~ 15 August | 28 ~ 31 August
 
-**Alang:** 09 ~ 18 August | 26 August ~ 6 September
+Alang: 09 ~ 18 August | 26 August ~ 6 September
 
 # SUB-CONTINENT & TURKEY SCRAP MARKETS
 
-**India: Containerized shredded scrap prices remained steady day-on-day as a softer rupee and sluggish**
+**India:** Containerized shredded scrap prices remained steady day-on-day as a softer rupee and sluggish downstream demand curbed aggressive procurement. UK-origin shredded scrap was indicated around US$330/t, with hand-loaded material heard at US$340/t. Broader UK shredded offers circulated at US$390-395/t CFR, though indicative buyer bids lingered lower near US$370/t CFR.
 
-downstream demand curbed aggressive procurement. UK-origin shredded scrap was indicated around US$330/t, with hand-loaded material heard at US$340/t. Broader UK shredded offers circulated at US$390-395/t CFR, though indicative buyer bids lingered lower near US$370/t CFR.
+**Pakistan:** Imported trading momentum slowed considerably after mills covered substantial requirements in July, leaving little appetite for fresh bookings despite quotes heard near US$420/t CFR. Offers for fresh shredded material held at US$414-416/t CFR without major uptake. Meanwhile, local scrap buyers adopted a cautious stance while navigating recent domestic tax-related revisions.
 
-**Pakistan: Imported trading momentum slowed considerably after mills covered substantial requirements**
+**Bangladesh:** Subdued buying persisted amid an ongoing bid-offer mismatch, leaving UK shredded offers at US$395/t CFR unworkable against buyer counters of US$375/t CFR. Australian and South American HMS 80:20 offers of US$380-385/t CFR similarly faced lower bids around US$365/t CFR with no deals concluded. In the local market, domestic scrap changed hands between BDT 49,000-52,000/t (US$398-422/t).
 
-in July, leaving little appetite for fresh bookings despite quotes heard near US$420/t CFR. Offers for fresh shredded material held at US$414-416/t CFR without major uptake. Meanwhile, local scrap buyers adopted a cautious stance while navigating recent domestic tax-related revisions.
-
-**Bangladesh: Subdued buying persisted amid an ongoing bid-offer mismatch, leaving UK shredded offers**
-
-at US$395/t CFR unworkable against buyer counters of US$375/t CFR. Australian and South American HMS 80:20 offers of US$380-385/t CFR similarly faced lower bids around US$365/t CFR with no deals concluded. In the local market, domestic scrap changed hands between BDT 49,000-52,000/t (US$398-422/t).
-
-**Turkiye: Deep-sea import benchmarks held stable, with US-origin HMS 80:20 assessed near US$375/t CFR**
-
-and European material at US$370/t CFR, alongside steady rebar export prices at US$577.50/t FOB. With Turkish mills having secured their August scrap requirements and European sellers largely absent, high freight costs and quiet mill demand continue to cap near-term upward momentum.
+**Turkiye:** Deep-sea import benchmarks held stable, with US-origin HMS 80:20 assessed near US$375/t CFR and European material at US$370/t CFR, alongside steady rebar export prices at US$577.50/t FOB. With Turkish mills having secured their August scrap requirements and European sellers largely absent, high freight costs and quiet mill demand continue to cap near-term upward momentum.
 
 # COMMODITIES, BUNKERS & RATES
 
-# Commodities Focus
+## Commodities Focus
 
-**Iron ore futures experienced a slight rebound toward CNY 715 per ton, recovering from 15-month lows as**
+Iron ore futures experienced a slight rebound toward CNY 715 per ton, recovering from 15-month lows as labour union negotiations at BHP's Western Australia operations stalled, leading to a scheduled two-day strike at Port Hedland that threatens to delay up to 16 shipments and interrupt a facility that exports approximately US$80 million worth of ore daily. However, this upward movement remains capped by weak consumption fundamentals in China, where steel mill margins continue to deteriorate, and hot metal output has declined for several consecutive weeks.
 
-labour union negotiations at BHP's Western Australia operations stalled, leading to a scheduled two-day strike at Port Hedland that threatens to delay up to 16 shipments and interrupt a facility that exports approximately US$80 million worth of ore daily. However, this upward movement remains capped by weak consumption fundamentals in China, where steel mill margins continue to deteriorate, and hot metal output has declined for several consecutive weeks. In contrast, copper futures held firm above US$6.6 per pound to stay near historical peaks, propelled by tightening global stocks and structural supply threats in Chile, where Codelco faces a potential two-year development freeze at its flagship El Teniente mine due to underground geotechnical hurdles. The red metal also drew strength from an unprecedented surge in American demand ahead of prospective trade policy shifts, with July import arrivals at U.S. ports surpassing 200,000 tons to record the highest monthly
+In contrast, copper futures held firm above US$6.6 per pound to stay near historical peaks, propelled by tightening global stocks and structural supply threats in Chile, where Codelco faces a potential two-year development freeze at its flagship El Teniente mine due to underground geotechnical hurdles. The red metal also drew strength from an unprecedented surge in American demand ahead of prospective trade policy shifts, with July import arrivals at U.S. ports surpassing 200,000 tons to record the highest monthly
 
 ## Page 15
+
+
+volume in over a decade.
+
+Meanwhile, thermal coal futures retreated toward US$130 per ton as a 7.51% y-o-y expansion in India's July output reached 69.75 million tons, boosting domestic reserves and dampening seaborne import needs. This energy price correction was further supported by a drop in global crude benchmarks amidst reports of an impending diplomatic deal between Washington and Tehran to reopen the Strait of Hormuz, easing fuel-switching incentives across Europe and Asia even as rising summer temperatures in China spurred a localised increase in cooling electricity demand.
 
 ### Iron Ore
 
@@ -336,12 +324,15 @@ labour union negotiations at BHP's Western Australia operations stalled, leading
 | Crude Oil (Tokyo) | JPY / kl | 83,100.00 | -920.00 | -1.09% | AUG 2026 |
 | Natural Gas (Nymex) | USD / MMBtu | 2.76 | +0.04 | +1.32% | SEP 2026 |
 
+*All rates at C.O.B. London time, August 14th, 2026*
+
 ## Page 16
 
-Exchange Rates
+
+### Exchange Rates
 
 | CURRENCY PAIR | AUGUST 14 | AUGUST 7 | WoW % |
-| --- | --- | --- | --- |
+| :--- | :---: | :---: | :---: |
 | USD / CNY (China) | 6.74 | 6.75 | +0.15% |
 | USD / BDT (Bangladesh) | 122.74 | 123.77 | +0.83% |
 | USD / INR (India) | 95.46 | 95.23 | -0.24% |
@@ -351,16 +342,10 @@ Exchange Rates
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| --- | --- | --- | --- |
+| :--- | :---: | :---: | :---: |
 | SINGAPORE | $807 | $573 | $1118 |
 | HONG KONG | $827 | $636 | $1113 |
 | FUJAIRAH | $774 | $584 | $1280 |
 | ROTTERDAM | $639 | $495 | $1155 |
 | HOUSTON | $682 | $450 | $1153 |
-
-Singapore | London | Dubai
-
-For Privacy Policy
-
-This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
 

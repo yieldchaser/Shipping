@@ -121,113 +121,114 @@ issue_date,report_week,category,index_name,units,price,change,pct_change,contrac
 2026-05-29,22,Energy,Brent Crude (ICE),USD / bbl.,92.22,-1.49,,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W22_Market-Report-Week-22.pdf
 2026-05-29,22,Energy,Crude Oil (Tokyo),JPY / kl,"101,650.00",0.00,,JUN 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W22_Market-Report-Week-22.pdf
 2026-05-29,22,Energy,Natural Gas (Nymex),USD / MMBtu,3.04,+0.15,,JUN 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W22_Market-Report-Week-22.pdf
-2026-06-05,23,Industrial Metals,Copper (Comex),USD / lb.,628.45,-25.05,,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Industrial Metals,3Mo Copper (LME),USD / MT,"13,519.50",-412.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,592.00",-74.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,530.00",-58.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Industrial Metals,3Mo Tin (LME),USD / MT,"52,935.00","-2,809.00",,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Energy,WTI Crude Oil (Nymex),USD / bbl.,90.54,-2.50,,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Energy,Brent Crude (ICE),USD / bbl.,93.09,-1.94,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Energy,Crude Oil (Tokyo),JPY / kl,"93,600.00","-2,540.00",,JUN 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-05,23,Energy,Natural Gas (Nymex),USD / MMBtu,3.23,-0.11,,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
-2026-06-12,24,Industrial Metals,Copper (Comex),USD / lb.,644.50,+17.00,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Industrial Metals,3Mo Copper (LME),USD / MT,"13,698.00",+215.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,535.00",+33.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,584.00",+88.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Industrial Metals,3Mo Tin (LME),USD / MT,"53,752.00",+904.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Energy,WTI Crude Oil (Nymex),USD / bbl.,84.88,-2.83,,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Energy,Brent Crude (ICE),USD / bbl.,87.33,-3.05,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Energy,Crude Oil (Tokyo),JPY / kl,"86,220.00","-4,700.00",,JUN 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-12,24,Energy,Natural Gas (Nymex),USD / MMBtu,3.12,+0.03,,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
-2026-06-19,25,Industrial Metals,Copper (Comex),USD / lb.,639.80,-5.15,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Industrial Metals,3Mo Copper (LME),USD / MT,"13,690.50",-124.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,386.50",-24.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,638.00",+50.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Industrial Metals,3Mo Tin (LME),USD / MT,"53,653.00","-1,691.00",,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Energy,WTI Crude Oil (Nymex),USD / bbl.,77.47,+0.87,,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Energy,Brent Crude (ICE),USD / bbl.,80.63,+0.78,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Energy,Crude Oil (Tokyo),JPY / kl,"81,830.00",-130.00,,JUN 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-19,25,Energy,Natural Gas (Nymex),USD / MMBtu,3.20,-0.03,,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
-2026-06-26,26,Industrial Metals,Copper (Comex),USD / lb.,621.15,+7.40,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Industrial Metals,3Mo Copper (LME),USD / MT,"13,270.00",+183.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,434.50",+13.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,638.00",+50.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Industrial Metals,3Mo Tin (LME),USD / MT,"50,383.00",+702.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Energy,WTI Crude Oil (Nymex),USD / bbl.,69.98,-2.94,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Energy,Brent Crude (ICE),USD / bbl.,71.85,-3.41,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Energy,Crude Oil (Tokyo),JPY / kl,"80,560.00",+260.00,,JUN 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-06-26,26,Energy,Natural Gas (Nymex),USD / MMBtu,3.35,-0.01,,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
-2026-07-10,28,Industrial Metals,Copper (Comex),USD / lb.,629.05,+2.50,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Industrial Metals,3Mo Copper (LME),USD / MT,"13,489.50",+324.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,200.50",+68.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,626.50",+107.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Industrial Metals,3Mo Tin (LME),USD / MT,"53,647.00","+1,522.00",,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Energy,WTI Crude Oil (Nymex),USD / bbl.,71.25,-0.83,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Energy,Brent Crude (ICE),USD / bbl.,75.88,-0.42,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Energy,Crude Oil (Tokyo),JPY / kl,"70,670.00",-940.00,,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-10,28,Energy,Natural Gas (Nymex),USD / MMBtu,2.91,-0.10,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
-2026-07-17,29,Industrial Metals,Copper (Comex),USD / lb.,620.90,-13.30,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Industrial Metals,3Mo Copper (LME),USD / MT,"13,598.50",+17.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,185.00",+17.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,593.50",+47.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Industrial Metals,3Mo Tin (LME),USD / MT,"53,156.00",+376.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Energy,WTI Crude Oil (Nymex),USD / bbl.,81.57,+2.62,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Energy,Brent Crude (ICE),USD / bbl.,86.87,+2.64,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Energy,Crude Oil (Tokyo),JPY / kl,"75,340.00","-1,160.00",,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-17,29,Energy,Natural Gas (Nymex),USD / MMBtu,2.89,+0.03,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
-2026-07-24,30,Industrial Metals,Copper (Comex),USD / lb.,633.85,-0.50,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Industrial Metals,3Mo Copper (LME),USD / MT,"13,594.50",-213.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,188.00",-4.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,585.50",-6.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Industrial Metals,3Mo Tin (LME),USD / MT,"53,326.00",-596.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Energy,WTI Crude Oil (Nymex),USD / bbl.,89.49,-2.70,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Energy,Brent Crude (ICE),USD / bbl.,96.96,-3.73,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Energy,Crude Oil (Tokyo),JPY / kl,"82,430.00","+3,430.00",,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-07-24,30,Energy,Natural Gas (Nymex),USD / MMBtu,2.94,+0.02,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
-2026-08-01,31,Industrial Metals,Copper (Comex),USD / lb.,650.40,+19.25,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Industrial Metals,3Mo Copper (LME),USD / MT,"13,581.00",-104.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,180.00",+32.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,585.50",-6.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Industrial Metals,3Mo Tin (LME),USD / MT,"53,882.00",+299.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Energy,WTI Crude Oil (Nymex),USD / bbl.,84.06,-0.40,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Energy,Brent Crude (ICE),USD / bbl.,89.30,-1.44,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Energy,Crude Oil (Tokyo),JPY / kl,"78,690.00",+480.00,,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-01,31,Energy,Natural Gas (Nymex),USD / MMBtu,2.75,+0.02,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
-2026-08-15,33,Industrial Metals,Copper (Comex),USD / lb.,669.95,-0.70,,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Industrial Metals,3Mo Copper (LME),USD / MT,"14,148.50",+16.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,258.50",-52.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,751.50",-5.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Industrial Metals,3Mo Tin (LME),USD / MT,"55,854.00",+36.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Energy,WTI Crude Oil (Nymex),USD / bbl.,81.43,+0.18,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Energy,Brent Crude (ICE),USD / bbl.,87.06,-0.01,,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Energy,Crude Oil (Tokyo),JPY / kl,"83,100.00",-920.00,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-15,33,Energy,Natural Gas (Nymex),USD / MMBtu,2.76,+0.04,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
-2026-08-21,34,Industrial Metals,Copper (Comex),USD / lb.,668.80,+11.85,,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Industrial Metals,3Mo Copper (LME),USD / MT,"14,036.50",-13.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,205.00",-22.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,760.00",+51.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Industrial Metals,3Mo Tin (LME),USD / MT,"55,803.00",+253.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Energy,WTI Crude Oil (Nymex),USD / bbl.,87.06,+0.23,,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Energy,Brent Crude (ICE),USD / bbl.,94.39,+0.61,,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Energy,Crude Oil (Tokyo),JPY / kl,"89,620.00","+2,020.00",,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-21,34,Energy,Natural Gas (Nymex),USD / MMBtu,2.77,+0.04,,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
-2026-08-28,35,Industrial Metals,Copper (Comex),USD / lb.,673.70,+4.80,,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Industrial Metals,3Mo Copper (LME),USD / MT,"14,282.50",+29.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,234.50",+9.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,884.00",-9.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Industrial Metals,3Mo Tin (LME),USD / MT,"55,354.00",+527.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Energy,WTI Crude Oil (Nymex),USD / bbl.,82.98,-0.55,,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Energy,Brent Crude (ICE),USD / bbl.,89.44,-0.26,,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Energy,Crude Oil (Tokyo),JPY / kl,"88,660.00",-10.00,,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-08-28,35,Energy,Natural Gas (Nymex),USD / MMBtu,2.85,-0.07,,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
-2026-09-18,38,Industrial Metals,Copper (Comex),USD / lb.,671.30,+5.15,,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Industrial Metals,3Mo Copper (LME),USD / MT,"14,491.50",+259.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,301.50",+32.50,,N/A,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,881.50",+69.00,,N/A,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Energy,WTI Crude Oil (Nymex),USD / bbl.,99.80,-2.11,,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Energy,Brent Crude (ICE),USD / bbl.,103.19,-1.63,,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Energy,Crude Oil (Tokyo),JPY / kl,"111,170.00","-1,840.00",,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
-2026-09-18,38,Energy,Natural Gas (Nymex),USD / MMBtu,2.90,0.00,,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
+2026-06-05,23,Industrial Metals,Copper (Comex),USD / lb.,628.45,-25.05,-3.83%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Industrial Metals,3Mo Copper (LME),USD / MT,"13,519.50",-412.50,-2.96%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,592.00",-74.00,-2.02%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,530.00",-58.00,-1.62%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Industrial Metals,3Mo Tin (LME),USD / MT,"52,935.00","-2,809.00",-5.04%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Energy,WTI Crude Oil (Nymex),USD / bbl.,90.54,-2.50,-2.69%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Energy,Brent Crude (ICE),USD / bbl.,93.09,-1.94,-2.04%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Energy,Crude Oil (Tokyo),JPY / kl,"93,600.00","-2,540.00",-2.64%,JUN 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Energy,Natural Gas (Nymex),USD / MMBtu,3.23,-0.11,-3.21%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-12,24,Industrial Metals,Copper (Comex),USD / lb.,644.50,+17.00,+2.71%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Industrial Metals,3Mo Copper (LME),USD / MT,"13,698.00",+215.50,+1.60%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,535.00",+33.00,+0.94%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,584.00",+88.00,+2.52%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Industrial Metals,3Mo Tin (LME),USD / MT,"53,752.00",+904.00,+1.71%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Energy,WTI Crude Oil (Nymex),USD / bbl.,84.88,-2.83,-3.23%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Energy,Brent Crude (ICE),USD / bbl.,87.33,-3.05,-3.37%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Energy,Crude Oil (Tokyo),JPY / kl,"86,220.00","-4,700.00",-5.17%,JUN 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Energy,Natural Gas (Nymex),USD / MMBtu,3.12,+0.03,+1.07%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-19,25,Industrial Metals,Copper (Comex),USD / lb.,639.80,-5.15,-0.80%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Industrial Metals,3Mo Copper (LME),USD / MT,"13,690.50",-124.00,-0.90%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,386.50",-24.00,-0.70%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,638.00",+50.00,+1.39%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Industrial Metals,3Mo Tin (LME),USD / MT,"53,653.00","-1,691.00",-3.06%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Energy,WTI Crude Oil (Nymex),USD / bbl.,77.47,+0.87,+1.14%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Energy,Brent Crude (ICE),USD / bbl.,80.63,+0.78,+0.98%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Energy,Crude Oil (Tokyo),JPY / kl,"81,830.00",-130.00,-0.16%,JUN 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Energy,Natural Gas (Nymex),USD / MMBtu,3.20,-0.03,-0.96%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-26,26,Industrial Metals,Copper (Comex),USD / lb.,621.15,+7.40,+1.21%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Industrial Metals,3Mo Copper (LME),USD / MT,"13,270.00",+183.50,+1.35%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,434.50",+13.00,+0.38%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,638.00",+50.00,+1.39%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Industrial Metals,3Mo Tin (LME),USD / MT,"50,383.00",+702.00,+1.41%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Energy,WTI Crude Oil (Nymex),USD / bbl.,69.98,-2.94,-4.09%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Energy,Brent Crude (ICE),USD / bbl.,71.85,-3.41,-4.53%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Energy,Crude Oil (Tokyo),JPY / kl,"80,560.00",+260.00,+0.32%,JUN 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Energy,Natural Gas (Nymex),USD / MMBtu,3.35,-0.01,-0.30%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-07-10,28,Industrial Metals,Copper (Comex),USD / lb.,629.05,+2.50,+0.40%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Industrial Metals,3Mo Copper (LME),USD / MT,"13,489.50",+324.00,+2.46%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,200.50",+68.50,+2.19%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,626.50",+107.50,+3.05%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Industrial Metals,3Mo Tin (LME),USD / MT,"53,647.00","+1,522.00",+2.98%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Energy,WTI Crude Oil (Nymex),USD / bbl.,71.25,-0.83,-1.15%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Energy,Brent Crude (ICE),USD / bbl.,75.88,-0.42,-0.55%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Energy,Crude Oil (Tokyo),JPY / kl,"70,670.00",-940.00,-1.31%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,Energy,Natural Gas (Nymex),USD / MMBtu,2.91,-0.10,-3.45%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-17,29,Industrial Metals,Copper (Comex),USD / lb.,620.90,-13.30,-2.10%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Industrial Metals,3Mo Copper (LME),USD / MT,"13,598.50",+17.00,+0.13%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,185.00",+17.00,+0.13%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,593.50",+47.50,+1.34%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Industrial Metals,3Mo Tin (LME),USD / MT,"53,156.00",+376.00,+0.71%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Energy,WTI Crude Oil (Nymex),USD / bbl.,81.57,+2.62,+3.32%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Energy,Brent Crude (ICE),USD / bbl.,86.87,+2.64,+3.13%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Energy,Crude Oil (Tokyo),JPY / kl,"75,340.00","-1,160.00",-1.52%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Energy,Natural Gas (Nymex),USD / MMBtu,2.89,+0.03,+1.19%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-24,30,Industrial Metals,Copper (Comex),USD / lb.,633.85,-0.50,-0.08%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Industrial Metals,3Mo Copper (LME),USD / MT,"13,594.50",-213.50,-1.55%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,188.00",-4.50,-0.14%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,585.50",-6.00,-0.17%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Industrial Metals,3Mo Tin (LME),USD / MT,"53,326.00",-596.00,-1.11%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Energy,WTI Crude Oil (Nymex),USD / bbl.,89.49,-2.70,-2.93%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Energy,Brent Crude (ICE),USD / bbl.,96.96,-3.73,-3.70%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Energy,Crude Oil (Tokyo),JPY / kl,"82,430.00","+3,430.00",+4.34%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Energy,Natural Gas (Nymex),USD / MMBtu,2.94,+0.02,+0.65%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-08-01,31,Industrial Metals,Copper (Comex),USD / lb.,650.40,+19.25,+3.05%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Industrial Metals,3Mo Copper (LME),USD / MT,"13,581.00",-104.00,-0.76%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,180.00",+32.50,+1.03%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,585.50",-6.00,-0.17%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Industrial Metals,3Mo Tin (LME),USD / MT,"53,882.00",+299.00,+0.56%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Energy,WTI Crude Oil (Nymex),USD / bbl.,84.06,-0.40,-0.47%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Energy,Brent Crude (ICE),USD / bbl.,89.30,-1.44,-1.59%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Energy,Crude Oil (Tokyo),JPY / kl,"78,690.00",+480.00,+0.61%,JUL 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Energy,Natural Gas (Nymex),USD / MMBtu,2.75,+0.02,+0.84%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-15,33,Industrial Metals,Copper (Comex),USD / lb.,669.95,-0.70,-0.10%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Industrial Metals,3Mo Copper (LME),USD / MT,"14,148.50",+16.50,+0.12%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,258.50",-52.00,-1.57%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,751.50",-5.50,-0.15%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Industrial Metals,3Mo Tin (LME),USD / MT,"55,854.00",+36.00,+0.06%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Energy,WTI Crude Oil (Nymex),USD / bbl.,81.43,+0.18,+0.22%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Energy,Brent Crude (ICE),USD / bbl.,87.06,-0.01,-0.01%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Energy,Crude Oil (Tokyo),JPY / kl,"83,100.00",-920.00,-1.09%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Energy,Natural Gas (Nymex),USD / MMBtu,2.76,+0.04,+1.32%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-21,34,Industrial Metals,Copper (Comex),USD / lb.,668.80,+11.85,+1.80%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Industrial Metals,3Mo Copper (LME),USD / MT,"14,036.50",-13.00,-0.09%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,205.00",-22.50,-0.70%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,760.00",+51.50,+1.39%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Industrial Metals,3Mo Tin (LME),USD / MT,"55,803.00",+253.00,+0.46%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Energy,WTI Crude Oil (Nymex),USD / bbl.,87.06,+0.23,+0.26%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Energy,Brent Crude (ICE),USD / bbl.,94.39,+0.61,+0.65%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Energy,Crude Oil (Tokyo),JPY / kl,"89,620.00","+2,020.00",+2.31%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Energy,Natural Gas (Nymex),USD / MMBtu,2.77,+0.04,+1.46%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-28,35,Industrial Metals,Copper (Comex),USD / lb.,673.70,+4.80,+0.72%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Industrial Metals,3Mo Copper (LME),USD / MT,"14,282.50",+29.50,+0.21%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,234.50",+9.50,+0.29%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,884.00",-9.00,-0.23%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Industrial Metals,3Mo Tin (LME),USD / MT,"55,354.00",+527.00,+0.96%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Energy,WTI Crude Oil (Nymex),USD / bbl.,82.98,-0.55,-0.66%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Energy,Brent Crude (ICE),USD / bbl.,89.44,-0.26,-0.29%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Energy,Crude Oil (Tokyo),JPY / kl,"88,660.00",-10.00,-0.01%,AUG 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Energy,Natural Gas (Nymex),USD / MMBtu,2.85,-0.07,-2.37%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-09-18,38,Industrial Metals,Copper (Comex),USD / lb.,671.30,+5.15,+0.77%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Industrial Metals,3Mo Copper (LME),USD / MT,"14,491.50",+259.00,+1.82%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,301.50",+32.50,+0.99%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,881.50",+69.00,+1.81%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Industrial Metals,3Mo Tin (LME),USD / MT,"53,186.00",+762.00,+1.45%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Energy,WTI Crude Oil (Nymex),USD / bbl.,99.80,-2.11,-2.07%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Energy,Brent Crude (ICE),USD / bbl.,103.19,-1.63,-1.56%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Energy,Crude Oil (Tokyo),JPY / kl,"111,170.00","-1,840.00",-1.63%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
+2026-09-18,38,Energy,Natural Gas (Nymex),USD / MMBtu,2.90,0.00,0.00%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
 2025-01-18,3,Industrial Metals,Copper (Comex),USD / lb.,436.85,-7.25,-1.63%,Mar 2025,corpus/01-brokers/star_asia/2025/star_asia_2025_W03_Market-report-Week-3.pdf
 2025-01-18,3,Industrial Metals,3Mo Copper (L.M.E.),USD / MT,"9,230.50",+63.00,+0.69%,N/A,corpus/01-brokers/star_asia/2025/star_asia_2025_W03_Market-report-Week-3.pdf
 2025-01-18,3,Industrial Metals,3Mo Aluminum (L.M.E.),USD / MT,"2,636.50",+35.00,+1.35%,N/A,corpus/01-brokers/star_asia/2025/star_asia_2025_W03_Market-report-Week-3.pdf
@@ -1326,3 +1327,57 @@ issue_date,report_week,category,index_name,units,price,change,pct_change,contrac
 2022-12-24,51,Energy,Brent Crude (ICE.),USD / bbl.,82.84,+1.86,+2.30%,Feb 2023,corpus/01-brokers/star_asia/2022/star_asia_2022_W51_Market-report-Week-51_compressed-1.pdf
 2022-12-24,51,Energy,Crude Oil (Tokyo),JPY / kl,"63,050.00",+960.00,+1.55%,May 2023,corpus/01-brokers/star_asia/2022/star_asia_2022_W51_Market-report-Week-51_compressed-1.pdf
 2022-12-24,51,Energy,Natural Gas (Nymex),USD / MMBtu,4.96,-0.04,-0.88%,Jan 2023,corpus/01-brokers/star_asia/2022/star_asia_2022_W51_Market-report-Week-51_compressed-1.pdf
+2026-09-04,36,Industrial Metals,Copper (Comex),USD / lb.,673.70,+4.80,+0.72%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Industrial Metals,3Mo Copper (LME),USD / MT,"14,282.50",+29.50,+0.21%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,234.50",+9.50,+0.29%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,884.00",-9.00,-0.23%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Industrial Metals,3Mo Tin (LME),USD / MT,"55,354.00",+527.00,+0.96%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Energy,WTI Crude Oil (Nymex),USD / bbl.,90.97,-0.33,-0.36%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Energy,Brent Crude (ICE),USD / bbl.,95.75,+0.23,+0.24%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Energy,Crude Oil (Tokyo),JPY / kl,"98,580.00","+1,220.00",+1.25%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-04,36,Energy,Natural Gas (Nymex),USD / MMBtu,2.96,+0.04,+1.51%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W36_Market-Report-Week-36.pdf
+2026-09-11,37,Industrial Metals,Copper (Comex),USD / lb.,654.05,-0.70,-0.11%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Industrial Metals,3Mo Copper (LME),USD / MT,"14,233.50",-534.00,-3.62%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,293.00",-160.50,-3.96%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,892.00",-160.50,-3.96%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Industrial Metals,3Mo Tin (LME),USD / MT,"54,344.00",-874.00,-1.58%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Energy,WTI Crude Oil (Nymex),USD / bbl.,100.13,-2.35,-2.29%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Energy,Brent Crude (ICE),USD / bbl.,105.04,+2.59,-2.41%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Energy,Crude Oil (Tokyo),JPY / kl,"118,490.00","+2,990.00",+2.59%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-11,37,Energy,Natural Gas (Nymex),USD / MMBtu,2.81,-0.03,-0.99%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W37_Market-Report-Week-37.pdf
+2026-09-25,39,Industrial Metals,Copper (Comex),USD / lb.,675.55,+0.20,+0.03%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Industrial Metals,3Mo Copper (LME),USD / MT,"14,618.00",-130.50,-0.88%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,255.00",-10.00,-0.31%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,901.50",-8.50,-0.22%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Industrial Metals,3Mo Tin (LME),USD / MT,"53,898.00",-316.00,-0.58%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Energy,WTI Crude Oil (Nymex),USD / bbl.,95.24,+3.08,+3.34%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Energy,Brent Crude (ICE),USD / bbl.,106.69,+3.61,+3.50%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Energy,Crude Oil (Tokyo),JPY / kl,"111,170.00","-1,840.00",-1.63%,SEP 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-09-25,39,Energy,Natural Gas (Nymex),USD / MMBtu,3.09,+0.06,+2.15%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.pdf
+2026-10-02,40,Industrial Metals,Copper (Comex),USD / lb.,659.10,-3.05,+0.46%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Industrial Metals,3Mo Copper (LME),USD / MT,"14,410.00",-28.50,-0.20%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,169.50",-44.50,-1.38%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,829.50",-40.50,-1.05%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Industrial Metals,3Mo Tin (LME),USD / MT,"53,927.00",-271.00,-0.50%,N/A,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Energy,WTI Crude Oil (Nymex),USD / bbl.,91.45,+1.03,+1.14%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Energy,Brent Crude (ICE),USD / bbl.,100.12,+2.09,+2.13%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Energy,Crude Oil (Tokyo),JPY / kl,"105,020.00","+5,620.00",+5.65%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-02,40,Energy,Natural Gas (Nymex),USD / MMBtu,3.01,-0.01,-0.46%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.pdf
+2026-10-09,41,Industrial Metals,Copper (Comex),USD / lb.,669.20,+12.35,+1.88%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Industrial Metals,3Mo Copper (LME),USD / MT,"14,540.00",+231.00,+1.61%,N/A,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,048.50",-2.00,-0.07%,N/A,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,805.50",+87.00,+2.34%,N/A,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Industrial Metals,3Mo Tin (LME),USD / MT,"53,006.00","+1,559.00",+3.03%,N/A,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Energy,WTI Crude Oil (Nymex),USD / bbl.,91.85,+0.36,+0.39%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Energy,Brent Crude (ICE),USD / bbl.,104.72,+0.44,+0.42%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Energy,Crude Oil (Tokyo),JPY / kl,"108,500.00","-1,000.00",-0.91%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-09,41,Energy,Natural Gas (Nymex),USD / MMBtu,3.22,+0.05,+1.64%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
+2026-10-16,42,Industrial Metals,Copper (Comex),USD / lb.,662.55,+6.90,+1.05%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Industrial Metals,3Mo Copper (LME),USD / MT,"14,347.00",-143.50,-0.99%,N/A,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Industrial Metals,3Mo Aluminium (LME),USD / MT,"2,987.00",-0.50,-0.02%,N/A,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,664.50",-54.00,-1.45%,N/A,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Industrial Metals,3Mo Tin (LME),USD / MT,"50,125.00",-321.00,-0.64%,N/A,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Energy,WTI Crude Oil (Nymex),USD / bbl.,97.65,-0.32,-0.33%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Energy,Brent Crude (ICE),USD / bbl.,105.71,-0.21,-0.20%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Energy,Crude Oil (Tokyo),JPY / kl,"108,500.00",+500.00,+0.46%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,Energy,Natural Gas (Nymex),USD / MMBtu,3.08,-0.16,-4.85%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf

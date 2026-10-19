@@ -191,6 +191,7 @@ Container shipping market halted its upward climb this week as the SCFI index ed
 
 ## Page 10
 
+
 ### Ship Recycling - Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
@@ -215,7 +216,7 @@ All prices are USD per light displacement tonnage (long ton), net prices offered
 
 ### Demolition - Reported Sales
 
-| VESSEL | TYPE | LDT | BUILT | PRICE ($/LDT) | DELIVERY / TERMS |
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | KUSHIRO | BULKER | 1,040 | 1980 / JAPAN | 470 | DELIVERED CHATTOGRAM |
 
