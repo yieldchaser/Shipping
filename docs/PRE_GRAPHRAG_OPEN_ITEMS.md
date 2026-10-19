@@ -26,7 +26,9 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
    Fix: port each repair into its extractor (or a post-extract repair stage called by
    `scripts/extract/orchestrate_incremental_ingest.py`), then prove it by re-ingesting the latest issue of each
    publisher and diffing against the repaired MD.
-   - [ ] Star Asia  - [ ] Xclusiv  - [ ] Hellenic MMI  - [ ] Clarksons  - [ ] Breakwave  - [ ] Intermodal
+   - [x] Star Asia (02d4dfb3e3 and after: builder = MD tables, ferrous scrap via Nace + print gate in CI; price-trend
+     series deleted as unlabelled-chart estimates; LDT comparison from printed labels, rebuilt offline, not in CI)
+   - [ ] Xclusiv  - [ ] Hellenic MMI  - [ ] Clarksons  - [ ] Breakwave  - [ ] Intermodal
    - [x] Advanced Shipping (extractor fixed in bc6be6f998)
 2. **Duplicate Star Asia PDFs from two ingest paths.** `report_ingest.yml` saves `star_asia_2026_W4x_Market-Report-Week-4x.pdf`
    and `broker_reports_weekly.yml` saves `star_asia_DD_MM_2026_..._week_4x.pdf` (identical bytes, W41/W42).
@@ -36,14 +38,15 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
    **Wider scan (2026-10-20):** 2,607 byte-identical PDF groups on disk, mostly untracked mirror folders
    (hellenic `iron_ore/pdfs/` vs `pdfs/YYYY/`, `demolition/pdfs/` vs `pdfs/<slug>/`, `shipbuilding/breakwave_pdfs/`,
    PPA `_root_pdfs/` vs `ppa_pdf/`, `corpus/archive/`). Duplicate **MDs** (what GraphRAG reads): 11 groups.
-   - [ ] Hellenic MMI daily: every issue 2026-10-06..10-19 extracted twice (two filename schemes, same PDF bytes)
+   - [x] Hellenic MMI daily: every issue 2026-10-06..10-19 extracted twice (two filename schemes, same PDF bytes)
    - [ ] Agora W41 2026 extracted twice (`agora_09_10_2026_*` and `agora_2026_W41_*`)
-   - [ ] the ingest path producing the MMI twins fixed
+   - [x] the ingest path producing the MMI twins fixed (`run_smm_iron_ore_daily.py` skips a flat PDF held in a year
+     folder; `resolve_twins.py` KeyError fixed)
 
 ## Residuals (not blockers, to close)
 
-- [ ] Star Asia pages 2/3/5/6 (dry-bulk segment table, vessel-value DWT column, tanker WS rates, an S&P row):
-      numbers missing in both the stored MDs and the live builder; scope across the corpus and fix.
+- [x] Star Asia pages 2/3/5/6 (dry-bulk segment table, vessel-value DWT column, tanker WS rates, an S&P row):
+      numbers missing in both the stored MDs and the live builder; closed by the text-layer + geometry rebuild.
 - [x] Star Asia W40: PORTLAND 11 beaching printed blank, MD said "AWAITING" (old builder default) - fixed.
 - [ ] Intermodal: 23 MDs with "(en bloc)" sale rows, 74 single-cell residuals.
 - [ ] Advanced Shipping: 15 cell conflicts left after the geometry splice.
@@ -51,6 +54,24 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
       commodities page was missing until 08e38a6712).
 - [ ] Hellenic MMI generator prints 696 as `696.00` / `+5.00` (values exact; 1,190 MDs cosmetic).
 - [x] Clarksons 2021-08-06 EUR/USD `1.12370`: kept as printed (by design).
+
+- [x] Chart signatures in the ingest (SSY capesize_ffa, Xclusiv tce_benchmarks, Star Asia scrap_trends) wrote
+      "Extracted to time series" under a page render while nothing read the chart; removed with their claims.
+- [ ] **SSY chart series** (`ssy_capesize_index_series.csv`). Tables (route rates, index, T/C) are exact and in CI.
+      The chart series is split into "bases" (rebasings). Found 2026-10-20:
+      - CI chained a twin PDF to itself and opened a new PACIFIC base every run (b36..b47, 1,705 duplicate rows).
+        Fixed in `merge_ssy_charts.py`; the rows are folded back into b35.
+      - The full merge ordered reports by free-text `report_date` ('20-April-2026' < '20-January-2025'; 205 files
+        read '2015-07-17') and treated missing weeks as rebasings. The printed index chain is continuous in 489 of
+        496 adjacent weeks, so most of the 28 ATLANTIC / 36 PACIFIC bases are false. Ordering and the adjacent-only
+        rule are fixed in code. The CSV was NOT rebuilt: with the false bases gone, some reports read about 10x
+        (90,279 against about 8,000), and the false bases had been hiding them.
+        Next: per-report calibration gate against the printed current index, then a full rebuild.
+      - The 7 printed-chain breaks (e.g. Pacific 2025-01-03 at 21,348, then 4,367) need checking against the PDF.
+      - Pacific 2026-05-15 and 2026-10-02 PDFs are not in the corpus (Atlantic has both).
+      - Routes stable at 10 per basin since 2021. Atlantic Hampton Roads/Rotterdam became Seven Islands/Rotterdam
+        in 2023.
+      - `ssy_capesize_series.csv` was an orphan older copy (no writer) and has been deleted.
 
 ## Owner actions (not code)
 

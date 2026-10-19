@@ -30,6 +30,7 @@ different weeks still lands on one key, while readings genuinely weeks apart do 
 
 from __future__ import annotations
 
+import datetime as dt
 import json
 import re
 import statistics
@@ -137,6 +138,38 @@ def row_sort_key(r):
     return (str(r["base"]), str(r["route"]), int(r["year"]), str(r["month"]), int(r["bucket"]))
 
 
+def _doc_date(d):
+    """ISO date of a report, for ORDERING the rebasing chain.
+
+    The file name carries it in every naming scheme collected (P20210705, _20260417-,
+    ssy_12_10_2026_, _2025-08-15). The extractor's report_date is not usable for ordering:
+    it is free text ('20-April-2026' sorts before '20-January-2025') and 205 of the
+    2021-23 files read '2015-07-17'. Ordered by it, the chain compared unrelated weeks and
+    opened 23 ATLANTIC / 33 PACIFIC false 'rebasings'.
+    """
+    n = str(d.get("file") or "")
+    m = (re.search(r"(20\d\d)(\d\d)(\d\d)(?=[-_.]|$)", n.replace("-Atlantic", "_").replace("-Pacific", "_"))
+         or re.search(r"[_-](20\d\d)[-_](\d\d)[-_](\d\d)", n))
+    if m:
+        return f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
+    m = re.search(r"ssy_(\d\d)_(\d\d)_(20\d\d)", n)
+    if m:
+        return f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+    try:
+        return dt.datetime.strptime(str(d.get("report_date")), "%d-%B-%Y").date().isoformat()
+    except ValueError:
+        return str(d.get("report_date") or n)
+
+
+def _adjacent(a, b, days=8):
+    """True when two ISO dates are one weekly issue apart. A wider gap is a missing issue,
+    and a missing week moves the index, so it says nothing about a rebasing."""
+    try:
+        return 0 < (dt.date.fromisoformat(b[:10]) - dt.date.fromisoformat(a[:10])).days <= days
+    except ValueError:
+        return False
+
+
 def dedupe_docs(docs):
     """Drop re-drops of one issue (same route, report date, printed index and change).
 
@@ -187,23 +220,35 @@ def incremental_bases(docs, existing_rows, ts_rows):
             continue
     by_route = defaultdict(list)
     for f, d in docs:
-        by_route[d.get("route")].append((d.get("report_date") or d["file"], d))
+        by_route[d.get("route")].append((_doc_date(d), d))
     base_id_of_doc = {}
     for route, items in by_route.items():
         items.sort(key=lambda t: t[0])
         bid = last_base.get(route, 0)
         first_date = items[0][0]
-        before = sorted(x for x in prior.get(route, []) if x[0] < first_date)
+        # A report is dated the Monday after its Friday rates (time-series issue_date), so the
+        # report itself sits 3 days before first_date. Its twin under another file name
+        # (ssy_2026_20260925-Pacific vs ssy_28_09_2026_ssy_pacific) is not in new_files, and
+        # chaining to it compared the report with its own previous column: Pacific moves >2%
+        # a week, so every CI run opened a new base (b36..b47, 2026-10-12..19). The previous
+        # report is 10 days back; anything within 5 days is this report.
+        try:
+            horizon = (dt.date.fromisoformat(first_date[:10]) - dt.timedelta(days=5)).isoformat()
+        except ValueError:
+            horizon = first_date
+        before = sorted(x for x in prior.get(route, []) if x[0] < horizon)
         prev_reported = before[-1][1] if before else None
+        prev_date = before[-1][0] if before else None
         for _date, d in items:
             chk = d.get("check") or {}
             cur = chk.get("printed_calculated_index")
             chg = _num(chk.get("change_on_previous"))
             if cur is not None:
-                if prev_reported is not None and chg is not None:
+                # the time-series issue_date is the Friday rates date, the report the Monday after
+                if prev_reported is not None and chg is not None and _adjacent(prev_date, _date, 11):
                     if abs((cur - chg) - prev_reported) / max(abs(prev_reported), 1) > REBASE_TOLERANCE:
                         bid += 1
-                prev_reported = cur
+                prev_reported, prev_date = cur, _date
             base_id_of_doc[d["file"]] = f"{route}-b{bid}"
     return base_id_of_doc
 
@@ -282,6 +327,7 @@ def main(argv=()):
     docs = []
     for f in files:
         docs.append((f, json.loads(f.read_text(encoding="utf-8"))))
+    docs = dedupe_docs(docs)   # twins chained as two reports read as a rebasing
 
     def _dnum(s):
         # the extractor stores these as floats or None; the +/- sign is already carried
@@ -296,27 +342,27 @@ def main(argv=()):
     # per route, sort by report date (the date printed on the page)
     route_docs = defaultdict(list)
     for f, d in docs:
-        route_docs[d.get("route")].append((d.get("report_date") or d["file"], f, d))
+        route_docs[d.get("route")].append((_doc_date(d), f, d))
     base_id_of_doc = {}
     n_bases = defaultdict(int)
     for route, items in route_docs.items():
         items.sort(key=lambda t: t[0])
         bid = 0
-        prev_reported = None
+        prev_reported = prev_date = None
         for date, f, d in items:
             cur = (d.get("check") or {}).get("printed_calculated_index")
             chg = _dnum((d.get("check") or {}).get("change_on_previous"))
             if cur is None:
                 base_id_of_doc[d["file"]] = f"{route}-b{bid}"
                 continue
-            if prev_reported is not None and chg is not None:
+            if prev_reported is not None and chg is not None and _adjacent(prev_date, date):
                 implied_prev = cur - chg
                 # a break is a rebasing: the previous document's current value is not
                 # what this document says the previous value was
                 if abs(implied_prev - prev_reported) / max(abs(prev_reported), 1) > 0.02:
                     bid += 1
             base_id_of_doc[d["file"]] = f"{route}-b{bid}"
-            prev_reported = cur
+            prev_reported, prev_date = cur, date
         n_bases[route] = bid + 1
     print()
     print("INDEX BASES (a rebased index must not be compared across editions)")

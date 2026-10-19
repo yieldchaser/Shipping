@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 20:28:50Z",
+  "updated_at": "2026-10-19 20:57:34Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -33,7 +33,6 @@
       "status": "CLOSED",
       "deliverables": [
         "data/extracted/series/ssy_capesize_index_series.csv",
-        "data/extracted/series/ssy_capesize_series.csv",
         "data/extracted/series/ssy_route_rates_series.csv",
         "data/extracted/series/ssy_capesize_index_time_series.csv",
         "data/extracted/md/ssy/"
@@ -199,7 +198,6 @@
         "data/extracted/series/star_asia_metals_energy_series.csv",
         "data/extracted/series/star_asia_ferrous_scrap_series.csv",
         "data/extracted/series/star_asia_5y_history_series.csv",
-        "data/extracted/series/star_asia_scrap_price_trends_series.csv",
         "data/extracted/series/star_asia_iron_ore_series.csv",
         "data/extracted/series/star_asia_ldt_comparison_series.csv",
         "data/extracted/md/star_asia/"
@@ -3482,7 +3480,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 10438,
+      "rows": 8737,
       "columns": [
         "route",
         "base",
@@ -3519,24 +3517,6 @@
         "tc_trip_day_prev",
         "tc_round_day_prev",
         "source_file"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "ssy_capesize_series.csv",
-      "target_metric": "SSY Capesize Index vector calibration curves",
-      "rows": 8881,
-      "columns": [
-        "route",
-        "base",
-        "year",
-        "month",
-        "bucket",
-        "n_reports",
-        "value",
-        "min",
-        "max",
-        "value_sd"
       ],
       "status": "Verified"
     },
@@ -3910,13 +3890,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 712365,
-  "total_master_series_csvs": 164,
-  "total_stacked_rows": 712365,
-  "total_series_csvs": 164,
+  "total_master_stacked_rows": 701783,
+  "total_master_series_csvs": 163,
+  "total_stacked_rows": 701783,
+  "total_series_csvs": 163,
   "total_master_workbooks": 1,
-  "total_series_count": 164,
-  "total_rows_extracted": 712670,
+  "total_series_count": 163,
+  "total_rows_extracted": 702088,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 606,
     "advanced_shipping_demolition_series.csv": 2024,
@@ -4059,9 +4039,8 @@
     "signal_reports_metadata.csv": 452,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 10438,
+    "ssy_capesize_index_series.csv": 8737,
     "ssy_capesize_index_time_series.csv": 521,
-    "ssy_capesize_series.csv": 8881,
     "ssy_route_rates_series.csv": 5210,
     "star_asia_5y_history_series.csv": 784,
     "star_asia_deals_series.csv": 3548,

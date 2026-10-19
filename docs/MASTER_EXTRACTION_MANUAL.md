@@ -275,7 +275,7 @@ Every publisher collection in `corpus/01-brokers/` and key feeds has been system
 | **ISM Coasters** | 112 PDFs | Engine 2 (Vector Chart Engine) | `ism_coaster_freight_series.csv` (13,281 rows)<br/>`ism_handy_freight_series.csv` (18,833 rows) | **100% Closed & Audited** |
 | **Lion Shipbrokers** | 44 PDFs | Engine 1 (PyMuPDF Tabular Regex) | `lion_sales_series.csv` (1,145 rows)<br/>`lion_demolition_series.csv` (516 rows) | **100% Closed & Audited** |
 | **Poten & Partners** | 1,087 PDFs| Engine 1 + Engine 3 (Multi-page Archive) | `poten_top_charterers_series.csv` (1,579 rows)<br/>`poten_opinions_metadata.csv` (1,648 rows) | **100% Closed & Audited** |
-| **SSY Capesize** | 519 PDFs | Engine 2 (Vector Geometry Engine) | `ssy_capesize_series.csv` (8,881 rows) | **100% Closed & Audited** |
+| **SSY Capesize** | 519 PDFs | Engine 2 (Vector Geometry Engine) | `ssy_capesize_index_series.csv` (8,737 rows) | **100% Closed & Audited** |
 | **Star Asia** | 194 PDFs | Engine 1 (100% Digital Vector Tables) | 6 Master CSVs (12,481 rows: deals, demo, S&P, valuation, scrap, LDT) | **100% Closed & Audited** |
 | **Xclusiv** | 266 PDFs | Engine 1 + Engine 3 (Cover-to-Cover) | `xclusiv_sales_series.csv` (7,370 rows)<br/>`xclusiv_secondhand_series.csv` (2,800 rows)<br/>`xclusiv_demolition_series.csv` (2,423 rows)<br/>`xclusiv_freight_benchmarks_series.csv` (1,328 rows) | **100% Closed & Audited** |
 | **Singletons** | 2 PDFs | Engine 1 (Coordinate Parser) | `singletons_sales_series.csv` (46 rows) | **100% Closed & Audited** |
@@ -293,7 +293,7 @@ All normalized time-series datasets are persisted in [`data/extracted/series/`](
 | `fearnleys_rates_series.csv` | **16,255** | `issue_date,sector,segment,route,rate_usd,unit` | Fearnleys weekly benchmark freight rates (1998–2026). |
 | `ism_coaster_freight_series.csv` | **13,281** | `issue_date,week,route,cargo,rate_usd_t,tce_usd_day,value_sd` | European coasters, Black Sea, Danube, and Med freight rates. |
 | `agora_indicators_series.csv` | **10,002** | `issue_date,week,indicator_group,indicator_name,value` | Macro commercial shipping indicators. |
-| `ssy_capesize_series.csv` | **8,881** | `issue_date,week,basin,index_value,tce_usd_day` | SSY Atlantic and Pacific Capesize Index 12-month rolling curves. |
+| `ssy_capesize_index_series.csv` | **8,737** | `route,base,year,month,bucket,n_reports,value,min,max,value_sd` | SSY Atlantic and Pacific Capesize Index read off the vector chart lines, keyed by year, month and 4-day bucket. |
 | `xclusiv_sales_series.csv` | **7,370** | `issue_date,week,vessel_name,type,dwt,built,price_usd_m` | Secondhand bulk carrier and tanker transactions. |
 | `advanced_shipping_sales_series.csv` | **5,917** | `issue_date,week,vessel_name,type,dwt,built,yard,price_usd_m` | Secondhand S&P sales with European number handling. |
 | `affinity_tce_series.csv` | **4,077** | `issue_date,week,sector,route,quantity_mt,tce_usd_day` | Baltic TCE Dirty and Clean tanker route rates. |

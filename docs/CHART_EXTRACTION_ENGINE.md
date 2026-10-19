@@ -175,7 +175,7 @@ Executed across the entire 112-report ISM archive (2021–2026):
 | **ISM Coasters** | Vector Path Interpolation | 112 / 112 PDFs (2021–2026) | $0.004\%$ scale residual | [`ism_coaster_freight_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_coaster_freight_series.csv) (13,281 rows) |
 | **ISM Handysize** | Vector Path Interpolation | 112 / 112 PDFs (2021–2026) | $0.004\%$ scale residual | [`ism_handy_freight_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_handy_freight_series.csv) (18,833 rows) |
 | **Intermodal Baltic & TC** | Vector Frame & Ladder Join | 252 / 252 PDFs (2021–2026) | $0.01\text{ pt}$ raster alignment | [`intermodal_baltic_tc_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_baltic_tc_series.csv) (51,980 rows) |
-| **SSY Capesize Index** | Vector Curve Interpolation | 519 / 519 PDFs (2016–2026) | $<0.05\%$ index residual | `data/extracted/series/ssy_capesize_series.csv` (8,881 rows) |
+| **SSY Capesize Index** | Vector Curve Interpolation | 519 / 519 PDFs (2016–2026) | $<0.05\%$ index residual | `data/extracted/series/ssy_capesize_index_series.csv` (8,737 rows) |
 | **Star Asia (Raster)** | Hybrid: Text Table + Vision | 194 / 194 PDFs (2022–2026) | Table text authority | [`star_asia_ldt_comparison_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/star_asia_ldt_comparison_series.csv) (210 rows) |
 
 ---
