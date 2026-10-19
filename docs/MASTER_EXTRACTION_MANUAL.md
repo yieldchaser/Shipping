@@ -315,7 +315,7 @@ All normalized time-series datasets are persisted in [`data/extracted/series/`](
 | `star_asia_ferrous_scrap_series.csv` | **1,315** | `issue_date,report_week,country,origin,grade,price_text,currency,price_low,price_high,usd_low,usd_high,price_type,terms,destination_port,source_file` | Ferrous scrap prices from the Sub-Continent & Turkey prose ($/t by country, origin, grade; Nace-read, gated on the printed sentence). |
 | `affinity_bda_series.csv` | **750** | `issue_date,week,segment,price_usd_per_ldt,change_wow` | Baltic Demolition Assessments (TKR/LRG, MED, SML). |
 | `lion_demolition_series.csv` | **516** | `issue_date,week,vessel_name,type,ldt,price_usd_per_ldt` | Demolition sales fixtures and country beachings. |
-| `star_asia_ldt_comparison_series.csv` | **210** | `issue_date,week,location,year,ldt_tonnage` | 5-Year Light Displacement Tonnage (LDT) totals. |
+| `star_asia_ldt_comparison_series.csv` | **1,320** | `issue_date,report_week,location,year,ldt_tonnage,source_file` | 5-Year LDT sold totals, from the printed bar labels of the LDT chart. |
 | `clarksons_sales_series.csv` | **29** | `issue_date,week,vessel_name,type,dwt,built,price_usd_m` | Clarksons Hellas reported S&P transactions. |
 | **CATALOG TOTAL** | **175,000+** | **Clean Structured Rows** | **Continuous Decadal Time Series (1998–2026)** |
 

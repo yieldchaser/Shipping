@@ -181,10 +181,14 @@ def sync_register():
     sa_total = sum(disk_inventory.get(f"star_asia_{n}.csv", 0) for n in
                    ["snp_sales_series", "deals_series", "valuation_matrix_series", "demolition_series",
                     "metals_energy_series", "ferrous_scrap_series", "5y_history_series",
-                    "scrap_price_trends_series", "iron_ore_series", "ldt_comparison_series"])
+                    "iron_ore_series", "ldt_comparison_series"])
     updated_md = re.sub(
-        r"(`star_asia_ldt_comparison_series\.csv` \([0-9,]+ rows\)<br>194 `\.tables\.json` \+ 195 `\.md` files \()([0-9,]+)( rows total across 10 series\))",
-        rf"\g<1>{sa_total:,}\g<3>", updated_md)
+        r"(`star_asia_ldt_comparison_series\.csv` \([0-9,]+ rows\)<br>194 `\.tables\.json` \+ 195 `\.md` files \()([0-9,]+)( rows total across )\d+( series\))",
+        rf"\g<1>{sa_total:,}\g<3>9\g<4>", updated_md)
+
+    # Every "`<series>.csv` (N rows)" mention carries the row count on disk (a hand-kept count goes stale).
+    for name, n in disk_inventory.items():
+        updated_md = re.sub(rf"`{re.escape(name)}` \([0-9,]+ rows\)", f"`{name}` ({n:,} rows)", updated_md)
 
     # Write updated EXTRACTION_REGISTER.md
     REGISTER_MD.write_text(updated_md, encoding="utf-8")

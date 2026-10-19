@@ -341,23 +341,3 @@ remains framed by ongoing supply variables, notably potential strike action at a
 | FUJAIRAH | $1014 | $749 | $1707 |
 | ROTTERDAM | $717 | $622 | $1500 |
 | HOUSTON | $787 | $530 | $1481 |
-
-## Market Charts & Quantitative Vectors
-
-### Star Asia Demolition Price Trends (Page 10)
-
-![Star Asia Demolition Price Trends](../../../charts/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40_scrap_trends_p10.png)
-
-*Extracted to time series: `star_asia_scrap_price_trends_series.csv`*
-
-### Star Asia Demolition Price Trends (Page 12)
-
-![Star Asia Demolition Price Trends](../../../charts/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40_scrap_trends_p12.png)
-
-*Extracted to time series: `star_asia_scrap_price_trends_series.csv`*
-
-### Star Asia Demolition Price Trends (Page 13)
-
-![Star Asia Demolition Price Trends](../../../charts/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40_scrap_trends_p13.png)
-
-*Extracted to time series: `star_asia_scrap_price_trends_series.csv`*

@@ -369,29 +369,3 @@ import flows from Indonesia where planned export curbs and El Niño droughts hav
 | FUJAIRAH | $1014 | $749 | $1707 |
 | ROTTERDAM | $717 | $622 | $1500 |
 | HOUSTON | $787 | $530 | $1481 |
-
-## Market Charts & Quantitative Vectors
-
-### Star Asia Demolition Price Trends (Page 10)
-
-![Star Asia Demolition Price Trends](../../../charts/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42_scrap_trends_p10.png)
-
-*Extracted to time series: `star_asia_scrap_price_trends_series.csv`*
-
-### Star Asia Demolition Price Trends (Page 12)
-
-![Star Asia Demolition Price Trends](../../../charts/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42_scrap_trends_p12.png)
-
-*Extracted to time series: `star_asia_scrap_price_trends_series.csv`*
-
-### Star Asia Demolition Price Trends (Page 13)
-
-![Star Asia Demolition Price Trends](../../../charts/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42_scrap_trends_p13.png)
-
-*Extracted to time series: `star_asia_scrap_price_trends_series.csv`*
-
-### Star Asia Demolition Price Trends (Page 14)
-
-![Star Asia Demolition Price Trends](../../../charts/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42_scrap_trends_p14.png)
-
-*Extracted to time series: `star_asia_scrap_price_trends_series.csv`*

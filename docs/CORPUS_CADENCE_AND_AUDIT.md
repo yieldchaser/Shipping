@@ -165,7 +165,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 | :--- | :---: | :--- | :--- | :--- |
 | **01-brokers/fearnleys-md** | 2,786 | Raster PNG charts (no embedded data), JPG | Not read; titles kept, printed tables transcribed and verified | Chart titles in MDs and `.tables.json` sidecars; calibrated series deleted |
 | **01-brokers/ism** | Vector stream | PDF internal vector polylines | Least-squares dual-axis scale calibration & tick filtering | 4 weekly freight rate series (`ism_handy_freight_series.csv`, `ism_coaster_freight_series.csv`) |
-| **01-brokers/star_asia** | Vector stream | Drawing paths & bar charts | Subcontinent scrap price trend calibration ($/LDT) | `star_asia_scrap_price_trends_series.csv` (347 rows) |
+| **01-brokers/star_asia** | Image bar chart with printed data labels | LDT sold, 5-year comparison | Annual LDT sold at Alang / Chattogram / Pakistan (printed labels only) | `star_asia_ldt_comparison_series.csv` (1,320 rows) |
 | **02-hellenic/iron_ore** | 3,335 | JPG / PNG port inventory graphics | OCR & spatial coordinate table extraction | `hellenic_iron_ore_pdf_brands_series.csv` (31,272 rows) |
 | **02-hellenic/demolition** | 1,208 | Cash buyer market insight graphics | HTML table extraction + OCR fallback | `hellenic_gms_port_positions_series.csv` (2,905 rows) |
 | **02-hellenic/dry_charter** | 759 | Alibra Dry Bulk TC rate graphics | Graphic OCR & tabular parameter parsing | `hellenic_alibra_dry_tc_series.csv` (6,467 rows) |
@@ -412,7 +412,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Sample Extracted Markdown (Digest):** [`star_asia_2026_W40_Market-Report-Week-40.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/star_asia/2026/star_asia_2026_W40_Market-Report-Week-40.md)
 - **Raw Corpus Inventory:** 205 PDFs
 - **Extracted Markdown Dossiers:** 199 Markdown files + 200 .tables.json sidecars
-- **Chart Extraction:** Yes (Subcontinent scrap price trends $/LDT, metals/energy)
+- **Chart Extraction:** Yes (LDT-sold comparison from printed bar labels; price-trend line charts carry no labels and are not read)
 - **Chart Engine / Technique:** LlamaParse + World-Class Markdown Normalizer (run_star_asia_tables.py)
 - **Stacked Series CSVs:** [`star_asia_snp_sales_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/star_asia_snp_sales_series.csv) (3,575 rows), [`star_asia_deals_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/star_asia_deals_series.csv) (3,386 rows), [`star_asia_valuation_matrix_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/star_asia_valuation_matrix_series.csv) (3,232 rows), [`star_asia_demolition_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/star_asia_demolition_series.csv) (3,168 rows), [`star_asia_metals_energy_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/star_asia_metals_energy_series.csv) (1,327 rows)
 - **Extraction Script:** [`run_star_asia_tables.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_star_asia_tables.py)

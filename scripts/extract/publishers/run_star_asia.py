@@ -1269,26 +1269,6 @@ def build_md(pdf: Path):
     raw_md = "\n".join(lines)
     cleaned_md, _ = cabf.clean_star_asia(raw_md)
 
-    # Append vector chart links if chart PNGs exist in data/extracted/charts/star_asia/<year>/
-    charts_dir = ROOT / "data" / "extracted" / "charts" / "star_asia" / year_str
-    if charts_dir.exists():
-        chart_pngs = sorted(charts_dir.glob(f"{pdf.stem}_scrap_trends_*.png"))
-        if chart_pngs and "## Market Charts & Quantitative Vectors" not in cleaned_md:
-            chart_lines = ["", "## Market Charts & Quantitative Vectors", ""]
-            for cp in chart_pngs:
-                m_pg = re.search(r"_p(\d+)\.png$", cp.name)
-                pg_lbl = f" (Page {int(m_pg.group(1))})" if m_pg else ""
-                rel_cp = f"../../../charts/star_asia/{year_str}/{cp.name}"
-                chart_lines.extend([
-                    f"### Star Asia Demolition Price Trends{pg_lbl}",
-                    "",
-                    f"![Star Asia Demolition Price Trends]({rel_cp})",
-                    "",
-                    "*Extracted to time series: `star_asia_scrap_price_trends_series.csv`*",
-                    ""
-                ])
-            cleaned_md = cleaned_md.rstrip() + "\n" + "\n".join(chart_lines)
-
     return cleaned_md
 
 

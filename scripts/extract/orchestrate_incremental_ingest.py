@@ -239,18 +239,9 @@ SIGNATURE_CATALOG = [
         ],
         min_drawings=15
     ),
-    ChartSignature(
-        broker="star_asia",
-        slug="scrap_trends",
-        title="Star Asia Demolition Price Trends",
-        keywords=["demolition price trends", "gaddani vs alang", "chattogram"],
-        target_csv=SERIES_DIR / "star_asia_scrap_price_trends_series.csv",
-        key_fields=["issue_date", "country"],
-        fieldnames=[
-            "issue_date", "country", "price_usd_per_ldt", "source_file"
-        ],
-        min_drawings=15
-    )
+    # Star Asia had a "scrap_trends" signature here: its keywords ("chattogram") matched prose pages, and the
+    # price-trend line charts it pointed at carry no value labels, so the series it named was pixel-traced
+    # estimates (deleted 2026-10-20). The charts stay in the MD as page text; nothing is read off them.
 ]
 
 
