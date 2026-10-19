@@ -179,6 +179,14 @@ SCFI index rose 0.42% on Friday to 3,679.58 points as transpacific rates held fi
 | GADDANI, PAKISTAN | $510-520 | $480-490 | $470-480 | $530-540 | WEAK |
 | ALIAGA, TURKEY | $320-330 | $310-320 | $290-300 | $340-350 | STABLE |
 
+*Turkey prices for non-EU ships. EU vessels approx. US$20-30/ton less.*
+
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
 ### 5-Year Historical Average Prices (USD / LDT)
 
 | DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
@@ -192,12 +200,32 @@ SCFI index rose 0.42% on Friday to 3,679.58 points as transpacific rates held fi
 
 | VESSEL | TYPE | LDT | BUILT | PRICE ($/LDT) | DELIVERY / TERMS |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| VIRINI PREM | FSO | 21,205 | 1988 / S. KOREA | UNDISCLOSED | - |
-| AS IS NIGERIA, WAFR PACIFIC LEADER | BULKER | 897 | 1992 / JAPAN | UNDISCLOSED | DELIVERED CHATTOGRAM FOTEX GENERAL CARGO 2,594 1997 / JAPAN 530 DELIVERED CHATTOGRAM |
+| VIRINI PREM | FSO | 21,205 | 1988 / S. KOREA | UNDISCLOSED | AS IS NIGERIA, WAFR |
+| PACIFIC LEADER | BULKER | 897 | 1992 / JAPAN | UNDISCLOSED | DELIVERED CHATTOGRAM |
+| FOTEX | GENERAL CARGO | 2,594 | 1997 / JAPAN | 530 | DELIVERED CHATTOGRAM |
 
 ## Page 11
 
 ## Page 12
+
+## Market Insights
+
+**Alang, India:** Alang demonstrated renewed vitality entering mid-October, buoyed by a welcome recovery in local currency values that helped offset broader headwinds from a robust American greenback. Buyers continue to show steady appetite, offering resilient quotes, particularly for specialised units, even as currency fluctuations add a touch of caution. Local activity remains positive, with breakers expressing confidence and showing a readiness to commit capital to quality tonnage.
+
+While domestic financial authorities remain vigilant regarding borrowing costs and inflation management, broader manufacturing consumption and infrastructure spending continue to provide an underlying floor for finished steel products. As local mills maintain steady appetite for melting scrap, Alang's recyclers remain well-positioned to navigate near-term currency movements with measured optimism.
+
+## Alang Anchorage & Beaching Position - October 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
+| INZHENER TRUBIN | GENERAL CARGO | 4,000 | 17.10.2026 | AWAITING |
+| MODESTE | TANKER | 8,766 | 14.10.2026 | AWAITING |
+| KADIJA | GENERAL CARGO | 4,815 | 13.10.2026 | 15.10.2026 |
+| KANO | LNG | 31,300 | 10.10.2026 | 15.10.2026 |
+| MAYMEI | TANKER | 9,877 | 09.10.2026 | 11.10.2026 |
+| ENSIEY | BULKER | 9,886 | 06.10.2026 | 09.10.2026 |
+| EVS | FISHING | 1,226 | 05.10.2026 | 09.10.2026 |
+| RIGHT | TANKER | 10,088 | 04.10.2026 | 07.10.2026 |
 
 **Chattogram, Bangladesh:** Chattogram maintained a steady undertone with an enduring hunger for incoming tonnage across all vessel types. Buyers show clear eagerness to secure tonnage, keeping bids competitive. With comparatively few vintage candidates circulating for demo, yards find themselves contending with a thin pipeline despite having the financial readiness to absorb fresh supply. The Chattogram ship recycling market remained cautious this week, with recyclers closely monitoring developments surrounding a potential relaxation of US sanctions on Russia linked shadow fleet vessels. Reports indicate that Washington is considering easing restrictions on certain sanctioned tankers, raising the possibility of additional ageing tonnage eventually entering the recycling market. Bangladesh, particularly Chattogram, could emerge as a potential destination should regulatory approvals and sanctions compliance permit such transactions. With a substantial number of ageing shadow fleet vessels approaching the end of their commercial lives, any meaningful easing of restrictions could unlock a sizeable pipeline of recycling candidates.
 
@@ -207,23 +235,21 @@ Recent national reserve figures reflect healthy liquidity support for essential 
 
 ## Chattogram Anchorage & Beaching Position - October 2026
 
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
+| UNIORDER | BULKER | 7,078 | 15.10.2026 | AWAITING |
+| GREEN | TANKER | 8,274 | 14.10.2026 | AWAITING |
+| K.P.P.02 | TANKER | 1,288 | 12.10.2026 | AWAITING |
+| V.L.15 | TANKER | 1,427 | 10.10.2026 | AWAITING |
+| K.P.P03 | TANKER | 1,335 | 11.10.2026 | 15.10.2026 |
+| PACIFIC LEADER | GENERAL CARGO | 911 | 06.10.2026 | 15.10.2026 |
+| PETROVA | TANKER | 2,397 | 03.10.2026 | 03.10.2026 |
+| HAKU | ROPAX | 11,304 | 28.09.2026 | 03.10.2026 |
+| B-LPG SOPHIA | LPG | 3,420 | LAID UP AT CHATTOGRAM | 01.10.2026 |
+| PHIL | BARGE | 3,543 | 28.09.2026 | 01.10.2026 |
+| MERC | TUG | 489 | 28.09.2026 | 01.10.2026 |
+
 **Gaddani, Pakistan:** Gadani has witnessed a significant downward price correction, largely driven by the influx of finished steel products from Iran, reportedly entering the Pakistani market at prices comparable to, or even lower than, ship scrap plates. With the ongoing conflict placing considerable pressure on Iran's economy, Iranian suppliers appear to be exploring alternative channels to generate revenue and sustain economic activity. The availability of competitively priced Iranian steel, reportedly through unofficial trade channels, has created direct competition for locally recycled ship steel, forcing Gadani recyclers to adopt a more cautious approach and substantially soften their price indications. Meanwhile, some vessels previously committed at exceptionally high and commercially unsustainable price levels, whose fate was to be decided when they were committed for Gaddani, have ultimately been diverted to Chattogram, reportedly resulting in substantial losses for the cash buyers involved. Overall, Gadani remains under considerable pressure, with cheap Iranian steel imports, subdued recycler sentiment, and the fallout from overvalued transactions weighing heavily on market confidence and future price indications.
-
-Week 42 | October 16th, 2026
-
-| LDT | ARRIVAL | BEACHING |
-|---|---|---|
-| 7,078 | 15.10.2026 | AWAITING |
-| 8,274 | 14.10.2026 | AWAITING |
-| 1,288 | 12.10.2026 | AWAITING |
-| 1,427 | 10.10.2026 | AWAITING |
-| 1,335 | 11.10.2026 | 15.10.2026 |
-| 911 | 06.10.2026 | 15.10.2026 |
-| 2,397 | 03.10.2026 | 03.10.2026 |
-| 11,304 | 28.09.2026 | 03.10.2026 |
-| 3,420 | LAID UP AT CHATTOGRAM | 01.102026 |
-| 3,543 | 28.09.2026 | 01.10.2026 |
-| 489 | 28.09.2026 | 01.10.2026 |
 
 ## Page 14
 
@@ -247,13 +273,13 @@ The national economic landscape is seeing some relief from stabilising exchange 
 
 **Pakistan:** Imported scrap values faced continued downward pressure as European shredded offers softened to US$413-415/t CFR Qasim against buyer bids of US$410-412/t CFR, with UK shredded deemed workable near US$415/t CFR. Meanwhile, firm domestic scrap valuations holding between PKR 132,000- 134,000/t (US$477-484/t) restricted the overall competitiveness and urgency of offshore procurement. Mills remained measured in their approach, committing only to selective tonnages aligned with workable spreads.
 
-**Bangladesh:** Import activity proved comparatively resilient, underlined by four confirmed transactions
+**Bangladesh:** Import activity proved comparatively resilient, underlined by four confirmed transactions totalling 10,000 tonnes for CFR Chattogram delivery, including Brazilian HMS 90:10 at US$375/t, Polish and Chilean HMS 90:10 at US$390/t, and Australian shredded at US$405/t. Local scrap levels provided a steady domestic baseline at BDT 55,000-57,000/t, supporting broader sentiment. While firm freight rates
 
 ## Page 15
 
 maintained a selective tone in mill procurement, ongoing negotiations kept both buyers and sellers actively engaged across key origins.
 
-**Turkiye:** Deep-sea import benchmarks held stable amid scarce US and Baltic offerings, though reports emerged of an unconfirmed Turkish booking for two UK-origin HMS 80:20 cargoes at US$388-390/t CFR. Tradable levels for US-origin HMS 80:20 clustered around US$395/t within a US$395-400/t CFR range, supported by buoyant US domestic pricing and constrained export supply, while European material stood at US$385-390/t CFR. The scarcity of concluded high-grade transactions continues to keep broader nearterm market direction delicately balanced.
+**Turkiye:** Deep-sea import benchmarks held stable amid scarce US and Baltic offerings, though reports emerged of an unconfirmed Turkish booking for two UK-origin HMS 80:20 cargoes at US$388-390/t CFR. Tradable levels for US-origin HMS 80:20 clustered around US$395/t within a US$395-400/t CFR range, supported by buoyant US domestic pricing and constrained export supply, while European material stood at US$385-390/t CFR. The scarcity of concluded high-grade transactions continues to keep broader near-term market direction delicately balanced.
 
 # COMMODITIES, BUNKERS & RATES
 
@@ -261,9 +287,11 @@ maintained a selective tone in mill procurement, ongoing negotiations kept both 
 
 In the ferrous sector, Iron ore prices have slipped below USD 90 per metric tonne for the first time since 2024, reflecting mounting pressure on the global steel market amid weakening fundamentals and subdued demand from China. Chinese crude steel production stood at approximately 651 million tonnes during the first eight months of the year, marking its lowest output for the corresponding period since 2018. The slowdown highlights persistent weakness in the country's steel sector, where sluggish demand and narrowing profit margins continue to weigh on production. With Chinese steel mills operating on razor-thin margins, there is little incentive to replenish iron ore inventories, further dampening demand for the key steelmaking raw material.
 
-The continued weakness in iron ore prices, coupled with declining Chinese steel production, signals a bearish outlook for the broader steel market, potentially exerting additional downward pressure on global scrap and ship recycling prices. Base metals faced similar macroeconomic strain; Copper prices fell for a third consecutive session as stronger-than-expected US inflation data raised expectations of tighter monetary policy, dampening market sentiment. Supply concerns also eased following a preliminary labour agreement at Chile's Escondida mine, reducing the likelihood of strike-related disruptions. Meanwhile, the US strategic stockpiling programme continues to influence global copper flows, with an initial 12,000 tonnes reportedly delivered from the Democratic Republic of Congo under the USD 12 billion Project Vault initiative. The near-term outlook remains cautious, with monetary policy uncertainty and easing supply risks weighing on prices. However, US stockpiling could tighten availability in other markets, potentially providing longer-term price support. On the contrary, China's power sector is dealing with severe fuel inflation as benchmark thermal coal exceeded 1,000 yuan (US$150) per ton on October 12 for the first time in two years-a 25% jump since mid- July-propelled by a 3% y-o-y drop in domestic coal output through August, delayed mine recertifications following the Shanxi disaster, an annual railway maintenance window ending October 26th, and reduced
+The continued weakness in iron ore prices, coupled with declining Chinese steel production, signals a bearish outlook for the broader steel market, potentially exerting additional downward pressure on global scrap and ship recycling prices. Base metals faced similar macroeconomic strain; Copper prices fell for a third consecutive session as stronger-than-expected US inflation data raised expectations of tighter monetary policy, dampening market sentiment. Supply concerns also eased following a preliminary labour agreement at Chile's Escondida mine, reducing the likelihood of strike-related disruptions. Meanwhile, the US strategic stockpiling programme continues to influence global copper flows, with an initial 12,000 tonnes reportedly delivered from the Democratic Republic of Congo under the USD 12 billion Project Vault initiative. The near-term outlook remains cautious, with monetary policy uncertainty and easing supply risks weighing on prices. However, US stockpiling could tighten availability in other markets, potentially providing longer-term price support. On the contrary, China's power sector is dealing with severe fuel inflation as benchmark thermal coal exceeded 1,000 yuan (US$150) per ton on October 12 for the first time in two years-a 25% jump since mid-July-propelled by a 3% y-o-y drop in domestic coal output through August, delayed mine recertifications following the Shanxi disaster, an annual railway maintenance window ending October 26th, and reduced
 
 ## Page 16
+
+import flows from Indonesia where planned export curbs and El Niño droughts have hindered barge logistics.
 
 ### Iron Ore
 
@@ -290,6 +318,8 @@ The continued weakness in iron ore prices, coupled with declining Chinese steel 
 | Brent Crude (ICE) | USD / bbl. | 105.71 | -0.21 | -0.20% | DEC 2026 |
 | Crude Oil (Tokyo) | JPY / kl | 108,500.00 | +500.00 | +0.46% | OCT 2026 |
 | Natural Gas (Nymex) | USD / MMBtu | 3.08 | -0.16 | -4.85% | NOV 2026 |
+
+*All rates at C.O.B. London time, October 16th, 2026*
 
 ### Exchange Rates
 

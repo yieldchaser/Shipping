@@ -186,6 +186,14 @@ The container market experienced a slight retreat this week as the SCFI index fe
 | GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | STABLE |
 | ALIAGA, TURKEY | $320-330 | $310-320 | $290-300 | $340-350 | STABLE |
 
+*Turkey prices for non-EU ships. EU vessels approx. US$20-30/ton less.*
+
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+- All prices are USD per light displacement tonnage in the long ton.
+- The prices reported are net prices offered by the recycling yards.
+- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
 ### 5-Year Historical Average Prices (USD / LDT)
 
 | DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
@@ -206,6 +214,22 @@ The container market experienced a slight retreat this week as the SCFI index fe
 
 ## Page 12
 
+## Market Insights
+
+**Alang, India:** Alang navigated a steady yet cautious week, with overall conditions holding largely unchanged from the previous week. While buyers continue to show keen interest, the strengthening USD against the rupee has exerted noticeable pressure on price indications, trimming profit margins on dollar-priced hulls. The flow of open-market candidates remains constrained, leaving Alang at a clear pricing disadvantage compared to regional competitors who continue to contest conventional tonnage at higher figures. Indian breakers continue to concentrate their efforts on specialised assets where complex material compositions, non-ferrous machinery, and stringent environmental compliance take precedence over raw steel scrap values.
+
+An active week of macroeconomic developments across India, led by the Reserve Bank of India's monetary policy announcement on October 7. Responding to firming headline inflation and persistent currency pressure from elevated global oil prices, the central bank raised its benchmark repo rate by 25 basis points to 5.50% and adopted a calibrated tightening stance. Despite higher domestic borrowing costs, India's underlying growth fundamentals remain sturdy, with the central bank projecting annual economic growth at 7.1% and manufacturing activity expanding at a solid 8.6%. National foreign exchange reserves remain robust at US$734.6 billion, ensuring ample liquidity across the banking sector to support trade credit and LCs into the last quarter of the year.
+
+## Alang Anchorage & Beaching Position - October 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+|---|---|---|---|---|
+| KANO | LNG | 31,300 | 10.10.2026 | AWAITING |
+| MAYMEI | TANKER | 9,877 | 09.10.2026 | AWAITING |
+| ENSIEY | BULKER | 9,886 | 06.10.2026 | 09.10.2026 |
+| EVS | FISHING | 1,226 | 05.10.2026 | 09.10.2026 |
+| RIGHT | TANKER | 10,088 | 04.10.2026 | 07.10.2026 |
+
 **Chattogram, Bangladesh:** Chattogram witnessed an encouraging pickup in pace, with overall market activity firming as buyers actively pursued available tonnage. This heightened commercial interest stems primarily from the persistent shortage of international candidates, which has left yards competing closely for a limited pool of arrivals. With the rainy season giving way to the autumn dry period, local attention is shifting toward the upcoming operational window, when clearer weather traditionally lifts yard productivity and revives construction-driven steel demand. Data released this week by Bangladesh Bank revealed that gross foreign exchange reserves are held firmly at US$36.12 billion, standing at US$31.31 billion under the IMF's BPM6 accounting methodology, providing nearly six months of national import cover. This external liquidity has been reinforced by an impressive surge in expatriate remittances, which brought in over US$9.36 billion between July and early October, reflecting a 13.1% y-o-y increase through formal banking channels.
 
 ## Page 13
@@ -219,7 +243,7 @@ Even as headline consumer inflation ticked up slightly to 8.34% in September due
 | PACIFIC LEADER | GENERAL CARGO | 911 | 06.10.2026 | AWAITING |
 | PETROVA | TANKER | 2,397 | 03.10.2026 | AWAITING |
 | HAKU | ROPAX | 11,304 | 28.09.2026 | 03.10.2026 |
-| B-LPG SOPHIA | LPG | 3,420 | LAID-UP AT CHATTOGRAM | 01.102026 |
+| B-LPG SOPHIA | LPG | 3,420 | LAID-UP AT CHATTOGRAM | 01.10.2026 |
 | PHIL | BARGE | 3,543 | 28.09.2026 | 01.10.2026 |
 | MERC | TUG | 489 | 28.09.2026 | 01.10.2026 |
 
@@ -251,6 +275,16 @@ Bank of the Republic of Türkiye maintaining its benchmark one-week repo rate at
 
 ## Page 15
 
+# COMMODITIES, BUNKERS & RATES
+
+## Commodities Focus
+
+Coal futures surged past US$150/ton to touch their highest valuation since September 2023 after Australia's High Court dismissed an appeal by Mach Energy regarding the expansion of its New South Wales mine, establishing that downstream emissions from end-users must be weighed by planners and raising long-term sovereign risk concerns across the seaborne trade. This regulatory barrier comes as global coal consumption is poised to achieve record levels this year, driven by the ongoing Strait of Hormuz blockade and Middle Eastern hostilities that have disrupted liquefied natural gas supplies and driven utilities throughout China, India, Japan, South Korea, and parts of Europe toward coal-fired power.
+
+Concurrently, the base metals complex demonstrated renewed strength as copper futures advanced for a third consecutive session to roughly US$6.6/pound, supported by technology and artificial intelligence equity rallies alongside mounting physical constraints, highlighted by Chilean copper production dropping in August to its weakest level since February 2011 and workers at Antofagasta's Centinela mine back strike action after wage talks stalled.
+
+While copper trade flows remain distorted by prior cargo diversions into American warehouses ahead of delayed White House tariff decisions; India, now the world's second-largest crude steel producer, is holding its safeguard duties at 11.5% rather than raising them above 20%, despite seeing finished steel imports jump 29.5% y-o-y to 3.5 million metric tons between April and August, with China supplying 31.8% of those volumes. With Indian automotive retail volumes jumping 31.82% y-o-y in September and monsoon-related construction pauses subsiding, domestic mills have managed to lift selling prices to offset expensive coking coal, even as cheaper overseas shipments continue to pose a lingering margin risk.
+
 ### Iron Ore
 
 | COMMODITY (USD/MT) | GRADE | THIS WEEK | LAST WEEK | LAST YEAR | WoW | YoY |
@@ -279,6 +313,8 @@ Bank of the Republic of Türkiye maintaining its benchmark one-week repo rate at
 | Crude Oil (Tokyo) | JPY / kl | 108,500.00 | -1,000.00 | -0.91% | OCT 2026 |
 | Natural Gas (Nymex) | USD / MMBtu | 3.22 | +0.05 | +1.64% | NOV 2026 |
 
+*All rates at C.O.B. London time, October 9th, 2026*
+
 ### Exchange Rates
 
 | CURRENCY PAIR | OCTOBER 9 | OCTOBER 2 | WoW % |
@@ -288,6 +324,16 @@ Bank of the Republic of Türkiye maintaining its benchmark one-week repo rate at
 | USD / INR (India) | 96.78 | 96.27 | -0.53% |
 | USD / PKR (Pakistan) | 276.94 | 277.19 | +0.09% |
 | USD / TRY (Turkey) | 49.34 | 49.03 | -0.63% |
+
+### Bunker Prices (USD / ton)
+
+| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| :--- | :---: | :---: | :---: |
+| SINGAPORE | $906 | $741 | $1445 |
+| HONG KONG | $921 | $788 | $1445 |
+| FUJAIRAH | $1014 | $749 | $1707 |
+| ROTTERDAM | $717 | $622 | $1500 |
+| HOUSTON | $787 | $530 | $1481 |
 
 ## Market Charts & Quantitative Vectors
 

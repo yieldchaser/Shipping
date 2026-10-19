@@ -3151,19 +3151,19 @@ issue_date,report_week,destination,country,segment,price_low,price_high,price_us
 2026-10-09,41,"Aliaga, Turkey",Turkey,Bulkers,310.0,320.0,315.0,STABLE,star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
 2026-10-09,41,"Aliaga, Turkey",Turkey,General Cargo,290.0,300.0,295.0,STABLE,star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
 2026-10-09,41,"Aliaga, Turkey",Turkey,Containers,340.0,350.0,345.0,STABLE,star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf
-2026-10-16,42,"Alang, India",India,Tankers,545.0,545.0,545.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Alang, India",India,Bulkers,570.0,570.0,570.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Alang, India",India,General Cargo,550.0,550.0,550.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Alang, India",India,Containers,570.0,570.0,570.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Chattogram, Bangladesh",Bangladesh,Tankers,580.0,580.0,580.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Chattogram, Bangladesh",Bangladesh,Bulkers,620.0,620.0,620.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Chattogram, Bangladesh",Bangladesh,General Cargo,460.0,460.0,460.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Chattogram, Bangladesh",Bangladesh,Containers,490.0,490.0,490.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Gaddani, Pakistan",Pakistan,Tankers,585.0,585.0,585.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Gaddani, Pakistan",Pakistan,Bulkers,550.0,550.0,550.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Gaddani, Pakistan",Pakistan,General Cargo,510.0,510.0,510.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Gaddani, Pakistan",Pakistan,Containers,480.0,480.0,480.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Aliaga, Turkey",Turkey,Tankers,280.0,280.0,280.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Aliaga, Turkey",Turkey,Bulkers,320.0,320.0,320.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Aliaga, Turkey",Turkey,General Cargo,300.0,300.0,300.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
-2026-10-16,42,"Aliaga, Turkey",Turkey,Containers,320.0,320.0,320.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Alang, India",India,Tankers,490.0,500.0,495.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Alang, India",India,Bulkers,480.0,490.0,485.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Alang, India",India,General Cargo,440.0,450.0,445.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Alang, India",India,Containers,540.0,550.0,545.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Chattogram, Bangladesh",Bangladesh,Tankers,510.0,520.0,515.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Chattogram, Bangladesh",Bangladesh,Bulkers,490.0,500.0,495.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Chattogram, Bangladesh",Bangladesh,General Cargo,480.0,490.0,485.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Chattogram, Bangladesh",Bangladesh,Containers,560.0,570.0,565.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Gaddani, Pakistan",Pakistan,Tankers,510.0,520.0,515.0,WEAK,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Gaddani, Pakistan",Pakistan,Bulkers,480.0,490.0,485.0,WEAK,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Gaddani, Pakistan",Pakistan,General Cargo,470.0,480.0,475.0,WEAK,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Gaddani, Pakistan",Pakistan,Containers,530.0,540.0,535.0,WEAK,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Aliaga, Turkey",Turkey,Tankers,320.0,330.0,325.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Aliaga, Turkey",Turkey,Bulkers,310.0,320.0,315.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Aliaga, Turkey",Turkey,General Cargo,290.0,300.0,295.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
+2026-10-16,42,"Aliaga, Turkey",Turkey,Containers,340.0,350.0,345.0,STABLE,star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf
