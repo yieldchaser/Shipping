@@ -9,7 +9,7 @@ year: 2023
 source_file: corpus/01-brokers/xclusiv/2023/xclusiv_2023_xclusiv_weekly_2023_08_07.pdf
 source_sha256: b8c7d2d262a43f497040a23401710dadab90c235b01399e172cdeceb449e087f
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:18:04Z'
 ---
@@ -172,3 +172,71 @@ On tanker S&P activity, the VLCC “V. Trust” - 301K/2017 HHI was sold and alr
 | Tankers | Bangladesh | $575 | $575 | 0 |
 | Tankers | Pakistan | $525 | $525 | 0 |
 | Tankers | Turkey | $360 | $360 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 1.1% at 35,066 points, S&P 500 went down by 2.27% at 4,478 points and NASDAQ fell by 2.85% at 13,909 points. The main European indices closed almost the same as previous week, with the Euro Stoxx50 closing down by only 2.99% at 4,333 points and Stoxx600 down by 2.44% at 459 points mark. In Asia, the Nikkei closed the week at 32,193, losing 1.73% on a weekly basis, while Hang Seng went down by 1.89% at 19,539 points mark and the CSI 300 index closed the week at 4,021 points, 0.7% higher than previous week.
+- Saudi Arabia and Russia announced they would extend voluntary supply cuts through next month to support oil prices, lifting WTI crude futures to around $83 per barrel, their highest level in four months. In September, Saudi Arabia will extend its 1 million barrels per day output cut for another month, while Russia will cut its oil exports by 300,000 bpd.
+- While markets continued to assess the impact that the destruction of Ukrainian port infrastructure and grain stockpiles may have on global trade, wheat futures sank to $6.4 per bushel in early August, hovering near a two-month low and maintaining their volatile momentum despite ample supply from the world's major producers. Despite previous concerns about dryness in Siberia and fewer shipments from Ukraine, Russia reported a soaring harvest this year.
+- The price of steel rebar futures fell to around CNY 3,650 per tonne in August as markets reduced hopes that China's muted economic stimulus could trigger a significant recovery in construction activity. Both PMI data in China indicated another decrease in industrial activity in July, providing fresh indication that the Chinese economy's projected recovery has failed to acquire pace.
+- As a result of subdued demand, high storage levels and supply constraints, natural gas prices in Europe were around €30 per megawatt-hour in August, after falling 24% in July. In recent weeks, maintenance works and unplanned outages at Norwegian facilities have pushed up natural gas prices, as Norway has replaced Russia as the biggest source of natural gas imports in the EU.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 81.908 | 0.912 | -1.10% | 0.13% | 12.28% | -8.92% |
+| Brent | 85.504 | 0.737 | -0.85% | 0.09% | 10.47% | -10.11% |
+| Natural gas | 2.6043 | 0.0273 | 1.06% | -1.13% | -1.39% | -65.68% |
+| Gasoline | 2.7884 | 0.0053 | 0.19% | -3.70% | 11.80% | 5.23% |
+| Heating oil | 3.031 | 0.0312 | -1.02% | 1.52% | 19.33% | -4.10% |
+| Ethanol | 2.17 | 0 | 0.00% | -11.25% | -4.82% | -11.43% |
+| Naphtha | 639.13 | 3.87 | 0.61% | 11.16% | 21.13% | -5.67% |
+| Propane | 0.74 | 0.01 | 1.34% | 16.63% | 36.79% | -30.80% |
+| Uranium | 56.25 | 0.1 | 0.18% | 0.18% | 1.08% | 13.64% |
+| Methanol | 2313 | 40 | -1.70% | 1.49% | 7.78% | -8.43% |
+| TTF Gas | 30.11 | 1.25 | 4.34% | 6.13% | -0.40% | -84.41% |
+| UK Gas | 75.94 | 3.01 | 4.13% | 7.34% | 3.28% | -78.62% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,935.9 | 5.7 | -0.29% | -1.44% | 0.57% | 8.24% |
+| Silver | 23.459 | 0.141 | -0.60% | -5.29% | 1.49% | 13.61% |
+| Platinum | 915.0 | 7.12 | -0.77% | -3.60% | -1.26% | -2.62% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.8237 | 0.0013 | -0.03% | -4.28% | 1.22% | 6.58% |
+| Coal | 136.0 | 0.85 | -0.62% | 1.15% | -6.08% | -62.33% |
+| Steel | 3,646 | 28 | -0.76% | -3.37% | -0.41% | -11.72% |
+| Iron Ore | 106.5 | 2 | -1.84% | -6.99% | -5.75% | -4.48% |
+| Aluminum | 2,229.5 | 3 | -0.13% | -2.32% | 3.84% | -8.83% |
+| Iron Ore Fe62% | 105.18 | 0.92 | 0.88% | -6.66% | -5.95% | -3.68% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.09743 | 0.0036 | -0.32% | -0.17% | -0.22% | 7.64% |
+| GBP/USD | 1.27289 | 0.0019 | -0.15% | -0.84% | -1.01% | 5.41% |
+| USD/JPY | 142.245 | 0.495 | 0.35% | -0.02% | 0.66% | 5.37% |
+| USD/CNY | 7.19503 | 0.0082 | 0.11% | 0.70% | -0.46% | 6.41% |
+| USD/CHF | 0.87616 | 0.0035 | 0.40% | 0.50% | -1.02% | -8.26% |
+| USD/SGD | 1.34115 | 0.0018 | 0.13% | 0.88% | -0.26% | -2.67% |
+| USD/KRW | 1305.72 | 1.64 | 0.13% | 2.18% | 0.49% | 0.51% |
+| USD/INR | 82.748 | 0.08 | 0.10% | 0.62% | 0.28% | 3.98% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 639.00 | 575.50 | 904.00 | 63.50 | -79.5 | -55.6% |
+| Rotterdam | 621.00 | 566.50 | 901.50 | 54.50 | 1.5 | 2.8% |
+| Fujairah | 638.50 | 526.00 | 954.00 | 112.50 | -24.5 | -17.9% |
+| Houston | 605.50 | 550.50 | 919.00 | 55.00 | -56.0 | -50.5% |

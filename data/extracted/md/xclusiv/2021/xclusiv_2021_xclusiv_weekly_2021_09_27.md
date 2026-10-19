@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_09_27.pdf
 source_sha256: 29328e07e7192f9095dea33d03803091e3a9c6f39be2c87d362915817aa19bff
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:13:59Z'
 ---
@@ -180,3 +180,74 @@ C C C C C C C
 | Tankers | Bangladesh | $610 | $610 | - |
 | Tankers | Pakistan | $610 | $610 | - |
 | Tankers | Turkey | $290 | $290 | - |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- The Nasdaq Composite Index closed the week at 15,047.70, the S&P 500 Index closed at 4,455.48 and the Dow Jones Industrial closed at 34,798.00, all 3 major US indices recovering from their losses occurred early this week.
+- Coal prices touched fresh record high at USD 185.9/ton within this week but ended slightly lower at USD 181/ton.
+- The International Energy Agency (IEA) has urged Russia to send more gas to Europe as the energy supply crunch bleeds across the continent & ensure storage is filled to adequate levels in preparation for the coming winter heating season
+- The Bank of England voted unanimously to maintain interest rate unchanged at a record low of 0,1% and stick to its asset purchase target of £875 billion.
+- Joko Widodo, the President of Indonesia inaugurated a new 1.5Mt annual output capacity steel plant last week. The plant is expected to reduce steel imports into the country, which adds reliance on its own production.
+- Steel prices are currently sky-high due to production curbs in China, as part of the count ry’s ’s long -term goal of achieving carbon neutrality. China’s steel production in August slipped to 83.24Mt in August. Stable demand for manufactured goods including cars, cans, pipes, and household goods, and a supply gap due to China’s production curbs have pushed steel prices to record high levels. Iron Ore made a small rebound to USD 109/ton as mills may be looking to restock ahead of the National Day holidays in China.
+- Bank of Ame merica’s global research team is lowering its price forecast for iron ore fines in 2022 by 45% to USD 91/ton (down from its previous forecast of USD 165/ton) on the back of enforced steel production cuts in China.
+- Soybeans traded below USD 13 a bushel, close to a 9-month low.
+- OECD reported that the global economy is expected to grow by 5.7% rather than 5.8% which was projected in May.
+- China’s Shenzhen Chengxin Lithium Group & an affiliate of Indonesian firm Tsingshan have reportedly agreed to invest in a USD 350m lithium plant in Indonesia. The facility is expected to help meet the growing demand from the electric vehicle (EV) battery sector.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 73.98 | 0.68 | 0.93% | 2.79% | 8.22% | 52.47% |
+| Brent | 78.09 | 0.84 | 1.09% | 3.65% | 8.08% | 50.75% |
+| Natural gas | 5.176 | 0.2 | 4.02% | 1.39% | 32.82% | 103.86% |
+| Gasoline | 2.1777 | 0.0062 | 0.29% | 0.29% | -5.35% | 54.44% |
+| Heating oil | 2.2671 | 0.018 | 0.80% | 2.63% | 7.03% | 52.77% |
+| Ethanol | 2.207 | 0 | 0.00% | 0.00% | -0.59% | 54.01% |
+| Naphtha | 677.28 | 1.54 | 0.23% | 0.18% | 4.58% | 56.52% |
+| Propane | 1.28 | 0 | -0.13% | 0.26% | 14.94% | 97.71% |
+| Uranium | 44.3 | -3.75 | -7.80% | -12.80% | 32.63% | 44.30% |
+| Methanol | 3159 | 73 | 2.37% | 6.47% | 16.35% | 30.75% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,750.2 | 7.66 | 0.44% | -0.22% | -2.26% | -7.71% |
+| Silver | 22.408 | -0.079 | -0.35% | 0.07% | -6.09% | -14.99% |
+| Platinum | 979.0 | -9.92 | -1.00% | 4.04% | -1.75% | -8.16% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.2835 | 0.0525 | 1.24% | 0.90% | 0.37% | 21.72% |
+| Coal | 181 | -4.9 | -2.64% | 1.97% | 6.00% | 124.84% |
+| Steel | 5,811 | -47 | -0.80% | 1.79% | 12.64% | 37.70% |
+| Iron Ore | 109 | 2 | 1.87% | 4.31% | -26.35% | -31.23% |
+| Aluminum | 2,926.3 | -30.75 | -1.04% | 1.87% | 12.10% | 47.73% |
+| Iron Ore Fe62% | 120.1 | -0.35 | -0.29% | -2.36% | -24.90% | -22.93% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.17208 | -0.0024 | -0.21% | -0.04% | -0.44% | -4.06% |
+| GBP/USD | 1.36714 | -0.0056 | -0.41% | -0.41% | -0.67% | -0.01% |
+| USD/JPY | 43274.09 | 494.09 | 1.15% | -8.41% | -11.87% | 49.26% |
+| USD/CNY | 110.73 | 0.45 | 0.41% | 0.69% | 0.68% | 7.25% |
+| USD/CHF | 6.46077 | 0 | 0.00% | -0.11% | -0.14% | -0.64% |
+| USD/SGD | 8.8405 | 0.0783 | 0.89% | 2.46% | 5.64% | 18.95% |
+| USD/KRW | 93.288 | -0.174 | -0.19% | 0.10% | 0.50% | 3.73% |
+| USD/INR | 20.0653 | 0.0147 | 0.07% | 0.26% | -0.81% | 0.83% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 565.50 | 486.00 | 635.00 | $79.5 |
+| Rotterdam | 546.50 | 436.00 | 628.00 | $110.5 |
+| Fujairah | 562.00 | 484.50 | 672.50 | $77.5 |
+| Houston | 547.50 | 419.50 | 645.50 | $128.0 |

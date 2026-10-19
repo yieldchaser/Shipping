@@ -9,7 +9,7 @@ year: 2023
 source_file: corpus/01-brokers/xclusiv/2023/xclusiv_2023_xclusiv_weekly_2023_02_20.pdf
 source_sha256: bfe46b09080972525614d2e1525d51375bb8f1a25b8ffa449f49219528e66039
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:17:01Z'
 ---
@@ -185,3 +185,71 @@ On the VLCC sector, the “Cosglory Lake” - 299K/2003 Universal was sold for r
 | Tankers | Bangladesh | $560 | $555 | 5 |
 | Tankers | Pakistan | $565 | $565 | 0 |
 | Tankers | Turkey | $330 | $330 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In In the U.S., the Dow Jones Industrial average decreased by 0.1% at 33,827 points, S&P 500 went down by 0.28% at 4,079 points and NASDAQ rise by 0.59% at 11,787 points. The main European indices closed almost the same as previous week, with the Euro Stoxx50 closing up by 1.83% at 4,275 points and Stoxx600 up by 1.4% at 464 points mark. In Asia, the Nikkei closed the week at 27,515, losing 0.56% on a weekly basis, while Hang Seng went down by 2.22% at 20,720 points mark and the CSI 300 index closed the week at 4,035 points, 1.75% lower than previous week.
+- WTI & Brent crude futures climbed above the USD 77 & USD 83 per barrel mark, rebounding from an almost two-week low of around USD 75 touched last week. There is optimism that Chinese demand is about to recover against rising US supplies and persistent worries about a global economic slowdown. The IEA raised its forecast for 2023 oil demand growth and said that restrained OPEC+ output could bring a supply deficit in the second half.
+- US natural gas futures extended losses to below USD 2.3/MMBtu, the lowest since September 2020 as forecasts pointed to near-normal temperatures through March 3, except for some cold days. Natural gas prices declined almost 10% last week, and are down more than 45% since the beginning of the year, as mild weather kept heating demand weak and stockpiles above usual levels.
+- TTF gas futures moved higher to above Euro 50 a megawatt-hour, after falling to of Euro 48.1 last week, which was the lowest intraday level since August 31st 2021, as temperatures are set to fall in the end of the month and wind speed is expected to slow in Germany. Still, natural gas prices are nearly 85% below a peak of Euro 339/MWh in August 2022, with storage about 64% full, much above the 10-year average of 54% for this time of the year.
+- Newcastle coal futures, is moving lower towards USD 209 per tonne, a level not seen since February 2022, as signs of sluggish demand offset concerns about supply disruptions from key exporter Australia.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 77.127 | 0.787 | 1.03% | -3.76% | -5.50% | -16.17% |
+| Brent | 83.761 | 0.761 | 0.92% | -3.29% | -4.99% | -8.13% |
+| Natural gas | 2.2228 | 0.0522 | -2.29% | -7.58% | -31.01% | -49.84% |
+| Gasoline | 2.4304 | 0.0222 | 0.92% | -3.98% | -9.99% | -11.74% |
+| Heating oil | 2.7556 | 0.0435 | 1.60% | -5.17% | -19.83% | -3.54% |
+| Ethanol | 2.185 | 0.0075 | 0.34% | 0.00% | -0.68% | 2.34% |
+| Naphtha | 717.09 | 2.67 | -0.37% | -0.54% | 5.70% | -15.72% |
+| Propane | 0.82 | 0 | -0.33% | -2.88% | -1.82% | -36.64% |
+| Uranium | 51.75 | 0.05 | -0.10% | 2.48% | 5.72% | 17.48% |
+| Methanol | 2594 | 23 | -0.88% | -1.44% | -7.03% | -3.75% |
+| TTF Gas | 50.95 | 1.9 | 3.87% | -1.47% | -22.81% | -29.79% |
+| UK Gas | 125.42 | 4.46 | 3.69% | -2.73% | -24.77% | -27.72% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,841.4 | 0.16 | -0.01% | -0.65% | -4.65% | -3.37% |
+| Silver | 21.831 | 0.105 | 0.48% | -0.63% | -6.91% | -8.80% |
+| Platinum | 923.0 | 6.41 | 0.70% | -3.20% | -11.82% | -14.11% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.1138 | 0.0224 | -0.54% | 0.91% | -3.33% | -8.18% |
+| Coal | 209.4 | 4.65 | -2.17% | -3.97% | -43.11% | -9.96% |
+| Steel | 4,164 | 9 | 0.22% | 3.79% | -0.36% | -13.59% |
+| Iron Ore | 127.5 | 0.5 | 0.39% | 1.19% | 3.66% | -2.67% |
+| Aluminum | 2,427.5 | 40 | 1.68% | 0.62% | -7.93% | -25.98% |
+| Iron Ore Fe62% | 124.94 | 0.25 | 0.20% | -0.16% | 3.09% | -11.46% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.06908 | 0.0003 | -0.03% | -0.27% | -1.63% | -5.47% |
+| GBP/USD | 1.20272 | 0.0008 | -0.06% | -0.89% | -2.79% | -11.55% |
+| USD/JPY | 134.299 | 0.149 | 0.11% | 1.43% | 2.79% | 17.05% |
+| USD/CNY | 6.86427 | 0.0071 | -0.10% | 0.60% | 1.31% | 8.45% |
+| USD/CHF | 0.92386 | 0.0006 | -0.07% | 0.51% | 0.23% | 0.88% |
+| USD/SGD | 1.33566 | 0.0006 | -0.05% | 0.55% | 1.30% | -0.89% |
+| USD/KRW | 1294.26 | 1.61 | -0.12% | 1.68% | 5.23% | 8.43% |
+| USD/INR | 82.73 | 0.02 | -0.02% | 0.17% | 1.54% | 11.05% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 630.50 | 429.50 | 806.00 | 201.00 | -43.5 | -17.8% |
+| Rotterdam | 570.00 | 405.50 | 778.50 | 164.50 | -24.0 | -12.7% |
+| Fujairah | 625.50 | 414.50 | 1117.5 | 211.00 | -56.5 | -21.1% |
+| Houston | 621.00 | 419.00 | 812.50 | 202.00 | -26.5 | -11.6% |

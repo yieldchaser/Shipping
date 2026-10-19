@@ -9,7 +9,7 @@ year: 2023
 source_file: corpus/01-brokers/xclusiv/2023/xclusiv_2023_xclusiv_weekly_2023_10_16.pdf
 source_sha256: 4f8810f43160a29f48d0093ea11bc610a084e2b85804c70f4bac42a3cbc7c2e7
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:18:30Z'
 ---
@@ -202,3 +202,71 @@ On the tanker sector, the highlight of this week is Frontline’s move to purcha
 | Tankers | Bangladesh | $515 | $515 | 0 |
 | Tankers | Pakistan | $550 | $550 | 0 |
 | Tankers | Turkey | $325 | $325 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 0.8% at 33,670 points, S&P 500 went up by 0.45% at 4,328 points and NASDAQ fell by 0.18% at 13,407 points. At Europe the Euro Stoxx50 closed down by only 0.2% at 4,136 points and Stoxx600 up by 0.96% at 449 points mark. In Asia, the Nikkei closed the week at 32,316, gaining 3.99% on a weekly basis, while Hang Seng went up by 1.87% at 17,813 points mark and the CSI 300 index closed the week at 3,663 points, 0.71% lower than previous week.
+- WTI crude futures steadied above USD 87 per barrel, consolidating recent gains as traders continued to monitor the Israel-Hamas war and its impact on global oil supply. Meanwhile, the US oil benchmark jumped nearly 6% on Friday amid fears of a wider conflict in the Middle East as Israel goes on the offensive in Gaza.
+- Newcastle coal futures have been steadily rising toward USD 144 per tonne, following a more than 13% drop in the first week of October, driven by heightened demand from China ahead of the winter peak season and higher natural gas prices due to supply disruptions and the ongoing Middle East conflict.
+- Prices for iron ore cargoes with a 63.5% iron ore content for delivery in Tianjin rose to the USD 117 per tonne level, rebounding from the near-two-month low of USD 113.5 touched on October 10th as markets continued to assess the outlook on the Chinese economy for hints on commodity demand for the world’s top consumer.
+- US natural gas futures fell to below USD 3.2/MMBtu, the lowest in over one week, due to increased production, reduced exports to Mexico, and forecasts of mild late October weather lowering heating and cooling demands.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 87.555 | 0.135 | -0.15% | 1.36% | -3.34% | 4.84% |
+| Brent | 90.67 | 0.22 | -0.24% | 2.86% | -2.81% | 0.54% |
+| Natural gas | 3.1686 | 0.0674 | -2.08% | -6.14% | 5.58% | -52.81% |
+| Gasoline | 2.2589 | 0.0064 | -0.28% | 0.93% | -14.48% | -7.21% |
+| Heating oil | 3.1991 | 0.0126 | -0.39% | 7.84% | -0.79% | -13.24% |
+| Ethanol | 2.28 | 0.03 | 1.33% | 0.44% | -4.80% | -5.98% |
+| Naphtha | 652.4 | 12.75 | 1.99% | 1.87% | -7.35% | -1.26% |
+| Propane | 0.7 | 0.01 | 1.36% | 1.93% | -8.98% | -15.72% |
+| Uranium | 69 | 3.75 | -5.15% | -5.15% | 11.29% | 41.39% |
+| Methanol | 2463 | 17 | 0.70% | -0.85% | -3.94% | -11.88% |
+| TTF Gas | 51.88 | 2.1 | -3.89% | 18.04% | 50.49% | -59.46% |
+| UK Gas | 131 | 5.7 | -4.17% | 19.86% | 49.68% | -43.60% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,911.2 | 20.51 | -1.06% | 2.70% | -1.14% | 15.83% |
+| Silver | 22.547 | 0.153 | -0.67% | 3.00% | -2.94% | 20.70% |
+| Platinum | 880.9 | 0.11 | -0.01% | -0.60% | -5.60% | -3.78% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.5942 | 0.0142 | 0.40% | -1.33% | -4.10% | 5.23% |
+| Coal | 143.9 | 1.2 | 0.84% | 3.86% | -10.37% | -63.35% |
+| Steel | 3,617 | 31 | 0.86% | -0.14% | -5.21% | -3.70% |
+| Iron Ore | 116.5 | 0 | 0.00% | 0.87% | -6.80% | 22.63% |
+| Aluminum | 2,201.0 | 1.5 | 0.07% | -1.72% | -1.06% | -4.55% |
+| Iron Ore Fe62% | 118.57 | 1.15 | 0.98% | 0.70% | -1.65% | 23.60% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.05339 | 0.0025 | 0.24% | -0.29% | -1.46% | 7.07% |
+| GBP/USD | 1.21724 | 0.0031 | 0.26% | -0.52% | -1.69% | 7.22% |
+| USD/JPY | 149.562 | 0.012 | 0.01% | 0.72% | 1.33% | 0.36% |
+| USD/CNY | 7.31478 | 0.0033 | 0.04% | 0.32% | 0.34% | 1.48% |
+| USD/CHF | 0.90368 | 0.0017 | 0.19% | -0.31% | 0.76% | -9.30% |
+| USD/SGD | 1.36971 | 0.0012 | 0.09% | 0.35% | 0.48% | -3.60% |
+| USD/KRW | 1355.38 | 3.17 | 0.23% | 0.66% | 2.40% | -5.27% |
+| USD/INR | 83.265 | 0.01 | 0.01% | 0.01% | -0.01% | 1.33% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 663.50 | 481.00 | 889.00 | 182.50 | 6.0 | 3.4% |
+| Rotterdam | 613.00 | 524.50 | 894.00 | 88.50 | 22.5 | 34.1% |
+| Fujairah | 657.50 | 487.00 | 954.50 | 170.50 | 11.0 | 6.9% |
+| Houston | 618.50 | 514.50 | 914.00 | 104.00 | 4.0 | 4.0% |

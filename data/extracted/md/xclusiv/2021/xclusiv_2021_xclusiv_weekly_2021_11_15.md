@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_11_15.pdf
 source_sha256: 2dd2812e4a6c15a56959acc84b24b02627e65aa7e2fe2f4e3dad2fc5c6eb562b
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:13Z'
 ---
@@ -204,3 +204,70 @@ On the Tanker, the VLCC “Maran Corona”-306k/2003 Daewoo sold for USD 28.5mil
 | Tankers | Bangladesh | $620 | $620 | 0 |
 | Tankers | Pakistan | $615 | $615 | 0 |
 | Tankers | Turkey | $290 | $290 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the US, Stocks posted their first losing week in six despite the rally on Friday. The major averages closed the week lower. On a weekly basis, the Dow fell by 0.6% at 36,100.31, the S&P 500 dipped 0.3% at 4,682.85 and the Nasdaq Composite inched down about 0.7% at 15,860.96. European shares closed their sixth straight week of gains at a new high on Friday. The pan-European STOXX 600 index rose 0.3% to new peak of 486.75 points added 0.7% for the week, Stoxx50 index rose 0.28% at 4,370 adding 0.55% for the week while Dax rose 0.30% w-on-w at 16.094.07point.
+- WTI crude futures slipped further towards the threshold of $80 per barrel, as the market is been threatened by a supply boost from the US and there are signs that the demand is weakening. Various politicians with Senator Chuck Schumer been the last of them, called on the Biden administration to halt US oil exports and to tap emergency oil reserves to lower gasoline prices.
+- Coal shippers are coming under pressure from European investors with six firms announcing they are looking to reduce their exposure to the segment. This was followed by Swiss Re announcing that from 2023 transport of thermal coil would not be covered via their reinsurance treaties.
+- On dry freight rates the BCI posting gains throughout the week and landing on Friday at 3,836 points. This takes the BCI to a w/o/w improvement of 17%. The BDI also noted a small w/o/w gain of 3.4% at 2,807 close of business Friday. BPI/BSI/BHSI all suffered losses. Furthermore, BDTI at the end of the week had an increase of 0.49%, closing at 821 points & BCTI closed the week with a significant 11.6% increase at 618 points mark.
+- US natural gas prices traded below levels not seen since the end of September. The price closed below $5/mBtu, more than 23% below a 12-year high of $6.5 hit on October 6th. Stockpiles rose to near-normal levels ahead of the winter heating season amid mild weather. The EIA said that stockpiles in the lower 48 States are just 3.2% below what is normal for this time of year after weekly figures showed domestic stockpiles increased by 7 bill cubic feet last week.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 80.68 | -0.9 | -1.10% | -0.73% | 0.30% | 66.28% |
+| Brent | 82.14 | -0.73 | -0.88% | -0.73% | -1.25% | 58.57% |
+| Natural gas | 4.774 | -0.371 | -7.21% | -13.45% | -14.60% | 88.03% |
+| Gasoline | 2.3075 | -0.0103 | -0.44% | -0.58% | -4.07% | 63.64% |
+| Heating oil | 2.4037 | -0.0434 | -1.77% | -2.11% | -4.66% | 61.97% |
+| Ethanol | 2.207 | 0 | 0.00% | 0.00% | 0.00% | 54.01% |
+| Naphtha | 753.55 | -3.22 | -0.43% | 1.87% | 0.33% | 74.15% |
+| Propane | 1.32 | -0.03 | -2.39% | -3.05% | -9.30% | 105.13% |
+| Uranium | 47.4 | 0.6 | 1.28% | 5.22% | -1.86% | 54.40% |
+| Methanol | 2623 | -212 | -7.48% | -7.64% | -33.66% | 8.57% |
+| TTF Gas | 78.65 | 3.86 | 5.16% | 7.19% | -8.22% | 311.28% |
+| UK Gas | 197.96 | 4.63 | 2.39% | 4.46% | -8.82% | 250.99% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,864.6 | 3.11 | 0.17% | 2.64% | 4.02% | -1.68% |
+| Silver | 25.3 | 0.071 | 0.28% | 4.68% | 9.69% | -4.02% |
+| Platinum | 1,082.2 | -3.59 | -0.33% | 4.61% | 6.09% | 1.53% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.4555 | 0.051 | 1.16% | 2.45% | -1.44% | 26.61% |
+| Coal | 153 | 1.5 | 0.99% | -1.54% | -37.13% | 90.06% |
+| Steel | 4,350 | -111 | -2.49% | -2.84% | -25.86% | 3.08% |
+| Iron Ore | 84.5 | 0 | 0.00% | -5.06% | -28.39% | -46.69% |
+| Aluminum | 2,698.8 | 38.75 | 1.46% | 5.56% | -12.04% | 36.25% |
+| Iron Ore Fe62% | 93.4 | -0.23 | -0.25% | -1.09% | -23.62% | -40.07% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.14433 | -0.0004 | -0.04% | -1.08% | -1.32% | -6.33% |
+| GBP/USD | 1.3412 | 0.0047 | 0.35% | -0.61% | -1.87% | -1.91% |
+| USD/JPY | 113.91 | -0.14 | -0.13% | 0.46% | 0.53% | 10.32% |
+| USD/CNY | 6.37881 | -0.0131 | -0.21% | -0.24% | -0.78% | -1.90% |
+| USD/CHF | 0.92111 | -0.0008 | -0.08% | 0.99% | -0.32% | 4.07% |
+| USD/SGD | 1.35155 | -0.0027 | -0.20% | 0.11% | 0.02% | 2.23% |
+| USD/KRW | 1175.8 | -2.5 | -0.22% | -0.17% | -0.61% | 8.46% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 628.50 | 464.50 | 719.00 | $164.0 |
+| Rotterdam | 571.00 | 433.00 | 675.50 | $138.0 |
+| Fujairah | 629.00 | 498.00 | 795.00 | $131.0 |
+| Houston | 595.50 | 474.00 | 737.50 | $121.5 |

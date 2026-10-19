@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_10_24.pdf
 source_sha256: c19daba0b9503430a8fec073f7c9858ae46d871f3877e66c9100150129f45d2b
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:16:11Z'
 ---
@@ -178,3 +178,71 @@ Higher rates have resulted in another busy week on the wet market, especially in
 | Tankers | Bangladesh | $615 | $605 | 10 |
 | Tankers | Pakistan | $600 | $595 | 5 |
 | Tankers | Turkey | $260 | $265 | -5 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 4.9% at 31,083 points, S&P 500 went up by 4.74% at 3,753 points and NASDAQ rise by 5.22% at 10,860 points. The main European indices closed higher for third week in a row, with the Euro Stoxx50 closing up by 2.81% at 3,477 points and Stoxx600 up by 1.27% at 396 points mark. In Asia, the Nikkei closed the week at 26,891, losing 0.74% on a weekly basis, while Hang Seng went down by 2.27% at 16,211 points mark and the CSI 300 index closed the week at 3,743 points, 2.59% lower than previous week.
+- WTI & Brent crude futures traded around USD 85 & USD 92 per barrel, remaining sideways for the past three sessions as investors weighed the prospect of tighter supply against fears of a demand-sapping global recession. Markets remained cautious as OPEC+ is set to reduce output from November, while the European Union’s ban on Russian crude takes effect in December.
+- US natural gas futures fell more than 25% to below USD 5 MMBtu this week, the 9th consecutive week of falls and the lowest level in seven months, pressured by forecasts of lower weather-driven demand, record domestic production levels, and reduced liquefied natural gas (LNG) exports, allowing utilities to inject more gas into storage.
+- Prices for iron ore cargoes with a 63.5% iron content for delivery into Tianjin were at around USD 94 per tonne, hovering at the lowest in 11 months, after Chinese President Xi Jiping emphasized the importance of the country’s zero-Covid policy in his speech during the Communist Party Congress in Beijing. Low demand from China and construction woes drove major producer Rio Tinto to forecast iron ore sales at the lower end of its guidance. Further pressure on prices was also due to Vale announcing that iron ore output was well above expectations for the third quarter of 2022.
+- Newcastle coal futures were trading around the USD 390 per tonne mark, close to levels not seen in two months, amid signs that supplies will be adequate to meet winter demand in Asia and Europe.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 85.05 | 0.54 | 0.64% | 0.47% | 2.43% | 3.09% |
+| Brent | 93.5 | 1.12 | 1.21% | 2.04% | 4.43% | 9.32% |
+| Natural gas | 4.9941 | 0.3639 | -6.79% | -22.61% | -30.57% | -5.41% |
+| Gasoline | 2.6427 | 0.0051 | -0.19% | 0.45% | 8.68% | 6.47% |
+| Heating oil | 3.8323 | 0.0755 | 2.01% | -3.72% | 15.41% | 51.40% |
+| Ethanol | 2.4775 | 0.0025 | -0.10% | 2.16% | 1.12% | -0.90% |
+| Naphtha | 667.09 | 2.16 | 0.32% | 0.96% | 5.75% | -12.77% |
+| Propane | 0.85 | 0 | 0.00% | 1.71% | -16.31% | -41.74% |
+| Uranium | 53.05 | 0.4 | 0.76% | 4.84% | 5.78% | 8.27% |
+| Methanol | 2790 | 0 | 0.00% | -1.03% | 2.42% | -14.02% |
+| TTF Gas | 113.58 | 13.57 | -10.67% | -20.02% | -39.42% | 30.04% |
+| UK Gas | 204.12 | 19.88 | -8.88% | -21.90% | -29.03% | -6.89% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,657.2 | 29.52 | 1.81% | 0.94% | -0.80% | -7.55% |
+| Silver | 19.39 | 0.73 | 3.91% | 6.21% | -1.32% | -20.24% |
+| Platinum | 932.1 | 18.06 | 1.98% | 3.71% | 3.52% | -10.42% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.5228 | 0.0718 | 2.08% | 2.10% | 0.82% | -22.17% |
+| Coal | 390.0 | 1.95 | -0.50% | -0.64% | -10.48% | 69.57% |
+| Steel | 3,707 | 11 | 0.30% | -2.91% | -5.14% | -25.99% |
+| Iron Ore | 94.5 | 0.5 | 0.53% | -2.07% | -5.97% | -15.63% |
+| Aluminum | 2,206.0 | 3.5 | -0.16% | -4.34% | -1.01% | -23.08% |
+| Iron Ore Fe62% | 94.86 | 0.1 | 0.11% | -1.12% | -4.02% | -22.56% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 0.98745 | 0.00169 | 0.17% | 0.30% | 2.74% | -15.15% |
+| GBP/USD | 1.13656 | 0.00696 | 0.62% | -0.01% | 5.96% | -17.37% |
+| USD/JPY | 147.924 | 0.426 | 0.29% | -0.68% | 2.32% | 30.18% |
+| USD/CNY | 7.23055 | 0.0022 | 0.03% | 0.20% | 2.13% | 13.28% |
+| USD/CHF | 0.9976 | 0.0058 | -0.58% | -0.75% | 2.14% | 8.91% |
+| USD/SGD | 1.4146 | 0.0092 | -0.65% | -0.81% | -0.27% | 4.93% |
+| USD/KRW | 1428.32 | 1.88 | -0.13% | -0.84% | 1.72% | 21.30% |
+| USD/INR | 82.529 | 0.291 | -0.35% | 0.23% | 1.83% | 10.05% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 718.50 | 389.00 | 1045.0 | 329.50 | -11.5 | -3.4% |
+| Rotterdam | 644.50 | 375.50 | 1012.0 | 269.00 | -8.5 | -3.1% |
+| Fujairah | 694.50 | 386.50 | 1255.0 | 308.00 | -22.0 | -6.7% |
+| Houston | 651.00 | 450.50 | 1053.5 | 200.50 | -33.0 | -14.1% |

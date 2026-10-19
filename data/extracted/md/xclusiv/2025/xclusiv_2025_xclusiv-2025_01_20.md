@@ -225,3 +225,69 @@ On the Capesize sector, Chinese buyers acquired the Scrubber fitted “Salt Lake
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 3.7% at 43,488 points, S&P 500 went up by 2.91% at 5,997 points & NASDAQ rise by 2.45% at 19,630 points. Τhe Euro Stoxx50 closed up by 3.44% at 5,148 points & Stoxx600 up by 2.37% at 524 points mark. In Asia, the Nikkei closed the week at 38,451, losing 1.89% on a weekly basis, while Hang Seng went up by 2.73% at 19,584 points & the CSI 300 index closed the week at 3,812 points, 2.14% higher than previous week.
+- WTI crude oil prices declined to $77.7 per barrel on Monday as markets anticipate potential shifts in U.S. energy policy ahead of Donald Trump's presidential inauguration today. The price movement reflects uncertainty around Trump's prom-ised approach to the Russia-Ukraine conflict, which could in-clude relaxing sanctions on Russian energy exports in ex-change for peace negotiations. Oil traders are particularly fo-cused on several key policy areas that could impact global oil markets: potential changes to Russian sanctions, proposed trade tariffs with China, & possible new restrictions on Iranian & Venezuelan oil exports under the incoming administration.
+- Newcastle coal futures hovered around $117 per tonne, main-taining levels not seen since early 2020. China's Coal Trans-portation and Distribution Association has projected a 1.5% rise in output to 4.82 billion tons for 2025, following 2024's record production. .
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 77.72 | -1.47% | 8.28% |
+| Brent | 80.48 | -0.74% | 7.74% |
+| Natural gas | 3.79 | -3.62% | 4.37% |
+| Gasoline | 2.11 | 0.20% | 4.70% |
+| Heating oil | 2.64 | 3.87% | 13.68% |
+| Ethanol | 1.74 | 3.12% | 2.81% |
+| Naphtha | 652.20 | 0.73% | 6.66% |
+| Propane | 0.93 | 6.45% | 19.53% |
+| Uranium | 73.95 | 0.54% | 1.30% |
+| Methanol | 2,606 | -2.83% | -5.82% |
+| TTF Gas | 46.33 | -3.99% | -8.18% |
+| UK Gas | 117.47 | -2.77% | -6.32% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 2707.99 | 1.45% | 3.14% |
+| Silver | 30.29 | 2.04% | 4.80% |
+| Platinum | 949.50 | -1.32% | 6.20% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 4.32 | 0.58% | 8.39% |
+| Coal | 117.25 | 3.30% | -6.39% |
+| Steel | 3311.00 | 4.19% | 0.03% |
+| Iron Ore | 101.21 | 3.18% | -2.32% |
+| Aluminum | 2,684 | 4.09% | 5.19% |
+| LithiumCNY/T | 77,850 | 2.50% | 3.73% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.03 | 0.70% | -0.40% |
+| GBP/USD | 1.22 | -0.10% | -2.64% |
+| USD/JPY | 156.27 | -0.77% | -0.70% |
+| USD/CNY | 7.32 | -0.35% | -0.21% |
+| USD/CHF | 0.91 | -0.50% | 0.61% |
+| USD/SGD | 1.36 | -0.37% | -0.08% |
+| USD/KRW | 1449.89 | -1.13% | -1.93% |
+| USD/INR | 86.56 | -0.11% | 1.15% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-o-w | % Spread w-o-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 613.00 | 521.00 | 752.50 | 92.00 | -7.0 | -7.1% |
+| Rotterdam | 557.00 | 476.50 | 719.50 | 80.50 | -2.0 | -2.4% |
+| Fujairah | 598.00 | 492.50 | 791.00 | 105.50 | -3.5 | -3.2% |
+| Houston | 601.50 | 485.50 | 779.50 | 116.00 | -0.5 | -0.4% |

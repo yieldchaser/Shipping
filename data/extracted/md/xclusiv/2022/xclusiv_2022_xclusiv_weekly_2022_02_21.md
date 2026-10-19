@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_02_21.pdf
 source_sha256: 61a42c19ad108d948d01cb4816840c2f1c6685e4b3bb4e36495e12394b068e81
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:37Z'
 ---
@@ -202,3 +202,70 @@ During the last month we witnessed an increased volume of vessels going for demo
 | Tankers | Bangladesh | $650 | $640 | 10 |
 | Tankers | Pakistan | $630 | $620 | 10 |
 | Tankers | Turkey | $355 | $340 | 15 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 1.9% at 34,079 points, S&P 500 went down by 1.58% at 4,349 points and NASDAQ fell by 1.76% at 13,548 points. The main European indices also closed in negative ground, with the Euro Stoxx50 closing down by 1.95% at 4,074 points and Stoxx600 down by 1.87% at 461 points mark. In Asia, the Nikkei closed the week at 26,911, losing only 0.62% on a weekly basis, while Hang Seng went down by 1.72% at 24,141 points mark and the CSI 300 index closed the week at 4,651 points, 1.11% higher than previous week.
+- US natural gas futures have managed to regain ground and approached the USD 4.70/MMBtu level, supported by forecasts for colder weather and higher heating demand this week. Meanwhile, EIA data showed a smaller-than-expected storage draw last week.
+- Gold prices hit an over 8-month high of USD 1,908.2 but fell toward USD 1,890 an ounce on Monday, as safe-haven demand eased after the US president agreed to meet with his Russian counterpart to de-escalate tensions over Ukraine. The office of French president Emmanuel Macron said that Biden and Putin have agreed “in principle” to a summit in the coming weeks, after a series of conversations between Macron and both leaders, if Russia does not invade Ukraine.
+- Newcastle coal futures were trading around USD 230 per tonne, easing further from a four-month high of USD 245 per tonne earlier this month as a milder weather outlook and hopes for de-escalation tensions between Russia and Ukraine kept sentiment muted. This bearish tone contrasts with the sharp gains in Chinese coking coal futures as they extended gains, surging more than 5%. Supply remained relatively low and demand was expected to recover following the Lunar New Year holidays and the Winter Olympics. Inventories of the metallurgical coal at 247 steel mills and 230 coking plants stood at 21 million tonnes last week, down 4% from a week earlier.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 91.49 | 0.27 | -0.29% | -1.73% | 6.63% | 54.39% |
+| Brent | 93.61 | 0.64 | 0.69% | -0.88% | 6.87% | 48.80% |
+| Natural gas | 4.44 | 0.046 | -1.03% | 12.66% | 10.15% | 44.67% |
+| Gasoline | 2.6787 | 0.0301 | 1.14% | -2.19% | 8.82% | 48.25% |
+| Heating oil | 2.7893 | 0.0031 | 0.11% | -4.18% | 5.80% | 53.01% |
+| Ethanol | 2.13 | 0 | 0.00% | 0.24% | -2.96% | 25.11% |
+| Naphtha | 846.48 | 8.09 | -0.95% | 0.66% | 10.60% | 53.77% |
+| Propane | 1.28 | 0.01 | 0.69% | 2.39% | 10.75% | 36.61% |
+| Uranium | 44.05 | 0 | 0.00% | 0.23% | -4.86% | 51.37% |
+| Methanol | 2653 | 69 | 2.67% | -1.63% | -3.77% | 10.96% |
+| TTF Gas | 71.7 | 3.21 | -4.29% | -7.40% | -5.16% | 333.13% |
+| UK Gas | 172.82 | 6.85 | -3.81% | -7.02% | -4.38% | 310.50% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,897.3 | 0.02 | 0.00% | 2.00% | 3.11% | 6.45% |
+| Silver | 23.894 | 0.084 | 0.35% | 1.39% | -0.95% | -12.19% |
+| Platinum | 1,067.7 | 21.81 | -2.00% | 3.91% | 4.47% | -16.20% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.522 | 0.001 | -0.02% | 0.36% | 1.16% | 11.00% |
+| Coal | 232.5 | 2 | -0.85% | -5.10% | 4.21% | 170.35% |
+| Steel | 4,789 | 5 | 0.10% | -4.20% | 1.92% | 8.87% |
+| Iron Ore | 131 | 0.5 | -0.38% | -9.97% | 1.55% | -23.62% |
+| Aluminum | 3,262.5 | 5.5 | -0.17% | 4.02% | 6.95% | 54.27% |
+| Iron Ore Fe62% | 141.11 | 2.77 | -1.93% | -6.47% | 10.75% | -13.99% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.13255 | 0.00425 | -0.37% | -0.13% | -0.15% | -6.54% |
+| GBP/USD | 1.35905 | 0.0028 | -0.21% | 0.32% | -0.13% | -2.93% |
+| USD/JPY | 115.032 | 0.134 | 0.12% | -0.16% | 0.59% | 9.11% |
+| USD/CNY | 6.32478 | 0.00854 | -0.13% | -0.65% | -0.44% | -2.09% |
+| USD/CHF | 0.9212 | 0.00113 | 0.12% | -0.36% | 0.61% | 2.76% |
+| USD/SGD | 1.34594 | 0.00281 | 0.21% | -0.08% | -0.14% | 1.67% |
+| USD/KRW | 1191.83 | 2.67 | -0.22% | -0.20% | 0.31% | 7.93% |
+| USD/INR | 74.66 | 0.44 | -0.59% | -0.87% | 0.31% | 2.91% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 735.50 | 526.50 | 827.00 | 209.00 | -4.0 | -1.9% |
+| Rotterdam | 676.00 | 510.00 | 815.50 | 166.00 | -3.0 | -1.8% |
+| Fujairah | 746.50 | 532.00 | 900.50 | 214.50 | 17.5 | 8.9% |
+| Houston | 704.50 | 544.00 | 898.00 | 160.50 | -20.5 | -11.3% |

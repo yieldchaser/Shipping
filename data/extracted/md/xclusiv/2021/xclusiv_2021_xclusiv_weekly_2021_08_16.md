@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_08_16.pdf
 source_sha256: 106c0328e426e5ad567a3c81f60a54a9919c719e1327a4fed019fa2efa6bc717
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:13:43Z'
 ---
@@ -189,3 +189,71 @@ SK SK
 | Tankers | Bangladesh | $625 | $615 | 10.0 |
 | Tankers | Pakistan | $605 | $595 | 10.0 |
 | Tankers | Turkey | $300 | $300 | - |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- Major US indexes, reached for another week historical record highs, the Dow Jones Industrial Average at 35,515 , the S&P 500 index at 4,468, while Nasdaq composite closed at 14,822 close to its record high of last week, as traders welcomed the passage of a $1 trillion bipartisan infrastructure package by the US Senate and a kick-off debate on a $3.5 trillion spending blueprint for President Joe Biden's key priorities.
+- CH20 Switzerland Stock Market Index hit record high of 12,464, DE30 German Stock Market Index also at its highest 15,977. FR40 French Stock Market index also record high 6,896, while FTSE100 at 1 ½ year high closing at 7,219. Oslo Bors, Norway Stock Market Index hits all time high 1238.28, Helsinki 25 Finland SMI all-time high 5720.22, while downunder the AU200 Australia Stock Market Index at its record high of 7,629.
+- In India, the S&P BSE Sensex Stock market index peaked at 55,437 which is new highs this week, following positive reports rising industrial output and that inflation for July was reduced to 5.59% from 6.26% in June. At the same time, traders were cautious about the economic impact of a rapidly spreading Delta coronavirus strain as India's tally of virus cases has crossed 32 million.
+- As a result of the economie ies’ re-opening, the consumer price inflation rate in Germany stood at 3.8% y-o-y within July, the highest seen since December 1993, whilst in the US was confirmed at 5.4% remaining the 13-year high.
+- GDP of the autonomous economy of the Xinjiang Uygur has increased by 9.9% compared to last year.
+- Oat reached $477.5/Bu the highest since Mar 2014, wheat topped at $762/Bu highest levels since Jan 2013.
+- Coal on another record high $172.25ton as demand continues to exceed supply. Coal up 19% monthly & 114% y-o-y.
+- China Baowu Steel Group aims to cut production and exports in the second half of 2021 in order to China meet its carbon emissions targets.That provokes anxiety to many shipyards around the world since a further increase in the steel prices, caused by restricted steel supply, may erode their profitability.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 67.18 | 1.26 | -1.84% | 1.05% | 1.25% | 38.46% |
+| Brent | 69.39 | 1.2 | -1.70% | 0.51% | 1.12% | 33.96% |
+| Natural gas | 3.823 | 0.04 | -0.98% | -5.84% | 1.16% | 50.57% |
+| Gasoline | 2.2354 | 0.03 | -1.17% | 0.03% | 5.92% | 58.53% |
+| Heating oil | 2.0478 | 0.03 | -1.45% | 0.28% | 3.15% | 37.99% |
+| Ethanol | 2.22 | 0 | 0.00% | 0.00% | -4.31% | 54.92% |
+| Naphtha | 653.24 | 5.64 | -0.86% | -0.56% | -3.21% | 50.97% |
+| Propane | 1.13 | 0 | 0.31% | 2.77% | 2.40% | 74.36% |
+| Uranium | 30.45 | 0.5 | -1.62% | -4.69% | -6.31% | -0.81% |
+| Methanol | 2682 | 202 | 8.15% | 6.05% | 0.64% | 11.01% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,775.7 | 3.45 | -0.19% | 2.67% | -2.02% | -6.37% |
+| Silver | 23.532 | 0.21 | -0.88% | 0.43% | -6.64% | -10.72% |
+| Platinum | 1,009.9 | 16.64 | -1.62% | 3.02% | -6.06% | -5.26% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.3185 | 0.07 | -1.56% | 0.73% | 2.57% | 22.72% |
+| Coal | 172.25 | 1 | 0.58% | 7.02% | 19.20% | 113.98% |
+| Steel | 5,330 | 13 | -0.24% | -1.11% | 7.68% | 26.30% |
+| Iron Ore | 160.5 | 4 | -2.43% | -7.49% | -27.21% | 1.26% |
+| Aluminum | 35,350.0 | 120 | -0.34% | 1.70% | 8.48% | 74.01% |
+| Iron Ore Fe62% | 19000 | 0 | 0.00% | 0.00% | -3.55% | 11.76% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.17855 | 0.001 | -0.08% | 0.42% | -0.23% | -3.53% |
+| GBP/USD | 1.38585 | 0.0004 | -0.03% | 0.09% | 0.71% | 1.35% |
+| USD/JPY | 109.33 | 0.268 | -0.24% | -0.88% | -0.51% | 5.89% |
+| USD/CNY | 6.47875 | 0.0031 | 0.05% | -0.10% | -0.24% | -0.36% |
+| USD/CHF | 0.91549 | 0.0003 | 0.03% | -0.57% | -0.34% | 3.44% |
+| USD/SGD | 1.35601 | 0.0013 | 0.09% | -0.09% | -0.57% | 2.56% |
+| USD/KRW | 1160.99 | 3.655 | 0.32% | 1.60% | 1.24% | 7.09% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 527.00 | 412.00 | 572.50 | $115.0 |
+| Rotterdam | 504.00 | 403.50 | 569.00 | $100.5 |
+| Fujairah | 522.50 | 433.00 | 644.00 | $89.5 |
+| Houston | 503.00 | 399.50 | 595.00 | $103.5 |

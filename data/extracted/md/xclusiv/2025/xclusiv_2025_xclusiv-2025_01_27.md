@@ -236,3 +236,69 @@ UK based buyers acquired the Suezmax “Nordic Apollo” - 160K/2003 Samsung for
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 3.7% at 43,488 points, S&P 500 went up by 2.91% at 5,997 points and NASDAQ rise by 2.45% at 19,630 points. The Euro Stoxx50 closed up by 3.44% at 5,148 points and Stoxx600 up by 2.37% at 524 points mark. In Asia, the Nikkei closed the week at 38,451, losing 1.89% on a weekly basis, while Hang Seng went up by 2.73% at 19,584 points mark and the CSI 300 index closed the week at 3,812 points, 2.14% higher than pre-vious week.
+- WTI crude oil futures fell to around USD 74 per barrel , after logging its first weekly drop this year, as President Donald Trump ignited trade concerns and demanded OPEC+ to lower crude prices. Following a dispute over migrants, Trump an-nounced plans to impose tariffs and sanctions on Colombia, but the White House paused its actions after the South Ameri-can nation agreed to accept deported migrants from the U.S. This, along with the ongoing threats of tariffs on major econo-mies such as China, Canada, and Mexico, has heightened con-cerns about global economic growth and energy demand.
+- European natural gas futures traded below €50 per megawatt -hour as liquefied natural gas (LNG) tankers rerouted to Eu-rope, seeking profit amid supply shortages caused by halted Russian pipeline flows through Ukraine. Data from ICIS showed that at least seven US LNG cargoes, initially bound for Asia or Colombia, changed course to European ports.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 74.56 | -2.48% | 3.96% |
+| Brent | 78.40 | -1.72% | 5.04% |
+| Natural gas | 3.76 | -1.09% | 3.41% |
+| Gasoline | 2.05 | -2.94% | 1.70% |
+| Heating oil | 2.47 | -5.20% | 6.54% |
+| Ethanol | 1.72 | -1.01% | 1.78% |
+| Naphtha | 652.36 | 0.03% | 6.68% |
+| Propane | 0.90 | -2.84% | 16.14% |
+| Uranium | 71.80 | -2.91% | -1.64% |
+| Methanol | 2,579 | -1.86% | -6.79% |
+| TTF Gas | 48.77 | 2.26% | -3.28% |
+| UK Gas | 122.06 | 0.94% | -2.65% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 2756.99 | 1.72% | 5.05% |
+| Silver | 30.29 | -1.00% | 4.80% |
+| Platinum | 937.70 | -1.48% | 4.90% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 4.26 | -1.83% | 6.83% |
+| Coal | 116.35 | -0.77% | -7.11% |
+| Steel | 3306.00 | -0.15% | -0.12% |
+| Iron Ore | 101.34 | 0.13% | -2.19% |
+| Aluminum | 2,626 | -2.43% | 2.90% |
+| LithiumCNY/T | 77,800 | -0.06% | 3.66% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.05 | 0.65% | 1.21% |
+| GBP/USD | 1.25 | 1.08% | -0.46% |
+| USD/JPY | 155.07 | -0.35% | -1.46% |
+| USD/CNY | 7.26 | 0.01% | -1.00% |
+| USD/CHF | 0.90 | -0.52% | -0.55% |
+| USD/SGD | 1.35 | -0.75% | -1.42% |
+| USD/KRW | 1432.26 | -0.48% | -3.11% |
+| USD/INR | 86.35 | 0.15% | 0.90% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-o-w | % Spread w-o-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 597.00 | 515.50 | 724.00 | 81.50 | -10.5 | -11.4% |
+| Rotterdam | 547.50 | 470.00 | 696.00 | 77.50 | -3.0 | -3.7% |
+| Fujairah | 585.50 | 484.00 | 772.50 | 101.50 | -4.0 | -3.8% |
+| Houston | 581.50 | 475.50 | 756.00 | 106.00 | -10.0 | -8.6% |

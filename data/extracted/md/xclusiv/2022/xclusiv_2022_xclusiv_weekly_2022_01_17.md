@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_01_17.pdf
 source_sha256: b0884e801927976409a41d207c8f63720e0daafddca4e5012a53a845a060a451
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:28Z'
 ---
@@ -181,3 +181,72 @@ On the tanker side, it was a rare, interesting week with many transactions being
 | Tankers | Bangladesh | $595 | $595 | 0 |
 | Tankers | Pakistan | $595 | $595 | 0 |
 | Tankers | Turkey | $330 | $330 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 0.9% at 35,912 points, the &P 500 went down by 0.3% at 4,663 points and NASDAQ fell by 0.27% at 14,894 points. The main European indices closed as previous week, with the Euro Stoxx50 closing down by only 0.78% at 4,272 points and Stoxx600 down by 0.97% at 481 points mark. In Asia, the Nikkei closed the week at 28,334, losing 0.51% on a weekly basis, while Hang Seng went up by 3.06% at 24,212 points mark and the CSI 300 index closed the week at 4,725 points, 2.01% lower than previous week.
+- WTI crude currently trades at just below $84/barrel, close to a multi-year high reached in October 2021 as the bull run in oil prices continued unabated. With the recovery of demand, analysts expect crude prices to continue to rise but warn that higher prices could also provoke political intervention.
+- Heating Oil trading above $2.64/Gal, reaching an 8-year high, with cold temperatures pushing seasonal demand to very high levels.
+- China’s economy grew by 8.1% in 2021 as industrial production rose steadily through the end of the year and offset a drop off in retail sales. The growth was faster than the yearly forecast 8.0% and well above the government’s target of "above 6%" and 2020's revised growth of 2.2%. Fourth-quarter GDP rose by 4% y-on-y, faster than the 3.6% increase forecast but easing from a 4.9 percent growth in the previous quarter.
+- As the country steps-up efforts to contain emissions in its mammoth ferrous sector, China's annual crude steel production fell for the first time in six years in 2021. Last year, the National Bureau of Statistics (NBS) reported that China produced 1.03 billion tonnes of crude steel, a decline of 3% from the 1.065 billion tonnes produced in 2020.The country had pledged to reach its carbon peak by 2030, so Beijing has urged the industry to keep full-year steel production at no more than the previous year's levels to reduce pollutants and greenhouse gas emissions.
+- As investors continue to monitor weather forecasts and hope supplies won't be disrupted by the Russian- Ukrainian crisis after the US discussed contingency plans for supplying natural gas to Europe, natural gas prices in Europe fell below €83/megawatt-hour, extending a 1.7% drop from previous week. Furthermore, a proposed LNG import terminal in Germany has been unable to reach investment decision, delaying operations expected to start this month, adding to uncertainty about Germany's ability to reduce its dependence on Russian gas.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 83.82 | 1.7 | 2.07% | 6.24% | 18.62% | 11.45% |
+| Brent | 86.06 | 1.59 | 1.88% | 5.27% | 16.64% | 10.65% |
+| Natural gas | 4.221 | -0.042 | -0.98% | 7.79% | 12.23% | 13.16% |
+| Gasoline | 2.4211 | 0.0398 | 1.67% | 5.32% | 14.62% | 8.83% |
+| Heating oil | 2.6343 | 0.0258 | 0.99% | 6.14% | 18.83% | 13.29% |
+| Ethanol | 2.19 | 0.035 | 1.62% | -0.91% | -24.48% | -27.00% |
+| Naphtha | 763.45 | 7.22 | 0.95% | 3.69% | 11.15% | 9.37% |
+| Propane | 1.15 | 0 | -0.17% | 3.21% | 10.77% | 10.46% |
+| Uranium | 46.5 | 0 | 0.00% | 0.32% | 5.56% | 6.53% |
+| Methanol | 2580 | 76 | 3.04% | 1.74% | -3.59% | 3.78% |
+| TTF Gas | 83.47 | -1.99 | -2.33% | -5.33% | -36.90% | 18.66% |
+| UK Gas | 203 | -1.97 | -0.96% | -5.56% | -39.41% | 18.96% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,817.3 | -4.8 | -0.26% | 1.21% | 2.26% | -0.61% |
+| Silver | 22.952 | -0.12 | -0.52% | 2.92% | 4.09% | -1.36% |
+| Platinum | 970.1 | 0.59 | 0.06% | 1.56% | 5.62% | 0.78% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.4205 | -0.1255 | -2.76% | 0.24% | 5.77% | -0.96% |
+| Coal | 220.0 | 10.5 | 5.01% | 12.82% | 33.54% | 29.72% |
+| Steel | 4,620 | -19 | -0.41% | -0.58% | 7.37% | 1.58% |
+| Iron Ore | 127 | 0 | 0.00% | 4.53% | 17.05% | 9.48% |
+| Aluminum | 2,976.5 | 24.5 | 0.83% | 2.13% | 14.61% | 6.02% |
+| Iron Ore Fe62% | 126.24 | -1.6 | -1.25% | 0.02% | 15.58% | 12.21% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.14152 | -0.0044 | -0.38% | 0.48% | 1.08% | 0.39% |
+| GBP/USD | 1.36755 | -0.0039 | -0.28% | 0.63% | 3.09% | 1.14% |
+| USD/JPY | 114.18 | 0.07 | 0.06% | -1.18% | 0.02% | -0.80% |
+| USD/CNY | 6.35743 | -0.0054 | -0.09% | -0.39% | -0.26% | -0.10% |
+| USD/CHF | 0.91389 | 0.0032 | 0.35% | -0.49% | -1.12% | 0.21% |
+| USD/SGD | 1.34592 | 0.0003 | 0.02% | -0.66% | -1.42% | -0.13% |
+| USD/KRW | 1185.7 | 2.3 | 0.20% | -1.01% | 0.42% | 0.06% |
+| USD/INR | 74.151 | 0.1955 | 0.26% | -0.16% | -2.87% | -0.42% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 677.50 | 480.50 | 738.00 | 197.00 | 25.5 | 14.9% |
+| Rotterdam | 618.00 | 471.00 | 749.00 | 147.00 | 24.5 | 20.0% |
+| Fujairah | 670.50 | 501.00 | 812.50 | 169.50 | 16.0 | 10.4% |
+| Houston | 626.00 | 533.50 | 796.00 | 92.50 | -13.0 | -12.3% |

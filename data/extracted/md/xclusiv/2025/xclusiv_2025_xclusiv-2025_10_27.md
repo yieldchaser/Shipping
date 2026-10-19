@@ -249,3 +249,68 @@ In the MR2 segment, the Ice Class 1A sisters “Seaways Gatun” - 48K/2007 HMD 
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 2.2% at 47,207 points, S&P 500 went up by 1.92% at 6,792 points and NASDAQ rise by 2.31% at 23,205 points. In Europe, the Euro Stoxx50 closed higher by 1.2% at 5,675 points and Stoxx600 up by 1.68% at 576 points mark. In Asia, the Nikkei closed the week at 49,300, gaining 3.61% on a weekly basis, while Hang Seng went up by 3.62% at 26,160 points and the CSI 300 index closed the week at 4,661 points, 3.24% higher than previous week.
+- WTI crude fell below $61 per barrel on Monday as supply con-cerns overshadowed optimism over a potential US-China trade deal. Prices briefly rose after Treasury Secretary Scott Bessent said a “substantial framework” was reached with Vice Premier He Lifeng ahead of this week’s leaders’ meeting. Gains faded as the IEA projected a continued market surplus, with rising output from the “American quintet” outweighing demand despite new US sanctions on Rosneft and Lukoil.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 57.11 | -3.96% | -20.33% |
+| Brent | 60.85 | -3.85% | -18.43% |
+| Natural gas | 3.19 | 2.54% | -11.99% |
+| Gasoline | 1.83 | -1.34% | -9.30% |
+| Heating oil | 2.19 | -2.69% | -5.52% |
+| Ethanol | 1.68 | -5.08% | -0.59% |
+| Naphtha | 516.14 | -2.24% | -15.59% |
+| Propane | 0.64 | -1.36% | -17.63% |
+| Uranium | 78.00 | -1.14% | 6.85% |
+| Methanol | 2,240 | 0.40% | -19.05% |
+| TTF Gas | 31.68 | 0.66% | -37.20% |
+| UK Gas | 80.10 | -0.14% | -36.12% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4275.13 | 4.04% | 62.97% |
+| Silver | 51.95 | -0.78% | 79.92% |
+| Platinum | 1604.90 | -4.61% | 79.59% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 4.95 | -3.13% | 24.36% |
+| Coal | 103.45 | -1.05% | -17.41% |
+| Steel | 3029.00 | -0.98% | -8.49% |
+| Iron Ore | 105.35 | -0.37% | 1.68% |
+| Aluminum | 2,767 | -0.15% | 8.39% |
+| LithiumCNY/T | 74,000 | 1.23% | -1.40% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.166 | 0.76% | 12.54% |
+| GBP/USD | 1.341 | 0.59% | 7.13% |
+| USD/JPY | 150.722 | -1.04% | -4.23% |
+| USD/CNY | 7.127 | -0.15% | -2.87% |
+| USD/CHF | 0.792 | -1.47% | -12.67% |
+| USD/SGD | 1.294 | -0.32% | -5.22% |
+| USD/KRW | 1423.01 | -0.24% | -3.74% |
+| USD/INR | 87.886 | -0.88% | 2.70% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-o-w | % Spread w-o-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 461.00 | 410.50 | 717.50 | 50.50 | -11.0 | -17.9% |
+| Rotterdam | 441.50 | 418.00 | 680.00 | 23.50 | -5.5 | -19.0% |
+| Fujairah | 454.50 | 384.00 | 752.50 | 70.50 | 10.5 | 17.5% |
+| Houston | 464.50 | 417.00 | 674.00 | 47.50 | 8.5 | 21.8% |

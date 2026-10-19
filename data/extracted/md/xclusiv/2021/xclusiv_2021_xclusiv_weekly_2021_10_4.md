@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_10_4.pdf
 source_sha256: 57069f37c0c8c0d48e18c334c2c996440fb897d2b44ba5ea4177f348d425b449
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:07Z'
 ---
@@ -185,3 +185,71 @@ TC TC T T TC /TC C T TC /TC
 | Tankers | Bangladesh | $600 | $610 | (10.0) |
 | Tankers | Pakistan | $595 | $605 | (10.0) |
 | Tankers | Turkey | $280 | $290 | (10.0) |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- All 3 major US indices had a negative week, the Nasdaq Composite Index closed the week at 14,566.70, the S&P 500 Index closed at 4,357.04 and the Dow Jones Industrial closed at 34,326.46.
+- Coal is at all-time high of USD 218/ton. Noting that w-on-w increase is 17%, m-on-m is 27% and y-on-y is 171%. Coal accounts for over 55% of China’s and about 70% of Ind ndia’s electricity output, adding yet more pressure on power utilities unable to recoup added fuel costs.
+- Heating oil is trading at USD 2,38/gallon, the highest since October 2018.
+- OPEC+ during its next e-meeting on Oct 4th, may consider going beyond its existing deal boosting production by 400,000bpd/month. OPEC+ has demonstrated a clear reluctance to oversupply a fragile demand recovery, & monthly meetings provide flexibility to add production quickly as markets require.
+- Skyrocketing global natural gas prices are spilling over into the oil market, with some power plants switching feedstock to fuel oil, while China's central government officials ordered the country's top state-owned energy companies to switch from coal to electricity and oil, on order to secure supplies for this winter at all costs.
+- US regular gasoline retail prices averaged $3.16/gal in August, the highest monthly average since October 2014, according to the US Energy Information Administration.
+- Over the past months, some shippers have opted for creative means to get their goods to the market. Bulk carriers repurposed to carry containers & big retailer names like Walmart, Ikea & Home Depot are chartering their own containerships. Now Coca-Cola becomes the latest global mega-brand to decide to switch their crucial materials shipments from regular liners, to three handysize bulk carriers, helping to keep its production lines running across the world.
+- Semiconductor chip shortage is causing a reduction in production of an estimated 6.3 - 7.7 million vehicles, for 2021, which in turn is expected to take a toll on automotive steel demand. It is expected that chip material shortages will not be resolved fully until late 2022, if not later.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 75.88 | 0.85 | 1.13% | 2.57% | 8.42% | 56.39% |
+| Brent | 79.28 | 0.97 | 1.24% | 1.52% | 8.56% | 53.05% |
+| Natural gas | 5.544 | -0.323 | -5.51% | 7.86% | 19.46% | 118.35% |
+| Gasoline | 2.244 | 0.05 | 2.28% | 2.58% | 3.72% | 59.14% |
+| Heating oil | 2.3827 | 0.0442 | 1.89% | 5.10% | 9.92% | 60.56% |
+| Ethanol | 2.207 | 0 | 0.00% | 0.00% | -0.59% | 54.01% |
+| Naphtha | 714.45 | 35.65 | 5.25% | 5.49% | 9.36% | 65.11% |
+| Propane | 1.49 | 0.2 | 15.35% | 16.71% | 25.63% | 130.74% |
+| Uranium | 43.55 | -0.4 | -0.91% | -1.69% | 17.07% | 41.86% |
+| Methanol | 3487 | 77 | 2.26% | 12.99% | 30.21% | 44.33% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,760.6 | 3.98 | 0.23% | 0.62% | -2.69% | -7.16% |
+| Silver | 22.52 | 0.32 | 1.44% | 0.47% | -5.70% | -14.56% |
+| Platinum | 972.0 | 8.61 | 0.89% | -1.02% | -2.70% | -8.81% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.1935 | 0.1035 | 2.53% | -2.11% | -2.25% | 19.17% |
+| Coal | 218 | 6 | 2.83% | 17.27% | 26.74% | 170.81% |
+| Steel | 5,835 | 32 | 0.55% | -0.39% | 11.50% | 38.27% |
+| Iron Ore | 110 | 0 | 0.00% | 0.92% | -24.40% | -30.60% |
+| Aluminum | 2,870.3 | 20.5 | 0.72% | -1.91% | 6.94% | 44.91% |
+| Iron Ore Fe62% | 115.76 | -3.89 | -3.25% | -3.61% | -17.63% | -25.72% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.15929 | 0.0018 | 0.16% | -1.09% | -2.36% | -5.11% |
+| GBP/USD | 1.35434 | 0.0075 | 0.56% | -0.91% | -2.10% | -0.95% |
+| USD/JPY | 48139.26 | 431.95 | 0.91% | 11.42% | -3.61% | 66.04% |
+| USD/CNY | 110.95 | -0.47 | -0.43% | 0.20% | 0.92% | 7.46% |
+| USD/CHF | 6.43448 | -0.0147 | -0.23% | -0.45% | -0.23% | -1.04% |
+| USD/SGD | 8.8197 | -0.0665 | -0.75% | -0.66% | 6.61% | 18.67% |
+| USD/KRW | 94.064 | -0.166 | -0.18% | 0.79% | 1.99% | 4.59% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 572.00 | 496.00 | 663.50 | $76.0 |
+| Rotterdam | 556.00 | 447.00 | 658.00 | $109.0 |
+| Fujairah | 563.50 | 489.00 | 677.50 | $74.5 |
+| Houston | 558.50 | 423.00 | 689.00 | $135.5 |

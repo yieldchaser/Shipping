@@ -233,3 +233,69 @@ Tanker S&P activity was firm this week. On the VLCC sector, the “Sea Leopard�
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 1.7% at 51,683 points, S&P 500 went down by 0.08% at 7,651 points and NASDAQ rise by 0.72% at 26,523 points. The main European indices closed lower like the previous week, with the Euro Stoxx50 closing down by 1.41% at 6,236 points and Stoxx600 down by 0.57% at 635 points mark. In Asia, the Nik-kei closed the week at 65,019, gaining 1.57% on a weekly ba-sis, while Hang Seng went down by 0.22% at 24,751 points mark and the CSI 300 index closed the week at 4,507 points, 0.06% lower than previous week.
+- Crude oil slipped toward $98/bbl on Monday, marking a fourth consecutive decline as hopes increased that renewed diplomacy could ease the Middle East conflict and restore regional energy flows. President Trump said he may meet Ira-nian President Masoud Pezeshkian at the UN General Assem-bly, while Gulf leaders called for greater cooperation. Mean-while, US Central Command reported that oil and LNG ship-ments through the Strait of Hormuz reached their highest lev-el in six months.
+- European natural gas prices fell below €77/MWh on Monday, reversing most of the previous session’s gains as traders mon-itored diplomatic efforts to ease the Middle East conflict. President Trump signalled openness to meeting Iranian Presi-dent Masoud Pezeshkian at the UN General Assembly. Mean-while, LNG supply risks remain elevated due to restricted Hor-muz flows, European storage at around 68.5%, strong Asian competition and Norwegian maintenance, leaving prices vul-nerable to further volatility.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 98.45 | -2.90% | 71.45% |
+| Brent | 101.89 | -3.55% | 67.50% |
+| Natural gas | 2.88 | -0.50% | -21.83% |
+| Gasoline | 3.44 | 3.78% | 101.21% |
+| Heating oil | 4.93 | -0.54% | 132.61% |
+| Ethanol | 2.10 | 1.69% | 32.28% |
+| Naphtha | 839.26 | -1.87% | 71.85% |
+| Propane | 0.84 | -1.52% | 31.87% |
+| Uranium | 89.70 | -0.50% | 9.86% |
+| Methanol | 3387.00 | -1.28% | 54.66% |
+| TTF Gas | 76.06 | -7.88% | 170.08% |
+| UK Gas | 188.79 | -8.00% | 155.77% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4,343.9 | 0.98% | 0.49% |
+| Silver | 66.1 | 4.55% | -7.23% |
+| Platinum | 1,805.0 | 1.31% | -12.89% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 6.71 | 5.93% | 18.01% |
+| Coal | 144.00 | -1.87% | 33.95% |
+| Steel | 3097.00 | -0.32% | 0.03% |
+| Iron Ore | 97.57 | -0.46% | -8.92% |
+| Aluminum | 3293.75 | 1.41% | 10.01% |
+| LithiumCNY/T | 134400.00 | -3.07% | 13.42% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.148 | -0.61% | -2.23% |
+| GBP/USD | 1.338 | -0.85% | -0.57% |
+| USD/JPY | 157.287 | 1.91% | 0.35% |
+| USD/CNY | 6.695 | -0.22% | -4.04% |
+| USD/CHF | 0.823 | 0.69% | 3.81% |
+| USD/SGD | 1.276 | 0.42% | -0.82% |
+| USD/KRW | 1373.120 | 1.88% | -4.69% |
+| USD/INR | 95.933 | 0.10% | 6.75% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- | Diff Spread | % Spread |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 893.50 | 728.00 | 1395.5 | 165.50 | 8.5 | 5.4% |
+| Rotterdam | 710.00 | 600.50 | 1482.5 | 109.50 | 10.5 | 10.6% |
+| Fujairah | 995.50 | 720.50 | 1705.0 | 275.00 | 36.0 | 15.1% |
+| Houston | 782.50 | 527.00 | 1481.0 | 255.50 | 15.5 | 6.5% |

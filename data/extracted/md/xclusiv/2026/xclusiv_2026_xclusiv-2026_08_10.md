@@ -228,3 +228,69 @@ The tanker S&P market remained quiet this week, with no sales to report.
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 3% at 54,037 points, S&P 500 went up by 3.58% at 7,758 points and NASDAQ rise by 5.19% at 26,691 points. In Europe, the Euro Stoxx50 closed up by 2.61% at 6,524 points and Stoxx600 up by 1.7% at 660 points mark. In Asia, the Nikkei closed the week at 65,607, gaining 1.93% on a weekly basis, while Hang Seng went down by 0.84% at 25,668 points mark and the CSI 300 index closed the week at 4,694 points, 2.32% higher than previous week.
+- Crude oil rose about 1% to settle at $78.2 per barrel on Fri-day, but still recorded a more than 7% decline over the week. Prices remained highly sensitive to developments surrounding a potential Iran-Oman agreement to restore shipping through the Strait of Hormuz, which could return millions of barrels of Middle Eastern oil to global markets.
+- Thermal coal futures fell below $130 per ton in early August, hitting three-week lows as India’s coal production increased 7.51% year-on-year to 69.75 million tons in July, strengthen-ing domestic supply and reducing the country’s reliance on imported coal. India also delivered larger coal volumes to power plants and other downstream consumers.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 79.32 | -1.36% | 38.02% |
+| Brent | 84.70 | 1.04% | 39.09% |
+| Natural gas | 2.77 | -0.64% | -25.04% |
+| Gasoline | 3.04 | 2.31% | 77.41% |
+| Heating oil | 4.02 | 3.55% | 89.25% |
+| Ethanol | 1.97 | 1.03% | 24.09% |
+| Naphtha | 717.12 | -7.87% | 46.84% |
+| Propane | 0.68 | -0.97% | 7.52% |
+| Uranium | 86.50 | -0.12% | 5.94% |
+| Methanol | 2509.00 | -2.22% | 14.57% |
+| TTF Gas | 58.43 | 1.43% | 107.11% |
+| UK Gas | 143.57 | 1.23% | 93.41% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4,338.1 | 7.00% | 0.44% |
+| Silver | 64.0 | 10.88% | -10.24% |
+| Platinum | 1,748.3 | 7.51% | -15.54% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 6.60 | 1.33% | 16.17% |
+| Coal | 127.85 | -4.59% | 18.93% |
+| Steel | 2997.00 | 0.67% | -3.20% |
+| Iron Ore | 94.45 | -3.62% | -11.84% |
+| Aluminum | 3323.50 | 2.99% | 10.89% |
+| LithiumCNY/T | 144500.00 | 3.21% | 21.94% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.156 | 0.41% | -1.57% |
+| GBP/USD | 1.350 | 0.50% | 0.30% |
+| USD/JPY | 158.755 | 1.02% | 1.29% |
+| USD/CNY | 6.745 | -0.20% | -3.32% |
+| USD/CHF | 0.808 | -0.24% | 1.95% |
+| USD/SGD | 1.279 | -0.24% | -0.54% |
+| USD/KRW | 1417.520 | -0.83% | -1.60% |
+| USD/INR | 95.292 | -0.05% | 6.02% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- | Diff Spread | % Spread |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 821.50 | 588.50 | 1139.5 | 233.00 | -22.5 | -8.8% |
+| Rotterdam | 636.50 | 514.50 | 1156.0 | 122.00 | -28.0 | -18.7% |
+| Fujairah | 792.00 | 596.50 | 1296.5 | 195.50 | -15.0 | -7.1% |
+| Houston | 683.00 | 471.50 | 1128.0 | 211.50 | -36.0 | -14.5% |

@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_02_07.pdf
 source_sha256: 0b286aeade4c8747e44378bf2b8116725ccd27363571888117eb4ab6718a25b8
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:33Z'
 ---
@@ -178,3 +178,73 @@ Noteworthy is the sale of the VLCC “New Inspiration”- 298K/2002 Hitachi (40,
 | Tankers | Bangladesh | $640 | $620 | 20 |
 | Tankers | Pakistan | $620 | $605 | 15 |
 | Tankers | Turkey | $340 | $340 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 1.05% at 35,090 points, S&P 500 went up by 1.54% at 4,501 points and NASDAQ rise by 2.38% at 14,098 points. The main European indices closed almost the same as previous week, with the Euro Stoxx50 closing down by only 1.22% at 4,087 points and Stoxx600 down by 0.73% at 462 points mark. In Asia, the Nikkei closed the week at 27,249, gaining 2.01% on a weekly basis, while Hang Seng went up by 3.92% at 24,481 points mark and the CSI 300 index closed the week at 4,564 points, the same level as the previous week.
+- The yield on the benchmark 10-year Treasury note edged up to 1.92%, the highest in 2 years, as investors await US inflation data and continue to expect the Fed will need to raise rates faster to tackle soaring consumer prices.
+- Steel rebar futures rose above CNY 4,800 per tonne, the highest level in nearly 15 weeks, due to prospects of higher demand following China's announcement to increase iron ore production and lift steel scrap utilization.
+- Spot prices of iron ore extended its gains to above $140/ton, a level not seen since Sep 2021, with market participants anticipating a return in demand when construction projects resume and pace picks up.
+- Coal futures trading around $230 per tonne, close to levels not seen since October 2021 and 40 dollars short of the peak seen in 2013, as a global energy crunch drove prices higher and increased the cost of fueling coal-burning power plants.
+- In January 2022, the Caixin China General Services PMI fell to 51.4 from 53.1 in December. As a result of recent COVID-19 outbreaks and efforts to curb the spread of the virus, this was the weakest increase in five months of growth in services activity.
+- Inflation in the euro zone rose faster than expected in January, putting more pressure on the European Central Bank to taper off its pandemic stimulus more quickly than scheduled. Consumer prices jumped by 5.1% from a year ago, up from 5% in December.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 92.3 | 2.01 | 2.16% | 5.79% | 18.56% | 61.57% |
+| Brent | 93.27 | 2.16 | 2.37% | 5.05% | 15.96% | 56.71% |
+| Natural gas | 4.572 | -0.316 | -4.51% | -6.46% | 12.47% | 52.50% |
+| Gasoline | 2.6931 | 0.0146 | 0.55% | 6.12% | 17.22% | 63.29% |
+| Heating oil | 2.8751 | 0.0356 | 1.25% | 6.00% | 18.85% | 67.77% |
+| Ethanol | 2.0375 | 0.0325 | 1.62% | -5.67% | -6.54% | 22.37% |
+| Naphtha | 839.29 | 12.55 | 1.52% | 8.35% | 15.48% | 57.63% |
+| Propane | 1.29 | 0 | 0.27% | 10.30% | 16.88% | 48.86% |
+| Uranium | 43.95 | -0.05 | -0.11% | -2.01% | -3.19% | 48.23% |
+| Methanol | 2788 | 30 | 1.09% | 2.61% | 8.19% | 20.43% |
+| TTF Gas | 82.65 | 2.43 | 3.03% | -10.22% | -9.69% | 349.68% |
+| UK Gas | 200.49 | 7.73 | 4.01% | -8.63% | -10.28% | 316.21% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,810.2 | 2.72 | 0.15% | 1.07% | 0.04% | -0.08% |
+| Silver | 22.596 | 0.116 | 0.52% | 0.89% | 1.33% | -17.09% |
+| Platinum | 1,024.1 | -9.32 | -0.90% | 1.63% | 4.23% | -8.86% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.4875 | 0.0165 | 0.37% | 4.12% | 1.68% | 23.76% |
+| Coal | 227.0 | 6 | 2.71% | -0.29% | 26.11% | 161.97% |
+| Steel | 4,778 | 42 | 0.89% | 0.74% | 4.90% | 14.01% |
+| Iron Ore | 143.5 | 0 | 0.00% | 5.90% | 20.59% | -7.72% |
+| Aluminum | 3,074.0 | 24 | 0.79% | -0.28% | 5.20% | 52.33% |
+| Iron Ore Fe62% | 145.45 | -0.5 | -0.34% | 11.19% | 17.17% | -5.49% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.14556 | 0.0004 | 0.04% | 2.75% | 0.83% | -4.91% |
+| GBP/USD | 1.35339 | 0.0007 | 0.05% | 0.99% | -0.41% | -1.45% |
+| USD/JPY | 115.236 | 0.04 | 0.03% | -0.03% | -0.27% | 9.35% |
+| USD/CNY | 6.36283 | 0.0016 | 0.02% | -0.12% | -0.17% | -1.47% |
+| USD/CHF | 0.92551 | 0.0051 | 0.55% | -0.59% | 0.90% | 2.96% |
+| USD/SGD | 1.3451 | 0.0007 | 0.05% | -0.76% | -0.93% | 0.82% |
+| USD/KRW | 1194.43 | -2.01 | -0.17% | -1.25% | -0.31% | 6.95% |
+| USD/INR | 74.64 | 0.001 | 0.00% | -0.53% | 0.48% | 2.51% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 726.00 | 526.00 | 810.50 | 200.00 | 40.0 | 25.0% |
+| Rotterdam | 692.00 | 520.50 | 828.00 | 171.50 | 30.5 | 21.6% |
+| Fujairah | 733.50 | 538.00 | 864.00 | 195.50 | 33.0 | 20.3% |
+| Houston | 698.00 | 553.00 | 885.50 | 145.00 | 34.0 | 30.6% |

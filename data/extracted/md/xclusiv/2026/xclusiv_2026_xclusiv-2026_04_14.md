@@ -252,3 +252,69 @@ On the Suezmax sector, the “STENA SURPRISE” - 158K/2012 Sungdong was sold fo
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 3% at 47,917 points, S&P 500 went up by 3.56% at 6,817 points and NASDAQ rise by 4.68% at 22,903 points. The main Euro-pean indices closed higher than previous week, with the Euro Stoxx50 closing up by 4.1% at 5,926 points and Stoxx600 up by 3.05% at 615 points mark. In Asia, the Nikkei closed the week at 56,924, gaining 7.15% on a weekly basis, while Hang Seng went up by 3.09% at 25,894 points mark and the CSI 300 index closed the week at 4,637 points, 4.41% higher than pre-vious week.
+- WTI crude fell below $97 on Tuesday as signs of renewed US– Iran talks eased market tensions, despite Washington’s block-ade of the Strait of Hormuz. Negotiations may resume before a two-week ceasefire expires, with potential talks in Pakistan. While the conflict has disrupted flows and cut output sharply, the IEA warned it could wipe out global demand growth, sug-gesting prices may still underestimate the scale of the shock.
+- Thermal coal futures from Australia held above $130/ton in April, sustaining March’s rally as the Middle East war disrupt-ed gas supply chains. Attacks on LNG and LPG tankers transit-ing Hormuz, alongside strikes on Qatar’s processing facilities, sharply reduced feedstock availability for Asian gas-fired pow-er plants. In response, major importers such as Japan and Ko-rea accelerated coal switching, supporting demand for higher-grade Newcastle exports, while China and India remained more stable buyers.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 96.46 | -14.64% | 67.92% |
+| Brent | 98.18 | -10.10% | 61.43% |
+| Natural gas | 2.58 | -9.98% | -29.91% |
+| Gasoline | 3.08 | -7.01% | 79.64% |
+| Heating oil | 3.80 | -14.83% | 79.75% |
+| Ethanol | 1.94 | -2.39% | 22.05% |
+| Naphtha | 932.24 | -6.37% | 90.89% |
+| Propane | 85.40 | 0.29% | 4.59% |
+| Uranium | 0.79 | 2.49% | 23.39% |
+| Methanol | 3122.00 | -12.13% | 42.56% |
+| TTF Gas | 44.79 | -15.87% | 59.07% |
+| UK Gas | 112.27 | -16.75% | 52.27% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4,776.2 | 1.46% | 10.58% |
+| Silver | 77.8 | 6.56% | 9.07% |
+| Platinum | 2,095.0 | 7.67% | 1.32% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 6.02 | 8.71% | 6.08% |
+| Coal | 135.45 | -1.78% | 26.00% |
+| Steel | 3079.00 | -0.29% | -0.55% |
+| Iron Ore | 107.05 | -0.85% | -0.07% |
+| Aluminum | 3566.50 | 2.74% | 18.81% |
+| LithiumCNY/T | 161500.00 | 1.57% | 36.29% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.179 | 1.72% | 0.46% |
+| GBP/USD | 1.357 | 2.11% | 0.83% |
+| USD/JPY | 158.821 | -0.50% | 1.32% |
+| USD/CNY | 6.810 | -0.68% | -2.39% |
+| USD/CHF | 0.781 | -2.14% | -1.53% |
+| USD/SGD | 1.271 | -0.88% | -1.16% |
+| USD/KRW | 1470.440 | -1.76% | 2.06% |
+| USD/INR | 93.086 | 0.19% | 3.58% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- | Diff Spread | % Spread |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 762.00 | 671.50 | 1585.0 | 90.50 | -33.0 | -26.7% |
+| Rotterdam | 687.50 | 663.00 | 1318.0 | 24.50 | 8.5 | 53.1% |
+| Fujairah | 748.00 | 632.00 | 1564.5 | 116.00 | -18.0 | -13.4% |
+| Houston | 849.00 | 648.50 | 1246.0 | 200.50 | -14.5 | -6.7% |

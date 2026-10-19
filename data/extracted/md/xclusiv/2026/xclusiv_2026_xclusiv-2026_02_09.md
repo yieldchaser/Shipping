@@ -237,3 +237,69 @@ Activity remained firm this week with a total of 10 tanker transactions reported
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 2.5% at 50,116 points, S&P 500 went down by 0.1% at 6,932 points and NASDAQ fell by 1.84% at 23,031 points. In Europe, the Euro Stoxx50 closed up by 0.85% at 5,998 points and Stoxx600 up by 1% at 617 points mark. In Asia, the Nikkei closed the week at 54,254, gaining 1.75% on a weekly basis, while Hang Seng went down by 3.02% at 26,560 points mark and the CSI 300 index closed the week at 4,644 points, 1.33% lower than previous week.
+- WTI crude climbed above $63.5/bbl as markets reassessed geopolitical risk premia. Optimism emerged after US Presi-dent Trump signaled progress in talks with Iran over curbing uranium enrichment. Prices had surged in recent weeks amid fears of tighter US sanctions on Iranian oil and potential tank-er disruptions in the Strait of Hormuz. These risks outweighed expectations of an oversupplied market in 2026, despite high-er OPEC output and strong production growth from the US, Canada, and Brazil, while uncertainty persists over India’s oil imports amid US–Russia trade tensions.
+- Steel rebar futures dropped below CNY 3,060 per ton, hitting an eight-week low as Chinese mills scaled back operations ahead of the extended Lunar New Year holidays. The sector entered its seasonal slowdown, with blast furnaces and elec-tric-arc furnaces shutting for planned maintenance, while pol-lution alerts in parts of Hebei may trigger additional curbs. World Steel Association data showed global steel supply de-clined in 2025, largely due to China’s output cuts under its anti-involution campaign.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 63.73 | 2.58% | 11.01% |
+| Brent | 68.16 | 2.89% | 12.10% |
+| Natural gas | 3.18 | -1.32% | -13.34% |
+| Gasoline | 1.97 | 6.83% | 15.25% |
+| Heating oil | 2.40 | 1.77% | 13.20% |
+| Ethanol | 1.64 | 3.14% | 3.31% |
+| Naphtha | 550.13 | -2.00% | 12.65% |
+| Propane | 0.65 | -1.39% | 2.49% |
+| Uranium | 85.25 | -14.11% | 4.41% |
+| Methanol | 2233.00 | 1.04% | 1.96% |
+| TTF Gas | 32.98 | -2.91% | 17.04% |
+| UK Gas | 77.88 | -4.34% | 5.42% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 5,015.1 | 7.68% | 16.16% |
+| Silver | 80.3 | 1.55% | 12.88% |
+| Platinum | 2,051.6 | -2.43% | -0.82% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 5.89 | 1.06% | 3.61% |
+| Coal | 115.60 | -1.62% | 7.53% |
+| Steel | 3049.00 | -1.36% | -1.52% |
+| Iron Ore | 100.11 | -5.22% | -6.55% |
+| Aluminum | 3102.00 | 1.57% | 3.54% |
+| LithiumCNY/T | 135500.00 | -12.84% | 14.35% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.188 | 0.72% | 1.15% |
+| GBP/USD | 1.365 | -0.12% | 1.40% |
+| USD/JPY | 156.498 | 0.57% | -0.15% |
+| USD/CNY | 6.921 | -0.32% | -0.80% |
+| USD/CHF | 0.771 | -1.20% | -2.81% |
+| USD/SGD | 1.269 | -0.30% | -1.36% |
+| USD/KRW | 1463.210 | 0.60% | 1.57% |
+| USD/INR | 90.621 | 0.53% | 0.83% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- | Diff Spread | % Spread |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 489.50 | 435.00 | 674.00 | 54.50 | -2.0 | -3.5% |
+| Rotterdam | 450.50 | 402.00 | 694.50 | 48.50 | 12.0 | 32.9% |
+| Fujairah | 471.00 | 411.00 | 748.50 | 60.00 | -6.5 | -9.8% |
+| Houston | 457.50 | 358.00 | 657.00 | 99.50 | -12.5 | -11.2% |

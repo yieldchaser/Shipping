@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_10_11.pdf
 source_sha256: 96ef177ede0378984c4770760e2e0410e848b36d20ab076478912a68e7d87908
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:01Z'
 ---
@@ -178,3 +178,76 @@ C C C C C C C
 | Tankers | Bangladesh | $600 | $600 | - |
 | Tankers | Pakistan | $595 | $595 | - |
 | Tankers | Turkey | $280 | $280 | - |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- The 3 major US indices increased since last week, with the Nasdaq Composite Index closing at 14,579.54, the S&P 500 Index at 4,391.34 and the Dow Jones Industrial at 34,746.25.
+- WTI crude oil price closed the week just below USD 80 a barrel, which is the highest price since November 2014.
+- With rising prices of natural gas and coal, oil will benefit as a cheaper and preferred fuel for energy-intensive industries. There are varying estimates of the potential oil demand bump, JP Morgan expects a rise as high as 2mil b/d, with 750,000b/d by March to be more realistic, International Energy Agency (IEA) estimates 200,000 b/d & says the switch will be more rampant in Indonesia, Pakistan, Mid.East & Bangladesh, & Saudi Aramco says 500,000bpd.
+- US Natural gas futures are trading around USD 5.5650/million British thermal units, with a decline of around 13% since the 7 year high we saw on 6th of October. This drop in price follows Russ ssia’s announcement to boost export supplies to Europe via Ukraine. Domestic storage of gas in the US remains below 5-year average levels.
+- Coal, on 5th Oct peaked at record high price of USD 269.5metric ton, closing the week at USD 235metric ton after a sharp drop of 12.8%. However, coal price is up by 32% m-on-m & 191% y-on-y.
+- Ind ndia’s wheat exports estimated to four-fold compared to last year & to reach highest level of the past 8 years.
+- Sugar price has increased to a 4-1/2-year high at 20.4 USd/Lbs.
+- USD dollar index high, at strong levels not seen since Sep 2020, with Euro trading at $1.155 lowest since July 2020, amidst concerns over mounting inflationary pressure due to rising energy prices and prospects of policy tightening across the globe. ECB’s ’s President Lagarde tried easing-off the market’ t’s inflation fear by mentioning that ECB expects supply shortages or rising energy prices to be transitory.
+- Japan crude steel output estimated to increase by 9.6% in Q4 2021, comparing with same period of 2020.
+- Shanghai steel is trading around CNY 5,900/tonne close to its record high (CNY 6,198 a tonne) recorded in May 2021.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 79.59 | 1.29 | 1.65% | 4.89% | 16.80% | 64.04% |
+| Brent | 82.5 | 0.63 | 0.77% | 4.06% | 15.47% | 59.27% |
+| Natural gas | 5.606 | -0.071 | -1.25% | -0.23% | 11.43% | 120.80% |
+| Gasoline | 2.3685 | 0.0341 | 1.46% | 5.27% | 12.80% | 67.97% |
+| Heating oil | 2.4737 | 0.0141 | 0.57% | 3.82% | 17.03% | 66.69% |
+| Ethanol | 2.207 | 0 | 0.00% | 0.00% | 0.00% | 54.01% |
+| Naphtha | 743.69 | 5.05 | 0.68% | 4.09% | 14.40% | 71.87% |
+| Propane | 1.46 | -0.01 | -0.41% | -1.75% | 21.77% | 126.69% |
+| Uranium | 38.5 | -1 | -2.53% | -11.60% | -4.70% | 25.41% |
+| Methanol | 3670 | 183 | 5.25% | 0.00% | 25.38% | 51.90% |
+| TTF Gas | 96.58 | -11.61 | -10.73% | -1.22% | 74.69% | 405.07% |
+| UK Gas | 245.51 | -27.94 | -10.22% | -2.26% | 75.79% | 335.30% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,756.8 | 1.5 | 0.09% | -0.20% | -2.11% | -7.37% |
+| Silver | 22.654 | 0.075 | 0.33% | 0.60% | -5.88% | -14.05% |
+| Platinum | 1,024.3 | 44.98 | 4.59% | 5.38% | 4.84% | -3.90% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.284 | 0.033 | 0.78% | 2.16% | 0.01% | 21.74% |
+| Coal | 235 | 3.1 | 1.34% | 3.07% | 32.39% | 191.93% |
+| Steel | 5,910 | 75 | 1.29% | 0.89% | 12.94% | 40.05% |
+| Iron Ore | 116 | 6 | 5.45% | 5.45% | -10.42% | -26.81% |
+| Aluminum | 2,961.0 | 17.75 | 0.60% | 3.16% | 4.43% | 49.49% |
+| Iron Ore Fe62% | 122.86 | 4.76 | 4.03% | 6.13% | -8.19% | -21.16% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.15699 | 0.001 | 0.09% | -0.20% | -2.15% | -5.29% |
+| GBP/USD | 1.3611 | -0.0003 | -0.02% | 0.50% | -1.64% | -0.46% |
+| USD/JPY | 54425.21 | 609.22 | 1.13% | 14.13% | 21.33% | 87.72% |
+| USD/CNY | 112.22 | 0.56 | 0.50% | 1.14% | 2.22% | 8.68% |
+| USD/CHF | 6.44561 | -0.0063 | -0.10% | 0.19% | -0.08% | -0.87% |
+| USD/SGD | 8.9415 | 0.0718 | 0.81% | 0.98% | 6.06% | 20.31% |
+| USD/KRW | 94.11 | -0.107 | -0.11% | 0.08% | 1.76% | 4.64% |
+| USD/INR | 20.6968 | 0.0329 | 0.16% | 1.29% | 3.81% | 4.00% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 591.50 | 519.50 | 696.50 | $72.0 |
+| Rotterdam | 578.00 | 478.00 | 693.50 | $100.0 |
+| Fujairah | 598.50 | 512.00 | 741.50 | $86.5 |
+| Houston | 595.00 | 452.00 | 739.00 | $143.0 |

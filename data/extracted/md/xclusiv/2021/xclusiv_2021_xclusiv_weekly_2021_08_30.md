@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_08_30.pdf
 source_sha256: 76ce811cde533804d1f3ba1d65b5f5ba43df2289fe0f2dd592d28d5a4a61cbce
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:13:49Z'
 ---
@@ -173,3 +173,70 @@ C C A BA K C C AC BA K C C
 | Tankers | Bangladesh | $610 | $620 | (10.0) |
 | Tankers | Pakistan | $605 | $605 | - |
 | Tankers | Turkey | $300 | $300 | - |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- All US major stock indexes were back on track booking gains. The Nasdaq Composite index and the S&P 500 index, closed the week peaking at their record highest 15,129 & 4,509 respectively. The Dow Jones Industrial average was oscillating all this week around the 35k mark, closing the week at 35,455.
+- Indian Stock Market Index (SENSEX), continued to new all-time highs, closing at 56,712 up 42% y-on-y.,
+- German economy expanded by 1.6% during 2nd Q21.
+- Trying to achieve stable liquidity conditions, the Central Bank of China increases its injections.
+- Oil showing strong weekly gains, with Brent Crude oil closing at $72.63/barrel up 11.4% w-on-w, while similarly the WTI Crude closed at $68.74/barrel showing a 10.6% weekly gain. There are prospects that fuel demand would recover as China apparently managed to curb its recent outbreak and Pfizer-BioNTech got full approval for the covid-19 vaccine from the FDA, however, fears over rising cases of the Delta strain persist as some countries in the Asia-Pacific region including Australia, Japan, and New Zealand which imposed fresh restrictions to battle new outbreaks.
+- Copper, considered an economic barometer, rose back above $4.3/pound from a 4-month low and other base metals such as Aluminum rallied to a fresh decade high above $2,650/tonne.
+- Natural Gas shot to $4.429/MMBtu practically rocketing during the past five days to its highest since Dec 2018, buoyed by hurricane Ida threat, stronger demand and as the Energy Information Administration reported a much smaller than expected storage build last week, while gasoline also significantly increased to $2.32/gallon showing a steep 12.5% w-on-w gain, approaching 7 year high levels on supply constraints and declining recovery.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 68.74 | 1.32 | 1.96% | 10.62% | -5.04% | 41.67% |
+| Brent | 72.63 | 1.56 | 2.20% | 11.43% | -1.68% | 40.21% |
+| Natural gas | 3.76 | 0.42 | -10.13% | -2.36% | -5.22% | 48.09% |
+| Gasoline | 2.2823 | 0.03 | 1.21% | 12.78% | -1.12% | 61.85% |
+| Heating oil | 2.1092 | 0.03 | 1.25% | 10.53% | -2.17% | 42.13% |
+| Ethanol | 2.22 | 0 | 0.00% | 0.00% | -4.31% | 54.92% |
+| Naphtha | 646.94 | 1.05 | 0.16% | 2.29% | -3.80% | 49.51% |
+| Propane | 1.11 | 0 | 0.24% | 1.27% | 1.95% | 72.42% |
+| Uranium | 33.75 | 0.2 | 0.60% | 2.27% | 4.17% | 9.93% |
+| Methanol | 2663 | 13 | -0.49% | 0.19% | 2.74% | 10.22% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,818.3 | 26.14 | 1.46% | 2.10% | 0.63% | -4.12% |
+| Silver | 24.028 | 0.49 | 2.07% | 4.42% | -3.61% | -8.84% |
+| Platinum | 1,007.4 | 28.01 | 2.86% | 1.14% | -5.38% | -5.49% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.3165 | 0.09 | 2.02% | 4.23% | -3.67% | 22.66% |
+| Coal | 170.95 | 0.05 | -0.03% | 1.91% | 13.89% | 112.36% |
+| Steel | 5,078 | 58 | -1.13% | 2.44% | -9.85% | 20.33% |
+| Iron Ore | 155 | 4 | 2.65% | 11.11% | -23.46% | -2.21% |
+| Aluminum | 2,653.0 | 32.25 | 1.23% | 3.89% | 3.90% | 33.94% |
+| Iron Ore Fe62% | 0 | 0 | 0.00% | 0.00% | 0.00% | 0.00% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.17959 | 0.004 | 0.34% | 0.82% | -0.41% | -3.44% |
+| GBP/USD | 1.37612 | 0.0059 | 0.43% | 1.01% | -1.03% | 0.64% |
+| USD/JPY | 109.82 | 0.238 | -0.22% | 0.04% | -0.06% | 6.36% |
+| USD/CNY | 6.46246 | 0.01945 | -0.30% | -0.56% | -0.40% | -0.61% |
+| USD/CHF | 0.91129 | 0.00646 | -0.70% | -0.61% | 0.16% | 2.96% |
+| USD/SGD | 1.34542 | 0.00867 | -0.64% | -1.14% | -0.82% | 1.76% |
+| USD/KRW | 1158.78 | 8.29907 | -0.71% | -1.08% | 1.10% | 6.89% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 535.00 | 435.50 | 566.00 | $99.5 |
+| Rotterdam | 509.50 | 405.50 | 575.50 | $104.0 |
+| Fujairah | 529.00 | 435.00 | 655.00 | $94.0 |
+| Houston | 515.00 | 407.00 | 598.50 | $108.0 |

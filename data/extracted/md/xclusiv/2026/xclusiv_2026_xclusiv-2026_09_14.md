@@ -234,3 +234,69 @@ The VLCC sector saw significant activity this week, with six sales recorded. The
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 1.6% at 52,573 points, S&P 500 went down by 0.8% at 7,657 points and NASDAQ fell by 0.66% at 26,333 points. The main European indices closed lower than the previous week, with the Euro Stoxx50 closing down by 1.06% at 6,325 points and Stoxx600 down by 1.66% at 639 points mark. In Asia, the Nik-kei closed the week at 64,011, losing 1.55% on a weekly basis, while Hang Seng went down by 3.3% at 24,806 points mark and the CSI 300 index closed the week at 4,510 points, 0.83% lower than previous week.
+- Crude oil rose toward $103 a barrel, a 4-month high, after rallying over 9% last week, as Saudi Arabia shut a major crude pipeline following drone attacks, disrupting a key route used to bypass the Strait of Hormuz. Saudi Arabia suspended oper-ations on the East-West pipeline as a precaution after Thurs-day’s attacks, with no indication yet of when the pipeline will resume operations. Meanwhile, talks between Iran and sever-al Gulf nations on establishing a temporary shipping corridor through Hormuz were postponed, Oman’s Foreign Minister Badr Albusaidi said.
+- European natural gas prices jumped 5% to €84/MWh on Mon-day, the highest level since December 2022, as tensions in the Middle East persist. Saudi Arabia has temporarily closed a crit-ical oil pipeline after drone attacks, while an advance by Yem-en’s Houthis fueled concerns over further disruptions to glob-al energy supplies. Meanwhile, a meeting scheduled for later today between Iran and Gulf states to discuss a potential agreement to reopen the Strait of Hormuz was postponed.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 102.87 | 10.53% | 79.08% |
+| Brent | 107.50 | 10.72% | 76.79% |
+| Natural gas | 2.90 | -0.60% | -21.37% |
+| Gasoline | 3.40 | 4.38% | 98.43% |
+| Heating oil | 5.04 | 10.32% | 137.53% |
+| Ethanol | 2.07 | 0.24% | 30.08% |
+| Naphtha | 855.28 | 8.46% | 75.13% |
+| Propane | 0.85 | 6.81% | 33.90% |
+| Uranium | 90.15 | 0.73% | 10.41% |
+| Methanol | 3352.00 | 1.58% | 53.06% |
+| TTF Gas | 83.94 | 14.51% | 198.08% |
+| UK Gas | 209.03 | 13.88% | 183.20% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4,285.0 | -2.68% | -0.76% |
+| Silver | 62.5 | -5.49% | -12.28% |
+| Platinum | 1,760.5 | -4.43% | -14.92% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 6.33 | -6.03% | 11.45% |
+| Coal | 146.75 | -1.28% | 36.51% |
+| Steel | 3070.00 | -1.57% | -0.84% |
+| Iron Ore | 98.02 | -1.56% | -8.50% |
+| Aluminum | 3239.70 | -2.18% | 8.12% |
+| LithiumCNY/T | 138650.00 | -6.00% | 17.00% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.154 | -0.69% | -1.69% |
+| GBP/USD | 1.348 | -0.43% | 0.17% |
+| USD/JPY | 154.520 | 0.10% | -1.42% |
+| USD/CNY | 6.710 | 0.01% | -3.83% |
+| USD/CHF | 0.817 | 0.92% | 3.04% |
+| USD/SGD | 1.271 | 0.34% | -1.21% |
+| USD/KRW | 1345.030 | 0.02% | -6.62% |
+| USD/INR | 95.755 | 1.26% | 6.55% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- | Diff Spread | % Spread |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 878.50 | 721.50 | 1375.0 | 157.00 | -49.0 | -23.8% |
+| Rotterdam | 730.00 | 631.00 | 1472.5 | 99.00 | -7.0 | -6.6% |
+| Fujairah | 959.00 | 720.00 | 1608.5 | 239.00 | 31.5 | 15.2% |
+| Houston | 797.50 | 557.50 | 1479.5 | 240.00 | 46.0 | 23.7% |

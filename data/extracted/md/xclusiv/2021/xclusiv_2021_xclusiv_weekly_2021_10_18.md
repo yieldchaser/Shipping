@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_10_18.pdf
 source_sha256: 6bd7a95c828843b387c78f32e97a98cfb81a464aec0470328d5899924c0f710c
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:03Z'
 ---
@@ -200,3 +200,72 @@ On the secondhand tanker market, we continue to observe limited number of transa
 | Tankers | Bangladesh | $605 | $600 | 5 |
 | Tankers | Pakistan | $600 | $595 | 5 |
 | Tankers | Turkey | $285 | $280 | 5 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- The 3 major US indices increased since last week, underpinned by data pointing to unexpected strength in the consumer, and another wave of better-than-expected quarterly earnings from major Wall Street banks, with the Nasdaq Composite Index closing at 15,146.92, the S&P 500 Index at 4,471.37 and the Dow Jones Industrial at 35,294.76.
+- China na’s thermal coal spot price hit a new high of 2327.5 RMB/ton on Friday since main coal producers as heavy rainfall had closed 60 coal mines in Shanxi province, the largest coal mining hub in China, and freezing temperatures sweeping through parts of China caused power plants to stock up on coal to meet rising electricity demand.
+- China na’s economy grew by 4.9% in the 3rd quarter from a year earlier, slowing sharply from the previous quarter’s 7.9% growth rate, as power shortages and supply-chain problems added further to the slowdown in China na’s economy already caused by the turbulent real estate sector.
+- UK retailers have warned this week of potential shortages in the run-up to Christmas due to a logjam at UK ports and a lack of lorry drivers.
+- The price of aluminium has reached a 13-year high withing the week, due to the deepening energy crisis, which has squeezed supplies of the metal.
+- The price for very low sulphur fuel oil (VLSFO) has crossed the $600 per ton mark for the first time since end of Jan 2020, just after the global sulphur cap came into existence. IFO380 in both Singapore and Fujairah has been trading over $500 per ton since 5th Oct 2021. Last time we had IFO380 trading over 500 mark was in Sep 2019.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 82.28 | 0.97 | 1.19% | 3.69% | 13.32% | 69.58% |
+| Brent | 84.92 | 0.92 | 1.10% | 3.07% | 12.22% | 63.94% |
+| Natural gas | 5.418 | -0.269 | -4.73% | -2.64% | 1.56% | 113.39% |
+| Gasoline | 2.4776 | 0.0426 | 1.75% | 4.71% | 13.59% | 75.70% |
+| Heating oil | 2.5737 | 0.0123 | 0.48% | 4.04% | 16.40% | 73.43% |
+| Ethanol | 2.207 | 0 | 0.00% | 0.00% | 0.00% | 54.01% |
+| Naphtha | 762.94 | 6.68 | 0.88% | 2.59% | 12.70% | 76.32% |
+| Propane | 1.48 | 0.01 | 0.80% | 0.99% | 16.10% | 128.94% |
+| Uranium | 47.2 | -0.3 | -0.63% | 22.60% | -4.93% | 53.75% |
+| Methanol | 3769 | 63 | 1.70% | 2.70% | 23.90% | 56.00% |
+| TTF Gas | 102.17 | 8.56 | 9.14% | 5.79% | 44.50% | 434.29% |
+| UK Gas | 257.61 | 21.86 | 9.27% | 4.93% | 45.30% | 356.76% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,767.2 | -28.33 | -1.58% | 0.60% | 0.79% | -6.82% |
+| Silver | 23.301 | -0.24 | -1.02% | 2.83% | 1.62% | -11.60% |
+| Platinum | 1,054.0 | -1.19 | -0.11% | 2.72% | 12.97% | -1.12% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.721 | 0.11 | 2.39% | 10.20% | 10.34% | 34.16% |
+| Coal | 240 | -5 | -2.04% | 0.59% | 36.36% | 198.14% |
+| Steel | 5,661 | 23 | 0.41% | -4.46% | 0.96% | 34.15% |
+| Iron Ore | 115 | 2 | 1.77% | -0.86% | 1.32% | -27.44% |
+| Aluminum | 3,172.5 | 36 | 1.15% | 7.14% | 9.76% | 60.17% |
+| Iron Ore Fe62% | 123.19 | 0.36 | 0.29% | 0.27% | 2.69% | -20.95% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.15983 | 0.0007 | 0.06% | 0.25% | -1.41% | -5.06% |
+| GBP/USD | 1.37441 | 0.0075 | 0.55% | 0.98% | -0.39% | 0.52% |
+| USD/JPY | 61016.3 | -641.05 | -1.04% | 10.99% | 28.98% | 110.45% |
+| USD/CNY | 114.25 | 0.4 | 0.35% | 1.80% | 4.14% | 10.66% |
+| USD/CHF | 6.43389 | -0.002 | -0.03% | -0.18% | -0.31% | -1.05% |
+| USD/SGD | 9.2174 | 0.0424 | 0.46% | 2.86% | 8.13% | 24.02% |
+| USD/KRW | 93.965 | 0.009 | 0.01% | -0.11% | 1.11% | 4.48% |
+| USD/INR | 20.3453 | -0.2089 | -1.02% | -1.70% | 2.04% | 2.24% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 622.00 | 527.50 | 713.00 | $94.5 |
+| Rotterdam | 606.00 | 492.50 | 716.50 | $113.5 |
+| Fujairah | 622.00 | 520.00 | 769.50 | $102.0 |
+| Houston | 608.50 | 471.50 | 755.00 | $137.0 |

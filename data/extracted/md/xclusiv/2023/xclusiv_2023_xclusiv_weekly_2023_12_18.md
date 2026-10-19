@@ -9,7 +9,7 @@ year: 2023
 source_file: corpus/01-brokers/xclusiv/2023/xclusiv_2023_xclusiv_weekly_2023_12_18.pdf
 source_sha256: c5f5d1df53915930a07508f8ca925d10241358341340da49b3ea6f950ba306eb
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:18:53Z'
 ---
@@ -174,3 +174,71 @@ On wet S&P activity, the Aframax “Aegean Power” - 116K/2007 Samsung changed 
 | Tankers | Bangladesh | $520 | $520 | 0 |
 | Tankers | Pakistan | $545 | $545 | 0 |
 | Tankers | Turkey | $350 | $340 | 10 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 2.9% at 37,305 points, S&P 500 went up by 2.49% at 4,719 points and NASDAQ rise by 2.85% at 14,814 points. The main European indices closed again higher, with the Euro Stoxx50 closing up by 0.58% at 4,549 points and Stoxx600 up by 0.92% at 477 points mark. In Asia, the Nikkei closed the week at 32,970, gaining 2.05% on a weekly basis, while Hang Seng went up by 2.8% at 16,792 points mark and the CSI 300 index closed the week at 3,342 points, 1.7% lower than previous week.
+- After a 1% gain in the previous week, WTI crude futures stabilized below USD 71 per barrel, as investors remained cautious about the outlook for global crude oil supply. The recent attacks on ships traveling through the Red Sea have heightened concerns about the potential for disruptions to Russian oil exports, further tightening the global supply-demand balance.
+- US natural gas futures rose in December, approaching the USD 2.4/MMBtu level as concerns about potential supply disruptions eased. Analysts suggest that prices may have peaked in November, coinciding with a decline in US gas demand in the Lower 48.
+- Newcastle coal futures maintained their upward trend in December, reaching close to USD 150 per tonne, the highest level in over two months. The surge in prices was driven by increasing demand from key consumers, including Japan and South Korea, as utilities turned to thermal coal instead of liquified natural gas to generate additional power and meet demand during the Northern Hemisphere winter.
+- Prices for iron ore remained near one-and-a-half-year highs in December, as evidence of robust commodity demand among the world's top consumers fueled the rally. Iron ore imports from China rose by 3.4% from the previous month in November, indicating a pickup in demand from key steel manufacturers.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 71.054 | 0.376 | -0.53% | -0.37% | -8.71% | -5.81% |
+| Brent | 76.198 | 0.352 | -0.46% | 0.22% | -7.46% | -4.60% |
+| Natural gas | 2.5549 | 0.0639 | 2.57% | 5.10% | -16.23% | -51.36% |
+| Gasoline | 2.1085 | 0.0285 | -1.33% | 3.20% | -4.04% | -4.22% |
+| Heating oil | 2.6131 | 0.0077 | -0.29% | 0.17% | -6.26% | -10.78% |
+| Ethanol | 1.685 | 0.005 | 0.30% | -2.32% | -10.85% | -21.81% |
+| Naphtha | 629.94 | 2.16 | 0.34% | 1.24% | 2.35% | 7.78% |
+| Propane | 0.67 | 0 | -0.05% | -4.12% | 5.97% | -3.16% |
+| Uranium | 82.3 | 0.85 | 1.04% | 1.04% | 11.22% | 68.99% |
+| Methanol | 2397 | 6 | -0.25% | -1.68% | -3.03% | -6.22% |
+| TTF Gas | 33.54 | 0.35 | 1.06% | -7.14% | -26.80% | -69.10% |
+| UK Gas | 83.79 | 1.24 | 1.50% | -7.09% | -27.94% | -68.97% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 2,020.4 | 2.19 | 0.11% | 1.97% | 2.18% | 13.03% |
+| Silver | 23.896 | 0.068 | 0.28% | 4.84% | 2.12% | 4.14% |
+| Platinum | 944.5 | 4.7 | 0.50% | 3.79% | 2.81% | -3.61% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.8551 | 0.0299 | -0.77% | 1.99% | 1.08% | 1.87% |
+| Coal | 145.3 | 0.25 | -0.17% | -3.81% | 17.99% | -64.14% |
+| Steel | 3,861 | 83 | -2.10% | -3.16% | -2.30% | -1.25% |
+| Iron Ore | 137 | 0.5 | -0.36% | -0.36% | 3.01% | 22.32% |
+| Aluminum | 2,267.5 | 20 | 0.89% | 7.11% | 0.98% | -3.96% |
+| Iron Ore Fe62% | 135.08 | 0.14 | -0.10% | -0.27% | 4.37% | 22.50% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.09103 | 0.0016 | 0.15% | 1.39% | -0.25% | 2.88% |
+| GBP/USD | 1.26657 | 0.0009 | -0.07% | 0.90% | 1.29% | 4.28% |
+| USD/JPY | 142.8 | 0.65 | 0.46% | -2.30% | -3.75% | 4.33% |
+| USD/CNY | 7.13892 | 0.0044 | 0.06% | -0.75% | -0.36% | 2.19% |
+| USD/CHF | 0.86905 | 0.0012 | -0.13% | -1.05% | -1.78% | -6.39% |
+| USD/SGD | 1.33126 | 0.0006 | -0.05% | -0.91% | -0.49% | -1.87% |
+| USD/KRW | 1299.59 | 0.81 | -0.06% | -1.27% | 0.98% | -0.13% |
+| USD/INR | 83.0396 | 0.0196 | 0.02% | -0.37% | -0.33% | 0.47% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 595.50 | 456.00 | 757.00 | 139.50 | -10.0 | -6.7% |
+| Rotterdam | 547.00 | 451.00 | 747.00 | 96.00 | 2.0 | 2.1% |
+| Fujairah | 599.50 | 422.50 | 910.00 | 177.00 | -16.0 | -8.3% |
+| Houston | 557.00 | 495.00 | 763.50 | 62.00 | 0.0 | 0.0% |

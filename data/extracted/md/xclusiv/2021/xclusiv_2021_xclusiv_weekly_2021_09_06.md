@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_09_06.pdf
 source_sha256: 9fa1d735a4cc10b1c06e7f56906d6bef512eaf6c72d6f58296ff777d00059a52
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:13:53Z'
 ---
@@ -181,3 +181,72 @@ C C A A E C C PAC A E C C
 | Tankers | Bangladesh | $605 | $610 | (5.0) |
 | Tankers | Pakistan | $600 | $605 | (5.0) |
 | Tankers | Turkey | $300 | $300 | - |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- All US major stock indexes were back on track booking gains. The Nasdaq Composite index and the S&P 500 index, closed the week peaking at their record highest 15,363.52 & 4,535.43 respectively. The Dow Jones Industrial average was oscillating all this week around the 35k mark, closing the week at 35,369.09
+- Supply chain bottleneck has affected also the aluminum futures trading around $2.730/tonne, highest since May 2011, with the political unrest in Guinea causing concerns over supplies of essential for Aluminum’s production raw material. Aluminum price has increased 34% Y-on-Y.
+- Indian Stock Market Index (SENSEX) continued to new all-time highs, closing at 58,130 up 52% Y-on-Y.
+- Coal futures closed the week trading at USD 179/mt, a new all-time record high. India has urged utilities to import coal as coal-fired electricity generation surged in Asia's third largest economy (and second largest importer of coal) after an easing of coronavirus-related curbs, with several power plants on the verge of running out of fuel. Coal supplies have been affected by the flooding in Indonesia & Australia.
+- A sharp increase in Natural Gas has been noticed during the last week. Natural gas futures opened the week at USD 4.305/mbtu and closed at all-time high of USD 4.712/mbtu.
+- In Australia, the COVID-19 lockdown has been extended for another 3 weeks, while at the same time Australia targets to reach zero cases with the rapid pace of vaccination.
+- In Sweden, within this month IKEA will begin to sell renewable energy to households, while IKEA confirmed to NBC News that it had started shipping goods using chartered vessels & is purchasing containers to ensure the availability of boxes to move merchandise to its stores.
+- The US economy added only 235K jobs within August, the lowest of past 7 months. This falls short on the initial target of 750K jobs.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 69.49 | 0.32 | -0.46% | 0.33% | 1.20% | 42.15% |
+| Brent | 72.61 | 0.38 | -0.52% | -0.65% | 2.63% | 39.44% |
+| Natural gas | 4.7121 | 0.09 | 1.85% | 7.70% | 13.66% | 86.14% |
+| Gasoline | 2.1412 | 0.02 | -1.03% | -5.85% | -4.84% | 51.85% |
+| Heating oil | 2.1535 | 0.01 | -0.66% | 2.10% | 3.83% | 45.11% |
+| Ethanol | 2.22 | 0 | 0.00% | 0.00% | 0.00% | 54.92% |
+| Naphtha | 654.9 | 1.58 | 0.24% | 1.23% | 0.80% | 51.35% |
+| Propane | 1.19 | 0.01 | 0.60% | 7.15% | 10.28% | 84.76% |
+| Uranium | 38.7 | 1.5 | 4.03% | 14.67% | 20.00% | 26.06% |
+| Methanol | 2781 | 40 | 1.46% | 4.43% | 8.17% | 15.11% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,828.3 | 18.91 | 1.05% | 0.64% | 0.93% | -3.59% |
+| Silver | 24.756 | 0.05 | 0.19% | 2.89% | 1.74% | -6.08% |
+| Platinum | 1,022.0 | 23.09 | 2.31% | 1.54% | 4.29% | -4.12% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.3255 | 0.04 | 0.83% | 0.16% | -0.10% | 22.92% |
+| Coal | 179 | 1.5 | 0.85% | 4.68% | 17.18% | 122.36% |
+| Steel | 5,325 | 99 | 1.89% | 4.95% | -1.95% | 26.18% |
+| Iron Ore | 143.5 | 2 | -1.37% | -7.42% | -25.07% | -9.46% |
+| Aluminum | 2,732.0 | 48 | 1.79% | 2.98% | 6.38% | 37.93% |
+| Iron Ore Fe62% | 144.83 | 4.29 | 3.05% | -9.30% | -20.65% | -7.06% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.18837 | 0.001 | 0.09% | 0.74% | 0.39% | -2.73% |
+| GBP/USD | 1.38607 | 0.0026 | 0.19% | 0.72% | -0.20% | 1.37% |
+| USD/JPY | 109.74 | 0.209 | -0.19% | -0.07% | 0.23% | 6.28% |
+| USD/CNY | 6.43525 | 0.0139 | -0.22% | -0.42% | -0.43% | -1.03% |
+| USD/CHF | 0.91385 | 0.00055 | -0.06% | 0.28% | 0.81% | 3.25% |
+| USD/SGD | 1.34131 | 0.00142 | -0.11% | -0.31% | -0.75% | 1.45% |
+| USD/KRW | 1151.69 | 2.85804 | -0.25% | -0.61% | 0.97% | 6.24% |
+| USD/INR | 72.982 | 0.011 | -0.02% | -0.66% | -1.57% | -0.07% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 544.50 | 450.00 | 590.50 | $94.5 |
+| Rotterdam | 522.50 | 412.00 | 603.00 | $110.5 |
+| Fujairah | 540.00 | 446.00 | 665.50 | $94.0 |
+| Houston | 521.00 | 416.50 | 627.00 | $104.5 |

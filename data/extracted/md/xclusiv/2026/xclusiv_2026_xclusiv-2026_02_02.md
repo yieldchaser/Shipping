@@ -246,3 +246,69 @@ On the VLCC sector, the “Agneta Pallas III” - 300K/2013 HHI was sold for low
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by - 0.8% at 48,892 points, S&P 500 went up by 0.34% at 6,939 points and NASDAQ fell by -0.17% at 23,462 points. The main European indices closed almost the same as previous week, with the Euro Stoxx50 closing down by only -0.01% at 5,948 points and Stoxx600 up by 0.44% at 611 points mark. In Asia, the Nikkei closed the week at 53,323, gaining 1.32% on a weekly basis, while Hang Seng went up by 2.38% at 27,387 points mark and the CSI 300 index closed the week at 4,706 points, 0.08% higher than previous week .
+- WTI crude futures slid more than 5% on Monday, dropping below USD 62/bbl and pulling back from multi-month highs as markets focused on possible de-escalation in US–Iran ten-sions. President Donald Trump said Iran was “seriously talk-ing” with the US after Tehran signaled talks were progressing, easing fears of supply disruptions that had pushed prices higher in January. Reports also suggested Iran’s naval forces may skip live-fire drills in the Strait of Hormuz. Meanwhile, OPEC+ reaffirmed unchanged March output .
+- Coal prices rose above USD 117/ton, hitting a one-year high as power-generation demand (led by China) kept the market firm. China plans to commission more than 100 coal-fired generators this year, on top of 400+ units under construction, supporting domestic electricity needs and exports. Even with rapid renewables growth, Beijing still leans on coal while aim-ing to phase it down before 2030. Global power demand from AI data centers and EV charging adds tailwinds, despite ex-pected lower Indonesia output .
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 61.99 | 2.43% | 8.16% |
+| Brent | 66.11 | 1.00% | 8.87% |
+| Natural gas | 3.60 | -7.71% | -2.40% |
+| Gasoline | 1.86 | 2.34% | 9.04% |
+| Heating oil | 2.40 | -6.42% | 13.27% |
+| Ethanol | 1.59 | -1.24% | 0.16% |
+| Naphtha | 561.36 | 5.50% | 14.95% |
+| Propane | 0.66 | 0.63% | 3.93% |
+| Uranium | 99.25 | 12.27% | 21.56% |
+| Methanol | 2210.00 | -4.00% | 0.91% |
+| TTF Gas | 34.04 | -8.72% | 21.25% |
+| UK Gas | 81.70 | -10.63% | 11.14% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4,792.3 | -4.43% | 10.86% |
+| Silver | 83.4 | -19.63% | 17.18% |
+| Platinum | 2,108.1 | -26.90% | 1.64% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 5.84 | -2.76% | 3.03% |
+| Coal | 117.50 | 7.80% | 9.30% |
+| Steel | 3071.00 | -1.67% | -0.81% |
+| Iron Ore | 105.62 | -0.70% | -1.41% |
+| Aluminum | 3078.90 | -3.76% | 2.77% |
+| LithiumCNY/T | 160500.00 | -6.14% | 35.44% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.185 | -0.26% | 0.93% |
+| GBP/USD | 1.369 | 0.09% | 1.71% |
+| USD/JPY | 154.955 | 0.51% | -1.14% |
+| USD/CNY | 6.942 | -0.10% | -0.50% |
+| USD/CHF | 0.776 | -0.12% | -2.09% |
+| USD/SGD | 1.271 | 0.05% | -1.20% |
+| USD/KRW | 1451.400 | 0.37% | 0.74% |
+| USD/INR | 91.409 | -0.33% | 1.71% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- | Diff Spread | % Spread |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 485.50 | 429.00 | 679.00 | 56.50 | -4.5 | -7.4% |
+| Rotterdam | 438.00 | 401.50 | 691.50 | 36.50 | -25.5 | -41.1% |
+| Fujairah | 469.50 | 403.00 | 753.00 | 66.50 | -3.0 | -4.3% |
+| Houston | 476.50 | 364.50 | 696.50 | 112.00 | 22.5 | 25.1% |

@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_12_12.pdf
 source_sha256: 388e281cea4e8388ec81fb0a5d15ce1274bf1b97366e06c613e6ce88f0f630ad
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:16:33Z'
 ---
@@ -184,3 +184,71 @@ The activity in the tanker market remains firm. The Scrubber fitted Suezmax “R
 | Tankers | Bangladesh | $510 | $510 | 0 |
 | Tankers | Pakistan | $520 | $520 | 0 |
 | Tankers | Turkey | $270 | $260 | 10 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In In the U.S., the Dow Jones Industrial average decreased by 2.8% at 33,476 points, S&P 500 went down by 3.37% at 3,934 points and NASDAQ fell by 3.99% at 11,005 points. The main European indices closed almost the same as previous week, with the Euro Stoxx50 closing down by only 0.89% at 3,943 points and Stoxx600 down by 0.94% at 439 points mark. In Asia, the Nikkei closed the week at 27,901, gaining 0.44% on a weekly basis, while Hang Seng went up by 6.56% at 19,901 points mark and the CSI 300 index closed the week at 3,998 points, 3.29% higher than previous week.
+- WTI & Brent crude futures bottomed below the USD 71 & USD 75 per barrel level, hovering close to levels not seen since December 2021, as investors weighed persistent demand concerns against tight global supplies. A deteriorating outlook for global demand has been keeping markets on edge, with tighter financial conditions across most of the developed world denting economic activity while pushing back on the need for fuel.
+- US natural gas futures skyrocketed 10% to around USD 7/MMBtu, paring much of their losses from an unseasonal slump at the beginning of December, amid forecasts for much colder weather and higher heating demand than previously expected. Frigid temperatures and heavy precipitation on the West Coast have fueled natural gas demand at a time when storage inventories are below average.
+- Dutch natural gas futures were trading around EURO 140/MWh in December, remaining above a six-month low of EURO 97.8/MWh on November 11th, as temperatures in Europe are falling after a mild November, raising heating demand and pressuring stocks. At the same time, EU storage remains fuller than normal at 89.9% full as of December 7th, compared to 90.6% the day before while flows from LNG terminals reached all-time highs.
+- Newcastle coal futures, the benchmark for the top consuming region of Asia, topped the USD 400 per tonne mark, more than 150% above last year's level, on prospects of continued robust demand and tight supplies. Above-average demand from Europe on fears of a shortage of natural gas for power generation coupled with skyrocketing imports of thermal coal from India have been pushing prices higher.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 80.638 | 0.658 | 0.82% | 4.40% | -11.12% | 16.36% |
+| Brent | 86.243 | 0.673 | 0.79% | 2.81% | -10.50% | 18.65% |
+| Natural gas | 5.9336 | 0.3474 | -5.53% | -17.54% | -18.09% | 63.69% |
+| Gasoline | 2.2973 | 0.0169 | 0.74% | 1.10% | -11.38% | 13.26% |
+| Heating oil | 3.1836 | 0.0151 | 0.48% | 1.02% | -11.92% | 47.20% |
+| Ethanol | 2.185 | 0.055 | -2.46% | -15.96% | -20.40% | -23.33% |
+| Naphtha | 632.28 | 12.08 | -1.88% | -5.46% | -5.77% | -1.03% |
+| Propane | 0.72 | 0.04 | -4.92% | -15.37% | -15.27% | -27.17% |
+| Uranium | 49.2 | 0.6 | -1.20% | -2.28% | -3.72% | 6.15% |
+| Methanol | 2582 | 17 | -0.65% | -3.73% | -7.62% | -3.66% |
+| TTF Gas | 145.3 | 9.74 | 7.18% | 17.86% | 32.47% | 61.57% |
+| UK Gas | 355 | 18.69 | 5.56% | 21.88% | 32.74% | 54.29% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,798.3 | 0.5 | 0.03% | 3.31% | 7.38% | 1.14% |
+| Silver | 23.1 | 0.026 | -0.11% | 10.43% | 11.19% | 3.35% |
+| Platinum | 1,016.2 | 2.02 | 0.20% | 2.79% | 3.80% | 8.39% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.8715 | 0.0235 | 0.61% | 7.20% | 7.44% | -10.73% |
+| Coal | 391.0 | 6 | 1.56% | 11.91% | 10.45% | 151.85% |
+| Steel | 3,722 | 45 | 1.22% | -0.13% | 4.26% | -15.02% |
+| Iron Ore | 106.5 | 1.5 | 1.43% | 4.93% | 25.29% | 7.58% |
+| Aluminum | 2,545.5 | 60.5 | 2.43% | 7.75% | 12.43% | -2.95% |
+| Iron Ore Fe62% | 107.44 | 4.34 | 4.21% | 15.85% | 28.87% | 5.86% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.05351 | 0.0005 | -0.05% | 1.86% | 5.16% | -6.63% |
+| GBP/USD | 1.22908 | 0.00002 | 0.00% | 2.77% | 6.76% | -7.31% |
+| USD/JPY | 135.233 | 0.916 | 0.68% | -2.60% | -7.80% | 19.18% |
+| USD/CNY | 6.9554 | 0.0622 | -0.89% | -4.03% | -3.79% | 9.11% |
+| USD/CHF | 0.93688 | 0.0002 | 0.02% | -1.29% | -5.17% | 1.24% |
+| USD/SGD | 1.34847 | 0.0032 | -0.24% | -2.22% | -3.71% | -1.49% |
+| USD/KRW | 1294.18 | 3.71 | -0.29% | -3.40% | -7.06% | 9.63% |
+| USD/INR | 81.745 | 0.335 | 0.41% | 0.13% | -0.07% | 8.43% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 667.00 | 392.00 | 974.00 | 275.00 | 21.0 | 8.3% |
+| Rotterdam | 569.00 | 381.50 | 913.50 | 187.50 | -11.5 | -5.8% |
+| Fujairah | 647.00 | 349.00 | 1128.0 | 298.00 | 31.5 | 11.8% |
+| Houston | 621.00 | 419.00 | 911.50 | 202.00 | 32.0 | 18.8% |

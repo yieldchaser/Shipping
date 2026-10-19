@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_12_13.pdf
 source_sha256: 6563d3736f3bd88f7fb4e79ebac926162865c514c8353fc9883001c633388bc1
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:19Z'
 ---
@@ -193,3 +193,72 @@ On the wet sector, Aframaxes were the majority of this week’s transactions. Cl
 | Tankers | Bangladesh | $600 | $610 | -10 |
 | Tankers | Pakistan | $600 | $610 | -10 |
 | Tankers | Turkey | $320 | $325 | -5 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In In the U.S., the main indices closed the week all positive w-on-w. On a weekly basis, the Dow Jones Industrial average increased by 4% at 35,971 points, S&P 500 went down by 3.8% at 4,712 points and NASDAQ rose by 2.6% at 15,085 points. The main European indices also closed higher than the previous week, with the Euro Stoxx50 closing up by 2.9% at 4,199.16 points and Stoxx600 up by 2.4% at 475.56 points mark.
+- In Asia, the Nikkei closed the week at 28,640 gaining 2.6% on a weekly basis, while Hang Seng rose by 3.1% at 24,074 points mark and the CSI 300 index closed the week at 5,055.12 points, 3.3% higher than previous week.
+- As concerns eased over the Omicron variant and its impact on global economic growth and demand, WTI crude futures rose closed just below the $72 per barrel mark last week. Booster shots provide a high level of protection, according to latest study, claiming the Omicron is more transmissible and evasive than the Delta but according to South African scientists, there is no indication that the new variant is causing more severe illness. Investors remained cautious after the U.S. Department of Energy confirmed on Friday that 18mil barrels of crude oil would be sold from its strategic petroleum reserve on Dec 17th , in order reduce gasoline prices.
+- A plan from the National Development & Reform Commission, China's top economic planner, to raise annual thermal coal prices from 2017 to CNY 700 per ton by 2022, well above an informal ceiling of CNY 600, pushed coal prices above $160 per metric tonne in December. As a result, Chinese authorities are likely to ease energy restrictions in order to protect the country's economic growth.
+- The efforts of the Chinese government to ease the tension in the property sector and try to stabilize it, boosted the iron ore price to jump just above $100 per metric tonne. This is the highest level since October 29th which was also aided by supply constraints, expectations of rising steel production in December, and that China's iron ore imports hit a 16-month high in November.
+- Annual inflation rate in the US accelerated to 6.8% in November of 2021, the highest seen since June of 1982, and in line with forecasts. It marks the 9th consecutive month the inflation stays above the Fed's 2% target as global commodities rally, rising demand, wage pressures, supply chain disruptions and a low base effect from last year continue to push prices up.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 71.94 | 1.01 | 1.42% | 8.57% | -10.54% | 48.27% |
+| Brent | 75.35 | 0.93 | 1.25% | 7.83% | -9.07% | 45.46% |
+| Natural gas | 3.889 | 0.079 | 2.07% | -5.88% | -24.47% | 53.17% |
+| Gasoline | 2.141 | 0.0126 | 0.59% | 9.63% | -7.63% | 51.83% |
+| Heating oil | 2.2516 | 0.0013 | 0.06% | 7.30% | -7.99% | 51.73% |
+| Ethanol | 2.97 | 0.02 | 0.68% | 4.21% | -6.75% | 122.54% |
+| Naphtha | 690.8 | 4.59 | 0.67% | 7.81% | -8.38% | 59.65% |
+| Propane | 1.03 | 0.02 | 1.61% | 6.45% | -25.75% | 59.29% |
+| Uranium | 45.65 | -0.2 | -0.44% | -1.51% | -2.46% | 48.70% |
+| Methanol | 2622 | -2 | -0.08% | 0.08% | -7.51% | 8.53% |
+| TTF Gas | 101.5 | 1.05 | 1.05% | 7.03% | 49.26% | 430.75% |
+| UK Gas | 260.45 | 4.34 | 1.69% | 7.58% | 44.71% | 361.79% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,782.6 | 8.12 | 0.46% | -0.06% | -4.24% | -6.01% |
+| Silver | 22.148 | 0.22 | 1.00% | -1.61% | -12.21% | -15.97% |
+| Platinum | 942.2 | 7.59 | 0.81% | 1.06% | -13.23% | -11.61% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.283 | -0.047 | -1.09% | 0.39% | -2.65% | 21.71% |
+| Coal | 163.3 | 2.25 | 1.40% | 5.15% | 7.76% | 102.80% |
+| Steel | 4,303 | 3 | 0.07% | 0.05% | -3.54% | 1.97% |
+| Iron Ore | 102.5 | -1 | -0.97% | 3.54% | 21.30% | -35.33% |
+| Aluminum | 2,606.5 | -20 | -0.76% | -0.63% | -2.01% | 31.59% |
+| Iron Ore Fe62% | 105 | -1.49 | -1.40% | 3.46% | 12.14% | -32.62% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.13166 | 0.0024 | 0.21% | 0.06% | -1.14% | -7.37% |
+| GBP/USD | 1.3263 | 0.0039 | 0.29% | 0.24% | -0.76% | -3.00% |
+| USD/JPY | 113.38 | -0.06 | -0.06% | 0.51% | -0.59% | 9.81% |
+| USD/CNY | 6.37588 | -0.0023 | -0.04% | 0.06% | -0.25% | -1.95% |
+| USD/CHF | 0.92067 | -0.0037 | -0.40% | 0.32% | -0.13% | 4.02% |
+| USD/SGD | 1.363 | -0.0022 | -0.16% | -0.61% | 0.65% | 3.09% |
+| USD/KRW | 1176.7 | -4.8 | -0.40% | -0.02% | -0.14% | 8.54% |
+| USD/INR | 75.692 | 0.109 | 0.14% | 0.62% | 1.88% | 3.64% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 598.50 | 426.50 | 660.00 | 172.00 | -26.0 | -13.1% |
+| Rotterdam | 545.50 | 416.00 | 622.00 | 129.50 | -14.0 | -9.8% |
+| Fujairah | 591.50 | 441.50 | 758.00 | 150.00 | -14.0 | -8.5% |
+| Houston | 556.50 | 425.50 | 655.50 | 131.00 | 17.5 | 15.4% |

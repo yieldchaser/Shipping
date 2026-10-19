@@ -225,3 +225,69 @@ On the VLCC sector, clients of ADNOC acquired the “OLYMPIC LEOPARD” - 319K/2
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 0.8% at 53,277 points, S&P 500 went down by 1.43% at 7,674 points and NASDAQ fell by 2.05% at 26,180 points. The main European indices also moved southern, with the Euro Stoxx50 closing down by 1.14% at 6,463 points and Stoxx600 down by 0.56% at 654 points mark. In Asia, the Nikkei closed the week at 66,016, losing 3.93% on a weekly basis, while Hang Seng went up by 3.55% at 26,009 points mark and the CSI 300 in-dex closed the week at 4,619 points, 1.01% lower than previ-ous week.
+- Crude oil eased to USD 85 per barrel as investors took profits ahead of Washington’s planned sweeping financial offensive against Iran. The measures could further restrict already-disrupted Iranian oil flows by targeting its banking and energy sectors and foreign partners. Meanwhile, Tehran threatened fines, seizures and confiscations in the Strait of Hormuz, keep-ing risks to global oil supplies elevated.
+- Wheat prices climbed above USD 6.80 per bushel, approach-ing July’s two-year high, as escalating attacks on Black Sea shipping threaten Ukrainian grain exports. Ukraine’s wheat shipments could fall to just 5–10 million tonnes in 2026/27 if port disruptions persist. Stronger corn and soybean markets are adding support, while geopolitical risks continue to under-pin prices despite recent profit-taking.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 85.28 | 0.87% | 48.43% |
+| Brent | 92.91 | 2.21% | 52.63% |
+| Natural gas | 2.78 | 3.23% | -24.67% |
+| Gasoline | 3.27 | 0.02% | 91.17% |
+| Heating oil | 4.38 | -1.43% | 106.17% |
+| Ethanol | 2.12 | 4.18% | 33.54% |
+| Naphtha | 757.20 | 2.09% | 55.05% |
+| Propane | 0.75 | 5.45% | 17.67% |
+| Uranium | 88.85 | 1.60% | 8.82% |
+| Methanol | 2939.00 | 7.70% | 34.20% |
+| TTF Gas | 67.45 | 9.16% | 139.39% |
+| UK Gas | 166.10 | 8.78% | 124.81% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4,642.0 | 5.08% | 7.42% |
+| Silver | 68.9 | 4.72% | -3.35% |
+| Platinum | 1,891.6 | 5.74% | -8.62% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 6.58 | -0.37% | 15.80% |
+| Coal | 131.50 | 1.74% | 22.33% |
+| Steel | 3066.00 | 1.89% | -0.97% |
+| Iron Ore | 95.21 | 0.04% | -11.13% |
+| Aluminum | 3238.00 | -0.65% | 8.09% |
+| LithiumCNY/T | 160500.00 | 4.90% | 35.44% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.167 | 0.72% | -0.66% |
+| GBP/USD | 1.363 | 0.60% | 1.23% |
+| USD/JPY | 159.188 | -0.14% | 1.58% |
+| USD/CNY | 6.724 | -0.27% | -3.61% |
+| USD/CHF | 0.802 | -1.00% | 1.24% |
+| USD/SGD | 1.271 | -0.55% | -1.20% |
+| USD/KRW | 1385.480 | -2.22% | -3.81% |
+| USD/INR | 95.780 | 0.06% | 6.59% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- | Diff Spread | % Spread |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 833.50 | 665.50 | 1239.5 | 168.00 | -23.0 | -12.0% |
+| Rotterdam | 675.50 | 571.00 | 1291.0 | 104.50 | -21.0 | -16.7% |
+| Fujairah | 824.00 | 672.00 | 1445.5 | 152.00 | -44.0 | -22.4% |
+| Houston | 700.50 | 488.00 | 1295.5 | 212.50 | -4.0 | -1.8% |

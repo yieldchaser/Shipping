@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_03_21-1.pdf
 source_sha256: 394a498d8dd161d7f35d2c949b5f349d1e89ddd7187e71f5a9e4645b66ca4b07
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:44Z'
 ---
@@ -175,3 +175,71 @@ On the gas sector, the “Venture Gas” - 74K/1990 Kawasaki sold for USD 20 mil
 | Tankers | Bangladesh | $680 | $690 | -10 |
 | Tankers | Pakistan | $665 | $675 | -10 |
 | Tankers | Turkey | $400 | $410 | -10 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In In the U.S., the Dow Jones Industrial average increased by 5.4% at 34,728 points, S&P 500 went up by 6.14% at 4,462 points and NASDAQ rise significantly by 8.17% at 13,893 points. The main European indices closed also with firm increase, with the Euro Stoxx50 closing up by 5.85% at 3,902 points and Stoxx600 up by 5.2% at 454 points mark. In Asia, the Nikkei closed the week at 26,827, gaining 6% on a weekly basis, while Hang Seng went significantly up by 9.52% at 21,480 points mark and the CSI 300 index closed the week at 4,274 points, 0.73% lower than previous week.
+- WTI and Brent crude futures jumped 3% toward USD 108 & USD 111 per barrel respectively extending gains for a third straight session as the Ukraine conflict showed little sign of easing, and major oil producers struggled to meet their supply agreements. Today, prices moved higher after Ukraine rejected Russian demand to surrender Mariupol, Investors’ focus returned to whether the market would be able to replace Russian oil hit by sanctions.
+- With the Russia-Ukraine conflict nearing a diplomatic end, coal prices dropped to a two-week low of USD 340 per tonne in the third week of March. In the meantime, a resurgence of Coronavirus cases in China, the world's largest coal producer and consumer, is causing concern over a lower demand. In the first two months of 2022, China's coal output grew 10.3%, following a request by Beijing to ramp up production for the winter season as well as an export ban in Indonesia
+- Copper futures rebounded from their lowest level in two weeks to trade above the USD 4.6-per-pound level as supply worries remerged in Peru, the world's second-biggest metal producer. Operations at Southern Copper's Cuajone mine in Peru have been suspended for two weeks as protesters continue to block the company's access to a water pool and other vital supplies. However, in Europe, supplies remain low as Russia mainly supplied the market. Elsewhere, the world's biggest producer Chile, recorded its lowest January output since 2011, with production sinking 15% compared to December and 7.5% from January 2021.
+- Chicago wheat futures hovered below the USD 11-per-bushel level as investors continued to assess developments around ceasefire talks between Russia and Ukraine while digesting the latest USDA report. Overall consequences from the war on global grain supplies were somewhat minimal in the US Department of Agriculture report, thanks to a more significant Australian crop.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 104.95 | 2.12 | 2.06% | -4.01% | 14.08% | 70.82% |
+| Brent | 108.35 | 1.71 | 1.60% | -3.83% | 13.59% | 67.91% |
+| Natural gas | 4.896 | 0.085 | -1.70% | 3.62% | 10.49% | 93.14% |
+| Gasoline | 3.233 | 0.0164 | 0.51% | -2.39% | 17.40% | 66.38% |
+| Heating oil | 3.5981 | 0.1107 | 3.17% | 5.28% | 25.95% | 97.45% |
+| Ethanol | 2.46 | 0.01 | -0.40% | -2.19% | 14.42% | 34.24% |
+| Naphtha | 980.88 | 1.69 | 0.17% | -5.63% | 14.35% | 70.46% |
+| Propane | 1.4 | 0.03 | 2.55% | -4.03% | 8.82% | 52.85% |
+| Uranium | 57.25 | 0.9 | 1.60% | -4.58% | 29.97% | 91.47% |
+| Methanol | 2958 | 79 | 2.74% | 2.35% | 9.76% | 28.33% |
+| TTF Gas | 100.5 | 4.59 | -4.37% | -23.42% | 38.50% | 482.07% |
+| UK Gas | 240 | 9.78 | -3.92% | -22.84% | 38.30% | 456.84% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,921.0 | 21.63 | -1.11% | -3.24% | 0.81% | 10.10% |
+| Silver | 24.952 | 0.383 | -1.51% | -3.29% | 4.24% | -4.93% |
+| Platinum | 1,022.0 | 1.16 | 0.11% | -5.33% | -4.89% | -14.58% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.709 | 0.026 | 0.56% | 2.01% | 5.10% | 14.50% |
+| Coal | 334.5 | 2.75 | -0.82% | -9.26% | 43.04% | 260.65% |
+| Steel | 4,958 | 38 | 0.77% | 1.18% | 2.88% | 5.44% |
+| Iron Ore | 145 | 3.5 | 2.47% | -4.92% | 5.84% | -10.77% |
+| Aluminum | 3,381.0 | 3.5 | -0.10% | -2.93% | 3.10% | 48.53% |
+| Iron Ore Fe62% | 150.59 | 0.94 | 0.63% | -3.07% | 5.12% | -10.36% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.10496 | 0.0046 | -0.41% | 1.29% | -2.20% | -7.19% |
+| GBP/USD | 1.31763 | 0.0022 | 0.17% | 1.08% | -3.02% | -4.92% |
+| USD/JPY | 119.098 | 0.54 | 0.46% | 1.55% | 3.98% | 9.38% |
+| USD/CNY | 6.36155 | 0.0018 | -0.03% | 0.09% | 0.51% | -2.25% |
+| USD/CHF | 0.93179 | 0.0053 | -0.56% | -0.30% | 1.74% | 0.48% |
+| USD/SGD | 1.3551 | 0.0014 | 0.10% | -0.64% | 0.55% | 0.80% |
+| USD/KRW | 1207.19 | 3.2 | -0.26% | -2.42% | 2.30% | 6.91% |
+| USD/INR | 76.05 | 0.138 | 0.18% | -0.57% | 2.09% | 5.04% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 842.50 | 612.50 | 990.00 | 230.00 | -43.0 | -15.8% |
+| Rotterdam | 847.50 | 643.50 | 1023.0 | 204.00 | -99.0 | -32.7% |
+| Fujairah | 888.00 | 636.00 | 1162.5 | 252.00 | -38.5 | -13.3% |
+| Houston | 891.50 | 707.50 | 1186.5 | 184.00 | 9.0 | 5.1% |

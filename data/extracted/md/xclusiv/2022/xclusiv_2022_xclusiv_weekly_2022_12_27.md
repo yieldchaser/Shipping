@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_12_27.pdf
 source_sha256: 8690e183c100889c6f1516950a291f77a71acab7305051548f77d6b55ca17dc7
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:16:39Z'
 ---
@@ -171,3 +171,71 @@ However, the gas market has been busy. The Scrubber fitted “BW Austria”- 83K
 | Tankers | Bangladesh | $520 | $510 | 10 |
 | Tankers | Pakistan | $530 | $520 | 10 |
 | Tankers | Turkey | $270 | $270 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 2.1% at 33,204 points, S&P 500 went down by 0.2% at 3,845 points and NASDAQ fell by 1.94% at 10,498 points. The main European indices closed almost the same as previous week, with the Euro Stoxx50 closing up by only 0.34% at 3,817 points and Stoxx600 up by 0.64% at 427 points mark. In Asia, the Nikkei closed the week at 26,406, losing 4.07% on a weekly basis, while Hang Seng went up by 1.18% at 19,679 points mark and the CSI 300 index closed the week at 3,843 points, 2.8% lower than previous week.
+- WTI crude futures rose above USD 80 per barrel on Tuesday while Brent crude futures rose above USD 84 per barrel, as China reversed Covid restrictions further while winter storms across the US disrupted oil flows. China announced on Monday that it will end quarantine requirements for inbound travelers starting on Jan. 8, lifting the demand outlook in the world’s top crude importer. On the supply side, more than a third of Texas Gulf refining capacity was shut over the past few days due to winter storms, as reported by Bloomberg.
+- Copper futures surged to USD 3.9 per pound level, the highest level since November 11th, amid hopes of demand revival in China after the world's second-largest economy announced it would stop requiring inbound travelers to go into quarantine starting from January 8th. Still, global recession concerns mounted after major central banks delivered hawkish outlooks on monetary policy to curb inflation. Elsewhere, prospects of lower copper production in South America continued to drive shortage concerns.
+- US natural gas futures rose to USD 5.2/MMBtu in the last week of December, rebounding from a 9-month low of USD 4.8 hit before the Christmas break, due to lower production and supply constraints after wells and pipes froze due to extreme cold.
+- Dutch front-month gas futures were at EURO 83/MWh in the last week of the year, close to their lowest level in 6-1/2 months and following a 28% drop in the previous week, amid mild weather and ample supplies. Natural gas prices in Europe are more than 75% below record levels of nearly EURO 350 hit in August, as record LNG imports, increased wind generation, and fuller-than-normal stockpiles ease concerns about shortages.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 80.346 | 0.786 | 0.99% | 5.40% | 3.90% | 6.28% |
+| Brent | 84.52 | 0.6 | 0.72% | 5.66% | 0.75% | 8.07% |
+| Natural gas | 5.1626 | 0.0836 | 1.65% | -3.07% | -28.26% | 32.89% |
+| Gasoline | 2.3814 | 0.0022 | -0.09% | 7.14% | 4.80% | 5.84% |
+| Heating oil | 3.3316 | 0.0655 | 2.01% | 8.92% | 5.72% | 42.25% |
+| Ethanol | 2.19 | 0.005 | 0.23% | 1.62% | -15.77% | -27.48% |
+| Naphtha | 591.26 | 2.93 | 0.50% | 1.16% | -11.59% | -15.33% |
+| Propane | 0.69 | 0 | 0.19% | 0.86% | -19.07% | -32.91% |
+| Uranium | 48.1 | 0 | 0.00% | -0.10% | -4.47% | 9.44% |
+| Methanol | 2542 | 17 | 0.67% | -0.31% | -5.22% | -1.40% |
+| TTF Gas | 81.62 | 1.36 | -1.64% | -22.78% | -33.80% | -23.43% |
+| UK Gas | 200.11 | 26.79 | -11.81% | -30.62% | -31.40% | -25.28% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,808.6 | 10.95 | 0.61% | -0.49% | 3.90% | 0.18% |
+| Silver | 24.14 | 0.232 | 0.97% | -0.10% | 15.41% | 4.99% |
+| Platinum | 1,030.4 | 8.86 | 0.87% | 2.26% | 4.22% | 5.59% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.9326 | 0.1296 | 3.41% | 3.56% | 8.89% | -11.29% |
+| Coal | 401.1 | 0.45 | 0.11% | -0.96% | 15.34% | 137.48% |
+| Steel | 3,965 | 28 | 0.71% | 2.14% | 6.16% | -13.12% |
+| Iron Ore | 112 | 0 | 0.00% | 1.82% | 11.44% | -5.88% |
+| Aluminum | 2,389.5 | 16.5 | -0.69% | 0.61% | 0.93% | -15.77% |
+| Iron Ore Fe62% | 110.48 | 0.05 | 0.05% | 0.19% | 19.13% | -2.22% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.06652 | 0.003 | 0.28% | 0.42% | 3.18% | -5.69% |
+| GBP/USD | 1.20648 | 0.0005 | 0.04% | -0.95% | 0.89% | -10.19% |
+| USD/JPY | 133.283 | 0.423 | 0.32% | 1.20% | -4.07% | 16.09% |
+| USD/CNY | 6.9687 | 0.006 | -0.09% | 0.14% | -3.84% | 9.35% |
+| USD/CHF | 0.92704 | 0.0048 | -0.51% | 0.11% | -2.32% | 1.08% |
+| USD/SGD | 1.34487 | 0.0026 | -0.20% | -0.37% | -2.48% | -0.69% |
+| USD/KRW | 1270.22 | 3.69 | -0.29% | -1.05% | -5.19% | 6.91% |
+| USD/INR | 82.82 | 0.17 | 0.21% | 0.27% | 1.45% | 10.87% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 667.00 | 392.00 | 974.00 | 275.00 | 21.0 | 8.3% |
+| Rotterdam | 569.00 | 381.50 | 913.50 | 187.50 | -11.5 | -5.8% |
+| Fujairah | 647.00 | 349.00 | 1128.0 | 298.00 | 31.5 | 11.8% |
+| Houston | 621.00 | 419.00 | 911.50 | 202.00 | 32.0 | 18.8% |

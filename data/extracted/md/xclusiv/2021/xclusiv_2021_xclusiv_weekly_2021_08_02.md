@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_08_02.pdf
 source_sha256: 13d8d40c06e374e7ebed02e3559375325657fa37caa9f6e146e4143045885e67
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:13:36Z'
 ---
@@ -178,3 +178,71 @@ LR LR A L A K A A K
 | Tankers | Bangladesh | $610 | $600 | 10.0 |
 | Tankers | Pakistan | $595 | $590 | 5.0 |
 | Tankers | Turkey | $300 | $300 | - |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- All 3 major US indexes, opened the week at historical record highs, the Dow Jones Industrial Average & the Nasdaq Composite opened the week at highs of 35,144.31 & 14,840.71 respectively, while both eased-off during the week to close lower at 34,935.47 & 14,672.68. The S&P 500 index also opened the week at its highest ever at 4,422.30, while it also ended the week lower at 4,395.26.
+- Eurozone economy expands by 2% in Q2, rebounding from recession, while in Q1 it had contracted by 0.3%. Overall, the European Central Bank expects GDP in the euro zone to reach 4.6% by the end of the year, followed by 4.7% next year. Eurozone inflation though rises to 2.2% in July 2021, up from 1.9% in June, while inflation in Italy may reach a 4 year high over 1.8%, at the same time Ita taly’s GDP in Q2, grew by 2.7% double its expectation.
+- Deputy Prime Minister of Russia mentioned that demand & consumption are on the rise and picking up, mainly due to the easing of travel restrictions by many countries for fully vaccinated people. In India, not too long ago the infection hot spot of the world, we see a rolling back on restrictions & posting huge increases in driving activity. EIA pegged demand for oil products at 20.094mbpd almost 7% higher than initially estimated.
+- The official National Bureau of Statistics of China data shows the PMI for China falling to 50.4 in July 2021 from 50.9 in June, missing market expectations of 50.8. This was the lowest reading since February 2020.
+- The U.S. economy is now larger than it was before the pandemic, but its Q2 GDP at 6.5% may have been at slower pace than 8.4% expected.
+- Natural gas prices in Europe & the UK have soared to some of the highest levels on record since 2005, threatening to raise costs for households & businesses as global supplies of the critical fossil fuel remain tight.
+- Aluminum reached $2,600/ton the highest since July 2011, while global aluminum consumption is seen rising by 8% this year and demand is set to keep surging on the back of climate change investment.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 73.7 | 0.08 | 0.11% | 2.26% | -2.03% | 51.90% |
+| Brent | 76.3 | 0.25 | 0.33% | 2.97% | 0.61% | 47.30% |
+| Natural gas | 3.914 | 0.15 | -3.57% | -3.60% | 6.91% | 54.16% |
+| Gasoline | 2.3586 | 0.01 | 0.31% | 2.94% | 4.01% | 67.26% |
+| Heating oil | 2.1953 | 0.01 | 0.27% | 2.88% | 1.81% | 47.93% |
+| Ethanol | 2.22 | 0 | 0.00% | -4.31% | -10.48% | 54.92% |
+| Naphtha | 681.9 | 8.62 | 1.28% | 1.48% | 7.62% | 57.59% |
+| Propane | 1.13 | 0.04 | 3.35% | 3.43% | 2.66% | 75.15% |
+| Uranium | 32.3 | 0.1 | -0.31% | -0.46% | -0.62% | 5.21% |
+| Methanol | 2792 | 181 | 6.93% | 4.26% | 10.05% | 15.56% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,813.3 | 14.71 | -0.80% | 0.66% | 2.06% | -4.39% |
+| Silver | 25.476 | 0.05 | -0.21% | 1.25% | -2.06% | -3.35% |
+| Platinum | 1,049.0 | 11.47 | -1.08% | -1.18% | -3.10% | -1.59% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.4735 | 0.05 | -1.03% | 1.52% | 5.46% | 27.12% |
+| Coal | 150.15 | 0.22 | 0.15% | 2.72% | 16.06% | 84.87% |
+| Steel | 5,745 | 88 | 1.56% | 2.64% | 15.57% | 36.14% |
+| Iron Ore | 191 | 6 | -3.05% | -6.60% | -12.39% | 20.50% |
+| Aluminum | 2,597.8 | 2.25 | 0.09% | 3.61% | 3.60% | 31.15% |
+| Iron Ore Fe62% | 211.99 | 1.53 | -0.72% | -1.87% | 0.09% | 36.03% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.18665 | 0.0027 | -0.23% | 0.81% | 0.18% | -2.87% |
+| GBP/USD | 1.39075 | 0.0061 | -0.44% | 1.23% | 1.07% | 1.71% |
+| USD/JPY | 109.68 | 0.272 | 0.25% | -0.78% | -1.69% | 6.23% |
+| USD/CNY | 6.46113 | 0.0034 | 0.05% | -0.21% | -0.18% | -0.63% |
+| USD/CHF | 0.9058 | 0.00038 | 0.04% | -1.50% | -2.17% | 2.34% |
+| USD/SGD | 1.35463 | 0.00233 | 0.17% | -0.38% | 0.40% | 2.46% |
+| USD/KRW | 1147.53 | 8.48401 | 0.74% | -0.01% | 1.44% | 5.85% |
+| USD/INR | 74.337 | 0.092 | 0.12% | -0.12% | -0.30% | 1.78% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 554.00 | 434.50 | 597.00 | $119.5 |
+| Rotterdam | 537.50 | 423.00 | 592.00 | $114.5 |
+| Fujairah | 551.00 | 438.50 | 648.00 | $112.5 |
+| Houston | 541.00 | 431.50 | 624.00 | $109.5 |

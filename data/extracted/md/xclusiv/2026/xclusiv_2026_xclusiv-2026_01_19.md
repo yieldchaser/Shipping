@@ -253,3 +253,69 @@ In the VLCC market, clients of Sinokor were behind a series of acquisitions, inc
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 0.3% at 49,359 points, S&P 500 went down by 0.38% at 6,940 points and NASDAQ fell by 0.66% at 23,515 points. In Europe the Euro Stoxx50 closed up by 0.53% at 6,029 points and Stoxx600 up by 0.77% at 614 points mark. In Asia, the Nikkei closed the week at 53,936, gaining 3.84% on a weekly basis, while Hang Seng went up by 2.34% at 26,845 points mark and the CSI 300 index closed the week at 4,732 points, 0.57% low-er than previous week.
+- WTI crude oil futures fell below USD 59 per barrel after re-cording a fourth weekly gain, as cooling tensions in Iran allevi-ated concerns over potential supply disruptions. Market anxi-ety surrounding Iran calmed after Trump signaled last week that he may delay any military action, following Iran’s pledge not to execute protesters. However, Trump warned that strong measures could still be taken if executions resume, keeping some geopolitical risk premium in the market.
+- Coal prices strengthened toward $110 per ton, approaching a six-week high after official data showed China’s coal produc-tion reached a record in 2025 as Beijing continued to priori-tize energy security amid a gradual shift toward clean energy. Output rose 1.2% to 4.83 billion tons, with coal still providing over 50% of the country’s energy needs. China is also prepar-ing to launch more than 100 coal-fired power generators this year, expected to supply electricity domestically and abroad.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 59.07 | -0.74% | 2.86% |
+| Brent | 63.79 | -0.11% | 4.85% |
+| Natural gas | 3.56 | 4.62% | -3.24% |
+| Gasoline | 1.78 | -1.12% | 4.18% |
+| Heating oil | 2.26 | 5.00% | 6.63% |
+| Ethanol | 1.54 | -3.75% | -2.99% |
+| Naphtha | 514.65 | -0.41% | 5.38% |
+| Propane | 0.62 | -3.20% | -3.01% |
+| Uranium | 85.25 | 3.02% | 4.41% |
+| Methanol | 2,177 | -2.16% | -0.59% |
+| TTF Gas | 34.86 | 15.23% | 23.76% |
+| UK Gas | 90.76 | 15.82% | 23.26% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4666.80 | 1.51% | 8.06% |
+| Silver | 93.38 | 9.79% | 31.20% |
+| Platinum | 2364.30 | -0.58% | 14.33% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 5.86 | -2.75% | 3.23% |
+| Coal | 108.85 | 1.44% | 1.26% |
+| Steel | 3113.00 | -0.57% | 0.55% |
+| Iron Ore | 107.15 | -0.81% | 0.02% |
+| Aluminum | 3,150 | -1.19% | 5.21% |
+| LithiumCNY/T | 151,000 | -0.66% | 27.43% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.163 | -0.29% | -0.92% |
+| GBP/USD | 1.342 | -0.35% | -0.32% |
+| USD/JPY | 157.919 | -0.13% | 0.75% |
+| USD/CNY | 6.956 | -0.19% | -0.30% |
+| USD/CHF | 0.798 | 0.04% | 0.61% |
+| USD/SGD | 1.285 | -0.09% | -0.11% |
+| USD/KRW | 1473.01 | 0.39% | 2.25% |
+| USD/INR | 90.901 | 0.83% | 1.15% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-o-w | % Spread w-o-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 448.50 | 377.00 | 620.00 | 71.50 | 1.0 | 1.4% |
+| Rotterdam | 432.00 | 370.00 | 648.50 | 62.00 | 0.5 | 0.8% |
+| Fujairah | 440.00 | 348.50 | 721.50 | 91.50 | 4.0 | 4.6% |
+| Houston | 431.00 | 351.00 | 617.50 | 80.00 | 3.0 | 3.9% |

@@ -188,3 +188,71 @@ XIN YUAN 91,439 2002 JAPAN OSHIMA UNDISCLOSED 14.8 SS: 07/2025 - DD: 07/2023
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 0.4% at 34,861 points, S&P 500 went up by 1.82% at 4,543 points and NASDAQ rise by 1.99% at 14,169 points. The main European indices closed slightly down than previous week, with the Euro Stoxx50 closing down by only 0.89% at 3,868 points and Stoxx600 down by 0.01% at 454 points mark. In Asia, the Nikkei closed the week at 28,139, gaining 4.89% on a weekly basis, while Hang Seng went down by 0.28% at 21,419 points mark and the CSI 300 index closed the week at 4,176 points, 2.29% lower than previous week.
+- WTI & Brent crude futures fell more than 4% to below USD 110 & USD 115 per barrel today, in anticipation of a drop of fuel demand in China after authorities in Shanghai said they would shut the country’s financial hub to carry out Covid-19 testing over a nine-day period. Shanghai’s city government said Sunday public transport, including ride-hailing services, will be suspended during the lockdown, adding that unapproved vehicles will not be allowed on the roads. It also said that all companies and factories will suspend manufacturing or have people work remotely.
+- Newcastle coal futures consolidated below USD 350 per tonne in late March, a level not seen in three weeks, as the latest coronavirus-induced restrictions in China, particularly in Tangshan & Shanghai, hurt transportation and led to increased inventories at mines while also dampened demand. China's coal output rose 10.3% from a year earlier in the first two months of 2022, after Beijing asked miners to ramp up production for the winter season and amid an export ban in Indonesia.
+- Late in March, US natural gas futures were trading at USD 5.59/MMBtu, the highest since November 4th as the world rushes to replace Russian gas supplies after Russia invaded Ukraine. Last week, the US and the European Union reached a new gas deal to wean Europe off of its dependence on Russian energy. With the agreement, Europe will be supplied with an additional 15 billion cubic meters of LNG this year, and 50 billion cubic meters by 2030.
+- The price of heating oil futures is near USD 4 a gallon, close to the all-time high of USD 4.45 reached earlier this month. As the weather forecasts pointed to colder weather over the next week, demand for heating is expected to remain strong.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 113.9 | 1.56 | 1.39% | 10.49% | 21.82% | 86.81% |
+| Brent | 119.6 | 0.57 | 0.48% | 10.81% | 22.08% | 85.23% |
+| Natural gas | 5.542 | 0.141 | 2.61% | 13.96% | 25.90% | 111.61% |
+| Gasoline | 3.4211 | 0.0314 | 0.93% | 5.63% | 16.66% | 73.90% |
+| Heating oil | 4.1146 | 0.0388 | -0.93% | 14.35% | 40.37% | 127.33% |
+| Ethanol | 2.485 | 0 | 0.00% | 1.02% | 15.22% | 35.98% |
+| Naphtha | 1008.51 | 16.4 | 1.65% | 2.99% | 17.34% | 76.99% |
+| Propane | 1.45 | 0.01 | 0.53% | 3.02% | 10.55% | 57.51% |
+| Uranium | 59.05 | 0.05 | -0.08% | 3.14% | 20.63% | 93.61% |
+| Methanol | 3106 | 74 | 2.44% | 5.00% | 13.81% | 34.23% |
+| TTF Gas | 98.63 | 12.98 | -11.63% | -6.11% | 0.04% | 427.46% |
+| UK Gas | 233 | 31.82 | -12.02% | -5.28% | -2.01% | 381.50% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,957.6 | 0.07 | 0.00% | 1.90% | 2.60% | 13.02% |
+| Silver | 25.49 | 0.022 | -0.08% | 2.16% | 4.38% | 1.78% |
+| Platinum | 1,002.0 | 18.19 | -1.78% | -1.96% | -3.97% | -15.41% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.686 | 0.043 | -0.91% | -0.49% | 5.43% | 14.99% |
+| Coal | 327.2 | 0.5 | 0.15% | -2.20% | 19.18% | 248.22% |
+| Steel | 4,985 | 40 | 0.81% | 0.85% | 5.70% | 4.51% |
+| Iron Ore | 146 | 4 | 2.82% | 0.69% | 6.96% | -9.32% |
+| Aluminum | 3,605.0 | 18.5 | -0.51% | 6.63% | 7.02% | 58.41% |
+| Iron Ore Fe62% | 149.87 | 0.24 | 0.16% | -0.48% | 5.55% | -10.20% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.09821 | 0.0023 | -0.21% | -0.62% | -2.11% | -6.89% |
+| GBP/USD | 1.31806 | 0.0009 | -0.07% | 0.03% | -1.80% | -4.43% |
+| USD/JPY | 122.089 | 0.283 | -0.23% | 2.51% | 6.10% | 11.32% |
+| USD/CNY | 6.38406 | 0.0042 | 0.07% | 0.35% | 1.14% | -2.47% |
+| USD/CHF | 0.93051 | 0 | 0.00% | -0.14% | 1.42% | -0.96% |
+| USD/SGD | 1.35807 | 0.0006 | 0.04% | 0.22% | 0.17% | 0.78% |
+| USD/KRW | 1220.63 | 1.05 | 0.09% | 0.78% | 1.71% | 8.16% |
+| USD/INR | 76.28 | 0.02 | -0.03% | 0.30% | 1.04% | 5.05% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 903.50 | 691.00 | 1122.0 | 212.50 | -17.5 | -7.6% |
+| Rotterdam | 911.50 | 703.50 | 1244.0 | 208.00 | 4.0 | 2.0% |
+| Fujairah | 921.50 | 724.50 | 1282.5 | 197.00 | -55.0 | -21.8% |
+| Houston | 931.50 | 733.50 | 1267.5 | 198.00 | 14.0 | 7.6% |

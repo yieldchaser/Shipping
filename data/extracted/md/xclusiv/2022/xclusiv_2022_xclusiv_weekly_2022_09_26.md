@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_09_26.pdf
 source_sha256: f7c6d5cf561aa2843e189cfc4f6368312f5020664d607d24f9dec13cd58500f8
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:15:59Z'
 ---
@@ -173,3 +173,71 @@ The VLCC “Viki” - 310K/2000 Samsung changed hands for USD 29.5 mills, while 
 | Tankers | Bangladesh | $610 | $610 | 0 |
 | Tankers | Pakistan | $590 | $595 | -5 |
 | Tankers | Turkey | $270 | $280 | -10 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 4% at 29,590 points, S&P 500 went down by 4.65% at 3,693 points and NASDAQ fell by 5.07% at 10,868 points. The main European indices closed almost the same as previous week, with the Euro Stoxx50 closing down by only 4.34% at 3,349 points and Stoxx600 down by 4.37% at 390 points mark. In Asia, the Nikkei closed the week at 27,154, losing 2.59% on a weekly basis, while Hang Seng went down by 4.42% at 17,933 points mark and the CSI 300 index closed the week at 3,856 points, 1.95% lower than previous week.
+- The price of WTI crude futures dropped to USD 78 per barrel, entering the fifth week of losses, on fears that further monetary tightening would trigger a recession and dampen energy demand.
+- Natural gas futures hit a low below $7/MMBtu, a level not seen in two months, as a bigger-than-expected storage build pressured prices. In Europe, wholesale gas prices were trading at around €169 per megawatt hour, a level not seen in two months, as plentiful supplies of LNG, especially from the US, helped countries fill storage sites before the winter season.
+- The Newcastle coal futures price traded around $440 in September, down from a record high of $460 earlier in the month due to worries about supply disruptions in the US. A railroad strike that would have halted coal supply to most power plants in the country was averted after Washington reached an agreement with labor unions.
+- At the end of September, the euro hovered around its weakest level since June 2002, as recession fears mounted, and investors digested the results of Italy's election. Data released on Friday showed that Eurozone business activity contracted in September for the third consecutive month and is likely to continue to decline through the end of the year. While the region encounters an economic recession, policymakers at the European Central Bank have indicated they will continue to pursue higher interest rates to combat inflation.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 79.609 | 0.869 | 1.10% | -6.74% | -13.83% | 5.51% |
+| Brent | 86.977 | 0.827 | 0.96% | -5.46% | -12.15% | 9.36% |
+| Natural gas | 6.8115 | 0.0244 | -0.36% | -12.13% | -26.73% | 18.85% |
+| Gasoline | 2.394 | 0.005 | -0.21% | -2.84% | -10.58% | 7.66% |
+| Heating oil | 3.2412 | 0.0041 | 0.13% | -2.10% | -17.64% | 41.17% |
+| Ethanol | 2.435 | 0.015 | -0.61% | -1.81% | -4.88% | 1.46% |
+| Naphtha | 624.75 | 6.08 | -0.96% | -0.58% | -5.66% | -7.76% |
+| Propane | 0.99 | 0.02 | -1.64% | -4.45% | -9.21% | -22.07% |
+| Uranium | 49.65 | 0.5 | -1.00% | 1.85% | 0.71% | 12.08% |
+| Methanol | 2711 | 13 | -0.48% | 0.00% | 9.23% | -14.18% |
+| TTF Gas | 185.5 | 1.97 | -1.05% | -1.22% | -36.51% | 164.09% |
+| UK Gas | 286.58 | 1.03 | -0.36% | -1.45% | -47.59% | 62.88% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,640.5 | 2.77 | -0.17% | -2.11% | -5.55% | -6.25% |
+| Silver | 18.801 | 0.054 | -0.29% | -4.13% | 0.27% | -16.99% |
+| Platinum | 854.0 | 46.39 | -5.15% | -5.84% | -2.60% | -13.03% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.3712 | 0.0003 | -0.01% | -5.61% | -8.81% | -21.48% |
+| Coal | 435.2 | 0.45 | -0.10% | -0.87% | 5.48% | 140.44% |
+| Steel | 3,948 | 40 | 1.02% | 1.31% | -3.02% | -32.06% |
+| Iron Ore | 101 | 0.5 | 0.50% | -0.49% | -5.16% | -7.34% |
+| Aluminum | 2,165.0 | 63.5 | -2.85% | -4.92% | -10.91% | -26.01% |
+| Iron Ore Fe62% | 98.89 | 0.06 | 0.06% | -0.37% | -6.31% | -17.66% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 0.96806 | 0.00047 | -0.05% | -3.44% | -3.15% | -17.22% |
+| GBP/USD | 1.08118 | 0.00372 | -0.34% | -5.46% | -7.65% | -21.10% |
+| USD/JPY | 143.537 | 0.162 | 0.11% | 0.20% | 3.49% | 29.32% |
+| USD/CNY | 7.1366 | 0.0036 | 0.05% | 1.90% | 3.51% | 10.47% |
+| USD/CHF | 0.9819 | 0.0052 | 0.53% | 1.79% | 1.62% | 6.14% |
+| USD/SGD | 1.4308 | 0.0124 | 0.87% | 1.80% | 2.66% | 5.73% |
+| USD/KRW | 1421.34 | 17.11 | 1.22% | 2.64% | 6.02% | 20.49% |
+| USD/INR | 81.25 | 0.203 | 0.25% | 1.96% | 1.84% | 10.08% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 690.00 | 486.00 | 925.50 | 204.00 | -72.0 | -26.1% |
+| Rotterdam | 653.50 | 430.00 | 1002.5 | 223.50 | -18.5 | -7.6% |
+| Fujairah | 697.50 | 418.50 | 1232.0 | 279.00 | 4.5 | 1.6% |
+| Houston | 652.00 | 446.50 | 987.00 | 205.50 | 2.0 | 1.0% |

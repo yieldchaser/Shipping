@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_02_14.pdf
 source_sha256: 22599d64f74add7a514150e572c816c54b62aa1ef1096aafa5a4f8da3e1e3f45
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:35Z'
 ---
@@ -188,3 +188,71 @@ On the NB front, Mitsui OSK lines has placed an order for a 54,800 cbm ice- brea
 | Tankers | Bangladesh | $640 | $640 | 0 |
 | Tankers | Pakistan | $620 | $620 | 0 |
 | Tankers | Turkey | $340 | $340 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 1% at 34,738 points, S&P 500 went down by 1.81% at 4,419 points and NASDAQ fell by 2.18% at 13,791 points. The main European indices increased this week, with the Euro Stoxx50 closing up by 1.68% at 4,155 points and Stoxx600 up by 1.61% at 470 points mark. In Asia, the Nikkei closed the week at 27,080, losing 0.62% on a weekly basis, while Hang Seng went up by 0.33% at 24,563 points mark and the CSI 300 index closed the week at 4,599 points, 0.78% higher than previous week.
+- Peabody Energy, the world’s biggest private sector coal producer, posted its highest quarterly profit in at least two decades as it rode a wave of surging demand despite global efforts to shift away from the dirtiest fossil fuel. The company on Thursday reported net income of $513mn in the final three months of 2021, up from a loss of $129mn a year ago, marking its most profitable period in S&P Global Market Intelligence records going back to 1999.
+- Gold prices are close to a 3-month high, at levels above USD 1,850 an ounce on Monday. Concerns over rising consumer prices and warnings over the weekend that a Russian invasion of Ukraine “could begin at any time” were the main reasons for Gold surging nearly 3% last week.
+- Fear of escalating geopolitical tensions over Ukraine doesn’t only affect gold prices but it is also the reason European gas prices climbed to a two-week high of €88 per megawatt-hour before easing back to around €83. The US warned that Russia might attack its neighbour before the Beijing Olympics end in a week.
+- Steel rebar futures hit a 16-week high of almost CNY 5,000 on February 11th but afterwards fell to CNY 4,800 per tonne, as lower prices of steelmaking ingredients such as iron ore after Chinese authorities pledged to strengthen supervision of the market and crackdown on any irregularities. Since the beginning of the year the cost of steel increased over 5% on expectations of higher Chinese demand when steel production restrictions are lifted after the Beijing Winter Olympics this month, as well as supported by China’s government plans of infrastructure investment.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 93.1 | 3.22 | 3.58% | 0.86% | 13.51% | 56.55% |
+| Brent | 94.44 | 3.03 | 3.31% | 1.25% | 12.46% | 51.27% |
+| Natural gas | 3.941 | 0.018 | -0.45% | -13.80% | -18.86% | 35.34% |
+| Gasoline | 2.7386 | 0.0732 | 2.75% | 2.24% | 14.41% | 61.81% |
+| Heating oil | 2.9109 | 0.0837 | 2.96% | 1.25% | 14.44% | 64.33% |
+| Ethanol | 2.14 | 0.015 | 0.71% | 5.03% | -0.12% | 27.00% |
+| Naphtha | 857.3 | 16.37 | 1.95% | 2.15% | 13.66% | 59.04% |
+| Propane | 1.26 | 0.01 | 1.11% | -1.75% | 8.10% | 43.48% |
+| Uranium | 43.95 | 0.35 | 0.80% | 0.00% | -5.48% | 47.98% |
+| Methanol | 2697 | 21 | 0.78% | -6.35% | 8.66% | 14.86% |
+| TTF Gas | 77.43 | 3.07 | 4.13% | -6.32% | 3.02% | 339.47% |
+| UK Gas | 185.86 | 7.7 | 4.32% | -7.30% | 3.27% | 314.40% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,860.0 | 33.39 | 1.83% | 2.90% | 1.90% | 2.00% |
+| Silver | 23.566 | 0.388 | 1.67% | 4.83% | 1.96% | -13.84% |
+| Platinum | 1,027.5 | 1.08 | 0.10% | 0.34% | 5.16% | -17.97% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.506 | 0.1535 | -3.29% | 0.41% | -1.54% | 18.95% |
+| Coal | 245.0 | 5.9 | 2.47% | 10.86% | 24.30% | 180.32% |
+| Steel | 4,999 | 39 | 0.79% | 3.97% | 8.23% | 16.42% |
+| Iron Ore | 145.5 | 1.5 | -1.02% | 1.39% | 15.02% | -8.78% |
+| Aluminum | 3,136.5 | 114 | -3.51% | 2.03% | 5.16% | 50.05% |
+| Iron Ore Fe62% | 150.87 | 0.7 | -0.46% | 3.73% | 17.26% | -5.50% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.1344 | 0.0004 | 0.04% | -0.97% | -0.62% | -6.42% |
+| GBP/USD | 1.3556 | 0.0009 | 0.07% | 0.17% | -0.87% | -2.26% |
+| USD/JPY | 115.43 | 0.213 | 0.18% | 0.15% | 1.09% | 9.88% |
+| USD/CNY | 6.36544 | 0.001 | -0.02% | 0.07% | 0.05% | -0.85% |
+| USD/CHF | 0.92625 | 0.0007 | 0.08% | 0.08% | 1.32% | 3.86% |
+| USD/SGD | 1.34394 | 0.0002 | -0.01% | -0.09% | -0.16% | 1.47% |
+| USD/KRW | 1194.19 | 1.42 | -0.12% | -0.02% | 0.70% | 8.31% |
+| USD/INR | 75.3188 | 0.2448 | 0.33% | 0.91% | 2.09% | 3.77% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 729.00 | 516.00 | 823.00 | 213.00 | 13.0 | 6.5% |
+| Rotterdam | 683.50 | 514.50 | 814.50 | 169.00 | -2.5 | -1.5% |
+| Fujairah | 733.00 | 536.00 | 881.50 | 197.00 | 1.5 | 0.8% |
+| Houston | 706.50 | 525.50 | 895.00 | 181.00 | 36.0 | 24.8% |

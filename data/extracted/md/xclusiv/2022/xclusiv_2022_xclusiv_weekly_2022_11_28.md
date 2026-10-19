@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_11_28.pdf
 source_sha256: 754ff6a4c8956db6179d2b83b3777d84e8702116afe64df6ce673054327e2fe3
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:16:27Z'
 ---
@@ -175,3 +175,71 @@ Undoubtedly the tanker market enjoys its highest freight rates in the last 18 ye
 | Tankers | Bangladesh | $540 | $550 | -10 |
 | Tankers | Pakistan | $530 | $540 | -10 |
 | Tankers | Turkey | $260 | $255 | 5 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 1.8% at 34,347 points, S&P 500 went up by 1.53% at 4,026 points and NASDAQ rise by 0.72% at 11,226 points. The main European indices closed higher than previous week for 8 weeks in a row, with the Euro Stoxx50 closing up by 0.96% at 3,962 points and Stoxx600 up by 1.79% at 441 points mark. In Asia, the Nikkei closed the week at 28,283, gaining 1.37% on a weekly basis, while Hang Seng went down by 2.33% at 17,574 points mark and the CSI 300 index closed the week at 3,776 points, 0.68% lower than previous week.
+- WTI crude futures dropped about 3% to around USD 74 per barrel, sinking to the lowest levels since December last year while Brent crude futures dropped more than 2% below USD 82 per barrel on Monday, sinking to the lowest levels since January as widespread protests in China over its strict zero-Covid policy hurt investor sentiment and the demand outlook. Oil prices were also pressured by reports that the US granted Chevron Corp a license to resume oil production in Venezuela.
+- Prices for iron ore cargoes with a 63.5% iron ore content for delivery into Tianjin rose to USD 101.5 per tonne in late November, set to close the month nearly 25% higher at levels last seen in mid-September as expansionary measures from China to sustain their slowing economy outweighed concerns regarding strict lockdowns protests. The country’s largest commercial banks agreed to extend USD 162 billion in fresh credit lines to private developers to fight the property sector’s liquidity crunch, and the PBoC further cut banks' reserve requirement ratio.
+- Newcastle coal futures were trading near USD 350 per tonne, more than 120% above last year's level as the use of coal increased sharply since Russia's invasion of Ukraine sent prices of other fossil fuels surging and supply remains limited. Wet weather and flooding brought to Australia by La Niña phenomenon have hit coal production for miners, including Glencore, BHP, and Anglo-American.
+- US natural gas futures were trading around USD 6.7/MMBtu, moving further away from an almost two-month peak of USD 7.3/MMBtu hit on November 23st, as forecasts for less cold weather over the next two weeks should reduce the need for extra heating.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 74.019 | 2.262 | -2.96% | -7.52% | -13.33% | 6.32% |
+| Brent | 81.19 | 2.441 | -2.92% | -7.16% | -12.52% | 11.46% |
+| Natural gas | 6.6711 | 0.3529 | -5.02% | -1.55% | 4.97% | 39.91% |
+| Gasoline | 2.2904 | 0.0378 | -1.62% | -6.02% | -9.32% | 13.29% |
+| Heating oil | 3.2053 | 0.0338 | -1.04% | -8.35% | -12.76% | 49.60% |
+| Ethanol | 2.6 | 0 | 0.00% | 0.39% | 5.69% | -24.64% |
+| Naphtha | 668.8 | 2.62 | -0.39% | -1.13% | -0.32% | -8.60% |
+| Propane | 0.86 | 0 | -0.01% | -1.02% | 0.07% | -32.75% |
+| Uranium | 50.35 | 0 | 0.00% | -0.69% | -5.62% | 6.22% |
+| Methanol | 2682 | 27 | -1.00% | 0.71% | 1.63% | 1.59% |
+| TTF Gas | 122.45 | 1.92 | -1.54% | 5.44% | -0.73% | 31.46% |
+| UK Gas | 288.46 | 3.23 | -1.11% | 6.24% | 46.12% | 29.89% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,757.7 | 1.51 | 0.09% | 1.14% | 7.63% | -1.53% |
+| Silver | 21.372 | 0.218 | -1.01% | 2.55% | 11.66% | -6.63% |
+| Platinum | 987.8 | 7.24 | 0.74% | 0.58% | 6.70% | 2.55% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.5957 | 0.0128 | -0.35% | 0.68% | 5.34% | -17.09% |
+| Coal | 349.4 | 1.65 | 0.47% | 1.73% | -9.60% | 121.84% |
+| Steel | 3,727 | 6 | 0.16% | -0.05% | 7.59% | -11.62% |
+| Iron Ore | 101.5 | 2.5 | 2.53% | 2.01% | 9.14% | 5.18% |
+| Aluminum | 2,362.5 | 5 | -0.21% | -2.78% | 1.18% | -9.66% |
+| Iron Ore Fe62% | 92.74 | 0.8 | 0.87% | -0.16% | -0.88% | -1.80% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.04223 | 0.0029 | 0.28% | 1.77% | 5.42% | -7.73% |
+| GBP/USD | 1.20784 | 0.0003 | -0.02% | 2.18% | 5.31% | -9.30% |
+| USD/JPY | 137.703 | 1.355 | -0.97% | -3.12% | -7.42% | 21.01% |
+| USD/CNY | 7.21279 | 0.0171 | 0.24% | 0.47% | -1.67% | 12.98% |
+| USD/CHF | 0.94336 | 0.0019 | -0.21% | -1.63% | -5.77% | 2.23% |
+| USD/SGD | 1.37524 | 0.0005 | 0.04% | -0.47% | -2.86% | 0.48% |
+| USD/KRW | 1339.26 | 4.78 | 0.36% | -1.47% | -6.07% | 12.48% |
+| USD/INR | 81.64 | 0.045 | -0.06% | -0.07% | -1.37% | 8.81% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 671.50 | 417.50 | 1000.0 | 254.00 | 34.0 | 15.5% |
+| Rotterdam | 578.00 | 379.00 | 887.00 | 199.00 | 40.0 | 25.2% |
+| Fujairah | 642.50 | 376.00 | 1103.0 | 266.50 | 31.5 | 13.4% |
+| Houston | 580.00 | 410.00 | 947.50 | 170.00 | -49.0 | -22.4% |

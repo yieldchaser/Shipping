@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_11_29-.pdf
 source_sha256: 37cf3c2896641ff9d6c0509fd8c8486a4eb59245aebb86a61d2d2f87bf6e5857
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:17Z'
 ---
@@ -181,3 +181,73 @@ On the wet sector, 4x LR2’s the “Front Panther”-115K/2015 Guangzhou Longxu
 | Tankers | Bangladesh | $620 | $620 | 0 |
 | Tankers | Pakistan | $615 | $615 | 0 |
 | Tankers | Turkey | $320 | $310 | 10 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the main indices closed the week with a significant fall. On weekly basis, Dow fell by 2.7% at 34,899 points, S&P 500 went down by 2.3% at 4,595 points and NASDAQ decreased by 3.1% at 15,492,. The main European indices closed much lower than previous week, with Euro Stoxx50 down by 6.1% at 4,089.58 points and Stoxx600 down by 4.5% at 464.05 points mark.
+- In Asia, the Nikkei closed the week at 28,284 losing 4.9% on weekly basis while Hang Seng fell 4.5% at 23,836 points mark and CSI 300 index closed the week at 4,860 points, 0.61% lower than previous week.
+- U.S. and European equity futures climbed Monday along with crude oil and Treasury yields as investors tried to calibrate economic risks from the omicron coronavirus strain, bringing some calm back to markets. WTI oil rallied back above $71 a barrel and the 10-year U.S. Treasury yield rose past 1.50%.
+- The Euro having reached $1.12 the lowest since July 2020, at week ending bounced back just above $1.13, helped by a weaker US dollar and falling bond yields, as investors fear that a new and possibly vaccine-resistant Omicron variant could hurt the ongoing economic recovery.
+- WTI crude futures extended losses to near 11% to below $70 per barrel on Friday, the lowest in eleven weeks on growing demand concerns after a new and possibly vaccine-resistant coronavirus variant was detected in South Africa triggering worry about the potential for travel restrictions.
+- Coal prices recovered ground to near $160 per metric ton in late November, amid increasing demand from Europe as gas prices remain elevated and coal plants remain significantly more profitable than gas plants and as production curbs in China seem to start easing.
+- Iron ore price fell back below $100 per metric tone last week. Meanwhile, expectations of rising steel production in December should continue to support iron ore prices from recent 18-month lows. Chinese steel firms are set to raise output for the rest of the year after complying with a raft of strict curbs imposed by the government.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 71.83 | 3.69 | 5.41% | -6.41% | -12.88% | 48.04% |
+| Brent | 76.25 | 3.53 | 4.85% | -4.33% | -9.99% | 47.20% |
+| Natural gas | 5.447 | 0.375 | 7.39% | 7.54% | -12.12% | 114.53% |
+| Gasoline | 2.1399 | 0.1105 | 5.44% | -5.32% | -11.18% | 51.76% |
+| Heating oil | 2.17 | 0.0755 | 3.60% | -6.68% | -13.31% | 46.23% |
+| Ethanol | 2.207 | 0 | 0.00% | 0.00% | 0.00% | 54.01% |
+| Naphtha | 731.71 | -10.44 | -1.41% | -0.38% | -4.16% | 69.10% |
+| Propane | 1.27 | 0 | -0.03% | 1.73% | -11.96% | 97.20% |
+| Uranium | 47.4 | -0.65 | -1.35% | -0.42% | -3.07% | 54.40% |
+| Methanol | 2664 | -35 | -1.30% | -1.00% | -5.40% | 10.26% |
+| TTF Gas | 93.9 | 6.13 | 6.98% | 7.78% | 8.16% | 391.03% |
+| UK Gas | 240 | 17.92 | 8.07% | 13.65% | 43.31% | 325.53% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,792.7 | 4.24 | 0.24% | -2.81% | -0.22% | -5.47% |
+| Silver | 23.13 | -0.445 | -1.89% | -5.93% | -3.80% | -12.25% |
+| Platinum | 953.7 | -41.57 | -4.18% | -7.52% | -5.62% | -10.53% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.281 | -0.1545 | -3.48% | -2.48% | -2.46% | 21.65% |
+| Coal | 157.5 | -0.5 | -0.32% | 3.28% | -29.48% | 95.65% |
+| Steel | 4,295 | -71 | -1.63% | 0.49% | -11.21% | 1.78% |
+| Iron Ore | 96.5 | -4 | -3.98% | 11.56% | -17.52% | -39.12% |
+| Aluminum | 2,615.0 | -102.5 | -3.77% | -2.41% | -2.64% | 32.02% |
+| Iron Ore Fe62% | 94.44 | 0.11 | 0.12% | 1.79% | -22.82% | -39.40% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.1307 | 0.0096 | 0.86% | 0.24% | -2.52% | -7.45% |
+| GBP/USD | 1.33345 | 0.0018 | 0.13% | -0.83% | -2.90% | -2.48% |
+| USD/JPY | 113.21 | -1.91 | -1.66% | -0.71% | -0.48% | 9.65% |
+| USD/CNY | 6.39601 | 0.0086 | 0.13% | 0.09% | 0.03% | -1.64% |
+| USD/CHF | 0.92223 | -0.0136 | -1.45% | -0.71% | 0.45% | 4.20% |
+| USD/SGD | 1.37003 | 0.0019 | 0.14% | 0.72% | 1.58% | 3.63% |
+| USD/KRW | 1190.2 | 4.2 | 0.35% | 0.59% | 1.87% | 9.78% |
+| USD/INR | 75.04 | 0.565 | 0.76% | 0.95% | -0.03% | 2.74% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 627.00 | 457.00 | 674.00 | 170.00 | 16.0 | 10.4% |
+| Rotterdam | 566.00 | 428.00 | 642.00 | 138.00 | 5.5 | 4.2% |
+| Fujairah | 623.50 | 469.50 | 760.00 | 154.00 | 12.0 | 8.5% |
+| Houston | 594.00 | 467.50 | 701.50 | 126.50 | -1.5 | -1.2% |

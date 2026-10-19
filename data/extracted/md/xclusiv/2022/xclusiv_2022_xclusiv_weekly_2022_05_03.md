@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_05_03.pdf
 source_sha256: f79ff57936492979ac2ad4686867b43ece03a18cbb31711f871ae2a084ed9e11
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:59Z'
 ---
@@ -188,3 +188,71 @@ The Tanker S&P activity remains strong, with a number of transactions to report.
 | Tankers | Bangladesh | $670 | $680 | -10 |
 | Tankers | Pakistan | $690 | $695 | -5 |
 | Tankers | Turkey | $455 | $465 | -10 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 1.8% at 33,828 points, S&P 500 went down by 2.75% at 4,272 points and NASDAQ fell by 3.84% at 12,839 points. The main European indices closed down this week, with the Euro Stoxx50 closing down by only 0.23% at 3,840 points and Stoxx600 down by 1.42% at 453 points mark. In Asia, the Nikkei closed the week at 27,107, gaining 0.04% on a weekly basis, while Hang Seng went down by 4.2% at 20,615 points mark and the CSI 300 index closed the week at 4,011 points, 4.24% lower than previous week.
+- As investors assessed potential EU bans on Russian oil against a weakening demand backdrop, WTI crude futures hit around the USD 105 level, down from its daily highs around USD 106. With the EU planning to tighten sanctions against Russia, Germany said it was willing to support an immediate embargo on Russian oil. US manufacturing activity grew at its slowest pace since July 2020 on the demand side. China reported that factory activity declined for a second straight month to its lowest level since February 2020 amid renewed coronavirus-related lockdowns.
+- The price of gasoline jumped past USD 3.5 a gallon, the highest since a 10-year high of USD 3.8 hit on March 7th, driven by tight supplies due to strong demand from US fuel imports as the world moves away from Russian energy. OPEC+ is expected to maintain its planned output increase of 432,000 barrels a day in June, even as the EU comes closer to joining the US and UK in banning Russian crude imports.
+- Copper futures bottomed around USD 4.4-per-tonne, a level not seen since late December, on concerns about growth and demand in top consumer China after a coronavirus-induced lockdown. China's factory activity has declined for the second consecutive month for the first time since February 2020, according to data released over the weekend.
+- The Euro was around USD 1.05 in the beginning of May, remaining close to low levels not seen since December of 2016, amid a stronger dollar as the Fed is expected to deliver a 50bps rate hike in the fed funds rate this week, which would be the second consecutive rate hike and the biggest since 2008. At the same time, traders remain concerned that the ECB will maintain a more cautious monetary approach and would take a lot longer than the Fed to start tightening, although the inflation rate in the Euro Area continues to break fresh record highs.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 104.69 | 0.67 | -0.64% | 2.57% | -0.94% | 64.66% |
+| Brent | 109.34 | 1.75 | 1.63% | 2.52% | -1.88% | 63.78% |
+| Natural gas | 7.245 | 0.357 | 5.18% | 8.73% | 28.05% | 147.19% |
+| Gasoline | 3.464 | 0.0404 | -1.15% | 4.81% | 5.40% | 66.84% |
+| Heating oil | 4.7817 | 0.3537 | -6.89% | 21.41% | 38.32% | 148.74% |
+| Ethanol | 2.6358 | 0.0017 | -0.06% | -0.91% | 6.71% | 24.48% |
+| Naphtha | 904.21 | 0.4 | -0.04% | -0.57% | -9.33% | 62.06% |
+| Propane | 1.31 | 0 | -0.06% | -0.15% | -9.19% | 59.98% |
+| Uranium | 53.1 | 0.05 | 0.09% | -6.18% | -9.62% | 82.16% |
+| Methanol | 2660 | 3 | 0.11% | -7.28% | -10.29% | 8.44% |
+| TTF Gas | 100 | 0.14 | -0.14% | 5.40% | -15.95% | 329.46% |
+| UK Gas | 161 | 32.34 | 25.14% | -6.06% | -43.16% | 167.26% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,896.0 | 1.66 | 0.09% | -1.75% | -1.92% | 7.20% |
+| Silver | 22.746 | 0.388 | -1.68% | -5.77% | -8.45% | -12.18% |
+| Platinum | 931.0 | 11.65 | 1.27% | 0.05% | -5.99% | -22.32% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.395 | 0.0185 | -0.42% | -4.07% | -7.48% | -1.88% |
+| Coal | 326.3 | 0.25 | 0.08% | 0.09% | 25.50% | 249.73% |
+| Steel | 5,208 | 157 | 3.11% | 1.46% | 3.68% | -2.87% |
+| Iron Ore | 142 | 4 | 2.90% | -2.41% | -5.33% | -24.06% |
+| Aluminum | 3,052.5 | 21 | 0.69% | -5.95% | -14.04% | 26.12% |
+| Iron Ore Fe62% | 150.77 | 0.42 | -0.28% | -2.18% | 0.11% | -16.07% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.05454 | 0.00023 | -0.02% | -1.55% | -3.91% | -12.33% |
+| GBP/USD | 1.258 | 0.00081 | 0.06% | -1.25% | -4.07% | -8.99% |
+| USD/JPY | 129.796 | 0.034 | -0.03% | 1.42% | 5.71% | 18.76% |
+| USD/CNY | 6.64379 | 0.0192 | -0.29% | 1.80% | 4.45% | 2.63% |
+| USD/CHF | 0.97315 | 0.0013 | 0.14% | 1.70% | 5.40% | 6.57% |
+| USD/SGD | 1.38316 | 0.0035 | -0.25% | 0.89% | 2.25% | 3.97% |
+| USD/KRW | 1260.32 | 11.79 | -0.93% | 1.30% | 4.13% | 12.81% |
+| USD/INR | 76.52 | 0.14 | -0.18% | 0.08% | 0.95% | 3.34% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 870.50 | 776.00 | 1198.0 | 94.50 | -19.0 | -16.7% |
+| Rotterdam | 858.00 | 633.00 | 1351.0 | 225.00 | 22.0 | 10.8% |
+| Fujairah | 861.50 | 747.00 | 1351.0 | 114.50 | -15.5 | -11.9% |
+| Houston | 862.00 | 714.00 | 1411.5 | 148.00 | -30.5 | -17.1% |

@@ -9,7 +9,7 @@ year: 2023
 source_file: corpus/01-brokers/xclusiv/2023/xclusiv_2023_xclusiv_weekly_2023_12_04.pdf
 source_sha256: 5030e00bdfacdab0ae75c2a2729e6078441b30a21e6787dded9ae57b74531fdc
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:18:48Z'
 ---
@@ -168,3 +168,71 @@ In the tanker S&P activity, the VLCC “Jessica D”- 301K/2004 IHI found new ow
 | Tankers | Bangladesh | $525 | $525 | 0 |
 | Tankers | Pakistan | $545 | $540 | 5 |
 | Tankers | Turkey | $340 | $340 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 2.4% at 36,246 points, S&P 500 went up by 0.77% at 4,595 points and NASDAQ rise by 0.38% at 14,305 points. The main European indices closed higher again this week, with the Euro Stoxx50 closing up by 1.06% at 4,419 points and Stoxx600 up by 1.35% at 466 points mark. In Asia, the Nikkei closed the week at 33,432, losing 0.58% on a weekly basis, while Hang Seng went down by 4.15% at 16,830 points mark and the CSI 300 index closed the week at 3,483 points, 1.56% lower than previous week.
+- WTI crude futures continued their downward trend on Monday, dipping below USD 74 per barrel for the third consecutive session. The decline stems from lingering concerns over OPEC+'s voluntary output cuts and a softening global demand outlook. Despite agreeing to an additional 1 million barrel-a-day output reduction early next year, the OPEC+ alliance is facing questions about the level of cooperation from individual members. Brazil's imminent addition to the group in 2024, with plans to increase its production to 3.8 million barrels a day, further complicates the picture.
+- US natural gas futures plumbed to new depths on Wednesday, trading below USD 2.8 per million British thermal units (MMBtu) for the first time since early September. The downward spiral is attributed to a combination of factors, including ample storage levels, record-breaking production, and faltering demand.
+- Newcastle coal futures surged to over USD 130 per tonne, driven by the anticipated rise in demand from China coinciding with falling temperatures.
+- The cost of iron ore shipments, featuring a 63.5% iron ore content and destined for delivery in Tianjin, saw a decline to USD 134 per tonne, stepping back from the over one-year peak of USD 138 recorded on November 22nd. This retreat was attributed to heightened caution among buyers due to increased regulatory measures.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 72.985 | 1.085 | -1.47% | -2.51% | -9.45% | -5.31% |
+| Brent | 77.766 | 1.114 | -1.41% | -2.63% | -8.28% | -5.92% |
+| Natural gas | 2.7036 | 0.1104 | -3.92% | -8.23% | -24.14% | -50.70% |
+| Gasoline | 2.1007 | 0.0204 | -0.96% | -2.08% | -5.60% | -5.04% |
+| Heating oil | 2.6431 | 0.0184 | -0.69% | -4.00% | -8.52% | -11.01% |
+| Ethanol | 1.795 | 0.0674 | -3.62% | -4.27% | -3.23% | -17.85% |
+| Naphtha | 631.82 | 4.19 | 0.67% | 0.98% | -1.16% | -0.07% |
+| Propane | 0.71 | 0.06 | 10.09% | 10.73% | 8.11% | -2.68% |
+| Uranium | 81 | 0.75 | 0.93% | 0.93% | 9.46% | 60.87% |
+| Methanol | 2452 | 34 | -1.37% | 2.04% | -0.24% | -5.03% |
+| TTF Gas | 42.02 | 1.48 | -3.39% | -4.47% | -6.27% | -68.80% |
+| UK Gas | 106.12 | 3.53 | -3.22% | -5.43% | -6.63% | -68.36% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 2,067.6 | 3.31 | -0.16% | 2.68% | 4.55% | 16.92% |
+| Silver | 25.171 | 0.249 | -0.98% | 2.25% | 9.30% | 13.13% |
+| Platinum | 923.3 | 9.13 | -0.98% | 0.50% | 2.00% | -7.45% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.8318 | 0.0772 | -1.97% | 1.96% | 3.03% | 1.04% |
+| Coal | 133.5 | 1.35 | 1.02% | 9.43% | 13.14% | -65.86% |
+| Steel | 3,897 | 20 | -0.51% | -1.19% | 1.41% | 2.88% |
+| Iron Ore | 133 | 0.5 | 0.38% | -2.21% | 6.83% | 24.88% |
+| Aluminum | 2,200.5 | 8.5 | -0.38% | -0.45% | -3.80% | -12.77% |
+| Iron Ore Fe62% | 130.46 | 0 | 0.00% | 0.23% | 3.89% | 21.43% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.08656 | 0.0015 | -0.14% | -0.80% | 1.41% | 3.57% |
+| GBP/USD | 1.26667 | 0.0033 | -0.26% | 0.33% | 2.64% | 3.93% |
+| USD/JPY | 146.813 | 0.003 | 0.00% | -1.25% | -2.17% | 7.37% |
+| USD/CNY | 7.13958 | 0.0168 | 0.24% | -0.27% | -1.96% | 2.38% |
+| USD/CHF | 0.87363 | 0.0043 | 0.50% | -0.75% | -2.81% | -7.29% |
+| USD/SGD | 1.33545 | 0.0022 | 0.16% | -0.09% | -1.13% | -1.66% |
+| USD/KRW | 1305 | 11.6 | 0.90% | 0.62% | 0.52% | -0.04% |
+| USD/INR | 83.3425 | 0.0825 | 0.10% | 0.02% | 0.15% | 1.77% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 670.50 | 484.50 | 785.50 | 186.00 | -38.5 | -17.1% |
+| Rotterdam | 588.50 | 489.50 | 805.00 | 99.00 | 11.0 | 12.5% |
+| Fujairah | 649.00 | 445.00 | 927.50 | 204.00 | -15.5 | -7.1% |
+| Houston | 577.00 | 484.50 | 789.50 | 92.50 | 2.0 | 2.2% |

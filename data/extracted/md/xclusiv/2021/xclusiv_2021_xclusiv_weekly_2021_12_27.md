@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_12_27.pdf
 source_sha256: 8e559ce7a47f613d01500144b86f976ce933d49bdc704e34b4b1fa126a77d13f
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:23Z'
 ---
@@ -186,3 +186,70 @@ SPLENDOR TAIPEI 11,300 2007 JAPAN NISHI SOUTH KOREAN 7 SS: 01/2022 - DD: 01/2022
 | Tankers | Bangladesh | $600 | $595 | 5 |
 | Tankers | Pakistan | $595 | $595 | 0 |
 | Tankers | Turkey | $330 | $330 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 2.1% at 35,3950.56 points, S&P 500 went up by 2.3% at 4,725.79 points and NASDAQ rose by 3.2% at 15,653.37 points. The main European indices also closed higher than previous week, with the Euro Stoxx50 closing up by 2.5% at 4,265.86 points and Stoxx600 up by 1.9% at 483 points mark. In Asia, the Nikkei closed the week at 28,788, gaining 0.9% on a weekly basis, while Hang Seng went up by 0.1% at 23,2224 points mark and the CSI 300 index closed the week at 4,921.97 points, 0.7% lower than previous week.
+- Despite the increase in Covid cases globally, and particularly the highly transmissible Omicron variant causing fresh lockdowns in several countries, futures for WTI crude rebounded by around 5% during the last week trading just above $73.5/barrel. This increase was fueled by reports that Omicron Variant appears less likely to cause severe COVID-19 illness than Delta. The next OPEC+ meeting, will take place on 4th Jan 2022, where decision will be taken to go ahead with a planned 400,000 barrels per day production increase in February.
+- During Q3 2021, the US economy grew by an annualized 2.3%, up from 2.1% in the second quarter, and following a 6.7% increase in the previous three-month period. Personal consumption expenditures grew by 2%, compared with 1.7% in the Q2 estimate, while private inventory investment increased by 12.4%, partially offset by a downward revision to exports (-5.3%, versus -3%). Looking ahead, analysts expect the US economy to expand at a faster pace in the current October-December quarter, putting it on track to record its best performance this year since 1984.
+- As steel production in December rose, and China's property sector is stabilizing, iron ore traded around $120 per metric ton, the highest price since October 11th. China's iron ore imports hit a 16month-high in November, and the country's industrial production growth outpaced market expectations. After complying with a raft of strict government curbs, Chinese steel firms will raise production for the rest of the year, and this will help keep prices at high levels.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 73.79 | 1.03 | 1.42% | 1.95% | -5.87% | 52.08% |
+| Brent | 75.86 | -0.99 | -1.29% | 3.18% | -7.74% | 46.45% |
+| Natural gas | 3.731 | -0.245 | -6.16% | -0.93% | -27.04% | 46.95% |
+| Gasoline | 2.211 | 0.0049 | 0.22% | 4.21% | -3.97% | 56.80% |
+| Heating oil | 2.3314 | 0.0236 | 1.02% | 2.87% | -2.17% | 57.10% |
+| Ethanol | 3.02 | 0 | 0.00% | 3.42% | -12.46% | 126.29% |
+| Naphtha | 696.38 | 3.12 | 0.45% | 0.56% | -6.17% | 60.94% |
+| Propane | 1.03 | 0 | 0.37% | -0.48% | -19.09% | 59.60% |
+| Uranium | 43.95 | 0 | 0.00% | -0.45% | -8.53% | 43.16% |
+| Methanol | 2630 | 3 | 0.11% | -2.74% | -3.87% | 8.86% |
+| TTF Gas | 110.91 | -21.67 | -16.34% | -22.31% | 18.01% | 479.98% |
+| UK Gas | 278.99 | -46.61 | -14.32% | -22.39% | 18.53% | 394.66% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,808.1 | 0.21 | 0.01% | 0.58% | 1.10% | -4.66% |
+| Silver | 22.94 | 0.05 | 0.22% | 2.65% | -2.69% | -12.97% |
+| Platinum | 974.6 | 1.92 | 0.20% | 4.79% | -2.08% | -8.57% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.3925 | 0.001 | 0.02% | 2.14% | -1.49% | 24.82% |
+| Coal | 168.9 | -0.5 | -0.30% | 0.24% | 5.56% | 109.81% |
+| Steel | 4,641 | -19 | -0.41% | -0.83% | 6.30% | 9.98% |
+| Iron Ore | 120 | 2.5 | 2.13% | 6.19% | 19.40% | -24.29% |
+| Aluminum | 2,837.0 | -9 | -0.32% | 4.13% | 4.40% | 43.23% |
+| Iron Ore Fe62% | 112.54 | 0 | 0.00% | 1.21% | 19.30% | -27.78% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.13179 | -0.0009 | -0.08% | 0.73% | 0.95% | -7.36% |
+| GBP/USD | 1.33935 | -0.0008 | -0.06% | 1.21% | 0.58% | -2.05% |
+| USD/JPY | 114.38 | -0.08 | -0.07% | 0.59% | -0.65% | 10.78% |
+| USD/CNY | 6.37216 | -0.0027 | -0.04% | -0.25% | -0.24% | -2.00% |
+| USD/CHF | 0.9195 | 0.0016 | 0.18% | -0.49% | -1.74% | 3.89% |
+| USD/SGD | 1.35906 | 0.0005 | 0.03% | -0.57% | -0.67% | 2.80% |
+| USD/KRW | 1182.9 | 1.1 | 0.10% | -0.04% | -0.26% | 9.12% |
+| USD/INR | 74.975 | -0.045 | -0.06% | -1.33% | 0.67% | 2.65% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 620.00 | 438.50 | 664.50 | 181.50 | 3.0 | 1.7% |
+| Rotterdam | 548.50 | 431.50 | 655.50 | 117.00 | -9.0 | -7.1% |
+| Fujairah | 608.00 | 446.00 | 773.00 | 162.00 | -3.0 | -1.8% |
+| Houston | 564.50 | 445.00 | 651.50 | 119.50 | -27.5 | -18.7% |

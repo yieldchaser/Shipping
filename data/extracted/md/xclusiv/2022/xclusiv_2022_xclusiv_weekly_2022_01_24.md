@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_01_24.pdf
 source_sha256: 9cb7466dfb32ac877ff97004cd2ae99269ebd8df816bbcd308d8f81b6337b81f
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:30Z'
 ---
@@ -203,3 +203,70 @@ On the tanker side, Hafnia Tankers acquired 12x LR1 modern vessels, the “Sti P
 | Tankers | Bangladesh | $605 | $595 | 10 |
 | Tankers | Pakistan | $600 | $595 | 5 |
 | Tankers | Turkey | $330 | $330 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average significantly decreased by 4.6% at 34,253 points, S&P 500 went down by 5.71% at 4,397 points and NASDAQ crushed by -7.58% at 13,765 points. The main European indices closed with a fall as previous week, with the Euro Stoxx50 closing down by only 1% at 4,230 points and Stoxx600 down by 1.4% at 474 points mark. In Asia, the Nikkei closed the week at 27,526, losing 2.85% on a weekly basis, while Hang Seng went up by 2.91% at 24,917 points mark and the CSI 300 index closed the week at 4,777 points, 1.1% higher than previous week.
+- Iron ore spot prices jumped to USD 133 a tonne in 21st January 2022, reaching the highest level since October 11th. Expectations that China's central bank will be providing more stimulus to support the economy boosted hopes of a pickup in demand for metals. According to GDP data, the recovery in the world's No 2 economy is slowing, amid a continued downturn in the property sector, uncertainty from the Omicron variant, and a tumbling birth rate. The controls in steel production are expected to be eased after the end of Beijing 2022 Olympics and in the meantime the disruptions in south-eastern Brazil’s iron ore industry due to heavy rains will be normalized.
+- Singapore is also added to the list of inflation-hit countries. Annual inflation rate rose to 4.0% in December 2021 from 3.8% in November and above market consensus of 3.75%, reaching the highest figure since February 2013. Core consumer prices gained 2.1% y-o-y, the most since July 2014, compared with estimates of 1.7%. On a monthly basis, consumer prices increased 0.5% in December, slowing from a 1% gain in November which was the most since February 2013.
+- The U.S. ordered family members at its embassy in Kyiv to leave “due to the continued threat of Russian military action,” signalling a further turn of the screw in the standoff over Ukraine. While the U.S. renewed warnings that Russia could send forces into Ukraine at any time, President Joe Biden is considering deploying troops to eastern Europe and the Baltics. The tension follows U.S.-Russian talks last week that failed to open a conclusive path to ending the standoff.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 86.03 | 0.89 | 1.05% | 2.09% | 14.43% | 14.89% |
+| Brent | 88.82 | 0.93 | 1.06% | 2.71% | 13.55% | 14.19% |
+| Natural gas | 3.934 | -0.065 | -1.63% | -7.80% | -0.20% | 5.47% |
+| Gasoline | 2.4629 | 0.0205 | 0.84% | 1.29% | 10.42% | 10.71% |
+| Heating oil | 2.7124 | 0.0212 | 0.79% | 1.68% | 15.67% | 16.65% |
+| Ethanol | 2.18 | -0.005 | -0.23% | -0.46% | -27.81% | -27.33% |
+| Naphtha | 770.89 | -0.89 | -0.12% | 0.97% | 11.20% | 10.44% |
+| Propane | 1.15 | 0 | -0.14% | 0.63% | 12.31% | 11.16% |
+| Uranium | 45.4 | -0.6 | -1.30% | -2.37% | 3.30% | 4.01% |
+| Methanol | 2722 | 5 | 0.18% | 6.62% | 2.99% | 9.49% |
+| TTF Gas | 78.98 | 3.78 | 5.02% | -9.19% | -54.31% | 12.28% |
+| UK Gas | 189.31 | 10.18 | 5.68% | -9.04% | -56.21% | 10.94% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,835.4 | 2.18 | 0.12% | 0.90% | 1.55% | 0.38% |
+| Silver | 24.172 | -0.059 | -0.24% | 5.09% | 5.77% | 3.88% |
+| Platinum | 1,030.0 | 0.79 | 0.08% | 6.02% | 6.13% | 7.01% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.496 | -0.028 | -0.62% | 1.43% | 0.54% | 0.73% |
+| Coal | 225.0 | -1 | -0.44% | 2.27% | 32.74% | 32.67% |
+| Steel | 4,734 | -9 | -0.19% | 3.82% | 2.85% | 4.09% |
+| Iron Ore | 133 | 4 | 3.10% | 4.72% | 9.02% | 14.66% |
+| Aluminum | 3,040.5 | -70.5 | -2.27% | 2.15% | 7.65% | 8.30% |
+| Iron Ore Fe62% | 129.49 | 0.4 | 0.31% | 2.57% | 15.06% | 15.10% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.13357 | -0.0009 | -0.08% | -0.68% | 0.16% | -0.31% |
+| GBP/USD | 1.35594 | 0.0006 | 0.04% | -0.64% | 1.16% | 0.28% |
+| USD/JPY | 113.852 | 0.17 | 0.15% | -0.39% | -0.46% | -1.09% |
+| USD/CNY | 6.33619 | -0.0046 | -0.07% | -0.33% | -0.64% | -0.43% |
+| USD/CHF | 0.91291 | 0.002 | 0.22% | -0.13% | -0.48% | 0.10% |
+| USD/SGD | 1.34483 | 0.0003 | 0.02% | -0.28% | -0.80% | -0.21% |
+| USD/KRW | 1189.8 | 1 | 0.08% | 0.35% | 0.25% | 0.41% |
+| USD/INR | 74.3827 | -0.0632 | -0.08% | 0.31% | -1.40% | -0.11% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 687.50 | 504.00 | 750.50 | 183.50 | -13.5 | -6.9% |
+| Rotterdam | 652.00 | 491.50 | 758.50 | 160.50 | 13.5 | 9.2% |
+| Fujairah | 684.50 | 514.00 | 824.50 | 170.50 | 1.0 | 0.6% |
+| Houston | 664.50 | 514.50 | 840.00 | 150.00 | 57.5 | 62.2% |

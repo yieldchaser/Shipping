@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_08_01.pdf
 source_sha256: 62e6828bf80ee857c42ab4567a09ba2a64dce52cc31a7600456e61c1a0bb364c
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:15:34Z'
 ---
@@ -196,3 +196,72 @@ On the wet sector the activity remained strong for another week. The VLCCs “Ti
 | Tankers | Bangladesh | $580 | $585 | -5 |
 | Tankers | Pakistan | $575 | $580 | -5 |
 | Tankers | Turkey | $325 | $325 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 3% at 32,845 points, S&P 500 went up by 4.26% at 4,130 points and NASDAQ rise by 4.7% at 12,391 points. The main European indices closed higher on a weekly basis, with the Euro Stoxx50 closing up by 3.1% at 3,708 points and Stoxx600 up by 2.96% at 438 points mark. In Asia, the Nikkei closed the week at 27,802, losing 0.4% on a weekly basis, while Hang Seng went down by 2.2% at 20,157 points mark and the CSI 300 index closed the week at 4,170 points, 1.61% lower than previous week.
+- WTI & Brent crude fell at USD 98 & USD 103 per barrel respectively, after declining for two straight months, as a weakening global demand outlook outweighed signs of ongoing supply tightness. Official Chinese data released over the weekend showed that factory activity in the world’s largest oil importer contracted unexpectedly in July as Covid-19 flare-ups and a weakening global outlook weighed on demand.
+- Gasoline decreased 11.51% to 3.0912 USD/Gal, amid mounting fears that a global economic slowdown triggered by an aggressive tightening from major central banks would dampen demand. Meantime, disruptions in trading lingered as the West continues to sanction Moscow for its invasion of Ukraine. Further, the governor of Russia’s central bank has said that Russia would not supply crude oil to any country which caps prices.
+- Copper futures moved toward $3.55 per pound and held close to their highest levels in nearly a month as major producers reported falling output and flagged supply risks. Codelco, the world’s biggest copper miner, produced 7.5% less output in the first half of 2022 versus last year, while Glencore cut its full-year copper guidance.
+- Prices for iron ore cargoes with a 63.5% iron content for delivery into Tianjin consolidated around USD 120 per tonne, recovering from a seven-month low of USD 100 as declining steel inventories in China spurred hopes for some replenishment-driven demand. Still, fundamentals in the iron ore complex remained clouded by fears about a potential global recession and China's property crisis.
+- The euro strengthened to around USD 1.02, slightly above the key $1 parity mark after flash reports on growth and inflation topped analysts’ estimates strengthening the case for bigger and faster ECB interest rate hikes. Flash figures showed the Euro Area grew by 0.7% on quarter in Q2, above market expectations for a 0.2% gain, as data from France, Italy and Spain surprised on the upside while the German economy unexpectedly stalled.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 98.072 | 0.63 | -0.64% | 1.42% | -6.94% | 37.63% |
+| Brent | 103.614 | 6.38 | -5.80% | 3.42% | -3.88% | 42.15% |
+| Natural gas | 7.9085 | 0.3615 | -4.37% | -9.38% | 38.45% | 100.98% |
+| Gasoline | 3.0872 | 0.4018 | -11.52% | -0.93% | -12.57% | 35.72% |
+| Heating oil | 3.5218 | 0.1047 | -2.89% | 1.80% | -8.79% | 64.89% |
+| Ethanol | 2.5194 | 0.0031 | -0.12% | 0.88% | -9.70% | 12.98% |
+| Naphtha | 766.93 | 2.04 | 0.27% | 0.17% | -4.48% | 13.89% |
+| Propane | 1.15 | 0 | 0.11% | 0.32% | -5.74% | 4.67% |
+| Uranium | 49.5 | 0.3 | 0.61% | 5.43% | -2.65% | 53.25% |
+| Methanol | 2556 | 52 | 2.08% | 4.11% | -1.27% | -5.12% |
+| TTF Gas | 190.92 | 8.02 | -4.03% | 19.42% | 32.11% | 368.43% |
+| UK Gas | 351.92 | 34.33 | 10.81% | 12.73% | 41.73% | 239.20% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,764.5 | 0.7 | -0.04% | 2.66% | -2.52% | -2.69% |
+| Silver | 20.211 | 0.109 | -0.54% | 9.76% | 1.72% | -20.52% |
+| Platinum | 897.0 | 8.84 | 1.00% | 2.69% | 0.35% | -14.49% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.5635 | 0.024 | -0.67% | 6.34% | -1.27% | -19.60% |
+| Coal | 407.9 | 3.5 | -0.85% | -0.32% | 5.69% | 172.39% |
+| Steel | 4,122 | 153 | 3.85% | 7.65% | -8.42% | -27.75% |
+| Iron Ore | 117.5 | 0.5 | -0.42% | 14.08% | -4.08% | -38.48% |
+| Aluminum | 2,497.0 | 25 | 1.01% | 1.13% | 2.11% | -3.88% |
+| Iron Ore Fe62% | 107.22 | 0.33 | 0.31% | 1.74% | -17.52% | -49.42% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.02191 | 0.00074 | -0.07% | 0.00% | -1.98% | -13.86% |
+| GBP/USD | 1.21697 | 0.00089 | 0.07% | 1.00% | 0.64% | -12.42% |
+| USD/JPY | 133.25 | 0.036 | 0.03% | -2.28% | -1.47% | 21.45% |
+| USD/CNY | 6.7503 | 0.0069 | 0.10% | -0.01% | 0.80% | 4.43% |
+| USD/CHF | 0.9514 | 0.0034 | -0.36% | -1.03% | -0.37% | 5.03% |
+| USD/SGD | 1.3804 | 0.0006 | 0.04% | -0.52% | -0.68% | 1.90% |
+| USD/KRW | 1302.97 | 7.5 | 0.58% | -0.54% | 1.20% | 13.16% |
+| USD/INR | 79.336 | 0.29 | -0.36% | -0.62% | 0.49% | 6.72% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 894.00 | 507.00 | 1086.0 | 387.00 | -58.5 | -13.1% |
+| Rotterdam | 767.50 | 490.50 | 1108.0 | 277.00 | -22.0 | -7.4% |
+| Fujairah | 911.50 | 486.00 | 1370.0 | 425.50 | 14.0 | 3.4% |
+| Houston | 831.50 | 610.50 | 1150.5 | 221.00 | -32.0 | -12.6% |

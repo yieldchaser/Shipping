@@ -9,7 +9,7 @@ year: 2023
 source_file: corpus/01-brokers/xclusiv/2023/xclusiv_2023_xclusiv_weekly_2023_09_04.pdf
 source_sha256: bb9cf3c2b6710253d69d9f5d62e96389ced4d1e8ae5a25bd4a4cf9cf372a61d5
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:18:16Z'
 ---
@@ -175,3 +175,71 @@ The tanker S&P activity remains subdued, as the dirty market has lost momentum (
 | Tankers | Bangladesh | $535 | $530 | 5 |
 | Tankers | Pakistan | $540 | $530 | 10 |
 | Tankers | Turkey | $335 | $335 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 1.4% at 34,838 points, S&P 500 went up by 2.5% at 4,516 points and NASDAQ rise by 3.25% at 14,032 points. The main European indices moved higher than previous week, with the Euro Stoxx50 closing up by 1.1% at 4,283 points and Stoxx600 up by 1.49% at 458 points mark. In Asia, the Nikkei closed the week at 32,711, gaining 3.44% on a weekly basis, while Hang Seng went up by 2.37% at 18,382 points mark and the CSI 300 index closed the week at 3,791 points, 2.22% higher than previous week.
+- WTI & Brent crude strengthened above USD 85.5 & USD 88.5 per barrel, hovering at the highest levels in over nine months, underpinned by expectations that OPEC+ leaders would extend measures to keep oil supplies tight. Russian Deputy Prime Minister Alexander Novak said on Thursday that Russia agreed with its OPEC partners on the parameters for continued export cuts. Saudi Arabia is also expected to extend its voluntary 1 million barrels per day output cut into October.
+- Newcastle coal futures went up to nearly USD 150 per tonne, the highest in almost three months driven by rising demand from China and an uptick in natural gas prices due to possible strikes at Australian LNG facilities. China's coal imports soared 67% yoy in July and are up 86% since the start of the year due to rising thermal power demand amid a shortage of hydropower generation.
+- Prices for iron ore cargoes for delivery in Tianjin were at USD 117 per tonne, testing their highest level since April as concerning data from China sparked renewed hopes of stimulus measures from Beijing. Chinese constructors continuously posted sharp losses in the latest quarterly earnings amid plunging demand and oversupply concerns for new housing, driving Beijing to ease mortgage curbs in Guangzhou and Shenzhen.
+- US natural gas futures eased to USD 2.75/MMBtu due to a larger-than-expected increase in gas storage last week and the anticipation of reduced demand in the upcoming weeks. The latest EIA data showed US utilities added 32 billion cubic feet (bcf) of natural gas into storage, more than market expectations of a 25 bcf build.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 85.689 | 0.139 | 0.16% | 6.98% | 5.15% | -3.49% |
+| Brent | 88.718 | 0.168 | 0.19% | 5.78% | 4.45% | -6.02% |
+| Natural gas | 2.6985 | 0.0665 | -2.41% | 1.26% | -4.07% | -69.16% |
+| Gasoline | 2.5958 | 0.0046 | 0.18% | 1.13% | 1.19% | 4.71% |
+| Heating oil | 3.1126 | 0.0076 | 0.24% | -1.84% | 3.95% | -15.71% |
+| Ethanol | 2.265 | 0.0987 | 4.56% | 5.10% | 5.59% | -8.30% |
+| Naphtha | 675.29 | 33.25 | 5.18% | 5.14% | 8.18% | 6.76% |
+| Propane | 0.72 | 0.04 | 5.77% | 5.99% | -0.70% | -33.32% |
+| Uranium | 58.5 | 0.25 | 0.43% | 0.43% | 4.00% | 17.71% |
+| Methanol | 2555 | 31 | -1.20% | 2.90% | 10.46% | 0.16% |
+| TTF Gas | 35.9 | 0.28 | 0.79% | -6.54% | 17.76% | -85.40% |
+| UK Gas | 87.88 | 1.12 | 1.29% | -0.48% | 14.89% | -81.00% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,943.7 | 4.9 | 0.25% | 1.25% | 0.38% | 13.65% |
+| Silver | 24.105 | 0.058 | -0.24% | -0.62% | 4.13% | 32.73% |
+| Platinum | 958.0 | 2.58 | -0.27% | -0.68% | 4.16% | 13.27% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.7943 | 0.0182 | -0.48% | 1.02% | -1.06% | 10.25% |
+| Coal | 156.3 | 0.25 | 0.16% | 4.59% | 16.60% | -64.08% |
+| Steel | 3,776 | 19 | 0.51% | 2.25% | 3.57% | -1.67% |
+| Iron Ore | 117 | 0.5 | -0.43% | -0.43% | 6.85% | 19.39% |
+| Aluminum | 2,219.0 | 18 | -0.80% | 3.19% | 0.45% | -3.33% |
+| Iron Ore Fe62% | 118.19 | 8.79 | 8.03% | 9.22% | 10.04% | 23.69% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.08058 | 0.0033 | 0.30% | -0.10% | -1.78% | 8.86% |
+| GBP/USD | 1.26256 | 0.0038 | 0.30% | 0.18% | -1.24% | 9.66% |
+| USD/JPY | 146.366 | 0.136 | 0.09% | -0.12% | 2.72% | 4.11% |
+| USD/CNY | 7.26985 | 0.0035 | 0.05% | -0.30% | 0.95% | 4.73% |
+| USD/CHF | 0.88379 | 0.0018 | -0.20% | 0.02% | 1.33% | -9.78% |
+| USD/SGD | 1.35326 | 0.0006 | -0.05% | -0.20% | 0.91% | -3.57% |
+| USD/KRW | 1317.46 | 7.68 | -0.58% | -0.46% | 1.43% | -3.21% |
+| USD/INR | 82.66 | 0.0287 | -0.03% | 0.07% | -0.11% | 3.61% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 641.50 | 534.50 | 916.50 | 107.00 | 2.0 | 1.9% |
+| Rotterdam | 609.50 | 565.50 | 918.00 | 44.00 | -12.0 | -21.4% |
+| Fujairah | 636.50 | 547.50 | 944.00 | 89.00 | -24.5 | -21.6% |
+| Houston | 647.00 | 547.00 | 953.50 | 100.00 | 25.0 | 33.3% |

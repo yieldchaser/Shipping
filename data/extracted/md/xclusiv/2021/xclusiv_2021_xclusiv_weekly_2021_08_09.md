@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_08_09.pdf
 source_sha256: 39bc7f89cb5271dec525fabab0316c46dd49c8023f1ff3e011ffe4e1ebadfb91
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:13:39Z'
 ---
@@ -166,3 +166,73 @@ C C E C C C E C C
 | Tankers | Bangladesh | $615 | $610 | 5.0 |
 | Tankers | Pakistan | $595 | $595 | - |
 | Tankers | Turkey | $300 | $300 | - |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- All 3 major US indexes, reached within this week their historical record highs, the Dow Jones Industrial Average & S&P 500 index closed the week at highs of 35,208.51 & 4,436.52, respectively. On 5th August, the Nasdaq composite index peaked at 14,895.712, whilst it closed the week marginally lower at 14,835.76.
+- Iron Ore closed the week at $173.5 per tonne, the lowest since 13th April 2021, due to weaker seasonal demand & Chinese steel producers following Beijing’ g’s directives to cut production. China is taking aggressive steps to curb carbon emissions from heavy industries as it tries to balance its climate goals with economic stability. Steel industry accounting for 15% of Ch ina’ a’s total carbon emissions, in an effort to curtail GHG emissions, have ordered steel mills to curb production.
+- Natural gas hit a new record high trading at above $4.1/ million British thermal units, highest since Dec 2018.
+- Chicago corn futures traded close to $5.5 a bushel within this week, the lowest since end-March, on worries over demand & deterioration of the condition of the crops as a result of the dryness in growing areas. However, wheat futures traded above $7/ bushel at the same period, which is close to its highest seen on mid-May.
+- The unemployment rate in the US decreased to 5.4% since the US economy adds 943K jobs within July.
+- Ch ina’ a’s annual inflation rate reduced to 3-month low reaching at 1%.
+- By 2024, 12 electric cargo aircrafts with a maximum range 506 miles & charging time/flight of about 30 minutes will be added to DHL’s ’s fleet.
+- Eneti has agreed to acquire Seajacks to become the World’s ’s Leading Owner and Operator of Wind Turbine Installation Vessels.
+- Indonesia aims to net zero emissions by 2060. Plans announced to begin construction of a floating solar power project, the largest in Southeast Asia.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 67.89 | 1.2 | -1.74% | -8.19% | -5.97% | 39.92% |
+| Brent | 70.26 | 1.03 | -1.44% | -6.83% | -4.32% | 35.64% |
+| Natural gas | 4.135 | 0.01 | -0.12% | 5.65% | 14.99% | 62.86% |
+| Gasoline | 2.246 | 0.05 | -2.09% | -3.80% | 1.81% | 59.28% |
+| Heating oil | 2.0732 | 0.03 | -1.56% | -5.57% | -0.76% | 39.70% |
+| Ethanol | 2.22 | 0 | 0.00% | 0.00% | -5.53% | 54.92% |
+| Naphtha | 656.95 | 1.27 | -0.19% | -2.44% | 0.01% | 51.83% |
+| Propane | 1.1 | 0.01 | 0.49% | 0.11% | -1.79% | 69.67% |
+| Uranium | 31.95 | 0.15 | -0.47% | -1.08% | -1.99% | 4.07% |
+| Methanol | 2550 | 68 | 2.74% | -5.35% | 2.62% | 5.55% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,762.9 | 41.13 | -2.28% | -2.80% | -2.25% | -7.05% |
+| Silver | 24.327 | 0.8 | -3.20% | -4.45% | -6.87% | -7.71% |
+| Platinum | 980.0 | 25.18 | -2.50% | -6.58% | -9.68% | -8.06% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.331 | 0.01 | -0.33% | -3.34% | 0.05% | 23.07% |
+| Coal | 160.95 | 4.95 | 3.17% | 7.48% | 13.15% | 99.94% |
+| Steel | 5,390 | 66 | -1.21% | -5.52% | 9.46% | 27.73% |
+| Iron Ore | 173.5 | 7 | -3.88% | -9.16% | -22.02% | 9.46% |
+| Aluminum | 2,581.5 | 7.75 | -0.30% | -0.63% | 3.79% | 30.33% |
+| Iron Ore Fe62% | 172.01 | 0.1 | 0.06% | -18.86% | -21.14% | 10.38% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.1761 | 0.0072 | -0.61% | -0.90% | -0.30% | -3.73% |
+| GBP/USD | 1.38704 | 0.006 | -0.43% | -0.25% | 0.49% | 1.44% |
+| USD/JPY | 110.22 | 0.467 | 0.43% | 0.49% | -0.36% | 6.75% |
+| USD/CNY | 6.47517 | 0.0145 | 0.22% | 0.15% | 0.03% | -0.42% |
+| USD/CHF | 0.91494 | 0.00836 | 0.92% | 1.01% | -1.14% | 3.38% |
+| USD/SGD | 1.35473 | 0.00389 | 0.29% | 0.01% | 0.44% | 2.47% |
+| USD/KRW | 1141.64 | 3.10596 | 0.27% | -0.51% | 0.31% | 5.31% |
+| USD/INR | 74.24 | 0.142 | 0.19% | -0.13% | -0.74% | 1.65% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 537.00 | 423.00 | 592.50 | $114.0 |
+| Rotterdam | 513.50 | 410.00 | 581.00 | $103.5 |
+| Fujairah | 538.50 | 448.50 | 653.50 | $90.0 |
+| Houston | 515.50 | 405.00 | 608.50 | $110.5 |

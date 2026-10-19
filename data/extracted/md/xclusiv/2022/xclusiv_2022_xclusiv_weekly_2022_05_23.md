@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_05_23.pdf
 source_sha256: 75d0566b6030fc02501bc0a967848c85aed6b8731d9084f65191f186ed6a31e4
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:15:07Z'
 ---
@@ -185,3 +185,72 @@ On the wet S&P activity, the VLCC sector continues to retain its robust buying/s
 | Tankers | Bangladesh | $655 | $670 | -15 |
 | Tankers | Pakistan | $650 | $680 | -30 |
 | Tankers | Turkey | $405 | $445 | -40 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 1.5% at 31,253 points, S&P 500 went down by 3.05% at 3,901 points and NASDAQ fell by 3.82% at 11,355 points. The main European indices closed in negative ground, with the Euro Stoxx50 closing down by 1.25% at 3,657 points and Stoxx600 down by 0.55% at 431 points mark. In Asia, the Nikkei closed the week at 26,739, gaining 1.18% on a weekly basis, while Hang Seng went up by 4.11% at 20,717 points mark and the CSI 300 index closed the week at 4,078 points, 2.23% higher than previous week.
+- WTI &Brent crude futures held around USD 111 & USD 113 per barrel on Monday, as expectations of increased US fuel demand and hopes for demand return in China threatened to pressure an already tight global oil market. US gasoline and diesel prices remained at record levels as the US peak driving season, which traditionally begins on Memorial Day weekend at the end of May and ends on Labor Day in September, looms.
+- Chicago wheat futures fell further to below USD 12 per bushel from the 14-year high of USD 12.8 touched on May 17th, as concerns about supply eased. The UN reported it will lay out a plan to revamp wheat exports that were hampered by the war in Ukraine, while the World Bank pledged USD 30 billion to help stem food security and Russia forecasted ample supplies in the coming marketing year.
+- Newcastle coal futures consolidated above the USD 400-per-tonne mark and just 10 dollars shy of its record peak, supported by continued robust demand against a tightening market backdrop. Along with increasing demand for power generation with a resumption in economic activity after the coronavirus-induced slump, soaring natural gas prices in Europe and Asia in late 2021 boosted coal consumption.
+- US natural gas futures were trading below the USD 8/MMBtu mark, pressured by some profit-taking, lower prices for natural gas in Europe, and a rise in inventories. TTF bottomed below the Euro 90/Mwhr mark, a level not seen in over a month, amid rising inventory levels and continued Russian gas flows to Europe. The European Council reached a deal to set a minimum inventory threshold of 80% by November to ensure the supply for next winter.
+- The euro extended gains to above USD 1.06, after ECB President Christine Lagarde said the central bank is likely to exit negative interest rates by the end of the third quarter. Traders were already boosting bets for higher borrowing costs after hawkish comments from ECB Knot and ECB Villeroy de Galhau last week.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 109.78 | 0.5 | -0.45% | -1.82% | 12.40% | 66.89% |
+| Brent | 112.17 | 0.38 | -0.34% | -1.81% | 9.80% | 63.85% |
+| Natural gas | 8.058 | 0.25 | -3.01% | 1.28% | 20.83% | 179.21% |
+| Gasoline | 3.8375 | 0.0058 | 0.15% | -4.61% | 19.15% | 81.21% |
+| Heating oil | 3.7391 | 0.0529 | -1.40% | -4.64% | 3.10% | 88.06% |
+| Ethanol | 2.75 | 0.0025 | 0.09% | 0.82% | 3.38% | 7.00% |
+| Naphtha | 898.47 | 3.37 | -0.37% | -2.17% | -2.07% | 53.27% |
+| Propane | 1.23 | 0 | -0.34% | -1.16% | -6.84% | 51.36% |
+| Uranium | 47.8 | 0.2 | -0.42% | -6.37% | -22.59% | 53.45% |
+| Methanol | 2787 | 85 | 3.15% | 2.96% | -3.56% | 10.51% |
+| TTF Gas | 87.15 | 3.87 | -4.26% | -10.04% | -12.90% | 251.50% |
+| UK Gas | 140 | 28.74 | -17.03% | -5.69% | -25.87% | 123.14% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,847.3 | 0.82 | 0.04% | 1.29% | -2.65% | -1.79% |
+| Silver | 21.81 | 0.061 | 0.28% | 0.98% | -7.60% | -21.55% |
+| Platinum | 955.5 | 6.91 | -0.72% | 1.81% | -1.29% | -18.09% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.281 | 0.004 | -0.09% | 2.67% | -8.99% | -4.78% |
+| Coal | 417.3 | 5.15 | 1.25% | 6.58% | 27.85% | 318.30% |
+| Steel | 4,796 | 66 | -1.36% | -4.42% | -7.04% | -6.22% |
+| Iron Ore | 126 | 3 | 2.44% | 1.20% | -13.99% | -36.04% |
+| Aluminum | 2,946.0 | 39.5 | 1.36% | 5.67% | -10.67% | 25.30% |
+| Iron Ore Fe62% | 133.66 | 1.74 | 1.32% | 1.01% | -13.36% | -36.09% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.05731 | 0.00133 | 0.13% | 1.30% | -1.30% | -13.44% |
+| GBP/USD | 1.24947 | 0.0004 | 0.03% | 1.39% | -1.91% | -11.74% |
+| USD/JPY | 127.997 | 0.042 | 0.03% | -0.68% | 0.01% | 17.61% |
+| USD/CNY | 6.69854 | 0.0037 | 0.05% | -1.47% | 1.95% | 4.46% |
+| USD/CHF | 0.97457 | 0.0029 | 0.30% | -2.76% | 2.25% | 8.56% |
+| USD/SGD | 1.37865 | 0.0014 | -0.11% | -1.00% | 1.06% | 3.57% |
+| USD/KRW | 1270.62 | 10.01 | 0.79% | -0.31% | 2.24% | 12.68% |
+| USD/INR | 77.85 | 0.45 | 0.58% | 0.49% | 2.11% | 6.91% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 947.50 | 668.50 | 1122.5 | 279.00 | 89.5 | 47.2% |
+| Rotterdam | 843.00 | 648.50 | 1098.5 | 194.50 | 27.0 | 16.1% |
+| Fujairah | 933.00 | 679.00 | 1379.5 | 254.00 | 55.5 | 28.0% |
+| Houston | 879.00 | 714.00 | 1135.5 | 165.00 | 12.5 | 8.2% |

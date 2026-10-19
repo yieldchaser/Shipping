@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_01_10-1.pdf
 source_sha256: 55d724de3d0c27f848dbfd0442d853b8ef4e1f7aaa3b6fd72439e3ee299987e4
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:26Z'
 ---
@@ -181,3 +181,70 @@ On the Tanker sale and purchase, 2x VLCC’s changed hands. The modern Bwts & Sc
 | Tankers | Bangladesh | $595 | $600 | -5 |
 | Tankers | Pakistan | $595 | $595 | 0 |
 | Tankers | Turkey | $330 | $330 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 0.25% at 36,232.06 points, S&P 500 went down by 1.9% at 4,677.16 points and NASDAQ fell by 5.07% at 14,934.57 points. The main European indices closed almost the same as previous week, with the Euro Stoxx50 closing up by only 0.04% at 4,305.83 points and Stoxx600 down by 0.49% at 485.87 points mark. In Asia, the Nikkei closed the week at 28,478.93, losing 1.10% on a weekly basis, while Hang Seng went down by 0.07% at 23,493.38 points mark and the CSI 300 index closed the week at 4,822.16 points, 2.34% lower than previous week.
+- A combination of optimism about global demand as well as supply constraints has led to higher oil prices at the start of 2022. Following a strong rally last week, WTI crude futures are steady near $79 per barrel as supplies return in Libya and Kazakhstan. The production of oil in Libya has increased to 900,000 barrels a day following the completion of maintenance on a major pipeline, while production in Kazakhstan has resumed following unrest that disrupted supplies last week. Though OPEC agreed to boost production further, analysts believe the group may not be able to deliver the full planned amount. Oil prices also rose as US crude inventories fell six consecutive weeks, according to the EIA.
+- After Indonesia, the world's biggest exporter of thermal coal, banned coal exports in January, Newcastle coal futures traded close to a two-month high of $195 per metric ton in January. The thermal coal price in China has been soaring since the beginning of 2022 due to an increase in production and high stocks of coal due to the upcoming Lunar New Year holidays. While natural gas prices remain elevated in Europe, power plants are using more coal due to a spike in natural gas prices.
+- The US economy added a meagre 199K jobs in the last month of 2021, well below market forecasts of 400K. Job growth averaged 537K per month in 2021 and the economy added a record 6.44 million jobs last year. Nonfarm employment has increased by 18.8 million since April 2020 but is still down by 3.6 million, or 2.3%, from its pre-pandemic level in February 2020. The impact of the rapid spread of the omicron coronavirus variant on the labour market is still uncertain as the December report covered the first two weeks of the month only, before the worst of the spike that began heading into Christmas.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 78.65 | -0.25 | -0.32% | 3.38% | 10.68% | 4.57% |
+| Brent | 81.53 | -0.22 | -0.27% | 3.23% | 9.76% | 4.82% |
+| Natural gas | 4.133 | 0.217 | 5.54% | 8.34% | 9.89% | 10.80% |
+| Gasoline | 2.2971 | -0.0053 | -0.23% | 1.80% | 9.09% | 3.26% |
+| Heating oil | 2.4872 | 0.0054 | 0.22% | 6.96% | 10.29% | 6.96% |
+| Ethanol | 2.21 | 0.035 | 1.61% | -26.33% | -23.26% | -26.33% |
+| Naphtha | 736.3 | 1.26 | 0.17% | 5.48% | 6.27% | 5.48% |
+| Propane | 1.11 | 0.01 | 0.64% | 7.03% | 10.39% | 7.03% |
+| Uranium | 46.35 | -0.65 | -1.38% | 6.19% | 1.09% | 6.19% |
+| Methanol | 2568 | 40 | 1.58% | 3.30% | -2.17% | 3.30% |
+| TTF Gas | 83.4 | -13.1 | -13.58% | 18.56% | -17.83% | 18.56% |
+| UK Gas | 201.5 | -33.7 | -14.33% | 18.08% | -22.60% | 18.08% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,794.2 | 5.47 | 0.31% | -1.87% | 0.68% | -1.87% |
+| Silver | 22.361 | 0.209 | 0.94% | -3.90% | -0.14% | -3.90% |
+| Platinum | 954.7 | -0.5 | -0.05% | -0.03% | 2.70% | -0.82% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.41 | 0.0555 | 1.27% | -1.20% | 0.43% | -1.20% |
+| Coal | 195.0 | 2 | 1.04% | 14.98% | 22.64% | 14.98% |
+| Steel | 4,610 | -37 | -0.80% | 0.68% | 7.13% | 1.36% |
+| Iron Ore | 121.5 | 1 | 0.83% | 4.74% | 15.17% | 4.74% |
+| Aluminum | 2,914.5 | -7 | -0.24% | 3.81% | 10.94% | 3.81% |
+| Iron Ore Fe62% | 126.21 | 0.27 | 0.21% | 12.19% | 18.21% | 12.19% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.13568 | -0.0004 | -0.04% | 0.52% | 0.35% | -0.12% |
+| GBP/USD | 1.35952 | 0.0005 | 0.04% | 0.83% | 2.53% | 0.54% |
+| USD/JPY | 115.62 | 0.07 | 0.06% | 0.24% | 1.89% | 0.44% |
+| USD/CNY | 6.37881 | -0.0032 | -0.05% | 0.12% | 0.11% | 0.24% |
+| USD/CHF | 0.91875 | 0.0004 | 0.04% | 0.00% | -0.40% | 0.74% |
+| USD/SGD | 1.35569 | 0.0009 | 0.07% | 0.17% | -0.90% | 0.60% |
+| USD/KRW | 1195 | -2.8 | -0.23% | -0.21% | 1.23% | 0.85% |
+| USD/INR | 74.271 | -0.109 | -0.15% | -0.26% | -1.44% | -0.26% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 640.50 | 469.00 | 704.50 | 171.50 | -7.0 | -3.9% |
+| Rotterdam | 580.50 | 458.00 | 697.00 | 122.50 | -3.5 | -2.8% |
+| Fujairah | 637.00 | 483.50 | 788.00 | 153.50 | -11.5 | -7.0% |
+| Houston | 592.00 | 486.50 | 729.50 | 105.50 | -41.5 | -28.2% |

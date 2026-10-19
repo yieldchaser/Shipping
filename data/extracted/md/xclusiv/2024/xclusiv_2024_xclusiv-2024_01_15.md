@@ -251,3 +251,69 @@ SCRUBBER FITTED FRONT CECILIE 296,995 2010 CHINA SWS SCRUBBER FITTED FRONT ENDUR
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial Average (DJIA) rose by 0.3% to 37,593 points, the S&P 500 gained 1.84% to 4,784 points, and the Nasdaq Composite Index fell by 10.68% to 12,973 points. The main European indices closed with mini-mal changes compared to the previous week, with the Euro Stoxx 50 rising by 0.37% to 4,480 points and the Stoxx 600 gaining 0.08% to 477 points. In Asia, the Nikkei 225 Stock Av-erage closed the week at 35,577, marking a 6.59% weekly gain. The Hang Seng Index declined by 1.76% to 16,245 points, while the CSI 300 Index closed 1.35% lower at 3,284 points.
+- WTI crude futures retreated towards $72 per barrel as inves-tors assessed the impact of recent tensions in the Middle East following airstrikes by US and British forces aimed at deterring Houthi militia in Yemen from targeting ships in the Red Sea. Oil prices soared to their highest levels of the year last week, gaining over 2% in response to these military actions. Numer-ous tankers altered their routes on Friday following the air-strikes, and the Houthi militia issued a "strong and effective response" against the US on Sunday.
+- Iron ore prices plunged to a six-week low of $133 per tonne in January as a surge in supply met with tepid demand from steel mills. Persistent economic headwinds in China and un-certainty over construction material demand in the coming
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 72.431 | 2.35% | -8.10% |
+| Brent | 77.866 | 2.29% | -8.02% |
+| Natural gas | 3.1402 | 5.38% | -14.33% |
+| Gasoline | 2.1255 | 4.82% | -14.73% |
+| Heating oil | 2.666 | 3.46% | -18.57% |
+| Ethanol | 1.58 | 0.00% | -28.51% |
+| Naphtha | 629.24 | 0.00% | -7.82% |
+| Propane | 0.78 | 11.29% | -2.40% |
+| Uranium | 92.5 | 1.65% | 85.74% |
+| Methanol | 2399 | 0.25% | -7.98% |
+| TTF Gas | 30.28 | -4.12% | -45.40% |
+| UK Gas | 75.13 | -4.61% | -45.06% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 2,055.9 | 1.38% | 7.19% |
+| Silver | 23.3 | 0.92% | -4.52% |
+| Platinum | 914.4 | -3.32% | -13.93% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 3.7524 | -1.45% | -9.16% |
+| Coal | 130.85 | -0.53% | -64.66% |
+| Steel | 3799 | -1.14% | -6.08% |
+| Iron Ore | 133 | -6.01% | 4.72% |
+| Aluminum | 2208 | -1.27% | -15.76% |
+| Iron Ore Fe62% | 137.22 | -2.99% | 12.17% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.0954 | 0.05% | 1.28% |
+| GBP/USD | 1.27374 | -0.08% | 4.48% |
+| USD/JPY | 145.528 | 0.91% | 13.22% |
+| USD/CNY | 7.18853 | 0.38% | 6.62% |
+| USD/CHF | 0.85347 | 0.66% | -7.88% |
+| USD/SGD | 1.33299 | 0.40% | 0.91% |
+| USD/KRW | 1319.79 | 0.61% | 6.30% |
+| USD/INR | 82.86 | -0.22% | 1.51% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-o-w | % Spread w-o-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 597.00 | 450.50 | 769.50 | 146.50 | 11.0 | 8.1% |
+| Rotterdam | 545.00 | 439.00 | 769.50 | 106.00 | -3.5 | -3.2% |
+| Fujairah | 599.50 | 416.50 | 901.00 | 183.00 | 1.0 | 0.5% |
+| Houston | 587.00 | 473.50 | 807.00 | 113.50 | 44.0 | 63.3% |

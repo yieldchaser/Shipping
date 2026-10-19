@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_11_01.pdf
 source_sha256: 92f4fee10743c08450eac056bab75a63970c6f3b71f361a5e239637a0a2979f1
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:09Z'
 ---
@@ -178,3 +178,71 @@ The Tanker market has begun to gain momentum with the BDTI & BCTI showing some s
 | Tankers | Bangladesh | $615 | $610 | 5 |
 | Tankers | Pakistan | $610 | $605 | 5 |
 | Tankers | Turkey | $285 | $285 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- All 3 major US indices closed at record high levels on Friday. The S&P 500 index closed at 4,605, the Dow Jones Industrial Average closed at 35,819, while the Nasdaq Composite index at 15,498. Stock futures rise slightly ahead of first trading day of November, as investors await key Fed meeting. One major test for that run will come as the Fed begins to taper its bond buying program, a move the central bank is expected to announce at the end of its monetary policy meeting next week. The S&P 500 has rallied 22.6% year-to-date, its best January-through-October performance since 2013, and November and December tend to be among the strongest months for stocks..
+- WTI crude futures retreated slightly, after China reported that it released gasoline and diesel reserves to increase market supply and support price stability. However, oil prices remained near 7-year highs ahead of the Nov. 4th OPEC+ meeting, with analysts expecting the group to stick with its plan to add 400,000 barrels per day in December despite calls from countries including the US for production increases.
+- Spot gold traded below $1,790 , remaining under pressure from a strong dollar. The US dollar rallied against other currencies this Friday after the latest US inflation reading came higher than expected, fuelling bets for earlier tightening by the Federal Reserve.
+- Gas prices in Europe tumbled more than 15% to 64.9 euros a megawatt-hour on Friday, the lowest in near six weeks, on growing hopes that supplies will increase with the help of Russia.
+- BDI and BCI completed 7 consecutive negative sessions and have been reduced by 25% and 40% respectively since October 21st . However, if we see how the BDI and BCI have moved since 7th Oct 2021, we note that both indices had 15 negative sessions with only one minor positive “disrupting” the streak. Losses since 7th Oct -38% BDI and 58.5% BCI.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 83.57 | 0.76 | 0.92% | -0.23% | 11.38% | 72.24% |
+| Brent | 84.38 | 0.06 | 0.07% | -1.34% | 7.75% | 62.90% |
+| Natural gas | 5.569 | -0.208 | -3.60% | 5.47% | -5.08% | 119.34% |
+| Gasoline | 2.4325 | -0.0025 | -0.10% | -2.00% | 10.87% | 72.51% |
+| Heating oil | 2.4964 | -0.0201 | -0.80% | -1.67% | 6.75% | 68.22% |
+| Ethanol | 2.207 | 0 | 0.00% | 0.00% | 0.00% | 54.01% |
+| Naphtha | 759.23 | -3.77 | -0.49% | -0.72% | 11.85% | 75.46% |
+| Propane | 1.39 | -0.06 | -3.82% | -4.32% | 7.65% | 115.34% |
+| Uranium | 46.1 | -1.65 | -3.46% | -5.92% | 4.89% | 50.16% |
+| Methanol | 2793 | 73 | 2.68% | -13.93% | -19.90% | 15.60% |
+| TTF Gas | 77.74 | -9.08 | -10.46% | -12.12% | -10.24% | 306.53% |
+| UK Gas | 192.09 | -26.5 | -12.12% | -13.24% | -10.70% | 240.59% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,782.9 | -15.68 | -0.87% | -0.53% | 1.50% | -5.99% |
+| Silver | 23.885 | -0.215 | -0.89% | -1.75% | 7.59% | -9.38% |
+| Platinum | 1,017.2 | -2.04 | -0.20% | -2.24% | 5.58% | -4.57% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.3755 | -0.062 | -1.40% | -3.33% | 6.98% | 24.34% |
+| Coal | 223.45 | -0.25 | -0.11% | -2.21% | 5.40% | 177.58% |
+| Steel | 4,849 | 144 | 3.06% | -3.19% | -16.90% | 14.91% |
+| Iron Ore | 107.5 | -3.5 | -3.15% | -4.02% | -2.27% | -32.18% |
+| Aluminum | 2,716.5 | -30 | -1.09% | -5.28% | -4.68% | 37.15% |
+| Iron Ore Fe62% | 121.23 | -0.71 | -0.58% | -1.04% | 1.32% | -22.21% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.15605 | -0.0122 | -1.04% | -0.72% | -0.12% | -5.37% |
+| GBP/USD | 1.3687 | -0.0112 | -0.81% | -0.52% | 1.62% | 0.10% |
+| USD/JPY | 114.01 | 0.44 | 0.38% | 0.45% | 2.32% | 10.42% |
+| USD/CNY | 6.40549 | 0.0176 | 0.28% | 0.35% | -0.68% | -1.49% |
+| USD/CHF | 0.91513 | 0.0031 | 0.34% | -0.09% | -1.85% | 3.40% |
+| USD/SGD | 1.34825 | 0.0041 | 0.31% | 0.01% | -0.72% | 1.98% |
+| USD/KRW | 1171.1 | 6.5 | 0.56% | -0.21% | -0.74% | 8.03% |
+| USD/INR | 74.9155 | 0.1325 | 0.18% | -0.10% | 1.01% | 2.57% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 617.00 | 474.00 | 704.00 | $143.0 |
+| Rotterdam | 589.50 | 465.50 | 702.50 | $124.0 |
+| Fujairah | 632.50 | 514.00 | 813.50 | $118.5 |
+| Houston | 623.50 | 480.50 | 744.50 | $143.0 |

@@ -237,3 +237,69 @@ The VLCC “Safwa” - 303K/2002 Samsung changed hands for USD 31.65 mills. On t
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 0.7% at 42,313 points, S&P 500 went up by 0.62% at 5,738 points and NASDAQ rise by 0.95% at 18,120 points. The main European indices also ended the week higher, with the Euro Stoxx50 closing up by 4.02% at 5,067 points and Stoxx600 up by 2.69% at 528 points mark. In Asia, the Nikkei closed the week at 39,830, gaining 5.58% on a weekly basis, while Hang Seng went up by 13% at 20,632 points mark and the CSI 300 index closed the week at 3,704 points, 15.7% higher than pre-vious week.
+- WTI crude oil futures rose toward $69 per barrel, extending gains from the previous session, driven by concerns over pro-spects of supply disruptions amid escalating tensions in the Middle East. Fears of a broader conflict in the region intensi-fied as Israel ramped up its bombing of Lebanon following the death of Hezbollah leader. Israeli Prime Minister Netanyahu also warned Iran, suggesting it could become a target, further heightening the risk of supply disruptions from the OPEC pro-ducer.
+- Steel rebar futures rose to CNY 3,417 per tonne in late Sep-tember, the highest since 3rd of July, as markets assessed the impact that new Chinese stimulus may have on demand. Chi-na announced incoming fiscal stimulus following a Politburo meeting, to be unveiled in more detail later, in one of their clearest measures to aid the struggling housing market.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 68.776 | -2.27% | -21.10% |
+| Brent | 72.228 | -2.26% | -18.90% |
+| Natural gas | 2.8839 | 1.05% | -10.80% |
+| Gasoline | 1.9412 | -3.00% | -17.47% |
+| Heating oil | 2.1726 | 0.73% | -30.00% |
+| Ethanol | 1.58 | -0.63% | -32.91% |
+| Naphtha | 624.65 | -0.36% | -10.78% |
+| Propane | 0.63 | -2.60% | -15.28% |
+| Uranium | 82 | 3.21% | 12.71% |
+| Methanol | 2440 | 1.67% | -1.45% |
+| TTF Gas | 39.22 | 8.35% | -0.29% |
+| UK Gas | 97.6954 | 13.04% | -0.68% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 2,652.2 | 0.98% | 45.13% |
+| Silver | 31.5 | 2.70% | 49.54% |
+| Platinum | 989.5 | 2.91% | 12.80% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 4.5704 | 6.47% | 25.73% |
+| Coal | 139.6 | 0.07% | -12.94% |
+| Steel | 3417 | 10.30% | -6.89% |
+| Iron Ore | 92.98 | 1.14% | -23.06% |
+| Aluminum | 2631 | 5.47% | 13.36% |
+| LithiumCNY/T | 75500 | 4.14% | -54.65% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.11812 | 0.63% | 6.73% |
+| GBP/USD | 1.33981 | 0.37% | 10.86% |
+| USD/JPY | 142.399 | -0.86% | -4.97% |
+| USD/CNY | 6.99656 | -0.89% | -4.44% |
+| USD/CHF | 0.84255 | -0.56% | -8.23% |
+| USD/SGD | 1.2806 | -0.80% | -6.72% |
+| USD/KRW | 1312.07 | -1.58% | -3.23% |
+| USD/INR | 83.8017 | 0.29% | 0.75% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-o-w | % Spread w-o-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 579.00 | 450.50 | 633.00 | 128.50 | -11.0 | -7.9% |
+| Rotterdam | 520.50 | 432.00 | 619.50 | 88.50 | -11.0 | -11.1% |
+| Fujairah | 567.50 | 439.50 | 763.50 | 128.00 | 18.0 | 16.4% |
+| Houston | 507.00 | 416.00 | 636.50 | 91.00 | 6.0 | 7.1% |

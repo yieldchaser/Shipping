@@ -256,3 +256,69 @@ In the small tanker segment, the “VS LARA” – 11K/2006 RMK Marine was sold 
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 3.2% at 47,716 points, S&P 500 went up by 3.73% at 6,849 points and NASDAQ rise by 4.91% at 23,366 points. In Europe, the Euro Stoxx50 closed up by 2.79% at 5,669 points and Stoxx600 up by 2.55% at 576 points mark. In Asia, the Nikkei closed the week at 50,254, gaining 0.86% on a weekly basis, while Hang Seng went up by 2.53% at 25,859 points mark and the CSI 300 index closed the week at 4,527 points, 1.64% higher than previous week.
+- WTI crude rose 2% to $59.7 per barrel after OPEC+ reaffirmed its three-month halt to production increases, aiming to coun-ter uneven demand and a potential 2026 oversupply. Geopo-litical tension added support after President Trump briefly escalated rhetoric toward Venezuela. Still, upside remains limited by progress on a possible Russia-Ukraine peace deal, which could lead to sanctions relief and higher global supply. Oil prices still logged a fourth straight monthly decline in No-vember amid persistent glut concerns.
+- Iron ore futures climbed toward CNY 800 per ton, a three-week high, as global shipments tightened after exports from Australia and Brazil fell by 2.7 million tons last week. China’s plan to lower port fees for state-owned enterprises is ex-pected to discourage long-term stockpiling and speed up in-ventory turnover, tightening spot supply during restocking.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 59.12 | 0.51% | -17.54% |
+| Brent | 62.91 | 0.30% | -15.72% |
+| Natural gas | 4.80 | 2.59% | 31.93% |
+| Gasoline | 1.85 | -2.55% | -8.16% |
+| Heating oil | 2.34 | -1.09% | 0.91% |
+| Ethanol | 1.71 | 5.72% | 1.18% |
+| Naphtha | 510.73 | -3.72% | -16.48% |
+| Propane | 0.68 | 5.77% | -12.02% |
+| Uranium | 76.45 | 0.79% | 4.73% |
+| Methanol | 2,099 | 2.84% | -24.14% |
+| TTF Gas | 27.94 | -6.56% | -44.62% |
+| UK Gas | 73.16 | -7.15% | -41.65% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4248.69 | 2.71% | 61.86% |
+| Silver | 57.23 | 11.44% | 98.26% |
+| Platinum | 1695.40 | 9.80% | 89.73% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 5.24 | 4.86% | 31.52% |
+| Coal | 110.40 | -0.45% | -11.86% |
+| Steel | 3113.00 | 0.71% | -5.95% |
+| Iron Ore | 104.84 | 0.56% | 1.19% |
+| Aluminum | 2,890 | 2.70% | 13.30% |
+| LithiumCNY/T | 94,350 | 2.39% | 25.72% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.164 | 1.05% | 12.39% |
+| GBP/USD | 1.326 | 1.19% | 5.92% |
+| USD/JPY | 154.871 | -1.28% | -1.58% |
+| USD/CNY | 7.066 | -0.58% | -3.70% |
+| USD/CHF | 0.801 | -1.00% | -11.78% |
+| USD/SGD | 1.294 | -0.90% | -5.27% |
+| USD/KRW | 1468.35 | -0.43% | -0.67% |
+| USD/INR | 89.578 | 0.48% | 4.68% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-o-w | % Spread w-o-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 437.50 | 356.50 | 672.00 | 81.00 | -7.5 | -8.5% |
+| Rotterdam | 407.00 | 365.50 | 660.50 | 41.50 | -15.0 | -26.5% |
+| Fujairah | 431.50 | 324.50 | 714.50 | 107.00 | -4.0 | -3.6% |
+| Houston | 431.50 | 357.50 | 676.00 | 74.00 | -5.0 | -6.3% |

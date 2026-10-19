@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_09_20.pdf
 source_sha256: 27854d25d97a5a821b1d4e4d30082416f69b7323cfc65f1479720fe2f849707d
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:13:57Z'
 ---
@@ -200,3 +200,72 @@ E / E /
 | Tankers | Bangladesh | $610 | $605 | 5.0 |
 | Tankers | Pakistan | $610 | $600 | 10.0 |
 | Tankers | Turkey | $290 | $290 | - |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- The 3 major US indices where all on a downfall this week. The Nasdaq Composite Index closed the week at 15,043.97 while the S&P index and the Dow Jones Industrial closed the week at 4,432.99 and 34,584.88 respectively.
+- US natural gas futures fell below $5.0 per million British thermal units, after posting a fourth straight weekly gain, on projections for lower consumption this week
+- Concerns over gas storage is inadequate to cover people’ e’s winter needs, especially in the northern hemisphere, have soared the natural gas prices more that 35% since last month.
+- Iron ore retreating heavily to $104.5/ton, the lowest since 7th July 2020, 33% down since last month 22% w-on-w, while last time it suffered a sell-off of this magnitude was during the financial crisis in 2008.
+- The price of coking coal, the other ingredient needed to make steel, hits record levels of USD 577/tonne (up 60% m-on-m) in China due to a supply crunch. Covid-related supply disruptions have hit imports from Mongolia, while Australian coal cannot enter China because of a ban imposed by Beijing.
+- Canada’ a’s annual inflation rate raised by by 0.4%. In July, Canada’ a’s annual inflation was recorded at 3.7% whilst in August it rose to 4.1%, the highest level seen in the last 18 years.
+- Over the next five years, the UAE aims to invest USD 14 billion in energy transition, infrastructure, technology and life sciences industries in the UK.
+- India’ a’s merchandise outputs increased around 46% to USD 33.28 billion within August.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 71.94 | 0.67 | -0.92% | 3.18% | 10.32% | 48.27% |
+| Brent | 75.29 | 0.38 | -0.50% | 3.25% | 10.35% | 45.35% |
+| Natural gas | 5.055 | 0.28 | -5.25% | 2.37% | 31.23% | 99.09% |
+| Gasoline | 2.1749 | 0.0063 | -0.29% | 0.97% | 1.27% | 54.24% |
+| Heating oil | 2.2082 | 0.0028 | -0.13% | 2.90% | 9.25% | 48.80% |
+| Ethanol | 2.207 | 0 | 0.00% | 0.00% | -0.59% | 54.01% |
+| Naphtha | 676.07 | 0.875 | -0.13% | 2.27% | 5.47% | 56.24% |
+| Propane | 1.28 | 0.0023 | 0.18% | 5.06% | 13.41% | 97.55% |
+| Uranium | 50.8 | 1.15 | 2.32% | 19.81% | 61.27% | 65.47% |
+| Methanol | 2920 | 122 | -4.01% | 1.39% | 8.27% | 20.86% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,754.3 | 0.9467 | 0.05% | -1.85% | -1.86% | -7.50% |
+| Silver | 22.38 | 0.55 | -2.40% | -5.64% | -4.69% | -15.09% |
+| Platinum | 941.0 | 8.0483 | 0.86% | -1.52% | -5.37% | -11.72% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.2355 | 0.043 | -1.01% | -4.78% | 2.90% | 20.36% |
+| Coal | 177.5 | 1.5 | 0.85% | 0.00% | 3.20% | 120.50% |
+| Steel | 5,728 | 121 | 2.16% | 2.21% | 11.64% | 35.73% |
+| Iron Ore | 104.5 | 9 | -7.93% | -19.31% | -33.65% | -34.07% |
+| Aluminum | 2,872.5 | 18 | -0.62% | -1.80% | 12.61% | 45.02% |
+| Iron Ore Fe62% | 123 | 3.04 | 2.53% | -7.64% | -22.93% | -21.07% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.1725 | 0.00395 | -0.34% | -0.72% | 0.12% | -4.02% |
+| GBP/USD | 1.37284 | 0.0069 | -0.50% | -0.74% | -0.16% | 0.40% |
+| USD/JPY | 109.97 | 0.266 | 0.24% | 0.06% | 0.15% | 6.51% |
+| USD/CNY | 6.473 | 0.0192 | 0.30% | 0.47% | -0.20% | -0.45% |
+| USD/CHF | 0.93208 | 0.00463 | 0.50% | 1.52% | 1.63% | 5.31% |
+| USD/SGD | 1.3485 | 0.00294 | 0.22% | 0.50% | -0.90% | 2.00% |
+| USD/KRW | 1175.97 | 4.73902 | 0.40% | 0.82% | 0.77% | 8.48% |
+| USD/INR | 73.64 | 0.07 | 0.10% | 0.17% | -0.86% | 0.83% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 559.00 | 474.50 | 613.50 | $84.5 |
+| Rotterdam | 535.50 | 421.50 | 609.50 | $114.0 |
+| Fujairah | 558.00 | 473.50 | 671.00 | $84.5 |
+| Houston | 530.50 | 412.50 | 641.50 | $118.0 |

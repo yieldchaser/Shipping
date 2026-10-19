@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_12_6-.pdf
 source_sha256: a297d2859a708b385c7bd8550320bd65a45c6b9500c071f14775d363c52a1b60
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:24Z'
 ---
@@ -208,3 +208,73 @@ Finally, worth noting is the sale on the Gas sector of the “BW Sakura” - 77k
 | Tankers | Bangladesh | $610 | $620 | -10 |
 | Tankers | Pakistan | $610 | $615 | -5 |
 | Tankers | Turkey | $325 | $320 | 5 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the main indices closed the week all negative w-on-w. On weekly basis, the Dow Jones Industrial average fell by 0.91% at 34,580 points, S&P 500 went down by 1.2% at 4,538 points and NASDAQ decreased by 2.6% at 15,085. The main European indices closed slightly lower than previous week, with Euro Stoxx50 down by 0.23% at 4,089.80 points and Stoxx600 down by 0.62% at 464.34 points mark.
+- In Asia, the Nikkei closed the week at 27,927 losing 1.3% on weekly basis while Hang Seng fell by 2.2% at 23,336 points mark and CSI 300 index closed the week at 4,892 points, 0.85% lower than previous week.
+- Turkey’s Lira reached 13.921 a record low & concerns are growing over Central Bank’s monetary policy direction. Policymakers are seen cutting interest rates again this month as President Tayyip Erdogan has been calling for lower borrowing costs to support growth, despite soaring inflation. The Turkish Lira has lost some 76% of its value against USD y-on-y.
+- The IHS Markit Eurozone Construction PMI increased to 53.3 in Nov 2021 from 51.2 in Oct 2021, pointing to the strongest growth in the construction sector since Feb 2018 backed by strengthening demand and rising home building and commercial construction
+- WTI crude futures traded below $67/barrel, having six consecutive weeks of declines following the release of emergency reserves by major consumers, and also exacerbated by concerns around the Omicron variant and its impact on global economic growth and fuel demand and decision by the OPEC+ last week to continue increasing supplies by 400,000 barrels per day in January.
+- Coal Prices remain more than 40% below record price of $269.5/ton reached 2 months ago as as output hit multi-year highs in China, after the approved expansions of more than 153 coal mines, which aimed to end power shortages and ultimately lower record prices.
+- Iron Ore traded at below $100/ton, with expectations of rising steel production in December to continue to support prices from recent 18-month lows.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 66.24 | -0.26 | -0.39% | -2.80% | -14.75% | 36.52% |
+| Brent | 69.92 | 0.25 | 0.36% | -3.85% | -13.19% | 34.98% |
+| Natural gas | 4.094 | 0.038 | 0.94% | -25.25% | -28.38% | 61.24% |
+| Gasoline | 1.9565 | -0.0112 | -0.57% | -3.59% | -14.66% | 38.75% |
+| Heating oil | 2.0984 | -0.005 | -0.24% | 0.37% | -12.81% | 41.40% |
+| Ethanol | 2.85 | -0.12 | -4.04% | -17.39% | -5.32% | 113.55% |
+| Naphtha | 638.85 | -1.91 | -0.30% | -12.69% | -13.64% | 47.64% |
+| Propane | 0.99 | 0.03 | 2.98% | -21.86% | -28.37% | 54.10% |
+| Uranium | 46.35 | 0 | 0.00% | -2.22% | 5.82% | 50.98% |
+| Methanol | 2620 | -11 | -0.42% | -2.93% | -7.75% | 8.44% |
+| TTF Gas | 90.5 | -4.33 | -4.57% | -2.89% | 18.24% | 373.25% |
+| UK Gas | 233 | -9.09 | -3.75% | -0.28% | 18.44% | 313.12% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,783.1 | 14.49 | 0.82% | -0.48% | -0.48% | -5.98% |
+| Silver | 22.525 | 0.15 | 0.67% | -2.62% | -5.24% | -14.54% |
+| Platinum | 932.3 | -5.14 | -0.55% | -2.25% | -9.10% | -12.54% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.2665 | -0.0325 | -0.76% | -0.40% | -1.38% | 21.24% |
+| Coal | 155.3 | 0.25 | 0.16% | -1.43% | 0.32% | 92.86% |
+| Steel | 4,301 | 0 | 0.00% | -1.49% | -5.14% | 1.92% |
+| Iron Ore | 99 | 0 | 0.00% | 2.59% | 7.61% | -37.54% |
+| Aluminum | 2,623.0 | 23 | 0.88% | 0.31% | 2.68% | 32.42% |
+| Iron Ore Fe62% | 101.49 | -0.33 | -0.32% | 7.47% | 4.45% | -34.88% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.13095 | -0.003 | -0.27% | 0.02% | -2.11% | -7.43% |
+| GBP/USD | 1.32315 | -0.0069 | -0.52% | -0.77% | -2.04% | -3.23% |
+| USD/JPY | 112.8 | -0.25 | -0.22% | -0.36% | -0.92% | 9.25% |
+| USD/CNY | 6.37252 | -0.0002 | 0.00% | -0.37% | -0.38% | -2.00% |
+| USD/CHF | 0.91776 | -0.0031 | -0.34% | -0.50% | 0.58% | 3.69% |
+| USD/SGD | 1.37131 | 0.0017 | 0.13% | 0.09% | 1.51% | 3.72% |
+| USD/KRW | 1176.9 | 1.9 | 0.16% | -1.12% | -0.43% | 8.56% |
+| USD/INR | 75.2243 | 0.2526 | 0.34% | 0.25% | 0.91% | 3.00% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 607.00 | 409.00 | 603.50 | 198.00 | 28.0 | 16.5% |
+| Rotterdam | 538.00 | 394.50 | 580.00 | 143.50 | 5.5 | 4.0% |
+| Fujairah | 592.50 | 428.50 | 739.50 | 164.00 | 10.0 | 6.5% |
+| Houston | 551.50 | 438.00 | 642.50 | 113.50 | -13.0 | -10.3% |

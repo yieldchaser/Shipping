@@ -242,3 +242,69 @@ This week’s tanker S&P activity saw a fair number of transactions. In the Suez
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 0.9% at 52,146 points, S&P 500 went down by 1.55% at 7,458 points and NASDAQ fell by 2.9% at 25,520 points. The main European indices also fell, with the Euro Stoxx50 closing down by 0.61% at 6,229 points and Stoxx600 down by 0.02% at 641 points mark. In Asia, the Nikkei closed the week at 64,141, losing 6.44% on a weekly basis, while Hang Seng went up by 1.6% at 24,562 points mark and the CSI 300 index closed the week at 4,529 points, 5.26% lower than previous week.
+- Crude oil pared early gains to around $82/barrel Monday, af-ter briefly topping $85, as renewed US-Iran diplomatic efforts eased supply concerns. Iran's Foreign Ministry said it received mediator proposals to reduce tensions, adding talks with the US could continue if they served national interests. Prices re-main highly volatile amid shifting escalation/de-escalation prospects in the conflict, which has repeatedly disrupted Strait of Hormuz traffic.
+- Wheat futures eased to roughly $6.70/bushel in mid-July, pulling back from a two-year high hit July 15 as traders took profits. Prices stayed elevated amid ongoing Russia-Ukraine tensions, with Russian strikes resuming on Ukrainian Black Sea port infrastructure after Ukrainian attacks on Russian vessels. USDA reported weaker-than-expected US wheat export sales of 235,100 tons for the week ended July 9. Meanwhile, West-ern Australia's grain body projected its 2026 wheat harvest at 9.5 million tons, down nearly 30% from 2025, on hotter, drier weather—raising supply concerns given Australia's key role supplying Southeast Asia, the Middle East, and China.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 80.58 | 3.28% | 40.55% |
+| Brent | 86.55 | 3.99% | 42.36% |
+| Natural gas | 2.84 | -1.87% | -22.88% |
+| Gasoline | 3.35 | 5.78% | 95.77% |
+| Heating oil | 4.01 | 4.89% | 89.05% |
+| Ethanol | 1.92 | -2.30% | 20.63% |
+| Naphtha | 747.05 | 13.91% | 52.97% |
+| Propane | 0.78 | 2.81% | 21.92% |
+| Uranium | 85.70 | -0.06% | 4.96% |
+| Methanol | 2620.00 | 4.59% | 19.63% |
+| TTF Gas | 58.89 | 14.40% | 108.99% |
+| UK Gas | 141.54 | 13.95% | 91.67% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4,030.2 | 0.74% | -6.68% |
+| Silver | 57.2 | -0.76% | -19.76% |
+| Platinum | 1,616.2 | -0.08% | -22.11% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 6.29 | 0.88% | 10.66% |
+| Coal | 130.00 | 1.09% | 20.93% |
+| Steel | 3088.00 | 1.21% | -0.26% |
+| Iron Ore | 98.88 | 0.16% | -7.70% |
+| Aluminum | 3149.20 | -0.22% | 5.10% |
+| LithiumCNY/T | 151500.00 | -1.62% | 27.85% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.144 | 0.47% | -2.60% |
+| GBP/USD | 1.347 | 0.93% | 0.09% |
+| USD/JPY | 162.320 | -0.07% | 3.55% |
+| USD/CNY | 6.768 | -0.24% | -2.98% |
+| USD/CHF | 0.807 | -0.90% | 1.82% |
+| USD/SGD | 1.290 | -0.34% | 0.30% |
+| USD/KRW | 1479.990 | -1.18% | 2.75% |
+| USD/INR | 96.410 | 0.50% | 7.24% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- | Diff Spread | % Spread |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 769.50 | 552.00 | 1119.5 | 217.50 | 20.0 | 10.1% |
+| Rotterdam | 666.50 | 532.50 | 1170.5 | 134.00 | -9.5 | -6.6% |
+| Fujairah | 791.00 | 580.50 | 1354.5 | 210.50 | 18.0 | 9.4% |
+| Houston | 683.00 | 518.50 | 1184.0 | 164.50 | 24.0 | 17.1% |

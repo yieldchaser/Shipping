@@ -9,7 +9,7 @@ year: 2023
 source_file: corpus/01-brokers/xclusiv/2023/xclusiv_2023_xclusiv_weekly_2023_09_11.pdf
 source_sha256: 3e791d9e80035a6dfb00980dc2fdc20c3e3db1140f05cf22a5addbc1b1ed8913
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:18:18Z'
 ---
@@ -181,3 +181,71 @@ On tanker S&P activity, the VLCC “Athenian Freedom”- 300K/2013 HHI was sold 
 | Tankers | Bangladesh | $530 | $535 | -5 |
 | Tankers | Pakistan | $545 | $540 | 5 |
 | Tankers | Turkey | $330 | $335 | -5 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 0.7% at 34,577 points, S&P 500 went down by 1.29% at 4,457 points and NASDAQ fell by 1.93% at 13,762 points. The main European indices also closed with a decrease, with the Euro Stoxx50 closing down by 1.06% at 4,237 points and Stoxx600 down by 0.76% at 455 points mark. In Asia, the Nikkei closed the week at 32,607, losing 0.32% on a weekly basis, while Hang Seng went down by 0.98% at 18,202 points mark and the CSI 300 index closed the week at 3,740 points, 1.36% lower than previous week.
+- WTI crude futures fell below USD 87 per barrel on Monday on a likely technical correction, while traders continued to assess various demand and supply factors. Concerns about sluggish growth in China continued to grip commodity markets, as the world’s largest crude importer has yet to convince markets of an economic turnaround.
+- US natural gas futures hovered close to the USD 2.6/MMBtu level, rebounding from the over-one-month low of USD 2.5/MMBtu as markets gauged evidence of lower supply against muted demand. Still, expectations of lower demand limited the rebound. Seasonally cooler weather reduced the outlook on air-conditioning use and gas consumption in the short term, although meteorologists still forecast temperatures to remain mostly hotter than normal until mid-September.
+- Newcastle coal futures were near USD 160 per tonne in September, hovering close to three-month highs, lifted by increases in other energy benchmarks and signs of cutbacks in supply. LNG prices rose globally after Chevron was unable to reach agreements with unions and prevent strikes in Australian export facilities, raising the outlook for coal-induced power production. Additionally, the accumulation of steady support measures from the Chinese government could spur a slight rebound in economic activity and infrastructure construction in the country, pinning demand for energy.
+- Prices for iron ore cargoes with a 63.5% iron ore content for delivery in Tianjin were near USD 117 per tonne, close to the four-month high of $119.5 from September 6th amid bets of robust demand for Chinese steel production in the short term. Increasing expectations that Beijing will mandate steel output controls in the near future drove mills to ramp up production in the short term to undercut any controls, increasing demand for iron ore.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 86.933 | 0.577 | -0.66% | 1.17% | 6.12% | 0.08% |
+| Brent | 90.698 | 0.048 | 0.05% | 1.91% | 6.07% | -2.40% |
+| Natural gas | 2.5498 | 0.0552 | -2.12% | -3.42% | -12.02% | -69.23% |
+| Gasoline | 2.6599 | 0.0062 | 0.23% | 2.60% | 0.01% | 10.38% |
+| Heating oil | 3.3048 | 0.0057 | 0.17% | 4.90% | 7.71% | -6.80% |
+| Ethanol | 2.265 | 0.0075 | 0.33% | 0.00% | 3.19% | -9.40% |
+| Naphtha | 686.2 | 8.57 | 1.26% | 1.62% | 4.08% | 8.46% |
+| Propane | 0.75 | 0.01 | 1.94% | 3.96% | 2.70% | -28.47% |
+| Uranium | 60.75 | 2.25 | 3.85% | 3.85% | 7.05% | 15.94% |
+| Methanol | 2524 | 33 | 1.32% | -1.21% | 7.09% | -5.47% |
+| TTF Gas | 35.89 | 1.38 | 4.00% | 6.91% | 4.23% | -81.17% |
+| UK Gas | 89 | 4.14 | 4.88% | 9.54% | 2.50% | -74.39% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,928.0 | 10.21 | 0.53% | -0.53% | 1.05% | 11.83% |
+| Silver | 23.117 | 0.208 | 0.91% | -3.56% | 2.24% | 16.87% |
+| Platinum | 901.3 | 8.61 | 0.96% | -5.53% | -0.08% | -0.63% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.7475 | 0.067 | 1.82% | -0.75% | 0.59% | 3.48% |
+| Coal | 156.3 | 1.4 | -0.89% | 0.00% | 9.65% | -64.10% |
+| Steel | 3,708 | 9 | -0.24% | -1.80% | 3.69% | -5.41% |
+| Iron Ore | 116.5 | 1 | -0.85% | -0.43% | 12.56% | 11.48% |
+| Aluminum | 2,184.0 | 12 | -0.55% | -2.37% | -0.50% | -4.46% |
+| Iron Ore Fe62% | 116.9 | 0.5 | -0.43% | -1.09% | 11.65% | 16.66% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.07322 | 0.0033 | 0.31% | -0.57% | -1.58% | 6.06% |
+| GBP/USD | 1.25179 | 0.0054 | 0.43% | -0.82% | -1.28% | 7.18% |
+| USD/JPY | 146.11 | 1.7 | -1.15% | -0.24% | 0.39% | 2.30% |
+| USD/CNY | 7.30302 | 0.061 | -0.83% | 0.35% | 0.34% | 5.58% |
+| USD/CHF | 0.89034 | 0.0029 | -0.32% | 0.71% | 1.39% | -6.63% |
+| USD/SGD | 1.35953 | 0.0052 | -0.38% | 0.36% | 0.30% | -2.63% |
+| USD/KRW | 1330.88 | 4.08 | -0.31% | 1.04% | -0.44% | -3.18% |
+| USD/INR | 82.8424 | 0.1616 | -0.19% | 0.15% | -0.39% | 4.40% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 655.50 | 554.50 | 940.50 | 101.00 | -6.0 | -5.6% |
+| Rotterdam | 617.50 | 590.50 | 951.50 | 27.00 | -17.0 | -38.6% |
+| Fujairah | 648.00 | 536.00 | 961.50 | 112.00 | 23.0 | 25.8% |
+| Houston | 659.00 | 557.00 | 980.00 | 102.00 | 2.0 | 2.0% |

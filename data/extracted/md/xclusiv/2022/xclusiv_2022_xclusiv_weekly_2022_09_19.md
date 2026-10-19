@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_09_19.pdf
 source_sha256: f9bc9a188f2842ca51d1daa2153511d4a9e4f3ff8384b77c4f02b3c2b2c4a32a
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:15:56Z'
 ---
@@ -178,3 +178,71 @@ The tanker marker keeps its strong pace, maintaining activity to firm levels. On
 | Tankers | Bangladesh | $610 | $600 | 10 |
 | Tankers | Pakistan | $595 | $590 | 5 |
 | Tankers | Turkey | $280 | $285 | -5 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 4.1% at 30,822 points, S&P 500 went down by 4.77% at 3,873 points and NASDAQ fell by 5.48% at 11,448 points. The main European indices closed lower than previous week, with the Euro Stoxx50 closing down by 1.95% at 3,500 points and Stoxx600 down by 2.89% at 408 points mark. In Asia, the Nikkei closed the week at 27,876, losing 1.2% on a weekly basis, while Hang Seng went down by 3.1% at 18,762 points mark and the CSI 300 index closed the week at 3,933 points, 3.94% lower than previous week.
+- WTI crude futures fell to USD 84.5 per barrel, extending three weeks of declines as aggressive monetary tightening and recession fears weighed on the demand outlook ahead of the European Union embargo on Russian oil in December.
+- US natural gas futures extended their decline to below USD 7.7/MMBtu, following four weeks of losses, in line with the European benchmark and as US railroads and labor unions reached an agreement to avert a rail shutdown that would hit energy supplies across the country. The previous threat of a rail strike sent natural gas prices close to the 14-year high of USD 10/MMBtu hit in August, as a rail strike would halt coal deliveries and ramp up coal-to-gas switching activity.
+- Front-month Dutch gas futures fell towards EURO 170 per megawatt hour, the lowest level since July 25th and following a 9% drop in the previous week as Europe intensified efforts to ease reliance on Russian imports including price caps and bailing out local energy companies. Measures proposed by the European Commission include raising EURO 140 billion from energy         ’ profits and a mandatory cut on energy use, and energy ministers will meet on September 30th to try to approve them.
+- Newcastle coal futures, after skyrocketed to a new record high of around USD 460 per tonne, fell to USD 440 per tonne, supported by continued robust demand and persistent supply disruptions exacerbated by the war in Eastern Europe. The International Energy Agency sees coal consumption in Europe rising by 7% in 2022 on top of last year's 14% surge, with the continent now turning to seaborne coal from South Africa, Indonesia, and even as far away as Australia as it halts imports from Russia.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 84.955 | 0.155 | -0.18% | -3.22% | -5.98% | 21.12% |
+| Brent | 91.203 | 0.147 | -0.16% | -2.98% | -4.81% | 23.38% |
+| Natural gas | 7.6134 | 0.1506 | -1.94% | -7.71% | -21.35% | 52.73% |
+| Gasoline | 2.3984 | 0.0173 | -0.72% | -1.90% | -10.58% | 13.39% |
+| Heating oil | 3.176 | 0.0035 | 0.11% | -11.85% | -15.04% | 47.11% |
+| Ethanol | 2.48 | 0.02 | 0.81% | -0.80% | -1.20% | 4.75% |
+| Naphtha | 628.37 | 1.13 | -0.18% | -0.68% | -4.30% | -7.06% |
+| Propane | 1.04 | 0.01 | -0.60% | -0.76% | -2.89% | -18.37% |
+| Uranium | 48.75 | 2.1 | -4.13% | -7.23% | 0.10% | -4.04% |
+| Methanol | 2739 | 28 | 1.03% | 2.58% | 11.57% | -9.03% |
+| TTF Gas | 177 | 10.79 | -5.75% | -7.13% | -36.04% | 135.01% |
+| UK Gas | 290.81 | 95.74 | -24.77% | -23.13% | -33.90% | 78.63% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,666.1 | 8.8 | -0.53% | -3.36% | -4.01% | -5.54% |
+| Silver | 19.373 | 0.187 | -0.96% | -2.06% | 1.91% | -12.91% |
+| Platinum | 900.0 | 6.93 | -0.76% | -0.77% | 2.76% | -1.18% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.5436 | 0.0174 | -0.49% | -2.26% | -3.46% | -13.93% |
+| Coal | 439.0 | 6.5 | -1.46% | 0.86% | 6.06% | 147.32% |
+| Steel | 3,898 | 1 | 0.03% | -0.56% | -2.50% | -33.65% |
+| Iron Ore | 101.5 | 3 | -2.87% | -2.87% | -3.79% | -2.87% |
+| Aluminum | 2,312.0 | 41.5 | 1.83% | 1.56% | -3.34% | -20.01% |
+| Iron Ore Fe62% | 99.26 | 1.13 | -1.13% | -0.95% | -5.92% | -19.30% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 0.99809 | 0.0032 | -0.31% | -1.45% | 0.40% | -14.89% |
+| GBP/USD | 1.13992 | 0.0021 | -0.18% | -2.43% | -3.11% | -16.56% |
+| USD/JPY | 143.31 | 0.383 | 0.27% | 0.48% | 4.25% | 31.02% |
+| USD/CNY | 7.01531 | 0.0164 | 0.23% | 1.42% | 2.16% | 8.26% |
+| USD/CHF | 0.96777 | 0.0032 | 0.33% | 1.49% | 0.35% | 4.32% |
+| USD/SGD | 1.40862 | 0.0031 | 0.22% | 0.89% | 0.77% | 4.17% |
+| USD/KRW | 1392.52 | 7.75 | 0.56% | 1.30% | 3.65% | 17.45% |
+| USD/INR | 79.665 | 0.021 | -0.03% | 0.40% | -0.23% | 8.17% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 686.50 | 410.50 | 891.00 | 276.00 | 28.5 | 11.5% |
+| Rotterdam | 672.00 | 430.00 | 1007.5 | 242.00 | 18.0 | 8.0% |
+| Fujairah | 704.00 | 429.50 | 1195.5 | 274.50 | 21.0 | 8.3% |
+| Houston | 671.00 | 467.50 | 1000.0 | 203.50 | 5.5 | 2.8% |

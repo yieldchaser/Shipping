@@ -243,3 +243,69 @@ On the Suezmax Sector, the Scrubber fitted “Stena Sunshine” - 159K/2013 Sams
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 0.3% at 47,147 points, S&P 500 went up by 0.08% at 6,734 points and NASDAQ fell by 0.45% at 22,901 points. In Europe, the Stoxx50 closed up by 2.29% at 5,694 points and Stoxx600 up by 1.77% at 575 points mark. In Asia, the Nikkei closed the week at 50,377, gaining 0.2% on a weekly basis, while Hang Seng went up by 1.26% at 26,572 points mark and the CSI 300 index closed the week at 4,628 points, 1.08% lower than pre-vious week.
+- WTI crude oil futures fell to $59.8 per barrel on Monday, par-ing gains from the previous session after Russia’s No-vorossiysk port resumed operations following a two-day shut-down caused by a Ukrainian drone strike. Reports indicated that two crude tankers were moored at the port on Sunday, signaling ongoing activity at the terminals. The disruption at Russia’s second-largest oil export hub had pushed crude pric-es up more than 2% on Friday to close the week with a mod-est gain.
+- Steel rebar futures in China climbed higher to CNY 3,080 per tonne, the highest since the beginning of November amid evi-dence that the anti-involution policy pressed by Beijing is translating to lower supply. Crude steel output in China fell 12% annually in October, translating to a 4% drop year-to-date, to mark the lowest output for the month since 2021.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 60.09 | -0.10% | -16.25% |
+| Brent | 64.31 | 0.37% | -13.86% |
+| Natural gas | 4.48 | 3.20% | 23.23% |
+| Gasoline | 1.99 | 1.83% | -0.88% |
+| Heating oil | 2.52 | 0.31% | 8.67% |
+| Ethanol | 1.72 | 1.93% | 1.78% |
+| Naphtha | 540.33 | 0.09% | -11.64% |
+| Propane | 0.65 | 2.78% | -16.42% |
+| Uranium | 77.20 | -0.32% | 5.75% |
+| Methanol | 1,994 | -3.11% | -27.94% |
+| TTF Gas | 31.45 | 1.21% | -37.67% |
+| UK Gas | 82.79 | 2.49% | -33.97% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4070.60 | -1.08% | 55.14% |
+| Silver | 50.88 | 0.75% | 76.25% |
+| Platinum | 1541.10 | -2.59% | 72.39% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 5.01 | -1.35% | 25.81% |
+| Coal | 110.60 | 0.14% | -11.70% |
+| Steel | 3097.00 | 1.84% | -6.44% |
+| Iron Ore | 103.95 | 0.59% | 0.33% |
+| Aluminum | 2,840 | -1.48% | 11.31% |
+| LithiumCNY/T | 86,150 | 6.69% | 14.79% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.160 | 0.37% | 11.98% |
+| GBP/USD | 1.316 | -0.06% | 5.18% |
+| USD/JPY | 154.830 | 0.44% | -1.60% |
+| USD/CNY | 7.110 | -0.18% | -3.11% |
+| USD/CHF | 0.796 | -1.19% | -12.33% |
+| USD/SGD | 1.302 | -0.03% | -4.65% |
+| USD/KRW | 1461.62 | 0.33% | -1.12% |
+| USD/INR | 88.585 | -0.14% | 3.52% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-o-w | % Spread w-o-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 461.00 | 375.50 | 739.00 | 85.50 | 6.0 | 7.5% |
+| Rotterdam | 433.00 | 383.00 | 723.50 | 50.00 | 14.5 | 40.8% |
+| Fujairah | 458.00 | 346.50 | 740.50 | 111.50 | 7.0 | 6.7% |
+| Houston | 436.00 | 384.00 | 703.00 | 52.00 | 26.0 | 100.0% |

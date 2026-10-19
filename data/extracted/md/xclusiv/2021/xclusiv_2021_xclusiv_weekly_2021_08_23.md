@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_08_23.pdf
 source_sha256: a698527dab9f1cb5f103fbdff5cddf6c83eebdb78e54ac44f98bac825fb79a37
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:13:46Z'
 ---
@@ -167,3 +167,70 @@ Products: The LR2 route (TC1) M.East Gulf to Japan is down this week at usd 7,53
 | Tankers | Bangladesh | $620 | $625 | (5.0) |
 | Tankers | Pakistan | $605 | $605 | - |
 | Tankers | Turkey | $300 | $300 | - |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- The Dow Jones Industrial Average and the S&P 500 index, reached their highest ever during the start of the week at 35,625 & 4,479 respectively but closed on Fri 20th Aug at 35,120 & 4,441. Nasdaq composite closed at 14,714.
+- While Washington is riveted by the chaotic scene in Afghanistan, in Wall Street, the Delta variant is making Americans nervous & raising fresh worries about how and if it will be a damper for the economy. Anxiety amongst consumers is the highest since the outbreak surge last winter, while a very recent consumer confidence reading shows the lowest level in 10years, surpassing early pandemic levels. However, consumers are still consuming, purchasing, flying, driving, travelling & spending money which continues to generate momentum for the economy.
+- US Dollar index reached its highest level since 4th Nov 2020, below $1.17, which was a 9-month high.
+- In India, the S&P BSE Sensex Stock market index peaked at 55,792 which was again new highs this week, possibly on the back that there were 25,072 new infections in India in the last 24 hours, which is the lowest in 160 days.
+- Japan Trade surplus of JPY 441.02 billion in July 2021 compared to the deficit of JPY 14.76 billion this time last year, while Japanese imports of JPY 6,915 billion rose by 28.5% to a 3-month high growing for a 6th consecutive month, while Japanese exports continue gains by 37% to a 4-month high of JPY 7,356 billion.
+- Iron Ore prices are on a freefall since July 16thand closed the week at $139.5/ton, that is a 35.7% m-on-m reduction, and this significantly lower commodity price might trigger more traders to start buying again. Copper price has fallen by -7.3% on a monthly comparison closing the week at $4.14per pound.
+- Coal stopped its upward rally and after having peaked at its all-time high price of $173.4/ton on Aug 16th closed the week at $167.75/t. Meantime, China authorized the restart of production for a year at 15 coal mines across northern provinces such as Shanxi and Xinjiang region as inventories declined to near historic lows since August due to peak summer electricity demand and transportation bottlenecks exacerbated by last month's severe floods and typhoon.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 62.15 | 1.54 | -2.42% | -9.19% | -11.59% | 28.09% |
+| Brent | 65.04 | 1.41 | -2.12% | -7.86% | -9.95% | 25.56% |
+| Natural gas | 3.838 | 0.01 | 0.21% | -0.60% | -3.06% | 51.16% |
+| Gasoline | 2.0068 | 0.07 | -3.59% | -11.31% | -9.47% | 42.32% |
+| Heating oil | 1.8974 | 0.07 | -3.64% | -8.69% | -9.08% | 27.86% |
+| Ethanol | 2.22 | 0 | 0.00% | 0.00% | -4.31% | 54.92% |
+| Naphtha | 632.43 | 2.57 | -0.40% | -3.19% | -4.96% | 46.16% |
+| Propane | 1.1 | 0.01 | -1.20% | -2.35% | 1.29% | 70.26% |
+| Uranium | 33 | 0.5 | 1.54% | 8.37% | 1.54% | 7.49% |
+| Methanol | 2665 | 9 | -0.34% | 7.46% | 0.23% | 10.31% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,780.7 | 0.55 | 0.03% | 0.09% | -1.25% | -6.10% |
+| Silver | 23.01 | 0.22 | -0.95% | -3.08% | -8.79% | -12.70% |
+| Platinum | 996.0 | 22.57 | 2.32% | -2.97% | -7.77% | -6.56% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.1415 | 0.1 | 2.55% | -5.60% | -3.29% | 17.69% |
+| Coal | 167.75 | 3.15 | -1.84% | -2.04% | 12.02% | 108.39% |
+| Steel | 4,945 | 2 | -0.04% | -7.45% | -10.27% | 17.18% |
+| Iron Ore | 139.5 | 2.5 | -1.76% | -13.08% | -35.71% | -11.99% |
+| Aluminum | 2,553.8 | 10.5 | 0.41% | -2.11% | 4.23% | 28.93% |
+| Iron Ore Fe62% | 160.54 | 0.16 | 0.10% | -4.41% | -26.48% | 3.02% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.17086 | 0.0009 | 0.08% | -0.59% | -0.80% | -4.16% |
+| GBP/USD | 1.364 | 0.0017 | 0.12% | -1.46% | -1.33% | -0.24% |
+| USD/JPY | 109.94 | 0.159 | 0.14% | 0.57% | -0.36% | 6.47% |
+| USD/CNY | 6.49735 | 0.0015 | -0.02% | 0.34% | 0.25% | -0.08% |
+| USD/CHF | 0.91642 | 0.0005 | -0.05% | 0.43% | 0.09% | 3.54% |
+| USD/SGD | 1.36094 | 0.0001 | 0.00% | 0.39% | 0.25% | 2.94% |
+| USD/KRW | 1170.66 | 0.774 | -0.07% | 0.74% | 2.00% | 7.99% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 493.50 | 390.00 | 538.50 | $103.5 |
+| Rotterdam | 473.00 | 379.00 | 544.50 | $94.0 |
+| Fujairah | 500.00 | 406.50 | 617.50 | $93.5 |
+| Houston | 479.50 | 384.00 | 582.50 | $95.5 |

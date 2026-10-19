@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_09_05.pdf
 source_sha256: 026bb06af52e19da5f076c4f793c707aaaadb9481f4b008dfe2b5bc179a12149
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:15:49Z'
 ---
@@ -180,3 +180,72 @@ In the tanker sphere, the intensity in sale & purchase activity remains, with se
 | Tankers | Bangladesh | $590 | $570 | 20 |
 | Tankers | Pakistan | $570 | $560 | 10 |
 | Tankers | Turkey | $285 | $280 | 5 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 3% at 31,318 points, S&P 500 went down by 3.29% at 3,924 points and NASDAQ fell by 4.21% at 11,631 points. The main European indices moved in negative ground for 3rd week in a row, with the Euro Stoxx50 closing down by 1.65% at 3,544 points and Stoxx600 down by 2.38% at 416 points mark. In Asia, the Nikkei closed the week at 27,651, losing 3.46% on a weekly basis, while Hang Seng went down by 3.56% at 19,452 points mark and the CSI 300 index closed the week at 4,024 points, 2.04% lower than previous week.
+- WTI &Brent crude futures trading near USD 88 USD/Bbl & USD 94 respectively as traders mulled the supply outlook ahead of an OPEC+ meeting, while weighing the impact of the latest fallout from Europe’s worsening energy crisis. Analysts are expecting no significant change as OPEC+ decides on production levels for October later on Monday, but Saudi Arabia’s recent warning that the group could cut production at any time kept markets on edge.
+- Natural gas prices in Europe jumped almost 30% to approach EURO 280 per megawatt hour on Monday, after touching a three-week low of €203 on Friday, as Russia's Gazprom reversed its plan to resume flows through the Nord Stream pipeline and shut it indefinitely, citing maintenance requirements. The Nord Stream pipeline was already running at just 20% of capacity before flows were halted last week for a three-day maintenance period.
+- Newcastle coal futures, were trading above the USD 430-per-tonne mark and just shy of a record peak touched in early March amid robust demand and persistent supply disruptions exacerbated by the war in Eastern Europe. Demand for coal in India, the world's second-biggest coal importer behind China, is expected to rise almost 10% in 2022 as the country's economy expands and electricity use increases.
+- Prices for iron ore cargoes with a 63.5% iron content for delivery into Tianjin plunged to USD 99 per tonne in early September, to levels not seen in nearly 10 months, as power cuts for Chinese manufacturers and constructors lowered capacity for steel production and demand for steel inputs.
+- The Euro fell below USD 0.99 for the first time in nearly 20 years in early September, after Russia halted indefinitely natural gas flows through the Nord Stream pipeline, raising further concerns over an ongoing energy crisis, high inflation and a looming recession.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 87.809 | 0.939 | 1.08% | -9.49% | -0.31% | 27.48% |
+| Brent | 94.054 | 1.034 | 1.11% | -8.62% | 0.94% | 30.23% |
+| Natural gas | 9.0361 | 0.1507 | 1.70% | -3.21% | 12.05% | 92.38% |
+| Gasoline | 2.4832 | 0.0218 | 0.89% | -8.57% | -4.60% | 15.67% |
+| Heating oil | 3.6734 | 0.0954 | 2.67% | -4.63% | 15.31% | 71.57% |
+| Ethanol | 2.47 | 0.03 | 1.23% | -3.14% | 1.65% | 10.27% |
+| Naphtha | 632.56 | 2.44 | 0.39% | -3.75% | -9.42% | -3.41% |
+| Propane | 1.08 | 0 | 0.05% | -0.95% | -1.71% | -9.24% |
+| Uranium | 52.4 | 1.1 | -2.06% | 6.29% | 6.40% | 35.40% |
+| Methanol | 2499 | 9 | -0.36% | -1.26% | -2.34% | -9.23% |
+| TTF Gas | 214.67 | 28.34 | -11.66% | -36.71% | 7.77% | 316.78% |
+| UK Gas | 409.42 | 74.32 | -15.36% | -36.06% | 10.59% | 213.85% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,710.8 | 1.31 | -0.08% | -1.56% | -3.57% | -6.16% |
+| Silver | 17.982 | 0.077 | -0.43% | -4.10% | -9.52% | -27.11% |
+| Platinum | 835.0 | 6.64 | 0.80% | -3.30% | -7.02% | -18.58% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.3713 | 0.0502 | -1.47% | -6.66% | -5.11% | -22.00% |
+| Coal | 435.0 | 7.65 | 1.79% | 4.22% | 10.55% | 143.02% |
+| Steel | 3,797 | 104 | -2.67% | -6.84% | -6.50% | -28.39% |
+| Iron Ore | 98 | 1 | -1.01% | -9.68% | -16.24% | -31.71% |
+| Aluminum | 2,295.5 | 0.5 | 0.02% | -7.94% | -3.47% | -15.51% |
+| Iron Ore Fe62% | 95.55 | 0.74 | -0.77% | -9.42% | -13.22% | -34.03% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 0.99293 | 0.00239 | -0.24% | -0.66% | -2.47% | -16.46% |
+| GBP/USD | 1.14805 | 0.0033 | -0.29% | -1.93% | -4.89% | -17.17% |
+| USD/JPY | 140.159 | 0.052 | -0.04% | 1.06% | 3.84% | 27.72% |
+| USD/CNY | 6.918 | 0.0003 | 0.00% | 0.34% | 2.33% | 7.45% |
+| USD/CHF | 0.9804 | 0.0016 | -0.16% | 1.46% | 2.07% | 7.28% |
+| USD/SGD | 1.4013 | 0.0011 | -0.08% | 0.57% | 1.51% | 4.47% |
+| USD/KRW | 1361.15 | 5.33 | 0.39% | 1.44% | 4.08% | 17.92% |
+| USD/INR | 79.717 | 0.044 | 0.06% | -0.31% | 0.77% | 9.23% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 699.00 | 451.50 | 1049.5 | 247.50 | -27.0 | -9.8% |
+| Rotterdam | 679.00 | 455.00 | 1098.5 | 224.00 | 14.5 | 6.9% |
+| Fujairah | 723.00 | 469.50 | 1307.5 | 253.50 | -55.0 | -17.8% |
+| Houston | 713.50 | 515.50 | 1119.0 | 198.00 | -4.5 | -2.2% |

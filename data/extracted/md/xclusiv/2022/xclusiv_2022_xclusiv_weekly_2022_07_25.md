@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_07_25.pdf
 source_sha256: 68d5153e1d81bed4f548d5633a2e03629e87381a0634cbc02674fe345b5acc95
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:15:31Z'
 ---
@@ -191,3 +191,72 @@ On the other hand, activity in the wet sector remains strong. On the VLCC sector
 | Tankers | Bangladesh | $585 | $585 | 0 |
 | Tankers | Pakistan | $580 | $585 | -5 |
 | Tankers | Turkey | $325 | $325 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 2% at 31,899 points, S&P 500 went up by 2.55% at 3,962 points and NASDAQ rise by 3.33% at 11,834 points. The main European indices closed the week higher, with the Euro Stoxx50 closing up by 3.43% at 3,596 points and Stoxx600 up by 2.88% at 426 points mark. In Asia, the Nikkei closed the week at 27,915, gaining 4.77% on a weekly basis, while Hang Seng went up by 1.53% at 20,609 points mark and the CSI 300 index closed the week at 4,238 points, 0.24% lower than previous week.
+- WTI & Brent crude futures fell below USD 94 and USD 104 per barrel, sliding for the fourth straight session, as fears that a global economic slowdown would hurt energy demand outweighed signs of ongoing market tightness and disrupted supply. The US Federal Reserve is expected to deliver another 75 basis point rate hike this week, leading a global fight against surging inflation that some feared would cause a demand destruction.
+- As a result of Russia's attack on Odesa over the weekend, wheat prices rose 3% to USD 7.8 per bushel on Monday. After Russia and Ukraine signed an agreement to resume grain exports from Ukrainian ports in the Black Sea, wheat prices fell almost 6% on Friday.
+- Despite the hot weather in the United States, natural gas futures soared above USD 8.5/MMBtu, approaching a 14-year high of USD 9.5/MMBtu set in early May. Soaring international demand is also adding to the bullish outlook.
+- On the back of increased supplies, Newcastle coal futures fell from an almost record high of USD 430 to around USD 400 per tonne. In an effort to replace shipments from Russia, China, the world's largest coal consumer, announced it might lift a nearly two-year ban on Australian coal.
+- Despite weak PMIs data, recessionary worries returned to the market, causing the Euro to depreciate below USD 1.02 as investors await key economic data this week to determine the next ECB's move. Eurozone PMI surveys indicate the economy is expected to contract in July, with the steepest decline in Germany and the weakest expansion in France in 16 months.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 94.7 | 1.65 | -1.71% | 0.14% | -6.77% | 31.40% |
+| Brent | 103.2 | 0.66 | -0.64% | 2.02% | -3.06% | 39.27% |
+| Natural gas | 8.299 | 0.367 | 4.63% | 18.29% | 32.09% | 104.41% |
+| Gasoline | 3.2228 | 0.0733 | 2.33% | 0.30% | -11.97% | 40.65% |
+| Heating oil | 3.4556 | 0.1347 | -3.75% | -6.58% | -18.06% | 61.94% |
+| Ethanol | 2.4975 | 0.0125 | -0.50% | -1.67% | -10.96% | 12.75% |
+| Naphtha | 765.61 | 1.32 | 0.17% | -0.81% | -4.42% | 13.92% |
+| Propane | 1.14 | 0 | 0.04% | 0.94% | -5.69% | 4.44% |
+| Uranium | 46.95 | 0 | 0.00% | 0.64% | -2.19% | 44.68% |
+| Methanol | 2455 | 2 | -0.08% | 5.05% | -5.03% | -8.33% |
+| TTF Gas | 159.86 | 4.26 | 2.74% | 0.19% | 19.89% | 350.03% |
+| UK Gas | 312.18 | 16.05 | 5.42% | 55.86% | 67.08% | 252.99% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,726.5 | 7.97 | 0.46% | 1.15% | -5.27% | -4.16% |
+| Silver | 18.59 | 0.25 | -1.32% | -0.54% | -11.20% | -26.11% |
+| Platinum | 873.5 | 1.77 | 0.20% | 2.70% | -3.67% | -17.71% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.3485 | 0.0465 | 1.41% | 3.52% | -10.44% | -24.01% |
+| Coal | 409.2 | 5.8 | 1.44% | -0.20% | 3.59% | 173.26% |
+| Steel | 3,829 | 3 | -0.08% | -2.57% | -10.73% | -31.59% |
+| Iron Ore | 103 | 2.5 | 2.49% | 2.49% | -11.97% | -49.63% |
+| Aluminum | 2,469.0 | 29 | 1.19% | 5.33% | -0.34% | -1.53% |
+| Iron Ore Fe62% | 105.39 | 0.12 | 0.11% | 1.05% | -19.83% | -51.22% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.02123 | 0.00022 | -0.02% | 0.72% | -3.47% | -13.48% |
+| GBP/USD | 1.2 | 0.00044 | -0.04% | 0.46% | -2.17% | -13.19% |
+| USD/JPY | 136.105 | 0.035 | 0.03% | -1.61% | 0.53% | 23.36% |
+| USD/CNY | 6.7605 | 0.0034 | 0.05% | 0.09% | 0.91% | 4.41% |
+| USD/CHF | 0.9613 | 0.0052 | -0.54% | -1.52% | 0.02% | 4.53% |
+| USD/SGD | 1.3876 | 0.002 | -0.14% | -0.87% | -0.17% | 2.04% |
+| USD/KRW | 1310.01 | 3.85 | 0.29% | -0.59% | 0.78% | 13.76% |
+| USD/INR | 79.83 | 0.02 | -0.03% | 0.09% | 2.16% | 7.26% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 924.50 | 479.00 | 1042.5 | 445.50 | -95.5 | -17.7% |
+| Rotterdam | 780.00 | 481.00 | 1089.5 | 299.00 | -32.0 | -9.7% |
+| Fujairah | 908.00 | 496.50 | 1353.0 | 411.50 | -95.0 | -18.8% |
+| Houston | 836.00 | 583.00 | 1143.0 | 253.00 | 14.0 | 5.9% |

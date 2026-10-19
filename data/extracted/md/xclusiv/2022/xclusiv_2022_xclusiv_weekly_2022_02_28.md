@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_02_28.pdf
 source_sha256: f3d42c73a116ddf0abe7612087b56352c7ba165238ec9531b995cb305cb0e241
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:39Z'
 ---
@@ -195,3 +195,70 @@ On the tanker side, on the VLCC sector, the “T. Progress”-306K/2002 Daewoo s
 | Tankers | Bangladesh | $660 | $650 | 10 |
 | Tankers | Pakistan | $645 | $630 | 15 |
 | Tankers | Turkey | $365 | $355 | 10 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 0.1% at 34,059 points, S&P 500 went up by 0.83% at 4,385 points and NASDAQ rise by 1.09% at 13,695 points. The main European indices closed the week in negative ground, with the Euro Stoxx50 closing down by 2.54% at 3,971 points and Stoxx600 down by 1.58% at 454 points mark. In Asia, the Nikkei closed the week at 26,492, losing 1.56% on a weekly basis, while Hang Seng went significantly down by 6.56% at 22,557 points mark and the CSI 300 index closed the week at 4,573 points, 1.67% lower than previous week.
+- As a result of Western sanctions over the weekend in response to Moscow's invasion of Ukraine, the Central Bank of Russia raised its benchmark policy rate to 20%, the highest rate in twenty years. The central bank explained that the rate hike is going to offset the increased risk of depreciation and inflation. This decision follows the central bank's cease-and-desist order to foreigners selling Russian securities. Companies were also required to sell 80% of their foreign currency revenues, as ordered by the central bank and finance ministry.
+- After new sanctions were imposed against Russia, the price of EU natural gas increased by as much as 36% before stabilizing above €110 per megawatt-hour on Monday. The US, the EU and Japan agreed to cut Russian financial institutions' access to the global payment system SWIFT, but traders were alarmed that future sanctions might target natural gas exports or that Russia could stop exports in retaliation. Many of the shipments of Russia's natural gas flow through pipelines crossing Ukraine, making Europe vulnerable to a supply crunch before the end of the winter heating season.
+- Newcastle coal futures were trading almost at USD 240 per tonne previous week, approaching a four-month high of USD 245 per tonne. Investors’ fear the Russian invasion of Ukraine will lead to disruptions in shipments of natural gas and coal made coal future to rose above USD 260 on Monday, the highest since October. Russia is the biggest supplier of natural gas in Europe and accounts for a sizable share of coal imports. The European Union's coal imports rose by 55.8% in January from a year ago, to 10.8 million tonnes, of which Russia supplied 43%, the data based on ship tracking found.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 91.82 | 1.49 | -1.60% | 1.78% | 6.82% | 49.30% |
+| Brent | 98.11 | 0.97 | -0.98% | 4.89% | 10.56% | 52.30% |
+| Natural gas | 4.47 | 0.138 | -2.99% | 2.12% | 11.44% | 61.31% |
+| Gasoline | 2.7289 | 0.0421 | -1.52% | 2.22% | 8.15% | 39.91% |
+| Heating oil | 2.8511 | 0.0458 | -1.58% | 2.50% | 5.91% | 54.69% |
+| Ethanol | 2.1575 | 0.005 | 0.23% | 1.29% | -0.35% | 26.35% |
+| Naphtha | 861.39 | 4.1 | 0.48% | 1.76% | 11.73% | 55.02% |
+| Propane | 1.32 | 0 | -0.25% | 2.96% | 14.32% | 44.08% |
+| Uranium | 46.65 | 1.6 | 3.55% | 5.90% | 3.55% | 64.55% |
+| Methanol | 2719 | 33 | -1.20% | 2.49% | -0.04% | 10.30% |
+| TTF Gas | 90.75 | 43.57 | -32.44% | 23.03% | -1.18% | 478.25% |
+| UK Gas | 217 | 104.97 | -32.60% | 22.95% | -0.99% | 445.36% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,889.0 | 14.18 | -0.75% | -0.47% | 3.90% | 8.97% |
+| Silver | 24.172 | 0.029 | -0.12% | 0.89% | 2.94% | -9.20% |
+| Platinum | 1,055.4 | 1.71 | -0.16% | -1.15% | 2.35% | -11.22% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.485 | 0.029 | 0.65% | -0.76% | -0.66% | 9.54% |
+| Coal | 239.0 | 0.25 | -0.10% | 2.80% | 4.92% | 180.85% |
+| Steel | 4,685 | 25 | -0.53% | -2.17% | -1.01% | 2.14% |
+| Iron Ore | 135.5 | 1 | -0.73% | 3.44% | 0.74% | -22.13% |
+| Aluminum | 3,357.5 | 37 | -1.09% | 2.91% | 8.52% | 55.55% |
+| Iron Ore Fe62% | 141.76 | 0.9 | -0.63% | 0.46% | 9.55% | -14.40% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.1271 | 0.00793 | 0.71% | -0.48% | 0.26% | -6.64% |
+| GBP/USD | 1.34061 | 0.0034 | 0.26% | -1.36% | -0.45% | -3.72% |
+| USD/JPY | 115.661 | 0.131 | 0.11% | 0.55% | 0.83% | 8.55% |
+| USD/CNY | 6.30882 | 0.00885 | -0.14% | -0.25% | -0.46% | -2.64% |
+| USD/CHF | 0.9267 | 0.0009 | 0.10% | 0.60% | 0.30% | 2.00% |
+| USD/SGD | 1.35352 | 0.0012 | -0.09% | 0.56% | 0.44% | 1.65% |
+| USD/KRW | 1194.61 | 7.71 | -0.64% | 0.23% | -0.20% | 6.29% |
+| USD/INR | 75.086 | 0.514 | -0.68% | 0.56% | 0.28% | 1.58% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 768.50 | 552.00 | 881.50 | 216.50 | 7.5 | 3.6% |
+| Rotterdam | 724.00 | 544.50 | 873.50 | 179.50 | 13.5 | 8.1% |
+| Fujairah | 787.50 | 559.00 | 968.50 | 228.50 | 14.0 | 6.5% |
+| Houston | 768.50 | 602.50 | 932.00 | 166.00 | 5.5 | 3.4% |

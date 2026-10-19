@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_11_22.pdf
 source_sha256: ad92b44a3e7b5719aba24a2fc6bc5d095fa75defb33075f96ec23c3e6cb031d6
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:15Z'
 ---
@@ -180,3 +180,71 @@ On the tanker segments, on the Suezmax Sector, the “Astro Perseus” - 159K/20
 | Tankers | Bangladesh | $620 | $620 | 0 |
 | Tankers | Pakistan | $615 | $615 | 0 |
 | Tankers | Turkey | $310 | $290 | 20 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the main indices closed with mixed signs. On weekly basis, Dow fell by 1.46% at 35,601.98 points, S&P 500 inched up by 0.18% at 4,697.96 points and NASDAQ closes at 16,057.44, risen by 1.02%. The main European indices closed lower than previous week, with Euro Stoxx50 down by 0.7% at 4,356.47 points and Stoxx600 down by 0.48% at 486.08 points mark.
+- In Asia, Nikkei closed the week at 29,745.87 losing only 0.1% on weekly basis while Hang Seng fell 1.34% at 25,049.97 points mark and Shenzhen Component Index closed the week at 14,752.49 points, 0.79% higher than previous week. The week starting on 22nd of Nov, will be a low trading week for Wall Street due to the Thanksgiving holiday on Thursday 25th Nov and the half working day on Friday 26th Nov.
+- Euro slumped 1.42% to $1.1280, approaching its lowest since July 2020 at $1.1250, as anxiety over the impact of surging Covid-19 infections in Europe grows. Austria reimposing a full lockdown & Germany considering same measures. The dollar got additional support from bullish comments by Federal Reserve officials Richard Clarida & Christopher Waller on Friday who suggested a faster pace of stimulus tapering may be appropriate amid a quickening recovery and heated inflation.
+- This week, the U.S. released 3.1m barrels from its Strategic Petroleum Reserve for a 2nd consecutive week, as efforts continue to temper oil prices. The volume released so far would be equivalent to 0.2m bpd across November, with potential for more barrels to be released soon, with President Biden calling on China, India & Japan for a coordinated SPR release. China is reportedly planning a second release from its SPR, expected to be comparable to the Sept-21 sale of 7m barrels & Japan is also considering the first release of oil reserves following China’s & US example.
+- Chinese iron ore port stocks have continued to rise sharply. Inventories at major ports rose to 151mt by 19th Nov, the highest level in 3 years & up 20% (25mt) since August. Inventory building has been supportive of Chinese seaborne iron ore imports recently, but plentiful inventories could eventually start to exert pressure if demand remains weak.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 76.1 | -2.91 | -3.68% | -5.81% | -8.77% | 56.84% |
+| Brent | 78.45 | -2.79 | -3.43% | -4.53% | -8.59% | 51.45% |
+| Natural gas | 5.073 | 0.171 | 3.49% | 5.89% | -1.88% | 99.80% |
+| Gasoline | 2.2038 | -0.0905 | -3.94% | -4.66% | -12.14% | 56.29% |
+| Heating oil | 2.2934 | -0.0906 | -3.80% | -4.59% | -11.53% | 54.54% |
+| Ethanol | 2.207 | 0 | 0.00% | 0.00% | 0.00% | 54.01% |
+| Naphtha | 734.51 | -8.69 | -1.17% | -2.94% | -3.73% | 69.75% |
+| Propane | 1.25 | -0.01 | -0.71% | -5.50% | -14.85% | 93.85% |
+| Uranium | 47.6 | -0.5 | -1.04% | 0.42% | -2.56% | 55.05% |
+| Methanol | 2569 | 12 | 0.47% | -7.09% | -28.64% | 6.33% |
+| TTF Gas | 92.01 | -3.16 | -3.32% | 23.02% | 2.31% | 381.12% |
+| UK Gas | 231.42 | -8.38 | -3.49% | 19.70% | 2.44% | 310.32% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,845.0 | -13.46 | -0.72% | -1.02% | 3.55% | -2.71% |
+| Silver | 24.602 | -0.178 | -0.72% | -2.70% | 1.38% | -6.66% |
+| Platinum | 1,031.3 | -16.82 | -1.60% | -4.74% | -1.82% | -3.26% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.39 | 0.08 | 1.86% | -1.47% | -7.70% | 24.75% |
+| Coal | 152.5 | 0 | 0.00% | 0.66% | -33.67% | 89.44% |
+| Steel | 4,226 | -81 | -1.88% | -2.85% | -24.17% | 0.14% |
+| Iron Ore | 86.5 | 1.5 | 1.76% | 2.37% | -26.38% | -45.43% |
+| Aluminum | 2,679.5 | 63.5 | 2.43% | -0.76% | -12.71% | 35.28% |
+| Iron Ore Fe62% | 92.78 | 0.77 | 0.84% | -0.66% | -24.87% | -40.46% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.12806 | -0.0088 | -0.77% | -1.42% | -3.22% | -7.66% |
+| GBP/USD | 1.3446 | -0.0052 | -0.38% | 0.24% | -2.75% | -1.66% |
+| USD/JPY | 114.02 | -0.26 | -0.22% | 0.09% | -0.28% | 10.43% |
+| USD/CNY | 6.39005 | 0.0103 | 0.16% | 0.18% | -0.03% | -1.73% |
+| USD/CHF | 0.92866 | 0.0032 | 0.35% | 0.82% | 1.08% | 4.93% |
+| USD/SGD | 1.36028 | 0.004 | 0.30% | 0.65% | 1.28% | 2.89% |
+| USD/KRW | 1183.2 | 4.1 | 0.35% | 0.63% | 0.98% | 9.14% |
+| USD/INR | 74.333 | 0.173 | 0.23% | -0.01% | -0.61% | 1.78% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 616.00 | 462.00 | 683.50 | 154.00 | -10.0 | -6.1% |
+| Rotterdam | 564.50 | 432.00 | 665.00 | 132.50 | -5.5 | -4.0% |
+| Fujairah | 611.50 | 469.50 | 774.50 | 142.00 | 11.0 | 8.4% |
+| Houston | 586.00 | 458.00 | 701.00 | 128.00 | 6.5 | 5.3% |

@@ -237,3 +237,69 @@ In the tanker S&P activity, only 2 sales took place. The Scrubber fitted VLCC â€
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 1.3% at 44,176 points, S&P 500 went up by 2.43% at 6,389 points and NASDAQ rise by 3.87% at 21,450 points. In Europe, the Euro Stoxx50 closed up by 3.53% at 5,348 points and Stoxx600 up by 2.11% at 547 points mark. In Asia, the Nikkei closed the week at 41,820, gaining 2.5% on a weekly basis, while Hang Seng went up by 1.43% at 24,859 points mark and the CSI 300 index closed the week at 4,105 points, 1.23% higher than previous week.
+- WTI crude oil futures fell to $63.3/barrel, hovering at the low-est level in over two months, amid prospects for a peace deal between Russia and Ukraine that could ease global supply disruptions. President Donald Trump last Friday said he will meet with Russian President Vladimir Putin on August 15 in Alaska to discuss efforts to end the conflict. A potential agree-ment could prompt the lifting of sanctions on Russian oil ex-ports, paving the way for increased oil supply in global mar-kets.
+- Soybean futures jumped over 2% to above $9.80/bushel after US President Donald Trump said he hoped China would quad-ruple its soybean imports from the US to reduce its trade sur-plus with the US. China, the worldâ€™s largest soybean importer, has increasingly favored South American supplies in recent years due to trade frictions, diplomatic strains, and competi-tive pricing from Brazil, now the top global exporter.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 63.89 | -3.62% | -10.92% |
+| Brent | 66.59 | -3.15% | -10.78% |
+| Natural gas | 2.92 | -0.41% | -19.62% |
+| Gasoline | 2.09 | -0.64% | 3.71% |
+| Heating oil | 2.27 | -2.01% | -1.99% |
+| Ethanol | 1.78 | 2.00% | 5.47% |
+| Naphtha | 555.85 | -1.09% | -9.10% |
+| Propane | 71.95 | 0.70% | -1.44% |
+| Uranium | 0.67 | -4.05% | -13.37% |
+| Methanol | 2,389 | -0.04% | -13.66% |
+| TTF Gas | 32.83 | -4.31% | -34.98% |
+| UK Gas | 80.83 | -4.50% | -35.58% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 3355.06 | -0.53% | 27.89% |
+| Silver | 37.93 | 1.34% | 31.32% |
+| Platinum | 1311.50 | -1.61% | 46.69% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 4.44 | -0.01% | 11.52% |
+| Coal | 113.20 | -1.48% | -9.62% |
+| Steel | 3250.00 | 1.66% | -1.81% |
+| Iron Ore | 101.22 | 1.66% | -2.31% |
+| Aluminum | 2,600 | 1.37% | 1.89% |
+| LithiumCNY/T | 74,500 | 4.41% | -0.73% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.16 | 0.51% | 12.40% |
+| GBP/USD | 1.35 | 1.17% | 7.46% |
+| USD/JPY | 147.70 | 0.62% | -6.13% |
+| USD/CNY | 7.19 | 0.11% | -2.03% |
+| USD/CHF | 0.81 | 0.31% | -10.77% |
+| USD/SGD | 1.28 | -0.15% | -5.92% |
+| USD/KRW | 1390.48 | 0.36% | -5.93% |
+| USD/INR | 87.65 | -0.30% | 2.42% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-o-w | % Spread w-o-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 506.00 | 421.50 | 661.00 | 84.50 | -14.5 | -14.6% |
+| Rotterdam | 480.00 | 421.00 | 667.50 | 59.00 | -10.0 | -14.5% |
+| Fujairah | 497.00 | 401.00 | 726.50 | 96.00 | -15.0 | -13.5% |
+| Houston | 490.50 | 421.00 | 647.50 | 69.50 | 0.0 | 0.0% |

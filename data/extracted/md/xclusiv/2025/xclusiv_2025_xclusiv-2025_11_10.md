@@ -268,3 +268,69 @@ Among modern Korean-built tonnage, Euroholdings purchased the “Hellas Avatar�
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 1.2% at 46,987 points, S&P 500 went down by 1.63% at 6,729 points and NASDAQ fell by 3.04% at 23,005 points. In Europe, Stoxx50 closed lower by 1.69% at 5,567 points and Stoxx600 down by 1.24% at 565 points mark. In Asia, the Nikkei closed the week at 50,276, losing 4.07% on a weekly basis, while Hang Seng went up by 1.29% at 26,242 points mark and the CSI 300 index closed the week at 4,679 points, 0.82% higher than previous week.
+- US natural gas futures rose nearly 3% to around $4.45/ MMBtu, the highest since March and close to levels last seen in December 2022, lifted by strong export demand and record activity at LNG facilities. Flows to the eight major LNG plants averaged around 17.4 billion cubic feet per day so far this month, topping October’s record, and are likely to rise further as Europe looks beyond Russian gas and Asian buyers secure long term US supply.
+- Soybean futures inched up to around $11.00 per bushel, re-bounding toward the 16-month high reached earlier this month after China announced it would restore export eligibil-ity for three US firms starting November 10. Prices have fluc-tuated this week as traders digested a series of developments following the US-China trade truce .
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 60.07 | -1.61% | -16.25% |
+| Brent | 63.94 | -1.46% | -14.33% |
+| Natural gas | 4.42 | 3.77% | 21.85% |
+| Gasoline | 1.95 | 1.82% | -3.04% |
+| Heating oil | 2.48 | 3.20% | 7.12% |
+| Ethanol | 1.69 | -1.60% | -0.15% |
+| Naphtha | 539.85 | -0.50% | -11.72% |
+| Propane | 0.63 | -6.38% | -18.68% |
+| Uranium | 77.45 | -6.01% | 6.10% |
+| Methanol | 2,058 | -2.19% | -25.62% |
+| TTF Gas | 31.00 | -2.33% | -38.55% |
+| UK Gas | 80.32 | -2.36% | -35.95% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4098.03 | 2.41% | 56.20% |
+| Silver | 50.11 | 4.24% | 73.58% |
+| Platinum | 1584.20 | 1.24% | 77.24% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 5.03 | 0.03% | 26.40% |
+| Coal | 110.45 | 1.10% | -11.82% |
+| Steel | 3044.00 | -1.07% | -8.04% |
+| Iron Ore | 103.34 | -2.35% | -0.26% |
+| Aluminum | 2,885 | -0.95% | 13.08% |
+| LithiumCNY/T | 80,750 | -0.31% | 7.59% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.157 | 0.44% | 11.70% |
+| GBP/USD | 1.319 | 0.33% | 5.32% |
+| USD/JPY | 154.093 | -0.07% | -2.06% |
+| USD/CNY | 7.122 | -0.07% | -2.94% |
+| USD/CHF | 0.805 | -0.36% | -11.25% |
+| USD/SGD | 1.303 | -0.16% | -4.61% |
+| USD/KRW | 1454.44 | 1.71% | -1.61% |
+| USD/INR | 88.672 | -0.06% | 3.62% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-o-w | % Spread w-o-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 465.00 | 385.50 | 751.00 | 79.50 | 7.5 | 10.4% |
+| Rotterdam | 435.50 | 400.00 | 720.50 | 35.50 | 12.0 | 51.1% |
+| Fujairah | 463.50 | 359.00 | 744.50 | 104.50 | 7.5 | 7.7% |
+| Houston | 438.50 | 412.50 | 706.50 | 26.00 | -12.0 | -31.6% |

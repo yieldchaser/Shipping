@@ -242,3 +242,69 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 0.7% at 39,376 points, S&P 500 went up by 1.95% at 5,567 points and NASDAQ rise by 3.5% at 18,353 points. The main European indices moved higher, with the Euro Stoxx50 closing up by only 1.74% at 4,979 points and Stoxx600 up by 1.01% at 517 points mark. In Asia, the Nikkei closed the week at 40,912, gaining 3.36% on a weekly basis, while Hang Seng went up by 0.47% at 17,800 points mark and the CSI 300 in-dex closed the week at 3,432 points, 0.86% lower than previ-ous week.
+- WTI crude futures fell below USD 83 per barrel on Monday, extending losses from the previous session as traders contin-ued to assess mixed US employment data from last week. Fri-day’s report showed that non-farm payrolls beat forecasts, but the unemployment rate rose to a two-and-a-half-year high and wage growth fell to a three-year low
+- Wheat prices were around USD 5.5 per bushel, near two-month lows, due to expectations of abundant supply. Brazil’s Rio Grande do Sul state which was affected by heavy rains earlier this year is set to boost wheat production by 55.3% this season. Meanwhile, the USDA said that wheat stored in all US positions increased 23% from a year ago to 702 million bushels on June 1st. Also, US winter wheat harvest is farther along than the five-year average.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 82.582 | -0.96% | 13.20% |
+| Brent | 86.11 | -0.57% | 11.25% |
+| Natural gas | 2.3212 | -6.33% | -12.11% |
+| Gasoline | 2.5464 | -1.00% | 2.10% |
+| Heating oil | 2.5777 | -1.33% | 1.48% |
+| Ethanol | 1.9 | -7.09% | -17.21% |
+| Naphtha | 705.79 | 6.47% | 33.75% |
+| Propane | 0.85 | 12.03% | 52.76% |
+| Uranium | 85.65 | -0.12% | 54.60% |
+| Methanol | 2513 | -1.37% | 18.09% |
+| TTF Gas | 33.3 | -0.38% | 10.18% |
+| UK Gas | 77.618 | -0.54% | 5.56% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 2,380.2 | 2.05% | 23.65% |
+| Silver | 31.0 | 5.20% | 34.09% |
+| Platinum | 1,017.2 | 3.77% | 9.76% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 4.6148 | 4.45% | 22.17% |
+| Coal | 135.75 | 1.91% | -2.79% |
+| Steel | 3275 | -0.79% | -12.27% |
+| Iron Ore | 111.31 | 4.51% | -0.86% |
+| Aluminum | 2535 | 0.78% | 18.07% |
+| LithiumCNY/T | 91500 | 0.00% | -70.24% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.08279 | 0.85% | -1.56% |
+| GBP/USD | 1.28081 | 1.29% | -0.40% |
+| USD/JPY | 160.854 | -0.41% | 13.83% |
+| USD/CNY | 7.28832 | -0.22% | 0.83% |
+| USD/CHF | 0.89477 | -0.94% | 1.08% |
+| USD/SGD | 1.34887 | -0.66% | 0.32% |
+| USD/KRW | 1383.76 | 0.13% | 6.49% |
+| USD/INR | 83.4702 | 0.03% | 1.15% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-o-w | % Spread w-o-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 642.50 | 538.50 | 771.50 | 104.00 | -0.5 | -0.5% |
+| Rotterdam | 586.50 | 524.00 | 772.50 | 62.50 | -10.5 | -14.4% |
+| Fujairah | 642.00 | 529.00 | 861.00 | 113.00 | 6.0 | 5.6% |
+| Houston | 612.00 | 501.50 | 815.00 | 110.50 | -13.5 | -10.9% |

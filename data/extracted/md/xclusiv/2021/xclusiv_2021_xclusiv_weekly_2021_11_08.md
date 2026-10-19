@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_11_08.pdf
 source_sha256: 9e1851125b32d939c9ded82b2f5d021ad378b8d72b8a0a17321df91b6cb83db8
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:11Z'
 ---
@@ -167,3 +167,70 @@ On the tanker S&P activity, we highlight the sale of “Atalandi”-105K/2004 Da
 | Tankers | Bangladesh | $620 | $615 | 5 |
 | Tankers | Pakistan | $615 | $610 | 5 |
 | Tankers | Turkey | $290 | $285 | 5 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- Wall Street's main indexes closed at new record highs on Friday, after US labor market data and news on a new Pfizer pill improved investors' optimism about global economic recovery boosting stocks related to economic rebound. The US economy added 531K jobs in October, more than expected, the jobless rate fell to a new pandemic low of 4.6%, while wage pressures remained under control. Dow Jones inched up 0.6%, while S&P 500 and Nasdaq 100 edged lower by 0.4% and 0.2%, respectively.
+- European stock markets closed positive on Friday (Euro Stoxx50 +0.69%, DAX +0.15%, Stoxx600 +0.05%), after rising for 5 weeks to record highs, waiting investors’ reaction to China’s trade data just published showing China’s exports in October up by 27.1% y-on-y, well above market expectations of 24.5%, but imports rose by 20.6%, which was well below forecasts of a 25% gain, & this adds worries of a slowdown in domestic demand.
+- WTI crude oil futures closed the week just above $81 per barrel, as OPEC+ continued to ignore President Biden’s calls for higher output, with state-owned Saudi Aramco raising its December official selling price for Arab light crude to $2.7 a barrel, up by $1.4 from this month. Analysts expect continued under-supply in the oil market until year-end following the decision by OPEC+ to retain its agreed production increase level.
+- Gold prices firmed up above $1,810 an ounce on Friday, after rallying almost 2% during week, as easing global bond yields gave the non-interest yielding bullion room to advance. The US benchmark 10-year yield settled below 1.5% for the first time in over a month, after the Federal Reserve deferred specific discussions on the extent of next year’s tapering and the timing of interest rate hikes.
+- The BDI closed the week at 2,715 points mark, down by 23% since last Friday, while one month ago BDI was at 5,647 points mark. Since 22 October 2021, the BDI has noted 11 consecutive negative sessions. BPI, BSI & BHSI continued their uninterrupted negative closings, while BCI stopped its negative series with the first positive closing after 10 days.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 81.17 | 2.36 | 2.99% | -2.87% | 4.83% | 67.29% |
+| Brent | 82.42 | 1.88 | 2.33% | -1.55% | 1.65% | 59.11% |
+| Natural gas | 5.62 | -0.093 | -1.63% | 3.58% | -0.97% | 121.35% |
+| Gasoline | 2.3016 | 0.009 | 0.39% | -2.87% | -0.29% | 63.22% |
+| Heating oil | 2.4556 | 0.049 | 2.04% | -0.93% | 0.56% | 65.47% |
+| Ethanol | 2.207 | 0 | 0.00% | 0.00% | 0.00% | 54.01% |
+| Naphtha | 752.85 | 13.1 | 1.77% | -1.34% | 3.28% | 73.99% |
+| Propane | 1.38 | 0.01 | 0.70% | -4.83% | -9.05% | 113.08% |
+| Uranium | 45.05 | 1.25 | 2.85% | -2.28% | 11.37% | 46.74% |
+| Methanol | 2840 | 0 | 0.00% | 1.68% | -22.62% | 17.55% |
+| TTF Gas | 73.38 | -3.17 | -4.14% | -4.75% | -36.76% | 283.71% |
+| UK Gas | 189.51 | -7.21 | -3.67% | -1.34% | -35.52% | 236.01% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,818.1 | 26.35 | 1.47% | 1.98% | 3.15% | -4.14% |
+| Silver | 24.145 | 0.375 | 1.58% | 1.24% | 6.86% | -8.40% |
+| Platinum | 1,033.8 | 8.23 | 0.80% | 1.56% | 5.03% | -3.02% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.349 | 0.023 | 0.53% | -0.61% | 4.62% | 23.59% |
+| Coal | 155.4 | 0.65 | 0.42% | -30.53% | -42.34% | 93.04% |
+| Steel | 4,490 | 13 | 0.29% | -6.58% | -24.22% | 6.40% |
+| Iron Ore | 89 | -3 | -3.26% | -17.21% | -19.09% | -43.85% |
+| Aluminum | 2,556.5 | 2 | 0.08% | -5.89% | -11.84% | 29.07% |
+| Iron Ore Fe62% | 94.43 | -2.74 | -2.82% | -22.11% | -19.76% | -39.41% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.15679 | 0.0014 | 0.12% | 0.06% | 0.12% | -5.31% |
+| GBP/USD | 1.34941 | -0.0013 | -0.10% | -1.45% | -0.70% | -1.31% |
+| USD/JPY | 113.32 | -0.52 | -0.46% | -0.58% | 1.74% | 9.75% |
+| USD/CNY | 6.39396 | -0.003 | -0.05% | -0.18% | -0.96% | -1.67% |
+| USD/CHF | 0.91213 | -0.0003 | -0.04% | -0.33% | -1.67% | 3.06% |
+| USD/SGD | 1.35005 | -0.0008 | -0.06% | 0.13% | -0.62% | 2.11% |
+| USD/KRW | 1177.7 | -4.2 | -0.35% | 0.57% | -0.76% | 8.64% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 606.00 | 462.00 | 700.00 | $144.0 |
+| Rotterdam | 570.50 | 439.00 | 682.50 | $131.5 |
+| Fujairah | 623.50 | 494.00 | 778.00 | $129.5 |
+| Houston | 587.00 | 462.50 | 734.00 | $124.5 |

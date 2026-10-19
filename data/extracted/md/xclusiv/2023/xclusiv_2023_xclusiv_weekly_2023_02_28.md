@@ -9,7 +9,7 @@ year: 2023
 source_file: corpus/01-brokers/xclusiv/2023/xclusiv_2023_xclusiv_weekly_2023_02_28.pdf
 source_sha256: 0e16c8826afe50aa5da8e6771f8f73a24ef4d712b26874aa725cfb00b24fc86f
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:17:03Z'
 ---
@@ -189,3 +189,71 @@ On the tanker S&P activity, product tankers are the protagonists of sales for on
 | Tankers | Bangladesh | $565 | $560 | 5 |
 | Tankers | Pakistan | $565 | $565 | 0 |
 | Tankers | Turkey | $340 | $330 | 10 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 3% at 32,817 points, S&P 500 went down by 2.67% at 3,970 points and NASDAQ fell by 3.33% at 11,395 points. The main European indices closed lower than previous week, with the Euro Stoxx50 closing down by 2.25% at 4,179 points and Stoxx600 down by 1.42% at 458 points mark. In Asia, the Nikkei closed the week at 27,453, losing 0.22% on a weekly basis, while Hang Seng went down by 3.43% at 20,010 points mark and the CSI 300 index closed the week at 4,061 points, 0.66% higher than previous week.
+- WTI & Brent crude futures traded around USD 76 & USD 83 per barrel and were on pace to decline for the fourth straight month, as the prospect of further monetary tightening and surging US stockpiles outweighed demand optimism from top importer China and production cuts from Russia.
+- US natural gas futures traded above USD 2.6/MMBtu, as forecasts for colder weather and higher heating demand over the next two weeks prompted investors to open new positions after a massive selloff, which brought prices to levels last seen in September 2022.
+- Newcastle coal futures, fell below the USD 200 per tonne mark for the first time since January 2022 amid lingering concerns about sluggish demand. Warm winter, particularly in the US and Europe, and lower natural gas prices decreased the reliance on coal for generating power. At the same time, uncertainty about China's reopening has also clouded the short-term outlook for the commodity.
+- Prices for iron ore cargoes with a 63.5% iron ore content for delivery in Tianjin eased back to below USD 130 per tonne from the eight-month high of $133 touched on February 21st, as investors second-guessed optimism around higher Chinese demand after the country’s reopening.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 76.545 | 0.865 | 1.14% | 0.24% | -2.09% | -23.62% |
+| Brent | 82.558 | 0.518 | 0.63% | -0.26% | -1.88% | -18.36% |
+| Natural gas | 2.6909 | 0.0401 | -1.47% | 23.61% | -1.47% | -41.16% |
+| Gasoline | 2.6029 | 0.0189 | 0.73% | -0.78% | -3.06% | -15.00% |
+| Heating oil | 2.813 | 0.0127 | 0.45% | 1.42% | -5.00% | -7.41% |
+| Ethanol | 2.175 | 0 | 0.00% | -0.57% | -0.68% | 0.85% |
+| Naphtha | 716.71 | 0.35 | -0.05% | -0.62% | 3.64% | -16.81% |
+| Propane | 0.82 | 0 | -0.13% | -0.40% | -3.04% | -37.92% |
+| Uranium | 51 | 0.65 | -1.26% | -1.45% | 0.39% | 4.19% |
+| Methanol | 2679 | 36 | -1.33% | 1.75% | -3.98% | -5.20% |
+| TTF Gas | 48.23 | 0.93 | 1.96% | -0.65% | -12.57% | -60.37% |
+| UK Gas | 118.75 | 0.56 | 0.47% | -1.09% | -15.06% | -59.05% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,807.2 | 10.14 | -0.56% | -1.48% | -6.00% | -7.00% |
+| Silver | 20.486 | 0.138 | -0.67% | -6.14% | -13.16% | -19.25% |
+| Platinum | 931.2 | 7.33 | -0.78% | -1.22% | -7.70% | -11.60% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.0033 | 0.0057 | -0.14% | -5.26% | -4.76% | -12.72% |
+| Coal | 196.5 | 12.7 | -6.07% | -4.45% | -25.95% | -28.42% |
+| Steel | 4,168 | 25 | -0.60% | -1.12% | -0.26% | -13.69% |
+| Iron Ore | 126 | 3.5 | -2.70% | -3.08% | -3.08% | -7.69% |
+| Aluminum | 2,363.0 | 16 | -0.67% | -4.24% | -8.75% | -32.06% |
+| Iron Ore Fe62% | 125.74 | 0.11 | -0.09% | -0.47% | 2.16% | -11.44% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.05993 | 0.0008 | -0.07% | -0.44% | -2.26% | -4.73% |
+| GBP/USD | 1.2032 | 0.003 | -0.25% | -0.69% | -2.59% | -9.68% |
+| USD/JPY | 136.799 | 0.599 | 0.44% | 1.34% | 4.88% | 19.07% |
+| USD/CNY | 6.96186 | 0.0027 | 0.04% | 1.02% | 3.05% | 10.20% |
+| USD/CHF | 0.93817 | 0.0026 | 0.27% | 1.13% | 1.45% | 2.11% |
+| USD/SGD | 1.35021 | 0.0035 | 0.26% | 0.74% | 2.75% | -0.51% |
+| USD/KRW | 1324.71 | 7.31 | 0.55% | 1.45% | 7.57% | 9.91% |
+| USD/INR | 82.678 | 0.036 | 0.04% | -0.20% | 1.42% | 9.14% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 606.50 | 428.00 | 792.00 | 178.50 | -22.5 | -11.2% |
+| Rotterdam | 569.00 | 404.50 | 792.00 | 164.50 | 0.0 | 0.0% |
+| Fujairah | 604.50 | 438.50 | 1119.0 | 166.00 | -45.0 | -21.3% |
+| Houston | 617.50 | 410.00 | 825.50 | 207.50 | 5.5 | 2.7% |

@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_09_13.pdf
 source_sha256: ef8829f19774a9d325a98db7ceef246bfea048b3e8ca69a0b48e7b6b9e66b462
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:13:55Z'
 ---
@@ -180,3 +180,71 @@ C C C C C C C
 | Tankers | Bangladesh | $605 | $605 | - |
 | Tankers | Pakistan | $600 | $600 | - |
 | Tankers | Turkey | $290 | $290 | - |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- The Nasdaq Composite index on Sep 7th reached its highest ever level of 15,374 and closed the week slightly lower at 15,115.49. The S&P 500 index closed the week at 4,458.58. The Dow Jones Industrial average was declining all this week and closed at 34,607.72
+- Since 19th of July iron ore has fallen by around USD 95/tonne. Currently iron ore is trading at region USD 129.5/tonne, the lowest since 27th November 2020. We observe a 10% W-on-W decline & 22.5% M-on-M.
+- We have witnessed a sharp increase of over USD 13 on uranium futures within the last month. Uranium closed the week at USD 42.4, the highest since November 2014. M-on-M increase is 35%.
+- U.S natural gas futures peaked at USD 5.031/million British thermal units, the highest of the past 7 years as demand remains very firm, and there are forecasts that after an extremely warm summer, a cold winter will follow. We note for natural gas a M-on-M increase of 22% while Y-on-Y it is 95%.
+- Aluminum continued its upward rally and closed at USD 2,889/ton which is the highest since June 2008 when it had peaked at USD 3,065. Upward tendency may continue with the supply disruption by the military coup in Guinea heavily affecting raw material. Aluminum prices have shot 50% Y-on-Y and short supply of container boxes that are needed to move industrial metals from Asia to Europe is putting additional pressure on commodity prices.
+- China’s annual inflation reached to 0.8%, which is the lowest of the past 5 months. However, the increase in material prices has affected China’s factory-gate prices which rose by their fastest pace in the past 13 years. Demand for Coal, Steel and other raw materials has increased China’s Producer Price Index by 9.5% Y-on-Y which represents the fastest increase since Aug 2008 when a 10.1% increase was recorded then.
+- As a result of the Hurricane Ida, more than 1.4 million bpd of the U.S Gulf’s ’s offshore oil production have remained halted, the worst U.S oil losses of the last 16 years.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 69.66 | 1.53 | 2.25% | 0.53% | 0.59% | 43.57% |
+| Brent | 72.85 | 1.4 | 1.96% | 0.33% | 1.97% | 40.64% |
+| Natural gas | 4.952 | 0.079 | -1.57% | 5.09% | 22.00% | 95.04% |
+| Gasoline | 2.1511 | 0.0514 | 2.45% | -1.30% | -6.56% | 52.55% |
+| Heating oil | 2.1423 | 0.00286 | 1.35% | -0.79% | 1.73% | 44.36% |
+| Ethanol | 2.207 | 0 | 0.00% | -0.59% | -0.59% | 54.01% |
+| Naphtha | 661.06 | 10.988 | 1.69% | 0.94% | -0.50% | 52.78% |
+| Propane | 1.21 | 0.0121 | 1.01% | 1.78% | 8.42% | 88.04% |
+| Uranium | 42.4 | 2 | 4.95% | 9.56% | 34.82% | 38.11% |
+| Methanol | 2982 | 102 | 3.54% | 7.19% | 11.10% | 23.43% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,792.3 | 2.405 | -0.13% | -1.86% | 2.33% | -5.49% |
+| Silver | 23.88 | 0.19 | -0.79% | -3.28% | 1.51% | -9.40% |
+| Platinum | 960.8 | 16.2476 | -1.66% | -6.31% | -5.58% | -9.87% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.445 | 0.1615 | 3.77% | 2.76% | 1.86% | 26.31% |
+| Coal | 177.5 | 0.15 | 0.08% | 0.00% | 6.22% | 120.50% |
+| Steel | 5,602 | 27 | 0.48% | 7.19% | 5.48% | 32.75% |
+| Iron Ore | 129.5 | 3 | -2.26% | -11.00% | -21.75% | -18.30% |
+| Aluminum | 2,889.5 | 54 | 1.90% | 6.36% | 11.73% | 45.88% |
+| Iron Ore Fe62% | 133.18 | 0.64 | -0.48% | -8.04% | -21.22% | -14.54% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.18214 | 0.00030 | -0.02% | -0.48% | 0.68% | -3.24% |
+| GBP/USD | 1.38579 | 0.00200 | 0.15% | 0.00% | -0.09% | 1.35% |
+| USD/JPY | 109.92 | 0.14400 | 0.13% | 0.21% | -0.45% | 6.46% |
+| USD/CNY | 6.43743 | 0.01320 | -0.20% | -0.02% | -0.60% | -1.00% |
+| USD/CHF | 0.91749 | 0.00090 | 0.10% | 0.40% | -0.45% | 3.66% |
+| USD/SGD | 1.34040 | 0.00230 | -0.17% | -0.07% | -1.18% | 1.38% |
+| USD/KRW | 1,164.36 | 1.63900 | -0.14% | 1.10% | 1.13% | 7.40% |
+| USD/INR | 73.5170 | 0.00300 | 0.00% | 0.73% | -0.99% | 0.66% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 545.00 | 467.50 | 588.50 | $77.5 |
+| Rotterdam | 519.50 | 412.50 | 582.50 | $107.0 |
+| Fujairah | 538.50 | 449.50 | 644.50 | $89.0 |
+| Houston | 527.50 | 418.50 | 624.50 | $109.0 |

@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_07_26.pdf
 source_sha256: 4adabd01b7bedffed13280e49f7bfece6a22574a667773e80f30d4085272445b
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:13:04Z'
 ---
@@ -176,3 +176,70 @@ A ASK A ASK
 | Tankers | Bangladesh | $600 | $590 | 10.0 |
 | Tankers | Pakistan | $595 | $590 | 5.0 |
 | Tankers | Turkey | $305 | $310 | (5.0) |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- Major U.S. indexes staged a strong rebound on Friday, finishing a rollercoaster week at fresh records. Nasdaq index & Dow Jones Industrial Average despite plunging during the start of the week, closed on Friday at record highest ever marks, Nasdaq at 14,836.99 & Dow Jones at 35,061.55 points. Following record highs the S&P 500 index also closed the week at its highest ever 4,369.55.
+- As per data from Japan Ministry of Finance, Exports from Japan for June 2021 soared 48.6% yoy, a 3-month high of JPY 7,221bil, compared with estimate of 46.2% growth as per previous forecast earlier in May21. This is the 4th consecutive month of growth in sales. Sales from Japan rose to most countries: China (27.7%), Taiwan (27.8%), Hong Kong (18%), South Korea (36.4%), Thailand (98.7%), the US (85.5%), Germany (51.3%), and Australia (55.6%).
+- The ECB declared to keep interest rates at record lows.
+- Germ any’s ’s producer prices increased by 8.5% in June compared with the same period of 2020, the highest y-o-y rise since Jan 1982.
+- Hotter weather forecasts, for the next 2-3 weeks in the U.S., have increased demand for air- conditioning and that has pushed US natural gas future prices to just below $4 per million British thermal units, which is the highest price level since Dec 2018.
+- BHP announced the deal with Tesla to provide it with nickel. It is estimated, demand for nickel in batteries to rise by 500% within the next decade.
+- Nations around the world seek ways to curb their reliance on China for specialty minerals. In Australia, Lina Rare Earths has received 14.8 Australian dollars to commercialize a new mineral refining process. That establishment will produce high- purity rare- earth carbonate.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 72.17 | 0.26 | 0.36% | 0.50% | -1.54% | 48.74% |
+| Brent | 74.21 | 0.42 | 0.57% | 0.84% | -1.79% | 43.26% |
+| Natural gas | 4.045 | 0.04 | 1.05% | 10.10% | 18.34% | 59.31% |
+| Gasoline | 2.2934 | 0.02 | 0.89% | 1.77% | 0.55% | 62.64% |
+| Heating oil | 2.1361 | 0 | 0.16% | 1.08% | -1.21% | 43.94% |
+| Ethanol | 2.32 | 0 | 0.00% | 0.00% | -6.45% | 61.90% |
+| Naphtha | 672.07 | 0.15 | 0.02% | -0.32% | 6.05% | 55.32% |
+| Propane | 1.09 | 0 | 0.16% | -0.87% | 13.03% | 69.34% |
+| Uranium | 32.45 | 0.05 | -0.15% | 0.15% | -0.46% | 5.70% |
+| Methanol | 2611 | 73 | -2.72% | -1.43% | 1.60% | 8.07% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,801.5 | 5.24 | -0.29% | -0.52% | 1.48% | -5.01% |
+| Silver | 25.165 | 0.29 | -1.14% | -1.93% | -2.96% | -4.53% |
+| Platinum | 1,061.5 | 30.95 | -2.83% | -3.72% | -2.81% | -0.42% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.463 | 0.12 | 2.72% | 3.01% | 3.57% | 26.83% |
+| Coal | 146.17 | 0.01 | -0.01% | -1.64% | 17.06% | 79.97% |
+| Steel | 5,600 | 79 | 1.43% | 2.71% | 15.04% | 32.70% |
+| Iron Ore | 204.5 | 4.5 | -2.15% | -8.09% | -5.76% | 29.02% |
+| Aluminum | 2,507.3 | 41.25 | 1.67% | 0.78% | 3.21% | 26.58% |
+| Iron Ore Fe62% | 216.03 | 2.22 | 1.04% | -1.70% | 1.07% | 38.62% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.17692 | 0.0006 | -0.05% | -0.30% | -1.34% | -3.66% |
+| GBP/USD | 1.3738 | 0.0038 | -0.27% | -0.20% | -1.30% | 0.47% |
+| USD/JPY | 110.54 | 0.44 | 0.40% | 0.42% | -0.31% | 7.06% |
+| USD/CNY | 6.47586 | 0.0022 | 0.03% | 0.01% | 0.08% | -0.41% |
+| USD/CHF | 0.91963 | 0.00069 | 0.08% | 0.01% | 0.18% | 3.91% |
+| USD/SGD | 1.35983 | 0.00072 | 0.05% | 0.21% | 1.28% | 2.85% |
+| USD/KRW | 1147.67 | 1.34302 | 0.12% | 0.85% | 1.86% | 5.86% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 546.00 | 421.00 | 590.00 | $125.0 |
+| Rotterdam | 525.00 | 409.00 | 595.50 | $116.0 |
+| Fujairah | 542.00 | 432.50 | 656.50 | $109.5 |
+| Houston | 519.50 | 412.00 | 617.00 | $107.5 |

@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_11_14.pdf
 source_sha256: a39271dbaf972526befa7d5869f43f804531bf1773eb95e19b6cc0c6d33d023b
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:16:20Z'
 ---
@@ -182,3 +182,71 @@ In the tanker market, S&P activity is remaining firm, with the Scrubber fitted V
 | Tankers | Bangladesh | $585 | $605 | -20 |
 | Tankers | Pakistan | $570 | $590 | -20 |
 | Tankers | Turkey | $260 | $260 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 4.1% at 33,748 points, S&P 500 went up by 5.9% at 3,993 points and NASDAQ rise by 8.1% at 11,323 points. The main European indices closed almost the same as previous week, with the Euro Stoxx50 closing up by 4.88% at 3,869 points and Stoxx600 up by 3.66% at 432 points mark. In Asia, the Nikkei closed the week at 28,264, gaining 3.91% on a weekly basis, while Hang Seng went up by 7.21% at 17,326 points mark and the CSI 300 index closed the week at 3,788 points, 0.56% higher than previous week.
+- WTI crude futures increased toward $88 & 95 per barrel respectively on Friday, rising for a third straight session on the back of an improving demand outlook in China, which has eased some COVID restrictions and issued sweeping directives to boost its property sector.
+- Despite signs that supplies will be adequate to meet winter demand in Asia and Europe, Newcastle coal futures dropped below $350 per tonne for the first time since early May.
+- As temperatures are expected to remain higher than usual next week, US natural gas futures are expected to close 9% lower at around $5.8/MMBtu, the lowest since November 1st.
+- Despite rising cases of Covid, steel rebar futures rose to over CNY 3,690 per tonne, the highest in seven weeks after hitting a 2-1/2-year low of CNY 3,464 on October 31st. Beijing shortened quarantine periods for people close to Covid patients despite the rise in cases, raising hopes that other measures to open the economy would follow.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 88.545 | 0.415 | -0.47% | -3.53% | 4.75% | 11.03% |
+| Brent | 95.829 | 0.161 | -0.17% | -2.14% | 6.26% | 16.79% |
+| Natural gas | 6.0938 | 0.2148 | 3.65% | -12.24% | -5.95% | 21.46% |
+| Gasoline | 2.6193 | 0.0097 | 0.37% | -1.27% | 7.60% | 12.47% |
+| Heating oil | 3.6058 | 0.0505 | 1.42% | -4.64% | -2.21% | 50.36% |
+| Ethanol | 2.62 | 0.07 | -2.60% | -5.42% | 8.49% | -18.38% |
+| Naphtha | 688.21 | 12.24 | 1.81% | -0.64% | 3.68% | -8.67% |
+| Propane | 0.88 | 0.01 | 0.68% | -0.53% | 2.06% | -33.74% |
+| Uranium | 50.75 | 0.05 | 0.10% | 0.30% | 2.53% | 7.07% |
+| Methanol | 2686 | 9 | 0.34% | -3.90% | -3.90% | 3.19% |
+| TTF Gas | 103 | 5.15 | 5.26% | -10.27% | -35.70% | 36.11% |
+| UK Gas | 228.43 | 37.96 | -14.25% | -19.29% | -22.28% | 17.72% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,762.4 | 8.3 | -0.47% | 5.24% | 6.82% | -5.37% |
+| Silver | 21.516 | 0.165 | -0.76% | 3.57% | 15.18% | -14.07% |
+| Platinum | 1,014.0 | 14.58 | -1.42% | 3.58% | 10.76% | -6.71% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 3.9315 | 0.0387 | -0.97% | 8.32% | 14.55% | -10.65% |
+| Coal | 326.8 | 1.8 | 0.55% | -6.50% | -19.31% | 113.59% |
+| Steel | 3,695 | 115 | 3.21% | 3.50% | -1.62% | -15.52% |
+| Iron Ore | 93.5 | 4 | 4.47% | 5.06% | -3.11% | 10.65% |
+| Aluminum | 2,463.5 | 136.5 | 5.87% | 4.59% | 6.88% | -8.76% |
+| Iron Ore Fe62% | 90.79 | 2.6 | 2.95% | 6.61% | -5.56% | -2.79% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.03199 | 0.0035 | -0.34% | 3.02% | 4.82% | -9.21% |
+| GBP/USD | 1.17589 | 0.0074 | -0.63% | 2.14% | 3.45% | -12.32% |
+| USD/JPY | 139.478 | 0.694 | 0.50% | -4.90% | -6.35% | 22.19% |
+| USD/CNY | 7.02705 | 0.0615 | -0.87% | -2.80% | -2.51% | 10.10% |
+| USD/CHF | 0.94667 | 0.005 | 0.53% | -4.18% | -4.98% | 2.31% |
+| USD/SGD | 1.37293 | 0.0014 | 0.10% | -1.96% | -3.37% | 1.40% |
+| USD/KRW | 1324.13 | 10.44 | 0.79% | -4.91% | -7.45% | 11.89% |
+| USD/INR | 81.087 | 0.61 | 0.76% | -0.88% | -1.32% | 9.02% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 701.00 | 433.50 | 1063.0 | 267.50 | -12.0 | -4.3% |
+| Rotterdam | 656.00 | 433.50 | 992.00 | 222.50 | -20.5 | -8.4% |
+| Fujairah | 683.50 | 392.50 | 1257.0 | 291.00 | -4.5 | -1.5% |
+| Houston | 654.50 | 431.00 | 1050.5 | 223.50 | -26.5 | -10.6% |

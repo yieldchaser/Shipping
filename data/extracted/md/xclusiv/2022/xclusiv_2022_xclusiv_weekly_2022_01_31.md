@@ -9,7 +9,7 @@ year: 2022
 source_file: corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_01_31.pdf
 source_sha256: b5858c8566fd4f40f470e3502b49e849f741b608595679c7d3b0de8dfae54ae0
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:31Z'
 ---
@@ -199,3 +199,70 @@ On the NB front, clients of KC Maritime have ordered 2x 64K DWT imo phase 3 comp
 | Tankers | Bangladesh | $620 | $605 | 15 |
 | Tankers | Pakistan | $605 | $600 | 5 |
 | Tankers | Turkey | $340 | $330 | 10 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average increased by 1.4% at 34,725 points, S&P 500 went up by 0.81% at 4,432 points and NASDAQ rise by 0.04% at 13,771 points. The main European indices went down comparing to previous week, with the Euro Stoxx50 closing down by 2.19% at 4,137 points and Stoxx600 down by 1.87% at 466 points mark. In Asia, the Nikkei closed the week at 26,713, losing 2.95% on a weekly basis, while Hang Seng went down by 5.46% at 23,557 points mark and the CSI 300 index closed the week at 4,564 points, 4.47% lower than previous week.
+- Once again US natural gas futures closed to USD 4.64 per million British thermal units, getting closer to a new 9- week high. The increase is supported by heating and power demand, as a powerful winter storm swept across the U.S. Northeast and many states in the East coast declared emergencies. As a result of utilities withdrawing 219 bcf from storage in the third week of January, domestic natural gas inventories dropped below the 5-year average for the first time since December. As tensions at the Russia-Ukraine border continue to rise, traders were also pricing in concerns that Russia could end supplies to Europe while US exports continue to be in high demand, keeping US export plants operating to unprecedented levels in January.
+- Eurozone GDP Growth Slows in Q4 2022. As the omicron coronavirus variant spread across Europe later in the year, preliminary estimates show the Euro Area economy advanced 0.3% on quarter in the last three months of 2021. It was the slowest growth in three quarters. However, the figures were in line with market expectations. In total, the GDP of the Eurozone increased 5.2% in 2021.
+- After the Federal Reserve signalled it would begin its policy tightening process in March while Chair Jerome Powell said there was "quite a bit of room to raise rates", investors flocked to the US dollar, and the euro depreciated further towards USD 1.11, its weakest level since June 2020. Earlier this week, Eurozone economic growth was shown to have slowed sharply in January as concerns about a potential conflict in Ukraine weighed on riskier currencies.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 87.29 | 0.68 | 0.79% | 2.53% | 14.58% | 67.22% |
+| Brent | 89.8 | 1.34 | 1.50% | 2.17% | 13.37% | 63.15% |
+| Natural gas | 4.676 | 0.407 | 9.50% | 16.93% | 21.45% | 82.37% |
+| Gasoline | 2.5505 | 0.0319 | 1.27% | 4.43% | 12.53% | 64.26% |
+| Heating oil | 2.7855 | -0.009 | -0.32% | 3.50% | 17.67% | 74.27% |
+| Ethanol | 2.16 | 0 | 0.00% | -0.92% | -28.00% | 37.68% |
+| Naphtha | 774.58 | 0.84 | 0.11% | 0.36% | 10.85% | 54.92% |
+| Propane | 1.16 | 0 | 0.16% | 0.41% | 12.06% | 32.47% |
+| Uranium | 44.85 | -0.2 | -0.44% | -1.21% | 2.63% | 49.25% |
+| Methanol | 2754 | -4 | -0.15% | 0.29% | 6.83% | 19.84% |
+| TTF Gas | 92.3 | -0.01 | -0.01% | 16.86% | -4.33% | 365.69% |
+| UK Gas | 221.25 | 1.29 | 0.59% | 16.87% | -5.12% | 316.27% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,791.4 | -5.15 | -0.29% | -2.28% | -0.68% | -2.96% |
+| Silver | 22.44 | -0.3 | -1.32% | -7.39% | -1.61% | -16.89% |
+| Platinum | 1,007.5 | -14.98 | -1.46% | -2.11% | 4.08% | -6.07% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.31 | -0.1135 | -2.57% | -4.73% | -2.33% | 21.20% |
+| Coal | 227.7 | 0.05 | 0.02% | 0.73% | 33.13% | 163.79% |
+| Steel | 5,051 | 315 | 6.65% | 6.49% | 10.89% | 20.52% |
+| Iron Ore | 135.5 | 0 | 0.00% | 1.88% | 19.38% | -14.24% |
+| Aluminum | 3,082.5 | -16 | -0.52% | 1.38% | 9.68% | 56.24% |
+| Iron Ore Fe62% | 130.81 | 0.85 | 0.65% | 1.02% | 16.44% | -22.20% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YoY |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.11476 | 0.0001 | 0.01% | -1.73% | -1.80% | -8.16% |
+| GBP/USD | 1.3391 | 0.0004 | 0.03% | -1.20% | -0.74% | -2.24% |
+| USD/JPY | 115.226 | -0.132 | -0.11% | 1.36% | 0.23% | 10.04% |
+| USD/CNY | 6.3707 | 0.0007 | 0.01% | 0.47% | 0.01% | -1.19% |
+| USD/CHF | 0.931 | -0.0002 | -0.02% | 2.20% | 1.81% | 4.52% |
+| USD/SGD | 1.35545 | 0.0022 | 0.16% | 0.81% | 0.28% | 2.03% |
+| USD/KRW | 1205.79 | 5.86 | 0.49% | 1.43% | 1.90% | 8.05% |
+| USD/INR | 75.0343 | -0.1537 | -0.20% | 0.88% | 0.64% | 2.96% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 686.00 | 526.00 | 780.50 | 160.00 | -23.5 | -12.8% |
+| Rotterdam | 659.00 | 518.00 | 793.00 | 141.00 | -19.5 | -12.1% |
+| Fujairah | 689.50 | 527.00 | 831.00 | 162.50 | -8.0 | -4.7% |
+| Houston | 669.50 | 558.50 | 875.00 | 111.00 | -39.0 | -26.0% |

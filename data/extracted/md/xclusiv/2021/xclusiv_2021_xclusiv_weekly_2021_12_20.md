@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_12_20.pdf
 source_sha256: 37e72f51e60c35788d8dc805af590b748917b9eac041186f061ea5fc217603d7
 pages_total: 7
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:21Z'
 ---
@@ -204,3 +204,71 @@ On the wet sector, we highlight the sale of 3 x modern LR2’s. The “Prosky”
 | Tankers | Bangladesh | $595 | $600 | -5 |
 | Tankers | Pakistan | $595 | $600 | -5 |
 | Tankers | Turkey | $330 | $320 | 10 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In In the U.S., the main indices closed the week all negative w-on-w. On a weekly basis, the Dow Jones Industrial average decreased by 1.7% at 35,365 points, S&P 500 went down by 1.9% at 4,621 points and NASDAQ dropped by 2.9% at 15,170 points. The main European indices also closed lower than the previous week, with the Euro Stoxx50 closing down by 0.9% at 4,161.35 points and Stoxx600 down by 0.3% at 473.9 points mark.
+- In Asia, the Nikkei closed the week at 28.540, losing 0.3% on a weekly basis, while Hang Seng dropped by 3.6% at 23,206 points mark and the CSI 300 index closed the week at 4,956.96 points, 1.9% lower than previous week.
+- As a result of the increase in Covid cases globally, and particularly the highly transmissible Omicron variant that has caused fresh lockdowns in several countries, futures for WTI crude decreased by 2% w-on-w trading just above $70/barrel, with tendency to continue its price fall. With the Netherlands imposing a nationwide lockdown Sunday, the possibility of even more Covid restrictions for the Christmas and New Year holidays loomed over several European countries. IEA had previously warned that the surge in Covid cases would dent global oil demand at a time when US supply is set to increase.
+- In the third week of December, EU gas prices resumed their rally, reaching new highs near €147 per megawatt-hour amid reports that flows in the Yamal-Europe pipeline remain quiet after falling sharply over the weekend. News of delays in the Nord Stream 2 pipeline, supply-cut threats from Belarus, and growing tensions in eastern Ukraine have also contributed to the rally in EU natural gas prices.
+- The BDI closed at 2,379 points mark, down by -27% since last week. We observe that the BDI has noted 7 consecutive negative days. Meanwhile, in the individual indices, the BCI closed at 2,727 points, down by 43.5% since last week as it was at 4,827 points. We observe that the BDI & BCI have noted 7 consecutive negative days. The BPI closed at 2,444 points, having 8 uninterrupted negative sessions, and decreased by 20.3% since previous week. Finally, the BSI closed at 2,469 points,, down by 3.2% on a weekly basis while the BHSI closed at 1,547 points and lost 2% since last week.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 70.2 | -2.09 | -2.89% | -2.05% | -10.47% | 44.68% |
+| Brent | 72.92 | -2.03 | -2.71% | -2.97% | -10.24% | 40.77% |
+| Natural gas | 3.669 | -0.097 | -2.58% | -6.52% | -25.15% | 44.51% |
+| Gasoline | 2.1337 | -0.0441 | -2.02% | -0.16% | -7.00% | 51.32% |
+| Heating oil | 2.2199 | -0.0464 | -2.05% | -1.41% | -6.88% | 49.59% |
+| Ethanol | 3 | 0.08 | 2.74% | 1.01% | -12.02% | 124.79% |
+| Naphtha | 688.28 | -4.22 | -0.61% | 0.30% | -7.32% | 59.07% |
+| Propane | 1.02 | -0.01 | -1.13% | -0.46% | -18.78% | 58.56% |
+| Uranium | 44.1 | -0.05 | -0.11% | -3.40% | -8.32% | 43.65% |
+| Methanol | 2739 | 69 | 2.58% | 4.46% | 7.12% | 13.37% |
+| TTF Gas | 135.5 | -7.27 | -5.09% | 28.10% | 42.38% | 608.57% |
+| UK Gas | 344.09 | -15.39 | -4.28% | 28.01% | 43.49% | 510.09% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,797.8 | -1.19 | -0.07% | 0.86% | -3.26% | -5.20% |
+| Silver | 22.355 | -0.105 | -0.47% | 0.87% | -9.79% | -15.19% |
+| Platinum | 931.3 | -4.98 | -0.53% | -1.15% | -11.14% | -12.63% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.291 | -0.0095 | -0.22% | 0.19% | -0.31% | 21.94% |
+| Coal | 168.0 | -0.5 | -0.30% | 4.35% | 11.89% | 108.70% |
+| Steel | 4,700 | 26 | 0.56% | 9.23% | 9.12% | 11.37% |
+| Iron Ore | 113 | 2.5 | 2.26% | 10.24% | 32.94% | -28.71% |
+| Aluminum | 2,724.5 | 57.5 | 2.16% | 4.53% | 4.15% | 37.55% |
+| Iron Ore Fe62% | 111.64 | 0.45 | 0.40% | 6.32% | 21.33% | -28.36% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.12363 | -0.0096 | -0.84% | -0.71% | -1.16% | -8.03% |
+| GBP/USD | 1.3234 | -0.0088 | -0.66% | -0.23% | -1.95% | -3.21% |
+| USD/JPY | 113.71 | 0.03 | 0.03% | 0.29% | -0.49% | 10.13% |
+| USD/CNY | 6.38791 | 0.0075 | 0.12% | 0.19% | 0.13% | -1.76% |
+| USD/CHF | 0.92404 | 0.0047 | 0.52% | 0.38% | -0.15% | 4.40% |
+| USD/SGD | 1.3668 | 0.0028 | 0.21% | 0.28% | 0.78% | 3.38% |
+| USD/KRW | 1183.4 | 1.7 | 0.14% | 0.57% | 0.36% | 9.16% |
+| USD/INR | 75.9855 | -0.1705 | -0.22% | 0.39% | 2.46% | 4.04% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- IFO380 | Diff Spread w-on-w | % Spread w-on-w |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 608.00 | 429.50 | 646.50 | 178.50 | 6.5 | 3.8% |
+| Rotterdam | 547.00 | 421.00 | 621.00 | 126.00 | -3.5 | -2.7% |
+| Fujairah | 600.00 | 435.00 | 763.00 | 165.00 | 15.0 | 10.0% |
+| Houston | 557.00 | 410.00 | 655.00 | 147.00 | 16.0 | 12.2% |

@@ -9,7 +9,7 @@ year: 2021
 source_file: corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_10_25.pdf
 source_sha256: 1e1ed9613947037f910ec5467d4574c946c4bf9780f28bebe3c04c3f408d1161
 pages_total: 6
-pages_parsed: 1-5
+pages_parsed: 1-6
 parser: pymupdf_table + xclusiv_template
 parsed_at: '2026-10-08T08:14:05Z'
 ---
@@ -185,3 +185,72 @@ On the secondhand tanker market, the volume of transactions has begun to rise as
 | Tankers | Bangladesh | $610 | $605 | 5 |
 | Tankers | Pakistan | $605 | $600 | 5 |
 | Tankers | Turkey | $285 | $285 | 0 |
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- On Friday, Jerome Powell announced that the Fed would keep rates near zero and continue with its tapering schedule. Though markets cannot blame Powell for stating already well-known information, it was enough to help create an intra-day selloff. While the market steadied itself in the latter half of the day, the selloff caused both the Nasdaq Composite Index and the S&P 500 indices to fall on Friday after having reached record levels, of 15,215 and 4,549 respectively last Thursday. Both indices closed the week at 15,090.20 and 4,544.90 while the Dow Jones Industrial closed the week at its record high of 35,677.02.
+- WTI crude reversed early losses to trade at almost $84 a barrel on Friday, new 7-year high having gained abt 2% this week. US crude inventories remain at historically low levels and OPEC+ has been struggling to add crude back to the market. At the same time, coal and gas prices eased, curbing oil-switching in generators
+- Coal futures traded around $230 per metric ton, the lowest in near three weeks and sitting almost 15% below its all-time high of $269.5 reached on October 5th.
+- Iron Ore trading now at $112/ton down by 2.6% w-on-w.
+- Turkish Lira Hits All-time Low, with the USDTRY increasing to an all-time high of 9.7771
+- The Baltic Exchange Dry Index fell 5.2% to 4,410 on Friday, its lowest since September 21st and the steepest decline since late January 2021, amid weakness in the Capesize vessel size segment., as the BCI plunged 10.3% to 6,205, the biggest decline since January 27th 2021. The Supramax index fell 40 points to 3,584, recording a streak of 13 positive sessions. Meanwhile, the BPI went up by 0.5% to 4,327, its highest in over 11 years. The Baltic Dry Index recorded a weekly loss of 9.1%, the biggest since week ending May 24th2021.
+- The new order of 100,000 placed by Hertz Global Holding is the largest purchase ever made for an EV and represents about $ 4.2 billion in revenue for Tesla.
+
+### Energy
+
+| Energy | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Crude Oil | 83.76 | 1.26 | 1.53% | 1.80% | 14.27% | 72.63% |
+| Brent | 85.66 | 1.05 | 1.24% | 0.94% | 10.89% | 65.37% |
+| Natural gas | 5.303 | 0.193 | 3.77% | -1.98% | 6.57% | 108.86% |
+| Gasoline | 2.4871 | 0.007 | 0.28% | 0.03% | 14.53% | 76.38% |
+| Heating oil | 2.5389 | -0.0102 | -0.40% | -1.35% | 12.89% | 71.08% |
+| Ethanol | 2.207 | 0 | 0.00% | 0.00% | 0.00% | 54.01% |
+| Naphtha | 764.7 | 2.16 | 0.28% | 0.23% | 13.17% | 76.73% |
+| Propane | 1.45 | -0.01 | -0.40% | -0.91% | 13.92% | 125.05% |
+| Uranium | 49 | 0.15 | 0.31% | 3.81% | 1.98% | 59.61% |
+| Methanol | 3245 | -220 | -6.35% | -13.90% | 5.15% | 34.31% |
+| TTF Gas | 88.46 | -4.99 | -5.34% | -13.42% | 23.39% | 362.60% |
+| UK Gas | 221.4 | -12.41 | -5.31% | -14.06% | 22.25% | 292.55% |
+
+### Metals
+
+| Metals | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gold | 1,792.8 | 10.03 | 0.56% | 1.44% | 2.88% | -5.47% |
+| Silver | 24.306 | 0.171 | 0.71% | 4.39% | 8.09% | -7.79% |
+| Platinum | 1,040.7 | -7.85 | -0.75% | -1.31% | 5.24% | -2.37% |
+
+### Industrial
+
+| Industrial | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Copper | 4.526 | -0.0525 | -1.15% | -4.13% | 6.97% | 28.62% |
+| Coal | 230 | 1.5 | 0.66% | -4.17% | 23.72% | 185.71% |
+| Steel | 5,054 | -309 | -5.76% | -11.13% | -13.72% | 19.76% |
+| Iron Ore | 112 | -3 | -2.61% | -2.61% | 4.67% | -29.34% |
+| Aluminum | 2,868.0 | -42.5 | -1.46% | -9.57% | -3.01% | 44.79% |
+| Iron Ore Fe62% | 122.5 | -0.39 | -0.32% | -0.56% | 1.70% | -21.39% |
+
+### Currencies
+
+| Currencies | Price | +/_ | Day | Weekly | Monthly | YTD |
+| --- | --- | --- | --- | --- | --- | --- |
+| EUR/USD | 1.16448 | 0.0021 | 0.18% | 0.39% | -0.85% | -4.68% |
+| GBP/USD | 1.37585 | -0.0034 | -0.25% | 0.10% | 0.23% | 0.62% |
+| USD/JPY | 113.48 | -0.45 | -0.39% | -0.68% | 2.90% | 9.91% |
+| USD/CNY | 6.38284 | -0.0104 | -0.16% | -0.81% | -1.21% | -1.84% |
+| USD/CHF | 0.91599 | -0.00221 | -0.24% | -0.70% | -0.91% | 3.49% |
+| USD/SGD | 1.34809 | 0.00099 | 0.07% | 0.00% | -0.01% | 1.97% |
+| USD/KRW | 1173.59 | -0.64 | -0.05% | -0.39% | 0.25% | 8.26% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO-IFO380 |
+| --- | --- | --- | --- | --- |
+| Singapore | 625.00 | 502.50 | 710.50 | $122.5 |
+| Rotterdam | 607.00 | 476.50 | 706.00 | $130.5 |
+| Fujairah | 628.50 | 508.50 | 775.00 | $120.0 |
+| Houston | 612.00 | 486.50 | 753.00 | $125.5 |
