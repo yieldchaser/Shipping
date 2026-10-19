@@ -85,6 +85,7 @@ Iron ore futures consolidated on a strong note today. The most-traded DCE i2701 
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -48.00 | -6.74% |
 | **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +142.00 | +20.19% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +19.25 | +19.57% |
 
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |

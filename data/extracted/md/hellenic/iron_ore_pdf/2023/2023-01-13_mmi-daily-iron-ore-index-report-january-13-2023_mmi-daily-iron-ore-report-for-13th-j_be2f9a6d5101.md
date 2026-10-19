@@ -89,8 +89,9 @@ pages: 6
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | - | -118.00% |
+| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -118.00 | -13.67% |
 | **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +112.00 | +12.98% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +13.55 | +11.40% |
 
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |

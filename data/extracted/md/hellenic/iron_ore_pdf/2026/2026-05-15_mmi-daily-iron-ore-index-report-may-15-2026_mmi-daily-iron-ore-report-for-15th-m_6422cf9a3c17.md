@@ -84,6 +84,13 @@ The latest SMM statistics showed that total iron ore inventory at 35 main ports 
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Week Ending May 15th, 2026 Province Hebei Hebei Liaoning Shandong Week Ending May 15th, 2026 China Mines Concentrate Composite Index RMB/WT | **Week Ending May 15th, 2026 Region Hanxing Qian'an Anshan Zibo Week Ending May 15th, 2026 China Mines Concentrate Composite Index RMB/WT** | RMB/tonne (excluding tax) ³ Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending May 15th, 2026 China Mines Concentrate Composite Index RMB/WT | RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry Week Ending May 15th, 2026 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
 
+## Iron Ore Index Premiums / Discounts (Spreads)
+| Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -79.00 | -9.89% |
+| **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +148.00 | +18.58% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +17.70 | +16.41% |
+
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

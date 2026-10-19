@@ -171,6 +171,7 @@ DCE iron ore futures rose by 4.34 % today, the main contract closed at 768.5.The
 | **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 0.25 | USD/dry tonne | -0.25 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 5.00 | RMB/wet tonne | +0.00 |
 | **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 9.00 | USD/dry tonne | +1.00 |
+| **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | +0.00 |
 
 ---
 

@@ -85,6 +85,7 @@ The iron ore future price continued to shake down today, the main contract I2405
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -79.00 | -7.67% |
 | **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +109.00 | +10.61% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +26.10 | +19.02% |
 
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
@@ -134,11 +135,43 @@ The iron ore future price continued to shake down today, the main contract I2405
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bayuquan** | -100.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
-| **Fangcheng** | -25.00 | +0.00 | **Caofeidian** | -20.00 | +0.00 |
-| **Lanshan** | 0.00 | +0.00 | **Jingtang** | -20.00 | +0.00 |
-| **Beilun** | 0.00 | +0.00 | **Rizhao** | 0.00 | +0.00 |
-| **Jiangyin** | -20.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Bayuquan** | -100.00 | +0.00 | **Beilun** | 0.00 | +0.00 |
+| **Caofeidian** | -20.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Fangcheng** | -25.00 | +0.00 | **Jiangyin** | -20.00 | +0.00 |
+| **Jingtang** | -20.00 | +0.00 | **Lanqiao** | 0.00 | +0.00 |
+| **Lanshan** | 0.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
+| **Majishan** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
+| **Rizhao** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
+| **Taicang** | -30.00 | +0.00 | **Tianjin** | -40.00 | +0.00 |
+
+## Iron Ore Index Normalisation Differentials
+| Market Type | Normalisation Element | Applicable Range | Value | Unit | Change |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Port Stock** | **1% Fe** | High Grade Fe 60 - 63% | 16.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 60 - 63% | 10.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Fe** | High Grade Fe 63 - 64% | 40.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 63 - 64% | 10.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Fe** | High Grade Fe 64 - 65% | 40.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 64 - 65% | 10.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Fe** | High Grade Fe 65 - 65.5% | 40.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 65 - 65.5% | 10.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Fe** | Low Grade Fe | 7.00 | RMB/wet tonne | +0.00 |
+| **Port Stock** | **1% Alumina** | High Fe Grade Al <2.25% | 30.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Alumina** | High Fe Grade Al <2.25% | 3.50 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Alumina** | High Fe Grade Al 2.25-4% | 5.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Alumina** | High Fe Grade Al 2.25-4% | 1.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Alumina** | Low Fe Grade Al <2.25% | 25.00 | RMB/wet tonne | +0.00 |
+| **Port Stock** | **1% Alumina** | Low Fe Grade Al 2.25-4% | 5.00 | RMB/wet tonne | +0.00 |
+| **Port Stock** | **1% Silica** | High Fe Grade Si <4% | 19.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 3.00 | USD/dry tonne | +0.25 |
+| **Port Stock** | **1% Silica** | High Fe Grade Si 4-6.5% | 24.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 2.75 | USD/dry tonne | +0.25 |
+| **Port Stock** | **1% Silica** | Low Fe Grade | 5.00 | RMB/wet tonne | +0.00 |
+| **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 5.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 0.25 | USD/dry tonne | +0.00 |
+| **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 5.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 2.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | +0.00 |
 
 ---
 

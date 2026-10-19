@@ -166,6 +166,7 @@ DCEÊironÊoreÊfuturesÊcontinuedÊtoÊfluctuateÊrangeboundÊwithÊaÊstronger
 | **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 2.25 | USD/dry tonne | +0.00 |
 | **Port Stock** | **1% Silica** | High Fe Grade Si 4-6.5% | 70.00 | RMB/wet tonne | +0.00 |
 | **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 1.75 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Silica** | Low Fe Grade | 23.00 | RMB/wet tonne | +6.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 5.00 | RMB/wet tonne | +0.00 |
 | **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 0.50 | USD/dry tonne | +0.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 5.00 | RMB/wet tonne | +0.00 |

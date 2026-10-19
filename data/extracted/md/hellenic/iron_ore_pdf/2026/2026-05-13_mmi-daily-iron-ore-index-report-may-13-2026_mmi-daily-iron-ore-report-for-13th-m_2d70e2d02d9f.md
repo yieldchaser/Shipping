@@ -135,11 +135,14 @@ Today,ÊtheÊDCEÊIronÊoreÊfuturesÊfluctuatedÊupwardÊtoday,ÊwithÊtheÊmos
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bayuquan** | -20.00 | +0.00 | **Lianyungang** | -2.00 | +0.00 |
-| **Fangcheng** | -25.00 | +0.00 | **Caofeidian** | -8.00 | +2.00 |
-| **Lanshan** | 0.00 | +0.00 | **Jingtang** | -10.00 | +2.00 |
-| **Beilun** | 0.00 | +0.00 | **Majishan** | 0.00 | +0.00 |
-| **Jiangyin** | -18.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Bayuquan** | -20.00 | +0.00 | **Beilun** | 0.00 | +0.00 |
+| **Caofeidian** | -8.00 | +2.00 | **Dalian** | 0.00 | +0.00 |
+| **Fangcheng** | -25.00 | +0.00 | **Jiangyin** | -18.00 | +0.00 |
+| **Jingtang** | -10.00 | +2.00 | **Lanqiao** | 0.00 | +0.00 |
+| **Lanshan** | 0.00 | +0.00 | **Lianyungang** | -2.00 | +0.00 |
+| **Majishan** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
+| **Rizhao** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
+| **Taicang** | -18.00 | +0.00 | **Tianjin** | -10.00 | +0.00 |
 
 ## Iron Ore Index Normalisation Differentials
 | Market Type | Normalisation Element | Applicable Range | Value | Unit | Change |
@@ -163,6 +166,7 @@ Today,ÊtheÊDCEÊIronÊoreÊfuturesÊfluctuatedÊupwardÊtoday,ÊwithÊtheÊmos
 | **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 2.75 | USD/dry tonne | +0.00 |
 | **Port Stock** | **1% Silica** | High Fe Grade Si 4-6.5% | 8.00 | RMB/wet tonne | +0.00 |
 | **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 6.75 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Silica** | Low Fe Grade | 44.00 | RMB/wet tonne | +1.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 17.00 | RMB/wet tonne | +7.00 |
 | **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 1.75 | USD/dry tonne | +0.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 17.00 | RMB/wet tonne | +7.00 |

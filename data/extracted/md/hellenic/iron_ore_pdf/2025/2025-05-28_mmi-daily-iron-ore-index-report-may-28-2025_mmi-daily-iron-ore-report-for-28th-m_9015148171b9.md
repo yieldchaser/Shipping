@@ -89,11 +89,9 @@ Today, the DCE iron futures market experienced repeated fluctuations, with the m
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | - | - |
-| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | - | - |
 | **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -97.00 | -12.86% |
-| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +2.26 | +2.31% |
 | **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +112.00 | +14.85% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +2.26 | +2.31% |
 
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |

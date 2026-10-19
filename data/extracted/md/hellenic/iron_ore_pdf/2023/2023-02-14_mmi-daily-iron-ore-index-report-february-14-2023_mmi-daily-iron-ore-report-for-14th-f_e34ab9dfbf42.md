@@ -144,6 +144,35 @@ DCE iron ore futures rose by 0.41 % today, the main contract closed 856.5.The tr
 | **Lianyungang** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
 | **Shekou** | 0.00 | +0.00 | **Tianjin** | -10.00 | +0.00 |
 
+## Iron Ore Index Normalisation Differentials
+| Market Type | Normalisation Element | Applicable Range | Value | Unit | Change |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Port Stock** | **1% Fe** | High Grade Fe 60 - 63% | 12.00 | RMB/wet tonne | -1.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 60 - 63% | 1.50 | USD/dry tonne | -0.25 |
+| **Port Stock** | **1% Fe** | High Grade Fe 63 - 64% | 5.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 63 - 64% | 2.50 | USD/dry tonne | +0.50 |
+| **Port Stock** | **1% Fe** | High Grade Fe 64 - 65% | 5.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 64 - 65% | 2.50 | USD/dry tonne | +0.50 |
+| **Port Stock** | **1% Fe** | High Grade Fe 65 - 65.5% | 5.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 65 - 65.5% | 2.50 | USD/dry tonne | +0.50 |
+| **Port Stock** | **1% Fe** | Low Grade Fe | 21.00 | RMB/wet tonne | -5.00 |
+| **Port Stock** | **1% Alumina** | High Fe Grade Al <2.25% | 92.00 | RMB/wet tonne | -5.00 |
+| **Seaborne** | **1% Alumina** | High Fe Grade Al <2.25% | 1.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Alumina** | High Fe Grade Al 2.25-4% | 6.00 | RMB/wet tonne | -5.00 |
+| **Seaborne** | **1% Alumina** | High Fe Grade Al 2.25-4% | 0.25 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Alumina** | Low Fe Grade Al <2.25% | 40.00 | RMB/wet tonne | +5.00 |
+| **Port Stock** | **1% Alumina** | Low Fe Grade Al 2.25-4% | 40.00 | RMB/wet tonne | -4.00 |
+| **Port Stock** | **1% Silica** | High Fe Grade Si <4% | 8.00 | RMB/wet tonne | -4.00 |
+| **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 2.75 | USD/dry tonne | +0.50 |
+| **Port Stock** | **1% Silica** | High Fe Grade Si 4-6.5% | 10.00 | RMB/wet tonne | +3.00 |
+| **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 0.25 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Silica** | Low Fe Grade | 28.00 | RMB/wet tonne | -5.00 |
+| **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 5.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 0.75 | USD/dry tonne | +0.00 |
+| **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 5.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 4.25 | USD/dry tonne | +0.00 |
+| **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 6.00 | RMB/wet tonne | +1.00 |
+
 ## Historical Iron Ore Index Comparisons (USD/DMT)
 > **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
 

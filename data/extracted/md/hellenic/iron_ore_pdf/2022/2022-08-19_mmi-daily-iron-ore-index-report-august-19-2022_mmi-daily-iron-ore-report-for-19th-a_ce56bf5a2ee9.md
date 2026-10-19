@@ -162,16 +162,16 @@ _No desk commentary reported for this session._
 | **Seaborne** | **1% Alumina** | High Fe Grade Al 2.25-4% | 1.25 | USD/dry tonne | -0.25 |
 | **Port Stock** | **1% Alumina** | Low Fe Grade Al <2.25% | 35.00 | RMB/wet tonne | -5.00 |
 | **Port Stock** | **1% Alumina** | Low Fe Grade Al 2.25-4% | 5.00 | RMB/wet tonne | +0.00 |
-| **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 2.50 | USD/dry tonne | +0.00 |
 | **Port Stock** | **1% Silica** | High Fe Grade Si <4% | 5.00 | RMB/wet tonne | +0.00 |
-| **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 5.50 | USD/dry tonne | -0.25 |
+| **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 2.50 | USD/dry tonne | +0.00 |
 | **Port Stock** | **1% Silica** | High Fe Grade Si 4-6.5% | 18.00 | RMB/wet tonne | +2.00 |
-| **Port Stock** | **0.01% Phosphorus** | Low Fe Grade | 16.00 | RMB/wet tonne | +0.00 |
-| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 2.25 | USD/dry tonne | +0.25 |
+| **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 5.50 | USD/dry tonne | -0.25 |
+| **Port Stock** | **1% Silica** | Low Fe Grade | 16.00 | RMB/wet tonne | +0.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 5.00 | RMB/wet tonne | +0.00 |
-| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 3.25 | USD/dry tonne | +0.00 |
+| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 2.25 | USD/dry tonne | +0.25 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 5.00 | RMB/wet tonne | +0.00 |
-| **Port Stock** | **0.01% Phosphorus** | 5.00 | 0.00 | RMB/wet tonne | - |
+| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 3.25 | USD/dry tonne | +0.00 |
+| **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
 > **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).

@@ -85,6 +85,7 @@ _No desk commentary reported for this session._
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -79.00 | -9.44% |
 | **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +139.00 | +16.61% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +22.90 | +19.89% |
 
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
@@ -170,6 +171,7 @@ _No desk commentary reported for this session._
 | **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 1.50 | USD/dry tonne | +0.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 5.00 | RMB/wet tonne | +0.00 |
 | **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 3.25 | USD/dry tonne | +0.00 |
+| **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 8.00 | RMB/wet tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
 > **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).

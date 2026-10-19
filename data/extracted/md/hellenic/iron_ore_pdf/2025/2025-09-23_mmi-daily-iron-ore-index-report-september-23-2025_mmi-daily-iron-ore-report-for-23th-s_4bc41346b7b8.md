@@ -83,6 +83,8 @@ Iron ore futures moved downwards aŌer a higher opening and remained in the dold
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -83.00 | -10.25% |
+| **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +112.00 | +13.83% |
 | **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +16.55 | +15.36% |
 
 ## Multi-Period Monthly, Quarterly & YTD Averages

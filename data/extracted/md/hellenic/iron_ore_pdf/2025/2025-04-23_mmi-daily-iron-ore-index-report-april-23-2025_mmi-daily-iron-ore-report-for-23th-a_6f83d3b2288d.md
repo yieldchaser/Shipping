@@ -83,6 +83,8 @@ Today, the DCE  iron ore futures surged significantly, with the most-traded cont
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -108.00 | -13.97% |
+| **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +112.00 | +14.41% |
 | **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +4.28 | +4.15% |
 
 ## Multi-Period Monthly, Quarterly & YTD Averages

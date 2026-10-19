@@ -134,13 +134,14 @@ _No 58% Fe brand assessments reported for this session._
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bayuquan** | -50.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
-| **Fangcheng** | -25.00 | +0.00 | **Caofeidian** | -5.00 | +0.00 |
-| **Lanshan** | 0.00 | +0.00 | **Jingtang** | -10.00 | +0.00 |
-| **Rizhao** | 0.00 | +0.00 | **Majishan** | 0.00 | +0.00 |
-| **Beilun** | 0.00 | +0.00 | **Taicang** | -20.00 | +0.00 |
-| **Jiangyin** | -20.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
-| **Lianyungang** | -5.00 | +0.00 | **-** | - | - |
+| **Bayuquan** | -50.00 | +0.00 | **Beilun** | 0.00 | +0.00 |
+| **Caofeidian** | -5.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Fangcheng** | -25.00 | +0.00 | **Jiangyin** | -20.00 | +0.00 |
+| **Jingtang** | -10.00 | +0.00 | **Lanqiao** | 0.00 | +0.00 |
+| **Lanshan** | 0.00 | +0.00 | **Lianyungang** | -5.00 | +0.00 |
+| **Majishan** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
+| **Rizhao** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
+| **Taicang** | -20.00 | +0.00 | **Tianjin** | -10.00 | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
 > **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).

@@ -141,11 +141,14 @@ Today, Dalian iron ore fluctuated repeatedly, with the most-traded i2505 contrac
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bayuquan** | -50.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
-| **Fangcheng** | -25.00 | +0.00 | **Caofeidian** | -15.00 | +0.00 |
-| **Lanshan** | 0.00 | +0.00 | **Jingtang** | -15.00 | +0.00 |
-| **Beilun** | 0.00 | +0.00 | **Majishan** | 0.00 | +0.00 |
-| **Jiangyin** | -25.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Bayuquan** | -50.00 | +0.00 | **Beilun** | 0.00 | +0.00 |
+| **Caofeidian** | -15.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Fangcheng** | -25.00 | +0.00 | **Jiangyin** | -25.00 | +0.00 |
+| **Jingtang** | -15.00 | +0.00 | **Lanqiao** | 0.00 | +0.00 |
+| **Lanshan** | 0.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
+| **Majishan** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
+| **Rizhao** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
+| **Taicang** | -20.00 | +0.00 | **Tianjin** | -20.00 | +0.00 |
 
 ## Iron Ore Index Normalisation Differentials
 | Market Type | Normalisation Element | Applicable Range | Value | Unit | Change |

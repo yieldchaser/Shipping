@@ -91,6 +91,7 @@ DCE iron ore futures continued to fluctuate in a day , an increase of 2.23% thro
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -259.00 | -28.21% |
 | **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +193.00 | +21.02% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +26.90 | +18.85% |
 
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |

@@ -174,6 +174,7 @@ SMM research data this week show the blast furnace capacity utilisation rate at 
 | **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 3.50 | USD/dry tonne | +0.00 |
 | **Port Stock** | **1% Silica** | High Fe Grade Si 4-6.5% | 5.00 | RMB/wet tonne | +0.00 |
 | **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 1.25 | USD/dry tonne | -0.25 |
+| **Port Stock** | **1% Silica** | Low Fe Grade | 13.00 | RMB/wet tonne | +0.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 12.00 | RMB/wet tonne | +0.00 |
 | **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 0.25 | USD/dry tonne | +0.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 12.00 | RMB/wet tonne | +0.00 |

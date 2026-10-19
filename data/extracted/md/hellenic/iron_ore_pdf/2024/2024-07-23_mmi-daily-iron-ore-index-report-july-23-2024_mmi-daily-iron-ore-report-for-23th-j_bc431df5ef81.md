@@ -80,6 +80,13 @@ DCE iron ore futures market falling sharply trends by 3.43%. the main contract c
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,044.00 | -2.80% | 800.00 | 1,752.00 | 146.40 | -2.78% | 0.00 | 272.32 |
 | National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 945.19 | - | - | - | - |
 
+## Iron Ore Index Premiums / Discounts (Spreads)
+| Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -135.00 | -16.71% |
+| **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +112.00 | +13.78% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +16.94 | +16.22% |
+
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -128,11 +135,14 @@ DCE iron ore futures market falling sharply trends by 3.43%. the main contract c
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bayuquan** | -50.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
-| **Fangcheng** | -25.00 | +0.00 | **Caofeidian** | -20.00 | +0.00 |
-| **Lanshan** | 0.00 | +0.00 | **Jingtang** | -20.00 | +0.00 |
-| **Beilun** | 0.00 | +0.00 | **Majishan** | 0.00 | +0.00 |
-| **Jiangyin** | -30.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Bayuquan** | -50.00 | +0.00 | **Beilun** | 0.00 | +0.00 |
+| **Caofeidian** | -20.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Fangcheng** | -25.00 | +0.00 | **Jiangyin** | -30.00 | +0.00 |
+| **Jingtang** | -20.00 | +0.00 | **Lanqiao** | 0.00 | +0.00 |
+| **Lanshan** | 0.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
+| **Majishan** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
+| **Rizhao** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
+| **Taicang** | -30.00 | +0.00 | **Tianjin** | -10.00 | +0.00 |
 
 ## Iron Ore Index Normalisation Differentials
 | Market Type | Normalisation Element | Applicable Range | Value | Unit | Change |
@@ -156,6 +166,7 @@ DCE iron ore futures market falling sharply trends by 3.43%. the main contract c
 | **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 0.25 | USD/dry tonne | +0.00 |
 | **Port Stock** | **1% Silica** | High Fe Grade Si 4-6.5% | 28.00 | RMB/wet tonne | -7.00 |
 | **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 0.25 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Silica** | Low Fe Grade | 40.00 | RMB/wet tonne | +2.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 9.00 | RMB/wet tonne | +0.00 |
 | **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 0.25 | USD/dry tonne | +0.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 9.00 | RMB/wet tonne | +0.00 |

@@ -135,11 +135,14 @@ According to data tracked by SMM, 76 ships arrived at domestic main ports during
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bayuquan** | -45.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
-| **Fangcheng** | -30.00 | +0.00 | **Caofeidian** | -65.00 | +0.00 |
-| **Lanshan** | 0.00 | +0.00 | **Jingtang** | -65.00 | +0.00 |
-| **Beilun** | 0.00 | +0.00 | **Majishan** | 0.00 | +0.00 |
-| **Jiangyin** | -30.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Bayuquan** | -45.00 | +0.00 | **Beilun** | 0.00 | +0.00 |
+| **Caofeidian** | -65.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Fangcheng** | -30.00 | +0.00 | **Jiangyin** | -30.00 | +0.00 |
+| **Jingtang** | -65.00 | +0.00 | **Lanqiao** | 0.00 | +0.00 |
+| **Lanshan** | 0.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
+| **Majishan** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
+| **Rizhao** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
+| **Taicang** | -30.00 | +0.00 | **Tianjin** | -70.00 | +0.00 |
 
 ## Iron Ore Index Normalisation Differentials
 | Market Type | Normalisation Element | Applicable Range | Value | Unit | Change |

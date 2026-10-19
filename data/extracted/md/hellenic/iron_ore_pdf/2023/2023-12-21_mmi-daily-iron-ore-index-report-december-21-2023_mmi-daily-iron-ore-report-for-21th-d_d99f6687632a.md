@@ -141,11 +141,14 @@ DCE iron ore futures market rose by 3.53%. the main contract I2405 closed 968, S
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bayuquan** | -100.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
-| **Fangcheng** | -25.00 | +0.00 | **Caofeidian** | -15.00 | -5.00 |
-| **Lanshan** | 0.00 | +0.00 | **Jingtang** | -15.00 | -5.00 |
-| **Beilun** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
-| **Jiangyin** | -20.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Bayuquan** | -100.00 | +0.00 | **Beilun** | 0.00 | +0.00 |
+| **Caofeidian** | -15.00 | -5.00 | **Dalian** | 0.00 | +0.00 |
+| **Fangcheng** | -25.00 | +0.00 | **Jiangyin** | -20.00 | +0.00 |
+| **Jingtang** | -15.00 | -5.00 | **Lanqiao** | 0.00 | +0.00 |
+| **Lanshan** | 0.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
+| **Majishan** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
+| **Rizhao** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
+| **Taicang** | -30.00 | +0.00 | **Tianjin** | -40.00 | +0.00 |
 
 ## Iron Ore Index Normalisation Differentials
 | Market Type | Normalisation Element | Applicable Range | Value | Unit | Change |
@@ -169,6 +172,7 @@ DCE iron ore futures market rose by 3.53%. the main contract I2405 closed 968, S
 | **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 4.00 | USD/dry tonne | +0.75 |
 | **Port Stock** | **1% Silica** | High Fe Grade Si 4-6.5% | 16.00 | RMB/wet tonne | -4.00 |
 | **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 4.00 | USD/dry tonne | +0.75 |
+| **Port Stock** | **1% Silica** | Low Fe Grade | 22.00 | RMB/wet tonne | +1.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 9.00 | RMB/wet tonne | +0.00 |
 | **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 0.25 | USD/dry tonne | +0.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 9.00 | RMB/wet tonne | +0.00 |

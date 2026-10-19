@@ -135,11 +135,14 @@ The overall trend for iron ore futures was weak today, with the main contract I2
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bayuquan** | -20.00 | +0.00 | **Lianyungang** | -3.00 | +0.00 |
-| **Fangcheng** | -25.00 | +0.00 | **Caofeidian** | -18.00 | +0.00 |
-| **Lanshan** | 0.00 | +0.00 | **Jingtang** | -16.00 | +0.00 |
-| **Beilun** | 0.00 | +0.00 | **Majishan** | 0.00 | +0.00 |
-| **Jiangyin** | -18.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Bayuquan** | -20.00 | +0.00 | **Beilun** | 0.00 | +0.00 |
+| **Caofeidian** | -18.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
+| **Fangcheng** | -25.00 | +0.00 | **Jiangyin** | -18.00 | +0.00 |
+| **Jingtang** | -16.00 | +0.00 | **Lanqiao** | 0.00 | +0.00 |
+| **Lanshan** | 0.00 | +0.00 | **Lianyungang** | -3.00 | +0.00 |
+| **Majishan** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
+| **Rizhao** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
+| **Taicang** | -18.00 | +0.00 | **Tianjin** | -15.00 | +0.00 |
 
 ## Iron Ore Index Normalisation Differentials
 | Market Type | Normalisation Element | Applicable Range | Value | Unit | Change |

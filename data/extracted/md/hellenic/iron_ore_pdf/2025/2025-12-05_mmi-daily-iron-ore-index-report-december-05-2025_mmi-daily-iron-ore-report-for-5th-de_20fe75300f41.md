@@ -141,12 +141,14 @@ The DCE iron ore futures contract on the DCE traded in the doldrums today. As th
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bayuquan** | -45.00 | +0.00 | **Lianyungang** | -5.00 | +0.00 |
-| **Fangcheng** | -25.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
-| **Lanshan** | 0.00 | +0.00 | **Caofeidian** | -8.00 | +2.00 |
-| **Rizhao** | 0.00 | +0.00 | **Jingtang** | -10.00 | +3.00 |
-| **Beilun** | 0.00 | +0.00 | **Majishan** | 0.00 | +0.00 |
-| **Jiangyin** | -20.00 | +0.00 | **-** | - | - |
+| **Bayuquan** | -45.00 | +0.00 | **Beilun** | 0.00 | +0.00 |
+| **Caofeidian** | -8.00 | +2.00 | **Dalian** | 0.00 | +0.00 |
+| **Fangcheng** | -25.00 | +0.00 | **Jiangyin** | -20.00 | +0.00 |
+| **Jingtang** | -10.00 | +3.00 | **Lanqiao** | 0.00 | +0.00 |
+| **Lanshan** | 0.00 | +0.00 | **Lianyungang** | -5.00 | +0.00 |
+| **Majishan** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
+| **Rizhao** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
+| **Taicang** | -20.00 | +0.00 | **Tianjin** | -10.00 | +0.00 |
 
 ## Iron Ore Index Normalisation Differentials
 | Market Type | Normalisation Element | Applicable Range | Value | Unit | Change |

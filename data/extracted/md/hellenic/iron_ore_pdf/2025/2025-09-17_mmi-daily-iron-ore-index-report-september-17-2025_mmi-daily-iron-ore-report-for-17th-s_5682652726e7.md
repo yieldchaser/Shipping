@@ -168,6 +168,7 @@ According to an SMM survey, on September 17, the blast furnace operating rate at
 | **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 2.75 | USD/dry tonne | -0.25 |
 | **Port Stock** | **1% Silica** | High Fe Grade Si 4-6.5% | 55.00 | RMB/wet tonne | +5.00 |
 | **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 1.50 | USD/dry tonne | -0.25 |
+| **Port Stock** | **1% Silica** | Low Fe Grade | 26.00 | RMB/wet tonne | +3.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 6.00 | RMB/wet tonne | +1.00 |
 | **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 2.75 | USD/dry tonne | +0.25 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 6.00 | RMB/wet tonne | +1.00 |

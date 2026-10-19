@@ -89,7 +89,7 @@ DCE iron ore futures rose largely today; the main contract I2405 closed 998.5. T
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | - | -97.00% |
+| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -97.00 | -9.25% |
 | **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +112.00 | +10.68% |
 | **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +29.50 | +20.75% |
 
@@ -141,14 +141,14 @@ DCE iron ore futures rose largely today; the main contract I2405 closed 998.5. T
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bayuquan** | -100.00 | +0.00 | **Majishan** | 0.00 | +0.00 |
-| **Fangcheng** | -25.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
-| **Lanshan** | 0.00 | +0.00 | **Lanqiao** | 0.00 | +0.00 |
-| **Beilun** | 0.00 | +0.00 | **Rizhao** | 0.00 | +0.00 |
-| **Jiangyin** | -40.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
-| **Lianyungang** | 0.00 | +0.00 | **Taicang** | -30.00 | +0.00 |
-| **Caofeidian** | 0.00 | +10.00 | **Tianjin** | -40.00 | +0.00 |
-| **Jingtang** | 0.00 | +10.00 | **-** | - | - |
+| **Bayuquan** | -100.00 | +0.00 | **Beilun** | 0.00 | +0.00 |
+| **Caofeidian** | 0.00 | +10.00 | **Dalian** | 0.00 | +0.00 |
+| **Fangcheng** | -25.00 | +0.00 | **Jiangyin** | -40.00 | +0.00 |
+| **Jingtang** | 0.00 | +10.00 | **Lanqiao** | 0.00 | +0.00 |
+| **Lanshan** | 0.00 | +0.00 | **Lianyungang** | 0.00 | +0.00 |
+| **Majishan** | 0.00 | +0.00 | **Qingdao** | 0.00 | +0.00 |
+| **Rizhao** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
+| **Taicang** | -30.00 | +0.00 | **Tianjin** | -40.00 | +0.00 |
 
 ## Iron Ore Index Normalisation Differentials
 | Market Type | Normalisation Element | Applicable Range | Value | Unit | Change |

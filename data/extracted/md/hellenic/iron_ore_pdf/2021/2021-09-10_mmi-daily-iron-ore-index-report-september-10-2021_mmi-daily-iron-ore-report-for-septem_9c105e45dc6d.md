@@ -85,6 +85,7 @@ _No desk commentary reported for this session._
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -333.00 | -33.13% |
 | **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +230.00 | +22.89% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +18.65 | +13.70% |
 
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |

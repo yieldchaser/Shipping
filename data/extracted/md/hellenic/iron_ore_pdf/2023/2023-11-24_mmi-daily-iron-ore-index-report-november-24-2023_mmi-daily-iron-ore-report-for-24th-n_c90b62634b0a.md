@@ -76,6 +76,13 @@ DCE iron ore futures fall today by 0.61%.the main contract I2401 closed 986.5. s
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Week Ending Nov 24th, 2023 RMB/tonne (excluding tax) ³ Province Hebei Hebei Liaoning Shandong Week Ending Nov 24th, 2023 China Mines Concentrate Composite Index RMB/WT | **Week Ending Nov 24th, 2023 RMB/tonne (excluding tax) ³ Region Hanxing Qian'an Anshan Zibo Week Ending Nov 24th, 2023 China Mines Concentrate Composite Index RMB/WT** | Week Ending Nov 24th, 2023 RMB/tonne (excluding tax) ³ Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Nov 24th, 2023 China Mines Concentrate Composite Index RMB/WT | Week Ending Nov 24th, 2023 RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry Week Ending Nov 24th, 2023 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
 
+## Iron Ore Index Premiums / Discounts (Spreads)
+| Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -93.00 | -9.30% |
+| **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +112.00 | +11.21% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +23.92 | +18.16% |
+
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -151,16 +158,16 @@ DCE iron ore futures fall today by 0.61%.the main contract I2401 closed 986.5. s
 | **Seaborne** | **1% Alumina** | High Fe Grade Al 2.25-4% | 0.25 | USD/dry tonne | +0.00 |
 | **Port Stock** | **1% Alumina** | Low Fe Grade Al <2.25% | 60.00 | RMB/wet tonne | +5.00 |
 | **Port Stock** | **1% Alumina** | Low Fe Grade Al 2.25-4% | 46.00 | RMB/wet tonne | +0.00 |
-| **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 0.25 | USD/dry tonne | +0.00 |
 | **Port Stock** | **1% Silica** | High Fe Grade Si <4% | 5.00 | RMB/wet tonne | +0.00 |
-| **Seaborne** | **1% Silica** | High Fe Grade Si 4-6.5% | 4.50 | USD/dry tonne | -0.50 |
+| **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 0.25 | USD/dry tonne | +0.00 |
 | **Port Stock** | **1% Silica** | High Fe Grade Si 4-6.5% | 15.00 | RMB/wet tonne | -5.00 |
-| **Port Stock** | **0.01% Phosphorus** | Low Fe Grade | 20.00 | RMB/wet tonne | +0.00 |
-| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 0.25 | USD/dry tonne | +0.00 |
+| **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 4.50 | USD/dry tonne | -0.50 |
+| **Port Stock** | **1% Silica** | Low Fe Grade | 20.00 | RMB/wet tonne | +0.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 5.00 | RMB/wet tonne | +0.00 |
-| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 0.25 | USD/dry tonne | -0.25 |
+| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 0.25 | USD/dry tonne | +0.00 |
 | **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 5.00 | RMB/wet tonne | +0.00 |
-| **Port Stock** | **0.01% Phosphorus** | 5.00 | 0.00 | RMB/wet tonne | - |
+| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 0.25 | USD/dry tonne | -0.25 |
+| **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | +0.00 |
 
 ---
 

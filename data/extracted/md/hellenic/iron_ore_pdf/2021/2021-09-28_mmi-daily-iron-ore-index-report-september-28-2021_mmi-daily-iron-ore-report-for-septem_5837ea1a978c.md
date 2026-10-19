@@ -82,6 +82,13 @@ According to data tracked by SMM, 90 ships arrived at domestic main ports during
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Week Ending Sep 24th, 2021 Province Hebei Hebei Liaoning Shandong Week Ending Sep 24th, 2021 China Mines Concentrate Composite Index RMB/WT | **Week Ending Sep 24th, 2021 Region Hanxing Qian'an Anshan Zibo Week Ending Sep 24th, 2021 China Mines Concentrate Composite Index RMB/WT** | RMB/tonne (excluding tax) ³ Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Sep 24th, 2021 China Mines Concentrate Composite Index RMB/WT | RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry Week Ending Sep 24th, 2021 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
 
+## Iron Ore Index Premiums / Discounts (Spreads)
+| Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -253.00 | -29.18% |
+| **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +180.00 | +20.76% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +18.45 | +15.30% |
+
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -138,6 +145,35 @@ According to data tracked by SMM, 90 ships arrived at domestic main ports during
 | **Lianyungang** | 0.00 | +0.00 | **Shekou** | 0.00 | +0.00 |
 | **Caofeidian** | -20.00 | +0.00 | **Taicang** | -95.00 | +0.00 |
 | **Jingtang** | -20.00 | +0.00 | **Tianjin** | -40.00 | +0.00 |
+
+## Iron Ore Index Normalisation Differentials
+| Market Type | Normalisation Element | Applicable Range | Value | Unit | Change |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Port Stock** | **1% Fe** | High Grade Fe 60 - 63% | 30.00 | RMB/wet tonne | +2.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 60 - 63% | 4.50 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Fe** | High Grade Fe 63 - 64% | 32.00 | RMB/wet tonne | -3.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 63 - 64% | 3.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Fe** | High Grade Fe 64 - 65% | 32.00 | RMB/wet tonne | -3.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 64 - 65% | 3.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Fe** | High Grade Fe 65 - 65.5% | 32.00 | RMB/wet tonne | -3.00 |
+| **Seaborne** | **1% Fe** | High Grade Fe 65 - 65.5% | 3.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Fe** | Low Grade Fe | 25.00 | RMB/wet tonne | +3.00 |
+| **Port Stock** | **1% Alumina** | High Fe Grade Al <2.25% | 5.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Alumina** | High Fe Grade Al <2.25% | 0.50 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Alumina** | High Fe Grade Al 2.25-4% | 52.00 | RMB/wet tonne | +4.00 |
+| **Seaborne** | **1% Alumina** | High Fe Grade Al 2.25-4% | 3.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Alumina** | Low Fe Grade Al <2.25% | 59.00 | RMB/wet tonne | -3.00 |
+| **Port Stock** | **1% Alumina** | Low Fe Grade Al 2.25-4% | 49.00 | RMB/wet tonne | +5.00 |
+| **Port Stock** | **1% Silica** | High Fe Grade Si <4% | 33.00 | RMB/wet tonne | -1.00 |
+| **Seaborne** | **1% Silica** | High Fe Grade Si <4% | 3.00 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Silica** | High Fe Grade Si 4-6.5% | 5.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **1% Silica** | High Fe Grade Si 4 - 6.5% | 9.75 | USD/dry tonne | +0.00 |
+| **Port Stock** | **1% Silica** | Low Fe Grade | 27.00 | RMB/wet tonne | +5.00 |
+| **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 10.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.09%\<P<0.115% | 0.50 | USD/dry tonne | +0.25 |
+| **Port Stock** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 10.00 | RMB/wet tonne | +0.00 |
+| **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 0.25 | USD/dry tonne | +0.00 |
+| **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | +0.00 |
 
 ---
 

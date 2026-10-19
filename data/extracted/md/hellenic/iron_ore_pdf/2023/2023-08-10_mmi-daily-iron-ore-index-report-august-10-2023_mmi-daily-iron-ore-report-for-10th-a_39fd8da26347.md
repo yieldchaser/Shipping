@@ -89,11 +89,9 @@ DCE iron ore futures fall today by 0.49%. the main contract I2401 closed 714.5. 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | - | - |
-| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | - | - |
 | **IOPI58** | 58% Fe Fines | Port Stock | **IOPI62** | -90.00 | -10.77% |
-| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +48.78 | +43.71% |
 | **IOPI65** | 65% Fe Fines | Port Stock | **IOPI62** | +112.00 | +13.31% |
+| **IOSI65** | 65% Fe Fines | Seaborne | **IOSI62** | +48.78 | +43.71% |
 
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
