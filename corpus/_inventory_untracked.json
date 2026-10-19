@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2933,
-      "untracked_bytes": 2297417240
+      "untracked_files": 2943,
+      "untracked_bytes": 2300615166
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,6 +47,31 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/clarksons/2026/clarksons_16_10_2026_clarksons_hellas_snp_weekly.md",
+      "bytes": 8083,
+      "sha256": "ebfb6beeec12b66e888113c9d3cb1c66c36312b7d3627289eedd3975d05b61f2"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/lion/2026/lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026.md",
+      "bytes": 11752,
+      "sha256": "e65a4c69f2a590380dfbbe90c7c46de3b39bcef67d997090be316e1f153c5864"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_19_10_2026_ssy_atlantic_capesize_index_19_october_2026.md",
+      "bytes": 3149,
+      "sha256": "4ed752f1fa78a2b4565c3229d716137e0a5da5240fa58680597d1e3e1d745e13"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_19_10_2026_ssy_pacific_capesize_index_19_october_2026.md",
+      "bytes": 3131,
+      "sha256": "fe950c785f12af542054ceefdc4d2c59639cac27aacca882f1be4152d7ce2510"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.md",
+      "bytes": 33433,
+      "sha256": "714fa36aced62c68b51c4f0bf0ee40a580ecc36a5307b06e2398023ba22df6ec"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -5618,6 +5643,11 @@
       "sha256": "ea2f9d8190b075cb5bb74762a4f4056f8d202e9b112c6415af813fc5aa8e7346"
     },
     {
+      "path": "corpus/01-brokers/clarksons/2026/clarksons_16_10_2026_clarksons_hellas_snp_weekly.pdf",
+      "bytes": 224526,
+      "sha256": "823f9b15b739378120055775717db8b2d6eebf9834808e0116a6d2dbe70c76a9"
+    },
+    {
       "path": "corpus/01-brokers/clarksons/2026/clarksons_18_09_2026_clarksons_hellas_snp_weekly.pdf",
       "bytes": 230628,
       "sha256": "39f913e909f353881610da5533cca596353a6e0e1f1e770c650b441ad531962b"
@@ -9533,6 +9563,11 @@
       "sha256": "f6f19434443cd370be0109bd415ee4c6c8063d2565c376703dcdcd5979194806"
     },
     {
+      "path": "corpus/01-brokers/lion/2026/lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026.pdf",
+      "bytes": 1849831,
+      "sha256": "05e8236a67e94326344fb6af1484cf4c819d12495533891543746aab9d576941"
+    },
+    {
       "path": "corpus/01-brokers/lion/2026/lion_2026_W02_Lion-Weekly-Report-09-January-2026-W02.pdf",
       "bytes": 2041211,
       "sha256": "718ecf49053493cf84a5d1c3dc551b7ad718bbaea5ec3a1074d9db0d638ce2df"
@@ -11943,6 +11978,16 @@
       "sha256": "00bd867ea424d15f2d5c16ef9bd24afd0ec5ff3979b5435ac898b07dbecdb51b"
     },
     {
+      "path": "corpus/01-brokers/ssy/2026/ssy_19_10_2026_ssy_atlantic_capesize_index_19_october_2026.pdf",
+      "bytes": 191114,
+      "sha256": "39cad48dbb116734fa70af0bcec51edba1d26d3dc2d9fcb269634d66b5fca635"
+    },
+    {
+      "path": "corpus/01-brokers/ssy/2026/ssy_19_10_2026_ssy_pacific_capesize_index_19_october_2026.pdf",
+      "bytes": 190877,
+      "sha256": "f88719e7cbf27648d7cad874d0cb41a660a587e8b3d0bc2ab186b81605958a38"
+    },
+    {
       "path": "corpus/01-brokers/ssy/2026/ssy_2026_20260116-Atlantic-Capesize-Report.pdf",
       "bytes": 167886,
       "sha256": "9fefeebec0e8f2b5949f1b16975cb4352e0a4671b10caf93e904d7ad46874383"
@@ -13171,6 +13216,11 @@
       "path": "corpus/01-brokers/star_asia/2026/star_asia_05_10_2026_star_asia_shipbroking_weekly_market_report_week_40.pdf",
       "bytes": 674277,
       "sha256": "955868f82571b12bfc798a8943c41c4a7af6e89e5070729676d03907fd2f696f"
+    },
+    {
+      "path": "corpus/01-brokers/star_asia/2026/star_asia_19_10_2026_star_asia_shipbroking_weekly_market_report_week_42.pdf",
+      "bytes": 682030,
+      "sha256": "68f273448dda6ead7fd8c5d0ec59a4afa780171c9f27442a0435a8e885c2f3e3"
     },
     {
       "path": "corpus/01-brokers/star_asia/2026/star_asia_2026_W01_Market-report-Week-1-2.pdf",

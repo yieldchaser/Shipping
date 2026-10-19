@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 13:52:31Z",
+  "updated_at": "2026-10-19 14:19:44Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -3012,7 +3012,7 @@
     {
       "file": "lion_deals_series.csv",
       "target_metric": "Secondhand sales transactions & demo deals",
-      "rows": 1312,
+      "rows": 1342,
       "columns": [
         "issue_date",
         "report_week",
@@ -3042,7 +3042,7 @@
     {
       "file": "lion_demo_sales_series.csv",
       "target_metric": "Reported demolition scrap sales fixtures ($/LDT)",
-      "rows": 109,
+      "rows": 110,
       "columns": [
         "issue_date",
         "report_week",
@@ -3085,7 +3085,7 @@
     {
       "file": "lion_demometer_series.csv",
       "target_metric": "Lion's Demometer sentiment & price indices ($/LDT)",
-      "rows": 576,
+      "rows": 588,
       "columns": [
         "issue_date",
         "report_week",
@@ -3102,7 +3102,7 @@
     {
       "file": "lion_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 1203,
+      "rows": 1232,
       "columns": [
         "issue_date",
         "report_week",
@@ -3482,7 +3482,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 10294,
+      "rows": 10438,
       "columns": [
         "route",
         "base",
@@ -3500,7 +3500,7 @@
     {
       "file": "ssy_capesize_index_time_series.csv",
       "target_metric": "SSY Capesize Index, historical changes, and T/C day rates",
-      "rows": 519,
+      "rows": 521,
       "columns": [
         "issue_date",
         "report_week",
@@ -3543,7 +3543,7 @@
     {
       "file": "ssy_route_rates_series.csv",
       "target_metric": "SSY assessed route freight rates ($/t) across Atlantic & Pacific",
-      "rows": 5190,
+      "rows": 5210,
       "columns": [
         "issue_date",
         "report_week",
@@ -3581,7 +3581,7 @@
     {
       "file": "star_asia_deals_series.csv",
       "target_metric": "Demolition beaching & arrival deals ($/LDT)",
-      "rows": 3362,
+      "rows": 3386,
       "columns": [
         "issue_date",
         "report_week",
@@ -3613,7 +3613,7 @@
     {
       "file": "star_asia_demolition_series.csv",
       "target_metric": "Indicative scrap prices by subcontinent yard ($/LDT)",
-      "rows": 3152,
+      "rows": 3168,
       "columns": [
         "issue_date",
         "report_week",
@@ -3924,13 +3924,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 686492,
+  "total_master_stacked_rows": 686770,
   "total_master_series_csvs": 165,
-  "total_stacked_rows": 686492,
+  "total_stacked_rows": 686770,
   "total_series_csvs": 165,
   "total_master_workbooks": 1,
   "total_series_count": 165,
-  "total_rows_extracted": 686797,
+  "total_rows_extracted": 687075,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 601,
     "advanced_shipping_demolition_series.csv": 2016,
@@ -4049,11 +4049,11 @@
     "intermodal_tc_rates_series.csv": 5273,
     "ism_coaster_freight_series.csv": 12491,
     "ism_handy_freight_series.csv": 17851,
-    "lion_deals_series.csv": 1312,
-    "lion_demo_sales_series.csv": 109,
+    "lion_deals_series.csv": 1342,
+    "lion_demo_sales_series.csv": 110,
     "lion_demolition_series.csv": 516,
-    "lion_demometer_series.csv": 576,
-    "lion_sales_series.csv": 1203,
+    "lion_demometer_series.csv": 588,
+    "lion_sales_series.csv": 1232,
     "poten_fixtures_series.csv": 100,
     "poten_fleet_delivery_schedule_series.csv": 36,
     "poten_fleet_statistics_series.csv": 8,
@@ -4073,13 +4073,13 @@
     "signal_reports_metadata.csv": 452,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 10294,
-    "ssy_capesize_index_time_series.csv": 519,
+    "ssy_capesize_index_series.csv": 10438,
+    "ssy_capesize_index_time_series.csv": 521,
     "ssy_capesize_series.csv": 8881,
-    "ssy_route_rates_series.csv": 5190,
+    "ssy_route_rates_series.csv": 5210,
     "star_asia_5y_history_series.csv": 760,
-    "star_asia_deals_series.csv": 3362,
-    "star_asia_demolition_series.csv": 3152,
+    "star_asia_deals_series.csv": 3386,
+    "star_asia_demolition_series.csv": 3168,
     "star_asia_ferrous_scrap_series.csv": 771,
     "star_asia_iron_ore_series.csv": 303,
     "star_asia_ldt_comparison_series.csv": 210,
