@@ -54,10 +54,16 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
    and `broker_reports_weekly.yml` saves `star_asia_DD_MM_2026_..._week_4x.pdf` (identical bytes, W41/W42).
    `star_asia_deals_series.csv` W40 rows cite `star_asia_05_10_2026_*.pdf`, which is not on disk.
    - [x] fetch guard: both fetchers skip bytes already held (`scripts/acquire/pdf_dedup.py`)
-   - [ ] duplicates removed  - [x] dangling W40 source_file fixed (series rows rebuilt from the W40 MD)
+   - [x] duplicates removed (2026-10-20, below)  - [x] dangling W40 source_file fixed (series rows rebuilt from the W40 MD)
    **Wider scan (2026-10-20):** 2,607 byte-identical PDF groups on disk, mostly untracked mirror folders
    (hellenic `iron_ore/pdfs/` vs `pdfs/YYYY/`, `demolition/pdfs/` vs `pdfs/<slug>/`, `shipbuilding/breakwave_pdfs/`,
    PPA `_root_pdfs/` vs `ppa_pdf/`, `corpus/archive/`). Duplicate **MDs** (what GraphRAG reads): 11 groups.
+   - [x] Tracked twins removed (2026-10-20): 1,527 git-tracked PDFs in `corpus/02-hellenic/{iron_ore,shipbuilding,
+     demolition}/pdfs/` that are byte-identical (md5 re-checked) to a twin in the same folder, where the twin has the
+     MD and the removed copy is cited nowhere (series, sidecars, MDs, derived JSON, HTML snapshots). Kept: 116 copies
+     cited by series rows and 16 cited by the legacy `knowledge/` index. Cause: `hellenic_scraper.py` and
+     `sync_hellenic_live.py` save the same issue under two names; the scraper now links the copy already held.
+     Untracked mirror folders and `corpus/books` were not touched.
    - [x] Hellenic MMI daily: every issue 2026-10-06..10-19 extracted twice (two filename schemes, same PDF bytes)
    - [x] Agora W41 2026 extracted twice: `agora_09_10_2026_*` archived as a twin (identical PDF bytes and body)
    - [x] `corpus/01-brokers/_digests/` (HSN fetcher output, 215 MDs) is a second Markdown copy of the issues in
