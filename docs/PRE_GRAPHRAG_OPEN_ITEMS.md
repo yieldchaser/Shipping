@@ -28,9 +28,12 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
    publisher and diffing against the repaired MD.
    - [x] Star Asia (02d4dfb3e3 and after: builder = MD tables, ferrous scrap via Nace + print gate in CI; price-trend
      series deleted as unlabelled-chart estimates; LDT comparison from printed labels, rebuilt offline, not in CI)
-   - [ ] Xclusiv: CI writes 4 of 10 series (sales, demolition, secondhand, demo sales). baltic_indices, macro_bunkers,
-     newbuilding(_orders/_prices) stop 2026-09-28 (offline repair), freight_benchmarks 2026-01-19. Port
-     the macro/bunker page builder and freight benchmarks into `extract_xclusiv`.  - [ ] Hellenic MMI  - [ ] Clarksons  - [ ] Breakwave  - [ ] Intermodal
+   - [x] Xclusiv (2026-10-20): the weekly ingest writes all 9 series (macro page via `xclusiv_macro_page.py`, freight
+     benchmarks via `xclusiv_freight_benchmarks.py`). Freight rebuilt from the commentary: 3,748 rows / 265 issues (old
+     236 filed Ultramax S11TC as Supramax 10TC and MR2 as LR2). Issue date = slug date (Oct issues were posting date).
+     `xclusiv_newbuilding_series.csv` (byte copy of _prices) deleted; legacy cover-to-cover script retired.
+     Proof: 2026-10-12 rows stripped and re-ingested = identical in 5 series.
+   - [ ] Hellenic MMI  - [ ] Clarksons  - [ ] Breakwave  - [ ] Intermodal
    - [x] Advanced Shipping (extractor fixed in bc6be6f998)
 2. **Duplicate Star Asia PDFs from two ingest paths.** `report_ingest.yml` saves `star_asia_2026_W4x_Market-Report-Week-4x.pdf`
    and `broker_reports_weekly.yml` saves `star_asia_DD_MM_2026_..._week_4x.pdf` (identical bytes, W41/W42).

@@ -239,7 +239,7 @@ The structured series layer contains over 60 stacked CSV datasets with over 140,
 3. **Time Charter (TC) & Spot Freight Rates**:
    * Master series: `hellenic_alibra_dry_tc_series.csv`, `hellenic_alibra_tanker_tc_series.csv`, `affinity_tce_series.csv` (dirty & clean routes), `intermodal_tc_rates_series.csv`, `intermodal_tanker_spot_series.csv`.
 4. **Newbuilding Contracting and Price Matrices**:
-   * Master series: `bancosta_newbuilding_series.csv`, `intermodal_newbuilding_series.csv`, `advanced_shipping_newbuilding_series.csv`, `xclusiv_newbuilding_series.csv`.
+   * Master series: `bancosta_newbuilding_series.csv`, `intermodal_newbuilding_series.csv`, `advanced_shipping_newbuilding_series.csv`, `xclusiv_newbuilding_prices_series.csv`.
 5. **AIS Fleet Telemetry & Congestion Queues**:
    * Master series: `drewry_ais_chart_series.csv` (exact chart lines) and the 10 `drewry_ais_<class>_series.csv` KPI files.
 6. **Offshore & Energy**:

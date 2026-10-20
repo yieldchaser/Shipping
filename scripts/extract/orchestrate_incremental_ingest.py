@@ -257,6 +257,41 @@ def extract_xclusiv(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
             xclusiv.DEMO_SALES_COLUMNS,
             ["issue_date", "NAME"]
         )
+        # Until 2026-10-20 the four below were returned by process_pdf but never written, so they stopped at the
+        # last offline rebuild (2026-09-28).
+        upsert_rows_to_csv(
+            SERIES_DIR / "xclusiv_baltic_indices_series.csv",
+            res.get("baltic", []),
+            xclusiv.BALTIC_COLUMNS,
+            ["issue_date", "sector", "index_name"]
+        )
+        upsert_rows_to_csv(
+            SERIES_DIR / "xclusiv_newbuilding_prices_series.csv",
+            res.get("nb_prices", []),
+            xclusiv.NB_PRICES_COLUMNS,
+            ["issue_date", "sector", "vessel_type"]
+        )
+        upsert_rows_to_csv(
+            SERIES_DIR / "xclusiv_newbuilding_orders_series.csv",
+            res.get("nb_orders", []),
+            ["issue_date", "report_week", "type", "units", "size", "yard", "buyer", "price", "delivery",
+             "comments", "page", "source_file"],
+            ["issue_date", "type", "yard", "buyer", "units", "size", "price", "delivery", "comments"]
+        )
+        import xclusiv_macro_page as xmp
+        upsert_rows_to_csv(
+            SERIES_DIR / "xclusiv_macro_bunkers_series.csv",
+            res.get("bunkers", []),
+            xmp.BUNKER_COLUMNS,
+            ["issue_date", "port"]
+        )
+        import xclusiv_freight_benchmarks as xfb
+        upsert_rows_to_csv(
+            SERIES_DIR / "xclusiv_freight_benchmarks_series.csv",
+            res.get("freight_benchmarks", []),
+            xfb.COLUMNS,
+            ["issue_date", "sector", "vessel_class", "metric"]
+        )
     return res
 
 

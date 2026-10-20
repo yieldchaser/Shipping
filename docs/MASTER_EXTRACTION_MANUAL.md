@@ -277,7 +277,7 @@ Every publisher collection in `corpus/01-brokers/` and key feeds has been system
 | **Poten & Partners** | 1,087 PDFs| Engine 1 + Engine 3 (Multi-page Archive) | `poten_top_charterers_series.csv` (1,579 rows)<br/>`poten_opinions_metadata.csv` (1,648 rows) | **100% Closed & Audited** |
 | **SSY Capesize** | 519 PDFs | Engine 2 (Vector Geometry Engine) | `ssy_capesize_index_series.csv` (8,737 rows) | **100% Closed & Audited** |
 | **Star Asia** | 194 PDFs | Engine 1 (100% Digital Vector Tables) | 6 Master CSVs (12,481 rows: deals, demo, S&P, valuation, scrap, LDT) | **100% Closed & Audited** |
-| **Xclusiv** | 266 PDFs | Engine 1 + Engine 3 (Cover-to-Cover) | `xclusiv_sales_series.csv` (7,370 rows)<br/>`xclusiv_secondhand_series.csv` (2,800 rows)<br/>`xclusiv_demolition_series.csv` (2,423 rows)<br/>`xclusiv_freight_benchmarks_series.csv` (1,328 rows) | **100% Closed & Audited** |
+| **Xclusiv** | 265 issues | PyMuPDF text layer + word geometry (`run_xclusiv_tables.py`, weekly ingest) | `xclusiv_sales_series.csv` (5,584 rows)<br/>`xclusiv_secondhand_series.csv` (8,593 rows)<br/>`xclusiv_demolition_series.csv` (2,098 rows)<br/>`xclusiv_freight_benchmarks_series.csv` (3,748 rows)<br/>+5 more (see register) | **100% Closed & Audited** |
 | **Singletons** | 2 PDFs | Engine 1 (Coordinate Parser) | `singletons_sales_series.csv` (46 rows) | **100% Closed & Audited** |
 
 ---
@@ -294,21 +294,21 @@ All normalized time-series datasets are persisted in [`data/extracted/series/`](
 | `ism_coaster_freight_series.csv` | **13,281** | `issue_date,week,route,cargo,rate_usd_t,tce_usd_day,value_sd` | European coasters, Black Sea, Danube, and Med freight rates. |
 | `agora_indicators_series.csv` | **10,002** | `issue_date,week,indicator_group,indicator_name,value` | Macro commercial shipping indicators. |
 | `ssy_capesize_index_series.csv` | **8,737** | `route,base,year,month,bucket,n_reports,value,min,max,value_sd` | SSY Atlantic and Pacific Capesize Index read off the vector chart lines, keyed by year, month and 4-day bucket. |
-| `xclusiv_sales_series.csv` | **7,370** | `issue_date,week,vessel_name,type,dwt,built,price_usd_m` | Secondhand bulk carrier and tanker transactions. |
+| `xclusiv_sales_series.csv` | **5,584** | `issue_date,report_week,section,page,NAME,TYPE,DWT,YEAR,COUNTRY,YARD,BUYERS,PRICE,PRICE_USD_MILL,COMMENTS,source_file` | Secondhand bulk carrier and tanker transactions. |
 | `advanced_shipping_sales_series.csv` | **5,917** | `issue_date,week,vessel_name,type,dwt,built,yard,price_usd_m` | Secondhand S&P sales with European number handling. |
 | `affinity_tce_series.csv` | **4,077** | `issue_date,week,sector,route,quantity_mt,tce_usd_day` | Baltic TCE Dirty and Clean tanker route rates. |
 | `star_asia_deals_series.csv` | **3,327** | `issue_date,week,deal_type,vessel_name,type,ldt,price,yard` | Cash buyer recycling fixtures and beaching positions. |
 | `star_asia_snp_sales_series.csv` | **3,097** | `issue_date,week,vessel_name,type,dwt,year_built,price_usd_m` | Secondhand commercial S&P vessel sale transactions. |
 | `star_asia_demolition_series.csv` | **3,072** | `issue_date,week,destination,segment,price_low,price_high` | Authoritative indicative demolition prices ($/LDT). |
 | `carriers_sales_series.csv` | **2,889** | `issue_date,week,vessel_name,type,dwt,built,price_usd_m` | Carriers Chartering secondhand sale transactions. |
-| `xclusiv_secondhand_series.csv` | **2,800** | `issue_date,week,sector,vessel_class,age_profile,price_usd_m` | Secondhand asset valuation matrix (Resale, 5Y, 10Y, 15Y). |
+| `xclusiv_secondhand_series.csv` | **8,593** | `issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file` | Secondhand asset valuation matrix (Resale, 5Y, 10Y, 15Y). |
 | `drewry_ais_*_series.csv` (10 files) | **2,760** | `issue_date,week,speed_knots,utilization_pct,tonne_miles` | Speeds, utilization, tonne-miles for 10 vessel classes. |
-| `xclusiv_demolition_series.csv` | **2,423** | `issue_date,week,destination,segment,price_usd_per_ldt` | Subcontinent recycling price assessments. |
+| `xclusiv_demolition_series.csv` | **2,098** | `issue_date,report_week,segment,country,price_usd_per_ldt,source_file` | Subcontinent recycling price assessments. |
 | `star_asia_valuation_matrix_series.csv` | **2,004** | `issue_date,week,sector,vessel_type,nb_contract,5y_val,10y_val` | Secondhand valuation matrices and newbuilding benchmarks. |
 | `advanced_shipping_demolition_series.csv`| **1,992** | `issue_date,week,destination,segment,price_usd_per_ldt` | Indicative scrap prices for India, Pak, Bdesh, Turkey. |
 | `advanced_shipping_newbuilding_series.csv`| **1,881** | `issue_date,week,units,dwt,yard,delivery,price_usd_m,owner` | Global shipyard newbuilding orders and reported contracts. |
 | `poten_top_charterers_series.csv` | **1,579** | `issue_date,year,report_period,segment,rank,charterer,cargo_mt` | Unbroken 2005–2026 dirty tanker charterer rankings. |
-| `xclusiv_freight_benchmarks_series.csv` | **1,328** | `issue_date,week,sector,route_or_tenor,rate_current` | Baltic freight benchmarks and 1Y time-charter rates. |
+| `xclusiv_freight_benchmarks_series.csv` | **3,748** | `issue_date,report_week,sector,vessel_class,metric,rate_usd_day,source_file` | Index averages (C5TC, P5TC, S11TC, S10TC, 7TC), tanker average T/CE and 1y T/C rates, as printed in the freight commentary. |
 | `hellenic_iron_ore_series.csv` | **1,171** | `issue_date,product_origin,grade,price_usd_per_dmt` | Spot iron ore assessments (62% Fe CFR China, lump, pellets). |
 | `hellenic_capesize_freight_series.csv` | **1,164** | `issue_date,route,freight_usd_per_t` | Key iron ore Capesize routes (Tubarao-Qingdao, W.Aust-Qingdao). |
 | `lion_sales_series.csv` | **1,145** | `issue_date,week,vessel_name,type,dwt,built,price_usd_m` | Lion Shipbrokers secondhand sales transactions. |

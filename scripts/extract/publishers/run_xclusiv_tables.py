@@ -46,6 +46,7 @@ PUB = "xclusiv"
 CORPUS_DIR = ROOT / "corpus" / "01-brokers" / PUB
 OUT_MD = ROOT / "data" / "extracted" / "md" / PUB
 OUT_SERIES = ROOT / "data" / "extracted" / "series"
+MONTHS3 = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
 
 
 def byte_duplicate_stems() -> set:
@@ -78,7 +79,7 @@ DEMO_SERIES_CSV = OUT_SERIES / "xclusiv_demolition_series.csv"
 SECONDHAND_SERIES_CSV = OUT_SERIES / "xclusiv_secondhand_series.csv"
 DEMO_SALES_SERIES_CSV = OUT_SERIES / "xclusiv_demo_sales_series.csv"
 BALTIC_SERIES_CSV = OUT_SERIES / "xclusiv_baltic_indices_series.csv"
-NB_PRICES_SERIES_CSV = OUT_SERIES / "xclusiv_newbuilding_series.csv"
+NB_PRICES_SERIES_CSV = OUT_SERIES / "xclusiv_newbuilding_prices_series.csv"   # xclusiv_newbuilding_series.csv was a byte-identical copy (deleted 2026-10-20)
 
 MONTH_MAP = {
     "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
@@ -185,9 +186,15 @@ def extract_meta(doc: pymupdf.Document, pdf_path: Path) -> Tuple[str, int]:
     issue_date = None
     week_num = None
 
-    # Priority 1: Canonical date from filename (immune to prose noise)
+    # Priority 1: Canonical date from filename (immune to prose noise). The HSN feed names files
+    # <posting date>_<report slug> ('xclusiv_13_10_2026_..._weekly_12th_october_2026'): the report's
+    # own date is the one in the slug, the leading one is the day HSN posted it.
+    m_slug = re.search(r"_(\d{1,2})(?:st|nd|rd|th)_([a-z]+)_(\d{4})", fn, re.I)
     m_fn1 = re.search(r"(\d{4})_(\d{1,2})_(\d{1,2})", fn)
-    if m_fn1:
+    if m_slug and m_slug.group(2).lower()[:3] in MONTHS3:
+        issue_date = (f"{int(m_slug.group(3)):04d}-{MONTHS3.index(m_slug.group(2).lower()[:3]) + 1:02d}"
+                      f"-{int(m_slug.group(1)):02d}")
+    elif m_fn1:
         issue_date = f"{int(m_fn1.group(1)):04d}-{int(m_fn1.group(2)):02d}-{int(m_fn1.group(3)):02d}"
     else:
         m_fn2 = re.search(r"(\d{1,2})_(\d{1,2})_(\d{4})", fn)
@@ -1741,6 +1748,19 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
         sales, demo_prices, demo_sales, nb_notes
     )
 
+    # Macro page (Commodities & Currencies, Bunker Prices, markets commentary): appended as the last section,
+    # exactly as the stored MDs were rebuilt on 2026-10-19 (xclusiv_macro_page reproduces all 263 of them).
+    import xclusiv_macro_page as xmp
+    macro_lines, macro_blocks, macro_status = xmp.extract(doc)
+    if macro_lines:
+        md_content = md_content.rstrip("\n") + "\n" + "\n".join(macro_lines).rstrip("\n") + "\n"
+    else:
+        print(f"  [xclusiv] macro page not added for {stem}: {macro_status}")
+    bunkers = xmp.bunker_rows(macro_blocks, issue_date, stem, report_week)
+    sidecar_json["bunker_prices"] = bunkers
+    import xclusiv_freight_benchmarks as xfb
+    freight_benchmarks = xfb.rows(xfb.paragraphs_from_doc(doc), issue_date, report_week, stem)
+
     year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
     dest_dir = OUT_MD / year_str
     dest_dir.mkdir(parents=True, exist_ok=True)
@@ -1762,6 +1782,8 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
         "nb_orders": nb_orders,
         "nb_prices": nb_prices,
         "baltic": baltic,
+        "bunkers": bunkers,
+        "freight_benchmarks": freight_benchmarks,
     }
 
 

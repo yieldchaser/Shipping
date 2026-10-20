@@ -233,6 +233,11 @@ def extract_bunker_prices(text, issue_date, report_week, stem):
     return records
 
 def main():
+    # Retired 2026-10-20: its freight regexes stopped at the first '.' and filed Ultramax S11TC as Supramax 10TC,
+    # and it rewrites every MD. The weekly ingest (run_xclusiv_tables.process_pdf) writes all nine series now.
+    if os.environ.get("ALLOW_LEGACY_XCLUSIV_C2C") != "1":
+        raise SystemExit("run_xclusiv_full_cover_to_cover.py: retired - Xclusiv is parsed by run_xclusiv_tables.py "
+                         "(xclusiv_macro_page.py, xclusiv_freight_benchmarks.py). Set ALLOW_LEGACY_XCLUSIV_C2C=1 to override.")
     pdf_files = sorted(glob.glob(str(CORPUS_DIR / "**" / "*.pdf"), recursive=True))
     _dup = _byte_duplicate_stems(CORPUS_DIR)
     if _dup:

@@ -115,7 +115,8 @@ def stage_extract() -> bool:
         ("VesselsValue Incremental Extraction", [sys.executable, "-m", "scripts.parse_engine_html", "vv", "--incremental"]),
         ("SSY Capesize Index & Routes Extraction", [sys.executable, "scripts/extract/publishers/run_ssy_complete.py"]),
         ("Breakwave Clean LiteParse Extraction", [sys.executable, "scripts/extract/publishers/run_breakwave_clean_liteparse.py", "--batch"]),
-        ("Xclusiv Cover-to-Cover Extraction", [sys.executable, "scripts/extract/publishers/run_xclusiv_full_cover_to_cover.py"]),
+        # Xclusiv: the weekly ingest (orchestrate_incremental_ingest.extract_xclusiv) writes all nine series;
+        # the retired cover-to-cover script refuses to run.
         ("Star Asia Table Extraction", [sys.executable, "scripts/extract/publishers/run_star_asia_tables.py"]),
     ]
     

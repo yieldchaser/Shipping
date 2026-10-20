@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 20:57:34Z",
+  "updated_at": "2026-10-20 05:14:28Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -208,7 +208,7 @@
       "tooling": "LlamaParse cost_effective + World-Class Markdown Normalizer (run_star_asia_world_class.py)"
     },
     "xclusiv": {
-      "total_docs": 266,
+      "total_docs": 265,
       "eras": "2021-2026",
       "status": "CLOSED",
       "deliverables": [
@@ -220,20 +220,22 @@
         "data/extracted/series/xclusiv_macro_bunkers_series.csv",
         "data/extracted/series/xclusiv_demo_sales_series.csv",
         "data/extracted/series/xclusiv_freight_benchmarks_series.csv",
+        "data/extracted/series/xclusiv_baltic_indices_series.csv",
         "data/extracted/md/xclusiv/"
       ],
-      "rows_extracted": 21135,
-      "sales_rows": 5713,
+      "rows_extracted": 25447,
+      "sales_rows": 5584,
       "demolition_price_rows": 2098,
       "secondhand_matrix_rows": 8593,
-      "demo_sales_rows": 618,
+      "demo_sales_rows": 610,
       "newbuilding_price_rows": 1397,
-      "newbuilding_order_rows": 1329,
-      "freight_benchmark_rows": 238,
-      "macro_bunker_rows": 651,
-      "skipped": "Contacts page (by design). The commodities page was missing until 08e38a6712; `xclusiv_freight_benchmarks_series.csv` stops at 2026-01-19 (not built by the weekly ingest)",
-      "verification": "266/266 PDFs processed cover-to-cover (100.0%, 1,938 pages); Pages 2-3 freight benchmarks and Pages 8-9 bunker spreads recovered with 100% ground-truth verification; 21,135 rows across 10 series",
-      "tooling": "LiteParse cover-to-cover + LlamaParse table parser (run_xclusiv_full_cover_to_cover.py)"
+      "newbuilding_order_rows": 1328,
+      "freight_benchmark_rows": 3748,
+      "macro_bunker_rows": 1060,
+      "skipped": "Contacts page (by design). Charts are not read (no printed values)",
+      "verification": "265 issues; macro page (commodities, currencies, bunkers) in every MD since 08e38a6712; freight benchmarks taken from the commentary sentence that names each index (rebuilt 2026-10-20); 9 series, all written by the weekly ingest",
+      "tooling": "PyMuPDF text layer + word geometry (run_xclusiv_tables.py, xclusiv_macro_page.py, xclusiv_freight_benchmarks.py)",
+      "baltic_index_rows": 1029
     },
     "banchero_costa": {
       "total_docs": 245,
@@ -3722,7 +3724,7 @@
     {
       "file": "xclusiv_baltic_indices_series.csv",
       "target_metric": "Xclusiv Baltic Indices",
-      "rows": 1015,
+      "rows": 1029,
       "columns": [
         "issue_date",
         "report_week",
@@ -3775,7 +3777,7 @@
     {
       "file": "xclusiv_freight_benchmarks_series.csv",
       "target_metric": "Freight spot earnings & 1Y TC benchmarks ($/day)",
-      "rows": 238,
+      "rows": 3748,
       "columns": [
         "issue_date",
         "report_week",
@@ -3790,7 +3792,7 @@
     {
       "file": "xclusiv_macro_bunkers_series.csv",
       "target_metric": "Macro commodity prices & bunker spreads ($/t)",
-      "rows": 1052,
+      "rows": 1060,
       "columns": [
         "issue_date",
         "report_week",
@@ -3806,7 +3808,7 @@
     {
       "file": "xclusiv_newbuilding_orders_series.csv",
       "target_metric": "Newbuilding reported contracts & orders",
-      "rows": 1313,
+      "rows": 1328,
       "columns": [
         "issue_date",
         "report_week",
@@ -3826,21 +3828,7 @@
     {
       "file": "xclusiv_newbuilding_prices_series.csv",
       "target_metric": "Indicative newbuilding prices ()",
-      "rows": 1379,
-      "columns": [
-        "issue_date",
-        "report_week",
-        "sector",
-        "vessel_type",
-        "price_usd_mill",
-        "source_file"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "xclusiv_newbuilding_series.csv",
-      "target_metric": "Xclusiv Newbuilding",
-      "rows": 1379,
+      "rows": 1397,
       "columns": [
         "issue_date",
         "report_week",
@@ -3890,13 +3878,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 701783,
-  "total_master_series_csvs": 163,
-  "total_stacked_rows": 701783,
-  "total_series_csvs": 163,
+  "total_master_stacked_rows": 703969,
+  "total_master_series_csvs": 162,
+  "total_stacked_rows": 703969,
+  "total_series_csvs": 162,
   "total_master_workbooks": 1,
-  "total_series_count": 163,
-  "total_rows_extracted": 702088,
+  "total_series_count": 162,
+  "total_rows_extracted": 704274,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 606,
     "advanced_shipping_demolition_series.csv": 2024,
@@ -4051,14 +4039,13 @@
     "star_asia_metals_energy_series.csv": 1382,
     "star_asia_snp_sales_series.csv": 3696,
     "star_asia_valuation_matrix_series.csv": 3346,
-    "xclusiv_baltic_indices_series.csv": 1015,
+    "xclusiv_baltic_indices_series.csv": 1029,
     "xclusiv_demo_sales_series.csv": 610,
     "xclusiv_demolition_series.csv": 2098,
-    "xclusiv_freight_benchmarks_series.csv": 238,
-    "xclusiv_macro_bunkers_series.csv": 1052,
-    "xclusiv_newbuilding_orders_series.csv": 1313,
-    "xclusiv_newbuilding_prices_series.csv": 1379,
-    "xclusiv_newbuilding_series.csv": 1379,
+    "xclusiv_freight_benchmarks_series.csv": 3748,
+    "xclusiv_macro_bunkers_series.csv": 1060,
+    "xclusiv_newbuilding_orders_series.csv": 1328,
+    "xclusiv_newbuilding_prices_series.csv": 1397,
     "xclusiv_sales_series.csv": 5584,
     "xclusiv_secondhand_series.csv": 8593
   }

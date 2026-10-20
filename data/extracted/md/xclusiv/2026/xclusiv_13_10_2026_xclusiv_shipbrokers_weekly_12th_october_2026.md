@@ -1,6 +1,6 @@
 ---
 title: "Xclusiv Shipbrokers Weekly Market Report - Week 41, 2026"
-issue_date: "2026-10-13"
+issue_date: "2026-10-12"
 report_week: 41
 year: 2026
 broker: "Xclusiv Shipbrokers"
@@ -20,7 +20,7 @@ baltic_indices_count: 7
 # Xclusiv Shipbrokers Weekly Market Report - Week 41, 2026
 
 - **Publisher**: Xclusiv Shipbrokers Inc.
-- **Issue Date**: 2026-10-13 (Week 41)
+- **Issue Date**: 2026-10-12 (Week 41)
 - **Source**: `corpus/01-brokers/xclusiv/2026/xclusiv_13_10_2026_xclusiv_shipbrokers_weekly_12th_october_2026.pdf`
 - **Pages**: 9 (Cover-to-cover extraction of useful pages 1 to 7; final 2 pages discarded per notes)
 
@@ -234,3 +234,69 @@ The tanker S&P market witnessed significant activity this week, particularly in 
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial Average gained 0.9% to close at 51,655 points, while the S&P 500 rose 1.15% to 7,812 points and the Nasdaq advanced 0.64% to 27,366 points on a weekly basis. European markets ended the week broadly un-changed, with the Euro Stoxx 50 slipping 0.47% to 6,209 points and the Stoxx 600 edging up 0.03% to 632 points. In Asia, the Nikkei gained 1.06% to 69,031 points, the Hang Seng rose 1.0% to 24,211 points, while the CSI 300 declined 0.93% to 4,317 points.
+- Crude oil prices slipped toward $90/bbl on Monday, ending a two-session rally as expectations of renewed Russian diesel exports eased global fuel supply concerns. President Trump announced a diesel supply agreement with Moscow and claimed an immediate Russia-Ukraine energy ceasefire. Meanwhile, renewed Houthi attacks on Saudi Arabia’s main airport raised the prospect of U.S. retaliation. Amid escalating regional tensions, Iran’s Foreign Minister Abbas Araghchi re-portedly contacted his Saudi counterpart to discuss recent developments and potential de-escalation efforts.
+- European natural gas prices climbed toward €82/MWh on Monday, reaching a four-week high as renewed tanker at-tacks in the Strait of Hormuz heightened concerns over LNG supplies. Although European storage levels have risen to around 73%, inventories remain below last year’s levels, while cooler weather could accelerate heating demand. European gas operators warned that tight supplies could push storage below 30% by winter’s end.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 92.57 | 3.44% | 61.10% |
+| Brent | 105.65 | 5.24% | 73.51% |
+| Natural gas | 3.14 | 2.27% | -14.93% |
+| Gasoline | 3.31 | 1.79% | 93.13% |
+| Heating oil | 4.64 | 2.26% | 119.09% |
+| Ethanol | 2.01 | 0.88% | 26.77% |
+| Naphtha | 874.93 | 5.98% | 79.15% |
+| Propane | 1.00 | 9.90% | 57.72% |
+| Uranium | 90.00 | 0.06% | 10.23% |
+| Methanol | 4034.00 | -1.66% | 84.20% |
+| TTF Gas | 83.07 | 13.03% | 195.06% |
+| UK Gas | 206.76 | 12.69% | 180.29% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4,177.5 | 0.89% | -3.31% |
+| Silver | 60.6 | -0.75% | -14.97% |
+| Platinum | 1,698.1 | -1.49% | -17.97% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 6.70 | 1.64% | 17.80% |
+| Coal | 148.85 | -0.07% | 38.47% |
+| Steel | 3095.00 | 0.75% | -0.03% |
+| Iron Ore | 90.68 | -0.73% | -15.36% |
+| Aluminum | 3056.75 | -2.24% | 1.99% |
+| LithiumCNY/T | 115400.00 | -7.64% | -2.62% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.119 | -0.27% | -4.66% |
+| GBP/USD | 1.324 | 0.12% | -1.65% |
+| USD/JPY | 158.447 | 0.34% | 1.08% |
+| USD/CNY | 6.694 | -0.14% | -4.05% |
+| USD/CHF | 0.832 | 0.22% | 4.98% |
+| USD/SGD | 1.280 | 0.07% | -0.45% |
+| USD/KRW | 1331.640 | -0.76% | -7.57% |
+| USD/INR | 96.057 | -0.27% | 6.88% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- | Diff Spread | % Spread |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 889.50 | 810.00 | 1281.0 | 79.50 | -34.5 | -30.3% |
+| Rotterdam | 715.00 | 659.00 | 1374.0 | 56.00 | -7.0 | -11.1% |
+| Fujairah | 967.50 | 711.50 | 1694.5 | 256.00 | -28.0 | -9.9% |
+| Houston | 763.00 | 576.00 | 1419.5 | 187.00 | -4.0 | -2.1% |

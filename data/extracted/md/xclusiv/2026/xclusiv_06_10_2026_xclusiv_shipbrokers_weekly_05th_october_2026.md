@@ -1,6 +1,6 @@
 ---
 title: "Xclusiv Shipbrokers Weekly Market Report - Week 40, 2026"
-issue_date: "2026-10-06"
+issue_date: "2026-10-05"
 report_week: 40
 year: 2026
 broker: "Xclusiv Shipbrokers"
@@ -20,7 +20,7 @@ baltic_indices_count: 7
 # Xclusiv Shipbrokers Weekly Market Report - Week 40, 2026
 
 - **Publisher**: Xclusiv Shipbrokers Inc.
-- **Issue Date**: 2026-10-06 (Week 40)
+- **Issue Date**: 2026-10-05 (Week 40)
 - **Source**: `corpus/01-brokers/xclusiv/2026/xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf`
 - **Pages**: 9 (Cover-to-cover extraction of useful pages 1 to 7; final 2 pages discarded per notes)
 
@@ -125,24 +125,24 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week higher by 15.5
 
 ### Dry Secondhand Prices ($ mills)
 
-| Vessel Type | Tenor | Price ($M) |
-|---|---|---|
-| Capesize | Resale | $83.0M |
-| Capesize | 5 Year | $74.0M |
-| Capesize | 10 Year | $58.0M |
-| Capesize | 15 Year | $38.5M |
-| Kamsarmax | Resale | $47.0M |
-| Kamsarmax | 5 Year | $42.0M |
-| Kamsarmax | 10 Year | $34.0M |
-| Kamsarmax | 15 Year | $23.0M |
-| Ultramax | Resale | $44.0M |
-| Ultramax | 5 Year | $39.0M |
-| Ultramax | 10 Year | $30.5M |
-| Ultramax | 15 Year | $20.0M |
-| Handysize | Resale | $37.5M |
-| Handysize | 5 Year | $31.5M |
-| Handysize | 10 Year | $24.0M |
-| Handysize | 15 Year | $15.0M |
+| Vessel Type | Tenor | Oct 2026 | Oct 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
+|---|---|---|---|---|---|---|---|
+| Capesize | Resale | 83.0 | 75.5 | 10% | 81.1 | 75.7 | 75.7 |
+| Capesize | 5 Year | 74.0 | 63.0 | 17% | 71.2 | 62.6 | 62.6 |
+| Capesize | 10 Year | 58.0 | 48.0 | 21% | 55.0 | 45.6 | 43.1 |
+| Capesize | 15 Year | 38.5 | 28.6 | 35% | 36.1 | 27.4 | 27.9 |
+| Kamsarmax | Resale | 47.0 | 38.7 | 21% | 43.9 | 38.7 | 41.8 |
+| Kamsarmax | 5 Year | 42.0 | 32.5 | 29% | 37.8 | 32.3 | 32.3 |
+| Kamsarmax | 10 Year | 34.0 | 25.4 | 34% | 29.1 | 24.8 | 27.3 |
+| Kamsarmax | 15 Year | 23.0 | 16.2 | 42% | 20.1 | 15.6 | 18.1 |
+| Ultramax | Resale | 44.0 | 37.9 | 16% | 42.3 | 37.8 | 40.6 |
+| Ultramax | 5 Year | 39.0 | 31.1 | 26% | 36.8 | 31.1 | 31.1 |
+| Ultramax | 10 Year | 30.5 | 23.0 | 33% | 28.2 | 22.9 | 26.0 |
+| Supramax | 15 Year | 20.0 | 15.5 | 29% | 17.5 | 15.0 | 15.9 |
+| Handysize | Resale | 37.5 | 33.0 | 14% | 35.9 | 33.0 | 34.0 |
+| Handysize | 5 Year | 31.5 | 26.5 | 19% | 29.6 | 25.9 | 25.9 |
+| Handysize | 10 Year | 24.0 | 20.4 | 18% | 22.6 | 19.0 | 19.8 |
+| Handysize | 15 Year | 15.0 | 12.0 | 25% | 13.5 | 11.7 | 12.3 |
 
 ### Dry S&P Activity Commentary
 
@@ -161,24 +161,24 @@ Far Eastern buyers have acquired the Capesize “Ekaterini V” - 173K/2012 Boha
 
 ### Tanker Secondhand Prices ($ mills)
 
-| Vessel Type | Tenor | Price ($M) |
-|---|---|---|
-| VLCC | Resale | $230.0M |
-| VLCC | 5 Year | $210.0M |
-| VLCC | 10 Year | $185.0M |
-| VLCC | 15 Year | $160.0M |
-| Suezmax | Resale | $140.0M |
-| Suezmax | 5 Year | $122.0M |
-| Suezmax | 10 Year | $100.0M |
-| Suezmax | 15 Year | $78.0M |
-| Aframax | Resale | $100.0M |
-| Aframax | 5 Year | $85.0M |
-| Aframax | 10 Year | $72.5M |
-| Aframax | 15 Year | $58.0M |
-| MR2 | Resale | $60.0M |
-| MR2 | 5 Year | $52.0M |
-| MR2 | 10 Year | $42.0M |
-| MR2 | 15 Year | $30.0M |
+| Vessel Type | Tenor | Oct 2026 | Oct 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
+|---|---|---|---|---|---|---|---|
+| VLCC | Resale | 230.0 | 147.0 | 56% | 176.3 | 146.6 | 144.2 |
+| VLCC | 5 Year | 210.0 | 116.9 | 80% | 147.1 | 115.4 | 115.4 |
+| VLCC | 10 Year | 185.0 | 85.6 | 116% | 120.3 | 85.3 | 84.1 |
+| VLCC | 15 Year | 160.0 | 57.7 | 177% | 89.9 | 56.2 | 57.1 |
+| Suezmax | Resale | 140.0 | 93.8 | 49% | 114.5 | 94.3 | 98.4 |
+| Suezmax | 5 Year | 122.0 | 76.6 | 59% | 97.7 | 76.5 | 76.5 |
+| Suezmax | 10 Year | 100.0 | 60.5 | 65% | 80.6 | 61.0 | 66.3 |
+| Suezmax | 15 Year | 78.0 | 40.6 | 92% | 60.2 | 40.8 | 47.4 |
+| Aframax | Resale | 100.0 | 74.6 | 34% | 89.9 | 75.6 | 84.3 |
+| Aframax | 5 Year | 85.0 | 62.0 | 37% | 78.0 | 62.8 | 62.8 |
+| Aframax | 10 Year | 72.5 | 50.3 | 44% | 66.8 | 50.9 | 58.2 |
+| Aframax | 15 Year | 58.0 | 35.3 | 64% | 47.4 | 35.1 | 41.6 |
+| MR2 | Resale | 60.0 | 51.0 | 18% | 54.8 | 51.3 | 54.3 |
+| MR2 | 5 Year | 52.0 | 42.5 | 22% | 48.0 | 41.5 | 41.5 |
+| MR2 | 10 Year | 42.0 | 33.3 | 26% | 38.2 | 31.4 | 37.5 |
+| MR2 | 15 Year | 30.0 | 20.6 | 45% | 26.7 | 20.5 | 26.5 |
 
 ### Tanker S&P Activity Commentary
 
@@ -236,3 +236,69 @@ In VLCC sector there is only the old sale of “Seeb” - 319K/2011 Daewoo and �
 ## Legal Disclaimer
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
+
+## Commodities and Currencies
+
+### Markets Commentary
+
+- In the U.S., the Dow Jones Industrial average decreased by 1.3% at 51,177 points, S&P 500 went down by 0.27% at 7,723 points and NASDAQ rise by 0.45% at 27,191 points. In Europe, with the Euro Stoxx50 closing down by only 1.02% at 6,239 points and Stoxx600 down by 1.14% at 631 points mark. In Asia, the Nikkei closed the week at 68,309, gaining 2.93% on a weekly basis, while Hang Seng went down by 2.19% at 23,972 points mark and the CSI 300 index closed the week at 4,358 points, 1.84% lower than previous week.
+- Crude oil held below $91 a barrel on Monday, with markets balancing easing supply pressures against renewed geopoliti-cal risks. Prices came under pressure after Saudi Aramco cut the November selling price of Arab Light to Asian buyers to $5 a barrel below the regional benchmark, a deeper discount than the $2 offered for October.
+- Soybean futures fell to around $12.7 per bushel, nearing a five-week low as harvest pressure from an expected record-large US crop weighed on prices. A wet late summer and early autumn slowed the harvest pace, but the arrival of new sup-plies continued to pressure the market. The harvest was 17% complete as of September 27, matching the five-year average, with the crop rated 58% good or excellent.
+
+### Energy
+
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 90.69 | -2.07% | 57.92% |
+| Brent | 102.82 | 5.10% | 68.97% |
+| Natural gas | 3.04 | -2.20% | -17.59% |
+| Gasoline | 3.29 | 4.29% | 92.49% |
+| Heating oil | 4.57 | 1.62% | 115.32% |
+| Ethanol | 2.02 | -5.16% | 27.24% |
+| Naphtha | 825.53 | 1.69% | 69.04% |
+| Propane | 0.91 | 4.93% | 43.52% |
+| Uranium | 89.95 | 0.50% | 10.17% |
+| Methanol | 3850.00 | 14.96% | 75.80% |
+| TTF Gas | 74.45 | 4.61% | 164.79% |
+| UK Gas | 185.92 | 3.78% | 152.48% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4,157.9 | 1.05% | -3.74% |
+| Silver | 61.7 | 1.76% | -13.43% |
+| Platinum | 1,737.0 | -0.36% | -16.01% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 6.54 | -0.47% | 15.08% |
+| Coal | 148.95 | 3.62% | 38.56% |
+| Steel | 3109.00 | 0.36% | 0.42% |
+| Iron Ore | 91.35 | -5.88% | -14.73% |
+| Aluminum | 3114.18 | -4.23% | 3.93% |
+| LithiumCNY/T | 122800.00 | -9.17% | 3.63% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.121 | -1.44% | -4.55% |
+| GBP/USD | 1.323 | -0.21% | -1.73% |
+| USD/JPY | 157.970 | 0.35% | 0.77% |
+| USD/CNY | 6.707 | -0.08% | -3.86% |
+| USD/CHF | 0.830 | -0.30% | 4.63% |
+| USD/SGD | 1.280 | 0.22% | -0.48% |
+| USD/KRW | 1345.270 | -1.04% | -6.62% |
+| USD/INR | 96.471 | 0.54% | 7.34% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- | Diff Spread | % Spread |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 867.50 | 753.50 | 1297.0 | 114.00 | -43.0 | -27.4% |
+| Rotterdam | 686.00 | 623.00 | 1391.0 | 63.00 | -36.0 | -36.4% |
+| Fujairah | 951.50 | 667.50 | 1663.5 | 284.00 | 45.0 | 18.8% |
+| Houston | 730.00 | 539.00 | 1383.0 | 191.00 | -49.0 | -20.4% |
