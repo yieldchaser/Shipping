@@ -152,12 +152,12 @@ Secondhand Sales
 
 ## Tankers
 
-| Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | CAPE BENAT | 156,642 | 2010 | JIANGSU RONGSHENG, China | MAN B\&W | Mar-30 | DH |
-| MR | LUCTOR | 50,383 | 2011 | ONOMICHI, Japan | MAN B\&W | Nov-26 | DH |
-| MR | TURMOIL | 49,997 | 2011 | ONOMICHI, Japan | MAN B\&W | Oct-26 | DH |
-| MR | LADY OF DORIA | 46,846 | 2006 | NAIKAI ZOSEN, Japan | MAN B\&W | Aug-29 | DH |
+| Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| SUEZ | CAPE BENAT | 156,642 | 2010 | JIANGSU RONGSHENG, China | MAN B\&W | Mar-30 | DH | $ 62.5m | UAE based | Scrubber fitted |
+| MR | LUCTOR | 50,383 | 2011 | ONOMICHI, Japan | MAN B\&W | Nov-26 | DH | $ 26.0m each | European | bareboat back for circa 2-3 year at 16k p/d |
+| MR | TURMOIL | 49,997 | 2011 | ONOMICHI, Japan | MAN B\&W | Oct-26 | DH | $ 26.0m each | European | bareboat back for circa 2-3 year at 16k p/d |
+| MR | LADY OF DORIA | 46,846 | 2006 | NAIKAI ZOSEN, Japan | MAN B\&W | Aug-29 | DH | high $ 14.0m | Far Eastern |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |

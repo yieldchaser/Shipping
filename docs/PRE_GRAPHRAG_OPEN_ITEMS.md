@@ -79,9 +79,12 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
       (2021-23 headers carry a section prefix the parser missed), 20 first rows of en bloc groups given the marker,
       630 HTML entities decoded; same in 116 sidecars. 130 MDs: `&amp;` / `\&amp;` decoded (2,071 lines, nothing
       else changed). 2023 W39 FRITZI N: the printed header has no "Built" label, the row was shifted; fixed.
-- [ ] Intermodal merged cells written blank: some older MDs leave the other rows of a merged price blank instead of
-      the "(en bloc)" form (e.g. 2022 W13, ten Hafnia handies at $ 242.4m). 58 series rows have no price; each needs
-      a render check before it is marked en bloc.
+- [x] Intermodal merged cells written blank (2026-10-20): all 58 series rows without a price checked on the render.
+      47 sit under a merged Price/Buyers/Comments cell or print their own price the parser missed: filled in series,
+      sidecars and blank MD rows ("<price> (en bloc)" or the printed "each" form). 9 are printed blank (IVS PHOENIX,
+      ZHONG GU JIANG SU, MAERSK LAUNCESTON, WAN HAI 267, AS ROSALIA, CTP DELTA, NCL HAUGESUND, P MELIS, NEO): kept.
+      2023 W26: two rows from a once-split "MAERSK PENANG" dropped. 2022 W43: stray continuation row removed.
+      2026 W35: Tankers table had a wrong header and no Price/Buyers/Comments columns; rebuilt from the render.
 - [x] Advanced Shipping 15 splice conflicts (2026-10-20), each checked on the render:
       8 are the 2023 W31-W37 outlined-glyph tables, where the stored table (5bf9a513e5) is the better one: kept.
       Fixed by hand: 2023 W16 and 2024 W43 (Gas table header inside the Containers table; W43 had also lost
