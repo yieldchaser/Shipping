@@ -358,12 +358,6 @@ The Korean controlled Kamsarmax DL Ivy 82,000 dwt built 2012 Jiangus Eastern (SS
 | **Aframax** | usd mln | 63.3 | 63.1 | +0.3% | +40.1% |
 | **MR Product** | usd mln | 42.5 | 42.5 | +0.1% | +32.9% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 62 |
-| Aframax | 62 |
-| MR | 42 |
-
 # DERIVATIVES MARKET REPORT – WEEK 17/2023
 
 # DRY BULK FFA ASSESSMENTS

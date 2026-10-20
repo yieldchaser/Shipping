@@ -314,12 +314,6 @@ On the dry side, Greek Owner Star Bulk Carriers is reported having added 3x 82,0
 | **LR2 Coated** | usd mln | 64.5 | 64.2 | +0.5% | +7.1% |
 | **MR2 Coated** | usd mln | 42.6 | 42.4 | +0.3% | +7.2% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 70 |
-| Suezmax | 75 |
-| MR | 42 |
-
 # DEMOLITION SALES
 
 With the Lunar New Year holidays now behind us, there continues to be a lack of activity and limited excitement across the Indian subcontinent. Yards in Bangladesh and Pakistan remained active in their search to fill their beaches however the lack of available units is doing little to satisfy the space. The recent sale of the vintage Handymax bulker "BONTRUP EMIRATES" (built 1986), around 11,551 LDT for a price in the region of $520.00/LDT in to Bangladesh basis a HKC complaint yard highlights continued firming of prices. However these levels clearly are not enticing Owners away for the charterers rates or perhaps the expectation of what the rest of Q1 and Q2 might bring.
@@ -332,11 +326,6 @@ With the Lunar New Year holidays now behind us, there continues to be a lack of 
 | **Dry Bangladesh** | usd/ldt | 521.4 | 521.3 | +0.0% | +3.1% |
 | **Tnk India** | usd/ldt | 510.6 | 509.1 | +0.3% | -9.1% |
 | **Tnk Bangladesh** | usd/ldt | 527.7 | 528.2 | -0.1% | +2.9% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 510 |
-| Tanker | 540 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 07/2024
 

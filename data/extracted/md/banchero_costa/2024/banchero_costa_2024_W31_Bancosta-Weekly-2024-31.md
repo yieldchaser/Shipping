@@ -304,12 +304,6 @@ As regards bulk carriers, Jiangsu Ocean Shipping (JOSCO) has finalized a contrac
 | **LR2 Coated** | usd mln | 68.8 | 68.2 | +0.8% | +10.8% |
 | **MR2 Coated** | usd mln | 44.5 | 44.2 | +0.8% | +8.3% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 75 |
-| Suezmax | 78 |
-| MR | 43 |
-
 # DEMOLITION SALES
 
 On going concerns around the Global Economy, along with the Bangladeshi Prime Minister Sheikh Hasina resigning and fleeing the country on Monday will only add to what has become a weakening sentiment across the sub continent demolition markets in recent weeks. The summer holiday period coupled with a lack of interesting tonnage has led to a rather dormant market in which we are only seeing a handful of generally very old , smaller LDT Vessel sold for scrap making it hard to gauge where the market is. While it is still too early to see what effect the Political unrest / change of leadership will have on the Banglesh recycling market , yards in Pakistan and India do remain selective Buyers. To note a vintage container namely the MV 'MSC Annamaria' blt 1987 with a LDT of region 8800 was sold in to Alang , India (to a HKC compliant yard) for a price in the region USD 535 per LT/LDT, considerably less then the near USD 600 LT/LDT we have seen earlier this year similar tonnage.
@@ -322,11 +316,6 @@ On going concerns around the Global Economy, along with the Bangladeshi Prime Mi
 | **Dry Bangladesh** | usd/ldt | 508.1 | 513.0 | -1.0% | -9.1% |
 | **Tnk India** | usd/ldt | 504.6 | 510.9 | -1.2% | -6.0% |
 | **Tnk Bangladesh** | usd/ldt | 513.5 | 518.4 | -1.0% | -9.1% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 510 |
-| Tanker | 530 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 31/2024
 

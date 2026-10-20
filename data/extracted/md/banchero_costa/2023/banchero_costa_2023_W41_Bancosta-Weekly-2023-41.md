@@ -359,12 +359,6 @@ In the dry market , scrubber fitted capesize Mineral Shougang International abt 
 | **Aframax** | usd mln | 64.9 | 64.8 | +0.2% | +15.4% |
 | **MR Product** | usd mln | 42.2 | 42.0 | +0.5% | +8.2% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 32 |
-| Aframax | 62 |
-| MR | 42 |
-
 # DERIVATIVES MARKET REPORT – WEEK 41/2023
 
 # DRY BULK FFA ASSESSMENTS

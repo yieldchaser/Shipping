@@ -266,18 +266,6 @@ Signs that the collapse in the spot rates is slowing are clear, however containe
 | 1700 teu (1Y, geared) | usd/day | 14,304 | 15,182 | -5.8% | -69.0% |
 | 1100 teu (1Y, geared) | usd/day | 11,738 | 12,727 | -7.8% | -66.6% |
 
-| Category | Value |
-| --- | --- |
-| 4250 | 90,000 |
-| 3500 | 80,000 |
-| 2700 | 70,000 |
-
-| Category | Value |
-| --- | --- |
-| 2500 | 70,000 |
-| 1700 | 60,000 |
-| 1100 | 30,000 |
-
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
 

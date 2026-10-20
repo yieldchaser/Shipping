@@ -230,12 +230,6 @@ The **VLCC** market started the week quietly, mostly due to holidays in China, b
 
 ### 1 YR TC PERIOD (USD/DAY)
 
-| Category | Value |
-| --- | --- |
-| VLCC | 45,000 |
-| Suezmax | 35,000 |
-| Aframax | 35,000 |
-
 # PRODUCT TANKER MARKET
 
 **Clean:** The LR2 market were affected by a long tonnage list in MEG which pushed rates down to 75@170 at the end of the week. Similar trend for LR1 which lost some 20WS points during the week with MEG-Japan closing around 55@170. In Med Handytankers recorded a steady week with a bit of pressure from charterers around Wednesday that pushed rates to 30@321. Some soft sentiment on Friday when a lot of prompt Handies were pushed in the area. On the Russian side the market was still firm for BSea-Med and Baltic-UKC which were fixed around 30@500/550 and 30@380/400 respectively depending on charterers and loadport. Some fresh enquiries during the week kept the MR TransAtlantic market steady around 37@250, around $20,000/d on a TCE basis. **Dirty:** Still a quiet week in Med for Handy with a few fixtures and rates that at the beginning went down to 30@335 for CrossMed. Also MR Med market was very quiet with CrossMed down to 45@255.

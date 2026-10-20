@@ -325,12 +325,6 @@ In the dry market, New Dayang received an order for 4x Ultramax from Wah Kwong. 
 | **LR2 Coated** | usd mln | 55.9 | 54.5 | +2.6% | +24.2% |
 | **MR2 Coated** | usd mln | 36.2 | 35.7 | +1.5% | +11.7% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 45 |
-| LR2 | 46 |
-| MR | 36 |
-
 # DEMOLITION SALES
 
 As the sub-continent markets continue their dreary trudge towards the start of Q4, the industry appears to be in a confused and shaky state, with all sub-continent market sentiments trending downward. Because of the bullish state of dry and container markets this year, demand remains stable but not overwhelming – primarily from the tanker and offshore sectors. Some reported sales: MT Gema, 19,813 dwt, 2001, 7,517 ldt - $616 USD/ldt to Pakistan
@@ -345,11 +339,6 @@ As the sub-continent markets continue their dreary trudge towards the start of Q
 | Tnk Bangladesh | usd/ldt | 599.0 | 601.8 | -0.5% | +64.8% |
 | Tnk India | usd/ldt | 585.5 | 586.0 | -0.1% | +68.8% |
 | Tnk Pakistan | usd/ldt | 599.8 | 602.1 | -0.4% | +62.5% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 350 |
-| Tanker | 600 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 38/2021
 

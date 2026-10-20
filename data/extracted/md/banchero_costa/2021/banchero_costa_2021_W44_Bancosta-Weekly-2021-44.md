@@ -221,12 +221,6 @@ On the MR, couple of MRs seems to be gone on short TC and rates remained stable 
 
 > **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) |
-| --- | --- |
-| Category | Value |
-| LR2 | 18000 |
-| MR2 | 15000 |
-
 # CONTAINERSHIP MARKET
 
 Continued high consumer demand is among the main drivers of congestion along international supply chains, as a "new normal" for logistics settles in for the long term, a report claims. A.P. Maersk delivered record earnings in the third quarter to end-September 2021 with operating profit (EBIT) almost quintupling on the same period last year to $5.9 billion. Moller- In the chartering market we registered an overall decrease last week.

@@ -360,19 +360,6 @@ A reduced activity in the container market has reported limited fixtures. Lack o
 | **1700 teu (1Y, geared)** | usd/day | 26,809 | 26,760 | +0.2% | +31.7% |
 | **1100 teu (1Y, geared)** | usd/day | 16,802 | 16,823 | -0.1% | +22.0% |
 
-| Category | Value |
-| --- | --- |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 4250 |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 3500 |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 2700 |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 2500 |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 1700 |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 1100 |
-
-| Category | Value |
-| --- | --- |
-| FREIGHTOS BALTIC CONTAINER INDEX | FBX |
-
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
 
@@ -407,12 +394,6 @@ In the chemical sector, Zhejiang Yongxin Shipping in China secured an order from
 | **LR2 Coated** | usd mln | 68.3 | 68.3 | -0.0% | -1.5% |
 | **MR2 Coated** | usd mln | 44.3 | 44.3 | +0.0% | -2.5% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 80 |
-| Suezmax | 80 |
-| MR | 45 |
-
 # DEMOLITION SALES
 
 Another quiet week across the Indian Sub Continent markets, with little to report in terms of market sales. Buying interest remains low, and overall sentiment continues to be negative coupled with limited supply of tonnage as charter rates continue to show positive signs. That said, a number of vintage LNG Vessels have been circulated in the market and continue to draw reasonable interest. This quiet period has allowed yards across Bangladesh to focus on upgrading works to make them HKC compliant, with 18 now in compliance. Pakistan has also been playing catch up, with 9 Ship Recycling facilities have received Provisional DASR (Document of Authorization for Ship Recycling).
@@ -427,11 +408,6 @@ In terms of sales, a 2001 blt Panamax, namely the MV BONITA about 10,201 LDT has
 | **Tnk Pakistan** | usd/ldt | 435.8 | 436.0 | -0.0% | -11.9% |
 | **Tnk India** | usd/ldt | 431.8 | 433.5 | -0.4% | -11.5% |
 | **Tnk Bangladesh** | usd/ldt | 403.7 | 403.3 | +0.1% | -19.7% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 440 |
-| Tanker | 445 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 36/2025
 

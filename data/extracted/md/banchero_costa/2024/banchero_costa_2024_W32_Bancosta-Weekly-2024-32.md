@@ -376,12 +376,6 @@ In the tanker market, the most notable sale of the week has certainly been the o
 | **Aframax** | usd mln | 72.8 | 72.9 | -0.1% | +13.1% |
 | **MR Product** | usd mln | 46.4 | 46.4 | -0.1% | +9.9% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 30 |
-| Aframax | 65 |
-| MR | 45 |
-
 # DERIVATIVES MARKET REPORT – WEEK 32/2024
 
 # DRY BULK FFA ASSESSMENTS

@@ -257,16 +257,6 @@ Market in the Med both on handies and MR is not changing sentiment with little f
 
 > **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) |
-| --- | --- |
-| Category | Value |
-| LR2 | 17,000 |
-| MR2 | 14,000 |
-| Mar-21 | 17,000 |
-| Jul-21 | 17,000 |
-| Nov-21 | 18,000 |
-| Mar-22 | 17,000 |
-
 # CONTAINERSHIP MARKET
 
 The container market rates seem to have eased slightly, due to spot container freight rates decrease, climbing bunker prices and Covid situation in China, even if high demand/low availability are still in command and some strong fixtures have been concluded. Meanwhile, the deteriorating Covid situation has raised concerns over worsening port congestion in China. According to analysts, there are 174 vessels anchored or loading across South China – the most since October when the region was affected by typhoons. Some restrictions in Shenzhen were lifted this week, allowing factories to re-open ahead of schedule and help dampen the supply chain impact, however cargo operations are not yet back to normal. Furthermore, in Shanghai, China's zero-Covid policy is in full force, with lockdowns in affected districts and restrictions on truck movements. This latter have impacted trucking services for container pick up and delivery, and consequently impacted yard productivity especially in Qingdao, Shanghai and Shenzhen, while the rampant number of Covid cases to the south in Hong Kong has severely hit trucker availability.

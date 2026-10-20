@@ -305,12 +305,6 @@ Container orders keep filling the orderbook with major Chinese and Korean shipya
 | **LR2 Coated** | usd mln | 59.0 | 59.0 | +0.0% | +21.5% |
 | **MR2 Coated** | usd mln | 38.1 | 38.1 | +0.0% | +10.3% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 56 |
-| Suezmax | 66 |
-| MR | 38 |
-
 # DEMOLITION SALES
 
 Following the recent falls in all sub-continent recycling markets, it appears that a new floor has been reached in the low 600s USD/dtl, which appears to be the price point where Recyclers are increasingly comfortable offering. There have been a few instances of opportunistic offerings below 600 USD/lidt, as expected. However, there have been very few sales (if any) in the high 500s USD/lidt because there are virtually no potential units to offer to Recyclers at these lower levels. Turkey, on the other hand, continues to plummet without remorse, with levels here dropping nearly 150 USD/mt, and despite some stability appearing in the sub-continent markets this week, things do not look good for Turkey, with a weakening currency and falling steel plate prices compounding the problem.
@@ -325,11 +319,6 @@ Following the recent falls in all sub-continent recycling markets, it appears th
 | **Tnk Bangladesh** | usd/lidt | 625.7 | 641.4 | -2.4% | +10.9% |
 | **Tnk India** | usd/lidt | 608.6 | 622.1 | -2.2% | +16.7% |
 | **Tnk Pakistan** | usd/lidt | 610.4 | 632.1 | -3.4% | +8.2% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 550 |
-| Tanker | 650 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 23/2022
 
@@ -366,12 +355,6 @@ In the past weeks, Stena Supreme abt 160k blt 2012 Samsung was reported at $37.5
 | **Suezmax** | usd mln | 52.3 | 52.2 | +0.3% | +14.1% |
 | **Aframax** | usd mln | 47.4 | 46.9 | +1.1% | +22.6% |
 | **MR Product** | usd mln | 33.2 | 33.0 | +0.6% | +21.8% |
-
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 38 |
-| Aframax | 46 |
-| MR | 28 |
 
 DERIVATIVES MARKET REPORT – WEEK 23/2022 12
 

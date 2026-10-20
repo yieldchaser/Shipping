@@ -373,12 +373,6 @@ Few MRs changed hands during the week with the White Peach 53,000 dwt built 2007
 | **Aframax** | usd mln | 72.6 | 72.6 | +0.0% | +12.1% |
 | **MR Product** | usd mln | 47.3 | 47.2 | +0.2% | +12.7% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 36 |
-| Aframax | 73 |
-| MR | 47 |
-
 # DERIVATIVES MARKET REPORT – WEEK 41/2024
 
 # DRY BULK FFA ASSESSMENTS

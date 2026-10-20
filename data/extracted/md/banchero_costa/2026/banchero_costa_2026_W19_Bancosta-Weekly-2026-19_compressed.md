@@ -276,18 +276,6 @@ The container market was quiet during the week owing to Asian public holidays, t
 | **1700 teu (1Y, geared)** | usd/day | 31,618 | 31,611 | +0.0% | +27.3% |
 | **1100 teu (1Y, geared)** | usd/day | 16,868 | 16,830 | +0.2% | +6.2% |
 
-| Category | Value |
-| --- | --- |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 4250 |
-|  | 3500 |
-|  | 2700 |
-
-| Category | Value |
-| --- | --- |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 2500 |
-|  | 1700 |
-|  | 1100 |
-
 > **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
@@ -322,12 +310,6 @@ In the bulk sector, China's Jiangmen Nanyang Shipbuilding secured an order for 8
 | **LR2 Coated** | usd mln | 69.6 | 69.6 | +0.0% | +0.3% |
 | **MR2 Coated** | usd mln | 44.7 | 44.7 | +0.0% | +0.5% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 36.0 |
-| Suezmax | 82.0 |
-| MR | 44.7 |
-
 # DEMOLITION SALES
 
 The demolition markets across the Indian subcontinent continued to demonstrate resilience, supported by the ongoing lack of meaningful resolution to Middle East tensions. Following a notably strong second quarter to date, the region experienced a modest pullback this week. In Bangladesh, heavy rainfall in Chittagong ahead of the monsoon season disrupted activity and softened immediate local demand. In India, the continued strength of the USD exchange rate hampered the market's ability to compete for tonnage against regional peers. On the sales front, Pakistan secured the vintage Handy vessel MV Jenny Lucky (built 1992) at a reported price of around USD 450/LT LDT, whilst Bangladesh achieved a firm USD 550/LT LDT for the small LPG carrier LPG Gas Crusader (approximately 1,526 LDT).
@@ -342,11 +324,6 @@ The demolition markets across the Indian subcontinent continued to demonstrate r
 | **Tnk Pakistan** | usd/ldt | 452.8 | 453.4 | -0.1% | -0.4% |
 | **Tnk India** | usd/ldt | 446.1 | 447.8 | -0.4% | -2.8% |
 | **Tnk Bangladesh** | usd/ldt | 490.2 | 488.4 | +0.4% | +3.0% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 440.0 |
-| Tanker | 460.0 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 19/2026
 

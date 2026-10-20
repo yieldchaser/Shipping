@@ -313,12 +313,6 @@ Evalend Shipping confirmed two x 75,000dwt LR1 orders selecting Yangzijiang as b
 | **LR2 Coated** | usd mln | 62.4 | 62.1 | +0.5% | +4.1% |
 | **MR2 Coated** | usd mln | 41.9 | 41.1 | +1.8% | +8.3% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 70 |
-| Suezmax | 72 |
-| MR | 42 |
-
 # DEMOLITION SALES
 
 ## SHIP RECYCLING ASSESSMENTS (BALTIC EXCHANGE)
@@ -329,11 +323,6 @@ Evalend Shipping confirmed two x 75,000dwt LR1 orders selecting Yangzijiang as b
 | **Dry Bangladesh** | usd/ldt | 513.8 | 521.4 | -1.5% | -11.3% |
 | **Tnk India** | usd/ldt | 503.4 | 505.6 | -0.4% | -11.8% |
 | **Tnk Bangladesh** | usd/ldt | 522.2 | 530.3 | -1.5% | -11.2% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 550 |
-| Tanker | 560 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 34/2023
 

@@ -334,12 +334,6 @@ In the gas carrier sector, China's Zhoushan Dashenzhou Shipbuilding secured an o
 | **LR2 Coated** | usd mln | 69.6 | 69.3 | +0.5% | +0.1% |
 | **MR2 Coated** | usd mln | 44.7 | 44.5 | +0.4% | +0.2% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 80 |
-| Suezmax | 80 |
-| MR | 45 |
-
 # DEMOLITION SALES
 
 N/A
@@ -354,11 +348,6 @@ N/A
 | **Tnk Pakistan** | usd/ldt | 452.8 | 451.4 | +0.3% | -1.0% |
 | **Tnk India** | usd/ldt | 446.7 | 445.7 | +0.2% | -2.9% |
 | **Tnk Bangladesh** | usd/ldt | 486.7 | 484.2 | +0.5% | +2.7% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 450 |
-| Tanker | 460 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 17/2026
 

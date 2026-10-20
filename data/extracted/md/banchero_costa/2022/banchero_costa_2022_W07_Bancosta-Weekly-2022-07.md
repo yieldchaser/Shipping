@@ -326,12 +326,6 @@ Few orders were received during the week, which was dominated by container carri
 | LR2 Coated | usd mln | 58.4 | 57.9 | +0.9% | +28.6% |
 | MR2 Coated | usd mln | 37.5 | 37.4 | +0.3% | +13.8% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 53 |
-| Suezmax | 65 |
-| MR | 36 |
-
 # DEMOLITION SALES
 
 In recent weeks, we have seen several Capes sold for HKC recycling in the mid 600s USD/lidt, particularly as chartering rates in this sector have fallen slightly. As the Chattogram market heats up to some increasingly unprecedented levels, tankers continue to be introduced into recycling markets, and several deals have reportedly been concluded in Bangladesh at levels in excess of USD 650/LT LDT. Steel prices remain firm across the subcontinent, and the Indian market has begun to re-enter the picture, such is the demand emanating from all markets at the moment. Some reported sales: MV Cape Enterprise, 185,909 Dwt, 2003, 22,043 Idt, HKC required; price includes 1,000 tons bunkers, Delivered India $650 USD/lidt MT Bull Damai 1, 111,428 Dwt, 2004, 19,132 Idt, Delivered Bangladesh $670 USD/lidt MT Nusa Merdeka, 104,875 Dwt, 2003, 17,297 Idt, Delivered Bangladesh $670 USD/lidt Gas Komodo (LPG), 56,875 Dwt, 1991, 18,551 Idt, Delivered Bangladesh $680 USD/lidt MV Alm Cetus, 171,009 Dwt, 2003, 23,982 Idt, $645 USD/ldt, Sold 'AsIs' Batam/Philippines range, Buyer Undisclosed
@@ -346,11 +340,6 @@ In recent weeks, we have seen several Capes sold for HKC recycling in the mid 60
 | **Tnk Bangladesh** | usd/lidt | 668.6 | 661.8 | +1.0% | +53.1% |
 | **Tnk India** | usd/lidt | 616.5 | 611.1 | +0.9% | +47.9% |
 | **Tnk Pakistan** | usd/lidt | 659.3 | 655.8 | +0.5% | +53.2% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 420 |
-| Tanker | 630 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 07/2022
 

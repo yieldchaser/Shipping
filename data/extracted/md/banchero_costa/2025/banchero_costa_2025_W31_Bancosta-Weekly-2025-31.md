@@ -368,19 +368,6 @@ The container market was quieter due to holidays and tight supply, but demand an
 | **1700 teu (1Y, geared)** | usd/day | 26,584 | 26,750 | -0.6% | +21.2% |
 | **1100 teu (1Y, geared)** | usd/day | 16,452 | 16,495 | -0.3% | +21.8% |
 
-| Category | Value |
-| --- | --- |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 4250 |
-|  | 3500 |
-|  | 2700 |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 2500 |
-|  | 1700 |
-|  | 1100 |
-
-| Category | Value |
-| --- | --- |
-| FREIGHTOS BALTIC CONTAINER INDEX | FBX |
-
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
 
@@ -389,17 +376,6 @@ The container market was quieter due to holidays and tight supply, but demand an
 | **FBX** | index | 2,331 | 2,370 | -1.6% | -54.1% |
 | **China - WCNA** | usd/feu | 2,342 | 2,334 | +0.3% | -69.3% |
 | **China - N. Europe** | usd/feu | 3,431 | 3,419 | +0.4% | -59.0% |
-
-| Category | Value |
-| --- | --- |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 4250 |
-|  | 3500 |
-|  | 2700 |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 2500 |
-|  | 1700 |
-|  | 1100 |
-| FREIGHTOS BALTIC CONTAINER INDEX | FBX |
-|  | China - N. Europe |
 
 [banchero costa RESEARCH]
 

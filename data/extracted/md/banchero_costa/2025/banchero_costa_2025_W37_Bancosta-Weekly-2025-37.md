@@ -351,18 +351,6 @@ Container market remains healthy with stable hire levels, although periods are n
 | **1700 teu (1Y, geared)** | usd/day | 26,902 | 26,809 | +0.3% | +33.9% |
 | **1100 teu (1Y, geared)** | usd/day | 16,730 | 16,802 | -0.4% | +22.2% |
 
-| Category | Value |
-| --- | --- |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 4250 |
-|  | 3500 |
-|  | 2700 |
-
-| Category | Value |
-| --- | --- |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 2500 |
-|  | 1700 |
-|  | 1100 |
-
 | Index | Sep-24 | Jan-25 | May-25 | Sep-25 |
 | --- | --- | --- | --- | --- |
 | FBX | 5000 | 4000 | 2000 | 2000 |
@@ -373,10 +361,6 @@ Container market remains healthy with stable hire levels, although periods are n
 | FREIGHTOS | Unit | 12-Sep | 5-Sep | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
 | **FBX** | index | 2,051 | 2,004 | +2.3% | -59.5% |
-
-| Category | Value |
-| --- | --- |
-| FREIGHTOS BALTIC CONTAINER INDEX | China - N. Europe |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 37/2025
 

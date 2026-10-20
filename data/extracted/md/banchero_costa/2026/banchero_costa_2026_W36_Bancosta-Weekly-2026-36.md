@@ -459,12 +459,6 @@ Further tanker activity included the **WINFORT 47,171 2005 Uljanik Brodogradilis
 | Aframax | usd mln | 84.2 | 84.0 | +0.2% | +33.6% |
 | MR Product | usd mln | 49.7 | 49.5 | +0.5% | +21.9% |
 
-| Category | Value |
-| :--- | :--- |
-| Kamsarmax | 32 |
-| Aframax | 65 |
-| MR | 42 |
-
 # SALE & PURCHASE MARKET REPORT – WEEK 36/2026
 
 ## REPORTED SALES :

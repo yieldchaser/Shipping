@@ -397,12 +397,6 @@ Tanker contracting also gathered pace. Greek owner Alberta Shipmanagement is rep
 | **LR2 Coated** | usd mln | 71.8 | 70.8 | +1.4% | +5.2% |
 | **MR2 Coated** | usd mln | 45.5 | 45.4 | +0.2% | +2.7% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 80 |
-| Suezmax | 85 |
-| MR | 45 |
-
 # DEMOLITION SALES
 
 The recycling market stalled this week as two pressures converged. The renewed Middle East conflict lifted oil prices, reviving owner hesitation and suspending the Gulf exit queue; declining Hormuz transits deferred tonnage rather than cancelling it. No sales were reported across any sub-continent destination. At Chattogram, persistent monsoon flooding halted yard work, thinning cash buyer demand; no trading occurred late in the week. Bangladesh nonetheless topped the rankings on a softening tone at USD 455–460 per LDT for dry bulk. Pakistan held steady at Gadani (USD 443–448 per LDT), the rupee firm near 278. Alang remained the basin's lowest-priced but steady destination at USD 418–423 per LDT, with plate firming and over 110 vessels awaiting delivery. Aliaga stayed structurally uncompetitive and softening at USD 266–268 per LDT.
@@ -417,11 +411,6 @@ The recycling market stalled this week as two pressures converged. The renewed M
 | **Tnk Pakistan** | usd/ldt | 459.4 | 460.2 | -0.2% | +6.0% |
 | **Tnk India** | usd/ldt | 445.6 | 446.3 | -0.2% | +4.4% |
 | **Tnk Bangladesh** | usd/ldt | 490.4 | 490.7 | -0.1% | +15.8% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 420 |
-| Tanker | 460 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 28/2026
 

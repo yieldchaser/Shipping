@@ -332,18 +332,6 @@ Rates slightly softened. Larger vessels are expected to retain strong charter ra
 | **1700 teu (1Y, geared)** | usd/day | 22,864 | 22,655 | +0.9% | +134.8% |
 | **1100 teu (1Y, geared)** | usd/day | 14,048 | 13,950 | +0.7% | +82.3% |
 
-| Category | Value |
-| --- | --- |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 4250 |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 3500 |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 2700 |
-
-| Category | Value |
-| --- | --- |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 2500 |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 1700 |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 1100 |
-
 | Index | Value |
 | --- | --- |
 | FBX | 3,450 |

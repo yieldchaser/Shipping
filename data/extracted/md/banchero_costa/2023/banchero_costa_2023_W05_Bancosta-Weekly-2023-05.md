@@ -239,12 +239,6 @@ Delays at Turkish Straits 11 days northbound and 11 days southbound.
 
 > **Chart (not transcribed):** MR PACIFIC BASKET (usd/day). The report prints no values for it.
 
-| 1 YR TC PERIOD (USD/DAY) | 1 YR TC PERIOD (USD/DAY) |
-| --- | --- |
-| Category | Value |
-| LR2 | 45,000 |
-| MR2 | 30,000 |
-
 # CONTAINERSHIP MARKET
 
 According to the CEO of Germany's liner Hapag Lloyd - Rolf Habben Jansen - container freight rates will keep declining in the current realignment of shipping demand and supply, adding that "The party is over. We are back to a normal shipping business, now we have to fight for every box again to get our ships full". However, he expects freight rates will not fall below costs, which were being kept high by expensive charter rates, high fuel costs and the need to adjust fleets to running on low carbon fuel. He hoped orders for goods and shipping services would pick up again, not sure whether that will happen in March or in June.

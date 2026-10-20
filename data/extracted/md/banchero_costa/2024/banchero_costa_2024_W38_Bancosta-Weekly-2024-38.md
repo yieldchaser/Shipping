@@ -263,15 +263,6 @@ The reduced number of ships available for prompt delivery is keeping charter rat
 | **1700 teu (1Y, geared)** | usd/day | 19,698 | 20,093 | -2.0% | +66.6% |
 | **1100 teu (1Y, geared)** | usd/day | 13,464 | 13,686 | -1.6% | +37.3% |
 
-| Category | Value |
-| --- | --- |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 4250 |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 2500 |
-
-| Category | Value |
-| --- | --- |
-| FREIGHTOS BALTIC CONTAINER INDEX | FBX |
-
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
 

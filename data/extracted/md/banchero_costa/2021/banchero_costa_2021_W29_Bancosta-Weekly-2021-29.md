@@ -262,12 +262,6 @@ There's no firm evidence yet that the current record-high sea freight rates are 
 | 1700 teu (1Y, geared) | usd/day | 37,067 | 35,413 | +4.7% | +477.5% |
 | 1100 teu (1Y, geared) | usd/day | 27,163 | 23,321 | +16.5% | +386.0% |
 
-| Category | Value |
-| --- | --- |
-| 4250 | 70,000 |
-| 3500 | 55,000 |
-| 2700 | 40,000 |
-
 > **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
@@ -289,12 +283,6 @@ There's no firm evidence yet that the current record-high sea freight rates are 
 | Europe - ECNA | usd/feu | 6,013 | 6,024 | -0.2% | +228.4% |
 | Europe - ECSA | usd/feu | 3,311 | 3,311 | +0.0% | +278.0% |
 | Europe - WCSA | usd/feu | 4,463 | 4,463 | +0.0% | +175.0% |
-
-| Category | Value |
-| --- | --- |
-| 2500 | 60,000 |
-| 1700 | 35,000 |
-| 1100 | 20,000 |
 
 > **Chart (not transcribed):** GEARED - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 

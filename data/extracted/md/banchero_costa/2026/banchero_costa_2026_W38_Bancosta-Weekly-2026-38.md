@@ -396,17 +396,14 @@ The container charter market maintains its strong and positive momentum, driven 
 | 1700 teu (1Y, geared) | usd/day | 34,877 | 34,595 | +0.8% | +30.5% |
 | 1100 teu (1Y, geared) | usd/day | 17,395 | 17,357 | +0.2% | +3.9% |
 
-| Category | Value |
-| :--- | :--- |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 4250 |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 3500 |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 2700 |
+## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
+(source: Baltic Exchange)
 
-| Category | Value |
-| :--- | :--- |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 2500 |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 1700 |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 1100 |
+| FREIGHTOS | Unit | 18-Sep | 11-Sep | W-o-W | Y-o-Y |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FBX | index | 3,407 | 3,499 | -2.6% | +66.1% |
+| China - WCNA | usd/feu | 8,102 | 7,765 | +4.3% | +250.9% |
+| China - N. Europe | usd/feu | 3,702 | 4,366 | -15.2% | +43.2% |
 
 > **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
@@ -459,12 +456,6 @@ Among the smaller tankers, **DYLAN 50,000 dwt 2009 Guangzhou Shipyard Intl** was
 | Suezmax | usd mln | 108.3 | 106.6 | +1.6% | +40.3% |
 | Aframax | usd mln | 84.9 | 84.6 | +0.3% | +34.4% |
 | MR Product | usd mln | 50.2 | 49.9 | +0.5% | +22.3% |
-
-| Category | Value |
-| :--- | :--- |
-| Kamsarmax | 32 |
-| Aframax | 65 |
-| MR | 42 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 38/2026
 

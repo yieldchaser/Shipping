@@ -304,12 +304,6 @@ In the container market, it was reported Hyundai has received an order for 8+4 o
 | **LR2 Coated** | usd mln | 54.5 | 52.9 | +3.0% | +21.2% |
 | **MR2 Coated** | usd mln | 35.7 | 35.4 | +0.8% | +10.0% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 26 |
-| LR2 | 45 |
-| MR | 33 |
-
 # DEMOLITION SALES
 
 End Buyers are back to buying at levels just shy of (and in some cases, just over) USD 600/LT. Nevertheless, actual sales are not that many given the fact that the dry bulk and container sectors are flying and owners are obviously not too keen to keen to let go of their vessels. Some reported sales: Harin Navee 8, General Cargo, 1987, Japan, 779.52 ldt, Delivered Bangladesh 520 USD/ldt Sky Sino Tanker, 1997, China, 12,235.70 ldt, As-IsBatam, Undisclosed Stolt Selje, Tanker, 1993, UK, 11,219.00 ldt, Delivered India (HKC Yard), Undisclosed Gdansk, Bulker, 1984, Brazil, 13,124.30 ldt, As-Is Djibouti, 495-505 USD/ldt Jubilee Star, FSU, 1996, Japan, 42,760.00 ldt, As-Is Batam, Undisclosed
@@ -324,11 +318,6 @@ End Buyers are back to buying at levels just shy of (and in some cases, just ove
 | **Tnk Bangladesh** | usd/ldt | 606.1 | 605.7 | +0.1% | +84.2% |
 | **Tnk India** | usd/ldt | 590.6 | 589.9 | +0.1% | +80.6% |
 | **Tnk Pakistan** | usd/ldt | 595.9 | 597.1 | -0.2% | +64.1% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 330 |
-| Tanker | 600 |
 
 # SALE & PURCHASE
 # SECONDHAND SALES

@@ -346,12 +346,6 @@ After offers were invited last week Japanese controlled Livia Rose about 82,000 
 | Aframax | usd mln | 72.7 | 72.5 | +0.2% | +13.0% |
 | MR Product | usd mln | 46.2 | 46.1 | +0.2% | +8.8% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 31, 33, 35, 37, 39, 41 |
-| Aframax | 63, 65, 67, 69, 71, 73 |
-| MR | 42, 43, 44, 45, 46, 47 |
-
 DERIVATIVES MARKET REPORT – WEEK 24/2024 12
 
 # DRY BULK FFA ASSESSMENTS

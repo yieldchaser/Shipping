@@ -334,18 +334,6 @@ Busy week at steady market levels. Limited vessel availability affected some seg
 | **1700 teu (1Y, geared)** | usd/day | 26,348 | 26,107 | +0.9% | +53.0% |
 | **1100 teu (1Y, geared)** | usd/day | 16,341 | 16,286 | +0.3% | +51.8% |
 
-| Category | Value |
-| --- | --- |
-| GEARLESS - 1 YR TC PERIOD (USD/DAY) | 4250 |
-|  | 3500 |
-|  | 2700 |
-
-| Category | Value |
-| --- | --- |
-| GEARED - 1 YR TC PERIOD (USD/DAY) | 2500 |
-|  | 1700 |
-|  | 1100 |
-
 > **Chart (not transcribed).** The report prints no values for it.
 
 > **Chart (not transcribed).** The report prints no values for it.

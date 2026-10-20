@@ -267,18 +267,6 @@ The market kept falling and both Owners and Charterers had to deal with major ch
 | **1700 teu (1Y, geared)** | usd/day | 17,025 | 19,450 | -12.5% | -65.7% |
 | **1100 teu (1Y, geared)** | usd/day | 14,275 | 16,229 | -12.0% | -61.4% |
 
-| Category | Value |
-| --- | --- |
-| 4250 | 100,000 |
-| 3500 | 80,000 |
-| 2700 | 60,000 |
-
-| Category | Value |
-| --- | --- |
-| 2500 | 80,000 |
-| 1700 | 60,000 |
-| 1100 | 40,000 |
-
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
 

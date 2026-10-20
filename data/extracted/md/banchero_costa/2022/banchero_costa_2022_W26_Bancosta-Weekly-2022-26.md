@@ -254,18 +254,6 @@ The container market maintains the high levels even if requirements have somewha
 | **1700 teu (1Y, geared)** | usd/day | 57,483 | 57,438 | +0.1% | +82.7% |
 | **1100 teu (1Y, geared)** | usd/day | 35,104 | 34,367 | +2.1% | +68.6% |
 
-| Category | Value |
-| --- | --- |
-| 4250 | 120,000 |
-| 3500 | 90,000 |
-| 2700 | 60,000 |
-
-| Category | Value |
-| --- | --- |
-| 2500 | 80,000 |
-| 1700 | 60,000 |
-| 1100 | 20,000 |
-
 ## FREIGHTOS BALTIC GLOBAL CONTAINER INDEX
 (source: Baltic Exchange)
 

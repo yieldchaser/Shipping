@@ -356,12 +356,6 @@ Japanese controlled PostPanamax KITAURA 119,000 dwt 2012 Sanoyas was rumoured so
 | **Aframax** | usd mln | 72.7 | 72.8 | -0.1% | +13.9% |
 | **MR Product** | usd mln | 46.9 | 46.8 | +0.3% | +11.9% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 30 |
-| Aframax | 62 |
-| MR | 42 |
-
 # DERIVATIVES MARKET REPORT – WEEK 37/2024
 
 # DRY BULK FFA ASSESSMENTS

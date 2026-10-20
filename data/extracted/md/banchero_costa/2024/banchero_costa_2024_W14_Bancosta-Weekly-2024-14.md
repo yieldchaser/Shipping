@@ -381,12 +381,6 @@ After offers were invited two weeks ago, the Japanese controlled baby cape Sprin
 | **Aframax** | usd mln | 71.1 | 71.0 | +0.1% | +14.7% |
 | **MR Product** | usd mln | 45.5 | 45.5 | +0.2% | +7.4% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 30 |
-| Aframax | 63 |
-| MR | 43 |
-
 # DERIVATIVES MARKET REPORT – WEEK 14/2024
 
 # DRY BULK FFA ASSESSMENTS

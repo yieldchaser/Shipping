@@ -398,12 +398,6 @@ In the tanker sector, Sishi Dingsheng of China has ordered two crude oil tankers
 | **LR2 Coated** | usd mln | 70.1 | 69.6 | +0.8% | +1.1% |
 | **MR2 Coated** | usd mln | 44.9 | 44.7 | +0.5% | +1.0% |
 
-| Category | Value |
-| --- | --- |
-| Kamsarmax | 80 |
-| Suezmax | 80 |
-| MR | 45 |
-
 # DEMOLITION SALES
 
 Despite ongoing tensions in the Middle East, the Subcontinent ship demolition markets remain stable because a shortage of available vessels is expected to counterbalance local steel plate price and currency volatility ahead of the June monsoon season. Regionally, the Indian market softened this week as declining local steel prices and a strengthening U.S. Dollar pressured sentiment, whereas the Bangladeshi market held steady with buyers taking a conservative stance ahead of upcoming budgets, and the Pakistani market remained largely unchanged with firm sentiment. In other news this week, major cash buyer, Messrs 'GMS' received approval from the U.S. Government's Office of Foreign Assets Control (OFAC) to recycle four U.S.-sanctioned container vessels, though the exact transactional terms and final destinations of these ships are currently unknown.
@@ -418,11 +412,6 @@ Despite ongoing tensions in the Middle East, the Subcontinent ship demolition ma
 | **Tnk Pakistan** | usd/ldt | 451.7 | 452.4 | -0.2% | +0.1% |
 | **Tnk India** | usd/ldt | 442.2 | 444.1 | -0.4% | -3.0% |
 | **Tnk Bangladesh** | usd/ldt | 488.2 | 489.9 | -0.4% | +3.4% |
-
-| Category | Value |
-| --- | --- |
-| Dry Bulk | 450 |
-| Tanker | 460 |
 
 # SALE & PURCHASE MARKET REPORT – WEEK 21/2026
 
