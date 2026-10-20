@@ -60,11 +60,7 @@ This was driven primarily by a very strong +11.3% y-o-y surge in 1Q26, whilst gr
 
 The vast majority (71%) of iron ore volumes into China in Jan-Sep 2026 were loaded on Capesizes (130,000-220,000 dwt), with a further 21% carried on VLOCs (over 220,000 dwt), whilst just 3% was carried on Post-Panamaxes, 2% on Panamaxes, and 3% on Supramaxes.
 
-The main iron ore import terminals in Mainland China are: Caofeidian (115.6 mln t discharged in Jan-Sep
-
-China - Iron Ore Imports by Source in Jan-Sep (oct 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
-
-(2026), Tangshan/Jingtang (91.3 mln t), Lanshan (81.0 mln t), Ningbo/Zhoushan (80.9 mln t), Tianjin (64.1 mln t), Rizhao (58.2 mln t), Lianyungang (57.2 mln t), Dongjiakou (54.4 mln t), Huanghua (45.1 mln t), Fangcheng (39.5 mln t), Zhanjiang (38.8 mln t).
+The main iron ore import terminals in Mainland China are: Caofeidian (115.6 mln t discharged in Jan-Sep 2026), Tangshan/Jingtang (91.3 mln t), Lanshan (81.0 mln t), Ningbo/Zhoushan (80.9 mln t), Tianjin (64.1 mln t), Rizhao (58.2 mln t), Lianyungang (57.2 mln t), Dongjiakou (54.4 mln t), Huanghua (45.1 mln t), Fangcheng (39.5 mln t), Zhanjiang (38.8 mln t).
 
 In terms of sources for China's iron ore imports, Australia remains by far the top source country, with a 62.7% share in Jan-Sep 2026.
 
@@ -84,11 +80,22 @@ From India volumes increased by +12.4% y-o-y to 19.4 mln t.
 
 From Peru volumes surged by +49.6% y-o-y to 18.5 mln t.
 
-China - Monthly Iron Ore Imports - Seasonality (oct 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+## China - Iron Ore Imports by Source in Jan-Sep (oct 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
 
-bc# NEWS
+| Country | 2024 (1-9) | 2025 (1-9) | 2026 (1-9) |
+| --- | --- | --- | --- |
+| Australia | 582.1 | 595.0 | 606.5 |
+| Brazil | 200.3 | 198.2 | 208.3 |
+| S Africa | 24.1 | 25.2 | 23.4 |
+| India | 31.0 | 17.3 | 19.4 |
+| Peru | 17.9 | 12.4 | 18.5 |
+| Canada | 12.4 | 14.1 | 11.6 |
+| Sierra Leone | 8.3 | 10.1 | 10.3 |
+| Others/ Unknown | 56.9 | 57.8 | 69.9 |
 
-3
+## China - Monthly Iron Ore Imports - Seasonality (oct 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+> **Chart (not transcribed).** The report prints no values for it.
 
 # COMMODITY NEWS – DRY BULK
 
@@ -134,10 +141,6 @@ American farmers are borrowing more money than ever before to operate — but th
 
 # Source: Reuters / LSEG
 
-cdc# NEWS
-
-4
-
 # COMMODITY NEWS – CRUDE OIL & PRODUCTS
 
 # Hormuz transits at lowest in over two months after attacks, data shows
@@ -182,10 +185,6 @@ US producers in the Gulf of Mexico shut in about 1.5 million barrels per day of 
 
 # Source: Reuters / LSEG
 
-bc# NEWS
-
-5
-
 # COMMODITY NEWS – NATURAL GAS & POWER
 
 # US natural gas output and demand to hit record highs in 2026 and 2027, EIA says
@@ -226,13 +225,7 @@ Shell said on Thursday it had partially restarted its Pearl gas-to-liquids plant
 
 Source: Reuters / LSEG
 
-bc
-
-banchero costa
-
 # CHARTERING
-
-6
 
 # CAPESIZE MARKET
 
@@ -283,8 +276,6 @@ Saldanha Bay–Qingdao fell by 70, 35, 45, 40 and 55 cents/wmt respectively to c
 CDO
 
 # CHARTERING
-
-7
 
 # PANAMAX MARKET
 
@@ -345,8 +336,6 @@ A 76,064 dwt 2012-built fixed at around USD 18,000 for Australia/Singapore-Japan
 cdo
 
 # CHARTERING
-
-8
 
 # SUPRAMAX & HANDYSIZE MARKET
 
@@ -412,8 +401,6 @@ Trips East slowed to USD 24,500 on Supramaxes and around USD 25,500 daily for Ul
 
 CDC# CHARTERING
 
-9
-
 # SUPRAMAX & HANDYSIZE MARKET
 
 # MEG / INDIAN OCEAN
@@ -473,8 +460,6 @@ BC
 
 # CHARTERING
 
-10
-
 # CRUDE TANKER MARKET
 
 # VLCC
@@ -531,8 +516,6 @@ Rates reached the WS 780 level for
 Delays for daylight-restricted tankers at the Turkish Straits are still at around three days both northbound and southbound.
 
 EDC# CHARTERING
-
-11
 
 # PRODUCT TANKER MARKET
 
@@ -593,13 +576,7 @@ closing at around WS 360, also supported by some natural tonnage strategically p
 
 MRs followed suit, with 45,000 mt cross-Med reported at around WS 300.
 
-[SIGNATURE]
-
-bc
-
 # CHARTERING
-
-12
 
 # CONTAINERSHIP MARKET
 
@@ -635,11 +612,7 @@ PICTOR, blt 2009, 925 teu, gearless, Extended with EIMSKIP at USD 14,500
 | China - WCNA | usd/feu | 8,149 | 8,322 | -2.1% | +424.4% |
 | China - N. Europe | usd/feu | 3,260 | 3,260 | +0.0% | +69.4% |
 
-bc
-
 # SALE & PURCHASE
-
-13
 
 # NEWBUILDING ORDERS
 
@@ -698,8 +671,6 @@ CDO
 
 # SALE & PURCHASE
 
-14
-
 # SECONDHAND SALES
 
 Another active week in the secondhand market, with a number of transactions reported across both the dry bulk and tanker sectors.
@@ -757,8 +728,6 @@ Among smaller tankers, BOW VICTORY 21,000 dwt 2016 Asakawa Zosen was reportedly 
 # SALE & PURCHASE
 
 ## REPORTED SALES :
-
-15
 
 | TYPE | VESSEL NAME | IMO No. | DWT | BUILT | YARD | BUYERS | PRICE | SS | NOTE |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -885,8 +854,6 @@ No sales of significance to report on this week.
 | KRW/USD | 1340 | 1343 | -0.2% | -4.8% |
 | CNY/USD | 6.69 | 6.70 | -0.2% | -6.0% |
 
-16
-
 ## CAPESIZE FORWARD CURVE (USD/DAY)
 
 ## PANAMAX FORWARD CURVE (USD/DAY)
@@ -963,5 +930,3 @@ EDC# COMMODITIES
 [CHART]
 
 [CHART]
-
-banchero costa
