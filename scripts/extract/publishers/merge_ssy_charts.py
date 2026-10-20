@@ -1,38 +1,52 @@
-"""ssy - stack the 519 chart extractions into one time series, and PROVE the keys align.
+"""ssy - stack the weekly chart extractions into one weekly index series, gated per report.
 
-A source is not closed until its repeated charts demonstrably stack into a series. This
-does that, and - more importantly - it proves the join is real.
+Each SSY report (Atlantic and Pacific, weekly) draws its index as two or three yearly
+lines. run_ssy_charts.py reads every vertex off the vector strokes. This script decides
+which reports to trust and stacks their readings into one row per route and week.
 
-WHY A CROSS-DOCUMENT CHECK IS THE ONLY HONEST PROOF
-----------------------------------------------------
-Each weekly report redraws the same calendar window. A point at the same calendar
-position in two different reports is the SAME WEEK, measured twice. So if the date
-mapping is correct, the two readings must agree to within the chart's own plotting
-resolution. If the mapping is wrong, points from different weeks get merged and the
-spread explodes.
+THE GATE: EVERY REPORT IS CHECKED AGAINST THE PRINTED INDEX
+-----------------------------------------------------------
+Every report also PRINTS the index (current and previous week) in its table, and those
+tables are in ssy_capesize_index_time_series.csv for every week since July 2021. A chart
+vertex dated to a printed week must read that week's printed value. Per report, the median
+relative error over its matched vertices is the calibration measure:
 
-That gives a self-validating merge: the spread of repeated readings of the same key is
-a measurement of the extractor's correctness, not a tuning target. It is reported
-below and is the gate on the output.
+    accepted  when  median error <= GATE_MAX_ERR  over  >= GATE_MIN_MATCHES vertices
 
-KEY DERIVATION (no label assignment by order)
+A report that fails is left out entirely (its lines for older years too), and is listed.
+Measured 2026-10-20 after the axis fixes in run_ssy_charts.py: chart against print within
+about 0.5% where the ladder and dates are right. Before them, every reading sat a constant
+amount low (labels read by their top edge, not the gridline) and dates ran 3-12 days early.
+
+BASES: ONE REAL REBASING, ONE MISPRINTED PAGE
 ---------------------------------------------
-The x axis carries MONTH labels at known x positions, and x is linear in time. A point
-between 'Jan' and 'Feb' is dated by interpolating within that month. The YEAR comes
-from the colour legend, matched by exact stroke RGB - never from row order or from
-position in a list. For 2021-23 the month labels already carry the year ('Jan-20'); for
-2024-26 they are bare ('Jan'), and the series' legend year supplies it.
+Until 2026-10-20 this script split the series into a "basis" at every break in the printed
+index chain. Checked against the PDFs, the breaks are:
 
-Because the reports are weekly, the interpolated position is fractional. Points are
-therefore keyed on (year, month, 4-day bucket) so that a reading reported in two
-different weeks still lands on one key, while readings genuinely weeks apart do not.
+  * Atlantic 2023-06-26: a real rebasing (basket change, Hampton Roads/Rotterdam replaced
+    by Seven Islands/Rotterdam). The 2023-06-26 issue prints the previous week as 7,387
+    where the 2023-06-19 issue printed 7,827, and every chart drawn after it shows all
+    history on the new basis. Rows carry `basis` = 2015-07-17 or 2023-06-26 (BASES).
+  * Pacific 2025-01-03: a publisher error, not a rebasing. It prints 16,263 / 21,348 and
+    draws its 2023/2024 lines up to 90,279; SSY's next issue prints that week as 4,367.
+    The gate keeps that chart out. The Pacific was never rebased.
+  * The rest are single misprinted cells (see PRE_GRAPHRAG_OPEN_ITEMS) or the 2023-10
+    switch from Monday to Friday assessments (one week listed under both dates).
+
+KEYS
+----
+One row per (route, basis, week). A vertex is dated by run_ssy_charts.py (`iso_date`). It
+is snapped to the printed assessment date when one exists, so readings of the same week
+from different reports land on one key. Friday-dated vertices (grid and month layouts)
+snap forward first, to the Monday or holiday Tuesday that was assessed before 2023-10.
+Weeks before July 2021 (the 2019, 2020 and early-2021 lines) have no printed table in the
+corpus: slot-dated vertices step back a week at a time, month-dated ones keep their date.
 """
 
 from __future__ import annotations
 
 import datetime as dt
 import json
-import re
 import statistics
 import sys
 from collections import defaultdict
@@ -48,133 +62,192 @@ CHARTS = REPO / "data" / "extracted" / "charts" / "ssy"
 OUT = REPO / "data" / "extracted" / "series"
 CSV_NAME = "ssy_capesize_index_series.csv"
 TIME_SERIES_NAME = "ssy_capesize_index_time_series.csv"
-CSV_COLS = ["route", "base", "year", "month", "bucket", "n_reports",
-            "value", "min", "max", "value_sd"]
-REBASE_TOLERANCE = 0.02
-MONTHS = ("JAN", "FEB", "MAR", "APR", "MAY", "JUN",
-          "JUL", "AUG", "SEP", "OCT", "NOV", "DEC")
-BUCKET_DAYS = 4
+CSV_COLS = ["route", "basis", "date", "n_reports", "value", "min", "max", "value_sd",
+            "printed_index"]
+GATE_MAX_ERR = 0.02
+GATE_MIN_MATCHES = 4
+GATE_RECENT_WEEKS = 8
+MATCH_DAYS = 3
+
+# Index definition dates ("The latest update was on ..."), from the pages. SSY rebased the
+# Atlantic index on 26 June 2023 (basket change: Hampton Roads/Rotterdam replaced by Seven
+# Islands/Rotterdam). Its 2023-06-26 issue prints the previous week as 7,387 where the
+# 2023-06-19 issue had printed 7,827, and every chart drawn after it shows all history on
+# the new basis (the 2022 line ~445 points below what was printed in 2022). The pages
+# from 2023-10-20 to 2024-01-12 (the new template) print "17 July 2015" again although the
+# chain runs straight through them, a template slip corrected on 2024-01-19, so the basis
+# is assigned by issue date, not read off the page. The Pacific was never rebased.
+BASES = {"ATLANTIC": [(dt.date(2023, 6, 26), "2023-06-26")]}
+BASE_DEFAULT = "2015-07-17"
 
 
-def key_for(point, series_year, route):
-    """(route, year, month, bucket) from a chart point, or None.
+def basis_of(route, report_date):
+    b = BASE_DEFAULT
+    for start, name in BASES.get(route, []):
+        if report_date is not None and report_date >= start:
+            b = name
+    return b
 
-    `route` is part of the key because Atlantic and Pacific are DIFFERENT indices.
-    Pooling them was caught by this script's own agreement check: median relative spread
-    48.8%, with the worst key (2023-DEC-b4) collecting 156 readings spanning
-    8,175..90,279 - a 10x range that is only possible if two unrelated series share a key.
 
-    The key is built from the point's CALENDAR `date`, never from `month_frac`.
-    `month_frac` is a 0-11 offset WITHIN the plot window, so keying on it dated every
-    point to months of the legend year rather than to the window it was drawn in - which
-    is what left the median spread at 4.8% and the worst keys at 160%. The extractor now
-    supplies `date` using the window's start year (the oldest legend year), so the merge
-    only has to trust it.
+def _collapse(weeks):
+    """One date per assessment: the 2023 switch from Monday to Friday lists one assessment
+    under both (Atlantic 2023-10-13 and 2023-10-16, both 11,587). The earlier is kept."""
+    out = []
+    for w in sorted(weeks):
+        if out and (w - out[-1]).days <= MATCH_DAYS:      # Mon 10-09 / Fri 10-13 are 4 apart
+            continue
+        out.append(w)
+    return out
+
+
+def printed_weeks(ts_rows):
+    """(dates, values): every assessed week per ROUTE, and {(ROUTE, basis): {date: value}}.
+
+    A value belongs to the basis of the report that printed it (current column wins)."""
+    raw = defaultdict(set)
+    vals = defaultdict(dict)
+    for col_d, col_v in (("rates_date_prev", "calculated_index_prev"),
+                         ("rates_date_curr", "calculated_index_curr")):
+        for r in ts_rows:
+            try:
+                route = r["basin"].upper()
+                d = dt.date.fromisoformat(r[col_d])
+                rep = dt.date.fromisoformat(r["rates_date_curr"])
+            except (KeyError, ValueError, TypeError):
+                continue
+            raw[route].add(d)
+            try:
+                vals[(route, basis_of(route, rep))][d] = float(r[col_v])
+            except (ValueError, TypeError):
+                continue
+    dates = {route: _collapse(ws) for route, ws in raw.items()}
+    for key, by in vals.items():
+        keep = dates.get(key[0], [])
+        for d in sorted(by):
+            if d in keep:
+                continue
+            near = [q for q in keep if abs((q - d).days) <= MATCH_DAYS]
+            if near:                                 # a collapsed twin date: file under the kept one
+                by.setdefault(near[0], by[d])
+            del by[d]
+    return dates, vals
+
+
+def report_dates(ts_rows):
+    """source_file -> the report's own (current) rates date, from the printed table."""
+    out = {}
+    for r in ts_rows:
+        try:
+            out[r["source_file"]] = dt.date.fromisoformat(r["rates_date_curr"])
+        except (KeyError, ValueError, TypeError):
+            continue
+    return out
+
+
+def align_slots(doc, weeks, rep_date):
+    """Re-date the slot-dated (2021-23 layout) vertices onto the weeks SSY actually assessed.
+
+    That layout has one x slot per published assessment, and a week SSY did not assess has
+    NO slot: measured on the 2023 Atlantic line, no 2023-02-20 assessment, so counting slots
+    from the second Monday of January dated every later vertex a week early (2023-08-21
+    read 7,064, which is the printed 2023-08-29 value 7,081). The printed tables list the
+    weeks that were assessed, so each line is aligned from its END: its last vertex is the
+    last assessed week of that year up to the report (verified: the current-year line ends
+    on the report's own printed index), and earlier vertices take the earlier assessed
+    weeks in order. Vertices older than the printed record (before July 2021) step back a
+    week at a time from the first aligned one.
+
+    A year with no printed week at all (the 2019 and 2020 lines) is dated by vertex ORDER
+    from the second Monday of January, one week per vertex. Dating those by x position
+    drifted a week over the year (the slot step is measured, not printed): the same 51
+    vertices of 2019 ended on 2019-12-23 in the Atlantic reports and 2019-12-30 in the
+    Pacific ones, and single reports (A/P20211220, four 2022 issues) a week off the rest.
+    Ordered from slot 0, both basins and all reports agree. That assumes no week of
+    2019-20 went unassessed, which the corpus cannot check.
     """
-    if series_year is None or route is None:
+    if rep_date is None:
+        return
+    for s in doc.get("series", []):
+        yr = s.get("year")
+        pts = s.get("points") or []
+        if not yr or not str(yr).isdigit() or not pts or pts[0].get("dating") != "slot":
+            continue
+        dates = [w for w in weeks if w.year == int(yr)
+                 and w <= rep_date + dt.timedelta(days=MATCH_DAYS)]
+        if not dates:
+            if int(yr) < min(weeks, default=rep_date).year:
+                first = _second_monday(int(yr))
+                for j, p in enumerate(pts):
+                    p["iso_date"] = (first + dt.timedelta(days=7 * j)).isoformat()
+            continue
+        for j, p in enumerate(reversed(pts)):
+            if j < len(dates):
+                d = dates[-1 - j]
+            else:
+                d = dates[0] - dt.timedelta(days=7 * (j - len(dates) + 1))
+            p["iso_date"] = d.isoformat()
+
+
+def _second_monday(year):
+    d = dt.date(year, 1, 1)
+    return d + dt.timedelta(days=(7 - d.weekday()) % 7 + 7)
+
+
+def week_of(point, weeks):
+    """The week of a vertex: snapped to an assessed week within MATCH_DAYS, else its own date."""
+    try:
+        d = dt.date.fromisoformat(point["iso_date"])
+    except (KeyError, TypeError, ValueError):
         return None
-    d = point.get("date")
-    if not d:
-        return None
-    m = re.match(r"(\d{4})-([A-Z]{3})$", d)
-    if not m:
-        return None
-    y, mon = int(m.group(1)), m.group(2)
-    # interpolate the day from the within-month fraction, using the calendar month
-    mi = MONTHS.index(mon) if mon in MONTHS else 0
-    mf = point.get("month_frac")
-    frac = (mf - mi) if mf is not None else 0.0
-    frac = min(max(frac, 0.0), 1.0)
-    day = max(1, min(28, 1 + int(frac * 30.5)))
-    return (route, y, mon, day // BUCKET_DAYS)
+    if point.get("dating") in ("grid", "month"):
+        # These layouts date a vertex to its Friday (+-1 day), and before October 2023 that
+        # week's assessment was the FOLLOWING Monday, or Tuesday after a bank holiday
+        # (measured: shift +3 days matches print to 0.6%, -4 days to 4.9%). Nearest-date
+        # snapping pulled the next Friday back onto a holiday Tuesday (Pacific 2022-08-30,
+        # 2023-04-11), so these snap forward first.
+        ahead = [((q - d).days, q) for q in weeks if 0 <= (q - d).days <= MATCH_DAYS + 2]
+        if ahead:
+            return min(ahead)[1]
+        if weeks and d < weeks[0]:
+            # Before the printed record (pre-July 2021) there is no week to snap to: the
+            # assessment was that following Monday, so the key is the Monday, the same key
+            # the slot-dated (2021-23 layout) readings of that week have.
+            return d + dt.timedelta(days=(7 - d.weekday()) % 7)
+    near = [(abs((q - d).days), q) for q in weeks if abs((q - d).days) <= MATCH_DAYS]
+    return min(near)[1] if near else d
 
 
-def collect_readings(docs, base_id_of_doc):
-    """(readings, series_meta, unkeyed) from chart documents and their base ids."""
-    readings = defaultdict(list)          # key -> [(value, source_file)]
-    series_meta = {}
-    unkeyed = 0
-    for f, d in docs:
-        rid = d["file"]
-        route = d.get("route")
-        bid = base_id_of_doc[rid]
-        for s in d["series"]:
-            yr = s.get("year")
-            sid = f"{bid} {yr}" if yr else f"{bid} unlabelled"
-            series_meta.setdefault(sid, {"n_docs": 0, "n_points": 0, "colour": s.get("colour")})
-            series_meta[sid]["n_docs"] += 1
-            for p in s["points"]:
-                v = p.get("index_value")
-                if v is None:
-                    continue
-                k = key_for(p, yr, route)
-                if k is None:
-                    unkeyed += 1
-                    continue
-                readings[(bid,) + k].append((v, rid))
-                series_meta[sid]["n_points"] += 1
-    return readings, series_meta, unkeyed
+def gate(doc, weeks, printed, rep_date=None):
+    """(accepted, median error, matched vertices) of one report against the printed index.
 
-
-def rows_from_readings(readings):
-    rows = []
-    for (_bid, route, y, mon, b), vals in sorted(readings.items()):
-        xs = [v for v, _ in vals]
-        rows.append({
-            "route": route, "base": _bid, "year": y, "month": mon, "bucket": b,
-            "n_reports": len(vals),
-            "value": round(statistics.median(xs), 1),
-            "min": round(min(xs), 1), "max": round(max(xs), 1),
-            "value_sd": round(statistics.pstdev(xs), 2) if len(xs) > 1 else 0.0,
-        })
-    return rows
-
-
-def row_key(r):
-    return (str(r["base"]), str(r["route"]), str(r["year"]), str(r["month"]), str(r["bucket"]))
-
-
-def row_sort_key(r):
-    return (str(r["base"]), str(r["route"]), int(r["year"]), str(r["month"]), int(r["bucket"]))
-
-
-def _doc_date(d):
-    """ISO date of a report, for ORDERING the rebasing chain.
-
-    The file name carries it in every naming scheme collected (P20210705, _20260417-,
-    ssy_12_10_2026_, _2025-08-15). The extractor's report_date is not usable for ordering:
-    it is free text ('20-April-2026' sorts before '20-January-2025') and 205 of the
-    2021-23 files read '2015-07-17'. Ordered by it, the chain compared unrelated weeks and
-    opened 23 ATLANTIC / 33 PACIFIC false 'rebasings'.
+    Calibration is checked on the report's most recent GATE_RECENT_WEEKS printed weeks of
+    the same basis, read off the current-year line and, in January when that line is a few
+    weeks long, the previous year's: that is what proves the ladder and the dates were read
+    right. Older lines are not used: after a rebasing they are drawn on the new basis and
+    were printed on the old one.
     """
-    n = str(d.get("file") or "")
-    m = (re.search(r"(20\d\d)(\d\d)(\d\d)(?=[-_.]|$)", n.replace("-Atlantic", "_").replace("-Pacific", "_"))
-         or re.search(r"[_-](20\d\d)[-_](\d\d)[-_](\d\d)", n))
-    if m:
-        return f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
-    m = re.search(r"ssy_(\d\d)_(\d\d)_(20\d\d)", n)
-    if m:
-        return f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
-    try:
-        return dt.datetime.strptime(str(d.get("report_date")), "%d-%B-%Y").date().isoformat()
-    except ValueError:
-        return str(d.get("report_date") or n)
-
-
-def _adjacent(a, b, days=8):
-    """True when two ISO dates are one weekly issue apart. A wider gap is a missing issue,
-    and a missing week moves the index, so it says nothing about a rebasing."""
-    try:
-        return 0 < (dt.date.fromisoformat(b[:10]) - dt.date.fromisoformat(a[:10])).days <= days
-    except ValueError:
-        return False
+    years = {str(rep_date.year), str(rep_date.year - 1)} if rep_date else None
+    matched = []
+    for s in doc.get("series", []):
+        if not s.get("year") or (years and s["year"] not in years):
+            continue
+        for p in s["points"]:
+            v = p.get("index_value")
+            wk = week_of(p, weeks)
+            pv = printed.get(wk) if v is not None else None
+            if pv:
+                matched.append((wk, abs(v - pv) / pv))
+    errs = [e for _, e in sorted(matched)[-GATE_RECENT_WEEKS:]]
+    if len(errs) < GATE_MIN_MATCHES:
+        return False, None, len(errs)
+    med = statistics.median(errs)
+    return med <= GATE_MAX_ERR, med, len(errs)
 
 
 def dedupe_docs(docs):
     """Drop re-drops of one issue (same route, report date, printed index and change).
 
-    The same weekly PDF is routinely collected twice under different filenames; chained as
-    two reports it looks like a rebasing (its previous value is not its own current one).
+    The same weekly PDF is routinely collected twice under different file names.
     """
     seen, out = set(), []
     for f, d in docs:
@@ -188,109 +261,106 @@ def dedupe_docs(docs):
     return out
 
 
-def incremental_bases(docs, existing_rows, ts_rows):
-    """Base id per new document, continuing the chain already on disk.
-
-    Same rule as the full merge (previous = current - change_on_previous, a >2% mismatch
-    with the prior printed index is a rebasing), but the starting point is the LAST base
-    number in the existing series and the prior printed index comes from the existing
-    time-series CSV rather than from older chart files that are not present in CI.
-    Time-series rows that came from the new documents themselves are ignored, so a
-    report is never chained to itself.
-
-    UNITS: the extractor's `printed_calculated_index` is the PREVIOUS-week column of the
-    report's index table (measured: it equals `calculated_index_prev` of the time-series
-    CSV for all 510 documents on disk, never `calculated_index_curr`), and its
-    change_on_previous belongs to that same column. The chain is internally consistent in
-    those terms, so the baseline taken from the time-series CSV must be the PREV column.
-    """
-    last_base = {}
-    for r in existing_rows:
-        m = re.fullmatch(r"(.+)-b(\d+)", r["base"])
-        if m:
-            last_base[r["route"]] = max(last_base.get(r["route"], 0), int(m.group(2)))
-    new_files = {d["file"] for _, d in docs}
-    prior = defaultdict(list)             # ROUTE -> [(issue_date, printed index)]
-    for r in ts_rows:
-        if r.get("source_file") in new_files:
+def collect(docs, weeks_by_route, printed_by_key, rep_dates):
+    """(readings, gate report): readings[(ROUTE, basis, date)] -> [(value, file)], accepted only."""
+    readings = defaultdict(list)
+    report = []
+    for _f, d in docs:
+        route = d.get("route")
+        rep_date = rep_dates.get(d["file"])
+        basis = basis_of(route, rep_date)
+        weeks = weeks_by_route.get(route, [])
+        printed = printed_by_key.get((route, basis), {})
+        align_slots(d, weeks, rep_date)
+        ok, med, n = gate(d, weeks, printed, rep_date)
+        report.append((d["file"], route, ok, med, n))
+        if not ok:
             continue
-        try:
-            prior[r["basin"].upper()].append((r["issue_date"], float(r["calculated_index_prev"])))
-        except (KeyError, ValueError):
-            continue
-    by_route = defaultdict(list)
-    for f, d in docs:
-        by_route[d.get("route")].append((_doc_date(d), d))
-    base_id_of_doc = {}
-    for route, items in by_route.items():
-        items.sort(key=lambda t: t[0])
-        bid = last_base.get(route, 0)
-        first_date = items[0][0]
-        # A report is dated the Monday after its Friday rates (time-series issue_date), so the
-        # report itself sits 3 days before first_date. Its twin under another file name
-        # (ssy_2026_20260925-Pacific vs ssy_28_09_2026_ssy_pacific) is not in new_files, and
-        # chaining to it compared the report with its own previous column: Pacific moves >2%
-        # a week, so every CI run opened a new base (b36..b47, 2026-10-12..19). The previous
-        # report is 10 days back; anything within 5 days is this report.
-        try:
-            horizon = (dt.date.fromisoformat(first_date[:10]) - dt.timedelta(days=5)).isoformat()
-        except ValueError:
-            horizon = first_date
-        before = sorted(x for x in prior.get(route, []) if x[0] < horizon)
-        prev_reported = before[-1][1] if before else None
-        prev_date = before[-1][0] if before else None
-        for _date, d in items:
-            chk = d.get("check") or {}
-            cur = chk.get("printed_calculated_index")
-            chg = _num(chk.get("change_on_previous"))
-            if cur is not None:
-                # the time-series issue_date is the Friday rates date, the report the Monday after
-                if prev_reported is not None and chg is not None and _adjacent(prev_date, _date, 11):
-                    if abs((cur - chg) - prev_reported) / max(abs(prev_reported), 1) > REBASE_TOLERANCE:
-                        bid += 1
-                prev_reported, prev_date = cur, _date
-            base_id_of_doc[d["file"]] = f"{route}-b{bid}"
-    return base_id_of_doc
+        for s in d["series"]:
+            if not s.get("year"):
+                continue
+            pts = s["points"]
+            if (pts and pts[0].get("dating") == "grid" and rep_date
+                    and s["year"] != str(rep_date.year)):
+                continue          # older lines on the weekly-grid layout: see run_ssy_charts
+            # One reading per line per week, the earlier vertex kept. The 2024+ charts draw
+            # their 2022 line with an extra point on the UK holiday Fridays 2022-04-15 and
+            # 2022-06-03 (8,999 and 11,690 Atlantic), right after the real assessment (9,603
+            # and 12,548), and both snap to the same assessed week. Where a printed value
+            # exists the earlier vertex is the right one in 112 of 113 such collisions.
+            seen = set()
+            for p in pts:
+                v = p.get("index_value")
+                day = week_of(p, weeks)
+                if v is None or day is None or day in seen:
+                    continue
+                seen.add(day)
+                readings[(route, basis, day)].append((v, d["file"]))
+    return readings, report
+
+
+def rows_from_readings(readings, printed_by_key):
+    rows = []
+    for (route, basis, day), vals in sorted(readings.items()):
+        xs = [v for v, _ in vals]
+        pv = printed_by_key.get((route, basis), {}).get(day)
+        rows.append({
+            "route": route, "basis": basis, "date": day.isoformat(), "n_reports": len(vals),
+            "value": round(statistics.median(xs), 1),
+            "min": round(min(xs), 1), "max": round(max(xs), 1),
+            "value_sd": round(statistics.pstdev(xs), 2) if len(xs) > 1 else 0.0,
+            "printed_index": "" if pv is None else round(pv, 1),
+        })
+    return rows
+
+
+def row_key(r):
+    return (str(r["route"]), str(r["basis"]), str(r["date"]))
+
+
+def print_gate(report):
+    acc = [r for r in report if r[2]]
+    rej = [r for r in report if not r[2]]
+    meds = sorted(r[3] for r in acc)
+    print(f"gate: {len(acc)} of {len(report)} report(s) accepted "
+          f"(median error <= {GATE_MAX_ERR:.0%} over >= {GATE_MIN_MATCHES} printed weeks)")
+    if meds:
+        print(f"  accepted: median error {statistics.median(meds):.4f}, worst {meds[-1]:.4f}")
+    for f, route, _ok, med, n in sorted(rej):
+        why = f"median error {med:.3f}" if med is not None else f"only {n} printed week(s) to check"
+        print(f"  REJECTED {f} ({route}): {why}")
+
+
+def load_docs(charts_dir):
+    files = sorted(Path(charts_dir).glob("*.charts.json"))
+    return files, dedupe_docs([(f, json.loads(f.read_text(encoding="utf-8"))) for f in files])
 
 
 def merge_new_only(charts_dir=None, out_dir=None):
-    """Upsert the readings of the chart files in `charts_dir` into the series CSV.
+    """Upsert the gated readings of the chart files in `charts_dir` into the series CSV.
 
     Never rewrites history: keys already in the CSV are kept as they are, unseen keys are
     appended. `charts_dir` holds only the NEW reports' extractions (run_ssy_charts
-    --new-only --out-dir), so no cross-report median can be recomputed here - and none is
-    needed, because existing keys are not touched.
+    --new-only --out-dir).
     """
-    charts_dir = Path(charts_dir or CHARTS)
     out_dir = Path(out_dir or OUT)
-    files = sorted(charts_dir.glob("*.charts.json"))
+    files, docs = load_docs(charts_dir or CHARTS)
     if not files:
         print("new-only: no chart extractions to merge")
         return 0
-    docs = dedupe_docs([(f, json.loads(f.read_text(encoding="utf-8"))) for f in files])
-    csv_path = OUT / CSV_NAME
-    _, existing = inc.read_rows(csv_path)
+    _, existing = inc.read_rows(OUT / CSV_NAME)
     _, ts_rows = inc.read_rows(OUT / TIME_SERIES_NAME)
-    base_of = incremental_bases(docs, existing, ts_rows)
-    readings, _meta, unkeyed = collect_readings(docs, base_of)
-    produced = rows_from_readings(readings)
-    merged, added, kept = inc.upsert_new_keys(existing, produced, row_key, CSV_COLS, row_sort_key)
+    weeks, printed = printed_weeks(ts_rows)
+    readings, report = collect(docs, weeks, printed, report_dates(ts_rows))
+    print_gate(report)
+    produced = rows_from_readings(readings, printed)
+    merged, added, kept = inc.upsert_new_keys(existing, produced, row_key, CSV_COLS,
+                                              row_key)
     inc.write_rows(out_dir / CSV_NAME, CSV_COLS, merged)
-    print(f"new-only: {len(files)} report(s), {len(produced)} keys produced "
-          f"({unkeyed} unkeyable): +{added} appended, {kept} already present kept "
-          f"-> {out_dir / CSV_NAME} ({len(merged)} rows)")
+    print(f"new-only: {len(files)} report(s), {len(produced)} weeks produced: "
+          f"+{added} appended, {kept} already present kept -> {out_dir / CSV_NAME} "
+          f"({len(merged)} rows)")
     return 0
-
-
-def _num(s):
-    """Signed number from the extractor's float/None/str forms."""
-    if s is None or isinstance(s, (int, float)):
-        return None if s is None else float(s)
-    m = re.fullmatch(r"([+\-]?)([\d,]+)(?:\.(\d+))?", str(s).strip())
-    if not m:
-        return None
-    v = float(m.group(2).replace(",", "") + ("." + m.group(3) if m.group(3) else ""))
-    return -v if m.group(1) == "-" else v
 
 
 def main(argv=()):
@@ -298,125 +368,27 @@ def main(argv=()):
         charts = Path(argv[argv.index("--charts-dir") + 1]) if "--charts-dir" in argv else CHARTS
         out = Path(argv[argv.index("--out-dir") + 1]) if "--out-dir" in argv else OUT
         return merge_new_only(charts, out)
-    files = sorted(CHARTS.glob("*.charts.json"))
+    charts = Path(argv[argv.index("--charts-dir") + 1]) if "--charts-dir" in argv else CHARTS
+    files, docs = load_docs(charts)
     if not files:
         print("no chart extractions found", file=sys.stderr)
         return 1
-    readings = defaultdict(list)          # key -> [(value, source_file)]
-    series_meta = {}
-    unkeyed = 0
+    _, ts_rows = inc.read_rows(OUT / TIME_SERIES_NAME)
+    weeks, printed = printed_weeks(ts_rows)
+    readings, report = collect(docs, weeks, printed, report_dates(ts_rows))
+    print_gate(report)
 
-    # ---------------------------------------------------------------- REBASING
-    # SSY rebases its index between editions, so a key's readings are only comparable
-    # within one base. A base is NOT a property of the document: it changes over time.
-    #
-    # The evidence is entirely from the documents' own printed figures, never from the
-    # chart. A report prints its Calculated Index and its "Change on Previous Index", so
-    # the PREVIOUS week's level is recoverable exactly:
-    #
-    #     previous = current - change_on_previous
-    #
-    # Linking documents in publication order by that value finds where the chain breaks -
-    # a break is a rebasing, because the previous value the document reports is not the
-    # current value the document before it reported.
-    #
-    # Measured on ssy Pacific: the 3 Jan 2025 report prints 16,263 (its 2023 line runs
-    # 6,063..90,279), the 27 Jun 2025 report prints 6,232 (its 2023 line runs
-    # 3,328..9,287), and the legend mapping is byte-identical in both - teal=2023,
-    # navy=2024, pink=2025. So the colours are right and the index itself changed level.
-    docs = []
-    for f in files:
-        docs.append((f, json.loads(f.read_text(encoding="utf-8"))))
-    docs = dedupe_docs(docs)   # twins chained as two reports read as a rebasing
-
-    def _dnum(s):
-        # the extractor stores these as floats or None; the +/- sign is already carried
-        if s is None or isinstance(s, (int, float)):
-            return None if s is None else float(s)
-        m = re.fullmatch(r"([+\-]?)([\d,]+)(?:\.(\d+))?", str(s).strip())
-        if not m:
-            return None
-        v = float(m.group(2).replace(",", "") + ("." + m.group(3) if m.group(3) else ""))
-        return -v if m.group(1) == "-" else v
-
-    # per route, sort by report date (the date printed on the page)
-    route_docs = defaultdict(list)
-    for f, d in docs:
-        route_docs[d.get("route")].append((_doc_date(d), f, d))
-    base_id_of_doc = {}
-    n_bases = defaultdict(int)
-    for route, items in route_docs.items():
-        items.sort(key=lambda t: t[0])
-        bid = 0
-        prev_reported = prev_date = None
-        for date, f, d in items:
-            cur = (d.get("check") or {}).get("printed_calculated_index")
-            chg = _dnum((d.get("check") or {}).get("change_on_previous"))
-            if cur is None:
-                base_id_of_doc[d["file"]] = f"{route}-b{bid}"
-                continue
-            if prev_reported is not None and chg is not None and _adjacent(prev_date, date):
-                implied_prev = cur - chg
-                # a break is a rebasing: the previous document's current value is not
-                # what this document says the previous value was
-                if abs(implied_prev - prev_reported) / max(abs(prev_reported), 1) > 0.02:
-                    bid += 1
-            base_id_of_doc[d["file"]] = f"{route}-b{bid}"
-            prev_reported, prev_date = cur, date
-        n_bases[route] = bid + 1
-    print()
-    print("INDEX BASES (a rebased index must not be compared across editions)")
-    for route in sorted(n_bases, key=lambda x: (x is None, x)):
-        cnt = sum(1 for v in base_id_of_doc.values() if v.startswith(f"{route}-"))
-        print(f"  {route:<9} {n_bases[route]} base(s) across {cnt} documents")
-
-    readings, series_meta, unkeyed = collect_readings(docs, base_id_of_doc)
-
-    print(f"source files      : {len(files)}")
-    print(f"distinct series   : {len(series_meta)}")
-    print(f"distinct keys     : {len(readings)}")
-    print(f"total readings    : {sum(len(v) for v in readings.values())}")
-    print(f"unkeyable readings: {unkeyed}")
-
-    # ---- THE PROOF: readings of the same key, taken from different reports, must agree
-    multi = {k: v for k, v in readings.items() if len(v) > 1}
-    rel = []
-    worst = []
-    for k, vals in multi.items():
-        if len(vals) < 2:
-            continue
-        xs = [v for v, _ in vals]
-        lo, hi = min(xs), max(xs)
-        if lo <= 0:
-            continue
-        r = (hi - lo) / ((hi + lo) / 2)
-        rel.append(r)
-        worst.append((r, k, len(vals), lo, hi))
-    worst.sort(reverse=True)
-    if rel:
-        rel.sort()
-        n = len(rel)
-        print()
-        print("CROSS-REPORT AGREEMENT on repeated keys (the merge's own proof)")
-        print(f"  keys seen in >1 report : {n}")
-        print(f"  median relative spread : {statistics.median(rel):.4f}")
-        print(f"  p90                     : {rel[int(n * 0.9)]:.4f}")
-        print(f"  within 2%               : {sum(1 for r in rel if r <= 0.02)} ({100 * sum(1 for r in rel if r <= 0.02) / n:.1f}%)")
-        print(f"  worst keys              :")
-        for r, k, cnt, lo, hi in worst[:5]:
-            print(f"     {k[1]} {k[2]}-{k[3]}-b{k[4]:<2} n={cnt:<3} "
-                  f"{lo:9.1f}..{hi:9.1f}  spread={r:.3f}")
-
-    # ---- write the long-format series
-    OUT.mkdir(parents=True, exist_ok=True)
-    rows = rows_from_readings(readings)
-    csv = OUT / CSV_NAME
-    with csv.open("w", encoding="utf-8", newline="") as fh:
-        fh.write(",".join(CSV_COLS) + "\n")
-        for r in rows:
-            fh.write(",".join(str(r[c]) for c in CSV_COLS) + "\n")
-    print()
-    print(f"wrote {len(rows)} rows -> {csv}")
+    # Cross-report agreement: one week read from several reports must agree.
+    spreads = sorted((max(v for v, _ in vals) - min(v for v, _ in vals))
+                     / statistics.median([v for v, _ in vals])
+                     for vals in readings.values() if len(vals) > 1)
+    if spreads:
+        n = len(spreads)
+        print(f"agreement: {n} weeks read by >1 report, median spread {spreads[n // 2]:.4f}, "
+              f"p90 {spreads[int(n * 0.9)]:.4f}, within 2% {sum(s <= 0.02 for s in spreads)}")
+    rows = rows_from_readings(readings, printed)
+    inc.write_rows(OUT / CSV_NAME, CSV_COLS, rows)
+    print(f"wrote {len(rows)} rows -> {OUT / CSV_NAME}")
     return 0
 
 

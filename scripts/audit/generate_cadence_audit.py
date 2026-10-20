@@ -352,7 +352,7 @@ REGISTRY_DATA = [
         "total_files": 530,
         "charts_extracted": "Yes (Atlantic & Pacific Capesize index vector curves)",
         "chart_engine": "PyMuPDF span geometry + vector chart calibration",
-        "series_csvs": "ssy_capesize_index_series.csv (8,737 rows), ssy_route_rates_series.csv (5,190 rows), ssy_capesize_index_time_series.csv (519 rows)",
+        "series_csvs": "ssy_capesize_index_series.csv (916 rows), ssy_route_rates_series.csv (5,230 rows), ssy_capesize_index_time_series.csv (523 rows)",
         "primary_script": "run_ssy_complete.py",
         "notes": "Covers both Atlantic Capesize Index (ACI) and Pacific Capesize Index (PCI)."
     },

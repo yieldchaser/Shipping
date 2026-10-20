@@ -121,6 +121,26 @@ def _clusters(pairs, gap=CLUSTER_GAP):
     return out
 
 
+GRID_SNAP = 1.5          # pt; a label centre is within 0.35pt of its gridline (measured)
+GRID_MIN_WIDTH = 100.0   # pt; gridlines span the plot, legend swatches are ~7-40pt
+
+
+def _gridlines(page):
+    """y of every long horizontal stroke (the plot's gridlines)."""
+    ys = []
+    for d in page.get_drawings():
+        for it in d["items"]:
+            if it[0] == "l":
+                a, b = it[1], it[2]
+                if abs(a.y - b.y) < 0.01 and abs(a.x - b.x) >= GRID_MIN_WIDTH:
+                    ys.append(a.y)
+            elif it[0] == "re":
+                r = it[1]
+                if r.height < 1.5 and r.width >= GRID_MIN_WIDTH:
+                    ys.append(r.y0 + r.height / 2.0)
+    return ys
+
+
 def axis_ticks(page):
     """The y-axis ladder: evenly spaced in y, monotonic in value, one x cluster.
 
@@ -128,11 +148,22 @@ def axis_ticks(page):
     baseline is a real tick and dropping it - as an early version did by requiring
     v > 0 - left the 2024 ladder with four rungs and no anchor.
     """
+    # A rung sits at the label's vertical CENTRE, where the gridline is drawn (measured
+    # 2021/2023/2024: gridline y 675.63/689.04/608.60 against label centre
+    # 675.48/688.75/608.95). The label TOP (bbox[1]) was used until 2026-10-20: half a
+    # label height (3.5-5pt) above the rung, so every reading came out a constant amount
+    # low - 257 points on the 2024 Pacific ladder, against the printed index of the same
+    # week, week after week.
+    grid = _gridlines(page)
     nums = []
     for sp in _spans(page):
         v = _num(sp["text"])
         if v is not None:
-            nums.append((sp["bbox"][0], sp["bbox"][1], v, sp["text"].strip()))
+            y = (sp["bbox"][1] + sp["bbox"][3]) / 2.0
+            near = [g for g in grid if abs(g - y) <= GRID_SNAP]
+            if near:
+                y = min(near, key=lambda g: abs(g - y))
+            nums.append((sp["bbox"][0], y, v, sp["text"].strip()))
     best = None
     for cl in _clusters([(x, (x, y, v, raw)) for x, y, v, raw in nums]):
         col = [c[1] for c in cl]
@@ -182,6 +213,9 @@ def axis_ticks(page):
     return sorted(best, key=lambda t: t[1]) if best else []
 
 
+MONTH_TICK_SNAP = 2.0    # pt; a 2024 tick mark is within 0.25pt of its label centre
+
+
 def month_axis(page):
     """Ordered x-axis month labels as dicts with both edges.
 
@@ -195,7 +229,9 @@ def month_axis(page):
         m = re.fullmatch(r"(" + MONTH_RE + r")-(\d{2})", t, re.I)
         if m or re.fullmatch(MONTH_RE, t, re.I):
             yy = m.group(2) if m else ""
+            bb = sp["bbox"]
             found.append({
+                "rotated": (bb[3] - bb[1]) > 1.2 * (bb[2] - bb[0]),
                 "x0": sp["bbox"][0], "x1": sp["bbox"][2],
                 "y": sp["bbox"][1], "mon": (m.group(1) if m else t).upper(), "yy": yy,
             })
@@ -206,6 +242,17 @@ def month_axis(page):
     if len(row) < 2:
         return []
     row.sort(key=lambda f: f["x0"])
+    # The month starts at the label's CENTRE: 2024-26 draw a tick mark there (measured
+    # 2024: ticks 56.57/101.83/143.85 against label centres 56.8/101.9/144.0) and the
+    # 2021-23 labels are centred the same way. The left edge was used until 2026-10-20,
+    # dating every vertex half a label (~5pt, 4-6 days) early against the printed index.
+    ticks = sorted({round(it[1].x, 2) for d in page.get_drawings() for it in d["items"]
+                    if it[0] == "l" and abs(it[1].x - it[2].x) < 0.01
+                    and 1 < abs(it[1].y - it[2].y) < 12})
+    for f in row:
+        c = (f["x0"] + f["x1"]) / 2.0
+        near = [x for x in ticks if abs(x - c) <= MONTH_TICK_SNAP]
+        f["xc"] = min(near, key=lambda x: abs(x - c)) if near else c
     year = None
     for f in row:
         if f["yy"]:
@@ -228,8 +275,8 @@ def _pts(d):
 def series_paths(page):
     """Every long stroked polyline: the candidate series.
 
-    Selected by VERTEX COUNT with a floor of 20. A plotted weekly line has dozens to a
-    hundred closely spaced vertices; the plot frame has 8-16. Taking the single longest
+    Selected by VERTEX COUNT with a floor of 8 (a current-year line in January is short),
+    then by forward progress in x, which the plot frame and gridlines fail. Taking the single longest
     path - the obvious first implementation - merged the frame into the series and cut
     the final reading by 5.4% against the page's own printed value.
     """
@@ -240,10 +287,16 @@ def series_paths(page):
             if it[0] == "l":
                 for seg in it[1:]:
                     raw.append((seg.x, seg.y))
-        if len(raw) < 20:
+        # Floor 8 (four segments), not 20: measured ssy 2026-03-13 Atlantic, the current-year
+        # line is 9 segments (18 vertices) in mid-March and the floor of 20 dropped it, from
+        # January to March every year. Furniture is excluded by the forward-step test below.
+        if len(raw) < 8:
             continue
         r = d["rect"]
-        if (r.x1 - r.x0) < 100 or (r.y1 - r.y0) < 10:
+        # Width floor 20pt, not 100: an early-year line is short. Measured ssy 2022-04-11
+        # Pacific, the 2022 line is 14 weekly vertices over 85pt, and the old 100pt floor
+        # dropped the current year from every report up to late April.
+        if (r.x1 - r.x0) < 20 or (r.y1 - r.y0) < 3:
             continue
         # A DATA LINE advances monotonically in x. Axis furniture does not.
         #
@@ -265,8 +318,8 @@ def series_paths(page):
             continue
         forward = sum(1 for s in steps if s > 0.01)
         backward = sum(1 for s in steps if s < -0.01)
-        if forward < 0.9 * (forward + backward):
-            continue              # a stack of rules, not a left-to-right line
+        if forward < 0.9 * (forward + backward) or forward < 4:
+            continue              # a stack of rules, or a legend swatch, not a data line
         # KEEP EMISSION ORDER. Sorting by x here would destroy the information
         # _forward_runs() needs: a stroke that doubles back is only recognisable from the
         # order its segments were emitted, and sorting first makes the backtrack look
@@ -433,7 +486,32 @@ def value_at(y, ticks):
     return a[2] + (y - a[1]) * (b[2] - a[2]) / (b[1] - a[1])
 
 
-def date_for_x(x, months, series_year=None):
+def second_monday(year):
+    """The first SSY assessment of a year on the 2021-23 layout.
+
+    Measured from the printed tables: 2021-01-11, 2022-01-10, 2023-01-09, the second
+    Monday of January each time (the first week of the year is not assessed). 2019 and
+    2020 appear only as older lines on those charts and are dated by the same rule.
+    """
+    d = dt.date(year, 1, 1)
+    first = d + dt.timedelta(days=(7 - d.weekday()) % 7)
+    return first + dt.timedelta(days=7)
+
+
+def _dated(day):
+    mi = day.month - 1
+    return {"month_frac": round(mi + (day.day - 1) / 30.5, 3), "iso_date": day.isoformat(),
+            "dating": "slot",
+            "date": f"{day.year:04d}-{MONTH_ABBR[mi]}", "year": day.year,
+            "month_abbr": MONTH_ABBR[mi]}
+
+
+def first_friday(year):
+    d = dt.date(year, 1, 1)
+    return d + dt.timedelta(days=(4 - d.weekday()) % 7)
+
+
+def date_for_x(x, months, series_year=None, slot_step=None, x_origin=None):
     """Map a page x to a calendar position using the month axis.
 
     x is linear in time, so a point between two month labels is dated by interpolating
@@ -459,7 +537,26 @@ def date_for_x(x, months, series_year=None):
     """
     if len(months) < 2:
         return None
-    x0s = [m["x0"] for m in months]
+    # 2021-23 (month labels rotated 90 degrees): a CATEGORY axis, one slot per weekly
+    # assessment. Every line starts on the 'Jan' label centre (measured 2022-04-11: all
+    # three lines begin at x=253.7 against the label centre 253.4) and steps a constant
+    # 6.5pt per week, so a vertex is dated by its slot, not by month interpolation. Month
+    # interpolation put these points 3-12 days early against the printed index.
+    if slot_step and months[0].get("rotated") and series_year and str(series_year).isdigit():
+        k = max(0, round((x - months[0]["xc"]) / slot_step))
+        return _dated(second_monday(int(series_year)) + dt.timedelta(days=7 * k))
+    # The 2023-10-23/27 issues (labels upright, constant step): a WEEKLY GRID. Every yearly
+    # line starts at the same x and steps one week per vertex. Measured on 2023-10-27
+    # Atlantic: the 2023 line has 43 vertices = the Fridays 6 Jan..27 Oct. The month labels
+    # sit unevenly on that grid (Apr-May 39pt against 27pt elsewhere), so they are not used.
+    # The 2022 line there has 53 vertices, one more than 2022 has Fridays, so older lines on
+    # this layout cannot be dated with certainty; the merge uses only the current-year line.
+    if slot_step and x_origin is not None and series_year and str(series_year).isdigit():
+        k = max(0, round((x - x_origin) / slot_step))
+        out = _dated(first_friday(int(series_year)) + dt.timedelta(days=7 * k))
+        out["dating"] = "grid"
+        return out
+    x0s = [m["xc"] for m in months]
     if x <= x0s[0]:
         i = 0
     elif x >= x0s[-1]:
@@ -467,7 +564,9 @@ def date_for_x(x, months, series_year=None):
     else:
         i = max(j for j in range(len(x0s) - 1) if x0s[j] <= x)
     a, b = months[i], months[i + 1]
-    t = (x - a["x0"]) / (b["x0"] - a["x0"]) if b["x0"] != a["x0"] else 0.0
+    t = (x - a["xc"]) / (b["xc"] - a["xc"]) if b["xc"] != a["xc"] else 0.0
+    if not a["yy"] and i == 0:
+        t = max(t, 0.0)     # bare labels: one calendar year per series, nothing before Jan
     mi0 = MONTH_ABBR.index(a["mon"]) if a["mon"] in MONTH_ABBR else 0
     mi1 = MONTH_ABBR.index(b["mon"]) if b["mon"] in MONTH_ABBR else mi0 + 1
     mf = mi0 + t * ((mi1 - mi0) % 12 or 1)
@@ -482,6 +581,14 @@ def date_for_x(x, months, series_year=None):
     year = y0 + int(mf // 12)
     mon = MONTH_ABBR[int(mf % 12)]
     out.update({"date": f"{year:04d}-{mon}", "year": year, "month_abbr": mon})
+    # 2024-26: the label centre is the 1st of the month (tick mark drawn there), so the
+    # fraction of the way to the next label is the fraction of the month elapsed.
+    m0 = int(mf % 12)
+    nxt = dt.date(year + (m0 == 11), (m0 + 1) % 12 + 1, 1)
+    dim = (nxt - dt.date(year, m0 + 1, 1)).days
+    out["iso_date"] = (dt.date(year, m0 + 1, 1)
+                       + dt.timedelta(days=int(round((mf % 1) * dim)))).isoformat()
+    out["dating"] = "month"
     return out
 
 
@@ -635,6 +742,19 @@ def extract(pdf_path):
         # either side of the plot.
         gx_lo, gx_hi = plot_x_window(page, months, ticks)
         span = (gx_hi - gx_lo) if (gx_lo is not None and gx_hi is not None) else None
+        steps = sorted(b[0] - a[0] for p in paths for a, b in zip(p["pts"], p["pts"][1:])
+                       if b[0] - a[0] > 0.5)
+        slot_step = steps[len(steps) // 2] if steps else None
+        # Grid origin: the common first vertex of the yearly lines, for the upright layout
+        # whose step is CONSTANT (the weekly grid, only the 2023-10-23/27 issues). The 2024+
+        # layout is a calendar axis: its step varies 8.8-11.7pt with month length and its
+        # lines start at different x (5, 6, 7 Jan), so it is dated off the month labels.
+        firsts = [min(x for x, _ in p["pts"]) for p in paths if leg.get(id(p))]
+        lab = [b[0] - a[0] for p in paths if leg.get(id(p))
+               for a, b in zip(p["pts"], p["pts"][1:]) if b[0] - a[0] > 0.5]
+        constant = bool(lab) and max(lab) / min(lab) < 1.05
+        x_origin = (min(firsts) if constant and firsts and months
+                    and not months[0].get("rotated") else None)
         ty_lo = min((t[1] for t in ticks), default=None)
         ty_hi = max((t[1] for t in ticks), default=None)
 
@@ -689,7 +809,7 @@ def extract(pdf_path):
                        "index_value": round(v, 1) if v is not None else None,
                        "x_frac": round((x - gx_lo) / span, 5) if span else None}
                 if span:
-                    rec.update(date_for_x(x, months, yr) or {})
+                    rec.update(date_for_x(x, months, yr, slot_step, x_origin) or {})
                 pts.append(rec)
             vals = [q["index_value"] for q in pts if q["index_value"] is not None]
             out["series"].append({
@@ -745,18 +865,16 @@ def extract(pdf_path):
 def series_cutoff(series_csv=None, overlap_days=NEW_ONLY_OVERLAP_DAYS):
     """ISO date before which a report is already represented in the series CSV.
 
-    Per route, the latest (year, month, bucket) key approximates the last plotted week
-    (bucket*4 is the day of month). The cutoff is the EARLIEST of the per-route maxima
-    less `overlap_days`, so a route that lags the other is never skipped. None when the
-    CSV is absent or empty (then everything is new).
+    Per route, the latest `date` is the last plotted week. The cutoff is the EARLIEST of
+    the per-route maxima less `overlap_days`, so a route that lags the other is never
+    skipped. None when the CSV is absent or empty (then everything is new).
     """
     _, rows = inc.read_rows(series_csv or SERIES_CSV)
     last = {}
     for r in rows:
         try:
-            mi = MONTH_ABBR.index(r["month"].upper()) + 1
-            d = dt.date(int(r["year"]), mi, max(1, min(28, int(r["bucket"]) * 4)))
-        except (KeyError, ValueError):
+            d = dt.date.fromisoformat(r["date"])
+        except (KeyError, ValueError, TypeError):
             continue
         if d > last.get(r["route"], dt.date.min):
             last[r["route"]] = d

@@ -6,7 +6,7 @@ report_week: 1
 year: 2025
 rates_date_curr: "2025-01-03"
 rates_date_prev: "2024-12-20"
-calculated_index: 21348.0
+calculated_index: null
 source_file: "corpus/01-brokers/ssy/2025/ssy_2025_20250103-Pacific-Capesize-Report.pdf"
 ---
 
@@ -49,7 +49,9 @@ source_file: "corpus/01-brokers/ssy/2025/ssy_2025_20250103-Pacific-Capesize-Repo
 | T/C TRANSPACIFIC ROUND | 180,000 DWT | $6,500 | $9,000 |
 | T/C TRANSPACIFIC ROUND | 180,000 DWT | $6,500 | $9,000 |
 
+> **Publisher misprint:** SSY's next issue (2025-01-10) prints this week's index as 4,367 (+393 on 3,974). The 16,263 / 21,348 printed here, its change rows and its chart (2023/2024 lines up to 90,279) are not the Pacific index; the route rates on this page are ordinary. The table above is as printed; the structured index fields for this issue are left empty.
+
 ## Index Background & Contact
 
 **Index Definition:** The Pacific Capesize Index started at 5,000 points on 27 December 1995 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was on 17 July 2015.  
-**Contact:** For more information please contact David Beard/Roar Adland
+**Contact:** For more information please contact David Beard/Roar Adland  

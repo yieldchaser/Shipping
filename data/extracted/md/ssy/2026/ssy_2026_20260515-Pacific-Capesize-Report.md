@@ -7,14 +7,14 @@ year: 2026
 rates_date_curr: "2026-05-15"
 rates_date_prev: "2026-05-08"
 calculated_index: 11116.0
-source_file: "corpus/02-hellenic/shipbuilding/pdfs/2026-05-18_ssy-pacific-capesize-index-18-may-2026_20260515-pacific-capesize-report_090a95d37484.pdf"
+source_file: "corpus/01-brokers/ssy/2026/ssy_2026_20260515-Pacific-Capesize-Report.pdf"
 ---
 
 # SSY Pacific Capesize Index — Week 20, 2026
 
 **Issue Date:** 2026-05-15  
 **Assessment Dates:** Current: 2026-05-15 | Previous: 2026-05-08  
-**Source Document:** `corpus/02-hellenic/shipbuilding/pdfs/2026-05-18_ssy-pacific-capesize-index-18-may-2026_20260515-pacific-capesize-report_090a95d37484.pdf`
+**Source Document:** `corpus/01-brokers/ssy/2026/ssy_2026_20260515-Pacific-Capesize-Report.pdf`
 
 ## Route Freight Rates ($/t)
 
@@ -51,4 +51,4 @@ source_file: "corpus/02-hellenic/shipbuilding/pdfs/2026-05-18_ssy-pacific-capesi
 ## Index Background & Contact
 
 **Index Definition:** The Pacific Capesize Index started at 5,000 points on 27 December 1995 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was on 17 July 2015.  
-**Contact:** For more information please contact Ben Dudman/Roar Adland
+**Contact:** For more information please contact Ben Dudman/Roar Adland  

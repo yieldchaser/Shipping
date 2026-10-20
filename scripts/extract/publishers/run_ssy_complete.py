@@ -506,6 +506,16 @@ def generate_markdown(meta: dict, comm: dict, tables: dict, source_rel: str) -> 
     return "\n".join(lines)
 
 
+# Issues whose printed index is not the index. The table stays in the MD as printed, with a
+# note; the structured fields (frontmatter, sidecar, time-series row) are left empty.
+MISPRINTED_INDEX = {
+    "ssy_2025_20250103-Pacific-Capesize-Report.pdf":
+        "SSY's next issue (2025-01-10) prints this week's index as 4,367 (+393 on 3,974). The "
+        "16,263 / 21,348 printed here, its change rows and its chart (2023/2024 lines up to "
+        "90,279) are not the Pacific index; the route rates on this page are ordinary.",
+}
+
+
 def process_report(pdf_path: Path):
     stem = pdf_path.stem
     rel_path = pdf_path.resolve().relative_to(ROOT).as_posix()
@@ -534,6 +544,16 @@ def process_report(pdf_path: Path):
             pass
 
     md_content = generate_markdown(meta, comm, tables, rel_path)
+    misprint = MISPRINTED_INDEX.get(pdf_path.name)
+    if misprint:
+        md_content = re.sub(r"^calculated_index: .*$", "calculated_index: null", md_content,
+                            count=1, flags=re.M)
+        md_content = md_content.replace(
+            "## Index Background & Contact",
+            f"> **Publisher misprint:** {misprint} The table above is as printed; the structured "
+            "index fields for this issue are left empty.\n\n## Index Background & Contact", 1)
+        tables["index"] = {k: ({kk: None for kk in v} if isinstance(v, dict) else None)
+                           for k, v in tables["index"].items()}
 
     sidecar = {
         "metadata": meta,

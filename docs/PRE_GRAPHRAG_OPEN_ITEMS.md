@@ -60,10 +60,11 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
    PPA `_root_pdfs/` vs `ppa_pdf/`, `corpus/archive/`). Duplicate **MDs** (what GraphRAG reads): 11 groups.
    - [x] Hellenic MMI daily: every issue 2026-10-06..10-19 extracted twice (two filename schemes, same PDF bytes)
    - [x] Agora W41 2026 extracted twice: `agora_09_10_2026_*` archived as a twin (identical PDF bytes and body)
-   - [ ] `corpus/01-brokers/_digests/` (HSN fetcher output, 215 MDs) is a second Markdown copy of the issues in
+   - [x] `corpus/01-brokers/_digests/` (HSN fetcher output, 215 MDs) is a second Markdown copy of the issues in
      `data/extracted/md`. 108 are filed under `carriers/` whatever the broker. About 60 have a `raw_pdf_path` that
      is not in the repo (twin PDFs removed, or `reports/shipbrokers/...`). `sync_digests.py` hardcodes two files.
-     Recommendation: GraphRAG reads `data/extracted/md` only and `_digests` is excluded (or removed).
+     Decided 2026-10-20: GraphRAG reads `data/extracted/md` only; `_digests` is excluded from it. The files stay,
+     because `process_knowledge.py` (legacy `knowledge/` index, `broker_reports` source) still reads them.
    - [x] the ingest path producing the MMI twins fixed (`run_smm_iron_ore_daily.py` skips a flat PDF held in a year
      folder; `resolve_twins.py` KeyError fixed)
 
@@ -91,26 +92,43 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
       untouched sidecars reproduced the committed series byte for byte first).
 - [x] `docs/EXTRACTION_REGISTER.md`: claimed Xclusiv is "100% cover-to-cover" (false: contacts page excluded; the
       commodities page was missing until 08e38a6712). Corrected, with Intermodal's same claim (final page excluded).
-- [ ] Hellenic MMI generator prints 696 as `696.00` / `+5.00` (values exact; 1,190 MDs cosmetic).
+- [x] Hellenic MMI generator prints 696 as `696.00` / `+5.00`: won't fix. Values are exact; rewriting 1,190
+      audited-GOOD MDs for trailing zeros would be a bulk edit of good files.
 - [x] Clarksons 2021-08-06 EUR/USD `1.12370`: kept as printed (by design).
 
 - [x] Chart signatures in the ingest (SSY capesize_ffa, Xclusiv tce_benchmarks, Star Asia scrap_trends) wrote
       "Extracted to time series" under a page render while nothing read the chart; removed with their claims.
-- [ ] **SSY chart series** (`ssy_capesize_index_series.csv`). Tables (route rates, index, T/C) are exact and in CI.
-      The chart series is split into "bases" (rebasings). Found 2026-10-20:
-      - CI chained a twin PDF to itself and opened a new PACIFIC base every run (b36..b47, 1,705 duplicate rows).
-        Fixed in `merge_ssy_charts.py`; the rows are folded back into b35.
-      - The full merge ordered reports by free-text `report_date` ('20-April-2026' < '20-January-2025'; 205 files
-        read '2015-07-17') and treated missing weeks as rebasings. The printed index chain is continuous in 489 of
-        496 adjacent weeks, so most of the 28 ATLANTIC / 36 PACIFIC bases are false. Ordering and the adjacent-only
-        rule are fixed in code. The CSV was NOT rebuilt: with the false bases gone, some reports read about 10x
-        (90,279 against about 8,000), and the false bases had been hiding them.
-        Next: per-report calibration gate against the printed current index, then a full rebuild.
-      - The 7 printed-chain breaks (e.g. Pacific 2025-01-03 at 21,348, then 4,367) need checking against the PDF.
-      - Pacific 2026-05-15 and 2026-10-02 PDFs are not in the corpus (Atlantic has both).
-      - Routes stable at 10 per basin since 2021. Atlantic Hampton Roads/Rotterdam became Seven Islands/Rotterdam
-        in 2023.
-      - `ssy_capesize_series.csv` was an orphan older copy (no writer) and has been deleted.
+- [x] **SSY chart series** (`ssy_capesize_index_series.csv`). Tables (route rates, index, T/C) are exact and in CI.
+      Rebuilt 2026-10-20: 916 rows, one per route, basis and assessed week, 2019-01 to 2026-09, both basins.
+      - Gate: a report's chart is used only if its current-year line reads the report's own printed index (last
+        8 printed weeks) within 2%. 503 of 518 reports accepted, median error 0.27%, worst 0.64%. Rejected: the
+        2023-10-23 transitional pair (6-9%), Pacific 2025-01-03 (misprint, below), and 12 issues with under 4
+        printed weeks to check (Jan/early-Jul 2021-23 issues, P20230327 has no month labels).
+      - Agreement: 910 of 913 weeks read by several reports agree within 2% (median spread 0.54%).
+      - Axis fixes in `run_ssy_charts.py`: ladder labels read by their gridline, not their top edge (every
+        reading was a constant amount low, 257 points on the 2024 Pacific ladder); month ticks at the label
+        centre; the 2021-23 layout has one slot per PUBLISHED week, so lines are aligned from the end to the
+        printed weeks; Friday-dated vertices key on the Monday/holiday-Tuesday assessment before 2023-10.
+        The 2019/2020 lines (no printed table in the corpus) are dated by vertex order from the second Monday
+        of January; that assumes no week of 2019-20 went unassessed, which the corpus cannot check.
+      - The 2024+ charts draw the 2021/2022 lines with extra points on UK holiday Fridays (2022-04-15,
+        2022-06-03); one reading per line per week, the earlier vertex kept (right in 112 of 113 printed cases).
+      - Bases: the Atlantic was rebased on 2023-06-26 (Hampton Roads/Rotterdam replaced by Seven
+        Islands/Rotterdam); the pages from 2023-10-20 to 2024-01-12 reprint "17 July 2015", a template slip, so
+        the basis is assigned by issue date. The Pacific was never rebased. The old 28/36 "bases" were false.
+      - The 7 printed-chain breaks, checked against the PDFs: misprints at Pacific 2022-02-28 (8,586; arithmetic
+        and chart give ~5,886), Pacific 2023-06-05 previous week (6,167 for 5,448), Atlantic 2024-08-02 (8,004;
+        next issue and later charts 8,904/8,934 - that issue's own chart draws 8,039), small revisions at Atlantic
+        2021-11-01 and Pacific 2021-10; the 2023-06-26 Atlantic rebasing; Pacific 2025-01-03 is a misprinted
+        page (16,263 / 21,348 and a chart to 90,279; the next issue prints that week as 4,367). Its MD now carries
+        a misprint note and empty index fields (`MISPRINTED_INDEX` in `run_ssy_complete.py`). The rest of the
+        chain is continuous; 2023-10-13/16 is one assessment listed under both dates (Monday to Friday switch).
+      - Missing PDFs: Pacific 2026-05-15 and Atlantic 2022-07-25 recovered and ingested. Pacific 2026-10-02 is
+        not published on HSN (404, no post). Other gaps fall on the same weeks in both basins (not published).
+      - Residual: Atlantic 2021-04-05 (Easter, pre-print, new basis) reads 8,354 from the 2023 slot charts and
+        7,677 from 7 calendar-axis charts; no print to settle it, the row keeps the median.
+      - CI chained a twin PDF to itself (b36..b47, 1,705 duplicate rows) and the full merge sorted free-text
+        dates: both gone with the rebuild. `ssy_capesize_series.csv` (orphan older copy) deleted earlier.
 
 ## Owner actions (not code)
 

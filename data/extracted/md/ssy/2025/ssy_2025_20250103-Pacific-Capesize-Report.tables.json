@@ -12,27 +12,27 @@
   },
   "commentary": {
     "market_commentary": null,
-    "index_notes": "The Pacific Capesize Index started at 5,000 points on 27 December 1995 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was",
+    "index_notes": "The Pacific Capesize Index started at 5,000 points on 27 December 1995 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was on 17 July 2015.",
     "contact_info": "For more information please contact David Beard/Roar Adland"
   },
   "calculated_index": {
-    "value_prev": 16263.0,
-    "value_curr": 21348.0,
+    "value_prev": null,
+    "value_curr": null,
     "previous_index": {
-      "prev": -4586.0,
-      "curr": 5085.0
+      "prev": null,
+      "curr": null
     },
     "four_weeks": {
-      "prev": -34072.0,
-      "curr": -4850.0
+      "prev": null,
+      "curr": null
     },
     "previous_year": {
-      "prev": -41443.0,
-      "curr": -24918.0
+      "prev": null,
+      "curr": null
     },
     "two_years": {
-      "prev": -17750.0,
-      "curr": -14766.0
+      "prev": null,
+      "curr": null
     }
   },
   "trade_rates": [
@@ -144,10 +144,7 @@
     }
   ],
   "chart_series": {
-    "available": true,
-    "n_series": 2,
-    "total_points": 102,
-    "relative_gap_vs_printed": 2.4465
+    "available": false
   },
   "n_trade_routes": 10,
   "n_tc_routes": 3
