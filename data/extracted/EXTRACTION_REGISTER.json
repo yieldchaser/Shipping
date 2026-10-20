@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 20:41:41Z",
+  "updated_at": "2026-10-20 21:16:30Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -929,7 +929,7 @@
     {
       "file": "bancosta_commodities_series.csv",
       "target_metric": "Energy, metals, agricultural benchmarks",
-      "rows": 8546,
+      "rows": 8573,
       "columns": [
         "issue_date",
         "report_week",
@@ -992,7 +992,7 @@
     {
       "file": "bancosta_ffa_series.csv",
       "target_metric": "Dry bulk FFA forward curve assessments ($/day)",
-      "rows": 7726,
+      "rows": 7762,
       "columns": [
         "issue_date",
         "report_week",
@@ -1010,7 +1010,7 @@
     {
       "file": "bancosta_freight_rates_series.csv",
       "target_metric": "Dry bulk & Tanker freight benchmark rates ($/day, WS)",
-      "rows": 20587,
+      "rows": 20677,
       "columns": [
         "issue_date",
         "report_week",
@@ -1072,7 +1072,7 @@
     {
       "file": "bancosta_sales_series.csv",
       "target_metric": "Secondhand sales transactions with 7-digit IMOs",
-      "rows": 3240,
+      "rows": 3261,
       "columns": [
         "issue_date",
         "report_week",
@@ -2681,7 +2681,7 @@
     {
       "file": "intermodal_bunkers_series.csv",
       "target_metric": "Bunker prices across Rotterdam, Houston, Singapore ($/t)",
-      "rows": 2305,
+      "rows": 2314,
       "columns": [
         "issue_date",
         "report_week",
@@ -2796,7 +2796,7 @@
     {
       "file": "intermodal_macro_daily_series.csv",
       "target_metric": "Intermodal Macro Daily",
-      "rows": 22940,
+      "rows": 23030,
       "columns": [
         "issue_date",
         "report_week",
@@ -2814,7 +2814,7 @@
     {
       "file": "intermodal_macro_series.csv",
       "target_metric": "Macroeconomic indicators and energy commodity benchmarks",
-      "rows": 4858,
+      "rows": 4878,
       "columns": [
         "issue_date",
         "report_week",
@@ -2830,7 +2830,7 @@
     {
       "file": "intermodal_maritime_stocks_series.csv",
       "target_metric": "Maritime listed shipping equities & stock indices",
-      "rows": 3174,
+      "rows": 3185,
       "columns": [
         "issue_date",
         "report_week",
@@ -3482,7 +3482,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 916,
+      "rows": 922,
       "columns": [
         "route",
         "basis",
@@ -3877,13 +3877,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 696329,
+  "total_master_stacked_rows": 696639,
   "total_master_series_csvs": 162,
-  "total_stacked_rows": 696329,
+  "total_stacked_rows": 696639,
   "total_series_csvs": 162,
   "total_master_workbooks": 1,
   "total_series_count": 162,
-  "total_rows_extracted": 696634,
+  "total_rows_extracted": 696944,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 606,
     "advanced_shipping_demolition_series.csv": 2024,
@@ -3900,14 +3900,14 @@
     "athenian_yearly_demolition_volume_series.csv": 4058,
     "baltic_ncfi_series.csv": 2053,
     "baltic_reports_metadata.csv": 2239,
-    "bancosta_commodities_series.csv": 8546,
+    "bancosta_commodities_series.csv": 8573,
     "bancosta_container_fixtures_series.csv": 293,
     "bancosta_demolition_series.csv": 959,
-    "bancosta_ffa_series.csv": 7726,
-    "bancosta_freight_rates_series.csv": 20587,
+    "bancosta_ffa_series.csv": 7762,
+    "bancosta_freight_rates_series.csv": 20677,
     "bancosta_fx_series.csv": 288,
     "bancosta_newbuilding_series.csv": 2377,
-    "bancosta_sales_series.csv": 3240,
+    "bancosta_sales_series.csv": 3261,
     "bancosta_secondhand_matrix_series.csv": 1898,
     "bancosta_vhss_series.csv": 553,
     "best_oasis_deals_series.csv": 905,
@@ -3985,15 +3985,15 @@
     "hellenic_vv_matrix_series.csv": 12373,
     "hellenic_vv_sales_series.csv": 2091,
     "intermodal_baltic_indices_series.csv": 1265,
-    "intermodal_bunkers_series.csv": 2305,
+    "intermodal_bunkers_series.csv": 2314,
     "intermodal_currencies_series.csv": 692,
     "intermodal_demo_sales_series.csv": 581,
     "intermodal_demolition_prices_series.csv": 2056,
     "intermodal_demolition_series.csv": 2637,
     "intermodal_indicative_values_series.csv": 2378,
-    "intermodal_macro_daily_series.csv": 22940,
-    "intermodal_macro_series.csv": 4858,
-    "intermodal_maritime_stocks_series.csv": 3174,
+    "intermodal_macro_daily_series.csv": 23030,
+    "intermodal_macro_series.csv": 4878,
+    "intermodal_maritime_stocks_series.csv": 3185,
     "intermodal_newbuilding_orders_series.csv": 1917,
     "intermodal_newbuilding_prices_series.csv": 3213,
     "intermodal_newbuilding_series.csv": 5130,
@@ -4026,7 +4026,7 @@
     "signal_reports_metadata.csv": 452,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 916,
+    "ssy_capesize_index_series.csv": 922,
     "ssy_capesize_index_time_series.csv": 523,
     "ssy_route_rates_series.csv": 5230,
     "star_asia_5y_history_series.csv": 784,
