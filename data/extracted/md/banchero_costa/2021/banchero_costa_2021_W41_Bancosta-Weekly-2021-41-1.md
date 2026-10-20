@@ -20,7 +20,18 @@ In the first 9 months of 2021, seaborne crude oil exports from Kuwait were down 
 
 September 2021 didn't see any particular change in trend, with 7.8 mln tonnes, fairly average for this year and technically up +5.8% from the very poor September 2020 but down -7.1% from (pre-Covid) September 2019. In terms of destinations for the shipments, as we already mentioned it's over 90% to Asia. In the first 9 months of 2021, Kuwait shipped 22.1 mln tonnes to Mainland China, which represents a +13.5% y-o-y increase from 19.5 mln tonnes in Jan-Sep 2020, and is also more than the 16.1 mln tonnes in Jan-Sep 2019. China accounts for 31.6% of Kuwait's total crude imports this year. Kuwait also shipped 9.8 mln tonnes to South Korea, which represents a decline of -29.7% y-o-y from 13.9 mln tonnes in the same period of 2020, and -38.5% less than the 15.9 mln tonnes in Jan-Sep 2019. The third top destination is India, with 9.5 mln tonnes, or 13.6% of Kuwait's total exports. Shipments from Kuwait to India increased by +30.2% y-o-y in Jan-Sep 2021 from 7.3 mln tonnes in Jan-Sep 2020, and are also up +19.3% from the 8.0 mln tonnes in Jan-Sep 2019.
 
-> **Chart (not transcribed):** Kuwait - Crude Oil Exports by Destination in Jan-Sep. The report prints no values for it.
+## Kuwait - Crude Oil Exports by Destination in Jan-Sep
+
+| Country | 2019 (1-9) | 2020 (1-9) | 2021 (1-9) |
+| --- | --- | --- | --- |
+| China PR | 16 | 20 | 22 |
+| S Korea | 16 | 14 | 10 |
+| India | 8 | 7 | 9 |
+| ASEAN | 11 | 14 | 9 |
+| Japan | 9 | 9 | 9 |
+| Taiwan CN | 7 | 6 | 7 |
+| North Africa | 3 | 3 | 2 |
+| Others/ Unknown | 6 | 2 | 2 |
 
 > **Chart (not transcribed):** Kuwait - Monthly Crude Oil Exports - Seasonality. The report prints no values for it.
 

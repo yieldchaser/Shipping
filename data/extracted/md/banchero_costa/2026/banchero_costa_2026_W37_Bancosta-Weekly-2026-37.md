@@ -24,7 +24,18 @@ About 50 percent of coal imports into India are delivered to the East coast, pri
 
 In Jan-Aug 2026, coal shipments from Indonesia to India declined by -18.8% y-o-y to 53.0 mln tonnes, now also far below the 73.6 mln t recorded in Jan-Aug 2024. About 17.8% of imports, 26.7 mln t in Jan-Aug 2026, were shipped from Australia, down by -5.2% y-o-y. Shipments from Russia to India increased by +9.4% y-o-y in Jan-Aug 2026 to a record high 24.3 mln tonnes for the period, with Russia now accounting for 16.2% of Indian coal imports. South Africa exported 19.4 mln tonnes of coal to India in Jan-Aug 2026, down -6.0% y-o-y, with a share of 12.9% of Indian imports. Imports from the USA increased by +10.0% y-o-y to 16.4 mln t, whilst from Colombia collapsed by -91.3% y-o-y to 0.2 mln t. Volumes from Ukraine, a new entry since 2025, reached 0.15 mln t in Jan-Aug 2026, down from 0.20 mln t in Jan-Aug 2025.
 
-> **Chart (not transcribed):** India - Coal Imports by Source in Jan-Aug. The report prints no values for it.
+## India - Coal Imports by Source in Jan-Aug
+
+| Country | 2024 (1-8) | 2025 (1-8) | 2026 (1-8) |
+| --- | --- | --- | --- |
+| Indonesia | 73.6 | 65.3 | 53.0 |
+| Australia | 29.5 | 28.1 | 26.7 |
+| Russia | 17.2 | 22.2 | 24.3 |
+| S Africa | 18.9 | 20.6 | 19.4 |
+| USA | 14.5 | 14.9 | 16.4 |
+| Mozamb. | 7.3 | 6.0 | 6.5 |
+| Bangladesh | 0.1 | 0.7 | 1.1 |
+| Others/ Unknown | 4.4 | 5.1 | 2.5 |
 
 > **Chart (not transcribed):** India - Monthly Coal Imports - Seasonality. The report prints no values for it.
 

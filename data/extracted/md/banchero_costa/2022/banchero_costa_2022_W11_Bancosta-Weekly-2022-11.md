@@ -22,7 +22,20 @@ In terms of destinations for Russian wheat shipments, it is primarily the Medite
 
 Just about 4.5 percent of Russian wheat is shipped to European Union countries – primarily Greece (0.4 mln tonnes), Italy (0.4 mln tonnes), and Romania (0.4 mln tonnes).
 
-> **Chart (not transcribed):** Russia - Wheat Exports by Destination in Jan-Dec 2021. The report prints no values for it.
+## Russia - Wheat Exports by Destination in Jan-Dec 2021
+
+| Country | 2021 (1-12) |
+| --- | --- |
+| Turkey | 7.9 |
+| Egypt | 6.0 |
+| Iran | 4.2 |
+| GCC | 1.7 |
+| EU | 1.5 |
+| Banglad. | 0.7 |
+| Nigeria | 0.7 |
+| Libya | 0.6 |
+| Yemen | 0.6 |
+| Sudan | 0.5 |
 
 > **Chart (not transcribed):** Russia - Monthly Wheat Exports - Seasonality. The report prints no values for it.
 

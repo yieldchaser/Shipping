@@ -20,7 +20,18 @@ Russian LNG exports have been growing very fast in recent years, by +71.9% y-o-y
 
 The second top destination after Europe is Japan, which accounted for almost **23%** of Russian LNG shipments in 2021. Shipments to Japan were up by +24.6% y-o-y in 2021 to 6.8 mln tonnes, an all time high. Exports to South Korea also increased in 2021, by +49.4% y-o-y to 2.8 mln tonnes, with South Korea holding a 9.4% share. Shipments to Mainland China declined marginally by -2.9% y-o-y in 2021 to 4.0 mln tonnes, and to Taiwan by -21.4% y-o-y to 1.7 mln tonnes.
 
-> **Chart (not transcribed):** Russia - LNG Exports by Destination in Jan-Dec. The report prints no values for it.
+## Russia - LNG Exports by Destination in Jan-Dec
+
+| Country | 2019 (1-12) | 2020 (1-12) | 2021 (1-12) |
+| --- | --- | --- | --- |
+| EU27 | 12.9 | 12.3 | 12.1 |
+| Japan | 5.8 | 5.5 | 6.8 |
+| China PR | 3.0 | 4.1 | 4.0 |
+| S Korea | 2.1 | 1.9 | 2.8 |
+| NW Europe | 2.4 | 1.8 | 2.4 |
+| Taiwan, CN | 1.3 | 2.1 | 1.7 |
+| India | 0.0 | 0.4 | 0.3 |
+| Others/ Unknown | 1.0 | 0.6 | 0.2 |
 
 > **Chart (not transcribed):** Russia - Monthly LNG Exports - Seasonality. The report prints no values for it.
 
