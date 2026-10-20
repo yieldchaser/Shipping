@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 78
+document_count: 79
 evidence_count: 250
-generated_at: '2026-10-20T14:45:43Z'
+generated_at: '2026-10-20T20:48:18Z'
 latest_evidence_date: '2026-10-20'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 78 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-10-20, with the strongest recurring markers being crude, products, tanker, china, vlcc. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 79 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-10-20, with the strongest recurring markers being crude, products, tanker, china, vlcc. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -41,25 +41,25 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-10-20 | breakwave_insights insights | Main: Chinese front-loading is expected to have run its course, pointing to softer bauxite flows in 2026 Q4. Global bauxite flows increased by 2.8% y/y in September. [doc_id: breakwave_insights_insights_2026-10-20_2026_10_20_the_final_quarter_of_2026_is_expected_to_see_softer_bauxite_flows | section_id: breakwave_insights_insights_2026-10-20_2026_10_20_the_final_quarter_of_2026_is_expected_to_see_softer_bauxite_flows__s01_main | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-09-12 to 2026-10-20 across 1 calendar years.
+- Coverage span: 2026-09-14 to 2026-10-20 across 1 calendar years.
 - Most-covered years: 2026: 250
 - Recurring evidence markers: crude, products, tanker, china, vlcc, crude_oil
 
 ## Cross-Source View
 - Source coverage: breakwave_insights: 171, hellenic: 53, baltic: 20, breakwave: 6
-- Category coverage: insights: 171, demolition: 29, tanker: 20, tanker_charter: 10, shipbuilding: 8, vessel_valuations: 6, tankers: 6
-- Tone distribution: constructive: 172, neutral: 48, cautiously_bearish: 30
+- Category coverage: insights: 171, demolition: 28, tanker: 20, tanker_charter: 10, shipbuilding: 9, vessel_valuations: 6, tankers: 6
+- Tone distribution: constructive: 170, neutral: 50, cautiously_bearish: 30
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
 - 2026-10-20 | Tanker Shipping - October 20, 2026 [doc_id: breakwave_tankers_2026-10-20 | section_id: breakwave_tankers_2026-10-20__s02_fundamentals | pages 2-2]
 - 2026-10-20 | Breakwave Bi-Weekly Tanker Report - October 20, 2026 [doc_id: breakwave_insights_insights_2026-10-20_2026_10_20_102026wetreportju87_pp_09 | section_id: breakwave_insights_insights_2026-10-20_2026_10_20_102026wetreportju87_pp_09__s04_linked_asset_2026_10_20_102026wetreportju87_pp_09_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_743ce1202219_png | pages n/a]
 - 2026-10-20 | The final quarter of 2026 is expected to see softer bauxite flows [doc_id: breakwave_insights_insights_2026-10-20_2026_10_20_the_final_quarter_of_2026_is_expected_to_see_softer_bauxite_flows | section_id: breakwave_insights_insights_2026-10-20_2026_10_20_the_final_quarter_of_2026_is_expected_to_see_softer_bauxite_flows__s02_front_loading_leads_to_a_weaker_final_quarter_outlook | pages n/a]
+- 2026-10-20 | Breakwave Tanker Report 10.20.2026 [doc_id: hellenic_shipbuilding_2026-10-20_2026_10_20_breakwave_tanker_report_10_20_2026 | section_id: hellenic_shipbuilding_2026-10-20_2026_10_20_breakwave_tanker_report_10_20_2026__s01_main | pages n/a]
+- 2026-10-20 | Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 42, 2026 [doc_id: hellenic_demolition_2026-10-20_2026_10_20_athenian_shipbrokers_s_a_demolition_quick_update_week_42_2026 | section_id: hellenic_demolition_2026-10-20_2026_10_20_athenian_shipbrokers_s_a_demolition_quick_update_week_42_2026__s02_linked_asset_2026_10_20_athenian_shipbrokers_s_a_demolition_quick_update_week_42_2026_week_42_athenian_demolition_report_2_179b83175d6b_pdf | pages n/a]
 - 2026-10-19 | The global economy is navigating a complex adjustment [doc_id: breakwave_insights_insights_2026-10-19_2026_10_19_the_global_economy_is_navigating_a_complex_adjustment | section_id: breakwave_insights_insights_2026-10-19_2026_10_19_the_global_economy_is_navigating_a_complex_adjustment__s01_main | pages n/a]
 - 2026-10-19 | Thermal Coal Prices in China at Highest Level in Three Years [doc_id: breakwave_insights_insights_2026-10-19_2026_10_19_thermal_coal_prices_in_china_at_highest_level_in_three_years | section_id: breakwave_insights_insights_2026-10-19_2026_10_19_thermal_coal_prices_in_china_at_highest_level_in_three_years__s03_linked_asset_2026_10_19_thermal_coal_prices_in_china_at_highest_level_in_three_years_img_chart1_6ec73d4972c0_jpg | pages n/a]
 - 2026-10-17 | GMS Week 42 - Freight Finally Flinches [doc_id: hellenic_demolition_2026-10-17_2026_10_17_gms_week_42_freight_finally_flinches | section_id: hellenic_demolition_2026-10-17_2026_10_17_gms_week_42_freight_finally_flinches__s02_linked_asset_2026_10_17_gms_week_42_freight_finally_flinches_6102026gms_7e7a9c3f5184_jpg | pages n/a]
-- 2026-10-17 | Best Oasis Weekly Recycling Market Report, 16 October 2026 [doc_id: hellenic_demolition_2026-10-17_2026_10_17_best_oasis_weekly_recycling_market_report_16_october_2026 | section_id: hellenic_demolition_2026-10-17_2026_10_17_best_oasis_weekly_recycling_market_report_16_october_2026__s02_linked_asset_2026_10_17_best_oasis_weekly_recycling_market_report_16_october_2026_weekly_ship_recycling_report_10_octo_0103d211f85f_pdf | pages n/a]
-- 2026-10-16 | Tanker report - Week 42 [doc_id: baltic_tanker_2026-10-16_2026_10_16_w42_tanker_report_week_42_tanker | section_id: baltic_tanker_2026-10-16_2026_10_16_w42_tanker_report_week_42_tanker__s04_aframax | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax

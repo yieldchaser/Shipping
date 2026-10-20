@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-10-20T14:51:08Z'
+generated_at: '2026-10-20T20:53:00Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 0
@@ -8,9 +8,9 @@ warning_count: 0
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 11380
-- Chunks: 113309
-- Sections: 38943
+- Documents: 11382
+- Chunks: 113313
+- Sections: 38946
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -30,8 +30,8 @@ warning_count: 0
 | hellenic/tanker_charter | 2026-10-14 | 6 | 14 | healthy | 7 | 0 |
 | hellenic/iron_ore | 2026-10-20 | 0 | 14 | healthy | 1 | 0 |
 | hellenic/vessel_valuations | 2026-09-29 | 21 | 14 | healthy | 6 | 0 |
-| hellenic/demolition | 2026-10-17 | 3 | 21 | healthy | 0 | 2 |
-| hellenic/shipbuilding | 2026-10-06 | 14 | 21 | healthy | 7 | 0 |
+| hellenic/demolition | 2026-10-20 | 0 | 21 | healthy | 3 | 2 |
+| hellenic/shipbuilding | 2026-10-20 | 0 | 21 | healthy | 14 | 0 |
 | books | undated | - | - | reference | - | 12 |
 
 ## Topic Coverage
@@ -39,7 +39,7 @@ warning_count: 0
 | Topic | Latest Evidence | Docs | Evidence | Recent Sources | Missing Sources | Status |
 |---|---|---:|---:|---|---|---|
 | Dry Bulk Market | 2026-10-20 | 80 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| Tanker Market | 2026-10-20 | 78 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Tanker Market | 2026-10-20 | 79 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Capesize | 2026-10-20 | 130 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Panamax and Supramax | 2026-10-20 | 120 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | VLCC and Suezmax | 2026-10-20 | 107 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |

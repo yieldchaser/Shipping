@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:44:45Z",
+  "generated_at": "2026-10-20T20:47:19Z",
   "counts": {
     "breakwave": {
       "drybulk": 212,
@@ -20,8 +20,8 @@
       "tanker_charter": 280,
       "iron_ore": 1219,
       "vessel_valuations": 274,
-      "demolition": 816,
-      "shipbuilding": 380
+      "demolition": 817,
+      "shipbuilding": 381
     },
     "broker_reports": {
       "broker_report": 216
