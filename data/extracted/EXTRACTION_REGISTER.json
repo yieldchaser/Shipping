@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 14:18:32Z",
+  "updated_at": "2026-10-20 14:49:53Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -724,7 +724,7 @@
     {
       "file": "advanced_shipping_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 6853,
+      "rows": 6857,
       "columns": [
         "issue_date",
         "issue",
@@ -2908,7 +2908,7 @@
     {
       "file": "intermodal_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 3848,
+      "rows": 3846,
       "columns": [
         "issue_date",
         "report_week",
@@ -3482,25 +3482,24 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 8737,
+      "rows": 916,
       "columns": [
         "route",
-        "base",
-        "year",
-        "month",
-        "bucket",
+        "basis",
+        "date",
         "n_reports",
         "value",
         "min",
         "max",
-        "value_sd"
+        "value_sd",
+        "printed_index"
       ],
       "status": "Verified"
     },
     {
       "file": "ssy_capesize_index_time_series.csv",
       "target_metric": "SSY Capesize Index, historical changes, and T/C day rates",
-      "rows": 521,
+      "rows": 523,
       "columns": [
         "issue_date",
         "report_week",
@@ -3525,7 +3524,7 @@
     {
       "file": "ssy_route_rates_series.csv",
       "target_metric": "SSY assessed route freight rates ($/t) across Atlantic & Pacific",
-      "rows": 5210,
+      "rows": 5230,
       "columns": [
         "issue_date",
         "report_week",
@@ -3724,7 +3723,7 @@
     {
       "file": "xclusiv_baltic_indices_series.csv",
       "target_metric": "Xclusiv Baltic Indices",
-      "rows": 1015,
+      "rows": 1029,
       "columns": [
         "issue_date",
         "report_week",
@@ -3777,7 +3776,7 @@
     {
       "file": "xclusiv_freight_benchmarks_series.csv",
       "target_metric": "Freight spot earnings & 1Y TC benchmarks ($/day)",
-      "rows": 238,
+      "rows": 3748,
       "columns": [
         "issue_date",
         "report_week",
@@ -3792,7 +3791,7 @@
     {
       "file": "xclusiv_macro_bunkers_series.csv",
       "target_metric": "Macro commodity prices & bunker spreads ($/t)",
-      "rows": 1052,
+      "rows": 1060,
       "columns": [
         "issue_date",
         "report_week",
@@ -3808,7 +3807,7 @@
     {
       "file": "xclusiv_newbuilding_orders_series.csv",
       "target_metric": "Newbuilding reported contracts & orders",
-      "rows": 1313,
+      "rows": 1328,
       "columns": [
         "issue_date",
         "report_week",
@@ -3828,21 +3827,7 @@
     {
       "file": "xclusiv_newbuilding_prices_series.csv",
       "target_metric": "Indicative newbuilding prices ()",
-      "rows": 1379,
-      "columns": [
-        "issue_date",
-        "report_week",
-        "sector",
-        "vessel_type",
-        "price_usd_mill",
-        "source_file"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "xclusiv_newbuilding_series.csv",
-      "target_metric": "Xclusiv Newbuilding",
-      "rows": 1379,
+      "rows": 1397,
       "columns": [
         "issue_date",
         "report_week",
@@ -3892,18 +3877,18 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 701861,
-  "total_master_series_csvs": 163,
-  "total_stacked_rows": 701861,
-  "total_series_csvs": 163,
+  "total_master_stacked_rows": 696250,
+  "total_master_series_csvs": 162,
+  "total_stacked_rows": 696250,
+  "total_series_csvs": 162,
   "total_master_workbooks": 1,
-  "total_series_count": 163,
-  "total_rows_extracted": 702166,
+  "total_series_count": 162,
+  "total_rows_extracted": 696555,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 606,
     "advanced_shipping_demolition_series.csv": 2024,
     "advanced_shipping_newbuilding_series.csv": 1922,
-    "advanced_shipping_sales_series.csv": 6853,
+    "advanced_shipping_sales_series.csv": 6857,
     "advanced_shipping_secondhand_matrix_series.csv": 8157,
     "affinity_bda_series.csv": 750,
     "affinity_indices_series.csv": 496,
@@ -4012,7 +3997,7 @@
     "intermodal_newbuilding_orders_series.csv": 1917,
     "intermodal_newbuilding_prices_series.csv": 3213,
     "intermodal_newbuilding_series.csv": 5130,
-    "intermodal_sales_series.csv": 3848,
+    "intermodal_sales_series.csv": 3846,
     "intermodal_tanker_spot_series.csv": 3915,
     "intermodal_tc_rates_series.csv": 5273,
     "ism_coaster_freight_series.csv": 12491,
@@ -4041,9 +4026,9 @@
     "signal_reports_metadata.csv": 452,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 8737,
-    "ssy_capesize_index_time_series.csv": 521,
-    "ssy_route_rates_series.csv": 5210,
+    "ssy_capesize_index_series.csv": 916,
+    "ssy_capesize_index_time_series.csv": 523,
+    "ssy_route_rates_series.csv": 5230,
     "star_asia_5y_history_series.csv": 784,
     "star_asia_deals_series.csv": 3548,
     "star_asia_demolition_series.csv": 3168,
@@ -4053,14 +4038,13 @@
     "star_asia_metals_energy_series.csv": 1382,
     "star_asia_snp_sales_series.csv": 3696,
     "star_asia_valuation_matrix_series.csv": 3346,
-    "xclusiv_baltic_indices_series.csv": 1015,
+    "xclusiv_baltic_indices_series.csv": 1029,
     "xclusiv_demo_sales_series.csv": 613,
     "xclusiv_demolition_series.csv": 2106,
-    "xclusiv_freight_benchmarks_series.csv": 238,
-    "xclusiv_macro_bunkers_series.csv": 1052,
-    "xclusiv_newbuilding_orders_series.csv": 1313,
-    "xclusiv_newbuilding_prices_series.csv": 1379,
-    "xclusiv_newbuilding_series.csv": 1379,
+    "xclusiv_freight_benchmarks_series.csv": 3748,
+    "xclusiv_macro_bunkers_series.csv": 1060,
+    "xclusiv_newbuilding_orders_series.csv": 1328,
+    "xclusiv_newbuilding_prices_series.csv": 1397,
     "xclusiv_sales_series.csv": 5593,
     "xclusiv_secondhand_series.csv": 8625
   }
