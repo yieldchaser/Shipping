@@ -28,7 +28,7 @@ Overall, a bullish combination of slowly recovering oil consumption and increase
 
 The Capesize Atlantic market managed to return in more healthy rates, with its average T/C earnings crossing the \$18,000/day mark. The rest segments faced an overall weak demand which turned things negative across most routes. The BDI today (20/12/2022) closed at 1,596 points, up by 239 points compared to previous Tuesday's closing (13/12/2022). VLCC sector performance was healthy while both Suezmax and Aframax rates declined w-o-w which however can hardly be described as a subdued activity with both markets offering average T/C earning at the \$100,000/day mark. The BDTI today (20/12/2022) closed at 1,951, a decrease of 135 points and the BCTI at 2,124, an increase of 113 points compared to previous Tuesday's (13/12/2022) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: Softer)
+## Sale & Purchase (Wet: Softer / Dry: Softer)
 
 Interest was softer in the SnP market with only two dry bulk sales being materialized while in the case of tanker deals, crude units attracted most of the attention. In the tanker sector, we had the sale of the “COSMO ACE” (320,054dwt-blt '10, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$56.5m. On the dry bulker side sector, we had the sale of the “LOWLANDS SUNRISE” (181,458dwt-blt '11, Japan), which was sold to Greek owner Stealth Maritime, for a price in the region of \$26.0m.
 
@@ -142,7 +142,7 @@ Suezmax T/C earnings averaged \$111,096/day, down - \$718/day w-o-w. On the Afra
 
 VLCC sector performance was healthy while both Supermax and Aframax rates declined w-o-w which however can hardly be described as a subdued activity with both markets offering average T/C earning at the \$100,000/day mark.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "COSMO ACE" (320,054dwt-blt '10, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$56.5m.
 
@@ -205,7 +205,7 @@ Supramax 10TC averaged \$ 12,788/day, up + 0.59% w-o-w, while the Handysize 7TC 
 | **Ultramax** | **63k** | 28.0 | 28.9 | -3.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.0 | 24.5 | -2.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "LOWLANDS SUNRISE" (181,458dwt-blt '11, Japan), which was sold to Greek owner Stealth Maritime, for a price in the region of \$26.0m.
 
@@ -221,25 +221,25 @@ In the Ultramax sector we had the sale of the "STONY STREAM" (64,000dwt-blt '15,
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | COSMO ACE | 320,054 | 2010 | HYUNDAI, S. Korea | Wartsila | Jan-25 | DH | region $ 56.5m | undisclosed | BWTS, Scrubber fitted, converted from a VLOC |
-| AFRA | MINOANSEA | 108,817 | 2008 | SWS, China | MAN-B&amp;W | Aug-23 | DH | $ 39.0m | UAE based (Gardsea) |  |
-| AFRA | DELTA CAPTAIN | 111,009 | 2005 | HYUNDAI, S. Korea | B&amp;W | Feb-25 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
-| AFRA | DELTA VICTORY | 111,006 | 2005 | HYUNDAI, S. Korea | B&amp;W | Jan-25 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
-| AFRA | DELTA SAILOR | 111,004 | 2005 | HYUNDAI, S. Korea | B&amp;W | Mar-25 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
-| AFRA | DELTA PIONEER | 111,013 | 2004 | HYUNDAI, S. Korea | B&amp;W | Oct-24 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
+| AFRA | MINOANSEA | 108,817 | 2008 | SWS, China | MAN-B&W | Aug-23 | DH | $ 39.0m | UAE based (Gardsea) |  |
+| AFRA | DELTA CAPTAIN | 111,009 | 2005 | HYUNDAI, S. Korea | B&W | Feb-25 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
+| AFRA | DELTA VICTORY | 111,006 | 2005 | HYUNDAI, S. Korea | B&W | Jan-25 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
+| AFRA | DELTA SAILOR | 111,004 | 2005 | HYUNDAI, S. Korea | B&W | Mar-25 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
+| AFRA | DELTA PIONEER | 111,013 | 2004 | HYUNDAI, S. Korea | B&W | Oct-24 | DH | $ 35.0m each | undisclosed | BWTS, Scrubber fitted, Ice Class 1A |
 | LR2 | SAINT GEORGE | 109,390 | 2002 | DALIAN, China | Sulzer | Jun-27 | DH | $ 22.5m | Chinese | BWTS fitted |
-| MR2 | GWN 3 | 50,192 | 2021 | SAMSUNG, S. Korea | MAN-B&amp;W | Jan-26 | DH | $ 50.0m | Japanese | BWTS, Scrubber fitted |
+| MR2 | GWN 3 | 50,192 | 2021 | SAMSUNG, S. Korea | MAN-B&W | Jan-26 | DH | $ 50.0m | Japanese | BWTS, Scrubber fitted |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | LOWLANDS SUNRISE | 181,458 | 2011 | KOYO MIHARA, Japan | MAN-B\&amp;W | Jun-26 |  | $ 26.0m | Greek (Stealth Maritime) | BWTS fitted |
-| UMAX | STONY STREAM | 64,000 | 2015 | CHENGXI, China | MAN-B\&amp;W | Apr-25 | 4 X 30t CRANES | $ 24.2m | US based (Eagle Bulk) | BWTS fitted |
+| CAPE | LOWLANDS SUNRISE | 181,458 | 2011 | KOYO MIHARA, Japan | MAN-B&W | Jun-26 |  | $ 26.0m | Greek (Stealth Maritime) | BWTS fitted |
+| UMAX | STONY STREAM | 64,000 | 2015 | CHENGXI, China | MAN-B&W | Apr-25 | 4 X 30t CRANES | $ 24.2m | US based (Eagle Bulk) | BWTS fitted |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | AS CLEOPATRA | 2,742 | 2006 | AKER MTW WERFT, Germany | MAN-B&amp;W | Aug-26 | 3 X 45t CRANES | $ 20.9m | undisclosed |
-| FEEDER | CARPATHIA | 2,824 | 2003 | HYUNDAI, S. Korea | B&amp;W | Nov-23 |  | undisclosed | undisclosed |
+| FEEDER | AS CLEOPATRA | 2,742 | 2006 | AKER MTW WERFT, Germany | MAN-B&W | Aug-26 | 3 X 45t CRANES | $ 20.9m | undisclosed |
+| FEEDER | CARPATHIA | 2,824 | 2003 | HYUNDAI, S. Korea | B&W | Nov-23 |  | undisclosed | undisclosed |
 
 © Intermodal Research 20/12/2022 4
 

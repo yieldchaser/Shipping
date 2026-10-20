@@ -145,17 +145,17 @@ Supramax 10TC averaged \$14,065/day down -3.18% w-o-w, while the Handysize 7TC a
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR2 | PS GENOVA | 108,983 | 2010 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | May-25 | DH | excess $ 40.0m | UAE based |  |
+| LR2 | PS GENOVA | 108,983 | 2010 | HUDONG-ZHONGHUA, China | MAN-B&W | May-25 | DH | excess $ 40.0m | UAE based |  |
 | J19 | LILA FRONTIER | 19,806 | 2004 | KITANIHON, Japan | Mitsubishi | PASSED | DH | $ 16.1m | S. Korean | StSt |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | STELLA HOPE | 180,007 | 2016 | DALIAN, China | MAN-B\&amp;W | Sep-26 |  | mid $ 47.0m | US based (GENCO) | Eco |
-| UMAX | BEECHGATE | 63,449 | 2019 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Mar-29 | 4 X 30,7t CRANES | $ 35.6m | Bangladeshi | Eco |
-| UMAX | NORD ADRIATIC | 61,254 | 2016 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Apr-26 | 4 X 30,7t CRANES | excess $ 29.0m | Bangladeshi | Eco |
-| SUPRA | NPS MOSA | 53,556 | 2007 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Jun-27 | 4 X 30,5t CRANES | high $ 12.0m | S. Korean |  |
-| HANDY | BLUE DRAGON | 38,238 | 2011 | IMABARI, Japan | MAN-B\&amp;W | Jan-25 | 4 X 30,5t CRANES | low $ 15.0m | undisclosed | OHBS |
+| CAPE | STELLA HOPE | 180,007 | 2016 | DALIAN, China | MAN-B&W | Sep-26 |  | mid $ 47.0m | US based (GENCO) | Eco |
+| UMAX | BEECHGATE | 63,449 | 2019 | IWAGI ZOSEN, Japan | MAN-B&W | Mar-29 | 4 X 30,7t CRANES | $ 35.6m | Bangladeshi | Eco |
+| UMAX | NORD ADRIATIC | 61,254 | 2016 | IWAGI ZOSEN, Japan | MAN-B&W | Apr-26 | 4 X 30,7t CRANES | excess $ 29.0m | Bangladeshi | Eco |
+| SUPRA | NPS MOSA | 53,556 | 2007 | IWAGI ZOSEN, Japan | MAN-B&W | Jun-27 | 4 X 30,5t CRANES | high $ 12.0m | S. Korean |  |
+| HANDY | BLUE DRAGON | 38,238 | 2011 | IMABARI, Japan | MAN-B&W | Jan-25 | 4 X 30,5t CRANES | low $ 15.0m | undisclosed | OHBS |
 
 ---
 

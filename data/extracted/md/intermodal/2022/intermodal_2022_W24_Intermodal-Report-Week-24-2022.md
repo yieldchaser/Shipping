@@ -16,7 +16,7 @@ A rare combination of a strong US dollar and high oil prices, paired with intens
 
 Moving forward, Brent's price continues to rally within June with the highest intramonth price surging at \$124.88 on June 14. However, on Wednesday, following the announcement of the largest hike in Fed interest rates since 1994, amidst the Fed's effort to rein in prices in its bid to arrest inflation with the aid of conventional monetary policies, oil prices plunged from \$115.82 to finally close at \$113.58 on Friday evening. The Fed also signalled that more rate hikes will follow, with a potential 0.75% point hike within July, projecting a further market turmoil. It is now strongly rumored that a recession is more likely after the rate increase and investors now turn to lower-risk investments, due to high market volatility. Although we would expect to see oil prices balance at lower levels after the rate hike, a tight balance between supply and demand will most likely retain oil prices at higher levels. Supply-wise, with limited expected summer increases from OPEC+ during summer, Libya's volatile production due to recent blockades, disruptions in Nigerian crude output, and the doubtful prospects of Iranian sanctions relief, global oil supply is expected to remain tight and the question is how long will the oil price remain within recent margins.
 
-The oil trade is also currently adapting to unstable market conditions, especially amidst strong pressures on Russia from intensified EU Sanctions. As the EU banned purchases of Russian seaborne oil and oil products (about 4MMbpd), Russia will be severely affected by losing over \$1bn/day for oil &amp; gas. Europe is now weaning itself off the Russian Urals and is opting for crude from across the Atlantic and via the Middle East while passing extra pressure on European customers. Commenced on Wednesday, Russia's flagship annual economic event, the Saint Petersburg International Economic Forum, is expected to unveil the country's direction towards adapting to the latest sanctions, including new potential partnerships with countries doing business with Moscow. Putin underlined in his Friday speech that the "EU has fully lost its sovereignty", indicating Russia's resilience towards EU's sanctions and further questioning the sanctions' impact on the EU member countries.
+The oil trade is also currently adapting to unstable market conditions, especially amidst strong pressures on Russia from intensified EU Sanctions. As the EU banned purchases of Russian seaborne oil and oil products (about 4MMbpd), Russia will be severely affected by losing over \$1bn/day for oil & gas. Europe is now weaning itself off the Russian Urals and is opting for crude from across the Atlantic and via the Middle East while passing extra pressure on European customers. Commenced on Wednesday, Russia's flagship annual economic event, the Saint Petersburg International Economic Forum, is expected to unveil the country's direction towards adapting to the latest sanctions, including new potential partnerships with countries doing business with Moscow. Putin underlined in his Friday speech that the "EU has fully lost its sovereignty", indicating Russia's resilience towards EU's sanctions and further questioning the sanctions' impact on the EU member countries.
 
 Asian buyers, including primarily China and India, have benefited from sharp discounts for Russian cargoes, which could be at around a \$40/b discount to Dated Brent. Although we have witnessed a decrease in Russia's oil output following Russia's invasion of Ukraine, we are now noticing a significant increase in June m-o-m, up around 600,000 b/d. Russian seaborne crude reached post-pandemic highs in the first half of June. Trade has significantly reallocated following Western sanctions on Russia, with China opting out of Saudi Arabia imports and becoming the main importer of Russian crude, along with India, and therefore, considerably increasing tonne miles. For instance, China's imports increased from 6.338M in March and 6.551M in April to 8.419M in May. India, continues to show growth in crude oil demand, with an increase of 0.5mb/d, y-o-y in April, according to OPEC, amidst improvements in economic and social activity and the easing of pandemic containment measures.
 
@@ -26,7 +26,7 @@ Conclusively, with a tight balance between crude oil supply (99.136M) and demand
 
 Both the Capesize and the Panamax sectors have found a floor last week with rates increasing as the week progressed. Geared sizes performance was uninspiring last week yet with earnings still hovering at very strong levels. The BDI today (21/06/2022) closed at 2,484 points, up by 200 points compared to previous Tuesday's closing (14/06/2022). A combination of tight tonnage supply and cheaper fuel prices helped owners to increase their market share during the past week. The BDTI today (21/06/2022) closed at 1,207, an increase of 60 points and the BCTI at 1,725, an increase of 104 point compared to previous Tuesday's (14/06/2022) levels.
 
-## **Sale &amp; Purchase (Wet:  **Firmer**  / Dry:  **Firmer** )**
+## **Sale & Purchase (Wet:  **Firmer**  / Dry:  **Firmer** )**
 
 The SnP market experienced a fairly fervent action the past week, with strong both wet and dry activity. In the tanker sector, we had the sale of the "KOHO I" (301,045dwt-blt '02, Japan), which was sold to undisclosed buyers, for a price in the region of \$29.0m. On the dry bulker side sector, we had the sale of the "MAJESTIC SKY" (81,949dwt-blt '14, Japan), which was sold to undisclosed buyers, for a price in the region of \$33.0m.
 
@@ -119,7 +119,7 @@ VLCC T/C earnings averaged \$ -31,833/day, down -\$416/day w-o-w and closed off 
 
 Suezmax T/C earnings averaged \$16,003/day, up +\$8,724/day w-o-w. Market in West Africa set the positive tone amidst limited tonnage availability in the respective region. Med market was also healthy resulting in an improvement of 17.83WS points at the TD6 route. In contrast to the last week's news that Libyan production has fallen to only 100,000-150,000 bpd, according to Energy Minister Mohamed Oun Libya's oil production has risen in the past week to around 700,000 to 800,000 bpd further supporting Med tanker activity. The improvement was stronger in the Aframax sector with the TD19 cross-Med route witnessing an increase of 34WS points w-o-w. North European Aframax market also saw better performance against a backdrop of tight tonnage supply. All in all, Aframax T/C earnings averaged \$19,663/day, up +\$6,124/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "KOHO I" (301,045dwt-blt '02, Japan), which was sold to undisclosed buyers, for a price in the region of \$29.0m.
 
@@ -187,9 +187,9 @@ Supramax 10TC averaged \$ 27,050/day, down – 4.67% w-o-w, while the Handysize 
 | **Ultramax** | **63k** | 34.5 | 34.4 | **0.4%** | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 29.0 | 29.0 | 0.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the Kamsarmax sector we had the sale of the "MAJESTIC SKY" (81,949dwt-blt '14, Japan), which was sold to undisclosed buyers, for a price in the region of \$33.0m.
 
@@ -207,18 +207,18 @@ In the Supramax sector we had the sale of the "SAGARJEET" (58,079dwt-blt '09, Ja
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | KOHO I | 301,045 | 2002 | IHI MARINE, Japan | Sulzer | Nov-22 | DH | $ 29.0m | undisclosed | BWTS fitted |
-| SUEZ | STORVIKEN | 152,013 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | Feb-26 | DH | $ 23.5m | Greek | BWTS fitted |
-| SUEZ | CAP LEON | 159,049 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Oct-23 | DH | undisclosed | undisclosed | Ice 1C |
+| SUEZ | STORVIKEN | 152,013 | 2006 | SAMSUNG, S. Korea | MAN-B&W | Feb-26 | DH | $ 23.5m | Greek | BWTS fitted |
+| SUEZ | CAP LEON | 159,049 | 2003 | SAMSUNG, S. Korea | B&W | Oct-23 | DH | undisclosed | undisclosed | Ice 1C |
 | AFRA | ANGELICA SCHULTE | 106,433 | 2005 | UNIVERSAL, Japan | Sulzer | Apr-25 | DH | rgn $ 19.5m | Greek | BWTS fitted |
-| AFRA | CARLTON | 115,635 | 2004 | SAMSUNG, S. Korea | MAN-B\&amp;W | Oct-24 | DH | rgn $ 22.0m | Chinese | BWTS &amp; Scrubber fitted |
-| MR2 | HY SPRUCE | 49,600 | 2022 | GUANGZHOU, China | MAN-B\&amp;W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
-| MR2 | HY GINKGO | 49,600 | 2022 | GUANGZHOU, China | MAN-B\&amp;W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
-| MR2 | HY CEDAR | 49,600 | 2023 | GUANGZHOU, China | MAN-B\&amp;W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
-| MR2 | HY OAK | 49,600 | 2023 | GUANGZHOU, China | MAN-B\&amp;W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
-| MR2 | STI BENICIA | 49,990 | 2014 | SPP, S. Korea | MAN-B\&amp;W | Sep-24 | DH | $ 26.5m | undisclosed | Scrubber fitted, epoxy |
-| MR2 | CELSIUS RICHMOND | 50,083 | 2010 | ONOMICHI, Japan | MAN-B\&amp;W | Sep-25 | DH | xs $ 19.5m | undisclosed | BWTS fitted, epoxy coated |
+| AFRA | CARLTON | 115,635 | 2004 | SAMSUNG, S. Korea | MAN-B&W | Oct-24 | DH | rgn $ 22.0m | Chinese | BWTS & Scrubber fitted |
+| MR2 | HY SPRUCE | 49,600 | 2022 | GUANGZHOU, China | MAN-B&W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
+| MR2 | HY GINKGO | 49,600 | 2022 | GUANGZHOU, China | MAN-B&W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
+| MR2 | HY CEDAR | 49,600 | 2023 | GUANGZHOU, China | MAN-B&W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
+| MR2 | HY OAK | 49,600 | 2023 | GUANGZHOU, China | MAN-B&W |  | DH | $ 152.0m (en bloc) | U.S. (J.P. Morgan) |  |
+| MR2 | STI BENICIA | 49,990 | 2014 | SPP, S. Korea | MAN-B&W | Sep-24 | DH | $ 26.5m | undisclosed | Scrubber fitted, epoxy |
+| MR2 | CELSIUS RICHMOND | 50,083 | 2010 | ONOMICHI, Japan | MAN-B&W | Sep-25 | DH | xs $ 19.5m | undisclosed | BWTS fitted, epoxy coated |
 | MR1 | HAFNIA VICTORIA | 40,016 | 2007 | SAIKI, Japan | Mitsubishi | Jun-22 | DH | $ 12.5m | undisclosed | phenolic epoxy |
-| MR1 | SEACROWN I | 40,039 | 2003 | HYUNDAI, S. Korea | B\&amp;W | Jan-23 | DH | $ 8.5m | Peru based (Transgas) | epoxy coated |
+| MR1 | SEACROWN I | 40,039 | 2003 | HYUNDAI, S. Korea | B&W | Jan-23 | DH | $ 8.5m | Peru based (Transgas) | epoxy coated |
 | SMALL | TIGER SPRING | 9,380 | 2009 | DONGFANG, China | MaK | Nov-24 | DH | $ 12.5m | Turkish | CPP, epoxy |
 | SMALL | TIGER SUMMER | 9118 | 2009 | DONGFANG, China | MaK | Nov-24 | DH | $ 12.5m | Turkish | CPP, epoxy |
 | SMALL | TIGER WINTER | 9055 | 2011 | DONGFANG, China | MaK | Jan-26 | DH | $ 12.5m | Turkish | CPP, epoxy |
@@ -233,23 +233,23 @@ In the Supramax sector we had the sale of the "SAGARJEET" (58,079dwt-blt '09, Ja
 
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | CONSTANTIN OLDENDORFF | 92,762 | 2012 | COSCO Zhoushan Shipyard Co Ltd | MAN-B&amp;W | Jun-22 |  | $ 21.85m | UAE based | BWTS fitted |
-| POST PMAX | CLEMENS OLDENDORFF | 92,759 | 2012 | COSCO Zhoushan Shipyard Co Ltd | MAN-B&amp;W | Jan-27 |  | $ 21.85m |  |  |
-| KMAX | MAJESTIC SKY | 81,949 | 2014 | TADOTSU, Japan | MAN-B&amp;W | Jul-22 |  | $ 33.0m | undisclosed | BWTS fitted |
-| PMAX | TINA IV | 75,187 | 2009 | HUDONG-ZHONGHUA, China | MAN-B&amp;W | Apr-24 |  | high $ 16.0m | undisclosed | BWTS fitted |
-| PMAX | ORIENT BEAUTY | 76,598 | 2005 | IMABARI, Japan | MAN-B&amp;W | May-25 |  | xs $ 17.0m | Indonesian | BWTS fitted |
+| POST PMAX | CONSTANTIN OLDENDORFF | 92,762 | 2012 | COSCO Zhoushan Shipyard Co Ltd | MAN-B&W | Jun-22 |  | $ 21.85m | UAE based | BWTS fitted |
+| POST PMAX | CLEMENS OLDENDORFF | 92,759 | 2012 | COSCO Zhoushan Shipyard Co Ltd | MAN-B&W | Jan-27 |  | $ 21.85m |  |  |
+| KMAX | MAJESTIC SKY | 81,949 | 2014 | TADOTSU, Japan | MAN-B&W | Jul-22 |  | $ 33.0m | undisclosed | BWTS fitted |
+| PMAX | TINA IV | 75,187 | 2009 | HUDONG-ZHONGHUA, China | MAN-B&W | Apr-24 |  | high $ 16.0m | undisclosed | BWTS fitted |
+| PMAX | ORIENT BEAUTY | 76,598 | 2005 | IMABARI, Japan | MAN-B&W | May-25 |  | xs $ 17.0m | Indonesian | BWTS fitted |
 | PMAX | JAL SHAKTI | 69,925 | 1995 | SANOYAS, Japan | Sulzer | Nov-23 | 4 X 30t CRANES | $ 7.5m | Chinese | delivery prompt |
-| UMAX | TRITON SWAN | 61,457 | 2012 | IWAGI, Japan | MAN-B&amp;W | Nov-25 | 4 X 30,5t CRANES | undisclosed | Singapore based |  |
-| SUPRA | SUNNY HORIZON | 56,686 | 2012 | XIAMEN, China | MAN-B&amp;W | Jun-22 | 4 X 30t CRANES | $ 17.42m | undisclosed | auction sale, plus $180k for BWTS equipment |
-| SUPRA | IGNAZIO | 58,126 | 2010 | TSUNEISHI, Japan | MAN-B&amp;W | Apr-25 | 4 X 30t CRANES | xs $ 19.0m | Chinese | BWTS fitted |
-| SUPRA | SEVEN LADY | 51,241 | 2009 | IMABARI, Japan | MAN-B&amp;W | Nov-24 | 4 X 30,5t CRANES | $ 22.5m | Far Eastern | BWTS fitted, boxed |
-| SUPRA | SAGARJEET | 58,079 | 2009 | TSUNEISHI, Japan | MAN-B&amp;W | May-24 | 4 X 30t CRANES | $ 18.4m | Chinese |  |
-| SUPRA | HAYAMA STAR | 52,900 | 2006 | OSHIMA, Japan | MAN-B&amp;W | Jul-26 | 4 X 30t CRANES | $ 17.5m | Chinese | BWTS fitted |
-| SUPRA | BAO WEALTH | 53,591 | 2005 | YANGZHOU, China | MAN-B&amp;W | May-25 | 4 X 35t CRANES | $ 14.8m | undisclosed |  |
-| SUPRA | EMILIA | 53,098 | 2002 | OSHIMA, Japan | B&amp;W | Jun-25 | 4 X 30t CRANES | $ 14.0m | Indonesian |  |
-| SUPRA | VICJOUR ACE | 50,209 | 2001 | MITSUI, Japan | B&amp;W | May-26 | 4 X 30t CRANES | $ 13.3m | undisclosed | BWTS fitted |
-| HANDY | TEAM HOPE | 37,196 | 2012 | HYUNDAI, S. Korea | MAN-B&amp;W | Feb-27 | 4 X 30t CRANES | $ 19.6m | Turkish | BWTS fitted |
-| HANDY | CL ANTWERP | 33,687 | 2010 | SAMJIN, China | MAN-B&amp;W | Apr-25 | 4 X 35t CRANES | $ 16.5m | undisclosed | BWTS fitted |
+| UMAX | TRITON SWAN | 61,457 | 2012 | IWAGI, Japan | MAN-B&W | Nov-25 | 4 X 30,5t CRANES | undisclosed | Singapore based |  |
+| SUPRA | SUNNY HORIZON | 56,686 | 2012 | XIAMEN, China | MAN-B&W | Jun-22 | 4 X 30t CRANES | $ 17.42m | undisclosed | auction sale, plus $180k for BWTS equipment |
+| SUPRA | IGNAZIO | 58,126 | 2010 | TSUNEISHI, Japan | MAN-B&W | Apr-25 | 4 X 30t CRANES | xs $ 19.0m | Chinese | BWTS fitted |
+| SUPRA | SEVEN LADY | 51,241 | 2009 | IMABARI, Japan | MAN-B&W | Nov-24 | 4 X 30,5t CRANES | $ 22.5m | Far Eastern | BWTS fitted, boxed |
+| SUPRA | SAGARJEET | 58,079 | 2009 | TSUNEISHI, Japan | MAN-B&W | May-24 | 4 X 30t CRANES | $ 18.4m | Chinese |  |
+| SUPRA | HAYAMA STAR | 52,900 | 2006 | OSHIMA, Japan | MAN-B&W | Jul-26 | 4 X 30t CRANES | $ 17.5m | Chinese | BWTS fitted |
+| SUPRA | BAO WEALTH | 53,591 | 2005 | YANGZHOU, China | MAN-B&W | May-25 | 4 X 35t CRANES | $ 14.8m | undisclosed |  |
+| SUPRA | EMILIA | 53,098 | 2002 | OSHIMA, Japan | B&W | Jun-25 | 4 X 30t CRANES | $ 14.0m | Indonesian |  |
+| SUPRA | VICJOUR ACE | 50,209 | 2001 | MITSUI, Japan | B&W | May-26 | 4 X 30t CRANES | $ 13.3m | undisclosed | BWTS fitted |
+| HANDY | TEAM HOPE | 37,196 | 2012 | HYUNDAI, S. Korea | MAN-B&W | Feb-27 | 4 X 30t CRANES | $ 19.6m | Turkish | BWTS fitted |
+| HANDY | CL ANTWERP | 33,687 | 2010 | SAMJIN, China | MAN-B&W | Apr-25 | 4 X 35t CRANES | $ 16.5m | undisclosed | BWTS fitted |
 
 © Intermodal Research 21/06/2022 5
 
@@ -260,9 +260,9 @@ In the Supramax sector we had the sale of the "SAGARJEET" (58,079dwt-blt '09, Ja
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | ZIM CONSTANZA | 4,250 | 2010 | Jiangsu, China | MAN-B\&amp;W | Aug-25 |  | $ 75.0m | French (CMA CGM) |  |
-| PMAX | ZIM TARRAGONA | 4,250 | 2010 | Jiangsu, China | MAN-B\&amp;W | Aug-25 |  | $ 75.0m | French (CMA CGM) |  |
-| FEEDER | MOUNT KELLETT | 1,730 | 2017 | OUHUA, China | MAN-B\&amp;W | Jul-22 | 2 X 45t CRANES | $ 40.3m | undisclosed | BWTS fitted |
+| PMAX | ZIM CONSTANZA | 4,250 | 2010 | Jiangsu, China | MAN-B&W | Aug-25 |  | $ 75.0m | French (CMA CGM) |  |
+| PMAX | ZIM TARRAGONA | 4,250 | 2010 | Jiangsu, China | MAN-B&W | Aug-25 |  | $ 75.0m | French (CMA CGM) |  |
+| FEEDER | MOUNT KELLETT | 1,730 | 2017 | OUHUA, China | MAN-B&W | Jul-22 | 2 X 45t CRANES | $ 40.3m | undisclosed | BWTS fitted |
 
 © Intermodal Research 21/06/2022 6
 
@@ -325,7 +325,7 @@ The demolition market activity remained low with cash buyers unable to keep up t
 ### Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HIKARI | 300,667 | 8,774 | 2003 | Halla Eng &amp; HI - Incheon | TANKER | $ 606/Ldt | Bangladeshi |  |
+| HIKARI | 300,667 | 8,774 | 2003 | Halla Eng & HI - Incheon | TANKER | $ 606/Ldt | Bangladeshi |  |
 | KYOTO | 281,050 | 1,402 | 2000 | Woori Shipbuilding Co Ltd | TANKER | $ 606/Ldt | Bangladeshi |  |
 | ADMARINE 100 | 47,081 | 42,099 | 1992 | MITSUBISHI NAGASAKI | TANKER | $ 600/Ldt | Pakistani |  |
 | KIM SENG 3 | 3,529 | 1,371 | 1992 | RAUMA-REPOLA, Finland | PLATFORM | $ 740/Ldt | Bangladeshi | StSt |

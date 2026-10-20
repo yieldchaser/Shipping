@@ -26,7 +26,7 @@ More than 150 companies in the maritime, energy, infrastructure and finance sect
 
 The dry bulk market witnessed another week of positive performance, with all sectors displaying w-o-w rate increases. The BDI today (10/08/2021) closed at 3,375 up by 94 points compared to previous Tuesday's (03/08/2021) levels. The crude carrier market failed to build a positive momentum last week with soft trading conditions and tonnage availability adding pressure to rates. The BDTI today (10/08/2021) closed at 608, an increase of 4 points, and the BCTI at 505, an increase of 2 points compared to previous Tuesday's (03/08/2021) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: Softer)
+## Sale & Purchase (Wet: Softer / Dry: Softer)
 
 It seems that the summer lull has dominated the SnP market which has seen subdued activity across both the tanker and the dry bulk sectors. In the tanker sector, we had the sale of the "MAYA VN" (318,778dwt-blt '03, S. Korea), which was sold to Chinese buyers, for a price in the region of \$27.0m. On the dry bulker side sector, we had the sale of the "LOWLANDS BEA-CON" (61,400dwt-blt '11, Japan), which was sold to Vietnamese buyers, for price in the region of \$21.0m.
 
@@ -124,7 +124,7 @@ VLCC market outlook remained sluggish. Rates were almost unchanged w-o-w despite
 
 Both the West Africa and the Black Sea Suezmax markets were under pressure last week. Tonnage supply was tighter however, the limited fresh car-goes did not provide the required support to push rates up. The Aframax market activity was also soft last week. North European and Med markets suffered discounts w-o-w while TD9 Caribs/US Gulf route was the only positive exception, yet with earnings being well below OPEX levels. All in all, average Aframax T/C earnings ended the week up by \$1,737 per day.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "MAYA VN" (318,778dwt-blt '03, S. Korea), which was sold to Chinese buyers, for a price in the region of \$27.0m.
 
@@ -191,7 +191,7 @@ Supramax 10TC averaged \$32,819/day up +2.5% w-o-w, with the Atlantic remaining 
 | **Ultramax** | **63k** | 29.5 | 27.3 | 8.1% | 19.4 | 23.1 | - |
 | **Handysize** | **37K** | 23.5 | 21.4 | 9.8% | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Ultramax sector we had the sale of the "LOWLANDS BEACON" (61,400dwt-blt '11, Japan), which was sold to Vietnamese buyers, for price in the region of \$21.0m.
 

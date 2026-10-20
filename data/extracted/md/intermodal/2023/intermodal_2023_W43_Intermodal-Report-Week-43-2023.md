@@ -142,32 +142,32 @@ Supramax 10TC averaged \$ 13,645/day, down -3.15% w-o-w, while the Handysize 7TC
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | MR EUPHRATES | 50,319 | 2008 | GSI, China | MAN-B\&amp;W | Dec-23 | DH | $ 20.8m | Greek |  |
-| MR1 | LEON ZEUS | 40,416 | 2008 | CONSTANTA, Romania | MAN-B\&amp;W | Oct-28 | DH | region $ 21.5m | European | BWTS fitted |
-| SMALL | CHEM LYRA | 17,055 | 2009 | NINGBO XINLE, China | MAN-B\&amp;W | Mar-24 | DH | $ 14.6m | Chinese | basis 5 years BBHP, Marineline |
+| MR2 | MR EUPHRATES | 50,319 | 2008 | GSI, China | MAN-B&W | Dec-23 | DH | $ 20.8m | Greek |  |
+| MR1 | LEON ZEUS | 40,416 | 2008 | CONSTANTA, Romania | MAN-B&W | Oct-28 | DH | region $ 21.5m | European | BWTS fitted |
+| SMALL | CHEM LYRA | 17,055 | 2009 | NINGBO XINLE, China | MAN-B&W | Mar-24 | DH | $ 14.6m | Chinese | basis 5 years BBHP, Marineline |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | OCEAN CORONA | 180,220 | 2009 | KOYO MIHARA, Japan | MAN-B\&amp;W | Apr-27 |  | $ 20.8m | Chinese | BWTS fitted |
-| CAPE | SATORI | 177,456 | 2007 | MITSUI, Japan | MAN-B\&amp;W | Jan-26 |  | $ 18.5m | Turkish | BWTS fitted |
-| CAPE | CAPE FLAMINGO | 180,201 | 2005 | KOYO MIHARA, Japan | B\&amp;W | Sep-25 |  | $ 15.4m | Chinese | BWTS fitted |
-| KMAX | BRENDA | 81,005 | 2014 | JMU, Japan | MAN-B\&amp;W | Aug-24 |  | $ 24.7m | Indian (GESCO) | BWTS, Scrubber fitted, Eco |
-| UMAX | MARLIN V | 61,444 | 2013 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Oct-28 | 4 X 30t CRANES | $ 21.3m | Greek | BWTS fitted |
-| SUPRA | OCEAN GRACE | 56,029 | 2005 | MITSUI, Japan | MAN-B\&amp;W | Apr-25 | 4 X 30t CRANES | $ 11.0m | undisclosed | BWTS fitted |
-| HANDY | DARYA JAMUNA | 36,845 | 2012 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-27 | 4 X 35t CRANES | region $ 16.0m | undisclosed | BWTS fitted |
-| HANDY | VALOR SW | 29,818 | 2008 | SHIKOKU, Japan | MAN-B\&amp;W | Oct-27 | 4 X 30,5t CRANES | $ 8.45m | Lebanese | BWTS fitted |
+| CAPE | OCEAN CORONA | 180,220 | 2009 | KOYO MIHARA, Japan | MAN-B&W | Apr-27 |  | $ 20.8m | Chinese | BWTS fitted |
+| CAPE | SATORI | 177,456 | 2007 | MITSUI, Japan | MAN-B&W | Jan-26 |  | $ 18.5m | Turkish | BWTS fitted |
+| CAPE | CAPE FLAMINGO | 180,201 | 2005 | KOYO MIHARA, Japan | B&W | Sep-25 |  | $ 15.4m | Chinese | BWTS fitted |
+| KMAX | BRENDA | 81,005 | 2014 | JMU, Japan | MAN-B&W | Aug-24 |  | $ 24.7m | Indian (GESCO) | BWTS, Scrubber fitted, Eco |
+| UMAX | MARLIN V | 61,444 | 2013 | IWAGI ZOSEN, Japan | MAN-B&W | Oct-28 | 4 X 30t CRANES | $ 21.3m | Greek | BWTS fitted |
+| SUPRA | OCEAN GRACE | 56,029 | 2005 | MITSUI, Japan | MAN-B&W | Apr-25 | 4 X 30t CRANES | $ 11.0m | undisclosed | BWTS fitted |
+| HANDY | DARYA JAMUNA | 36,845 | 2012 | HYUNDAI MIPO, S. Korea | MAN-B&W | May-27 | 4 X 35t CRANES | region $ 16.0m | undisclosed | BWTS fitted |
+| HANDY | VALOR SW | 29,818 | 2008 | SHIKOKU, Japan | MAN-B&W | Oct-27 | 4 X 30,5t CRANES | $ 8.45m | Lebanese | BWTS fitted |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | PADIAN 2 | 1,060 | 2006 | HAKATA, Japan | MAN-B\&amp;W | Feb-26 |  | region $ 6.0m | HK based |
+| FEEDER | PADIAN 2 | 1,060 | 2006 | HAKATA, Japan | MAN-B&W | Feb-26 |  | region $ 6.0m | HK based |
 
 ## Secondhand Sales
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | CLIPPER VICTORY | 54,048 | 2009 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jan-24 | 73,537 | $ 65.75m | undisclosed | scrubber fitted |
+| LPG | CLIPPER VICTORY | 54,048 | 2009 | HYUNDAI, S. Korea | MAN-B&W | Jan-24 | 73,537 | $ 65.75m | undisclosed | scrubber fitted |
 
 ---
 

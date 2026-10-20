@@ -36,7 +36,7 @@ Currently, the total number of crude tankers on order is 80, a figure that repre
 
 The dry bulk market closed off on a positive note last week surpassing the 1,500 points mark. The BDI on Thursday (21/04/2023) closed at 1,504 points, up by 69 points compared to previous Friday's closing (14/04/2023). The crude carriers market saw rates across the board moving down last week. The BDTI on Thursday (21/04/2023) closed at 1,146, a decrease of 96 points and the BCTI at 968, an increase of 10 points compared to previous Friday's (14/04/2023) levels.
 
-## Sale &amp; Purchase (**Wet: **Softer** / Dry: **Firmer****)
+## Sale & Purchase (**Wet: **Softer** / Dry: **Firmer****)
 
 The SnP tanker activity was subdued last week with only a handful of orders being concluded, while in the case of bulk carriers, interest was healthy with all sectors catching owners' interest. In the tanker sector, we had the sale of the "EAGLE BRENDA" (164,626dwt-blt '01, S. Korea) which was sold to undisclosed buyers, for a price in the region of \$26.0m. On the dry bulker side sector, we had the sale of the "STELLA CHERISE" (177,832dwt-blt '10, China), which was sold to undisclosed buyers, for a price in the region of \$24.5m.
 
@@ -138,7 +138,7 @@ VLCC T/C earnings averaged \$ 39,826/day, down -\$4,455/day w-o-w, and closed of
 
 Suezmax T/C earnings averaged \$ 52,474/day, down - \$8,577/day w-o-w. On the Aframax front, T/C earnings averaged \$ 43,643/day, down - \$8,115/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had the sale of the "EAGLE BRENDA" (164,626dwt-blt '01, S. Korea) which was sold to undisclosed buyers, for a price in the region of \$26.0m.
 
@@ -200,7 +200,7 @@ Supramax 10TC averaged \$ 12,629/day, up +3.17% w-o-w, while the Handysize 7TC a
 | **Ultramax** **63k** | 31.3 | 30.0 | **4.4%** | 31.5 | 26.4 | 19.4 |
 | **Handysize** **37K** | 26.0 | 25.4 | **2.4%** | 27.2 | 21.4 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "STELLA CHERISE" (177,832dwt-blt '10, China), which was sold to undisclosed buyers, for a price in the region of \$24.5m.
 
@@ -215,25 +215,25 @@ In the Ultramax sector we had the sale of the "CL EBISU" (61,330dwt-blt '14, Jap
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | EAGLE BRENDA | 164,626 | 2001 | HYUNDAI, S. Korea | B\&amp;W | Jul-26 | DH | $ 26.0m | undisclosed |  |
-| LR1 | PIKE | 73,723 | 2008 | NEW TIMES, China | MAN-B\&amp;W | Oct-23 | DH | $ 22.5m | undisclosed |  |
-| LR1 | SAUGER | 72,652 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Feb-24 | DH | $ 18.5m | Turkish |  |
-| MR2 | BAHRI JASMINE | 49,000 | 2005 | DAEWOO, S. Korea | MAN-B\&amp;W | Apr-25 | DH | $ 18.3m | Turkish | BWTS fitted |
-| MR1 | SW JULIA I | 39,999 | 2003 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Sep-23 | DH | low $ 15.0m | undisclosed |  |
+| SUEZ | EAGLE BRENDA | 164,626 | 2001 | HYUNDAI, S. Korea | B&W | Jul-26 | DH | $ 26.0m | undisclosed |  |
+| LR1 | PIKE | 73,723 | 2008 | NEW TIMES, China | MAN-B&W | Oct-23 | DH | $ 22.5m | undisclosed |  |
+| LR1 | SAUGER | 72,652 | 2004 | SAMSUNG, S. Korea | B&W | Feb-24 | DH | $ 18.5m | Turkish |  |
+| MR2 | BAHRI JASMINE | 49,000 | 2005 | DAEWOO, S. Korea | MAN-B&W | Apr-25 | DH | $ 18.3m | Turkish | BWTS fitted |
+| MR1 | SW JULIA I | 39,999 | 2003 | HYUNDAI MIPO, S. Korea | MAN-B&W | Sep-23 | DH | low $ 15.0m | undisclosed |  |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | STELLA CHERISE | 177,832 | 2010 | SWS, China | MAN-B\&amp;W | Apr-27 |  | $ 24.5m | undisclosed | BWTS fitted |
-| CAPE | MOUNT FABER | 176,943 | 2008 | NAMURA, Japan | MAN-B\&amp;W | Mar-23 |  | $ 22.3m | Chinese | BWTS included on price, Scrubber fitted |
-| KMAX | VALIANT SPRING | 81,920 | 2015 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Dec-25 |  | $ 28.2m | Greek | BWTS fitted |
-| KMAX | DL IVY | 81,805 | 2012 | Jiangsu Eastern, China | MAN-B\&amp;W | Sep-27 |  | undisclosed | Greek | BWTS fitted |
-| PMAX | NAVIOS ALDEBARAN | 76,529 | 2008 | IMABARI, Japan | MAN-B\&amp;W | Aug-25 |  | $ 15.0m | undisclosed | BWTS fitted, Poor Condition |
-| UMAX | CL EBISU | 61,330 | 2014 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Nov-24 | 4 X 30,7t CRANES | $ 26.5m | US based (Pangaea) | BWTS fitted, Eco |
-| SUPRA | SEACON QINGDAO | 57,450 | 2013 | TAIZHOU SANFU, China | MAN-B\&amp;W | Mar-28 | 4 X 30t CRANES | $ 15.5m | Chinese (Avic Leasing) | BWTS fitted, Tier II, commercial auction sale |
-| SUPRA | CORAL BREEZE | 55,582 | 2009 | MITSUI, Japan | MAN-B\&amp;W | Jun-24 | 4 X 30t CRANES | $ 16.8m | Indonesian | BWTS fitted |
-| SUPRA | WORLDERA-3 | 50,296 | 2000 | MITSUI, Japan | B\&amp;W | Jul-25 | 4 X 30t CRANES | $ 8.0m | undisclosed | BWTS fitted |
-| HANDY | J-HARMONY | 28,398 | 2009 | IMABARI, Japan | MAN-B\&amp;W | Jun-24 | 4 X 30,5t CRANES | $ 10.3m | Vietnamese | BWTS fitted |
+| CAPE | STELLA CHERISE | 177,832 | 2010 | SWS, China | MAN-B&W | Apr-27 |  | $ 24.5m | undisclosed | BWTS fitted |
+| CAPE | MOUNT FABER | 176,943 | 2008 | NAMURA, Japan | MAN-B&W | Mar-23 |  | $ 22.3m | Chinese | BWTS included on price, Scrubber fitted |
+| KMAX | VALIANT SPRING | 81,920 | 2015 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Dec-25 |  | $ 28.2m | Greek | BWTS fitted |
+| KMAX | DL IVY | 81,805 | 2012 | Jiangsu Eastern, China | MAN-B&W | Sep-27 |  | undisclosed | Greek | BWTS fitted |
+| PMAX | NAVIOS ALDEBARAN | 76,529 | 2008 | IMABARI, Japan | MAN-B&W | Aug-25 |  | $ 15.0m | undisclosed | BWTS fitted, Poor Condition |
+| UMAX | CL EBISU | 61,330 | 2014 | IWAGI ZOSEN, Japan | MAN-B&W | Nov-24 | 4 X 30,7t CRANES | $ 26.5m | US based (Pangaea) | BWTS fitted, Eco |
+| SUPRA | SEACON QINGDAO | 57,450 | 2013 | TAIZHOU SANFU, China | MAN-B&W | Mar-28 | 4 X 30t CRANES | $ 15.5m | Chinese (Avic Leasing) | BWTS fitted, Tier II, commercial auction sale |
+| SUPRA | CORAL BREEZE | 55,582 | 2009 | MITSUI, Japan | MAN-B&W | Jun-24 | 4 X 30t CRANES | $ 16.8m | Indonesian | BWTS fitted |
+| SUPRA | WORLDERA-3 | 50,296 | 2000 | MITSUI, Japan | B&W | Jul-25 | 4 X 30t CRANES | $ 8.0m | undisclosed | BWTS fitted |
+| HANDY | J-HARMONY | 28,398 | 2009 | IMABARI, Japan | MAN-B&W | Jun-24 | 4 X 30,5t CRANES | $ 10.3m | Vietnamese | BWTS fitted |
 
 © Intermodal Research 25/04/2023 4
 
@@ -245,7 +245,7 @@ In the Ultramax sector we had the sale of the "CL EBISU" (61,330dwt-blt '14, Jap
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | LISBON | 6,078 | 2003 | HANJIN HI, S. Korea | Sulzer | May-23 |  | $ 22.5m | Swiss based (MSC) |  |
-| FEEDER | ASL PEONY | 1,930 | 2023 | CSSC HUANGPU WENCHONG, China | MAN-B&amp;W |  |  | undisclosed | Thai (RCL) | scrubber fitted |
+| FEEDER | ASL PEONY | 1,930 | 2023 | CSSC HUANGPU WENCHONG, China | MAN-B&W |  |  | undisclosed | Thai (RCL) | scrubber fitted |
 
 ## Secondhand Sales
 
@@ -335,7 +335,7 @@ Ramadan came to an end last week, meaning that activity in the market and top de
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FLORA | 86,018 | 24,745 | 2008 | HANJIN HI, S. Korea | CONTAINER | undisclosed | Bangladeshi |  |
 | MSC PILAR | 60,350 | 23,740 | 1990 | ODENSE LINDO, Denmark | CONTAINER | $ 544/Ldt | Indian |  |
-| CHEM P | 34,930 | 12,465 | 1968 | BATH, USA | TANKER | $ 440/Ldt | undisclosed | as-is Malta, vsl has 308T Solid SS &amp; 110 Cladded SS |
+| CHEM P | 34,930 | 12,465 | 1968 | BATH, USA | TANKER | $ 440/Ldt | undisclosed | as-is Malta, vsl has 308T Solid SS & 110 Cladded SS |
 | SIAM OCEAN | 33,800 | 7,870 | 1995 | IMABARI, Japan | BC | $ 560/Ldt | Bangladeshi | HKC recycling |
 | GREEN KARMOY | 6,120 | 2,990 | 1989 | KLEVEN LOLAND, Norway | REEFER | undisclosed | Indian |  |
 

@@ -21,7 +21,7 @@ Additionally, the newly announced tariffs have raised concerns about the unfoldi
 
 - The tonnage supply outlook remains robust, with the orderbook-to-fleet ratio exceeding 28%. Projections indicate an increase in tonnage supply by 6.2% in 2025, followed by a moderation to 3.3% in 2026. Demolition activity remains subdued, with only three units recycled in Q1 2025.
 
-- In the S&amp;P market, buyer interest is shifting towards non-Chinese vessels, reflecting concerns over potential USTR port tariffs.
+- In the S&P market, buyer interest is shifting towards non-Chinese vessels, reflecting concerns over potential USTR port tariffs.
 
 - Regarding the freight market, time charter rates are trending upward, especially in smaller vessel segments, driven by increased demand amid limited availability of larger units. The spot market has shown signs of recovery, firming for a second consecutive week after earlier declines, supported by increased traffic to US ports and frontloading ahead of tariffs. Nonetheless, rates remain weak, down by 20% and 44% compared to average figures of 2025 (up to date) and 2024 respectively.
 
@@ -148,24 +148,24 @@ Supramax 10TC averaged \$ 10,339/day down -3.53% w-o-w, while the Handysize 7TC 
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | SYMPHONY | 297,572 | 2009 | SHANGHAI JIANGNAN CHANGXIN, China | MAN B\&amp;W | May-29 | DH | $ 49.0m | Chinese |  |
-| VLCC | NIERUS | 317,972 | 2003 | HYUNDAI, S. Korea | B\&amp;W | Feb-28 | DH | excess $ 30.0m | Chinese |  |
-| VLCC | HANSIKA | 298,495 | 2006 | UNIVERSAL, Japan | MAN B\&amp;W | Jun-26 | DH | $ 45.0m | Chinese | Scrubber fitted |
-| SUEZ | SIMOON | 151,174 | 2004 | SAMSUNG, S. Korea | MAN B\&amp;W | Apr-29 | DH | $ 26.0m | Chinese |  |
-| SMALL | SONGA KARI | 13,148 | 2008 | 21ST CENTURY, S. Korea | MAN B\&amp;W | Mar-28 | DH | $ 10.8m | undisclosed |  |
+| VLCC | SYMPHONY | 297,572 | 2009 | SHANGHAI JIANGNAN CHANGXIN, China | MAN B&W | May-29 | DH | $ 49.0m | Chinese |  |
+| VLCC | NIERUS | 317,972 | 2003 | HYUNDAI, S. Korea | B&W | Feb-28 | DH | excess $ 30.0m | Chinese |  |
+| VLCC | HANSIKA | 298,495 | 2006 | UNIVERSAL, Japan | MAN B&W | Jun-26 | DH | $ 45.0m | Chinese | Scrubber fitted |
+| SUEZ | SIMOON | 151,174 | 2004 | SAMSUNG, S. Korea | MAN B&W | Apr-29 | DH | $ 26.0m | Chinese |  |
+| SMALL | SONGA KARI | 13,148 | 2008 | 21ST CENTURY, S. Korea | MAN B&W | Mar-28 | DH | $ 10.8m | undisclosed |  |
 | SMALL | DH HONESTY | 13,148 | 2021 | NANTONG,China | WinGD | Mar-26 | DH | $ 20.5m | undisclosed | via online bidding platfrom |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MINI CAPE | JUBILANT DEVOTION | 117,549 | 2016 | SANOYAS, Japan | MAN-B\&amp;W | May-26 |  | $ 26.5m | Greek | scrubber fitted |
-| KMAX | SEA MARATHON | 81,945 | 2015 | QINGDAO WUCHUAN, China | MAN B\&amp;W | Dec-25 |  | excess $ 18.0m | Greek | non eco |
-| KMAX | GOLDEN KEEN | 81,586 | 2012 | HYUNDAI MIPO, S. Korea | MAN B\&amp;W | Apr-27 |  | $ 17.4m | Chinese |  |
-| KMAX | GOLDEN IOANARI | 81,827 | 2011 | HYUNDAI MIPO, S. Korea | MAN B\&amp;W | Sep-26 |  | $ 16.3m | Greek |  |
+| MINI CAPE | JUBILANT DEVOTION | 117,549 | 2016 | SANOYAS, Japan | MAN-B&W | May-26 |  | $ 26.5m | Greek | scrubber fitted |
+| KMAX | SEA MARATHON | 81,945 | 2015 | QINGDAO WUCHUAN, China | MAN B&W | Dec-25 |  | excess $ 18.0m | Greek | non eco |
+| KMAX | GOLDEN KEEN | 81,586 | 2012 | HYUNDAI MIPO, S. Korea | MAN B&W | Apr-27 |  | $ 17.4m | Chinese |  |
+| KMAX | GOLDEN IOANARI | 81,827 | 2011 | HYUNDAI MIPO, S. Korea | MAN B&W | Sep-26 |  | $ 16.3m | Greek |  |
 | SUPRA | CL SEVEN | 50,630 | 2011 | OSHIMA, Japan | Mitsubishi | May-26 | 4 X 30t CRANES | $ 14.0m | undisclosed | OHBS |
-| HANDY | BUNUN HERO | 37,811 | 2015 | SHIMANAMI, Japan | MAN B\&amp;W | Jul-25 | 4 X 30,5t CRANES | $ 18.5m | Turkish (Manta) |  |
-| HANDY | LAGO DI CANCANO | 37,666 | 2014 | QINGSHAN, China | MAN B\&amp;W | Jan-29 | 4 X 30.5t CRANE | $ 14.0m | undisclosed | Eco, Ice 1C |
-| HANDY | STRADION | 36,863 | 2011 | HYUNDAI MIPO, S. Korea | MAN B\&amp;W | Jan-26 | 4 X 30t CRANES | $ 13.5m | undisclosed |  |
+| HANDY | BUNUN HERO | 37,811 | 2015 | SHIMANAMI, Japan | MAN B&W | Jul-25 | 4 X 30,5t CRANES | $ 18.5m | Turkish (Manta) |  |
+| HANDY | LAGO DI CANCANO | 37,666 | 2014 | QINGSHAN, China | MAN B&W | Jan-29 | 4 X 30.5t CRANE | $ 14.0m | undisclosed | Eco, Ice 1C |
+| HANDY | STRADION | 36,863 | 2011 | HYUNDAI MIPO, S. Korea | MAN B&W | Jan-26 | 4 X 30t CRANES | $ 13.5m | undisclosed |  |
 
 ---
 

@@ -29,7 +29,7 @@ The tightness of the market is also mirrored in the seaborne sector, where spot 
 
 Bulker's average earnings decreased w-o-w during the past days. Atlantic demand was soft while the return from Far Eastern holidays did not follow by an increase in tonnage requirements. The BDI today (18/10/2022) closed at 1,875 points, down by 29 points compared to previous Tuesday's closing (11/10/2022). An overall positive week for the crude sectors with Atlantic tonnage requirements for both Westbound and Eastbound trips strengthening owners' position. The BDTI today (18/10/2022) closed at 1,693, an increase of 228 points and the BCTI at 1,241, an increase of 54 points compared to previous Tuesday's (11/10/2022) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: **Firmer**)
+## Sale & Purchase (Wet: **Firmer** / Dry: **Firmer**)
 
 An uptick in both the dry bulk and tanker materialized deals was noted during the past days while compared to the previous week's strong volume of Container and Gas secondhand transactions, last week both sectors were absent from the SnP realm. In the tanker sector, we had the sale of the "HAO YU" (105,522dwt-blt '05, Japan), which was sold to Middle Eastern buyers, for a price in the region of \$27.0m. On the dry bulker side sector, we had the sale of the "ARETHOUSA" (169,770dwt-blt '01, Japan), which was sold to Greek buyers, for a price in the region of \$15.1m.
 
@@ -131,7 +131,7 @@ VLCC T/C earnings averaged \$26,261/day, up + \$2,039/day w-o-w and closed of th
 
 Suezmax T/C earnings averaged \$57,243/day, up + \$3,971/day w-o-w. The week began slowly for the Aframax sector, yet activity picked up considerably as the week progressed. As a result, Aframax T/C earnings averaged \$ 48,934, down - \$943/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Aframax sector we had the sale of the "HAO YU" (105,522dwt-bl't '05, Japan), which was sold to Middle Eastern buyers, for a price in the region of \$27.0m.
 
@@ -201,7 +201,7 @@ Supramax 10TC averaged \$ 18,747/day, up + 1.41% w-o-w, while the Handysize 7TC 
 | **Ultramax** | **63k** | 29.5 | 29.9 | -1.3% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 26.0 | 26.7 | -2.6% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "ARETHOUSA" (169,770dwt-blt '01, Japan), which was sold to Greek buyers, for a price in the region of \$15.1m.
 
@@ -219,14 +219,14 @@ In the Kamsarmax sector we had the sale of the "BULK HOLLAND" (81,712dwt-blt '17
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ULCC | EUROPE | 441,561 | 2002 | DAEWOO, S. Korea | Sulzer | Nov-22 | DH | region $ 42.5m | undisclosed |  |
-| AFRA | SOLVIKEN | 114,523 | 2007 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jan-27 | DH | $ 32.5m | undisclosed | inc. TC at $15k/d + 50/50 profit split on real earnings (red/very on 15 Nov 22 – 15 Feb 23) |
-| AFRA | BLUESEA | 113,553 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | Feb-26 | DH | $ 62.5m (en bloc) | undisclosed | BWTS fitted, Ice Class 1A, delivery Q4 2022 |
-| AFRA | PAROSEA | 113,553 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | May-26 | DH | $ 62.5m (en bloc) | undisclosed | BWTS fitted, Ice Class 1A, delivery Q4 2022 |
+| AFRA | SOLVIKEN | 114,523 | 2007 | SAMSUNG, S. Korea | MAN-B&W | Jan-27 | DH | $ 32.5m | undisclosed | inc. TC at $15k/d + 50/50 profit split on real earnings (red/very on 15 Nov 22 – 15 Feb 23) |
+| AFRA | BLUESEA | 113,553 | 2006 | SAMSUNG, S. Korea | MAN-B&W | Feb-26 | DH | $ 62.5m (en bloc) | undisclosed | BWTS fitted, Ice Class 1A, delivery Q4 2022 |
+| AFRA | PAROSEA | 113,553 | 2006 | SAMSUNG, S. Korea | MAN-B&W | May-26 | DH | $ 62.5m (en bloc) | undisclosed | BWTS fitted, Ice Class 1A, delivery Q4 2022 |
 | AFRA | HAO YU | 105,522 | 2005 | SUMITOMO, Japan | Wartsila | Jun-25 | DH | $ 27.0m | Middle Eastern | BWTS, Scrubber fitted |
-| MR2 | BSL ELSA | 51,747 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jun-24 | DH | $ 22.0m | undisclosed | TC attached at a below market rate |
+| MR2 | BSL ELSA | 51,747 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jun-24 | DH | $ 22.0m | undisclosed | TC attached at a below market rate |
 | SMALL | FURE VEN | 17,993 | 2019 | AVIC DINGHENG, China | Wartsila | Mar-24 | DH | undisclosed | Finish (Neste) | delivery Q4 2023 |
 | SMALL | FURE VALO | 17,999 | 2018 | AVIC DINGHENG, China | Wartsila | Nov-23 | DH | undisclosed | Finish (Neste) |  |
-| SMALL | CELSIUS MIAMI | 19,991 | 2005 | USUKI, Japan | MAN-B\&amp;W | Apr-25 | DH | $ 13.8m | Singapore based (Wilmar) | BWTS fitted, StSt |
+| SMALL | CELSIUS MIAMI | 19,991 | 2005 | USUKI, Japan | MAN-B&W | Apr-25 | DH | $ 13.8m | Singapore based (Wilmar) | BWTS fitted, StSt |
 | SMALL | DUMANKAYA | 4,622 | 2007 | CEKSAN GEMI, Turkey | Wartsila | Mar-27 | DH | $ 5.7m | Russian | Ice Class 1A |
 
 © Intermodal Research 18/10/2022 4
@@ -238,25 +238,25 @@ In the Kamsarmax sector we had the sale of the "BULK HOLLAND" (81,712dwt-blt '17
 ## **Bulk Carriers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | ARETHOUSA | 169,770 | 2001 | SASEBO, Japan | B\&amp;W | Jun-26 |  | $ 15.1m | Greek | BWTS fitted |
-| POST PMAX | CMB CHARDONNAY | 95,707 | 2012 | KOYO MIHARA, Japan | MAN-B\&amp;W | Nov-22 |  | $ 21.5m | undisclosed |  |
-| POST PMAX | LARA VENTURE | 93,758 | 2011 | SHANHAIGUAN, China | MAN-B\&amp;W | Sep-26 |  | $ 20.6m | Middle Eastern | BWTS fitted |
-| KMAX | BULK HOLLAND | 81,712 | 2017 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Apr-27 |  | $ 29.7m | Greek (Newport) | BWTS fitted |
-| KMAX | FIORELA | 81,501 | 2011 | HYUNDAI, S. Korea | MAN-B\&amp;W | Nov-26 |  | $ 21.3m | Middle Eastern | BWTS fitted |
-| UMAX | ULTRA WOLLONGONG | 61,684 | 2011 | OSHIMA, Japan | MAN-B\&amp;W | Jun-26 | 4 X 30t CRANES | $ 22.0m | Hong Kong based | BWTS fitted |
-| SUPRA | PACIFIC HERO | 58,677 | 2012 | KAWASAKI, Japan | MAN-B\&amp;W | Jan-25 | 4 X 30,5t CRANES | $ 20.5m | Turkish | BWTS fitted |
-| SUPRA | SENORITA | 58,300 | 2008 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Mar-23 | 4 X 30t CRANES | $ 16.0m | Greek | BWTS fitted |
+| CAPE | ARETHOUSA | 169,770 | 2001 | SASEBO, Japan | B&W | Jun-26 |  | $ 15.1m | Greek | BWTS fitted |
+| POST PMAX | CMB CHARDONNAY | 95,707 | 2012 | KOYO MIHARA, Japan | MAN-B&W | Nov-22 |  | $ 21.5m | undisclosed |  |
+| POST PMAX | LARA VENTURE | 93,758 | 2011 | SHANHAIGUAN, China | MAN-B&W | Sep-26 |  | $ 20.6m | Middle Eastern | BWTS fitted |
+| KMAX | BULK HOLLAND | 81,712 | 2017 | TSUNEISHI CEBU, Philippines | MAN-B&W | Apr-27 |  | $ 29.7m | Greek (Newport) | BWTS fitted |
+| KMAX | FIORELA | 81,501 | 2011 | HYUNDAI, S. Korea | MAN-B&W | Nov-26 |  | $ 21.3m | Middle Eastern | BWTS fitted |
+| UMAX | ULTRA WOLLONGONG | 61,684 | 2011 | OSHIMA, Japan | MAN-B&W | Jun-26 | 4 X 30t CRANES | $ 22.0m | Hong Kong based | BWTS fitted |
+| SUPRA | PACIFIC HERO | 58,677 | 2012 | KAWASAKI, Japan | MAN-B&W | Jan-25 | 4 X 30,5t CRANES | $ 20.5m | Turkish | BWTS fitted |
+| SUPRA | SENORITA | 58,300 | 2008 | TSUNEISHI CEBU, Philippines | MAN-B&W | Mar-23 | 4 X 30t CRANES | $ 16.0m | Greek | BWTS fitted |
 | SUPRA | JIN YAO | 52,050 | 2004 | IHI, Japan | Sulzer | Jun-24 | 4 X 30t CRANES | region $ 13.0m | undisclosed |  |
-| HANDY | ORIENT MATE | 32,471 | 2014 | YANASE TONGYEONG, S. Korea | MAN-B\&amp;W | Jan-24 | 4 X 30t CRANES | high $ 16.0m | Greek | BWTS, Scrubber fitted |
+| HANDY | ORIENT MATE | 32,471 | 2014 | YANASE TONGYEONG, S. Korea | MAN-B&W | Jan-24 | 4 X 30t CRANES | high $ 16.0m | Greek | BWTS, Scrubber fitted |
 | HANDY | ROYAL HARMONY | 37,238 | 2011 | SAIKI, Japan | Mitsubishi | Oct-25 | 4 X 30t CRANES | $ 16.5m | undisclosed | OHBS |
-| HANDY | OCEAN SATOKO | 37,215 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Dec-26 | 4 X 30t CRANES | region $ 16.0m | undisclosed | BWTS fitted |
+| HANDY | OCEAN SATOKO | 37,215 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&W | Dec-26 | 4 X 30t CRANES | region $ 16.0m | undisclosed | BWTS fitted |
 | HANDY | HIPPO SPIRIT | 27,097 | 1996 | SHIN KURUSHIMA, Japan | Mitsubishi | Jan-26 | 4x30.5, 4x30.0 | $ 6.2m | undisclosed |  |
 
 ## Secondhand Sales
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | NAVIGATOR MAGELLAN | 23,292 | 1998 | MITSUI CHIBA ICHIHARA, Japan | B\&amp;W | May-25 | 20,900 | $ 13.0m | undisclosed |
+| LPG | NAVIGATOR MAGELLAN | 23,292 | 1998 | MITSUI CHIBA ICHIHARA, Japan | B&W | May-25 | 20,900 | $ 13.0m | undisclosed |
 
 © Intermodal Research 18/10/2022 5
 

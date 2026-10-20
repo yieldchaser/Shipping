@@ -12,7 +12,7 @@ Issue: Week 12 | Tuesday 29<sup>th</sup> March 2022
 
 ## Few thoughts on the news wall, by Yiannis Parganas
 
-**Chinese economic performance exceeded expectations for the January-February period.** In the first two months of 2022, the value-added industrial output reached 7.5% compared to the 4.3% mark in December 2021, PMI stood at 50.2% in Feb, up by 0.1% m-o-m. Continuing infrastructure projects will have an evidently positive mark on bulk commodities demand and subsequently on the dry bulk shipping market. At the same time, China has announced Covid-19 related restrictions across 20 different provinces (including Shanghai the center of the country's commercial activity) with an apparent effect on oil consumption. According to S&amp;P global estimations, the loss in oil consumption is estimated at around 650,000 bbl/day in March and 400,000 bbl/day in April. However, restrictions could have a positive effect on the container and dry bulk freight markets, due to the upcoming port delays that could tighten the tonnage availability further. Inevitably, China's economic performance will shape the 2022 dry bulk outlook.
+**Chinese economic performance exceeded expectations for the January-February period.** In the first two months of 2022, the value-added industrial output reached 7.5% compared to the 4.3% mark in December 2021, PMI stood at 50.2% in Feb, up by 0.1% m-o-m. Continuing infrastructure projects will have an evidently positive mark on bulk commodities demand and subsequently on the dry bulk shipping market. At the same time, China has announced Covid-19 related restrictions across 20 different provinces (including Shanghai the center of the country's commercial activity) with an apparent effect on oil consumption. According to S&P global estimations, the loss in oil consumption is estimated at around 650,000 bbl/day in March and 400,000 bbl/day in April. However, restrictions could have a positive effect on the container and dry bulk freight markets, due to the upcoming port delays that could tighten the tonnage availability further. Inevitably, China's economic performance will shape the 2022 dry bulk outlook.
 
 **According to World Steel Association, world steel production in February 2022 stood at 142.7 million tonnes, decreased by 5.7% compared to February 2021.** Among the steel producing countries, China has produced a total of around 75.0 million tonnes, noting a decrease of 10% y-o-y. India, the second-largest producer, has a total of 10.1 million tonnes, noting the largest improvement among its counterparts of 7.6% y-o-y. India could play a leading role substituting a share of Russian steel exports amidst the imposed sanctions as of late eyeing the European market. According to Joint Plant Committee (JPC), the export of finished steel in February rose by 77% y-o-y and 42.1% m-o-m, reaching the 1.16 million tonnes mark. It remains to be seen how March's exports will be formed.
 
@@ -24,7 +24,7 @@ Issue: Week 12 | Tuesday 29<sup>th</sup> March 2022
 
 With the exception of the Capesize sector which continued to lose steam, the rest of the sizes have been enjoying a ton-mile increase amidst the imposed sanction impact on the traditionally dry bulk trade routes. The BDI today (29/03/2022) closed at 2,417 points, down by 129 points compared to previous Tuesday's closing (22/03/2022). The recent crude carrier market activity concurs with the pace we have been observing during the past weeks; rates remain unhealthy for the majority of routes while premiums are being offered for Russian related businesses. The BDTI today (29/03/2022) closed at 1,163, an increase of 71 points, and the BCTI at 933, a decrease of 51 points compared to previous Tuesday's (22/03/2022) levels.
 
-## Sale &amp; Purchase (Wet: Firmer / Dry: Firmer)
+## Sale & Purchase (Wet: Firmer / Dry: Firmer)
 
 The SnP market noted an impressive activity last week, with a plethora of dry bulk sales materializing while tanker deals have also seen a w-o-w increase. In the tanker sector, we had sale of the "NORDIC PASSAT" (164,274dwt-blt '02, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$15.5m. On the dry bulker side sector, we had the sale of the "BAOSTEEL EVOLUTION" (206,331dwt-blt '07, Japan), which was sold to Chinese buyers, for a price in the region of \$21.8m.
 
@@ -122,7 +122,7 @@ VLCC T/C earnings averaged \$-26,146/day, down - \$6,008/day w-o-w. Increased bu
 
 Suezmax T/C earnings averaged \$37,127/day, down - \$16,331/day w-o-w. Weather disruption has led CPC terminal to halt operations having an apparent effect on cargoes supply from the Blacksea. On the contrary, increased USG activity for trips to Europe has pushed rates up with West Africa market also benefiting from the thinner tonnage list as units were destined for the U.S. market. Aframax T/C earnings averaged \$28,181/day, down - \$20,288/day w-o-w. The Med/Blacksea market was also affected by the CPC cargoes disruption while in North Europe, charterers are facing limited candidates for Russian cargoes. On the other hand, USG market rates rose significantly absorbing a good volume of units.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had sale of the "NORDIC PASSAT" (164,274dwt-blt '02, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$15.5m.
 
@@ -190,7 +190,7 @@ Supramax 10TC averaged \$33,002/day, up + 3.27% w-o-w, while the Handysize 7TC a
 | Ultramax | 63k | 32.6 | 31.0 | 5.2% | 26.4 | 19.4 | 22.6 |
 | Handysize | 37K | 28.0 | 27.3 | 2.8% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "BAOSTEEL EVOLUTION" (206,331dwt-blt '07, Japan), which was sold to Chinese buyers, for a price in the region of \$21.8m.
 
@@ -206,25 +206,25 @@ In the Panamax sector we had the sale of the "MARIBELLA" (76,629dwt-blt '04, Jap
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | BAOSTEEL EVOLUTION | 206,331 | 2007 | IMABARI, Japan | MAN-B\&amp;W | Jul-22 |  | $ 21.8m | Chinese |  |
-| POST PMAX | JIN FAN | 93,069 | 2012 | JIANGSU JINLING, China | MAN-B\&amp;W | Jun-22 |  | $ 18.62m | undisclosed | online commercial auction |
+| CAPE | BAOSTEEL EVOLUTION | 206,331 | 2007 | IMABARI, Japan | MAN-B&W | Jul-22 |  | $ 21.8m | Chinese |  |
+| POST PMAX | JIN FAN | 93,069 | 2012 | JIANGSU JINLING, China | MAN-B&W | Jun-22 |  | $ 18.62m | undisclosed | online commercial auction |
 | POST PMAX | XIN YUAN | 91,439 | 2002 | OSHIMA, Japan | Mitsubishi | Jul-25 |  | high $ 14.0m | undisclosed |  |
-| KMAX | AZUR | 82,282 | 2007 | OSHIMA, Japan | MAN-B\&amp;W | Nov-22 |  | rgn $ 20.0m | undisclosed | bss dely Ma '22 in Far East |
-| PMAX | MARIBELLA | 76,629 | 2004 | IMABARI, Japan | B\&amp;W | Dec-24 |  | $ 14.9m | Chinese |  |
-| PMAX | EVERSHINE | 75,933 | 2000 | KANASASHI, Japan | B\&amp;W | Sep-25 |  | $ 12.0m | undisclosed |  |
-| UMAX | PENG DE | 64,485 | 2014 | GUANGZHOU HUANGPU, China | MAN-B\&amp;W |  |  | $ 25.5m | Hong Kong based (Jinhui Shipping &amp; Trading) |  |
-| SUPRA | DAYANG CENTURY | 56,780 | 2011 | JIANGDONG, China | MAN-B\&amp;W | Apr-26 | 4 X 30t CRANES | $ 17.88m | Chinese | BWTS fitted, online commercial auction |
-| SUPRA | SHANGRILA | 52,342 | 2001 | TSUNEISHI, Japan | B\&amp;W | Sep-26 | 4 X 30t CRANES | $ 12.8m | Chinese | high $ 12.0m |
+| KMAX | AZUR | 82,282 | 2007 | OSHIMA, Japan | MAN-B&W | Nov-22 |  | rgn $ 20.0m | undisclosed | bss dely Ma '22 in Far East |
+| PMAX | MARIBELLA | 76,629 | 2004 | IMABARI, Japan | B&W | Dec-24 |  | $ 14.9m | Chinese |  |
+| PMAX | EVERSHINE | 75,933 | 2000 | KANASASHI, Japan | B&W | Sep-25 |  | $ 12.0m | undisclosed |  |
+| UMAX | PENG DE | 64,485 | 2014 | GUANGZHOU HUANGPU, China | MAN-B&W |  |  | $ 25.5m | Hong Kong based (Jinhui Shipping & Trading) |  |
+| SUPRA | DAYANG CENTURY | 56,780 | 2011 | JIANGDONG, China | MAN-B&W | Apr-26 | 4 X 30t CRANES | $ 17.88m | Chinese | BWTS fitted, online commercial auction |
+| SUPRA | SHANGRILA | 52,342 | 2001 | TSUNEISHI, Japan | B&W | Sep-26 | 4 X 30t CRANES | $ 12.8m | Chinese | high $ 12.0m |
 | HMAX | EVER AMPLE | 50,029 | 1998 | IMABARI, Japan | Mitsubishi | Nov-25 | 3 X 14,5t CRANES | $ 8.25m | undisclosed |  |
-| HANDY | INTERLINK CAPACITY | 38,835 | 2016 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Jun-26 | 4 X 30t CRANES | $ 26.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
-| HANDY | INTERLINK EQUALITY | 38,781 | 2016 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Jul-26 | 4 X 30t CRANES | $ 26.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
-| HANDY | INTERLINK QUALITY | 38,719 | 2016 | HUATAI NANTONG, China | MAN-B\&amp;W | Feb-26 | 4 X 30t CRANES | $ 26.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
-| HANDY | INTERLINK ABILITY | 38,683 | 2015 | HUATAI NANTONG, China | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | $ 25.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
-| HANDY | OCEAN IBIS | 38,486 | 2013 | MINAMI-NIPPON, Japan | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | $ 24.5m | Greek based (FGM Chartering) | 1 yr BBHP structure |
-| HANDY | IONIC HALO | 34,039 | 2012 | DAE SUN, S. Korea | MAN-B\&amp;W | Mar-22 | 4 X 30t CRANES | $ 19.0m | Greek | SS/DD passed |
+| HANDY | INTERLINK CAPACITY | 38,835 | 2016 | TAIZHOU KOUAN, China | MAN-B&W | Jun-26 | 4 X 30t CRANES | $ 26.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
+| HANDY | INTERLINK EQUALITY | 38,781 | 2016 | TAIZHOU KOUAN, China | MAN-B&W | Jul-26 | 4 X 30t CRANES | $ 26.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
+| HANDY | INTERLINK QUALITY | 38,719 | 2016 | HUATAI NANTONG, China | MAN-B&W | Feb-26 | 4 X 30t CRANES | $ 26.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
+| HANDY | INTERLINK ABILITY | 38,683 | 2015 | HUATAI NANTONG, China | MAN-B&W | May-25 | 4 X 30t CRANES | $ 25.5m | undisclosed | Eco, BWTS fitted, ICE Class 1C |
+| HANDY | OCEAN IBIS | 38,486 | 2013 | MINAMI-NIPPON, Japan | MAN-B&W | Aug-26 | 4 X 30t CRANES | $ 24.5m | Greek based (FGM Chartering) | 1 yr BBHP structure |
+| HANDY | IONIC HALO | 34,039 | 2012 | DAE SUN, S. Korea | MAN-B&W | Mar-22 | 4 X 30t CRANES | $ 19.0m | Greek | SS/DD passed |
 | HANDY | ECO DYNAMIC | 32,354 | 2005 | KANDA, Japan | Mitsubishi | Nov-25 | 4 X 30,5t CRANES | excess $ 14.0m | Greek | BWTS fitted |
-| HANDY | S-BRAND | 33,745 | 2004 | OSHIMA, Japan | MAN-B\&amp;W | Jun-24 | 4 X 30t CRANES | $ 13.0m | Chinese |  |
-| HANDY | NIKOLAOS GS | 28,616 | 2002 | IMABARI, Japan | B\&amp;W | May-25 | 4x30.5, 4x30.0 | low $ 9.0m | undisclosed |  |
+| HANDY | S-BRAND | 33,745 | 2004 | OSHIMA, Japan | MAN-B&W | Jun-24 | 4 X 30t CRANES | $ 13.0m | Chinese |  |
+| HANDY | NIKOLAOS GS | 28,616 | 2002 | IMABARI, Japan | B&W | May-25 | 4x30.5, 4x30.0 | low $ 9.0m | undisclosed |  |
 
 © Intermodal Research 29/03/2022 4
 
@@ -234,18 +234,18 @@ In the Panamax sector we had the sale of the "MARIBELLA" (76,629dwt-blt '04, Jap
 
 | HANDY | _MOUNT ADAMS_ | 28,488 | 2002 | KANDA, Japan | Mitsubishi | May-25 | 4 X 30,5t CRANES | $ 9.8m | undisclosed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HANDY | PORT BOTANY | 28,470 | 2001 | IMABARI, Japan | MAN-B&amp;W | Sep-26 | 4 X 30,5t CRANES | $ 8.8m | undisclosed |
+| HANDY | PORT BOTANY | 28,470 | 2001 | IMABARI, Japan | MAN-B&W | Sep-26 | 4 X 30,5t CRANES | $ 8.8m | undisclosed |
 
 ##  Tankers 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | NORDIC PASSAT | 164,274 | 2002 | SAMHO, S. Korea | B&amp;W | Aug-22 | DH | $ 15.5m | undisclosed |  |
-| LR2 | STI SAVILE ROW | 109,999 | 2015 | SUNGDONG, S. Korea | MAN-B&amp;W | Jun-25 | DH | $ 43.0m | Italian (Premuda) | delivery Q2/Q3-2022, incl TC attached |
-| LR2 | STI CARNABY | 109,999 | 2015 | SUNGDONG, S. Korea | MAN-B&amp;W | Sep-25 | DH | $ 43.0m | Italian (Premuda) | delivery Q2/Q3-2022, incl TC attached |
-| MR2 | MAERSK TOKYO | 49,687 | 2016 | SUNGDONG, S. Korea | MAN-B&amp;W | Jun-26 | DH | $ 31.0m | undisclosed |  |
-| MR2 | STI BENICIA | 49,990 | 2014 | SPP, S. Korea | MAN-B&amp;W | Sep-24 | DH | $ 26.5m | Cyprus based (MSEA Capital) | delivery Q2/Q3-2022, incl TC attached |
-| SMALL | DL VIOLET | 13,093 | 2008 | 21ST CENTURY, S. Korea | MAN-B&amp;W | Jan-23 | DH | $ 5.0m | undisclosed |  |
-| SMALL | DL ASTER | 13,079 | 2007 | 21ST CENTURY, S. Korea | MAN-B&amp;W | Mar-22 | DH | $ 4.8m | undisclosed |  |
+| SUEZ | NORDIC PASSAT | 164,274 | 2002 | SAMHO, S. Korea | B&W | Aug-22 | DH | $ 15.5m | undisclosed |  |
+| LR2 | STI SAVILE ROW | 109,999 | 2015 | SUNGDONG, S. Korea | MAN-B&W | Jun-25 | DH | $ 43.0m | Italian (Premuda) | delivery Q2/Q3-2022, incl TC attached |
+| LR2 | STI CARNABY | 109,999 | 2015 | SUNGDONG, S. Korea | MAN-B&W | Sep-25 | DH | $ 43.0m | Italian (Premuda) | delivery Q2/Q3-2022, incl TC attached |
+| MR2 | MAERSK TOKYO | 49,687 | 2016 | SUNGDONG, S. Korea | MAN-B&W | Jun-26 | DH | $ 31.0m | undisclosed |  |
+| MR2 | STI BENICIA | 49,990 | 2014 | SPP, S. Korea | MAN-B&W | Sep-24 | DH | $ 26.5m | Cyprus based (MSEA Capital) | delivery Q2/Q3-2022, incl TC attached |
+| SMALL | DL VIOLET | 13,093 | 2008 | 21ST CENTURY, S. Korea | MAN-B&W | Jan-23 | DH | $ 5.0m | undisclosed |  |
+| SMALL | DL ASTER | 13,079 | 2007 | 21ST CENTURY, S. Korea | MAN-B&W | Mar-22 | DH | $ 4.8m | undisclosed |  |
 
 ##  Containers 
 

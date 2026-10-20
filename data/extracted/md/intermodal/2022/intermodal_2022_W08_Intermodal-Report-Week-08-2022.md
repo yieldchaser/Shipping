@@ -28,7 +28,7 @@ To sum up, for the modern world the last several days have been an emotional rol
 
 The dry bulk market remains particularly healthy during this year so far, while despite the small slow down in the Atlantic activity caused by the Russia-Ukraine war, demand is supporting lucrative prospects for dry bulk owners. The BDI today (01/03/2022) closed at 2,069 points, down by 79 points compared to previous Tuesday's closing (22/02/2022). An unclear outlook is now hovering above the crude carrier market, as Russia-Ukraine war has its own effect on the shipping industry with prospects remaining uncertain. The BDTI today (01/03/2022) closed at 1,449, an increase of 735 points, and the BCTI at 790, an increase of 86 points compared to previous Tuesday's (22/02/2022) levels.
 
-## Sale &amp; Purchase (Wet: **Stable-** / Dry: **Firmer**)
+## Sale & Purchase (Wet: **Stable-** / Dry: **Firmer**)
 
 Very healthy activity in the second-hand dry bulk market extended for another week, with interest being evident across all sizes. At the same time, buyers in the tanker sector seem reluctant to step up SnP activity with only a handful of deals materializing. In the tanker sector, we had sale of the "T. PROGRESS" (305,795dwt-blt '02, S. Korea), which was sold to undisclosed buyer, for a price in the region of \$28.8m. On the dry bulker side sector, we had the sale of the "SITC TAISHAN" (58,107dwt-blt '10, China), which was sold to Greek buyer, for a price in the region of \$18.25m.
 
@@ -132,7 +132,7 @@ VLCC T/C earnings averaged \$ -18,632/day, up + \$3,006/day w-o-w. Owners manage
 
 Suezmax T/C earnings averaged \$ 15,135/day, up + \$17,415/day w-o-w. The TD6 route closed off the week at the 229.44WS points mark, an increase of 159 points. West Africa market was also benefitted, with TD20 improving by 55,14WS points w-o-w, while in the MEG, a rise of 17.62WS points was noted for the TD23 route. Aframax T/C earnings averaged \$18,466/day, up + \$14,970/day w-o-w. The Baltic/UKC TD17 route has seen a rise of 235.62WS points for those owners eager to load at the area. Similarly, Cross-Med TD19 trips enjoyed an increase of 120.06WS points w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had sale of the "T. PROGRESS" (305,795dwt-blt '02, S. Korea), which was sold to undisclosed buyer, for a price in the region of \$28.8m.
 
@@ -200,7 +200,7 @@ Supramax 10TC averaged \$ 26,226/day, up +3.88% w-o-w, while the Handysize 7TC a
 | Ultramax | 63k | 31.0 | 30.5 | 1.6% | 26.4 | 19.4 | 22.6 |
 | Handysize | 37K | 27.3 | 26.6 | 2.3% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Post Panamax sector we had the sale of the "DOUBLE FORTUNE" (95,790dwt-blt '10, Japan), which was sold to Chinese buyer, for a price in the region of \$21.0m.
 
@@ -215,19 +215,19 @@ In the Supramax sector we had the sale of the "SITC TAISHAN" (58,107dwt-blt '10,
 
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | DONG-A ASTREA | 179,329 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Apr-25 |  |  |  |  |
-| CAPE | DONG-A OKNOS | 179,329 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Feb-25 |  | rgn $ 81.0m | Greek (Minerva) |  |
-| CAPE | DONG-A EOS | 179,329 | 2009 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Sep-24 |  |  |  |  |
-| POST PMAX | DOUBLE FORTUNE | 95,790 | 2010 | IMABARI, Japan | MAN-B&amp;W | Sep-25 |  | rgn $ 21.0m | Chinese |  |
-| POST PMAX | CORONA INFINITY | 88,233 | 2002 | IMABARI, Japan | B&amp;W | Oct-22 |  | high $ 12.0m | Chinese |  |
-| PMAX | CORAL OPAL | 78,090 | 2012 | SHIN KURUSHIMA, Japan | MAN-B&amp;W | Mar-22 |  | undisclosed | undisclosed |  |
-| SUPRA | JIN YUN | 56,810 | 2012 | JINLING, China | MAN-B&amp;W | May-22 | 4 X 30t CRANES | $ 17.36m | Chinese | online commercial-auction |
-| SUPRA | ORCHID | 55,598 | 2012 | MITSUI TAMANO, Japan | MAN-B&amp;W | Mar-25 | 4 X 30,5t CRANES | $ 22.6m | undisclosed |  |
-| SUPRA | SITC TAISHAN | 58,107 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B&amp;W | Apr-25 | 4 X 30t CRANES | $ 18.25m | Greek |  |
-| HANDY | INTERLINK AUDACITY | 39,100 | 2016 | ZHEJIANG ZENGHOU, China | MAN-B&amp;W | Jul-26 | 4 X 30,5t CRANES |  |  |  |
-| HANDY | INTERLINK AFFINITY | 39,046 | 2016 | ZHEJIANG ZENGHOU, China | MAN-B&amp;W | May-26 | 4 X 30,5t CRANES | rgn $ 25.0m each | U.A.E. based (Tomini) | BWTS fitted, Eco |
-| HANDY | INTERLINK TENACITY | 38,785 | 2016 | TAIZHOU KOUAN, China | MAN-B&amp;W | Jan-26 | 4 X 30t CRANES |  |  |  |
-| HANDY | INTERLINK UTILITY | 38,706 | 2016 | HUATAI NANTONG, China | MAN-B&amp;W | Nov-26 | 4 X 30t CRANES |  |  |  |
+| CAPE | DONG-A ASTREA | 179,329 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Apr-25 |  |  |  |  |
+| CAPE | DONG-A OKNOS | 179,329 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Feb-25 |  | rgn $ 81.0m | Greek (Minerva) |  |
+| CAPE | DONG-A EOS | 179,329 | 2009 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Sep-24 |  |  |  |  |
+| POST PMAX | DOUBLE FORTUNE | 95,790 | 2010 | IMABARI, Japan | MAN-B&W | Sep-25 |  | rgn $ 21.0m | Chinese |  |
+| POST PMAX | CORONA INFINITY | 88,233 | 2002 | IMABARI, Japan | B&W | Oct-22 |  | high $ 12.0m | Chinese |  |
+| PMAX | CORAL OPAL | 78,090 | 2012 | SHIN KURUSHIMA, Japan | MAN-B&W | Mar-22 |  | undisclosed | undisclosed |  |
+| SUPRA | JIN YUN | 56,810 | 2012 | JINLING, China | MAN-B&W | May-22 | 4 X 30t CRANES | $ 17.36m | Chinese | online commercial-auction |
+| SUPRA | ORCHID | 55,598 | 2012 | MITSUI TAMANO, Japan | MAN-B&W | Mar-25 | 4 X 30,5t CRANES | $ 22.6m | undisclosed |  |
+| SUPRA | SITC TAISHAN | 58,107 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Apr-25 | 4 X 30t CRANES | $ 18.25m | Greek |  |
+| HANDY | INTERLINK AUDACITY | 39,100 | 2016 | ZHEJIANG ZENGHOU, China | MAN-B&W | Jul-26 | 4 X 30,5t CRANES |  |  |  |
+| HANDY | INTERLINK AFFINITY | 39,046 | 2016 | ZHEJIANG ZENGHOU, China | MAN-B&W | May-26 | 4 X 30,5t CRANES | rgn $ 25.0m each | U.A.E. based (Tomini) | BWTS fitted, Eco |
+| HANDY | INTERLINK TENACITY | 38,785 | 2016 | TAIZHOU KOUAN, China | MAN-B&W | Jan-26 | 4 X 30t CRANES |  |  |  |
+| HANDY | INTERLINK UTILITY | 38,706 | 2016 | HUATAI NANTONG, China | MAN-B&W | Nov-26 | 4 X 30t CRANES |  |  |  |
 
 © Intermodal Research 01/03/2022 4
 
@@ -238,18 +238,18 @@ In the Supramax sector we had the sale of the "SITC TAISHAN" (58,107dwt-blt '10,
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | T. PROGRESS | 305,795 | 2002 | DAEWOO, S. Korea | MAN-B\&amp;W | Nov-22 | DH | $ 28.8m | undisclosed | 43,254 Idt |
-| SUEZ | ERVIKEN | 152,146 | 2004 | SAMSUNG, S. Korea | MAN-B\&amp;W | Aug-22 | DH | low $ 15.0m | Greek |  |
-| AFRA | AXEL SPIRIT | 115,392 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Apr-24 | DH | $ 13.2m | undisclosed |  |
-| MR1 | DUKE I | 40,050 | 2002 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W |  | DH | $ 7.1m | undisclosed |  |
+| VLCC | T. PROGRESS | 305,795 | 2002 | DAEWOO, S. Korea | MAN-B&W | Nov-22 | DH | $ 28.8m | undisclosed | 43,254 Idt |
+| SUEZ | ERVIKEN | 152,146 | 2004 | SAMSUNG, S. Korea | MAN-B&W | Aug-22 | DH | low $ 15.0m | Greek |  |
+| AFRA | AXEL SPIRIT | 115,392 | 2004 | SAMSUNG, S. Korea | B&W | Apr-24 | DH | $ 13.2m | undisclosed |  |
+| MR1 | DUKE I | 40,050 | 2002 | HYUNDAI MIPO, S. Korea | MAN-B&W |  | DH | $ 7.1m | undisclosed |  |
 | SMALL | SAPPER | 14,002 | 1997 | MORINI, Italy | Stork-Wartsila | May-22 | DH | high $ 5.0m | undisclosed | St-St |
-| SMALL | NEELAMBARI | 13,103 | 2010 | SEKWANG, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 7.3m | undisclosed |  |
+| SMALL | NEELAMBARI | 13,103 | 2010 | SEKWANG, S. Korea | MAN-B&W | Feb-25 | DH | $ 7.3m | undisclosed |  |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | SABRE TRADER | 1,774 | 2018 | JIANGSU NEWYANGZI, China | Wartsila | Sep-23 |  | $ 44.0m | undisclosed |  |
-| FEEDER | HANSA MAGDEBURG | 1,740 | 2003 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Aug-23 | 2 X 40t CRANES | $ 30.0m | UK based (Mount Street) | incl. TC |
+| FEEDER | HANSA MAGDEBURG | 1,740 | 2003 | GUANGZHOU WENCHONG, China | MAN-B&W | Aug-23 | 2 X 40t CRANES | $ 30.0m | UK based (Mount Street) | incl. TC |
 | FEEDER | AVRA MITERAS | 1,122 | 1996 | VOLKSWERFT STRALSUND, Germany | Sulzer | Mar-22 | 2 X 40t CRANES | undisclosed | Swiss (MSC) |  |
 | FEEDER | VEGA KAPPA | 1,118 | 2007 | QINGSHAN, China | MAN | Dec-22 | 2 X 45t CRANES | $ 23.0m | Turkish |  |
 

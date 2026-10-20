@@ -189,16 +189,16 @@ Secondhand Sales
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SMALL | DH HONESTY | 13,148 | 2021 | NANTONG,China | WinGD | Mar-26 | DH | $ 25.6m | undisclosed | StSt, via Chinese bidding platform |
-| SMALL | DAI THANH | 13,068 | 2007 | 21ST CENTURY, S. Korea | MAN-B\&amp;W | Apr-27 | DH | $ 9.5m | undisclosed |  |
-| SMALL | CUMBRIAN FISHER | 12,921 | 2004 | SAMHO, S. Korea | B\&amp;W | Dec-24 | DH | $ 7,15m | undisclosed |  |
+| SMALL | DAI THANH | 13,068 | 2007 | 21ST CENTURY, S. Korea | MAN-B&W | Apr-27 | DH | $ 9.5m | undisclosed |  |
+| SMALL | CUMBRIAN FISHER | 12,921 | 2004 | SAMHO, S. Korea | B&W | Dec-24 | DH | $ 7,15m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | PANORAMIX | 203,512 | 2007 | CSBC, Taiwan | MAN-B\&amp;W | Jan-27 |  | $ 28.0m | Chinese | old sale/delivered |
-| KMAX | RU MENG LING | 81,487 | 2010 | UNIVERSAL, Japan | MAN-B\&amp;W | Apr-25 |  | mid $ 15.0m | Greek |  |
-| KMAX | BETTYS DREAM | 82,641 | 2008 | TSUNEISHI, Japan | MAN-B\&amp;W | Dec-25 |  | $ 12.8m | Chinese |  |
-| SUPRA | QING DAO GANG DA GANG | 56,444 | 2012 | QINGSHAN, China | MAN-B\&amp;W | Jun-27 | 4 X 30t CRANES | about $ 12,.2m | via Chinese bidding platform (RMB 94,34mil) | via Chinese bidding platform (RMB 94,34mil) |
+| NEWCASTLEMAX | PANORAMIX | 203,512 | 2007 | CSBC, Taiwan | MAN-B&W | Jan-27 |  | $ 28.0m | Chinese | old sale/delivered |
+| KMAX | RU MENG LING | 81,487 | 2010 | UNIVERSAL, Japan | MAN-B&W | Apr-25 |  | mid $ 15.0m | Greek |  |
+| KMAX | BETTYS DREAM | 82,641 | 2008 | TSUNEISHI, Japan | MAN-B&W | Dec-25 |  | $ 12.8m | Chinese |  |
+| SUPRA | QING DAO GANG DA GANG | 56,444 | 2012 | QINGSHAN, China | MAN-B&W | Jun-27 | 4 X 30t CRANES | about $ 12,.2m | via Chinese bidding platform (RMB 94,34mil) | via Chinese bidding platform (RMB 94,34mil) |
 
 ---
 

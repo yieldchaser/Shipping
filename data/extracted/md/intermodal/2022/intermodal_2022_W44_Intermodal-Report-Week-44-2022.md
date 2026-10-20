@@ -26,7 +26,7 @@ To sum up, as reported by the IEA, EU could face a gap of as much as 30 billion 
 
 The supply/demand mismatch have for another week negatively affected the dry bulk market with all sectors noting declines in their average earnings. The BDI today (08/11/2022) closed at 1,356 points, down by 21 points compared to previous Tuesday's closing (01/11/2022). Last week, VLCC's performance set the positive tone, followed by healthy Aframax activity and a slowdown on Suezmax positive momentum which however little affected the sector's overall earnings. The BDTI today (08/11/2022) closed at 1,857, an increase of 46 points and the BCTI at 1,244, an increase of 49 points compared to previous Tuesday's (01/11/2022) levels.
 
-## **Sale &amp; Purchase (Wet: **Softer** / Dry: **Firmer**)**
+## **Sale & Purchase (Wet: **Softer** / Dry: **Firmer**)**
 
 The bulker SnP activity picked up considerably during the past week, while only a handful of tanker units changed hands. In the tanker sector, we had the sale of the "LIBERTY" (74,862dwt-blt '09, S. Korea), which was sold to Middle Eastern buyers, for a price in the region of \$24.5m. On the dry bulker side sector, we had the sale of the "AQUAFORTUNE" (174,725dwt-blt '11, Japan), which was sold to Greek buyers, for a price in the region of \$27.0m.
 
@@ -120,7 +120,7 @@ VLCC T/C earnings averaged \$ 44,635/day, up +\$2,333/day w-o-w and closed off t
 
 Suezmax T/C earnings averaged \$ 78,619/day, up + \$3,364/day w-o-w. On the Aframax front, T/C earnings averaged \$ 66,534, up + \$1,538/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the LR1 sector we had the sale of the "LIBERTY" (74,862dwt-blt '09, S. Korea), which was sold to Middle Eastern buyers, for a price in the region of \$24.5m.
 
@@ -189,9 +189,9 @@ Supramax 10TC averaged \$ 14,768/day, down - 16.25% w-o-w, while the Handysize 7
 | **Ultramax** | **63k** | 29.0 | 29.5 | -1.7% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 25.0 | 25.6 | -2.3% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the Capesize sector we had the sale of the "AQUAFORTUNE" (174,725dwt-blt '11, Japan), which was sold to Greek buyers, for a price in the region of \$27.0m.
 
@@ -208,18 +208,18 @@ In the Handysize sector we had the sale of the "BELLE OCEAN" (28,354dwt-blt '14,
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | EDWARD N | 176,216 | 2011 | SHANGHAI WAIGAOQIAO, China | MAN-B\&amp;W | Jan-26 |  | xs $ 26.0m | Taiwanese (Eddie Steamship) | BWTS fitted |
-| CAPE | AQUAFORTUNE | 174,725 | 2011 | NAMURA, Japan | MAN-B\&amp;W | Apr-26 |  | $ 27.0m | Greek |  |
-| POST PMAX | CMB VAN MIEGHEM | 95,737 | 2011 | IMABARI, Japan | MAN-B\&amp;W | Aug-26 |  | $ 21.0m | Swiss based | BWTS fitted |
-| KMAX | OCEAN ROSEMARY | 82,265 | 2013 | DALIAN, China | MAN-B\&amp;W | Apr-23 |  | $ 21.0m | Greek | BWTS fitted |
-| KMAX | KEY LIGHT | 83,027 | 2012 | SANOYAS, Japan | MAN-B\&amp;W | Aug-25 |  | $ 23.0m | Japanese | BWTS fitted, internal Japanese deal |
-| PMAX | CERAFINA | 74,759 | 2005 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Sep-25 |  | $ 12.0m | Greek | BWTS fitted |
-| UMAX | CARO PADRE | 63,227 | 2012 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Dec-22 | 4x36.0, 4x35.0 | low $ 21.0m | Chinese | eco |
-| SUPRA | BULK CARINA | 57,819 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Dec-26 | 4 X 30t CRANES | $ 22.0m | Greek | BWTS fitted, eco, bss prompt dely Taiwan |
-| SUPRA | WORLDERA-6 | 52,292 | 2005 | TSUNEISHI CEBU, Philippines | B\&amp;W | Dec-25 | 4 X 30t CRANES | $ 12.3m | Chinese | BWTS fitted |
-| HANDY | BELLE OCEAN | 28,354 | 2014 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Mar-24 | 4 X 30,5t CRANES | $ 13.9m | Greek |  |
-| HANDY | BELLE ETOILE | 28,230 | 2014 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Oct-24 | 4 X 30,5t CRANES | $ 14.0m | undisclosed |  |
-| HANDY | TRUDY | 30,790 | 2009 | Jiangsu, China | MAN-B\&amp;W | Nov-24 | 3 X 30t CRANES | $ 12.5m | undisclosed | BWTS fitted, Ice 1C, Laker type, 6 Ho/Ha |
+| CAPE | EDWARD N | 176,216 | 2011 | SHANGHAI WAIGAOQIAO, China | MAN-B&W | Jan-26 |  | xs $ 26.0m | Taiwanese (Eddie Steamship) | BWTS fitted |
+| CAPE | AQUAFORTUNE | 174,725 | 2011 | NAMURA, Japan | MAN-B&W | Apr-26 |  | $ 27.0m | Greek |  |
+| POST PMAX | CMB VAN MIEGHEM | 95,737 | 2011 | IMABARI, Japan | MAN-B&W | Aug-26 |  | $ 21.0m | Swiss based | BWTS fitted |
+| KMAX | OCEAN ROSEMARY | 82,265 | 2013 | DALIAN, China | MAN-B&W | Apr-23 |  | $ 21.0m | Greek | BWTS fitted |
+| KMAX | KEY LIGHT | 83,027 | 2012 | SANOYAS, Japan | MAN-B&W | Aug-25 |  | $ 23.0m | Japanese | BWTS fitted, internal Japanese deal |
+| PMAX | CERAFINA | 74,759 | 2005 | HUDONG-ZHONGHUA, China | MAN-B&W | Sep-25 |  | $ 12.0m | Greek | BWTS fitted |
+| UMAX | CARO PADRE | 63,227 | 2012 | YANGZHOU DAYANG, China | MAN-B&W | Dec-22 | 4x36.0, 4x35.0 | low $ 21.0m | Chinese | eco |
+| SUPRA | BULK CARINA | 57,819 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&W | Dec-26 | 4 X 30t CRANES | $ 22.0m | Greek | BWTS fitted, eco, bss prompt dely Taiwan |
+| SUPRA | WORLDERA-6 | 52,292 | 2005 | TSUNEISHI CEBU, Philippines | B&W | Dec-25 | 4 X 30t CRANES | $ 12.3m | Chinese | BWTS fitted |
+| HANDY | BELLE OCEAN | 28,354 | 2014 | I-S SHIPYARD, Japan | MAN-B&W | Mar-24 | 4 X 30,5t CRANES | $ 13.9m | Greek |  |
+| HANDY | BELLE ETOILE | 28,230 | 2014 | I-S SHIPYARD, Japan | MAN-B&W | Oct-24 | 4 X 30,5t CRANES | $ 14.0m | undisclosed |  |
+| HANDY | TRUDY | 30,790 | 2009 | Jiangsu, China | MAN-B&W | Nov-24 | 3 X 30t CRANES | $ 12.5m | undisclosed | BWTS fitted, Ice 1C, Laker type, 6 Ho/Ha |
 | HANDY | MOUNT BAKER | 32,039 | 2003 | HAKODATE, Japan | Mitsubishi | Oct-23 | 4 X 30t CRANES | undisclosed | undisclosed | BWTS fitted |
 
 ## Secondhand Sales
@@ -238,11 +238,11 @@ In the Handysize sector we had the sale of the "BELLE OCEAN" (28,354dwt-blt '14,
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR1 | LIBERTY | 74,862 | 2009 | STX, S. Korea | MAN-B&amp;W | Jul-24 | DH | $ 24.5m | Middle Eastern | BWTS fitted |
-| LR1 | ORTOLAN COCO | 74,992 | 2008 | BRODOSPLIT, Croatia | MAN-B&amp;W | Apr-23 | DH | $ 20.5m | undisclosed | Ice 1A, bss dely within Dec 2022 |
-| LR1 | NORDIC TRISTAN | 73,604 | 2007 | NEW TIMES, China | MAN-B&amp;W | Apr-27 | DH | rgn $ 21.0m | undisclosed | BWTS fitted, coated |
-| MR2 | ERAWAN 10 | 44,998 | 2003 | IWAGI ZOSEN, Japan | MAN-B&amp;W | Jul-23 | DH | $ 12.0m | Far Eastern | coated, pumproom |
-| SMALL | CHEM LUCK | 11,564 | 1997 | FUKUOKA, Japan | B&amp;W | Dec-22 | DH | $ 3.3m | Chinese | StSt, via online auction |
+| LR1 | LIBERTY | 74,862 | 2009 | STX, S. Korea | MAN-B&W | Jul-24 | DH | $ 24.5m | Middle Eastern | BWTS fitted |
+| LR1 | ORTOLAN COCO | 74,992 | 2008 | BRODOSPLIT, Croatia | MAN-B&W | Apr-23 | DH | $ 20.5m | undisclosed | Ice 1A, bss dely within Dec 2022 |
+| LR1 | NORDIC TRISTAN | 73,604 | 2007 | NEW TIMES, China | MAN-B&W | Apr-27 | DH | rgn $ 21.0m | undisclosed | BWTS fitted, coated |
+| MR2 | ERAWAN 10 | 44,998 | 2003 | IWAGI ZOSEN, Japan | MAN-B&W | Jul-23 | DH | $ 12.0m | Far Eastern | coated, pumproom |
+| SMALL | CHEM LUCK | 11,564 | 1997 | FUKUOKA, Japan | B&W | Dec-22 | DH | $ 3.3m | Chinese | StSt, via online auction |
 ## Secondhand Sales
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |

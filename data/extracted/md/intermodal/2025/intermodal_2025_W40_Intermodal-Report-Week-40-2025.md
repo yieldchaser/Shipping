@@ -156,19 +156,19 @@ The Handysize sector remained the most stable performer. The Atlantic benefited 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | DALMA | 306,543 | 2007 | DAEWOO, S. Korea | Sulzer | Feb-27 | DH | $ 48.0m | Chinese |  |
-| SUEZ | BRIGHTWAY | 160,095 | 2012 | HHIC, Philippines | MAN B\&amp;W | Apr-27 | DH | $ 44.0m | Indian | Scrubber fitted |
+| SUEZ | BRIGHTWAY | 160,095 | 2012 | HHIC, Philippines | MAN B&W | Apr-27 | DH | $ 44.0m | Indian | Scrubber fitted |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | MINERAL SHOUGANG INTERNATIONAL | 206,392 | 2019 | QINGDAO, China | MAN B\&amp;W | Oct-29 |  | $ 65.5m | Chinese | Eco, Scrubber fitted |
-| KMAX | SDTR DORIS | 84,998 | 2021 | SHANGHAIGUAN, China | MAN B\&amp;W | Sep-26 |  | $ 55.0m | undisclosed | Eco, Wide Beam |
-| KMAX | SDTR CELESTE | 84,994 | 2021 | SHANGHAIGUAN, China | MAN B\&amp;W | Aug-26 |  | $ 55.0m | undisclosed | Eco, Wide Beam |
-| KMAX | MONTANA I | 81,967 | 2011 | DAEWOO, S. Korea | MAN B\&amp;W | Dec-25 |  | $ 15.4m | undisclosed |  |
-| KMAX | NORD CRUX | 81,791 | 2016 | TSUNEISHI CEBU, Philippines | MAN B\&amp;W | Sep-26 |  | region high $ 26m | undisclosed | Eco |
-| PMAX | ATHERAS | 74,475 | 2006 | HUDONG-ZHONGHUA, China | MAN B\&amp;W | Sep-26 |  | region $ 8.5m | undisclosed |  |
-| SUPRA | HAUT BRION | 57,075 | 2011 | TAIZHOU SANFU, China | MAN B\&amp;W | Dec-26 | 4 X 30t CRANES | $ 12.3m | Chinese |  |
-| HANDY | CSE CLIPPER EXPRESS | 28,423 | 2005 | IMABARI, Japan | MAN B\&amp;W | Nov-25 | 4 X 30t CRANES | $ 5.5m | undisclosed |  |
+| NEWCASTLEMAX | MINERAL SHOUGANG INTERNATIONAL | 206,392 | 2019 | QINGDAO, China | MAN B&W | Oct-29 |  | $ 65.5m | Chinese | Eco, Scrubber fitted |
+| KMAX | SDTR DORIS | 84,998 | 2021 | SHANGHAIGUAN, China | MAN B&W | Sep-26 |  | $ 55.0m | undisclosed | Eco, Wide Beam |
+| KMAX | SDTR CELESTE | 84,994 | 2021 | SHANGHAIGUAN, China | MAN B&W | Aug-26 |  | $ 55.0m | undisclosed | Eco, Wide Beam |
+| KMAX | MONTANA I | 81,967 | 2011 | DAEWOO, S. Korea | MAN B&W | Dec-25 |  | $ 15.4m | undisclosed |  |
+| KMAX | NORD CRUX | 81,791 | 2016 | TSUNEISHI CEBU, Philippines | MAN B&W | Sep-26 |  | region high $ 26m | undisclosed | Eco |
+| PMAX | ATHERAS | 74,475 | 2006 | HUDONG-ZHONGHUA, China | MAN B&W | Sep-26 |  | region $ 8.5m | undisclosed |  |
+| SUPRA | HAUT BRION | 57,075 | 2011 | TAIZHOU SANFU, China | MAN B&W | Dec-26 | 4 X 30t CRANES | $ 12.3m | Chinese |  |
+| HANDY | CSE CLIPPER EXPRESS | 28,423 | 2005 | IMABARI, Japan | MAN B&W | Nov-25 | 4 X 30t CRANES | $ 5.5m | undisclosed |  |
 
 ---
 

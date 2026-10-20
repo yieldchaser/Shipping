@@ -32,7 +32,7 @@ Under the current circumstances, there are several challenges lying ahead that c
 
 The dry bulk market lost further strength last week, with the Capesize sector facing most of the pressure followed by weak demand for geared tonnage. The BDI today (09/08/2022) closed at 1,564 points, down by 253 points compared to previous Tuesday's closing (02/08/2022). An overall soft activity for both the VLCC and Suezmax owners and a mixed sentiment in the Aframax sector materialized last week. The BDTI today (09/08/2022) closed at 1,455, a decrease of 19 points and the BCTI at 1,423, an increase of 58 point compared to previous Tuesday's (02/08/2022) levels.
 
-## Sale &amp; Purchase (Wet: **Softer** / Dry: **Softer**)
+## Sale & Purchase (Wet: **Softer** / Dry: **Softer**)
 
 The tanker SnP market saw softer activity compared to the week prior. On the dry bulk SnP front, activity was considerably weaker, with the long list due mainly to the LD enbloc fleet sale; indeed, with the exception of the respective deal, only two dry bulk deals took place concerning Turkish buyers. In the tanker sector, we had the sale of the "MARAN ANDROME-DA" (320,472dwt-blt '05, S. Korea), which was sold to Singapore based buyers, for a price in the region of \$37.0m. On the dry bulker side sector, we had the sale of the "NATHAN BRANDON" (56,489dwt-blt '13, China), which was sold to Turkish buyers, for a price in the region of mid-high \$18.0m.
 
@@ -127,7 +127,7 @@ VLCC T/C earnings averaged \$ -2,449/day, up + \$910/day w-o-w. Limited fresh ca
 
 Suezmax T/C earnings averaged \$ 55,660/day, down - \$5,899/day w-o-w. With the exception of the USG region where owners managed to exert resistance, rates for the rest of the regions moved downward w-o-w. Aframax T/C earnings averaged \$ 49,923/day, up + 2,013/day w-o-w. North Europe noted a tighter tonnage list which coupled with a steady injection of cargoes led to w-o-w improvements. Caribs was also firm with TD9 increasing by 33.12WS points. The med was the negative exception, with TD19 losing 61WS points w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "MARAN ANDROMEDA" (320,472dwt-blt '05, S. Korea), which was sold to Singapore based buyers, for a price in the region of \$37.0m.
 
@@ -195,7 +195,7 @@ Supramax 10TC averaged \$ 19,901/day, down - 10.97% w-o-w, while the Handysize 7
 | **Ultramax** | **63k** | 33.0 | 33.5 | -1.5% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 28.5 | 28.9 | -1.4% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Supramax sector we had the sale of the "NATHAN BRANDON" (56,489dwt-blt '13, China), which was sold to Turkish buyers, for a price in the region of mid-high \$18.0m.
 
@@ -210,14 +210,14 @@ In the Handysize sector we had the sale of the "QUANTRA" (18,367dwt-blt '00, S. 
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | MARAN ANDROMEDA | 320,472 | 2005 | DAEWOO, S. Korea | MAN-B&amp;W | Jan-25 | DH | $ 37.0m | Singapore based | BWTS, Scrubber fitted, basis c/free delivery within August 2022 |
-| AFRA | BARONESS | 105,335 | 2011 | SUMITOMO, Japan | MAN-B&amp;W | Jan-26 | DH | mid $ 30.0m | undisclosed | BWTS fitted |
-| AFRA | STRIDE | 105,369 | 2009 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | May-24 | DH | rgn $ 32.5m | Greek | BWTS fitted, basis ppt delivery Med - Cont |
-| MR2 | RIDGEBURY ROSEMARY E | 50,261 | 2009 | SPP, S. Korea | MAN-B&amp;W | May-24 | DH | $ 22.0m | Middle Eastern | basis delivery September 2022 |
-| MR2 | RIDGEBURY ALEXANDRA Z | 50,250 | 2009 | SPP, S. Korea | MAN-B&amp;W | Jan-24 | DH | $ 22.0m | Middle Eastern | basis delivery September 2022 |
-| MR2 | RIDGEBURY CINDY A | 50,162 | 2009 | SPP, S. Korea | MAN-B&amp;W | Jan-24 | DH | $ 22.0m | Middle Eastern | basis delivery September 2022 |
-| MR1 | ESTHER | 36,990 | 2005 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jul-25 | DH | $ 11.5m | Greek | basis delivery within December 2022 |
-| MR1 | STEFANIE | 37,248 | 2003 | HYUNDAI MIPO, S. Korea | B&amp;W | Jul-23 | DH | $ 10.8m | undisclosed | old sale |
+| VLCC | MARAN ANDROMEDA | 320,472 | 2005 | DAEWOO, S. Korea | MAN-B&W | Jan-25 | DH | $ 37.0m | Singapore based | BWTS, Scrubber fitted, basis c/free delivery within August 2022 |
+| AFRA | BARONESS | 105,335 | 2011 | SUMITOMO, Japan | MAN-B&W | Jan-26 | DH | mid $ 30.0m | undisclosed | BWTS fitted |
+| AFRA | STRIDE | 105,369 | 2009 | HYUNDAI ULSAN, S. Korea | MAN-B&W | May-24 | DH | rgn $ 32.5m | Greek | BWTS fitted, basis ppt delivery Med - Cont |
+| MR2 | RIDGEBURY ROSEMARY E | 50,261 | 2009 | SPP, S. Korea | MAN-B&W | May-24 | DH | $ 22.0m | Middle Eastern | basis delivery September 2022 |
+| MR2 | RIDGEBURY ALEXANDRA Z | 50,250 | 2009 | SPP, S. Korea | MAN-B&W | Jan-24 | DH | $ 22.0m | Middle Eastern | basis delivery September 2022 |
+| MR2 | RIDGEBURY CINDY A | 50,162 | 2009 | SPP, S. Korea | MAN-B&W | Jan-24 | DH | $ 22.0m | Middle Eastern | basis delivery September 2022 |
+| MR1 | ESTHER | 36,990 | 2005 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jul-25 | DH | $ 11.5m | Greek | basis delivery within December 2022 |
+| MR1 | STEFANIE | 37,248 | 2003 | HYUNDAI MIPO, S. Korea | B&W | Jul-23 | DH | $ 10.8m | undisclosed | old sale |
 
 © Intermodal Research 09/08/2022 4
 
@@ -228,26 +228,26 @@ In the Handysize sector we had the sale of the "QUANTRA" (18,367dwt-blt '00, S. 
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUPRA | NATHAN BRANDON | 56,489 | 2013 | HUATAI NANTONG, China | MAN-B\&amp;W | Aug-23 | 4 X 36t CRANES | mid/high $ 18.0m | Turkish | BWTS fitted, old sale |
-| SUPRA | LA CHARMAIS | 58,110 | 2012 | TSUNEISHI, Japan | MAN-B\&amp;W | Jan-27 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HMAX | LA PARTENAIS | 40,652 | 2015 | YANGFAN, China | MAN-B\&amp;W | Jun-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HMAX | LA CHESNAIS | 40,600 | 2015 | YANGFAN, China | MAN-B\&amp;W | Apr-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HMAX | LA BRIANTAIS | 40,481 | 2013 | TIANJIN XINGANG, China | MAN-B\&amp;W | Dec-23 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HMAX | LA GUIMORAIS | 40,481 | 2014 | TIANJIN XINGANG, China | MAN-B\&amp;W | Apr-24 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HMAX | LA LANDRIAIS | 40,481 | 2014 | TIANJIN XINGANG, China | MAN-B\&amp;W | Aug-24 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HMAX | LA RICHARDAIS | 40,481 | 2014 | TIANJIN XINGANG, China | MAN-B\&amp;W | Sep-24 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HMAX | LA SOLOGNAIS | 40,481 | 2015 | TIANJIN XINGANG, China | MAN-B\&amp;W | Mar-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HMAX | LA CHAMBORDAIS | 40,481 | 2015 | TIANJIN XINGANG, China | MAN-B\&amp;W | Jun-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HMAX | LA SAUTERNAIS | 40,481 | 2015 | TIANJIN XINGANG, China | MAN-B\&amp;W | Aug-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HMAX | LA SILLONAIS | 40,481 | 2015 | TIANJIN XINGANG, China | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HANDY | LA LOIRAIS | 39,919 | 2018 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Mar-23 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HANDY | LA FRESNAIS | 39,875 | 2018 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Jan-23 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
-| HANDY | QUANTRA | 18,367 | 2000 | INP, S. Korea | B\&amp;W | Jul-25 | 3 X 30 CRANES | $ 6.25m | Turkish |  |
+| SUPRA | NATHAN BRANDON | 56,489 | 2013 | HUATAI NANTONG, China | MAN-B&W | Aug-23 | 4 X 36t CRANES | mid/high $ 18.0m | Turkish | BWTS fitted, old sale |
+| SUPRA | LA CHARMAIS | 58,110 | 2012 | TSUNEISHI, Japan | MAN-B&W | Jan-27 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HMAX | LA PARTENAIS | 40,652 | 2015 | YANGFAN, China | MAN-B&W | Jun-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HMAX | LA CHESNAIS | 40,600 | 2015 | YANGFAN, China | MAN-B&W | Apr-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HMAX | LA BRIANTAIS | 40,481 | 2013 | TIANJIN XINGANG, China | MAN-B&W | Dec-23 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HMAX | LA GUIMORAIS | 40,481 | 2014 | TIANJIN XINGANG, China | MAN-B&W | Apr-24 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HMAX | LA LANDRIAIS | 40,481 | 2014 | TIANJIN XINGANG, China | MAN-B&W | Aug-24 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HMAX | LA RICHARDAIS | 40,481 | 2014 | TIANJIN XINGANG, China | MAN-B&W | Sep-24 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HMAX | LA SOLOGNAIS | 40,481 | 2015 | TIANJIN XINGANG, China | MAN-B&W | Mar-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HMAX | LA CHAMBORDAIS | 40,481 | 2015 | TIANJIN XINGANG, China | MAN-B&W | Jun-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HMAX | LA SAUTERNAIS | 40,481 | 2015 | TIANJIN XINGANG, China | MAN-B&W | Aug-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HMAX | LA SILLONAIS | 40,481 | 2015 | TIANJIN XINGANG, China | MAN-B&W | Oct-25 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HANDY | LA LOIRAIS | 39,919 | 2018 | JIANGMEN NANYANG, China | MAN-B&W | Mar-23 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HANDY | LA FRESNAIS | 39,875 | 2018 | JIANGMEN NANYANG, China | MAN-B&W | Jan-23 | 4 X 30t CRANES | $ 304.0m (en bloc) | J/V between JP Morgan and MUR Shipping | whole LD fleet sold to JP Morgan-MUR Shipping J/V |
+| HANDY | QUANTRA | 18,367 | 2000 | INP, S. Korea | B&W | Jul-25 | 3 X 30 CRANES | $ 6.25m | Turkish |  |
 ## Secondhand Sales
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | NORTHERN DECISION | 3,534 | 2008 | SHANGHAI SHIPYARD, China | MAN-B&amp;W | Aug-23 |  | $ 44.0m | Swiss (MSC) |
+| PMAX | NORTHERN DECISION | 3,534 | 2008 | SHANGHAI SHIPYARD, China | MAN-B&W | Aug-23 |  | $ 44.0m | Swiss (MSC) |
 
 © Intermodal Research 09/08/2022 5
 
@@ -323,13 +323,13 @@ The Ship recycling market continues to be under significant pressure due to the 
 
 ---
 
-# Intermodal Commodities &amp; Ship Finance
+# Intermodal Commodities & Ship Finance
 
 |  | Market Data 5-Aug-22 | Market Data 4-Aug-22 | Market Data 3-Aug-22 | Market Data 2-Aug-22 | Market Data 1-Aug-22 | W-O-W Change % |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Stock Exchange Data** |  |  |  |  |  |  |
 | 10year US Bond | 2.840 | 2.676 | 2.748 | 2.741 | 2.606 | 7.5% |
-| S\&amp;P 500 | 4,145.19 | 4,151.94 | 4,155.17 | 4,091.19 | 4,130.29 | 0.4% |
+| S&P 500 | 4,145.19 | 4,151.94 | 4,155.17 | 4,091.19 | 4,130.29 | 0.4% |
 | Nasdaq | 12,657.56 | 12,720.58 | 12,668.16 | 12,348.76 | 12,368.98 | 2.2% |
 | Dow Jones | 32,803.47 | 32,726.82 | 32,812.50 | 32,396.17 | 32,798.40 | -0.1% |
 | FTSE 100 | 7,439.74 | 7,448.06 | 7,445.68 | 7,409.11 | 7,413.42 | 0.2% |

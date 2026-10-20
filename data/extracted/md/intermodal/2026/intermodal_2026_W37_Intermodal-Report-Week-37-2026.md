@@ -140,24 +140,24 @@ The Handysize market followed a similar pattern to the ultra/ supras, with the A
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | RAIN CUBIC | 319,429 | 2008 | DAEWOO, S.Korea | MAN B\&amp;W | Jun-28 | DH | $ 95.0m | UAE based |
-| VLCC | XI XIU | 309,233 | 2003 | SAMSUNG, S.Korea | MAN B\&amp;W | Jan-28 | DH | $ 60.0m | UAE based |
+| VLCC | RAIN CUBIC | 319,429 | 2008 | DAEWOO, S.Korea | MAN B&W | Jun-28 | DH | $ 95.0m | UAE based |
+| VLCC | XI XIU | 309,233 | 2003 | SAMSUNG, S.Korea | MAN B&W | Jan-28 | DH | $ 60.0m | UAE based |
 | VLCC | DENNIE | 308,491 | 2000 | HYUNDAI, S. Korea | SULZER | Dec-28 | DH | $ 40.0m | UAE based |
-| SUEZ | SEAWAYS SABINE | 158,493 | 2012 | SAMSUNG, S.Korea | MAN B\&amp;W | Sep-27 | DH | $ 75.0m | European |
-| AFRA | PS AMALFI | 108,958 | 2010 | HUDONG,China | MAN B\&amp;W | Jun-30 | DH | $ 45.0m | Chinese |
+| SUEZ | SEAWAYS SABINE | 158,493 | 2012 | SAMSUNG, S.Korea | MAN B&W | Sep-27 | DH | $ 75.0m | European |
+| AFRA | PS AMALFI | 108,958 | 2010 | HUDONG,China | MAN B&W | Jun-30 | DH | $ 45.0m | Chinese |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | OSAKA STAR | 84,947 | 2016 | SASEBO, Japan | MAN B\&amp;W | Mar-31 |  | $ 34.0m | undisclosed | Eco |
-| KMAX | BW JAPAN | 81,609 | 2019 | TSUNEISHI CEBU, Philippines | MAN B\&amp;W | May-29 |  | region $ 38.0m | Indian | Eco, Scrubber fitted |
-| PMAX | SEA ORION | 76,602 | 2005 | IMABARI, Japan | MAN B\&amp;W | Jan-30 |  | $ 11.5m | undisclosed |  |
-| ULTRA | OCEAN TIANBAO | 63,455 | 2016 | CHINA SHIPPING JIANGSU, Japan | MAN B\&amp;W | Nov-26 | 4 x 30t CRANES | $ 26.5m | Turkish | Eco |
-| SUPRA | SKY KNIGHT | 58,078 | 2012 | SHIN KURUSHIMA, Japan | MAN B\&amp;W | Apr-30 | 4 x 30.5t CRANES | region $22.5m | undisclosed |  |
-| HANDY | WESTERN DONCASTER | 39,461 | 2019 | JIANGMEN NANYANG, China | MAN B\&amp;W | Jan-29 | 4 x 30t CRANES | region $ 23.5m | undisclosed | Eco, OHBS |
-| HANDY | WOOYANG CLES | 39,202 | 2014 | YANGFAN, China | MAN B\&amp;W | Jun-29 | 4 x 30t CRANES | $ 18,75m | undisclosed | Eco |
-| HANDY | BOSTON HARMONY | 38,561 | 2015 | SHIN KURUSHIMA, Japan | MAN B\&amp;W | Aug-30 | 4 x 30t CRANES | low $ 23,0m | Greek | Eco |
-| HANDY | BIANCA | 33,773 | 2013 | SAMJIN, China | MAN B\&amp;W | Apr-28 | 4 x 35t CRANES | $ 13.5m | Chinese |  |
+| KMAX | OSAKA STAR | 84,947 | 2016 | SASEBO, Japan | MAN B&W | Mar-31 |  | $ 34.0m | undisclosed | Eco |
+| KMAX | BW JAPAN | 81,609 | 2019 | TSUNEISHI CEBU, Philippines | MAN B&W | May-29 |  | region $ 38.0m | Indian | Eco, Scrubber fitted |
+| PMAX | SEA ORION | 76,602 | 2005 | IMABARI, Japan | MAN B&W | Jan-30 |  | $ 11.5m | undisclosed |  |
+| ULTRA | OCEAN TIANBAO | 63,455 | 2016 | CHINA SHIPPING JIANGSU, Japan | MAN B&W | Nov-26 | 4 x 30t CRANES | $ 26.5m | Turkish | Eco |
+| SUPRA | SKY KNIGHT | 58,078 | 2012 | SHIN KURUSHIMA, Japan | MAN B&W | Apr-30 | 4 x 30.5t CRANES | region $22.5m | undisclosed |  |
+| HANDY | WESTERN DONCASTER | 39,461 | 2019 | JIANGMEN NANYANG, China | MAN B&W | Jan-29 | 4 x 30t CRANES | region $ 23.5m | undisclosed | Eco, OHBS |
+| HANDY | WOOYANG CLES | 39,202 | 2014 | YANGFAN, China | MAN B&W | Jun-29 | 4 x 30t CRANES | $ 18,75m | undisclosed | Eco |
+| HANDY | BOSTON HARMONY | 38,561 | 2015 | SHIN KURUSHIMA, Japan | MAN B&W | Aug-30 | 4 x 30t CRANES | low $ 23,0m | Greek | Eco |
+| HANDY | BIANCA | 33,773 | 2013 | SAMJIN, China | MAN B&W | Apr-28 | 4 x 35t CRANES | $ 13.5m | Chinese |  |
 
 ---
 

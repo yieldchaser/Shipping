@@ -29,7 +29,7 @@ Comparing these numbers with Capes loaded from Indonesian, we saw 52 and 51 cape
 
 Momentum has turned negative in the dry bulk market just before the end of the first quarter. The BDI on Friday (24/03/2023) closed at 1,489 points, down by 46 points compared to previous Friday's closing (17/03/2023). During the previous week, a mixed picture emerged in the crude carrier market as VLCC sector lost ground with the rest of the sizes witnessing improved rates w-o-w. The BDTI on Friday (24/03/2023) closed at 1,622, an increase of 43 points and the BCTI at 1200, an increase of 130 points compared to previous Friday's (17/02/2023) levels.
 
-## Sale &amp; Purchase (Wet: **Stable+** / Dry: **Stable+**)
+## Sale & Purchase (Wet: **Stable+** / Dry: **Stable+**)
 
 Last week, the SnP activity was steady w-o-w with interest across the tanker and the dry bulk segments continuing to focus on the Clean and geared sectors respectively. In the tanker sector, we had the sale of the "COSBRIGHT LAKE" (299,079dwt-blt '03, China), which was sold to undisclosed buyers, for a price in the region of \$34.0m. On the dry bulker side sector, we had the sale of the "C H S SPLENDOR" (170,000dwt-blt '06, Japan), which was sold to Middle Eastern buyers, for a price in the region of high \$17.0m.
 
@@ -125,7 +125,7 @@ VLCC T/C earnings averaged \$ 71,414/day, down -\$7,105/day w-o-w and closed off
 
 Suezmax T/C earnings averaged \$ 85,554/day, up + \$3,895/day w-o-w. On the Aframax front, T/C earnings averaged \$ 86,0475/day, up + \$8,268/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "COSBRIGHT LAKE" (299,079dwt-blt '03, China), which was sold to undisclosed buyers, for a price in the region of \$34.0m.
 
@@ -186,7 +186,7 @@ Supramax 10TC averaged \$ 14,665/day, up +3.77% w-o-w, while the Handysize 7TC a
 | **Ultramax** **63k** | 29.8 | 28.0 | 6.3% | 31.5 | 26.4 | 19.4 |
 | **Handysize** **37K** | 25.3 | 24.0 | 5.2% | 27.2 | 21.4 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "C H S SPLENDOR" (170,000dwt-blt '06, Japan), which was sold to Middle Eastern buyers, for a price in the region of high \$17.0m.
 

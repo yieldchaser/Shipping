@@ -42,7 +42,7 @@ Regarding shipping, the benefits of blockchain technology could be huge when it 
 
 With the exception of the Capesize sector, the rest of the sizes ended up the week with gains, mostly supported by a healthy injection of fresh cargoes in the Pacific coupled with a shorter tonnage list in the respective region. The BDI today (08/03/2022) closed at 2,352 points, up by 283 points compared to previous Tuesday's closing (01/03/2022). The shape of the crude carrier market performance is hefty dependent on the Russian-Ukraine war aftereffect. At the time being, we notice strong premiums for Baltic and Blacksea loadings, with an evident positive result on the average T/C equivalents. The BDTI today (08/03/2022) closed at 1,424, a decrease of 25 points, and the BCTI at 1,049, an increase of 259 points compared to previous Tuesday's (01/03/2022) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: **Firmer**)
+## Sale & Purchase (Wet: **Firmer** / Dry: **Firmer**)
 
 The Secondhand market activity continues to see very strong appetite for dry bulk vessels. On the tanker SnP front, VLCC sales stole the spotlight last week, yet with only seven tankers changing hands last week. In the tanker sector, we had sale of the “MY WAY” (314,020dwt-blt '07, China), which was sold to UAE buyer, for a price in the region of \$37.0m. On the dry bulk-er side sector, we had the sale of the “DARYA KIRTHI” (80,545dwt-blt '12, S. Korea), which was sold to Greek buyer, for a price in the region of \$24.5m.
 
@@ -141,7 +141,7 @@ VLCC T/C earnings averaged \$ -7,012/day, up + \$ 11,620/day w-o-w. The week kic
 
 Suezmax T/C earnings averaged \$ 85,089/day, up + \$ 69,954/day w-o-w. The Blacksea market premiums pushed TD6 up by 58.89WS points. Positive MEG activity materialized while the W.Africa market lost a large portion of its previous week's gains with TD20 falling by 26.87WS points. Aframax T/C earnings averaged \$ 65,306/day, up + \$ 46,840/day w-o-w. A limited number of owners willing to load on Russia Baltic ports, moved TD17 up by 188.13WS points. Blacksea market remains extremely firm amidst the tension in the region. On the other side of the Atlantic, the market noted a small slow down with TD9 route losing 4.38WS points w-o-w .
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had sale of the "MY WAY" (314,020dwt-blt '07, China), which was sold to UAE buyer, for a price in the region of \$37.0m.
 
@@ -208,7 +208,7 @@ Supramax 10TC averaged \$ 27,387/day, up + 4.42% w-o-w, the Handysize 7TC averag
 | **Ultramax** | **63k** | 32.0 | 31.0 | **3.2%** | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 28.0 | 27.3 | **2.8%** | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Kamsarmax sector we had the sale of the "DARYA KIRTHI" (80,545dwt-bl't '12, S. Korea), which was sold to Greek buyer, for a price in the region of \$24.5m.
 
@@ -225,22 +225,22 @@ In the Panamax sector we had the sale of the "SEA MELODY I" (75,957dwt-bl't '02,
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | DARYA KIRTHI | 80,545 | 2012 | STX, S. Korea | MAN-B\&amp;W |  |  | $ 24.5m | Greek |  |
-| KMAX | GOLDEN ENTERPRISE | 79,471 | 2011 | JINHAI , China | MAN-B\&amp;W | Sep-26 |  | $ 52.0m (en bloc) | undisclosed |  |
-| KMAX | GOLDEN EMPRESS | 79,471 | 2010 | JINHAI , China | MAN-B\&amp;W | Dec-25 |  | $ 52.0m (en bloc) | undisclosed |  |
-| KMAX | GOLDEN ENDEAVOUR | 79,454 | 2010 | JINHAI , China | MAN-B\&amp;W | Dec-25 |  | $ 52.0m (en bloc) | undisclosed |  |
-| PMAX | GOYA | 75,750 | 2008 | JIANGSU RONGSHENG, China | MAN-B\&amp;W | Aug-23 |  | high $ 15.0m | Chinese | ICE 1C |
-| PMAX | SEA MELODY I | 75,957 | 2002 | TSUNEISHI, Japan | B\&amp;W | Feb-26 |  | $ 13.4m | Far Eastern |  |
-| UMAX | DROGBA | 63,488 | 2015 | CHENGXI, China | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | $ 28.7m | undisclosed |  |
-| SUPRA | NATHAN BRANDON | 56,489 | 2013 | HUATAI NANTONG, China | MAN-B\&amp;W | Aug-23 | 4 X 36t CRANES | $ 19.0m | undisclosed |  |
-| SUPRA | ANTERO | 56,892 | 2011 | JIANGSU HANTONG, China | MAN-B\&amp;W | Aug-26 | 4x35.0, 4x30.0 | $ 17.7m | Bangladeshi |  |
-| SUPRA | BAO GRAND | 58,015 | 2010 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Jun-25 | 4 X 36t CRANES | undisclosed | undisclosed |  |
-| SUPRA | BAO PROSPER | 56,722 | 2010 | JIANGSU HANTONG, China | MAN-B\&amp;W | Aug-25 | 4 X 35t CRANES | undisclosed | undisclosed |  |
-| SUPRA | KARIMU | 57,255 | 2010 | STX, S. Korea | MAN-B\&amp;W | Dec-25 | 4 X 30t CRANES | rgn $ 19.0m | undisclosed | old sale, sold for conversion, delivery July 2022, BWTS fitted |
-| SUPRA | HAI LONG | 56,083 | 2007 | MITSUI, Japan | MAN-B\&amp;W | Jun-25 | 4 X 30t CRANES | around $ 16.0m | undisclosed |  |
-| SUPRA | JIN CHENG | 53,806 | 2004 | NEW TIMES, China | B\&amp;W | Jan-24 | 4 X 40t CRANES | $ 13.9m | undisclosed |  |
+| KMAX | DARYA KIRTHI | 80,545 | 2012 | STX, S. Korea | MAN-B&W |  |  | $ 24.5m | Greek |  |
+| KMAX | GOLDEN ENTERPRISE | 79,471 | 2011 | JINHAI , China | MAN-B&W | Sep-26 |  | $ 52.0m (en bloc) | undisclosed |  |
+| KMAX | GOLDEN EMPRESS | 79,471 | 2010 | JINHAI , China | MAN-B&W | Dec-25 |  | $ 52.0m (en bloc) | undisclosed |  |
+| KMAX | GOLDEN ENDEAVOUR | 79,454 | 2010 | JINHAI , China | MAN-B&W | Dec-25 |  | $ 52.0m (en bloc) | undisclosed |  |
+| PMAX | GOYA | 75,750 | 2008 | JIANGSU RONGSHENG, China | MAN-B&W | Aug-23 |  | high $ 15.0m | Chinese | ICE 1C |
+| PMAX | SEA MELODY I | 75,957 | 2002 | TSUNEISHI, Japan | B&W | Feb-26 |  | $ 13.4m | Far Eastern |  |
+| UMAX | DROGBA | 63,488 | 2015 | CHENGXI, China | MAN-B&W | Oct-25 | 4 X 30t CRANES | $ 28.7m | undisclosed |  |
+| SUPRA | NATHAN BRANDON | 56,489 | 2013 | HUATAI NANTONG, China | MAN-B&W | Aug-23 | 4 X 36t CRANES | $ 19.0m | undisclosed |  |
+| SUPRA | ANTERO | 56,892 | 2011 | JIANGSU HANTONG, China | MAN-B&W | Aug-26 | 4x35.0, 4x30.0 | $ 17.7m | Bangladeshi |  |
+| SUPRA | BAO GRAND | 58,015 | 2010 | YANGZHOU DAYANG, China | MAN-B&W | Jun-25 | 4 X 36t CRANES | undisclosed | undisclosed |  |
+| SUPRA | BAO PROSPER | 56,722 | 2010 | JIANGSU HANTONG, China | MAN-B&W | Aug-25 | 4 X 35t CRANES | undisclosed | undisclosed |  |
+| SUPRA | KARIMU | 57,255 | 2010 | STX, S. Korea | MAN-B&W | Dec-25 | 4 X 30t CRANES | rgn $ 19.0m | undisclosed | old sale, sold for conversion, delivery July 2022, BWTS fitted |
+| SUPRA | HAI LONG | 56,083 | 2007 | MITSUI, Japan | MAN-B&W | Jun-25 | 4 X 30t CRANES | around $ 16.0m | undisclosed |  |
+| SUPRA | JIN CHENG | 53,806 | 2004 | NEW TIMES, China | B&W | Jan-24 | 4 X 40t CRANES | $ 13.9m | undisclosed |  |
 | HANDY | ES MERCURY | 32,248 | 2008 | KANDA, Japan | Mitsubishi | Aug-23 | 4 X 30,5t CRANES | $ 15.3m | Chinese | BWTS fitted, delivery Q2-2022 |
-| HANDY | ZAPOLYARYE | 23,645 | 2008 | CHENGXI, China | MAN-B\&amp;W |  |  | EUR 5.5m | UK based | 7HO/HA, ICE CLASS 1A |
+| HANDY | ZAPOLYARYE | 23,645 | 2008 | CHENGXI, China | MAN-B&W |  |  | EUR 5.5m | UK based | 7HO/HA, ICE CLASS 1A |
 
 © Intermodal Research 08/03/2022 4
 
@@ -251,18 +251,18 @@ In the Panamax sector we had the sale of the "SEA MELODY I" (75,957dwt-bl't '02,
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | MY WAY | 314,020 | 2007 | NACKS, China | MAN-B\&amp;W | Mar-25 | DH | $ 37.0m | UAE based |  |
-| VLCC | LANDBRIDGE MAJESTY | 308,206 | 2017 | DALIAN, China | MAN-B\&amp;W | Jan-27 | DH | $ 71.0m | undisclosed | BWTS &amp; Scrubber fitted |
+| VLCC | MY WAY | 314,020 | 2007 | NACKS, China | MAN-B&W | Mar-25 | DH | $ 37.0m | UAE based |  |
+| VLCC | LANDBRIDGE MAJESTY | 308,206 | 2017 | DALIAN, China | MAN-B&W | Jan-27 | DH | $ 71.0m | undisclosed | BWTS & Scrubber fitted |
 | VLCC | NAUTILUS | 307,284 | 2006 | DALIAN, China | Wartsila | Dec-26 | DH | $ 63.5m (en bloc) | Korean (Sinokor) |  |
 | VLCC | NAVARIN | 307,284 | 2007 | DALIAN, China | Wartsila | Apr-22 | DH | $ 63.5m (en bloc) | Korean (Sinokor) |  |
-| VLCC | OLYMPIC LOYALTY II | 306,999 | 2005 | SAMSUNG, S. Korea | MAN-B\&amp;W | Mar-25 | DH | mid $ 30.0m | undisclosed |  |
-| LR1 | TECTUS | 74,862 | 2009 | STX, S. Korea | MAN-B\&amp;W | Jul-24 | DH | $ 14.85m | Greek (Centrofin) |  |
+| VLCC | OLYMPIC LOYALTY II | 306,999 | 2005 | SAMSUNG, S. Korea | MAN-B&W | Mar-25 | DH | mid $ 30.0m | undisclosed |  |
+| LR1 | TECTUS | 74,862 | 2009 | STX, S. Korea | MAN-B&W | Jul-24 | DH | $ 14.85m | Greek (Centrofin) |  |
 | MR1 | ADEBOMI 3 | 36,962 | 2002 | BRODOGRADILISTE, Croatia | Sulzer | Aug-22 | DH | $ 6.2m | Greek | old sale |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | A DAISEN | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Nov-25 | 2 X 45t CRANES | $ 33.0m | Danish (Maersk) | BWTS fitted, delivery December 2022 |
+| FEEDER | A DAISEN | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B&W | Nov-25 | 2 X 45t CRANES | $ 33.0m | Danish (Maersk) | BWTS fitted, delivery December 2022 |
 | FEEDER | PROVIDENCE | 653 | 1998 | HAKATA, Japan | Mitsubishi | Sep-22 | 2 X 38t CRANES | $ 6.5m | undisclosed | Delivery April 2022 |
 
 © Intermodal Research 08/03/2022 5

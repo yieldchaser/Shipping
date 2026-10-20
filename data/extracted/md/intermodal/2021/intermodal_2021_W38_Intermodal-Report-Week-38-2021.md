@@ -31,7 +31,7 @@ This is without a doubt a positive sign and one could be reservedly optimistic t
 
 With Capes being the main driving force behind the upward movement, the Dry Bulk market continued to move full steam ahead last week. The BDI today (28/09/2021) closed at 4,962 up by 552 points compared to previous Tuesday's (21/09/2021) levels. VLCC market ended the week on a positive tone followed by Aframax sector where trade activity noticed an uptick yet with no positive effect on rates while Suezmax rates remained unchanged w-o-w. The BDTI today (28/09/2021) closed at 618 points, an increase of 11 points, and the BCTI at 498, an increase of 12 points compared to previous Tuesday's (21/09/2021) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: Softer)
+## Sale & Purchase (Wet: Softer / Dry: Softer)
 
 SnP activity was softer this past week with only a handful of dry bulk and tanker units being concluded. In the tanker sector, we had the sale of the "FOS" (306,999dwt-blt '02, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$28.0m. On the dry bulker side sector, we had the sale of the "PALAIS" (75,434dwt-blt '14, China), which was sold to Chinese buyers, for price in the region of \$23.25m.
 
@@ -133,9 +133,9 @@ VLCC T/C earnings averaged \$-7,776/day, up +\$1,751/day w-o-w. West Africa TD15
 
 Suezmax T/C earnings averaged \$-3,598/day, down by \$-55/day as steady activity across all the business routes took place with rates remaining almost unchanged w-o-w. Aframax T/C earnings averaged \$151/day, down by -\$1,259/day w-o-w. With the exception of Med region, the rest of the markets ended up the week with their rates sticking at the bottom levels and with TD9 Caribs/USG route losing further ground for another week (TD9 down -10WS points w-o-w).
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the VLCC sector we had the sale of the "FOS" (306,999dwt-blt '02, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$28.0m.
 
@@ -202,7 +202,7 @@ Supramax 10TC averaged approx. \$36,700/day up +2.9% w-o-w, with the Pacific and
 | **Ultramax** | **63k** | 30.6 | 29.8 | **2.9%** | 19.4 | 23.1 | - |
 | **Handysize** | **37K** | 24.8 | 23.8 | **4.2%** | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Panamax sector we had the sale of the "PALAIS" (75,434dwt-blt '14, China), which was sold to Chinese buyers, for price in the region of \$23.25m.
 
@@ -217,26 +217,26 @@ In the Ultramax sector we had the sale of the "SAILING SKY" (61,346dwt-blt '14, 
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | FOS | 306,999 | 2002 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Feb-22 | DH | $ 28.0m | undisclosed |  |
+| VLCC | FOS | 306,999 | 2002 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Feb-22 | DH | $ 28.0m | undisclosed |  |
 | SUEZ | NORDIC SIRIUS | 150,183 | 2000 | NKK CORP, Japan | Sulzer | Oct-25 | DH | $ 14.0m | Middle Eastern |  |
-| MR2 | OCEAN MARS | 50,388 | 2007 | SLS, S. Korea | MAN-B\&amp;W | May-22 | DH | $ 9.0m | Greek (Stealth Maritime) | auction sale |
+| MR2 | OCEAN MARS | 50,388 | 2007 | SLS, S. Korea | MAN-B&W | May-22 | DH | $ 9.0m | Greek (Stealth Maritime) | auction sale |
 | MR1 | OCEAN CLOVER | 34,747 | 2019 | FUJIAN MAWEI, China | Wartsila | Nov-24 | DH | $ 18.4m | Chinese | BWTS fitted |
-| MR1 | OCEAN DIGNITY | 34,663 | 2006 | DALIAN, China | MAN-B\&amp;W | Sep-21 | DH | undisclosed | Greek |  |
+| MR1 | OCEAN DIGNITY | 34,663 | 2006 | DALIAN, China | MAN-B&W | Sep-21 | DH | undisclosed | Greek |  |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | PALAIS | 75,434 | 2014 | JIANGSU RONGSHENG, China | Wartsila | Jan-24 |  | $ 23.25m | Chinese | Tier II, BWTS fitted, bss prompt dely |
-| UMAX | SAILING SKY | 61,346 | 2014 | SHIN KASADO, Japan | MAN-B\&amp;W | Jun-24 | 4 X 30,7t CRANES | low $ 27.0m | Vietnamese | BWTS fitted |
-| HANDY | GLORIOUS EARTH | 26,102 | 2013 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Jan-23 | 3 X 30,7t CRANES | mid-high $ 14.0m | Far Eastern | Tier II |
-| HANDY | BULKER BEE 20 | 25,041 | 2010 | NINGBO XINLE, China | MAN-B\&amp;W | Sep-25 | 3 X 30t CRANES | $ 21.5m (en bloc) | German | BWTS fitted |
-| HANDY | BULKER BEE 21 | 25,012 | 2011 | NINGBO XINLE, China | MAN-B\&amp;W | Jan-26 | 3 X 30t CRANES | $ 21.5m (en bloc) | German | BWTS fitted |
+| UMAX | SAILING SKY | 61,346 | 2014 | SHIN KASADO, Japan | MAN-B&W | Jun-24 | 4 X 30,7t CRANES | low $ 27.0m | Vietnamese | BWTS fitted |
+| HANDY | GLORIOUS EARTH | 26,102 | 2013 | SHIN KURUSHIMA, Japan | MAN-B&W | Jan-23 | 3 X 30,7t CRANES | mid-high $ 14.0m | Far Eastern | Tier II |
+| HANDY | BULKER BEE 20 | 25,041 | 2010 | NINGBO XINLE, China | MAN-B&W | Sep-25 | 3 X 30t CRANES | $ 21.5m (en bloc) | German | BWTS fitted |
+| HANDY | BULKER BEE 21 | 25,012 | 2011 | NINGBO XINLE, China | MAN-B&W | Jan-26 | 3 X 30t CRANES | $ 21.5m (en bloc) | German | BWTS fitted |
 | HANDY | BAO DA | 28,107 | 2001 | BOHAI, China | Sulzer | Mar-24 | 4 X 30t CRANES | rgn $ 7.0m | undisclosed |  |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | ACACIA REI | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Apr-25 | 2 X 45t CRANES | $ 32.5m | Chinese |
+| FEEDER | ACACIA REI | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B&W | Apr-25 | 2 X 45t CRANES | $ 32.5m | Chinese |
 | FEEDER | ROBERT RICKMERS | 1,730 | 2003 | SZCZECINSKA NOWA STOCZNIA, Poland | Sulzer | Jun-23 | 3 X 40t CRANES | $ 20.0m | Swiss (MSC) |
 
 © Intermodal Research 28/09/2021 4

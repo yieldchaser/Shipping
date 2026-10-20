@@ -158,15 +158,15 @@ Ultramax and Supramax sectors also softened as the approach of extended holidays
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | SFL THELON | 159,500 | 2015 | BOHAI, China | MAN B\&amp;W | Jan-30 | DH | $ 57,0m each | Greek | Eco |
-| SUEZ | SFL OTTAWA | 159,500 | 2015 | BOHAI, China | MAN B\&amp;W | Mar-30 | DH | $ 57,0m each | Greek | Eco |
-| MR1 | OM SINGAPORE | 29,015 | 2007 | GSI, China | MAN B\&amp;W | Aug-29 | DH | $ 13,75m | Chinese |  |
+| SUEZ | SFL THELON | 159,500 | 2015 | BOHAI, China | MAN B&W | Jan-30 | DH | $ 57,0m each | Greek | Eco |
+| SUEZ | SFL OTTAWA | 159,500 | 2015 | BOHAI, China | MAN B&W | Mar-30 | DH | $ 57,0m each | Greek | Eco |
+| MR1 | OM SINGAPORE | 29,015 | 2007 | GSI, China | MAN B&W | Aug-29 | DH | $ 13,75m | Chinese |  |
 | J19 | OM SHANGHAI | 19,999 | 2007 | FUKUOKA, Japan | Mitsubishi | Oct-29 | DH | $ 15.0m | Chinese |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HANDY | SEPETIBA BAY | 35,000 | 2012 | SAMJIN, China | MAN B\&amp;W | Jun-27 | 4 X 35t CRANES | low $ 11,0m | undisclosed |
+| HANDY | SEPETIBA BAY | 35,000 | 2012 | SAMJIN, China | MAN B&W | Jun-27 | 4 X 35t CRANES | low $ 11,0m | undisclosed |
 
 ---
 

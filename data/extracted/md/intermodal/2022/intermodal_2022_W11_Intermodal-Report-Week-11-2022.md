@@ -30,7 +30,7 @@ At the moment, coal imports from Far East Russia need to be replaced, this means
 
 The dry bulk market lost some of its positive momentum last week, with the largest sizes paving the way. However, earnings across all sectors remain significantly healthy for another week. The BDI today (22/03/2022) closed at 2,546 points, down by 143 points compared to previous Tuesday's closing (15/03/2022). The crude carrier market still faces strong pressure amidst the hefty supply/demand imbalance, while oil demand disruption could further burden tanker earnings. The BDTI today (22/03/2022) closed at 1,092, a decrease of 187 points, and the BCTI at 984, a decrease of 48 points compared to previous Tuesday's (15/03/2022) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: Stable +)
+## Sale & Purchase (Wet: Softer / Dry: Stable +)
 
 Activity in the SnP market quietened down last week. Dry bulk sales recorded a small slow down, while in the cases of tanker units, only one sale emerged during the past days compared with the thirteen deals of the previous week. In the tanker sector, we had sale (old deal) of the "NORDIC GRACE" (149,921dwt-blt '02, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$15.0m. On the dry bulker side sector, we had the sale of the "OCEAN GARLIC" (82,305dwt-blt '12, China), which was sold to undisclosed buyers, for a price in the region of mid \$21.0m.
 
@@ -127,7 +127,7 @@ VLCC T/C earnings averaged \$-20,138/day, up + \$2,743/day w-o-w. The market rem
 
 Suezmax T/C earnings averaged \$53,458/day, down - \$9,034/day w-o-w. Slow activity materialized, with some ex-West Africa cargoes injected on the market yet with charterers preferring to work them private. Aframax T/C earnings averaged \$48,416/day, down - \$5,110/day w-o-w. In North Europe, the plethora of vessels added pressure on rates while TD17 route continued to offer a lucrative option, yet with very few willing candidates at the moment. In the Med, the week kicked off with losses as charterers tried to squeeze earnings down. However, mid-week, a good volume of cargoes flowed in the market, mainly from Libya helping owners to regain control and improve their market share with prospects of a further push amidst a shorter tonnage list ahead.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had sale (old deal) of the "NORDIC GRACE" (149,921dwt-blt '02, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$15.0m.
 
@@ -191,7 +191,7 @@ Supramax 10TC averaged \$31,957/day, up + 3.16% w-o-w, while the Handysize 7TC a
 | **Ultramax** | **63k** | 32.5 | 31.0 | **4.8%** | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 28.0 | 27.3 | **2.8%** | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Kamsarmax sector we had the sale of the "OCEAN GARLIC" (82,305dwt-blt '12, China), which was sold to undisclosed buyers, for a price in the region of mid \$21.0m.
 

@@ -150,21 +150,21 @@ Supramax 10TC averaged \$ 14,973/day down -0.20% w-o-w, while the Handysize 7TC 
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | AURVIKEN | 112,802 | 2019 | SAMSUNG, S. Korea | MAN-B\&amp;W | Oct-24 | DH | $ 73.0m | undisclosed |  |
-| MR1 | TRF MONGSTAD | 37,596 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-26 | DH | $ 36.5m each | undisclosed | scrubber fitted, eco |
-| MR1 | TRF MOSS | 37,596 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jun-26 | DH | $ 36.5m each | undisclosed | scrubber fitted, eco |
+| AFRA | AURVIKEN | 112,802 | 2019 | SAMSUNG, S. Korea | MAN-B&W | Oct-24 | DH | $ 73.0m | undisclosed |  |
+| MR1 | TRF MONGSTAD | 37,596 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B&W | May-26 | DH | $ 36.5m each | undisclosed | scrubber fitted, eco |
+| MR1 | TRF MOSS | 37,596 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jun-26 | DH | $ 36.5m each | undisclosed | scrubber fitted, eco |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUPRA | NORD SEAL | 57,631 | 2016 | TSUNEISHI, Japan | MAN-B\&amp;W | Mar-26 | 4 X 30t CRANES | $ 28.3m | Chinese | Eco |
-| HANDY | ATLANTIC PRISM | 39,172 | 2019 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | May-24 | 4 X 30t CRANES | $ 28.5m | European | Eco |
-| HANDY | NARUTO STRAIT | 34,391 | 2016 | NAMURA, Japan | MAN-B\&amp;W | Dec-26 | 4 X 30t CRANES | around $ 20.5m | Greek | Eco |
+| SUPRA | NORD SEAL | 57,631 | 2016 | TSUNEISHI, Japan | MAN-B&W | Mar-26 | 4 X 30t CRANES | $ 28.3m | Chinese | Eco |
+| HANDY | ATLANTIC PRISM | 39,172 | 2019 | SHIN KURUSHIMA, Japan | MAN-B&W | May-24 | 4 X 30t CRANES | $ 28.5m | European | Eco |
+| HANDY | NARUTO STRAIT | 34,391 | 2016 | NAMURA, Japan | MAN-B&W | Dec-26 | 4 X 30t CRANES | around $ 20.5m | Greek | Eco |
 | HANDY | CONDOR HAMBURG | 31,796 | 2012 | FUJIAN, MAWEI, China | Mitsubishi | Jan-27 | 4 X 30t CRANES | mid high $ 11's | undisclosed | BWTS fitted |
-| HANDY | MARGARET SW | 25,010 | 2012 | KANASASHI, Japan | MAN-B\&amp;W | Mar-27 | 3 X 30t CRANES | $ 13.0m | undisclosed | BWTS fitted |
+| HANDY | MARGARET SW | 25,010 | 2012 | KANASASHI, Japan | MAN-B&W | Mar-27 | 3 X 30t CRANES | $ 13.0m | undisclosed | BWTS fitted |
 | HANDY | SUNRISE | 37,268 | 2009 | SAIKI, Japan | Mitsubishi | Jan-29 | 4 X 30t CRANES | $ 15.0m each | Turkish | OHBS |
 | HANDY | SUNSET | 37,334 | 2009 | SAIKI, Japan | Mitsubishi | Jul-24 | 4 X 30t CRANES | $ 15.0m each | Turkish | OHBS |
-| HANDY | KATYA ATK | 28,467 | 2009 | IMABARI, Japan | MAN-B\&amp;W | Sep-24 | 4 X 30,5t CRANES | $ 9.0m | Vietnamese |  |
+| HANDY | KATYA ATK | 28,467 | 2009 | IMABARI, Japan | MAN-B&W | Sep-24 | 4 X 30,5t CRANES | $ 9.0m | Vietnamese |  |
 | HANDY | GLOBAL SERENITY | 32,313 | 2008 | KANDA, Japan | Mitsubishi | Nov-26 | 4 X 30,5t CRANES | around $ 12.0m | undisclosed | boxed |
 
 ---

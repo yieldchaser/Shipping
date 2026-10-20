@@ -152,22 +152,22 @@ Secondhand Sales
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | SINGAPORE LOYALTY | 307,284 | 2007 | DALIAN, China | Wartsila | Oct-27 | DH | $ 47.0m | undisclosed |
-| VLCC | NAVE CONSTELLATION | 296,988 | 2010 | DALIAN, China | MAN B\&amp;W | Jun-30 | DH | $ 52.5m | undisclosed |
+| VLCC | NAVE CONSTELLATION | 296,988 | 2010 | DALIAN, China | MAN B&W | Jun-30 | DH | $ 52.5m | undisclosed |
 | SUEZ | ASTARI I | 149,991 | 2002 | NKK CORP, Japan | Sulzer | Jul-27 | DH | high $ 19,0m | Chinese |
-| LR1 | CHEMTRANS CANCALE | 73,626 | 2007 | NEW TIMES, China | MAN B\&amp;W | Jun-27 | DH | $ 12.0m | undisclosed |
+| LR1 | CHEMTRANS CANCALE | 73,626 | 2007 | NEW TIMES, China | MAN B&W | Jun-27 | DH | $ 12.0m | undisclosed |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | BULK SAO PAULO | 208,445 | 2020 | NEW TIMES, China | MAN B\&amp;W | Jun-30 |  | $ 72,75m | European | Scrubber fitted, Eco |
-| NEWCASTLEMAX | SAMC MG | 206,180 | 2006 | IMABARI, Japan | MAN B\&amp;W | Oct-26 |  | $ 25.0m | Chinese |  |
-| CAPE | CAPE AQUA | 178,055 | 2009 | SWS, China | MAN B\&amp;W | Jun-29 |  | $ 25,25m | Chinese |  |
-| CAPE | BELGRAVIA | 169,391 | 2009 | DAEHAN, S. Korea | MAN B\&amp;W | Oct-29 |  | high $ 25,0m | undisclosed |  |
-| POST PMAX | DECLAN DUFF | 93,253 | 2012 | JIANGSU NEWYANGZI, China | MAN B\&amp;W | Jul-27 |  | $ 13.6m | Chinese |  |
-| PMAX | PORTO LIMNIONI | 73,664 | 2006 | JIANGNAN, China | MAN B\&amp;W | Jun-26 |  | $ 8.0m | Chinese |  |
-| SUPRA | JIN MAO | 56,469 | 2012 | JIANGSU NEW HANTONG, China | MAN B\&amp;W | May-27 | 4 X 36t CRANES | $ 13.1m | Chinese |  |
+| NEWCASTLEMAX | BULK SAO PAULO | 208,445 | 2020 | NEW TIMES, China | MAN B&W | Jun-30 |  | $ 72,75m | European | Scrubber fitted, Eco |
+| NEWCASTLEMAX | SAMC MG | 206,180 | 2006 | IMABARI, Japan | MAN B&W | Oct-26 |  | $ 25.0m | Chinese |  |
+| CAPE | CAPE AQUA | 178,055 | 2009 | SWS, China | MAN B&W | Jun-29 |  | $ 25,25m | Chinese |  |
+| CAPE | BELGRAVIA | 169,391 | 2009 | DAEHAN, S. Korea | MAN B&W | Oct-29 |  | high $ 25,0m | undisclosed |  |
+| POST PMAX | DECLAN DUFF | 93,253 | 2012 | JIANGSU NEWYANGZI, China | MAN B&W | Jul-27 |  | $ 13.6m | Chinese |  |
+| PMAX | PORTO LIMNIONI | 73,664 | 2006 | JIANGNAN, China | MAN B&W | Jun-26 |  | $ 8.0m | Chinese |  |
+| SUPRA | JIN MAO | 56,469 | 2012 | JIANGSU NEW HANTONG, China | MAN B&W | May-27 | 4 X 36t CRANES | $ 13.1m | Chinese |  |
 | HANDY | LA BAMBA | 37,155 | 2012 | SAIKI, Japan | Mitsubishi | Apr-27 | 4 X 30t CRANES | region $ 14,5m | Chinese | OHBS |
-| HANDY | OCEAN TACT | 36,197 | 2019 | SHIKOKU, Japan | MAN B\&amp;W | Oct-29 | 4 X 30t CRANES | region $ 24,0m | undisclosed | Scrubber fitted, Eco |
+| HANDY | OCEAN TACT | 36,197 | 2019 | SHIKOKU, Japan | MAN B&W | Oct-29 | 4 X 30t CRANES | region $ 24,0m | undisclosed | Scrubber fitted, Eco |
 
 ---
 

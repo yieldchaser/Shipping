@@ -159,20 +159,20 @@ Handysize vessels recorded another positive week, with most regions posting gain
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | GRAND ACE 1 | 45,990 | 2006 | STX, S. Korea | MAN B\&amp;W | Jun-26 | DH | region $ 11.5m | undisclosed |  |
-| MR1 | FAVOLA | 37,320 | 2002 | STX, S. Korea | MAN B\&amp;W | Aug-27 | DH | excess $ 7.0m | Chinese |  |
-| SMALL | FAIRCHEM CONQUEST | 21,176 | 2017 | ASAKAWA, Japan | MAN B\&amp;W | Aug-27 | DH | $ 29.0m | European | StSt |
-| SMALL | PUERTO AYSEN | 12,834 | 2010 | STX, S. Korea | MAN-B\&amp;W | Dec-25 | DH | $ 11.2m | undisclosed |  |
+| MR2 | GRAND ACE 1 | 45,990 | 2006 | STX, S. Korea | MAN B&W | Jun-26 | DH | region $ 11.5m | undisclosed |  |
+| MR1 | FAVOLA | 37,320 | 2002 | STX, S. Korea | MAN B&W | Aug-27 | DH | excess $ 7.0m | Chinese |  |
+| SMALL | FAIRCHEM CONQUEST | 21,176 | 2017 | ASAKAWA, Japan | MAN B&W | Aug-27 | DH | $ 29.0m | European | StSt |
+| SMALL | PUERTO AYSEN | 12,834 | 2010 | STX, S. Korea | MAN-B&W | Dec-25 | DH | $ 11.2m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UMAX | BEAUTY PEONY | 63,587 | 2015 | CHINA SHIPPING IND JIANGSU, China | MAN B\&amp;W | Jan-30 | 4 X 30t CRANES | excess $ 20.0m | Greek | Eco |
-| SUPRA | STONEWELL PIONEER | 56,533 | 2014 | TAIZHOU SANFU, China | MAN B\&amp;W | Jun-29 | 4 X 35t CRANES | $ 14.0m | Greek | Eco |
-| SUPRA | EPIC TRADER | 56,778 | 2012 | JIANGSU HANTONG, China | MAN B\&amp;W | Aug-27 | 4x36.0, 4x30.0 | excess $ 13.0m | Chinese | Tier II |
-| SUPRA | APJ JAI | 56,594 | 2011 | COSCO GUANGDONG, China | MAN B\&amp;W | Dec-25 | 4 X 30t CRANES | $ 11.25m | Chinese |  |
-| HANDY | HAMBURG WAY | 39,376 | 2016 | JNS, China | MAN B\&amp;W | Jun-26 | 4 X 30,5t CRANES | low $ 17.0m each | European | Eco |
-| HANDY | HAMBURG PEARL | 39,359 | 2016 | JNS, China | MAN B\&amp;W | Apr-26 | 4 X 30t CRANES | low $ 17.0m each | European | Eco |
+| UMAX | BEAUTY PEONY | 63,587 | 2015 | CHINA SHIPPING IND JIANGSU, China | MAN B&W | Jan-30 | 4 X 30t CRANES | excess $ 20.0m | Greek | Eco |
+| SUPRA | STONEWELL PIONEER | 56,533 | 2014 | TAIZHOU SANFU, China | MAN B&W | Jun-29 | 4 X 35t CRANES | $ 14.0m | Greek | Eco |
+| SUPRA | EPIC TRADER | 56,778 | 2012 | JIANGSU HANTONG, China | MAN B&W | Aug-27 | 4x36.0, 4x30.0 | excess $ 13.0m | Chinese | Tier II |
+| SUPRA | APJ JAI | 56,594 | 2011 | COSCO GUANGDONG, China | MAN B&W | Dec-25 | 4 X 30t CRANES | $ 11.25m | Chinese |  |
+| HANDY | HAMBURG WAY | 39,376 | 2016 | JNS, China | MAN B&W | Jun-26 | 4 X 30,5t CRANES | low $ 17.0m each | European | Eco |
+| HANDY | HAMBURG PEARL | 39,359 | 2016 | JNS, China | MAN B&W | Apr-26 | 4 X 30t CRANES | low $ 17.0m each | European | Eco |
 | HANDY | WOOYANG QUEEN | 37,218 | 2011 | SAIKI, Japan | Mitsubishi | Aug-26 | 4 X 30t CRANES | high $ 13.0m | Vietnamese | OHBS |
 | HANDY | IVS KINGLET | 33,132 | 2011 | KANDA, Japan | Mitsubishi | Aug-26 | 4 X 30,5t CRANES | $ 12.25m | undisclosed | OHBS |
 

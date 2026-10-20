@@ -153,24 +153,24 @@ Handysize conditions stayed relatively stable. Gains were modest in Europe and t
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | ATLANTIC LOYALTY | 307,284 | 2007 | DALIAN, China | Wartsila | Apr-27 | DH | excess $ 44.0m | undisclosed |  |
-| LR2 | HESPERIA TIDE | 115,000 | 2025 | ZHOUSHAN CHANGHONG, China | MAN B\&amp;W |  | DH | $ 71.0m | Greek | eco, scrubber fitted |
-| MR1 | HARRIS | 40,960 | 2009 | SLS, S. Korea | MAN B\&amp;W | Mar-29 | DH | $ 17.2m | Nigerian |  |
-| SMALL | HOKORI | 8,911 | 2010 | SHIN KURUSHIMA, Japan | MAN B\&amp;W | Aug-25 | DH | $ 11.0m | undisclosed |  |
+| LR2 | HESPERIA TIDE | 115,000 | 2025 | ZHOUSHAN CHANGHONG, China | MAN B&W |  | DH | $ 71.0m | Greek | eco, scrubber fitted |
+| MR1 | HARRIS | 40,960 | 2009 | SLS, S. Korea | MAN B&W | Mar-29 | DH | $ 17.2m | Nigerian |  |
+| SMALL | HOKORI | 8,911 | 2010 | SHIN KURUSHIMA, Japan | MAN B&W | Aug-25 | DH | $ 11.0m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | PACIFIC NORTH | 180,337 | 2011 | DALIAN, China | MAN B\&amp;W | Dec-25 |  | excess $ 25.0m | Greek | Scrubber fitted |
-| KMAX | SHANDONG FU ZE | 81,781 | 2017 | JINLING, China | MAN B\&amp;W | Mar-27 |  | region $ 23.5m each | undisclosed | on BBHP terms, Eco |
-| KMAX | SHANDONG FU YUAN | 81,781 | 2018 | JINLING, China | MAN B\&amp;W | May-28 |  | region $ 23.5m each | undisclosed | on BBHP terms, Eco |
-| KMAX | ULTRA PUMA | 81,855 | 2016 | TSUNEISHI, Japan | MAN B\&amp;W | Aug-26 |  | $ 25.25m | Far Eastern | Eco |
+| CAPE | PACIFIC NORTH | 180,337 | 2011 | DALIAN, China | MAN B&W | Dec-25 |  | excess $ 25.0m | Greek | Scrubber fitted |
+| KMAX | SHANDONG FU ZE | 81,781 | 2017 | JINLING, China | MAN B&W | Mar-27 |  | region $ 23.5m each | undisclosed | on BBHP terms, Eco |
+| KMAX | SHANDONG FU YUAN | 81,781 | 2018 | JINLING, China | MAN B&W | May-28 |  | region $ 23.5m each | undisclosed | on BBHP terms, Eco |
+| KMAX | ULTRA PUMA | 81,855 | 2016 | TSUNEISHI, Japan | MAN B&W | Aug-26 |  | $ 25.25m | Far Eastern | Eco |
 | KMAX | SEA PEGASUS | 81,728 | 2014 | QINGDAO WUCHUAN, China | Wartsila | May-29 |  | $ 17.5m each | Chinese | Eco |
 | KMAX | SEA GEMINI | 81,716 | 2014 | QINGDAO WUCHUAN, China | Wartsila | Jan-29 |  | $ 17.5m each | Chinese | Eco |
-| UMAX | IVS OKUDOGO | 61,331 | 2019 | SHIN KURUSHIMA, Japan | MAN B\&amp;W | Aug-29 | 4 X 30,7t CRANES | $ 26.75m each | Greek | Eco |
-| UMAX | IVS PRESTWICK | 61,305 | 2019 | SHIN KURUSHIMA, Japan | MAN B\&amp;W | Sep-29 | 4 X 30,7t CRANES | $ 26.75m each | Greek | Eco |
-| SUPRA | MINDANAO | 55,696 | 2010 | MITSUI, Japan | MAN B\&amp;W | Jan-30 | 4 X 30t CRANES | $ 15.5m | Chinese |  |
-| SUPRA | JIN GANG | 56,928 | 2009 | CHENGXI, China | MAN B\&amp;W | Apr-29 | 4 X 35t CRANES | $ 10.8m | Chinese |  |
-| HANDY | SEA DOLPHIN C | 33,802 | 2011 | 21st CENTURY, S. Korea | MAN B\&amp;W | Dec-26 | 4 X 30,7t CRANES | $ 11.7m | Vietnamese |  |
+| UMAX | IVS OKUDOGO | 61,331 | 2019 | SHIN KURUSHIMA, Japan | MAN B&W | Aug-29 | 4 X 30,7t CRANES | $ 26.75m each | Greek | Eco |
+| UMAX | IVS PRESTWICK | 61,305 | 2019 | SHIN KURUSHIMA, Japan | MAN B&W | Sep-29 | 4 X 30,7t CRANES | $ 26.75m each | Greek | Eco |
+| SUPRA | MINDANAO | 55,696 | 2010 | MITSUI, Japan | MAN B&W | Jan-30 | 4 X 30t CRANES | $ 15.5m | Chinese |  |
+| SUPRA | JIN GANG | 56,928 | 2009 | CHENGXI, China | MAN B&W | Apr-29 | 4 X 35t CRANES | $ 10.8m | Chinese |  |
+| HANDY | SEA DOLPHIN C | 33,802 | 2011 | 21st CENTURY, S. Korea | MAN B&W | Dec-26 | 4 X 30,7t CRANES | $ 11.7m | Vietnamese |  |
 
 ---
 

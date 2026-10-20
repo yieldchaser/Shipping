@@ -11,7 +11,7 @@ source_file: "corpus/01-brokers/intermodal/2023/intermodal_2023_W27_Intermodal-R
 ## Market Insight
 *By Chara Georgousi, Research Analyst*
 
-During the first 6 months of 2023, a total of 719 vessels have been contracted, out of which 24.2% were bulkers, 23.09% were oil tankers (crude &amp; products), 9.46% were containers, 5.01% were LPG carriers and 4.31% were LNG carriers. Despite the fact that 2023 orders were dominated by bulkers and tankers, the orderbook for both tankers and dry bulk vessels remains at historically low levels against a backdrop of uncertainty around the energy transition framework and increased newbuilding prices. Instead, the orderbook mix seems to evolve and is largely shaped by orders for LNG carriers and container vessels. The driver behind the recent boom in container contracting activity has been a combination of highly profitable freight markets in 2021 which was extended in the first months of 2022 and a persistent desire from key market players to replace their fleets. Whereas an active project sanctioning environment is reflected in LNG carriers' demand.
+During the first 6 months of 2023, a total of 719 vessels have been contracted, out of which 24.2% were bulkers, 23.09% were oil tankers (crude & products), 9.46% were containers, 5.01% were LPG carriers and 4.31% were LNG carriers. Despite the fact that 2023 orders were dominated by bulkers and tankers, the orderbook for both tankers and dry bulk vessels remains at historically low levels against a backdrop of uncertainty around the energy transition framework and increased newbuilding prices. Instead, the orderbook mix seems to evolve and is largely shaped by orders for LNG carriers and container vessels. The driver behind the recent boom in container contracting activity has been a combination of highly profitable freight markets in 2021 which was extended in the first months of 2022 and a persistent desire from key market players to replace their fleets. Whereas an active project sanctioning environment is reflected in LNG carriers' demand.
 
 The tanker orderbook stands at a historical low of 4.59% of the current fleet after declining by almost 30% in the previous 6 months amidst limited yard availability at top-tier yards and elevated newbuilding prices (at 13-year highs). Ordering activity will likely remain subdued in the coming months.
 
@@ -162,33 +162,33 @@ Supramax 10TC averaged \$ 8,102/day, down -1.48% w-o-w, while the Handysize 7TC 
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | MAGELLAN ENDEAVOUR | 47,931 | 2006 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Jan-26 | DH | $ 17.5m | Chinese | BWTS fitted |
-| SMALL | YONGKANG OCEAN | 17,427 | 2020 | WUXI HONGQI, China | MAN-B\&amp;W | Apr-25 | DH | $ 18.5m | undisclosed | Marineline |
+| MR2 | MAGELLAN ENDEAVOUR | 47,931 | 2006 | IWAGI ZOSEN, Japan | MAN-B&W | Jan-26 | DH | $ 17.5m | Chinese | BWTS fitted |
+| SMALL | YONGKANG OCEAN | 17,427 | 2020 | WUXI HONGQI, China | MAN-B&W | Apr-25 | DH | $ 18.5m | undisclosed | Marineline |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| C APE | OC EAN COBALT | 180,200 | 2008 | IMABARI, Japan | MAN-B\&amp;W | J ul-28 |  | $ 19.5m | Chinese | BWTS fitted |
-| U MAX | GEMINI CONFIDENCE | 63,270 | 2019 | NEW DAYANG, China | MAN-B\&amp;W | J ul-24 | 4 X 35t CRANES | high $ 27.0m each | undisclosed | Eco |
-| U MAX | VIRGO CONFIDENCE | 63,206 | 2019 | NEW DAYANG, China | MAN-B\&amp;W | J ul-24 | 4 X 35t CRANES | high $ 27.0m each | undisclosed | Eco |
-| U MAX | KAMBOS | 63,696 | 2015 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | J un-25 | 4 X 30t CRANES | $ 24.65m | Greek | Eco |
-| SUPRA | COUGA | 50,806 | 2010 | OSHIMA, Japan | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | $ 16.0m | Far Eastern | BWTS fitted, OHBS |
-| SUPRA | TAI HONESTY | 55,418 | 2007 | OSHIMA, Japan | MAN-B\&amp;W | Mar-27 | 4 X 30t CRANES | $ 12,05m | Chinese | BWTS fitted |
+| C APE | OC EAN COBALT | 180,200 | 2008 | IMABARI, Japan | MAN-B&W | J ul-28 |  | $ 19.5m | Chinese | BWTS fitted |
+| U MAX | GEMINI CONFIDENCE | 63,270 | 2019 | NEW DAYANG, China | MAN-B&W | J ul-24 | 4 X 35t CRANES | high $ 27.0m each | undisclosed | Eco |
+| U MAX | VIRGO CONFIDENCE | 63,206 | 2019 | NEW DAYANG, China | MAN-B&W | J ul-24 | 4 X 35t CRANES | high $ 27.0m each | undisclosed | Eco |
+| U MAX | KAMBOS | 63,696 | 2015 | COSCO ZHOUSHAN, China | MAN-B&W | J un-25 | 4 X 30t CRANES | $ 24.65m | Greek | Eco |
+| SUPRA | COUGA | 50,806 | 2010 | OSHIMA, Japan | MAN-B&W | May-25 | 4 X 30t CRANES | $ 16.0m | Far Eastern | BWTS fitted, OHBS |
+| SUPRA | TAI HONESTY | 55,418 | 2007 | OSHIMA, Japan | MAN-B&W | Mar-27 | 4 X 30t CRANES | $ 12,05m | Chinese | BWTS fitted |
 
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | J AC KSON BAY | 4,250 | 2007 | DALIAN, China | MAN-B\&amp;W | Apr-27 |  | $ 23.0m | French (C MA-C GM) |  |
-| SUB PMAX | C IMBRIA | 2,824 | 2002 | HYUNDAI MIPO, S. Korea | B\&amp;W | Oct-27 |  | $ 42.5m | undsiclosed |  |
-| SUB PMAX | CARDONIA | 2,824 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W |  |  | $ 42.5m | undsiclosed |  |
-| FEEDER | A KOBE | 1,800 | 2023 | J IANGSU YANGZI XINFU, C hina | MAN-B\&amp;W | Mar-28 |  | $ 28.0m | undisclosed | incl TC attached till May 2024 |
+| PMAX | J AC KSON BAY | 4,250 | 2007 | DALIAN, China | MAN-B&W | Apr-27 |  | $ 23.0m | French (C MA-C GM) |  |
+| SUB PMAX | C IMBRIA | 2,824 | 2002 | HYUNDAI MIPO, S. Korea | B&W | Oct-27 |  | $ 42.5m | undsiclosed |  |
+| SUB PMAX | CARDONIA | 2,824 | 2003 | HYUNDAI MIPO, S. Korea | B&W |  |  | $ 42.5m | undsiclosed |  |
+| FEEDER | A KOBE | 1,800 | 2023 | J IANGSU YANGZI XINFU, C hina | MAN-B&W | Mar-28 |  | $ 28.0m | undisclosed | incl TC attached till May 2024 |
 
 ## Secondhand Sales
 
 | Type | Name | Dwt | Yard | M/E | SS | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | KENT | 26,438 | HYUNDAI, S. Korea | MAN-B&W | MAN-B\&amp;W | May-27 | $ 34.0m | HK based |  |
+| LPG | KENT | 26,438 | HYUNDAI, S. Korea | MAN-B&W | MAN-B&W | May-27 | $ 34.0m | HK based |  |
 
 ---
 

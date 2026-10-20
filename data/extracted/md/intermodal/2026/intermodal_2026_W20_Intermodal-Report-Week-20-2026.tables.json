@@ -951,10 +951,10 @@
         "m_e": "MAN B\\&W",
         "ss_due": "Apr-29",
         "gear_hull": "4 X 30,5t CRANES",
-        "price_raw": "",
+        "price_raw": "region $ 120,0m enbloc",
         "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "buyers": "Norden",
+        "comments": "Eco",
         "source_file": "intermodal_2026_W20_Intermodal-Report-Week-20-2026.pdf"
       },
       {
@@ -969,10 +969,10 @@
         "m_e": "MAN B\\&W",
         "ss_due": "May-29",
         "gear_hull": "4 X 30,5t CRANES",
-        "price_raw": "",
+        "price_raw": "region $ 120,0m enbloc",
         "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "buyers": "Norden",
+        "comments": "Eco",
         "source_file": "intermodal_2026_W20_Intermodal-Report-Week-20-2026.pdf"
       },
       {
@@ -987,10 +987,10 @@
         "m_e": "MAN B\\&W",
         "ss_due": "Jun-29",
         "gear_hull": "4 X 30,5t CRANES",
-        "price_raw": "",
+        "price_raw": "region $ 120,0m enbloc",
         "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "buyers": "Norden",
+        "comments": "Eco",
         "source_file": "intermodal_2026_W20_Intermodal-Report-Week-20-2026.pdf"
       }
     ],

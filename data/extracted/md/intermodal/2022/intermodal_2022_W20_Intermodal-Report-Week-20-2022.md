@@ -27,7 +27,7 @@ It is evident that the supply levels will remain in the owner's favor; while ext
 
 The dry bulk market noted another week of great performance, underpinned primarily by the improving iron ore Brazil exports and an overall firm sentiment in the Pacific with both the Indonesian coal and Australian iron ore cargo volumes providing support. The BDI today (24/05/2022) closed at 3,253 points, up by 158 points compared to previous Tuesday's closing (17/05/2022). The crude carrier sectors remained under pressure still suppressing overall market sentiment and expectations as a result. The BDTI today (24/05/2022) closed at 1,119, an increase of 9 points, and the BCTI at 1,441, an increase of 50 point compared to previous Tuesday's (17/05/2022) levels.
 
-## Sale &amp; Purchase (Wet: Firmer / Dry: Firmer)
+## Sale & Purchase (Wet: Firmer / Dry: Firmer)
 
 The secondhand market appeared strong for yet another week with the wet sector leading the way. In the tanker sector, we had the sale of the "JAL SASVATA" (46,590dwt-blt '09, Japan), which was sold to undisclosed buyer, for a price in the region of \$17.0m. On the dry bulker side sector, we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-blt '17, China), which was sold to Greek buyers, for a price in the region of \$31.25m.
 
@@ -124,7 +124,7 @@ VLCC T/C earnings averaged \$ -24,179/day, down - \$ 3,029/day w-o-w. Rates were
 
 Suezmax T/C earnings averaged \$ 14,484/day, down - \$5,544/day w-o-w. West Africa TD20 route noted a small increase of 2.52WS points just before the end of the week yet with T/C earnings just at the \$9,202/day mark. Med market has suffered the largest discounts for another week, as both Suezmax and Aframax sectors have faced a longer position list against a lower volume of CPC cargoes. Pressure was also evident in North Europe with premiums now well below the levels we have used to witness. The bright spot was the USG market which show an improvement of 43.44WS points w-o-w. All in all, Aframax T/C earnings averaged \$20,668/day, down - \$6,119/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the MR2 sector we had the sale of the "JAL SASVATA" (46,590dwt-bl't '09, Japan), which was sold to undisclosed buyer, for a price in the region of \$17.0m.
 
@@ -193,7 +193,7 @@ Supramax 10TC averaged \$ 30.505/day, up + 0,92% w-o-w, while the Handysize 7TC 
 | **Ultramax** | **63k** | 34.3 | 33.6 | **2.2%** | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 29.0 | 28.7 | **1.0%** | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "AQUADIVA" (182,060dwt-blt '10, Denmark), which was sold to Greek owners TMS, for a price in the region of \$32.6m.
 
@@ -212,19 +212,19 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | SVET | 321,039 | 2013 | BOHAI, China | Wartsila | Nov-23 | DH | undisclosed | U.A.E. (Al Seer Marine) | BWTS fitted, distressed sale |
 | VLCC | SCF SHANGHAI | 320,701 | 2014 | BOHAI, China | Wartsila | Feb-24 | DH | undisclosed | U.A.E. (Al Seer Marine) | BWTS fitted, distressed sale |
-| VLCC | TRINITY STAR | 160,391 | 2008 | SAMSUNG, S. Korea | MAN-B&amp;W | May-23 | DH | $ 46.0m | Greek | BWTS fitted |
-| VLCC | TRINITY SUN | 159,233 | 2007 | HYUNDAI, S. Korea | MAN-B&amp;W | Jun-22 | DH | $ 46.0m | Greek |  |
+| VLCC | TRINITY STAR | 160,391 | 2008 | SAMSUNG, S. Korea | MAN-B&W | May-23 | DH | $ 46.0m | Greek | BWTS fitted |
+| VLCC | TRINITY SUN | 159,233 | 2007 | HYUNDAI, S. Korea | MAN-B&W | Jun-22 | DH | $ 46.0m | Greek |  |
 | VLCC | NEPTUN | 307,284 | 2007 | DALIAN, China | Wartsila | Jul-22 | DH | $ 30.8m | Asian |  |
 | VLCC | NUCLEUS | 307,284 | 2007 | DALIAN, China | Wartsila | Oct-22 | DH | $ 30.8m | Asian |  |
 | AFRA | LOMONOSOV PROSPECT | 113,226 | 2018 | HYUNDAI, S. Korea | Wartsila | Oct-23 | DH | $ 40.8m | Greek (Capital) | BWTS fitted, Ice 1A, dual fuelled |
 | AFRA | MENDELEEV PROSPECT | 113,189 | 2018 | HYUNDAI, S. Korea | Wartsila | Nov-23 | DH | $ 40.8m | Greek (Capital) | BWTS fitted, Ice 1A, dual fuelled |
 | AFRA | KUTUZOVSKY PROSPECT | 113,170 | 2018 | HYUNDAI, S. Korea | Wartsila | Jul-23 | DH | $ 40.8m | Greek (Capital) | BWTS fitted, Ice 1A, dual fuelled |
 | AFRA | SAMUEL PROSPECT | 113,095 | 2019 | HYUNDAI, S. Korea | Wartsila | Apr-24 | DH | $ 40.8m | Greek (Capital) | BWTS fitted, Ice 1A, dual fuelled |
-| LR1 | BW ORINOCO | 76,580 | 2007 | DALIAN, China | MAN-B&amp;W | Nov-22 | DH | $ 11.8m | German (CST) |  |
-| LR1 | BW LENA | 76,578 | 2007 | DALIAN, China | MAN-B&amp;W | Aug-22 | DH | $ 11.8m | German (CST) |  |
-| MR2 | JAL SASVATA | 46,590 | 2009 | NAIKAI ZOSEN, Japan | MAN-B&amp;W | Apr-24 | DH | $ 17.0m | undisclosed | BWTS fitted, CPP |
-| MR1 | CLAXTON BAY | 36,686 | 2010 | HYUNDAI, S. Korea | MAN-B&amp;W | Jan-25 | DH | $ 15.6m | Greek | BWTS fitted, dely Med |
-| MR1 | GOLD OCEAN | 37,320 | 2007 | STX, S. Korea | MAN-B&amp;W | Jan-27 | DH | $ 10.0m | European | BWTS fitted |
+| LR1 | BW ORINOCO | 76,580 | 2007 | DALIAN, China | MAN-B&W | Nov-22 | DH | $ 11.8m | German (CST) |  |
+| LR1 | BW LENA | 76,578 | 2007 | DALIAN, China | MAN-B&W | Aug-22 | DH | $ 11.8m | German (CST) |  |
+| MR2 | JAL SASVATA | 46,590 | 2009 | NAIKAI ZOSEN, Japan | MAN-B&W | Apr-24 | DH | $ 17.0m | undisclosed | BWTS fitted, CPP |
+| MR1 | CLAXTON BAY | 36,686 | 2010 | HYUNDAI, S. Korea | MAN-B&W | Jan-25 | DH | $ 15.6m | Greek | BWTS fitted, dely Med |
+| MR1 | GOLD OCEAN | 37,320 | 2007 | STX, S. Korea | MAN-B&W | Jan-27 | DH | $ 10.0m | European | BWTS fitted |
 | SMALL | MEHMET A | 20,522 | 2011 | TURKTER, Turkey | MaK | Oct-26 | DH | $ 10.0m | undisclosed | Marineline, Ice 1A, BWTS fitted. Dely 8/22 |
 | SMALL | BRO NYBORG | 16,564 | 2007 | QIUXIN, China | Wartsila |  | DH | undisclosed | Norwegian |  |
 | SMALL | BRO NIBE | 16,534 | 2007 | QIUXIN, China | Wartsila | Apr-27 | DH | undisclosed | Norwegian |  |
@@ -241,18 +241,18 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | AQUADIVA | 182,060 | 2010 | ODENSE, Denmark | MAN-B\&amp;W | Feb-25 |  | $ 32.6m | Greek (TMS) | BWTS fitted |
-| CAPE | MOUNT NEVIS | 177,005 | 2005 | NAMURA, Japan | MAN-B\&amp;W | Sep-25 |  | $ 20.5m | Greek |  |
+| CAPE | AQUADIVA | 182,060 | 2010 | ODENSE, Denmark | MAN-B&W | Feb-25 |  | $ 32.6m | Greek (TMS) | BWTS fitted |
+| CAPE | MOUNT NEVIS | 177,005 | 2005 | NAMURA, Japan | MAN-B&W | Sep-25 |  | $ 20.5m | Greek |  |
 | CAPE | FORMOSA BULK CLEMENT | 170,085 | 2001 | IHI, Japan | Sulzer | Jul-26 |  | $ 13.8m | undisclosed |  |
-| PMAX | ROSCO BANYAN | 74,967 | 2010 | SASEBO, Japan | MAN-B\&amp;W | Oct-25 |  | $ 24.0m | Greek |  |
-| UMAX | YANGZHOU CONFIDENCE | 63,165 | 2017 | YANGZHOU, China | MAN-B\&amp;W | May-27 | 4 X 35t CRANES | $ 31.25m | Greek | BWTS fitted |
-| UMAX | ATLANTIC MANZANILLO | 63,590 | 2016 | SHIN KASADO, Japan | MAN-B\&amp;W | Apr-26 | 4 X 30,7t CRANES | $ 33.3m | undisclosed | BWTS fitted |
-| SUPRA | EVANS | 53,507 | 2009 | ZHEJIANG, China | MAN-B\&amp;W | Apr-24 | 4 X 35t CRANES | $ 16.2m | undisclosed | BWTS fitted |
-| SUPRA | CRESTONE | 53,406 | 2009 | ZHEJIANG, China | MAN-B\&amp;W | Aug-24 | 4 X 35t CRANES | $ 16.2m | undisclosed | BWTS fitted |
-| SUPRA | NIKOLAOS A. | 53,806 | 2003 | NEW TIMES, China | B\&amp;W | Mar-23 | 4 X 40t CRANES | $ 14.35m | undisclosed |  |
-| HMAX | FORTUNE LORD | 45,600 | 1997 | TSUNEISHI, Japan | B\&amp;W | Sep-22 | 4 X 30t CRANES | excess $ 7.0m | undisclosed |  |
-| HANDY | CAPE MORETON | 32,959 | 2010 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Feb-25 | 4 X 30,5t CRANES | low $ 15.0m | Chinese |  |
-| HANDY | LION | 27,917 | 1996 | NAIKAI ZOSEN, Japan | B\&amp;W | Jul-26 | 4 X 30t CRANES | low $ 8.0m | undisclosed |  |
+| PMAX | ROSCO BANYAN | 74,967 | 2010 | SASEBO, Japan | MAN-B&W | Oct-25 |  | $ 24.0m | Greek |  |
+| UMAX | YANGZHOU CONFIDENCE | 63,165 | 2017 | YANGZHOU, China | MAN-B&W | May-27 | 4 X 35t CRANES | $ 31.25m | Greek | BWTS fitted |
+| UMAX | ATLANTIC MANZANILLO | 63,590 | 2016 | SHIN KASADO, Japan | MAN-B&W | Apr-26 | 4 X 30,7t CRANES | $ 33.3m | undisclosed | BWTS fitted |
+| SUPRA | EVANS | 53,507 | 2009 | ZHEJIANG, China | MAN-B&W | Apr-24 | 4 X 35t CRANES | $ 16.2m | undisclosed | BWTS fitted |
+| SUPRA | CRESTONE | 53,406 | 2009 | ZHEJIANG, China | MAN-B&W | Aug-24 | 4 X 35t CRANES | $ 16.2m | undisclosed | BWTS fitted |
+| SUPRA | NIKOLAOS A. | 53,806 | 2003 | NEW TIMES, China | B&W | Mar-23 | 4 X 40t CRANES | $ 14.35m | undisclosed |  |
+| HMAX | FORTUNE LORD | 45,600 | 1997 | TSUNEISHI, Japan | B&W | Sep-22 | 4 X 30t CRANES | excess $ 7.0m | undisclosed |  |
+| HANDY | CAPE MORETON | 32,959 | 2010 | JIANGMEN NANYANG, China | MAN-B&W | Feb-25 | 4 X 30,5t CRANES | low $ 15.0m | Chinese |  |
+| HANDY | LION | 27,917 | 1996 | NAIKAI ZOSEN, Japan | B&W | Jul-26 | 4 X 30t CRANES | low $ 8.0m | undisclosed |  |
 
 ## Containers
 | Sector | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
@@ -260,7 +260,7 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 | FEEDER | MAERSK NIAGARA | 2,556 | 2008 | HYUNDAI, S. Korea | Wartsila | Nov-23 | 4 X 40t CRANES |  |  | Ice class 1A |
 | FEEDER | MAERSK NIAMEMY | 2,556 | 2009 | HYUNDAI, S. Korea | Wartsila | Mar-24 | 4 X 40t CRANES | $ 150.0m | European | Ice class 1A |
 | FEEDER | MAERSK NIJMEGEN | 2,556 | 2009 | HYUNDAI, S. Korea | Wartsila | May-24 | 4 X 40t CRANES |  |  | Ice class 1A |
-| FEEDER | HANSA COBURG | 1,740 | 2007 | GUANGZHOU WENCHONG, China | MAN-B&amp;W | Apr-22 | 2 X 40t CRANES | $ 30.0m | French (CMA CGM) |  |
+| FEEDER | HANSA COBURG | 1,740 | 2007 | GUANGZHOU WENCHONG, China | MAN-B&W | Apr-22 | 2 X 40t CRANES | $ 30.0m | French (CMA CGM) |  |
 | FEEDER | CONMAR AVENUE | 1,036 | 2012 | JIANGDONG, China | MAN | Oct-22 |  | undisclosed | German (Ernst Russ AG) |  |
 
 © Intermodal Research 24/05/2022 5
@@ -272,10 +272,10 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | COUGAR | 54,450 | 2015 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jun-25 | 82,320 | $ 70.0m | Japanese | 10 yrs sale &amp; lease back |
+| LPG | COUGAR | 54,450 | 2015 | HYUNDAI, S. Korea | MAN-B&W | Jun-25 | 82,320 | $ 70.0m | Japanese | 10 yrs sale & lease back |
 | LPG | JAG VIJAYA | 26,897 | 1997 | MITSUBISHI, Japan | Mitsubishi | Jul-22 | 34,712 | $ 9.5m | Chinese |  |
-| LPG | SIBUR VORONEZH | 22,780 | 2013 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-23 | 20,311 | undisclosed | U.A.E. (Al Seer Marine) |  |
-| LPG | SIBUR TOBOL | 22,765 | 2013 | HYUNDAI, S. Korea | MAN-B\&amp;W | Sep-23 | 20,311 | undisclosed | U.A.E. (Al Seer Marine) |  |
+| LPG | SIBUR VORONEZH | 22,780 | 2013 | HYUNDAI, S. Korea | MAN-B&W | Jul-23 | 20,311 | undisclosed | U.A.E. (Al Seer Marine) |  |
+| LPG | SIBUR TOBOL | 22,765 | 2013 | HYUNDAI, S. Korea | MAN-B&W | Sep-23 | 20,311 | undisclosed | U.A.E. (Al Seer Marine) |  |
 | LPG | MARIGOLA | 17,779 | 1999 | SESTRI, Italy | Sulzer | Oct-24 | 17,559 | low $ 8.0m | undisclosed |  |
 
 © Intermodal Research 24/05/2022 6

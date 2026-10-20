@@ -157,17 +157,17 @@ The Handysize segment saw uneven performance last week, with rates edging higher
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | OCEAN START | 158,280 | 2005 | HYUNDAI, S. Korea | MAN B\&amp;W | Jun-28 | DH | $ 47.4m | undisclosed | Scrubber fitted |
-| MR | LVM AARON | 50,927 | 2014 | DAE SUN, S. Korea | MAN B\&amp;W | May-29 | DH | $ 35.5m | Turkish | Eco |
-| MR | GRAN COUVA | 47,128 | 2008 | HYUNDAI, S. Korea | MAN B\&amp;W | Oct-28 | DH | $ 19.25m | undisclosed | DD due |
+| SUEZ | OCEAN START | 158,280 | 2005 | HYUNDAI, S. Korea | MAN B&W | Jun-28 | DH | $ 47.4m | undisclosed | Scrubber fitted |
+| MR | LVM AARON | 50,927 | 2014 | DAE SUN, S. Korea | MAN B&W | May-29 | DH | $ 35.5m | Turkish | Eco |
+| MR | GRAN COUVA | 47,128 | 2008 | HYUNDAI, S. Korea | MAN B&W | Oct-28 | DH | $ 19.25m | undisclosed | DD due |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ULTRA | IVS DUNES | 62,661 | 2020 | OSHIMA, Japan | MAN B\&amp;W | Sep-30 | 4 x 30t CRANES | $ 36.8m | Chinese | Eco |
-| SUPRA | STENIA COLOSSUS | 58,731 | 2011 | KAWASAKI, Japan | MAN B\&amp;W | Mar-31 | 4 x 30.5t CRANES | $ 20.5m | undisclosed |  |
-| SUPRA | COLUMBIA RIVER | 55,922 | 2006 | MITSUI, Japan | MAN B\&amp;W | Oct-26 | 4 x 30t CRANES | low $ 13.0m | Chinese | surveys due, Scrubber fitted |
-| SUPRA | SILVER STAR | 55,725 | 2006 | NACKS, China | MAN B\&amp;W | Aug-30 | 4 x 30t CRANES | $ 8.6m | Turkish |  |
+| ULTRA | IVS DUNES | 62,661 | 2020 | OSHIMA, Japan | MAN B&W | Sep-30 | 4 x 30t CRANES | $ 36.8m | Chinese | Eco |
+| SUPRA | STENIA COLOSSUS | 58,731 | 2011 | KAWASAKI, Japan | MAN B&W | Mar-31 | 4 x 30.5t CRANES | $ 20.5m | undisclosed |  |
+| SUPRA | COLUMBIA RIVER | 55,922 | 2006 | MITSUI, Japan | MAN B&W | Oct-26 | 4 x 30t CRANES | low $ 13.0m | Chinese | surveys due, Scrubber fitted |
+| SUPRA | SILVER STAR | 55,725 | 2006 | NACKS, China | MAN B&W | Aug-30 | 4 x 30t CRANES | $ 8.6m | Turkish |  |
 | HMAX | OCEAN GLORY | 48,437 | 2001 | NACKS, China | SULZER | Oct-26 | 4 x 30t CRANES | $ 5.8m | undisclosed |  |
 | HANDY | ANSAC PRIDE | 37,094 | 2013 | ONOMICHI, Japan | MITSUBISHI | Jun-28 | 4 x 30t CRANES | $ 18.5m | Vietnamese | OHBS |
 
@@ -179,7 +179,7 @@ The newbuilding activity continued on a robust pace, recording 10 orders for 50 
 
 In the dry bulk segment, H-Line ordered 2 LNG dual fuel bulkers of 210k dwt each at New Times Shipbuilding, priced at \$94m apiece and due for delivery in 2030, against TC with Posco. CSSC HK Shipping contracted Chengxi Shipyard for 10 grain carriers of 80k dwt, at \$48.1m per vessel, with delivery for 2029-2030, against TC with Cofco International. YZJ Maritime also booked 6+4 bulkers of 64.5k dwt at Jingjiang Nanyang, valued at \$36m per unit and due for delivery in 2029.
 
-On the tanker side, Sea Pioneer placed an order for 6+2 units of 115k dwt at SK Oceanplant, priced at \$71.6m each and scheduled for delivery in 2030. YZJ Maritime booked 2 methanol ready tankers of 49.8k dwt at Qidong Qianyao HI, for delivery in 2030. Schoeller Holdings ordered a quarter of 50k dwt product tankers at Chengxi Shipyard, valued at \$45m per vessel and due for delivery in 2029-2030, while Leonhardt &amp; Blumberg ordered 2 tankers of 49.5k dwt at GSI, for delivery in 2029.
+On the tanker side, Sea Pioneer placed an order for 6+2 units of 115k dwt at SK Oceanplant, priced at \$71.6m each and scheduled for delivery in 2030. YZJ Maritime booked 2 methanol ready tankers of 49.8k dwt at Qidong Qianyao HI, for delivery in 2030. Schoeller Holdings ordered a quarter of 50k dwt product tankers at Chengxi Shipyard, valued at \$45m per vessel and due for delivery in 2029-2030, while Leonhardt & Blumberg ordered 2 tankers of 49.5k dwt at GSI, for delivery in 2029.
 
 In containerships, Yang Ming Marine ordered 6 LNG/Ammonia ready 13.65k teu units at Hanwha Ocean, priced at \$188.9m per unit, estimated for 2028-2029. Bayraktar contracted CMHI Wuhan Qingshan for 2+2 containerships of 1.8k teu, priced at \$32m apiece, with delivery for 2028-2029. Elsewhere, Ray Car Carriers booked 10 LNG dual fuel 8.2k ceu PCTCs at GSI, priced at \$100m each and delivery spanning in 2028-2031.
 
@@ -208,7 +208,7 @@ In containerships, Yang Ming Marine ordered 6 LNG/Ammonia ready 13.65k teu units
 | 6+2 | Tanker | 115,000 dwt | SK Oceanplant, S. Korea | 2030 | Greek (Sea Pioneer) | $ 71.6m |  |
 | 2 | Tanker | 49,800 dwt | Qidong Qianyao HI, China | 2030 | Chinese (YZ) Maritime | undisclosed | Methanol ready |
 | 4 | Tanker | 50,000 dwt | Chengxi Shipyard, China | 2029-2030 | Cyprus based (Schoeller Holdings) | $ 45.0m |  |
-| 2 | Tanker | 49,500 dwt | GSI, China | 2029 | German (Leonhardt &amp; Blumberg) | undisclosed |  |
+| 2 | Tanker | 49,500 dwt | GSI, China | 2029 | German (Leonhardt & Blumberg) | undisclosed |  |
 | 6 | Containership | 13,650 teu | Hanwha Ocean, S. Korea | 2028-2029 | Taiwanese (Yang Ming Marine) | $ 188.9m | LNG/Ammonia ready |
 | 2+2 | Containership | 1,800 teu | CMHI Wuhan Qingshan, China | 2028-2029 | Turkish (Bayraktar) | $ 32.0m |  |
 | 10 | PCTC | 8,200 | ceu | GSI, China | 2028-2031 | UK based (Ray Car Carriers) | $ 100.0m |

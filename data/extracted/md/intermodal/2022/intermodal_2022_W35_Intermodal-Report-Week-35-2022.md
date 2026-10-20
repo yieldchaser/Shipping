@@ -28,7 +28,7 @@ Conclusively, some smaller players have emerged which could potentially absorb m
 
 The Capesize sectors regained some points albeit still remaining at the lowest place. The rest of the sizes ended up the week with discounts amidst limited fresh requirements. The BDI today (06/09/2022) closed at 1,114 points, up by 97 points compared to previous Tuesday's closing (30/08/2022). Sentiment across the crude carrier sectors was overall subdued, yet the drop in bunker costs helped owners to maintain their average T/C earnings. The BDTI today (06/09/2022) closed at 1,439, a decrease of 87 points and the BCTI at 1,180, a decrease of 80 point compared to previous Tuesday's (30/08/2022) levels.
 
-## **Sale &amp; Purchase (Wet: Firmer / Dry: Stable-)**
+## **Sale & Purchase (Wet: Firmer / Dry: Stable-)**
 
 The Dry bulk secondhand market remains subdued. At the same time, SnP tanker activity continues at robust levels with last week's list concerning exclusively the clean tanker sector. In the tanker sector, we had the sale of the "LILA FUJAIRAH" (113,849dwt-blt '07, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$27.8m. On the dry bulker side sector we had the auction sale of the "ZHONG LIAN SI FANG" (73,747dwt-blt '00, Japan), which was sold to undisclosed buyers, for a price in the region of \$10.6m.
 
@@ -123,7 +123,7 @@ VLCC T/C earnings averaged \$18,752/day, down - \$1,716/day w-o-w with all regio
 
 Suezmax T/C earnings averaged \$56,440/day, up +4,725/day w-o-w. Both the Med and West Africa markets suffered discounts with TD6 and TD20 declining by 6.11WS and 4.32WS points respectively. AG was the only positive exception with TD23 improving by 2.34WS points w-o-w. Aframax T/C earnings averaged \$50,141/day, down - \$2,850/day w-o-w. Caribs market lost further ground with TD9 down by 43.13WS points w-o-w. North European tonnage list widened during the past week amidst insufficient offered cargoes.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the LR2 sector we had the sale of the "LILA FUJAIRAH" (113,849dwt-blt '07, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$27.8m.
 
@@ -192,7 +192,7 @@ Supramax 10TC averaged \$ 17,573/day, down - 9.18% w-o-w, while the Handysize 7T
 | **Ultramax** | **63k** | 31.0 | 32.3 | -3.9% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 17.0 | 27.8 | -38.7% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Panamax sector we had the auction sale of the "ZHONG LIAN SI FANG" (73,747dwt-blt '00, Japan), which was sold to undisclosed buyers, for a price in the region of \$10.6m.
 

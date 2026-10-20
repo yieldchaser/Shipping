@@ -32,7 +32,7 @@ Currently, the shipping industry must navigate through geopolitical developments
 
 The dry bulk market remains in very good shape, as with the exception of the Capesize sector, the rest of the sizes continue to offer exceptional gains for owners. The BDI today (19/04/2022) closed at 2,115 points, up by 80 points compared to previous Tuesday's closing (12/04/2022). The past week saw the crude carrier market losing some steam, yet its performance has considerably evaded the unhealthy levels of the past two years. The BDTI today (19/04/2022) closed at 1,680, a decrease of 64 points, and the BCTI at 1052, an increase of 59 points compared to previous Tuesday's (12/04/2022) levels.
 
-## Sale &amp; Purchase (**Wet: Firmer / Dry: Firmer**&gt;)
+## Sale & Purchase (**Wet: Firmer / Dry: Firmer**&gt;)
 
 SnP activity remained strong for yet another week, with buyers in the tanker realm focusing mostly on the clean sector while firm interest was noticeable across all dry bulk sizes. In the tanker sector, we had sale of the "BANDA SEA" (105,576dwt-bl't '07, Japan), which was sold to Greek buyers, for a price in the region of \$21.0m. On the dry bulker side sector, we had the sale of the "ROSCO PALM" (82,153dwt-bl't '11, China), which was sold to undisclosed buyers, for a price in the region of \$26.0m.
 
@@ -132,7 +132,7 @@ VLCC T/C earnings averaged \$ -5,893/day, up + \$4,258/day w-o-w. All routes rec
 
 Suezmax T/C earnings averaged \$104,701/day, up + \$12,112/day w-o-w. West Africa TD20 route lost 16.14WS points with TD6 Blacksea/Med business suffering a 7.78WS points discount. Aframax T/C earnings averaged \$ 88,898/day, up + \$16,799/day w-o-w. The North European market provided most of the support, while Cross-Med trips lost 4.81WS points w-o-w. This week Libya's force of majeure declaration of El Feel and El Sharara field which total a 370,000 bbl/day production loss, could add pressure on the respective region.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Aframax sector we had sale of the "BANDA SEA" (105,576dwt-blt '07, Japan), which was sold to Greek buyers, for a price in the region of \$21.0m.
 
@@ -203,9 +203,9 @@ Supramax 10TC averaged \$27,170/day, down – 5.22% w-o-w, while the Handysize 7
 | Ultramax | 63k | 33.3 | 32.6 | 2.2% | 26.4 | 19.4 | 22.6 |
 | Handysize | 37K | 28.5 | 28.0 | 1.8% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the Kamsarmax sector we had the sale of the “ROSCO PALM” (82,153dwt-blt '11, China), which was sold to undisclosed buyers, for a price in the region of \$26.0m.
 

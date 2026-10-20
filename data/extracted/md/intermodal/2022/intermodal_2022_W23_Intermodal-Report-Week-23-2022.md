@@ -23,7 +23,7 @@ The supposed "Rogue" fleet that used to pick up cargoes from Venezuela or Iran i
 
 The fleet mainly consisted of Aframaxes and some Suezmaxes that will be delivering their cargoes to India, Malaysia, or China. - this market is not related to current Aframax / Suezmax rates that that will not trade to Russia.
 
-Nevertheless, still, most of the Owners are exercising the proper due diligence when calling Russian ports via their legal / P&amp;I clubs avoiding facing any sanctions or listed ships later.
+Nevertheless, still, most of the Owners are exercising the proper due diligence when calling Russian ports via their legal / P&I clubs avoiding facing any sanctions or listed ships later.
 
 ## CPP
 
@@ -41,7 +41,7 @@ High bunker prices that are mainly driven by Oil prices and demand are also push
 
 Rates across the dry bulk market noted a downward correction during the past week. The BDI today (14/06/2022) closed at 2,284 points, down by 230 points compared to previous Tuesday's closing (07/06/2022). Earnings across the crude carrier sectors continue to struggle for another week as the demand/supply mismatch remains in place. The BDTI today (14/06/2022) closed at 1,147, an increase of 58 points and the BCTI at 1,621, an increase of 213 point compared to previous Tuesday's (07/06/2022) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: Softer)
+## Sale & Purchase (Wet: Softer / Dry: Softer)
 
 The Posidonia event kept owners' attention distracted, which was evident in the SnP activity with only a handful of dry bulk and tanker sales materializing. In the tanker sector, we had the sale of the "NORDIC MOON" (160,200dwt-blt '02, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$16.0m. On the dry bulker side sector, we had the sale of the "HL PRIDE" (179,656dwt-blt '16, China), which was sold to US based owner JP Morgan, for a price in the region of low-mid \$45.0m.
 
@@ -134,7 +134,7 @@ VLCC T/C earnings averaged \$ -33,417/day, down - \$580/day w-o-w. Middle East m
 
 Suezmax T/C earnings averaged \$ 7,279/day, down - \$2,384/day w-o-w. Similar to its bigger counterpart, rates remained overall steady w-o-w despite an improvement in the overall activity. At the same time, increased bunker prices have further pressured T/C earnings which are still hovering below OPEX levels. Aframax T/C earnings averaged \$ 13,539/day, down - \$978/day w-o-w. Healthy Med market activity materialized amidst a shortage of open vessels with charterers facing difficulties to cover their prompt cargoes. As a result, TD19 route saw an improvement of 49.81WS points w-o-w. USG market saw another week of discounts while in North Europe, the sentiment was steady to firm yet with rates showing a very small uptick w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had the sale of the "NORDIC MOON" (160,200dwt-bl't '02, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$16.0m.
 
@@ -203,7 +203,7 @@ Supramax 10TC averaged \$ 28,376/day, down – 5.86% w-o-w, while the Handysize 
 | **Ultramax** | **63k** | 34.5 | 34.4 | **0.4%** | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 29.0 | 29.0 | 0.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "HL PRIDE" (179,656dwt-blt '16, China), which was sold to US based owner JP Morgan, for a price in the region of low-mid \$45.0m.
 

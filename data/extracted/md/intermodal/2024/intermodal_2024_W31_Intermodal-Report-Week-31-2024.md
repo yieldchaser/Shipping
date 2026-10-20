@@ -153,13 +153,13 @@ Supramax 10TC averaged \$ 14,998/day down -1.36% w-o-w, while the Handysize 7TC 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | THERESA GUANGDONG | 81,905 | 2012 | JIANGSU EASTERN, China | MAN-B\&amp;W | May-27 |  | $ 57.3m | Chinese (Fujian Highton Development) |  |
-| KMAX | THERESA JIANGSU | 81,680 | 2012 | SAINTY, China | MAN-B\&amp;W | Mar-27 |  | $ 57.3m | Chinese (Fujian Highton Development) |  |
-| KMAX | THERESA JILIN | 81,610 | 2012 | SAINTY, China | MAN-B\&amp;W | Jun-27 |  | $ 57.3m | Chinese (Fujian Highton Development) |  |
-| UMAX | JAL KAMAL | 63,319 | 2020 | IMABARI, Japan | MAN-B\&amp;W | Feb-25 | 4 X 30,7t CRANES | $ 37.8m | European |  |
-| SUPRA | SUZAKU | 54,881 | 2006 | OSHIMA, Japan | MAN-B\&amp;W | Jul-26 | 4 X 30t CRANES | region $ 14.0m | Chinese |  |
+| KMAX | THERESA GUANGDONG | 81,905 | 2012 | JIANGSU EASTERN, China | MAN-B&W | May-27 |  | $ 57.3m | Chinese (Fujian Highton Development) |  |
+| KMAX | THERESA JIANGSU | 81,680 | 2012 | SAINTY, China | MAN-B&W | Mar-27 |  | $ 57.3m | Chinese (Fujian Highton Development) |  |
+| KMAX | THERESA JILIN | 81,610 | 2012 | SAINTY, China | MAN-B&W | Jun-27 |  | $ 57.3m | Chinese (Fujian Highton Development) |  |
+| UMAX | JAL KAMAL | 63,319 | 2020 | IMABARI, Japan | MAN-B&W | Feb-25 | 4 X 30,7t CRANES | $ 37.8m | European |  |
+| SUPRA | SUZAKU | 54,881 | 2006 | OSHIMA, Japan | MAN-B&W | Jul-26 | 4 X 30t CRANES | region $ 14.0m | Chinese |  |
 | SUPRA | MONICA D | 52,478 | 2001 | SHIN KURUSHIMA, Japan | Mitsubishi | Dec-26 | 4 X 30,5t CRANES | $ 7.8m | undisclosed |  |
-| HANDY | BUNUN GLORY | 37,000 | 2015 | SAIKI, Japan | MAN-B\&amp;W | Apr-25 | 4 X 30,5t CRANES | region $ 21,5m | Turkish (Manta) | Eco |
+| HANDY | BUNUN GLORY | 37,000 | 2015 | SAIKI, Japan | MAN-B&W | Apr-25 | 4 X 30,5t CRANES | region $ 21,5m | Turkish (Manta) | Eco |
 
 ---
 

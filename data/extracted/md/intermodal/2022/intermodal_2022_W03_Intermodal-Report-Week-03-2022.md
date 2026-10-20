@@ -15,7 +15,7 @@ Issue: Week 03 | Tuesday 25<sup>th</sup> January 2022
 **By Nassos Soulakis,**
 **SnP Broker**
 
-While it is logical that most of the S&amp;P reports of the first weeks of the year are linked to very limited activity as reflected in the weekly tables with the concluded deals in the DRY market - a phenomenon common in the first months of the year characterized by low seasonality - there is another indicator that would be in our opinion more representative of the trends to prevail in relation to the activity in dry S&amp;P. This indicator is the intensity of the movements/interest one notices before the completion of a deal by potential buyers. And while the number of deals is easily quantified in numbers in the context of a table, the above-mentioned indicator is a qualitative / empirical one, possibly entailing a greater weight on the trend that will follow in numbers.
+While it is logical that most of the S&P reports of the first weeks of the year are linked to very limited activity as reflected in the weekly tables with the concluded deals in the DRY market - a phenomenon common in the first months of the year characterized by low seasonality - there is another indicator that would be in our opinion more representative of the trends to prevail in relation to the activity in dry S&P. This indicator is the intensity of the movements/interest one notices before the completion of a deal by potential buyers. And while the number of deals is easily quantified in numbers in the context of a table, the above-mentioned indicator is a qualitative / empirical one, possibly entailing a greater weight on the trend that will follow in numbers.
 
 More specifically, during the last few weeks, we have observed a gradual rise in buying interest that translates both into new purchase enquiries and reactivation of older ones that had come to a halt in the last months of the year. This activity, in no way, comes close to the one we experienced in September/October 2021, but it is a satisfactory basis to hint an increase in buying and selling soon after the freight market stabilizes and starts to show direction following the Chinese New Year and more so after the Winter Olympics. This will help to reduce the gap that has been created between the prices offered by buyers and demanded by sellers, which has so far kept benchmark values resilient despite the freight market slump. The course of the deals will surely be reinforced by any new ships for sale that usually enter the market after CNY mainly from the Japanese market. Also, let's not forget that this year, ships built in 2007 and 2012, with 2007 being the beginning and 2012 the peak of the wave of new-buildings deliveries in dry, reach 15 and 10 years respectively with what this entails for their special survey dates and the current policy of fleet renewal by shipowners, so increased circulation of assets of this age bracket is likely to be observed.
 
@@ -25,7 +25,7 @@ As far as tankers are concerned, the relative stability to lackluster freight le
 
 The dry bulk market continued its downward trajectory last week. The Capesize sector suffered the largest discounts (BCI down by 40.4%) weighed down by a weak Pacific market with its average T/C earnings barely covering OPEX levels. The BDI today (25/01/2022) closed at 1,343 points, down by 301 points compared to previous Tuesday's closing (18/01/2022). Another disappointing week for the crude carrier market with the negative impact of the increasing bunker prices bringing further pressure on earnings. The BDTI today (25/01/2022) closed at 691, a decrease of 3 points, and the BCTI at 543, a decrease of 38 point compared to previous Tuesday's (18/01/2022) levels.
 
-## Sale &amp; Purchase (Wet: Firmer / Dry: Firmer)
+## Sale & Purchase (Wet: Firmer / Dry: Firmer)
 
 Interest for both tanker and dry bulk secondhand units was robust last week. The clean sector monopolized the SnP tanker activity while handysize bulk carries attracted most of the interest in the dry realm. However, what got our attention was the huge enbloc deals of twelve LR1 and Handysize bulkers from Singapore based Hafnia and German owner Oscar Wehr respectively. In the tanker sector, we had sale of the “KAVERI SPIRIT” (159,100dwt-blt '04, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$15.8m. On the dry bulker side sector, we had the sale of the “BAOSTEEL ELEVATION” (206,312dwt-blt '07, Japan), which was sold to Greek buyers, for a price in the region of \$18.0m.
 
@@ -125,9 +125,9 @@ VLCC T/C earnings averaged \$ -15,179/day, down - \$2,294/day w-o-w. Rates acros
 
 Suezmax T/C earnings averaged \$ -2,860/day, down - \$283/day. A busier West Africa market coupled with an injection of mid-February cargoes in the Med, boosted sentiment and w-o-w rate improvements materialized at the regions. On the other hand, MEG's performance remained subdued. Aframax T/C earnings averaged \$ 3,678, down - \$1,795/day. In the North European region, rates suffered further discounts despite some early February cargoes that were flowed in the market. In the Med, the week started with gains, however, mid-week sentiment turned negative with charterers managing to regain some control.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the Suezmax sector we had sale of the "KAVERI SPIRIT" (159,100dwt-blt '04, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$15.8m.
 
@@ -196,7 +196,7 @@ Supramax 10TC averaged approx. \$19,884/day down -6.9% w-o-w, with the Atlantic 
 | **Ultramax** | **63k** | 30.5 | 30.5 | 0.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 26.5 | 26.0 | 1.9% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Newcastlemax sector we had the sale of the "BAOSTEEL ELEVATION" (206,312dwt-blt '07, Japan), which was sold to Greek buyers, for a price in the region of \$18.0m.
 
@@ -211,23 +211,23 @@ In the Supramax sector we had the sale of the "WEST WIND" (56,557dwt-blt '08, Ja
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | KAVERI SPIRIT | 159,100 | 2004 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Jan-24 | DH | $ 15.8m | undisclosed |  |
-| LR1 | STI PRIDE | 74,997 | 2016 | SPP, S. Korea | MAN-B\&amp;W | Jul-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STI PROVIDENCE | 74,997 | 2016 | SPP, S. Korea | MAN-B\&amp;W | Aug-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STI PRECISION | 74,997 | 2016 | SPP, S. Korea | MAN-B\&amp;W | Oct-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STI PRESTIGE | 74,997 | 2016 | SPP, S. Korea | MAN-B\&amp;W | Nov-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STI EXPERIENCE | 74,669 | 2016 | STX, S. Korea | MAN-B\&amp;W | Mar-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STI EXCELSIOR | 74,665 | 2016 | STX, S. Korea | MAN-B\&amp;W | Jan-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STI EXCEED | 74,665 | 2016 | STX, S. Korea | MAN-B\&amp;W | Feb-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STI EXPRESS | 74,663 | 2016 | STX, S. Korea | MAN-B\&amp;W | May-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STI EXPEDITE | 74,634 | 2016 | STX, S. Korea | MAN-B\&amp;W | Jan-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STI EXCELLENCE | 74,613 | 2016 | STX, S. Korea | MAN-B\&amp;W | May-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STI EXCEL | 74,547 | 2015 | STX, S. Korea | MAN-B\&amp;W | Nov-25 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STI EXECUTIVE | 74,431 | 2016 | STX, S. Korea | MAN-B\&amp;W | May-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
-| LR1 | STENA PERROS | 65,086 | 2007 | BRODOSPLIT, Croatia | MAN-B\&amp;W | Dec-22 | DH | $ 11.25m | Nigerian (Crowley Marine) | ICE 1B |
-| MR2 | STI MAJESTIC | 47,499 | 2019 | HYUNDAI VINASHIN, Vietnam | MAN-B\&amp;W | Jan-24 | DH | $ 35.0m | Italian (Pillarstone) | scrubber fitted |
-| MR1 | KEREL | 37,297 | 2002 | HYUNDAI MIPO, S. Korea | B\&amp;W | Jan-22 | DH | low $9.0m (en bloc) | undisclosed | SS/DD due |
-| MR1 | BALTIC SOUL | 37,244 | 2001 | HYUNDAI MIPO, S. Korea | B\&amp;W |  | DH | low $9.0m (en bloc) | undisclosed | SS/DD due |
+| SUEZ | KAVERI SPIRIT | 159,100 | 2004 | HYUNDAI ULSAN, S. Korea | B&W | Jan-24 | DH | $ 15.8m | undisclosed |  |
+| LR1 | STI PRIDE | 74,997 | 2016 | SPP, S. Korea | MAN-B&W | Jul-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STI PROVIDENCE | 74,997 | 2016 | SPP, S. Korea | MAN-B&W | Aug-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STI PRECISION | 74,997 | 2016 | SPP, S. Korea | MAN-B&W | Oct-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STI PRESTIGE | 74,997 | 2016 | SPP, S. Korea | MAN-B&W | Nov-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STI EXPERIENCE | 74,669 | 2016 | STX, S. Korea | MAN-B&W | Mar-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STI EXCELSIOR | 74,665 | 2016 | STX, S. Korea | MAN-B&W | Jan-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STI EXCEED | 74,665 | 2016 | STX, S. Korea | MAN-B&W | Feb-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STI EXPRESS | 74,663 | 2016 | STX, S. Korea | MAN-B&W | May-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STI EXPEDITE | 74,634 | 2016 | STX, S. Korea | MAN-B&W | Jan-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STI EXCELLENCE | 74,613 | 2016 | STX, S. Korea | MAN-B&W | May-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STI EXCEL | 74,547 | 2015 | STX, S. Korea | MAN-B&W | Nov-25 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STI EXECUTIVE | 74,431 | 2016 | STX, S. Korea | MAN-B&W | May-26 | DH | around $ 420.0m (en bloc) | Singapore based (Hafnia) |  |
+| LR1 | STENA PERROS | 65,086 | 2007 | BRODOSPLIT, Croatia | MAN-B&W | Dec-22 | DH | $ 11.25m | Nigerian (Crowley Marine) | ICE 1B |
+| MR2 | STI MAJESTIC | 47,499 | 2019 | HYUNDAI VINASHIN, Vietnam | MAN-B&W | Jan-24 | DH | $ 35.0m | Italian (Pillarstone) | scrubber fitted |
+| MR1 | KEREL | 37,297 | 2002 | HYUNDAI MIPO, S. Korea | B&W | Jan-22 | DH | low $9.0m (en bloc) | undisclosed | SS/DD due |
+| MR1 | BALTIC SOUL | 37,244 | 2001 | HYUNDAI MIPO, S. Korea | B&W |  | DH | low $9.0m (en bloc) | undisclosed | SS/DD due |
 | SMALL | LS EVANNE | 7,003 | 2010 | UMO GEMI, Turkey | MaK | Sep-22 | DH | undisclosed | undisclosed |  |
 | SMALL | LS ANNE | 5,757 | 2008 | SOLI SHIPYARD, Turkey | MaK | Aug-23 | DH | $ 9.0m (en bloc) | undisclosed |  |
 | SMALL | LS JAMIE | 5,756 | 2009 | SOLI SHIPYARD, Turkey | MaK | Mar-24 | DH | $ 9.0m (en bloc) | undisclosed |  |
@@ -243,25 +243,25 @@ In the Supramax sector we had the sale of the "WEST WIND" (56,557dwt-blt '08, Ja
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NMAX | BAOSTEEL ELEVATION | 206,312 | 2007 | IMABARI, Japan | MAN-B\&amp;W | Apr-22 |  | rgn $ 18.0m | Greek |  |
-| POST PMAX | JIN HANG | 93,069 | 2012 | Jiangsu Jinling, China | MAN-B\&amp;W | Jun-22 |  | $ 17.22m | undisclosed | online commercial-auction |
-| KMAX | ENERGY TRITON | 82,122 | 2012 | TSUNEISHI, Japan | MAN-B\&amp;W | Apr-25 |  | rgn $ 25.0m | Chinese | BWTS fitted |
-| SUPRA | MOLYVOS LUCK | 57,924 | 2014 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Apr-24 | 4 X 30t CRANES | $ 21.2m | Greek (EuroDry) | BWTS fitted, incl. TC attached until April 2022 at $ 13,240 p/d |
-| SUPRA | JIN HAO | 56,625 | 2012 | QINGSHAN, China | MAN-B\&amp;W | Jun-22 | 4 X 30t CRANES | $ 15.68m | Chinese | online commercial-auction |
+| NMAX | BAOSTEEL ELEVATION | 206,312 | 2007 | IMABARI, Japan | MAN-B&W | Apr-22 |  | rgn $ 18.0m | Greek |  |
+| POST PMAX | JIN HANG | 93,069 | 2012 | Jiangsu Jinling, China | MAN-B&W | Jun-22 |  | $ 17.22m | undisclosed | online commercial-auction |
+| KMAX | ENERGY TRITON | 82,122 | 2012 | TSUNEISHI, Japan | MAN-B&W | Apr-25 |  | rgn $ 25.0m | Chinese | BWTS fitted |
+| SUPRA | MOLYVOS LUCK | 57,924 | 2014 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Apr-24 | 4 X 30t CRANES | $ 21.2m | Greek (EuroDry) | BWTS fitted, incl. TC attached until April 2022 at $ 13,240 p/d |
+| SUPRA | JIN HAO | 56,625 | 2012 | QINGSHAN, China | MAN-B&W | Jun-22 | 4 X 30t CRANES | $ 15.68m | Chinese | online commercial-auction |
 | SUPRA | WEST WIND | 56,557 | 2008 | IHI, Japan | Wartsila | Aug-23 | 4 X 35t CRANES | $ 16.85m | Indonesian (Gurita Lintas) | BWTS fitted, eco ME |
-| SUPRA | SAFESEA NEHA II | 53,389 | 2008 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Oct-23 | 4 X 35t CRANES | undisclosed | undisclosed |  |
-| HANDY | INTERLINK AUDACITY | 39,100 | 2016 | ZHEJIANG ZENGHOU, China | MAN-B\&amp;W | Jul-26 | 4 X 30,5t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
-| HANDY | INTERLINK AFFINITY | 39,046 | 2016 | ZHEJIANG ZENGHOU, China | MAN-B\&amp;W | May-26 | 4 X 30,5t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
-| HANDY | INTERLINK FIDELITY | 38,792 | 2015 | TAIZHOU KOUAN, China | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
-| HANDY | INTERLINK TENACITY | 38,785 | 2016 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Jan-26 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
-| HANDY | INTERLINK EQUALITY | 38,781 | 2016 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Jul-26 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
-| HANDY | INTERLINK MOBILITY | 38,767 | 2015 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Jul-25 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
-| HANDY | INTERLINK VERACITY | 38,763 | 2016 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Apr-26 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
-| HANDY | INTERLINK QUALITY | 38,719 | 2016 | HUATAI NANTONG, China | MAN-B\&amp;W | Feb-26 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
-| HANDY | INTERLINK PRIORITY | 38,709 | 2015 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Nov-25 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
-| HANDY | INTERLINK UTILITY | 38,706 | 2016 | HUATAI NANTONG, China | MAN-B\&amp;W | Nov-26 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
-| HANDY | INTERLINK ABILITY | 38,683 | 2015 | HUATAI NANTONG, China | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
-| HANDY | INTERLINK PROBITY | 38,638 | 2015 | HUATAI NANTONG, China | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| SUPRA | SAFESEA NEHA II | 53,389 | 2008 | YANGZHOU DAYANG, China | MAN-B&W | Oct-23 | 4 X 35t CRANES | undisclosed | undisclosed |  |
+| HANDY | INTERLINK AUDACITY | 39,100 | 2016 | ZHEJIANG ZENGHOU, China | MAN-B&W | Jul-26 | 4 X 30,5t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| HANDY | INTERLINK AFFINITY | 39,046 | 2016 | ZHEJIANG ZENGHOU, China | MAN-B&W | May-26 | 4 X 30,5t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| HANDY | INTERLINK FIDELITY | 38,792 | 2015 | TAIZHOU KOUAN, China | MAN-B&W | May-25 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| HANDY | INTERLINK TENACITY | 38,785 | 2016 | TAIZHOU KOUAN, China | MAN-B&W | Jan-26 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| HANDY | INTERLINK EQUALITY | 38,781 | 2016 | TAIZHOU KOUAN, China | MAN-B&W | Jul-26 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| HANDY | INTERLINK MOBILITY | 38,767 | 2015 | TAIZHOU KOUAN, China | MAN-B&W | Jul-25 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| HANDY | INTERLINK VERACITY | 38,763 | 2016 | TAIZHOU KOUAN, China | MAN-B&W | Apr-26 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| HANDY | INTERLINK QUALITY | 38,719 | 2016 | HUATAI NANTONG, China | MAN-B&W | Feb-26 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| HANDY | INTERLINK PRIORITY | 38,709 | 2015 | TAIZHOU KOUAN, China | MAN-B&W | Nov-25 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| HANDY | INTERLINK UTILITY | 38,706 | 2016 | HUATAI NANTONG, China | MAN-B&W | Nov-26 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| HANDY | INTERLINK ABILITY | 38,683 | 2015 | HUATAI NANTONG, China | MAN-B&W | May-25 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
+| HANDY | INTERLINK PROBITY | 38,638 | 2015 | HUATAI NANTONG, China | MAN-B&W | Oct-25 | 4 X 30t CRANES | $ 280.0m (en bloc) | German (Oscar Wehr) |  |
 
 © Intermodal Research 25/01/2022 5
 
@@ -272,10 +272,10 @@ In the Supramax sector we had the sale of the "WEST WIND" (56,557dwt-blt '08, Ja
 ## **Bulk Carriers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HANDY | ULTRA TOLHUACO | 37,429 | 2015 | OSHIMA, Japan | MAN-B\&amp;W | Jul-25 | 4 X 30t CRANES | $ 24.5m | undisclosed |  |
-| HANDY | NEW JOURNEY | 36,371 | 2015 | SHIKOKU, Japan | MAN-B\&amp;W | Mar-25 | 4 X 30,5t CRANES | $ 23.7m | UK based (Tufton Oceanic) | incl. 18-24 months TC attached |
-| HANDY | LOCH MAREE | 33,382 | 2013 | SHIN KURUSHIMA, Japan | Mitsubishi | May-23 | 4 X 30,5t CRANES | $ 18.0m | Greek (Meadway Shipping) | BWTS &amp; logs fitted |
-| HANDY | HUI XIN 18 | 35,045 | 2012 | ZHEJIANG JIUZHOU, China | MAN-B\&amp;W | Jun-22 | 4 X 30t CRANES | $ 11.56m | undisclosed | BWTS fitted, online commercial-auction |
+| HANDY | ULTRA TOLHUACO | 37,429 | 2015 | OSHIMA, Japan | MAN-B&W | Jul-25 | 4 X 30t CRANES | $ 24.5m | undisclosed |  |
+| HANDY | NEW JOURNEY | 36,371 | 2015 | SHIKOKU, Japan | MAN-B&W | Mar-25 | 4 X 30,5t CRANES | $ 23.7m | UK based (Tufton Oceanic) | incl. 18-24 months TC attached |
+| HANDY | LOCH MAREE | 33,382 | 2013 | SHIN KURUSHIMA, Japan | Mitsubishi | May-23 | 4 X 30,5t CRANES | $ 18.0m | Greek (Meadway Shipping) | BWTS & logs fitted |
+| HANDY | HUI XIN 18 | 35,045 | 2012 | ZHEJIANG JIUZHOU, China | MAN-B&W | Jun-22 | 4 X 30t CRANES | $ 11.56m | undisclosed | BWTS fitted, online commercial-auction |
 
 ## **Containers**
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -283,7 +283,7 @@ In the Supramax sector we had the sale of the "WEST WIND" (56,557dwt-blt '08, Ja
 | POST PMAX | RHODOS | 6,881 | 2013 | HYUNDAI SAMHO, S. Korea | Wartsila | Jan-23 |  | $ 140.0m | undisclosed |  |
 | POST PMAX | CATHERINE C | 6,178 | 2001 | SAMSUNG, S. Korea | Sulzer |  |  | $ 130.0m | Swiss (MSC) | delivery in November 2022 |
 | POST PMAX | LEO C | 6,178 | 2002 | SAMSUNG, S. Korea | Sulzer | Jan-22 |  | $ 130.0m | Swiss (MSC) | delivery in November 2022 |
-| SUB PMAX | AS PATRICIA | 2,496 | 2006 | CRIST SP Z OO, Poland | MAN-B\&amp;W | Sep-26 | 3 X 45t CRANES | $ 34.3m | German (Maersk) |  |
+| SUB PMAX | AS PATRICIA | 2,496 | 2006 | CRIST SP Z OO, Poland | MAN-B&W | Sep-26 | 3 X 45t CRANES | $ 34.3m | German (Maersk) |  |
 | FEEDER | KANWAY GALAXY | 1,613 | 1997 | SHIN KURUSHIMA, Japan | Mitsubishi | Oct-22 | 3 X 40t CRANES | $ 19.0m | undisclosed |  |
 | FEEDER | DANCE | 801 | 2006 | PETERS SCHIFFBAU, Germany | MaK | Aug-26 |  | undisclosed | undisclosed |  |
 

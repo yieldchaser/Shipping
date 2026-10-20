@@ -141,30 +141,30 @@ Supramax 10TC averaged \$ 8,430/day, down -11.31% w-o-w, while the Handysize 7TC
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | EAGLE BAY | 47,134 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Feb-28 | DH | $ 24.2m | undisclosed | BWTS fitted, CAP 1 |
-| MR2 | SUPER RUBY | 50,400 | 2006 | SHINA, S. Korea | MAN-B\&amp;W | Feb-26 | DH | region $ 21.0m | Turkish | BWTS fitted, pumproom |
-| MR2 | MTM POTOMAC | 51,291 | 2004 | STX, S. Korea | MAN-B\&amp;W | Nov-24 | DH | low $ 18.0m | undisclosed | BWTS fitted |
+| MR2 | EAGLE BAY | 47,134 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B&W | Feb-28 | DH | $ 24.2m | undisclosed | BWTS fitted, CAP 1 |
+| MR2 | SUPER RUBY | 50,400 | 2006 | SHINA, S. Korea | MAN-B&W | Feb-26 | DH | region $ 21.0m | Turkish | BWTS fitted, pumproom |
+| MR2 | MTM POTOMAC | 51,291 | 2004 | STX, S. Korea | MAN-B&W | Nov-24 | DH | low $ 18.0m | undisclosed | BWTS fitted |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | HERUN ZHOUSHAN | 181,056 | 2017 | SWS, China | MAN-B\&amp;W | Sep-27 |  | $ 41.5m | Greek | BWTS fitted, dely Jul/Nov 2023 Spore/Japan range |
-| PMAX | SANTA BARBARA | 76,361 | 2011 | OSHIMA, Japan | MAN-B\&amp;W | Sep-26 |  | $ 17.6m | Greek | BWTS fitted |
-| UMAX | VICTORIA T | 61,266 | 2017 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Jul-27 | 4 X 30,7t CRANES | $ 29.2m | undisclosed | BWTS fitted, old sale |
-| UMAX | BELVEDERE | 66,637 | 2015 | MITSUI, Japan | MAN-B\&amp;W | Sep-25 | 4 X 30t CRANES | excess $ 27.0m | undisclosed | BWTS fitted, Eco, dely Q3 2023 |
-| SUPRA | CF DIAMOND | 57,700 | 2016 | TSUNEISHI, Japan | MAN-B\&amp;W | Jun-26 | 4 X 30t CRANES | region $ 24.5m | undisclosed | BWTS fitted, Eco |
-| SUPRA | STOVE OCEAN | 55,861 | 2013 | OSHIMA, Japan | MAN-B\&amp;W | May-28 | 4 X 30t CRANES | $ 21.0m | Norwegian (Gearbulk) | BWTS fitted, Box Holds |
-| SUPRA | ZHOU SHAN HAI | 56,987 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Oct-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
-| SUPRA | YUAN AN HAI | 56,957 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Aug-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
-| SUPRA | YUAN SHUN HAI | 56,956 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Aug-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
-| SUPRA | JIN ZHOU HAI | 56,907 | 2009 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Nov-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
-| HANDY | AMERICAN BULKER | 36,228 | 2016 | SHIKOKU, Japan | MAN-B\&amp;W | Feb-26 | 4 X 31,2t CRANES | region $ 22.7m | Greek | BWTS fitted, Eco, OHBS, dely Oct/Nov 2023 |
+| CAPE | HERUN ZHOUSHAN | 181,056 | 2017 | SWS, China | MAN-B&W | Sep-27 |  | $ 41.5m | Greek | BWTS fitted, dely Jul/Nov 2023 Spore/Japan range |
+| PMAX | SANTA BARBARA | 76,361 | 2011 | OSHIMA, Japan | MAN-B&W | Sep-26 |  | $ 17.6m | Greek | BWTS fitted |
+| UMAX | VICTORIA T | 61,266 | 2017 | SHIN KURUSHIMA, Japan | MAN-B&W | Jul-27 | 4 X 30,7t CRANES | $ 29.2m | undisclosed | BWTS fitted, old sale |
+| UMAX | BELVEDERE | 66,637 | 2015 | MITSUI, Japan | MAN-B&W | Sep-25 | 4 X 30t CRANES | excess $ 27.0m | undisclosed | BWTS fitted, Eco, dely Q3 2023 |
+| SUPRA | CF DIAMOND | 57,700 | 2016 | TSUNEISHI, Japan | MAN-B&W | Jun-26 | 4 X 30t CRANES | region $ 24.5m | undisclosed | BWTS fitted, Eco |
+| SUPRA | STOVE OCEAN | 55,861 | 2013 | OSHIMA, Japan | MAN-B&W | May-28 | 4 X 30t CRANES | $ 21.0m | Norwegian (Gearbulk) | BWTS fitted, Box Holds |
+| SUPRA | ZHOU SHAN HAI | 56,987 | 2009 | COSCO ZHOUSHAN, China | MAN-B&W | Oct-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
+| SUPRA | YUAN AN HAI | 56,957 | 2009 | COSCO ZHOUSHAN, China | MAN-B&W | Aug-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
+| SUPRA | YUAN SHUN HAI | 56,956 | 2009 | COSCO ZHOUSHAN, China | MAN-B&W | Aug-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
+| SUPRA | JIN ZHOU HAI | 56,907 | 2009 | COSCO ZHOUSHAN, China | MAN-B&W | Nov-24 | 4 X 30t CRANES | region $ 13.0m each | Chinese | BWTS fitted |
+| HANDY | AMERICAN BULKER | 36,228 | 2016 | SHIKOKU, Japan | MAN-B&W | Feb-26 | 4 X 31,2t CRANES | region $ 22.7m | Greek | BWTS fitted, Eco, OHBS, dely Oct/Nov 2023 |
 
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | DURANDE | 1,740 | 2003 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Jun-23 | 2 X 40t CRANES | $ 9.0m | undisclosed |
+| FEEDER | DURANDE | 1,740 | 2003 | GUANGZHOU WENCHONG, China | MAN-B&W | Jun-23 | 2 X 40t CRANES | $ 9.0m | undisclosed |
 
 ---
 
@@ -195,7 +195,7 @@ The week ending 9th June was generally weaker for the newbuilding market with on
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bulker | 95,000 dwt | Oshima, Japan | 2026 | Japanese (Mitsui OSK Lines) | undisclosed | LNG dual-fueled, T/C to Kepco |
 | 3 | Bulker | 63,500 dwt | Nantong Xiangyu, China | 2025 | Greek (Atlantic Bulk Carriers) | $ 32.0m | Tier III, March order |
-| 1 | Bulker | 42,300 dwt | Oshima, Japan | 2026 | Greek (Meadway Shipping &amp; Trading) | $ 32.0m |  |
+| 1 | Bulker | 42,300 dwt | Oshima, Japan | 2026 | Greek (Meadway Shipping & Trading) | $ 32.0m |  |
 | 2+2 | Tanker | 115,000 dwt | GSI, China | 2026 | Singaporean (Eastern Pacific) | $ 73.5m | LNG dual-fuelled, LR2 |
 | 2 | LPG /Ammonia | 40,000 cbm | Nantong CIMC, China | 2025-2026 | Bermuda registered (Avance Gas) | $ 61.5m | LPG dual-fuelled, shaft generators |
 | 2+2 | Container | 1,450 teu | Nantong CIMC, China | undisclosed | US based (Seaboard Marine) | $ 35.0m | LNG dual-fuelled |

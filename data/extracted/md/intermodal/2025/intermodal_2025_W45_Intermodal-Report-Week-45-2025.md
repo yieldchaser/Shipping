@@ -153,25 +153,25 @@ Handysize trading continued to lag behind, marked by weak sentiment. Activity in
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR2 | PLATANOS | 114,578 | 2019 | NAMURA, Japan | MAN B\&amp;W | Sep-29 | DH | $ 66.5m | Croatian (Tankerska) | Scrubber fitted, Eco |
-| MR2 | STI VENERE | 49,990 | 2014 | HYUNDAI MIPO, S. Korea | MAN B\&amp;W | Jun-29 | DH | $ 32.0m each | Danish (Torm) | Scrubber fitted, Eco |
-| MR2 | STI MILWAUKEE | 49,990 | 2014 | HYUNDAI MIPO, S. Korea | MAN B\&amp;W | Nov-29 | DH | $ 32.0m each | Danish (Torm) | Scrubber fitted, Eco |
-| MR2 | STI YORKVILLE | 49,990 | 2014 | HYUNDAI MIPO, S. Korea | MAN B\&amp;W | Oct-29 | DH | $ 32.0m each | Danish (Torm) | Scrubber fitted, Eco |
-| MR2 | STI BATTERY | 49,990 | 2014 | HYUNDAI MIPO, S. Korea | MAN B\&amp;W | Nov-29 | DH | $ 32.0m each | Danish (Torm) | Scrubber fitted, Eco |
-| MR1 | BRISTOL TRADER | 35,863 | 2016 | SHIN KURUSHIMA, Japan | MAN B\&amp;W | Jul-26 | DH | $ 39.0m | undisclosed | Eco |
+| LR2 | PLATANOS | 114,578 | 2019 | NAMURA, Japan | MAN B&W | Sep-29 | DH | $ 66.5m | Croatian (Tankerska) | Scrubber fitted, Eco |
+| MR2 | STI VENERE | 49,990 | 2014 | HYUNDAI MIPO, S. Korea | MAN B&W | Jun-29 | DH | $ 32.0m each | Danish (Torm) | Scrubber fitted, Eco |
+| MR2 | STI MILWAUKEE | 49,990 | 2014 | HYUNDAI MIPO, S. Korea | MAN B&W | Nov-29 | DH | $ 32.0m each | Danish (Torm) | Scrubber fitted, Eco |
+| MR2 | STI YORKVILLE | 49,990 | 2014 | HYUNDAI MIPO, S. Korea | MAN B&W | Oct-29 | DH | $ 32.0m each | Danish (Torm) | Scrubber fitted, Eco |
+| MR2 | STI BATTERY | 49,990 | 2014 | HYUNDAI MIPO, S. Korea | MAN B&W | Nov-29 | DH | $ 32.0m each | Danish (Torm) | Scrubber fitted, Eco |
+| MR1 | BRISTOL TRADER | 35,863 | 2016 | SHIN KURUSHIMA, Japan | MAN B&W | Jul-26 | DH | $ 39.0m | undisclosed | Eco |
 | J19 | GOLDEN RAY | 19,802 | 2012 | KITANIHON, Japan | Mitsubishi | Sep-27 | DH | $ 23.0m | Vietnamese | StSt |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | NEW ASCENT | 82,179 | 2012 | TSUNEISHI, Japan | MAN B\&amp;W | Aug-27 |  | $ 19.5m | Greek |  |
-| SUPRA | KARADENIZ S | 57,266 | 2012 | STX, S. Korea | MAN B\&amp;W | Jul-27 | 4 X 30t CRANES | $ 14.2m | Turkish |  |
-| SUPRA | TM HAI HA 988 | 53,505 | 2011 | NAM TRIEU, Vietnam | MAN B\&amp;W | Jul-26 | 4 X 36t CRANES | $ 9.0m | undisclosed |  |
-| SUPRA | MANDARIN EAGLE | 56,876 | 2008 | Jiangsu Hantong, China | MAN B\&amp;W | Jun-28 | 4 X 30t CRANES | $ 10.5m | undisclosed |  |
+| KMAX | NEW ASCENT | 82,179 | 2012 | TSUNEISHI, Japan | MAN B&W | Aug-27 |  | $ 19.5m | Greek |  |
+| SUPRA | KARADENIZ S | 57,266 | 2012 | STX, S. Korea | MAN B&W | Jul-27 | 4 X 30t CRANES | $ 14.2m | Turkish |  |
+| SUPRA | TM HAI HA 988 | 53,505 | 2011 | NAM TRIEU, Vietnam | MAN B&W | Jul-26 | 4 X 36t CRANES | $ 9.0m | undisclosed |  |
+| SUPRA | MANDARIN EAGLE | 56,876 | 2008 | Jiangsu Hantong, China | MAN B&W | Jun-28 | 4 X 30t CRANES | $ 10.5m | undisclosed |  |
 | HMAX | HISARONU-M | 48,893 | 2001 | IHI, Japan | Sulzer | Feb-26 | 4 X 30t CRANES | $ 6.2m | undisclosed |  |
-| HANDY | SIDER ONDA | 40,482 | 2015 | NAIKAI ZOSEN, Japan | MAN B\&amp;W | Jan-29 | 4 X 30t CRANES | $ 21.0m | Greek | Eco, OHBS |
-| HANDY | SPRING BREEZE | 36,258 | 2012 | SHIKOKU, Japan | MAN B\&amp;W | May-30 | 4 X 30,5t CRANES | low $ 13.0m | Greek | Scrubber fitted |
-| HANDY | PACIFIC OCEAN | 36,009 | 2011 | SAMJIN, China | MAN B\&amp;W | May-26 | 4 X 35t CRANES | mid $ 10.0m | undisclosed |  |
+| HANDY | SIDER ONDA | 40,482 | 2015 | NAIKAI ZOSEN, Japan | MAN B&W | Jan-29 | 4 X 30t CRANES | $ 21.0m | Greek | Eco, OHBS |
+| HANDY | SPRING BREEZE | 36,258 | 2012 | SHIKOKU, Japan | MAN B&W | May-30 | 4 X 30,5t CRANES | low $ 13.0m | Greek | Scrubber fitted |
+| HANDY | PACIFIC OCEAN | 36,009 | 2011 | SAMJIN, China | MAN B&W | May-26 | 4 X 35t CRANES | mid $ 10.0m | undisclosed |  |
 
 ---
 

@@ -152,24 +152,24 @@ Supramax 10TC averaged \$ 10,150/day down -2.58% w-o-w, while the Handysize 7TC 
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR1 | VALLE DI GRANADA | 40,218 | 2005 | HYUNDAI MIPO, S. Korea | B\&amp;W | Jan-25 | DH | $ 13.35m | UAE based |
+| MR1 | VALLE DI GRANADA | 40,218 | 2005 | HYUNDAI MIPO, S. Korea | B&W | Jan-25 | DH | $ 13.35m | UAE based |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | LINDA OLDENDORFF | 207,562 | 2014 | HYUNDAI, S. Korea | MAN-B\&amp;W | Sep-24 |  | $ 48.3m | Chinese (Bohai Shipping) | Scrubber fitted, delivery April 2025 |
-| CAPE | FEG SUCCESS | 182,619 | 2010 | KAWASAKI, Japan | MAN-B\&amp;W | Jan-25 |  | $ 28.0m | Korean (Korea Line) | Scrubber fitted |
-| SUPRA | INDIGO OMEGA | 56,092 | 2012 | MITSUI, Japan | MAN-B\&amp;W | Oct-27 | 4 X 30t CRANES | $ 17.3m | Greek |  |
-| SUPRA | JPS BARCELONA | 55,783 | 2010 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&amp;W | Jun-25 | 4 X 30t CRANES | high $ 12,0m | Greek |  |
+| NEWCASTLEMAX | LINDA OLDENDORFF | 207,562 | 2014 | HYUNDAI, S. Korea | MAN-B&W | Sep-24 |  | $ 48.3m | Chinese (Bohai Shipping) | Scrubber fitted, delivery April 2025 |
+| CAPE | FEG SUCCESS | 182,619 | 2010 | KAWASAKI, Japan | MAN-B&W | Jan-25 |  | $ 28.0m | Korean (Korea Line) | Scrubber fitted |
+| SUPRA | INDIGO OMEGA | 56,092 | 2012 | MITSUI, Japan | MAN-B&W | Oct-27 | 4 X 30t CRANES | $ 17.3m | Greek |  |
+| SUPRA | JPS BARCELONA | 55,783 | 2010 | HYUNDAI-VINASHIN, Vietnam | MAN-B&W | Jun-25 | 4 X 30t CRANES | high $ 12,0m | Greek |  |
 | SUPRA | GLOBAL SAIKAI | 51,828 | 2007 | OSHIMA, Japan | Mitsubishi | Aug-27 | 4 X 30t CRANES | $ 12.2m | undisclosed |  |
-| SUPRA | ZEIN | 52,402 | 2001 | TSUNEISHI, Japan | B\&amp;W | May-27 | 4 X 30t CRANES | $ 7.0m | undisclosed |  |
-| HANDY | OAK HARBOUR | 33,745 | 2005 | OSHIMA, Japan | B\&amp;W | Feb-25 | 4 X 30t CRANES | region $ 9.0m | Chinese |  |
+| SUPRA | ZEIN | 52,402 | 2001 | TSUNEISHI, Japan | B&W | May-27 | 4 X 30t CRANES | $ 7.0m | undisclosed |  |
+| HANDY | OAK HARBOUR | 33,745 | 2005 | OSHIMA, Japan | B&W | Feb-25 | 4 X 30t CRANES | region $ 9.0m | Chinese |  |
 
 ---
 
 ## Newbuilding Market
 
-The dry bulk newbuilding market experienced a robust week, with a total of eleven bulk carriers being contracted. Notably, Eastern Pacific placed an order for five Capesize vessels at Nihon Shipyard, though the price remains undisclosed. Additionally, Japanese owner Doun Kisen finalized agreements for the construction of two 82,000 DWT Kamsarmax vessels and two 63,550 DWT Ultramax vessels at Nantong Xiangyu, priced at \$35.3 million and \$37.3 million, respectively. Furthermore, Chinese owner Glorious Youth Shipping secured an order for two 63,500 DWT Ultramax vessels at Jiangsu Haitong for \$35.0 million each. Conversely, activity in the tanker sector was muted. Meanwhile, Pakistan National Shipping Corporation commissioned the construction of a single 1,100 TEU container vessel at Karachi Ship &amp; Engineering Works in Pakistan, at a contract price of \$24.8 million
+The dry bulk newbuilding market experienced a robust week, with a total of eleven bulk carriers being contracted. Notably, Eastern Pacific placed an order for five Capesize vessels at Nihon Shipyard, though the price remains undisclosed. Additionally, Japanese owner Doun Kisen finalized agreements for the construction of two 82,000 DWT Kamsarmax vessels and two 63,550 DWT Ultramax vessels at Nantong Xiangyu, priced at \$35.3 million and \$37.3 million, respectively. Furthermore, Chinese owner Glorious Youth Shipping secured an order for two 63,500 DWT Ultramax vessels at Jiangsu Haitong for \$35.0 million each. Conversely, activity in the tanker sector was muted. Meanwhile, Pakistan National Shipping Corporation commissioned the construction of a single 1,100 TEU container vessel at Karachi Ship & Engineering Works in Pakistan, at a contract price of \$24.8 million
 
 ## Indicative Newbuilding Prices ($ Million)
 | Sector | Vessel | Size | 13-Dec-24 | 6-Dec-24 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2023 | Average 2022 | Average 2021 |

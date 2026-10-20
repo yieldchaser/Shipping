@@ -138,20 +138,20 @@ Avg Aframax TCE at \$49,430, up by 5.4% w-o-w
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | P. SOPHIA | 105,071 | 2009 | HYUNDAI, S. Korea | MAN B\&amp;W | Sep-29 | DH | $ 36.05m |  | bss delivery within max 120 days |
+| AFRA | P. SOPHIA | 105,071 | 2009 | HYUNDAI, S. Korea | MAN B&W | Sep-29 | DH | $ 36.05m |  | bss delivery within max 120 days |
 | MR2 | DAI AN | 50,530 | 2007 | SPP, S. Korea | Wartsila | Feb-27 | DH | $ 14,75m |  |  |
 | SMALL | DH GLORY | 13,121 | 2020 | NANTONG, China | WinGD | Nov-25 | DH | $ 20.5m |  | via online bidding platfrom |
-| MR2 | MD MIRANDA | 46,408 | 1999 | DAEDONG, S. Korea | B\&amp;W | Oct-29 | DH | $ 8.3m |  |  |
+| MR2 | MD MIRANDA | 46,408 | 1999 | DAEDONG, S. Korea | B&W | Oct-29 | DH | $ 8.3m |  |  |
 
 ## Bulk Carriers
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE ACACIA | 206,237 | 2005 | IMABARI, Japan | MAN-B\&amp;W | Aug-27 |  | $ 21.5m | Chinese |  |
-| CHINA PROGRESS | 174,322 | 2006 | SHANGHAI WAIGAOQIAO, China | MAN B\&amp;W | Jun-26 |  | $ 17.0m | Chinese |  |
-| SHUN FU DA | 82,849 | 2006 | TSUNEISHI, Japan | MAN B\&amp;W | May-26 |  | $ 11.4m | undisclosed |  |
-| MAPLEGATE | 63,449 | 2019 | IWAGI ZOSEN, Japan | MAN B\&amp;W | Aug-29 | 4 X 30t CRANES | region $ 62.0m | Indonesian | Eco |
-| OAKGATE | 60,407 | 2018 | OSHIMA, Japan | MAN B\&amp;W | Nov-28 | 4 X 30t CRANES | region $ 62.0m | Indonesian | Eco |
-| AMIS WISDOM III | 61,527 | 2011 | SHIN KASADO, Japan | MAN B\&amp;W | Jan-26 | 4 X 30,5t CRANES | $ 17.5m | Chinese (Arm Shipping Ltd) |  |
+| CAPE ACACIA | 206,237 | 2005 | IMABARI, Japan | MAN-B&W | Aug-27 |  | $ 21.5m | Chinese |  |
+| CHINA PROGRESS | 174,322 | 2006 | SHANGHAI WAIGAOQIAO, China | MAN B&W | Jun-26 |  | $ 17.0m | Chinese |  |
+| SHUN FU DA | 82,849 | 2006 | TSUNEISHI, Japan | MAN B&W | May-26 |  | $ 11.4m | undisclosed |  |
+| MAPLEGATE | 63,449 | 2019 | IWAGI ZOSEN, Japan | MAN B&W | Aug-29 | 4 X 30t CRANES | region $ 62.0m | Indonesian | Eco |
+| OAKGATE | 60,407 | 2018 | OSHIMA, Japan | MAN B&W | Nov-28 | 4 X 30t CRANES | region $ 62.0m | Indonesian | Eco |
+| AMIS WISDOM III | 61,527 | 2011 | SHIN KASADO, Japan | MAN B&W | Jan-26 | 4 X 30,5t CRANES | $ 17.5m | Chinese (Arm Shipping Ltd) |  |
 
 ---
 

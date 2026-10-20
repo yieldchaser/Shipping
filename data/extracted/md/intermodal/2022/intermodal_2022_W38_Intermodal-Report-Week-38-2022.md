@@ -27,13 +27,13 @@ While tanker rates have been soaring during the past months, generating high pro
 
 The dry bulk market momentum remains positive with bigger sizes' performance being subject to Chinese demand which has posted an increased volume of iron ore cargoes during the past days. The BDI today (27/09/2022) closed at 1,807 points, up by 78 points compared to previous Tuesday's closing (20/09/2022). The Activity in the crude carriers' sectors remained strong, with T/C average earnings across all sectors noting w-o-w improvements. The BDTI today (27/09/2022) closed at 1,506, a decrease of 2 points and the BCTI at 1,231, a decrease of 25 point compared to previous Tuesday's (20/09/2022) levels.
 
-## **Sale &amp; Purchase (**Wet: **Firmer** / **Dry: Stable+**)**
+## **Sale & Purchase (**Wet: **Firmer** / **Dry: Stable+**)**
 
 Appetite for tanker units remains robust amidst a very healthy fundamentally environment while SnP dry bulk activity has seen a slight uptick with prices trending downward of late. In the tanker sector, we had the sale of the "VIKI" (310,106dwt-blt '00, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$29.5m. On the dry bulker side sector, we had the sale of the "NORD CORONA" (81,600dwt-blt '19, China), which was sold to Greek buyers, for a price in the region of \$29.0m.
 
 ## **Newbuilding (**Wet: **Stable-** / **Dry: Stable-**)**
 
-The newbuilding ordering activity continues to witness a steady number of materialized deals through September. In the tanker realm, Mitsui &amp; Co sealed a deal with Hyundai Vietnam for three 50,000dwt vessels at \$42.7m. Additionally, Swedish Furetank declared two options for two 17,999dwt LNG -fuelled vessels at CMJL Yangzhou. On the dry front, Jaldhi Overseas inked a deal with Yamic for the construction of four 66,000dwt vessels, which will meet EEDI phase 3 standards. Last but not least, in the gas sector, we continue to witness the owners' insatiable hunger for LNG carriers with Chinese CMES declaring an option for two 175,000cbm units at DSIC, while placing a fresh order for two firm plus two optional 175,000cbm dual-fuelled vessels. The owner will pay the competitive price of \$200.0m for the vessels which will be delivered in 2026.
+The newbuilding ordering activity continues to witness a steady number of materialized deals through September. In the tanker realm, Mitsui & Co sealed a deal with Hyundai Vietnam for three 50,000dwt vessels at \$42.7m. Additionally, Swedish Furetank declared two options for two 17,999dwt LNG -fuelled vessels at CMJL Yangzhou. On the dry front, Jaldhi Overseas inked a deal with Yamic for the construction of four 66,000dwt vessels, which will meet EEDI phase 3 standards. Last but not least, in the gas sector, we continue to witness the owners' insatiable hunger for LNG carriers with Chinese CMES declaring an option for two 175,000cbm units at DSIC, while placing a fresh order for two firm plus two optional 175,000cbm dual-fuelled vessels. The owner will pay the competitive price of \$200.0m for the vessels which will be delivered in 2026.
 
 ## **Demolition (**Wet: **Stable+** / **Dry: Stable+**)**
 
@@ -129,7 +129,7 @@ VLCC T/C earnings averaged \$ 43,405/day, up + \$11,628/day w-o-w. MEG eastbound
 
 Suezmax T/C earnings averaged \$58,927/day, up +\$3,250/day w-o-w. TD20 W.Africa/UKC route rose 3.3WS points with the rest of the regions' rates remaining almost unchanged. Profits for the Aframax owners were supported in the MED market with TD19 increasing by 31.31WS points w-o-w. North European activity was also positive, with TD7 and TD17 up by 13.75WS and 7.19WS points respectively, while TD9 Caribs market lost its previous week's gains declining by 21.87WS points.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "VIKI" (310,106dwt-blt '00, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$29.5m.
 
@@ -198,7 +198,7 @@ Supramax 10TC averaged \$ 17,804/day, up + 7.30% w-o-w, while the Handysize 7TC 
 | **Ultramax** | **63k** | 30.0 | 32.3 | -7.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 26.8 | 27.8 | -3.6% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Kamsarmax sector we had the sale of the "NORD CORONA" (81,600dwt-blt '19, China), which was sold to Greek buyers, for a price in the region of \$29.0m.
 
@@ -213,22 +213,22 @@ In the Ultramax sector we had the sale of the "ULTRA DYNAMIC" (61,412dwt-blt '11
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | VIKI | 310,106 | 2000 | SAMSUNG, S. Korea | B\&amp;W | Jun-23 | DH | $ 29.5m | undisclosed |  |
-| VLCC | PRIDE | 299,986 | 1998 | HITACHI ZOSEN, Japan | B\&amp;W | Apr-23 | DH | $ 24.5m | undisclosed |  |
-| SUEZ | VINGA | 158,982 | 2012 | SAMSUNG, S. Korea | MAN-B\&amp;W | Nov-22 | DH | $ 42.0m | Greek |  |
-| SUEZ | NORDIC RIO | 151,174 | 2004 | SAMSUNG, S. Korea | MAN-B\&amp;W | Apr-24 | DH | rgn $ 27.0m | European | BWTS fitted, CAP 1, dely November |
-| AFRA | CONCORD EXPRESS | 111,920 | 2003 | HYUNDAI, S. Korea | MAN-B\&amp;W | May-23 | DH | $ 23.0m | Chinese |  |
-| LR1 | AMBER | 73,981 | 2008 | NEW TIMES, China | MAN-B\&amp;W | Aug-23 | DH | $ 18.4m | undisclosed |  |
-| LR1 | AZURITE | 73,948 | 2008 | NEW TIMES, China | MAN-B\&amp;W | Sep-23 | DH | $ 18.4m | undisclosed |  |
-| MR2 | BLACK SWAN | 47,999 | 2007 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Jan-27 | DH | xs $ 19.0m | undisclosed | BWTS fitted |
+| VLCC | VIKI | 310,106 | 2000 | SAMSUNG, S. Korea | B&W | Jun-23 | DH | $ 29.5m | undisclosed |  |
+| VLCC | PRIDE | 299,986 | 1998 | HITACHI ZOSEN, Japan | B&W | Apr-23 | DH | $ 24.5m | undisclosed |  |
+| SUEZ | VINGA | 158,982 | 2012 | SAMSUNG, S. Korea | MAN-B&W | Nov-22 | DH | $ 42.0m | Greek |  |
+| SUEZ | NORDIC RIO | 151,174 | 2004 | SAMSUNG, S. Korea | MAN-B&W | Apr-24 | DH | rgn $ 27.0m | European | BWTS fitted, CAP 1, dely November |
+| AFRA | CONCORD EXPRESS | 111,920 | 2003 | HYUNDAI, S. Korea | MAN-B&W | May-23 | DH | $ 23.0m | Chinese |  |
+| LR1 | AMBER | 73,981 | 2008 | NEW TIMES, China | MAN-B&W | Aug-23 | DH | $ 18.4m | undisclosed |  |
+| LR1 | AZURITE | 73,948 | 2008 | NEW TIMES, China | MAN-B&W | Sep-23 | DH | $ 18.4m | undisclosed |  |
+| MR2 | BLACK SWAN | 47,999 | 2007 | IWAGI ZOSEN, Japan | MAN-B&W | Jan-27 | DH | xs $ 19.0m | undisclosed | BWTS fitted |
 | MR2 | RIDGEBURY BIRCH | 53,712 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Feb-26 | DH | $ 35.0m (en bloc) | undisclosed | epoxy coated |
 | MR2 | RIDGEBURY ACACIA | 53,688 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Nov-25 | DH | $ 35.0m (en bloc) | undisclosed | epoxy coated |
-| MR2 | SURFER ROSA | 46,719 | 2004 | HYUNDAI, S. Korea | B\&amp;W | Feb-24 | DH | $ 16.0m | Greek | Ice 1C |
-| J19 | BATTERSEA PARK | 19,949 | 2002 | USUKI, Japan | MAN-B\&amp;W | May-27 | DH | $ 10.5m | undisclosed | BWTS fitted, StSt |
+| MR2 | SURFER ROSA | 46,719 | 2004 | HYUNDAI, S. Korea | B&W | Feb-24 | DH | $ 16.0m | Greek | Ice 1C |
+| J19 | BATTERSEA PARK | 19,949 | 2002 | USUKI, Japan | MAN-B&W | May-27 | DH | $ 10.5m | undisclosed | BWTS fitted, StSt |
 | SMALL | UNITED TRADER | 6,841 | 2012 | SHANTOU, China | Daihatsu |  | DH | $ 3.4m (en bloc) | Nigerian | laid up in Nigeria since 2017 |
 | SMALL | UNITED VENTURE | 6,365 | 2012 | ZHEJIANG, China | MaK |  | DH | $ 3.4m (en bloc) | Nigerian | laid up in Nigeria since 2017 |
-| SMALL | LOCH LOMOND | 19,098 | 2010 | ZHEJIANG, China | MAN-B\&amp;W | Apr-25 | DH | $ 11.3m | Chinese | BWTS fitted, online auction |
-| SMALL | RUBINO | 11,161 | 2008 | ADMARIN GEMI, Turkey | MAN-B\&amp;W | Nov-23 | DH | $ 8.5m | Danish (Alba Tankers) | Ice 1A |
+| SMALL | LOCH LOMOND | 19,098 | 2010 | ZHEJIANG, China | MAN-B&W | Apr-25 | DH | $ 11.3m | Chinese | BWTS fitted, online auction |
+| SMALL | RUBINO | 11,161 | 2008 | ADMARIN GEMI, Turkey | MAN-B&W | Nov-23 | DH | $ 8.5m | Danish (Alba Tankers) | Ice 1A |
 
 © Intermodal Research 27/09/2022 4
 
@@ -240,10 +240,10 @@ In the Ultramax sector we had the sale of the "ULTRA DYNAMIC" (61,412dwt-blt '11
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | GREAT WENCHENG | 91,439 | 2005 | OSHIMA, Japan | Mitsubishi | Jan-26 |  | $ 16.9m | undisclosed |  |
-| KMAX | NORD CORONA | 81,600 | 2019 | JIANGSU HANTONG, China | MAN-B\&amp;W | Sep-24 |  | $ 29.0m | Greek | BWTS fitted |
-| KMAX | PEDHOULAS TRADER | 82,214 | 2006 | TSUNEISHI, Japan | MAN-B\&amp;W | May-26 |  | $ 15.84m | Greek | basis dely within December |
-| UMAX | NORD BARENTS | 62,625 | 2019 | OSHIMA, Japan | MAN-B\&amp;W | Feb-24 | 4 X 30t CRANES | $ 33.3m | undisclosed | Scrubber fitted |
-| UMAX | ULTRA DYNAMIC | 61,412 | 2011 | SHIN KASADO, Japan | MAN-B\&amp;W | Jul-26 | 4 X 30,5t CRANES | rgn $ 22.5m | HK based | BWTS &amp; Scrubber fitted |
+| KMAX | NORD CORONA | 81,600 | 2019 | JIANGSU HANTONG, China | MAN-B&W | Sep-24 |  | $ 29.0m | Greek | BWTS fitted |
+| KMAX | PEDHOULAS TRADER | 82,214 | 2006 | TSUNEISHI, Japan | MAN-B&W | May-26 |  | $ 15.84m | Greek | basis dely within December |
+| UMAX | NORD BARENTS | 62,625 | 2019 | OSHIMA, Japan | MAN-B&W | Feb-24 | 4 X 30t CRANES | $ 33.3m | undisclosed | Scrubber fitted |
+| UMAX | ULTRA DYNAMIC | 61,412 | 2011 | SHIN KASADO, Japan | MAN-B&W | Jul-26 | 4 X 30,5t CRANES | rgn $ 22.5m | HK based | BWTS & Scrubber fitted |
 | HANDY | DREAM OCEAN | 33,383 | 2013 | SHIN KURUSHIMA, Japan | Mitsubishi | Aug-25 | 4 X 30t CRANES | $ 17.65m | undisclosed | BWTS fitted |
 ## Secondhand Sales
 
@@ -274,7 +274,7 @@ In the Ultramax sector we had the sale of the "ULTRA DYNAMIC" (61,412dwt-blt '11
 | Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
 | Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
-The newbuilding ordering activity continues to witness a steady number of materialized deals through September. In the tanker realm, Mitsui &amp; Co sealed a deal with Hyundai Vietnam for three 50,000dwt vessels at \$42.7m. Additionally, Swedish Furetank declared two options for two 17,999dwt LNG-fuelled vessels at CMJL Yangzhou. On the dry front, Jaldhi Overseas inked a deal with Yamic for the construction of four 66,000dwt vessels, which will meet EEDI phase 3 standards. Last but not least, in the gas sector, we continue to witness the owners' insatiable hunger for LNG carriers with Chinese CMES declaring an option for two 175,000cbm units at DSIC, while placing a fresh order for two firm plus two optional 175,000cbm dual-fuelled vessels. The owner will pay the competitive price of \$200.0m for the vessels which will be delivered in 2026.
+The newbuilding ordering activity continues to witness a steady number of materialized deals through September. In the tanker realm, Mitsui & Co sealed a deal with Hyundai Vietnam for three 50,000dwt vessels at \$42.7m. Additionally, Swedish Furetank declared two options for two 17,999dwt LNG-fuelled vessels at CMJL Yangzhou. On the dry front, Jaldhi Overseas inked a deal with Yamic for the construction of four 66,000dwt vessels, which will meet EEDI phase 3 standards. Last but not least, in the gas sector, we continue to witness the owners' insatiable hunger for LNG carriers with Chinese CMES declaring an option for two 175,000cbm units at DSIC, while placing a fresh order for two firm plus two optional 175,000cbm dual-fuelled vessels. The owner will pay the competitive price of \$200.0m for the vessels which will be delivered in 2026.
 
 > **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
@@ -284,7 +284,7 @@ The newbuilding ordering activity continues to witness a steady number of materi
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4 | Tanker | 50,000 dwt | Hyundai Vietnam, Vietnam | 2025 | Japanese (Mitsui &amp; Co) | $ 42.7m |  |
+| 4 | Tanker | 50,000 dwt | Hyundai Vietnam, Vietnam | 2025 | Japanese (Mitsui & Co) | $ 42.7m |  |
 | 2 | Tanker | 17,999 dwt | CMJL Yangzhou, China | 2024-2025 | Swedish (Furetank Rederi) | undisclosed | option declared, LNG fuelled |
 | 4 | Bulker | 66,000 dwt | Yamic, China | 2024 | Singapore based (Jaldhi Overseas) | undisclosed | EEDI phase 3 |
 | 2 | LNG | 175,000 cbm | DSIC, China | 2026 | Chinese (CMES) | $ 200.0m | option declared, dual fuelled |

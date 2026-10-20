@@ -143,22 +143,22 @@ The Handysize sector delivered mixed outcomes. The Atlantic basin demonstrated h
 # Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | MINERAL UTAMARO | 207,469 | 2016 | IMABARI, Japan | MAN B\&amp;W | Feb-26 |  | $ 165.0m | UAE (Asyad Shipping) |  |
-| NEWCASTLEMAX | MINERAL EDO | 207,219 | 2015 | IMABARI, Japan | MAN B\&amp;W | Apr-25 |  | $ 165.0m | UAE (Asyad Shipping) |  |
-| NEWCASTLEMAX | MINERAL HOKUSAI | 207,219 | 2015 | IMABARI, Japan | MAN B\&amp;W | Nov-25 |  | $ 165.0m | UAE (Asyad Shipping) |  |
-| CAPE | FRONTIER BONANZA | 179,435 | 2010 | HYUNDAI HI, S. Korea | MAN B\&amp;W | Oct-25 |  | $ 26.2m | Greek | BWTS |
-| MINI CAPE | ANGLO SAXON | 114,135 | 2010 | SHANGHAI SHIPYARD, China | MAN B\&amp;W | Sep-25 |  | $ 14.5m | Indian | BWTS, Scrubber fitted |
-| POST PMAX | KM NAGOYA | 95,349 | 2012 | IMABARI, Japan | MAN B\&amp;W | Aug-25 |  | $ 17.5m | undisclosed |  |
-| KMAX | RED MARLIN | 85,015 | 2017 | SASEBO, Japan | MAN B\&amp;W | Feb-27 |  | $ 26.0m | Asian |  |
-| KMAX | SHANDONG FU HUI | 81,782 | 2017 | Jiangsu Jinling, China | MAN B\&amp;W | Oct-27 |  | $ 24.6m | Turkish | BWTS |
-| KMAX | SHANDONG FU YUAN | 81,781 | 2018 | Jiangsu Jinling, China | MAN B\&amp;W | May-28 |  | $ 25.1m | undisclosed | BWTS |
-| KMAX | ISTRIA | 81,699 | 2013 | WUHU XINLIAN, China | MAN B\&amp;W |  |  | $ 17.0m | Greek |  |
-| SUPRA | CI YUN SHAN | 56,687 | 2010 | CHINA SHIPPING IND JIANGSU, China | MAN B\&amp;W | Nov-25 | 4 X 30t CRANES | $ 11.5m | undisclosed | BWTS |
-| SUPRA | MAGNUM ENERGY | 53,628 | 2009 | YANGZHOU DAYANG, China | MAN B\&amp;W | Jan-29 | 4 X 35t CRANES | $ 10.0m | Chinese | BWTS |
-| SUPRA | ENDEAVOR | 53,496 | 2008 | NAM TRIEU, Vietnam | MAN B\&amp;W | Apr-28 | 4 X 36t CRANES | $ 9.0m | undisclosed | BWTS |
-| SUPRA | OCEAN PRINCE | 52,475 | 2002 | TSUNEISHI SHIPBUILDING, Japan | MAN B\&amp;W | Mar-27 | 4 X 30t CRANES | $ 7.9m | undisclosed |  |
+| NEWCASTLEMAX | MINERAL UTAMARO | 207,469 | 2016 | IMABARI, Japan | MAN B&W | Feb-26 |  | $ 165.0m | UAE (Asyad Shipping) |  |
+| NEWCASTLEMAX | MINERAL EDO | 207,219 | 2015 | IMABARI, Japan | MAN B&W | Apr-25 |  | $ 165.0m | UAE (Asyad Shipping) |  |
+| NEWCASTLEMAX | MINERAL HOKUSAI | 207,219 | 2015 | IMABARI, Japan | MAN B&W | Nov-25 |  | $ 165.0m | UAE (Asyad Shipping) |  |
+| CAPE | FRONTIER BONANZA | 179,435 | 2010 | HYUNDAI HI, S. Korea | MAN B&W | Oct-25 |  | $ 26.2m | Greek | BWTS |
+| MINI CAPE | ANGLO SAXON | 114,135 | 2010 | SHANGHAI SHIPYARD, China | MAN B&W | Sep-25 |  | $ 14.5m | Indian | BWTS, Scrubber fitted |
+| POST PMAX | KM NAGOYA | 95,349 | 2012 | IMABARI, Japan | MAN B&W | Aug-25 |  | $ 17.5m | undisclosed |  |
+| KMAX | RED MARLIN | 85,015 | 2017 | SASEBO, Japan | MAN B&W | Feb-27 |  | $ 26.0m | Asian |  |
+| KMAX | SHANDONG FU HUI | 81,782 | 2017 | Jiangsu Jinling, China | MAN B&W | Oct-27 |  | $ 24.6m | Turkish | BWTS |
+| KMAX | SHANDONG FU YUAN | 81,781 | 2018 | Jiangsu Jinling, China | MAN B&W | May-28 |  | $ 25.1m | undisclosed | BWTS |
+| KMAX | ISTRIA | 81,699 | 2013 | WUHU XINLIAN, China | MAN B&W |  |  | $ 17.0m | Greek |  |
+| SUPRA | CI YUN SHAN | 56,687 | 2010 | CHINA SHIPPING IND JIANGSU, China | MAN B&W | Nov-25 | 4 X 30t CRANES | $ 11.5m | undisclosed | BWTS |
+| SUPRA | MAGNUM ENERGY | 53,628 | 2009 | YANGZHOU DAYANG, China | MAN B&W | Jan-29 | 4 X 35t CRANES | $ 10.0m | Chinese | BWTS |
+| SUPRA | ENDEAVOR | 53,496 | 2008 | NAM TRIEU, Vietnam | MAN B&W | Apr-28 | 4 X 36t CRANES | $ 9.0m | undisclosed | BWTS |
+| SUPRA | OCEAN PRINCE | 52,475 | 2002 | TSUNEISHI SHIPBUILDING, Japan | MAN B&W | Mar-27 | 4 X 30t CRANES | $ 7.9m | undisclosed |  |
 | HMAX | GUO YUAN 7 | 47,215 | 1997 | JIANGNAN, China | SULZER | Sep-27 | 4 X 30t CRANES | $ 3.5m | undisclosed |  |
-| HANDY | ATILLA | 37,193 | 2011 | SAMHO, S. Korea | MAN B\&amp;W | Mar-26 | 4 X 35t CRANES | $ 13.2m | Greek |  |
+| HANDY | ATILLA | 37,193 | 2011 | SAMHO, S. Korea | MAN B&W | Mar-26 | 4 X 35t CRANES | $ 13.2m | Greek |  |
 
 ---
 

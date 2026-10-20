@@ -18,7 +18,7 @@ China's coal imports from January to October were 230.1m mt, a decrease of aroun
 
 Panamax sector was the only positive exception during the past week, with Atlantic grain and mineral demand underpinning rates. The rest of the sectors' activity was subdued across both basins albeit with owners resisting strong discounts. The BDI today (06/12/2022) closed at 1,340 points, up by 13 points compared to previous Tuesday's closing (29/11/2022). Uncertainty keeps mounting in the crude carrier realm amidst the EU oil price cap and the beginning of sanctions against Russian crude oil. As far as the previous week's performance, rates softened across all regions yet with T/C earnings still hovering at significant healthy levels. The BDTI today (06/12/2022) closed at 2,112, a decrease of 321 points and the BCTI at 1,783, a decrease of 30 points compared to previous Tuesday's (29/11/2022) levels.
 
-## **Sale &amp; Purchase (Wet: Stable+ / Dry: Softer)**
+## **Sale & Purchase (Wet: Stable+ / Dry: Softer)**
 
 The dry bulk SnP activity softened during the past days while in the case of the tankers, interest remained vivid which was evident from the strong volume of materialized deals. In the tanker sector, we had the sale of the "SYFNOS" (298,495dwt-blt '06, Japan), which was sold to UAE buyers, for a price in the region of \$56.0m. On the dry bulker side sector, we had the sale of the "TW MANILA" (93,250dwt-blt '12, China), which was sold to undisclosed buyers, for a price in the region of \$19.0m.
 
@@ -116,7 +116,7 @@ VLCC T/C earnings averaged \$ 46,937/day, down - \$18,362/day w-o-w and closed o
 
 Suezmax T/C earnings averaged \$117,600/day, down - \$10,690/day w-o-w. On the Aframax front, T/C earnings averaged \$ 111,356/day, up + \$2,653/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "SYFNOS" (298,495dwt-blt '06, Japan), which was sold to UAE buyers, for a price in the region of \$56.0m.
 
@@ -186,9 +186,9 @@ Supramax 10TC averaged \$ 12,880/day, up + 0.21% w-o-w, while the Handysize 7TC 
 | **Ultramax** | **63k** | 28.0 | 28.9 | -3.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.0 | 24.5 | -2.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the Post Panamax sector we had the sale of the "TW MANILA" (93,250dwt-blt '12, China), which was sold to undisclosed buyers, for a price in the region of \$19.0m.
 
@@ -203,30 +203,30 @@ In the Handysize sector we had the sale of the "SEASTAR HAWK" (40,355dwt-blt '22
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | SYFNOS | 298,495 | 2006 | UNIVERSAL, Japan | MAN-B\&amp;W | Jun-26 | DH | $ 56.0m | UAE based | BWTS &amp; Scrubber fitted |
-| VLCC | SEAKING | 318,669 | 2005 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Feb-25 | DH | undisclosed | undisclosed | BWTS &amp; Scrubber fitted |
-| SUEZ | GRENA KNUTSEN | 148,553 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Dec-23 | DH | $ 27.5m | undisclosed | Shuttle Tanker |
-| AFRA | SOUTHERN ROUSE | 108,467 | 2018 | TSUNEISHI, Japan | MAN-B\&amp;W | Sep-27 | DH | $ 62.0m | undisclosed | BWTS &amp; Scrubber fitted |
-| LR1 | STROFADES | 69,431 | 2006 | DAEWOO-MANGALIA, Romania | MAN-B\&amp;W | Nov-25 | DH | $ 17.3m | Greek | BWTS fitted, CAP 1 |
-| LR1 | ANTIKEROS | 69,714 | 2004 | DAEWOO, S. Korea | B\&amp;W | Oct-24 | DH | rgn $ 13.0m | Turkish | CAP 1 |
-| MR2 | NAVIGARE PACTOR | 51,034 | 2012 | STX, S. Korea | MAN-B\&amp;W | Jan-27 | DH | $ 32.0m | Turkish | BWTS fitted, dely within January '23 |
-| MR2 | CENTENNIAL MISUMI | 47,186 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Sep-23 | DH | $ 21.5m | undisclosed | BWTS fitted |
+| VLCC | SYFNOS | 298,495 | 2006 | UNIVERSAL, Japan | MAN-B&W | Jun-26 | DH | $ 56.0m | UAE based | BWTS & Scrubber fitted |
+| VLCC | SEAKING | 318,669 | 2005 | HYUNDAI ULSAN, S. Korea | B&W | Feb-25 | DH | undisclosed | undisclosed | BWTS & Scrubber fitted |
+| SUEZ | GRENA KNUTSEN | 148,553 | 2003 | SAMSUNG, S. Korea | B&W | Dec-23 | DH | $ 27.5m | undisclosed | Shuttle Tanker |
+| AFRA | SOUTHERN ROUSE | 108,467 | 2018 | TSUNEISHI, Japan | MAN-B&W | Sep-27 | DH | $ 62.0m | undisclosed | BWTS & Scrubber fitted |
+| LR1 | STROFADES | 69,431 | 2006 | DAEWOO-MANGALIA, Romania | MAN-B&W | Nov-25 | DH | $ 17.3m | Greek | BWTS fitted, CAP 1 |
+| LR1 | ANTIKEROS | 69,714 | 2004 | DAEWOO, S. Korea | B&W | Oct-24 | DH | rgn $ 13.0m | Turkish | CAP 1 |
+| MR2 | NAVIGARE PACTOR | 51,034 | 2012 | STX, S. Korea | MAN-B&W | Jan-27 | DH | $ 32.0m | Turkish | BWTS fitted, dely within January '23 |
+| MR2 | CENTENNIAL MISUMI | 47,186 | 2008 | ONOMICHI, Japan | MAN-B&W | Sep-23 | DH | $ 21.5m | undisclosed | BWTS fitted |
 | MR1 | ARDBEG | 34,798 | 2021 | FUJIAN MAWEI, China | WinGD | Nov-26 | DH | $ 35.0m | undisclosed | BWTS fitted |
-| MR1 | HAWASSA | 42,190 | 2013 | JINLING, China | MAN-B\&amp;W | Jan-23 | DH | $ 34.0m (en bloc) | Singaporean (Stamford Shipping) | Tier II |
-| MR1 | BAHIR DAR | 42,150 | 2012 | JINLING, China | MAN-B\&amp;W | Nov-22 | DH | $ 34.0m (en bloc) | Singaporean (Stamford Shipping) | Tier II |
-| MR1 | STAR N | 37,836 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-24 | DH | $ 18.1m | Greek | BWTS fitted |
+| MR1 | HAWASSA | 42,190 | 2013 | JINLING, China | MAN-B&W | Jan-23 | DH | $ 34.0m (en bloc) | Singaporean (Stamford Shipping) | Tier II |
+| MR1 | BAHIR DAR | 42,150 | 2012 | JINLING, China | MAN-B&W | Nov-22 | DH | $ 34.0m (en bloc) | Singaporean (Stamford Shipping) | Tier II |
+| MR1 | STAR N | 37,836 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-24 | DH | $ 18.1m | Greek | BWTS fitted |
 | SMALL | GUANG HUI 638 | 7,048 | 2013 | HAIDONG, China | Wartsila | Jun-23 | DH | $ 7.2m | undisclosed | Chinese flag |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | TW MANILA | 93,250 | 2012 | Jiangsu, China | MAN-B\&amp;W | Apr-27 |  | $ 19.0m | undisclosed |  |
-| HANDY | SEASTAR HAWK | 40,355 | 2022 | HAKODATE, Japan | MAN-B\&amp;W | Aug-27 | CR 4x30 T | $ 30.9m | Japanese (Daido Kaiun) | resale, Tier III |
+| POST PMAX | TW MANILA | 93,250 | 2012 | Jiangsu, China | MAN-B&W | Apr-27 |  | $ 19.0m | undisclosed |  |
+| HANDY | SEASTAR HAWK | 40,355 | 2022 | HAKODATE, Japan | MAN-B&W | Aug-27 | CR 4x30 T | $ 30.9m | Japanese (Daido Kaiun) | resale, Tier III |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | TEERA BHUM | 1,858 | 2005 | Jiangsu, China | MAN-B\&amp;W | Jan-25 |  | undisclosed | undisclosed |
+| FEEDER | TEERA BHUM | 1,858 | 2005 | Jiangsu, China | MAN-B&W | Jan-25 |  | undisclosed | undisclosed |
 
 © Intermodal Research 06/12/2022 4
 
@@ -269,7 +269,7 @@ Heading towards the end of 2022, the momentum in the newbuilding market remains 
 | 2+2 | Tanker | 50,000 | dwt | Jiangsu New Yangzijiang, China | Greek (Evalend) | $ 40.0m |  |
 | 2+4 | Tanker | 25,900 | dwt | CMJL Yangzhou, China | Chinese (Shanghai Junzheng Shipping) | $ 45.0m | st-st, TIER III, EEDI Phase 2 |
 | 2+2 | Tanker | 15,000 | dwt | CMJL Yangzhou, China | Danish (Terntank) | undisclosed | wind and methanol propulsion |
-| 1 | Bulker | 63,300 | dwt | Tsuneishi Zhoushan, China | Greek (Meadway Shipping &amp; Trading) | rgn $ 38.0m | eco |
+| 1 | Bulker | 63,300 | dwt | Tsuneishi Zhoushan, China | Greek (Meadway Shipping & Trading) | rgn $ 38.0m | eco |
 | 2 | Bulker | 40,000 | dwt | Jiangsu New Yangzijiang, China | Greek (Evalend) | low $ 30.0m | green dolphin type |
 | 1 | LNG | 180,000 | cbm | Samsung HI, S. Korea | Danish (Celsius Shipping) | $ 250.0m |  |
 | 2 | LNG | 175,000 | cbm | Dalian Shipbuilding, China | Chinese (CMES) | $ 235.0m | options declared |

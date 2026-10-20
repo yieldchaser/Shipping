@@ -30,7 +30,7 @@ The impact of a UK and EU maritime insurance ban on ships carrying Russian oil c
 
 The performance of Capesize rates was the sole positive element in last week's freight market, as the rest of the sizes ended up the week with discounts on their average earnings. The BDI today (07/06/2022) closed at 2,514 points, down by 52 points compared to previous Tuesday's closing (31/05/2022). An overall quiet Atlantic market together with increasing bunker prices, brought pressure on the crude carries earnings last week. The BDTI today (07/06/2022) closed at 1,089, a decrease of 30 points and the BCTI at 1,408, a decrease of 18 point compared to previous Tuesday's (31/05/2022) levels.
 
-## Sale &amp; Purchase (**Wet: Firmer** / **Dry: Softer**)
+## Sale & Purchase (**Wet: Firmer** / **Dry: Softer**)
 
 Last week, buyers in the SnP realm focused on the tanker segment. At the same time, the list of the dry bulk materialized secondhand sales was shorter compared to the previous week's one. In the tanker sector, we had the sale of the "DUQM" (310,084dwt-blt '08, Japan), which was sold to Chinese buyers, for a price in the region of \$39.0m. On the dry bulker side sector, we had the sale of the "ROSEBANK" (177,029dwt-blt '10, China), which was sold to UK based buyers, for a price in the region of \$27.5m.
 
@@ -124,7 +124,7 @@ VLCC T/C earnings averaged \$ -32,837/day, down - \$6,322/day w-o-w. Rates remai
 
 Suezmax T/C earnings averaged \$ 9,663/day, - \$5,658/day w-o-w. The West Africa market set the negative tone with a decrease of 9.23WS points materializing on the TD20 route. Any fresh cargoes were quickly absorbed by the oversupply of tonnage in the region. Pressure was also evident in the Med with further drops likely to take place next week. Aframax T/C earnings averaged \$ 14,517/day, down - \$4,874/day w-o-w. A tighter tonnage list in North Europe led rates to remain steady. On the contrary, limited Med activity resulted in a drop on the TD19 route, while on the USG market, TD9 has lost 15WS points w-o-w .
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "DUQM" (310,084dwt-bl't '08, Japan), which was sold to Chinese buyers, for a price in the region of \$39.0m.
 
@@ -192,7 +192,7 @@ Supramax 10TC averaged \$ 30,141/day, down - 2.83% w-o-w, while the Handysize 7T
 | **Ultramax** | **63k** | 34.5 | 34.4 | **0.4%** | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 29.0 | 29.0 | 0.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "ROSEBANK" (177,029dwt-blt '10, China), which was sold to UK based buyers, for a price in the region of \$27.5m.
 
@@ -207,25 +207,25 @@ In the Supramax sector we had the sale of the "IVS PINEHURST" (57,811dwt-blt '15
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | DUQM | 310,084 | 2008 | IMABARI, Japan | MAN-B\&amp;W | Nov-23 | DH | $ 39.0m | Chinese | BWTS fitted, dely bss within Jul/Aug '22 |
-| SUEZ | MARVIN STAR | 157,985 | 2009 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Oct-24 | DH | $ 26.4m | Greek (Transmed) | via commercial auction |
+| VLCC | DUQM | 310,084 | 2008 | IMABARI, Japan | MAN-B&W | Nov-23 | DH | $ 39.0m | Chinese | BWTS fitted, dely bss within Jul/Aug '22 |
+| SUEZ | MARVIN STAR | 157,985 | 2009 | HYUNDAI SAMHO, S. Korea | MAN-B&W | Oct-24 | DH | $ 26.4m | Greek (Transmed) | via commercial auction |
 | SUEZ | RIDGEBURY ASTARI | 149,991 | 2002 | NKK, Japan | Sulzer | Jul-22 | DH | $ 15.5m | undisclosed |  |
-| AFRA | SILVER | 107,507 | 2010 | TSUNEISHI, Japan | MAN-B\&amp;W | Jul-25 | DH | $ 27.5m | undisclosed | BWTS fitted, epoxy coated |
-| AFRA | GODAM | 113,553 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | May-26 | DH | $ 22.0m | undisclosed | BWTS fitted, Ice 1A |
-| MR2 | MAERSK CAELUM | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Mar-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
-| MR2 | MAERSK NAVIGATOR | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Apr-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
-| MR2 | MAERSK SEAFARER | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Sep-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
-| MR1 | MAERSK CUMULUS | 39,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
-| MR1 | MAERSK NIMBUS | 39,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Dec-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
-| MR1 | MAERSK STRATUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-27 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
-| MR1 | MAERSK CIRRUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Aug-22 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
-| MR1 | MAERSK ALTUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Apr-27 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
-| MR2 | CHALLENGE PASSAGE | 48,658 | 2005 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Apr-25 | DH | $ 12.8m | undisclosed | BWTS fitted |
+| AFRA | SILVER | 107,507 | 2010 | TSUNEISHI, Japan | MAN-B&W | Jul-25 | DH | $ 27.5m | undisclosed | BWTS fitted, epoxy coated |
+| AFRA | GODAM | 113,553 | 2006 | SAMSUNG, S. Korea | MAN-B&W | May-26 | DH | $ 22.0m | undisclosed | BWTS fitted, Ice 1A |
+| MR2 | MAERSK CAELUM | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B&W | Mar-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR2 | MAERSK NAVIGATOR | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B&W | Apr-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR2 | MAERSK SEAFARER | 45,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B&W | Sep-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR1 | MAERSK CUMULUS | 39,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B&W | Oct-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR1 | MAERSK NIMBUS | 39,999 | 2016 | HYUNDAI MIPO, S. Korea | MAN-B&W | Dec-26 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR1 | MAERSK STRATUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-27 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR1 | MAERSK CIRRUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B&W | Aug-22 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR1 | MAERSK ALTUS | 39,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B&W | Apr-27 | DH | $ 230.0m (en bloc) | Korean (KMarin) | BWTS fitted, on subs |
+| MR2 | CHALLENGE PASSAGE | 48,658 | 2005 | IWAGI ZOSEN, Japan | MAN-B&W | Apr-25 | DH | $ 12.8m | undisclosed | BWTS fitted |
 | MR2 | ANGEL NO. 6 | 45,663 | 2005 | SHIN KURUSHIMA, Japan | Mitsubishi | Jun-25 | DH | $ 9.4m | undisclosed | BWTS fitted, St-St |
-| MR2 | SABREWING | 49,323 | 2004 | NAIKAI ZOSEN, Japan | B\&amp;W | Jan-24 | DH | rgn $ 9.5m | Chinese | BWTS fitted |
-| MR1 | HANS SCHOLL | 40,250 | 2004 | SHINA, S. Korea | MAN-B\&amp;W | Jul-24 | DH | $ 8.1m | undisclosed | Epoxy coated |
-| HANDY | CHEM EAGLE | 25,421 | 2008 | DAE SUN, S. Korea | MAN-B\&amp;W | Jul-23 | DH | rgn $ 9.0m | undisclosed |  |
-| SMALL | CHEM VENUS | 19,888 | 2004 | USUKI, Japan | B\&amp;W | Dec-24 | DH | $ 9.9m | undisclosed | BWTS fitted, St-St |
+| MR2 | SABREWING | 49,323 | 2004 | NAIKAI ZOSEN, Japan | B&W | Jan-24 | DH | rgn $ 9.5m | Chinese | BWTS fitted |
+| MR1 | HANS SCHOLL | 40,250 | 2004 | SHINA, S. Korea | MAN-B&W | Jul-24 | DH | $ 8.1m | undisclosed | Epoxy coated |
+| HANDY | CHEM EAGLE | 25,421 | 2008 | DAE SUN, S. Korea | MAN-B&W | Jul-23 | DH | rgn $ 9.0m | undisclosed |  |
+| SMALL | CHEM VENUS | 19,888 | 2004 | USUKI, Japan | B&W | Dec-24 | DH | $ 9.9m | undisclosed | BWTS fitted, St-St |
 
 © Intermodal Research 07/06/2022 4
 
@@ -236,13 +236,13 @@ In the Supramax sector we had the sale of the "IVS PINEHURST" (57,811dwt-blt '15
 
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | ROSEBANK | 177,029 | 2010 | NEW TIMES, China | MAN-B&amp;W | Aug-25 |  | $ 27.5m | UK based |  |
-| PMAX | ORIENT PRIMA | 76,596 | 2005 | IMABARI, Japan | MAN-B&amp;W | Oct-25 |  | excess $ 17.0m | undisclosed | BWTS fitted |
-| SUPRA | IVS PINEHURST | 57,811 | 2015 | TSUNEISHI, Japan | MAN-B&amp;W | Jul-25 | 4 X 35t CRANES | $ 18.0m | South African (Grindrod Shipping) | exercised purchase option, BWTS fitted |
-| SUPRA | VAN FORTUNE | 56,847 | 2009 | TAIZHOU KOUAN, China | MAN-B&amp;W | Jul-24 | 4 X 30t CRANES | $ 16.5m | Chinese (HNA Technology) | BWTS fitted |
-| HANDY | INTERLINK DIGNITY | 38,668 | 2015 | HUATAI NANTONG, China | MAN-B&amp;W | Aug-25 | 4 X 30t CRANES | $ 26.3m | UK (Tufton Oceanic) | Ice Class 1C |
+| CAPE | ROSEBANK | 177,029 | 2010 | NEW TIMES, China | MAN-B&W | Aug-25 |  | $ 27.5m | UK based |  |
+| PMAX | ORIENT PRIMA | 76,596 | 2005 | IMABARI, Japan | MAN-B&W | Oct-25 |  | excess $ 17.0m | undisclosed | BWTS fitted |
+| SUPRA | IVS PINEHURST | 57,811 | 2015 | TSUNEISHI, Japan | MAN-B&W | Jul-25 | 4 X 35t CRANES | $ 18.0m | South African (Grindrod Shipping) | exercised purchase option, BWTS fitted |
+| SUPRA | VAN FORTUNE | 56,847 | 2009 | TAIZHOU KOUAN, China | MAN-B&W | Jul-24 | 4 X 30t CRANES | $ 16.5m | Chinese (HNA Technology) | BWTS fitted |
+| HANDY | INTERLINK DIGNITY | 38,668 | 2015 | HUATAI NANTONG, China | MAN-B&W | Aug-25 | 4 X 30t CRANES | $ 26.3m | UK (Tufton Oceanic) | Ice Class 1C |
 | HANDY | ADRIATIC PEARL | 37,294 | 2012 | OUHUA, China | Wartsila | May-22 | 4 X 30t CRANES | high $ 19.0m | European | BWTS fitted, dely July '22 |
-| HANDY | PACIFIC NOBLE | 28,198 | 2012 | IMABARI, Japan | MAN-B&amp;W | Apr-25 | 4 X 30,7t CRANES | undisclosed | Greek (Meadway) |  |
+| HANDY | PACIFIC NOBLE | 28,198 | 2012 | IMABARI, Japan | MAN-B&W | Apr-25 | 4 X 30,7t CRANES | undisclosed | Greek (Meadway) |  |
 
 © Intermodal Research 07/06/2022 5
 

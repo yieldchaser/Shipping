@@ -27,7 +27,7 @@ Even though the call on OPEC excl. Russia to boost supplies would increase, with
 
 The Capesize sector managed to claw back a small portion of its heavy discounts. The rest of the sizes faced additional pressure with Handysize still presenting as the most resilient size. The BDI today (01/02/2022) closed at 1,440 points, down by 97 points compared to previous Tuesday's closing (25/01/2022). Sentiment in the crude carrier markets was negative for another week, with average T/C earnings remaining below OPEX levels across all sectors. The BDTI today (01/02/2022) closed at 685, a decrease of 6 points, and the BCTI at 583, an increase of 40 point compared to previous Tuesday's (25/01/2022) levels.
 
-## Sale &amp; Purchase (Wet: <mark>Stable +</mark> / Dry: <mark>Stable +</mark>)
+## Sale & Purchase (Wet: <mark>Stable +</mark> / Dry: <mark>Stable +</mark>)
 
 The dry bulk and the tanker sectors continue to see a healthy volume of SnP deals while equally impressive was the activity noted in the container sector. In the tanker sector, we had sale of the "GUNDALA" (107,127dwt-bl't '03, Japan), which was sold to Chinese buyers, for a price in the region of \$11.7m. On the dry bulker side sector, we had the sale of the "SOUTH TRADER" (181,343dwt-bl't '14, Japan), which was sold to Greek owner, Safe Bulkers, for a price in the region of \$33.8m.
 
@@ -128,7 +128,7 @@ VLCC T/C earnings averaged \$ -15,219/day, down - \$40/day w-o-w. Rates across a
 
 Suezmax T/C earnings averaged \$ 1,297/day, up + \$4,157/day w-o-w. A healthy number of cargoes allowed West Africa Suezmax rates to firm further last week, while the strong momentum once more extended through to the Med market. Aframax T/C earnings averaged \$ 3,373/day, down - \$305/day. The North European activity faced pressure with TD17 moving down by 5.93WS points w-o-w. In the Med, the week kicked off with rates suffering discounts, but mid-week owners managed to claw back the lost ground and even achieving small w-o-w improvements.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Aframax sector we had sale of the "GUNDALA" (107,127dwt-blt '03, Japan), which was sold to Chinese buyers, for a price in the region of \$11.7m.
 
@@ -195,7 +195,7 @@ Supramax 10TC averaged approx. \$18,228/day down -8.3% w-o-w, with the Atlantic 
 | **Ultramax** **63k** | 30.5 | 30.5 | 0.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** **37K** | 26.6 | 26.0 | **2.4%** | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "SOUTH TRADER" (181,343dwt-blt '14, Japan), which was sold to Greek owner, Safe Bulkers, for a price in the region of \$33.8m.
 
@@ -210,11 +210,11 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | GUNDALA | 107,127 | 2003 | IMABARI, Japan | B\&amp;W | Jan-23 | DH | $ 11.7m | Chinese |  |
-| PMAX | RED EAGLE | 74,997 | 2011 | SUNGDONG, S. Korea | MAN-B\&amp;W | Apr-26 | DH | undisclosed | USA based |  |
-| LR1 | POLAR COD | 73,919 | 2007 | ONOMICHI, Japan | MAN-B\&amp;W | Mar-22 | DH | $ 11.7m | Greek (Coral Shipping) | ICE Class 1A |
-| MR2 | STI FONTVIEILLE | 49,990 | 2013 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jul-23 | DH | $ 23.5m | Japanese |  |
-| MR2 | PRIME EXPRESS | 45,996 | 2010 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Nov-25 | DH | $ 16.2m | undisclosed |  |
+| AFRA | GUNDALA | 107,127 | 2003 | IMABARI, Japan | B&W | Jan-23 | DH | $ 11.7m | Chinese |  |
+| PMAX | RED EAGLE | 74,997 | 2011 | SUNGDONG, S. Korea | MAN-B&W | Apr-26 | DH | undisclosed | USA based |  |
+| LR1 | POLAR COD | 73,919 | 2007 | ONOMICHI, Japan | MAN-B&W | Mar-22 | DH | $ 11.7m | Greek (Coral Shipping) | ICE Class 1A |
+| MR2 | STI FONTVIEILLE | 49,990 | 2013 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jul-23 | DH | $ 23.5m | Japanese |  |
+| MR2 | PRIME EXPRESS | 45,996 | 2010 | SHIN KURUSHIMA, Japan | MAN-B&W | Nov-25 | DH | $ 16.2m | undisclosed |  |
 | J19 | CELSIUS MONACO | 19,999 | 2005 | SHIN KURUSHIMA, Japan | Mitsubishi | Nov-25 | DH | $ 7.75m | Korean | StSt |
 | SMALL | OCEAN MORAY | 11,999 | 2018 | ZHEJIANG SHENZHOU, China | Wartsila | Jan-23 | DH | $ 10.0m | Singapore based (Hong Lam Marine) |  |
 | SMALL | NEWOCEAN 6 | 4,679 | 2014 | CHONGQING CHUANDONG, China | Cummins | Sep-24 | DH | $ 5.3m | undisclosed |  |
@@ -222,16 +222,16 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | SOUTH TRADER | 181,343 | 2014 | KOYO MIHARA, Japan | MAN-B\&amp;W | Jan-24 |  | $ 33.8m | Greek (Safe Bulkers) | delivery February 2022 |
-| POST PMAX | BOTTIGLIERI FRANCO VELA | 93,274 | 2010 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Jul-25 |  | $ 17.5m | Greek | BWTS fitted |
-| POST PMAX | BOTTIGLIERI GIULIO BORRIELLO | 93,258 | 2011 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Jan-26 |  | $ 18.5m | Greek | BWTS fitted |
-| PMAX | ELVA | 73,910 | 2001 | NAMURA, Japan | B\&amp;W | Sep-26 |  | $ 11.25m | undisclosed | BWTS fitted |
-| SUPRA | KOUJU LILY | 58,872 | 2011 | KAWASAKI, Japan | MAN-B\&amp;W | Nov-24 | 4 X 30,5t CRANES | $ 24.5m | Greek | basis 5-yrs BBHP |
-| HANDY | DAIDO AMBITION | 37,982 | 2021 | I-S SHIPYARD, Japan | MAN-B\&amp;W | May-26 | 4 X 30,5t CRANES | $ 33.0m | Greek based (F.G.M. Chartering) | BBHP terms |
-| HANDY | CIELO DI VIRGIN GORDA | 39,202 | 2015 | YANGFAN, China | MAN-B\&amp;W | Feb-25 | 4 X 30t CRANES | $ 22.7m | German (Oldendorff) | BWTS fitted, Eco |
-| HANDY | ROYAL INNOVATION | 28,374 | 2011 | IMABARI, Japan | MAN-B\&amp;W | Nov-25 | 4 X 30,7t CRANES | $ 13.0m | Greek (Alma Shipmanagement) | BWTS fitted |
-| HANDY | WOORI STAR | 28,678 | 1999 | IMABARI, Japan | B\&amp;W | May-24 | 4 X 30,5t CRANES | $ 7.0m | Chinese | OHBS |
-| SMALL | SKAWA | 17,073 | 2012 | TAIZHOU SANFU, China | MAN-B\&amp;W | Jun-22 | 3 X 30t CRANES | $ 10.0m | undisclosed |  |
+| CAPE | SOUTH TRADER | 181,343 | 2014 | KOYO MIHARA, Japan | MAN-B&W | Jan-24 |  | $ 33.8m | Greek (Safe Bulkers) | delivery February 2022 |
+| POST PMAX | BOTTIGLIERI FRANCO VELA | 93,274 | 2010 | JIANGSU NEWYANGZI, China | MAN-B&W | Jul-25 |  | $ 17.5m | Greek | BWTS fitted |
+| POST PMAX | BOTTIGLIERI GIULIO BORRIELLO | 93,258 | 2011 | JIANGSU NEWYANGZI, China | MAN-B&W | Jan-26 |  | $ 18.5m | Greek | BWTS fitted |
+| PMAX | ELVA | 73,910 | 2001 | NAMURA, Japan | B&W | Sep-26 |  | $ 11.25m | undisclosed | BWTS fitted |
+| SUPRA | KOUJU LILY | 58,872 | 2011 | KAWASAKI, Japan | MAN-B&W | Nov-24 | 4 X 30,5t CRANES | $ 24.5m | Greek | basis 5-yrs BBHP |
+| HANDY | DAIDO AMBITION | 37,982 | 2021 | I-S SHIPYARD, Japan | MAN-B&W | May-26 | 4 X 30,5t CRANES | $ 33.0m | Greek based (F.G.M. Chartering) | BBHP terms |
+| HANDY | CIELO DI VIRGIN GORDA | 39,202 | 2015 | YANGFAN, China | MAN-B&W | Feb-25 | 4 X 30t CRANES | $ 22.7m | German (Oldendorff) | BWTS fitted, Eco |
+| HANDY | ROYAL INNOVATION | 28,374 | 2011 | IMABARI, Japan | MAN-B&W | Nov-25 | 4 X 30,7t CRANES | $ 13.0m | Greek (Alma Shipmanagement) | BWTS fitted |
+| HANDY | WOORI STAR | 28,678 | 1999 | IMABARI, Japan | B&W | May-24 | 4 X 30,5t CRANES | $ 7.0m | Chinese | OHBS |
+| SMALL | SKAWA | 17,073 | 2012 | TAIZHOU SANFU, China | MAN-B&W | Jun-22 | 3 X 30t CRANES | $ 10.0m | undisclosed |  |
 
 © Intermodal Research 01/02/2022 4
 
@@ -250,8 +250,8 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 | LNG | AL WAJBAH | 72,348 | 1997 | MITSUBISHI NAGASAKI, Japan | Mitsubishi | May-22 | 134,562 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
 | LNG | DOHA | 72,337 | 1999 | MITSUBISHI NAGASAKI, Japan | Mitsubishi | May-24 | 134,517 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
 | LNG | AL JASRA | 72,218 | 2000 | MITSUBISHI NAGASAKI, Japan | Mitsubishi | Jun-25 | 134,482 | undisclosed | Qatari (Qatargas) | declaration of purchase option |
-| LPG | VENTURE GAS | 49,701 | 1990 | KAWASAKI, Japan | MAN-B\&amp;W |  | 75,386 | rgn $ 20.0m | UAE based |  |
-| LPG | ECO LOYALTY | 3,720 | 2015 | KITANIHON, Japan | MAN-B\&amp;W | Jun-25 | 3,458 | undisclosed | Cyprus based (Intergaz) |  |
+| LPG | VENTURE GAS | 49,701 | 1990 | KAWASAKI, Japan | MAN-B&W |  | 75,386 | rgn $ 20.0m | UAE based |  |
+| LPG | ECO LOYALTY | 3,720 | 2015 | KITANIHON, Japan | MAN-B&W | Jun-25 | 3,458 | undisclosed | Cyprus based (Intergaz) |  |
 
 © Intermodal Research 01/02/2022 5
 
@@ -262,15 +262,15 @@ In the Handysize sector we had the sale of the "CIELO DI VIRGIN GORDA" (39,202dw
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | IONIKOS | 4,360 | 2009 | HHIC, Philippines | MAN-B\&amp;W | Jul-24 |  | $ 96.0m | Asian | delivery June 2022 |
+| PMAX | IONIKOS | 4,360 | 2009 | HHIC, Philippines | MAN-B&W | Jul-24 |  | $ 96.0m | Asian | delivery June 2022 |
 | SUB PMAX | CAPE MARIN | 2,758 | 2012 | GUANGZHOU WENCHONG, China | Wartsila | Jun-22 |  | undisclosed | undisclosed |  |
 | SUB PMAX | CAPE MARTIN | 2,742 | 2007 | AKER MTW WERFT, GERMANY | Mitsubishi | Apr-22 |  | undisclosed | undisclosed |  |
 | SUB PMAX | HSL SHEFFIELD | 2,556 | 2003 | HYUNDAI ULSAN, S. Korea | Sulzer | May-22 | 4 X 40t CRANES | rgn $ 23.0m | undisclosed |  |
-| SUB PMAX | HSL PORTO | 2,478 | 2004 | AKER MTW WERFT, GERMANY | B\&amp;W | Sep-24 | 3 X 45t CRANES | rgn $ 23.0m | undisclosed |  |
-| SUB PMAX | MIAMI TRADER | 2,460 | 2002 | NORDSEEWERKE, Germany | MAN-B\&amp;W | Oct-22 | 3 X 45t CRANES | undisclosed | undisclosed |  |
-| FEEDER | CAPE NABIL | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Nov-25 |  | high $ 20.0m | undisclosed | charter free delivery May-June 2022 |
-| FEEDER | CAPE NEMO | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Sep-25 |  | $ 31.0m | undisclosed | charter free delivery March-April 2022 |
-| FEEDER | BINDI IPSA | 1,740 | 2013 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | May-23 |  | $ 35.0m | undisclosed |  |
+| SUB PMAX | HSL PORTO | 2,478 | 2004 | AKER MTW WERFT, GERMANY | B&W | Sep-24 | 3 X 45t CRANES | rgn $ 23.0m | undisclosed |  |
+| SUB PMAX | MIAMI TRADER | 2,460 | 2002 | NORDSEEWERKE, Germany | MAN-B&W | Oct-22 | 3 X 45t CRANES | undisclosed | undisclosed |  |
+| FEEDER | CAPE NABIL | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B&W | Nov-25 |  | high $ 20.0m | undisclosed | charter free delivery May-June 2022 |
+| FEEDER | CAPE NEMO | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B&W | Sep-25 |  | $ 31.0m | undisclosed | charter free delivery March-April 2022 |
+| FEEDER | BINDI IPSA | 1,740 | 2013 | GUANGZHOU WENCHONG, China | MAN-B&W | May-23 |  | $ 35.0m | undisclosed |  |
 | FEEDER | SONGA COUGAR | 1,118 | 2008 | JINLING, China | MAN | Sep-23 | 2 X 45t CRANES | rgn $ 21.0m | undisclosed |  |
 
 © Intermodal Research 01/02/2022 6

@@ -29,7 +29,7 @@ Overall, while we should expect some support from Asian refiners to the US marke
 
 Limited fresh enquiries against a plethora of open tonnage led to declines in rates across all sizes in the dry bulk realm. The BDI today (01/11/2022) closed at 1,377 points, down by 378 points compared to previous Tuesday's closing (25/10/2022). Last week, the Suezmax sector outperformed the rest of its sizes, followed by steady-positive Aframax market performance while VLCC activity was subdued leading to a downward correction in rates. The BDTI today (01/11/2022) closed at 1,811, an increase of 18 points and the BCTI at 1,195, a decrease of 18 points compared to previous Tuesday's (25/10/2022) levels.
 
-## Sale &amp; Purchase (**Wet: Stable-** / **Dry: Softer**)**
+## Sale & Purchase (**Wet: Stable-** / **Dry: Softer**)**
 
 The dry bulk SnP activity was considerably softer compared to the week prior while Tanker deals maintained their volumes. In the tanker sector, we had the sale of the "RS AURORA" (159,812dwt-blt '18, China), which was sold to Greek owner Delta Tankers, for a price in the region of \$66.0m. On the dry bulker side sector, we had the sale of the "NAVIOS TAURUS" (76,596dwt-blt '05, Japan), which was sold to undisclosed buyers, for a price in the region of \$14.0m.
 
@@ -129,7 +129,7 @@ VLCC T/C earnings averaged \$ 42,302/day, down -\$3,756/day w-o-w and closed off
 
 Suezmax T/C earnings averaged \$ 75,255/day, up + \$7,354/day w-o-w. On the Aframax front, T/C earnings averaged \$64,996, up + \$3,005/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had the sale of the "RS AURORA" (159,812dwt-blt '18, China), which was sold to Greek owner Delta Tankers, for a price in the region of \$66.0m.
 
@@ -197,7 +197,7 @@ Supramax 10TC averaged \$ 17,634/day, down - 4.43% w-o-w, while the Handysize 7T
 | **Ultramax** **63k** | 29.5 | 29.9 | -1.3% | 26.4 | 19.4 | 22.6 |
 | **Handysize** **37K** | 25.6 | 26.7 | -4.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Panamax sector we had the sale of the "NAVIOS TAURUS" (76,596dwt-blt '05, Japan), which was sold to undisclosed buyers, for a price in the region of \$14.0m.
 
@@ -212,28 +212,28 @@ In the Handysize sector we had the sale of the "WAAL CONFIDENCE" (33,387dwt-blt 
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | RS AURORA | 159,812 | 2018 | SWS, China | MAN-B\&amp;W | Jan-23 | DH | $ 66.0m | Greek (Delta Tankers) | BWTS fitted |
-| SUEZ | VALTAMED | 158,609 | 2004 | DAEWOO, S. Korea | B\&amp;W | Sep-24 | DH | $ 26.0m | European | BWTS fitted, old sale |
-| LR2 | DAEHAN 5075 | 115,000 | 2022 | DAEHAN, S. Korea | MAN-B\&amp;W |  | DH | $ 72.5m | UK based (Navig8) | resale |
-| LR1 | HOUSTON STAR | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Feb-24 | DH | $ 13.0m | Turkish |  |
+| SUEZ | RS AURORA | 159,812 | 2018 | SWS, China | MAN-B&W | Jan-23 | DH | $ 66.0m | Greek (Delta Tankers) | BWTS fitted |
+| SUEZ | VALTAMED | 158,609 | 2004 | DAEWOO, S. Korea | B&W | Sep-24 | DH | $ 26.0m | European | BWTS fitted, old sale |
+| LR2 | DAEHAN 5075 | 115,000 | 2022 | DAEHAN, S. Korea | MAN-B&W |  | DH | $ 72.5m | UK based (Navig8) | resale |
+| LR1 | HOUSTON STAR | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Feb-24 | DH | $ 13.0m | Turkish |  |
 | MR2 | CELSIUS RIMINI | 53,603 | 2009 | SHIN KURUSHIMA, Japan | Mitsubishi | Mar-27 | DH | $ 24.0m | undisclosed | BWTS fitted |
-| MR2 | ATLANTICA BELL | 50,844 | 2006 | STX, S. Korea | MAN-B\&amp;W | Mar-26 | DH | $ 20.7m | undisclosed | BWTS fitted, Ice Class 1A |
+| MR2 | ATLANTICA BELL | 50,844 | 2006 | STX, S. Korea | MAN-B&W | Mar-26 | DH | $ 20.7m | undisclosed | BWTS fitted, Ice Class 1A |
 | SMALL | BRO ANNA | 16,868 | 2008 | GEMAK, Turkey | MAN | Feb-23 | DH |  |  |  |
 |  |  |  |  |  |  |  |  | $ 27.0m | undisclosed | Ice Class 1A |
 | SMALL | BRO AGNES | 16,791 | 2008 | TURKTER, Turkey | MAN | Mar-23 | DH |  |  |  |
-| SMALL | BERNORA | 13,148 | 2008 | 21ST CENTURY, S. Korea | MAN-B\&amp;W | Mar-23 | DH | high $ 7.0m | Norwegian | BWTS fitted |
+| SMALL | BERNORA | 13,148 | 2008 | 21ST CENTURY, S. Korea | MAN-B&W | Mar-23 | DH | high $ 7.0m | Norwegian | BWTS fitted |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | NAVIOS TAURUS | 76,596 | 2005 | IMABARI, Japan | B\&amp;W | Jan-25 |  | $ 14.0m | undisclosed |  |
-| PMAX | PRABHU PUNI | 76,015 | 2002 | TSUNEISHI, Japan | B\&amp;W | May-27 |  | $ 11.5m | undisclosed | BWTS fitted |
+| PMAX | NAVIOS TAURUS | 76,596 | 2005 | IMABARI, Japan | B&W | Jan-25 |  | $ 14.0m | undisclosed |  |
+| PMAX | PRABHU PUNI | 76,015 | 2002 | TSUNEISHI, Japan | B&W | May-27 |  | $ 11.5m | undisclosed | BWTS fitted |
 | HANDY | WAAL CONFIDENCE | 33,387 | 2009 | SHIN KOCHI, Japan | Mitsubishi | Jun-24 | 4 X 30t CRANES | $ 15.2m | undisclosed | BWTS fitted, OHBS |
 ## Secondhand Sales
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | EPIC BALTA | 5,076 | 2000 | HIGAKI, Japan | MAN-B\&amp;W | Jun-25 | 6,185 | $ 6.0m | undisclosed |
+| LPG | EPIC BALTA | 5,076 | 2000 | HIGAKI, Japan | MAN-B&W | Jun-25 | 6,185 | $ 6.0m | undisclosed |
 
 © Intermodal Research 01/11/2022 4
 
@@ -265,7 +265,7 @@ Newbuilding ordering activity held firm, with a flurry of new orders surfacing d
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 01/11/2022 | 1 | Bulker | 58,000 dwt | Oshima, Japan | 2025 | Japanese (Tamai Steamship) | undisclosed |
 | 01/11/2022 | 2 | LNG | 175,000 cbm | Jiangnan Shipyard, China | 2027 | Hng Kong based (Shandong Shipping) | $230.0m |
-| 01/11/2022 | 5 | LNG | 175,000 cbm | DSIC, China | 2026 | Japanese (MOL) &amp; Chinese (CSLNG) | $230.0 |
+| 01/11/2022 | 5 | LNG | 175,000 cbm | DSIC, China | 2026 | Japanese (MOL) & Chinese (CSLNG) | $230.0 |
 | 01/11/2022 | 3 | LNG | 174,000 cbm | Hudong Zhonghua, China | 2028 | Chinese (TSM) | $250.0m |
 | 01/11/2022 | 4 | VLEC | 98,000 cbm | Jiangnan Shipyard, China | 2025-2026 | Hong Kong based (Pacific Gas) | $135.0m |
 | 01/11/2022 | 7 | Container | 24,000 teu | NACKS, China | 2026-2028 | Chinese (OOCL) | $240.0m |

@@ -28,7 +28,7 @@ So, in both dry and tanker segments all eyes are on demand and how the energy sh
 
 The downward correction continued for another week in the dry bulk market. The Handysize sector suffered the smallest decline compared to the other sectors, albeit not negligible. As a result, the week ended up with Handysize average T/C earnings outperforming those of the other dry bulk sizes. The BDI today (09/11/2021) closed at 2,805 down by 382 points compared to previous Tuesday's (02/11/2021) levels. The recent activity in the crude carrier market did not present a strength outlook while owners still expect the last quarter to bring along a more meaningful positive reversal. The BDTI today (09/11/2021) closed at 835, an increase of 42 points, and the BCTI at 571, a decrease of 8 points compared to previous Tuesday's (02/11/2021) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: Softer)
+## Sale & Purchase (Wet: **Firmer** / Dry: Softer)
 
 Product tankers continued to absorb most of the interest in the SnP realm while only a handful of dry bulk units changed hands last week. In the tanker sector, we had the sale of the "IRIS VICTORIA" (74,905dwt-blt '10, Japan), which was sold to Monaco based owner, Transocean, for a price in the region of \$17.75m. On the dry bulker side sector, we had the sale of the "MAJULAH HARBOURFRONT" (81,922dwt-blt '14, China), which was sold to Far Eastern buyers, for a price in the region of \$29.45m.
 
@@ -129,9 +129,9 @@ VLCC T/C earnings averaged \$-6,518/day, down - \$40/day w-o-w, and closed off t
 
 Suezmax T/C earnings averaged \$8,432/day, up + \$1,087/day w-o-w. Demand failed to boost rates in the Atlantic while soft activity materialized in the MEG region with TD23 route losing 4.93WS points w-o-w. On the Aframax front, T/C earnings averaged \$10,139/day, up + \$571/day w-o-w. Charterers managed to gain back control in the Med market with TD19 Cross Med business route declining by \$10.57WS points w-o-w. However, the Baltic/UK market was the positive exception; TD7 and TD17 routes improved by 11.25WS and 15.62WS points respectively.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the LR1 sector we had the sale of the "IRIS VICTORIA" (74,905dwt-blt '10, Japan), which was sold to Monaco based owner, Transocean, for a price in the region of \$17.75m.
 
@@ -198,7 +198,7 @@ Panamax 4TC averaged approx. \$29,600/day down -16.7% w-o-w, with transatlantic 
 
 Supramax 10TC averaged approx. \$30,070/day down -18.1% w-o-w, with the Atlantic coming at a premium of approx. +14,600/day to the Pacific up from +\$12,100/day the week before.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Kamsarmax sector we had the sale of the "MAJULAH HAR-BOURFRONT" (81,922dwt-blt '14, China), which was sold to Far Eastern buyers, for a price in the region of \$29.45m.
 
@@ -215,22 +215,22 @@ In the Supramax sector we had the sale of the "PACIFIC BLESS" (56,361dwt-blt '12
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR1 | IRIS VICTORIA | 74,905 | 2010 | MINAMI-NIPPON, Japan | MAN-B\&amp;W | Jun-25 | DH | $ 17.75m | Monaco based (Transocean) | BWTS fitted, uncoiled |
-| MR2 | ANGEL 62 | 47,410 | 2009 | ONOMICHI, Japan | MAN-B\&amp;W | Jul-24 | DH | $ 13.7m | Greek (Spring Marine Management) |  |
+| LR1 | IRIS VICTORIA | 74,905 | 2010 | MINAMI-NIPPON, Japan | MAN-B&W | Jun-25 | DH | $ 17.75m | Monaco based (Transocean) | BWTS fitted, uncoiled |
+| MR2 | ANGEL 62 | 47,410 | 2009 | ONOMICHI, Japan | MAN-B&W | Jul-24 | DH | $ 13.7m | Greek (Spring Marine Management) |  |
 | SMALL | LT CRYSTAL | 13,545 | 2021 | DAYANG OFFSHORE, China | Mitsubishi | Jan-26 | DH | high $ 16.0m | Chinese (Nanjing Yangyang Chemical Transport) | BWTS fitted |
 | SMALL | LT DIAMOND | 13,200 | 2020 | DAYANG OFFSHORE, China | Mitsubishi |  | DH | high $ 16.0m | Chinese (Nanjing Yangyang Chemical Transport) | BWTS fitted |
-| SMALL | BOW FULING | 9,156 | 2012 | CHONGQING DONGFENG, China | MAN | Jun-22 | DH | rgn $ 8.0m | German (E\&amp;S Tankers) | St-St |
-| SMALL | BOW NANGANG | 9,124 | 2013 | CHONGQING DONGFENG, China | MAN | Mar-23 | DH | rgn $ 8.0m | German (E\&amp;S Tankers) | St-St |
-| SMALL | BOW DALIAN | 9,118 | 2012 | CHONGQING DONGFENG, China | MAN | Nov-22 | DH | rgn $ 8.0m | German (E\&amp;S Tankers) | St-St |
+| SMALL | BOW FULING | 9,156 | 2012 | CHONGQING DONGFENG, China | MAN | Jun-22 | DH | rgn $ 8.0m | German (E&S Tankers) | St-St |
+| SMALL | BOW NANGANG | 9,124 | 2013 | CHONGQING DONGFENG, China | MAN | Mar-23 | DH | rgn $ 8.0m | German (E&S Tankers) | St-St |
+| SMALL | BOW DALIAN | 9,118 | 2012 | CHONGQING DONGFENG, China | MAN | Nov-22 | DH | rgn $ 8.0m | German (E&S Tankers) | St-St |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | MAJULAH HARBOURFRONT | 81,922 | 2014 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Nov-24 |  | $ 29.45m | Far Eastern | Eco M/E, BWTS fitted |
-| PMAX | SHANDONG CHONG WEN | 76,098 | 2011 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Dec-21 |  | $ 19.64m | Chinese | online commercial-auction sale, delivery January 2022 |
-| UMAX | NAUTICAL ALICE | 63,580 | 2016 | Jiangsu New Hantong, China | MAN-B\&amp;W | Jun-26 | 4 X 30t CRANES | $ 28.5m | undisclosed | delivery till March 2022, BWTS and scrubber fitted |
-| SUPRA | PACIFIC BLESS | 56,361 | 2012 | Jiangsu New Hantong, China | MAN-B\&amp;W | Sep-22 | 4 X 36t CRANES | $ 19.8m | undisclosed | delivery February-March 2022 |
-| HMAX | BLUEWAYS | 46,658 | 1998 | MITSUI TAMANO, Japan | B\&amp;W | Jan-23 | 4 X 30t CRANES | $ 8.0m | Chinese | basis cancelling January 2022 |
+| KMAX | MAJULAH HARBOURFRONT | 81,922 | 2014 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Nov-24 |  | $ 29.45m | Far Eastern | Eco M/E, BWTS fitted |
+| PMAX | SHANDONG CHONG WEN | 76,098 | 2011 | HUDONG-ZHONGHUA, China | MAN-B&W | Dec-21 |  | $ 19.64m | Chinese | online commercial-auction sale, delivery January 2022 |
+| UMAX | NAUTICAL ALICE | 63,580 | 2016 | Jiangsu New Hantong, China | MAN-B&W | Jun-26 | 4 X 30t CRANES | $ 28.5m | undisclosed | delivery till March 2022, BWTS and scrubber fitted |
+| SUPRA | PACIFIC BLESS | 56,361 | 2012 | Jiangsu New Hantong, China | MAN-B&W | Sep-22 | 4 X 36t CRANES | $ 19.8m | undisclosed | delivery February-March 2022 |
+| HMAX | BLUEWAYS | 46,658 | 1998 | MITSUI TAMANO, Japan | B&W | Jan-23 | 4 X 30t CRANES | $ 8.0m | Chinese | basis cancelling January 2022 |
 ## Containers
 
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -246,9 +246,9 @@ In the Supramax sector we had the sale of the "PACIFIC BLESS" (56,361dwt-blt '12
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | FS IPANEMA | 1,794 | 2009 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Feb-24 | 2 X 40t CRANES | undisclosed | European | bss TC attached until Q2-2024 |
+| FEEDER | FS IPANEMA | 1,794 | 2009 | TAIZHOU KOUAN, China | MAN-B&W | Feb-24 | 2 X 40t CRANES | undisclosed | European | bss TC attached until Q2-2024 |
 | FEEDER | JSP LEVANTE | 1,114 | 2006 | KOUAN SHIPBUILDING, China | MAN | Oct-21 | 2 X 45t CRANES | undisclosed | Swiss (MSC) |  |
-| FEEDER | ALTAIR SKY | 1,020 | 2013 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | May-23 |  | undisclosed | undisclosed | BWTS fitted |
+| FEEDER | ALTAIR SKY | 1,020 | 2013 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | May-23 |  | undisclosed | undisclosed | BWTS fitted |
 
 © Intermodal Research 09/11/2021 5
 

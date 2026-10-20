@@ -13,7 +13,7 @@ Issue: Week 37 | Tuesday 21<sup>st</sup> September 2021
 ## Market insight
 
 **By Christopher Whitty,**
-**Director, Towage &amp; Marine Port Services**
+**Director, Towage & Marine Port Services**
 
 The unfolding last week of a trilateral defence pact between the United States, Australia, the United Kingdom (AUKUS) envisages a wide range of collaboration, but at its core is an agreement to start consultations to help Australia acquire a fleet of nuclear-propelled submarines. Believe AUKUS is an interesting development in the context of the already intensified geopolitical tensions between Australia and China, which have already led to a shift in trading patterns, particularly as far as dry bulk trade is concerned.
 
@@ -27,7 +27,7 @@ Till recently, demand for cargoes of crucial raw materials like iron ore and coa
 
 Impressive gains materialized in the dry bulk market for another week. Capesize paved the way with an increase of 853 points on its main index while the rest of the sizes enjoyed notable improvements as well. The BDI today (21/09/2021) closed at 4,410 up by 189 points compared to previous Tuesday's (14/09/2021) levels. The overall picture remains depressed in the crude carrier market, as all sectors reported T/C earnings well below their OPEX levels while any increase in demand cannot provide meaningful support at the time of writing. The BDTI today (21/09/2021) closed at 607 points, a decrease of 7 points, and the BCTI at 486, an increase of 7 points compared to previous Tuesday's (14/09/2021) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: **Firmer**)
+## Sale & Purchase (Wet: **Firmer** / Dry: **Firmer**)
 
 The SnP activity maintained its strong volume of deals this past week. A total of 16 dry bulk and 8 tanker units changed hands with buyer's interest being distributed in all sizes. In the tanker sector, we had the sale of the "MINERVA ZOE" (105,330dwt-blt '04, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$14.0m. On the dry bulker side sector, we had the sale of the "PROSPEROUS" (179,100dwt-blt '11, S. Korea), which was sold to Turkish owner, BEKS Shipping, for price in the region of \$31.0m.
 
@@ -134,9 +134,9 @@ VLCC T/C earnings averaged \$-9,527/day, up +\$108/day w-o-w. West Africa TD15 b
 
 Suezmax T/C earnings averaged \$-3,554/day, down -\$1,162/day w-o-w. Middle East TD23 suffered the largest discounts losing 2.43 WS points w-o-w. A mixed picture emerged in the Aframax market. Cross-Med rates remained stable w-o-w while TD17 Baltic/UK route increased by +3.43WS points amid an injection of fresh cargoes in the region. On the other hand, TD9 Caribs route lost 11.87WS w-o-w with ballasters from Europe adding significant pressure on rates. All in all, T/C earnings averaged \$1,410/day, up +\$316/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the Aframax sector we had the sale of the "MINERVA ZOE" (105,330dwt-bl't '04, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$14.0m.
 
@@ -201,7 +201,7 @@ Supramax 10TC averaged \$35,698/day up +0.7% w-o-w, with the Pacific premium ove
 | **Ultramax** | **63k** | 30.5 | 29.8 | **2.5%** | 19.4 | 23.1 | - |
 | **Handysize** | **37K** | 24.7 | 23.8 | **3.9%** | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "PROSPEROUS" (179,100dwt-bl't '11, S. Korea), which was sold to Turkish owner, BEKS Shipping, for price in the region of \$31.0m.
 

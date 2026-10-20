@@ -141,10 +141,10 @@ The dry bulk sector delivered a mixed performance, with Capesize rates declining
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | PTI HUANG HE | 49,999 | 2016 | SPP, S. Korea | MAN B\&amp;W | Nov-26 | DH | $ 32.5m | Greek | Eco |
-| MR2 | GRAND ACE7 | 46,140 | 2007 | STX, S. Korea | MAN B\&amp;W | Dec-27 | DH | region high $ 14.0m | UAE based |  |
+| MR2 | PTI HUANG HE | 49,999 | 2016 | SPP, S. Korea | MAN B&W | Nov-26 | DH | $ 32.5m | Greek | Eco |
+| MR2 | GRAND ACE7 | 46,140 | 2007 | STX, S. Korea | MAN B&W | Dec-27 | DH | region high $ 14.0m | UAE based |  |
 | MR2 | PRELUDE | 39,988 | 2007 | SAIKI, Japan | Mitsubishi | Jun-27 | DH | $ 14.0m | Indian |  |
-| SMALL | ASP SUNRISE | 13,008 | 2014 | USUKI, Japan | MAN B\&amp;W | Jun-28 | DH | $ 16.0m | undisclosed |  |
+| SMALL | ASP SUNRISE | 13,008 | 2014 | USUKI, Japan | MAN B&W | Jun-28 | DH | $ 16.0m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |

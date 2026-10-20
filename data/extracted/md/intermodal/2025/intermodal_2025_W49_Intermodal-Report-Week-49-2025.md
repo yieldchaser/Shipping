@@ -146,18 +146,18 @@ Handysize performance varied by basin. Europe saw marginal improvement, while th
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | TOWADA | 305,801 | 2006 | MITSUBISHI, Japan | Mitsubishi | Jun-26 | DH | $ 45.7m | Chinese |
-| MR2 | SEA ADORE | 47,803 | 2004 | HYUNDAI MIPO, S. Korea | B\&amp;W | Mar-29 | DH | $ 10.5m | Indian |
+| MR2 | SEA ADORE | 47,803 | 2004 | HYUNDAI MIPO, S. Korea | B&W | Mar-29 | DH | $ 10.5m | Indian |
 | SMALL | LILAC | 7,415 | 2009 | QINGDAO, China | Wartsila | Jan-29 | DH | $ 4.5m | undisclosed |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | ANTONIS ANGELICOUSSIS | 177,855 | 2007 | SWS, China | MAN B\&amp;W | Nov-27 |  | $ 20.5m | Greek |  |
-| CAPE | LAKE DOLPHIN | 179,418 | 2011 | HANJIN, S. Korea | MAN B\&amp;W | Jun-26 |  | $ 30.0m | Chinese |  |
-| KMAX | URSULA MANX | 82,561 | 2021 | TSUNEISHI ZHOUSHAN, China | MAN B\&amp;W | Aug-26 |  | $ 33.85m | German (Blumenthal) | Eco |
-| SUPRA | GLOBAL PRIME | 56,013 | 2014 | OSHIMA, Japan | MAN B\&amp;W | Feb-29 | 4 X 30t CRANES | $ 21.2m | undisclosed | OHBS, Eco |
-| SUPRA | JIN BI | 56,361 | 2012 | JIANGSU NEW HANTONG, China | MAN B\&amp;W | Sep-27 | 4 X 36t CRANES | $ 14.4m | Chinese | Eco |
-| HANDY | BAO SHUN | 33,745 | 2005 | OSHIMA, Japan | B\&amp;W | May-25 | 4 X 30t CRANES | $ 8.2m | Middle Eastern |  |
+| CAPE | ANTONIS ANGELICOUSSIS | 177,855 | 2007 | SWS, China | MAN B&W | Nov-27 |  | $ 20.5m | Greek |  |
+| CAPE | LAKE DOLPHIN | 179,418 | 2011 | HANJIN, S. Korea | MAN B&W | Jun-26 |  | $ 30.0m | Chinese |  |
+| KMAX | URSULA MANX | 82,561 | 2021 | TSUNEISHI ZHOUSHAN, China | MAN B&W | Aug-26 |  | $ 33.85m | German (Blumenthal) | Eco |
+| SUPRA | GLOBAL PRIME | 56,013 | 2014 | OSHIMA, Japan | MAN B&W | Feb-29 | 4 X 30t CRANES | $ 21.2m | undisclosed | OHBS, Eco |
+| SUPRA | JIN BI | 56,361 | 2012 | JIANGSU NEW HANTONG, China | MAN B&W | Sep-27 | 4 X 36t CRANES | $ 14.4m | Chinese | Eco |
+| HANDY | BAO SHUN | 33,745 | 2005 | OSHIMA, Japan | B&W | May-25 | 4 X 30t CRANES | $ 8.2m | Middle Eastern |  |
 
 ---
 
@@ -201,7 +201,7 @@ Containership contracting was highly active. TMS booked 8 firm plus 2 optional v
 | 4 | Containerships | 3,100 teu | Cosco Shipping Heavy Industry Guangdong, China |  | Greek (Alpha Bulkers) | $ 45.0m |  |
 | 3 | Containerships | 1,900 teu | Yangzijiang Shipbuilding, China |  | Greek (Alpha Bulkers) | $ 30.0m |  |
 | 2 | VLAC | 90,000 cbm | Jiangnan Shipyard, China | 2028 | Chinese (Tianjin Southwest Maritime) | $ 114.5m |  |
-| 1 | Ferry |  | Senesco Marine, USA | 2029 | US (Delaware River &amp; Bay Authority) | $ 78.6m | Diesel hybrid |
+| 1 | Ferry |  | Senesco Marine, USA | 2029 | US (Delaware River & Bay Authority) | $ 78.6m | Diesel hybrid |
 | 8 | Cruise ship |  | CMHI Jiangsu, China | 2028 | Swiss (United Waterways) | undisclosed | Battery Hybrid |
 
 ---

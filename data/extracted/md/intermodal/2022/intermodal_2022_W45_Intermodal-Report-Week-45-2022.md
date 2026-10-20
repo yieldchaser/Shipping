@@ -26,7 +26,7 @@ Overall, despite the fact that global inflationary pressures and rising interest
 
 The Capesize sector was the only positive exception during the past days with the rest of the sizes ending up the week with slightly loses. The BDI today (15/11/2022) closed at 1,300 points, down by 56 points compared to previous Tuesday's closing (08/11/2022). Another strong week for the crude carrier sectors, with w-o-w gains materializing for all sizes. The BDTI today (15/11/2022) closed at 1,961, an increase of 104 points and the BCTI at 1,368, an increase of 124 points compared to previous Tuesday's (08/11/2022) levels.
 
-## **Sale &amp; Purchase (Wet: **Firmer / Dry: **Stable**)
+## **Sale & Purchase (Wet: **Firmer / Dry: **Stable**)
 
 Conversely to the previous week, owners' interest in the SnP realm was stronger for the tanker units, while dry bulk sales volume was healthy albeit lower compared to the week prior. In the tanker sector, we had the sale of the "HIGH MARS" (51,543dwt-bl't '08, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$20.3m. On the dry bulker side sector, we had the sale of the "NAVIOS OBELIKS" (181,415dwt-bl't '12, Japan), which was sold to Greek buyers, for a price in the region of \$30.0m.
 
@@ -122,7 +122,7 @@ VLCC T/C earnings averaged \$ 52,701/day, up +\$8,066/day w-o-w and closed off t
 
 Suezmax T/C earnings averaged \$ 79,996/day, up + \$1,377/day w-o-w. On the Aframax front, T/C earnings averaged \$ 68,952, up + \$2,418/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the MR2 sector we had the sale of the "HIGH MARS" (51,543dwt-blt '08, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$20.3m.
 
@@ -191,7 +191,7 @@ Supramax 10TC averaged \$ 13,562/day, down - 8.16% w-o-w, while the Handysize 7T
 | **Ultramax** | **63k** | 29.3 | 29.5 | -0.8% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.8 | 25.6 | -3.4% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "NAVIOS OBELIKS" (181,415dwt-blt '12, Japan), which was sold to Greek buyers, for a price in the region of \$30.0m.
 
@@ -206,23 +206,23 @@ In the Kamsarmax sector we had the sale of the "CMB PARTNER" (81,805dwt-blt '16,
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | ELANDRA ELBRUS | 299,999 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Jan-25 | DH | $ 112.0m | Saudi Arabian (Bahri) | scrubber fitted |
-| VLCC | ELANDRA DENALI | 299,999 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-25 | DH | $ 112.0m | Saudi Arabian (Bahri) | scrubber fitted |
-| MR2 | HIGH MARS | 51,543 | 2008 | STX, S. Korea | MAN-B\&amp;W | Apr-23 | DH | $ 20.3m | undisclosed |  |
+| VLCC | ELANDRA ELBRUS | 299,999 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jan-25 | DH | $ 112.0m | Saudi Arabian (Bahri) | scrubber fitted |
+| VLCC | ELANDRA DENALI | 299,999 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Mar-25 | DH | $ 112.0m | Saudi Arabian (Bahri) | scrubber fitted |
+| MR2 | HIGH MARS | 51,543 | 2008 | STX, S. Korea | MAN-B&W | Apr-23 | DH | $ 20.3m | undisclosed |  |
 | MR1 | GOLDEN CAMELLIA | 34,783 | 2021 | FUJIAN MAWEI, China | WinGD | Oct-26 | DH | region $ 34.5m | undisclosed | BWTS fitted, Eco |
-| SMALL | GS FUTURE | 17,532 | 2009 | SAMHO, S. Korea | MAN-B\&amp;W | Feb-24 | DH | region $ 24.0m (en bloc) | undisclosed | Dely within 2023 |
-| SMALL | GS FORWARD | 17,527 | 2008 | SAMHO, S. Korea | MAN-B\&amp;W | Jan-24 | DH | region $ 24.0m (en bloc) | undisclosed | Dely within 2023 |
+| SMALL | GS FUTURE | 17,532 | 2009 | SAMHO, S. Korea | MAN-B&W | Feb-24 | DH | region $ 24.0m (en bloc) | undisclosed | Dely within 2023 |
+| SMALL | GS FORWARD | 17,527 | 2008 | SAMHO, S. Korea | MAN-B&W | Jan-24 | DH | region $ 24.0m (en bloc) | undisclosed | Dely within 2023 |
 | SMALL | STO CAMELLIA | 11,679 | 2000 | HIGAKI, Japan | Mitsubishi | Sep-25 | DH | $ 5.6m | Indonesian | StSt |
-| SMALL | WOOJIN CHEMS | 12,675 | 1999 | ASAKAWA, Japan | B\&amp;W | Mar-27 | DH | undisclosed | Indonesian (Berlian Laju Tanker) |  |
+| SMALL | WOOJIN CHEMS | 12,675 | 1999 | ASAKAWA, Japan | B&W | Mar-27 | DH | undisclosed | Indonesian (Berlian Laju Tanker) |  |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | TRUE PATRIOT | 180,967 | 2016 | IMABARI, Japan | MAN-B\&amp;W | Mar-26 |  | region $ 40.0m | undisclosed |  |
-| CAPE | NAVIOS OBELIKs | 181,415 | 2012 | KOYO MIHARA, Japan | MAN-B\&amp;W | Jul-26 |  | $ 30.0m | Greek | BWTS &amp; Scrubber fitted |
-| CAPE | HL SHINBORYEONG | 179,294 | 2010 | HYUNDAI, S. Korea | MAN-B\&amp;W | May-25 |  | $ 25.0m | undisclosed |  |
-| KMAX | CMB PARTNER | 81,805 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Nov-26 |  | $ 29.0m | Greek (Minerva Ship Management) | BWTS fitted, Tier II, Eco |
-| HANDY | INTERLINK ACTIVITY | 38,710 | 2015 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Sep-25 | 4 X 30t CRANES | $ 21.0m | undisclosed | BWTS fitted |
+| CAPE | TRUE PATRIOT | 180,967 | 2016 | IMABARI, Japan | MAN-B&W | Mar-26 |  | region $ 40.0m | undisclosed |  |
+| CAPE | NAVIOS OBELIKs | 181,415 | 2012 | KOYO MIHARA, Japan | MAN-B&W | Jul-26 |  | $ 30.0m | Greek | BWTS & Scrubber fitted |
+| CAPE | HL SHINBORYEONG | 179,294 | 2010 | HYUNDAI, S. Korea | MAN-B&W | May-25 |  | $ 25.0m | undisclosed |  |
+| KMAX | CMB PARTNER | 81,805 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&W | Nov-26 |  | $ 29.0m | Greek (Minerva Ship Management) | BWTS fitted, Tier II, Eco |
+| HANDY | INTERLINK ACTIVITY | 38,710 | 2015 | TAIZHOU KOUAN, China | MAN-B&W | Sep-25 | 4 X 30t CRANES | $ 21.0m | undisclosed | BWTS fitted |
 | HANDY | OCEAN ECHO | 37,084 | 2013 | SAIKI, Japan | Mitsubishi | Nov-25 | 4 X 30t CRANES | $ 17.5m | undisclosed | BWTS fitted, OHBS |
 | HANDY | SUPER CAROLINE | 33,427 | 2007 | SHIN KOCHI, Japan | Mitsubishi | Jun-25 | 4 X 30t CRANES | $ 13.7m | undisclosed | BWTS fitted, OHBS |
 | HANDY | BLUE BAIE | 31,734 | 2006 | SAIKI, Japan | Mitsubishi | Jan-26 | 4 X 30t CRANES | $ 13.0m | Turkish | BWTS fitted, OHBS, Dely Feb 2023, October sale |
@@ -230,7 +230,7 @@ In the Kamsarmax sector we had the sale of the "CMB PARTNER" (81,805dwt-blt '16,
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | PROMISE | 54,633 | 2009 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-24 | 82,423 | $ 40.8m | undisclosed | incl TC attached at US$ 30,000 p/d |
+| LPG | PROMISE | 54,633 | 2009 | DAEWOO, S. Korea | MAN-B&W | Jan-24 | 82,423 | $ 40.8m | undisclosed | incl TC attached at US$ 30,000 p/d |
 
 © Intermodal Research 15/11/2022 4
 

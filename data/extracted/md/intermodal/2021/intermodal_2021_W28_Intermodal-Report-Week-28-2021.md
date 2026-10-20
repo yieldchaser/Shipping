@@ -17,7 +17,7 @@ Issue: Week 28 | Tuesday 20<sup>th</sup> July 2021
 
 Dry Buk Sales and Purchase activity has heated up during 2021, reaching record high levels during the first half of the year. The increased interest has been driven by upbeat freight rates reaching more than decade highs, combined with assets being undervalued compared to both actual earnings and earnings expectations; Earnings and asset values expectations flared up after the counter seasonal surge in freight rates during Q1, which saw March recording the highest monthly dry SnP figure by historical standards, followed by June, when Panamax and Supramax freight rates hit the highest level since 2010. SnP monthly transactions have decelerated so far into July with the freight market correcting – albeit from multi year high levels - however asset values continue their upward trend. Since June, notable increases in values of more than 7% are observed in Cape and Kasmarmax particularly in the 5-10 Y age bracket. Below we present a short overview of the dry SnP transactions since March broken down by type of vessel.
 
-During March 2021, total S&amp;P transactions increased by approx. 25% compared to February 2021, reaching more than 80 deals. Slightly less than 20 Handysize vessels, marginally more than 25 Supramax/Ultramax bulkers, around 25 Panamax/Kasmarmax vessels and finally more than 10 Capesize/Newcastlemaxes changed hands back then. Supramaxes and Handysize vessels corresponded to almost half of the transactions that formed the total S&amp;P deal landscape.
+During March 2021, total S&P transactions increased by approx. 25% compared to February 2021, reaching more than 80 deals. Slightly less than 20 Handysize vessels, marginally more than 25 Supramax/Ultramax bulkers, around 25 Panamax/Kasmarmax vessels and finally more than 10 Capesize/Newcastlemaxes changed hands back then. Supramaxes and Handysize vessels corresponded to almost half of the transactions that formed the total S&P deal landscape.
 
 During April 2021, total SnP deals amounted to around 65, decreasing by approx. 25% vs the previous month. The decrease was driven mainly by Handysize and Supramax vessels and especially the latter that ended up accounting for around half of those committed in March 2021. As for the other segments, Kamsarmax and Capesize vessels maintained similar levels m-o-m while the Ultramax tonnage was the only one that a showed significant increase of around 50% compared to the previous month.
 
@@ -31,7 +31,7 @@ As far as the current month, the total transactions that have taken place so far
 
 The dry bulk market witnessed a downward correction during the previous days, with Panamax market setting the negative tone followed by the Capesize and Supramax sectors. The BDI today (20/07/2021) closed at 3,053 down by 175 points compared to previous Tuesday's (13/07/2021) levels. Momentum in the crude carriers market remained negative across the board last week. The BDTI today (20/07/2021) closed at 590, a decrease of 8 points, and the BCTI at 463, an increase of 10 points compared to previous Tuesday's (13/07/2021) levels.
 
-## Sale &amp; Purchase (Wet: Stable+ / Dry: Stable+)
+## Sale & Purchase (Wet: Stable+ / Dry: Stable+)
 
 The dry bulk and Tanker SnP activity remained close to the previous week's levels. We have witnessed a small uptick in dry bulk sales while only a handful of tanker units have changed hands. However, Container's secondhand sales resumed after the previous week's muted activity. In the tanker sector, we had the sale of the "TAKAHASHI" (314,020dwt-blt '07, China), which was sold to Greek owner, NGM, for a price in the region of \$34.0m. On the dry bulker side sector, we had the sale of the "BULK DENMARK" (181,360dwt-blt '10, Japan), which was sold to Greek owner, Thenamaris, for price in the region of \$31.0m.
 
@@ -131,7 +131,7 @@ The VLCC market performance remained weak with a small uptick in West Africa rat
 
 The Suezmax sector closed off the week on a positive tone supported by the improved market in West Africa (TD20 increased by 3.41WS points w-o-w). Black Sea rates remained the same as the previous week with the overall sentiment suggesting soft market activity amid increasing tonnage availability. The Aframax Med market lost almost all of its previous week gains with TD19 Cross Med business declining by 4.12WS w-o-w. North European rates remained relatively stable w-o-w with the market being under charterers control for another week. Lastly, owners managed to gain points in the Caribs market with TD9 increasing by 7.18WS points w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "TAKAHASHI" (314,020dwt-blt '07, China), which was sold to Greek owner, NGM, for a price in the region of \$34.0m.
 
@@ -202,7 +202,7 @@ Supramax 10TC averaged \$31,139/day down -2.7% w-o-w with vessels supply continu
 | **Ultramax** **63k** | 26.5 | 25.6 | **3.4%** | 19.4 | 23.1 | - |
 | **Handysize** **37K** | 20.7 | 20.5 | **0.8%** | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "BULK DENMARK" (181,360dwt-blt '10, Japan), which was sold to Greek owner, Thenamaris, for price in the region of \$31.0m.
 

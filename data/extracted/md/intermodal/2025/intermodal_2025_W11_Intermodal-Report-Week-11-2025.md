@@ -155,21 +155,21 @@ Supramax 10TC averaged \$ 9,153/day up +1.83% w-o-w, while the Handysize 7TC ave
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | WAFRAH | 317,788 | 2007 | HYUNDAI, S. Korea | Wartsila | Feb-27 | DH | $ 40.0m | undisclosed |  |
-| MR2 | CHALLENGE PROCYON | 45,996 | 2011 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Nov-25 | DH | mid $ 19.0m | Greek |  |
-| MR2 | CENTENNIAL MATSUYAMA | 47,165 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Nov-28 | DH | mid $ 16.0m | undisclosed |  |
-| MR1 | ECO FLEET | 39,208 | 2015 | HYUNDAI VINASHIN, Vietnam | MAN-B\&amp;W | Jul-25 | DH | $ 30.0m | Italian (Navigazione) | Eco |
-| SMALL | HENG XIN | 13,968 | 2010 | NINGBO BEILUN, China | MAN-B\&amp;W | Jul-25 | DH | $ 12.0m | undisclosed |  |
+| MR2 | CHALLENGE PROCYON | 45,996 | 2011 | SHIN KURUSHIMA, Japan | MAN-B&W | Nov-25 | DH | mid $ 19.0m | Greek |  |
+| MR2 | CENTENNIAL MATSUYAMA | 47,165 | 2008 | ONOMICHI, Japan | MAN-B&W | Nov-28 | DH | mid $ 16.0m | undisclosed |  |
+| MR1 | ECO FLEET | 39,208 | 2015 | HYUNDAI VINASHIN, Vietnam | MAN-B&W | Jul-25 | DH | $ 30.0m | Italian (Navigazione) | Eco |
+| SMALL | HENG XIN | 13,968 | 2010 | NINGBO BEILUN, China | MAN-B&W | Jul-25 | DH | $ 12.0m | undisclosed |  |
 
 ## **Bulk Carriers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | AM BUCHANAN | 81,795 | 2013 | NEW TIMES, China | MAN-B\&amp;W | Jul-28 |  | region $ 60.0m | undisclosed |  |
-| KMAX | AM KRAKOW | 81,752 | 2013 | NEW TIMES, China | MAN-B\&amp;W | Aug-28 |  | region $ 60.0m | undisclosed |  |
-| PMAX | AM ZENICA | 76,089 | 2014 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Oct-29 |  | region $ 60.0m | undisclosed | Eco, Scrubber fitted |
-| PMAX | AM ANNABA | 76,079 | 2013 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Sep-28 |  | region $ 60.0m | undisclosed | Eco |
-| SUPRA | CS SONOMA | 56,704 | 2010 | Jiangsu Hantong, China | MAN-B\&amp;W | Feb-30 | 4 X 30t CRANES | $ 11.3m | Far Eastern | Scrubber fitted |
-| SUPRA | NEW VENTURE | 53,390 | 2009 | CHENGXI, China | MAN-B\&amp;W | Jan-29 | 4 X 36t CRANES | high $ 9,0m | undisclosed |  |
-| SUPRA | PORT MACAU | 58,730 | 2008 | TSUNEISHI, Japan | MAN-B\&amp;W | May-28 | 4 X 30t CRANES | high $ 11.0m | undisclosed |  |
+| KMAX | AM BUCHANAN | 81,795 | 2013 | NEW TIMES, China | MAN-B&W | Jul-28 |  | region $ 60.0m | undisclosed |  |
+| KMAX | AM KRAKOW | 81,752 | 2013 | NEW TIMES, China | MAN-B&W | Aug-28 |  | region $ 60.0m | undisclosed |  |
+| PMAX | AM ZENICA | 76,089 | 2014 | HUDONG-ZHONGHUA, China | MAN-B&W | Oct-29 |  | region $ 60.0m | undisclosed | Eco, Scrubber fitted |
+| PMAX | AM ANNABA | 76,079 | 2013 | HUDONG-ZHONGHUA, China | MAN-B&W | Sep-28 |  | region $ 60.0m | undisclosed | Eco |
+| SUPRA | CS SONOMA | 56,704 | 2010 | Jiangsu Hantong, China | MAN-B&W | Feb-30 | 4 X 30t CRANES | $ 11.3m | Far Eastern | Scrubber fitted |
+| SUPRA | NEW VENTURE | 53,390 | 2009 | CHENGXI, China | MAN-B&W | Jan-29 | 4 X 36t CRANES | high $ 9,0m | undisclosed |  |
+| SUPRA | PORT MACAU | 58,730 | 2008 | TSUNEISHI, Japan | MAN-B&W | May-28 | 4 X 30t CRANES | high $ 11.0m | undisclosed |  |
 
 ---
 
@@ -202,7 +202,7 @@ Finally in the general cargo segment, the German Oskar Wehr contracted the const
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Bulker | 210,000 dwt | CSBC, Taiwan | 2027 | Taiwanese (Chinese Maritime Transport) | $ 76.0m - $ 79.8m | Exercise of option, Scrubber Fitted, Ammonia\&amp;LNG Ready, Tier III Nox |
+| 2 | Bulker | 210,000 dwt | CSBC, Taiwan | 2027 | Taiwanese (Chinese Maritime Transport) | $ 76.0m - $ 79.8m | Exercise of option, Scrubber Fitted, Ammonia&LNG Ready, Tier III Nox |
 | 2 | Container | 8,400 teu | GSI, China | 2028 | German (Peter Dohle Schiffahrts) | $ 125.0m | Exercise of option |
 | 2 | Container | 1,900 teu | Huangpu Wenchong, China | 2027 | German (Eldbeich Reederei) | $ 32.3m | Exercise of option |
 | 4 | General Cargo | 5,900 dwt | Jiangsu Dajin HI, China | 2026-2027 | German (Oskar Wehr) | undisclosed |  |

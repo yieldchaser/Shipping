@@ -13,7 +13,7 @@ Issue: Week 05 | Tuesday 08<sup>th</sup> February 2022
 ## Market insight
 
 **By Christopher Whitty,**
-**Director, Towage &amp; Marine Port Services**
+**Director, Towage & Marine Port Services**
 
 Iron ore prices have jumped significantly in the week prior to the Chinese New Year with traders and producers stocking up on raw materials. China's stronger-than-expected steel production, combined with an aggressive restocking of inventory levels and the country's ports had driven iron ore prices well above expectations.
 
@@ -29,7 +29,7 @@ Overall since 2015, China's iron ore imports from Australia and Brazil have acco
 
 With the exception of the Capesize sector, the rest of the sizes faced pressure in the Atlantic with weak demand being translated to weaker earnings. At the same time, Lunar Holidays had a slowdown effect in the Pacific market activity. The BDI today (08/02/2022) closed at 1,503 points, up by 63 points compared to previous Tuesday's closing (01/02/2022). Crude tankers have been plagued by poor sentiment for another week. The BDTI today (08/02/2022) closed at 681, a decrease of 4 points, and the BCTI at 592, an increase of 9 points compared to previous Tuesday's (01/02/2022) levels.
 
-## Sale &amp; Purchase (**Wet: Stable + / Dry: Stable +**)
+## Sale & Purchase (**Wet: Stable + / Dry: Stable +**)
 
 Activity on the secondhand market kept its pace last week, with a healthy number of tanker and dry bulk units changing hands despite the ongoing Lunar holidays period. In the tanker sector, we had sale of the "ATHENIAN SUCCESS" (298,996dwt-blt '10, S. Korea), which was sold to S. Korean owner, Sinokor, for a price in the region of \$42.5m. On the dry bulker side sector, we had the sale of the "HEMINGWAY" (207,634dwt-blt '17, China), which was sold to US based owner, JP Morgan, for a price in the region of \$50.5m.
 
@@ -130,9 +130,9 @@ VLCC T/C earnings averaged \$ -16,991/day, down - \$1,772/day w-o-w. The West ma
 
 Suezmax T/C earnings averaged \$ 1,949/day, up +652/day w-o-w. The week kicked off with gains, but charterers quickly managed to turn the table in the Atlantic with both the West Africa and Black Sea markets witnessing a downward trajectory as the week progressed. Aframax T/C earnings averaged \$1,917/day, down - \$1,456/day w-o-w. Limited tonnage requirements across both the North European and Med markets led to rate reductions.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the VLCC sector we had sale of the "ATHENIAN SUCCESS" (298,996dwt-bl't '10, S. Korea), which was sold to S. Korean owner, Sinokor, for a price in the region of \$42.5m.
 
@@ -200,7 +200,7 @@ Supramax 10TC averaged \$17,379/day, down - 4.65% w-o-w. Having the same momentu
 | **Ultramax** | **63k** | 30.5 | 30.5 | 0.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 27.0 | 26.6 | **1.4%** | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Newcastlemax sector we had the sale of the "HEMINGWAY" (207,634dwt-blt '17, China), which was sold to US based owner, JP Morgan, for a price in the region of \$50.5m.
 
@@ -218,25 +218,25 @@ In the Handysize sector we had the auction sale of the "MARINE PRINCESS" (35,501
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | ATHENIAN SUCCESS | 298,996 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Jan-25 | DH | $ 42.5m | S. Korean (Sinokor) |  |
-| AFRA | GLIFA | 109,229 | 2005 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Aug-25 | DH | $ 14.5m | Indonesian (Soechi Lines) |  |
-| MR2 | STI DUCHESSA | 49,990 | 2014 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-24 | DH | $ 26.5m | Indonesian (Pertamina) | BWTS and Scrubber fitted |
-| HANDY | TEAM OSPREY | 25,432 | 2009 | DAE SUN, S. Korea | MAN-B\&amp;W | Apr-24 | DH | rgn $ 9.0m | European |  |
-| HANDY | TEAM FALCON | 25,419 | 2009 | DAE SUN, S. Korea | MAN-B\&amp;W | Jan-24 | DH | rgn $ 9.0m | European |  |
-| HANDY | TEAM HAWK | 25,385 | 2008 | DAE SUN, S. Korea | MAN-B\&amp;W | Jun-25 | DH | rgn $ 9.0m | European |  |
-| SMALL | SUMMER | 13,023 | 2009 | 21ST CENTURY, S. Korea | MAN-B\&amp;W | Jun-24 | DH | undisclosed | Greek |  |
+| VLCC | ATHENIAN SUCCESS | 298,996 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jan-25 | DH | $ 42.5m | S. Korean (Sinokor) |  |
+| AFRA | GLIFA | 109,229 | 2005 | HUDONG-ZHONGHUA, China | MAN-B&W | Aug-25 | DH | $ 14.5m | Indonesian (Soechi Lines) |  |
+| MR2 | STI DUCHESSA | 49,990 | 2014 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-24 | DH | $ 26.5m | Indonesian (Pertamina) | BWTS and Scrubber fitted |
+| HANDY | TEAM OSPREY | 25,432 | 2009 | DAE SUN, S. Korea | MAN-B&W | Apr-24 | DH | rgn $ 9.0m | European |  |
+| HANDY | TEAM FALCON | 25,419 | 2009 | DAE SUN, S. Korea | MAN-B&W | Jan-24 | DH | rgn $ 9.0m | European |  |
+| HANDY | TEAM HAWK | 25,385 | 2008 | DAE SUN, S. Korea | MAN-B&W | Jun-25 | DH | rgn $ 9.0m | European |  |
+| SMALL | SUMMER | 13,023 | 2009 | 21ST CENTURY, S. Korea | MAN-B&W | Jun-24 | DH | undisclosed | Greek |  |
 | SMALL | EASTERN LIBERTY | 8,857 | 2002 | USUKI, Japan | Mitsubishi | Jun-22 | DH | $ 3.6m | Inonesian | St-St |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NMAX | HEMINGWAY | 207,634 | 2017 | SWS, China | MAN-B\&amp;W | Apr-22 |  | rgn $ 50.5m | US based (JP Morgan) |  |
-| NMAX | BAOSTEEL EVOLUTION | 206,331 | 2007 | IMABARI, Japan | MAN-B\&amp;W | Jul-22 |  | $ 19.0m | Greek (Dryships) | SS/DD due |
-| KMAX | SPETSES SPIRIT | 80,328 | 2011 | STX, S. Korea | MAN-B\&amp;W | Apr-26 |  | low $ 20.0m | Hong Kong based (Univic) | BWTS fitted, Tier II |
-| SUPRA | MAGDA | 58,018 | 2010 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Jul-25 | 4 X 35t CRANES | $ 16.7m | Greek | BWTS fitted |
+| NMAX | HEMINGWAY | 207,634 | 2017 | SWS, China | MAN-B&W | Apr-22 |  | rgn $ 50.5m | US based (JP Morgan) |  |
+| NMAX | BAOSTEEL EVOLUTION | 206,331 | 2007 | IMABARI, Japan | MAN-B&W | Jul-22 |  | $ 19.0m | Greek (Dryships) | SS/DD due |
+| KMAX | SPETSES SPIRIT | 80,328 | 2011 | STX, S. Korea | MAN-B&W | Apr-26 |  | low $ 20.0m | Hong Kong based (Univic) | BWTS fitted, Tier II |
+| SUPRA | MAGDA | 58,018 | 2010 | YANGZHOU DAYANG, China | MAN-B&W | Jul-25 | 4 X 35t CRANES | $ 16.7m | Greek | BWTS fitted |
 | SUPRA | UNIVERSE 1 | 53,074 | 2003 | OSHIMA, Japan | Mitsubishi | Nov-23 | 4 X 30t CRANES | $ 10.1m | undisclosed | basis DD due |
-| HANDY | MARINE PRINCESS | 35,501 | 2012 | COSCO GUANGDONG, China | MAN-B\&amp;W | Nov-22 | 4 X 30t CRANES | $ 16.4m | Indian (GMS) | auction sale |
-| SMALL | INA | 17,100 | 2012 | TAIZHOU SANFU, China | MAN-B\&amp;W | Jun-22 | 3 X 30t CRANES | low $ 10.0m | undisclosed |  |
+| HANDY | MARINE PRINCESS | 35,501 | 2012 | COSCO GUANGDONG, China | MAN-B&W | Nov-22 | 4 X 30t CRANES | $ 16.4m | Indian (GMS) | auction sale |
+| SMALL | INA | 17,100 | 2012 | TAIZHOU SANFU, China | MAN-B&W | Jun-22 | 3 X 30t CRANES | low $ 10.0m | undisclosed |  |
 
 ## Containers
 
@@ -253,10 +253,10 @@ In the Handysize sector we had the auction sale of the "MARINE PRINCESS" (35,501
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | BALTIC BRIDGE | 7,471 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-25 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
+| POST PMAX | BALTIC BRIDGE | 7,471 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Mar-25 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
 | PMAX | BALTIC SOUTH | 4,432 | 2010 | HYUNDAI ULSAN, S. Korea | Wartsila | Aug-25 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
-| PMAX | NORTH BRIDGE | 4,298 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Feb-23 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
-| PMAX | SINGAPORE BRIDGE | 4,253 | 2002 | SAMSUNG, S. Korea | B\&amp;W | Dec-22 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
+| PMAX | NORTH BRIDGE | 4,298 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Feb-23 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
+| PMAX | SINGAPORE BRIDGE | 4,253 | 2002 | SAMSUNG, S. Korea | B&W | Dec-22 |  | $ 350.0m | Swiss (MSC) | end Jan-2022 deal |
 | FEEDER | SAG GOOD TIMING | 1,118 | 2009 | TAIZHOU KOUAN, China | MAN | Mar-24 | 2 X 45t CRANES | $ 22.0m | undisclosed |  |
 
 © Intermodal Research 08/02/2022 5

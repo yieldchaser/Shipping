@@ -40,7 +40,7 @@ To conclude, the importance of CO2 utilization can be detected in two ways: the 
 
 Another very strong week for the dry bulk market with all sectors ending up with gains while Capesize was once again the best performer sector. The BDI today (17/05/2022) closed at 3,095 points, up by 156 points compared to previous Tuesday's closing (10/05/2022). The crude carrier markets are still facing an excess of available tonnage which led to a weaker performance during the past days. The BDTI today (17/05/2022) closed at 1,110, a decrease of 57 points, and the BCTI at 1,441, a decrease of 1 point compared to previous Tuesday's (10/05/2022) levels.
 
-## Sale &amp; Purchase (Wet: Stable + / Dry: Stable +)
+## Sale & Purchase (Wet: Stable + / Dry: Stable +)
 
 The secondhand market noted a quite stable week compared to the previous one, with strong activity materializing in both the wet and dry bulk markets. In the tanker sector, we had the sale of the "LEONIDAS" (318,325dwt-blt '09, S. Korea), which was sold to S. Korean owner, Sinokor, for a price in the region of \$42.0m. On the dry bulker side sector, we had the sale of the "PALAIS" (75,434dwt-blt '14, China), which was sold to Chinese buyers, for a price in the region of \$22.0m.
 
@@ -139,7 +139,7 @@ VLCC T/C earnings averaged \$-21,150/day, down - \$1,657/day w-o-w. Tonnage avai
 
 Suezmax T/C earnings averaged \$ 20,028/day, down - \$2,612/day w-o-w. West Africa market activity kicked off the week on a positive tone, however, as the week progressed cargo volumes thinned resulting in rates losing steam. Med activity for both the Suezmax and Aframax markets was quiet, as the Libyan ports remain under force majeure while soft June CPC volumes emerged in the market. The North European Aframax market activity was also subdued with both TD7 and TD17 routes losing 12.5WS and 5WS points respectively. All in all, Aframax T/C earnings averaged \$26,787/day, down - \$2,635/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "LEONIDAS" (318,325dwt-blt '09, S. Korea), which was sold to S. Korean owner, Sinokor, for a price in the region of \$42.0m.
 
@@ -206,7 +206,7 @@ Supramax 10TC averaged \$ 30,227/day, up + 0,60% w-o-w, while the Handysize 7TC 
 | **Ultramax** | **63k** | 34.3 | 33.6 | **1.9%** | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 29.0 | 28.7 | **1.0%** | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Panamax sector we had the sale of the "PALAIS" (75,434dwt-blt '14, China), which was sold to Chinese buyers, for a price in the region of \$22.0m.
 
@@ -224,17 +224,17 @@ In the Supramax sector we had the sale of the "PAN CROCUS" (57,269dwt-blt '09, C
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | LEONIDAS | 318,325 | 2009 | HYUNDAI ULSAN, S. Korea | Wartsila | Oct-24 | DH | rgn $ 42.0m | S. Korean (Sinokor) |  |
-| VLCC | NEW TALISMAN | 296,068 | 2009 | BOHAI, China | MAN-B&amp;W | Sep-24 | DH | $ 38.2m | Greek | BWTS fitted |
-| AFRA | NS CHALLENGER | 109,841 | 2005 | HYUNDAI ULSAN, S. Korea | B&amp;W | Jan-25 | DH | undisclosed | undisclosed | BWTS fitted, distressed sale |
-| LR2 | ALMI SPIRIT | 105,547 | 2007 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Aug-22 | DH | rgn $ 20.0m | undisclosed |  |
-| LR2 | WONDER ARCTURUS | 106,149 | 2002 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Aug-22 | DH | $ 13.15m | Middle Eastern |  |
-| LR2 | TORM GUDRUN | 101,155 | 2000 | HYUNDAI ULSAN, S. Korea | B&amp;W | May-25 | DH | excess $ 10.0m | undisclosed | coated |
-| MR2 | GWN 3 | 50,192 | 2021 | SAMSUNG, S. Korea | MAN-B&amp;W | Jan-26 | DH | excess $ 78.0m | UK based (Union Maritime) | scrubber fitted |
-| MR2 | GWN 2 | 50,192 | 2020 | SAMSUNG, S. Korea | MAN-B&amp;W | Sep-25 | DH | excess $ 78.0m | UK based (Union Maritime) | scrubber fitted |
-| MR2 | ST PAULI | 49,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jul-22 | DH | excess $ 33.0m | undisclosed |  |
-| MR2 | TUCHKOV BRIDGE | 47,199 | 2004 | ADMIRALTEYSKIY, Russia | B&amp;W | Apr-24 | DH | undisclosed | Singapore based (VR Marine) | distressed sale |
-| MR2 | ELBRUS | 46,655 | 2004 | HYUNDAI MIPO, S. Korea | B&amp;W | May-24 | DH | $ 6.95m | Middle Eastern | distressed sale |
-| MR2 | PAMIR | 46,654 | 2004 | HYUNDAI MIPO, S. Korea | B&amp;W | Apr-24 | DH | $ 6.95m | Middle Eastern | distressed sale |
+| VLCC | NEW TALISMAN | 296,068 | 2009 | BOHAI, China | MAN-B&W | Sep-24 | DH | $ 38.2m | Greek | BWTS fitted |
+| AFRA | NS CHALLENGER | 109,841 | 2005 | HYUNDAI ULSAN, S. Korea | B&W | Jan-25 | DH | undisclosed | undisclosed | BWTS fitted, distressed sale |
+| LR2 | ALMI SPIRIT | 105,547 | 2007 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Aug-22 | DH | rgn $ 20.0m | undisclosed |  |
+| LR2 | WONDER ARCTURUS | 106,149 | 2002 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Aug-22 | DH | $ 13.15m | Middle Eastern |  |
+| LR2 | TORM GUDRUN | 101,155 | 2000 | HYUNDAI ULSAN, S. Korea | B&W | May-25 | DH | excess $ 10.0m | undisclosed | coated |
+| MR2 | GWN 3 | 50,192 | 2021 | SAMSUNG, S. Korea | MAN-B&W | Jan-26 | DH | excess $ 78.0m | UK based (Union Maritime) | scrubber fitted |
+| MR2 | GWN 2 | 50,192 | 2020 | SAMSUNG, S. Korea | MAN-B&W | Sep-25 | DH | excess $ 78.0m | UK based (Union Maritime) | scrubber fitted |
+| MR2 | ST PAULI | 49,999 | 2017 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jul-22 | DH | excess $ 33.0m | undisclosed |  |
+| MR2 | TUCHKOV BRIDGE | 47,199 | 2004 | ADMIRALTEYSKIY, Russia | B&W | Apr-24 | DH | undisclosed | Singapore based (VR Marine) | distressed sale |
+| MR2 | ELBRUS | 46,655 | 2004 | HYUNDAI MIPO, S. Korea | B&W | May-24 | DH | $ 6.95m | Middle Eastern | distressed sale |
+| MR2 | PAMIR | 46,654 | 2004 | HYUNDAI MIPO, S. Korea | B&W | Apr-24 | DH | $ 6.95m | Middle Eastern | distressed sale |
 | SMALL | GAO CHENG 5 | 9,039 | 2011 | ZHEJIANG TAITONG, China | Yanmar |  | DH | $ 3.9m | Chinese |  |
 
 © Intermodal Research 17/05/2022 4
@@ -247,23 +247,23 @@ In the Supramax sector we had the sale of the "PAN CROCUS" (57,269dwt-blt '09, C
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | MINERAL YARDEN | 181,218 | 2016 | IMABARI, Japan | MAN-B\&amp;W | May-26 |  | rgn $ 51.5m | German (Valhal) | incl 5 yrs TC attached at $26,000 p/d |
-| KMAX | BTG OLYMPOS | 81,086 | 2015 | JMU, Japan | MAN-B\&amp;W | Oct-25 |  | excess $ 71.0m | Greek (TMS) | BWTS fitted |
-| KMAX | BTG KAILASH | 81,084 | 2015 | JMU, Japan | MAN-B\&amp;W | Feb-25 |  | excess $ 71.0m | Greek (TMS) | BWTS fitted |
-| PMAX | PALAIS | 75,434 | 2014 | JIANGSU RONGSHENG, China | Wartsila | Jan-24 |  | $ 22.0m | Chinese | Tier II &amp; BWTS fitted |
-| PMAX | ROSCO OLIVE | 74,951 | 2010 | SASEBO, Japan | MAN-B\&amp;W | Sep-25 |  | rgn $24.0m | European |  |
-| PMAX | CHAILEASE BLOSSOM | 77,684 | 2004 | CSBC, Taiwan | B\&amp;W | Aug-22 |  | mid $ 13.0m | Chinese |  |
-| UMAX | NORD BALTIC | 62,625 | 2018 | OSHIMA, Japan | MAN-B\&amp;W | Nov-23 | 4 X 30t CRANES | high $ 36.0m | undisclosed | BWTS &amp; scrubber fitted |
-| SUPRA | SERENE JUNIPER | 57,185 | 2011 | STX DALIAN, China | MAN-B\&amp;W | Feb-26 | 4 X 30t CRANES | $ 19.2m | Chinese | incl. TC attached for 11-13 months at $26,000 p/d |
-| SUPRA | PAN CROCUS | 57,269 | 2009 | STX DALIAN, China | MAN-B\&amp;W | May-24 | 4 X 30t CRANES | excess $ 18.0m | UK based |  |
-| HANDY | JIN DA | 35,212 | 2011 | NANJING DONGZE, China | MAN-B\&amp;W | Sep-26 | 4 X 30,5t CRANES | low-mid $ 17.0m | undisclosed | BWTS &amp; Logs fitted |
+| CAPE | MINERAL YARDEN | 181,218 | 2016 | IMABARI, Japan | MAN-B&W | May-26 |  | rgn $ 51.5m | German (Valhal) | incl 5 yrs TC attached at $26,000 p/d |
+| KMAX | BTG OLYMPOS | 81,086 | 2015 | JMU, Japan | MAN-B&W | Oct-25 |  | excess $ 71.0m | Greek (TMS) | BWTS fitted |
+| KMAX | BTG KAILASH | 81,084 | 2015 | JMU, Japan | MAN-B&W | Feb-25 |  | excess $ 71.0m | Greek (TMS) | BWTS fitted |
+| PMAX | PALAIS | 75,434 | 2014 | JIANGSU RONGSHENG, China | Wartsila | Jan-24 |  | $ 22.0m | Chinese | Tier II & BWTS fitted |
+| PMAX | ROSCO OLIVE | 74,951 | 2010 | SASEBO, Japan | MAN-B&W | Sep-25 |  | rgn $24.0m | European |  |
+| PMAX | CHAILEASE BLOSSOM | 77,684 | 2004 | CSBC, Taiwan | B&W | Aug-22 |  | mid $ 13.0m | Chinese |  |
+| UMAX | NORD BALTIC | 62,625 | 2018 | OSHIMA, Japan | MAN-B&W | Nov-23 | 4 X 30t CRANES | high $ 36.0m | undisclosed | BWTS & scrubber fitted |
+| SUPRA | SERENE JUNIPER | 57,185 | 2011 | STX DALIAN, China | MAN-B&W | Feb-26 | 4 X 30t CRANES | $ 19.2m | Chinese | incl. TC attached for 11-13 months at $26,000 p/d |
+| SUPRA | PAN CROCUS | 57,269 | 2009 | STX DALIAN, China | MAN-B&W | May-24 | 4 X 30t CRANES | excess $ 18.0m | UK based |  |
+| HANDY | JIN DA | 35,212 | 2011 | NANJING DONGZE, China | MAN-B&W | Sep-26 | 4 X 30,5t CRANES | low-mid $ 17.0m | undisclosed | BWTS & Logs fitted |
 
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | MSC PARIS | 8,204 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Jan-26 |  | $ 31.0m | undisclosed |
-| FEEDER | EASLINE QINGDAO | 1,550 | 2001 | GUANGZHOU WENCHONG, China | B&amp;W | May-26 | 2 X 40t CRANES | $ 19.0m | Swiss (MSC) |
+| POST PMAX | MSC PARIS | 8,204 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jan-26 |  | $ 31.0m | undisclosed |
+| FEEDER | EASLINE QINGDAO | 1,550 | 2001 | GUANGZHOU WENCHONG, China | B&W | May-26 | 2 X 40t CRANES | $ 19.0m | Swiss (MSC) |
 
 ## Secondhand Sales
 
@@ -311,7 +311,7 @@ The shipbuilding market activity appeared quiet last week, which is more or less
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bulker | 64,000 dwt | Nihon, Japan | 2024 | Greek (Globus Maritime) | $ 37.5m | Tier III, conventionally fuelled |
-| 2 | Bulker | 40,000 dwt | Namura, Japan | 2024 | Greek (Meadway Shipping &amp; Trading) | undisclosed | EEDI phase 3 |
+| 2 | Bulker | 40,000 dwt | Namura, Japan | 2024 | Greek (Meadway Shipping & Trading) | undisclosed | EEDI phase 3 |
 | 2 | Container | 2,800 teu | Hyundai Mipo, S. Korea | 2024 | Greek (Euroseas) | $ 43.0m | options declared, Tier III, LNG ready |
 
 © Intermodal Research 17/05/2022 6

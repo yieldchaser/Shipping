@@ -821,10 +821,10 @@
         "m_e": "MAN-B\\&W",
         "ss_due": "Oct-25",
         "gear_hull": "DH",
-        "price_raw": "",
+        "price_raw": "$ 17.0-17.5m each",
         "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "buyers": "undisclosed",
+        "comments": "BWTS fitted, Zinc coated",
         "source_file": "intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf"
       },
       {
@@ -857,10 +857,10 @@
         "m_e": "MAN-B\\&W",
         "ss_due": "Aug-26",
         "gear_hull": "DH",
-        "price_raw": "",
+        "price_raw": "$ 15.5m each",
         "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "buyers": "undisclosed",
+        "comments": "BWTS fitted, StSt",
         "source_file": "intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf"
       },
       {
@@ -931,8 +931,8 @@
         "gear_hull": "4 X 35t CRANES",
         "price_raw": "$ 21.0m",
         "price_usd_m": 21.0,
-        "buyers": "",
-        "comments": "",
+        "buyers": "Greek",
+        "comments": "BWTS fitted, Eco, 2 of them with NRP",
         "source_file": "intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf"
       },
       {
@@ -949,8 +949,8 @@
         "gear_hull": "4 X 35t CRANES",
         "price_raw": "$ 22.0m",
         "price_usd_m": 22.0,
-        "buyers": "",
-        "comments": "",
+        "buyers": "Greek",
+        "comments": "BWTS fitted, Eco, 2 of them with NRP",
         "source_file": "intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf"
       },
       {
@@ -967,8 +967,8 @@
         "gear_hull": "4 X 35t CRANES",
         "price_raw": "$ 22.0m",
         "price_usd_m": 22.0,
-        "buyers": "",
-        "comments": "",
+        "buyers": "Greek",
+        "comments": "BWTS fitted, Eco, 2 of them with NRP",
         "source_file": "intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf"
       },
       {

@@ -30,7 +30,7 @@ Meanwhile, in the rest EU area, farmers have been grappling with drought, while 
 
 Demand wise, the dry bulk market continues to face significant pressure which is now shadowing the positive effects applied from the shift in trade patterns coupled with the coal usage increase across the globe. The BDI today (30/08/2022) closed at 1,017 points, down by 254 points compared to previous Tuesday's closing (23/08/2022). The market performance across the crude carrier sectors presented a mixed picture, with VLCC sector noting stability due to lower US demand last week while Suezmax and Aframax Atlantic activity was robust, amidst a shorter tonnage list. The BDTI today (30/08/2022) closed at 1,526, a decrease of 12 points and the BCTI at 1,260, a decrease of 23 point compared to previous Tuesday's (23/08/2022) levels.
 
-## Sale &amp; Purchase (**Wet: **Firmer** / Dry: **Softer****&gt;)
+## Sale & Purchase (**Wet: **Firmer** / Dry: **Softer****&gt;)
 
 The dry bulk SnP activity was almost muted during the past week, at a time when interest for tanker units remains robust. In the tanker sector, we had the sale of the "TSURUSAKI" (300,838dwt-blt '02, Japan), which was sold to Greek buyers, for a price in the region of \$33.0m. On the dry bulker side sector, we had the sale of the "CLARKE QUAY" (55,618dwt-blt '10, Vietnam), which was sold to US based owner, Pangaea Logistics, for a price in the region of \$17.1m.
 
@@ -127,7 +127,7 @@ VLCC T/C earnings averaged \$20,468/day, up + \$3,705/day w-o-w. Overall sentime
 
 Suezmax T/C earnings averaged \$ 51,715/day, up + \$2,221/day w-o-w. Med TD6 route increased by 25WS points w-o-w. West Africa and MEG markets lost little strength over the past days. Aframax T/C earnings averaged \$52,991/day, down - \$1,341/day, w-o-w. Improved USG market has attracted a volume of ballasters in the previous week, resulting in a w-o-w rise on North European and Med markets last week. On the contrary, with tonnage in US substantially increasing, TD9 business route lost 50.62WS points w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "TSURUSAKI" (300,838dwt-blt '02, Japan), which was sold to Greek buyers, for a price in the region of \$33.0m.
 
@@ -194,7 +194,7 @@ Supramax 10TC averaged \$ 19,351/day, up + 5.65% w-o-w, while the Handysize 7TC 
 | **Ultramax** | **63k** | 32.3 | 33.5 | -3.7% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 27.8 | 28.9 | -4.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Supramax sector we had the sale of the "CLARKE QUAY" (55,618dwt-bl't '10, Vietnam), which was sold to US based owner, Pangaea Logistics, for a price in the region of \$17.1m.
 
@@ -211,27 +211,27 @@ In the Handysize sector we had the sale of the "AFRICA PRIDE" (28,843dwt-bl't '9
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | DHT EDELWEISS | 301,021 | 2008 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-23 | DH | $ 37.0m | undisclosed | Q3 dely |
+| VLCC | DHT EDELWEISS | 301,021 | 2008 | DAEWOO, S. Korea | MAN-B&W | Jan-23 | DH | $ 37.0m | undisclosed | Q3 dely |
 | VLCC | TSURUSAKI | 300,838 | 2002 | IHI MARINE, Japan | Sulzer | Dec-22 | DH | $ 33.0m | Greek |  |
-| VLCC | G. DREAM | 299,945 | 2022 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Jul-27 | DH | $ 108.0m | S. Korean (HMM) | BWTS &amp; Scrubber fitted |
-| AFRA | CELSIUS ESBJERG | 113,043 | 2009 | NEW TIMES, China | MAN-B\&amp;W | Oct-24 | DH | $ 64.0m (en bloc) | undisclosed | BWTS fitted, coated |
-| AFRA | CELSIUS EVERETT | 113,010 | 2008 | NEW TIMES, China | MAN-B\&amp;W | Oct-23 | DH | $ 64.0m (en bloc) | undisclosed | coated |
-| AFRA | ATLANTIC PRIDE | 114,500 | 2004 | SAMSUNG, S. Korea | B\&amp;W | May-24 | DH | $ 24.0m | Chinese | BWTS fitted, Ice 1C |
-| AFRA | ZHEN I | 105,588 | 2002 | DAEWOO, S. Korea | MAN-B\&amp;W | Sep-22 | DH | mid/high $ 17.0m | undisclosed |  |
-| MR2 | GLENDA MERYL | 47,251 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Nov-25 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
-| MR2 | GLENDA MELODY | 47,238 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-25 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
-| MR2 | GLENDA MELISSA | 47,203 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Feb-26 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
-| MR2 | GLENDA MELANIE | 47,162 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Nov-25 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
-| MR2 | AGNES VICTORY | 47,122 | 2004 | BRODOGRADILISTE, Croatia | B\&amp;W | Feb-24 | DH | $ 16.8m | Chinese | BWTS fitted |
-| MR2 | FSL SINGAPORE | 47,470 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Feb-26 | DH | $ 18.0m | Greek | BWTS fitted |
+| VLCC | G. DREAM | 299,945 | 2022 | HYUNDAI SAMHO, S. Korea | MAN-B&W | Jul-27 | DH | $ 108.0m | S. Korean (HMM) | BWTS & Scrubber fitted |
+| AFRA | CELSIUS ESBJERG | 113,043 | 2009 | NEW TIMES, China | MAN-B&W | Oct-24 | DH | $ 64.0m (en bloc) | undisclosed | BWTS fitted, coated |
+| AFRA | CELSIUS EVERETT | 113,010 | 2008 | NEW TIMES, China | MAN-B&W | Oct-23 | DH | $ 64.0m (en bloc) | undisclosed | coated |
+| AFRA | ATLANTIC PRIDE | 114,500 | 2004 | SAMSUNG, S. Korea | B&W | May-24 | DH | $ 24.0m | Chinese | BWTS fitted, Ice 1C |
+| AFRA | ZHEN I | 105,588 | 2002 | DAEWOO, S. Korea | MAN-B&W | Sep-22 | DH | mid/high $ 17.0m | undisclosed |  |
+| MR2 | GLENDA MERYL | 47,251 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&W | Nov-25 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
+| MR2 | GLENDA MELODY | 47,238 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&W | Oct-25 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
+| MR2 | GLENDA MELISSA | 47,203 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&W | Feb-26 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
+| MR2 | GLENDA MELANIE | 47,162 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B&W | Nov-25 | DH | $ 109.6m (en bloc) | Italian (d'Amico Tankers) | d'Amico is purchasing the 50% share of their J/V partner based on the reported price of $109.6m enbloc |
+| MR2 | AGNES VICTORY | 47,122 | 2004 | BRODOGRADILISTE, Croatia | B&W | Feb-24 | DH | $ 16.8m | Chinese | BWTS fitted |
+| MR2 | FSL SINGAPORE | 47,470 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&W | Feb-26 | DH | $ 18.0m | Greek | BWTS fitted |
 | MR2 | GOTLAND CAROLINA | 53,160 | 2006 | GUANGZHOU, China | Wartsila | Dec-26 | DH | $ 18.5m | Norwegian | BWTS fitted |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUPRA | CLARKE QUAY | 55,618 | 2010 | HYUNDAI VINASHIN, Vietnam | MAN-B\&amp;W | Nov-25 | 4 X 30t CRANES | $ 17.1m | US based (Pangaea Logistics) |  |
+| SUPRA | CLARKE QUAY | 55,618 | 2010 | HYUNDAI VINASHIN, Vietnam | MAN-B&W | Nov-25 | 4 X 30t CRANES | $ 17.1m | US based (Pangaea Logistics) |  |
 | HANDY | AFRICA PRIDE | 28,843 | 1991 | KANASASHI, Japan | MITSUBISHI | May-24 | 4 X 30,4t CRANES | undisclosed | undisclosed |  |
-| SMALL | KINATSI | 18,901 | 2007 | YAMANISHI, Japan | MAN-B\&amp;W | Dec-27 | 3 X 30,5t CRANES | $ 10.3m | Syrian | BWST fitted, old sale |
+| SMALL | KINATSI | 18,901 | 2007 | YAMANISHI, Japan | MAN-B&W | Dec-27 | 3 X 30,5t CRANES | $ 10.3m | Syrian | BWST fitted, old sale |
 
 © Intermodal Research 30/08/2022 4
 
@@ -242,14 +242,14 @@ In the Handysize sector we had the sale of the "AFRICA PRIDE" (28,843dwt-bl't '9
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | RIO CADIZ | 4,300 | 2008 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Jan-23 |  | undisclosed | Swiss (MSC) | Scrubber fitted |
-| PMAX | RIO CHARLESTON | 4,300 | 2008 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Jan-23 |  | undisclosed | Swiss (MSC) | Scrubber fitted |
-| PMAX | TRF PARTICI | 3,534 | 2010 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Jun-25 |  | undisclosed | undisclosed | TC attached, Scrubber fitted |
-| SUB PMAX | CSBC Kaohsiung 1185 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
-| SUB PMAX | CSBC Kaohsiung 1186 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
-| SUB PMAX | CSBC Kaohsiung 1187 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
-| SUB PMAX | CSBC Kaohsiung 1188 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B\&amp;W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
-| FEEDER | PINARA | 1,740 | 2004 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Oct-24 | 2 X 45t CRANES | low $ 20.0m | Turkish (Akar Deniz Tasimac) |  |
+| PMAX | RIO CADIZ | 4,300 | 2008 | HYUNDAI SAMHO, S. Korea | MAN-B&W | Jan-23 |  | undisclosed | Swiss (MSC) | Scrubber fitted |
+| PMAX | RIO CHARLESTON | 4,300 | 2008 | HYUNDAI SAMHO, S. Korea | MAN-B&W | Jan-23 |  | undisclosed | Swiss (MSC) | Scrubber fitted |
+| PMAX | TRF PARTICI | 3,534 | 2010 | SHANGHAI SHIPYARD, China | MAN-B&W | Jun-25 |  | undisclosed | undisclosed | TC attached, Scrubber fitted |
+| SUB PMAX | CSBC Kaohsiung 1185 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B&W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
+| SUB PMAX | CSBC Kaohsiung 1186 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B&W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
+| SUB PMAX | CSBC Kaohsiung 1187 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B&W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
+| SUB PMAX | CSBC Kaohsiung 1188 | 2,800 | 2023 | CSBC CORP, Taiwan | MAN-B&W |  |  | rgn $ 220.0m | Taiwanese (Wan Hai Lines) | resale 2023, Scrubber fitted, eco |
+| FEEDER | PINARA | 1,740 | 2004 | GUANGZHOU WENCHONG, China | MAN-B&W | Oct-24 | 2 X 45t CRANES | low $ 20.0m | Turkish (Akar Deniz Tasimac) |  |
 
 © Intermodal Research 30/08/2022 5
 

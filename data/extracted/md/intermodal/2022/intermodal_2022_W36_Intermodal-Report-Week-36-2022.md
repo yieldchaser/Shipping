@@ -34,7 +34,7 @@ West Africa's August exports fell by 1.7% m-o-m to 3.15m b/d, due to ongoing the
 
 Limited mineral trade remains the weak spot in dry bulk market activity, however, recent increases in ECSA and NoPac grain activity supported the sectors last week. The BDI today (13/09/2022) closed at 1,408 points, up by 294 points compared to previous Tuesday's closing (06/09/2022). The VLCC sector activity found support from the stronger USG exports. On the other hand, Suezmax and Aframax activity faced little fresh cargoes in the Atlantic against a widening tonnage list. The BDTI today (13/09/2022) closed at 1,455, an increase of 16 points and the BCTI at 1,235, an increase of 55 point compared to previous Tuesday's (06/09/2022) levels.
 
-## **Sale &amp; Purchase (Wet: Stable+ / Dry: Softer)**
+## **Sale & Purchase (Wet: Stable+ / Dry: Softer)**
 
 Owners remain skeptical with regard to secondhand dry bulk acquisitions, which is translating into a very short list of SnP deals. On the other hand, the positive tanker freight market momentum coupled with the optimism for a strong market ahead has led to a plethora of tanker deals being materialized. In the tanker sector, we had the sale of the "TEMA" (311,620dwt-blt '05, Japan), which was sold to undisclosed buyers, for a price in the region of \$33.5m. On the dry bulker side sector we had the sale of the "ULTRA TRUST" (61,225dwt-blt '15, Japan), which was sold to US based owner, Eagle Bulk for a price in the region of \$27.5m.
 
@@ -128,7 +128,7 @@ VLCC T/C earnings averaged \$ 17,985/day, down - \$767/day w-o-w. USG activity w
 
 Suezmax T/C earnings averaged \$ 54,042/day, down - \$2,398/day w-o-w. Both the W. African and Meg market rates ended up the week almost unchanged while TD6 Black Sea/Med route lost 15.56WS points w-o-w. Aframax Med activity was also negative with TD19 losing 7.37WS points. North European market also faced a bigger tonnage list with TD7 and TD17 losing 25WS and 21.88WS points respectively.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "TEMA" (311,620dwt-blt '05, Japan), which was sold to undisclosed buyers, for a price in the region of \$33.5m.
 
@@ -196,7 +196,7 @@ Supramax 10TC averaged \$ 16,322/day, down - 7.12% w-o-w, while the Handysize 7T
 | **Ultramax** | **63k** | 30.5 | 32.3 | -5.4% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 27.0 | 27.8 | -2.7% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Ultramax sector we had the sale of the "ULTRA TRUST" (61,225dwt-bl't '15, Japan), which was sold to US based owner, Eagle Bulk for a price in the region of \$27.5m.
 
@@ -211,12 +211,12 @@ In the Handysize sector we had the sale of the "AQUARIUS 77" (35,737dwt-bl't '16
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | TEMA | 311,620 | 2005 | KAWASAKI, Japan | MAN-B\&amp;W | Sep-22 | DH | $ 33.5m | undisclosed | BWTS fitted |
-| SUEZ | LILA GUANGZHOU | 159,149 | 2004 | BOHAI, China | MAN-B\&amp;W | May-24 | DH | xs $ 23.0m | undisclosed |  |
-| AFRA | BEKS ATLANTICA | 114,896 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | Nov-26 | DH | $ 32.5m | Pakistani (IMMS) | Ice 1A+ |
-| AFRA | PIPER | 114,809 | 2005 | SAMSUNG, S. Korea | B\&amp;W | Feb-25 | DH | $ 29.0-30.0m | Middle Eastern | BWTS &amp; Scrubber fitted |
-| AFRA | ALBA | 113,782 | 2005 | SAMSUNG, S. Korea | B\&amp;W | Oct-24 | DH | rgn $ 32.0m | Middle Eastern | Ice 1A, BWTS &amp; Scrubber fitted |
-| MR2 | ASTREA | 40,158 | 2006 | SHINA, S. Korea | MAN-B\&amp;W | Jan-26 | DH | $ 15.5m | undisclosed | Ice 1B, BWTS fitted, epoxy phenolic |
+| VLCC | TEMA | 311,620 | 2005 | KAWASAKI, Japan | MAN-B&W | Sep-22 | DH | $ 33.5m | undisclosed | BWTS fitted |
+| SUEZ | LILA GUANGZHOU | 159,149 | 2004 | BOHAI, China | MAN-B&W | May-24 | DH | xs $ 23.0m | undisclosed |  |
+| AFRA | BEKS ATLANTICA | 114,896 | 2006 | SAMSUNG, S. Korea | MAN-B&W | Nov-26 | DH | $ 32.5m | Pakistani (IMMS) | Ice 1A+ |
+| AFRA | PIPER | 114,809 | 2005 | SAMSUNG, S. Korea | B&W | Feb-25 | DH | $ 29.0-30.0m | Middle Eastern | BWTS & Scrubber fitted |
+| AFRA | ALBA | 113,782 | 2005 | SAMSUNG, S. Korea | B&W | Oct-24 | DH | rgn $ 32.0m | Middle Eastern | Ice 1A, BWTS & Scrubber fitted |
+| MR2 | ASTREA | 40,158 | 2006 | SHINA, S. Korea | MAN-B&W | Jan-26 | DH | $ 15.5m | undisclosed | Ice 1B, BWTS fitted, epoxy phenolic |
 | SMALL | SG BAHARI | 9,600 | 2009 | DONGFANG, China | MaK | Jan-24 | DH | $ 4.5m | Turkish |  |
 | SMALL | GUNGA | 6,480 | 2009 | DESAN, Turkey | MaK | Sep-24 | DH | $ 14.0m (en bloc) | undisclosed | Ice 1C |
 | SMALL | GAZELA | 6,479 | 2010 | DESAN, Turkey | MAN | Mar-25 | DH | $ 14.0m (en bloc) | undisclosed | Ice 1C |
@@ -224,21 +224,21 @@ In the Handysize sector we had the sale of the "AQUARIUS 77" (35,737dwt-bl't '16
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UMAX | ULTRA TRUST | 61,225 | 2015 | TADOTSU, Japan | MAN-B&amp;W | Oct-25 | 4 X 30,7t CRANES | $ 27.5m | US based (Eagle Bulk) | scrubber fitted, eco |
-| HANDY | AQUARIUS 77 | 35,737 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&amp;W | Feb-26 | 4 X 30t CRANES | rgn $ 21.0m | undisclosed |  |
+| UMAX | ULTRA TRUST | 61,225 | 2015 | TADOTSU, Japan | MAN-B&W | Oct-25 | 4 X 30,7t CRANES | $ 27.5m | US based (Eagle Bulk) | scrubber fitted, eco |
+| HANDY | AQUARIUS 77 | 35,737 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&W | Feb-26 | 4 X 30t CRANES | rgn $ 21.0m | undisclosed |  |
 ## Secondhand Sales
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | BW PRINCE | 54,368 | 2007 | HYUNDAI, S. Korea | MAN-B&amp;W | Nov-22 | 80,735 | $ 45.0m | undisclosed |
-| LPG | CLIPPER SIRIUS | 54,048 | 2008 | HYUNDAI, S. Korea | MAN-B&amp;W | Jun-23 | 73,537 | $ 50.0m | undisclosed |
+| LPG | BW PRINCE | 54,368 | 2007 | HYUNDAI, S. Korea | MAN-B&W | Nov-22 | 80,735 | $ 45.0m | undisclosed |
+| LPG | CLIPPER SIRIUS | 54,048 | 2008 | HYUNDAI, S. Korea | MAN-B&W | Jun-23 | 73,537 | $ 50.0m | undisclosed |
 | LPG | SCALI REALI | 3,804 | 2010 | BESIKTAS GEMI, Turkey | Wartsila | Aug-25 | 3,295 | $ 39.0m | undisclosed |
 | LPG | SCALI SANLORENZO | 3,801 | 2010 | NAVAL SSZ ZAO, Ukraine | Wartsila | May-25 | 3,294 | $ 39.0m | undisclosed |
 ## Secondhand Sales
 
 | Sector | Size | Containers | Name | Teu | Built | Yard | M/E | SS due | Gear |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | OSAKA | 4,506 | 2008 | SAMSUNG, S. Korea | MAN-B&amp;W | Sep-23 |  | $ 60.0m | undisclosed |
+| POST PMAX | OSAKA | 4,506 | 2008 | SAMSUNG, S. Korea | MAN-B&W | Sep-23 |  | $ 60.0m | undisclosed |
 
 © Intermodal Research 13/09/2022 4
 
@@ -307,7 +307,7 @@ Dry bulk units have caught the attention of some scrap yards as the recent downw
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CHEVAL BLEU | 149,745 | 21,882 | 1995 | MITSUI CHIBA, Japan | TANKER | $ 615/Ldt | undisclosed |  |
 | WINNING INTEGRITY | 172,571 | 21,392 | 2000 | NKK CORP - TSU, Japan | BC | $ 603/Ldt | undisclosed | "as is" Singapore, including abt 200 tons bunkers RoB. |
-| POLAN | 74,999 | 13,400 | 1999 | HALLA ENG &amp; HI, S. Korea | TANKER | $ 589/Ldt | undisclosed | "as is" Singapore |
+| POLAN | 74,999 | 13,400 | 1999 | HALLA ENG & HI, S. Korea | TANKER | $ 589/Ldt | undisclosed | "as is" Singapore |
 | BEI LUN 6 | 43,665 | 10,058 | 1989 | TSUNEISHI, Japan | BC | $ 611/Ldt | Bangladeshi |  |
 | CHANG SHENG | 75,752 | 9,824 | 1998 | SANOYAS HISHINO, Japan | BC | $ 595/Ldt | undisclosed | "as is" Singapore |
 

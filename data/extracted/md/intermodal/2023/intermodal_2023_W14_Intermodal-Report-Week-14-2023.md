@@ -30,7 +30,7 @@ The competition between Brazil and the US to supply China amid the expected dema
 
 A mixed picture emerged in the dry bulk market with bigger sizes noting an improved performance while geared sizes sectors lacked demand with their rates weakening w-o-w. The BDI on Thursday (06/04/2023) closed at 1,560 points, up by 171 points compared to previous Friday's closing (31/03/2023). The crude carriers' market was still moving sideways last week with all sectors witnessing w-o-w declines in earnings. The BDTI on Thursday (06/04/2023) closed at 1,319, a decrease of 109 points and the BCTI at 1,014, a decrease of 234 points compared to previous Friday's (31/02/2023) levels.
 
-## Sale &amp; Purchase (Wet: **Softer** / Dry: **Softer**)
+## Sale & Purchase (Wet: **Softer** / Dry: **Softer**)
 
 SnP activity took a break amidst the Catholic Easter holiday during the past week. On the dry bulk front, only three deals materialized while in the tanker secondhand market realm, the en-bloc purchase option declaration from Italian owner Navigazione Montanari for four MR2 and four MR1 tankers made the headlines last week. In the tanker sector, we had the enbloc sale of the "NAUTICAL DEBORAH" (75,343dwt-blt '18, China), "NAUTICAL SARAH" (75,144dwt-blt '19, China) and "NAUTICAL JANINE" (75,111dwt-blt '19, China) which were sold to Turkish buyers, for a price in the region of \$153.0m. On the dry bulker side sector, we had the sale of the "STELLA ADA" (180,223dwt-blt '11, China), which was sold to Chinese buyers, for a price in the region of \$25.5m.
 
@@ -127,7 +127,7 @@ VLCC T/C earnings averaged \$ 39,672/day, down -\$16,293/day w-o-w, and closed o
 Suezmax T/C earnings averaged \$ 71,876/day, down - \$7,124/day w-o-w.
 On the Aframax front, T/C earnings averaged \$ 60,971/day, down - \$7,771/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the LR1 sector we had the enbloc sale of the "NAUTICAL DEBORAH" (75,343dwt-blt '18, China), "NAUTICAL SARAH" (75,144dwt-blt '19, China) and "NAUTICAL JANINE" (75,111dwt-blt '19, China) which were sold to Turkish buyers, for a price in the region of \$153.0m.
 
@@ -189,9 +189,9 @@ Supramax 10TC averaged \$ 12,908/day, down -7.75% w-o-w, while the Handysize 7TC
 | **Ultramax** **63k** | 31.0 | 30.0 | 3.3% | 31.5 | 26.4 | 19.4 |
 | **Handysize** **37K** | 26.0 | 25.4 | 2.4% | 27.2 | 21.4 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the Capesize sector we had the sale of the "STELLA ADA" (180,223dwt-bl't '11, China), which was sold to Chinese buyers, for a price in the region of \$25.5m.
 
@@ -206,23 +206,23 @@ In the Ultramax sector we had the sale of the "ATLANTIC MONTERREY" (63,590dwt-bl
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR1 | NAUTICAL DEBORAH | 75,343 | 2018 | Jiangsu Hantong, China | MAN-B\&amp;W | Jul-23 | DH | $ 153.0m | Turkish | Scrubber fitted, bss TC attached |
-| LR1 | NAUTICAL SARAH | 75,144 | 2019 | Jiangsu Hantong, China | MAN-B\&amp;W | Apr-24 | DH | $ 153.0m | Turkish | Scrubber fitted, bss TC attached |
-| LR1 | NAUTICAL JANINE | 75,111 | 2019 | Jiangsu Hantong, China | MAN-B\&amp;W | Jan-24 | DH | $ 153.0m | Turkish | Scrubber fitted, bss TC attached |
+| LR1 | NAUTICAL DEBORAH | 75,343 | 2018 | Jiangsu Hantong, China | MAN-B&W | Jul-23 | DH | $ 153.0m | Turkish | Scrubber fitted, bss TC attached |
+| LR1 | NAUTICAL SARAH | 75,144 | 2019 | Jiangsu Hantong, China | MAN-B&W | Apr-24 | DH | $ 153.0m | Turkish | Scrubber fitted, bss TC attached |
+| LR1 | NAUTICAL JANINE | 75,111 | 2019 | Jiangsu Hantong, China | MAN-B&W | Jan-24 | DH | $ 153.0m | Turkish | Scrubber fitted, bss TC attached |
 | MR2 | VALLE BIANCA | 50,633 | 2007 | SPP, S. Korea | Wartsila | Oct-27 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
 | MR2 | VALVERDE | 50,344 | 2008 | SPP, S. Korea | Wartsila | Apr-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
 | MR2 | VALROSSA | 50,344 | 2008 | SPP, S. Korea | Wartsila | Mar-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
 | MR2 | VALLE AZZURRA | 49,999 | 2007 | SPP, S. Korea | Wartsila | Dec-27 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
-| MR1 | VALCADORE | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Feb-28 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
-| MR1 | VALGARDENA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jun-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
-| MR1 | VALTELLINA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
-| MR1 | VALSESIA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
+| MR1 | VALCADORE | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B&W | Feb-28 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
+| MR1 | VALGARDENA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jun-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
+| MR1 | VALTELLINA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B&W | May-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
+| MR1 | VALSESIA | 37,481 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B&W | Oct-23 | DH | undisclosed | Italian (Navigazione Montanari) | purchase option exercised |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | STELLA ADA | 180,223 | 2011 | Dalian, China | MAN-B\&amp;W | Dec-25 |  | $ 25.5m | Chinese | BWTS fitted |
-| UMAX | ATLANTIC MONTERREY | 63,590 | 2017 | SHIN KASADO, Japan | MAN-B\&amp;W | Oct-27 | 4 X 30,7t CRANES | $ 30.0m | Far Eastern | BWTS fitted, Eco |
+| CAPE | STELLA ADA | 180,223 | 2011 | Dalian, China | MAN-B&W | Dec-25 |  | $ 25.5m | Chinese | BWTS fitted |
+| UMAX | ATLANTIC MONTERREY | 63,590 | 2017 | SHIN KASADO, Japan | MAN-B&W | Oct-27 | 4 X 30,7t CRANES | $ 30.0m | Far Eastern | BWTS fitted, Eco |
 | HANDY | BLACK FOREST | 32,751 | 2003 | KANDA, Japan | Mitsubishi | Aug-23 | 4 X 30,5t CRANES | high $ 8.0m | Chinese | BWTS fitted |
 
 ## Secondhand Sales
@@ -230,7 +230,7 @@ In the Ultramax sector we had the sale of the "ATLANTIC MONTERREY" (63,590dwt-bl
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | CMA CGM PELLEAS | 9,661 | 2008 | HYUNDAI, S. Korea | Wartsila | Aug-23 |  | $ 52.3m | French (CMA CGM) | purchase option exercised |
-| PMAX | SPIRIT OF LISBON | 4,249 | 2010 | Jiangsu Newyangzi, China | MAN-B\&amp;W | Dec-24 |  | $ 24.0m | French (CMA CGM) | scrubber fitted |
+| PMAX | SPIRIT OF LISBON | 4,249 | 2010 | Jiangsu Newyangzi, China | MAN-B&W | Dec-24 |  | $ 24.0m | French (CMA CGM) | scrubber fitted |
 
 © Intermodal Research 11/04/2023 4
 

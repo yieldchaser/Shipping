@@ -32,7 +32,7 @@ While gas demand in China will remain the engine of global LNG growth, disruptio
 
 The dry bulk market noted a downward correction last week with Capesize sector setting the negative tone. The BDI today (28/06/2022) closed at 2,204 points, down by 280 points compared to previous Tuesday's closing (21/06/2022). Improved activity ex-MEG during the first part of the week coupled with a positive North European demand/supply imbalance has supported earnings for the crude carriers last week. The BDTI today (28/06/2022) closed at 1,212, an increase of 5 points and the BCTI at 1,628, a decrease of 97 point compared to previous Tuesday's (21/06/2022) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: **Softer**)
+## Sale & Purchase (Wet: **Firmer** / Dry: **Softer**)
 
 The SnP activity softened down in the dry sector the previous week, while the wet one seems to be fairly keeping its ground. In the tanker sector, we had the sale of the "MARAN SAGITTA" (105,071dwt-blt '09, S. Korea), which was sold to Greek owner, Performance for a price in the region of \$27.6m. On the dry bulker side sector, we had the sale of the "EVA BULK-ER" (38,140dwt-blt '12, Japan), which was sold to Greek owner, Newport for a price in the region of \$23.0m.
 
@@ -127,7 +127,7 @@ VLCC T/C earnings averaged \$ -28,778/day, up + \$3,055/day w-o-w. All routes en
 
 Suezmax T/C earnings averaged \$22,136/day, up + \$6,133/day w-o-w. Activity was overall quiet with limited new enquiries emerging onto the market. Aframax T/C earnings \$ 23,918/day, up + \$4,255/day. Cross med rate lost 23.87WS points w-o-w with TD7 North Sea/Continent trip increasing by 26.88WS points.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Aframax sector we had the sale of the "MARAN SAGITTA" (105,071dwt-blt '09, S. Korea), which was sold to Greek owner, Performance for a price in the region of \$27.6m.
 
@@ -196,7 +196,7 @@ Supramax 10TC averaged \$ 27,126/day, up + 0.28% w-o-w, while the Handysize 7TC 
 | **Ultramax** | **63k** | 34.5 | 34.4 | 0.4% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 29.0 | 29.0 | 0.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Panamax sector we had the sale of the "THEODOR OLDENDORFF" (77,171dwt-blt '08, Japan), which was sold to Turkish owner, Zihni for a price in the region of \$19.5m.
 
@@ -213,31 +213,31 @@ In the Handysize sector we had the sale of the "EVA BULKER" (38,140dwt-blt '12, 
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | HUNTER FREYA | 299,995 | 2020 | DAEWOO, S. Korea | MAN-B\&amp;W | Mar-25 | DH | $ 95.5m | undisclosed |  |
-| VLCC | HUNTER IDUN | 299,995 | 2020 | DAEWOO, S. Korea | MAN-B\&amp;W | Jul-25 | DH | $ 95.5m | undisclosed |  |
-| VLCC | HUNTER DISEN | 299,995 | 2020 | DAEWOO, S. Korea | MAN-B\&amp;W | Jun-25 | DH | $ 96.0m | undisclosed |  |
-| VLCC | HUNTER FRIGG | 299,995 | 2020 | DAEWOO, S. Korea | MAN-B\&amp;W | Aug-25 | DH | $ 96.0m | undisclosed |  |
-| SUEZ | NAVION GOTHENBURG | 150,980 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | Apr-26 | DH | $ 25.0m | undisclosed | shuttle tanker, BWTS fitted |
-| AFRA | MARAN SAGITTA | 105,071 | 2009 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Sep-24 | DH | $ 27.6m | Greek (Performance) | BWTS fitted |
-| AFRA | TARTAN | 113,782 | 2005 | SAMSUNG, S. Korea | B\&amp;W | Apr-25 | DH | $ 22.0m | Russian | BWTS fitted, Scrubber fitted, Ice Class 1A, old sale |
-| AFRA | FORTIES | 113,782 | 2005 | SAMSUNG, S. Korea | B\&amp;W | Sep-25 | DH | $ 22.0m | Russian | BWTS fitted, Scrubber fitted, Ice Class 1A, old sale |
-| MR2 | DAISY M | 50,319 | 2008 | GUANGZHOU, China | MAN-B\&amp;W | Sep-23 | DH | $ 15.0m | Greek (Aerio) |  |
-| MR1 | FRESIA | 37,320 | 2003 | STX, S. Korea | MAN-B\&amp;W | Oct-23 | DH | excess $ 8.0m | undisclosed | purchase option exercised |
-| SMALL | MAERSK BORNEO | 29,013 | 2007 | GUANGZHOU, China | MAN-B\&amp;W | Apr-25 | DH | $ 11.8m | undisclosed |  |
+| VLCC | HUNTER FREYA | 299,995 | 2020 | DAEWOO, S. Korea | MAN-B&W | Mar-25 | DH | $ 95.5m | undisclosed |  |
+| VLCC | HUNTER IDUN | 299,995 | 2020 | DAEWOO, S. Korea | MAN-B&W | Jul-25 | DH | $ 95.5m | undisclosed |  |
+| VLCC | HUNTER DISEN | 299,995 | 2020 | DAEWOO, S. Korea | MAN-B&W | Jun-25 | DH | $ 96.0m | undisclosed |  |
+| VLCC | HUNTER FRIGG | 299,995 | 2020 | DAEWOO, S. Korea | MAN-B&W | Aug-25 | DH | $ 96.0m | undisclosed |  |
+| SUEZ | NAVION GOTHENBURG | 150,980 | 2006 | SAMSUNG, S. Korea | MAN-B&W | Apr-26 | DH | $ 25.0m | undisclosed | shuttle tanker, BWTS fitted |
+| AFRA | MARAN SAGITTA | 105,071 | 2009 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Sep-24 | DH | $ 27.6m | Greek (Performance) | BWTS fitted |
+| AFRA | TARTAN | 113,782 | 2005 | SAMSUNG, S. Korea | B&W | Apr-25 | DH | $ 22.0m | Russian | BWTS fitted, Scrubber fitted, Ice Class 1A, old sale |
+| AFRA | FORTIES | 113,782 | 2005 | SAMSUNG, S. Korea | B&W | Sep-25 | DH | $ 22.0m | Russian | BWTS fitted, Scrubber fitted, Ice Class 1A, old sale |
+| MR2 | DAISY M | 50,319 | 2008 | GUANGZHOU, China | MAN-B&W | Sep-23 | DH | $ 15.0m | Greek (Aerio) |  |
+| MR1 | FRESIA | 37,320 | 2003 | STX, S. Korea | MAN-B&W | Oct-23 | DH | excess $ 8.0m | undisclosed | purchase option exercised |
+| SMALL | MAERSK BORNEO | 29,013 | 2007 | GUANGZHOU, China | MAN-B&W | Apr-25 | DH | $ 11.8m | undisclosed |  |
 | SMALL | CELSIUS MESSINA | 20,896 | 2007 | SHIN KURUSHIMA, Japan | MAN-B&W | Jul-22 | DH | $ 13.0m | Chinese | StSt |
-| SMALL | CELIUS MESSINA | 20,896 | 2007 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Jul-22 | DH | $ 13.0m | Chinese | StSt |
-| SMALL | FSL LONDON | 19,966 | 2006 | USUKI, Japan | MAN-B\&amp;W | Sep-26 | DH | $ 12.0m | Chinese | StSt |
+| SMALL | CELIUS MESSINA | 20,896 | 2007 | SHIN KURUSHIMA, Japan | MAN-B&W | Jul-22 | DH | $ 13.0m | Chinese | StSt |
+| SMALL | FSL LONDON | 19,966 | 2006 | USUKI, Japan | MAN-B&W | Sep-26 | DH | $ 12.0m | Chinese | StSt |
 ## Bulk Carriers
 
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NMAX | HANS OLDENDORFF | 209,190 | 2017 | TAIZHOU CATIC, China | MAN-B&amp;W | Aug-22 |  | $ 53.0m | undisclosed | scrubber fitted, TC back |
-| KMAX | SHANHAIGUAN B85K-10 | 84,800 | 2022 | SHANHAIGUAN, China | MAN-B&amp;W |  |  | $ 35.18m | undisclosed | via commercial auction, resale |
+| NMAX | HANS OLDENDORFF | 209,190 | 2017 | TAIZHOU CATIC, China | MAN-B&W | Aug-22 |  | $ 53.0m | undisclosed | scrubber fitted, TC back |
+| KMAX | SHANHAIGUAN B85K-10 | 84,800 | 2022 | SHANHAIGUAN, China | MAN-B&W |  |  | $ 35.18m | undisclosed | via commercial auction, resale |
 | KMAX | THUNDERBIRD | 79,508 | 2011 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  | $ 37.0m | undisclosed | BWTS fitted |
 | KMAX | BONNEVILLE | 79,403 | 2010 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  |  |  |  |
-| PMAX | THEODOR OLDENDORFF | 77,171 | 2008 | OSHIMA, Japan | MAN-B&amp;W | Jul-23 |  | $ 19.5m | Turkish (Zihni) | 1-year TC back at $ 20,000/day |
-| HANDY | EVA BULKER | 38,140 | 2012 | NAIKAI ZOSEN, Japan | MAN-B&amp;W | Aug-22 | 4 X 30t CRANES | $ 23.0m | Greek (Newport) | BWTS fitted |
-| HANDY | SUNROAD YATSUKA | 24,989 | 2005 | KURINOURA YAWATAHAMA, Japan | B&amp;W | Mar-25 | 4 X 30t CRANES | $ 11.0m | undisclosed |  |
+| PMAX | THEODOR OLDENDORFF | 77,171 | 2008 | OSHIMA, Japan | MAN-B&W | Jul-23 |  | $ 19.5m | Turkish (Zihni) | 1-year TC back at $ 20,000/day |
+| HANDY | EVA BULKER | 38,140 | 2012 | NAIKAI ZOSEN, Japan | MAN-B&W | Aug-22 | 4 X 30t CRANES | $ 23.0m | Greek (Newport) | BWTS fitted |
+| HANDY | SUNROAD YATSUKA | 24,989 | 2005 | KURINOURA YAWATAHAMA, Japan | B&W | Mar-25 | 4 X 30t CRANES | $ 11.0m | undisclosed |  |
 
 © Intermodal Research 28/06/2022 4
 
@@ -249,9 +249,9 @@ In the Handysize sector we had the sale of the "EVA BULKER" (38,140dwt-blt '12, 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | EASTAWAY MALMSEY | 3,421 | 2011 | RONGCHENG SHENFEI, China | Wartsila | Feb-27 | 3 X 45t CRANES, 1 X 35t CRANES | $ 65.0m | UAE based (Safeen Feeders) |  |
-| FEEDER | Guangzhou Huangpu H2415 | 1,500 | 2022 | GUANGZHOU WENCHONG, China | MAN-B&amp;W |  |  | $ 31.5m | Far Eastern | resale |
-| FEEDER | Guangzhou Huangpu H2416 | 1,500 | 2023 | GUANGZHOU WENCHONG, China | MAN-B&amp;W |  |  | $ 31.5m | Far Eastern | resale |
-| FEEDER | MOUNT BUTLER | 1,756 | 2016 | ZHEJIANG OUHUA, China | MAN-B&amp;W | Feb-26 |  | undisclosed | undisclosed | TC attached until July 2023 |
+| FEEDER | Guangzhou Huangpu H2415 | 1,500 | 2022 | GUANGZHOU WENCHONG, China | MAN-B&W |  |  | $ 31.5m | Far Eastern | resale |
+| FEEDER | Guangzhou Huangpu H2416 | 1,500 | 2023 | GUANGZHOU WENCHONG, China | MAN-B&W |  |  | $ 31.5m | Far Eastern | resale |
+| FEEDER | MOUNT BUTLER | 1,756 | 2016 | ZHEJIANG OUHUA, China | MAN-B&W | Feb-26 |  | undisclosed | undisclosed | TC attached until July 2023 |
 
 © Intermodal Research 28/06/2022 5
 

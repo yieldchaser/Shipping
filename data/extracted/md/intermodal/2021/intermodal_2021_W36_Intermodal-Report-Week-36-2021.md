@@ -29,7 +29,7 @@ The Asian market seems to have the potential for an increase in crude oil import
 
 The downward correction was short-lived in the dry bulk market with Capesize enjoying a substantial boost at the end of the week and with geared sizes also maintaining a positive outlook as we move towards the last quarter of the year. The BDI today (14/09/2021) closed at 4,221 down by 514 points compared to previous Tuesday's (07/09/2021) levels. The crude carrier sectors remained in search of silver linings, with fresh tonnage enquiries unable to push rates upward for another week. The BDTI today (14/09/2021) closed at 614 points, an increase of 4 points, and the BCTI at 479, a decrease of 12 points compared to previous Tuesday's (07/09/2021) levels.
 
-## Sale &amp; Purchase (Wet: Firmer / Dry: Firmer)
+## Sale & Purchase (Wet: Firmer / Dry: Firmer)
 
 Secondhand activity firmed last week, with the increased interest of buyers being evident in both the dry bulk and tanker sectors. In the tanker sector, we had the sale of the "KHK VISION" (305,749dwt-blt '07, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$32.0m. On the dry bulker side sector, we had the sale of the "C H S MAGNIFICENCE" (173,541dwt-blt '06, China), which was sold to Chinese buyers, for price in the region of \$19.5m.
 
@@ -128,7 +128,7 @@ VLCC T/C earnings averaged \$ -9,635/day, up +\$101/day w-o-w. West Africa marke
 
 Suezmax T/C earnings averaged \$ -2,392/day, down -\$1,433/day w-o-w. Rates across all regions extended their drop as charterers remained well in control of the market. On the Aframax front, T/C earnings averaged \$ 1,094/day, down -\$391/day w-o-w. Cross-Med and North European rates have finally succumbed to the pressure that the tonnage availability has been built during the past days. TD19 Cross-Med route ended the week down by -1.12WS points with North European TD7 and TD17 routes easing down by -1.56WS and -2.5WS points w-o-w respectively.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "KHK VISION" (305,749dwt-blt '07, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$32.0m.
 
@@ -195,7 +195,7 @@ Supramax 10TC averaged \$35,450/day down -5.6% w-o-w, with the Pacific premium o
 | **Ultramax** | **63k** | 30.5 | 29.8 | 2.5% | 19.4 | 23.1 | - |
 | **Handysize** | **37K** | 24.5 | 23.8 | 3.2% | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "C H S MAGNIFICENCE" (173,541dwt-blt '06, China), which was sold to Chinese buyers, for price in the region of \$19.5m.
 
@@ -212,19 +212,19 @@ In the Supramax sector we had the sale of the "ATALANTI SB" (56,019dwt-blt '06, 
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLOC | NSS DYNAMIC | 233,584 | 2002 | IMABARI, Japan | B\&amp;W | Jun-22 |  | $ 18.5m | Chinese | Delivery December 2021 - January 2022 |
+| VLOC | NSS DYNAMIC | 233,584 | 2002 | IMABARI, Japan | B&W | Jun-22 |  | $ 18.5m | Chinese | Delivery December 2021 - January 2022 |
 | CAPE | C H S MAGNIFICENCE | 173,541 | 2006 | BOHAI, China | Wartsila | Dec-21 |  | $ 19.5m | Chinese | BWTS fitted |
-| KMAX | SEACON SHANGHAI | 82,000 | 2019 | GUANGZHOU HUANGPU, China | MAN-B\&amp;W | Jun-24 |  | $ 36.0m | undisclosed | Tier III |
-| KMAX | VIJAYANAGAR | 82,167 | 2010 | TSUNEISHI, Japan | MAN-B\&amp;W | Feb-25 |  | rgn $ 24.0m | undisclosed | BWTS fitted |
-| PMAX | SHAO SHAN 6 | 75,700 | 2012 | GUANGZHOU HUANGPU, China | MAN-B\&amp;W | Jun-22 |  | $ 20.9m | Chinese | online auction sale, BWTS fitted, Tier I |
-| PMAX | NAVIOS ALTAIR I | 74,475 | 2006 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Dec-21 |  | $ 14.0m | Chinese | SS/DD due |
-| PMAX | SEA ARIRANG | 71,535 | 1994 | HITACHI ZOSEN, Japan | B\&amp;W | Dec-21 |  | rgn $ 6.0m | Chinese | Delivery November 2021, SS/DD due December 2021 |
-| UMAX | NAUTICAL RUNA | 63,577 | 2015 | JIANGSU HANTONG, China | MAN-B\&amp;W | Sep-25 | 4 X 36t CRANES | $ 26.0m | U.S. based | BWTS &amp; scrubber fitted, delivery December 2021 |
-| UMAX | NAUTICAL LUCIA | 63,548 | 2016 | JIANGSU HANTONG, China | MAN-B\&amp;W | Jan-26 | 4 X 36t CRANES | $ 27.0m | U.S. based | BWTS &amp; scrubber fitted, delivery December 2021 |
-| SMAX | ATALANTI SB | 56,019 | 2006 | MITSUI, Japan | MAN-B\&amp;W | Feb-26 | 4 X 30t CRANES | $ 16.3m | Bangladeshi (Meghna) | BWTS fitted |
-| SMAX | BAO ELLA | 53,468 | 2006 | IMABARI, Japan | MAN-B\&amp;W | May-26 | 4 X 30,5t CRANES | $ 14.7m | undisclosed | SS/DD passed, BWTS fitted |
-| HMAX | JOSCO SUZHOU | 49,416 | 2004 | NACKS, China | B\&amp;W | Feb-24 | 4 X 25t CRANES | $ 13.5m | Chinese | online auction sale |
-| HANDY | LUCKY TRADER | 23,522 | 1996 | SAIKI, Japan | B\&amp;W | Jan-26 | 4 X 30t CRANES | $ 6.73m | Egyptian |  |
+| KMAX | SEACON SHANGHAI | 82,000 | 2019 | GUANGZHOU HUANGPU, China | MAN-B&W | Jun-24 |  | $ 36.0m | undisclosed | Tier III |
+| KMAX | VIJAYANAGAR | 82,167 | 2010 | TSUNEISHI, Japan | MAN-B&W | Feb-25 |  | rgn $ 24.0m | undisclosed | BWTS fitted |
+| PMAX | SHAO SHAN 6 | 75,700 | 2012 | GUANGZHOU HUANGPU, China | MAN-B&W | Jun-22 |  | $ 20.9m | Chinese | online auction sale, BWTS fitted, Tier I |
+| PMAX | NAVIOS ALTAIR I | 74,475 | 2006 | HUDONG-ZHONGHUA, China | MAN-B&W | Dec-21 |  | $ 14.0m | Chinese | SS/DD due |
+| PMAX | SEA ARIRANG | 71,535 | 1994 | HITACHI ZOSEN, Japan | B&W | Dec-21 |  | rgn $ 6.0m | Chinese | Delivery November 2021, SS/DD due December 2021 |
+| UMAX | NAUTICAL RUNA | 63,577 | 2015 | JIANGSU HANTONG, China | MAN-B&W | Sep-25 | 4 X 36t CRANES | $ 26.0m | U.S. based | BWTS & scrubber fitted, delivery December 2021 |
+| UMAX | NAUTICAL LUCIA | 63,548 | 2016 | JIANGSU HANTONG, China | MAN-B&W | Jan-26 | 4 X 36t CRANES | $ 27.0m | U.S. based | BWTS & scrubber fitted, delivery December 2021 |
+| SMAX | ATALANTI SB | 56,019 | 2006 | MITSUI, Japan | MAN-B&W | Feb-26 | 4 X 30t CRANES | $ 16.3m | Bangladeshi (Meghna) | BWTS fitted |
+| SMAX | BAO ELLA | 53,468 | 2006 | IMABARI, Japan | MAN-B&W | May-26 | 4 X 30,5t CRANES | $ 14.7m | undisclosed | SS/DD passed, BWTS fitted |
+| HMAX | JOSCO SUZHOU | 49,416 | 2004 | NACKS, China | B&W | Feb-24 | 4 X 25t CRANES | $ 13.5m | Chinese | online auction sale |
+| HANDY | LUCKY TRADER | 23,522 | 1996 | SAIKI, Japan | B&W | Jan-26 | 4 X 30t CRANES | $ 6.73m | Egyptian |  |
 
 © Intermodal Research 14/09/2021 4
 
@@ -235,20 +235,20 @@ In the Supramax sector we had the sale of the "ATALANTI SB" (56,019dwt-blt '06, 
 ## Tankers
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | KHK VISION | 305,749 | 2007 | DAEWOO, S. Korea | MAN-B\&amp;W | Mar-22 | DH | rgn $ 32.0m | undisclosed |  |
-| VLCC | KOS | 305,870 | 2001 | DAEWOO, S. Korea | B\&amp;W | Oct-21 | DH | rgn $ 26.0m | undisclosed | old sale |
-| AFRA | SUNNY ATLANTICA | 114,896 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | Nov-21 | DH | $ 15.5m | Chinese | ICE 1A, SS due November 2021 |
-| AFRA | MINERVA NIKE | 105,320 | 2004 | HYUNDAI, S. Korea | B\&amp;W | Apr-24 | DH | $ 14.0m | undisclosed | old sale |
-| MR | ANGEL NO. 5 | 46,829 | 2009 | JINLING, China | MAN-B\&amp;W | May-24 | DH | high $ 11.0m | undisclosed |  |
-| SMALL | FSL LONDON | 19,966 | 2006 | USUKI, Japan | MAN-B\&amp;W | Sep-21 | DH | $ 10.2m | Indonesian (PT Samudera) | with TC attached at $12,000/day for 3-5 years |
-| SMALL | SICHEM NEW YORK | 12,945 | 2007 | SAMHO, S. Korea | MAN-B\&amp;W | Oct-21 | DH | undisclosed | undisclosed | SS/DD October-2021 |
+| VLCC | KHK VISION | 305,749 | 2007 | DAEWOO, S. Korea | MAN-B&W | Mar-22 | DH | rgn $ 32.0m | undisclosed |  |
+| VLCC | KOS | 305,870 | 2001 | DAEWOO, S. Korea | B&W | Oct-21 | DH | rgn $ 26.0m | undisclosed | old sale |
+| AFRA | SUNNY ATLANTICA | 114,896 | 2006 | SAMSUNG, S. Korea | MAN-B&W | Nov-21 | DH | $ 15.5m | Chinese | ICE 1A, SS due November 2021 |
+| AFRA | MINERVA NIKE | 105,320 | 2004 | HYUNDAI, S. Korea | B&W | Apr-24 | DH | $ 14.0m | undisclosed | old sale |
+| MR | ANGEL NO. 5 | 46,829 | 2009 | JINLING, China | MAN-B&W | May-24 | DH | high $ 11.0m | undisclosed |  |
+| SMALL | FSL LONDON | 19,966 | 2006 | USUKI, Japan | MAN-B&W | Sep-21 | DH | $ 10.2m | Indonesian (PT Samudera) | with TC attached at $12,000/day for 3-5 years |
+| SMALL | SICHEM NEW YORK | 12,945 | 2007 | SAMHO, S. Korea | MAN-B&W | Oct-21 | DH | undisclosed | undisclosed | SS/DD October-2021 |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | LEO PARAMOUNT | 6,350 | 2005 | KOYO MIHARA, Japan | MAN-B\&amp;W | Oct-25 |  | undisclosed | undisclosed |
-| PMAX | E. R. SWEDEN | 5,762 | 2002 | SAMSUNG, S. Korea | MAN-B\&amp;W | Sep-22 |  | low $ 40.0m | UK based (Mount Street) |
-| FEEDER | PIRAEUS TRADER | 1,732 | 2006 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Sep-21 | 2 X 45t CRANES | $ 25.5m | Greek (Euroseas) |
+| PMAX | LEO PARAMOUNT | 6,350 | 2005 | KOYO MIHARA, Japan | MAN-B&W | Oct-25 |  | undisclosed | undisclosed |
+| PMAX | E. R. SWEDEN | 5,762 | 2002 | SAMSUNG, S. Korea | MAN-B&W | Sep-22 |  | low $ 40.0m | UK based (Mount Street) |
+| FEEDER | PIRAEUS TRADER | 1,732 | 2006 | GUANGZHOU WENCHONG, China | MAN-B&W | Sep-21 | 2 X 45t CRANES | $ 25.5m | Greek (Euroseas) |
 | FEEDER | BOSTON TRADER | 1,096 | 2004 | DAMEN HOOGEZAND, Netherlands | MAN | Aug-24 | 2 X 45t CRANES | rgn $ 17.0m | undisclosed |
 
 © Intermodal Research 14/09/2021 5

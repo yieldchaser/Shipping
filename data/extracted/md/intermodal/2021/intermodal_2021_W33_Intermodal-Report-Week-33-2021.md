@@ -42,7 +42,7 @@ Let's see how long the current boom will last. We all hope that It will last for
 
 With the Capesize sector paving the way and the rest of the sectors following suit, the dry bulk market witnessed impressive gains for another week. The BDI today (24/08/2021) closed at 4,201 up by 595 points compared to previous Tuesday's (17/08/2021) levels. Unable to shake off the pressure of the past weeks, rates in the crude carrier market continued to display a poor performance. The BDTI today (24/08/2021) closed at 605, a decrease of 3 points, and the BCTI at 487, a decrease of 30 points compared to previous Tuesday's (17/08/2021) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: **Firmer**)
+## Sale & Purchase (Wet: **Firmer** / Dry: **Firmer**)
 
 Both the dry bulk and tanker secondhand activity accelerated last week, with buyers seems to be back in the SnP arena. In the tanker sector, we had the sale of the “CHANG BAI SAN” (318,445dwt-blt '12, China), which was sold to Greek buyers, for a price in the region of \$41.5m. On the dry bulker side sector, we had the sale of the “FRONTIER PHOENIX” (181,356dwt-blt '11, Japan), which was sold to Greek buyers, for price in the region of \$33.75m.
 
@@ -143,7 +143,7 @@ VLCC market outlook remained steady w-o-w. Both Middle East and West Africa mark
 
 Suezmax earnings in both the Black Sea and West Africa regions noted a substantial increase last week on the back of a tighter tonnage supply which helped owners to push for a bigger market share. On the other hand, Middle East activity did not enjoy any uptick in rates. The North European Aframax market remained under charterers' control with rates suffering further discounts w-o-w. The rest of the business routes lack any meaningful improvement in activity with earnings continuing to hover well below OPEX levels.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "CHANG BAI SAN" (318,445dwt-blt '12, China), which was sold to Greek buyers, for a price in the region of \$41.5m.
 
@@ -210,7 +210,7 @@ Supramax 10TC averaged \$35,128/day up +4.5% w-o-w, with the Atlantic premium ov
 | **Ultramax** **63k** | 29.7 | 27.3 | **8.7%** | 19.4 | 23.1 | - |
 | **Handysize** **37K** | 23.5 | 21.4 | **9.8%** | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "FRONTIER PHOENIX" (181,356dwt-blt '11, Japan), which was sold to Greek buyers, for price in the region of \$33.75m.
 

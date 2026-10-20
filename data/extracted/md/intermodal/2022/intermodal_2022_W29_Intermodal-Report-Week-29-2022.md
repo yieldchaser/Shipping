@@ -33,7 +33,7 @@ Thermal coal is now traded at the range of \$400/mt compared to \$130/mt the yea
 
 It was a positive week for the dry bulk market that saw increases across both basins. The BDI today (26/07/2022) closed at 2,061 points, down by 84 points compared to previous Tuesday's closing (19/07/2022). Activity was healthy for another week across all sectors in the crude carrier market. The BDTI today (26/07/2022) closed at 1,468, an increase of 20 points and the BCTI at 1,324, a decrease of 4 point compared to previous Tuesday's (19/07/2022) levels.
 
-## Sale &amp; Purchase (Wet: Firmer / Dry: Softer)
+## Sale & Purchase (Wet: Firmer / Dry: Softer)
 
 The tanker sector has noted increased SnP activity during the past week, while in the case of bulkers, it seems that the summer lull coupled with the ongoing rate stability in the sector has put buyers on the sideline for the time being. In the tanker sector, we had the sale of the "KIONI" (310,389dwt-blt '04, Japan), which was sold to undisclosed buyers, for a price in the region of \$29.5m. On the dry bulker side sector, we had the sale of the "BONANZA YR" (76,465dwt-blt '06, Japan), which was sold to undisclosed buyers, for a price in the region of mid \$16.0m.
 
@@ -125,7 +125,7 @@ VLCC T/C earnings averaged \$ -8,351/day, up + 4,646/day w-o-w. All routes recor
 
 Suezmax T/C earnings averaged \$ 58,303/day, up + \$26,790/day w-o-w. Despite charterers' willingness to curb rises by working their stems under the radar, demand exceeded supply for another week leading to further improvements. West Africa and MEG markets activity were healthy; however, the Med market has provided most of the support with an increase of 46.78WS points on TD6 amidst the lift of force majeure on all oil terminals during the past week. This has been the case in the Aframax sector too, with TD19 Cross-Med business witnessing a rise of 94WS points w-o-w strongly underpinned by the fresh Libyan cargoes coupled with a notable injection of CPC stems. On the contrary, the North European market lost some of its previous week's momentum, with a fall in rates materializing.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "KIONI" (310,389dwt-blt '04, Japan), which was sold to undisclosed buyers, for a price in the region of \$29.5m.
 
@@ -197,7 +197,7 @@ Supramax 10TC averaged \$ 22,629/day, down - 1.47% w-o-w, while the Handysize 7T
 | **Ultramax** | **63k** | 33.6 | 34.5 | -2.5% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 29.0 | 29.0 | 0.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Panamax sector we had the sale of the "BONANZA YR" (76,465dwt-bl't '06, Japan), which was sold to undisclosed buyers, for a price in the region of mid \$16.0m.
 
@@ -212,18 +212,18 @@ In the Handysize sector we had the sale of the "MARIA L" (28,404dwt-bl't '98, Ja
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | KIONI | 310,389 | 2004 | IMABARI, Japan | MAN-B\&amp;W | Oct-24 | DH | $ 29.5m | undisclosed |  |
-| SUEZ | DOLVIKEN | 159,058 | 2012 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jan-27 | DH | $ 41.5m | Turkish |  |
-| SUEZ | ASTRO POLARIS | 159,073 | 2004 | HYUNDAI, S. Korea | B\&amp;W | Mar-24 | DH | $ 43.0m (en bloc) | Chinese |  |
-| SUEZ | ASTRO PHOENIX | 159,055 | 2004 | HYUNDAI, S. Korea | B\&amp;W | Jan-24 | DH | $ 43.0m (en bloc) | Chinese |  |
-| AFRA | ORACLE | 105,380 | 2008 | SUMITOMO, Japan | MAN-B\&amp;W | Jul-23 | DH | $ 28.75m | undisclosed |  |
-| AFRA | NICHOLAS | 115,577 | 2007 | SEASEBO, Japan | MAN-B\&amp;W | Aug-22 | DH | $ 27.7m | Chinese | BWTS fitted |
-| AFRA | BLUE PRIDE | 115,048 | 2004 | DAEWOO, S. Korea | B\&amp;W | Aug-24 | DH | $ 23.0m | undisclosed | BWTS fitted |
-| AFRA | JAG LYALL | 110,531 | 2006 | DALIAN, China | MAN-B\&amp;W | May-24 | DH | $ 26.2m | Chinese | BWTS, Scrubber fitted, basis deliver Turkey ex-DD within Sep-Oct 2022 |
-| MR2 | LARGO SUN | 49,990 | 2016 | SPP, S. Korea | MAN-B\&amp;W | Feb-26 | DH | $ 35.0m | undisclosed | BWTS fitted |
-| MR2 | GRAND | 50,129 | 2008 | SPP, S. Korea | MAN-B\&amp;W | Nov-23 | DH | mid $ 19.0m | Vietnamese | BWTS fitted |
-| MR2 | CHALLENGE PHOENIX | 47,786 | 2007 | STX, S. Korea | MAN-B\&amp;W | Sep-25 | DH | $ 18.0m | Greek (R-Shipping) | BWTS fitted |
-| MR1 | BALTIC FAVOUR | 37,105 | 2006 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-26 | DH | $ 14.0m | undisclosed | BWTS fitted |
+| VLCC | KIONI | 310,389 | 2004 | IMABARI, Japan | MAN-B&W | Oct-24 | DH | $ 29.5m | undisclosed |  |
+| SUEZ | DOLVIKEN | 159,058 | 2012 | SAMSUNG, S. Korea | MAN-B&W | Jan-27 | DH | $ 41.5m | Turkish |  |
+| SUEZ | ASTRO POLARIS | 159,073 | 2004 | HYUNDAI, S. Korea | B&W | Mar-24 | DH | $ 43.0m (en bloc) | Chinese |  |
+| SUEZ | ASTRO PHOENIX | 159,055 | 2004 | HYUNDAI, S. Korea | B&W | Jan-24 | DH | $ 43.0m (en bloc) | Chinese |  |
+| AFRA | ORACLE | 105,380 | 2008 | SUMITOMO, Japan | MAN-B&W | Jul-23 | DH | $ 28.75m | undisclosed |  |
+| AFRA | NICHOLAS | 115,577 | 2007 | SEASEBO, Japan | MAN-B&W | Aug-22 | DH | $ 27.7m | Chinese | BWTS fitted |
+| AFRA | BLUE PRIDE | 115,048 | 2004 | DAEWOO, S. Korea | B&W | Aug-24 | DH | $ 23.0m | undisclosed | BWTS fitted |
+| AFRA | JAG LYALL | 110,531 | 2006 | DALIAN, China | MAN-B&W | May-24 | DH | $ 26.2m | Chinese | BWTS, Scrubber fitted, basis deliver Turkey ex-DD within Sep-Oct 2022 |
+| MR2 | LARGO SUN | 49,990 | 2016 | SPP, S. Korea | MAN-B&W | Feb-26 | DH | $ 35.0m | undisclosed | BWTS fitted |
+| MR2 | GRAND | 50,129 | 2008 | SPP, S. Korea | MAN-B&W | Nov-23 | DH | mid $ 19.0m | Vietnamese | BWTS fitted |
+| MR2 | CHALLENGE PHOENIX | 47,786 | 2007 | STX, S. Korea | MAN-B&W | Sep-25 | DH | $ 18.0m | Greek (R-Shipping) | BWTS fitted |
+| MR1 | BALTIC FAVOUR | 37,105 | 2006 | HYUNDAI, S. Korea | MAN-B&W | Jul-26 | DH | $ 14.0m | undisclosed | BWTS fitted |
 | MR1 | HAFNIA ROBSON | 40,014 | 2004 | SAIKI, Japan | Mitsubishi | May-24 | DH | $ 12.0m | Turkish | BWTS fitted |
 | MR1 | HAFNIA ADAMELLO | 40,002 | 2004 | SAIKI, Japan | Mitsubishi | Aug-24 | DH | $ 12.0m | Turkish | BWTS fitted |
 | SMALL | LEFTERIS | 4,972 | 1997 | QIUXIN, China | Ma K | Oct-24 | DH | excess $ 3.0m | undisclosed |  |
@@ -238,20 +238,20 @@ In the Handysize sector we had the sale of the "MARIA L" (28,404dwt-bl't '98, Ja
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | BONANZA YR | 76,465 | 2006 | TSUNEISHI, Japan | MAN-B&amp;W | Aug-26 |  | mid $ 16.0m | undisclosed | BWTS fitted |
-| SUPRA | CRETE TRADER | 53,428 | 2009 | ZHEJIANG, China | MAN-B&amp;W | Dec-24 | 4 X 35t CRANES | $ 16.2m | Middle Eastern | BWTS fitted |
-| HANDY | MARIA L | 28,404 | 1998 | HAKODATE, Japan | B&amp;W | Oct-22 | 4 X 30,5t CRANES | low $ 7.0m | Syrian |  |
-| HANDY | A RACER | 26,467 | 1996 | GSI, China | B&amp;W | Jun-26 | 4 X 30t CRANES | high $ 6.0m | Middle Eastern | BWTS fitted |
+| PMAX | BONANZA YR | 76,465 | 2006 | TSUNEISHI, Japan | MAN-B&W | Aug-26 |  | mid $ 16.0m | undisclosed | BWTS fitted |
+| SUPRA | CRETE TRADER | 53,428 | 2009 | ZHEJIANG, China | MAN-B&W | Dec-24 | 4 X 35t CRANES | $ 16.2m | Middle Eastern | BWTS fitted |
+| HANDY | MARIA L | 28,404 | 1998 | HAKODATE, Japan | B&W | Oct-22 | 4 X 30,5t CRANES | low $ 7.0m | Syrian |  |
+| HANDY | A RACER | 26,467 | 1996 | GSI, China | B&W | Jun-26 | 4 X 30t CRANES | high $ 6.0m | Middle Eastern | BWTS fitted |
 
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | JUDITH SCHULTE | 9,403 | 2013 | Shanghai Jiangnan Changxing, China | MAN-B&amp;W | Jul-23 |  | undisclosed | Swiss (MSC) | BWTS fitted, Scrubber ready |
-| POST PMAX | JOHANNA SCHULTE | 9,403 | 2013 | Shanghai Jiangnan Changxing, China | MAN-B&amp;W | Oct-23 |  | undisclosed | Swiss (MSC) | BWTS fitted, Scrubber ready |
-| POST PMAX | CAP CAPRICORN | 3,884 | 2013 | Zhejiang Fenghua, China | MAN-B&amp;W | Oct-23 |  | $ 75.0m | French (CMA CGM) |  |
-| FEEDER | A ROKU | 1,708 | 2008 | IMABARI, Japan | MAN-B&amp;W | Jun-27 |  | $ 30.0m | Vietnamese (Hai An Transport) |  |
-| FEEDER | HARBOUR EXPRESS | 560 | 1998 | Watanabe Zosen, Japan | B&amp;W | Mar-23 | 2 X 36t CRANES | $ 10.0m | undisclosed |  |
+| POST PMAX | JUDITH SCHULTE | 9,403 | 2013 | Shanghai Jiangnan Changxing, China | MAN-B&W | Jul-23 |  | undisclosed | Swiss (MSC) | BWTS fitted, Scrubber ready |
+| POST PMAX | JOHANNA SCHULTE | 9,403 | 2013 | Shanghai Jiangnan Changxing, China | MAN-B&W | Oct-23 |  | undisclosed | Swiss (MSC) | BWTS fitted, Scrubber ready |
+| POST PMAX | CAP CAPRICORN | 3,884 | 2013 | Zhejiang Fenghua, China | MAN-B&W | Oct-23 |  | $ 75.0m | French (CMA CGM) |  |
+| FEEDER | A ROKU | 1,708 | 2008 | IMABARI, Japan | MAN-B&W | Jun-27 |  | $ 30.0m | Vietnamese (Hai An Transport) |  |
+| FEEDER | HARBOUR EXPRESS | 560 | 1998 | Watanabe Zosen, Japan | B&W | Mar-23 | 2 X 36t CRANES | $ 10.0m | undisclosed |  |
 
 ## <u>Gas/LPG/LNG</u>
 

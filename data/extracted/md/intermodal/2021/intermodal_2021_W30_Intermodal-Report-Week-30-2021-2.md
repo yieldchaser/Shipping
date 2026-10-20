@@ -17,9 +17,9 @@ Issue: Week 30 | Tuesday 03<sup>rd</sup> August 2021
 
 Unlike the Dry Bulk and Container sectors where freight rates have surged into 2021, the tankers market continues to experience lackluster earnings hovering at the bottom of the cycle according to analysts' consensus, as the oil and products inventories destocking cycle is coming to an end.
 
-Tankers Sale &amp; Purchase transactions in number of vessels have underperformed those in dry and containers, however asset values have appreciated regardless, as expectations for a recovery tracking oil demand growth and elevated steel prices have disconnected asset values from the freight market. We expect the trend to continue in the coming months, with further asset value appreciation particularly if a market recovery takes place before the end of the year. Last but not least, over the past two months, we observe tanker deals to be concentrated on the products tonnage, with MRs attracting increased interest.
+Tankers Sale & Purchase transactions in number of vessels have underperformed those in dry and containers, however asset values have appreciated regardless, as expectations for a recovery tracking oil demand growth and elevated steel prices have disconnected asset values from the freight market. We expect the trend to continue in the coming months, with further asset value appreciation particularly if a market recovery takes place before the end of the year. Last but not least, over the past two months, we observe tanker deals to be concentrated on the products tonnage, with MRs attracting increased interest.
 
-Below we present a brief overview of the S&amp;P transactions that took place since Q2 2021 up to late July 2021.
+Below we present a brief overview of the S&P transactions that took place since Q2 2021 up to late July 2021.
 
 During April 2021, more than 50 deals took place in the Tanker sector. Aframax tankers contributed close to 36% of the total deals whilst around half of them were in the 5-year-old mark up to resale. MR Tankers (including Handysize vessels) were responsible for an around 23% of the entire deal landscape whilst VLCCs hold a slightly bigger proportion; most of them in both segments were older than 10-year-old. Finally, Panamax and Suezmax vessels were the less preferable holding less than 15% of the recorded deals.
 
@@ -33,7 +33,7 @@ During July 2021, contrary to the past couple of months, transactions increased 
 
 With Capesize segment paving the way, the dry bulk market noted another positive week. On the other hand, the Panamax sector suffered its fourth consecutive weekly discount. The BDI today (03/08/2021) closed at 3,281 up by 115 points compared to previous Tuesday's (27/07/2021) levels. The negative performance continues to prevail in the crude carrier market which saw another week of depressed activity and unhealthy rates. The BDTI today (03/08/2021) closed at 604, an increase of 10 points, and the BCTI at 503, an increase of 32 points compared to previous Tuesday's (27/07/2021) levels.
 
-## Sale &amp; Purchase (**Wet: Firmer / Dry: Firmer**&gt;)
+## Sale & Purchase (**Wet: Firmer / Dry: Firmer**&gt;)
 
 The SnP activity has finally noted an uptick with the volume of the dry bulk secondhand sales being at healthier levels compared to the prior weeks. However, the Tanker SnP activity remained subdued, a more or less expected outcome if one looks at the poor performance of the freight market. In the tanker sector, we had the sale of the "TSURUGA" (309,960dwt-blt '09, Japan), which was sold to Greek buyers, for a price in the region of \$39.0m. On the dry bulker side sector, we had the sale of the "HARK OLDEN-DORFF" (209,325dwt-blt '16, China), which was sold to USA based owners, J.P. Morgan, for price in the region of \$45.0m.
 
@@ -130,7 +130,7 @@ Market activity has been quite steady in the VLCC front with rates across all bu
 
 The same picture was displayed in the Suezmax sector with the oversupply of tonnage shadowing any prospect of recovery. West Africa/Cont TD20 route stuck at the WS55 points mark while Black Sea market activity remained quiet with TD6 reaching WS59 points. Aframax rates were also struggling last week, with further reduction taking place in the Med while small improvements materialized to the North European market albeit to a very small extent. All in all, average Aframax T/C earnings ended marginally above zero at the \$94 per day mark.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "TSURUGA" (309,960dwt-blt '09, Japan), which was sold to Greek buyers, for a price in the region of \$39.0m.
 
@@ -198,7 +198,7 @@ Supramax 10TC averaged \$32,032/day up +3.4% w-o-w, with the Atlantic and the Pa
 | **Ultramax** | **63k** | 27.3 | 25.6 | **6.5%** | 19.4 | 23.1 | - |
 | **Handysize** | **37K** | 21.4 | 20.5 | **4.4%** | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "HARK OLDENDORFF" (209,325dwt-blt '16, China), which was sold to USA based owners, JPM, for a price in the region of \$45.0m.
 
@@ -213,17 +213,17 @@ In the Panamax sector we had the sale of the "MG SAKURA" (75,397dwt-blt '06, Jap
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | HARK OLDENDORFF | 209,325 | 2016 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W |  |  | $ 45.0m | USA based (JPM) | delivery January 2022 |
-| CAPE | STELLA LUCY | 179,667 | 2015 | QINGDAO BEIHAI, China | MAN-B\&amp;W | Jul-25 |  | $ 38.0m | Greek (Dryships) | incl. index linked TC until November 2021-April 2022 |
-| CAPE | STELLA LAURA | 179,549 | 2015 | QINGDAO BEIHAI, China | MAN-B\&amp;W | Jun-25 |  | $ 36.5m | Greek (Dryships) | incl. TC attached until February-June 2022 |
-| POST PMAX | HARVEST SKY | 95,717 | 2013 | IMABARI, Japan | MAN-B\&amp;W | Nov-23 |  | $ 23.6m | Greek | BWTS fitted, delivery October 2021 |
-| KMAX | TRANS AFRICA | 81,270 | 2017 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Aug-22 |  | $ 31.0m | undisclosed | BWTS fitted |
-| KMAX | AM EXPRESS | 82,245 | 2010 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Jan-25 |  | excess $ 21.0m | undisclosed | delivery September-November 2021 |
-| PMAX | MG SAKURA | 75,397 | 2006 | UNIVERSAL, Japan | MAN-B\&amp;W | Aug-21 |  | $ 18.0m | Greek | bss SS/DD freshly passed and BWTS fitted, delivery Q4-2021 |
-| SMAX | MADONNA III | 53,390 | 2007 | CHENGXI, China | MAN-B\&amp;W | Sep-22 | 4 X 36t CRANES | $ 11.95m | Chinese |  |
-| SMAX | GENCO PROVENCE | 55,317 | 2004 | NACKS, China | MAN-B\&amp;W | Aug-24 | 4 X 30t CRANES | $ 13.3m | Turkish | BWTS fitted, CO2 &amp; AHL fitted |
-| HANDY | YUNNAN | 34,398 | 2015 | NAMURA, Japan | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | $ 16.0m | undisclosed | BWTS fitted, incl. TC attached at 9,500 p/d till December 2022 |
-| HANDY | SHENG JIA HE 2 | 34,365 | 2013 | LINHAI HUAJIE, China | MAN-B\&amp;W |  |  | around $ 11.15 | Chinese | auction sale |
+| CAPE | HARK OLDENDORFF | 209,325 | 2016 | JIANGSU NEWYANGZI, China | MAN-B&W |  |  | $ 45.0m | USA based (JPM) | delivery January 2022 |
+| CAPE | STELLA LUCY | 179,667 | 2015 | QINGDAO BEIHAI, China | MAN-B&W | Jul-25 |  | $ 38.0m | Greek (Dryships) | incl. index linked TC until November 2021-April 2022 |
+| CAPE | STELLA LAURA | 179,549 | 2015 | QINGDAO BEIHAI, China | MAN-B&W | Jun-25 |  | $ 36.5m | Greek (Dryships) | incl. TC attached until February-June 2022 |
+| POST PMAX | HARVEST SKY | 95,717 | 2013 | IMABARI, Japan | MAN-B&W | Nov-23 |  | $ 23.6m | Greek | BWTS fitted, delivery October 2021 |
+| KMAX | TRANS AFRICA | 81,270 | 2017 | SHANGHAI SHIPYARD, China | MAN-B&W | Aug-22 |  | $ 31.0m | undisclosed | BWTS fitted |
+| KMAX | AM EXPRESS | 82,245 | 2010 | TSUNEISHI CEBU, Philippines | MAN-B&W | Jan-25 |  | excess $ 21.0m | undisclosed | delivery September-November 2021 |
+| PMAX | MG SAKURA | 75,397 | 2006 | UNIVERSAL, Japan | MAN-B&W | Aug-21 |  | $ 18.0m | Greek | bss SS/DD freshly passed and BWTS fitted, delivery Q4-2021 |
+| SMAX | MADONNA III | 53,390 | 2007 | CHENGXI, China | MAN-B&W | Sep-22 | 4 X 36t CRANES | $ 11.95m | Chinese |  |
+| SMAX | GENCO PROVENCE | 55,317 | 2004 | NACKS, China | MAN-B&W | Aug-24 | 4 X 30t CRANES | $ 13.3m | Turkish | BWTS fitted, CO2 & AHL fitted |
+| HANDY | YUNNAN | 34,398 | 2015 | NAMURA, Japan | MAN-B&W | May-25 | 4 X 30t CRANES | $ 16.0m | undisclosed | BWTS fitted, incl. TC attached at 9,500 p/d till December 2022 |
+| HANDY | SHENG JIA HE 2 | 34,365 | 2013 | LINHAI HUAJIE, China | MAN-B&W |  |  | around $ 11.15 | Chinese | auction sale |
 | HANDY | SAKURA KOBE | 33,735 | 2011 | SHIN KOCHI, Japan | Mitsubishi | Nov-24 | 4 X 30t CRANES | rgn 16.0m | undisclosed | Tier I, BWTS fitted |
 
 © Intermodal Research 03/08/2021 4
@@ -235,20 +235,20 @@ In the Panamax sector we had the sale of the "MG SAKURA" (75,397dwt-blt '06, Jap
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | TSURUGA | 309,960 | 2009 | IMABARI, Japan | MAN-B&amp;W | Oct-24 | DH | rgn $ 39.0m | Greek |  |
-| AFRA | STENA NATALITA | 108,073 | 2001 | TSUNEISHI, Japan | B&amp;W | Apr-24 | DH | undisclosed | Cyprus based |  |
+| VLCC | TSURUGA | 309,960 | 2009 | IMABARI, Japan | MAN-B&W | Oct-24 | DH | rgn $ 39.0m | Greek |  |
+| AFRA | STENA NATALITA | 108,073 | 2001 | TSUNEISHI, Japan | B&W | Apr-24 | DH | undisclosed | Cyprus based |  |
 | MR | DEE4 BIRCH | 53,712 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Feb-26 | DH | excess 12.0m | undisclosed | BWTS fitted |
 | MR | DEE4 ACACIA | 53,688 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Nov-25 | DH | excess 12.0m | undisclosed | BWTS fitted |
-| SMALL | NI PAYIA | 19,997 | 2009 | SEKWANG, S. Korea | MAN-B&amp;W | Jan-24 | DH | $ 15.75m | Greek |  |
+| SMALL | NI PAYIA | 19,997 | 2009 | SEKWANG, S. Korea | MAN-B&W | Jan-24 | DH | $ 15.75m | Greek |  |
 ## Bulk Carriers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | MAINE TRADER | 4,992 | 2004 | HANJIN HI, S. Korea | B\&amp;W | Nov-24 |  | $ 54.0m | Singapore based (OM Maritime) | Delivery January 2022 |
+| PMAX | MAINE TRADER | 4,992 | 2004 | HANJIN HI, S. Korea | B&W | Nov-24 |  | $ 54.0m | Singapore based (OM Maritime) | Delivery January 2022 |
 | FEEDER | CAPE MAYOR | 2,742 | 2007 | AKER MTW WERFT, GERMANY | Mitsubishi | Oct-22 |  | rgn $ 38.0m | undisclosed |  |
-| FEEDER | CAPE MAHON | 2,742 | 2007 | AKER MTW WERFT, GERMANY | MAN-B\&amp;W | Sep-22 |  | rgn $ 38.0m | Taiwanese (TS Lines) |  |
-| FEEDER | COSMOS | 2,602 | 2006 | STX, S. Korea | MAN-B\&amp;W | Dec-21 | 4 X 45t CRANES | $ 33.0m | Swiss (MSC) |  |
-| FEEDER | ANASSA | 1,740 | 2006 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W |  | 2 X 40t CRANES | rgn 20.0m | French (CMA CGM) |  |
+| FEEDER | CAPE MAHON | 2,742 | 2007 | AKER MTW WERFT, GERMANY | MAN-B&W | Sep-22 |  | rgn $ 38.0m | Taiwanese (TS Lines) |  |
+| FEEDER | COSMOS | 2,602 | 2006 | STX, S. Korea | MAN-B&W | Dec-21 | 4 X 45t CRANES | $ 33.0m | Swiss (MSC) |  |
+| FEEDER | ANASSA | 1,740 | 2006 | GUANGZHOU WENCHONG, China | MAN-B&W |  | 2 X 40t CRANES | rgn 20.0m | French (CMA CGM) |  |
 | FEEDER | JJ SKY | 1,118 | 2006 | YANGZHOU DAYANG, China | MAN | Jul-26 |  | $ 15.0m | undisclosed |  |
 
 © Intermodal Research 03/08/2021 5

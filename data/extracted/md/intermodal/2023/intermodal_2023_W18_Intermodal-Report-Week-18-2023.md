@@ -27,7 +27,7 @@ Lastly, fleet fundamentals form a cautiously optimistic backdrop in the dry bulk
 
 An overall subdued activity emerged in the dry bulk sectors during the last week amidst various holidays that restrained trade activity. The BDI on Friday (05/05/2023) closed at 1,558 points, down by 18 points compared to previous Friday's closing (28/05/2023). Sentiment in the crude carrier sectors was mixed with VLCC rates losing ground while both Suezmax and Aframax performance was positive w-o-w. The BDTI on Friday (05/05/2023) closed at 1072, an increase of 26 points and the BCTI at 694, a decrease of 58 points compared to previous Friday's (28/04/2023) levels.
 
-## Sale &amp; Purchase (Wet: <mark>Firmer</mark> / Dry: <mark>Firmer</mark>)
+## Sale & Purchase (Wet: <mark>Firmer</mark> / Dry: <mark>Firmer</mark>)
 
 The second-hand market saw an upturn last week, with several transactions taking place. The tanker sector saw sales across most sizes, but mainly for vessels built in 2010 and earlier. The bulker sector also had a strong week with all sizes again in demand, with Ultramaxes being the most popular. In the tanker sector, we had the sale of the "CLASSIC" (159,195dwt-blt '05, S. Korea) which was sold to undisclosed buyers, for a price in the region of \$36.75m. On the dry bulker side sector, we had the sale of the "DENSA CO-BRA" (180,491dwt-blt '11, S.Korea), which was sold to undisclosed buyers, for a price in the region of \$27.25m.
 
@@ -127,7 +127,7 @@ VLCC T/C earnings averaged \$ 19,336/day, down -\$9,520/day w-o-w, and closed of
 
 Suezmax T/C earnings averaged \$ 43,421/day, up + \$1,314/day w-o-w. On the Aframax front, T/C earnings averaged \$ 41,091/day, up + \$7,929/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had the sale of the "CLASSIC" (159,195dwt-blt '05, S. Korea) which was sold to undisclosed buyers, for a price in the region of \$36.75m.
 
@@ -193,7 +193,7 @@ Supramax 10TC averaged \$ 12,286/day, down -9.36% w-o-w, while the Handysize 7TC
 | **Ultramax** **63k** | 31.5 | 31.4 | 0.4% | 31.5 | 26.4 | 19.4 |
 | **Handysize** **37K** | 26.0 | 26.0 | 0.0% | 27.2 | 21.4 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the “DENSA COBRA” (180,491dwt-blt '11, S.Korea), which was sold to undisclosed buyers, for a price in the region of \$27.25m.
 
@@ -208,29 +208,29 @@ In the Handysize sector we had the sale of the “MAESTRO DIAMOND” (36,920dwt-
 ## Tankers
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | CLASSIC | 159,195 | 2005 | HYUNDAI, S. Korea | MAN-B\&amp;W | Oct-25 | DH | $ 36.75m | undisclosed | BWTS fitted |
-| AFRA | PS PISA | 108,835 | 2010 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Mar-25 | DH | $ 36.50m | Middle Eastern | BWTS fitted |
-| LR1 | STENA PENGUIN | 64,834 | 2010 | BRODOSPLIT, Croatia | MAN-B\&amp;W | Oct-25 | DH | undisclosed | European | ICE 1A, dely Q2 2023 |
-| LR1 | LUMEN N | 63,599 | 2008 | STX, S. Korea | MAN-B\&amp;W | Aug-23 | DH | $ 22.25m | Chinese | Ice 1A |
-| MR2 | SYMPHONY | 46,248 | 2004 | STX, S. Korea | MAN-B\&amp;W | Jan-24 | DH | $ 17.85m | undisclosed |  |
-| MR2 | SPLENDOUR CHILTERN | 44,999 | 1999 | HALLA ENG, S. Korea | MAN-B\&amp;W | Oct-23 | DH | $ 14.20m | UAE based | Ice 1C |
+| SUEZ | CLASSIC | 159,195 | 2005 | HYUNDAI, S. Korea | MAN-B&W | Oct-25 | DH | $ 36.75m | undisclosed | BWTS fitted |
+| AFRA | PS PISA | 108,835 | 2010 | HUDONG-ZHONGHUA, China | MAN-B&W | Mar-25 | DH | $ 36.50m | Middle Eastern | BWTS fitted |
+| LR1 | STENA PENGUIN | 64,834 | 2010 | BRODOSPLIT, Croatia | MAN-B&W | Oct-25 | DH | undisclosed | European | ICE 1A, dely Q2 2023 |
+| LR1 | LUMEN N | 63,599 | 2008 | STX, S. Korea | MAN-B&W | Aug-23 | DH | $ 22.25m | Chinese | Ice 1A |
+| MR2 | SYMPHONY | 46,248 | 2004 | STX, S. Korea | MAN-B&W | Jan-24 | DH | $ 17.85m | undisclosed |  |
+| MR2 | SPLENDOUR CHILTERN | 44,999 | 1999 | HALLA ENG, S. Korea | MAN-B&W | Oct-23 | DH | $ 14.20m | UAE based | Ice 1C |
 | SMALL | AYANE | 16,971 | 2010 | TURKTER, Turkey | MAN | Mar-24 | DH | $ 15.00m | undisclosed | Ice 1A |
 
 ## Bulk Carriers
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | DENSA COBRA | 180,491 | 2011 | STX, S. Korea | MAN-B\&amp;W | Nov-26 |  | $ 27.25m | undisclosed | BWTS fitted |
-| MINI CAPE | FPMC B 103 | 106,668 | 2011 | STX DALIAN, China | MAN-B\&amp;W | Nov-26 |  | $ 24.0m | Far Eastern | BWTS, Scrubber fitted |
-| POST PMAX | CLAIRE Z | 93,313 | 2009 | Jiangsu Newyangzi, China | MAN-B\&amp;W | Sep-24 |  | low-mid $ 16.0m | Chinese | BWTS fitted, Tier II |
-| KMAX | THALASSIC | 81,426 | 2009 | UNIVERSAL, Japan | MAN-B\&amp;W | Dec-24 |  | $ 21.0m | Greek (Omicron) | BWTS fitted, dely June/July 2023 |
-| UMAX | VOKARIA | 63,614 | 2020 | COSCO YANGZHOU, China | MAN-B\&amp;W | Mar-25 | 4 X 30t CRANES | low-mid $ 30.0's | South Korean | Scrubber fitted, Eco |
-| UMAX | BULK ELECTRA | 66,604 | 2015 | MITSUI, Japan | MAN-B\&amp;W | Dec-25 | 4 X 30t CRANES | high $ 26.0m | undisclosed | BWTS fitted, Eco |
-| UMAX | MOUNT ATHOS | 63,155 | 2014 | Jiangsu New Hantong, China | MAN-B\&amp;W | Feb-24 | 4x36.0, 4x30.0 | high $ 24.0m | UAE based | BWTS fitted, Eco, T/C attached till end 2024 at 112% of index |
-| SUPRA | EASTERN AZALEA | 56,771 | 2012 | Jiangsu Hantong, China | MAN-B\&amp;W | Nov-27 | 4 X 30t CRANES | $ 15.7m | undisclosed | BWTS fitted, Tier II |
-| SUPRA | MANDARIN DALIAN | 56,604 | 2010 | Jiangsu Hantong, China | MAN-B\&amp;W | Nov-25 | 4 X 36t CRANES | $ 14.0m | undisclosed | BWTS fitted, dely June/August 2023 |
-| SUPRA | REGAL | 53,571 | 2008 | ZHEJIANG, China | MAN-B\&amp;W | May-23 | 4 X 35t CRANES | $ 11.0m | undisclosed | BWTS fitted |
-| HANDY | MAESTRO DIAMOND | 36,920 | 2015 | SAIKI, Japan | MAN-B\&amp;W | May-25 | 4 X 36t CRANES | $ 22.5m | Turkish (Devbulk) | OHBS |
-| HANDY | PORTLAND BAY | 28,446 | 2004 | IMABARI, Japan | MAN-B\&amp;W | Jan-24 | 4 X 30,5t CRANES | high $ 8.0m | undisclosed | BWTS fitted |
+| CAPE | DENSA COBRA | 180,491 | 2011 | STX, S. Korea | MAN-B&W | Nov-26 |  | $ 27.25m | undisclosed | BWTS fitted |
+| MINI CAPE | FPMC B 103 | 106,668 | 2011 | STX DALIAN, China | MAN-B&W | Nov-26 |  | $ 24.0m | Far Eastern | BWTS, Scrubber fitted |
+| POST PMAX | CLAIRE Z | 93,313 | 2009 | Jiangsu Newyangzi, China | MAN-B&W | Sep-24 |  | low-mid $ 16.0m | Chinese | BWTS fitted, Tier II |
+| KMAX | THALASSIC | 81,426 | 2009 | UNIVERSAL, Japan | MAN-B&W | Dec-24 |  | $ 21.0m | Greek (Omicron) | BWTS fitted, dely June/July 2023 |
+| UMAX | VOKARIA | 63,614 | 2020 | COSCO YANGZHOU, China | MAN-B&W | Mar-25 | 4 X 30t CRANES | low-mid $ 30.0's | South Korean | Scrubber fitted, Eco |
+| UMAX | BULK ELECTRA | 66,604 | 2015 | MITSUI, Japan | MAN-B&W | Dec-25 | 4 X 30t CRANES | high $ 26.0m | undisclosed | BWTS fitted, Eco |
+| UMAX | MOUNT ATHOS | 63,155 | 2014 | Jiangsu New Hantong, China | MAN-B&W | Feb-24 | 4x36.0, 4x30.0 | high $ 24.0m | UAE based | BWTS fitted, Eco, T/C attached till end 2024 at 112% of index |
+| SUPRA | EASTERN AZALEA | 56,771 | 2012 | Jiangsu Hantong, China | MAN-B&W | Nov-27 | 4 X 30t CRANES | $ 15.7m | undisclosed | BWTS fitted, Tier II |
+| SUPRA | MANDARIN DALIAN | 56,604 | 2010 | Jiangsu Hantong, China | MAN-B&W | Nov-25 | 4 X 36t CRANES | $ 14.0m | undisclosed | BWTS fitted, dely June/August 2023 |
+| SUPRA | REGAL | 53,571 | 2008 | ZHEJIANG, China | MAN-B&W | May-23 | 4 X 35t CRANES | $ 11.0m | undisclosed | BWTS fitted |
+| HANDY | MAESTRO DIAMOND | 36,920 | 2015 | SAIKI, Japan | MAN-B&W | May-25 | 4 X 36t CRANES | $ 22.5m | Turkish (Devbulk) | OHBS |
+| HANDY | PORTLAND BAY | 28,446 | 2004 | IMABARI, Japan | MAN-B&W | Jan-24 | 4 X 30,5t CRANES | high $ 8.0m | undisclosed | BWTS fitted |
 
 © Intermodal Research 09/05/2023 4
 
@@ -241,19 +241,19 @@ In the Handysize sector we had the sale of the “MAESTRO DIAMOND” (36,920dwt-
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | NORTHERN MAGNUM | 6,732 | 2003 | DAEWOO, S. Korea | B\&amp;W | Nov-23 |  | undisclosed | Swiss based (MSC) |  |
-| PMAX | NORTHERN PRIORITY | 4,616 | 2009 | DAEWOO, S. Korea | MAN-B\&amp;W | Oct-24 |  | $ 28.0m | Italian (Ignazio Messina) |  |
-| PMAX | NORTHERN PROMOTION | 4,616 | 2010 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-25 |  | $ 28.0m | Italian (Ignazio Messina) |  |
-| FEEDER | STONEWELL BRILLIANCE | 1,684 | 1994 | SCHICHAU SEEBEECKWERFT, Germany | B\&amp;W | Dec-24 |  | $ 3.5m | Turkish |  |
+| POST PMAX | NORTHERN MAGNUM | 6,732 | 2003 | DAEWOO, S. Korea | B&W | Nov-23 |  | undisclosed | Swiss based (MSC) |  |
+| PMAX | NORTHERN PRIORITY | 4,616 | 2009 | DAEWOO, S. Korea | MAN-B&W | Oct-24 |  | $ 28.0m | Italian (Ignazio Messina) |  |
+| PMAX | NORTHERN PROMOTION | 4,616 | 2010 | DAEWOO, S. Korea | MAN-B&W | Jan-25 |  | $ 28.0m | Italian (Ignazio Messina) |  |
+| FEEDER | STONEWELL BRILLIANCE | 1,684 | 1994 | SCHICHAU SEEBEECKWERFT, Germany | B&W | Dec-24 |  | $ 3.5m | Turkish |  |
 | FEEDER | INGRID | 698 | 2008 | FUJIAN, China | MaK | May-23 |  | $ 5.8m | Turkish | Ice 1A |
 ## Secondhand Sales
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | ECO TEXIANA | 4,743 | 2020 | MURAKAMI HIDE, Japan | MAN-B\&amp;W | Feb-25 | 4,929 | $ 19.8m | Greek (Toro Corp) |
-| LPG | ECO CZAR | 5,158 | 2015 | KITANIHON, Japan | MAN-B\&amp;W | Aug-25 | 4,900 | $ 17.1m | Greek (Toro Corp) |
-| LPG | ECO NEMESIS | 5,155 | 2015 | KITANIHON, Japan | MAN-B\&amp;W | Sep-25 | 4,900 | $ 17.1m | Greek (Toro Corp) |
-| LPG | ECO ENIGMA | 4,753 | 2015 | MURAKAMI HIDE, Japan | MAN-B\&amp;W | Apr-25 | 4,923 | $ 16.7m | Greek (Toro Corp) |
+| LPG | ECO TEXIANA | 4,743 | 2020 | MURAKAMI HIDE, Japan | MAN-B&W | Feb-25 | 4,929 | $ 19.8m | Greek (Toro Corp) |
+| LPG | ECO CZAR | 5,158 | 2015 | KITANIHON, Japan | MAN-B&W | Aug-25 | 4,900 | $ 17.1m | Greek (Toro Corp) |
+| LPG | ECO NEMESIS | 5,155 | 2015 | KITANIHON, Japan | MAN-B&W | Sep-25 | 4,900 | $ 17.1m | Greek (Toro Corp) |
+| LPG | ECO ENIGMA | 4,753 | 2015 | MURAKAMI HIDE, Japan | MAN-B&W | Apr-25 | 4,923 | $ 16.7m | Greek (Toro Corp) |
 
 © Intermodal Research 09/05/2023 5
 
@@ -291,7 +291,7 @@ The shipbuilding market continues to see healthy volumes of activity across all 
 | 1 | Tanker | 158,000 dwt | DH Shipbuilding, South Korea | 2025 | Greek (Golden Energy) | $ 77.0m | option declared |
 | 3 | Tanker | 115,000 dwt | Jiangsu New Hantong, China | 2025 | Norwegian (TRF Tankers) | $ 62.0m | scrubber-fitted |
 | 2 | Tanker | 13,000 dwt | Murakami Hide, Japan | 2025 | Danish (Christiania Shipping) | undisclosed | StSt |
-| 1 | Bulker | 66,200 dwt | Tsuneishi Zhoushan, China | 2026 | Greek (Meadway Shipping &amp; Trading) | undisclosed | scrubber-fitted, EEDI phase 3 |
+| 1 | Bulker | 66,200 dwt | Tsuneishi Zhoushan, China | 2026 | Greek (Meadway Shipping & Trading) | undisclosed | scrubber-fitted, EEDI phase 3 |
 | 2 | VLGC | 88,000 cbm | KSOE, S.Korea | 2026 | Japanese (Mitsui OSK Lines) | undisclosed | LPG/Ammonia |
 | 2 | LNG | 200,000 cbm | Hyundai HI, S. Korea | 2027 | Greek (Dynagas) | $ 277.0m |  |
 | 4 | LNG | 174,000 cbm | KSOE, S.Korea | 2027 | Japanese (NYK Line) | $ 257.0m | long term T/C to EnBW |

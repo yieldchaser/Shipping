@@ -37,7 +37,7 @@ Let's see how the SnP market will perform in the remaining months of this year.
 
 The dry bulk market is going from strength to strength, with w-o-w rate improvements taking place during the previous days. The BDI today (31/08/2021) closed at 4,132 down by 69 points compared to previous Tuesday's (24/08/2021) levels. The crude carrier market appeared to be a bit more active during the past days, however the extended weakness of freight rates in the tanker market continued for another week. The BDTI today (31/08/2021) closed at 610, an increase of 5 points, and the BCTI at 535, an increase of 48 points compared to previous Tuesday's (24/08/2021) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: **Stable-**)
+## Sale & Purchase (Wet: Softer / Dry: **Stable-**)
 
 Last week's SnP activity was dominated almost exclusively by dry bulk and Container unit transactions whereas tanker deal volumes were bearish with a rather small number of tanker deals being recorded. In the tanker sector, we had the sale of the "STARLIGHT VENTURE" (318,825dwt-blt '04, S. Korea), which was sold to Nigerian buyers, for a price in the region of \$30.0m. On the dry bulker side sector, we had the sale of the "OKEANOS BLISS" (76,636dwt-blt '08, Japan), which was sold to Greek buyers, for price in the region of \$18.75m.
 
@@ -135,7 +135,7 @@ Middle East VLCC market enjoyed a busier trade activity with rates for TD2 (MEG/
 
 The week kicked off with gains for the Suezmax sectors, however pressure was built towards the end of the week driven by the increasing supply of units. The Black Sea and Middle East markets closed off the week with discounts while an active West Africa market led to a slight rise in TD20 route (+0.75WS points w-o-w). Aframax North European market faced an injection of fresh cargoes which led to an uptick in rates for both the TD7 and TD17 routes in the range of 2-2.5WS points. TD19 Cross-Med business route ended the week unchanged despite an increase in activity mid-week onward.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "STARLIGHT VENTURE" (318,825dwt-blt '04, S. Korea), which was sold to Nigerian buyers, for a price in the region of \$30.0m.
 
@@ -202,7 +202,7 @@ Supramax 10TC averaged \$37,265 per day up +6.08% w-o-w. The Pacific market cont
 | **Ultramax** **63k** | 29.8 | 27.3 | **9.0%** | 19.4 | 23.1 | - |
 | **Handysize** **37K** | 23.8 | 21.4 | **11.0%** | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Panamax sector we had the sale of the "OKEANOS BLISS" (76,636dwt-blt '08, Japan), which was sold to Greek buyers, for price in the region of \$18.75m.
 

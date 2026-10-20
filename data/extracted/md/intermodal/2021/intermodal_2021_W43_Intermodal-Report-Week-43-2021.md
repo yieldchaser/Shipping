@@ -31,7 +31,7 @@ This could be a good timing to buy product carriers. We are starting to see incr
 
 A downward spiral across all dry bulk sizes was materialized during the previous week. The BDI today (02/01/2021) closed at 3,187 down by 621 points compared to previous Tuesday's (26/10/2021) levels. Expectations for a stronger end to the last quarter have now started to build in the crude carrier markets. The BDTI today (02/01/2021) closed at 793, and the BCTI at 579, an increase of 10 points compared to previous Tuesday's (26/10/2021) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: **Softer**)
+## Sale & Purchase (Wet: **Firmer** / Dry: **Softer**)
 
 Appetite for product carrier units was evident in the SnP realm with a healthy number of vessels changing hands. On the other hand, only four dry bulk deals came to light last week. In the tanker sector, we had the sale of the "STAR EAGLE" (51,202dwt-blt '07, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$11.75m. On the dry bulker side sector, we had the sale of the "KEY DISCOVERY" (82,152dwt-blt '10, Japan), which was sold to Greek owner, Swissmarine, for a price in the region of \$24.75m.
 
@@ -140,9 +140,9 @@ VLCC T/C earnings averaged \$-6,478/day, up +\$2,218/day w-o-w, and closed off t
 
 Suezmax T/C earnings averaged \$7,345/day, up +1,932/day w-o-w. Activity was overall quiet with West Africa TD20 route losing WS2.62 points w-o-w. Aframax T/C earnings averaged \$ 9,568/day, up +\$3,906/day w-o-w and ended up the week at \$10,375/day. Med TD19 route was the most prominent riser improving by 25WS points w-o-w. On the other hand, the Caribs market lost further ground with TD9 business route decreasing by 11.25WS points w-o-w .
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the MR2 sector we had the sale of the "STAR EAGLE" (51,202dwt-blt '07, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$11.75m.
 
@@ -211,7 +211,7 @@ Supramax 10TC averaged approx. \$36,703/day down -7.5% w-o-w, with the Atlantic 
 | **Ultramax** **63k** | 31.8 | 30.6 | 3.8% | 19.4 | 23.1 | - |
 | **Handysize** **37K** | 25.8 | 24.8 | 4.2% | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Kamsarmax sector we had the sale of the "KEY DISCOVERY" (82,152dwt-blt '10, Japan), which was sold to Greek owner, Swissmarine, for a price in the region of \$24.75m.
 
@@ -228,25 +228,25 @@ In the Ultramax sector we had the sale of the "SUNLEAF GRACE" (61,683dwt-blt '11
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | ADVANTAGE ARROW | 115,804 | 2009 | SAMSUNG, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 52.0m (en bloc) | Norwegian | BWTS &amp; scrubber fitted, basis TC attached to Shell at $ 17,800/d for 16 months with 50/50 profit sharing |
-| AFRA | ADVANTAGE AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jun-25 | DH | $ 52.0m (en bloc) | Norwegian | BWTS fitted, basis TC attached to Shell at $ 15,500/d for 16 months with 50/50 profit sharing |
-| AFRA | ATALANDI | 105,306 | 2004 | DAEWOO, S. Korea | B\&amp;W | Nov-24 | DH | $ 13.6m | undisclosed | BWTS fitted, old sale |
-| LR1 | TAI HU | 73,980 | 2007 | NEW TIMES, China | MAN-B\&amp;W | Aug-22 | DH | $ 10.4m | Chinese | Judicial sale, CPP |
-| MR2 | STAR EAGLE | 51,202 | 2007 | STX, S. Korea | MAN-B\&amp;W | Oct-22 | DH | $ 11.75m | undisclosed |  |
-| MR2 | HIGH VENTURE | 51,088 | 2006 | STX, S. Korea | MAN-B\&amp;W | Apr-26 | DH | $ 10.7m | Indian | BWTS fitted |
-| MR2 | ANGEL 61 | 48,635 | 2006 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | May-26 | DH | $ 9.8m | Greek | BWTS fitted, uncoiled |
-| MR1 | BAUCI | 37,320 | 2002 | STX, S. Korea | MAN-B\&amp;W | May-22 | DH | $ 6.3m | undisclosed | CPP |
+| AFRA | ADVANTAGE ARROW | 115,804 | 2009 | SAMSUNG, S. Korea | MAN-B&W | Feb-25 | DH | $ 52.0m (en bloc) | Norwegian | BWTS & scrubber fitted, basis TC attached to Shell at $ 17,800/d for 16 months with 50/50 profit sharing |
+| AFRA | ADVANTAGE AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B&W | Jun-25 | DH | $ 52.0m (en bloc) | Norwegian | BWTS fitted, basis TC attached to Shell at $ 15,500/d for 16 months with 50/50 profit sharing |
+| AFRA | ATALANDI | 105,306 | 2004 | DAEWOO, S. Korea | B&W | Nov-24 | DH | $ 13.6m | undisclosed | BWTS fitted, old sale |
+| LR1 | TAI HU | 73,980 | 2007 | NEW TIMES, China | MAN-B&W | Aug-22 | DH | $ 10.4m | Chinese | Judicial sale, CPP |
+| MR2 | STAR EAGLE | 51,202 | 2007 | STX, S. Korea | MAN-B&W | Oct-22 | DH | $ 11.75m | undisclosed |  |
+| MR2 | HIGH VENTURE | 51,088 | 2006 | STX, S. Korea | MAN-B&W | Apr-26 | DH | $ 10.7m | Indian | BWTS fitted |
+| MR2 | ANGEL 61 | 48,635 | 2006 | IWAGI ZOSEN, Japan | MAN-B&W | May-26 | DH | $ 9.8m | Greek | BWTS fitted, uncoiled |
+| MR1 | BAUCI | 37,320 | 2002 | STX, S. Korea | MAN-B&W | May-22 | DH | $ 6.3m | undisclosed | CPP |
 | HANDY | CHEMSTAR JEWEL | 21,313 | 2012 | ASAKAWA, Japan | Mitsubishi | Jun-22 | DH | undisclosed | UK based | St-St |
-| SMALL | CRIMSON RAY | 19,984 | 2007 | FUKUOKA, Japan | MAN-B\&amp;W | Jul-22 | DH | $ 12.5m | South Korean | St-St |
-| SMALL | ASL TRIBUTE | 12,306 | 2007 | SASAKI, Japan | MAN-B\&amp;W | Apr-22 | DH | $ 5.5m | Singapore based |  |
-| SMALL | CHEM WOLVERINE | 19,991 | 2006 | USUKI, Japan | MAN-B\&amp;W | Nov-21 | DH | $ 9.8m | South Korean | St-St |
+| SMALL | CRIMSON RAY | 19,984 | 2007 | FUKUOKA, Japan | MAN-B&W | Jul-22 | DH | $ 12.5m | South Korean | St-St |
+| SMALL | ASL TRIBUTE | 12,306 | 2007 | SASAKI, Japan | MAN-B&W | Apr-22 | DH | $ 5.5m | Singapore based |  |
+| SMALL | CHEM WOLVERINE | 19,991 | 2006 | USUKI, Japan | MAN-B&W | Nov-21 | DH | $ 9.8m | South Korean | St-St |
 ## Bulk Carriers
 
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | JIANGSU YANGZI-MITSUI YZJ2015-2686 | 82,300 | 2022 | Jiangsu Yangzi-Mitsui, China | MAN-B&amp;W |  |  | $ 38.5m | Greek | delivery January 2022 |
-| KMAX | KEY DISCOVERY | 82,152 | 2010 | TSUNEISHI, Japan | MAN-B&amp;W | Nov-25 |  | $ 24.75m | Greek (Swissmarine) | delivery December 2021 |
-| UMAX | SUNLEAF GRACE | 61,683 | 2011 | OSHIMA, Japan | MAN-B&amp;W | Aug-23 | 4 X 30t CRANES | $ 21.5m | undisclosed | delivery March-May 2022 |
+| KMAX | JIANGSU YANGZI-MITSUI YZJ2015-2686 | 82,300 | 2022 | Jiangsu Yangzi-Mitsui, China | MAN-B&W |  |  | $ 38.5m | Greek | delivery January 2022 |
+| KMAX | KEY DISCOVERY | 82,152 | 2010 | TSUNEISHI, Japan | MAN-B&W | Nov-25 |  | $ 24.75m | Greek (Swissmarine) | delivery December 2021 |
+| UMAX | SUNLEAF GRACE | 61,683 | 2011 | OSHIMA, Japan | MAN-B&W | Aug-23 | 4 X 30t CRANES | $ 21.5m | undisclosed | delivery March-May 2022 |
 | HANDY | ORTOLAN BETA STRAIT | 29,975 | 2010 | YANGZHOU GUOYU, China | Wartsila | May-25 | 3 X 30t CRANES | undisclosed | undisclosed | laker |
 
 © Intermodal Research 02/11/2021 4
@@ -258,8 +258,8 @@ In the Ultramax sector we had the sale of the "SUNLEAF GRACE" (61,683dwt-blt '11
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | CARTAGENA TRADER | 3,534 | 2008 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Mar-23 |  | undisclosed | Frech (CMA CGM) |
-| FEEDER | ASTURIANO II | 1,304 | 2012 | AVIC WEIHAI, China | MAN-B\&amp;W | Mar-22 | 2 X 40t CRANES | undisclosed | UAE based (Safeen Feeders) |
+| PMAX | CARTAGENA TRADER | 3,534 | 2008 | SHANGHAI SHIPYARD, China | MAN-B&W | Mar-23 |  | undisclosed | Frech (CMA CGM) |
+| FEEDER | ASTURIANO II | 1,304 | 2012 | AVIC WEIHAI, China | MAN-B&W | Mar-22 | 2 X 40t CRANES | undisclosed | UAE based (Safeen Feeders) |
 | FEEDER | AS FEDERICA | 1,284 | 2007 | OUHUA, China | MAN | May-22 | 2 X 45t CRANES | $ 23.0m | Frech (CMA CGM) |
 | FEEDER | AS FAUSTINA | 1,284 | 2007 | OUHUA, China | MAN | Sep-22 | 2 X 45t CRANES | $ 23.0m | Frech (CMA CGM) |
 ## Secondhand Sales
@@ -267,8 +267,8 @@ In the Ultramax sector we had the sale of the "SUNLEAF GRACE" (61,683dwt-blt '11
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MARIWIT | 12,190 | 2009 | LIAONING LONGDE, China | Hanshin | Jul-24 | 2 X 30t CRNS, 2 X 25t DERRICKS | $ 5.8m | Chinese | Tween |
-| MIGHTY CHAMP | 10,084 | 2005 | SHIN KURUSHIMA, Japan | B&amp;W | Feb-25 | 2 X 30,7t CRNS, 1 X 30t DERRICKS | rgn $ 6.0m | undisclosed | Tween |
-| MIGHTY BOSS | 10,074 | 2004 | SHIN KURUSHIMA, Japan | B&amp;W | Nov-24 | 2 X 30t CRNS, 1 X 30t DERRICKS | rgn $ 6.0m | undisclosed | Tween, BWTS fitted |
+| MIGHTY CHAMP | 10,084 | 2005 | SHIN KURUSHIMA, Japan | B&W | Feb-25 | 2 X 30,7t CRNS, 1 X 30t DERRICKS | rgn $ 6.0m | undisclosed | Tween |
+| MIGHTY BOSS | 10,074 | 2004 | SHIN KURUSHIMA, Japan | B&W | Nov-24 | 2 X 30t CRNS, 1 X 30t DERRICKS | rgn $ 6.0m | undisclosed | Tween, BWTS fitted |
 
 © Intermodal Research 02/11/2021 5
 

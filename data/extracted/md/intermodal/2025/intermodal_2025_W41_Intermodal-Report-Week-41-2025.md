@@ -163,19 +163,19 @@ The Ultramax/Supramax market softened as Asian holidays reduced fresh inquiries,
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | ECO BEL AIR | 158,000 | 2019 | HYUNDAI, S. Korea | MAN-B\&amp;W | Apr-29 | DH | $ 75,0m each | Greek | Eco |
-| SUEZ | ECO BEVERLY HILLS | 158,000 | 2019 | HYUNDAI, S. Korea | MAN-B\&amp;W | May-29 | DH | $ 75,0m each | Greek | Eco |
-| SMALL | MASIRAH | 12,885 | 2007 | SAMHO, S. Korea | MAN B\&amp;W | Jan-27 | DH | $ 8.7m | undisclosed |  |
+| SUEZ | ECO BEL AIR | 158,000 | 2019 | HYUNDAI, S. Korea | MAN-B&W | Apr-29 | DH | $ 75,0m each | Greek | Eco |
+| SUEZ | ECO BEVERLY HILLS | 158,000 | 2019 | HYUNDAI, S. Korea | MAN-B&W | May-29 | DH | $ 75,0m each | Greek | Eco |
+| SMALL | MASIRAH | 12,885 | 2007 | SAMHO, S. Korea | MAN B&W | Jan-27 | DH | $ 8.7m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | HEBEI NO. 1 | 182,425 | 2009 | DALIAN, China | MAN B\&amp;W | Oct-29 |  | $ 25.0m | undisclosed |  |
-| PMAX | NARA I | 76,588 | 2007 | JIANGNAN, China | MAN B\&amp;W | Aug-27 |  | $ 8.5m | undisclosed |  |
-| PMAX | TASIK SAKURA | 76,334 | 2011 | OSHIMA, Japan | MAN B\&amp;W | Jan-26 |  | $ 15.2m | Greek |  |
-| UMAX | ATHENA | 61,501 | 2011 | OSHIMA, Japan | MAN B\&amp;W | Jan-26 | 4 X 30t CRANES | $ 17,75m | undisclosed | TC attached at usd 14.75k/day till Dec 25 - Feb |
-| UMAX | IMABARI QUEEN | 60,405 | 2016 | SANOYAS, Japan | MAN B\&amp;W | May-26 | 4 X 31,2t CRANES | $ 23.5m | Greek | Eco |
-| SUPRA | FOREVER SW | 58,186 | 2010 | TSUNEISHI CEBU, Philippines | MAN B\&amp;W | May-30 | 4 X 30t CRANES | $ 15.2m | undisclosed |  |
+| CAPE | HEBEI NO. 1 | 182,425 | 2009 | DALIAN, China | MAN B&W | Oct-29 |  | $ 25.0m | undisclosed |  |
+| PMAX | NARA I | 76,588 | 2007 | JIANGNAN, China | MAN B&W | Aug-27 |  | $ 8.5m | undisclosed |  |
+| PMAX | TASIK SAKURA | 76,334 | 2011 | OSHIMA, Japan | MAN B&W | Jan-26 |  | $ 15.2m | Greek |  |
+| UMAX | ATHENA | 61,501 | 2011 | OSHIMA, Japan | MAN B&W | Jan-26 | 4 X 30t CRANES | $ 17,75m | undisclosed | TC attached at usd 14.75k/day till Dec 25 - Feb |
+| UMAX | IMABARI QUEEN | 60,405 | 2016 | SANOYAS, Japan | MAN B&W | May-26 | 4 X 31,2t CRANES | $ 23.5m | Greek | Eco |
+| SUPRA | FOREVER SW | 58,186 | 2010 | TSUNEISHI CEBU, Philippines | MAN B&W | May-30 | 4 X 30t CRANES | $ 15.2m | undisclosed |  |
 
 ---
 

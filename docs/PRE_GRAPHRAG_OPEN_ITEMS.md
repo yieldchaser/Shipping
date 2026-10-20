@@ -72,7 +72,15 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
 - [x] Star Asia pages 2/3/5/6 (dry-bulk segment table, vessel-value DWT column, tanker WS rates, an S&P row):
       numbers missing in both the stored MDs and the live builder; closed by the text-layer + geometry rebuild.
 - [x] Star Asia W40: PORTLAND 11 beaching printed blank, MD said "AWAITING" (old builder default) - fixed.
-- [ ] Intermodal: 23 MDs with "(en bloc)" sale rows, 74 single-cell residuals.
+- [x] Intermodal sales (2026-10-20): the "(en bloc)" cells of the 23 MDs are merged PDF cells (one price printed over
+      the group; checked on the render of 2021 W38 / W49). By design: `intermodal_table_rebuild.py` writes a merged
+      price as "<price> (en bloc)". Series: 828 blank M/E, 145 buyers, 84 comments, 98 prices filled from the MD
+      (2021-23 headers carry a section prefix the parser missed), 20 first rows of en bloc groups given the marker,
+      630 HTML entities decoded; same in 116 sidecars. 130 MDs: `&amp;` / `\&amp;` decoded (2,071 lines, nothing
+      else changed). 2023 W39 FRITZI N: the printed header has no "Built" label, the row was shifted; fixed.
+- [ ] Intermodal merged cells written blank: some older MDs leave the other rows of a merged price blank instead of
+      the "(en bloc)" form (e.g. 2022 W13, ten Hafnia handies at $ 242.4m). 58 series rows have no price; each needs
+      a render check before it is marked en bloc.
 - [ ] Advanced Shipping: 15 cell conflicts left after the geometry splice.
 - [x] `docs/EXTRACTION_REGISTER.md`: claimed Xclusiv is "100% cover-to-cover" (false: contacts page excluded; the
       commodities page was missing until 08e38a6712). Corrected, with Intermodal's same claim (final page excluded).

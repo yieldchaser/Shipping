@@ -27,7 +27,7 @@ Looking ahead, the decline in the coal price since the beginning of the year has
 
 The dry bulk market seems that have found its bottom during the past days with all sectors witnessing substantial increases. The BDI on Friday (24/02/2023) closed at 883 points, up by 345 points compared to previous Friday's closing (17/02/2023). With the exception of the VLCC sector whose performance was mostly steady during the past days demand for the rest of the sizes was healthy leading to w-o-w improvements on the average T/C earnings. The BDTI on Friday (24/02/2023) closed at 1,338, an increase of 77 points and the BCTI at 955, a decrease of 129 points compared to previous Friday's (17/02/2023) levels.
 
-## Sale &amp; Purchase (Wet: Stable- / Dry: Softer)
+## Sale & Purchase (Wet: Stable- / Dry: Softer)
 
 Tanker SnP activity remained stable while activity in the dry bulk secondhand market was quiet given the recent rally in freights with owners closely monitoring the current momentum. In the tanker sector, we had the sale of the "SAND SHINER" (73,715dwt-blt '06, China), which was sold to undisclosed buyers, for a price in the region of \$23.25m. On the dry bulker side sector, we had the sale of the "DONA TARA" (81,323dwt-blt '11, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$20.5m.
 
@@ -132,7 +132,7 @@ VLCC T/C earnings averaged \$ 34,417/day, up +\$117/day w-o-w, and closed off th
 
 Suezmax T/C earnings averaged \$ 73,851/day, up + \$4,510/day w-o-w. On the Aframax front, T/C earnings averaged \$ 54,656/day, up + \$8,473/day w-o-w .
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the LR1 sector we had the sale of the "SAND SHINER" (73,715dwt-blt '06, China), which was sold to undisclosed buyers, for a price in the region of \$23.25m.
 
@@ -193,7 +193,7 @@ Supramax 10TC averaged \$ 9,552/day, up +33.74% w-o-w, while the Handysize 7TC a
 | **Ultramax** | **63k** | 28.0 | 28.0 | 0.0% | 31.5 | 26.4 | 19.4 |
 | **Handysize** | **37K** | 24.0 | 24.0 | 0.0% | 27.2 | 21.4 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Kamsarmax sector we had the sale of the "DONA TARA" (81,323dwt-blt '11, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$20.5m.
 
@@ -209,30 +209,30 @@ In the Handysize sector we had the sale of the "INTERLINK PRIORITY" (38,709dwt-b
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | GALVESTON STAR | 115,000 | 2023 | DAEHAN, S. Korea | MAN-B\&amp;W |  | DH | $ 76.0m | Libyan (GNMTC) | resale |
-| AFRA | DELAWARE STAR | 115,000 | 2023 | DAEHAN, S. Korea | MAN-B\&amp;W |  | DH | $ 76.0m | Libyan (GNMTC) | resale |
+| AFRA | GALVESTON STAR | 115,000 | 2023 | DAEHAN, S. Korea | MAN-B&W |  | DH | $ 76.0m | Libyan (GNMTC) | resale |
+| AFRA | DELAWARE STAR | 115,000 | 2023 | DAEHAN, S. Korea | MAN-B&W |  | DH | $ 76.0m | Libyan (GNMTC) | resale |
 | LR2 | BEKS INDIANA | 105,547 | 2007 | SUMITOMO, Japan | Wartsila | Mar-27 | DH | undisclosed | undisclosed |  |
-| LR1 | SAND SHINER | 73,715 | 2006 | NEW TIMES, China | MAN-B\&amp;W | Dec-26 | DH | $ 23.25m | undisclosed | BWTS, Scrubber fitted |
-| MR2 | SPRUCE EXPRESS | 51,218 | 2006 | STX, S. Korea | MAN-B\&amp;W | Sep-26 | DH | $ 19.0m | Greek | BWTS fitted |
+| LR1 | SAND SHINER | 73,715 | 2006 | NEW TIMES, China | MAN-B&W | Dec-26 | DH | $ 23.25m | undisclosed | BWTS, Scrubber fitted |
+| MR2 | SPRUCE EXPRESS | 51,218 | 2006 | STX, S. Korea | MAN-B&W | Sep-26 | DH | $ 19.0m | Greek | BWTS fitted |
 | SMALL | TRADEWIND PASSION | 7,739 | 2008 | NINGBO, China | MaK | Apr-23 | DH | $ 5.6m | undisclosed | bss surveys due |
 ## Bulk Carriers
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | DONA TARA | 81,323 | 2011 | HYUNDAI, S. Korea | MAN-B&amp;W | Nov-26 |  | $ 20.5m | undisclosed | BWTS fitted |
-| SUPRA | SUN GLOBE | 58,790 | 2007 | TSUNEISHI CEBU, Philippines | MAN-B&amp;W | Aug-27 | 4 X 30t CRANES | $ 14.1m | Chinese | BWTS fitted |
-| SUPRA | JAEGER | 52,483 | 2004 | TSUNEISHI CEBU, Philippines | MAN-B&amp;W | Oct-24 | 4 X 30t CRANES | $ 9.0m | Turkish | BWTS fitted |
-| HANDY | INTERLINK PRIORITY | 38,709 | 2015 | TAIZHOU KOUAN, China | MAN-B&amp;W | Nov-25 | 4 X 30t CRANES | high $ 19.0m | UK based (Tufton) | BWTS fitted, OHBS, Eco, Ice 1C |
-| HANDY | PATRONUS | 30,587 | 2007 | COCHIN, India | MAN-B&amp;W | Mar-26 | 4 X 30t CRANES | low mid $ 7.0m | Turkish | BWTS fitted, Boxed |
+| KMAX | DONA TARA | 81,323 | 2011 | HYUNDAI, S. Korea | MAN-B&W | Nov-26 |  | $ 20.5m | undisclosed | BWTS fitted |
+| SUPRA | SUN GLOBE | 58,790 | 2007 | TSUNEISHI CEBU, Philippines | MAN-B&W | Aug-27 | 4 X 30t CRANES | $ 14.1m | Chinese | BWTS fitted |
+| SUPRA | JAEGER | 52,483 | 2004 | TSUNEISHI CEBU, Philippines | MAN-B&W | Oct-24 | 4 X 30t CRANES | $ 9.0m | Turkish | BWTS fitted |
+| HANDY | INTERLINK PRIORITY | 38,709 | 2015 | TAIZHOU KOUAN, China | MAN-B&W | Nov-25 | 4 X 30t CRANES | high $ 19.0m | UK based (Tufton) | BWTS fitted, OHBS, Eco, Ice 1C |
+| HANDY | PATRONUS | 30,587 | 2007 | COCHIN, India | MAN-B&W | Mar-26 | 4 X 30t CRANES | low mid $ 7.0m | Turkish | BWTS fitted, Boxed |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | WINDERMERE | 2,797 | 2010 | YANGFAN, China | MAN-B\&amp;W | Apr-25 |  | $ 16.7m | undisclosed |
-| FEEDER | TS MANILA | 2,553 | 2007 | NAIKAI ZOSEN, Japan | MAN-B\&amp;W | Nov-27 |  | undisclosed | undisclosed |
-| FEEDER | JULIUS | 1,368 | 2009 | SHADONG WEIHAI, China | MAN-B\&amp;W | Nov-24 | 2 X 40t CRANES | $ 8.8m | German (Hermann Lohmann) |
-| FEEDER | A FUKU | 1,043 | 2007 | DAE SUN, S. Korea | MAN-B\&amp;W | Aug-27 |  | $ 10.0m | undisclosed |
-| FEEDER | A KOU | 1,043 | 2007 | DAE SUN, S. Korea | MAN-B\&amp;W | Nov-27 |  | $ 11.0m | undisclosed |
+| FEEDER | WINDERMERE | 2,797 | 2010 | YANGFAN, China | MAN-B&W | Apr-25 |  | $ 16.7m | undisclosed |
+| FEEDER | TS MANILA | 2,553 | 2007 | NAIKAI ZOSEN, Japan | MAN-B&W | Nov-27 |  | undisclosed | undisclosed |
+| FEEDER | JULIUS | 1,368 | 2009 | SHADONG WEIHAI, China | MAN-B&W | Nov-24 | 2 X 40t CRANES | $ 8.8m | German (Hermann Lohmann) |
+| FEEDER | A FUKU | 1,043 | 2007 | DAE SUN, S. Korea | MAN-B&W | Aug-27 |  | $ 10.0m | undisclosed |
+| FEEDER | A KOU | 1,043 | 2007 | DAE SUN, S. Korea | MAN-B&W | Nov-27 |  | $ 11.0m | undisclosed |
 
 © Intermodal Research 28/02/2023 4
 
@@ -244,8 +244,8 @@ In the Handysize sector we had the sale of the "INTERLINK PRIORITY" (38,709dwt-b
 | Sector | Size | Gas/LPG/LNG | Type | Name | Dwt | Built | Yard | M/E | SS due |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | GOLAR SEAL | 82,048 | 2013 | SAMSUNG, S. Korea | Wartsila | Oct-23 | 157,337 | $ 184.3m | Norwegian (Hoegh LNG Holdings) |
-|  | GASCHEM BREMEN | 26,645 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Oct-25 | 34,300 | $ 39.0m | Turkish |
-|  | ECO EVOLUZIONE | 26,618 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Dec-25 | 34,420 | $ 39.0m |  |
+|  | GASCHEM BREMEN | 26,645 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B&W | Oct-25 | 34,300 | $ 39.0m | Turkish |
+|  | ECO EVOLUZIONE | 26,618 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B&W | Dec-25 | 34,420 | $ 39.0m |  |
 
 © Intermodal Research 28/02/2023 5
 

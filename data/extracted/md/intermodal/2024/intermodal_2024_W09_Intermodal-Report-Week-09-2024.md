@@ -159,26 +159,26 @@ The Supramax and Handysize segments, both ended the week on a positive note. The
 
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | ECO SEAS | 299,998 | 2016 | DAEWOO, S. Korea | MAN-B\&amp;W | Oct-26 | DH |
-| SMALL | NQ ACACIA | 19,801 | 2016 | NINGBO XINLE, China | MAN-B\&amp;W | Mar-26 | DH |
-| SMALL | CHEM ALYA | 17,055 | 2009 | NINGBO XINLE, China | MAN-B\&amp;W | Apr-24 | DH |
+| VLCC | ECO SEAS | 299,998 | 2016 | DAEWOO, S. Korea | MAN-B&W | Oct-26 | DH |
+| SMALL | NQ ACACIA | 19,801 | 2016 | NINGBO XINLE, China | MAN-B&W | Mar-26 | DH |
+| SMALL | CHEM ALYA | 17,055 | 2009 | NINGBO XINLE, China | MAN-B&W | Apr-24 | DH |
 | SMALL | VULCANO M | 21,297 | 2004 | FACTORIAS VULCANO, Spain | MaK | Jul-28 | DH |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | SHIN KORYU | 207,991 | 2009 | UNIVERSAL, Japan | MAN-B\&amp;W | Oct-24 |  | low mid $ 30's | Chinese (Winning) |  |
-| CAPE | MINERAL GENT | 175,181 | 2011 | NEW TIMES, China | MAN-B\&amp;W | Aug-25 |  | low $ 26.0m | Greek | BWTS fitted |
-| CAPE | MOUNT CARMEL | 177,003 | 2007 | NAMURA, Japan | MAN-B\&amp;W | Jun-24 |  | $ 25.0m | undisclosed | BWTS fitted |
+| CAPE | SHIN KORYU | 207,991 | 2009 | UNIVERSAL, Japan | MAN-B&W | Oct-24 |  | low mid $ 30's | Chinese (Winning) |  |
+| CAPE | MINERAL GENT | 175,181 | 2011 | NEW TIMES, China | MAN-B&W | Aug-25 |  | low $ 26.0m | Greek | BWTS fitted |
+| CAPE | MOUNT CARMEL | 177,003 | 2007 | NAMURA, Japan | MAN-B&W | Jun-24 |  | $ 25.0m | undisclosed | BWTS fitted |
 | CAPE | CASTILLO DE VALVERDE | 173,764 | 2005 | BOHAI, China | Sulzer | Dec-25 |  | high $ 15.0m | undisclosed | BWTS fitted |
-| KMAX | GRAND RADIANT | 82,298 | 2021 | YAMIC, China | MAN-B\&amp;W | Jan-26 |  | $ 38.0m | Greek | Scrubber fitted, Eco |
-| SUPRA | PARADISE ISLAND | 57,835 | 2014 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Dec-26 | 4 X 30t CRANES | $ 21.9m | undisclosed | BWTS fitted |
-| SUPRA | ASL FORTUNE | 58,096 | 2012 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Apr-27 | 4 X 30t CRANES | $ 19.3m | Greek | BWTS fitted |
+| KMAX | GRAND RADIANT | 82,298 | 2021 | YAMIC, China | MAN-B&W | Jan-26 |  | $ 38.0m | Greek | Scrubber fitted, Eco |
+| SUPRA | PARADISE ISLAND | 57,835 | 2014 | TSUNEISHI CEBU, Philippines | MAN-B&W | Dec-26 | 4 X 30t CRANES | $ 21.9m | undisclosed | BWTS fitted |
+| SUPRA | ASL FORTUNE | 58,096 | 2012 | TSUNEISHI CEBU, Philippines | MAN-B&W | Apr-27 | 4 X 30t CRANES | $ 19.3m | Greek | BWTS fitted |
 | HANDY | LIANGCHOW | 39,685 | 2015 | OUHUA, China | Wartsila | Aug-25 | 4 X 36t CRANES | $ 20.5m each | UK based |  |
 | HANDY | LINTAN | 39,641 | 2015 | OUHUA, China | Wartsila | Oct-25 | 4 X 36t CRANES | $ 20.5m each | UK based |  |
-| HANDY | YELLOW SEA | 35,238 | 2012 | NANTONG CHANGQINGSHA, China | MAN-B\&amp;W | Dec-26 | 4 X 30,5t CRANES | high $ 11.0m | undisclosed | BWTS fitted, Tier II, Semi-Boxed |
-| HANDY | IVS IBIS | 28,238 | 2012 | IMABARI, Japan | MAN-B\&amp;W | Mar-27 | 4 X 30,5t CRANES | mid high $ 11.0m | Greek | BWTS fitted |
-| HANDY | PAN KRISTINE | 33,303 | 2011 | NANTONG CHANGQINGSHA, China | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | region $ 11.0m | Greek | BWTS fitted |
+| HANDY | YELLOW SEA | 35,238 | 2012 | NANTONG CHANGQINGSHA, China | MAN-B&W | Dec-26 | 4 X 30,5t CRANES | high $ 11.0m | undisclosed | BWTS fitted, Tier II, Semi-Boxed |
+| HANDY | IVS IBIS | 28,238 | 2012 | IMABARI, Japan | MAN-B&W | Mar-27 | 4 X 30,5t CRANES | mid high $ 11.0m | Greek | BWTS fitted |
+| HANDY | PAN KRISTINE | 33,303 | 2011 | NANTONG CHANGQINGSHA, China | MAN-B&W | Aug-26 | 4 X 30t CRANES | region $ 11.0m | Greek | BWTS fitted |
 
 ---
 
@@ -208,7 +208,7 @@ Another busy week for the newbuilding market with several orders for both tanker
 | 2 | Tanker | 319,000 dwt | Jiangsu New Hantong, China | 2026 | Swiss based (Trafigura) | undisclosed |  |
 | 2+2 | Tanker | 300,000 dwt | Hanwha Ocean, S.Korea | 2026-2027 | Monaco-based (DHT) | $ 129.1m | Scrubber Fitted |
 | 2 | Tanker | 111,000 dwt | Guangzhou, China | 2027 | Singaporean (Eastern Pacific) | undisclosed | LNG dual-fuel |
-| 2 | Tanker | 17,000 dwt | CMJL Yangzhou, China | 2026 | Belgian (Euronav) | undisclosed | Methanol/Ammonia Ready, Asphalt &amp; Bitumen tankers |
+| 2 | Tanker | 17,000 dwt | CMJL Yangzhou, China | 2026 | Belgian (Euronav) | undisclosed | Methanol/Ammonia Ready, Asphalt & Bitumen tankers |
 | 4 | Bulker | 210,000 dwt | Beihai, China | 2028 | Singaporean (Eastern Pacific) | undisclosed | ammonia ready |
 | 2 | Bulker | 210,000 dwt | Beihai, China | 2028 | Singaporean (Berge Bulk) | undisclosed | IMO Tier III, EEDI Phase III, ammonia ready |
 | 4 | Bulker | 82,000 dwt | Hengli HI Dalian, China | 2026 | Greek (Sea Traders) | undisclosed | IMO Tier III, EEDI Phase III |

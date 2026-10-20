@@ -141,20 +141,20 @@ The Ultramax and Supramax markets displayed a split picture. The Atlantic region
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | AQUA PEARL | 105,712 | 2005 | SUMITOMO, Japan | Sulzer | Oct-25 | DH | high $ 24's | undisclosed |
-| MR2 | SEAWAYS TITAN | 49,999 | 2008 | HYUNDAI MIPO, South Korea | MAN B\&amp;W | Nov-28 | DH | $ 16.5m | undisclosed |
-| MR2 | BULL SHARK | 49,999 | 2009 | HYUNDAI MIPO, South Korea | MAN B\&amp;W | Mar-29 | DH | $ 17,35m | undisclosed |
-| MR2 | LAKSHMI | 50,192 | 2009 | SLS, S. Korea | MAN B\&amp;W | Aug-29 | DH | $ 17.5m | Indian |
+| MR2 | SEAWAYS TITAN | 49,999 | 2008 | HYUNDAI MIPO, South Korea | MAN B&W | Nov-28 | DH | $ 16.5m | undisclosed |
+| MR2 | BULL SHARK | 49,999 | 2009 | HYUNDAI MIPO, South Korea | MAN B&W | Mar-29 | DH | $ 17,35m | undisclosed |
+| MR2 | LAKSHMI | 50,192 | 2009 | SLS, S. Korea | MAN B&W | Aug-29 | DH | $ 17.5m | Indian |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | PEDHOULAS LEADER | 82,050 | 2007 | TSUNEISHI, Japan | MAN-B\&amp;W | Feb-27 |  | $ 12.5m | Chinese |  |
-| UMAX | CP CHONGQING | 63,581 | 2016 | CHENGXI, China | MAN B\&amp;W | Nov-26 | 4 X 30t CRANES | region $ 21.5m | Korean | Eco |
-| SUPRA | JIN JI | 56,913 | 2009 | CHENGXI, China | MAN B\&amp;W | Nov-27 | 4 X 35t CRANES | $ 11.0m | Chinese |  |
-| HANDY | EVANGELIA L | 38,167 | 2015 | NAIKAI ZOSEN, Japan | MAN B\&amp;W | Jan-27 | 4 X 30t CRANES | $ 19.5m | Turkish | Eco, OHBS |
+| KMAX | PEDHOULAS LEADER | 82,050 | 2007 | TSUNEISHI, Japan | MAN-B&W | Feb-27 |  | $ 12.5m | Chinese |  |
+| UMAX | CP CHONGQING | 63,581 | 2016 | CHENGXI, China | MAN B&W | Nov-26 | 4 X 30t CRANES | region $ 21.5m | Korean | Eco |
+| SUPRA | JIN JI | 56,913 | 2009 | CHENGXI, China | MAN B&W | Nov-27 | 4 X 35t CRANES | $ 11.0m | Chinese |  |
+| HANDY | EVANGELIA L | 38,167 | 2015 | NAIKAI ZOSEN, Japan | MAN B&W | Jan-27 | 4 X 30t CRANES | $ 19.5m | Turkish | Eco, OHBS |
 | HANDY | STELLAR ENGURI | 33,677 | 2012 | FUKUOKA, Japan | Mitsubishi | Sep-27 | 4 X 30,5t CRANES | low mid $ 13's | Asian | OHBS |
 | HANDY | BC CALLISTO | 32,280 | 2010 | KANDA, Japan | Mitsubishi | Dec-27 | 4 X 30,5t CRANES | $ 12,05m | Chinese | OHBS |
-| HANDY | TUOJIANG | 28,515 | 2006 | SHIMANAMI, Japan | MAN B\&amp;W | Oct-25 | 4 X 30,5t CRANES | $ 5,37m | undisclosed | via Chinese bidding platform |
+| HANDY | TUOJIANG | 28,515 | 2006 | SHIMANAMI, Japan | MAN B&W | Oct-25 | 4 X 30,5t CRANES | $ 5,37m | undisclosed | via Chinese bidding platform |
 
 ---
 

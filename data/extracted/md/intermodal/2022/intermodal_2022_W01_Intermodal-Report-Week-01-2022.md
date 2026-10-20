@@ -32,7 +32,7 @@ I guess this is what makes shipping so special and even though it is an open ind
 
 A mixed picture emerged during the first days of the year. Rates for the largest sizes improved, with the Panamax sector enjoying the biggest rise, while the year kicked off with geared sizes suffering discounts. The BDI today (11/01/2022) closed at 2,151 points. The first week of 2022 was uninspiring for the crude carrier market. The demand/supply imbalance was evident across all sectors leading to a further decrease in average earnings. The BDTI today (11/01/2022) closed at 698 points and the BCTI at 613.
 
-## Sale &amp; Purchase (Wet: Firmer / Dry: Stable+)
+## Sale & Purchase (Wet: Firmer / Dry: Stable+)
 
 2022 brought a significant increase in owners' appetite for tanker vessels as a plethora of units changed hands during the past days. At the same time, bulker SnP activity remained healthy while only a handful of boxships sales materialized last week. In the tanker sector, we had the sale of the "ARGENTA" (319,180dwt-blt '05, S. Korea), which was sold to undisclosed buyers for a price in the region of \$31.5m. On the dry bulker side sector, we had the sale of the "ASL JUPITER" (87,052dwt-blt '05, Japan), which was sold to Chinese buyers for a price in the region of \$13.15m.
 
@@ -135,7 +135,7 @@ VLCC market activity was weak during the past few days. Average T/C earnings sto
 
 Average T/C Suezmax earnings closed off the week at the -\$1,630/day, down by -\$4,887 compared to the previous year's last reported date. MEG set the negative tone with Med and West Africa rates being also on a negative trajectory. Decreases were also materialized in the Aframax realm last week. Cross Med earnings have been the charterers hardest hit with TD19 business ending up the week at \$921/day, down by -\$9,925 compared to 24<sup>th</sup> December (last reported level according to Baltic Exchange). All in all, Aframax average earnings closed off the week at -\$7,016/day.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "ARGENTA" (319,180dwt-blt '05, S. Korea), which was sold to undisclosed buyers for a price in the region of \$31.5m.
 
@@ -204,7 +204,7 @@ Supramax 10TC averaged approx. \$23,574/day down -8.8% w-o-w, with the Atlantic 
 | **Ultramax** | **63k** | 30.5 | 30.5 | 0.0% | 19.4 | 23.1 | - |
 | **Handysize** | **37K** | 26.0 | 26.0 | 0.0% | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Post-Panamax sector we had the sale of the "ASL JUPITER" (87,052dwt-blt '05, Japan), which was sold to Chinese buyers for a price in the region of \$13.15m.
 

@@ -152,17 +152,17 @@ Supramax 10TC averaged \$ 14,420/day down -3.85% w-o-w, while the Handysize 7TC 
 ## **Tankers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | OSGOOD | 108,936 | 2008 | SWS, China | MAN-B\&amp;W | 46,901 | DH | $ 40.0m | Middle Eastern |  |
-| MR2 | KALAMOS | 46,719 | 2004 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | 45,474 | DH | $17.8m | undisclosed | Zinc coated |
+| AFRA | OSGOOD | 108,936 | 2008 | SWS, China | MAN-B&W | 46,901 | DH | $ 40.0m | Middle Eastern |  |
+| MR2 | KALAMOS | 46,719 | 2004 | IWAGI ZOSEN, Japan | MAN-B&W | 45,474 | DH | $17.8m | undisclosed | Zinc coated |
 
 ## **Bulk Carriers**
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | MARAN PROSPERITY | 174,240 | 2006 | SWS, China | MAN-B\&amp;W | Oct-25 |  | $ 21.5m | Chinese | Scrubber fitted |
-| KMAX | ELSA S | 80,868 | 2015 | JMU, Japan | MAN-B\&amp;W | Aug-25 |  | $ 30.5m | Greek | Scrubber fitted, Eco |
-| SUPRA | SANIA | 57,011 | 2010 | QINGSHAN, China | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | $ 12.3m | Chinese |  |
-| HANDY | FLORIANA | 33,862 | 2012 | 21st CENTURY, S. Korea | MAN-B\&amp;W | Oct-27 | 4 X 30,7t CRANES | excess $ 14.0m | Greek |  |
-| HANDY | ISOLDA | 34,941 | 1999 | MITSUI, Japan | B\&amp;W | Apr-27 | 3 X 30t CRANES | high $ 5's | undisclosed |  |
+| CAPE | MARAN PROSPERITY | 174,240 | 2006 | SWS, China | MAN-B&W | Oct-25 |  | $ 21.5m | Chinese | Scrubber fitted |
+| KMAX | ELSA S | 80,868 | 2015 | JMU, Japan | MAN-B&W | Aug-25 |  | $ 30.5m | Greek | Scrubber fitted, Eco |
+| SUPRA | SANIA | 57,011 | 2010 | QINGSHAN, China | MAN-B&W | Oct-25 | 4 X 30t CRANES | $ 12.3m | Chinese |  |
+| HANDY | FLORIANA | 33,862 | 2012 | 21st CENTURY, S. Korea | MAN-B&W | Oct-27 | 4 X 30,7t CRANES | excess $ 14.0m | Greek |  |
+| HANDY | ISOLDA | 34,941 | 1999 | MITSUI, Japan | B&W | Apr-27 | 3 X 30t CRANES | high $ 5's | undisclosed |  |
 
 ---
 

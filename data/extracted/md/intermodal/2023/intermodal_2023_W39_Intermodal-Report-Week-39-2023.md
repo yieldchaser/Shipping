@@ -179,9 +179,9 @@ Supramax 10TC averaged \$ 14,482/day, up +0.41% w-o-w, while the Handysize 7TC a
 
 ## Secondhand Sales
 
-| Type | Name | Dwt | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | FRITZI N | 58,448 | 2009 | HYUNDAI, S. Korea | MAN-B\&W | Mar-24 | 80,676 | $ 63.0m | undisclosed |
+| Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | FRITZI N | 58,448 | 2009 | HYUNDAI, S. Korea | MAN-B\&W | Mar-24 | 80,676 | $ 63.0m | undisclosed | BWTS, Scrubber fitted |
 
 ---
 

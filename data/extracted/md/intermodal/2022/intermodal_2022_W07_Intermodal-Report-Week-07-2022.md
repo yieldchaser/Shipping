@@ -28,7 +28,7 @@ The story silver lining in the weak dry bulk and tanker newbuilding activity is 
 
 A mixed picture emerged in the dry bulk market with both Capesize and Panamax sectors ending up the week with discounts while the geared sizes noted another positive performance. The BDI today (22/02/2022) closed at 2,148 points, down by 180 points compared to previous Tuesday's closing (15/02/2022). The crude carrier market has faced another week of increasing pressure, with earnings performance still weighed down by excessive tonnage availability. The BDTI today (22/02/2022) closed at 715, an increase of 24 points, and the BCTI at 704, an increase of 20 points compared to previous Tuesday's (15/02/2022) levels.
 
-## Sale &amp; Purchase (Wet: Firmer / Dry: Firmer)
+## Sale & Purchase (Wet: Firmer / Dry: Firmer)
 
 Interest for second-hand tonnage remains vivid in the dry bulk sector while appetite for tanker units seems that gained some strength given the longer SnP list for the prior week. In the tanker sector, we had sale of the "RINEIA" (159,106dwt-blt '04, S. Korea), which was sold to Middle Eastern buyer, for a price in the region of \$18.75m. On the dry bulker side sector, we had the sale of the "MINERAL BELGIUM" (173,806dwt-blt '05, China), which was sold to Greek buyer, for a price in the region of \$15.8m.
 
@@ -129,9 +129,9 @@ VLCC T/C earnings averaged \$ -21,638/day, down - \$1,561/day w-o-w. The activit
 
 Suezmax T/C earnings averaged \$ -2,280/day, down - \$1,222/day w-o-w. Suezmax activity was in line with its largest counterpart, as limited cargoes flowed against large availability of open tonnage. Aframax T/C earnings averaged \$ 3,496/day, up + \$1,363/day w-o-w. From Thursday onwards, the Med market activity boosted sentiment up with TD19 business route rising by 6.13WS points w-o-w. The North European market witnessed quiet activity during the past days, while Caribs market continued to see a healthy volume of enquires with TD9 increasing by 13.44WS points over the past week.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the Suezmax sector we had sale of the "RINEIA" (159,106dwt-bl't '04, S. Korea), which was sold to Middle Eastern buyer, for a price in the region of \$18.75m.
 
@@ -198,7 +198,7 @@ Supramax 10TC averaged \$ 25,246/day, up +20.8% w-o-w while handysize 7TC averag
 | **Ultramax** | **63k** | 30.7 | 30.5 | **0.5%** | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 27.0 | 26.6 | **1.4%** | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "MINERAL BELGIUM" (173,806dwt-blt '05, China), which was sold to Greek buyer, for a price in the region of \$15.8m.
 
@@ -215,18 +215,18 @@ In the Supramax sector we had the sale of the "MANDARIN TRADER" (56,677dwt-blt '
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | STELLA HOPE | 180,007 | 2016 | DALIAN, China | MAN-B\&amp;W | Sep-26 |  | rgn $ 42.5m | UK based (Zodiac Maritime) | eco, BWTS fitted, on index-linked TC for 1+1 yrs |
-| CAPE | MINERAL BELGIUM | 173,806 | 2005 | SWS, China | MAN-B\&amp;W | Jun-22 |  | $ 15.8m | Greek |  |
-| PMAX | BONANZA | 73,613 | 2003 | JIANGNAN, China | MAN-B\&amp;W | Dec-23 |  | high $ 10.0m | Chinese | BWTS fitted, SS/DD due Jul 2022 |
+| CAPE | STELLA HOPE | 180,007 | 2016 | DALIAN, China | MAN-B&W | Sep-26 |  | rgn $ 42.5m | UK based (Zodiac Maritime) | eco, BWTS fitted, on index-linked TC for 1+1 yrs |
+| CAPE | MINERAL BELGIUM | 173,806 | 2005 | SWS, China | MAN-B&W | Jun-22 |  | $ 15.8m | Greek |  |
+| PMAX | BONANZA | 73,613 | 2003 | JIANGNAN, China | MAN-B&W | Dec-23 |  | high $ 10.0m | Chinese | BWTS fitted, SS/DD due Jul 2022 |
 | PMAX | LILY BREEZE | 74,744 | 1998 | NKK CORP, Japan | Sulzer | Jan-23 |  | $ 8.6m | undisclosed |  |
-| SUPRA | WP AMBITION | 55,865 | 2015 | MITSUI CHIBA, Japan | MAN-B\&amp;W | Mar-25 | 4 X 30t CRANES | high $ 25.0m | Turkish |  |
-| SUPRA | WP BRAVE | 58,627 | 2012 | SPP, S. Korea | MAN-B\&amp;W | Jul-22 | 4 X 30t CRANES | $ 18.0m | undisclosed |  |
-| SUPRA | MANDARIN TRADER | 56,677 | 2011 | Jiangsu Hantong, China | MAN-B\&amp;W | Jul-25 | 4 X 36t CRANES | $ 17.2m | Chinese | BWTS fitted |
+| SUPRA | WP AMBITION | 55,865 | 2015 | MITSUI CHIBA, Japan | MAN-B&W | Mar-25 | 4 X 30t CRANES | high $ 25.0m | Turkish |  |
+| SUPRA | WP BRAVE | 58,627 | 2012 | SPP, S. Korea | MAN-B&W | Jul-22 | 4 X 30t CRANES | $ 18.0m | undisclosed |  |
+| SUPRA | MANDARIN TRADER | 56,677 | 2011 | Jiangsu Hantong, China | MAN-B&W | Jul-25 | 4 X 36t CRANES | $ 17.2m | Chinese | BWTS fitted |
 | HANDY | WUHU | 39,182 | 2014 | CHENGXI, China | Wartsila | Jan-24 | 4 X 30t CRANES | $ 22.3m each | Italian (Nova Marine Carriers) | BWTS fitted |
 | HANDY | WUCHANG | 39,128 | 2013 | CHENGXI, China | Wartsila | Oct-23 | 4 X 30t CRANES | $ 22.3m each | Italian (Nova Marine Carriers) | BWTS fitted |
 | HANDY | WUCHOW | 39,090 | 2013 | CHENGXI, China | Wartsila | Dec-23 | 4 X 30t CRANES | $ 22.3m each | Italian (Nova Marine Carriers) | BWTS fitted |
-| HANDY | SUPERNOVA | 36,367 | 2012 | SHIKOKU, Japan | MAN-B\&amp;W | Jun-22 | 4 X 30,5t CRANES | $ 20.5m | Russian | BWTS &amp; scrubber fitter |
-| HANDY | TRAMONTANA | 28,351 | 2010 | SHIMANAMI, Japan | MAN-B\&amp;W | Aug-25 | 4 X 30,7t CRANES | $ 14.5m | Russian | BWTS fitted |
+| HANDY | SUPERNOVA | 36,367 | 2012 | SHIKOKU, Japan | MAN-B&W | Jun-22 | 4 X 30,5t CRANES | $ 20.5m | Russian | BWTS & scrubber fitter |
+| HANDY | TRAMONTANA | 28,351 | 2010 | SHIMANAMI, Japan | MAN-B&W | Aug-25 | 4 X 30,7t CRANES | $ 14.5m | Russian | BWTS fitted |
 | HANDY | EKATERINA | 31,764 | 1998 | HAKODATE, Japan | Mitsubishi | Aug-23 | 4 X 30,5t CRANES | $ 8.5m | Turkish |  |
 
 © Intermodal Research 22/02/2022 4
@@ -238,25 +238,25 @@ In the Supramax sector we had the sale of the "MANDARIN TRADER" (56,677dwt-blt '
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | RINEIA | 159,106 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-24 | DH | $ 18.75m | Middle Eastern |  |
-| AFRA | ORANGE STARS | 115,756 | 2011 | SAMSUNG, S. Korea | MAN-B\&amp;W | Sep-26 | DH | $ 28.5m | Norwegian | basis BB Back at Usd 10,000 p/d till end-2023/ear 2024 |
-| AFRA | PHOENIX HOPE | 105,585 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Nov-23 | DH | $ 18.25m | Greek (Chemnav) |  |
+| SUEZ | RINEIA | 159,106 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Mar-24 | DH | $ 18.75m | Middle Eastern |  |
+| AFRA | ORANGE STARS | 115,756 | 2011 | SAMSUNG, S. Korea | MAN-B&W | Sep-26 | DH | $ 28.5m | Norwegian | basis BB Back at Usd 10,000 p/d till end-2023/ear 2024 |
+| AFRA | PHOENIX HOPE | 105,585 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Nov-23 | DH | $ 18.25m | Greek (Chemnav) |  |
 | AFRA | MASTERA | 106,208 | 2003 | SUMITOMO, Japan | Wartsila | Jan-23 | DH | undisclosed | Indian (GMS) |  |
-| MR2 | ZHU JIANG | 50,192 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Apr-24 | DH | undisclosed | Greek | Judicial sale |
-| MR2 | OCEAN JUPITER | 50,314 | 2007 | SLS, S. Korea | MAN-B\&amp;W | Dec-22 | DH | undisclosed | Greek | Judicial sale |
-| MR1 | OCEAN WINTER | 41,370 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Nov-24 | DH | undisclosed | Greek | Judicial sale |
-| MR1 | OCEAN SPRING | 40,960 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Mar-24 | DH | undisclosed | Greek | Judicial sale |
+| MR2 | ZHU JIANG | 50,192 | 2009 | SLS, S. Korea | MAN-B&W | Apr-24 | DH | undisclosed | Greek | Judicial sale |
+| MR2 | OCEAN JUPITER | 50,314 | 2007 | SLS, S. Korea | MAN-B&W | Dec-22 | DH | undisclosed | Greek | Judicial sale |
+| MR1 | OCEAN WINTER | 41,370 | 2009 | SLS, S. Korea | MAN-B&W | Nov-24 | DH | undisclosed | Greek | Judicial sale |
+| MR1 | OCEAN SPRING | 40,960 | 2009 | SLS, S. Korea | MAN-B&W | Mar-24 | DH | undisclosed | Greek | Judicial sale |
 ## Bulk Carriers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | NAVIOS UTMOST | 8,208 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Jul-26 |  | $ 110.0m each | undisclosed | delivery 2H-2022 |
-| POST PMAX | NAVIOS UNITE | 8,208 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Apr-26 |  | $ 110.0m each | undisclosed | delivery 2H-2022 |
-| SUB PMAX | WINDSWEPT | 2,797 | 2010 | YANGFAN, China | MAN-B\&amp;W | Mar-25 |  | $ 52.0m | Chinese (Transfar Shipping) |  |
-| SUM | CAPE MAGNUS | 2,742 | 2008 | AKER MTW WERFT, GERMANY | MAN-B\&amp;W | Jan-23 |  | $ 53.0m | Taiwanese (Wan Hai Lines) |  |
-| FEEDER | OKEE ORTOLAN THETA | 1,049 | 2007 | DAE SUN, S. Korea | MAN-B\&amp;W | Apr-22 |  | $ 17.5m | Russian |  |
-| FEEDER | OKEE ORTOLAN ZETA | 1,043 | 2007 | DAE SUN, S. Korea | MAN-B\&amp;W | May-22 |  | $ 15.5m | Russian |  |
-| FEEDER | DIANA K | 642 | 1996 | DAE SUN, S. Korea | B\&amp;W | Mar-24 | 2 X 36t CRANES | low $ 4.0m | undisclosed |  |
+| POST PMAX | NAVIOS UTMOST | 8,208 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jul-26 |  | $ 110.0m each | undisclosed | delivery 2H-2022 |
+| POST PMAX | NAVIOS UNITE | 8,208 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Apr-26 |  | $ 110.0m each | undisclosed | delivery 2H-2022 |
+| SUB PMAX | WINDSWEPT | 2,797 | 2010 | YANGFAN, China | MAN-B&W | Mar-25 |  | $ 52.0m | Chinese (Transfar Shipping) |  |
+| SUM | CAPE MAGNUS | 2,742 | 2008 | AKER MTW WERFT, GERMANY | MAN-B&W | Jan-23 |  | $ 53.0m | Taiwanese (Wan Hai Lines) |  |
+| FEEDER | OKEE ORTOLAN THETA | 1,049 | 2007 | DAE SUN, S. Korea | MAN-B&W | Apr-22 |  | $ 17.5m | Russian |  |
+| FEEDER | OKEE ORTOLAN ZETA | 1,043 | 2007 | DAE SUN, S. Korea | MAN-B&W | May-22 |  | $ 15.5m | Russian |  |
+| FEEDER | DIANA K | 642 | 1996 | DAE SUN, S. Korea | B&W | Mar-24 | 2 X 36t CRANES | low $ 4.0m | undisclosed |  |
 
 © Intermodal Research 22/02/2022 5
 

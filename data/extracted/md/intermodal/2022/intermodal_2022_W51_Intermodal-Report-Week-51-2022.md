@@ -28,7 +28,7 @@ So for the New Year which is just around the corner, we will have new tanker ton
 
 During the last week of the year, the sentiment was weak as the Capesize sector did not manage to retain its gains with the rest of the sizes witnessing w-o-w declines in rates. The BDI today (27/12/2022) closed at 1,515 points, down by 81 points compared to previous Tuesday's closing (20/12/2022). Despite an overall downward pressure across all crude carrier's sectors, earnings are hovering at significantly high levels, while the redrawing of the traditional trading patterns is here to stay boosting ton-mile demand toward the next year. The BDTI today (27/12/2022) closed at 1,873, a decrease of 78 points and the BCTI at 2,135, an increase of 11 points compared to previous Tuesday's (20/12/2022) levels.
 
-## **Sale &amp; Purchase (Wet: Softer / Dry: Softer)**
+## **Sale & Purchase (Wet: Softer / Dry: Softer)**
 
 With only a handful of deals being materialized in the SnP realm, we assume that the owner's focus is on holiday break while given the uncertainty that prevails across both tanker and dry bulk markets we could see the volume of SnP deals remaining restrained during the first weeks of 2023. In the tanker sector, we had the sale of the "CRESCENT MOON" (150,581dwt-blt '04, Japan), which was sold to undisclosed buyers, for a price in the region of \$33.5m. On the dry bulker side sector, we had the sale of the "AQUAHOPE" (177,173dwt-blt '07, Japan), which was sold to Turkish buyers, for a price in the region of mid \$18.0m.
 
@@ -136,7 +136,7 @@ VLCC T/C earnings averaged \$ 33,686/day, down - \$5,715/day w-o-w and closed of
 
 Suezmax T/C earnings averaged \$ 91,425/day, down - \$19,671/day w-o-w. On the Aframax front, T/C earnings averaged \$ 79,249/day, down - \$15,710/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had the sale of the "CRESCENT MOON" (150,581dwt-blt '04, Japan), which was sold to undisclosed buyers, for a price in the region of \$33.5m.
 
@@ -203,9 +203,9 @@ Supramax 10TC averaged \$ 12,156/day, down - 4.94% w-o-w, while the Handysize 7T
 | **Ultramax** | **63k** | 28.0 | 28.9 | -3.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.0 | 24.5 | -2.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the Capesize sector we had the sale of the "AQUAHOPE" (177,173dwt-bl't '07, Japan), which was sold to Turkish buyers, for a price in the region of mid \$18.0m.
 
@@ -220,21 +220,21 @@ In the Supramax sector we had the sale of the "ANITA N" (56,868dwt-bl't '10, Chi
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | CRESCENT MOON | 150,581 | 2004 | UNIVERSAL, Japan | Sulzer | Oct-24 | DH | $ 33.5m | undisclosed | BWTS &amp; Scrubber fitted |
-| SMALL | JEY HOPE | 8,981 | 2008 | KWANGSUNG, S. Korea | MAN-B\&amp;W | Aug-27 | DH | $ 8.3m | Dubai based | BWTS fitted |
+| SUEZ | CRESCENT MOON | 150,581 | 2004 | UNIVERSAL, Japan | Sulzer | Oct-24 | DH | $ 33.5m | undisclosed | BWTS & Scrubber fitted |
+| SMALL | JEY HOPE | 8,981 | 2008 | KWANGSUNG, S. Korea | MAN-B&W | Aug-27 | DH | $ 8.3m | Dubai based | BWTS fitted |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | AQUAHOPE | 177,173 | 2007 | NAMURA, Japan | MAN-B\&amp;W | Apr-27 |  | mid $ 18.0m | Turkish | BWTS fitted |
-| PMAX | ACHILLES II | 75,785 | 2004 | SANOYAS, Japan | MAN-B\&amp;W | Jan-24 |  | $ 10.3m | undisclosed | BWTS fitted |
-| SUPRA | ANITA N | 56,868 | 2010 | JINLING, China | MAN-B\&amp;W | Feb-25 | 4 X 30t CRANES | $ 14.0m | undisclosed | BWTS fitted |
+| CAPE | AQUAHOPE | 177,173 | 2007 | NAMURA, Japan | MAN-B&W | Apr-27 |  | mid $ 18.0m | Turkish | BWTS fitted |
+| PMAX | ACHILLES II | 75,785 | 2004 | SANOYAS, Japan | MAN-B&W | Jan-24 |  | $ 10.3m | undisclosed | BWTS fitted |
+| SUPRA | ANITA N | 56,868 | 2010 | JINLING, China | MAN-B&W | Feb-25 | 4 X 30t CRANES | $ 14.0m | undisclosed | BWTS fitted |
 ## Secondhand Sales
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | GASCHEM AACHEN | 38,427 | 2003 | FINCANTIERI, Italy | Sulzer | Nov-23 | 36474 | rgn $ 22.5m | undisclosed |  |
-| LPG | BASTOGNE | 26,616 | 2002 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Jun-27 | 34861 | rgn $ 23.5m | undisclosed | BWTS fitted |
+| LPG | BASTOGNE | 26,616 | 2002 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jun-27 | 34861 | rgn $ 23.5m | undisclosed | BWTS fitted |
 
 © Intermodal Research 27/12/2022 4
 

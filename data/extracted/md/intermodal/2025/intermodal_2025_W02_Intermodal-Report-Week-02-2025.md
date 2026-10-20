@@ -149,18 +149,18 @@ Supramax 10TC averaged \$ 8,628/day down -6.53% w-o-w, while the Handysize 7TC a
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | ROLIN | 308,829 | 2005 | SAMSUNG, S. Korea | MAN-B\&amp;W | Oct-25 | DH | $ 31.0m | Chinese |
-| LR2 | SUVRETTA | 109,250 | 2008 | STX, S. Korea | MAN-B\&amp;W | Jun-28 | DH | $ 31.5m | Chinese |
-| AFRA | NISSOS DELOS | 115,691 | 2012 | SAMSUNG, S. Korea | MAN-B\&amp;W | Aug-27 | DH | $ 45.0m | Bangladeshi (MJL) |
+| VLCC | ROLIN | 308,829 | 2005 | SAMSUNG, S. Korea | MAN-B&W | Oct-25 | DH | $ 31.0m | Chinese |
+| LR2 | SUVRETTA | 109,250 | 2008 | STX, S. Korea | MAN-B&W | Jun-28 | DH | $ 31.5m | Chinese |
+| AFRA | NISSOS DELOS | 115,691 | 2012 | SAMSUNG, S. Korea | MAN-B&W | Aug-27 | DH | $ 45.0m | Bangladeshi (MJL) |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | SIKAMIA | 207,923 | 2008 | UNIVERSAL, Japan | MAN-B\&amp;W | Aug-28 |  | $ 29.0m | Singapore based |
-| PMAX | K. FAITH | 75,845 | 2002 | SANOYAS, Japan | MAN-B\&amp;W | Oct-27 |  | $ 6.3m | Chinese |
-| SUPRA | MY FAIR LADY | 50,450 | 2011 | OSHIMA, Japan | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | $ 15.0m | Far Eastern |
+| NEWCASTLEMAX | SIKAMIA | 207,923 | 2008 | UNIVERSAL, Japan | MAN-B&W | Aug-28 |  | $ 29.0m | Singapore based |
+| PMAX | K. FAITH | 75,845 | 2002 | SANOYAS, Japan | MAN-B&W | Oct-27 |  | $ 6.3m | Chinese |
+| SUPRA | MY FAIR LADY | 50,450 | 2011 | OSHIMA, Japan | MAN-B&W | Oct-25 | 4 X 30t CRANES | $ 15.0m | Far Eastern |
 | HMAX | HIBISCUS | 48,610 | 2002 | HAKODATE, Japan | Mitsubishi | Sep-27 | 4 X 30t CRANES | low $ 7.0m | Chinese |
-| HANDY | BRABUS | 28,355 | 2000 | TSUNEISHI CEBU, Philippines | B\&amp;W | Oct-25 | 4 X 30t CRANES | $ 4.2m | undisclosed |
+| HANDY | BRABUS | 28,355 | 2000 | TSUNEISHI CEBU, Philippines | B&W | Oct-25 | 4 X 30t CRANES | $ 4.2m | undisclosed |
 
 ---
 

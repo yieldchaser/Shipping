@@ -148,16 +148,16 @@ Supramax 10TC averaged \$ 14,812/day down -3.98% w-o-w, while the Handysize 7TC 
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | SPARKLE | 45,744 | 2004 | MINAMI-NIPPON, Japan | B\&amp;W | Aug-24 | DH | $ 14.5m | undisclosed |
+| MR2 | SPARKLE | 45,744 | 2004 | MINAMI-NIPPON, Japan | B&W | Aug-24 | DH | $ 14.5m | undisclosed |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | BERGE BOBOTOV | 207,986 | 2021 | BOHAI, China | WinGD | Jul-26 |  | $ 75.0m | Greek | Eco |
-| SUPRA | REGO | 58,729 | 2009 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Aug-29 | 4 X 30t CRANES | $ 16.4m | Chinese |  |
-| HANDY | MAESTRO EMERALD | 39,830 | 2020 | SAIKI, Japan | MAN-B\&amp;W | Jun-25 | 4 X 30t CRANES | $ 30.0m | Turkish | Eco |
-| HANDY | SPICA HARMONY | 36,908 | 2019 | OSHIMA, Japan | MAN-B\&amp;W | Nov-24 | 4 X 30t CRANES | $ 28.5m | undisclosed | Eco |
-| HANDY | BAMBOO STAR | 37,609 | 2019 | MINAMI-NIPPON, Japan | MAN-B\&amp;W | Dec-24 | 4 X 30t CRANES | region $ 28.0m | Turkish | Eco |
+| SUPRA | REGO | 58,729 | 2009 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Aug-29 | 4 X 30t CRANES | $ 16.4m | Chinese |  |
+| HANDY | MAESTRO EMERALD | 39,830 | 2020 | SAIKI, Japan | MAN-B&W | Jun-25 | 4 X 30t CRANES | $ 30.0m | Turkish | Eco |
+| HANDY | SPICA HARMONY | 36,908 | 2019 | OSHIMA, Japan | MAN-B&W | Nov-24 | 4 X 30t CRANES | $ 28.5m | undisclosed | Eco |
+| HANDY | BAMBOO STAR | 37,609 | 2019 | MINAMI-NIPPON, Japan | MAN-B&W | Dec-24 | 4 X 30t CRANES | region $ 28.0m | Turkish | Eco |
 | HANDY | HG DARWIN | 31,642 | 2002 | SAIKI, Japan | Mitsubishi | Apr-27 | 4 X 30t CRANES | $ 8.2m | undisclosed | OHBS |
 | HANDY | UNIVERSE PROSPERITY | 28,514 | 2001 | KANDA, Japan | Mitsubishi | May-26 | 4 X 30,5t CRANES | $ 6.28m | undisclosed | via commercial auction |
 

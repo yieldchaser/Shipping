@@ -151,19 +151,19 @@ Supramax 10TC averaged \$ 15,150/day, up +10.37% w-o-w, while the Handysize 7TC 
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | JESSICA D | 300,976 | 2004 | IHI MARINE, Japan | Sulzer | Jul-24 | DH |
-| AFRA | S-TREASURE | 106,061 | 2005 | HYUNDAI SAMHO, S. Korea | B\&amp;W | Sep-25 | DH |
-| LR1 | LEON APOLLON | 74,999 | 2009 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&amp;W | Jul-24 | DH |
+| AFRA | S-TREASURE | 106,061 | 2005 | HYUNDAI SAMHO, S. Korea | B&W | Sep-25 | DH |
+| LR1 | LEON APOLLON | 74,999 | 2009 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B&W | Jul-24 | DH |
 | SMALL | BDP SPIRIT | 15,203 | 2009 | GEMI YAPIM, Turkey | MaK | Mar-24 | DH |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | HERUN CHINA | 181,056 | 2017 | SHANGHAI WAIGAOQIAO, China | MAN-B\&amp;W | Jan-27 |  | $ 42.1m | Union Maritime | BWTS fitted, eco, TC min 31 Mar/max 30 June '24 |
-| SUPRA | ZHE HAI 169 | 57,000 | 2011 | CHINA SHIPPING, China | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | $ 11.7m | Chinese | Online Auction |
+| CAPE | HERUN CHINA | 181,056 | 2017 | SHANGHAI WAIGAOQIAO, China | MAN-B&W | Jan-27 |  | $ 42.1m | Union Maritime | BWTS fitted, eco, TC min 31 Mar/max 30 June '24 |
+| SUPRA | ZHE HAI 169 | 57,000 | 2011 | CHINA SHIPPING, China | MAN-B&W | Aug-26 | 4 X 30t CRANES | $ 11.7m | Chinese | Online Auction |
 | SUPRA | ERMIONE | 56,557 | 2008 | IHI, Japan | Wartsila | Sep-28 | 4 X 35t CRANES | $ 14.0m | Chinese | BWTS fitted |
-| HANDY | ATLANTIC ALTAMIRA | 43,368 | 2017 | QINGSHAN, China | MAN-B\&amp;W | Jul-27 | 4 X 30t CRANES | $ 23.0m | South Koreans | BWTS fitted, ECO |
-| HANDY | VULLY | 35,697 | 2011 | SHINAN, S. Korea | MAN-B\&amp;W | Jun-26 | 4 X 30t CRANES | $ 13.0m | Chinese | BWTS fitted |
-| HANDY | PAN GLORIS | 32,975 | 2010 | Taizhou Maple Leaf Shbldg | MAN-B\&amp;W | Jan-25 | 4 X 30,5t CRANES | $ 9.5m | Syrian | BWTS fitted |
+| HANDY | ATLANTIC ALTAMIRA | 43,368 | 2017 | QINGSHAN, China | MAN-B&W | Jul-27 | 4 X 30t CRANES | $ 23.0m | South Koreans | BWTS fitted, ECO |
+| HANDY | VULLY | 35,697 | 2011 | SHINAN, S. Korea | MAN-B&W | Jun-26 | 4 X 30t CRANES | $ 13.0m | Chinese | BWTS fitted |
+| HANDY | PAN GLORIS | 32,975 | 2010 | Taizhou Maple Leaf Shbldg | MAN-B&W | Jan-25 | 4 X 30,5t CRANES | $ 9.5m | Syrian | BWTS fitted |
 
 ---
 
@@ -204,7 +204,7 @@ Kamsarmax and two Ultramax vessels at Nantong Xiangyu, with the Kamsarmaxes pric
 
 ## Demolition Market
 
-Last week was very quiet, with subdued activity in the major scrapping areas. Steel prices in India have been decreasing despite the ongoing demand for steel, which is primarily driven by the construction industry. Despite expectations for a post-Diwali uptick, that hasn't come to fruition, and scrappers seem unwilling to make moves as the end of the year approaches. However, in a favorable development, the EU will include certain Indian scrapyards on their approved demolition facilities list, which is good news for the local industry. In Pakistan, the cost of local steel has decreased and recyclers are working at a slower pace due to L/C issues. The country has ratified the HKC, which allows breakers until 2025 to improve and start offering green scrapping. Pakistan will receive approximately £25 billion from the UAE, due to bilateral agreements, which will boost the local economy. In Bangladesh, scrap metal dealers are currently inactive due to a lack of new L/C openings and the shortage of US dollars. They are awaiting the elections on 7th January to evaluate their strategies and determine a way forward. Turkey's markets are strong, with an increase in both locally-produced and imported steel. Growth in Q3 was at 5.9%, exceeding expectations, while, S&amp;P Global set their outlook at positive. Despite all that, there is still no tonnage available to scrappers.
+Last week was very quiet, with subdued activity in the major scrapping areas. Steel prices in India have been decreasing despite the ongoing demand for steel, which is primarily driven by the construction industry. Despite expectations for a post-Diwali uptick, that hasn't come to fruition, and scrappers seem unwilling to make moves as the end of the year approaches. However, in a favorable development, the EU will include certain Indian scrapyards on their approved demolition facilities list, which is good news for the local industry. In Pakistan, the cost of local steel has decreased and recyclers are working at a slower pace due to L/C issues. The country has ratified the HKC, which allows breakers until 2025 to improve and start offering green scrapping. Pakistan will receive approximately £25 billion from the UAE, due to bilateral agreements, which will boost the local economy. In Bangladesh, scrap metal dealers are currently inactive due to a lack of new L/C openings and the shortage of US dollars. They are awaiting the elections on 7th January to evaluate their strategies and determine a way forward. Turkey's markets are strong, with an increase in both locally-produced and imported steel. Growth in Q3 was at 5.9%, exceeding expectations, while, S&P Global set their outlook at positive. Despite all that, there is still no tonnage available to scrappers.
 
 ## Indicative Demolition Prices ($/ldt)
 | Markets | 01/12/23 | 24/11/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |

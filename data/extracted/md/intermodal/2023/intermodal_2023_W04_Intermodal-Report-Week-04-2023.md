@@ -20,13 +20,13 @@ In 2023, the dynamics established in 2022 are to persist with Europe maintaining
 
 And while demand shows signs of recovery, limited supply growth will keep the supply/demand balance tight through 2023. Supply growth is projected to be a marginal 3.4% which will be driven by recoveries from plant outages rather than new capacity. In the US, gas production will remain strong, however, it will be constrained by limited LNG export capacity additions over the course of the year. Meanwhile, an additional 56m tons of project capacity approvals are expected within 2023 mainly on behalf of Qatar and the US. These two major producing countries are set to drive a gigantic global expansion program. Overall, supply growth will be limited until 2025, but between 2026-28 we foresee an average supply growth of 5.7%, based on post-final investment decisions. The key driver behind this projected growth is pressure from regulators and investors for cleaner LNG across the value chain which will buoy long-term demand.
 
-Seaborne-wise, in terms of vessel supply, according to our preliminary data, in 2023, a total number of 144 new vessels will enter the LNG trade which is anticipated to match the new liquefaction capacity that will be added this year of more than 15m tons. Ton-mile growth is forecast more than 3.5%, underpinned by the resumption of exports from the Freeport LNG Terminal. Moreover, the scheduled dry-docking of several older vessels within the year will limit vessel availability and thus, underpin freight rates. As for IMO's CII regulation which came into force in Jan-23 and will be reinforced by 2026, this will act supportively as it will prompt vessels to slow steam and thus, increase ton days. Lastly, S&amp;P activity seems to gain momentum, as in 2022 a total of 43 vessels exchanged hands, according to our database, while in 2021 only 8 vessels have been reportedly sold. As the short-term and spot market continues to develop, more independent owners will be prompted to enter the trade in 2023, and we could expect to see more second-hand sales being reported throughout the year.
+Seaborne-wise, in terms of vessel supply, according to our preliminary data, in 2023, a total number of 144 new vessels will enter the LNG trade which is anticipated to match the new liquefaction capacity that will be added this year of more than 15m tons. Ton-mile growth is forecast more than 3.5%, underpinned by the resumption of exports from the Freeport LNG Terminal. Moreover, the scheduled dry-docking of several older vessels within the year will limit vessel availability and thus, underpin freight rates. As for IMO's CII regulation which came into force in Jan-23 and will be reinforced by 2026, this will act supportively as it will prompt vessels to slow steam and thus, increase ton days. Lastly, S&P activity seems to gain momentum, as in 2022 a total of 43 vessels exchanged hands, according to our database, while in 2021 only 8 vessels have been reportedly sold. As the short-term and spot market continues to develop, more independent owners will be prompted to enter the trade in 2023, and we could expect to see more second-hand sales being reported throughout the year.
 
 ## **Chartering (Wet: Softer / Dry: Softer)**
 
 The dry bulk market noted another weekly decline on the back of a further weakening of the Capesize market. The BDI today (31/01/2023) closed at 681 points, down by 40 points compared to previous Tuesday's closing (24/01/2023). Sentiment in the tanker market has been overall bearish w-o-w mainly in the wake of Lunar New Year festivities which kept the East market rather muted. The BDTI today (31/01/2023) closed at 1,275, a decrease of 109 points and the BCTI at 643, a decrease of 57 points compared to previous Tuesday's (24/01/2023) levels.
 
-## **Sale &amp; Purchase (Wet: Softer / Dry: Softer)**
+## **Sale & Purchase (Wet: Softer / Dry: Softer)**
 
 Activity in the SnP realm remained significantly weak with only one materialized bulk sale being recorded while in the case of the tanker deals, older vessels attracted owners' interest yet with volume at a low level as well. In the tanker sector, we had the sale of the "AMOROZA" (159,168dwt-blt '01, S. Korea), which was sold to undisclosed buyers, for a price in the region of excess \$27.0m. On the dry bulker side sector, we had the sale of the "BONITA" (58,105dwt-blt '10, China), which was sold to Greek buyers, for a price in the region of \$15.8m.
 
@@ -128,7 +128,7 @@ VLCC T/C earnings averaged \$ 10,437/day, down - \$44/day w-o-w and closed off t
 
 Suezmax T/C earnings averaged \$ 82,423/day, down - \$3,864/day w-o-w. On the Aframax front, T/C earnings averaged \$ 61,988/day, down - \$10,079/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had the sale of the "AMOROZA" (159,168dwt-blt '01, S. Korea), which was sold to undisclosed buyers, for a price in the region of excess \$27.0m.
 
@@ -191,7 +191,7 @@ Supramax 10TC averaged \$ 7,121/day, down - 1.84% w-o-w, while the Handysize 7TC
 | **Ultramax** | **63k** | 28.0 | 28.0 | 0.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.0 | 24.0 | 0.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Supramax sector we had the sale of the "BONITA" (58,105dwt-blt '10, China), which was sold to Greek buyers, for a price in the region of \$15.8m.
 
@@ -204,25 +204,25 @@ In the Supramax sector we had the sale of the "BONITA" (58,105dwt-blt '10, China
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | AMOROZA | 159,168 | 2001 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Dec-25 | DH | excess $27.0m | undisclosed | BWTS fitted |
-| AFRA | MARATHON | 105,042 | 2005 | HYUNDAI SAMHO, S. Korea | B\&amp;W | Jan-25 | DH | low $ 30.0's | Indonesian (Buana Lintas Lautan) | Ice 1C |
-| MR2 | HIGH EXPLORER | 49,996 | 2018 | ONOMICHI, Japan | MAN-B\&amp;W | May-23 | DH | $ 30.0m | Italian (D' Amico) | purchase option exercised |
-| MR2 | HIGH MERCURY | 51,501 | 2008 | STX, S. Korea | MAN-B\&amp;W | Jul-23 | DH | $ 20.6m | European |  |
-| MR2 | ATLANTICA BREEZE | 46,846 | 2007 | SUNGDONG, S. Korea | MAN-B\&amp;W | Sep-27 | DH | region $ 20.0m | Indian (Gatik) | BWTS fitted |
-| MR2 | PROODOS | 47,120 | 2005 | STX, S. Korea | MAN-B\&amp;W | Jan-25 | DH | high $ 18.0m | European | BWTS fitted |
+| SUEZ | AMOROZA | 159,168 | 2001 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Dec-25 | DH | excess $27.0m | undisclosed | BWTS fitted |
+| AFRA | MARATHON | 105,042 | 2005 | HYUNDAI SAMHO, S. Korea | B&W | Jan-25 | DH | low $ 30.0's | Indonesian (Buana Lintas Lautan) | Ice 1C |
+| MR2 | HIGH EXPLORER | 49,996 | 2018 | ONOMICHI, Japan | MAN-B&W | May-23 | DH | $ 30.0m | Italian (D' Amico) | purchase option exercised |
+| MR2 | HIGH MERCURY | 51,501 | 2008 | STX, S. Korea | MAN-B&W | Jul-23 | DH | $ 20.6m | European |  |
+| MR2 | ATLANTICA BREEZE | 46,846 | 2007 | SUNGDONG, S. Korea | MAN-B&W | Sep-27 | DH | region $ 20.0m | Indian (Gatik) | BWTS fitted |
+| MR2 | PROODOS | 47,120 | 2005 | STX, S. Korea | MAN-B&W | Jan-25 | DH | high $ 18.0m | European | BWTS fitted |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUPRA | BONITA | 58,105 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Sep-25 | 4 X 30t CRANES | $ 15.8m | Greek | BWTS fitted |
+| SUPRA | BONITA | 58,105 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Sep-25 | 4 X 30t CRANES | $ 15.8m | Greek | BWTS fitted |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | SOVEREIGN MAERSK | 9,578 | 1997 | ODENSE, Denmark | B\&amp;W | Jun-27 |  | undisclosed | Swiss based (MSC) |
-| PMAX | AS CARINTHIA | 2,824 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Apr-23 |  | $ 7.5m | Chinese |
-| FEEDER | SITC BANGKOK | 1,620 | 2003 | IMABARI, Japan | B\&amp;W | Jul-23 |  | $ 12.25m | Bangladeshi (HR lines) |
-| FEEDER | KUO LUNG | 1,405 | 1998 | KEELUNG, Taiwan | B\&amp;W | Feb-23 |  | $ 3.25m | undisclosed |
+| POST PMAX | SOVEREIGN MAERSK | 9,578 | 1997 | ODENSE, Denmark | B&W | Jun-27 |  | undisclosed | Swiss based (MSC) |
+| PMAX | AS CARINTHIA | 2,824 | 2003 | HYUNDAI MIPO, S. Korea | B&W | Apr-23 |  | $ 7.5m | Chinese |
+| FEEDER | SITC BANGKOK | 1,620 | 2003 | IMABARI, Japan | B&W | Jul-23 |  | $ 12.25m | Bangladeshi (HR lines) |
+| FEEDER | KUO LUNG | 1,405 | 1998 | KEELUNG, Taiwan | B&W | Feb-23 |  | $ 3.25m | undisclosed |
 | FEEDER | DONGJIN HIGHNESS | 704 | 2007 | YANGFAN, China | MaK | Aug-27 |  | $ 5.5m | Chinese |
 
 © Intermodal Research 31/01/2023 4

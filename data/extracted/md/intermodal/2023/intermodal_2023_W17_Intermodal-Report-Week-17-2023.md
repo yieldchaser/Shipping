@@ -31,7 +31,7 @@ It is worth monitoring India for the remainder of 2023 to see if its crude impor
 
 A mixed picture arose during the last week for the dry bulk sectors with Capesize performance adding support against the weaker activity that emerged from the rest of the sizes. The BDI on Friday (28/04/2023) closed at 1,576 points, up by 72 points compared to previous Friday's closing (21/04/2023). The crude carriers' rates have moved south for another week. The BDTI on Friday (28/04/2023) closed at 1,046, a decrease of 100 points and the BCTI at 752, a decrease of 216 points compared to previous Friday's (21/04/2023) levels.
 
-## Sale &amp; Purchase (Wet: *Softer* / Dry: **Softer**)
+## Sale & Purchase (Wet: *Softer* / Dry: **Softer**)
 
 The secondhand market was softer this week across all sectors. Stainless steel small tankers attracted some interest while in the case of dry bulk units, only a handful of orders emerged for units above 10 years old. In the tanker sector, we had the sale of the "PETRONIA PACIFIC" (49,884dwt-blt '20, S. Korea) which was sold to South Korean owner HMM, for a price in the region of \$43.0m. On the dry bulker side sector, we had the sale of the "C H S SPLENDOR" (177,000dwt-blt '06, Japan), which was sold to UAE based buyers, for a price in the region of \$16.3m.
 
@@ -129,9 +129,9 @@ VLCC T/C earnings averaged \$ 28,548/day, down -\$10,736/day w-o-w, and closed o
 
 Suezmax T/C earnings averaged \$ 45,772/day, down - \$8,462/day w-o-w. On the Aframax front, T/C earnings averaged \$ 38,486/day, down - \$6,033/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the MR2 sector we had the sale of the “PETRONIA PACIFIC” (49,884dwt-blt '20, S. Korea) which was sold to South Korean owner HMM, for a price in the region of \$43.0m.
 
@@ -194,7 +194,7 @@ Supramax 10TC averaged \$ 13,158/day, up +4.18% w-o-w, while the Handysize 7TC a
 | **Ultramax** **63k** | 31.4 | 30.0 | **4.6%** | 31.5 | 26.4 | 19.4 |
 | **Handysize** **37K** | 26.0 | 25.4 | **2.4%** | 27.2 | 21.4 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "C H S SPLENDOR" (177,000dwt-blt '06, Japan), which was sold to UAE based buyers, for a price in the region of \$16.3m.
 
@@ -209,31 +209,31 @@ In the Panamax sector we had the sale of the "PALMA BULKER" (75,843dwt-blt '09, 
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | PETRONIA PACIFIC | 49,884 | 2020 | STX, S. Korea | MAN-B\&amp;W | Sep-25 | DH | $ 43.0m | South Korean (HMM) | Scrubber fitted |
-| J19 | GT STAR | 19,956 | 2012 | USUKI, Japan | MAN-B\&amp;W | Jan-27 | DH | $ 21.0m | Chinese | BWTS fitted, StSt |
-| J19 | BUNGA LILAC | 19,992 | 2011 | FUKUOKA, Japan | MAN-B\&amp;W | Apr-26 | DH | $ 21.9m | Chinese | BWTS fitted, StSt |
-| SMALL | MAREX NOA | 12,479 | 2015 | KURINOURA DOCKYARD CO, Japan | MAN-B\&amp;W | Apr-25 | DH | undisclosed | Danish (Uni-Tankers) | BWTS fitted, StSt |
+| MR2 | PETRONIA PACIFIC | 49,884 | 2020 | STX, S. Korea | MAN-B&W | Sep-25 | DH | $ 43.0m | South Korean (HMM) | Scrubber fitted |
+| J19 | GT STAR | 19,956 | 2012 | USUKI, Japan | MAN-B&W | Jan-27 | DH | $ 21.0m | Chinese | BWTS fitted, StSt |
+| J19 | BUNGA LILAC | 19,992 | 2011 | FUKUOKA, Japan | MAN-B&W | Apr-26 | DH | $ 21.9m | Chinese | BWTS fitted, StSt |
+| SMALL | MAREX NOA | 12,479 | 2015 | KURINOURA DOCKYARD CO, Japan | MAN-B&W | Apr-25 | DH | undisclosed | Danish (Uni-Tankers) | BWTS fitted, StSt |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | C H S SPLENDOR | 170,000 | 2006 | IHI, Japan | Sulzer | Jan-26 |  | $ 16.3m | UAE based | BWTS fitted |
-| PMAX | PALMA BULKER | 75,843 | 2009 | TSUNEISHI, Japan | MAN-B\&amp;W | Jan-24 |  | $ 18.0m | Greek (Silk Searoad) | BWTS fitted |
-| SUPRA | SUPER TRADER | 56,868 | 2011 | JIANGSU HANTONG, China | MAN-B\&amp;W | Jan-26 | 4 X 35t CRANES | above $ 15.0m | undisclosed | BWTS fitted |
-| SUPRA | OREN | 56,877 | 2010 | JIANGDONG, China | MAN-B\&amp;W | Sep-25 | 4 X 30t CRANES | low $ 13.0m | Chinese | BWTS fitted |
+| PMAX | PALMA BULKER | 75,843 | 2009 | TSUNEISHI, Japan | MAN-B&W | Jan-24 |  | $ 18.0m | Greek (Silk Searoad) | BWTS fitted |
+| SUPRA | SUPER TRADER | 56,868 | 2011 | JIANGSU HANTONG, China | MAN-B&W | Jan-26 | 4 X 35t CRANES | above $ 15.0m | undisclosed | BWTS fitted |
+| SUPRA | OREN | 56,877 | 2010 | JIANGDONG, China | MAN-B&W | Sep-25 | 4 X 30t CRANES | low $ 13.0m | Chinese | BWTS fitted |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | UASC ZAMZAM | 9,034 | 2014 | HYUNDAI, S. Korea | Wartsila | Sep-24 |  | $ 71.0m | undisclosed | eco |
-| PMAX | CO NAGOYA | 4,506 | 2008 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jul-26 |  | $ 18.0m | Swiss-based |  |
-| FEEDER | NEUBURG | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Mar-25 | 2 X 45t CRANES | $ 14.0m | undisclosed | BWTS fitted |
-| FEEDER | SITC JAKARTA | 1,620 | 2003 | IMABARI, Japan | B\&amp;W | May-23 |  | undisclosed | undisclosed |  |
+| PMAX | CO NAGOYA | 4,506 | 2008 | SAMSUNG, S. Korea | MAN-B&W | Jul-26 |  | $ 18.0m | Swiss-based |  |
+| FEEDER | NEUBURG | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B&W | Mar-25 | 2 X 45t CRANES | $ 14.0m | undisclosed | BWTS fitted |
+| FEEDER | SITC JAKARTA | 1,620 | 2003 | IMABARI, Japan | B&W | May-23 |  | undisclosed | undisclosed |  |
 ## Secondhand Sales
 
 | MPP/General Cargo Name | MPP/General Cargo Dwt | MPP/General Cargo Built | MPP/General Cargo Yard | MPP/General Cargo M/E | MPP/General Cargo SS due | MPP/General Cargo Gear | MPP/General Cargo Price | MPP/General Cargo Buyers | MPP/General Cargo Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| STONEWELL UNITY | 33,217 | 2012 | OSHIMA, Japan | MAN-B\&amp;W | Apr-27 | 4 X 60t CRANES | $ 18.0m | US based (Atlantic Ro-Ro Carriers) | BWTS fitted |
+| STONEWELL UNITY | 33,217 | 2012 | OSHIMA, Japan | MAN-B&W | Apr-27 | 4 X 60t CRANES | $ 18.0m | US based (Atlantic Ro-Ro Carriers) | BWTS fitted |
 ## Secondhand Sales
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Comments |

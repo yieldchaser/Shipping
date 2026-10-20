@@ -155,19 +155,19 @@ Supramax 10TC averaged \$ 14,208/day down -5.24% w-o-w, while the Handysize 7TC 
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR | STOLT SISTO | 46,011 | 2010 | SLS, S. Korea | MAN-B\&amp;W | Mar-25 | DH | $ 28.5m | Chinese |
+| MR | STOLT SISTO | 46,011 | 2010 | SLS, S. Korea | MAN-B&W | Mar-25 | DH | $ 28.5m | Chinese |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | CAPE KEYSTONE | 179,250 | 2011 | HYUNDAI, S. Korea | MAN-B\&amp;W | Dec-26 |  | $ 32.5m | Chinese |  |
-| SUPRA | SEACON 8 | 57,000 | 2012 | NINGBO BEILUN, China | MAN-B\&amp;W | Mar-27 | 4 X 30t CRANES | $ 14.1m | Chinese | via commercial auction |
-| SUPRA | NEO | 58,110 | 2011 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | May-26 | 4 X 30t CRANES |  | Monaco based |  |
+| CAPE | CAPE KEYSTONE | 179,250 | 2011 | HYUNDAI, S. Korea | MAN-B&W | Dec-26 |  | $ 32.5m | Chinese |  |
+| SUPRA | SEACON 8 | 57,000 | 2012 | NINGBO BEILUN, China | MAN-B&W | Mar-27 | 4 X 30t CRANES | $ 14.1m | Chinese | via commercial auction |
+| SUPRA | NEO | 58,110 | 2011 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | May-26 | 4 X 30t CRANES |  | Monaco based |  |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | NORDOCELOT | 1,756 | 2014 | OUHUA, China | MAN-B\&amp;W | Sep-24 |  | $ 15.0m | German |
+| FEEDER | NORDOCELOT | 1,756 | 2014 | OUHUA, China | MAN-B&W | Sep-24 |  | $ 15.0m | German |
 
 ---
 

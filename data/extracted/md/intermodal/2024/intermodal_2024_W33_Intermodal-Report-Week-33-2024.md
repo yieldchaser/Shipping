@@ -33,7 +33,7 @@ It is clear that India is still a very small player in the shipbuilding industry
 | Cochin Shipyard | 29 | Offshore, Tugs, Bulkers | 84 |
 | Chowgule SB | 26 | Gcargo and MPP vessels &lt;6k dwt | 76 |
 | Mazagon Dock | 6 | Tugs, Dredgers, Gcargo and Offshore | 28 |
-| Garden Reach SB | 5 | General Cargo &amp; Offshore | 16 |
+| Garden Reach SB | 5 | General Cargo & Offshore | 16 |
 
 ---
 
@@ -165,30 +165,30 @@ Supramax 10TC averaged \$ 13,604/day down -1.14% w-o-w, while the Handysize 7TC 
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | PNS SERENA | 300,398 | 2006 | UNIVERSAL, Japan | MAN-B\&amp;W | Oct-26 | DH | excess $ 40.0m | Chinese |
-| HANDY | GALL | 28,310 | 2018 | WUHU SHIPYARD, China | MAN-B\&amp;W | May-28 | DH | $ 26.0m | Turkish |
-| SMALL | SAMBONG HERA | 11,416 | 2018 | STX, S. Korea | MAN-B\&amp;W | Nov-28 | DH | $ 23.8m | undisclosed |
+| VLCC | PNS SERENA | 300,398 | 2006 | UNIVERSAL, Japan | MAN-B&W | Oct-26 | DH | excess $ 40.0m | Chinese |
+| HANDY | GALL | 28,310 | 2018 | WUHU SHIPYARD, China | MAN-B&W | May-28 | DH | $ 26.0m | Turkish |
+| SMALL | SAMBONG HERA | 11,416 | 2018 | STX, S. Korea | MAN-B&W | Nov-28 | DH | $ 23.8m | undisclosed |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | CORONA KINGDOM | 88,233 | 2004 | IMABARI, Japan | B\&amp;W | Nov-26 |  | mid high $ 11.0m | Chinese |  |
+| POST PMAX | CORONA KINGDOM | 88,233 | 2004 | IMABARI, Japan | B&W | Nov-26 |  | mid high $ 11.0m | Chinese |  |
 | POST PMAX | NAVIOS APOLLON I | 87,052 | 2005 | IHI, Japan | Sulzer | Jul-25 |  | $ 13.0m | undisclosed |  |
-| KMAX | ROSCO POPLAR | 82,331 | 2008 | OSHIMA, Japan | MAN-B\&amp;W | Aug-28 |  | $ 17.6m | undisclosed |  |
-| PMAX | WU ZHOU 6 | 75,981 | 2013 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Mar-28 |  | $ 18.5m | undisclosed |  |
-| PMAX | SEACON 9 | 74,844 | 2012 | NINGBO BEILUN, China | MAN-B\&amp;W | Jun-26 |  | $ 14.71m | Chinese | Chinese online bidding platform |
-| UMAX | SEACON ATHENS | 63,290 | 2019 | NANTONG XIANGYU, China | MAN-B\&amp;W | Jul-29 | 4 X 35t CRANES | $ 32.1m | Chinese (Shenxin Ship Leasing) | Eco |
-| UMAX | GREAT SPRING | 61,438 | 2017 | DACKS, China | MAN-B\&amp;W | Jun-27 | 4 X 30,5t CRANES | $ 27.8m | Chinese | Eco, Chinese online bidding platform |
+| KMAX | ROSCO POPLAR | 82,331 | 2008 | OSHIMA, Japan | MAN-B&W | Aug-28 |  | $ 17.6m | undisclosed |  |
+| PMAX | WU ZHOU 6 | 75,981 | 2013 | HUDONG-ZHONGHUA, China | MAN-B&W | Mar-28 |  | $ 18.5m | undisclosed |  |
+| PMAX | SEACON 9 | 74,844 | 2012 | NINGBO BEILUN, China | MAN-B&W | Jun-26 |  | $ 14.71m | Chinese | Chinese online bidding platform |
+| UMAX | SEACON ATHENS | 63,290 | 2019 | NANTONG XIANGYU, China | MAN-B&W | Jul-29 | 4 X 35t CRANES | $ 32.1m | Chinese (Shenxin Ship Leasing) | Eco |
+| UMAX | GREAT SPRING | 61,438 | 2017 | DACKS, China | MAN-B&W | Jun-27 | 4 X 30,5t CRANES | $ 27.8m | Chinese | Eco, Chinese online bidding platform |
 | HANDY | EFFICIENCY OL | 37,130 | 2010 | SAIKI, Japan | Mitsubishi | Sep-25 | 4 X 30t CRANES | low mid $ 15.0m | undisclosed | OHBS |
 | HANDY | VIGOR SW | 32,228 | 2009 | KANDA, Japan | Mitsubishi | May-29 | 4 X 30,5t CRANES | xs $ 13.0m | Chinese | OHBS |
-| HANDY | CS CAPRICE | 30,465 | 2010 | TSUJI, China | MAN-B\&amp;W | Mar-25 | 4 X 30t CRANES | high $ 10.0m | undisclosed |  |
+| HANDY | CS CAPRICE | 30,465 | 2010 | TSUJI, China | MAN-B&W | Mar-25 | 4 X 30t CRANES | high $ 10.0m | undisclosed |  |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | KMARIN ATLANTICA | 4,622 | 2013 | HYUNDAI SAMHO, S. Korea | Wartsila | Jun-28 |  | $ 53.0m each | undisclosed |
 | PMAX | KMARIN AZUR | 4,622 | 2013 | HYUNDAI SAMHO, S. Korea | Wartsila | May-28 |  | $ 53.0m each | undisclosed |
-| FEEDER | AS PAOLA | 2,478 | 2005 | AKER MTW WERFT, Germany | B\&amp;W | Jul-25 | 3 X 45t CRANES | $ 20.5m | Korean (HMM) |
+| FEEDER | AS PAOLA | 2,478 | 2005 | AKER MTW WERFT, Germany | B&W | Jul-25 | 3 X 45t CRANES | $ 20.5m | Korean (HMM) |
 | FEEDER | XUTRA BHUM | 2,378 | 2005 | MITSUBISHI, Japan | Mitsubishi | Aug-25 |  | $ 20.0m each | Korean (HMM) |
 | FEEDER | WANA BHUM | 2,378 | 2005 | MITSUBISHI, Japan | Mitsubishi | Jun-25 |  | $ 20.0m each | Korean (HMM) |
 
@@ -196,18 +196,18 @@ Supramax 10TC averaged \$ 13,604/day down -1.14% w-o-w, while the Handysize 7TC 
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | AVANCE AVIOR | 58,247 | 2023 | HANWHA, S. Korea | MAN-B\&amp;W | May-28 | 89,450 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | AVANCE RIGEL | 58,207 | 2023 | DAEWOO, S. Korea | MAN-B\&amp;W | Feb-28 | 89,497 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | AVANCE CAPELLA | 58,243 | 2022 | DAEWOO, S. Korea | MAN-B\&amp;W | Feb-27 | 89,459 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | AVANCE POLARIS | 58,312 | 2022 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-27 | 89,459 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | PAMPERO | 53,503 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Oct-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | CHINOOK | 53,660 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Sep-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | AVANCE LEVANT | 53,658 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Aug-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | SIROCCO | 53,558 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jul-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | PASSAT | 53,701 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jun-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | BREEZE | 53,781 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Apr-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | MONSOON | 53,752 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jan-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
-| LPG | MISTRAL | 53,854 | 2015 | SHANGHAI JIANGNAN, China | MAN-B\&amp;W | Jan-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash &amp; Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | AVANCE AVIOR | 58,247 | 2023 | HANWHA, S. Korea | MAN-B&W | May-28 | 89,450 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | AVANCE RIGEL | 58,207 | 2023 | DAEWOO, S. Korea | MAN-B&W | Feb-28 | 89,497 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | AVANCE CAPELLA | 58,243 | 2022 | DAEWOO, S. Korea | MAN-B&W | Feb-27 | 89,459 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | AVANCE POLARIS | 58,312 | 2022 | DAEWOO, S. Korea | MAN-B&W | Jan-27 | 89,459 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | PAMPERO | 53,503 | 2015 | SHANGHAI JIANGNAN, China | MAN-B&W | Oct-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | CHINOOK | 53,660 | 2015 | SHANGHAI JIANGNAN, China | MAN-B&W | Sep-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | AVANCE LEVANT | 53,658 | 2015 | SHANGHAI JIANGNAN, China | MAN-B&W | Aug-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | SIROCCO | 53,558 | 2015 | SHANGHAI JIANGNAN, China | MAN-B&W | Jul-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | PASSAT | 53,701 | 2015 | SHANGHAI JIANGNAN, China | MAN-B&W | Jun-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | BREEZE | 53,781 | 2015 | SHANGHAI JIANGNAN, China | MAN-B&W | Apr-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | MONSOON | 53,752 | 2015 | SHANGHAI JIANGNAN, China | MAN-B&W | Jan-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
+| LPG | MISTRAL | 53,854 | 2015 | SHANGHAI JIANGNAN, China | MAN-B&W | Jan-25 | 81,340 | $ 1.05b | Bermuda based (BW LPG) | Cash & Shares deal (US$ 585 million in cash, US$ 333 million in shares and US$ 132 million in debt novation) |
 
 ---
 

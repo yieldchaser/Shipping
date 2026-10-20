@@ -30,7 +30,7 @@ Under the current circumstances, with soaring natural gas and energy prices with
 
 The dry bulk market saw its rates losing strength during the past days with the main index ending up the week below the 2,000 points mark, a level that it has previously reached back in February. The BDI today (02/08/2022) closed at 1,817 points, down by 244 points compared to previous Tuesday's closing (26/07/2022). Crude sectors saw their rates decline on most routes, however with average profits remaining at significantly healthy levels, especially for the smaller sizes. The BDTI today (02/08/2022) closed at 1,474, an increase of 6 points and the BCTI at 1,365, an increase of 41 point compared to previous Tuesday's (26/07/2022) levels.
 
-## Sale &amp; Purchase (**Wet: Stable+** / **Dry: Firmer**)
+## Sale & Purchase (**Wet: Stable+** / **Dry: Firmer**)
 
 The SnP market noted increased bulker appetite during the past days, with geared sizes monopolizing owners' interest. On the tanker SnP front, activity remained strong for another week. In the tanker sector, we had the sale of the "TINAT" (316,502dwt-blt '02, S. Korea), which was sold to Far Eastern buyers, for a price in the region of \$29.5m. On the dry bulker side sector, we had the sale of the "NAUTICAL ANNE" (63,593dwt-blt '16, China), which was sold to undisclosed buyers, for a price in the region of \$31.0m.
 
@@ -120,7 +120,7 @@ VLCC T/C earnings averaged \$ -3,359/day, up + 4,992/day w-o-w. Despite a w-o-w 
 
 Suezmax T/C earnings averaged \$61,559/day, up +\$3,256/day w-o-w. Quiet activity materialized in the Suezmax sector with charterers exerting pressure and managing to push rates downward albeit to a small extent. Aframax T/C earnings averaged \$47,910/day, up + \$1,730/day w-o-w. The med activity was steady, following the strong injection of Libyan and CPC cargoes during the previous week, with TD19 being reported at the whopping number of \$79,208/day.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "TINAT" (316,502dwt-blt '02, S. Korea), which was sold to Far Eastern buyers, for a price in the region of \$29.5m.
 
@@ -189,7 +189,7 @@ Supramax 10TC averaged \$ 22,354/day, down - 1.22% w-o-w, while the Handysize 7T
 | **Ultramax** **63k** | 33.5 | 34.5 | -2.9% | 26.4 | 19.4 | 22.6 |
 | **Handysize** **37K** | 28.9 | 29.0 | -0.3% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Ultramax sector we had the sale of the "NAUTICAL ANNE" (63,593dwt-blt '16, China), which was sold to undisclosed buyers, for a price in the region of \$31.0m.
 
@@ -204,17 +204,17 @@ In the Handysize sector we had the sale of the "MISS SIMONA" (34,529dwt-blt '10,
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | TINAT | 316,502 | 2002 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Sep-22 | DH | $ 29.5m | Far Eastern |  |
-| VLCC | ALTAIR TRADER | 311,110 | 2005 | MITSUI CHIBA, Japan | MAN-B\&amp;W | May-25 | DH | $ 36.0-36.5m | undisclosed |  |
-| SUEZ | RIDGEBURY LINDY B | 146,356 | 2007 | UNIVERSAL, Japan | MAN-B\&amp;W | Jan-27 | DH | $ 32.0m | Greek (Stealth Gas) | Scrubber fitted, Ice 1A |
-| SUEZ | SPM STRENGTH | 159,314 | 2002 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Oct-22 | DH | $ 17.0m | Chinese |  |
-| AFRA | PROSPEROUS | 105,355 | 2009 | SUMITOMO, Japan | MAN-B\&amp;W | Jan-24 | DH | $ 28.7m | undisclosed | BWTS fitted |
-| AFRA | VOYAGER I | 106,638 | 2002 | TSUNEISHI, Japan | B\&amp;W | Oct-22 | DH | $ 14.5m | Chinese |  |
-| AFRA | CHOLA QUEEN | 104,996 | 2002 | IMABARI, Japan | B\&amp;W | Oct-22 | DH | $ 17.0m | undisclosed |  |
-| PMAX | ARCTIC CHAR | 74,996 | 2008 | BRODOSPLIT, Croatia | MAN-B\&amp;W | Mar-23 | DH | $ 40.0m (en bloc) | undisclosed | Ice 1A, epoxy coated |
-| PMAX | ARCTIC FLOUNDER | 74,925 | 2009 | BRODOSPLIT, Croatia | MAN-B\&amp;W | Apr-24 | DH | $ 40.0m (en bloc) | undisclosed | Ice 1A, epoxy coated |
-| PMAX | KARADENIZ POWERSHIP ANATOLIA | 72,515 | 2004 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jul-24 | DH | mid/high $ 13.0m | undisclosed |  |
-| MR2 | PRIORITY | 46,847 | 2005 | NAIKAI ZOSEN, Japan | B\&amp;W | Mar-25 | DH | $ 13.4m | Greek | BWTS fitted |
+| VLCC | TINAT | 316,502 | 2002 | HYUNDAI ULSAN, S. Korea | B&W | Sep-22 | DH | $ 29.5m | Far Eastern |  |
+| VLCC | ALTAIR TRADER | 311,110 | 2005 | MITSUI CHIBA, Japan | MAN-B&W | May-25 | DH | $ 36.0-36.5m | undisclosed |  |
+| SUEZ | RIDGEBURY LINDY B | 146,356 | 2007 | UNIVERSAL, Japan | MAN-B&W | Jan-27 | DH | $ 32.0m | Greek (Stealth Gas) | Scrubber fitted, Ice 1A |
+| SUEZ | SPM STRENGTH | 159,314 | 2002 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Oct-22 | DH | $ 17.0m | Chinese |  |
+| AFRA | PROSPEROUS | 105,355 | 2009 | SUMITOMO, Japan | MAN-B&W | Jan-24 | DH | $ 28.7m | undisclosed | BWTS fitted |
+| AFRA | VOYAGER I | 106,638 | 2002 | TSUNEISHI, Japan | B&W | Oct-22 | DH | $ 14.5m | Chinese |  |
+| AFRA | CHOLA QUEEN | 104,996 | 2002 | IMABARI, Japan | B&W | Oct-22 | DH | $ 17.0m | undisclosed |  |
+| PMAX | ARCTIC CHAR | 74,996 | 2008 | BRODOSPLIT, Croatia | MAN-B&W | Mar-23 | DH | $ 40.0m (en bloc) | undisclosed | Ice 1A, epoxy coated |
+| PMAX | ARCTIC FLOUNDER | 74,925 | 2009 | BRODOSPLIT, Croatia | MAN-B&W | Apr-24 | DH | $ 40.0m (en bloc) | undisclosed | Ice 1A, epoxy coated |
+| PMAX | KARADENIZ POWERSHIP ANATOLIA | 72,515 | 2004 | SAMSUNG, S. Korea | MAN-B&W | Jul-24 | DH | mid/high $ 13.0m | undisclosed |  |
+| MR2 | PRIORITY | 46,847 | 2005 | NAIKAI ZOSEN, Japan | B&W | Mar-25 | DH | $ 13.4m | Greek | BWTS fitted |
 
 © Intermodal Research 02/08/2022 4
 
@@ -225,17 +225,17 @@ In the Handysize sector we had the sale of the "MISS SIMONA" (34,529dwt-blt '10,
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UMAX | NAUTICAL ANNE | 63,593 | 2016 | JIANGSU HANTONG, China | MAN-B\&amp;W | Jun-22 | 4 X 30t CRANES | $ 31.0m | undisclosed | BWTS &amp; Scrubber fitted. Long subs. |
-| SUPRA | ESHIPS PROGRESS | 56,897 | 2012 | COSCO GUANGDONG, China | MAN-B\&amp;W | Aug-22 | 4 X 30t CRANES | $ 18.0m | undisclosed |  |
-| SUPRA | SOPHIA K | 55,612 | 2011 | MITSUI TAMANO, Japan | MAN-B\&amp;W | Jul-26 | 4 X 30t CRANES | $ 22.9m | undisclosed | BWTS fitted |
-| SUPRA | TERESA OETKER | 58,018 | 2010 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Nov-25 | 4 X 35t CRANES | low $ 17.0m | undisclosed | BWTS fitted, TIER II |
-| SUPRA | DENALI | 53,800 | 2009 | JIANGSU EASTERN, China | MAN-B\&amp;W | Jan-24 | 4 X 36t CRANES | $ 16.0m | undisclosed | BWTS fitted |
-| HANDY | MISS SIMONA | 34,529 | 2010 | SPP, S. Korea | MAN-B\&amp;W | Jun-25 | 4 X 35t CRANES | $ 16.8m | Greek | BWTS fitted |
-| HANDY | GLOBAL AQUARIUS | 28,328 | 2010 | IMABARI, Japan | MAN-B\&amp;W | Jan-25 | 4 X 30,5t CRANES | $ 14.8m | Vietnamese | BWTS fitted |
+| UMAX | NAUTICAL ANNE | 63,593 | 2016 | JIANGSU HANTONG, China | MAN-B&W | Jun-22 | 4 X 30t CRANES | $ 31.0m | undisclosed | BWTS & Scrubber fitted. Long subs. |
+| SUPRA | ESHIPS PROGRESS | 56,897 | 2012 | COSCO GUANGDONG, China | MAN-B&W | Aug-22 | 4 X 30t CRANES | $ 18.0m | undisclosed |  |
+| SUPRA | SOPHIA K | 55,612 | 2011 | MITSUI TAMANO, Japan | MAN-B&W | Jul-26 | 4 X 30t CRANES | $ 22.9m | undisclosed | BWTS fitted |
+| SUPRA | TERESA OETKER | 58,018 | 2010 | YANGZHOU DAYANG, China | MAN-B&W | Nov-25 | 4 X 35t CRANES | low $ 17.0m | undisclosed | BWTS fitted, TIER II |
+| SUPRA | DENALI | 53,800 | 2009 | JIANGSU EASTERN, China | MAN-B&W | Jan-24 | 4 X 36t CRANES | $ 16.0m | undisclosed | BWTS fitted |
+| HANDY | MISS SIMONA | 34,529 | 2010 | SPP, S. Korea | MAN-B&W | Jun-25 | 4 X 35t CRANES | $ 16.8m | Greek | BWTS fitted |
+| HANDY | GLOBAL AQUARIUS | 28,328 | 2010 | IMABARI, Japan | MAN-B&W | Jan-25 | 4 X 30,5t CRANES | $ 14.8m | Vietnamese | BWTS fitted |
 | HANDY | ECO ANGELBAY | 32,165 | 2009 | HAKODATE, Japan | Mitsubishi | Aug-22 | 4 X 30t CRANES | $ 39.0m (en bloc) | Greek (Imperial Petroleum) | BWTS fitted |
 | HANDY | ECO BUSHFIRE | 32,081 | 2011 | HAKODATE, Japan | Mitsubishi | Apr-26 | 4 X 30t CRANES | $ 39.0m (en bloc) | Greek (Imperial Petroleum) | BWTS fitted |
-| HANDY | AFRICAN FALCON | 27,101 | 2003 | NEW TIMES, China | MAN-B\&amp;W | Jun-23 | 4 X 30t CRANES | $ 11.7m | Egyptian | BWTS fitted |
-| HANDY | MARIA L | 28,404 | 1998 | HAKODATE, Japan | B\&amp;W | Oct-22 | 4x30.5, 4x30.0 | $ 7.3m | Syrian |  |
+| HANDY | AFRICAN FALCON | 27,101 | 2003 | NEW TIMES, China | MAN-B&W | Jun-23 | 4 X 30t CRANES | $ 11.7m | Egyptian | BWTS fitted |
+| HANDY | MARIA L | 28,404 | 1998 | HAKODATE, Japan | B&W | Oct-22 | 4x30.5, 4x30.0 | $ 7.3m | Syrian |  |
 
 © Intermodal Research 02/08/2022 5
 

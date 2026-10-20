@@ -161,17 +161,17 @@ Supramax 10TC averaged \$ 9,506/day, down -14.36% w-o-w, while the Handysize 7TC
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | MARIA P. LEMOS | 319,191 | 2018 | HYUNDAI, S. Korea | MAN-B\&amp;W | Oct-23 | DH | $ 94.5m | Bermuda based (DHT) | BWTS, Scrubber fitted Dely Q3 2023 |
-| SUEZ | FRONT NJORD | 156,760 | 2010 | JIANGSU RONGSHENG, China | MAN-B\&amp;W | Aug-25 | DH | $ 44.5m | undisclosed |  |
-| LR1 | GULF CORAL | 74,999 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Sep-24 | DH | $ 28.5m | undisclosed |  |
+| VLCC | MARIA P. LEMOS | 319,191 | 2018 | HYUNDAI, S. Korea | MAN-B&W | Oct-23 | DH | $ 94.5m | Bermuda based (DHT) | BWTS, Scrubber fitted Dely Q3 2023 |
+| SUEZ | FRONT NJORD | 156,760 | 2010 | JIANGSU RONGSHENG, China | MAN-B&W | Aug-25 | DH | $ 44.5m | undisclosed |  |
+| LR1 | GULF CORAL | 74,999 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B&W | Sep-24 | DH | $ 28.5m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UMAX | GREAT VENTURE | 61,056 | 2019 | COSCO DALIAN, China | MAN-B\&amp;W | Sep-24 | 4 X 30t CRANES | $ 30.3m | Greek (Equinox Maritime) | online commercial auction |
-| SUPRA | NORD TREASURE | 55,888 | 2014 | MITSUI, Japan | MAN-B\&amp;W | Jul-24 | 4 X 30t CRANES | mid/high $ 21.0m | undisclosed | BWTS fitted, Eco |
-| SUPRA | WOOYANG ELITE | 55,660 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-26 | 4 x 25t CRANES | undisclosed | undisclosed |  |
-| HANDY | SEASTAR ENDURANCE | 34,290 | 2011 | ZHEJIANG, China | MAN-B\&amp;W | Sep-26 | 4 X 30t CRANES | $ 11.70m | undisclosed | BWTS fitted |
+| UMAX | GREAT VENTURE | 61,056 | 2019 | COSCO DALIAN, China | MAN-B&W | Sep-24 | 4 X 30t CRANES | $ 30.3m | Greek (Equinox Maritime) | online commercial auction |
+| SUPRA | NORD TREASURE | 55,888 | 2014 | MITSUI, Japan | MAN-B&W | Jul-24 | 4 X 30t CRANES | mid/high $ 21.0m | undisclosed | BWTS fitted, Eco |
+| SUPRA | WOOYANG ELITE | 55,660 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&W | May-26 | 4 x 25t CRANES | undisclosed | undisclosed |  |
+| HANDY | SEASTAR ENDURANCE | 34,290 | 2011 | ZHEJIANG, China | MAN-B&W | Sep-26 | 4 X 30t CRANES | $ 11.70m | undisclosed | BWTS fitted |
 
 ## Containers
 
@@ -183,7 +183,7 @@ Supramax 10TC averaged \$ 9,506/day, down -14.36% w-o-w, while the Handysize 7TC
 
 | Type | Name | Dwt | Yard | M/E | SS | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | GLOBAL SCORPIO | 58,814 | HYUNDAI, S. Korea | MAN-B&W | MAN-B\&amp;W | Jul-23 | $ 47.5m | undisclosed | dely with DD due |
+| LPG | GLOBAL SCORPIO | 58,814 | HYUNDAI, S. Korea | MAN-B&W | MAN-B&W | Jul-23 | $ 47.5m | undisclosed | dely with DD due |
 | LPG | KOETA NO. 3 | 3,752 | KITANIHON, Japan | Mitsubishi | Mitsubishi | May-24 | undisclosed | Japanese (Nippon Gas Lines) |  |
 
 ---

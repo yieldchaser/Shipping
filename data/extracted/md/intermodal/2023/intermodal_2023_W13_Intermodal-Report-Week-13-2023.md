@@ -31,7 +31,7 @@ Since the beginning of the year, vessel rates have embarked on a downward trajec
 
 Based on recent orders signed with South Korean shipyards, LNG newbuilding prices increased in the first quarter of 2023 amid high demand, limited shipbuilding capacity, and increasing inflation. More specifically, according to our preliminary data prices have climbed to \$253 million during 1Q2023, 127% above the 5-year average newbuilding price (in a Korean yard). In terms of the number of orders, during 1Q2023, 17 vessels have been ordered versus 37 during 1Q2022 due to extremely tight shipbuilding capacity, especially in the top 3 Korean yards.
 
-### LNG S&amp;P Activity
+### LNG S&P Activity
 
 During 1Q2023, a total of 6 sales of second-hand LNG vessels have been reported, with 50% of the vessels sold being less than 10 years. In 1Q2023, the price for a 5-year-old LNG vessel stood at \$245 million, 128% above the 5-year average, while the price for a 10-year-old LNG vessel hovered close to \$155 million, 121% above the 5-year average.
 
@@ -43,7 +43,7 @@ The year kicked off a good start in terms of LNG carrier scrap sales, which in 2
 
 Another weekly decline for the dry bulk index, with Panamax being the only sector that showed resistance to the downward trend. The BDI on Friday (31/03/2023) closed at 1,389 points, down by 100 points compared to previous Friday's closing (24/03/2023). The crude carriers market softened last week, with VLCC rates witnessing most of the pressure, while despite the negative performance sentiment in the sector remains firm. The BDTI on Friday (31/03/2023) closed at 1,428, a decrease of 194 points and the BCTI at 1,248, an increase of 48 points compared to previous Friday's (24/02/2023) levels.
 
-### Sale &amp; Purchase (Wet: <mark>Firmer</mark> / Dry: <mark>Stable+</mark>)
+### Sale & Purchase (Wet: <mark>Firmer</mark> / Dry: <mark>Stable+</mark>)
 
 Clean tankers and geared dry bulk vessels continue to attract the appetite of owners in the SnP realm for another week. In the tanker sector, we we had the sale of the “NECTAR SEA” (105,370dwt-blt '08, Japan), which was sold to undisclosed buyers, for a price in the region of \$37.0m. On the dry bulker side sector, we had the sale of the “ROSEBANK” (177,029dwt-blt '10, China), which was sold to undisclosed buyers, for a price in the region of \$23.0m.
 
@@ -58,7 +58,7 @@ Fundamentals continue to drive the recycling market with only one small vessel s
 | Category | Wet | Dry |
 | --- | --- | --- |
 | Chartering | Softer | Softer |
-| Sale &amp; Purchase | Firmer | Stable+ |
+| Sale & Purchase | Firmer | Stable+ |
 | Newbuilding | Firmer | Firmer |
 | Demolition | Stable- | Stable- |
 
@@ -147,7 +147,7 @@ VLCC T/C earnings averaged \$ 60,151/day, down -\$12,566/day w-o-w, and closed o
 
 Suezmax T/C earnings averaged \$ 77,290/day, down - \$7,624/day w-o-w. On the Aframax front, T/C earnings averaged \$ 76,468/day, down - \$18,669/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Aframax sector we had the sale of the “NECTAR SEA” (105,370dwt-blt '08, Japan), which was sold to undisclosed buyers, for a price in the region of \$37.0m.
 
@@ -206,7 +206,7 @@ Supramax 10TC averaged \$ 13,993/day, down -4.58% w-o-w, while the Handysize 7TC
 | **Ultramax** **63k** | 30.0 | 28.0 | **7.1%** | 31.5 | 26.4 | 19.4 |
 | **Handysize** **37K** | 25.4 | 24.0 | **5.8%** | 27.2 | 21.4 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "ROSEBANK" (177,029dwt-blt '10, China), which was sold to undisclosed buyers, for a price in the region of \$23.0m.
 
@@ -221,19 +221,19 @@ In the Supramax sector we had the sale of the "SUPER ODEGAARD" (55,628dwt-blt '1
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | NECTAR SEA | 105,370 | 2008 | SUMITOMO, Japan | MAN-B\&amp;W | Jun-23 | DH | $ 37.0m | undisclosed | scrubber fitted |
-| MR2 | WISBY PACIFIC | 49,686 | 2017 | GUANGZHOU, China | MAN-B\&amp;W | Dec-27 | DH | low/mid $ 43.0m | Middle Eastern | BWTS fitted, Eco, StSt |
-| MR2 | WISBY ATLANTIC | 49,614 | 2017 | GUANGZHOU, China | MAN-B\&amp;W | Dec-27 | DH | low/mid $ 43.0m | Middle Eastern | BWTS fitted, Eco, StSt |
-| MR2 | CELSIUS RANDERS | 46,046 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-25 | DH | $ 26.5-27.0m | Dubai based | BWTS fitted |
-| MR2 | ELANDRA BLU | 50,696 | 2008 | SPP, S. Korea | MAN-B\&amp;W | Jul-23 | DH | $ 24.0m | Norwegian (Viken) | BWTS fitted |
-| MR2 | ELANDRA CORALLO | 50,607 | 2008 | SPP, S. Korea | MAN-B\&amp;W | Jul-23 | DH | $ 24.0m | Norwegian (Viken) | BWTS fitted |
-| MR2 | GRACE LUCRUM | 51,371 | 2006 | SHINA, S. Korea | MAN-B\&amp;W | Jun-26 | DH | $ 22.8m | undisclosed | BWTS fitted, Ice 1B |
-| MR1 | VOGE TRUST | 38,341 | 2009 | GUANGZHOU, China | MAN-B\&amp;W | Oct-24 | DH | rgn $ 38.0m (en bloc) | undisclosed | BWTS fitted, bss delivery June 2023 |
-| MR1 | VOGE DIGNITY | 38,334 | 2009 | GUANGZHOU, China | MAN-B\&amp;W | May-24 | DH | rgn $ 38.0m (en bloc) | undisclosed | BWTS fitted, bss delivery June 2023 |
-| MR1 | NORIENT SATURN | 40,435 | 2007 | CONSTANTA, Romania | MAN-B\&amp;W | Dec-27 | DH | $ 19.65m | Nigerian (Sea Transport) | BWTS fitted |
-| SMALL | ROSY | 20,610 | 2008 | QINGSHAN, China | MAN-B\&amp;W | Jun-23 | DH | high $ 12.0m | undisclosed | bss SS/DD &amp; BWTS due |
+| AFRA | NECTAR SEA | 105,370 | 2008 | SUMITOMO, Japan | MAN-B&W | Jun-23 | DH | $ 37.0m | undisclosed | scrubber fitted |
+| MR2 | WISBY PACIFIC | 49,686 | 2017 | GUANGZHOU, China | MAN-B&W | Dec-27 | DH | low/mid $ 43.0m | Middle Eastern | BWTS fitted, Eco, StSt |
+| MR2 | WISBY ATLANTIC | 49,614 | 2017 | GUANGZHOU, China | MAN-B&W | Dec-27 | DH | low/mid $ 43.0m | Middle Eastern | BWTS fitted, Eco, StSt |
+| MR2 | CELSIUS RANDERS | 46,046 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B&W | Oct-25 | DH | $ 26.5-27.0m | Dubai based | BWTS fitted |
+| MR2 | ELANDRA BLU | 50,696 | 2008 | SPP, S. Korea | MAN-B&W | Jul-23 | DH | $ 24.0m | Norwegian (Viken) | BWTS fitted |
+| MR2 | ELANDRA CORALLO | 50,607 | 2008 | SPP, S. Korea | MAN-B&W | Jul-23 | DH | $ 24.0m | Norwegian (Viken) | BWTS fitted |
+| MR2 | GRACE LUCRUM | 51,371 | 2006 | SHINA, S. Korea | MAN-B&W | Jun-26 | DH | $ 22.8m | undisclosed | BWTS fitted, Ice 1B |
+| MR1 | VOGE TRUST | 38,341 | 2009 | GUANGZHOU, China | MAN-B&W | Oct-24 | DH | rgn $ 38.0m (en bloc) | undisclosed | BWTS fitted, bss delivery June 2023 |
+| MR1 | VOGE DIGNITY | 38,334 | 2009 | GUANGZHOU, China | MAN-B&W | May-24 | DH | rgn $ 38.0m (en bloc) | undisclosed | BWTS fitted, bss delivery June 2023 |
+| MR1 | NORIENT SATURN | 40,435 | 2007 | CONSTANTA, Romania | MAN-B&W | Dec-27 | DH | $ 19.65m | Nigerian (Sea Transport) | BWTS fitted |
+| SMALL | ROSY | 20,610 | 2008 | QINGSHAN, China | MAN-B&W | Jun-23 | DH | high $ 12.0m | undisclosed | bss SS/DD & BWTS due |
 | SMALL | MERSEY FISHER | 4,765 | 1998 | VICKERS, UK | Ruston | Aug-23 | DH | $ 3.10m | undisclosed |  |
-| SMALL | VICTORIA 267 | 6,491 | 1996 | KOREA TACOMA MARINE, S. Korea | B\&amp;W | overdue | DH | $ 2.50m | undisclosed |  |
+| SMALL | VICTORIA 267 | 6,491 | 1996 | KOREA TACOMA MARINE, S. Korea | B&W | overdue | DH | $ 2.50m | undisclosed |  |
 
 © Intermodal Research 04/04/2023 4
 
@@ -244,14 +244,14 @@ In the Supramax sector we had the sale of the "SUPER ODEGAARD" (55,628dwt-blt '1
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | ROSEBANK | 177,029 | 2010 | NEW TIMES, China | MAN-B\&amp;W | Aug-25 |  | rgn $ 23.0m | undisclosed | BWTS fitted |
-| PMAX | HUI XIN 9 | 75,658 | 2012 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | May-27 |  | xs $ 17.0m | European | BWTS fitted, Chinese flag |
-| PMAX | LUCK FORTUNE | 76,662 | 2002 | IMABARI, Japan | B\&amp;W | May-27 |  | $ 9.8m | undisclosed | BWTS fitted, bss delivery mid April 2023 |
-| SUPRA | GLOVIS MAINE | 56,686 | 2013 | TIANJIN XINGANG, China | MAN-B\&amp;W | Jun-23 | 4 X 35t CRANES | mid/high $ 15.0m | undisclosed | BWTS fitted |
-| SUPRA | SUPER ODEGAARD | 55,628 | 2011 | MITSUI TAMANO, Japan | MAN-B\&amp;W | Oct-26 | 4 X 30t CRANES | mid/high $ 18.0m | Greek (Brave) | BWTS fitted |
-| HMAX | GEAT WISDOM | 45,659 | 2000 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Jan-25 | 4 X 30t CRANES | rgn $ 7.0m | undisclosed | BWTS fitted |
-| HANDY | ELDORIS | 36,045 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-26 | 4 X 30t CRANES | mid $ 16.0m | undisclosed | BWTS fitted, Boxed |
-| HANDY | TAIZHOU PIONEER | 32,453 | 2011 | TAIZHOU MAPLE, China | MAN-B\&amp;W | Sep-26 | 4 X 30t CRANES | $ 11.8m | Greek | BWTS fitted |
+| CAPE | ROSEBANK | 177,029 | 2010 | NEW TIMES, China | MAN-B&W | Aug-25 |  | rgn $ 23.0m | undisclosed | BWTS fitted |
+| PMAX | HUI XIN 9 | 75,658 | 2012 | SHANGHAI SHIPYARD, China | MAN-B&W | May-27 |  | xs $ 17.0m | European | BWTS fitted, Chinese flag |
+| PMAX | LUCK FORTUNE | 76,662 | 2002 | IMABARI, Japan | B&W | May-27 |  | $ 9.8m | undisclosed | BWTS fitted, bss delivery mid April 2023 |
+| SUPRA | GLOVIS MAINE | 56,686 | 2013 | TIANJIN XINGANG, China | MAN-B&W | Jun-23 | 4 X 35t CRANES | mid/high $ 15.0m | undisclosed | BWTS fitted |
+| SUPRA | SUPER ODEGAARD | 55,628 | 2011 | MITSUI TAMANO, Japan | MAN-B&W | Oct-26 | 4 X 30t CRANES | mid/high $ 18.0m | Greek (Brave) | BWTS fitted |
+| HMAX | GEAT WISDOM | 45,659 | 2000 | TSUNEISHI CEBU, Philippines | MAN-B&W | Jan-25 | 4 X 30t CRANES | rgn $ 7.0m | undisclosed | BWTS fitted |
+| HANDY | ELDORIS | 36,045 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&W | Oct-26 | 4 X 30t CRANES | mid $ 16.0m | undisclosed | BWTS fitted, Boxed |
+| HANDY | TAIZHOU PIONEER | 32,453 | 2011 | TAIZHOU MAPLE, China | MAN-B&W | Sep-26 | 4 X 30t CRANES | $ 11.8m | Greek | BWTS fitted |
 | HANDY | EN OCEAN | 27,865 | 1997 | KANASASHI, Japan | Mitsubishi | Dec-27 | 4 X 30,5t CRANES | $ 4.5m | undisclosed | Ldt: 6.070 |
 | HANDY | MP ATLANTIC | 22,035 | 1994 | SAIKI, Japan | Mitsubishi | Jul-26 | 4 X 30t CRANES | mid $ 3.0m | undisclosed | BWTS fitted, bss delivery end April 2023, Ldt: 5.238 |
 ## Containers
@@ -260,7 +260,7 @@ In the Supramax sector we had the sale of the "SUPER ODEGAARD" (55,628dwt-blt '1
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | AMOLIANI | 6,881 | 2013 | HYUNDAI SAMHO, S. Korea | Wartsila | Jan-23 |  | xs $ 61.0m | French (CMA CGM) |  |
 | PMAX | POHORJE | 4,043 | 2006 | CHINA KAOHSIUNG, Taiwan | Sulzer | Feb-26 |  | $ 21.0m | Swiss based | BWTS fitted |
-| FEEDER | LOUISA SCHULTE | 1,740 | 2008 | GUANGZHOU WENCHONG, China | MAN-B&amp;W | Apr-23 | 2 X 45t CRANES | mid $ 11.0m | undisclosed |  |
+| FEEDER | LOUISA SCHULTE | 1,740 | 2008 | GUANGZHOU WENCHONG, China | MAN-B&W | Apr-23 | 2 X 45t CRANES | mid $ 11.0m | undisclosed |  |
 
 © Intermodal Research 04/04/2023 5
 

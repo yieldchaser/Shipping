@@ -22,11 +22,11 @@ Focusing only on Tankers and Bulkers, such vessels changing hands during the fir
 
 More specifically, approx. 525 Tankers and approx. 550 Bulkers sales have been recorded during that period. A strong increase of abt 40% is witnessed in the Wet tonnage transactions when comparing Q1-22 to Q3-22, while a reduction of close to 30% is noticed in the number of Bulkers sales when comparing Q3-22 to Q1-22.
 
-That fluctuation in the number of deals per sector, reflects the shifting buying interest towards the Wet tonnage, which prevails the market in recent months, given the unfolding energy crisis, expected shortages in the European market &amp; sanctions linked to the Russia-Ukraine situation coming in force, generating longer-average trade routes.
+That fluctuation in the number of deals per sector, reflects the shifting buying interest towards the Wet tonnage, which prevails the market in recent months, given the unfolding energy crisis, expected shortages in the European market & sanctions linked to the Russia-Ukraine situation coming in force, generating longer-average trade routes.
 
 During the past six months the dry Bulk rates have notably declined, something which is slowly and steadily affecting the asset values as well. However, that seems to be coming close to its end, as the commodity of "Coal" in particular, is needed to boost the unfolding global energy shortages and limited supplies on other energy sources and we're already seeing a rebound in the Panamax up to Capesize vessels rates. That rebound is expected to further support smaller segments of the Dry Bulk sector as well.
 
-Below graph shows the number of Tankers &amp; Bulkers sold during Q1 to Q3 2022 on monthly basis:
+Below graph shows the number of Tankers & Bulkers sold during Q1 to Q3 2022 on monthly basis:
 
 > **Chart (not transcribed):** Market Insight. The report prints no values for it.
 
@@ -36,7 +36,7 @@ Looking at the broader picture, current trends appear to be more of a long-lasti
 
 The dry bulk market witnessed improvements across all the different sizes amidst a healthy Atlantic performance against limited trade activity in the Pacific due to the Golden Week holidays. The BDI today (11/10/2022) closed at 1,904 points, up by 39 points compared to previous Tuesday's closing (04/10/2022). Golden week holidays have disrupted activity in the Crude carrier market which led to an overall w-o-w fall in rates across all sectors. The BDTI today (11/10/2022) closed at 1,465, an increase of 3 points and the BCTI at 1,187, an increase of 39 point compared to previous Tuesday's (04/10/2022) levels.
 
-## Sale &amp; Purchase (Wet: Stable- / Dry: Stable+)
+## Sale & Purchase (Wet: Stable- / Dry: Stable+)
 
 Buying interest in the SnP realm remains healthy for the dry bulk sector while the volume of tanker materialized deals noted a small decline. In the tanker sector, we had the sale of the "ROWAN" (299,988dwt-blt '01, Japan), which was sold to Chinese buyers, for a price in the region of \$28.5m. On the dry bulker side sector, we had the sale of the "OCEAN ADVENTURE" (57,814dwt-blt '15, Japan), which was sold to Japanese buyers, for a price in the region of \$23.0m.
 
@@ -131,7 +131,7 @@ VLCC T/C earnings averaged \$24,222/day, down - \$11,846/day w-o-w. All routes n
 
 Suezmax T/C earnings averaged \$ 53,272/day, down - \$6,289/day w-o-w. Similar to their bigger counterpart, activity was subdued with rates falling w-o-w. Aframax T/C earnings averaged \$49,877/day, down - \$855/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "ROWAN" (299,988dwt-blt '01, Japan), which was sold to Chinese buyers, for a price in the region of \$28.5m.
 
@@ -200,7 +200,7 @@ Supramax 10TC averaged \$ 18,486/day, up + 0.07% w-o-w, while the Handysize 7TC 
 | **Ultramax** | **63k** | 29.5 | 29.9 | -1.3% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 26.5 | 26.7 | -0.7% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Supramax sector we had the sale of the "OCEAN ADVENTURE" (57,814dwt-bl't '15, Japan), which was sold to Japanese buyers, for a price in the region of \$23.0m.
 
@@ -217,23 +217,23 @@ In the Handysize sector we had the sale of the "HIMAWARI K" (37,786dwt-bl't '15,
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | ROWAN | 299,988 | 2001 | KAWASAKI, Japan | B\&amp;W | Nov-25 | DH | rgn $ 28.5m | Chinese | Non IACS |
-| LR2 | ALBURAQ | 112,521 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Oct-23 | DH | $ 70.0m (en bloc) | undisclosed |  |
-| LR2 | SEA LEGEND | 112,511 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Dec-23 | DH | $ 70.0m (en bloc) | undisclosed |  |
-| MR2 | AURORA EXPRESS | 45,770 | 2002 | MINAMI-NIPPON, Japan | MAN-B\&amp;W | Nov-22 | DH | $ 10.0m | Indian (Seven Islands) | epoxy coated |
+| VLCC | ROWAN | 299,988 | 2001 | KAWASAKI, Japan | B&W | Nov-25 | DH | rgn $ 28.5m | Chinese | Non IACS |
+| LR2 | ALBURAQ | 112,521 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Oct-23 | DH | $ 70.0m (en bloc) | undisclosed |  |
+| LR2 | SEA LEGEND | 112,511 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Dec-23 | DH | $ 70.0m (en bloc) | undisclosed |  |
+| MR2 | AURORA EXPRESS | 45,770 | 2002 | MINAMI-NIPPON, Japan | MAN-B&W | Nov-22 | DH | $ 10.0m | Indian (Seven Islands) | epoxy coated |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | AGRI KINSALE | 77,171 | 2009 | OSHIMA, Japan | MAN-B\&amp;W | Sep-24 |  | $ 32.0m (en bloc) | Chinese | BWTS fitted |
-| PMAX | AGRI QUEEN | 77,171 | 2009 | OSHIMA, Japan | MAN-B\&amp;W | Oct-24 |  | $ 32.0m (en bloc) | Chinese | BWTS fitted |
-| PMAX | NAVIOS SYMMETRY | 74,476 | 2006 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Jun-26 |  | rgn $ 12.0m | undisclosed | BWTS fitted |
-| UMAX | BERGE TRONADOR | 61,087 | 2020 | COSCO DALIAN, China | MAN-B\&amp;W | Apr-25 | 4 X 30t CRANES | rgn $ 32.0m | Japanese |  |
-| SUPRA | OCEAN ADVENTURE | 57,814 | 2015 | TSUNEISHI, Japan | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | rgn $ 23.0m | Japanese |  |
-| HANDY | HIMAWARI K | 37,786 | 2015 | IMABARI, Japan | MAN-B\&amp;W | Jan-25 | 4 X 30,5t CRANES | rgn/xs $ 21.5m | Greek | BWTS fitted |
+| PMAX | AGRI KINSALE | 77,171 | 2009 | OSHIMA, Japan | MAN-B&W | Sep-24 |  | $ 32.0m (en bloc) | Chinese | BWTS fitted |
+| PMAX | AGRI QUEEN | 77,171 | 2009 | OSHIMA, Japan | MAN-B&W | Oct-24 |  | $ 32.0m (en bloc) | Chinese | BWTS fitted |
+| PMAX | NAVIOS SYMMETRY | 74,476 | 2006 | HUDONG-ZHONGHUA, China | MAN-B&W | Jun-26 |  | rgn $ 12.0m | undisclosed | BWTS fitted |
+| UMAX | BERGE TRONADOR | 61,087 | 2020 | COSCO DALIAN, China | MAN-B&W | Apr-25 | 4 X 30t CRANES | rgn $ 32.0m | Japanese |  |
+| SUPRA | OCEAN ADVENTURE | 57,814 | 2015 | TSUNEISHI, Japan | MAN-B&W | Oct-25 | 4 X 30t CRANES | rgn $ 23.0m | Japanese |  |
+| HANDY | HIMAWARI K | 37,786 | 2015 | IMABARI, Japan | MAN-B&W | Jan-25 | 4 X 30,5t CRANES | rgn/xs $ 21.5m | Greek | BWTS fitted |
 | HANDY | LODESTAR PACIFIC | 33,393 | 2015 | SHIN KOCHI, Japan | Mitsubishi | Mar-25 | 4 X 30t CRANES | high $ 19.0m | Greek |  |
 | HANDY | ANSAC CHRISTINE NANCY | 32,836 | 2013 | KANDA, Japan | Mitsubishi | Sep-25 | 4 X 30,5t CRANES | low/mid $ 17.0m | undisclosed | BWTS fitted, OHBS |
-| HANDY | ADASTAR | 21,146 | 1998 | HANJIN, S. Korea | MAN-B\&amp;W | Nov-22 | 3 X 30t CRANES | $ 8.5m | undisclosed | OHBS |
+| HANDY | ADASTAR | 21,146 | 1998 | HANJIN, S. Korea | MAN-B&W | Nov-22 | 3 X 30t CRANES | $ 8.5m | undisclosed | OHBS |
 
 © Intermodal Research 11/10/2022 4
 
@@ -244,26 +244,26 @@ In the Handysize sector we had the sale of the "HIMAWARI K" (37,786dwt-bl't '15,
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | NORTHERN JASPER | 8,814 | 2009 | DAEWOO, S. Korea | MAN-B\&amp;W | Aug-24 |  | rgn $ 85.0m | Swiss (MSC) | eco |
-| PMAX | GENOVA | 4,253 | 2007 | DALIAN, China | MAN-B\&amp;W | Apr-27 |  | $ 45.0m | Swiss (MSC) | Scrubber fitted |
-| SUB PMAX | X-PRESS MAKALU | 2,714 | 2008 | GDANSKA STOCZNIA, POLAND | MAN-B\&amp;W | Mar-23 | 3 X 45t CRANES | $ 25.0m | Swiss (MSC) |  |
+| POST PMAX | NORTHERN JASPER | 8,814 | 2009 | DAEWOO, S. Korea | MAN-B&W | Aug-24 |  | rgn $ 85.0m | Swiss (MSC) | eco |
+| PMAX | GENOVA | 4,253 | 2007 | DALIAN, China | MAN-B&W | Apr-27 |  | $ 45.0m | Swiss (MSC) | Scrubber fitted |
+| SUB PMAX | X-PRESS MAKALU | 2,714 | 2008 | GDANSKA STOCZNIA, POLAND | MAN-B&W | Mar-23 | 3 X 45t CRANES | $ 25.0m | Swiss (MSC) |  |
 | FEEDER | JSP TITAN | 1,122 | 1996 | VOLKSWERFT STRALSUND, Germany | Sulzer | Aug-26 | 2 X 40t CRANES | $ 5.8m | undisclosed | BWTS fitted, incl. TC attached at Usd 12,000 pd until June |
-| FEEDER | SUNNY LOTUS | 1,048 | 2013 | DAE SUN, S. Korea | MAN-B\&amp;W | Apr-23 |  | $ 15.5m | Korean |  |
+| FEEDER | SUNNY LOTUS | 1,048 | 2013 | DAE SUN, S. Korea | MAN-B&W | Apr-23 |  | $ 15.5m | Korean |  |
 | FEEDER | AS LAETITIA | 957 | 2007 | YANGFAN, China | MAN | Oct-22 | 2 X 45t CRANES | $ 16.0m | U.S. based |  |
 
 ## Secondhand Sales
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | GAS TIGERS | 54,675 | 2016 | HYUNDAI, S. Korea | MAN-B\&amp;W | May-26 | 82,461 | $ 63.0m | Greek (SwissChemGas) | eco, basis forward delivery |
-| LPG | PROGRESS | 58,560 | 2009 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jan-24 | 80,793 | rgn $ 50,0m | UK based (Foresight Group) |  |
+| LPG | GAS TIGERS | 54,675 | 2016 | HYUNDAI, S. Korea | MAN-B&W | May-26 | 82,461 | $ 63.0m | Greek (SwissChemGas) | eco, basis forward delivery |
+| LPG | PROGRESS | 58,560 | 2009 | HYUNDAI, S. Korea | MAN-B&W | Jan-24 | 80,793 | rgn $ 50,0m | UK based (Foresight Group) |  |
 | LPG | CLIPPER | 56,864 | 1992 | NKK CORP - TSU, Japan | Sulzer | Mar-27 | 76,978 | $ 15.0m | Far Eastern |  |
-| LPG | GAS GROUPER | 26,416 | 2009 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jun-24 | 34,574 | $ 32.0m | undisclosed |  |
-| LPG | PACIFIC SATURN | 23,724 | 2019 | NANTONG, China | MAN-B\&amp;W | Nov-24 | 21,560 | $ 233.0m (en bloc) | JV between Navigator Gas &amp; Greater Bay Gas |  |
-| LPG | PACIFIC MARS | 23,708 | 2019 | NANTONG, China | MAN-B\&amp;W | Jul-24 | 21,560 | $ 233.0m (en bloc) | JV between Navigator Gas &amp; Greater Bay Gas |  |
-| LPG | PACIFIC MERCURY | 23,704 | 2019 | NANTONG, China | MAN-B\&amp;W | Jan-24 | 21,560 | $ 233.0m (en bloc) | JV between Navigator Gas &amp; Greater Bay Gas |  |
-| LPG | PACIFIC VENUS | 18,599 | 2018 | NANTONG, China | MAN-B\&amp;W | Mar-23 | 17,077 | $ 233.0m (en bloc) | JV between Navigator Gas &amp; Greater Bay Gas |  |
-| LPG | PACIFIC JUPITER | 18,599 | 2018 | NANTONG, China | MAN-B\&amp;W | Sep-23 | 17,075 | $ 233.0m (en bloc) | JV between Navigator Gas &amp; Greater Bay Gas |  |
+| LPG | GAS GROUPER | 26,416 | 2009 | HYUNDAI, S. Korea | MAN-B&W | Jun-24 | 34,574 | $ 32.0m | undisclosed |  |
+| LPG | PACIFIC SATURN | 23,724 | 2019 | NANTONG, China | MAN-B&W | Nov-24 | 21,560 | $ 233.0m (en bloc) | JV between Navigator Gas & Greater Bay Gas |  |
+| LPG | PACIFIC MARS | 23,708 | 2019 | NANTONG, China | MAN-B&W | Jul-24 | 21,560 | $ 233.0m (en bloc) | JV between Navigator Gas & Greater Bay Gas |  |
+| LPG | PACIFIC MERCURY | 23,704 | 2019 | NANTONG, China | MAN-B&W | Jan-24 | 21,560 | $ 233.0m (en bloc) | JV between Navigator Gas & Greater Bay Gas |  |
+| LPG | PACIFIC VENUS | 18,599 | 2018 | NANTONG, China | MAN-B&W | Mar-23 | 17,077 | $ 233.0m (en bloc) | JV between Navigator Gas & Greater Bay Gas |  |
+| LPG | PACIFIC JUPITER | 18,599 | 2018 | NANTONG, China | MAN-B&W | Sep-23 | 17,075 | $ 233.0m (en bloc) | JV between Navigator Gas & Greater Bay Gas |  |
 
 © Intermodal Research 11/10/2022 5
 

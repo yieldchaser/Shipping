@@ -163,8 +163,8 @@ Supramax 10TC averaged \$ 8,988/day down -3.88% w-o-w, while the Handysize 7TC a
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR1 | VALLE DI CORDOBA | 40,218 | 2005 | HYUNDAI MIPO, S. Korea | B\&amp;W | Apr-25 | DH | excess $ 12,5m | undisclosed |  |
-| J19 | SAEHAN INTRASIA | 19,870 | 2005 | FUKUOKA, Japan | MAN-B\&amp;W | Nov-29 | DH | around $ 15,0m | Chinese | StSt |
+| MR1 | VALLE DI CORDOBA | 40,218 | 2005 | HYUNDAI MIPO, S. Korea | B&W | Apr-25 | DH | excess $ 12,5m | undisclosed |  |
+| J19 | SAEHAN INTRASIA | 19,870 | 2005 | FUKUOKA, Japan | MAN-B&W | Nov-29 | DH | around $ 15,0m | Chinese | StSt |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -182,7 +182,7 @@ Supramax 10TC averaged \$ 8,988/day down -3.88% w-o-w, while the Handysize 7TC a
 
 Chemical tankers, Asian owners and Chinese shipyards prevailed in last week's newbuilding activity, comprising 5 orders for 12 vessels plus 2 options. In the wet sector, 3 orders were placed, all for stainless steel chemical tankers in Chinese yards. The Singaporean Rongtua Shipping ordered a pair of Tier III 25.9k dwt units to Jinling Dingheng yard. Additionally, the Chinese chemical tanker operator Xintong Shipping contracted a quartet of 13.8k dwt chemical tankers from Taizhou Kouan, priced between \$22.3 million and \$23.4 million each (excluding tax), with delivery scheduled for 2026-2027. Two of these vessels were ordered directly by Xintong, while the remaining two were contracted by Xintong-IMC Shipping (XT-IMC Shipping), a JV with Singapore's IMC Shipping. Meanwhile, the German group
 
-John T. Essberger exercised an option for 2 methanol-ready ICE 1A chemical tankers at Nantong Rainbow, with deliveries expected in 2027-2028. In the gas sector, the Malaysian MISC placed an order with the S. Korean Hyundai HI for a pair of 100K cbm VLECs equipped with dual fuel propulsion engines. Each vessel is estimated to cost \$158.5 million, with delivery set for 2028. Finally, the Japanese group NYK Bulk &amp; Projects, inked an order with China's state-owned Dalian Shipbuilding for up to 4 deck cargo vessels of 33k dwt each, 2 firm orders plus 2 options. Deliveries are expected in 2027 and the price reads \$50m per unit.
+John T. Essberger exercised an option for 2 methanol-ready ICE 1A chemical tankers at Nantong Rainbow, with deliveries expected in 2027-2028. In the gas sector, the Malaysian MISC placed an order with the S. Korean Hyundai HI for a pair of 100K cbm VLECs equipped with dual fuel propulsion engines. Each vessel is estimated to cost \$158.5 million, with delivery set for 2028. Finally, the Japanese group NYK Bulk & Projects, inked an order with China's state-owned Dalian Shipbuilding for up to 4 deck cargo vessels of 33k dwt each, 2 firm orders plus 2 options. Deliveries are expected in 2027 and the price reads \$50m per unit.
 
 ## Indicative Newbuilding Prices ($ Million)
 | Sector | Vessel | Size | 7-Mar-25 | 28-Feb-25 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2024 | Average 2023 | Average 2022 |
@@ -207,7 +207,7 @@ John T. Essberger exercised an option for 2 methanol-ready ICE 1A chemical tanke
 | 4 | Tanker | 13,800 dwt | Taizhou Kouan, China | 2026-2027 | Chinese/Singaporean (Xintong Shipping, XT IMC JV) | $22.3m-$23.4m | Stainless steel chemical tankers, price excluding tax |
 | 2 | Tanker | 13,000 dwt | Nantong Rainbow, China | 2027-2028 | German (John T. Essberger) | undisclosed | Exercise of option, stainless steel chemical tankers ICE 1A, methanol ready |
 | 2 | VLEC | 100,000 cbm | Hyundai HI, S. Korea | 2028 | Malaysian (MISC) | $ 158.5m | Dual-fuel ethane propulsion engines |
-| 2+2 | Deck Cargo | 33,000 dwt | Dalian Shipbuilding, China | 2027 | Japanese (NYK Bulk\&amp;Projects) | $ 50.0m |  |
+| 2+2 | Deck Cargo | 33,000 dwt | Dalian Shipbuilding, China | 2027 | Japanese (NYK Bulk&Projects) | $ 50.0m |  |
 
 ---
 

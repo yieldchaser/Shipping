@@ -18,7 +18,7 @@ Taking the previous market insight a step further, market sentiment remains bull
 
 Recent studies have shown that running on HSFO and on a scrubber produces way lower emissions than running on LSMGO, further confirming the viability of a scrubber investment. Currently, owners who will drydock their vessels soon are increasingly considering investing in pollution abatement technology, in return for the benefits from the expected savings in the bunkering costs.
 
-Coming down to the decision-making, the choice of scrubber type is a key factor that shapes the fitting cost but will mostly affect future savings and compliance with changing regulations. While most vessels carry open-loop scrubbers, many vessels fitted now opt for hybrid types, which offer increased flexibility for operation in all areas, regardless of ECA's constraining rules or seawater alkalinity. Technological investments have a special mechanism of assessment, therefore, payback period, level of risk, tax prospects and expected inflation should be considered. The main criteria regarding the justification of a scrubber investment should be the ROI (including CAPEX &amp; OPEX), the space occupied, and the weight, with horizontal scrubbers weighting less and covering less space compared to vertical ones, thus, minimizing the impact on a vessel's cargo-carrying capacity and its profitability. Due to the funding difference of the technology implementation, the terms of inflows (fuel savings) and outflows (CAPEX &amp; OPEX) should be identified, while the determining factor will be the maximum payback period.
+Coming down to the decision-making, the choice of scrubber type is a key factor that shapes the fitting cost but will mostly affect future savings and compliance with changing regulations. While most vessels carry open-loop scrubbers, many vessels fitted now opt for hybrid types, which offer increased flexibility for operation in all areas, regardless of ECA's constraining rules or seawater alkalinity. Technological investments have a special mechanism of assessment, therefore, payback period, level of risk, tax prospects and expected inflation should be considered. The main criteria regarding the justification of a scrubber investment should be the ROI (including CAPEX & OPEX), the space occupied, and the weight, with horizontal scrubbers weighting less and covering less space compared to vertical ones, thus, minimizing the impact on a vessel's cargo-carrying capacity and its profitability. Due to the funding difference of the technology implementation, the terms of inflows (fuel savings) and outflows (CAPEX & OPEX) should be identified, while the determining factor will be the maximum payback period.
 
 Currently, owners who have already invested in scrubbers are enjoying a high ROI, while benefiting from more than \$500/t Hi-5 spreads. For instance, in Singapore it was assessed at an all-time high of \$569.50/t on July 5th, creating, therefore, the perfect scenario for scrubber-equipped ships. In Fujairah, the set-up is pretty much similar with the spread fluctuating close to the \$500/t range. While HSFO markets in Asia have been weakening on the back of sanctions on Urals crude in Europe and the US, VLSFO markets are seeing a tight supply as refineries have been utilizing sweeter crude to maximize gasoline production to meet the demand for the peak driving season in the US and due to the expanded regional turnaround and strong gasoline cracks.
 
@@ -46,7 +46,7 @@ At the moment, retrofitting times vary between 30 and 50 days, which is importan
 
 The previous week's momentum continued during the last week, with the Panamax sector noting the largest discounts and with the rest of the sizes following suit. The BDI today (12/07/2022) closed at 2,013 points, down by 85 points compared to previous Tuesday's closing (05/07/2022). VLCC rates have finally witnessed a positive week yet with earnings still below OPEX levels. Earnings across all the crude sectors have noted an upward trajectory during the past days with the Aframax sector outperforming the rest of its sizes. The BDTI today (12/07/2022) closed at 1,373, an increase of 147 points and the BCTI at 1,387, a decrease of 84 point compared to previous Tuesday's (05/07/2022) levels.
 
-## Sale &amp; Purchase (Wet: Firmer / Dry: Stable+)
+## Sale & Purchase (Wet: Firmer / Dry: Stable+)
 
 The SnP market bounced back in the wet sector last week while the bulk sector remained buoyant. In the tanker sector, we had the sale of the "MATTERHORN SPIRIT" (114,834dwt-blt '05, S. Korea), which was sold to UAE based buyers, for a price in the region of \$24.75m. On the dry bulker side sector, we had the sale of the "THERESA SHANDONG" (82,000dwt-blt '12, China), which was sold to Greek buyers, for a price in the region of \$21.0m.
 
@@ -146,7 +146,7 @@ VLCC T/C earnings averaged \$ -19,099/day, up + \$4,779/day w-o-w. Rates ended u
 
 Suezmax T/C earnings averaged \$ 23,504/day, up + \$2,491/day w-o-w. Trade was relatively active, however, rates witnessed a drop with both the TD6 and TD20 routes losing around 4WS points w-o-w. Aframax T/C earnings \$29,329/day, up + \$5,476/day w-o-w. Charterers in the North European market faced a shortage of units which led to a notable increase in rates of 59.73WS points while in the case of the Russian-related business, TD17 has also risen by 28.75WS points amidst little interest for such trips. In the Med, Libyan weakened production has restricted an uptick in rates while the overturned of the previous week's decision for a 30days halt on CPC exports has put an end to recent concerns. Finally, the Caribs market noted another week of significant improvements with TD9 increasing by 83.43WS points w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Aframax sector we had the sale of the "MATTERHORN SPIRIT" (114,834dwt-blt '05, S. Korea), which was sold to UAE based buyers, for a price in the region of \$24.75m.
 
@@ -214,7 +214,7 @@ Supramax 10TC averaged \$ 24,553/day, down - 5.5% w-o-w, while the Handysize 7TC
 | **Ultramax** | **63k** | 34.0 | 34.5 | -1.4% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 29.5 | 29.0 | 1.7% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Kamsarmax sector we had the sale of the "THERESA SHANDONG" (82,000dwt-blt '12, China), which was sold to Greek buyers, for a price in the region of \$21.0m.
 
@@ -229,18 +229,18 @@ In the Handysize sector we had the sale of the "YANGTZE SPIRIT" (35,169dwt-blt '
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | HUI XIN 8 | 92,974 | 2012 | COSCO DALIAN, China | MAN-B\&amp;W | Aug-22 |  | region $ 22.0m | undisclosed | BWTS fitted, Tier II |
-| POST PMAX | CELINE OLDENDORFF | 93,018 | 2010 | COSCO DALIAN, China | MAN-B\&amp;W | Jan-25 |  | high $ 19.0m | Indians | BWTS, Scrubber fitted |
-| KMAX | OCEAN SCALLION | 82,215 | 2013 | DALIAN, China | MAN-B\&amp;W | Dec-23 |  | $ 23.5m | Chinese | BWTS fitted |
-| KMAX | THERESA SHANDONG | 82,000 | 2012 | Jiangsu, China | MAN-B\&amp;W | Aug-22 |  | $ 21.0m | Greek |  |
+| POST PMAX | HUI XIN 8 | 92,974 | 2012 | COSCO DALIAN, China | MAN-B&W | Aug-22 |  | region $ 22.0m | undisclosed | BWTS fitted, Tier II |
+| POST PMAX | CELINE OLDENDORFF | 93,018 | 2010 | COSCO DALIAN, China | MAN-B&W | Jan-25 |  | high $ 19.0m | Indians | BWTS, Scrubber fitted |
+| KMAX | OCEAN SCALLION | 82,215 | 2013 | DALIAN, China | MAN-B&W | Dec-23 |  | $ 23.5m | Chinese | BWTS fitted |
+| KMAX | THERESA SHANDONG | 82,000 | 2012 | Jiangsu, China | MAN-B&W | Aug-22 |  | $ 21.0m | Greek |  |
 | UMAX | GOLDEN CECILIE | 60,263 | 2015 | JMU, Japan | Wartsila | Feb-25 | 4 X 30t CRANES | $ 63.0m (en bloc) | Chinese | BWTS fitted |
 | UMAX | GOLDEN CATHRINE | 60,263 | 2015 | JMU, Japan | Wartsila | Jan-25 | 4 X 30t CRANES | $ 63.0m (en bloc) | Chinese | BWTS fitted |
-| SUPRA | NEUTRINO | 58,612 | 2012 | KAWASAKI, Japan | MAN-B\&amp;W | Oct-22 | 4 X 30,5t CRANES | excess $ 24.0m | undisclosed | BWTS fitted |
-| HMAX | SEA ROSE | 45,700 | 1995 | HASHIHAMA, Japan | B\&amp;W | May-25 | 4 X 30t CRANES | low $ 6.0m | Chinese |  |
-| HANDY | VENTURE OCEAN | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Oct-25 | 4 X 30,5t CRANES | $ 50.0m (en bloc) | undisclosed | BWTS fitted, Eco, OHBS |
-| HANDY | VENTURE TEAM | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Nov-25 | 4 X 30,5t CRANES | $ 50.0m (en bloc) | undisclosed | BWTS fitted, Eco, OHBS |
-| HANDY | ELEFTHERIOS T | 32,000 | 2013 | SAMHO, S. Korea | MAN-B\&amp;W | May-23 | 4 X 30t CRANES | region $ 20.0m | Greek | BWTS fitted, incl. T/C at 26K/day up to Sep 2022 + 6mos chopt |
-| HANDY | YANGTZE SPIRIT | 35,169 | 2012 | NANJING DONGZE, China | MAN-B\&amp;W | Jan-27 | 4 X 30t CRANES | excess $ 17.0m | undisclosed | BWTS fitted |
+| SUPRA | NEUTRINO | 58,612 | 2012 | KAWASAKI, Japan | MAN-B&W | Oct-22 | 4 X 30,5t CRANES | excess $ 24.0m | undisclosed | BWTS fitted |
+| HMAX | SEA ROSE | 45,700 | 1995 | HASHIHAMA, Japan | B&W | May-25 | 4 X 30t CRANES | low $ 6.0m | Chinese |  |
+| HANDY | VENTURE OCEAN | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B&W | Oct-25 | 4 X 30,5t CRANES | $ 50.0m (en bloc) | undisclosed | BWTS fitted, Eco, OHBS |
+| HANDY | VENTURE TEAM | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B&W | Nov-25 | 4 X 30,5t CRANES | $ 50.0m (en bloc) | undisclosed | BWTS fitted, Eco, OHBS |
+| HANDY | ELEFTHERIOS T | 32,000 | 2013 | SAMHO, S. Korea | MAN-B&W | May-23 | 4 X 30t CRANES | region $ 20.0m | Greek | BWTS fitted, incl. T/C at 26K/day up to Sep 2022 + 6mos chopt |
+| HANDY | YANGTZE SPIRIT | 35,169 | 2012 | NANJING DONGZE, China | MAN-B&W | Jan-27 | 4 X 30t CRANES | excess $ 17.0m | undisclosed | BWTS fitted |
 
 © Intermodal Research 12/07/2022 4
 
@@ -251,21 +251,21 @@ In the Handysize sector we had the sale of the "YANGTZE SPIRIT" (35,169dwt-blt '
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | MATTERHORN SPIRIT | 114,834 | 2005 | DAEWOO, S. Korea | MAN-B&amp;W | Nov-25 | DH | $ 24.75m | UAE based | dely Septeber 2022, Ice 1A |
-| LR1 | STENA PARIS | 65,125 | 2005 | BRODOSPLIT, Croatia | MAN-B&amp;W | Dec-25 | DH | $ 15.0m | Greek | BWTS fitted |
-| MR2 | HIGH FIDELITY | 49,990 | 2014 | HYUNDAI, S. Korea | MAN-B&amp;W | Aug-24 | DH | $ 19.2m | Italian (D'Amico) | purchase option exercised |
-| MR2 | HIGH DISCOVERY | 45,999 | 2014 | HYUNDAI, S. Korea | MAN-B&amp;W | Feb-24 | DH | $ 20.3m | Italian (D'Amico) | purchase option exercised |
-| MR2 | EASTERN KALMIA | 50,359 | 2007 | SLS, S. Korea | MAN-B&amp;W | Jul-22 | DH | rgn $ 15.0m | undisclosed |  |
+| AFRA | MATTERHORN SPIRIT | 114,834 | 2005 | DAEWOO, S. Korea | MAN-B&W | Nov-25 | DH | $ 24.75m | UAE based | dely Septeber 2022, Ice 1A |
+| LR1 | STENA PARIS | 65,125 | 2005 | BRODOSPLIT, Croatia | MAN-B&W | Dec-25 | DH | $ 15.0m | Greek | BWTS fitted |
+| MR2 | HIGH FIDELITY | 49,990 | 2014 | HYUNDAI, S. Korea | MAN-B&W | Aug-24 | DH | $ 19.2m | Italian (D'Amico) | purchase option exercised |
+| MR2 | HIGH DISCOVERY | 45,999 | 2014 | HYUNDAI, S. Korea | MAN-B&W | Feb-24 | DH | $ 20.3m | Italian (D'Amico) | purchase option exercised |
+| MR2 | EASTERN KALMIA | 50,359 | 2007 | SLS, S. Korea | MAN-B&W | Jul-22 | DH | rgn $ 15.0m | undisclosed |  |
 | MR2 | NEUTRON SONIC | 49,995 | 2007 | SPP, S. Korea | Wartsila | Sep-22 | DH | $ 14.0m | undisclosed | SS/DD/BWTS due 09/2022 |
 | SMALL | DH ADMIRAL | 8,714 | 2018 | NANTONG,China | J-ENG | Jan-23 | DH | $ 18.5m | undisclosed | via online commercial auction |
 | SMALL | DH BLOSSOMING | 8,703 | 2018 | NANTONG,China | J-ENG | Jun-23 | DH | $ 18.5m | undisclosed | via online commercial auction |
-| SMALL | KIRANA SAPTA | 19,000 | 2016 | NAIKAI ZOSEN, Japan | MAN-B&amp;W | Jan-26 | DH | $ 20.0m | undisclosed | St-St |
+| SMALL | KIRANA SAPTA | 19,000 | 2016 | NAIKAI ZOSEN, Japan | MAN-B&W | Jan-26 | DH | $ 20.0m | undisclosed | St-St |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | XIN FENG SHANG HAI | 4,992 | 2005 | HANJIN HI, S. Korea | B\&amp;W | Nov-25 |  | $ 60.0m | undisclosed |
-| FEEDER | CRYSTAL ARROW | 1,020 | 2017 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jul-27 |  | $ 27.0m | undisclosed |
+| PMAX | XIN FENG SHANG HAI | 4,992 | 2005 | HANJIN HI, S. Korea | B&W | Nov-25 |  | $ 60.0m | undisclosed |
+| FEEDER | CRYSTAL ARROW | 1,020 | 2017 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jul-27 |  | $ 27.0m | undisclosed |
 
 © Intermodal Research 12/07/2022 5
 

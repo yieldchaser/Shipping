@@ -30,7 +30,7 @@ Clean MR'S remain tight and perform extremely well on both markets. MR Atlantic 
 
 With rates for the Capesize sector outperforming the rest of the market and those for Panamax and Supramax segments witnessing solid gains, the dry bulk market enjoyed an admittedly upbeat week. The BDI today (15/03/2022) closed at 2,689 points, up by 337 points compared to previous Tuesday's closing (08/03/2022). The crude carrier market conditions remain fragile amidst the ongoing Russian-Ukraine War. Overall, trips far away from the Russian ports are facing pressure while premiums for Russian related business were extended further. The BDTI today (15/03/2022) closed at 1,279, a decrease of 145 points, and the BCTI at 1,032, a decrease of 17 points compared to previous Tuesday's (08/03/2022) levels.
 
-## **Sale &amp; Purchase (Wet: Firmer / Dry: Firmer)**
+## **Sale & Purchase (Wet: Firmer / Dry: Firmer)**
 
 Buyers have displayed increased appetite across all of the dry bulk, tanker and container sectors last week. In the tanker sector, we had sale of the "ENEOS TOKYO" (300,976dwt-blt '04, Japan), which was sold to Chinese buyers, for a price in the region of \$31.0m. On the dry bulker side sector, we had the sale of the "BW RYE" (81,783dwt-blt '19, China), which was sold to Greek owner Neda, for a price in the region of \$37.5m.
 
@@ -129,7 +129,7 @@ VLCC T/C earnings averaged \$ -22,881/day, down - \$15,869/day w-o-w. All routes
 
 Suezmax T/C earnings averaged \$ 62,492/day, down - \$22,597/day w-o-w. Charterers have started to take the upper hand, with excessive pressure being added on rates last week. Aframax T/C earnings averaged \$ 53,526/day, down - \$11,780/day w-o-w. Limited options for the Baltic-UKC route have pushed rates even further, with TD17 increasing by 53.43WS points w-o-w. On the other hand, businesses far away from the Russian ports, faced additional pressure with TD7 North Sea/Continent route losing 84.07WS points while Cross-Med TD18 trip lost almost 100WS points and closed off the week at the 131.44WS points mark.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had sale of the "ENEOS TOKYO" (300,976dwt-bl't '04, Japan), which was sold to Chinese buyers, for a price in the region of \$31.0m.
 
@@ -198,7 +198,7 @@ Supramax 10TC averaged \$ 30,976/day, up + 13.10% w-o-w, the Handysize 7TC avera
 | **Ultramax** **63k** | 32.3 | 31.0 | **4.0%** | 26.4 | 19.4 | 22.6 |
 | **Handysize** **37K** | 28.0 | 27.3 | **2.8%** | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "STELLA ANITA" (180,355dwt-bl't '12, China), which was sold to Greek buyers, for a price in the region of \$29.0m.
 
@@ -215,19 +215,19 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | SARA | 323,183 | 2011 | STX, S. Korea | MAN-B\&amp;W | May-26 | DH | undisclosed | S. Korean (Sinokor) |  |
-| VLCC | SIMONE | 323,182 | 2012 | STX, S. Korea | MAN-B\&amp;W | Jun-22 | DH | undisclosed | S. Korean (Sinokor) |  |
-| VLCC | SANDRA | 314,000 | 2011 | STX, S. Korea | MAN-B\&amp;W | Aug-26 | DH | undisclosed | S. Korean (Sinokor) |  |
-| VLCC | SONIA | 314,000 | 2012 | STX, S. Korea | MAN-B\&amp;W | Jul-22 | DH | undisclosed | S. Korean (Sinokor) |  |
+| VLCC | SARA | 323,183 | 2011 | STX, S. Korea | MAN-B&W | May-26 | DH | undisclosed | S. Korean (Sinokor) |  |
+| VLCC | SIMONE | 323,182 | 2012 | STX, S. Korea | MAN-B&W | Jun-22 | DH | undisclosed | S. Korean (Sinokor) |  |
+| VLCC | SANDRA | 314,000 | 2011 | STX, S. Korea | MAN-B&W | Aug-26 | DH | undisclosed | S. Korean (Sinokor) |  |
+| VLCC | SONIA | 314,000 | 2012 | STX, S. Korea | MAN-B&W | Jul-22 | DH | undisclosed | S. Korean (Sinokor) |  |
 | VLCC | ENEOS TOKYO | 300,976 | 2004 | IHI, Japan | Sulzer | Jul-24 | DH | rgn $ 31.0m | Chinese | BWTS due 2024 |
-| SUEZ | DENSA ORCA | 158,322 | 2012 | HYUNDAI GUNSAN, S. Korea | MAN-B\&amp;W | Apr-22 | DH | $ 33.0m | Greek (Delta Tankers) |  |
+| SUEZ | DENSA ORCA | 158,322 | 2012 | HYUNDAI GUNSAN, S. Korea | MAN-B&W | Apr-22 | DH | $ 33.0m | Greek (Delta Tankers) |  |
 | LR2 | SRI ASIH | 109,637 | 2005 | DALIAN, China | Sulzer | Jun-25 | DH | $ 14.6m | undisclosed |  |
-| AFRA | BUNGA KELANA 10 | 105,274 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Sep-24 | DH | $ 12.0m | Indonesian (Waruna) |  |
-| AFRA | BUNGA KELANA 9 | 105,200 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Aug-24 | DH | $ 12.0m | Indonesian (Soechi Line) |  |
-| AFRA | BLUE POWER | 106,360 | 2003 | TSUNEISHI, Japan | B\&amp;W | Sep-23 | DH | $ 13.5m | Vietnamese |  |
-| MR2 | SUPER EMERALD | 50,346 | 2005 | SHINA, S. Korea | MAN-B\&amp;W | Dec-25 | DH | $ 10.0m | undisclosed |  |
-| MR2 | HIGH PRIORITY | 46,847 | 2005 | NAIKAI ZOSEN, Japan | B\&amp;W | Mar-25 | DH | excess $ 9.0m | undisclosed |  |
-| MR1 | PARAGON 11 | 40,208 | 2007 | SLS, S. Korea | MAN-B\&amp;W | Jul-22 | DH | rgn-low $ 9.0m | undisclosed |  |
+| AFRA | BUNGA KELANA 10 | 105,274 | 2004 | SAMSUNG, S. Korea | B&W | Sep-24 | DH | $ 12.0m | Indonesian (Waruna) |  |
+| AFRA | BUNGA KELANA 9 | 105,200 | 2004 | SAMSUNG, S. Korea | B&W | Aug-24 | DH | $ 12.0m | Indonesian (Soechi Line) |  |
+| AFRA | BLUE POWER | 106,360 | 2003 | TSUNEISHI, Japan | B&W | Sep-23 | DH | $ 13.5m | Vietnamese |  |
+| MR2 | SUPER EMERALD | 50,346 | 2005 | SHINA, S. Korea | MAN-B&W | Dec-25 | DH | $ 10.0m | undisclosed |  |
+| MR2 | HIGH PRIORITY | 46,847 | 2005 | NAIKAI ZOSEN, Japan | B&W | Mar-25 | DH | excess $ 9.0m | undisclosed |  |
+| MR1 | PARAGON 11 | 40,208 | 2007 | SLS, S. Korea | MAN-B&W | Jul-22 | DH | rgn-low $ 9.0m | undisclosed |  |
 
 © Intermodal Research 15/03/2022 4
 
@@ -238,23 +238,23 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | STELLA ANITA | 180,355 | 2012 | DALIAN, China | MAN-B\&amp;W | Jan-27 |  | rgn $ 29.0m | Greek |  |
-| KMAX | ALAM KUKUH | 82,079 | 2019 | OSHIMA, Japan | MAN-B\&amp;W | Jan-24 |  | rgn $ 38.75m | undisclosed | delivery May 2022 |
-| KMAX | BW RYE | 81,783 | 2019 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jan-24 |  | $ 37.5m | Greek (Neda) |  |
-| KMAX | AGRI GRANDE | 81,966 | 2017 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Jan-27 |  | rgn $ 30.0m | Chinese | Tier II |
+| CAPE | STELLA ANITA | 180,355 | 2012 | DALIAN, China | MAN-B&W | Jan-27 |  | rgn $ 29.0m | Greek |  |
+| KMAX | ALAM KUKUH | 82,079 | 2019 | OSHIMA, Japan | MAN-B&W | Jan-24 |  | rgn $ 38.75m | undisclosed | delivery May 2022 |
+| KMAX | BW RYE | 81,783 | 2019 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jan-24 |  | $ 37.5m | Greek (Neda) |  |
+| KMAX | AGRI GRANDE | 81,966 | 2017 | JIANGSU NEWYANGZI, China | MAN-B&W | Jan-27 |  | rgn $ 30.0m | Chinese | Tier II |
 | KMAX | EVERGLORY | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Aug-22 |  | rgn $ 19.5m each | undisclosed |  |
 | KMAX | RENAISSANCE | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Dec-22 |  | rgn $ 19.5m each | undisclosed |  |
-| KMAX | MBA LIBERTY | 82,217 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jan-25 |  | $ 22.0m | undisclosed | BWTS fitted, incl. TC |
-| PMAX | CORAL RUBY | 76,596 | 2008 | IMABARI, Japan | MAN-B\&amp;W | Jun-23 |  | $ 18.6m | Greek |  |
-| PMAX | AQUAKNIGHT | 75,395 | 2007 | UNIVERSAL, Japan | MAN-B\&amp;W | Jun-22 |  | rgn $ 17.0m | undisclosed | incl. BWTS cost |
-| UMAX | HANTON TRADER II | 63,800 | 2014 | JIANGSU HANTONG, China | MAN-B\&amp;W | Aug-24 | 4 X 30t CRANES | rgn $ 25.75m | Hong Kong based (Jinhui Shipping &amp; Trading) | BWTS fitted and Tier II compliant |
-| SUPRA | FRIENDLY SEAS | 58,779 | 2008 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Feb-23 | 4 X 30t CRANES | high $ 18.0m | Chinese |  |
-| SUPRA | PRABHU GOPAL | 56,025 | 2003 | MITSUI, Japan | MAN-B\&amp;W | Mar-23 | 4 X 30t CRANES | excess $ 14.0m | Chinese |  |
-| HANDY | INTERLINK FIDELITY | 38,792 | 2015 | TAIZHOU KOUAN, China | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | $ 25.25m | undisclosed | BWTS fitted, Eco, ICE CLASS 1C |
-| HANDY | INTERLINK MOBILITY | 38,767 | 2015 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Jul-25 | 4 X 30t CRANES | $ 25.5m | undisclosed | BWTS fitted, Eco, ICE CLASS 1C |
-| HANDY | ATLANTIC VERACRUZ | 28,339 | 2009 | SHIMANAMI, Japan | MAN-B\&amp;W | Jul-22 | 4 X 30,5t CRANES | $ 13.5m | Vietnamese | old deal |
+| KMAX | MBA LIBERTY | 82,217 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jan-25 |  | $ 22.0m | undisclosed | BWTS fitted, incl. TC |
+| PMAX | CORAL RUBY | 76,596 | 2008 | IMABARI, Japan | MAN-B&W | Jun-23 |  | $ 18.6m | Greek |  |
+| PMAX | AQUAKNIGHT | 75,395 | 2007 | UNIVERSAL, Japan | MAN-B&W | Jun-22 |  | rgn $ 17.0m | undisclosed | incl. BWTS cost |
+| UMAX | HANTON TRADER II | 63,800 | 2014 | JIANGSU HANTONG, China | MAN-B&W | Aug-24 | 4 X 30t CRANES | rgn $ 25.75m | Hong Kong based (Jinhui Shipping & Trading) | BWTS fitted and Tier II compliant |
+| SUPRA | FRIENDLY SEAS | 58,779 | 2008 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Feb-23 | 4 X 30t CRANES | high $ 18.0m | Chinese |  |
+| SUPRA | PRABHU GOPAL | 56,025 | 2003 | MITSUI, Japan | MAN-B&W | Mar-23 | 4 X 30t CRANES | excess $ 14.0m | Chinese |  |
+| HANDY | INTERLINK FIDELITY | 38,792 | 2015 | TAIZHOU KOUAN, China | MAN-B&W | May-25 | 4 X 30t CRANES | $ 25.25m | undisclosed | BWTS fitted, Eco, ICE CLASS 1C |
+| HANDY | INTERLINK MOBILITY | 38,767 | 2015 | TAIZHOU KOUAN, China | MAN-B&W | Jul-25 | 4 X 30t CRANES | $ 25.5m | undisclosed | BWTS fitted, Eco, ICE CLASS 1C |
+| HANDY | ATLANTIC VERACRUZ | 28,339 | 2009 | SHIMANAMI, Japan | MAN-B&W | Jul-22 | 4 X 30,5t CRANES | $ 13.5m | Vietnamese | old deal |
 | HANDY | HAPPY HIRO | 32,610 | 2006 | KANDA, Japan | Mitsubishi | Feb-26 | 4 X 30,5t CRANES | rgn $ 13.0m | undisclosed |  |
-| HANDY | CAPE FLATTERY | 28,433 | 2004 | IMABARI, Japan | MAN-B\&amp;W | Mar-24 | 4 X 30,5t CRANES | $ 9.75m | undisclosed |  |
+| HANDY | CAPE FLATTERY | 28,433 | 2004 | IMABARI, Japan | MAN-B&W | Mar-24 | 4 X 30,5t CRANES | $ 9.75m | undisclosed |  |
 
 © Intermodal Research 15/03/2022 5
 
@@ -265,20 +265,20 @@ In the Kamsarmax sector we had the sale of the "BW RYE" (81,783dwt-bl't '19, Chi
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | SEALAND ILLINOIS | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Feb-25 |  | $ 61.0m | undisclosed | incl. low TC until end 2022/ear 2023 |
-| POST PMAX | SEALAND MICHIGAN | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Oct-25 |  | $ 61.0m | undisclosed | incl. low TC until end 2022/ear 2023 |
-| POST PMAX | YORK | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B\&amp;W | May-25 |  | $ 61.0m | undisclosed | incl. low TC until end 2022/ear 2023 |
-| POST PMAX | SEALAND WASHINGTON | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Aug-25 |  | $ 72.3m | undisclosed | incl. low TC until end 2022/ear 2023 |
-| POST PMAX | MAERSK KALAMATA | 6,644 | 2003 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Jun-23 |  | $ 77.7m | undisclosed | incl. low TC until end 2022/ear 2023 |
+| POST PMAX | SEALAND ILLINOIS | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B&W | Feb-25 |  | $ 61.0m | undisclosed | incl. low TC until end 2022/ear 2023 |
+| POST PMAX | SEALAND MICHIGAN | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B&W | Oct-25 |  | $ 61.0m | undisclosed | incl. low TC until end 2022/ear 2023 |
+| POST PMAX | YORK | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B&W | May-25 |  | $ 61.0m | undisclosed | incl. low TC until end 2022/ear 2023 |
+| POST PMAX | SEALAND WASHINGTON | 6,648 | 2000 | HYUNDAI ULSAN, S. Korea | B&W | Aug-25 |  | $ 72.3m | undisclosed | incl. low TC until end 2022/ear 2023 |
+| POST PMAX | MAERSK KALAMATA | 6,644 | 2003 | HYUNDAI ULSAN, S. Korea | B&W | Jun-23 |  | $ 77.7m | undisclosed | incl. low TC until end 2022/ear 2023 |
 | POST PMAX | ALLEGORIA | 5,527 | 2006 | CSBC, China | Sulzer | Apr-26 |  | $ 109.5m | Taiwanese (Wan Hai Lines) | Delivery Q4-2022 |
 | PMAX | MP THE MCGINEST | 4,400 | 2010 | HYUNDAI SAMHO, S. Korea | Wartsila | Mar-25 |  | $ 40.0m | German | incl index linked TC until Jan '23 - Jan '25 |
-| FEEDER | DONGJIN AUBE | 1,060 | 2005 | HAKATA, Japan | B\&amp;W | Aug-25 |  | undisclosed | Swiss (MSC) | scrubber fitted |
+| FEEDER | DONGJIN AUBE | 1,060 | 2005 | HAKATA, Japan | B&W | Aug-25 |  | undisclosed | Swiss (MSC) | scrubber fitted |
 ## Containers
 
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BRIGHT HORIZON | 30,538 | 2002 | DALIAN, China | MAN-B&amp;W | Jun-22 | 2 X 100t CRANES, 2 X 50t CRANES | undisclosed | Swiss (MSC) | 1,842 TEU |
-| GREEN FRONTIER | 14,387 | 2007 | HIGAKI, Japan | MAN-B&amp;W | Sep-26 | 2 X 30,7t CRANES, 1 X 30t CRANES | $ 8.70m | Japanese |  |
+| BRIGHT HORIZON | 30,538 | 2002 | DALIAN, China | MAN-B&W | Jun-22 | 2 X 100t CRANES, 2 X 50t CRANES | undisclosed | Swiss (MSC) | 1,842 TEU |
+| GREEN FRONTIER | 14,387 | 2007 | HIGAKI, Japan | MAN-B&W | Sep-26 | 2 X 30,7t CRANES, 1 X 30t CRANES | $ 8.70m | Japanese |  |
 
 © Intermodal Research 15/03/2022 6
 

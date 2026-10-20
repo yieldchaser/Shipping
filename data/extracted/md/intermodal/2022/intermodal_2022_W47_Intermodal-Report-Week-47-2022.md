@@ -29,7 +29,7 @@ In sum, with all the above-described benefits and with a potential of more than 
 
 With the exception of the Capesize rates which corrected upward during the past days, limited activity materialized for the rest of the sizes with the Panamax sector bearing the brunt of this negative momentum. The BDI today (29/11/2022) closed at 1,327 points, up by 178 points compared to previous Tuesday's closing (22/11/2022). Pressure was evident in the VLCC sector amidst limited cargo enquiries and a pause on USG activity due to a combination of weather disruptions and the Thanksgiving holidays. On the other hand, both Suezmax and Aframax rates noted impressive gains last week. The BDTI today (29/11/2022) closed at 2,433, a decrease of 63 points and the BCTI at 1,813, an increase of 164 points compared to previous Tuesday's (22/11/2022) levels.
 
-## <u>Sale &amp; Purchase (<u>**Wet: **Firmer** / Dry: **Firmer**</u>)</u>
+## <u>Sale & Purchase (<u>**Wet: **Firmer** / Dry: **Firmer**</u>)</u>
 
 The SnP activity picked up during the past days with increased interest materializing across both the tanker and dry bulk sectors. In the tanker sector, we had the sale of the "CONCORD" (159,155dwt-blt '05, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$33.0m. On the dry bulker side sector, we had the sale of the "NORD LIBRA" (77,134dwt-blt '14, Japan), which was sold to Greek owner Velos, for a price in the region of \$22.0m.
 
@@ -123,7 +123,7 @@ VLCC T/C earnings averaged \$ 65,299/day, down - \$1,529/day w-o-w, and closed o
 
 Suezmax T/C earnings averaged \$128,290/day, up + \$36,791/day w-o-w. On the Aframax front, T/C earnings averaged \$ 108,703/day, up + \$21,566/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had the sale of the "CONCORD" (159,155dwt-blt '05, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$33.0m.
 
@@ -189,7 +189,7 @@ Supramax 10TC averaged \$ 12,853/day, down - 1.12% w-o-w, while the Handysize 7T
 | **Ultramax** | **63k** | 28.9 | 29.5 | -2.1% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.5 | 25.6 | -4.4% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "AQUATAINE" (181,725dwt-bl't '10, Japan), which was sold to Greek owner Brave Maritime, for a price in the region of \$26.5m.
 
@@ -204,33 +204,33 @@ In the Panamax sector we had the sale of the "NORD LIBRA" (77,134dwt-bl't '14, J
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | CONCORD | 159,155 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Jan-26 | DH | $ 33.0m | undisclosed | BWTS fitted, dely Q1 2023 |
+| SUEZ | CONCORD | 159,155 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jan-26 | DH | $ 33.0m | undisclosed | BWTS fitted, dely Q1 2023 |
 | SUEZ | NAVIGA | 150,841 | 1998 | NKK, Japan | Sulzer | Jul-24 | DH | $ 18.7m | Chinese |  |
 | AFRA | NORDBAY | 116,104 | 2007 | UNIVERSAL, Japan | Sulzer | Feb-27 | DH | rgn $34.5m | undisclosed | BWTS fitted |
-| AFRA | S PUMA | 105,034 | 2005 | SWS, China | MAN-B&amp;W | Apr-25 | DH | $ 23.5m | Middle Eastern | BWTS fitted |
-| LR1 | FREIGHT MARGIE | 70,313 | 2004 | DAEWOO, S. Korea | MAN-B&amp;W | Jun-24 | DH | $ 14.5m | undisclosed |  |
-| MR2 | GWN 2 | 50,192 | 2020 | SAMSUNG, S. Korea | MAN-B&amp;W | Sep-25 | DH | $ 38.5m | Japanese | BWTS, Scrubber fitted, Tier III, Internal deal |
-| MR1 | NORDIC TATIANA | 38,396 | 2007 | GUANGZHOU, China | MAN-B&amp;W | Sep-27 | DH | $ 15.7m | undisclosed | BWTS fitted |
-| MR1 | PETROLIMEX 10 | 37,256 | 2003 | SHINA, S. Korea | B&amp;W | Jan-23 | DH | $ 10.0m | Vietnamese |  |
+| AFRA | S PUMA | 105,034 | 2005 | SWS, China | MAN-B&W | Apr-25 | DH | $ 23.5m | Middle Eastern | BWTS fitted |
+| LR1 | FREIGHT MARGIE | 70,313 | 2004 | DAEWOO, S. Korea | MAN-B&W | Jun-24 | DH | $ 14.5m | undisclosed |  |
+| MR2 | GWN 2 | 50,192 | 2020 | SAMSUNG, S. Korea | MAN-B&W | Sep-25 | DH | $ 38.5m | Japanese | BWTS, Scrubber fitted, Tier III, Internal deal |
+| MR1 | NORDIC TATIANA | 38,396 | 2007 | GUANGZHOU, China | MAN-B&W | Sep-27 | DH | $ 15.7m | undisclosed | BWTS fitted |
+| MR1 | PETROLIMEX 10 | 37,256 | 2003 | SHINA, S. Korea | B&W | Jan-23 | DH | $ 10.0m | Vietnamese |  |
 | SMALL | DH DILIGENCY | 8,716 | 2019 | NANTONG,China | J-ENG | Aug-24 | DH | $ 20.0m | Chinese | via online auction, BWTS fitted, StSt |
 | SMALL | JIN FU XING 9 | 4,999 | 2008 | ZHEJIANG, China | Guangzhou | Aug-23 | DH | $ 4.0m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | AQUATAINE | 181,725 | 2010 | IMABARI, Japan | MAN-B\&amp;W | Aug-25 |  | $ 26.5m | Greek (Brave Maritime) | BWTS fitted |
-| KMAX | LOWLANDS COMFORT | 81,845 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Feb-26 |  | $ 26.4m | European | BWTS fitted, bss Feb '22 cancelling |
-| PMAX | NORD LIBRA | 77,134 | 2014 | IMABARI, Japan | MAN-B\&amp;W | Nov-24 |  | $ 22.0m | Greek (Velos) | BWTS, Scrubber fitted, Eco |
+| CAPE | AQUATAINE | 181,725 | 2010 | IMABARI, Japan | MAN-B&W | Aug-25 |  | $ 26.5m | Greek (Brave Maritime) | BWTS fitted |
+| KMAX | LOWLANDS COMFORT | 81,845 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&W | Feb-26 |  | $ 26.4m | European | BWTS fitted, bss Feb '22 cancelling |
+| PMAX | NORD LIBRA | 77,134 | 2014 | IMABARI, Japan | MAN-B&W | Nov-24 |  | $ 22.0m | Greek (Velos) | BWTS, Scrubber fitted, Eco |
 | PMAX | FORTUNE LADY | 74,694 | 1998 | NKK CORP, Japan | Sulzer | Mar-23 |  | $ 6.0m | Chinese | BWTS fitted |
-| UMAX | ITALIAN BULKER | 63,482 | 2017 | SHIN KASADO, Japan | MAN-B\&amp;W | Mar-27 | 4 X 30,7t CRANES | $ 26.8m | UK based (Dao Shipping) | Eco, purchase option exercised |
-| HMAX | GLORIOUS LOTUS | 49,602 | 2007 | TSUNEISHI, Japan | MAN-B\&amp;W | Aug-27 | 3 X 14,7t CRANES | $ 13.0m | undisclosed | woodchip carrier |
+| UMAX | ITALIAN BULKER | 63,482 | 2017 | SHIN KASADO, Japan | MAN-B&W | Mar-27 | 4 X 30,7t CRANES | $ 26.8m | UK based (Dao Shipping) | Eco, purchase option exercised |
+| HMAX | GLORIOUS LOTUS | 49,602 | 2007 | TSUNEISHI, Japan | MAN-B&W | Aug-27 | 3 X 14,7t CRANES | $ 13.0m | undisclosed | woodchip carrier |
 | HANDY | TS BRAVO | 38,896 | 2015 | SHANHAIGUAN, China | Wartsila | Oct-25 | 4 X 30t CRANES | high $16.0m | Danish (Navision) | BWTS, bss delivery January 2023 |
-| HANDY | MELINA | 28,418 | 2009 | IMABARI, Japan | MAN-B\&amp;W | Sep-24 | 4 X 30,5t CRANES | $ 11.0m | undisclosed | basis DD passed and BWTS fitted |
+| HANDY | MELINA | 28,418 | 2009 | IMABARI, Japan | MAN-B&W | Sep-24 | 4 X 30,5t CRANES | $ 11.0m | undisclosed | basis DD passed and BWTS fitted |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | TEERA BHUM | 1,858 | 2005 | JIANGSU, China | MAN-B\&amp;W | Jan-25 |  | undisclosed | undisclosed |
+| FEEDER | TEERA BHUM | 1,858 | 2005 | JIANGSU, China | MAN-B&W | Jan-25 |  | undisclosed | undisclosed |
 
 © Intermodal Research 29/11/2022 4
 

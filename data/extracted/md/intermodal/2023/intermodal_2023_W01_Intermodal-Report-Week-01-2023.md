@@ -30,7 +30,7 @@ If the price cap starts to influence Russia, it could create political space for
 
 A weak start of the year with all sizes witnessing notable declines in their earnings across both basins. The BDI today (10/01/2023) closed at 1,096 points, down by 154 points compared to previous Tuesday's closing (03/01/2023). The activity was subdued during the first days of 2023 for the crude owners with the rates across all sizes noting significant declines. The BDTI today (10/01/2023) closed at 1,423, a decrease of 42 points and the BCTI at 1,019, a decrease of 186 points compared to previous Tuesday's (03/01/2023) levels.
 
-## **Sale &amp; Purchase (Wet: Stable+ / Dry: Stable+)**
+## **Sale & Purchase (Wet: Stable+ / Dry: Stable+)**
 
 There was some activity on the SnP tanker realm which was however translated to only a handful of deals materializing. On the dry bulk front, interest remains stronger with a healthy number of units changing hands. In the tanker sector, we had the sale of the "ASIA DAWN" (281,396dwt-blt '05, Japan), which was sold to Middle Eastern buyers, for a price in the region of low \$50.0m. On the dry bulker side sector, we had the sale of the "AQUASALWADOR" (180,012dwt-blt '12, S. Korea), which was sold to Greek buyers, for a price in the region of \$27.0m.
 
@@ -127,7 +127,7 @@ VLCC T/C earnings averaged \$ 25,523/day, down - \$8,163/day w-o-w and closed of
 
 Suezmax T/C earnings averaged \$ 71,163/day, down - \$20,262/day w-o-w. On the Aframax front, T/C earnings averaged \$ 63,735/day, down - \$15,514/day w-o-w .
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "ASIA DAWN" (281,396dwt-blt '05, Japan), which was sold to Middle Eastern buyers, for a price in the region of low \$50.0m.
 
@@ -190,7 +190,7 @@ Supramax 10TC averaged \$ 10,237/day, down - 15.78% w-o-w, while the Handysize 7
 | **Ultramax** | **63k** | 28.0 | 28.9 | -3.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.0 | 24.5 | -2.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "AQUASALWADOR" (180,012dwt-blt '12, S. Korea), which was sold to Greek buyers, for a price in the region of \$27.0m.
 
@@ -207,21 +207,21 @@ In the Supramax sector we had the sale of the "SEA KSANTI" (59,941dwt-blt '12, S
 | Sector | Size | Tankers | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | ASIA DAWN | 281,396 | 2005 | IHI MARINE, Japan | Sulzer | Oct-25 | DH | low $50.0m | Middle Eastern | BWTS fitted |
-| VLCC | COSGREAT LAKE | 298,833 | 2002 | NANTONG,China | MAN-B&amp;W | Dec-27 | DH | $ 39.0m | Middle Eastern (GMS) | BWTS fitted |
-| SUEZ | ICE TRANSPORTER | 146,270 | 2006 | UNIVERSAL, Japan | MAN-B&amp;W | Oct-26 | DH | $ 47.5m | Middle Eastern | BWTS fitted, Ice 1A |
+| VLCC | COSGREAT LAKE | 298,833 | 2002 | NANTONG,China | MAN-B&W | Dec-27 | DH | $ 39.0m | Middle Eastern (GMS) | BWTS fitted |
+| SUEZ | ICE TRANSPORTER | 146,270 | 2006 | UNIVERSAL, Japan | MAN-B&W | Oct-26 | DH | $ 47.5m | Middle Eastern | BWTS fitted, Ice 1A |
 | SMALL | CHANTACO | 18,734 | 2007 | RMK MARINE, Turkey | Wartsila | Oct-26 | DH | $ 20.7m | Canadian (Algoma) | Ice 1A |
 | SMALL | CHIBERTA | 18,734 | 2007 | RMK MARINE, Turkey | Wartsila | Oct-26 | DH |  |  | Ice 1A |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | AQUASALWADOR | 180,012 | 2012 | DAEHAN, S. Korea | MAN-B\&amp;W | Jan-27 |  | rgn $ 27.0m | Greek | BWTS fitted |
-| CAPE | CAPE MAPLE | 206,204 | 2005 | IMABARI, Japan | MAN-B\&amp;W | Aug-25 |  | low $ 15.0m | Turkish | BWTS fitted |
-| SUPRA | SEA KSANTI | 59,941 | 2012 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-27 | 4 X 30t CRANES | $ 18.8m | Turkish | BWTS fitted |
-| SUPRA | SUNRISE RAINBOW | 56,416 | 2012 | Jiangsu Hantong, China | MAN-B\&amp;W | Jul-25 | 4 X 36t CRANES | rgn $ 15.5m | undisclosed | BWTS fitted, Tier II |
-| SUPRA | ROYAL FAIRNESS | 55,654 | 2011 | MITSUI TAMANO, Japan | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | rgn $ 16.0m | Greek | BWTS fitted |
-| HANDY | KIRISHIMA SKY | 35,309 | 2014 | MINAMI-NIPPON, Japan | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | $ 16.35m | Turkish | BWTS fitted |
-| HANDY | LOVELY LEAH | 28,383 | 2012 | IMABARI, Japan | MAN-B\&amp;W | Jan-26 | 4 X 30,5t CRANES | $ 11.4m | Greek | BWTS fitted |
+| CAPE | AQUASALWADOR | 180,012 | 2012 | DAEHAN, S. Korea | MAN-B&W | Jan-27 |  | rgn $ 27.0m | Greek | BWTS fitted |
+| CAPE | CAPE MAPLE | 206,204 | 2005 | IMABARI, Japan | MAN-B&W | Aug-25 |  | low $ 15.0m | Turkish | BWTS fitted |
+| SUPRA | SEA KSANTI | 59,941 | 2012 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-27 | 4 X 30t CRANES | $ 18.8m | Turkish | BWTS fitted |
+| SUPRA | SUNRISE RAINBOW | 56,416 | 2012 | Jiangsu Hantong, China | MAN-B&W | Jul-25 | 4 X 36t CRANES | rgn $ 15.5m | undisclosed | BWTS fitted, Tier II |
+| SUPRA | ROYAL FAIRNESS | 55,654 | 2011 | MITSUI TAMANO, Japan | MAN-B&W | Oct-25 | 4 X 30t CRANES | rgn $ 16.0m | Greek | BWTS fitted |
+| HANDY | KIRISHIMA SKY | 35,309 | 2014 | MINAMI-NIPPON, Japan | MAN-B&W | May-25 | 4 X 30t CRANES | $ 16.35m | Turkish | BWTS fitted |
+| HANDY | LOVELY LEAH | 28,383 | 2012 | IMABARI, Japan | MAN-B&W | Jan-26 | 4 X 30,5t CRANES | $ 11.4m | Greek | BWTS fitted |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -237,10 +237,10 @@ In the Supramax sector we had the sale of the "SEA KSANTI" (59,941dwt-blt '12, S
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | BW ODIN | 58,551 | 2009 | HYUNDAI, S. Korea | MAN-B&amp;W | Mar-24 | 80,797 | $ 59.0m | Vietnamese (FGAS Petrol) | Scrubber fitted |
-| LPG | BW AUSTRIA | 54,707 | 2009 | DAEWOO, S. Korea | MAN-B&amp;W | Mar-24 | 82,922 | $ 59.0m | Vietnamese (FGAS Petrol) | Scrubber fitted |
-| LPG | TELENDOS | 26,634 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jan-25 | 34,513 | $ 33.0m | undisclosed |  |
-| LPG | GAS PRODIGY | 3,633 | 2003 | ZHEJIANG NINGBO, Indonesia | MAN-B&amp;W | Apr-23 | 4,930 | $ 5.1m | Indonesian |  |
+| LPG | BW ODIN | 58,551 | 2009 | HYUNDAI, S. Korea | MAN-B&W | Mar-24 | 80,797 | $ 59.0m | Vietnamese (FGAS Petrol) | Scrubber fitted |
+| LPG | BW AUSTRIA | 54,707 | 2009 | DAEWOO, S. Korea | MAN-B&W | Mar-24 | 82,922 | $ 59.0m | Vietnamese (FGAS Petrol) | Scrubber fitted |
+| LPG | TELENDOS | 26,634 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-25 | 34,513 | $ 33.0m | undisclosed |  |
+| LPG | GAS PRODIGY | 3,633 | 2003 | ZHEJIANG NINGBO, Indonesia | MAN-B&W | Apr-23 | 4,930 | $ 5.1m | Indonesian |  |
 | LPG | GAS SPIRIT | 3,409 | 2001 | HIGAKI, Japan | Mitsubishi | Dec-25 | 4,030 | $ 5.7m | Ukrainian | BWTS fitted |
 
 © Intermodal Research 10/01/2023 5

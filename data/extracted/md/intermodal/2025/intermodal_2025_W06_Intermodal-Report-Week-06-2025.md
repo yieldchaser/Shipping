@@ -190,7 +190,7 @@ This week the newbuilding market saw activity across container-ship, LNG, Cruise
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6 | Container | 16,800 teu | Hanwha Ocean, S.Korea | 2027+ | German (Hapag-Lloyd) | $ 200.0m | LNG dual fuel |
 | 4+2 | Container | 4,300 teu | Taizhou Sanfu, China | 2027-2028 | Danish (Navigare Capital) | undisclosed | eco vessels |
-| 1 | LNG bunkering | 18,000 cbm | HJ Shipbuilding &amp; Construction, S. Korea | undisclosed | S. Korean (H-Line Shipping) | $ 88.0m |  |
+| 1 | LNG bunkering | 18,000 cbm | HJ Shipbuilding & Construction, S. Korea | undisclosed | S. Korean (H-Line Shipping) | $ 88.0m |  |
 | 2 | Offshore |  | CMHI Shenzhen, China | 2027-2028 | Norwegian (Olympic Subsea ASA) | undisclosed | Battery Hybrid, Sustainable Energy |
 | 2 | Cruiseship | 5,100 dwt | Fincantieri Monfalcone, Italy | 2034-2036 | Norwegian (NCL) | undisclosed |  |
 | 1+1 | Hvy Lift |  | Dalian Shipbuilding Offshore, China | 2026 | Norwegian (Boa Offshore) | undisclosed | 166 m length, Semi-submersible |

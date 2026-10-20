@@ -24,7 +24,7 @@ Last but not least, China is expecting record production for corn and soybeans, 
 
 The dry bulk market performance remained negative for another week with both Chinese break and iron ore exports slowdown amidst rainfall in Brazil weighting down on sentiment. The BDI today (24/01/2023) closed at 721 points, down by 200 points compared to previous Tuesday's closing (17/01/2023). Demand for crude carriers has remained weak in recent days, however, with owners managing to resist any further declines with the focus now on the end of the Chinese break that could provide a boost to crude demand. The BDTI today (24/01/2023) closed at 1,384, a decrease of 43 points and the BCTI at 700, a decrease of 101 points compared to previous Tuesday's (17/01/2023) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: Softer)
+## Sale & Purchase (Wet: Softer / Dry: Softer)
 
 SnP activity was considerably weaker during the past days with only a handful of dry bulk and tanker deals materializing. In the tanker sector, we had the sale of the "ARCADIA V" (298,920dwt-blt '00, Japan), which was sold to undisclosed buyers, for a price in the region of \$40.0m. On the dry bulker side sector, we had the sale of the "AQUAGENIE" (177,346dwt-blt '03, Japan), which was sold to undisclosed buyers, for a price in the region of \$14.35m.
 
@@ -179,7 +179,7 @@ VLCC T/C earnings averaged \$ 11,488/day, down - \$6,799/day w-o-w, and closed o
 
 Suezmax T/C earnings averaged \$ 88,511/day, up + \$16,224/day w-o-w. On the Aframax front, T/C earnings averaged \$ 67,996/day, up + \$2,323/day w-o-w .
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the “ARCADIA V” (298,920dwt-blt '00, Japan), which was sold to undisclosed buyers, for a price in the region of \$40.0m.
 
@@ -238,7 +238,7 @@ Supramax 10TC averaged \$ 7,255/day, down - 13.02% w-o-w, while the Handysize 7T
 | **Ultramax** | **63k** | 28.0 | 28.0 | 0.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.0 | 24.0 | 0.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "AQUAGENIE" (177,346dwt-bl't '03, Japan), which was sold to undisclosed buyers, for a price in the region of \$14.35m.
 
@@ -253,22 +253,22 @@ In the Capesize sector we had the sale of the "AQUAGENIE" (177,346dwt-bl't '03, 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ULCC | OCEANIA | 441,585 | 2003 | DAEWOO, S. Korea | Sulzer | Mar-25 | DH | $ 50.0m | undisclosed |  |
-| VLCC | POROS | 318,068 | 2008 | SWS, China | MAN-B\&amp;W | Oct-23 | DH | undisclosed | undisclosed |  |
-| VLCC | ARCADIA V | 298,920 | 2000 | KAWASAKI, Japan | B\&amp;W | Sep-25 | DH | $ 40.0m | undisclosed | BWTS fitted |
-| LR2 | LEO | 112,795 | 2010 | NEW TIMES, China | MAN-B\&amp;W | Sep-25 | DH | $ 43.0m | Middle Eastern | BWTS fitted |
-| MR1 | NORDIC TATIANA | 38,396 | 2007 | GUANGZHOU, China | MAN-B\&amp;W | Sep-27 | DH | $ 16.0m | Greek | BWTS fitted |
+| VLCC | POROS | 318,068 | 2008 | SWS, China | MAN-B&W | Oct-23 | DH | undisclosed | undisclosed |  |
+| VLCC | ARCADIA V | 298,920 | 2000 | KAWASAKI, Japan | B&W | Sep-25 | DH | $ 40.0m | undisclosed | BWTS fitted |
+| LR2 | LEO | 112,795 | 2010 | NEW TIMES, China | MAN-B&W | Sep-25 | DH | $ 43.0m | Middle Eastern | BWTS fitted |
+| MR1 | NORDIC TATIANA | 38,396 | 2007 | GUANGZHOU, China | MAN-B&W | Sep-27 | DH | $ 16.0m | Greek | BWTS fitted |
 ## Bulk Carriers
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | AQUANAVIGATOR | 179,905 | 2011 | DAEHAN, S. Korea | MAN-B\&amp;W | Dec-26 |  | mid/high $ 20s | undisclosed | BWTS fitted |
+| CAPE | AQUANAVIGATOR | 179,905 | 2011 | DAEHAN, S. Korea | MAN-B&W | Dec-26 |  | mid/high $ 20s | undisclosed | BWTS fitted |
 | CAPE | AQUAGENIE | 177,346 | 2003 | NAMURA, Japan | Mitsubishi | Dec-23 |  | $ 14.35m | undisclosed |  |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | SITC SURABAYA | 2,742 | 2006 | AKER MTW WERFT, Germany | MAN-B\&amp;W | Mar-26 | 3 X 45t CRANES | $ 13.0m | undisclosed |  |
-| FEEDER | NICKIE B | 1,368 | 2011 | AVIC WEIHAI, China | MAN-B\&amp;W | Jul-26 | 2 X 40t CRANES | undisclosed | German (Hermann Hofmann) | incl. TC attached |
+| FEEDER | SITC SURABAYA | 2,742 | 2006 | AKER MTW WERFT, Germany | MAN-B&W | Mar-26 | 3 X 45t CRANES | $ 13.0m | undisclosed |  |
+| FEEDER | NICKIE B | 1,368 | 2011 | AVIC WEIHAI, China | MAN-B&W | Jul-26 | 2 X 40t CRANES | undisclosed | German (Hermann Hofmann) | incl. TC attached |
 
 © Intermodal Research 24/01/2023 4
 

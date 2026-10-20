@@ -28,7 +28,7 @@ Therefore, a further fleet supply squeeze creates good chances that younger vess
 
 The Capesize market has corrected over the past week driving the Baltic Dry Index downward. On the other hand, the rest of the sizes enjoyed a strong performance w-o-w. The BDI today (19/10/2021) closed at 4,714 down by 664 points compared to previous Tuesday's (12/10/2021) levels. The crude carrier markets presented a mixed picture last week. VLCC rates seem unable to build a positive momentum while the rest of the sizes displayed a more optimistic outlook with improvements in rates materializing in most of the regions. The BDTI today (19/10/2021) closed at 737 points, an increase of 36 points, and the BCTI at 568, an increase of 91 points compared to previous Tuesday's (12/10/2021) levels.
 
-## **Sale &amp; Purchase** (Wet: Stable+ / Dry: Stable+)
+## **Sale & Purchase** (Wet: Stable+ / Dry: Stable+)
 
 The clean tanker sector continues to be the main owner's focus in the tanker SnP arena, while a stable but healthy volume of dry bulk secondhand deals also came to light last week. In the tanker sector, we had the sale of the "SCF URAL" (159,314dwt-blt '02, S. Korea), which was sold to Middle Eastern buyers, for a price in the region of \$16.0m. On the dry bulker side sector, we had the sale of the "LENA B" (81,922dwt-blt '17, China), which was sold to Vietnamese owner, Ho Phat, for price in the region of excess \$35.0m.
 
@@ -128,7 +128,7 @@ VLCC T/C earnings averaged \$ -9,413/day, down by -\$2,558/day w-o-w and closed 
 
 Suezmax T/C earnings averaged \$ 3,040/day, up \$3,039/day w-o-w. The Middle East market set the positive tone with TD23 route increasing by WS8.86 points and being reported at the WS45.36 points mark at the end of the week. Aframax T/C earnings averaged \$4,511/day, up by \$2,600/day w-o-w, and ended up the week at \$,5222/day .
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had the sale of the "SCF URAL" (159,314dwt-blt '02, S. Korea), which was sold to Middle Eastern buyers, for a price in the region of \$16.0m.
 
@@ -197,7 +197,7 @@ Supramax 10TC averaged approx. \$38,526/day up +3.2% w-o-w, with the Atlantic co
 | **Ultramax** | **63k** | 31.7 | 30.6 | **3.4%** | 19.4 | 23.1 | - |
 | **Handysize** | **37K** | 25.7 | 24.8 | **3.7%** | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Kamsarmax sector we had the sale of the "LENA B" (81,922dwt-blt '17, China), which was sold to Vietnamese owner, Ho Phat, for price in the region of excess \$35.0m.
 
@@ -212,26 +212,26 @@ In the Panamax sector we had the sale of the "ORIENT VIOLET" (77,111dwt-blt '15,
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | SCF URAL | 159,314 | 2002 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-22 | DH | $ 16.0m | Middle Eastern |  |
-| LR2 | NAVIG8 PROVIDENCE | 109,997 | 2018 | NEW TIMES, China | MAN-B\&amp;W | Aug-23 | DH | $ 48.0m | U.S. based (J.P. Morgan) | against 5 yrs BB |
-| LR2 | NAVIG8 PRIDE | 109,991 | 2018 | NEW TIMES, China | MAN-B\&amp;W | Aug-23 | DH | $ 48.0m | U.S. based (J.P. Morgan) | against 5 yrs BB |
-| MR2 | ECO LOS ANGELES | 50,185 | 2020 | HYUNDAI, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 36.5m | Danish (Norden) | Scrubber fitted, delivery February 2022, with TC attached to Trafigura for 2 yrs at Us 17,500 p/d |
-| MR2 | ECO CITY OF ANGELS | 49,815 | 2020 | HYUNDAI, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 36.5m | Danish (Norden) | Scrubber fitted, delivery February 2022, with TC attached to Trafigura for 2 yrs at Us 17,500 p/d |
-| J19 | SHAMROCK JUPITER | 19,837 | 2009 | FUKUOKA, Japan | MAN-B\&amp;W | Dec-21 | DH | undisclosed | Vietnamese (Petro Vietnam) | st-st |
+| SUEZ | SCF URAL | 159,314 | 2002 | HYUNDAI, S. Korea | MAN-B&W | Jul-22 | DH | $ 16.0m | Middle Eastern |  |
+| LR2 | NAVIG8 PROVIDENCE | 109,997 | 2018 | NEW TIMES, China | MAN-B&W | Aug-23 | DH | $ 48.0m | U.S. based (J.P. Morgan) | against 5 yrs BB |
+| LR2 | NAVIG8 PRIDE | 109,991 | 2018 | NEW TIMES, China | MAN-B&W | Aug-23 | DH | $ 48.0m | U.S. based (J.P. Morgan) | against 5 yrs BB |
+| MR2 | ECO LOS ANGELES | 50,185 | 2020 | HYUNDAI, S. Korea | MAN-B&W | Feb-25 | DH | $ 36.5m | Danish (Norden) | Scrubber fitted, delivery February 2022, with TC attached to Trafigura for 2 yrs at Us 17,500 p/d |
+| MR2 | ECO CITY OF ANGELS | 49,815 | 2020 | HYUNDAI, S. Korea | MAN-B&W | Feb-25 | DH | $ 36.5m | Danish (Norden) | Scrubber fitted, delivery February 2022, with TC attached to Trafigura for 2 yrs at Us 17,500 p/d |
+| J19 | SHAMROCK JUPITER | 19,837 | 2009 | FUKUOKA, Japan | MAN-B&W | Dec-21 | DH | undisclosed | Vietnamese (Petro Vietnam) | st-st |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | LENA B | 81,922 | 2017 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jan-22 |  | excess $ 35.0m | Vietnamese (Ho Phat) | delivery November-December 2021 with SS/DD due January 2022 |
-| KMAX | IBIS WIND | 82,937 | 2013 | SANOYAS, Japan | MAN-B\&amp;W | Jul-25 |  | rgn-excess $ 28.0m | Chinese (Star Ocean) | BWTS fitted, delivery January |
-| PMAX | ORIENT VIOLET | 77,111 | 2015 | IMABARI, Japan | MAN-B\&amp;W | Apr-25 |  | $ 30.5m | Greek (TMS) | BWTS fitted |
+| KMAX | LENA B | 81,922 | 2017 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jan-22 |  | excess $ 35.0m | Vietnamese (Ho Phat) | delivery November-December 2021 with SS/DD due January 2022 |
+| KMAX | IBIS WIND | 82,937 | 2013 | SANOYAS, Japan | MAN-B&W | Jul-25 |  | rgn-excess $ 28.0m | Chinese (Star Ocean) | BWTS fitted, delivery January |
+| PMAX | ORIENT VIOLET | 77,111 | 2015 | IMABARI, Japan | MAN-B&W | Apr-25 |  | $ 30.5m | Greek (TMS) | BWTS fitted |
 | PMAX | MP PANAMAX 4 | 69,925 | 1995 | SANOYAS, Japan | Sulzer | Nov-23 | 4 X 30t CRANES | $ 6.0m | undisclosed | geared, delivery as-is |
 | SMAX | SHANDONG HAI SHENG | 56,532 | 2011 | YANGZHOU GUOYU, China | Wartsila | Oct-21 | 4 X 36t CRANES | around $ 17.1m | Chinese | auction sale, BWTS fitted |
-| SMAX | ATLANTIC YUCATAN | 55,863 | 2006 | KAWASAKI, Japan | MAN-B\&amp;W | Mar-23 | 4 X 30,5t CRANES | mid $ 17.0m | undisclosed |  |
+| SMAX | ATLANTIC YUCATAN | 55,863 | 2006 | KAWASAKI, Japan | MAN-B&W | Mar-23 | 4 X 30,5t CRANES | mid $ 17.0m | undisclosed |  |
 | HANDY | GLOBAL PASSION | 33,686 | 2011 | SHIN KOCHI, Japan | Mitsubishi | Jan-26 | 4 X 30t CRANES | $ 17.5m | undisclosed | BWTS fitted, delivery November 2021 - January 2022 |
-| HANDY | QUEEN ASIA | 28,425 | 2011 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Mar-26 | 4 X 30,7t CRANES | rgn $ 15.0m | undisclosed | BWTS fitted |
-| HANDY | FEDERAL DANUBE | 37,116 | 2004 | NEW TIMES, China | B\&amp;W | Apr-24 | 4 X 40t CRANES | $ 23.0m | undisclosed | delivery January 2022 |
-| HANDY | FEDERAL ELBE | 37,058 | 2003 | NEW TIMES, China | B\&amp;W | Sep-23 | 4 X 40t CRANES | $ 23.0m | undisclosed | delivery January 2022 |
+| HANDY | QUEEN ASIA | 28,425 | 2011 | I-S SHIPYARD, Japan | MAN-B&W | Mar-26 | 4 X 30,7t CRANES | rgn $ 15.0m | undisclosed | BWTS fitted |
+| HANDY | FEDERAL DANUBE | 37,116 | 2004 | NEW TIMES, China | B&W | Apr-24 | 4 X 40t CRANES | $ 23.0m | undisclosed | delivery January 2022 |
+| HANDY | FEDERAL ELBE | 37,058 | 2003 | NEW TIMES, China | B&W | Sep-23 | 4 X 40t CRANES | $ 23.0m | undisclosed | delivery January 2022 |
 
 © Intermodal Research 19/10/2021 4
 
@@ -243,20 +243,20 @@ In the Panamax sector we had the sale of the "ORIENT VIOLET" (77,111dwt-blt '15,
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | ALS FAUNA | 4,275 | 2008 | SAMSUNG, S. Korea | Wartsila | Nov-23 |  | rgn $ 60.0m | Israeli (Zim Integrated) |  |
-| PMAX | ALS JUNO | 4,256 | 2009 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Apr-24 |  | rgn $ 60.0m | Israeli (Zim Integrated) |  |
+| PMAX | ALS JUNO | 4,256 | 2009 | JIANGSU NEWYANGZI, China | MAN-B&W | Apr-24 |  | rgn $ 60.0m | Israeli (Zim Integrated) |  |
 | PMAX | HERON HUNTER | 4,255 | 2009 | HYUNDAI, S. Korea | Wartsila | May-24 |  | rgn $ 60.0m | Israeli (Zim Integrated) |  |
 | PMAX | HARPY HUNTER | 4,255 | 2009 | HYUNDAI, S. Korea | Wartsila | Aug-24 |  | rgn $ 60.0m | Israeli (Zim Integrated) |  |
-| FEEDER | IRENES RESPECT | 2,824 | 2006 | HYUNDAI, S. Korea | MAN-B\&amp;W | Feb-26 |  | $ 44.0m | French (CMA GCM) |  |
+| FEEDER | IRENES RESPECT | 2,824 | 2006 | HYUNDAI, S. Korea | MAN-B&W | Feb-26 |  | $ 44.0m | French (CMA GCM) |  |
 | FEEDER | GEORGIA TRADER | 2,127 | 2007 | AKER MTW WERFT, GERMANY | Wartsila | Nov-22 | 3 X 45t CRANES | $ 33.0m | Swiss (MSC) |  |
-| FEEDER | SAN ALVARO | 1,819 | 2007 | HYUNDAI, S. Korea | MAN-B\&amp;W | Dec-22 | 3 X 45t CRANES | undisclosed | Danish |  |
-| FEEDER | VIKING MERLIN | 1,740 | 2014 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Apr-24 | 2 X 45t CRANES | $ 33.0m | French (CMA CGM) | delivery January-February 2022 |
+| FEEDER | SAN ALVARO | 1,819 | 2007 | HYUNDAI, S. Korea | MAN-B&W | Dec-22 | 3 X 45t CRANES | undisclosed | Danish |  |
+| FEEDER | VIKING MERLIN | 1,740 | 2014 | GUANGZHOU WENCHONG, China | MAN-B&W | Apr-24 | 2 X 45t CRANES | $ 33.0m | French (CMA CGM) | delivery January-February 2022 |
 ## Secondhand Sales
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | GASLOG SALEM | 82,023 | 2015 | SAMSUNG, S. Korea | Wartsila | Apr-25 | 151,900 | $ 128.0m | Chinese (CDBL) | against 5 yrs BB without purchase obligation |
 | LNG | GASLOG SHANGHAI | 82,104 | 2013 | SAMSUNG, S. Korea | Wartsila | Jan-23 | 151,900 | $ 120.0m | Chinese (CDBL) | against 5 yrs BB without purchase obligation |
-| LPG | IRIS GLORY | 54,707 | 2008 | DAEWOO, S. Korea | MAN-B\&amp;W | Mar-23 | 83,782 | $ 41.5m | Japanese | incl. 9 years BBB |
+| LPG | IRIS GLORY | 54,707 | 2008 | DAEWOO, S. Korea | MAN-B&W | Mar-23 | 83,782 | $ 41.5m | Japanese | incl. 9 years BBB |
 
 © Intermodal Research 19/10/2021 5
 

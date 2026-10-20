@@ -16,19 +16,19 @@ Following the 3rd Decarbonizing Shipping Forum, held in Hamburg on June 2022, th
 
 Adopting an economic and sustainable fuel solution to substitute fossil fuels is a complex process, facing headwinds from a current absence of targeted policies, such as renewable fuel mandate and carbon taxation. Fuel price is a shaping factor for change in the industry as bunkers, which represent approx. 47% of a vessel's operating cost, will significantly increase under IMO's regulations. Therefore, to continue running on cheaper fossil fuels, many vessels are being built or fitted with scrubbers, which equal 4.26% of the world fleet in 2022, according to our data. This figure equals to 4,845 vessels, according to DNV, with most of them carrying open type scrubbers and 3,296 of them being retrofitted, while only 1,549 of them fitted at newbuilding stage. In terms of ship type most of them are bulkers (1,659), followed by containers (1,121) and chemical/oil tankers (573). In terms of alternative fuels, LNG currently seems the only green fuel that is viable commercially for the deep-sea segment in the short term, with a 0.74% total LNG capable fleet in 2022. In total, there are 817 LNG capable ships in operation, while 743 are currently on order, according to our data. Most of them are oil tankers (39 in operation and 35 on order), containerships (36 in operation and a massive number of 169 on order) and bulkers (13 in operation and 49 on order). However, despite low emissions, it will not be able to meet IMO's regulations in the long term and will only represent a transitory fuel. Regarding methanol and ammonia, these are scarcely in use, with only 56 methanol fueled vessels and very few ammonia fueled vessels in operation, of which 6 are tankers. Port infrastructure is currently under development with dominant initiatives from Vopak Terminal in Rotterdam for methanol and port of Gothenburg in Sweden which is establishing a value chain aiming at becoming the primary methanol bunkering hub in Northern Europe and the most recent development of Yara terminal in Oslo, the world's first ammonia fuel bunker network in Scandinavia. On the other hand, the use of biofuels still accounts for a small percentage of the world fleet. Owners are still skeptical towards the use of biofuels in the short term, as the additional cost for the fuel transition paired with a 10% premium on bunker cost, amidst a lack of well-established supply chain and infrastructures, will result in higher freights under an unclear framework on how this extra cost will be divided between involved maritime stakeholders. According to our data, there are currently 8 tankers, 9 bulkers and 10 containers in operation using biofuels.
 
-From a technological point of view, fitting vessels with scrubbers or converting engines to run on alternative or biofuels is a costly and time-consuming process. For instance, to run on LNG, vessels require two to three times the volume of fuel oil tanks. Engines burning ammonia or hydrogen are still under testing &amp; development phase and builders will need more time on top of the various safety concerns associated with the use of these fuels. Regarding the electrification of vessels, batteries are not yet adequately developed and will need to become less heavy and space-consuming, as well as more efficient to support optimal ship operation. In the meantime, there are only 118 cold ironing facilities in operation and 47 more being decided for future operation globally (according to DNV), with most of them in Northern Europe and very few of them in USA/Canada and China for a total number of 466 battery-powered vessels in operation, 50% of them are hybrid type and only 23% of them pure electric, and 188 vessels on order at the moment.
+From a technological point of view, fitting vessels with scrubbers or converting engines to run on alternative or biofuels is a costly and time-consuming process. For instance, to run on LNG, vessels require two to three times the volume of fuel oil tanks. Engines burning ammonia or hydrogen are still under testing & development phase and builders will need more time on top of the various safety concerns associated with the use of these fuels. Regarding the electrification of vessels, batteries are not yet adequately developed and will need to become less heavy and space-consuming, as well as more efficient to support optimal ship operation. In the meantime, there are only 118 cold ironing facilities in operation and 47 more being decided for future operation globally (according to DNV), with most of them in Northern Europe and very few of them in USA/Canada and China for a total number of 466 battery-powered vessels in operation, 50% of them are hybrid type and only 23% of them pure electric, and 188 vessels on order at the moment.
 
 ## Chartering (Wet: **Stable +** / Dry: Softer)
 
 The dry bulk market continued to lose strength during the past days with Panamax sector shouldering most of the pressure. The BDI today (05/07/2022) closed at 2,098 points, down by 106 points compared to previous Tuesday's closing (28/06/2022). VLCC rates have finally witnessed a positive week yet with earnings still below OPEX levels. On the contrary activity for the rest of the sizes was mixed, with their T/C average ending up the week almost unchanged. The BDTI today (05/07/2022) closed at 1,226, an increase of 14 points and the BCTI at 1,471, a decrease of 157 point compared to previous Tuesday's (28/06/2022) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: Firmer)
+## Sale & Purchase (Wet: Softer / Dry: Firmer)
 
 The dry SnP activity appeared quite strong these past few days, the wet one softened down, while all the others remained at low levels for yet another week. In the tanker sector, we had the sale of the "ELANDRA EV-EREST" (299,999dwt-blt '20, S. Korea), which was sold to Greek owner, Tsakos for an undisclosed price. On the dry bulker side sector, we had the sale of the "CHRISTINA IV" (72,493dwt-blt '00, Japan), which was sold to Dubai based owner, GLTA for a price in the region of \$13.0m.
 
 ## Newbuilding (Wet: Softer / Dry: Firmer)
 
-The newbuilding market demonstrated a healthy activity overall this week while being dominated by the owners' hunger for Container vessels. Orders have been reported across most main sectors. Indeed, the container sector gathered the lion's share with 3 announced orders for a total of 10+2 units. PIL inked a deal with Yangzijiang for 4x8,000teu LNG fuelled &amp; ammonia-ready vessels, set for 2025 delivery. In the meantime, CA shipping sealed a deal with Huangpu Wenchong for 4+4x1,600teu EEDI-phase3 units with expected delivery in 2024. Taizhou Sanfu was assigned by MPCC for the construction of 2x1,300teu methanol-powered vessels, against a 15yrs T/C to NCL. On the dry front, NYK placed an order for a 180,000dwt LNG fuelled vessel at Shanghai Waigaoqiao, while ESL declared an option for a 5,300dwt hybrid-electric, ice-class 1A unit to a series of 6 ordered last year at Chowgule yard. Moving on to the gas sector, an order for 1+1 LPG was announced after almost two months between PascoGas and KSOE. Owner will pay \$64.0m for the 40,000cbm unit agreed to be delivered within 2025. Conclusively, an order has been reported for 2 dual-fuel Ethylene Gas carriers from Ocean Yield at Yamic yard. This marks the 3rd order within 2022 for LEG carriers and the vessels will be built against a 15yrs T/C to Braskem.
+The newbuilding market demonstrated a healthy activity overall this week while being dominated by the owners' hunger for Container vessels. Orders have been reported across most main sectors. Indeed, the container sector gathered the lion's share with 3 announced orders for a total of 10+2 units. PIL inked a deal with Yangzijiang for 4x8,000teu LNG fuelled & ammonia-ready vessels, set for 2025 delivery. In the meantime, CA shipping sealed a deal with Huangpu Wenchong for 4+4x1,600teu EEDI-phase3 units with expected delivery in 2024. Taizhou Sanfu was assigned by MPCC for the construction of 2x1,300teu methanol-powered vessels, against a 15yrs T/C to NCL. On the dry front, NYK placed an order for a 180,000dwt LNG fuelled vessel at Shanghai Waigaoqiao, while ESL declared an option for a 5,300dwt hybrid-electric, ice-class 1A unit to a series of 6 ordered last year at Chowgule yard. Moving on to the gas sector, an order for 1+1 LPG was announced after almost two months between PascoGas and KSOE. Owner will pay \$64.0m for the 40,000cbm unit agreed to be delivered within 2025. Conclusively, an order has been reported for 2 dual-fuel Ethylene Gas carriers from Ocean Yield at Yamic yard. This marks the 3rd order within 2022 for LEG carriers and the vessels will be built against a 15yrs T/C to Braskem.
 
 ## Demolition (Wet: Softer / Dry: Softer)
 
@@ -122,7 +122,7 @@ VLCC T/C earnings averaged \$ -23,878/day, up + \$4,900/day w-o-w. MEG to China 
 
 Suezmax T/C earnings averaged \$21,013/day, down - \$1,123/day w-o-w. MEG activity was quite leading TD23 to decline 7.25WS points w-o-w. Aframax T/C earnings \$23,853/day, down - \$65/day w-o-w. North Sea TD7 route lost 35WS points w-o-w with TD17 Baltic/Cont route increasing by 12.82WS points due to limited candidates for Russian cargoes. TD19 lost 19.19WS points while the Caribs market enjoyed an improvement of 35.94WS points last week.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "ELANDRA EVEREST" (299,999dwt-blt '20, S. Korea), which was sold to Greek owner, Tsakos for an undisclosed price.
 
@@ -190,7 +190,7 @@ Supramax 10TC averaged \$ 25,983/day, down - 4.21% w-o-w, while the Handysize 7T
 | **Ultramax** | **63k** | 34.0 | 34.5 | -1.4% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 29.5 | 29.0 | 1.7% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Panamax sector we had the sale of the "CHRISTINA IV" (72,493dwt-bl't '00, Japan), which was sold to Dubai based owner, GLTA for a price in the region of \$13.0m.
 
@@ -205,18 +205,18 @@ In the Handysize sector we had the sale of the "INTERLINK ETERNITY" (39,094dwt-b
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | RUI FU TAI | 73,870 | 2002 | NAMURA, Japan | B\&amp;W | Feb-26 |  | low $ 14.0m | undisclosed | prompt dely, Chinese flag, domestic trade |
-| PMAX | CHRISTINA IV | 72,493 | 2000 | SASEBO, Japan | B\&amp;W | Jan-25 |  | $ 13.0m | Dubai based (GLTA) | BWTS fitted |
-| UMAX | WESTERN SANTOS | 63,518 | 2014 | JIANGSU HANTONG, China | MAN-B\&amp;W | Apr-24 | 4x35.0, 4x30.0 | $ 26.4m | Chinese (Jinhui Shipping) | BWTS fitted |
-| PMAX | VAN CONTINENT | 74,475 | 2007 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Jan-27 |  | $ 18.5m | Chinese (HNA Technology) |  |
-| SUPRA | VAN GENERAL | 57,700 | 2011 | STX DALIAN, China | MAN-B\&amp;W | Jul-26 | 4 X 30t CRANES | $ 19.2m | Chinese (HNA Technology) |  |
-| SUPRA | VAN BONITA | 53,383 | 2008 | CHENGXI, China | MAN-B\&amp;W | Oct-23 | 4 X 36t CRANES | $ 18.6m | Chinese (HNA Technology) | BWTS fitted |
-| SUPRA | VAN ETERNITY | 53,390 | 2007 | CHENGXI, China | MAN-B\&amp;W | Sep-22 | 4 X 36t CRANES | $ 16.7m | Chinese (HNA Technology) |  |
-| SUPRA | VAN AUSPICIOUS | 53,630 | 2006 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Aug-26 | 4 X 35t CRANES | $ 16.0m | Chinese (HNA Technology) | BWTS fitted |
-| SUPRA | VAN DUFFY | 52,385 | 2006 | TSUNEISHI, Japan | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | $ 17.0m | Chinese (HNA Technology) | BWTS fitted |
-| SUPRA | MEDI BANGKOK | 53,466 | 2006 | IMABARI, Japan | MAN-B\&amp;W | Oct-25 | 4 X 31t CRANES | $ 17.5m |  | undisclosed |
-| HMAX | TRUE FRIEND | 43,775 | 1996 | DAEWOO, S. Korea | B\&amp;W | Apr-24 | 4 X 30t CRANES | undisclosed | undisclosed |  |
-| HANDY | INTERLINK ETERNITY | 39,094 | 2019 | ZHEJIANG ZENGHOU, China | MAN-B\&amp;W | Sep-24 | 4 X 30,5t DERRICKS | $ 29.6m | undisclosed |  |
+| PMAX | RUI FU TAI | 73,870 | 2002 | NAMURA, Japan | B&W | Feb-26 |  | low $ 14.0m | undisclosed | prompt dely, Chinese flag, domestic trade |
+| PMAX | CHRISTINA IV | 72,493 | 2000 | SASEBO, Japan | B&W | Jan-25 |  | $ 13.0m | Dubai based (GLTA) | BWTS fitted |
+| UMAX | WESTERN SANTOS | 63,518 | 2014 | JIANGSU HANTONG, China | MAN-B&W | Apr-24 | 4x35.0, 4x30.0 | $ 26.4m | Chinese (Jinhui Shipping) | BWTS fitted |
+| PMAX | VAN CONTINENT | 74,475 | 2007 | HUDONG-ZHONGHUA, China | MAN-B&W | Jan-27 |  | $ 18.5m | Chinese (HNA Technology) |  |
+| SUPRA | VAN GENERAL | 57,700 | 2011 | STX DALIAN, China | MAN-B&W | Jul-26 | 4 X 30t CRANES | $ 19.2m | Chinese (HNA Technology) |  |
+| SUPRA | VAN BONITA | 53,383 | 2008 | CHENGXI, China | MAN-B&W | Oct-23 | 4 X 36t CRANES | $ 18.6m | Chinese (HNA Technology) | BWTS fitted |
+| SUPRA | VAN ETERNITY | 53,390 | 2007 | CHENGXI, China | MAN-B&W | Sep-22 | 4 X 36t CRANES | $ 16.7m | Chinese (HNA Technology) |  |
+| SUPRA | VAN AUSPICIOUS | 53,630 | 2006 | YANGZHOU DAYANG, China | MAN-B&W | Aug-26 | 4 X 35t CRANES | $ 16.0m | Chinese (HNA Technology) | BWTS fitted |
+| SUPRA | VAN DUFFY | 52,385 | 2006 | TSUNEISHI, Japan | MAN-B&W | Aug-26 | 4 X 30t CRANES | $ 17.0m | Chinese (HNA Technology) | BWTS fitted |
+| SUPRA | MEDI BANGKOK | 53,466 | 2006 | IMABARI, Japan | MAN-B&W | Oct-25 | 4 X 31t CRANES | $ 17.5m |  | undisclosed |
+| HMAX | TRUE FRIEND | 43,775 | 1996 | DAEWOO, S. Korea | B&W | Apr-24 | 4 X 30t CRANES | undisclosed | undisclosed |  |
+| HANDY | INTERLINK ETERNITY | 39,094 | 2019 | ZHEJIANG ZENGHOU, China | MAN-B&W | Sep-24 | 4 X 30,5t DERRICKS | $ 29.6m | undisclosed |  |
 | HANDY | DORTHE OLDENDORFF | 37,873 | 2019 | QINGDAO BEIHAI, China | J-ENG | Jun-24 | 4 X 45t CRANES | $ 25.0m | undisclosed | BWTS fitted |
 | HANDY | ZHE HAI 355 | 26,750 | 2010 | ZHEJIANG JIUZHOU, China | Pielstick |  |  | rgn $ 7.8m | Chinese | RMB 52m, auction sale |
 | HANDY | LORD WELLINGTON | 31,921 | 2005 | HAKODATE, Japan | Mitsubishi | Apr-25 | 4 X 30t CRANES | $ 14.3m | Chinese | BWTS fitted |
@@ -230,22 +230,22 @@ In the Handysize sector we had the sale of the "INTERLINK ETERNITY" (39,094dwt-b
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | ELANDRA EVEREST | 299,999 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Jan-25 | DH | undisclosed | Greek (Tsakos) | dely 9/2022, BWTS &amp; Scrubber fitted, tbr "ZEUS" |
-| SUEZ | A SYMPHONY | 149,995 | 2001 | SASEBO, Japan | B&amp;W | Jul-24 | DH | $ 13.0m | Chinese | auction sale, basis DD due July 2022 |
-| AFRA | KRONVIKEN | 114,523 | 2006 | SAMSUNG, S. Korea | MAN-B&amp;W | Sep-26 | DH | $ 25.0m | Greek (Stealth) | BWTS fitted |
-| SMALL | EBONY RAY | 19,998 | 2008 | USUKI, Japan | MAN-B&amp;W | Jul-23 | DH | rgn $ 14.0m | Singaporean (Samureda Shipping) | incl 3-yr TC attached at US$ 13,750/day to GSB Tankers |
+| VLCC | ELANDRA EVEREST | 299,999 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jan-25 | DH | undisclosed | Greek (Tsakos) | dely 9/2022, BWTS & Scrubber fitted, tbr "ZEUS" |
+| SUEZ | A SYMPHONY | 149,995 | 2001 | SASEBO, Japan | B&W | Jul-24 | DH | $ 13.0m | Chinese | auction sale, basis DD due July 2022 |
+| AFRA | KRONVIKEN | 114,523 | 2006 | SAMSUNG, S. Korea | MAN-B&W | Sep-26 | DH | $ 25.0m | Greek (Stealth) | BWTS fitted |
+| SMALL | EBONY RAY | 19,998 | 2008 | USUKI, Japan | MAN-B&W | Jul-23 | DH | rgn $ 14.0m | Singaporean (Samureda Shipping) | incl 3-yr TC attached at US$ 13,750/day to GSB Tankers |
 ## Secondhand Sales
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | NORTHERN JASPER | 8,814 | 2009 | DAEWOO, S. Korea | MAN-B&amp;W | Aug-24 |  | low/mid $ 130.0m | Danish (Maersk) |  |
-| POST PMAX | NORTHERN JUPITER | 8,814 | 2010 | DAEWOO, S. Korea | MAN-B&amp;W | Feb-25 |  | low/mid $ 130.0m | Danish (Maersk) |  |
-| PMAX | GUENTHER SCHULTE | 3,534 | 2008 | SHANGHAI SHIPYARD, China | MAN-B&amp;W | May-23 |  | $ 55.0m | Dubai based | BWTS fitted |
+| POST PMAX | NORTHERN JASPER | 8,814 | 2009 | DAEWOO, S. Korea | MAN-B&W | Aug-24 |  | low/mid $ 130.0m | Danish (Maersk) |  |
+| POST PMAX | NORTHERN JUPITER | 8,814 | 2010 | DAEWOO, S. Korea | MAN-B&W | Feb-25 |  | low/mid $ 130.0m | Danish (Maersk) |  |
+| PMAX | GUENTHER SCHULTE | 3,534 | 2008 | SHANGHAI SHIPYARD, China | MAN-B&W | May-23 |  | $ 55.0m | Dubai based | BWTS fitted |
 ## Secondhand Sales
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | ECO NEBULA | 29,536 | 2007 | DAEWOO GEOJE, S. Korea | MAN-B\&amp;W | Jul-22 | 38,197 | $ 27.75m | Turkish |
+| LPG | ECO NEBULA | 29,536 | 2007 | DAEWOO GEOJE, S. Korea | MAN-B&W | Jul-22 | 38,197 | $ 27.75m | Turkish |
 
 © Intermodal Research 05/07/2022 5
 
@@ -270,7 +270,7 @@ In the Handysize sector we had the sale of the "INTERLINK ETERNITY" (39,094dwt-b
 | Gas | MGC LPG 55k cbm |  | 74.5 | 74.5 | 0.0% | 67 | 63 | 65 |
 | Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 45 | 42 | 44 |
 
-The newbuilding market demonstrated a healthy activity overall this week while being dominated by the owners' hunger for Container vessels. Orders have been reported across most main sectors. Indeed, the container sector gathered the lion's share with 3 announced orders for a total of 10+2 units. PIL inked a deal with Yangzijiang for 4x8,000teu LNG fuelled &amp; ammonia-ready vessels, set for 2025 delivery. In the meantime, CA shipping sealed a deal with Huangpu Wenchong for 4+4x1,600teu EEDI-phase3 units with expected delivery in 2024. Taizhou Sanfu was assigned by MPCC for the construction of 2x1,300teu methanol-powered vessels, against a 15yrs T/C to NCL. On the dry front, NYK placed an order for a 180,000dwt LNG fuelled vessel at Shanghai Waigaoqiao, while ESL declared an option for a 5,300dwt hybrid-electric, ice-class 1A unit to a series of 6 ordered last year at Chowgule yard. Moving on to the gas sector, an order for 1+1 LPG was announced after almost two months between PascoGas and KSOE. Owner will pay \$64.0m for the 40,000cbm unit agreed to be delivered within 2025. Conclusively, an order has been reported for 2 dual-fuel Ethylene Gas carriers from Ocean Yield at Yamic yard. This marks the 3rd order within 2022 for LEG carriers and the vessels will be built against a 15yrs T/C to Braskem.
+The newbuilding market demonstrated a healthy activity overall this week while being dominated by the owners' hunger for Container vessels. Orders have been reported across most main sectors. Indeed, the container sector gathered the lion's share with 3 announced orders for a total of 10+2 units. PIL inked a deal with Yangzijiang for 4x8,000teu LNG fuelled & ammonia-ready vessels, set for 2025 delivery. In the meantime, CA shipping sealed a deal with Huangpu Wenchong for 4+4x1,600teu EEDI-phase3 units with expected delivery in 2024. Taizhou Sanfu was assigned by MPCC for the construction of 2x1,300teu methanol-powered vessels, against a 15yrs T/C to NCL. On the dry front, NYK placed an order for a 180,000dwt LNG fuelled vessel at Shanghai Waigaoqiao, while ESL declared an option for a 5,300dwt hybrid-electric, ice-class 1A unit to a series of 6 ordered last year at Chowgule yard. Moving on to the gas sector, an order for 1+1 LPG was announced after almost two months between PascoGas and KSOE. Owner will pay \$64.0m for the 40,000cbm unit agreed to be delivered within 2025. Conclusively, an order has been reported for 2 dual-fuel Ethylene Gas carriers from Ocean Yield at Yamic yard. This marks the 3rd order within 2022 for LEG carriers and the vessels will be built against a 15yrs T/C to Braskem.
 
 > **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 

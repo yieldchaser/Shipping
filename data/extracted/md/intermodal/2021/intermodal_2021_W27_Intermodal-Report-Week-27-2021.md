@@ -31,7 +31,7 @@ The BIMCO ICS Seafarer Workforce 2021 report has elaborated on 3 commercial flee
 
 Conversely to the previous week, the Capesize rates improved significantly while both the Panamax and Supramax sectors witnessed discounts across the board. The BDI today (13/07/2021) closed at 3,228 up by 4 points compared to previous Tuesday's (06/07/2021) levels. Earnings in the crude carrier markets continued to hover below OPEX levels for another week with the mismatch supply/demand resisting any improvement on earnings. The BDTI today (13/07/2021) closed at 582, a decrease of 9 points, and the BCTI at 453, an increase of 6 points compared to previous Tuesday's (06/07/2021) levels.
 
-## Sale &amp; Purchase (**Wet: Softer / Dry: Softer**&gt;)
+## Sale & Purchase (**Wet: Softer / Dry: Softer**&gt;)
 
 Last week we witnessed a considerable slowdown in SnP activity, with only a handful of dry bulk and tanker deals materializing while no Container sales took place in the SnP realm. In the tanker sector, we had the sale of the "VLADIMIR VELIKIY" (159,990dwt-blt '02, S. Korea), which was sold to undisclosed buyers, for a price in the region of low \$16.0m. On the dry bulker side sector, we had the sale of the "INTERLINK EQUITY" (37,071dwt-blt '13, China), which was sold to Greek buyers, for a price in the region of \$14.7m.
 
@@ -132,9 +132,9 @@ VLCC market remained weak, with rates across all business routes suffering minim
 
 The Suezmax sector followed the same momentum of its bigger counterpart, with rates pointing to the South albeit marginally. TD23 business route suffered the biggest discounts (-1.93WS w-o-w). Overall, average T/C Suezmax earnings closed off the week at the -\$3,764 per day mark. A mixed picture emerged in the Aframax market last week. TD19 Cross-Med business route enjoyed an improved sentiment which pushed rates up by 5.34WS points w-o-w. However, following the previous week's discounts of around 15WS points, earnings are still hovering well below the OPEX levels. To the North, rates moved south with TD7 and TD17 losing another 6.25WS and 7.5WS points w-o-w. As a result, Aframax average T/C earnings lost \$386 per day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the Suezmax sector we had the sale of the "VLADIMIR VELIKIY" (159,990dwt-blt '02, S. Korea), which was sold to undisclosed buyers, for a price in the region of low \$16.0m.
 
@@ -201,7 +201,7 @@ Supramax 10TC averaged \$32,015/day down -0.5% w-o-w with limited activity in th
 | **Ultramax** **63k** | 26.0 | 25.6 | 1.5% | 19.4 | 23.1 | - |
 | **Handysize** **37K** | 20.5 | 20.5 | 0.0% | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Panamax sector we had the sale of the "NAVIOS AZALEA" (74,759dwt-blt '05, China), which was sold to undisclosed buyers, for an undisclosed price.
 
@@ -217,24 +217,24 @@ In the Handysize sector we had the sale of the "INTERLINK EQUITY" (37,071dwt-blt
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | NAVIOS AZALEA | 74,759 | 2005 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Jun-25 |  | undisclosed | undisclosed |  |
-| SMAX | BULK COSTA RICA | 58,758 | 2012 | NACKS, China | MAN-B\&amp;W | Jun-22 | 4 X 30,5t CRANES | high $ 18.0m | undisclosed |  |
-| HANDY | DRY BEAM NEO | 38,180 | 2019 | SHIN KOCHI, Japan | MAN-B\&amp;W | Dec-24 | 4 X 30t CRANES | $ 26.0m | Swiss (Nova Marine Carriers) | BWTS &amp; log fitted |
-| HANDY | IRONGATE | 28,316 | 2015 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Apr-25 | 4 X 30,5t CRANES | $ 13.9m | undisclosed |  |
+| PMAX | NAVIOS AZALEA | 74,759 | 2005 | HUDONG-ZHONGHUA, China | MAN-B&W | Jun-25 |  | undisclosed | undisclosed |  |
+| SMAX | BULK COSTA RICA | 58,758 | 2012 | NACKS, China | MAN-B&W | Jun-22 | 4 X 30,5t CRANES | high $ 18.0m | undisclosed |  |
+| HANDY | DRY BEAM NEO | 38,180 | 2019 | SHIN KOCHI, Japan | MAN-B&W | Dec-24 | 4 X 30t CRANES | $ 26.0m | Swiss (Nova Marine Carriers) | BWTS & log fitted |
+| HANDY | IRONGATE | 28,316 | 2015 | I-S SHIPYARD, Japan | MAN-B&W | Apr-25 | 4 X 30,5t CRANES | $ 13.9m | undisclosed |  |
 | HANDY | INTERLINK EQUITY | 37,071 | 2013 | HUATAI NANTONG, China | Wartsila | Jan-23 | 4 X 30t CRANES | $ 14.7m | Greek |  |
-| SMALL | OLZA | 17,107 | 2012 | TAIZHOU SANFU, China | MAN-B\&amp;W | Apr-22 | 3 X 30t CRANES | $ 7.2m | German |  |
+| SMALL | OLZA | 17,107 | 2012 | TAIZHOU SANFU, China | MAN-B&W | Apr-22 | 3 X 30t CRANES | $ 7.2m | German |  |
 | SMALL | ADALINE | 12,259 | 2001 | SHIN KURUSHIMA, Japan | Mitsubishi | Sep-21 | 3 X 30t CRANES | $ 3.5m | undisclosed |  |
 
 ## Bulk Carriers
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | VLADIMIR VELIKIY | 159,990 | 2002 | SAMHO, S. Korea | B\&amp;W | Jan-22 | DH | low $ 16.0m | undisclosed |  |
-| LR2 | HHIC-PHIL 169 | 114,000 | 2021 | HHIC, Philippines | MAN-B\&amp;W |  | DH | $ 110.0m | U.S.A. based |  |
-| LR2 | HHIC-PHIL 170 | 114,000 | 2021 | HHIC, Philippines | MAN-B\&amp;W |  | DH | $ 110.0m | U.S.A. based |  |
-| MR | NAVIG8 TANZANITE | 49,478 | 2016 | STX, S. Korea | MAN-B\&amp;W | Nov-21 | DH | $ 30.7m | undisclosed |  |
-| MR | ADARA | 37,583 | 2011 | HYUNDAI, S. Korea | MAN-B\&amp;W | Apr-26 | DH | $ 15.75m | Greek (Leon Shipping and Trading) | BWTS fitted |
-| MR | GOLD OCEAN | 37,320 | 2007 | STX, S. Korea | MAN-B\&amp;W | Jan-22 | DH | $ 8.8m | undisclosed |  |
+| SUEZ | VLADIMIR VELIKIY | 159,990 | 2002 | SAMHO, S. Korea | B&W | Jan-22 | DH | low $ 16.0m | undisclosed |  |
+| LR2 | HHIC-PHIL 169 | 114,000 | 2021 | HHIC, Philippines | MAN-B&W |  | DH | $ 110.0m | U.S.A. based |  |
+| LR2 | HHIC-PHIL 170 | 114,000 | 2021 | HHIC, Philippines | MAN-B&W |  | DH | $ 110.0m | U.S.A. based |  |
+| MR | NAVIG8 TANZANITE | 49,478 | 2016 | STX, S. Korea | MAN-B&W | Nov-21 | DH | $ 30.7m | undisclosed |  |
+| MR | ADARA | 37,583 | 2011 | HYUNDAI, S. Korea | MAN-B&W | Apr-26 | DH | $ 15.75m | Greek (Leon Shipping and Trading) | BWTS fitted |
+| MR | GOLD OCEAN | 37,320 | 2007 | STX, S. Korea | MAN-B&W | Jan-22 | DH | $ 8.8m | undisclosed |  |
 | HANDY | CHEMROUTE BRILLIANT | 25,594 | 2009 | SHIN KURUSHIMA, Japan | Mitsubishi | Jan-24 | DH | $ 16.5m | German | St-St |
 
 © Intermodal Research 13/07/2021 4

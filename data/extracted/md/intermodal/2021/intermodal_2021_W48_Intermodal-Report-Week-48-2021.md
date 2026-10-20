@@ -25,7 +25,7 @@ On the Tanker side, close to 200 units were delivered with a total DWT of about 
 
 With strong profits in the Capesize and Panamax sectors being the main driving force, the dry bulk market remained on an upward path last week. The BDI today (07/12/2021) closed at 3,352 up by 334 points compared to previous Tuesday's (30/11/2021) levels. Pressure in the crude carrier market was evident. Despite some w-o-w improvements on rates, the overall sentiment was uninspiring with earnings across all sizes hovering below OPEX levels for another week. The BDTI today (07/12/2021) closed at 764, an increase of 43 points, and the BCTI at 676, an increase of 40 points compared to previous Tuesday's (30/11/2021) levels.
 
-## Sale &amp; Purchase (**Wet: Stable+** / **Dry: Firmer**)
+## Sale & Purchase (**Wet: Stable+** / **Dry: Firmer**)
 
 The love for secondhand dry bulk units resumed during the past days with a plethora of deals materializing. As far as the tanker SnP realm, appetite for crude units is limited with clean tankers almost monopolizing owners' interest. In the tanker sector, we had the sale of the "NEW COR-AL" (297,580dwt-blt '10, China), which was sold to Greek owner, Aeolos Management for a price in the region of \$38.5m. On the dry bulker side sector, we had the sale of the "CAPE TREASURE" (180,201dwt-blt '07, Japan), which was sold to South Korean owner, Five Oceans for a price in the region of \$21.5m.
 
@@ -124,7 +124,7 @@ VLCC T/C earnings averaged \$ -8,394, up + \$ 77/day w-o-w, and closed off the w
 
 Suezmax T/C earnings averaged \$ -200/day, up + \$ 790/day w-o-w. The sentiment was positive in the West Africa market with TD20 route increasing by 3.49WS points w-o-w. Aframax T/C earnings averaged \$ 4,813/day, + \$ 544/day w-o-w. The Baltic/UKC market remained disappointing last week, as there was once again plenty of choice for charterers looking for prompt vessels. However, the tonnage list was narrowed which may positively affect rates in the coming week while USG positive performance has also attracted a number of ballasters to the region.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "NEW CORAL" (297,580dwt-blt '10, China), which was sold to Greek owner, Aeolos Management for a price in the region of \$38.5m.
 
@@ -193,7 +193,7 @@ Supramax 10TC averaged approx. \$26,123/day up +4.8% w-o-w, with the Atlantic ra
 | **Ultramax** | **63k** | 30.5 | 31.0 | -1.6% | 19.4 | 23.1 | - |
 | **Handysize** | **37K** | 26.0 | 26.0 | 0.0% | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "CAPE TREASURE" (180,201dwt-blt '07, Japan), which was sold to South Korean owner, Five Oceans for a price in the region of \$21.5m.
 
@@ -208,18 +208,18 @@ In the Kamsarmax sector we had the sale of the "KING BARLEY" (82,177dwt-blt '12,
 
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | CAPE TREASURE | 180,201 | 2007 | KOYO MIHARA, Japan | MAN-B&amp;W | Feb-22 |  | $ 21.5m | South Korean (Five Oceans) |  |
-| KMAX | KING BARLEY | 82,177 | 2012 | TSUNEISHI ZHOUSHAN, China | MAN-B&amp;W | Jan-22 |  | $ 22.5m | German (Blumenthal) | delivery bss SS/DD passed and BWTS fitted |
-| PMAX | ZHONG XIN PEARL | 75,321 | 2013 | GUANGZHOU HUANGPU, China | MAN-B&amp;W | Sep-23 |  | undisclosed | Chinese |  |
-| PMAX | SHANDONG HONG TU | 76,116 | 2012 | HUDONG-ZHONGHUA, China | MAN-B&amp;W | Jan-22 |  | $ 20.25m | undisclosed | Tier II, online commercial auction |
-| UMAX | VIRGO COLOSSUS | 61,616 | 2012 | OSHIMA, Japan | MAN-B&amp;W | Sep-22 |  | $ 24.0m | Greek | old sale, delivery Feb |
-| SUPRA | UNIVERSAL BANGKOK | 56,729 | 2012 | QINGSHAN, China | MAN-B&amp;W | Apr-22 | 4 X 30t CRANES | $ 33.0m | undisclosed | BWTS fitted |
-| SUPRA | UNIVERSAL BREMEN | 56,726 | 2010 | QINGSHAN, China | MAN-B&amp;W | Dec-25 | 4 X 30t CRANES |  |  |  |
-| SUPRA | XIANG HUA | 53,350 | 2003 | TOYOHASHI, Japan | MAN-B&amp;W | May-23 | 4 X 30,5t CRANES | $ 11.2m | undisclosed |  |
-| HMAX | WAJED | 45,621 | 1998 | TSUNEISHI, Japan | B&amp;W | Jan-23 | 4 X 30t CRANES | $ 10.2m | undisclosed |  |
-| HANDY | SINLAU BULKER | 34,485 | 2018 | HAKODATE, Japan | MAN-B&amp;W | Jun-23 | 4 X 30t CRANES | $ 25.0m | Greek |  |
-| HANDY | CLIPPER BETTINA | 38,221 | 2012 | SHIMANAMI, Japan | MAN-B&amp;W | Jan-26 | 4 X 30,5t CRANES | rgn $ 20.0m | Greek (Newport) | BWTS fitted |
-| HANDY | TARGA | 28,419 | 2009 | IMABARI, Japan | MAN-B&amp;W | May-24 | 4 X 30,5t CRANES | $ 14.2m | Middle Eastern | BWTS fitted |
+| CAPE | CAPE TREASURE | 180,201 | 2007 | KOYO MIHARA, Japan | MAN-B&W | Feb-22 |  | $ 21.5m | South Korean (Five Oceans) |  |
+| KMAX | KING BARLEY | 82,177 | 2012 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jan-22 |  | $ 22.5m | German (Blumenthal) | delivery bss SS/DD passed and BWTS fitted |
+| PMAX | ZHONG XIN PEARL | 75,321 | 2013 | GUANGZHOU HUANGPU, China | MAN-B&W | Sep-23 |  | undisclosed | Chinese |  |
+| PMAX | SHANDONG HONG TU | 76,116 | 2012 | HUDONG-ZHONGHUA, China | MAN-B&W | Jan-22 |  | $ 20.25m | undisclosed | Tier II, online commercial auction |
+| UMAX | VIRGO COLOSSUS | 61,616 | 2012 | OSHIMA, Japan | MAN-B&W | Sep-22 |  | $ 24.0m | Greek | old sale, delivery Feb |
+| SUPRA | UNIVERSAL BANGKOK | 56,729 | 2012 | QINGSHAN, China | MAN-B&W | Apr-22 | 4 X 30t CRANES | $ 33.0m | undisclosed | BWTS fitted |
+| SUPRA | UNIVERSAL BREMEN | 56,726 | 2010 | QINGSHAN, China | MAN-B&W | Dec-25 | 4 X 30t CRANES |  |  |  |
+| SUPRA | XIANG HUA | 53,350 | 2003 | TOYOHASHI, Japan | MAN-B&W | May-23 | 4 X 30,5t CRANES | $ 11.2m | undisclosed |  |
+| HMAX | WAJED | 45,621 | 1998 | TSUNEISHI, Japan | B&W | Jan-23 | 4 X 30t CRANES | $ 10.2m | undisclosed |  |
+| HANDY | SINLAU BULKER | 34,485 | 2018 | HAKODATE, Japan | MAN-B&W | Jun-23 | 4 X 30t CRANES | $ 25.0m | Greek |  |
+| HANDY | CLIPPER BETTINA | 38,221 | 2012 | SHIMANAMI, Japan | MAN-B&W | Jan-26 | 4 X 30,5t CRANES | rgn $ 20.0m | Greek (Newport) | BWTS fitted |
+| HANDY | TARGA | 28,419 | 2009 | IMABARI, Japan | MAN-B&W | May-24 | 4 X 30,5t CRANES | $ 14.2m | Middle Eastern | BWTS fitted |
 | HANDY | SAN SEBASTIAN | 32,285 | 2007 | KANDA, Japan | Mitsubishi | Jan-22 | 4 X 30,5t CRANES | $ 10.8m | Turkish | incl. TC at $ 12,000 p/d less 4,75% until July-August 2022 |
 
 © Intermodal Research 07/12/2021 4
@@ -231,19 +231,19 @@ In the Kamsarmax sector we had the sale of the "KING BARLEY" (82,177dwt-blt '12,
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | NEW CORAL | 297,580 | 2010 | SHANGHAI JIANGNAN CHANGXIN, China | MAN-B\&amp;W | Jan-25 | DH | $ 38.5m | Greek (Aeolos Management) | BWTS fitted |
-| MR2 | EVROS | 47,120 | 2005 | STX, S. Korea | MAN-B\&amp;W | Jan-25 | DH | mid $ 9.0m | Greek |  |
-| MR2 | KAREMA | 46,248 | 2004 | STX, S. Korea | MAN-B\&amp;W | Jan-24 | DH | low-mid $ 8.0m | undisclosed | basis delivery as-is UAE |
-| J19 | FG ROTTERDAM | 19,995 | 2012 | USUKI, Japan | MAN-B\&amp;W | Jun-22 | DH | undisclosed | Korean (DM Shipping) | St-St |
-| J19 | SHAMROCK MERCURY | 19,998 | 2010 | USUKI, Japan | MAN-B\&amp;W | Oct-25 | DH | $ 16.0m | undisclosed | St-St, BWTS fitted, incl. TC Usd 13,000 p/d |
-| J19 | BUNGA LAUREL | 19,992 | 2010 | FUKUOKA, Japan | MAN-B\&amp;W | Apr-25 | DH | $ 15.0m | undisclosed | St-St |
-| J19 | MID OSPREY | 19,969 | 2006 | FUKUOKA, Japan | MAN-B\&amp;W | Oct-21 | DH | $ 12.0m | Norwegian (J. Ludwig Mowinckels Rederi) | St-St, BWTS fitted, old deal |
-| J19 | MID FALCON | 19,959 | 2006 | FUKUOKA, Japan | MAN-B\&amp;W | Aug-21 | DH | $ 12.0m | Norwegian (J. Ludwig Mowinckels Rederi) | St-St, BWTS fitted, old deal |
+| VLCC | NEW CORAL | 297,580 | 2010 | SHANGHAI JIANGNAN CHANGXIN, China | MAN-B&W | Jan-25 | DH | $ 38.5m | Greek (Aeolos Management) | BWTS fitted |
+| MR2 | EVROS | 47,120 | 2005 | STX, S. Korea | MAN-B&W | Jan-25 | DH | mid $ 9.0m | Greek |  |
+| MR2 | KAREMA | 46,248 | 2004 | STX, S. Korea | MAN-B&W | Jan-24 | DH | low-mid $ 8.0m | undisclosed | basis delivery as-is UAE |
+| J19 | FG ROTTERDAM | 19,995 | 2012 | USUKI, Japan | MAN-B&W | Jun-22 | DH | undisclosed | Korean (DM Shipping) | St-St |
+| J19 | SHAMROCK MERCURY | 19,998 | 2010 | USUKI, Japan | MAN-B&W | Oct-25 | DH | $ 16.0m | undisclosed | St-St, BWTS fitted, incl. TC Usd 13,000 p/d |
+| J19 | BUNGA LAUREL | 19,992 | 2010 | FUKUOKA, Japan | MAN-B&W | Apr-25 | DH | $ 15.0m | undisclosed | St-St |
+| J19 | MID OSPREY | 19,969 | 2006 | FUKUOKA, Japan | MAN-B&W | Oct-21 | DH | $ 12.0m | Norwegian (J. Ludwig Mowinckels Rederi) | St-St, BWTS fitted, old deal |
+| J19 | MID FALCON | 19,959 | 2006 | FUKUOKA, Japan | MAN-B&W | Aug-21 | DH | $ 12.0m | Norwegian (J. Ludwig Mowinckels Rederi) | St-St, BWTS fitted, old deal |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | OOCL ITALY | 5,888 | 2007 | KOYO MIHARA, Japan | MAN-B\&amp;W | Jun-22 |  | undisclosed | undisclosed |
+| PMAX | OOCL ITALY | 5,888 | 2007 | KOYO MIHARA, Japan | MAN-B&W | Jun-22 |  | undisclosed | undisclosed |
 | FEEDER | A FUJI | 1,774 | 2021 | JIANGSU NEWYANGZI, China | Wartsila | Jan-26 |  | $ 42.75m | Taiwanese (Wan Hai Lines) |
 | FEEDER | BREMEN TRADER | 1,762 | 2021 | COSCO GUANGDONG, China | Wartsila | Apr-26 |  | $ 42.8m | Taiwanese (Wan Hai Lines) |
 
@@ -319,8 +319,8 @@ There was an overall decrease in the offered average scrap prices across the mai
 | MELATI DUA | 32,168 | 10,170 | 1997 | HYUNDAI, S. Korea | TANKER | undisclosed | Indian |  |
 | SWIFTCHEM | 16,150 | 4,489 | 1995 | SHIN KURUSHIMA, Japan | TANKER | undisclosed | Indian |  |
 | DODO | 4,920 | 3,422 | 1979 | ANKERLOKKEN VERFT, NORWAY | RORO | undisclosed | Indian |  |
-| LIQUID ERA | 9,035 | 2,830 | 1992 | ASAKAWA, Japan | TANKER | undisclosed | Indian | St-St cargo tanks &amp; heating coils |
-| ASIA ADVENTURER | 9,013 | 2,763 | 1989 | ASAKAWA, Japan | TANKER | undisclosed | Indian | St-St cargo tanks &amp; heating coils |
+| LIQUID ERA | 9,035 | 2,830 | 1992 | ASAKAWA, Japan | TANKER | undisclosed | Indian | St-St cargo tanks & heating coils |
+| ASIA ADVENTURER | 9,013 | 2,763 | 1989 | ASAKAWA, Japan | TANKER | undisclosed | Indian | St-St cargo tanks & heating coils |
 | NORTH EAST 33 | 5,497 | 1,900 | 1993 | SHIN KURUSHIMA, Japan | TANKER | undisclosed | Bangladeshi |  |
 
 © Intermodal Research 07/12/2021 7

@@ -29,13 +29,13 @@ Overall, in the mid-term and within the next five years, the global oil market w
 
 A tale of two directions for the dry bulk market, with positive Atlantic performance materializing across all sectors against a softer Pacific demand. The BDI today (04/10/2022) closed at 1,865 points, up by 58 points compared to previous Tuesday's closing (27/09/2022). VLCC positive performance took a break during the past days with all routes seeing their rates falling w-o-w. Suezmax sector performance was also negative while Aframax European activity maintained the healthy sentiment on the sector. The BDTI today (04/10/2022) closed at 1,462, a decrease of 44 points and the BCTI at 1,148, a decrease of 83 point compared to previous Tuesday's (27/09/2022) levels.
 
-## Sale &amp; Purchase (**Wet: Stable- / Dry: Stable+**)
+## Sale & Purchase (**Wet: Stable- / Dry: Stable+**)
 
 Focus on the SnP market remains on the tanker sector whose volume however noted a small decrease compared to the week prior. On the dry bulk front, only a handful of sales materialized. In the tanker sector, we had the sale of the "NORDIC COSMOS" (159,999dwt -blt '03, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$21.0m. On the dry bulker side sector, we had the sale of the "SHINYO GUARDIAN" (177,216dwt -blt '05, Japan), which was sold to Turkish buyers, for a price in the region of \$17.25m.
 
 ## Newbuilding (**Wet: Stable- / Dry: Softer**&gt;)
 
-Shipbuilding activity was kept firm in September overall, edging higher from the summer lull, typically witnessed during summer months. Orders for bulkers trebled month over month and orders for LNG carriers doubled, facing tailwinds from a flurry of new berths linked to the Qatari project. Boxship ordering activity remained flat month over month, while tanker orders edged slightly lower over the same period. Moving forward, the fresh start to the month did not gather similar momentum. In the gas sector, 1 order emerged last week assigned to Samsung HI. It is worth mentioning that it was not related to the Qatari project, as phase one of Qatar Energy's megaproject has been concluded last week following the announcement of the remaining three shipowners linked with the final eight berths at DSME. Yet we expect LNG contracting activity to remain firm, underpinned by strong market fundamentals. Tanker ordering activity remained flat with two MR vessels assigned to Hyundai Vietnam on behalf of Mitsui &amp; Co. One order for three PCTC vessels has been reported last week following a near 3-month muted activity. Conclusively, Petrobras returned to Singapore's Kepel for a P-83 FPSO. The unit is scheduled to operate at Brazil's Buzios Field in Santos Basin, which is set to be installed with eight additional units by 2030.
+Shipbuilding activity was kept firm in September overall, edging higher from the summer lull, typically witnessed during summer months. Orders for bulkers trebled month over month and orders for LNG carriers doubled, facing tailwinds from a flurry of new berths linked to the Qatari project. Boxship ordering activity remained flat month over month, while tanker orders edged slightly lower over the same period. Moving forward, the fresh start to the month did not gather similar momentum. In the gas sector, 1 order emerged last week assigned to Samsung HI. It is worth mentioning that it was not related to the Qatari project, as phase one of Qatar Energy's megaproject has been concluded last week following the announcement of the remaining three shipowners linked with the final eight berths at DSME. Yet we expect LNG contracting activity to remain firm, underpinned by strong market fundamentals. Tanker ordering activity remained flat with two MR vessels assigned to Hyundai Vietnam on behalf of Mitsui & Co. One order for three PCTC vessels has been reported last week following a near 3-month muted activity. Conclusively, Petrobras returned to Singapore's Kepel for a P-83 FPSO. The unit is scheduled to operate at Brazil's Buzios Field in Santos Basin, which is set to be installed with eight additional units by 2030.
 
 ## Demolition (**Wet: Stable+ / Dry: Stable+**)
 
@@ -124,7 +124,7 @@ VLCC T/C earnings averaged \$36,068/day, down - \$7,337/day w-o-w. TD2 MEG/SIN s
 
 Suezmax T/C earnings averaged \$ 59,561/day, up + \$634/day w-o-w. TD20 W.Africa/UKC trip noted a 10.23WS decline w-o-w. On the Aframax front, MED and North European rates rose, with TD19 and TD7 up by 25.56WS and 28.44WS points respectively. However, US market tonnage availability led to a decrease of 27.81WS points on TD9 business route.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had the sale of the "NORDIC COSMOS" (159,999dwt-bl't '03, S. Korea), which was sold to undisclosed buyers, for a price in the region of \$21.0m.
 
@@ -196,7 +196,7 @@ Supramax 10TC averaged \$ 18,357/day, up + 3.10% w-o-w, while the Handysize 7TC 
 | **Ultramax** | **63k** | 29.9 | 32.3 | -7.3% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 26.7 | 27.8 | -3.8% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "SHINYO GUARDIAN" (177,216dwt-blt '05, Japan), which was sold to Turkish buyers, for a price in the region of \$17.25m.
 
@@ -211,28 +211,28 @@ In the Kamsarmax sector we had the sale of the "ALEXANDRA" (82,329dwt-blt '06, J
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | CAP GUILLAUME | 158,889 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | Dec-24 | DH | $ 35.0m | undisclosed | ICE class |
-| SUEZ | NORDIC COSMOS | 159,999 | 2003 | SAMSUNG, S. Korea | B\&amp;W | Jan-23 | DH | $ 21.0m | undisclosed | dely Q4 2022 |
-| AFRA | PHOENIX BEACON | 105,525 | 2011 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Sep-26 | DH | $ 35.0m | Greek (Performance Shipping) | BWTS fitted |
-| LR2 | KEROS VOYAGER | 105,585 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Nov-23 | DH | region $ 35.0m | Middle Eastern |  |
-| MR2 | HIGH MARS | 51,543 | 2008 | STX, S. Korea | MAN-B\&amp;W | Apr-23 | DH | region $ 20,0m | undisclosed |  |
-| MR2 | DEE4 FIG | 44,995 | 2011 | ONOMICHI, Japan | MAN-B\&amp;W | Jun-26 | DH | $ 26.5m | Greek (United Overseas Group) | BWTS fitted |
-| MR2 | JO ASK | 47,128 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Nov-26 | DH | region $ 20.5m | Middle Eastern | BWTS fitted |
+| SUEZ | CAP GUILLAUME | 158,889 | 2006 | SAMSUNG, S. Korea | MAN-B&W | Dec-24 | DH | $ 35.0m | undisclosed | ICE class |
+| SUEZ | NORDIC COSMOS | 159,999 | 2003 | SAMSUNG, S. Korea | B&W | Jan-23 | DH | $ 21.0m | undisclosed | dely Q4 2022 |
+| AFRA | PHOENIX BEACON | 105,525 | 2011 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Sep-26 | DH | $ 35.0m | Greek (Performance Shipping) | BWTS fitted |
+| LR2 | KEROS VOYAGER | 105,585 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Nov-23 | DH | region $ 35.0m | Middle Eastern |  |
+| MR2 | HIGH MARS | 51,543 | 2008 | STX, S. Korea | MAN-B&W | Apr-23 | DH | region $ 20,0m | undisclosed |  |
+| MR2 | DEE4 FIG | 44,995 | 2011 | ONOMICHI, Japan | MAN-B&W | Jun-26 | DH | $ 26.5m | Greek (United Overseas Group) | BWTS fitted |
+| MR2 | JO ASK | 47,128 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B&W | Nov-26 | DH | region $ 20.5m | Middle Eastern | BWTS fitted |
 | MR1 | SYNERGY | 34,820 | 2020 | FUJIAN MAWEI, China | WinGD | Jan-25 | DH | $ 31.0m | undisclosed |  |
-| MR1 | BALTIC ADVANCE | 37,332 | 2006 | HYUNDAI MIPO, S. Korea | B\&amp;W | Feb-26 | DH | $ 16.5m | undisclosed |  |
-| SMALL | WEALTHY LOYAL | 19,098 | 2012 | ZHEJIANG, China | MAN-B\&amp;W | May-27 | DH | $ 15.0m | undisclosed | BWTS fitted, online commercial auction |
-| SMALL | LEON HERC | 17,568 | 2008 | SAMHO, S. Korea | MAN-B\&amp;W | Nov-23 | DH | $ 9.0m | Greek |  |
-| SMALL | HANYU FREESIA | 13,102 | 2006 | 21ST CENTURY, S. Korea | MAN-B\&amp;W | Jul-26 | DH | $ 7.1m | undisclosed | BWTS fitted |
+| MR1 | BALTIC ADVANCE | 37,332 | 2006 | HYUNDAI MIPO, S. Korea | B&W | Feb-26 | DH | $ 16.5m | undisclosed |  |
+| SMALL | WEALTHY LOYAL | 19,098 | 2012 | ZHEJIANG, China | MAN-B&W | May-27 | DH | $ 15.0m | undisclosed | BWTS fitted, online commercial auction |
+| SMALL | LEON HERC | 17,568 | 2008 | SAMHO, S. Korea | MAN-B&W | Nov-23 | DH | $ 9.0m | Greek |  |
+| SMALL | HANYU FREESIA | 13,102 | 2006 | 21ST CENTURY, S. Korea | MAN-B&W | Jul-26 | DH | $ 7.1m | undisclosed | BWTS fitted |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | SHINYO GUARDIAN | 177,216 | 2005 | NAMURA, Japan | MAN-B\&amp;W | Nov-24 |  | $ 17.25m | Turkish | BWTS fitted |
-| KMAX | CYMONA GEMINI | 82,992 | 2006 | TSUNEISHI, Japan | MAN-B\&amp;W | Jun-26 |  | excess $ 16.0m | Greek (Minoa Marine) |  |
-| KMAX | ALEXANDRA | 82,329 | 2006 | TSUNEISHI, Japan | MAN-B\&amp;W | Dec-25 |  | excess $ 16.0m | Turkish | BWTS fitted |
-| PMAX | GOLDEN HARVEST | 76,623 | 2001 | IMABARI, Japan | MAN-B\&amp;W | Jul-26 |  | $ 10.50m | undisclosed | BWTS fitted |
-| SUPRA | NAVIOS ULYSSES | 55,728 | 2007 | OSHIMA, Japan | MAN-B\&amp;W | Jan-27 | 4 X 30t CRANES | $ 14.50m | undisclosed |  |
-| HANDY | PROMISE 2 | 32,401 | 2010 | SAMHO, S. Korea | MAN-B\&amp;W | Sep-25 | 4 X 30t CRANES | $ 13.80m | Middle Eastern | BWTS fitted |
+| CAPE | SHINYO GUARDIAN | 177,216 | 2005 | NAMURA, Japan | MAN-B&W | Nov-24 |  | $ 17.25m | Turkish | BWTS fitted |
+| KMAX | CYMONA GEMINI | 82,992 | 2006 | TSUNEISHI, Japan | MAN-B&W | Jun-26 |  | excess $ 16.0m | Greek (Minoa Marine) |  |
+| KMAX | ALEXANDRA | 82,329 | 2006 | TSUNEISHI, Japan | MAN-B&W | Dec-25 |  | excess $ 16.0m | Turkish | BWTS fitted |
+| PMAX | GOLDEN HARVEST | 76,623 | 2001 | IMABARI, Japan | MAN-B&W | Jul-26 |  | $ 10.50m | undisclosed | BWTS fitted |
+| SUPRA | NAVIOS ULYSSES | 55,728 | 2007 | OSHIMA, Japan | MAN-B&W | Jan-27 | 4 X 30t CRANES | $ 14.50m | undisclosed |  |
+| HANDY | PROMISE 2 | 32,401 | 2010 | SAMHO, S. Korea | MAN-B&W | Sep-25 | 4 X 30t CRANES | $ 13.80m | Middle Eastern | BWTS fitted |
 | HANDY | ANACAPA LIGHT | 32,131 | 2005 | SAIKI, Japan | Mitsubishi | Jul-25 | 4 X 30t CRANES | $ 12.40m | Turkish | BWTS fitted, OHBS |
 
 © Intermodal Research 04/10/2022 4
@@ -258,7 +258,7 @@ In the Kamsarmax sector we had the sale of the "ALEXANDRA" (82,329dwt-blt '06, J
 | Gas | MGC LPG 55k cbm |  | 75.0 | 75.0 | 0.0% | 63 | 65 | 63 |
 | Gas | SGC LPG 25k cbm |  | 52.0 | 52.0 | 0.0% | 42 | 44 | 43 |
 
-Shipbuilding activity was kept firm in September overall, edging higher from the summer lull, typically witnessed during summer months. Orders for bulkers trebled month over month and orders for LNG carriers doubled, facing tailwinds from a flurry of new berths linked to the Qatar project. Boxship ordering activity remained flat month over month, while tanker orders edged slightly lower over the same period. Moving forward, the fresh start to the month did not gather similar momentum. In the gas sector, 1 order emerged last week assigned to Samsung HI. It is worth mentioning that it was not related to the Qatar project, as phase one of Qatar Energy's megaproject has been concluded last week following the announcement of the remaining three shipowners linked with the final eight berths at DSME. Yet we expect LNG contracting activity to remain firm, underpinned by strong market fundamentals. Tanker ordering activity remained flat with two MR vessels assigned to Hyundai Vietnam on behalf of Mitsui &amp; Co. One order for three PCTC vessels has been reported last week following a near 3-month muted activity. Conclusively, Petrobras returned to Singapore's Keppel for a P-83 FPSO. The unit is scheduled to operate at Brazil's Buzios Field in Santos Basin, which is set to be installed with eight additional units by 2030.
+Shipbuilding activity was kept firm in September overall, edging higher from the summer lull, typically witnessed during summer months. Orders for bulkers trebled month over month and orders for LNG carriers doubled, facing tailwinds from a flurry of new berths linked to the Qatar project. Boxship ordering activity remained flat month over month, while tanker orders edged slightly lower over the same period. Moving forward, the fresh start to the month did not gather similar momentum. In the gas sector, 1 order emerged last week assigned to Samsung HI. It is worth mentioning that it was not related to the Qatar project, as phase one of Qatar Energy's megaproject has been concluded last week following the announcement of the remaining three shipowners linked with the final eight berths at DSME. Yet we expect LNG contracting activity to remain firm, underpinned by strong market fundamentals. Tanker ordering activity remained flat with two MR vessels assigned to Hyundai Vietnam on behalf of Mitsui & Co. One order for three PCTC vessels has been reported last week following a near 3-month muted activity. Conclusively, Petrobras returned to Singapore's Keppel for a P-83 FPSO. The unit is scheduled to operate at Brazil's Buzios Field in Santos Basin, which is set to be installed with eight additional units by 2030.
 
 > **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
@@ -270,7 +270,7 @@ Shipbuilding activity was kept firm in September overall, edging higher from the
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | FPSO | 225,000 | bopd | Keppel | 2027 | Brazilian (Petrobras) | $2.8bn |
 | 3 | PCTC | 8,600 | ceu | GSI, China | 2024-2025 | S. Korean ( H-Line Shipping) | rgn $ 100.0m |
-| 2 | Tanker | 50,000 dwt | Hyundai Vietnam, Vietnam | 2025 | Japanese (Mitsui &amp; Co) | $ 42.0m | options declared |
+| 2 | Tanker | 50,000 dwt | Hyundai Vietnam, Vietnam | 2025 | Japanese (Mitsui & Co) | $ 42.0m | options declared |
 | 2 | LNG | 174,000 cbm | Samsung HI, S. Korea | 2026 | Malaysian (MISC) | undisclosed |  |
 
 © Intermodal Research 04/10/2022 5

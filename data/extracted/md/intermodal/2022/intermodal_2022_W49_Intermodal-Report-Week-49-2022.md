@@ -32,7 +32,7 @@ With regards to shipyards' workload for the next year to come, we expect all yar
 
 The dry bulk rates continue to fluctuate between gains and losses for another week. Having said that, last week Capes and Panamax owners managed to push rates upward with geared sizes facing limited fresh cargoes and ending the week with small losses. The BDI today (13/12/2022) closed at 1,357 points, up by 17 points compared to previous Tuesday's closing (06/12/2022). The sentiment was mixed in the crude carrier market. USG rates noted a significant w-o-w drop against a strong rise in both Suezmax and Aframax Med performance. The BDTI today (13/12/2022) closed at 2,086, a decrease of 26 points and the BCTI at 2,011, an increase of 228 points compared to previous Tuesday's (06/12/2022) levels.
 
-### **Sale &amp; Purchase (**Wet: **Firmer** / **Dry: Firmer**)**
+### **Sale & Purchase (**Wet: **Firmer** / **Dry: Firmer**)**
 
 The clean tanker sector monopolized owners' interest in the tanker SnP realm, while dry bulk sales also noted an uptick following the previous week's soft momentum. In the tanker sector, we had the sale of the "FOS ATHENS" (105,171dwt-blt '15, S. Korea), which was sold to Turkish buyers, for a price in the region of \$50.0m. On the dry bulker side sector, we had the sale of the "RICH RAINFOREST" (82,278dwt-blt '22, China), which was sold to Japanese buyers, for a price in the region of \$34.5m.
 
@@ -134,7 +134,7 @@ VLCC T/C earnings averaged \$ 31,365/day, up + \$4,651/day w-o-w, and closed off
 
 Suezmax T/C earnings averaged \$111,814/day, up + \$9,819/day w-o-w. On the Aframax front, T/C earnings averaged \$ 99,510/day, down - \$9,470/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Aframax sector we had the sale of the "FOS ATHENS" (105,171dwt-bl't '15, S. Korea), which was sold to Turkish buyers, for a price in the region of \$50.0m.
 
@@ -197,7 +197,7 @@ Supramax 10TC averaged \$ 12,712/day, down – 1.30% w-o-w, while the Handysize 
 | **Ultramax** | **63k** | 28.0 | 28.9 | -3.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.0 | 24.5 | -2.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Kamsarmax sector we had the sale of the "RICH RAINFOREST" (82,278dwt-blt '22, China), which was sold to Japanese buyers, for a price in the region of \$34.5m.
 
@@ -213,19 +213,19 @@ In the Handysize sector we had the sale of the "GANT GRACE" (28,375dwt-blt '10, 
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | FOS ATHENS | 105,171 | 2015 | HYUNDAI, S. Korea | MAN-B&amp;W | Feb-25 | DH | region $ 50.0m | Turkish | BWTS fitted, Eco |
-| AFRA | GULLIT | 108,953 | 2008 | SWS, China | MAN-B&amp;W | Mar-23 | DH | $ 34.0m | undisclosed |  |
-| LR1 | SUMMIT AFRICA | 73,427 | 2009 | NEW TIMES, China | MAN-B&amp;W | Aug-24 | DH | mid/high $24.0m | European |  |
+| AFRA | FOS ATHENS | 105,171 | 2015 | HYUNDAI, S. Korea | MAN-B&W | Feb-25 | DH | region $ 50.0m | Turkish | BWTS fitted, Eco |
+| AFRA | GULLIT | 108,953 | 2008 | SWS, China | MAN-B&W | Mar-23 | DH | $ 34.0m | undisclosed |  |
+| LR1 | SUMMIT AFRICA | 73,427 | 2009 | NEW TIMES, China | MAN-B&W | Aug-24 | DH | mid/high $24.0m | European |  |
 | MR2 | T REX | 50,548 | 2006 | SPP, S. Korea | Wartsila | Dec-26 | DH | $ 19.2m | undisclosed | BWTS fitted |
-| MR2 | NAVE DORADO | 47,999 | 2005 | IWAGI ZOSEN, Japan | MAN-B&amp;W | Aug-25 | DH | $ 15.6m | undisclosed |  |
-| MR1 | LUZERN | 38,431 | 2007 | GUANGZHOU, China | MAN-B&amp;W | Apr-27 | DH | $ 15.25m | undisclosed | BWTS fitted, dely March 2023 |
-| MR1 | CAPE BRADLEY | 40,345 | 2004 | HYUNDAI MIPO, S. Korea | B&amp;W | Feb-24 | DH | $ 15.0m | German | BWTS fitted |
-| MR1 | CAPE BACTON | 40,293 | 2004 | HYUNDAI MIPO, S. Korea | B&amp;W | Apr-24 | DH | $ 15.0m | German | BWTS fitted |
+| MR2 | NAVE DORADO | 47,999 | 2005 | IWAGI ZOSEN, Japan | MAN-B&W | Aug-25 | DH | $ 15.6m | undisclosed |  |
+| MR1 | LUZERN | 38,431 | 2007 | GUANGZHOU, China | MAN-B&W | Apr-27 | DH | $ 15.25m | undisclosed | BWTS fitted, dely March 2023 |
+| MR1 | CAPE BRADLEY | 40,345 | 2004 | HYUNDAI MIPO, S. Korea | B&W | Feb-24 | DH | $ 15.0m | German | BWTS fitted |
+| MR1 | CAPE BACTON | 40,293 | 2004 | HYUNDAI MIPO, S. Korea | B&W | Apr-24 | DH | $ 15.0m | German | BWTS fitted |
 | SMALL | BOCHEM CHENNAI | 19,801 | 2012 | KITANIHON, Japan | Mitsubishi | Mar-27 | DH | $ 23.8m | undisclosed | StSt, BWTS fitted |
-| SMALL | NAVE POLARIS | 25,145 | 2011 | DAE SUN, S. Korea | MAN-B&amp;W | Jan-26 | DH | $ 14.7m | undisclosed |  |
-| SMALL | NAVE COSMOS | 25,130 | 2010 | DAE SUN, S. Korea | MAN-B&amp;W | Oct-25 | DH | $ 13.6m | undisclosed |  |
-| SMALL | STRAUM | 19,934 | 2010 | QINGSHAN, China | MAN-B&amp;W | Jan-25 | DH | $ 19.5m | Chinese | StSt, BWTS fitted, Scrubber fitted, Ice Class 1A |
-| SMALL | YC DAHLIA | 10,977 | 2010 | NOKBONG, S. Korea | MAN-B&amp;W | Nov-25 | DH | $ 11.2m | Thai | BWTS fitted |
+| SMALL | NAVE POLARIS | 25,145 | 2011 | DAE SUN, S. Korea | MAN-B&W | Jan-26 | DH | $ 14.7m | undisclosed |  |
+| SMALL | NAVE COSMOS | 25,130 | 2010 | DAE SUN, S. Korea | MAN-B&W | Oct-25 | DH | $ 13.6m | undisclosed |  |
+| SMALL | STRAUM | 19,934 | 2010 | QINGSHAN, China | MAN-B&W | Jan-25 | DH | $ 19.5m | Chinese | StSt, BWTS fitted, Scrubber fitted, Ice Class 1A |
+| SMALL | YC DAHLIA | 10,977 | 2010 | NOKBONG, S. Korea | MAN-B&W | Nov-25 | DH | $ 11.2m | Thai | BWTS fitted |
 
 © Intermodal Research 13/12/2022 4
 
@@ -236,13 +236,13 @@ In the Handysize sector we had the sale of the "GANT GRACE" (28,375dwt-blt '10, 
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | RICH RAINFOREST | 82,278 | 2022 | Jiangsu, China | MAN-B\&amp;W | Jan-27 |  | $ 34.5m | Japanese | BWTS fitted, BBHP |
-| UMAX | ASL GRACE | 60,259 | 2015 | ONOMICHI, Japan | MAN-B\&amp;W | Jul-25 | 4 X 30t CRANES | $ 25.5m | undisclosed | BWTS fitted |
-| SUPRA | SAGAR MOTI | 58,097 | 2012 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jun-27 | 4 X 30t CRANES | region $ 18.0m | undisclosed | BWTS fitted |
+| KMAX | RICH RAINFOREST | 82,278 | 2022 | Jiangsu, China | MAN-B&W | Jan-27 |  | $ 34.5m | Japanese | BWTS fitted, BBHP |
+| UMAX | ASL GRACE | 60,259 | 2015 | ONOMICHI, Japan | MAN-B&W | Jul-25 | 4 X 30t CRANES | $ 25.5m | undisclosed | BWTS fitted |
+| SUPRA | SAGAR MOTI | 58,097 | 2012 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jun-27 | 4 X 30t CRANES | region $ 18.0m | undisclosed | BWTS fitted |
 | SUPRA | RIO CHOAPA | 50,633 | 2012 | OSHIMA, Japan | Mitsubishi | Dec-27 | 4 X 30t CRANES | $ 16.5m | Greek | BWTS fitted |
-| HANDY | INTERLINK SAGACITY | 38,743 | 2015 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Aug-25 | 4 X 30t CRANES | $ 20.0m | undisclosed | BWTS fitted, Eco, Ice Class 1C |
-| HANDY | BEN WYVIS | 35,000 | 2015 | Jiangdong, China | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | undisclosed | undisclosed |  |
-| HANDY | GANT GRACE | 28,375 | 2010 | IMABARI, Japan | MAN-B\&amp;W | Jan-25 | 4 X 30,5t CRANES | $ 12.5m | Greek | BWTS fitted |
+| HANDY | INTERLINK SAGACITY | 38,743 | 2015 | TAIZHOU KOUAN, China | MAN-B&W | Aug-25 | 4 X 30t CRANES | $ 20.0m | undisclosed | BWTS fitted, Eco, Ice Class 1C |
+| HANDY | BEN WYVIS | 35,000 | 2015 | Jiangdong, China | MAN-B&W | May-25 | 4 X 30t CRANES | undisclosed | undisclosed |  |
+| HANDY | GANT GRACE | 28,375 | 2010 | IMABARI, Japan | MAN-B&W | Jan-25 | 4 X 30,5t CRANES | $ 12.5m | Greek | BWTS fitted |
 | HANDY | SHANGHAI | 31,923 | 2000 | SAIKI, Japan | Mitsubishi | Dec-25 | 4 X 30t CRANES | $ 8.3m | Lebanese | BWTS fitted, OHBS |
 ## Containers
 
@@ -253,7 +253,7 @@ In the Handysize sector we had the sale of the "GANT GRACE" (28,375dwt-blt '10, 
 
 | Sector | Size | Gas/LPG/LNG | Type | Name | Dwt | Built | Yard | M/E | SS due |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | BERKSHIRE | 26,466 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Jul-23 | 34,483 | excess $ 30.0m | undisclosed |
+| LPG | BERKSHIRE | 26,466 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jul-23 | 34,483 | excess $ 30.0m | undisclosed |
 
 © Intermodal Research 13/12/2022 5
 

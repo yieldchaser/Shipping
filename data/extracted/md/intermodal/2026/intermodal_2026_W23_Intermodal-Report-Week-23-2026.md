@@ -150,20 +150,20 @@ Handysize conditions remained mostly restrained, although Asia and the US Gulf s
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | MAXIM | 296,887 | 2011 | SHANGHAI JIANGNAN, China | MAN B\&amp;W | Jun-26 | DH | $ 82.0m | S. Korean (Sinokor) | Scrubber fitted, forward delivery |
-| J19 | SINAR MALAHAYATI | 20,938 | 2006 | SHIN KURUSHIMA, Japan | MAN B\&amp;W | Jul-26 | DH | $ 22,95m | undisclosed | StSt, TC attached at 14,7k p/d |
-| J19 | SINAR MENDAWAI | 19,998 | 2008 | USUKI SHIPYARD, Japan | MAN B\&amp;W | Jul-28 | DH | $ 22,95m | undisclosed | StSt, TC attached at 13,7k p/d |
-| SMALL | GOLDEN CURL | 17,088 | 2008 | JIUJIANG, China | MAN B\&amp;W | Apr-28 | DH | $ 9.0m | undisclosed |  |
+| VLCC | MAXIM | 296,887 | 2011 | SHANGHAI JIANGNAN, China | MAN B&W | Jun-26 | DH | $ 82.0m | S. Korean (Sinokor) | Scrubber fitted, forward delivery |
+| J19 | SINAR MALAHAYATI | 20,938 | 2006 | SHIN KURUSHIMA, Japan | MAN B&W | Jul-26 | DH | $ 22,95m | undisclosed | StSt, TC attached at 14,7k p/d |
+| J19 | SINAR MENDAWAI | 19,998 | 2008 | USUKI SHIPYARD, Japan | MAN B&W | Jul-28 | DH | $ 22,95m | undisclosed | StSt, TC attached at 13,7k p/d |
+| SMALL | GOLDEN CURL | 17,088 | 2008 | JIUJIANG, China | MAN B&W | Apr-28 | DH | $ 9.0m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | SEACON ANTWERP | 82,806 | 2024 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jun-29 |  | $ 43.0m | undisclosed |  |
+| KMAX | SEACON ANTWERP | 82,806 | 2024 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jun-29 |  | $ 43.0m | undisclosed |  |
 | SUPRA | AUSONE | 56,812 | 2012 | YANGZHOU GUOYU, China | Wartsila | Apr-27 | 4 X 36t CRANES | $ 13.7m | Chinese |  |
-| SUPRA | AE MARS | 53,630 | 2006 | YANGZHOU DAYANG, China | MAN B\&amp;W | Aug-26 | 4 X 35t CRANES | $ 9.0m | undisclosed | via onlinde bidding platform |
-| SUPRA | WHITE BAY | 52,248 | 2004 | TSUNEISHI CEBU, Philippines | B\&amp;W | Apr-29 | 4 X 30t CRANES | $ 10.0m | undisclosed |  |
-| HANDY | INTERLINK CELERITY | 40,112 | 2017 | TAIZHOU KOUAN, China | MAN B\&amp;W | Nov-27 | 4 X 30t CRANES | $ 22,0m each | undisclosed | OHBS, Eco, Ice 1C |
-| HANDY | INTERLINK SOLIDITY | 40,098 | 2017 | TAIZHOU KOUAN, China | MAN B\&amp;W | Aug-27 | 4 X 30t CRANES | $ 22,0m each | undisclosed | OHBS, Eco, Ice 1C |
+| SUPRA | AE MARS | 53,630 | 2006 | YANGZHOU DAYANG, China | MAN B&W | Aug-26 | 4 X 35t CRANES | $ 9.0m | undisclosed | via onlinde bidding platform |
+| SUPRA | WHITE BAY | 52,248 | 2004 | TSUNEISHI CEBU, Philippines | B&W | Apr-29 | 4 X 30t CRANES | $ 10.0m | undisclosed |  |
+| HANDY | INTERLINK CELERITY | 40,112 | 2017 | TAIZHOU KOUAN, China | MAN B&W | Nov-27 | 4 X 30t CRANES | $ 22,0m each | undisclosed | OHBS, Eco, Ice 1C |
+| HANDY | INTERLINK SOLIDITY | 40,098 | 2017 | TAIZHOU KOUAN, China | MAN B&W | Aug-27 | 4 X 30t CRANES | $ 22,0m each | undisclosed | OHBS, Eco, Ice 1C |
 
 ---
 

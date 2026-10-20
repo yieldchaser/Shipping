@@ -28,7 +28,7 @@ To sum up, the present situation is already causing a series of side effects on 
 
 The dry bulk market witnessed a w-o-w decline last week with the Capesize sector setting the negative tone. The BDI today (31/05/2022) closed at 2,566 points, down by 687 points compared to previous Tuesday's closing (24/05/2022). An overall healthier w-o-w performance for the crude sector, yet with owners unable to capitalize on the improved sentiment in their earnings due to the higher bunker costs. The BDTI today (31/05/2022) closed at 1,119, and the BCTI at 1,426, a decrease of 65 point compared to previous Tuesday's (24/05/2022) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: Firmer)
+## Sale & Purchase (Wet: Softer / Dry: Firmer)
 
 The dry bulk secondhand market sustained its healthy volumes while tanker SnP activity noted a sharp decline with only six units changing hands. In the tanker sector, we had the sale of the "RUMFORD" (107,505dwt-blt '12, Japan), which was sold to Greek owner, Thenamaris for a price in the region of \$32.7m. On the dry bulker side sector, we had the sale of the "STELLA FLORA" (176,292dwt-blt '12, China), which was sold to Greek owner Safe Bulkers, for a price in the region of \$31.5m.
 
@@ -122,7 +122,7 @@ VLCC T/C earnings averaged \$ -26,515/day, down – 2,336/day w-o-w. The Atlanti
 
 Suezmax T/C earnings averaged \$ 15,321/day, up + \$837/day. USG market activity was strong, absorbing ballasters in the Atlantic helping W.Africa rates to improve as well. On the contrary, the Med market noted a small decline amidst limited fresh cargoes in the region. Aframax Med activity was also bearish with TD19 losing 4.25WS points w-o-w. North European trade was steady to firm, with rates ending up the week almost unchanged. USG market performance saw another great improvement with TD9 up by 26.56WS points w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Aframax sector we had the sale of the "RUMFORD" (107,505dwt-blt '12, Japan), which was sold to Greek owner, Thenamaris for a price in the region of \$32.7m.
 
@@ -188,7 +188,7 @@ Supramax 10TC averaged \$ 31.018/day, up + 1,68% w-o-w, while the Handysize 7TC 
 | **Ultramax** **63k** | 34.3 | 33.6 | **1.9%** | 26.4 | 19.4 | 22.6 |
 | **Handysize** **37K** | 29.0 | 28.7 | **1.0%** | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "STELLA FLORA" (176,292dwt-bl't '12, China), which was sold to Greek owner Safe Bulkers, for a price in the region of \$31.5m.
 
@@ -203,20 +203,20 @@ In the Ultramax sector we had the sale of the "PAVO BRIGHT" (61,281dwt-bl't '17,
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | STELLA FLORA | 176,292 | 2012 | SHANGHAI SHIPYARD, China | MAN-B&amp;W | Oct-22 |  | $ 31.5m | Greek (Safe Bulkers) | BWTS fitted |
-| KMAX | CAPRICORN MOON | 81,828 | 2015 | TSUNEISHI HEAVY CEBU, Philippines | MAN-B&amp;W | Apr-25 |  | region $ 33.0m | German |  |
-| KMAX | MAJULAH HARBOURFRONT | 81,922 | 2014 | TSUNEISHI ZHOUSHAN, China | MAN-B&amp;W | Nov-24 |  | $ 31.65m | Greek | BWTS fitted |
-| PMAX | GLORY ONE | 73,180 | 2002 | NAMURA, Japan | B&amp;W | Jun-22 |  | undisclosed | Chinese |  |
-| PMAX | ZHONG LIANG HUA NAN | 74,786 | 2001 | HUDONG-ZHONGHUA, China | MAN-B&amp;W | Sep-22 |  | around $ 13.28m | Chinese | auction sale, Chinese flag, price incl around 13% tax back to buyer |
-| UMAX | PAVO BRIGHT | 61,281 | 2017 | SHIN KURUSHIMA, Japan | MAN-B&amp;W | Jan-27 | 4 X 30,7t CRANES | $ 33.5m | Greek | BWTS fitted |
-| SUPRA | XIN XIANG HAI | 56,111 | 2012 | MITSUI CHIBA, Japan | MAN-B&amp;W | Jul-22 | 4 X 30t CRANES | $ 23.5m | Greek | BWTS fitted |
+| CAPE | STELLA FLORA | 176,292 | 2012 | SHANGHAI SHIPYARD, China | MAN-B&W | Oct-22 |  | $ 31.5m | Greek (Safe Bulkers) | BWTS fitted |
+| KMAX | CAPRICORN MOON | 81,828 | 2015 | TSUNEISHI HEAVY CEBU, Philippines | MAN-B&W | Apr-25 |  | region $ 33.0m | German |  |
+| KMAX | MAJULAH HARBOURFRONT | 81,922 | 2014 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Nov-24 |  | $ 31.65m | Greek | BWTS fitted |
+| PMAX | GLORY ONE | 73,180 | 2002 | NAMURA, Japan | B&W | Jun-22 |  | undisclosed | Chinese |  |
+| PMAX | ZHONG LIANG HUA NAN | 74,786 | 2001 | HUDONG-ZHONGHUA, China | MAN-B&W | Sep-22 |  | around $ 13.28m | Chinese | auction sale, Chinese flag, price incl around 13% tax back to buyer |
+| UMAX | PAVO BRIGHT | 61,281 | 2017 | SHIN KURUSHIMA, Japan | MAN-B&W | Jan-27 | 4 X 30,7t CRANES | $ 33.5m | Greek | BWTS fitted |
+| SUPRA | XIN XIANG HAI | 56,111 | 2012 | MITSUI CHIBA, Japan | MAN-B&W | Jul-22 | 4 X 30t CRANES | $ 23.5m | Greek | BWTS fitted |
 | SUPRA | OSIOS DAVID | 55,831 | 2012 | IHI, Japan | Wartsila | May-25 | 4 X 30t CRANES | $ 23.0m | undisclosed | BWTS fitted |
-| SUPRA | PRABHU LAL | 52,491 | 2004 | TSUNEISHI, Japan | B&amp;W | Mar-24 | 4 X 30t CRANES | excess $ 16.0m | undisclosed |  |
-| SUPRA | EVNIA | 53,806 | 2003 | NEW TIMES, China | B&amp;W | Aug-23 | 4 X 40t CRANES | $ 14.4m | undisclosed |  |
+| SUPRA | PRABHU LAL | 52,491 | 2004 | TSUNEISHI, Japan | B&W | Mar-24 | 4 X 30t CRANES | excess $ 16.0m | undisclosed |  |
+| SUPRA | EVNIA | 53,806 | 2003 | NEW TIMES, China | B&W | Aug-23 | 4 X 40t CRANES | $ 14.4m | undisclosed |  |
 | HMAX | ZHONG LIANG HUA DONG | 46,513 | 2001 | OSHIMA, Japan | Sulzer | Jan-26 | 4 X 30t CRANES | around $ 12.02m | undisclosed | auction sale, Chinese flag, price incl around 13% tax back to buyer |
-| HANDY | NORDIC BUSAN | 35,800 | 2018 | SAMJIN, China | MAN-B&amp;W | Apr-23 | 4 X 30t CRANES | $ 25.5m | Thai (Precious Shipping) |  |
-| HANDY | NORDIC SEOUL | 35,882 | 2017 | SAMJIN, China | MAN-B&amp;W | Aug-22 | 4 X 30t CRANES | $ 24.5m | Thai (Precious Shipping) |  |
-| HANDY | GOLDEN MAPLE | 32,527 | 2009 | ZHEJIANG, China | MAN-B&amp;W | Dec-24 | 4 X 30t CRANES | $ 14.0m | undisclosed | BWTS fitted, old sale |
+| HANDY | NORDIC BUSAN | 35,800 | 2018 | SAMJIN, China | MAN-B&W | Apr-23 | 4 X 30t CRANES | $ 25.5m | Thai (Precious Shipping) |  |
+| HANDY | NORDIC SEOUL | 35,882 | 2017 | SAMJIN, China | MAN-B&W | Aug-22 | 4 X 30t CRANES | $ 24.5m | Thai (Precious Shipping) |  |
+| HANDY | GOLDEN MAPLE | 32,527 | 2009 | ZHEJIANG, China | MAN-B&W | Dec-24 | 4 X 30t CRANES | $ 14.0m | undisclosed | BWTS fitted, old sale |
 | HANDY | SUPER KATE | 32,162 | 2008 | HAKODATE, Japan | Mitsubishi | Oct-25 | 4 X 30t CRANES | mid-high $ 16.0m | undisclosed | BWTS fitted |
 
 © Intermodal Research 31/05/2022 4
@@ -228,11 +228,11 @@ In the Ultramax sector we had the sale of the "PAVO BRIGHT" (61,281dwt-bl't '17,
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | RUMFORD | 107,505 | 2012 | TSUNEISHI, Japan | MAN-B\&amp;W | Mar-27 | DH | $ 32.7m | Greeks (Thenamaris) |  |
-| MR2 | PACIFIC DIAMOND | 47,917 | 2010 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Oct-25 | DH | $ 18.0m | undisclosed | BWTS fitted |
-| MR1 | MISS CLAUDIA | 40,158 | 2006 | SHINA, S. Korea | MAN-B\&amp;W | May-26 | DH | $ 11.5m | undisclosed | BWTS fitted |
+| AFRA | RUMFORD | 107,505 | 2012 | TSUNEISHI, Japan | MAN-B&W | Mar-27 | DH | $ 32.7m | Greeks (Thenamaris) |  |
+| MR2 | PACIFIC DIAMOND | 47,917 | 2010 | IWAGI ZOSEN, Japan | MAN-B&W | Oct-25 | DH | $ 18.0m | undisclosed | BWTS fitted |
+| MR1 | MISS CLAUDIA | 40,158 | 2006 | SHINA, S. Korea | MAN-B&W | May-26 | DH | $ 11.5m | undisclosed | BWTS fitted |
 | MR1 | BIANCA AMORETTI | 29,524 | 2003 | CHENGXI, China | Ma K | Aug-23 | DH | $ 6.0m | undisclosed | BWTS due 2023 |
-| MR1 | BALTIC COMMANDER I | 37,418 | 2000 | HYUNDAI MIPO DOCKYARD, S. Korea | B\&amp;W | Apr-25 | DH | $ 5.8m | Turkish |  |
+| MR1 | BALTIC COMMANDER I | 37,418 | 2000 | HYUNDAI MIPO DOCKYARD, S. Korea | B&W | Apr-25 | DH | $ 5.8m | Turkish |  |
 | SMALL | PANGNIU | 24,202 | 2017 | COSCO DALIAN, China | MAN | Mar-27 | DH | $ 20.6m | Greek |  |
 
 © Intermodal Research 31/05/2022 5

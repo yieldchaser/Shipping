@@ -32,13 +32,13 @@ Finally, trying to speculate the impact on the ship repair sector of the latest 
 
 With Capesize sector setting the positive tone, the dry bulk market enjoyed a considerable rise w-o-w. The geared sizes also supported last week's positive BDI performance. On the other hand, Panamax sector was the negative exception with BPI losing 107 points w-o-w. The BDI today (27/07/2021) closed at 3,166 up by 113 points compared to previous Tuesday's (20/07/2021) levels. The crude carrier market has noted a weekly positive closure. However, T/C earnings remained at very low levels for another week. The BDTI today (27/07/2021) closed at 594, an increase of 4 points, and the BCTI at 471, an increase of 8 points compared to previous Tuesday's (20/07/2021) levels.
 
-## Sale &amp; Purchase (**Wet: Softer / Dry: Softer**&gt;)
+## Sale & Purchase (**Wet: Softer / Dry: Softer**&gt;)
 
 The SnP activity has slowed down further this past week with a very low number of bulker and tanker units changing hands. In the tanker sector, we had the sale of the "FS SINCERITY" (48,045dwt-blt '09, Japan), which was sold to Greek buyers, for a price in the region of \$14.0m. On the dry bulker side sector, we had the sale of the "NORDIC INCHEON" (35,817dwt-blt '18, China), which was sold to undisclosed buyers, for price in the region of \$20.5m.
 
 ## Newbuilding (**Wet: Stable+ / Dry: Softer**&gt;)
 
-The newbuilding market activity has seen another weekly round of strong appetite with Container sectors having the lion's share among last week's surfacing orders. Handysize units were present; Wisdom Marine inked a deal for four 40,000dwt vessels equally split between Imabari and Namura yards at a cost of around \$29.0 million each. On the Tanker realm, an option for one 155,000dwt shuttle tanker was exercised by Shanghai North Sea at DSIC while South Korean owner, Sinokor, concluded a deal for the construction of six 50,000dwt MR units at K Shipbuilding, formerly known as SXT Offshore &amp; Shipbuilding. The container sector continued to be extremely popular; a total of four 16,000teu units were ordered by CMB FL and Minsheng FL at GSI and DSIC respectively on the back of long-term T/C to MSC. Seaspan continues its massive orderbook with an order of ten 7,000teu boxships at Yangzijiang. Each vessel will cost around \$105.0 million while a T/C to Zim is linked to the initial deal. Lastly, TS Lines ordered one 1,900teu boxship at Huangpu Wenchong while Briese Schiffahrts declared an option for two more 1,800teu units at Huanghai Shipbuilding which are added to the previous four units ordered one month ago.
+The newbuilding market activity has seen another weekly round of strong appetite with Container sectors having the lion's share among last week's surfacing orders. Handysize units were present; Wisdom Marine inked a deal for four 40,000dwt vessels equally split between Imabari and Namura yards at a cost of around \$29.0 million each. On the Tanker realm, an option for one 155,000dwt shuttle tanker was exercised by Shanghai North Sea at DSIC while South Korean owner, Sinokor, concluded a deal for the construction of six 50,000dwt MR units at K Shipbuilding, formerly known as SXT Offshore & Shipbuilding. The container sector continued to be extremely popular; a total of four 16,000teu units were ordered by CMB FL and Minsheng FL at GSI and DSIC respectively on the back of long-term T/C to MSC. Seaspan continues its massive orderbook with an order of ten 7,000teu boxships at Yangzijiang. Each vessel will cost around \$105.0 million while a T/C to Zim is linked to the initial deal. Lastly, TS Lines ordered one 1,900teu boxship at Huangpu Wenchong while Briese Schiffahrts declared an option for two more 1,800teu units at Huanghai Shipbuilding which are added to the previous four units ordered one month ago.
 
 ## Demolition (**Wet: Firmer / Dry: Firmer**&gt;)
 
@@ -128,7 +128,7 @@ Little has changed on the VLCC front, with rates remaining almost steady across 
 
 Rates for trips out of the West Africa Suezmax market managed to finish the week with gains albeit to a small extent while Black Sea rates moved in the opposite negative direction. Overall, T/C average Suezmax earnings increased by \$392 w-o-w and formed at the \$-2896 per mark. Aframax rates remained at low levels last week, with small improvements taking place across both the Med and the Baltic regions while the Caribs market noted a significant leg down.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the MR sector we had the sale of the "FS SINCERITY" (48,045dwt-blt '09, Japan), which was sold to Greek buyers, for a price in the region of \$14.0m.
 
@@ -195,7 +195,7 @@ Supramax 10TC averaged \$30,819/day down -1.0% w-o-w strengthening towards the e
 | **Ultramax** **63k** | 26.9 | 25.6 | **4.9%** | 19.4 | 23.1 | - |
 | **Handysize** **37K** | 21.0 | 20.5 | **2.4%** | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Handysize sector we had the sale of the "NORDIC INCHEON" (35,817dwt-blt '18, China), which was sold to undisclosed buyers, for price in the region of \$20.5m.
 
@@ -210,22 +210,22 @@ In the Handysize sector we had the sale of the "ULTRA CALBUCO" (37,981dwt-blt '1
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR1 | SUPER LOTUS | 70,426 | 2004 | UNIVERSAL, Japan | B\&amp;W | Feb-23 | DH | $ 7.8m | Far Eastern |  |
-| MR | FS SINCERITY | 48,045 | 2009 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Apr-22 | DH | rgn $ 14.0m | Greek |  |
-| SMALL | PRIME SOUTH | 12,886 | 2009 | STX, S. Korea | MAN-B\&amp;W |  | DH | $ 4.3m | Taiwanese | auction sale |
+| LR1 | SUPER LOTUS | 70,426 | 2004 | UNIVERSAL, Japan | B&W | Feb-23 | DH | $ 7.8m | Far Eastern |  |
+| MR | FS SINCERITY | 48,045 | 2009 | IWAGI ZOSEN, Japan | MAN-B&W | Apr-22 | DH | rgn $ 14.0m | Greek |  |
+| SMALL | PRIME SOUTH | 12,886 | 2009 | STX, S. Korea | MAN-B&W |  | DH | $ 4.3m | Taiwanese | auction sale |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HANDY | NORDIC INCHEON | 35,817 | 2018 | SAMJIN, China | MAN-B\&amp;W | Jan-23 | 4 X 30t CRANES | $ 20.5m | undisclosed |  |
-| HANDY | ULTRA CALBUCO | 37,981 | 2017 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Feb-22 | 4 X 30,7t CRANES | $ 23.5m | Indian (Chellaram) | delivery December 2021 |
-| HANDY | GLORIOUS SAWARA | 28,339 | 2009 | I-S SHIPYARD, Japan | MAN-B\&amp;W | Jul-22 | 4 X 30,5t CRANES | $ 11.0m | undisclosed | logs fitted |
+| HANDY | NORDIC INCHEON | 35,817 | 2018 | SAMJIN, China | MAN-B&W | Jan-23 | 4 X 30t CRANES | $ 20.5m | undisclosed |  |
+| HANDY | ULTRA CALBUCO | 37,981 | 2017 | I-S SHIPYARD, Japan | MAN-B&W | Feb-22 | 4 X 30,7t CRANES | $ 23.5m | Indian (Chellaram) | delivery December 2021 |
+| HANDY | GLORIOUS SAWARA | 28,339 | 2009 | I-S SHIPYARD, Japan | MAN-B&W | Jul-22 | 4 X 30,5t CRANES | $ 11.0m | undisclosed | logs fitted |
 ## Secondhand Sales
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | NORTHERN JULIE | 8,411 | 2005 | DAEWOO, S. Korea | MAN-B\&amp;W | Apr-25 |  | $ 85.0m | Swiss (MSC) | incl. T/C till 2022 |
-| POST PMAX | NORTHERN JADE | 8,411 | 2005 | DAEWOO, S. Korea | MAN-B\&amp;W | Aug-25 |  | $ 85.0m | Swiss (MSC) | incl. T/C till 2022 |
+| POST PMAX | NORTHERN JULIE | 8,411 | 2005 | DAEWOO, S. Korea | MAN-B&W | Apr-25 |  | $ 85.0m | Swiss (MSC) | incl. T/C till 2022 |
+| POST PMAX | NORTHERN JADE | 8,411 | 2005 | DAEWOO, S. Korea | MAN-B&W | Aug-25 |  | $ 85.0m | Swiss (MSC) | incl. T/C till 2022 |
 
 © Intermodal Research 27/07/2021 4
 
@@ -250,7 +250,7 @@ In the Handysize sector we had the sale of the "ULTRA CALBUCO" (37,981dwt-blt '1
 | Gas | MGC LPG 55k cbm |  | 69.0 | 68.5 | 0.7% | 63 | 65 | 63 |
 | Gas | SGC LPG 25k cbm |  | 46.5 | 46.0 | 1.1% | 42 | 44 | 43 |
 
-The newbuilding market activity has seen another weekly round of strong appetite with Container sectors having the lion's share among last week's surfacing orders. Handysize units were present; Wisdom Marine inked a deal for four 40,000dwt vessels equally split between Imabari and Namura yards at a cost of around \$29.0 million each. On the Tanker realm, an option for one 155,000dwt shuttle tanker was exercised by Shanghai North Sea at DSIC while South Korean owner, Sinokor, concluded a deal for the construction of six 50,000dwt MR units at K Shipbuilding, formerly known as SXT Offshore &amp; Shipbuilding. The container sector continued to be extremely popular; a total of four 16,000teu units were ordered by CMB FL and Minsheng FL at GSI and DSIC respectively on the back of long-term T/C to MSC. Seaspan continues its massive orderbook with an order of ten 7,000teu boxships at Yangzijiang. Each vessel will cost around \$105.0 million while a T/C to Zim is linked to the initial deal. Lastly, TS Lines ordered one 1,900teu boxship at Huangpu Wenchong while Briese Schiffahrts declared an option for two more 1,800teu units at Huanghai Shipbuilding which are added to the previous four units ordered one month ago.
+The newbuilding market activity has seen another weekly round of strong appetite with Container sectors having the lion's share among last week's surfacing orders. Handysize units were present; Wisdom Marine inked a deal for four 40,000dwt vessels equally split between Imabari and Namura yards at a cost of around \$29.0 million each. On the Tanker realm, an option for one 155,000dwt shuttle tanker was exercised by Shanghai North Sea at DSIC while South Korean owner, Sinokor, concluded a deal for the construction of six 50,000dwt MR units at K Shipbuilding, formerly known as SXT Offshore & Shipbuilding. The container sector continued to be extremely popular; a total of four 16,000teu units were ordered by CMB FL and Minsheng FL at GSI and DSIC respectively on the back of long-term T/C to MSC. Seaspan continues its massive orderbook with an order of ten 7,000teu boxships at Yangzijiang. Each vessel will cost around \$105.0 million while a T/C to Zim is linked to the initial deal. Lastly, TS Lines ordered one 1,900teu boxship at Huangpu Wenchong while Briese Schiffahrts declared an option for two more 1,800teu units at Huanghai Shipbuilding which are added to the previous four units ordered one month ago.
 
 > **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 

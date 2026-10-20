@@ -16,11 +16,11 @@ Issue: Week 06 | Tuesday 15<sup>th</sup> February 2022
 
 ### **Valuation Department**
 
-After a very hot dry bulk market, the 7th October 2021 – when BDI reached the 5,650 points mark, was the turning point on the dry bulk rates. Since then, the dry bulk rates curve began to follow a significant downturn trajectory with some points of slight ascent with the highest being at around 3,500 points mark. This downward pattern was definitely noticed not only in the S&amp;P transaction volumes – where the counterparties were looking for stability signs but in the asset prices as well.
+After a very hot dry bulk market, the 7th October 2021 – when BDI reached the 5,650 points mark, was the turning point on the dry bulk rates. Since then, the dry bulk rates curve began to follow a significant downturn trajectory with some points of slight ascent with the highest being at around 3,500 points mark. This downward pattern was definitely noticed not only in the S&P transaction volumes – where the counterparties were looking for stability signs but in the asset prices as well.
 
-For reference, the BWTS fitted TESS-82 Key Discovery (82kdwt 2010 Tsuneishi//SS: 11-2025 &amp; DD: 08-2023) was committed in mid/late October 2021 for US\$ 24,75 million basis delivery in December 2021 while the two-year younger same design but Zhoushan yard built, M/V King Barley (82kdwt 2012 Tsuneishi Zhoushan//SS &amp; DD: 01-2022) fetched in early December 2021, when the BDI hit around the 3,300 points mark, about mid US\$ 22.0 million basis delivery with Surveys Passed and BWTS fitted.
+For reference, the BWTS fitted TESS-82 Key Discovery (82kdwt 2010 Tsuneishi//SS: 11-2025 & DD: 08-2023) was committed in mid/late October 2021 for US\$ 24,75 million basis delivery in December 2021 while the two-year younger same design but Zhoushan yard built, M/V King Barley (82kdwt 2012 Tsuneishi Zhoushan//SS & DD: 01-2022) fetched in early December 2021, when the BDI hit around the 3,300 points mark, about mid US\$ 22.0 million basis delivery with Surveys Passed and BWTS fitted.
 
-During the first month of 2022, we noticed a further downturn – which began in the second half of December 2021. As expected, this trend translated in a further decrease of the S&amp;P activity of the dry bulk vessels with the only highlight being an enbloc Chinese Handysize deal that included around 12 units aged circa 5 years old. After the Chinese New Year Eve, February 2022 displays small signs of a dry bulk market recovery with the BDI moving upwards at a constant pace. As anticipated due to the improvements in the dry bulk freight market a more positive sentiment prevails among shipping participants which pushes the asset prices again to upper levels. We are also noticing that the Far East is becoming more active whilst the increase in the purchase enquiries shows that the buying appetite is growing with the interested parties previously being on hold, screening the market for available sales candidates. Moreover, additional fresh for sale candidates are put in the market as their Owners are looking to exploit the positive momentum.
+During the first month of 2022, we noticed a further downturn – which began in the second half of December 2021. As expected, this trend translated in a further decrease of the S&P activity of the dry bulk vessels with the only highlight being an enbloc Chinese Handysize deal that included around 12 units aged circa 5 years old. After the Chinese New Year Eve, February 2022 displays small signs of a dry bulk market recovery with the BDI moving upwards at a constant pace. As anticipated due to the improvements in the dry bulk freight market a more positive sentiment prevails among shipping participants which pushes the asset prices again to upper levels. We are also noticing that the Far East is becoming more active whilst the increase in the purchase enquiries shows that the buying appetite is growing with the interested parties previously being on hold, screening the market for available sales candidates. Moreover, additional fresh for sale candidates are put in the market as their Owners are looking to exploit the positive momentum.
 
 It remains to be seen if the market will continue to rise as fundamentals are pointing in that direction. China, the largest coal and iron ore importer will support strong levels in the freight realm. The return from New Year celebrations was followed by a record amount of new loans from Chinese banks during January which is driven by the Government's decision to underpin economic growth in 2022. With demand for steel and therefore imports of raw materials improving, the Chinese economic growth will positively impact the dry bulk freight market.
 
@@ -28,7 +28,7 @@ It remains to be seen if the market will continue to rise as fundamentals are po
 
 The dry bulk market regained its lost momentum with improvements materializing across all sizes during the last week. The BDI today (15/02/2022) closed at 1,968 points, up by 465 points compared to previous Tuesday's closing (08/02/2022). It was an overall down week for the crude carriers market, with VLCC sector noting a new historical low level on its average T/C earnings. The BDTI today (15/02/2022) closed at 691, an increase of 10 points, and the BCTI at 684, an increase of 92 points compared to previous Tuesday's (08/02/2022) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: Stable +)
+## Sale & Purchase (Wet: Softer / Dry: Stable +)
 
 Sentiment in the SnP dry bulk market remains firm with increased buying appetite being noticed amidst the freight market positive performance. On the other hand, only a handful of tanker units changed hands with the poor progress of earnings shattering owners' confidence. In the tanker sector, we had sale of the "ATHENS" (298,677dwt-bl't '00, Japan), which was sold to Middle Eastern buyer, for a price in the region of \$28.0m. On the dry bulker side sector, we had the sale of the "MAJESTY" (34,375dwt-bl't '11, S. Korea), which was sold to Greek owner, Loadline, for a price in the region of \$15.5m.
 
@@ -137,7 +137,7 @@ VLCC T/C earnings averaged \$ -20,077/day, down - \$3,086/day w-o-w. A shortlist
 
 Suezmax T/C earnings averaged \$ -1,058/day, down – 3,007/day w-o-w. The limited activity took place across all regions with TD20 and TD6 decreasing by -3.86WS and -1.95WS points respectively while MEG rates remained almost steady. Aframax T/C earnings averaged \$ 2,133/day w-o-w, up + \$216/day w-o-w. The North European and Med markets saw little activity during the past week. On the other hand, the Carib market enjoyed a meaningful improvement with TD9 increasing by 37.19WS points w-o-w, making it a ballasting option for the open tonnage.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had sale of the "ATHENS" (298,677dwt-blt '00, Japan), which was sold to Middle Eastern buyer, for a price in the region of \$28.0m.
 
@@ -205,7 +205,7 @@ Supramax 10TC averaged \$20,896/day, up + 20.23% w-o-w. Handysize sector was als
 | Ultramax | 63k | 30.5 | 30.5 | 0.0% | 26.4 | 19.4 | 22.6 |
 | Handysize | 37K | 27.0 | 26.6 | 1.4% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Kamsarmax sector we had the sale of the "NAVIOS PROSPERITY" (82,535dwt-blt '07, Japan), which was sold to Greek buyer, for a price in the region of \$16.4m.
 
@@ -220,10 +220,10 @@ In the Handysize sector we had the sale of the "MAJESTY" (34,375dwt-blt '11, S. 
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | ATHENS | 298,677 | 2000 | HITACHI ZOSEN, Japan | B&amp;W | Jul-23 | DH | $ 28.0m | Middle Eastern |  |
-| AFRA | BERGITTA | 105,827 | 2007 | TSUNEISHI, Japan | MAN-B&amp;W | Oct-22 | DH | $ 16.5m | Greek (Westport Tankers) |  |
+| VLCC | ATHENS | 298,677 | 2000 | HITACHI ZOSEN, Japan | B&W | Jul-23 | DH | $ 28.0m | Middle Eastern |  |
+| AFRA | BERGITTA | 105,827 | 2007 | TSUNEISHI, Japan | MAN-B&W | Oct-22 | DH | $ 16.5m | Greek (Westport Tankers) |  |
 | LR2 | ZANTORO | 109,647 | 2006 | DALIAN, China | Wartsila | Mar-22 | DH | low $ 13.0m | undisclosed | SS/DD due |
-| MR2 | JUPITER EXPRESS | 45,950 | 2012 | SHIN KURUSHIMA, Japan | MAN-B&amp;W | Apr-26 | DH | $ 18.5m | undisclosed | BWTS fitted |
+| MR2 | JUPITER EXPRESS | 45,950 | 2012 | SHIN KURUSHIMA, Japan | MAN-B&W | Apr-26 | DH | $ 18.5m | undisclosed | BWTS fitted |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
@@ -231,20 +231,20 @@ In the Handysize sector we had the sale of the "MAJESTY" (34,375dwt-blt '11, S. 
 | KMAX | EVERGLORY | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Aug-22 |  | high $ 19.0m each | Chinese |  |
 | KMAX | GALAXY | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Nov-22 |  | high $ 19.0m each | Chinese |  |
 | KMAX | RENAISSANCE | 81,666 | 2012 | QINGDAO BEIHAI, China | Wartsila | Dec-22 |  | high $ 19.0m each | Chinese |  |
-| KMAX | NAVIOS PROSPERITY | 82,535 | 2007 | TSUNEISHI, Japan | MAN-B\&amp;W | Jul-26 |  | rgn $ 16.4m | Greek | waiving inspection |
-| SUPRA | BUMBLEBEE | 55,628 | 2011 | MITSUI, Japan | MAN-B\&amp;W | Oct-26 | 4 X 30t CRANES | $ 20.4m | Middle Eastern | BWTS fitted |
-| HMAX | POLA ANISIA | 46,412 | 2006 | OSHIMA, Japan | MAN-B\&amp;W | Jan-26 | 4 X 30t CRANES | $ 13.2m | Turkish | BWTS fitted |
-| HANDY | MAJESTY | 34,375 | 2011 | DAE SUN, S. Korea | MAN-B\&amp;W | Mar-22 | 4 X 30t CRANES | $ 15.5m | Greek (Loadline) | BWTS fitted, Tier II |
+| KMAX | NAVIOS PROSPERITY | 82,535 | 2007 | TSUNEISHI, Japan | MAN-B&W | Jul-26 |  | rgn $ 16.4m | Greek | waiving inspection |
+| SUPRA | BUMBLEBEE | 55,628 | 2011 | MITSUI, Japan | MAN-B&W | Oct-26 | 4 X 30t CRANES | $ 20.4m | Middle Eastern | BWTS fitted |
+| HMAX | POLA ANISIA | 46,412 | 2006 | OSHIMA, Japan | MAN-B&W | Jan-26 | 4 X 30t CRANES | $ 13.2m | Turkish | BWTS fitted |
+| HANDY | MAJESTY | 34,375 | 2011 | DAE SUN, S. Korea | MAN-B&W | Mar-22 | 4 X 30t CRANES | $ 15.5m | Greek (Loadline) | BWTS fitted, Tier II |
 
 ## Containers
 
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MARITIME SINCHAI | 64,928 | 2017 | OSHIMA, Japan | MAN-B\&amp;W | Feb-22 | 2 X 75t &amp; 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
-| MARITIME CHALLENGER | 64,794 | 2017 | OSHIMA, Japan | MAN-B\&amp;W | Jul-22 | 2 X 75t &amp; 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
-| MARITIME DISCOVERER | 64,793 | 2017 | OSHIMA, Japan | MAN-B\&amp;W | May-22 | 2 X 75t &amp; 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
-| MARITIME VOYAGER | 64,942 | 2016 | OSHIMA, Japan | MAN-B\&amp;W | Jul-26 | 2 X 75t &amp; 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
-| CS FUTURE | 34,038 | 2010 | NANTONG YAHUA SHIPBUIL, China | MAN-B\&amp;W | Mar-25 | 2 X 40t &amp; 3 X 35t CRANES | $ 17.0m | undisclosed | 975-TEU, Tweendeck, BWTS fitted, Delivery Med |
+| MARITIME SINCHAI | 64,928 | 2017 | OSHIMA, Japan | MAN-B&W | Feb-22 | 2 X 75t & 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
+| MARITIME CHALLENGER | 64,794 | 2017 | OSHIMA, Japan | MAN-B&W | Jul-22 | 2 X 75t & 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
+| MARITIME DISCOVERER | 64,793 | 2017 | OSHIMA, Japan | MAN-B&W | May-22 | 2 X 75t & 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
+| MARITIME VOYAGER | 64,942 | 2016 | OSHIMA, Japan | MAN-B&W | Jul-26 | 2 X 75t & 2 X 40t CRANES | rgn $ 36.0m each | Chinese (COSCO) | MPP |
+| CS FUTURE | 34,038 | 2010 | NANTONG YAHUA SHIPBUIL, China | MAN-B&W | Mar-25 | 2 X 40t & 3 X 35t CRANES | $ 17.0m | undisclosed | 975-TEU, Tweendeck, BWTS fitted, Delivery Med |
 
 © Intermodal Research 15/02/2022 4
 
@@ -256,14 +256,14 @@ In the Handysize sector we had the sale of the "MAJESTY" (34,375dwt-blt '11, S. 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUB PMAX | VIVALDI | 2,546 | 2010 | JIANGSU YANGZIJIANG, China | Wartsila | Jan-25 | 3 X 45t Cranes | $ 18.0m | undisclosed |  |
-| SUB PMAX | HAMMONIA PALATIUM | 2,546 | 2006 | JIANGSU YANGZIJIANG, China | MAN-B\&amp;W | Nov-26 | 3 X 45t CRANES | $ 19.35m | Swiss (MSC) | Eco, mid-January 2022 deal |
+| SUB PMAX | HAMMONIA PALATIUM | 2,546 | 2006 | JIANGSU YANGZIJIANG, China | MAN-B&W | Nov-26 | 3 X 45t CRANES | $ 19.35m | Swiss (MSC) | Eco, mid-January 2022 deal |
 | SUB PMAX | ELIZABETH | 2,496 | 2003 | DAEWOO-MANGALIA, Romania | Sulzer | Dec-23 | 3 X 45t CRANES | $ 21.5m | undisclosed | incl. low TC attached, ear February 2022 deal |
 | SUB PMAX | CINDY | 2,490 | 2004 | HDW AG-KIEL, Germany | Sulzer | Nov-24 | 3 X 45t CRANES | $ 21.5m | undisclosed | incl. low TC attached, ear February 2022 deal |
 | FEEDER | YANGFAN CV18H-VG01 | 1,868 | 2022 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
 | FEEDER | YANGFAN CV18H-VG02 | 1,868 | 2022 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
 | FEEDER | YANGFAN CV18H-VG03 | 1,868 | 2023 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
 | FEEDER | YANGFAN CV18H-VG03 | 1,868 | 2023 | YANGFAN Group, China | Wartsila |  |  | rgn $ 44.5m each | French (CMA CGM) | delivery end 2022 / ear 2023 |
-| FEEDER | HOOGE | 1,368 | 2006 | SHANDONG WEIHAI, China | MAN-B\&amp;W | Jul-26 | 2 X 40t CRANES | $ 23.6m | Israeli (Carmel Shipping) |  |
+| FEEDER | HOOGE | 1,368 | 2006 | SHANDONG WEIHAI, China | MAN-B&W | Jul-26 | 2 X 40t CRANES | $ 23.6m | Israeli (Carmel Shipping) |  |
 
 © Intermodal Research 15/02/2022 5
 

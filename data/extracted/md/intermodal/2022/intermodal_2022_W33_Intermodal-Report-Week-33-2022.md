@@ -32,7 +32,7 @@ In 1990 and 2018, when Kaub water levels hit a record low, it was in late Octobe
 
 The dry bulk market has lost further ground last week with the weakness in the Capesize sector adding most of the pressure. The BDI today (23/08/2022) closed at 1,271 points, down by 116 points compared to previous Tuesday's closing (16/08/2022). Last week, the VLCC market set the positive tone on the back of a notable increase in USG and MEG exports leading average T/C earnings to close off the week above the \$20,000/day mark. The BDTI today (23/08/2022) closed at 1,549, an increase of 34 points and the BCTI at 1,283, a decrease of 100 point compared to previous Tuesday's (16/08/2022) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: **Softer**)
+## Sale & Purchase (Wet: **Firmer** / Dry: **Softer**)
 
 The continued downward momentum of the dry bulk freight market has negatively affected buyers' interest. On the other hand, tanker SnP activity remains healthy across both the crude and clean sectors. In the tanker sector, we had the sale of the "C. GUARDIAN" (300,300dwt-blt '19, S. Korea), which was sold to S. Korean owner HMM, for a price in the region of \$99.0m. On the dry bulker side sector, we had the auction sale of the "ZHONG LIANG DONG NAN" (52,551dwt-blt '01, Japan), which was sold to Chinese buyers, for a price in the region of \$11.6m.
 
@@ -131,7 +131,7 @@ VLCC T/C earnings averaged \$ 16,763/day, up + \$13,894/day w-o-w. USG/China TD2
 
 Suezmax T/C earnings averaged \$ 49,494/day, up + \$1,891/day w-o-w. Sentiment improved as well, underpinned by strong Atlantic requirements with the W.Africa TD20 route increasing by 11.03WS points amidst a shorter tonnage list in the area due to a higher volume of ballasters towards the USG. Aframax T/C earnings averaged \$54,322/day, up +\$986/day w-o-w. North European demand was lower while CPC cargo volume noted a decline. On the other hand, USG market positive performance supported the overall market.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "C. GUARDIAN" (300,300dwt-blt '19, S. Korea), which was sold to S. Korean owner HMM, for a price in the region of \$99.0m.
 
@@ -199,7 +199,7 @@ Supramax 10TC averaged \$ 18,316/day, down - 2.72% w-o-w, while the Handysize 7T
 | **Ultramax** **63k** | 32.5 | 33.5 | -3.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** **37K** | 28.0 | 28.9 | -3.1% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Supramax sector we had the auction sale of the "ZHONG LIANG DONG NAN" (52,551dwt-blt '01, Japan), which was sold to Chinese buyers, for a price in the region of \$11.6m.
 
@@ -302,7 +302,7 @@ Newbuilding activity momentum remained unchanged, with owners interest continued
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Tanker | 17,999 dwt | CMJL Yangzhou, China | 2024-2025 | FureBear (Furetank Rederi &amp; Algoma Central) | undisclosed | Ice 1A, LNG dual-fuel |
+| 2 | Tanker | 17,999 dwt | CMJL Yangzhou, China | 2024-2025 | FureBear (Furetank Rederi & Algoma Central) | undisclosed | Ice 1A, LNG dual-fuel |
 | 2 | Tanker | 11,300 dwt | Chongqing Chuandong, China | 2024 | Chinese (SC Shipping) | undisclosed | StSt, EEDI phase 3, NOx-Tier III, China Flag / Domestic Trade |
 | 7 | LNG | 174,000 cbm | Hyundai Hi, South Korea | 2025-2026 | Joint venture (NYK, K-Line, MISC, CLNG) | $ 214.9m | against T/C to Qatargas |
 | 1 | LNG | 174,000 cbm | DSME, S. Korea | 2026 | Japanese (MOL) | undisclosed | option declared, ME-GA engine |

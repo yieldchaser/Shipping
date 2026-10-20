@@ -27,7 +27,7 @@ There is an overall optimism that a positive trend will start during the last qu
 
 The Dry bulk market continued to push north last week thanks to the tremendous Capesize market performance. Indeed, the last time when the Capesize index was above the 9,000 points mark was back in September 2008. The BDI today (05/10/2021) closed at 5,409 up by 447 points compared to previous Tuesday's (28/09/2021) levels. The last quarter kicked off with rates in the crude carrier markets closing off the week up, yet with earnings hovering below OPEX levels. It remains to be seen if the overall optimism will materialize and a positive correction will take place in the coming weeks. The BDTI today (05/10/2021) closed at 649 points, an increase of 31 points, and the BCTI at 491, a decrease of 7 points compared to previous Tuesday's (28/09/2021) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: **Firm**er)
+## Sale & Purchase (Wet: Softer / Dry: **Firm**er)
 
 Dry bulk SnP activity resumed last week with a plethora of units changing hands. On the other hand, tanker SnP volume was softer with only three deals materializing. In the tanker sector, we had the judicial sale of the "OCEAN VELA" (108,929dwt-blt '09, China), which was sold to Vietnamese buyers, for a price in the region of \$18.5m. On the dry bulker side sector, we had the sale of the "ROSCO MAPLE" (181,453dwt-blt '10, Japan), which was sold to Greek buyers, for price in the region of \$33.8m.
 
@@ -131,7 +131,7 @@ VLCC T/C earnings averaged \$-6,600/day, up +\$1,176/day w-o-w. West Africa TD15
 
 Suezmax T/C earnings averaged \$-3,694/day, down by -\$96/day amidst a rise in bunker expenses. However, rates ended up the week on a positive tone with BlackSea TD6 route enjoying the largest rise up +3.38WS points w-o-w. In the Aframax front, Cross-Med business set the positive tone with TD19 improving by 9.82WS points w-o-w. North European rates were also up albeit to a smaller extent while TD9 Caribs route lost another 11.25WS points and closed off the week at the 83.13WS mark. All in all, Aframax T/C earnings averaged \$ -227/day, down by -\$76/day compared to the previous week.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the LR2 sector we had the judicial sale of the "OCEAN VELA" (108,929dwt-blt '09, China), which was sold to Vietnamese buyers, for a price in the region of \$18.5m.
 
@@ -201,7 +201,7 @@ Supramax 10TC averaged approx. \$37,136/day up +1.1% w-o-w, with the Atlantic co
 | **Ultramax** **63k** | 31.5 | 30.6 | **2.9%** | 19.4 | 23.1 | - |
 | **Handysize** **37K** | 25.5 | 24.8 | **3.0%** | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "ROSCO MAPLE" (181,453dwt-blt '10, Japan), which was sold to Greek buyers, for price in the region of \$33.8m.
 
@@ -216,22 +216,22 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | CONRAD | 207,609 | 2017 | SWS, China | MAN-B&amp;W | Apr-22 |  | $ 53.8m | U.S. based (JP Morgan) | BWTS &amp; scrubber fitted, delivery February 2022 |
-| CAPE | ROSCO MAPLE | 181,453 | 2010 | SASEBO, Japan | MAN-B&amp;W | Jun-25 |  | $ 33.8m | Greek | BWTS fitted, basis delivery November 2021 |
-| POST PMAX | SHUANG XI | 93,237 | 2010 | JIANGSU NEWYANGZI, China | MAN-B&amp;W | Sep-25 |  | $ 20.15m | undisclosed |  |
-| KMAX | VORANA MANX | 82,000 | 2021 | TSUNEISHI ZHOUSHAN, China | MAN-B&amp;W |  |  | $ 40.5m | undisclosed | delivery December 2021 |
-| KMAX | XIN HUA | 82,269 | 2012 | DALIAN, China | MAN-B&amp;W | Jul-22 |  | $ 22.0m | undisclosed | Tier II, scrubber fitted, delivery Dec 2021/Jan 2022 |
-| PMAX | OCEAN GINGER | 75,735 | 2002 | SANOYAS, Japan | B&amp;W | May-22 |  | $ 11.5m | undisclosed | incl TC. At 10,500 until May 2022 |
-| SMAX | STOVE FRIEND | 57,679 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&amp;W | Oct-21 | 4 X 30t CRANES | $ 28.0m | Norwegian (Belships) | BWTS fitted |
-| SMAX | STOVE TIDE | 57,679 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&amp;W | Oct-26 | 4 X 30t CRANES | $ 28.0m | Norwegian (Belships) | BWTS fitted |
-| SMAX | HTC CHARLIE | 56,451 | 2014 | TAIZHOU SANFU, China | MAN-B&amp;W | Feb-24 | 4 X 36t CRANES | $ 20.5m | Middle Eastern | Tier II |
-| SMAX | SEACON 6 | 57,000 | 2012 | NINGBO BEILUN, China | MAN-B&amp;W | Jun-22 | 4 X 30t CRANES | $ 15.3m | Chinese | online auction |
-| SMAX | MEDI OKINAWA | 56,118 | 2011 | MITSUI, Japan | MAN-B&amp;W | Oct-25 | 4 X 30t CRANES | excess $ 22.0m | Bangladeshi | BWTS fitted |
-| SMAX | SPRING HAWK | 55,688 | 2010 | MITSUI, Japan | MAN-B&amp;W | May-25 | 4 X 30t CRANES | $ 21.5m | Asian | BWTS fitted, delivery November-December 2021 |
-| HANDY | NEW FACE | 38,242 | 2017 | SHIN KOCHI, Japan | MAN-B&amp;W | Mar-22 | 4 X 30t CRANES | $ 52.0m | Greek |  |
-| HANDY | NEW DAYS | 38,230 | 2017 | SHIN KOCHI, Japan | MAN-B&amp;W | Jan-22 | 4 X 30t CRANES | $ 52.0m | Greek |  |
-| HANDY | NEW INSPIRATION | 36,334 | 2013 | SHIKOKU, Japan | MAN-B&amp;W | May-23 | 4 X 30,5t CRANES | $ 20.6m | UK based (Tufton Oceanic) |  |
-| HANDY | NEW HISTORY | 36,332 | 2013 | SHIKOKU, Japan | MAN-B&amp;W | Feb-23 | 4 X 30t CRANES | $ 20.6m | UK based (Tufton Oceanic) |  |
+| CAPE | CONRAD | 207,609 | 2017 | SWS, China | MAN-B&W | Apr-22 |  | $ 53.8m | U.S. based (JP Morgan) | BWTS & scrubber fitted, delivery February 2022 |
+| CAPE | ROSCO MAPLE | 181,453 | 2010 | SASEBO, Japan | MAN-B&W | Jun-25 |  | $ 33.8m | Greek | BWTS fitted, basis delivery November 2021 |
+| POST PMAX | SHUANG XI | 93,237 | 2010 | JIANGSU NEWYANGZI, China | MAN-B&W | Sep-25 |  | $ 20.15m | undisclosed |  |
+| KMAX | VORANA MANX | 82,000 | 2021 | TSUNEISHI ZHOUSHAN, China | MAN-B&W |  |  | $ 40.5m | undisclosed | delivery December 2021 |
+| KMAX | XIN HUA | 82,269 | 2012 | DALIAN, China | MAN-B&W | Jul-22 |  | $ 22.0m | undisclosed | Tier II, scrubber fitted, delivery Dec 2021/Jan 2022 |
+| PMAX | OCEAN GINGER | 75,735 | 2002 | SANOYAS, Japan | B&W | May-22 |  | $ 11.5m | undisclosed | incl TC. At 10,500 until May 2022 |
+| SMAX | STOVE FRIEND | 57,679 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&W | Oct-21 | 4 X 30t CRANES | $ 28.0m | Norwegian (Belships) | BWTS fitted |
+| SMAX | STOVE TIDE | 57,679 | 2016 | TSUNEISHI CEBU, Philippines | MAN-B&W | Oct-26 | 4 X 30t CRANES | $ 28.0m | Norwegian (Belships) | BWTS fitted |
+| SMAX | HTC CHARLIE | 56,451 | 2014 | TAIZHOU SANFU, China | MAN-B&W | Feb-24 | 4 X 36t CRANES | $ 20.5m | Middle Eastern | Tier II |
+| SMAX | SEACON 6 | 57,000 | 2012 | NINGBO BEILUN, China | MAN-B&W | Jun-22 | 4 X 30t CRANES | $ 15.3m | Chinese | online auction |
+| SMAX | MEDI OKINAWA | 56,118 | 2011 | MITSUI, Japan | MAN-B&W | Oct-25 | 4 X 30t CRANES | excess $ 22.0m | Bangladeshi | BWTS fitted |
+| SMAX | SPRING HAWK | 55,688 | 2010 | MITSUI, Japan | MAN-B&W | May-25 | 4 X 30t CRANES | $ 21.5m | Asian | BWTS fitted, delivery November-December 2021 |
+| HANDY | NEW FACE | 38,242 | 2017 | SHIN KOCHI, Japan | MAN-B&W | Mar-22 | 4 X 30t CRANES | $ 52.0m | Greek |  |
+| HANDY | NEW DAYS | 38,230 | 2017 | SHIN KOCHI, Japan | MAN-B&W | Jan-22 | 4 X 30t CRANES | $ 52.0m | Greek |  |
+| HANDY | NEW INSPIRATION | 36,334 | 2013 | SHIKOKU, Japan | MAN-B&W | May-23 | 4 X 30,5t CRANES | $ 20.6m | UK based (Tufton Oceanic) |  |
+| HANDY | NEW HISTORY | 36,332 | 2013 | SHIKOKU, Japan | MAN-B&W | Feb-23 | 4 X 30t CRANES | $ 20.6m | UK based (Tufton Oceanic) |  |
 | HANDY | EOS ESPERANCE | 33,686 | 2012 | SHIN KURUSHIMA, Japan | Mitsubishi | May-22 | 4 X 30t CRANES | $ 35.0m | Chinese | OHBS, BWTS fitted |
 | HANDY | EOS VICTORY | 33,686 | 2012 | SHIN KURUSHIMA, Japan | Mitsubishi | Aug-22 | 4 X 30t CRANES | $ 35.0m | Chinese | OHBS, BWTS fitted |
 | HANDY | MEL PRIDE | 32,260 | 1999 | KANDA, Japan | Mitsubishi | Jan-22 | 4 X 30t CRANES | low-mid $ 8.0m | undisclosed |  |
@@ -246,19 +246,19 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR2 | OCEAN VELA | 108,929 | 2009 | SWS, China | MAN-B\&amp;W | Jan-24 | DH | $ 18.5m | Vietnamese | judicial sale |
-| MR | STENA CONQUEROR | 47,323 | 2003 | ULJANIK, Croatia | B\&amp;W | Oct-23 | DH | $ 6.9m | Chinese | basis DD due |
-| SMALL | CRANE ARGO | 12,163 | 2010 | NIGATA, Japan | MAN-B\&amp;W | Jun-25 | DH | $ 7.2m | Chinese |  |
+| LR2 | OCEAN VELA | 108,929 | 2009 | SWS, China | MAN-B&W | Jan-24 | DH | $ 18.5m | Vietnamese | judicial sale |
+| MR | STENA CONQUEROR | 47,323 | 2003 | ULJANIK, Croatia | B&W | Oct-23 | DH | $ 6.9m | Chinese | basis DD due |
+| SMALL | CRANE ARGO | 12,163 | 2010 | NIGATA, Japan | MAN-B&W | Jun-25 | DH | $ 7.2m | Chinese |  |
 
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | RDO CONCEPTION | 6,539 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Apr-22 |  | excess $110.0m | Singapore based (OM Maritime) |  |
-| PMAX | TONGVA | 4,300 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-23 |  | undisclosed | undisclosed |  |
-| FEEDER | ALDI WAVE | 2,824 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Dec-25 |  | $ 40.0m | Swiss (MSC) |  |
-| FEEDER | ATLANTIC FLOSTA | 2,474 | 2002 | VOLKSWERFT STRALSUND, Germany | B\&amp;W | Feb-22 | 3 X 45t CRANES | mid-high $ 20.0m | Swiss (MSC) |  |
-| FEEDER | MILAN TRADER | 2,452 | 2002 | THYSSEN NORDSEEWERKE, Germany | B\&amp;W | Aug-22 | 3 X 45t CRANES | $ 33.0m | undisclosed |  |
+| PMAX | RDO CONCEPTION | 6,539 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Apr-22 |  | excess $110.0m | Singapore based (OM Maritime) |  |
+| PMAX | TONGVA | 4,300 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B&W | Oct-23 |  | undisclosed | undisclosed |  |
+| FEEDER | ALDI WAVE | 2,824 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B&W | Dec-25 |  | $ 40.0m | Swiss (MSC) |  |
+| FEEDER | ATLANTIC FLOSTA | 2,474 | 2002 | VOLKSWERFT STRALSUND, Germany | B&W | Feb-22 | 3 X 45t CRANES | mid-high $ 20.0m | Swiss (MSC) |  |
+| FEEDER | MILAN TRADER | 2,452 | 2002 | THYSSEN NORDSEEWERKE, Germany | B&W | Aug-22 | 3 X 45t CRANES | $ 33.0m | undisclosed |  |
 | FEEDER | FILIA | 1,774 | 2019 | JIANGSU NEWYANGZI, China | Wartsila | Jan-24 |  | excess $ 41.0m | Taiwanese (Wan Hai Lines) | BWTS fitted, Delivery February 2022 |
 | FEEDER | AS RICCARDA | 1,496 | 2012 | OUHUA, China | MAN | Feb-22 |  | $ 24.0m | Swiss (MSC) |  |
 
@@ -266,8 +266,8 @@ In the Supramax sector we had the sale of the "MEDI OKINAWA" (56,118dwt-blt '11,
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | KENTMERE | 9,197 | 2007 | ASAKAWA, Japan | MAN-B\&amp;W | Oct-22 | 8,554 | rgn $ 11.0m | Canadian (Transgas) | BWTS fitted |
-| LPG | EPIC BARBADOS | 6,618 | 2001 | MURAKAMI HIDE, Japan | B\&amp;W | Dec-21 | 7,200 | undisclosed | Bangladeshi (Bashundhara LP Gas) |  |
+| LPG | KENTMERE | 9,197 | 2007 | ASAKAWA, Japan | MAN-B&W | Oct-22 | 8,554 | rgn $ 11.0m | Canadian (Transgas) | BWTS fitted |
+| LPG | EPIC BARBADOS | 6,618 | 2001 | MURAKAMI HIDE, Japan | B&W | Dec-21 | 7,200 | undisclosed | Bangladeshi (Bashundhara LP Gas) |  |
 
 © Intermodal Research 05/10/2021 5
 
@@ -304,7 +304,7 @@ The volume of the newbuilding deals was softer compared to the week prior, with 
 | 9 | Bulker | 60,000 dwt | New Dayang, China | 2023-2024 | Chinese (CDB leasing) | $ 29.0m | LOI stage, old-deal 3-4 months ago |
 | 1 | Bulker | 5,560 dwt | Tsuneishi Zhoushan, China | 2024 | Japanese (NS United Kaiun Kaisha) | undisclosed | LNG fuelled, hybrid/battery powered |
 | 4 | LNG | 174,000 cbm | Hudong Zhonghua, China | 2023-2024 | Qatari (Qatar Petroleum) | $ 192.25m |  |
-| 4+2 | LNG | 174,000 cbm | Samsung, S. Korea | 2023-2024 | JV between Sovcomflot &amp; NYK | $ 202.0m | ice-class 1A, against long-term T/C to Novatek |
+| 4+2 | LNG | 174,000 cbm | Samsung, S. Korea | 2023-2024 | JV between Sovcomflot & NYK | $ 202.0m | ice-class 1A, against long-term T/C to Novatek |
 | 1 | VLGC | 86,700 cbm | Kawasaki, Japan | 2023 | Japanese (Eneos) | undisclosed | LPG/LAG carrier, LPG fuelled, Tier III, EEDI phase 3 |
 | 4+2 | Container | 5,400 teu | Hanjin, S. Korea | 2023-2024 | German (MPC) | $ 65.0m |  |
 

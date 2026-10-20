@@ -29,7 +29,7 @@ The largest percentages of volume shipped to India this year compared to last ar
 
 The sentiment was mixed in the dry bulk market across all sizes with a general feeling that the demand revival has yet to begin. The BDI on Friday (12/05/2023) closed at 1,558 points, unchanged compared to previous Friday's closing (05/05/2023). Crude tankers momentum was split between VLCC weak trend and positive Suezmax and Aframax performance. The BDTI on Friday (12/05/2023) closed at 1252, an increase of 180 points and the BCTI at 633, a decrease of 61 points compared to previous Friday's (05/04/2023) levels.
 
-## Sale &amp; Purchase (**Wet: Stable+** / **Dry: Softer**)
+## Sale & Purchase (**Wet: Stable+** / **Dry: Softer**)
 
 The recent negative momentum on the dry bulk market was evident in the SnP realm as well with only a handful of dry bulk sales materializing. On the tanker front, a healthy volume of deals came to light last week. In the tanker sector, we had the sale of the "**AGAPE SOUL**" (159,165dwt-blt '01, S. Korea) which was sold to undisclosed buyers, for a price in the region of \$29.0m. On the dry bulker side sector, we had the sale of the "**TASIK MELA-TI**" (180,310dwt-blt '04, Japan), which was sold to Chinese owner Jiangsu, for a price in the region of \$15.5m.
 
@@ -126,7 +126,7 @@ VLCC T/C earnings averaged \$ 10,409/day, down -\$3,309/day w-o-w and closed off
 
 Suezmax T/C earnings averaged \$ 51,312/day, up +\$10,513/day w-o-w. On the Aframax front, T/C earnings averaged \$ 55,158/day, up + \$19,321/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had the sale of the "AGAPE SOUL" (159,165dwt-bl't '01, S. Korea) which was sold to undisclosed buyers, for a price in the region of \$29.0m.
 
@@ -186,7 +186,7 @@ Supramax 10TC averaged \$ 12,179/day, down -0.87% w-o-w, while the Handysize 7TC
 | **Ultramax** **63k** | 31.5 | 31.4 | 0.4% | 31.5 | 26.4 | 19.4 |
 | **Handysize** **37K** | 26.0 | 26.0 | 0.0% | 27.2 | 21.4 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "TASIK MELATI" (180,310dwt-bl't '04, Japan), which was sold to Chinese owner Jiangsu, for a price in the region of \$15.5m.
 
@@ -201,24 +201,24 @@ In the Panamax sector we had the sale of the "HONG CHENG" (75,081dwt-bl't '11, C
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | AGAPE SOUL | 159,165 | 2001 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-26 | DH | $ 29.0m | undisclosed | BWTS fitted |
-| LR2 | AMPLEFORTH | 108,912 | 2008 | SWS, China | MAN-B\&amp;W | Aug-23 | DH | $ 36.0m | undisclosed |  |
-| AFRA | SOUTHERN GLORY | 108,411 | 2019 | TSUNEISHI, Japan | MAN-B\&amp;W | Jun-27 | DH | $ 67.8m | Singapore based (Eastern Pacific) | BWTS &amp; Scrubber fitted |
+| SUEZ | AGAPE SOUL | 159,165 | 2001 | DAEWOO, S. Korea | MAN-B&W | Jan-26 | DH | $ 29.0m | undisclosed | BWTS fitted |
+| LR2 | AMPLEFORTH | 108,912 | 2008 | SWS, China | MAN-B&W | Aug-23 | DH | $ 36.0m | undisclosed |  |
+| AFRA | SOUTHERN GLORY | 108,411 | 2019 | TSUNEISHI, Japan | MAN-B&W | Jun-27 | DH | $ 67.8m | Singapore based (Eastern Pacific) | BWTS & Scrubber fitted |
 | AFRA | AFRAMAX RIVIERA | 107,113 | 2005 | KOYO MIHARA, Japan | Sulzer | Mar-25 | DH | $ 35.0m | UAE based |  |
-| MR1 | JENNY I | 40,128 | 2003 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | May-23 | DH | $ 17.0m | European |  |
+| MR1 | JENNY I | 40,128 | 2003 | HYUNDAI MIPO, S. Korea | MAN-B&W | May-23 | DH | $ 17.0m | European |  |
 | SMALL | SUPER INFINITY | 15,004 | 2009 | STX RO, Romania | MAN | Aug-24 | DH | region $ 9.0m each | undisclosed | Ice 1A |
 | SMALL | SUPER HERO | 14,984 | 2009 | STX RO, Romania | MAN | Jul-24 | DH | region $ 9.0m each | undisclosed | Ice 1A |
-| SMALL | SUPER EASTERN | 12,825 | 2009 | STX, S. Korea | MAN-B\&amp;W | Sep-24 | DH | region $ 9.0m each | undisclosed | BWTS fitted |
-| SMALL | SUPER FORTE | 12,814 | 2010 | STX, S. Korea | MAN-B\&amp;W | Jan-25 | DH | region $ 9.0m each | undisclosed | BWTS fitted |
+| SMALL | SUPER EASTERN | 12,825 | 2009 | STX, S. Korea | MAN-B&W | Sep-24 | DH | region $ 9.0m each | undisclosed | BWTS fitted |
+| SMALL | SUPER FORTE | 12,814 | 2010 | STX, S. Korea | MAN-B&W | Jan-25 | DH | region $ 9.0m each | undisclosed | BWTS fitted |
 ## Bulk Carriers
 
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | CAPE ETERNITY | 207,855 | 2011 | COSCO NANTONG, China | MAN-B&amp;W | Oct-26 |  | undisclosed | undisclosed |  |
-| CAPE | TASIK MELATI | 180,310 | 2004 | KOYO MIHARA, Japan | B&amp;W | May-24 |  | $ 15.5m | Chinese (Jiangsu) |  |
-| PMAX | ULTRA PANACHE | 78,450 | 2011 | SANOYAS, Japan | MAN-B&amp;W | Feb-26 |  | excess $ 20.0m | undisclosed | BWTS fitted |
-| PMAX | HONG CHENG | 75,081 | 2011 | PENGLAI ZHONGBAI, China | MAN-B&amp;W | Oct-26 |  | $ 17.2m | Greek | BWTS fitted |
-| HANDY | PACIFIC ISLAND | 38,218 | 2012 | SHIMANAMI, Japan | MAN-B&amp;W | Nov-25 | 4 x 30,5t CRANES | $ 18.3m | undisclosed | BWTS fitted |
+| NEWCASTLEMAX | CAPE ETERNITY | 207,855 | 2011 | COSCO NANTONG, China | MAN-B&W | Oct-26 |  | undisclosed | undisclosed |  |
+| CAPE | TASIK MELATI | 180,310 | 2004 | KOYO MIHARA, Japan | B&W | May-24 |  | $ 15.5m | Chinese (Jiangsu) |  |
+| PMAX | ULTRA PANACHE | 78,450 | 2011 | SANOYAS, Japan | MAN-B&W | Feb-26 |  | excess $ 20.0m | undisclosed | BWTS fitted |
+| PMAX | HONG CHENG | 75,081 | 2011 | PENGLAI ZHONGBAI, China | MAN-B&W | Oct-26 |  | $ 17.2m | Greek | BWTS fitted |
+| HANDY | PACIFIC ISLAND | 38,218 | 2012 | SHIMANAMI, Japan | MAN-B&W | Nov-25 | 4 x 30,5t CRANES | $ 18.3m | undisclosed | BWTS fitted |
 ## Secondhand Sales
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |

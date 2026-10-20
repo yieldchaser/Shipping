@@ -28,7 +28,7 @@ China's demand for gasoil and gasoline is set to rally in 2023 amid easing COVID
 
 The dry bulk earnings continue to hover at unhealthy levels with the much debated Chinese demand recovery still not positively affecting the seaborne activity. The BDI on Friday (10/02/2023) closed at 602 points, down by 19 points compared to previous Friday's closing (03/02/2023). A mixed picture emerged in the crude carrier market. A mixed picture emerged in the crude carrier market. VLCC sector noted a slightly stronger week, followed by a weaker Suezmax and Aframax market performance. The BDTI on Friday (10/02/2023) closed at 1,206, a decrease of 33 points and the BCTI at 875, an increase of 246 points compared to previous Friday's (03/02/2023) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: **Softer**)
+## Sale & Purchase (Wet: **Firmer** / Dry: **Softer**)
 
 SnP activity in the dry bulk realm was considerably softer with only a handful of deals materializing. On the other hand, a generous number of tanker deals took place last week with clean tanker candidates gathering most of the interest. the tanker sector, we had the sale of the "NAVE PHOTON" (297,395dwt-blt '08, China), which was sold to Singapore based buyers, for a price in the region of \$58.0m. On the dry bulker side sector, we had the sale of the "SHANGHAI PEARL" (36,260dwt-blt '11, S. Korea), which was sold to Greek buyers, for a price in the region of \$13.9m.
 
@@ -129,7 +129,7 @@ VLCC T/C earnings averaged \$ 18,011/day, up +\$8,064/day w-o-w and closed off t
 
 Suezmax T/C earnings averaged \$ 63,088/day, down - \$114/day w-o-w. On the Aframax front, T/C earnings averaged \$ 51,341/day, down - \$5,581/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "NAVE PHOTON" (297,395dwt-blt '08, China), which was sold to Singapore based buyers, for a price in the region of \$58.0m.
 
@@ -190,7 +190,7 @@ Supramax 10TC averaged \$ 7,176/day, down - 3.34% w-o-w, while the Handysize 7TC
 | **Ultramax** | **63k** | 28.0 | 28.0 | 0.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.0 | 24.0 | 0.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Handysize sector we had the sale of the "SHANGHAI PEARL" (36,260dwt-blt '11, S. Korea), which was sold to Greek buyers, for a price in the region of \$13.9m.
 
@@ -204,30 +204,30 @@ In the Handysize sector we had the sale of the "SHANGHAI PEARL" (36,260dwt-blt '
 
 | Sector | Size | Tankers | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | NAVE PHOTON | 297,395 | 2008 | SHANGHAI JIANGNAN CHANGXIN, China | MAN-B&amp;W | Oct-23 | DH | $ 58.0m | Singapore based |  |
-| VLCC | ADVENTURE | 308,829 | 2005 | SAMSUNG, S. Korea | MAN-B&amp;W | Oct-25 | DH | $ 52.5m | undisclosed | Scrubber fitted |
-| LR1 | KONSTANTIN JACOB | 76,547 | 2011 | DALIAN, China | MAN-B&amp;W | Mar-26 | DH | region $ 30.5m | UK based (Navig8) | BWTS fitted |
-| LR1 | GEORG JACOB | 75,618 | 2011 | DALIAN, China | MAN-B&amp;W | Jul-26 | DH | region $ 30.5m |  |  |
-| LR1 | CORDULA JACOB | 75,618 | 2012 | DALIAN, China | MAN-B&amp;W | Jun-27 | DH | region $ 30.5m |  |  |
-| LR1 | TILL JACOB | 69,999 | 2012 | DALIAN, China | MAN-B&amp;W | Feb-27 | DH | region $ 30.5m |  |  |
-| LR1 | STENA PROGRESS | 65,125 | 2009 | BRODOSPLIT, Croatia | MAN-B&amp;W | Sep-24 | DH | region $ 30.0m |  |  |
-| LR1 | STENA PREMIUM | 65,055 | 2011 | BRODOSPLIT, Croatia | MAN-B&amp;W | Jun-26 | DH | region $ 30.0m | undisclosed | BWTS fitted, Ice Class, TC back |
-| LR1 | STENA PENGUIN | 64,834 | 2010 | BRODOSPLIT, Croatia | MAN-B&amp;W | Oct-25 | DH | region $ 30.0m |  |  |
-| MR2 | UOG ANDROS | 49,999 | 2009 | SPP, S. Korea | MAN-B&amp;W | Mar-24 | DH | $ 22.50m | undisclosed | on subs |
-| MR2 | NORD STINGRAY | 49,900 | 2009 | STX, S. Korea | MAN-B&amp;W | May-24 | DH | $ 23.75m | Turkish | BWTS, Scrubber fitted, basis canceling May 2023 |
-| MR2 | SUPER EMERALD | 50,346 | 2005 | SHINA, S. Korea | MAN-B&amp;W | Dec-25 | DH | $ 17.7m | Turkish | BWTS fitted |
-| SMALL | DL EMERALD | 13,034 | 2009 | 21ST CENTURY, S. Korea | MAN-B&amp;W | Feb-24 | DH | $ 9.7m | undisclosed |  |
+| VLCC | NAVE PHOTON | 297,395 | 2008 | SHANGHAI JIANGNAN CHANGXIN, China | MAN-B&W | Oct-23 | DH | $ 58.0m | Singapore based |  |
+| VLCC | ADVENTURE | 308,829 | 2005 | SAMSUNG, S. Korea | MAN-B&W | Oct-25 | DH | $ 52.5m | undisclosed | Scrubber fitted |
+| LR1 | KONSTANTIN JACOB | 76,547 | 2011 | DALIAN, China | MAN-B&W | Mar-26 | DH | region $ 30.5m | UK based (Navig8) | BWTS fitted |
+| LR1 | GEORG JACOB | 75,618 | 2011 | DALIAN, China | MAN-B&W | Jul-26 | DH | region $ 30.5m |  |  |
+| LR1 | CORDULA JACOB | 75,618 | 2012 | DALIAN, China | MAN-B&W | Jun-27 | DH | region $ 30.5m |  |  |
+| LR1 | TILL JACOB | 69,999 | 2012 | DALIAN, China | MAN-B&W | Feb-27 | DH | region $ 30.5m |  |  |
+| LR1 | STENA PROGRESS | 65,125 | 2009 | BRODOSPLIT, Croatia | MAN-B&W | Sep-24 | DH | region $ 30.0m |  |  |
+| LR1 | STENA PREMIUM | 65,055 | 2011 | BRODOSPLIT, Croatia | MAN-B&W | Jun-26 | DH | region $ 30.0m | undisclosed | BWTS fitted, Ice Class, TC back |
+| LR1 | STENA PENGUIN | 64,834 | 2010 | BRODOSPLIT, Croatia | MAN-B&W | Oct-25 | DH | region $ 30.0m |  |  |
+| MR2 | UOG ANDROS | 49,999 | 2009 | SPP, S. Korea | MAN-B&W | Mar-24 | DH | $ 22.50m | undisclosed | on subs |
+| MR2 | NORD STINGRAY | 49,900 | 2009 | STX, S. Korea | MAN-B&W | May-24 | DH | $ 23.75m | Turkish | BWTS, Scrubber fitted, basis canceling May 2023 |
+| MR2 | SUPER EMERALD | 50,346 | 2005 | SHINA, S. Korea | MAN-B&W | Dec-25 | DH | $ 17.7m | Turkish | BWTS fitted |
+| SMALL | DL EMERALD | 13,034 | 2009 | 21ST CENTURY, S. Korea | MAN-B&W | Feb-24 | DH | $ 9.7m | undisclosed |  |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HANDY | SHANGHAI PEARL | 36,260 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-26 | 4 X 35t CRANES | $ 13.9m | Greek | BWTS fitted, OHBS |
+| HANDY | SHANGHAI PEARL | 36,260 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-26 | 4 X 35t CRANES | $ 13.9m | Greek | BWTS fitted, OHBS |
 | HANDY | AUCKLAND SPIRIT | 31,646 | 2003 | SAIKI, Japan | Mitsubishi | Mar-23 | 4 X 30t CRANES | $ 9.5m | undisclosed | on subs, BWTS fitted, OHBS |
 ## Secondhand Sales
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | NYK DENEB | 4,882 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-26 |  | undisclosed | Swiss based (MSC) |
+| PMAX | NYK DENEB | 4,882 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-26 |  | undisclosed | Swiss based (MSC) |
 ## Secondhand Sales
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers |

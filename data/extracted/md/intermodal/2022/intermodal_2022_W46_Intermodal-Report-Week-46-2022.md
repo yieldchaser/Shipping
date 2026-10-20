@@ -27,7 +27,7 @@ Albeit a recent drop in ocean freight rates, mainly because of shrinking global 
 
 The pressure kept mounting, with the market for the bigger bulkers bearing most of the pressure last week. The BDI today (22/11/2022) closed at 1,149 points, down by 151 points compared to previous Tuesday's closing (15/11/2022). A boost in enquiries across all regions faced a very tight tonnage list which led to significant w-o-w improvements for all crude sizes. The BDTI today (22/11/2022) closed at 2,496, an increase of 535 points and the BCTI at 1,649, an increase of 281 points compared to previous Tuesday's (15/11/2022) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: Softer)
+## Sale & Purchase (Wet: Softer / Dry: Softer)
 
 Last week, only a handful of deals materialized in the SnP realm. Both tanker and dry bulk sales pointed to a weaker buying interest with bulker values being affected downward due to the softer appetite as of late. In the tanker sector, we had the sale of the "FOS HAMILTON" (105,408dwt-blt '13, S. Korea), which was sold to Greek owner Performance Shipping, for a price in the region of \$43.75m. On the dry bulker side sector, we had the enbloc sale of the "CHINA STEEL ENTREPRENEUR" (203,512dwt-blt '07, Taiwan) and "CHINA STEEL TEAM" (203,512dwt-blt '06, Taiwan), which were sold to Greek buyers, for a price in the region of \$17.75m each.
 
@@ -120,7 +120,7 @@ VLCC T/C earnings averaged \$ 63,770/day, up +\$11,069/day w-o-w, and closed off
 
 Suezmax T/C earnings averaged \$ 91,499/day, up + \$11,503/day w-o-w. On the Aframax front, T/C earnings averaged \$ 87,137/day, up + \$18,185/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Aframax sector we had the sale of the "FOS HAMILTON" (105,408dwt-blt '13, S. Korea), which was sold to Greek owner Performance Shipping, for a price in the region of \$43.75m.
 
@@ -188,7 +188,7 @@ Supramax 10TC averaged \$ 12,999/day, down - 4.15% w-o-w, while the Handysize 7T
 | Ultramax | 63k | 29.2 | 29.5 | -1.1% | 26.4 | 19.4 | 22.6 |
 | Handysize | 37K | 24.7 | 25.6 | -3.7% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Newcastlemax sector we had the enbloc sale of the "CHINA STEEL ENTREPRENEUR" (203,512dwt-blt '07, Taiwan) and "CHINA STEEL TEAM" (203,512dwt-blt '06, Taiwan), which were sold to Greek buyers, for a price in the region of \$17.75m each.
 
@@ -204,18 +204,18 @@ In the Handysize sector we had the sale of the "SEASTAR HARRIER" (39,804dwt-blt 
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | FOS HAMILTON | 105,408 | 2013 | HYUNDAI, S. Korea | MAN-B\&amp;W | Sep-23 | DH | $ 43.75m | Greek (Performance Shipping) | BWTS fitted |
-| LR1 | NORDNEPTUN | 74,999 | 2004 | HYUNDAI, S. Korea | MAN-B\&amp;W | Apr-24 | DH | mid $ 15.0m | undisclosed | BWTS fitted, coated |
-| LR1 | PGC IKAROS | 72,829 | 2004 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | Nov-24 | DH | $ 12.7m | Turkish | BWTS fitted, coated, basis February 2023 delivery and DD due |
-| MR1 | VALLERMOSA | 40,218 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Jan-23 | DH | $ 12.0m | Chinese | coated |
+| AFRA | FOS HAMILTON | 105,408 | 2013 | HYUNDAI, S. Korea | MAN-B&W | Sep-23 | DH | $ 43.75m | Greek (Performance Shipping) | BWTS fitted |
+| LR1 | NORDNEPTUN | 74,999 | 2004 | HYUNDAI, S. Korea | MAN-B&W | Apr-24 | DH | mid $ 15.0m | undisclosed | BWTS fitted, coated |
+| LR1 | PGC IKAROS | 72,829 | 2004 | HUDONG-ZHONGHUA, China | MAN-B&W | Nov-24 | DH | $ 12.7m | Turkish | BWTS fitted, coated, basis February 2023 delivery and DD due |
+| MR1 | VALLERMOSA | 40,218 | 2003 | HYUNDAI MIPO, S. Korea | B&W | Jan-23 | DH | $ 12.0m | Chinese | coated |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | CHINA STEEL ENTREPRENEUR | 203,512 | 2007 | CHINA SHIPBUILDING KAO, Taiwan | MAN-B\&amp;W | Jan-27 |  | $ 17.75m | Greek | BWTS fitted |
-| NEWCASTLEMAX | CHINA STEEL TEAM | 203,512 | 2006 | CHINA SHIPBUILDING KAO, Taiwan | MAN-B\&amp;W | Aug-26 |  | $ 17.75m | Greek | BWTS fitted |
-| HANDY | SEASTAR HARRIER | 39,804 | 2022 | HAKODATE, Japan | MAN-B\&amp;W |  | 4 X 30t CRANES | $ 30.9m | Japanese | resale, prompt delivery |
-| HANDY | PENELOPE T | 32,377 | 2011 | SAMHO, S. Korea | MAN-B\&amp;W | Apr-26 | 4 X 30t CRANES | xs $ 14.0m | Greek | BWTS fitted, at $17,000 p/d till Feb-Apr 2023 |
+| NEWCASTLEMAX | CHINA STEEL ENTREPRENEUR | 203,512 | 2007 | CHINA SHIPBUILDING KAO, Taiwan | MAN-B&W | Jan-27 |  | $ 17.75m | Greek | BWTS fitted |
+| NEWCASTLEMAX | CHINA STEEL TEAM | 203,512 | 2006 | CHINA SHIPBUILDING KAO, Taiwan | MAN-B&W | Aug-26 |  | $ 17.75m | Greek | BWTS fitted |
+| HANDY | SEASTAR HARRIER | 39,804 | 2022 | HAKODATE, Japan | MAN-B&W |  | 4 X 30t CRANES | $ 30.9m | Japanese | resale, prompt delivery |
+| HANDY | PENELOPE T | 32,377 | 2011 | SAMHO, S. Korea | MAN-B&W | Apr-26 | 4 X 30t CRANES | xs $ 14.0m | Greek | BWTS fitted, at $17,000 p/d till Feb-Apr 2023 |
 ## Secondhand Sales
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Comments |

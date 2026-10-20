@@ -27,7 +27,7 @@ Looking further into 2022, our analysts expect high commodity prices in 2021 pri
 
 With the exception of the Capesize sector whose index improved by 556 points w-o-w, the rest of the sizes lost additional ground last week. The BDI today (16/11/2021) closed at 2,591 down by 214 points compared to previous Tuesday's (09/11/2021) levels. The crude carrier market displayed an uninspiring performance last week, with rates noting weekly declines across all sectors. The BDTI today (16/11/2021) closed at 802, a decrease of 33 points, and the BCTI at 608, an increase of 37 points compared to previous Tuesday's (09/11/2021) levels.
 
-## Sale &amp; Purchase (Wet: <mark>Firmer</mark> / Dry: <mark>Firmer</mark>)
+## Sale & Purchase (Wet: <mark>Firmer</mark> / Dry: <mark>Firmer</mark>)
 
 The secondhand market witnessed an increase in tonnage transactions during the past days, especially in the dry bulk sector where geared sizes attracted most of the interest while product carriers continued to have the lion's share in the tanker SnP realm. In the tanker sector, we had the sale of the "MARAN CORONA" (306,093dwt-blt '03, S. Korea), which was sold to Greek buyers, for a price in the region of \$28.5m. On the dry bulker side sector, we had the sale of the "YUTAI AMBITIONS" (77,283dwt-blt '08, Japan), which was sold to Greek buyers, for a price in the region of low \$18.0m.
 
@@ -136,9 +136,9 @@ VLCC T/C earnings averaged \$ -7,819/day, down - \$1,301/day w-o-w and closed of
 
 Suezmax T/C earnings averaged \$ 6,748/day, down - \$1,684/day w-o-w. West Africa TD20 route lost 7.18WS points w-o-w while MEG to Med TD23 rate ended up the week down by 7.79WS points. On the Aframax front, T/C earnings averaged \$11,578/day, up + \$1,439/day w-o-w. In the North Europe, TD7 and TD17 closed off the week at the 121.56WS and 100.31WS points respectively while TD19 Cross-Med business route remained almost unchanged w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the VLCC sector we had the sale of the "MARAN CORONA" (306,093dwt-blt '03, S. Korea), which was sold to Greek buyers, for a price in the region of \$28.5m.
 
@@ -203,7 +203,7 @@ Supramax 10TC averaged approx. \$25,000/day down -16.7% w-o-w, with the Atlantic
 | **Ultramax** **63k** | 31.5 | 31.8 | -0.9% | 19.4 | 23.1 | - |
 | **Handysize** **37K** | 26.0 | 25.8 | **0.8%** | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Panamax sector we had the sale of the "YUTAI AMBITIONS" (77,283dwt-blt '08, Japan), which was sold to Greek buyers, for a price in the region of low \$18.0m.
 
@@ -220,28 +220,28 @@ In the Ultramax sector we had the sale of the "IKAN SENYUR" (61,494dwt-blt '10, 
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | MARAN CORONA | 306,093 | 2003 | DAEWOO, S. Korea | B&amp;W | Jul-23 | DH | $ 28.5m | Greek | DD due December 2021 |
-| SUEZ | DENSA WHALE | 158,322 | 2012 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Mar-22 | DH | $ 32.15m | Greek (Thenamaris) |  |
-| MR2 | OCEAN COSMOS | 50,359 | 2008 | SLS, S. Korea | MAN-B&amp;W | Jan-23 | DH | $ 10.7m | undisclosed | auction sale |
-| MR2 | OCEAN GLOBE | 50,344 | 2007 | SLS, S. Korea | MAN-B&amp;W | Jan-22 | DH | $ 10.0m | undisclosed | auction sale |
-| MR1 | SEAWAYS BODIE | 37,627 | 2006 | HYUNDAI GUNSAN, S. Korea | MAN-B&amp;W | Nov-21 | DH | $ 7.6m | undisclosed |  |
-| J19 | WAWASAN RUBY | 19,957 | 2010 | USUKI, Japan | MAN-B&amp;W | Mar-25 | DH | undisclosed | Far Eastern | St-St |
-| HANDY | MESABI | 12,934 | 2006 | SAMHO, S. Korea | MAN-B&amp;W |  | DH | rgn $ 6.0m | undisclosed | BWTS fitted |
-| HANDY | BARDON | 12,902 | 2006 | SAMHO, S. Korea | MAN-B&amp;W |  | DH | rgn $ 6.0m | undisclosed | BWTS fitted |
+| VLCC | MARAN CORONA | 306,093 | 2003 | DAEWOO, S. Korea | B&W | Jul-23 | DH | $ 28.5m | Greek | DD due December 2021 |
+| SUEZ | DENSA WHALE | 158,322 | 2012 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Mar-22 | DH | $ 32.15m | Greek (Thenamaris) |  |
+| MR2 | OCEAN COSMOS | 50,359 | 2008 | SLS, S. Korea | MAN-B&W | Jan-23 | DH | $ 10.7m | undisclosed | auction sale |
+| MR2 | OCEAN GLOBE | 50,344 | 2007 | SLS, S. Korea | MAN-B&W | Jan-22 | DH | $ 10.0m | undisclosed | auction sale |
+| MR1 | SEAWAYS BODIE | 37,627 | 2006 | HYUNDAI GUNSAN, S. Korea | MAN-B&W | Nov-21 | DH | $ 7.6m | undisclosed |  |
+| J19 | WAWASAN RUBY | 19,957 | 2010 | USUKI, Japan | MAN-B&W | Mar-25 | DH | undisclosed | Far Eastern | St-St |
+| HANDY | MESABI | 12,934 | 2006 | SAMHO, S. Korea | MAN-B&W |  | DH | rgn $ 6.0m | undisclosed | BWTS fitted |
+| HANDY | BARDON | 12,902 | 2006 | SAMHO, S. Korea | MAN-B&W |  | DH | rgn $ 6.0m | undisclosed | BWTS fitted |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | BUNJI | 98,704 | 2013 | TSUNEISHI ZHOUSHAN, China | MAN-B&amp;W | Aug-23 |  | $ 23.5m | German (Oldendorff) | old sale |
-| PMAX | BERLIN | 76,600 | 2009 | SHIN KASADO, Japan | MAN-B&amp;W | Jan-24 |  | $ 19.9m | U.S. based (Pangea Logistics) | BWTS fitted, incl TC until March 2022 at Usd 11,000 p/d |
-| PMAX | YUTAI AMBITIONS | 77,283 | 2008 | OSHIMA, Japan | MAN-B&amp;W | Nov-23 |  | low $ 18.0m | Greek | BWTS fitted |
-| UMAX | STAR CRIOS | 63,301 | 2012 | YANGZHOU DAYANG, China | MAN-B&amp;W | Jun-22 | 4 X 35t CRANES | rgn $ 22.5m | Greek | prompt delivery Far East |
-| UMAX | STAR DAMON | 63,227 | 2012 | YANGZHOU DAYANG, China | MAN-B&amp;W | Oct-22 | 4 X 35t CRANES | rgn $ 22.5m | Greek | BWTS fitted, incl TC at $36,500 p/d until March-May 2022 |
-| UMAX | IKAN SENYUR | 61,494 | 2010 | SHIN KASADO, Japan | MAN-B&amp;W | Sep-25 | 4 X 30,7t CRANES | rgn $ 22.0m | Vietnamese | BWTS fitted |
-| SUPRA | SHANDONG HAI TONG | 56,724 | 2012 | JINLING, China | MAN-B&amp;W | May-22 | 4 X 30t CRANES | $ 16.7m | Chinese (Zhehai Shipping) | online-commercial auction |
-| SUPRA | FU HENG SHAN | 57,034 | 2011 | Jiangsu Hantong, China | MAN-B&amp;W | Apr-26 | 4 X 36t CRANE | $ 18.76m | undisclosed | Chinese flag |
-| SUPRA | GUANG ZHOU FA ZHAN 5 | 56,970 | 2010 | Jiangsu Hantong, China | MAN-B&amp;W | Jan-25 | 4 X 35t CRANE | $ 20.0m | undisclosed | Chinese flag |
-| HANDY | ZHONG XING DA 98 | 38,448 | 2013 | ZHEJIANG HEXING, China | MAN-B&amp;W |  | 4 X 30t CRANES | around $ 14.1m | undisclosed | auction sale, Chinese flag |
+| POST PMAX | BUNJI | 98,704 | 2013 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Aug-23 |  | $ 23.5m | German (Oldendorff) | old sale |
+| PMAX | BERLIN | 76,600 | 2009 | SHIN KASADO, Japan | MAN-B&W | Jan-24 |  | $ 19.9m | U.S. based (Pangea Logistics) | BWTS fitted, incl TC until March 2022 at Usd 11,000 p/d |
+| PMAX | YUTAI AMBITIONS | 77,283 | 2008 | OSHIMA, Japan | MAN-B&W | Nov-23 |  | low $ 18.0m | Greek | BWTS fitted |
+| UMAX | STAR CRIOS | 63,301 | 2012 | YANGZHOU DAYANG, China | MAN-B&W | Jun-22 | 4 X 35t CRANES | rgn $ 22.5m | Greek | prompt delivery Far East |
+| UMAX | STAR DAMON | 63,227 | 2012 | YANGZHOU DAYANG, China | MAN-B&W | Oct-22 | 4 X 35t CRANES | rgn $ 22.5m | Greek | BWTS fitted, incl TC at $36,500 p/d until March-May 2022 |
+| UMAX | IKAN SENYUR | 61,494 | 2010 | SHIN KASADO, Japan | MAN-B&W | Sep-25 | 4 X 30,7t CRANES | rgn $ 22.0m | Vietnamese | BWTS fitted |
+| SUPRA | SHANDONG HAI TONG | 56,724 | 2012 | JINLING, China | MAN-B&W | May-22 | 4 X 30t CRANES | $ 16.7m | Chinese (Zhehai Shipping) | online-commercial auction |
+| SUPRA | FU HENG SHAN | 57,034 | 2011 | Jiangsu Hantong, China | MAN-B&W | Apr-26 | 4 X 36t CRANE | $ 18.76m | undisclosed | Chinese flag |
+| SUPRA | GUANG ZHOU FA ZHAN 5 | 56,970 | 2010 | Jiangsu Hantong, China | MAN-B&W | Jan-25 | 4 X 35t CRANE | $ 20.0m | undisclosed | Chinese flag |
+| HANDY | ZHONG XING DA 98 | 38,448 | 2013 | ZHEJIANG HEXING, China | MAN-B&W |  | 4 X 30t CRANES | around $ 14.1m | undisclosed | auction sale, Chinese flag |
 
 © Intermodal Research 16/11/2021 4
 

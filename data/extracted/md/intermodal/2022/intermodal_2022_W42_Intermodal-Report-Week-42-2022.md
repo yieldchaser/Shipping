@@ -24,7 +24,7 @@ Overall, a strong US soybean crop paired with a record Brazilian harvest will pr
 
 Overall, the dry bulk market performance was steady across all sizes, with mixed pictures emerging in the Atlantic and Pacific regions. The BDI today (25/10/2022) closed at 1,755 points, down by 120 points compared to previous Tuesday's closing (18/10/2022). Average earnings across all crude sectors witnessed another week of strong gains during the past days. The BDTI today (25/10/2022) closed at 1,793, an increase of 100 points and the BCTI at 1,213, a decrease of 28 points compared to previous Tuesday's (18/10/2022) levels.
 
-## Sale &amp; Purchase (Wet: Firmer / Dry: Firmer)
+## Sale & Purchase (Wet: Firmer / Dry: Firmer)
 
 The positive momentum on the dry bulk and tanker SnP realm continued this past week with a plethora of transaction materializing. In the tanker sector, we had the sale of the "SHIBLAH" (316,476dwt-blt '03, S. Korea), which was sold to Chinese buyers, for a price in the region of \$42.3m. On the dry bulker side sector, we had the sale of the "ORIENT ANGEL" (176,859dwt-blt '07, Japan), which was sold to Turkish buyers, for an undisclosed price.
 
@@ -128,7 +128,7 @@ VLCC T/C earnings averaged \$46,058/day, up +\$16,797/day w-o-w and closed off t
 
 Suezmax T/C earnings averaged \$ 67,901/day, up + \$10,658/day w-o-w. On the Aframax front, T/C earnings averaged \$ 61,991, up + \$13,057/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "SHIBLAH" (316,476dwt-blt '03, S. Korea), which was sold to Chinese buyers, for a price in the region of \$42.3m.
 
@@ -199,7 +199,7 @@ Panamax 5TC averaged \$ 19,246/day, down – 0.43 % w-o-w. The transatlantic ear
 
 Supramax 10TC averaged \$ 18,452/day, down - 1.57% w-o-w, while the Handysize 7TC averaged \$17,590/day, down - 4.59% w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "ORIENT ANGEL" (176,859dwt-blt '07, Japan), which was sold to Turkish buyers, for an undisclosed price.
 

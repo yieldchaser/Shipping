@@ -29,7 +29,7 @@ After accounting for demand above destination-fixed contracts for Europe and Asi
 
 Last week, bulkers owners managed to increase the market share substantially with BDI crossing the 1000 points mark after almost two months. The BDI on Friday (03/03/2023) closed at 1,211 points, up by 328 points compared to previous Friday's closing (24/02/2023). The BDTI further advanced last week, while rates for the Aframax sector outperformed the rest of the market. The BDTI on Friday (03/03/2023) closed at 1,483, an increase of 145 points and the BCTI at 789, a decrease of 166 points compared to previous Friday's (24/02/2023) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: **Firmer**)
+## Sale & Purchase (Wet: **Firmer** / Dry: **Firmer**)
 
 Activity in the SnP market was healthier across both the dry bulk and tanker sectors with the latter showing an increased interest in product carrier units. In the tanker sector, we had the sale of the "FOUR SKY" (115,708dwt-blt '10, S. Korea), which was sold to European buyers, for a price in the region of \$42.5m. On the dry bulker side sector, we had the sale of the "ELIZABETH II" (180,184dwt-blt '07, Japan), which was sold to undisclosed buyers, for a price in the region of \$17.15m.
 
@@ -126,7 +126,7 @@ VLCC T/C earnings averaged \$ 35,526/day, up +\$3,907/day w-o-w, and closed off 
 
 Suezmax T/C earnings averaged \$ 77,596/day, up + \$1,524/day w-o-w.On the Aframax front, T/C earnings averaged \$ 68,153/day, up + \$15,294/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had the sale of the "FOUR SKY" (115,708dwt-blt '10, S. Korea), which was sold to European buyers, for a price in the region of \$42.5m.
 
@@ -187,7 +187,7 @@ Supramax 10TC averaged \$ 12,523/day, up +31.10% w-o-w, while the Handysize 7TC 
 | **Ultramax** **63k** | 29.0 | 28.0 | **3.6%** | 31.5 | 26.4 | 19.4 |
 | **Handysize** **37K** | 25.0 | 24.0 | **4.2%** | 27.2 | 21.4 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "ELIZABETH II" (180,184dwt-bl't '07, Japan), which was sold to undisclosed buyers, for a price in the region of \$17.15m.
 
@@ -202,30 +202,30 @@ In the Handysize sector we had the sale of the "GALLEON" (28,294dwt-bl't '14, Ja
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | FOUR SKY | 115,708 | 2010 | SAMSUNG, S. Korea | MAN-B\&amp;W | Mar-25 | DH | $ 42.5m | European | BWTS fitted, Italian flag |
-| LR1 | CHEMTRANS OCEANIC | 73,901 | 2005 | NEW TIMES, China | MAN-B\&amp;W | Jan-25 | DH | $ 21.0m | undisclosed | BWTS fitted |
-| LR1 | RIVER SHINER | 73,788 | 2005 | STX, S. Korea | B\&amp;W | Jun-25 | DH | undisclosed | Indian (Gatik) | BWTS &amp; Scrubber fitted, Ice 1A |
-| LR1 | EMERALD SHINER | 73,741 | 2005 | STX, S. Korea | MAN-B\&amp;W | Jul-25 | DH | undisclosed | Indian (Gatik) | BWTS &amp; Scrubber fitted, Ice 1A |
-| MR2 | EVIAN | 48,676 | 2006 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Jul-26 | DH | $ 18.0m | Middle Eastern | BWTS fitted |
-| MR2 | VIVIANA | 47,221 | 1999 | ONOMICHI, Japan | B\&amp;W | Aug-25 | DH | $ 8.0m | undisclosed |  |
-| MR1 | NORDIC HUMBOLDT | 37,602 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Sep-23 | DH | $ 15.0m | undisclosed | bss dely June 2023 |
-| MR1 | BALTIC WAVE | 37,300 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | May-23 | DH | $ 12.6m | Turkish | Ice 1B |
-| MR1 | BALTIC WIND | 37,296 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Nov-23 | DH | $ 12.6m | Turkish | Ice 1B |
-| J19 | CHEM POLARIS | 19,859 | 2008 | FUKUOKA, Japan | MAN-B\&amp;W | Mar-23 | DH | high $ 19.0m | Indian (Tolani) | StSt, BWTS fitted, bss dely with SS/DD passed |
-| SMALL | DL AMBER | 12,898 | 2010 | HIGAKI, Japan | MAN-B\&amp;W | Aug-25 | DH | $ 9.70m | undisclosed | StSt, BWTS fitted |
+| SUEZ | FOUR SKY | 115,708 | 2010 | SAMSUNG, S. Korea | MAN-B&W | Mar-25 | DH | $ 42.5m | European | BWTS fitted, Italian flag |
+| LR1 | CHEMTRANS OCEANIC | 73,901 | 2005 | NEW TIMES, China | MAN-B&W | Jan-25 | DH | $ 21.0m | undisclosed | BWTS fitted |
+| LR1 | RIVER SHINER | 73,788 | 2005 | STX, S. Korea | B&W | Jun-25 | DH | undisclosed | Indian (Gatik) | BWTS & Scrubber fitted, Ice 1A |
+| LR1 | EMERALD SHINER | 73,741 | 2005 | STX, S. Korea | MAN-B&W | Jul-25 | DH | undisclosed | Indian (Gatik) | BWTS & Scrubber fitted, Ice 1A |
+| MR2 | EVIAN | 48,676 | 2006 | IWAGI ZOSEN, Japan | MAN-B&W | Jul-26 | DH | $ 18.0m | Middle Eastern | BWTS fitted |
+| MR2 | VIVIANA | 47,221 | 1999 | ONOMICHI, Japan | B&W | Aug-25 | DH | $ 8.0m | undisclosed |  |
+| MR1 | NORDIC HUMBOLDT | 37,602 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B&W | Sep-23 | DH | $ 15.0m | undisclosed | bss dely June 2023 |
+| MR1 | BALTIC WAVE | 37,300 | 2003 | HYUNDAI MIPO, S. Korea | B&W | May-23 | DH | $ 12.6m | Turkish | Ice 1B |
+| MR1 | BALTIC WIND | 37,296 | 2003 | HYUNDAI MIPO, S. Korea | B&W | Nov-23 | DH | $ 12.6m | Turkish | Ice 1B |
+| J19 | CHEM POLARIS | 19,859 | 2008 | FUKUOKA, Japan | MAN-B&W | Mar-23 | DH | high $ 19.0m | Indian (Tolani) | StSt, BWTS fitted, bss dely with SS/DD passed |
+| SMALL | DL AMBER | 12,898 | 2010 | HIGAKI, Japan | MAN-B&W | Aug-25 | DH | $ 9.70m | undisclosed | StSt, BWTS fitted |
 ## Bulk Carriers
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | ELIZABETH II | 180,184 | 2007 | IMABARI, Japan | MAN-B&amp;W | Jan-25 |  | $ 17.15m | undisclosed | bss DD/BWTS due |
-| KMAX | XIN HONG | 82,259 | 2013 | DALIAN, China | MAN-B&amp;W | Oct-27 |  | rgn/low $ 19.0m | Greek | BWTS fitted |
-| PMAX | FORTUNE GENIUS | 74,362 | 2002 | DAEWOO, S. Korea | MAN-B&amp;W | Jan-27 |  | mid/high $ 7.0m | undisclosed | BWTS fitted |
-| SUPRA | IGNAZIO | 58,126 | 2010 | TSUNEISHI, Japan | MAN-B&amp;W | Apr-25 | 4 X 30t CRANES | rgn $ 15.5m | Turkish | BWTS fitted, bss waiving inspection |
+| CAPE | ELIZABETH II | 180,184 | 2007 | IMABARI, Japan | MAN-B&W | Jan-25 |  | $ 17.15m | undisclosed | bss DD/BWTS due |
+| KMAX | XIN HONG | 82,259 | 2013 | DALIAN, China | MAN-B&W | Oct-27 |  | rgn/low $ 19.0m | Greek | BWTS fitted |
+| PMAX | FORTUNE GENIUS | 74,362 | 2002 | DAEWOO, S. Korea | MAN-B&W | Jan-27 |  | mid/high $ 7.0m | undisclosed | BWTS fitted |
+| SUPRA | IGNAZIO | 58,126 | 2010 | TSUNEISHI, Japan | MAN-B&W | Apr-25 | 4 X 30t CRANES | rgn $ 15.5m | Turkish | BWTS fitted, bss waiving inspection |
 | SUPRA | WORLDERA-1 | 51,024 | 2001 | OSHIMA, Japan | Sulzer | Dec-24 | 4 X 30t CRANES | $ 8.0m | undisclosed | BWTS fitted |
-| HANDY | CIELO DI ANGRA | 39,202 | 2015 | YANGFAN, China | MAN-B&amp;W | Oct-25 | 4 X 30t CRANES | $ 20.0m | German (MACS Maritime Carrier) | BWTS fitted |
-| HANDY | GALLEON | 28,294 | 2014 | IMABARI, Japan | MAN-B&amp;W | Jun-24 | 4 X 30,5t CRANES | $ 14.0m | Greek based | BWTS fitted |
-| HANDY | OCTBREEZE ISLAND | 38,278 | 2011 | SHIMANAMI, Japan | MAN-B&amp;W | Oct-26 | 4 X 30,5t CRANES | low $ 15.0m | undisclosed |  |
-| HANDY | BOSPHORUS KING | 27,321 | 1995 | MITSUBISHI, Japan | B&amp;W | Aug-23 | 4 X 30,5t CRANES | undisclosed | undisclosed | BWTS fitted |
+| HANDY | CIELO DI ANGRA | 39,202 | 2015 | YANGFAN, China | MAN-B&W | Oct-25 | 4 X 30t CRANES | $ 20.0m | German (MACS Maritime Carrier) | BWTS fitted |
+| HANDY | GALLEON | 28,294 | 2014 | IMABARI, Japan | MAN-B&W | Jun-24 | 4 X 30,5t CRANES | $ 14.0m | Greek based | BWTS fitted |
+| HANDY | OCTBREEZE ISLAND | 38,278 | 2011 | SHIMANAMI, Japan | MAN-B&W | Oct-26 | 4 X 30,5t CRANES | low $ 15.0m | undisclosed |  |
+| HANDY | BOSPHORUS KING | 27,321 | 1995 | MITSUBISHI, Japan | B&W | Aug-23 | 4 X 30,5t CRANES | undisclosed | undisclosed | BWTS fitted |
 
 © Intermodal Research 07/03/2023 4
 
@@ -236,7 +236,7 @@ In the Handysize sector we had the sale of the "GALLEON" (28,294dwt-bl't '14, Ja
 
 | Sector | Size | Containers | Name | Teu | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | SVENDBORG MAERSK | 9,578 | 1998 | Odense Staalskibs - Lindo | B&amp;W | Sep-27 |  | undisclosed | undisclosed |  |
+| POST PMAX | SVENDBORG MAERSK | 9,578 | 1998 | Odense Staalskibs - Lindo | B&W | Sep-27 |  | undisclosed | undisclosed |  |
 | FEEDER | GSL AMSTEL | 1,118 | 2008 | Jinling Shipyard | MAN | Oct-23 | 2 X 45t CRANES | undisclosed | Greek (Contships) | Ice Classed |
 ## Secondhand Sales
 

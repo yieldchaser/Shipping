@@ -30,7 +30,7 @@ Ukraine was expected to export around 6.7M tonnes of sunflower oil in 2021/22 se
 
 The dry bulk market closed off on the red last week, with all sectors witnessing w-o-w on rates, yet to an extent that still allows owners to enjoy significant earnings. The BDI today (05/04/2022) closed at 2,213 points, down by 204 points compared to previous Tuesday's closing (29/03/2022). A combination of a shorter tonnage list and a healthy injection of fresh cargoes in the Atlantic boosted sentiment in the crude carrier market, helping owners to close off the week with gains across all regions. The BDTI today (05/04/2022) closed at 1,163, an increase of 306 points, and the BCTI at 933, a decrease of 42 points compared to previous Tuesday's (29/03/2022) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: **Firmer**)
+## Sale & Purchase (Wet: **Firmer** / Dry: **Firmer**)
 
 Impressive SnP activity was witnessed last week, with interest in both the dry bulk and tanker sector clearly reflecting a very strong buying appetite across all sizes. In the tanker sector, we had sale of the "EASTERN JUNI-PER" (305,749dwt-blt '07, S. Korea), which was sold to Middle Eastern buyers, for a price in the region of $36.5m. On the dry bulker side sector, we had the sale of the "CMB PAUILLAC" (95,707dwt-blt '12, Japan), which was sold to Greek buyers, for a price in the region of $25.0m.
 
@@ -125,7 +125,7 @@ VLCC T/C earnings averaged $-21,539/day, up + $4,607/day w-o-w. The tonnage list
 
 Suezmax T/C earnings averaged $37,413/day, up +286/day w-o-w. West Africa's performance set the positive tone, with TD20 route increasing by 52.95WS points w-o-w. Charterers are facing a lack of candidates in the Atlantic, with owners managing to quickly capitalize on this imbalance. Aframax T/C earnings averaged $45,591/day, up +17,410/day w-o-w. The Baltic region continues to offer excessive premiums for owners able to load from Russian ports, with TD17 ending up the week at the 500WS mark. The Med activity was also firm, as both SPM-1 and SMP-2 were fully restored, after CPC terminal operation's pause due to weather-related disruptions.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had sale of the "EASTERN JUNIPER" (305,749dwt-blt '07, S. Korea), which was sold to Middle Eastern buyers, for a price in the region of $36.5m.
 
@@ -198,7 +198,7 @@ Supramax 10TC averaged $ 31,622/day, down – 4.18% w-o-w, while the Handysize 7
 | Ultramax | 63k | 33.0 | 32.6 | 1.1% | 26.4 | 19.4 | 22.6 |
 | Handysize | 37K | 28.5 | 28.0 | 1.8% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Post Panamax sector we had the sale of the “CMB PAUILLAC” (95,707dwt-blt '12, Japan), which was sold to Greek buyers, for a price in the region of $25.0m.
 
@@ -214,25 +214,25 @@ In the Supramax sector we had the sale of the “AMOY ACTION” (56,874dwt-blt '
 
 | Sector | Size | Tankers | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | EASTERN JUNIPER | 305,749 | 2007 | DAEWOO, S. Korea | MAN-B&amp;W | Jun-22 | DH | $ 36.5m | Middle Eastern |  |
+| VLCC | EASTERN JUNIPER | 305,749 | 2007 | DAEWOO, S. Korea | MAN-B&W | Jun-22 | DH | $ 36.5m | Middle Eastern |  |
 | VLCC | TOKIO | 306,206 | 2005 | MITSUI CHIBA, Japan | Mitsubishi | Feb-25 | DH | $ 31.5m | Chinese |  |
-| VLCC | FRONT FORCE | 305,442 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Jul-24 | DH | rgn $ 70.0m | undisclosed | delievery early Q2-2022 |
-| VLCC | FRONT ENERGY | 305,318 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Sep-24 | DH |  |  |  |
-| SUEZ | BARI | 159,186 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Apr-25 | DH | $ 21.5m | Greek | BWTS fitted |
-| SUEZ | DA YUAN HU | 159,149 | 2004 | BOHAI, China | MAN-B&amp;W | May-24 | DH | $ 16.5m | undisclosed | bss dely China Apr/May '22 |
-| AFRA | ADVANTAGE ANTHEM | 116,087 | 2011 | SAMSUNG, S. Korea | MAN-B&amp;W | Oct-26 | DH | $ 57.0m | Cyprus based (Synergy Marine) | incl TC attached to Shell at $15,500 p/d until ear 1H-2023 |
-| AFRA | ADVANTAGE AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B&amp;W | Jun-25 | DH |  |  |  |
-| AFRA | BERICA | 115,146 | 2008 | SASEBO, Japan | MAN-B&amp;W | Oct-23 | DH | rgn $ 23.0m | undisclosed |  |
-| MR2 | PRIME EXPRESS | 45,996 | 2010 | SHIN KURUSHIMA, Japan | MAN-B&amp;W | Nov-25 | DH | $ 15.5m | Greek |  |
-| MR1 | VS RIESA | 34,558 | 2003 | DALIAN, China | B&amp;W | Jun-23 | DH | $ 5.85m | undisclosed |  |
-| HANDY | HAFNIA SPICA | 25,268 | 2017 | FUKUOKA, Japan | MAN-B&amp;W | May-22 | DH |  |  |  |
-| HANDY | HAFNIA SOL | 25,253 | 2017 | FUKUOKA, Japan | MAN-B&amp;W | Aug-22 | DH |  |  |  |
-| HANDY | HAFNIA SCEPTRUM | 25,198 | 2017 | KITANIHON, Japan | MAN-B&amp;W | May-22 | DH |  |  |  |
-| HANDY | HAFNIA SIRIUS | 25,196 | 2016 | KITANIHON, Japan | MAN-B&amp;W | Jun-26 | DH | $ 242.4m | Dutch (Ace Tankers) |  |
-| HANDY | HAFNIA SPARK | 25,196 | 2016 | KITANIHON, Japan | MAN-B&amp;W | Oct-26 | DH |  |  |  |
-| HANDY | HAFNIA STELLAR | 25,196 | 2016 | KITANIHON, Japan | MAN-B&amp;W | Oct-26 | DH |  |  |  |
-| HANDY | HAFNIA SAIPH | 25,194 | 2017 | KITANIHON, Japan | MAN-B&amp;W | Jan-27 | DH |  |  |  |
-| HANDY | HAFNIA SKY | 25,193 | 2016 | KITANIHON, Japan | MAN-B&amp;W | Aug-26 | DH |  |  |  |
+| VLCC | FRONT FORCE | 305,442 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jul-24 | DH | rgn $ 70.0m | undisclosed | delievery early Q2-2022 |
+| VLCC | FRONT ENERGY | 305,318 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Sep-24 | DH |  |  |  |
+| SUEZ | BARI | 159,186 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Apr-25 | DH | $ 21.5m | Greek | BWTS fitted |
+| SUEZ | DA YUAN HU | 159,149 | 2004 | BOHAI, China | MAN-B&W | May-24 | DH | $ 16.5m | undisclosed | bss dely China Apr/May '22 |
+| AFRA | ADVANTAGE ANTHEM | 116,087 | 2011 | SAMSUNG, S. Korea | MAN-B&W | Oct-26 | DH | $ 57.0m | Cyprus based (Synergy Marine) | incl TC attached to Shell at $15,500 p/d until ear 1H-2023 |
+| AFRA | ADVANTAGE AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B&W | Jun-25 | DH |  |  |  |
+| AFRA | BERICA | 115,146 | 2008 | SASEBO, Japan | MAN-B&W | Oct-23 | DH | rgn $ 23.0m | undisclosed |  |
+| MR2 | PRIME EXPRESS | 45,996 | 2010 | SHIN KURUSHIMA, Japan | MAN-B&W | Nov-25 | DH | $ 15.5m | Greek |  |
+| MR1 | VS RIESA | 34,558 | 2003 | DALIAN, China | B&W | Jun-23 | DH | $ 5.85m | undisclosed |  |
+| HANDY | HAFNIA SPICA | 25,268 | 2017 | FUKUOKA, Japan | MAN-B&W | May-22 | DH |  |  |  |
+| HANDY | HAFNIA SOL | 25,253 | 2017 | FUKUOKA, Japan | MAN-B&W | Aug-22 | DH |  |  |  |
+| HANDY | HAFNIA SCEPTRUM | 25,198 | 2017 | KITANIHON, Japan | MAN-B&W | May-22 | DH |  |  |  |
+| HANDY | HAFNIA SIRIUS | 25,196 | 2016 | KITANIHON, Japan | MAN-B&W | Jun-26 | DH | $ 242.4m | Dutch (Ace Tankers) |  |
+| HANDY | HAFNIA SPARK | 25,196 | 2016 | KITANIHON, Japan | MAN-B&W | Oct-26 | DH |  |  |  |
+| HANDY | HAFNIA STELLAR | 25,196 | 2016 | KITANIHON, Japan | MAN-B&W | Oct-26 | DH |  |  |  |
+| HANDY | HAFNIA SAIPH | 25,194 | 2017 | KITANIHON, Japan | MAN-B&W | Jan-27 | DH |  |  |  |
+| HANDY | HAFNIA SKY | 25,193 | 2016 | KITANIHON, Japan | MAN-B&W | Aug-26 | DH |  |  |  |
 
 © Intermodal Research 05/04/2022 4
 
@@ -245,30 +245,30 @@ In the Supramax sector we had the sale of the “AMOY ACTION” (56,874dwt-blt '
 | Tankers |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
-| J19 | SARANGA | 20,938 | 2006 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Jul-26 | DH | $ 12.5m | undisclosed | StSt, BWTS fitted |
-| J19 | SONGA DREAM | 19,807 | 2010 | FUKUOKA, Japan | MAN-B\&amp;W | Feb-25 | DH | $ 17.0m | S. Korean | StSt, BWTS fitted |
+| J19 | SARANGA | 20,938 | 2006 | SHIN KURUSHIMA, Japan | MAN-B&W | Jul-26 | DH | $ 12.5m | undisclosed | StSt, BWTS fitted |
+| J19 | SONGA DREAM | 19,807 | 2010 | FUKUOKA, Japan | MAN-B&W | Feb-25 | DH | $ 17.0m | S. Korean | StSt, BWTS fitted |
 | SMALL | OCEAN MARLIN | 13,523 | 2018 | SAMJIN, China | Wartsila | Jun-23 | DH | $ 10.0m | Singapore based | judicial sale, old deal |
-| SMALL | HOKO | 8,911 | 2010 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | May-25 | DH | $ 8.0m | undisclosed | StSt |
+| SMALL | HOKO | 8,911 | 2010 | SHIN KURUSHIMA, Japan | MAN-B&W | May-25 | DH | $ 8.0m | undisclosed | StSt |
 
 ## Bulk Carriers
 
 | Bulk Carriers |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
-| MINI CAPE | MARAN PROGRESS | 114,047 | 2014 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Jan-24 |  | rgn 200.0m | undisclosed |  |
-| MINI CAPE | MARAN WISDOM | 114,046 | 2014 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | May-24 |  | rgn 200.0m | undisclosed |  |
-| MINI CAPE | MARAN ZENITH | 114,038 | 2013 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Apr-23 |  | rgn 200.0m | undisclosed |  |
-| MINI CAPE | MARAN ASPIRATION | 114,013 | 2012 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Oct-24 |  | rgn 200.0m | undisclosed |  |
-| MINI CAPE | MARAN DAWN | 114,091 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Oct-25 |  | rgn 200.0m | undisclosed |  |
-| MINI CAPE | MARAN OCEAN | 114,007 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Aug-24 |  | rgn 200.0m | undisclosed |  |
-| MINI CAPE | MARAN SKY | 114,078 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Jul-25 |  | rgn 200.0m | undisclosed |  |
-| MINI CAPE | MARAN SUN | 114,078 | 2011 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Aug-25 |  | rgn 200.0m | undisclosed |  |
-| POST PMAX | CMB PAUILLAC | 95,707 | 2012 | IMABARI, Japan | MAN-B\&amp;W | Aug-22 |  | $ 25.0m | Greek |  |
-| KMAX | YANGTZE XING HUA | 81,678 | 2012 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | May-22 |  | $ 22.0m | Chinese |  |
-| KMAX | DARYA KIRTHI | 80,545 | 2012 | STX, S. Korea | MAN-B\&amp;W | Feb-27 |  | $ 26.5m | undisclosed |  |
-| KMAX | ROSCO LITCHI | 82,153 | 2011 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jan-26 |  | excess $ 25.0m | Greek |  |
-| PMAX | RIO TAMARA | 75,610 | 2014 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Apr-24 |  | $ 22.5m | undisclosed |  |
-| PMAX | RIO GRITA | 75,378 | 2014 | TAIZHOU KOUAN, China | MAN-B\&amp;W | Feb-24 |  | $ 22.5m | undisclosed |  |
+| MINI CAPE | MARAN PROGRESS | 114,047 | 2014 | SHANGHAI SHIPYARD, China | MAN-B&W | Jan-24 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN WISDOM | 114,046 | 2014 | SHANGHAI SHIPYARD, China | MAN-B&W | May-24 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN ZENITH | 114,038 | 2013 | SHANGHAI SHIPYARD, China | MAN-B&W | Apr-23 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN ASPIRATION | 114,013 | 2012 | SHANGHAI SHIPYARD, China | MAN-B&W | Oct-24 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN DAWN | 114,091 | 2011 | SHANGHAI SHIPYARD, China | MAN-B&W | Oct-25 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN OCEAN | 114,007 | 2011 | SHANGHAI SHIPYARD, China | MAN-B&W | Aug-24 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN SKY | 114,078 | 2011 | SHANGHAI SHIPYARD, China | MAN-B&W | Jul-25 |  | rgn 200.0m | undisclosed |  |
+| MINI CAPE | MARAN SUN | 114,078 | 2011 | SHANGHAI SHIPYARD, China | MAN-B&W | Aug-25 |  | rgn 200.0m | undisclosed |  |
+| POST PMAX | CMB PAUILLAC | 95,707 | 2012 | IMABARI, Japan | MAN-B&W | Aug-22 |  | $ 25.0m | Greek |  |
+| KMAX | YANGTZE XING HUA | 81,678 | 2012 | GUANGZHOU LONGXUE, China | MAN-B&W | May-22 |  | $ 22.0m | Chinese |  |
+| KMAX | DARYA KIRTHI | 80,545 | 2012 | STX, S. Korea | MAN-B&W | Feb-27 |  | $ 26.5m | undisclosed |  |
+| KMAX | ROSCO LITCHI | 82,153 | 2011 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jan-26 |  | excess $ 25.0m | Greek |  |
+| PMAX | RIO TAMARA | 75,610 | 2014 | TAIZHOU KOUAN, China | MAN-B&W | Apr-24 |  | $ 22.5m | undisclosed |  |
+| PMAX | RIO GRITA | 75,378 | 2014 | TAIZHOU KOUAN, China | MAN-B&W | Feb-24 |  | $ 22.5m | undisclosed |  |
 
 © Intermodal Research 05/04/2022 5
 
@@ -281,22 +281,22 @@ In the Supramax sector we had the sale of the “AMOY ACTION” (56,874dwt-blt '
 | Bulk Carriers |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
-| UMAX | S HERMES | 61,272 | 2016 | I-S SHIPYARD, Japan | MAN-B&amp;W | Feb-26 | 4 X 30,7t CRANES | $ 32.0m | Greek |  |
-| UMAX | S ECHO | 61,258 | 2015 | IMABARI, Japan | MAN-B&amp;W | Jul-25 | 4 X 30,7t CRANES | $ 31.0m | Greek |  |
-| UMAX | S TANGO | 61,192 | 2015 | IMABARI, Japan | MAN-B&amp;W | Sep-25 | 4 X 30,7t CRANES | $ 31.0m | Greek |  |
-| SUPRA | ORIENT LUCKY | 57,124 | 2010 | BOHAI, China | MAN-B&amp;W | Jul-25 | 4 X 30t CRANES | $ 17.9m | Greek |  |
-| SUPRA | AMOY ACTION | 56,874 | 2010 | XIAMEN, China | MAN-B&amp;W | Nov-25 | 4 X 30t CRANES | excess $ 18.0m | Greek |  |
-| SUPRA | VEGA ROSE | 55,711 | 2007 | KAWASAKI, Japan | MAN-B&amp;W | Oct-24 | 4 X 30,5t CRANES | $ 18.2m | Chinese | BWTS fitted |
-| SUPRA | ENY | 53,525 | 2006 | IWAGI ZOSEN, Japan | MAN-B&amp;W | Jun-26 | 4 X 30,5t CRANES | $ 17.2m | Middle Eastern | delivery mid-July/August 2022 |
-| HANDY | STRATEGIC ENCOUNTER | 33,000 | 2010 | ZHEJIANG ZHENGHE, China | MAN-B&amp;W | Aug-25 | 4 X 30t CRANES | low $ 14.0m | undisclosed |  |
-| HANDY | NONG LYLA | 33,773 | 2004 | OSHIMA, Japan | B&amp;W | May-24 | 4 X 30t CRANES | $ 11.6m | undisclosed | leasing buyer |
+| UMAX | S HERMES | 61,272 | 2016 | I-S SHIPYARD, Japan | MAN-B&W | Feb-26 | 4 X 30,7t CRANES | $ 32.0m | Greek |  |
+| UMAX | S ECHO | 61,258 | 2015 | IMABARI, Japan | MAN-B&W | Jul-25 | 4 X 30,7t CRANES | $ 31.0m | Greek |  |
+| UMAX | S TANGO | 61,192 | 2015 | IMABARI, Japan | MAN-B&W | Sep-25 | 4 X 30,7t CRANES | $ 31.0m | Greek |  |
+| SUPRA | ORIENT LUCKY | 57,124 | 2010 | BOHAI, China | MAN-B&W | Jul-25 | 4 X 30t CRANES | $ 17.9m | Greek |  |
+| SUPRA | AMOY ACTION | 56,874 | 2010 | XIAMEN, China | MAN-B&W | Nov-25 | 4 X 30t CRANES | excess $ 18.0m | Greek |  |
+| SUPRA | VEGA ROSE | 55,711 | 2007 | KAWASAKI, Japan | MAN-B&W | Oct-24 | 4 X 30,5t CRANES | $ 18.2m | Chinese | BWTS fitted |
+| SUPRA | ENY | 53,525 | 2006 | IWAGI ZOSEN, Japan | MAN-B&W | Jun-26 | 4 X 30,5t CRANES | $ 17.2m | Middle Eastern | delivery mid-July/August 2022 |
+| HANDY | STRATEGIC ENCOUNTER | 33,000 | 2010 | ZHEJIANG ZHENGHE, China | MAN-B&W | Aug-25 | 4 X 30t CRANES | low $ 14.0m | undisclosed |  |
+| HANDY | NONG LYLA | 33,773 | 2004 | OSHIMA, Japan | B&W | May-24 | 4 X 30t CRANES | $ 11.6m | undisclosed | leasing buyer |
 | HANDY | STELLAR TOLEDO | 16,765 | 2003 | SHIN KOCHI, Japan | Mitsubishi | Jul-23 | 2 X 30t CRANES | $ 6.5m | Turkish |  |
 
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | JAN | 1,708 | 2010 | IMABARI, Japan | MAN-B\&amp;W | Mar-25 | 3 X 40t CRANES | mid-high 30's | undisclosed |
+| FEEDER | JAN | 1,708 | 2010 | IMABARI, Japan | MAN-B&W | Mar-25 | 3 X 40t CRANES | mid-high 30's | undisclosed |
 | FEEDER | VEGA SACHSEN | 1,118 | 2008 | TAIZHOU KOUAN, China | MAN | Jul-23 | 2 X 45t CRANES | undisclosed | undisclosed |
 
 © Intermodal Research 05/04/2022 6

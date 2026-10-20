@@ -42,7 +42,7 @@ If all-time high prices in soft oils are sustained, consumer and industrial cons
 
 The Capesize market correction was not a surprise last week with BCI losing 477 points w-o-w. On the other hand, Panamax rates continued their upward rally (average earnings increased by %17.2 w-o-w) with geared sizes following suit albeit at a slower pace. The BDI today (06/07/2021) closed at 3,179 down by 239 points compared to previous Tuesday's (29/06/2021) levels. The previous week's hopes for a positive turnaround were short-lived. The crude carrier market displayed soft activity last week, with discounts on rates materializing across all business routes. The BDTI today (06/07/2021) closed at 591, a decrease of 14 points, and the BCTI at 447, a decrease of 2 points compared to previous Tuesday's (29/06/2021) levels.
 
-## Sale &amp; Purchase (Wet: Firmer / Dry: Stable+)
+## Sale & Purchase (Wet: Firmer / Dry: Stable+)
 
 Dry bulk and Container units continued to monopolize owners' interest last week. On the dry bulk sector, geared sizes have attracted most of the interest while there was an increase of crude carriers deals albeit in low numbers for another week. In the tanker sector, we had the sale of the "PHOENIX M" (307,151dwt-blt '99, S. Korea), which was sold to Thai owner, Nathalin Shipping, for an undisclosed price. On the dry bulker side sector, we had the sale of the "DOUBLE PROVIDENCE" (95,720dwt-blt '12, Japan), which was sold to Greek buyers, for a price in the region of \$21.3m.
 
@@ -137,9 +137,9 @@ Rates for VLCCs witnessed an overall quiet week, with West Africa and the Middle
 
 The Suezmax sector gave up all of its previous week's gains with West Africa market setting the negative tone and with TD6 Med business route losing 2WS points w-o-w amid the absence of Afra cargoes and a plethora of open units in the region. The Aframax market underperformed the rest of the sizes. Discounts on rates across both the North European and Med markets formed at around WS15 points w-o-w with Cross Med business suffering the most (TD19 down by WS16.75 points w-o-w). Overall, Aframax average T/C earnings lost \$4,622 w-o-w, closing the week at the \$132 per day mark.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the VLCC size sector we had the sale of the "PHOENIX M" (307,151dwt-blt '99, S. Korea), which was sold to Thai owner, Nathalin Shipping, for an undisclosed price.
 
@@ -206,7 +206,7 @@ Supramax 10TC averaged \$32,170/day up +2.6% w-o-w with both S. Atlantic and USG
 | **Ultramax** | **63k** | 26.0 | 25.6 | 1.5% | 19.4 | 23.1 | - |
 | **Handysize** | **37K** | 20.5 | 20.5 | 0.0% | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Post Panamax sector we had the sale of the "DOUBLE PROVIDENCE" (95,720dwt-blt '12, Japan), which was sold to Greek buyers, for a price in the region of \$21.3m.
 
@@ -221,28 +221,28 @@ In the Handysize sector we had the sale of the "MING YUAN" (33,002dwt-blt '10, C
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | DOUBLE PROVIDENCE | 95,720 | 2012 | IMABARI, Japan | MAN-B\&amp;W | Jan-22 |  | $ 21.3m | Greek | BWTS on order |
-| PMAX | QC MATILDE | 76,015 | 2002 | TSUNEISHI, Japan | B\&amp;W | Apr-25 |  | high $ 10.0m | undisclosed |  |
-| UMAX | NAVIGARE BELLUS | 63,310 | 2017 | CHENGXI, China | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES | $ 71.5m | USA based | BWTS, CO2, A60 &amp; AHL fitted |
-| UMAX | NAVIGARE BEATUS | 63,310 | 2017 | CHENGXI, China | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES | $ 71.5m | USA based | BWTS, CO2, A60 &amp; AHL fitted |
-| UMAX | NAVIGARE BONITAS | 63,166 | 2014 | ZHEJIANG, China | MAN-B\&amp;W | Oct-24 | 4 X 36t CRANES | $ 71.5m | USA based | BWTS, CO2, A60 &amp; AHL fitted |
-| UMAX | KMARIN ULSAN | 63,151 | 2014 | JIANGSU NEW HANTONG, China | MAN-B\&amp;W | Jun-24 | 4x36.0, 4x30.0 | $ 21.0m | Chinese | BWTS fitted, delivery Janaury 2022 |
-| SMAX | CENTENARIO FORZA | 56,129 | 2012 | MITSUI, Japan | MAN-B\&amp;W | Apr-22 | 4 X 30t CRANES | $ 18.5m | undisclosed |  |
-| SMAX | BULK PATAGONIA | 58,723 | 2012 | KAWASAKI, Japan | MAN-B\&amp;W | Feb-23 | 4 X 30,5t CRANES | $ 60.0m | Greek |  |
-| SMAX | BULK ECUADOR | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | Sep-21 | 4 X 30t CRANES | $ 60.0m | Greek |  |
-| SMAX | BULK CURACAO | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B\&amp;W | May-26 | 4 X 30t CRANES | $ 60.0m | Greek | BWTS fitted |
-| SMAX | VIET THUAN 56-01 | 57,334 | 2009 | STX, S. Korea | MAN-B\&amp;W | Sep-24 | 4 X 30t CRANES | rgn low $ 14.0m | undisclosed | BWTS fitted, Tier I compliant |
-| HANDY | CIELO DI CAPALBIO | 36,699 | 2012 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Mar-22 | 4 X 36t CRANES | high 15.0m | undisclosed | Tier II, Eco M/E |
-| HANDY | MING YUAN | 33,002 | 2010 | TAIZHOU HAIBIN, China | MAN-B\&amp;W | Jul-25 | 4 X 30.5t CRANES | $ 11.0m | Greek | delivery prompt |
+| POST PMAX | DOUBLE PROVIDENCE | 95,720 | 2012 | IMABARI, Japan | MAN-B&W | Jan-22 |  | $ 21.3m | Greek | BWTS on order |
+| PMAX | QC MATILDE | 76,015 | 2002 | TSUNEISHI, Japan | B&W | Apr-25 |  | high $ 10.0m | undisclosed |  |
+| UMAX | NAVIGARE BELLUS | 63,310 | 2017 | CHENGXI, China | MAN-B&W | Jan-22 | 4 X 30t CRANES | $ 71.5m | USA based | BWTS, CO2, A60 & AHL fitted |
+| UMAX | NAVIGARE BEATUS | 63,310 | 2017 | CHENGXI, China | MAN-B&W | Jan-22 | 4 X 30t CRANES | $ 71.5m | USA based | BWTS, CO2, A60 & AHL fitted |
+| UMAX | NAVIGARE BONITAS | 63,166 | 2014 | ZHEJIANG, China | MAN-B&W | Oct-24 | 4 X 36t CRANES | $ 71.5m | USA based | BWTS, CO2, A60 & AHL fitted |
+| UMAX | KMARIN ULSAN | 63,151 | 2014 | JIANGSU NEW HANTONG, China | MAN-B&W | Jun-24 | 4x36.0, 4x30.0 | $ 21.0m | Chinese | BWTS fitted, delivery Janaury 2022 |
+| SMAX | CENTENARIO FORZA | 56,129 | 2012 | MITSUI, Japan | MAN-B&W | Apr-22 | 4 X 30t CRANES | $ 18.5m | undisclosed |  |
+| SMAX | BULK PATAGONIA | 58,723 | 2012 | KAWASAKI, Japan | MAN-B&W | Feb-23 | 4 X 30,5t CRANES | $ 60.0m | Greek |  |
+| SMAX | BULK ECUADOR | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B&W | Sep-21 | 4 X 30t CRANES | $ 60.0m | Greek |  |
+| SMAX | BULK CURACAO | 57,937 | 2011 | TSUNEISHI CEBU, Philippines | MAN-B&W | May-26 | 4 X 30t CRANES | $ 60.0m | Greek | BWTS fitted |
+| SMAX | VIET THUAN 56-01 | 57,334 | 2009 | STX, S. Korea | MAN-B&W | Sep-24 | 4 X 30t CRANES | rgn low $ 14.0m | undisclosed | BWTS fitted, Tier I compliant |
+| HANDY | CIELO DI CAPALBIO | 36,699 | 2012 | HYUNDAI MIPO, S. Korea | MAN-B&W | Mar-22 | 4 X 36t CRANES | high 15.0m | undisclosed | Tier II, Eco M/E |
+| HANDY | MING YUAN | 33,002 | 2010 | TAIZHOU HAIBIN, China | MAN-B&W | Jul-25 | 4 X 30.5t CRANES | $ 11.0m | Greek | delivery prompt |
 
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | NISSOS SANTORINI | 318,744 | 2019 | HYUNDAI ULSAN, S. Korea | Wartsila | Jul-24 | DH | $ 90.0m | Norwegian (Frontline) | scrubber fitted, delivery November 2021 |
 | VLCC | NISSOS ANTIPAROS | 318,744 | 2019 | HYUNDAI ULSAN, S. Korea | Wartsila | Jul-24 | DH | $ 90.0m | Norwegian (Frontline) | scrubber fitted, delivery November 2021 |
-| VLCC | PHOENIX M | 307,151 | 1999 | DAEWOO, S. Korea | MAN-B\&amp;W | Jul-22 | DH | undisclosed | Thai (Nathalin Shipping) |  |
-| AFRA | OCEAN PEGASUS | 108,926 | 2009 | SWS, China | MAN-B\&amp;W | Mar-24 | DH | undisclosed | undisclosed | auction sale |
-| MR | NEW BREEZE | 48,064 | 2010 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Jun-25 | DH | $ 15.5m | Greek | BWTS fitted |
+| VLCC | PHOENIX M | 307,151 | 1999 | DAEWOO, S. Korea | MAN-B&W | Jul-22 | DH | undisclosed | Thai (Nathalin Shipping) |  |
+| AFRA | OCEAN PEGASUS | 108,926 | 2009 | SWS, China | MAN-B&W | Mar-24 | DH | undisclosed | undisclosed | auction sale |
+| MR | NEW BREEZE | 48,064 | 2010 | IWAGI ZOSEN, Japan | MAN-B&W | Jun-25 | DH | $ 15.5m | Greek | BWTS fitted |
 
 © Intermodal Research 06/07/2021 4
 
@@ -253,18 +253,18 @@ In the Handysize sector we had the sale of the "MING YUAN" (33,002dwt-blt '10, C
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | MEXICO | 4,839 | 2002 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Feb-22 |  | $ 50.5m | Swiss (MSC) | delivery April 2022 basis SS/DD passed &amp; BWTS fitted |
-| PMAX | RHL CONSCIENTIA | 4,660 | 2012 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | May-22 |  | undisclosed | German (Hapag Lloyd) |  |
-| PMAX | RHL CONCORDIA | 4,620 | 2012 | SHANGHAI SHIPYARD, China | MAN-B\&amp;W | Aug-22 |  | undisclosed | German (Hapag Lloyd) |  |
-| PMAX | ZARNATA EXPRESS | 4,250 | 2007 | DALIAN, China | MAN-B\&amp;W | Mar-22 |  | undisclosed | U.K. based (Mount Street) |  |
-| PMAX | BALTHASAR SCHULTE | 4,249 | 2012 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | Feb-22 |  | undisclosed | Danish (A.P. Moller) |  |
-| FEEDER | HARMONY N | 2,824 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Aug-21 |  | $ 29.1m | undisclosed | BWTS fitted |
-| FEEDER | NASIA | 2,824 | 2005 | HYUNDAI MIPO, S. Korea | B\&amp;W | Jan-25 |  | $ 36.0m | Swiss (MSC) | BWTS fitted |
-| FEEDER | SEOUL TRADER | 2,664 | 2009 | STX, S. Korea | MAN-B\&amp;W | Sep-24 | 4 X 45t CRANES | low-mid $ 19.0m | Swiss (MSC) | BWTS fitted |
+| PMAX | MEXICO | 4,839 | 2002 | HYUNDAI ULSAN, S. Korea | B&W | Feb-22 |  | $ 50.5m | Swiss (MSC) | delivery April 2022 basis SS/DD passed & BWTS fitted |
+| PMAX | RHL CONSCIENTIA | 4,660 | 2012 | SHANGHAI SHIPYARD, China | MAN-B&W | May-22 |  | undisclosed | German (Hapag Lloyd) |  |
+| PMAX | RHL CONCORDIA | 4,620 | 2012 | SHANGHAI SHIPYARD, China | MAN-B&W | Aug-22 |  | undisclosed | German (Hapag Lloyd) |  |
+| PMAX | ZARNATA EXPRESS | 4,250 | 2007 | DALIAN, China | MAN-B&W | Mar-22 |  | undisclosed | U.K. based (Mount Street) |  |
+| PMAX | BALTHASAR SCHULTE | 4,249 | 2012 | JIANGSU NEWYANGZI, China | MAN-B&W | Feb-22 |  | undisclosed | Danish (A.P. Moller) |  |
+| FEEDER | HARMONY N | 2,824 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&W | Aug-21 |  | $ 29.1m | undisclosed | BWTS fitted |
+| FEEDER | NASIA | 2,824 | 2005 | HYUNDAI MIPO, S. Korea | B&W | Jan-25 |  | $ 36.0m | Swiss (MSC) | BWTS fitted |
+| FEEDER | SEOUL TRADER | 2,664 | 2009 | STX, S. Korea | MAN-B&W | Sep-24 | 4 X 45t CRANES | low-mid $ 19.0m | Swiss (MSC) | BWTS fitted |
 | FEEDER | VIRGINIA TRADER | 2,490 | 2006 | HDW-GAARDEN, Germany | Sulzer | Jul-21 | 3 X 45t CRANES | undisclosed | U.K. based (Mount Street) |  |
 | FEEDER | NORDATLANTIC | 2,478 | 2003 | AKER MTW WERFT, Germany | Sulzer | May-23 | 3 X 45t CRANES | $ 21.0m | Swiss (MSC) |  |
-| FEEDER | SAN PASLEY | 1,819 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Oct-22 | 3 X 45t CRANES | undisclosed | undisclosed | BWTS fitted |
-| FEEDER | MCC KYOTO | 1,713 | 2008 | CSBC CORP, Taiwan | MAN-B\&amp;W | Dec-23 | 2 X 40t CRANES | $ 21.5m | French (CMA CGM) |  |
+| FEEDER | SAN PASLEY | 1,819 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B&W | Oct-22 | 3 X 45t CRANES | undisclosed | undisclosed | BWTS fitted |
+| FEEDER | MCC KYOTO | 1,713 | 2008 | CSBC CORP, Taiwan | MAN-B&W | Dec-23 | 2 X 40t CRANES | $ 21.5m | French (CMA CGM) |  |
 | FEEDER | ILIOS | 1,118 | 2006 | QINGSHAN, China | MAN |  | 2 X 45t CRANES | undisclosed | Swiss (MSC) |  |
 
 © Intermodal Research 06/07/2021 5

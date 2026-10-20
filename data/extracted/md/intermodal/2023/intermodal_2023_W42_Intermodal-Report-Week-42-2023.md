@@ -148,21 +148,21 @@ Supramax 10TC averaged \$ 14,090/day, up +2.02% w-o-w, while the Handysize 7TC a
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | TIMIMUS | 318,518 | 2002 | HYUNDAI HEAVY INDS - U, S. Korea | MAN-B\&amp;W | Apr-27 | DH | $ 32.0m | undisclosed | BWTS fitted |
-| MR2 | JAMES COOK | 49,995 | 2013 | STX, S. Korea | MAN-B\&amp;W | Apr-28 | DH | $ 34.5m | Indian | BWTS fitted |
-| MR2 | NORD STEADY | 49,994 | 2013 | STX, S. Korea | MAN-B\&amp;W | Jun-28 | DH | $ 34.5m | Greek | BWTS fitted |
-| MR2 | ALLIED PACIFIC | 46,151 | 2010 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B\&amp;W | May-25 | DH | $ 28.5m | USA Based | BWTS fitted |
-| MR2 | GH AUSTEN | 49,998 | 2009 | GUANGZHOU, China | MAN-B\&amp;W | May-24 | DH | $ 23.0m | undisclosed | BWTS fitted |
-| SMALL | BUNGA LILY | 19,991 | 2011 | FUKUOKA, Japan | MAN-B\&amp;W | Apr-26 | DH | $ 21.5m | undisclosed | BWTS fitted |
+| VLCC | TIMIMUS | 318,518 | 2002 | HYUNDAI HEAVY INDS - U, S. Korea | MAN-B&W | Apr-27 | DH | $ 32.0m | undisclosed | BWTS fitted |
+| MR2 | JAMES COOK | 49,995 | 2013 | STX, S. Korea | MAN-B&W | Apr-28 | DH | $ 34.5m | Indian | BWTS fitted |
+| MR2 | NORD STEADY | 49,994 | 2013 | STX, S. Korea | MAN-B&W | Jun-28 | DH | $ 34.5m | Greek | BWTS fitted |
+| MR2 | ALLIED PACIFIC | 46,151 | 2010 | HYUNDAI MIPO DOCKYARD, S. Korea | MAN-B&W | May-25 | DH | $ 28.5m | USA Based | BWTS fitted |
+| MR2 | GH AUSTEN | 49,998 | 2009 | GUANGZHOU, China | MAN-B&W | May-24 | DH | $ 23.0m | undisclosed | BWTS fitted |
+| SMALL | BUNGA LILY | 19,991 | 2011 | FUKUOKA, Japan | MAN-B&W | Apr-26 | DH | $ 21.5m | undisclosed | BWTS fitted |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | ASL NEPTUNE | 82,372 | 2009 | OSHIMA, Japan | MAN-B\&amp;W | Apr-24 |  | $ 16.2m | Greek | BWTS fitted |
-| KMAX | STL MIRACLE | 82,338 | 2008 | OSHIMA, Japan | MAN-B\&amp;W | Sep-28 |  | $ 15.3m | Greek | BWTS fitted |
-| PMAX | LADY MARITE | 76,529 | 2009 | SHIN KASADO, Japan | MAN-B\&amp;W | Nov-24 |  | $ 15.75m | undisclosed | BWTS fitted |
-| UMAX | ATLANTIC ISLAND | 61,311 | 2014 | IWAGI ZOSEN, Japan | MAN-B\&amp;W | Jul-24 | 4 X 30,7t CRANES | $ 24.0m | Greek | BWTS fitted |
-| SUPRA | ROTTERDAM PEARL | 58,020 | 2010 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Jan-25 | 4 X 35t CRANES | $ 13.65m | undisclosed | BWTS fitted |
+| KMAX | ASL NEPTUNE | 82,372 | 2009 | OSHIMA, Japan | MAN-B&W | Apr-24 |  | $ 16.2m | Greek | BWTS fitted |
+| KMAX | STL MIRACLE | 82,338 | 2008 | OSHIMA, Japan | MAN-B&W | Sep-28 |  | $ 15.3m | Greek | BWTS fitted |
+| PMAX | LADY MARITE | 76,529 | 2009 | SHIN KASADO, Japan | MAN-B&W | Nov-24 |  | $ 15.75m | undisclosed | BWTS fitted |
+| UMAX | ATLANTIC ISLAND | 61,311 | 2014 | IWAGI ZOSEN, Japan | MAN-B&W | Jul-24 | 4 X 30,7t CRANES | $ 24.0m | Greek | BWTS fitted |
+| SUPRA | ROTTERDAM PEARL | 58,020 | 2010 | YANGZHOU DAYANG, China | MAN-B&W | Jan-25 | 4 X 35t CRANES | $ 13.65m | undisclosed | BWTS fitted |
 | HANDY | SUN RUBY | 32,754 | 2004 | KANDA, Japan | Mitsubishi | Mar-24 | 4 X 30,5t CRANES | $ 8.1m | undisclosed | BWTS fitted |
 | SMALL | BOCS AFRICA | 7,701 | 2004 | ZALIV, Ukraine | MaK | Sep-24 | 2 X 60t CRANES | $ 6.0m | undisclosed |  |
 
@@ -170,8 +170,8 @@ Supramax 10TC averaged \$ 14,090/day, up +2.02% w-o-w, while the Handysize 7TC a
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUB PMAX | WAN HAI 301 | 2,496 | 2001 | NAIKAI ZOSEN, Japan | B\&amp;W | Sep-26 | N | $7,5m each | Chinese | BWTS fitted |
-| SUB PMAX | WAN HAI 302 | 2,496 | 2002 | NAIKAI ZOSEN, Japan | B\&amp;W | Mar-27 | N | $7,5m each | Chinese | BWTS fitted |
+| SUB PMAX | WAN HAI 301 | 2,496 | 2001 | NAIKAI ZOSEN, Japan | B&W | Sep-26 | N | $7,5m each | Chinese | BWTS fitted |
+| SUB PMAX | WAN HAI 302 | 2,496 | 2002 | NAIKAI ZOSEN, Japan | B&W | Mar-27 | N | $7,5m each | Chinese | BWTS fitted |
 
 ---
 

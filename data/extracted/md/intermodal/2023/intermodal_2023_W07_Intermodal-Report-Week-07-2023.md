@@ -27,13 +27,13 @@ In Argentina, total soybean output is forecast to be 40.6 million tons, down fro
 
 Bulk carriers activity remains subdued with Capesize average earnings setting the negative tone closing the week at the \$2,246 per day mark. The BDI on Friday (17/02/2023) closed at 538 points, down by 64 points compared to previous Friday's closing (10/02/2023). Rates across all the crude carriers sectors improved last week. The BDTI on Friday (17/02/2023) closed at 1,261, an increase of 55 points and the BCTI at 1084, an increase of 209 points compared to previous Friday's (10/02/2023) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: **Firmer**)
+## Sale & Purchase (Wet: Softer / Dry: **Firmer**)
 
 Conversely to the previous week, a healthy amount of dry bulk deals took place last week while the appetite for tanker units was restrained with only five units changing hands. the tanker sector, we had the sale of the "COSGLORY LAKE" (299,145dwt-blt '03, Japan), which was sold to Middle Eastern buyers, for a price in the region of low \$40s m. On the dry bulker side sector, we had the sale of the "OCEAN CAESAR" (180,176dwt-blt '08, Japan), which was sold to Singapore based owner Winning, for a price in the region of \$20.5m.
 
 ## Newbuilding (Wet: **Firmer** / Dry: **Firmer**)
 
-The newbuilding market activity improved last week with a total of 31 units being ordered while owners' interest was split across all types of sectors. Tanker orders were on the rise, with 6 vessels being ordered which concerns exclusively product carriers units. On the container front, methanol fuelled units continue to attract owners' interest. French giant CMA-CGM ordered a further six 16,000 TEU methanol-fuelled ships, following on from its order for twelve similar vessels two weeks ago. South Korea's HMM ordered a total of nine 9,000 TEU methanol-fuelled boxships, seven of which will be built at Hyundai Samho and the other two at HJ Shipbuilding &amp; Construction. Bulker orders also emerged last week with three deals materializing, while it is interesting to mention that Greek owners have the lion's share of the conventional type of sector contracts with three out of the total six tanker/bulker deals being destined to Greek buyers.
+The newbuilding market activity improved last week with a total of 31 units being ordered while owners' interest was split across all types of sectors. Tanker orders were on the rise, with 6 vessels being ordered which concerns exclusively product carriers units. On the container front, methanol fuelled units continue to attract owners' interest. French giant CMA-CGM ordered a further six 16,000 TEU methanol-fuelled ships, following on from its order for twelve similar vessels two weeks ago. South Korea's HMM ordered a total of nine 9,000 TEU methanol-fuelled boxships, seven of which will be built at Hyundai Samho and the other two at HJ Shipbuilding & Construction. Bulker orders also emerged last week with three deals materializing, while it is interesting to mention that Greek owners have the lion's share of the conventional type of sector contracts with three out of the total six tanker/bulker deals being destined to Greek buyers.
 
 ## Demolition (Wet: **Stable +** / Dry: **Stable +**)
 
@@ -124,7 +124,7 @@ VLCC T/C earnings averaged \$ 28,205/day, up +\$10,519/day w-o-w, and closed off
 
 Suezmax T/C earnings averaged \$ 67,482/day, up + \$7,199/day w-o-w. On the Aframax front, T/C earnings averaged \$ 47,833/day, up + \$1,049/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "COSGLORY LAKE" (299,145dwt-blt '03, Japan), which was sold to Middle Eastern buyers, for a price in the region of low \$40s m.
 
@@ -185,7 +185,7 @@ Supramax 10TC averaged \$ 7,142/day, down - 0.47% w-o-w, while the Handysize 7TC
 | **Ultramax** | **63k** | 28.0 | 28.0 | 0.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.0 | 24.0 | 0.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "OCEAN CAESAR" (180,176dwt-blt '08, Japan), which was sold to Singapore based owner Winning, for a price in the region of \$20.5m.
 
@@ -211,20 +211,20 @@ In the Handysize sector we had the sale of the "BASIC PRINCESS" (38,037dwt-blt '
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | HL PORT WALCOTT | 207,999 | 2017 | CHINA SHIPPING, China | MAN-B\&amp;W | Mar-27 |  |
-| NEWCASTLEMAX | HL PEARL | 207,999 | 2020 | NEW TIMES, China | MAN-B\&amp;W | Nov-25 |  |
-| NEWCASTLEMAX | HL SAPPHIRE | 207,999 | 2021 | NEW TIMES, China | MAN-B\&amp;W | Jan-26 |  |
-| NEWCASTLEMAX | HL AQUAMARINE | 207,999 | 2021 | NEW TIMES, China | MAN-B\&amp;W | Feb-26 |  |
-| NEWCASTLEMAX | HL DIAMOND | 207,999 | 2020 | NEW TIMES, China | MAN-B\&amp;W | Oct-25 |  |
-| NEWCASTLEMAX | HL EMERALD | 207,999 | 2020 | NEW TIMES, China | MAN-B\&amp;W | Oct-25 |  |
-| CAPE | OCEAN CAESAR | 180,176 | 2008 | IMABARI, Japan | MAN-B\&amp;W | Sep-26 |  |
-| CAPE | AGIA TRIAS | 185,820 | 2002 | KAWASAKI, Japan | B\&amp;W | Mar-23 |  |
-| UMAX | MUTIARA | 61,498 | 2012 | SHIN KASADO, Japan | MAN-B\&amp;W | Apr-23 | 4 X 30,7t CRANES |
+| NEWCASTLEMAX | HL PORT WALCOTT | 207,999 | 2017 | CHINA SHIPPING, China | MAN-B&W | Mar-27 |  |
+| NEWCASTLEMAX | HL PEARL | 207,999 | 2020 | NEW TIMES, China | MAN-B&W | Nov-25 |  |
+| NEWCASTLEMAX | HL SAPPHIRE | 207,999 | 2021 | NEW TIMES, China | MAN-B&W | Jan-26 |  |
+| NEWCASTLEMAX | HL AQUAMARINE | 207,999 | 2021 | NEW TIMES, China | MAN-B&W | Feb-26 |  |
+| NEWCASTLEMAX | HL DIAMOND | 207,999 | 2020 | NEW TIMES, China | MAN-B&W | Oct-25 |  |
+| NEWCASTLEMAX | HL EMERALD | 207,999 | 2020 | NEW TIMES, China | MAN-B&W | Oct-25 |  |
+| CAPE | OCEAN CAESAR | 180,176 | 2008 | IMABARI, Japan | MAN-B&W | Sep-26 |  |
+| CAPE | AGIA TRIAS | 185,820 | 2002 | KAWASAKI, Japan | B&W | Mar-23 |  |
+| UMAX | MUTIARA | 61,498 | 2012 | SHIN KASADO, Japan | MAN-B&W | Apr-23 | 4 X 30,7t CRANES |
 | SUPRA | PACIFIC DREAM | 56,531 | 2013 | JIANGSU HANTONG, China | Wartsila | Jun-23 | 4 X 36t CRANES |
 | SUPRA | PACIFIC VISION | 56,425 | 2013 | JIANGSU HANTONG, China | Wartsila | Aug-23 | 4 X 36t CRANES |
 | SUPRA | ELLIE M | 52,510 | 2001 | KANASASHI, Japan | Mitsubishi | Nov-26 | 4 X 30.5t CRANES |
-| SUPRA | KAI XUAN 11 | 50,236 | 2000 | MITSUI TAMANO, Japan | B\&amp;W | Sep-25 | 4 X 30,5t CRANES |
-| HANDY | BASIC PRINCESS | 38,037 | 2012 | IMABARI, Japan | MAN-B\&amp;W | Jun-25 | 4 X 30,5t CRANES |
+| SUPRA | KAI XUAN 11 | 50,236 | 2000 | MITSUI TAMANO, Japan | B&W | Sep-25 | 4 X 30,5t CRANES |
+| HANDY | BASIC PRINCESS | 38,037 | 2012 | IMABARI, Japan | MAN-B&W | Jun-25 | 4 X 30,5t CRANES |
 
 ## Containers
 
@@ -256,7 +256,7 @@ In the Handysize sector we had the sale of the "BASIC PRINCESS" (38,037dwt-blt '
 | Gas | MGC LPG 55k cbm |  | 78.0 | 78.0 | 0.0% | 63 | 65 | 63 |
 | Gas | SGC LPG 25k cbm |  | 53.0 | 53.0 | 0.0% | 42 | 44 | 43 |
 
-The newbuilding market activity improved last week with a total of 31 units being ordered while owners' interest was split across all types of sectors. Tanker orders were on the rise, with 6 vessels being ordered which concerns exclusively product carriers units. On the container front, methanol fuelled units continue to attract owners' interest. French giant CMA-CGM ordered a further six 16,000 TEU methanol-fuelled ships, following on from its order for twelve similar vessels two weeks ago. South Korea's HMM ordered a total of nine 9,000 TEU methanol-fuelled boxships, seven of which will be built at Hyundai Samho and the other two at HJ Shipbuilding &amp; Construction. Bulker orders also emerged last week with three deals materializing, while it is interesting to mention that Greek owners have the lion's share of the conventional type of sector contracts with three out of the total six tanker/bulker deals being destined to Greek buyers.
+The newbuilding market activity improved last week with a total of 31 units being ordered while owners' interest was split across all types of sectors. Tanker orders were on the rise, with 6 vessels being ordered which concerns exclusively product carriers units. On the container front, methanol fuelled units continue to attract owners' interest. French giant CMA-CGM ordered a further six 16,000 TEU methanol-fuelled ships, following on from its order for twelve similar vessels two weeks ago. South Korea's HMM ordered a total of nine 9,000 TEU methanol-fuelled boxships, seven of which will be built at Hyundai Samho and the other two at HJ Shipbuilding & Construction. Bulker orders also emerged last week with three deals materializing, while it is interesting to mention that Greek owners have the lion's share of the conventional type of sector contracts with three out of the total six tanker/bulker deals being destined to Greek buyers.
 
 > **Chart (not transcribed):** Tankers Newbuilding Prices (m$). The report prints no values for it.
 
@@ -275,7 +275,7 @@ The newbuilding market activity improved last week with a total of 31 units bein
 | 2 | VLGC | 88,000 | cbm | KSOE, S.Korea | Greek (Latsco) | $98.8m |  |
 | 6 | Container | 16,000 | teu | Jiangnan Shipyard, China | French (CMA CGM) | $ 175.0m | methanol fuelled |
 | 7 | Container | 9,000 | teu | Hyundai Samho, S. Korea | South Korean (HMM) | $123.5m | methanol-fuelled |
-| 2 | Container | 9,000 | teu | HJ Shipbuilding &amp; Construction | South Korean (HMM) | $123.5m | methanol-fuelled |
+| 2 | Container | 9,000 | teu | HJ Shipbuilding & Construction | South Korean (HMM) | $123.5m | methanol-fuelled |
 
 © Intermodal Research 21/02/2023 5
 

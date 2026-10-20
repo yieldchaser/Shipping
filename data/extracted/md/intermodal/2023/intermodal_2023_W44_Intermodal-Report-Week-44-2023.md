@@ -157,10 +157,10 @@ The BDI on Friday, November 3rd, closed at 1462, marking a decrease of 101 point
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | C. SPIRIT | 313,998 | 2013 | HYUNDAI HEAVY INDS - U, S. Korea | Wartsila | Mar-28 | DH | $ 67.0m | Greek (New Shipping) | BWTS &amp; Scubber fitted, TC at US$ 36,625 pd less 2.5% until October 2024-February 2025. |
-| VLCC | C. CHALLENGER | 313,918 | 2013 | DALIAN, China | MAN-B\&amp;W | Feb-28 | DH | $ 65.0m | Greek (New Shipping) | BWTS &amp; Scubber fitted, TC at US$ 31,000 pd less 1.25% until April-July 2024. |
-| VLCC | C. VISION | 314,000 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Jun-24 | DH | $ 34.5m | U.A.E Based | Scrubber fitted |
-| VLCC | C. EMPEROR | 314,000 | 2004 | SAMSUNG, S. Korea | B\&amp;W | Mar-24 | DH | $ 34.5m | U.A.E Based | Scrubber fitted |
+| VLCC | C. SPIRIT | 313,998 | 2013 | HYUNDAI HEAVY INDS - U, S. Korea | Wartsila | Mar-28 | DH | $ 67.0m | Greek (New Shipping) | BWTS & Scubber fitted, TC at US$ 36,625 pd less 2.5% until October 2024-February 2025. |
+| VLCC | C. CHALLENGER | 313,918 | 2013 | DALIAN, China | MAN-B&W | Feb-28 | DH | $ 65.0m | Greek (New Shipping) | BWTS & Scubber fitted, TC at US$ 31,000 pd less 1.25% until April-July 2024. |
+| VLCC | C. VISION | 314,000 | 2004 | SAMSUNG, S. Korea | B&W | Jun-24 | DH | $ 34.5m | U.A.E Based | Scrubber fitted |
+| VLCC | C. EMPEROR | 314,000 | 2004 | SAMSUNG, S. Korea | B&W | Mar-24 | DH | $ 34.5m | U.A.E Based | Scrubber fitted |
 | MR1 | DICTADOR | 34,747 | 2019 | FUJIAN MAWEI, China | WinGD | Nov-24 | DH | $ 29.2m | undisclosed | BWTS fitted |
 | Small | BOW EMMA | 25,594 | 2009 | SHIN KURUSHIMA, Japan | Mitsubishi | Jan-24 | DH | $ 24.0m | Chinese (Taihua) | BWTS fitted |
 | Small | RAYANA | 14,958 | 2009 | STX RO OFFSHORE BRAILA, Romania | MAN | Nov-26 | DH | undisclosed | undisclosed | BWTS due 30/4/2023 |
@@ -172,26 +172,26 @@ The BDI on Friday, November 3rd, closed at 1462, marking a decrease of 101 point
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | PEACE PEARL | 76,431 | 2013 | ZHEJIANG, China | MAN-B\&amp;W | Jul-28 |  | high $ 15.0m | Greek | BWTS fitted, TC attached |
-| PMAX | PAN ELDORADO | 77,598 | 2004 | CSBC, Taiwan | B\&amp;W | Apr-24 |  | $ 9.0m | Chinese | BWTS fitted |
-| UMAX | FJM GLORY | 61,166 | 2019 | DALIAN, China | MAN-B\&amp;W | Oct-24 | 4 X 30t CRANES | $ 29.6m | undisclosed | BWTS fitted |
-| UMAX | LOWLANDS MIMOSA | 63,939 | 2018 | TSUNEISHI HEAVY CEBU, Philippines | MAN-B\&amp;W | Sep-28 | 4 X 36t CRANES | $ 25.5m | undisclosed | BWTS fitted, discount due to fire damage |
-| UMAX | SHIMANAMI QUEEN | 61,472 | 2011 | SHIN KASADO, Japan | MAN-B\&amp;W | Jun-26 | 4 X 30,5t CRANES | $ 18.9m | Greek | BWTS fitted |
-| SUPRA | NIPPON MARU | 55,581 | 2011 | MITSUI TAMANO, Japan | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | $ 17.3m | undisclosed | BWTS fitted |
-| SUPRA | SEACON DALIAN | 57,005 | 2010 | COSCO ZHOUSHAN, China | MAN-B\&amp;W | Aug-25 | 4 X 30t CRANES | $ 12.8m | Indonesians (Cakra Buana) | BWTS fitted |
-| HANDY | PAN JASMINE | 32,599 | 2010 | Taizhou Maple Leaf Shbldg | MAN-B\&amp;W | May-25 | 4 X 30,5t CRANES | $ 9.3m | undisclosed | BWTS fitted |
+| PMAX | PEACE PEARL | 76,431 | 2013 | ZHEJIANG, China | MAN-B&W | Jul-28 |  | high $ 15.0m | Greek | BWTS fitted, TC attached |
+| PMAX | PAN ELDORADO | 77,598 | 2004 | CSBC, Taiwan | B&W | Apr-24 |  | $ 9.0m | Chinese | BWTS fitted |
+| UMAX | FJM GLORY | 61,166 | 2019 | DALIAN, China | MAN-B&W | Oct-24 | 4 X 30t CRANES | $ 29.6m | undisclosed | BWTS fitted |
+| UMAX | LOWLANDS MIMOSA | 63,939 | 2018 | TSUNEISHI HEAVY CEBU, Philippines | MAN-B&W | Sep-28 | 4 X 36t CRANES | $ 25.5m | undisclosed | BWTS fitted, discount due to fire damage |
+| UMAX | SHIMANAMI QUEEN | 61,472 | 2011 | SHIN KASADO, Japan | MAN-B&W | Jun-26 | 4 X 30,5t CRANES | $ 18.9m | Greek | BWTS fitted |
+| SUPRA | NIPPON MARU | 55,581 | 2011 | MITSUI TAMANO, Japan | MAN-B&W | Oct-25 | 4 X 30t CRANES | $ 17.3m | undisclosed | BWTS fitted |
+| SUPRA | SEACON DALIAN | 57,005 | 2010 | COSCO ZHOUSHAN, China | MAN-B&W | Aug-25 | 4 X 30t CRANES | $ 12.8m | Indonesians (Cakra Buana) | BWTS fitted |
+| HANDY | PAN JASMINE | 32,599 | 2010 | Taizhou Maple Leaf Shbldg | MAN-B&W | May-25 | 4 X 30,5t CRANES | $ 9.3m | undisclosed | BWTS fitted |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUB PMAX | AS CARLOTTA | 2,742 | 2006 | AKER MTW WERFT, Germany | MAN-B\&amp;W | Aug-26 | 3 X 45t CRANES | undisclosed | Singaporean |
+| SUB PMAX | AS CARLOTTA | 2,742 | 2006 | AKER MTW WERFT, Germany | MAN-B&W | Aug-26 | 3 X 45t CRANES | undisclosed | Singaporean |
 | FEEDER | MAUREN | 1,118 | 2005 | Jinling Shipyard | MAN | Apr-25 | 2 X 45t CRANES | undisclosed | Swedish |
 
 ---
 
 ## Newbuilding Market
 
-The previous week was the one that put an end to the quiet market with a total of 9 orders, representing 21 firm vessels. Bulk carriers took the lion's share with 15 vessels, followed by tankers with four. Greek owners were active, with TMS Dry ordering a quartet of 210,000 dwt bulkers from COSCO Yangzhou. The vessels will be delivered between 2025 and 2027, while the price was not disclosed. Another Greek owner, Dynacom, has ordered two fixed panamax tankers from Yangzijiang in China, due for delivery in 2026 and costing \$53m each. On the smaller tonnage side, owners Leonhardt&amp;Blumberg and Boomsma Shipping each ordered two firm and two optional 8,500 dwt general cargo vessels. All vessels will be built by the Chowgule Group in India and are scheduled for delivery between 2025 and 2026. The vessels will be equipped with wind-assisted propulsion systems and carbon capture technologies.
+The previous week was the one that put an end to the quiet market with a total of 9 orders, representing 21 firm vessels. Bulk carriers took the lion's share with 15 vessels, followed by tankers with four. Greek owners were active, with TMS Dry ordering a quartet of 210,000 dwt bulkers from COSCO Yangzhou. The vessels will be delivered between 2025 and 2027, while the price was not disclosed. Another Greek owner, Dynacom, has ordered two fixed panamax tankers from Yangzijiang in China, due for delivery in 2026 and costing \$53m each. On the smaller tonnage side, owners Leonhardt&Blumberg and Boomsma Shipping each ordered two firm and two optional 8,500 dwt general cargo vessels. All vessels will be built by the Chowgule Group in India and are scheduled for delivery between 2025 and 2026. The vessels will be equipped with wind-assisted propulsion systems and carbon capture technologies.
 
 ## Indicative Newbuilding Prices ($ Million)
 | Sector | Vessel | Size | 3-Nov-23 | 27-Oct-23 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | Average 2022 | Average 2021 | Average 2020 |
@@ -219,7 +219,7 @@ The previous week was the one that put an end to the quiet market with a total o
 | 2 | Bulker | 82,000 dwt | CMHI Jinling, China | 2026 | Chinese (CMES) | undisclosed | IMO NOx Tier III, EEDI phase 3 |
 | 2 | Bulker | 62,000 dwt | CMHI Jinling, China | 2026 | Chinese (CMES) | undisclosed | IMO NOx Tier III, EEDI phase 3 |
 | 3 | Bulker | 9,400 dwt | Royal Bodewes, Netherlands | 2021 | Norwegian (Aasen Shipping) | undisclosed | hybrid, self discharger, methanol ready |
-| 2+2 | General Cargo | 8,500 dwt | Chowgule Group, India | 2025-2026 | German (Leonhardt &amp; Blumberg) | undisclosed | wind-assisted propulsion, carbon capture |
+| 2+2 | General Cargo | 8,500 dwt | Chowgule Group, India | 2025-2026 | German (Leonhardt & Blumberg) | undisclosed | wind-assisted propulsion, carbon capture |
 | 2+2 | General Cargo | 8,500 dwt | Chowgule Group, India | 2025-2026 | Dutch (Boomsma Shipping) | undisclosed | wind-assisted propulsion, carbon capture |
 | 2 | RoRo | 7,000 | ceu | Yantai CIMC Raffles, China | 2025 | Norwegian (Norwegian Car Carriers) | undisclosed |
 

@@ -22,11 +22,11 @@ Having said that, it is indicative through our day-to-day engagement in the seco
 
 As far as the secondhand prices are concerned, the increased interest has evidently affected the secondhand values upward as can be easily being observed from some relevant recent sales:
 
-The Suezmax tanker M/T BARI (159K 2005 HYUNDAI//SS: 04-2025 &amp; DD: 11-2023) was reported sold within March 2022 at USD 21,5 million, meanwhile the one year older M/T RINEIA (159K 2004 HYUNDAI//SS: 03-2024 &amp; DD &amp; BWTS: due April 2022) had only achieved low USD 18.0 million in February 2022.
+The Suezmax tanker M/T BARI (159K 2005 HYUNDAI//SS: 04-2025 & DD: 11-2023) was reported sold within March 2022 at USD 21,5 million, meanwhile the one year older M/T RINEIA (159K 2004 HYUNDAI//SS: 03-2024 & DD & BWTS: due April 2022) had only achieved low USD 18.0 million in February 2022.
 
-Aframax M/T SRI ASIH (109K 2005 DALIAN//SS: 06-2025 &amp; DD: 12-2023) recently fetched USD 14,6 million while the younger, M/T ZANTORO (109K 2006 DALIAN//SS &amp; DD: 06-2022) was sold for low USD 13.0 million in February 2022.
+Aframax M/T SRI ASIH (109K 2005 DALIAN//SS: 06-2025 & DD: 12-2023) recently fetched USD 14,6 million while the younger, M/T ZANTORO (109K 2006 DALIAN//SS & DD: 06-2022) was sold for low USD 13.0 million in February 2022.
 
-Lastly, the LR1 tanker M/T TECTUS (75K 2009 STX//SS: 07-2024 &amp; DD: 09-2022) was sold for rgn USD 15.0 million within March 2022 while the 2 years older, Japan built, M/T POLAR COD (74K 2007 ONOMICHI//SS &amp; DD: 03-2022) was sold for USD 11,7 million back in January 2022.
+Lastly, the LR1 tanker M/T TECTUS (75K 2009 STX//SS: 07-2024 & DD: 09-2022) was sold for rgn USD 15.0 million within March 2022 while the 2 years older, Japan built, M/T POLAR COD (74K 2007 ONOMICHI//SS & DD: 03-2022) was sold for USD 11,7 million back in January 2022.
 
 If the increase in interest continues without a sufficient supply of fresh sale candidates, secondhand values will follow their upward trajectory reaching ever-higher prices.
 
@@ -34,7 +34,7 @@ If the increase in interest continues without a sufficient supply of fresh sale 
 
 The dry bulk market has been moving down in the past days, amidst muted activity in the Pacific and mediocre demand for tonnage in the Atlantic. The BDI today (12/04/2022) closed at 2,035 points, down by 178 points compared to previous Tuesday's closing (05/04/2022). Straight gains across all the crude carrier sectors lifted spirits last week, after a prolonged period of unhealthy levels. The BDTI today (12/04/2022) closed at 1,744, an increase of 275 points, and the BCTI at 993, an increase of 102 points compared to previous Tuesday's (05/04/2022) levels.
 
-## Sale &amp; Purchase (Wet: Stable + / Dry: Stable +)
+## Sale & Purchase (Wet: Stable + / Dry: Stable +)
 
 SnP activity remains healthy across both the dry bulk and tanker sectors, while no container deals materialized last week. In the tanker sector, we had sale of the "SKS SKEENA" (158,933dwt-blt '06, S. Korea), which was sold to Greek buyers, for a price in the region of \$23.5m. On the dry bulker side sector, we had the sale of the "AQUAPROUD" (178,055dwt-blt '09, China), which was sold to Greek owner, Alpha Bulkers, for a price in the region of \$26.5m.
 
@@ -133,7 +133,7 @@ VLCC T/C earnings averaged \$-10,151/day, up + \$11,388/day w-o-w. Activity acro
 
 Suezmax T/C earnings averaged \$92,589/day, up + \$55,176/day w-o-w. The Med/Blacksea market enjoyed the release of the CPC program while the surge in the TD20 West Africa route continued closing the week at the 185WS mark. Aframax T/C earnings averaged \$ 72,099/day, up +26,508/day w-o-w. The North European market remains under owners' control, while Baltic market noted another impressive improvement amidst the shortage of willing owners to load on Russian ports. USG region was also firm, attracting a share of ballasters, further thinning the tonnage list in the Med and Baltic regions.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Suezmax sector we had sale of the "SKS SKEENA" (158,933dwt-blt '06, S. Korea), which was sold to Greek buyers, for a price in the region of \$23.5m.
 
@@ -202,7 +202,7 @@ Supramax 10TC averaged \$28,668/day, down – 9.34% w-o-w, while the Handysize 7
 | **Ultramax** | **63k** | 33.3 | 32.6 | 1.9% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 28.5 | 28.0 | 1.8% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "AQUAPROUD" (178,055dwt-bl't '09, China), which was sold to Greek owner, Alpha Bulkers, for a price in the region of \$26.5m.
 
@@ -219,17 +219,17 @@ In the Supramax sector we had the sale of the "NEW ABLE" (55,889dwt-bl't '14, Ja
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | RED SAGE | 182,443 | 2015 | JMU, Japan | MAN-B\&amp;W | Jan-25 |  | $ 47.5m | German (Valhal Shipping) |  |
-| CAPE | AQUAPROUD | 178,055 | 2009 | SWS, China | MAN-B\&amp;W | Jun-24 |  | $ 26.5m | Greek (Alpha Bulkers) |  |
-| PMAX | CORAL CRYSTAL | 78,103 | 2012 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Jun-25 |  | rgn $ 25.0m | Greek | BWTS fitted |
-| SUPRA | NEW ABLE | 55,889 | 2014 | OSHIMA, Japan | MAN-B\&amp;W | May-24 | 4 X 30t CRANES | $ 27.0m | Japanese (Daido Kaiun) |  |
-| SUPRA | ERATIOS | 54,683 | 2011 | ZHEJIANG JIANTIAO, China | MAN-B\&amp;W | Jul-26 | CR 4x36 T, CR 4x30 T | $ 17.6m | undisclosed | BWTS fitted |
-| SUPRA | ASL MERCURY | 56,899 | 2010 | Jiangsu Hantong, China | MAN-B\&amp;W | Dec-25 | 4 X 36t CRANES | $ 16.0m | undisclosed | BWTS fitted |
-| SUPRA | UNION VICTORY | 53,716 | 2010 | CHENGXI, China | MAN-B\&amp;W | Jul-25 | 4 X 36t CRANES | undisclosed | Indian |  |
-| SUPRA | TITAN II | 57,337 | 2009 | STX, S. Korea | MAN-B\&amp;W | Sep-24 | 4 X 30t CRANES | low-mid $ 17.0m | Chinese |  |
-| SUPRA | DORIC SPIRIT | 52,428 | 2001 | TSUNEISHI, Japan | B\&amp;W | Oct-26 | 4 X 30t CRANES | low $ 13.0m | undisclosed |  |
-| HANDY | SEASTAR EMPRESS | 35,000 | 2011 | NANTONG JINGHUA, China | MAN-B\&amp;W | Nov-26 | 4 X 30t CRANES | mid $ 16.0m | Norwegian (Vega Bulk) | Tier II, BWTS fitted |
-| HANDY | AFRICAN HAWK | 27,101 | 2004 | NEW TIMES, China | MAN-B\&amp;W | May-24 | 4 X 30t CRANES | $ 9.5m | undisclosed |  |
+| CAPE | RED SAGE | 182,443 | 2015 | JMU, Japan | MAN-B&W | Jan-25 |  | $ 47.5m | German (Valhal Shipping) |  |
+| CAPE | AQUAPROUD | 178,055 | 2009 | SWS, China | MAN-B&W | Jun-24 |  | $ 26.5m | Greek (Alpha Bulkers) |  |
+| PMAX | CORAL CRYSTAL | 78,103 | 2012 | SHIN KURUSHIMA, Japan | MAN-B&W | Jun-25 |  | rgn $ 25.0m | Greek | BWTS fitted |
+| SUPRA | NEW ABLE | 55,889 | 2014 | OSHIMA, Japan | MAN-B&W | May-24 | 4 X 30t CRANES | $ 27.0m | Japanese (Daido Kaiun) |  |
+| SUPRA | ERATIOS | 54,683 | 2011 | ZHEJIANG JIANTIAO, China | MAN-B&W | Jul-26 | CR 4x36 T, CR 4x30 T | $ 17.6m | undisclosed | BWTS fitted |
+| SUPRA | ASL MERCURY | 56,899 | 2010 | Jiangsu Hantong, China | MAN-B&W | Dec-25 | 4 X 36t CRANES | $ 16.0m | undisclosed | BWTS fitted |
+| SUPRA | UNION VICTORY | 53,716 | 2010 | CHENGXI, China | MAN-B&W | Jul-25 | 4 X 36t CRANES | undisclosed | Indian |  |
+| SUPRA | TITAN II | 57,337 | 2009 | STX, S. Korea | MAN-B&W | Sep-24 | 4 X 30t CRANES | low-mid $ 17.0m | Chinese |  |
+| SUPRA | DORIC SPIRIT | 52,428 | 2001 | TSUNEISHI, Japan | B&W | Oct-26 | 4 X 30t CRANES | low $ 13.0m | undisclosed |  |
+| HANDY | SEASTAR EMPRESS | 35,000 | 2011 | NANTONG JINGHUA, China | MAN-B&W | Nov-26 | 4 X 30t CRANES | mid $ 16.0m | Norwegian (Vega Bulk) | Tier II, BWTS fitted |
+| HANDY | AFRICAN HAWK | 27,101 | 2004 | NEW TIMES, China | MAN-B&W | May-24 | 4 X 30t CRANES | $ 9.5m | undisclosed |  |
 
 © Intermodal Research 12/04/2022 4
 
@@ -240,14 +240,14 @@ In the Supramax sector we had the sale of the "NEW ABLE" (55,889dwt-bl't '14, Ja
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | SKS SKEENA | 158,933 | 2006 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Aug-26 |  | $ 23.5m | Greek | BWTS fitted |
-| AFRA | SILVER | 107,507 | 2010 | TSUNEISHI, Japan | MAN-B\&amp;W | Jul-25 |  | $ 24.3m | undisclosed |  |
-| MR2 | MAERSK TANGIER | 49,835 | 2016 | SUNGDONG, S. Korea | MAN-B\&amp;W | Feb-26 |  | $ 31.0m | undisclosed | BWTS fitted |
-| MR2 | ARDMORE SEALIFTER | 47,472 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Jul-23 |  | $ 40.0m (en bloc) | German (Leonardt &amp; Blumberg) | incl T/C back for 2 years at rgn US$ 13,000 /day |
-| MR2 | ARDMORE SEALEADER | 47,463 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Aug-23 |  | $ 40.0m (en bloc) | German (Leonardt &amp; Blumberg) | incl T/C back for 2 years at rgn US$ 13,000 /day |
-| MR2 | ARDMORE SEALANCER | 47,451 | 2008 | ONOMICHI, Japan | MAN-B\&amp;W | Jun-23 |  | $ 40.0m (en bloc) | German (Leonardt &amp; Blumberg) | incl T/C back for 2 years at rgn US$ 13,000 /day |
-| MR2 | PRO EMERALD | 46,101 | 2003 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Jan-23 |  | high $ 6.0m | Far Eastern |  |
-| MR2 | SUNLIGHT EXPRESS | 45,931 | 2011 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Sep-25 |  | $ 17.0m | undisclosed |  |
+| SUEZ | SKS SKEENA | 158,933 | 2006 | HYUNDAI SAMHO, S. Korea | MAN-B&W | Aug-26 |  | $ 23.5m | Greek | BWTS fitted |
+| AFRA | SILVER | 107,507 | 2010 | TSUNEISHI, Japan | MAN-B&W | Jul-25 |  | $ 24.3m | undisclosed |  |
+| MR2 | MAERSK TANGIER | 49,835 | 2016 | SUNGDONG, S. Korea | MAN-B&W | Feb-26 |  | $ 31.0m | undisclosed | BWTS fitted |
+| MR2 | ARDMORE SEALIFTER | 47,472 | 2008 | ONOMICHI, Japan | MAN-B&W | Jul-23 |  | $ 40.0m (en bloc) | German (Leonardt & Blumberg) | incl T/C back for 2 years at rgn US$ 13,000 /day |
+| MR2 | ARDMORE SEALEADER | 47,463 | 2008 | ONOMICHI, Japan | MAN-B&W | Aug-23 |  | $ 40.0m (en bloc) | German (Leonardt & Blumberg) | incl T/C back for 2 years at rgn US$ 13,000 /day |
+| MR2 | ARDMORE SEALANCER | 47,451 | 2008 | ONOMICHI, Japan | MAN-B&W | Jun-23 |  | $ 40.0m (en bloc) | German (Leonardt & Blumberg) | incl T/C back for 2 years at rgn US$ 13,000 /day |
+| MR2 | PRO EMERALD | 46,101 | 2003 | SHIN KURUSHIMA, Japan | MAN-B&W | Jan-23 |  | high $ 6.0m | Far Eastern |  |
+| MR2 | SUNLIGHT EXPRESS | 45,931 | 2011 | SHIN KURUSHIMA, Japan | MAN-B&W | Sep-25 |  | $ 17.0m | undisclosed |  |
 | SMALL | PHUONG DONG STAR | 9,045 | 2007 | YANGZHOU KEJIN, China | Daihatsu |  |  | $ 3.1m | Middle Eastern |  |
 
 © Intermodal Research 12/04/2022 5

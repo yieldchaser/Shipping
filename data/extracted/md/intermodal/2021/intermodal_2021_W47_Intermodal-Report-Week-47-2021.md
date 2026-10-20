@@ -42,7 +42,7 @@ Looking forward, there is no sight of supply and prices easing materially until 
 
 The Dry bulk index followed a positive trajectory last week, mainly supported by a bullish Panamax sector and a strong Capesize market. The BDI to-day (30/11/2021) closed at 3,018 up by 373 points compared to previous Tuesday's (23/11/2021) levels. The crude carrier market performance was uninspiring for another week. Demand remains insufficient to cover the imbalance with supply resulting in further losses in earnings. The BDTI to-day (30/11/2021) closed at 721, a decrease of 32 points, and the BCTI at 636, an increase of 18 points compared to previous Tuesday's (23/11/2021) levels.
 
-## Sale &amp; Purchase (Wet: Firmer / Dry: Stable-)
+## Sale & Purchase (Wet: Firmer / Dry: Stable-)
 
 The Clean tanker sector has been the main focus of interest in the Secondhand realm. At the same time, no crude units changed hands while a small number of dry bulk sales materialized last week. In the tanker sector, we had the sale of the "GRAZIA" (50,213dwt-blt '10, China), which was sold to Greek buyers, for a price in the region of \$15.15m. On the dry bulk-er side sector, we had the sale of the "NEW DAYS" (38,230dwt-blt '17, Japan), which was sold to Greek buyers, for a price in the region of \$27.0m.
 
@@ -138,7 +138,7 @@ VLCC T/C earnings averaged \$ -8,471/day, down - \$ 509/day w-o-w, and closed of
 
 Suezmax T/C earnings averaged \$ -990/day, down - \$ 2,858/day w-o-w. Med market set the negative tone with TD6 route losing 7.38WS points w-o-w. The Aframax market performance was also negative with T/C earnings averaging \$ 4,269day, down - \$ 4,100/day w-o-w. The pressure was evident across all regions with significant discounts on rates taking place. TD19 Cross-Med trip lost 19.13WS points w-o-w while in North Europe, TD7 and TD17 routes declined by 6.88WS and 9.38WS points respectively.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the MR2 sector we had the sale of the "GRAZIA" (50,213dwt-blt '10, China), which was sold to Greek buyers, for a price in the region of \$15.15m.
 
@@ -205,7 +205,7 @@ Supramax 10TC averaged approx. \$24,930/day up +1.0% w-o-w, with the Atlantic co
 | **Ultramax** | **63k** | 31.0 | 31.8 | -2.5% | 19.4 | 23.1 | - |
 | **Handysize** | **37K** | 26.0 | 25.8 | **0.8%** | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Handysize sector we had the sale of the "NEW DAYS" (38,230dwt-blt '17, Japan), which was sold to Greek buyers, for a price in the region of \$27.0m.
 
@@ -220,27 +220,27 @@ In the Handysize sector we had the sale of the "NEW DAYS" (38,230dwt-blt '17, Ja
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR2 | FRONT LION | 115,162 | 2014 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Sep-24 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
-| LR2 | FRONT TIGER | 115,024 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Jun-25 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
-| LR2 | FRONT PANTHER | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Jan-25 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
-| LR2 | FRONT PUMA | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B\&amp;W | Mar-25 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS &amp; Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
-| LR1 | NORDMERKUR | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | May-24 | DH | $ 10.0m | Indian | deck heaters, old deal |
-| LR1 | NORDNEPTUN | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Apr-24 | DH | $ 10.0m | Indian | deck heaters, old deal |
-| MR2 | GRAZIA | 50,213 | 2010 | GSI, China | MAN-B\&amp;W | Nov-25 | DH | $ 15.15m | Greek | BWTS fitted |
-| MR2 | ARCTIC BAY | 47,999 | 2006 | STX, S. Korea | MAN-B\&amp;W | Mar-26 | DH | $ 11.7m | Norwegian (Atlantica Shipping) | ICE 1A, BWTS fitted |
+| LR2 | FRONT LION | 115,162 | 2014 | GUANGZHOU LONGXUE, China | MAN-B&W | Sep-24 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS & Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
+| LR2 | FRONT TIGER | 115,024 | 2015 | GUANGZHOU LONGXUE, China | MAN-B&W | Jun-25 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS & Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
+| LR2 | FRONT PANTHER | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B&W | Jan-25 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS & Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
+| LR2 | FRONT PUMA | 109,900 | 2015 | GUANGZHOU LONGXUE, China | MAN-B&W | Mar-25 | DH | $ 160.0m | Bermuda bases (SFL Corporation) | BWTS & Scrubber fitted, incl 5. yrs TC to Trafigura with purchase option subj to a profit share mechanism |
+| LR1 | NORDMERKUR | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | May-24 | DH | $ 10.0m | Indian | deck heaters, old deal |
+| LR1 | NORDNEPTUN | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Apr-24 | DH | $ 10.0m | Indian | deck heaters, old deal |
+| MR2 | GRAZIA | 50,213 | 2010 | GSI, China | MAN-B&W | Nov-25 | DH | $ 15.15m | Greek | BWTS fitted |
+| MR2 | ARCTIC BAY | 47,999 | 2006 | STX, S. Korea | MAN-B&W | Mar-26 | DH | $ 11.7m | Norwegian (Atlantica Shipping) | ICE 1A, BWTS fitted |
 | SMALL | OCEAN SEAL | 11,998 | 2018 | SHIN KURUSHIMA, Japan | Wartsila | Aug-23 | DH | rgn-excess $ 10.0m | undisclosed |  |
-| SMALL | SAEHAN FREESIA | 8,719 | 2002 | SHIN KURUSHIMA, Japan | B\&amp;W | Feb-22 | DH | $ 3.6m | Indonesian | St-St, SS/DD due |
+| SMALL | SAEHAN FREESIA | 8,719 | 2002 | SHIN KURUSHIMA, Japan | B&W | Feb-22 | DH | $ 3.6m | Indonesian | St-St, SS/DD due |
 | SMALL | NEWOCEAN 6 | 4,679 | 2014 | CHONGQING CHUANDONG, China | Cummins | Sep-24 | DH | $ 5.3m | undisclosed | bunkering tanker |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | MAYFAIR SPIRIT | 93,257 | 2011 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W | May-26 |  | $ 19.0m | Greek (NGM) | BWTS fitted, prompt delivery with TC attached until March-May/2022 at USD 34,500 p/d, old |
-| KMAX | CHENGXI CX0831 | 85,000 | 2021 | CHENGXI, China | MAN-B\&amp;W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
-| KMAX | CHENGXI CX0832 | 85,000 | 2022 | CHENGXI, China | MAN-B\&amp;W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
-| KMAX | CHENGXI CX0833 | 85,000 | 2022 | CHENGXI, China | MAN-B\&amp;W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
-| KMAX | CHENGXI CX0834 | 85,000 | 2022 | CHENGXI, China | MAN-B\&amp;W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
-| HANDY | NEW DAYS | 38,230 | 2017 | SHIN KOCHI, Japan | MAN-B\&amp;W | Jan-22 | 4 X 30t CRANES | $ 27.0m | Greek | BWTS fitted, basis SS/DD passed |
+| POST PMAX | MAYFAIR SPIRIT | 93,257 | 2011 | JIANGSU NEWYANGZI, China | MAN-B&W | May-26 |  | $ 19.0m | Greek (NGM) | BWTS fitted, prompt delivery with TC attached until March-May/2022 at USD 34,500 p/d, old |
+| KMAX | CHENGXI CX0831 | 85,000 | 2021 | CHENGXI, China | MAN-B&W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
+| KMAX | CHENGXI CX0832 | 85,000 | 2022 | CHENGXI, China | MAN-B&W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
+| KMAX | CHENGXI CX0833 | 85,000 | 2022 | CHENGXI, China | MAN-B&W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
+| KMAX | CHENGXI CX0834 | 85,000 | 2022 | CHENGXI, China | MAN-B&W |  |  | about $ 33.0m each | Chinese (Pacific Rim) | deliveries November 2021 / September 2022 |
+| HANDY | NEW DAYS | 38,230 | 2017 | SHIN KOCHI, Japan | MAN-B&W | Jan-22 | 4 X 30t CRANES | $ 27.0m | Greek | BWTS fitted, basis SS/DD passed |
 
 © Intermodal Research 30/11/2021 4
 

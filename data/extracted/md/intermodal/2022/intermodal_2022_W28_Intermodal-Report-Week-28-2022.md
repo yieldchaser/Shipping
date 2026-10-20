@@ -14,7 +14,7 @@ Issue: Week 28 | Tuesday 19<sup>th</sup> July 2022
 
 Faced with uncertainty regarding the most cost-efficient alternative fuels and the future dominant method to reduce their greenhouse emissions, many owners abstain from the newbuilding realm, especially in the wet and dry sector, while sticking to ageing fleets. During 1H22, fleet grew by 1.4% (est. 2.8% in 2022), which is way below the 10-year average growth of 3.6%. While new orders are not coming in fast enough to halt the trend of an ageing fleet, the introduction of EEXI, CII and EU ETS at the beginning of 2023, has resulted in a record of 61% of newbuild orders being alternative fuelled.
 
-According to our data, tanker fleet renewal remains muted across 1H22. Overall, 31 vessels have been ordered within 2022 in the wet sector (with the orderbook standing at 5% of fleet capacity), of which 1 is methanol &amp; ammonia ready, 1 is methanol fuelled, 2 are battery powered and 2 are LNG fuelled. With risks to the tanker demand still prevailing on the back of macroeconomic factors and high oil prices, the tanker market has witnessed significantly improved conditions in recent months, underpinned by shifts in trade patterns resulting in tonne-mile increase. Low stocks, paired with high refinery margins are expected to further boost trade growth in seaborne volumes and tonne-miles and contribute to the revival of an ageing fleet.
+According to our data, tanker fleet renewal remains muted across 1H22. Overall, 31 vessels have been ordered within 2022 in the wet sector (with the orderbook standing at 5% of fleet capacity), of which 1 is methanol & ammonia ready, 1 is methanol fuelled, 2 are battery powered and 2 are LNG fuelled. With risks to the tanker demand still prevailing on the back of macroeconomic factors and high oil prices, the tanker market has witnessed significantly improved conditions in recent months, underpinned by shifts in trade patterns resulting in tonne-mile increase. Low stocks, paired with high refinery margins are expected to further boost trade growth in seaborne volumes and tonne-miles and contribute to the revival of an ageing fleet.
 
 On the dry front, contracting activity hit low levels, partly on the back of uncertainty over decarbonization trends. Current orderbook stands at 7% of the fleet capacity, marking a 30-year low, which suggests a very limited growth capacity. According to our records, 85 bulkers have been ordered during 1H22, of which 5 are LNG fuelled or dual-fuelled, 3 being ammonia-ready/fuelled and 25 meeting EEDI phase 3 standards. Overall, 14 % of the total orderbook are alternative fuel capable, with Capesize segment leading the decarbonization pathway.
 
@@ -26,7 +26,7 @@ Newbuilding ordering activity has further been supported by the recent spree in 
 
 The Capesize sector recovered a large share of its previous week's losses with its average T/C earnings closing off the week at the \$24,209/day mark. The rest of the sizes witnessed weak activity with Panamax market setting the negative tone. The BDI today (19/07/2022) closed at 2,145 points, up by 132 points compared to previous Tuesday's closing (12/07/2022). The sentiment was bullish across all the crude carrier sizes, with Suezmax n Aframax sectors significantly outperforming VLCC earnings. The BDTI today (19/07/2022) closed at 1,448, an increase of 75 points and the BCTI at 1,328, a decrease of 59 point compared to previous Tuesday's (12/07/2022) levels.
 
-## Sale &amp; Purchase (**Wet: Softer** / **Dry: Softer**)
+## Sale & Purchase (**Wet: Softer** / **Dry: Softer**)
 
 Subdued SnP activity materialized compared to the week prior with only a handful of dry bulk and tanker deals coming to light. In the tanker sector, we had the sale of the "SONGA CORAL" (107,081dwt-blt '05, Japan), which was sold to undisclosed buyers for a price in the region of \$25.0m. On the dry bulker side sector, we had the sale of the "DAYANG CONFIDENCE" (63,127dwt-blt '17, China), which was sold to undisclosed buyers, for a price in the region of \$30.0m.
 
@@ -127,7 +127,7 @@ VLCC T/C earnings averaged \$ -12,997/day, up + \$6,102/day w-o-w. A healthier U
 
 Suezmax T/C earnings averaged \$ 31,513/day, up + \$8,009/day w-o-w. The Med market witnessed the largest improvement with TD6 up by 35.89WS points w-o-w followed by a substantial rise in both W.Africa and Middle East markets with TD20 and TD23 increasing by 19.78WS and 22WS points respectively. Aframax T/C earnings \$ 43,543/day, up + \$14,214/day w-o-w. Med rates noted a substantial boost amidst an injection of CPC program coupled with the lift of Libyan force majeure which could further support the respective market in the coming week. A tight tonnage list consisting of owners willing to work Russian cargoes underpinned TD17 route which improved by 22.5WS points.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Shuttle tanker sector we had the sale of the "TORILL KNUTSEN" (123,166dwt-blt '13, S. Korea), which was sold to Japanese owner, Down Kisen for a price in the region of \$112.0m.
 
@@ -195,7 +195,7 @@ Supramax 10TC averaged \$ 22,968/day, down - 11.6% w-o-w, while the Handysize 7T
 | **Ultramax** | **63k** | 33.8 | 34.5 | -1.9% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 29.2 | 29.0 | 0.6% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Ultramax sector we had the sale of the "DAYANG CONFIDENCE" (63,127dwt-bl't '17, China), which was sold to undisclosed buyers, for a price in the region of \$30.0m.
 
@@ -210,25 +210,25 @@ In the Supramax sector we had the sale of the "OREO" (55,430dwt-bl't '08, Japan)
 
 | Sector | Size | Tankers | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SHUTTLE | TORILL KNUTSEN | 123,166 | 2013 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Nov-23 | DH | $ 112.0m | Japanese (Doun Kisen) | BWTS fitted, Shuttle, Ice 1C, refinancing exercise, incl 10-years BB back |
-| AFRA | SONGA CORAL | 107,081 | 2005 | KOYO MIHARA, Japan | B&amp;W | Jan-25 | DH | $ 25.0m | undisclosed | Scrubber fitted |
+| SHUTTLE | TORILL KNUTSEN | 123,166 | 2013 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Nov-23 | DH | $ 112.0m | Japanese (Doun Kisen) | BWTS fitted, Shuttle, Ice 1C, refinancing exercise, incl 10-years BB back |
+| AFRA | SONGA CORAL | 107,081 | 2005 | KOYO MIHARA, Japan | B&W | Jan-25 | DH | $ 25.0m | undisclosed | Scrubber fitted |
 | SMALL | CALLIOPE | 5,999 | 2012 | RONGCHENG SHENFEI, China | Hyundai Himsen |  | DH | $ 3.3m | Indonesian | bss "as is where is" |
-| SMALL | RHAEO RAPID | 13,224 | 2008 | JINSE, S. Korea | MAN-B&amp;W | Jul-23 | DH | $ 7.0m | undisclosed | BWTS not fitted |
+| SMALL | RHAEO RAPID | 13,224 | 2008 | JINSE, S. Korea | MAN-B&W | Jul-23 | DH | $ 7.0m | undisclosed | BWTS not fitted |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UMAX | DAYANG CONFIDENCE | 63,127 | 2017 | YANGZHOU DAYANG, China | MAN-B\&amp;W | May-27 | 4 X 35t CRANES | $ 30.0m | undisclosed | BWTS fitted |
-| SUPRA | SHUN XIN | 56,933 | 2010 | COSCO Zhoushan Shipyard Co Ltd | MAN-B\&amp;W | Jan-25 | 4 X 30t CRANES | high $ 16.0m | undisclosed | BWTS fitted |
-| SUPRA | OREO | 55,430 | 2008 | KAWASAKI, Japan | MAN-B\&amp;W | May-26 | 4 X 30,5t CRANES | $ 19.35m | Greek | BWTS fitted |
-| HANDY | JUN DE | 34,420 | 2011 | SPP, S. Korea | MAN-B\&amp;W | Nov-26 | 4 X 35t CRANES | $ 16.3m | Chinese | BWTS fitted, TC attached, Chinese flag, Tier II |
-| HANDY | ALTHEA | 24,999 | 1999 | IMABARI, Japan | B\&amp;W | Mar-24 | 3 X 30,5t CRANES | $ 8.1m | Turkish | BWTS due 07/2022, delivered |
+| UMAX | DAYANG CONFIDENCE | 63,127 | 2017 | YANGZHOU DAYANG, China | MAN-B&W | May-27 | 4 X 35t CRANES | $ 30.0m | undisclosed | BWTS fitted |
+| SUPRA | SHUN XIN | 56,933 | 2010 | COSCO Zhoushan Shipyard Co Ltd | MAN-B&W | Jan-25 | 4 X 30t CRANES | high $ 16.0m | undisclosed | BWTS fitted |
+| SUPRA | OREO | 55,430 | 2008 | KAWASAKI, Japan | MAN-B&W | May-26 | 4 X 30,5t CRANES | $ 19.35m | Greek | BWTS fitted |
+| HANDY | JUN DE | 34,420 | 2011 | SPP, S. Korea | MAN-B&W | Nov-26 | 4 X 35t CRANES | $ 16.3m | Chinese | BWTS fitted, TC attached, Chinese flag, Tier II |
+| HANDY | ALTHEA | 24,999 | 1999 | IMABARI, Japan | B&W | Mar-24 | 3 X 30,5t CRANES | $ 8.1m | Turkish | BWTS due 07/2022, delivered |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | AS SERAFINA | 1,713 | 2010 | CSBC, Taiwan | MAN-B&amp;W | Jun-25 | 2 X 40t CRANES | $ 33.0m | French (CMA CGM) | auction sale |
-| FEEDER | X-PRESS YAMUNA | 1,162 | 1998 | SZCZECINSKA STOCZNIA, Poland | B&amp;W | May-23 | 3 X 40t CRANES | undisclosed | Middle Eastern |  |
+| FEEDER | AS SERAFINA | 1,713 | 2010 | CSBC, Taiwan | MAN-B&W | Jun-25 | 2 X 40t CRANES | $ 33.0m | French (CMA CGM) | auction sale |
+| FEEDER | X-PRESS YAMUNA | 1,162 | 1998 | SZCZECINSKA STOCZNIA, Poland | B&W | May-23 | 3 X 40t CRANES | undisclosed | Middle Eastern |  |
 ## Secondhand Sales
 
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
@@ -299,6 +299,6 @@ Activity in the demolition front remained limited. A combination of the Eid fest
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | PACIFIC MARINE | 2,462 | 1,150 | 1979 | MURAKAMI HIDE, Japan | TANKER | undisclosed | Bangladeshi |
-| GOLD CLUB | 3,130 | 8,700 | 1977 | BURMEISTER &amp; WAIN'S SK, Denmark | PASSENGER | undisclosed | Turkish |
+| GOLD CLUB | 3,130 | 8,700 | 1977 | BURMEISTER & WAIN'S SK, Denmark | PASSENGER | undisclosed | Turkish |
 
 © Intermodal Research 19/07/2022 6

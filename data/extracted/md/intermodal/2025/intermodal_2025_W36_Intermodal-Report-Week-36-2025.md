@@ -154,7 +154,7 @@ Handysize ships saw broadly stable conditions. Modest gains were recorded in Eur
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SUEZ | JASMINE KNUTSEN | 148,644 | 2005 | SAMSUNG, S. Korea | B\&amp;W | May-25 | DH | $ 33.0m | undisclosed | Shuttle Tanker |
+| SUEZ | JASMINE KNUTSEN | 148,644 | 2005 | SAMSUNG, S. Korea | B&W | May-25 | DH | $ 33.0m | undisclosed | Shuttle Tanker |
 | MR2 | HAFNIA NORDICA | 53,520 | 2010 | SHIN KURUSHIMA, Japan | Mitsubishi | Mar-25 | DH | low $ 20.0m | undisclosed |  |
 | HANDY | CONDOR TRADER | 22,423 | 2016 | SHIN KURUSHIMA, Japan | Mitsubishi | Aug-26 | DH | $ 28.8m | Korean | StSt |
 | SMALL | EASTERN ORCHID | 13,498 | 2018 | ZHEJIANG, China | WinGD | Dec-28 | DH | $ 17.0m | undisclosed |  |
@@ -163,19 +163,19 @@ Handysize ships saw broadly stable conditions. Modest gains were recorded in Eur
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MINI CAPE | NBA RUBENS | 107,290 | 2011 | OSHIMA, Japan | Mitsubishi | Jan-26 |  | $ 15.0m | Greek |  |
-| KMAX | ULTRA JAGUAR | 81,922 | 2016 | TSUNEISHI ZHOUSHAN, China | MAN B\&amp;W | Jan-26 |  | low $ 24.0m | Indian | Eco |
-| KMAX | SILVER NAVIGATOR | 80,312 | 2011 | STX, S. Korea | MAN B\&amp;W | Jul-26 |  | $ 15.5m | undisclosed |  |
-| KMAX | ETERNAL BLISS | 82,071 | 2010 | TSUNEISHI, Japan | MAN B\&amp;W | Jan-30 |  | high $ 16.0m | Greek |  |
-| UMAX | JAL KALPAVRIKSH | 66,337 | 2021 | MITSUI, Japan | MAN B\&amp;W | Mar-26 | 4 X 30t CRANES | $ 32.55m each | Thai (Precious) | Eco |
-| UMAX | JAL KALPATARU | 66,264 | 2021 | MITSUI, Japan | MAN B\&amp;W | Jul-26 | 4 X 30t CRANES | $ 32.55m each | Thai (Precious) | Eco |
-| UMAX | PACIFIC ACE | 59,963 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&amp;W | Jan-27 | 4 X 30t CRANES | high $ 13.0m each | Malaysian |  |
-| UMAX | PACIFIC PRIDE | 59,944 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B\&amp;W | Aug-27 | 4 X 30t CRANES | high $ 13.0m each | Malaysian |  |
-| SUPRA | MARINOR | 56,784 | 2009 | JIANGSU HANTONG, China | MAN B\&amp;W | Jul-29 | 4 X 35t CRANES | high $ 10,0m | Chinese |  |
-| SUPRA | JIN RONG | 58,729 | 2008 | TSUNEISHI CEBU, Philippines | MAN B\&amp;W | Apr-28 | 4 X 30t CRANES | $ 11.9m | Chinese |  |
-| HANDY | STELLAR ARAGVI | 28,368 | 2014 | IMABARI, Japan | MAN B\&amp;W | Jan-29 | 4 X 30,5t CRANES | $ 12.5m | Indonesian |  |
-| HANDY | MYKONOS | 30,912 | 2013 | TSUJI, China | MAN B\&amp;W | Jul-28 | 4 X 30t CRANES | $ 22.0m | Turkish |  |
-| HANDY | MADRID | 30,900 | 2013 | TSUJI, China | MAN B\&amp;W | Jul-28 | 4 X 30t CRANES | $ 22.0m | Turkish |  |
-| HANDY | ZUDAR | 38,273 | 2011 | IMABARI, Japan | MAN B\&amp;W | Jan-26 | 4 X 30,5t CRANES | mid $ 13's | Greek | Semi Boxed |
+| KMAX | ULTRA JAGUAR | 81,922 | 2016 | TSUNEISHI ZHOUSHAN, China | MAN B&W | Jan-26 |  | low $ 24.0m | Indian | Eco |
+| KMAX | SILVER NAVIGATOR | 80,312 | 2011 | STX, S. Korea | MAN B&W | Jul-26 |  | $ 15.5m | undisclosed |  |
+| KMAX | ETERNAL BLISS | 82,071 | 2010 | TSUNEISHI, Japan | MAN B&W | Jan-30 |  | high $ 16.0m | Greek |  |
+| UMAX | JAL KALPAVRIKSH | 66,337 | 2021 | MITSUI, Japan | MAN B&W | Mar-26 | 4 X 30t CRANES | $ 32.55m each | Thai (Precious) | Eco |
+| UMAX | JAL KALPATARU | 66,264 | 2021 | MITSUI, Japan | MAN B&W | Jul-26 | 4 X 30t CRANES | $ 32.55m each | Thai (Precious) | Eco |
+| UMAX | PACIFIC ACE | 59,963 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B&W | Jan-27 | 4 X 30t CRANES | high $ 13.0m each | Malaysian |  |
+| UMAX | PACIFIC PRIDE | 59,944 | 2012 | HYUNDAI-VINASHIN, Vietnam | MAN-B&W | Aug-27 | 4 X 30t CRANES | high $ 13.0m each | Malaysian |  |
+| SUPRA | MARINOR | 56,784 | 2009 | JIANGSU HANTONG, China | MAN B&W | Jul-29 | 4 X 35t CRANES | high $ 10,0m | Chinese |  |
+| SUPRA | JIN RONG | 58,729 | 2008 | TSUNEISHI CEBU, Philippines | MAN B&W | Apr-28 | 4 X 30t CRANES | $ 11.9m | Chinese |  |
+| HANDY | STELLAR ARAGVI | 28,368 | 2014 | IMABARI, Japan | MAN B&W | Jan-29 | 4 X 30,5t CRANES | $ 12.5m | Indonesian |  |
+| HANDY | MYKONOS | 30,912 | 2013 | TSUJI, China | MAN B&W | Jul-28 | 4 X 30t CRANES | $ 22.0m | Turkish |  |
+| HANDY | MADRID | 30,900 | 2013 | TSUJI, China | MAN B&W | Jul-28 | 4 X 30t CRANES | $ 22.0m | Turkish |  |
+| HANDY | ZUDAR | 38,273 | 2011 | IMABARI, Japan | MAN B&W | Jan-26 | 4 X 30,5t CRANES | mid $ 13's | Greek | Semi Boxed |
 
 ---
 

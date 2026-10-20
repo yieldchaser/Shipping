@@ -18,11 +18,11 @@ Issue: Week 50 | Tuesday 21<sup>st</sup> December 2021
 
 As an outstanding year for the dry bulk freight market comes to a close, so does a thriving year for the SnP market which can only be compared to 2007 in terms of number of deals, registering a c. +60% y-o-y increase at approx. 740 deals YTD2021. On a quarterly basis, SnP interest varied, partly tracking the freight momentum in the different sizes with the geared bulkers taking over approx. 65% of the deals throughout the year.
 
-During Q1, Supramax Bulkers (Jan: 37.5%, Feb: 39%, Mar: 26.8% of total deals) were the best Sellers followed by the Handysize tonnage (Jan: 16%, Feb &amp; Mar: 22%). Panamax and Ultramax vessels hit their best in January 2021 (17% and 8% respectively) while Kamsarmax and Handymax in February (18,6% and 1,6% respectively). Finally, Capesize vessels were behind the Handysize in March 2021 (17%).
+During Q1, Supramax Bulkers (Jan: 37.5%, Feb: 39%, Mar: 26.8% of total deals) were the best Sellers followed by the Handysize tonnage (Jan: 16%, Feb & Mar: 22%). Panamax and Ultramax vessels hit their best in January 2021 (17% and 8% respectively) while Kamsarmax and Handymax in February (18,6% and 1,6% respectively). Finally, Capesize vessels were behind the Handysize in March 2021 (17%).
 
 The second Quarter began with the Capesize (20%) as best sellers, along with an inflection in Capesize rates, while Handysize vessels held the first place the next two months (May: 40%, Jun: 34%). Supramax and Panamax (Supramax: 33.8% and Panamax: 19.4%) were behind the Handysizes in May and June 2021 respectively. Kamsarmax and Ultramax bulkers held the third place in April and June 2021 respectively (Kamsarmax: 15.8% and Ultramax: 19.4%) while Handymax hit their best the last month of the quarter (3%).
 
-During the third quarter, Handysize were in the first place (Jul: 33.3%, Aug: 31.7%, Sep: 38%) followed by Supramaxes (Jul: 23.8%, Aug: 27%, Sep: 22%). Ultamax bulkers (19%) followed the Supramaxes in July 2021 while Capesizes were in the third place in August &amp; September 2021 (14% and 12%). Panamax (9.5%) &amp; Kamsarmax bulkers (10.8%) held the fourth place in July and September 2021 respectively while Handymax bulkers (4.7%) hit their best in August 2021.
+During the third quarter, Handysize were in the first place (Jul: 33.3%, Aug: 31.7%, Sep: 38%) followed by Supramaxes (Jul: 23.8%, Aug: 27%, Sep: 22%). Ultamax bulkers (19%) followed the Supramaxes in July 2021 while Capesizes were in the third place in August & September 2021 (14% and 12%). Panamax (9.5%) & Kamsarmax bulkers (10.8%) held the fourth place in July and September 2021 respectively while Handymax bulkers (4.7%) hit their best in August 2021.
 
 During the last quarter - up to date, Handysize were best Sellers the first two months (Oct: 32.5%, Nov: 26%) while Supramaxes (38.9%) the last one. Capesize (20%) followed the Handysizes in October 2021 while Kamsarmaxes and Ultramaxes were in the third place during the first-last and the second month of the quarter respectively (Kamsarmax: 15%, Ultramax: 26%). Panamaxes and Handymax vessels hit their best during the second month of the quarter (Panamax: 8.5%, Handymax: 3%).
 
@@ -30,7 +30,7 @@ During the last quarter - up to date, Handysize were best Sellers the first two 
 
 Capesize market underperformance paved the way for a sharp BDI decline. Panamax sector was also under pressure while geared sizes suffered minor decreases with both Supramax and Handysize T/C earnings ending up the week above their bigger counterparts. The BDI today (21/12/2021) closed at 2,294 down by 638 points compared to previous Tuesday's (14/12/2021) levels. The tanker SnP activity took a break last week with only a handful of units changing hands. On the other hand, Dry bulk secondhand activity was healthy with Handysize units almost monopolizing buyer's interest. The BDTI today (21/12/2021) closed at 801, an increase of 6 points, and the BCTI at 798, a decrease of 55 points compared to previous Tuesday's (14/11/2021) levels.
 
-## Sale &amp; Purchase (Wet: Softer / Dry: Stable+)
+## Sale & Purchase (Wet: Softer / Dry: Stable+)
 
 The tanker SnP activity took a break last week with only a handful of units changing hands. On the other hand, dry bulk secondhand activity was healthy with handysize units almost monopolizing buyers' interest. In the tanker sector, we had the sale of the "GUANABARA" (106,045dwt-blt '07, Japan), which was sold to Greek buyers for a price in the region of low \$16.0m. On the dry bulker side sector, we had the sale of the "BELOCEAN" (58,018dwt-blt '11, China), which was sold to German buyers for a price in the region of \$19.6m.
 
@@ -128,7 +128,7 @@ VLCC T/C earnings averaged \$ -9,067/day, up + \$409/day, and closed off the wee
 
 Suezmax T/C earnings averaged \$ 8,532/day, up + \$1,786/day w-o-w. West Africa market saw substantial discounts with TD20 closing the week down by 14.04WS points w-o-w. Med market was under pressure as well, albeit to a lesser extent with TD6 losing 4.61WS points w-o-w. Aframax T/C earnings averaged \$ 10,809/day, up + \$2,922/day w-o-w. The Baltic/UKC market set the positive tone with TD7 and TD17 routes increasing by 10.63WS and 28.75WS points w-o-w respectively. TD19 Cross-Med business trip improved by 8.25WS points while USG market was the negative exception with TD9 falling 18.12WS points.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Aframax sector we had the sale of the "GUANABARA" (106,045dwt-blt '07, Japan), which was sold to Greek buyers for a price in the region of low \$16.0m.
 
@@ -197,7 +197,7 @@ Supramax 10TC averaged approx. \$27,779/day up +0.6% w-o-w, with the Atlantic co
 | **Ultramax** | **63k** | 30.5 | 31.0 | -1.6% | 19.4 | 23.1 | - |
 | **Handysize** | **37K** | 26.0 | 26.0 | 0.0% | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Supramax sector we had the sale of the "BELOCEAN" (58,018dwt-blt '11, China), which was sold to German buyers for a price in the region of \$19.6m.
 
@@ -214,31 +214,31 @@ In the Handysize sector we had the sale of the "DD VANGUARD" (26,479dwt-blt '07,
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR2 | PROSKY | 115,643 | 2019 | DAEHAN, S. Korea | MAN-B\&amp;W | Jan-24 | DH | $ 52.0m | Greek (Neda) | incl. balance TC to Shell for 6+6 months + profit share |
-| AFRA | GUANABARA | 106,045 | 2007 | TSUNEISHI, Japan | MAN-B\&amp;W | Jun-22 | DH | low $ 16.0m | Greek |  |
+| LR2 | PROSKY | 115,643 | 2019 | DAEHAN, S. Korea | MAN-B&W | Jan-24 | DH | $ 52.0m | Greek (Neda) | incl. balance TC to Shell for 6+6 months + profit share |
+| AFRA | GUANABARA | 106,045 | 2007 | TSUNEISHI, Japan | MAN-B&W | Jun-22 | DH | low $ 16.0m | Greek |  |
 | MR2 | TARGALE | 52,660 | 2007 | BRODOGRADILISTE, Croatia | Wartsila | Oct-25 | DH | $ 14.2m | undisclosed | BWTS fitted |
-| MR2 | OCEAN PLUTO | 50,359 | 2007 | SLS, S. Korea | MAN-B\&amp;W | Jul-22 | DH | $ 9.6m | Hong Kong based (EGPN) | judicial sale, pumproom |
-| MR2 | BIENDONG VICTORY | 47,084 | 2001 | ONOMICHI, Japan | B\&amp;W | Dec-21 | DH | $ 6.25m | U.A.E. based (Emirates Shipping) |  |
+| MR2 | OCEAN PLUTO | 50,359 | 2007 | SLS, S. Korea | MAN-B&W | Jul-22 | DH | $ 9.6m | Hong Kong based (EGPN) | judicial sale, pumproom |
+| MR2 | BIENDONG VICTORY | 47,084 | 2001 | ONOMICHI, Japan | B&W | Dec-21 | DH | $ 6.25m | U.A.E. based (Emirates Shipping) |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KMAX | ATLANTIC LEGEND | 83,685 | 2009 | SANOYAS, Japan | MAN-B\&amp;W | May-26 |  | rgn-xs $ 18.0m | undisclosed | BWTS fitted, incl. TC attached at USD 16,500 p/d until April-July 2022 |
-| SUPRA | BELOCEAN | 58,018 | 2011 | YANGZHOU DAYANG, China | MAN-B\&amp;W | Mar-26 | 4 X 35t CRANES | $ 19.6m | German | SS/DD passed and BWTS fitted |
-| HANDY | BERGE TARANAKI | 36,896 | 2019 | OSHIMA, Japan | MAN-B\&amp;W | Apr-24 | 4 X 30t CRANES | $ 27.0m | undisclosed |  |
-| HANDY | NORDRUBICON | 37,985 | 2016 | OUHUA, China | MAN-B\&amp;W | Jan-26 | 4 X 30t CRANES | $ 42.8m | U.A.E. based |  |
-| HANDY | NORDCOLORADO | 37,976 | 2016 | OUHUA, China | MAN-B\&amp;W | Aug-26 | 4 X 30t CRANES | $ 42.8m | U.A.E. based |  |
-| HANDY | MELBOURNE SPIRIT | 35,573 | 2013 | QINGSHAN, China | MAN-B\&amp;W | Nov-23 | 4 X 30t CRANES | rgn $ 27.0m | European |  |
-| HANDY | BOXY | 34,148 | 2012 | DAE SUN, S. Korea | MAN-B\&amp;W | Mar-22 | 4 X 30t CRANES | rgn $ 15,.5m | undisclosed | Tier II, BWTS fitted |
-| HANDY | DD VANGUARD | 26,479 | 2007 | SUNGDONG, S. Korea | MAN-B\&amp;W | Aug-22 | 4 X 30t CRANES | $ 12.0m | Turkish | basis waiving inspection |
+| KMAX | ATLANTIC LEGEND | 83,685 | 2009 | SANOYAS, Japan | MAN-B&W | May-26 |  | rgn-xs $ 18.0m | undisclosed | BWTS fitted, incl. TC attached at USD 16,500 p/d until April-July 2022 |
+| SUPRA | BELOCEAN | 58,018 | 2011 | YANGZHOU DAYANG, China | MAN-B&W | Mar-26 | 4 X 35t CRANES | $ 19.6m | German | SS/DD passed and BWTS fitted |
+| HANDY | BERGE TARANAKI | 36,896 | 2019 | OSHIMA, Japan | MAN-B&W | Apr-24 | 4 X 30t CRANES | $ 27.0m | undisclosed |  |
+| HANDY | NORDRUBICON | 37,985 | 2016 | OUHUA, China | MAN-B&W | Jan-26 | 4 X 30t CRANES | $ 42.8m | U.A.E. based |  |
+| HANDY | NORDCOLORADO | 37,976 | 2016 | OUHUA, China | MAN-B&W | Aug-26 | 4 X 30t CRANES | $ 42.8m | U.A.E. based |  |
+| HANDY | MELBOURNE SPIRIT | 35,573 | 2013 | QINGSHAN, China | MAN-B&W | Nov-23 | 4 X 30t CRANES | rgn $ 27.0m | European |  |
+| HANDY | BOXY | 34,148 | 2012 | DAE SUN, S. Korea | MAN-B&W | Mar-22 | 4 X 30t CRANES | rgn $ 15,.5m | undisclosed | Tier II, BWTS fitted |
+| HANDY | DD VANGUARD | 26,479 | 2007 | SUNGDONG, S. Korea | MAN-B&W | Aug-22 | 4 X 30t CRANES | $ 12.0m | Turkish | basis waiving inspection |
 | HANDY | UBC SACRAMENTO | 31,773 | 2001 | SAIKI, Japan | Mitsubishi | Nov-26 | 4 X 30t CRANES | $ 21.0m | undisclosed |  |
 | HANDY | UBC SYDNEY | 31,759 | 2001 | SAIKI, Japan | Mitsubishi | May-26 | 4 X 30t CRANES | $ 21.0m | undisclosed |  |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | REN JIAN ER | 1,684 | 1994 | SCHICHAU SEEBEECKWERFT, Germany | B\&amp;W | Dec-24 |  | $ 7.2m | Chinese |  |
-| FEEDER | MEKONG SPIRIT | 1,042 | 1996 | SZCZECINSKA STOCZNIA, Poland | B\&amp;W | Nov-16 | 2 X 40t CRANES | $ 4.46m | Russian | auction sale, laid up since 2017 |
+| FEEDER | REN JIAN ER | 1,684 | 1994 | SCHICHAU SEEBEECKWERFT, Germany | B&W | Dec-24 |  | $ 7.2m | Chinese |  |
+| FEEDER | MEKONG SPIRIT | 1,042 | 1996 | SZCZECINSKA STOCZNIA, Poland | B&W | Nov-16 | 2 X 40t CRANES | $ 4.46m | Russian | auction sale, laid up since 2017 |
 
 © Intermodal Research 21/12/2021 4
 
@@ -304,7 +304,7 @@ The demolition prices have stabilized during the past days amidst a continuing s
 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SEA LATITUDE | 309,285 | 43,705 | 2001 | HYUNDAI ULSAN, S. Korea | TANKER | $ 571/Ldt | undisclosed | delivery as-is Batam, incl. additional payment for bunkers &amp; lubes |
+| SEA LATITUDE | 309,285 | 43,705 | 2001 | HYUNDAI ULSAN, S. Korea | TANKER | $ 571/Ldt | undisclosed | delivery as-is Batam, incl. additional payment for bunkers & lubes |
 | QUBAA | 106,681 | 16,688 | 1998 | KOYO MIHARA, Japan | TANKER | undisclosed | undisclosed | sub-cont options |
 | BANDA SEA | 22,239 | 10,571 | 1982 | MITSUBISHI, Japan | RORO | $ 440/Ldt | undisclosed | as-is USA |
 

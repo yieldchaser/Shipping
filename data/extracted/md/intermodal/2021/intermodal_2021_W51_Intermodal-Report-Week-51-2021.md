@@ -26,7 +26,7 @@ Overall, the easing of inflation expected by lead macro analysts from 2H2022 mea
 
 With the exception of the Panamax size which ended up the week with gains, the rest of the sizes witnessed discounts with Capesize sector suffering the most. The BDI today (28/12/2021) closed at 2,217 down by 77 points compared to previous Tuesday's (21/12/2021) levels. This year is ending with pressure being visible across all regions in the crude carrier sector. The BDTI today (28/12/2021) closed at 786, a decrease of 15 points, and the BCTI at 788, a decrease of 10 points compared to previous Tuesday's (21/11/2021) levels.
 
-## Sale &amp; Purchase (**Wet: Softer / Dry: Stable+**)
+## Sale & Purchase (**Wet: Softer / Dry: Stable+**)
 
 The secondhand market followed the same momentum of the previous week. A small number of tanker SnP deals took place with the owners focusing on the dry bulk sector. In the tanker sector, In the LR2 sector we had the sale of the "**PROSTAR**" (115,643dwt-blt '19, S. Korea), which was sold to Greek buyers for a price in the region of \$52.0m. On the dry bulker side sector, we had the sale of the "**SAKURA**" (229,069dwt-blt '10, Japan), which was sold to Singapore based owner, Winning for a price in the region of \$23.5m.
 
@@ -125,7 +125,7 @@ VLCC T/C earnings averaged \$ -7602/day, up + \$1,465/day, and closed off the we
 
 Suezmax T/C earnings averaged \$ 4,689/day, down - \$3,843/day. West Africa market set the negative tone, with TD20 losing 6.41WS points w-o-w. Aframax T/C earnings averaged \$ 10,689/day, down - \$120/day. Rates for trips out of the Baltic/UKC region were steady, Med has lost some ground amid an injection of failed vessels due to the Force Majeure in two Libyan ports, while TD9 Caribs/USG business route suffered significant discounts of 25.63WS points w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the LR2 sector we had the sale of the "PROSTAR" (115,643dwt-blt '19, S. Korea), which was sold to Greek buyers for a price in the region of \$52.0m.
 
@@ -190,7 +190,7 @@ Supramax 10TC averaged approx. \$25,845/day down -7.0% w-o-w, with the Atlantic 
 | Ultramax | 63k | 30.5 | 31.0 | -1.6% | 19.4 | 23.1 | - |
 | Handysize | 37K | 26.0 | 26.0 | 0.0% | 16.1 | 17.9 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLOC sector we had the sale of the "SAKURA" (229,069dwt-blt '10, Japan), which was sold to Singapore based owner, Winning for a price in the region of \$23.5m.
 
@@ -205,32 +205,32 @@ In the Panamax sector we had the sale of the "SCORPIO" (74,930dwt-blt '12, Japan
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LR2 | PROSTAR | 115,643 | 2019 | DAEHAN, S. Korea | MAN-B&amp;W | Jan-24 | DH | $ 52.0m | Greek |
-| MR2 | DONG-A TRITON | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jan-25 | DH | $ 30.0m | U.K. based (Tufton Oceanic) |
-| MR2 | DONG-A THEMIS | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Jan-25 | DH | $ 30.0m | U.K. based (Tufton Oceanic) |
-| MR2 | DONG-A KRIOS | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN-B&amp;W | Apr-25 | DH | $ 30m | U.K. based (Tufton Oceanic) |
+| LR2 | PROSTAR | 115,643 | 2019 | DAEHAN, S. Korea | MAN-B&W | Jan-24 | DH | $ 52.0m | Greek |
+| MR2 | DONG-A TRITON | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-25 | DH | $ 30.0m | U.K. based (Tufton Oceanic) |
+| MR2 | DONG-A THEMIS | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-25 | DH | $ 30.0m | U.K. based (Tufton Oceanic) |
+| MR2 | DONG-A KRIOS | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN-B&W | Apr-25 | DH | $ 30m | U.K. based (Tufton Oceanic) |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLOC | SAKURA | 229,069 | 2010 | NAMURA, Japan | Mitsubishi | Aug-22 |  | $ 23.5m | Singapore based (Winning) |  |
-| POST PMAX | LOWLANDS LIGHT | 87,605 | 2017 | OSHIMA, Japan | MAN-B\&amp;W | Jan-22 |  | high $ 32.0m | undisclosed | BWTS fitted |
-| POST PMAX | JIN QI | 93,079 | 2012 | Jiangsu Jinling, China | MAN-B\&amp;W | Mar-22 |  | $ 17.34m | Hong Kong based | online commercial auction |
+| POST PMAX | LOWLANDS LIGHT | 87,605 | 2017 | OSHIMA, Japan | MAN-B&W | Jan-22 |  | high $ 32.0m | undisclosed | BWTS fitted |
+| POST PMAX | JIN QI | 93,079 | 2012 | Jiangsu Jinling, China | MAN-B&W | Mar-22 |  | $ 17.34m | Hong Kong based | online commercial auction |
 | KMAX | ORIENT UNION | 79,754 | 2011 | FUJIAN CROWN OCEAN, China | Wartsila | Aug-26 |  | $ 17.5m | Chinese | BWTS fitted |
-| PMAX | SCORPIO | 74,930 | 2012 | SASEBO, Japan | MAN-B\&amp;W | Dec-21 |  | $ 23.55m | Greek (Castor) | basis delivery after completing ongoing Drydock with BWTS installed |
-| SUPRA | JIN TAO | 56,731 | 2012 | QINGSHAN, China | MAN-B\&amp;W | Jun-22 | 4 X 30t CRANES | $ 16.06m | Chinese | online commercial auction |
-| HANDY | XING JING HAI | 34,443 | 2015 | NAMURA, Japan | MAN-B\&amp;W | Jul-25 | 4 X 30t CRANES | excess $ 22.0m | undisclosed |  |
-| HANDY | XING YUAN HAI | 34,443 | 2015 | NAMURA, Japan | MAN-B\&amp;W | Dec-25 | 4 X 30t CRANES | excess $ 22.0m | undisclosed |  |
-| HANDY | CRIMSON PRINCESS | 38,395 | 2012 | NAIKAI ZOSEN, Japan | MAN-B\&amp;W | Jun-22 | 4 X 30t CRANES | $ 19.5m | undisclosed |  |
+| PMAX | SCORPIO | 74,930 | 2012 | SASEBO, Japan | MAN-B&W | Dec-21 |  | $ 23.55m | Greek (Castor) | basis delivery after completing ongoing Drydock with BWTS installed |
+| SUPRA | JIN TAO | 56,731 | 2012 | QINGSHAN, China | MAN-B&W | Jun-22 | 4 X 30t CRANES | $ 16.06m | Chinese | online commercial auction |
+| HANDY | XING JING HAI | 34,443 | 2015 | NAMURA, Japan | MAN-B&W | Jul-25 | 4 X 30t CRANES | excess $ 22.0m | undisclosed |  |
+| HANDY | XING YUAN HAI | 34,443 | 2015 | NAMURA, Japan | MAN-B&W | Dec-25 | 4 X 30t CRANES | excess $ 22.0m | undisclosed |  |
+| HANDY | CRIMSON PRINCESS | 38,395 | 2012 | NAIKAI ZOSEN, Japan | MAN-B&W | Jun-22 | 4 X 30t CRANES | $ 19.5m | undisclosed |  |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | CAROLINA TRADER | 2,782 | 2017 | Jiangsu Newyangzi, China | MAN-B\&amp;W | Sep-22 |  | around $ 48.5m | Taiwanese (Wan Hai Lines) |
-| FEEDER | CALIFORNIA TRADER | 2,782 | 2017 | Jiangsu Newyangzi, China | MAN-B\&amp;W | Sep-22 |  | around $ 48.5m | Taiwanese (Wan Hai Lines) |
-| FEEDER | DELAWARE TRADER | 2,782 | 2018 | Guangzhou Wenchong, China | MAN-B\&amp;W | Jun-23 |  | around $ 48.5m | Taiwanese (Wan Hai Lines) |
-| FEEDER | MCC CHITTAGONG | 2,548 | 2016 | OUHUA, China | MAN-B\&amp;W | Oct-26 | 3 X 45t CRANES | undisclosed | Danish (Maersk) |
-| FEEDER | MCC NINGBO | 2,548 | 2016 | OUHUA, China | MAN-B\&amp;W | Aug-21 | 3 X 45t CRANES | undisclosed | Danish (Maersk) |
+| FEEDER | CAROLINA TRADER | 2,782 | 2017 | Jiangsu Newyangzi, China | MAN-B&W | Sep-22 |  | around $ 48.5m | Taiwanese (Wan Hai Lines) |
+| FEEDER | CALIFORNIA TRADER | 2,782 | 2017 | Jiangsu Newyangzi, China | MAN-B&W | Sep-22 |  | around $ 48.5m | Taiwanese (Wan Hai Lines) |
+| FEEDER | DELAWARE TRADER | 2,782 | 2018 | Guangzhou Wenchong, China | MAN-B&W | Jun-23 |  | around $ 48.5m | Taiwanese (Wan Hai Lines) |
+| FEEDER | MCC CHITTAGONG | 2,548 | 2016 | OUHUA, China | MAN-B&W | Oct-26 | 3 X 45t CRANES | undisclosed | Danish (Maersk) |
+| FEEDER | MCC NINGBO | 2,548 | 2016 | OUHUA, China | MAN-B&W | Aug-21 | 3 X 45t CRANES | undisclosed | Danish (Maersk) |
 
 © Intermodal Research 28/12/2021 4
 

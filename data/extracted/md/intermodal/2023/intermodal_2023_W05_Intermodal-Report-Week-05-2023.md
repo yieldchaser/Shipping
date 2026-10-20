@@ -16,7 +16,7 @@ Issue: Week 05 | Tuesday 07<sup>th</sup> February 2023
 
 With the Western sanctions on Russia's oil products in full effect and a gloomy economic outlook for 2023, one can wonder how challenging will this year be for the CPP market. During the 2H2022 we witnessed severe shortages of diesel globally, with US inventories depleting to 106m bbls on Oct.7th (a 40-year low), EU distillate inventories dropping to 360m bbls (18-year low) and Singapore inventories falling to 8m bbls (a 15-year low), as a result of the rapid fuel consumption amid the economic recovery post-pandemic. And despite the slight recovery toward the end of 2022 as of China's resumption of diesel exports and a slowdown in the global business cycle, global diesel inventories still remain below the 10-year average, hence reflecting the lack of spare capacity. In 2023, western sanctions on Russia's exports, the recovery of China's manufacturing, and the normalization of China's air travel will once again stretch supplies.
 
-In the US, inventories are currently at 118m bbls, which is 17% below the 10-year avg, a figure still critically low. In the meantime, US manufacturing activity is in full recession. According to the latest report from the Institute for Supply Management, the purchasing managers' index slipped to 47.4 in January from 48.4 in December, while in Jan-2022 it equalled to 57.6. This translates into weak demand since the use of diesel and other distillates is highly correlated with the business cycle. Yet, if a full recession will be avoided and manufacturing activity normalizes within the year, shortages will re-emerge and prices will spike again triggering inflation. In the EU, supply concerns have slightly eased as traders rushed to fill tanks ahead of the ban. EU's imports of diesel surged to 8.38m tons in December and have remained elevated in January, at 8.36m tons. Gasoil stocks in ARA region are currently 2.3m tons, at their highest since July-2021. In China, diesel exports have been accelerated following the latest two export quotas (Sep-2022 &amp; Jan-2023) issued by the government to boost the economy. In 2021 and 2022, the country's reduced exports have contributed to the depletion of global diesel inventories and led to unusually high margins for refiners in the rest of the world. However, the near record-exports (2.8m tons in December) since the granting of the quotas paired with the slow-down in the global economy, have begun to replenish global distillate stocks. And while the 2nd batch of quotas will ensure elevated exports and increased diesel availability globally during 1H2023, the much anticipated full recovery of the country's economy and manufacturing activity will restrict exports and reduce availability in the 2H2023.
+In the US, inventories are currently at 118m bbls, which is 17% below the 10-year avg, a figure still critically low. In the meantime, US manufacturing activity is in full recession. According to the latest report from the Institute for Supply Management, the purchasing managers' index slipped to 47.4 in January from 48.4 in December, while in Jan-2022 it equalled to 57.6. This translates into weak demand since the use of diesel and other distillates is highly correlated with the business cycle. Yet, if a full recession will be avoided and manufacturing activity normalizes within the year, shortages will re-emerge and prices will spike again triggering inflation. In the EU, supply concerns have slightly eased as traders rushed to fill tanks ahead of the ban. EU's imports of diesel surged to 8.38m tons in December and have remained elevated in January, at 8.36m tons. Gasoil stocks in ARA region are currently 2.3m tons, at their highest since July-2021. In China, diesel exports have been accelerated following the latest two export quotas (Sep-2022 & Jan-2023) issued by the government to boost the economy. In 2021 and 2022, the country's reduced exports have contributed to the depletion of global diesel inventories and led to unusually high margins for refiners in the rest of the world. However, the near record-exports (2.8m tons in December) since the granting of the quotas paired with the slow-down in the global economy, have begun to replenish global distillate stocks. And while the 2nd batch of quotas will ensure elevated exports and increased diesel availability globally during 1H2023, the much anticipated full recovery of the country's economy and manufacturing activity will restrict exports and reduce availability in the 2H2023.
 
 Seaborne-wise, the current market fundamentals exacerbate uncertainty through 2023. In the 2H2022 CPP ton miles have surged as of the elevated diesel exports, mainly led by China's increased output and EU's increased demand ahead of the ban on Russian oil products. In 1Q2023 ton miles will remain elevated, however, we expect to see a drop in export volumes driven by reduced Chinese exports, which will also exert downward pressure on freight rates. MRs which have increasingly benefited in 4Q2022 from China's record exports, have seen their demand cooling in January as China's domestic demand is on track for recovery. In the Atlantic, MR demand will remain muted amid low US distillate stocks and upcoming refinery maintenance. In addition, MRs previously serving the Russia to Europe route will now enter the Atlantic and Pacific basins, causing a supply glut. LR's will also be pressured from China's lower exports towards the 2H2023. However, EU's diesel diversification will underpin demand for LR2's. Overall, volatility will prevail in the clean tanker market in 2023 and LR2s will likely benefit most amid the ban on Russian CPP exports. However, a possible contraction of Chinese diesel exports in the coming months could lead to excess tanker supply. Yet, a surge in non-diesel product exports, such as jet fuel, could provide support to the CPP market and contribute to balance freights.
 
@@ -24,7 +24,7 @@ Seaborne-wise, the current market fundamentals exacerbate uncertainty through 20
 
 Unable to shake off the pressure of the past weeks, rates for the dry bulk sector succumbed to further pressure last week. The BDI today (07/01/2023) closed at 601 points, down by 80 points compared to previous Tuesday's closing (31/01/2023). A mixed picture emerged in the crude carrier market. VLCC sector noted a slightly stronger week, followed by a weaker Suezmax and Aframax market performance. The BDTI today (07/01/2023) closed at 1,218, a decrease of 75 points and the BCTI at 663, an increase of 20 points compared to previous Tuesday's (31/01/2023) levels.
 
-## Sale &amp; Purchase (Wet: <mark>Firmer</mark> / Dry: <mark>Firmer</mark>)
+## Sale & Purchase (Wet: <mark>Firmer</mark> / Dry: <mark>Firmer</mark>)
 
 SnP transactions saw increased volumes across both the dry bulk and tanker realms. In the tanker sector, we had the auction sale of the "ARZOYI" (299,152dwt-blt '02, Japan), which was sold to Chinese buyers, for a price in the region of \$26.7m. On the dry bulker side sector, we had the sale of the "SERENITAS N" (56,811dwt-blt '11, China), which was sold to Greek buyers, for a price in the region of \$12.5m.
 
@@ -122,7 +122,7 @@ VLCC T/C earnings averaged \$ 12,118/day, up +\$3,390/day w-o-w and closed off t
 Suezmax T/C earnings averaged \$ 69,121/day, down - \$16,387/day w-o-w.
 On the Aframax front, T/C earnings averaged \$ 55,236/day, down - \$3,418/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the auction sale of the "ARZOYI" (299,152dwt-blt '02, Japan), which was sold to Chinese buyers, for a price in the region of \$26.7m.
 
@@ -188,7 +188,7 @@ Supramax 10TC averaged \$ 7,424/day, up + 4.25% w-o-w, while the Handysize 7TC a
 | **Ultramax** | **63k** | 28.0 | 28.0 | 0.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.0 | 24.0 | 0.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "THALASSINI ASTRID" (179,816dwt-blt '14, China), which was sold to UAE owner Tomini, for a price in the region of \$34.0m.
 
@@ -206,28 +206,28 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | UBUNTU UNITY | 190,000 | 2023 | SHANGHAI WAIGAOQIAO, China | Wartsila |  |  | undisclosed | Greek (Maran Dry) | DF LNG, Incl. long TC attached, dely Q1 2023 |
 | CAPE | UBUNTU COMMUNITY | 190,000 | 2023 | SHANGHAI WAIGAOQIAO, China | Wartsila |  |  | undisclosed | Greek (Maran Dry) | DF LNG, Incl. long TC attached, dely Q1 2023 |
-| CAPE | THALASSINI ASTRID | 179,816 | 2014 | TIANJIN XINGANG, China | MAN-B\&amp;W | Mar-24 |  | $ 34.0m | UAE based (Tomini) | Scrubber fitted, Eco |
-| KMAX | LIBERTY K | 82,217 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B\&amp;W | Jan-25 |  | $ 19.3m | Greek | BWTS fitted |
-| KMAX | HAMPTON BAY | 81,508 | 2009 | UNIVERSAL, Japan | MAN-B\&amp;W | Mar-24 |  | $ 19.8m | Greek | BWTS fitted |
-| PMAX | OCEANIC POWER | 78,173 | 2013 | SHIN KURUSHIMA, Japan | MAN-B\&amp;W | Apr-23 |  | $ 23.5m | Greek | BWTS fitted, bss 18-month BBHP structure |
-| PMAX | NAVIOS LIBERTAS | 75,511 | 2007 | STX, S. Korea | MAN-B\&amp;W | Aug-27 |  | $ 13.80m | undisclosed | BWTS fitted |
-| UMAX | SPRINGFIELD | 63,614 | 2020 | COSCO YANGZHOU, China | MAN-B\&amp;W | Mar-25 | 4 X 30t CRANES | $ 30.75m | undisclosed | BWTS &amp; Scrubber fitted, Incl. TC attached |
+| CAPE | THALASSINI ASTRID | 179,816 | 2014 | TIANJIN XINGANG, China | MAN-B&W | Mar-24 |  | $ 34.0m | UAE based (Tomini) | Scrubber fitted, Eco |
+| KMAX | LIBERTY K | 82,217 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Jan-25 |  | $ 19.3m | Greek | BWTS fitted |
+| KMAX | HAMPTON BAY | 81,508 | 2009 | UNIVERSAL, Japan | MAN-B&W | Mar-24 |  | $ 19.8m | Greek | BWTS fitted |
+| PMAX | OCEANIC POWER | 78,173 | 2013 | SHIN KURUSHIMA, Japan | MAN-B&W | Apr-23 |  | $ 23.5m | Greek | BWTS fitted, bss 18-month BBHP structure |
+| PMAX | NAVIOS LIBERTAS | 75,511 | 2007 | STX, S. Korea | MAN-B&W | Aug-27 |  | $ 13.80m | undisclosed | BWTS fitted |
+| UMAX | SPRINGFIELD | 63,614 | 2020 | COSCO YANGZHOU, China | MAN-B&W | Mar-25 | 4 X 30t CRANES | $ 30.75m | undisclosed | BWTS & Scrubber fitted, Incl. TC attached |
 | SUPRA | SERENITAS N | 56,811 | 2011 | YANGZHOU GUOYU, China | Wartsila | Jul-26 | 4 X 30t CRANES | $ 12.5m | Greek | BWTS fitted |
-| HANDY | VENTURE OCEAN | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B\&amp;W | Oct-25 | 4 X 30,5t CRANES | rgn $ 18.5m | Italian | BWTS fitted, bss dely March 2023 |
+| HANDY | VENTURE OCEAN | 38,947 | 2015 | JIANGMEN NANYANG, China | MAN-B&W | Oct-25 | 4 X 30,5t CRANES | rgn $ 18.5m | Italian | BWTS fitted, bss dely March 2023 |
 | HANDY | LAVIEEN ROSE | 33,398 | 2014 | SHIN KURUSHIMA, Japan | Mitsubishi | Oct-24 | 4 X 30t CRANES | low/mid $ 17.0m | undisclosed | OHBS, bss index linked TC back |
-| HANDY | AS ELENIA | 34,421 | 2011 | SPP, S. Korea | MAN-B\&amp;W | Sep-26 | 4 X 35t CRANES | $ 13.3m | Turkish | BWTS fitted |
-| HANDY | PAXI | 28,734 | 2010 | IMABARI, Japan | MAN-B\&amp;W | May-25 | 4 X 30,5t CRANES | undisclosed | undisclosed | BWTS fitted |
+| HANDY | AS ELENIA | 34,421 | 2011 | SPP, S. Korea | MAN-B&W | Sep-26 | 4 X 35t CRANES | $ 13.3m | Turkish | BWTS fitted |
+| HANDY | PAXI | 28,734 | 2010 | IMABARI, Japan | MAN-B&W | May-25 | 4 X 30,5t CRANES | undisclosed | undisclosed | BWTS fitted |
 ## Containers
 
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PMAX | RIO CENTAURUS | 3,426 | 2010 | NORDSEEWERKE, Germany | MAN-B\&amp;W | Jul-25 |  | $ 18.9m | Norwegian | Scrubber fitted, Incl. TC attached, Ice Class II |
-| SUB PMAX | TRF KAYA | 2,824 | 2007 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-22 |  | $ 15.0m | Norwegian | BWTS &amp; Scrubber fitted, Incl. TC attached |
-| SUB PMAX | NORTHERN VIVACITY | 2,742 | 2005 | AKER MTW WERFT, Germany | B\&amp;W | Sep-25 |  | $ 13.0m | undisclosed | Ice Class II |
-| SUB PMAX | NORTHERN VOLITION | 2,742 | 2005 | AKER MTW WERFT, Germany | B\&amp;W | Nov-25 |  | $ 13.0m | undisclosed | Ice Class II |
-| FEEDER | TS YOKOHAMA | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B\&amp;W | Nov-24 |  | $ 40.0m | European | BWTS fitted |
-| FEEDER | TS SHANGHAI | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B\&amp;W | Aug-24 |  | $ 40.0m | European | BWTS fitted |
-| FEEDER | TS MOJI | 962 | 2006 | DAE SUN, S. Korea | MAN-B\&amp;W | Dec-26 |  | $ 40.0m | European | BWTS fitted |
+| PMAX | RIO CENTAURUS | 3,426 | 2010 | NORDSEEWERKE, Germany | MAN-B&W | Jul-25 |  | $ 18.9m | Norwegian | Scrubber fitted, Incl. TC attached, Ice Class II |
+| SUB PMAX | TRF KAYA | 2,824 | 2007 | HYUNDAI, S. Korea | MAN-B&W | Jul-22 |  | $ 15.0m | Norwegian | BWTS & Scrubber fitted, Incl. TC attached |
+| SUB PMAX | NORTHERN VIVACITY | 2,742 | 2005 | AKER MTW WERFT, Germany | B&W | Sep-25 |  | $ 13.0m | undisclosed | Ice Class II |
+| SUB PMAX | NORTHERN VOLITION | 2,742 | 2005 | AKER MTW WERFT, Germany | B&W | Nov-25 |  | $ 13.0m | undisclosed | Ice Class II |
+| FEEDER | TS YOKOHAMA | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B&W | Nov-24 |  | $ 40.0m | European | BWTS fitted |
+| FEEDER | TS SHANGHAI | 1,096 | 2019 | KYOKUYO ZOSEN, Japan | MAN-B&W | Aug-24 |  | $ 40.0m | European | BWTS fitted |
+| FEEDER | TS MOJI | 962 | 2006 | DAE SUN, S. Korea | MAN-B&W | Dec-26 |  | $ 40.0m | European | BWTS fitted |
 
 © Intermodal Research 08/02/2023 4
 
@@ -238,22 +238,22 @@ In the Supramax sector we had the sale of the "SERENITAS N" (56,811dwt-blt '11, 
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | ARZOYI | 299,152 | 2002 | HITACHI ZOSEN, Japan | B\&amp;W | Mar-22 | DH | $ 26.7m | Chinese | BWTS &amp; Scrubber fitted auction sale, non classed &amp; laid up |
-| LR2 | AETHER | 113,849 | 2007 | DAEWOO, S. Korea | MAN-B\&amp;W | Oct-22 | DH | $ 37.0m | Middle Eastern | BWTS fitted, uncoiled |
-| AFRA | ATLANTIS | 105,400 | 2008 | SUMITOMO, Japan | MAN-B\&amp;W | Sep-23 | DH | high $ 30's | Greek |  |
-| LR1 | HAFNIA COLUMBIA | 76,604 | 2007 | DALIAN, China | MAN-B\&amp;W | Jan-27 | DH | high $ 22.0m | undisclosed | BWTS fitted |
-| LR1 | HAFNIA KRONBORG | 73,708 | 2007 | NEW TIMES, China | MAN-B\&amp;W | Mar-27 | DH | high $ 22.0m | undisclosed | BWTS fitted |
-| MR2 | MARKOS I | 45,592 | 2005 | ULJANIK BRODOGRADILISTE, Croatia | B\&amp;W | Aug-25 | DH | rgn $ 17.0m | Chinese | BWTS fitted |
-| MR2 | LOUKAS I | 45,568 | 2005 | ULJANIK BRODOGRADILISTE, Croatia | MAN-B\&amp;W | Dec-25 | DH | rgn $ 17.0m | undisclosed | BWTS fitted |
-| SMALL | EGEIRO CYAN | 13,241 | 2008 | JINSE, S. Korea | MAN-B\&amp;W | Oct-23 | DH | $ 7.0m | undisclosed |  |
+| VLCC | ARZOYI | 299,152 | 2002 | HITACHI ZOSEN, Japan | B&W | Mar-22 | DH | $ 26.7m | Chinese | BWTS & Scrubber fitted auction sale, non classed & laid up |
+| LR2 | AETHER | 113,849 | 2007 | DAEWOO, S. Korea | MAN-B&W | Oct-22 | DH | $ 37.0m | Middle Eastern | BWTS fitted, uncoiled |
+| AFRA | ATLANTIS | 105,400 | 2008 | SUMITOMO, Japan | MAN-B&W | Sep-23 | DH | high $ 30's | Greek |  |
+| LR1 | HAFNIA COLUMBIA | 76,604 | 2007 | DALIAN, China | MAN-B&W | Jan-27 | DH | high $ 22.0m | undisclosed | BWTS fitted |
+| LR1 | HAFNIA KRONBORG | 73,708 | 2007 | NEW TIMES, China | MAN-B&W | Mar-27 | DH | high $ 22.0m | undisclosed | BWTS fitted |
+| MR2 | MARKOS I | 45,592 | 2005 | ULJANIK BRODOGRADILISTE, Croatia | B&W | Aug-25 | DH | rgn $ 17.0m | Chinese | BWTS fitted |
+| MR2 | LOUKAS I | 45,568 | 2005 | ULJANIK BRODOGRADILISTE, Croatia | MAN-B&W | Dec-25 | DH | rgn $ 17.0m | undisclosed | BWTS fitted |
+| SMALL | EGEIRO CYAN | 13,241 | 2008 | JINSE, S. Korea | MAN-B&W | Oct-23 | DH | $ 7.0m | undisclosed |  |
 | SMALL | NORMANNA | 10,044 | 1996 | POLI PELLESTRINA, Italy | MaK | Oct-26 | DH | $ 5.75m | Turkish | BWTS fitted, StSt, Ice 1C |
 ## Secondhand Sales
 
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | BW THOR | 58,610 | 2008 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jun-23 | 80,657 | $ 55.0m | undisclosed | BWTS fitted |
-| LNG | SEAPEAK VISION | 12,211 | 2011 | AVIC DINGHENG, China | MAN-B\&amp;W | Oct-26 | 11,782 | $ 27.0m | Cypriot (Sole Shipping) | Incl BB charter to Titan, Ice Class II |
-| LNG | SEAPEAK UNIKUM | 12,210 | 2011 | AVIC DINGHENG, China | MAN-B\&amp;W | Jun-26 | 11,782 | $ 27.0m | Cypriot (Sole Shipping) | Incl BB charter to Titan, Ice Class II |
+| LPG | BW THOR | 58,610 | 2008 | HYUNDAI, S. Korea | MAN-B&W | Jun-23 | 80,657 | $ 55.0m | undisclosed | BWTS fitted |
+| LNG | SEAPEAK VISION | 12,211 | 2011 | AVIC DINGHENG, China | MAN-B&W | Oct-26 | 11,782 | $ 27.0m | Cypriot (Sole Shipping) | Incl BB charter to Titan, Ice Class II |
+| LNG | SEAPEAK UNIKUM | 12,210 | 2011 | AVIC DINGHENG, China | MAN-B&W | Jun-26 | 11,782 | $ 27.0m | Cypriot (Sole Shipping) | Incl BB charter to Titan, Ice Class II |
 
 © Intermodal Research 08/02/2023 5
 

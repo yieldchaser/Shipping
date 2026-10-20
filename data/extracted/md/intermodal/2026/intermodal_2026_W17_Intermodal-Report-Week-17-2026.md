@@ -156,19 +156,19 @@ Handysize sentiment strengthened steadily. The US Gulf and South America led gai
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | CORDOBA | 46,763 | 2007 | SUNGDONG, S. Korea | MAN B\&amp;W | Jul-27 | DH | $ 17.0m | undisclosed |
+| MR2 | CORDOBA | 46,763 | 2007 | SUNGDONG, S. Korea | MAN B&W | Jul-27 | DH | $ 17.0m | undisclosed |
 | MR2 | DAI PHU | 50,530 | 2006 | SPP, South Korea | Sulzer | Aug-26 | DH | low/mid $ 13,0m | undisclosed |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| COAL CARRIER | CORONA BRAVE | 88,172 | 2006 | IMABARI, Japan | MAN B\&amp;W | Dec-27 |  | high $ 12,0m | Chinese |  |
-| PMAX | PABUR | 76,167 | 2012 | TAIZHOU KOUAN, China | MAN B\&amp;W | Dec-27 |  | mid $ 16,0m | Chinese | Ice 1C |
-| UMAX | AMIS POWER | 64,012 | 2018 | TSUNEISHI CEBU, Philippines | MAN B\&amp;W | Sep-28 | 4 X 36t CRANES | $ 32.0m | undisclosed | Eco |
-| UMAX | AMSTEL TIGER | 60,454 | 2016 | OSHIMA, Japan | MAN B\&amp;W | Aug-26 | 4 X 30t CRANES | $ 28.0m | undisclosed | Eco |
-| SUPRA | ASTRA PERSEUS | 58,518 | 2012 | DSME SHANDONG, China | MAN B\&amp;W | Oct-27 | 4 X 35t CRANES | $ 16.8m | undisclosed |  |
-| SUPRA | HONCHO | 56,603 | 2011 | CHINA SHIPPING IND JIANGSU, China | MAN B\&amp;W | May-26 | 4 X 30t CRANES | low $13,0m | undisclosed |  |
-| SUPRA | CHAKRAVATI | 55,814 | 2006 | KAWASAKI, Japan | MAN B\&amp;W | Apr-28 | 4 X 30,5t CRANES | mid $ 10,0m | undisclosed |  |
+| COAL CARRIER | CORONA BRAVE | 88,172 | 2006 | IMABARI, Japan | MAN B&W | Dec-27 |  | high $ 12,0m | Chinese |  |
+| PMAX | PABUR | 76,167 | 2012 | TAIZHOU KOUAN, China | MAN B&W | Dec-27 |  | mid $ 16,0m | Chinese | Ice 1C |
+| UMAX | AMIS POWER | 64,012 | 2018 | TSUNEISHI CEBU, Philippines | MAN B&W | Sep-28 | 4 X 36t CRANES | $ 32.0m | undisclosed | Eco |
+| UMAX | AMSTEL TIGER | 60,454 | 2016 | OSHIMA, Japan | MAN B&W | Aug-26 | 4 X 30t CRANES | $ 28.0m | undisclosed | Eco |
+| SUPRA | ASTRA PERSEUS | 58,518 | 2012 | DSME SHANDONG, China | MAN B&W | Oct-27 | 4 X 35t CRANES | $ 16.8m | undisclosed |  |
+| SUPRA | HONCHO | 56,603 | 2011 | CHINA SHIPPING IND JIANGSU, China | MAN B&W | May-26 | 4 X 30t CRANES | low $13,0m | undisclosed |  |
+| SUPRA | CHAKRAVATI | 55,814 | 2006 | KAWASAKI, Japan | MAN B&W | Apr-28 | 4 X 30,5t CRANES | mid $ 10,0m | undisclosed |  |
 
 ---
 

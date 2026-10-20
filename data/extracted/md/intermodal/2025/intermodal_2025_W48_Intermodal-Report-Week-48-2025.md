@@ -151,24 +151,24 @@ Handysize market was largely stable. The Atlantic saw mild improvements supporte
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MR2 | NAVE EQUINOX | 50,922 | 2007 | STX, S. Korea | MAN B\&amp;W | Dec-27 | DH | $ 14.4m | undisclosed |  |
-| MR2 | LVM WARRIOR | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN B\&amp;W | Jan-30 | DH | $ 33.0m | undisclosed | Eco |
-| MR2 | GLENDA MERYL | 47,251 | 2011 | HYUNDAI MIPO, S. Korea | MAN B\&amp;W | Nov-25 | DH | $ 19.5m | undisclosed |  |
-| MR2 | UACC MANAMA | 45,612 | 2010 | SLS, S. Korea | MAN B\&amp;W | passed | DH | $ 24.0m | undisclosed |  |
+| MR2 | NAVE EQUINOX | 50,922 | 2007 | STX, S. Korea | MAN B&W | Dec-27 | DH | $ 14.4m | undisclosed |  |
+| MR2 | LVM WARRIOR | 49,997 | 2015 | HYUNDAI MIPO, S. Korea | MAN B&W | Jan-30 | DH | $ 33.0m | undisclosed | Eco |
+| MR2 | GLENDA MERYL | 47,251 | 2011 | HYUNDAI MIPO, S. Korea | MAN B&W | Nov-25 | DH | $ 19.5m | undisclosed |  |
+| MR2 | UACC MANAMA | 45,612 | 2010 | SLS, S. Korea | MAN B&W | passed | DH | $ 24.0m | undisclosed |  |
 | SMALL | ANGELINA AMORETTI | 23,740 | 2004 | JIANGSU YANGZIJIANG, China | Wartsila | Jun-27 | DH | $ 6.0m | undisclosed |  |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| POST PMAX | INDUS PROSPERITY | 92,988 | 2011 | TAIZHOU SANFU, China | MAN B\&amp;W | Apr-26 |  | region mid $ 11.0m each | Middle Eastern |  |
-| POST PMAX | INDUS FORTUNE | 92,928 | 2011 | TAIZHOU SANFU, China | MAN B\&amp;W | Jul-26 |  | region mid $ 11.0m each | Middle Eastern |  |
-| KMAX | BW JAPAN | 81,609 | 2019 | TSUNEISHI CEBU, Philippines | MAN B\&amp;W | May-29 |  | $ 32.5m | undisclosed | Eco, Scrubber fitted |
-| KMAX | KEY FRONTIER | 80,679 | 2011 | UNIVERSAL, Japan | MAN B\&amp;W | Jun-30 |  | $ 18.75m | Greek |  |
-| UMAX | CMB JORDAENS | 63,447 | 2019 | TSUNEISHI, Japan | MAN B\&amp;W | Sep-29 | 4 X 30,7t CRANES | $ 30.0m | undisclosed | Eco |
-| SUPRA | SEACON 7 | 57,000 | 2012 | NINGBO BEILUN, China | MAN B\&amp;W | Nov-26 | 4 X 30t CRANES | $ 12.6m | undisclosed |  |
-| SUPRA | JIN SUI | 56,968 | 2008 | CHENGXI, China | MAN B\&amp;W | Aug-28 | 4 X 30t CRANE | $ 10.3m | Hong Kong based |  |
-| SUPRA | INCE KASTAMONU | 56,925 | 2010 | COSCO ZHOUSHAN, China | MAN B\&amp;W | Apr-30 | 4 X 30t CRANES | $ 12.75m | undisclosed |  |
-| SUPRA | LEONIDAS | 53,605 | 2005 | XIAMEN, China | MAN B\&amp;W | Mar-30 | 4 X 30t CRANES | $ 8.5m | Chinese |  |
+| POST PMAX | INDUS PROSPERITY | 92,988 | 2011 | TAIZHOU SANFU, China | MAN B&W | Apr-26 |  | region mid $ 11.0m each | Middle Eastern |  |
+| POST PMAX | INDUS FORTUNE | 92,928 | 2011 | TAIZHOU SANFU, China | MAN B&W | Jul-26 |  | region mid $ 11.0m each | Middle Eastern |  |
+| KMAX | BW JAPAN | 81,609 | 2019 | TSUNEISHI CEBU, Philippines | MAN B&W | May-29 |  | $ 32.5m | undisclosed | Eco, Scrubber fitted |
+| KMAX | KEY FRONTIER | 80,679 | 2011 | UNIVERSAL, Japan | MAN B&W | Jun-30 |  | $ 18.75m | Greek |  |
+| UMAX | CMB JORDAENS | 63,447 | 2019 | TSUNEISHI, Japan | MAN B&W | Sep-29 | 4 X 30,7t CRANES | $ 30.0m | undisclosed | Eco |
+| SUPRA | SEACON 7 | 57,000 | 2012 | NINGBO BEILUN, China | MAN B&W | Nov-26 | 4 X 30t CRANES | $ 12.6m | undisclosed |  |
+| SUPRA | JIN SUI | 56,968 | 2008 | CHENGXI, China | MAN B&W | Aug-28 | 4 X 30t CRANE | $ 10.3m | Hong Kong based |  |
+| SUPRA | INCE KASTAMONU | 56,925 | 2010 | COSCO ZHOUSHAN, China | MAN B&W | Apr-30 | 4 X 30t CRANES | $ 12.75m | undisclosed |  |
+| SUPRA | LEONIDAS | 53,605 | 2005 | XIAMEN, China | MAN B&W | Mar-30 | 4 X 30t CRANES | $ 8.5m | Chinese |  |
 | HANDY | SOFIA K | 32,115 | 2009 | HAKODATE, Japan | Mitsubishi | May-27 | 4 X 30t CRANES | $ 11.0m | undisclosed |  |
 
 ---
@@ -183,7 +183,7 @@ Hengli was active at the wet segment as well, receiving an order from Eastern Pa
 
 Eastern Pacific also placed an order for a quarter of 6k-teu containerships at Hengli, priced at \$79m each and expected for delivery in 2027-2028 as well.
 
-In the general cargo segment, Chinese shipowner Shenzhen Weiqiao placed 2 separate orders for 10k dwt vessels: 4 units at SPG Marine, Singapore, with deliveries in 2026-2027, and a single unit at Anhui P&amp;S Sealand, China, for delivery in 2026.
+In the general cargo segment, Chinese shipowner Shenzhen Weiqiao placed 2 separate orders for 10k dwt vessels: 4 units at SPG Marine, Singapore, with deliveries in 2026-2027, and a single unit at Anhui P&S Sealand, China, for delivery in 2026.
 
 Finally, offshore newbuilding activity included Norwegian owner Ostensjo Rederi's order of a 50-meter AHTS vessel at Astilleros Gondan, Spain, featuring 150 tons bollard pull and a DP2 system, with delivery planned for 2028.
 
@@ -212,7 +212,7 @@ Finally, offshore newbuilding activity included Norwegian owner Ostensjo Rederi'
 | 2+2 | Tanker | 41,000 dwt | Yangzhou Guoyu Shipbuilding, China | 2028 | Greek (Super Eco Tankers) | $ 40.0m | Product carriers |
 | 4 | Containership | 6,000 teu | Hengli Shipbuilding, China | 2027-2028 | Singapore based (Eastern Pacific) | $ 79.0m |  |
 | 4 | General Cargo | 10,000 dwt | SPG Marine, Singapore | 2026-2027 | Chinese (Shenzhen Weiqiao) | undisclosed | Battery Hybrid |
-| 1 | General Cargo | 10,000 dwt | Anhui P\&amp;S Sealand, China | 2026 | Chinese (Shenzhen Weiqiao) | undisclosed | Battery Hybrid |
+| 1 | General Cargo | 10,000 dwt | Anhui P&S Sealand, China | 2026 | Chinese (Shenzhen Weiqiao) | undisclosed | Battery Hybrid |
 | 1 | AHTS | 50 | meters | Astilleros Gondan, Spain | 2028 | Norwegian (Ostensjo Rederi) | undisclosed |
 
 ---

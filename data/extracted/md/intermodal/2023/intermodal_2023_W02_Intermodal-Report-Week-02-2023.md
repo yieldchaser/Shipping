@@ -33,7 +33,7 @@ From a shipping perspective, it is worth watching closely how the trade unfolds 
 
 The dry bulk market has lost further ground last week as the supply/demand imbalance continues to provide charterers with room for further bids' discounts. The BDI today (17/01/2023) closed at 921 points, down by 175 points compared to previous Tuesday's closing (10/01/2023). A mixed picture emerged in the crude carrier market with VLCC sector noting w-o-w declines while both Suezmax and Aframax owners enjoyed a healthy week with increasing in rates materializing. The BDTI today (17/01/2023) closed at 1,427, an increase of 4 points and the BCTI at 801, a decrease of 218 points compared to previous Tuesday's (10/01/2023) levels.
 
-## Sale &amp; Purchase (Wet: <mark>Firmer</mark> / Dry: <mark>Firmer</mark>)
+## Sale & Purchase (Wet: <mark>Firmer</mark> / Dry: <mark>Firmer</mark>)
 
 SnP activity picked up considerably during the past days. On the tanker front, clean tanker units attracted most of the interest while it is interesting to note that Middle Eastern and Chinese buyers represented the majority of buyers. In the tanker sector, we had the sale of the “FPMC C HON-OR” (298,078dwt-blt '08, Japan), which was sold to UAE based buyers, for a price in the region of \$55.5m. On the dry bulker side sector, we had the sale of the “AM LIBERIA” (98,730dwt-blt '13, China), which was sold to Greek buyers, for a price in the region of \$20.5m.
 
@@ -137,7 +137,7 @@ VLCC T/C earnings averaged \$ 18,287/day, down - \$10,856/day w-o-w, and closed 
 
 Suezmax T/C earnings averaged \$ 72,287/day, up + \$25,249/day w-o-w. Suezmax T/C earnings averaged \$ 71,163/day, down - \$20,262/day w-o-w. On the Aframax front, T/C earnings averaged \$ 65,673/day, up + \$6,881/day w-o-w .
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "FPMC C HONOR" (298,078dwt-bl't '08, Japan), which was sold to UAE based buyers, for a price in the region of \$55.5m.
 
@@ -202,7 +202,7 @@ Supramax 10TC averaged \$ 8,341/day, down - 18.52% w-o-w, while the Handysize 7T
 | **Ultramax** | **63k** | 28.0 | 28.0 | 0.0% | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 24.0 | 24.0 | 0.0% | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Post-Panamax sector we had the sale of the "AM LIBERIA" (98,730dwt-blt '13, China), which was sold to Greek buyers, for a price in the region of \$20.5m.
 
@@ -303,7 +303,7 @@ Last week, the overall activity in the shipbuilding sector was healthy, with mul
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Bulker | 81,600 dwt | Tsuneishi Group, Japan | 2025-2026 | Japanese (Mitsui &amp; Co) | undisclosed | methanol duel-fuelled, against T/C to Cargill |
+| 2 | Bulker | 81,600 dwt | Tsuneishi Group, Japan | 2025-2026 | Japanese (Mitsui & Co) | undisclosed | methanol duel-fuelled, against T/C to Cargill |
 | 4 | Bulker | 63,500 dwt | Nantong Xiangyu, China | 2025 | Japanase (Doun Kisen) | $ 31.0m | IMO III NOx standards |
 | 2 | Bulker | 40,000 dwt | undisclosed | 2025 | Japanese (Inui Global Logistics) | undisclosed |  |
 | 1+1 | Tanker | 158,000 dwt | Daehan, S. Korea | 2025 | Greek (Golden Energy) | $ 77.0m |  |

@@ -34,7 +34,7 @@ Last but not least, in one month's time, we expect to have the biggest shipping 
 
 A strong rebound in the Capesize sector offered the dry bulk market a boost last week, with earnings for the rest of the sizes continuing at exceptional levels. The BDI today (03/05/2022) closed at 2,412 points, up by 8 points compared to previous Tuesday's closing (26/04/2022). The crude carrier's market activity remained on a downward slope during the past days, with limited fresh cargoes injecting into the market and a widening tonnage list across all trading routes. The BDTI today (03/05/2022) closed at 1,233, a decrease of 63 points, and the BCTI at 1287, an increase of 169 points compared to previous Tuesday's (26/04/2022) levels.
 
-### Sale &amp; Purchase (**Wet: Firmer / Dry: Firmer**&gt;)
+### Sale & Purchase (**Wet: Firmer / Dry: Firmer**&gt;)
 
 Interest for dry bulk and tanker units in the Secondhand realm remains significantly healthy for another week with buyers' appetite being depicted across all sizes. In the tanker sector, we had the sale of the "NISSOS KEA" (300,323dwt-bl't '22, S. Korea), which was sold to Maltese owner, CBM Financial, for a price in the region of \$72.75m. On the dry bulker side sector, we had the sale of the "BULK ORION" (56,155dwt-bl't '11, Japan), which was sold to undisclosed buyers, for a price in the region of \$22.0m.
 
@@ -132,7 +132,7 @@ VLCC T/C earnings averaged \$ -12,106/day, down - \$1,036/day w-o-w. A stark sup
 
 Suezmax T/C earnings averaged \$ 43,648/day, down - \$35,020/day w-o-w. The Med market performance set the negative tone with TD6 losing 78WS points w-o-w. West Africa's activity was also subdued with limited fresh cargoes injected into the market. Aframax T/C earnings averaged \$ 41,781/day, down - \$28,660/day w-o-w. Fresh cargoes in the North European market were limited, facing a widening list of tonnage in the area. In the Med, charterers have offered off-market enquires restricting any uptick in rates. On the USG front, rates suffered large discounts with TD9 falling by 45.62WS points w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "NISSOS KEA" (300,323dwt-blt '22, S. Korea), which was sold to Maltese owner, CBM Financial, for a price in the region of \$72.75m.
 
@@ -201,7 +201,7 @@ Supramax 10TC averaged \$29,961/day, up + 10.27% w-o-w, while the Handysize 7TC 
 | **Ultramax** | **63k** | 33.6 | 32.6 | **3.0%** | 26.4 | 19.4 | 22.6 |
 | **Handysize** | **37K** | 28.7 | 28.0 | **2.5%** | 21.4 | 16.1 | 17.4 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the Capesize sector we had the sale of the "MINERAL HAIKU" (180,242dwt-bl't '10, Japan), which was sold to Greek buyers, for a price in the region of \$34.0m.
 
@@ -218,18 +218,18 @@ In the Supramax sector we had the sale of the "BULK ORION" (56,155dwt-bl't '11, 
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | NISSOS KEA | 300,323 | 2022 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-27 | DH | $ 72.75m | Maltese (CBM Financial) |  |
+| VLCC | NISSOS KEA | 300,323 | 2022 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Mar-27 | DH | $ 72.75m | Maltese (CBM Financial) |  |
 | VLCC | AMORGOS | 299,868 | 2004 | IHI, Japan | Sulzer | Sep-24 | DH | $ 35.5m | Chinese | scrubber fitted |
-| SUEZ | STENA SUPREME | 159,031 | 2012 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jun-22 | DH | $ 37.5m | Greek |  |
-| AFRA | FSL HONG KONG | 115,940 | 2007 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jul-22 | DH | $ 19.5m | Chinese | DD/ BWTS due |
-| AFRA | SAINT NICHOLAI | 105,541 | 2002 | SAMHO, S. Korea | MAN-B\&amp;W | Jun-22 | DH | undisclosed | U.A.E based (Al Anchor Ship Mgt) | old sale |
-| LR1 | AMALIA | 73,869 | 2006 | NEW TIMES, China | MAN-B\&amp;W | Dec-26 | DH | $ 61.0m | undisclosed |  |
-| MR2 | ELANDRA PINE | 49,999 | 2018 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Sep-23 | DH | $ 34.0m | Italian (Premuda) | BWTS fitted |
-| MR2 | MATUKU | 50,143 | 2016 | SPP, S. Korea | MAN-B\&amp;W | Mar-26 | DH | $ 31.0m | European | BWTS fitted |
-| MR2 | ARDMORE SEAHAWK | 49,949 | 2015 | SPP, S. Korea | MAN-B\&amp;W | Nov-25 | DH | $ 24.5m | Far Eastern |  |
-| MR2 | ACE | 43,716 | 1999 | DALIAN, China | MAN-B\&amp;W | Apr-23 | DH | $ 22.9m | Indonesian |  |
-| MR1 | ISOLDE | 37,527 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jul-23 | DH | $ 11.0m | Greek | IMO III, Epoxy coated, CPP trader |
-| MR1 | MAERSK ARCTIC | 36,993 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Nov-25 | DH | $ 10.8m | Turkish | Ice Class 1A |
+| SUEZ | STENA SUPREME | 159,031 | 2012 | SAMSUNG, S. Korea | MAN-B&W | Jun-22 | DH | $ 37.5m | Greek |  |
+| AFRA | FSL HONG KONG | 115,940 | 2007 | SAMSUNG, S. Korea | MAN-B&W | Jul-22 | DH | $ 19.5m | Chinese | DD/ BWTS due |
+| AFRA | SAINT NICHOLAI | 105,541 | 2002 | SAMHO, S. Korea | MAN-B&W | Jun-22 | DH | undisclosed | U.A.E based (Al Anchor Ship Mgt) | old sale |
+| LR1 | AMALIA | 73,869 | 2006 | NEW TIMES, China | MAN-B&W | Dec-26 | DH | $ 61.0m | undisclosed |  |
+| MR2 | ELANDRA PINE | 49,999 | 2018 | HYUNDAI MIPO, S. Korea | MAN-B&W | Sep-23 | DH | $ 34.0m | Italian (Premuda) | BWTS fitted |
+| MR2 | MATUKU | 50,143 | 2016 | SPP, S. Korea | MAN-B&W | Mar-26 | DH | $ 31.0m | European | BWTS fitted |
+| MR2 | ARDMORE SEAHAWK | 49,949 | 2015 | SPP, S. Korea | MAN-B&W | Nov-25 | DH | $ 24.5m | Far Eastern |  |
+| MR2 | ACE | 43,716 | 1999 | DALIAN, China | MAN-B&W | Apr-23 | DH | $ 22.9m | Indonesian |  |
+| MR1 | ISOLDE | 37,527 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jul-23 | DH | $ 11.0m | Greek | IMO III, Epoxy coated, CPP trader |
+| MR1 | MAERSK ARCTIC | 36,993 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B&W | Nov-25 | DH | $ 10.8m | Turkish | Ice Class 1A |
 | SMALL | LS CHRISTINE | 8,400 | 2007 | TURKTER, Turkey | Wartsila |  | DH | $ 4.25m | undisclosed |  |
 | SMALL | DENSA DEFNE | 7,108 | 2004 | SELAH, Turkey | MAN | Nov-24 | DH | $ 4.5m | undisclosed | IMO II/III - Epoxy coated |
 | SMALL | GOLDEN MERCURY | 6,248 | 2003 | MURAKAMI HIDE, Japan | Mitsubishi | Jan-23 | DH | $ 3.75m | undisclosed | IMO II/III, St-St |
@@ -243,23 +243,23 @@ In the Supramax sector we had the sale of the "BULK ORION" (56,155dwt-bl't '11, 
 
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | MINERAL HAIKU | 180,242 | 2010 | KOYO MIHARA, Japan | MAN-B&amp;W | Jun-25 |  | $ 34.0m | Greek |  |
-| CAPE | AZUL LEGENDA | 206,331 | 2008 | IMABARI, Japan | MAN-B&amp;W | Sep-25 |  | $ 26.0m | European | BWTS fitted |
-| CAPE | MOUNT SINAI | 177,656 | 2006 | MITSUI CHIBA, Japan | MAN-B&amp;W | May-22 |  | undisclosed | Chinese |  |
+| CAPE | MINERAL HAIKU | 180,242 | 2010 | KOYO MIHARA, Japan | MAN-B&W | Jun-25 |  | $ 34.0m | Greek |  |
+| CAPE | AZUL LEGENDA | 206,331 | 2008 | IMABARI, Japan | MAN-B&W | Sep-25 |  | $ 26.0m | European | BWTS fitted |
+| CAPE | MOUNT SINAI | 177,656 | 2006 | MITSUI CHIBA, Japan | MAN-B&W | May-22 |  | undisclosed | Chinese |  |
 | CAPE | C H S HARVEST | 173,624 | 2006 | BOHAI, China | Wartsila | Apr-26 |  | $ 17.5m | undisclosed | DD: 04/2024, BWTS fitted |
-| MINI CAPE | SPRING PRIDE | 106,552 | 2007 | OSHIMA, Japan | MAN-B&amp;W | Jun-22 |  | $ 17.5m | Chinese | DD: 06/2022 |
-| POST PMAX | HONG GUANG | 93,025 | 2012 | COSCO DALIAN, China | MAN-B&amp;W | Jan-27 |  | $ 23.0m | Ukrainian |  |
-| POST PMAX | GREAT CHEER | 93,297 | 2009 | Jiangsu, China | MAN-B&amp;W | Oct-24 |  | $ 16.8m | Chinese |  |
-| KMAX | SEA HERMES | 81,708 | 2013 | XIAMEN, China | MAN-B&amp;W | Jan-23 |  | $ 23.5m | Turks | Tier II |
-| KMAX | MSXT OCEANUS | 81,642 | 2012 | DAEWOO, S. Korea | MAN-B&amp;W | Oct-22 |  | $ 22.33m | undisclosed | online commercial auction |
-| PMAX | SITC ZHOUSHAN | 76,195 | 2013 | YANGFAN, China | MAN-B&amp;W | Sep-23 |  | $ 44.0m | undisclosed |  |
-| PMAX | SITC LUSHAN | 76,132 | 2013 | YANGFAN, China | MAN-B&amp;W | Nov-23 |  |  |  |  |
-| PMAX | SIANA | 73,127 | 1999 | HYUNDAI ULSAN, S. Korea | B&amp;W | Jun-24 |  | $ 9.2m | Chinese |  |
-| UMAX | TOMINI INTEGRITY | 60,220 | 2016 | ONOMICHI, Japan | MAN-B&amp;W | Jul-26 | 4 X 30t CRANES | $ 33.5m | HK based |  |
-| SUPRA | AP STON | 57,239 | 2012 | STX, S. Korea | MAN-B&amp;W | Aug-22 | 4 X 36t CRANES | undisclosed | Undisclosed |  |
-| SUPRA | JIN BO | 56,709 | 2012 | QINGSHAN, China | MAN-B&amp;W | Jun-22 | 4 X 30t CRANES | $ 16.16m | undisclosed | auction sale |
-| SUPRA | LAN HAI SHENG HUI | 56,616 | 2011 | CHINA SHIPPING IND JIANGSU, China | MAN-B&amp;W | Dec-26 | 4 X 30t CRANES | $ 19.83m | Chinese | RMB 130 |
-| SUPRA | BULK ORION | 56,155 | 2011 | MITSUI, Japan | MAN-B&amp;W | Jun-26 | 4 X 30t CRANES | $ 22.0m | undisclosed | BWTS fitted |
+| MINI CAPE | SPRING PRIDE | 106,552 | 2007 | OSHIMA, Japan | MAN-B&W | Jun-22 |  | $ 17.5m | Chinese | DD: 06/2022 |
+| POST PMAX | HONG GUANG | 93,025 | 2012 | COSCO DALIAN, China | MAN-B&W | Jan-27 |  | $ 23.0m | Ukrainian |  |
+| POST PMAX | GREAT CHEER | 93,297 | 2009 | Jiangsu, China | MAN-B&W | Oct-24 |  | $ 16.8m | Chinese |  |
+| KMAX | SEA HERMES | 81,708 | 2013 | XIAMEN, China | MAN-B&W | Jan-23 |  | $ 23.5m | Turks | Tier II |
+| KMAX | MSXT OCEANUS | 81,642 | 2012 | DAEWOO, S. Korea | MAN-B&W | Oct-22 |  | $ 22.33m | undisclosed | online commercial auction |
+| PMAX | SITC ZHOUSHAN | 76,195 | 2013 | YANGFAN, China | MAN-B&W | Sep-23 |  | $ 44.0m | undisclosed |  |
+| PMAX | SITC LUSHAN | 76,132 | 2013 | YANGFAN, China | MAN-B&W | Nov-23 |  |  |  |  |
+| PMAX | SIANA | 73,127 | 1999 | HYUNDAI ULSAN, S. Korea | B&W | Jun-24 |  | $ 9.2m | Chinese |  |
+| UMAX | TOMINI INTEGRITY | 60,220 | 2016 | ONOMICHI, Japan | MAN-B&W | Jul-26 | 4 X 30t CRANES | $ 33.5m | HK based |  |
+| SUPRA | AP STON | 57,239 | 2012 | STX, S. Korea | MAN-B&W | Aug-22 | 4 X 36t CRANES | undisclosed | Undisclosed |  |
+| SUPRA | JIN BO | 56,709 | 2012 | QINGSHAN, China | MAN-B&W | Jun-22 | 4 X 30t CRANES | $ 16.16m | undisclosed | auction sale |
+| SUPRA | LAN HAI SHENG HUI | 56,616 | 2011 | CHINA SHIPPING IND JIANGSU, China | MAN-B&W | Dec-26 | 4 X 30t CRANES | $ 19.83m | Chinese | RMB 130 |
+| SUPRA | BULK ORION | 56,155 | 2011 | MITSUI, Japan | MAN-B&W | Jun-26 | 4 X 30t CRANES | $ 22.0m | undisclosed | BWTS fitted |
 
 © Intermodal Research 03/05/2022 5
 
@@ -271,18 +271,18 @@ In the Supramax sector we had the sale of the "BULK ORION" (56,155dwt-bl't '11, 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HANDY | EREDINE | 39,855 | 2014 | CHENGXI, China | Wartsila | May-24 | 4 X 36t CRANES | $ 24.5m | undisclosed |  |
-| HANDY | LEIA | 38,271 | 2010 | IMABARI, Japan | MAN-B\&amp;W | Sep-24 | 4 X 30,5t CRANES | $ 17.7m | U.K based (Tufton Oceanic) | BWTS fitted - T/C incl at US$ 13,335 pd until latest July 2023 |
+| HANDY | LEIA | 38,271 | 2010 | IMABARI, Japan | MAN-B&W | Sep-24 | 4 X 30,5t CRANES | $ 17.7m | U.K based (Tufton Oceanic) | BWTS fitted - T/C incl at US$ 13,335 pd until latest July 2023 |
 | HANDY | ANACAPA LIGHT | 32,131 | 2005 | SAIKI, Japan | Mitsubishi | Jul-25 | 4 X 30t CRANES | $ 13.5m | undisclosed | BWTS fitted |
 | HANDY | SN GLORY | 32,259 | 2003 | SAIKI, Japan | Mitsubishi | Jul-22 | 4 X 30t CRANES | $ 11.6m | undisclosed | BWTS novated |
 
 ## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | HANSA OFFENBURG | 1,740 | 2011 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Apr-26 | 2 X 40t CRANES | $ 33.0m | French (CMA CGM) |  |
-| FEEDER | A HOKEN | 1,736 | 2004 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Jul-24 | 2 X 45t CRANES | $ 20.0m | undisclosed |  |
-| FEEDER | LANGENESS | 1,402 | 2006 | SHANDONG WEIHAI, China | MAN-B\&amp;W |  | 2 X 40t CRANES | $ 25.0m | undisclosed |  |
-| FEEDER | NORDEROOG | 1,402 | 2004 | SHANDONG WEIHAI, China | MAN-B\&amp;W | Nov-24 | 2 X 40t CRANES | $ 22.0m | undisclosed |  |
-| FEEDER | TALISKER | 1,129 | 2001 | GDANSKA STOCZNIA, POLAND | B\&amp;W | Oct-26 | 2 X 43t CRANES | $ 17.0m | undisclosed |  |
+| FEEDER | HANSA OFFENBURG | 1,740 | 2011 | GUANGZHOU WENCHONG, China | MAN-B&W | Apr-26 | 2 X 40t CRANES | $ 33.0m | French (CMA CGM) |  |
+| FEEDER | A HOKEN | 1,736 | 2004 | GUANGZHOU WENCHONG, China | MAN-B&W | Jul-24 | 2 X 45t CRANES | $ 20.0m | undisclosed |  |
+| FEEDER | LANGENESS | 1,402 | 2006 | SHANDONG WEIHAI, China | MAN-B&W |  | 2 X 40t CRANES | $ 25.0m | undisclosed |  |
+| FEEDER | NORDEROOG | 1,402 | 2004 | SHANDONG WEIHAI, China | MAN-B&W | Nov-24 | 2 X 40t CRANES | $ 22.0m | undisclosed |  |
+| FEEDER | TALISKER | 1,129 | 2001 | GDANSKA STOCZNIA, POLAND | B&W | Oct-26 | 2 X 43t CRANES | $ 17.0m | undisclosed |  |
 | FEEDER | GLORY FORTUNE | 1,098 | 2006 | JINLING, China | MAN | Dec-26 |  | $ 15.5m | undisclosed | BWTS fitted |
 | FEEDER | TOKATA | 1,080 | 2006 | YANGZHOU DAYANG, China | MAN |  | 2 X 45t CRANES | undisclosed | undisclosed |  |
 

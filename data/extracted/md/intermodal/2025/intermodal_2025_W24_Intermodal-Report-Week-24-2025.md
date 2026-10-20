@@ -151,21 +151,21 @@ Handysize activity was relatively stable, with minor fluctuations. The Mediterra
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | PAPALEMOS | 319,191 | 2018 | HYUNDAI, S. Korea | MAN-B\&amp;W | Aug-28 | DH | $ 108.0m | DHT | Eco, Scrubber fitted |
-| LR2 | CASPER | 108,870 | 2010 | HUDONG-ZHONGHUA, China | MAN B\&amp;W | PASSED | DH | $ 34-35,0m | undisclosed | SS/DD passed |
+| VLCC | PAPALEMOS | 319,191 | 2018 | HYUNDAI, S. Korea | MAN-B&W | Aug-28 | DH | $ 108.0m | DHT | Eco, Scrubber fitted |
+| LR2 | CASPER | 108,870 | 2010 | HUDONG-ZHONGHUA, China | MAN B&W | PASSED | DH | $ 34-35,0m | undisclosed | SS/DD passed |
 | J19 | GINGA HAWK | 19,998 | 2000 | SHIN KURUSHIMA, Japan | Mitsubishi | Sep-25 | DH | $ 6.9m | undisclosed | StSt |
-| J19 | BIRDIE TRADER | 19,822 | 2016 | USUKI, Japan | MAN B\&amp;W | Feb-26 | DH | $ 28.0m | Chinese | StSt |
+| J19 | BIRDIE TRADER | 19,822 | 2016 | USUKI, Japan | MAN B&W | Feb-26 | DH | $ 28.0m | Chinese | StSt |
 | SMALL | LESSOW SWAN | 6,974 | 2008 | ICDAS CELIK, Turkey | MaK | Sep-28 | DH | $ 9.0m | undisclosed | Ice 1C |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MINI CAPE | BABY CASSIOPEIA | 110,842 | 2012 | MITSUI, Japan | MAN B\&amp;W | Apr-26 |  | $ 19.0m | Vietnamese | Scrubber fitted |
-| KMAX | BRIGHT PEGASUS | 82,165 | 2013 | TSUNEISHI ZHOUSHAN, China | MAN B\&amp;W | Apr-28 |  | excess $ 18,0m | undisclosed | Scrubber fitted |
-| PMAX | SELINA | 75,700 | 2010 | JIANGNAN, China | MAN B\&amp;W | May-30 |  | $ 11.8m | undisclosed |  |
-| UMAX | BULK AQUILA | 66,613 | 2014 | MITSUI, Japan | MAN B\&amp;W | Nov-29 | 4 X 30t CRANES | excess $ 22,0m | undisclosed | Eco |
-| UMAX | CMB RUBENS | 63,514 | 2018 | SHIN KASADO, Japan | MAN B\&amp;W | Jul-28 | 4 X 30,7t CRANES | $ 27.5m | undisclosed | Eco |
-| HANDY | NY TRADER III | 39,388 | 2016 | JNS, China | MAN B\&amp;W | Sep-26 | 4 X 30,5t CRANES | excess $ 17,0m | European | Eco |
+| MINI CAPE | BABY CASSIOPEIA | 110,842 | 2012 | MITSUI, Japan | MAN B&W | Apr-26 |  | $ 19.0m | Vietnamese | Scrubber fitted |
+| KMAX | BRIGHT PEGASUS | 82,165 | 2013 | TSUNEISHI ZHOUSHAN, China | MAN B&W | Apr-28 |  | excess $ 18,0m | undisclosed | Scrubber fitted |
+| PMAX | SELINA | 75,700 | 2010 | JIANGNAN, China | MAN B&W | May-30 |  | $ 11.8m | undisclosed |  |
+| UMAX | BULK AQUILA | 66,613 | 2014 | MITSUI, Japan | MAN B&W | Nov-29 | 4 X 30t CRANES | excess $ 22,0m | undisclosed | Eco |
+| UMAX | CMB RUBENS | 63,514 | 2018 | SHIN KASADO, Japan | MAN B&W | Jul-28 | 4 X 30,7t CRANES | $ 27.5m | undisclosed | Eco |
+| HANDY | NY TRADER III | 39,388 | 2016 | JNS, China | MAN B&W | Sep-26 | 4 X 30,5t CRANES | excess $ 17,0m | European | Eco |
 
 ---
 

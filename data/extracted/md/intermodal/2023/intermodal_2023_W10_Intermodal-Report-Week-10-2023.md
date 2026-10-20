@@ -34,7 +34,7 @@ Seaborne-wise, we expect to see some support from the grain trade to the dry bul
 
 The performance of the Capesize segment continues to support the entire Dry Bulk market with the rest of the sizes also noting increased activity albeit to a smaller extent. The BDI on Friday (10/03/2023) closed at 1,424 points, up by 213 points compared to previous Friday's closing (03/03/2023). The VLCC sector gained further strength last week outperforming the rest of its counterparts whose earnings however are still hovering at significantly healthy levels. The BDTI on Friday (10/03/2023) closed at 1,487, an increase of 3 points and the BCTI at 905, a decrease of 116 points compared to previous Friday's (03/02/2023) levels.
 
-## Sale &amp; Purchase (Wet: **Firmer** / Dry: **Stable+**)
+## Sale & Purchase (Wet: **Firmer** / Dry: **Stable+**)
 
 Last week, interest for tanker units was significantly strong with MR2 units having the lion's share. In the tanker sector, we had the sale of the "KASSOS I" (319,247dwt-blt '07, S. Korea), which was sold to UAE based buyers, for a price in the region of \$60.0m. On the dry bulker side sector, we had the sale of the "SOHO PRINCIPAL" (63,229dwt-blt '16, China), which was sold to undisclosed buyers, for a price in the region of \$26.6m.
 
@@ -130,7 +130,7 @@ VLCC T/C earnings averaged \$ 53,932/day, up +\$33,869/day w-o-w, and closed off
 
 Suezmax T/C earnings averaged \$ 71,035/day, down - \$10,368/day w-o-w. On the Aframax front, T/C earnings averaged \$ 72,037/day, up + \$5,936/day w-o-w.
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
 In the VLCC sector we had the sale of the "KASSOS I" (319,247dwt-blt '07, S. Korea), which was sold to UAE based buyers, for a price in the region of \$60.0m.
 
@@ -190,9 +190,9 @@ Supramax 10TC averaged \$ 12,959/day, up +3.48% w-o-w, while the Handysize 7TC a
 | **Ultramax** | **63k** | 29.5 | 28.0 | **5.4%** | 31.5 | 26.4 | 19.4 |
 | **Handysize** | **37K** | 25.0 | 24.0 | **4.2%** | 27.2 | 21.4 | 16.1 |
 
-## Sale &amp; Purchase
+## Sale & Purchase
 
-**Sale &amp; Purchase**
+**Sale & Purchase**
 
 In the Ultramax sector we had the sale of the "SOHO PRINCIPAL" (63,229dwt-blt '16, China), which was sold to undisclosed buyers, for a price in the region of \$26.6m.
 
@@ -207,24 +207,24 @@ In the Handysize sector we had the sale of the "SCHELDE CONFIDENCE" (38,225dwt-b
 
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | KASSOS I | 319,247 | 2007 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jul-27 | DH | $ 60.0m | UAE based | Scrubber fitted |
-| VLCC | ATHINA II | 318,658 | 2005 | HYUNDAI, S. Korea | B\&amp;W | Dec-23 | DH | $ 56.0m | undisclosed | Scrubber fitted |
-| VLCC | YUFUSAN | 311,389 | 2005 | MITSUI CHIBA, Japan | MAN-B\&amp;W | Oct-25 | DH | $ 52.0m | Chinese | BWTS fitted |
-| AFRA | AFRA ROYAL | 115,948 | 2010 | HHIC, Philippines | MAN-B\&amp;W | Jan-25 | DH | $ 43.0m | undisclosed |  |
-| LR2 | PRO ALLIANCE | 105,348 | 2008 | HYUNDAI, S. Korea | MAN-B\&amp;W | Sep-23 | DH | $ 38.3m | Greek | BWTS, Scrubber fitted |
-| MR2 | NAVIGARE PARS | 51,034 | 2012 | STX, S. Korea | MAN-B\&amp;W | Jan-27 | DH | $ 30.8m | Italian (Socomar) | BWTS fitted |
-| MR2 | PYXIS MALOU | 50,667 | 2009 | SPP, S. Korea | MAN-B\&amp;W | Feb-24 | DH | $ 24.8m | UK based | BWTS fitted |
-| MR2 | DESAILLY | 50,192 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Apr-24 | DH | $ 22.5m | undisclosed |  |
-| MR2 | NEUTRON RAY | 50,386 | 2005 | SHINA, S. Korea | B\&amp;W | Mar-25 | DH | $ 18.1m | undisclosed | BWTS fitted |
-| MR2 | RICH BREEZE | 47,409 | 2009 | ONOMICHI, Japan | MAN-B\&amp;W | Apr-24 | DH | low $ 23.0m | undisclosed | BWTS fitted |
-| MR2 | MAERSK MICHIGAN | 47,047 | 2003 | ONOMICHI, Japan | B\&amp;W | Jul-23 | DH | $ 14.7m | UAE based | BWTS fitted |
-| MR2 | MTM MANILA | 46,839 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Mar-23 | DH | $ 14.8m | Chinese | BWTS fitted |
-| MR2 | MTM MUMBAI | 46,818 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Jun-23 | DH | $ 14.8m | Chinese | BWTS fitted |
-| MR2 | MTM YANGON | 46,818 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Apr-23 | DH | $ 14.8m | Chinese | BWTS fitted |
-| MR2 | NCC DAMMAM | 45,965 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Apr-23 | DH | $ 20.1m | undisclosed |  |
-| MR2 | NCC HAIEL | 45,953 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jun-23 | DH | $ 20.1m | undisclosed |  |
-| MR1 | ATRIA | 37,583 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jul-26 | DH | $ 23.0m | undisclosed | BWTS fitted |
-| SMALL | PENINSULA IX | 17,906 | 2019 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-24 | DH | $ 26.0m | undisclosed |  |
+| VLCC | KASSOS I | 319,247 | 2007 | HYUNDAI, S. Korea | MAN-B&W | Jul-27 | DH | $ 60.0m | UAE based | Scrubber fitted |
+| VLCC | ATHINA II | 318,658 | 2005 | HYUNDAI, S. Korea | B&W | Dec-23 | DH | $ 56.0m | undisclosed | Scrubber fitted |
+| VLCC | YUFUSAN | 311,389 | 2005 | MITSUI CHIBA, Japan | MAN-B&W | Oct-25 | DH | $ 52.0m | Chinese | BWTS fitted |
+| AFRA | AFRA ROYAL | 115,948 | 2010 | HHIC, Philippines | MAN-B&W | Jan-25 | DH | $ 43.0m | undisclosed |  |
+| LR2 | PRO ALLIANCE | 105,348 | 2008 | HYUNDAI, S. Korea | MAN-B&W | Sep-23 | DH | $ 38.3m | Greek | BWTS, Scrubber fitted |
+| MR2 | NAVIGARE PARS | 51,034 | 2012 | STX, S. Korea | MAN-B&W | Jan-27 | DH | $ 30.8m | Italian (Socomar) | BWTS fitted |
+| MR2 | PYXIS MALOU | 50,667 | 2009 | SPP, S. Korea | MAN-B&W | Feb-24 | DH | $ 24.8m | UK based | BWTS fitted |
+| MR2 | DESAILLY | 50,192 | 2009 | SLS, S. Korea | MAN-B&W | Apr-24 | DH | $ 22.5m | undisclosed |  |
+| MR2 | NEUTRON RAY | 50,386 | 2005 | SHINA, S. Korea | B&W | Mar-25 | DH | $ 18.1m | undisclosed | BWTS fitted |
+| MR2 | RICH BREEZE | 47,409 | 2009 | ONOMICHI, Japan | MAN-B&W | Apr-24 | DH | low $ 23.0m | undisclosed | BWTS fitted |
+| MR2 | MAERSK MICHIGAN | 47,047 | 2003 | ONOMICHI, Japan | B&W | Jul-23 | DH | $ 14.7m | UAE based | BWTS fitted |
+| MR2 | MTM MANILA | 46,839 | 2003 | HYUNDAI MIPO, S. Korea | B&W | Mar-23 | DH | $ 14.8m | Chinese | BWTS fitted |
+| MR2 | MTM MUMBAI | 46,818 | 2003 | HYUNDAI MIPO, S. Korea | B&W | Jun-23 | DH | $ 14.8m | Chinese | BWTS fitted |
+| MR2 | MTM YANGON | 46,818 | 2003 | HYUNDAI MIPO, S. Korea | B&W | Apr-23 | DH | $ 14.8m | Chinese | BWTS fitted |
+| MR2 | NCC DAMMAM | 45,965 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B&W | Apr-23 | DH | $ 20.1m | undisclosed |  |
+| MR2 | NCC HAIEL | 45,953 | 2008 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jun-23 | DH | $ 20.1m | undisclosed |  |
+| MR1 | ATRIA | 37,583 | 2011 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jul-26 | DH | $ 23.0m | undisclosed | BWTS fitted |
+| SMALL | PENINSULA IX | 17,906 | 2019 | HYUNDAI MIPO, S. Korea | MAN-B&W | Jan-24 | DH | $ 26.0m | undisclosed |  |
 
 © Intermodal Research 14/03/2023 4
 
@@ -235,18 +235,18 @@ In the Handysize sector we had the sale of the "SCHELDE CONFIDENCE" (38,225dwt-b
 
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| NEWCASTLEMAX | MP THE VRABEL | 208,286 | 2021 | JIANGSU NEWYANGZI, China | MAN-B&amp;W | Jan-26 |  |
-| NEWCASTLEMAX | MP THE BRUSCHI | 208,214 | 2020 | JIANGSU NEWYANGZI, China | MAN-B&amp;W | Aug-25 |  |
-| UMAX | SOHO PRINCIPAL | 63,229 | 2016 | YANGZHOU DAYANG, China | MAN-B&amp;W | Apr-26 | 4 X 36t CRANES |
-| SUPRA | IVS PINEHURST | 57,811 | 2015 | TSUNEISHI CEBU, Philippines | MAN-B&amp;W | Jul-25 | 4 X 35t CRANES |
-| SUPRA | NEW BEGINNING | 56,098 | 2013 | MITSUI TAMANO, Japan | MAN-B&amp;W | Jan-28 | 4 X 30t CRANES |
-| HANDY | BOREAS VENTURE | 43,389 | 2016 | QINGSHAN, China | MAN-B&amp;W | Feb-26 | 4 X 30t CRANES |
-| HANDY | SCHELDE CONFIDENCE | 38,225 | 2011 | IMABARI, Japan | MAN-B&amp;W | Jan-26 | 4 X 30,5t CRANES |
-| HANDY | NORDIC SKAGEN | 33,741 | 2010 | TK, S. Korea | MAN-B&amp;W | Oct-25 | 4 X 30t CRANES |
+| NEWCASTLEMAX | MP THE VRABEL | 208,286 | 2021 | JIANGSU NEWYANGZI, China | MAN-B&W | Jan-26 |  |
+| NEWCASTLEMAX | MP THE BRUSCHI | 208,214 | 2020 | JIANGSU NEWYANGZI, China | MAN-B&W | Aug-25 |  |
+| UMAX | SOHO PRINCIPAL | 63,229 | 2016 | YANGZHOU DAYANG, China | MAN-B&W | Apr-26 | 4 X 36t CRANES |
+| SUPRA | IVS PINEHURST | 57,811 | 2015 | TSUNEISHI CEBU, Philippines | MAN-B&W | Jul-25 | 4 X 35t CRANES |
+| SUPRA | NEW BEGINNING | 56,098 | 2013 | MITSUI TAMANO, Japan | MAN-B&W | Jan-28 | 4 X 30t CRANES |
+| HANDY | BOREAS VENTURE | 43,389 | 2016 | QINGSHAN, China | MAN-B&W | Feb-26 | 4 X 30t CRANES |
+| HANDY | SCHELDE CONFIDENCE | 38,225 | 2011 | IMABARI, Japan | MAN-B&W | Jan-26 | 4 X 30,5t CRANES |
+| HANDY | NORDIC SKAGEN | 33,741 | 2010 | TK, S. Korea | MAN-B&W | Oct-25 | 4 X 30t CRANES |
 | Containers |  |  |  |  |  |  |  |
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear |
-| POST PMAX | TS DUBAI | 6,350 | 2007 | KOYO MIHARA, Japan | MAN-B&amp;W | Mar-23 |  |
-| POST PMAX | TS MUMBAI | 5,680 | 2003 | HYUNDAI, S. Korea | B&amp;W | Mar-27 |  |
+| POST PMAX | TS DUBAI | 6,350 | 2007 | KOYO MIHARA, Japan | MAN-B&W | Mar-23 |  |
+| POST PMAX | TS MUMBAI | 5,680 | 2003 | HYUNDAI, S. Korea | B&W | Mar-27 |  |
 
 © Intermodal Research 14/03/2023 5
 

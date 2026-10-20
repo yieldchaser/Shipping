@@ -145,20 +145,20 @@ Supramax 10TC averaged \$ 9,351/day up +30.76% w-o-w, while the Handysize 7TC av
 ## Tankers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AFRA | CAPRICORN SUN | 115,577 | 2007 | SASEBO, Japan | MAN-B\&amp;W | Aug-25 | DH | region $ 61,0 | Chinese |
-| AFRA | RED SUN | 115,325 | 2008 | SASEBO, Japan | MAN-B\&amp;W | Dec-28 | DH | region $ 61,0 | Chinese |
-| LR1 | CHEMTRANS POLARIS | 72,291 | 2005 | HUDONG-ZHONGHUA, China | B\&amp;W | May-25 | DH | $ 12.0m | Chinese |
-| MR2 | NH ERLE | 49,999 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Sep-25 | DH | mid $ 22,0m each | undisclosed |
-| MR2 | NH SIRI | 49,999 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Dec-25 | DH | mid $ 22,0m each | undisclosed |
+| AFRA | CAPRICORN SUN | 115,577 | 2007 | SASEBO, Japan | MAN-B&W | Aug-25 | DH | region $ 61,0 | Chinese |
+| AFRA | RED SUN | 115,325 | 2008 | SASEBO, Japan | MAN-B&W | Dec-28 | DH | region $ 61,0 | Chinese |
+| LR1 | CHEMTRANS POLARIS | 72,291 | 2005 | HUDONG-ZHONGHUA, China | B&W | May-25 | DH | $ 12.0m | Chinese |
+| MR2 | NH ERLE | 49,999 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B&W | Sep-25 | DH | mid $ 22,0m each | undisclosed |
+| MR2 | NH SIRI | 49,999 | 2010 | HYUNDAI MIPO, S. Korea | MAN-B&W | Dec-25 | DH | mid $ 22,0m each | undisclosed |
 
 ## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | MOUNT AUSTIN | 178,623 | 2010 | MITSUI, Japan | MAN-B\&amp;W | Jun-25 |  | $ 26,75m | Chinese |  |
-| KMAX | DREAM STAR | 81,782 | 2014 | TADOTSU, Japan | MAN-B\&amp;W | Apr-29 |  | $ 21,25m | Greek (Stealth) | Scrubber fitted |
-| UMAX | WESTERN FUJI | 63,597 | 2020 | NANTONG XIANGYU, China | MAN-B\&amp;W | Jun-25 | 4 X 35t CRANES | excess $ 28,0m | undisclosed | Scrubber fitted, Eco |
-| SUPRA | FEDERAL LYRA | 55,725 | 2014 | MITSUI, Japan | MAN-B\&amp;W | Nov-26 | 4 X 30t CRANES | excess $ 18,0m | Indonesian |  |
-| HANDY | SEASTAR EXPLORER | 34,569 | 2012 | SHANHAIGUAN, China | MAN-B\&amp;W | Jan-27 | 4 X 30t CRANES | high $ 9,0m | undisclosed |  |
+| CAPE | MOUNT AUSTIN | 178,623 | 2010 | MITSUI, Japan | MAN-B&W | Jun-25 |  | $ 26,75m | Chinese |  |
+| KMAX | DREAM STAR | 81,782 | 2014 | TADOTSU, Japan | MAN-B&W | Apr-29 |  | $ 21,25m | Greek (Stealth) | Scrubber fitted |
+| UMAX | WESTERN FUJI | 63,597 | 2020 | NANTONG XIANGYU, China | MAN-B&W | Jun-25 | 4 X 35t CRANES | excess $ 28,0m | undisclosed | Scrubber fitted, Eco |
+| SUPRA | FEDERAL LYRA | 55,725 | 2014 | MITSUI, Japan | MAN-B&W | Nov-26 | 4 X 30t CRANES | excess $ 18,0m | Indonesian |  |
+| HANDY | SEASTAR EXPLORER | 34,569 | 2012 | SHANHAIGUAN, China | MAN-B&W | Jan-27 | 4 X 30t CRANES | high $ 9,0m | undisclosed |  |
 
 ---
 
