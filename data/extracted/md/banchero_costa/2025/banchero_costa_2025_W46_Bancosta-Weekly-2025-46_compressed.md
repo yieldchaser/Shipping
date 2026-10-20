@@ -392,16 +392,16 @@ Korean yard Hyundai secured an order for 2 x 165,000 dwt suezmax vessels from Gr
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | Oct-25 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 70.4 | +0.1% | -1.6% |
-| **Kamsarmax** | usd mln | 35.7 | -0.3% | -5.0% |
-| **Ultramax** | usd mln | 33.2 | +0.1% | -5.2% |
-| **Handysize** | usd mln | 29.6 | +0.0% | -3.7% |
-| **VLCC** | usd mln | 121.1 | -0.1% | -1.2% |
-| **Suezmax** | usd mln | 80.5 | +0.0% | -1.9% |
-| **LR2 Coated** | usd mln | 68.4 | +0.0% | -1.5% |
-| **MR2 Coated** | usd mln | 44.2 | -0.0% | -1.5% |
+| Vessel Class | Unit | Oct-25 | Sep-25 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 70.4 | 70.3 | +0.1% | -1.6% |
+| **Kamsarmax** | usd mln | 35.7 | 35.8 | -0.3% | -5.0% |
+| **Ultramax** | usd mln | 33.2 | 33.2 | +0.1% | -5.2% |
+| **Handysize** | usd mln | 29.6 | 29.6 | +0.0% | -3.7% |
+| **VLCC** | usd mln | 121.1 | 121.3 | -0.1% | -1.2% |
+| **Suezmax** | usd mln | 80.5 | 80.4 | +0.0% | -1.9% |
+| **LR2 Coated** | usd mln | 68.4 | 68.4 | +0.0% | -1.5% |
+| **MR2 Coated** | usd mln | 44.2 | 44.2 | -0.0% | -1.5% |
 
 > **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 

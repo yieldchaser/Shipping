@@ -372,16 +372,16 @@ The Greece-based Evalend Shipping Co. placed an order of 2 x 157,000 dwt Suezmax
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | Aug-25 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 70.4 | -0.3% | -0.2% |
-| **Kamsarmax** | usd mln | 35.9 | -0.3% | -4.3% |
-| **Ultramax** | usd mln | 33.4 | -0.5% | -5.0% |
-| **Handysize** | usd mln | 29.7 | -0.3% | -3.6% |
-| **VLCC** | usd mln | 121.3 | -0.0% | -1.1% |
-| **Suezmax** | usd mln | 80.5 | -0.0% | -1.9% |
-| **LR2 Coated** | usd mln | 68.3 | -0.0% | -1.5% |
-| **MR2 Coated** | usd mln | 44.3 | +0.0% | -2.5% |
+| Vessel Class | Unit | Aug-25 | Jul-25 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 70.4 | 70.6 | -0.3% | -0.2% |
+| **Kamsarmax** | usd mln | 35.9 | 36.0 | -0.3% | -4.3% |
+| **Ultramax** | usd mln | 33.4 | 33.5 | -0.5% | -5.0% |
+| **Handysize** | usd mln | 29.7 | 29.8 | -0.3% | -3.6% |
+| **VLCC** | usd mln | 121.3 | 121.3 | -0.0% | -1.1% |
+| **Suezmax** | usd mln | 80.5 | 80.5 | -0.0% | -1.9% |
+| **LR2 Coated** | usd mln | 68.3 | 68.3 | -0.0% | -1.5% |
+| **MR2 Coated** | usd mln | 44.3 | 44.3 | +0.0% | -2.5% |
 
 > **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 

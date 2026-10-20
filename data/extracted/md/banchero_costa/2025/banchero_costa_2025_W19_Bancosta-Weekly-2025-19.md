@@ -367,16 +367,16 @@ In the chemical sector, the Norwegian company Odfjell ASA secured two different 
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | Apr-25 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 71.1 | -0.4% | +8.3% |
-| **Kamsarmax** | usd mln | 36.5 | -1.0% | +1.1% |
-| **Ultramax** | usd mln | 33.8 | -0.9% | +0.1% |
-| **Handysize** | usd mln | 29.8 | -0.9% | -1.8% |
-| **VLCC** | usd mln | 121.9 | -0.1% | +3.5% |
-| **Suezmax** | usd mln | 80.6 | -0.1% | +2.6% |
-| **LR2 Coated** | usd mln | 69.4 | -0.2% | +6.1% |
-| **MR2 Coated** | usd mln | 44.5 | -0.3% | +3.3% |
+| Vessel Class | Unit | Apr-25 | Mar-25 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 71.1 | 71.4 | -0.4% | +8.3% |
+| **Kamsarmax** | usd mln | 36.5 | 36.8 | -1.0% | +1.1% |
+| **Ultramax** | usd mln | 33.8 | 34.1 | -0.9% | +0.1% |
+| **Handysize** | usd mln | 29.8 | 30.0 | -0.9% | -1.8% |
+| **VLCC** | usd mln | 121.9 | 122.1 | -0.1% | +3.5% |
+| **Suezmax** | usd mln | 80.6 | 80.7 | -0.1% | +2.6% |
+| **LR2 Coated** | usd mln | 69.4 | 69.5 | -0.2% | +6.1% |
+| **MR2 Coated** | usd mln | 44.5 | 44.6 | -0.3% | +3.3% |
 
 > **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
