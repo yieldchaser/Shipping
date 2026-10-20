@@ -367,8 +367,8 @@ In Handysize the Pacific stayed steady, ending the week on a positive note, trad
 | --- | --- | --- | --- | --- | --- |
 | **BSI 63 TC Avg. (S11TC)** | usd/day | 22,579 | 22,332 | +1.1% | +20.4% |
 | **BSI 63 Asia TC Avg. (S3TC\_63)** | usd/day | 21,054 | 20,802 | +1.2% | +31.6% |
-| **S4A USG-Skaw/Pass** | usd/day | 32,644 | 32,763 | ~~-0.4%~~ | ~~-3.6%~~ |
-| **S1C USG-China/S Jpn** | usd/day | 32,731 | 33,331 | ~~-1.8%~~ | +3.0% |
+| **S4A USG-Skaw/Pass** | usd/day | 32,644 | 32,763 | -0.4% | -3.6% |
+| **S1C USG-China/S Jpn** | usd/day | 32,731 | 33,331 | -1.8% | +3.0% |
 | **S9 WAF-ECSA-Med** | usd/day | 23,478 | 22,838 | +2.8% | +26.5% |
 | **S1B Canakkale-FEast** | usd/day | 26,322 | 25,621 | +2.7% | +25.9% |
 | **S2 N China Aus/Pac RV** | usd/day | 21,144 | 20,919 | +1.1% | +32.4% |
@@ -384,7 +384,7 @@ In Handysize the Pacific stayed steady, ending the week on a positive note, trad
 | **HS2\_38 Skaw/Pass-US** | usd/day | 14,014 | 12,700 | +10.3% | +10.4% |
 | **HS3\_38 ECSAm-Skaw/Pass** | usd/day | 25,678 | 25,167 | +2.0% | +11.6% |
 | **HS4\_38 USG-Skaw/Pass** | usd/day | 24,914 | 24,000 | +3.8% | +18.4% |
-| **HS5\_38 SE Asia-Spore/Jpn** | usd/day | 17,894 | 18,044 | ~~-0.8%~~ | +29.2% |
+| **HS5\_38 SE Asia-Spore/Jpn** | usd/day | 17,894 | 18,044 | -0.8% | +29.2% |
 | **HS6\_38 Pacific RV** | usd/day | 17,244 | 17,244 | +0.0% | +33.9% |
 | **38k Handy 1-Y Period** | usd/day | 17,000 | 17,000 | +0.0% | +30.8% |
 
@@ -489,7 +489,7 @@ A steady week for Handies, with
 | **TC5-TCE LR1 AG-Japan (55k)** | usd/day | 187,550 | 171,732 | +9.2% | +987.2% |
 | **TC8 LR1 AG-UKC (65k)** | usd/mt | 186.37 | 172.31 | +8.2% | +331.6% |
 | **TC2 MR UKC-USAC (37k)** | ws | 172.8 | 149.4 | +15.6% | +37.2% |
-| **TC2-TCE MR UKC-USAC** | usd/day | 6,380 | 1,350 | +372.6% | ~~-41.6%~~ |
+| **TC2-TCE MR UKC-USAC** | usd/day | 6,380 | 1,350 | +372.6% | -41.6% |
 | **TC14 MR USG-UKC (38k)** | ws | 272.1 | 231.4 | +17.6% | +56.1% |
 | **TC14-TCE MR USG-UKC** | usd/day | 7,900,000 | 7,390,000 | +6.9% | +150.0% |
 | **TC19 MR UKC-Wafr (37k)** | ws | 245.5 | 219.5 | +11.8% | +68.0% |
@@ -543,7 +543,7 @@ COFFEE STAR, blt 2008, 990 teu, 621 @14, gless, Fixed to SEA CONSORTIUM for 14-1
 | **2700 teu (1Y, g'less)** | usd/day | 41,464 | 41,145 | +0.8% | +13.5% |
 | **2500 teu (1Y, geared)** | usd/day | 38,168 | 37,882 | +0.8% | +10.9% |
 | **1700 teu (1Y, geared)** | usd/day | 35,059 | 34,877 | +0.5% | +32.4% |
-| **1100 teu (1Y, geared)** | usd/day | 17,377 | 17,395 | ~~-0.1%~~ | +4.5% |
+| **1100 teu (1Y, geared)** | usd/day | 17,377 | 17,395 | -0.1% | +4.5% |
 
 > **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
@@ -556,9 +556,9 @@ COFFEE STAR, blt 2008, 990 teu, 621 @14, gless, Fixed to SEA CONSORTIUM for 14-1
 
 | FREIGHTOS | Unit | 25-Sep | 18-Sep | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
-| **FBX** | index | 3,380 | 3,407 | ~~-0.8%~~ | +77.7% |
+| **FBX** | index | 3,380 | 3,407 | -0.8% | +77.7% |
 | **China - WCNA** | usd/feu | 8,411 | 8,102 | +3.8% | +284.9% |
-| **China - N. Europe** | usd/feu | 3,376 | 3,702 | ~~-8.8%~~ | +53.7% |
+| **China - N. Europe** | usd/feu | 3,376 | 3,702 | -8.8% | +53.7% |
 
 > **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 

@@ -215,19 +215,19 @@ Saldanha Bay–Qingdao declined in every session, by USD 1.00/wmt, 90 cents/wmt,
 
 | Tenor | Unit | 2-Oct | 25-Sep | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
-| **BCI 182 TC Average** | usd/day | 45,731 | 52,457 | ~~-12.8%~~ | ~~+75.2%~~ |
-| **C2 Tubarao- Rotterdam** | usd/t | 17.63 | 19.85 | ~~-11.2%~~ | ~~+48.1%~~ |
-| **C3 Tubarao - Qingdao** | usd/t | 37.65 | 42.40 | ~~-11.2%~~ | ~~+60.1%~~ |
-| **C5 W. Aust. - Qingdao** | usd/t | 14.43 | 15.63 | ~~-7.7%~~ | ~~+61.9%~~ |
-| **C7 Bolivar-Rotterdam** | usd/t | 23.46 | 24.66 | ~~-4.8%~~ | ~~+83.3%~~ |
-| **C17 S.Africa-China** | usd/day | 28.53 | 31.28 | ~~-8.8%~~ | ~~+60.6%~~ |
-| **C8 Transatlantic r/v** | usd/day | 57,719 | 62,938 | ~~-8.3%~~ | ~~+160.7%~~ |
-| **C9 Fronthaul** | usd/day | 87,400 | 91,494 | ~~-4.5%~~ | ~~+105.0%~~ |
-| **C10 Pacific r/v** | usd/day | 38,846 | 45,863 | ~~-15.3%~~ | ~~+91.9%~~ |
-| **C14 China-Brazil r/v** | usd/day | 41,814 | 50,694 | ~~-17.5%~~ | ~~+77.8%~~ |
-| **C16 Backhaul** | usd/day | 16,789 | 22,833 | ~~-26.5%~~ | ~~+176.9%~~ |
-| **Newcastlemax 1-Y Period** | usd/day | 45,000 | 46,000 | ~~-2.2%~~ | ~~+64.2%~~ |
-| **Capesize 1-Y Period** | usd/day | 39,000 | 41,000 | ~~-4.9%~~ | ~~+59.2%~~ |
+| **BCI 182 TC Average** | usd/day | 45,731 | 52,457 | -12.8% | +75.2% |
+| **C2 Tubarao- Rotterdam** | usd/t | 17.63 | 19.85 | -11.2% | +48.1% |
+| **C3 Tubarao - Qingdao** | usd/t | 37.65 | 42.40 | -11.2% | +60.1% |
+| **C5 W. Aust. - Qingdao** | usd/t | 14.43 | 15.63 | -7.7% | +61.9% |
+| **C7 Bolivar-Rotterdam** | usd/t | 23.46 | 24.66 | -4.8% | +83.3% |
+| **C17 S.Africa-China** | usd/day | 28.53 | 31.28 | -8.8% | +60.6% |
+| **C8 Transatlantic r/v** | usd/day | 57,719 | 62,938 | -8.3% | +160.7% |
+| **C9 Fronthaul** | usd/day | 87,400 | 91,494 | -4.5% | +105.0% |
+| **C10 Pacific r/v** | usd/day | 38,846 | 45,863 | -15.3% | +91.9% |
+| **C14 China-Brazil r/v** | usd/day | 41,814 | 50,694 | -17.5% | +77.8% |
+| **C16 Backhaul** | usd/day | 16,789 | 22,833 | -26.5% | +176.9% |
+| **Newcastlemax 1-Y Period** | usd/day | 45,000 | 46,000 | -2.2% | +64.2% |
+| **Capesize 1-Y Period** | usd/day | 39,000 | 41,000 | -4.9% | +59.2% |
 
 > **Chart (not transcribed):** BCI TC & CAPESIZE 1-YR TC (USD/DAY). The report prints no values for it.
 
@@ -351,12 +351,12 @@ In Handysize the Pacific stayed subdued, regional holidays limiting activity, al
 | --- | --- | --- | --- | --- | --- |
 | **BSI 63 TC Avg. (S11TC)** | usd/day | 22,619 | 22,579 | +0.2% | +22.9% |
 | **BSI 63 Asia TC Avg. (S3TC\_63)** | usd/day | 21,213 | 21,054 | +0.8% | +39.9% |
-| **S4A USG-Skaw/Pass** | usd/day | 32,038 | 32,644 | ~~-1.9%~~ | ~~-7.7%~~ |
-| **S1C USG-China/S Jpn** | usd/day | 31,794 | 32,731 | ~~-2.9%~~ | +0.3% |
+| **S4A USG-Skaw/Pass** | usd/day | 32,038 | 32,644 | -1.9% | -7.7% |
+| **S1C USG-China/S Jpn** | usd/day | 31,794 | 32,731 | -2.9% | +0.3% |
 | **S9 WAF-ECSA-Med** | usd/day | 23,981 | 23,478 | +2.1% | +26.5% |
-| **S1B Canakkale-FEast** | usd/day | 25,786 | 26,322 | ~~-2.0%~~ | +17.2% |
+| **S1B Canakkale-FEast** | usd/day | 25,786 | 26,322 | -2.0% | +17.2% |
 | **S2 N China Aus/Pac RV** | usd/day | 21,444 | 21,144 | +1.4% | +40.3% |
-| **S10 S China-Indo RV** | usd/day | 16,543 | 16,550 | ~~-0.0%~~ | +28.3% |
+| **S10 S China-Indo RV** | usd/day | 16,543 | 16,550 | -0.0% | +28.3% |
 | **Ultramax 1-Y Period** | usd/day | 20,000 | 20,000 | +0.0% | +35.1% |
 | **Supramax 1-Y Period** | usd/day | 17,000 | 17,000 | +0.0% | +27.8% |
 
@@ -364,12 +364,12 @@ In Handysize the Pacific stayed subdued, regional holidays limiting activity, al
 
 | Tenor | Unit | 2-Oct | 25-Sep | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
-| **BHSI 38 TC Average** | usd/day | 18,117 | 18,190 | ~~-0.4%~~ | +16.5% |
+| **BHSI 38 TC Average** | usd/day | 18,117 | 18,190 | -0.4% | +16.5% |
 | **HS2\_38 Skaw/Pass-US** | usd/day | 14,514 | 14,014 | +3.6% | +3.1% |
-| **HS3\_38 ECSAm-Skaw/Pass** | usd/day | 25,594 | 25,678 | ~~-0.3%~~ | +7.6% |
-| **HS4\_38 USG-Skaw/Pass** | usd/day | 24,107 | 24,914 | ~~-3.2%~~ | +6.8% |
-| **HS5\_38 SE Asia-Spore/Jpn** | usd/day | 17,531 | 17,894 | ~~-2.0%~~ | +24.8% |
-| **HS6\_38 Pacific RV** | usd/day | 17,206 | 17,244 | ~~-0.2%~~ | +34.1% |
+| **HS3\_38 ECSAm-Skaw/Pass** | usd/day | 25,594 | 25,678 | -0.3% | +7.6% |
+| **HS4\_38 USG-Skaw/Pass** | usd/day | 24,107 | 24,914 | -3.2% | +6.8% |
+| **HS5\_38 SE Asia-Spore/Jpn** | usd/day | 17,531 | 17,894 | -2.0% | +24.8% |
+| **HS6\_38 Pacific RV** | usd/day | 17,206 | 17,244 | -0.2% | +34.1% |
 | **38k Handy 1-Y Period** | usd/day | 17,000 | 17,000 | +0.0% | +27.8% |
 
 > **Chart (not transcribed):** BSI TC & SUPRAMAX 1-YR TC (USD/DAY). The report prints no values for it.
@@ -398,7 +398,7 @@ Delays for daylight-restricted tankers at the **Turkish Straits** are up to abou
 
 | VLCC | Unit | 2-Oct | 25-Sep | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
-| **TD2 AG-Singapore** | ws | 1129.5 | 1155.6 | ~~-2.3%~~ | +1217.2% |
+| **TD2 AG-Singapore** | ws | 1129.5 | 1155.6 | -2.3% | +1217.2% |
 | **TD3C AG-China** | ws | 1203.1 | 1157.5 | +3.9% | +1369.2% |
 | **TD3C-TCE AG-China** | usd/day | 1,286,655 | 1,234,685 | +4.2% | +1788.1% |
 | **TD15 WAF-China** | ws | 639.4 | 512.2 | +24.8% | +699.2% |
@@ -420,8 +420,8 @@ Delays for daylight-restricted tankers at the **Turkish Straits** are up to abou
 
 | AFRAMAX | Unit | 2-Oct | 25-Sep | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
-| **TD7 NSea-Cont** | ws | 411.7 | 425.0 | ~~-3.1%~~ | +196.7% |
-| **TD7-TCE NSea-Cont** | usd/day | 305,166 | 314,796 | ~~-3.1%~~ | +522.0% |
+| **TD7 NSea-Cont** | ws | 411.7 | 425.0 | -3.1% | +196.7% |
+| **TD7-TCE NSea-Cont** | usd/day | 305,166 | 314,796 | -3.1% | +522.0% |
 | **TD8 Kuwait-China** | ws | 1127.14 | 867.50 | +29.9% | +604.5% |
 | **TD8-TCE Kuwait-China** | usd/day | 354,017 | 264,575 | +33.8% | +792.4% |
 | **TD9 Caribs-USG** | ws | 791.1 | 600.0 | +31.9% | +452.4% |
@@ -536,12 +536,12 @@ DEVON, blt 2008, 1,118 teu, 712 @14, geared, Fixed to SWIRE for 14-16 mos at USD
 | VHSS | Unit | 2-Oct | 25-Sep | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
 | **ConTex** | index | 1,651 | 1,649 | +0.1% | +7.6% |
-| **4250 teu (1Y, g'less)** | usd/day | 59,300 | 59,315 | ~~-0.0%~~ | +13.1% |
+| **4250 teu (1Y, g'less)** | usd/day | 59,300 | 59,315 | -0.0% | +13.1% |
 | **3500 teu (1Y, g'less)** | usd/day | 45,848 | 45,780 | +0.1% | +5.6% |
 | **2700 teu (1Y, g'less)** | usd/day | 41,591 | 41,464 | +0.3% | +13.8% |
 | **2500 teu (1Y, geared)** | usd/day | 38,316 | 38,168 | +0.4% | +11.3% |
 | **1700 teu (1Y, geared)** | usd/day | 35,255 | 35,059 | +0.6% | +33.8% |
-| **1100 teu (1Y, geared)** | usd/day | 17,298 | 17,377 | ~~-0.5%~~ | +4.7% |
+| **1100 teu (1Y, geared)** | usd/day | 17,298 | 17,377 | -0.5% | +4.7% |
 
 > **Chart (not transcribed):** GEARLESS - 1 YR TC PERIOD (USD/DAY). The report prints no values for it.
 
@@ -554,9 +554,9 @@ DEVON, blt 2008, 1,118 teu, 712 @14, geared, Fixed to SWIRE for 14-16 mos at USD
 
 | FREIGHTOS | Unit | 2-Oct | 25-Sep | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
-| **FBX** | index | 3,343 | 3,380 | ~~-1.1%~~ | +78.7% |
-| **China - WCNA** | usd/feu | 8,322 | 8,411 | ~~-1.1%~~ | +349.1% |
-| **China - N. Europe** | usd/feu | 3,260 | 3,376 | ~~-3.4%~~ | +54.1% |
+| **FBX** | index | 3,343 | 3,380 | -1.1% | +78.7% |
+| **China - WCNA** | usd/feu | 8,322 | 8,411 | -1.1% | +349.1% |
+| **China - N. Europe** | usd/feu | 3,260 | 3,376 | -3.4% | +54.1% |
 
 > **Chart (not transcribed):** FREIGHTOS BALTIC CONTAINER INDEX. The report prints no values for it.
 
@@ -706,12 +706,12 @@ A couple of sales to report this week including the U-Ming of Taiwan controlled 
 
 | Segment | Unit | 2-Oct | 25-Sep | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
-| **Dry Pakistan** | usd/ldt | 505.9 | 507.4 | ~~-0.3%~~ | +19.1% |
-| **Dry India** | usd/ldt | 472.2 | 477.8 | ~~-1.2%~~ | +12.6% |
-| **Dry Bangladesh** | usd/ldt | 506.4 | 508.7 | ~~-0.5%~~ | +26.1% |
-| **Tnk Pakistan** | usd/ldt | 521.5 | 524.1 | ~~-0.5%~~ | +20.4% |
-| **Tnk India** | usd/ldt | 486.4 | 490.0 | ~~-0.7%~~ | +13.4% |
-| **Tnk Bangladesh** | usd/ldt | 523.8 | 525.2 | ~~-0.3%~~ | +27.0% |
+| **Dry Pakistan** | usd/ldt | 505.9 | 507.4 | -0.3% | +19.1% |
+| **Dry India** | usd/ldt | 472.2 | 477.8 | -1.2% | +12.6% |
+| **Dry Bangladesh** | usd/ldt | 506.4 | 508.7 | -0.5% | +26.1% |
+| **Tnk Pakistan** | usd/ldt | 521.5 | 524.1 | -0.5% | +20.4% |
+| **Tnk India** | usd/ldt | 486.4 | 490.0 | -0.7% | +13.4% |
+| **Tnk Bangladesh** | usd/ldt | 523.8 | 525.2 | -0.3% | +27.0% |
 
 > **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 

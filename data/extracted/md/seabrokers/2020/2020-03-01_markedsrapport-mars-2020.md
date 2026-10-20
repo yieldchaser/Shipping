@@ -490,7 +490,7 @@ Kajima Corporation has awarded Seajacks a foundation installation contract for t
 | Nov 19 | $62.74                        | 72.9%                            | 75.9%                         | 45.6%                   |
 | Dec 19 | $65.85                        | 73.1%                            | 75.7%                         | 44.6%                   |
 | Jan 20 | $63.60                        | 73.4%                            | 78.5%                         | 45.3%                   |
-| Feb 20 |                               | 75.2%                            | ~~81.4%~~ 81.7%               | 45.4%                   |
+| Feb 20 | $55.00                        | 75.2%                            | 81.4%                         | 45.4%                   |
 | Mar 20 | $35.06                        | 74.9%                            | 81.7%                         | 45.9%                   |
 
 ## INACTIVE RIGS NORTHWEST EUROPE
