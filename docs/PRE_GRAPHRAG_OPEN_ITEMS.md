@@ -33,7 +33,18 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
      236 filed Ultramax S11TC as Supramax 10TC and MR2 as LR2). Issue date = slug date (Oct issues were posting date).
      `xclusiv_newbuilding_series.csv` (byte copy of _prices) deleted; legacy cover-to-cover script retired.
      Proof: 2026-10-12 rows stripped and re-ingested = identical in 5 series.
-   - [ ] Hellenic MMI  - [ ] Clarksons  - [ ] Breakwave  - [ ] Intermodal
+   - [x] Hellenic MMI: nothing to port. The 6-page layout (p2 spreads, p3 normalisation, PB Fines ports) was last
+     published 2026-09-11; from 2026-09-14 MMI is a 1-page SMM report, parsed in CI by `run_smm_iron_ore_daily.py`.
+     Gap left: CI has no 6-page parser, so a returning 6-page issue would get no MD (not a wrong one).
+   - [x] Clarksons: nothing to port. The market box (Baltic/FX/Brent/bunkers) is printed only up to 2023; 132/132
+     MDs whose PDF prints it carry it. 2023-08-11 had it split over pages 2-3 (BHSI on p3): added from the render.
+   - [x] Breakwave: nothing to port. 212/212 dry bulk MDs have the Freight Rates rows; CI 2026-10-13 output has them.
+   - [x] Intermodal sales tables: `scripts/md_cleanup/intermodal_sales_geometry.py` runs in
+     `run_intermodal_full.process_single_pdf` before the tables are parsed. Proof: CI output of W40/W41 2026 + rebuild
+     = the repaired MDs, 0 cell differences; end to end, every sidecar table identical (the finance step adds stocks,
+     bunkers, macro). Corpus scan: every vessel printed in a PDF sales table is in its MD.
+   - [ ] Intermodal tanker spot table: W41 2026 arrived with rows shifted one down and sector labels lost (fixed by
+     hand). No CI gate yet for that table.
    - [x] Advanced Shipping (extractor fixed in bc6be6f998)
 2. **Duplicate Star Asia PDFs from two ingest paths.** `report_ingest.yml` saves `star_asia_2026_W4x_Market-Report-Week-4x.pdf`
    and `broker_reports_weekly.yml` saves `star_asia_DD_MM_2026_..._week_4x.pdf` (identical bytes, W41/W42).

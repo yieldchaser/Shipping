@@ -1216,6 +1216,16 @@ def process_single_pdf(
                         print(f"\n[ALERT] All LlamaParse keys exhausted on {pdf_path.name}: {e}")
                 raise e
 
+    # 1b. Secondhand-sales tables from the PDF word geometry (the parse shifts their cells between rows/columns);
+    #     guarded, so a failed check keeps the parsed tables
+    sys.path.insert(0, str(ROOT / "scripts" / "md_cleanup"))
+    import intermodal_sales_geometry
+    try:
+        full_text, geo_status = intermodal_sales_geometry.rebuild(full_text, pdf_path)
+        print(f"  [intermodal] {stem} sales tables: {geo_status}")
+    except Exception as e:
+        print(f"  [intermodal] {stem} sales geometry failed ({e}); parsed tables kept")
+
     # 2. Extract tables across all pages
     parsed = parse_all_intermodal_tables(full_text, issue_date, wk, pdf_path.name)
 

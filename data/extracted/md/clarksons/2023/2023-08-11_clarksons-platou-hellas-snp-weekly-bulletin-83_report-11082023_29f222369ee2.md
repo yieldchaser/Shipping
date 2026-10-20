@@ -58,3 +58,29 @@ We would also like to congratulate the latest recycling yard in Bangladesh calle
 | Vessel | DWT | Built | Details | Price | Delivery |
 |---|---|---|---|---|---|
 | No reported sales |  |  |  |  |  |
+
+## Baltic Index
+
+| Index | Value | Change |
+| --- | --- | --- |
+| BDI | 1129 | - 8 |
+| BCI | 1592 | - 82 |
+| BPI | 1337 | + 45 |
+| BSI | 728 | + 22 |
+| BHSI | 411 | + 10 |
+
+## Exchange Rate
+
+| Rate | Value |
+| --- | --- |
+| Euro/USD | 1.09977 |
+| YEN/USD | 0.00694 |
+| Brent (USD) | 87.102 |
+
+## Bunker Prices (USD)
+
+| BUNKERS | ROTTERDAM | SPORE | FUJAIRAH |
+| --- | --- | --- | --- |
+| VLSFO | 627.00 | 663.00 | 651.00 |
+| MGO | 916.00 | 944.00 | 976.50 |
+| IFO 380 | 601.00 | 585.00 | 540.50 |
