@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 14:49:53Z",
+  "updated_at": "2026-10-20 20:41:41Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -851,7 +851,7 @@
     {
       "file": "athenian_indicative_demolition_series.csv",
       "target_metric": "Athenian Indicative Demolition",
-      "rows": 3064,
+      "rows": 3076,
       "columns": [
         "issue_date",
         "report_week",
@@ -881,7 +881,7 @@
     {
       "file": "athenian_yearly_demolition_volume_series.csv",
       "target_metric": "Athenian Yearly Demolition Volume",
-      "rows": 4042,
+      "rows": 4058,
       "columns": [
         "issue_date",
         "report_week",
@@ -2630,7 +2630,7 @@
     {
       "file": "hellenic_vv_sales_series.csv",
       "target_metric": "Hellenic Vv Sales",
-      "rows": 2077,
+      "rows": 2091,
       "columns": [
         "issue_date",
         "sector",
@@ -3723,7 +3723,7 @@
     {
       "file": "xclusiv_baltic_indices_series.csv",
       "target_metric": "Xclusiv Baltic Indices",
-      "rows": 1029,
+      "rows": 1036,
       "columns": [
         "issue_date",
         "report_week",
@@ -3776,7 +3776,7 @@
     {
       "file": "xclusiv_freight_benchmarks_series.csv",
       "target_metric": "Freight spot earnings & 1Y TC benchmarks ($/day)",
-      "rows": 3748,
+      "rows": 3757,
       "columns": [
         "issue_date",
         "report_week",
@@ -3791,7 +3791,7 @@
     {
       "file": "xclusiv_macro_bunkers_series.csv",
       "target_metric": "Macro commodity prices & bunker spreads ($/t)",
-      "rows": 1060,
+      "rows": 1064,
       "columns": [
         "issue_date",
         "report_week",
@@ -3807,7 +3807,7 @@
     {
       "file": "xclusiv_newbuilding_orders_series.csv",
       "target_metric": "Newbuilding reported contracts & orders",
-      "rows": 1328,
+      "rows": 1336,
       "columns": [
         "issue_date",
         "report_week",
@@ -3827,7 +3827,7 @@
     {
       "file": "xclusiv_newbuilding_prices_series.csv",
       "target_metric": "Indicative newbuilding prices ()",
-      "rows": 1397,
+      "rows": 1406,
       "columns": [
         "issue_date",
         "report_week",
@@ -3877,13 +3877,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 696250,
+  "total_master_stacked_rows": 696329,
   "total_master_series_csvs": 162,
-  "total_stacked_rows": 696250,
+  "total_stacked_rows": 696329,
   "total_series_csvs": 162,
   "total_master_workbooks": 1,
   "total_series_count": 162,
-  "total_rows_extracted": 696555,
+  "total_rows_extracted": 696634,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 606,
     "advanced_shipping_demolition_series.csv": 2024,
@@ -3895,9 +3895,9 @@
     "affinity_tce_series.csv": 4077,
     "agora_indicators_series.csv": 10002,
     "athenian_historical_demolition_prices_series.csv": 240,
-    "athenian_indicative_demolition_series.csv": 3064,
+    "athenian_indicative_demolition_series.csv": 3076,
     "athenian_market_commentary_series.csv": 6,
-    "athenian_yearly_demolition_volume_series.csv": 4042,
+    "athenian_yearly_demolition_volume_series.csv": 4058,
     "baltic_ncfi_series.csv": 2053,
     "baltic_reports_metadata.csv": 2239,
     "bancosta_commodities_series.csv": 8546,
@@ -3983,7 +3983,7 @@
     "hellenic_smm_market_drivers_series.csv": 25,
     "hellenic_vv_benchmark_sales_series.csv": 124,
     "hellenic_vv_matrix_series.csv": 12373,
-    "hellenic_vv_sales_series.csv": 2077,
+    "hellenic_vv_sales_series.csv": 2091,
     "intermodal_baltic_indices_series.csv": 1265,
     "intermodal_bunkers_series.csv": 2305,
     "intermodal_currencies_series.csv": 692,
@@ -4038,13 +4038,13 @@
     "star_asia_metals_energy_series.csv": 1382,
     "star_asia_snp_sales_series.csv": 3696,
     "star_asia_valuation_matrix_series.csv": 3346,
-    "xclusiv_baltic_indices_series.csv": 1029,
+    "xclusiv_baltic_indices_series.csv": 1036,
     "xclusiv_demo_sales_series.csv": 613,
     "xclusiv_demolition_series.csv": 2106,
-    "xclusiv_freight_benchmarks_series.csv": 3748,
-    "xclusiv_macro_bunkers_series.csv": 1060,
-    "xclusiv_newbuilding_orders_series.csv": 1328,
-    "xclusiv_newbuilding_prices_series.csv": 1397,
+    "xclusiv_freight_benchmarks_series.csv": 3757,
+    "xclusiv_macro_bunkers_series.csv": 1064,
+    "xclusiv_newbuilding_orders_series.csv": 1336,
+    "xclusiv_newbuilding_prices_series.csv": 1406,
     "xclusiv_sales_series.csv": 5593,
     "xclusiv_secondhand_series.csv": 8625
   }
