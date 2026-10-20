@@ -6,7 +6,7 @@ week: 1
 date_range: "2024-01-03 to 2024-01-04"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-20 10:23:44"
+generated_at: "2026-10-20 12:50:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 01, 2024

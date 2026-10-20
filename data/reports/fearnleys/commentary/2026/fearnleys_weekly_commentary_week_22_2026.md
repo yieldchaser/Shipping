@@ -6,7 +6,7 @@ week: 22
 date_range: "2026-05-27 to 2026-05-29"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-20 10:23:46"
+generated_at: "2026-10-20 12:50:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 22, 2026
