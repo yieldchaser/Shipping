@@ -26,7 +26,8 @@ OUT = ROOT / "data" / "derived" / "readiness"
 # Untracked PDFs live only in the main checkout when this runs from a worktree.
 PDF_ROOTS = [ROOT, ROOT.parents[2]] if ROOT.parent.name == "worktrees" else [ROOT]
 
-NUM = re.compile(r"(?<![\w.])-?\d[\d,]*(?:\.\d+)?")
+# A number stands alone: '143B927' and 'I07112J' (glyph codes of garbled fonts, Banchero 2025 p13) are not numbers.
+NUM = re.compile(r"(?<![\w.])-?\d[\d,]*(?:\.\d+)?(?!\w)")
 
 
 PHONE = re.compile(r"\+\s?\d|\b(?:tel|mob|mobile|fax|phone)\b", re.I)

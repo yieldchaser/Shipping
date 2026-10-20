@@ -555,3 +555,43 @@ India's wheat production is set to jump to a record after all-time high prices p
 ## **Worst drought in decades sees Argentina exchange slash soy, corn harvest forecasts**
 
 Argentina's Rosario Grains exchange sharply cut its forecast for the 2022/23 soybean harvest to 37 million tonnes from a previous forecast of 49 million, it said on Wednesday, as the country faces its worst drought in 60 years. The exchange also slashed its 2022/23 corn harvest estimate to around 45 million tonnes, down from 55 million previously. Source: Reuters / S&P Platts
+
+# COMMODITY NEWS – OIL & GAS
+
+## **China 2022 crude oil imports fall for second year despite Q4 pickup**
+
+China's crude oil imports fell for the second year in a row in 2022 despite a burst of purchases in the fourth quarter, as the country's strict COVID-19 control measures hobbled the economy and fuel demand. Imports for the full year by the world's top buyer totalled 508.28 million tonnes, equivalent to 10.17 million barrels per day, 0.9% lower than in 2021, according to data from the General Administration of Customs.
+
+## **Russian oil shipped to Asia in Chinese supertankers amid ship shortage**
+
+At least four Chinese-owned supertankers are shipping Russian Urals crude to China, according to trading sources and tracking data, as Moscow seeks vessels for exports after a G7 oil price cap restricted the use of Western cargo services and insurance. China, the world's top oil importer, has continued buying Russian oil despite Western sanctions, after Russian President Vladimir Putin and Chinese leader Xi Jinping launched what they called a no-limit partnership before the war in Ukraine.
+
+## **G7 seeks two price caps for Russian oil products**
+
+The Group of Seven (G7) coalition will seek to set two price caps on Russian refined products in February, one for products trading at a premium to crude oil and the other for those trading at a discount, a G7 official said. The coalition - which consists of Australia, Canada, Japan and the United States, plus the 27-nation European Union - introduced a $60 per barrel price cap on Russian crude from Dec. 5, on top of the EU embargo on imports of Russian crude by sea.
+
+## **U.S. crude output and petroleum demand to rise in 2023 – EIA**
+
+The U.S. Energy Information Administration on Tuesday raised its forecast for this year's crude output and petroleum consumption growth, projecting even higher growth in 2024. The EIA projected that crude oil production would rise by 550,000 bpd to 12.41 million barrels in 2023, compared with its previous estimate of a 470,000 bpd rise.
+
+## **Russian budget revenues from oil taxes drop to lowest since March 2021 in December**
+
+Russian state budget revenue from oil taxes declined in December to 511.7 billion roubles, the lowest since March 2021, according to data from the Finance Ministry, following a slide in oil prices. However, total oil and gas revenues, which account for almost a half of total state budget proceeds, rose by 6% last month in annualised terms to 931.5 billion roubles thanks to a hike in taxes on gas giant Gazprom, after a drop of 2.1% in November.
+
+## **China fuel exports to slip in Jan as Lunar New Year travel peaks**
+
+China's exports of refined oil products could start 2023 with a drop of 40% in January from December's figure, as Lunar New Year travel demand boosts domestic consumption of transport fuels, trading sources and analysts said. The fall in exports from China, which has the world's second-largest refining capacity after the United States, is expected to underpin Asian refiners' margins for transport fuels.
+
+## **Indonesia palm oil export curbs, biodiesel plans to hit world vegoil supplies**
+
+A move by top palm oil exporter Indonesia to restrict shipments and boost domestic biodiesel consumption is set to squeeze global vegetable oil supplies already undercut by lower output in Southeast Asia and Latin America. Edible oil buyers, including price-sensitive consumers in South Asia and Africa, will bear the brunt of the supply-side constraints that come just as demand is forecast to climb, with China easing COVID-19 controls and India boosting purchases.
+
+## **U.S. gas prices slump on production surplus: Kemp**
+
+U.S. gas inventories finished 2022 well below the seasonal average after an unusually sharp drop in the final two weeks of the year as a result of the extreme cold associated with winter storm Elliott on Dec. 24. Working gas stocks in underground storage were 293 billion cubic feet (-9%) below the pre-pandemic five-year seasonal average on Dec. 30 compared with a deficit of 71 billion cubic feet (-2%) on Dec. 16.
+
+## **Global LNG volumes hit record high as Europe crowds out poorer Asia: Russell**
+
+The world imported more liquefied natural gas (LNG) in 2022 than ever before, but the war in Ukraine has meant that the growth was concentrated in wealthy European countries and away from poorer Asian countries. Total global LNG imports rose to 409 million tonnes last year from 386.5 million tonnes in 2021, according to data from Refinitiv, while figures from commodity analysts Kpler showed a slightly lower 400.5 million tonnes, up from 379.6 million tonnes.
+
+# Source: Reuters / S&P Platts

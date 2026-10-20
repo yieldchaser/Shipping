@@ -560,3 +560,43 @@ The forecast for Argentina's current corn crop could face yet another reduction,
 ## **Cheap Russian wheat dominates Egypt's 655,000 T purchase**
 
 Egypt's state grains buyer, the General Authority for Supply Commodities, bought 655,000 tonnes of wheat in an international tender on Tuesday with cheap Russian wheat dominating the business, traders said on Wednesday. The total is believed to involve an estimated 535,000 tonnes sourced from Russia and 120,000 tonnes from Romania. Source: Reuters / S&P Platts
+
+# COMMODITY NEWS – OIL & GAS
+
+## **OPEC oil output falls on Iraq, Nigeria outages, Reuters survey finds**
+
+OPEC oil output fell in April due to a halt in some of Iraq's exports and delays to Nigerian shipments, a Reuters survey found on Tuesday, adding to the impact of strong adherence by top producers to a supply cut deal by the wider OPEC+ alliance. The Organization of the Petroleum Exporting Countries pumped 28.62 million barrels per day last month, the survey found, down 190,000 bpd from March
+
+## **U.S. April oil exports top forecasts on Chinese demand**
+
+U.S. crude oil exports rose more-than-expected last month, building on a record 4.5 million barrels per day in March, as Chinese refiners snapped up cargoes to meet rising fuel demand, according to ship tracking data and analysts. U.S. crude exports rose by 22% last year from 2021 after Russia's invasion of Ukraine led the European Union, Britain, Canada and the U.S to ban imports of Russian oil and changed global flows.
+
+## **Saudi Arabia cut June crude prices for Asia**
+
+Saudi Arabia, the world's top oil exporter, has cut the price of its June flagship crude to Asian buyers for the first time in four months, following a plunge in refining margins. The official selling price for June-loading Arab Light to Asia was reduced by 25 cents a barrel from May to $2.55 a barrel over Oman/Dubai quotes, according to a statement issued by state oil giant Saudi Aramco.
+
+## **China's Shenghong Petrochemical granted crude oil import license**
+
+China's privately controlled refiner Shenghong Petrochemical has been granted a crude oil import license, according to the local government of east China's Lianyungang city, where the company is based. With a crude oil import license, Shenghong Petrochemical will now be able to import directly for its 320,000 barrels per day refinery, one of China's newly launched refineries, instead of having to buy crude via a licensed trader.
+
+## **Venezuela's oil tankers at risk of sinking, fires, spills, report finds**
+
+More than half of the 22 oil tankers in Venezuela's fleet are so run down that they should be immediately repaired or taken out of service, according to an internal report from state-run oil company PDVSA that was shared exclusively with Reuters. The report by PDVSA's maritime branch, entitled "Critical deficiencies and risks of PDV Marina's tanker fleet," said years of deferred maintenance had left the entire fleet with "low levels of reliability," at risk of spills, sinking, fires, collisions or flooding.
+
+## **Iraq's oil minister expects northern exports to resume within two weeks**
+
+Iraq expects to reach an agreement with the Kurdistan Regional Government to restart oil export flows from the country's semi-autonomous Kurdistan region within two weeks, Oil Minister Hayan Abdel-Ghani said at a conference in Baghdad on Wednesday. Turkey halted Iraq's 450,000 barrels per day of northern exports through the Iraq-Turkey pipeline on March 25 after an arbitration ruling by the International Chamber of Commerce
+
+## **Australian LNG producers rise after more favourable petroleum tax change**
+
+Shares of Australian liquefied natural gas producers rose after the government adopted more favourable-than-expected changes to petroleum tax, ensuring the load was shared across the industry and did not impact growth projects. Woodside Energy Group Ltd, the country's biggest independent oil and gas producer, was trading 2.5% higher, while closest rival Santos Ltd was up 1.5% as at 0249 GMT.
+
+## **EU joint gas buying scheme attracts demand from 65 firms**
+
+More than 60 companies have submitted demands to buy gas through the European Union's scheme for joint purchases, with the bloc aiming for the first deals to be signed within months. The EU is launching a joint gas buying scheme to help fill gas storage ahead of winter - and avoid a repeat of the record-high energy prices and fears of energy shortages in Europe last year after Russia slashed gas deliveries.
+
+## **Global gas markets rebalancing, to remain tight in 2023-IEA**
+
+Global gas markets are gradually rebalancing but are expected to remain tight in 2023 amid lower Russian pipeline gas deliveries to Europe, the International Energy Agency said on Thursday. The European and global gas markets suffered a major supply shock in 2022 when Russia reduced its pipeline gas deliveries to the European Union by 80%, triggering a global energy crisis.
+
+# Source: Reuters / S&P Platts

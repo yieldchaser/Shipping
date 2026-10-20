@@ -555,6 +555,46 @@ DERIVATIVES MARKET REPORT – WEEK 11/2022 12
 > **Chart (not transcribed):** WHEAT & CORN PRICES (USD/T). The report prints no values for it.
 
 # COMMODITIES
+# COMMODITY NEWS – DRY BULK
+
+## **Russia temporarily bans grain exports to ex-Soviet countries**
+
+Russia temporarily banned grain exports to ex-Soviet countries and most sugar exports, but a senior minister said it would keep on providing special export licences to traders within its current quota. Russia is the world's largest wheat exporter with Egypt and Turkey among the main buyers. It competes mainly with the European Union and Ukraine.
+
+## **Strategie Grains raises EU wheat export outlook on Ukraine conflict**
+
+Some 11 million tonnes of wheat will be lost from the global market in the 2021/22 season because of the conflict between Russia and Ukraine, Strategie Grains said as the consultancy raised its estimate for European Union exports. The closure of Ukrainian ports and sanctions imposed on Russia after it invaded its neighbour have disrupted shipments through the Black Sea, sending grain prices to record highs.
+
+## **Argentina analyzing soy oil, meal tax hikes amid inflation battle**
+
+Argentina, the world's top exporter of processed soy products, is weighing raising taxes on soybean oil and meal exports as part of a plan to tamp down sky-high inflation, a government source told Reuters. The government halted registration of new export sales of soy oil and meal on Sunday, drawing swift condemnation from the industry and triggering speculation the tax rate for soy oil and meal exports could be hiked.
+
+## **Brazil's record wheat exports bring funds to boost domestic production, reduce imports**
+
+Brazil, one of the world's biggest wheat importers, could sharply reduce its dependence on foreign crops as record export demand provides farmers with the funds to expand their planting areas. The country exported around 2.5 million tonnes of wheat from December to March, an unprecedented volume driven by a historically good harvest in 2021, while demand has been further boosted by the war between major suppliers Russia and Ukraine.
+
+## **EU hikes tariffs on India, Indonesia stainless steel imports**
+
+The European Union will increase tariffs on stainless steel products from India and Indonesia after determining they benefited from unfair subsidies, including some from China under its Belt and Road investment programme. The European Commission, which conducted the investigation, has set the anti-subsidy duties on stainless steel cold-rolled flat products at rates of between 4.3% and 21.4%, the EU official journal said.
+
+## **Strong Asian rice demand for animal feed sparks food supply worries**
+
+A surge in wheat and corn prices is boosting demand for low-grade rice in animal rations across Asia, pushing up prices of the world's most important staple at a time when global food inflation is already hovering near record highs. Global crop importers are scrambling for supplies after Russia's invasion of Ukraine severed grain shipments from the two countries, which together account for around 25% of world wheat and 16% of world corn exports.
+
+## **India acts to seize gap in wheat export market left by Ukraine war**
+
+India is rolling out ambitious measures over the coming weeks to try to establish the country as a dominant exporter of high-quality wheat as importers scramble for supplies following Russia's invasion of Ukraine, two government sources said. The measures, which should be implemented over the course of around two weeks, include ensuring government-approved laboratories test the quality of wheat for export, making extra rail wagons available for transport and working with port authorities to give priority to wheat exports.
+
+## **IGC cuts forecast for Ukraine grain exports**
+
+The International Grains Council (IGC) cut its forecast for Ukraine's grain exports in the current 2021/22 season, noting ongoing conflict in the country had fuelled concerns about potential food security risks. Ukraine's grain exports were revised to 47.8 million tonnes, sharply down from last month's forecast of 62.8 million with the council noting projections were especially tentative and subject to significant uncertainty.
+
+## **India boosts fertiliser imports from Canada, Israel as Russian supply disrupted**
+
+India is boosting fertiliser imports from nations including Canada and Israel to ensure sufficient supplies for the coming summer sowing season after the disruption of shipments caused by Russia's invasion of Ukraine. India is a leading importer of fertilisers for its huge agriculture sector, which employs about 60% of the country's workforce and accounts for 15% of the $2.7 trillion economy.
+
+# Source: Reuters
+
 # COMMODITY NEWS – OIL & GAS
 
 ## **Europe faces struggle to escape Russian gas this year**
