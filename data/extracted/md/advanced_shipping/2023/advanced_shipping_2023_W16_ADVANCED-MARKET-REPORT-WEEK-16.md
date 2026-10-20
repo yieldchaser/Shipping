@@ -123,7 +123,11 @@ A generally quiet week for this segment. A number of trips from Thailand into In
 | Post Panamax | Lisbon | 6.078 | 2003 | Hanjin, Korea | 05/2023 | Sulzer | - | $ 22m | Swiss based (MSC) |  |
 | Post Panamax | Maersk Yamuna | 5.928 | 2004 | Koyo, Japan | 02/2024 | MAN- B&W | - | Undisclosed | Swiss based (MSC) | Delivered |
 | Sub Panamax | Calais Trader | 2.526 | 2001 | Kvaerner, Germany | 04/2026 | B&W | 3x45T | $ 8,15m | Chinese |  |
+
+### Gas
+
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | Gaz Liberty | 49.996 | 1997 | Kawasaki, Japan | 08/2027 | B&W | 77.936 | Undisclosed | Middle Eastern |  |
 
 ## Page 5

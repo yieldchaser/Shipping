@@ -130,12 +130,13 @@ In the Pacific, regional departures from South East Asia and North China to Japa
 
 ### Gas
 
-| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LPG | CYH Quanzhou | 54.747 | 2016 | Daewoo, Korea | 10/2026 | MAN-B&W | 82.478 |  |  |
-| LPG | CYH Yongchun | 54.336 | 2014 | Hyundai, Korea | 09/2029 | MAN-B&W | 82.460 |  |  |
-| LPG | Hellas Hercules | 54.409 | 2015 | Hyundai, Korea | 10/2030 | MAN-B&W | 82.320 | $ 95,5m | UAE (SPM Shipping) |
-| LPG | Hellas Poseidon | 54.361 | 2015 | Hyundai, Korea | 11/2030 | MAN-B&W | 82.320 | $ 101m | Chinese |
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | CYH Quanzhou | 54.747 | 2016 | Daewoo, Korea | 10/2026 | MAN-B&W | 82.478 | $ 300m enbloc | UAE (ADNOC L&S) |  |
+| LPG | CYH Fujian | 54.501 | 2015 | Hyundai Samho, Korea | 06/2030 | MAN-B&W | 82.320 | $ 300m enbloc | UAE (ADNOC L&S) |  |
+| LPG | CYH Yongchun | 54.336 | 2014 | Hyundai, Korea | 09/2029 | MAN-B&W | 82.460 | $ 300m enbloc | UAE (ADNOC L&S) |  |
+| LPG | Hellas Hercules | 54.409 | 2015 | Hyundai, Korea | 10/2030 | MAN-B&W | 82.320 | $ 95,5m | UAE (SPM Shipping) |  |
+| LPG | Hellas Poseidon | 54.361 | 2015 | Hyundai, Korea | 11/2030 | MAN-B&W | 82.320 | $ 101m | Chinese |  |
 
 ## Page 5
 

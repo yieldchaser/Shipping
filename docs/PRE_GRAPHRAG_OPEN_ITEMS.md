@@ -81,7 +81,14 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
 - [ ] Intermodal merged cells written blank: some older MDs leave the other rows of a merged price blank instead of
       the "(en bloc)" form (e.g. 2022 W13, ten Hafnia handies at $ 242.4m). 58 series rows have no price; each needs
       a render check before it is marked en bloc.
-- [ ] Advanced Shipping: 15 cell conflicts left after the geometry splice.
+- [x] Advanced Shipping 15 splice conflicts (2026-10-20), each checked on the render:
+      8 are the 2023 W31-W37 outlined-glyph tables, where the stored table (5bf9a513e5) is the better one: kept.
+      Fixed by hand: 2023 W16 and 2024 W43 (Gas table header inside the Containers table; W43 had also lost
+      Najade and Clipper Star), 2024 W44 (Containers table lost: Brussels), 2025 W17 (Contship Win filed under
+      Tankers with shifted cells), 2024 W40 (Barcelona Express missing; merged $ 180m / $ 300m en bloc price and
+      buyer cells split across rows), 2026 W40 (CYH Fujian missing, merged $ 300m en bloc / ADNOC cells lost,
+      Comments column dropped). Sidecars re-derived for those sections; the 5 series re-stacked (the stack of the
+      untouched sidecars reproduced the committed series byte for byte first).
 - [x] `docs/EXTRACTION_REGISTER.md`: claimed Xclusiv is "100% cover-to-cover" (false: contacts page excluded; the
       commodities page was missing until 08e38a6712). Corrected, with Intermodal's same claim (final page excluded).
 - [ ] Hellenic MMI generator prints 696 as `696.00` / `+5.00` (values exact; 1,190 MDs cosmetic).

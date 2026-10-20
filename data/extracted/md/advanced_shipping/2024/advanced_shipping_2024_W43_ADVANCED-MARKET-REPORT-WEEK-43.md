@@ -97,8 +97,14 @@ Trips from China via Indonesia into Continent were reported at the level of usd 
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sub Panamax | Najade | 2.702 | 2007 | Nordseewerke, Germany | 03/2027 | MAN-B&W | - | Region $ 20m | German | BWTS fitted, Ice Class II, Dely Q1 2025 |
 | Feeder | Green Ace | 1.740 | 2005 | Guangzhou, China | 09/2025 | MAN-B&W | 2x45T | $ 11,5m | Undisclosed | BWTS fitted, Ice Class 1C |
+
+### Gas
+
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Clipper Star | 44.807 | 2003 | Kawasaki, Japan | 03/2028 | MAN-B&W | 58.156 | $ 32m | Undisclosed | BWTS fitted |
 
 ## Page 4
 

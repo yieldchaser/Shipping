@@ -104,13 +104,14 @@ Continental trips into Mediterranean were reported at the level of usd 10,000/12
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Post Panamax | Hyundai Paramount | 5.023 | 2013 | Hyundai, Korea | 03/2028 | Wartsila | - | $ 300m enbloc |  | Scrubber fitted |
-| Post Panamax | Hyundai Platinum | 5.023 | 2013 | Hyundai, Korea | 06/2028 | Wartsila | - | $ 300m enbloc |  | Scrubber fitted |
+| Post Panamax | Hyundai Paramount | 5.023 | 2013 | Hyundai, Korea | 03/2028 | Wartsila | - | $ 300m enbloc | Undisclosed | Scrubber fitted |
+| Post Panamax | Hyundai Platinum | 5.023 | 2013 | Hyundai, Korea | 06/2028 | Wartsila | - | $ 300m enbloc | Undisclosed | Scrubber fitted |
 | Post Panamax | Hyundai Premium | 5.023 | 2013 | Hyundai, Korea | 03/2028 | Wartsila | - | $ 300m enbloc | Undisclosed | Scrubber fitted |
-| Post Panamax | Hyundai Prestige | 5.023 | 2013 | Hyundai, Korea | 02/2028 | Wartsila | - | $ 300m enbloc |  | Scrubber fitted |
-| Post Panamax | Hyundai Privilege | 5.023 | 2013 | Hyundai, Korea | 05/2028 | Wartsila | - | $ 300m enbloc |  | Scrubber fitted |
-| Panamax | Detroit Express | 3.832 | 2014 | HHIC, Philippines | 07/2029 | Wartsila | 3x45T Cr 1x40T Cr | $ 180m enbloc | German (MPC Container |  |
-| Panamax | Genoa Express | 3.832 | 2014 | HHIC, Philippines | 08/2029 | Wartsila | 3x45T Cr 1x40T Cr | enbloc | Container Ships) |  |
+| Post Panamax | Hyundai Prestige | 5.023 | 2013 | Hyundai, Korea | 02/2028 | Wartsila | - | $ 300m enbloc | Undisclosed | Scrubber fitted |
+| Post Panamax | Hyundai Privilege | 5.023 | 2013 | Hyundai, Korea | 05/2028 | Wartsila | - | $ 300m enbloc | Undisclosed | Scrubber fitted |
+| Panamax | Barcelona Express | 3.832 | 2014 | HHIC, Philippines | 08/2029 | Wartsila | 3x45T Cr 1x40T Cr | $ 180m enbloc | German (MPC Container Ships) |  |
+| Panamax | Detroit Express | 3.832 | 2014 | HHIC, Philippines | 07/2029 | Wartsila | 3x45T Cr 1x40T Cr | $ 180m enbloc | German (MPC Container Ships) |  |
+| Panamax | Genoa Express | 3.832 | 2014 | HHIC, Philippines | 08/2029 | Wartsila | 3x45T Cr 1x40T Cr | $ 180m enbloc | German (MPC Container Ships) |  |
 | Panamax | Livorno Express | 3.832 | 2014 | HHIC, Philippines | 07/2029 | Wartsila | 3x45T Cr 1x40T Cr | $ 180m enbloc | German (MPC Container Ships) |  |
 | Panamax | Chopin | 3.635 | 2012 | Shanghai, China | 11/2027 | MAN-B&W | 4x45T | $ 24,1m | Norwegian | Incl T/C |
 
