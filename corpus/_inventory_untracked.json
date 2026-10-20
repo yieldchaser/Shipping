@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2934,
-      "untracked_bytes": 2297439428
+      "untracked_files": 2933,
+      "untracked_bytes": 2297417240
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,11 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/xclusiv/2026/xclusiv_20_10_2026_xclusiv_shipbrokers_weekly_19th_october_2026.md",
-      "bytes": 22188,
-      "sha256": "27d864c84fa2670a6ba88261abcd48bf15b742d34d4f8faff251a4140bac42e6"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
