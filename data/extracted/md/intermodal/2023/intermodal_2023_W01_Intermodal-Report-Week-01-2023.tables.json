@@ -794,10 +794,10 @@
         "m_e": "Wartsila",
         "ss_due": "Oct-26",
         "gear_hull": "DH",
-        "price_raw": "$ 20.7m",
+        "price_raw": "$ 20.7m (en bloc)",
         "price_usd_m": 20.7,
-        "buyers": "",
-        "comments": "",
+        "buyers": "Canadian (Algoma)",
+        "comments": "Ice 1A",
         "source_file": "intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf"
       },
       {
@@ -812,10 +812,10 @@
         "m_e": "Wartsila",
         "ss_due": "Oct-26",
         "gear_hull": "DH",
-        "price_raw": "",
-        "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "price_raw": "$ 20.7m (en bloc)",
+        "price_usd_m": 20.7,
+        "buyers": "Canadian (Algoma)",
+        "comments": "Ice 1A",
         "source_file": "intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf"
       },
       {

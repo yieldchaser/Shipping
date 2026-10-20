@@ -151,9 +151,9 @@ The Ultramax and Supramax sectors displayed a generally cautious tone. European 
 | LR1 | AGILE | 73,611 | 2007 | NEW TIMES, China | MAN B\&W | PASSED | DH | $ 13.5m | Greek |  |
 | MR2 | BINTA SALEH | 47,366 | 2010 | ONOMICHI, Japan | MAN B\&W | May-30 | DH | $ 22.5m | undisclosed |  |
 | MR1 | HAFNIA MAGELLAN | 39,067 | 2015 | HYUNDAI MIPO, South Korea | MAN B\&W | May-30 | DH | $ 31.0m each | Sokana | Eco |
-| MR1 | HAFNIA MALACCA | 39,067 | 2015 | HYUNDAI MIPO, South Korea | MAN B\&W | Jul-30 | DH |  |  |  |
-| MR1 | HAFNIA SUNDA | 39,067 | 2015 | HYUNDAI MIPO, South Korea | MAN B\&W | Sep-30 | DH |  |  |  |
-| MR1 | HAFNIA TORRES | 39,067 | 2016 | HYUNDAI MIPO, South Korea | MAN B\&W | May-26 | DH |  |  |  |
+| MR1 | HAFNIA MALACCA | 39,067 | 2015 | HYUNDAI MIPO, South Korea | MAN B\&W | Jul-30 | DH | $ 31.0m each | Sokana | Eco |
+| MR1 | HAFNIA SUNDA | 39,067 | 2015 | HYUNDAI MIPO, South Korea | MAN B\&W | Sep-30 | DH | $ 31.0m each | Sokana | Eco |
+| MR1 | HAFNIA TORRES | 39,067 | 2016 | HYUNDAI MIPO, South Korea | MAN B\&W | May-26 | DH | $ 31.0m each | Sokana | Eco |
 
 # Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |

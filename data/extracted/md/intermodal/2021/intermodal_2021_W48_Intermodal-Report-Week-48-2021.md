@@ -213,8 +213,8 @@ In the Kamsarmax sector we had the sale of the "KING BARLEY" (82,177dwt-blt '12,
 | PMAX | ZHONG XIN PEARL | 75,321 | 2013 | GUANGZHOU HUANGPU, China | MAN-B&W | Sep-23 |  | undisclosed | Chinese |  |
 | PMAX | SHANDONG HONG TU | 76,116 | 2012 | HUDONG-ZHONGHUA, China | MAN-B&W | Jan-22 |  | $ 20.25m | undisclosed | Tier II, online commercial auction |
 | UMAX | VIRGO COLOSSUS | 61,616 | 2012 | OSHIMA, Japan | MAN-B&W | Sep-22 |  | $ 24.0m | Greek | old sale, delivery Feb |
-| SUPRA | UNIVERSAL BANGKOK | 56,729 | 2012 | QINGSHAN, China | MAN-B&W | Apr-22 | 4 X 30t CRANES | $ 33.0m | undisclosed | BWTS fitted |
-| SUPRA | UNIVERSAL BREMEN | 56,726 | 2010 | QINGSHAN, China | MAN-B&W | Dec-25 | 4 X 30t CRANES |  |  |  |
+| SUPRA | UNIVERSAL BANGKOK | 56,729 | 2012 | QINGSHAN, China | MAN-B&W | Apr-22 | 4 X 30t CRANES | $ 33.0m (en bloc) | undisclosed | BWTS fitted |
+| SUPRA | UNIVERSAL BREMEN | 56,726 | 2010 | QINGSHAN, China | MAN-B&W | Dec-25 | 4 X 30t CRANES | $ 33.0m (en bloc) | undisclosed | BWTS fitted |
 | SUPRA | XIANG HUA | 53,350 | 2003 | TOYOHASHI, Japan | MAN-B&W | May-23 | 4 X 30,5t CRANES | $ 11.2m | undisclosed |  |
 | HMAX | WAJED | 45,621 | 1998 | TSUNEISHI, Japan | B&W | Jan-23 | 4 X 30t CRANES | $ 10.2m | undisclosed |  |
 | HANDY | SINLAU BULKER | 34,485 | 2018 | HAKODATE, Japan | MAN-B&W | Jun-23 | 4 X 30t CRANES | $ 25.0m | Greek |  |

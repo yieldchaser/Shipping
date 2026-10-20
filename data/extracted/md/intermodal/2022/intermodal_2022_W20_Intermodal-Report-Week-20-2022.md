@@ -257,9 +257,9 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 ## Containers
 | Sector | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FEEDER | MAERSK NIAGARA | 2,556 | 2008 | HYUNDAI, S. Korea | Wartsila | Nov-23 | 4 X 40t CRANES |  |  | Ice class 1A |
-| FEEDER | MAERSK NIAMEMY | 2,556 | 2009 | HYUNDAI, S. Korea | Wartsila | Mar-24 | 4 X 40t CRANES | $ 150.0m | European | Ice class 1A |
-| FEEDER | MAERSK NIJMEGEN | 2,556 | 2009 | HYUNDAI, S. Korea | Wartsila | May-24 | 4 X 40t CRANES |  |  | Ice class 1A |
+| FEEDER | MAERSK NIAGARA | 2,556 | 2008 | HYUNDAI, S. Korea | Wartsila | Nov-23 | 4 X 40t CRANES | $ 150.0m (en bloc) | European | Ice class 1A |
+| FEEDER | MAERSK NIAMEMY | 2,556 | 2009 | HYUNDAI, S. Korea | Wartsila | Mar-24 | 4 X 40t CRANES | $ 150.0m (en bloc) | European | Ice class 1A |
+| FEEDER | MAERSK NIJMEGEN | 2,556 | 2009 | HYUNDAI, S. Korea | Wartsila | May-24 | 4 X 40t CRANES | $ 150.0m (en bloc) | European | Ice class 1A |
 | FEEDER | HANSA COBURG | 1,740 | 2007 | GUANGZHOU WENCHONG, China | MAN-B&W | Apr-22 | 2 X 40t CRANES | $ 30.0m | French (CMA CGM) |  |
 | FEEDER | CONMAR AVENUE | 1,036 | 2012 | JIANGDONG, China | MAN | Oct-22 |  | undisclosed | German (Ernst Russ AG) |  |
 

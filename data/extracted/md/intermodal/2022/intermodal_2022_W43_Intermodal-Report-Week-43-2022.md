@@ -218,9 +218,9 @@ In the Handysize sector we had the sale of the "WAAL CONFIDENCE" (33,387dwt-blt 
 | LR1 | HOUSTON STAR | 74,999 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Feb-24 | DH | $ 13.0m | Turkish |  |
 | MR2 | CELSIUS RIMINI | 53,603 | 2009 | SHIN KURUSHIMA, Japan | Mitsubishi | Mar-27 | DH | $ 24.0m | undisclosed | BWTS fitted |
 | MR2 | ATLANTICA BELL | 50,844 | 2006 | STX, S. Korea | MAN-B&W | Mar-26 | DH | $ 20.7m | undisclosed | BWTS fitted, Ice Class 1A |
-| SMALL | BRO ANNA | 16,868 | 2008 | GEMAK, Turkey | MAN | Feb-23 | DH |  |  |  |
+| SMALL | BRO ANNA | 16,868 | 2008 | GEMAK, Turkey | MAN | Feb-23 | DH | $ 27.0m (en bloc) | undisclosed | Ice Class 1A |
 |  |  |  |  |  |  |  |  | $ 27.0m | undisclosed | Ice Class 1A |
-| SMALL | BRO AGNES | 16,791 | 2008 | TURKTER, Turkey | MAN | Mar-23 | DH |  |  |  |
+| SMALL | BRO AGNES | 16,791 | 2008 | TURKTER, Turkey | MAN | Mar-23 | DH | $ 27.0m (en bloc) | undisclosed | Ice Class 1A |
 | SMALL | BERNORA | 13,148 | 2008 | 21ST CENTURY, S. Korea | MAN-B&W | Mar-23 | DH | high $ 7.0m | Norwegian | BWTS fitted |
 ## Bulk Carriers
 

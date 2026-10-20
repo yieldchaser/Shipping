@@ -1180,10 +1180,10 @@
         "m_e": "Wartsila",
         "ss_due": "Nov-23",
         "gear_hull": "4 X 40t CRANES",
-        "price_raw": "",
-        "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "price_raw": "$ 150.0m (en bloc)",
+        "price_usd_m": 150.0,
+        "buyers": "European",
+        "comments": "Ice class 1A",
         "source_file": "intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf"
       },
       {
@@ -1198,10 +1198,10 @@
         "m_e": "Wartsila",
         "ss_due": "Mar-24",
         "gear_hull": "4 X 40t CRANES",
-        "price_raw": "$ 150.0m",
+        "price_raw": "$ 150.0m (en bloc)",
         "price_usd_m": 150.0,
         "buyers": "European",
-        "comments": "",
+        "comments": "Ice class 1A",
         "source_file": "intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf"
       },
       {
@@ -1216,10 +1216,10 @@
         "m_e": "Wartsila",
         "ss_due": "May-24",
         "gear_hull": "4 X 40t CRANES",
-        "price_raw": "",
-        "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "price_raw": "$ 150.0m (en bloc)",
+        "price_usd_m": 150.0,
+        "buyers": "European",
+        "comments": "Ice class 1A",
         "source_file": "intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf"
       },
       {

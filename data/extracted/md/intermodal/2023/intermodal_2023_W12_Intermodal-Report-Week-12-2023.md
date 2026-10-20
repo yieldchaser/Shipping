@@ -242,8 +242,8 @@ In the Panamax sector we had the sale of the "TR INFINITY" (77,113dwt-blt '15, J
 ## Gas/LPG/LNG
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LNG | GASLOG SYDNEY | 82,010 | 2013 | SAMSUNG, S. Korea | Wartsila | May-23 | 151,900 |  |  |  |
-| LNG | GASLOG SARATOGA | 81,855 | 2014 | SAMSUNG, S. Korea | Wartsila | Dec-24 | 151,990 | $ 284.0m | Chinese (CDBL) |  |
+| LNG | GASLOG SYDNEY | 82,010 | 2013 | SAMSUNG, S. Korea | Wartsila | May-23 | 151,900 | $ 284.0m (en bloc) | Chinese (CDBL) |  |
+| LNG | GASLOG SARATOGA | 81,855 | 2014 | SAMSUNG, S. Korea | Wartsila | Dec-24 | 151,990 | $ 284.0m (en bloc) | Chinese (CDBL) |  |
 | LPG | GAS BERYL | 53,010 | 2010 | KAWASAKI, Japan | MAN-B&W | Sep-25 | 78,595 | $ 59.0m | undisclosed | on subs |
 
 © Intermodal Research 28/03/2023 5

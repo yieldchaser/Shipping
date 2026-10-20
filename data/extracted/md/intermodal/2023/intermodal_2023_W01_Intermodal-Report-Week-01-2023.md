@@ -209,8 +209,8 @@ In the Supramax sector we had the sale of the "SEA KSANTI" (59,941dwt-blt '12, S
 | VLCC | ASIA DAWN | 281,396 | 2005 | IHI MARINE, Japan | Sulzer | Oct-25 | DH | low $50.0m | Middle Eastern | BWTS fitted |
 | VLCC | COSGREAT LAKE | 298,833 | 2002 | NANTONG,China | MAN-B&W | Dec-27 | DH | $ 39.0m | Middle Eastern (GMS) | BWTS fitted |
 | SUEZ | ICE TRANSPORTER | 146,270 | 2006 | UNIVERSAL, Japan | MAN-B&W | Oct-26 | DH | $ 47.5m | Middle Eastern | BWTS fitted, Ice 1A |
-| SMALL | CHANTACO | 18,734 | 2007 | RMK MARINE, Turkey | Wartsila | Oct-26 | DH | $ 20.7m | Canadian (Algoma) | Ice 1A |
-| SMALL | CHIBERTA | 18,734 | 2007 | RMK MARINE, Turkey | Wartsila | Oct-26 | DH |  |  | Ice 1A |
+| SMALL | CHANTACO | 18,734 | 2007 | RMK MARINE, Turkey | Wartsila | Oct-26 | DH | $ 20.7m (en bloc) | Canadian (Algoma) | Ice 1A |
+| SMALL | CHIBERTA | 18,734 | 2007 | RMK MARINE, Turkey | Wartsila | Oct-26 | DH | $ 20.7m (en bloc) | Canadian (Algoma) | Ice 1A |
 ## Bulk Carriers
 
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |

@@ -215,19 +215,19 @@ In the Supramax sector we had the sale of the "SITC TAISHAN" (58,107dwt-blt '10,
 
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAPE | DONG-A ASTREA | 179,329 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Apr-25 |  |  |  |  |
-| CAPE | DONG-A OKNOS | 179,329 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Feb-25 |  | rgn $ 81.0m | Greek (Minerva) |  |
-| CAPE | DONG-A EOS | 179,329 | 2009 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Sep-24 |  |  |  |  |
+| CAPE | DONG-A ASTREA | 179,329 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Apr-25 |  | rgn $ 81.0m (en bloc) | Greek (Minerva) |  |
+| CAPE | DONG-A OKNOS | 179,329 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Feb-25 |  | rgn $ 81.0m (en bloc) | Greek (Minerva) |  |
+| CAPE | DONG-A EOS | 179,329 | 2009 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Sep-24 |  | rgn $ 81.0m (en bloc) | Greek (Minerva) |  |
 | POST PMAX | DOUBLE FORTUNE | 95,790 | 2010 | IMABARI, Japan | MAN-B&W | Sep-25 |  | rgn $ 21.0m | Chinese |  |
 | POST PMAX | CORONA INFINITY | 88,233 | 2002 | IMABARI, Japan | B&W | Oct-22 |  | high $ 12.0m | Chinese |  |
 | PMAX | CORAL OPAL | 78,090 | 2012 | SHIN KURUSHIMA, Japan | MAN-B&W | Mar-22 |  | undisclosed | undisclosed |  |
 | SUPRA | JIN YUN | 56,810 | 2012 | JINLING, China | MAN-B&W | May-22 | 4 X 30t CRANES | $ 17.36m | Chinese | online commercial-auction |
 | SUPRA | ORCHID | 55,598 | 2012 | MITSUI TAMANO, Japan | MAN-B&W | Mar-25 | 4 X 30,5t CRANES | $ 22.6m | undisclosed |  |
 | SUPRA | SITC TAISHAN | 58,107 | 2010 | TSUNEISHI ZHOUSHAN, China | MAN-B&W | Apr-25 | 4 X 30t CRANES | $ 18.25m | Greek |  |
-| HANDY | INTERLINK AUDACITY | 39,100 | 2016 | ZHEJIANG ZENGHOU, China | MAN-B&W | Jul-26 | 4 X 30,5t CRANES |  |  |  |
+| HANDY | INTERLINK AUDACITY | 39,100 | 2016 | ZHEJIANG ZENGHOU, China | MAN-B&W | Jul-26 | 4 X 30,5t CRANES | rgn $ 25.0m each | U.A.E. based (Tomini) | BWTS fitted, Eco |
 | HANDY | INTERLINK AFFINITY | 39,046 | 2016 | ZHEJIANG ZENGHOU, China | MAN-B&W | May-26 | 4 X 30,5t CRANES | rgn $ 25.0m each | U.A.E. based (Tomini) | BWTS fitted, Eco |
-| HANDY | INTERLINK TENACITY | 38,785 | 2016 | TAIZHOU KOUAN, China | MAN-B&W | Jan-26 | 4 X 30t CRANES |  |  |  |
-| HANDY | INTERLINK UTILITY | 38,706 | 2016 | HUATAI NANTONG, China | MAN-B&W | Nov-26 | 4 X 30t CRANES |  |  |  |
+| HANDY | INTERLINK TENACITY | 38,785 | 2016 | TAIZHOU KOUAN, China | MAN-B&W | Jan-26 | 4 X 30t CRANES | rgn $ 25.0m each | U.A.E. based (Tomini) | BWTS fitted, Eco |
+| HANDY | INTERLINK UTILITY | 38,706 | 2016 | HUATAI NANTONG, China | MAN-B&W | Nov-26 | 4 X 30t CRANES | rgn $ 25.0m each | U.A.E. based (Tomini) | BWTS fitted, Eco |
 
 © Intermodal Research 01/03/2022 4
 

@@ -1042,10 +1042,10 @@
         "m_e": "Wartsila",
         "ss_due": "Nov-25",
         "gear_hull": "",
-        "price_raw": "$ 37.0m",
+        "price_raw": "$ 37.0m (en bloc)",
         "price_usd_m": 37.0,
-        "buyers": "",
-        "comments": "",
+        "buyers": "undisclosed",
+        "comments": "BWTS fitted",
         "source_file": "intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf"
       },
       {
@@ -1060,10 +1060,10 @@
         "m_e": "Wartsila",
         "ss_due": "Nov-25",
         "gear_hull": "",
-        "price_raw": "",
-        "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "price_raw": "$ 37.0m (en bloc)",
+        "price_usd_m": 37.0,
+        "buyers": "undisclosed",
+        "comments": "BWTS fitted",
         "source_file": "intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf"
       },
       {

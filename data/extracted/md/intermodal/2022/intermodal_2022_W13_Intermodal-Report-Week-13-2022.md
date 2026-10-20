@@ -216,23 +216,23 @@ In the Supramax sector we had the sale of the “AMOY ACTION” (56,874dwt-blt '
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | EASTERN JUNIPER | 305,749 | 2007 | DAEWOO, S. Korea | MAN-B&W | Jun-22 | DH | $ 36.5m | Middle Eastern |  |
 | VLCC | TOKIO | 306,206 | 2005 | MITSUI CHIBA, Japan | Mitsubishi | Feb-25 | DH | $ 31.5m | Chinese |  |
-| VLCC | FRONT FORCE | 305,442 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jul-24 | DH | rgn $ 70.0m | undisclosed | delievery early Q2-2022 |
-| VLCC | FRONT ENERGY | 305,318 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Sep-24 | DH |  |  |  |
+| VLCC | FRONT FORCE | 305,442 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Jul-24 | DH | rgn $ 70.0m (en bloc) | undisclosed | delievery early Q2-2022 |
+| VLCC | FRONT ENERGY | 305,318 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Sep-24 | DH | rgn $ 70.0m (en bloc) | undisclosed | delievery early Q2-2022 |
 | SUEZ | BARI | 159,186 | 2005 | HYUNDAI ULSAN, S. Korea | MAN-B&W | Apr-25 | DH | $ 21.5m | Greek | BWTS fitted |
 | SUEZ | DA YUAN HU | 159,149 | 2004 | BOHAI, China | MAN-B&W | May-24 | DH | $ 16.5m | undisclosed | bss dely China Apr/May '22 |
-| AFRA | ADVANTAGE ANTHEM | 116,087 | 2011 | SAMSUNG, S. Korea | MAN-B&W | Oct-26 | DH | $ 57.0m | Cyprus based (Synergy Marine) | incl TC attached to Shell at $15,500 p/d until ear 1H-2023 |
-| AFRA | ADVANTAGE AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B&W | Jun-25 | DH |  |  |  |
+| AFRA | ADVANTAGE ANTHEM | 116,087 | 2011 | SAMSUNG, S. Korea | MAN-B&W | Oct-26 | DH | $ 57.0m (en bloc) | Cyprus based (Synergy Marine) | incl TC attached to Shell at $15,500 p/d until ear 1H-2023 |
+| AFRA | ADVANTAGE AVENUE | 115,785 | 2010 | SAMSUNG, S. Korea | MAN-B&W | Jun-25 | DH | $ 57.0m (en bloc) | Cyprus based (Synergy Marine) | incl TC attached to Shell at $15,500 p/d until ear 1H-2023 |
 | AFRA | BERICA | 115,146 | 2008 | SASEBO, Japan | MAN-B&W | Oct-23 | DH | rgn $ 23.0m | undisclosed |  |
 | MR2 | PRIME EXPRESS | 45,996 | 2010 | SHIN KURUSHIMA, Japan | MAN-B&W | Nov-25 | DH | $ 15.5m | Greek |  |
 | MR1 | VS RIESA | 34,558 | 2003 | DALIAN, China | B&W | Jun-23 | DH | $ 5.85m | undisclosed |  |
-| HANDY | HAFNIA SPICA | 25,268 | 2017 | FUKUOKA, Japan | MAN-B&W | May-22 | DH |  |  |  |
-| HANDY | HAFNIA SOL | 25,253 | 2017 | FUKUOKA, Japan | MAN-B&W | Aug-22 | DH |  |  |  |
-| HANDY | HAFNIA SCEPTRUM | 25,198 | 2017 | KITANIHON, Japan | MAN-B&W | May-22 | DH |  |  |  |
-| HANDY | HAFNIA SIRIUS | 25,196 | 2016 | KITANIHON, Japan | MAN-B&W | Jun-26 | DH | $ 242.4m | Dutch (Ace Tankers) |  |
-| HANDY | HAFNIA SPARK | 25,196 | 2016 | KITANIHON, Japan | MAN-B&W | Oct-26 | DH |  |  |  |
-| HANDY | HAFNIA STELLAR | 25,196 | 2016 | KITANIHON, Japan | MAN-B&W | Oct-26 | DH |  |  |  |
-| HANDY | HAFNIA SAIPH | 25,194 | 2017 | KITANIHON, Japan | MAN-B&W | Jan-27 | DH |  |  |  |
-| HANDY | HAFNIA SKY | 25,193 | 2016 | KITANIHON, Japan | MAN-B&W | Aug-26 | DH |  |  |  |
+| HANDY | HAFNIA SPICA | 25,268 | 2017 | FUKUOKA, Japan | MAN-B&W | May-22 | DH | $ 242.4m (en bloc) | Dutch (Ace Tankers) |  |
+| HANDY | HAFNIA SOL | 25,253 | 2017 | FUKUOKA, Japan | MAN-B&W | Aug-22 | DH | $ 242.4m (en bloc) | Dutch (Ace Tankers) |  |
+| HANDY | HAFNIA SCEPTRUM | 25,198 | 2017 | KITANIHON, Japan | MAN-B&W | May-22 | DH | $ 242.4m (en bloc) | Dutch (Ace Tankers) |  |
+| HANDY | HAFNIA SIRIUS | 25,196 | 2016 | KITANIHON, Japan | MAN-B&W | Jun-26 | DH | $ 242.4m (en bloc) | Dutch (Ace Tankers) |  |
+| HANDY | HAFNIA SPARK | 25,196 | 2016 | KITANIHON, Japan | MAN-B&W | Oct-26 | DH | $ 242.4m (en bloc) | Dutch (Ace Tankers) |  |
+| HANDY | HAFNIA STELLAR | 25,196 | 2016 | KITANIHON, Japan | MAN-B&W | Oct-26 | DH | $ 242.4m (en bloc) | Dutch (Ace Tankers) |  |
+| HANDY | HAFNIA SAIPH | 25,194 | 2017 | KITANIHON, Japan | MAN-B&W | Jan-27 | DH | $ 242.4m (en bloc) | Dutch (Ace Tankers) |  |
+| HANDY | HAFNIA SKY | 25,193 | 2016 | KITANIHON, Japan | MAN-B&W | Aug-26 | DH | $ 242.4m (en bloc) | Dutch (Ace Tankers) |  |
 
 © Intermodal Research 05/04/2022 4
 

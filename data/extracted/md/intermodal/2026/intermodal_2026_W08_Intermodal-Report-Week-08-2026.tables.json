@@ -825,10 +825,10 @@
         "m_e": "MAN B\\&W",
         "ss_due": "Jul-30",
         "gear_hull": "DH",
-        "price_raw": "",
-        "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "price_raw": "$ 31.0m each",
+        "price_usd_m": 31.0,
+        "buyers": "Sokana",
+        "comments": "Eco",
         "source_file": "intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf"
       },
       {
@@ -843,10 +843,10 @@
         "m_e": "MAN B\\&W",
         "ss_due": "Sep-30",
         "gear_hull": "DH",
-        "price_raw": "",
-        "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "price_raw": "$ 31.0m each",
+        "price_usd_m": 31.0,
+        "buyers": "Sokana",
+        "comments": "Eco",
         "source_file": "intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf"
       },
       {
@@ -861,10 +861,10 @@
         "m_e": "MAN B\\&W",
         "ss_due": "May-26",
         "gear_hull": "DH",
-        "price_raw": "",
-        "price_usd_m": null,
-        "buyers": "",
-        "comments": "",
+        "price_raw": "$ 31.0m each",
+        "price_usd_m": 31.0,
+        "buyers": "Sokana",
+        "comments": "Eco",
         "source_file": "intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf"
       },
       {

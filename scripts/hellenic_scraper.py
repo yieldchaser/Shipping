@@ -24,6 +24,7 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
+from acquire.pdf_dedup import identical_copy  # byte-identical re-post guard
 from asset_guard import asset_payload_verdict
 from source_archive_utils_v2 import (
     CORPUS_ROOT,
@@ -402,6 +403,14 @@ def mirror_asset(
     if not ok:
         print(f"    QUARANTINE asset ({why}), not mirrored: {absolute[-70:]}")
         return None
+
+    if extension == ".pdf":
+        # sync_hellenic_live.py saves the same issues into the same pdfs/ folder under its own
+        # names; 1,543 byte-identical twins had built up there by 2026-10. Link the copy we have.
+        twin = identical_copy(assets_dir, payload)
+        if twin is not None and twin.exists():
+            print(f"    = identical PDF already held: {twin.name}")
+            return relative_asset_href(html_path, twin), absolute
 
     assets_dir.mkdir(parents=True, exist_ok=True)
     filename = deterministic_asset_filename(base_name, absolute, payload, extension)

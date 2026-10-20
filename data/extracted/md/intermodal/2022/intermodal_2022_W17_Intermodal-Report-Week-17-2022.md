@@ -252,8 +252,8 @@ In the Supramax sector we had the sale of the "BULK ORION" (56,155dwt-bl't '11, 
 | POST PMAX | GREAT CHEER | 93,297 | 2009 | Jiangsu, China | MAN-B&W | Oct-24 |  | $ 16.8m | Chinese |  |
 | KMAX | SEA HERMES | 81,708 | 2013 | XIAMEN, China | MAN-B&W | Jan-23 |  | $ 23.5m | Turks | Tier II |
 | KMAX | MSXT OCEANUS | 81,642 | 2012 | DAEWOO, S. Korea | MAN-B&W | Oct-22 |  | $ 22.33m | undisclosed | online commercial auction |
-| PMAX | SITC ZHOUSHAN | 76,195 | 2013 | YANGFAN, China | MAN-B&W | Sep-23 |  | $ 44.0m | undisclosed |  |
-| PMAX | SITC LUSHAN | 76,132 | 2013 | YANGFAN, China | MAN-B&W | Nov-23 |  |  |  |  |
+| PMAX | SITC ZHOUSHAN | 76,195 | 2013 | YANGFAN, China | MAN-B&W | Sep-23 |  | $ 44.0m (en bloc) | undisclosed |  |
+| PMAX | SITC LUSHAN | 76,132 | 2013 | YANGFAN, China | MAN-B&W | Nov-23 |  | $ 44.0m (en bloc) | undisclosed |  |
 | PMAX | SIANA | 73,127 | 1999 | HYUNDAI ULSAN, S. Korea | B&W | Jun-24 |  | $ 9.2m | Chinese |  |
 | UMAX | TOMINI INTEGRITY | 60,220 | 2016 | ONOMICHI, Japan | MAN-B&W | Jul-26 | 4 X 30t CRANES | $ 33.5m | HK based |  |
 | SUPRA | AP STON | 57,239 | 2012 | STX, S. Korea | MAN-B&W | Aug-22 | 4 X 36t CRANES | undisclosed | Undisclosed |  |

@@ -408,8 +408,8 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2021-12-07,48,Bulk Carriers,ZHONG XIN PEARL,PMAX,75321,2013,"GUANGZHOU HUANGPU, China",MAN-B&W,Sep-23,,undisclosed,,,,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
 2021-12-07,48,Bulk Carriers,SHANDONG HONG TU,PMAX,76116,2012,"HUDONG-ZHONGHUA, China",MAN-B&W,Jan-22,,$ 20.25m,20.25,,,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
 2021-12-07,48,Bulk Carriers,VIRGO COLOSSUS,UMAX,61616,2012,"OSHIMA, Japan",MAN-B&W,Sep-22,,$ 24.0m,24.0,,,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
-2021-12-07,48,Bulk Carriers,UNIVERSAL BANGKOK,SUPRA,56729,2012,"QINGSHAN, China",MAN-B&W,Apr-22,4 X 30t CRANES,$ 33.0m,33.0,,,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
-2021-12-07,48,Bulk Carriers,UNIVERSAL BREMEN,SUPRA,56726,2010,"QINGSHAN, China",MAN-B&W,Dec-25,4 X 30t CRANES,,,,,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
+2021-12-07,48,Bulk Carriers,UNIVERSAL BANGKOK,SUPRA,56729,2012,"QINGSHAN, China",MAN-B&W,Apr-22,4 X 30t CRANES,$ 33.0m (en bloc),33.0,undisclosed,BWTS fitted,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
+2021-12-07,48,Bulk Carriers,UNIVERSAL BREMEN,SUPRA,56726,2010,"QINGSHAN, China",MAN-B&W,Dec-25,4 X 30t CRANES,$ 33.0m (en bloc),33.0,undisclosed,BWTS fitted,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
 2021-12-07,48,Bulk Carriers,XIANG HUA,SUPRA,53350,2003,"TOYOHASHI, Japan",MAN-B&W,May-23,"4 X 30,5t CRANES",$ 11.2m,11.2,,,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
 2021-12-07,48,Bulk Carriers,WAJED,HMAX,45621,1998,"TSUNEISHI, Japan",B&W,Jan-23,4 X 30t CRANES,$ 10.2m,10.2,,,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
 2021-12-07,48,Bulk Carriers,SINLAU BULKER,HANDY,34485,2018,"HAKODATE, Japan",MAN-B&W,Jun-23,4 X 30t CRANES,$ 25.0m,25.0,,,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
@@ -581,16 +581,16 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2022-02-01,4,Bulk Carriers,ROYAL INNOVATION,HANDY,28374,2011,"IMABARI, Japan",MAN-B&W,Nov-25,"4 X 30,7t CRANES",$ 13.0m,13.0,Greek (Alma Shipmanagement),BWTS fitted,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
 2022-02-01,4,Bulk Carriers,WOORI STAR,HANDY,28678,1999,"IMABARI, Japan",B&W,May-24,"4 X 30,5t CRANES",$ 7.0m,7.0,Chinese,OHBS,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
 2022-02-01,4,Bulk Carriers,SKAWA,SMALL,17073,2012,"TAIZHOU SANFU, China",MAN-B&W,Jun-22,3 X 30t CRANES,$ 10.0m,10.0,undisclosed,,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
-2022-02-01,4,Gas,AL BIDDA,LNG,72462,1999,"KAWASAKI, Japan",,Nov-24,,,,,,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
-2022-02-01,4,Gas,AL ZUBARAH,LNG,72557,1996,"MITSUI CHIBA ICHIHARA, Japan",,May-26,,,,,,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
-2022-02-01,4,Gas,BROOG,LNG,72339,1998,"MITSUI CHIBA ICHIHARA, Japan",,Apr-23,,,,,,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
-2022-02-01,4,Gas,ZEKREET,LNG,72316,1998,"MITSUI CHIBA ICHIHARA, Japan",,Aug-23,,,,,,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
-2022-02-01,4,Gas,AL RAYYAN,LNG,72430,1997,"KAWASAKI, Japan",,Apr-22,,undisclosed,,Qatari (Qatargas),declaration of purchase option,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
-2022-02-01,4,Gas,AL WAKRAH,LNG,72453,1998,"KAWASAKI, Japan",,,,,,,,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
-2022-02-01,4,Gas,AL KHOR,LNG,72176,1996,"MITSUBISHI NAGASAKI, Japan",,,,,,,,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
-2022-02-01,4,Gas,AL WAJBAH,LNG,72348,1997,"MITSUBISHI NAGASAKI, Japan",,May-22,,,,,,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
-2022-02-01,4,Gas,DOHA,LNG,72337,1999,"MITSUBISHI NAGASAKI, Japan",,May-24,,,,,,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
-2022-02-01,4,Gas,AL JASRA,LNG,72218,2000,"MITSUBISHI NAGASAKI, Japan",,Jun-25,,,,,,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
+2022-02-01,4,Gas,AL BIDDA,LNG,72462,1999,"KAWASAKI, Japan",,Nov-24,,undisclosed (en bloc),,Qatari (Qatargas),declaration of purchase option,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
+2022-02-01,4,Gas,AL ZUBARAH,LNG,72557,1996,"MITSUI CHIBA ICHIHARA, Japan",,May-26,,undisclosed (en bloc),,Qatari (Qatargas),declaration of purchase option,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
+2022-02-01,4,Gas,BROOG,LNG,72339,1998,"MITSUI CHIBA ICHIHARA, Japan",,Apr-23,,undisclosed (en bloc),,Qatari (Qatargas),declaration of purchase option,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
+2022-02-01,4,Gas,ZEKREET,LNG,72316,1998,"MITSUI CHIBA ICHIHARA, Japan",,Aug-23,,undisclosed (en bloc),,Qatari (Qatargas),declaration of purchase option,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
+2022-02-01,4,Gas,AL RAYYAN,LNG,72430,1997,"KAWASAKI, Japan",,Apr-22,,undisclosed (en bloc),,Qatari (Qatargas),declaration of purchase option,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
+2022-02-01,4,Gas,AL WAKRAH,LNG,72453,1998,"KAWASAKI, Japan",,,,undisclosed (en bloc),,Qatari (Qatargas),declaration of purchase option,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
+2022-02-01,4,Gas,AL KHOR,LNG,72176,1996,"MITSUBISHI NAGASAKI, Japan",,,,undisclosed (en bloc),,Qatari (Qatargas),declaration of purchase option,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
+2022-02-01,4,Gas,AL WAJBAH,LNG,72348,1997,"MITSUBISHI NAGASAKI, Japan",,May-22,,undisclosed (en bloc),,Qatari (Qatargas),declaration of purchase option,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
+2022-02-01,4,Gas,DOHA,LNG,72337,1999,"MITSUBISHI NAGASAKI, Japan",,May-24,,undisclosed (en bloc),,Qatari (Qatargas),declaration of purchase option,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
+2022-02-01,4,Gas,AL JASRA,LNG,72218,2000,"MITSUBISHI NAGASAKI, Japan",,Jun-25,,undisclosed (en bloc),,Qatari (Qatargas),declaration of purchase option,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
 2022-02-01,4,Gas,VENTURE GAS,LPG,49701,1990,"KAWASAKI, Japan",,,,rgn $ 20.0m,20.0,UAE based,,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
 2022-02-01,4,Gas,ECO LOYALTY,LPG,3720,2015,"KITANIHON, Japan",,Jun-25,,undisclosed,,Cyprus based (Intergaz),,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
 2022-02-01,4,Containers,IONIKOS,PMAX,4360,2009,"HHIC, Philippines",MAN-B&W,Jul-24,,$ 96.0m,96.0,Asian,delivery June 2022,allied_2022_W04_Intermodal-Report-Week-04-2022.pdf
@@ -676,19 +676,19 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2022-02-22,7,Containers,OKEE ORTOLAN THETA,FEEDER,1049,2007,"DAE SUN, S. Korea",MAN-B&W,Apr-22,,$ 17.5m,17.5,Russian,,intermodal_2022_W07_Intermodal-Report-Week-07-2022.pdf
 2022-02-22,7,Containers,OKEE ORTOLAN ZETA,FEEDER,1043,2007,"DAE SUN, S. Korea",MAN-B&W,May-22,,$ 15.5m,15.5,Russian,,intermodal_2022_W07_Intermodal-Report-Week-07-2022.pdf
 2022-02-22,7,Containers,DIANA K,FEEDER,642,1996,"DAE SUN, S. Korea",B&W,Mar-24,2 X 36t CRANES,low $ 4.0m,4.0,undisclosed,,intermodal_2022_W07_Intermodal-Report-Week-07-2022.pdf
-2022-03-01,8,Bulk Carriers,DONG-A ASTREA,CAPE,179329,2010,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Apr-25,,,,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
-2022-03-01,8,Bulk Carriers,DONG-A OKNOS,CAPE,179329,2010,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Feb-25,,rgn $ 81.0m,81.0,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
-2022-03-01,8,Bulk Carriers,DONG-A EOS,CAPE,179329,2009,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Sep-24,,,,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
+2022-03-01,8,Bulk Carriers,DONG-A ASTREA,CAPE,179329,2010,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Apr-25,,rgn $ 81.0m (en bloc),81.0,Greek (Minerva),,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
+2022-03-01,8,Bulk Carriers,DONG-A OKNOS,CAPE,179329,2010,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Feb-25,,rgn $ 81.0m (en bloc),81.0,Greek (Minerva),,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
+2022-03-01,8,Bulk Carriers,DONG-A EOS,CAPE,179329,2009,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Sep-24,,rgn $ 81.0m (en bloc),81.0,Greek (Minerva),,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
 2022-03-01,8,Bulk Carriers,DOUBLE FORTUNE,POST PMAX,95790,2010,"IMABARI, Japan",MAN-B&W,Sep-25,,rgn $ 21.0m,21.0,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
 2022-03-01,8,Bulk Carriers,CORONA INFINITY,POST PMAX,88233,2002,"IMABARI, Japan",B&W,Oct-22,,high $ 12.0m,12.0,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
 2022-03-01,8,Bulk Carriers,CORAL OPAL,PMAX,78090,2012,"SHIN KURUSHIMA, Japan",MAN-B&W,Mar-22,,undisclosed,,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
 2022-03-01,8,Bulk Carriers,JIN YUN,SUPRA,56810,2012,"JINLING, China",MAN-B&W,May-22,4 X 30t CRANES,$ 17.36m,17.36,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
 2022-03-01,8,Bulk Carriers,ORCHID,SUPRA,55598,2012,"MITSUI TAMANO, Japan",MAN-B&W,Mar-25,"4 X 30,5t CRANES",$ 22.6m,22.6,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
 2022-03-01,8,Bulk Carriers,SITC TAISHAN,SUPRA,58107,2010,"TSUNEISHI ZHOUSHAN, China",MAN-B&W,Apr-25,4 X 30t CRANES,$ 18.25m,18.25,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
-2022-03-01,8,Bulk Carriers,INTERLINK AUDACITY,HANDY,39100,2016,"ZHEJIANG ZENGHOU, China",MAN-B&W,Jul-26,"4 X 30,5t CRANES",,,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
-2022-03-01,8,Bulk Carriers,INTERLINK AFFINITY,HANDY,39046,2016,"ZHEJIANG ZENGHOU, China",MAN-B&W,May-26,"4 X 30,5t CRANES",rgn $ 25.0m each,25.0,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
-2022-03-01,8,Bulk Carriers,INTERLINK TENACITY,HANDY,38785,2016,"TAIZHOU KOUAN, China",MAN-B&W,Jan-26,4 X 30t CRANES,,,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
-2022-03-01,8,Bulk Carriers,INTERLINK UTILITY,HANDY,38706,2016,"HUATAI NANTONG, China",MAN-B&W,Nov-26,4 X 30t CRANES,,,,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
+2022-03-01,8,Bulk Carriers,INTERLINK AUDACITY,HANDY,39100,2016,"ZHEJIANG ZENGHOU, China",MAN-B&W,Jul-26,"4 X 30,5t CRANES",rgn $ 25.0m each,25.0,U.A.E. based (Tomini),"BWTS fitted, Eco",intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
+2022-03-01,8,Bulk Carriers,INTERLINK AFFINITY,HANDY,39046,2016,"ZHEJIANG ZENGHOU, China",MAN-B&W,May-26,"4 X 30,5t CRANES",rgn $ 25.0m each,25.0,U.A.E. based (Tomini),"BWTS fitted, Eco",intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
+2022-03-01,8,Bulk Carriers,INTERLINK TENACITY,HANDY,38785,2016,"TAIZHOU KOUAN, China",MAN-B&W,Jan-26,4 X 30t CRANES,rgn $ 25.0m each,25.0,U.A.E. based (Tomini),"BWTS fitted, Eco",intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
+2022-03-01,8,Bulk Carriers,INTERLINK UTILITY,HANDY,38706,2016,"HUATAI NANTONG, China",MAN-B&W,Nov-26,4 X 30t CRANES,rgn $ 25.0m each,25.0,U.A.E. based (Tomini),"BWTS fitted, Eco",intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
 2022-03-01,8,Tankers,T. PROGRESS,VLCC,305795,2002,"DAEWOO, S. Korea",MAN-B&W,Nov-22,DH,$ 28.8m,28.8,undisclosed,"43,254 Idt",intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
 2022-03-01,8,Tankers,ERVIKEN,SUEZ,152146,2004,"SAMSUNG, S. Korea",MAN-B&W,Aug-22,DH,low $ 15.0m,15.0,Greek,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
 2022-03-01,8,Tankers,AXEL SPIRIT,AFRA,115392,2004,"SAMSUNG, S. Korea",B&W,Apr-24,DH,$ 13.2m,13.2,undisclosed,,intermodal_2022_W08_Intermodal-Report-Week-08-2022.pdf
@@ -798,23 +798,23 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2022-03-29,12,Bulk Carriers,NIKOLAOS GS,HANDY,28616,2002,"IMABARI, Japan",B&W,May-25,"4x30.5, 4x30.0",low $ 9.0m,9.0,undisclosed,,intermodal_2022_W12_Intermodal-Report-Week-12-2022.pdf
 2022-04-05,13,Tankers,EASTERN JUNIPER,VLCC,305749,2007,"DAEWOO, S. Korea",MAN-B&W,Jun-22,DH,$ 36.5m,36.5,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,Tankers,TOKIO,VLCC,306206,2005,"MITSUI CHIBA, Japan",Mitsubishi,Feb-25,DH,$ 31.5m,31.5,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,FRONT FORCE,VLCC,305442,2004,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Jul-24,DH,rgn $ 70.0m,70.0,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,FRONT ENERGY,VLCC,305318,2004,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Sep-24,DH,,,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,FRONT FORCE,VLCC,305442,2004,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Jul-24,DH,rgn $ 70.0m (en bloc),70.0,undisclosed,delievery early Q2-2022,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,FRONT ENERGY,VLCC,305318,2004,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Sep-24,DH,rgn $ 70.0m (en bloc),70.0,undisclosed,delievery early Q2-2022,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,Tankers,BARI,SUEZ,159186,2005,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Apr-25,DH,$ 21.5m,21.5,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,Tankers,DA YUAN HU,SUEZ,159149,2004,"BOHAI, China",MAN-B&W,May-24,DH,$ 16.5m,16.5,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,ADVANTAGE ANTHEM,AFRA,116087,2011,"SAMSUNG, S. Korea",MAN-B&W,Oct-26,DH,$ 57.0m,57.0,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,ADVANTAGE AVENUE,AFRA,115785,2010,"SAMSUNG, S. Korea",MAN-B&W,Jun-25,DH,,,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,ADVANTAGE ANTHEM,AFRA,116087,2011,"SAMSUNG, S. Korea",MAN-B&W,Oct-26,DH,$ 57.0m (en bloc),57.0,Cyprus based (Synergy Marine),"incl TC attached to Shell at $15,500 p/d until ear 1H-2023",intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,ADVANTAGE AVENUE,AFRA,115785,2010,"SAMSUNG, S. Korea",MAN-B&W,Jun-25,DH,$ 57.0m (en bloc),57.0,Cyprus based (Synergy Marine),"incl TC attached to Shell at $15,500 p/d until ear 1H-2023",intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,Tankers,BERICA,AFRA,115146,2008,"SASEBO, Japan",MAN-B&W,Oct-23,DH,rgn $ 23.0m,23.0,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,Tankers,PRIME EXPRESS,MR2,45996,2010,"SHIN KURUSHIMA, Japan",MAN-B&W,Nov-25,DH,$ 15.5m,15.5,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,Tankers,VS RIESA,MR1,34558,2003,"DALIAN, China",B&W,Jun-23,DH,$ 5.85m,5.85,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,HAFNIA SPICA,HANDY,25268,2017,"FUKUOKA, Japan",MAN-B&W,May-22,DH,,,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,HAFNIA SOL,HANDY,25253,2017,"FUKUOKA, Japan",MAN-B&W,Aug-22,DH,,,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,HAFNIA SCEPTRUM,HANDY,25198,2017,"KITANIHON, Japan",MAN-B&W,May-22,DH,,,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,HAFNIA SIRIUS,HANDY,25196,2016,"KITANIHON, Japan",MAN-B&W,Jun-26,DH,$ 242.4m,242.4,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,HAFNIA SPARK,HANDY,25196,2016,"KITANIHON, Japan",MAN-B&W,Oct-26,DH,,,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,HAFNIA STELLAR,HANDY,25196,2016,"KITANIHON, Japan",MAN-B&W,Oct-26,DH,,,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,HAFNIA SAIPH,HANDY,25194,2017,"KITANIHON, Japan",MAN-B&W,Jan-27,DH,,,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,Tankers,HAFNIA SKY,HANDY,25193,2016,"KITANIHON, Japan",MAN-B&W,Aug-26,DH,,,,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,HAFNIA SPICA,HANDY,25268,2017,"FUKUOKA, Japan",MAN-B&W,May-22,DH,$ 242.4m (en bloc),242.4,Dutch (Ace Tankers),,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,HAFNIA SOL,HANDY,25253,2017,"FUKUOKA, Japan",MAN-B&W,Aug-22,DH,$ 242.4m (en bloc),242.4,Dutch (Ace Tankers),,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,HAFNIA SCEPTRUM,HANDY,25198,2017,"KITANIHON, Japan",MAN-B&W,May-22,DH,$ 242.4m (en bloc),242.4,Dutch (Ace Tankers),,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,HAFNIA SIRIUS,HANDY,25196,2016,"KITANIHON, Japan",MAN-B&W,Jun-26,DH,$ 242.4m (en bloc),242.4,Dutch (Ace Tankers),,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,HAFNIA SPARK,HANDY,25196,2016,"KITANIHON, Japan",MAN-B&W,Oct-26,DH,$ 242.4m (en bloc),242.4,Dutch (Ace Tankers),,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,HAFNIA STELLAR,HANDY,25196,2016,"KITANIHON, Japan",MAN-B&W,Oct-26,DH,$ 242.4m (en bloc),242.4,Dutch (Ace Tankers),,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,HAFNIA SAIPH,HANDY,25194,2017,"KITANIHON, Japan",MAN-B&W,Jan-27,DH,$ 242.4m (en bloc),242.4,Dutch (Ace Tankers),,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,Tankers,HAFNIA SKY,HANDY,25193,2016,"KITANIHON, Japan",MAN-B&W,Aug-26,DH,$ 242.4m (en bloc),242.4,Dutch (Ace Tankers),,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,Secondhand Sales,JAN,FEEDER,1708,2010,"IMABARI, Japan",MAN-B&W,Mar-25,3 X 40t CRANES,mid-high 30's,30.0,undisclosed,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,Secondhand Sales,VEGA SACHSEN,FEEDER,1118,2008,"TAIZHOU KOUAN, China",MAN,Jul-23,2 X 45t CRANES,undisclosed,,undisclosed,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-12,14,Bulk Carriers,RED SAGE,CAPE,182443,2015,"JMU, Japan",MAN-B&W,Jan-25,,$ 47.5m,47.5,German (Valhal Shipping),,intermodal_2022_W14_Intermodal-Report-Week-14-2022.pdf
@@ -892,8 +892,8 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2022-05-03,17,Bulk Carriers,GREAT CHEER,POST PMAX,93297,2009,"Jiangsu, China",MAN-B&W,Oct-24,,$ 16.8m,16.8,,,intermodal_2022_W17_Intermodal-Report-Week-17-2022.pdf
 2022-05-03,17,Bulk Carriers,SEA HERMES,KMAX,81708,2013,"XIAMEN, China",MAN-B&W,Jan-23,,$ 23.5m,23.5,,,intermodal_2022_W17_Intermodal-Report-Week-17-2022.pdf
 2022-05-03,17,Bulk Carriers,MSXT OCEANUS,KMAX,81642,2012,"DAEWOO, S. Korea",MAN-B&W,Oct-22,,$ 22.33m,22.33,,,intermodal_2022_W17_Intermodal-Report-Week-17-2022.pdf
-2022-05-03,17,Bulk Carriers,SITC ZHOUSHAN,PMAX,76195,2013,"YANGFAN, China",MAN-B&W,Sep-23,,$ 44.0m,44.0,,,intermodal_2022_W17_Intermodal-Report-Week-17-2022.pdf
-2022-05-03,17,Bulk Carriers,SITC LUSHAN,PMAX,76132,2013,"YANGFAN, China",MAN-B&W,Nov-23,,,,,,intermodal_2022_W17_Intermodal-Report-Week-17-2022.pdf
+2022-05-03,17,Bulk Carriers,SITC ZHOUSHAN,PMAX,76195,2013,"YANGFAN, China",MAN-B&W,Sep-23,,$ 44.0m (en bloc),44.0,undisclosed,,intermodal_2022_W17_Intermodal-Report-Week-17-2022.pdf
+2022-05-03,17,Bulk Carriers,SITC LUSHAN,PMAX,76132,2013,"YANGFAN, China",MAN-B&W,Nov-23,,$ 44.0m (en bloc),44.0,undisclosed,,intermodal_2022_W17_Intermodal-Report-Week-17-2022.pdf
 2022-05-03,17,Bulk Carriers,SIANA,PMAX,73127,1999,"HYUNDAI ULSAN, S. Korea",B&W,Jun-24,,$ 9.2m,9.2,,,intermodal_2022_W17_Intermodal-Report-Week-17-2022.pdf
 2022-05-03,17,Bulk Carriers,TOMINI INTEGRITY,UMAX,60220,2016,"ONOMICHI, Japan",MAN-B&W,Jul-26,4 X 30t CRANES,$ 33.5m,33.5,,,intermodal_2022_W17_Intermodal-Report-Week-17-2022.pdf
 2022-05-03,17,Bulk Carriers,AP STON,SUPRA,57239,2012,"STX, S. Korea",MAN-B&W,Aug-22,4 X 36t CRANES,undisclosed,,,,intermodal_2022_W17_Intermodal-Report-Week-17-2022.pdf
@@ -988,9 +988,9 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2022-05-24,20,Secondhand Sales,FORTUNE LORD,HMAX,45600,1997,"TSUNEISHI, Japan",B&W,Sep-22,4 X 30t CRANES,excess $ 7.0m,7.0,undisclosed,,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
 2022-05-24,20,Secondhand Sales,CAPE MORETON,HANDY,32959,2010,"JIANGMEN NANYANG, China",MAN-B&W,Feb-25,"4 X 30,5t CRANES",low $ 15.0m,15.0,Chinese,,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
 2022-05-24,20,Secondhand Sales,LION,HANDY,27917,1996,"NAIKAI ZOSEN, Japan",B&W,Jul-26,4 X 30t CRANES,low $ 8.0m,8.0,undisclosed,,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
-2022-05-24,20,Secondhand Sales,MAERSK NIAGARA,FEEDER,2556,2008,"HYUNDAI, S. Korea",Wartsila,Nov-23,4 X 40t CRANES,,,,,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
-2022-05-24,20,Secondhand Sales,MAERSK NIAMEMY,FEEDER,2556,2009,"HYUNDAI, S. Korea",Wartsila,Mar-24,4 X 40t CRANES,$ 150.0m,150.0,European,,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
-2022-05-24,20,Secondhand Sales,MAERSK NIJMEGEN,FEEDER,2556,2009,"HYUNDAI, S. Korea",Wartsila,May-24,4 X 40t CRANES,,,,,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
+2022-05-24,20,Secondhand Sales,MAERSK NIAGARA,FEEDER,2556,2008,"HYUNDAI, S. Korea",Wartsila,Nov-23,4 X 40t CRANES,$ 150.0m (en bloc),150.0,European,Ice class 1A,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
+2022-05-24,20,Secondhand Sales,MAERSK NIAMEMY,FEEDER,2556,2009,"HYUNDAI, S. Korea",Wartsila,Mar-24,4 X 40t CRANES,$ 150.0m (en bloc),150.0,European,Ice class 1A,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
+2022-05-24,20,Secondhand Sales,MAERSK NIJMEGEN,FEEDER,2556,2009,"HYUNDAI, S. Korea",Wartsila,May-24,4 X 40t CRANES,$ 150.0m (en bloc),150.0,European,Ice class 1A,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
 2022-05-24,20,Secondhand Sales,HANSA COBURG,FEEDER,1740,2007,"GUANGZHOU WENCHONG, China",MAN-B&W,Apr-22,2 X 40t CRANES,$ 30.0m,30.0,French (CMA CGM),,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
 2022-05-24,20,Secondhand Sales,CONMAR AVENUE,FEEDER,1036,2012,"JIANGDONG, China",MAN,Oct-22,,undisclosed,,German (Ernst Russ AG),,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
 2022-05-24,20,Gas,COUGAR,LPG,54450,2015,"HYUNDAI, S. Korea",,Jun-25,,$ 70.0m,70.0,Japanese,10 yrs sale & lease back,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
@@ -1102,8 +1102,8 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2022-06-28,25,Tankers,FSL LONDON,SMALL,19966,2006,"USUKI, Japan",MAN-B&W,Sep-26,DH,$ 12.0m,12.0,Chinese,StSt,intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf
 2022-06-28,25,Bulk Carriers,HANS OLDENDORFF,NMAX,209190,2017,"TAIZHOU CATIC, China",MAN-B&W,Aug-22,,$ 53.0m,53.0,,,intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf
 2022-06-28,25,Bulk Carriers,SHANHAIGUAN B85K-10,KMAX,84800,2022,"SHANHAIGUAN, China",MAN-B&W,,,$ 35.18m,35.18,,,intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf
-2022-06-28,25,Bulk Carriers,THUNDERBIRD,KMAX,79508,2011,"JIANGSU EASTERN, China",Wartsila,Nov-25,,$ 37.0m,37.0,,,intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf
-2022-06-28,25,Bulk Carriers,BONNEVILLE,KMAX,79403,2010,"JIANGSU EASTERN, China",Wartsila,Nov-25,,,,,,intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf
+2022-06-28,25,Bulk Carriers,THUNDERBIRD,KMAX,79508,2011,"JIANGSU EASTERN, China",Wartsila,Nov-25,,$ 37.0m (en bloc),37.0,undisclosed,BWTS fitted,intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf
+2022-06-28,25,Bulk Carriers,BONNEVILLE,KMAX,79403,2010,"JIANGSU EASTERN, China",Wartsila,Nov-25,,$ 37.0m (en bloc),37.0,undisclosed,BWTS fitted,intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf
 2022-06-28,25,Bulk Carriers,THEODOR OLDENDORFF,PMAX,77171,2008,"OSHIMA, Japan",MAN-B&W,Jul-23,,$ 19.5m,19.5,,,intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf
 2022-06-28,25,Bulk Carriers,EVA BULKER,HANDY,38140,2012,"NAIKAI ZOSEN, Japan",MAN-B&W,Aug-22,4 X 30t CRANES,$ 23.0m,23.0,,,intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf
 2022-06-28,25,Bulk Carriers,SUNROAD YATSUKA,HANDY,24989,2005,"KURINOURA YAWATAHAMA, Japan",B&W,Mar-25,4 X 30t CRANES,$ 11.0m,11.0,,,intermodal_2022_W25_Intermodal-Report-Week-25-2022.pdf
@@ -1320,7 +1320,7 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2022-09-13,36,Secondhand Sales,CLIPPER SIRIUS,LPG,54048,2008,"HYUNDAI, S. Korea",MAN-B&W,Jun-23,,$ 50.0m,50.0,undisclosed,,intermodal_2022_W36_Intermodal-Report-Week-36-2022.pdf
 2022-09-13,36,Secondhand Sales,SCALI REALI,LPG,3804,2010,"BESIKTAS GEMI, Turkey",Wartsila,Aug-25,,$ 39.0m,39.0,undisclosed,,intermodal_2022_W36_Intermodal-Report-Week-36-2022.pdf
 2022-09-13,36,Secondhand Sales,SCALI SANLORENZO,LPG,3801,2010,"NAVAL SSZ ZAO, Ukraine",Wartsila,May-25,,$ 39.0m,39.0,undisclosed,,intermodal_2022_W36_Intermodal-Report-Week-36-2022.pdf
-2022-09-13,36,Containers,OSAKA,POST PMAX,4506,2008,"SAMSUNG, S. Korea",MAN-B&W,Sep-23,,,,,,intermodal_2022_W36_Intermodal-Report-Week-36-2022.pdf
+2022-09-13,36,Containers,OSAKA,POST PMAX,4506,2008,"SAMSUNG, S. Korea",MAN-B&W,Sep-23,,$ 60.0m,60.0,undisclosed,,intermodal_2022_W36_Intermodal-Report-Week-36-2022.pdf
 2022-09-20,37,Secondhand Sales,HILWAH,VLCC,316808,2002,"HYUNDAI ULSAN, S. Korea",B&W,Dec-22,DH,$ 37.8m,37.8,Chinese,,intermodal_2022_W37_Intermodal-Report-Week-37-2022.pdf
 2022-09-20,37,Secondhand Sales,POLAR UNICORN,LR1,73956,2008,"ONOMICHI, Japan",MAN-B&W,Jan-23,DH,high $ 22.0m,22.0,undisclosed,BWTS fitted,intermodal_2022_W37_Intermodal-Report-Week-37-2022.pdf
 2022-09-20,37,Secondhand Sales,STENA PROVENCE,LR1,65125,2006,"BRODOSPLIT, Croatia",MAN-B&W,Mar-26,DH,"rgn $ 60,0m",60.0,European,BWTS fitted,intermodal_2022_W37_Intermodal-Report-Week-37-2022.pdf
@@ -1405,11 +1405,11 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2022-10-11,40,Gas,PROGRESS,LPG,58560,2009,"HYUNDAI, S. Korea",,Jan-24,,"rgn $ 50,0m",50.0,UK based (Foresight Group),,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
 2022-10-11,40,Gas,CLIPPER,LPG,56864,1992,"NKK CORP - TSU, Japan",,Mar-27,,$ 15.0m,15.0,Far Eastern,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
 2022-10-11,40,Gas,GAS GROUPER,LPG,26416,2009,"HYUNDAI, S. Korea",,Jun-24,,$ 32.0m,32.0,undisclosed,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
-2022-10-11,40,Gas,PACIFIC SATURN,LPG,23724,2019,"NANTONG, China",,Nov-24,,,,,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
-2022-10-11,40,Gas,PACIFIC MARS,LPG,23708,2019,"NANTONG, China",,Jul-24,,,,,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
-2022-10-11,40,Gas,PACIFIC MERCURY,LPG,23704,2019,"NANTONG, China",,Jan-24,,$ 233.0m,233.0,JV between Navigator Gas & Greater Bay Gas,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
-2022-10-11,40,Gas,PACIFIC VENUS,LPG,18599,2018,"NANTONG, China",,Mar-23,,,,,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
-2022-10-11,40,Gas,PACIFIC JUPITER,LPG,18599,2018,"NANTONG, China",,Sep-23,,,,,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
+2022-10-11,40,Gas,PACIFIC SATURN,LPG,23724,2019,"NANTONG, China",,Nov-24,,$ 233.0m (en bloc),233.0,JV between Navigator Gas & Greater Bay Gas,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
+2022-10-11,40,Gas,PACIFIC MARS,LPG,23708,2019,"NANTONG, China",,Jul-24,,$ 233.0m (en bloc),233.0,JV between Navigator Gas & Greater Bay Gas,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
+2022-10-11,40,Gas,PACIFIC MERCURY,LPG,23704,2019,"NANTONG, China",,Jan-24,,$ 233.0m (en bloc),233.0,JV between Navigator Gas & Greater Bay Gas,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
+2022-10-11,40,Gas,PACIFIC VENUS,LPG,18599,2018,"NANTONG, China",,Mar-23,,$ 233.0m (en bloc),233.0,JV between Navigator Gas & Greater Bay Gas,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
+2022-10-11,40,Gas,PACIFIC JUPITER,LPG,18599,2018,"NANTONG, China",,Sep-23,,$ 233.0m (en bloc),233.0,JV between Navigator Gas & Greater Bay Gas,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
 2022-10-18,41,Tankers,EUROPE,ULCC,441561,2002,"DAEWOO, S. Korea",Sulzer,Nov-22,DH,region $ 42.5m,42.5,undisclosed,,intermodal_2022_W41_Intermodal-Report-Week-41-2022.pdf
 2022-10-18,41,Tankers,SOLVIKEN,AFRA,114523,2007,"SAMSUNG, S. Korea",MAN-B&W,Jan-27,DH,$ 32.5m,32.5,undisclosed,inc. TC at $15k/d + 50/50 profit split on real earnings (red/very on 15 Nov 22 – 15 Feb 23),intermodal_2022_W41_Intermodal-Report-Week-41-2022.pdf
 2022-10-18,41,Tankers,BLUESEA,AFRA,113553,2006,"SAMSUNG, S. Korea",MAN-B&W,Feb-26,DH,$ 62.5m (en bloc),62.5,undisclosed,"BWTS fitted, Ice Class 1A, delivery Q4 2022",intermodal_2022_W41_Intermodal-Report-Week-41-2022.pdf
@@ -1466,17 +1466,17 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2022-11-01,43,Tankers,HOUSTON STAR,LR1,74999,2004,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Feb-24,DH,$ 13.0m,13.0,Turkish,,intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
 2022-11-01,43,Tankers,CELSIUS RIMINI,MR2,53603,2009,"SHIN KURUSHIMA, Japan",Mitsubishi,Mar-27,DH,$ 24.0m,24.0,undisclosed,BWTS fitted,intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
 2022-11-01,43,Tankers,ATLANTICA BELL,MR2,50844,2006,"STX, S. Korea",MAN-B&W,Mar-26,DH,$ 20.7m,20.7,undisclosed,"BWTS fitted, Ice Class 1A",intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
-2022-11-01,43,Tankers,BRO ANNA,SMALL,16868,2008,"GEMAK, Turkey",MAN,Feb-23,DH,,,,,intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
-2022-11-01,43,Tankers,BRO AGNES,SMALL,16791,2008,"TURKTER, Turkey",MAN,Mar-23,DH,,,,,intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
+2022-11-01,43,Tankers,BRO ANNA,SMALL,16868,2008,"GEMAK, Turkey",MAN,Feb-23,DH,$ 27.0m (en bloc),27.0,undisclosed,Ice Class 1A,intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
+2022-11-01,43,Tankers,BRO AGNES,SMALL,16791,2008,"TURKTER, Turkey",MAN,Mar-23,DH,$ 27.0m (en bloc),27.0,undisclosed,Ice Class 1A,intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
 2022-11-01,43,Tankers,BERNORA,SMALL,13148,2008,"21ST CENTURY, S. Korea",MAN-B&W,Mar-23,DH,high $ 7.0m,7.0,Norwegian,BWTS fitted,intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
 2022-11-01,43,Bulk Carriers,NAVIOS TAURUS,PMAX,76596,2005,"IMABARI, Japan",B&W,Jan-25,,$ 14.0m,14.0,undisclosed,,intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
 2022-11-01,43,Bulk Carriers,PRABHU PUNI,PMAX,76015,2002,"TSUNEISHI, Japan",B&W,May-27,,$ 11.5m,11.5,undisclosed,BWTS fitted,intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
 2022-11-01,43,Bulk Carriers,WAAL CONFIDENCE,HANDY,33387,2009,"SHIN KOCHI, Japan",Mitsubishi,Jun-24,4 X 30t CRANES,$ 15.2m,15.2,undisclosed,"BWTS fitted, OHBS",intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
 2022-11-01,43,Gas,EPIC BALTA,LPG,5076,2000,"HIGAKI, Japan",,Jun-25,,$ 6.0m,6.0,undisclosed,,intermodal_2022_W43_Intermodal-Report-Week-43-2022.pdf
-2022-11-08,44,Gas,KOOL ORCA,LNG,92969,2021,"HYUNDAI, S. Korea",,Jan-26,,,,,eco,intermodal_2022_W44_Intermodal-Report-Week-44-2022.pdf
-2022-11-08,44,Gas,KOOL FIRN,LNG,93025,2020,"HYUNDAI, S. Korea",,Sep-25,,$ 660.0m,660.0,Norwegian (CoolCo),eco,intermodal_2022_W44_Intermodal-Report-Week-44-2022.pdf
-2022-11-08,44,Gas,KOOL BOREAS,LNG,93585,2015,"STX, S. Korea",,Apr-25,,,,,,intermodal_2022_W44_Intermodal-Report-Week-44-2022.pdf
-2022-11-08,44,Gas,KOOL BALTIC,LNG,93508,2015,"STX, S. Korea",,Jan-25,,,,,,intermodal_2022_W44_Intermodal-Report-Week-44-2022.pdf
+2022-11-08,44,Gas,KOOL ORCA,LNG,92969,2021,"HYUNDAI, S. Korea",,Jan-26,,$ 660.0m (en bloc),660.0,Norwegian (CoolCo),eco,intermodal_2022_W44_Intermodal-Report-Week-44-2022.pdf
+2022-11-08,44,Gas,KOOL FIRN,LNG,93025,2020,"HYUNDAI, S. Korea",,Sep-25,,$ 660.0m (en bloc),660.0,Norwegian (CoolCo),eco,intermodal_2022_W44_Intermodal-Report-Week-44-2022.pdf
+2022-11-08,44,Gas,KOOL BOREAS,LNG,93585,2015,"STX, S. Korea",,Apr-25,,$ 660.0m (en bloc),660.0,Norwegian (CoolCo),,intermodal_2022_W44_Intermodal-Report-Week-44-2022.pdf
+2022-11-08,44,Gas,KOOL BALTIC,LNG,93508,2015,"STX, S. Korea",,Jan-25,,$ 660.0m (en bloc),660.0,Norwegian (CoolCo),,intermodal_2022_W44_Intermodal-Report-Week-44-2022.pdf
 2022-11-08,44,Gas,METHANE HEATHER SALLY,LNG,79084,2007,"SAMSUNG, S. Korea",,jul-25,,$ 50.0m,50.0,Chinese (Shandong Shipping),incl BBB charter,intermodal_2022_W44_Intermodal-Report-Week-44-2022.pdf
 2022-11-15,45,Tankers,ELANDRA ELBRUS,VLCC,299999,2020,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Jan-25,DH,$ 112.0m,112.0,Saudi Arabian (Bahri),scrubber fitted,intermodal_2022_W45_Intermodal-Report-Week-45-2022.pdf
 2022-11-15,45,Tankers,ELANDRA DENALI,VLCC,299999,2020,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Mar-25,DH,$ 112.0m,112.0,Saudi Arabian (Bahri),scrubber fitted,intermodal_2022_W45_Intermodal-Report-Week-45-2022.pdf
@@ -1528,7 +1528,7 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2022-12-13,49,Bulk Carriers,BEN WYVIS,HANDY,35000,2015,"Jiangdong, China",MAN-B&W,May-25,4 X 30t CRANES,undisclosed,,undisclosed,,intermodal_2022_W49_Intermodal-Report-Week-49-2022.pdf
 2022-12-13,49,Bulk Carriers,GANT GRACE,HANDY,28375,2010,"IMABARI, Japan",MAN-B&W,Jan-25,"4 X 30,5t CRANES",$ 12.5m,12.5,Greek,BWTS fitted,intermodal_2022_W49_Intermodal-Report-Week-49-2022.pdf
 2022-12-13,49,Bulk Carriers,SHANGHAI,HANDY,31923,2000,"SAIKI, Japan",Mitsubishi,Dec-25,4 X 30t CRANES,$ 8.3m,8.3,Lebanese,"BWTS fitted, OHBS",intermodal_2022_W49_Intermodal-Report-Week-49-2022.pdf
-2022-12-13,49,Gas,BERKSHIRE,LPG,26466,2008,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Jul-23,,,,,,intermodal_2022_W49_Intermodal-Report-Week-49-2022.pdf
+2022-12-13,49,Gas,BERKSHIRE,LPG,26466,2008,"HYUNDAI ULSAN, S. Korea",MAN-B&W,Jul-23,,excess $ 30.0m,30.0,undisclosed,,intermodal_2022_W49_Intermodal-Report-Week-49-2022.pdf
 2022-12-20,50,Bulk Carriers,LOWLANDS SUNRISE,CAPE,181458,2011,"KOYO MIHARA, Japan",MAN-B&W,Jun-26,,$ 26.0m,26.0,Greek (Stealth Maritime),BWTS fitted,intermodal_2022_W50_Intermodal-Report-Week-50-2022.pdf
 2022-12-20,50,Bulk Carriers,STONY STREAM,UMAX,64000,2015,"CHENGXI, China",MAN-B&W,Apr-25,4 X 30t CRANES,$ 24.2m,24.2,US based (Eagle Bulk),BWTS fitted,intermodal_2022_W50_Intermodal-Report-Week-50-2022.pdf
 2022-12-27,51,Tankers,CRESCENT MOON,SUEZ,150581,2004,"UNIVERSAL, Japan",Sulzer,Oct-24,DH,$ 33.5m,33.5,undisclosed,BWTS & Scrubber fitted,intermodal_2022_W51_Intermodal-Report-Week-51-2022.pdf
@@ -1539,8 +1539,8 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2023-01-10,1,Tankers,ASIA DAWN,VLCC,281396,2005,"IHI MARINE, Japan",Sulzer,Oct-25,DH,low $50.0m,50.0,,,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
 2023-01-10,1,Tankers,COSGREAT LAKE,VLCC,298833,2002,"NANTONG,China",MAN-B&W,Dec-27,DH,$ 39.0m,39.0,,,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
 2023-01-10,1,Tankers,ICE TRANSPORTER,SUEZ,146270,2006,"UNIVERSAL, Japan",MAN-B&W,Oct-26,DH,$ 47.5m,47.5,,,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
-2023-01-10,1,Tankers,CHANTACO,SMALL,18734,2007,"RMK MARINE, Turkey",Wartsila,Oct-26,DH,$ 20.7m,20.7,,,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
-2023-01-10,1,Tankers,CHIBERTA,SMALL,18734,2007,"RMK MARINE, Turkey",Wartsila,Oct-26,DH,,,,,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
+2023-01-10,1,Tankers,CHANTACO,SMALL,18734,2007,"RMK MARINE, Turkey",Wartsila,Oct-26,DH,$ 20.7m (en bloc),20.7,Canadian (Algoma),Ice 1A,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
+2023-01-10,1,Tankers,CHIBERTA,SMALL,18734,2007,"RMK MARINE, Turkey",Wartsila,Oct-26,DH,$ 20.7m (en bloc),20.7,Canadian (Algoma),Ice 1A,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
 2023-01-10,1,Bulk Carriers,AQUASALWADOR,CAPE,180012,2012,"DAEHAN, S. Korea",MAN-B&W,Jan-27,,rgn $ 27.0m,27.0,Greek,BWTS fitted,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
 2023-01-10,1,Bulk Carriers,CAPE MAPLE,CAPE,206204,2005,"IMABARI, Japan",MAN-B&W,Aug-25,,low $ 15.0m,15.0,Turkish,BWTS fitted,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
 2023-01-10,1,Bulk Carriers,SEA KSANTI,SUPRA,59941,2012,"HYUNDAI MIPO, S. Korea",MAN-B&W,Jan-27,4 X 30t CRANES,$ 18.8m,18.8,Turkish,BWTS fitted,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
@@ -1670,9 +1670,9 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2023-02-28,8,Secondhand Sales,JULIUS,FEEDER,1368,2009,"SHADONG WEIHAI, China",MAN-B&W,Nov-24,2 X 40t CRANES,$ 8.8m,8.8,German (Hermann Lohmann),,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
 2023-02-28,8,Secondhand Sales,A FUKU,FEEDER,1043,2007,"DAE SUN, S. Korea",MAN-B&W,Aug-27,,$ 10.0m,10.0,undisclosed,,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
 2023-02-28,8,Secondhand Sales,A KOU,FEEDER,1043,2007,"DAE SUN, S. Korea",MAN-B&W,Nov-27,,$ 11.0m,11.0,undisclosed,,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
-2023-02-28,8,Gas,GOLAR SEAL,,82048,2013,"SAMSUNG, S. Korea",Wartsila,Oct-23,,,,,,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
-2023-02-28,8,Gas,GASCHEM BREMEN,,26645,2010,"HYUNDAI MIPO, S. Korea",MAN-B&W,Oct-25,,,,,,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
-2023-02-28,8,Gas,ECO EVOLUZIONE,,26618,2010,"HYUNDAI MIPO, S. Korea",MAN-B&W,Dec-25,,,,,,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
+2023-02-28,8,Gas,GOLAR SEAL,,82048,2013,"SAMSUNG, S. Korea",Wartsila,Oct-23,,$ 184.3m,184.3,Norwegian (Hoegh LNG Holdings),,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
+2023-02-28,8,Gas,GASCHEM BREMEN,,26645,2010,"HYUNDAI MIPO, S. Korea",MAN-B&W,Oct-25,,$ 39.0m,39.0,Turkish,,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
+2023-02-28,8,Gas,ECO EVOLUZIONE,,26618,2010,"HYUNDAI MIPO, S. Korea",MAN-B&W,Dec-25,,$ 39.0m,39.0,Turkish,,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
 2023-03-07,9,Tankers,FOUR SKY,SUEZ,115708,2010,"SAMSUNG, S. Korea",MAN-B&W,Mar-25,DH,$ 42.5m,42.5,European,"BWTS fitted, Italian flag",intermodal_2023_W09_Intermodal-Report-Week-09-2023.pdf
 2023-03-07,9,Tankers,CHEMTRANS OCEANIC,LR1,73901,2005,"NEW TIMES, China",MAN-B&W,Jan-25,DH,$ 21.0m,21.0,undisclosed,BWTS fitted,intermodal_2023_W09_Intermodal-Report-Week-09-2023.pdf
 2023-03-07,9,Tankers,RIVER SHINER,LR1,73788,2005,"STX, S. Korea",B&W,Jun-25,DH,undisclosed,,Indian (Gatik),"BWTS & Scrubber fitted, Ice 1A",intermodal_2023_W09_Intermodal-Report-Week-09-2023.pdf
@@ -1756,8 +1756,8 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2023-03-28,12,Secondhand Sales,CLIPPER PALMA,HANDY,34399,2010,"SPP, S. Korea",MAN-B&W,Jan-25,4 X 35t CRANES,$ 13.35m,13.35,Turkish,,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
 2023-03-28,12,Secondhand Sales,TS HONGKONG,FEEDER,1574,2006,"JIANGSU YANGZIJIANG, China",Wartsila,Jul-26,,low $ 8.0m,8.0,Middle Eastern,Eco,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
 2023-03-28,12,Secondhand Sales,ITHA BHUM,FEEDER,1498,1996,"MITSUBISHI SHIMONOSEKI, Japan",B&W,Aug-26,,$ 5.0m,5.0,Chinese,,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
-2023-03-28,12,Secondhand Sales,GASLOG SYDNEY,LNG,82010,2013,"SAMSUNG, S. Korea",Wartsila,May-23,,,,,,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
-2023-03-28,12,Secondhand Sales,GASLOG SARATOGA,LNG,81855,2014,"SAMSUNG, S. Korea",Wartsila,Dec-24,,$ 284.0m,284.0,Chinese (CDBL),,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
+2023-03-28,12,Secondhand Sales,GASLOG SYDNEY,LNG,82010,2013,"SAMSUNG, S. Korea",Wartsila,May-23,,$ 284.0m (en bloc),284.0,Chinese (CDBL),,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
+2023-03-28,12,Secondhand Sales,GASLOG SARATOGA,LNG,81855,2014,"SAMSUNG, S. Korea",Wartsila,Dec-24,,$ 284.0m (en bloc),284.0,Chinese (CDBL),,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
 2023-03-28,12,Secondhand Sales,GAS BERYL,LPG,53010,2010,"KAWASAKI, Japan",MAN-B&W,Sep-25,,$ 59.0m,59.0,undisclosed,on subs,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
 2023-04-04,13,Tankers,NECTAR SEA,AFRA,105370,2008,"SUMITOMO, Japan",MAN-B&W,Jun-23,DH,$ 37.0m,37.0,undisclosed,scrubber fitted,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
 2023-04-04,13,Tankers,WISBY PACIFIC,MR2,49686,2017,"GUANGZHOU, China",MAN-B&W,Dec-27,DH,low/mid $ 43.0m,43.0,Middle Eastern,"BWTS fitted, Eco, StSt",intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
@@ -1975,8 +1975,6 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2023-07-04,26,Secondhand Sales,JY HONGKONG,KMAX,81107,2019,"CHENGXI, China",MAN-B\&W,Aug-24,,$ 30.0m,30.0,undisclosed,commercial auction,intermodal_2023_W26_Intermodal-Report-Week-26-2023.pdf
 2023-07-04,26,Secondhand Sales,LORD STAR,KMAX,82830,2013,"SANOYAS, Japan",MAN-B\&W,Jun-27,,region $ 23.0m,23.0,Greek,"BWTS fitted, Scrubber fitted",intermodal_2023_W26_Intermodal-Report-Week-26-2023.pdf
 2023-07-04,26,Secondhand Sales,KK PROGRESSION,UMAX,64012,2018,"TSUNEISHI CEBU, Philippines",MAN-B\&W,Sep-23,4 X 36t CRANES,$ 28.5m,28.5,Greek,"BWTS fitted, eco",intermodal_2023_W26_Intermodal-Report-Week-26-2023.pdf
-2023-07-04,26,Secondhand Sales,MAERSK,SUB,,,"KVAERNER WARNOW WERFT, Germany",B\&W,,,$ 8.0m,8.0,Greek (Rethymnis and Kulukundis),SS/DD due,intermodal_2023_W26_Intermodal-Report-Week-26-2023.pdf
-2023-07-04,26,Secondhand Sales,PENANG,PMAX,2890,1998,,,,,,,,,intermodal_2023_W26_Intermodal-Report-Week-26-2023.pdf
 2023-07-04,26,Secondhand Sales,MAERSK PENANG,SUB PMAX,2890,1998,"KVAERNER WARNOW WERFT, Germany",B\&W,,,$ 8.0m,8.0,Greek (Rethymnis and Kulukundis),SS/DD due,intermodal_2023_W26_Intermodal-Report-Week-26-2023.pdf
 2023-07-11,27,Secondhand Sales,MAGELLAN ENDEAVOUR,MR2,47931,2006,"IWAGI ZOSEN, Japan",MAN-B&W,Jan-26,DH,$ 17.5m,17.5,Chinese,BWTS fitted,intermodal_2023_W27_Intermodal-Report-Week-27-2023.pdf
 2023-07-11,27,Secondhand Sales,YONGKANG OCEAN,SMALL,17427,2020,"WUXI HONGQI, China",MAN-B&W,Apr-25,DH,$ 18.5m,18.5,undisclosed,Marineline,intermodal_2023_W27_Intermodal-Report-Week-27-2023.pdf
@@ -3521,9 +3519,9 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2026-02-24,8,Secondhand Sales,AGILE,LR1,73611,2007,"NEW TIMES, China",MAN B\&W,PASSED,DH,$ 13.5m,13.5,Greek,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
 2026-02-24,8,Secondhand Sales,BINTA SALEH,MR2,47366,2010,"ONOMICHI, Japan",MAN B\&W,May-30,DH,$ 22.5m,22.5,undisclosed,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
 2026-02-24,8,Secondhand Sales,HAFNIA MAGELLAN,MR1,39067,2015,"HYUNDAI MIPO, South Korea",MAN B\&W,May-30,DH,$ 31.0m each,31.0,Sokana,Eco,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
-2026-02-24,8,Secondhand Sales,HAFNIA MALACCA,MR1,39067,2015,"HYUNDAI MIPO, South Korea",MAN B\&W,Jul-30,DH,,,,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
-2026-02-24,8,Secondhand Sales,HAFNIA SUNDA,MR1,39067,2015,"HYUNDAI MIPO, South Korea",MAN B\&W,Sep-30,DH,,,,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
-2026-02-24,8,Secondhand Sales,HAFNIA TORRES,MR1,39067,2016,"HYUNDAI MIPO, South Korea",MAN B\&W,May-26,DH,,,,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
+2026-02-24,8,Secondhand Sales,HAFNIA MALACCA,MR1,39067,2015,"HYUNDAI MIPO, South Korea",MAN B\&W,Jul-30,DH,$ 31.0m each,31.0,Sokana,Eco,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
+2026-02-24,8,Secondhand Sales,HAFNIA SUNDA,MR1,39067,2015,"HYUNDAI MIPO, South Korea",MAN B\&W,Sep-30,DH,$ 31.0m each,31.0,Sokana,Eco,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
+2026-02-24,8,Secondhand Sales,HAFNIA TORRES,MR1,39067,2016,"HYUNDAI MIPO, South Korea",MAN B\&W,May-26,DH,$ 31.0m each,31.0,Sokana,Eco,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
 2026-02-24,8,Secondhand Sales,EPIPHANIA,KMAX,80276,2012,"STX, S. Korea",MAN B\&W,Feb-27,,$ 17.6m,17.6,European,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
 2026-02-24,8,Secondhand Sales,ONLY YOU,UMAX,60492,2017,"SANOYAS, Japan",MAN B\&W,Jan-27,4 X 30t CRANES,$ 28.5m,28.5,European,Eco,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
 2026-02-24,8,Secondhand Sales,HAI JIN,SUPRA,58000,2013,"YANGZHOU DAYANG, China",MAN B\&W,Mar-28,4 X 35t CRANES,excess $ 16.0m,16.0,undisclosed,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
@@ -3773,7 +3771,7 @@ issue_date,report_week,section,vessel_name,vessel_type,dwt,year_built,yard,m_e,s
 2026-08-25,34,Secondhand Sales,SPAR SCORPIO,SUPRA,53565,2006,"CHENGXI, China",MAN B\&W,Oct-26,4 X 36t CRANES,$ 11.35m,11.35,undisclosed,,intermodal_2026_W34_Intermodal-Report-Week-34-2026.pdf
 2026-09-01,35,Secondhand Sales,CAPE BENAT,SUEZ,156642,2010,"JIANGSU RONGSHENG, China",MAN B\&W,Mar-30,DH,$ 62.5m,62.5,UAE based,Scrubber fitted,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
 2026-09-01,35,Secondhand Sales,LUCTOR,MR,50383,2011,"ONOMICHI, Japan",MAN B\&W,Nov-26,DH,$ 26.0m each,26.0,European,bareboat back for circa 2-3 year at 16k p/d,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
-2026-09-01,35,Secondhand Sales,TURMOIL,MR,49997,2011,"ONOMICHI, Japan",MAN B\&W,Oct-26,DH,,,,,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
+2026-09-01,35,Secondhand Sales,TURMOIL,MR,49997,2011,"ONOMICHI, Japan",MAN B\&W,Oct-26,DH,$ 26.0m each,26.0,European,bareboat back for circa 2-3 year at 16k p/d,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
 2026-09-01,35,Secondhand Sales,LADY OF DORIA,MR,46846,2006,"NAIKAI ZOSEN, Japan",MAN B\&W,Aug-29,DH,high $ 14.0m,14.0,Far Eastern,,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
 2026-09-01,35,Secondhand Sales,NAVIOS POLLUX,CAPE,180727,2009,"STX, S.Korea",MAN B\&W,Jul-29,,$ 30.75m,30.75,Chinese,Scrubber fitted,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
 2026-09-01,35,Secondhand Sales,KM MT. JADE,KMAX,81487,2008,"UNIVERSAL, Japan",MAN B\&W,Oct-28,,low mid $ 15.0m,15.0,Chinese,,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf

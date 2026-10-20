@@ -233,8 +233,8 @@ In the Handysize sector we had the sale of the "EVA BULKER" (38,140dwt-blt '12, 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NMAX | HANS OLDENDORFF | 209,190 | 2017 | TAIZHOU CATIC, China | MAN-B&W | Aug-22 |  | $ 53.0m | undisclosed | scrubber fitted, TC back |
 | KMAX | SHANHAIGUAN B85K-10 | 84,800 | 2022 | SHANHAIGUAN, China | MAN-B&W |  |  | $ 35.18m | undisclosed | via commercial auction, resale |
-| KMAX | THUNDERBIRD | 79,508 | 2011 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  | $ 37.0m | undisclosed | BWTS fitted |
-| KMAX | BONNEVILLE | 79,403 | 2010 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  |  |  |  |
+| KMAX | THUNDERBIRD | 79,508 | 2011 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  | $ 37.0m (en bloc) | undisclosed | BWTS fitted |
+| KMAX | BONNEVILLE | 79,403 | 2010 | JIANGSU EASTERN, China | Wartsila | Nov-25 |  | $ 37.0m (en bloc) | undisclosed | BWTS fitted |
 | PMAX | THEODOR OLDENDORFF | 77,171 | 2008 | OSHIMA, Japan | MAN-B&W | Jul-23 |  | $ 19.5m | Turkish (Zihni) | 1-year TC back at $ 20,000/day |
 | HANDY | EVA BULKER | 38,140 | 2012 | NAIKAI ZOSEN, Japan | MAN-B&W | Aug-22 | 4 X 30t CRANES | $ 23.0m | Greek (Newport) | BWTS fitted |
 | HANDY | SUNROAD YATSUKA | 24,989 | 2005 | KURINOURA YAWATAHAMA, Japan | B&W | Mar-25 | 4 X 30t CRANES | $ 11.0m | undisclosed |  |
