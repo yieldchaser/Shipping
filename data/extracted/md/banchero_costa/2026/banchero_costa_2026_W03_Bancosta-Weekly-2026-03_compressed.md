@@ -20,7 +20,18 @@ Over 90 percent of Canada's oil export is by pipeline to the USA. However, the T
 
 In terms of destinations for crude oil shipments from Canada, the focus is increasingly shifting to Asia. In Jan-Dec 2025, the top destination was still the United States, accounting for 44.8% of the total Canadian seaborne exports. However, seaborne exports from Canada to the USA increased by just +4.2% y-o-y in 2025 to 17.2 mln t. On the other hand, exports from Canada to China surged by +283.1% y-o-y to 12.3 mln tonnes in 2025, from just 3.2 mln t in 2024. Shipments to China were 0.0 mln t in 2023. China is now the destination for 31.9% of Canada's seaborne crude oil exports. Shipments from Canada to the European Union also surged by +146.8% y-o-y in 2025 to 6.4 mln tonnes, from just 2.6 mln t in 2024. The EU accounts for 16.7% of Canada's seaborne crude oil exports. Exports to the UK jumped by +55.7% y-o-y to 1.5 mln tonnes from 1.0 mln t in 2024. Volumes from Canada to South Korea also surged by +259.9% y-o-y to 0.6 mln tonnes in 2025 from 0.2 mln t in 2024, although the volumes here are still pretty minimal.
 
-> **Chart (not transcribed):** Canada - Crude Oil Exports by Destination in Jan-Dec (jan 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## Canada - Crude Oil Exports by Destination in Jan-Dec (jan 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2023 (1-12) | 2024 (1-12) | 2025 (1-12) |
+| --- | --- | --- | --- |
+| USA | 10.1 | 16.5 | 17.2 |
+| China | 0.0 | 3.2 | 12.3 |
+| EU | 3.7 | 2.6 | 6.4 |
+| NW Europe | 1.9 | 1.0 | 1.5 |
+| S Korea | 0.0 | 0.2 | 0.6 |
+| ASEAN | 0.0 | 0.1 | 0.1 |
+| Japan | 0.0 | 0.0 | 0.1 |
+| Others/ Unknown | 0.4 | 0.2 | 0.2 |
 
 > **Chart (not transcribed):** Canada - Monthly Crude Oil Exports - Seasonality (jan 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

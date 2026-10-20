@@ -33,7 +33,18 @@ It seems clear that US exporters have no real alternative to the Chinese market,
 | Turkey | 0.3 | 0.1 | 0.6 |
 | Others/Unknown | 5.8 | 3.5 | 3.7 |
 
-> **Chart (not transcribed):** China - Soybeans Imports by Source in Jan-Dec (mar 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## China - Soybeans Imports by Source in Jan-Dec (mar 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2022 (1-12) | 2023 (1-12) | 2024 (1-12) |
+| --- | --- | --- | --- |
+| Brazil | 51.5 | 69.9 | 73.8 |
+| USA | 28.0 | 28.6 | 19.9 |
+| Argentina | 4.2 | 2.2 | 4.2 |
+| Canada | 0.8 | 1.6 | 1.4 |
+| Uruguay | 1.2 | 0.2 | 1.3 |
+| Taiwan, CN | 0.0 | 0.0 | 0.1 |
+| Malaysia | 0.0 | 0.0 | 0.1 |
+| Others/ Unknown | 0.0 | 0.3 | 0.1 |
 
 # NEWS
 # COMMODITY NEWS – DRY BULK

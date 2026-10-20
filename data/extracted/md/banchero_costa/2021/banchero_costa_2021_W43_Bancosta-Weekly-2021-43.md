@@ -20,7 +20,18 @@ In the first 9 months of 2021, seaborne crude oil exports from Oman were up by +
 
 September 2021 didn't see any particular change in trend and was pretty strong as well, with 4.4 mln tonnes, above average for this year and up +31% m-o-m from August 2021, and up +10.9% y-o-y from September 2020. In terms of destinations for the shipments, as we already mentioned it's over 99% to Asia. China alone accounts for 71.6% of Oman's total crude imports this year. In the first 9 months of 2021, Oman shipped 25.3 mln tonnes to Mainland China, which represents a -8.0% y-o-y decline from 27.5 mln tonnes in Jan-Sep 2020, but is still more than the 20.1 mln tonnes in Jan-Sep 2019. The second top destination is India, accounting for 12.9% of Oman's total exports. Oman shipped 4.6 mln tonnes to India, which represents an increase of +247% y-o-y from just 1.3 mln tonnes in the same period of 2020, and also well above the 1.6 mln tonnes in Jan-Sep 2019. Shipments from Kuwait to Taiwan increased by +50.0% y-o-y in Jan-Sep 2021 to 1.4 mln tonnes from 1.0 mln tonnes in Jan-Sep 2020, and are below the 2.1 mln tonnes in Jan-Sep 2019.
 
-> **Chart (not transcribed):** Oman - Crude Oil Exports by Destination in Jan-Sep (Nov 2021 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
+## Oman - Crude Oil Exports by Destination in Jan-Sep (Nov 2021 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
+
+| Country | 2019 (1-9) | 2020 (1-9) | 2021 (1-9) |
+| --- | --- | --- | --- |
+| China PR | 20 | 27 | 25 |
+| India | 2 | 1 | 5 |
+| ASEAN | 3 | 2 | 2 |
+| Taiwan CN | 2 | 1 | 1 |
+| S Korea | 1 | 1 | 1 |
+| Japan | 2 | 1 | 1 |
+| HK CN | 0 | 0 | 0 |
+| Others/ Unknown | 0 | 0 | 1 |
 
 > **Chart (not transcribed):** Oman - Monthly Crude Oil Exports - Seasonality (Nov 2021 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
 

@@ -22,7 +22,18 @@ Finally, small amounts of LNG (0.4 mln t in Jan-Jul 2022) are shipped from Vysot
 
 Exports to South Korea also increased in 2022, by +7.8% y-o-y to 1.4 mln tonnes, with South Korea holding a 7.1% share. Shipments to Mainland China also increased by +3.4% y-o-y in Jan-Jul 2022 to 2.0 mln tonnes, and to Taiwan by +3.2% y-o-y to 0.8 mln tonnes.
 
-> **Chart (not transcribed):** Russia - LNG Exports by Destination in Jan-Jul (Aug 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
+## Russia - LNG Exports by Destination in Jan-Jul (Aug 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
+
+| Country | 2020 (1-7) | 2021 (1-7) | 2022 (1-7) |
+| --- | --- | --- | --- |
+| EU27 | 8.4 | 7.2 | 10.1 |
+| Japan | 2.8 | 4.2 | 4.2 |
+| China PR | 1.6 | 2.0 | 2.0 |
+| S Korea | 1.2 | 1.3 | 1.4 |
+| Taiwan, CN | 1.3 | 0.8 | 0.8 |
+| UK | 0.9 | 1.7 | 0.3 |
+| ASEAN | 0.0 | 0.1 | 0.1 |
+| Others/ Unknown | 0.3 | 0.4 | 0.4 |
 
 > **Chart (not transcribed):** Russia - Monthly LNG Exports - Seasonality (Aug 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
 

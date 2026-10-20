@@ -22,7 +22,18 @@ In terms of individual countries, 35.6% of imports in Jan-Apr 2022 were done by 
 
 Exports from Norway are up +11.4% y-o-y to 3.6 mln t in Jan-Apr 2022. Volumes from Mauritania increased by +49.5% y-o-y to 1.4 mln tonnes. Shipments from India surged by +1000% to 1.1 mln tonnes, from just 0.1 mln tonnes last year.
 
-> **Chart (not transcribed):** European Union - Iron Ore Imports by Source in Jan-Apr (May 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
+## European Union - Iron Ore Imports by Source in Jan-Apr (May 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes)
+
+| Country | 2020 (1-4) | 2021 (1-4) | 2022 (1-4) |
+| --- | --- | --- | --- |
+| Brazil | 8 | 8 | 7 |
+| Canada | 6 | 6 | 6 |
+| S Africa | 3 | 5 | 5 |
+| Norway | 4 | 3 | 4 |
+| Mauritania | 1 | 1 | 1 |
+| Liberia | 1 | 1 | 1 |
+| India | 0 | 0 | 1 |
+| Others/ Unknown | 4 | 2 | 3 |
 
 > **Chart (not transcribed):** European Union - Monthly Iron Ore Imports - Seasonality (May 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 

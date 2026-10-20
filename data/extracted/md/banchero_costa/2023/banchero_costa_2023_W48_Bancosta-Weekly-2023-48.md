@@ -20,7 +20,18 @@ The majority of the rest is discharged in the North-Western state of Gujarat, In
 
 In Jan-Nov 2023, shipments from Indonesia to India declined by -7.7% y-o-y to 90.4 mln tonnes, but are still above the 67.6 mln t in Jan-Nov 2021. About 21.0% of imports, 46.0 mln t, were shipped from Australia, representing a decline of -7.3% y-o-y from 49.6 mln t in Jan-Nov 2022, and well below the 69.5 mln t in Jan-Nov 2021. Shipments from Russia surged by a further +39.8% y-o-y to 23.8 mln tonnes in Jan-Nov 2023, and well above the 6.6 mln t in Jan-Nov 2021, with Russia now accounting for 10.9% of Indian coal imports. South Africa exported 24.3 mln tonnes of coal to India in Jan-Nov 2023, up +30.0% y-o-y. Imports from the USA increased by +47.1% y-o-y to 18.6 mln t.
 
-> **Chart (not transcribed):** India - Coal Imports by Source in Jan-Nov (dec 2023 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## India - Coal Imports by Source in Jan-Nov (dec 2023 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2021 (1-11) | 2022 (1-11) | 2023 (1-11) |
+| --- | --- | --- | --- |
+| Indonesia | 67.6 | 98.0 | 90.4 |
+| Australia | 69.5 | 49.6 | 46.0 |
+| S Africa | 23.3 | 18.7 | 24.3 |
+| Russia | 6.6 | 17.0 | 23.8 |
+| USA | 13.7 | 12.7 | 18.6 |
+| Mozamb. | 4.1 | 8.1 | 10.6 |
+| Canada | 2.3 | 2.1 | 2.7 |
+| Others/ Unknown | 4.4 | 3.6 | 2.8 |
 
 > **Chart (not transcribed):** India - Monthly Coal Imports - Seasonality (dec 2023 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

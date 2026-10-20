@@ -22,7 +22,18 @@ In terms of destinations for the shipments, it is quite diversified, with about 
 
 To Mainland China volumes surged by +96.6% y-o-y in 2023 to 21.2 mln tonnes, and to Taiwan by +29.5% y-o-y to 10.5 mln t. Volumes to Singapore corrected by -16.0% y-o-y in 2023 to 10.8 mln t, after surging by +311% y-o-y in 2022.
 
-> **Chart (not transcribed):** USA - Crude Oil Exports by Destination in Jan-Dec (jan 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## USA - Crude Oil Exports by Destination in Jan-Dec (jan 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| EU | 36 | 53 | 74 |
+| S Korea | 18 | 19 | 21 |
+| China | 10 | 11 | 21 |
+| ASEAN | 7 | 18 | 19 |
+| NW Europe | 13 | 17 | 15 |
+| Canada | 11 | 12 | 11 |
+| Taiwan, CN | 7 | 8 | 10 |
+| Others/ Unknown | 33 | 27 | 25 |
 
 > **Chart (not transcribed):** USA - Monthly Crude Oil Exports - Seasonality (jan 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

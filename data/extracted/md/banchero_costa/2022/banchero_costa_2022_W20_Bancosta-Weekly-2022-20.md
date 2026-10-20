@@ -20,7 +20,18 @@ The fourth quarter of 2021 was very disappointing. Imports into China in the las
 
 Things are even more extreme now in 2022, when 41.1% of the 9.2 mln tonnes of LPG imported into China in January-April 2022 were sourced from the United States. When it comes to other sources of LPG, it is primarily the Middle East which in 2021 accounted for a combined 43.8% of the LPG imported into China. Almost half of this was from the UAE, which was the source of 5.4 mln tonnes or 22.3% of the total LPG imported to China in 2021. Another 12.0% or 2.9 mln tonnes were from Qatar, and 5.1% or 1.2 mln tonnes from Kuwait.
 
-> **Chart (not transcribed):** China - LPG Imports by Source in Jan-Apr (May 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
+## China - LPG Imports by Source in Jan-Apr (May 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
+
+| Country | 2020 (1-4) | 2021 (1-4) | 2022 (1-4) |
+| --- | --- | --- | --- |
+| USA | 0.5 | 2.3 | 3.0 |
+| UAE | 1.5 | 1.8 | 1.8 |
+| Qatar | 1.0 | 1.0 | 0.9 |
+| S Korea | 0.4 | 0.6 | 0.3 |
+| Angola | 0.3 | 0.2 | 0.2 |
+| Australia | 0.3 | 0.4 | 0.2 |
+| Oman | 0.0 | 0.1 | 0.2 |
+| Others/ Unknown | 1.9 | 1.6 | 0.8 |
 
 > **Chart (not transcribed):** China - Monthly LPG Imports - Seasonality (May 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
 

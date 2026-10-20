@@ -33,7 +33,18 @@ This year, however, it is quite evident that China is holding out from buying US
 | Ukraine | 1 | 1 | 0 |
 | Others/Unknown | 1 | 0 | 0 |
 
-> **Chart (not transcribed):** World - Soybeans Imports by Destination in Jan-May (jul 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## World - Soybeans Imports by Destination in Jan-May (jul 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2023 (1-5) | 2024 (1-5) | 2025 (1-5) |
+| --- | --- | --- | --- |
+| China | 40 | 39 | 33 |
+| EU | 6 | 6 | 5 |
+| Turkey | 1 | 2 | 2 |
+| Egypt | 1 | 1 | 2 |
+| Thailand | 1 | 2 | 1 |
+| Mexico | 1 | 2 | 1 |
+| Pakistan | 0 | 0 | 1 |
+| Others/ Unknown | 11 | 9 | 9 |
 
 # NEWS
 # COMMODITY NEWS – DRY BULK

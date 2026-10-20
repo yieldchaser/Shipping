@@ -20,7 +20,18 @@ The main coal export terminals in Indonesia are: Taboneo/ Banjarmasin (94.8 mln 
 
 Shipments to the Philippines have also increased by +18.6% y-o-y to 35.0 mln tonnes in 2023, with the Philippines accounting for 7.1% of Indonesian exports. Exports to South Korea declined by -0.7% y-o-y in 2023 to 26.1 mln t, with Korea accounting for 5.3%. Japan imported 25.2 mln t of coal from Indonesia, down -5.1% y-o-y. Malaysia received 24.6 mln tonnes, an increase of +7.4% y-o-y. Last but not least, exports to Vietnam increased +88.1% y-o-y to 17.7 mln t in Jan-Dec 2023.
 
-> **Chart (not transcribed):** Indonesia - Coal Exports by Destination in Jan-Dec (mar 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## Indonesia - Coal Exports by Destination in Jan-Dec (mar 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| China | 187.3 | 168.6 | 205.2 |
+| India | 68.8 | 103.9 | 104.1 |
+| Philippines | 28.2 | 29.6 | 35.0 |
+| S Korea | 21.2 | 26.3 | 26.1 |
+| Japan | 23.3 | 26.5 | 25.2 |
+| Malaysia | 22.4 | 22.9 | 24.6 |
+| Vietnam | 13.4 | 9.4 | 17.7 |
+| Others/ Unknown | 51.4 | 61.6 | 56.6 |
 
 > **Chart (not transcribed):** Indonesia - Monthly Coal Exports - Seasonality (mar 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

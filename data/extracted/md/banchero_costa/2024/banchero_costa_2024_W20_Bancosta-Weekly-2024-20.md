@@ -20,7 +20,18 @@ Exports from Oman have been steadily increasing over the years. Total crude oil 
 
 The second top destination for Omani crude used to be India, however volumes declined sharply. In 2023, Oman exported just 0.7 mln t of crude oil to India, down -84.1% y-o-y from 4.3 mln t in 2022. This followed a -23.7% y-o-y drop from 5.7 mln t in 2021. The current second largest destination is Taiwan, with 3.3 mln t in 2023, up +22.0% y-o-y. This follows a +23.8% increase in 2022 and a +133.1% y-o-y increase in 2021. In third place is Japan, with 2.2 mln t in 2023, up +5.7% y-o-y. This in turn follows a +124.5% y-o-y jump in 2022.
 
-> **Chart (not transcribed):** Oman - Crude Oil Exports by Destination in Jan-Dec (may 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## Oman - Crude Oil Exports by Destination in Jan-Dec (may 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| China | 35 | 36 | 40 |
+| Taiwan, CN | 2 | 3 | 3 |
+| Japan | 1 | 2 | 2 |
+| ASEAN | 3 | 1 | 1 |
+| S Korea | 1 | 2 | 1 |
+| India | 6 | 4 | 1 |
+| EU | 0 | 0 | 1 |
+| Others/ Unknown | 1 | 1 | 1 |
 
 > **Chart (not transcribed):** Oman - Monthly Crude Oil Exports - Seasonality (may 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

@@ -20,7 +20,18 @@ Top LPG discharging ports in Mainland China in 2023 were: Ningbo/Zhoushan (3.6 m
 
 Houston was the top export port for LPG to China, with 9.1 mln t loaded there for destination China in 2023. When it comes to other sources of LPG, it is primarily the Middle East which in 2023 accounted for a combined 45.9% of the LPG imported into China. Over one-third this was from the UAE, which was the source of 5.2 mln tonnes or 16.8% of the total LPG imported to China in 2023. Another 8.5% or 2.7 mln tonnes were from Qatar, 7.1% or 2.2 mln t from Iran, 5.7% or 1.8 mln tonnes from Oman, 4.8% or 1.5 mln t from Saudi Arabia.
 
-> **Chart (not transcribed):** China - LPG Imports by Source in Jan-Dec (mar 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## China - LPG Imports by Source in Jan-Dec (mar 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| USA | 7.3 | 9.2 | 14.8 |
+| UAE | 5.3 | 6.6 | 5.2 |
+| Qatar | 2.9 | 2.9 | 2.7 |
+| Iran | 0.0 | 0.1 | 2.2 |
+| Oman | 0.3 | 1.1 | 1.8 |
+| Saudi A | 0.7 | 1.1 | 1.5 |
+| Kuwait | 1.2 | 0.7 | 0.9 |
+| Others/ Unknown | 6.2 | 3.3 | 2.0 |
 
 > **Chart (not transcribed):** China - Monthly LPG Imports - Seasonality (mar 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

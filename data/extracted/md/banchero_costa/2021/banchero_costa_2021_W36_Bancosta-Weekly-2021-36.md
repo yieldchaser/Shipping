@@ -20,7 +20,18 @@ In 1Q 2020, South Korea imported 27.3 mln tonnes of coal, which was a negative -
 
 August 2021 went even better, with 12.5 mln tonnes, the highest monthly figure since August 2019. Overall in the first 8 months of 2021, South Korea imported 77.2 mln tonnes of coal, which was up +8.3% y-o-y from the same period in 2020, although still down -8.6% from the same period of 2019. In terms of sources of coal imports to South Korea, things changed a lot. Australia, which was already the top coal exporter to South Korea, further increased volumes as they had to divert the cargoes that in the past they would have sold to China. Imports to South Korea from Australia surged by +44.3% y-o-y to 40.6 mln t in the first 8 months of 2021, from 28.1 mln tonnes in the same period of 2020. Australia now accounts for 53% of South Korea's coal imports. The second largest source for South Korea's coal imports is Indonesia, accounting for a 16% share. Shipments from Indonesia to Korea declined by -6.8% y-o-y to 12.4 mln tonnes in the first 8 months of 2021, from 13.3 mln tonnes in the same period of 2020.
 
-> **Chart (not transcribed):** South Korea - Coal Imports by Source in Jan-Aug (Sep 2021 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
+## South Korea - Coal Imports by Source in Jan-Aug (Sep 2021 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes)
+
+| Country | 2019 (1-8) | 2020 (1-8) | 2021 (1-8) |
+| --- | --- | --- | --- |
+| Australia | 35 | 28 | 41 |
+| Indonesia | 16 | 13 | 12 |
+| Russia | 14 | 12 | 12 |
+| Canada | 9 | 9 | 8 |
+| Colombia | 4 | 4 | 2 |
+| USA | 2 | 2 | 1 |
+| Mozambique | 0 | 0 | 1 |
+| Others/ Unknown | 5 | 3 | 1 |
 
 > **Chart (not transcribed):** South Korea - Monthly Coal Imports - Seasonality (Sep 2021 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 

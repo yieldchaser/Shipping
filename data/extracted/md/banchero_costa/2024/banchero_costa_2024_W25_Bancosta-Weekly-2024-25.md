@@ -20,7 +20,18 @@ In 2021, however, Canada exported just 54.0 mln t of iron ore, which represented
 
 The European Union is still by far the top destination, accounting for 39.2% of Canada's total iron ore exports in 2023. The EU, which was already the top buyer of Canadian seaborne iron ore, further increased volumes by +11.4% y-o-y in Jan-Dec 2023 to 23.1 mln t, from 20.7 mln t in 2022. The second top destination for Canada's iron ore exports is Mainland China, accounting for a 29.1% share. Shipments from Canada to China increased by +17.9% y-o-y to 17.2 mln tonnes in 2023, from 14.6 mln tonnes in 2022. In third place was Japan, with 6.7 mln tonnes in 2023, up +1.3% y-o-y. Japan accounts for 11.3% of Canada's total exports. In fourth place is South Korea, which imported 3.6 mln t from Canada in 2023, down -24.5% y-o-y.
 
-> **Chart (not transcribed):** Canada - Iron Ore Exports by Destination in Jan-Dec (jun 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## Canada - Iron Ore Exports by Destination in Jan-Dec (jun 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| EU | 21.1 | 20.7 | 23.1 |
+| China | 12.6 | 14.6 | 17.2 |
+| Japan | 8.3 | 6.6 | 6.7 |
+| S Korea | 4.3 | 4.8 | 3.6 |
+| USA | 1.2 | 1.6 | 2.2 |
+| UK | 1.6 | 1.8 | 1.2 |
+| Bahrain | 0.5 | 1.2 | 1.2 |
+| Others/ Unknown | 4.3 | 3.9 | 3.8 |
 
 > **Chart (not transcribed):** Canada - Monthly Iron Ore Exports - Seasonality (jun 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

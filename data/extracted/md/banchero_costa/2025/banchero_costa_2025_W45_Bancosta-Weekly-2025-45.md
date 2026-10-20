@@ -20,7 +20,18 @@ The EU now account for 8.2% of global seaborne soybean imports. Let's now focus 
 
 The second most important destination for soybeans from Brazil is the European Union, which accounted for 5.6% of Brazil's exports this year. Shipments from Brazil to the EU declined by -13.6% y-o-y in Jan-Oct 2025 to 5.8 mln tonnes. In addition, 2.4% of Brazilian exports were shipped to Thailand, 2.0% to Vietnam, 1.9% to Turkey, 1.7% to Iran, and 1.2% to Pakistan.
 
-> **Chart (not transcribed):** Brazil - Soybeans Exports by Destination in Jan-Oct (nov 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## Brazil - Soybeans Exports by Destination in Jan-Oct (nov 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2023 (1-10) | 2024 (1-10) | 2025 (1-10) |
+| --- | --- | --- | --- |
+| China | 67.6 | 67.2 | 70.5 |
+| EU | 6.2 | 6.7 | 5.8 |
+| Thailand | 2.1 | 3.0 | 2.5 |
+| Vietnam | 0.8 | 1.0 | 2.1 |
+| Turkey | 1.8 | 2.1 | 2.0 |
+| Iran | 1.9 | 2.2 | 1.8 |
+| Pakistan | 0.0 | 0.0 | 1.3 |
+| Others/ Unknown | 13.1 | 11.1 | 16.9 |
 
 > **Chart (not transcribed):** Brazil - Monthly Soybeans Exports - Seasonality (nov 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

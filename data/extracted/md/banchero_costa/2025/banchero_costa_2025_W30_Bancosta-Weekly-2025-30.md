@@ -22,7 +22,18 @@ India was fifth with 1.4 mln t, down -49.9% y-o-y, and just 1.1% of global impor
 
 In 1H2025, shipments to China from Australia declined by -12.7% y-o-y to 17.4 mln tonnes. A new entry is Guyana, with 1.2 mln tonnes shipped in Jan-Jun 2025.
 
-> **Chart (not transcribed):** China - Bauxite Imports by Source in Jan-Jun (jul 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## China - Bauxite Imports by Source in Jan-Jun (jul 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2023 (1-6) | 2024 (1-6) | 2025 (1-6) |
+| --- | --- | --- | --- |
+| Guinea | 54.1 | 59.2 | 80.8 |
+| Australia | 16.1 | 19.9 | 17.4 |
+| Guyana | 0.0 | 0.0 | 1.2 |
+| Ghana | 0.6 | 1.0 | 1.0 |
+| Malaysia | 0.0 | 0.3 | 0.6 |
+| Brazil | 0.8 | 0.5 | 0.5 |
+| Montenegro | 0.3 | 0.3 | 0.3 |
+| Others/ Unknown | 3.0 | 0.6 | 1.2 |
 
 > **Chart (not transcribed):** China - Monthly Bauxite Imports - Seasonality (jul 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

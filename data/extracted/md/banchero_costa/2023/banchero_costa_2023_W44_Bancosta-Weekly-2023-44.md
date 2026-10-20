@@ -20,7 +20,18 @@ In 2021, volumes out of Australia remained essentially flat at 356.9 mln t, or -
 
 In Jan-Sep 2023, shipments from Australia to China surged back as relations normalized, to 38.7 mln tonnes, from 0.2 mln t in Jan-Sep 2022, but still below the 64.6 mln t of Jan-Sep 2020. Pretty much the opposite happened to India. In 2021, Australia exported 70.1 mln t of coal to India, up +35.8% y-o-y, from 51.6 mln in 2020. In 2022, however, shipments from Australia to India slowed down by -21.6% y-o-y to 54.9 mln tonnes, due to a greater availability of Indonesian coal. In Jan-Sep 2023, Australia exported 37.7 mln t of coal to India, down -9.2% y-o-y from 41.5 mln t in Jan-Sep 2022. The top destination however is still Japan, with 76.1 mln tonnes in Jan-Sep 2023, down -14.7% y-o-y, but still accounting for 29.9% of Australian coal exports. China now accounts for 15.2% of Australia's coal exports, with India 14.8%, Korea 9.5%, Taiwan 9.0%, Vietnam 5.9%, and the EU at 5.4%.
 
-> **Chart (not transcribed):** Australia - Coal Exports by Destination in Jan-Sep (nov 2023 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## Australia - Coal Exports by Destination in Jan-Sep (nov 2023 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2021 (1-9) | 2022 (1-9) | 2023 (1-9) |
+| --- | --- | --- | --- |
+| Japan | 87.0 | 89.2 | 76.1 |
+| China | 0.5 | 0.2 | 38.7 |
+| India | 53.3 | 41.5 | 37.7 |
+| S Korea | 44.5 | 34.9 | 24.1 |
+| Taiwan, CN | 27.8 | 25.5 | 22.9 |
+| Vietnam | 11.2 | 13.2 | 15.1 |
+| EU | 11.5 | 17.0 | 13.8 |
+| Others/ Unknown | 33.6 | 24.5 | 25.7 |
 
 > **Chart (not transcribed):** Australia - Monthly Coal Exports - Seasonality (nov 2023 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

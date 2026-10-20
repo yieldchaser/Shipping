@@ -22,7 +22,18 @@ In the first 3 months of 2024, Australia exported 21.2 mln tonnes of LNG, which 
 
 The third top destination is South Korea, which accounts for 13.6% of Australian LNG shipments in 2023. Shipments from Australia to South Korea declined by -10.1% y-o-y in Jan-Dec 2023 to 11.0 mln tonnes. To Taiwan, shipments increased by +3.1% y-o-y to 7.9 mln tonnes. To South East Asia volumes increased by +28.4% y-o-y to 8.7 mln tonnes in Jan-Dec 2023. This includes 2.9 mln tonnes to Thailand (up from 1.4 mln t in Jan-Dec 2022 and 0.8 mln t in Jan-Dec 2021), as well as 3.0 mln t to Singapore, and 2.2 mln t to Malaysia.
 
-> **Chart (not transcribed):** Australia - LNG Exports by Destination in Jan-Dec (may 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## Australia - LNG Exports by Destination in Jan-Dec (may 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| Japan | 28.3 | 31.4 | 27.7 |
+| China | 31.2 | 22.3 | 25.1 |
+| S Korea | 10.0 | 12.2 | 11.0 |
+| ASEAN | 4.9 | 6.8 | 8.7 |
+| Taiwan, CN | 6.2 | 7.7 | 7.9 |
+| India | 0.3 | 0.4 | 0.4 |
+| Other AG | 0.0 | 0.1 | 0.1 |
+| Others/ Unknown | 0.1 | 0.3 | 0.0 |
 
 > **Chart (not transcribed):** Australia - Monthly LNG Exports - Seasonality (may 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

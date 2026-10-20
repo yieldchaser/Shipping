@@ -22,7 +22,18 @@ In terms of sources of iron ore imports into Japan, things changed a little bit 
 
 Volumes from South Africa to Japan increased by +15.7% y-o-y to 1.9 mln tonnes in 1H 2022.
 
-> **Chart (not transcribed):** Japan - Iron Ore Imports by Source in Jan-Jun (Jul 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
+## Japan - Iron Ore Imports by Source in Jan-Jun (Jul 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
+
+| Country | 2020 (1-6) | 2021 (1-6) | 2022 (1-6) |
+| --- | --- | --- | --- |
+| Australia | 30 | 33 | 33 |
+| Brazil | 5 | 5 | 6 |
+| Canada | 4 | 4 | 3 |
+| Philippines | 3 | 2 | 3 |
+| S Africa | 2 | 2 | 2 |
+| Chile | 0 | 0 | 0 |
+| Ukraine | 0 | 0 | 0 |
+| Others/ Unknown | 2 | 2 | 1 |
 
 > **Chart (not transcribed):** Japan - Monthly Iron Ore Imports - Seasonality (Jul 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 

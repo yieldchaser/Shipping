@@ -22,7 +22,18 @@ In terms of sources of iron ore imports into South Korea, things changed a littl
 
 Shipments from Chile surged by +160.4% y-o-y to 1.1 mln tonnes in the same period.
 
-> **Chart (not transcribed):** South Korea - Iron Ore Imports by Source in Jan-Sep (Oct 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
+## South Korea - Iron Ore Imports by Source in Jan-Sep (Oct 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
+
+| Country | 2020 (1-9) | 2021 (1-9) | 2022 (1-9) |
+| --- | --- | --- | --- |
+| Australia | 38 | 44 | 39 |
+| Brazil | 5 | 4 | 6 |
+| Canada | 3 | 3 | 4 |
+| S Africa | 3 | 3 | 4 |
+| Chile | 0 | 0 | 1 |
+| GCC | 0 | 0 | 1 |
+| China | 0 | 0 | 0 |
+| Others/ Unknown | 1 | 2 | 0 |
 
 > **Chart (not transcribed):** South Korea - Monthly Iron Ore Imports - Seasonality (Oct 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 

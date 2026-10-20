@@ -20,7 +20,18 @@ In the first quarter of 2023 there has been a slight contraction, with loadings 
 
 In 2020, volumes from Oman to China surged by +21.5% y-o-y to 36.9 mln tonnes, following a modest +1.0% y-o-y growth in 2019. However in 2021, volumes from Oman to China corrected sharply by -7.1% y-o-t to 34.3 mln tonnes, only to grow again by the aforementioned +5.5% y-o-y in 2022. In Jan-Mar 2023, shipments from Oman to China again surged by +19.0% y-o-y to a record high 10.0 mln tonnes. The second top destination for Omani crude is India. In 2022, Oman exported 4.3 mln t of crude to India, down -23.9% y-o-y from the record 5.7 mln t in 2021. The 5.7 mln t of 2021 were a +103.0% y-o-y increase from the 2.8 mln t sent to India in 2020.
 
-> **Chart (not transcribed):** Oman - Crude Oil Exports by Destination in Jan-Dec (Apr 2023 ; source: refinitiv ; seaborne only ; in mln tonnes). The report prints no values for it.
+## Oman - Crude Oil Exports by Destination in Jan-Dec (Apr 2023 ; source: refinitiv ; seaborne only ; in mln tonnes)
+
+| Country | 2020 (1-12) | 2021 (1-12) | 2022 (1-12) |
+| --- | --- | --- | --- |
+| China | 37 | 34 | 36 |
+| India | 3 | 6 | 4 |
+| Taiwan CN | 1 | 2 | 3 |
+| Japan | 1 | 1 | 2 |
+| S Korea | 1 | 1 | 2 |
+| ASEAN | 3 | 2 | 1 |
+| Other AG | 0 | 0 | 0 |
+| Others/ Unknown | 0 | 1 | 1 |
 
 > **Chart (not transcribed):** Oman - Monthly Crude Oil Exports - Seasonality (Apr 2023 ; source: refinitiv ; seaborne only ; in mln tonnes). The report prints no values for it.
 

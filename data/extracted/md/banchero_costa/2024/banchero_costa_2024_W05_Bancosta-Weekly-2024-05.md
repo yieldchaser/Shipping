@@ -22,7 +22,18 @@ In terms of sources of the shipments, there has been understandably a bit of pol
 
 Imports from the USA surged by +41.5% y-o-y to a new all time record of 72.8 mln t in Jan-Dec 2023. Shipments from West Africa to Europe were up by +8.2% y-o-y to 54.4 mln tonnes in Jan-Dec 2023. Direct shipments from the Arabian Gulf also rebounded sharply by +32.2% y-o-y to 45.3 mln tonnes. Volumes from Turkey (Ceyhan) were down by -32.7% y-o-y to 23.0 mln t, from 34.2 mln t of Jan-Dec 2022.
 
-> **Chart (not transcribed):** EU - Crude Oil Imports by Source in Jan-Dec (feb 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## EU - Crude Oil Imports by Source in Jan-Dec (feb 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| NW Europe | 65 | 77 | 88 |
+| N Africa | 66 | 70 | 82 |
+| USA | 36 | 51 | 73 |
+| Russia | 113 | 98 | 59 |
+| W Africa | 39 | 50 | 54 |
+| AG | 19 | 34 | 45 |
+| Turkey | 35 | 34 | 23 |
+| Others/ Unknown | 30 | 36 | 49 |
 
 > **Chart (not transcribed):** EU - Monthly Crude Oil Imports - Seasonality (feb 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

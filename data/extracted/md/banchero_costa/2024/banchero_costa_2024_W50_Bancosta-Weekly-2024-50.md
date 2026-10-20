@@ -20,7 +20,18 @@ In terms of sources for China's iron ore imports, distances keep improving. Aust
 
 From India volumes increased by +1.8% y-o-y to 33.9 mln t. Volumes from South Africa to China increased by +4.2% y-o-y to 28.7 mln t in Jan-Nov 2024. From Peru volumes increased by +10.9% y-o-y to 21.1 mln t.
 
-> **Chart (not transcribed):** China - Iron Ore Imports by Source in Jan-Nov (dec 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## China - Iron Ore Imports by Source in Jan-Nov (dec 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2022 (1-11) | 2023 (1-11) | 2024 (1-11) |
+| --- | --- | --- | --- |
+| Australia | 702.7 | 708.3 | 711.0 |
+| Brazil | 212.0 | 226.9 | 251.8 |
+| India | 10.1 | 33.3 | 33.9 |
+| S Africa | 29.7 | 27.5 | 28.7 |
+| Peru | 16.9 | 19.0 | 21.1 |
+| Canada | 11.9 | 15.9 | 15.8 |
+| Ukraine | 4.3 | 0.3 | 11.3 |
+| Others/ Unknown | 55.9 | 68.2 | 65.6 |
 
 > **Chart (not transcribed):** China - Monthly Iron Ore Imports - Seasonality (dec 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

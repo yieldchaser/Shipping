@@ -20,7 +20,18 @@ In terms of demand, seaborne imports into the European Union (27) increased by +
 
 In terms of sources of the shipments, the majority of China's oil imports arrives from the Middle East. Saudi Arabia is the single largest exporter to China, accounting for 15.6% of volumes in Jan-Sep 2023. In Jan-Sep 2023, China imported 59.8 mln tonnes of crude oil from Saudi Arabia, up +5.1% y-o-y. In the same period, imports from Iraq to China increased by +13.5% y-o-y to 41.6 mln t, and from the UAE by +30.0% y-o-y to 28.9 mln t. Volumes from Oman increased by +15.5% y-o-y to 29.8 mln t, whilst from Kuwait declined by -21.6% y-o-y at 16.8 mln t. Direct shipments from Russia increased by +33.6% y-o-y to 41.5 mln t in Jan-Sep 2023. Nevertheless, Russia still accounts for less than 11 percent of China's overall seaborne crude oil imports. Imports from ASEAN increased by +57.7% y-o-y to 37.6 mln t in Jan-Sep 2023, and from South America by 70.5% y-o-y to 32.1 mln t.
 
-> **Chart (not transcribed):** China - Crude Oil Imports by Source in Jan-Sep (oct 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## China - Crude Oil Imports by Source in Jan-Sep (oct 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2021 (1-9) | 2022 (1-9) | 2023 (1-9) |
+| --- | --- | --- | --- |
+| AG | 174 | 171 | 189 |
+| Russia | 22 | 31 | 41 |
+| W Africa | 43 | 36 | 38 |
+| ASEAN | 19 | 24 | 38 |
+| S America | 27 | 19 | 32 |
+| USA | 9 | 8 | 16 |
+| Panama | 9 | 7 | 8 |
+| Others/ Unknown | 34 | 18 | 22 |
 
 > **Chart (not transcribed):** China - Monthly Crude Oil Imports - Seasonality (oct 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

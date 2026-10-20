@@ -20,7 +20,18 @@ This was followed by a +11.7% y-o-y increase in Jan-Dec 2024 to 34.8 mln tonnes.
 
 When it comes to other sources of LPG, it is primarily the Middle East which in 2024 accounted for a combined 37.1% of the LPG imported into China. Most of this was from the UAE, which was the source of 3.7 mln tonnes or 10.6% of the total LPG imported to China in 2024, and Qatar with respectively 2.5 mln tonnes and 7.0%. Imports from Iran have also surged, increasing by +55.4% y-o-y in 2024 to 3.4 mln tonnes, or 9.7% of China's total imports. In Jan-Jun 2025, volumes from Iran further increased by +38.7% y-o-y to 2.8 mln tonnes and now account for 16.4% of China's imports this year. From the UAE volumes increased by +4.9% y-o-y in 1H 2025 to 2.1 mln t, and from Qatar by +26.2% y-o-y to 1.4 mln tonnes.
 
-> **Chart (not transcribed):** China - LPG Imports by Source in Jan-Jun (jul 2025 ; source: LSEG ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## China - LPG Imports by Source in Jan-Jun (jul 2025 ; source: LSEG ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2023 (1-6) | 2024 (1-6) | 2025 (1-6) |
+| --- | --- | --- | --- |
+| USA | 6.8 | 9.2 | 8.2 |
+| Iran | 0.9 | 2.0 | 2.8 |
+| UAE | 2.7 | 2.0 | 2.1 |
+| Qatar | 1.3 | 1.1 | 1.4 |
+| Kuwait | 0.4 | 0.5 | 0.7 |
+| Canada | 0.0 | 0.0 | 0.4 |
+| Saudi A | 1.0 | 0.6 | 0.3 |
+| Others/ Unknown | 2.0 | 1.6 | 1.2 |
 
 > **Chart (not transcribed):** China - Monthly LPG Imports - Seasonality (jul 2025 ; source: LSEG ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

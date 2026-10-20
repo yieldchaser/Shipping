@@ -20,7 +20,18 @@ About 84.8 percent of volumes discharged in China in Jan-Jul 2025 were carried i
 
 Direct shipments from Russia declined by -24.9% y-o-y in Jan-Jul 2025 to 23.1 mln t. Russia now accounts for just 8.1% of China's overall seaborne crude oil imports. Imports from ASEAN (which includes some trans-shipment of Iranian and Russian oil) increased by +4.0% y-o-y to 35.9 mln t in Jan-Jul 2025, and from West Africa by +3.9% y-o-y to 30.6 mln t. Volumes from Canada surged to 5.9 mln t in Jan-Jul 2025 from just 0.4 mln t in the same period last year.
 
-> **Chart (not transcribed):** China - Crude Oil Imports by Source in Jan-Jul (aug 2025 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## China - Crude Oil Imports by Source in Jan-Jul (aug 2025 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2023 (1-7) | 2024 (1-7) | 2025 (1-7) |
+| --- | --- | --- | --- |
+| AG | 148.1 | 144.8 | 132.0 |
+| ASEAN | 26.4 | 34.6 | 35.9 |
+| W Africa | 27.0 | 29.4 | 30.6 |
+| S America | 24.3 | 29.4 | 29.2 |
+| Russia | 32.7 | 30.7 | 23.1 |
+| Panama | 6.3 | 7.8 | 8.6 |
+| Canada | 0.0 | 0.4 | 5.9 |
+| Others/ Unknown | 30.7 | 19.2 | 20.1 |
 
 > **Chart (not transcribed):** China - Monthly Crude Oil Imports - Seasonality (aug 2025 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

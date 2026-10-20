@@ -20,7 +20,18 @@ In Jan-Dec 2023, iron ore exports from Brazil increased by +7.9% y-o-y to 362.3 
 
 To Japan there was a +1.3% y-o-y increase to 11.4 mln t in Jan-Dec 2023, whilst to South Korea volumes declined by -4.0% y-o-y to 7.4 mln t. Exports from Brazil to the EU declined by -17.3% y-o-y to 16.9 mln tonnes in Jan-Dec 2023. This is above the 16.8 mln t in Jan-Dec 2020, but well below the 30.7 mln t in Jan-Dec 2019. Shipments to Bahrain declined in 2023 by -4.6% y-o-y to 10.8 mln t, to Oman by -4.8% y-o-y to 9.8 mln t, whilst those to Turkey increased by +22.8% to 5.2 mln t, and to Egypt by +55.5% y-o-y to 3.1 mln t.
 
-> **Chart (not transcribed):** Brazil - Iron Ore Exports by Destination in Jan-Dec (feb 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## Brazil - Iron Ore Exports by Destination in Jan-Dec (feb 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| China | 240 | 235 | 255 |
+| Malaysia | 21 | 17 | 18 |
+| EU | 23 | 20 | 17 |
+| Japan | 12 | 11 | 11 |
+| Bahrain | 11 | 11 | 11 |
+| Oman | 10 | 10 | 10 |
+| S Korea | 8 | 8 | 7 |
+| Others/ Unknown | 22 | 23 | 33 |
 
 > **Chart (not transcribed):** Brazil - Monthly Iron Ore Exports - Seasonality (feb 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

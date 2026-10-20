@@ -22,7 +22,18 @@ In terms of sources of the shipments, there has been understandably a bit of pol
 
 Imports from the USA crashed by -33.3% y-o-y to just 10.5 mln t in Jan-Dec 2023. Shipments from West Africa to India were also down by -44.3% y-o-y to 10.2 mln tonnes in Jan-Dec 2023. Top loading ports to India in 2023 were Basrah (48.1 mln t in Jan-Dec 2023), Ras Tanura (33.3 mln t), Primorsk (27.4 mln t), Ust-Luga (19.6 mln t), Novorossiysk (17.2 mln t).
 
-> **Chart (not transcribed):** India - Crude Oil Imports by Source in Jan-Dec (feb 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## India - Crude Oil Imports by Source in Jan-Dec (feb 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| AG | 124 | 133 | 106 |
+| Russia | 4 | 33 | 75 |
+| USA | 19 | 16 | 10 |
+| W Africa | 24 | 18 | 10 |
+| S America | 9 | 6 | 6 |
+| S Korea | 0 | 0 | 5 |
+| EU | 0 | 3 | 3 |
+| Others/ Unknown | 21 | 14 | 11 |
 
 > **Chart (not transcribed):** India - Monthly Crude Oil Imports - Seasonality (feb 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

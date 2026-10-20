@@ -22,7 +22,18 @@ Things remained positive also in the third quarter of this year. In 3Q 2021 impo
 
 In terms of sources of iron ore imports into Korea, things were rather constant. Australia, which was already the top iron ore exporter to Korea, further increased volumes by +15.7% y-o-y to 43.5 mln t in Jan-Sep 2021, from 37.6 mln t in the same period of 2020. Australia now accounts for 77.4% of Korea's iron ore imports. The second largest source for Korea's iron ore imports is Brazil, accounting for a 7.5% share. However, shipments from Brazil to Korea declined by -19.2% y-o-y to 4.2 mln tonnes in the first 9 months of 2021, from 5.2 mln tonnes in the same period of 2020.
 
-> **Chart (not transcribed):** South Korea - Iron Ore Imports by Source in Jan-Sep (Oct 2021 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
+## South Korea - Iron Ore Imports by Source in Jan-Sep (Oct 2021 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes)
+
+| Country | 2019 (1-9) | 2020 (1-9) | 2021 (1-9) |
+| --- | --- | --- | --- |
+| Australia | 41 | 38 | 44 |
+| Brazil | 6 | 5 | 4 |
+| Canada | 3 | 3 | 3 |
+| S Africa | 4 | 3 | 3 |
+| India | 0 | 0 | 1 |
+| Peru | 0 | 0 | 0 |
+| Chile | 0 | 0 | 0 |
+| Others/ Unknown | 1 | 1 | 1 |
 
 > **Chart (not transcribed):** South Korea - Monthly Iron Ore Imports - Seasonality (Oct 2021 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 

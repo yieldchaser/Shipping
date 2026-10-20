@@ -20,7 +20,18 @@ In the full year of 2024, Australia exported 81.7 mln tonnes of seaborne LNG, ac
 
 In terms of destinations for Australian LNG, it's almost all north-east Asia. In Jan-Oct 2025, LNG exports from Australia to Mainland China declined by -23.9% y-o-y to 17.2 mln tonnes from 22.6 mln t in Jan-Oct 2024. This was the lowest volume on this route since 2017. China was now the destination for 26.1% of Australia's LNG exports in Jan-Oct 2025, down from 33.4% in the Jan-Oct 2024 period. Volumes to Japan, on the other hand, increased by +4.7% y-o-y in Jan-Oct 2025 to 22.2 mln t, from 21.2 mln t in Jan-Oct 2024. Japan was the destination for 33.7% of Australian shipments this year. The third top destination was South Korea, which accounted for 19.0% of Australian LNG shipments in 2025. Shipments from Australia to South Korea surged by +28.4% y-o-y this year to 12.5 mln tonnes, an all-time record. To Taiwan volumes declined marginally by -3.2% y-o-y to 6.6 mln tonnes in Jan-Oct 2025. Volumes from Australia to South East Asia also declined by -9.8% y-o-y to 6.1 mln tonnes in Jan-Oct 2025 from 6.8 mln t in Jan-Oct 2024.
 
-> **Chart (not transcribed):** Australia - LNG Exports by Destination in Jan-Oct (nov 2025 ; source: LSEG ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## Australia - LNG Exports by Destination in Jan-Oct (nov 2025 ; source: LSEG ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2023 (1-10) | 2024 (1-10) | 2025 (1-10) |
+| --- | --- | --- | --- |
+| Japan | 22.8 | 21.2 | 22.2 |
+| China | 20.4 | 22.6 | 17.2 |
+| S Korea | 8.9 | 9.7 | 12.5 |
+| Taiwan, CN | 6.9 | 6.8 | 6.6 |
+| ASEAN | 7.5 | 6.8 | 6.1 |
+| HK, CN | 0.0 | 0.5 | 0.5 |
+| India | 0.4 | 0.1 | 0.3 |
+| Others/ Unknown | 0.1 | 0.0 | 0.4 |
 
 > **Chart (not transcribed):** Australia - Monthly LNG Exports - Seasonality (nov 2025 ; source: LSEG ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

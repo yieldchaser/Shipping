@@ -20,7 +20,18 @@ The only major port on the western (Pacific Ocean) coast of Colombia is Buenaven
 
 Nevertheless, there have been quite remarkable reshuffles in terms of trade patterns. Coal exports from Colombia to the EU increased by +83.8% y-o-y in Jan-Oct 2021, to 7.1 mln tonnes. However they are still shy of the 10.0 mln tonnes on this route in the same period of 2019, not to mention the 22 mln tonnes in Jan-Oct 2017. Shipments to China continue to grow, and were 3.7 mln tonnes in Jan-Oct 2021, double the 1.7 mln tonnes in the same period last year. The top destination however is still Turkey, with 10.5 mln tonnes in Jan-Oct 2021, down -5.1% y-o-y.
 
-> **Chart (not transcribed):** Colombia - Coal Exports by Destination in Jan-Oct (Nov 2021 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
+## Colombia - Coal Exports by Destination in Jan-Oct (Nov 2021 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes)
+
+| Country | 2019 (1-10) | 2020 (1-10) | 2021 (1-10) |
+| --- | --- | --- | --- |
+| Turkey | 13 | 11 | 10 |
+| EU27 | 10 | 4 | 7 |
+| Chile | 7 | 6 | 6 |
+| Brazil | 3 | 2 | 4 |
+| China PR | 2 | 2 | 4 |
+| Israel | 4 | 3 | 3 |
+| S Korea | 5 | 4 | 2 |
+| Others/ Unknown | 19 | 11 | 10 |
 
 > **Chart (not transcribed):** Colombia - Monthly Coal Exports - Seasonality (Nov 2021 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 

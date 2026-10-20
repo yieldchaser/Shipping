@@ -20,7 +20,18 @@ This was also well below the 87.7 mln tonnes imported in 2019 or the 98.2 mln t 
 
 When it comes to the sources of the shipments, Brazil has now lost its top spot to Canada. Canada was the overall top supplier of iron ore to the European Union in Jan-Oct 2024, accounting for 35.1% of the EU's total imports last year. Shipments from Canada to the EU increased by +14.9% y-o-y in Jan-Oct 2024 to 21.6 mln tonnes, from 18.8 mln t in Jan-Oct 2023. Shipments from Brazil to the EU, on the other hand, declined in Jan-Oct 2024 by -4.0% y-o-y to 14.3 mln tonnes. Brazil accounted for 23.2% of the EU's ore imports in Jan-Oct 2024.
 
-> **Chart (not transcribed):** EU - Iron Ore Imports by Source in Jan-Oct (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## EU - Iron Ore Imports by Source in Jan-Oct (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2022 (1-10) | 2023 (1-10) | 2024 (1-10) |
+| --- | --- | --- | --- |
+| Canada | 18.0 | 18.8 | 21.6 |
+| Brazil | 17.7 | 14.9 | 14.3 |
+| S Africa | 11.2 | 9.9 | 9.1 |
+| Norway | 8.2 | 7.8 | 7.3 |
+| EU | 3.1 | 2.2 | 3.6 |
+| Liberia | 2.9 | 2.7 | 1.7 |
+| Mauritania | 2.3 | 1.7 | 1.4 |
+| Others/ Unknown | 4.4 | 2.3 | 2.7 |
 
 > **Chart (not transcribed):** EU - Monthly Iron Ore Imports - Seasonality (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

@@ -20,7 +20,18 @@ The main crude oil export terminals in North West Europe are: Mongstad (26.5 mln
 
 In 2022, a total of 77.4 mln tonnes, or 72.0% of the total, was shipped to the European Union (27). This included the Netherlands (25.2 mln tonnes in 2022, Sweden (14.6 mln tonnes), Germany (10.5 mln tonnes), Poland (6.7 mln tonnes). In 2022, shipments to the EU27 increased by +19.9% y-o-y. Perhaps surprisingly, 6.1% of total shipments from Norway and the UK, or 6.6 mln tonnes in 2022, goes all the way to Mainland China. This is actually way down from a peak of 19.9 mln tonnes in 2020. Shipments from North West Europe to China declined by -56.5% y-o-y in 2022. Also, 1.3% of exports, or 1.4 mln tonnes in 2022, were shipped to South Korea. 0.8%, or 0.9 mln tonnes in 2022, was shipped to South East Asia.
 
-> **Chart (not transcribed):** NW Europe - Crude Oil Exports by Destination in Jan-Aug (oct 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## NW Europe - Crude Oil Exports by Destination in Jan-Aug (oct 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2021 (1-8) | 2022 (1-8) | 2023 (1-8) |
+| --- | --- | --- | --- |
+| EU | 41 | 51 | 60 |
+| NW Europe | 9 | 11 | 11 |
+| China | 10 | 4 | 1 |
+| USA | 2 | 1 | 1 |
+| Canada | 1 | 1 | 0 |
+| Turkey | 1 | 0 | 0 |
+| ASEAN | 2 | 1 | 0 |
+| Others/ Unknown | 5 | 2 | 0 |
 
 > **Chart (not transcribed):** NW Europe - Monthly Crude Oil Exports - Seasonality (oct 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

@@ -18,7 +18,18 @@ Shipments to South Korea declined by -5.6% y-o-y to 92.4 mln t, to the EU down -
 
 In Jan-Oct 2024, most coal volumes into China were loaded on Panamax vessels (50.9%), with 24.2% on Supramax and Ultramax vessels, 6.8% on Post-Panamaxes and 15.0% on Capesize tonnage. Top discharge ports for coal imports into China in Jan-Oct 2024 were Machong (20.3 mln tonnes of coal in Jan-Oct 2024), Fangcheng (19.3 mln t), Qinzhou (16.3 mln t), Gaolan (14.9 mln t), Caofeidian (14.0 mln t), Meizhou (14.0 mln t), Shanghai (11.6 mln t), Nanjing (9.3 mln t), Ningbo (8.6 mln t), Haimen (8.3 mln t), Guangzhou (8.3 mln t), Dongwu (7.6 mln t), Xiamen (7.6 mln t). Indonesia is still by far the top supplier of coal to China accounting for 54.1% of China's imports in the first 10 months of 2024. Arrivals from Indonesia increased by +10.4% y-o-y to 185.2 mln tonnes in Jan-Oct 2024 compared to 167.8 mln t in Jan-Oct 2023. **Australia is now back (!!!) and the second largest supplier of coal into China with a share of 19.1%.** In Jan-Oct 2024, China imported 65.6 mln tonnes of coal from Australia, up +65.0% y-o-y from 39.8 mln tonnes in Jan-Oct 2023. It should be noted that volumes were just 0.2 mln t in Jan-Oct 2022, when the boycott against Australian coal was still being enforced. The third largest supplier of coal to China is Russia, accounting for a 15.9% share of Chinese imports. Coal shipments from Russia to China declined by -16.5% y-o-y to 54.5 mln t in Jan-Oct 2024, from 65.2 mln t in Jan-Oct 2023, but are still above the 45.5 mln t in Jan-Oct 2022. Most Russian shipments are sourced from the Far East region of the country, with 13.2 mln t imported in Jan-Oct 2024 from the port of Vanino, 9.3 mln t from Vostochny, 9.3 mln t from Shakhtersk, 6.8 mln t from Nakhodka. Coal volumes from Colombia to China have also skyrocketed to 8.4 mln t in Jan-Oct 2024, from just 3.1 mln t in the same period of 2023.
 
-> **Chart (not transcribed):** China - Coal Imports by Source in Jan-Oct (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## China - Coal Imports by Source in Jan-Oct (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2022 (1-10) | 2023 (1-10) | 2024 (1-10) |
+| --- | --- | --- | --- |
+| Indonesia | 127.5 | 167.8 | 185.2 |
+| Australia | 0.2 | 39.8 | 65.6 |
+| Russia | 45.5 | 65.2 | 54.5 |
+| USA | 4.4 | 5.8 | 9.4 |
+| Canada | 7.6 | 8.3 | 9.1 |
+| Colombia | 0.1 | 3.1 | 8.4 |
+| Philippines | 2.9 | 3.2 | 6.0 |
+| Others/ Unknown | 6.4 | 6.2 | 4.4 |
 
 > **Chart (not transcribed):** China - Monthly Coal Imports - Seasonality (nov 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

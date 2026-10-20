@@ -20,7 +20,18 @@ Things improved again in 2022, with export volumes up by +1.5% y-o-y to 896.1 ml
 
 Shipments from Australia to Japan declined sharply by -5.4% y-o-y to 62.7 mln t in 2022, from 66.3 mln tonnes in 2021. Export to South Korea were down by -17.5% y-o-y to 49.5 mln tonnes in 2022 from 60.0 mln t in 2021. Volumes from Australia to Taiwan declined by -6.6% y-o-y to 19.9 mln tonnes last year. To Vietnam volumes were down -19.9% y-o-y to 9.0 mln t in 2022 from 11.2 mln t in 2021. To Indonesia it was +5.7% y-o-y to 7.7 mln tonnes from 7.3 mln t in the previous year.
 
-> **Chart (not transcribed):** Australia - Iron Ore Exports by Destination in Jan-Dec (May 2023 ; source: refinitiv ; seaborne only ; in mln tonnes). The report prints no values for it.
+## Australia - Iron Ore Exports by Destination in Jan-Dec (May 2023 ; source: refinitiv ; seaborne only ; in mln tonnes)
+
+| Country | 2020 (1-12) | 2021 (1-12) | 2022 (1-12) |
+| --- | --- | --- | --- |
+| China | 735 | 710 | 742 |
+| Japan | 58 | 66 | 63 |
+| S Korea | 53 | 60 | 50 |
+| Taiwan, CN | 20 | 21 | 20 |
+| Vietnam | 8 | 11 | 9 |
+| Indonesia | 5 | 7 | 8 |
+| Malaysia | 3 | 2 | 2 |
+| Others/ Unknown | 4 | 5 | 3 |
 
 > **Chart (not transcribed):** Australia - Monthly Iron Ore Exports - Seasonality (May 2023 ; source: refinitiv ; seaborne only ; in mln tonnes). The report prints no values for it.
 

@@ -20,7 +20,18 @@ This however was still well below the volumes seen before 2020. About 78% of cru
 
 Of these, 5.8 mln tonnes from Murmansk Port, and 7.7 mln tonnes from the Umba FSO. Destinations from Russia's Arctic coast were primarily the European Union (9.9 mln tonnes), but also the UK (2.5 mln tonnes) and the USA (1.3 mln tonnes). In 2021, about 46.9 mln tonnes (about 24%) were shipped from Russia's **Far East** ports. Of these, 32.4 mln tonnes from Kozmino, 10.5 mln tonnes from De Kastri, 3.9 mln tonnes from Prigorodnoye. Destinations from Russia's Far East were primarily China (26.3 mln tonnes), South Korea (13.3 mln tonnes), Japan (3.9 mln tonnes).
 
-> **Chart (not transcribed):** Russia - Crude Oil Exports by Destination in Jan-Dec (Mar 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
+## Russia - Crude Oil Exports by Destination in Jan-Dec (Mar 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
+
+| Country | 2019 (1-12) | 2020 (1-12) | 2021 (1-12) |
+| --- | --- | --- | --- |
+| EU27 | 129 | 107 | 114 |
+| China PR | 30 | 33 | 31 |
+| S Korea | 18 | 17 | 18 |
+| Russia | 0 | 5 | 14 |
+| Turkey | 14 | 7 | 10 |
+| USA | 7 | 4 | 8 |
+| India | 6 | 5 | 4 |
+| Others/ Unknown | 20 | 18 | 13 |
 
 > **Chart (not transcribed):** Russia - Monthly Crude Oil Exports - Seasonality (Mar 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
 

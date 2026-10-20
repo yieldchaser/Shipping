@@ -20,7 +20,18 @@ In the full year 2018, imports into Japan declined by -1.2% y-o-y to 177.2 mln t
 
 On the other hand, shipments from Indonesia to Japan declined by -19.2% y-o-y in 2021 to 21.0 mln tonnes, from 26.0 mln t in 2020. Imports from Russia to Japan declined slightly by -3.3% y-o-y in 2021 to 16.3 mln tonnes, from the record 16.9 mln tonnes in 2020. In the first 5 months of 2022, we have seen a sharp decline in imports from Russia, down by -21.4% y-o-y to 5.0 mln tonnes, from 6.4 mln t in the same period last year. On the other hand, shipments from Indonesia to Japan rebounded by +14.7% y-o-y in the first 5 months of 2022 to 10.0 mln tonnes. From Australia they are also marginally up so far this year, by +1.2% y-o-y to 47.6 mln tonnes. Australia still accounts for 67.3% of Japan's total coal imports, followed by Indonesia with a 14.2% share, Canada with 8.1%, and Russia with 7.1%.
 
-> **Chart (not transcribed):** Japan - Coal Imports by Source in Jan-May (Jun 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
+## Japan - Coal Imports by Source in Jan-May (Jun 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
+
+| Country | 2020 (1-5) | 2021 (1-5) | 2022 (1-5) |
+| --- | --- | --- | --- |
+| Australia | 44 | 47 | 48 |
+| Indonesia | 12 | 9 | 10 |
+| Canada | 7 | 5 | 6 |
+| Russia | 6 | 6 | 5 |
+| USA | 2 | 1 | 1 |
+| Colombia | 0 | 0 | 1 |
+| S Africa | 0 | 0 | 0 |
+| Others/ Unknown | 1 | 0 | 0 |
 
 > **Chart (not transcribed):** Japan - Monthly Coal Imports - Seasonality (Jun 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 

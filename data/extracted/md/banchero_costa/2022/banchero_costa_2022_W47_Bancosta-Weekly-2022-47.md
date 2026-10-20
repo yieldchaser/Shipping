@@ -20,7 +20,18 @@ Port Hedland (429.1 mln t loaded in Jan-Oct 2022), Port Walcott (140.0 mln t), D
 
 This was above the 46.1 mln tonnes in Jan-Oct 2020 but below the 55.3 mln t in Jan-Oct 2019. Export to South Korea are down by -16.0% y-o-y to 41.4 mln tonnes in Jan-Oct 2022 from 49.3 mln t in Jan-Oct 2021. Volumes from Australia to Taiwan declined by -7.1% y-o-y to 16.7 mln tonnes so far this year. To Vietnam volumes are down -13.6% y-o-y to 8.2 mln t in Jan-Oct 2022 from 9.5 mln t in Jan-Oct 2021. To Indonesia it's +1.4% y-o-y to 6.2 mln tonnes from 6.1 mln t in the same period last year.
 
-> **Chart (not transcribed):** Australia - Iron Ore Exports by Destination in Jan-Oct (Nov 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
+## Australia - Iron Ore Exports by Destination in Jan-Oct (Nov 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
+
+| Country | 2020 (1-10) | 2021 (1-10) | 2022 (1-10) |
+| --- | --- | --- | --- |
+| China PR | 615 | 589 | 610 |
+| Japan | 46 | 55 | 51 |
+| S Korea | 42 | 49 | 41 |
+| Taiwan CN | 17 | 18 | 17 |
+| Vietnam | 6 | 9 | 8 |
+| Indonesia | 4 | 6 | 6 |
+| Malaysia | 3 | 1 | 2 |
+| Others/ Unknown | 3 | 3 | 3 |
 
 > **Chart (not transcribed):** Australia - Monthly Iron Ore Exports - Seasonality (Nov 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 

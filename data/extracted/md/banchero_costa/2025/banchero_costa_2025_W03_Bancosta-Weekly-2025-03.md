@@ -20,7 +20,18 @@ Instead, it is a major export outlet for crude from Azerbaijan and, previously, 
 
 In the 12 months of 2023, Turkish seaborne crude oil exports declined by -31.0% y-o-y to 33.4 mln tonnes, down from a peak of 48.4 mln tonnes of 2022. In Jan-Dec 2024 exports from Türkiye declined further by -16.4% y-o-y to 27.9 mln t. In terms of destinations for crude shipments from Türkiye, the EU27 is by far the top one, accounting for 75% of crude oil volumes exported from Türkiye in Jan-Dec 2024. In Jan-Dec 2024, Türkiye shipped 20.9 mln t to the EU27, -8.0% y-o-y. This follows a -32.7% y-o-y decline in shipments in 2023.
 
-> **Chart (not transcribed):** Turkey - Crude Oil Exports by Destination in Jan-Dec (jan 2025 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## Turkey - Crude Oil Exports by Destination in Jan-Dec (jan 2025 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2022 (1-12) | 2023 (1-12) | 2024 (1-12) |
+| --- | --- | --- | --- |
+| EU | 33.8 | 22.7 | 20.9 |
+| N Africa | 3.9 | 2.9 | 3.4 |
+| India | 2.2 | 2.4 | 1.3 |
+| NW Europe | 0.9 | 0.9 | 0.9 |
+| ASEAN | 2.6 | 1.5 | 0.6 |
+| Israel | 3.3 | 2.2 | 0.4 |
+| S America | 0.0 | 0.0 | 0.3 |
+| Others/ Unknown | 1.8 | 0.7 | 0.1 |
 
 > **Chart (not transcribed):** Turkey - Monthly Crude Oil Exports - Seasonality (jan 2025 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

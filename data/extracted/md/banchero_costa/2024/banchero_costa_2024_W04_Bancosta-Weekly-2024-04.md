@@ -20,7 +20,18 @@ The main iron ore import terminals in Mainland China are: Caofeidian (121.0 mln 
 
 Brazil remains in second spot with a 21% share in Jan-Dec 2023. Imports to China from Brazil increased by +7.5% y-o-y to 251.4 mln tonnes in Jan-Dec 2023, from 234.0 mln t in Jan-Dec 2022. The top loading port in Brazil for iron ore cargoes to China was Ponta da Madeira (115.4 mln t in 2023), followed by Sepetiba (64.1 mln t) and Tubarao (34.9 mln t). Volumes from South Africa declined by -3.2% y-o-y to 30.2 mln t in Jan-Dec 2023. From India volumes surged by +252.8% y-o-y to 37.2 mln t. From Canada volumes increased by +29.3% y-o-y to 17.3 mln t.
 
-> **Chart (not transcribed):** China - Iron Ore Imports by Source in Jan-Dec (jan 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## China - Iron Ore Imports by Source in Jan-Dec (jan 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| Australia | 730 | 770 | 770 |
+| Brazil | 242 | 234 | 251 |
+| India | 32 | 11 | 37 |
+| S Africa | 32 | 31 | 30 |
+| Peru | 18 | 19 | 20 |
+| Canada | 15 | 13 | 17 |
+| Malaysia | 15 | 13 | 15 |
+| Others/ Unknown | 62 | 52 | 59 |
 
 > **Chart (not transcribed):** China - Monthly Iron Ore Imports - Seasonality (jan 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

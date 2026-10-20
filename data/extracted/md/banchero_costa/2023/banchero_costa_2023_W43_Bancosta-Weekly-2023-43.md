@@ -22,7 +22,18 @@ In terms of sources for LNG shipments into Europe, there has been a huge huge ju
 
 West Africa is in fourth place with a 10.7% share, shipping 8.2 mln t to the EU in Jan-Sep 2023, down -5.4% y-o-y.
 
-> **Chart (not transcribed):** EU - LNG Imports by Source in Jan-Sep (oct 2023 ; source: refinitiv ; seaborne only ; in mln tonnes). The report prints no values for it.
+## EU - LNG Imports by Source in Jan-Sep (oct 2023 ; source: refinitiv ; seaborne only ; in mln tonnes)
+
+| Country | 2021 (1-9) | 2022 (1-9) | 2023 (1-9) |
+| --- | --- | --- | --- |
+| USA | 11.7 | 31.7 | 33.5 |
+| Russia | 8.3 | 12.1 | 11.7 |
+| Qatar | 8.8 | 9.6 | 9.7 |
+| W Africa | 7.2 | 8.7 | 8.2 |
+| N Africa | 5.3 | 6.0 | 6.0 |
+| NW Europe | 0.2 | 1.2 | 2.7 |
+| Trinidad | 1.3 | 1.9 | 1.9 |
+| Others/ Unknown | 0.5 | 2.0 | 2.8 |
 
 > **Chart (not transcribed):** EU - Monthly LNG Imports - Seasonality (oct 2023 ; source: refinitiv ; seaborne only ; in mln tonnes). The report prints no values for it.
 

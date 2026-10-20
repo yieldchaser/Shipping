@@ -20,7 +20,18 @@ About 60 percent of coal imports into India are delivered to the East coast, pri
 
 In Jan-Sep 2025, coal shipments from Indonesia to India declined by -14.4% y-o-y to 70.6 mln tonnes, were however was still above the 67.3 mln t in Jan-Sep 2023. About 18.0% of imports, 31.6 mln t in Jan-Sep 2025, were shipped from Australia, down by -1.6% y-o-y. South Africa exported 22.7 mln tonnes of coal to India in Jan-Sep 2025, up +5.6% y-o-y, with a share of 12.9% of Indian imports. Shipments from Russia to India surged by +10.5% y-o-y in Jan-Sep 2025 to a record high 21.2 mln tonnes, with Russia now accounting for 12.1% of Indian coal imports. Imports from the USA declined by -6.0% y-o-y to 15.3 mln t, whilst from Colombia surged by +38.7% y-o-y to 1.9 mln t. As a new entry, 1.1 mln tonnes were imported this year from Ukraine, up from 0.1 mln t last year.
 
-> **Chart (not transcribed):** India - Coal Imports by Source in Jan-Sep (oct 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## India - Coal Imports by Source in Jan-Sep (oct 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2023 (1-9) | 2024 (1-9) | 2025 (1-9) |
+| --- | --- | --- | --- |
+| Indonesia | 67.3 | 82.5 | 70.6 |
+| Australia | 37.5 | 32.1 | 31.6 |
+| S Africa | 18.8 | 21.5 | 22.7 |
+| Russia | 20.3 | 19.2 | 21.2 |
+| USA | 14.2 | 16.2 | 15.3 |
+| Mozamb. | 8.8 | 7.7 | 7.5 |
+| Colombia | 0.1 | 1.4 | 1.9 |
+| Others/ Unknown | 4.1 | 3.8 | 4.6 |
 
 > **Chart (not transcribed):** India - Monthly Coal Imports - Seasonality (oct 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

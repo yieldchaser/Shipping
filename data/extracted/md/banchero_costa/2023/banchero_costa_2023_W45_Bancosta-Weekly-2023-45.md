@@ -20,7 +20,18 @@ In terms of demand, seaborne imports into the European Union (27) increased by +
 
 In terms of sources of the shipments, the majority of South Korea's oil imports arrives from the Middle East, totalling 70.9% or 82.0 mln tonnes in Jan-Oct 2023. Saudi Arabia is the single largest crude oil exporter to South Korea, accounting for 33.1% of volumes in Jan-Oct 2023. In Jan-Oct 2023, South Korea imported 38.3 mln tonnes of crude oil from Saudi Arabia, -5.3% y-o-y. In the same period, imports from Kuwait increased by +6.2% y-o-y to 12.7 mln t, from Iraq by +11.9% y-o-y to 11.4 mln t, from the UAE by +58.2% y-o-y to 10.1 mln t, and from Qatar by +71.1% y-o-y to 9.3 mln t. Direct shipments from Russia increased by +1.2% y-o-y to 10.8 mln t in Jan-Oct 2023. Russia still accounts for 9.4 percent of South Korea's overall seaborne crude oil imports this year. Imports from the USA to South Korea declined by -1.0% y-o-y to 15.5 mln t in Jan-Oct 2023, from South America by -41.8% y-o-y to 1.8 mln t, and from Mexico by -18.8% y-o-y to 1.7 mln t.
 
-> **Chart (not transcribed):** S Korea - Crude Oil Imports by Source in Jan-Oct (nov 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## S Korea - Crude Oil Imports by Source in Jan-Oct (nov 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2021 (1-10) | 2022 (1-10) | 2023 (1-10) |
+| --- | --- | --- | --- |
+| AG | 62 | 76 | 82 |
+| USA | 14 | 16 | 16 |
+| Russia | 15 | 11 | 11 |
+| S America | 3 | 3 | 2 |
+| Mexico | 5 | 2 | 2 |
+| Australia | 1 | 1 | 1 |
+| ASEAN | 1 | 0 | 1 |
+| Others/ Unknown | 10 | 6 | 2 |
 
 > **Chart (not transcribed):** S Korea - Monthly Crude Oil Imports - Seasonality (nov 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

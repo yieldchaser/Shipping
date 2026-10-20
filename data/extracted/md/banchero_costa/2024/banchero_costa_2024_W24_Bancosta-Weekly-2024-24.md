@@ -20,7 +20,18 @@ This is a 1768 kilometres long crude oil pipeline connecting the Azeri-Chirag-Gu
 
 Türkiye stopped oil flows through the pipeline from northern Iraq on the 25<sup>th</sup> of March. Officially, Türkiye began maintenance work on the pipeline, which, according to Turkish officials, passes through a seismically active area and was damaged by floods. In Jan-May 2024, Turkish exports were down -30.4% y-o-y to 11.4 mln t, from 16.4 mln t in Jan-May 2023. In terms of destinations for crude shipments from Türkiye, the EU27 is by far the top one, accounting for 68% of crude oil volumes exported from Türkiye in Jan-Dec 2023. In Jan-Dec 2023, Türkiye shipped 22.7 mln t to the EU27, -32.7% y-o-y. In Jan-May 2024, exports to the EU declined -30.4% y-o-y to 7.9 mln t from 11.4 mln t in Jan-May 2023.
 
-> **Chart (not transcribed):** Turkey - Crude Oil Exports by Destination in Jan-Dec (jun 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## Turkey - Crude Oil Exports by Destination in Jan-Dec (jun 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| EU | 34.6 | 33.8 | 22.7 |
+| N Africa | 1.1 | 3.9 | 3.0 |
+| India | 0.9 | 2.2 | 2.4 |
+| Israel | 2.7 | 3.3 | 2.2 |
+| ASEAN | 1.3 | 2.6 | 1.5 |
+| NW Europe | 0.6 | 0.9 | 0.9 |
+| Jordan | 0.0 | 0.0 | 0.3 |
+| Others/ Unknown | 2.3 | 1.8 | 0.6 |
 
 > **Chart (not transcribed):** Turkey - Monthly Crude Oil Exports - Seasonality (jun 2024 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

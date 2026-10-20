@@ -20,7 +20,18 @@ Of the 48.5 mln tonnes of crude oil shipped from Ceyhan in 2022, 29 mln tonnes a
 
 The Association of the Petroleum Industry of Kurdistan (APIKUR) said at the end of August that the closure of the pipeline to Ceyhan has cost producers and the Iraqi government about $4 billion. The Turkish Minister of Energy and Natural Resources, Alparslan Bayraktar, has now announced in September 2023 that the inspection of the oil pipeline between Iraq and Turkey has been completed, and the pipeline will be technically ready for operation "soon". In terms of destinations for crude shipments from Turkey, the EU27 is by far the top one, accounting for 70.8% of crude oil volumes exported from Türkiye in Jan-Aug 2023. In Jan-Aug 2023, Turkey shipped 16.9 mln t to the EU27, which represented a **-25.4% y-o-y** decline from the record 22.6 mln t of Jan-Aug 2022.
 
-> **Chart (not transcribed):** Turkey - Crude Oil Exports by Destination in Jan-Aug (sep 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
+## Turkey - Crude Oil Exports by Destination in Jan-Aug (sep 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
+
+| Country | 2021 (1-8) | 2022 (1-8) | 2023 (1-8) |
+| --- | --- | --- | --- |
+| EU | 22 | 23 | 17 |
+| N Africa | 1 | 2 | 2 |
+| Israel | 2 | 2 | 2 |
+| India | 1 | 2 | 1 |
+| ASEAN | 1 | 1 | 1 |
+| NW Europe | 0 | 1 | 1 |
+| China | 0 | 0 | 0 |
+| Others/ Unknown | 1 | 0 | 0 |
 
 > **Chart (not transcribed):** Turkey - Monthly Crude Oil Exports - Seasonality (sep 2023 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers). The report prints no values for it.
 

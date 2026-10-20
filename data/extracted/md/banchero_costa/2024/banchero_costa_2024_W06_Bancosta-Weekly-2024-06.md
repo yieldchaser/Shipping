@@ -20,7 +20,18 @@ Top discharge ports for coal imports into China in Jan-Dec 2023 were Fangcheng (
 
 Most Russian shipments are sourced from the Far East region of the country, with 17.6 mln tonnes imported from the port of Vanino, 12.0 mln t from Shakhtersk, 10.3 mln t from Nakhodka, 8.8 mln t from Vostochny. Imports to China from Russia have surged over the last two years as Europe suspended purchasing from the country as a consequence of the war in Ukraine. Australia is now back and the third largest supplier of coal into China with a share of 14.2%. In 2023, China imported 52.3 mln tonnes of coal from Australia, up from 0.2 mln tonnes in 2022 when the boycott against Australian coal was still being enforced. This was however still below the 70.6 mln tonnes imported from Australia in 2020.
 
-> **Chart (not transcribed):** China - Coal Imports by Source in Jan-Dec (feb 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## China - Coal Imports by Source in Jan-Dec (feb 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| Indonesia | 193.0 | 164.9 | 205.7 |
+| Russia | 49.6 | 57.5 | 75.8 |
+| Australia | 4.1 | 0.2 | 52.3 |
+| Canada | 11.9 | 8.7 | 10.1 |
+| USA | 12.1 | 5.1 | 7.2 |
+| Colombia | 3.5 | 0.2 | 4.8 |
+| Philippines | 8.5 | 3.6 | 4.7 |
+| Others/ Unknown | 15.7 | 7.8 | 7.8 |
 
 > **Chart (not transcribed):** China - Monthly Coal Imports - Seasonality (feb 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

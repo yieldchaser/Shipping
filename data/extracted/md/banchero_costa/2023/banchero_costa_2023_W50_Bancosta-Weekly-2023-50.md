@@ -20,7 +20,18 @@ In Jan-Nov 2023, loadings from Australia improved marginally by +1.5% y-o-y to 8
 
 This was also well above the 689.6 mln tonnes shipped by Australia to China in Jan-Nov 2020. The second largest destination for Australian ore is Japan, with a 5.9% share this year. Shipments from Australia to Japan declined sharply by -10.1% y-o-y to 49.2 mln t in Jan-Nov 2023, from 54.8 mln t in Jan-Nov 2022. Export to South Korea rebounded by +2.7% y-o-y to 46.8 mln t in Jan-Nov. Volumes from Australia to Taiwan declined by -2.0% y-o-y to 13.3 mln tonnes this year. To Vietnam volumes increased by +0.8% y-o-y to 9.0 mln tonnes in Jan-Nov 2023. To Indonesia they increased by +14.0% y-o-y to 8.3 mln tonnes from 7.3 mln t in the previous year.
 
-> **Chart (not transcribed):** Australia - Iron Ore Exports by Destination in Jan-Nov (dec 2023 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## Australia - Iron Ore Exports by Destination in Jan-Nov (dec 2023 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2021 (1-11) | 2022 (1-11) | 2023 (1-11) |
+| --- | --- | --- | --- |
+| China | 666 | 692 | 703 |
+| Japan | 59 | 55 | 49 |
+| S Korea | 54 | 46 | 47 |
+| Taiwan, CN | 17 | 14 | 13 |
+| Vietnam | 11 | 9 | 9 |
+| Indonesia | 7 | 7 | 8 |
+| India | 1 | 0 | 3 |
+| Others/ Unknown | 3 | 2 | 5 |
 
 > **Chart (not transcribed):** Australia - Monthly Iron Ore Exports - Seasonality (dec 2023 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

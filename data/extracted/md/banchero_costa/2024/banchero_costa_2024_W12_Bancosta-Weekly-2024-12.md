@@ -20,7 +20,18 @@ South Africa's freight rail capacity has plummeted due to years of underinvestme
 
 In terms of destinations for iron ore exports from South Africa, there has been a shift away from China. Mainland China is still by far the top iron ore importer from South Africa, with an overall 56.9% share of shipments from South Africa in 2023. Imports to China from South Africa declined by -5.2% y-o-y in 2023 to 29.9 mln t, from 31.5 mln t in 2022. This is also well below the 39.4 mln tonnes shipped to China in 2020. The second largest destination for South African ore is the European Union, with a 22.3% share. Shipments from South Africa to the EU declined by -3.9% y-o-y in 2023 to 11.7 mln t, from 12.2 mln t in 2022. Shipments to South Korea, on the other hand, increased by +14.5% y-o-y in 2023 to 5.0 mln t. Volumes to Japan also increased by +38.3% y-o-y in 2023 to 3.4 mln t.
 
-> **Chart (not transcribed):** S Africa - Iron Ore Exports by Destination in Jan-Dec (mar 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## S Africa - Iron Ore Exports by Destination in Jan-Dec (mar 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| China | 31 | 32 | 30 |
+| EU | 14 | 12 | 12 |
+| S Korea | 4 | 4 | 5 |
+| Japan | 4 | 2 | 3 |
+| Turkey | 1 | 1 | 1 |
+| UK | 1 | 1 | 1 |
+| India | 1 | 0 | 0 |
+| Others/ Unknown | 1 | 0 | 1 |
 
 > **Chart (not transcribed):** S Africa - Monthly Iron Ore Exports - Seasonality (mar 2024 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

@@ -20,7 +20,18 @@ In third place is Canada with a 1.3% share; Argentina, which typically peaks fro
 
 In 2026, it remains evident that China continues to reduce purchases of US soybeans (hence the -20.8% y-o-y decline seen in Jan-Apr 2026) while favouring the Brazilian crop instead, with Brazilian volumes to China up +11.0% y-o-y. Therefore, we expect China's import statistics to reflect continued strong Brazilian inflows from May onwards.
 
-> **Chart (not transcribed):** World - Soybeans Exports by Source in Jan-Apr (may 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## World - Soybeans Exports by Source in Jan-Apr (may 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2024 (1-4) | 2025 (1-4) | 2026 (1-4) |
+| --- | --- | --- | --- |
+| Brazil | 40 | 43 | 45 |
+| USA | 13 | 11 | 15 |
+| Canada | 1 | 1 | 1 |
+| Argentina | 0 | 0 | 0 |
+| Ukraine | 1 | 1 | 0 |
+| Turkey | 0 | 0 | 0 |
+| Australia | 0 | 0 | 0 |
+| Others/ Unknown | 0 | 0 | 0 |
 
 > **Chart (not transcribed):** China - Soybeans Imports by Source in Jan-Apr (may 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

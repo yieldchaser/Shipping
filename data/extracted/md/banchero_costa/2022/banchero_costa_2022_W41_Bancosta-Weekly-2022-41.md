@@ -22,7 +22,18 @@ The EU is now again the second largest destination for South African coal after 
 
 Shipments from Indonesia to India surged by +70.0% y-o-y in Jan-Sep 2022 to an all time record. Also, shipments from Russia to India surged by +130.7% y-o-y in the same period, also to an all time record.
 
-> **Chart (not transcribed):** South Africa - Coal Exports by Destination in Jan-Sep (Oct 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
+## South Africa - Coal Exports by Destination in Jan-Sep (Oct 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
+
+| Country | 2020 (1-9) | 2021 (1-9) | 2022 (1-9) |
+| --- | --- | --- | --- |
+| India | 24 | 19 | 14 |
+| EU27 | 0 | 1 | 10 |
+| China PR | 2 | 10 | 7 |
+| S Korea | 1 | 1 | 5 |
+| Pakistan | 7 | 8 | 3 |
+| Morocco | 0 | 0 | 1 |
+| Taiwan CN | 1 | 1 | 1 |
+| Others/ Unknown | 13 | 7 | 8 |
 
 > **Chart (not transcribed):** South Africa - Monthly Coal Exports - Seasonality (Oct 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 

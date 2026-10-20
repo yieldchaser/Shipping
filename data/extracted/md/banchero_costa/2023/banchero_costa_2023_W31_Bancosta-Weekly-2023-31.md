@@ -20,7 +20,18 @@ Total seaborne coal exports from South Africa in the 12 months of 2021 reached 6
 
 Shipments from South Africa to South Korea also surged by +113.7% y-o-y in 2022 to 7.0 mln t, from just 3.3 mln t in 2021. On the other hand, exports to Mainland China declined by -27.4% y-o-y in Jan-Dec 2022 to 9.4 mln tonnes, although they still remain high by historical standards. Volumes from South Africa to India also continue to fall sharply. In Jan-Dec 2022, exports to India declined by -28.8% y-o-y to 17.3 mln t, from 24.2 mln t in Jan-Dec 2021. India nevertheless remains the top destination for South African coal, accounting for 26.4% of South African exports in Jan-Dec 2022. In the first half of 2023, shipments from South Africa to India rebounded somewhat by +13.6% y-o-y to 12.6 mln t, from 11.1 mln t in 1H 2022, but that was still below the 14.2 mln t in 1H 2021 or the 15.7 mln t in 1H 2020.
 
-> **Chart (not transcribed):** S Africa - Coal Exports by Destination in Jan-Jun (Aug 2023 ; source: refinitiv ; seaborne only ; in mln tonnes). The report prints no values for it.
+## S Africa - Coal Exports by Destination in Jan-Jun (Aug 2023 ; source: refinitiv ; seaborne only ; in mln tonnes)
+
+| Country | 2021 (1-6) | 2022 (1-6) | 2023 (1-6) |
+| --- | --- | --- | --- |
+| India | 14.2 | 11.1 | 12.6 |
+| EU | 0.5 | 4.6 | 4.7 |
+| China | 6.4 | 4.1 | 4.0 |
+| S Korea | 0.3 | 3.0 | 2.8 |
+| Japan | 0.0 | 0.5 | 1.9 |
+| Taiwan, CN | 0.2 | 1.0 | 1.7 |
+| Vietnam | 0.8 | 0.1 | 0.6 |
+| Others/ Unknown | 9.8 | 7.1 | 5.8 |
 
 > **Chart (not transcribed):** S Africa - Monthly Coal Exports - Seasonality (Aug 2023 ; source: refinitiv ; seaborne only ; in mln tonnes). The report prints no values for it.
 
