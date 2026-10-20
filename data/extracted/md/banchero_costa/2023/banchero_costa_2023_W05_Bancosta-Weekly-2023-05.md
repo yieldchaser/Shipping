@@ -295,16 +295,16 @@ Quiet week for Nebuildinga with low activity and few deals reported. The largest
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | Jan-23 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 59.8 | -0.7% | +0.6% |
-| **Kamsarmax** | usd mln | 33.6 | -1.4% | -2.5% |
-| **Ultramax** | usd mln | 31.4 | -1.3% | -2.0% |
-| **Handysize** | usd mln | 28.6 | -0.9% | -0.4% |
-| **VLCC** | usd mln | 108.0 | -0.3% | +6.3% |
-| **Suezmax** | usd mln | 70.2 | -0.2% | +6.6% |
-| **LR2 Coated** | usd mln | 60.2 | -0.2% | +4.0% |
-| **MR2 Coated** | usd mln | 39.7 | -0.1% | +6.1% |
+| Vessel Class | Unit | Jan-23 | Dec-22 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 59.8 | 60.3 | -0.7% | +0.6% |
+| **Kamsarmax** | usd mln | 33.6 | 34.1 | -1.4% | -2.5% |
+| **Ultramax** | usd mln | 31.4 | 31.8 | -1.3% | -2.0% |
+| **Handysize** | usd mln | 28.6 | 28.8 | -0.9% | -0.4% |
+| **VLCC** | usd mln | 108.0 | 108.3 | -0.3% | +6.3% |
+| **Suezmax** | usd mln | 70.2 | 70.4 | -0.2% | +6.6% |
+| **LR2 Coated** | usd mln | 60.2 | 60.3 | -0.2% | +4.0% |
+| **MR2 Coated** | usd mln | 39.7 | 39.7 | -0.1% | +6.1% |
 
 > **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 

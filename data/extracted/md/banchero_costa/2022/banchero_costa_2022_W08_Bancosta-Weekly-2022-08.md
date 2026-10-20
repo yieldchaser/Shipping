@@ -311,16 +311,16 @@ Global commodity trading patterns set for upheaval in wake of Putin's invasion o
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | Feb-22 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 59.4 | -0.2% | +23.9% |
-| **Kamsarmax** | usd mln | 34.5 | +0.1% | +29.7% |
-| **Ultramax** | usd mln | 32.1 | +0.3% | +30.3% |
-| **Handysize** | usd mln | 28.7 | +0.2% | +29.8% |
-| **VLCC** | usd mln | 101.7 | +0.1% | +20.5% |
-| **Suezmax** | usd mln | 66.5 | +1.0% | +24.4% |
-| **LR2 Coated** | usd mln | 58.4 | +0.9% | +28.6% |
-| **MR2 Coated** | usd mln | 37.5 | +0.3% | +13.8% |
+| Vessel Class | Unit | Feb-22 | Jan-22 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 59.4 | 59.5 | -0.2% | +23.9% |
+| **Kamsarmax** | usd mln | 34.5 | 34.5 | +0.1% | +29.7% |
+| **Ultramax** | usd mln | 32.1 | 32.0 | +0.3% | +30.3% |
+| **Handysize** | usd mln | 28.7 | 28.7 | +0.2% | +29.8% |
+| **VLCC** | usd mln | 101.7 | 101.5 | +0.1% | +20.5% |
+| **Suezmax** | usd mln | 66.5 | 65.8 | +1.0% | +24.4% |
+| **LR2 Coated** | usd mln | 58.4 | 57.9 | +0.9% | +28.6% |
+| **MR2 Coated** | usd mln | 37.5 | 37.4 | +0.3% | +13.8% |
 
 | Category | Feb-21 | Jun-21 | Oct-21 | Feb-22 |
 | --- | --- | --- | --- | --- |

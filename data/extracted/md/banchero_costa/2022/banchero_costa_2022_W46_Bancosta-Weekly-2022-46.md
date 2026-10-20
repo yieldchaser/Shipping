@@ -299,16 +299,16 @@ We cannot conclude without mentioning about gas: an interesting resale and long 
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | Oct-22 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 61.7 | -0.6% | +5.3% |
-| **Kamsarmax** | usd mln | 35.3 | -1.1% | +5.1% |
-| **Ultramax** | usd mln | 33.0 | -1.1% | +6.3% |
-| **Handysize** | usd mln | 29.5 | -1.0% | +6.3% |
-| **VLCC** | usd mln | 108.8 | -0.2% | +9.2% |
-| **Suezmax** | usd mln | 70.4 | +0.2% | +9.6% |
-| **LR2 Coated** | usd mln | 60.6 | -0.1% | +6.5% |
-| **MR2 Coated** | usd mln | 39.7 | +0.0% | +8.5% |
+| Vessel Class | Unit | Oct-22 | Sep-22 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 61.7 | 62.1 | -0.6% | +5.3% |
+| **Kamsarmax** | usd mln | 35.3 | 35.7 | -1.1% | +5.1% |
+| **Ultramax** | usd mln | 33.0 | 33.3 | -1.1% | +6.3% |
+| **Handysize** | usd mln | 29.5 | 29.7 | -1.0% | +6.3% |
+| **VLCC** | usd mln | 108.8 | 109.1 | -0.2% | +9.2% |
+| **Suezmax** | usd mln | 70.4 | 70.3 | +0.2% | +9.6% |
+| **LR2 Coated** | usd mln | 60.6 | 60.7 | -0.1% | +6.5% |
+| **MR2 Coated** | usd mln | 39.7 | 39.7 | +0.0% | +8.5% |
 
 ### Category
 

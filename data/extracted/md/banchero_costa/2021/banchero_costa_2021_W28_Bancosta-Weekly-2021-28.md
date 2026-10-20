@@ -299,16 +299,16 @@ Cosco Shipping has placed an order with Cosco Shipping Heavy Industry (Yangzhou)
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | Jul-21 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 55.0 | +2.5% | +16.1% |
-| **Kamsarmax** | usd mln | 30.9 | +3.7% | +17.9% |
-| **Ultramax** | usd mln | 28.6 | +2.7% | +15.8% |
-| **Handysize** | usd mln | 25.5 | +2.6% | +15.4% |
-| **VLCC** | usd mln | 94.8 | +3.7% | +14.0% |
-| **Suezmax** | usd mln | 60.7 | +3.1% | +12.4% |
-| **LR2 Coated** | usd mln | 52.9 | +3.9% | +17.4% |
-| **MR2 Coated** | usd mln | 35.4 | +1.1% | +8.1% |
+| Vessel Class | Unit | Jul-21 | Jun-21 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 55.0 | 53.7 | +2.5% | +16.1% |
+| **Kamsarmax** | usd mln | 30.9 | 29.8 | +3.7% | +17.9% |
+| **Ultramax** | usd mln | 28.6 | 27.8 | +2.7% | +15.8% |
+| **Handysize** | usd mln | 25.5 | 24.8 | +2.6% | +15.4% |
+| **VLCC** | usd mln | 94.8 | 91.4 | +3.7% | +14.0% |
+| **Suezmax** | usd mln | 60.7 | 58.8 | +3.1% | +12.4% |
+| **LR2 Coated** | usd mln | 52.9 | 50.9 | +3.9% | +17.4% |
+| **MR2 Coated** | usd mln | 35.4 | 35.0 | +1.1% | +8.1% |
 
 > **Chart (not transcribed).** The report prints no values for it.
 
@@ -318,14 +318,14 @@ The demo market continues to surge, and the USD 600 / LDT barrier was reportedly
 
 ## SHIP RECYCLING ASSESSMENTS (BALTIC EXCHANGE)
 
-| Segment | Unit | 16-Jul | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Dry Bangladesh** | usd/ldt | 576.5 | +0.6% | +98.1% |
-| **Dry India** | usd/ldt | 528.1 | -0.1% | +92.5% |
-| **Dry Pakistan** | usd/ldt | 577.1 | +0.4% | +85.9% |
-| **Tnk Bangladesh** | usd/ldt | 584.2 | +0.6% | +98.1% |
-| **Tnk India** | usd/ldt | 535.7 | -0.3% | +92.6% |
-| **Tnk Pakistan** | usd/ldt | 585.3 | +0.1% | +87.8% |
+| Segment | Unit | 16-Jul | 9-Jul | W-o-W | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Dry Bangladesh** | usd/ldt | 576.5 | 572.9 | +0.6% | +98.1% |
+| **Dry India** | usd/ldt | 528.1 | 528.5 | -0.1% | +92.5% |
+| **Dry Pakistan** | usd/ldt | 577.1 | 574.9 | +0.4% | +85.9% |
+| **Tnk Bangladesh** | usd/ldt | 584.2 | 580.4 | +0.6% | +98.1% |
+| **Tnk India** | usd/ldt | 535.7 | 537.1 | -0.3% | +92.6% |
+| **Tnk Pakistan** | usd/ldt | 585.3 | 584.8 | +0.1% | +87.8% |
 
 > **Chart (not transcribed).** The report prints no values for it.
 

@@ -308,16 +308,16 @@ In tanker segment, Asiatic Lloyd placed an order for 2 + 2 MR Tankers 50,000 dwt
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | Dec-21 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 59.4 | -0.1% | +26.2% |
-| **Kamsarmax** | usd mln | 34.5 | +0.3% | +32.7% |
-| **Ultramax** | usd mln | 31.9 | +0.2% | +32.5% |
-| **Handysize** | usd mln | 28.5 | +0.4% | +31.6% |
-| **VLCC** | usd mln | 101.3 | -0.6% | +22.5% |
-| **Suezmax** | usd mln | 65.8 | -1.3% | +25.2% |
-| **LR2 Coated** | usd mln | 57.7 | -0.3% | +28.8% |
-| **MR2 Coated** | usd mln | 37.2 | +0.6% | +14.7% |
+| Vessel Class | Unit | Dec-21 | Nov-21 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 59.4 | 59.5 | -0.1% | +26.2% |
+| **Kamsarmax** | usd mln | 34.5 | 34.4 | +0.3% | +32.7% |
+| **Ultramax** | usd mln | 31.9 | 31.8 | +0.2% | +32.5% |
+| **Handysize** | usd mln | 28.5 | 28.4 | +0.4% | +31.6% |
+| **VLCC** | usd mln | 101.3 | 101.9 | -0.6% | +22.5% |
+| **Suezmax** | usd mln | 65.8 | 66.7 | -1.3% | +25.2% |
+| **LR2 Coated** | usd mln | 57.7 | 57.8 | -0.3% | +28.8% |
+| **MR2 Coated** | usd mln | 37.2 | 36.9 | +0.6% | +14.7% |
 
 > **Chart (not transcribed).** The report prints no values for it.
 

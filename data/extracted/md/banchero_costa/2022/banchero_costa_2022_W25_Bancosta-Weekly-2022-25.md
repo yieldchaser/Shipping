@@ -288,16 +288,16 @@ Whilst still satisfactory there is a slowing of orders for larger tonnage. Big c
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | May-22 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 61.2 | +0.8% | +18.4% |
-| **Kamsarmax** | usd mln | 35.5 | +1.1% | +23.4% |
-| **Ultramax** | usd mln | 33.2 | +0.7% | +24.0% |
-| **Handysize** | usd mln | 29.6 | +0.6% | +22.7% |
-| **VLCC** | usd mln | 104.5 | +0.6% | +17.1% |
-| **Suezmax** | usd mln | 67.3 | +0.2% | +17.9% |
-| **LR2 Coated** | usd mln | 59.0 | +0.0% | +21.5% |
-| **MR2 Coated** | usd mln | 38.6 | +1.2% | +11.6% |
+| Vessel Class | Unit | May-22 | Apr-22 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 61.2 | 60.7 | +0.8% | +18.4% |
+| **Kamsarmax** | usd mln | 35.5 | 35.1 | +1.1% | +23.4% |
+| **Ultramax** | usd mln | 33.2 | 33.0 | +0.7% | +24.0% |
+| **Handysize** | usd mln | 29.6 | 29.4 | +0.6% | +22.7% |
+| **VLCC** | usd mln | 104.5 | 103.9 | +0.6% | +17.1% |
+| **Suezmax** | usd mln | 67.3 | 67.2 | +0.2% | +17.9% |
+| **LR2 Coated** | usd mln | 59.0 | 59.0 | +0.0% | +21.5% |
+| **MR2 Coated** | usd mln | 38.6 | 38.1 | +1.2% | +11.6% |
 
 | Category | Jun-21 | Oct-21 | Feb-22 | Jun-22 |
 | --- | --- | --- | --- | --- |

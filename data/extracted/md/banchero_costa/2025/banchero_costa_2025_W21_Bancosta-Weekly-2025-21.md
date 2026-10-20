@@ -293,16 +293,16 @@ In the Container sector Chinese builder Huangpu Wenchong contracted an order for
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | Apr-25 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 71.1 | -0.4% | +8.3% |
-| **Kamsarmax** | usd mln | 36.5 | -1.0% | +1.1% |
-| **Ultramax** | usd mln | 33.8 | -0.9% | +0.1% |
-| **Handysize** | usd mln | 29.8 | -0.9% | -1.8% |
-| **VLCC** | usd mln | 121.9 | -0.1% | +3.5% |
-| **Suezmax** | usd mln | 80.6 | -0.1% | +2.6% |
-| **LR2 Coated** | usd mln | 69.4 | -0.2% | +6.1% |
-| **MR2 Coated** | usd mln | 44.5 | -0.3% | +3.3% |
+| Vessel Class | Unit | Apr-25 | Mar-25 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 71.1 | 71.4 | -0.4% | +8.3% |
+| **Kamsarmax** | usd mln | 36.5 | 36.8 | -1.0% | +1.1% |
+| **Ultramax** | usd mln | 33.8 | 34.1 | -0.9% | +0.1% |
+| **Handysize** | usd mln | 29.8 | 30.0 | -0.9% | -1.8% |
+| **VLCC** | usd mln | 121.9 | 122.1 | -0.1% | +3.5% |
+| **Suezmax** | usd mln | 80.6 | 80.7 | -0.1% | +2.6% |
+| **LR2 Coated** | usd mln | 69.4 | 69.5 | -0.2% | +6.1% |
+| **MR2 Coated** | usd mln | 44.5 | 44.6 | -0.3% | +3.3% |
 
 > **Chart (not transcribed):** NEWBUILDING PRICES (USD MLN). The report prints no values for it.
 
@@ -314,14 +314,14 @@ In terms of sales, a number of vintage (steam turbine) LNG Vessels has been comm
 
 ## SHIP RECYCLING ASSESSMENTS (BALTIC EXCHANGE)
 
-| Segment | Unit | 23-May | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Dry Pakistan** | usd/ldt | 440.3 | -0.3% | -15.3% |
-| **Dry India** | usd/ldt | 448.3 | -0.4% | -14.0% |
-| **Dry Bangladesh** | usd/ldt | 458.7 | -1.0% | -13.2% |
-| **Tnk Pakistan** | usd/ldt | 451.0 | -0.0% | -14.1% |
-| **Tnk India** | usd/ldt | 454.5 | -0.4% | -14.1% |
-| **Tnk Bangladesh** | usd/ldt | 467.4 | -1.0% | -12.5% |
+| Segment | Unit | 23-May | 16-May | W-o-W | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Dry Pakistan** | usd/ldt | 440.3 | 441.7 | -0.3% | -15.3% |
+| **Dry India** | usd/ldt | 448.3 | 450.3 | -0.4% | -14.0% |
+| **Dry Bangladesh** | usd/ldt | 458.7 | 463.4 | -1.0% | -13.2% |
+| **Tnk Pakistan** | usd/ldt | 451.0 | 451.1 | -0.0% | -14.1% |
+| **Tnk India** | usd/ldt | 454.5 | 456.1 | -0.4% | -14.1% |
+| **Tnk Bangladesh** | usd/ldt | 467.4 | 471.9 | -1.0% | -12.5% |
 
 > **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 

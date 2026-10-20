@@ -300,16 +300,16 @@ X-Press Feeders signed a letter of intent for 4 x 10,000 teu from SWS at $115 ml
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | May-24 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 67.0 | +1.2% | +10.5% |
-| **Kamsarmax** | usd mln | 36.8 | +1.3% | +7.7% |
-| **Ultramax** | usd mln | 34.5 | +1.4% | +7.3% |
-| **Handysize** | usd mln | 30.6 | +0.6% | +4.5% |
-| **VLCC** | usd mln | 119.7 | +1.4% | +9.1% |
-| **Suezmax** | usd mln | 79.4 | +1.0% | +10.2% |
-| **LR2 Coated** | usd mln | 66.6 | +1.6% | +9.4% |
-| **MR2 Coated** | usd mln | 43.7 | +1.0% | +8.1% |
+| Vessel Class | Unit | May-24 | Apr-24 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 67.0 | 66.3 | +1.2% | +10.5% |
+| **Kamsarmax** | usd mln | 36.8 | 36.3 | +1.3% | +7.7% |
+| **Ultramax** | usd mln | 34.5 | 34.0 | +1.4% | +7.3% |
+| **Handysize** | usd mln | 30.6 | 30.4 | +0.6% | +4.5% |
+| **VLCC** | usd mln | 119.7 | 118.1 | +1.4% | +9.1% |
+| **Suezmax** | usd mln | 79.4 | 78.6 | +1.0% | +10.2% |
+| **LR2 Coated** | usd mln | 66.6 | 65.6 | +1.6% | +9.4% |
+| **MR2 Coated** | usd mln | 43.7 | 43.3 | +1.0% | +8.1% |
 
 ### Category
 
@@ -324,12 +324,12 @@ Once again, a quieter week across the sub-continent as monsoon season and summer
 
 ## SHIP RECYCLING ASSESSMENTS (BALTIC EXCHANGE)
 
-| Segment | Unit | 31-May | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Dry India** | usd/ldt | 528.3 | +0.5% | -3.9% |
-| **Dry Bangladesh** | usd/ldt | 528.9 | -0.0% | -6.2% |
-| **Tnk India** | usd/ldt | 537.1 | +0.5% | -3.6% |
-| **Tnk Bangladesh** | usd/ldt | 534.5 | -0.1% | -6.4% |
+| Segment | Unit | 31-May | 24-May | W-o-W | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Dry India** | usd/ldt | 528.3 | 525.6 | +0.5% | -3.9% |
+| **Dry Bangladesh** | usd/ldt | 528.9 | 529.1 | -0.0% | -6.2% |
+| **Tnk India** | usd/ldt | 537.1 | 534.6 | +0.5% | -3.6% |
+| **Tnk Bangladesh** | usd/ldt | 534.5 | 534.9 | -0.1% | -6.4% |
 
 ### Category
 

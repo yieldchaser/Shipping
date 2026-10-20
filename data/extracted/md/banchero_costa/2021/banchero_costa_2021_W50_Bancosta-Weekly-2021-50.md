@@ -327,14 +327,14 @@ Pretty much nothing changed compared to a week ago. The demolition market still 
 
 ## SHIP RECYCLING ASSESSMENTS (BALTIC EXCHANGE)
 
-| Segment | Unit | 17-Dec | W-o-W | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| Dry Bangladesh | usd/ldt | 601.0 | -0.8% | +44.8% |
-| Dry India | usd/ldt | 565.4 | -0.7% | +44.9% |
-| Dry Pakistan | usd/ldt | 596.2 | -0.5% | +49.5% |
-| Tnk Bangladesh | usd/ldt | 610.4 | -0.3% | +46.2% |
-| Tnk India | usd/ldt | 569.5 | -1.3% | +45.4% |
-| Tnk Pakistan | usd/ldt | 603.3 | -0.3% | +48.4% |
+| Segment | Unit | 17-Dec | 10-Dec | W-o-W | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| Dry Bangladesh | usd/ldt | 601.0 | 605.8 | -0.8% | +44.8% |
+| Dry India | usd/ldt | 565.4 | 569.3 | -0.7% | +44.9% |
+| Dry Pakistan | usd/ldt | 596.2 | 599.1 | -0.5% | +49.5% |
+| Tnk Bangladesh | usd/ldt | 610.4 | 612.0 | -0.3% | +46.2% |
+| Tnk India | usd/ldt | 569.5 | 577.2 | -1.3% | +45.4% |
+| Tnk Pakistan | usd/ldt | 603.3 | 605.3 | -0.3% | +48.4% |
 
 > **Chart (not transcribed):** DEMOLITION PRICES (USD/LDT). The report prints no values for it.
 

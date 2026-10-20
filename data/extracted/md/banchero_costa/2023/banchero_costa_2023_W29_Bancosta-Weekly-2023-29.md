@@ -292,16 +292,16 @@ Capital Maritime ordered 2 x CO2 carriers at a cost of $70.75 mln each from Hyun
 
 ## INDICATIVE NEWBUILDING PRICES (CHINESE SHIPYARDS)
 
-| Vessel Class | Unit | Jun-23 | M-o-M | Y-o-Y |
-| --- | --- | --- | --- | --- |
-| **Capesize** | usd mln | 61.5 | +0.7% | -1.0% |
-| **Kamsarmax** | usd mln | 34.5 | +0.6% | -4.4% |
-| **Ultramax** | usd mln | 32.8 | +1.0% | -2.6% |
-| **Handysize** | usd mln | 29.7 | +0.5% | -0.9% |
-| **VLCC** | usd mln | 112.9 | +1.6% | +4.9% |
-| **Suezmax** | usd mln | 73.3 | +0.9% | +7.6% |
-| **LR2 Coated** | usd mln | 62.1 | +0.9% | +3.6% |
-| **MR2 Coated** | usd mln | 41.1 | +0.8% | +6.4% |
+| Vessel Class | Unit | Jun-23 | May-23 | M-o-M | Y-o-Y |
+| --- | --- | --- | --- | --- | --- |
+| **Capesize** | usd mln | 61.5 | 61.1 | +0.7% | -1.0% |
+| **Kamsarmax** | usd mln | 34.5 | 34.3 | +0.6% | -4.4% |
+| **Ultramax** | usd mln | 32.8 | 32.5 | +1.0% | -2.6% |
+| **Handysize** | usd mln | 29.7 | 29.5 | +0.5% | -0.9% |
+| **VLCC** | usd mln | 112.9 | 111.1 | +1.6% | +4.9% |
+| **Suezmax** | usd mln | 73.3 | 72.6 | +0.9% | +7.6% |
+| **LR2 Coated** | usd mln | 62.1 | 61.5 | +0.9% | +3.6% |
+| **MR2 Coated** | usd mln | 41.1 | 40.8 | +0.8% | +6.4% |
 
 > **Chart (not transcribed).** The report prints no values for it.
 

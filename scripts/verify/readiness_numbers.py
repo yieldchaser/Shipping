@@ -30,6 +30,36 @@ NUM = re.compile(r"(?<![\w.])-?\d[\d,]*(?:\.\d+)?")
 
 
 PHONE = re.compile(r"\+\s?\d|\b(?:tel|mob|mobile|fax|phone)\b", re.I)
+# Spans set in a font without a usable character map extract as glyph codes, not text: Banchero 2024-26 prints
+# "FAR EAST / PACIFIC" as '6789:;:<' and row labels as 'I0F1234!05G06789J7;;'. Their digits are not numbers.
+# The glyph codes run in order, so a garbled span also shows 4+ ascending digits ('3456789', '$)12345'); printed
+# values carry thousands separators (12,345) and do not.
+GARBLED = re.compile(r"\S;\S|[<=>]|\)\d|0123|1234|2345|3456|4567|5678|6789")
+# Characters printed numbers never sit next to; a span with digits and one of these is glyph codes.
+ODD = re.compile(r'["#*!?@\^_{}|~]')
+
+
+def page_text(page) -> str | None:
+    """The page's text with garbled-font spans left out, or None when most of its numbers are garbled (the whole
+    text layer is glyph codes, e.g. Banchero 2025 W10 p11: '0"1"', '-23-4', '67819'); such a page is judged on
+    the render only, like a scan."""
+    lines, digit_spans, garbled = [], 0, 0
+    for block in page.get_text("dict")["blocks"]:
+        for line in block.get("lines", []):
+            keep = []
+            for s in line["spans"]:
+                txt = s["text"]
+                bad = bool(GARBLED.search(txt) or (any(c.isdigit() for c in txt) and ODD.search(txt)))
+                if any(c.isdigit() for c in txt):
+                    digit_spans += 1
+                    garbled += bad
+                if not bad:
+                    keep.append(txt)
+            if keep:
+                lines.append(" ".join(keep))
+    if digit_spans >= 8 and garbled / digit_spans > 0.3:
+        return None
+    return "\n".join(lines)
 
 
 def numbers(text: str, page: bool = False) -> set[str]:
@@ -101,9 +131,9 @@ def check(args):
         return row, []
     total = miss = 0
     for pno, page in enumerate(doc, 1):
-        text = page.get_text()
+        text = page_text(page)
         row["pages"] += 1
-        if len(text.strip()) < 40:
+        if text is None or len(text.strip()) < 40:
             row["no_text"] += 1
             continue
         nums = numbers(text, page=True) - axis_ticks(text)
