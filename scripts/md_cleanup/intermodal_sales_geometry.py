@@ -239,6 +239,61 @@ def rebuild(text: str, pdf_path) -> Tuple[str, str]:
     return nt.replace("\n", eol), f"rebuilt pages {[p for p, _ in pages]}"
 
 
+SPOT_NUM = re.compile(r"^-?[\d,]+(?:\.\d+)?%?$")
+
+
+def spot_rows(pdf_path) -> dict:
+    """{'265k MEG-SPORE': [7 printed values]} from the tanker spot table's text lines (size, route, then WS, $/day,
+    prev WS, prev $/day, +-%, two yearly averages). Empty when the table is an image or a line does not hold 7."""
+    d = pymupdf.open(str(pdf_path))
+    for pg in list(d)[:3]:
+        if "MEG-SPORE" not in pg.get_text():
+            continue
+        W = pg.get_text("words")
+        out = {}
+        for y, ws in _lines_of(W):
+            for i, w in enumerate(ws[:-1]):
+                if re.fullmatch(r"\d+[kK]", w[4]) and re.fullmatch(r"[A-Z][A-Z./]*-[A-Z./-]+", ws[i + 1][4]):
+                    rest = []
+                    for x in ws[i + 2:]:
+                        if not SPOT_NUM.match(x[4]):
+                            break
+                        rest.append(x[4])
+                    if len(rest) >= 7:
+                        out[f"{w[4]} {ws[i + 1][4]}"] = rest[:7]
+                    break
+        return out
+    return {}
+
+
+def fix_spot(text: str, pdf_path) -> Tuple[str, str]:
+    """Spot-table rows whose numbers differ from the PDF line of the same route get the printed numbers (the parse
+    has returned the table with every route one row below its values). Label cells are kept."""
+    pr = spot_rows(pdf_path)
+    if not pr:
+        return text, "spot: no text-layer table"
+    eol = "\r\n" if "\r\n" in text else "\n"
+    lines = text.replace("\r\n", "\n").split("\n")
+    fixed = 0
+    for k, ln in enumerate(lines):
+        if not ln.startswith("|"):
+            continue
+        cells = [c.strip() for c in ln.strip().strip("|").split("|")]
+        for route, vals in pr.items():
+            size, rt = route.split(" ", 1)
+            j = next((i for i, c in enumerate(cells) if c == rt or c == route), None)
+            if j is None or (cells[j] == rt and (j == 0 or cells[j - 1].lower() != size.lower())):
+                continue
+            nums = cells[j + 1:]
+            if len(nums) != 7 or not all(SPOT_NUM.match(c) or c == "" for c in nums):
+                break
+            if nums != vals:
+                lines[k] = "| " + " | ".join(cells[:j + 1] + vals) + " |"
+                fixed += 1
+            break
+    return "\n".join(lines).replace("\n", eol), f"spot: {fixed} row(s) set to the printed values" if fixed else "spot: matches the PDF"
+
+
 if __name__ == "__main__":
     doc = pymupdf.open(sys.argv[1])
     print(render(tables(doc[int(sys.argv[2]) - 1])))

@@ -596,6 +596,10 @@ def parse_all_intermodal_tables(
                     cur_vessel = "Suezmax"
                 elif any(x in r_low for x in ["80k", "100k", "70k", "aframax"]):
                     cur_vessel = "Aframax"
+                # the 'Dirty' band (printed since 2021; checked against the rotated labels of 240 issues)
+                elif (any(x in r_low for x in ["ukc-usg", "med-usg", "ara-ukc", "dirty"])
+                      or ("50k" in r_low and "caribs" in r_low)):
+                    cur_vessel = "Dirty"
                 elif any(x in r_low for x in ["75k", "55k", "37k", "30k", "50k", "clean"]):
                     cur_vessel = "Clean"
                 elif v_col and not any(x in v_col.lower() for x in ["vessel", "clean", "dirty", "total"]):
@@ -1225,6 +1229,11 @@ def process_single_pdf(
         print(f"  [intermodal] {stem} sales tables: {geo_status}")
     except Exception as e:
         print(f"  [intermodal] {stem} sales geometry failed ({e}); parsed tables kept")
+    try:
+        full_text, spot_status = intermodal_sales_geometry.fix_spot(full_text, pdf_path)
+        print(f"  [intermodal] {stem} {spot_status}")
+    except Exception as e:
+        print(f"  [intermodal] {stem} spot check failed ({e}); parsed table kept")
 
     # 2. Extract tables across all pages
     parsed = parse_all_intermodal_tables(full_text, issue_date, wk, pdf_path.name)

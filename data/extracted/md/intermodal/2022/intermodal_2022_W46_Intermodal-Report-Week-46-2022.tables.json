@@ -190,7 +190,7 @@
       {
         "issue_date": "2022-11-22",
         "report_week": 46,
-        "vessel_class": "Clean",
+        "vessel_class": "Dirty",
         "route": "55K UKC-USG",
         "ws_points_current": 230.0,
         "tce_usd_day_current": 34971.0,
@@ -204,7 +204,7 @@
       {
         "issue_date": "2022-11-22",
         "report_week": 46,
-        "vessel_class": "Clean",
+        "vessel_class": "Dirty",
         "route": "55K MED-USG",
         "ws_points_current": 225.0,
         "tce_usd_day_current": 34609.0,
@@ -218,7 +218,7 @@
       {
         "issue_date": "2022-11-22",
         "report_week": 46,
-        "vessel_class": "Clean",
+        "vessel_class": "Dirty",
         "route": "50k CARIBS-USG",
         "ws_points_current": 455.0,
         "tce_usd_day_current": 80909.0,

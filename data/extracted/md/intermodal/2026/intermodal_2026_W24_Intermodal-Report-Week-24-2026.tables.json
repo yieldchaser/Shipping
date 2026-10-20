@@ -112,7 +112,7 @@
         "tce_usd_day_current": 37891.0,
         "ws_points_prev": 263.0,
         "tce_usd_day_prev": 64246.0,
-        "change_pct": "-4.1%",
+        "change_pct": "-41.0%",
         "avg_prev_year_1": 35896.0,
         "avg_prev_year_2": 36696.0,
         "source_file": "intermodal_2026_W24_Intermodal-Report-Week-24-2026.pdf"
@@ -176,7 +176,7 @@
       {
         "issue_date": "2026-06-16",
         "report_week": 24,
-        "vessel_class": "Clean",
+        "vessel_class": "Dirty",
         "route": "55K UKC-USG",
         "ws_points_current": 180.0,
         "tce_usd_day_current": 24582.0,
@@ -190,7 +190,7 @@
       {
         "issue_date": "2026-06-16",
         "report_week": 24,
-        "vessel_class": "Clean",
+        "vessel_class": "Dirty",
         "route": "55K MED-USG",
         "ws_points_current": 180.0,
         "tce_usd_day_current": 22413.0,
@@ -204,7 +204,7 @@
       {
         "issue_date": "2026-06-16",
         "report_week": 24,
-        "vessel_class": "Clean",
+        "vessel_class": "Dirty",
         "route": "50k ARA-UKC",
         "ws_points_current": 189.0,
         "tce_usd_day_current": 37891.0,

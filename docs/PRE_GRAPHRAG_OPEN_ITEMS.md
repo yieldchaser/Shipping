@@ -43,8 +43,12 @@ GraphRAG inputs: `data/extracted/md/` (19,167 broker MDs), `corpus/10-companies/
      `run_intermodal_full.process_single_pdf` before the tables are parsed. Proof: CI output of W40/W41 2026 + rebuild
      = the repaired MDs, 0 cell differences; end to end, every sidecar table identical (the finance step adds stocks,
      bunkers, macro). Corpus scan: every vessel printed in a PDF sales table is in its MD.
-   - [ ] Intermodal tanker spot table: W41 2026 arrived with rows shifted one down and sector labels lost (fixed by
-     hand). No CI gate yet for that table.
+   - [x] Intermodal tanker spot table (2026-10-20): `fix_spot` (same module) runs in the ingest and sets any row whose
+     numbers differ from the PDF line of its route to the printed values. On the corpus it changed 3 MDs, each checked
+     on the render: 2024 W31 (the +-% column was empty), 2026 W24 (-4.1% printed -41.0%), 2026 W31 (12,303 printed
+     12,309). Parser: the printed 'Dirty' band (55K UKC-USG, 55K MED-USG, 50k ARA-UKC / 50k CARIBS-USG) was filed as
+     Clean; 684 series rows and 681 sidecar rows relabelled (band membership checked on the rotated labels of 240
+     issues, and on the 2023 W25 image table). 2024 W13 series rows (no route, values shifted) re-derived from its MD.
    - [x] Advanced Shipping (extractor fixed in bc6be6f998)
 2. **Duplicate Star Asia PDFs from two ingest paths.** `report_ingest.yml` saves `star_asia_2026_W4x_Market-Report-Week-4x.pdf`
    and `broker_reports_weekly.yml` saves `star_asia_DD_MM_2026_..._week_4x.pdf` (identical bytes, W41/W42).
