@@ -232,11 +232,68 @@ On the Suezmax sector, the “Maran Poseidon” - 158K/2010 HHI was sold for USD
 
 > *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*
 
+## Commodities and Currencies
 
-## Market Charts & Quantitative Vectors
+### Markets Commentary
 
-### Xclusiv Tanker & Dry Bulk TCE Benchmarks (Page 3)
+- Global equity markets delivered mixed weekly performances. In the US, the Dow Jones rose 0.7% to 52,002, while the S&P 500 declined 1.95% to 7,659 and the Nasdaq dropped 4.48% to 26,140. European stocks diverged, with the Euro Stoxx 50 slipping 0.08% to 6,204 and the Stoxx 600 gaining 2.09% to 645. Asian markets weakened: Japan’s Nikkei fell 5.8% to 65,026, Hong Kong’s Hang Seng edged down 0.1% to 24,187, and China’s CSI 300 lost 3.4% to finish at 4,171.
+- Crude oil fell approximately 2% toward $99 per barrel on Monday, reversing part of last week’s rally as recovering sup-plies offset geopolitical risks. US Energy Secretary Chris Wright said Persian Gulf flows had reached approximately 80% of prewar levels, although refined products remained constrained. President Trump announced a Russian diesel ex-port agreement and postponed additional sanctions. Mean-while, Ukrainian attacks hit Russian oil infrastructure, Saudi clashes with Houthi rebels continued, and three tankers suf-fered damage in the strategic Strait of Hormuz.
+- Coal futures hovered around $150 per ton, near a three-year high, as expensive LNG encouraged greater coal use for power generation. Asian and European buyers increased imports ahead of winter, with coal approximately 80% cheaper than LNG. The IEA forecast record global coal demand this year despite ongoing energy transition efforts. Meanwhile, tighter Indonesian export restrictions contributed to a 23% shipment decline in August, while lower quotas and policy uncertainty could reduce annual production by over 12 million metric tons.
 
-![Xclusiv Tanker & Dry Bulk TCE Benchmarks](../../../charts/xclusiv/2026/xclusiv_2026_xclusiv-2026_10_19_tce_benchmarks_p3.png)
+### Energy
 
-*Extracted to time series: `xclusiv_freight_benchmarks_series.csv`*
+| Energy | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Crude Oil | 101.21 | 7.91% | 76.16% |
+| Brent | 108.56 | 1.73% | 78.31% |
+| Natural gas | 3.18 | -0.26% | -14.30% |
+| Gasoline | 3.21 | -2.42% | 87.75% |
+| Heating oil | 4.87 | 3.17% | 129.68% |
+| Ethanol | 1.94 | -3.60% | 22.20% |
+| Naphtha | 912.78 | 4.33% | 86.90% |
+| Propane | 1.12 | 11.10% | 75.23% |
+| Uranium | 90.10 | 0.11% | 10.35% |
+| Methanol | 3380.00 | -16.21% | 54.34% |
+| TTF Gas | 88.50 | 4.93% | 214.28% |
+| UK Gas | 218.08 | 3.99% | 195.46% |
+
+### Metals
+
+| Metals | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Gold | 4,160.0 | -0.27% | -3.69% |
+| Silver | 57.5 | -4.59% | -19.27% |
+| Platinum | 1,656.9 | -2.26% | -20.03% |
+
+### Industrial
+
+| Industrial | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| Copper | 6.53 | -2.54% | 14.90% |
+| Coal | 150.40 | 1.04% | 39.91% |
+| Steel | 3068.00 | -0.58% | -0.90% |
+| Iron Ore | 90.90 | 0.24% | -15.15% |
+| Aluminum | 3005.50 | -1.35% | 0.36% |
+| LithiumCNY/T | 102950.00 | -10.79% | -13.12% |
+
+### Currencies
+
+| Currencies | Price | Weekly | YoY |
+| --- | --- | --- | --- |
+| EUR/USD | 1.122 | 0.63% | -4.39% |
+| GBP/USD | 1.333 | 0.93% | -0.96% |
+| USD/JPY | 158.263 | -0.22% | 0.96% |
+| USD/CNY | 6.681 | -0.21% | -4.24% |
+| USD/CHF | 0.825 | -1.15% | 4.06% |
+| USD/SGD | 1.279 | -0.12% | -0.54% |
+| USD/KRW | 1329.080 | -0.43% | -7.77% |
+| USD/INR | 95.239 | -0.45% | 5.96% |
+
+### Bunker Prices (in USD)
+
+| Bunker Prices | VLSFO | IFO380 | MGO | Spread VLSFO- | Diff Spread | % Spread |
+| --- | --- | --- | --- | --- | --- | --- |
+| Singapore | 913.50 | 890.50 | 1254.0 | 23.00 | -56.5 | -71.1% |
+| Rotterdam | 740.50 | 647.00 | 1392.5 | 93.50 | 37.5 | 67.0% |
+| Fujairah | 967.00 | 753.00 | 1606.5 | 214.00 | -42.0 | -16.4% |
+| Houston | 767.50 | 584.50 | 1384.5 | 183.00 | -4.0 | -2.1% |

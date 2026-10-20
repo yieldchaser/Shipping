@@ -1059,3 +1059,7 @@ issue_date,report_week,port,vlsfo_usd_mt,ifo380_usd_mt,mgo_usd_mt,spread_vlsfo_i
 2026-10-12,41,Rotterdam,715.0,659.0,1374.0,56.0,xclusiv_13_10_2026_xclusiv_shipbrokers_weekly_12th_october_2026
 2026-10-12,41,Fujairah,967.5,711.5,1694.5,256.0,xclusiv_13_10_2026_xclusiv_shipbrokers_weekly_12th_october_2026
 2026-10-12,41,Houston,763.0,576.0,1419.5,187.0,xclusiv_13_10_2026_xclusiv_shipbrokers_weekly_12th_october_2026
+2026-10-19,42,Singapore,913.5,890.5,1254.0,23.0,xclusiv_2026_xclusiv-2026_10_19
+2026-10-19,42,Rotterdam,740.5,647.0,1392.5,93.5,xclusiv_2026_xclusiv-2026_10_19
+2026-10-19,42,Fujairah,967.0,753.0,1606.5,214.0,xclusiv_2026_xclusiv-2026_10_19
+2026-10-19,42,Houston,767.5,584.5,1384.5,183.0,xclusiv_2026_xclusiv-2026_10_19
