@@ -22,7 +22,18 @@ In 1Q 2022, the EU imported 4.1 mln tonnes of LNG from Russia, up by +49.1% y-o-
 
 In 1Q 2022, Russia accounted for 18.3% of the EU's seaborne LNG imports. West Africa is now in third place amongst top suppliers to Europe, shipping 2.8 mln tonnes to the EU in Jan-Mar 2022, up +27.0% y-o-y. West Africa accounts for 12.7% of EU's LNG imports. Imports from Qatar, on the other hand, have continued to decline. In 1Q 2022, the EU imported 2.2 mln t of LNG from Qatar, down -2.0% y-o-y from 2.3 mln t in 1Q 2021. Qatar accounts for 10.1% of the EU's total seaborne LNG imports. Shipments from North Africa to the EU also declined by -13.5% y-o-y to 1.7 mln t in 1Q 2022, from a record high 1.9 mln t in 1Q 2021.
 
-> **Chart (not transcribed):** European Union - LNG Imports by Source in Jan-Mar. The report prints no values for it.
+## European Union - LNG Imports by Source in Jan-Mar
+
+| Country | 2020 (1-3) | 2021 (1-3) | 2022 (1-3) |
+| --- | --- | --- | --- |
+| USA | 5.4 | 3.1 | 10.4 |
+| Russia | 3.8 | 2.7 | 4.1 |
+| W Africa | 2.8 | 2.2 | 2.8 |
+| Qatar | 2.7 | 2.3 | 2.2 |
+| N Africa | 1.3 | 1.9 | 1.7 |
+| Trinidad | 0.8 | 0.4 | 0.5 |
+| Other AG | 0.0 | 0.0 | 0.2 |
+| Others/ Unknown | 1.6 | 0.1 | 0.3 |
 
 > **Chart (not transcribed):** European Union - Monthly LNG Imports - Seasonality. The report prints no values for it.
 

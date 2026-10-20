@@ -22,7 +22,18 @@ The most important supplier to Europe in 2023 was the USA, accounting for 27.3% 
 
 Volumes from Indonesia to the EU surged by +1148% y-o-y in 2022 to 5.1 mln t, but declined by -5.2% y-o-y in 2023 to 4.8 mln t.
 
-> **Chart (not transcribed):** EU - Coal Imports by Source in Jan-Dec. The report prints no values for it.
+## EU - Coal Imports by Source in Jan-Dec
+
+| Country | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
+| --- | --- | --- | --- |
+| USA | 16.2 | 26.0 | 24.2 |
+| Australia | 16.0 | 20.9 | 20.6 |
+| Colombia | 8.4 | 15.9 | 14.8 |
+| S Africa | 2.1 | 16.0 | 8.1 |
+| EU | 5.1 | 11.8 | 6.2 |
+| Indonesia | 0.4 | 5.1 | 4.8 |
+| Russia | 38.3 | 23.5 | 3.9 |
+| Others/ Unknown | 5.9 | 8.3 | 6.2 |
 
 > **Chart (not transcribed):** EU - Monthly Coal Imports - Seasonality. The report prints no values for it.
 

@@ -20,7 +20,18 @@ About 50% of imports into the EU in Jan-Oct 2023 were loaded on Capesize tonnage
 
 Brazil was the overall top supplier of iron ore to the European Union in 2022, accounting for 26.9% of the EU's total imports last year. However, shipments from Brazil to the EU declined by -15.9% y-o-y in Jan-Oct 2023 to just 14.9 mln tonnes, from 17.7 mln t in Jan-Oct 2022, and also below the 19.9 mln t in Jan-Oct 2021. Shipments from Canada to the EU, on the other hand, increased in Jan-Oct 2023 by +4.6% y-o-y to 18.8 mln tonnes. Canada accounted for 31% of the EU's ore imports in Jan-Oct 2023. Shipments from South Africa also declined by -12.3% y-o-y in Jan-Oct 2023 to 9.9 mln tonnes. Exports from Norway to the EU were also down -4.7% y-o-y to 7.8 mln t in Jan-Oct 2023.
 
-> **Chart (not transcribed):** EU - Iron Ore Imports by Source in Jan-Oct. The report prints no values for it.
+## EU - Iron Ore Imports by Source in Jan-Oct
+
+| Country | 2021 (1-10) | 2022 (1-10) | 2023 (1-10) |
+| --- | --- | --- | --- |
+| Canada | 17.8 | 18.0 | 18.8 |
+| Brazil | 19.9 | 17.7 | 14.9 |
+| S Africa | 11.1 | 11.2 | 9.9 |
+| Norway | 8.7 | 8.2 | 7.8 |
+| Liberia | 2.7 | 2.9 | 2.7 |
+| EU | 4.4 | 3.1 | 2.2 |
+| Mauritania | 2.0 | 2.3 | 1.7 |
+| Others/ Unknown | 5.6 | 4.4 | 2.3 |
 
 > **Chart (not transcribed):** EU - Monthly Iron Ore Imports - Seasonality. The report prints no values for it.
 

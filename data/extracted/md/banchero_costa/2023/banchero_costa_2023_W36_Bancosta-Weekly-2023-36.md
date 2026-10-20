@@ -20,7 +20,18 @@ In the full 12 months of 2022, we saw a sharp decline in imports from Russia to 
 
 From Canada there was a **+16.3%** y-o-y increase to 10.5 mln tonnes.
 
-> **Chart (not transcribed):** Japan - Coal Imports by Source in Jan-Aug. The report prints no values for it.
+## Japan - Coal Imports by Source in Jan-Aug
+
+| Country | 2021 (1-8) | 2022 (1-8) | 2023 (1-8) |
+| --- | --- | --- | --- |
+| Australia | 74.1 | 77.2 | 70.1 |
+| Indonesia | 13.5 | 16.9 | 17.4 |
+| Canada | 8.8 | 9.0 | 10.5 |
+| USA | 2.1 | 2.0 | 2.9 |
+| S Africa | 0.0 | 0.6 | 2.6 |
+| Russia | 11.0 | 7.5 | 1.6 |
+| Colombia | 0.5 | 1.0 | 1.1 |
+| Others/ Unknown | 0.9 | 0.5 | 0.7 |
 
 > **Chart (not transcribed):** Japan - Monthly Coal Imports - Seasonality. The report prints no values for it.
 

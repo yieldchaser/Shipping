@@ -22,7 +22,18 @@ In terms of sources of the shipments, there has been understandably a bit of pol
 
 Direct shipments from the Arabian Gulf also rebounded sharply by **+63.1% y-o-y** to 25.2 mln tonnes, but were still down compared to the 25.9 mln tonnes in Jan-Jul 2019. Volumes from Turkey (Ceyhan) were down by **-23.7% y-o-y** to 15.3 mln t, from 20.1 mln t of Jan-Jul 2022.
 
-> **Chart (not transcribed):** EU - Crude Oil Imports by Source in Jan-Jul. The report prints no values for it.
+## EU - Crude Oil Imports by Source in Jan-Jul
+
+| Country | 2021 (1-7) | 2022 (1-7) | 2023 (1-7) |
+| --- | --- | --- | --- |
+| NW Europe | 36 | 45 | 53 |
+| N Africa | 37 | 37 | 49 |
+| USA | 19 | 30 | 39 |
+| Russia | 65 | 67 | 38 |
+| W Africa | 21 | 29 | 30 |
+| AG | 11 | 15 | 25 |
+| Turkey | 20 | 20 | 15 |
+| Others/ Unknown | 19 | 19 | 27 |
 
 > **Chart (not transcribed):** EU - Monthly Crude Oil Imports - Seasonality. The report prints no values for it.
 

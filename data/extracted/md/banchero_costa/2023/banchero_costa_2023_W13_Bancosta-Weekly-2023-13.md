@@ -20,7 +20,18 @@ About 55% of imports into the EU in 2022 were loaded on Capesize tonnage, about 
 
 Brazil was still the top supplier of iron ore to the European Union in Jan-Dec 2022, accounting for 26.9% of the EU's total imports. However, shipments from Brazil to the EU declined by -6.6% y-o-y in 2022 to just 21.8 mln tonnes, from 23.4 mln t in 2021, and were less than half the 44.1 mln t in 2018. Shipments from Canada to the EU in 2022 increased by +4.2% y-o-y to 20.7 mln tonnes. Canada accounted for 25.5% of the EU's ore imports in Jan-Dec 2022. Shipments from South Africa also declined by -10.3% y-o-y in Jan-Dec 2022 to 13.8 mln tonnes. Exports from Norway were up +7.9% y-o-y to 10.4 mln t in 2022. Volumes from Mauritania increased by +35.5% y-o-y to 3.4 mln t, and from Liberia by +18.9% y-o-y to 3.8 mln t. Shipments from India surged by +318% to 1.6 mln tonnes, from just 0.4 mln tonnes the previous year.
 
-> **Chart (not transcribed):** EU - Iron Ore Imports by Source in Jan-Dec. The report prints no values for it.
+## EU - Iron Ore Imports by Source in Jan-Dec
+
+| Country | 2020 (1-12) | 2021 (1-12) | 2022 (1-12) |
+| --- | --- | --- | --- |
+| Brazil | 18 | 23 | 22 |
+| Canada | 18 | 20 | 21 |
+| S Africa | 10 | 15 | 14 |
+| Norway | 9 | 10 | 10 |
+| Liberia | 4 | 3 | 4 |
+| Mauritania | 3 | 2 | 3 |
+| India | 0 | 0 | 2 |
+| Others/ Unknown | 11 | 8 | 6 |
 
 > **Chart (not transcribed):** EU - Monthly Iron Ore Imports - Seasonality. The report prints no values for it.
 

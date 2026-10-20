@@ -20,7 +20,18 @@ However, what Covid restrictions did was to change seasonality patterns quite dr
 
 To Japan they are up +9.9% y-o-y to 1.9 mln tonnes. To Vietnam it's +71.9% y-o-y to 0.4 mln tonnes.
 
-> **Chart (not transcribed):** South Africa - Iron Ore Exports by Destination in Jan-Jul. The report prints no values for it.
+## South Africa - Iron Ore Exports by Destination in Jan-Jul
+
+| Country | 2019 (1-7) | 2020 (1-7) | 2021 (1-7) |
+| --- | --- | --- | --- |
+| China PR | 19 | 20 | 16 |
+| EU27 | 7 | 5 | 9 |
+| S Korea | 3 | 3 | 2 |
+| Japan | 2 | 2 | 2 |
+| Vietnam | 0 | 0 | 0 |
+| UK | 0 | 0 | 0 |
+| India | 1 | 0 | 0 |
+| Others/ Unknown | 2 | 1 | 2 |
 
 > **Chart (not transcribed):** South Africa - Monthly Iron Ore Exports - Seasonality. The report prints no values for it.
 

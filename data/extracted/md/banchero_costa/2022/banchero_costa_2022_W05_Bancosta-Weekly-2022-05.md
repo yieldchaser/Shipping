@@ -20,7 +20,18 @@ The fourth quarter of 2021 saw exports dropping again to 222.7 mln tonnes, down 
 
 The largest increase was to Vietnam, up by +39.4% y-o-y to 11.1 mln tonnes in 2021. Volumes to Indonesia surged by +35.8% y-o-y y-o-y to 7.3 mln tonnes. Last but not least, exports to Malaysia fell by -36.4% to 2.1 mln tonnes in 2021.
 
-> **Chart (not transcribed):** Australia - Iron Ore Exports by Destination in Jan-Dec. The report prints no values for it.
+## Australia - Iron Ore Exports by Destination in Jan-Dec
+
+| Country | 2019 (1-12) | 2020 (1-12) | 2021 (1-12) |
+| --- | --- | --- | --- |
+| China PR | 697 | 735 | 705 |
+| Japan | 67 | 58 | 67 |
+| S Korea | 54 | 53 | 60 |
+| Taiwan CN | 20 | 20 | 21 |
+| Vietnam | 5 | 8 | 11 |
+| Indonesia | 4 | 5 | 7 |
+| Malaysia | 3 | 3 | 2 |
+| Others/ Unknown | 7 | 4 | 9 |
 
 > **Chart (not transcribed):** Australia - Monthly Iron Ore Exports - Seasonality. The report prints no values for it.
 

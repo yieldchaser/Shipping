@@ -20,7 +20,18 @@ In 1Q 2020, Japan imported 45.7 mln tonnes of coal, which was a positive +3.2% y
 
 Overall in the first 7 months of 2021, Japan imported 98.1 mln tonnes of coal, which was down -1.7% y-o-y from the same period in 2020. In terms of sources of coal imports to Japan, things changed a lot. Australia, which was already the top coal exporter to Japan, further increased volumes as they had to divert the cargoes that in the past they would have sold to China. Imports to Japan from Australia increased by +9.9% y-o-y to 64.7 mln t in the first 7 months of 2021, from 58.8 mln tonnes in the same period of 2020. Australia now accounts for 66% of Japan's coal imports. The second largest source for Japan's coal imports is Indonesia, accounting for a 12% share. Shipments from Indonesia to Japan declined by -26.3% y-o-y to 11.9 mln tonnes in the first 7 months of 2021, from 16.2 mln tonnes in the same period of 2020.
 
-> **Chart (not transcribed):** Japan - Coal Imports by Source in Jan-Jul. The report prints no values for it.
+## Japan - Coal Imports by Source in Jan-Jul
+
+| Country | 2019 (1-7) | 2020 (1-7) | 2021 (1-7) |
+| --- | --- | --- | --- |
+| Australia | 62 | 59 | 65 |
+| Indonesia | 14 | 16 | 12 |
+| Russia | 8 | 9 | 10 |
+| Canada | 8 | 10 | 7 |
+| USA | 6 | 4 | 3 |
+| Colombia | 1 | 1 | 1 |
+| China PR | 1 | 0 | 0 |
+| Others/ Unknown | 1 | 0 | 0 |
 
 > **Chart (not transcribed):** Japan - Monthly Coal Imports - Seasonality. The report prints no values for it.
 

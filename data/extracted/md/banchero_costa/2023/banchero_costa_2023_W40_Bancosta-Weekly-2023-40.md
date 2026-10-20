@@ -20,7 +20,18 @@ However, this was primarily a rebound from a -32.7% y-o-y slump in 2020, when ex
 
 The only major port on the western (Pacific Ocean) coast of Colombia is Buenaventura, from where 3.1 mln t of coal were loaded in Jan-Dec 2022. Japan is currently the main destination for shipments from Buenaventura, with South Korea, India and Chile also receiving some coal from the port. Nevertheless, the main destinations from Colombia are of course in Europe and the Mediterranean. Coal exports from Colombia to the EU increased by +111% y-o-y in Jan-Dec 2022, to 17.8 mln tonnes. This was the highest volumes sent to Europe since 2018. Shipments to Turkey however declined by -28.2% y-o-y to 9.4 mln tonnes in Jan-Dec 2022. Volumes to China were down -83.1% y-o-y to just 0.7 mln t in Jan-Dec 2022, from 4.2 mln t in 2021. Shipments to Chile declined by -27.2% y-o-y in 2022 to 4.7 mln t, but to Mexico increased by +314% y-o-y in 2022 to 2.6 mln t.
 
-> **Chart (not transcribed):** Colombia - Coal Exports by Destination in Jan-Aug. The report prints no values for it.
+## Colombia - Coal Exports by Destination in Jan-Aug
+
+| Country | 2021 (1-8) | 2022 (1-8) | 2023 (1-8) |
+| --- | --- | --- | --- |
+| EU | 4.2 | 10.2 | 10.0 |
+| Mexico | 0.1 | 1.3 | 3.2 |
+| S Korea | 2.2 | 1.3 | 3.1 |
+| Turkey | 9.6 | 6.8 | 2.7 |
+| China | 3.5 | 0.4 | 2.2 |
+| Chile | 5.0 | 3.4 | 1.8 |
+| Israel | 2.2 | 2.6 | 1.8 |
+| Others/ Unknown | 10.0 | 11.6 | 13.5 |
 
 > **Chart (not transcribed):** Colombia - Monthly Coal Exports - Seasonality. The report prints no values for it.
 

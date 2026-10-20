@@ -22,7 +22,18 @@ In terms of destinations for Australian LNG, it's almost entirely shipped to Eas
 
 This includes 2.5 mln tonnes to Thailand (up from 1.3 mln t in Jan-Aug 2022 and 0.2 mln t in Jan-Aug 2021), as well as 1.9 mln t to Singapore, and 1.5 mln t to Malaysia.
 
-> **Chart (not transcribed):** Australia - LNG Exports by Destination in Jan-Aug. The report prints no values for it.
+## Australia - LNG Exports by Destination in Jan-Aug
+
+| Country | 2021 (1-8) | 2022 (1-8) | 2023 (1-8) |
+| --- | --- | --- | --- |
+| Japan | 18.1 | 21.3 | 18.3 |
+| China | 21.3 | 14.0 | 16.2 |
+| S Korea | 6.3 | 7.6 | 7.0 |
+| ASEAN | 2.8 | 4.8 | 6.2 |
+| Taiwan | 4.0 | 5.0 | 5.5 |
+| India | 0.2 | 0.2 | 0.4 |
+| Other AG | 0.0 | 0.1 | 0.1 |
+| Others/ Unknown | 0.0 | 0.2 | 0.3 |
 
 > **Chart (not transcribed):** Australia - Monthly LNG Exports - Seasonality. The report prints no values for it.
 
