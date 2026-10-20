@@ -20,7 +20,18 @@ In the third quarter, exports increased even more remarkably by +31.1% y-o-y to 
 
 Last but not least, exports to Taiwan CN slumped -7.0% y-o-y to 12.8 mln tonnes. Looking ahead to 2022, worldwide coal demand is expected to revert to the previous decade's pattern, with losses in advanced economies offset by growth in some emerging and developing economies.
 
-> **Chart (not transcribed):** Indonesia - Coal Exports by Destination in Jan-Dec (Jan 2022; source: refinitiv; seaborne only; all bulkers; in mln tonnes). The report prints no values for it.
+## Indonesia - Coal Exports by Destination in Jan-Dec (Jan 2022; source: refinitiv; seaborne only; all bulkers; in mln tonnes)
+
+| Country | 2019 (1-12) | 2020 (1-12) | 2021 (1-12) |
+| --- | --- | --- | --- |
+| China PR | 123 | 103 | 141 |
+| India | 91 | 70 | 49 |
+| Japan | 25 | 26 | 21 |
+| S Korea | 23 | 20 | 18 |
+| Malaysia | 20 | 19 | 18 |
+| Philippines | 7 | 17 | 17 |
+| Taiwan CN | 17 | 14 | 13 |
+| Others/ Unknown | 79 | 42 | 43 |
 
 > **Chart (not transcribed):** Indonesia - Monthly Coal Exports - Seasonality (Jan 2022; source: refinitiv; seaborne only; all bulkers; in mln tonnes). The report prints no values for it.
 

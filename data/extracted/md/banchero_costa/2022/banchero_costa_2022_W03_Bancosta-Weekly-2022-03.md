@@ -20,7 +20,18 @@ On the other hand, the world's number 2 crude oil importer, EU27, recorded an in
 
 Shipments from the ASEAN countries also slumped -22.1% y-o-y to 26.7 mln tonnes, below the 34.3 mln tonnes of 2020, but well above the 15.8 mln tonnes in 2019. However, shipments from NW Europe to China increased by +1.4% y-o-y to 18.0 mln tonnes in 2021, higher than the 17.7 mln tonnes in the previous year and 14.1 mln tonnes the year before. Imports from the other AG countries corrected downwards by -1.6% y-o-y to 148.7 mln tonnes, and also below 151.2 mln tonnes of 2020 but higher than the 133.1 mln tonnes of 2019.
 
-> **Chart (not transcribed):** China - Crude Oil Imports by Source in Jan-Dec (Jan 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
+## China - Crude Oil Imports by Source in Jan-Dec (Jan 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
+
+| Country | 2019 (1-12) | 2020 (1-12) | 2021 (1-12) |
+| --- | --- | --- | --- |
+| Saudi A | 78 | 80 | 80 |
+| Other AG | 133 | 151 | 149 |
+| West Africa | 74 | 68 | 57 |
+| S America | 58 | 44 | 34 |
+| Russia | 29 | 32 | 31 |
+| ASEAN | 16 | 34 | 27 |
+| NW Europe | 14 | 18 | 18 |
+| Others/ Unknown | 45 | 58 | 49 |
 
 > **Chart (not transcribed):** China - Monthly Crude Oil Imports - Seasonality (Jan 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes). The report prints no values for it.
 

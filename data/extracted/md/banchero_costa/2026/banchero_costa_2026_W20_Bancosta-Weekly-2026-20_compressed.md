@@ -33,7 +33,18 @@ In 2026, it remains evident that China continues to reduce purchases of US soybe
 | Australia | 0 | 0 | 0 |
 | Others/ Unknown | 0 | 0 | 0 |
 
-> **Chart (not transcribed):** China - Soybeans Imports by Source in Jan-Apr (may 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## China - Soybeans Imports by Source in Jan-Apr (may 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2024 (1-4) | 2025 (1-4) | 2026 (1-4) |
+| --- | --- | --- | --- |
+| Brazil | 17.6 | 14.5 | 16.1 |
+| USA | 10.7 | 9.8 | 7.8 |
+| Argentina | 0.1 | 0.0 | 2.1 |
+| Canada | 0.8 | 0.3 | 1.0 |
+| Uruguay | 0.0 | 0.0 | 0.1 |
+| (not printed) | 0.0 | 0.0 | 0.0 |
+| (not printed) | 0.0 | 0.0 | 0.0 |
+| Others/ Unknown | 0.0 | 0.0 | 0.0 |
 
 # NEWS
 # COMMODITY NEWS – DRY BULK

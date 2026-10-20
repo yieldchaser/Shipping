@@ -20,7 +20,18 @@ In Jan-Dec 2024, shipments from Australia increased by +1.3% y-o-y to 927.4 mln 
 
 The second largest destination for Australian ore is South Korea, with a 5.7% share in 2024. Shipments from Australia to South Korea increased by +2.7% y-o-y to 52.7 mln t in Jan-Dec 2024, from 51.2 mln t in Jan-Dec 2023. Export to Japan declined by -4.6% y-o-y to 51.9 mln t in Jan-Dec 2024. Volumes from Australia to Taiwan declined by -2.3% y-o-y to 14.3 mln tonnes in Jan-Dec 2024. To Vietnam volumes increased by +27.0% y-o-y to 12.6 mln tonnes in Jan-Dec 2024.
 
-> **Chart (not transcribed):** Australia - Iron Ore Exports by Destination in Jan-Apr (may 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
+## Australia - Iron Ore Exports by Destination in Jan-Apr (may 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+
+| Country | 2023 (1-4) | 2024 (1-4) | 2025 (1-4) |
+| --- | --- | --- | --- |
+| China | 247.7 | 245.5 | 239.2 |
+| S Korea | 15.6 | 17.0 | 15.9 |
+| Japan | 16.4 | 16.9 | 15.8 |
+| Vietnam | 3.3 | 3.8 | 4.6 |
+| Taiwan, CN | 4.9 | 4.8 | 4.4 |
+| Indonesia | 3.0 | 3.2 | 2.8 |
+| Malaysia | 0.8 | 1.0 | 0.7 |
+| Others/ Unknown | 0.5 | 1.3 | 0.8 |
 
 > **Chart (not transcribed):** Australia - Monthly Iron Ore Exports - Seasonality (may 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers). The report prints no values for it.
 

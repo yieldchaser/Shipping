@@ -22,7 +22,18 @@ In terms of trading patterns, things are changing quite a bit. Indonesia is stil
 
 From Canada volumes increased by +40.1% y-o-y to 8.8 mln tonnes. Shipments from Mozambique also went up by +31.6% y-o-y to 7.4 mln tonnes. Imports from Ukraine, on the other hand, fell by -21.2% y-o-y to just 5.8 million tonnes. From Australia, shipments were down -97.6% y-o-y to just 1.8 mln tonnes in 2021, from 76.6 mln tonnes in 2020. Australia's share of Chinese imports is now just 1%, from 32% in 2020.
 
-> **Chart (not transcribed):** China - Coal Imports by Source in Jan-Dec (Feb 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
+## China - Coal Imports by Source in Jan-Dec (Feb 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes)
+
+| Country | 2019 (1-12) | 2020 (1-12) | 2021 (1-12) |
+| --- | --- | --- | --- |
+| Indonesia | 124 | 101 | 146 |
+| Russia | 25 | 33 | 41 |
+| USA | 3 | 3 | 15 |
+| S Africa | 2 | 4 | 14 |
+| Canada | 6 | 6 | 9 |
+| Mozambique | 5 | 6 | 7 |
+| Australia | 89 | 77 | 2 |
+| Others | 9 | 12 | 12 |
 
 > **Chart (not transcribed):** China - Monthly Coal Imports - Seasonality (Feb 2022 ; source: refinitiv ; seaborne only ; all bulkers ; in mln tonnes). The report prints no values for it.
 
