@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-10-21_2026_10_21_contraction_in_global_grain_exports_still_expected__root",
+  "doc_id": "breakwave_insights_insights_2026-10-21_2026_10_21_contraction_in_global_grain_exports_still_expected",
+  "parent_id": null,
+  "title": "Contraction in Global Grain Exports Still Expected",
+  "section_path": [
+    "Contraction in Global Grain Exports Still Expected"
+  ],
+  "section_path_text": "Contraction in Global Grain Exports Still Expected",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Executive Report, the United States Department of Agriculture (USDA) has released its latest forecast for the 2026/27 season and is now predicting that global coarse grain, wheat, soybean, and soymeal exports will total 745 million tons. This is 1.3 million tons less than the USDA predicted a month ago - and it is 21.3 million tons (-3%) less than is expected for the 2025/26 season. The forecast is still preliminary, but a year-on-year decline in exports would be a headwind for our market.",
+  "keywords": [
+    "brazil",
+    "grain",
+    "million",
+    "tons",
+    "exports",
+    "coarse",
+    "expected",
+    "global",
+    "year-on-year",
+    "asset",
+    "image",
+    "less"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 573,
+  "source_path": "reports/breakwave/2026/2026-10-21_contraction-in-global-grain-exports-still-expected.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/10/21/contraction-in-global-grain-exports-still-expected",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-10-21_2026_10_21_contraction_in_global_grain_exports_still_expected__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-10-21_2026_10_21_contraction_in_global_grain_exports_still_expected",
+      "parent_id": "breakwave_insights_insights_2026-10-21_2026_10_21_contraction_in_global_grain_exports_still_expected__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Executive Report, the United States Department of Agriculture (USDA) has released its latest forecast for the 2026/27 season and is now predicting that global coarse grain, wheat, soybean, and soymeal exports will total 745 million tons. This is 1.3 million tons less than the USDA predicted a month ago - and it is 21.3 million tons (-3%) less than is expected for the 2025/26 season.",
+      "keywords": [
+        "brazil",
+        "grain",
+        "million",
+        "tons",
+        "exports",
+        "coarse",
+        "expected",
+        "year-on-year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 368,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-21_2026_10_21_contraction_in_global_grain_exports_still_expected__s02_linked_asset_2026_10_21_contraction_in_global_grain_exports_still_expected_img_chart_529dfaa90196_jpg",
+      "doc_id": "breakwave_insights_insights_2026-10-21_2026_10_21_contraction_in_global_grain_exports_still_expected",
+      "parent_id": "breakwave_insights_insights_2026-10-21_2026_10_21_contraction_in_global_grain_exports_still_expected__root",
+      "title": "Linked asset: 2026-10-21_contraction-in-global-grain-exports-still-expected_img_chart_529dfaa90196.jpg",
+      "section_path": [
+        "Linked asset: 2026-10-21_contraction-in-global-grain-exports-still-expected_img_chart_529dfaa90196.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-10-21_contraction-in-global-grain-exports-still-expected_img_chart_529dfaa90196.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-10-21_contraction-in-global-grain-exports-still-expected_img_chart_529dfaa90196.jpg\n\nLinked image asset: 2026-10-21_contraction-in-global-grain-exports-still-expected_img_chart_529dfaa90196.jpg\n\nImage metadata: JPEG 1364x484 mode=RGB\n\nOCR text:\nGlobal Coarse Grain Exports (including corn)\nWorld USA Argentina Brazil Ukraine\n2025/26 (est) 266.0mt 92.6mt 49.7mt 38.8mt 23.8mt\n2026/27 (proj) 253.9mt 88.0mt 43.1mt 43.5mt 23.8mt",
+      "keywords": [
+        "brazil",
+        "grain",
+        "asset",
+        "image",
+        "argentina",
+        "coarse",
+        "contraction-in-global-grain-exports-still-expected_img_chart_529dfaa90196.jpg",
+        "corn"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

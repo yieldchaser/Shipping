@@ -1,17 +1,38 @@
 {
-  "generated_at": "2026-10-20T20:53:00Z",
-  "current_date": "2026-10-20",
-  "warning_count": 0,
+  "generated_at": "2026-10-21T14:40:37Z",
+  "current_date": "2026-10-21",
+  "warning_count": 1,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
-      "healthy": 14,
-      "reference": 1
+      "healthy": 13,
+      "reference": 1,
+      "watch": 1
     },
     "topics": {
       "healthy": 10
     },
     "divergences": {}
   },
-  "warnings": []
+  "warnings": [
+    {
+      "severity": "watch",
+      "kind": "source_freshness",
+      "key": "hellenic/vessel_valuations",
+      "message": "hellenic/vessel_valuations is watch at 22 days since the latest dated document.",
+      "details": {
+        "label": "hellenic/vessel_valuations",
+        "source": "hellenic",
+        "category": "vessel_valuations",
+        "status": "watch",
+        "cadence_days": 14,
+        "latest_date": "2026-09-29",
+        "age_days": 22,
+        "latest_gap_days": 6,
+        "max_recent_gap_days": 8,
+        "dated_doc_count": 274,
+        "undated_doc_count": 0
+      }
+    }
+  ]
 }

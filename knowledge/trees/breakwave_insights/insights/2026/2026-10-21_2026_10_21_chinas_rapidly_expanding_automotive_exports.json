@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-10-21_2026_10_21_chinas_rapidly_expanding_automotive_exports__root",
+  "doc_id": "breakwave_insights_insights_2026-10-21_2026_10_21_chinas_rapidly_expanding_automotive_exports",
+  "parent_id": null,
+  "title": "China's rapidly expanding automotive exports",
+  "section_path": [
+    "China's rapidly expanding automotive exports"
+  ],
+  "section_path_text": "China's rapidly expanding automotive exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nikolaos Tagoulis\nChina's rapidly expanding automotive exports have emerged as a key driver of the Pure Car and Truck Carrier (PCTC) market in 2026, supporting vessel utilisation and elevated charter earnings. According to the China Association of Automobile Manufacturers (CAAM), exports reached 8.205m vehicles in January-September, up 65.8% y-o-y, including 4.006m newenergy vehicles (NEVs). September alone saw 1.053m exports, of which 571,000 were NEVs, up 160% y-o-y.",
+  "keywords": [
+    "capesize",
+    "container",
+    "china",
+    "europe",
+    "japan",
+    "chinese",
+    "demand",
+    "pctc",
+    "exports",
+    "vehicles",
+    "are",
+    "average"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 964,
+  "source_path": "reports/breakwave/2026/2026-10-21_chinas-rapidly-expanding-automotive-exports.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/10/21/chinas-rapidly-expanding-automotive-exports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-10-21_2026_10_21_chinas_rapidly_expanding_automotive_exports__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-10-21_2026_10_21_chinas_rapidly_expanding_automotive_exports",
+      "parent_id": "breakwave_insights_insights_2026-10-21_2026_10_21_chinas_rapidly_expanding_automotive_exports__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nikolaos Tagoulis\nChina's rapidly expanding automotive exports have emerged as a key driver of the Pure Car and Truck Carrier (PCTC) market in 2026, supporting vessel utilisation and elevated charter earnings. According to the China Association of Automobile Manufacturers (CAAM), exports reached 8.205m vehicles in January-September, up 65.8% y-o-y, including 4.006m newenergy vehicles (NEVs).",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "japan",
+        "chinese",
+        "demand",
+        "pctc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 962,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
