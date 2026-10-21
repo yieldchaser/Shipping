@@ -571987,3 +571987,31 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 868959,2026-10-20,,EDOLENA SHIPPING,HAN HUA JU LI,,,until mid/late Mar 2027,,Panamax,BULK,,,,,"1,510 TEU gearless container vessel. On TC until mid/late Mar 2027. Vessel will be delivered basis TC attached."
 868960,2026-10-20,Gerdau,,,,,,,Panamax,BULK,Metcoal,,,,OWISE AS PER CHRTRS MT AND CP
 868961,2026-10-20,Companhia Siderurgica Nacional,,,,,,,Panamax,BULK,Coal,,,,"stwf 40 ft³/mt.; Only named vessel to be accepted and it must be in ballast; Vessels with two pending discharge ports will not be accepted. If the vessel has only one pending discharge port, please provide full details of that voyage."
+868962,2026-10-20,Radius Recycling,,,,,,,Panamax,BULK,Scrap,,,,"MIN 4 X 25 MT CRANES, MAX 25 YRS"
+868963,2026-10-20,,JINGHE SHIPPING,TONG YUN 17,,,,,Handysize,BULK,,,,,"SD,MPP DECK CGO"
+868964,2026-10-20,,JINGHE SHIPPING,TY LUCKY,,,,,Mini-Handysize,BULK,,,,,SD G’LESS
+868965,2026-10-20,,JINGHE SHIPPING,HAI LONG FA ZHAN,,,,,Panamax,BULK,,,,,SD G’LESS
+868966,2026-10-20,,JINGHE SHIPPING,HE XIE FA ZHAN,,,,,Handysize,BULK,,,,,SD G’LESS
+868967,2026-10-20,,JINGHE SHIPPING,HUA HAI ZHI XING,,,,,Handysize,BULK,,,,,SD G’LESS
+868968,2026-10-20,,JINGHE SHIPPING,TIAN EN 2,,,,,Handysize,BULK,,,,,SD G’LESS
+868969,2026-10-20,,JINGHE SHIPPING,ZL KUN,,,,,Handysize,BULK,,,,,SD G’LESS
+868970,2026-10-20,,JINGHE SHIPPING,HUI FENG HAI 16,,,,,Handysize,BULK,,,,,SD G’LESS
+868971,2026-10-20,,JINGHE SHIPPING,JC DALIAN,,,,,Handysize,BULK,,,,,SD G’LESS
+868972,2026-10-20,,JINGHE SHIPPING,JIN MING 16,,,,,Handysize,BULK,,,,,SD G’LESS
+868973,2026-10-20,,JINGHE SHIPPING,DA YU ZHI PENG,,,,,Handysize,BULK,,,,,SD G’LESS
+868974,2026-10-20,,JINGHE SHIPPING,TONG YUN 12,,,,,Handysize,BULK,,,,,SD G’LESS
+868975,2026-10-20,,JINGHE SHIPPING,DA YU ZHI JIAO,,,,,Handysize,BULK,,,,,SD G’LESS
+868976,2026-10-20,,JINGHE SHIPPING,JC QINGDAO,,,,,Handysize,BULK,,,,,SD GEARED
+868977,2026-10-20,,JINGHE SHIPPING,NBS HONOR,,,,,Supramax,BULK,,,,,SD GEARED
+868978,2026-10-20,STX GL,,,,,,,Panamax,BULK,Woodpellet,,,,DURATION ABT 20/25D
+868979,2026-10-20,STX GL,,,,,,,Panamax,BULK,PKS,,,,LWFL/HML cargo; DURATION ABT 20/25D
+868980,2026-10-20,STX GL,,,,,,,Handymax,BULK,PKS,,,,"MIN GRAN CAPA 54,000CBM, MAX 25Y, IMSBC GROUP C, DUR ABT 20/25 DAYS WOG"
+868981,2026-10-21,,KAYA SHIPPING,SN OPAL,,,,,Handysize,BULK,,,,,
+868982,2026-10-21,,,MIGHTY 5,,,,,Handymax,BULK,,,,,
+868983,2026-10-21,,,DSX,,,,,Panamax,BULK,g.cgo & project cgo under/ondeck,,,,
+868984,2026-10-21,,river ocean shipping,TTL,,,,,Handysize,BULK,g.cgo & project cgo under/ondeck,,,,"loading: tianjin, shanghai, seasia; disport: mumbai, hazira, kandla"
+868985,2026-10-21,,river ocean shipping,MKL,,,,,Handysize,BULK,g.cgo & project cgo under/ondeck,,,,"loading: hamriyah, jebel ali, umm qasr; disport: se.asia, china"
+868986,2026-10-21,,river ocean shipping,GGR,,,,,VLOC,BULK,g.cgo & project cgo under/ondeck,,,,"loading: jebel ali, umm qasr; disport: red, med"
+868987,2026-10-21,,river ocean shipping,NBR,,,,,Handysize,BULK,g.cgo & project cgo under/ondeck,,,,"loading: conti, arag, med; disport: jebel ali, umm qasr, shuaiba"
+868988,2026-10-21,,river ocean shipping,DSX,,,,,Panamax,BULK,g.cgo & project cgo under/ondeck,,,,"loading: tianjin, shanghai; disport: yanbu, jeddah, aqaba"
+868989,2026-10-21,Panocean,,,,,,,Panamax,BULK,Grain,,,,"MAX 15 YRS, NEED GRAIN CLEAN / CGO HISTORY (LAST 3) / LAST DD DATE / BOD QTTY / CREW LIST / Rightship Safety Score above 3"
