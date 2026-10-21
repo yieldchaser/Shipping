@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 20:46:04Z",
+  "updated_at": "2026-10-21 21:12:39Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1932,7 +1932,7 @@
     {
       "file": "fearnleys_rates_series.csv",
       "target_metric": "Tanker spot, dry bulk, gas, & 1Y T/C rates ($/day, WS)",
-      "rows": 17153,
+      "rows": 17193,
       "columns": [
         "issue_date",
         "report_week",
@@ -3877,13 +3877,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 696705,
+  "total_master_stacked_rows": 696745,
   "total_master_series_csvs": 162,
-  "total_stacked_rows": 696705,
+  "total_stacked_rows": 696745,
   "total_series_csvs": 162,
   "total_master_workbooks": 1,
   "total_series_count": 162,
-  "total_rows_extracted": 697010,
+  "total_rows_extracted": 697050,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 606,
     "advanced_shipping_demolition_series.csv": 2024,
@@ -3946,7 +3946,7 @@
     "drewry_ais_product_lr2_series.csv": 31,
     "drewry_opinions_metadata.csv": 555,
     "drewry_wci_series.csv": 8,
-    "fearnleys_rates_series.csv": 17153,
+    "fearnleys_rates_series.csv": 17193,
     "gibson_bunker_prices_series.csv": 1032,
     "gibson_spot_chart_daily.csv": 9285,
     "gibson_tanker_spot_series.csv": 3612,

@@ -2,13 +2,13 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2942,
-      "untracked_bytes": 2297431587
+      "untracked_files": 2944,
+      "untracked_bytes": 2297893904
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4061,
-      "untracked_bytes": 2389508859
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
@@ -47,6 +47,11 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/fearnleys/2026/fearnleys_22_10_2026_fearnleys_week_43_2026.md",
+      "bytes": 10542,
+      "sha256": "fd0b857d74a2995e044760b03c9965f38abf6142816f02d27dfe720b40d8abb3"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -6976,6 +6981,11 @@
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W40_Fearnleys-Weekly-Report-_-Fearnpulse.pdf",
       "bytes": 463756,
       "sha256": "62cf00a3cc089f203f0f78bba113eae955cc570863e8e86f31ab61a0f3909015"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/2026/fearnleys_22_10_2026_fearnleys_week_43_2026.pdf",
+      "bytes": 451775,
+      "sha256": "81a8630bb7e2ad36376ee7a3100f1ae6c996cfddae7a145be82a6dd227cfcda6"
     },
     {
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_24_09_2026_fearnleys_week_39_2026.pdf",
@@ -20216,16 +20226,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/gms/2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf",
       "bytes": 936712,
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
-    },
-    {
-      "path": "corpus/02-hellenic/dry_charter/2026/2026-10-21_weekly-dry-time-charter-estimates-october-21-2026.html",
-      "bytes": 2639,
-      "sha256": "4d56a4280f1f8982133e4184adec0679594e2a5f23df9cb490308e1e9a11a687"
-    },
-    {
-      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-10-21_weekly-dry-time-charter-estimates-october-21-2026_21102026dry_c099d7dc1cec.png",
-      "bytes": 186507,
-      "sha256": "e2c0001d5ee7b3787720e8011857532c7526045ed804f37f6b4eead7bf85d6c8"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
@@ -35046,16 +35046,6 @@
       "path": "corpus/02-hellenic/tanker_charter/2026/2026-03-25_weekly-tanker-time-charter-estimates-march-25-2026.html",
       "bytes": 2466,
       "sha256": "5c5179782527d5b5d012add55657c36a653c42ef6af6b1216b205122d751e410"
-    },
-    {
-      "path": "corpus/02-hellenic/tanker_charter/2026/2026-10-21_weekly-tanker-time-charter-estimates-october-21-2026.html",
-      "bytes": 2666,
-      "sha256": "0808da43077ba78e6f234b60362a949c17fbed98b03748714c05369afc44365c"
-    },
-    {
-      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-10-21_weekly-tanker-time-charter-estimates-october-21-2026_21102026tanker_0991e4e6e15d.png",
-      "bytes": 208878,
-      "sha256": "3c7c2c97d90c8b31869b811d5b89408873af5586800a727cf16bae8816578c5f"
     },
     {
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",

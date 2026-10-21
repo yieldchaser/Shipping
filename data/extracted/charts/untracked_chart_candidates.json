@@ -1054,5 +1054,21 @@
     "drawings": 226,
     "image_rel": "../../../charts/intermodal/2026/intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi_figure_p7.png",
     "text_snippet": "www.intermodal.gr  \u25aa In China, the PBoC kept its benchmark lending rates  unchanged in October for the seventeenth consecutive  month, in line with market expectations. The one-year LPR  remained at 3"
+  },
+  {
+    "pub": "fearnleys",
+    "file": "fearnleys_22_10_2026_fearnleys_week_43_2026",
+    "page": 3,
+    "drawings": 36,
+    "image_rel": "../../../charts/fearnleys/2026/fearnleys_22_10_2026_fearnleys_week_43_2026_figure_p3.png",
+    "text_snippet": "MEG/Japan 1,200 280' -50 MEG/Singapore 1,225 280' -50 WAF/FEAST 615 260' -105 WAF/USAC 785 130' -185 Sidi Kerir/W Med 950 135' -100 N. Afr/Euromed 750 80' -25 UK/Cont 580 80' -35 Caribs/USG 70' "
+  },
+  {
+    "pub": "fearnleys",
+    "file": "fearnleys_22_10_2026_fearnleys_week_43_2026",
+    "page": 19,
+    "drawings": 37,
+    "image_rel": "../../../charts/fearnleys/2026/fearnleys_22_10_2026_fearnleys_week_43_2026_figure_p19.png",
+    "text_snippet": "$444 $20.5 Rotterdam 380 CST $453.5 MGO $899 Spread MGO/380 CST $445.5 -$4 $24 $28 USD per MT 380 CST Jul '25 Aug '25 Sep '25 Oct '25 Nov '25 Dec '25 Ja 0 500 1000 1500 2000 2500 \u00a9 2026 Fearnleys AS "
   }
 ]
