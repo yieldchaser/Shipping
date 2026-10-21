@@ -4,13 +4,13 @@ source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 43
 date_range: "2026-10-21 to 2026-10-21"
-comments_count: 5
+comments_count: 8
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-21 13:03:10"
+generated_at: "2026-10-21 20:45:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 43, 2026
-*Coverage Period: 2026-10-21 to 2026-10-21 | Total Notes: 5*
+*Coverage Period: 2026-10-21 to 2026-10-21 | Total Notes: 8*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 43 (2026).
@@ -20,6 +20,13 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 **Date:** 2026-10-21 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
 
 This week in the Capesize market, renewed momentum sees bullish sentiment in both Pacific and Atlantic markets. The Pacific Market, C5 (West Australia/China) saw a solid improvement over the last two days after a gradual recovery throughout the week, jumping a further 8.92% today on paper amid bullish sentiment and renewed supply. Ballasters from China to Australia have faced some disruptions amid Typhoon Champi with ongoing schedule delays, causing some tightness in the region. On the C3 Brazil/China front, rates continue to improve as the week progresses, with improved levels for November dates as paper improves by 4% today on C3. A recent fixture concluded at USD 33.75 for a mid-November laycan, and rumors of an earlier stem fixed in mid USD 34 levels is yet to be confirmed. Charterers' ideas for late November hover in the mid USD 34 levels as we see a continued improved sentiment as the week progresses.
+
+---
+
+### Panamax Weekly Comment
+**Date:** 2026-10-21 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
+
+The Panamax market has softened further this week, with Atlantic losses outweighing firmer Pacific fixtures. In the Atlantic, fresh transatlantic inquiry has offered some support, but weak USG grain demand and a long November ECSA ballaster list continue to weigh on fronthaul rates, leaving charterers in little hurry to cover. Aussie coal is giving Pacific owners better support, with firmer fixtures and fewer prompt ships also helping NoPac returns despite quieter grain demand, while Indo activity has picked up. Owners are using those stronger spot returns to defend period offers, but weaker FFAs are keeping buyers well below their ideas and limiting concluded business. We expect further pressure in the Atlantic, while the Pacific should hold up better provided Aussie cargo flow continues, with possible weather delays adding support to nearby dates rather than signaling a wider market recovery.
 
 ---
 
@@ -61,7 +68,25 @@ Mediterranean remains strong and rates have bounced back a bit so far this week.
 ---
 
 ## 3. Gas & LNG Markets
-*No dedicated gas/LNG commentary published this week.*
+### LNG Market Report
+**Date:** 2026-10-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+Increased fixing activity continues to soak up the recent abundance of available tonnage, and provide some limited (but welcome) rebalance to the spot market. However, with sustained competition for cargoes and charterers’ bids remaining persistent, positive upward movement in rates for November laycans are moderate. Eastbound cargoes continue to command a premium but economics on the marginal cargoes remain thin with tentative Arb-linked enquiry quickly fading in response to any firmness on rates. 
+
+The East is seeing some gentle signs of rate recovery on cargoes being worked this week, with vessels being drawn into Middle East and West Africa trade. Nevertheless, despite independent owners resolve and increasingly sparing modern 2-stroke availabilities, the supply-demand imbalance has provided little hope for meaningful increases. That said, several firm and developing requirements are emerging for late November/early December, which, against a broadly more positive backdrop, could signal tighter availabilities moving forward.
+
+There are several active short-term/multimonth requirements in play, although most charterers remain price sensitive. A gentle softening over the past weeks indicate a prevailing bearish outlook for next year, worsened by the weaker pricing seen for the approaching winter. However, most of this is sublet led with independent owners in no hurry to fix beyond immediate spot needs with a feeling that yet more requirements for 2027 will emerge in time.
+
+On another note, the pool of owners willing to transit ships through the Strait of Hormuz continues to grow, as demand for cargoes to be loaded inside the Gulf persists. October is expected to see the highest number of crossings since hostilities commenced in February, despite lingering war risks. This demand has given a new lease of life to older tonnage that struggled to find a place on the spot market among competitive 2-stroke sublets, and has prompted a wave of S&P transactions for vessels whose futures were otherwise confined to layup/recycling.
+
+---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
-*No dedicated S&P commentary published this week.*
+### Chartering Weekly Comment
+**Date:** 2026-10-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+After last week's fixture at USD 313/t, the market regained momentum and pushed back above the USD 330/t mark, with a handful of cargoes concluded at those levels. However, sentiment softened once again following the fixture of a market cargo last night at around USD 280/t, highlighting the continued volatility in freight levels.
+
+As a result, the arbitrage has eased back towards the USD 300/t level, while the position list has lengthened somewhat compared to last week, reflecting a modest increase in available tonnage. Although vessel supply remains relatively balanced, the recent correction suggests charterers have regained some leverage, with market participants closely monitoring fixture activity to gauge the direction of rates heading into the coming weeks.
+
+---
