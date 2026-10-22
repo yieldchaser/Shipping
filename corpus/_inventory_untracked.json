@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2942,
-      "untracked_bytes": 2297431587
+      "untracked_files": 2954,
+      "untracked_bytes": 2307780662
     },
     {
       "path": "corpus/02-hellenic",
@@ -5666,6 +5666,66 @@
       "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-7th-August-2026.pdf",
       "bytes": 186084,
       "sha256": "ae4069231c5ba43de6b80c9312ef4d52770ecf74060768b1e66890a9067dbfd7"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/Cape Composite Model 4 Weeks Change.png",
+      "bytes": 268591,
+      "sha256": "cc41c9378b7f14028ec2c34f2fe28200c90e825c3cdf548358b8544b2277c571"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/Cape Composite Model.png",
+      "bytes": 276390,
+      "sha256": "3b6e09062032acad30e41e838b37cfe23ac25bd5496c09fb4019575184c1c553"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/P5 vs Newcastle Coal Futures Spread Lead.png",
+      "bytes": 232278,
+      "sha256": "db861a4e30c32173163e1c331f2a3c6e2877f5a20431b38e3b21135d3bd8f2a5"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/P5TC vs Pacific Tightness Indicator Zoom In.png",
+      "bytes": 249480,
+      "sha256": "81910af454f6bc4eb5cc767e084d139a1971244a8392531a9a53dd0c8b757d7c"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/P6 vs SATL Tightness Zoom In.png",
+      "bytes": 205968,
+      "sha256": "4b2111592e9446c390a28cf019ac1cd829d7e8e4f35cfc6a395261de05c17a32"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png",
+      "bytes": 143631,
+      "sha256": "e189fd6cde36ea178c626b0077163cf3351c4bb395f0ea9e4d27bfa71e7241fd"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/ULTRA LEAD HANDY.png",
+      "bytes": 150009,
+      "sha256": "814cb8a3a15292f6da1cf43aa73d2ac9204e3fc98528aab81fa3f9ea730cf470"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/cape model.png",
+      "bytes": 262982,
+      "sha256": "fbc1c76bb07b50a7078ab3c27ab94b29483c0276c08e9db015d91476b9163f36"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/cape momentum model.png",
+      "bytes": 284825,
+      "sha256": "48e8d7699db0b9f6d37e8b2324af19aaa59fadba61683136d76114ea68b509e0"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/panamax kamsarmax weekly shipment volumes.png",
+      "bytes": 179745,
+      "sha256": "3efab95dd74f0e3624aa99606c1e707ca33cd4a90230e16e938175c1795cc5f2"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/supraultra ballaster laden vessel ratio.png",
+      "bytes": 267528,
+      "sha256": "366c59a63b26c39cfc07c3027c6546fbc92cee1d72b0cafd0483ebfcd5b11b9f"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.pdf",
+      "bytes": 7827648,
+      "sha256": "e029ca669cf6460cfd69308477a094488800d20ad89b6b817305a96344f18db7"
     },
     {
       "path": "corpus/01-brokers/fearnleys/2018/fearnleys_2018_W29_fw_week_29_2018b.pdf",
