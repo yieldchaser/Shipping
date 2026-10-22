@@ -7,12 +7,13 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "107abfd3-dac6-442f-8a64-2aa951e7fb64"
 images_count: 22
+local_pdf: "../pdfs/2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/107abfd3-dac6-442f-8a64-2aa951e7fb64/report.pdf"
 ---
 # Fearnleys Dry Bulk Weekly
 
 **Date:** 2026-10-14 | **Department:** BULK | **Publisher:** Fearnleys AS  
-**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/107abfd3-dac6-442f-8a64-2aa951e7fb64/report.pdf)  
+**Original PDF:** [Local PDF](../pdfs/2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/107abfd3-dac6-442f-8a64-2aa951e7fb64/report.pdf)  
 
 ---
 
