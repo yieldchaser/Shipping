@@ -7,7 +7,7 @@ categories:
 - vessel_valuations
 document_count: 122
 evidence_count: 250
-generated_at: '2026-10-21T21:03:37Z'
+generated_at: '2026-10-22T14:40:08Z'
 latest_evidence_date: '2026-10-21'
 page_type: topic_wiki
 related_topics:
