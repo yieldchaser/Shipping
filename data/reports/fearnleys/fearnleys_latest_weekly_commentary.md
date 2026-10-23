@@ -3,14 +3,14 @@ title: "Fearnleys Weekly Broker Commentary - Week 43, 2026"
 source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 43
-date_range: "2026-10-21 to 2026-10-21"
-comments_count: 8
+date_range: "2026-10-21 to 2026-10-23"
+comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-23 12:43:28"
+generated_at: "2026-10-23 20:33:53"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 43, 2026
-*Coverage Period: 2026-10-21 to 2026-10-21 | Total Notes: 8*
+*Coverage Period: 2026-10-21 to 2026-10-23 | Total Notes: 9*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 43 (2026).
@@ -82,6 +82,15 @@ On another note, the pool of owners willing to transit ships through the Strait 
 ---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
+### SnP Weekly Comment
+**Date:** 2026-10-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+The hectic tanker market of late makes this week look fairly subdued in terms of activity and is perhaps revealing a slight change in sentiment. That being; after the initial rush of the last few months, sellers and buyers alike are taking more of a tentative approach in transacting assets. Incentive to buy is of course sill there with the astronomical rates on offer, but it feels as if the rush for spot crude tonnage has slowed slightly with sellers seeing longevity in this market and in turn not wanting to sacrifice earnings, and buyers not wanting to buy at the absolute peak. Of course, this could all change in a heartbeat, but it is worth observing. In the products sector, highly specialised SS passed MR sisters BOW LIND/ELM (46k dwt SLS 2011) *29 tank/ML/Zinc/Epoxy sold for USD 63M en bloc. 
+
+As has been the theme of these reports for the last while, dry remains consistently strong. This is despite a recent sharp correction on capesize spot earnings, which saw a pullback from extremely healthy USD c.50K.day levels to just very robust levels of USD 30K/day. No need to panic. Some transactions and ongoing discussions were pointing to a potential levelling off on dry values but in truth it remains very much a sellers’ market. Modern units are still commanding strong levels, seen particularly in large ultramax DELMAX66 (66k dwt Tess Cebu 2026) selling for USD 47M. One would expect a premium for this larger design, but even this price eclipses previous estimations.
+
+---
+
 ### Chartering Weekly Comment
 **Date:** 2026-10-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
