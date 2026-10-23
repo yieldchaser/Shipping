@@ -575268,3 +575268,30 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 872316,2026-10-23,Awilco LNG,Awilco LNG,Wilforce,9627954,,,,LNGC,LNG,,,,,SOH business. 
 872317,2026-10-23,Prism Energy,Unknown owner,TBN - Unknown owner - 174K - 2-Stroke,,,,,LNGC,LNG,,,,,
 872318,2026-10-20,TotalEnergies,Flex LNG,Flex Volunteer,9862463,,,,LNGC,LNG,,,,,
+872319,2026-10-23,,Xiangyu,Los Angeles,,,,,Newcastlemax,BULK,,,,,basis retro DLOSP Yantai; Brazil/West Africa round voyage or South Africa round voyage
+872320,2026-10-23,,Xiangyu,Los Angeles,,,,,Newcastlemax,BULK,,,,,basis retro DLOSP Yantai
+872321,2026-10-23,,Xiangyu,Los Angeles,,,,,Newcastlemax,BULK,,,,,basis retro DLOSP Yantai
+872322,2026-10-23,,Xiangyu,Los Angeles,,,,,Newcastlemax,BULK,,,,,basis retro DLOSP Yantai
+872323,2026-10-23,,Baumarine,Ever Best,,,,,Kamsarmax,BULK,,,,,
+872324,2026-10-23,,,Shine Amber,,,,,Kamsarmax,BULK,,,,,
+872325,2026-10-23,,,Aristidis,,,,,Kamsarmax,BULK,"grains, iron ore",,,,
+872326,2026-10-23,,Swissmarine,Santa Sophia,,,,,Babycape,BULK,,,,,
+872327,2026-10-23,,,Jing Dian Tai Ping,,,5/7 month,,Kamsarmax,BULK,,,,,
+872328,2026-10-23,Iino,,,,,,,Panamax,BULK,Coal,,,,via EC Australia
+872329,2026-10-23,,,Ever Best,,,,,Kamsarmax,BULK,,,,,
+872330,2026-10-23,,,Shine Amber,,,,,Kamsarmax,BULK,,,,,
+872331,2026-10-23,,,Aristidis,,,,,Kamsarmax,BULK,"grain, iron ore",,,,
+872332,2026-10-23,,,Santa Sophia,,,,,Babycape,BULK,,,,,
+872333,2026-10-23,,,Jing Dian Tai Ping,,,5/7 month,,Kamsarmax,BULK,,,,,
+872334,2026-10-23,,Baumarine,Ever Best,,,,,Kamsarmax,BULK,,,,,
+872335,2026-10-23,,,Shine Amber,,,,,Kamsarmax,BULK,,,,,
+872336,2026-10-23,,,Aristidis,,,,,Kamsarmax,BULK,"grain, iron ore",,,,
+872337,2026-10-23,,Swissmarine,Santa Sophia,,,,,Babycape,BULK,,,,,
+872338,2026-10-23,,,Jing Dian Tai Ping,,,5/7 month,,Kamsarmax,BULK,,,,,
+872339,2026-10-23,,,,,,,,Panamax,BULK,Coal,,,,cnr
+872340,2026-10-23,,Baumarine,Ever Best,,,,,Kamsarmax,BULK,,,,,for a Pacific RV
+872341,2026-10-23,,,Shine Amber,,,,,Kamsarmax,BULK,,,,,for an ECSA fronthaul
+872342,2026-10-23,,,Aristidis,,,,,Kamsarmax,BULK,"grains, iron ore",,,,"for an ECSA grains RV, with iron ore and for RBay–India"
+872343,2026-10-23,,Swissmarine,Santa Sophia,,,,,Babycape,BULK,,,,,
+872344,2026-10-23,,,Jing Dian Tai Ping,,,5/7 month,,Kamsarmax,BULK,,,,,on subs with DST
+872345,2026-10-23,Fearnleys,,,,,,,Panamax,BULK,Grains,,,,"cnr, scrubber"
