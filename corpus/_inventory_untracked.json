@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4062,
-      "untracked_bytes": 2390755722
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 16,
-      "untracked_bytes": 2388829
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -34,11 +34,6 @@
       "path": "corpus/07-signal",
       "untracked_files": 298,
       "untracked_bytes": 174706385
-    },
-    {
-      "path": "corpus/08-baltic",
-      "untracked_files": 2,
-      "untracked_bytes": 8108
     },
     {
       "path": "corpus/09-ppa",
@@ -20228,16 +20223,6 @@
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-23_mmi-daily-iron-ore-index-report-october-23-2026.html",
-      "bytes": 4296,
-      "sha256": "88778dcfa80864a2e531188f7553fa42a4989add195a26f8665bda9be82413f2"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-23_mmi-daily-iron-ore-index-report-october-23-2026_23102026chinese244_037efd80893f.jpg",
-      "bytes": 183400,
-      "sha256": "76378a36736504846e8d72b719c719f95ad7bd5f544e4ce29aca07e95c739940"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
       "bytes": 1106014,
       "sha256": "b82a5abf0415bdb8da87e942ca7a69caa92b9e22ff1373ec591775898b1b0aa3"
@@ -30233,11 +30218,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-23_mmi-daily-iron-ore-index-report-october-23-2026_mmi-daily-iron-ore-report-for-23th-o_1f25d84dabd0.pdf",
-      "bytes": 728632,
-      "sha256": "e1983dddcd7f881497afad52133b278976132f6bcef229f83af6f0a8bddb9eb6"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31626,11 +31606,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-23_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-23th-October-2026.pdf",
-      "bytes": 728632,
-      "sha256": "e1983dddcd7f881497afad52133b278976132f6bcef229f83af6f0a8bddb9eb6"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35068,31 +35043,6 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
-      "path": "corpus/02-hellenic/vessel_valuations/unknown/0000-00-00_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12.html",
-      "bytes": 2593,
-      "sha256": "9b8e72b146fe0d9d8a101d8ce1111df66dff78a9bd3a80235291a7624d3af2e5"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-23_softening-risk-appetite-weighs-on-market.html",
-      "bytes": 7498,
-      "sha256": "1e2293791a995acad13d2f7b53f457e629429c8ec6f83026e3459bd4c1949a49"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-23_softening-risk-appetite-weighs-on-market.md",
-      "bytes": 6413,
-      "sha256": "c3c5bca8d0ac0d73e8c052364b22cb1fa634101005173da71c10c77760689396"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-23_vlcc-spot-rates-softer-but-far-from-soft.html",
-      "bytes": 10004,
-      "sha256": "05f6984992e41e9130d3f2f665e4322333e1f3a197b19b6d6bc2b529dbf6b108"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-23_vlcc-spot-rates-softer-but-far-from-soft.md",
-      "bytes": 8320,
-      "sha256": "d7e7260aeedbbd3aeeb924d6ffbf05012473f15a3d392296382736c8aa1f6156"
-    },
-    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35136,21 +35086,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa98bb2001a.png",
-      "bytes": 145709,
-      "sha256": "18578b09ccff1f20e547f9227c53cef30a9dbc3915d8d4102fcb4bf83335a4a9"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0e6c45001cf.png",
-      "bytes": 146996,
-      "sha256": "5577406089e0c0cf8202174a3596d2dd6a6d9afa406785a81e94e4e83f7c350b"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-23_vlcc-spot-rates-softer-but-far-from-soft_img_40fb-image-0-1792683586332_ac79f6734297.png",
-      "bytes": 27903,
-      "sha256": "8e706b0ae3df32eb0124a47ee9c74bfa2ca4a274e815dc087d8849401da6b0fa"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
@@ -43511,16 +43446,6 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
-    },
-    {
-      "path": "corpus/08-baltic/ningbo/2026/2026-10-23_ningbo-containerised-freight-index-23102_ningbo.html",
-      "bytes": 4973,
-      "sha256": "fd5e8c938411f365c268c4714c40591bf8871c59a50f6a5f318734f198e386b4"
-    },
-    {
-      "path": "corpus/08-baltic/ningbo/2026/2026-10-23_ningbo-containerised-freight-index-23102_ningbo.md",
-      "bytes": 3135,
-      "sha256": "0e751f915c5c870887696d53fd053950efe0d4b6b2de0d948169a01c862fe463"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
