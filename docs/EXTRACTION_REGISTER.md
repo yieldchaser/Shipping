@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (697,466 Total Rows across 162 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (697,468 Total Rows across 162 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -171,7 +171,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [seabrokers_renewables_and_ets_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_renewables_and_ets_series.csv) |  | 16 | Verified |
 | [seabrokers_rigs_market_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_rigs_market_series.csv) |  | 4,482 | Verified |
 | [seabrokers_snp_auctions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_snp_auctions_series.csv) |  | 251 | Verified |
-| [signal_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_reports_metadata.csv) |  | 452 | Verified |
+| [signal_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_reports_metadata.csv) |  | 454 | Verified |
 | [signal_vessel_counts_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_vessel_counts_series.csv) | Signal Ocean weekly commercial vessel counts and deployment monitors | 120 | Verified |
 | [singletons_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/singletons_sales_series.csv) | Week 38 singleton secondhand sales & demolition fixtures | 46 | Verified |
 | [ssy_capesize_index_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_index_series.csv) | SSY Capesize Index read off the charts, weekly, gated against print | 922 | Verified |
@@ -197,7 +197,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,625 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (162 CSVs + 1 Master Workbook)** | **697,466** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (162 CSVs + 1 Master Workbook)** | **697,468** | **100.0% Pass** |
 
 ---
 

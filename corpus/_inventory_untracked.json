@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2943,
-      "untracked_bytes": 2297590892
+      "untracked_files": 2942,
+      "untracked_bytes": 2297431587
     },
     {
       "path": "corpus/02-hellenic",
@@ -32,8 +32,8 @@
     },
     {
       "path": "corpus/07-signal",
-      "untracked_files": 298,
-      "untracked_bytes": 174706385
+      "untracked_files": 308,
+      "untracked_bytes": 180728501
     },
     {
       "path": "corpus/09-ppa",
@@ -7651,11 +7651,6 @@
       "path": "corpus/01-brokers/gibson/2023/gibson_2023_Gibson-Shipbrokers_week-34.pdf",
       "bytes": 960664,
       "sha256": "98705825d2fed4e4dd41bb9f492a44d129f8eb0333a3d62047701191060f5f7e"
-    },
-    {
-      "path": "corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html",
-      "bytes": 159305,
-      "sha256": "ea10738d2b9281fa0e8fd1dfbe2227d620321b0fd666afb0e6b1083298e24ebd"
     },
     {
       "path": "corpus/01-brokers/intermodal/2021/intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf",
@@ -41963,6 +41958,16 @@
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
     },
     {
+      "path": "corpus/07-signal/html/market-insights-commodity-freight-watch.html",
+      "bytes": 240992,
+      "sha256": "df1c236cd96cca3d29f2933cbc7506cf27281e06e65b1e668e83b5345324234f"
+    },
+    {
+      "path": "corpus/07-signal/html/the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows.html",
+      "bytes": 221475,
+      "sha256": "b7a428d222c047996b5a00284339b0d61a5f59d2e842b94f477f7f35de73d89b"
+    },
+    {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
       "bytes": 298514,
       "sha256": "11bbc769a2164d34cbb31e7e4795412aeb91dc285fb7ee3376aa33bacc388c3b"
@@ -43451,6 +43456,46 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad619555aaab1391e7e7674_9f3acce2.png",
+      "bytes": 223001,
+      "sha256": "63ac7653789f4c05faf9c9cfaa2bcd74df6794ddb54bc17beca8e417a745449d"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad63161427de9b2eb8d9977_7d25cfb5.png",
+      "bytes": 137653,
+      "sha256": "a17f02cb5b5cbd9cc9e08dc4a119bb8c2ca4696aad476ea4445c88db5f334a70"
+    },
+    {
+      "path": "corpus/07-signal/images/6ad63199a3a181a6f3c7c894_cd5e39c8.png",
+      "bytes": 246917,
+      "sha256": "6e4116145e5ae8c1d4336b8ba6ec7d98d5c3687d631c2a4bfaa47138a4785dc5"
+    },
+    {
+      "path": "corpus/07-signal/images/6adb1156203c4cd3caa95aa6_929e61fd.png",
+      "bytes": 173554,
+      "sha256": "1feb150c5d4deb5d63a2b559ef1fa96cbf0f60afa1deb49ac30121715a66cb78"
+    },
+    {
+      "path": "corpus/07-signal/images/6adb11909b5c326f4e74be59_7e85302e.png",
+      "bytes": 2235068,
+      "sha256": "9b1f690a549eaad0098d9b4415da2d1611587f82341d8b1214831f79220875bb"
+    },
+    {
+      "path": "corpus/07-signal/images/6adb12a77f8279abadfd3bbb_371066af.png",
+      "bytes": 2517866,
+      "sha256": "829f2fe2d601f85245c43eee1560ea28ffb4620e1b2a2c0849c904578761531b"
+    },
+    {
+      "path": "corpus/07-signal/monitors/2026/the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows.md",
+      "bytes": 6545,
+      "sha256": "5d4bc14881ea8e7f7aab65d1e431346ab85f1c08ed7ba8c52a44677708e165d0"
+    },
+    {
+      "path": "corpus/07-signal/newsroom/2026/market-insights-commodity-freight-watch.md",
+      "bytes": 19045,
+      "sha256": "30ad279bf8485316018c5f4a54c575f206d18f36716ed44866e855a8cc76e492"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
