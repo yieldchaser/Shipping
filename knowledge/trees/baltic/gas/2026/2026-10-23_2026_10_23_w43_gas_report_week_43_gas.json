@@ -1,0 +1,90 @@
+{
+  "node_id": "baltic_gas_2026-10-23_2026_10_23_w43_gas_report_week_43_gas__root",
+  "doc_id": "baltic_gas_2026-10-23_2026_10_23_w43_gas_report_week_43_gas",
+  "parent_id": null,
+  "title": "Gas report - Week 43",
+  "section_path": [
+    "Gas report - Week 43"
+  ],
+  "section_path_text": "Gas report - Week 43",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "LNG\nThe LNG market showed some signs of recovery this week, with increased fixing activity absorbing some of the available tonnage across both basins. Despite this, competition for cargoes remains high and charterers continue to hold negotiating leverage, limiting the extent of upward movement in spot rates. On the BLNG1 Australia-Japan route, rates increased by $4,800 week-on-week to settle at $32,800/day.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe",
+    "us_gulf",
+    "japan",
+    "gas",
+    "day.",
+    "route",
+    "increased"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 478,
+  "source_path": "reports/baltic/gas/2026/2026-10-23_W43_gas-report-week-43_gas.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_gas_2026-10-23_2026_10_23_w43_gas_report_week_43_gas__s01_lng",
+      "doc_id": "baltic_gas_2026-10-23_2026_10_23_w43_gas_report_week_43_gas",
+      "parent_id": "baltic_gas_2026-10-23_2026_10_23_w43_gas_report_week_43_gas__root",
+      "title": "LNG",
+      "section_path": [
+        "LNG"
+      ],
+      "section_path_text": "LNG",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The LNG market showed some signs of recovery this week, with increased fixing activity absorbing some of the available tonnage across both basins. Despite this, competition for cargoes remains high and charterers continue to hold negotiating leverage, limiting the extent of upward movement in spot rates.",
+      "keywords": [
+        "lng",
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe",
+        "us_gulf",
+        "japan",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 266,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_gas_2026-10-23_2026_10_23_w43_gas_report_week_43_gas__s02_lpg",
+      "doc_id": "baltic_gas_2026-10-23_2026_10_23_w43_gas_report_week_43_gas",
+      "parent_id": "baltic_gas_2026-10-23_2026_10_23_w43_gas_report_week_43_gas__root",
+      "title": "LPG",
+      "section_path": [
+        "LPG"
+      ],
+      "section_path_text": "LPG",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The LPG market softened this week as the arbitrage narrowed and the position list lengthened slightly. With more tonnage becoming available, charterers regained some negotiating leverage, although vessel supply remains broadly balanced and sentiment remains firm.",
+      "keywords": [
+        "lpg",
+        "gas",
+        "route",
+        "day.",
+        "tce",
+        "tonne",
+        "arbitrage",
+        "charterers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 206,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

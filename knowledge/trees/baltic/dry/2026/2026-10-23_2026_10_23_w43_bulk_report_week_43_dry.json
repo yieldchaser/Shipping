@@ -1,0 +1,146 @@
+{
+  "node_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry__root",
+  "doc_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry",
+  "parent_id": null,
+  "title": "Bulk report - Week 43",
+  "section_path": [
+    "Bulk report - Week 43"
+  ],
+  "section_path_text": "Bulk report - Week 43",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Capesize\nThe Capesize market recovered steadily through the week, with improving sentiment across both basins lifting the BCI 182 5TC from $30,518 on Monday to $34,380 by Friday. The Pacific led the initial recovery, supported by renewed operator demand, increased miner participation and talk of potential weather-related delays in China. C5 rates advanced from the low $12s to the $14.15-14.25 range by midweek.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1085,
+  "source_path": "reports/baltic/dry/2026/2026-10-23_W43_bulk-report-week-43_dry.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry__s01_capesize",
+      "doc_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry",
+      "parent_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry__root",
+      "title": "Capesize",
+      "section_path": [
+        "Capesize"
+      ],
+      "section_path_text": "Capesize",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Capesize market recovered steadily through the week, with improving sentiment across both basins lifting the BCI 182 5TC from $30,518 on Monday to $34,380 by Friday. The Pacific led the initial recovery, supported by renewed operator demand, increased miner participation and talk of potential weather-related delays in China.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "towards",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 243,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry__s02_panamax_kamsarmax",
+      "doc_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry",
+      "parent_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry__root",
+      "title": "Panamax-Kamsarmax",
+      "section_path": [
+        "Panamax-Kamsarmax"
+      ],
+      "section_path_text": "Panamax-Kamsarmax",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The week was characterised by persistent downward pressure across both basins, with the P5TC declining consistently as the week progressed. The Atlantic remained the weaker region by a significant margin, as limited cargo replenishment, subdued grain and mineral demand, and an oversupply of tonnage continued to favour charterers.",
+      "keywords": [
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe",
+        "india",
+        "singapore",
+        "grain",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 337,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry__s03_ultramax_supramax",
+      "doc_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry",
+      "parent_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry__root",
+      "title": "Ultramax/Supramax",
+      "section_path": [
+        "Ultramax/Supramax"
+      ],
+      "section_path_text": "Ultramax/Supramax",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "A week of rather muted activity, however the index finished the week above last week's close. Rates in the US Gulf softened as new enquiries were insufficient to satisfy a lengthening tonnage list, with rates varying during the week from $34,000 to $31,000 for a 64,000-dwt from US Gulf to the West Mediterranean with grains and longer trips to the Far East below these levels.",
+      "keywords": [
+        "china",
+        "west_africa",
+        "europe",
+        "us_gulf",
+        "grain",
+        "dwt",
+        "fixed",
+        "due"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry__s04_handysize",
+      "doc_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry",
+      "parent_id": "baltic_dry_2026-10-23_2026_10_23_w43_bulk_report_week_43_dry__root",
+      "title": "Handysize",
+      "section_path": [
+        "Handysize"
+      ],
+      "section_path_text": "Handysize",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The market strengthened modestly over the week. The South Atlantic was the strongest region, supported by healthy demand and tight prompt tonnage.",
+      "keywords": [
+        "atlantic",
+        "pacific",
+        "europe",
+        "india",
+        "us_gulf",
+        "was",
+        "dwt",
+        "fixed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
