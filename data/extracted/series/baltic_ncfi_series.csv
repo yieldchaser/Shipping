@@ -2052,3 +2052,7 @@ issue_date,year,week,route,index_current,index_prev,weekly_change_pct,source_fil
 2026-10-16,2026,42,Ningbo - Europe,1542.83,1374.19,12.27,corpus/08-baltic/ningbo/2026/2026-10-16_ningbo-containerised-freight-index-16102_ningbo.html
 2026-10-16,2026,42,Ningbo - Middle East,5235.8,5129.32,2.08,corpus/08-baltic/ningbo/2026/2026-10-16_ningbo-containerised-freight-index-16102_ningbo.html
 2026-10-16,2026,42,Ningbo - West Mediterranean,1920.79,1565.29,22.71,corpus/08-baltic/ningbo/2026/2026-10-16_ningbo-containerised-freight-index-16102_ningbo.html
+2026-10-23,2026,43,Ningbo - East Mediterranean,1473.46,1548.94,-4.87,corpus/08-baltic/ningbo/2026/2026-10-23_ningbo-containerised-freight-index-23102_ningbo.html
+2026-10-23,2026,43,Ningbo - Europe,1516.86,1542.83,-1.68,corpus/08-baltic/ningbo/2026/2026-10-23_ningbo-containerised-freight-index-23102_ningbo.html
+2026-10-23,2026,43,Ningbo - Middle East,5415.75,5235.8,3.44,corpus/08-baltic/ningbo/2026/2026-10-23_ningbo-containerised-freight-index-23102_ningbo.html
+2026-10-23,2026,43,Ningbo - West Mediterranean,1908.61,1920.79,-0.63,corpus/08-baltic/ningbo/2026/2026-10-23_ningbo-containerised-freight-index-23102_ningbo.html
