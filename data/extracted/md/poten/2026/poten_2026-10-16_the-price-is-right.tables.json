@@ -1,0 +1,34 @@
+{
+  "issue_date": "2026-10-16",
+  "year": 2026,
+  "title": "The Price Is Right",
+  "source_file": "corpus/04-poten/pdfs/2026/Weekly Opinion - 16 October 2026 - The Price Is Right.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2026-10-16_the-price-is-right_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2026/poten_2026-10-16_the-price-is-right_chart1.png",
+      "abs_path": "/home/runner/work/Shipping/Shipping/data/extracted/charts/poten/2026/poten_2026-10-16_the-price-is-right_chart1.png",
+      "width": 969,
+      "height": 559
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2026-10-16_the-price-is-right_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2026/poten_2026-10-16_the-price-is-right_chart2.png",
+      "abs_path": "/home/runner/work/Shipping/Shipping/data/extracted/charts/poten/2026/poten_2026-10-16_the-price-is-right_chart2.png",
+      "width": 961,
+      "height": 577
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

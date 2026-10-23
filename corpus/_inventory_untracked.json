@@ -17,8 +17,8 @@
     },
     {
       "path": "corpus/04-poten",
-      "untracked_files": 1085,
-      "untracked_bytes": 290831542
+      "untracked_files": 1087,
+      "untracked_bytes": 291180128
     },
     {
       "path": "corpus/05-seabrokers",
@@ -27,8 +27,8 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 288,
-      "untracked_bytes": 547682493
+      "untracked_files": 294,
+      "untracked_bytes": 553092861
     },
     {
       "path": "corpus/07-signal",
@@ -35088,6 +35088,11 @@
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
     },
     {
+      "path": "corpus/04-poten/2026/poten_2026-10-16_the_price_is_right.md",
+      "bytes": 2328,
+      "sha256": "3f83ee41584433ec9e2766daf4477b6ab1409a72da562226cb97b754c1c3ca46"
+    },
+    {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
       "bytes": 101160,
       "sha256": "e5b57740021416658f4dc257269af8015b08548688b7282c7e12db11fd5c3e99"
@@ -40398,6 +40403,11 @@
       "sha256": "7451dfec3b627ca5f4d473ece35ba63103e739e83fe517ece84fca38b77b5a2e"
     },
     {
+      "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 16 October 2026 - The Price Is Right.pdf",
+      "bytes": 346258,
+      "sha256": "09d0cb229968007506085aec288d6953b6b062b3cd4b0f97e58a4bc71fb426d4"
+    },
+    {
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 17 April 2026 - Energy Dominance In Action.pdf",
       "bytes": 316980,
       "sha256": "67dd4aceb9bb73a203ac48307b7c669f0645f17f4e3b860cc8fcf676c396bd2d"
@@ -40538,6 +40548,11 @@
       "sha256": "26f1465e514f2eff4203c88082b360166a09fa27671f7772e4a9bb2bebdb4c63"
     },
     {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Aframax_Week42_2026.pdf",
+      "bytes": 2072732,
+      "sha256": "efa0edc74ad0fc9fa3a4882fee51c8c5a7a364f2a6711e849eeeb39ab019db8a"
+    },
+    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Suezmax_Week26_2026.pdf",
       "bytes": 2130919,
       "sha256": "1f71c83941cab1c98726db8388360098c5de538823cd9f52b450b3883714a8e4"
@@ -40651,6 +40666,11 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Supramax_Week38_2026.pdf",
       "bytes": 1620630,
       "sha256": "e23b8da22b0de10844cbf537977dca11f939620d84531782921d2b732b406dcc"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Supramax_Week42_2026.pdf",
+      "bytes": 1632162,
+      "sha256": "144e6de4055c8d54ca7d089513f68c8c31a5433ca7e09084dd5d1249bed0309f"
     },
     {
       "path": "corpus/06-drewry/ais/Drewry_AIS_LPG_FR_Week26_2026.pdf",
@@ -41956,6 +41976,26 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week42_2026.pdf",
+      "bytes": 1700442,
+      "sha256": "658fb5e421558aa4037da458ed2418de9fec6c89726b3aa8a16a8d8f8d3f0569"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-10-19_event-update-will-crude-tanker-stocks-sustain-their-momentum.md",
+      "bytes": 1646,
+      "sha256": "46dddd8c5df6e436abbba352e429fa791a480bd848675c9088a8a00e64492512"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-10-22_drewry_wci.md",
+      "bytes": 1399,
+      "sha256": "3b12d5986b29a1329c4de30ea106563b1398b39c44bd59f6c361426f9142ba00"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-10-22_intra-asia-container-market-insight-now-with-improved-navigation-deeper-analysis-and-new-monthly-report.md",
+      "bytes": 1987,
+      "sha256": "a55bbed562de977d4cfbb33f843e626d8e1c33dbb1a8503ea9f6c60dec3c9ba5"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",

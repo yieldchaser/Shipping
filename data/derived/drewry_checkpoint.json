@@ -1,10 +1,10 @@
 {
-  "last_success_date": "2026-10-15",
+  "last_success_date": "2026-10-22",
   "last_values": {
-    "composite_index": 4485.0,
-    "shanghai_la": 7884.0,
-    "shanghai_ny": 10075.0,
-    "shanghai_rotterdam": 3522.0,
-    "shanghai_genoa": 3945.0
+    "composite_index": 4585.0,
+    "shanghai_la": 8007.0,
+    "shanghai_ny": 10166.0,
+    "shanghai_rotterdam": 3632.0,
+    "shanghai_genoa": 4152.0
   }
 }
