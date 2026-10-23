@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__root",
+  "doc_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market",
+  "parent_id": null,
+  "title": "Softening risk appetite weighs on market",
+  "section_path": [
+    "Softening risk appetite weighs on market"
+  ],
+  "section_path_text": "Softening risk appetite weighs on market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nRising attacks in the Middle East pushed the energy sector higher. AI-related stock selloff weighed on risk appetite across the rest of the complex. By Daniel Hynes\nImage reference: Στιγμιότυπο οθόνης 2026-10-23 112248.png | assets/2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa98bb2001a.png\n\nMarket Commentary\nCrude oil pushed higher, as rising hostilities in the Middle East raised concerns of further supply disruptions.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "steel",
+    "gas",
+    "prices",
+    "asset",
+    "attacks"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2173,
+  "source_path": "reports/breakwave/2026/2026-10-23_softening-risk-appetite-weighs-on-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/10/23/softening-risk-appetite-weighs-on-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market",
+      "parent_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Rising attacks in the Middle East pushed the energy sector higher. AI-related stock selloff weighed on risk appetite across the rest of the complex.",
+      "keywords": [
+        "ai-related",
+        "appetite",
+        "assets/2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa98bb2001a.png",
+        "attacks",
+        "complex.",
+        "daniel",
+        "east",
+        "energy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__s02_market_commentary",
+      "doc_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market",
+      "parent_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__root",
+      "title": "Market Commentary",
+      "section_path": [
+        "Market Commentary"
+      ],
+      "section_path_text": "Market Commentary",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Crude oil pushed higher, as rising hostilities in the Middle East raised concerns of further supply disruptions. A drone attack on Saudi Aramco's Shaybah field killed two people, as the Yemen-based Houthis continue attacks on the kingdom.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "crude_oil",
+        "gas",
+        "attacks",
+        "prices",
+        "copper"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 656,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__s03_chart_of_the_day",
+      "doc_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market",
+      "parent_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__root",
+      "title": "Chart of the Day",
+      "section_path": [
+        "Chart of the Day"
+      ],
+      "section_path_text": "Chart of the Day",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The start of the winter heating season in Europe typically sees withdrawals from storage facilities ramp up sharply. The higher than normal temperatures so far have delayed the start to sizeable draws.",
+      "keywords": [
+        "europe",
+        "normal",
+        "start",
+        "storage",
+        "temperatures",
+        "winter",
+        "assets/2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0e6c45001cf.png",
+        "close"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 150,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__s04_linked_asset_2026_10_23_softening_risk_appetite_weighs_on_market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa98bb2001a_png",
+      "doc_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market",
+      "parent_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__root",
+      "title": "Linked asset: 2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa98bb2001a.png",
+      "section_path": [
+        "Linked asset: 2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa98bb2001a.png"
+      ],
+      "section_path_text": "Linked asset: 2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa98bb2001a.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa98bb2001a.png\n\nLinked image asset: 2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa98bb2001a.png\n\nImage metadata: PNG 877x601 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\n[structured table]\n| | Last unit day (% chg) | |\n|---|---|---|\n| LME Base Metals | i | ee eet |\n| Copper | | |\n| ‘Aluminium | 3,009.5 \\| Fen | |\n| Nickel | 16,120.0 | |\n| Zine | 3,671.0 | |\n| Lead | 1,897.5 usor = | |\n| Tin | 50,089.0 | |\n| Steel Making Raw Materials | | |\n| Iron ore | 90.0 usort ORS | - _ |\n| Coking coal | 266.0 _uso/t | |\n| Precious Metals | | ea |\n| Gold $/oz | 4,042.8 | |\n| silver | 54.6 a | |\n| Platinum | 1,568.5. | |\n| Palladium | 1,054.0 | |\n| Enersy | | |\n| WTT crude | 99.5 setae | |\n| Brent crude oil | 113.1 | |\n| North Asia LNG | 30.6 | |\n| Thermal coal | | |\n| carbon | | |\n| | | Je |\n| EUA | 86.5 | |\n| ACCU | 37.8 - | |\n| NZ | 57.1 | |\n| Prices and | commentary accurate as of 07:00 Sydney/05:00 | Singapore/17:00(- 1d) |\n| New York/22:00(- | 1d) London.",
+      "keywords": [
+        "lng",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "steel",
+        "gas",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 837,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__s05_linked_asset_2026_10_23_softening_risk_appetite_weighs_on_market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0e6c45001cf_png",
+      "doc_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market",
+      "parent_id": "breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__root",
+      "title": "Linked asset: 2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0e6c45001cf.png",
+      "section_path": [
+        "Linked asset: 2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0e6c45001cf.png"
+      ],
+      "section_path_text": "Linked asset: 2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0e6c45001cf.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0e6c45001cf.png\n\nLinked image asset: 2026-10-23_softening-risk-appetite-weighs-on-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0e6c45001cf.png\n\nImage metadata: PNG 857x457 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nChart: European gas withdrawals from storage facilities\n10000\n9000\n8000\n7000 h\n~\ns 6000 AN}\n= 1\n= 5000} \\\n© 4000 \\ i \\ A W42.590\n3000 | )\n2000 BED) AY\nt000 On _ Nw toct fpr Xe\nW1 W4 W7 W10W13W16W19W22W25W28W31 W34W37 W40W43 W46W49 W52\n-2026 - 2025 -2024 - 2023 -2022 -2021 -2020 - 2019\nSource: , Bloomberg, Macrobond, ANZ Research",
+      "keywords": [
+        "europe",
+        "gas",
+        "asset",
+        "image",
+        "source",
+        "anz",
+        "bed",
+        "bloomberg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 298,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

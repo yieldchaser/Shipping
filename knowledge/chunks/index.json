@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-22T14:50:09Z",
+ "generated_at": "2026-10-23T14:19:49Z",
  "compiler_version": 2,
- "count": 105,
+ "count": 106,
  "files": [
   {
    "file": "baltic_container.jsonl",
@@ -57,7 +57,7 @@
    "path": "knowledge/chunks/baltic_ningbo_2026.jsonl",
    "stem": "baltic_ningbo_2026",
    "year": 2026,
-   "bytes": 202426
+   "bytes": 205100
   },
   {
    "file": "baltic_tanker.jsonl",
@@ -134,7 +134,7 @@
    "path": "knowledge/chunks/breakwave_insights_insights_2026.jsonl",
    "stem": "breakwave_insights_insights_2026",
    "year": 2026,
-   "bytes": 4738739
+   "bytes": 4776458
   },
   {
    "file": "breakwave_tankers.jsonl",
@@ -386,7 +386,7 @@
    "path": "knowledge/chunks/hellenic_iron_ore_2026.jsonl",
    "stem": "hellenic_iron_ore_2026",
    "year": 2026,
-   "bytes": 15944302
+   "bytes": 15979793
   },
   {
    "file": "hellenic_shipbuilding.jsonl",
@@ -506,6 +506,13 @@
    "stem": "hellenic_vessel_valuations",
    "year": null,
    "bytes": 0
+  },
+  {
+   "file": "hellenic_vessel_valuations_0000.jsonl",
+   "path": "knowledge/chunks/hellenic_vessel_valuations_0000.jsonl",
+   "stem": "hellenic_vessel_valuations_0000",
+   "year": 0,
+   "bytes": 1295
   },
   {
    "file": "hellenic_vessel_valuations_2014.jsonl",

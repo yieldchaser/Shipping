@@ -1,0 +1,55 @@
+{
+  "node_id": "hellenic_vessel_valuations_0000-00-00_0000_00_00_black_carbon_scrubbers_the_arctic_clean_arctic_alliance_briefing_for_imo_ppr_12__root",
+  "doc_id": "hellenic_vessel_valuations_0000-00-00_0000_00_00_black_carbon_scrubbers_the_arctic_clean_arctic_alliance_briefing_for_imo_ppr_12",
+  "parent_id": null,
+  "title": "502 Bad Gateway",
+  "section_path": [
+    "502 Bad Gateway"
+  ],
+  "section_path_text": "502 Bad Gateway",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nContent not extracted - visit original URL.",
+  "keywords": [
+    "content",
+    "extracted",
+    "main",
+    "not",
+    "original",
+    "url.",
+    "visit"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 10,
+  "source_path": "reports/hellenic/vessel_valuations/unknown/0000-00-00_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12.html",
+  "source_url": "https://www.hellenicshippingnews.com/black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12-shipping-meeting",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_0000-00-00_0000_00_00_black_carbon_scrubbers_the_arctic_clean_arctic_alliance_briefing_for_imo_ppr_12__s01_main",
+      "doc_id": "hellenic_vessel_valuations_0000-00-00_0000_00_00_black_carbon_scrubbers_the_arctic_clean_arctic_alliance_briefing_for_imo_ppr_12",
+      "parent_id": "hellenic_vessel_valuations_0000-00-00_0000_00_00_black_carbon_scrubbers_the_arctic_clean_arctic_alliance_briefing_for_imo_ppr_12__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Content not extracted - visit original URL.",
+      "keywords": [
+        "content",
+        "extracted",
+        "not",
+        "original",
+        "url.",
+        "visit"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
