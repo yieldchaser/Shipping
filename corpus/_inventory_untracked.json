@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2942,
-      "untracked_bytes": 2297431587
+      "untracked_files": 2943,
+      "untracked_bytes": 2297590892
     },
     {
       "path": "corpus/02-hellenic",
@@ -17,8 +17,8 @@
     },
     {
       "path": "corpus/04-poten",
-      "untracked_files": 1087,
-      "untracked_bytes": 291180128
+      "untracked_files": 1085,
+      "untracked_bytes": 290831542
     },
     {
       "path": "corpus/05-seabrokers",
@@ -27,18 +27,13 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 294,
-      "untracked_bytes": 553092861
+      "untracked_files": 288,
+      "untracked_bytes": 547682493
     },
     {
       "path": "corpus/07-signal",
       "untracked_files": 298,
       "untracked_bytes": 174706385
-    },
-    {
-      "path": "corpus/08-baltic",
-      "untracked_files": 8,
-      "untracked_bytes": 36245
     },
     {
       "path": "corpus/09-ppa",
@@ -7656,6 +7651,11 @@
       "path": "corpus/01-brokers/gibson/2023/gibson_2023_Gibson-Shipbrokers_week-34.pdf",
       "bytes": 960664,
       "sha256": "98705825d2fed4e4dd41bb9f492a44d129f8eb0333a3d62047701191060f5f7e"
+    },
+    {
+      "path": "corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html",
+      "bytes": 159305,
+      "sha256": "ea10738d2b9281fa0e8fd1dfbe2227d620321b0fd666afb0e6b1083298e24ebd"
     },
     {
       "path": "corpus/01-brokers/intermodal/2021/intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf",
@@ -35093,11 +35093,6 @@
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
     },
     {
-      "path": "corpus/04-poten/2026/poten_2026-10-16_the_price_is_right.md",
-      "bytes": 2328,
-      "sha256": "3f83ee41584433ec9e2766daf4477b6ab1409a72da562226cb97b754c1c3ca46"
-    },
-    {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
       "bytes": 101160,
       "sha256": "e5b57740021416658f4dc257269af8015b08548688b7282c7e12db11fd5c3e99"
@@ -40408,11 +40403,6 @@
       "sha256": "7451dfec3b627ca5f4d473ece35ba63103e739e83fe517ece84fca38b77b5a2e"
     },
     {
-      "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 16 October 2026 - The Price Is Right.pdf",
-      "bytes": 346258,
-      "sha256": "09d0cb229968007506085aec288d6953b6b062b3cd4b0f97e58a4bc71fb426d4"
-    },
-    {
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 17 April 2026 - Energy Dominance In Action.pdf",
       "bytes": 316980,
       "sha256": "67dd4aceb9bb73a203ac48307b7c669f0645f17f4e3b860cc8fcf676c396bd2d"
@@ -40553,11 +40543,6 @@
       "sha256": "26f1465e514f2eff4203c88082b360166a09fa27671f7772e4a9bb2bebdb4c63"
     },
     {
-      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Aframax_Week42_2026.pdf",
-      "bytes": 2072732,
-      "sha256": "efa0edc74ad0fc9fa3a4882fee51c8c5a7a364f2a6711e849eeeb39ab019db8a"
-    },
-    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Suezmax_Week26_2026.pdf",
       "bytes": 2130919,
       "sha256": "1f71c83941cab1c98726db8388360098c5de538823cd9f52b450b3883714a8e4"
@@ -40671,11 +40656,6 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Supramax_Week38_2026.pdf",
       "bytes": 1620630,
       "sha256": "e23b8da22b0de10844cbf537977dca11f939620d84531782921d2b732b406dcc"
-    },
-    {
-      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Supramax_Week42_2026.pdf",
-      "bytes": 1632162,
-      "sha256": "144e6de4055c8d54ca7d089513f68c8c31a5433ca7e09084dd5d1249bed0309f"
     },
     {
       "path": "corpus/06-drewry/ais/Drewry_AIS_LPG_FR_Week26_2026.pdf",
@@ -41981,26 +41961,6 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
-    },
-    {
-      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week42_2026.pdf",
-      "bytes": 1700442,
-      "sha256": "658fb5e421558aa4037da458ed2418de9fec6c89726b3aa8a16a8d8f8d3f0569"
-    },
-    {
-      "path": "corpus/06-drewry/opinions/2026/2026-10-19_event-update-will-crude-tanker-stocks-sustain-their-momentum.md",
-      "bytes": 1646,
-      "sha256": "46dddd8c5df6e436abbba352e429fa791a480bd848675c9088a8a00e64492512"
-    },
-    {
-      "path": "corpus/06-drewry/opinions/2026/2026-10-22_drewry_wci.md",
-      "bytes": 1399,
-      "sha256": "3b12d5986b29a1329c4de30ea106563b1398b39c44bd59f6c361426f9142ba00"
-    },
-    {
-      "path": "corpus/06-drewry/opinions/2026/2026-10-22_intra-asia-container-market-insight-now-with-improved-navigation-deeper-analysis-and-new-monthly-report.md",
-      "bytes": 1987,
-      "sha256": "a55bbed562de977d4cfbb33f843e626d8e1c33dbb1a8503ea9f6c60dec3c9ba5"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
@@ -43491,46 +43451,6 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
-    },
-    {
-      "path": "corpus/08-baltic/container/2026/2026-10-23_W43_container-report-week-43_container.html",
-      "bytes": 2879,
-      "sha256": "f12a169bf1e01d1a3c892b75128075d73f52791eff51c6eaa931d156161642ff"
-    },
-    {
-      "path": "corpus/08-baltic/container/2026/2026-10-23_W43_container-report-week-43_container.md",
-      "bytes": 1786,
-      "sha256": "977faf7baa2172a539d805e35f80dd35c8463a4580edc5fc69fd5cb262f8e429"
-    },
-    {
-      "path": "corpus/08-baltic/dry/2026/2026-10-23_W43_bulk-report-week-43_dry.html",
-      "bytes": 6940,
-      "sha256": "7935cc2f2a415d4f41ea8dff53df0591a4f6af0ee282c389d6e65489a495ef29"
-    },
-    {
-      "path": "corpus/08-baltic/dry/2026/2026-10-23_W43_bulk-report-week-43_dry.md",
-      "bytes": 5854,
-      "sha256": "daade5a362f35e64c8bea0a0bad2718a0c56b6b8bb18bef35b21f317f8070989"
-    },
-    {
-      "path": "corpus/08-baltic/gas/2026/2026-10-23_W43_gas-report-week-43_gas.html",
-      "bytes": 4176,
-      "sha256": "ebfb2cc55709d191fe9ca68f87a23da8f390f12b66f3d593c0adb70e41a8cbdd"
-    },
-    {
-      "path": "corpus/08-baltic/gas/2026/2026-10-23_W43_gas-report-week-43_gas.md",
-      "bytes": 3018,
-      "sha256": "b99bb4240120e51fe9d5b43c37467f858bb90f08065d13a9efdcaa414a2a03bb"
-    },
-    {
-      "path": "corpus/08-baltic/tanker/2026/2026-10-23_W43_tanker-report-week-43_tanker.html",
-      "bytes": 6382,
-      "sha256": "65d55ad4c4d7a12854257e0280bc32ac3edadfacfc2c7610f338649a78de2a2b"
-    },
-    {
-      "path": "corpus/08-baltic/tanker/2026/2026-10-23_W43_tanker-report-week-43_tanker.md",
-      "bytes": 5210,
-      "sha256": "262bb15a2d62f905dd7d8591ea457f0cf6626767b1cfbe530abc9af044fb1d66"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",

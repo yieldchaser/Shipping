@@ -1031,3 +1031,7 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2026-10-16,42,Rotterdam,LSMGO,47.0,1375.0,1328.0,1505.0,corpus/01-brokers/gibson/html/2026/2026-10-16_clean-slate.html
 2026-10-16,42,Rotterdam,VLSFO,34.0,733.0,699.0,724.0,corpus/01-brokers/gibson/html/2026/2026-10-16_clean-slate.html
 2026-10-16,42,Singapore,VLSFO,23.0,903.0,881.0,903.0,corpus/01-brokers/gibson/html/2026/2026-10-16_clean-slate.html
+2026-10-23,43,Fujairah,VLSFO,-10.0,967.0,978.0,972.0,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Rotterdam,LSMGO,26.0,1401.0,1375.0,1393.0,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Rotterdam,VLSFO,14.0,747.0,733.0,674.0,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Singapore,VLSFO,23.0,926.0,903.0,847.0,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html

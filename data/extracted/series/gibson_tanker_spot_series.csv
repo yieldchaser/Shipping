@@ -3611,3 +3611,17 @@ issue_date,report_week,category,market_type,route_code,vessel_class,route_descri
 2026-10-16,42,Dirty Tanker Spot,Spot Worldscale,TD20,Suezmax,Suezmax WAF-UKC,-61.0,920.0,981.0,454.0,666.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-16_clean-slate.html
 2026-10-16,42,Dirty Tanker Spot,Spot Worldscale,TD25,Aframax,Aframax USG-UKC,-200.0,756.0,956.0,459.0,631.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-16_clean-slate.html
 2026-10-16,42,Dirty Tanker Spot,Spot Worldscale,TD3C,VLCC,VLCC AG-China,-38.0,1281.0,1319.0,1140.0,1138.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-16_clean-slate.html
+2026-10-23,43,Clean Tanker Spot,$/day TCE,TC1,LR2,LR2 AG-Japan,29000.0,329250.0,300250.0,265000.0,,,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Clean Tanker Spot,$/day TCE,TC18,MR,MR USG-Brazil,-2000.0,62000.0,64000.0,35250.0,42750.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Clean Tanker Spot,$/day TCE,TC5,LR1,LR1 AG-Japan,29500.0,244750.0,215250.0,194250.0,190250.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Clean Tanker Spot,$/day TCE,TC7,MR,MR Singapore-EC Aus,6000.0,78250.0,72250.0,60000.0,51750.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Clean Tanker Spot,Spot Worldscale,TC1,LR2,LR2 AG-Japan,89.0,1075.0,986.0,876.0,,,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Clean Tanker Spot,Spot Worldscale,TC18,MR,MR USG-Brazil,-7.0,453.0,460.0,299.0,366.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Clean Tanker Spot,Spot Worldscale,TC5,LR1,LR1 AG-Japan,123.0,1105.0,982.0,890.0,900.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Clean Tanker Spot,Spot Worldscale,TC7,MR,MR Singapore-EC Aus,39.0,589.0,550.0,473.0,444.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Dirty Tanker Spot,$/day TCE,TD20,Suezmax,Suezmax WAF-UKC,-121500.0,429250.0,550750.0,242000.0,366000.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Dirty Tanker Spot,$/day TCE,TD25,Aframax,Aframax USG-UKC,-39750.0,209250.0,249000.0,175250.0,230500.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Dirty Tanker Spot,$/day TCE,TD3C,VLCC,VLCC AG-China,-86250.0,1347500.0,1433750.0,1292500.0,1222750.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Dirty Tanker Spot,Spot Worldscale,TD20,Suezmax,Suezmax WAF-UKC,-189.0,731.0,920.0,435.0,646.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Dirty Tanker Spot,Spot Worldscale,TD25,Aframax,Aframax USG-UKC,-104.0,652.0,756.0,558.0,728.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-23,43,Dirty Tanker Spot,Spot Worldscale,TD3C,VLCC,VLCC AG-China,-73.0,1208.0,1281.0,1158.0,1109.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
