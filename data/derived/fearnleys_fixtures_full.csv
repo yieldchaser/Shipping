@@ -575314,3 +575314,11 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 872373,2026-10-24,Anheuser-busch Inbev,,,,,,,Panamax,BULK,Malt,,,,NO COMMINGLED CARGO - ABOUT 62 SF
 872374,2026-10-24,,,,,,,,Panamax,BULK,Clinker,,,,GRD vessel with Grabs on board; Vessel geared at both port of loading and port of discharge
 872375,2026-10-24,,EDOLENA SHIPPING,PIANA,,,,,Panamax,BULK,,,,,"French Flag Ropax Ferry, currently trading in the Mediterranean; late 2026 may be considered"
+872376,2026-10-24,,AN HAI,AN HAI PEARL,,,short period,,Supramax,BULK,,,,,
+872377,2026-10-24,,AN HAI,AN HAI CONFIDENCE,,,short period,,Handymax,BULK,,,,,REVERTING
+872378,2026-10-24,,AN HAI,AN HAI STAR,,,SHORT TC,,Handysize,BULK,,,,,REVERTING; TRADING FAR EAST TO INDIA/ PG(AFTER WAR)/ EAST AFRICA - EXCLUDE RUSSIA/ N.KOREA/ IRAN/IRAQ/RED SEA/HR
+872379,2026-10-24,,,BD PIONEER 1,,,,,Handysize,BULK,,,,,TC OUT/ REVERTING DATE OPEN
+872380,2026-10-24,,,,,,,,Panamax,BULK,,,,,grd+grab; need named/rated vsl to fix
+872381,2026-10-24,,,,,,,,Panamax,BULK,Bulk,,,,need named/rated vsl to fix
+872382,2026-10-24,,,,,,,,Panamax,BULK,,,,,grd+grab
+872383,2026-10-24,,,,,,,,Panamax,BULK,Bulk,,,,need named/rated vsl to fix
