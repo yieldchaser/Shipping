@@ -1,0 +1,457 @@
+{
+  "convention": "iso",
+  "pages": 2,
+  "junk_pages": [
+    1
+  ],
+  "typed_confidence": "best-effort: card rows are exact geometry; see docs/affinity_survey.md",
+  "cards": [
+    {
+      "name": "BCTI / BDTI",
+      "columns": [
+        "metric",
+        "value",
+        "delta"
+      ],
+      "rows": [
+        [
+          "BDTI",
+          7171.0,
+          "↓Softer"
+        ],
+        [
+          "BCTI",
+          3014.0,
+          "↑Firmer"
+        ]
+      ],
+      "error": null,
+      "issue_date": "2026-10-23",
+      "report_week": 43,
+      "source_file": "affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.pdf"
+    },
+    {
+      "name": "BDA",
+      "columns": [
+        "metric",
+        "value",
+        "delta"
+      ],
+      "rows": [
+        [
+          "TKR/LRG",
+          507.3,
+          1.7
+        ],
+        [
+          "TKR/MED",
+          515.6,
+          1.7
+        ],
+        [
+          "TKR/SML",
+          518.9,
+          2.4
+        ]
+      ],
+      "error": null,
+      "issue_date": "2026-10-23",
+      "report_week": 43,
+      "source_file": "affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.pdf"
+    },
+    {
+      "name": "BALTIC TCE DIRTY",
+      "columns": [
+        "Route",
+        "Description",
+        "Qty",
+        "Value",
+        "W-O-W"
+      ],
+      "rows": [
+        [
+          "TD3C",
+          "ME Gulf / China",
+          "270,000",
+          "1,294,761",
+          "↓Softer"
+        ],
+        [
+          "TD7",
+          "UKC / UKC",
+          "80,000",
+          "485,769",
+          "↑Firmer"
+        ],
+        [
+          "TD15",
+          "WAF / China",
+          "260,000",
+          "545,996",
+          "↓Softer"
+        ],
+        [
+          "TD19",
+          "Med / Med",
+          "80,000",
+          "400,273",
+          "↑Firmer"
+        ],
+        [
+          "TD20",
+          "WAF / Cont",
+          "130,000",
+          "404,691",
+          "↓Softer"
+        ],
+        [
+          "TD22",
+          "USG / China",
+          "270,000",
+          "443,298",
+          "↓Softer"
+        ],
+        [
+          "TD25",
+          "USG / Cont",
+          "70,000",
+          "225,829",
+          "↑Firmer"
+        ],
+        [
+          "TD26",
+          "EC Mex / USG",
+          "70,000",
+          "250,528",
+          "↑Firmer"
+        ],
+        [
+          "TD27",
+          "Guyana / UKC",
+          "130,000",
+          "416,875",
+          "↓Softer"
+        ]
+      ],
+      "error": null,
+      "issue_date": "2026-10-23",
+      "report_week": 43,
+      "source_file": "affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.pdf"
+    },
+    {
+      "name": "BALTIC TCE CLEAN",
+      "columns": [
+        "Route",
+        "Description",
+        "Qty",
+        "Value",
+        "W-O-W"
+      ],
+      "rows": [
+        [
+          "TC1",
+          "ME Gulf / Japan",
+          "75,000",
+          "321,900",
+          "↑Firmer"
+        ],
+        [
+          "TC2",
+          "Cont / USAC",
+          "37,000",
+          "17,647",
+          "↑Firmer"
+        ],
+        [
+          "TC5",
+          "ME Gulf / Japan",
+          "55,000",
+          "232,035",
+          "↑Firmer"
+        ],
+        [
+          "TC6",
+          "Algeria / EU Med",
+          "30,000",
+          "110,537",
+          "↑Firmer"
+        ],
+        [
+          "TC7",
+          "Sing. / ECA",
+          "30,000",
+          "72,545",
+          "↑Firmer"
+        ],
+        [
+          "TC8",
+          "ME Gulf / UKC",
+          "65,000",
+          "250,792",
+          "↑Firmer"
+        ],
+        [
+          "TC14",
+          "USG / UKC",
+          "38,000",
+          "64,247",
+          "↑Firmer"
+        ],
+        [
+          "TC17",
+          "ME Gulf / EAFR",
+          "35,000",
+          "113,387",
+          "↑Firmer"
+        ],
+        [
+          "TC20",
+          "ME Gulf / UKC",
+          "90,000",
+          "341,933",
+          "↑Firmer"
+        ],
+        [
+          "TC21",
+          "USG / Caribs",
+          "38,000",
+          "64,418",
+          "↑Firmer"
+        ]
+      ],
+      "error": null,
+      "issue_date": "2026-10-23",
+      "report_week": 43,
+      "source_file": "affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.pdf"
+    }
+  ],
+  "typed": {
+    "BCTI / BDTI": {
+      "date": "16/10/2026",
+      "bdti": 7171.0,
+      "bcti": 3014.0,
+      "arrows": [
+        "↓Softer",
+        "↑Firmer"
+      ]
+    },
+    "BDA": {
+      "metrics": [
+        "TKR/LRG",
+        "TKR/MED",
+        "TKR/SML"
+      ],
+      "values": [
+        507.3,
+        515.6,
+        518.9
+      ],
+      "deltas": [
+        1.7,
+        1.7,
+        2.4
+      ]
+    },
+    "BALTIC TCE DIRTY": [
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD3C",
+        "description": "ME Gulf / China",
+        "qty_dwt": 270000.0,
+        "value": 1294761.0,
+        "value_raw": "1,294,761",
+        "unit": "USD/day",
+        "wow": "↓Softer"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD7",
+        "description": "UKC / UKC",
+        "qty_dwt": 80000.0,
+        "value": 485769.0,
+        "value_raw": "485,769",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD15",
+        "description": "WAF / China",
+        "qty_dwt": 260000.0,
+        "value": 545996.0,
+        "value_raw": "545,996",
+        "unit": "USD/day",
+        "wow": "↓Softer"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD19",
+        "description": "Med / Med",
+        "qty_dwt": 80000.0,
+        "value": 400273.0,
+        "value_raw": "400,273",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD20",
+        "description": "WAF / Cont",
+        "qty_dwt": 130000.0,
+        "value": 404691.0,
+        "value_raw": "404,691",
+        "unit": "USD/day",
+        "wow": "↓Softer"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD22",
+        "description": "USG / China",
+        "qty_dwt": 270000.0,
+        "value": 443298.0,
+        "value_raw": "443,298",
+        "unit": "USD/day",
+        "wow": "↓Softer"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD25",
+        "description": "USG / Cont",
+        "qty_dwt": 70000.0,
+        "value": 225829.0,
+        "value_raw": "225,829",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD26",
+        "description": "EC Mex / USG",
+        "qty_dwt": 70000.0,
+        "value": 250528.0,
+        "value_raw": "250,528",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD27",
+        "description": "Guyana / UKC",
+        "qty_dwt": 130000.0,
+        "value": 416875.0,
+        "value_raw": "416,875",
+        "unit": "USD/day",
+        "wow": "↓Softer"
+      }
+    ],
+    "BALTIC TCE CLEAN": [
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC1",
+        "description": "ME Gulf / Japan",
+        "qty_dwt": 75000.0,
+        "value": 321900.0,
+        "value_raw": "321,900",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC2",
+        "description": "Cont / USAC",
+        "qty_dwt": 37000.0,
+        "value": 17647.0,
+        "value_raw": "17,647",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC5",
+        "description": "ME Gulf / Japan",
+        "qty_dwt": 55000.0,
+        "value": 232035.0,
+        "value_raw": "232,035",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC6",
+        "description": "Algeria / EU Med",
+        "qty_dwt": 30000.0,
+        "value": 110537.0,
+        "value_raw": "110,537",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC7",
+        "description": "Sing. / ECA",
+        "qty_dwt": 30000.0,
+        "value": 72545.0,
+        "value_raw": "72,545",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC8",
+        "description": "ME Gulf / UKC",
+        "qty_dwt": 65000.0,
+        "value": 250792.0,
+        "value_raw": "250,792",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC14",
+        "description": "USG / UKC",
+        "qty_dwt": 38000.0,
+        "value": 64247.0,
+        "value_raw": "64,247",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC17",
+        "description": "ME Gulf / EAFR",
+        "qty_dwt": 35000.0,
+        "value": 113387.0,
+        "value_raw": "113,387",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC20",
+        "description": "ME Gulf / UKC",
+        "qty_dwt": 90000.0,
+        "value": 341933.0,
+        "value_raw": "341,933",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC21",
+        "description": "USG / Caribs",
+        "qty_dwt": 38000.0,
+        "value": 64418.0,
+        "value_raw": "64,418",
+        "unit": "USD/day",
+        "wow": "↑Firmer"
+      }
+    ]
+  },
+  "text_verified": 1.0,
+  "panel_values": 48,
+  "date_fragments_merged": [
+    "6",
+    "6"
+  ],
+  "missing_values": []
+}

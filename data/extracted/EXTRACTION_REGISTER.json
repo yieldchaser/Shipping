@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 21:38:09Z",
+  "updated_at": "2026-10-24 12:26:43Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -771,7 +771,7 @@
     {
       "file": "affinity_bda_series.csv",
       "target_metric": "Baltic Demolition Assessments ($/LDT)",
-      "rows": 750,
+      "rows": 753,
       "columns": [
         "issue_date",
         "report_week",
@@ -799,7 +799,7 @@
     {
       "file": "affinity_tce_series.csv",
       "target_metric": "Baltic TCE Dirty & Clean route earnings ($/day)",
-      "rows": 4077,
+      "rows": 4096,
       "columns": [
         "issue_date",
         "report_week",
@@ -3012,7 +3012,7 @@
     {
       "file": "lion_deals_series.csv",
       "target_metric": "Secondhand sales transactions & demo deals",
-      "rows": 1342,
+      "rows": 1369,
       "columns": [
         "issue_date",
         "report_week",
@@ -3042,7 +3042,7 @@
     {
       "file": "lion_demo_sales_series.csv",
       "target_metric": "Reported demolition scrap sales fixtures ($/LDT)",
-      "rows": 110,
+      "rows": 114,
       "columns": [
         "issue_date",
         "report_week",
@@ -3085,7 +3085,7 @@
     {
       "file": "lion_demometer_series.csv",
       "target_metric": "Lion's Demometer sentiment & price indices ($/LDT)",
-      "rows": 588,
+      "rows": 600,
       "columns": [
         "issue_date",
         "report_week",
@@ -3102,7 +3102,7 @@
     {
       "file": "lion_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 1232,
+      "rows": 1255,
       "columns": [
         "issue_date",
         "report_week",
@@ -3877,22 +3877,22 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 697163,
+  "total_master_stacked_rows": 697251,
   "total_master_series_csvs": 162,
-  "total_stacked_rows": 697163,
+  "total_stacked_rows": 697251,
   "total_series_csvs": 162,
   "total_master_workbooks": 1,
   "total_series_count": 162,
-  "total_rows_extracted": 697468,
+  "total_rows_extracted": 697556,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 606,
     "advanced_shipping_demolition_series.csv": 2024,
     "advanced_shipping_newbuilding_series.csv": 1922,
     "advanced_shipping_sales_series.csv": 6857,
     "advanced_shipping_secondhand_matrix_series.csv": 8157,
-    "affinity_bda_series.csv": 750,
+    "affinity_bda_series.csv": 753,
     "affinity_indices_series.csv": 496,
-    "affinity_tce_series.csv": 4077,
+    "affinity_tce_series.csv": 4096,
     "agora_indicators_series.csv": 10002,
     "athenian_historical_demolition_prices_series.csv": 240,
     "athenian_indicative_demolition_series.csv": 3076,
@@ -4002,11 +4002,11 @@
     "intermodal_tc_rates_series.csv": 5273,
     "ism_coaster_freight_series.csv": 12491,
     "ism_handy_freight_series.csv": 17851,
-    "lion_deals_series.csv": 1342,
-    "lion_demo_sales_series.csv": 110,
+    "lion_deals_series.csv": 1369,
+    "lion_demo_sales_series.csv": 114,
     "lion_demolition_series.csv": 516,
-    "lion_demometer_series.csv": 588,
-    "lion_sales_series.csv": 1232,
+    "lion_demometer_series.csv": 600,
+    "lion_sales_series.csv": 1255,
     "poten_fixtures_series.csv": 100,
     "poten_fleet_delivery_schedule_series.csv": 36,
     "poten_fleet_statistics_series.csv": 8,

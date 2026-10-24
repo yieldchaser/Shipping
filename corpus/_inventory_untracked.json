@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2942,
-      "untracked_bytes": 2297431587
+      "untracked_files": 2951,
+      "untracked_bytes": 2299876502
     },
     {
       "path": "corpus/02-hellenic",
@@ -32,8 +32,8 @@
     },
     {
       "path": "corpus/07-signal",
-      "untracked_files": 308,
-      "untracked_bytes": 180728501
+      "untracked_files": 298,
+      "untracked_bytes": 174706385
     },
     {
       "path": "corpus/09-ppa",
@@ -47,6 +47,31 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/affinity/2026/affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.md",
+      "bytes": 12666,
+      "sha256": "af9e77e982587e9c629404d2c23638b055dd4bd59a69403ef4a4677d5cc4f331"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/agora/2026/agora_23_10_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md",
+      "bytes": 10215,
+      "sha256": "8acd910af912cc9f131c35dd412bd770b46d10d7aedbe4dd5d3d699d66565e6f"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/clarksons/2026/clarksons_23_10_2026_clarksons_hellas_snp_weekly.md",
+      "bytes": 8226,
+      "sha256": "2a0067cdaba53a0be32ea02b2f8248221af27aa2a25ec1560089bdd023526407"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/gibson/2026/gibson_24_10_2026_gibson_tanker_report_diesel_drones_and_donald.md",
+      "bytes": 796,
+      "sha256": "bf426cf5765ef085ffedcaa75f479253a23be77b8755b72c91c74dbfea694459"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/lion/2026/lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026.md",
+      "bytes": 12330,
+      "sha256": "819a39d7f4bc721209f1f8c1a75df25df3414a083027e5901ef8fc287ce506d3"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -2598,6 +2623,11 @@
       "sha256": "89056739c28ff76e1d96d6f7fb22faca502e20e9d52295a4ae3e9c7fc6850435"
     },
     {
+      "path": "corpus/01-brokers/affinity/2026/affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.pdf",
+      "bytes": 276657,
+      "sha256": "f86f10a1f43a5951abd911b6b7fee80d51ae0c653e7a6b6d42959b7a85619e0b"
+    },
+    {
       "path": "corpus/01-brokers/affinity/2026/affinity_26_09_2026_affinity_tanker_weekly_25_september_2026.pdf",
       "bytes": 273401,
       "sha256": "8a67890265f1ebe52080804ede7fa77ceb875c633ac51a542c1da65010fae052"
@@ -3691,6 +3721,11 @@
       "path": "corpus/01-brokers/agora/2026/agora_2026_w14.pdf",
       "bytes": 1034068,
       "sha256": "a0a6a4c4e727878f6787e1d7181285765941878a8356dc556961df2bb2f24c23"
+    },
+    {
+      "path": "corpus/01-brokers/agora/2026/agora_23_10_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.pdf",
+      "bytes": 1042216,
+      "sha256": "66bba75a5b0444898f5a28dd9db9b33ef39c7768e3d8d304738e12aab8045980"
     },
     {
       "path": "corpus/01-brokers/agora/2026/agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.pdf",
@@ -5666,6 +5701,11 @@
       "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-7th-August-2026.pdf",
       "bytes": 186084,
       "sha256": "ae4069231c5ba43de6b80c9312ef4d52770ecf74060768b1e66890a9067dbfd7"
+    },
+    {
+      "path": "corpus/01-brokers/clarksons/2026/clarksons_23_10_2026_clarksons_hellas_snp_weekly.pdf",
+      "bytes": 209959,
+      "sha256": "734d9d135e2deffd84e535558c5584aafe4b8cc2942c7aa3d4bbe5cb4d21a1f0"
     },
     {
       "path": "corpus/01-brokers/fearnleys/2018/fearnleys_2018_W29_fw_week_29_2018b.pdf",
@@ -9751,6 +9791,11 @@
       "path": "corpus/01-brokers/lion/2026/lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40.pdf",
       "bytes": 1852449,
       "sha256": "f6f19434443cd370be0109bd415ee4c6c8063d2565c376703dcdcd5979194806"
+    },
+    {
+      "path": "corpus/01-brokers/lion/2026/lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026.pdf",
+      "bytes": 871850,
+      "sha256": "a2c0b7ce4be2a7aa51d87dd18124fa571831089b93496da663efad114d606505"
     },
     {
       "path": "corpus/01-brokers/ssy/2021/ssy_2021_A20210705.pdf",
@@ -41958,16 +42003,6 @@
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
     },
     {
-      "path": "corpus/07-signal/html/market-insights-commodity-freight-watch.html",
-      "bytes": 240992,
-      "sha256": "df1c236cd96cca3d29f2933cbc7506cf27281e06e65b1e668e83b5345324234f"
-    },
-    {
-      "path": "corpus/07-signal/html/the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows.html",
-      "bytes": 221475,
-      "sha256": "b7a428d222c047996b5a00284339b0d61a5f59d2e842b94f477f7f35de73d89b"
-    },
-    {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
       "bytes": 298514,
       "sha256": "11bbc769a2164d34cbb31e7e4795412aeb91dc285fb7ee3376aa33bacc388c3b"
@@ -43456,46 +43491,6 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
-    },
-    {
-      "path": "corpus/07-signal/images/6ad619555aaab1391e7e7674_9f3acce2.png",
-      "bytes": 223001,
-      "sha256": "63ac7653789f4c05faf9c9cfaa2bcd74df6794ddb54bc17beca8e417a745449d"
-    },
-    {
-      "path": "corpus/07-signal/images/6ad63161427de9b2eb8d9977_7d25cfb5.png",
-      "bytes": 137653,
-      "sha256": "a17f02cb5b5cbd9cc9e08dc4a119bb8c2ca4696aad476ea4445c88db5f334a70"
-    },
-    {
-      "path": "corpus/07-signal/images/6ad63199a3a181a6f3c7c894_cd5e39c8.png",
-      "bytes": 246917,
-      "sha256": "6e4116145e5ae8c1d4336b8ba6ec7d98d5c3687d631c2a4bfaa47138a4785dc5"
-    },
-    {
-      "path": "corpus/07-signal/images/6adb1156203c4cd3caa95aa6_929e61fd.png",
-      "bytes": 173554,
-      "sha256": "1feb150c5d4deb5d63a2b559ef1fa96cbf0f60afa1deb49ac30121715a66cb78"
-    },
-    {
-      "path": "corpus/07-signal/images/6adb11909b5c326f4e74be59_7e85302e.png",
-      "bytes": 2235068,
-      "sha256": "9b1f690a549eaad0098d9b4415da2d1611587f82341d8b1214831f79220875bb"
-    },
-    {
-      "path": "corpus/07-signal/images/6adb12a77f8279abadfd3bbb_371066af.png",
-      "bytes": 2517866,
-      "sha256": "829f2fe2d601f85245c43eee1560ea28ffb4620e1b2a2c0849c904578761531b"
-    },
-    {
-      "path": "corpus/07-signal/monitors/2026/the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows.md",
-      "bytes": 6545,
-      "sha256": "5d4bc14881ea8e7f7aab65d1e431346ab85f1c08ed7ba8c52a44677708e165d0"
-    },
-    {
-      "path": "corpus/07-signal/newsroom/2026/market-insights-commodity-freight-watch.md",
-      "bytes": 19045,
-      "sha256": "30ad279bf8485316018c5f4a54c575f206d18f36716ed44866e855a8cc76e492"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
