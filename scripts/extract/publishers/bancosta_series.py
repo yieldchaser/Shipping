@@ -45,8 +45,7 @@ FILES = {
 }
 # the record types this script owns in the shared newbuilding / demolition files
 OWNED = {"newbuilding": "indicative_price", "demolition": "recycling_assessment"}
-# container fixtures are not: older issues print EUR rates ("€ 13.500") that the series holds as USD numbers
-REPAIRABLE = ("secondhand_matrix", "vhss", "fx", "newbuilding", "demolition")
+REPAIRABLE = ("secondhand_matrix", "vhss", "fx", "fixtures", "newbuilding", "demolition")
 
 
 def front(text: str) -> dict[str, str]:

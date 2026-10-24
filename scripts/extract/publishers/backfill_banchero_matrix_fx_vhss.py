@@ -101,6 +101,37 @@ FIX_RX = re.compile(
     r"(?P<period>\d+(?:\s*-\s*\d+)?)\s*mos?\s+at\s+USD\s+(?P<rate>[\d,]+)")
 
 
+_MON = {m: i for i, m in enumerate(("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"), 1)}
+
+
+def fixture_rate(cell):
+    """(rate_usd_day, rate_eur_day) of a printed fixture rate: "$10,250/d", "21,800", "43.000" (dot thousands),
+    "€ 13.500", "EU 15.500", "(EU) 8,250", "EUR 16,500". The value goes to the column of its printed currency."""
+    t = re.sub(r"[*\s()]", "", str(cell or "")).replace("/d", "").replace("/day", "")
+    eur = bool(re.match(r"(€|EURO|EUR?|E(?=\d))", t, re.I))
+    t = re.sub(r"^(€|EURO|EUR?|E(?=\d)|US\$|USD|\$)", "", t, flags=re.I)
+    if re.fullmatch(r"\d{1,3}([.,]\d{3})+", t):
+        t = re.sub(r"[.,]", "", t)
+    try:
+        v = str(float(t))
+    except ValueError:
+        return "", ""
+    return ("", v) if eur else (v, "")
+
+
+def fixture_period(cell):
+    """Period in months as printed, except spreadsheet date slips the report itself prints for a range:
+    "Nov-13" = 11-13, "9-Nov" = 9-11, "1-Nov" = 1-11, "Dec-14" = 12-14."""
+    t = str(cell or "").strip()
+    m = re.fullmatch(r"([A-Za-z]{3})-(\d{1,2})", t)
+    if m and m.group(1).lower() in _MON:
+        return f"{_MON[m.group(1).lower()]}-{m.group(2)}"
+    m = re.fullmatch(r"(\d{1,2})-([A-Za-z]{3})", t)
+    if m and m.group(2).lower() in _MON:
+        return f"{m.group(1)}-{_MON[m.group(2).lower()]}"
+    return t
+
+
 def parse_fixtures_prose(lines):
     text = "\n".join(lines)
     m = re.search(r"Some reported fixtures:(.*?)(?:\n#|\Z)", text, re.S)
@@ -118,7 +149,7 @@ def parse_fixtures_prose(lines):
             "gear": "YES" if g["gear"] == "geared" else "NO",
             "account": g["account"].strip(),
             "period_mos": re.sub(r"\s*-\s*", "-", g["period"]),
-            "rate_usd_day": g["rate"].replace(",", ""),
+            "rate_usd_day": fixture_rate(g["rate"])[0], "rate_eur_day": fixture_rate(g["rate"])[1],
         })
     return out
 
@@ -168,14 +199,16 @@ def parse_doc(md_path):
             "pct_change_wow": pct(r[3]), "pct_change_yoy": pct(r[4]), "source_file": src})
 
     # Container fixtures: REPORTED FIXTURES table (<=W24) ...
-    h, rows = parse_gfm_table(lines, lambda c: c and c[0].replace("'", "").upper().startswith("VESSELS NAME"))
+    h, rows = parse_gfm_table(lines, lambda c: c and c[0].replace("'", "").upper().startswith(("VESSELS NAME", "VESSEL NAME")))
     for r in rows:
-        if len(r) < 8:
+        if len(r) < 8 or not re.fullmatch(r"(19|20)\d\d", r[1].strip()):   # (footnote rows: "*I/c October 2025")
             continue
         out["fixtures"].append({
-            "vessel_name": strip_label(r[0]), "built": r[1], "teu": r[2].replace(",", ""),
+            "vessel_name": re.sub(r"[\s\\*]+$", "", strip_label(r[0])),   # (without footnote marks)
+            "built": r[1], "teu": r[2].replace(",", ""),
             "teu_14": num_cell(r[3]), "gear": r[4].upper(), "account": strip_label(r[5]),
-            "period_mos": r[6], "rate_usd_day": r[7].replace(",", ""),
+            "period_mos": fixture_period(r[6]), "rate_usd_day": fixture_rate(r[7])[0],
+            "rate_eur_day": fixture_rate(r[7])[1],
             "issue_date": issue_date, "report_week": week, "source_file": src})
     # ... then the templated PROSE paragraph (>=W25).
     for rec in parse_fixtures_prose(lines):
