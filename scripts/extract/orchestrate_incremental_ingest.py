@@ -521,6 +521,10 @@ def extract_affinity(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
         bda_series_rows = [{"issue_date": issue_date, "report_week": report_week, "segment": b["segment"], "price_usd_per_ldt": b["price"], "change_wow": b["change"], "source_file": pdf_path.name} for b in bda_rows]
         upsert_rows_to_csv(SERIES_DIR / "affinity_bda_series.csv", bda_series_rows, ["issue_date", "report_week", "segment", "price_usd_per_ldt", "change_wow", "source_file"], ["issue_date", "segment"])
 
+        idx_rows = [{"issue_date": issue_date, "report_week": report_week, "index_name": name, "value": val, "trend_wow": trend, "source_file": pdf_path.name}
+                    for name, val, trend in (("BCTI", bcti_val, bcti_trend), ("BDTI", bdti_val, bdti_trend)) if val is not None]
+        upsert_rows_to_csv(SERIES_DIR / "affinity_indices_series.csv", idx_rows, ["issue_date", "report_week", "index_name", "value", "trend_wow", "source_file"], ["issue_date", "index_name"])
+
     return {"stem": pdf_path.stem, "issue_date": issue_date, "report_week": report_week, "cards_count": len(cards), "target_md": str(target_md)}
 
 
