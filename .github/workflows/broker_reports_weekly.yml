@@ -66,11 +66,15 @@ jobs:
           python scripts/extract/publishers/run_ssy_charts.py --new-only --out-dir "$RUNNER_TEMP/ssy_charts" || true
           python scripts/extract/publishers/merge_ssy_charts.py --new-only --charts-dir "$RUNNER_TEMP/ssy_charts" || true
           python scripts/extract/publishers/run_ism_series.py --new-only || true
+          # Agora: stack new issues' indicator tables into agora_indicators_series.csv (append-only)
+          python scripts/extract/publishers/agora_series.py --new-only || true
           python scripts/extract/sync_digests.py || true
           # TODO: quality gate script does not exist yet
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
           python scripts/audit/generate_cadence_audit.py || true
+          # Series that stopped joining new issues (the auto-join gap) show as a run warning
+          python scripts/verify/series_freshness.py || echo "::warning::series_freshness: live series lag their publisher's newest parsed issue (see log)"
 
       - name: Commit & Push New Broker Reports
         run: |
