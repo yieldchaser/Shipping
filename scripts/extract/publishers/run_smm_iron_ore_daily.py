@@ -33,6 +33,7 @@ import argparse
 import csv
 import glob
 import hashlib
+import io
 import json
 import os
 import re
@@ -66,6 +67,88 @@ def parse_change_val(raw_str: str) -> float:
         return -val if (is_neg and val > 0) else val
     except Exception:
         return 0.0
+
+
+# --- line readers -------------------------------------------------------------------------------------------
+# The report's cards and tables are read line by line from the text layer, not by one regex over the page: the
+# 2026-10-06 redesign put units on their own line, wrapped card titles ("MMi 61% Seaborne / Index"), replaced the
+# SGX most-traded card with a current-month latest-price card, printed "Market closed" for the holiday and dropped
+# the Flash News sub-header, and the page-wide regexes matched none of it (tables, flash news and half the cards
+# went missing from 2026-10-06 on).
+_NUM = re.compile(r'^([\d,]+(?:\.\d+)?)(?:\s+([A-Za-z]+/[A-Za-z]+))?$')
+_CHG = re.compile(r'^(?:([▲▼—])\s*)?([+\-]?[\d\.]+)\s+([+\-]?[\d\.]+%)$')
+_CLOSED = re.compile(r'^(?:No quotation(?: \(holiday\))?|Market closed)$')
+
+
+def _section_lines(text: str, start: str, end: str) -> List[str]:
+    """Stripped non-empty lines between a heading and the next heading (both regexes, matched across wraps)."""
+    m = re.search(start + r'(.*?)(?=' + end + r')', text, re.DOTALL)
+    return [l.strip() for l in m.group(1).split("\n") if l.strip()] if m else []
+
+
+def _quote_after(lines: List[str], i: int) -> Optional[Dict[str, Any]]:
+    """Read one quote from lines[i:] (the line after "Daily" / "Latest price"): price, unit, change or closed
+    status, and the closing figure (MTD avg, previous-day price or prior-month avg)."""
+    m = _NUM.match(lines[i]) if i < len(lines) else None
+    if not m:
+        return None
+    q: Dict[str, Any] = {"price": float(m.group(1).replace(",", "")), "unit": m.group(2), "change": None,
+                         "change_pct": None, "closed": False, "tail": None, "tail_kind": None, "code": None}
+    i += 1
+    if q["unit"] is None and i < len(lines) and re.match(r'^[A-Za-z]+/[A-Za-z]+$', lines[i]):
+        q["unit"] = lines[i]
+        i += 1
+    if i < len(lines):
+        c = _CHG.match(lines[i])
+        if c:
+            q["change"] = parse_change_val(f"{c.group(1) or ''} {c.group(2)}")
+            q["change_pct"] = c.group(3)
+            i += 1
+        elif _CLOSED.match(lines[i]):
+            q["closed"] = True
+            i += 1
+            if i < len(lines) and re.match(r'^as of [\d\-]+$', lines[i]):
+                i += 1
+        elif re.match(r'^[A-Z]{2,5}[A-Z]\d{2}\b', lines[i]):     # SGX card: "FEFV26 · 2026-10 · SGX"
+            q["code"] = lines[i].split("·")[0].strip()
+            i += 1
+    if i < len(lines):
+        t = re.match(r'^(?:as of [\d\-]+\s*·\s*)?(MTD avg|\d{4}-\d{2} avg)\s+([\d\.]+)$', lines[i])
+        if t:
+            q["tail"], q["tail_kind"] = float(t.group(2)), ("mtd" if t.group(1) == "MTD avg" else "prior_month")
+            # "Closed for the National Day holiday · close as of Sep 30": the card repeats an earlier close
+            if i + 1 < len(lines) and lines[i + 1].startswith("Closed for"):
+                q["closed_note"] = lines[i + 1]
+        elif _NUM.match(lines[i]) and not _NUM.match(lines[i]).group(2):
+            q["tail"], q["tail_kind"] = float(lines[i].replace(",", "")), "column"
+            # a table's MTD column holds the prior month's average, marked on the next line, until the first quote
+            p = re.match(r'^(\d{4}-\d{2}) avg$', lines[i + 1]) if i + 1 < len(lines) else None
+            if p:
+                q["tail_kind"], q["tail_period"] = "prior_month", p.group(1)
+    return q
+
+
+def _card(text: str, title: str) -> Optional[Dict[str, Any]]:
+    """The dashboard card whose title (words may wrap across lines) is `title`."""
+    m = re.search(r'(?m)^' + r'\s+'.join(re.escape(w) for w in title.split()) + r'\s*$', text)
+    if not m:
+        return None
+    lines = [l.strip() for l in text[m.end():m.end() + 600].split("\n") if l.strip()]
+    for i, l in enumerate(lines[:4]):
+        if l in ("Daily", "Latest price"):
+            return _quote_after(lines, i + 1)
+    return None
+
+
+def _table_rows(lines: List[str]) -> List[Tuple[str, Dict[str, Any]]]:
+    """(product, quote) for every "<product> / Daily / <price> / <change> / <last column>" row of a table."""
+    out = []
+    for i, l in enumerate(lines):
+        if l == "Daily" and i > 0:
+            q = _quote_after(lines, i + 1)
+            if q:
+                out.append((lines[i - 1], q))
+    return out
 
 
 def extract_chart_images(page: pymupdf.Page, issue_date: str) -> Dict[str, str]:
@@ -145,6 +228,7 @@ def parse_smm_single_page_pdf(pdf_path: Path) -> Dict[str, Any]:
         "todays_highlights": [],
         "qingdao_port_spot_cny": [],
         "imported_ore_usd_prices": [],
+        "seaborne_brand_usd": [],
         "index_statistics_weekly_monthly": [],
         "key_price_drivers": {},
         "market_commentary_imported": {},
@@ -153,65 +237,59 @@ def parse_smm_single_page_pdf(pdf_path: Path) -> Dict[str, Any]:
         "flash_news": []
     }
 
-    # 2. Futures Contracts (SGX & DCE)
-    sgx_m = re.search(
-        r'SGX Iron Ore Most-traded Contract.*?\n\s*([\d\.]+)\s*USD/dmt\s*\n\s*(?:([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)|No quotation \(holiday\))[^\n]*\n\s*(?:as of [\d\-]+\s*·\s*)?MTD avg\s*([\d\.]+)',
-        text, re.DOTALL
-    )
-    if sgx_m:
-        extracted["futures_contracts"].append({
-            "exchange": "SGX",
-            "contract": "SGX Iron Ore Most-traded",
-            "price": float(sgx_m.group(1)),
-            "unit": "USD/dmt",
-            "change": parse_change_val(sgx_m.group(2)) if sgx_m.group(2) else 0.0,
-            "change_pct": sgx_m.group(3).strip() if sgx_m.group(3) else "0.00% (Holiday)",
-            "mtd_avg": float(sgx_m.group(4))
-        })
-
-    dce_m = re.search(
-        r'DCE Iron Ore Most-traded(?:\s+([A-Za-z0-9]+)|[^\n]*?)\n[^\n]*?\n\s*([\d\.]+)\s*yuan/mt\s*\n\s*(?:([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)|No quotation \(holiday\))[^\n]*\n\s*(?:as of [\d\-]+\s*·\s*)?MTD avg\s*([\d\.]+)',
-        text, re.DOTALL
-    )
-    if dce_m:
-        c_code = dce_m.group(1) or "Contract"
+    # 2. Futures Contracts (SGX most-traded card until 2026-10-06, current-month latest price from 2026-10-07; DCE)
+    for title, contract in (("SGX Iron Ore Most-traded Contract", "SGX Iron Ore Most-traded"),
+                            ("SGX Iron Ore Current-month Contract", "SGX Iron Ore Current-month")):
+        q = _card(text, title)
+        if q:
+            extracted["futures_contracts"].append({
+                "exchange": "SGX",
+                "contract": f"{contract} {q['code']}" if q["code"] else contract,
+                "price": q["price"],
+                "unit": q["unit"] or "USD/dmt",
+                "change": 0.0 if q["closed"] else q["change"],
+                "change_pct": "0.00% (Holiday)" if q["closed"] else q["change_pct"],
+                "mtd_avg": q["tail"] if q["tail_kind"] == "mtd" else None,
+                **({"closed_note": q["closed_note"]} if q.get("closed_note") else {})
+            })
+    m_dce = re.search(r'(?m)^(DCE Iron Ore Most-traded(?:\s+([A-Za-z0-9]+))?)\s*$', text)
+    q = _card(text, m_dce.group(1)) if m_dce else None
+    if q:
+        c_code = m_dce.group(2) or "Contract"
         extracted["futures_contracts"].append({
             "exchange": "DCE",
             "contract": f"DCE Iron Ore Most-traded {c_code}".strip(),
             "contract_code": c_code,
-            "price": float(dce_m.group(2)),
-            "unit": "yuan/mt",
-            "change": parse_change_val(dce_m.group(3)) if dce_m.group(3) else 0.0,
-            "change_pct": dce_m.group(4).strip() if dce_m.group(4) else "0.00% (Holiday)",
-            "mtd_avg": float(dce_m.group(5))
+            "price": q["price"],
+            "unit": q["unit"] or "yuan/mt",
+            "change": 0.0 if q["closed"] else q["change"],
+            "change_pct": "0.00% (Holiday)" if q["closed"] else q["change_pct"],
+            "mtd_avg": q["tail"] if q["tail_kind"] == "mtd" else None,
+            **({"closed_note": q["closed_note"]} if q.get("closed_note") else {})
         })
 
-    # 3. SMM Iron Ore Price Index (top 6 cards - supports both active trading days and holiday freeze)
+    # 3. SMM Iron Ore Price Index (top 6 cards; a closed market prints its last quote, kept as a 0.00% holiday row)
     idx_defs = [
-        ("MMi 61% Port Spot", r'MM[iI] 61% Port Spot', "yuan/wmt", 61.0, "port_spot"),
-        ("MMi 58% Port Spot", r'MM[iI] 58% Port Spot', "yuan/wmt", 58.0, "port_spot"),
-        ("MMi 65% Port Spot", r'MM[iI] 65% Port Spot', "yuan/wmt", 65.0, "port_spot"),
-        ("MMi 61% Seaborne Index", r'MM[iI] 61% Seaborne Index', "USD/dmt", 61.0, "seaborne"),
-        ("MMi 65% Seaborne Index", r'MM[iI] 65% Seaborne Index', "USD/dmt", 65.0, "seaborne"),
-        ("SMM Domestic Ore Composite Index", r'SMM Domestic Ore Composite Index', "yuan/mt", 66.0, "domestic_composite")
+        ("MMi 61% Port Spot", "yuan/wmt", 61.0, "port_spot"),
+        ("MMi 58% Port Spot", "yuan/wmt", 58.0, "port_spot"),
+        ("MMi 65% Port Spot", "yuan/wmt", 65.0, "port_spot"),
+        ("MMi 61% Seaborne Index", "USD/dmt", 61.0, "seaborne"),
+        ("MMi 65% Seaborne Index", "USD/dmt", 65.0, "seaborne"),
+        ("SMM Domestic Ore Composite Index", "yuan/mt", 66.0, "domestic_composite")
     ]
-    for name, title_pat, unit, fe, mkt in idx_defs:
-        pat = (
-            rf'{title_pat}(?:[^\n]*\n){{1,3}}?\s*([\d\.]+)\s*{re.escape(unit)}\s*\n\s*'
-            rf'(?:([▼▲—\-\s\+\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)|No quotation \(holiday\))\s*'
-            rf'(?:as of [\d\-]+\s*(?:·\s*)?)?MTD avg\s*([\d\.]+)'
-        )
-        m = re.search(pat, text, re.DOTALL)
-        if m:
+    for name, unit, fe, mkt in idx_defs:
+        q = _card(text, name)
+        if q:
             extracted["smm_price_index_summary"].append({
                 "index_name": name,
                 "market_type": mkt,
                 "fe_content": fe,
-                "price": float(m.group(1)),
-                "unit": unit,
-                "change": parse_change_val(m.group(2)) if m.group(2) else 0.0,
-                "change_pct": m.group(3).strip() if m.group(3) else "0.00% (Holiday)",
-                "mtd_avg": float(m.group(4))
+                "price": q["price"],
+                "unit": q["unit"] or unit,
+                "change": 0.0 if q["closed"] else q["change"],
+                "change_pct": "0.00% (Holiday)" if q["closed"] else q["change_pct"],
+                "mtd_avg": q["tail"] if q["tail_kind"] == "mtd" else None,
+                **({"closed_note": q["closed_note"]} if q.get("closed_note") else {})
             })
 
     # 4. Key View (preserve multi-line bold headlines and join wrapped body lines into clean paragraphs)
@@ -327,80 +405,85 @@ def parse_smm_single_page_pdf(pdf_path: Path) -> Dict[str, Any]:
                 extracted["todays_highlights"].append(b_clean)
 
     # 6. Qingdao Port Imported Ore Spot Prices (CNY)
-    m_qd = re.search(
-        r'Qingdao Port Imported Ore Spot\s+Prices.*?\nProduct\s+.*?Last 12 months\s*\n(.*?)\nImported Ore USD Prices',
-        text, re.DOTALL
-    )
-    if m_qd:
-        qd_raw = m_qd.group(1).strip()
-        row_pat = re.compile(
-            r'([A-Za-z0-9\s\(\)\-]+?\d+(?:\.\d+)?%)\s*\n\s*Daily\s*\n\s*([\d\.]+)\s*\n\s*'
-            r'(?:([▲▼—\-]?\s*[\+\-\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)|No quotation \(holiday\)\s*\n\s*as of [\d\-]+)\s*\n\s*([\d\.]+)'
-        )
-        for m in row_pat.finditer(qd_raw):
-            prod = " ".join(m.group(1).split())
-            m_fe = re.search(r'(\d+(?:\.\d+)?)%', prod)
-            fe_val = float(m_fe.group(1)) if m_fe else 62.0
-            prod_type = "Lump" if "Lump" in prod else "Fines"
-            extracted["qingdao_port_spot_cny"].append({
-                "product": prod,
-                "fe_pct": fe_val,
-                "product_type": prod_type,
-                "price_yuan_wmt": float(m.group(2)),
-                "change": parse_change_val(m.group(3)) if m.group(3) else 0.0,
-                "change_pct": m.group(4).strip() if m.group(4) else "0.00% (Holiday)",
-                "mtd_avg": float(m.group(5)),
-                "unit": "yuan/wmt"
-            })
+    qd_lines = _section_lines(text, r'Qingdao Port Imported Ore Spot\s+Prices',
+                              r'\nImported Ore USD Prices|\nSeaborne Brand Prices in USD')
+    for prod, q in _table_rows(qd_lines):
+        m_fe = re.search(r'(\d+(?:\.\d+)?)%', prod)
+        extracted["qingdao_port_spot_cny"].append({
+            "product": prod,
+            "fe_pct": float(m_fe.group(1)) if m_fe else 62.0,
+            "product_type": "Lump" if "Lump" in prod else "Fines",
+            "price_yuan_wmt": q["price"],
+            "change": 0.0 if q["closed"] else q["change"],
+            "change_pct": "0.00% (Holiday)" if q["closed"] else q["change_pct"],
+            "mtd_avg": q["tail"],
+            "unit": "yuan/wmt",
+            **({"avg_period": q["tail_period"]} if q.get("tail_period") else {})
+        })
 
-    # 7. Imported Ore USD Prices & MMi Indices (USD, including Seaborne Fines Prices sub-table)
-    m_usd = re.search(
-        r'Imported Ore USD Prices & MMi\s+Indices.*?\nProduct\s+.*?Last 12 months\s*\n(.*?)\nSMM Iron Ore Price Index\s+weekly',
-        text, re.DOTALL
-    )
-    if m_usd:
-        usd_raw = m_usd.group(1).strip()
-        # Remove sub-table header lines so rows parse uniformly
-        usd_raw_clean = re.sub(
-            r'Seaborne Fines Prices in USD[^\n]*\n(?:[^\n]*\n){0,3}?Product\s+.*?(?:Last 12 months|MTD avg)\s*\n',
-            '\n',
-            usd_raw,
-            flags=re.DOTALL
-        )
-        row_pat = re.compile(
-            r'([A-Za-z0-9\s\(\)\-]+?\d+(?:\.\d+)?%(?:\s+[A-Za-z\s]+?Index)?)\s*\n\s*Daily\s*\n\s*([\d\.]+)\s*\n\s*'
-            r'(?:([▲▼—\-]?\s*[\+\-\d\.]+)\s+([▼▲—\-\s\+\d\.]+%)|No quotation \(holiday\)\s*\n\s*as of [\d\-]+)\s*\n\s*([\d\.]+)'
-        )
-        for m in row_pat.finditer(usd_raw_clean):
-            prod = " ".join(m.group(1).split())
-            m_fe = re.search(r'(\d+(?:\.\d+)?)%', prod)
-            fe_val = float(m_fe.group(1)) if m_fe else 62.0
-            prod_type = "Index" if "Index" in prod else ("Lump" if "Lump" in prod else "Fines")
-            extracted["imported_ore_usd_prices"].append({
-                "product": prod,
-                "fe_pct": fe_val,
-                "product_type": prod_type,
-                "price_usd_dmt": float(m.group(2)),
-                "change": parse_change_val(m.group(3)) if m.group(3) else 0.0,
-                "change_pct": m.group(4).strip() if m.group(4) else "0.00% (Holiday)",
-                "mtd_avg": float(m.group(5)),
-                "unit": "USD/dmt"
-            })
+    # 7. Imported Ore USD Prices & MMi Indices (port spot converted to USD, with MTD avg; printed until 2026-10-05)
+    usd_lines = _section_lines(text, r'Imported Ore USD Prices & MMi\s+Indices',
+                               r'\nSeaborne Fines Prices in USD|\nSMM Iron Ore Price Index\s+weekly')
+    for prod, q in _table_rows(usd_lines):
+        m_fe = re.search(r'(\d+(?:\.\d+)?)%', prod)
+        extracted["imported_ore_usd_prices"].append({
+            "product": prod,
+            "fe_pct": float(m_fe.group(1)) if m_fe else 62.0,
+            "product_type": "Index" if "Index" in prod else ("Lump" if "Lump" in prod else "Fines"),
+            "price_usd_dmt": q["price"],
+            "change": 0.0 if q["closed"] else q["change"],
+            "change_pct": "0.00% (Holiday)" if q["closed"] else q["change_pct"],
+            "mtd_avg": q["tail"],
+            "unit": "USD/dmt",
+            **({"avg_period": q["tail_period"]} if q.get("tail_period") else {})
+        })
 
-    # 8. SMM Iron Ore Price Index weekly / monthly statistics
-    m_stat = re.search(r'SMM Iron Ore Price Index\s+weekly / monthly statistics.*?\nIndex\s+Month-to-date avg\s+MoM\s+YTD\s+Unit\s+Last 12 months\s*\n(.*?)\n(?=Onshore and offshore|Key Price Drivers)', text, re.DOTALL)
-    if m_stat:
-        stat_raw = m_stat.group(1).strip()
-        stat_pat = re.compile(r'([A-Za-z0-9\s%]+?(?:Index|Price Index))\s*\n\s*Daily\s*\n\s*([\d\.]+)\s*\n\s*([\+\-\d\.]+%)\s*\n\s*([\+\-\d\.]+%)\s*\n\s*([A-Za-z/]+)')
-        for m in stat_pat.finditer(stat_raw):
-            idx_name = " ".join(m.group(1).split())
-            extracted["index_statistics_weekly_monthly"].append({
-                "index_name": idx_name,
-                "mtd_avg": float(m.group(2)),
-                "mom_pct": m.group(3).strip(),
-                "ytd_pct": m.group(4).strip(),
-                "unit": m.group(5).strip()
-            })
+    # 7b. Seaborne brand prices in USD, CFR Qingdao (columns: price on the header date, change, previous price).
+    # Printed under the USD table until 2026-10-05 ("Seaborne Fines Prices") and alone after; its quotes can lag
+    # the issue (the 2026-10-05 issue prints Oct 2), so each row carries the header's price date.
+    sb_m = re.search(r'Seaborne (?:Fines|Brand) Prices in USD CFR Qingdao[^\n]*\nProduct\n(\d{2})-(\d{2})', text)
+    sb_lines = _section_lines(text, r'Seaborne (?:Fines|Brand) Prices in USD CFR Qingdao',
+                              r'\nSMM Iron Ore Price Index\s+(?:weekly / )?monthly')
+    for prod, q in (_table_rows(sb_lines) if sb_m else []):
+        mm, dd = int(sb_m.group(1)), int(sb_m.group(2))
+        yr = int(year) - (1 if mm > int(issue_date[5:7]) else 0)
+        m_fe = None if re.search(r'%\s*-', prod) else re.search(r'(\d+(?:\.\d+)?)%', prod)   # "59%-60%": a range
+        extracted["seaborne_brand_usd"].append({
+            "product": prod,
+            "price_date": f"{yr}-{mm:02d}-{dd:02d}",
+            "fe_pct": float(m_fe.group(1)) if m_fe else None,
+            "product_type": "Lump" if "Lump" in prod else "Fines",
+            "price_usd_dmt": q["price"],
+            "change": 0.0 if q["closed"] else q["change"],
+            "change_pct": "0.00% (Holiday)" if q["closed"] else q["change_pct"],
+            "prev_price": q["tail"],
+            "unit": "USD/dmt"
+        })
+
+    # 8. SMM Iron Ore Price Index weekly / monthly statistics. Before a month's first quote (the October holiday)
+    # a row prints the prior month's average marked "2026-09 avg"; that row keeps its period and is not an MTD.
+    st_lines = _section_lines(text, r'SMM Iron Ore Price Index\s+(?:weekly / )?monthly statistics',
+                              r'\nKey Price Drivers')
+    for i, l in enumerate(st_lines):
+        if l == "Daily" and i > 0 and i + 4 < len(st_lines) and re.search(r'Index$', st_lines[i - 1]):
+            vals = st_lines[i + 1:i + 6]
+            m_per = re.match(r'^(\d{4}-\d{2}) avg$', vals[1]) if len(vals) > 1 else None
+            if m_per:
+                vals = vals[:1] + vals[2:]
+            if len(vals) < 4:
+                continue
+            mtd, mom, ytd, unit = vals[:4]
+            if _NUM.match(mtd) and mom.endswith("%") and ytd.endswith("%"):
+                row = {
+                    "index_name": st_lines[i - 1],
+                    "mtd_avg": float(mtd.replace(",", "")),
+                    "mom_pct": mom,
+                    "ytd_pct": ytd,
+                    "unit": unit
+                }
+                if m_per:
+                    row["avg_period"] = m_per.group(1)
+                extracted["index_statistics_weekly_monthly"].append(row)
 
     # 9. Market Commentary (Imported Ore)
     m_imp_comm = re.search(r'Market Commentary · Imported Ore\s*\n(.*?)\nMarket Commentary · Domestic Ore', text, re.DOTALL)
@@ -468,7 +551,7 @@ def parse_smm_single_page_pdf(pdf_path: Path) -> Dict[str, Any]:
     m_cap = re.search(r'capacity utilisation\s+(?:was|at|stood at|of)\s+([\d\.]+)%', text, re.IGNORECASE)
     if m_cap:
         extracted["key_price_drivers"]["bf_capacity_utilisation_pct"] = float(m_cap.group(1))
-    m_p10 = re.search(r'(?:(?:10-port\s+(?:total|inventory|iron ore inventory|stocks)|inventory across the 10 major ports)\s*(?:was|at|stood at|reached|fell[^\n]*?to|rose[^\n]*?to|\()?\s*([\d\.]+)\s*million\s*mt|([\d\.]+)\s*million\s*mt\s+across\s+10\s+ports)', text, re.IGNORECASE)
+    m_p10 = re.search(r'(?:(?:(?:10|ten)-port\s+(?:total|inventory|iron ore inventory|stocks)|inventory across the 10 major ports)\s*(?:was|were|at|stood at|reached|fell[^\n]*?to|rose[^\n]*?to|\()?\s*([\d\.]+)\s*million\s*mt|([\d\.]+)\s*million\s*mt\s+across\s+10\s+ports)', text, re.IGNORECASE)
     if m_p10:
         extracted["key_price_drivers"]["port_inventory_10_ports_mt_million"] = float(m_p10.group(1) or m_p10.group(2))
     m_p35 = re.search(r'(?:35-port\s+(?:inventory|total|stocks)\s+(?:was|at|stood at|reached|fell[^\n]*?to|rose[^\n]*?to)?\s*([\d\.]+)\s*million\s*mt|([\d\.]+)\s*million\s*mt\s+across\s+35\s+ports)', text, re.IGNORECASE)
@@ -483,29 +566,58 @@ def parse_smm_single_page_pdf(pdf_path: Path) -> Dict[str, Any]:
     m_mday = re.search(r'with\s+([\d\.]+)\s+days of cover', text, re.IGNORECASE)
     if m_mday:
         extracted["key_price_drivers"]["mill_stocks_cover_days"] = float(m_mday.group(1))
-    m_ship = re.search(r'Global\s+(?:iron ore\s+)?shipments[^\n]*?(?:were|at|totaled|reached|to)\s+([\d\.]+)\s*million\s*mt', text, re.IGNORECASE)
+    # "Global shipments and (Chinese) arrivals (in China) ... were X (million mt) and Y million mt": one sentence
+    # carries both, and the single-figure patterns below would read X for arrivals too
+    m_sa = re.search(r'Global\s+shipments\s+and\s+(?:Chinese\s+)?arrivals(?:\s+in\s+China|\s+at\s+Chinese\s+ports)?'
+                     r'(?:\s+in\s+the\s+week\s+to\s+[A-Z][a-z]{2}\s+\d{1,2})?,?\s+were\s+([\d\.]+)(?:\s+million\s+mt)?\s+and\s+'
+                     r'([\d\.]+)\s+million\s+mt', text, re.IGNORECASE)
+    if m_sa:
+        extracted["key_price_drivers"]["global_shipments_mt_million"] = float(m_sa.group(1))
+        extracted["key_price_drivers"]["arrivals_chinese_ports_mt_million"] = float(m_sa.group(2))
+    m_ship = None if m_sa else re.search(r'Global\s+(?:iron ore\s+)?shipments[^\n]*?(?:were|at|totaled|reached|to)\s+([\d\.]+)\s*million\s*mt', text, re.IGNORECASE)
     if m_ship:
         extracted["key_price_drivers"]["global_shipments_mt_million"] = float(m_ship.group(1))
-    m_arr = re.search(r'arrivals\s+(?:at Chinese ports|in China)[^\n]*?(?:were|at|totaled|reached|to|fell[^\n]*?to|rose[^\n]*?to)?\s+([\d\.]+)\s*million\s*mt', text, re.IGNORECASE)
+    m_arr = None if m_sa else re.search(r'arrivals\s+(?:at Chinese ports|in China)[^\n]*?(?:were|at|totaled|reached|to|fell[^\n]*?to|rose[^\n]*?to)?\s+([\d\.]+)\s*million\s*mt', text, re.IGNORECASE)
     if m_arr:
         extracted["key_price_drivers"]["arrivals_chinese_ports_mt_million"] = float(m_arr.group(1))
     m_dom_u = re.search(r'(?:domestic mine capacity utilisation\s+(?:rose to|fell to|was|at|stood at)\s+([\d\.]+)%|([\d\.]+)%\s+mine capacity utilisation rate)', text, re.IGNORECASE)
     if m_dom_u:
         extracted["key_price_drivers"]["domestic_mine_capacity_utilisation_pct"] = float(m_dom_u.group(1) or m_dom_u.group(2))
 
-    # 13. Flash News (handles both 'Last 2 days' and holiday subheaders, joining wrapped lines per item)
-    m_fn = re.search(r'Flash News\s*\n(?:Last \d+ days[^\n]*|No SMM items[^\n]*)\n(.*?)\nContact Us', text, re.DOTALL)
+    # 13. Flash News (sub-header 'Last 2 days' / holiday note until 2026-10-05, none after; each item ends at the
+    # arrow glyph and from 2026-10-06 carries its date on its last line)
+    m_fn = re.search(r'Flash News\s*\n(?:(?:Last \d+ days|No SMM items)[^\n]*\n)?(.*?)\nContact Us', text, re.DOTALL)
     if m_fn:
         fn_raw = m_fn.group(1).strip()
         if '↗' in fn_raw:
-            fn_items = [item.strip() for item in fn_raw.split('↗') if item.strip()]
-            fn_lines = [re.sub(r'\s{2,}', ' ', re.sub(r'^[•\-\*]\s*', '', item.replace('\n', ' ').strip())) for item in fn_items if len(item.strip()) > 15]
+            fn_lines = []
+            for item in fn_raw.split('↗'):
+                item = item.strip()
+                m_d = re.search(r'\n(\d{4}-\d{2}-\d{2})$', item)
+                body = item[:m_d.start()] if m_d else item
+                body = re.sub(r'\s{2,}', ' ', re.sub(r'^[•\-\*]\s*', '', body.replace('\n', ' ').strip()))
+                if len(body) > 15:
+                    fn_lines.append(f"{body} ({m_d.group(1)})" if m_d else body)
         else:
             fn_lines = [re.sub(r'^[•\-\*]\s*', '', l.strip()) for l in fn_raw.split('\n') if len(l.strip()) > 15]
         extracted["flash_news"] = fn_lines
 
     doc.close()
     return extracted
+
+
+def _md_chg(v: Optional[float]) -> str:
+    """A change cell: signed, or a dash where the report prints no change (SGX latest-price card)."""
+    return "—" if v is None else (f"+{v}" if v > 0 else str(v))
+
+
+def _md_num(v: Optional[float], nd: int) -> str:
+    return "—" if v is None else f"{v:.{nd}f}"
+
+
+def _md_avg(r: Dict[str, Any], nd: int) -> str:
+    """An MTD-average cell; the prior month's average (printed before a month's first quote) says so."""
+    return _md_num(r["mtd_avg"], nd) + (f" ({r['avg_period']} avg)" if r.get("avg_period") else "")
 
 
 def generate_smm_markdown(data: Dict[str, Any]) -> str:
@@ -543,8 +655,7 @@ def generate_smm_markdown(data: Dict[str, Any]) -> str:
     ]
 
     for f in data.get("futures_contracts", []):
-        chg_sign = f"+{f['change']}" if f["change"] > 0 else str(f["change"])
-        lines.append(f"| {f['exchange']} | {f['contract']} | {f['price']:.2f} | {f['unit']} | {chg_sign} | {f['change_pct']} | {f['mtd_avg']:.2f} |")
+        lines.append(f"| {f['exchange']} | {f['contract']} | {f['price']:.2f} | {f['unit']} | {_md_chg(f['change'])} | {f['change_pct'] or '—'} | {_md_num(f['mtd_avg'], 2)} |")
 
     lines.extend([
         "",
@@ -555,8 +666,7 @@ def generate_smm_markdown(data: Dict[str, Any]) -> str:
     ])
 
     for idx in data.get("smm_price_index_summary", []):
-        chg_sign = f"+{idx['change']}" if idx["change"] > 0 else str(idx["change"])
-        lines.append(f"| {idx['index_name']} | {idx['market_type']} | {idx['fe_content']}% | {idx['price']:.2f} | {idx['unit']} | {chg_sign} | {idx['change_pct']} | {idx['mtd_avg']:.2f} |")
+        lines.append(f"| {idx['index_name']} | {idx['market_type']} | {idx['fe_content']}% | {idx['price']:.2f} | {idx['unit']} | {_md_chg(idx['change'])} | {idx['change_pct'] or '—'} | {_md_num(idx['mtd_avg'], 2)} |")
 
     # Key View
     kv = data.get("key_view", {})
@@ -592,8 +702,7 @@ def generate_smm_markdown(data: Dict[str, Any]) -> str:
             "|:---|:---:|:---:|:---:|:---:|:---:|:---:|"
         ])
         for r in qd_cny:
-            chg_sign = f"+{r['change']}" if r["change"] > 0 else str(r["change"])
-            lines.append(f"| {r['product']} | {r['fe_pct']}% | {r['product_type']} | {r['price_yuan_wmt']:.1f} | {chg_sign} | {r['change_pct']} | {r['mtd_avg']:.1f} |")
+            lines.append(f"| {r['product']} | {r['fe_pct']}% | {r['product_type']} | {r['price_yuan_wmt']:.1f} | {_md_chg(r['change'])} | {r['change_pct']} | {_md_avg(r, 1)} |")
 
     # Imported Ore USD Table
     imp_usd = data.get("imported_ore_usd_prices", [])
@@ -606,8 +715,20 @@ def generate_smm_markdown(data: Dict[str, Any]) -> str:
             "|:---|:---:|:---:|:---:|:---:|:---:|:---:|"
         ])
         for r in imp_usd:
-            chg_sign = f"+{r['change']}" if r["change"] > 0 else str(r["change"])
-            lines.append(f"| {r['product']} | {r['fe_pct']}% | {r['product_type']} | {r['price_usd_dmt']:.2f} | {chg_sign} | {r['change_pct']} | {r['mtd_avg']:.2f} |")
+            lines.append(f"| {r['product']} | {r['fe_pct']}% | {r['product_type']} | {r['price_usd_dmt']:.2f} | {_md_chg(r['change'])} | {r['change_pct']} | {_md_avg(r, 2)} |")
+
+    # Seaborne brand prices (CFR Qingdao, quoted on their own date)
+    sb = data.get("seaborne_brand_usd", [])
+    if sb:
+        lines.extend([
+            "",
+            f"## Seaborne Brand Prices in USD (CFR Qingdao, USD/dry mt, as of {sb[0]['price_date']})",
+            "",
+            "| Product | Price (USD/dmt) | Daily Change | Daily Change % | Previous |",
+            "|:---|:---:|:---:|:---:|:---:|"
+        ])
+        for r in sb:
+            lines.append(f"| {r['product']} | {r['price_usd_dmt']:.2f} | {_md_chg(r['change'])} | {r['change_pct']} | {_md_num(r['prev_price'], 2)} |")
 
     # Index Stats Weekly / Monthly
     idx_stats = data.get("index_statistics_weekly_monthly", [])
@@ -620,7 +741,7 @@ def generate_smm_markdown(data: Dict[str, Any]) -> str:
             "|:---|:---:|:---:|:---:|:---:|"
         ])
         for r in idx_stats:
-            lines.append(f"| {r['index_name']} | {r['mtd_avg']:.2f} | {r['mom_pct']} | {r['ytd_pct']} | {r['unit']} |")
+            lines.append(f"| {r['index_name']} | {_md_avg(r, 2)} | {r['mom_pct']} | {r['ytd_pct']} | {r['unit']} |")
 
     # Key Price Drivers & Charts
     lines.extend([
@@ -799,7 +920,7 @@ def update_master_series(data: Dict[str, Any], pdf_stem: str) -> None:
             "indicator": f["contract"],
             "value": f["price"],
             "unit": f["unit"],
-            "change": f["change"],
+            "change": "" if f["change"] is None else f["change"],
             "source_file": source_file
         })
     for idx in data.get("smm_price_index_summary", []):
@@ -809,7 +930,7 @@ def update_master_series(data: Dict[str, Any], pdf_stem: str) -> None:
             "indicator": idx["index_name"],
             "value": idx["price"],
             "unit": idx["unit"],
-            "change": idx["change"],
+            "change": "" if idx["change"] is None else idx["change"],
             "source_file": source_file
         })
     kpd = data.get("key_price_drivers", {})
@@ -875,6 +996,20 @@ def update_master_series(data: Dict[str, Any], pdf_stem: str) -> None:
             "change_pct": r["change_pct"],
             "source_file": source_file
         })
+    for r in data.get("seaborne_brand_usd", []):
+        brand_rows.append({
+            "date": r["price_date"],
+            "year": r["price_date"][:4],
+            "brand": r["product"],
+            "market_type": "seaborne_brand_usd",
+            "fe_pct": r["fe_pct"],
+            "product_type": r["product_type"],
+            "price": r["price_usd_dmt"],
+            "unit": r["unit"],
+            "change": r["change"],
+            "change_pct": r["change_pct"],
+            "source_file": source_file
+        })
     p_brand = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_brands_series.csv"
     upsert_rows_to_csv(p_brand, brand_rows, ["date", "brand", "market_type"], ["date", "year", "brand", "market_type", "fe_pct", "product_type", "price", "unit", "change", "change_pct", "source_file"])
 
@@ -888,7 +1023,7 @@ def update_master_series(data: Dict[str, Any], pdf_stem: str) -> None:
             "contract": f["contract"],
             "price": f["price"],
             "unit": f["unit"],
-            "change": f["change"],
+            "change": "" if f["change"] is None else f["change"],
             "change_pct": f["change_pct"],
             "settlement": "daily",
             "source_file": source_file
@@ -899,6 +1034,8 @@ def update_master_series(data: Dict[str, Any], pdf_stem: str) -> None:
     # 5. Averages Series (Weekly / Monthly stats)
     avg_rows = []
     for s in data.get("index_statistics_weekly_monthly", []):
+        if s.get("avg_period"):     # the prior month's average, printed before the month's first quote
+            continue
         avg_rows.append({
             "date": issue_date,
             "year": year,
@@ -941,6 +1078,62 @@ def update_master_series(data: Dict[str, Any], pdf_stem: str) -> None:
         p_drv = OUT_SERIES_DIR / "hellenic_smm_market_drivers_series.csv"
         drv_fields = list(drv_row.keys())
         upsert_rows_to_csv(p_drv, [drv_row], ["date"], drv_fields)
+
+    # 7. The MMi daily series carried on. HSN's iron ore daily changed from the MMi 6-page report to this SMM page
+    # on 2026-09-14; the quotes both print continue hellenic_iron_ore_daily_series and the desk view continues
+    # hellenic_iron_ore_commentary_series. Left blank: what the page does not print (lump index, rebar/HRC, steel
+    # and 35-port stocks), SGX once the card shows the current-month contract (not the most-traded one), freight
+    # (the page quotes it for an earlier date) and a closed market's carried-over quote.
+    continue_mmi_series(data)
+
+
+def _upsert_by_date(csv_path: Path, rows: List[Dict[str, Any]], add_only: bool = False) -> None:
+    """Replace (or with add_only, only add) rows keyed on the first column, keeping header, BOM and line ending."""
+    raw = csv_path.read_bytes()
+    bom = raw.startswith(b"\xef\xbb\xbf")
+    nl = "\r\n" if raw.split(b"\n", 1)[0].endswith(b"\r") else "\n"
+    csv.field_size_limit(10 ** 9)
+    table = list(csv.reader(io.StringIO(raw.decode("utf-8-sig"), newline="")))
+    hdr, body = table[0], [r for r in table[1:] if r]
+    new = {r[hdr[0]]: [("" if r.get(c) is None else str(r[c])) for c in hdr] for r in rows}
+    if add_only:
+        have = {r[0] for r in body}
+        new = {k: v for k, v in new.items() if k not in have}
+    body = sorted([r for r in body if r[0] not in new] + list(new.values()), key=lambda r: r[0])
+    out = io.StringIO()
+    csv.writer(out, lineterminator=nl).writerows([hdr] + body)
+    tmp = csv_path.with_suffix(".csv.tmp")     # write-then-replace: in-place rewrites hit OSError 22 on Windows
+    tmp.write_bytes((b"\xef\xbb\xbf" if bom else b"") + out.getvalue().encode("utf-8"))
+    os.replace(tmp, csv_path)
+
+
+def continue_mmi_series(data: Dict[str, Any]) -> None:
+    meta = data["metadata"]
+    d, src = meta["issue_date"], meta["source_file"]
+    live = {i["index_name"]: i for i in data.get("smm_price_index_summary", [])
+            if "Holiday" not in (i["change_pct"] or "") and not i.get("closed_note")}
+    fut = {f["contract"].rsplit(" ", 1)[0] if f["exchange"] == "DCE" else f["contract"]: f
+           for f in data.get("futures_contracts", [])
+           if "Holiday" not in (f["change_pct"] or "") and not f.get("closed_note")}
+    row: Dict[str, Any] = {"date": d, "year": int(d[:4]), "month": int(d[5:7]), "benchmark_fe_grade": 61.0,
+                           "source_file": src, "commentary": data.get("key_view", {}).get("body", "")}
+    for name, col, chg in (("MMi 61% Port Spot", "iopi_bench_rmb_wmt", "iopi_bench_chg_rmb"),
+                           ("MMi 65% Port Spot", "iopi65_rmb_wmt", "iopi65_chg_rmb"),
+                           ("MMi 58% Port Spot", "iopi58_rmb_wmt", "iopi58_chg_rmb"),
+                           ("MMi 61% Seaborne Index", "iosi_bench_usd_dmt", "iosi_bench_chg_usd"),
+                           ("MMi 65% Seaborne Index", "iosi65_usd_dmt", "iosi65_chg_usd")):
+        if name in live:
+            row[col], row[chg] = live[name]["price"], live[name]["change"]
+    if "DCE Iron Ore Most-traded" in fut:
+        row["dce_iron_ore_rmb_t"], row["dce_chg_rmb"] = fut["DCE Iron Ore Most-traded"]["price"], fut["DCE Iron Ore Most-traded"]["change"]
+    if "SGX Iron Ore Most-traded" in fut:
+        row["sgx_iron_ore_usd_dmt"], row["sgx_chg_usd"] = fut["SGX Iron Ore Most-traded"]["price"], fut["SGX Iron Ore Most-traded"]["change"]
+    if len(row) > 6:
+        _upsert_by_date(OUT_SERIES_DIR / "hellenic_iron_ore_daily_series.csv", [row])
+    if row["commentary"]:
+        _upsert_by_date(OUT_SERIES_DIR / "hellenic_iron_ore_commentary_series.csv",
+                        [{"issue_date": d, "commentary": row["commentary"], "source_file": src}],
+                        add_only=True)     # 2026-09-14..21 came from the issue's HTML page; kept as they are
 
 
 def process_single_smm_report(pdf_path: Path) -> Dict[str, Any]:

@@ -238,7 +238,13 @@ def process_single_date(date_iso: str, pdf_candidates: list) -> dict:
     try:
         doc = pymupdf.open(best_pdf)
         p1_txt = doc[0].get_text("text")[:300]
-        
+
+        # the SMM 1-page daily that replaced the MMi report on 2026-09-14 has its own parser and series
+        # (run_smm_iron_ore_daily.py); read here it gave rows of page dumps in the commentary column
+        if "SMM" in p1_txt and len(doc) == 1:
+            doc.close()
+            return {"date": date_iso, "error": "skipped: SMM 1-page daily (run_smm_iron_ore_daily.py)", "success": False}
+
         if "SMM" in p1_txt:
             record = parse_smm_report(doc, best_pdf.name, date_iso)
         else:

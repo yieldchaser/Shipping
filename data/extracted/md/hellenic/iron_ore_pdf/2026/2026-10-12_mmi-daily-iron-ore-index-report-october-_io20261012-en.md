@@ -22,6 +22,7 @@ pipeline_version: "smm_v1_complete"
 
 | Exchange | Contract | Price | Unit | Daily Change | Daily Change % | MTD Avg |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|
+| SGX | SGX Iron Ore Current-month FEFV26 | 90.75 | USD/dmt | — | — | — |
 | DCE | DCE Iron Ore Most-traded I2701 | 683.00 | yuan/mt | +0.5 | +0.07% | 682.70 |
 
 ## SMM Iron Ore Price Index (Physical & Benchmark Indices)
@@ -47,6 +48,47 @@ Today’s market showed a seaborne recovery alongside softer port prices rather 
 - All 12 seaborne brand quotations rose. Against the Oct 9 report, PB Fines were USD 90.10/dmt (+0.67%), Newman Fines 89.20 (+0.62%) and Mac Fines 89.40 (+0.62%). Increases ranged from USD 0.55 to 0.60/dmt, but the durability of the rebound still depends on buying demand.
 - Domestic futures edged higher while spot brands diverged. DCE most-traded I2701 closed at 683.0 yuan/mt, up 0.5 yuan (+0.07%) from Oct 9. Qingdao PB Fines at 648 and Newman Fines at 651 yuan/wmt each fell 2 yuan; Mac Fines rose 2 yuan to 652, Carajas Fines rose 1 yuan to 831, and PB Lump fell 11 yuan to 834.
 - The second coke price cut took effect, with the demand response still in focus. SMM’s Oct 12 coke briefing confirmed a second-round purchase-price reduction effective from midnight that day: 100 yuan/mt for wet- quenched and 110 yuan/mt for dry-quenched coke. This offers cost relief, but mills continued buying mainly to immediate needs and ore trading support still requires improvement.
+
+## Qingdao Port Imported Ore Spot Prices (yuan/wet mt, tax incl.)
+
+| Product | Fe % | Type | Price (yuan/wmt) | Daily Change | Daily Change % | MTD Avg |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| PB Fines 60.8% | 60.8% | Fines | 648.0 | -2.0 | -0.31% | 650.0 |
+| Newman Fines 61.2% | 61.2% | Fines | 651.0 | -2.0 | -0.31% | 652.0 |
+| Mac Fines 60.8% | 60.8% | Fines | 652.0 | +2.0 | +0.31% | 651.0 |
+| BRBF 62.5% | 62.5% | Fines | 698.0 | -2.0 | -0.29% | 701.0 |
+| Newman Lump 63% | 63.0% | Lump | 843.0 | -2.0 | -0.24% | 844.0 |
+| Super Special Fines (SSF) 56.5% | 56.5% | Fines | 510.0 | -2.0 | -0.39% | 512.0 |
+| Carajas Fines (IOCJ) 65% | 65.0% | Fines | 831.0 | +1.0 | +0.12% | 830.0 |
+| PB Lump 61.5% | 61.5% | Lump | 834.0 | -11.0 | -1.30% | 842.0 |
+
+## Seaborne Brand Prices in USD (CFR Qingdao, USD/dry mt, as of 2026-10-12)
+
+| Product | Price (USD/dmt) | Daily Change | Daily Change % | Previous |
+|:---|:---:|:---:|:---:|:---:|
+| Roy Hill Fines 62% | 86.50 | +0.6 | +0.70% | 85.90 |
+| SIMEC Fines 61% | 88.05 | +0.6 | +0.69% | 87.45 |
+| PB Fines 62% | 90.10 | +0.6 | +0.67% | 89.50 |
+| Newman Fines 60.7% | 89.20 | +0.55 | +0.62% | 88.65 |
+| Mac Fines 60.5% | 89.40 | +0.55 | +0.62% | 88.85 |
+| Jimblebar Fines 60.30% | 85.30 | +0.6 | +0.71% | 84.70 |
+| Carajas Fines (IOCJ) 65% | 106.50 | +0.6 | +0.57% | 105.90 |
+| SSFT / SSFG 60% | 96.60 | +0.6 | +0.62% | 96.00 |
+| Brazilian Blend Fines (BRBF) 64% | 96.65 | +0.6 | +0.62% | 96.05 |
+| RTX Fines 61% | 85.05 | +0.6 | +0.71% | 84.45 |
+| West Pilbara Fines (WPF) 60% | 89.45 | +0.55 | +0.62% | 88.90 |
+| SP10 Fines 59%-60% | 78.70 | +0.6 | +0.77% | 78.10 |
+
+## SMM Iron Ore Price Index — Weekly / Monthly Statistics
+
+| Index Name | Month-to-date Avg | MoM % | YTD % | Unit |
+|:---|:---:|:---:|:---:|:---:|
+| SMM MMi 61% Iron Ore Seaborne Index | 91.20 | -5.50% | -15.2% | USD/dmt |
+| SMM MMi 65% Iron Ore Seaborne Index | 110.22 | -3.68% | -9.8% | USD/dmt |
+| SMM MMi 61% Iron Ore Port Spot Index | 663.00 | -4.22% | -18.7% | yuan/wmt |
+| SMM MMi 65% Iron Ore Port Spot Index | 827.00 | -1.54% | -8.3% | yuan/wmt |
+| SMM MMi 58% Iron Ore Port Spot Index | 625.00 | -3.41% | -13.4% | yuan/wmt |
+| SMM China Domestic Ore Composite Price Index | 823.19 | -1.83% | -7.3% | yuan/mt |
 
 ## Key Price Drivers (12-Month Charts & Operational Metrics)
 
@@ -126,6 +168,15 @@ Concentrate supply may recover as some operations resume after holiday maintenan
 - SMM reported limited enquiries, needs-based mill buying and thin trading.
 - Weak end-user demand may constrain the transmission of cost relief to purchasing.
 - Surveyed domestic mine output fell while stocks rose, indicating pressure on sales support.
+
+## Flash News Briefs
+
+- [SMM Iron Ore] Coke price cuts fail to lift iron ore buying as prices stay low (2026-10-12)
+- [SMM Coking Coal and Coke Daily Briefing] 20261012 (2026-10-12)
+- [SMM Steel] Vietnam HRC Buyers Shift to Domestic Supply as Import Trading Slows (2026-10-12)
+- [SMM Steel] Indian HRC Export Interest Remains Subdued; Domestic Demand Supports Prices (2026-10-12)
+- [SMM Steel] India Steel Prices Fall Amid Subdued Trading (2026-10-12)
+- [SMM Steel] Indonesian Wire Rod Slips $3/mt to $502 FOB as Major Mill Cuts Price to Defend Market Share (2026-10-12)
 
 ---
 *(c) 2026 Shanghai Metals Market (SMM) · Iron Ore Value-Chain Data & Research*

@@ -50,6 +50,14 @@ CLOSED = {   # closed by design: name -> reason
     "clarksons_snp_sales_series": "Hellenic shipbuilding channel, superseded 2026-08 (clarksons_sales_series)",
     "compare_vs_clarksons_snp_sales_series": "comparison artefact of the superseded channel",
     "compare_vs_clarksons_sales_series": "comparison artefact",
+    # HSN replaced the MMi 6-page daily with the SMM 1-page daily on 2026-09-14; these tables are MMi-only (the
+    # SMM page continues in hellenic_iron_ore_pdf_{dashboard,indices,futures,brands,averages}, smm_market_drivers,
+    # and carries on hellenic_iron_ore_daily / _commentary)
+    **{f"hellenic_iron_ore_pdf_{t}_series": "MMi 6-page report, replaced by the SMM 1-page daily 2026-09-14"
+       for t in ("brand_specs", "domestic_concentrate", "freight_rates", "import_volumes", "index_comparisons",
+                 "normalisations", "port_differentials", "port_inventories", "spreads", "steel_mill_pnl", "steel")},
+    "hellenic_iron_ore_table_series": "MMi 6-page report, replaced by the SMM 1-page daily 2026-09-14",
+    "hellenic_capesize_c3_c5_series": "MMi 6-page report, replaced by the SMM 1-page daily 2026-09-14",
 }
 OCCASIONAL = {   # printed only in some issues: name -> reason
     "poten_top_charterers_series": "table in some opinions only",

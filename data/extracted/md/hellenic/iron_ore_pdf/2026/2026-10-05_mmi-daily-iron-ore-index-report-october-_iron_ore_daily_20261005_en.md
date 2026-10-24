@@ -77,6 +77,23 @@ On the fourth session of the holiday China remained dark across the board, but t
 | Super Special Fines (SSF) 57% | 57.0% | Fines | 71.55 | 0.0 | 0.00% (Holiday) | 73.54 |
 | Indian Fines 57% | 57.0% | Fines | 66.98 | 0.0 | 0.00% (Holiday) | 69.18 |
 
+## Seaborne Brand Prices in USD (CFR Qingdao, USD/dry mt, as of 2026-10-02)
+
+| Product | Price (USD/dmt) | Daily Change | Daily Change % | Previous |
+|:---|:---:|:---:|:---:|:---:|
+| Carajas Fines (IOCJ) | 109.45 | -2.55 | -2.28% | 112.00 |
+| Brazilian Blend Fines | 99.60 | -1.75 | -1.73% | 101.35 |
+| Brazilian SSF | 99.30 | -1.5 | -1.49% | 100.80 |
+| PB Fines | 92.55 | -0.7 | -0.75% | 93.25 |
+| West Pilbara Fines (WPF) | 91.90 | -0.55 | -0.59% | 92.45 |
+| Mac Fines | 91.85 | -0.45 | -0.49% | 92.30 |
+| Newman Fines | 91.75 | -0.55 | -0.60% | 92.30 |
+| SIMEC Fines | 90.50 | -0.1 | -0.11% | 90.60 |
+| Roy Hill Fines | 88.95 | -0.65 | -0.73% | 89.60 |
+| Jimblebar Blended Fines | 87.85 | -0.05 | -0.06% | 87.90 |
+| RTX Fines | 87.15 | 0.0 | 0.00% | 87.15 |
+| SP10 Fines | 80.10 | +1.55 | +1.97% | 78.55 |
+
 ## SMM Iron Ore Price Index — Weekly / Monthly Statistics
 
 | Index Name | Month-to-date Avg | MoM % | YTD % | Unit |

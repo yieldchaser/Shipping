@@ -22,6 +22,7 @@ pipeline_version: "smm_v1_complete"
 
 | Exchange | Contract | Price | Unit | Daily Change | Daily Change % | MTD Avg |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|
+| SGX | SGX Iron Ore Current-month FEFV26 | 90.55 | USD/dmt | — | — | — |
 | DCE | DCE Iron Ore Most-traded I2701 | 669.00 | yuan/mt | -12.5 | -1.83% | 678.00 |
 
 ## SMM Iron Ore Price Index (Physical & Benchmark Indices)
@@ -31,6 +32,9 @@ pipeline_version: "smm_v1_complete"
 | MMi 61% Port Spot | port_spot | 61.0% | 656.00 | yuan/wmt | -5.0 | -0.76% | 659.00 |
 | MMi 58% Port Spot | port_spot | 58.0% | 611.00 | yuan/wmt | -6.0 | -0.97% | 618.00 |
 | MMi 65% Port Spot | port_spot | 65.0% | 815.00 | yuan/wmt | -5.0 | -0.61% | 820.00 |
+| MMi 61% Seaborne Index | seaborne | 61.0% | 88.60 | USD/dmt | -1.8 | -1.99% | 90.45 |
+| MMi 65% Seaborne Index | seaborne | 65.0% | 106.25 | USD/dmt | -1.15 | -1.07% | 108.96 |
+| SMM Domestic Ore Composite Index | domestic_composite | 66.0% | 796.81 | yuan/mt | -24.77 | -3.01% | 818.50 |
 
 ## Key View
 
@@ -44,6 +48,47 @@ Today’s decline extended across domestic futures, port spot and seaborne marke
 - Seaborne index declines widened and all brand quotations fell. The 61% index was USD 88.60/dmt, down 1.80 (-1.99%), and the 65% was 106.25, down 1.15 (-1.07%). All 12 brands declined against the Oct 21 report; PB Fines were 88.90, Newman Fines 88.05 and Mac Fines 88.35 USD/dmt.
 - Port indices declined as the grade spread widened slightly. The 61%, 58% and 65% port indices were 656, 611 and 815 yuan/wmt, down 5, 6 and 5 yuan. The 65%-58% spread widened from 203 to 204 yuan/wmt.
 - Improved production coexists with softer prices. Surveyed daily hot metal output was 2.3584 million mt on Oct 21, up 6,400 mt from the previous period; the blast furnace operating rate rose 0.13 percentage point to 87.16%. Stronger baseline consumption did not prevent today’s quotation declines, keeping sustained purchases and stock absorption in focus.
+
+## Qingdao Port Imported Ore Spot Prices (yuan/wet mt, tax incl.)
+
+| Product | Fe % | Type | Price (yuan/wmt) | Daily Change | Daily Change % | MTD Avg |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| PB Fines 60.8% | 60.8% | Fines | 639.0 | -9.0 | -1.39% | 646.0 |
+| Newman Fines 61.2% | 61.2% | Fines | 639.0 | -9.0 | -1.39% | 648.0 |
+| Mac Fines 60.8% | 60.8% | Fines | 646.0 | -9.0 | -1.37% | 650.0 |
+| BRBF 62.5% | 62.5% | Fines | 692.0 | -9.0 | -1.28% | 698.0 |
+| Newman Lump 63% | 63.0% | Lump | 829.0 | -9.0 | -1.07% | 839.0 |
+| Super Special Fines (SSF) 56.5% | 56.5% | Fines | 501.0 | -9.0 | -1.76% | 508.0 |
+| Carajas Fines (IOCJ) 65% | 65.0% | Fines | 814.0 | -9.0 | -1.09% | 825.0 |
+| PB Lump 61.5% | 61.5% | Lump | 819.0 | -9.0 | -1.09% | 833.0 |
+
+## Seaborne Brand Prices in USD (CFR Qingdao, USD/dry mt, as of 2026-10-22)
+
+| Product | Price (USD/dmt) | Daily Change | Daily Change % | Previous |
+|:---|:---:|:---:|:---:|:---:|
+| Roy Hill Fines 62% | 85.50 | -1.8 | -2.06% | 87.30 |
+| SIMEC Fines 61% | 87.20 | -1.8 | -2.02% | 89.00 |
+| PB Fines 62% | 88.90 | -1.8 | -1.98% | 90.70 |
+| Newman Fines 60.7% | 88.05 | -1.8 | -2.00% | 89.85 |
+| Mac Fines 60.5% | 88.35 | -1.8 | -2.00% | 90.15 |
+| Jimblebar Fines 60.30% | 85.60 | -1.45 | -1.67% | 87.05 |
+| Carajas Fines (IOCJ) 65% | 104.90 | -1.8 | -1.69% | 106.70 |
+| SSFT / SSFG 60% | 95.90 | -1.8 | -1.84% | 97.70 |
+| Brazilian Blend Fines (BRBF) 64% | 95.45 | -1.8 | -1.85% | 97.25 |
+| RTX Fines 61% | 84.55 | -1.4 | -1.63% | 85.95 |
+| West Pilbara Fines (WPF) 60% | 88.60 | -1.8 | -1.99% | 90.40 |
+| SP10 Fines 59%-60% | 78.35 | -1.45 | -1.82% | 79.80 |
+
+## SMM Iron Ore Price Index — Weekly / Monthly Statistics
+
+| Index Name | Month-to-date Avg | MoM % | YTD % | Unit |
+|:---|:---:|:---:|:---:|:---:|
+| SMM MMi 61% Iron Ore Seaborne Index | 90.45 | -6.28% | -16.4% | USD/dmt |
+| SMM MMi 65% Iron Ore Seaborne Index | 108.96 | -4.78% | -12.4% | USD/dmt |
+| SMM MMi 61% Iron Ore Port Spot Index | 659.00 | -4.78% | -19.3% | yuan/wmt |
+| SMM MMi 65% Iron Ore Port Spot Index | 820.00 | -2.30% | -9.3% | yuan/wmt |
+| SMM MMi 58% Iron Ore Port Spot Index | 618.00 | -4.48% | -14.9% | yuan/wmt |
+| SMM China Domestic Ore Composite Price Index | 818.50 | -2.39% | -10.1% | yuan/mt |
 
 ## Key Price Drivers (12-Month Charts & Operational Metrics)
 
@@ -65,6 +110,7 @@ Today’s decline extended across domestic futures, port spot and seaborne marke
 |:---|:---:|:---:|
 | C3 Freight (Brazil to China) | 32.28 | USD/mt |
 | Daily Avg Hot Metal Output (242 Mills) | 2.3584 | Million MT |
+| Iron Ore Port Inventory (10 Major Ports) | 104.0212 | Million MT |
 | Global Iron Ore Shipments (Weekly) | 32.5276 | Million MT |
 | Chinese Port Arrivals (Weekly) | 24.5464 | Million MT |
 
@@ -121,6 +167,15 @@ SMM expects Tangshan concentrate prices to remain soft and range-bound near term
 - Both seaborne indices and all 12 brand quotations weakened.
 - Existing port stocks still require persistent collections for absorption.
 - Higher freight may reduce cost advantages for some cargoes.
+
+## Flash News Briefs
+
+- [SMM Iron Ore] Anglo American draws down stocks to hold sales; iron ore futures, spot weaker (2026-10-22)
+- [Brief Comment on China Iron Ore] Iron ore prices in the Tangshan region are likely to consolidate on a subdued note (2026-10-22)
+- [SMM Coking Coal and Coke Daily Brief] 20261022 (2026-10-22)
+- [SMM Steel] Indian Domestic Steel Prices Remain unchanged (2026-10-22)
+- [SMM Steel] Indian HRC Export Prices Flat; Billet Holds at 490–510USD/tonne FOB (2026-10-22)
+- [SMM Steel] Indonesian HRC Flat at $515/mt FOB Amid Low Local Demand, Price Pressure Builds in Vietnam (2026-10-22)
 
 ---
 *(c) 2026 Shanghai Metals Market (SMM) · Iron Ore Value-Chain Data & Research*
