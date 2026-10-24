@@ -933,7 +933,10 @@ def _continue_open_table(memory: dict[Any, Any], page: pymupdf.Page, page_no: in
     first_line = [w for w in body if abs(w.y0 - first_y) <= 12]
     key = int(cfg.get("key_column", 0))
     kv = re.compile(cfg.get("key_value_pattern", KEY_VALUE_DEFAULT))
-    if len(first_line) > CONTINUATION_MAX_LINE_WORDS or not any(
+    # a table row spans staggered baselines (engine above, class below: Clarksons 2026-10-16 p3), so the prose
+    # guard counts the words of each printed line in the window, not the window
+    widest = max(sum(abs(v.y0 - w.y0) <= 2 for v in first_line) for w in first_line)
+    if widest > CONTINUATION_MAX_LINE_WORDS or not any(
             geo["bounds"][key] <= w.cx < geo["bounds"][key + 1] and kv.match(w.text) for w in first_line):
         return None
     anchor = (geo["hx0"], top - 12, geo["hx1"], top - 2)
